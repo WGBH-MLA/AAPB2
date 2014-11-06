@@ -39,5 +39,10 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'blacklight'
-
+gem 'solrizer'
 gem "jettywrapper", "~> 1.7"
+
+gem 'rspec'
+
+gem 'pry'
+gem 'pry-nav'
