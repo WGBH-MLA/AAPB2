@@ -1,0 +1,6 @@
+solr/data/*
+logs/*.log
+.DS_Store
+tmp
+solr-webapp
+solr/*-core

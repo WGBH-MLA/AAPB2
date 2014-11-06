@@ -1,0 +1,41 @@
+#!/bin/bash
+
+SOLR_VERSION=$1
+TMP_DIR=tmp
+SOLR_LIB_DIR=solr/lib
+SOLR_DIR=$TMP_DIR/solr-$SOLR_VERSION
+
+mkdir -p $TMP_DIR
+
+(
+cd $TMP_DIR
+if [ ! -e solr-$SOLR_VERSION.tgz ]; then
+  curl -O http://mirror.cc.columbia.edu/pub/software/apache/lucene/solr/$SOLR_VERSION/solr-$SOLR_VERSION.tgz
+fi
+
+if [ ! -e solr-$SOLR_VERSION ]; then
+  echo "Extracting!"
+  tar -xzf solr-$SOLR_VERSION.tgz
+fi
+);
+
+
+if [ ! -e $SOLR_DIR ]; then
+  echo "Can't find solr!";
+  exit 1;
+fi
+
+cp -f $SOLR_DIR/dist/solr-$SOLR_VERSION.war webapps/solr.war
+
+rm -rf $SOLR_LIB_DIR
+mkdir $SOLR_LIB_DIR
+mkdir $SOLR_LIB_DIR/contrib
+
+for lib in analysis-extras clustering langid extraction; do
+  
+  if [ -e $SOLR_DIR/dist/solr-$lib-$SOLR_VERSION.jar ]; then
+    cp $SOLR_DIR/dist/solr-$lib-$SOLR_VERSION.jar $SOLR_LIB_DIR
+  fi
+  cp -R $SOLR_DIR/contrib/$lib $SOLR_LIB_DIR/contrib
+done
+echo $SOLR_VERSION > VERSION
