@@ -502,33 +502,13 @@
    <field name="timestamp" type="date" indexed="true" stored="true" default="NOW" multiValued="false"/>
    <!-- default, catch all search field -->
    <field name="text" type="text" indexed="true" stored="false" multiValued="true"/>
-   
-   <!-- these display fields are NOT multi-valued -->
-   <field name="marc_display" type="string" indexed="false" stored="true" multiValued="false"/>
-   <field name="title_display" type="string" indexed="false" stored="true" multiValued="false"/>
-   <field name="title_vern_display" type="string" indexed="false" stored="true" multiValued="false"/>
-   <field name="subtitle_display" type="string" indexed="false" stored="true" multiValued="false"/>
-   <field name="subtitle_vern_display" type="string" indexed="false" stored="true" multiValued="false"/>
-   <field name="author_display" type="string" indexed="false" stored="true" multiValued="false"/>
-   <field name="author_vern_display" type="string" indexed="false" stored="true" multiValued="false"/>
-   
-   <!-- these fields are also used for display, so they must be stored -->
-   <field name="isbn_t" type="text" indexed="true" stored="true" multiValued="true"/>
-   <field name="language_facet" type="string" indexed="true" stored="true" multiValued="true" />
-   <field name="subject_topic_facet" type="string" indexed="true" stored="true" multiValued="true" />
-   <field name="subject_era_facet" type="string" indexed="true" stored="true" multiValued="true" />
-   <field name="subject_geo_facet" type="string" indexed="true" stored="true" multiValued="true" />
-   <!-- pub_date is used for facet and display so it must be indexed and stored -->
-   <field name="pub_date" type="string" indexed="true" stored="true" multiValued="true"/>
-   <!-- pub_date sort uses new trie-based int fields, which are recommended for any int and are displayable, sortable, and range-quer
-   we use 'tint' for faster range-queries. -->
-   <field name="pub_date_sort" type="tint" indexed="true" stored="true" multiValued="false"/>
-     
    <!-- format is used for facet, display, and choosing which partial to use for the show view, so it must be stored and indexed -->
    <field name="format" type="string" indexed="true" stored="true"/>
-
    
-
+   <dynamicField name="*_tesim"  type="text"  indexed="true"  stored="true" multiValued="true"/>
+   <dynamicField name="*_ssm"  type="string"    indexed="false"  stored="true" multiValued="false"/>
+   <dynamicField name="*_bsi"  type="boolean"    indexed="true"  stored="true" multiValued="false"/>
+   
    <!-- Dynamic field definitions.  If a field name is not found, dynamicFields
         will be used if the name matches any of the patterns.
         RESTRICTION: the glob-like pattern in the name attribute must have
@@ -536,6 +516,7 @@
         EXAMPLE:  name="*_i" will match any field ending in _i (like myid_i, z_i)
         Longer patterns will be matched first.  if equal size patterns
         both match, the first appearing in the schema will be used.  -->
+   <!--
    <dynamicField name="*_i"  type="int"    indexed="true"  stored="true"/>
    <dynamicField name="*_s"  type="string"  indexed="true"  stored="true"/>
    <dynamicField name="*_l"  type="long"   indexed="true"  stored="true"/>
@@ -544,14 +525,18 @@
    <dynamicField name="*_b"  type="boolean" indexed="true"  stored="true"/>
    <dynamicField name="*_f"  type="float"  indexed="true"  stored="true"/>
    <dynamicField name="*_d"  type="double" indexed="true"  stored="true"/>
+   -->
 
    <!-- Type used to index the lat and lon components for the "location" FieldType -->
+   <!--
    <dynamicField name="*_coordinate"  type="tdouble" indexed="true"  stored="false"/>
 
    <dynamicField name="*_dt" type="date"    indexed="true"  stored="true"/>
    <dynamicField name="*_p"  type="location" indexed="true" stored="true"/>
-
+   -->
+   
    <!-- some trie-coded dynamic fields for faster range queries -->
+   <!--
    <dynamicField name="*_ti" type="tint"    indexed="true"  stored="true"/>
    <dynamicField name="*_tl" type="tlong"   indexed="true"  stored="true"/>
    <dynamicField name="*_tf" type="tfloat"  indexed="true"  stored="true"/>
@@ -570,6 +555,7 @@
    <dynamicField name="*_sort" type="alphaOnlySort" indexed="true" stored="false" multiValued="false" />
    <dynamicField name="*_unstem_search" type="text_general" indexed="true" stored="false" multiValued="true" />
    <dynamicField name="*spell" type="textSpell" indexed="true" stored="false" multiValued="true" />
+   -->
 
    <!-- uncomment the following to ignore any fields that don't already match an existing 
         field name or dynamic field, rather than reporting them as an error. 
@@ -596,51 +582,32 @@
    <!-- Copy Fields -->
         
    <!-- unstemmed fields -->
+   <!--
    <copyField source="title_t" dest="title_unstem_search"/>
-   <copyField source="subtitle_t" dest="subtitle_unstem_search"/>
-   <copyField source="title_addl_t" dest="title_addl_unstem_search"/>
-   <copyField source="title_added_entry_t" dest="title_added_entry_unstem_search"/>
-   <copyField source="title_series_t" dest="title_series_unstem_search"/>
-   <copyField source="author_t" dest="author_unstem_search"/>
-   <copyField source="author_addl_t" dest="author_addl_unstem_search"/>
-   <copyField source="subject_t" dest="subject_unstem_search"/>
-   <copyField source="subject_addl_t" dest="subject_addl_unstem_search"/>
-   <copyField source="subject_topic_facet" dest="subject_topic_unstem_search"/>
+   ...
+   -->
    
    <!-- sort fields -->
+   <!--
    <copyField source="pub_date" dest="pub_date_sort"/>
-   
+   ...
+   -->
         
    <!-- spellcheck fields -->
    <!-- default spell check;  should match fields for default request handler -->
    <!-- it won't work with a copy of a copy field -->
+   <!--
    <copyField source="*_t" dest="spell"/>
    <copyField source="*_facet" dest="spell"/>
-   <!-- title spell check;  should match fields for title request handler -->
-   <copyField source="title_t" dest="title_spell"/>
-   <copyField source="subtitle_t" dest="title_spell"/>
-   <copyField source="addl_titles_t" dest="title_spell"/>
-   <copyField source="title_added_entry_t" dest="title_spell"/>
-   <copyField source="title_series_t" dest="title_spell"/>
-   <!-- author spell check; should match fields for author request handler -->
-   <copyField source="author_t" dest="author_spell"/>
-   <copyField source="author_addl_t" dest="author_spell"/>
-   <!-- subject spell check; should match fields for subject request handler -->
-   <copyField source="subject_topic_facet" dest="subject_spell"/>
-   <copyField source="subject_t" dest="subject_spell"/>
-   <copyField source="subject_addl_t" dest="subject_spell"/>  
+   ...
+   -->
+
    
    <!-- OpenSearch query field should match request handler search fields -->
+   <!--
    <copyField source="title_t" dest="opensearch_display"/>
-   <copyField source="subtitle_t" dest="opensearch_display"/>
-   <copyField source="addl_titles_t" dest="opensearch_display"/>
-   <copyField source="title_added_entry_t" dest="opensearch_display"/>
-   <copyField source="title_series_t" dest="opensearch_display"/>
-   <copyField source="author_t" dest="opensearch_display"/>
-   <copyField source="author_addl_t" dest="opensearch_display"/>
-   <copyField source="subject_topic_facet" dest="opensearch_display"/>
-   <copyField source="subject_t" dest="opensearch_display"/>
-   <copyField source="subject_addl_t" dest="opensearch_display"/>  
+   ...
+   -->  
 
 
    <!-- Above, multiple source fields are copied to the [text] field. 
@@ -648,7 +615,7 @@
 	  destination field is to use the dynamic field syntax. 
 	  copyField also supports a maxChars to copy setting.  -->
 	   
-   <!-- <copyField source="*_t" dest="text" maxChars="3000"/> -->
+   <copyField source="*_tesim" dest="text"/>
 
    <!-- copy name to alphaNameSort, a field designed for sorting by name -->
    <!-- <copyField source="name" dest="alphaNameSort"/> -->
