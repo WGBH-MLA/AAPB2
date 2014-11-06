@@ -76,16 +76,18 @@ class PBCore
 #  end
 
   def to_solr
-    doc = {}
-    (PBCore.instance_methods(false)-[:to_solr]).each do |method|
+    doc = {'id' => id}
+    Solrizer.insert_field(doc, 'xml', @xml, :displayable)
+    # '@doc.root.to_s' is pretty good, but it can't guarantee character-by-character equality to the original
+    
+    (PBCore.instance_methods(false)-[:id,:to_solr]).each do |method|
       self.send(method).tap do |value|
         if [String, TrueClass, FalseClass, Array].include?(value.class)
           Solrizer.insert_field(doc, method, self.send(method), :stored_searchable) 
         end
       end
     end
-    Solrizer.insert_field(doc, 'xml', @xml, :displayable)
-    # '@doc.root.to_s' is pretty good, but it can't guarantee character-by-character equality to the original
+    
     doc
   end
   

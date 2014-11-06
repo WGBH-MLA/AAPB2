@@ -1,8 +1,8 @@
 require 'rsolr'
-
 require_relative '../app/models/validated_pbcore'
-
 require 'date' # NameError deep in Solrizer without this.
+
+solr = RSolr.connect url: 'http://localhost:8983/solr/' # TODO: read config/solr.yml
 
 class String
   def colorize(color_code)
@@ -18,6 +18,7 @@ end
 
 failed_to_read = []
 failed_to_validate = []
+failed_to_add = []
 
 ARGV.each do |name|
   puts "Reading #{name}"
@@ -38,9 +39,17 @@ ARGV.each do |name|
     next
   end
   
-  puts pbcore.to_solr
+  begin
+    solr.add(pbcore.to_solr)
+  rescue => e
+    puts "Failed to add '#{name}': #{e.message}".red
+    failed_to_add << name
+    next
+  end
+  
 end
 
 puts "DONE"
 puts "#{failed_to_read.count} failed to load" if !failed_to_read.empty?
 puts "#{failed_to_validate.count} failed to validate" if !failed_to_validate.empty?
+puts "#{failed_to_add.count} failed to add" if !failed_to_add.empty?

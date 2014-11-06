@@ -40,6 +40,7 @@ gem 'spring',        group: :development
 
 gem 'blacklight'
 gem 'solrizer'
+gem 'rsolr'
 gem "jettywrapper", "~> 1.7"
 
 gem 'rspec'
