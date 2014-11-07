@@ -19,6 +19,7 @@ end
 failed_to_read = []
 failed_to_validate = []
 failed_to_add = []
+success = []
 
 ARGV.each do |name|
   puts "Reading #{name}"
@@ -47,9 +48,13 @@ ARGV.each do |name|
     next
   end
   
+  puts "Successfully added '#{name}' (id:#{pbcore.id})".green
+  success << name
+  
 end
 
 puts "DONE"
 puts "#{failed_to_read.count} failed to load" if !failed_to_read.empty?
 puts "#{failed_to_validate.count} failed to validate" if !failed_to_validate.empty?
 puts "#{failed_to_add.count} failed to add" if !failed_to_add.empty?
+puts "#{success.count} succeeded"

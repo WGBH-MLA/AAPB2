@@ -87,153 +87,33 @@
        -->
 
        <str name="qf">
-         title_unstem_search^100000
-         subtitle_unstem_search^50000
-         title_t^25000
-         subtitle_t^10000
-         title_addl_unstem_search^5000
-         title_addl_t^2500
-         title_added_entry_unstem_search^1500
-         title_added_entry_t^1250
-         subject_topic_unstem_search^1000
-         subject_unstem_search^750
-         subject_topic_facet^625
-         subject_t^500
-         author_unstem_search^250
-         author_addl_unstem_search^250
-         author_t^100
-         author_addl_t^50
-         subject_addl_unstem_search^250
-         subject_addl_t^50
-         title_series_unstem_search^25
-         title_series_t^10
-         isbn_t
          text
        </str>
        <str name="pf">
-         title_unstem_search^1000000
-         subtitle_unstem_search^500000
-         title_t^250000
-         subtitle_t^100000
-         title_addl_unstem_search^50000
-         title_addl_t^25000
-         title_added_entry_unstem_search^15000
-         title_added_entry_t^12500
-         subject_topic_unstem_search^10000
-         subject_unstem_search^7500
-         subject_topic_facet^6250
-         subject_t^5000
-         author_unstem_search^2500
-         author_addl_unstem_search^2500
-         author_t^1000
-         author_addl_t^500
-         subject_addl_unstem_search^2500
-         subject_addl_t^500
-         title_series_unstem_search^250
-         title_series_t^100
-         text^10
-       </str>
-       <str name="author_qf">
-         author_unstem_search^200
-         author_addl_unstem_search^50
-         author_t^20
-         author_addl_t
-       </str>
-       <str name="author_pf">
-         author_unstem_search^2000
-         author_addl_unstem_search^500
-         author_t^200
-         author_addl_t^10
-       </str>
-       <str name="title_qf">
-         title_unstem_search^50000
-         subtitle_unstem_search^25000
-         title_addl_unstem_search^10000
-         title_t^5000
-         subtitle_t^2500
-         title_addl_t^100
-         title_added_entry_unstem_search^50
-         title_added_entry_t^10
-         title_series_unstem_search^5
-         title_series_t
-       </str>
-       <str name="title_pf">
-         title_unstem_search^500000
-         subtitle_unstem_search^250000
-         title_addl_unstem_search^100000
-         title_t^50000
-         subtitle_t^25000
-         title_addl_t^1000
-         title_added_entry_unstem_search^500
-         title_added_entry_t^100
-         title_series_t^50
-         title_series_unstem_search^10
-       </str>
-       <str name="subject_qf">
-         subject_topic_unstem_search^200
-         subject_unstem_search^125
-         subject_topic_facet^100
-         subject_t^50
-         subject_addl_unstem_search^10
-         subject_addl_t
-       </str>
-       <str name="subject_pf">
-         subject_topic_unstem_search^2000
-         subject_unstem_search^1250
-         subject_t^1000
-         subject_topic_facet^500
-         subject_addl_unstem_search^100
-         subject_addl_t^10
+         text
        </str>
        
        <int name="ps">3</int>
        <float name="tie">0.01</float>
 
        <!-- NOT using marc_display because it is large and will slow things down for search results -->
-       <str name="fl">
-         id, 
-         score,
-         author_display,
-         author_vern_display, 
-         format, 
-         isbn_t, 
-         language_facet, 
-         lc_callnum_display,
-         material_type_display, 
-         published_display,
-         published_vern_display,
-         pub_date,
-         title_display,
-         title_vern_display,
-         subject_topic_facet,
-         subject_geo_facet,
-         subject_era_facet,
-         subtitle_display,
-         subtitle_vern_display,
-         url_fulltext_display,
-         url_suppl_display,
-       </str>
+       <str name="fl">*</str>
 
+       <!--
        <str name="facet">true</str>
        <str name="facet.mincount">1</str>
        <str name="facet.limit">10</str>
-       <str name="facet.field">format</str>
-       <str name="facet.field">lc_1letter_facet</str>
-       <str name="facet.field">lc_alpha_facet</str>
-       <str name="facet.field">lc_b4cutter_facet</str>
-       <str name="facet.field">language_facet</str>
-       <str name="facet.field">pub_date</str>
-       <str name="facet.field">subject_era_facet</str>
-       <str name="facet.field">subject_geo_facet</str>
-       <str name="facet.field">subject_topic_facet</str>
-       
+       -->
+       <!--<str name="facet.field">format</str>-->
+       <!--
        <str name="spellcheck">true</str>
        <str name="spellcheck.dictionary">default</str>
        <str name="spellcheck.onlyMorePopular">true</str>
        <str name="spellcheck.extendedResults">true</str>
        <str name="spellcheck.collate">false</str>
        <str name="spellcheck.count">5</str>
-
+       -->
+       
      </lst>
     <!-- In addition to defaults, "appends" params can be specified
          to identify values which should be appended to the list of
@@ -287,10 +167,11 @@
          <str>nameOfCustomComponent2</str>
        </arr>
       -->
+    <!--
     <arr name="last-components">
       <str>spellcheck</str>
     </arr>
-      
+      -->
   </requestHandler>
 
   <!-- for requests to get a single document; use id=666 instead of q=id:666 -->
@@ -303,136 +184,6 @@
     </lst>
   </requestHandler>
 
-  <!--  For Advanced Search  -->
-  <requestHandler name="advanced" class="solr.SearchHandler" >
-    <lst name="defaults">
-      <str name="defType">lucene</str>
-      <str name="echoParams">explicit</str>
-      <str name="sort">score desc, pub_date_sort desc, title_sort asc</str>   
-      <str name="df">text</str> 
-      <str name="q.op">AND</str> 
-      <str name="qs">1</str>
-
-      <!-- used for dismax query parser -->
-      <str name="mm">1</str> 
-      <str name="ps">3</str> 
-      <float name="tie">0.01</float>
-      
-      <!-- for user query terms in author text box -->
-      <str name="qf_author">
-        author_unstem_search^200
-        author_addl_unstem_search^50
-        author_t^20
-        author_addl_t
-      </str>
-      <str name="pf_author">
-        author_unstem_search^2000
-        author_addl_unstem_search^500
-        author_t^200
-        author_addl_t^10
-      </str>
-      
-      <!-- for user query terms in title text box -->
-      <str name="qf_title">
-        title_unstem_search^50000
-        subtitle_unstem_search^25000
-        title_addl_unstem_search^10000
-        title_t^5000
-        subtitle_t^2500
-        title_addl_t^100
-        title_added_entry_unstem_search^50
-        title_added_entry_t^10
-        title_series_unstem_search^5
-        title_series_t
-      </str>
-      <str name="pf_title">
-        title_unstem_search^500000
-        subtitle_unstem_search^250000
-        title_addl_unstem_search^100000
-        title_t^50000
-        subtitle_t^25000
-        title_addl_t^1000
-        title_added_entry_unstem_search^500
-        title_added_entry_t^100
-        title_series_t^50
-        title_series_unstem_search^10
-      </str>
-      
-      <!-- for user query terms in subject text box -->
-      <str name="qf_subject">
-        subject_topic_unstem_search^200
-        subject_unstem_search^125
-        subject_topic_facet^100
-        subject_t^50
-        subject_addl_unstem_search^10
-        subject_addl_t
-      </str>
-      <str name="pf_subject">
-        subject_topic_unstem_search^2000
-        subject_unstem_search^1250
-        subject_t^1000
-        subject_topic_facet^500
-        subject_addl_unstem_search^100
-        subject_addl_t^10
-      </str>
-      
-      <!-- for user query terms in number text box -->
-      <str name="qf_number">isbn_t</str>
-      
-      <!-- for user query terms in keyword text box -->
-      <str name="qf_keyword">text</str>
-      <str name="pf_keyword">text^10</str>
-      
-      <!-- NOT using marc_display because it is large and will slow things down for search results -->
-      <str name="fl">
-        id, 
-        score,
-        author_display,
-        author_vern_display, 
-        format, 
-        isbn_t, 
-        language_facet, 
-        lc_callnum_display,
-        material_type_display, 
-        published_display,
-        published_vern_display,
-        pub_date,
-        title_display,
-        title_vern_display,
-        subject_topic_facet,
-        subject_geo_facet,
-        subject_era_facet,
-        subtitle_display,
-        subtitle_vern_display,
-        url_fulltext_display,
-        url_suppl_display,
-      </str>
-      
-      <str name="facet">true</str>
-      <str name="facet.mincount">1</str>
-      <str name="facet.limit">10</str>
-      <str name="facet.field">format</str>
-      <str name="facet.field">lc_1letter_facet</str>
-      <str name="facet.field">lc_alpha_facet</str>
-      <str name="facet.field">lc_b4cutter_facet</str>
-      <str name="facet.field">language_facet</str>
-      <str name="facet.field">pub_date</str>
-      <str name="facet.field">subject_era_facet</str>
-      <str name="facet.field">subject_geo_facet</str>
-      <str name="facet.field">subject_topic_facet</str>
-      
-      <str name="spellcheck">true</str>
-      <str name="spellcheck.dictionary">subject</str>
-      <str name="spellcheck.onlyMorePopular">true</str>
-      <str name="spellcheck.extendedResults">true</str>
-      <str name="spellcheck.collate">false</str>
-      <str name="spellcheck.count">5</str>
-    </lst>
-    <arr name="last-components">
-      <str>spellcheck</str>
-    </arr>
-  </requestHandler>
-
 <!-- Spell Check
 
         The spell check component can return a list of alternative spelling
@@ -440,84 +191,7 @@
 
         http://wiki.apache.org/solr/SpellCheckComponent
      -->
-  <searchComponent name="spellcheck" class="solr.SpellCheckComponent">
-
-    <str name="queryAnalyzerFieldType">textSpell</str>
-
-    <!-- Multiple "Spell Checkers" can be declared and used by this
-         component
-      -->
-
-    <!-- a spellchecker built from a field of the main index, and
-         written to disk
-      -->
-    <lst name="spellchecker">
-      <str name="name">default</str>
-      <str name="field">spell</str>
-      <str name="spellcheckIndexDir">./spell</str>
-      <str name="buildOnOptimize">true</str>
-    </lst>
-    <lst name="spellchecker">
-      <str name="name">author</str>
-      <str name="field">author_spell</str>
-      <str name="spellcheckIndexDir">./spell_author</str>
-      <str name="accuracy">0.7</str>
-      <str name="buildOnOptimize">true</str>
-    </lst>
-    <lst name="spellchecker">
-      <str name="name">subject</str>
-      <str name="field">subject_spell</str>
-      <str name="spellcheckIndexDir">./spell_subject</str>
-      <str name="accuracy">0.7</str>
-      <str name="buildOnOptimize">true</str>
-    </lst>
-    <lst name="spellchecker">
-      <str name="name">title</str>
-      <str name="field">title_spell</str>
-      <str name="spellcheckIndexDir">./spell_title</str>
-      <str name="accuracy">0.7</str>
-      <str name="buildOnOptimize">true</str>
-    </lst>
-
-    <!-- a spellchecker that uses a different distance measure -->
-    <!--
-       <lst name="spellchecker">
-         <str name="name">jarowinkler</str>
-         <str name="field">spell</str>
-         <str name="distanceMeasure">
-           org.apache.lucene.search.spell.JaroWinklerDistance
-         </str>
-         <str name="spellcheckIndexDir">spellcheckerJaro</str>
-       </lst>
-     -->
-
-    <!-- a spellchecker that use an alternate comparator 
-
-         comparatorClass be one of:
-          1. score (default)
-          2. freq (Frequency first, then score)
-          3. A fully qualified class name
-      -->
-    <!--
-       <lst name="spellchecker">
-         <str name="name">freq</str>
-         <str name="field">lowerfilt</str>
-         <str name="spellcheckIndexDir">spellcheckerFreq</str>
-         <str name="comparatorClass">freq</str>
-         <str name="buildOnCommit">true</str>
-      -->
-
-    <!-- A spellchecker that reads the list of words from a file -->
-    <!--
-       <lst name="spellchecker">
-         <str name="classname">solr.FileBasedSpellChecker</str>
-         <str name="name">file</str>
-         <str name="sourceLocation">spellings.txt</str>
-         <str name="characterEncoding">UTF-8</str>
-         <str name="spellcheckIndexDir">spellcheckerFile</str>
-       </lst>
-      -->
-  </searchComponent>
+  <!--<searchComponent>-->
 
 </config>
 
