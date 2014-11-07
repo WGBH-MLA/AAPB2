@@ -2,38 +2,7 @@ require 'spec_helper'
 
 describe 'Validated and plain PBCore' do
 
-  pbc_xml = <<-EOXML
-    <pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
-      <pbcoreAssetType>Documentary</pbcoreAssetType>
-      <pbcoreAssetDate>2000-01-01</pbcoreAssetDate>
-      <pbcoreIdentifier source="http://americanarchiveinventory.org">1234</pbcoreIdentifier>
-      <pbcoreIdentifier source="somewhere else">5678</pbcoreIdentifier>
-      <pbcoreTitle titleType="series">NOVA</pbcoreTitle>
-      <pbcoreTitle titleType="program">Gratuitous Explosions</pbcoreTitle>
-      <pbcoreDescription>Best episode ever!</pbcoreDescription>
-      <pbcoreGenre>Horror</pbcoreGenre>
-      <pbcoreGenre>Musical</pbcoreGenre>
-      <pbcoreRightsSummary>
-        <rightsEmbedded>
-          <AAPB_RIGHTS_CODE>PUBLIC</AAPB_RIGHTS_CODE>
-        </rightsEmbedded>
-      </pbcoreRightsSummary>
-      <pbcoreInstantiation>
-        <instantiationIdentifier source="foo">ABC</instantiationIdentifier>
-        <instantiationLocation>my closet</instantiationLocation>
-        <instantiationMediaType>Sound</instantiationMediaType>
-        <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
-      </pbcoreInstantiation>
-      <pbcoreInstantiation>
-        <instantiationIdentifier source="bar">ABC</instantiationIdentifier>
-        <instantiationLocation>under the bed</instantiationLocation>
-        <instantiationMediaType>Moving Image</instantiationMediaType>
-        <instantiationGenerations>Proxy</instantiationGenerations>
-      </pbcoreInstantiation>
-      <pbcoreAnnotation annotationType="organization">WGBH</pbcoreAnnotation>
-    </pbcoreDescriptionDocument>
-  EOXML
-  .strip
+  pbc_xml = File.read('spec/fixtures/mock.xml')
   
   describe ValidatedPBCore do
 
