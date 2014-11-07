@@ -1,5 +1,5 @@
 require 'nokogiri'
-require_relative 'pbcore'
+require_relative 'pb_core'
 
 class ValidatedPBCore < PBCore
   @@schema = Nokogiri::XML::Schema(File.read('lib/pbcore-2.0.xsd'))

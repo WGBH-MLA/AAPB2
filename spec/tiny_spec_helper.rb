@@ -3,6 +3,6 @@ require 'pry' # TODO only for dev
 require 'pry-nav'
 
 # TODO: autoloading
-require_relative '../app/models/pbcore'
-require_relative '../app/models/validated_pbcore'
+require_relative '../app/models/pb_core'
+require_relative '../app/models/validated_pb_core'
 require_relative '../app/models/organization'
