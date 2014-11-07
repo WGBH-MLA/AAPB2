@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'tiny_spec_helper'
 
 describe Organization do
   

@@ -38,6 +38,12 @@ GEM
     bootstrap-sass (3.3.0.1)
       sass (~> 3.2)
     builder (3.2.2)
+    capybara (2.3.0)
+      mime-types (>= 1.16)
+      nokogiri (>= 1.3.3)
+      rack (>= 1.0.0)
+      rack-test (>= 0.5.4)
+      xpath (~> 2.0)
     childprocess (0.5.5)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.0)
@@ -125,6 +131,14 @@ GEM
       rspec-support (~> 3.1.0)
     rspec-mocks (3.1.3)
       rspec-support (~> 3.1.0)
+    rspec-rails (3.1.0)
+      actionpack (>= 3.0)
+      activesupport (>= 3.0)
+      railties (>= 3.0)
+      rspec-core (~> 3.1.0)
+      rspec-expectations (~> 3.1.0)
+      rspec-mocks (~> 3.1.0)
+      rspec-support (~> 3.1.0)
     rspec-support (3.1.2)
     sass (3.2.19)
     sass-rails (4.0.4)
@@ -169,12 +183,15 @@ GEM
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     xml-simple (1.1.4)
+    xpath (2.0.0)
+      nokogiri (~> 1.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   blacklight
+  capybara
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jettywrapper (~> 1.7)
@@ -184,6 +201,7 @@ DEPENDENCIES
   rails (= 4.1.2)
   rsolr
   rspec
+  rspec-rails
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   solrizer

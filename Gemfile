@@ -44,6 +44,8 @@ gem 'rsolr'
 gem "jettywrapper", "~> 1.7"
 
 gem 'rspec'
+gem 'rspec-rails'
+gem 'capybara'
 
 gem 'pry'
 gem 'pry-nav'

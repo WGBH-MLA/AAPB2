@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'tiny_spec_helper'
 
 describe 'Validated and plain PBCore' do
 
