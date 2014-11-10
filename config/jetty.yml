@@ -3,7 +3,8 @@ development:
   jetty_port: 8983
 test:
   startup_wait: 60
-  jetty_port: <%= ENV['TEST_JETTY_PORT'] || 8888 %>
+  jetty_port: <%= ENV['TEST_JETTY_PORT'] || 8983 %>
+  <%# TODO: Get separate dev and test cores, and change this back to 8888. bug #1 %>
   <%= ENV['TEST_JETTY_PATH'] ? "jetty_home: " + ENV['TEST_JETTY_PATH'] : '' %>
 production:
   startup_wait: 15

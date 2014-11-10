@@ -14,6 +14,6 @@ development:
   url: <%= ENV['SOLR_URL'] || "http://127.0.0.1:8983/solr" %>
 test: &test
   url: <%= "http://127.0.0.1:#{ENV['TEST_JETTY_PORT'] || 8983}/solr" %>
-  <%# TODO: Get separate dev and test cores, and change this back to 8888 %>
+  <%# TODO: Get separate dev and test cores, and change this back to 8888. bug #1 %>
 production:
   url: <%= ENV['SOLR_URL'] || "http://127.0.0.1:8983/solr" %>
