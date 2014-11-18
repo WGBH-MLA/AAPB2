@@ -1,0 +1,46 @@
+# Samples contents of zip files.
+
+require 'zip'
+
+class Unzipper
+  include Enumerable
+  
+  def initialize(skip=100, blob='/Volumes/dept/MLA/American_Archive/Website/AMS/ams_pbcore_export_zipped/*.zip', log=STDERR)
+    raise "'skip' must be integer > 0, not #{skip}" unless skip.to_i > 0
+    @skip = skip.to_i
+    @blob = blob
+    @log = log
+  end
+  
+  def each
+    count = 0
+    Dir[@blob].each do |zip_path|
+      zip_base = File.basename zip_path
+      @log.puts "\nunzipping #{zip_base}..."
+
+      Zip::File.open(zip_path) do |zip_file|
+        zip_file.each do |entry|
+          if count % @skip == 0
+            @log.puts "\n#{count}: reading #{entry.name} from #{zip_base}"
+            yield entry.get_input_stream.read
+          else
+            @log.print '.'
+          end
+          count += 1
+        end
+      end
+    end
+  end
+  
+end
+
+if __FILE__ == $0
+  if ARGV.count != 1
+    abort "Expects one argument, not #{ARGV.count}"
+  end
+  
+  unzipper = Unzipper.new(ARGV[0])
+  unzipper.each do |content|
+    puts content
+  end
+end
