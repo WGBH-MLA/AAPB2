@@ -2,7 +2,7 @@ require 'tiny_spec_helper'
 
 describe 'Validated and plain PBCore' do
 
-  pbc_xml = File.read('spec/fixtures/mock.xml')
+  pbc_xml = File.read('spec/fixtures/pbcore/mock.xml')
   
   describe ValidatedPBCore do
 
