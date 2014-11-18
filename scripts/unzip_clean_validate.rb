@@ -10,7 +10,11 @@ if __FILE__ == $0
   unzipper = Unzipper.new(ARGV[0])
   unzipper.each do |dirty_xml|
     clean_xml = Cleaner.clean(dirty_xml)
-    pbcore = ValidatedPBCore.new(clean_xml)
-    puts "VALID: #{pbcore.id}"
+    begin
+      pbcore = ValidatedPBCore.new(clean_xml)
+      puts "VALID: #{pbcore.id}"
+    rescue => e
+      abort "This isn't clean enough:\nBEFORE:#{dirty_xml}\nAFTER:\n#{clean_xml}\n#{e}"
+    end
   end
 end
