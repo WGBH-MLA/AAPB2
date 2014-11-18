@@ -7,4 +7,4 @@ before_script:
   - bundle exec rake jetty:start
   - JETTY='http://127.0.0.1:8983'
   - for X in {1..1000}; do sleep 1; curl $JETTY && break; done
-  - . ./scripts/load_pbcore.rb spec/fixtures
+  - ruby scripts/load_pbcore.rb spec/fixtures/pbcore
