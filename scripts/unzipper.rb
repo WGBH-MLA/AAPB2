@@ -20,7 +20,7 @@ class Unzipper
 
       Zip::File.open(zip_path) do |zip_file|
         zip_file.each do |entry|
-          if count % @skip == 0
+          if count % @skip == 0 && entry.name.match(/\.xml$/)
             @log.puts "\n#{count}: reading #{entry.name} from #{zip_base}"
             yield entry.get_input_stream.read
           else
