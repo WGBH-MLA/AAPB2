@@ -30,6 +30,7 @@ class Unzipper
         end
       end
     end
+    raise "Expected at least one zipped file in #{@blob}" if count == 0
   end
   
 end
