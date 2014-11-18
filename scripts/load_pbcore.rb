@@ -1,5 +1,5 @@
 require 'rsolr'
-require_relative '../app/models/validated_pbcore'
+require_relative '../app/models/validated_pb_core'
 require 'date' # NameError deep in Solrizer without this.
 
 solr = RSolr.connect url: 'http://localhost:8983/solr/' # TODO: read config/solr.yml
