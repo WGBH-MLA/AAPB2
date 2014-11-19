@@ -10,14 +10,15 @@ module Cleaner
     }
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation').first.previous_sibling =
-      REXML::Document.new ('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
+      REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
                           'ON_LOCATION_ONLY' +
                           '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
     
-    #formatter = Formatters::Pretty.new(2)
-    #formatter.compact = true
-    #formatter.write(xml, $stdout)
-    doc.to_s
+    formatter = REXML::Formatters::Pretty.new(2)
+    formatter.compact = true
+    output = []
+    formatter.write(doc, output)
+    output.join('')
   end
   
 end
