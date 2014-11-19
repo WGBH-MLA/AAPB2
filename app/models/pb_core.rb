@@ -12,7 +12,7 @@ class PBCore
   def asset_type
     @asset_type ||= xpath('pbcoreAssetType') 
   rescue NoMatchError
-    nil # We want to distinguish empty string from no value in source data
+    nil # We want to distinguish an empty string from no value in source data
   end
   def asset_date
     @asset_date ||= xpath('pbcoreAssetDate') 

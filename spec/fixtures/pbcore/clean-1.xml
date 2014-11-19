@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreIdentifier source='WERU Prog List'>WRF028</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/301-60cvdtx8</pbcoreIdentifier>
+  <pbcoreTitle titleType='series'>Writers Forum</pbcoreTitle>
+  <pbcoreTitle titleType='program'>WRF-09/13/07</pbcoreTitle>
+  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcoreGenre source='WERU Genre Picklist'>Readings</pbcoreGenre>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WERU Prog List'>WRF028</instantiationIdentifier>
+    <instantiationPhysical>CD</instantiationPhysical>
+    <instantiationLocation>WERU Archives - CD Shelves</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>00:55:49</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-03 01:50:55</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WERU-FM (WERU Community Radio)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
