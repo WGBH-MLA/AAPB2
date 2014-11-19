@@ -5,6 +5,10 @@ module Cleaner
   def self.clean(dirty_xml)
     doc = REXML::Document.new(dirty_xml)
     
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier[not(@source)]').each { |node|
+      node.attributes['source'] = 'unknown'
+    }
+    
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreTitle').each { |node|
       node.attributes['titleType'] = node.attributes['titleType'].downcase
     }
