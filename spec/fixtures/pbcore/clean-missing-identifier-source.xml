@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Segment</pbcoreAssetType>
+  <pbcoreIdentifier source='WXPN'>Larry Kane</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>John Lennon</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/155-17crjgpf</pbcoreIdentifier>
+  <pbcoreTitle titleType='program'>World Cafe</pbcoreTitle>
+  <pbcoreTitle titleType='segment'>Larry Kane On John Lennon 2005</pbcoreTitle>
+  <pbcoreSubject source='PBS'>MUSIC</pbcoreSubject>
+  <pbcoreSubject>Interview</pbcoreSubject>
+  <pbcoreDescription>ACROSS THE UNIVERSE</pbcoreDescription>
+  <pbcoreGenre>Interview</pbcoreGenre>
+  <pbcoreGenre source='AACIP-IVL-Genre'>Performance</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>WXPN</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WXPN Barcode'>015415</instantiationIdentifier>
+    <instantiationIdentifier source='WXPN Label'>Copy 2</instantiationIdentifier>
+    <instantiationDate dateType='created'>2005-10-06</instantiationDate>
+    <instantiationDate dateType='issued'>2005-12-08</instantiationDate>
+    <instantiationPhysical>CD-R</instantiationPhysical>
+    <instantiationLocation>Remote</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master: edited</instantiationGenerations>
+    <instantiationDuration>00:13:35</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-18 00:33:34</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WXPN-FM</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
