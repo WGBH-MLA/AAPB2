@@ -22,7 +22,12 @@ class Unzipper
         zip_file.each do |entry|
           if count % @skip == 0 && entry.name.match(/\.xml$/)
             @log.puts "\n#{count}: reading #{entry.name} from #{zip_base}"
-            yield entry.get_input_stream.read
+            content = entry.get_input_stream.read
+            if content.match(/^<\?[^>]*>\s*<premis/)
+              @log.puts "#{entry.name} is premis xml. skipping."
+            else
+              yield content
+            end
           else
             @log.print '.'
           end
