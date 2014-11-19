@@ -10,12 +10,16 @@ class PBCore
     @doc = REXML::Document.new xml
   end
   def asset_type
-    @asset_type ||= xpath('pbcoreAssetType')
+    @asset_type ||= xpath('pbcoreAssetType') 
+  rescue NoMatchError
+    nil # We want to distinguish empty string from no value in source data
   end
   def asset_date
     @asset_date ||= xpath('pbcoreAssetDate') 
     # TODO figure out formats
     # TODO maybe filter by @dateType?
+  rescue NoMatchError
+    nil
   end
   def titles
     @titles ||= xpaths('pbcoreTitle')
@@ -92,10 +96,13 @@ class PBCore
   end
   
   private
+
+  class NoMatchError < StandardError
+  end
   def xpath(xpath)
     REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/'+xpath).tap do |matches|
       if matches.length != 1
-        raise "Expected 1 match for '#{xpath}'; got #{matches.length}"
+        raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
         return matches.first.text
       end

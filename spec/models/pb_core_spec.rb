@@ -59,8 +59,8 @@ describe 'Validated and plain PBCore' do
         expect{empty_pbc.media_type}.to raise_error('Unexpected media types: []')
       end
 
-      it 'errors if no asset_type' do
-        expect{empty_pbc.asset_type}.to raise_error("Expected 1 match for 'pbcoreAssetType'; got 0")
+      it 'nil if no asset_type' do
+        expect(empty_pbc.asset_type).to eq(nil)
       end
 
     end

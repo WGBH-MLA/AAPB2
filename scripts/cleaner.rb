@@ -1,10 +1,16 @@
-require_relative '../app/models/validated_pb_core'
+#require 'rexml/document'
 
 module Cleaner
+  
   def self.clean(dirty_xml)
-    # TODO
-    clean_xml = dirty_xml
-    clean_xml
+    #doc = Document.new(dirty_xml)
+    #doc.root[1,0] = Element.new "pbcoreAssetType" # TODO: default value?
+    
+    #formatter = Formatters::Pretty.new(2)
+    #formatter.compact = true
+    #formatter.write(xml, $stdout)
+    #doc.to_s
+    dirty_xml
   end
 end
 
