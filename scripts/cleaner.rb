@@ -26,7 +26,8 @@ module Cleaner
     formatter.compact = true
     output = []
     formatter.write(doc, output)
-    output.join('')
+    output.join('').gsub(/<\?xml version='1\.0' encoding='UTF-8'\?>\s*/, '')
+    # XML declaration seems to be output with trailing space. Just stripping it should be fine.
   end
   
 end
