@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Segment</pbcoreAssetType>
+  <pbcoreIdentifier source="WXPN Barcode">Howard Kramer</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/155-451g1rsx</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">World Cafe</pbcoreTitle>
+  <pbcoreTitle titleType="Segment">Howard Kramer 2004</pbcoreTitle>
+  <pbcoreSubject>Interview</pbcoreSubject>
+  <pbcoreSubject source="PBS">MUSIC</pbcoreSubject>
+  <pbcoreDescription>Rock and Roll Hall of Fame 2004</pbcoreDescription>
+  <pbcoreGenre>Interview</pbcoreGenre>
+  <pbcoreGenre source="AACIP-IVL-Genre">Performance</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>WXPN</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreInstantiation>
+    <instantiationIdentifier>008147</instantiationIdentifier>
+    <instantiationDate dateType="created">2004-03-05</instantiationDate>
+    <instantiationPhysical>CD-R</instantiationPhysical>
+    <instantiationLocation>Closet</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>00:50:00</instantiationDuration>
+    <instantiationAnnotation annotationType="Alternate Generation">Master: raw</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="last_modified">2013-06-18 00:41:06</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WXPN-FM</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

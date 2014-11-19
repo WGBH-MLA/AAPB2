@@ -9,6 +9,10 @@ module Cleaner
       node.attributes['source'] = 'unknown'
     }
     
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationIdentifier[not(@source)]').each { |node|
+      node.attributes['source'] = 'unknown'
+    }
+    
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreTitle').each { |node|
       node.attributes['titleType'] = node.attributes['titleType'].downcase
     }
