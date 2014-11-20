@@ -16,17 +16,17 @@ if __FILE__ == $0
   unzipper = Unzipper.new(ARGV[0])
   cleaner = Cleaner.new
   
-  unzipper.each do |dirty_xml|
+  unzipper.each do |dirty_xml, name|
     begin
-      clean_xml = cleaner.clean(dirty_xml)
+      clean_xml = cleaner.clean(dirty_xml, name)
     rescue => e
-      abort "Cleaner died:\n#{dirty_xml}\n#{e.short}"
+      abort "Cleaner died:\n#{dirty_xml}\n#{e.short}\nCleaner report:\n#{cleaner.report.join}"
     end
     
     begin
       pbcore = ValidatedPBCore.new(clean_xml)
     rescue => e
-      abort "ValidatedPBCore died:\nBEFORE:#{dirty_xml}\nAFTER:\n#{clean_xml}\n#{e.short}"
+      abort "ValidatedPBCore died:\nBEFORE:#{dirty_xml}\nAFTER:\n#{clean_xml}\n#{e.short}\nCleaner report:\n#{cleaner.report.join}"
     end
     
     puts "VALID: #{pbcore.id}"

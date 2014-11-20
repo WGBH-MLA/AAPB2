@@ -2,21 +2,21 @@ require 'rexml/document'
 
 class Cleaner
   
+  attr_reader :report
+  
   def initialize
     # For now, report seems like something that will be used on an ad-hoc basis.
     # Not planning on long-term, stable, tested behavior.
     @report = []
   end
   
-  def clean(dirty_xml, source='not given')
+  def clean(dirty_xml, name='not given')
     doc = REXML::Document.new(dirty_xml)
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
-      # doc.delete_element(node)
-      # TODO: That ought to work, but it doesn't: delete_element returns the element deleted,
-      # and the above returns nil.
-      doc.delete_element('/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]')
-    }
+    doc.delete_element('/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]')
+    # REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
+    #   doc.delete_element(node) # TODO: This doesn't work. Not sure why not.
+    # }
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier[not(@source)]').each { |node|
       node.attributes['source'] = 'unknown'

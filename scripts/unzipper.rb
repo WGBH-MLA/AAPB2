@@ -26,7 +26,7 @@ class Unzipper
             if content.match(/^<\?[^>]*>\s*<premis/)
               @log.puts "#{entry.name} is premis xml. skipping."
             else
-              yield content
+              yield content, entry.name
             end
           else
             @log.print '.'
