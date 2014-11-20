@@ -59,17 +59,11 @@ class PBCore
   end
   def media_type
     @media_type ||= begin
-      media_types = xpaths('pbcoreInstantiation/instantiationMediaType').uniq.sort
-      case media_types
-      when ['Sound']
-        'Sound'
-      when ['Moving Image']
-        'Moving Image'
-      when ['Moving Image', 'Sound']
-        'Moving Image'
-      else
-        raise "Unexpected media types: #{media_types}"
-      end
+      media_types = xpaths('pbcoreInstantiation/instantiationMediaType')
+      ['Moving Image', 'Sound', 'other'].each {|type|
+        return type if media_types.include? type
+      }
+      raise "Unexpected media types: #{media_types.uniq}"
     end
   end
   def digitized

@@ -14,18 +14,41 @@ class Cleaner
   def clean(dirty_xml, name='not given')
     doc = REXML::Document.new(dirty_xml)
     
-    doc.delete_element('/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]')
-    # REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
-    #   doc.delete_element(node) # TODO: This doesn't work. Not sure why not.
-    # }
+    # pbcoreIdentifier:
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier[not(@source)]').each { |node|
       node.attributes['source'] = 'unknown'
     }
     
-#    <instantiationIdentifier source='unknown'>unknown</instantiationIdentifier>
-#    <instantiationLocation>unknown</instantiationLocation>
-#    <instantiationMediaType>Sound</instantiationMediaType>
+    # pbcoreTitle:
+    
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreTitle)]').each {
+      # If there is a match, it's the root node, so no "node" parameter is needed.
+      REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier').last.next_sibling =
+        REXML::Document.new('<pbcoreTitle titleType="program">unknown</pbcoreTitle>')
+    }
+    
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreTitle').each { |node|
+      title_type = node.attributes['titleType']
+      node.attributes['titleType'] = title_type.match(/series|program/i) ?
+        title_type.downcase : 'other'
+    }
+    
+    # pbcoreCoverage:
+    
+    doc.delete_element('/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]')
+    # REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
+    #   doc.delete_element(node) # TODO: This doesn't work. Not sure why not.
+    # }
+    
+    # pbcoreRightsSummary:
+    
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation').first.previous_sibling =
+      REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
+                          'ON_LOCATION_ONLY' +
+                          '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
+    
+    # pbcoreInstantiation:
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationIdentifier)]').each { |node|
       node[0,0] = REXML::Element.new('instantiationIdentifier')
@@ -35,22 +58,17 @@ class Cleaner
       node.attributes['source'] = 'unknown'
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreTitle').each { |node|
-      title_type = node.attributes['titleType']
-      node.attributes['titleType'] = title_type.match(/series|program/i) ?
-        title_type.downcase : 'other'
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationLocation)]').each { |node|
+      REXML::XPath.match(node, 'instantiationIdentifier|instantiationDate|instantiationDimensions|instantiationPhysical|instantiationDigital|instantiationStandard').last.next_sibling =
+        REXML::Element.new('instantiationLocation')
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreTitle)]').each {
-      # If there is a match, it's the root node, so no "node" parameter is needed.
-      REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier').last.next_sibling =
-        REXML::Document.new('<pbcoreTitle titleType="program">unknown</pbcoreTitle>')
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationMediaType)]').each { |node|
+      REXML::XPath.match(node, 'instantiationLocation').last.next_sibling =
+        REXML::Element.new('instantiationMediaType').tap{|el| el.text='other'}
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation').first.previous_sibling =
-      REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
-                          'ON_LOCATION_ONLY' +
-                          '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
+    # formatting:
     
     formatter = REXML::Formatters::Pretty.new(2)
     formatter.compact = true
