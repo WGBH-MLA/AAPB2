@@ -30,7 +30,7 @@ class Cleaner
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreTitle').each { |node|
       title_type = node.attributes['titleType']
-      node.attributes['titleType'] = title_type.match(/series|program/i) ?
+      node.attributes['titleType'] = title_type && title_type.match(/series|program/i) ? 
         title_type.downcase : 'other'
     }
     
@@ -40,6 +40,12 @@ class Cleaner
     # REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
     #   doc.delete_element(node) # TODO: This doesn't work. Not sure why not.
     # }
+    
+    # TODO: this is a rare problem: consider adding a check in the XPath?
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage/coverageType').each { |node|
+      node.text = node.text.capitalize
+    }
+    
     
     # pbcoreRightsSummary:
     

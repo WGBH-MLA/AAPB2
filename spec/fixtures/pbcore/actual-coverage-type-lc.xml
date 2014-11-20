@@ -1,0 +1,37 @@
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Element</pbcoreAssetType>
+  <pbcoreIdentifier source="Maryland Public Television">18037</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/394-62f7m6kq</pbcoreIdentifier>
+  <pbcoreTitle titleType="Element">MSOM Field Tape - BUG 12</pbcoreTitle>
+  <pbcoreDescription>MSOM Field Tape - BUG 11
+C. Miller part 2</pbcoreDescription>
+  <pbcoreGenre>Newsmagazine</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>Local</coverage>
+    <coverageType>spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCreator>
+    <creator>Maryland Public Television</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>University System of Maryland</contributor>
+    <contributorRole>Co-Producer</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>Maryland Public Television</publisher>
+    <publisherRole>Copyright Holder</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="Maryland Public Television">18037</instantiationIdentifier>
+    <instantiationPhysical>Betacam</instantiationPhysical>
+    <instantiationLocation>CE Tape Cabinet 4 - 18037</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>00:30:00?</instantiationDuration>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType="date created">11/1999</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="last_modified">2013-06-17 14:09:28</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Maryland Public Television</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
