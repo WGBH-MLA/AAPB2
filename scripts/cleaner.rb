@@ -1,4 +1,5 @@
 require 'rexml/document'
+require 'pry'
 
 class Cleaner
   
@@ -20,6 +21,14 @@ class Cleaner
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier[not(@source)]').each { |node|
       node.attributes['source'] = 'unknown'
+    }
+    
+#    <instantiationIdentifier source='unknown'>unknown</instantiationIdentifier>
+#    <instantiationLocation>unknown</instantiationLocation>
+#    <instantiationMediaType>Sound</instantiationMediaType>
+    
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationIdentifier)]').each { |node|
+      node[0,0] = REXML::Element.new('instantiationIdentifier')
     }
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationIdentifier[not(@source)]').each { |node|
