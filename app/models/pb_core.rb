@@ -26,6 +26,7 @@ class PBCore
   end
   def title
     @title ||= begin
+      # TODO: If a titleType is repeated, we just pick one arbitrarily.
       titles = Hash[
         REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreTitle').map { |node|
           [
@@ -35,7 +36,7 @@ class PBCore
         } 
       ]
       # TODO: get the right order.
-      titles['program'] || titles['series'] || raise("Unexpected title types: #{titles.keys}")
+      titles['program'] || titles['series'] || titles['other'] || raise("Unexpected title types: #{titles.keys}")
     end
   end
   def genre
