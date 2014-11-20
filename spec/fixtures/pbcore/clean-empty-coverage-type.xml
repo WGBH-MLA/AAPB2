@@ -1,0 +1,34 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Segment</pbcoreAssetType>
+  <pbcoreIdentifier source='WXPN Barcode'>7006</pbcoreIdentifier>
+  <pbcoreIdentifier source='WXPN'>Martin Luther King, Jr.</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/155-859cp21j</pbcoreIdentifier>
+  <pbcoreTitle titleType='program'>World Cafe</pbcoreTitle>
+  <pbcoreTitle titleType='segment'>1997-01-20 Sat/Mon</pbcoreTitle>
+  <pbcoreTitle titleType='segment'>Martin Luther King, Jr. 1997</pbcoreTitle>
+  <pbcoreSubject>Interview</pbcoreSubject>
+  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcoreGenre>Interview</pbcoreGenre>
+  <pbcoreGenre source='AACIP-IVL-Genre'>Performance</pbcoreGenre>
+  <pbcoreContributor>
+    <contributor>WXPN</contributor>
+    <contributorRole>Producer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WXPN Barcode'>7006</instantiationIdentifier>
+    <instantiationDate dateType='created'>1997-01-20</instantiationDate>
+    <instantiationPhysical>DAT</instantiationPhysical>
+    <instantiationLocation>Closet</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>00:50:00?</instantiationDuration>
+    <instantiationAnnotation annotationType='Alternate Generation'>Master: raw</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-18 00:28:53</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WXPN-FM</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
