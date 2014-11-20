@@ -1,0 +1,21 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/293-10wpzhr8</pbcoreIdentifier>
+  <pbcoreTitle titleType='series'>ASKC: ASK CONGRESS</pbcoreTitle>
+  <pbcoreTitle titleType='other'>#508</pbcoreTitle>
+  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcorePublisher>
+    <publisher>IND</publisher>
+    <publisherRole>Source</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='unknown'>unknown</instantiationIdentifier>
+    <instantiationDuration>00:26:46*</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 16:41:49</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WHUT-TV (Howard University Television)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
