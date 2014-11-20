@@ -19,6 +19,12 @@ module Cleaner
       node.attributes['titleType'] = node.attributes['titleType'].downcase
     }
     
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreTitle)]').each {
+      # If there is a match, it's the root node, so no "node" parameter.
+      REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier').last.next_sibling =
+        REXML::Document.new('<pbcoreTitle titleType="program">unknown</pbcoreTitle>')
+    }
+    
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation').first.previous_sibling =
       REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
                           'ON_LOCATION_ONLY' +
