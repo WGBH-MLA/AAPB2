@@ -62,6 +62,8 @@ class PBCore
       case media_types
       when ['Sound']
         'Sound'
+      when ['Moving Image']
+        'Moving Image'
       when ['Moving Image', 'Sound']
         'Moving Image'
       else
