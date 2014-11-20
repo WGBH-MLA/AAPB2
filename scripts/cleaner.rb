@@ -16,7 +16,9 @@ module Cleaner
     }
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreTitle').each { |node|
-      node.attributes['titleType'] = node.attributes['titleType'].downcase
+      title_type = node.attributes['titleType']
+      node.attributes['titleType'] = title_type.match(/series|program/i) ?
+        title_type.downcase : 'other'
     }
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreTitle)]').each {
