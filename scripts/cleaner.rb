@@ -5,6 +5,8 @@ module Cleaner
   def self.clean(dirty_xml)
     doc = REXML::Document.new(dirty_xml)
     
+    doc.delete_element('/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]')
+    
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier[not(@source)]').each { |node|
       node.attributes['source'] = 'unknown'
     }

@@ -6,6 +6,14 @@
   <pbcoreTitle titleType="Program">WRF-09/13/07</pbcoreTitle>
   <pbcoreDescription>No description available</pbcoreDescription>
   <pbcoreGenre source="WERU Genre Picklist">Readings</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>mock value which should be preserved</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCoverage>
+    <coverage>mock value which should be preserved</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
   <pbcoreInstantiation>
     <instantiationIdentifier source="WERU Prog List">WRF028</instantiationIdentifier>
     <instantiationPhysical>CD</instantiationPhysical>

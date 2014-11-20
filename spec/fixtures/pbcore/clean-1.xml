@@ -5,6 +5,14 @@
   <pbcoreTitle titleType='program'>WRF-09/13/07</pbcoreTitle>
   <pbcoreDescription>No description available</pbcoreDescription>
   <pbcoreGenre source='WERU Genre Picklist'>Readings</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>mock value which should be preserved</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCoverage>
+    <coverage>mock value which should be preserved</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
   <pbcoreRightsSummary>
     <rightsEmbedded>
       <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
