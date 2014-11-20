@@ -1,11 +1,22 @@
 require 'rexml/document'
 
-module Cleaner
+class Cleaner
   
-  def self.clean(dirty_xml)
+  def initialize
+    # For now, report seems like something that will be used on an ad-hoc basis.
+    # Not planning on long-term, stable, tested behavior.
+    @report = []
+  end
+  
+  def clean(dirty_xml, source='not given')
     doc = REXML::Document.new(dirty_xml)
     
-    doc.delete_element('/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]')
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
+      # doc.delete_element(node)
+      # TODO: That ought to work, but it doesn't: delete_element returns the element deleted,
+      # and the above returns nil.
+      doc.delete_element('/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]')
+    }
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier[not(@source)]').each { |node|
       node.attributes['source'] = 'unknown'
@@ -37,16 +48,16 @@ module Cleaner
     output = []
     formatter.write(doc, output)
     output.join('').gsub(/<\?xml version='1\.0' encoding='UTF-8'\?>\s*/, '')
-    # XML declaration seems to be output with trailing space. Just stripping it should be fine.
+    # XML declaration seems to be output with trailing space, which makes tests just a bit annoying.
+    # Just stripping it should be fine.
   end
   
 end
 
 if __FILE__ == $0
-  if ARGV.count != 1
-    abort "Expects one argument, not #{ARGV.count}"
+  cleaner = Cleaner.new
+  ARGV.each do |path|
+    dirty_xml = File.read(path)
+    puts cleaner.clean(dirty_xml)
   end
-  
-  dirty_xml = File.read(ARGV[0])
-  puts Cleaner.clean(dirty_xml)
 end

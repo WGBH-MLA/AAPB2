@@ -14,9 +14,11 @@ if __FILE__ == $0
   end
   
   unzipper = Unzipper.new(ARGV[0])
+  cleaner = Cleaner.new
+  
   unzipper.each do |dirty_xml|
     begin
-      clean_xml = Cleaner.clean(dirty_xml)
+      clean_xml = cleaner.clean(dirty_xml)
     rescue => e
       abort "Cleaner died:\n#{dirty_xml}\n#{e.short}"
     end
