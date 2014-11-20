@@ -20,7 +20,7 @@ module Cleaner
     }
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreTitle)]').each {
-      # If there is a match, it's the root node, so no "node" parameter.
+      # If there is a match, it's the root node, so no "node" parameter is needed.
       REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier').last.next_sibling =
         REXML::Document.new('<pbcoreTitle titleType="program">unknown</pbcoreTitle>')
     }

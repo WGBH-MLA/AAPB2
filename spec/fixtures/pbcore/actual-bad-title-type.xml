@@ -1,0 +1,19 @@
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Segment</pbcoreAssetType>
+  <pbcoreIdentifier source="WTVS DATABASE ID">WTVS000613</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/240-12893cp0</pbcoreIdentifier>
+  <pbcoreTitle titleType="Original">SCHEEWE ART WORKSHOP</pbcoreTitle>
+  <pbcoreDescription>TAPE 5</pbcoreDescription>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="WTVS DATABASE ID">WTVS000613</instantiationIdentifier>
+    <instantiationDate dateType="created">2007-07-10</instantiationDate>
+    <instantiationPhysical>DVCPRO</instantiationPhysical>
+    <instantiationLocation>LIBRARY SHELF 147</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>ISO reel</instantiationGenerations>
+    <instantiationDuration>01:06:00</instantiationDuration>
+    <instantiationLanguage>eng</instantiationLanguage>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="last_modified">2013-06-02 17:41:26</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Detroit Public Television (aka DPTV and WTVS)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
