@@ -1,0 +1,15 @@
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreIdentifier source="WTVS DATABASE ID">WTVS009483</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/240-07tmpw1x</pbcoreIdentifier>
+  <pbcoreDescription>#5+7</pbcoreDescription>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="WTVS DATABASE ID">WTVS009483</instantiationIdentifier>
+    <instantiationPhysical>Film: 16mm print</instantiationPhysical>
+    <instantiationLocation>OVERSIZED MEDIA TABLE 1</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>00:10:00</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="last_modified">2013-06-02 17:41:21</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Detroit Public Television (aka DPTV and WTVS)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
