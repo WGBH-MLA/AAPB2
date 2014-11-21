@@ -71,7 +71,11 @@ class Cleaner
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationMediaType)]').each { |node|
       REXML::XPath.match(node, 'instantiationLocation').last.next_sibling =
-        REXML::Element.new('instantiationMediaType').tap{|el| el.text='other'}
+        REXML::Element.new('instantiationMediaType')
+    }
+    
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]').each { |node|
+      node.text='other'
     }
     
     # formatting:

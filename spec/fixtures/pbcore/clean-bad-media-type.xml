@@ -1,0 +1,29 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/192-1937pxnq</pbcoreIdentifier>
+  <pbcoreTitle titleType='other'>Podcast Release Form</pbcoreTitle>
+  <pbcoreDescription>
+    Podcast Release Form Bajo Turbato Performers/Instruments: Chris Black,
+    Gabriel Sullivan Track Titles: 2010-02-01
+  </pbcoreDescription>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='KXC'>KXCI03022</instantiationIdentifier>
+    <instantiationDate dateType='created'>2010-02-01</instantiationDate>
+    <instantiationDigital>application/pdf</instantiationDigital>
+    <instantiationLocation>Shelf_2A_16_USB_Hard_Drive_1</instantiationLocation>
+    <instantiationMediaType>other</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationFileSize>276</instantiationFileSize>
+    <instantiationEssenceTrack>
+      <essenceTrackType>General</essenceTrackType>
+      <essenceTrackEncoding source='pdf'>pdf</essenceTrackEncoding>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='Alternate Format'>Hard Drive: USB</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-17 17:28:33</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>KXCI Community Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
