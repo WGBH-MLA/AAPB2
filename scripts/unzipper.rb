@@ -5,16 +5,17 @@ require 'zip'
 class Unzipper
   include Enumerable
   
-  def initialize(skip=100, blob='/Volumes/dept/MLA/American_Archive/Website/AMS/ams_pbcore_export_zipped/*.zip', log=STDERR)
+  def initialize(skip=100, rotate=0, blob='/Volumes/dept/MLA/American_Archive/Website/AMS/ams_pbcore_export_zipped/*.zip', log=STDERR)
     raise "'skip' must be integer > 0, not #{skip}" unless skip.to_i > 0
     @skip = skip.to_i
+    @rotate = rotate.to_i
     @blob = blob
     @log = log
   end
   
   def each
     count = 0
-    Dir[@blob].each do |zip_path|
+    Dir[@blob].rotate(-@rotate).each do |zip_path|
       zip_base = File.basename zip_path
       @log.puts "\nunzipping #{zip_base}..."
 

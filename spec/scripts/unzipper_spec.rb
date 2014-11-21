@@ -5,7 +5,7 @@ require_relative '../../scripts/unzipper'
 describe Unzipper do
   
   def unzip_sample(skip)
-    unzipper = Unzipper.new(skip, 'spec/fixtures/zip/*.zip')
+    unzipper = Unzipper.new(skip, 0, 'spec/fixtures/zip/*.zip')
     unzipper.map{|z| z}
   end
   

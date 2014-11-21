@@ -9,11 +9,11 @@ class Exception
 end
 
 if __FILE__ == $0
-  if ARGV.count != 1
-    abort "Expects one argument, not #{ARGV.count}"
+  if ARGV.count > 2
+    abort "Expects at most 2 args, not #{ARGV.count}"
   end
   
-  unzipper = Unzipper.new(ARGV[0])
+  unzipper = Unzipper.new(*ARGV)
   cleaner = Cleaner.new
   
   unzipper.each do |dirty_xml, name|
