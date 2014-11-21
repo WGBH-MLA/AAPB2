@@ -63,6 +63,7 @@ class PBCore
       ['Moving Image', 'Sound', 'other'].each {|type|
         return type if media_types.include? type
       }
+      return 'other' if media_types == [] # pbcoreInstantiation is not required, and injected it seems heavy.
       raise "Unexpected media types: #{media_types.uniq}"
     end
   end

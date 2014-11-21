@@ -46,13 +46,14 @@ class Cleaner
       node.text = node.text.capitalize
     }
     
-    
     # pbcoreRightsSummary:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation').first.previous_sibling =
-      REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreRightsSummary)]').each { |node|
+      REXML::XPath.match(node, 'pbcoreDescription|pbcoreGenre|pbcoreRelation|pbcoreCoverage|pbcoreAudienceLevel|pbcoreAudienceRating|pbcoreCreator|pbcoreContributor|pbcorePublisher').last.next_sibling =
+        REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
                           'ON_LOCATION_ONLY' +
                           '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
+    }
     
     # pbcoreInstantiation:
     

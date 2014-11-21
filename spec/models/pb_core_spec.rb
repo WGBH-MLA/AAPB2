@@ -57,8 +57,8 @@ describe 'Validated and plain PBCore' do
         expect{empty_pbc.title}.to raise_error('Unexpected title types: []')
       end
 
-      it 'errors if no media_type' do
-        expect{empty_pbc.media_type}.to raise_error('Unexpected media types: []')
+      it '"other" if no media_type' do
+        expect(empty_pbc.media_type).to eq("other")
       end
 
       it 'nil if no asset_type' do
