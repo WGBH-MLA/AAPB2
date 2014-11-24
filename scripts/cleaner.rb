@@ -11,6 +11,10 @@ class Cleaner
     @report = []
   end
   
+  def self.any(pre, list)
+    list.map{|item| pre+item}.join('|')
+  end
+  
   def clean(dirty_xml, name='not given')
     doc = REXML::Document.new(dirty_xml)
     
@@ -49,7 +53,9 @@ class Cleaner
     # pbcoreRightsSummary:
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]').each { |node|
-      REXML::XPath.match(node, 'pbcoreDescription|pbcoreGenre|pbcoreRelation|pbcoreCoverage|pbcoreAudienceLevel|pbcoreAudienceRating|pbcoreCreator|pbcoreContributor|pbcorePublisher|pbcoreRightsSummary').last.next_sibling =
+      REXML::XPath.match(node, Cleaner.any('pbcore', 
+          %w(Description Genre Relation Coverage AudienceLevel AudienceRating Creator Contributor Publisher RightsSummary))
+      ).last.next_sibling =
         REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
                           'ON_LOCATION_ONLY' +
                           '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
@@ -66,7 +72,9 @@ class Cleaner
     }
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationLocation)]').each { |node|
-      REXML::XPath.match(node, 'instantiationIdentifier|instantiationDate|instantiationDimensions|instantiationPhysical|instantiationDigital|instantiationStandard').last.next_sibling =
+      REXML::XPath.match(node, Cleaner.any('instantiation', 
+          %w(Identifier Date Dimensions Physical Digital Standard))
+      ).last.next_sibling =
         REXML::Element.new('instantiationLocation')
     }
     
