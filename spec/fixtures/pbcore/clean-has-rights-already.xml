@@ -1,0 +1,52 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreIdentifier source='KUOW Puget Sound Public Radio'>weekdayb</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/358-01bk3s1z</pbcoreIdentifier>
+  <pbcoreTitle titleType='program'>Ask Governor Chris Gregoire</pbcoreTitle>
+  <pbcoreSubject source='Internal'>Puget Sound, transportation, the economy, trade, education</pbcoreSubject>
+  <pbcoreDescription>
+    Washington State Governor Chris Gregoire joins us on Weekday this morning.
+    We will cover a range of issues with her: The Puget Sound, transportation,
+    the economy, trade and education. What questions do you have?
+  </pbcoreDescription>
+  <pbcoreGenre>News</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>Seattle WA</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCreator>
+    <creator>KUOW Puget Sound Public Radio</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcorePublisher>
+    <publisher>KUOW Puget Sound Public Radio</publisher>
+    <publisherRole>Copyright Holder</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary> 2011 KUOW Puget Sound Public Radio</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='File name'>weekdayb20061120</instantiationIdentifier>
+    <instantiationIdentifier source='KUOW Puget Sound Public Radio'>24748</instantiationIdentifier>
+    <instantiationDate dateType='issued'>2006-11-20</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationLocation>weekdayb20061120.m3u</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationFileSize>571595</instantiationFileSize>
+    <instantiationDuration>00:54:00</instantiationDuration>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationEssenceTrack>
+      <essenceTrackType>General</essenceTrackType>
+      <essenceTrackEncoding source='WAV'>WAV</essenceTrackEncoding>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='Alternate Format'>Hard Drive</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-17 17:41:40</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>KUOW Puget Sound Public Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
