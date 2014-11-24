@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreIdentifier source="Asset ID">1018184</pbcoreIdentifier>
+  <pbcoreIdentifier source="Interlochen Center for the Arts">43825000002120</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/300-23vt4h5m</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">World Youth Symphony Orchestra with Concerto Winners - Part II of II (261st program, 50th season)</pbcoreTitle>
+  <pbcoreTitle titleType="Name">World Youth Symphony Orchestra with Concerto Winners - Part II of II (261st program, 50th season)</pbcoreTitle>
+  <pbcoreDescription>Location: Interlochen Public Radio Archives</pbcoreDescription>
+  <pbcoreDescription>National Music Camp | program file no. 95</pbcoreDescription>
+  <pbcoreContributor>
+    <contributorRole>Conductor</contributorRole>
+  </pbcoreContributor>
+  <pbcoreRightsSummary>
+    <rightsSummary>This sound recording has been been produced and provided by the Interlochen Center for the Arts. Use of the sound recording requires permission from a staff member at Interlochen Center for the Arts. Copyright is held by Interlochen Center for the Arts.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Interlochen Public Radio Archives</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Original recording</instantiationGenerations>
+    <instantiationAnnotation>1977-13-08</instantiationAnnotation>
+    <instantiationAnnotation annotationType="Alternate Generation">master, original recording</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="last_modified">2013-07-11 14:42:15</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WIAA-FM</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

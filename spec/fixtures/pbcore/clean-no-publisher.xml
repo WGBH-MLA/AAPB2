@@ -1,0 +1,31 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Segment</pbcoreAssetType>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/55-644qs820</pbcoreIdentifier>
+  <pbcoreTitle titleType='other'>Dry Spell</pbcoreTitle>
+  <pbcoreDescription>
+    Content: The film is the story of a man who cannot express his emotions of
+    loss and the eventual torrent of emotion that overwhelms him because of it.
+    Written, directed and produced by Andres Garcia-Price, Dry Spell is based on
+    the 1950's short story Men Don't Cry by renowned Costa Rican novelist Fabian
+    Dobles, Garcia-Price's great uncle. Garcia-Price received permission to
+    adapt the story from his great-uncle but Dobles died before the film was
+    complete.??Aired as part of Intensity TV 113 intense Drama: on Death and
+    Dying"
+  </pbcoreDescription>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='KQED AAP'>32-2271-H;43211</instantiationIdentifier>
+    <instantiationDate dateType='created'>2000-10-02</instantiationDate>
+    <instantiationPhysical>D5</instantiationPhysical>
+    <instantiationLocation>KQED: 228C</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>00:12:49</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 06:39:31</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>KQED</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
