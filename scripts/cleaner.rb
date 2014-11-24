@@ -40,10 +40,9 @@ class Cleaner
     
     # pbcoreCoverage:
     
-    doc.delete_element('/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]')
-    # REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
-    #   doc.delete_element(node) # TODO: This doesn't work. Not sure why not.
-    # }
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
+       node.parent.elements.delete(node)
+    }
     
     # TODO: this is a rare problem: consider adding a check in the XPath?
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage/coverageType').each { |node|
