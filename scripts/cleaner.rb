@@ -38,6 +38,19 @@ class Cleaner
         title_type.downcase : 'other'
     }
     
+    # pbcoreRelation:
+    
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreRelation').each { |node|
+      if node.elements[1].name == 'pbcoreRelationIdentifier'
+        # Correct order. Not really happy with this approach.
+        id = node.elements[1]
+        type = node.elements[2]
+        node.elements.delete_all '*'
+        node.elements[1] = type
+        node.elements[2] = id
+      end
+    }
+    
     # pbcoreCoverage:
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
@@ -96,6 +109,10 @@ class Cleaner
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]').each { |node|
       node.text='other'
+    }
+    
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationLanguage').each { |node|
+      node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
     }
     
     # formatting:
