@@ -20,13 +20,15 @@ if __FILE__ == $0
     begin
       clean_xml = cleaner.clean(dirty_xml, name)
     rescue => e
-      abort "Cleaner died:\n#{dirty_xml}\n#{e.short}\nCleaner report:\n#{cleaner.report.join}"
+      puts "Cleaner died:\n#{dirty_xml}\n#{e.short}"
+      next
     end
     
     begin
       pbcore = ValidatedPBCore.new(clean_xml)
     rescue => e
-      abort "ValidatedPBCore died:\nBEFORE:#{dirty_xml}\nAFTER:\n#{clean_xml}\n#{e.short}\nCleaner report:\n#{cleaner.report.join}"
+      puts "ValidatedPBCore died:\nBEFORE:#{dirty_xml}\nAFTER:\n#{clean_xml}\n#{e.short}"
+      next
     end
     
     puts "VALID: #{pbcore.id}"
