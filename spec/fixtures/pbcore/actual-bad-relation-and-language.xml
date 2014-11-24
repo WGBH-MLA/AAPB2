@@ -1,0 +1,39 @@
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Moving Image</pbcoreAssetType>
+  <pbcoreAssetDate dateType="created">1990-07-27</pbcoreAssetDate>
+  <pbcoreIdentifier source="MAVIS Title Number">6875</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/151-2z12n4zx85</pbcoreIdentifier>
+  <pbcoreTitle titleType="Preferred Title: Container title">From Bessie Smith to Bruce Springsteen</pbcoreTitle>
+  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcoreRelation>
+    <pbcoreRelationIdentifier>6012</pbcoreRelationIdentifier>
+    <pbcoreRelationType>Contained By Title</pbcoreRelationType>
+  </pbcoreRelation>
+  <pbcoreContributor>
+    <contributor>Miles Educational Film Productions, Inc.</contributor>
+    <contributorRole>Compiler</contributorRole>
+  </pbcoreContributor>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="MAVIS Carrier Number">6875-1-1</instantiationIdentifier>
+    <instantiationIdentifier source="MAVIS Item ID">33120</instantiationIdentifier>
+    <instantiationIdentifier source="Item Number">WU 251 #1</instantiationIdentifier>
+    <instantiationLocation>RackNo: VM.1081</instantiationLocation>
+    <instantiationDuration>0:56:30</instantiationDuration>
+    <instantiationAnnotation annotationType="MINT mapping marker">Expressed as instantiationPart 1 of 1 of MAVIS Item ID:  33119</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="MAVIS Component Number">6875-1</instantiationIdentifier>
+    <instantiationIdentifier source="MAVIS Item ID">33119</instantiationIdentifier>
+    <instantiationPhysical>Format: Video Tape; Gauge: 3/4 inch</instantiationPhysical>
+    <instantiationLocation>Vault Site: Washington University Film and Media Archive (West Campus); RackNo: VM.1081</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Category: Reference copy</instantiationGenerations>
+    <instantiationDuration>0:56:30</instantiationDuration>
+    <instantiationLanguage>English</instantiationLanguage>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="last_modified">2014-08-22 23:26:39</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Film &amp; Media Archive, Washington University in St. Louis</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
