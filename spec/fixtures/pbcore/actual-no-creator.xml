@@ -1,0 +1,15 @@
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreIdentifier source="NOLA Code">NONOLA001817 [SDBA]</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/168-0966t590</pbcoreIdentifier>
+  <pbcoreTitle titleType="Series">Gvsports</pbcoreTitle>
+  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcoreCreator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcorePublisher>
+    <publisher>WGVU</publisher>
+    <publisherRole>Distributor</publisherRole>
+  </pbcorePublisher>
+  <pbcoreAnnotation annotationType="last_modified">2013-06-02 06:19:31</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WGVU Public TV &amp; Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
