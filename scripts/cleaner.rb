@@ -48,8 +48,8 @@ class Cleaner
     
     # pbcoreRightsSummary:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreRightsSummary)]').each { |node|
-      REXML::XPath.match(node, 'pbcoreDescription|pbcoreGenre|pbcoreRelation|pbcoreCoverage|pbcoreAudienceLevel|pbcoreAudienceRating|pbcoreCreator|pbcoreContributor|pbcorePublisher').last.next_sibling =
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]').each { |node|
+      REXML::XPath.match(node, 'pbcoreDescription|pbcoreGenre|pbcoreRelation|pbcoreCoverage|pbcoreAudienceLevel|pbcoreAudienceRating|pbcoreCreator|pbcoreContributor|pbcorePublisher|pbcoreRightsSummary').last.next_sibling =
         REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
                           'ON_LOCATION_ONLY' +
                           '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
