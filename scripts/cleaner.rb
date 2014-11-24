@@ -50,6 +50,18 @@ class Cleaner
       node.text = node.text.capitalize
     }
     
+    # pbcoreCreator/Contributor/Publisher:
+    
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCreator[not(creator)]').each { |node|
+      node.parent.elements.delete(node)
+    }
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreContributor[not(contributor)]').each { |node|
+      node.parent.elements.delete(node)
+    }
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcorePublisher[not(publisher)]').each { |node|
+      node.parent.elements.delete(node)
+    }
+    
     # pbcoreRightsSummary:
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]').each { |node|
