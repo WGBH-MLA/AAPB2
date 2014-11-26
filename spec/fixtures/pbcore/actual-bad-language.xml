@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Element</pbcoreAssetType>
+  <pbcoreIdentifier source="IPTV Barcode">IPTVUS-0006712</pbcoreIdentifier>
+  <pbcoreIdentifier source="NOLA">OOI</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/37-31cjt2qs</pbcoreIdentifier>
+  <pbcoreTitle titleType="Element">Dr. Norman Borlaug</pbcoreTitle>
+  <pbcoreTitle titleType="Element">B-Roll</pbcoreTitle>
+  <pbcoreSubject>Norman Borlaug</pbcoreSubject>
+  <pbcoreDescription>On Camera, Greg Alan at Farm, Part 2, Borlaug Documentary,  B-tape at Student Organic Farm. SAVE the tapes from the Norman Borlaug Documentary. Borlaug Tapes (16 Total) IPTV support footage: President Jimmy Carter Interview, Margaret "Marge" Borlaug Interview; John Denver Interview. Credit: Iowa Natural Heritage Foundation for Borlaug interview and farm b-tape. BCT-30MA</pbcoreDescription>
+  <pbcoreDescription>Norman Borlaug Documentary Raw and Work Tapes</pbcoreDescription>
+  <pbcoreGenre>Iowa</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>English</coverage>
+    <coverageType>spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="Tape Number"/>
+    <instantiationIdentifier source="Shelf Number">Bin 48 - COL5- Shelf B- Box 1 or 2</instantiationIdentifier>
+    <instantiationPhysical>Betacam SP</instantiationPhysical>
+    <instantiationLocation>20010917.0</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Original footage</instantiationGenerations>
+    <instantiationDuration>00:30:00</instantiationDuration>
+    <instantiationLanguage>20010917.0</instantiationLanguage>
+    <instantiationAnnotation annotationType="Alternate Generation">Original: footage</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="last_modified">2013-06-02 06:31:56</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Iowa Public Television</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

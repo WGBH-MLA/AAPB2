@@ -1,0 +1,40 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreIdentifier source='WPBS-TV'>Four Decades of Dedication: The 40th Anniversary Special</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/254-92g79p08</pbcoreIdentifier>
+  <pbcoreTitle titleType='sample program'>Four Decades of Dedication: The 40th Anniversary Special</pbcoreTitle>
+  <pbcoreSubject>WPBS 40 years</pbcoreSubject>
+  <pbcoreDescription>
+    "FOUR DECADES OF DEDICATION: THE 40TH ANNIVERSARY SPECIAL" producer Natasha
+    Neuroth
+  </pbcoreDescription>
+  <pbcoreGenre>Documentary</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>WPBS-TV</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>WPBS-TV</contributor>
+  </pbcoreContributor>
+  <pbcoreRightsSummary>
+    <rightsSummary>Copyright 2001, St Lawrence Valley ETV Council, INC.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='unknown'>03213</instantiationIdentifier>
+    <instantiationDate dateType='created'>2013-06-01</instantiationDate>
+    <instantiationDate dateType='issued'>2013-06-01</instantiationDate>
+    <instantiationPhysical>Betacam SP</instantiationPhysical>
+    <instantiationLocation>Edit B</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>00:26:28</instantiationDuration>
+    <instantiationAnnotation>Dub Master</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-01 16:21:33</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WPBS</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
