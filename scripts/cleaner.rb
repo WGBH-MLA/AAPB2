@@ -11,7 +11,7 @@ class Cleaner
     @report = []
   end
   
-  def clean(dirty_xml, name='not given')
+  def clean(dirty_xml)
     doc = REXML::Document.new(dirty_xml)
     
     # pbcoreIdentifier:
