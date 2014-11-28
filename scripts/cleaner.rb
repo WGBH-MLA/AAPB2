@@ -16,19 +16,19 @@ class Cleaner
     
     # pbcoreIdentifier:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier[not(@source)]').each { |node|
+    Cleaner.match(doc, '/pbcoreIdentifier[not(@source)]') { |node|
       node.attributes['source'] = 'unknown'
     }
     
     # pbcoreTitle:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreTitle)]').each {
+    Cleaner.match(doc, '[not(pbcoreTitle)]') {
       # If there is a match, it's the root node, so no "node" parameter is needed.
       REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier').last.next_sibling =
         REXML::Document.new('<pbcoreTitle titleType="program">unknown</pbcoreTitle>')
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreTitle').each { |node|
+    Cleaner.match(doc, '/pbcoreTitle') { |node|
       title_type = node.attributes['titleType']
       node.attributes['titleType'] = title_type && ['series','program'].include?(title_type.downcase) ? 
         title_type.downcase : 'other'
@@ -36,36 +36,36 @@ class Cleaner
     
     # pbcoreRelation:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreRelation').each { |node|
+    Cleaner.match(doc, '/pbcoreRelation') { |node|
       Cleaner.swap_children(node) if node.elements[1].name == 'pbcoreRelationIdentifier'
     }
     
     # pbcoreCoverage:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
+    Cleaner.match(doc, '/pbcoreCoverage[coverageType[not(node())]]') { |node|
        Cleaner.delete(node)
     }
     
     # TODO: this is a rare problem: consider adding a check in the XPath?
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage/coverageType').each { |node|
+    Cleaner.match(doc, '/pbcoreCoverage/coverageType') { |node|
       node.text = node.text.capitalize
     }
     
     # pbcoreCreator/Contributor/Publisher:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCreator[not(creator)]').each { |node|
+    Cleaner.match(doc, '/pbcoreCreator[not(creator)]') { |node|
       Cleaner.delete(node)
     }
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreContributor[not(contributor)]').each { |node|
+    Cleaner.match(doc, '/pbcoreContributor[not(contributor)]') { |node|
       Cleaner.delete(node)
     }
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcorePublisher[not(publisher)]').each { |node|
+    Cleaner.match(doc, '/pbcorePublisher[not(publisher)]') { |node|
       Cleaner.delete(node)
     }
     
     # pbcoreRightsSummary:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]').each { |node|
+    Cleaner.match(doc, '[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]') { |node|
       REXML::XPath.match(node, Cleaner.any('pbcore', 
           %w(Description Genre Relation Coverage AudienceLevel AudienceRating Creator Contributor Publisher RightsSummary))
       ).last.next_sibling =
@@ -76,31 +76,31 @@ class Cleaner
     
     # pbcoreInstantiation:
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationIdentifier)]').each { |node|
+    Cleaner.match(doc, '/pbcoreInstantiation[not(instantiationIdentifier)]') { |node|
       node[0,0] = REXML::Element.new('instantiationIdentifier')
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationIdentifier[not(@source)]').each { |node|
+    Cleaner.match(doc, '/pbcoreInstantiation/instantiationIdentifier[not(@source)]') { |node|
       node.attributes['source'] = 'unknown'
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationLocation)]').each { |node|
+    Cleaner.match(doc, '/pbcoreInstantiation[not(instantiationLocation)]') { |node|
       REXML::XPath.match(node, Cleaner.any('instantiation', 
           %w(Identifier Date Dimensions Physical Digital Standard))
       ).last.next_sibling =
         REXML::Element.new('instantiationLocation')
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation[not(instantiationMediaType)]').each { |node|
+    Cleaner.match(doc, '/pbcoreInstantiation[not(instantiationMediaType)]') { |node|
       REXML::XPath.match(node, 'instantiationLocation').last.next_sibling =
         REXML::Element.new('instantiationMediaType')
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]').each { |node|
+    Cleaner.match(doc, '/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
       node.text='other'
     }
     
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationLanguage').each { |node|
+    Cleaner.match(doc,'/pbcoreInstantiation/instantiationLanguage') { |node|
       node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
       node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
     }
@@ -117,6 +117,10 @@ class Cleaner
   end
   
   private
+  
+  def self.match(doc, xpath_fragment)
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument'+xpath_fragment).each { |node| yield node }
+  end
   
   def self.any(pre, list)
     list.map{|item| pre+item}.join('|')
