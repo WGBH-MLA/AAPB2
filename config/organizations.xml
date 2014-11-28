@@ -1,0 +1,1327 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Sadie Roosa</Author>
+  <LastAuthor>WGBH</LastAuthor>
+  <Created>2014-11-06T16:52:44Z</Created>
+  <LastSaved>2014-11-28T19:38:13Z</LastSaved>
+  <Company>WGBH</Company>
+  <Version>14.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11780</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ActiveSheet>1</ActiveSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s39">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s40">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="aapb_contributing_organization_">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="125" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s39" ss:DefaultColumnWidth="65"
+   ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="344"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="155"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="127"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="115"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="220"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="395"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="363"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="99"/>
+   <Row ss:StyleID="s40">
+    <Cell><Data ss:Type="String">value from pbcoreAnnotation @annotationType=&quot;organization&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Full display name</Data></Cell>
+    <Cell><Data ss:Type="String">State</Data></Cell>
+    <Cell><Data ss:Type="String">City</Data></Cell>
+    <Cell><Data ss:Type="String">Website url</Data></Cell>
+    <Cell><Data ss:Type="String">history of station</Data></Cell>
+    <Cell><Data ss:Type="String">significant productions</Data></Cell>
+    <Cell><Data ss:Type="String">logo filename</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Illinois Public Media  (WILL)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Illinois</Data></Cell>
+    <Cell><Data ss:Type="String">Urbana</Data></Cell>
+    <Cell><Data ss:Type="String">http://will.illinois.edu/</Data></Cell>
+   </Row>
+   <Row ss:Height="409">
+    <Cell><Data ss:Type="String">Louisiana Public Broadcasting</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Louisiana</Data></Cell>
+    <Cell><Data ss:Type="String">Baton Rouge</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.lpb.org</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;On September 6, 1975 at 11:58 a.m., longtime public television advocate Lucille Woodard flipped a ceremonial switch to sign WLPB on in Baton Rouge. It was the culmination of three years of hard work after the Legislature approved the creation of the Louisiana Educational Television Authority. &lt;/p&gt;&lt;p&gt;Woodard, a professor at LSU, started working in the 1950s to get educational television throughout the state. After decades of frustrated efforts, the Louisiana Educational Television Authority was created in 1971 and the money to start the state network was appropriated. Executive Director Max Fetty led the efforts to get LPB on the air, but unfortunately, he passed away before the station signed on.&lt;/p&gt;&lt;p&gt;LPB’s first home was in the Louisiana Department of Education building in downtown Baton Rouge. LPB moved to the LPB Telecommunications Center on Perkins Road in 1986.&lt;/p&gt;&lt;p&gt;KLTM-TV in Monroe was the second LPB station to go on the air in 1976, followed by KLTS in Shreveport and KLPB in Lafayette in 1978. KLTL in Lake Charles signed on in 1981 and KLPA-TV in Alexandria went on the air in 1983. LPB has also entered into a partnership with WLAE-TV32 in New Orleans, which gives LPB a presence in the Crescent City.&lt;/p&gt;&lt;p&gt;Louisiana: The State We’re In was started in 1976 with current Executive Director/CEO Beth Courtney as host and producer. The only statewide magazine in Louisiana, it has garnered many journalism and public affairs awards during its 38-year history. Charlie Whinham and Shauna Sanford continue to bring you the news you need to know and interesting &lt;p&gt;On September 6, 1975 at 11:58 a.m., longtime public television advocate Lucille Woodard flipped a ceremonial switch to sign WLPB on in Baton Rouge. It was the culmination of three years of hard work after the Legislature approved the creation of the Louisiana Educational Television Authority.&lt;/p&gt;&lt;p&gt;Woodard, a professor at LSU, started working in the 1950s to get educational television throughout the state. After decades of frustrated efforts, the Louisiana Educational Television Authority was created in 1971 and the money to start the state network was appropriated. &lt;/p&gt;&lt;p&gt;KLTM-TV in Monroe was the second LPB station to go on the air in 1976, followed by KLTS in Shreveport and KLPB in Lafayette in 1978. KLTL in Lake Charles signed on in 1981 and KLPA-TV in Alexandria went on the air in 1983. LPB has also entered into a partnership with WLAE-TV32 in New Orleans, which gives LPB a presence in the Crescent City.&lt;/p&gt;&lt;p&gt;Louisiana: The State We’re In was started in 1976 with current Executive Director/CEO Beth Courtney as host and producer. The only statewide magazine in Louisiana, it has garnered many journalism and public affairs awards during its 38-year history.&lt;/p&gt;&lt;p&gt; Our first nationally–syndicated show was Justin Wilson’s Louisiana Cooking. &#160;Our 13th series with Chef John Folse, Hook Lies and Alibis, premieres in 2015.&lt;/p&gt;&lt;p&gt;Documentaries about Louisiana and its “unique” politics have always been a major part of LPB’s locally produced programming. LPB combined with rising filmmaker Ken Burns (The Civil War) to produce Huey Long. Other award-winning documentaries produced or co-produced by LPB have included Uncle Earl and Lindy Boggs: Steel &amp; Velvet.&lt;/p&gt;&lt;p&gt;The six-part series Louisiana: A History, LPB’s biggest and most lauded project to date, premiered in September 2003 to coincide with the 200th anniversary of the Louisiana Purchase.&lt;/p&gt;&lt;p&gt; Preserving and showcasing our state’s history has always been a goal for LPB. Documentaries such as Signpost to Freedom: The 1953 Baton Rouge Bus Boycott and Against the Tide: The Story of the Cajun People of Louisiana have all explored little-known aspects of our past and present.&lt;/p&gt;&lt;p&gt; In the 1990s, LPB produced a wide range of documentaries about our state’s artists, including Ernest Gaines: Louisiana Stories, Frame After Frame: The Images of Herman Leonard, and Kate Chopin: A Re-Awakening.&lt;/p&gt;&lt;p&gt;When Hurricanes Katrina and Rita devastated South Louisiana and New Orleans, LPB documented the heroic actions of rescuers through Katrina’s Smallest Victims and the stories of the storm survivors trying to put the lives back together in American Creole and Washing Away: Losing Louisiana.&lt;/p&gt;&lt;p&gt;LPB has continued to turn out award-winning documentaries. In 2012 the network was chosen by to create the official documentary for the state’s 200th anniversary of joining the Union, Louisiana: 200 Years of Statehood.  When a program was needed to kick off the Year of Music in 2013, LPB joined forces with the Lt. Governor’s Office and Harry Connick, Jr. to create Sunshine By the Stars: Celebrating Louisiana Music. It featured an all-star lineup of Louisiana musicians performing their unique versions of one of Louisiana’s State Songs “You Are My Sunshine.” &lt;/p&gt;&lt;p&gt;&#13;features about the people and places which make our state such a fun and unique place to live.&lt;/p&gt;&lt;p&gt;Louisiana Public Square, LPB’s monthly televised town hall meeting is now in its 11th season.&#160; It gives average citizens a change to voice their opinions about the important issues in the state and question experts on that month’s subject. Beth Courtney and Shauna Sanford host.&lt;/p&gt;&lt;p&gt;Documentaries about Louisiana and its “unique” politics have always been a major part of LPB’s locally produced programming. LPB combined with rising filmmaker Ken Burns (The Civil War) to produce Huey Long. Other award-winning documentaries produced or co-produced by LPB have included Uncle Earl, Louisiana Boys: Raised on Politics, and Lindy Boggs: Steel &amp; Velvet.&lt;/p&gt;&lt;p&gt;The six-part series Louisiana: A History, LPB’s biggest and most lauded project to date, premiered in September 2003 to coincide with the 200th anniversary of the Louisiana Purchase. It was honored with a 2004 duPont Columbia Award, one of the highest honors in broadcasting.&lt;/p&gt;&lt;p&gt;Preserving and showcasing our state’s history has always been a goal for LPB. Documentaries such as Signpost to Freedom: The 1953 Baton Rouge Bus Boycott, Against the Tide: The Story of the Cajun People of Louisiana and Spirit of a Culture: Cane River Creoles have all explored little-known aspects of our past and present. Recent documentaries have included Atchafalaya Houseboat; A Summer of Birds, the story of John James Audubon’s year in Louisiana; and Forever LSU, the history of the state’s flagship university.&lt;/p&gt;&lt;p&gt;In the 1990s, LPB produced a wide range of documentaries about our state’s artists. Author Ernest Gaines (The Autobiography of Miss Jane Pittman) was the subject of Ernest Gaines: Louisiana Stories. Frame After Frame: The Images of Herman Leonard told the story of jazz photographer Herman Leonard while Kate Chopin: A Re-Awakening was a biography of 19th century Louisiana writer Kate Chopin.&lt;/p&gt;&lt;p&gt;When Hurricanes Katrina and Rita devastated South Louisiana and New Orleans, LPB documented the heroic actions of rescuers through Katrina’s Smallest Victims and the stories of the storm survivors trying to put the lives back together in American Creole and Washing Away: Losing Louisiana. A follow-up to that award-winning 2006 documentary called Washing Away: After the Storms featured interviews with the same storm survivors.&lt;/p&gt;&lt;p&gt;LPB has continued to turn out award-winning documentaries. In 2012 the network was chosen by the Louisiana State Bicentennial Commission to create the official documentary for the state’s 200th anniversary of joining the Union. It was called Louisiana: 200 Years of Statehood and was honored with a Telly Award.&#160; When a program was needed to kick off the Year of Music in 2013, LPB joined forces with the Lt. Governor’s Office and Emmy and Grammy-winning singer and actor Harry Connick, Jr. to create Sunshine By the Stars: Celebrating Louisiana Music. It featured an all-star lineup of Louisiana musicians performing their unique versions of one of Louisiana’s State Songs “You Are My Sunshine” made famous by two-term governor Jimmie Davis. Performers included Rock ‘n Roll Hall of Famers Jerry Lee Lewis, Buddy Guy and Allen Toussaint, country superstar Tim McGraw and many others.&lt;/p&gt;&lt;p&gt;In 2013 and 2014, LPB also premiered Alive! In America’s Delta, a six-part series that looked at the successful efforts&#160; by state and local wildlife officials&#160; to preserve endangered species such as whooping cranes, black bears and alligators&lt;/p&gt;&lt;p&gt;Our first nationally–syndicated show was Justin Wilson’s Louisiana Cooking. &#160;Our 13th series with Chef John Folse, Hook Lies and Alibis, premieres in 2015 on LPB and will be offered to other public television stations about the country.&#160; LPB has also done five series of Ms. Lucy’s Classic Cajun Culture &amp; Cooking featuring Lucy Zaunbrecher.&lt;/p&gt;&lt;p&gt;Friends of LPB have been recognizing the accomplishments of distinguished Louisiana natives at its Louisiana Legends Gala each spring for the last 25 years while LPB and the Rotary Club of Baton Rouge have honored eight outstanding students for the last 20 years with the Louisiana Young Heroes Awards.&lt;/p&gt;&lt;p&gt;Education has always been the focal point of LPB’s mission. More than 40,000 Louisiana teachers use LPB’s Cyberchannel to download educational videos to enhance their lesson plans. LPB is one of only 20 public television stations and networks involved in the Raising Readers program to help preschoolers obtain the literacy skills they need to learn to read. The most successful part of this program has been the weeklong Super WHY! Camps, where preschool students have shown remarkable improvement in their word recognition and other literacy skills.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Louisiana: The State We’re In – Louisiana’s only statewide newsmagazine, now in its 38th season.  It started in November 1976, a little over a year after LPB went on the air. A Taste of Louisiana with Chef John Folse – Our longest running cooking show.  It started in 1990.  We’ll be airing the 13th season next year. Louisiana: A History – A six-part series produced for the 200th anniversary of the Louisiana Purchase in 2003. Sunshine By The Stars: Celebrating Louisiana’s Music – We had famous Louisiana musicians cover one of our state songs “You Are My Sunshine” in their own styles.  The song was written by our two-term Governor Jimmie Davis. Alive! In America’s Delta – a six-part wildlife documentary series. </Data></Cell>
+    <Cell><Data ss:Type="String">LPB_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUHF-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Texas</Data></Cell>
+    <Cell><Data ss:Type="String">Houston</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.houstonpublicmedia.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vegas PBS (KLVX)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Nevada</Data></Cell>
+    <Cell><Data ss:Type="String">Las Vegas</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.vegaspbs.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WCTE</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Tennessee</Data></Cell>
+    <Cell><Data ss:Type="String">Cookeville</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wcte.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KEXP-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Washington</Data></Cell>
+    <Cell><Data ss:Type="String">Seattle</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kexp.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WYSO-FM (WYSO Public Radio)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Ohio</Data></Cell>
+    <Cell><Data ss:Type="String">Yellow Springs</Data></Cell>
+    <Cell><Data ss:Type="String">http://wyso.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pacifica Radio Archives</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">North Hollywood</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.pacificaradioarchives.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Wisconsin Public Television (WHA-TV)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Wisconsin</Data></Cell>
+    <Cell><Data ss:Type="String">Madison</Data></Cell>
+    <Cell><Data ss:Type="String">http://wpt.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="210">
+    <Cell><Data ss:Type="String">Wisconsin Public Radio</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Wisconsin</Data></Cell>
+    <Cell><Data ss:Type="String">Madison</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wpr.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;Wisconsin Public Radio is a 3-network, 34-startion regional group with a very long history.  Regular broadcasts began from our flagship station WHA (then the callsign was 9XM) before America's entry into World War I.  A nice list of our accomplishments is shown on our website at http://www.wpr.org/wprs-tradition-innovation.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;Chapter A Day,&quot; one of the longest-running programs in radio history, began on WHA when a radio guest cancels and the host decides to read a library book to fill the hour. Listeners ask for more. In 1932, it's carried as a summer program. In 1939, it becomes a daily program and continues to this day. &quot;The Larry Meiller Show&quot;, a midday show full of practical tips, traces its roots back to the earliest days of noontime weather and farm-market reports. &quot;Michael Feldman's Whad'Ya Know?” is one of WPR's shows that is distributed nationwide.  This shows, offering music, humor, quizzes has been running for thirty years. &quot;To the Best of Our Knowledge” is another long-running WPR show that is distributed to many other public radio stations. You can see a full list of our programs under the &quot;Shows&quot; tab on any of our webpages. You'd be hard-pressed to find another public radio organization producing as many shows.</Data></Cell>
+    <Cell><Data ss:Type="String">WPRnewColorLogos.tiff &#45;&#45;-NEED TO EDIT &#45;&#45;&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WCNY</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">Liverpool</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wcny.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Iowa Public Television</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Iowa</Data></Cell>
+    <Cell><Data ss:Type="String">Johnston</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.iptv.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Community Television Foundation of South Florida, Inc</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Florida</Data></Cell>
+    <Cell><Data ss:Type="String">Miami</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wpbt2.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vermont Public Television</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Vermont</Data></Cell>
+    <Cell><Data ss:Type="String">Colchester</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.vpt.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chicago Public Radio (WBEZ-FM) and Vocalo.org</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Illinois</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wbez.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rocky Mountain PBS (KRMA)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Colorado</Data></Cell>
+    <Cell><Data ss:Type="String">Denver</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.rmpbs.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KQED</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">San Francisco</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kqed.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="409">
+    <Cell><Data ss:Type="String">WJCT-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Florida</Data></Cell>
+    <Cell><Data ss:Type="String">Jacksonville</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wjct.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;WJCT went on the air on September 10, 1958, broadcasting a report on educational television from Florida Governor Leroy Collins. Its broadcast reached Live Oak, St. Augustine, Palatka, and Folkston, Georgia. WJCT became Florida’s second educational television station, following Miami, and preceding Gainesville’s WUFT and Tampa’s WEDU by several weeks. WJCT filled its first month with “national educational television” programs from PBS’ predecessor, NET.&lt;/p&gt;&lt;p&gt;On April 10, 1972, WJCT added its second media platform, meeting the community’s needs for fine arts and music. WJCT-FM went on the air as “Stereo 90,” broadcasting music, news and public affairs programming approximately 18 hours a day. Eighteen months later, in October 1973, Channel 7 and Stereo 90 presented their first simulcast, broadcasting a concert by the Jacksonville Symphony Orchestra.&lt;/p&gt;&lt;p&gt;In May of 2014, the launch of the Digital Convergence Alliance Network Operations Center (DCA-NOC) marked the culmination of work begun four years prior by WJCT Public Broadcasting. WJCT spearheaded a major initiative, laying the foundation for a collaborative venture of 11 public television stations that would not only foster economies of scale but create opportunities to better serve their respective communities, the first of which is the DCA-NOC. A grant from the Corporation for Public Broadcasting (CPB) enabled WJCT and community partners to develop a technical plan for the creation of a centralized master control operation.&lt;/p&gt;&lt;p&gt;Throughout its 56-year history, the First Coast community has been a vital component of WJCT’s success, providing individual and corporate support, contributing countless hours of volunteer work, serving on boards, partnering in productions, events and services. With continuing community support, WJCT stands poised to serve the First Coast community for another 50 years, and more, using its unique assets as a resource for citizens to come together to celebrate human diversity, experience lifelong learning, and actively engage in matters of civic importance, all to improve the quality of our lives and our community.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">First Coast Connect: Hosted by Melissa Ross, this one-hour call-in program features local newsmakers, civic and community leaders, arts, activities and more, along with spot news features and a weekly roundtable of local journalists. Launched in August 2009, First Coast Connect recently celebrated its 5th anniversary. First Coast Forum: A quarterly series of interactive community forums designed to address critical challenges facing Florida’s First Coast and to engage the community in resolving them. Each program brings First Coast business and community leaders together for discussion, and gives community members an opportunity to weigh in. Launched in July 2001, the quarterly forums broadcast live on TV and radio. Hometown: Discover the stories of the people, places and events that are unique to the Northeast Florida and Southeast Georgia area.  Hometown, produced locally by WJCT Public Broadcasting, is available OnDemand at wjct.tv/program/hometown.</Data></Cell>
+    <Cell><Data ss:Type="String">WJCT_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUCB (Unalaska Community Broadcasting/KIAL)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Alaska</Data></Cell>
+    <Cell><Data ss:Type="String">Unalaska</Data></Cell>
+    <Cell><Data ss:Type="String">http://kucb.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mississippi Public Broadcasting</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Mississippi</Data></Cell>
+    <Cell><Data ss:Type="String">Jackson</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.mpbonline.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WSIU Public Broadcasting</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Illinois</Data></Cell>
+    <Cell><Data ss:Type="String">Carbondale</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wsiu.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WFIU-FM (Public Radio from Indiana University)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Indiana</Data></Cell>
+    <Cell><Data ss:Type="String">Bloomington</Data></Cell>
+    <Cell><Data ss:Type="String">http://indianapublicmedia.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thirteen - New York Public Media (WNET)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wnet.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell><Data ss:Type="String">Twin Cities Public Television (KTCA-TV)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Minnesota</Data></Cell>
+    <Cell><Data ss:Type="String">St. Paul</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.tpt.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;TPT has been around since Sept. 1957 and started as Minneapolis Educational Television. America’s 26th public TV station (KTCA). Originally housed at the University of MN. Currently, one of the top 5 public television stations in the country.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Hoop Dreams, Newton’s Apple, SciGirls, Constitution USA with Peter Sagal</Data></Cell>
+    <Cell><Data ss:Type="String">TPT_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WVIZ/ideastream</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Ohio</Data></Cell>
+    <Cell><Data ss:Type="String">Cleveland</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.ideastream.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="330">
+    <Cell><Data ss:Type="String">WOSU Public Media</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Ohio</Data></Cell>
+    <Cell><Data ss:Type="String">Columbus</Data></Cell>
+    <Cell><Data ss:Type="String">http://wosu.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;Licensed to The Ohio State University, WOSU Public Media has been a vital community resource since 1920, when it received one of the first experimental radio licenses in the country. It has evolved into multiple public media services consisting of Classical 101 (FM); 89.7 NPR News (FM); four regional FM stations; and WOSU TV (PBS) and its sister station, WPBO TV. WOSU television covers a quarter of central and southern Ohio reaching over 900,000 households.&lt;/p&gt;&lt;p&gt;Current major projects are led by the Columbus Neighborhoods project, developed in 2010 to focus on the history, culture and future of the community’s distinctive neighborhoods.  The Emmy and NETA Award winning initiative includes a series of major documentaries (12 over a five year period), radio programming, public engagement events including local storytelling and premieres.&lt;/p&gt;&lt;p&gt;Other television initiatives include the arts and culture weekly series Broad &amp; High developed in 2013 as part of a local/national collaboration; the weekly public affairs program Columbus On The Record; the daily broadcast on the WOSU Ohio Channel of our local NPR radio program All Sides with Ann Fisher; and a series of national documentaries focused on explorers with ties to Ohio.  These have included John Glenn: A Life of Service and the upcoming documentary on Admiral Richard Byrd’s exploits.&lt;/p&gt;&lt;p&gt;In 2006, WOSU opened new television studios at the COSI Science Center in downtown Columbus. All local program production is developed at the WOSU@COSI Studios, which also serves as our prime community engagement space.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Broad &amp; High; Columbus On The Record; All Sides with Ann Fisher</Data></Cell>
+    <Cell><Data ss:Type="String">WOSU_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WNED</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">Buffalo</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wned.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUED</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Utah</Data></Cell>
+    <Cell><Data ss:Type="String">Salt Lake City</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kued.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WBRA-TV</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Virginia</Data></Cell>
+    <Cell><Data ss:Type="String">Roanoke</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.blueridgepbs.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KVIE</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">Sacramento</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kvie.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KRCB</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">Rohnert Park</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.krcb.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WYSU 88.5 FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Ohio</Data></Cell>
+    <Cell><Data ss:Type="String">Youngstown</Data></Cell>
+    <Cell><Data ss:Type="String">http://wysu.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Prairie Public Broadcasting</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">North Dakota</Data></Cell>
+    <Cell><Data ss:Type="String">Fargo</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.prairiepublic.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cincinnati Public Radio (WGUC-FM, WMUB-FM, WVXU-FM)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Ohio</Data></Cell>
+    <Cell><Data ss:Type="String">Cincinnati</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cincinnatipublicradio.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUSC-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">Los Angeles</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kusc.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">The Nine Network of Public Media (formerly KETC)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Missouri</Data></Cell>
+    <Cell><Data ss:Type="String">St. Louis</Data></Cell>
+    <Cell><Data ss:Type="String">http://ninenet.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Arkansas Educational TV Network (AETN)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Arkansas</Data></Cell>
+    <Cell><Data ss:Type="String">Conway</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.aetn.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mountain Lake PBS (WCFE)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">Plattsburgh</Data></Cell>
+    <Cell><Data ss:Type="String">http://mountainlake.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WGBY</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Massachusetts</Data></Cell>
+    <Cell><Data ss:Type="String">Springfield</Data></Cell>
+    <Cell><Data ss:Type="String">http://wgby.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KDLG-AM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Alaska</Data></Cell>
+    <Cell><Data ss:Type="String">Dillingham</Data></Cell>
+    <Cell><Data ss:Type="String">http://kdlg.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="409">
+    <Cell><Data ss:Type="String">WQED-TV</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Pennsylvania</Data></Cell>
+    <Cell><Data ss:Type="String">Pittsburgh</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wqed.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;WQED was the nation’s first community-supported television station and went on the air on April 1, 1954.  In 1973, Classical WQED-FM 89.3 was founded as the region’s only 24-hour classical radio station.&lt;/p&gt;&lt;p&gt;Today, WQED is educational public media with four television programming streams: WQED-TV; WQED: The Neighborhood Channel; WQED: The Create Channel; and WQED Showcase; three radio streams: WQED-FM 89.3; WQEJ-FM 89.7/Johnstown; The Pittsburgh Concert Channel at WQED-FM HD-2 and www.wqed.org/fm online provide WQED content to all residents in the viewing and listening area, and online around the world;  local and national television and radio productions; WQED Interactive, and iQ: smartmedia, WQED’s Educational initiative. &lt;/p&gt;&lt;p&gt;Throughout its history, WQED has partnered with hundreds of local community organizations toward improvements in education; arts and culture; community health; economics; and important local issues through its form of civic journalism.  As the only community-owned multimedia resource in the region, WQED is a convener, a central gathering place, and a conduit for other local non-profit organizations. &lt;/p&gt;&lt;p&gt;WQED has exported the region nationally with projects like The War That Made America, a four part historical documentary on the French and Indian War that aired nationwide on PBS; national cooking shows with Chris Fennimore; the Doo Wop music franchise; weekly national radio broadcasts of the Pittsburgh Symphony Orchestra and a continuing series of local and national documentaries by Emmy Award-winning producer Rick Sebak. &lt;/p&gt;&lt;p&gt;WQED’s latest national production, August Wilson: The Ground On Which I Stand, is slated to air nationally on PBS American Masters in February 2015.  The documentary will focus on the life and work of Pittsburgh-native and Pulitzer Prize-winning playwright August Wilson and will include and extensive educational initiative in key cities across the country. &lt;/p&gt;&lt;p&gt;WQED is one of the busiest producers of local programming in the PBS system.  In addition to the local and national documentaries, WQED produces and airs local programs that capture the stories of advancement, arts and diversity in our region. &lt;/p&gt;&lt;p&gt;Classical WQED-FM is “the voice of the arts in western Pennsylvania” by highlighting all that the station has meant for the region with retrospectives, tributes, community events, and celebrations. WQED-FM has offered classical and fine arts and cultural programs since its inception in 1973, allowing listeners to hear live and recorded classical performances and learn the latest arts and culture news from Pittsburgh and around the world. Listeners can hear WQED-FM at 89.3 and on its repeater stations, WQED-FM89.7 /Johnstown. &lt;/p&gt;&lt;p&gt;WQED Interactive, a media portal to the world, makes the aforementioned WQED programs all the more accessible to viewers and listeners, any time, and any place. WQED reaches more than 37,000 people through social media. &lt;/p&gt;&lt;p&gt; iQ: smartmedia is our strategy for education to capitalize on what kids have inside of them and to capture that potential. Around it revolves all of WQED's educational goals and objectives: to provide new tools and models, thought leadership, research, and training on the intersection of media and learning to prepare our children for a competitive world. We provide content for science and technology; literacy; global cultures and connections; expression; social and community responsibility; numeracy; and behavioral wellness. &lt;/p&gt;&lt;p&gt;   </Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">WQED_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KYUK</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Alaska</Data></Cell>
+    <Cell><Data ss:Type="String">Bethel</Data></Cell>
+    <Cell><Data ss:Type="String">http://kyuk.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="409">
+    <Cell><Data ss:Type="String">UNC-TV</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">North Carolina</Data></Cell>
+    <Cell><Data ss:Type="String">Research Triangle Park</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.unctv.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;Today, UNC-TV is the 12-station statewide public television network for North Carolina, reaching all 100 counties with four channels of national and local program content, as well as parts of Virginia, South Carolina, Tennessee and Georgia.  A lot has changed since WUNC-TV in Chapel Hill signed on as the nation’s tenth “educational television” station on January 8, 1955, largely due to the efforts of three visionary leaders.  William C. “Billy” Carmichael, the University of North Carolina’s vice president for finance, University alumnus and famous band lead Kay Kyser, and eventual university president William Friday – then the assistant to the university’s president, Gordon Gray – spearheaded an effort to use the burgeoning power of television to bring non-commercial educational content to the citizens of the state.  This group recognized the unique opportunity when the Federal Communications Commission offered eight channels in North Carolina for non-commercial uses in 1952.  They traveled the state marshaling contributions and support for both public and private funding, and so UNC-TV was born.&lt;/p&gt;&lt;p&gt;William Friday became president of the university system in 1957, and during his legendary 30 year tenure in that position, he continued to be a powerful and effective advocate for the importance and value of public television.  Gradually, it transitioned from an operation run primarily by students and faculty members to a fully professional broadcasting organization.  With the advent of PBS in 1968, UNC-TV was transformed from the old educational television model to being a source for mission-driven programming for general audiences.  In the meantime, UNC-TV continued to expand its reach, gradually adding transmitter sites to cover more of the state.  In 1979, the University of North Carolina Center for Public Television was established by the university’s board of governors, and 10 years later operations were finally consolidated in one location, the network’s current headquarters and studios in Research Triangle Park.&lt;/p&gt;&lt;p&gt;In many ways, the much-beloved William Friday was the face of UNC-TV.  In addition to his advocacy and leadership as university president, he was also the host of the longest-running program in UNC-TV history, North Carolina People with William Friday.  The program went on the air in 1971 and continued its weekly run until President Friday passed away at the age of 92 in October, 2012.  In a warm and informal one-on-one interview format, Friday engaged North Carolinians from all walks of life, from the exalted to the humble, coaxing out the stories that make every life interesting, and his viewing audience remained loyal throughout his life. In 2014 the Board of Governors of the National Academy of Television Arts and Sciences, Nashville/Midsouth Chapter, honored William Friday with posthumous induction as the inaugural member of its Gold Circle for his exceptional service to the advancement of public television.  At the same time, the chapter also presented UNC-TV with its Governor’s Award in recognition of the network’s history of exemplary service to the state of North Carolina.&lt;/p&gt;&lt;p&gt;Today, UNC-TV not only brings programming from PBS, the BBC and other sources to the entire state, it produces more than 300 hours of original programming each year for and about North Carolina.  Looking to the future, UNC-TV continues extending its content into the ever-growing array of digital platforms, and expanding its mission to include even more opportunities for public service.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">North Carolina People with William Friday</Data></Cell>
+    <Cell><Data ss:Type="String">UNCTV_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WMHT</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">Troy</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wmht.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WRNI (Rhode Island Public Radio)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Rhode Island</Data></Cell>
+    <Cell><Data ss:Type="String">Providence</Data></Cell>
+    <Cell><Data ss:Type="String">http://ripr.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Appalshop, Inc. (WMMT and Appalshop Films)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Kentucky</Data></Cell>
+    <Cell><Data ss:Type="String">Whitesburg</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.appalshop.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KMOS</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Missouri</Data></Cell>
+    <Cell><Data ss:Type="String">Warrensburg</Data></Cell>
+    <Cell><Data ss:Type="String">http://kmos.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell><Data ss:Type="String">Film &amp;amp; Media Archive, Washington University in St. Louis</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Missouri</Data></Cell>
+    <Cell><Data ss:Type="String">St. Louis</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.library.wustl.edu/units/spec/filmandmedia/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Oregon Public Broadcasting (OPB)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Orgeon</Data></Cell>
+    <Cell><Data ss:Type="String">Portland</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.opb.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WXPN-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Pennsylvania</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.xpn.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WTIU (Public Television from Indiana University)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Indiana</Data></Cell>
+    <Cell><Data ss:Type="String">Bloomington</Data></Cell>
+    <Cell><Data ss:Type="String">http://indianapublicmedia.org/tv/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WGVU Public TV &amp;amp; Radio</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Michigan</Data></Cell>
+    <Cell><Data ss:Type="String">Grand Rapids</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wgvu.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Iowa Public Radio</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Iowa</Data></Cell>
+    <Cell><Data ss:Type="String">Des Moines</Data></Cell>
+    <Cell><Data ss:Type="String">http://iowapublicradio.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New Hampshire Public Radio</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New Hampshire</Data></Cell>
+    <Cell><Data ss:Type="String">Concord</Data></Cell>
+    <Cell><Data ss:Type="String">http://nhpr.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WXXI Public Broadcasting (WXXI-TV)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">Rochester</Data></Cell>
+    <Cell><Data ss:Type="String">http://interactive.wxxi.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KCAW-FM  (Raven Radio Foundation, Inc.)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Alaska</Data></Cell>
+    <Cell><Data ss:Type="String">Sitka</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kcaw.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KNME</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New Mexico</Data></Cell>
+    <Cell><Data ss:Type="String">Albuquerque</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.newmexicopbs.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KXCI Community Radio</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Arizona</Data></Cell>
+    <Cell><Data ss:Type="String">Tucson</Data></Cell>
+    <Cell><Data ss:Type="String">https://kxci.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Friends of WWOZ, Inc.</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Louisiana</Data></Cell>
+    <Cell><Data ss:Type="String">New Orleans</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wwoz.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ozarks Public Broadcasting (KOZK/KOZJ)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Missouri</Data></Cell>
+    <Cell><Data ss:Type="String">Springfield</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.optv.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KDNA-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Washington</Data></Cell>
+    <Cell><Data ss:Type="String">Granger</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kdna.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="409">
+    <Cell><Data ss:Type="String">WFYI-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Indiana</Data></Cell>
+    <Cell><Data ss:Type="String">Indianapolis</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wfyi.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;Known for quality programming throughout Central Indiana, WFYI Public Media provides more than just the standard radio and television services. WFYI has been involved as a community leader and partner in education, health, public affairs, and the arts since 1970. We serve as a public forum where people are encouraged to discuss and debate issues important to the local community. Our award-winning documentaries and public affairs programs have addressed many relevant topics ‒ including financial literacy, healthcare, workforce development and environmental affairs. This broadcast schedule combines with local community outreach programs to focus on developing successful solutions to local issues.&lt;/p&gt;&lt;p&gt;Forty-three years ago WFYI Public Media was formed after many local residents in Central Indiana voiced the need to create the state’s first educational television system. A local community leader, Ardath Y. Burkhart, passionately led a small grass-roots campaign to create a local educational television station. This group became affectionately known as &quot;Ardath's Army&quot; and quickly gained community support by traveling door-to-door across Indianapolis and its six surrounding counties. The volunteers pushed the station into existence in just a few short weeks by raising enough money to cover a full year of operating expenses. The station first signed on the air with a no-frills staff of nine employees, three black-and-white television cameras, and a signal that reached just beyond downtown Indianapolis. WFYI was the city's first UHF television signal and the only channel to provide commercial-free programming ‒ a novel idea, even 40 years ago.&lt;/p&gt;&lt;p&gt;Now, more than 80 professionals work hard at WFYI Public Media to make it Indiana’s chief PBS and NPR member station and one of Central Indiana’s leading not-for-profits. The WFYI headquarters is a state-of-the-art facility conveniently situated at 1630 N. Meridian St. in Indianapolis. The WFYI location is one of Indianapolis' premier media hubs and centers for civic engagement.&lt;/p&gt;&lt;p&gt;As WFYI Public Media looks towards the future, it will continue to focus on expanding its local production capacity; enhancing its community services to both mainstream and underserved audiences; and building on its proven track record of delivering first-rate local, national and international news coverage.&lt;/p&gt;&#13;</Data></Cell>
+    <Cell><Data ss:Type="String">Across Indiana – for 20 seasons, WFYI correspondents traveled the state to explore the passions, eccentricities and history of the residents of the Hoosier state. The Natural Heritage of Indiana – Three part documentary series shot over a two-year period revealing Indiana’s natural wonders in spectacular detail. Fleeced: Speaking Out Against Senior Financial Abuse – A documentary revealing the extent of fraud. Indiana Expeditions - One of the state’s most honored and respected teachers on a journey to discover how real science impacts our lives every day. CBC - Communities Building Community with former Indiana First Lady Judy O’Bannon showcased the extraordinary ways in which Indiana residents are working together to improve the quality of life in their communities.</Data></Cell>
+    <Cell><Data ss:Type="String">WFYI-logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WDVX-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Tennessee</Data></Cell>
+    <Cell><Data ss:Type="String">Knoxville</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wdvx.com/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WUFT-TV</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Florida</Data></Cell>
+    <Cell><Data ss:Type="String">Gainesville</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wuft.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="285">
+    <Cell><Data ss:Type="String">KWSO-FM (Warm Springs Community Radio)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Oregon</Data></Cell>
+    <Cell><Data ss:Type="String">Warm Springs</Data></Cell>
+    <Cell><Data ss:Type="String">http://kwso.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;The Confederated Tribes of Warm Springs (CTWS) is a federally recognized Indian Tribe located in Central Oregon 104 miles south of Portland and 60 miles north of Bend, just off Highway 26. The Warm Springs Reservation consists of 640,000 acres and is home to three (3) tribes, the Warm Springs, Wasco, and Paiute Tribes.&#160; KWSO 91.9 FM is a Non-Commercial Community radio station owned and operated by the Tribes and first aired in September 1986. With 4,300 watts of power, and a transmitter atop Eagle Butte, KWSO broadcasts 7 days a week, 24 hours a day. The radio station broadcasts local news and information, cultural programming and music and reaches 50,000 people in all of Jefferson County and into Wasco, Crook and Deschutes Counties with a primary focus on the residents of the Warm Springs Indian Reservation.&#160; In 2009 KWSO moved into the Warm Springs Media Center which was funded by the CTWS, Meyer Memorial Trust and the Corporation for Public Broadcasting Community Service Grant Program. This eco-friendly building features a 11.4 kilowatt solar panel array and also houses the Spilyay Tymoo, a community newspaper published by the CTWS.&#160; The mission of KWSO radio is to provide Warm Springs with quality radio programming that: delivers local news and information; promotes education, cultural knowledge and language preservation; and increases awareness of social, health and safety issues.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">“The Warm Springs Program” and “Our People and Mother Earth” - KWSO continues ongoing production of these weekly news magazines. “Talking Drum” - KWSO produced this show for the NV1 network for several years, and formerly produced “Groove Central Radio.” Veterans Day programming- KWSO alters format to honor veterans with special programming all day on Veteran’s Day, featuring history of Native American Service and interviews with local Veterans from the past and present.&#160; There is currently 12 hours of locally produced Veteran's Day content. “We Shall Remain”- KWSO produces this radio hour: http://www.prx.org/series/31158-we-shall-remain</Data></Cell>
+    <Cell><Data ss:Type="String">KWSO_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WOJB-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Wisconsin</Data></Cell>
+    <Cell><Data ss:Type="String">Hayward</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wojb.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KNBA-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Alaska</Data></Cell>
+    <Cell><Data ss:Type="String">Anchorage</Data></Cell>
+    <Cell><Data ss:Type="String">http://knba.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUNM (aka KNME-FM)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New Mexico</Data></Cell>
+    <Cell><Data ss:Type="String">Albuquerque</Data></Cell>
+    <Cell><Data ss:Type="String">http://kunm.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vermont Public Radio - WVPR</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Vermont</Data></Cell>
+    <Cell><Data ss:Type="String">Colchester</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.vpr.net/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WYCC-TV20 PBS Chicago</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Illinois</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wycc.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WHYY</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Pennsylvania</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.whyy.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WKAR</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Michigan</Data></Cell>
+    <Cell><Data ss:Type="String">East Lansing</Data></Cell>
+    <Cell><Data ss:Type="String">http://wkar.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="150">
+    <Cell><Data ss:Type="String">KOCE/PBS SoCal</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">Costa Mesa</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.pbssocal.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;Over four decades, PBS SoCaL has grown into a cultural resource for all of Southern California. In 2011, when Southern California abruptly lost what had been its lead PBS station, PBS SoCaL— then known as KOCE-TV for Orange County— adapted quickly to ensure that Southern California would continue to receive free community services from the nation’s most trusted media brand. PBS SoCaL continues to grow with an expanding service area that now includes LA County and the Inland Empire. PBS SoCaL is the parent to three unique broadcast channels, PBS SoCaL HD, PBS SoCaL Plus, and PBS SoCaL World, dedicated to educating, entertaining and enlightening viewers throughout the Southland.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">PBS SoCaL’s production history under its former name, KOCE-TV, included content about Orange County and California.&#160; The archive collection includes the “Orange County History Project,” and a statewide documentary series called “California Dreams.”&#160; Public affairs series such as “Jim Cooper’s Orange County” included many local election debates.&#160; The assimilation of Southeast Asian immigrants following the Vietnam War was a significant content topic. The collection includes interviews with Pres. Gerald Ford, William F. Buckley, Howard Jarvis and many former Governors and US Senators.</Data></Cell>
+    <Cell><Data ss:Type="String">PBS_SOCAL_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WGCU Public Media (WGCU-TV)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Florida</Data></Cell>
+    <Cell><Data ss:Type="String">Fory Myers</Data></Cell>
+    <Cell><Data ss:Type="String">http://wgcu.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KGNU-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Colorado</Data></Cell>
+    <Cell><Data ss:Type="String">Boulder</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kgnu.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell><Data ss:Type="String">PBS Hawaii (KHET)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Hawaii</Data></Cell>
+    <Cell><Data ss:Type="String">Honolulu</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.pbshawaii.org/home/index.php</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KAKM (Alaska Public Media)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Alaska</Data></Cell>
+    <Cell><Data ss:Type="String">Anchorage</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.alaskapublic.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Detroit Public Television (aka DPTV and WTVS)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Michigan</Data></Cell>
+    <Cell><Data ss:Type="String">Wixom</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.dptv.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="390">
+    <Cell><Data ss:Type="String">Maine Public Broadcasting</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Maine</Data></Cell>
+    <Cell><Data ss:Type="String">Lewiston</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.mpbn.net/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;The Maine Public Broadcasting Network is a statewide dual licensee providing both television and radio service throughout the state of Maine. MPBN’s television service is also available in the Canadian maritime provinces and Quebec.&lt;/p&gt;&lt;p&gt;Today’s MPBN is a result of a 1992 merger between Lewiston, Maine based WCBB and Orono, Maine based WMEB. &lt;/p&gt;&lt;p&gt;WCBB TV was founded by Colby College, Bates College and Bowdoin College and signed on as the first educational television service in Maine on November 13, 1961. It served the southern and western parts of the state and the studio was based in Lewiston.&lt;/p&gt;&lt;p&gt;WMEB TV was founded by the University of Maine system and first went to air on October 7, 1963. Among its programs was the “Friendly Giant” and “History with Herb Hake”.  In 1964, transmitters are constructed in Presque Isle and Calais bringing educational television to northern and eastern Maine.  In 1974 another transmitter is built to serve southern Maine. This group of stations becomes known as the Maine Public Broadcasting Network in 1971. Based on the University of Maine campus it moves to larger facilities in Bangor in 1987.&lt;/p&gt;&lt;p&gt;In 1970, MPBN launched WMEH-FM, Maine’s first public radio service.&lt;/p&gt;&lt;p&gt;WCBB and MPBN collaborated many times over the years but finally merged to form a single entity in July of 1992. After several name changes in the ensuing years, MPBN is chosen to represent both the television and radio services.&lt;/p&gt;&lt;p&gt;Five television transmitters and seven radio transmitters form the statewide backbone of the transmission system. MPBN television provides one HD and three SD channels in its digital broadcast stream: regular PBS programming with occasional local productions (HD), MPBN Create (SD), MPBN World (SD) and a fourth channel which is used for seasonal coverage of the Maine Legislature (SD).&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">“La Machine Magique” the French language counterpart to “The News Machine” began in 1974. This weekly half-hour was a news program aimed at grade school students. The French version was added to serve the French Acadian population of far northern Maine. Both series ran in the mid 1970s.  “La Bonne Aventure”, a 20 episode series devoted to French heritage received national distribution and acclaim in 1976. In 1979 MPBN broadcast the Maine State High School Basketball Tournaments. This annual production continues to this day and features 44 live games from three locations played over the course of 2 weeks each February and garners some of the highest ratings of the year. In 1987, “Maine Watch” launched. This weekly public affairs program ran until 2013 and included as one of its hosts the future Maine Governor and U.S. Senator Angus King. Maine Capitol Connection, daily live coverage of Maine’s legislative activities, began on February 6, 2013 and ran for two legislative sessions. </Data></Cell>
+    <Cell><Data ss:Type="String">MPBN_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WPBS</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">Watertown</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wpbstv.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WSKG Public Broadcasting</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">Vestal</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wskg.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New Jersey Network</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New Jersey</Data></Cell>
+    <Cell><Data ss:Type="String">Trenton</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.njtvonline.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Wyoming PBS (KCWC)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Wyoming</Data></Cell>
+    <Cell><Data ss:Type="String">Riverton</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wyomingpbs.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WDIY-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Pennsylvania</Data></Cell>
+    <Cell><Data ss:Type="String">Bethlehem</Data></Cell>
+    <Cell><Data ss:Type="String">http://wdiy.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WLVT (PBS39)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Pennsylvania</Data></Cell>
+    <Cell><Data ss:Type="String">Bethlehem</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wlvt.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WRFA-LP</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">Jamestown</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wrfalp.com/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KCTS 9</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Washington</Data></Cell>
+    <Cell><Data ss:Type="String">Seattle</Data></Cell>
+    <Cell><Data ss:Type="String">http://kcts9.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WHUT-TV (Howard University Television)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">DC</Data></Cell>
+    <Cell><Data ss:Type="String">Washington</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.whut.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="120">
+    <Cell><Data ss:Type="String">WVIA</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Pennsylvania</Data></Cell>
+    <Cell><Data ss:Type="String">Pittston</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wvia.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;For almost 50 years WVIA Public Media offers broad-appeal programming for the entire family to enjoy both on WVIA-FM and WVIA-TV. From award winning Original Documentary Films, NPR News plus powerful &amp; insightful Regional Programming WVIA inspires &amp; captivates its listeners, online users and viewers. WVIA Public Media is proud to serve northeastern Pennsylvania, the Central Susquehanna Valley and beyond. WVIA Public Media is a catalyst, convener and educator, using media, partnerships, ideas and programs to advance the best attributes of an enlightened society.&lt;/p&gt;</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">wvia_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KWSU/KTNW (Northwest Public Television)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Washington</Data></Cell>
+    <Cell><Data ss:Type="String">Pullman</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.nwptv.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New Hampshire Public Television</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New Hampshire</Data></Cell>
+    <Cell><Data ss:Type="String">Durham</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.nhptv.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WIAA-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Michigan</Data></Cell>
+    <Cell><Data ss:Type="String">Interlochen</Data></Cell>
+    <Cell><Data ss:Type="String">http://interlochenpublicradio.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="210">
+    <Cell><Data ss:Type="String">WERU-FM (WERU Community Radio)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Maine</Data></Cell>
+    <Cell><Data ss:Type="String">East Orland</Data></Cell>
+    <Cell><Data ss:Type="String">https://weru.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;On May 1, 1988, after eight years of planning and work by an highly dedicated group of volunteers, WERU began broadcasting at 89.9 FM from the top of Blue Hill Mountain on the coast of Maine. Noel Paul Stookey (of Peter, Paul and Mary fame) was the station's first benefactor and from whose converted chicken coop, affectionately known as &quot;The Henhouse,&quot; WERU first broadcast. &lt;/p&gt;&lt;p&gt;In 1997 the station moved to its current location on U.S. Route 1 in East Orland, centrally located in the middle of the radio station’s signal area.&#160;&lt;/p&gt;&lt;p&gt;WERU is noncommercial and independent, and from its inception it has been a grassroots, volunteer-powered and listener-supported community radio service.&lt;/p&gt;&lt;p&gt;WERU offers over 50 genres of music as well as a wide variety of national and local news, public affairs and short spoken-word features.  Almost all of WERU’s local content is produced by volunteers from the community. &lt;/p&gt;&lt;p&gt;WERU is a member of the National Federation of Community Broadcasters and Maine Association of Broadcasters.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">• WERU Program Director Dave Piszcz with Phillip Berrigan from Prison (two parts - cpb-aacip-301-63fxpvmr and cpb-aacip-301-1937pxmk)&#13;• Poems I Like - May Sarton (cpb-aacip-301-214mw8jg)&#13;• Poems I Like - Phillip Booth (cpb-aacip-301-71ngf87b)&#13;• WERU Volunteer Deb Suran Interviews Oscar Brand (cpb-aacip-301-75dbs300)&#13;</Data></Cell>
+    <Cell><Data ss:Type="String">were_logo.tiff</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WUSF</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Florida</Data></Cell>
+    <Cell><Data ss:Type="String">Tampa</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wusf.usf.edu/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WFCR</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Massachusetts</Data></Cell>
+    <Cell><Data ss:Type="String">Amherst</Data></Cell>
+    <Cell><Data ss:Type="String">http://nepr.net/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KGLT-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Montana</Data></Cell>
+    <Cell><Data ss:Type="String">Bozeman</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kglt.net/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Public Broadcasting Atlanta</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Georgia</Data></Cell>
+    <Cell><Data ss:Type="String">Atlanta</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.pba.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WEDU Florida Public Media</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Florida</Data></Cell>
+    <Cell><Data ss:Type="String">Tampa</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wedu.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Idaho Public Television</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Idaho</Data></Cell>
+    <Cell><Data ss:Type="String">Boise</Data></Cell>
+    <Cell><Data ss:Type="String">http://idahoptv.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WTIP (North Shore Community Radio)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Minnesota</Data></Cell>
+    <Cell><Data ss:Type="String">Grand Marais</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wtip.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KGTF (PBS Guam)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Guam</Data></Cell>
+    <Cell><Data ss:Type="String">Mangilao</Data></Cell>
+    <Cell><Data ss:Type="String">http://pbsguam.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="409">
+    <Cell><Data ss:Type="String">Colorado Public Television</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Colorado</Data></Cell>
+    <Cell><Data ss:Type="String">Denver</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cpt12.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;Originally known as KBDI Channel 12, Colorado Public Television (CPT12) is a unique civic resource and one of the country’s first alternative public television services. CPT12 provides important local, national and international programming services that are otherwise not available in Colorado.&lt;/p&gt;&lt;p&gt;KBDI began operations in Broomfield, Colorado, with transmitting facilities on Squaw Mountain in Clear Creek County. At 11,500 feet, the site remains the highest of any full-power television station in the nation. From there, KBDI began serving first the Denver Metro area, and then the entire Colorado Front Range.&lt;/p&gt;&lt;p&gt;Today, Colorado Public Television has grown to serve 85 percent of the state’s population. Ongoing improvements to its transmitters and wider digital carriage on cable and satellite systems are extending the station's reach in almost every direction across the state. Beyond Denver and the Front Range, CPT12 is increasingly received in various Western Slope and Eastern Plains communities, ever broadening its service throughout Colorado.&lt;/p&gt;&lt;p&gt;Since 2003, the station has offered digital programming on three multicast channels. Today, these three channels include CPT12's flagship signal (12.1), a diverse mix of local, national and international programming and infused with quality PBS shows; CPT12+ (12.2), the best of independently produced documentaries, music, travel, exercise, cooking, public affairs and more; and MHz Worldview (12.3), a lineup of programs from around the world, including world news, foreign affairs, international mysteries, world music, sports, and foreign films.&lt;/p&gt;&lt;p&gt;Frequently stretching the boundaries of public television, the station has been called many things – progressive, provocative, experimental, controversial, outrageous, courageous and more as it has worked to illuminate key social issues, and provide a platform for the underserved.&#160; &#160;CPT12 has always championed experimentation, creativity, new ideas and high broadcasting standards – all while working on a shoestring budget.&#160; Today, CPT12 maintains its independent spirit, even as it explores new media outlets, expands its mission and deepens its community involvement.&lt;/p&gt;&lt;p&gt;Described as “the little station that could” by the Denver Post, Colorado Public Television remains lean and light on its feet – a small, frugal station that continues to deliver programming that is relevant, informative, entertaining and thought-provoking.&lt;/p&gt;&lt;p&gt;Colorado Public Television's tagline, “World View, Community Voice,” represents the station's mission, programming choices, community activities and engagement with its Colorado constituents. A global perspective combined with local conversations will continue to be CPT12's guide into the future.&#160;&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Colorado Public Television's local productions include Colorado Inside Out, Sounds on 29th, and Studio 12. Other notable programs and awards include Sierra O Muerte: Land Or Death, 1991 Alfred I. duPont-Columbia Award; Stories of Elyria, 1992 Regional Emmy for Best Documentary; Everything Has A Spirit, 1994 First Place Documentary Award, Indian Film and Video Competition; Snapshots from the DNC, 2008 Colorado Broadcasters Association Award of Excellence for Best News or Public Affairs Special; Colorado Inside Out “Circa 1858” and Studio 12 “Sudan” (tie winners), 2009 Regional Emmy Award for Best Interview/Discussion Program; 12 “Back to Sudan,&quot; 2009 Colorado Broadcasters Association Award of Excellence for Best News or Public Affairs Special; Allen True’s West, 2009 Colorado Broadcasters Association Certificate of Merit for Best Mini-Documentary or Series; Colorado Inside Out “Circa 1959,&quot; 2010 Regional Emmy Award for Best Interview/Discussion Program; Sandzen: Ecstacy of Color, 2010 Colorado Broadcasters Association Award of Excellence for Best Mini-Documentary or Series; Studio 12 “Return to Iwo Jima,&quot; 2010 Colorado Broadcasters Association Award of Excellence for Best News or Public Affairs Special; Colorado Inside Out “Circa 1935,&quot; 2010 Colorado Broadcasters Association Certificate of Merit for Best News &amp; Public Affairs Special / 2011 Regional Emmy Award for Best Interview/Discussion Program; Rex Ray: How to Make a Rex Ray, 2010 Colorado Broadcasters Association Certificate of Merit for Best Mini-Documentary or Series; Sounds on 29th, 2012 Colorado Broadcasters Association Certificate of Merit for Best Mini-Documentary or Series; Studio 12 &quot;Aurora Theater Shooting,&quot; 2012 Colorado Broadcasters Association Award of Excellence for Best Public Affairs Special Category; Studio 12 &quot;Honoring America's War Heroes,&quot; 2012 Colorado Broadcasters Association Certificate of Merit for Best News Special/Public Affairs Special</Data></Cell>
+    <Cell><Data ss:Type="String">colorado_pt_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WUMB-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Massachusetts</Data></Cell>
+    <Cell><Data ss:Type="String">Boston</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wumb.org</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUOW Puget Sound Public Radio</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Washington</Data></Cell>
+    <Cell><Data ss:Type="String">Seattle</Data></Cell>
+    <Cell><Data ss:Type="String">http://kuow.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KET - The Kentucky Network</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Kentucky</Data></Cell>
+    <Cell><Data ss:Type="String">Lexington</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.ket.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="345">
+    <Cell><Data ss:Type="String">WFMU</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New Jersey</Data></Cell>
+    <Cell><Data ss:Type="String">Jersey City</Data></Cell>
+    <Cell><Data ss:Type="String">http://wfmu.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;WFMU first went on the air in April 1958, then a part of Uppsala College in East Orange, New Jersey. Shortly before Uppsala's bankruptcy filing and closure on May 31, 1995, a group of station executives, personnel, and supporters formed Auricle Communications and bought the license from the college, making it a fully independent radio station. In August 1998 the station's studios and offices were relocated to a Jersey City facility purchased with listener donations. WFMU now broadcasts terrestrially and online. It has been the subject of various articles, books &lt;http://www.amazon.com/The-Best-LCD-Writing-WFMU-FM/dp/1568987153&gt;, and even a film &lt;http://www.wfmuthemovie.com/&gt;&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Aircheck. An hour of radio ghosts recaptured: once in a lifetime occurrences and remembrances (some from WFMU's own archives). This is no mere nostalgia trip; Aircheck seeks out some of the more unusual and unpredictable moments and personalities in radio that probably wouldn't get attention anywhere else.&#160;&#13;(notable episode: Oct 2, 2003: Daniel Johnston &amp; Yo La Tengo)&#13;&#13;The Hound.&#160;James &quot;The Hound&quot; Marshall playing what he considers good music; mostly &quot;Weird old records. Most of the stuff I like is just this really old R &amp; B and Rockabilly, old instrumentals &#45;- stuff like that.&quot;&#160;&#13;(notable episode: Mar 29, 1986: Hasil Adkins)&#13;&#13;Radio Thrift Shop. Host Laura Cantrell scours the bargain bins, church bazaars and yard sales for those forgotten rekkids of all RPM. Often scratchy, swingy and stringy.&#160;&#13;(notable episode: Jun 12, 2004: Baby Gramps)&#13;&#13;A Rough Mix with Steinski. A big record collection, a long memory, and a short fuse.&#160;&#13;(notable episode: Jun 20, 2014: monologues)&#13;&#13;Greasy Kid Stuff. A show of music for children of all ages.&#160;&#13;(notable episode: May 27, 2006: Pirates, robots, tap-dancing)</Data></Cell>
+    <Cell><Data ss:Type="String">WFMU_logo.jpg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WBLV-FM (Blue Lake Public Radio)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Michigan</Data></Cell>
+    <Cell><Data ss:Type="String">Twin Lake</Data></Cell>
+    <Cell><Data ss:Type="String">http://bluelake.org/radio/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pioneer Public Television</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Minnesota</Data></Cell>
+    <Cell><Data ss:Type="String">Appleton</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.pioneer.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Radio Bilingue</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">Fresno</Data></Cell>
+    <Cell><Data ss:Type="String">http://radiobilingue.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Southern Oregon Public Television (KSYS/KFTS)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Oregon</Data></Cell>
+    <Cell><Data ss:Type="String">Medford</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.soptv.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUSP-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kusp.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KCPT (KCPT Public Television 19)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Missouri</Data></Cell>
+    <Cell><Data ss:Type="String">Kansas City</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.kcpt.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WHRO</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Virginia</Data></Cell>
+    <Cell><Data ss:Type="String">Norfolk</Data></Cell>
+    <Cell><Data ss:Type="String">http://whro.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Maryland Public Television</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Maryland</Data></Cell>
+    <Cell><Data ss:Type="String">Owings Mills</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.mpt.org/</Data></Cell>
+   </Row>
+   <Row ss:Height="409">
+    <Cell><Data ss:Type="String">Connecticut Public Broadcasting</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Connecticut</Data></Cell>
+    <Cell><Data ss:Type="String">Hartford</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.cpbn.org/</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p&gt;In October 1962, the Connecticut Educational Television Corporation began broadcasting over station WEDH-TV (Channel 24) in black and white from the basement of the Trinity College Library in Hartford, Connecticut. In the beginning, motivated and eager individuals had a vision: to enrich people's lives through high-quality, non-commercial, educational programming. Institutions like Trinity College and the State of Connecticut supported this goal of reaching out to the community through public broadcasting.&lt;/p&gt;&lt;p&gt;The station broadcast its first local children’s programming a few weeks after it went on the air, followed a month later by a biweekly local series highlighting the world of arts, entertainment and public affairs in the state. A mobile truck arrived in 1967, color in 1968, auctions in 1972, and pledge in 1973. By 1974, three additional stations across the state had joined WEDH-TV and CPTV was born. The statewide network earned its first Emmy Award in 1977, received its first satellite transmission in 1979, and taped its first national pledge special in 1985.&lt;/p&gt;&lt;p&gt;The first public radio station in Connecticut signed on in June 1978, and soon Connecticut Public Radio (WNPR) joined CPTV to form what is now known as Connecticut Public Broadcasting. Initially airing primarily classical and radio music, WNPR now focuses on news and information. Together, the two community-supported, statewide public broadcasting networks are dedicated to serving Connecticut with a mix of educational, news, public affairs, children's and entertainment programming and services. &lt;/p&gt;&lt;p&gt;Today, CPTV and WNPR reach the entire state of Connecticut – an estimated 550,000 television viewers and more than 240,000 radio listeners each week. Connecticut Public Broadcasting is the state’s only locally owned media organization producing TV, radio, print and Internet content for distribution to Connecticut’s wide-ranging and diverse communities.&lt;/p&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Mundo Real (CPTV, 1976-1978)- One of the first television series to focus on a Puerto Rican family, Mundo Real was a Spanish-English bilingual educational children’s series aimed at ages 7-11. It was funded by four successive grants from the U.S. Department of Health, Education and Welfare.  A total of 39 episodes were produced. The series was syndicated to commercial and public television stations throughout the country, airing on at least 60 in 1978 and PBS aired episodes nationally in 1981.  Open Air New England / The Faith Middleton Show (WNPR, 1981-Present)- The two-time Peabody Award-winning Faith Middleton Show has been widely recognized for fostering insightful, thought-provoking conversation for more than 30 years. Faith offers her listeners some of the world's most fascinating people and subjects. The show has been inducted into the Connecticut Magazine Hall of Fame as “Best Local Talk Show.” Barney &amp; Friends (CPTV, 1992-2005)- For over a decade, CPTV co-produced Barney &amp; Friends for PBS. A CPTV executive thought Barney might be a good fit for television after renting a Barney video for his daughter. When it premiered in April 1992, the series was a huge hit, far more popular than anyone could have possibly imagined. CPTV UConn Women's Basketball (CPTV, 1994-2012)- CPTV was the TV broadcast home of the phenomenally successful UConn Women’s Basketball team for 18 years. With some of the consistently highest ratings and strongest membership levels of any program on public television for close to two decades, UConn Women’s Basketball on CPTV is considered by many to be the most successful local franchise in public television history. Infinity Hall Live (CPTV, 2011-Present)- Since 2011, CPTV has produced and distributed nationally to public television stations across the country this Emmy-award winning series that provides an all-access pass to engaging performances and backstage conversations with today’s most intriguing musical artists. It offers authentic and heartfelt performances taped at Infinity Music Hall, an acoustically perfect Victorian-era concert hall in Norfolk, CT. Artists featured on the series include The Barenaked Ladies, Joan Osborne, Fountains of Wayne, Tori Amos, and Wilson Phillips.</Data></Cell>
+    <Cell><Data ss:Type="String">cpbn_logo.jpeg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KVCR</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">San Bernardino</Data></Cell>
+    <Cell><Data ss:Type="String">http://kvcr.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUT Radio</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Texas</Data></Cell>
+    <Cell><Data ss:Type="String">Austin</Data></Cell>
+    <Cell><Data ss:Type="String">http://kut.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUVO-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Colorado</Data></Cell>
+    <Cell><Data ss:Type="String">Denver</Data></Cell>
+    <Cell><Data ss:Type="String">http://kuvo.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KEET</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">California</Data></Cell>
+    <Cell><Data ss:Type="String">Eureka</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.keet.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">University of Maryland</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Maryland</Data></Cell>
+    <Cell><Data ss:Type="String">College Park</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.lib.umd.edu/special</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">UMD_logo.doc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KSJN-FM (Minnesota Public Radio)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Minnesota</Data></Cell>
+    <Cell><Data ss:Type="String">St. Paul</Data></Cell>
+    <Cell><Data ss:Type="String">http://minnesota.publicradio.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">South Carolina Network (SCETV) (WRLK)</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">South Carolina</Data></Cell>
+    <Cell><Data ss:Type="String">Columbia</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.scetv.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WGBH</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">Massachusetts</Data></Cell>
+    <Cell><Data ss:Type="String">Boston</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wgbh.org/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WNYC-FM</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.wnyc.org/</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>42</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>43</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Check_list">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="125" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s39" ss:DefaultColumnWidth="65"
+   ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="344"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="395"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="363"/>
+   <Column ss:StyleID="s39" ss:AutoFitWidth="0" ss:Width="99"/>
+   <Row ss:StyleID="s40">
+    <Cell><Data ss:Type="String">value from pbcoreAnnotation @annotationType=&quot;organization&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">history of station</Data></Cell>
+    <Cell><Data ss:Type="String">significant productions</Data></Cell>
+    <Cell><Data ss:Type="String">logo filename</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WVIA</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WFYI-FM</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WOSU Public Media</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WERU-FM (WERU Community Radio)</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Louisiana Public Broadcasting</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KOCE/PBS SoCal</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">UNC-TV</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Twin Cities Public Television (KTCA-TV)</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WFMU</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Wisconsin Public Radio</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WJCT-FM</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WQED-TV</Data></Cell>
+    <Cell><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Illinois Public Media  (WILL)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUHF-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vegas PBS (KLVX)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WCTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KEXP-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WYSO-FM (WYSO Public Radio)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pacifica Radio Archives</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Wisconsin Public Television (WHA-TV)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WCNY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Iowa Public Television</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Community Television Foundation of South Florida, Inc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vermont Public Television</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chicago Public Radio (WBEZ-FM) and Vocalo.org</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rocky Mountain PBS (KRMA)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KQED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUCB (Unalaska Community Broadcasting/KIAL)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mississippi Public Broadcasting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WSIU Public Broadcasting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WFIU-FM (Public Radio from Indiana University)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thirteen - New York Public Media (WNET)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WVIZ/ideastream</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WNED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WBRA-TV</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KVIE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KRCB</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WYSU 88.5 FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Prairie Public Broadcasting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cincinnati Public Radio (WGUC-FM, WMUB-FM, WVXU-FM)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUSC-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">The Nine Network of Public Media (formerly KETC)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Arkansas Educational TV Network (AETN)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mountain Lake PBS (WCFE)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WGBY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KDLG-AM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KYUK</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WMHT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WRNI (Rhode Island Public Radio)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Appalshop, Inc. (WMMT and Appalshop Films)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KMOS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Film &amp;amp; Media Archive, Washington University in St. Louis</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Oregon Public Broadcasting (OPB)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WXPN-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WTIU (Public Television from Indiana University)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WGVU Public TV &amp;amp; Radio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Iowa Public Radio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New Hampshire Public Radio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WXXI Public Broadcasting (WXXI-TV)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KCAW-FM  (Raven Radio Foundation, Inc.)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KNME</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KXCI Community Radio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Friends of WWOZ, Inc.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ozarks Public Broadcasting (KOZK/KOZJ)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KDNA-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WDVX-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WUFT-TV</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KWSO-FM (Warm Springs Community Radio)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WOJB-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KNBA-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUNM (aka KNME-FM)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Vermont Public Radio - WVPR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WYCC-TV20 PBS Chicago</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WHYY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WKAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WGCU Public Media (WGCU-TV)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KGNU-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PBS Hawaii (KHET)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KAKM (Alaska Public Media)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Detroit Public Television (aka DPTV and WTVS)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Maine Public Broadcasting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WPBS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WSKG Public Broadcasting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New Jersey Network</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Wyoming PBS (KCWC)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WDIY-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WLVT (PBS39)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WRFA-LP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KCTS 9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WHUT-TV (Howard University Television)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KWSU/KTNW (Northwest Public Television)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New Hampshire Public Television</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WIAA-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WUSF</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WFCR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KGLT-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Public Broadcasting Atlanta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WEDU Florida Public Media</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Idaho Public Television</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WTIP (North Shore Community Radio)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KGTF (PBS Guam)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Colorado Public Television</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WUMB-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUOW Puget Sound Public Radio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KET - The Kentucky Network</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WBLV-FM (Blue Lake Public Radio)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pioneer Public Television</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Radio Bilingue</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Southern Oregon Public Television (KSYS/KFTS)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUSP-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KCPT (KCPT Public Television 19)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WHRO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Maryland Public Television</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Connecticut Public Broadcasting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KVCR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUT Radio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KUVO-FM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KEET</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">University of Maryland</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KSJN-FM (Minnesota Public Radio)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">South Carolina Network (SCETV) (WRLK)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WGBH</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">WNYC-FM</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
