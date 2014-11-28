@@ -34,7 +34,7 @@ class Cleaner
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreTitle').each { |node|
       title_type = node.attributes['titleType']
-      node.attributes['titleType'] = title_type && title_type.match(/series|program/i) ? 
+      node.attributes['titleType'] = title_type && ['series','program'].include?(title_type.downcase) ? 
         title_type.downcase : 'other'
     }
     

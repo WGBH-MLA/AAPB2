@@ -32,7 +32,6 @@
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Original footage</instantiationGenerations>
     <instantiationDuration>00:30:00</instantiationDuration>
-    <instantiationLanguage>200</instantiationLanguage>
     <instantiationAnnotation annotationType='Alternate Generation'>Original: footage</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-02 06:31:56</pbcoreAnnotation>
