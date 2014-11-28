@@ -24,8 +24,11 @@ class Cleaner
     
     Cleaner.match(doc, '[not(pbcoreTitle)]') {
       # If there is a match, it's the root node, so no "node" parameter is needed.
-      REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreIdentifier').last.next_sibling =
+      Cleaner.insert_after_match(
+        doc,
+        '/pbcoreDescriptionDocument/pbcoreIdentifier',
         REXML::Document.new('<pbcoreTitle titleType="program">unknown</pbcoreTitle>')
+      )
     }
     
     Cleaner.match(doc, '/pbcoreTitle') { |node|
@@ -66,12 +69,13 @@ class Cleaner
     # pbcoreRightsSummary:
     
     Cleaner.match(doc, '[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]') { |node|
-      REXML::XPath.match(node, Cleaner.any('pbcore', 
-          %w(Description Genre Relation Coverage AudienceLevel AudienceRating Creator Contributor Publisher RightsSummary))
-      ).last.next_sibling =
+      Cleaner.insert_after_match(
+        node,
+        Cleaner.any('pbcore', %w(Description Genre Relation Coverage AudienceLevel AudienceRating Creator Contributor Publisher RightsSummary)),
         REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
                           'ON_LOCATION_ONLY' +
                           '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
+      )
     }
     
     # pbcoreInstantiation:
@@ -85,15 +89,19 @@ class Cleaner
     }
     
     Cleaner.match(doc, '/pbcoreInstantiation[not(instantiationLocation)]') { |node|
-      REXML::XPath.match(node, Cleaner.any('instantiation', 
-          %w(Identifier Date Dimensions Physical Digital Standard))
-      ).last.next_sibling =
+      Cleaner.insert_after_match(
+        node, 
+        Cleaner.any('instantiation', %w(Identifier Date Dimensions Physical Digital Standard)),
         REXML::Element.new('instantiationLocation')
+      )
     }
     
     Cleaner.match(doc, '/pbcoreInstantiation[not(instantiationMediaType)]') { |node|
-      REXML::XPath.match(node, 'instantiationLocation').last.next_sibling =
+      Cleaner.insert_after_match(
+        node,
+        'instantiationLocation',
         REXML::Element.new('instantiationMediaType')
+      )
     }
     
     Cleaner.match(doc, '/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
@@ -124,6 +132,10 @@ class Cleaner
   
   def self.any(pre, list)
     list.map{|item| pre+item}.join('|')
+  end
+  
+  def self.insert_after_match(doc, xpath, insert)
+    REXML::XPath.match(doc, xpath).last.next_sibling = insert
   end
   
   def self.swap_children(node)
