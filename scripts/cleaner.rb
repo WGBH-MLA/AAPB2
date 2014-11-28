@@ -11,10 +11,6 @@ class Cleaner
     @report = []
   end
   
-  def self.any(pre, list)
-    list.map{|item| pre+item}.join('|')
-  end
-  
   def clean(dirty_xml, name='not given')
     doc = REXML::Document.new(dirty_xml)
     
@@ -41,20 +37,13 @@ class Cleaner
     # pbcoreRelation:
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreRelation').each { |node|
-      if node.elements[1].name == 'pbcoreRelationIdentifier'
-        # Correct order. Not really happy with this approach.
-        id = node.elements[1]
-        type = node.elements[2]
-        node.elements.delete_all '*'
-        node.elements[1] = type
-        node.elements[2] = id
-      end
+      Cleaner.swap_children(node) if node.elements[1].name == 'pbcoreRelationIdentifier'
     }
     
     # pbcoreCoverage:
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCoverage[coverageType[not(node())]]').each { |node|
-       node.parent.elements.delete(node)
+       Cleaner.delete(node)
     }
     
     # TODO: this is a rare problem: consider adding a check in the XPath?
@@ -65,13 +54,13 @@ class Cleaner
     # pbcoreCreator/Contributor/Publisher:
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreCreator[not(creator)]').each { |node|
-      node.parent.elements.delete(node)
+      Cleaner.delete(node)
     }
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreContributor[not(contributor)]').each { |node|
-      node.parent.elements.delete(node)
+      Cleaner.delete(node)
     }
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcorePublisher[not(publisher)]').each { |node|
-      node.parent.elements.delete(node)
+      Cleaner.delete(node)
     }
     
     # pbcoreRightsSummary:
@@ -125,6 +114,25 @@ class Cleaner
     output.join('').gsub(/<\?xml version='1\.0' encoding='UTF-8'\?>\s*/, '')
     # XML declaration seems to be output with trailing space, which makes tests just a bit annoying.
     # Just stripping it should be fine.
+  end
+  
+  private
+  
+  def self.any(pre, list)
+    list.map{|item| pre+item}.join('|')
+  end
+  
+  def self.swap_children(node)
+    # Not really happy with this approach.
+    id = node.elements[1]
+    type = node.elements[2]
+    node.elements.delete_all '*'
+    node.elements[1] = type
+    node.elements[2] = id
+  end
+  
+  def self.delete(node)
+    node.parent.elements.delete(node)
   end
   
 end
