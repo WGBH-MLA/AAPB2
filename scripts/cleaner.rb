@@ -113,6 +113,7 @@ class Cleaner
     
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument/pbcoreInstantiation/instantiationLanguage').each { |node|
       node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
+      node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
     }
     
     # formatting:
