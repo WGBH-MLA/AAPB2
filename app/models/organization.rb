@@ -1,5 +1,4 @@
-require 'rexml/document'
-require 'rexml/xpath'
+require_relative 'excel_reader'
 
 class Organization
   attr_reader :code
@@ -25,43 +24,10 @@ class Organization
     @logo_filename = logo_filename
   end
   
-  def self.initialize_class
-    # TODO: better idiom for locating config files?
-    path = File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.xml'
-    xml = File.read(path)
-    doc = REXML::Document.new(xml)
-    
-    row_number = 0
-    @@orgs = Hash[
-      REXML::XPath.match(doc, '/Workbook/Worksheet[1]/Table/Row').map do |row|
-        row_number += 1
-        if row_number == 1
-          nil
-        else
-          params = []
-          index = 0
-          REXML::XPath.match(row, 'Cell/Data').each do |data| 
-            index_attribute = data.parent.attributes['Index']
-            if index_attribute
-              index = index_attribute.to_i # 1-based
-            else
-              index += 1
-            end
-            params[index-1] = data.text
-          end
-          key = params[0]
-          begin
-            value = Organization.new(*params)
-          rescue ArgumentError => e
-            raise ArgumentError.new(e.message + " Row #{row_number}. #{params}. #{row}")
-          end
-          [key,value]
-        end
-      end.select{|x| x}
-    ]
+  # TODO: better idiom for locating configuration files?
+  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.xml').tap do |path|
+    @@orgs = ExcelReader::read(path) { |row| Organization.new(*row) }
   end
-  
-  Organization.initialize_class
   
   public
   
