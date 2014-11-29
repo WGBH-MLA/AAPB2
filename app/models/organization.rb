@@ -1,7 +1,7 @@
 require_relative 'excel_reader'
 
 class Organization
-  attr_reader :code
+  attr_reader :id
   attr_reader :full_name
   attr_reader :state
   attr_reader :city
@@ -12,9 +12,9 @@ class Organization
   
   private
   
-  def initialize(code, full_name=nil, state=nil, city=nil, url=nil, history_html=nil, productions_text=nil, logo_filename=nil)
+  def initialize(id, full_name=nil, state=nil, city=nil, url=nil, history_html=nil, productions_text=nil, logo_filename=nil)
     # TODO: Should all fields be required?
-    @code = code
+    @id = id
     @full_name = full_name
     @state = state
     @city = city
@@ -31,12 +31,12 @@ class Organization
   
   public
   
-  def self.find(code)
-    @@orgs[code]
+  def self.find(id)
+    @@orgs[id]
   end
   
   def to_s
-    "#{self.code} (#{self.city}, #{self.state})"
+    "#{self.id} (TODO: use full_name) (#{self.city}, #{self.state})"
   end
  
 end
