@@ -39,6 +39,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'rubyzip'
+gem 'htmlentities', '~> 4.3.2'
 
 gem 'blacklight'
 gem 'solrizer'
