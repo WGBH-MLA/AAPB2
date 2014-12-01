@@ -18,7 +18,7 @@ if __FILE__ == $0
   
   unzipper.each do |dirty_xml, name|
     begin
-      clean_xml = cleaner.clean(dirty_xml, name)
+      clean_xml = cleaner.clean(dirty_xml)
     rescue => e
       puts "Cleaner died:\n#{dirty_xml}\n#{e.short}"
       next
