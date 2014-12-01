@@ -39,6 +39,10 @@ class Cleaner
     
     # pbcoreRelation:
     
+    Cleaner.match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') { |node|
+       Cleaner.delete(node)
+    }
+    
     Cleaner.match(doc, '/pbcoreRelation') { |node|
       Cleaner.swap_children(node) if node.elements[1].name == 'pbcoreRelationIdentifier'
     }

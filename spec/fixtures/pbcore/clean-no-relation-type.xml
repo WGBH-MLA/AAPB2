@@ -1,0 +1,56 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/16-q814m91v76</pbcoreIdentifier>
+  <pbcoreIdentifier source='Episode Number'>108</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://www.americanmediaarchive.org'>IPTV-2010012514124212630108429072317516514806564295896</pbcoreIdentifier>
+  <pbcoreIdentifier source='IPTV-AAPP'>IPTV-002</pbcoreIdentifier>
+  <pbcoreIdentifier source='OPB American Archive Pilot Project:Assets'>1711</pbcoreIdentifier>
+  <pbcoreIdentifier source='Filename'>iptvtst_19821225_108_DV25</pbcoreIdentifier>
+  <pbcoreTitle titleType='other'>Touchstone 108</pbcoreTitle>
+  <pbcoreSubject>Civil Rights</pbcoreSubject>
+  <pbcoreSubject>Politics</pbcoreSubject>
+  <pbcoreDescription descriptionType='Abstract'>Billie Ray, wife of Iowa Governor Bob Ray</pbcoreDescription>
+  <pbcoreGenre>Talk</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationType>Is Part Of</pbcoreRelationType>
+    <pbcoreRelationIdentifier>18</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreAudienceLevel>Adult</pbcoreAudienceLevel>
+  <pbcoreAudienceRating>TV-G</pbcoreAudienceRating>
+  <pbcoreContributor>
+    <contributor>Iowa Public Television</contributor>
+  </pbcoreContributor>
+  <pbcoreRightsSummary>
+    <rightsSummary>Undefined</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Iowa Public Television'>iptvtst_19821225_108</instantiationIdentifier>
+    <instantiationPhysical>3/4 inch videotape: U-matic</instantiationPhysical>
+    <instantiationLocation>32-A-4 (IPTV ProTrack)</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Moving image/Master</instantiationGenerations>
+    <instantiationDuration>00:28:50</instantiationDuration>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='issued'>12-25-1982</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='American Archive Pilot Project'>iptvtst_19821225_108_DV25</instantiationIdentifier>
+    <instantiationDigital>fmt/5</instantiationDigital>
+    <instantiationLocation>Iowa Public Television</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-07-31 19:53:13</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Iowa Public Television</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
