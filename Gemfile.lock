@@ -54,6 +54,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.8.0)
+    curb (0.8.6)
     daemons (1.1.9)
     deprecation (0.1.0)
       activesupport
@@ -195,6 +196,7 @@ DEPENDENCIES
   blacklight
   capybara
   coffee-rails (~> 4.0.0)
+  curb
   htmlentities (~> 4.3.2)
   jbuilder (~> 2.0)
   jettywrapper (~> 1.7)
