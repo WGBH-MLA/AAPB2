@@ -45,9 +45,41 @@ class Ci
     Uploader.new(self, file_path).upload
   end
   
+  def download(file_path)
+    Downloader.new(self, file_path).download
+  end
+  
   private
   
-  class Uploader
+  class CiClient
+    def perform(curl, mime=nil)
+      # TODO: Is this actually working?
+      curl.on_missing { |data| raise "4xx: #{data}" }
+      curl.on_failure { |data| raise "5xx: #{data}" }
+      curl.verbose = @ci.verbose
+      curl.headers['Authorization'] = "Bearer #{@ci.access_token}"
+      curl.headers['Content-Type'] = mime if mime
+      curl.perform
+    end
+  end
+  
+  class Downloader < CiClient
+    
+    def initialize(ci, asset_id)
+      @ci = ci
+      @asset_id = asset_id
+    end
+    
+    def download
+      curl = Curl::Easy.http_get("https""://api.cimediacloud.com/assets/#{@asset_id}/download") do |c|
+        perform(c)
+      end
+      puts curl.body_str
+    end
+    
+  end
+  
+  class Uploader < CiClient
     
     def initialize(ci, path)
       @ci = ci
@@ -65,16 +97,6 @@ class Ci
     end
     
     private
-    
-    def perform(curl, mime=nil)
-      # TODO: Is this actually working?
-      curl.on_missing { |data| raise "4xx: #{data}" }
-      curl.on_failure { |data| raise "5xx: #{data}" }
-      curl.verbose = @ci.verbose
-      curl.headers['Authorization'] = "Bearer #{@ci.access_token}"
-      curl.headers['Content-Type'] = mime if mime
-      curl.perform
-    end
     
     SINGLEPART_URI = 'https://io.cimediacloud.com/upload'
     MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
@@ -122,10 +144,21 @@ class Ci
 end
 
 if __FILE__ == $0
-  abort 'Expects one argument, the file to upload.' unless ARGV.count == 1
+  abort 'Usage: ci.rb --up FILE | ci.rb --down ID' unless ARGV.count == 2
+  flag = ARGV.shift
+  arg = ARGV.shift
+  
   ci = Ci.new(
     verbose: true, 
     credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
-  ci.cd('051303c1c1d24da7988128e6d2f56aa9')
-  ci.upload(ARGV[0])
+  
+  case flag
+  when '--up'
+    ci.cd('051303c1c1d24da7988128e6d2f56aa9')
+    ci.upload(arg)
+  when '--down'
+    ci.download(arg)
+  else
+    abort "'#{flag}' is not recognized: use '--up' or '--down'"
+  end
 end
