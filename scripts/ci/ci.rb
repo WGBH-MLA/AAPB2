@@ -67,6 +67,8 @@ class Ci
       curl.headers['Authorization'] = "Bearer #{@ci.access_token}"
       curl.perform
     end
+    
+    MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
         
     def initiate_multipart_upload
       params = JSON.generate({
@@ -74,7 +76,7 @@ class Ci
         'size' => @file.size,
         'workspaceId' => @ci.workspace_id
       })
-      curl = Curl::Easy.http_post('https://io.cimediacloud.com/upload/multipart', params) do |c|
+      curl = Curl::Easy.http_post(MULTIPART_URI, params) do |c|
         c.headers['Content-Type'] = 'application/json'
         perform(c)
       end
@@ -82,14 +84,14 @@ class Ci
     end
     
     def do_multipart_upload_part
-      Curl::Easy.http_put("https://io.cimediacloud.com/upload/multipart/#{@asset_id}/1", @file.read) do |c|
+      Curl::Easy.http_put("#{MULTIPART_URI}/#{@asset_id}/1", @file.read) do |c|
         c.headers['Content-Type'] = 'application/octet-stream'
         perform(c)
       end
     end
 
     def complete_multipart_upload
-      Curl::Easy.http_post("https://io.cimediacloud.com/upload/multipart/#{@asset_id}/complete") do |c|
+      Curl::Easy.http_post("#{MULTIPART_URI}/#{@asset_id}/complete") do |c|
         perform(c)
       end
     end
