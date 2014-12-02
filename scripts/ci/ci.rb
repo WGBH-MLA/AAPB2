@@ -52,19 +52,26 @@ class Ci
     def initialize(ci, path)
       @ci = ci
       @file = File.new(path)
-      initiate_multipart_upload
     end
     
     def upload
-      do_multipart_upload_part
-      complete_multipart_upload
+      if @file.size > 5*1024*1024
+        initiate_multipart_upload
+        do_multipart_upload_part
+        complete_multipart_upload
+      else
+        
+      end
     end
     
     private
     
-    def perform(curl)
+    def perform(curl, mime=nil)
+      curl.on_missing { |data| raise "4xx: #{data}" }
+      curl.on_failure { |data| raise "5xx: #{data}" }
       curl.verbose = @ci.verbose
       curl.headers['Authorization'] = "Bearer #{@ci.access_token}"
+      curl.headers['Content-Type'] = mime if mime
       curl.perform
     end
     
@@ -77,16 +84,14 @@ class Ci
         'workspaceId' => @ci.workspace_id
       })
       curl = Curl::Easy.http_post(MULTIPART_URI, params) do |c|
-        c.headers['Content-Type'] = 'application/json'
-        perform(c)
+        perform(c, 'application/json')
       end
       @asset_id = JSON.parse(curl.body_str)['assetId']
     end
     
     def do_multipart_upload_part
       Curl::Easy.http_put("#{MULTIPART_URI}/#{@asset_id}/1", @file.read) do |c|
-        c.headers['Content-Type'] = 'application/octet-stream'
-        perform(c)
+        perform(c, 'application/octet-stream')
       end
     end
 
