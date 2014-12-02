@@ -60,13 +60,14 @@ class Ci
         do_multipart_upload_part
         complete_multipart_upload
       else
-        
+        singlepart_upload
       end
     end
     
     private
     
     def perform(curl, mime=nil)
+      # TODO: Is this actually working?
       curl.on_missing { |data| raise "4xx: #{data}" }
       curl.on_failure { |data| raise "5xx: #{data}" }
       curl.verbose = @ci.verbose
@@ -75,8 +76,23 @@ class Ci
       curl.perform
     end
     
+    SINGLEPART_URI = 'https://io.cimediacloud.com/upload'
     MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
         
+    def singlepart_upload
+      abort 'TODO: Not working.'
+
+      params = {
+        File.basename(@file) => @file.read,
+        'metadata' => JSON.generate({})
+      }.map { |k,v| Curl::PostField.content(k,v) }
+      curl = Curl::Easy.http_post(SINGLEPART_URI, params) do |c|
+        #c.multipart_form_post = true
+        perform(c, 'multipart/form-data')
+        #perform(c, 'application/form-multidata')
+      end
+    end
+    
     def initiate_multipart_upload
       params = JSON.generate({
         'name' => File.basename(@file),
