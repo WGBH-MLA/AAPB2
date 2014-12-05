@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Episode</pbcoreAssetType>
+  <pbcoreIdentifier source="LPB">LSWI-3020</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/17-84zgnthc</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/17-84zgnthc</pbcoreIdentifier>
+  <pbcoreTitle titleType="Episode">Episode 3020</pbcoreTitle>
+  <pbcoreTitle titleType="Series">Louisiana: The State We're In</pbcoreTitle>
+  <pbcoreDescription>Examine a scathing report on the current condition of Louisiana's roads and highways. We'll head to Lafayette where a year-long celebration is underway to mark the 250th anniversary of the birth of the Marquis de Lafayette. Plus, tour a special art exhibit in Baton Rouge that uses numbers to evoke connections to the universe.</pbcoreDescription>
+  <pbcoreDescription>Artist Marion Drennen</pbcoreDescription>
+  <pbcoreGenre>Newsmagazine</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationIdentifier>LSWI</pbcoreRelationIdentifier>
+    <pbcoreRelationType>Is Part Of</pbcoreRelationType>
+  </pbcoreRelation>
+  <pbcoreCreator>
+    <creator>Louisiana Public Broadcasting</creator>
+    <creatorRole>Production Unit</creatorRole>
+  </pbcoreCreator>
+  <pbcorePublisher>
+    <publisher>Louisiana Educational Television Authority</publisher>
+    <publisherRole>Copyright Holder</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="Louisiana Public Broadcasting Archives">IM118/2</instantiationIdentifier>
+    <instantiationDate dateType="created">2007-01-12</instantiationDate>
+    <instantiationDate dateType="issued">2007-01-12</instantiationDate>
+    <instantiationPhysical>MPEG IMX</instantiationPhysical>
+    <instantiationLocation>LPB Tape Library - IMX Shelf</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>00:27:46</instantiationDuration>
+    <instantiationAlternativeModes>Closed Captioned in English</instantiationAlternativeModes>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="Louisiana Public Broadcasting Archives">LSWI-20070112</instantiationIdentifier>
+    <instantiationDate dateType="created">2007-01-12</instantiationDate>
+    <instantiationDate dateType="issued">2007-01-12</instantiationDate>
+    <instantiationPhysical>Betacam Digital (Digi Beta)</instantiationPhysical>
+    <instantiationLocation>LPB Tape Library - SWI Shelf</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master: backup</instantiationGenerations>
+    <instantiationDuration>00:28:20</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="last_modified">2013-06-02 05:39:11</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Louisiana Public Broadcasting</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
