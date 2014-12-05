@@ -1,0 +1,10 @@
+/pbcoreInstantiation/instantiationIdentifier[not(@source)]
+	dirty-yes-fix-no-instantiation-identifier-location-mediaType.xml
+/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]
+	dirty-yes-fix-no-instantiation-identifier-location-mediaType.xml
+/pbcoreInstantiation[not(instantiationIdentifier)]
+	dirty-yes-fix-no-instantiation-identifier-location-mediaType.xml
+/pbcoreInstantiation[not(instantiationLocation)]
+	dirty-yes-fix-no-instantiation-identifier-location-mediaType.xml
+/pbcoreInstantiation[not(instantiationMediaType)]
+	dirty-yes-fix-no-instantiation-identifier-location-mediaType.xml

@@ -1,0 +1,6 @@
+/pbcoreContributor[not(contributor)]
+	dirty-yes-fix-no-contributor.xml
+/pbcoreInstantiation/instantiationIdentifier[not(@source)]
+	dirty-yes-fix-no-contributor.xml
+/pbcoreInstantiation[not(instantiationIdentifier)]
+	dirty-yes-fix-no-contributor.xml

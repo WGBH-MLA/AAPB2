@@ -18,16 +18,16 @@ if __FILE__ == $0
   
   unzipper.each do |dirty_xml, name|
     begin
-      clean_xml = cleaner.clean(dirty_xml)
+      clean_xml = cleaner.clean(dirty_xml,name)
     rescue => e
-      puts "Cleaner died:\n#{dirty_xml}\n#{e.short}"
+      puts "Cleaner.clean died:\n#{dirty_xml}\n#{e.short}"
       next
     end
     
     begin
       pbcore = ValidatedPBCore.new(clean_xml)
     rescue => e
-      puts "ValidatedPBCore died:\nBEFORE:#{dirty_xml}\nAFTER:\n#{clean_xml}\n#{e.short}"
+      puts "ValidatedPBCore.new died:\nBEFORE:#{dirty_xml}\nAFTER:\n#{clean_xml}\n#{e.short}"
       next
     end
     

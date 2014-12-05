@@ -1,5 +1,5 @@
 require 'rexml/document'
-require 'pry'
+require 'set'
 
 class Cleaner
   
@@ -8,21 +8,32 @@ class Cleaner
   def initialize
     # For now, report seems like something that will be used on an ad-hoc basis.
     # Not planning on long-term, stable, tested behavior.
-    @report = []
+    @report = {}
+    def @report.to_s
+      out = ''
+      self.sort.each do |category,set|
+        out << "#{category}\n"
+        set.sort.each do |member|
+          out << "\t#{member}\n"
+        end
+      end
+      out
+    end
   end
   
-  def clean(dirty_xml)
+  def clean(dirty_xml, name)
     doc = REXML::Document.new(dirty_xml)
+    @current_name = name # A little bit icky, but makes the match calls simpler, rather than passing another parameter.
     
     # pbcoreIdentifier:
     
-    Cleaner.match(doc, '/pbcoreIdentifier[not(@source)]') { |node|
+    match(doc, '/pbcoreIdentifier[not(@source)]') { |node|
       node.attributes['source'] = 'unknown'
     }
     
     # pbcoreTitle:
     
-    Cleaner.match(doc, '[not(pbcoreTitle)]') {
+    match(doc, '[not(pbcoreTitle)]') {
       # If there is a match, it's the root node, so no "node" parameter is needed.
       Cleaner.insert_after_match(
         doc,
@@ -31,7 +42,8 @@ class Cleaner
       )
     }
     
-    Cleaner.match(doc, '/pbcoreTitle') { |node|
+    match_no_report(doc, '/pbcoreTitle') { |node|
+      # TODO: report
       title_type = node.attributes['titleType']
       node.attributes['titleType'] = title_type && ['series','program'].include?(title_type.downcase) ? 
         title_type.downcase : 'other'
@@ -39,40 +51,43 @@ class Cleaner
     
     # pbcoreRelation:
     
-    Cleaner.match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') { |node|
+    match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') { |node|
        Cleaner.delete(node)
     }
     
-    Cleaner.match(doc, '/pbcoreRelation') { |node|
-      Cleaner.swap_children(node) if node.elements[1].name == 'pbcoreRelationIdentifier'
+    match_no_report(doc, '/pbcoreRelation') { |node|
+      if node.elements[1].name == 'pbcoreRelationIdentifier'
+        add_report('swapped pbcoreRelation children', @current_name)
+        Cleaner.swap_children(node) 
+      end
     }
     
     # pbcoreCoverage:
     
-    Cleaner.match(doc, '/pbcoreCoverage[coverageType[not(node())]]') { |node|
+    match(doc, '/pbcoreCoverage[coverageType[not(node())]]') { |node|
        Cleaner.delete(node)
     }
     
-    # TODO: this is a rare problem: consider adding a check in the XPath?
-    Cleaner.match(doc, '/pbcoreCoverage/coverageType') { |node|
+    match_no_report(doc, '/pbcoreCoverage/coverageType') { |node|
+      # TODO: report, or tighter XPath
       node.text = node.text.capitalize
     }
     
     # pbcoreCreator/Contributor/Publisher:
     
-    Cleaner.match(doc, '/pbcoreCreator[not(creator)]') { |node|
+    match(doc, '/pbcoreCreator[not(creator)]') { |node|
       Cleaner.delete(node)
     }
-    Cleaner.match(doc, '/pbcoreContributor[not(contributor)]') { |node|
+    match(doc, '/pbcoreContributor[not(contributor)]') { |node|
       Cleaner.delete(node)
     }
-    Cleaner.match(doc, '/pbcorePublisher[not(publisher)]') { |node|
+    match(doc, '/pbcorePublisher[not(publisher)]') { |node|
       Cleaner.delete(node)
     }
     
     # pbcoreRightsSummary:
     
-    Cleaner.match(doc, '[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]') { |node|
+    match_no_report(doc, '[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]') { |node|
       Cleaner.insert_after_match(
         node,
         Cleaner.any('pbcore', %w(Description Genre Relation Coverage AudienceLevel AudienceRating Creator Contributor Publisher RightsSummary)),
@@ -84,15 +99,15 @@ class Cleaner
     
     # pbcoreInstantiation:
     
-    Cleaner.match(doc, '/pbcoreInstantiation[not(instantiationIdentifier)]') { |node|
+    match(doc, '/pbcoreInstantiation[not(instantiationIdentifier)]') { |node|
       node[0,0] = REXML::Element.new('instantiationIdentifier')
     }
     
-    Cleaner.match(doc, '/pbcoreInstantiation/instantiationIdentifier[not(@source)]') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationIdentifier[not(@source)]') { |node|
       node.attributes['source'] = 'unknown'
     }
     
-    Cleaner.match(doc, '/pbcoreInstantiation[not(instantiationLocation)]') { |node|
+    match(doc, '/pbcoreInstantiation[not(instantiationLocation)]') { |node|
       Cleaner.insert_after_match(
         node, 
         Cleaner.any('instantiation', %w(Identifier Date Dimensions Physical Digital Standard)),
@@ -100,7 +115,7 @@ class Cleaner
       )
     }
     
-    Cleaner.match(doc, '/pbcoreInstantiation[not(instantiationMediaType)]') { |node|
+    match(doc, '/pbcoreInstantiation[not(instantiationMediaType)]') { |node|
       Cleaner.insert_after_match(
         node,
         'instantiationLocation',
@@ -108,11 +123,12 @@ class Cleaner
       )
     }
     
-    Cleaner.match(doc, '/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
       node.text='other'
     }
     
-    Cleaner.match(doc,'/pbcoreInstantiation/instantiationLanguage') { |node|
+    match_no_report(doc,'/pbcoreInstantiation/instantiationLanguage') { |node|
+      # TODO: report
       node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
       node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
     }
@@ -130,8 +146,23 @@ class Cleaner
   
   private
   
-  def self.match(doc, xpath_fragment)
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument'+xpath_fragment).each { |node| yield node }
+  def add_report(category, instance)
+    @report[category] ||= Set.new
+    @report[category].add(instance)
+  end
+
+  def match(doc, xpath_fragment)
+    @current_category = xpath_fragment # TODO: Is there a better way to get this into the each-scope?
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument'+xpath_fragment).each do |node| 
+      add_report(@current_category, @current_name)
+      yield node
+    end
+  end
+  
+  def match_no_report(doc, xpath_fragment)
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument'+xpath_fragment).each do |node| 
+      yield node
+    end
   end
   
   def self.any(pre, list)

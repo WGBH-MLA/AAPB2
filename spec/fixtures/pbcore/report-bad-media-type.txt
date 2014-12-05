@@ -1,0 +1,2 @@
+/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]
+	dirty-yes-fix-bad-media-type.xml
