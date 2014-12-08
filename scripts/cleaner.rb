@@ -6,8 +6,9 @@ class Cleaner
   attr_reader :report
   
   def initialize
-    # For now, report seems like something that will be used on an ad-hoc basis.
-    # Not planning on long-term, stable, tested behavior.
+    @asset_type_map = Cleaner.read_map('asset-type-map.txt')
+    @asset_type_approved = @asset_type_map.values
+    
     @report = {}
     def @report.to_s
       out = ''
@@ -24,6 +25,18 @@ class Cleaner
   def clean(dirty_xml, name)
     doc = REXML::Document.new(dirty_xml)
     @current_name = name # A little bit icky, but makes the match calls simpler, rather than passing another parameter.
+    
+    # pbcoreAssetType:
+    
+    match_no_report(doc, '/pbcoreAssetType') { |node|
+      unless @asset_type_approved.include? node.text
+        # TODO: report
+        mapped = @asset_type_map[node.text]
+        node.text = mapped ? mapped : 'Uncataloged'
+      end
+    }
+    
+    # TODO: insert assetType if not given.
     
     # pbcoreIdentifier:
     
@@ -145,6 +158,14 @@ class Cleaner
   end
   
   private
+  
+  def self.read_map(name)
+    Hash[
+      File.readlines(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).map do |line|
+        line.strip.split("\t")
+      end
+    ]
+  end
   
   def add_report(category, instance)
     @report[category] ||= Set.new
