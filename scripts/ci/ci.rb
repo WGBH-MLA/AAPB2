@@ -81,23 +81,27 @@ class Ci
   
   class Uploader < CiClient
     
-    def initialize(ci, path, log_path)
+    def initialize(ci, glob, log_path)
       @ci = ci
-      @file = File.new(path)
+      @paths = Dir[glob]
+      abort "Nothing matches '#{glob}'" if @paths.empty?
       @log_file = File.open(log_path, 'a')
     end
     
     def upload
-      if @file.size > 5*1024*1024
-        initiate_multipart_upload
-        do_multipart_upload_part
-        complete_multipart_upload
-      else
-        singlepart_upload
+      @paths.each do |path|
+        file = File.new(path)
+        if file.size > 5*1024*1024
+          initiate_multipart_upload(file)
+          do_multipart_upload_part(file)
+          complete_multipart_upload
+        else
+          singlepart_upload
+        end
+
+        @log_file.write("#{Time.now}\t#{File.basename(path)}\t#{@asset_id}\n")
+        @log_file.flush
       end
-      
-      @log_file.write("#{Time.now}\t#{File.basename(@file.path)}\t#{@asset_id}\n")
-      @log_file.flush
     end
     
     private
@@ -105,11 +109,11 @@ class Ci
     SINGLEPART_URI = 'https://io.cimediacloud.com/upload'
     MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
         
-    def singlepart_upload
+    def singlepart_upload(file)
       abort 'TODO: Not working.'
 
       params = {
-        File.basename(@file) => @file.read,
+        File.basename(file) => file.read,
         'metadata' => JSON.generate({})
       }.map { |k,v| Curl::PostField.content(k,v) }
       curl = Curl::Easy.http_post(SINGLEPART_URI, params) do |c|
@@ -119,10 +123,10 @@ class Ci
       end
     end
     
-    def initiate_multipart_upload
+    def initiate_multipart_upload(file)
       params = JSON.generate({
-        'name' => File.basename(@file),
-        'size' => @file.size,
+        'name' => File.basename(file),
+        'size' => file.size,
         'workspaceId' => @ci.workspace_id
       })
       curl = Curl::Easy.http_post(MULTIPART_URI, params) do |c|
@@ -131,8 +135,8 @@ class Ci
       @asset_id = JSON.parse(curl.body_str)['assetId']
     end
     
-    def do_multipart_upload_part
-      Curl::Easy.http_put("#{MULTIPART_URI}/#{@asset_id}/1", @file.read) do |c|
+    def do_multipart_upload_part(file)
+      Curl::Easy.http_put("#{MULTIPART_URI}/#{@asset_id}/1", file.read) do |c|
         perform(c, 'application/octet-stream')
       end
     end
@@ -150,7 +154,7 @@ end
 if __FILE__ == $0
   args = Hash[ARGV.slice_before{|a| a.match /^--/}.to_a] rescue {}
   unless [['--log','--up'],['--down']].include? args.keys.sort
-    abort 'Usage: ci.rb --up FILE_OR_DIR --log LOG_FILE | ci.rb --down ID'
+    abort 'Usage: ci.rb --up GLOB --log LOG_FILE | ci.rb --down ID'
   end
   
   ci = Ci.new(
@@ -163,6 +167,6 @@ if __FILE__ == $0
   elsif args.keys.include? '--down'
     ci.download(args['--down'])
   else
-    abort 'BUG'
+    abort 'BUG: validation should have prevented this.'
   end
 end
