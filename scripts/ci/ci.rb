@@ -41,12 +41,12 @@ class Ci
     @workspace_id = workspace_id
   end
   
-  def upload(file_path)
-    Uploader.new(self, file_path).upload
+  def upload(file_path, log_file)
+    Uploader.new(self, file_path, log_file).upload
   end
   
-  def download(file_path)
-    Downloader.new(self, file_path).download
+  def download(asset_id)
+    Downloader.new(self, asset_id).download
   end
   
   private
@@ -81,9 +81,10 @@ class Ci
   
   class Uploader < CiClient
     
-    def initialize(ci, path)
+    def initialize(ci, path, log_path)
       @ci = ci
       @file = File.new(path)
+      @log_file = File.open(log_path, 'a')
     end
     
     def upload
@@ -94,6 +95,9 @@ class Ci
       else
         singlepart_upload
       end
+      
+      @log_file.write("#{Time.now}\t#{File.basename(@file.path)}\t#{@asset_id}\n")
+      @log_file.flush
     end
     
     private
@@ -144,21 +148,21 @@ class Ci
 end
 
 if __FILE__ == $0
-  abort 'Usage: ci.rb --up FILE | ci.rb --down ID' unless ARGV.count == 2
-  flag = ARGV.shift
-  arg = ARGV.shift
+  args = Hash[ARGV.slice_before{|a| a.match /^--/}.to_a] rescue {}
+  unless [['--log','--up'],['--down']].include? args.keys.sort
+    abort 'Usage: ci.rb --up FILE_OR_DIR --log LOG_FILE | ci.rb --down ID'
+  end
   
   ci = Ci.new(
     verbose: true, 
     credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
   
-  case flag
-  when '--up'
+  if args.keys.include? '--up'
     ci.cd('051303c1c1d24da7988128e6d2f56aa9')
-    ci.upload(arg)
-  when '--down'
-    ci.download(arg)
+    ci.upload(args['--up'], args['--log'])
+  elsif args.keys.include? '--down'
+    ci.download(args['--down'])
   else
-    abort "'#{flag}' is not recognized: use '--up' or '--down'"
+    abort 'BUG'
   end
 end
