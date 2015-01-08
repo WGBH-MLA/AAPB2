@@ -1,6 +1,7 @@
 require 'yaml'
 require 'curb'
 require 'json'
+require 'byebug'
 
 class Ci
 
@@ -152,8 +153,12 @@ class Ci
 end
 
 if __FILE__ == $0
-  args = Hash[ARGV.slice_before{|a| a.match /^--/}.to_a] rescue {}
-  unless [['--log','--up'],['--down']].include? args.keys.sort
+  args = Hash[ARGV.slice_before{|a| a.match /^--/}.to_a.map{|a| [a[0].gsub(/^--/,''),a[1..-1]]}] rescue {}
+  up = args['up']
+  down = args['down'][0] rescue nil
+  log = args['log'][0] rescue nil
+
+  unless (up && !up.empty? && log) || down
     abort 'Usage: ci.rb --up GLOB --log LOG_FILE | ci.rb --down ID'
   end
   
@@ -161,11 +166,11 @@ if __FILE__ == $0
     verbose: true, 
     credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
   
-  if args.keys.include? '--up'
+  if up
     ci.cd('051303c1c1d24da7988128e6d2f56aa9')
-    ci.upload(args['--up'], args['--log'])
-  elsif args.keys.include? '--down'
-    ci.download(args['--down'])
+    up.each{|path| ci.upload(path, log)}
+  elsif down
+    ci.download(down)
   else
     abort 'BUG: validation should have prevented this.'
   end
