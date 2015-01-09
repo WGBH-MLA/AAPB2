@@ -166,7 +166,9 @@ class Cleaner
   private
   
   def self.read_map(name)
-    File.readlines(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).map do |line|
+    File.readlines(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).select do |line|
+      line !~ /\s*^#/ && line =~ /\S/
+    end.map do |line|
       pair = line.split("\t").map{|s|s.strip}
       raise "Not a pair: '#{pair}'" unless pair.count == 2
       [pair[0].downcase, pair[1]]
