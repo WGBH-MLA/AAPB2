@@ -31,7 +31,7 @@ class Cleaner
     match_no_report(doc, '/pbcoreAssetType') { |node|
       unless @asset_type_approved.include? node.text
         @asset_type_map.each { |pair|
-          if node.text =~ pair[0] 
+          if node.text.downcase.include? pair[0]
             node.text = pair[1]
             break
           end
@@ -167,8 +167,10 @@ class Cleaner
   
   def self.read_map(name)
     File.readlines(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).map do |line|
-      line.split("\t").map{|s|s.strip}[0..1]
-    end.map{|pair| [/#{pair[0]}/, pair[1]]}
+      pair = line.split("\t").map{|s|s.strip}
+      raise "Not a pair: '#{pair}'" unless pair.count == 2
+      [pair[0].downcase, pair[1]]
+    end
   end
   
   def add_report(category, instance)
