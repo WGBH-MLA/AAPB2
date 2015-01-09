@@ -1,17 +1,16 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+# (Make sure it's an actual tab between columns.)
+
 Album	Album
 Clip	Clip
-clip reel	Clip
-Excerpt	Clip
-News Clip	Clip
-Audio Elements	Element
+Element	Element
 B-roll	Element
 broll	Element
-Element	Element
-Elements	Element
 Field Tape	Element
 News Conference	Element
 NEWS RELEASE	Element
-NEWS RELEASE, SHOOT, INTERVIEWS	Element
 News Tape	Element
 Original footage	Element
 Original recording	Element
@@ -20,42 +19,27 @@ Raw Footage	Element
 Stock Footage	Element
 Stock shot	Element
 unedited footage	Element
-Ep	Episode
-epi	Episode
 Episode	Episode
-CC Program	Program
+Program	Program
 Distribution dub	Program
-Doc only Master (WGBH program)	Program
-Green Label Master (WGBH program)	Program
-IPR Produced Programs	Program
-IPR Produced Programs | role:	Program
 PBS backup	Program
 PBS Master	Program
 PBS Master uncaptioned	Program
 Porgram	Program
-Program	Program
-Protection Master (WGBH program)	Program
 Radio program (Master)	Program
 Television feature	Program
 Television mini-series	Program
 Television series	Program
 Television special	Program
-Advertisement	Promo
-Advertising	Promo
-Advertising--Political commercial	Promo
-Advertising--Promotional announcement	Promo
-Advertising--Public service announcement	Promo
+Promo	Promo
+Advertis	Promo
 Commercial Spots	Promo
-PRomo	Promo
-Promo Footage	Promo
-Promo Master	Promo
-Promo Tape	Promo
-Promos	Promo
-Promotional	Promo
 PSA	Promo
 Public Announcement	Promo
 Trailer	Promo
 Segment	Segment
-Segments	Segment
 Segrment	Segment
 Track	Track
+Ep	Episode
+epi	Episode
+	Uncataloged
