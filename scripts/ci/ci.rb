@@ -108,7 +108,10 @@ class Ci
     MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
         
     def singlepart_upload(file)
-      puts `curl -v -XPOST -i "#{SINGLEPART_URI}" -H "Authorization: Bearer #{@ci.access_token}" -F filename=@#{file.path}`
+      curl = "curl -s -XPOST '#{SINGLEPART_URI}' -H 'Authorization: Bearer #{@ci.access_token}' -F filename='@#{file.path}'"
+      puts ">> #{curl}"
+      body_str = `#{curl}`
+      @asset_id = JSON.parse(body_str)['assetId']
       # TODO: This shouldn't be hard, but it just hasn't worked for me.
 #      params = {
 #        File.basename(file) => file.read,
