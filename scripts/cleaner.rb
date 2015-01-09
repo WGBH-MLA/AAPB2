@@ -7,7 +7,7 @@ class Cleaner
   
   def initialize
     @asset_type_map = Cleaner.read_map('asset-type-map.txt')
-    @asset_type_approved = @asset_type_map.values
+    @asset_type_approved = @asset_type_map.map{|pair| pair[1]}
     
     @report = {}
     def @report.to_s
@@ -30,9 +30,15 @@ class Cleaner
     
     match_no_report(doc, '/pbcoreAssetType') { |node|
       unless @asset_type_approved.include? node.text
-        # TODO: report
-        mapped = @asset_type_map[node.text]
-        node.text = mapped ? mapped : 'Uncataloged'
+        @asset_type_map.each { |pair|
+          if node.text =~ pair[0] 
+            node.text = pair[1]
+            break
+          end
+        }
+        unless @asset_type_approved.include? node.text
+          raise "No match found for '#{node.text}'"
+        end
       end
     }
     
@@ -160,11 +166,9 @@ class Cleaner
   private
   
   def self.read_map(name)
-    Hash[
-      File.readlines(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).map do |line|
-        line.strip.split("\t")
-      end
-    ]
+    File.readlines(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).map do |line|
+      line.split("\t").map{|s|s.strip}[0..1]
+    end.map{|pair| [/#{pair[0]}/, pair[1]]}
   end
   
   def add_report(category, instance)

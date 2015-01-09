@@ -32,6 +32,8 @@ class Ci
       c.http_auth_types = :basic
       c.username = credentials['username']
       c.password = credentials['password']
+      c.on_missing { |curl, data| raise "4xx: #{data}" }
+      c.on_failure { |curl, data| raise "5xx: #{data}" }
       c.perform
     end
 
