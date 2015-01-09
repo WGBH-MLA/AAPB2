@@ -82,27 +82,24 @@ class Ci
   
   class Uploader < CiClient
     
-    def initialize(ci, glob, log_path)
+    def initialize(ci, path, log_path)
       @ci = ci
-      @paths = Dir[glob]
-      abort "Nothing matches '#{glob}'" if @paths.empty?
+      @path = path
       @log_file = File.open(log_path, 'a')
     end
     
     def upload
-      @paths.each do |path|
-        file = File.new(path)
-        if file.size > 5*1024*1024
-          initiate_multipart_upload(file)
-          do_multipart_upload_part(file)
-          complete_multipart_upload
-        else
-          singlepart_upload
-        end
-
-        @log_file.write("#{Time.now}\t#{File.basename(path)}\t#{@asset_id}\n")
-        @log_file.flush
+      file = File.new(@path)
+      if file.size > 5*1024*1024
+        initiate_multipart_upload(file)
+        do_multipart_upload_part(file)
+        complete_multipart_upload
+      else
+        singlepart_upload(file)
       end
+
+      @log_file.write("#{Time.now}\t#{File.basename(@path)}\t#{@asset_id}\n")
+      @log_file.flush
     end
     
     private
@@ -111,17 +108,16 @@ class Ci
     MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
         
     def singlepart_upload(file)
-      abort 'TODO: Not working.'
-
-      params = {
-        File.basename(file) => file.read,
-        'metadata' => JSON.generate({})
-      }.map { |k,v| Curl::PostField.content(k,v) }
-      curl = Curl::Easy.http_post(SINGLEPART_URI, params) do |c|
-        #c.multipart_form_post = true
-        perform(c, 'multipart/form-data')
-        #perform(c, 'application/form-multidata')
-      end
+      puts `curl -v -XPOST -i "#{SINGLEPART_URI}" -H "Authorization: Bearer #{@ci.access_token}" -F filename=@#{file.path}`
+      # TODO: This shouldn't be hard, but it just hasn't worked for me.
+#      params = {
+#        File.basename(file) => file.read,
+#        'metadata' => JSON.generate({})
+#      }.map { |k,v| Curl::PostField.content(k,v) }
+#      curl = Curl::Easy.http_post(SINGLEPART_URI, params) do |c|
+#        c.multipart_form_post = true
+#        perform(c)
+#      end
     end
     
     def initiate_multipart_upload(file)
