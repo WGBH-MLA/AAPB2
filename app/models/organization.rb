@@ -36,6 +36,10 @@ class Organization
     @@orgs[id]
   end
   
+  def self.all
+    @@orgs.values.sort_by { |org| org.state }
+  end
+  
   def to_s
     "#{self.id} (TODO: use full_name) (#{self.city}, #{self.state})"
   end

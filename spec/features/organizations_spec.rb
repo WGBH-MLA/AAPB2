@@ -12,7 +12,7 @@ describe 'Organizations' do
   
   describe '#show' do
     it 'works' do
-      visit '/organizations/1'
+      visit '/organizations/WGBH'
       expect(page.status_code).to eq(200)
       expect(page).to have_text('TODO: one organization')
     end

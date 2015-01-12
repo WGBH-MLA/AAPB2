@@ -1,11 +1,13 @@
 class OrganizationsController < ApplicationController
   
-  def show
-    render 'show'
+  def index
+    @orgs = Organization.all
+    render 'index'
   end
   
-  def index
-    render 'index'
+  def show
+    @org = Organization.find(params[:id])
+    render 'show'
   end
   
 end
