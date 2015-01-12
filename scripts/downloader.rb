@@ -14,6 +14,13 @@ class Downloader
     @log = STDERR
   end
   
+  def download_to_directory(directory_path)
+    download do |content,digitized,page|
+      path = "#{directory_path}/download-#{Time.now.strftime('%v')}-#{digitized}-#{page}.xml"
+      File.write(path, content)
+    end
+  end
+  
   def download
     page = @start_page
     while !@stop_page || page < @stop_page
@@ -39,14 +46,10 @@ if __FILE__ == $0
   
   Dir.chdir(File.dirname(File.dirname(__FILE__)))
   # TODO: what's a good idiom for this?
-#  Dir.mkdir('tmp') rescue ''
-#  Dir.mkdir('tmp/pbcore') rescue ''
-#  Dir.mkdir('tmp/pbcore/download') rescue ''
-  Dir.chdir('tmp/pbcore/download')
-  
+  # Dir.mkdir('tmp') rescue ''
+  # Dir.mkdir('tmp/pbcore') rescue ''
+  # Dir.mkdir('tmp/pbcore/download') rescue ''
+
   downloader = Downloader.new(digitized, start_page, stop_page)
-  downloader.download do |content,digitized,page|
-    path = "download-#{Time.now.strftime('%v')}-#{digitized}-#{page}.xml"
-    File.write(path, content)
-  end
+  downloader.download_to_directory('tmp/pbcore/download')
 end
