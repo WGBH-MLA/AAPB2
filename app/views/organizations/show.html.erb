@@ -1,0 +1,17 @@
+TODO: one organization
+
+<h1><%= @org %></h1>
+
+<p><a href="<%= @org.url %>"><%= @org.url %></a></p>
+
+<% if @org.history_html %>
+  <p>
+    <%= @org.history_html.html_safe %>
+  </p>
+<% end %>
+
+<% if @org.productions_html %>
+  <p>
+    <%= @org.productions_html.html_safe %>
+  </p>
+<% end %>

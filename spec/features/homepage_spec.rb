@@ -1,14 +1,11 @@
 require 'rails_helper'
 
-describe "visiting homepage" do
+describe 'Homepage' do
 
-  before :each do
-    # TODO: ingest object
-  end
-
-  it "works" do
+  it 'works' do
     visit '/'
     expect(page.status_code).to eq(200)
+    expect(page).to have_text('TODO: home page')
   end
 
 end
