@@ -1,11 +1,12 @@
 require 'net/http'
-require 'pry'
 
 class Downloader
 
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
+  
+  TARGET = 'tmp/pbcore/download' # TODO: not used inside class: either make default, or move.
   
   def initialize(digitized, start_page=0, stop_page=nil)
     @digitized = digitized
@@ -30,7 +31,7 @@ class Downloader
         @log << "Paged past end of results: page #{page}\n"
         return
       else
-        @log << "Got page #{page}\n"
+        @log << "Got page #{page} (#{@start_page}-#{@stop_page || '?'}) (digitized=#{@digitized})\n"
         yield(content, @digitized, page)
         page += 1
       end
@@ -51,5 +52,5 @@ if __FILE__ == $0
   # Dir.mkdir('tmp/pbcore/download') rescue ''
 
   downloader = Downloader.new(digitized, start_page, stop_page)
-  downloader.download_to_directory('tmp/pbcore/download')
+  downloader.download_to_directory(Downloader.TARGET)
 end
