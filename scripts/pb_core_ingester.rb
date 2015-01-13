@@ -3,12 +3,19 @@ require_relative '../app/models/validated_pb_core'
 require 'date' # NameError deep in Solrizer without this.
 
 class PBCoreIngester
-    
+   
+  attr_reader :solr
+  
   def initialize(url='http://localhost:8983/solr/')
     @solr = RSolr.connect(url: url) # TODO: read config/solr.yml
   end
   
-  # TODO: maybe batch management? If we don't go in that direction, this should just be a module.
+  def delete_all
+    @solr.delete_by_query('*:*')
+    @solr.commit
+  end
+  
+  # TODO: maybe light session management? If we don't go in that direction, this should just be a module.
   
   def ingest(path)
 
@@ -26,6 +33,7 @@ class PBCoreIngester
 
     begin
       @solr.add(pbcore.to_solr)
+      @solr.commit
     rescue StandardError => e
       raise SolrError.new(e)
     end
