@@ -1,4 +1,4 @@
-The public-facing website of the the American Archive of Public Broadcasting.
+The public-facing website of the the *American Archive of Public Broadcasting*.
 
 For more information:
 - [About the project](http://americanarchive.org/about-the-american-archive/)
@@ -13,12 +13,17 @@ The code is not yet deployed: Its home will be [americanarchive.org](http://amer
 - Start a new terminal to make the `rvm` command available.
 - Clone this repository.
 - `cd` to your copy of the repo.
-- You may see a message from RVM stating that the required Ruby version is not available. Install it as instructed.
-- To get dependencies, `bundle install`.
+- You may see a message from RVM stating that the required Ruby version is not available. 
+Install it as instructed.
+- Get dependencies: `bundle install`
+- Start Solr: `rake jetty:start`
 
-At this point you could
+At this point you can
 
-- run tests
-- start rails
-- or run a script or rake task.
-
+- Run tests: `rspec` (If it's not 100% passing, let us know!)
+- Ingest the fixtures: `ruby scripts/pb_core_ingester.rb spec/fixtures/pbcore/*.xml`
+(Half of these are intentional failures, so don't be alarmed.)
+- Start rails: `rails s`
+- Download pbcore from the AMS: `ruby scripts/download_clean_validate.rb 0 1`
+(This starts at page `0`, and stops before page `1`:
+both arguments are optional, if you want to download everything.)
