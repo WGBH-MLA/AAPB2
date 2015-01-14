@@ -9,6 +9,9 @@ class Ci
   attr_reader :workspace_id
   
   def initialize(opts={})
+    unrecognized_opts = opts.keys - [:verbose, :credentials_path, :credentials]
+    raise "Unrecognized options #{unrecognized_opts}" unless unrecognized_opts == []
+    
     @verbose = opts[:verbose] ? true : false
     
     raise 'Credentials specified twice' if opts[:credentials_path] && opts[:credentials]
@@ -16,7 +19,7 @@ class Ci
     credentials = opts[:credentials] || YAML.load_file(opts[:credentials_path])
     
     credentials.keys.sort.tap { |actual|
-      expected = ['username', 'password', 'client_id', 'client_secret'].sort
+      expected = ['username', 'password', 'client_id', 'client_secret', 'workspace_id'].sort
       raise "Expected #{expected} in ci credentials, not #{actual}" if actual != expected
     }
     
@@ -37,10 +40,7 @@ class Ci
     end
 
     @access_token = JSON.parse(curl.body_str)['access_token']
-  end
-  
-  def cd(workspace_id)
-    @workspace_id = workspace_id
+    @workspace_id = credentials['workspace_id']
   end
   
   def upload(file_path, log_file)
@@ -167,7 +167,6 @@ if __FILE__ == $0
     credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
   
   if up
-    ci.cd('051303c1c1d24da7988128e6d2f56aa9')
     up.each{|path| ci.upload(path, log)}
   elsif down
     ci.download(down)
