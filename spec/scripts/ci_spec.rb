@@ -17,11 +17,14 @@ describe Ci do
   end
   
   it 'catches missing credentials' do
-    expect{Ci.new({})}.to raise_exception('No credentials given')
+    expect{Ci.new({credentials: {}})}.to raise_exception(
+      'Expected ["client_id", "client_secret", "password", "username", "workspace_id"] in ci credentials, not []'
+    )
   end
   
-  it 'ensures not in the production workspace' do
+  it 'connects successfully' do
     expect_scratch_workspace
+    expect(Ci.new({credentials_path: credentials_path}).access_token).to match(/[0-9a-f]{32}/)
   end
   
   def expect_scratch_workspace
