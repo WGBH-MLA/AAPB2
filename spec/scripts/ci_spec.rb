@@ -80,9 +80,11 @@ describe Ci do
   end
   
   def get_ci
-    expect(YAML.load_file(credentials_path)).not_to eq(aapb_workspace_id)
+    workspace_id = YAML.load_file(credentials_path)['workspace_id']
+    expect(workspace_id).to match(/^[0-9a-f]{32}$/)
+    expect(workspace_id).not_to eq(aapb_workspace_id)
     ci = Ci.new({credentials_path: credentials_path})
-    expect(ci.access_token).to match(/[0-9a-f]{32}/)
+    expect(ci.access_token).to match(/^[0-9a-f]{32}$/)
     list = list_names(ci)
     expect(list.count).to eq(0), "Expected workspace #{ci.workspace_id} to be empty, instead of #{list}"
     return ci
