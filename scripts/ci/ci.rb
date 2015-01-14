@@ -1,7 +1,6 @@
 require 'yaml'
 require 'curb'
 require 'json'
-require 'byebug'
 
 class Ci
 
