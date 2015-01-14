@@ -1,5 +1,3 @@
-require 'tiny_spec_helper'
-
 require_relative '../../scripts/unzipper'
 
 describe Unzipper do
