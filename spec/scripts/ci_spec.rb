@@ -54,6 +54,8 @@ describe Ci do
     expect(YAML.load_file(credentials_path)).not_to eq(aapb_workspace_id)
     ci = Ci.new({credentials_path: credentials_path})
     expect(ci.access_token).to match(/[0-9a-f]{32}/)
+    list = ci.list.map{|item| item['name']} - ['Workspace'] # A self reference is present even in an empty workspace.
+    expect(list.count).to eq(0), "Expected workspace #{ci.workspace_id} to be empty, instead of #{list}"
     return ci
   end
 

@@ -51,9 +51,17 @@ class Ci
     Downloader.new(self, asset_id).download
   end
   
+  def list(limit=50, offset=0)
+    Lister.new(self).list(limit, offset)
+  end
+  
   private
   
   class CiClient
+    # This class hierarchy might be excessive, but it gives us:
+    # - a single place for the `perform` method
+    # - and an isolated container for related private methods
+    
     def perform(curl, mime=nil)
       # TODO: Is this actually working?
       curl.on_missing { |data| puts "4xx: #{data}" }
@@ -63,6 +71,21 @@ class Ci
       curl.headers['Content-Type'] = mime if mime
       curl.perform
     end
+  end
+  
+  class Lister < CiClient
+    
+    def initialize(ci)
+      @ci = ci
+    end
+    
+    def list(limit, offset)
+      curl = Curl::Easy.http_get("https:""//api.cimediacloud.com/workspaces/#{@ci.workspace_id}/contents?limit=#{limit}&offset=#{offset}") do |c|
+        perform(c)
+      end
+      JSON.parse(curl.body_str)['items']
+    end
+    
   end
   
   class Downloader < CiClient
