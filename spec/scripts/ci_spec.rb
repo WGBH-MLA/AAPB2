@@ -46,13 +46,14 @@ describe Ci do
         File.write(path, "content doesn't matter")
         expect{ci.upload(path, log_path)}.not_to raise_exception
       end
+      expect(list_names(ci).count).to eq(1)
+      
       log_content = File.read(log_path)
       expect(log_content).to match(/^[^\t]+\tfile-name\.txt\t[0-9a-f]{32}\n$/)
       id = log_content.strip.split("\t")[2]
       ci.delete(id)
     end
-    list = list_names(ci)
-    expect(list.count).to eq(0)
+    expect(list_names(ci).count).to eq(0)
   end
   
   it 'allows big files' do
@@ -68,13 +69,14 @@ describe Ci do
       expect(big_file.size).to be > (5*1024*1024)
       expect(big_file.size).to be < (6*1024*1024)
       expect{ci.upload(path, log_path)}.not_to raise_exception
+      expect(list_names(ci).count).to eq(1)
+      
       log_content = File.read(log_path)
       expect(log_content).to match(/^[^\t]+\tbig-file\.txt\t[0-9a-f]{32}\n$/)
       id = log_content.strip.split("\t")[2]
       ci.delete(id)
     end
-    list = list_names(ci)
-    expect(list.count).to eq(0)
+    expect(list_names(ci).count).to eq(0)
   end
   
   def get_ci
