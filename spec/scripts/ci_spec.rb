@@ -55,6 +55,28 @@ describe Ci do
     expect(list.count).to eq(0)
   end
   
+  it 'allows big files' do
+    ci = get_ci
+    Dir.mktmpdir do |dir|
+      log_path = "#{dir}/log.txt"
+      path = "#{dir}/big-file.txt"
+      big_file = File.open(path, 'a')
+      (5*1024).times do |k|
+        big_file.write("#{k}K"+'.'*1024+"\n")
+      end
+      big_file.flush
+      expect(big_file.size).to be > (5*1024*1024)
+      expect(big_file.size).to be < (6*1024*1024)
+      expect{ci.upload(path, log_path)}.not_to raise_exception
+      log_content = File.read(log_path)
+      expect(log_content).to match(/^[^\t]+\tbig-file\.txt\t[0-9a-f]{32}\n$/)
+      id = log_content.strip.split("\t")[2]
+      ci.delete(id)
+    end
+    list = list_names(ci)
+    expect(list.count).to eq(0)
+  end
+  
   def get_ci
     expect(YAML.load_file(credentials_path)).not_to eq(aapb_workspace_id)
     ci = Ci.new({credentials_path: credentials_path})
