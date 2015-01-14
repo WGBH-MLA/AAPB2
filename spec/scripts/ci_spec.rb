@@ -37,7 +37,7 @@ describe Ci do
     end
   end
   
-  it 'allows .txt (small files)' do
+  it 'allows other filetypes (small files)' do
     ci = get_ci
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
@@ -46,17 +46,27 @@ describe Ci do
         File.write(path, "content doesn't matter")
         expect{ci.upload(path, log_path)}.not_to raise_exception
       end
-      expect(File.read(log_path)).to match(/[^\t]+\tfile-name\.txt\t[0-9a-f]{32}\n/)
+      log_content = File.read(log_path)
+      expect(log_content).to match(/^[^\t]+\tfile-name\.txt\t[0-9a-f]{32}\n$/)
+      id = log_content.strip.split("\t")[2]
+      ci.delete(id)
     end
+    list = list_names(ci)
+    expect(list.count).to eq(0)
   end
   
   def get_ci
     expect(YAML.load_file(credentials_path)).not_to eq(aapb_workspace_id)
     ci = Ci.new({credentials_path: credentials_path})
     expect(ci.access_token).to match(/[0-9a-f]{32}/)
-    list = ci.list.map{|item| item['name']} - ['Workspace'] # A self reference is present even in an empty workspace.
+    list = list_names(ci)
     expect(list.count).to eq(0), "Expected workspace #{ci.workspace_id} to be empty, instead of #{list}"
     return ci
+  end
+  
+  def list_names(ci)
+    # TODO: Maybe this should be a real method on CiClient? Not sure.
+    ci.list.map{|item| item['name']} - ['Workspace'] # A self reference is present even in an empty workspace.
   end
 
 end

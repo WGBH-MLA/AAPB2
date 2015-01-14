@@ -55,6 +55,10 @@ class Ci
     Lister.new(self).list(limit, offset)
   end
   
+  def delete(asset_id)
+    Deleter.new(self).delete(asset_id)
+  end
+  
   private
   
   class CiClient
@@ -71,6 +75,20 @@ class Ci
       curl.headers['Content-Type'] = mime if mime
       curl.perform
     end
+  end
+  
+  class Deleter < CiClient
+    
+    def initialize(ci)
+      @ci = ci
+    end
+    
+    def delete(asset_id)
+      curl = Curl::Easy.http_delete("https:""//api.cimediacloud.com/assets/#{asset_id}") do |c|
+        perform(c)
+      end
+    end
+    
   end
   
   class Lister < CiClient
