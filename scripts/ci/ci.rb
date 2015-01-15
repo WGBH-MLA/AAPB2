@@ -243,19 +243,22 @@ if __FILE__ == $0
   up = args['up']
   down = args['down'][0] rescue nil
   log = args['log'][0] rescue nil
+  list = args['list']
 
-  unless (up && !up.empty? && log) || down
+  unless (up && !up.empty? && log) || down || (list && list.empty?)
     abort 'Usage: ci.rb --up GLOB --log LOG_FILE | ci.rb --down ID'
   end
   
   ci = Ci.new(
-    verbose: true, 
+    #verbose: true, 
     credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
   
   if up
     up.each{|path| ci.upload(path, log)}
   elsif down
     puts ci.download(down)
+  elsif list
+    ci.each{|asset| puts "#{asset['name']}\t#{asset['id']}"}
   else
     abort 'BUG: validation should have prevented this.'
   end
