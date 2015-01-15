@@ -124,7 +124,7 @@ describe Ci do
     
     # make sure cache is working:
     expect(after-middle).to be < 0.01
-    expect(middle-before).to be > 1
+    expect(middle-before).to be > 0.1 # Often greater than 1
     
     expect(download_url).to match(/^https:\/\/ci-buckets/)
     if File.new(path).size < 1024
