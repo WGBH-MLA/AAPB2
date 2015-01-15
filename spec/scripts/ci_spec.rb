@@ -41,16 +41,19 @@ describe Ci do
     ci = get_ci
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
-      ['txt'].each do |allowed_ext|
-        path = "#{dir}/file-name.#{allowed_ext}"
-        File.write(path, "content doesn't matter")
-        expect{ci.upload(path, log_path)}.not_to raise_exception
-      end
+      path = "#{dir}/small-file.txt"
+      File.write(path, "content doesn't matter")
+      expect{ci.upload(path, log_path)}.not_to raise_exception
+      
       expect(list_names(ci).count).to eq(1)
       
       log_content = File.read(log_path)
-      expect(log_content).to match(/^[^\t]+\tfile-name\.txt\t[0-9a-f]{32}\n$/)
+      expect(log_content).to match(/^[^\t]+\tsmall-file\.txt\t[0-9a-f]{32}\n$/)
       id = log_content.strip.split("\t")[2]
+      
+      detail = ci.detail(id)
+      expect([detail['name'],detail['id']]).to eq(['small-file.txt',id])
+      
       ci.delete(id)
     end
     expect(list_names(ci).count).to eq(0)
@@ -69,11 +72,16 @@ describe Ci do
       expect(big_file.size).to be > (5*1024*1024)
       expect(big_file.size).to be < (6*1024*1024)
       expect{ci.upload(path, log_path)}.not_to raise_exception
+      
       expect(list_names(ci).count).to eq(1)
       
       log_content = File.read(log_path)
       expect(log_content).to match(/^[^\t]+\tbig-file\.txt\t[0-9a-f]{32}\n$/)
       id = log_content.strip.split("\t")[2]
+      
+      detail = ci.detail(id)
+      expect([detail['name'],detail['id']]).to eq(['big-file.txt',id])
+      
       ci.delete(id)
     end
     expect(list_names(ci).count).to eq(0)

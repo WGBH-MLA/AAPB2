@@ -59,6 +59,10 @@ class Ci
     Deleter.new(self).delete(asset_id)
   end
   
+  def detail(asset_id)
+    Detailer.new(self).detail(asset_id)
+  end
+  
   private
   
   class CiClient
@@ -75,6 +79,21 @@ class Ci
       curl.headers['Content-Type'] = mime if mime
       curl.perform
     end
+  end
+  
+  class Detailer < CiClient
+    
+    def initialize(ci)
+      @ci = ci
+    end
+    
+    def detail(asset_id)
+      curl = Curl::Easy.http_get("https:""//api.cimediacloud.com/assets/#{asset_id}") do |c|
+        perform(c)
+      end
+      JSON.parse(curl.body_str)
+    end
+    
   end
   
   class Deleter < CiClient
