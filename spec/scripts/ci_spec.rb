@@ -74,6 +74,24 @@ describe Ci do
     end
   end
   
+  it 'enumerates' do
+    ci = get_ci
+    count = 6
+    Dir.mktmpdir do |dir|
+      log_path = "#{dir}/log.txt"
+      count.times{|i|
+        path = "#{dir}/small-file-#{i}.mp4"
+        File.write(path, "lorem ipsum #{i}")
+        ci.upload(path, log_path)
+      }
+    end
+    
+    ids = ci.map{|asset| asset['id']}
+    expect(ids.count).to eq(count+1) # workspace itself is in list.
+    ids.each{|id| ci.delete(id)} # ci.each won't work, because you delete the data under your feet.
+    expect(ci.map{|asset| asset['id']}.count).to eq(1) # workspace can't be deleted.
+  end
+  
   def get_ci
     workspace_id = YAML.load_file(credentials_path)['workspace_id']
     expect(workspace_id).to match(/^[0-9a-f]{32}$/)

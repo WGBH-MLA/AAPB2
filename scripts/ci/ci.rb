@@ -3,6 +3,8 @@ require 'curb'
 require 'json'
 
 class Ci
+  
+  include Enumerable
 
   attr_reader :access_token
   attr_reader :verbose
@@ -55,6 +57,10 @@ class Ci
   
   def list(limit=50, offset=0)
     Lister.new(self).list(limit, offset)
+  end
+  
+  def each
+    Lister.new(self).each{|asset| yield asset}
   end
   
   def delete(asset_id)
@@ -114,6 +120,8 @@ class Ci
   
   class Lister < CiClient
     
+    include Enumerable
+    
     def initialize(ci)
       @ci = ci
     end
@@ -123,6 +131,17 @@ class Ci
         perform(c)
       end
       JSON.parse(curl.body_str)['items']
+    end
+    
+    def each
+      limit = 5 # Small chunks so it's easy to spot windowing problems
+      offset = 0
+      while true do
+        assets = list(limit, offset)
+        break if assets.empty?
+        assets.each{|asset| yield asset}
+        offset += limit
+      end
     end
     
   end
