@@ -43,20 +43,8 @@ describe Ci do
       log_path = "#{dir}/log.txt"
       path = "#{dir}/small-file.txt"
       File.write(path, "content doesn't matter")
-      expect{ci.upload(path, log_path)}.not_to raise_exception
-      
-      expect(list_names(ci).count).to eq(1)
-      
-      log_content = File.read(log_path)
-      expect(log_content).to match(/^[^\t]+\tsmall-file\.txt\t[0-9a-f]{32}\n$/)
-      id = log_content.strip.split("\t")[2]
-      
-      detail = ci.detail(id)
-      expect([detail['name'],detail['id']]).to eq(['small-file.txt',id])
-      
-      ci.delete(id)
+      expect_upload(ci, path, log_path)
     end
-    expect(list_names(ci).count).to eq(0)
   end
   
   it 'allows big files' do
@@ -71,20 +59,8 @@ describe Ci do
       big_file.flush
       expect(big_file.size).to be > (5*1024*1024)
       expect(big_file.size).to be < (6*1024*1024)
-      expect{ci.upload(path, log_path)}.not_to raise_exception
-      
-      expect(list_names(ci).count).to eq(1)
-      
-      log_content = File.read(log_path)
-      expect(log_content).to match(/^[^\t]+\tbig-file\.txt\t[0-9a-f]{32}\n$/)
-      id = log_content.strip.split("\t")[2]
-      
-      detail = ci.detail(id)
-      expect([detail['name'],detail['id']]).to eq(['big-file.txt',id])
-      
-      ci.delete(id)
+      expect_upload(ci, path, log_path)
     end
-    expect(list_names(ci).count).to eq(0)
   end
   
   def get_ci
@@ -96,6 +72,24 @@ describe Ci do
     list = list_names(ci)
     expect(list.count).to eq(0), "Expected workspace #{ci.workspace_id} to be empty, instead of #{list}"
     return ci
+  end
+  
+  def expect_upload(ci, path, log_path)
+    basename = File.basename(path)
+    expect{ci.upload(path, log_path)}.not_to raise_exception
+      
+    expect(list_names(ci).count).to eq(1)
+
+    log_content = File.read(log_path)
+    expect(log_content).to match(/^[^\t]+\t#{basename}\t[0-9a-f]{32}\n$/)
+    id = log_content.strip.split("\t")[2]
+
+    detail = ci.detail(id)
+    expect([detail['name'],detail['id']]).to eq([basename,id])
+
+    ci.delete(id)
+    expect(ci.detail(id)['isDeleted']).to eq(true)
+    expect(list_names(ci).count).to eq(0)
   end
   
   def list_names(ci)
