@@ -52,7 +52,7 @@ class Ci
   end
   
   def download(asset_id)
-    Downloader.new(self, asset_id).download
+    Downloader.new(self).download(asset_id)
   end
   
   def list(limit=50, offset=0)
@@ -111,7 +111,7 @@ class Ci
     end
     
     def delete(asset_id)
-      curl = Curl::Easy.http_delete("https:""//api.cimediacloud.com/assets/#{asset_id}") do |c|
+      Curl::Easy.http_delete("https:""//api.cimediacloud.com/assets/#{asset_id}") do |c|
         perform(c)
       end
     end
@@ -148,16 +148,22 @@ class Ci
   
   class Downloader < CiClient
     
-    def initialize(ci, asset_id)
+    @@cache = {}
+    
+    def initialize(ci)
       @ci = ci
-      @asset_id = asset_id
     end
     
-    def download
-      curl = Curl::Easy.http_get("https""://api.cimediacloud.com/assets/#{@asset_id}/download") do |c|
-        perform(c)
+    def download(asset_id)
+      hit = @@cache[asset_id]
+      if !hit || hit[:expires] < Time.now
+        curl = Curl::Easy.http_get("https""://api.cimediacloud.com/assets/#{asset_id}/download") do |c|
+          perform(c)
+        end
+        url = JSON.parse(curl.body_str)['location']
+        @@cache[asset_id] = {url: url, expires: Time.now + 3*60*60}
       end
-      JSON.parse(curl.body_str)['location']
+      @@cache[asset_id]
     end
     
   end

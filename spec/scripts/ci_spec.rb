@@ -52,7 +52,7 @@ describe Ci do
     ci = get_ci
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
-      path = "#{dir}/small-file.mp4"
+      path = "#{dir}/small-file.txt"
       File.write(path, "lorem ipsum")
       expect_upload(ci, path, log_path)
     end
@@ -116,7 +116,16 @@ describe Ci do
     detail = ci.detail(id)
     expect([detail['name'],detail['id']]).to eq([basename,id])
     
+    before = Time.now
     download_url = ci.download(id)
+    middle = Time.now
+    download_url = ci.download(id)
+    after = Time.now
+    
+    # make sure cache is working:
+    expect(after-middle).to be < 0.01
+    expect(middle-before).to be > 0.1 # Often greater than 1
+    
     expect(download_url).to match(/^https:\/\/ci-buckets/)
     if File.new(path).size < 1024
       curl = Curl::Easy.http_get(download_url)
