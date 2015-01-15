@@ -3,6 +3,8 @@ require 'curb'
 require 'json'
 
 class Ci
+  
+  include Enumerable
 
   attr_reader :access_token
   attr_reader :verbose
@@ -34,8 +36,8 @@ class Ci
       c.http_auth_types = :basic
       c.username = credentials['username']
       c.password = credentials['password']
-      c.on_missing { |curl, data| puts "4xx: #{data}" }
-      c.on_failure { |curl, data| puts "5xx: #{data}" }
+      # c.on_missing { |curl, data| puts "4xx: #{data}" }
+      # c.on_failure { |curl, data| puts "5xx: #{data}" }
       c.perform
     end
 
@@ -57,6 +59,10 @@ class Ci
     Lister.new(self).list(limit, offset)
   end
   
+  def each
+    Lister.new(self).each{|asset| yield asset}
+  end
+  
   def delete(asset_id)
     Deleter.new(self).delete(asset_id)
   end
@@ -74,8 +80,8 @@ class Ci
     
     def perform(curl, mime=nil)
       # TODO: Is this actually working?
-      curl.on_missing { |data| puts "4xx: #{data}" }
-      curl.on_failure { |data| puts "5xx: #{data}" }
+      # curl.on_missing { |data| puts "4xx: #{data}" }
+      # curl.on_failure { |data| puts "5xx: #{data}" }
       curl.verbose = @ci.verbose
       curl.headers['Authorization'] = "Bearer #{@ci.access_token}"
       curl.headers['Content-Type'] = mime if mime
@@ -114,6 +120,8 @@ class Ci
   
   class Lister < CiClient
     
+    include Enumerable
+    
     def initialize(ci)
       @ci = ci
     end
@@ -123,6 +131,17 @@ class Ci
         perform(c)
       end
       JSON.parse(curl.body_str)['items']
+    end
+    
+    def each
+      limit = 5 # Small chunks so it's easy to spot windowing problems
+      offset = 0
+      while true do
+        assets = list(limit, offset)
+        break if assets.empty?
+        assets.each{|asset| yield asset}
+        offset += limit
+      end
     end
     
   end
@@ -161,7 +180,9 @@ class Ci
         singlepart_upload(file)
       end
 
-      @log_file.write("#{Time.now}\t#{File.basename(@path)}\t#{@asset_id}\n")
+      row = [Time.now, File.basename(@path), @asset_id, 
+        @ci.detail(@asset_id).to_s.gsub("\n",' ')]
+      @log_file.write(row.join("\t")+"\n")
       @log_file.flush
     end
     
@@ -171,10 +192,11 @@ class Ci
     MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
         
     def singlepart_upload(file)
-      curl = "curl -s -XPOST '#{SINGLEPART_URI}' -H 'Authorization: Bearer #{@ci.access_token}' -F filename='@#{file.path}'"
-      puts ">> #{curl}"
+      curl = "curl -s -XPOST '#{SINGLEPART_URI}'" +
+        " -H 'Authorization: Bearer #{@ci.access_token}'" +
+        " -F filename='@#{file.path}'" +
+        " -F metadata=\"{'workspaceId': '#{@ci.workspace_id}'}\""
       body_str = `#{curl}`
-      puts "<< #{body_str}"
       @asset_id = JSON.parse(body_str)['assetId']
       raise "Upload failed: #{body_str}" unless @asset_id
       # TODO: This shouldn't be hard, but it just hasn't worked for me.
@@ -221,19 +243,22 @@ if __FILE__ == $0
   up = args['up']
   down = args['down'][0] rescue nil
   log = args['log'][0] rescue nil
+  list = args['list']
 
-  unless (up && !up.empty? && log) || down
-    abort 'Usage: ci.rb --up GLOB --log LOG_FILE | ci.rb --down ID'
+  unless (up && !up.empty? && log) || down || (list && list.empty?)
+    abort 'Usage: ci.rb --up GLOB --log LOG_FILE | ci.rb --down ID | ci.rb --list'
   end
   
   ci = Ci.new(
-    verbose: true, 
+    #verbose: true, 
     credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
   
   if up
     up.each{|path| ci.upload(path, log)}
   elsif down
     puts ci.download(down)
+  elsif list
+    ci.each{|asset| puts "#{asset['name']}\t#{asset['id']}"}
   else
     abort 'BUG: validation should have prevented this.'
   end
