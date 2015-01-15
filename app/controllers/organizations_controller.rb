@@ -6,7 +6,7 @@ class OrganizationsController < ApplicationController
   end
   
   def show
-    @org = Organization.find(params[:id])
+    @org = Organization.find_by_id(params[:id])
     render 'show'
   end
   

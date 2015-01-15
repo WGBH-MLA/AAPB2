@@ -121,7 +121,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'has organization' do
-        expect(pbc.organization).to eq(Organization.find('WGBH'))
+        expect(pbc.organization).to eq(Organization.find_by_pbcore_name('WGBH'))
       end
 
       it 'has rights_code' do
