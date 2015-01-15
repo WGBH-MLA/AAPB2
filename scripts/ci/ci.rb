@@ -34,8 +34,8 @@ class Ci
       c.http_auth_types = :basic
       c.username = credentials['username']
       c.password = credentials['password']
-      c.on_missing { |curl, data| puts "4xx: #{data}" }
-      c.on_failure { |curl, data| puts "5xx: #{data}" }
+      # c.on_missing { |curl, data| puts "4xx: #{data}" }
+      # c.on_failure { |curl, data| puts "5xx: #{data}" }
       c.perform
     end
 
@@ -74,8 +74,8 @@ class Ci
     
     def perform(curl, mime=nil)
       # TODO: Is this actually working?
-      curl.on_missing { |data| puts "4xx: #{data}" }
-      curl.on_failure { |data| puts "5xx: #{data}" }
+      # curl.on_missing { |data| puts "4xx: #{data}" }
+      # curl.on_failure { |data| puts "5xx: #{data}" }
       curl.verbose = @ci.verbose
       curl.headers['Authorization'] = "Bearer #{@ci.access_token}"
       curl.headers['Content-Type'] = mime if mime
@@ -171,10 +171,11 @@ class Ci
     MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
         
     def singlepart_upload(file)
-      curl = "curl -s -XPOST '#{SINGLEPART_URI}' -H 'Authorization: Bearer #{@ci.access_token}' -F filename='@#{file.path}'"
-      puts ">> #{curl}"
+      curl = "curl -s -XPOST '#{SINGLEPART_URI}'" +
+        " -H 'Authorization: Bearer #{@ci.access_token}'" +
+        " -F filename='@#{file.path}'" +
+        " -F metadata=\"{'workspaceId': '#{@ci.workspace_id}'}\""
       body_str = `#{curl}`
-      puts "<< #{body_str}"
       @asset_id = JSON.parse(body_str)['assetId']
       raise "Upload failed: #{body_str}" unless @asset_id
       # TODO: This shouldn't be hard, but it just hasn't worked for me.
