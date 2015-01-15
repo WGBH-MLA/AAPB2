@@ -138,7 +138,7 @@ class Ci
       curl = Curl::Easy.http_get("https""://api.cimediacloud.com/assets/#{@asset_id}/download") do |c|
         perform(c)
       end
-      puts curl.body_str
+      JSON.parse(curl.body_str)['location']
     end
     
   end
@@ -233,7 +233,7 @@ if __FILE__ == $0
   if up
     up.each{|path| ci.upload(path, log)}
   elsif down
-    ci.download(down)
+    puts ci.download(down)
   else
     abort 'BUG: validation should have prevented this.'
   end

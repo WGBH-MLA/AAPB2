@@ -52,8 +52,8 @@ describe Ci do
     ci = get_ci
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
-      path = "#{dir}/small-file.txt"
-      File.write(path, "content doesn't matter")
+      path = "#{dir}/small-file.mp4"
+      File.write(path, "lorem ipsum")
       expect_upload(ci, path, log_path)
     end
   end
@@ -97,6 +97,14 @@ describe Ci do
 
     detail = ci.detail(id)
     expect([detail['name'],detail['id']]).to eq([basename,id])
+    
+    download_url = ci.download(id)
+    expect(download_url).to match(/^https:\/\/ci-buckets/)
+    if File.new(path).size < 1024
+      curl = Curl::Easy.http_get(download_url)
+      curl.perform
+      expect(curl.body_str).to eq(File.read(path)) # round trip!
+    end
 
     ci.delete(id)
     expect(ci.detail(id)['isDeleted']).to eq(true)
