@@ -2,6 +2,7 @@ require_relative 'excel_reader'
 require_relative 'htmlizer'
 
 class Organization
+  attr_reader :pbcore_name
   attr_reader :id
   attr_reader :full_name
   attr_reader :state
@@ -13,8 +14,10 @@ class Organization
   
   private
   
-  def initialize(id, full_name=nil, state=nil, city=nil, url=nil, history_text=nil, productions_text=nil, logo_filename=nil)
+  def initialize(pbcore_name, id, full_name=nil, state=nil, city=nil, 
+      url=nil, history_text=nil, productions_text=nil, logo_filename=nil, notes=nil)
     # TODO: Should all fields be required?
+    @pbcore_name = pbcore_name
     @id = id
     @full_name = full_name
     @state = state
@@ -27,21 +30,26 @@ class Organization
   
   # TODO: better idiom for locating configuration files?
   (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.xml').tap do |path|
-    @@orgs = ExcelReader::read(path) { |row| Organization.new(*row) }
+    @@orgs_by_pbcore_name = ExcelReader::read(path,0) { |row| Organization.new(*row) }
+    @@orgs_by_id          = ExcelReader::read(path,1) { |row| Organization.new(*row) }
   end
   
   public
   
-  def self.find(id)
-    @@orgs[id]
+  def self.find_by_pbcore_name(pbcore_name)
+    @@orgs_by_pbcore_name[pbcore_name]
+  end
+  
+  def self.find_by_id(id)
+    @@orgs_by_id[id]
   end
   
   def self.all
-    @@orgs.values.sort_by { |org| org.state }
+    @@orgs_by_id.values.sort_by { |org| org.state }
   end
   
   def to_s
-    "#{self.id} (TODO: use full_name) (#{self.city}, #{self.state})"
+    "#{id}: #{pbcore_name} (#{city}, #{state})"
   end
  
 end

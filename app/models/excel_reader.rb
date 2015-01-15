@@ -2,7 +2,7 @@ require 'rexml/document'
 require 'rexml/xpath'
 
 module ExcelReader
-  def self.read(path)
+  def self.read(path, key_column=0)
     doc = REXML::Document.new(File.read(path))
     row_number = 0
     Hash[
@@ -22,7 +22,7 @@ module ExcelReader
             end
             params[index-1] = data.text
           end
-          key = params[0]
+          key = params[key_column]
           begin
             value = yield(params)
           rescue ArgumentError => e

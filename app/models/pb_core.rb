@@ -52,7 +52,7 @@ class PBCore
     @organization_code ||= xpath('pbcoreAnnotation[@annotationType="organization"]')
   end
   def organization
-    @organization ||= Organization.find(organization_code)
+    @organization ||= Organization.find_by_pbcore_name(organization_code)
   end
   def rights_code
     @rights_code ||= xpath('pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
