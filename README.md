@@ -18,6 +18,20 @@ Install it as instructed.
 - Get dependencies: `bundle install`
 - Start Solr: `rake jetty:start`
 
+If you'll be interacting with [Sony Ci](http://developers.cimediacloud.com), you'll also need `config/ci.yml`.
+(This is git-ignored since it contains a data which should not be publicized.)
+
+```yaml
+username: [your ci username]
+password: [your ci password]
+client_id: [32 character hexadecimal client ID]
+client_secret: [32 character hexadecimal client secret]
+workspace_id: [32 character hexadecimal workspace ID]
+```
+
+Use your personal workspace ID if you are working on the Ci code itself, or the 
+AAPB workspace ID if you want to view media that is stored.
+
 At this point you can
 
 - Run tests: `rspec` (If it's not 100% passing, let us know!)

@@ -9,6 +9,9 @@ class Ci
   attr_reader :workspace_id
   
   def initialize(opts={})
+    unrecognized_opts = opts.keys - [:verbose, :credentials_path, :credentials]
+    raise "Unrecognized options #{unrecognized_opts}" unless unrecognized_opts == []
+    
     @verbose = opts[:verbose] ? true : false
     
     raise 'Credentials specified twice' if opts[:credentials_path] && opts[:credentials]
@@ -16,7 +19,7 @@ class Ci
     credentials = opts[:credentials] || YAML.load_file(opts[:credentials_path])
     
     credentials.keys.sort.tap { |actual|
-      expected = ['username', 'password', 'client_id', 'client_secret'].sort
+      expected = ['username', 'password', 'client_id', 'client_secret', 'workspace_id'].sort
       raise "Expected #{expected} in ci credentials, not #{actual}" if actual != expected
     }
     
@@ -31,16 +34,13 @@ class Ci
       c.http_auth_types = :basic
       c.username = credentials['username']
       c.password = credentials['password']
-      c.on_missing { |curl, data| raise "4xx: #{data}" }
-      c.on_failure { |curl, data| raise "5xx: #{data}" }
+      c.on_missing { |curl, data| puts "4xx: #{data}" }
+      c.on_failure { |curl, data| puts "5xx: #{data}" }
       c.perform
     end
 
     @access_token = JSON.parse(curl.body_str)['access_token']
-  end
-  
-  def cd(workspace_id)
-    @workspace_id = workspace_id
+    @workspace_id = credentials['workspace_id']
   end
   
   def upload(file_path, log_file)
@@ -51,18 +51,78 @@ class Ci
     Downloader.new(self, asset_id).download
   end
   
+  def list(limit=50, offset=0)
+    Lister.new(self).list(limit, offset)
+  end
+  
+  def delete(asset_id)
+    Deleter.new(self).delete(asset_id)
+  end
+  
+  def detail(asset_id)
+    Detailer.new(self).detail(asset_id)
+  end
+  
   private
   
   class CiClient
+    # This class hierarchy might be excessive, but it gives us:
+    # - a single place for the `perform` method
+    # - and an isolated container for related private methods
+    
     def perform(curl, mime=nil)
       # TODO: Is this actually working?
-      curl.on_missing { |data| raise "4xx: #{data}" }
-      curl.on_failure { |data| raise "5xx: #{data}" }
+      curl.on_missing { |data| puts "4xx: #{data}" }
+      curl.on_failure { |data| puts "5xx: #{data}" }
       curl.verbose = @ci.verbose
       curl.headers['Authorization'] = "Bearer #{@ci.access_token}"
       curl.headers['Content-Type'] = mime if mime
       curl.perform
     end
+  end
+  
+  class Detailer < CiClient
+    
+    def initialize(ci)
+      @ci = ci
+    end
+    
+    def detail(asset_id)
+      curl = Curl::Easy.http_get("https:""//api.cimediacloud.com/assets/#{asset_id}") do |c|
+        perform(c)
+      end
+      JSON.parse(curl.body_str)
+    end
+    
+  end
+  
+  class Deleter < CiClient
+    
+    def initialize(ci)
+      @ci = ci
+    end
+    
+    def delete(asset_id)
+      curl = Curl::Easy.http_delete("https:""//api.cimediacloud.com/assets/#{asset_id}") do |c|
+        perform(c)
+      end
+    end
+    
+  end
+  
+  class Lister < CiClient
+    
+    def initialize(ci)
+      @ci = ci
+    end
+    
+    def list(limit, offset)
+      curl = Curl::Easy.http_get("https:""//api.cimediacloud.com/workspaces/#{@ci.workspace_id}/contents?limit=#{limit}&offset=#{offset}") do |c|
+        perform(c)
+      end
+      JSON.parse(curl.body_str)['items']
+    end
+    
   end
   
   class Downloader < CiClient
@@ -112,7 +172,9 @@ class Ci
       curl = "curl -s -XPOST '#{SINGLEPART_URI}' -H 'Authorization: Bearer #{@ci.access_token}' -F filename='@#{file.path}'"
       puts ">> #{curl}"
       body_str = `#{curl}`
+      puts "<< #{body_str}"
       @asset_id = JSON.parse(body_str)['assetId']
+      raise "Upload failed: #{body_str}" unless @asset_id
       # TODO: This shouldn't be hard, but it just hasn't worked for me.
 #      params = {
 #        File.basename(file) => file.read,
@@ -167,7 +229,6 @@ if __FILE__ == $0
     credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
   
   if up
-    ci.cd('051303c1c1d24da7988128e6d2f56aa9')
     up.each{|path| ci.upload(path, log)}
   elsif down
     ci.download(down)
