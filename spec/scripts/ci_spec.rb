@@ -24,6 +24,17 @@ describe Ci do
     )
   end
   
+  it 'catches bad credentials' do
+    bad_credentials = {
+      'client_id' => 'bad',
+      'client_secret' => 'bad',
+      'password' => 'bad',
+      'username' => 'bad',
+      'workspace_id' => 'bad'
+    }
+    expect{Ci.new({credentials: bad_credentials})}.to raise_exception('OAuth failed')
+  end
+  
   it 'blocks some filetypes (small files)' do
     ci = get_ci
     Dir.mktmpdir do |dir|

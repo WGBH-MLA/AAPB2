@@ -40,6 +40,8 @@ class Ci
     end
 
     @access_token = JSON.parse(curl.body_str)['access_token']
+    raise 'OAuth failed' unless @access_token
+    
     @workspace_id = credentials['workspace_id']
   end
   
