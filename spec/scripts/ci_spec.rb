@@ -92,7 +92,7 @@ describe Ci do
     expect(list_names(ci).count).to eq(1)
 
     log_content = File.read(log_path)
-    expect(log_content).to match(/^[^\t]+\t#{basename}\t[0-9a-f]{32}\n$/)
+    expect(log_content).to match(/^[^\t]+\t#{basename}\t[0-9a-f]{32}\t\{[^\t]+\}\n$/)
     id = log_content.strip.split("\t")[2]
 
     detail = ci.detail(id)

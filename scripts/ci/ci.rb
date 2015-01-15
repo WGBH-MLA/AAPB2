@@ -161,7 +161,9 @@ class Ci
         singlepart_upload(file)
       end
 
-      @log_file.write("#{Time.now}\t#{File.basename(@path)}\t#{@asset_id}\n")
+      row = [Time.now, File.basename(@path), @asset_id, 
+        @ci.detail(@asset_id).to_s.gsub("\n",' ')]
+      @log_file.write(row.join("\t")+"\n")
       @log_file.flush
     end
     
