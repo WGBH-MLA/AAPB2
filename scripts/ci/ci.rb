@@ -246,7 +246,7 @@ if __FILE__ == $0
   list = args['list']
 
   unless (up && !up.empty? && log) || down || (list && list.empty?)
-    abort 'Usage: ci.rb --up GLOB --log LOG_FILE | ci.rb --down ID'
+    abort 'Usage: ci.rb --up GLOB --log LOG_FILE | ci.rb --down ID | ci.rb --list'
   end
   
   ci = Ci.new(
