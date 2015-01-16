@@ -163,7 +163,7 @@ class Ci
         url = JSON.parse(curl.body_str)['location']
         @@cache[asset_id] = {url: url, expires: Time.now + 3*60*60}
       end
-      @@cache[asset_id]
+      @@cache[asset_id][:url]
     end
     
   end

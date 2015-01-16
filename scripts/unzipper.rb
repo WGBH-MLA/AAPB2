@@ -18,20 +18,20 @@ class Unzipper
     count = 0
     Dir[@blob].rotate(-@rotate).each do |zip_path|
       zip_base = File.basename zip_path
-      @log.puts "\nunzipping #{zip_base}..."
+      @log << "\nunzipping #{zip_base}...\n"
 
       Zip::File.open(zip_path) do |zip_file|
         zip_file.each do |entry|
           if count % @skip == 0 && entry.name.match(/\.xml$/)
-            @log.puts "\n#{count}: reading #{entry.name} from #{zip_base}"
+            @log << "\n#{count}: reading #{entry.name} from #{zip_base}\n"
             content = entry.get_input_stream.read
             if content.match(/^<\?[^>]*>\s*<premis/)
-              @log.puts "#{entry.name} is premis xml. skipping."
+              @log << "#{entry.name} is premis xml. skipping.\n"
             else
               yield content, entry.name
             end
           else
-            @log.print '.'
+            @log << '.'
           end
           count += 1
         end
