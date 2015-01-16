@@ -5,12 +5,13 @@ require 'zip'
 class Unzipper
   include Enumerable
   
-  def initialize(skip=100, rotate=0, blob='/Volumes/dept/MLA/American_Archive/Website/AMS/ams_pbcore_export_zipped/*.zip', log=STDERR)
+  def initialize(skip=100, rotate=0, 
+      blob='/Volumes/dept/MLA/American_Archive/Website/AMS/ams_pbcore_export_zipped/*.zip')
     raise "'skip' must be integer > 0, not #{skip}" unless skip.to_i > 0
     @skip = skip.to_i
     @rotate = rotate.to_i
     @blob = blob
-    @log = log
+    @log = __FILE__ == $0 ? STDERR : []
   end
   
   def each
