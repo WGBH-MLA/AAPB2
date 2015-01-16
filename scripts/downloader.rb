@@ -12,7 +12,7 @@ class Downloader
     @digitized = digitized
     @start_page = start_page
     @stop_page = stop_page
-    @log = STDERR
+    @log = __FILE__ == $0 ? STDERR : []
   end
   
   def download_to_directory(directory_path)

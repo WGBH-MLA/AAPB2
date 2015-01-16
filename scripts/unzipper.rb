@@ -5,32 +5,33 @@ require 'zip'
 class Unzipper
   include Enumerable
   
-  def initialize(skip=100, rotate=0, blob='/Volumes/dept/MLA/American_Archive/Website/AMS/ams_pbcore_export_zipped/*.zip', log=STDERR)
+  def initialize(skip=100, rotate=0, 
+      blob='/Volumes/dept/MLA/American_Archive/Website/AMS/ams_pbcore_export_zipped/*.zip')
     raise "'skip' must be integer > 0, not #{skip}" unless skip.to_i > 0
     @skip = skip.to_i
     @rotate = rotate.to_i
     @blob = blob
-    @log = log
+    @log = __FILE__ == $0 ? STDERR : []
   end
   
   def each
     count = 0
     Dir[@blob].rotate(-@rotate).each do |zip_path|
       zip_base = File.basename zip_path
-      @log.puts "\nunzipping #{zip_base}..."
+      @log << "\nunzipping #{zip_base}...\n"
 
       Zip::File.open(zip_path) do |zip_file|
         zip_file.each do |entry|
           if count % @skip == 0 && entry.name.match(/\.xml$/)
-            @log.puts "\n#{count}: reading #{entry.name} from #{zip_base}"
+            @log << "\n#{count}: reading #{entry.name} from #{zip_base}\n"
             content = entry.get_input_stream.read
             if content.match(/^<\?[^>]*>\s*<premis/)
-              @log.puts "#{entry.name} is premis xml. skipping."
+              @log << "#{entry.name} is premis xml. skipping.\n"
             else
               yield content, entry.name
             end
           else
-            @log.print '.'
+            @log << '.'
           end
           count += 1
         end
