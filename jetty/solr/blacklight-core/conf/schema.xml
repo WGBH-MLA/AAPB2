@@ -501,12 +501,14 @@
    <field name="id" type="string" indexed="true" stored="true" required="true" />
    <field name="timestamp" type="date" indexed="true" stored="true" default="NOW" multiValued="false"/>
    
-   <field name="title" type="string" indexed="false" stored="true"/>
+   <field name="title" type="text" indexed="false" stored="true"/>
    
    <!-- default, catch all search field -->
-   <field name="text" type="text" indexed="true" stored="true" multiValued="true"/><!-- TODO: set stored false -->
+   <!-- TODO: turn off stored. -->
+   <field name="text" type="text" indexed="true" stored="true" multiValued="true"/>
    
    <!-- format is used for facet, display, and choosing which partial to use for the show view, so it must be stored and indexed -->
+   <!-- TODO: Is this being used? -->
    <field name="format" type="string" indexed="true" stored="true"/>
    
    <field name="xml" 
@@ -631,7 +633,7 @@
 	  destination field is to use the dynamic field syntax. 
 	  copyField also supports a maxChars to copy setting.  -->
 	   
-   <copyField source="*_tesim" dest="text"/>
+   <!--<copyField source="*_tesim" dest="text"/>-->
 
    <!-- copy name to alphaNameSort, a field designed for sorting by name -->
    <!-- <copyField source="name" dest="alphaNameSort"/> -->

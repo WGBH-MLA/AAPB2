@@ -10,22 +10,22 @@ class PBCore
     @doc = REXML::Document.new xml
   end
   def text
-    @text ||= xpaths('//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
+    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
   end
   def asset_type
-    @asset_type ||= xpath('pbcoreAssetType') 
+    @asset_type ||= xpath('/*/pbcoreAssetType') 
   rescue NoMatchError
     nil # We want to distinguish an empty string from no value in source data
   end
   def asset_date
-    @asset_date ||= xpath('pbcoreAssetDate') 
+    @asset_date ||= xpath('/*/pbcoreAssetDate') 
     # TODO figure out formats
     # TODO maybe filter by @dateType?
   rescue NoMatchError
     nil
   end
   def titles
-    @titles ||= xpaths('pbcoreTitle')
+    @titles ||= xpaths('/*/pbcoreTitle')
   end
   def title
     @title ||= begin
@@ -43,26 +43,26 @@ class PBCore
     end
   end
   def genre
-    @genre ||= xpaths('pbcoreGenre')
+    @genre ||= xpaths('/*/pbcoreGenre')
   end
   def id
-    @id ||= xpath('pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
+    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
   end
   def ids
-    @ids ||= xpaths('pbcoreIdentifier')
+    @ids ||= xpaths('/*/pbcoreIdentifier')
   end
   def organization_code
-    @organization_code ||= xpath('pbcoreAnnotation[@annotationType="organization"]')
+    @organization_code ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
   end
   def organization
     @organization ||= Organization.find_by_pbcore_name(organization_code)
   end
   def rights_code
-    @rights_code ||= xpath('pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
+    @rights_code ||= xpath('/*/pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
   end
   def media_type
     @media_type ||= begin
-      media_types = xpaths('pbcoreInstantiation/instantiationMediaType')
+      media_types = xpaths('/*/pbcoreInstantiation/instantiationMediaType')
       ['Moving Image', 'Sound', 'other'].each {|type|
         return type if media_types.include? type
       }
@@ -71,14 +71,8 @@ class PBCore
     end
   end
   def digitized
-    @digitized ||= xpaths('pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO get the right value
+    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO get the right value
   end
-#  def text # TODO: do we need this? Or just use copy fields in the schema?
-#    @text ||= [
-#      REXML::XPath.match(@doc, '//text()').join(' ').gsub(/\s+/,' ').strip,
-#      organization
-#    ].join(' ')
-#  end
 
   def to_solr
     {
@@ -99,7 +93,7 @@ class PBCore
   class NoMatchError < StandardError
   end
   def xpath(xpath)
-    REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/'+xpath).tap do |matches|
+    REXML::XPath.match(@doc, xpath).tap do |matches|
       if matches.length != 1
         raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
@@ -108,6 +102,6 @@ class PBCore
     end
   end
   def xpaths(xpath)
-    REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/'+xpath).map{|l|l.text}
+    REXML::XPath.match(@doc, xpath).map{|l|l.text}
   end
 end
