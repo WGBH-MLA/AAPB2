@@ -74,6 +74,7 @@ describe 'Validated and plain PBCore' do
       it 'has to_solr' do
         expect(pbc.to_solr).to eq({
             "id"=>"1234", 
+            "text"=>["PUBLIC", "ABC", "my closet", "Sound", "Not-a-Proxy", "ABC", "under the bed", "Moving Image", "Proxy"],
             "asset_type"=>"Documentary", 
             "asset_date"=>"2000-01-01", 
             "title"=>"Gratuitous Explosions", 

@@ -9,6 +9,9 @@ class PBCore
     @xml = xml
     @doc = REXML::Document.new xml
   end
+  def text
+    @text ||= xpaths('//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
+  end
   def asset_type
     @asset_type ||= xpath('pbcoreAssetType') 
   rescue NoMatchError
@@ -80,6 +83,7 @@ class PBCore
   def to_solr
     {
       'id' => id,
+      'text' => text,
       'title' => title,
       'xml' => @xml,
       'media_type' => media_type,
