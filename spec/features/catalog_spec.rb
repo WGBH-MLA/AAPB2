@@ -15,12 +15,12 @@ describe 'Catalog' do
   describe '#index' do
     
     it 'works' do
-      visit '/catalog?search_field=all_fields'
+      visit '/catalog?search_field=all_fields&q=smith'
       expect(page.status_code).to eq(200)
       ['Media Type','Genre','Asset Type','Organization'].each do |facet|
         expect(page).to have_text(facet)
       end
-      expect(page).to have_text('Gratuitous Explosions') # title: subject to paging.
+      expect(page).to have_text('From Bessie Smith to Bruce Springsteen')
     end
     
   end
