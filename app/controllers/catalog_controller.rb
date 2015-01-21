@@ -186,5 +186,10 @@ class CatalogController < ApplicationController
     # mean") suggestion is offered.
     config.spell_max = 5
   end
+  
+  def show
+    super
+    @pbcore = PBCore.new(@document.instance_variable_get('@_source')['xml'])
+  end
 
 end 
