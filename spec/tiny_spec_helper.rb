@@ -1,6 +1,4 @@
 require 'rspec'
-require 'pry' # TODO only for dev
-require 'pry-nav'
 
 # TODO: autoloading
 require_relative '../app/models/pb_core'
