@@ -55,6 +55,14 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
+    # 
+    
+    config.add_facet_field 'media_type', label: 'Media Type'
+    config.add_facet_field 'genre', label: 'Genre'
+    config.add_facet_field 'asset_type', label: 'Asset Type'
+    config.add_facet_field 'organization_code', label: 'Organization'
+    
+    
 #    config.add_facet_field 'format', :label => 'Format'
 #    config.add_facet_field 'pub_date', :label => 'Publication Year', :single => true
 #    config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20 

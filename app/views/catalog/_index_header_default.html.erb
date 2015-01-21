@@ -1,13 +1,21 @@
      
       <% # header bar for doc items in index view -%>
       <div class="documentHeader row">
+      
+        <%# Alternative: This adds about 0.1s time page render time, perhaps more with more fields. %>
+        <%# PBCore.new(document.instance_variable_get('@_source')['xml']).tap do |pbcore| %>
+          <%#= link_to_document document, :label=>pbcore.title %>
+        <%# end %>
         
         <%# main title container for doc partial view 
             How many bootstrap columns need to be reserved
             for bookmarks control depends on size. 
         -%>
-         <h5 class="index_title col-sm-9 col-lg-10">
-         <%= link_to_document document, :label=>document.title %>
+        <h5 class="index_title col-sm-9 col-lg-10">
+          <%# TODO: make this simpler %>
+          <% document.instance_variable_get('@_source').tap do |solr| %>
+            <%= link_to_document document, :label=>solr['title'] %>
+          <% end %>
         </h5>
 
         <% # bookmark functions for items/docs -%>
