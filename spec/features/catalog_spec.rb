@@ -1,7 +1,17 @@
 require 'rails_helper'
+require_relative '../../scripts/pb_core_ingester'
 
 describe 'Catalog' do
 
+  before(:all) do
+    # This is a test in its own right elsewhere.
+    ingester = PBCoreIngester.new
+    ingester.delete_all
+    Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
+      ingester.ingest(pbcore)
+    end
+  end
+  
   describe '#index' do
     
     it 'works' do
