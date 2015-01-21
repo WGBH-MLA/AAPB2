@@ -74,17 +74,13 @@ describe 'Validated and plain PBCore' do
       it 'has to_solr' do
         expect(pbc.to_solr).to eq({
             "id"=>"1234", 
-            "asset_type_tesim"=>["Documentary"], 
-            "asset_date_tesim"=>["2000-01-01"], 
-            "titles_tesim"=>["NOVA", "Gratuitous Explosions"], 
-            "title_tesim"=>["Gratuitous Explosions"], 
-            "genre_tesim"=>["Horror", "Musical"], 
-            "ids_tesim"=>["1234", "5678"],
-            "organization_code_tesim"=>["WGBH"], 
-            "rights_code_tesim"=>["PUBLIC"], 
-            "media_type_tesim"=>["Moving Image"], 
-            "digitized_bsi"=>true,
-            "xml_ssm"=>[pbc_xml]
+            "asset_type"=>"Documentary", 
+            "asset_date"=>"2000-01-01", 
+            "title"=>"Gratuitous Explosions", 
+            "genre"=>["Horror", "Musical"], 
+            "organization_code"=>"WGBH",
+            "media_type"=>"Moving Image",
+            "xml"=>pbc_xml
         })
       end
 
