@@ -12,6 +12,9 @@ class PBCore
   def text
     @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
   end
+  def descriptions
+    @descriptions ||= xpaths('/*/pbcoreDescription')
+  end
   def asset_type
     @asset_type ||= xpath('/*/pbcoreAssetType') 
   rescue NoMatchError

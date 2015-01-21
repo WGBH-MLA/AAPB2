@@ -21,6 +21,8 @@ describe 'Catalog' do
         expect(page).to have_text(facet)
       end
       expect(page).to have_text('From Bessie Smith to Bruce Springsteen')
+      expect(page).to have_text('1990-07-27')
+      expect(page).to have_text('No description available')
     end
     
   end

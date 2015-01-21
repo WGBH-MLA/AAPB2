@@ -1,24 +1,24 @@
-     
+<%# TODO: When this is stable, define solr fields and use them instead. Saves about 0.1s. %>
+<% PBCore.new(document.instance_variable_get('@_source')['xml']).tap do |pbcore| %>
+
       <% # header bar for doc items in index view -%>
       <div class="documentHeader row">
-      
-        <%# Alternative: This adds about 0.1s time page render time, perhaps more with more fields. %>
-        <%# PBCore.new(document.instance_variable_get('@_source')['xml']).tap do |pbcore| %>
-          <%#= link_to_document document, :label=>pbcore.title %>
-        <%# end %>
         
         <%# main title container for doc partial view 
             How many bootstrap columns need to be reserved
             for bookmarks control depends on size. 
         -%>
         <h5 class="index_title col-sm-9 col-lg-10">
-          <%# TODO: make this simpler %>
-          <% document.instance_variable_get('@_source').tap do |solr| %>
-            <%= link_to_document document, :label=>solr['title'] %>
-          <% end %>
+            <%= link_to_document document, label: pbcore.title %>
         </h5>
+        
+        <p>TODO: <a href='https://github.com/WGBH/AAPB2/issues/34'>higher level title</a></p>
+        <p>TODO: <a href='https://github.com/WGBH/AAPB2/issues/42'>thumbnail</a></p>
+        <p><%= pbcore.asset_date %></p>
+        <p>TODO: <a href='https://github.com/WGBH/AAPB2/issues/33'>All descriptions?</a> <%= pbcore.descriptions.join(' ') %></p>
 
         <% # bookmark functions for items/docs -%>
         <%= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>
       </div>
       
+<% end %>
