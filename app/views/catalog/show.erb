@@ -1,0 +1,8 @@
+<% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
+
+<h1><%= @pbcore.title %></h1>
+
+<p><%= @pbcore.asset_type %></p>
+<p><%= @pbcore.asset_date %></p>
+<p><%= @pbcore.genre.join %></p>
+<p><%= @pbcore.media_type %></p>
