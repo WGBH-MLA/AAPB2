@@ -1,0 +1,6 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+# (Make sure it's an actual tab between columns.)
+
+album	Albumb roll	Raw Footageb-roll	Raw Footageelement	Raw Footagefield tape	Raw Footageraw	Raw Footagepromo	Promotrailer	Promoadvertis	Promoclip	Clipnumber	Episode Numberepisode	Episodeepospde	Episodesegment	Segmentseries	Seriesprogram	Programcollection	Collectionlabel	Label	Uncataloged

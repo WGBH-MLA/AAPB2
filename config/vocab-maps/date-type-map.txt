@@ -1,0 +1,6 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+# (Make sure it's an actual tab between columns.)
+
+broadcast	broadcastair	broadcastissue	broadcastpublished	broadcastrelease	broadcastcreated	createdrecorded	createdperformance	createdrevised	revisedcopyright	copyright	uncataloged
