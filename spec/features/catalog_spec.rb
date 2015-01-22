@@ -38,6 +38,8 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       [
         'Gratuitous Explosions',
+        'Best episode ever!',
+        'explosions -- gratuitious', 'musicals -- horror',
         'Documentary',
         '2000-01-01',
         'Horror', 'Musical',

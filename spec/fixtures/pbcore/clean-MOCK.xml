@@ -5,6 +5,8 @@
     <pbcoreIdentifier source="somewhere else">5678</pbcoreIdentifier>
     <pbcoreTitle titleType="series">NOVA</pbcoreTitle>
     <pbcoreTitle titleType="program">Gratuitous Explosions</pbcoreTitle>
+    <pbcoreSubject>explosions -- gratuitious</pbcoreSubject>
+    <pbcoreSubject>musicals -- horror</pbcoreSubject>
     <pbcoreDescription>Best episode ever!</pbcoreDescription>
     <pbcoreGenre>Horror</pbcoreGenre>
     <pbcoreGenre>Musical</pbcoreGenre>

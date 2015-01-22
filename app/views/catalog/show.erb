@@ -2,13 +2,19 @@
 
 <h1><%= @pbcore.title %></h1>
 
+<div>
+  <% @pbcore.descriptions.each do |description| %>
+    <p><%= description %></p>
+  <% end %>
+</div>
+
 <p><%= @pbcore.asset_type %></p>
 <p><%= @pbcore.asset_date %></p>
 <p>TODO <a href='https://github.com/WGBH/AAPB2/issues/35'>date types</a></p>
-<p><%= @pbcore.genres.join(' ') %></p>
+<p><%= @pbcore.genres.join('; ') %></p>
 <p><%= @pbcore.media_type %></p>
 
-<p><%= @pbcore.subjects.join(' ') %></p>
+<p><%= @pbcore.subjects.join('; ') %></p>
 <!-- Coverage and affiliation when we have more data. -->
 
 <ul>
