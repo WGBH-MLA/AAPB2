@@ -496,7 +496,7 @@
     <Cell><Data ss:Type="String">http://kmos.org/</Data></Cell>
    </Row>
    <Row>
-    <Cell><Data ss:Type="String">Film &amp;amp; Media Archive, Washington University in St. Louis</Data></Cell>
+    <Cell><Data ss:Type="String">Film &amp; Media Archive, Washington University in St. Louis</Data></Cell>
     <Cell><Data ss:Type="String">NCSG16</Data></Cell>
     <Cell><Data ss:Type="String">Film and Media Archive, Washington University in St. Louis</Data></Cell>
     <Cell><Data ss:Type="String">Missouri</Data></Cell>
@@ -528,7 +528,7 @@
     <Cell><Data ss:Type="String">http://indianapublicmedia.org/tv/</Data></Cell>
    </Row>
    <Row>
-    <Cell><Data ss:Type="String">WGVU Public TV &amp;amp; Radio</Data></Cell>
+    <Cell><Data ss:Type="String">WGVU Public TV &amp; Radio</Data></Cell>
     <Cell><Data ss:Type="String">1789</Data></Cell>
     <Cell><Data ss:Type="String">WGVU Public TV and Radio</Data></Cell>
     <Cell><Data ss:Type="String">Michigan</Data></Cell>

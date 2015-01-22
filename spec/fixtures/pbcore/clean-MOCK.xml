@@ -5,9 +5,14 @@
     <pbcoreIdentifier source="somewhere else">5678</pbcoreIdentifier>
     <pbcoreTitle titleType="series">NOVA</pbcoreTitle>
     <pbcoreTitle titleType="program">Gratuitous Explosions</pbcoreTitle>
+    <pbcoreSubject>explosions -- gratuitious</pbcoreSubject>
+    <pbcoreSubject>musicals -- horror</pbcoreSubject>
     <pbcoreDescription>Best episode ever!</pbcoreDescription>
     <pbcoreGenre>Horror</pbcoreGenre>
     <pbcoreGenre>Musical</pbcoreGenre>
+    <pbcoreRightsSummary>
+        <rightsSummary>Copy Left: All rights reversed.</rightsSummary>
+    </pbcoreRightsSummary>
     <pbcoreRightsSummary>
         <rightsEmbedded>
             <AAPB_RIGHTS_CODE>PUBLIC</AAPB_RIGHTS_CODE>
