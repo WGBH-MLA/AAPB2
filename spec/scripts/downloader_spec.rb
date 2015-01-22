@@ -1,6 +1,6 @@
 require_relative '../../scripts/downloader'
 
-describe Downloader do
+describe Downloader, slow: true do
   
   it 'works for partial downloads' do
     downloader = Downloader.new(0, 0, 1)
