@@ -4,5 +4,43 @@
 
 <p><%= @pbcore.asset_type %></p>
 <p><%= @pbcore.asset_date %></p>
-<p><%= @pbcore.genre.join %></p>
+<p>TODO <a href='https://github.com/WGBH/AAPB2/issues/35'>date types</a></p>
+<p><%= @pbcore.genres.join(' ') %></p>
 <p><%= @pbcore.media_type %></p>
+
+<p><%= @pbcore.subjects.join(' ') %></p>
+<!-- Coverage and affiliation when we have more data. -->
+
+<ul>
+  <% @pbcore.contributors.each do |contributor| %>
+    <li>
+      <%= contributor.name %>
+      <%= contributor.role %>
+      <%= contributor.affiliation %>
+    </li>
+  <% end %>
+</ul>
+
+<ul>
+  <% @pbcore.creators.each do |creator| %>
+    <li>
+      <%= creator.name %>
+      <%= creator.role %>
+      <%= creator.affiliation %>
+    </li>
+  <% end %>
+</ul>
+  
+<ul>
+  <% @pbcore.creators.each do |creator| %>
+    <li>
+      <%= creator.name %>
+      <%= creator.role %>
+    </li>
+  <% end %>
+</ul>
+  
+<p><% @pbcore.rights_summary %></p>
+
+<%# TODO: cleaner link syntax. %>
+<p><a href='/organization/<%= @pbcore.organization.url %>'><%= @pbcore.organization.full_name %></a></p>
