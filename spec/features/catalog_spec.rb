@@ -37,11 +37,13 @@ describe 'Catalog' do
       visit '/catalog/1234'
       expect(page.status_code).to eq(200)
       [
+        'Gratuitous Explosions',
         'Documentary',
         '2000-01-01',
         'Horror', 'Musical',
         'Moving Image',
-        'WGBH'
+        'WGBH',
+        'Copy Left: All rights reversed.'
       ].each do |field|
         expect(page).to have_text(field)
       end

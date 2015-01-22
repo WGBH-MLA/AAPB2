@@ -40,7 +40,7 @@
   <% end %>
 </ul>
   
-<p><% @pbcore.rights_summary %></p>
+<p><%= @pbcore.rights_summary %></p>
 
 <%# TODO: cleaner link syntax. %>
 <p><a href='/organizations/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.full_name %></a></p>
