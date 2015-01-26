@@ -8,7 +8,7 @@ class Cleaner
   
   def initialize
     @asset_type_map = Cleaner.read_map('asset-type-map.yml')
-    @asset_type_approved = @asset_type_map.map{|pair| pair[1]}
+    @asset_type_approved = @asset_type_map.values
     
     @report = {}
     def @report.to_s
@@ -33,9 +33,9 @@ class Cleaner
     
     match_no_report(doc, '/pbcoreAssetType') { |node|
       unless @asset_type_approved.include? node.text
-        @asset_type_map.each { |pair|
-          if node.text.downcase.include? pair[0].downcase
-            node.text = pair[1]
+        @asset_type_map.each { |key,value|
+          if node.text.downcase.include? key.downcase
+            node.text = value
             break
           end
         }
@@ -170,7 +170,7 @@ class Cleaner
   
   def self.read_map(name)
     # TODO just pass along ordered map, rather than making pairs.
-    YAML.load_file(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).map{|key,value| [key,value]}
+    YAML.load_file(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name)
   end
   
   def add_report(category, instance)
