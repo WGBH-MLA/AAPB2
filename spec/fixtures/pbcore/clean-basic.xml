@@ -2,8 +2,8 @@
   <!-- Root attributes are screwy in AMS export. -->
   <pbcoreIdentifier source='WERU Prog List'>WRF028</pbcoreIdentifier>
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/301-60cvdtx8</pbcoreIdentifier>
-  <pbcoreTitle titleType='series'>Writers Forum</pbcoreTitle>
-  <pbcoreTitle titleType='program'>WRF-09/13/07</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>Writers Forum</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>WRF-09/13/07</pbcoreTitle>
   <pbcoreDescription>No description available</pbcoreDescription>
   <pbcoreGenre source='WERU Genre Picklist'>Readings</pbcoreGenre>
   <pbcoreCoverage>

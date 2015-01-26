@@ -9,6 +9,7 @@ class Cleaner
   def initialize
     @asset_type_map = VocabMap.new('asset-type-map.yml')
     @date_type_map = VocabMap.new('date-type-map.yml')
+    @title_type_map = VocabMap.new('title-type-map.yml')
     
     @report = {}
     def @report.to_s
@@ -60,11 +61,8 @@ class Cleaner
       )
     }
     
-    match_no_report(doc, '/pbcoreTitle') { |node|
-      # TODO: report
-      title_type = node.attributes['titleType']
-      node.attributes['titleType'] = title_type && ['series','program'].include?(title_type.downcase) ? 
-        title_type.downcase : 'other'
+    match_no_report(doc, '/pbcoreTitle/@titleType') { |node|
+      @title_type_map.map_node(node)
     }
     
     # pbcoreRelation:

@@ -3,8 +3,8 @@
     <pbcoreAssetDate>2000-01-01</pbcoreAssetDate>
     <pbcoreIdentifier source="http://americanarchiveinventory.org">1234</pbcoreIdentifier>
     <pbcoreIdentifier source="somewhere else">5678</pbcoreIdentifier>
-    <pbcoreTitle titleType="series">NOVA</pbcoreTitle>
-    <pbcoreTitle titleType="program">Gratuitous Explosions</pbcoreTitle>
+    <pbcoreTitle titleType="Series">NOVA</pbcoreTitle>
+    <pbcoreTitle titleType="Program">Gratuitous Explosions</pbcoreTitle>
     <pbcoreDescription>Best episode ever!</pbcoreDescription>
     <pbcoreGenre>Horror</pbcoreGenre>
     <pbcoreGenre>Musical</pbcoreGenre>
