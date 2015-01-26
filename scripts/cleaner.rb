@@ -7,11 +7,8 @@ class Cleaner
   attr_reader :report
   
   def initialize
-    @asset_type_map = Cleaner.read_map('asset-type-map.yml')
-    @asset_type_approved = @asset_type_map.values
-    
-    @date_type_map = Cleaner.read_map('date-type-map.yml')
-    @date_type_approved = @date_type_map.values
+    @asset_type_map = VocabMap.new('asset-type-map.yml')
+    @date_type_map = VocabMap.new('date-type-map.yml')
     
     @report = {}
     def @report.to_s
@@ -35,43 +32,13 @@ class Cleaner
     # pbcoreAssetType:
     
     match_no_report(doc, '/pbcoreAssetType') { |node|
-      unless @asset_type_approved.include? node.text
-        @asset_type_map.each { |key,value|
-          if node.text.downcase.include? key.downcase
-            node.text = value
-            break
-          end
-        }
-        unless @asset_type_approved.include? node.text
-          raise "No match found for '#{node.text}'"
-        end
-      end
+      @asset_type_map.map_node(node)
     }
     
     # dateType
     
     match_no_report(doc, '//@dateType') { |node|
-      unless node.respond_to? 'text'
-        # Make attribute node act like element node
-        def node.text
-          self.element.attributes[self.name]
-          # self.value doesn't change when the value is reset. Agh.
-        end
-        def node.text=(s)
-          self.element.attributes[self.name]=s
-        end
-      end
-      unless @date_type_approved.include? node.text
-        @date_type_map.each { |key,value|
-          if node.text.downcase.include? key.downcase
-            node.text = value
-            break
-          end
-        }
-        unless @date_type_approved.include? node.text
-          raise "No match found for '#{node.text}'"
-        end
-      end
+      @date_type_map.map_node(node)
     }
     
     # TODO: insert assetType if not given.
@@ -197,9 +164,33 @@ class Cleaner
   
   private
   
-  def self.read_map(name)
-    # TODO just pass along ordered map, rather than making pairs.
-    YAML.load_file(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name)
+  class VocabMap
+    def initialize(file_name)
+      @map = YAML.load_file(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+file_name)
+    end
+    def map_node(node)
+      unless node.respond_to? 'text'
+        # Make attribute node act like element node
+        def node.text
+          self.element.attributes[self.name]
+          # self.value doesn't change when the value is reset. Agh.
+        end
+        def node.text=(s)
+          self.element.attributes[self.name]=s
+        end
+      end
+      unless @map.values.include? node.text
+        @map.each { |key,value|
+          if node.text.downcase.include? key.downcase
+            node.text = value
+            break
+          end
+        }
+        unless @map.values.include? node.text
+          raise "No match found for '#{node.text}'"
+        end
+      end
+    end
   end
   
   def add_report(category, instance)
