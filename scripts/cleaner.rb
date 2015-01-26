@@ -10,6 +10,9 @@ class Cleaner
     @asset_type_map = Cleaner.read_map('asset-type-map.yml')
     @asset_type_approved = @asset_type_map.values
     
+    @date_type_map = Cleaner.read_map('date-type-map.yml')
+    @date_type_approved = @date_type_map.values
+    
     @report = {}
     def @report.to_s
       out = ''
@@ -40,6 +43,32 @@ class Cleaner
           end
         }
         unless @asset_type_approved.include? node.text
+          raise "No match found for '#{node.text}'"
+        end
+      end
+    }
+    
+    # dateType
+    
+    match_no_report(doc, '//@dateType') { |node|
+      unless node.respond_to? 'text'
+        # Make attribute node act like element node
+        def node.text
+          self.element.attributes[self.name]
+          # self.value doesn't change when the value is reset. Agh.
+        end
+        def node.text=(s)
+          self.element.attributes[self.name]=s
+        end
+      end
+      unless @date_type_approved.include? node.text
+        @date_type_map.each { |key,value|
+          if node.text.downcase.include? key.downcase
+            node.text = value
+            break
+          end
+        }
+        unless @date_type_approved.include? node.text
           raise "No match found for '#{node.text}'"
         end
       end

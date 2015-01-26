@@ -33,7 +33,7 @@
   <pbcoreInstantiation>
     <instantiationIdentifier source='File name'>weekdayb20061120</instantiationIdentifier>
     <instantiationIdentifier source='KUOW Puget Sound Public Radio'>24748</instantiationIdentifier>
-    <instantiationDate dateType='issued'>2006-11-20</instantiationDate>
+    <instantiationDate dateType='broadcast'>2006-11-20</instantiationDate>
     <instantiationDigital>audio/vnd.wave</instantiationDigital>
     <instantiationLocation>weekdayb20061120.m3u</instantiationLocation>
     <instantiationMediaType>Sound</instantiationMediaType>
