@@ -88,7 +88,8 @@ describe 'Validated and plain PBCore' do
             "genre"=>["Horror", "Musical"], 
             "organization_code"=>"WGBH",
             "media_type"=>"Moving Image",
-            "xml"=>pbc_xml
+            "xml"=>pbc_xml,
+            "year" => "2000"
         })
       end
 
