@@ -2,7 +2,7 @@
 # replacement on the right.
 # Final line is a fall-through.
 
-!!omap
+!omap
   broadcast: broadcast
   air: broadcast
   issue: broadcast
