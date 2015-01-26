@@ -47,11 +47,12 @@ class PBCore
     nil # We want to distinguish an empty string from no value in source data
   end
   def asset_date
-    @asset_date ||= xpath('/*/pbcoreAssetDate') 
-    # TODO figure out formats
-    # TODO maybe filter by @dateType?
+    @asset_date ||= xpath('/*/pbcoreAssetDate')
   rescue NoMatchError
     nil
+  end
+  def year
+    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
   end
   def titles
     @titles ||= xpaths('/*/pbcoreTitle')
@@ -111,6 +112,7 @@ class PBCore
       'xml' => @xml,
       'media_type' => media_type,
       'genre' => genre,
+      'year' => year,
       'asset_date' => asset_date,
       'asset_type' => asset_type,
       'organization_code' => organization_code

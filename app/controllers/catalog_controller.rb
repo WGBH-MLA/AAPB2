@@ -61,6 +61,7 @@ class CatalogController < ApplicationController
     config.add_facet_field 'genre', label: 'Genre'
     config.add_facet_field 'asset_type', label: 'Asset Type'
     config.add_facet_field 'organization_code', label: 'Organization'
+    config.add_facet_field 'year', label: 'Year'
     
     
 #    config.add_facet_field 'format', :label => 'Format'

@@ -517,6 +517,8 @@
    <!-- TODO: turn off store? -->
    <field name="media_type" 
           type="string" indexed="true" stored="true" multiValued="false"/>
+   <field name="year" 
+          type="string" indexed="true" stored="true" multiValued="false"/>
    <field name="asset_date" 
           type="string" indexed="true" stored="true" multiValued="false"/>
    <field name="asset_type" 
