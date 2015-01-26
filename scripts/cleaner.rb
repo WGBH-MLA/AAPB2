@@ -1,12 +1,13 @@
 require 'rexml/document'
 require 'set'
+require 'YAML'
 
 class Cleaner
   
   attr_reader :report
   
   def initialize
-    @asset_type_map = Cleaner.read_map('asset-type-map.txt')
+    @asset_type_map = Cleaner.read_map('asset-type-map.yml')
     @asset_type_approved = @asset_type_map.map{|pair| pair[1]}
     
     @report = {}
@@ -33,7 +34,7 @@ class Cleaner
     match_no_report(doc, '/pbcoreAssetType') { |node|
       unless @asset_type_approved.include? node.text
         @asset_type_map.each { |pair|
-          if node.text.downcase.include? pair[0]
+          if node.text.downcase.include? pair[0].downcase
             node.text = pair[1]
             break
           end
@@ -168,13 +169,8 @@ class Cleaner
   private
   
   def self.read_map(name)
-    File.readlines(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).select do |line|
-      line !~ /\s*^#/ && line =~ /\S/
-    end.map do |line|
-      pair = line.split("\t").map{|s|s.strip}
-      raise "Not a pair: '#{pair}'" unless pair.count == 2
-      [pair[0].downcase, pair[1]]
-    end
+    # TODO just pass along ordered map, rather than making pairs.
+    YAML.load_file(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+name).map{|key,value| [key,value]}
   end
   
   def add_report(category, instance)

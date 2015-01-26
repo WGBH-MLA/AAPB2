@@ -1,5 +1,5 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
-  <pbcoreAssetType>Element</pbcoreAssetType>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
   <pbcoreIdentifier source='IPTV Barcode'>IPTVUS-0006712</pbcoreIdentifier>
   <pbcoreIdentifier source='NOLA'>OOI</pbcoreIdentifier>
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/37-31cjt2qs</pbcoreIdentifier>
