@@ -1,6 +1,6 @@
 require 'rexml/document'
 require 'set'
-require 'YAML'
+require 'yaml'
 
 class Cleaner
   
