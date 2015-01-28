@@ -32,11 +32,6 @@ describe 'Validated and plain PBCore' do
         invalid_pbcore = pbc_xml.sub(/xmlns="[^"]+"/,'')
         expect{ValidatedPBCore.new(invalid_pbcore)}.to raise_error(/Element 'pbcoreDescriptionDocument': No matching global declaration/)
       end
-
-      it 'rejects unknown title types at creation' do
-        invalid_pbcore = pbc_xml.gsub(/titleType="[^"]+"/,'titleType="unexpected"')
-        expect{ValidatedPBCore.new(invalid_pbcore)}.to raise_error(/Unexpected title types: \["unexpected"\]/)
-      end
       
       it 'rejects unknown media types at creation' do
         invalid_pbcore = pbc_xml.gsub(/<instantiationMediaType>[^<]+<\/instantiationMediaType>/,'<instantiationMediaType>unexpected</instantiationMediaType>')
@@ -52,10 +47,6 @@ describe 'Validated and plain PBCore' do
     describe 'empty' do
 
       empty_pbc = PBCore.new('<pbcoreDescriptionDocument/>')
-
-      it 'errors if no title' do
-        expect{empty_pbc.title}.to raise_error('Unexpected title types: []')
-      end
 
       it '"other" if no media_type' do
         expect(empty_pbc.media_type).to eq("other")

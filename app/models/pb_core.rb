@@ -68,8 +68,14 @@ class PBCore
           ]
         } 
       ]
-      # TODO: get the right order.
-      titles['program'] || titles['series'] || titles['other'] || raise("Unexpected title types: #{titles.keys}")
+      # TODO: get the right order: If the best choice is missing, selection might be arbitrary.
+      titles['Program'] || titles['Series'] || 
+        titles['Episode'] || titles['Album'] ||
+        titles['Raw Footage'] || titles['Promo'] ||
+        titles['Clip'] || titles['Episode Number'] ||
+        titles['Segment'] || titles['Collection'] ||
+        titles['Label'] || titles['Uncataloged'] ||
+        titles.values.first
     end
   end
   def genre
