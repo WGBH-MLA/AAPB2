@@ -1,0 +1,10 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+
+!omap
+  this-prefix: foo
+  this-prefix-hides: bar
+  
+  this-suffix: foo
+  hidden-by-this-suffix: bar

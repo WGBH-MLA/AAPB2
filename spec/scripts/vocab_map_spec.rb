@@ -4,9 +4,9 @@ describe Cleaner::VocabMap do
   
   fixtures = File.dirname(File.dirname(__FILE__))+'/fixtures/vocab-maps'
   
-  describe 'good ones' do
+  describe 'when the map is good' do
     
-    describe 'accept' do
+    describe 'acceptance' do
       [File.dirname(File.dirname(File.dirname(__FILE__)))+'/config/vocab-maps',
           fixtures].each do |dir|
         Dir["#{dir}/*"].reject{|file| file=~/bad/}.each do |yaml|
@@ -24,9 +24,9 @@ describe Cleaner::VocabMap do
     
   end
   
-  describe 'bad ones' do
+  describe 'when the map is bad' do
     
-    describe 'reject' do
+    describe 'rejection' do
       [fixtures].each do |dir|
         Dir["#{dir}/*"].grep(/bad/).each do |yaml|
           it "rejects #{yaml}" do
@@ -42,6 +42,14 @@ describe Cleaner::VocabMap do
     
     it 'catches bad yaml types' do
       expect{Cleaner::VocabMap.new(fixtures+'/bad-not-omap.yml')}.to raise_error /Unexpected datatype/
+    end
+    
+    it 'catches hidden keys' do
+      expect{Cleaner::VocabMap.new(fixtures+'/bad-hidden-keys.yml')}.to raise_error /Hidden keys \["ShouldNotBeRemapped"\]/
+    end
+    
+    it 'catches hidden substring' do
+      expect{Cleaner::VocabMap.new(fixtures+'/bad-hidden-substring.yml')}.to raise_error /Hidden keys \["this-prefix-hides", "hidden-by-this-suffix"\]/
     end
     
   end

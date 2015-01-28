@@ -166,8 +166,12 @@ class Cleaner
     def initialize(path)
       @map = YAML.load_file(path)
       raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
+      
       @case_map = Hash[@map.values.uniq.map{|value|[value.downcase,value]}]
       raise "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
+      
+      hidden_keys = @map.select{|key,value| map_string(key)!=value}.keys
+      raise "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
     end
     def map_string(s)
       return @case_map[s.downcase] ||

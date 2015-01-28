@@ -3,5 +3,6 @@
 # Final line is a fall-through.
 
 !omap
-  foo: thereSHOULDnotBEtwo
-  bar: THEREshouldNOTbeTWO
+  this-is-ok: this-is-ok
+  shouldnotberemapped: ShouldNotBeRemapped
+  ShouldNotBeRemapped: but it is
