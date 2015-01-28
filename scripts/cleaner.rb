@@ -165,6 +165,7 @@ class Cleaner
   class VocabMap
     def initialize(path)
       @map = YAML.load_file(path)
+      raise "Unexpected datatype in YAML #{@map.class}" unless @map.class == Psych::Omap
     end
     def map_node(node)
       unless node.respond_to? 'text'
