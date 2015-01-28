@@ -48,5 +48,12 @@
   
 <p><%= @pbcore.rights_summary %></p>
 
+<dl>
+  <% @pbcore.instantiations.each do |instantiation| %>
+    <dt><%= instantiation.media_type %></dt>
+    <dd><%= instantiation.duration %></dd>
+  <% end %>
+</dl>
+
 <%# TODO: cleaner link syntax. %>
 <p><a href='/organizations/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.full_name %></a></p>

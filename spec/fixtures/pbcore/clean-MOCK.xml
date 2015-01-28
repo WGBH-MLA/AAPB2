@@ -23,6 +23,7 @@
         <instantiationLocation>my closet</instantiationLocation>
         <instantiationMediaType>Sound</instantiationMediaType>
         <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
+        <instantiationDuration>0:12:34</instantiationDuration>
     </pbcoreInstantiation>
     <pbcoreInstantiation>
         <instantiationIdentifier source="bar">ABC</instantiationIdentifier>
