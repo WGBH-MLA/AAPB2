@@ -45,7 +45,8 @@ describe 'Catalog' do
         'Horror', 'Musical',
         'Moving Image',
         'WGBH',
-        'Copy Left: All rights reversed.'
+        'Copy Left: All rights reversed.',
+        'Sound', '0:12:34', 'Moving Image'
       ].each do |field|
         expect(page).to have_text(field)
       end

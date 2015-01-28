@@ -147,6 +147,13 @@ class PBCore
     REXML::XPath.match(@doc, xpath).map{|l|l.text}
   end
   
+  module Optionally
+    def optional(xpath)
+      match = REXML::XPath.match(@rexml, xpath).first
+      match ? match.text : nil
+    end
+  end
+  
   class Contributor
     def initialize(rexml)
       @rexml = rexml
@@ -173,14 +180,15 @@ class PBCore
   end
   
   class Instantiation
+    include Optionally
     def initialize(rexml)
       @rexml = rexml
     end
     def media_type
-      @media_type ||= REXML::XPath.match(@rexml, 'instantiationMediaType').first.text
+      @media_type ||= optional('instantiationMediaType')
     end
     def duration
-      @duration ||= REXML::XPath.match(@rexml, 'instantiationDuration').first.text
+      @duration ||= optional('instantiationDuration')
     end
   end
   
