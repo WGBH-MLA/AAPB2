@@ -7,9 +7,11 @@ class Cleaner
   attr_reader :report
   
   def initialize
-    @asset_type_map = VocabMap.new('asset-type-map.yml')
-    @date_type_map = VocabMap.new('date-type-map.yml')
-    @title_type_map = VocabMap.new('title-type-map.yml')
+    (File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/').tap do |directory|
+      @asset_type_map = VocabMap.new(directory + 'asset-type-map.yml')
+      @date_type_map = VocabMap.new(directory + 'date-type-map.yml')
+      @title_type_map = VocabMap.new(directory + 'title-type-map.yml')
+    end
     
     @report = {}
     def @report.to_s
@@ -160,11 +162,9 @@ class Cleaner
     # Just stripping it should be fine.
   end
   
-  private
-  
   class VocabMap
-    def initialize(file_name)
-      @map = YAML.load_file(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+file_name)
+    def initialize(path)
+      @map = YAML.load_file(path)
     end
     def map_node(node)
       unless node.respond_to? 'text'
@@ -190,6 +190,8 @@ class Cleaner
       end
     end
   end
+  
+  private
   
   def add_report(category, instance)
     @report[category] ||= Set.new
