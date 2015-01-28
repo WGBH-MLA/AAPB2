@@ -172,6 +172,8 @@ class Cleaner
       
       hidden_keys = @map.select{|key,value| map_string(key)!=value}.keys
       raise "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
+      
+      raise "No default mapping in #{path}" unless @map['']
     end
     def map_string(s)
       return @case_map[s.downcase] ||

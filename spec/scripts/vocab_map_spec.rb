@@ -4,6 +4,8 @@ describe Cleaner::VocabMap do
   
   fixtures = File.dirname(File.dirname(__FILE__))+'/fixtures/vocab-maps'
   
+  # TODO: test xml processing, particularly attribute values.
+  
   describe 'when the map is good' do
     
     describe 'acceptance' do
@@ -50,6 +52,10 @@ describe Cleaner::VocabMap do
     
     it 'catches hidden substring' do
       expect{Cleaner::VocabMap.new(fixtures+'/bad-hidden-substring.yml')}.to raise_error /Hidden keys \["this-prefix-hides", "hidden-by-this-suffix"\]/
+    end
+    
+    it 'catches missing defaults' do
+      expect{Cleaner::VocabMap.new(fixtures+'/bad-no-default.yml')}.to raise_error /No default mapping/
     end
     
   end
