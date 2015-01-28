@@ -166,6 +166,12 @@ class Cleaner
     def initialize(path)
       @map = YAML.load_file(path)
       raise "Unexpected datatype in YAML #{@map.class}" unless @map.class == Psych::Omap
+      @case_map = Hash[@map.values.map{|value|[value.downcase,value]}]
+    end
+    def map_string(s)
+      return @case_map[s.downcase] ||
+        @map.select{|key| s.downcase.include? key.downcase}.values.first ||
+        raise("No match found for '#{s}'")
     end
     def map_node(node)
       unless node.respond_to? 'text'
@@ -178,17 +184,7 @@ class Cleaner
           self.element.attributes[self.name]=s
         end
       end
-      unless @map.values.include? node.text
-        @map.each { |key,value|
-          if node.text.downcase.include? key.downcase
-            node.text = value
-            break
-          end
-        }
-        unless @map.values.include? node.text
-          raise "No match found for '#{node.text}'"
-        end
-      end
+      node.text = map_string(node.text)
     end
   end
   

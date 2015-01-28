@@ -3,5 +3,5 @@
 # Final line is a fall-through.
 
 !omap
-  shrub: bush
-  '': plant
+  foo: yesTHISisRIGHT
+  '': bar
