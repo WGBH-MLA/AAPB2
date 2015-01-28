@@ -101,8 +101,8 @@ describe 'Validated and plain PBCore' do
         expect(pbc.title).to eq('Gratuitous Explosions')
       end
 
-      it 'has genre' do
-        expect(pbc.genre).to eq(['Horror','Musical'])
+      it 'has genres' do
+        expect(pbc.genres).to eq(['Horror','Musical'])
       end
 
       it 'has id' do
