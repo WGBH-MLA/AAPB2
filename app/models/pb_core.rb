@@ -121,7 +121,6 @@ class PBCore
       'media_type' => media_type,
       'genre' => genres, # Keep Solr name singular: when querying don't need to worry about cardinality.
       'year' => year,
-      'asset_date' => asset_date,
       'asset_type' => asset_type,
       'organization_code' => organization_code
     }
