@@ -36,6 +36,11 @@ class PBCore
       Contributor.new(rexml)
     }
   end
+  def instantiations
+    @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map{|rexml|
+      Instantiation.new(rexml)
+    }
+  end
   def rights_summary
     @rights_summary ||= xpath('/*/pbcoreRightsSummary/rightsSummary')
   rescue NoMatchError
@@ -164,6 +169,18 @@ class PBCore
   class Creator
     def initialize(rexml)
       @rexml = rexml
+    end
+  end
+  
+  class Instantiation
+    def initialize(rexml)
+      @rexml = rexml
+    end
+    def media_type
+      @media_type ||= REXML::XPath.match(@rexml, 'instantiationMediaType').first.text
+    end
+    def duration
+      @duration ||= REXML::XPath.match(@rexml, 'instantiationDuration').first.text
     end
   end
   

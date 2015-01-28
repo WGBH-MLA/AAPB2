@@ -70,8 +70,9 @@ describe 'Validated and plain PBCore' do
               "explosions -- gratuitious", "musicals -- horror",
               "Best episode ever!", 
               "Horror", "Musical", "Copy Left: All rights reversed.",
-              "PUBLIC", "ABC", "my closet", "Sound", 
-              "Not-a-Proxy", "ABC", "under the bed", "Moving Image", 
+              "PUBLIC", "ABC", "my closet", 
+              "Sound", "Not-a-Proxy", "0:12:34", 
+              "ABC", "under the bed", "Moving Image", 
               "Proxy", "WGBH"], 
             "asset_type"=>"Documentary", 
             "asset_date"=>"2000-01-01", 
@@ -130,6 +131,15 @@ describe 'Validated and plain PBCore' do
 
       it 'has digitized' do
         expect(pbc.digitized).to eq(true)
+      end
+      
+      describe 'instantiations' do
+        it 'has media_type' do
+          expect(pbc.instantiations[0].media_type).to eq('Sound')
+        end
+        it 'has duration' do
+          expect(pbc.instantiations[0].duration).to eq('0:12:34')
+        end
       end
 
     end
