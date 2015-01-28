@@ -66,8 +66,11 @@ describe 'Validated and plain PBCore' do
         expect(pbc.to_solr).to eq({
             "id"=>"1234", 
             "text"=>["Documentary", "2000-01-01", "1234", "5678", 
-              "NOVA", "Gratuitous Explosions", "Best episode ever!", 
-              "Horror", "Musical", "PUBLIC", "ABC", "my closet", "Sound", 
+              "NOVA", "Gratuitous Explosions", 
+              "explosions -- gratuitious", "musicals -- horror",
+              "Best episode ever!", 
+              "Horror", "Musical", "Copy Left: All rights reversed.",
+              "PUBLIC", "ABC", "my closet", "Sound", 
               "Not-a-Proxy", "ABC", "under the bed", "Moving Image", 
               "Proxy", "WGBH"], 
             "asset_type"=>"Documentary", 
@@ -76,7 +79,8 @@ describe 'Validated and plain PBCore' do
             "genre"=>["Horror", "Musical"], 
             "organization_code"=>"WGBH",
             "media_type"=>"Moving Image",
-            "xml"=>pbc_xml
+            "xml"=>pbc_xml,
+            "year" => "2000"
         })
       end
 

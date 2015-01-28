@@ -15,17 +15,44 @@ class PBCore
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription')
   end
+  def genres
+    @genres ||= xpaths('/*/pbcoreGenre')
+  end
+  def subjects
+    @subjects ||= xpaths('/*/pbcoreSubject')
+  end
+  def contributors
+    @contributors ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreContributors').map{|rexml|
+      Contributor.new(rexml)
+    }
+  end
+  def creators
+    @creators ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreCreators').map{|rexml|
+      Creator.new(rexml)
+    }
+  end
+  def publishers
+    @contributors ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreContributors').map{|rexml|
+      Contributor.new(rexml)
+    }
+  end
+  def rights_summary
+    @rights_summary ||= xpath('/*/pbcoreRightsSummary/rightsSummary')
+  rescue NoMatchError
+    nil
+  end
   def asset_type
     @asset_type ||= xpath('/*/pbcoreAssetType') 
   rescue NoMatchError
     nil # We want to distinguish an empty string from no value in source data
   end
   def asset_date
-    @asset_date ||= xpath('/*/pbcoreAssetDate') 
-    # TODO figure out formats
-    # TODO maybe filter by @dateType?
+    @asset_date ||= xpath('/*/pbcoreAssetDate')
   rescue NoMatchError
     nil
+  end
+  def year
+    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
   end
   def titles
     @titles ||= xpaths('/*/pbcoreTitle')
@@ -91,6 +118,7 @@ class PBCore
       'xml' => @xml,
       'media_type' => media_type,
       'genre' => genre,
+      'year' => year,
       'asset_date' => asset_date,
       'asset_type' => asset_type,
       'organization_code' => organization_code
@@ -113,4 +141,30 @@ class PBCore
   def xpaths(xpath)
     REXML::XPath.match(@doc, xpath).map{|l|l.text}
   end
+  
+  class Contributor
+    def initialize(rexml)
+      @rexml = rexml
+    end
+    def name
+      @name = REXML::XPath.match(@rexml, 'contributor')
+    end
+    def role
+      @role = REXML::XPath.match(@rexml, 'role')
+    end
+    def affiliation
+      @affiliation = REXML::XPath.match(@rexml, 'affiliation')
+    end
+  end
+  class Publisher
+    def initialize(rexml)
+      @rexml = rexml
+    end
+  end
+  class Creator
+    def initialize(rexml)
+      @rexml = rexml
+    end
+  end
+  
 end

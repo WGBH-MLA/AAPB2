@@ -4,7 +4,9 @@ Rails.application.routes.draw do
   
   blacklight_for :catalog
   
-  resources 'organizations', only: [:index, :show]
+  resources 'organizations', 
+    constraints: { :id => /.*/ }, # So that IDs with periods are accepted.
+    only: [:index, :show]
   
   get '/*path', to: 'override#show', constraints: lambda { |req| 
     path = req.params['path']

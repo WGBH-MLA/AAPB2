@@ -20,9 +20,35 @@ describe 'Catalog' do
       ['Media Type','Genre','Asset Type','Organization'].each do |facet|
         expect(page).to have_text(facet)
       end
-      expect(page).to have_text('From Bessie Smith to Bruce Springsteen')
-      expect(page).to have_text('1990-07-27')
-      expect(page).to have_text('No description available')
+      [
+        'From Bessie Smith to Bruce Springsteen', 
+        '1990-07-27', 
+        'No description available'
+      ].each do |field|
+        expect(page).to have_text(field)
+      end
+    end
+    
+  end
+  
+  describe '#show' do
+    
+    it 'works' do
+      visit '/catalog/1234'
+      expect(page.status_code).to eq(200)
+      [
+        'Gratuitous Explosions',
+        'Best episode ever!',
+        'explosions -- gratuitious', 'musicals -- horror',
+        'Documentary',
+        '2000-01-01',
+        'Horror', 'Musical',
+        'Moving Image',
+        'WGBH',
+        'Copy Left: All rights reversed.'
+      ].each do |field|
+        expect(page).to have_text(field)
+      end
     end
     
   end
