@@ -83,9 +83,6 @@ class PBCore
         titles.values.first
     end
   end
-  def genre
-    @genre ||= xpaths('/*/pbcoreGenre')
-  end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
   end
@@ -122,7 +119,7 @@ class PBCore
       'title' => title,
       'xml' => @xml,
       'media_type' => media_type,
-      'genre' => genre,
+      'genre' => genres, # Keep Solr name singular: when querying don't need to worry about cardinality.
       'year' => year,
       'asset_date' => asset_date,
       'asset_type' => asset_type,
