@@ -1,0 +1,7 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+
+!omap
+  foo: yesTHISisRIGHT
+  '': bar

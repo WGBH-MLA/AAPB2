@@ -7,9 +7,11 @@ class Cleaner
   attr_reader :report
   
   def initialize
-    @asset_type_map = VocabMap.new('asset-type-map.yml')
-    @date_type_map = VocabMap.new('date-type-map.yml')
-    @title_type_map = VocabMap.new('title-type-map.yml')
+    (File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/').tap do |directory|
+      @asset_type_map = VocabMap.new(directory + 'asset-type-map.yml')
+      @date_type_map = VocabMap.new(directory + 'date-type-map.yml')
+      @title_type_map = VocabMap.new(directory + 'title-type-map.yml')
+    end
     
     @report = {}
     def @report.to_s
@@ -160,11 +162,23 @@ class Cleaner
     # Just stripping it should be fine.
   end
   
-  private
-  
   class VocabMap
-    def initialize(file_name)
-      @map = YAML.load_file(File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/'+file_name)
+    def initialize(path)
+      @map = YAML.load_file(path)
+      raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
+      
+      @case_map = Hash[@map.values.uniq.map{|value|[value.downcase,value]}]
+      raise "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
+      
+      hidden_keys = @map.select{|key,value| map_string(key)!=value}.keys
+      raise "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
+      
+      raise "No default mapping in #{path}" unless @map['']
+    end
+    def map_string(s)
+      return @case_map[s.downcase] ||
+        @map.select{|key| s.downcase.include? key.downcase}.values.first ||
+        raise("No match found for '#{s}'")
     end
     def map_node(node)
       unless node.respond_to? 'text'
@@ -177,19 +191,11 @@ class Cleaner
           self.element.attributes[self.name]=s
         end
       end
-      unless @map.values.include? node.text
-        @map.each { |key,value|
-          if node.text.downcase.include? key.downcase
-            node.text = value
-            break
-          end
-        }
-        unless @map.values.include? node.text
-          raise "No match found for '#{node.text}'"
-        end
-      end
+      node.text = map_string(node.text)
     end
   end
+  
+  private
   
   def add_report(category, instance)
     @report[category] ||= Set.new

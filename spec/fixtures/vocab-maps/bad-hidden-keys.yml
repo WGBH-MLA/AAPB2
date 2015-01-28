@@ -1,0 +1,8 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+
+!omap
+  this-is-ok: this-is-ok
+  shouldnotberemapped: ShouldNotBeRemapped
+  ShouldNotBeRemapped: but it is
