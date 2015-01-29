@@ -59,11 +59,22 @@ class PBCore
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
   end
+  def contribs
+    @contribs ||= 
+      # TODO: Better xpath syntax?
+      xpaths('/*/pbcoreContributor/contributor') +
+      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
+      xpaths('/*/pbcoreCreator/creator') +
+      xpaths('/*/pbcoreCreator/creator/@affiliation') +
+      xpaths('/*/pbcoreCreator/publisher') +
+      xpaths('/*/pbcoreCreator/publisher/@affiliation')
+  end
   def titles
     @titles ||= xpaths('/*/pbcoreTitle')
   end
   def title
     @title ||= begin
+      # TODO: just use xpath, instead of creating intermediate hash.
       # TODO: If a titleType is repeated, we just pick one arbitrarily.
       titles = Hash[
         REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreTitle').map { |node|
@@ -117,13 +128,20 @@ class PBCore
   end
 
   def to_solr
+    # Keep Solr name singular, even if the method is plural:
+    # Easier not to need to worry about cardinality.
     {
       'id' => id,
-      'text' => text,
-      'title' => title,
       'xml' => @xml,
+      
+      # constrained searches:
+      'text' => text,
+      'title' => titles,
+      'contrib' => contribs,
+      
+      # facets:
       'media_type' => media_type,
-      'genre' => genres, # Keep Solr name singular: when querying don't need to worry about cardinality.
+      'genre' => genres,
       'year' => year,
       'asset_type' => asset_type,
       'organization_code' => organization_code

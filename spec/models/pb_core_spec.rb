@@ -75,7 +75,8 @@ describe 'Validated and plain PBCore' do
               "ABC", "under the bed", "Moving Image", 
               "Proxy", "WGBH"], 
             "asset_type"=>"Documentary",
-            "title"=>"Gratuitous Explosions", 
+            "contrib"=>[],
+            "title"=>["NOVA", "Gratuitous Explosions"], 
             "genre"=>["Horror", "Musical"], 
             "organization_code"=>"WGBH",
             "media_type"=>"Moving Image",
@@ -92,6 +93,10 @@ describe 'Validated and plain PBCore' do
         expect(pbc.asset_date).to eq('2000-01-01')
       end
 
+      it 'has contribs' do
+        expect(pbc.contribs).to eq([])
+      end
+      
       it 'has titles' do
         expect(pbc.titles).to eq(['NOVA','Gratuitous Explosions'])
       end

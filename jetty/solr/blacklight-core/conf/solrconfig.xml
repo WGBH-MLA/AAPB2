@@ -93,6 +93,20 @@
          text
        </str>
        
+       <str name="title_qf">
+         title
+       </str>
+       <str name="title_pf">
+         title
+       </str>
+       
+       <str name="contrib_qf">
+         contrib
+       </str>
+       <str name="contrib_pf">
+         contrib
+       </str>
+       
        <int name="ps">3</int>
        <float name="tie">0.01</float>
 
