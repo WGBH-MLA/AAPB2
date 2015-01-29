@@ -111,6 +111,10 @@ describe 'Validated and plain PBCore' do
       it 'has ids' do
         expect(pbc.ids).to eq(['1234','5678'])
       end
+      
+      it 'has img_src' do
+        expect(pbc.img_src).to eq('https://mlamedia01.wgbh.org/aapb/thumnail/1234.jpg')
+      end
 
       it 'has organization_code' do
         expect(pbc.organization_code).to eq('WGBH')
