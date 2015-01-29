@@ -89,6 +89,10 @@ class PBCore
   def ids
     @ids ||= xpaths('/*/pbcoreIdentifier')
   end
+  def img_src
+    # ID may contain a slash, and that's ok.
+    @img_src ||= "https://mlamedia01.wgbh.org/aapb/thumnail/#{id}.jpg"
+  end
   def organization_code
     @organization_code ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
   end
