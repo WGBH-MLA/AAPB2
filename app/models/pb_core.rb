@@ -61,13 +61,13 @@ class PBCore
   end
   def contribs
     @contribs ||= 
-      # TODO: Better xpath syntax?
-      xpaths('/*/pbcoreContributor/contributor') +
-      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
+      # TODO: Cleaner xpath syntax?
       xpaths('/*/pbcoreCreator/creator') +
       xpaths('/*/pbcoreCreator/creator/@affiliation') +
-      xpaths('/*/pbcoreCreator/publisher') +
-      xpaths('/*/pbcoreCreator/publisher/@affiliation')
+      xpaths('/*/pbcoreContributor/contributor') +
+      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
+      xpaths('/*/pbcorePublisher/publisher') +
+      xpaths('/*/pbcorePublisher/publisher/@affiliation')
   end
   def titles
     @titles ||= xpaths('/*/pbcoreTitle')
@@ -157,12 +157,13 @@ class PBCore
       if matches.length != 1
         raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
-        return matches.first.text
+        node = matches.first
+        return node.respond_to?('text') ? node.text : node.value
       end
     end
   end
   def xpaths(xpath)
-    REXML::XPath.match(@doc, xpath).map{|l|l.text}
+    REXML::XPath.match(@doc, xpath).map{|node| node.respond_to?('text') ? node.text : node.value}
   end
   
   module Optionally
