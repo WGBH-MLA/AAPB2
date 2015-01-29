@@ -10,6 +10,15 @@
     <pbcoreDescription>Best episode ever!</pbcoreDescription>
     <pbcoreGenre>Horror</pbcoreGenre>
     <pbcoreGenre>Musical</pbcoreGenre>
+    <pbcoreCreator>
+        <creator affiliation="Stooges">Larry</creator>
+    </pbcoreCreator>
+    <pbcoreContributor>
+        <contributor affiliation="Stooges">Curly</contributor>
+    </pbcoreContributor>
+    <pbcorePublisher>
+        <publisher affiliation="Stooges">Moe</publisher>
+    </pbcorePublisher>   
     <pbcoreRightsSummary>
         <rightsSummary>Copy Left: All rights reversed.</rightsSummary>
     </pbcoreRightsSummary>

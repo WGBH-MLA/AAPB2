@@ -69,13 +69,16 @@ describe 'Validated and plain PBCore' do
               "NOVA", "Gratuitous Explosions", 
               "explosions -- gratuitious", "musicals -- horror",
               "Best episode ever!", 
-              "Horror", "Musical", "Copy Left: All rights reversed.",
+              "Horror", "Musical", 
+              "Larry", "Curly", "Moe",
+              "Copy Left: All rights reversed.",
               "PUBLIC", "ABC", "my closet", 
               "Sound", "Not-a-Proxy", "0:12:34", 
               "ABC", "under the bed", "Moving Image", 
               "Proxy", "WGBH"], 
             "asset_type"=>"Documentary",
-            "title"=>"Gratuitous Explosions", 
+            "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
+            "title"=>["NOVA", "Gratuitous Explosions"], 
             "genre"=>["Horror", "Musical"], 
             "organization_code"=>"WGBH",
             "media_type"=>"Moving Image",
@@ -92,6 +95,10 @@ describe 'Validated and plain PBCore' do
         expect(pbc.asset_date).to eq('2000-01-01')
       end
 
+      it 'has contribs' do
+        expect(pbc.contribs).to eq(['Larry','Stooges','Curly','Stooges','Moe','Stooges'])
+      end
+      
       it 'has titles' do
         expect(pbc.titles).to eq(['NOVA','Gratuitous Explosions'])
       end
