@@ -34,7 +34,7 @@ describe 'Catalog' do
         ['media_type','Sound',6],
         ['genre','Interview',3],
         ['asset_type','Segment',5],
-        ['organization_code','WGBH',1],
+        ['organization','WGBH',1],
         ['year','2000',1]
       ].each do |(facet,value,count)|
         url = "/catalog?f[#{facet}][]=#{value}"
