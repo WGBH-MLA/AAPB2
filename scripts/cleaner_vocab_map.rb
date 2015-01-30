@@ -41,7 +41,26 @@ class Cleaner
     end
     
     def map_reorder_nodes(nodes)
-      # TODO
+      map_nodes(nodes)
+      attribute_name = nodes.first.name
+      nodes.each do |node|
+        raise "Must be attribute: #{node}" unless node.node_type == :attribute
+        raise "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
+      end
+      nodes.map{ |attr|
+        attr.element.dup
+      }.sort_by{ |element|
+        element.attributes[attribute_name]
+      }.each{ |element|
+        nodes[0].element.parent.insert_before(nodes[0].element,element)
+      }
+      nodes.each{|attr| attr.element.parent.delete(attr.element)}
+    end
+    
+    private
+    
+    def self.delete(node)
+      node.parent.elements.delete(node)
     end
     
   end
