@@ -1,0 +1,9 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+
+!omap
+  primo: 1st
+  second: 2nd
+  '3.': 3rd
+  '': 0th?

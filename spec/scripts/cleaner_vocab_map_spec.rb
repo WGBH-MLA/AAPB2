@@ -43,6 +43,20 @@ describe Cleaner::VocabMap do
       expect(doc.to_s).to eq "<doc attr='yesTHISisRIGHT'/>"
     end
     
+    it 'reorders by mapped attribute value' do
+      card_map = Cleaner::VocabMap.new(fixtures+'/good-cardinal-map.yml')
+      ord_map = Cleaner::VocabMap.new(fixtures+'/good-ordinal-map.yml')
+      
+      doc = REXML::Document.new(
+        '<doc><el o="3.">drei</el><el o="second">two</el><el o="primo">I</el></doc>')
+      
+      card_map.map_nodes(REXML::XPath.match(doc, '/doc/el'))
+      #expect(doc.to_s).to eq "<doc><el o='3.'>3</el><el o='second'>2</el><el o='primus'>1</el></doc>"
+      
+      ord_map.map_reorder_nodes(REXML::XPath.match(doc, '/doc/el/@o'))
+      #expect(doc.to_s).to eq "<doc><el o='1st'>1</el><el o='2nd'>2</el><el o='3rd'>3</el></doc>"
+    end
+    
   end
   
   describe 'when the map is bad' do

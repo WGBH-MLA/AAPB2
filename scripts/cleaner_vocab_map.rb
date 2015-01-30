@@ -36,5 +36,13 @@ class Cleaner
       node.text = map_string(node.text)
     end
     
+    def map_nodes(nodes)
+      # TODO
+    end
+    
+    def map_reorder_nodes(nodes)
+      # TODO
+    end
+    
   end
 end
