@@ -47,10 +47,13 @@ class Cleaner
         raise "Must be attribute: #{node}" unless node.node_type == :attribute
         raise "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
       end
+      
+      ordering = Hash[@map.values.uniq.each_with_index.map{|e,i| [e,i]}]
+      
       nodes.map{ |attr|
         attr.element.dup
       }.sort_by{ |element|
-        element.attributes[attribute_name]
+        ordering[element.attributes[attribute_name]]
       }.each{ |element|
         nodes[0].element.parent.insert_before(nodes[0].element,element)
       }

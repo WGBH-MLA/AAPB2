@@ -3,7 +3,7 @@
 # Final line is a fall-through.
 
 !omap
-  primo: 1st
-  second: 2nd
-  '3.': 3rd
-  '': 0th?
+  primo: erste
+  second: zweite
+  '3.': dritte
+  '': undefined

@@ -54,7 +54,7 @@ describe Cleaner::VocabMap do
       expect(doc.to_s).to eq "<doc><el o='3.'>3</el><el o='second'>2</el><el o='primo'>1</el></doc>"
       
       ord_map.map_reorder_nodes(REXML::XPath.match(doc, '/doc/el/@o'))
-      expect(doc.to_s).to eq "<doc><el o='1st'>1</el><el o='2nd'>2</el><el o='3rd'>3</el></doc>"
+      expect(doc.to_s).to eq "<doc><el o='erste'>1</el><el o='zweite'>2</el><el o='dritte'>3</el></doc>"
     end
     
   end
