@@ -1,5 +1,8 @@
 # Case-insensitive substring on the left,
 # replacement on the right.
+#
+# Order on the right dictates preference for main title.
+#
 # Final line is a fall-through.
 
 !omap

@@ -63,9 +63,7 @@ class Cleaner
       )
     }
     
-    match_no_report(doc, '/pbcoreTitle/@titleType') { |node|
-      @title_type_map.map_node(node)
-    }
+    @title_type_map.map_reorder_nodes(REXML::XPath.match(doc, '/*/pbcoreTitle/@titleType'))
     
     # pbcoreRelation:
     
