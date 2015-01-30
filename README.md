@@ -46,3 +46,7 @@ At this point you can
 - Download pbcore from the AMS: `ruby scripts/download_clean_validate.rb 0 1`
 (This starts at page `0`, and stops before page `1`:
 both arguments are optional, if you want to download everything.)
+
+# Architecture
+
+![data flow diagram](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-data-flow.svg?v1)
