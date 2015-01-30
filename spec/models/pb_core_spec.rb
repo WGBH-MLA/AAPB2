@@ -126,10 +126,6 @@ describe 'Validated and plain PBCore' do
       it 'has organization_pbcore_name' do
         expect(pbc.organization_pbcore_name).to eq('WGBH')
       end
-      
-      it 'has organization_short_name' do
-        expect(pbc.organization_short_name).to eq('WGBH')
-      end
 
       it 'has organization' do
         expect(pbc.organization).to eq(Organization.find_by_pbcore_name('WGBH'))

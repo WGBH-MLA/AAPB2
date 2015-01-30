@@ -104,9 +104,6 @@ class PBCore
     # ID may contain a slash, and that's ok.
     @img_src ||= "https://mlamedia01.wgbh.org/aapb/thumnail/#{id}.jpg"
   end
-  def organization_short_name
-    @organization_short_name ||= organization.short_name
-  end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
   end
@@ -147,7 +144,7 @@ class PBCore
       'genre' => genres,
       'year' => year,
       'asset_type' => asset_type,
-      'organization' => organization_short_name
+      'organization' => organization.short_name
     }
   end
   
