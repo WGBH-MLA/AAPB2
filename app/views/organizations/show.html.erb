@@ -1,7 +1,8 @@
-TODO: one organization
+<h1><%= @org.short_name %></h1>
 
-<h1><%= @org %></h1>
+<p><%= @org.city %>, <%= @org.state %></p>
 
+<%# TODO: better link idiom %>
 <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
 
 <% if @org.history_html %>

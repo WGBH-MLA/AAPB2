@@ -4,7 +4,7 @@ require_relative 'htmlizer'
 class Organization
   attr_reader :pbcore_name
   attr_reader :id
-  attr_reader :full_name
+  attr_reader :short_name
   attr_reader :state
   attr_reader :city
   attr_reader :url
@@ -14,12 +14,12 @@ class Organization
   
   private
   
-  def initialize(pbcore_name, id, full_name=nil, state=nil, city=nil, 
+  def initialize(pbcore_name, id, short_name=nil, state=nil, city=nil, 
       url=nil, history_text=nil, productions_text=nil, logo_filename=nil, notes=nil)
     # TODO: Should all fields be required?
     @pbcore_name = pbcore_name
     @id = id
-    @full_name = full_name
+    @short_name = short_name
     @state = state
     @city = city
     @url = url

@@ -522,7 +522,7 @@
           type="string" indexed="true" stored="true" multiValued="false"/>
    <field name="asset_type" 
           type="string" indexed="true" stored="true" multiValued="false"/>
-   <field name="organization_code" 
+   <field name="organization" 
           type="string" indexed="true" stored="true" multiValued="false"/>
    
    <field name="genre" 

@@ -102,13 +102,13 @@ class PBCore
   end
   def img_src
     # ID may contain a slash, and that's ok.
-    @img_src ||= "https://mlamedia01.wgbh.org/aapb/thumnail/#{id}.jpg"
+    @img_src ||= "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
   end
-  def organization_code
-    @organization_code ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
+  def organization_pbcore_name
+    @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
   end
   def organization
-    @organization ||= Organization.find_by_pbcore_name(organization_code)
+    @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name)
   end
   def rights_code
     @rights_code ||= xpath('/*/pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
@@ -144,7 +144,7 @@ class PBCore
       'genre' => genres,
       'year' => year,
       'asset_type' => asset_type,
-      'organization_code' => organization_code
+      'organization' => organization.short_name
     }
   end
   

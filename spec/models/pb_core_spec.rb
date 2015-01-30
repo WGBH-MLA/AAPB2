@@ -80,7 +80,7 @@ describe 'Validated and plain PBCore' do
             "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
             "title"=>["NOVA", "Gratuitous Explosions"], 
             "genre"=>["Horror", "Musical"], 
-            "organization_code"=>"WGBH",
+            "organization"=>"WGBH",
             "media_type"=>"Moving Image",
             "xml"=>pbc_xml,
             "year" => "2000"
@@ -120,11 +120,11 @@ describe 'Validated and plain PBCore' do
       end
       
       it 'has img_src' do
-        expect(pbc.img_src).to eq('https://mlamedia01.wgbh.org/aapb/thumnail/1234.jpg')
+        expect(pbc.img_src).to eq('https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg')
       end
 
-      it 'has organization_code' do
-        expect(pbc.organization_code).to eq('WGBH')
+      it 'has organization_pbcore_name' do
+        expect(pbc.organization_pbcore_name).to eq('WGBH')
       end
 
       it 'has organization' do
