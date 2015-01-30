@@ -51,7 +51,7 @@ describe Cleaner::VocabMap do
         '<doc><el o="3.">drei</el><el o="second">two</el><el o="primo">I</el></doc>')
       
       card_map.map_nodes(REXML::XPath.match(doc, '/doc/el'))
-      #expect(doc.to_s).to eq "<doc><el o='3.'>3</el><el o='second'>2</el><el o='primus'>1</el></doc>"
+      expect(doc.to_s).to eq "<doc><el o='3.'>3</el><el o='second'>2</el><el o='primo'>1</el></doc>"
       
       ord_map.map_reorder_nodes(REXML::XPath.match(doc, '/doc/el/@o'))
       #expect(doc.to_s).to eq "<doc><el o='1st'>1</el><el o='2nd'>2</el><el o='3rd'>3</el></doc>"

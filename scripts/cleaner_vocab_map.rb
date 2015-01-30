@@ -37,7 +37,7 @@ class Cleaner
     end
     
     def map_nodes(nodes)
-      # TODO
+      nodes.each{|node| map_node(node)}
     end
     
     def map_reorder_nodes(nodes)
