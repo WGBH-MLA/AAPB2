@@ -13,3 +13,72 @@
  *= require_tree .
  *= require_self
  */
+
+/* Button - Default */
+.btn-default {
+	color: #FFF;
+	background-color: #5d60ab;
+	border-color: #292a72;
+}
+
+	.btn-default:hover {
+		color: #FFF;
+		background-color: #3c439b;
+		border-color: #292a72;
+	}
+
+/* Button - Primary */
+.btn-primary {
+	color: #fff;
+	background-color: #292a72;
+	border-color: #2e6da4;
+}
+
+/* Button - Success */
+.btn-success {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #4cae4c;
+}
+
+/* Button - Info */
+.btn-info {
+	color: #3c439b;
+	background-color: #FFF;
+	border-color: #FFF;
+
+	/*more custom*/
+	font-weight:bold;
+	text-transform:uppercase;
+	border-radius:0;
+}
+
+	.btn-info:hover {
+		color: #90298e;
+		background-color: #FFF;
+		border-color: #FFF;
+	}
+
+	/*Open Drop button*/
+	.open>.dropdown-toggle.btn-info {
+		color: #90298e;
+		background-color: #DEDEDE;
+		border-color: #DEDEDE;
+	}
+
+/* Button - Warning */
+.btn-warning {
+	color: #fff;
+	background-color: #ef3f37;
+	border-color: #eea236;
+
+	/*more custom*/
+	border-radius:0;
+}
+
+/* Button - Danger */
+.btn-danger {
+	color: #fff;
+	background-color: #bf202f;
+	border-color: #CC0000;
+}
