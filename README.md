@@ -19,6 +19,9 @@ The code is not yet deployed: Its home will be [americanarchive.org](http://amer
 Install it as instructed.
 - Get dependencies: `bundle install`
 - Start Solr: `rake jetty:start`
+- Run DB migrations: `rake db:migrate RAILS_ENV=development`
+(TODO: This shouldn't be necessary, since we don't use the DB.
+[Issue #63](https://github.com/WGBH/AAPB2/issues/63))
 
 If you'll be interacting with [Sony Ci](http://developers.cimediacloud.com), you'll also need `config/ci.yml`.
 (This is git-ignored since it contains a data which should not be publicized.)
@@ -36,10 +39,14 @@ AAPB workspace ID if you want to view media that is stored.
 
 At this point you can
 
-- Run tests: `rspec` (If it's not 100% passing, let us know!)
-- Ingest the fixtures: `ruby scripts/pb_core_ingester.rb spec/fixtures/pbcore/*.xml`
-(Half of these are intentional failures, so don't be alarmed.)
+- Run tests, skipping Ci tests: `rspec --tag ~not_on_travis`
+(If it's not 100% passing, let us know!)
+- Ingest the fixtures: `ruby scripts/pb_core_ingester.rb spec/fixtures/pbcore/clean-*.xml`
 - Start rails: `rails s`
 - Download pbcore from the AMS: `ruby scripts/download_clean_validate.rb 0 1`
 (This starts at page `0`, and stops before page `1`:
 both arguments are optional, if you want to download everything.)
+
+# Architecture
+
+![data flow diagram](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-data-flow.svg?v1)
