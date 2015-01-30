@@ -59,11 +59,17 @@ class Cleaner
       Cleaner.insert_after_match(
         doc,
         '/pbcoreDescriptionDocument/pbcoreIdentifier',
-        REXML::Document.new('<pbcoreTitle titleType="program">unknown</pbcoreTitle>')
+        REXML::Document.new('<pbcoreTitle titleType="Program">unknown</pbcoreTitle>')
       )
     }
     
-    @title_type_map.map_reorder_nodes(REXML::XPath.match(doc, '/*/pbcoreTitle/@titleType'))
+    @title_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
+    # NOTE: The '//' XPath is wildly inefficient, but a tighter search like '/*/pbcoreTitle'
+    # returns no results if the title element was inserted just above. My suspicion is that
+    # REXML doesn't fully update its internal representation of the parent after node insertions,
+    # but forcing a full traversal with '//' gets the job done.
+    # 
+    # THIS IS HORRIBLE!!!
     
     # pbcoreRelation:
     
