@@ -120,7 +120,7 @@ describe 'Validated and plain PBCore' do
       end
       
       it 'has img_src' do
-        expect(pbc.img_src).to eq('https://mlamedia01.wgbh.org/aapb/thumnail/1234.jpg')
+        expect(pbc.img_src).to eq('https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg')
       end
 
       it 'has organization_pbcore_name' do
