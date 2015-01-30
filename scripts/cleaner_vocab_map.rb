@@ -2,6 +2,7 @@ require 'yaml'
 
 class Cleaner
   class VocabMap
+    
     def initialize(path)
       @map = YAML.load_file(path)
       raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
@@ -14,11 +15,13 @@ class Cleaner
 
       raise "No default mapping in #{path}" unless @map['']
     end
+    
     def map_string(s)
       return @case_map[s.downcase] ||
         @map.select{|key| s.downcase.include? key.downcase}.values.first ||
         raise("No match found for '#{s}'")
     end
+    
     def map_node(node)
       unless node.respond_to? 'text'
         # Make attribute node act like element node
@@ -32,5 +35,6 @@ class Cleaner
       end
       node.text = map_string(node.text)
     end
+    
   end
 end

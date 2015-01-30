@@ -1,4 +1,5 @@
-require_relative '../../scripts/cleaner'
+require 'rexml/document'
+require_relative '../../scripts/cleaner_vocab_map'
 
 describe Cleaner::VocabMap do
   
@@ -11,7 +12,7 @@ describe Cleaner::VocabMap do
     describe 'acceptance' do
       [File.dirname(File.dirname(File.dirname(__FILE__)))+'/config/vocab-maps',
           fixtures].each do |dir|
-        Dir["#{dir}/*"].reject{|file| file=~/bad/}.each do |yaml|
+        Dir["#{dir}/*"].reject{|file| file=~/bad-/}.each do |yaml|
           it "accepts #{yaml}" do
             expect{Cleaner::VocabMap.new(yaml)}.not_to raise_error
           end
@@ -24,13 +25,31 @@ describe Cleaner::VocabMap do
       expect(map.map_string('YesThisIsRight')).to eq 'yesTHISisRIGHT'
     end
     
+    it 'maps text nodes' do
+      map = Cleaner::VocabMap.new(fixtures+'/good-map.yml')
+      
+      doc = REXML::Document.new('<doc><element>foo</element></doc>')
+      nodes = REXML::XPath.match(doc, '/doc/element')
+      map.map_node(nodes.first)
+      expect(doc.to_s).to eq '<doc><element>yesTHISisRIGHT</element></doc>'
+    end
+    
+    it 'maps attribute values' do
+      map = Cleaner::VocabMap.new(fixtures+'/good-map.yml')
+      
+      doc = REXML::Document.new('<doc attr="foo"></doc>')
+      nodes = REXML::XPath.match(doc, '/doc/@attr')
+      map.map_node(nodes.first)
+      expect(doc.to_s).to eq "<doc attr='yesTHISisRIGHT'/>"
+    end
+    
   end
   
   describe 'when the map is bad' do
     
     describe 'rejection' do
       [fixtures].each do |dir|
-        Dir["#{dir}/*"].grep(/bad/).each do |yaml|
+        Dir["#{dir}/*"].grep(/bad-/).each do |yaml|
           it "rejects #{yaml}" do
             expect{Cleaner::VocabMap.new(yaml)}.to raise_error
           end
