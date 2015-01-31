@@ -66,7 +66,7 @@ describe 'Validated and plain PBCore' do
         expect(pbc.to_solr).to eq({
             "id"=>"1234", 
             "text"=>["Documentary", "2000-01-01", "1234", "5678", 
-              "NOVA", "Gratuitous Explosions", 
+              "Gratuitous Explosions", "NOVA",
               "explosions -- gratuitious", "musicals -- horror",
               "Best episode ever!", 
               "Horror", "Musical", 
@@ -78,7 +78,7 @@ describe 'Validated and plain PBCore' do
               "Proxy", "WGBH"], 
             "asset_type"=>"Documentary",
             "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
-            "title"=>["NOVA", "Gratuitous Explosions"], 
+            "title"=>["Gratuitous Explosions", "NOVA"], 
             "genre"=>["Horror", "Musical"], 
             "organization"=>"WGBH",
             "media_type"=>"Moving Image",
@@ -100,7 +100,7 @@ describe 'Validated and plain PBCore' do
       end
       
       it 'has titles' do
-        expect(pbc.titles).to eq(['NOVA','Gratuitous Explosions'])
+        expect(pbc.titles).to eq({"Program"=>"Gratuitous Explosions", "Series"=>"NOVA"})
       end
 
       it 'has title' do

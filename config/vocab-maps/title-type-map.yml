@@ -20,8 +20,8 @@
   episode: Episode
   epospde: Episode
   segment: Segment
-  series: Series
   program: Program
+  series: Series
   collection: Collection
   label: Label
   '': Uncataloged

@@ -70,29 +70,18 @@ class PBCore
       xpaths('/*/pbcorePublisher/publisher/@affiliation')
   end
   def titles
-    @titles ||= xpaths('/*/pbcoreTitle')
+    @titles ||= Hash[ # "Hashes enumerate their values in the order that the corresponding keys were inserted."
+      REXML::XPath.match(@doc, '/*/pbcoreTitle').map { |node|
+        [
+          REXML::XPath.first(node,'@titleType').value,
+          node.text
+        ]
+      } 
+    ]
   end
   def title
-    @title ||= begin
-      # TODO: just use xpath, instead of creating intermediate hash.
-      # TODO: If a titleType is repeated, we just pick one arbitrarily.
-      titles = Hash[
-        REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreTitle').map { |node|
-          [
-            REXML::XPath.first(node,'@titleType').value,
-            node.text
-          ]
-        } 
-      ]
-      # TODO: get the right order: If the best choice is missing, selection might be arbitrary.
-      titles['Program'] || titles['Series'] || 
-        titles['Episode'] || titles['Album'] ||
-        titles['Raw Footage'] || titles['Promo'] ||
-        titles['Clip'] || titles['Episode Number'] ||
-        titles['Segment'] || titles['Collection'] ||
-        titles['Label'] || titles['Uncataloged'] ||
-        titles.values.first
-    end
+    @title ||= xpath('/*/pbcoreTitle[1]')
+    # Cleaner has put them in a good order.
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
@@ -136,7 +125,7 @@ class PBCore
       
       # constrained searches:
       'text' => text,
-      'title' => titles,
+      'title' => titles.values,
       'contrib' => contribs,
       
       # facets:
