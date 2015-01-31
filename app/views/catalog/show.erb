@@ -2,6 +2,13 @@
 
 <h1><%= @pbcore.title %></h1>
 
+<dl>
+<% @pbcore.titles.each do |type,title| %>
+  <dt><%= type %></dt>
+  <dd><%= title %></dt>
+<% end %>
+</dl>
+  
 <div>
   <% @pbcore.descriptions.each do |description| %>
     <p><%= description %></p>
