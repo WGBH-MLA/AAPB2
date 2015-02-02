@@ -76,7 +76,7 @@ describe 'Catalog' do
   
   describe '#show' do
     
-    it 'works' do
+    it 'contains expected data' do
       visit '/catalog/1234'
       expect(page.status_code).to eq(200)
       [
@@ -92,6 +92,18 @@ describe 'Catalog' do
         'Sound', '0:12:34', 'Moving Image'
       ].each do |field|
         expect(page).to have_text(field)
+      end
+    end
+    
+    describe 'for all fixtures' do
+      # TODO: figure out how to just use the before-all to set this.
+      Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
+        id = PBCore.new(File.read(file_name)).id
+        url = "/catalog/#{id.gsub('/','%2F')}" # Remember the URLs are tricky.
+        it "works for #{url}" do
+          visit url
+          expect(page.status_code).to eq(200)
+        end
       end
     end
     
