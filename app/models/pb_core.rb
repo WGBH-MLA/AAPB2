@@ -22,18 +22,18 @@ class PBCore
     @subjects ||= xpaths('/*/pbcoreSubject')
   end
   def contributors
-    @contributors ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreContributors').map{|rexml|
-      Contributor.new(rexml)
+    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map{|rexml|
+      NameRoleAffiliation.new(rexml)
     }
   end
   def creators
-    @creators ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreCreators').map{|rexml|
-      Creator.new(rexml)
+    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map{|rexml|
+      NameRoleAffiliation.new(rexml)
     }
   end
   def publishers
-    @contributors ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreContributors').map{|rexml|
-      Contributor.new(rexml)
+    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map{|rexml|
+      NameRoleAffiliation.new(rexml)
     }
   end
   def instantiations
@@ -162,28 +162,29 @@ class PBCore
     end
   end
   
-  class Contributor
+  class NameRoleAffiliation
     def initialize(rexml)
       @rexml = rexml
+      @stem = @rexml.name.gsub('pbcore','').downcase
+    end
+    def inspect
+      @stem + ': ' + ([name, affiliation, role].select{|c| c}.join(', '))
     end
     def name
-      @name = REXML::XPath.match(@rexml, 'contributor')
+      # TODO: base on element name.
+      @name ||= REXML::XPath.match(@rexml, @stem).first.text
     end
     def role
-      @role = REXML::XPath.match(@rexml, 'role')
+      @role ||= begin
+        node = REXML::XPath.match(@rexml, "#{@stem}Role").first
+        node ? node.text : nil
+      end
     end
     def affiliation
-      @affiliation = REXML::XPath.match(@rexml, 'affiliation')
-    end
-  end
-  class Publisher
-    def initialize(rexml)
-      @rexml = rexml
-    end
-  end
-  class Creator
-    def initialize(rexml)
-      @rexml = rexml
+      @affiliation ||= begin
+        node = REXML::XPath.match(@rexml, "#{@stem}/@affiliation").first
+        node ? node.value : nil
+      end
     end
   end
   

@@ -12,12 +12,15 @@
   <pbcoreGenre>Musical</pbcoreGenre>
   <pbcoreCreator>
     <creator affiliation='Stooges'>Larry</creator>
+    <creatorRole>balding</creatorRole>
   </pbcoreCreator>
   <pbcoreContributor>
     <contributor affiliation='Stooges'>Curly</contributor>
+    <contributorRole>bald</contributorRole>
   </pbcoreContributor>
   <pbcorePublisher>
     <publisher affiliation='Stooges'>Moe</publisher>
+    <publisherRole>hair</publisherRole>
   </pbcorePublisher>
   <pbcoreRightsSummary>
     <rightsSummary>Copy Left: All rights reversed.</rightsSummary>

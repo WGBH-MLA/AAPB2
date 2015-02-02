@@ -65,17 +65,7 @@ describe 'Validated and plain PBCore' do
       it 'has to_solr' do
         expect(pbc.to_solr).to eq({
             "id"=>"1234", 
-            "text"=>["Album", "2000-01-01", "1234", "5678", 
-              "Gratuitous Explosions", "NOVA",
-              "explosions -- gratuitious", "musicals -- horror",
-              "Best episode ever!", 
-              "Horror", "Musical", 
-              "Larry", "Curly", "Moe",
-              "Copy Left: All rights reversed.",
-              "PUBLIC", "ABC", "my closet", 
-              "Sound", "Not-a-Proxy", "0:12:34", 
-              "ABC", "under the bed", "Moving Image", 
-              "Proxy", "WGBH"], 
+            "text"=>["Album", "2000-01-01", "1234", "5678", "Gratuitous Explosions", "NOVA", "explosions -- gratuitious", "musicals -- horror", "Best episode ever!", "Horror", "Musical", "Larry", "balding", "Curly", "bald", "Moe", "hair", "Copy Left: All rights reversed.", "PUBLIC", "ABC", "my closet", "Sound", "Not-a-Proxy", "0:12:34", "ABC", "under the bed", "Moving Image", "Proxy", "WGBH"], 
             "asset_type"=>"Album",
             "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
             "title"=>["Gratuitous Explosions", "NOVA"], 
@@ -141,6 +131,22 @@ describe 'Validated and plain PBCore' do
 
       it 'has digitized' do
         expect(pbc.digitized).to eq(true)
+      end
+      
+      it 'has subjects' do
+        expect(pbc.subjects).to eq(["explosions -- gratuitious", "musicals -- horror"])
+      end
+      
+      it 'has creators' do
+        expect(pbc.creators.inspect).to eq('[creator: Larry, Stooges, balding]')
+      end
+      
+      it 'has publishers' do
+        expect(pbc.publishers.inspect).to eq('[publisher: Moe, Stooges, hair]')
+      end
+      
+      it 'has contributors' do
+        expect(pbc.contributors.inspect).to eq('[contributor: Curly, Stooges, bald]')
       end
       
       describe 'instantiations' do
