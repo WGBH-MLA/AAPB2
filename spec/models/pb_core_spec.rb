@@ -29,7 +29,7 @@ describe 'Validated and plain PBCore' do
       end
       
       it 'rejects missing namespace' do
-        invalid_pbcore = pbc_xml.sub(/xmlns="[^"]+"/,'')
+        invalid_pbcore = pbc_xml.sub(/xmlns=['"][^'"]+['"]/,'')
         expect{ValidatedPBCore.new(invalid_pbcore)}.to raise_error(/Element 'pbcoreDescriptionDocument': No matching global declaration/)
       end
       
@@ -65,7 +65,7 @@ describe 'Validated and plain PBCore' do
       it 'has to_solr' do
         expect(pbc.to_solr).to eq({
             "id"=>"1234", 
-            "text"=>["Documentary", "2000-01-01", "1234", "5678", 
+            "text"=>["Album", "2000-01-01", "1234", "5678", 
               "Gratuitous Explosions", "NOVA",
               "explosions -- gratuitious", "musicals -- horror",
               "Best episode ever!", 
@@ -76,7 +76,7 @@ describe 'Validated and plain PBCore' do
               "Sound", "Not-a-Proxy", "0:12:34", 
               "ABC", "under the bed", "Moving Image", 
               "Proxy", "WGBH"], 
-            "asset_type"=>"Documentary",
+            "asset_type"=>"Album",
             "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
             "title"=>["Gratuitous Explosions", "NOVA"], 
             "genre"=>["Horror", "Musical"], 
@@ -88,7 +88,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'has asset_type' do
-        expect(pbc.asset_type).to eq('Documentary')
+        expect(pbc.asset_type).to eq('Album')
       end
 
       it 'has asset_date' do
