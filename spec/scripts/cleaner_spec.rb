@@ -3,6 +3,15 @@ require_relative '../../app/models/validated_pb_core'
 
 describe Cleaner do
   
+  describe 'clean-MOCK.xml' do
+    it 'is in fact clean' do
+      hopefully_clean = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
+      clean = Cleaner.new.clean(hopefully_clean,'hopefully')
+      expect(clean).to eq hopefully_clean
+      expect{ValidatedPBCore.new(clean)}.not_to raise_error
+    end
+  end
+  
   describe 'given dirty xml (but fixable)' do
     Dir['spec/fixtures/pbcore/dirty-yes-fix-*.xml'].each do |path_dirty|
       name = File.basename(path_dirty)

@@ -83,7 +83,7 @@ describe 'Catalog' do
         'Gratuitous Explosions',
         'Best episode ever!',
         'explosions -- gratuitious', 'musicals -- horror',
-        'Documentary',
+        'Album',
         '2000-01-01',
         'Horror', 'Musical',
         'Moving Image',
