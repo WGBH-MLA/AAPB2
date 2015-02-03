@@ -85,7 +85,7 @@ describe 'Catalog' do
         'Best episode ever!',
         'explosions -- gratuitious', 'musicals -- horror',
         'Album',
-        '2000-01-01',
+        'uncataloged 2000-01-01',
         'Horror', 'Musical',
         'Moving Image',
         'WGBH',
