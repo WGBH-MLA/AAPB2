@@ -38,13 +38,15 @@ class Cleaner
       @asset_type_map.map_node(node)
     }
     
+    # TODO: insert assetType if not given.
+    
     # dateType
     
-    match_no_report(doc, '//@dateType') { |node|
-      @date_type_map.map_node(node)
+    match(doc, '/pbcoreAssetDate[not(@dateType)]') { |node|
+      node.attributes['dateType'] = ''
     }
     
-    # TODO: insert assetType if not given.
+    @date_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//@dateType'))
     
     # pbcoreIdentifier:
     
@@ -64,12 +66,6 @@ class Cleaner
     }
     
     @title_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
-    # NOTE: The '//' XPath is wildly inefficient, but a tighter search like '/*/pbcoreTitle'
-    # returns no results if the title element was inserted just above. My suspicion is that
-    # REXML doesn't fully update its internal representation of the parent after node insertions,
-    # but forcing a full traversal with '//' gets the job done.
-    # 
-    # THIS IS HORRIBLE!!!
     
     # pbcoreRelation:
     

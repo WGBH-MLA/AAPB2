@@ -22,8 +22,8 @@
   <pbcoreInstantiation>
     <instantiationIdentifier source='WXPN Barcode'>015415</instantiationIdentifier>
     <instantiationIdentifier source='WXPN Label'>Copy 2</instantiationIdentifier>
-    <instantiationDate dateType='created'>2005-10-06</instantiationDate>
     <instantiationDate dateType='broadcast'>2005-12-08</instantiationDate>
+    <instantiationDate dateType='created'>2005-10-06</instantiationDate>
     <instantiationPhysical>CD-R</instantiationPhysical>
     <instantiationLocation>Remote</instantiationLocation>
     <instantiationMediaType>Sound</instantiationMediaType>

@@ -81,10 +81,11 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       [
         'Gratuitous Explosions',
+        'Series NOVA', 
         'Best episode ever!',
         'explosions -- gratuitious', 'musicals -- horror',
         'Album',
-        '2000-01-01',
+        'uncataloged 2000-01-01',
         'Horror', 'Musical',
         'Moving Image',
         'WGBH',

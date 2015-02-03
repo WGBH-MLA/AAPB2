@@ -46,26 +46,21 @@ class PBCore
   def asset_type
     @asset_type ||= xpath('/*/pbcoreAssetType') 
   rescue NoMatchError
-    nil # We want to distinguish an empty string from no value in source data
+    nil
+  end
+  def asset_dates
+    @asset_dates ||= hash_by_type('/*/pbcoreAssetDate','@dateType')
   end
   def asset_date
-    @asset_date ||= xpath('/*/pbcoreAssetDate')
+    @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
   rescue NoMatchError
     nil
   end
   def titles
-    @titles ||= Hash[ # "Hashes enumerate their values in the order that the corresponding keys were inserted."
-      REXML::XPath.match(@doc, '/*/pbcoreTitle').map { |node|
-        [
-          REXML::XPath.first(node,'@titleType').value,
-          node.text
-        ]
-      } 
-    ]
+    @titles ||= hash_by_type('/*/pbcoreTitle','@titleType')
   end
   def title
     @title ||= xpath('/*/pbcoreTitle[1]')
-    # Cleaner has put them in a good order.
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
@@ -120,30 +115,6 @@ class PBCore
       'organization' => organization.short_name
     }
   end
-  
-  private
-  
-  # These methods are only used by to_solr.
-  # TODO: see if others could be moved here.
-  
-  def text
-    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
-  end
-  def contribs
-    @contribs ||= 
-      # TODO: Cleaner xpath syntax?
-      xpaths('/*/pbcoreCreator/creator') +
-      xpaths('/*/pbcoreCreator/creator/@affiliation') +
-      xpaths('/*/pbcoreContributor/contributor') +
-      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
-      xpaths('/*/pbcorePublisher/publisher') +
-      xpaths('/*/pbcorePublisher/publisher/@affiliation')
-  end
-  def year
-    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
-  end
-  
-  public
   
   class Instantiation
     def initialize(rexml_or_media_type, duration=nil)
@@ -216,6 +187,7 @@ class PBCore
 
   class NoMatchError < StandardError
   end
+  
   def xpath(xpath)
     REXML::XPath.match(@doc, xpath).tap do |matches|
       if matches.length != 1
@@ -226,8 +198,41 @@ class PBCore
       end
     end
   end
+  
   def xpaths(xpath)
     REXML::XPath.match(@doc, xpath).map{|node| node.respond_to?('text') ? node.text : node.value}
+  end
+  
+  def hash_by_type(element_xpath, attribute_xpath)
+    # ruby hashes are ordered by default.
+    Hash[
+      REXML::XPath.match(@doc, element_xpath).map { |node|
+        key = REXML::XPath.first(node, attribute_xpath)
+        [
+          key ? key.value : nil,
+          node.text
+        ]
+      } 
+    ]
+  end
+  
+  # These methods are only used by to_solr.
+  
+  def text
+    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
+  end
+  def contribs
+    @contribs ||= 
+      # TODO: Cleaner xpath syntax?
+      xpaths('/*/pbcoreCreator/creator') +
+      xpaths('/*/pbcoreCreator/creator/@affiliation') +
+      xpaths('/*/pbcoreContributor/contributor') +
+      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
+      xpaths('/*/pbcorePublisher/publisher') +
+      xpaths('/*/pbcorePublisher/publisher/@affiliation')
+  end
+  def year
+    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
   end
   
 end
