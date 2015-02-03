@@ -33,15 +33,9 @@
   <pbcoreInstantiation>
     <instantiationIdentifier source='foo'>ABC</instantiationIdentifier>
     <instantiationLocation>my closet</instantiationLocation>
-    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
     <instantiationDuration>0:12:34</instantiationDuration>
-  </pbcoreInstantiation>
-  <pbcoreInstantiation>
-    <instantiationIdentifier source='bar'>ABC</instantiationIdentifier>
-    <instantiationLocation>under the bed</instantiationLocation>
-    <instantiationMediaType>Moving Image</instantiationMediaType>
-    <instantiationGenerations>Proxy</instantiationGenerations>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

@@ -71,8 +71,7 @@ describe 'Validated and plain PBCore' do
             "Best episode ever!", "Horror", "Musical", #
             "Larry", "balding", "Curly", "bald", "Moe", "hair", #
             "Copy Left: All rights reversed.", "PUBLIC", "ABC", "my closet", #
-            "Sound", "Not-a-Proxy", "0:12:34", "ABC", "under the bed", #
-          "Moving Image", "Proxy", "WGBH"], 
+            "Moving Image", "Not-a-Proxy", "0:12:34", "WGBH"], 
           "asset_type"=>"Album",
           "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
           "title"=>["Gratuitous Explosions", "NOVA"], 
@@ -87,7 +86,7 @@ describe 'Validated and plain PBCore' do
         titles: {"Program"=>"Gratuitous Explosions", "Series"=>"NOVA"},
         title: 'Gratuitous Explosions',
         descriptions: ['Best episode ever!'],
-        instantiations: [],
+        instantiations: [PBCore::Instantiation.new('Moving Image','0:12:34')],
         rights_summary: 'Copy Left: All rights reversed.',
         genres: ['Horror','Musical'],
         id: '1234',
@@ -97,7 +96,7 @@ describe 'Validated and plain PBCore' do
         organization: Organization.find_by_pbcore_name('WGBH'),
         rights_code: 'PUBLIC',
         media_type: 'Moving Image',
-        digitized: true,
+        digitized: false,
         subjects: ["explosions -- gratuitious", "musicals -- horror"],
         creators: [PBCore::NameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
         contributors: [PBCore::NameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],

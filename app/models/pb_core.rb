@@ -145,6 +145,33 @@ class PBCore
   
   public
   
+  class Instantiation
+    def initialize(rexml_or_media_type, duration=nil)
+      if duration
+        @media_type = rexml_or_media_type
+        @duration = duration
+      else
+        @rexml = rexml_or_media_type
+      end
+    end
+    def ==(other)
+      self.class == other.class &&
+        media_type == other.media_type &&
+        duration == other.duration
+    end
+    def media_type
+      @media_type ||= optional('instantiationMediaType')
+    end
+    def duration
+      @duration ||= optional('instantiationDuration')
+    end
+    private
+    def optional(xpath)
+      match = REXML::XPath.match(@rexml, xpath).first
+      match ? match.text : nil
+    end
+  end
+  
   class NameRoleAffiliation
     def initialize(rexml_or_stem, name=nil, role=nil, affiliation=nil)
       if name
@@ -159,7 +186,8 @@ class PBCore
       end
     end
     def ==(other)
-      stem == other.stem &&
+      self.class == other.class &&
+        stem == other.stem &&
         name == other.name &&
         role == other.role &&
         affiliation == other.affiliation
@@ -200,27 +228,6 @@ class PBCore
   end
   def xpaths(xpath)
     REXML::XPath.match(@doc, xpath).map{|node| node.respond_to?('text') ? node.text : node.value}
-  end
-  
-  module Optionally
-    def optional(xpath)
-      match = REXML::XPath.match(@rexml, xpath).first
-      match ? match.text : nil
-    end
-  end
-  
-  
-  class Instantiation
-    include Optionally
-    def initialize(rexml)
-      @rexml = rexml
-    end
-    def media_type
-      @media_type ||= optional('instantiationMediaType')
-    end
-    def duration
-      @duration ||= optional('instantiationDuration')
-    end
   end
   
 end
