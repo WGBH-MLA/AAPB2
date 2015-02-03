@@ -9,9 +9,6 @@ class PBCore
     @xml = xml
     @doc = REXML::Document.new xml
   end
-  def text
-    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
-  end
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription')
   end
@@ -56,19 +53,6 @@ class PBCore
   rescue NoMatchError
     nil
   end
-  def year
-    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
-  end
-  def contribs
-    @contribs ||= 
-      # TODO: Cleaner xpath syntax?
-      xpaths('/*/pbcoreCreator/creator') +
-      xpaths('/*/pbcoreCreator/creator/@affiliation') +
-      xpaths('/*/pbcoreContributor/contributor') +
-      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
-      xpaths('/*/pbcorePublisher/publisher') +
-      xpaths('/*/pbcorePublisher/publisher/@affiliation')
-  end
   def titles
     @titles ||= Hash[ # "Hashes enumerate their values in the order that the corresponding keys were inserted."
       REXML::XPath.match(@doc, '/*/pbcoreTitle').map { |node|
@@ -87,7 +71,7 @@ class PBCore
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
   end
   def ids
-    @ids ||= xpaths('/*/pbcoreIdentifier')
+    @ids ||= xpaths('/*/pbcoreIdentifier') # TODO: is this used?
   end
   def img_src
     # ID may contain a slash, and that's ok.
@@ -136,6 +120,30 @@ class PBCore
       'organization' => organization.short_name
     }
   end
+  
+  private
+  
+  # These methods are only used by to_solr.
+  # TODO: see if others could be moved here.
+  
+  def text
+    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
+  end
+  def contribs
+    @contribs ||= 
+      # TODO: Cleaner xpath syntax?
+      xpaths('/*/pbcoreCreator/creator') +
+      xpaths('/*/pbcoreCreator/creator/@affiliation') +
+      xpaths('/*/pbcoreContributor/contributor') +
+      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
+      xpaths('/*/pbcorePublisher/publisher') +
+      xpaths('/*/pbcorePublisher/publisher/@affiliation')
+  end
+  def year
+    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
+  end
+  
+  public
   
   class NameRoleAffiliation
     def initialize(rexml_or_stem, name=nil, role=nil, affiliation=nil)
