@@ -41,23 +41,34 @@ class Cleaner
     end
     
     def map_reorder_nodes(nodes)
-      map_nodes(nodes)
-      attribute_name = nodes.first.name
-      nodes.each do |node|
-        raise "Must be attribute: #{node}" unless node.node_type == :attribute
-        raise "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
+      # TODO: change the argument to an xpath so we can validate that a "//" is being used.
+      
+      # NOTE: The '//' XPath is wildly inefficient, but a tighter search like '/*/pbcoreTitle'
+      # returns no results if the title element was inserted just above. My suspicion is that
+      # REXML doesn't fully update its internal representation of the parent after node insertions,
+      # but forcing a full traversal with '//' gets the job done.
+      # 
+      # THIS IS HORRIBLE!!!
+      
+      if !nodes.empty?
+        map_nodes(nodes)
+        attribute_name = nodes.first.name
+        nodes.each do |node|
+          raise "Must be attribute: #{node}" unless node.node_type == :attribute
+          raise "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
+        end
+
+        ordering = Hash[@map.values.uniq.each_with_index.map{|e,i| [e,i]}]
+
+        nodes.map{ |attr|
+          attr.element.dup
+        }.sort_by{ |element|
+          ordering[element.attributes[attribute_name]]
+        }.each{ |element|
+          nodes[0].element.parent.insert_before(nodes[0].element,element)
+        }
+        nodes.each{|attr| attr.element.parent.delete(attr.element)}
       end
-      
-      ordering = Hash[@map.values.uniq.each_with_index.map{|e,i| [e,i]}]
-      
-      nodes.map{ |attr|
-        attr.element.dup
-      }.sort_by{ |element|
-        ordering[element.attributes[attribute_name]]
-      }.each{ |element|
-        nodes[0].element.parent.insert_before(nodes[0].element,element)
-      }
-      nodes.each{|attr| attr.element.parent.delete(attr.element)}
     end
     
     private

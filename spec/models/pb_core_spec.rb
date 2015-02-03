@@ -83,7 +83,7 @@ describe 'Validated and plain PBCore' do
         },
         asset_type: 'Album',
         asset_date: '2000-01-01',
-        asset_dates: {nil=>'2000-01-01'}, # TODO: should this have mapped to "uncataloged"?
+        asset_dates: {'uncataloged'=>'2000-01-01'},
         titles: {"Program"=>"Gratuitous Explosions", "Series"=>"NOVA"},
         title: 'Gratuitous Explosions',
         descriptions: ['Best episode ever!'],
