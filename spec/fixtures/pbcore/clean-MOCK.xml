@@ -12,12 +12,15 @@
   <pbcoreGenre>Musical</pbcoreGenre>
   <pbcoreCreator>
     <creator affiliation='Stooges'>Larry</creator>
+    <creatorRole>balding</creatorRole>
   </pbcoreCreator>
   <pbcoreContributor>
     <contributor affiliation='Stooges'>Curly</contributor>
+    <contributorRole>bald</contributorRole>
   </pbcoreContributor>
   <pbcorePublisher>
     <publisher affiliation='Stooges'>Moe</publisher>
+    <publisherRole>hair</publisherRole>
   </pbcorePublisher>
   <pbcoreRightsSummary>
     <rightsSummary>Copy Left: All rights reversed.</rightsSummary>
@@ -30,15 +33,9 @@
   <pbcoreInstantiation>
     <instantiationIdentifier source='foo'>ABC</instantiationIdentifier>
     <instantiationLocation>my closet</instantiationLocation>
-    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
     <instantiationDuration>0:12:34</instantiationDuration>
-  </pbcoreInstantiation>
-  <pbcoreInstantiation>
-    <instantiationIdentifier source='bar'>ABC</instantiationIdentifier>
-    <instantiationLocation>under the bed</instantiationLocation>
-    <instantiationMediaType>Moving Image</instantiationMediaType>
-    <instantiationGenerations>Proxy</instantiationGenerations>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

@@ -9,9 +9,6 @@ class PBCore
     @xml = xml
     @doc = REXML::Document.new xml
   end
-  def text
-    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
-  end
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription')
   end
@@ -22,18 +19,18 @@ class PBCore
     @subjects ||= xpaths('/*/pbcoreSubject')
   end
   def contributors
-    @contributors ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreContributors').map{|rexml|
-      Contributor.new(rexml)
+    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map{|rexml|
+      NameRoleAffiliation.new(rexml)
     }
   end
   def creators
-    @creators ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreCreators').map{|rexml|
-      Creator.new(rexml)
+    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map{|rexml|
+      NameRoleAffiliation.new(rexml)
     }
   end
   def publishers
-    @contributors ||= REXML::XPath.match(@doc, '/pbcoreDescriptionDocument/pbcoreContributors').map{|rexml|
-      Contributor.new(rexml)
+    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map{|rexml|
+      NameRoleAffiliation.new(rexml)
     }
   end
   def instantiations
@@ -56,19 +53,6 @@ class PBCore
   rescue NoMatchError
     nil
   end
-  def year
-    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
-  end
-  def contribs
-    @contribs ||= 
-      # TODO: Cleaner xpath syntax?
-      xpaths('/*/pbcoreCreator/creator') +
-      xpaths('/*/pbcoreCreator/creator/@affiliation') +
-      xpaths('/*/pbcoreContributor/contributor') +
-      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
-      xpaths('/*/pbcorePublisher/publisher') +
-      xpaths('/*/pbcorePublisher/publisher/@affiliation')
-  end
   def titles
     @titles ||= Hash[ # "Hashes enumerate their values in the order that the corresponding keys were inserted."
       REXML::XPath.match(@doc, '/*/pbcoreTitle').map { |node|
@@ -87,7 +71,7 @@ class PBCore
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
   end
   def ids
-    @ids ||= xpaths('/*/pbcoreIdentifier')
+    @ids ||= xpaths('/*/pbcoreIdentifier') # TODO: is this used?
   end
   def img_src
     # ID may contain a slash, and that's ok.
@@ -138,6 +122,97 @@ class PBCore
   end
   
   private
+  
+  # These methods are only used by to_solr.
+  # TODO: see if others could be moved here.
+  
+  def text
+    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
+  end
+  def contribs
+    @contribs ||= 
+      # TODO: Cleaner xpath syntax?
+      xpaths('/*/pbcoreCreator/creator') +
+      xpaths('/*/pbcoreCreator/creator/@affiliation') +
+      xpaths('/*/pbcoreContributor/contributor') +
+      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
+      xpaths('/*/pbcorePublisher/publisher') +
+      xpaths('/*/pbcorePublisher/publisher/@affiliation')
+  end
+  def year
+    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
+  end
+  
+  public
+  
+  class Instantiation
+    def initialize(rexml_or_media_type, duration=nil)
+      if duration
+        @media_type = rexml_or_media_type
+        @duration = duration
+      else
+        @rexml = rexml_or_media_type
+      end
+    end
+    def ==(other)
+      self.class == other.class &&
+        media_type == other.media_type &&
+        duration == other.duration
+    end
+    def media_type
+      @media_type ||= optional('instantiationMediaType')
+    end
+    def duration
+      @duration ||= optional('instantiationDuration')
+    end
+    private
+    def optional(xpath)
+      match = REXML::XPath.match(@rexml, xpath).first
+      match ? match.text : nil
+    end
+  end
+  
+  class NameRoleAffiliation
+    def initialize(rexml_or_stem, name=nil, role=nil, affiliation=nil)
+      if name
+        # for testing only
+        @stem = rexml_or_stem
+        @name = name
+        @role = role
+        @affiliation = affiliation
+      else
+        @rexml = rexml_or_stem
+        @stem = @rexml.name.gsub('pbcore','').downcase
+      end
+    end
+    def ==(other)
+      self.class == other.class &&
+        stem == other.stem &&
+        name == other.name &&
+        role == other.role &&
+        affiliation == other.affiliation
+    end
+    def stem
+      @stem
+    end
+    def name
+      @name ||= REXML::XPath.match(@rexml, @stem).first.text
+    end
+    def role
+      @role ||= begin
+        node = REXML::XPath.match(@rexml, "#{@stem}Role").first
+        node ? node.text : nil
+      end
+    end
+    def affiliation
+      @affiliation ||= begin
+        node = REXML::XPath.match(@rexml, "#{@stem}/@affiliation").first
+        node ? node.value : nil
+      end
+    end
+  end
+  
+  private
 
   class NoMatchError < StandardError
   end
@@ -153,51 +228,6 @@ class PBCore
   end
   def xpaths(xpath)
     REXML::XPath.match(@doc, xpath).map{|node| node.respond_to?('text') ? node.text : node.value}
-  end
-  
-  module Optionally
-    def optional(xpath)
-      match = REXML::XPath.match(@rexml, xpath).first
-      match ? match.text : nil
-    end
-  end
-  
-  class Contributor
-    def initialize(rexml)
-      @rexml = rexml
-    end
-    def name
-      @name = REXML::XPath.match(@rexml, 'contributor')
-    end
-    def role
-      @role = REXML::XPath.match(@rexml, 'role')
-    end
-    def affiliation
-      @affiliation = REXML::XPath.match(@rexml, 'affiliation')
-    end
-  end
-  class Publisher
-    def initialize(rexml)
-      @rexml = rexml
-    end
-  end
-  class Creator
-    def initialize(rexml)
-      @rexml = rexml
-    end
-  end
-  
-  class Instantiation
-    include Optionally
-    def initialize(rexml)
-      @rexml = rexml
-    end
-    def media_type
-      @media_type ||= optional('instantiationMediaType')
-    end
-    def duration
-      @duration ||= optional('instantiationDuration')
-    end
   end
   
 end

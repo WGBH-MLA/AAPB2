@@ -89,7 +89,10 @@ describe 'Catalog' do
         'Moving Image',
         'WGBH',
         'Copy Left: All rights reversed.',
-        'Sound', '0:12:34', 'Moving Image'
+        'Moving Image', '0:12:34', 'Moving Image',
+        'Contributor Curly, Stooges, bald',
+        'Creator Larry, Stooges, balding',
+        'Publisher Moe, Stooges, hair' 
       ].each do |field|
         expect(page).to have_text(field)
       end
