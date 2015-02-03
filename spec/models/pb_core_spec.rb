@@ -62,100 +62,55 @@ describe 'Validated and plain PBCore' do
 
       pbc = PBCore.new(pbc_xml)
       
-      it 'has to_solr' do
-        expect(pbc.to_solr).to eq({
-            "id"=>"1234", 
-            "text"=>["Album", "2000-01-01", "1234", "5678", "Gratuitous Explosions", "NOVA", "explosions -- gratuitious", "musicals -- horror", "Best episode ever!", "Horror", "Musical", "Larry", "balding", "Curly", "bald", "Moe", "hair", "Copy Left: All rights reversed.", "PUBLIC", "ABC", "my closet", "Sound", "Not-a-Proxy", "0:12:34", "ABC", "under the bed", "Moving Image", "Proxy", "WGBH"], 
-            "asset_type"=>"Album",
-            "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
-            "title"=>["Gratuitous Explosions", "NOVA"], 
-            "genre"=>["Horror", "Musical"], 
-            "organization"=>"WGBH",
-            "media_type"=>"Moving Image",
-            "xml"=>pbc_xml,
-            "year" => "2000"
-        })
-      end
-
-      it 'has asset_type' do
-        expect(pbc.asset_type).to eq('Album')
-      end
-
-      it 'has asset_date' do
-        expect(pbc.asset_date).to eq('2000-01-01')
-      end
-
-      it 'has contribs' do
-        expect(pbc.contribs).to eq(['Larry','Stooges','Curly','Stooges','Moe','Stooges'])
-      end
+      assertions = {
+        to_solr: {
+          "id"=>"1234", 
+          "text"=>["Album", "2000-01-01", "1234", "5678", #
+            "Gratuitous Explosions", "NOVA", #
+            "explosions -- gratuitious", "musicals -- horror", #
+            "Best episode ever!", "Horror", "Musical", #
+            "Larry", "balding", "Curly", "bald", "Moe", "hair", #
+            "Copy Left: All rights reversed.", "PUBLIC", "ABC", "my closet", #
+            "Sound", "Not-a-Proxy", "0:12:34", "ABC", "under the bed", #
+          "Moving Image", "Proxy", "WGBH"], 
+          "asset_type"=>"Album",
+          "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
+          "title"=>["Gratuitous Explosions", "NOVA"], 
+          "genre"=>["Horror", "Musical"], 
+          "organization"=>"WGBH",
+          "media_type"=>"Moving Image",
+          "xml"=>pbc_xml,
+          "year" => "2000"
+        },
+        asset_type: 'Album',
+        asset_date: '2000-01-01',
+        contribs: ['Larry','Stooges','Curly','Stooges','Moe','Stooges'],
+        titles: {"Program"=>"Gratuitous Explosions", "Series"=>"NOVA"},
+        title: 'Gratuitous Explosions',
+        genres: ['Horror','Musical'],
+        id: '1234',
+        ids: ['1234','5678'],
+        img_src: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg',
+        organization_pbcore_name: 'WGBH',
+        organization: Organization.find_by_pbcore_name('WGBH'),
+        rights_code: 'PUBLIC',
+        media_type: 'Moving Image',
+        digitized: true,
+        subjects: ["explosions -- gratuitious", "musicals -- horror"],
+        creators: [PBCore::NameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
+        contributors: [PBCore::NameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
+        publishers: [PBCore::NameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
+      }
       
-      it 'has titles' do
-        expect(pbc.titles).to eq({"Program"=>"Gratuitous Explosions", "Series"=>"NOVA"})
-      end
-
-      it 'has title' do
-        expect(pbc.title).to eq('Gratuitous Explosions')
-      end
-
-      it 'has genres' do
-        expect(pbc.genres).to eq(['Horror','Musical'])
-      end
-
-      it 'has id' do
-        expect(pbc.id).to eq('1234')
-      end
-
-      it 'has ids' do
-        expect(pbc.ids).to eq(['1234','5678'])
-      end
-      
-      it 'has img_src' do
-        expect(pbc.img_src).to eq('https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg')
-      end
-
-      it 'has organization_pbcore_name' do
-        expect(pbc.organization_pbcore_name).to eq('WGBH')
-      end
-
-      it 'has organization' do
-        expect(pbc.organization).to eq(Organization.find_by_pbcore_name('WGBH'))
-      end
-
-      it 'has rights_code' do
-        expect(pbc.rights_code).to eq('PUBLIC')
-      end
-
-      it 'has media_type' do
-        expect(pbc.media_type).to eq('Moving Image')
-      end
-
-      it 'has digitized' do
-        expect(pbc.digitized).to eq(true)
-      end
-      
-      it 'has subjects' do
-        expect(pbc.subjects).to eq(["explosions -- gratuitious", "musicals -- horror"])
-      end
-      
-      it 'has creators' do
-        expect(pbc.creators.inspect).to eq('[creator: Larry, Stooges, balding]')
-      end
-      
-      it 'has publishers' do
-        expect(pbc.publishers.inspect).to eq('[publisher: Moe, Stooges, hair]')
-      end
-      
-      it 'has contributors' do
-        expect(pbc.contributors.inspect).to eq('[contributor: Curly, Stooges, bald]')
-      end
-      
-      describe 'instantiations' do
-        it 'has media_type' do
-          expect(pbc.instantiations[0].media_type).to eq('Sound')
+      assertions.each do |method,value|
+        it "\##{method} works" do
+          expect(pbc.send(method)).to eq(value)
         end
-        it 'has duration' do
-          expect(pbc.instantiations[0].duration).to eq('0:12:34')
-        end
+      end
+      
+      # TODO
+      xit 'tests everthing' do
+        expect(assertions.keys.sort).to eq(PBCore.instance_methods(false).sort)
       end
 
     end
