@@ -108,8 +108,7 @@ describe 'Validated and plain PBCore' do
         end
       end
       
-      # TODO
-      xit 'tests everthing' do
+      it 'tests everthing' do
         expect(assertions.keys.sort).to eq(PBCore.instance_methods(false).sort)
       end
 
