@@ -1,4 +1,4 @@
-require 'tiny_spec_helper'
+require_relative '../../app/models/htmlizer'
 
 describe Htmlizer do
   

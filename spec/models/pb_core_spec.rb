@@ -1,4 +1,4 @@
-require 'tiny_spec_helper'
+require_relative '../../app/models/validated_pb_core'
 
 describe 'Validated and plain PBCore' do
 
