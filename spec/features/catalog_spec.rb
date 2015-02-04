@@ -10,23 +10,35 @@ describe 'Catalog' do
     Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
       ingester.ingest(pbcore)
     end
+  end  
+
+  def expect_count(count)
+    case count
+    when 0
+      expect(page).to have_text("No entries found")
+    when 1
+      expect(page).to have_text("1 entry found")
+    else 
+      expect(page).to have_text("1 - #{count} of #{count}")
+    end
   end
   
   describe '#index' do
     
     it 'works' do
-      visit '/catalog?search_field=all_fields&q=smith'
+      visit '/catalog?search_field=all_fields&q=1234'
       expect(page.status_code).to eq(200)
-      ['Media Type','Genre','Asset Type','Organization'].each do |facet|
-        expect(page).to have_text(facet)
-      end
       [
-        'From Bessie Smith to Bruce Springsteen', 
-        '1990-07-27', 
-        'No description available'
+        'Gratuitous Explosions',
+        'Series NOVA',
+        'uncataloged 2000-01-01',
+        '2000-01-01',
+        'Best episode ever!'
       ].each do |field|
         expect(page).to have_text(field)
       end
+      
+      expect(page).to have_css("img[src='https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg']")
     end
     
     describe 'facets' do
@@ -61,17 +73,6 @@ describe 'Catalog' do
       end
     end
     
-    def expect_count(count)
-      case count
-      when 0
-        expect(page).to have_text("No entries found")
-      when 1
-        expect(page).to have_text("1 entry found")
-      else 
-        expect(page).to have_text("1 - #{count} of #{count}")
-      end
-    end
-    
   end
   
   describe '#show' do
@@ -102,18 +103,27 @@ describe 'Catalog' do
       expect(page).to have_css("img[src='https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg']")
     end
     
-    describe 'for all fixtures' do
+  end
+
+  describe 'all fixtures' do
       # TODO: figure out how to just use the before-all to set this.
       Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
         id = PBCore.new(File.read(file_name)).id
-        url = "/catalog/#{id.gsub('/','%2F')}" # Remember the URLs are tricky.
-        it "works for #{url}" do
-          visit url
-          expect(page.status_code).to eq(200)
+        describe id do
+          details_url = "/catalog/#{id.gsub('/','%2F')}" # Remember the URLs are tricky.
+          it "details: #{details_url}" do
+            visit details_url
+            expect(page.status_code).to eq(200)
+          end
+          search_url = "/catalog?search_field=all_fields&q=#{id.gsub(/^(.*\W)?(\w+)$/,'\2')}"
+          # because of tokenization, unless we strip the ID down we will get other matches.
+          it "search: #{search_url}" do
+            visit search_url
+            expect(page.status_code).to eq(200)
+            expect_count(1)
+          end
         end
       end
     end
-    
-  end
-
+  
 end
