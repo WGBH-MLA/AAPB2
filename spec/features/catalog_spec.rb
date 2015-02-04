@@ -82,6 +82,7 @@ describe 'Catalog' do
       [
         'Gratuitous Explosions',
         'Series NOVA', 
+        '1234 5678',
         'Best episode ever!',
         'explosions -- gratuitious', 'musicals -- horror',
         'Album',
