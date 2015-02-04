@@ -1,7 +1,9 @@
 <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
 <h1><%= @pbcore.title %></h1>
-  
+ 
+<img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
+
 <dl>
 <% @pbcore.titles.each do |type,title| %>
   <dt><%= type %></dt>
