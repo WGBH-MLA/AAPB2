@@ -1,14 +1,20 @@
 <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
 <h1><%= @pbcore.title %></h1>
-
+  
 <dl>
 <% @pbcore.titles.each do |type,title| %>
   <dt><%= type %></dt>
   <dd><%= title %></dt>
 <% end %>
 </dl>
-  
+ 
+<ul>
+<% @pbcore.ids.each do |id| %>
+  <li><%= id %></li>
+<% end %>
+</ul>
+
 <div>
   <% @pbcore.descriptions.each do |description| %>
     <p><%= description %></p>
