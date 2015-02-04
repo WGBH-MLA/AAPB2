@@ -98,6 +98,8 @@ describe 'Catalog' do
       ].each do |field|
         expect(page).to have_text(field)
       end
+      
+      expect(page).to have_css("img[src='https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg']")
     end
     
     describe 'for all fixtures' do
