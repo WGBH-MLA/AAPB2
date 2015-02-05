@@ -73,6 +73,21 @@ describe 'Catalog' do
       end
     end
     
+    describe 'sorting' do
+      [
+        ['score+desc','From Bessie Smith to Bruce Springsteen'],
+        ['year+desc','Gratuitous Explosions'],
+        ['title+asc','#508']
+      ].each do |(sort,title)|
+        url = "/catalog?search_field=all_fields&sort=#{sort}"
+        it "sort=#{sort}: '#{title}'\t#{url}" do
+          visit url
+          expect(page.status_code).to eq(200)
+          expect(page.document.find('.document[1] .index_title').text).to eq(title)
+        end
+      end
+    end
+    
   end
   
   describe '#show' do
