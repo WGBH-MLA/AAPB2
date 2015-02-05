@@ -53,6 +53,13 @@ describe 'Catalog' do
         url = "/catalog?f[#{facet}][]=#{value}"
         it "#{facet}=#{value}: #{count}\t#{url}" do
           visit url
+          if index == 0
+            expect(
+              page.all('.panel-heading[data-target]').map{|node|
+                node['data-target'].gsub('#facet-','')
+              }
+            ).to eq(assertions.map{|a| a.first}) # coverage
+          end
           expect(page.status_code).to eq(200)
           expect_count(count)
         end
@@ -69,6 +76,13 @@ describe 'Catalog' do
         url = "/catalog?search_field=#{constraint}&q=#{value}"
         it "#{constraint}=#{value}: #{count}\t#{url}" do
           visit url
+          if index == 0
+            expect(
+              page.all('#search_field option').map{|node|
+                node['value']
+              }
+            ).to eq(assertions.map{|a| a.first}) # coverage
+          end
           expect(page.status_code).to eq(200)
           expect_count(count)
         end
@@ -85,8 +99,15 @@ describe 'Catalog' do
         url = "/catalog?search_field=all_fields&sort=#{sort}"
         it "sort=#{sort}: '#{title}'\t#{url}" do
           visit url
+          if index == 0
+            expect(
+              page.all('#sort-dropdown .dropdown-menu a').map{|node|
+                node['href'].gsub(/.*sort=/,'')
+              }
+            ).to eq(assertions.map{|a| a.first}) # coverage
+          end
           expect(page.status_code).to eq(200)
-          expect(page.document.find('.document[1] .index_title').text).to eq(title)
+          expect(page.find('.document[1] .index_title').text).to eq(title)
         end
       end
     end
