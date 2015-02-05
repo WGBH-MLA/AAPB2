@@ -44,7 +44,7 @@ describe 'Catalog' do
     describe 'facets' do
       [
         ['media_type','Sound',6],
-        ['genre','Interview',3],
+        ['genres','Interview',3],
         ['asset_type','Segment',5],
         ['organization','WGBH',1],
         ['year','2000',1]
@@ -61,8 +61,8 @@ describe 'Catalog' do
     describe 'fields' do
       [
         ['all_fields','Larry',2],
-        ['title','Larry',1],
-        ['contrib','Larry',1]
+        ['titles','Larry',1],
+        ['contribs','Larry',1]
       ].each do |(constraint,value,count)|
         url = "/catalog?search_field=#{constraint}&q=#{value}"
         it "#{constraint}=#{value}: #{count}\t#{url}" do

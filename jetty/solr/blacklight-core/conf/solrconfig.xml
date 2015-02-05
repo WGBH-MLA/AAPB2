@@ -89,11 +89,11 @@
        <str name="qf">text</str>
        <str name="pf">text</str>
        
-       <str name="title_qf">title</str>
-       <str name="title_pf">title</str>
+       <str name="titles_qf">titles</str>
+       <str name="titles_pf">titles</str>
        
-       <str name="contrib_qf">contrib</str>
-       <str name="contrib_pf">contrib</str>
+       <str name="contribs_qf">contribs</str>
+       <str name="contribs_pf">contribs</str>
        
        <int name="ps">3</int>
        <float name="tie">0.01</float>

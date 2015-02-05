@@ -58,7 +58,7 @@ class CatalogController < ApplicationController
     # 
     
     config.add_facet_field 'media_type', label: 'Media Type'
-    config.add_facet_field 'genre', label: 'Genre'
+    config.add_facet_field 'genres', label: 'Genre'
     config.add_facet_field 'asset_type', label: 'Asset Type'
     config.add_facet_field 'organization', label: 'Organization'
     config.add_facet_field 'year', label: 'Year'
@@ -116,17 +116,17 @@ class CatalogController < ApplicationController
     
     config.add_search_field('all_fields', label: 'All Fields')
     
-    config.add_search_field('title', label: 'Titles') do |field|
+    config.add_search_field('titles', label: 'Titles') do |field|
       field.solr_local_parameters = { 
-        qf: '$title_qf',
-        pf: '$title_pf'
+        qf: '$titles_qf',
+        pf: '$titles_pf'
       }
     end
     
-    config.add_search_field('contrib', label: 'Contributors') do |field|
+    config.add_search_field('contribs', label: 'Contributors') do |field|
       field.solr_local_parameters = { 
-        qf: '$contrib_qf',
-        pf: '$contrib_pf'
+        qf: '$contribs_qf',
+        pf: '$contribs_pf'
       }
     end
 
