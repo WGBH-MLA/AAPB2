@@ -42,16 +42,24 @@ describe 'Catalog' do
     end
     
     describe 'facets' do
-      [
+      assertions = [
         ['media_type','Sound',6],
-        ['genre','Interview',3],
+        ['genres','Interview',3],
         ['asset_type','Segment',5],
         ['organization','WGBH',1],
         ['year','2000',1]
-      ].each do |(facet,value,count)|
+      ]
+      assertions.each_with_index do |(facet,value,count),index|
         url = "/catalog?f[#{facet}][]=#{value}"
         it "#{facet}=#{value}: #{count}\t#{url}" do
           visit url
+          if index == 0
+            expect(
+              page.all('.panel-heading[data-target]').map{|node|
+                node['data-target'].gsub('#facet-','')
+              }
+            ).to eq(assertions.map{|a| a.first}) # coverage
+          end
           expect(page.status_code).to eq(200)
           expect_count(count)
         end
@@ -59,16 +67,47 @@ describe 'Catalog' do
     end
     
     describe 'fields' do
-      [
+      assertions = [
         ['all_fields','Larry',2],
-        ['title','Larry',1],
-        ['contrib','Larry',1]
-      ].each do |(constraint,value,count)|
+        ['titles','Larry',1],
+        ['contribs','Larry',1]
+      ]
+      assertions.each_with_index do |(constraint,value,count),index|
         url = "/catalog?search_field=#{constraint}&q=#{value}"
         it "#{constraint}=#{value}: #{count}\t#{url}" do
           visit url
+          if index == 0
+            expect(
+              page.all('#search_field option').map{|node|
+                node['value']
+              }
+            ).to eq(assertions.map{|a| a.first}) # coverage
+          end
           expect(page.status_code).to eq(200)
           expect_count(count)
+        end
+      end
+    end
+    
+    describe 'sorting' do
+      assertions = [
+        ['score+desc','From Bessie Smith to Bruce Springsteen'],
+        ['year+desc','Gratuitous Explosions'],
+        ['title+asc','#508']
+      ]
+      assertions.each_with_index do |(sort,title),index|
+        url = "/catalog?search_field=all_fields&sort=#{sort}"
+        it "sort=#{sort}: '#{title}'\t#{url}" do
+          visit url
+          if index == 0
+            expect(
+              page.all('#sort-dropdown .dropdown-menu a').map{|node|
+                node['href'].gsub(/.*sort=/,'')
+              }
+            ).to eq(assertions.map{|a| a.first}) # coverage
+          end
+          expect(page.status_code).to eq(200)
+          expect(page.find('.document[1] .index_title').text).to eq(title)
         end
       end
     end
