@@ -42,13 +42,14 @@ describe 'Catalog' do
     end
     
     describe 'facets' do
-      [
+      assertions = [
         ['media_type','Sound',6],
         ['genres','Interview',3],
         ['asset_type','Segment',5],
         ['organization','WGBH',1],
         ['year','2000',1]
-      ].each do |(facet,value,count)|
+      ]
+      assertions.each_with_index do |(facet,value,count),index|
         url = "/catalog?f[#{facet}][]=#{value}"
         it "#{facet}=#{value}: #{count}\t#{url}" do
           visit url
@@ -59,11 +60,12 @@ describe 'Catalog' do
     end
     
     describe 'fields' do
-      [
+      assertions = [
         ['all_fields','Larry',2],
         ['titles','Larry',1],
         ['contribs','Larry',1]
-      ].each do |(constraint,value,count)|
+      ]
+      assertions.each_with_index do |(constraint,value,count),index|
         url = "/catalog?search_field=#{constraint}&q=#{value}"
         it "#{constraint}=#{value}: #{count}\t#{url}" do
           visit url
@@ -74,11 +76,12 @@ describe 'Catalog' do
     end
     
     describe 'sorting' do
-      [
+      assertions = [
         ['score+desc','From Bessie Smith to Bruce Springsteen'],
         ['year+desc','Gratuitous Explosions'],
         ['title+asc','#508']
-      ].each do |(sort,title)|
+      ]
+      assertions.each_with_index do |(sort,title),index|
         url = "/catalog?search_field=all_fields&sort=#{sort}"
         it "sort=#{sort}: '#{title}'\t#{url}" do
           visit url
