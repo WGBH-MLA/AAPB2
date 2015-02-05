@@ -196,14 +196,17 @@ class PBCore
       if matches.length != 1
         raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
-        node = matches.first
-        return node.respond_to?('text') ? node.text : node.value
+        return PBCore::text_from(matches.first)
       end
     end
   end
   
   def xpaths(xpath)
-    REXML::XPath.match(@doc, xpath).map{|node| node.respond_to?('text') ? node.text : node.value}
+    REXML::XPath.match(@doc, xpath).map{|node| PBCore::text_from(node)}
+  end
+  
+  def self.text_from(node)
+    (node.respond_to?('text') ? node.text : node.value).strip
   end
   
   def hash_by_type(element_xpath, attribute_xpath)
