@@ -70,7 +70,8 @@ class PBCore
   end
   def img_src
     # ID may contain a slash, and that's ok.
-    @img_src ||= "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    # TODO!
+    @img_src ||= '/thumbnail-todo.svg' # "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')

@@ -93,7 +93,7 @@ describe 'Validated and plain PBCore' do
         genres: ['Horror','Musical'],
         id: '1234',
         ids: ['1234','5678'],
-        img_src: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg',
+        img_src: '/thumbnail-todo.svg', #TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
         rights_code: 'PUBLIC',
