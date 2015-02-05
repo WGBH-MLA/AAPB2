@@ -136,7 +136,7 @@ class CatalogController < ApplicationController
     # except in the relevancy case).
     config.add_sort_field 'score desc', label: 'relevance'
     config.add_sort_field 'year desc', label: 'year'
-    config.add_sort_field 'title', label: 'title'
+    config.add_sort_field 'title asc', label: 'title'
 
     # If there are more than this many search results, no spelling ("did you 
     # mean") suggestion is offered.

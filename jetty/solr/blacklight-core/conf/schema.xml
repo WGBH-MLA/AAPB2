@@ -505,8 +505,8 @@
    <!-- default, catch all search field -->
    <field name="text" type="text" indexed="true" stored="true" multiValued="true"/>
    <!-- Available as search constraints -->
-   <field name="title" type="text" indexed="true" stored="true" multiValued="true"/>
-   <field name="contrib" type="text" indexed="true" stored="true" multiValued="true"/>
+   <field name="titles" type="text" indexed="true" stored="true" multiValued="true"/>
+   <field name="contribs" type="text" indexed="true" stored="true" multiValued="true"/>
    
    <!-- format is used for facet, display, and choosing which partial to use for the show view, so it must be stored and indexed -->
    <!-- TODO: Is this being used? -->
@@ -515,17 +515,23 @@
    <field name="xml" 
           type="string" indexed="false" stored="true" multiValued="false"/>
    
-   <!-- TODO: turn off stored? -->
-   <field name="media_type" 
+   <!-- TODO: turn off stored for everything below? -->
+   <!-- sorting -->
+   <field name="title" 
           type="string" indexed="true" stored="true" multiValued="false"/>
+   
+   <!-- sorting and facet -->
    <field name="year" 
+          type="string" indexed="true" stored="true" multiValued="false"/>
+   
+   <!-- facet -->
+   <field name="media_type" 
           type="string" indexed="true" stored="true" multiValued="false"/>
    <field name="asset_type" 
           type="string" indexed="true" stored="true" multiValued="false"/>
    <field name="organization" 
           type="string" indexed="true" stored="true" multiValued="false"/>
-   
-   <field name="genre" 
+   <field name="genres" 
           type="string" indexed="true" stored="true" multiValued="true"/>
    
    <!-- Dynamic field definitions.  If a field name is not found, dynamicFields

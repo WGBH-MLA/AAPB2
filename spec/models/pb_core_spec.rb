@@ -64,22 +64,23 @@ describe 'Validated and plain PBCore' do
       
       assertions = {
         to_solr: {
-          "id"=>"1234", 
+          "id"=>"1234",
+          "xml"=>pbc_xml,
           "text"=>["Album", "2000-01-01", "1234", "5678", #
             "Gratuitous Explosions", "NOVA", #
             "explosions -- gratuitious", "musicals -- horror", #
             "Best episode ever!", "Horror", "Musical", #
             "Larry", "balding", "Curly", "bald", "Moe", "hair", #
             "Copy Left: All rights reversed.", "PUBLIC", "ABC", "my closet", #
-            "Moving Image", "Not-a-Proxy", "0:12:34", "WGBH"], 
-          "asset_type"=>"Album",
-          "contrib"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
-          "title"=>["Gratuitous Explosions", "NOVA"], 
-          "genre"=>["Horror", "Musical"], 
-          "organization"=>"WGBH",
+            "Moving Image", "Not-a-Proxy", "0:12:34", "WGBH"],
+          "titles"=>["Gratuitous Explosions", "NOVA"],
+          "contribs"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
+          "title"=>"Gratuitous Explosions",
+          "year"=>"2000",
           "media_type"=>"Moving Image",
-          "xml"=>pbc_xml,
-          "year" => "2000"
+          "genres"=>["Horror", "Musical"],
+          "asset_type"=>"Album", 
+          "organization"=>"WGBH",
         },
         asset_type: 'Album',
         asset_date: '2000-01-01',

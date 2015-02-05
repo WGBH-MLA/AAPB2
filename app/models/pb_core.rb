@@ -96,21 +96,24 @@ class PBCore
   end
 
   def to_solr
-    # Keep Solr name singular, even if the method is plural:
-    # Easier not to need to worry about cardinality.
     {
       'id' => id,
       'xml' => @xml,
       
       # constrained searches:
       'text' => text,
-      'title' => titles.values,
-      'contrib' => contribs,
+      'titles' => titles.values,
+      'contribs' => contribs,
+      
+      # sort:
+      'title' => title,
+      
+      # sort and facet:
+      'year' => year,
       
       # facets:
       'media_type' => media_type,
-      'genre' => genres,
-      'year' => year,
+      'genres' => genres,
       'asset_type' => asset_type,
       'organization' => organization.short_name
     }
