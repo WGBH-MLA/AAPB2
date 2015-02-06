@@ -268,7 +268,12 @@ if __FILE__ == $0
       
     when ['recheck']
       raise ArgumentError.new if args['recheck'].empty?
-      # TODO args['recheck']
+      args['recheck'].each{|file| File.foreach(file){|line|
+        line.chomp!
+        id = line.split("\t")[2]
+        detail = ci.detail(id).to_s.gsub("\n",' ')
+        puts line + "\t" + detail
+      }}
       
     else
       raise ArgumentError.new  
