@@ -92,7 +92,7 @@ describe 'Validated and plain PBCore' do
         rights_summary: 'Copy Left: All rights reversed.',
         genres: ['Horror','Musical'],
         id: '1234',
-        ids: ['1234','5678'],
+        ids: {"AAPB ID"=>"1234", "somewhere else"=>"5678"},
         img_src: '/thumbnail-todo.svg', #TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),

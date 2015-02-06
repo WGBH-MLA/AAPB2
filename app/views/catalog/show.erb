@@ -11,11 +11,12 @@
 <% end %>
 </dl>
  
-<ul>
-<% @pbcore.ids.each do |id| %>
-  <li><%= id %></li>
+<dl>
+<% @pbcore.ids.each do |type,id| %>
+  <dt><%= type %></dt>
+  <dd><%= id %></dt>
 <% end %>
-</ul>
+</dl>
 
 <div>
   <% @pbcore.descriptions.each do |description| %>
