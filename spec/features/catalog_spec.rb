@@ -23,6 +23,11 @@ describe 'Catalog' do
     end
   end
   
+  def expect_thumbnail(id)
+    url = '/thumbnail-todo.svg' # TODO: "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    expect(page).to have_css("img[src='#{url}']")
+  end
+  
   describe '#index' do
     
     it 'works' do
@@ -38,7 +43,24 @@ describe 'Catalog' do
         expect(page).to have_text(field)
       end
       
-      expect(page).to have_css("img[src='https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg']")
+      expect_thumbnail(1234)
+    end
+    
+    describe 'views' do
+      assertions = [
+        # Better if we actually looked for something in the results?
+        ['','.view-type-list.active'],
+        ['&view=list','.view-type-list.active'],
+        ['&view=gallery','.view-type-gallery.active']
+      ]
+      assertions.each_with_index do |(params,css),index|
+        url = "/catalog?search_field=all_fields#{params}"
+        it "view params=#{params}: #{css}\t#{url}" do
+          visit url
+          expect(page.status_code).to eq(200)
+          expect(page.all(css).count).to eq(1)
+        end
+      end
     end
     
     describe 'facets' do
@@ -139,13 +161,12 @@ describe 'Catalog' do
         expect(page).to have_text(field)
       end
       
-      expect(page).to have_css("img[src='https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg']")
+      expect_thumbnail(1234)
     end
     
   end
 
   describe 'all fixtures' do
-      # TODO: figure out how to just use the before-all to set this.
       Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
         id = PBCore.new(File.read(file_name)).id
         describe id do
