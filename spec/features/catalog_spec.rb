@@ -144,7 +144,7 @@ describe 'Catalog' do
       [
         'Gratuitous Explosions',
         'Series NOVA', 
-        '1234 5678',
+        'somewhere else 5678', 'AAPB ID 1234',
         'Best episode ever!',
         'explosions -- gratuitious', 'musicals -- horror',
         'Album',

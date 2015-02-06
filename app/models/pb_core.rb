@@ -66,7 +66,11 @@ class PBCore
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
   end
   def ids
-    @ids ||= xpaths('/*/pbcoreIdentifier') # TODO: is this used?
+    @ids ||= begin
+      h = hash_by_type('/*/pbcoreIdentifier','@source')
+      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h)
+      # relabel AND put at front of list
+    end
   end
   def img_src
     # ID may contain a slash, and that's ok.
