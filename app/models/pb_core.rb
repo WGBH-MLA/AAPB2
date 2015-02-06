@@ -49,7 +49,7 @@ class PBCore
     nil
   end
   def asset_dates
-    @asset_dates ||= hash_by_type('/*/pbcoreAssetDate','@dateType')
+    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate','@dateType')
   end
   def asset_date
     @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
@@ -57,7 +57,7 @@ class PBCore
     nil
   end
   def titles
-    @titles ||= hash_by_type('/*/pbcoreTitle','@titleType')
+    @titles ||= pairs_by_type('/*/pbcoreTitle','@titleType')
   end
   def title
     @title ||= xpath('/*/pbcoreTitle[1]')
@@ -67,9 +67,10 @@ class PBCore
   end
   def ids
     @ids ||= begin
-      h = hash_by_type('/*/pbcoreIdentifier','@source')
-      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h)
-      # relabel AND put at front of list
+      h = hash_by_type('/*/pbcoreIdentifier','@source') # TODO confirm multi-hash not necessary.
+      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map{|key,value|[key,value]}
+      # Relabel AND put at front of list.
+      # Map to pairs for consistency... but building the hash and just throwing it away?
     end
   end
   def img_src
@@ -107,7 +108,7 @@ class PBCore
       
       # constrained searches:
       'text' => text,
-      'titles' => titles.values,
+      'titles' => titles.map{|key,value| value},
       'contribs' => contribs,
       
       # sort:
@@ -214,18 +215,29 @@ class PBCore
     (node.respond_to?('text') ? node.text : node.value).strip
   end
   
-  def hash_by_type(element_xpath, attribute_xpath)
-    # ruby hashes are ordered by default.
-    Hash[
-      REXML::XPath.match(@doc, element_xpath).map { |node|
-        key = REXML::XPath.first(node, attribute_xpath)
-        [
-          key ? key.value : nil,
-          node.text
-        ]
-      } 
-    ]
+  def pairs_by_type(element_xpath, attribute_xpath)
+    REXML::XPath.match(@doc, element_xpath).map { |node|
+      key = REXML::XPath.first(node, attribute_xpath)
+      [
+        key ? key.value : nil,
+        node.text
+      ]
+    }
   end
+  
+  def hash_by_type(element_xpath, attribute_xpath)  
+    Hash[pairs_by_type(element_xpath, attribute_xpath)]
+  end
+
+# TODO: If we can just iterate over pairs, we don't need either of these.
+#  
+#  def multi_hash_by_type(element_xpath, attribute_xpath) # Not tested
+#    Hash[
+#      pairs_by_type(element_xpath, attribute_xpath).group_by{|(key,value)| key}.map{|key,pair_list|
+#        [key, pair_list.map{|(key,value)| value}]
+#      }
+#    ]
+#  end
   
   # These methods are only used by to_solr.
   
