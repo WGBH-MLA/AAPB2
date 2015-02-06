@@ -46,6 +46,23 @@ describe 'Catalog' do
       expect_thumbnail(1234)
     end
     
+    describe 'views' do
+      assertions = [
+        # Better if we actually looked for something in the results?
+        ['','.view-type-list.active'],
+        ['&view=list','.view-type-list.active'],
+        ['&view=gallery','.view-type-gallery.active']
+      ]
+      assertions.each_with_index do |(params,css),index|
+        url = "/catalog?search_field=all_fields#{params}"
+        it "view params=#{params}: #{css}\t#{url}" do
+          visit url
+          expect(page.status_code).to eq(200)
+          expect(page.all(css).count).to eq(1)
+        end
+      end
+    end
+    
     describe 'facets' do
       assertions = [
         ['media_type','Sound',6],
@@ -150,7 +167,6 @@ describe 'Catalog' do
   end
 
   describe 'all fixtures' do
-      # TODO: figure out how to just use the before-all to set this.
       Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
         id = PBCore.new(File.read(file_name)).id
         describe id do
