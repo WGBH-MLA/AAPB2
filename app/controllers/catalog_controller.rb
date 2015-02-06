@@ -2,9 +2,16 @@
 #
 class CatalogController < ApplicationController  
 
+  helper Openseadragon::OpenseadragonHelper
+
   include Blacklight::Catalog
 
-  configure_blacklight do |config|
+  configure_blacklight do |config|          config.view.gallery.partials = [:index_header, :index]
+          config.view.slideshow.partials = [:index]
+
+          config.show.tile_source_field = :content_metadata_image_iiif_info_ssm
+          config.show.partials.insert(1, :openseadragon)
+
     ## Default parameters to send to solr for all search-like requests. See also SolrHelper#solr_search_params
     config.default_solr_params = { 
       :qt => 'search',
@@ -28,9 +35,10 @@ class CatalogController < ApplicationController
     #  # :q => '{!raw f=id v=$id}' 
     #}
 
-    # solr field configuration for search results/index views
-    config.index.title_field = 'title_display'
-    config.index.display_type_field = 'format'
+#    Unused:
+#    # solr field configuration for search results/index views
+#    config.index.title_field = 'title_display'
+#    config.index.display_type_field = 'format'
 
     # solr field configuration for document/show views
     #config.show.title_field = 'title_display'

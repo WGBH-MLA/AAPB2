@@ -43,6 +43,7 @@ gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
 
 gem 'blacklight'
+gem 'blacklight-gallery'
 gem 'solrizer'
 gem 'rsolr'
 gem "jettywrapper", "~> 1.7"
