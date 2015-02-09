@@ -11,6 +11,7 @@ class Cleaner
       @asset_type_map = VocabMap.new(directory + 'asset-type-map.yml')
       @date_type_map = VocabMap.new(directory + 'date-type-map.yml')
       @title_type_map = VocabMap.new(directory + 'title-type-map.yml')
+      @description_type_map = VocabMap.new(directory + 'description-type-map.yml')
     end
     
     @report = {}
@@ -68,6 +69,10 @@ class Cleaner
     }
     
     @title_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
+    
+    # pbcoreDescription:
+    
+    @description_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreDescription/@descriptionType'))
     
     # pbcoreRelation:
     
