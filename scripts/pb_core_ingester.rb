@@ -10,12 +10,12 @@ class PBCoreIngester
     @solr = RSolr.connect(url: url) # TODO: read config/solr.yml
   end
   
+  # TODO: maybe light session management? If we don't go in that direction, this should just be a module.
+  
   def delete_all
     @solr.delete_by_query('*:*')
     @solr.commit
   end
-  
-  # TODO: maybe light session management? If we don't go in that direction, this should just be a module.
   
   def ingest(path)
 
@@ -25,6 +25,12 @@ class PBCoreIngester
       raise ReadError.new(e)
     end
 
+    ingest_xml(xml)
+    
+  end
+  
+  def ingest_xml(xml)
+    
     begin
       pbcore = ValidatedPBCore.new(xml)
     rescue StandardError => e
@@ -39,7 +45,7 @@ class PBCoreIngester
     end
     
     pbcore
-    
+  
   end
   
   class ChainedError < StandardError

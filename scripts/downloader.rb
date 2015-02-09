@@ -11,7 +11,39 @@ class Downloader
   
   def initialize(since)
     @since = since
+    since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
+      raise('USAGE: downloader.rb YYYYMMDD') unless match &&
+        match[1].to_i < 3000 &&
+        match[2].to_i.tap{|m| (1 <= m) && (m <= 12)} &&
+        match[3].to_i.tap{|d| (1 <= d) && (d <= 31)}
+    end
     @log = __FILE__ == $0 ? STDERR : []
+  end
+  
+  def self.download_to_directory_and_link
+    padding = 7 # Every day, look this many days back by default
+    since = (Time.now-padding*24*60*60).strftime('%Y%m%d')
+    Dir.chdir(File.dirname(File.dirname(__FILE__)))
+    path = ['tmp','pbcore','download',"#{Time.now.strftime('%F_%T')}_since_#{since}"]
+    path.each do |dir|
+      Dir.mkdir(dir) rescue nil # may already exist
+      Dir.chdir(dir)
+    end
+
+    downloader = Downloader.new(since)
+    downloader.download_to_directory
+
+    Dir.chdir('..')
+    link_name = 'LATEST'
+    if File.exists?(link_name)
+      if File.symlink?(link_name)
+        File.unlink(link_name)
+      else
+        raise "Expected #{link_name} to be a link"
+      end
+    end
+    File.symlink(path.last,link_name)
+    return File.absolute_path(link_name)
   end
   
   def download_to_directory
@@ -46,24 +78,6 @@ class Downloader
 end
 
 if __FILE__ == $0
-  padding = 7 # Every day, look this many days back by default
-  since = ARGV[0] || (Time.now-padding*24*60*60).strftime('%Y%m%d')
-  since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
-    abort('USAGE: downloader.rb YYYYMMDD') unless match &&
-      match[1].to_i < 3000 &&
-      match[2].to_i.tap{|m| (1 <= m) && (m <= 12)} &&
-      match[3].to_i.tap{|d| (1 <= d) && (d <= 31)}
-  end
-  Dir.chdir(File.dirname(File.dirname(__FILE__)))
-  path = ['tmp','pbcore','download',"#{Time.now.strftime('%F_%T')}_since_#{since}"]
-  path.each do |dir|
-    Dir.mkdir(dir) rescue nil # may already exist
-    Dir.chdir(dir)
-  end
-
-  downloader = Downloader.new(since)
-  downloader.download_to_directory
-  
-  Dir.chdir('..')
-  File.symlink(path.last,'LATEST')
+  abort 'No args' unless ARGV.empty?
+  Downloader::download_to_directory_and_link
 end
