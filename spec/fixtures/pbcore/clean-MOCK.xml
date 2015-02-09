@@ -32,6 +32,7 @@
   </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='foo'>ABC</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>
     <instantiationLocation>my closet</instantiationLocation>
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
