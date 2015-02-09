@@ -149,8 +149,19 @@ class CatalogController < ApplicationController
   end
   
   def show
-    super
-    @pbcore = PBCore.new(@document.instance_variable_get('@_source')['xml'])
+    # TODO: do we need more of the behavior from Blacklight::Catalog?
+    @response, @document = get_solr_response_for_doc_id
+    xml = @document.instance_variable_get('@_source')['xml']
+    
+    respond_to do |format|
+      format.html do
+        @pbcore = PBCore.new(xml)
+        render
+      end
+      format.pbcore do
+        render text: xml
+      end
+    end
   end
-
+  
 end 
