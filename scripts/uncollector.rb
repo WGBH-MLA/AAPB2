@@ -1,22 +1,19 @@
-require 'tmpdir'
 require 'rexml/xpath'
 require 'rexml/document'
 
 module Uncollector
-  def self.uncollect(path)
-    # Splits a pbcore collection into a number of separate files in the same directory,
-    # and removes the original.
-    content = File.read(path)
-    doc = REXML::Document.new(content)
-    REXML::XPath.match(doc, '/*/*').each_with_index do |el, i|
-      File.write("#{path.gsub(/\.xml$/,'')}-#{i}.xml", el)
+  def self.uncollect_string(string)
+    doc = REXML::Document.new(string)
+    REXML::XPath.match(doc, '/*/*').map do |el|
+      el.to_s
     end
-    File.unlink(path)
   end
 end
 
 if __FILE__ == $0
-  ARGV.each do |path|
-    Uncollector.uncollect(path)
+  if ARGV.empty? 
+    puts Uncollector.uncollect_string(ARGF.read).join("\n")
+  else 
+    abort 'No args: supply xml through STDIN'
   end
 end
