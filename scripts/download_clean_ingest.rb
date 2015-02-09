@@ -2,7 +2,6 @@ require_relative 'downloader'
 require_relative 'uncollector'
 require_relative 'cleaner'
 require_relative 'pb_core_ingester'
-require_relative '../app/models/validated_pb_core'
 
 class Exception
   def short
