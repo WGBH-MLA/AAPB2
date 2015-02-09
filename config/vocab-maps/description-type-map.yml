@@ -1,0 +1,20 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+
+!omap
+Raw Footage: Raw Footage
+Element: Element
+Clip: Clip
+Segment: Segment
+Promo: Promo
+Episode: Episode
+Program: Program
+Description: Description
+Abstract: Abstract
+Log: Log
+Rundown: Rundown
+Shot List: Shot List
+Transcript: Transcript
+Series: Series
+'': Other
