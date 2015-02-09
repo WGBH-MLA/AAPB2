@@ -136,6 +136,15 @@ describe 'Catalog' do
     
   end
   
+  describe '.pbcore' do
+    it 'works' do
+      visit '/catalog/1234.pbcore'
+      expect(page.status_code).to eq(200)
+      expect(page.source).to eq(File.read(File.dirname(File.dirname(__FILE__))+'/fixtures/pbcore/clean-MOCK.xml'))
+      expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
+    end
+  end
+  
   describe '#show' do
     
     it 'contains expected data' do
