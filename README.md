@@ -42,10 +42,8 @@ At this point you can
 - Run tests, skipping Ci tests: `rspec --tag ~not_on_travis`
 (If it's not 100% passing, let us know!)
 - Ingest the fixtures: `ruby scripts/pb_core_ingester.rb spec/fixtures/pbcore/clean-*.xml`
+- or... ingest recent updates from AMS: `ruby scripts/download_clean_ingest.rb`
 - Start rails: `rails s`
-- Download pbcore from the AMS: `ruby scripts/download_clean_validate.rb 0 1`
-(This starts at page `0`, and stops before page `1`:
-both arguments are optional, if you want to download everything.)
 
 # Architecture
 

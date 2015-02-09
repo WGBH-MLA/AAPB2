@@ -46,7 +46,9 @@ class Cleaner
       node.attributes['dateType'] = ''
     }
     
-    @date_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//@dateType'))
+    @date_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreAssetDate/@dateType'))
+    # TODO: sort instantiation dates? Though with multiple instantiations,
+    # keeping the right date with the right instantiation might be hard.
     
     # pbcoreIdentifier:
     
@@ -210,6 +212,6 @@ if __FILE__ == $0
   cleaner = Cleaner.new
   ARGV.each do |path|
     dirty_xml = File.read(path)
-    puts cleaner.clean(dirty_xml)
+    puts cleaner.clean(dirty_xml, path)
   end
 end

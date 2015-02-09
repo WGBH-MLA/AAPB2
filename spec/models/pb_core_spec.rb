@@ -71,7 +71,8 @@ describe 'Validated and plain PBCore' do
             "explosions -- gratuitious", "musicals -- horror", #
             "Best episode ever!", "Horror", "Musical", #
             "Larry", "balding", "Curly", "bald", "Moe", "hair", #
-            "Copy Left: All rights reversed.", "PUBLIC", "ABC", "my closet", #
+            "Copy Left: All rights reversed.", #
+            "PUBLIC", "ABC", "2001-02-03", "my closet", #
             "Moving Image", "Not-a-Proxy", "0:12:34", "WGBH"],
           "titles"=>["Gratuitous Explosions", "NOVA"],
           "contribs"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
