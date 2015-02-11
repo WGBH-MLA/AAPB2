@@ -17,12 +17,13 @@ class Downloader
         match[2].to_i.tap{|m| (1 <= m) && (m <= 12)} &&
         match[3].to_i.tap{|d| (1 <= d) && (d <= 31)}
     end
-    @log = __FILE__ == $0 ? STDERR : []
+    @log = File.basename($0) == 'rspec' ? [] : STDOUT
   end
   
-  def self.download_to_directory_and_link
-    padding = 7 # Every day, look this many days back by default
-    since = (Time.now-padding*24*60*60).strftime('%Y%m%d')
+  def self.download_to_directory_and_link(padding = nil)
+    since = padding ?
+      (Time.now-padding*24*60*60).strftime('%Y%m%d') :
+      20000101 # ie, beginning of time.
     Dir.chdir(File.dirname(File.dirname(__FILE__)))
     path = ['tmp','pbcore','download',"#{Time.now.strftime('%F_%T')}_since_#{since}"]
     path.each do |dir|
