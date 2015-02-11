@@ -98,7 +98,8 @@ describe Ci, not_on_travis: true, slow: true do
     expect(workspace_id).not_to eq(aapb_workspace_id)
     ci = Ci.new({credentials_path: credentials_path})
     expect(ci.access_token).to match(/^[0-9a-f]{32}$/)
-    expect(ci.list_names.count).to eq(0), "Expected workspace #{ci.workspace_id} to be empty, instead of #{list}"
+    expect(ci.list_names.count).to eq(0), 
+      "Expected workspace #{ci.workspace_id} to be empty, instead of #{ci.list_names}"
     return ci
   end
   
