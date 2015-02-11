@@ -9,6 +9,10 @@ class Ci < CiCore
     Uploader.new(self, file_path, log_file).upload
   end
   
+  def list_names
+    list.map{|item| item['name']} - ['Workspace'] # A self reference is present even in an empty workspace.
+  end
+  
   def list(limit=50, offset=0)
     Lister.new(self).list(limit, offset)
   end
@@ -122,6 +126,8 @@ class Ci < CiCore
         @ci.detail(@asset_id).to_s.gsub("\n",' ')]
       @log_file.write(row.join("\t")+"\n")
       @log_file.flush
+      
+      return @asset_id
     end
     
     private
