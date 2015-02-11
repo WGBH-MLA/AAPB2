@@ -98,8 +98,8 @@ describe Ci, not_on_travis: true, slow: true do
     expect(workspace_id).not_to eq(aapb_workspace_id)
     ci = Ci.new({credentials_path: credentials_path})
     expect(ci.access_token).to match(/^[0-9a-f]{32}$/)
-    list = list_names(ci)
-    expect(list.count).to eq(0), "Expected workspace #{ci.workspace_id} to be empty, instead of #{list}"
+    expect(ci.list_names.count).to eq(0), 
+      "Expected workspace #{ci.workspace_id} to be empty, instead of #{ci.list_names}"
     return ci
   end
   
@@ -107,7 +107,7 @@ describe Ci, not_on_travis: true, slow: true do
     basename = File.basename(path)
     expect{ci.upload(path, log_path)}.not_to raise_exception
       
-    expect(list_names(ci).count).to eq(1)
+    expect(ci.list_names.count).to eq(1)
 
     log_content = File.read(log_path)
     expect(log_content).to match(/^[^\t]+\t#{basename}\t[0-9a-f]{32}\t\{[^\t]+\}\n$/)
@@ -135,12 +135,7 @@ describe Ci, not_on_travis: true, slow: true do
 
     ci.delete(id)
     expect(ci.detail(id)['isDeleted']).to eq(true)
-    expect(list_names(ci).count).to eq(0)
-  end
-  
-  def list_names(ci)
-    # TODO: Maybe this should be a real method on CiClient? Not sure.
-    ci.list.map{|item| item['name']} - ['Workspace'] # A self reference is present even in an empty workspace.
+    expect(ci.list_names.count).to eq(0)
   end
 
 end

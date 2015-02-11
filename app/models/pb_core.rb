@@ -73,6 +73,12 @@ class PBCore
       # Map to pairs for consistency... but building the hash and just throwing it away?
     end
   end
+  def ci_id
+    @ci_id ||= xpaths('/*/pbcoreIdentifier[@source="Sony Ci"]').first # May not be present.
+  end
+  def media_src
+    @media_src ||= ci_id ? "/media/#{id}" : nil
+  end
   def img_src
     # ID may contain a slash, and that's ok.
     # TODO!
