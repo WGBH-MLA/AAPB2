@@ -1,8 +1,10 @@
-require 'rails_helper'
 require_relative '../../scripts/pb_core_ingester'
 require_relative '../../scripts/ci/ci'
+require 'tmpdir'
 
 describe 'Media', not_on_travis: true do
+  
+  TARGET = 'lorem ipsum'
   
   def get_ci
     credentials_path = File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml'
@@ -15,7 +17,7 @@ describe 'Media', not_on_travis: true do
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
       path = "#{dir}/small-file.txt"
-      File.write(path, "lorem ipsum")
+      File.write(path, TARGET)
       ci_id = ci.upload(path, log_path)
 
       pbcore = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
@@ -33,9 +35,16 @@ describe 'Media', not_on_travis: true do
     ci = get_ci
     ci_id = setup(ci)
     
-    visit '/media/1234'
-    expect(page.status_code).to eq(200) # TODO: should redirect
-    expect(page).to have_text('https://ci-buckets-assets') 
+    # Capybara won't let us follow remote redirects:
+    # It tries to look for a route based on the remote path.
+    # 
+    # visit '/media/1234'
+    # expect(page).to have_text(TARGET) 
+    
+    curl = Curl::Easy.http_get('http://localhost:3000/media/1234')
+    curl.follow_location = true
+    curl.perform
+    expect(curl.body_str).to eq(TARGET)
     
     ci.delete(ci_id)
   end

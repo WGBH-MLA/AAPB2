@@ -9,7 +9,7 @@ class MediaController < ApplicationController
     
     ci = CiCore.new(credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
     # OAuth credentials expire: otherwise it would make sense to cache this instance.
-    render text: ci.download(pbcore.ci_id) # TODO: make this a redirect
+    redirect_to ci.download(pbcore.ci_id)
   end
   
 end
