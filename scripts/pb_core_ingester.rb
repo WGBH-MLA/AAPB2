@@ -21,7 +21,7 @@ class PBCoreIngester
 
     begin
       xml = File.read(path)
-    rescue StandardError => e
+    rescue => e
       raise ReadError.new(e)
     end
 
@@ -33,14 +33,14 @@ class PBCoreIngester
     
     begin
       pbcore = ValidatedPBCore.new(xml)
-    rescue StandardError => e
+    rescue => e
       raise ValidationError.new(e)
     end
 
     begin
       @solr.add(pbcore.to_solr)
       @solr.commit
-    rescue StandardError => e
+    rescue => e
       raise SolrError.new(e)
     end
     
