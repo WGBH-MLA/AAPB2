@@ -95,6 +95,7 @@ describe 'Validated and plain PBCore' do
         id: '1234',
         ids: [["AAPB ID", "1234"], ["somewhere else","5678"]],
         ci_id: nil,
+        media_url: nil,
         img_src: '/thumbnail-todo.svg', #TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
