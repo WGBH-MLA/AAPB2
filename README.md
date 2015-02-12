@@ -25,7 +25,7 @@ Install it as instructed.
 [Issue #63](https://github.com/WGBH/AAPB2/issues/63))
 
 If you'll be interacting with [Sony Ci](http://developers.cimediacloud.com), you'll also need `config/ci.yml`.
-(This is git-ignored since it contains a data which should not be publicized.)
+(This is git-ignored since it contains keys which are not public.)
 
 ```yaml
 username: [your ci username]
