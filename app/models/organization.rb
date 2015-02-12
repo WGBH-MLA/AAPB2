@@ -49,7 +49,7 @@ class Organization
   end
   
   def to_s
-    "#{id}: #{pbcore_name} (#{city}, #{state})"
+    "#{pbcore_name}/#{short_name} (#{city}, #{state})"
   end
  
 end

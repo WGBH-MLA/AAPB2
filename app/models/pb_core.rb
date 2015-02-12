@@ -151,6 +151,9 @@ class PBCore
     def duration
       @duration ||= optional('instantiationDuration')
     end
+    def to_s
+      [media_type,duration].select{|x| x}.join(', ')
+    end
     private
     def optional(xpath)
       match = REXML::XPath.match(@rexml, xpath).first
@@ -195,6 +198,9 @@ class PBCore
         node = REXML::XPath.match(@rexml, "#{@stem}/@affiliation").first
         node ? node.value : nil
       end
+    end
+    def to_s
+      [name,role,affiliation].select{|x| x}.join(', ')
     end
   end
   
@@ -248,7 +254,10 @@ class PBCore
   # These methods are only used by to_solr.
   
   def text
-    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
+    ignores = [:text,:to_solr,:contribs,:img_src,:media_src]
+    @text ||= (PBCore.instance_methods(false)-ignores).map{|method| 
+      self.send(method)
+    }.select{|x| x}.flatten.map{|x| x.to_s}.uniq
   end
   def contribs
     @contribs ||= 
