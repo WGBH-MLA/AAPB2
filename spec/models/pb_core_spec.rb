@@ -74,6 +74,14 @@ describe 'Validated and plain PBCore' do
             "Copy Left: All rights reversed.", #
             "PUBLIC", "ABC", "2001-02-03", "my closet", #
             "Moving Image", "Not-a-Proxy", "0:12:34", "WGBH"],
+#          "text"=>["Best episode ever!", "Horror", "Musical", #
+#            "explosions -- gratuitious", "musicals -- horror", #
+#            "Curly, bald, Stooges", "Larry, balding, Stooges", "Moe, hair, Stooges", #
+#            "Moving Image, 0:12:34", "Copy Left: All rights reversed.", "Album", #
+#            "uncataloged", "2000-01-01", "2000-01-01", #
+#            "Program", "Gratuitous Explosions", "Series", "NOVA", "Gratuitous Explosions", #
+#            "1234", "AAPB ID", "1234", "somewhere else", "5678", "WGBH", #
+#            "WGBH/WGBH (Boston, Massachusetts)", "PUBLIC", "Moving Image"],
           "titles"=>["Gratuitous Explosions", "NOVA"],
           "contribs"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
           "title"=>"Gratuitous Explosions",
