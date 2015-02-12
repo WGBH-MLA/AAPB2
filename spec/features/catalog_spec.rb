@@ -1,7 +1,10 @@
 require 'rails_helper'
 require_relative '../../scripts/pb_core_ingester'
+require_relative '../support/validation_helper'
 
 describe 'Catalog' do
+  
+  include ValidationHelper
 
   before(:all) do
     # This is a test in its own right elsewhere.
@@ -41,6 +44,7 @@ describe 'Catalog' do
         'Best episode ever!'
       ].each do |field|
         expect(page).to have_text(field)
+        expect_fuzzy_xml
       end
       
       expect_thumbnail(1234)
@@ -59,6 +63,7 @@ describe 'Catalog' do
           visit url
           expect(page.status_code).to eq(200)
           expect(page.all(css).count).to eq(1)
+          expect_fuzzy_xml
         end
       end
     end
@@ -84,6 +89,7 @@ describe 'Catalog' do
           end
           expect(page.status_code).to eq(200)
           expect_count(count)
+          expect_fuzzy_xml
         end
       end
     end
@@ -107,6 +113,7 @@ describe 'Catalog' do
           end
           expect(page.status_code).to eq(200)
           expect_count(count)
+          expect_fuzzy_xml
         end
       end
     end
@@ -130,6 +137,7 @@ describe 'Catalog' do
           end
           expect(page.status_code).to eq(200)
           expect(page.find('.document[1] .index_title').text).to eq(title)
+          expect_fuzzy_xml
         end
       end
     end
@@ -176,23 +184,25 @@ describe 'Catalog' do
   end
 
   describe 'all fixtures' do
-      Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
-        id = PBCore.new(File.read(file_name)).id
-        describe id do
-          details_url = "/catalog/#{id.gsub('/','%2F')}" # Remember the URLs are tricky.
-          it "details: #{details_url}" do
-            visit details_url
-            expect(page.status_code).to eq(200)
-          end
-          search_url = "/catalog?search_field=all_fields&q=#{id.gsub(/^(.*\W)?(\w+)$/,'\2')}"
-          # because of tokenization, unless we strip the ID down we will get other matches.
-          it "search: #{search_url}" do
-            visit search_url
-            expect(page.status_code).to eq(200)
-            expect_count(1)
-          end
+    Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
+      id = PBCore.new(File.read(file_name)).id
+      describe id do
+        details_url = "/catalog/#{id.gsub('/','%2F')}" # Remember the URLs are tricky.
+        it "details: #{details_url}" do
+          visit details_url
+          expect(page.status_code).to eq(200)
+          expect_fuzzy_xml
+        end
+        search_url = "/catalog?search_field=all_fields&q=#{id.gsub(/^(.*\W)?(\w+)$/,'\2')}"
+        # because of tokenization, unless we strip the ID down we will get other matches.
+        it "search: #{search_url}" do
+          visit search_url
+          expect(page.status_code).to eq(200)
+          expect_count(1)
+          expect_fuzzy_xml
         end
       end
     end
+  end
   
 end

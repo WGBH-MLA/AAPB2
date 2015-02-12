@@ -5,6 +5,8 @@ require_relative '../../app/models/ci_core'
 
 class Ci < CiCore
   
+  include Enumerable
+  
   def upload(file_path, log_file)
     Uploader.new(self, file_path, log_file).upload
   end
