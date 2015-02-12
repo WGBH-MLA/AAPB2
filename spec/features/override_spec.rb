@@ -1,4 +1,5 @@
 require 'rails_helper'
+require_relative '../support/validation_helper'
 
 describe "Overrides" do
 
@@ -7,6 +8,7 @@ describe "Overrides" do
       visit '/about'
       expect(page.status_code).to eq(200)
       expect(page).to have_text('TODO: about page')
+      expect_fuzzy_xml
     end
   end
 
