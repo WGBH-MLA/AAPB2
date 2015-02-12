@@ -9,6 +9,7 @@ For more information:
 The code is not yet deployed: Its home will be [americanarchive.org](http://americanarchive.org).
 (That is currently the blog.)
 
+
 # Getting started
 
 - Install [RVM](https://rvm.io/), if you haven't already: `curl -sSL https://get.rvm.io | bash -s stable`
@@ -49,6 +50,47 @@ ruby scripts/download_clean_ingest.rb   # All records from AMS
 ```
 - Start rails: `rails s`
 
-# Architecture
+
+# Configuration
+
+There are a number of things non-developers can tweak and submit PRs for:
+
+## Controlled Vocabularies
+
+The original data does not conform to any controlled vocabulary on most fields.
+Doing a massive find-and-replace is scary, so instead we clean up the data during
+ingest. Vocabularies which we remap are specified at `config/vocab-maps`: These files
+specify both the replacements to be made, and the preferred display order in the UI.
+
+## Organizations
+
+The organization pages are controlled by `config/organizations.xml`, and MS Excel XML
+file. We chose this format because it is easy to edit, accommodates Unicode, and
+preserves newlines.
+
+## Views
+
+All the ERBs under `app/views` as well as the CSS under `app/assets/stylesheets`
+are tweakable. We have good test coverage, so if something is simply invalid, 
+it should cause Travis to fail.
+
+## Solr
+
+It is unlikely that non-devs would touch Solr, but it bears mentioning here.
+There are two big differences from a standard Blacklight deployment:
+- We are not using Blacklight dynamic fields in `schema.xml`: In my experience,
+configuration-by-naming-convention has tended to obscure the actual meaning of the
+definitions, and when a change does need to be made, it requires tracking down
+occurrences throughout the codebase.
+- We minimize the dependence of the view code on the Solr definitions by always
+pulling data to render from a `PBCore` object, rather than a Solr field.
+This does mean the search results page is a little slower, (about 0.1s when I timed it,)
+but it means that access is consistent in all contexts, key-value data structures
+are easier to work with, and if we do want to make a change in how data is pulled from
+PBCore, it does not require a re-index.
+
+
+
+# Data Flow
 
 ![data flow diagram](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-data-flow.svg?v1)
