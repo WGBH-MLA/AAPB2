@@ -3,8 +3,6 @@ require 'curb'
 require 'json'
 
 class CiCore
-  
-  include Enumerable
 
   attr_reader :access_token
   attr_reader :verbose
