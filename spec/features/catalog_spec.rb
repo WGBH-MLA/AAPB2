@@ -44,7 +44,7 @@ describe 'Catalog' do
         'Best episode ever!'
       ].each do |field|
         expect(page).to have_text(field)
-        expect_valid_xml
+        expect_fuzzy_xml
       end
       
       expect_thumbnail(1234)
@@ -63,7 +63,7 @@ describe 'Catalog' do
           visit url
           expect(page.status_code).to eq(200)
           expect(page.all(css).count).to eq(1)
-          expect_valid_xml
+          expect_fuzzy_xml
         end
       end
     end
@@ -89,7 +89,7 @@ describe 'Catalog' do
           end
           expect(page.status_code).to eq(200)
           expect_count(count)
-          expect_valid_xml
+          expect_fuzzy_xml
         end
       end
     end
@@ -113,7 +113,7 @@ describe 'Catalog' do
           end
           expect(page.status_code).to eq(200)
           expect_count(count)
-          expect_valid_xml
+          expect_fuzzy_xml
         end
       end
     end
@@ -137,7 +137,7 @@ describe 'Catalog' do
           end
           expect(page.status_code).to eq(200)
           expect(page.find('.document[1] .index_title').text).to eq(title)
-          expect_valid_xml
+          expect_fuzzy_xml
         end
       end
     end
@@ -191,7 +191,7 @@ describe 'Catalog' do
         it "details: #{details_url}" do
           visit details_url
           expect(page.status_code).to eq(200)
-          expect_valid_xml
+          expect_fuzzy_xml
         end
         search_url = "/catalog?search_field=all_fields&q=#{id.gsub(/^(.*\W)?(\w+)$/,'\2')}"
         # because of tokenization, unless we strip the ID down we will get other matches.
@@ -199,7 +199,7 @@ describe 'Catalog' do
           visit search_url
           expect(page.status_code).to eq(200)
           expect_count(1)
-          expect_valid_xml
+          expect_fuzzy_xml
         end
       end
     end
