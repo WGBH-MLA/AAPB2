@@ -3,6 +3,31 @@ require 'ostruct'
 
 describe ValidationHelper do
   
+  describe 'obvious errors' do
+    
+    it 'catches mismatched tags' do
+      def page
+        OpenStruct.new(body: '<html><a>TEXT</b></html>')
+      end
+      expect{expect_fuzzy_xml}.to raise_error
+    end
+    
+    it 'catches missing open brace' do
+      def page
+        OpenStruct.new(body: '<html>a>TEXT</a></html>')
+      end
+      expect{expect_fuzzy_xml}.to raise_error
+    end
+    
+    it 'catches missing close brace' do
+      def page
+        OpenStruct.new(body: '<html><aTEXT</a></html>')
+      end
+      expect{expect_fuzzy_xml}.to raise_error
+    end
+    
+  end
+  
   describe 'tag self closing' do
 
     it 'closes meta tags' do
