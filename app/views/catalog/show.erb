@@ -11,14 +11,14 @@
 <dl>
 <% @pbcore.titles.each do |type,title| %>
   <dt><%= type %></dt>
-  <dd><%= title %></dt>
+  <dd><%= title %></dd>
 <% end %>
 </dl>
  
 <dl>
 <% @pbcore.ids.each do |type,id| %>
   <dt><%= type %></dt>
-  <dd><%= id %></dt>
+  <dd><%= id %></dd>
 <% end %>
 </dl>
 
@@ -33,7 +33,7 @@
 <dl>
 <% @pbcore.asset_dates.each do |type,date| %>
   <dt><%= type %></dt>
-  <dd><%= date %></dt>
+  <dd><%= date %></dd>
 <% end %>
 </dl>
 
@@ -53,7 +53,6 @@
     <% list.each do |c| %>
       <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
     <% end %>
-  </dt>
   <% end %>
 </dl>
 
