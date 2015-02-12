@@ -254,11 +254,10 @@ class PBCore
   # These methods are only used by to_solr.
   
   def text
-    @text ||= xpaths('/*//*[text()]').map{|s| s.strip}.select{|s| !s.empty?}
-#    ignores = [:text,:to_solr,:contribs,:img_src,:media_src]
-#    @text ||= (self.class.instance_methods(false)-ignores).map{|method| 
-#      self.send(method)
-#    }.select{|x| x}.flatten.map{|x| x.to_s}
+    ignores = [:text,:to_solr,:contribs,:img_src,:media_src]
+    @text ||= (PBCore.instance_methods(false)-ignores).map{|method| 
+      self.send(method)
+    }.select{|x| x}.flatten.map{|x| x.to_s}.uniq
   end
   def contribs
     @contribs ||= 
