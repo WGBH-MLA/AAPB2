@@ -62,11 +62,17 @@ class CatalogController < ApplicationController
     # facet bar
     # 
     
-    config.add_facet_field 'media_type', label: 'Media Type'
+    config.add_facet_field 'media_type'
     config.add_facet_field 'genres', label: 'Genre'
-    config.add_facet_field 'asset_type', label: 'Asset Type'
-    config.add_facet_field 'organization', label: 'Organization'
-    config.add_facet_field 'year', label: 'Year'
+    config.add_facet_field 'asset_type'
+    config.add_facet_field 'organization'
+    config.add_facet_field 'year'
+    
+    VocabMap.new(File.dirname(File.dirname(File.dirname(__FILE__)))+'/config/vocab-maps/title-type-map.yml').tap{|map|
+      map.authorized_names.each{|name|
+        config.add_facet_field "#{name.downcase.gsub(/\s/,'_')}_titles", show: false, label: name
+      }
+    }
     
     
 #    config.add_facet_field 'format', :label => 'Format'

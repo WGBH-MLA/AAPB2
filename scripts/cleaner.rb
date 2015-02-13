@@ -1,6 +1,6 @@
 require 'rexml/document'
 require 'set'
-require_relative 'cleaner_vocab_map'
+require_relative '../app/models/vocab_map'
 
 class Cleaner
   

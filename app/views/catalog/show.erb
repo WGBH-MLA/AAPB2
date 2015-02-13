@@ -11,7 +11,7 @@
 <dl>
 <% @pbcore.titles.each do |type,title| %>
   <dt><%= type %></dt>
-  <dd><%= title %></dd>
+  <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
 <% end %>
 </dl>
  

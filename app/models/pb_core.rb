@@ -128,7 +128,13 @@ class PBCore
       'genres' => genres,
       'asset_type' => asset_type,
       'organization' => organization.short_name
-    }
+    }.merge(
+      Hash[
+        titles.group_by{|pair| pair[0]}.map{|key,pairs| 
+          ["#{key.downcase}_titles", pairs.map{|pair| pair[1]}]
+        }
+      ]
+    )
   end
   
   class Instantiation

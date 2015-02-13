@@ -33,9 +33,10 @@ describe 'Catalog' do
   
   describe '#index' do
     
-    it 'works' do
+    it 'can find one item' do
       visit '/catalog?search_field=all_fields&q=1234'
       expect(page.status_code).to eq(200)
+      expect_count(1)
       [
         'Gratuitous Explosions',
         'Series NOVA',
@@ -44,104 +45,123 @@ describe 'Catalog' do
         'Best episode ever!'
       ].each do |field|
         expect(page).to have_text(field)
-        expect_fuzzy_xml
       end
-      
       expect_thumbnail(1234)
+      expect_fuzzy_xml
     end
     
-    describe 'views' do
-      assertions = [
-        # Better if we actually looked for something in the results?
-        ['','.view-type-list.active'],
-        ['&view=list','.view-type-list.active'],
-        ['&view=gallery','.view-type-gallery.active']
-      ]
-      assertions.each_with_index do |(params,css),index|
-        url = "/catalog?search_field=all_fields#{params}"
-        it "view params=#{params}: #{css}\t#{url}" do
-          visit url
-          expect(page.status_code).to eq(200)
-          expect(page.all(css).count).to eq(1)
-          expect_fuzzy_xml
-        end
-      end
-    end
-    
-    describe 'facets' do
-      assertions = [
-        ['media_type','Sound',6],
-        ['genres','Interview',3],
-        ['asset_type','Segment',5],
-        ['organization','WGBH',1],
-        ['year','2000',1]
-      ]
-      assertions.each_with_index do |(facet,value,count),index|
-        url = "/catalog?f[#{facet}][]=#{value}"
-        it "#{facet}=#{value}: #{count}\t#{url}" do
-          visit url
-          if index == 0
-            expect(
-              page.all('.panel-heading[data-target]').map{|node|
-                node['data-target'].gsub('#facet-','')
-              }
-            ).to eq(assertions.map{|a| a.first}) # coverage
+    describe 'search constraints' do
+      
+      describe 'title facets' do
+        assertions = [
+          ['f[series_titles][]=NOVA',1],
+          ['f[program_titles][]=Gratuitous+Explosions',1]
+        ]
+        assertions.each do |(param,count)|
+          url = "/catalog?#{param}"
+          it "view #{url}" do
+            visit url
+            expect(page.status_code).to eq(200)
+            expect_count(count)
+            expect_fuzzy_xml
           end
-          expect(page.status_code).to eq(200)
-          expect_count(count)
-          expect_fuzzy_xml
         end
       end
-    end
-    
-    describe 'fields' do
-      assertions = [
-        ['all_fields','Larry',2],
-        ['titles','Larry',1],
-        ['contribs','Larry',1]
-      ]
-      assertions.each_with_index do |(constraint,value,count),index|
-        url = "/catalog?search_field=#{constraint}&q=#{value}"
-        it "#{constraint}=#{value}: #{count}\t#{url}" do
-          visit url
-          if index == 0
-            expect(
-              page.all('#search_field option').map{|node|
-                node['value']
-              }
-            ).to eq(assertions.map{|a| a.first}) # coverage
+
+      describe 'views' do
+        assertions = [
+          # Better if we actually looked for something in the results?
+          ['','.view-type-list.active'],
+          ['&view=list','.view-type-list.active'],
+          ['&view=gallery','.view-type-gallery.active']
+        ]
+        assertions.each_with_index do |(params,css),index|
+          url = "/catalog?search_field=all_fields#{params}"
+          it "view params=#{params}: #{css}\t#{url}" do
+            visit url
+            expect(page.status_code).to eq(200)
+            expect(page.all(css).count).to eq(1)
+            expect_fuzzy_xml
           end
-          expect(page.status_code).to eq(200)
-          expect_count(count)
-          expect_fuzzy_xml
         end
       end
-    end
-    
-    describe 'sorting' do
-      assertions = [
-        ['score+desc','From Bessie Smith to Bruce Springsteen'],
-        ['year+desc','Gratuitous Explosions'],
-        ['title+asc','#508']
-      ]
-      assertions.each_with_index do |(sort,title),index|
-        url = "/catalog?search_field=all_fields&sort=#{sort}"
-        it "sort=#{sort}: '#{title}'\t#{url}" do
-          visit url
-          if index == 0
-            expect(
-              page.all('#sort-dropdown .dropdown-menu a').map{|node|
-                node['href'].gsub(/.*sort=/,'')
-              }
-            ).to eq(assertions.map{|a| a.first}) # coverage
+
+      describe 'facets' do
+        assertions = [
+          ['media_type','Sound',6],
+          ['genres','Interview',3],
+          ['asset_type','Segment',5],
+          ['organization','WGBH',1],
+          ['year','2000',1]
+        ]
+        assertions.each_with_index do |(facet,value,count),index|
+          url = "/catalog?f[#{facet}][]=#{value}"
+          it "#{facet}=#{value}: #{count}\t#{url}" do
+            visit url
+            if index == 0
+              expect(
+                page.all('.panel-heading[data-target]').map{|node|
+                  node['data-target'].gsub('#facet-','')
+                }
+              ).to eq(assertions.map{|a| a.first}) # coverage
+            end
+            expect(page.status_code).to eq(200)
+            expect_count(count)
+            expect_fuzzy_xml
           end
-          expect(page.status_code).to eq(200)
-          expect(page.find('.document[1] .index_title').text).to eq(title)
-          expect_fuzzy_xml
         end
       end
-    end
+
+      describe 'fields' do
+        assertions = [
+          ['all_fields','Larry',2],
+          ['titles','Larry',1],
+          ['contribs','Larry',1]
+        ]
+        assertions.each_with_index do |(constraint,value,count),index|
+          url = "/catalog?search_field=#{constraint}&q=#{value}"
+          it "#{constraint}=#{value}: #{count}\t#{url}" do
+            visit url
+            if index == 0
+              expect(
+                page.all('#search_field option').map{|node|
+                  node['value']
+                }
+              ).to eq(assertions.map{|a| a.first}) # coverage
+            end
+            expect(page.status_code).to eq(200)
+            expect_count(count)
+            expect_fuzzy_xml
+          end
+        end
+      end
+
+      describe 'sorting' do
+        assertions = [
+          ['score+desc','From Bessie Smith to Bruce Springsteen'],
+          ['year+desc','Gratuitous Explosions'],
+          ['title+asc','#508']
+        ]
+        assertions.each_with_index do |(sort,title),index|
+          url = "/catalog?search_field=all_fields&sort=#{sort}"
+          it "sort=#{sort}: '#{title}'\t#{url}" do
+            visit url
+            if index == 0
+              expect(
+                page.all('#sort-dropdown .dropdown-menu a').map{|node|
+                  node['href'].gsub(/.*sort=/,'')
+                }
+              ).to eq(assertions.map{|a| a.first}) # coverage
+            end
+            expect(page.status_code).to eq(200)
+            expect(page.find('.document[1] .index_title').text).to eq(title)
+            expect_fuzzy_xml
+          end
+        end
+      end
     
+    end
+      
   end
   
   describe '.pbcore' do

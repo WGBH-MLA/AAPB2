@@ -66,6 +66,8 @@ describe 'Validated and plain PBCore' do
         to_solr: {
           "id"=>"1234",
           "xml"=>pbc_xml,
+          "program_titles" => ["Gratuitous Explosions"],
+          "series_titles" => ["NOVA"],
           "text"=>["Best episode ever!", "Horror", "Musical", #
             "explosions -- gratuitious", "musicals -- horror", #
             "Curly, bald, Stooges", "Larry, balding, Stooges", "Moe, hair, Stooges", #
