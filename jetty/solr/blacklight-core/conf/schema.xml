@@ -534,6 +534,9 @@
    <field name="genres" 
           type="string" indexed="true" stored="true" multiValued="true"/>
    
+   <dynamicField name="*_titles"
+          type="string" indexed="true" stored="true" multiValued="true"/>
+   
    <!-- Dynamic field definitions.  If a field name is not found, dynamicFields
         will be used if the name matches any of the patterns.
         RESTRICTION: the glob-like pattern in the name attribute must have
