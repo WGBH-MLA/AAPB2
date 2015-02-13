@@ -1,21 +1,21 @@
 <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
 <h1><%= @pbcore.title %></h1>
- 
+
 <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
 
 <dl>
-<% @pbcore.titles.each do |type,title| %>
-  <dt><%= type %></dt>
-  <dd><%= title %></dt>
-<% end %>
+  <% @pbcore.titles.each do |type,title| %>
+    <dt><%= type %></dt>
+    <dd><%= title %></dt>
+    <% end %>
 </dl>
- 
+
 <dl>
-<% @pbcore.ids.each do |type,id| %>
-  <dt><%= type %></dt>
-  <dd><%= id %></dt>
-<% end %>
+  <% @pbcore.ids.each do |type,id| %>
+    <dt><%= type %></dt>
+    <dd><%= id %></dt>
+    <% end %>
 </dl>
 
 <div>
@@ -27,10 +27,10 @@
 <p><%= @pbcore.asset_type %></p>
 
 <dl>
-<% @pbcore.asset_dates.each do |type,date| %>
-  <dt><%= type %></dt>
-  <dd><%= date %></dt>
-<% end %>
+  <% @pbcore.asset_dates.each do |type,date| %>
+    <dt><%= type %></dt>
+    <dd><%= date %></dt>
+    <% end %>
 </dl>
 
 <p><%= @pbcore.genres.join('; ') %></p>
@@ -41,15 +41,15 @@
 
 <dl>
   <% {
-      'Contributor'=> @pbcore.contributors,
-      'Creator'=> @pbcore.creators,
-      'Publisher'=> @pbcore.publishers
-      }.select{|label,list| !list.empty?}.each do |label,list| %>
-  <dt><%= label %></dt>
+    'Contributor'=> @pbcore.contributors,
+    'Creator'=> @pbcore.creators,
+    'Publisher'=> @pbcore.publishers
+    }.select{|label,list| !list.empty?}.each do |label,list| %>
+    <dt><%= label %></dt>
     <% list.each do |c| %>
       <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
     <% end %>
-  </dt>
+    </dt>
   <% end %>
 </dl>
 

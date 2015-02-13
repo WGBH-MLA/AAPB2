@@ -1,41 +1,41 @@
 <%# TODO: When this is stable, define solr fields and use them instead. Saves about 0.1s. %>
 <% PBCore.new(document.instance_variable_get('@_source')['xml']).tap do |pbcore| %>
 
-      <% # header bar for doc items in index view -%>
-      <div class="documentHeader row">
-        
-        <%# main title container for doc partial view 
-            How many bootstrap columns need to be reserved
-            for bookmarks control depends on size. 
-        -%>
-        <h5 class="index_title col-sm-9 col-lg-10">
-            <%= link_to_document document, label: pbcore.title %>
-        </h5>
-        
-        <img src="<%= pbcore.img_src %>" alt="thumbnail of <%= pbcore.title %>"/>
-        
-        <dl>
-        <% pbcore.titles.each do |type,title| %>
-          <dt><%= type %></dt>
-          <dd><%= title %></dt>
-        <% end %>
-        </dl>
-        
-        <dl>
-        <% pbcore.asset_dates.each do |type,date| %>
-          <dt><%= type %></dt>
-          <dd><%= date %></dt>
-        <% end %>
-        </dl>
-        
-        <div>
-          <% pbcore.descriptions.each do |description| %>
-            <p><%= description %></p>
-          <% end %>
-        </div>
+  <% # header bar for doc items in index view -%>
+  <div class="documentHeader row">
 
-        <% # bookmark functions for items/docs -%>
-        <%= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>
-      </div>
-      
+  <%# main title container for doc partial view 
+  How many bootstrap columns need to be reserved
+  for bookmarks control depends on size. 
+  -%>
+    <h5 class="index_title col-sm-9 col-lg-10">
+      <%= link_to_document document, label: pbcore.title %>
+    </h5>
+
+    <img src="<%= pbcore.img_src %>" alt="thumbnail of <%= pbcore.title %>"/>
+
+    <dl>
+      <% pbcore.titles.each do |type,title| %>
+        <dt><%= type %></dt>
+        <dd><%= title %></dt>
+        <% end %>
+    </dl>
+
+    <dl>
+      <% pbcore.asset_dates.each do |type,date| %>
+        <dt><%= type %></dt>
+        <dd><%= date %></dt>
+        <% end %>
+    </dl>
+
+    <div>
+      <% pbcore.descriptions.each do |description| %>
+        <p><%= description %></p>
+      <% end %>
+    </div>
+
+    <% # bookmark functions for items/docs -%>
+    <%= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>
+  </div>
+
 <% end %>
