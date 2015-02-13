@@ -62,11 +62,14 @@ class CatalogController < ApplicationController
     # facet bar
     # 
     
-    config.add_facet_field 'media_type', label: 'Media Type'
+    config.add_facet_field 'media_type'
     config.add_facet_field 'genres', label: 'Genre'
-    config.add_facet_field 'asset_type', label: 'Asset Type'
-    config.add_facet_field 'organization', label: 'Organization'
-    config.add_facet_field 'year', label: 'Year'
+    config.add_facet_field 'asset_type'
+    config.add_facet_field 'organization'
+    config.add_facet_field 'year'
+    
+    # TODO: vocab map
+    config.add_facet_field 'series_titles', show: false
     
     
 #    config.add_facet_field 'format', :label => 'Format'
