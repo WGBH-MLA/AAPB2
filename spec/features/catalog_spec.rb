@@ -52,21 +52,21 @@ describe 'Catalog' do
     
     describe 'search constraints' do
       
-#      describe 'title facets' do
-#        assertions = [
-#          ['f[series_titles][]=NOVA',1],
-#          
-#        ]
-#        assertions.each do |(param,count)|
-#          url = "/catalog?#{param}"
-#          it "view #{url}" do
-#            visit url
-#            expect(page.status_code).to eq(200)
-#            expect_count(count)
-#            expect_fuzzy_xml
-#          end
-#        end
-#      end
+      describe 'title facets' do
+        assertions = [
+          ['f[series_titles][]=NOVA',1],
+          ['f[program_titles][]=Gratuitous+Explosions',1]
+        ]
+        assertions.each do |(param,count)|
+          url = "/catalog?#{param}"
+          it "view #{url}" do
+            visit url
+            expect(page.status_code).to eq(200)
+            expect_count(count)
+            expect_fuzzy_xml
+          end
+        end
+      end
 
       describe 'views' do
         assertions = [
