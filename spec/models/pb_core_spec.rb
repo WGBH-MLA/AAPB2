@@ -103,6 +103,8 @@ describe 'Validated and plain PBCore' do
         organization: Organization.find_by_pbcore_name('WGBH'),
         rights_code: 'PUBLIC',
         media_type: 'Moving Image',
+        video?: true,
+        audio?: false,
         digitized: false,
         subjects: ["explosions -- gratuitious", "musicals -- horror"],
         creators: [PBCore::NameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],

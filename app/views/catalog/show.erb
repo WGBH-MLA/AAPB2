@@ -3,7 +3,11 @@
 <h1><%= @pbcore.title %></h1>
 
 <% if @pbcore.media_src %>
-  <video src="<%= @pbcore.media_src %>" alt="video of <%= @pbcore.title %>"></video>
+  <% if @pbcore.video? %>
+    <video src="<%= @pbcore.media_src %>" alt="video of <%= @pbcore.title %>"></video>
+  <% elsif @pbcore.audio? %>
+    <audio src="<%= @pbcore.media_src %>" alt="audio of <%= @pbcore.title %>"></audio>
+  <% end %>
 <% else %>
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
 <% end %>
