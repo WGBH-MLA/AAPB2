@@ -20,6 +20,11 @@ describe VocabMap do
       end
     end
     
+    it '#authorized_names' do
+      map = VocabMap.new(fixtures+'/good-ordinal-map.yml')
+      expect(map.authorized_names).to eq ["erste", "zweite", "dritte", "undefined"]
+    end
+    
     it 'implicitly case-normalizes' do
       map = VocabMap.new(fixtures+'/good-map.yml')
       expect(map.map_string('YesThisIsRight')).to eq 'yesTHISisRIGHT'

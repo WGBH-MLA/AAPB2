@@ -14,6 +14,10 @@ class VocabMap
 
     raise "No default mapping in #{path}" unless @map['']
   end
+  
+  def authorized_names
+    @map.values.uniq
+  end
 
   def map_string(s)
     return @case_map[s.downcase] ||
