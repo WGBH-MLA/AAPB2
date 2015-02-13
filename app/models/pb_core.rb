@@ -93,15 +93,23 @@ class PBCore
   def rights_code
     @rights_code ||= xpath('/*/pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
   end
+  MOVING_IMAGE = 'Moving Image'
+  SOUND = 'Sound'
   def media_type
     @media_type ||= begin
       media_types = xpaths('/*/pbcoreInstantiation/instantiationMediaType')
-      ['Moving Image', 'Sound', 'other'].each {|type|
+      [MOVING_IMAGE, SOUND, 'other'].each {|type|
         return type if media_types.include? type
       }
-      return 'other' if media_types == [] # pbcoreInstantiation is not required, and injected it seems heavy.
+      return 'other' if media_types == [] # pbcoreInstantiation is not required, so this is possible
       raise "Unexpected media types: #{media_types.uniq}"
     end
+  end
+  def video?
+    media_type == MOVING_IMAGE
+  end
+  def audio?
+    media_type == SOUND
   end
   def digitized
     @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO get the right value
@@ -261,7 +269,7 @@ class PBCore
   
   def text
     ignores = [:text,:to_solr,:contribs,:img_src,:media_src]
-    @text ||= (PBCore.instance_methods(false)-ignores).map{|method| 
+    @text ||= (PBCore.instance_methods(false)-ignores).reject{|method| method=~/\?$/}.map{|method| 
       self.send(method)
     }.select{|x| x}.flatten.map{|x| x.to_s}.uniq
   end
