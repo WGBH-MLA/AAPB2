@@ -1,7 +1,26 @@
-TODO: header
-
-<div id="header-navbar" class="navbar navbar-inverse navbar-static-top" role="navigation">
+<!-- Secondary Nav Bar -->
+<nav class="navbar navbar-default secondary-navbar">
   <div class="container">
+    <div id="secondary-nav">
+
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Donate</a></li>
+        <li><a href="#">Get Involved</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+<!-- /Secondary Nav Bar -->
+
+<!-- Main Nav Bar -->
+<div id="header-navbar" class="navbar navbar-default main-nav" role="navigation">
+  <div class="container">
+
     <div class="navbar-header">
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#user-util-collapse">
       <span class="sr-only">Toggle navigation</span>
@@ -13,13 +32,68 @@ TODO: header
     </div>
 
     <div class="collapse navbar-collapse" id="user-util-collapse">
-      <%= render :partial=>'/user_util_links' %>
+
+      <ul class="nav navbar-nav navbar-right">
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Explore By <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">On Location Research <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">For Contributing Organizations <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+
+        <!-- Nav Search -->
+        <li>
+          <form class="navbar-form navbar-search navbar-right" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Search the AAPB">
+            </div>
+            <button type="submit" class="btn"><span class="glyphicon glyphicon-search" aria-hidden="true"></span><span class="sr-only">Submit</span></button>
+          </form>
+        </li>
+
+      </ul>
+
+      <!-- <%= render :partial=>'/user_util_links' %> -->
     </div>
   </div>
 </div>
+<!-- /Main Nav Bar -->
 
-<div id="search-navbar" class="navbar navbar-default navbar-static-top" role="navigation">
+<!-- <div id="search-navbar" class="navbar navbar-default navbar-static-top" role="navigation">
   <div class="container">
     <%= render_search_bar  %>
   </div>
-</div>
+</div> -->
