@@ -2,6 +2,6 @@ TODO: organizations list
 
 <ul>
   <% @orgs.each do |org| %>
-    <li><a href="/organizations/<%= org.id %>"><%= org %></a></li>
+    <li><a href="/organizations/<%= org.id %>"><%= org.short_name %></a></li>
   <% end %>
 </ul>

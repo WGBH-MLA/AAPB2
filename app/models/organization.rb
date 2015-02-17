@@ -48,8 +48,8 @@ class Organization
     @@orgs_by_id.values.sort_by { |org| org.state }
   end
   
-  def to_s
-    "#{pbcore_name}/#{short_name} (#{city}, #{state})"
+  def to_a
+    [short_name, city, state]
   end
  
 end

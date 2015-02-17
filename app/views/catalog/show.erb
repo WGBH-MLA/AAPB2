@@ -69,5 +69,8 @@
   <% end %>
 </dl>
 
-<%# TODO: cleaner link syntax. %>
-<p><a href='/organizations/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a></p>
+<p>
+  <%# TODO: cleaner link syntax. %>
+  <a href='/organizations/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
+  (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)
+</p>
