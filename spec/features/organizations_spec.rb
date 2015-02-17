@@ -9,6 +9,9 @@ describe 'Organizations' do
       expect(page.status_code).to eq(200)
       expect(page).to have_text('TODO: organizations list')
       expect(page).to have_text('WGBH')
+      
+      expect(page).to have_xpath('//a[@href="/organizations/1784.2"]')
+      
       expect_fuzzy_xml
     end
   end
@@ -23,6 +26,8 @@ describe 'Organizations' do
       
       expect(page).not_to have_text('WGBY') 
       # Has ID "1784": We want to be sure Rails is not ignoring the ".2".
+      
+      expect(page).to have_xpath('//a[@href="/catalog?f[organization][]=WGBH"]')
       
       expect_fuzzy_xml
     end
