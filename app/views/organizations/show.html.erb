@@ -5,6 +5,8 @@
 <%# TODO: better link idiom %>
 <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
 
+<p><a href="/catalog?f[organization][]=<%= CGI::escape(@org.short_name)%>">All records</a></p>
+
 <% if @org.history_html %>
   <p>
     <%= @org.history_html.html_safe %>
