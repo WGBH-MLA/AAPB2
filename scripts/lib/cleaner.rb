@@ -68,6 +68,10 @@ class Cleaner
       )
     }
     
+    match(doc, '/pbcoreTitle[not(@titleType)]') { |node|
+      node.attributes['titleType'] = ''
+    }
+    
     @title_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
     
     # pbcoreDescription:
