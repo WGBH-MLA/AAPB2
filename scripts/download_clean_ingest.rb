@@ -58,18 +58,16 @@ if __FILE__ == $0
     abort "USAGE: --all | --back N | --dir DIR | --files FILE ..."
   end
   
-  files ||= Dir.entries(target_dir).reject{|file_name|
-    ['.','..'].include?(file_name)
-  }
+  files ||= Dir.entries(target_dir)
+    .reject{|file_name| ['.','..'].include?(file_name)}
+    .map{|file_name| "#{target_dir}/#{file_name}"}
     
-  files.each do |file_name|
-    
-    path = "#{target_dir}/#{file_name}"
+  files.each do |path|
     
     begin
       dirty_xml = File.read(path)
     rescue => e
-      puts "Failed to read #{path}: #{e.message}".red
+      puts "Failed to read #{path}: #{e.short}".red
       fails[:read] << path
       next
     end
@@ -77,7 +75,7 @@ if __FILE__ == $0
     begin
       clean_xml = cleaner.clean(dirty_xml,path)
     rescue => e
-      puts "Failed to clean #{path}: #{e.message}".red
+      puts "Failed to clean #{path}: #{e.short}".red
       fails[:clean] << path
       next
     end
@@ -85,15 +83,15 @@ if __FILE__ == $0
     begin
       pbcore = ingester.ingest_xml(clean_xml)
     rescue PBCoreIngester::ValidationError => e
-      puts "Failed to validate #{path}: #{e.message}".red
+      puts "Failed to validate #{path}: #{e.short}".red
       fails[:validate] << path
       next
     rescue PBCoreIngester::SolrError => e
-      puts "Failed to add #{path}: #{e.message}".red
+      puts "Failed to add #{path}: #{e.short}".red
       fails[:add] << path
       next
     rescue => e
-      puts "Other error on #{path}: #{e.message}".red
+      puts "Other error on #{path}: #{e.short}".red
       fails[:other] << path
       next
     else

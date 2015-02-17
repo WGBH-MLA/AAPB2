@@ -49,11 +49,15 @@ class PBCoreIngester
   end
   
   class ChainedError < StandardError
+    # Sorry, this is more java-ish than ruby-ish,
+    # but downstream I want to distinguish different
+    # error types, AND I want to know the root cause.
+    # This makes that possible.
     def initialize(e)
       @base_error = e
     end
     def message
-      @base_error.message
+      @base_error.message + "\n" + @base_error.backtrace[0..2].join("\n") + "\n..."
     end
   end
   class ReadError < ChainedError
