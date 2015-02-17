@@ -165,8 +165,8 @@ class PBCore
     def duration
       @duration ||= optional('instantiationDuration')
     end
-    def to_s
-      [media_type,duration].select{|x| x}.join(', ')
+    def to_a
+      [media_type,duration].select{|x| x}
     end
     private
     def optional(xpath)
@@ -213,8 +213,8 @@ class PBCore
         node ? node.value : nil
       end
     end
-    def to_s
-      [name,role,affiliation].select{|x| x}.join(', ')
+    def to_a
+      [name,role,affiliation].select{|x| x}
     end
   end
   
@@ -268,10 +268,14 @@ class PBCore
   # These methods are only used by to_solr.
   
   def text
-    ignores = [:text,:to_solr,:contribs,:img_src,:media_src]
-    @text ||= (PBCore.instance_methods(false)-ignores).reject{|method| method=~/\?$/}.map{|method| 
-      self.send(method)
-    }.select{|x| x}.flatten.map{|x| x.to_s}.uniq
+    ignores = [:text,:to_solr,:contribs,:img_src,:media_src,:rights_code]
+    @text ||= (PBCore.instance_methods(false)-ignores)
+      .reject{|method| method=~/\?$/} # skip booleans
+      .map{|method| self.send(method)} # method -> value
+      .select{|x| x} # skip nils
+      .flatten # flattens list accessors
+      .map{|x| x.respond_to?(:to_a) ? x.to_a : x} # get elements of compounds
+      .flatten.uniq
   end
   def contribs
     @contribs ||= 

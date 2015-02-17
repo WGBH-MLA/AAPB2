@@ -178,23 +178,8 @@ describe 'Catalog' do
     it 'contains expected data' do
       visit '/catalog/1234'
       expect(page.status_code).to eq(200)
-      [
-        'Gratuitous Explosions',
-        'Series NOVA', 
-        'somewhere else 5678', 'AAPB ID 1234',
-        'Best episode ever!',
-        'explosions -- gratuitious', 'musicals -- horror',
-        'Album',
-        'uncataloged 2000-01-01',
-        'Horror', 'Musical',
-        'Moving Image',
-        'WGBH',
-        'Copy Left: All rights reversed.',
-        'Moving Image', '0:12:34', 'Moving Image',
-        'Contributor Curly, Stooges, bald',
-        'Creator Larry, Stooges, balding',
-        'Publisher Moe, Stooges, hair' 
-      ].each do |field|
+      target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
+      target.send(:text).each do |field|
         expect(page).to have_text(field)
       end
       
