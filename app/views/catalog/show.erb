@@ -32,7 +32,7 @@
   <% end %>
 </div>
 
-<p><%= @pbcore.asset_type %></p>
+<p>Asset type: <%= @pbcore.asset_type %></p>
 
 <dl>
 <% @pbcore.asset_dates.each do |type,date| %>
@@ -41,10 +41,16 @@
 <% end %>
 </dl>
 
-<p><%= @pbcore.genres.join('; ') %></p>
-<p><%= @pbcore.media_type %></p>
+<p>Media type: <%= @pbcore.media_type %></p>
 
-<p><%= @pbcore.subjects.join('; ') %></p>
+<% if !@pbcore.genres.empty? %>
+  <p>Genres: <%= @pbcore.genres.join('; ') %></p>
+<% end %>
+  
+<% if !@pbcore.subjects.empty? %>
+  <p>Subjects: <%= @pbcore.subjects.join('; ') %></p>
+<% end %>
+  
 <!-- Coverage and affiliation when we have more data. -->
 
 <dl>
@@ -60,8 +66,10 @@
   <% end %>
 </dl>
 
-<p><%= @pbcore.rights_summary %></p>
-
+<% if @pbcore.rights_summary %>
+  <p>Rights: <%= @pbcore.rights_summary %></p>
+<% end %>
+  
 <dl>
   <% @pbcore.instantiations.each do |instantiation| %>
     <dt><%= instantiation.media_type %></dt>
