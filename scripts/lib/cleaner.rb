@@ -1,13 +1,13 @@
 require 'rexml/document'
 require 'set'
-require_relative '../app/models/vocab_map'
+require_relative '../../app/models/vocab_map'
 
 class Cleaner
   
   attr_reader :report
   
   def initialize
-    (File.dirname(File.dirname(__FILE__))+'/config/vocab-maps/').tap do |directory|
+    (File.dirname(File.dirname(File.dirname(__FILE__)))+'/config/vocab-maps/').tap do |directory|
       @asset_type_map = VocabMap.new(directory + 'asset-type-map.yml')
       @date_type_map = VocabMap.new(directory + 'date-type-map.yml')
       @title_type_map = VocabMap.new(directory + 'title-type-map.yml')

@@ -1,5 +1,5 @@
 require 'tmpdir'
-require_relative '../../scripts/downloader'
+require_relative '../../scripts/lib/downloader'
 
 describe Downloader, slow: true do
   

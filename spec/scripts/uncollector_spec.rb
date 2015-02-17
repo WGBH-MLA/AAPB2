@@ -1,4 +1,4 @@
-require_relative '../../scripts/uncollector'
+require_relative '../../scripts/lib/uncollector'
 
 describe Uncollector do
   
