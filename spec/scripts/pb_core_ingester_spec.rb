@@ -1,4 +1,4 @@
-require_relative '../../scripts/pb_core_ingester'
+require_relative '../../scripts/lib/pb_core_ingester'
 
 describe PBCoreIngester do
   

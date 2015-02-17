@@ -42,12 +42,7 @@ At this point you can
 
 - Run tests, skipping Ci tests: `rspec --tag ~not_on_travis`
 (If it's not 100% passing, let us know!)
-- Ingest the fixtures: `ruby scripts/pb_core_ingester.rb spec/fixtures/pbcore/clean-*.xml`
-- or... ingest recent updates from AMS: 
-```bash
-ruby scripts/download_clean_ingest.rb 3 # Records updated in the last 3 days
-ruby scripts/download_clean_ingest.rb   # All records from AMS
-```
+- Ingest the fixtures: `ruby scripts/download_clean_ingest.rb --files spec/fixtures/pbcore/clean-*.xml`
 - Start rails: `rails s`
 
 

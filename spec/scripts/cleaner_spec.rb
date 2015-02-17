@@ -1,4 +1,4 @@
-require_relative '../../scripts/cleaner'
+require_relative '../../scripts/lib/cleaner'
 require_relative '../../app/models/validated_pb_core'
 
 describe Cleaner do
