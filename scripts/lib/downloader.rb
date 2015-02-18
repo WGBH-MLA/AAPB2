@@ -1,7 +1,6 @@
 require 'net/http'
 require 'rexml/xpath'
 require 'rexml/document'
-require_relative 'uncollector'
 
 class Downloader
 

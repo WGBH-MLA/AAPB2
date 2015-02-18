@@ -1,4 +1,5 @@
 require_relative '../../scripts/lib/pb_core_ingester'
+require 'tmpdir'
 
 describe PBCoreIngester do
   
@@ -31,6 +32,20 @@ describe PBCoreIngester do
     expect_results(1)
     expect{@ingester.delete_all}.not_to raise_error
     expect_results(0)
+  end
+  
+  it 'works for collection' do
+    Dir.mktmpdir do |dir|
+      expect_results(0)
+      document = File.read(path)
+      collection = "<pbcoreCollection>#{document}</pbcoreCollection>"
+      collection_path = "#{dir}/collection.xml"
+      File.write(collection_path, collection)
+      expect{@ingester.ingest(collection_path)}.not_to raise_error
+      expect_results(1)
+      expect{@ingester.delete_all}.not_to raise_error
+      expect_results(0)
+    end
   end
   
   it 'works for all fixtures' do

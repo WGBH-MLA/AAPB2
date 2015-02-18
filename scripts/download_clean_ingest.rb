@@ -1,5 +1,4 @@
 require_relative 'lib/downloader'
-require_relative 'lib/uncollector'
 require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 
