@@ -2,6 +2,11 @@ require 'yaml'
 
 class VocabMap
 
+  def self.for(vocab)
+    path = File.dirname(File.dirname(File.dirname(__FILE__)))+"/config/vocab-maps/#{vocab}-type-map.yml"
+    VocabMap.new(path)
+  end
+  
   def initialize(path)
     @map = YAML.load_file(path)
     raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
