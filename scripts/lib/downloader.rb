@@ -14,8 +14,8 @@ class Downloader
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
       raise("Expected YYYYMMDD, not '#{since}'") unless match &&
         match[1].to_i < 3000 &&
-        match[2].to_i.tap{|m| (1 <= m) && (m <= 12)} &&
-        match[3].to_i.tap{|d| (1 <= d) && (d <= 31)}
+        match[2].to_i.instance_eval{|m| (1 <= m) && (m <= 12)} &&
+        match[3].to_i.instance_eval{|d| (1 <= d) && (d <= 31)}
     end
     @log = File.basename($0) == 'rspec' ? [] : STDOUT
   end
