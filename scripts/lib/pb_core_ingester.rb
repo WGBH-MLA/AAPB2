@@ -25,7 +25,16 @@ class PBCoreIngester
       raise ReadError.new(e)
     end
 
-    ingest_xml(xml)
+    case xml[0..100] # just look at the start of the file.
+    when /<pbcoreCollection/
+      Uncollector::uncollect_string(xml).each do |document|
+        ingest_xml(document)
+      end
+    when /<pbcoreDescriptionDocument/
+      ingest_xml(xml)
+    else
+      raise ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml[0..100]}")
+    end  
     
   end
   

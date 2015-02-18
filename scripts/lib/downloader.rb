@@ -51,14 +51,10 @@ class Downloader
   end
   
   def download_to_directory(page)
-    download(page) do |collection|
-      Uncollector::uncollect_string(collection).each do |pbcore|
-        doc = REXML::Document.new(pbcore)
-        id = REXML::XPath.match(doc, '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').first.text
-        name = "#{id.gsub('/','-')}.pbcore"
-        File.write(name, pbcore)
-        @log << "Wrote #{name}\n"
-      end
+    download(page) do |collection,page|
+      name = "page-#{page}.pbcore"
+      File.write(name, collection)
+      @log << "Wrote #{name}\n"
     end
   end
   
@@ -72,7 +68,7 @@ class Downloader
         return
       else
         @log << "Got page #{page}\n"
-        yield(content)
+        yield(content,page)
         page += 1
       end
     end
