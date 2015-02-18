@@ -46,6 +46,36 @@ At this point you can
 - Start rails: `rails s`
 
 
+# Deployment and Management
+
+**TODO**
+
+We are using AWS OpsWorks.
+
+**Deployment**
+- Get an AWS account.
+- Talk to one of us and get access to the AAPB OpsWorks stack: If you go to 
+https://console.aws.amazon.com/opsworks/home you should have an option for AAPB.
+- From the AAPB stack page, click on instances: You can redeploy from here.
+
+**Management**
+Once it's running, ingests of the latest data should be automatic. But to do it by hand...
+
+```bash
+$ ssh-keygen -t rsa -f opsworks
+$ mv opsworks* ~/.ssh
+$ chmod 400 ~/.ssh/opsworks
+$ cat ~/.ssh/opsworks.pub
+```
+Copy this public key, and then in OpsWorks, click on "My Settings" in the upper right,
+"Edit", paste in the "Public SSH Key", "Save", and then:
+```bash
+$ ssh -i ~/.ssh/opsworks USERNAME@54.167.213.134 # TODO: DNS
+$ cd /srv/www/aapb/current 
+$ # TODO: ingest script not working in production
+```
+
+
 # Configuration
 
 There are a number of things non-developers can tweak and submit PRs for:
