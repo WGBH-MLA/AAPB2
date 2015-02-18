@@ -36,12 +36,12 @@ if __FILE__ == $0
     case mode
       
     when '--all'
-      raise ArgumentError.new unless args.empty?
-      target_dir = Downloader::download_to_directory_and_link()
+      raise ArgumentError.new unless args.count < 2 && (args.first.to_i > 0 if args.first)
+      target_dir = Downloader::download_to_directory_and_link(page: args.first.to_i)
       
     when '--back'
       raise ArgumentError.new unless args.count == 1 && args.first.to_i > 0
-      target_dir = Downloader::download_to_directory_and_link(args.first.to_i)
+      target_dir = Downloader::download_to_directory_and_link(days: args.first.to_i)
       
     when '--dir'
       raise ArgumentError.new unless args.count == 1 && File.directory?(args.first)
@@ -55,7 +55,7 @@ if __FILE__ == $0
       raise ArgumentError.new
     end
   rescue ArgumentError
-    abort "USAGE: --all | --back N | --dir DIR | --files FILE ..."
+    abort "USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ..."
   end
   
   files ||= Dir.entries(target_dir)

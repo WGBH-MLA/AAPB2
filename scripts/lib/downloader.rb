@@ -12,7 +12,7 @@ class Downloader
   def initialize(since)
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
-      raise('USAGE: downloader.rb YYYYMMDD') unless match &&
+      raise("Expected YYYYMMDD, not '#{since}'") unless match &&
         match[1].to_i < 3000 &&
         match[2].to_i.tap{|m| (1 <= m) && (m <= 12)} &&
         match[3].to_i.tap{|d| (1 <= d) && (d <= 31)}
@@ -20,19 +20,22 @@ class Downloader
     @log = File.basename($0) == 'rspec' ? [] : STDOUT
   end
   
-  def self.download_to_directory_and_link(padding = nil)
-    since = padding ?
-      (Time.now-padding*24*60*60).strftime('%Y%m%d') :
+  def self.download_to_directory_and_link(args={})
+    raise("Unexpected keys: #{args}") unless [:days, :page].include?(args.keys)
+    args[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
+    since = args[:days] ?
+      (Time.now-args[:days]*24*60*60).strftime('%Y%m%d') :
       20000101 # ie, beginning of time.
     Dir.chdir(File.dirname(File.dirname(__FILE__)))
-    path = ['tmp','pbcore','download',"#{Time.now.strftime('%F_%T')}_since_#{since}"]
+    path = ['tmp','pbcore','download', #
+      "#{Time.now.strftime('%F_%T')}_since_#{since}_page_#{args[:page]}"]
     path.each do |dir|
       Dir.mkdir(dir) rescue nil # may already exist
       Dir.chdir(dir)
     end
 
     downloader = Downloader.new(since)
-    downloader.download_to_directory
+    downloader.download_to_directory(args[:page])
 
     Dir.chdir('..')
     link_name = 'LATEST'
@@ -47,8 +50,8 @@ class Downloader
     return File.absolute_path(link_name)
   end
   
-  def download_to_directory
-    download do |collection|
+  def download_to_directory(page)
+    download(page) do |collection|
       Uncollector::uncollect_string(collection).each do |pbcore|
         doc = REXML::Document.new(pbcore)
         id = REXML::XPath.match(doc, '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').first.text
@@ -59,8 +62,7 @@ class Downloader
     end
   end
   
-  def download
-    page = 1 # API is 1-indexed, but also returns page 1 results for page 0, so watch out.
+  def download(page)
     while true
       url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/modified_date/#{@since}/page/#{page}"
       @log << "Trying #{url}\n"

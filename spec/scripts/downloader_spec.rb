@@ -7,7 +7,7 @@ describe Downloader, slow: true do
     Dir.mktmpdir do |dir|
       Dir.chdir(dir) do |dir|
         count_before = Dir.entries(dir).count
-        Downloader.new((Time.now-7*24*60*60).strftime('%Y%m%d')).download_to_directory
+        Downloader.new((Time.now-7*24*60*60).strftime('%Y%m%d')).download_to_directory(1)
         count_after = Dir.entries(dir).count
 
         expect(count_before).to eq(2) # . and ..
