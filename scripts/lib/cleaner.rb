@@ -7,12 +7,10 @@ class Cleaner
   attr_reader :report
   
   def initialize
-    (File.dirname(File.dirname(File.dirname(__FILE__)))+'/config/vocab-maps/').tap do |directory|
-      @asset_type_map = VocabMap.new(directory + 'asset-type-map.yml')
-      @date_type_map = VocabMap.new(directory + 'date-type-map.yml')
-      @title_type_map = VocabMap.new(directory + 'title-type-map.yml')
-      @description_type_map = VocabMap.new(directory + 'description-type-map.yml')
-    end
+    @asset_type_map = VocabMap.for('asset')
+    @date_type_map = VocabMap.for('date')
+    @title_type_map = VocabMap.for('title')
+    @description_type_map = VocabMap.for('description')
     
     @report = {}
     def @report.to_s

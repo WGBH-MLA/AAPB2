@@ -68,10 +68,8 @@ class CatalogController < ApplicationController
     config.add_facet_field 'organization'
     config.add_facet_field 'year'
     
-    VocabMap.new(File.dirname(File.dirname(File.dirname(__FILE__)))+'/config/vocab-maps/title-type-map.yml').tap{|map|
-      map.authorized_names.each{|name|
-        config.add_facet_field "#{name.downcase.gsub(/\s/,'_')}_titles", show: false, label: name
-      }
+    VocabMap.for('title').authorized_names.each{|name|
+      config.add_facet_field "#{name.downcase.gsub(/\s/,'_')}_titles", show: false, label: name
     }
     
     
