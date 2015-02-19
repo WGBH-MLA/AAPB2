@@ -503,10 +503,10 @@
    
    <!-- TODO: turn off stored. -->
    <!-- default, catch all search field -->
-   <field name="text" type="text" indexed="true" stored="true" multiValued="true"/>
+   <field name="text" type="text" indexed="true" stored="false" multiValued="true"/>
    <!-- Available as search constraints -->
-   <field name="titles" type="text" indexed="true" stored="true" multiValued="true"/>
-   <field name="contribs" type="text" indexed="true" stored="true" multiValued="true"/>
+   <field name="titles" type="text" indexed="true" stored="false" multiValued="true"/>
+   <field name="contribs" type="text" indexed="true" stored="false" multiValued="true"/>
    
    <!-- format is used for facet, display, and choosing which partial to use for the show view, so it must be stored and indexed -->
    <!-- TODO: Is this being used? -->
@@ -533,63 +533,11 @@
           type="string" indexed="true" stored="true" multiValued="false"/>
    <field name="genres" 
           type="string" indexed="true" stored="true" multiValued="true"/>
+   <field name="access_types"
+          type="string" indexed="true" stored="true" multiValued="true"/>
    
    <dynamicField name="*_titles"
           type="string" indexed="true" stored="true" multiValued="true"/>
-   
-   <!-- Dynamic field definitions.  If a field name is not found, dynamicFields
-        will be used if the name matches any of the patterns.
-        RESTRICTION: the glob-like pattern in the name attribute must have
-        a "*" only at the start or the end.
-        EXAMPLE:  name="*_i" will match any field ending in _i (like myid_i, z_i)
-        Longer patterns will be matched first.  if equal size patterns
-        both match, the first appearing in the schema will be used.  -->
-   <!--
-   <dynamicField name="*_i"  type="int"    indexed="true"  stored="true"/>
-   <dynamicField name="*_s"  type="string"  indexed="true"  stored="true"/>
-   <dynamicField name="*_l"  type="long"   indexed="true"  stored="true"/>
-   <dynamicField name="*_t"  type="text"    indexed="true"  stored="true" multiValued="true"/>
-   <dynamicField name="*_txt" type="text_general"    indexed="true"  stored="true" multiValued="true"/>
-   <dynamicField name="*_b"  type="boolean" indexed="true"  stored="true"/>
-   <dynamicField name="*_f"  type="float"  indexed="true"  stored="true"/>
-   <dynamicField name="*_d"  type="double" indexed="true"  stored="true"/>
-   -->
-
-   <!-- Type used to index the lat and lon components for the "location" FieldType -->
-   <!--
-   <dynamicField name="*_coordinate"  type="tdouble" indexed="true"  stored="false"/>
-
-   <dynamicField name="*_dt" type="date"    indexed="true"  stored="true"/>
-   <dynamicField name="*_p"  type="location" indexed="true" stored="true"/>
-   -->
-   
-   <!-- some trie-coded dynamic fields for faster range queries -->
-   <!--
-   <dynamicField name="*_ti" type="tint"    indexed="true"  stored="true"/>
-   <dynamicField name="*_tl" type="tlong"   indexed="true"  stored="true"/>
-   <dynamicField name="*_tf" type="tfloat"  indexed="true"  stored="true"/>
-   <dynamicField name="*_td" type="tdouble" indexed="true"  stored="true"/>
-   <dynamicField name="*_tdt" type="tdate"  indexed="true"  stored="true"/>
-   
-   <dynamicField name="*_pi"  type="pint"    indexed="true"  stored="true"/>
-
-   <dynamicField name="ignored_*" type="ignored" multiValued="true"/>
-   <dynamicField name="attr_*" type="text_general" indexed="true" stored="true" multiValued="true"/>
-
-   <dynamicField name="random_*" type="random" />
-
-   <dynamicField name="*_display" type="string" indexed="false" stored="true" multiValued="true" />
-   <dynamicField name="*_facet" type="string" indexed="true" stored="false" multiValued="true" />
-   <dynamicField name="*_sort" type="alphaOnlySort" indexed="true" stored="false" multiValued="false" />
-   <dynamicField name="*_unstem_search" type="text_general" indexed="true" stored="false" multiValued="true" />
-   <dynamicField name="*spell" type="textSpell" indexed="true" stored="false" multiValued="true" />
-   -->
-
-   <!-- uncomment the following to ignore any fields that don't already match an existing 
-        field name or dynamic field, rather than reporting them as an error. 
-        alternately, change the type="ignored" to some other type e.g. "text" if you want 
-        unknown fields indexed and/or stored by default --> 
-   <!--dynamicField name="*" type="ignored" multiValued="true" /-->
    
  </fields>
 

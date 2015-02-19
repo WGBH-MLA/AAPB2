@@ -129,6 +129,12 @@ class PBCore
   def digitized?
     @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO get the right value
   end
+  def access_types
+    @access_types ||= ['All'].tap{|types|
+      types << 'Digitized' if digitized?
+      # TODO: distinguish if available off-site
+    }
+  end
 
   def to_solr
     {
@@ -150,7 +156,8 @@ class PBCore
       'media_type' => media_type,
       'genres' => genres,
       'asset_type' => asset_type,
-      'organization' => organization.short_name
+      'organization' => organization.short_name,
+      'access_types' => access_types
     }.merge(
       Hash[
         titles.group_by{|pair| pair[0]}.map{|key,pairs| 
