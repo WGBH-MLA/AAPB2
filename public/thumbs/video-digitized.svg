@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100px" height="100px" viewBox="0 0 100 100">
+  <defs>
+    <radialGradient id="g">
+      <stop offset="0%" stop-color="#EEE"/>
+      <stop offset="100%" stop-color="#AAA"/>
+    </radialGradient>
+  </defs>
+  <rect width="100" height="100" fill="url(#g)" />
+  <text x="0" y="50" 
+    font-family="Verdana" 
+    font-size="16"
+    style="font-weight: bold"
+    transform="rotate(-30 30,40)">
+    <tspan x="0" dy="0">Video</tspan>
+    <tspan x="-1em" dy="1em">DIGITIZED</tspan>
+  </text>
+</svg>
