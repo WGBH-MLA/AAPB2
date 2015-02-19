@@ -24,10 +24,10 @@ class Downloader
     args[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
     since = args[:days] ?
       (Time.now-args[:days]*24*60*60).strftime('%Y%m%d') :
-      20000101 # ie, beginning of time.
-    Dir.chdir(File.dirname(File.dirname(__FILE__)))
+      '20000101' # ie, beginning of time.
+    Dir.chdir(File.dirname(File.dirname(File.dirname(__FILE__))))
     path = ['tmp','pbcore','download', #
-      "#{Time.now.strftime('%F_%T')}_since_#{since}_page_#{args[:page]}"]
+      "#{Time.now.strftime('%F_%T')}_since_#{since}_starting_page_#{args[:page]}"]
     path.each do |dir|
       Dir.mkdir(dir) rescue nil # may already exist
       Dir.chdir(dir)

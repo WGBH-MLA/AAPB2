@@ -5,12 +5,13 @@ describe 'Organizations' do
 
   describe '#index' do
     it 'works' do
-      visit '/organizations'
+      visit '/participating-orgs'
       expect(page.status_code).to eq(200)
-      expect(page).to have_text('TODO: organizations list')
+      expect(page).to have_text('Participating Organizations')
       expect(page).to have_text('WGBH')
+      expect(page).to have_text('Boston, Massachusetts')
       
-      expect(page).to have_xpath('//a[@href="/organizations/1784.2"]')
+      expect(page).to have_xpath('//a[@href="/participating-orgs/1784.2"]')
       
       expect_fuzzy_xml
     end
@@ -18,7 +19,7 @@ describe 'Organizations' do
   
   describe '#show' do
     it 'works' do
-      visit '/organizations/1784.2'
+      visit '/participating-orgs/1784.2'
       expect(page.status_code).to eq(200)
       expect(page).to have_text('WGBH')
       expect(page).to have_text('Boston, Massachusetts')

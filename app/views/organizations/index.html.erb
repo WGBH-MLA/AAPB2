@@ -1,7 +1,21 @@
-TODO: organizations list
+<h1>Participating Organizations</h1>
 
-<ul>
-  <% @orgs.each do |org| %>
-    <li><a href="/organizations/<%= org.id %>"><%= org.short_name %></a></li>
+<% @orgs.group_by{|org| org.state}.tap do |state_list| %>
+  <p>
+    <%= state_list.keys.map{|state| "<a href='\##{state}'>#{state}</a>"}.join(' | ').html_safe %>
+  </p>
+
+  <% state_list.each do |state,orgs| %>
+    <a name="<%= state %>"></a>
+    <h2><%= state %></h2>
+
+    <% orgs.sort_by{|org| org.short_name}.each do |org| %>
+      <p>
+        <a href="/participating-orgs/<%= org.id %>"><%= org.short_name %></a><br/>
+        <%= "#{org.city}, #{org.state}" %>
+      </p>
+    <% end %>
+
+    <p><a href="#">Return to top</a></p>
   <% end %>
-</ul>
+<% end %>
