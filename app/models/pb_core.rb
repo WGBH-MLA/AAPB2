@@ -81,8 +81,22 @@ class PBCore
   end
   def img_src
     # ID may contain a slash, and that's ok.
-    # TODO!
-    @img_src ||= '/thumbnail-todo.svg' # "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    # TODO! "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    
+    @img_src ||= case [media_type,digitized?]
+    when [MOVING_IMAGE,true]
+      '/thumbs/video-digitized.svg'
+    when [MOVING_IMAGE,false]
+      '/thumbs/video-not-digitized.svg'
+    when [SOUND,true]
+      '/thumbs/audio-digitized.svg'
+    when [SOUND,false]
+      '/thumbs/audio-not-digitized.svg'
+    when [OTHER,true]
+      '/thumbs/other-digitized.svg'
+    when [OTHER,false]
+      '/thumbs/other-not-digitized.svg'
+    end
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
@@ -95,13 +109,14 @@ class PBCore
   end
   MOVING_IMAGE = 'Moving Image'
   SOUND = 'Sound'
+  OTHER = 'other'
   def media_type
     @media_type ||= begin
       media_types = xpaths('/*/pbcoreInstantiation/instantiationMediaType')
-      [MOVING_IMAGE, SOUND, 'other'].each {|type|
+      [MOVING_IMAGE, SOUND, OTHER].each {|type|
         return type if media_types.include? type
       }
-      return 'other' if media_types == [] # pbcoreInstantiation is not required, so this is possible
+      return OTHER if media_types == [] # pbcoreInstantiation is not required, so this is possible
       raise "Unexpected media types: #{media_types.uniq}"
     end
   end
@@ -111,7 +126,7 @@ class PBCore
   def audio?
     media_type == SOUND
   end
-  def digitized
+  def digitized?
     @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO get the right value
   end
 
