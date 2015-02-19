@@ -24,23 +24,9 @@ Install it as instructed.
 (TODO: This shouldn't be necessary, since we don't use the DB.
 [Issue #63](https://github.com/WGBH/AAPB2/issues/63))
 
-If you'll be interacting with [Sony Ci](http://developers.cimediacloud.com), you'll also need `config/ci.yml`.
-(This is git-ignored since it contains keys which are not public.)
-
-```yaml
-username: [your ci username]
-password: [your ci password]
-client_id: [32 character hexadecimal client ID]
-client_secret: [32 character hexadecimal client secret]
-workspace_id: [32 character hexadecimal workspace ID]
-```
-
-Use your personal workspace ID if you are working on the Ci code itself, or the 
-AAPB workspace ID if you want to view media that is stored.
-
 At this point you can
 
-- Run tests, skipping Ci tests: `rspec --tag ~not_on_travis`
+- Run tests (skipping Ci tests): `rspec --tag ~not_on_travis`
 (If it's not 100% passing, let us know!)
 - Ingest the fixtures: `ruby scripts/download_clean_ingest.rb --files spec/fixtures/pbcore/clean-*.xml`
 - Start rails: `rails s`
@@ -48,9 +34,14 @@ At this point you can
 
 # Deployment and Management
 
-**TODO**
+### Blog
 
-We are using AWS OpsWorks.
+The blog is hosted by Wordpress. Sadie and Casie are admins.
+
+
+### AWS OpsWorks deployment and management
+
+**TODO**
 
 **Deployment**
 - Get an AWS account.
@@ -75,6 +66,31 @@ $ cd /srv/www/aapb/current
 $ # TODO: ingest script not working in production
 ```
 
+### Sony Ci
+
+We are using [Sony Ci](http://developers.cimediacloud.com) to host the video and audio files.
+In the office we are using the Ci API to upload content, and on the server the API
+is used to generate transient download URLs. On either end, an additional 
+git-ignored configuration file (`config/ci.yml`) is necessary.
+
+```yaml
+username: [your ci username]
+password: [your ci password]
+client_id: [32 character hexadecimal client ID]
+client_secret: [32 character hexadecimal client secret]
+workspace_id: [32 character hexadecimal workspace ID]
+```
+
+Use your personal workspace ID if you are working on the Ci code itself, or the 
+AAPB workspace ID if you want to view media that is stored.
+
+To actually ingest:
+
+```bash
+$ echo /PATH/TO/FILES/* | xargs -n 10 ruby scripts/ci/ci.rb --log ~/ci_log.tab --up &
+$ # A big directory may have more files than ruby can accommodate as arguments, so xargs
+$ tail -f ~/ci_log.tab
+```
 
 # Configuration
 
