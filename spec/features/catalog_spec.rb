@@ -22,7 +22,7 @@ describe 'Catalog' do
     when 1
       expect(page).to have_text("1 entry found")
     else 
-      expect(page).to have_text("1 - #{count} of #{count}")
+      expect(page).to have_text("1 - #{[count,10].min} of #{count}")
     end
   end
   
@@ -92,7 +92,8 @@ describe 'Catalog' do
           ['genres','Interview',3],
           ['asset_type','Segment',5],
           ['organization','WGBH',1],
-          ['year','2000',1]
+          ['year','2000',1],
+          ['access_types','All',19]
         ]
         assertions.each_with_index do |(facet,value,count),index|
           url = "/catalog?f[#{facet}][]=#{value}"

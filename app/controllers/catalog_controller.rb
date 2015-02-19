@@ -67,6 +67,7 @@ class CatalogController < ApplicationController
     config.add_facet_field 'asset_type'
     config.add_facet_field 'organization'
     config.add_facet_field 'year'
+    config.add_facet_field 'access_types', label: 'Access'
     
     VocabMap.for('title').authorized_names.each{|name|
       config.add_facet_field "#{name.downcase.gsub(/\s/,'_')}_titles", show: false, label: name

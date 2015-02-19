@@ -77,7 +77,9 @@ describe 'Validated and plain PBCore' do
           "genres"=>["Horror", "Musical"],
           "asset_type"=>"Album", 
           "organization"=>"WGBH",
+          "access_types"=>["All"]
         },
+        access_types: ['All'],
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['uncataloged', '2000-01-01']],
