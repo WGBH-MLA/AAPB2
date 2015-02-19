@@ -1,17 +1,18 @@
 Rails.application.routes.draw do
   
-  id_includes_periods = { id: /.*/ } # So that IDs with periods are accepted.
+  id_glob = { id: /.*/ } # So that IDs with periods and slashes are accepted.
   
   root to: 'home#show'
   
   blacklight_for :catalog
   
-  resources 'organizations', 
-    constraints: id_includes_periods,
+  resources 'organizations',
+    path: '/participating-orgs', # for backwards compatibility.
+    constraints: id_glob,
     only: [:index, :show]
   
   resources 'media',
-    constraints: id_includes_periods,
+    constraints: id_glob,
     only: [:show]    
   
   get '/*path', to: 'override#show', constraints: lambda { |req| 
