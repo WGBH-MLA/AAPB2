@@ -290,7 +290,7 @@ class PBCore
   # These methods are only used by to_solr.
   
   def text
-    ignores = [:text,:to_solr,:contribs,:img_src,:media_src,:rights_code]
+    ignores = [:text,:to_solr,:contribs,:img_src,:media_src,:rights_code,:access_types]
     @text ||= (PBCore.instance_methods(false)-ignores)
       .reject{|method| method=~/\?$/} # skip booleans
       .map{|method| self.send(method)} # method -> value
