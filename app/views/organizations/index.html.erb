@@ -9,7 +9,7 @@
     <a name="<%= state %>"></a>
     <h2><%= state %></h2>
 
-    <% orgs.each do |org| %>
+    <% orgs.sort_by{|org| org.short_name}.each do |org| %>
       <p>
         <a href="/participating-orgs/<%= org.id %>"><%= org.short_name %></a><br/>
         <%= "#{org.city}, #{org.state}" %>
