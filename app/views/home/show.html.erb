@@ -1,267 +1,265 @@
-<!-- TODO: home page -->
-
 <!-- Welcome -->
 <div class="jumbotron home-jumbotron" id="welcome" style="background-color:#3c439b;">
-	<div class="container">
+  <div class="container">
 
-	 	<h1>Discover millions of historic programs from publicly funded radio and television stations across America. Watch and listen to thousands of them.</h1>
-	  
-	  	<!-- Panel - Search -->
-          <div class="panel panel-default" id="home-search">
+    <h1>Discover millions of historic programs from publicly funded radio and television stations across America. Watch and listen to thousands of them.</h1>
+
+    <!-- Panel - Search -->
+    <div class="panel panel-default" id="home-search">
+      <div class="panel-body">
+
+        <%= render partial: 'catalog/search_form'  %>
+
+      </div>
+    </div>
+    <!-- Panel -->
+
+    <!-- Well - Relative Home Nav -->
+    <div class="well well-sm sticky-well" data-spy="affix" data-offset-top="60">
+
+      <div class="btn-group btn-group-justified" role="group" aria-label="AAPB Homepage Sections">
+        <a class="btn btn-default" href="#stations" role="button">Stations</a>
+        <a class="btn btn-default" href="#collections" role="button">Collections</a>
+        <a class="btn btn-default" href="#staff" role="button">Staff Picks</a>
+      </div>
+
+    </div>
+    <!-- Wells -->
+
+    <!-- THis is the Feature Carousel for the homepage -->
+    <div id="feature-carousel" class="carousel slide home-carousel" data-ride="carousel" style="height:300px;">
+      <ol class="carousel-indicators">
+        <li data-target="#feature-carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#feature-carousel" data-slide-to="1" class=""></li>
+        <li data-target="#feature-carousel" data-slide-to="2" class=""></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+
+        <div class="item active" style="height:300px;">
+
+          <!-- Panel - Welcome Text Blocks -->
+          <div class="panel panel-default">
             <div class="panel-body">
 
-            		<%= render partial: 'catalog/search_form'  %>
+              <div class="list-group">
+                <a href="#" class="list-group-item active">
+                  <h3 class="list-group-item-heading">List group item heading</h3>
+                  <p class="list-group-item-text">Boston Public Library</p>
+                </a>
+                <a href="#" class="list-group-item">
+                  <h3 class="list-group-item-heading">List group item heading</h3>
+                  <p class="list-group-item-text">WGBH Open Vault</p>
+                </a>
+                <a href="#" class="list-group-item">
+                  <h3 class="list-group-item-heading">List group item heading</h3>
+                  <p class="list-group-item-text">Library of Congress</p>
+                </a>
+              </div>
 
             </div>
           </div>
           <!-- Panel -->
 
-          <!-- Well - Relative Home Nav -->
-			    <div class="well well-sm sticky-well" data-spy="affix" data-offset-top="60">
-
-			    	<div class="btn-group btn-group-justified" role="group" aria-label="AAPB Homepage Sections">
-			    		<a class="btn btn-default" href="#stations" role="button">Stations</a>
-			    		<a class="btn btn-default" href="#collections" role="button">Collections</a>
-			    		<a class="btn btn-default" href="#staff" role="button">Staff Picks</a>
-			    	</div>
-
-			    </div>
-			    <!-- Wells -->
-
-          <!-- THis is the Feature Carousel for the homepage -->
-	  	<div id="feature-carousel" class="carousel slide home-carousel" data-ride="carousel" style="height:300px;">
-        <ol class="carousel-indicators">
-          <li data-target="#feature-carousel" data-slide-to="0" class="active"></li>
-          <li data-target="#feature-carousel" data-slide-to="1" class=""></li>
-          <li data-target="#feature-carousel" data-slide-to="2" class=""></li>
-        </ol>
-        <div class="carousel-inner" role="listbox">
-
-          <div class="item active" style="height:300px;">
-			          		
-						<!-- Panel - Welcome Text Blocks -->
-						<div class="panel panel-default">
-							<div class="panel-body">
-
-								<div class="list-group">
-									<a href="#" class="list-group-item active">
-										<h3 class="list-group-item-heading">List group item heading</h3>
-										<p class="list-group-item-text">Boston Public Library</p>
-									</a>
-									<a href="#" class="list-group-item">
-										<h3 class="list-group-item-heading">List group item heading</h3>
-										<p class="list-group-item-text">WGBH Open Vault</p>
-									</a>
-									<a href="#" class="list-group-item">
-										<h3 class="list-group-item-heading">List group item heading</h3>
-										<p class="list-group-item-text">Library of Congress</p>
-									</a>
-								</div>
-
-							</div>
-						</div>
-						<!-- Panel -->
-
-          </div>
-
-          <div class="item" style="height:300px;">
-						<div class="carousel-caption">
-							<h3>Slide Two</h3>
-							<p>Beatiful flowers in Kolymbari, Crete.</p>
-						</div>
-          </div>
-
-          <div class="item" style="height:300px;">
-	          <div class="carousel-caption">
-							<h3>Slide Three</h3>
-							<p>Beatiful flowers in Kolymbari, Crete.</p>
-						</div>
-          </div>
-
         </div>
-        <a class="left carousel-control" href="#feature-carousel" role="button" data-slide="prev">
-          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="right carousel-control" href="#feature-carousel" role="button" data-slide="next">
-          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-      <!-- END Feature Carousel for the homepage -->
 
-      <hr>
-
-      <!-- Panel - Welcome Text Blocks -->
-          <div class="panel panel-default">
-            <div class="panel-body">
-
-      			<div class="list-group">
-				  <a href="#" class="list-group-item active">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">Boston Public Library</p>
-				  </a>
-				  <a href="#" class="list-group-item">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">WGBH Open Vault</p>
-				  </a>
-				  <a href="#" class="list-group-item">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">Library of Congress</p>
-				  </a>
-				</div>
-
-			</div>
+        <div class="item" style="height:300px;">
+          <div class="carousel-caption">
+            <h3>Slide Two</h3>
+            <p>Beatiful flowers in Kolymbari, Crete.</p>
           </div>
-          <!-- Panel -->
+        </div>
 
-	</div>
+        <div class="item" style="height:300px;">
+          <div class="carousel-caption">
+            <h3>Slide Three</h3>
+            <p>Beatiful flowers in Kolymbari, Crete.</p>
+          </div>
+        </div>
+
+      </div>
+      <a class="left carousel-control" href="#feature-carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#feature-carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+    <!-- END Feature Carousel for the homepage -->
+
+    <hr>
+
+    <!-- Panel - Welcome Text Blocks -->
+    <div class="panel panel-default">
+      <div class="panel-body">
+
+        <div class="list-group">
+          <a href="#" class="list-group-item active">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">Boston Public Library</p>
+          </a>
+          <a href="#" class="list-group-item">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">WGBH Open Vault</p>
+          </a>
+          <a href="#" class="list-group-item">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">Library of Congress</p>
+          </a>
+        </div>
+
+      </div>
+    </div>
+    <!-- Panel -->
+
+  </div>
 </div>
 <!-- END Welcome -->
 
 <!-- Institutions -->
 <div class="jumbotron home-jumbotron" id="stations" style="background-color:#ef3f37;">
-	<div class="container">
-	  <h1>Stations</h1>
-	  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+  <div class="container">
+    <h1>Stations</h1>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-	  <!-- Panel - Welcome Text Blocks -->
+    <!-- Panel - Welcome Text Blocks -->
     <div class="panel panel-default">
       <div class="panel-body">
 
-      	<div class="list-group">
-				  <a href="#" class="list-group-item active">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">Boston Public Library</p>
-				  </a>
-				  <a href="#" class="list-group-item">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">WGBH Open Vault</p>
-				  </a>
-				  <a href="#" class="list-group-item">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">Library of Congress</p>
-				  </a>
-				</div>
+        <div class="list-group">
+          <a href="#" class="list-group-item active">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">Boston Public Library</p>
+          </a>
+          <a href="#" class="list-group-item">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">WGBH Open Vault</p>
+          </a>
+          <a href="#" class="list-group-item">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">Library of Congress</p>
+          </a>
+        </div>
 
-			</div>
+      </div>
     </div>
     <!-- Panel -->
 
-		<!-- Well - Relative Home Nav -->
+    <!-- Well - Relative Home Nav -->
     <div class="well well-sm">
 
-    	<div class="btn-group" role="group" aria-label="...">
-    		<a class="btn btn-primary" href="#" role="button">View All Stations</a>
-    	</div>
+      <div class="btn-group" role="group" aria-label="...">
+        <a class="btn btn-primary" href="#" role="button">View All Stations</a>
+      </div>
 
-    	<div class="btn-group pull-right" role="group" aria-label="...">
-    		<a class="btn btn-default active" href="#stations" role="button">Stations</a>
-    		<a class="btn btn-default" href="#collections" role="button">Collections</a>
-    		<a class="btn btn-default" href="#staff" role="button">Staff Picks</a>
-    	</div>
+      <div class="btn-group pull-right" role="group" aria-label="...">
+        <a class="btn btn-default active" href="#stations" role="button">Stations</a>
+        <a class="btn btn-default" href="#collections" role="button">Collections</a>
+        <a class="btn btn-default" href="#staff" role="button">Staff Picks</a>
+      </div>
 
     </div>
     <!-- Wells -->
 
-	</div>
+  </div>
 </div>
 <!-- END Institutions -->
 
 <!-- Collections -->
 <div class="jumbotron home-jumbotron" id="collections" style="background-color:#9f2064;">
-	<div class="container">
-	  <h1>Collections</h1>
-	  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+  <div class="container">
+    <h1>Collections</h1>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-	  <!-- Panel - Welcome Text Blocks -->
-          <div class="panel panel-default">
-            <div class="panel-body">
+    <!-- Panel - Welcome Text Blocks -->
+    <div class="panel panel-default">
+      <div class="panel-body">
 
-      			<div class="list-group">
-				  <a href="#" class="list-group-item active">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">Boston Public Library</p>
-				  </a>
-				  <a href="#" class="list-group-item">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">WGBH Open Vault</p>
-				  </a>
-				  <a href="#" class="list-group-item">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">Library of Congress</p>
-				  </a>
-				</div>
+        <div class="list-group">
+          <a href="#" class="list-group-item active">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">Boston Public Library</p>
+          </a>
+          <a href="#" class="list-group-item">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">WGBH Open Vault</p>
+          </a>
+          <a href="#" class="list-group-item">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">Library of Congress</p>
+          </a>
+        </div>
 
-			</div>
+      </div>
     </div>
     <!-- Panel -->
 
     <!-- Well - Relative Home Nav -->
     <div class="well well-sm">
 
-    	<div class="btn-group" role="group" aria-label="...">
-    		<a class="btn btn-primary" href="#" role="button">View More Collections</a>
-    	</div>
+      <div class="btn-group" role="group" aria-label="...">
+        <a class="btn btn-primary" href="#" role="button">View More Collections</a>
+      </div>
 
-    	<div class="btn-group pull-right" role="group" aria-label="...">
-    		<a class="btn btn-default" href="#stations" role="button">Stations</a>
-    		<a class="btn btn-default active" href="#collections" role="button">Collections</a>
-    		<a class="btn btn-default" href="#staff" role="button">Staff Picks</a>
-    	</div>
+      <div class="btn-group pull-right" role="group" aria-label="...">
+        <a class="btn btn-default" href="#stations" role="button">Stations</a>
+        <a class="btn btn-default active" href="#collections" role="button">Collections</a>
+        <a class="btn btn-default" href="#staff" role="button">Staff Picks</a>
+      </div>
 
     </div>
     <!-- Wells -->
 
-	</div>
+  </div>
 </div>
 <!-- END Collections -->
 
 <!-- Institutions -->
 <div class="jumbotron home-jumbotron" id="staff" style="background-color:#90298e;">
-	<div class="container">
-	  <h1>Staff Picks</h1>
-	  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+  <div class="container">
+    <h1>Staff Picks</h1>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-	  <!-- Panel - Welcome Text Blocks -->
+    <!-- Panel - Welcome Text Blocks -->
     <div class="panel panel-default">
       <div class="panel-body">
 
-      	<div class="list-group">
-				  <a href="#" class="list-group-item active">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">Boston Public Library</p>
-				  </a>
-				  <a href="#" class="list-group-item">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">WGBH Open Vault</p>
-				  </a>
-				  <a href="#" class="list-group-item">
-				    <h3 class="list-group-item-heading">List group item heading</h3>
-				    <p class="list-group-item-text">Library of Congress</p>
-				  </a>
-				</div>
+        <div class="list-group">
+          <a href="#" class="list-group-item active">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">Boston Public Library</p>
+          </a>
+          <a href="#" class="list-group-item">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">WGBH Open Vault</p>
+          </a>
+          <a href="#" class="list-group-item">
+            <h3 class="list-group-item-heading">List group item heading</h3>
+            <p class="list-group-item-text">Library of Congress</p>
+          </a>
+        </div>
 
-			</div>
+      </div>
     </div>
     <!-- Panel -->
 
     <!-- Well - Relative Home Nav -->
     <div class="well well-sm">
 
-    	<div class="btn-group" role="group" aria-label="...">
-    		<a class="btn btn-primary" href="#" role="button">View More Staff Picks</a>
-    	</div>
+      <div class="btn-group" role="group" aria-label="...">
+        <a class="btn btn-primary" href="#" role="button">View More Staff Picks</a>
+      </div>
 
-    	<div class="btn-group pull-right" role="group" aria-label="...">
-    		<a class="btn btn-default" href="#stations" role="button">Stations</a>
-    		<a class="btn btn-default" href="#collections" role="button">Collections</a>
-    		<a class="btn btn-default active" href="#staff" role="button">Staff Picks</a>
-    	</div>
+      <div class="btn-group pull-right" role="group" aria-label="...">
+        <a class="btn btn-default" href="#stations" role="button">Stations</a>
+        <a class="btn btn-default" href="#collections" role="button">Collections</a>
+        <a class="btn btn-default active" href="#staff" role="button">Staff Picks</a>
+      </div>
 
     </div>
     <!-- Wells -->
 
-	</div>
+  </div>
 </div>
 <!-- END Institutions -->
