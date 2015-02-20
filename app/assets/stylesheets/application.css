@@ -14,71 +14,347 @@
  *= require_self
  */
 
-/* Button - Default */
-.btn-default {
-	color: #FFF;
-	background-color: #5d60ab;
-	border-color: #292a72;
+
+/* Body Styles */
+/*body { padding-top: 70px; }*/
+
+
+/*
+ * HEADER STYLES
+ */
+.header {}
+
+/*
+ * NAVIGATION STYLES
+ */
+
+.navbar {
+	background-color:#FFF;
+	border:none;
+	border-radius: 0;
 }
 
-	.btn-default:hover {
-		color: #FFF;
-		background-color: #3c439b;
-		border-color: #292a72;
+/*Main Nav*/
+ .main-nav {
+ 	margin-bottom:0;
+ }
+
+/*Secondary Nav*/
+.secondary-navbar {
+	background-color:#ececec;
+	min-height:32px !important;
+}
+
+	.secondary-navbar .navbar-nav > li > a {
+		padding-top:5px !important; 
+		padding-bottom:5px !important;
 	}
 
-/* Button - Primary */
-.btn-primary {
-	color: #fff;
-	background-color: #292a72;
-	border-color: #2e6da4;
+/*Logo*/
+#header-navbar .navbar-brand {
+	background: #000 url(../images/logo-mobile.png) no-repeat 0 0;
+	width: 50px;
+	height: 50px;
+	background-size: 100% auto;
+	margin-right: 0;
+	padding:0;
+	text-indent:-9999em;
 }
 
-/* Button - Success */
-.btn-success {
-	color: #fff;
-	background-color: #5cb85c;
-	border-color: #4cae4c;
+
+/*Search*/
+.navbar-search {
+	background-color:#FFF;
+	border: 1px solid #cccccc;
+	padding: 0;
 }
 
-/* Button - Info */
-.btn-info {
-	color: #3c439b;
-	background-color: #FFF;
-	border-color: #FFF;
+	.navbar-search .form-control,
+	.navbar-search .btn {
+		border: none;
+		border-radius: 0;
+		-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0);
+		box-shadow: inset 0 1px 1px rgba(0,0,0,0);
+		-webkit-transition: border-color ease-in-out 0, box-shadow ease-in-out 0;
+		-o-transition: border-color ease-in-out 0, box-shadow ease-in-out 0;
+		transition: border-color ease-in-out 0, box-shadow ease-in-out 0;
+	}
 
-	/*more custom*/
-	font-weight:bold;
-	text-transform:uppercase;
+		.navbar-search .form-control:focus {
+			outline:none;
+		}
+
+	/*Add on container*/
+	.navbar-search .input-group-addon {
+  	background-color:rgba(0,0,0,.08);
+  	border-color:transparent;
+  	border-radius:0;
+  	color:#666;
+  	padding:5px 0;
+  	width:20%;
+  }
+
+  	/*Select Box*/
+		.navbar-search .search_field {
+			border: 0;
+			width: 100%;
+			background-color: transparent;
+			padding:0;
+		}
+
+	.navbar-search .btn {
+		color:#333;
+		background-color:#FFF;
+	}
+
+		.navbar-search .btn:hover {
+			color:#0066CC;
+		}
+
+
+
+
+
+/*
+ * FOOTER STYLES
+ */
+
+.footer-links {
+	float:left; 
+	width:23%;
+	margin:0 1%;
+	background-color: transparent;
+	border: none;
+	border-radius: 0;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0);
+	box-shadow: 0 1px 1px rgba(0,0,0,0);
+}
+
+
+.footer-links > .panel-heading {
+	color: #666;
+	background-color: transparent;
+	border:none;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	padding: 5px 0;
+	
+}
+
+.footer-links .list-group-item {
+	padding: 5px 0;
+	margin-bottom: -1px;
+	background-color: transparent;
+	border: none;
+}
+
+.footer-links a,
+.footer-links a:active,
+.footer-links a:visited {
+	color:#666;
+}
+
+	.footer-links a:hover {
+		color:#9f2064;
+	}
+
+
+
+/* MISC Elements */
+		
+hr {
+    border: 0;
+    height: 1px;
+    background: #999;
+    background-image: -webkit-linear-gradient(left, #D3D3D3, #999, #D3D3D3); 
+    background-image:    -moz-linear-gradient(left, #D3D3D3, #999, #D3D3D3); 
+    background-image:     -ms-linear-gradient(left, #D3D3D3, #999, #D3D3D3); 
+    background-image:      -o-linear-gradient(left, #D3D3D3, #999, #D3D3D3); 
+}
+
+
+/*
+ * HOMEPAGE STYLES
+ */
+
+/* sets width for Homepage Container */
+.blacklight-home #main-container {
+	width:100%;
+}
+
+/* Remove border radius */
+.blacklight-home .jumbotron {
 	border-radius:0;
+	margin-bottom:0;
 }
 
-	.btn-info:hover {
-		color: #90298e;
-		background-color: #FFF;
-		border-color: #FFF;
+	/*Set .container width on Homepage Jumbotron*/
+	.blacklight-home .home-jumbotron .container {
+		width:800px;
 	}
 
-	/*Open Drop button*/
-	.open>.dropdown-toggle.btn-info {
-		color: #90298e;
-		background-color: #DEDEDE;
-		border-color: #DEDEDE;
+
+	/* Large HOmepage Search */
+	#home-search {
+		background-color:transparent;
+		border:none;
+		text-align:center;
+		padding:0;
 	}
 
-/* Button - Warning */
-.btn-warning {
-	color: #fff;
-	background-color: #ef3f37;
-	border-color: #eea236;
+		#home-search .panel-body {
+			padding:0;
+		}
 
-	/*more custom*/
-	border-radius:0;
+		/*Add on container*/
+		#home-search .input-group-addon {
+	  	background-color:rgba(255,255,255,.2);
+	  	border-color:transparent;
+	  	border-radius:0;
+	  	color:#FFF;
+	  	padding:10px 0;
+	  	width:20%;
+	  }
+
+			/*Select Box*/
+			#home-search .search_field {
+				border: 0;
+				width: 100%;
+				background-color: transparent;
+				padding:0;
+			}
+
+			/*The field*/
+			#home-search .form-control {
+				border: none;
+			}
+
+			/*BUtton*/
+			#home-search .search-btn {
+				border-radius:0;
+				text-transform:uppercase;
+			}
+
+
+
+
+
+/*INNER - THis is an element meant to contain other elements and center alin them according to the design*/
+.region {
+	margin:0 auto;
+	padding:0 10px;
 }
 
-/* Button - Danger */
-.btn-danger {
-	color: #fff;
-	background-color: #bf202f;
-	border-color: #CC0000;
-}
+
+	/* **********
+	 BREAKPOINTS 
+	 ********** */
+
+
+/* -------------------- */
+/* BREAKPOINTS ---------- */
+/* -------------------- */
+
+/* Tablet ---------- */
+@media (min-width: 768px) {
+
+	/* INNER */
+	.region {
+		padding:0;
+		width:750px;
+	}
+
+
+	/*
+	 * HEADER STYLES
+	 */
+	.header {
+		background:url(../images/aapb-site-sprite.png) repeat-x 0 0;
+		position:relative;
+		padding:70px 0 20px;
+	}
+
+	/* Primary Nav */
+
+	.primary-nav.navbar-nav > li > a {
+		color:#3c439b;
+		font-size:1.4em;
+		font-weight:700;
+	}
+
+
+	/* Secondary NAvigation */
+	.secondary-nav {
+		background-color:#DEDEDE;
+		height:50px;
+		position:absolute;
+		right:0;
+		top:-65px;
+		text-align:center;
+		width:100%;
+		z-index:1;
+	}
+
+		.secondary-nav .navbar-nav {
+			display:inline-block;
+			float:none;
+			margin:0 auto;
+		}
+
+}/* END: Tablet ---------- */
+
+/* Desktop ---------- */
+@media (min-width: 992px) {
+
+	/* INNER */
+	.region {
+		padding:0;
+		width:970px;
+	}
+
+
+	/*Logo*/
+	#header-navbar .navbar-brand {
+		width: 310px;
+		height: 50px;
+	}
+
+	/*Primary NAv*/
+	.primary-nav.navbar-nav > li > a {
+	}
+
+	/* Secondary NAvigation */
+	.secondary-nav {
+		background-color:transparent;
+		width:auto;
+	}
+
+		.secondary-nav .navbar-nav {
+			display:inline-block;
+			margin:0 auto;
+		}
+
+
+}/* END: Desktop ---------- */
+
+/* Wide Desktop ---------- */
+@media (min-width: 1200px) {
+
+	/* INNER */
+	.region {
+		padding:0;
+		width:1170px;
+	}
+/* END: Wide Desktop ---------- */
+
+
+	.clearfix:after {
+		visibility: hidden;
+		display: block;
+		font-size: 0;
+		content: " ";
+		clear: both;
+		height: 0;
+	}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
