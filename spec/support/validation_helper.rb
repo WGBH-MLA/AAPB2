@@ -6,8 +6,9 @@ module ValidationHelper
     xhtml = page.body
     # Kludge valid HTML5 to make it into valid XML.
     
-    # close meta tags
+    # self-close meta and hr tags
     xhtml.gsub!(/<(meta[^>]+[^\/])>/, '<\1/>')
+    xhtml.gsub!(/<hr>/, '<hr/>')
     
     # give values to attributes
     attribute_re = %q{(?:\\s+\\w+\\s*=\\s*(?:"[^"]*"|'[^']*'))}
