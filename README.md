@@ -129,4 +129,4 @@ in how data is pulled from PBCore for display, it does not require a re-index.
 
 # Data Flow
 
-![data flow diagram](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-data-flow.svg?v1)
+![data flow diagram](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-data-flow.svg?v2)
