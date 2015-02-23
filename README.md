@@ -7,7 +7,7 @@ For more information:
 - [Interim access portal](http://americanarchiveinventory.org/)
 
 The code is not yet deployed: Its home will be [americanarchive.org](http://americanarchive.org).
-(That is currently the blog.)
+(That currently redirects to the blog.)
 
 
 # Getting started
@@ -39,18 +39,19 @@ At this point you can
 The blog is hosted by Wordpress. Sadie and Casie are admins.
 
 
-### AWS OpsWorks deployment and management
+### AWS OpsWorks
 
 **TODO**
 
-**Deployment**
+#### Deployment
 - Get an AWS account.
 - Talk to one of us and get access to the AAPB OpsWorks stack: If you go to 
 https://console.aws.amazon.com/opsworks/home you should have an option for AAPB.
 - From the AAPB stack page, click on instances: You can redeploy from here.
 
-**Management**
-Once it's running, ingests of the latest data should be automatic. But to do it by hand...
+#### Management
+The goal is to have ingests of the latest data should be automatic. 
+But for now we need to log in...
 
 ```bash
 $ ssh-keygen -t rsa -f opsworks
@@ -63,8 +64,10 @@ Copy this public key, and then in OpsWorks, click on "My Settings" in the upper 
 ```bash
 $ ssh -i ~/.ssh/opsworks USERNAME@54.167.213.134 # TODO: DNS
 $ cd /srv/www/aapb/current 
-$ # TODO: ingest script not working in production
 ```
+At this point I installed RVM (described above) ... but this seems weird:
+Would it be better to use the same Ruby Rails is using?
+
 
 ### Sony Ci
 
@@ -92,6 +95,8 @@ $ # A big directory may have more files than ruby can accommodate as arguments, 
 $ tail -f ~/ci_log.tab
 ```
 
+**TODO**: How does the data get to the AMS?
+
 # Configuration
 
 There are a number of things non-developers can tweak and submit PRs for:
@@ -118,9 +123,8 @@ occurrences throughout the codebase.
 - We minimize the dependence of the view code on the Solr definitions by always
 pulling data to render from a `PBCore` object, rather than a Solr field.
 This does mean the search results page is a little slower, (about 0.1s when I timed it,)
-but it means that access is consistent in all contexts, key-value data structures
-are easier to work with, and if we do want to make a change in how data is pulled from
-PBCore, it does not require a re-index.
+but it means that access is consistent in all contexts, and if we do want to make a change 
+in how data is pulled from PBCore for display, it does not require a re-index.
 
 
 # Data Flow

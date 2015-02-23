@@ -8,7 +8,7 @@ class OverrideController < ApplicationController
         return
       end
     end
-    render_404
+    raise ActionController::RoutingError.new('404')
   end
   
 end
