@@ -80,22 +80,19 @@ class PBCore
     @media_src ||= ci_id ? "/media/#{id}" : nil
   end
   def img_src
-    # ID may contain a slash, and that's ok.
-    # TODO! "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
-    
     @img_src ||= case [media_type,digitized?]
     when [MOVING_IMAGE,true]
-      '/thumbs/video-digitized.svg'
+      '/thumbs/video-digitized.jpg' # TODO! "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
     when [MOVING_IMAGE,false]
-      '/thumbs/video-not-digitized.svg'
+      '/thumbs/video-not-digitized.jpg'
     when [SOUND,true]
-      '/thumbs/audio-digitized.svg'
+      '/thumbs/audio-digitized.jpg'
     when [SOUND,false]
-      '/thumbs/audio-not-digitized.svg'
+      '/thumbs/audio-not-digitized.jpg'
     when [OTHER,true]
-      '/thumbs/other-digitized.svg'
+      '/thumbs/other.jpg'
     when [OTHER,false]
-      '/thumbs/other-not-digitized.svg'
+      '/thumbs/other.jpg'
     end
   end
   def organization_pbcore_name
