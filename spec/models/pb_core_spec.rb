@@ -93,7 +93,7 @@ describe 'Validated and plain PBCore' do
         ids: [["AAPB ID", "1234"], ["somewhere else","5678"]],
         ci_id: nil,
         media_src: nil,
-        img_src: '/thumbs/video-not-digitized.svg', #TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
+        img_src: '/thumbs/video-not-digitized.jpg', #TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
         rights_code: 'PUBLIC',
