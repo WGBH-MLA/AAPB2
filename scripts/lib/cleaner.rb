@@ -25,7 +25,7 @@ class Cleaner
     end
   end
   
-  def clean(dirty_xml, name)
+  def clean(dirty_xml, name='not specified')
     dirty_xml.gsub!("xsi:xmlns='http://www.w3.org/2001/XMLSchema-instance'", "xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'")
     dirty_xml.gsub!("xmlns:xsi='xsi'","")
     doc = REXML::Document.new(dirty_xml)

@@ -9,7 +9,8 @@
             for bookmarks control depends on size. 
         -%>
         <h5 class="index_title col-sm-9 col-lg-10">
-            <%= link_to_document document, label: pbcore.title %>
+          <a href="/catalog/<%= pbcore.id %>"><%= pbcore.title %></a>
+          <%# Is there any advantage?: link_to_document document, label: pbcore.title %>
         </h5>
         
         <img src="<%= pbcore.img_src %>" alt="thumbnail of <%= pbcore.title %>"/>
