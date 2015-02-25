@@ -2,6 +2,7 @@ require 'rsolr'
 require 'date' # NameError deep in Solrizer without this.
 require_relative '../../app/models/validated_pb_core'
 require_relative 'uncollector'
+require_relative 'cleaner'
 
 class PBCoreIngester
    
@@ -20,24 +21,29 @@ class PBCoreIngester
   
   def ingest(path)
 
+    cleaner = Cleaner.new()
+    
     begin
       xml = File.read(path)
     rescue => e
       raise ReadError.new(e)
     end
 
-    case xml[0..100] # just look at the start of the file.
+    xml_top = xml[0..100] # just look at the start of the file.
+    case xml_top
     when /<pbcoreCollection/
       Uncollector::uncollect_string(xml).each do |document|
-        ingest_xml(document)
+        ingest_xml(cleaner.clean(document))
       end
     when /<pbcoreDescriptionDocument/
-      ingest_xml(xml)
+      ingest_xml(cleaner.clean(xml))
     else
-      raise ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml[0..100]}")
+      raise ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
     end  
     
   end
+  
+  # TODO: private
   
   def ingest_xml(xml)
     
@@ -67,7 +73,9 @@ class PBCoreIngester
       @base_error = e
     end
     def message
-      @base_error.message + "\n" + @base_error.backtrace[0..2].join("\n") + "\n..."
+      @base_error.respond_to?(:message) ? 
+        (@base_error.message + "\n" + @base_error.backtrace[0..2].join("\n") + "\n...") :
+        @base_error
     end
   end
   class ReadError < ChainedError

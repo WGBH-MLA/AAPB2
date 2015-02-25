@@ -10,6 +10,9 @@ if __FILE__ == $0
     end
   end
   
+  class ParamsError < StandardError
+  end
+  
   class String
     def colorize(color_code)
       "\e[#{color_code}m#{self}\e[0m"
@@ -25,7 +28,6 @@ if __FILE__ == $0
   fails = {read: [], clean: [], validate: [], add: [], other: []}
   success = []
   
-  cleaner = Cleaner.new
   ingester = PBCoreIngester.new
   
   mode = ARGV.shift
@@ -35,25 +37,25 @@ if __FILE__ == $0
     case mode
       
     when '--all'
-      raise ArgumentError.new unless args.count < 2 && (args.first.to_i > 0 if args.first)
+      raise ParamsError.new unless args.count < 2 && (args.first.to_i > 0 if args.first)
       target_dir = Downloader::download_to_directory_and_link(page: args.first.to_i)
       
     when '--back'
-      raise ArgumentError.new unless args.count == 1 && args.first.to_i > 0
+      raise ParamsError.new unless args.count == 1 && args.first.to_i > 0
       target_dir = Downloader::download_to_directory_and_link(days: args.first.to_i)
       
     when '--dir'
-      raise ArgumentError.new unless args.count == 1 && File.directory?(args.first)
+      raise ParamsError.new unless args.count == 1 && File.directory?(args.first)
       target_dir = args.first
       
     when '--files'
-      raise ArgumentError.new if args.empty?
+      raise ParamsError.new if args.empty?
       files = args
       
     else
-      raise ArgumentError.new
+      raise ParamsError.new
     end
-  rescue ArgumentError
+  rescue ParamsError
     abort "USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ..."
   end
   
@@ -64,23 +66,11 @@ if __FILE__ == $0
   files.each do |path|
     
     begin
-      dirty_xml = File.read(path)
-    rescue => e
+      ingester.ingest(path)
+    rescue PBCoreIngester::ReadError => e
       puts "Failed to read #{path}: #{e.short}".red
       fails[:read] << path
       next
-    end
-    
-    begin
-      clean_xml = cleaner.clean(dirty_xml,path)
-    rescue => e
-      puts "Failed to clean #{path}: #{e.short}".red
-      fails[:clean] << path
-      next
-    end
-    
-    begin
-      pbcore = ingester.ingest_xml(clean_xml)
     rescue PBCoreIngester::ValidationError => e
       puts "Failed to validate #{path}: #{e.short}".red
       fails[:validate] << path
@@ -94,7 +84,7 @@ if __FILE__ == $0
       fails[:other] << path
       next
     else
-      puts "Successfully added '#{path}' (id:#{pbcore.id})".green
+      puts "Successfully added '#{path}'".green
       success << path
     end
     

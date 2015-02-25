@@ -1,6 +1,7 @@
 require 'net/http'
 require 'rexml/xpath'
 require 'rexml/document'
+require 'set'
 
 class Downloader
 
@@ -20,7 +21,7 @@ class Downloader
   end
   
   def self.download_to_directory_and_link(args={})
-    raise("Unexpected keys: #{args}") unless [:days, :page].include?(args.keys)
+    raise("Unexpected keys: #{args}") unless Set.new(args.keys).subset?(Set[:days, :page])
     args[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
     since = args[:days] ?
       (Time.now-args[:days]*24*60*60).strftime('%Y%m%d') :
@@ -38,12 +39,11 @@ class Downloader
 
     Dir.chdir('..')
     link_name = 'LATEST'
-    if File.exists?(link_name)
-      if File.symlink?(link_name)
-        File.unlink(link_name)
-      else
-        raise "Expected #{link_name} to be a link"
-      end
+    if File.symlink?(link_name)
+      File.unlink(link_name)
+    end
+    if File.exist?(link_name) # Does not return true for links! At least for me...
+      raise "Did not expect '#{link_name}'"
     end
     File.symlink(path.last,link_name)
     return File.absolute_path(link_name)
