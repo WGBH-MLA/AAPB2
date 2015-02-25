@@ -63,7 +63,7 @@ class PBCore
     @title ||= xpath('/*/pbcoreTitle[1]')
   end
   def id
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
+    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('/','-')
   end
   def ids
     @ids ||= begin
