@@ -63,7 +63,9 @@ class PBCore
     @title ||= xpath('/*/pbcoreTitle[1]')
   end
   def id
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('/','-')
+    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_','_/')
+    # AAPB IDs, frustratingly, include slashes. We don't expect to see underscore,
+    # so swap these two for a loss-less mapping. May revisit.
   end
   def ids
     @ids ||= begin
