@@ -37,7 +37,7 @@ if __FILE__ == $0
     case mode
       
     when '--all'
-      raise ParamsError.new unless args.count < 2 && (args.first.to_i > 0 if args.first)
+      raise ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
       target_dir = Downloader::download_to_directory_and_link(page: args.first.to_i)
       
     when '--back'
