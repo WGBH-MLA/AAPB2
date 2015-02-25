@@ -42,6 +42,7 @@ gem 'spring',        group: :development
 gem 'rubyzip'
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
+gem 'wordpress-client'
 
 gem 'blacklight'
 gem 'blacklight-gallery'
