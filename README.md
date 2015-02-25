@@ -64,9 +64,12 @@ Copy this public key, and then in OpsWorks, click on "My Settings" in the upper 
 ```bash
 $ ssh -i ~/.ssh/opsworks USERNAME@54.167.213.134 # TODO: DNS
 $ cd /srv/www/aapb/current 
+$ sudo su deploy
+$ ln -s ~/.bundler/aapb/ruby/2.1.0 ~/.gem/ruby/2.1.0
+$ ruby scripts/download_clean_ingest.rb SOMETHING
 ```
-At this point I installed RVM (described above) ... but this seems weird:
-Would it be better to use the same Ruby Rails is using?
+**TODO**: The directory symlinking is a kludge, but it works until we can figure out
+a better way of getting it to look in the right place for gems.
 
 
 ### Sony Ci
