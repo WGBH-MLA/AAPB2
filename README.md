@@ -66,10 +66,15 @@ $ ssh -i ~/.ssh/opsworks USERNAME@54.167.213.134 # TODO: DNS
 $ cd /srv/www/aapb/current 
 $ sudo su deploy
 $ ln -s ~/.bundler/aapb/ruby/2.1.0 ~/.gem/ruby/2.1.0
-$ ruby scripts/download_clean_ingest.rb SOMETHING
 ```
-**TODO**: The directory symlinking is a kludge, but it works until we can figure out
+**TODO**: The symlinking is a kludge, but it works until we can figure out
 a better way of getting it to look in the right place for gems.
+
+To download and ingest everthing (which will take a while):
+```bash
+$ nohup ruby scripts/download_clean_ingest.rb --all >> tmp/ingest.log 2>> tmp/ingest.err &
+$ cat tmp/ingest.err # to make sure it started without errors
+```
 
 
 ### Sony Ci
