@@ -63,10 +63,10 @@ class CatalogController < ApplicationController
     # 
     
     config.add_facet_field 'media_type'
-    config.add_facet_field 'genres', label: 'Genre'
+    config.add_facet_field 'genres', label: 'Genre', solr_params: { 'facet.limit' => 20 }
     config.add_facet_field 'asset_type'
-    config.add_facet_field 'organization'
-    config.add_facet_field 'year'
+    config.add_facet_field 'organization', sort: 'index'
+    config.add_facet_field 'year', sort: 'index'
     config.add_facet_field 'access_types', label: 'Access'
     
     VocabMap.for('title').authorized_names.each{|name|
