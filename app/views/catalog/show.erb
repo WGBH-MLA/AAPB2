@@ -11,7 +11,7 @@
 <h2>Titles</h2>
 
 <dl>
-  <% @pbcore.titles.reverse.each do |type,title| %>
+  <% @pbcore.titles.reverse_each do |type,title| %>
     <dt><%= type %></dt>
     <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
   <% end %>
@@ -30,24 +30,28 @@
   <% end %>
 </dl>
 
-<h2>Dates</h2>
+<% unless @pbcore.asset_dates.empty? %>
+  <h2>Dates</h2>
+  <dl>
+    <% @pbcore.asset_dates.each do |type,date| %>
+      <dt><%= type %></dt>
+      <dd><%= date %></dd>
+    <% end %>
+  </dl>
+<% end %>
+
 <dl>
-  <% @pbcore.asset_dates.each do |type,date| %>
-    <dt><%= type %></dt>
-    <dd><%= date %></dd>
+  <% if @pbcore.asset_type %>
+    <dt>Asset type</dt>
+    <dd><%= @pbcore.asset_type %></dd>
   <% end %>
-</dl>
 
-<dl>
-  <dt>Asset type</dt>
-  <dd><%= @pbcore.asset_type %></dd>
-
-  <% if !@pbcore.genres.empty? %>
+  <% unless @pbcore.genres.empty? %>
     <dt>Genres</dt>
     <dd><%= @pbcore.genres.join('; ') %></dd>
   <% end %>
 
-  <% if !@pbcore.subjects.empty? %>
+  <% unless @pbcore.subjects.empty? %>
     <dt>Subjects</dt>
     <dd><%= @pbcore.subjects.join('; ') %></dd>
   <% end %>
@@ -69,7 +73,7 @@
 
   <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
 
-  <% if @pbcore.instantiations.first %>
+  <% if @pbcore.instantiations.first && @pbcore.instantiations.first.duration %>
     <dt>Duration</dt>
     <dd><%= @pbcore.instantiations.first.duration %></dd>
   <% end %>
