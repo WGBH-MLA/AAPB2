@@ -63,13 +63,33 @@ Copy this public key, and then in OpsWorks, click on "My Settings" in the upper 
 "Edit", paste in the "Public SSH Key", "Save", and then:
 ```bash
 $ ssh -i ~/.ssh/opsworks USERNAME@54.167.213.134 # TODO: DNS
-$ cd /srv/www/aapb/current 
+$ cd /srv/www/aapb/current
+$ sudo chown deploy:apache /mnt/* # needed for the next section
 $ sudo su deploy
-$ ln -s ~/.bundler/aapb/ruby/2.1.0 ~/.gem/ruby/2.1.0
+$ bundle install
+$ rake jetty:start
 ```
-**TODO**: The symlinking is a kludge, but it works until we can figure out
-a better way of getting it to look in the right place for gems.
-
+The disk space that comes with an EC2 instance is ephemeral: not that we expect instances to go down, but still.
+So for downloading and indexing we have EBS volumes symlinked to the appropriate locations:
+```bash
+$ rm -rf tmp/pbcore/download
+$ ln -s /mnt/aapb-downloads tmp/pbcore/download
+$ rm -rf jetty/solr/blacklight-core/data/index
+$ ln -s /mnt/aapb-index jetty/solr/blacklight-core/data/index
+```
+At this point for the ingest script to work, we need a symlink to the gems. 
+There is probably a better way to do this:
+```bash
+$ mkdir -p ~/.gem/ruby # Might not exist?
+$ ln -s ~/.bundler/aapb/ruby/2.1.0 ~/.gem/ruby/2.1.0
+  # This should list everything bundle installed:
+$ ruby -e 'Gem.path.each{|dir|puts Dir["#{dir}/gems/*"]}'
+```
+Want to blow away the index before you start?
+```bash
+  # DELETES EVERYTHING!
+$ ruby -I . -e 'require "scripts/lib/pb_core_ingester"; PBCoreIngester.new.delete_all'
+```
 To download and ingest everthing (which will take a while):
 ```bash
 $ nohup ruby scripts/download_clean_ingest.rb --all >> tmp/ingest.log 2>> tmp/ingest.err &
