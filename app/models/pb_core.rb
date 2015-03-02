@@ -189,7 +189,9 @@ class PBCore
     def to_a
       [media_type,duration].select{|x| x}
     end
+
     private
+
     def optional(xpath)
       match = REXML::XPath.match(@rexml, xpath).first
       match ? match.text : nil
@@ -216,9 +218,7 @@ class PBCore
         role == other.role &&
         affiliation == other.affiliation
     end
-    def stem
-      @stem
-    end
+    attr_reader :stem
     def name
       @name ||= REXML::XPath.match(@rexml, @stem).first.text
     end

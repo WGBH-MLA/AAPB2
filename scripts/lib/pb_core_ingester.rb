@@ -21,8 +21,7 @@ class PBCoreIngester
   end
 
   def ingest(path)
-
-    cleaner = Cleaner.new()
+    cleaner = Cleaner.new
 
     begin
       xml = File.read(path)
@@ -42,13 +41,11 @@ class PBCoreIngester
     else
       raise ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
     end
-
   end
 
   # TODO: private
 
   def ingest_xml(xml)
-
     begin
       pbcore = ValidatedPBCore.new(xml)
     rescue => e
@@ -65,7 +62,6 @@ class PBCoreIngester
     @log << "#{Time.now}\tUpdated solr record #{pbcore.id}\n"
 
     pbcore
-
   end
 
   class ChainedError < StandardError

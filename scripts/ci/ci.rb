@@ -96,7 +96,7 @@ class Ci < CiCore
     def each
       limit = 5 # Small chunks so it's easy to spot windowing problems
       offset = 0
-      while true do
+      while true
         assets = list(limit, offset)
         break if assets.empty?
         assets.each{|asset| yield asset}
@@ -208,12 +208,14 @@ if __FILE__ == $0
 
     when ['recheck']
       raise ArgumentError.new if args['recheck'].empty?
-      args['recheck'].each{|file| File.foreach(file){|line|
-        line.chomp!
-        id = line.split("\t")[2]
-        detail = ci.detail(id).to_s.gsub("\n",' ')
-        puts line + "\t" + detail
-      }}
+      args['recheck'].each do |file|
+        File.foreach(file) do |line|
+          line.chomp!
+          id = line.split("\t")[2]
+          detail = ci.detail(id).to_s.gsub("\n",' ')
+          puts line + "\t" + detail
+        end
+      end
 
     else
       raise ArgumentError.new
