@@ -34,9 +34,6 @@ class Downloader
       Dir.chdir(dir)
     end
 
-    downloader = Downloader.new(since)
-    downloader.download_to_directory(args[:page])
-
     Dir.chdir('..')
     link_name = 'LATEST'
     if File.symlink?(link_name)
@@ -46,7 +43,12 @@ class Downloader
       raise "Did not expect '#{link_name}'"
     end
     File.symlink(path.last,link_name)
-    return File.absolute_path(link_name)
+    
+    Dir.chdir(link_name)
+    downloader = Downloader.new(since)
+    downloader.download_to_directory(args[:page])
+
+    return Dir.pwd
   end
   
   def download_to_directory(page)
