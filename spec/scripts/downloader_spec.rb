@@ -2,7 +2,7 @@ require 'tmpdir'
 require_relative '../../scripts/lib/downloader'
 
 describe Downloader, slow: true do
-  
+
   it 'works' do
     Dir.mktmpdir do |dir|
       Dir.chdir(dir) do |dir|
@@ -16,7 +16,7 @@ describe Downloader, slow: true do
       end
     end
   end
-  
+
   describe 'bad dates' do
     it 'catches small' do
       expect { Downloader.new('20000000') }.to raise_error

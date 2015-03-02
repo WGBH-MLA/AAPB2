@@ -3,7 +3,7 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/validation_helper'
 
 describe 'Catalog' do
-  
+
   include ValidationHelper
 
   before(:all) do
@@ -13,7 +13,7 @@ describe 'Catalog' do
     Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
       ingester.ingest(pbcore)
     end
-  end  
+  end
 
   def expect_count(count)
     case count
@@ -21,18 +21,18 @@ describe 'Catalog' do
       expect(page).to have_text("No entries found")
     when 1
       expect(page).to have_text("1 entry found")
-    else 
+    else
       expect(page).to have_text("1 - #{[count,10].min} of #{count}")
     end
   end
-  
+
   def expect_thumbnail(id)
     # TODO: "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
     # expect(page).to have_css("img[src='#{url}']")
   end
-  
+
   describe '#index' do
-    
+
     it 'can find one item' do
       visit '/catalog?search_field=all_fields&q=1234'
       expect(page.status_code).to eq(200)
@@ -49,9 +49,9 @@ describe 'Catalog' do
       expect_thumbnail(1234)
       expect_fuzzy_xml
     end
-    
+
     describe 'search constraints' do
-      
+
       describe 'title facets' do
         assertions = [
           ['f[series_titles][]=NOVA',1],
@@ -160,11 +160,11 @@ describe 'Catalog' do
           end
         end
       end
-    
+
     end
-      
+
   end
-  
+
   describe '.pbcore' do
     it 'works' do
       visit '/catalog/1234.pbcore'
@@ -173,9 +173,9 @@ describe 'Catalog' do
       expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
     end
   end
-  
+
   describe '#show' do
-    
+
     it 'contains expected data' do
       visit '/catalog/1234'
       expect(page.status_code).to eq(200)
@@ -183,10 +183,10 @@ describe 'Catalog' do
       target.send(:text).each do |field|
         expect(page).to have_text(field)
       end
-      
+
       expect_thumbnail(1234)
     end
-    
+
   end
 
   describe 'all fixtures' do
@@ -210,5 +210,5 @@ describe 'Catalog' do
       end
     end
   end
-  
+
 end
