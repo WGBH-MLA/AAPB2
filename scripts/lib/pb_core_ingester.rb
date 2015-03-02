@@ -10,6 +10,7 @@ class PBCoreIngester
   
   def initialize(url='http://localhost:8983/solr/')
     @solr = RSolr.connect(url: url) # TODO: read config/solr.yml
+    @log = File.basename($0) == 'rspec' ? [] : STDOUT
   end
   
   # TODO: maybe light session management? If we don't go in that direction, this should just be a module.
@@ -32,6 +33,7 @@ class PBCoreIngester
     xml_top = xml[0..100] # just look at the start of the file.
     case xml_top
     when /<pbcoreCollection/
+      @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
       Uncollector::uncollect_string(xml).each do |document|
         ingest_xml(cleaner.clean(document))
       end
@@ -59,6 +61,8 @@ class PBCoreIngester
     rescue => e
       raise SolrError.new(e)
     end
+    
+    @log << "#{Time.now}\tUpdated solr record #{pbcore.id}\n"
     
     pbcore
   

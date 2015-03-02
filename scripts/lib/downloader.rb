@@ -34,9 +34,6 @@ class Downloader
       Dir.chdir(dir)
     end
 
-    downloader = Downloader.new(since)
-    downloader.download_to_directory(args[:page])
-
     Dir.chdir('..')
     link_name = 'LATEST'
     if File.symlink?(link_name)
@@ -46,27 +43,40 @@ class Downloader
       raise "Did not expect '#{link_name}'"
     end
     File.symlink(path.last,link_name)
-    return File.absolute_path(link_name)
+    
+    Dir.chdir(link_name)
+    downloader = Downloader.new(since)
+    downloader.download_to_directory(args[:page])
+
+    return Dir.pwd
   end
   
   def download_to_directory(page)
     download(page) do |collection,page|
       name = "page-#{page}.pbcore"
       File.write(name, collection)
-      @log << "Wrote #{name}\n"
+      @log << "#{Time.now}\tWrote #{name}\n"
     end
   end
   
   def download(page)
     while true
       url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/modified_date/#{@since}/page/#{page}"
-      @log << "Trying #{url}\n"
-      content = Net::HTTP.get(URI.parse(url))
+      content = nil
+      while !content
+        begin
+          @log << "#{Time.now}\tTrying #{url}\n"
+          content = Net::HTTP.get(URI.parse(url))
+        rescue Net::ReadTimeout
+          @log << "#{Time.now}\tTimeout. Retrying in 10...\n"
+          sleep 10
+        end
+      end
       if content =~ /^<error>/
-        @log << "Paged past end of results: page #{page}\n"
+        @log << "#{Time.now}\tPaged past end of results: page #{page}\n"
         return
       else
-        @log << "Got page #{page}\n"
+        @log << "#{Time.now}\tGot page #{page}\n"
         yield(content,page)
         page += 1
       end
