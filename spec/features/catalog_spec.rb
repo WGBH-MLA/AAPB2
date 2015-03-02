@@ -101,10 +101,10 @@ describe 'Catalog' do
             visit url
             if index == 0
               expect(
-                page.all('.panel-heading[data-target]').map{|node|
+                page.all('.panel-heading[data-target]').map{ |node|
                   node['data-target'].gsub('#facet-','')
                 }
-              ).to eq(assertions.map{|a| a.first}) # coverage
+              ).to eq(assertions.map{ |a| a.first}) # coverage
             end
             expect(page.status_code).to eq(200)
             expect_count(count)
@@ -125,10 +125,10 @@ describe 'Catalog' do
             visit url
             if index == 0
               expect(
-                page.all('#search_field option').map{|node|
+                page.all('#search_field option').map{ |node|
                   node['value']
                 }
-              ).to eq(assertions.map{|a| a.first}) # coverage
+              ).to eq(assertions.map{ |a| a.first}) # coverage
             end
             expect(page.status_code).to eq(200)
             expect_count(count)
@@ -149,10 +149,10 @@ describe 'Catalog' do
             visit url
             if index == 0
               expect(
-                page.all('#sort-dropdown .dropdown-menu a').map{|node|
+                page.all('#sort-dropdown .dropdown-menu a').map{ |node|
                   node['href'].gsub(/.*sort=/,'')
                 }
-              ).to eq(assertions.map{|a| a.first}) # coverage
+              ).to eq(assertions.map{ |a| a.first}) # coverage
             end
             expect(page.status_code).to eq(200)
             expect(page.find('.document[1] .index_title').text).to eq(title)
