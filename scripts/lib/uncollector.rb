@@ -11,9 +11,9 @@ module Uncollector
 end
 
 if __FILE__ == $0
-  if ARGV.empty? 
+  if ARGV.empty?
     puts Uncollector.uncollect_string(ARGF.read).join("\n")
-  else 
+  else
     abort 'No args: supply xml through STDIN'
   end
 end

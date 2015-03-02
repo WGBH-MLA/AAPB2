@@ -13,7 +13,7 @@ module ExcelReader
         else
           params = []
           index = 0
-          REXML::XPath.match(row, 'Cell/Data').each do |data| 
+          REXML::XPath.match(row, 'Cell/Data').each do |data|
             index_attribute = data.parent.attributes['Index']
             if index_attribute
               index = index_attribute.to_i # 1-based

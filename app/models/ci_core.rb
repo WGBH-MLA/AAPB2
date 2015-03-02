@@ -7,22 +7,22 @@ class CiCore
   attr_reader :access_token
   attr_reader :verbose
   attr_reader :workspace_id
-  
+
   def initialize(opts={})
     unrecognized_opts = opts.keys - [:verbose, :credentials_path, :credentials]
     raise "Unrecognized options #{unrecognized_opts}" unless unrecognized_opts == []
-    
+
     @verbose = opts[:verbose] ? true : false
-    
+
     raise 'Credentials specified twice' if opts[:credentials_path] && opts[:credentials]
     raise 'No credentials given' if !opts[:credentials_path] && !opts[:credentials]
     credentials = opts[:credentials] || YAML.load_file(opts[:credentials_path])
-    
+
     credentials.keys.sort.tap { |actual|
       expected = ['username', 'password', 'client_id', 'client_secret', 'workspace_id'].sort
       raise "Expected #{expected} in ci credentials, not #{actual}" if actual != expected
     }
-    
+
     params = {
       'grant_type' => 'password',
       'client_id' => credentials['client_id'],
@@ -41,21 +41,21 @@ class CiCore
 
     @access_token = JSON.parse(curl.body_str)['access_token']
     raise 'OAuth failed' unless @access_token
-    
+
     @workspace_id = credentials['workspace_id']
   end
-  
+
   def download(asset_id)
     Downloader.new(self).download(asset_id)
   end
-  
+
   private
-  
+
   class CiClient
     # This class hierarchy might be excessive, but it gives us:
     # - a single place for the `perform` method
     # - and an isolated container for related private methods
-    
+
     def perform(curl, mime=nil)
       # TODO: Is this actually working?
       # curl.on_missing { |data| puts "4xx: #{data}" }
@@ -66,15 +66,15 @@ class CiCore
       curl.perform
     end
   end
-  
+
   class Downloader < CiClient
-    
+
     @@cache = {}
-    
+
     def initialize(ci)
       @ci = ci
     end
-    
+
     def download(asset_id)
       hit = @@cache[asset_id]
       if !hit || hit[:expires] < Time.now
@@ -86,7 +86,7 @@ class CiCore
       end
       @@cache[asset_id][:url]
     end
-    
+
   end
-  
+
 end

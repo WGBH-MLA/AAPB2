@@ -6,12 +6,12 @@ class VocabMap
     path = File.dirname(File.dirname(File.dirname(__FILE__)))+"/config/vocab-maps/#{vocab}-type-map.yml"
     VocabMap.new(path)
   end
-  
+
   def initialize(path)
     @map = YAML.load_file(path)
     raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
 
-    @case_map = Hash[@map.values.uniq.map{|value|[value.downcase,value]}]
+    @case_map = Hash[@map.values.uniq.map{|value| [value.downcase,value]}]
     raise "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
 
     hidden_keys = @map.select{|key,value| map_string(key)!=value}.keys
@@ -19,7 +19,7 @@ class VocabMap
 
     raise "No default mapping in #{path}" unless @map['']
   end
-  
+
   def authorized_names
     @map.values.uniq
   end
@@ -55,10 +55,10 @@ class VocabMap
     # returns no results if the title element was inserted just above. My suspicion is that
     # REXML doesn't fully update its internal representation of the parent after node insertions,
     # but forcing a full traversal with '//' gets the job done.
-    # 
+    #
     # THIS IS HORRIBLE!!!
 
-    if !nodes.empty?
+    unless nodes.empty?
       map_nodes(nodes)
       attribute_name = nodes.first.name
       nodes.each do |node|

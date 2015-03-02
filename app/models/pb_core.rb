@@ -44,7 +44,7 @@ class PBCore
     nil
   end
   def asset_type
-    @asset_type ||= xpath('/*/pbcoreAssetType') 
+    @asset_type ||= xpath('/*/pbcoreAssetType')
   rescue NoMatchError
     nil
   end
@@ -69,8 +69,8 @@ class PBCore
   end
   def ids
     @ids ||= begin
-      h = hash_by_type('/*/pbcoreIdentifier','@source') # TODO confirm multi-hash not necessary.
-      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map{|key,value|[key,value]}
+      h = hash_by_type('/*/pbcoreIdentifier', '@source') # TODO: confirm multi-hash not necessary.
+      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map{ |key, value| [key, value] }
       # Relabel AND put at front of list.
       # Map to pairs for consistency... but building the hash and just throwing it away?
     end
@@ -126,7 +126,7 @@ class PBCore
     media_type == SOUND
   end
   def digitized?
-    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO get the right value
+    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO: get the right value
   end
   def access_types
     @access_types ||= ['All'].tap{|types|
@@ -139,18 +139,18 @@ class PBCore
     {
       'id' => id,
       'xml' => @xml,
-      
+
       # constrained searches:
       'text' => text,
       'titles' => titles.map{|key,value| value},
       'contribs' => contribs,
-      
+
       # sort:
       'title' => title,
-      
+
       # sort and facet:
       'year' => year,
-      
+
       # facets:
       'media_type' => media_type,
       'genres' => genres,
@@ -159,13 +159,13 @@ class PBCore
       'access_types' => access_types
     }.merge(
       Hash[
-        titles.group_by{|pair| pair[0]}.map{|key,pairs| 
+        titles.group_by{|pair| pair[0]}.map{|key,pairs|
           ["#{key.downcase}_titles", pairs.map{|pair| pair[1]}]
         }
       ]
     )
   end
-  
+
   class Instantiation
     def initialize(rexml_or_media_type, duration=nil)
       if duration
@@ -189,13 +189,15 @@ class PBCore
     def to_a
       [media_type,duration].select{|x| x}
     end
+
     private
+
     def optional(xpath)
       match = REXML::XPath.match(@rexml, xpath).first
       match ? match.text : nil
     end
   end
-  
+
   class NameRoleAffiliation
     def initialize(rexml_or_stem, name=nil, role=nil, affiliation=nil)
       if name
@@ -216,9 +218,7 @@ class PBCore
         role == other.role &&
         affiliation == other.affiliation
     end
-    def stem
-      @stem
-    end
+    attr_reader :stem
     def name
       @name ||= REXML::XPath.match(@rexml, @stem).first.text
     end
@@ -238,12 +238,12 @@ class PBCore
       [name,role,affiliation].select{|x| x}
     end
   end
-  
+
   private
 
   class NoMatchError < StandardError
   end
-  
+
   def xpath(xpath)
     REXML::XPath.match(@doc, xpath).tap do |matches|
       if matches.length != 1
@@ -253,15 +253,15 @@ class PBCore
       end
     end
   end
-  
+
   def xpaths(xpath)
     REXML::XPath.match(@doc, xpath).map{|node| PBCore::text_from(node)}
   end
-  
+
   def self.text_from(node)
     (node.respond_to?('text') ? node.text : node.value).strip
   end
-  
+
   def pairs_by_type(element_xpath, attribute_xpath)
     REXML::XPath.match(@doc, element_xpath).map { |node|
       key = REXML::XPath.first(node, attribute_xpath)
@@ -271,13 +271,13 @@ class PBCore
       ]
     }
   end
-  
-  def hash_by_type(element_xpath, attribute_xpath)  
+
+  def hash_by_type(element_xpath, attribute_xpath)
     Hash[pairs_by_type(element_xpath, attribute_xpath)]
   end
 
 # TODO: If we can just iterate over pairs, we don't need either of these.
-#  
+#
 #  def multi_hash_by_type(element_xpath, attribute_xpath) # Not tested
 #    Hash[
 #      pairs_by_type(element_xpath, attribute_xpath).group_by{|(key,value)| key}.map{|key,pair_list|
@@ -285,9 +285,9 @@ class PBCore
 #      }
 #    ]
 #  end
-  
+
   # These methods are only used by to_solr.
-  
+
   def text
     ignores = [:text,:to_solr,:contribs,:img_src,:media_src,:rights_code,:access_types]
     @text ||= (PBCore.instance_methods(false)-ignores)
@@ -299,7 +299,7 @@ class PBCore
       .flatten.uniq
   end
   def contribs
-    @contribs ||= 
+    @contribs ||=
       # TODO: Cleaner xpath syntax?
       xpaths('/*/pbcoreCreator/creator') +
       xpaths('/*/pbcoreCreator/creator/@affiliation') +
@@ -311,5 +311,5 @@ class PBCore
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
   end
-  
+
 end
