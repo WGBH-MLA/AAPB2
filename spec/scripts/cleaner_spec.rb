@@ -8,7 +8,7 @@ describe Cleaner do
       hopefully_clean = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
       clean = Cleaner.new.clean(hopefully_clean,'hopefully')
       expect(clean).to eq hopefully_clean
-      expect{ValidatedPBCore.new(clean)}.not_to raise_error
+      expect { ValidatedPBCore.new(clean)}.not_to raise_error
     end
   end
   
@@ -29,7 +29,7 @@ describe Cleaner do
         report = File.read(path_report)
         expect(cleaner.report.to_s).to eq(report)
         
-        expect{ValidatedPBCore.new(clean)}.not_to raise_error
+        expect { ValidatedPBCore.new(clean)}.not_to raise_error
       end
     end
   end

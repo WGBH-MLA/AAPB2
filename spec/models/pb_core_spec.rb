@@ -10,7 +10,7 @@ describe 'Validated and plain PBCore' do
 
       Dir['spec/fixtures/pbcore/clean-*.xml'].each do |path|
         it "accepts #{File.basename(path)}" do
-          expect{ValidatedPBCore.new(File.read(path))}.not_to raise_error
+          expect { ValidatedPBCore.new(File.read(path))}.not_to raise_error
         end
       end
 
@@ -20,22 +20,22 @@ describe 'Validated and plain PBCore' do
 
       it 'rejects missing closing brace' do
         invalid_pbcore = pbc_xml.sub(/>\s*$/,'')
-        expect{ValidatedPBCore.new(invalid_pbcore)}.to raise_error(/missing tag start/)
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/missing tag start/)
       end
 
       it 'rejects missing closing tag' do
         invalid_pbcore = pbc_xml.sub(/<\/[^>]+>\s*$/,'')
-        expect{ValidatedPBCore.new(invalid_pbcore)}.to raise_error(/Missing end tag/)
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Missing end tag/)
       end
       
       it 'rejects missing namespace' do
         invalid_pbcore = pbc_xml.sub(/xmlns=['"][^'"]+['"]/,'')
-        expect{ValidatedPBCore.new(invalid_pbcore)}.to raise_error(/Element 'pbcoreDescriptionDocument': No matching global declaration/)
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Element 'pbcoreDescriptionDocument': No matching global declaration/)
       end
       
       it 'rejects unknown media types at creation' do
         invalid_pbcore = pbc_xml.gsub(/<instantiationMediaType>[^<]+<\/instantiationMediaType>/,'<instantiationMediaType>unexpected</instantiationMediaType>')
-        expect{ValidatedPBCore.new(invalid_pbcore)}.to raise_error(/Unexpected media types: \["unexpected"\]/)
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Unexpected media types: \["unexpected"\]/)
       end
       
     end

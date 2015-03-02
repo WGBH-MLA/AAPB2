@@ -19,10 +19,10 @@ describe Downloader, slow: true do
   
   describe 'bad dates' do
     it 'catches small' do
-      expect{Downloader.new('20000000')}.to raise_error
+      expect { Downloader.new('20000000') }.to raise_error
     end
     it 'catches big' do
-      expect{Downloader.new('20001332')}.to raise_error
+      expect { Downloader.new('20001332') }.to raise_error
     end
   end
 

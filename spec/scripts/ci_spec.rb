@@ -7,19 +7,19 @@ describe Ci, not_on_travis: true, slow: true do
   let(:aapb_workspace_id) {'051303c1c1d24da7988128e6d2f56aa9'} # we make sure NOT to use this.
   
   it 'requires credentials' do
-    expect{Ci.new}.to raise_exception('No credentials given')
+    expect { Ci.new }.to raise_exception('No credentials given')
   end
   
   it 'catches option typos' do
-    expect{Ci.new({typo: 'should be caught'})}.to raise_exception('Unrecognized options [:typo]')
+    expect { Ci.new({typo: 'should be caught'}) }.to raise_exception('Unrecognized options [:typo]')
   end
   
   it 'catches creditials specified both ways' do
-    expect{Ci.new({credentials: {}, credentials_path: {}})}.to raise_exception('Credentials specified twice')
+    expect { Ci.new({credentials: {}, credentials_path: {}}) }.to raise_exception('Credentials specified twice')
   end
   
   it 'catches missing credentials' do
-    expect{Ci.new({credentials: {}})}.to raise_exception(
+    expect { Ci.new({credentials: {}}) }.to raise_exception(
       'Expected ["client_id", "client_secret", "password", "username", "workspace_id"] in ci credentials, not []'
     )
   end
@@ -32,7 +32,7 @@ describe Ci, not_on_travis: true, slow: true do
       'username' => 'bad',
       'workspace_id' => 'bad'
     }
-    expect{Ci.new({credentials: bad_credentials})}.to raise_exception('OAuth failed')
+    expect { Ci.new({credentials: bad_credentials}) }.to raise_exception('OAuth failed')
   end
   
   it 'blocks some filetypes (small files)' do
@@ -42,7 +42,7 @@ describe Ci, not_on_travis: true, slow: true do
       ['js','html','rb'].each do |disallowed_ext|
         path = "#{dir}/file-name.#{disallowed_ext}"
         File.write(path, "content doesn't matter")
-        expect{ci.upload(path, log_path)}.to raise_exception(/Upload failed/)
+        expect { ci.upload(path, log_path) }.to raise_exception(/Upload failed/)
       end
       expect(File.read(log_path)).to eq('')
     end
@@ -105,7 +105,7 @@ describe Ci, not_on_travis: true, slow: true do
   
   def expect_upload(ci, path, log_path)
     basename = File.basename(path)
-    expect{ci.upload(path, log_path)}.not_to raise_exception
+    expect { ci.upload(path, log_path)}.not_to raise_exception
       
     expect(ci.list_names.count).to eq(1)
 
