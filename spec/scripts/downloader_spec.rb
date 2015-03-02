@@ -4,8 +4,8 @@ require_relative '../../scripts/lib/downloader'
 describe Downloader, slow: true do
 
   it 'works' do
-    Dir.mktmpdir do |dir|
-      Dir.chdir(dir) do |dir|
+    Dir.mktmpdir do |tmpdir|
+      Dir.chdir(tmpdir) do |dir|
         count_before = Dir.entries(dir).count
         days = 7 # There should be some new records in the past week.
         Downloader.new((Time.now-days*24*60*60).strftime('%Y%m%d')).download_to_directory(1)

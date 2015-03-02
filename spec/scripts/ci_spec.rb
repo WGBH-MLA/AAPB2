@@ -117,7 +117,7 @@ describe Ci, not_on_travis: true, slow: true do
     expect([detail['name'],detail['id']]).to eq([basename,id])
 
     before = Time.now
-    download_url = ci.download(id)
+    ci.download(id)
     middle = Time.now
     download_url = ci.download(id)
     after = Time.now

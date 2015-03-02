@@ -11,7 +11,7 @@ class VocabMap
     @map = YAML.load_file(path)
     raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
 
-    @case_map = Hash[@map.values.uniq.map{|value|[value.downcase,value]}]
+    @case_map = Hash[@map.values.uniq.map{|value| [value.downcase,value]}]
     raise "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
 
     hidden_keys = @map.select{|key,value| map_string(key)!=value}.keys
@@ -58,7 +58,7 @@ class VocabMap
     #
     # THIS IS HORRIBLE!!!
 
-    if !nodes.empty?
+    unless nodes.empty?
       map_nodes(nodes)
       attribute_name = nodes.first.name
       nodes.each do |node|

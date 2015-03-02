@@ -69,8 +69,8 @@ class PBCore
   end
   def ids
     @ids ||= begin
-      h = hash_by_type('/*/pbcoreIdentifier','@source') # TODO confirm multi-hash not necessary.
-      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map{|key,value|[key,value]}
+      h = hash_by_type('/*/pbcoreIdentifier', '@source') # TODO: confirm multi-hash not necessary.
+      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map{ |key, value| [key, value] }
       # Relabel AND put at front of list.
       # Map to pairs for consistency... but building the hash and just throwing it away?
     end
@@ -126,7 +126,7 @@ class PBCore
     media_type == SOUND
   end
   def digitized?
-    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO get the right value
+    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO: get the right value
   end
   def access_types
     @access_types ||= ['All'].tap{|types|
