@@ -1,5 +1,5 @@
-class OverrideController < ApplicationController  
-  
+class OverrideController < ApplicationController
+
   def show
     if params[:path] =~ /^[a-z0-9\/-]+$/i # paranoid about weird paths.
       override_file_path = "override/#{params[:path]}.html.erb"
@@ -10,5 +10,5 @@ class OverrideController < ApplicationController
     end
     raise ActionController::RoutingError.new('404')
   end
-  
+
 end

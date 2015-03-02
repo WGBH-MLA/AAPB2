@@ -3,16 +3,16 @@ require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 
 if __FILE__ == $0
-  
+
   class Exception
     def short
       self.message + "\n" + self.backtrace[0..2].join("\n")
     end
   end
-  
+
   class ParamsError < StandardError
   end
-  
+
   class String
     def colorize(color_code)
       "\e[#{color_code}m#{self}\e[0m"
@@ -24,47 +24,47 @@ if __FILE__ == $0
       colorize(32)
     end
   end
-  
+
   fails = {read: [], clean: [], validate: [], add: [], other: []}
   success = []
-  
+
   ingester = PBCoreIngester.new
-  
+
   mode = ARGV.shift
   args = ARGV
-  
+
   begin
     case mode
-      
+
     when '--all'
       raise ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
       target_dir = Downloader::download_to_directory_and_link(page: args.first.to_i)
-      
+
     when '--back'
       raise ParamsError.new unless args.count == 1 && args.first.to_i > 0
       target_dir = Downloader::download_to_directory_and_link(days: args.first.to_i)
-      
+
     when '--dir'
       raise ParamsError.new unless args.count == 1 && File.directory?(args.first)
       target_dir = args.first
-      
+
     when '--files'
       raise ParamsError.new if args.empty?
       files = args
-      
+
     else
       raise ParamsError.new
     end
   rescue ParamsError
     abort "USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ..."
   end
-  
+
   files ||= Dir.entries(target_dir)
     .reject{|file_name| ['.','..'].include?(file_name)}
     .map{|file_name| "#{target_dir}/#{file_name}"}
-    
+
   files.each do |path|
-    
+
     begin
       ingester.ingest(path)
     rescue PBCoreIngester::ReadError => e
@@ -87,16 +87,16 @@ if __FILE__ == $0
       puts "Successfully added '#{path}'".green
       success << path
     end
-    
+
   end
-  
+
   puts "SUMMARY"
-  
+
   puts "processed #{target_dir}" if target_dir
   fails.each{|type,list|
     puts "#{fails[type].count} failed to #{type}:\n#{fails[type].join("\n")}".red unless fails[type].empty?
   }
   puts "#{success.count} succeeded".green
-  
+
   puts "DONE"
 end

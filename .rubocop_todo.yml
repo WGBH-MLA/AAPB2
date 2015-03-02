@@ -363,11 +363,6 @@ Style/StringLiterals:
 Style/SymbolProc:
   Enabled: false
 
-# Offense count: 264
-# Cop supports --auto-correct.
-Style/TrailingWhitespace:
-  Enabled: false
-
 # Offense count: 1
 # Cop supports --auto-correct.
 # Configuration parameters: ExactNameMatch, AllowPredicates, AllowDSLWriters, Whitelist.
