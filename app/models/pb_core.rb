@@ -304,12 +304,12 @@ class PBCore
   def text
     ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types]
     @text ||= (PBCore.instance_methods(false) - ignores)
-      .reject { |method| method =~ /\?$/ } # skip booleans
-      .map { |method| self.send(method) } # method -> value
-      .select { |x| x } # skip nils
-      .flatten # flattens list accessors
-      .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
-      .flatten.uniq
+              .reject { |method| method =~ /\?$/ } # skip booleans
+              .map { |method| self.send(method) } # method -> value
+              .select { |x| x } # skip nils
+              .flatten # flattens list accessors
+              .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
+              .flatten.uniq
   end
 
   def contribs

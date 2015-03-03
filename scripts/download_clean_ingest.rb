@@ -62,8 +62,8 @@ if __FILE__ == $0
   end
 
   files ||= Dir.entries(target_dir)
-    .reject { |file_name| ['.', '..'].include?(file_name) }
-    .map { |file_name| "#{target_dir}/#{file_name}" }
+            .reject { |file_name| ['.', '..'].include?(file_name) }
+            .map { |file_name| "#{target_dir}/#{file_name}" }
 
   files.each do |path|
     begin

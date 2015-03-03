@@ -131,9 +131,9 @@ class Ci < CiCore
 
     def singlepart_upload(file)
       curl = "curl -s -XPOST '#{SINGLEPART_URI}'" +
-        " -H 'Authorization: Bearer #{@ci.access_token}'" +
-        " -F filename='@#{file.path}'" +
-        " -F metadata=\"{'workspaceId': '#{@ci.workspace_id}'}\""
+             " -H 'Authorization: Bearer #{@ci.access_token}'" +
+             " -F filename='@#{file.path}'" +
+             " -F metadata=\"{'workspaceId': '#{@ci.workspace_id}'}\""
       body_str = `#{curl}`
       @asset_id = JSON.parse(body_str)['assetId']
       fail "Upload failed: #{body_str}" unless @asset_id
