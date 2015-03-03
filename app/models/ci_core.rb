@@ -3,7 +3,6 @@ require 'curb'
 require 'json'
 
 class CiCore
-
   attr_reader :access_token
   attr_reader :verbose
   attr_reader :workspace_id
@@ -68,7 +67,6 @@ class CiCore
   end
 
   class Downloader < CiClient
-
     @@cache = {}
 
     def initialize(ci)
@@ -86,7 +84,5 @@ class CiCore
       end
       @@cache[asset_id][:url]
     end
-
   end
-
 end

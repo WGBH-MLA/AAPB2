@@ -326,5 +326,4 @@ class PBCore
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
   end
-
 end

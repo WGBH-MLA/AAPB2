@@ -1,7 +1,6 @@
 require 'rexml/document'
 
 module ValidationHelper
-
   def expect_fuzzy_xml
     xhtml = page.body
     # Kludge valid HTML5 to make it into valid XML.
@@ -19,7 +18,6 @@ module ValidationHelper
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
     raise "XML validation failed: '#{e}'\n#{numbered}"
   end
-
 end
 
 RSpec.configure do |c|

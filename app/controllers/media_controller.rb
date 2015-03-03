@@ -1,5 +1,4 @@
 class MediaController < ApplicationController
-
   include Blacklight::Catalog
 
   def show
@@ -11,5 +10,4 @@ class MediaController < ApplicationController
     # OAuth credentials expire: otherwise it would make sense to cache this instance.
     redirect_to ci.download(pbcore.ci_id)
   end
-
 end

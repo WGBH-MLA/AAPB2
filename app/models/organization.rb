@@ -51,5 +51,4 @@ class Organization
   def to_a
     [short_name, city, state]
   end
-
 end

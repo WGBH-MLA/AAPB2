@@ -32,5 +32,4 @@ class ValidatedPBCore < PBCore
     return if errors.empty?
     fail 'Method validation errors: ' + errors.join("\n")
   end
-
 end

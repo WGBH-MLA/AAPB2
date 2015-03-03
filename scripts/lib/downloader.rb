@@ -4,7 +4,6 @@ require 'rexml/document'
 require 'set'
 
 class Downloader
-
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
@@ -84,7 +83,6 @@ class Downloader
       end
     end
   end
-
 end
 
 if __FILE__ == $0

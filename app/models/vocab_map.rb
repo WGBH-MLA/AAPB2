@@ -1,7 +1,6 @@
 require 'yaml'
 
 class VocabMap
-
   def self.for(vocab)
     path = File.dirname(File.dirname(File.dirname(__FILE__))) + "/config/vocab-maps/#{vocab}-type-map.yml"
     VocabMap.new(path)
@@ -84,5 +83,4 @@ class VocabMap
   def self.delete(node)
     node.parent.elements.delete(node)
   end
-
 end

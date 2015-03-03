@@ -4,7 +4,6 @@ require 'json'
 require_relative '../../app/models/ci_core'
 
 class Ci < CiCore
-
   include Enumerable
 
   def upload(file_path, log_file)
@@ -50,7 +49,6 @@ class Ci < CiCore
   end
 
   class Detailer < CiClient
-
     def initialize(ci)
       @ci = ci
     end
@@ -61,11 +59,9 @@ class Ci < CiCore
       end
       JSON.parse(curl.body_str)
     end
-
   end
 
   class Deleter < CiClient
-
     def initialize(ci)
       @ci = ci
     end
@@ -75,11 +71,9 @@ class Ci < CiCore
         perform(c)
       end
     end
-
   end
 
   class Lister < CiClient
-
     include Enumerable
 
     def initialize(ci)
@@ -103,11 +97,9 @@ class Ci < CiCore
         offset += limit
       end
     end
-
   end
 
   class Uploader < CiClient
-
     def initialize(ci, path, log_path)
       @ci = ci
       @path = path
@@ -179,9 +171,7 @@ class Ci < CiCore
         perform(c)
       end
     end
-
   end
-
 end
 
 if __FILE__ == $0

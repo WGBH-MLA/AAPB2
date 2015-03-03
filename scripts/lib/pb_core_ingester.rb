@@ -5,7 +5,6 @@ require_relative 'uncollector'
 require_relative 'cleaner'
 
 class PBCoreIngester
-
   attr_reader :solr
 
   def initialize(url='http://localhost:8983/solr/')
@@ -85,5 +84,4 @@ class PBCoreIngester
   end
   class SolrError < ChainedError
   end
-
 end

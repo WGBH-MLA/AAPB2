@@ -1,7 +1,6 @@
 # -*- encoding : utf-8 -*-
 #
 class CatalogController < ApplicationController
-
   helper Openseadragon::OpenseadragonHelper
 
   include Blacklight::Catalog
@@ -168,5 +167,4 @@ class CatalogController < ApplicationController
       end
     end
   end
-
 end

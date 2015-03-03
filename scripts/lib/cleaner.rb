@@ -3,7 +3,6 @@ require 'set'
 require_relative '../../app/models/vocab_map'
 
 class Cleaner
-
   attr_reader :report
 
   def initialize
@@ -212,7 +211,6 @@ class Cleaner
   def self.delete(node)
     node.parent.elements.delete(node)
   end
-
 end
 
 if __FILE__ == $0
