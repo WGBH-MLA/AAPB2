@@ -3,7 +3,6 @@ require 'set'
 require_relative '../../app/models/vocab_map'
 
 class Cleaner
-
   attr_reader :report
 
   def initialize
@@ -15,7 +14,7 @@ class Cleaner
     @report = {}
     def @report.to_s
       out = ''
-      self.sort.each do |category,set|
+      sort.each do |category, set|
         out << "#{category}\n"
         set.sort.each do |member|
           out << "\t#{member}\n"
@@ -27,7 +26,7 @@ class Cleaner
 
   def clean(dirty_xml, name='not specified')
     dirty_xml.gsub!("xsi:xmlns='http://www.w3.org/2001/XMLSchema-instance'", "xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'")
-    dirty_xml.gsub!("xmlns:xsi='xsi'","")
+    dirty_xml.gsub!("xmlns:xsi='xsi'", '')
     doc = REXML::Document.new(dirty_xml)
     @current_name = name # A little bit icky, but makes the match calls simpler, rather than passing another parameter.
 
@@ -79,7 +78,7 @@ class Cleaner
     # pbcoreRelation:
 
     match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') { |node|
-       Cleaner.delete(node)
+      Cleaner.delete(node)
     }
 
     match_no_report(doc, '/pbcoreRelation') { |node|
@@ -92,7 +91,7 @@ class Cleaner
     # pbcoreCoverage:
 
     match(doc, '/pbcoreCoverage[coverageType[not(node())]]') { |node|
-       Cleaner.delete(node)
+      Cleaner.delete(node)
     }
 
     match_no_report(doc, '/pbcoreCoverage/coverageType') { |node|
@@ -118,8 +117,8 @@ class Cleaner
       Cleaner.insert_after_match(
         node,
         Cleaner.any('pbcore', %w(Description Genre Relation Coverage AudienceLevel AudienceRating Creator Contributor Publisher RightsSummary)),
-        REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
-                          'ON_LOCATION_ONLY' +
+        REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' \
+                          'ON_LOCATION_ONLY' \
                           '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
       )
     }
@@ -127,7 +126,7 @@ class Cleaner
     # pbcoreInstantiation:
 
     match(doc, '/pbcoreInstantiation[not(instantiationIdentifier)]') { |node|
-      node[0,0] = REXML::Element.new('instantiationIdentifier')
+      node[0, 0] = REXML::Element.new('instantiationIdentifier')
     }
 
     match(doc, '/pbcoreInstantiation/instantiationIdentifier[not(@source)]') { |node|
@@ -151,10 +150,10 @@ class Cleaner
     }
 
     match(doc, '/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
-      node.text='other'
+      node.text = 'other'
     }
 
-    match_no_report(doc,'/pbcoreInstantiation/instantiationLanguage') { |node|
+    match_no_report(doc, '/pbcoreInstantiation/instantiationLanguage') { |node|
       # TODO: report
       node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
       node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
@@ -180,20 +179,20 @@ class Cleaner
 
   def match(doc, xpath_fragment)
     @current_category = xpath_fragment # TODO: Is there a better way to get this into the each-scope?
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument'+xpath_fragment).each do |node|
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument' + xpath_fragment).each do |node|
       add_report(@current_category, @current_name)
       yield node
     end
   end
 
   def match_no_report(doc, xpath_fragment)
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument'+xpath_fragment).each do |node|
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument' + xpath_fragment).each do |node|
       yield node
     end
   end
 
   def self.any(pre, list)
-    list.map{|item| pre+item}.join('|')
+    list.map { |item| pre + item }.join('|')
   end
 
   def self.insert_after_match(doc, xpath, insert)
@@ -212,10 +211,9 @@ class Cleaner
   def self.delete(node)
     node.parent.elements.delete(node)
   end
-
 end
 
-if __FILE__ == $0
+if __FILE__ == $PROGRAM_NAME
   cleaner = Cleaner.new
   ARGV.each do |path|
     dirty_xml = File.read(path)

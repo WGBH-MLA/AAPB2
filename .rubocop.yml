@@ -1,1 +1,23 @@
 inherit_from: .rubocop_todo.yml
+
+# TODO: What's a better idiom?
+Style/MultilineBlockChain:
+  Enabled: false
+
+# Nice, but a bit esoteric
+Style/SymbolProc:
+  Enabled: false
+Style/WordArray:
+  MinSize: 6
+  
+Style/SpaceAroundEqualsInParameterDefault:
+  EnforcedStyle: no_space
+
+# Some exceptions
+Style/CommentIndentation:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - 'bin/**'
+    - 'db/schema.rb'

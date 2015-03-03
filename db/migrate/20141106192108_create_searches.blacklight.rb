@@ -3,7 +3,7 @@
 class CreateSearches < ActiveRecord::Migration
   def self.up
     create_table :searches do |t|
-      t.text  :query_params
+      t.text :query_params
       t.integer :user_id
       t.string :user_type
 

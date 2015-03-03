@@ -20,7 +20,7 @@ module ExcelReader
             else
               index += 1
             end
-            params[index-1] = data.text
+            params[index - 1] = data.text
           end
           key = params[key_column]
           begin
@@ -28,9 +28,9 @@ module ExcelReader
           rescue ArgumentError => e
             raise ArgumentError.new(e.message + " Row #{row_number}. #{params}. #{row}")
           end
-          [key,value]
+          [key, value]
         end
-      end.select{|x| x}
+      end.select { |x| x }
     ]
   end
 end

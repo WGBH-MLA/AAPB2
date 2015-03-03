@@ -1,5 +1,4 @@
 class OrganizationsController < ApplicationController
-
   def index
     @orgs = Organization.all
     render 'index'
@@ -9,5 +8,4 @@ class OrganizationsController < ApplicationController
     @org = Organization.find_by_id(params[:id])
     render 'show'
   end
-
 end

@@ -2,7 +2,6 @@ require 'rails_helper'
 require_relative '../support/validation_helper'
 
 describe 'Organizations' do
-
   describe '#index' do
     it 'works' do
       visit '/participating-orgs'
@@ -33,5 +32,4 @@ describe 'Organizations' do
       expect_fuzzy_xml
     end
   end
-
 end

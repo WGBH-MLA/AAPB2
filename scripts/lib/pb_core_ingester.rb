@@ -5,12 +5,11 @@ require_relative 'uncollector'
 require_relative 'cleaner'
 
 class PBCoreIngester
-
   attr_reader :solr
 
   def initialize(url='http://localhost:8983/solr/')
     @solr = RSolr.connect(url: url) # TODO: read config/solr.yml
-    @log = File.basename($0) == 'rspec' ? [] : STDOUT
+    @log = File.basename($PROGRAM_NAME) == 'rspec' ? [] : STDOUT
   end
 
   # TODO: maybe light session management? If we don't go in that direction, this should just be a module.
@@ -33,13 +32,13 @@ class PBCoreIngester
     case xml_top
     when /<pbcoreCollection/
       @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
-      Uncollector::uncollect_string(xml).each do |document|
+      Uncollector.uncollect_string(xml).each do |document|
         ingest_xml(cleaner.clean(document))
       end
     when /<pbcoreDescriptionDocument/
       ingest_xml(cleaner.clean(xml))
     else
-      raise ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
+      fail ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
     end
   end
 
@@ -72,6 +71,7 @@ class PBCoreIngester
     def initialize(e)
       @base_error = e
     end
+
     def message
       @base_error.respond_to?(:message) ?
         (@base_error.message + "\n" + @base_error.backtrace[0..2].join("\n") + "\n...") :
@@ -84,5 +84,4 @@ class PBCoreIngester
   end
   class SolrError < ChainedError
   end
-
 end

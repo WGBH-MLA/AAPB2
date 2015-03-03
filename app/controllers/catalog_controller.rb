@@ -1,7 +1,6 @@
 # -*- encoding : utf-8 -*-
 #
 class CatalogController < ApplicationController
-
   helper Openseadragon::OpenseadragonHelper
 
   include Blacklight::Catalog
@@ -16,21 +15,21 @@ class CatalogController < ApplicationController
     }
 
     # solr path which will be added to solr base url before the other solr params.
-    #config.solr_path = 'select'
+    # config.solr_path = 'select'
 
     # items to show per page, each number in the array represent another option to choose from.
-    #config.per_page = [10,20,50,100]
+    # config.per_page = [10,20,50,100]
 
     ## Default parameters to send on single-document requests to Solr. These settings are the Blackligt defaults (see SolrHelper#solr_doc_params) or
     ## parameters included in the Blacklight-jetty document requestHandler.
     #
-    #config.default_document_solr_params = {
+    # config.default_document_solr_params = {
     #  :qt => 'document',
     #  ## These are hard-coded in the blacklight 'document' requestHandler
     #  # :fl => '*',
     #  # :rows => 1
     #  # :q => '{!raw f=id v=$id}'
-    #}
+    # }
 
 #    Unused:
 #    # solr field configuration for search results/index views
@@ -38,8 +37,8 @@ class CatalogController < ApplicationController
 #    config.index.display_type_field = 'format'
 
     # solr field configuration for document/show views
-    #config.show.title_field = 'title_display'
-    #config.show.display_type_field = 'format'
+    # config.show.title_field = 'title_display'
+    # config.show.display_type_field = 'format'
 
     # solr fields that will be treated as facets by the blacklight application
     #   The ordering of the field names is the order of the display
@@ -69,10 +68,9 @@ class CatalogController < ApplicationController
     config.add_facet_field 'year', sort: 'index'
     config.add_facet_field 'access_types', label: 'Access'
 
-    VocabMap.for('title').authorized_names.each{|name|
-      config.add_facet_field "#{name.downcase.gsub(/\s/,'_')}_titles", show: false, label: name
-    }
-
+    VocabMap.for('title').authorized_names.each do|name|
+      config.add_facet_field "#{name.downcase.gsub(/\s/, '_')}_titles", show: false, label: name
+    end
 
 #    config.add_facet_field 'format', :label => 'Format'
 #    config.add_facet_field 'pub_date', :label => 'Publication Year', :single => true
@@ -89,7 +87,6 @@ class CatalogController < ApplicationController
 #       :years_10 => { :label => 'within 10 Years', :fq => "pub_date:[#{Time.now.year - 10 } TO *]" },
 #       :years_25 => { :label => 'within 25 Years', :fq => "pub_date:[#{Time.now.year - 25 } TO *]" }
 #    }
-
 
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
@@ -168,5 +165,4 @@ class CatalogController < ApplicationController
       end
     end
   end
-
 end

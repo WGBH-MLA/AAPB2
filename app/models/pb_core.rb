@@ -5,6 +5,7 @@ require 'solrizer'
 require_relative 'organization'
 
 class PBCore
+  # rubocop:disable Style/EmptyLineBetweenDefs
   def initialize(xml)
     @xml = xml
     @doc = REXML::Document.new xml
@@ -19,24 +20,24 @@ class PBCore
     @subjects ||= xpaths('/*/pbcoreSubject')
   end
   def contributors
-    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map{|rexml|
+    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do|rexml|
       NameRoleAffiliation.new(rexml)
-    }
+    end
   end
   def creators
-    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map{|rexml|
+    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map do|rexml|
       NameRoleAffiliation.new(rexml)
-    }
+    end
   end
   def publishers
-    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map{|rexml|
+    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map do|rexml|
       NameRoleAffiliation.new(rexml)
-    }
+    end
   end
   def instantiations
-    @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map{|rexml|
+    @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do|rexml|
       Instantiation.new(rexml)
-    }
+    end
   end
   def rights_summary
     @rights_summary ||= xpath('/*/pbcoreRightsSummary/rightsSummary')
@@ -49,7 +50,7 @@ class PBCore
     nil
   end
   def asset_dates
-    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate','@dateType')
+    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType')
   end
   def asset_date
     @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
@@ -57,20 +58,20 @@ class PBCore
     nil
   end
   def titles
-    @titles ||= pairs_by_type('/*/pbcoreTitle','@titleType')
+    @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
   def title
     @title ||= xpath('/*/pbcoreTitle[1]')
   end
   def id
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_','_/')
+    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')
     # AAPB IDs, frustratingly, include slashes. We don't expect to see underscore,
     # so swap these two for a loss-less mapping. May revisit.
   end
   def ids
     @ids ||= begin
       h = hash_by_type('/*/pbcoreIdentifier', '@source') # TODO: confirm multi-hash not necessary.
-      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map{ |key, value| [key, value] }
+      { 'AAPB ID' => h.delete('http://americanarchiveinventory.org') }.merge(h).map { |key, value| [key, value] }
       # Relabel AND put at front of list.
       # Map to pairs for consistency... but building the hash and just throwing it away?
     end
@@ -82,18 +83,18 @@ class PBCore
     @media_src ||= ci_id ? "/media/#{id}" : nil
   end
   def img_src
-    @img_src ||= case [media_type,digitized?]
-    when [MOVING_IMAGE,true]
+    @img_src ||= case [media_type, digitized?]
+    when [MOVING_IMAGE, true]
       '/thumbs/video-digitized.jpg' # TODO! "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
-    when [MOVING_IMAGE,false]
+    when [MOVING_IMAGE, false]
       '/thumbs/video-not-digitized.jpg'
-    when [SOUND,true]
+    when [SOUND, true]
       '/thumbs/audio-digitized.jpg'
-    when [SOUND,false]
+    when [SOUND, false]
       '/thumbs/audio-not-digitized.jpg'
-    when [OTHER,true]
+    when [OTHER, true]
       '/thumbs/other.jpg'
-    when [OTHER,false]
+    when [OTHER, false]
       '/thumbs/other.jpg'
     end
   end
@@ -112,11 +113,11 @@ class PBCore
   def media_type
     @media_type ||= begin
       media_types = xpaths('/*/pbcoreInstantiation/instantiationMediaType')
-      [MOVING_IMAGE, SOUND, OTHER].each {|type|
+      [MOVING_IMAGE, SOUND, OTHER].each do|type|
         return type if media_types.include? type
-      }
+      end
       return OTHER if media_types == [] # pbcoreInstantiation is not required, so this is possible
-      raise "Unexpected media types: #{media_types.uniq}"
+      fail "Unexpected media types: #{media_types.uniq}"
     end
   end
   def video?
@@ -129,11 +130,13 @@ class PBCore
     @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO: get the right value
   end
   def access_types
-    @access_types ||= ['All'].tap{|types|
+    @access_types ||= ['All'].tap do|types|
       types << 'Digitized' if digitized?
       # TODO: distinguish if available off-site
-    }
+    end
   end
+
+  # rubocop:enable Style/EmptyLineBetweenDefs
 
   def to_solr
     {
@@ -142,7 +145,7 @@ class PBCore
 
       # constrained searches:
       'text' => text,
-      'titles' => titles.map{|key,value| value},
+      'titles' => titles.map { |pair| pair.last },
       'contribs' => contribs,
 
       # sort:
@@ -159,9 +162,9 @@ class PBCore
       'access_types' => access_types
     }.merge(
       Hash[
-        titles.group_by{|pair| pair[0]}.map{|key,pairs|
-          ["#{key.downcase}_titles", pairs.map{|pair| pair[1]}]
-        }
+        titles.group_by { |pair| pair[0] }.map do|key, pairs|
+          ["#{key.downcase}_titles", pairs.map { |pair| pair[1] }]
+        end
       ]
     )
   end
@@ -175,19 +178,23 @@ class PBCore
         @rexml = rexml_or_media_type
       end
     end
+
     def ==(other)
       self.class == other.class &&
         media_type == other.media_type &&
         duration == other.duration
     end
+
     def media_type
       @media_type ||= optional('instantiationMediaType')
     end
+
     def duration
       @duration ||= optional('instantiationDuration')
     end
+
     def to_a
-      [media_type,duration].select{|x| x}
+      [media_type, duration].select { |x| x }
     end
 
     private
@@ -208,9 +215,10 @@ class PBCore
         @affiliation = affiliation
       else
         @rexml = rexml_or_stem
-        @stem = @rexml.name.gsub('pbcore','').downcase
+        @stem = @rexml.name.gsub('pbcore', '').downcase
       end
     end
+
     def ==(other)
       self.class == other.class &&
         stem == other.stem &&
@@ -218,24 +226,29 @@ class PBCore
         role == other.role &&
         affiliation == other.affiliation
     end
+
     attr_reader :stem
+
     def name
       @name ||= REXML::XPath.match(@rexml, @stem).first.text
     end
+
     def role
       @role ||= begin
         node = REXML::XPath.match(@rexml, "#{@stem}Role").first
         node ? node.text : nil
       end
     end
+
     def affiliation
       @affiliation ||= begin
         node = REXML::XPath.match(@rexml, "#{@stem}/@affiliation").first
         node ? node.value : nil
       end
     end
+
     def to_a
-      [name,role,affiliation].select{|x| x}
+      [name, role, affiliation].select { |x| x }
     end
   end
 
@@ -247,15 +260,15 @@ class PBCore
   def xpath(xpath)
     REXML::XPath.match(@doc, xpath).tap do |matches|
       if matches.length != 1
-        raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
+        fail NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
-        return PBCore::text_from(matches.first)
+        return PBCore.text_from(matches.first)
       end
     end
   end
 
   def xpaths(xpath)
-    REXML::XPath.match(@doc, xpath).map{|node| PBCore::text_from(node)}
+    REXML::XPath.match(@doc, xpath).map { |node| PBCore.text_from(node) }
   end
 
   def self.text_from(node)
@@ -263,13 +276,13 @@ class PBCore
   end
 
   def pairs_by_type(element_xpath, attribute_xpath)
-    REXML::XPath.match(@doc, element_xpath).map { |node|
+    REXML::XPath.match(@doc, element_xpath).map do |node|
       key = REXML::XPath.first(node, attribute_xpath)
       [
         key ? key.value : nil,
         node.text
       ]
-    }
+    end
   end
 
   def hash_by_type(element_xpath, attribute_xpath)
@@ -289,15 +302,16 @@ class PBCore
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text,:to_solr,:contribs,:img_src,:media_src,:rights_code,:access_types]
-    @text ||= (PBCore.instance_methods(false)-ignores)
-      .reject{|method| method=~/\?$/} # skip booleans
-      .map{|method| self.send(method)} # method -> value
-      .select{|x| x} # skip nils
-      .flatten # flattens list accessors
-      .map{|x| x.respond_to?(:to_a) ? x.to_a : x} # get elements of compounds
-      .flatten.uniq
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types]
+    @text ||= (PBCore.instance_methods(false) - ignores)
+              .reject { |method| method =~ /\?$/ } # skip booleans
+              .map { |method| send(method) } # method -> value
+              .select { |x| x } # skip nils
+              .flatten # flattens list accessors
+              .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
+              .flatten.uniq
   end
+
   def contribs
     @contribs ||=
       # TODO: Cleaner xpath syntax?
@@ -308,8 +322,8 @@ class PBCore
       xpaths('/*/pbcorePublisher/publisher') +
       xpaths('/*/pbcorePublisher/publisher/@affiliation')
   end
-  def year
-    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
-  end
 
+  def year
+    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+  end
 end
