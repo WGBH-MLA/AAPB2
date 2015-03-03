@@ -7,7 +7,7 @@ describe 'Media', not_on_travis: true do
 
   def safe_ci
     credentials_path = File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml'
-    ci = Ci.new({ credentials_path: credentials_path })
+    ci = Ci.new(credentials_path: credentials_path)
     fail 'Workspace must be empty' unless ci.list_names.empty?
     ci
   end

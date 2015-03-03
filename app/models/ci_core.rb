@@ -17,10 +17,10 @@ class CiCore
     fail 'No credentials given' if !opts[:credentials_path] && !opts[:credentials]
     credentials = opts[:credentials] || YAML.load_file(opts[:credentials_path])
 
-    credentials.keys.sort.tap { |actual|
+    credentials.keys.sort.tap do |actual|
       expected = ['username', 'password', 'client_id', 'client_secret', 'workspace_id'].sort
       fail "Expected #{expected} in ci credentials, not #{actual}" if actual != expected
-    }
+    end
 
     params = {
       'grant_type' => 'password',

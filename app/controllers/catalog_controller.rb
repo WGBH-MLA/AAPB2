@@ -68,10 +68,9 @@ class CatalogController < ApplicationController
     config.add_facet_field 'year', sort: 'index'
     config.add_facet_field 'access_types', label: 'Access'
 
-    VocabMap.for('title').authorized_names.each {|name|
+    VocabMap.for('title').authorized_names.each do|name|
       config.add_facet_field "#{name.downcase.gsub(/\s/, '_')}_titles", show: false, label: name
-    }
-
+    end
 
 #    config.add_facet_field 'format', :label => 'Format'
 #    config.add_facet_field 'pub_date', :label => 'Publication Year', :single => true
@@ -88,7 +87,6 @@ class CatalogController < ApplicationController
 #       :years_10 => { :label => 'within 10 Years', :fq => "pub_date:[#{Time.now.year - 10 } TO *]" },
 #       :years_25 => { :label => 'within 25 Years', :fq => "pub_date:[#{Time.now.year - 25 } TO *]" }
 #    }
-
 
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request

@@ -149,11 +149,9 @@ class Ci < CiCore
     end
 
     def initiate_multipart_upload(file)
-      params = JSON.generate({
-        'name' => File.basename(file),
-        'size' => file.size,
-        'workspaceId' => @ci.workspace_id
-      })
+      params = JSON.generate('name' => File.basename(file),
+                             'size' => file.size,
+                             'workspaceId' => @ci.workspace_id)
       curl = Curl::Easy.http_post(MULTIPART_URI, params) do |c|
         perform(c, 'application/json')
       end

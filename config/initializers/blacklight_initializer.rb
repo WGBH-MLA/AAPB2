@@ -5,7 +5,6 @@
 
 # Blacklight.secret_key = 'e664550f350a93a9027045fd880a48648345d072a0986389644dc57ba3ab69bdaa355c6c522ac2a9de63ef901e30395c3ae5dda39d7ec14f5c687c285595daff'
 
-
 module LoadXML
   def method_missing(method, *args, &block)
     if PBCore.instance_methods(false).include?(method)

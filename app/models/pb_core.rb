@@ -20,24 +20,24 @@ class PBCore
     @subjects ||= xpaths('/*/pbcoreSubject')
   end
   def contributors
-    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map {|rexml|
+    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do|rexml|
       NameRoleAffiliation.new(rexml)
-    }
+    end
   end
   def creators
-    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map {|rexml|
+    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map do|rexml|
       NameRoleAffiliation.new(rexml)
-    }
+    end
   end
   def publishers
-    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map {|rexml|
+    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map do|rexml|
       NameRoleAffiliation.new(rexml)
-    }
+    end
   end
   def instantiations
-    @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map {|rexml|
+    @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do|rexml|
       Instantiation.new(rexml)
-    }
+    end
   end
   def rights_summary
     @rights_summary ||= xpath('/*/pbcoreRightsSummary/rightsSummary')
@@ -113,9 +113,9 @@ class PBCore
   def media_type
     @media_type ||= begin
       media_types = xpaths('/*/pbcoreInstantiation/instantiationMediaType')
-      [MOVING_IMAGE, SOUND, OTHER].each {|type|
+      [MOVING_IMAGE, SOUND, OTHER].each do|type|
         return type if media_types.include? type
-      }
+      end
       return OTHER if media_types == [] # pbcoreInstantiation is not required, so this is possible
       fail "Unexpected media types: #{media_types.uniq}"
     end
@@ -130,10 +130,10 @@ class PBCore
     @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO: get the right value
   end
   def access_types
-    @access_types ||= ['All'].tap {|types|
+    @access_types ||= ['All'].tap do|types|
       types << 'Digitized' if digitized?
       # TODO: distinguish if available off-site
-    }
+    end
   end
 
   # rubocop:enable Style/EmptyLineBetweenDefs
@@ -162,9 +162,9 @@ class PBCore
       'access_types' => access_types
     }.merge(
       Hash[
-        titles.group_by { |pair| pair[0] }.map {|key, pairs|
+        titles.group_by { |pair| pair[0] }.map do|key, pairs|
           ["#{key.downcase}_titles", pairs.map { |pair| pair[1] }]
-        }
+        end
       ]
     )
   end
@@ -276,13 +276,13 @@ class PBCore
   end
 
   def pairs_by_type(element_xpath, attribute_xpath)
-    REXML::XPath.match(@doc, element_xpath).map { |node|
+    REXML::XPath.match(@doc, element_xpath).map do |node|
       key = REXML::XPath.first(node, attribute_xpath)
       [
         key ? key.value : nil,
         node.text
       ]
-    }
+    end
   end
 
   def hash_by_type(element_xpath, attribute_xpath)
