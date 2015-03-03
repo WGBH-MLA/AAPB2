@@ -126,37 +126,11 @@ Style/IndentHash:
 
 # Offense count: 2
 # Cop supports --auto-correct.
-Style/IndentationConsistency:
-  Enabled: false
-
-# Offense count: 4
-# Cop supports --auto-correct.
-# Configuration parameters: Width.
-Style/IndentationWidth:
-  Enabled: false
-
-# Offense count: 2
-# Cop supports --auto-correct.
 Style/InfiniteLoop:
-  Enabled: false
-
-# Offense count: 8
-# Cop supports --auto-correct.
-Style/LeadingCommentSpace:
-  Enabled: false
-
-# Offense count: 5
-# Cop supports --auto-correct.
-Style/LineEndConcatenation:
   Enabled: false
 
 # Offense count: 1
 Style/MultilineTernaryOperator:
-  Enabled: false
-
-# Offense count: 3
-# Cop supports --auto-correct.
-Style/NegatedIf:
   Enabled: false
 
 # Offense count: 16
@@ -168,11 +142,6 @@ Style/RaiseArgs:
 # Cop supports --auto-correct.
 # Configuration parameters: AllowMultipleReturnValues.
 Style/RedundantReturn:
-  Enabled: false
-
-# Offense count: 9
-# Cop supports --auto-correct.
-Style/RedundantSelf:
   Enabled: false
 
 # Offense count: 2
@@ -194,30 +163,4 @@ Style/SingleSpaceBeforeFirstArg:
 Style/SpaceAroundEqualsInParameterDefault:
   EnforcedStyle: no_space
 
-# Offense count: 20
-# Cop supports --auto-correct.
-# Configuration parameters: EnforcedStyle, EnforcedStyleForEmptyBraces, SupportedStyles.
-Style/SpaceInsideHashLiteralBraces:
-  Enabled: false
 
-# Offense count: 5
-# Cop supports --auto-correct.
-Style/SpaceInsideParens:
-  Enabled: false
-
-# Offense count: 7
-# Cop supports --auto-correct.
-Style/SpecialGlobalVars:
-  Enabled: false
-
-# Offense count: 5
-# Cop supports --auto-correct.
-# Configuration parameters: IgnoredMethods.
-Style/SymbolProc:
-  Enabled: false
-
-# Offense count: 9
-# Cop supports --auto-correct.
-# Configuration parameters: WordRegex.
-Style/WordArray:
-  MinSize: 6

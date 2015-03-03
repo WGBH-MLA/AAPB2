@@ -24,7 +24,7 @@ class ValidatedPBCore < PBCore
     errors = []
     (PBCore.instance_methods(false) - [:to_solr]).each do |method|
       begin
-        self.send(method)
+        send(method)
       rescue => e
         errors << e.message
       end

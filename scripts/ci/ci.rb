@@ -130,9 +130,9 @@ class Ci < CiCore
     MULTIPART_URI = 'https://io.cimediacloud.com/upload/multipart'
 
     def singlepart_upload(file)
-      curl = "curl -s -XPOST '#{SINGLEPART_URI}'" +
-             " -H 'Authorization: Bearer #{@ci.access_token}'" +
-             " -F filename='@#{file.path}'" +
+      curl = "curl -s -XPOST '#{SINGLEPART_URI}'" \
+             " -H 'Authorization: Bearer #{@ci.access_token}'" \
+             " -F filename='@#{file.path}'" \
              " -F metadata=\"{'workspaceId': '#{@ci.workspace_id}'}\""
       body_str = `#{curl}`
       @asset_id = JSON.parse(body_str)['assetId']
@@ -174,11 +174,11 @@ class Ci < CiCore
   end
 end
 
-if __FILE__ == $0
+if __FILE__ == $PROGRAM_NAME
   args = Hash[ARGV.slice_before { |a| a.match(/^--/) }.to_a.map { |a| [a[0].gsub(/^--/, ''), a[1..-1]] }] rescue {}
 
   ci = Ci.new(
-    #verbose: true,
+    # verbose: true,
     credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
 
   begin
@@ -193,7 +193,7 @@ if __FILE__ == $0
       args['down'].each { |id| puts ci.download(id) }
 
     when ['list']
-      fail ArgumentError.new if !args['list'].empty?
+      fail ArgumentError.new unless args['list'].empty?
       ci.each { |asset| puts "#{asset['name']}\t#{asset['id']}" }
 
     when ['recheck']

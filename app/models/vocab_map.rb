@@ -33,11 +33,11 @@ class VocabMap
     unless node.respond_to? 'text'
       # Make attribute node act like element node
       def node.text
-        self.element.attributes[self.name]
+        element.attributes[name]
         # self.value doesn't change when the value is reset. Agh.
       end
       def node.text=(s)
-        self.element.attributes[self.name] = s
+        element.attributes[name] = s
       end
     end
     node.text = map_string(node.text)

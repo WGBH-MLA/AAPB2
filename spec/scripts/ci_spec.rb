@@ -10,15 +10,15 @@ describe Ci, not_on_travis: true, slow: true do
   end
 
   it 'catches option typos' do
-    expect { Ci.new({typo: 'should be caught'}) }.to raise_exception('Unrecognized options [:typo]')
+    expect { Ci.new({ typo: 'should be caught' }) }.to raise_exception('Unrecognized options [:typo]')
   end
 
   it 'catches creditials specified both ways' do
-    expect { Ci.new({credentials: {}, credentials_path: {}}) }.to raise_exception('Credentials specified twice')
+    expect { Ci.new({ credentials: {}, credentials_path: {} }) }.to raise_exception('Credentials specified twice')
   end
 
   it 'catches missing credentials' do
-    expect { Ci.new({credentials: {}}) }.to raise_exception(
+    expect { Ci.new({ credentials: {} }) }.to raise_exception(
       'Expected ["client_id", "client_secret", "password", "username", "workspace_id"] in ci credentials, not []'
     )
   end
@@ -31,7 +31,7 @@ describe Ci, not_on_travis: true, slow: true do
       'username' => 'bad',
       'workspace_id' => 'bad'
     }
-    expect { Ci.new({credentials: bad_credentials}) }.to raise_exception('OAuth failed')
+    expect { Ci.new({ credentials: bad_credentials }) }.to raise_exception('OAuth failed')
   end
 
   it 'blocks some filetypes (small files)' do
@@ -95,7 +95,7 @@ describe Ci, not_on_travis: true, slow: true do
     workspace_id = YAML.load_file(credentials_path)['workspace_id']
     expect(workspace_id).to match(/^[0-9a-f]{32}$/)
     expect(workspace_id).not_to eq(aapb_workspace_id)
-    ci = Ci.new({credentials_path: credentials_path})
+    ci = Ci.new({ credentials_path: credentials_path })
     expect(ci.access_token).to match(/^[0-9a-f]{32}$/)
     expect(ci.list_names.count).to eq(0),
       "Expected workspace #{ci.workspace_id} to be empty, instead of #{ci.list_names}"

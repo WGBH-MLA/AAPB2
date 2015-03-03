@@ -2,11 +2,11 @@ require_relative 'lib/downloader'
 require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 
-if __FILE__ == $0
+if __FILE__ == $PROGRAM_NAME
 
   class Exception
     def short
-      self.message + "\n" + self.backtrace[0..2].join("\n")
+      message + "\n" + backtrace[0..2].join("\n")
     end
   end
 
@@ -27,7 +27,7 @@ if __FILE__ == $0
     end
   end
 
-  fails = {read: [], clean: [], validate: [], add: [], other: []}
+  fails = { read: [], clean: [], validate: [], add: [], other: [] }
   success = []
 
   ingester = PBCoreIngester.new

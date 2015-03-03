@@ -9,7 +9,7 @@ class PBCoreIngester
 
   def initialize(url='http://localhost:8983/solr/')
     @solr = RSolr.connect(url: url) # TODO: read config/solr.yml
-    @log = File.basename($0) == 'rspec' ? [] : STDOUT
+    @log = File.basename($PROGRAM_NAME) == 'rspec' ? [] : STDOUT
   end
 
   # TODO: maybe light session management? If we don't go in that direction, this should just be a module.

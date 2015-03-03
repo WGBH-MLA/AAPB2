@@ -11,14 +11,13 @@ class Downloader
   def initialize(since)
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
-      fail("Expected YYYYMMDD, not '#{since}'") unless (
+      fail("Expected YYYYMMDD, not '#{since}'") unless
         match &&
         match[1].to_i < 3000 &&
         match[2].to_i.instance_eval { |m| (1 <= m) && (m <= 12) } &&
         match[3].to_i.instance_eval { |d| (1 <= d) && (d <= 31) }
-      )
     end
-    @log = File.basename($0) == 'rspec' ? [] : STDOUT
+    @log = File.basename($PROGRAM_NAME) == 'rspec' ? [] : STDOUT
   end
 
   def self.download_to_directory_and_link(args={})
@@ -87,7 +86,7 @@ class Downloader
   end
 end
 
-if __FILE__ == $0
+if __FILE__ == $PROGRAM_NAME
   abort 'No args' unless ARGV.empty?
   Downloader::download_to_directory_and_link
 end

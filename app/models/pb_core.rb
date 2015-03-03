@@ -71,7 +71,7 @@ class PBCore
   def ids
     @ids ||= begin
       h = hash_by_type('/*/pbcoreIdentifier', '@source') # TODO: confirm multi-hash not necessary.
-      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map { |key, value| [key, value] }
+      { 'AAPB ID' => h.delete('http://americanarchiveinventory.org') }.merge(h).map { |key, value| [key, value] }
       # Relabel AND put at front of list.
       # Map to pairs for consistency... but building the hash and just throwing it away?
     end
@@ -305,7 +305,7 @@ class PBCore
     ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
-              .map { |method| self.send(method) } # method -> value
+              .map { |method| send(method) } # method -> value
               .select { |x| x } # skip nils
               .flatten # flattens list accessors
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds

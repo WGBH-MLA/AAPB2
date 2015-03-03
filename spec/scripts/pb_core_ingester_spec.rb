@@ -57,6 +57,6 @@ describe PBCoreIngester do
   end
 
   def expect_results(count)
-    expect(@ingester.solr.get('select', params: {q: '*:*'})['response']['numFound']).to eq(count)
+    expect(@ingester.solr.get('select', params: { q: '*:*' })['response']['numFound']).to eq(count)
   end
 end

@@ -14,7 +14,7 @@ class Cleaner
     @report = {}
     def @report.to_s
       out = ''
-      self.sort.each do |category, set|
+      sort.each do |category, set|
         out << "#{category}\n"
         set.sort.each do |member|
           out << "\t#{member}\n"
@@ -78,7 +78,7 @@ class Cleaner
     # pbcoreRelation:
 
     match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') { |node|
-       Cleaner.delete(node)
+      Cleaner.delete(node)
     }
 
     match_no_report(doc, '/pbcoreRelation') { |node|
@@ -91,7 +91,7 @@ class Cleaner
     # pbcoreCoverage:
 
     match(doc, '/pbcoreCoverage[coverageType[not(node())]]') { |node|
-       Cleaner.delete(node)
+      Cleaner.delete(node)
     }
 
     match_no_report(doc, '/pbcoreCoverage/coverageType') { |node|
@@ -117,8 +117,8 @@ class Cleaner
       Cleaner.insert_after_match(
         node,
         Cleaner.any('pbcore', %w(Description Genre Relation Coverage AudienceLevel AudienceRating Creator Contributor Publisher RightsSummary)),
-        REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' +
-                          'ON_LOCATION_ONLY' +
+        REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' \
+                          'ON_LOCATION_ONLY' \
                           '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
       )
     }
@@ -213,7 +213,7 @@ class Cleaner
   end
 end
 
-if __FILE__ == $0
+if __FILE__ == $PROGRAM_NAME
   cleaner = Cleaner.new
   ARGV.each do |path|
     dirty_xml = File.read(path)
