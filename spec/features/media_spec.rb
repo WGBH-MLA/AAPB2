@@ -6,7 +6,7 @@ describe 'Media', not_on_travis: true do
 
   TARGET = 'lorem ipsum'
 
-  def get_ci
+  def safe_ci
     credentials_path = File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml'
     ci = Ci.new({credentials_path: credentials_path})
     raise "Workspace must be empty" unless ci.list_names.empty?
@@ -32,7 +32,7 @@ describe 'Media', not_on_travis: true do
   end
 
   it 'works' do
-    ci = get_ci
+    ci = safe_ci
     ci_id = setup(ci)
 
     # Capybara won't let us follow remote redirects:

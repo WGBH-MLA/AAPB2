@@ -96,7 +96,7 @@ class Ci < CiCore
     def each
       limit = 5 # Small chunks so it's easy to spot windowing problems
       offset = 0
-      while true
+      loop do
         assets = list(limit, offset)
         break if assets.empty?
         assets.each{|asset| yield asset}

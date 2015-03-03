@@ -18,5 +18,5 @@ module LoadXML
   end
 end
 
-SolrDocument.use_extension(LoadXML) { |document| true }
+SolrDocument.use_extension(LoadXML) { true }
 # TODO: should we just be able to redefine SolrDocument the normal way?

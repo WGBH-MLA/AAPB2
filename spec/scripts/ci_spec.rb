@@ -36,7 +36,7 @@ describe Ci, not_on_travis: true, slow: true do
   end
 
   it 'blocks some filetypes (small files)' do
-    ci = get_ci
+    ci = safe_ci
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
       ['js','html','rb'].each do |disallowed_ext|
@@ -49,7 +49,7 @@ describe Ci, not_on_travis: true, slow: true do
   end
 
   it 'allows other filetypes (small files)' do
-    ci = get_ci
+    ci = safe_ci
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
       path = "#{dir}/small-file.txt"
@@ -59,7 +59,7 @@ describe Ci, not_on_travis: true, slow: true do
   end
 
   it 'allows big files' do
-    ci = get_ci
+    ci = safe_ci
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
       path = "#{dir}/big-file.txt"
@@ -75,7 +75,7 @@ describe Ci, not_on_travis: true, slow: true do
   end
 
   it 'enumerates' do
-    ci = get_ci
+    ci = safe_ci
     count = 6
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
@@ -92,7 +92,7 @@ describe Ci, not_on_travis: true, slow: true do
     expect(ci.map{ |asset| asset['id']}.count).to eq(1) # workspace can't be deleted.
   end
 
-  def get_ci
+  def safe_ci
     workspace_id = YAML.load_file(credentials_path)['workspace_id']
     expect(workspace_id).to match(/^[0-9a-f]{32}$/)
     expect(workspace_id).not_to eq(aapb_workspace_id)

@@ -142,7 +142,7 @@ class PBCore
 
       # constrained searches:
       'text' => text,
-      'titles' => titles.values,
+      'titles' => titles.map{|pair| pair.last},
       'contribs' => contribs,
 
       # sort:

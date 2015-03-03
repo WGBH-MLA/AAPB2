@@ -1,1 +1,9 @@
 inherit_from: .rubocop_todo.yml
+
+# TODO: What's a better idiom?
+Style/MultilineBlockChain:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - 'bin/**'

@@ -24,10 +24,10 @@ class Downloader
     raise("Unexpected keys: #{args}") unless Set.new(args.keys).subset?(Set[:days, :page])
     args[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
     since = if args[:days]
-      (Time.now-args[:days]*24*60*60).strftime('%Y%m%d')
-    else
-      '20000101' # ie, beginning of time.
-    end
+              (Time.now-args[:days]*24*60*60).strftime('%Y%m%d')
+            else
+              '20000101' # ie, beginning of time.
+            end
     Dir.chdir(File.dirname(File.dirname(File.dirname(__FILE__))))
     path = ['tmp','pbcore','download', #
       "#{Time.now.strftime('%F_%T')}_since_#{since}_starting_page_#{args[:page]}"]
@@ -62,7 +62,7 @@ class Downloader
   end
 
   def download(page)
-    while true
+    loop do
       url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/modified_date/#{@since}/page/#{page}"
       content = nil
       until content
