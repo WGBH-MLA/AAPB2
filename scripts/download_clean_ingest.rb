@@ -37,23 +37,23 @@ if __FILE__ == $0
     case mode
 
     when '--all'
-      raise ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
+      fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
       target_dir = Downloader::download_to_directory_and_link(page: args.first.to_i)
 
     when '--back'
-      raise ParamsError.new unless args.count == 1 && args.first.to_i > 0
+      fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
       target_dir = Downloader::download_to_directory_and_link(days: args.first.to_i)
 
     when '--dir'
-      raise ParamsError.new unless args.count == 1 && File.directory?(args.first)
+      fail ParamsError.new unless args.count == 1 && File.directory?(args.first)
       target_dir = args.first
 
     when '--files'
-      raise ParamsError.new if args.empty?
+      fail ParamsError.new if args.empty?
       files = args
 
     else
-      raise ParamsError.new
+      fail ParamsError.new
     end
   rescue ParamsError
     abort 'USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ...'

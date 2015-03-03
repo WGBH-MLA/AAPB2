@@ -17,7 +17,7 @@ module ValidationHelper
     REXML::Document.new(xhtml)
   rescue => e
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
-    fail "XML validation failed: '#{e}'\n#{numbered}"
+    raise "XML validation failed: '#{e}'\n#{numbered}"
   end
 
 end

@@ -12,7 +12,7 @@ class Downloader
   def initialize(since)
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
-      raise("Expected YYYYMMDD, not '#{since}'") unless match &&
+      fail("Expected YYYYMMDD, not '#{since}'") unless match &&
         match[1].to_i < 3000 &&
         match[2].to_i.instance_eval { |m| (1 <= m) && (m <= 12) } &&
         match[3].to_i.instance_eval { |d| (1 <= d) && (d <= 31) }
@@ -21,7 +21,7 @@ class Downloader
   end
 
   def self.download_to_directory_and_link(args={})
-    raise("Unexpected keys: #{args}") unless Set.new(args.keys).subset?(Set[:days, :page])
+    fail("Unexpected keys: #{args}") unless Set.new(args.keys).subset?(Set[:days, :page])
     args[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
     since = if args[:days]
               (Time.now - args[:days] * 24 * 60 * 60).strftime('%Y%m%d')
@@ -42,7 +42,7 @@ class Downloader
       File.unlink(link_name)
     end
     if File.exist?(link_name) # Does not return true for links! At least for me...
-      raise "Did not expect '#{link_name}'"
+      fail "Did not expect '#{link_name}'"
     end
     File.symlink(path.last, link_name)
 

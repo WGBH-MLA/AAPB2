@@ -39,7 +39,7 @@ class PBCoreIngester
     when /<pbcoreDescriptionDocument/
       ingest_xml(cleaner.clean(xml))
     else
-      raise ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
+      fail ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
     end
   end
 

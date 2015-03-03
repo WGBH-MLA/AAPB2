@@ -10,17 +10,17 @@ class CiCore
 
   def initialize(opts={})
     unrecognized_opts = opts.keys - [:verbose, :credentials_path, :credentials]
-    raise "Unrecognized options #{unrecognized_opts}" unless unrecognized_opts == []
+    fail "Unrecognized options #{unrecognized_opts}" unless unrecognized_opts == []
 
     @verbose = opts[:verbose] ? true : false
 
-    raise 'Credentials specified twice' if opts[:credentials_path] && opts[:credentials]
-    raise 'No credentials given' if !opts[:credentials_path] && !opts[:credentials]
+    fail 'Credentials specified twice' if opts[:credentials_path] && opts[:credentials]
+    fail 'No credentials given' if !opts[:credentials_path] && !opts[:credentials]
     credentials = opts[:credentials] || YAML.load_file(opts[:credentials_path])
 
     credentials.keys.sort.tap { |actual|
       expected = ['username', 'password', 'client_id', 'client_secret', 'workspace_id'].sort
-      raise "Expected #{expected} in ci credentials, not #{actual}" if actual != expected
+      fail "Expected #{expected} in ci credentials, not #{actual}" if actual != expected
     }
 
     params = {
@@ -40,7 +40,7 @@ class CiCore
     end
 
     @access_token = JSON.parse(curl.body_str)['access_token']
-    raise 'OAuth failed' unless @access_token
+    fail 'OAuth failed' unless @access_token
 
     @workspace_id = credentials['workspace_id']
   end

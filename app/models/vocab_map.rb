@@ -9,15 +9,15 @@ class VocabMap
 
   def initialize(path)
     @map = YAML.load_file(path)
-    raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
+    fail "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
 
     @case_map = Hash[@map.values.uniq.map { |value| [value.downcase, value] }]
-    raise "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
+    fail "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
 
     hidden_keys = @map.select { |key, value| map_string(key) != value }.keys
-    raise "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
+    fail "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
 
-    raise "No default mapping in #{path}" unless @map['']
+    fail "No default mapping in #{path}" unless @map['']
   end
 
   def authorized_names
@@ -27,7 +27,7 @@ class VocabMap
   def map_string(s)
     return @case_map[s.downcase] ||
       @map.select { |key| s.downcase.include? key.downcase }.values.first ||
-      raise("No match found for '#{s}'")
+      fail("No match found for '#{s}'")
   end
 
   def map_node(node)
@@ -63,8 +63,8 @@ class VocabMap
     map_nodes(nodes)
     attribute_name = nodes.first.name
     nodes.each do |node|
-      raise "Must be attribute: #{node}" unless node.node_type == :attribute
-      raise "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
+      fail "Must be attribute: #{node}" unless node.node_type == :attribute
+      fail "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
     end
 
     ordering = Hash[@map.values.uniq.each_with_index.map { |e, i| [e, i] }]

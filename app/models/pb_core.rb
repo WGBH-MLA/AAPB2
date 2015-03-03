@@ -116,7 +116,7 @@ class PBCore
         return type if media_types.include? type
       }
       return OTHER if media_types == [] # pbcoreInstantiation is not required, so this is possible
-      raise "Unexpected media types: #{media_types.uniq}"
+      fail "Unexpected media types: #{media_types.uniq}"
     end
   end
   def video?
@@ -247,7 +247,7 @@ class PBCore
   def xpath(xpath)
     REXML::XPath.match(@doc, xpath).tap do |matches|
       if matches.length != 1
-        raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
+        fail NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
         return PBCore::text_from(matches.first)
       end
