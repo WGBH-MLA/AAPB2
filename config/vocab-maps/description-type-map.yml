@@ -4,17 +4,17 @@
 
 !omap
 Raw Footage: Raw Footage
-Element: Element
+Element: Raw Footage
 Clip: Clip
 Segment: Segment
 Promo: Promo
 Episode: Episode
 Program: Program
 Description: Description
-Abstract: Abstract
+Abstract: Description
 Log: Log
 Rundown: Rundown
 Shot List: Shot List
 Transcript: Transcript
 Series: Series
-'': Other
+'': Description
