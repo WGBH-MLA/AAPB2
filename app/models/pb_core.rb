@@ -5,6 +5,7 @@ require 'solrizer'
 require_relative 'organization'
 
 class PBCore
+  # rubocop:disable Style/EmptyLineBetweenDefs
   def initialize(xml)
     @xml = xml
     @doc = REXML::Document.new xml
@@ -135,6 +136,8 @@ class PBCore
     }
   end
 
+  # rubocop:enable Style/EmptyLineBetweenDefs
+
   def to_solr
     {
       'id' => id,
@@ -175,17 +178,21 @@ class PBCore
         @rexml = rexml_or_media_type
       end
     end
+
     def ==(other)
       self.class == other.class &&
         media_type == other.media_type &&
         duration == other.duration
     end
+
     def media_type
       @media_type ||= optional('instantiationMediaType')
     end
+
     def duration
       @duration ||= optional('instantiationDuration')
     end
+
     def to_a
       [media_type, duration].select { |x| x }
     end
@@ -211,6 +218,7 @@ class PBCore
         @stem = @rexml.name.gsub('pbcore', '').downcase
       end
     end
+
     def ==(other)
       self.class == other.class &&
         stem == other.stem &&
@@ -218,22 +226,27 @@ class PBCore
         role == other.role &&
         affiliation == other.affiliation
     end
+
     attr_reader :stem
+
     def name
       @name ||= REXML::XPath.match(@rexml, @stem).first.text
     end
+
     def role
       @role ||= begin
         node = REXML::XPath.match(@rexml, "#{@stem}Role").first
         node ? node.text : nil
       end
     end
+
     def affiliation
       @affiliation ||= begin
         node = REXML::XPath.match(@rexml, "#{@stem}/@affiliation").first
         node ? node.value : nil
       end
     end
+
     def to_a
       [name, role, affiliation].select { |x| x }
     end
@@ -298,6 +311,7 @@ class PBCore
       .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
       .flatten.uniq
   end
+
   def contribs
     @contribs ||=
       # TODO: Cleaner xpath syntax?
@@ -308,6 +322,7 @@ class PBCore
       xpaths('/*/pbcorePublisher/publisher') +
       xpaths('/*/pbcorePublisher/publisher/@affiliation')
   end
+
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
   end
