@@ -78,7 +78,7 @@ class CiCore
     def download(asset_id)
       hit = @@cache[asset_id]
       if !hit || hit[:expires] < Time.now
-        curl = Curl::Easy.http_get("https""://api.cimediacloud.com/assets/#{asset_id}/download") do |c|
+        curl = Curl::Easy.http_get('https'"://api.cimediacloud.com/assets/#{asset_id}/download") do |c|
           perform(c)
         end
         url = JSON.parse(curl.body_str)['location']

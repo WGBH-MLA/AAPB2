@@ -79,6 +79,10 @@ Style/BracesAroundHashParameters:
 Style/CaseIndentation:
   Enabled: false
   
+# Offense count: 5
+Style/ClassVars:
+  Enabled: false
+  
 # Offense count: 14
 # Cop supports --auto-correct.
 Style/ColonMethodCall:
@@ -262,12 +266,6 @@ Style/SpaceInsideParens:
 # Offense count: 7
 # Cop supports --auto-correct.
 Style/SpecialGlobalVars:
-  Enabled: false
-
-# Offense count: 125
-# Cop supports --auto-correct.
-# Configuration parameters: EnforcedStyle, SupportedStyles.
-Style/StringLiterals:
   Enabled: false
 
 # Offense count: 5

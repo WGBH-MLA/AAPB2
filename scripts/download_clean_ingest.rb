@@ -56,7 +56,7 @@ if __FILE__ == $0
       raise ParamsError.new
     end
   rescue ParamsError
-    abort "USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ..."
+    abort 'USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ...'
   end
 
   files ||= Dir.entries(target_dir)
@@ -90,7 +90,7 @@ if __FILE__ == $0
 
   end
 
-  puts "SUMMARY"
+  puts 'SUMMARY'
 
   puts "processed #{target_dir}" if target_dir
   fails.each{|type,list|
@@ -98,5 +98,5 @@ if __FILE__ == $0
   }
   puts "#{success.count} succeeded".green
 
-  puts "DONE"
+  puts 'DONE'
 end

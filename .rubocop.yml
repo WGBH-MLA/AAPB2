@@ -7,3 +7,4 @@ Style/MultilineBlockChain:
 AllCops:
   Exclude:
     - 'bin/**'
+    - 'db/schema.rb'

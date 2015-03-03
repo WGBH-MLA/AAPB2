@@ -56,7 +56,7 @@ class Ci < CiCore
     end
 
     def detail(asset_id)
-      curl = Curl::Easy.http_get("https:""//api.cimediacloud.com/assets/#{asset_id}") do |c|
+      curl = Curl::Easy.http_get('https:'"//api.cimediacloud.com/assets/#{asset_id}") do |c|
         perform(c)
       end
       JSON.parse(curl.body_str)
@@ -71,7 +71,7 @@ class Ci < CiCore
     end
 
     def delete(asset_id)
-      Curl::Easy.http_delete("https:""//api.cimediacloud.com/assets/#{asset_id}") do |c|
+      Curl::Easy.http_delete('https:'"//api.cimediacloud.com/assets/#{asset_id}") do |c|
         perform(c)
       end
     end
@@ -87,7 +87,7 @@ class Ci < CiCore
     end
 
     def list(limit, offset)
-      curl = Curl::Easy.http_get("https:""//api.cimediacloud.com/workspaces/#{@ci.workspace_id}/contents?limit=#{limit}&offset=#{offset}") do |c|
+      curl = Curl::Easy.http_get('https:'"//api.cimediacloud.com/workspaces/#{@ci.workspace_id}/contents?limit=#{limit}&offset=#{offset}") do |c|
         perform(c)
       end
       JSON.parse(curl.body_str)['items']

@@ -18,9 +18,9 @@ describe 'Catalog' do
   def expect_count(count)
     case count
     when 0
-      expect(page).to have_text("No entries found")
+      expect(page).to have_text('No entries found')
     when 1
-      expect(page).to have_text("1 entry found")
+      expect(page).to have_text('1 entry found')
     else
       expect(page).to have_text("1 - #{[count,10].min} of #{count}")
     end

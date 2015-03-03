@@ -49,7 +49,7 @@ describe 'Validated and plain PBCore' do
       empty_pbc = PBCore.new('<pbcoreDescriptionDocument/>')
 
       it '"other" if no media_type' do
-        expect(empty_pbc.media_type).to eq("other")
+        expect(empty_pbc.media_type).to eq('other')
       end
 
       it 'nil if no asset_type' do
@@ -64,33 +64,33 @@ describe 'Validated and plain PBCore' do
 
       assertions = {
         to_solr: {
-          "id"=>"1234",
-          "xml"=>pbc_xml,
-          "program_titles" => ["Gratuitous Explosions"],
-          "series_titles" => ["NOVA"],
-          "text"=>["Best episode ever!", "Horror", "Musical", "explosions -- gratuitious", "musicals -- horror", "Curly", "bald", "Stooges", "Larry", "balding", "Moe", "hair", "Moving Image", "0:12:34", "Copy Left: All rights reversed.", "Album", "uncataloged", "2000-01-01", "Program", "Gratuitous Explosions", "Series", "NOVA", "1234", "AAPB ID", "somewhere else", "5678", "WGBH", "Boston", "Massachusetts"],
-          "titles"=>["Gratuitous Explosions", "NOVA"],
-          "contribs"=>["Larry", "Stooges", "Curly", "Stooges", "Moe", "Stooges"],
-          "title"=>"Gratuitous Explosions",
-          "year"=>"2000",
-          "media_type"=>"Moving Image",
-          "genres"=>["Horror", "Musical"],
-          "asset_type"=>"Album",
-          "organization"=>"WGBH",
-          "access_types"=>["All"]
+          'id'=>'1234',
+          'xml'=>pbc_xml,
+          'program_titles' => ['Gratuitous Explosions'],
+          'series_titles' => ['NOVA'],
+          'text'=>['Best episode ever!', 'Horror', 'Musical', 'explosions -- gratuitious', 'musicals -- horror', 'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', 'Moving Image', '0:12:34', 'Copy Left: All rights reversed.', 'Album', 'uncataloged', '2000-01-01', 'Program', 'Gratuitous Explosions', 'Series', 'NOVA', '1234', 'AAPB ID', 'somewhere else', '5678', 'WGBH', 'Boston', 'Massachusetts'],
+          'titles'=>['Gratuitous Explosions', 'NOVA'],
+          'contribs'=>['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
+          'title'=>'Gratuitous Explosions',
+          'year'=>'2000',
+          'media_type'=>'Moving Image',
+          'genres'=>['Horror', 'Musical'],
+          'asset_type'=>'Album',
+          'organization'=>'WGBH',
+          'access_types'=>['All']
         },
         access_types: ['All'],
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['uncataloged', '2000-01-01']],
-        titles: [["Program", "Gratuitous Explosions"], ["Series", "NOVA"]],
+        titles: [['Program', 'Gratuitous Explosions'], ['Series', 'NOVA']],
         title: 'Gratuitous Explosions',
         descriptions: ['Best episode ever!'],
         instantiations: [PBCore::Instantiation.new('Moving Image','0:12:34')],
         rights_summary: 'Copy Left: All rights reversed.',
         genres: ['Horror','Musical'],
         id: '1234',
-        ids: [["AAPB ID", "1234"], ["somewhere else","5678"]],
+        ids: [['AAPB ID', '1234'], ['somewhere else','5678']],
         ci_id: nil,
         media_src: nil,
         img_src: '/thumbs/video-not-digitized.jpg', #TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
@@ -101,7 +101,7 @@ describe 'Validated and plain PBCore' do
         video?: true,
         audio?: false,
         digitized?: false,
-        subjects: ["explosions -- gratuitious", "musicals -- horror"],
+        subjects: ['explosions -- gratuitious', 'musicals -- horror'],
         creators: [PBCore::NameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
         contributors: [PBCore::NameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
         publishers: [PBCore::NameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]

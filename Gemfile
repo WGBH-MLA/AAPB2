@@ -48,7 +48,7 @@ gem 'blacklight'
 gem 'blacklight-gallery'
 gem 'solrizer'
 gem 'rsolr'
-gem "jettywrapper", "~> 1.7"
+gem 'jettywrapper', '~> 1.7'
 
 gem 'rspec'
 gem 'rspec-rails'

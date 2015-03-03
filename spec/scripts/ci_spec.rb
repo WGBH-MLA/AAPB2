@@ -53,7 +53,7 @@ describe Ci, not_on_travis: true, slow: true do
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
       path = "#{dir}/small-file.txt"
-      File.write(path, "lorem ipsum")
+      File.write(path, 'lorem ipsum')
       expect_upload(ci, path, log_path)
     end
   end
