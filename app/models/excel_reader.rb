@@ -30,7 +30,7 @@ module ExcelReader
           end
           [key,value]
         end
-      end.select{|x| x}
+      end.select { |x| x }
     ]
   end
 end

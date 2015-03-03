@@ -12,7 +12,7 @@ class Ci < CiCore
   end
 
   def list_names
-    list.map{|item| item['name']} - ['Workspace'] # A self reference is present even in an empty workspace.
+    list.map { |item| item['name'] } - ['Workspace'] # A self reference is present even in an empty workspace.
   end
 
   def list(limit=50, offset=0)
@@ -20,7 +20,7 @@ class Ci < CiCore
   end
 
   def each
-    Lister.new(self).each{|asset| yield asset}
+    Lister.new(self).each { |asset| yield asset }
   end
 
   def delete(asset_id)
@@ -99,7 +99,7 @@ class Ci < CiCore
       loop do
         assets = list(limit, offset)
         break if assets.empty?
-        assets.each{|asset| yield asset}
+        assets.each { |asset| yield asset }
         offset += limit
       end
     end
@@ -185,7 +185,7 @@ class Ci < CiCore
 end
 
 if __FILE__ == $0
-  args = Hash[ARGV.slice_before{|a| a.match(/^--/)}.to_a.map{|a| [a[0].gsub(/^--/,''),a[1..-1]]}] rescue {}
+  args = Hash[ARGV.slice_before { |a| a.match(/^--/) }.to_a.map { |a| [a[0].gsub(/^--/,''),a[1..-1]] }] rescue {}
 
   ci = Ci.new(
     #verbose: true,
@@ -196,15 +196,15 @@ if __FILE__ == $0
 
     when ['log','up']
       raise ArgumentError.new if args['log'].empty? || args['up'].empty?
-      args['up'].each{|path| ci.upload(path, args['log'].first)}
+      args['up'].each { |path| ci.upload(path, args['log'].first) }
 
     when ['down']
       raise ArgumentError.new if args['down'].empty?
-      args['down'].each{|id| puts ci.download(id)}
+      args['down'].each { |id| puts ci.download(id) }
 
     when ['list']
       raise ArgumentError.new if !args['list'].empty?
-      ci.each{|asset| puts "#{asset['name']}\t#{asset['id']}"}
+      ci.each { |asset| puts "#{asset['name']}\t#{asset['id']}" }
 
     when ['recheck']
       raise ArgumentError.new if args['recheck'].empty?

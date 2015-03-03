@@ -12,9 +12,9 @@ describe VocabMap do
     describe 'acceptance' do
       [File.dirname(File.dirname(File.dirname(__FILE__)))+'/config/vocab-maps',
        fixtures].each do |dir|
-        Dir["#{dir}/*"].reject{ |file| file=~/bad-/}.each do |yaml|
+        Dir["#{dir}/*"].reject { |file| file=~/bad-/ }.each do |yaml|
           it "accepts #{yaml}" do
-            expect { VocabMap.new(yaml)}.not_to raise_error
+            expect { VocabMap.new(yaml) }.not_to raise_error
           end
         end
       end

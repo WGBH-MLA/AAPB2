@@ -10,7 +10,7 @@ describe 'Validated and plain PBCore' do
 
       Dir['spec/fixtures/pbcore/clean-*.xml'].each do |path|
         it "accepts #{File.basename(path)}" do
-          expect { ValidatedPBCore.new(File.read(path))}.not_to raise_error
+          expect { ValidatedPBCore.new(File.read(path)) }.not_to raise_error
         end
       end
 

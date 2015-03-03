@@ -69,7 +69,7 @@ class CatalogController < ApplicationController
     config.add_facet_field 'year', sort: 'index'
     config.add_facet_field 'access_types', label: 'Access'
 
-    VocabMap.for('title').authorized_names.each{|name|
+    VocabMap.for('title').authorized_names.each {|name|
       config.add_facet_field "#{name.downcase.gsub(/\s/,'_')}_titles", show: false, label: name
     }
 

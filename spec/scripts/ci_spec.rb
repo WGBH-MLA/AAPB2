@@ -3,8 +3,8 @@ require 'tmpdir'
 
 describe Ci, not_on_travis: true, slow: true do
 
-  let(:credentials_path) {File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml'}
-  let(:aapb_workspace_id) {'051303c1c1d24da7988128e6d2f56aa9'} # we make sure NOT to use this.
+  let(:credentials_path) { File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml' }
+  let(:aapb_workspace_id) { '051303c1c1d24da7988128e6d2f56aa9' } # we make sure NOT to use this.
 
   it 'requires credentials' do
     expect { Ci.new }.to raise_exception('No credentials given')
@@ -79,17 +79,17 @@ describe Ci, not_on_travis: true, slow: true do
     count = 6
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
-      count.times{ |i|
+      count.times { |i|
         path = "#{dir}/small-file-#{i}.mp4"
         File.write(path, "lorem ipsum #{i}")
         ci.upload(path, log_path)
       }
     end
 
-    ids = ci.map{ |asset| asset['id']}
+    ids = ci.map { |asset| asset['id'] }
     expect(ids.count).to eq(count+1) # workspace itself is in list.
-    ids.each{ |id| ci.delete(id)} # ci.each won't work, because you delete the data under your feet.
-    expect(ci.map{ |asset| asset['id']}.count).to eq(1) # workspace can't be deleted.
+    ids.each { |id| ci.delete(id) } # ci.each won't work, because you delete the data under your feet.
+    expect(ci.map { |asset| asset['id'] }.count).to eq(1) # workspace can't be deleted.
   end
 
   def safe_ci
@@ -105,7 +105,7 @@ describe Ci, not_on_travis: true, slow: true do
 
   def expect_upload(ci, path, log_path)
     basename = File.basename(path)
-    expect { ci.upload(path, log_path)}.not_to raise_exception
+    expect { ci.upload(path, log_path) }.not_to raise_exception
 
     expect(ci.list_names.count).to eq(1)
 

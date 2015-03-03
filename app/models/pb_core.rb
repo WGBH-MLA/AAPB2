@@ -19,22 +19,22 @@ class PBCore
     @subjects ||= xpaths('/*/pbcoreSubject')
   end
   def contributors
-    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map{|rexml|
+    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map {|rexml|
       NameRoleAffiliation.new(rexml)
     }
   end
   def creators
-    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map{|rexml|
+    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map {|rexml|
       NameRoleAffiliation.new(rexml)
     }
   end
   def publishers
-    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map{|rexml|
+    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map {|rexml|
       NameRoleAffiliation.new(rexml)
     }
   end
   def instantiations
-    @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map{|rexml|
+    @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map {|rexml|
       Instantiation.new(rexml)
     }
   end
@@ -70,7 +70,7 @@ class PBCore
   def ids
     @ids ||= begin
       h = hash_by_type('/*/pbcoreIdentifier', '@source') # TODO: confirm multi-hash not necessary.
-      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map{ |key, value| [key, value] }
+      {'AAPB ID' => h.delete('http://americanarchiveinventory.org')}.merge(h).map { |key, value| [key, value] }
       # Relabel AND put at front of list.
       # Map to pairs for consistency... but building the hash and just throwing it away?
     end
@@ -129,7 +129,7 @@ class PBCore
     @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO: get the right value
   end
   def access_types
-    @access_types ||= ['All'].tap{|types|
+    @access_types ||= ['All'].tap {|types|
       types << 'Digitized' if digitized?
       # TODO: distinguish if available off-site
     }
@@ -142,7 +142,7 @@ class PBCore
 
       # constrained searches:
       'text' => text,
-      'titles' => titles.map{|pair| pair.last},
+      'titles' => titles.map { |pair| pair.last },
       'contribs' => contribs,
 
       # sort:
@@ -159,8 +159,8 @@ class PBCore
       'access_types' => access_types
     }.merge(
       Hash[
-        titles.group_by{|pair| pair[0]}.map{|key,pairs|
-          ["#{key.downcase}_titles", pairs.map{|pair| pair[1]}]
+        titles.group_by { |pair| pair[0] }.map {|key,pairs|
+          ["#{key.downcase}_titles", pairs.map { |pair| pair[1] }]
         }
       ]
     )
@@ -187,7 +187,7 @@ class PBCore
       @duration ||= optional('instantiationDuration')
     end
     def to_a
-      [media_type,duration].select{|x| x}
+      [media_type,duration].select { |x| x }
     end
 
     private
@@ -235,7 +235,7 @@ class PBCore
       end
     end
     def to_a
-      [name,role,affiliation].select{|x| x}
+      [name,role,affiliation].select { |x| x }
     end
   end
 
@@ -255,7 +255,7 @@ class PBCore
   end
 
   def xpaths(xpath)
-    REXML::XPath.match(@doc, xpath).map{|node| PBCore::text_from(node)}
+    REXML::XPath.match(@doc, xpath).map { |node| PBCore::text_from(node) }
   end
 
   def self.text_from(node)
@@ -291,11 +291,11 @@ class PBCore
   def text
     ignores = [:text,:to_solr,:contribs,:img_src,:media_src,:rights_code,:access_types]
     @text ||= (PBCore.instance_methods(false)-ignores)
-      .reject{|method| method=~/\?$/} # skip booleans
-      .map{|method| self.send(method)} # method -> value
-      .select{|x| x} # skip nils
+      .reject { |method| method=~/\?$/ } # skip booleans
+      .map { |method| self.send(method) } # method -> value
+      .select { |x| x } # skip nils
       .flatten # flattens list accessors
-      .map{|x| x.respond_to?(:to_a) ? x.to_a : x} # get elements of compounds
+      .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
       .flatten.uniq
   end
   def contribs

@@ -193,7 +193,7 @@ class Cleaner
   end
 
   def self.any(pre, list)
-    list.map{|item| pre+item}.join('|')
+    list.map { |item| pre+item }.join('|')
   end
 
   def self.insert_after_match(doc, xpath, insert)

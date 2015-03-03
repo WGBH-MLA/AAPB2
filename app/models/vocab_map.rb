@@ -11,10 +11,10 @@ class VocabMap
     @map = YAML.load_file(path)
     raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
 
-    @case_map = Hash[@map.values.uniq.map{|value| [value.downcase,value]}]
+    @case_map = Hash[@map.values.uniq.map { |value| [value.downcase,value] }]
     raise "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
 
-    hidden_keys = @map.select{|key,value| map_string(key)!=value}.keys
+    hidden_keys = @map.select { |key,value| map_string(key)!=value }.keys
     raise "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
 
     raise "No default mapping in #{path}" unless @map['']
@@ -26,7 +26,7 @@ class VocabMap
 
   def map_string(s)
     return @case_map[s.downcase] ||
-      @map.select{|key| s.downcase.include? key.downcase}.values.first ||
+      @map.select { |key| s.downcase.include? key.downcase }.values.first ||
       raise("No match found for '#{s}'")
   end
 
@@ -45,7 +45,7 @@ class VocabMap
   end
 
   def map_nodes(nodes)
-    nodes.each{|node| map_node(node)}
+    nodes.each { |node| map_node(node) }
   end
 
   def map_reorder_nodes(nodes)
@@ -67,16 +67,16 @@ class VocabMap
       raise "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
     end
 
-    ordering = Hash[@map.values.uniq.each_with_index.map{|e,i| [e,i]}]
+    ordering = Hash[@map.values.uniq.each_with_index.map { |e,i| [e,i] }]
 
-    nodes.map{ |attr|
+    nodes.map { |attr|
       attr.element.dup
-    }.sort_by{ |element|
+    }.sort_by { |element|
       ordering[element.attributes[attribute_name]]
-    }.each{ |element|
+    }.each { |element|
       nodes[0].element.parent.insert_before(nodes[0].element,element)
     }
-    nodes.each{|attr| attr.element.parent.delete(attr.element)}
+    nodes.each { |attr| attr.element.parent.delete(attr.element) }
   end
 
   private
