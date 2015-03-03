@@ -151,7 +151,7 @@ class Cleaner
     }
 
     match(doc, '/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
-      node.text='other'
+      node.text = 'other'
     }
 
     match_no_report(doc, '/pbcoreInstantiation/instantiationLanguage') { |node|
@@ -180,20 +180,20 @@ class Cleaner
 
   def match(doc, xpath_fragment)
     @current_category = xpath_fragment # TODO: Is there a better way to get this into the each-scope?
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument'+xpath_fragment).each do |node|
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument' + xpath_fragment).each do |node|
       add_report(@current_category, @current_name)
       yield node
     end
   end
 
   def match_no_report(doc, xpath_fragment)
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument'+xpath_fragment).each do |node|
+    REXML::XPath.match(doc, '/pbcoreDescriptionDocument' + xpath_fragment).each do |node|
       yield node
     end
   end
 
   def self.any(pre, list)
-    list.map { |item| pre+item }.join('|')
+    list.map { |item| pre + item }.join('|')
   end
 
   def self.insert_after_match(doc, xpath, insert)

@@ -16,13 +16,13 @@ class ValidatedPBCore < PBCore
     document = Nokogiri::XML(xml)
     errors = @@schema.validate(document)
     return if errors.empty?
-    raise 'Schema validation errors: '+errors.join("\n")
+    raise 'Schema validation errors: ' + errors.join("\n")
   end
 
   def method_validate
     # Warm the object and check for missing data, beyond what the schema enforces.
     errors = []
-    (PBCore.instance_methods(false)-[:to_solr]).each do |method|
+    (PBCore.instance_methods(false) - [:to_solr]).each do |method|
       begin
         self.send(method)
       rescue => e
@@ -30,7 +30,7 @@ class ValidatedPBCore < PBCore
       end
     end
     return if errors.empty?
-    raise 'Method validation errors: '+errors.join("\n")
+    raise 'Method validation errors: ' + errors.join("\n")
   end
 
 end

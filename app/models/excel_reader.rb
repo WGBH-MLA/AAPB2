@@ -20,7 +20,7 @@ module ExcelReader
             else
               index += 1
             end
-            params[index-1] = data.text
+            params[index - 1] = data.text
           end
           key = params[key_column]
           begin

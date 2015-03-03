@@ -230,11 +230,6 @@ Style/SingleSpaceBeforeFirstArg:
 Style/SpaceAroundEqualsInParameterDefault:
   EnforcedStyle: no_space
 
-# Offense count: 70
-# Cop supports --auto-correct.
-Style/SpaceAroundOperators:
-  Enabled: false
-
 # Offense count: 20
 # Cop supports --auto-correct.
 # Configuration parameters: EnforcedStyle, EnforcedStyleForEmptyBraces, SupportedStyles.

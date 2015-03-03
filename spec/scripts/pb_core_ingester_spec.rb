@@ -3,7 +3,7 @@ require 'tmpdir'
 
 describe PBCoreIngester do
 
-  let(:path) { File.dirname(File.dirname(__FILE__))+'/fixtures/pbcore/clean-MOCK.xml' }
+  let(:path) { File.dirname(File.dirname(__FILE__)) + '/fixtures/pbcore/clean-MOCK.xml' }
 
   before(:each) do
     @ingester = PBCoreIngester.new
@@ -50,7 +50,7 @@ describe PBCoreIngester do
 
   it 'works for all fixtures' do
     expect_results(0)
-    glob = File.dirname(path)+'/clean-*'
+    glob = File.dirname(path) + '/clean-*'
     Dir[glob].each do |fixture_path|
       expect { @ingester.ingest(fixture_path) }.not_to raise_error
     end

@@ -64,20 +64,20 @@ describe 'Validated and plain PBCore' do
 
       assertions = {
         to_solr: {
-          'id'=>'1234',
-          'xml'=>pbc_xml,
+          'id' => '1234',
+          'xml' => pbc_xml,
           'program_titles' => ['Gratuitous Explosions'],
           'series_titles' => ['NOVA'],
-          'text'=>['Best episode ever!', 'Horror', 'Musical', 'explosions -- gratuitious', 'musicals -- horror', 'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', 'Moving Image', '0:12:34', 'Copy Left: All rights reversed.', 'Album', 'uncataloged', '2000-01-01', 'Program', 'Gratuitous Explosions', 'Series', 'NOVA', '1234', 'AAPB ID', 'somewhere else', '5678', 'WGBH', 'Boston', 'Massachusetts'],
-          'titles'=>['Gratuitous Explosions', 'NOVA'],
-          'contribs'=>['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
-          'title'=>'Gratuitous Explosions',
-          'year'=>'2000',
-          'media_type'=>'Moving Image',
-          'genres'=>['Horror', 'Musical'],
-          'asset_type'=>'Album',
-          'organization'=>'WGBH',
-          'access_types'=>['All']
+          'text' => ['Best episode ever!', 'Horror', 'Musical', 'explosions -- gratuitious', 'musicals -- horror', 'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', 'Moving Image', '0:12:34', 'Copy Left: All rights reversed.', 'Album', 'uncataloged', '2000-01-01', 'Program', 'Gratuitous Explosions', 'Series', 'NOVA', '1234', 'AAPB ID', 'somewhere else', '5678', 'WGBH', 'Boston', 'Massachusetts'],
+          'titles' => ['Gratuitous Explosions', 'NOVA'],
+          'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
+          'title' => 'Gratuitous Explosions',
+          'year' => '2000',
+          'media_type' => 'Moving Image',
+          'genres' => ['Horror', 'Musical'],
+          'asset_type' => 'Album',
+          'organization' => 'WGBH',
+          'access_types' => ['All']
         },
         access_types: ['All'],
         asset_type: 'Album',

@@ -82,7 +82,7 @@ class CiCore
           perform(c)
         end
         url = JSON.parse(curl.body_str)['location']
-        @@cache[asset_id] = {url: url, expires: Time.now + 3*60*60}
+        @@cache[asset_id] = {url: url, expires: Time.now + 3 * 60 * 60}
       end
       @@cache[asset_id][:url]
     end

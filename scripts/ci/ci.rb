@@ -116,7 +116,7 @@ class Ci < CiCore
 
     def upload
       file = File.new(@path)
-      if file.size > 5*1024*1024
+      if file.size > 5 * 1024 * 1024
         initiate_multipart_upload(file)
         do_multipart_upload_part(file)
         complete_multipart_upload
@@ -126,7 +126,7 @@ class Ci < CiCore
 
       row = [Time.now, File.basename(@path), @asset_id,
         @ci.detail(@asset_id).to_s.gsub("\n", ' ')]
-      @log_file.write(row.join("\t")+"\n")
+      @log_file.write(row.join("\t") + "\n")
       @log_file.flush
 
       return @asset_id

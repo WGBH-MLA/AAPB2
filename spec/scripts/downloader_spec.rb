@@ -8,7 +8,7 @@ describe Downloader, slow: true do
       Dir.chdir(tmpdir) do |dir|
         count_before = Dir.entries(dir).count
         days = 7 # There should be some new records in the past week.
-        Downloader.new((Time.now-days*24*60*60).strftime('%Y%m%d')).download_to_directory(1)
+        Downloader.new((Time.now - days * 24 * 60 * 60).strftime('%Y%m%d')).download_to_directory(1)
         count_after = Dir.entries(dir).count
 
         expect(count_before).to eq(2) # . and ..

@@ -24,7 +24,7 @@ class Downloader
     raise("Unexpected keys: #{args}") unless Set.new(args.keys).subset?(Set[:days, :page])
     args[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
     since = if args[:days]
-              (Time.now-args[:days]*24*60*60).strftime('%Y%m%d')
+              (Time.now - args[:days] * 24 * 60 * 60).strftime('%Y%m%d')
             else
               '20000101' # ie, beginning of time.
             end

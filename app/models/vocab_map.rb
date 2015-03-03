@@ -3,7 +3,7 @@ require 'yaml'
 class VocabMap
 
   def self.for(vocab)
-    path = File.dirname(File.dirname(File.dirname(__FILE__)))+"/config/vocab-maps/#{vocab}-type-map.yml"
+    path = File.dirname(File.dirname(File.dirname(__FILE__))) + "/config/vocab-maps/#{vocab}-type-map.yml"
     VocabMap.new(path)
   end
 
@@ -14,7 +14,7 @@ class VocabMap
     @case_map = Hash[@map.values.uniq.map { |value| [value.downcase, value] }]
     raise "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
 
-    hidden_keys = @map.select { |key, value| map_string(key)!=value }.keys
+    hidden_keys = @map.select { |key, value| map_string(key) != value }.keys
     raise "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
 
     raise "No default mapping in #{path}" unless @map['']
@@ -38,7 +38,7 @@ class VocabMap
         # self.value doesn't change when the value is reset. Agh.
       end
       def node.text=(s)
-        self.element.attributes[self.name]=s
+        self.element.attributes[self.name] = s
       end
     end
     node.text = map_string(node.text)

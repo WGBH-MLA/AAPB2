@@ -64,12 +64,12 @@ describe Ci, not_on_travis: true, slow: true do
       log_path = "#{dir}/log.txt"
       path = "#{dir}/big-file.txt"
       big_file = File.open(path, 'a')
-      (5*1024).times do |k|
-        big_file.write("#{k}K"+'.'*1024+"\n")
+      (5 * 1024).times do |k|
+        big_file.write("#{k}K" + '.' * 1024 + "\n")
       end
       big_file.flush
-      expect(big_file.size).to be > (5*1024*1024)
-      expect(big_file.size).to be < (6*1024*1024)
+      expect(big_file.size).to be > (5 * 1024 * 1024)
+      expect(big_file.size).to be < (6 * 1024 * 1024)
       expect_upload(ci, path, log_path)
     end
   end
@@ -87,7 +87,7 @@ describe Ci, not_on_travis: true, slow: true do
     end
 
     ids = ci.map { |asset| asset['id'] }
-    expect(ids.count).to eq(count+1) # workspace itself is in list.
+    expect(ids.count).to eq(count + 1) # workspace itself is in list.
     ids.each { |id| ci.delete(id) } # ci.each won't work, because you delete the data under your feet.
     expect(ci.map { |asset| asset['id'] }.count).to eq(1) # workspace can't be deleted.
   end
@@ -123,8 +123,8 @@ describe Ci, not_on_travis: true, slow: true do
     after = Time.now
 
     # make sure cache is working:
-    expect(after-middle).to be < 0.01
-    expect(middle-before).to be > 0.1 # Often greater than 1
+    expect(after - middle).to be < 0.01
+    expect(middle - before).to be > 0.1 # Often greater than 1
 
     expect(download_url).to match(/^https:\/\/ci-buckets/)
     if File.new(path).size < 1024
