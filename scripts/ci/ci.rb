@@ -185,7 +185,7 @@ class Ci < CiCore
 end
 
 if __FILE__ == $0
-  args = Hash[ARGV.slice_before{|a| a.match /^--/}.to_a.map{|a| [a[0].gsub(/^--/,''),a[1..-1]]}] rescue {}
+  args = Hash[ARGV.slice_before{|a| a.match(/^--/)}.to_a.map{|a| [a[0].gsub(/^--/,''),a[1..-1]]}] rescue {}
 
   ci = Ci.new(
     #verbose: true,

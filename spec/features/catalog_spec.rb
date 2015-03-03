@@ -75,7 +75,7 @@ describe 'Catalog' do
           ['&view=list','.view-type-list.active'],
           ['&view=gallery','.view-type-gallery.active']
         ]
-        assertions.each_with_index do |(params,css),index|
+        assertions.each do |(params,css)|
           url = "/catalog?search_field=all_fields#{params}"
           it "view params=#{params}: #{css}\t#{url}" do
             visit url

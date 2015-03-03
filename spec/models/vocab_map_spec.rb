@@ -77,23 +77,23 @@ describe VocabMap do
     end
 
     it 'catches case discrepancies on RHS' do
-      expect { VocabMap.new(fixtures+'/bad-mixed-case.yml') }.to raise_error /Case discrepancy on RHS/
+      expect { VocabMap.new(fixtures+'/bad-mixed-case.yml') }.to raise_error(/Case discrepancy on RHS/)
     end
 
     it 'catches bad yaml types' do
-      expect { VocabMap.new(fixtures+'/bad-not-omap.yml') }.to raise_error /Unexpected datatype/
+      expect { VocabMap.new(fixtures+'/bad-not-omap.yml') }.to raise_error(/Unexpected datatype/)
     end
 
     it 'catches hidden keys' do
-      expect { VocabMap.new(fixtures+'/bad-hidden-keys.yml') }.to raise_error /Hidden keys \["ShouldNotBeRemapped"\]/
+      expect { VocabMap.new(fixtures+'/bad-hidden-keys.yml') }.to raise_error(/Hidden keys \["ShouldNotBeRemapped"\]/)
     end
 
     it 'catches hidden substring' do
-      expect { VocabMap.new(fixtures+'/bad-hidden-substring.yml') }.to raise_error /Hidden keys \["this-prefix-hides", "hidden-by-this-suffix"\]/
+      expect { VocabMap.new(fixtures+'/bad-hidden-substring.yml') }.to raise_error(/Hidden keys \["this-prefix-hides", "hidden-by-this-suffix"\]/)
     end
 
     it 'catches missing defaults' do
-      expect { VocabMap.new(fixtures+'/bad-no-default.yml') }.to raise_error /No default mapping/
+      expect { VocabMap.new(fixtures+'/bad-no-default.yml') }.to raise_error(/No default mapping/)
     end
 
   end

@@ -94,7 +94,7 @@ if __FILE__ == $0
 
   puts "processed #{target_dir}" if target_dir
   fails.each{|type,list|
-    puts "#{fails[type].count} failed to #{type}:\n#{fails[type].join("\n")}".red unless fails[type].empty?
+    puts "#{list.count} failed to #{type}:\n#{list.join("\n")}".red unless list.empty?
   }
   puts "#{success.count} succeeded".green
 
