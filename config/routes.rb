@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-
   id_glob = { id: /.*/ } # So that IDs with periods and slashes are accepted.
 
   root to: 'home#show'
@@ -19,5 +18,4 @@ Rails.application.routes.draw do
     path = req.params['path']
     path.match(/^[a-z\/-]+$/) && !path.match(/^rails/)
   }
-
 end

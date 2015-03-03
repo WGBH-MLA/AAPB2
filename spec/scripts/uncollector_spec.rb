@@ -1,7 +1,6 @@
 require_relative '../../scripts/lib/uncollector'
 
 describe Uncollector do
-
   it '#uncollect_string' do
     x = '<x>X!</x>'
     y = '<y>Y!</y>'
@@ -9,5 +8,4 @@ describe Uncollector do
 
     expect(Uncollector.uncollect_string(collection)).to eq([x, y])
   end
-
 end

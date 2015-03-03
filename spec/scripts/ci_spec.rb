@@ -2,7 +2,6 @@ require_relative '../../scripts/ci/ci'
 require 'tmpdir'
 
 describe Ci, not_on_travis: true, slow: true do
-
   let(:credentials_path) { File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml' }
   let(:aapb_workspace_id) { '051303c1c1d24da7988128e6d2f56aa9' } # we make sure NOT to use this.
 
@@ -137,5 +136,4 @@ describe Ci, not_on_travis: true, slow: true do
     expect(ci.detail(id)['isDeleted']).to eq(true)
     expect(ci.list_names.count).to eq(0)
   end
-
 end

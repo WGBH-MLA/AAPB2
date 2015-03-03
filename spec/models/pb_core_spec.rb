@@ -1,23 +1,18 @@
 require_relative '../../app/models/validated_pb_core'
 
 describe 'Validated and plain PBCore' do
-
   pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
 
   describe ValidatedPBCore do
-
     describe 'valid docs' do
-
       Dir['spec/fixtures/pbcore/clean-*.xml'].each do |path|
         it "accepts #{File.basename(path)}" do
           expect { ValidatedPBCore.new(File.read(path)) }.not_to raise_error
         end
       end
-
     end
 
     describe 'invalid docs' do
-
       it 'rejects missing closing brace' do
         invalid_pbcore = pbc_xml.sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/missing tag start/)
@@ -37,15 +32,11 @@ describe 'Validated and plain PBCore' do
         invalid_pbcore = pbc_xml.gsub(/<instantiationMediaType>[^<]+<\/instantiationMediaType>/, '<instantiationMediaType>unexpected</instantiationMediaType>')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Unexpected media types: \["unexpected"\]/)
       end
-
     end
-
   end
 
   describe PBCore do
-
     describe 'empty' do
-
       empty_pbc = PBCore.new('<pbcoreDescriptionDocument/>')
 
       it '"other" if no media_type' do
@@ -55,11 +46,9 @@ describe 'Validated and plain PBCore' do
       it 'nil if no asset_type' do
         expect(empty_pbc.asset_type).to eq(nil)
       end
-
     end
 
     describe 'full' do
-
       pbc = PBCore.new(pbc_xml)
 
       assertions = {
@@ -116,9 +105,6 @@ describe 'Validated and plain PBCore' do
       it 'tests everthing' do
         expect(assertions.keys.sort).to eq(PBCore.instance_methods(false).sort)
       end
-
     end
-
   end
-
 end

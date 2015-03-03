@@ -2,7 +2,6 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require 'tmpdir'
 
 describe PBCoreIngester do
-
   let(:path) { File.dirname(File.dirname(__FILE__)) + '/fixtures/pbcore/clean-MOCK.xml' }
 
   before(:each) do
@@ -60,5 +59,4 @@ describe PBCoreIngester do
   def expect_results(count)
     expect(@ingester.solr.get('select', params: {q: '*:*'})['response']['numFound']).to eq(count)
   end
-
 end

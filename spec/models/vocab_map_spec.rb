@@ -2,13 +2,11 @@ require 'rexml/document'
 require_relative '../../app/models/vocab_map'
 
 describe VocabMap do
-
   fixtures = File.dirname(File.dirname(__FILE__)) + '/fixtures/vocab-maps'
 
   # TODO: test xml processing, particularly attribute values.
 
   describe 'when the map is good' do
-
     describe 'acceptance' do
       [File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/vocab-maps',
        fixtures].each do |dir|
@@ -61,11 +59,9 @@ describe VocabMap do
       ord_map.map_reorder_nodes(REXML::XPath.match(doc, '/doc/el/@o'))
       expect(doc.to_s).to eq "<doc><el o='erste'>1</el><el o='zweite'>2</el><el o='dritte'>3</el></doc>"
     end
-
   end
 
   describe 'when the map is bad' do
-
     describe 'rejection' do
       [fixtures].each do |dir|
         Dir["#{dir}/*"].grep(/bad-/).each do |yaml|
@@ -95,7 +91,5 @@ describe VocabMap do
     it 'catches missing defaults' do
       expect { VocabMap.new(fixtures + '/bad-no-default.yml') }.to raise_error(/No default mapping/)
     end
-
   end
-
 end

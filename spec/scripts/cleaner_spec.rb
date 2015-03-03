@@ -2,7 +2,6 @@ require_relative '../../scripts/lib/cleaner'
 require_relative '../../app/models/validated_pb_core'
 
 describe Cleaner do
-
   describe 'clean-MOCK.xml' do
     it 'is in fact clean' do
       hopefully_clean = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
@@ -55,5 +54,4 @@ describe Cleaner do
       end
     end
   end
-
 end

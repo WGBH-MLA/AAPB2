@@ -2,7 +2,6 @@ require 'rails_helper'
 require_relative '../support/validation_helper'
 
 describe 'Overrides' do
-
   Dir['app/views/override/**'].each do |override|
     path = override.gsub('app/views/override', '').gsub('.html.erb', '')
 
@@ -12,5 +11,4 @@ describe 'Overrides' do
       expect_fuzzy_xml
     end
   end
-
 end

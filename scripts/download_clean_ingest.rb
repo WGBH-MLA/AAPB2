@@ -66,7 +66,6 @@ if __FILE__ == $0
     .map { |file_name| "#{target_dir}/#{file_name}" }
 
   files.each do |path|
-
     begin
       ingester.ingest(path)
     rescue PBCoreIngester::ReadError => e
@@ -89,7 +88,6 @@ if __FILE__ == $0
       puts "Successfully added '#{path}'".green
       success << path
     end
-
   end
 
   puts 'SUMMARY'

@@ -3,7 +3,6 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/validation_helper'
 
 describe 'Catalog' do
-
   include ValidationHelper
 
   before(:all) do
@@ -32,7 +31,6 @@ describe 'Catalog' do
   end
 
   describe '#index' do
-
     it 'can find one item' do
       visit '/catalog?search_field=all_fields&q=1234'
       expect(page.status_code).to eq(200)
@@ -51,7 +49,6 @@ describe 'Catalog' do
     end
 
     describe 'search constraints' do
-
       describe 'title facets' do
         assertions = [
           ['f[series_titles][]=NOVA', 1],
@@ -160,9 +157,7 @@ describe 'Catalog' do
           end
         end
       end
-
     end
-
   end
 
   describe '.pbcore' do
@@ -175,7 +170,6 @@ describe 'Catalog' do
   end
 
   describe '#show' do
-
     it 'contains expected data' do
       visit '/catalog/1234'
       expect(page.status_code).to eq(200)
@@ -186,7 +180,6 @@ describe 'Catalog' do
 
       expect_thumbnail(1234)
     end
-
   end
 
   describe 'all fixtures' do
@@ -210,5 +203,4 @@ describe 'Catalog' do
       end
     end
   end
-
 end

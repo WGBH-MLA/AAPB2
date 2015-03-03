@@ -3,7 +3,6 @@ require_relative '../../scripts/ci/ci'
 require 'tmpdir'
 
 describe 'Media', not_on_travis: true do
-
   TARGET = 'lorem ipsum'
 
   def safe_ci
@@ -48,5 +47,4 @@ describe 'Media', not_on_travis: true do
 
     ci.delete(ci_id)
   end
-
 end
