@@ -23,15 +23,15 @@ class Organization
     @state = state
     @city = city
     @url = url
-    @history_html = Htmlizer::to_html(history_text) if history_text
-    @productions_html = Htmlizer::to_html(productions_text) if productions_text
+    @history_html = Htmlizer.to_html(history_text) if history_text
+    @productions_html = Htmlizer.to_html(productions_text) if productions_text
     @logo_filename = logo_filename
   end
 
   # TODO: better idiom for locating configuration files?
   (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.xml').tap do |path|
-    @@orgs_by_pbcore_name = ExcelReader::read(path, 0) { |row| Organization.new(*row) }
-    @@orgs_by_id          = ExcelReader::read(path, 1) { |row| Organization.new(*row) }
+    @@orgs_by_pbcore_name = ExcelReader.read(path, 0) { |row| Organization.new(*row) }
+    @@orgs_by_id          = ExcelReader.read(path, 1) { |row| Organization.new(*row) }
   end
 
   public

@@ -21,7 +21,7 @@ describe 'Media', not_on_travis: true do
 
       pbcore = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
       pbcore.gsub!('1234</pbcoreIdentifier>',
-        "1234</pbcoreIdentifier><pbcoreIdentifier source='Sony Ci'>#{ci_id}</pbcoreIdentifier>")
+                   "1234</pbcoreIdentifier><pbcoreIdentifier source='Sony Ci'>#{ci_id}</pbcoreIdentifier>")
 
       ingester = PBCoreIngester.new
       ingester.delete_all

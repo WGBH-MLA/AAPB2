@@ -117,7 +117,7 @@ class Ci < CiCore
       end
 
       row = [Time.now, File.basename(@path), @asset_id,
-        @ci.detail(@asset_id).to_s.gsub("\n", ' ')]
+             @ci.detail(@asset_id).to_s.gsub("\n", ' ')]
       @log_file.write(row.join("\t") + "\n")
       @log_file.flush
 

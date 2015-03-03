@@ -30,7 +30,7 @@ class Downloader
             end
     Dir.chdir(File.dirname(File.dirname(File.dirname(__FILE__))))
     path = ['tmp', 'pbcore', 'download', #
-      "#{Time.now.strftime('%F_%T')}_since_#{since}_starting_page_#{args[:page]}"]
+            "#{Time.now.strftime('%F_%T')}_since_#{since}_starting_page_#{args[:page]}"]
     path.each do |dir|
       Dir.mkdir(dir) rescue nil # may already exist
       Dir.chdir(dir)
@@ -88,5 +88,5 @@ end
 
 if __FILE__ == $PROGRAM_NAME
   abort 'No args' unless ARGV.empty?
-  Downloader::download_to_directory_and_link
+  Downloader.download_to_directory_and_link
 end

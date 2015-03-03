@@ -262,13 +262,13 @@ class PBCore
       if matches.length != 1
         fail NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
-        return PBCore::text_from(matches.first)
+        return PBCore.text_from(matches.first)
       end
     end
   end
 
   def xpaths(xpath)
-    REXML::XPath.match(@doc, xpath).map { |node| PBCore::text_from(node) }
+    REXML::XPath.match(@doc, xpath).map { |node| PBCore.text_from(node) }
   end
 
   def self.text_from(node)

@@ -47,17 +47,6 @@ Metrics/ParameterLists:
 Metrics/PerceivedComplexity:
   Max: 10
 
-# Offense count: 2
-# Cop supports --auto-correct.
-Style/AlignArray:
-  Enabled: false
-
-# Offense count: 4
-# Cop supports --auto-correct.
-# Configuration parameters: EnforcedStyle, SupportedStyles.
-Style/AlignParameters:
-  Enabled: false
-
 # Offense count: 6
 # Configuration parameters: IndentWhenRelativeTo, SupportedStyles, IndentOneStep.
 Style/CaseIndentation:
@@ -65,11 +54,6 @@ Style/CaseIndentation:
   
 # Offense count: 5
 Style/ClassVars:
-  Enabled: false
-  
-# Offense count: 14
-# Cop supports --auto-correct.
-Style/ColonMethodCall:
   Enabled: false
 
 # Offense count: 33
@@ -79,11 +63,6 @@ Style/Documentation:
 # Offense count: 4
 # Configuration parameters: MaxLineLength.
 Style/IfUnlessModifier:
-  Enabled: false
-
-# Offense count: 2
-# Cop supports --auto-correct.
-Style/InfiniteLoop:
   Enabled: false
 
 # Offense count: 1
@@ -107,11 +86,6 @@ Style/RegexpLiteral:
 
 # Offense count: 2
 Style/RescueModifier:
-  Enabled: false
-
-# Offense count: 9
-# Cop supports --auto-correct.
-Style/SingleSpaceBeforeFirstArg:
   Enabled: false
 
 

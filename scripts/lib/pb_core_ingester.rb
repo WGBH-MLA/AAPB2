@@ -32,7 +32,7 @@ class PBCoreIngester
     case xml_top
     when /<pbcoreCollection/
       @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
-      Uncollector::uncollect_string(xml).each do |document|
+      Uncollector.uncollect_string(xml).each do |document|
         ingest_xml(cleaner.clean(document))
       end
     when /<pbcoreDescriptionDocument/

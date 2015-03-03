@@ -40,11 +40,11 @@ if __FILE__ == $PROGRAM_NAME
 
     when '--all'
       fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-      target_dir = Downloader::download_to_directory_and_link(page: args.first.to_i)
+      target_dir = Downloader.download_to_directory_and_link(page: args.first.to_i)
 
     when '--back'
       fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
-      target_dir = Downloader::download_to_directory_and_link(days: args.first.to_i)
+      target_dir = Downloader.download_to_directory_and_link(days: args.first.to_i)
 
     when '--dir'
       fail ParamsError.new unless args.count == 1 && File.directory?(args.first)
