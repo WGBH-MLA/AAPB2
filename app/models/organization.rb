@@ -30,8 +30,8 @@ class Organization
 
   # TODO: better idiom for locating configuration files?
   (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.xml').tap do |path|
-    @@orgs_by_pbcore_name = ExcelReader::read(path,0) { |row| Organization.new(*row) }
-    @@orgs_by_id          = ExcelReader::read(path,1) { |row| Organization.new(*row) }
+    @@orgs_by_pbcore_name = ExcelReader::read(path, 0) { |row| Organization.new(*row) }
+    @@orgs_by_id          = ExcelReader::read(path, 1) { |row| Organization.new(*row) }
   end
 
   public

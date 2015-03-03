@@ -19,22 +19,22 @@ describe 'Validated and plain PBCore' do
     describe 'invalid docs' do
 
       it 'rejects missing closing brace' do
-        invalid_pbcore = pbc_xml.sub(/>\s*$/,'')
+        invalid_pbcore = pbc_xml.sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/missing tag start/)
       end
 
       it 'rejects missing closing tag' do
-        invalid_pbcore = pbc_xml.sub(/<\/[^>]+>\s*$/,'')
+        invalid_pbcore = pbc_xml.sub(/<\/[^>]+>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Missing end tag/)
       end
 
       it 'rejects missing namespace' do
-        invalid_pbcore = pbc_xml.sub(/xmlns=['"][^'"]+['"]/,'')
+        invalid_pbcore = pbc_xml.sub(/xmlns=['"][^'"]+['"]/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Element 'pbcoreDescriptionDocument': No matching global declaration/)
       end
 
       it 'rejects unknown media types at creation' do
-        invalid_pbcore = pbc_xml.gsub(/<instantiationMediaType>[^<]+<\/instantiationMediaType>/,'<instantiationMediaType>unexpected</instantiationMediaType>')
+        invalid_pbcore = pbc_xml.gsub(/<instantiationMediaType>[^<]+<\/instantiationMediaType>/, '<instantiationMediaType>unexpected</instantiationMediaType>')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Unexpected media types: \["unexpected"\]/)
       end
 
@@ -86,11 +86,11 @@ describe 'Validated and plain PBCore' do
         titles: [['Program', 'Gratuitous Explosions'], ['Series', 'NOVA']],
         title: 'Gratuitous Explosions',
         descriptions: ['Best episode ever!'],
-        instantiations: [PBCore::Instantiation.new('Moving Image','0:12:34')],
+        instantiations: [PBCore::Instantiation.new('Moving Image', '0:12:34')],
         rights_summary: 'Copy Left: All rights reversed.',
-        genres: ['Horror','Musical'],
+        genres: ['Horror', 'Musical'],
         id: '1234',
-        ids: [['AAPB ID', '1234'], ['somewhere else','5678']],
+        ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
         ci_id: nil,
         media_src: nil,
         img_src: '/thumbs/video-not-digitized.jpg', #TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
@@ -107,7 +107,7 @@ describe 'Validated and plain PBCore' do
         publishers: [PBCore::NameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
       }
 
-      assertions.each do |method,value|
+      assertions.each do |method, value|
         it "\##{method} works" do
           expect(pbc.send(method)).to eq(value)
         end

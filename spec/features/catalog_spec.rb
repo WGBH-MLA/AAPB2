@@ -22,7 +22,7 @@ describe 'Catalog' do
     when 1
       expect(page).to have_text('1 entry found')
     else
-      expect(page).to have_text("1 - #{[count,10].min} of #{count}")
+      expect(page).to have_text("1 - #{[count, 10].min} of #{count}")
     end
   end
 
@@ -54,10 +54,10 @@ describe 'Catalog' do
 
       describe 'title facets' do
         assertions = [
-          ['f[series_titles][]=NOVA',1],
-          ['f[program_titles][]=Gratuitous+Explosions',1]
+          ['f[series_titles][]=NOVA', 1],
+          ['f[program_titles][]=Gratuitous+Explosions', 1]
         ]
-        assertions.each do |(param,count)|
+        assertions.each do |(param, count)|
           url = "/catalog?#{param}"
           it "view #{url}" do
             visit url
@@ -71,11 +71,11 @@ describe 'Catalog' do
       describe 'views' do
         assertions = [
           # Better if we actually looked for something in the results?
-          ['','.view-type-list.active'],
-          ['&view=list','.view-type-list.active'],
-          ['&view=gallery','.view-type-gallery.active']
+          ['', '.view-type-list.active'],
+          ['&view=list', '.view-type-list.active'],
+          ['&view=gallery', '.view-type-gallery.active']
         ]
-        assertions.each do |(params,css)|
+        assertions.each do |(params, css)|
           url = "/catalog?search_field=all_fields#{params}"
           it "view params=#{params}: #{css}\t#{url}" do
             visit url
@@ -88,21 +88,21 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type','Sound',6],
-          ['genres','Interview',3],
-          ['asset_type','Segment',5],
-          ['organization','WGBH',1],
-          ['year','2000',1],
-          ['access_types','All',19]
+          ['media_type', 'Sound', 6],
+          ['genres', 'Interview', 3],
+          ['asset_type', 'Segment', 5],
+          ['organization', 'WGBH', 1],
+          ['year', '2000', 1],
+          ['access_types', 'All', 19]
         ]
-        assertions.each_with_index do |(facet,value,count),index|
+        assertions.each_with_index do |(facet, value, count), index|
           url = "/catalog?f[#{facet}][]=#{value}"
           it "#{facet}=#{value}: #{count}\t#{url}" do
             visit url
             if index == 0
               expect(
                 page.all('.panel-heading[data-target]').map { |node|
-                  node['data-target'].gsub('#facet-','')
+                  node['data-target'].gsub('#facet-', '')
                 }
               ).to eq(assertions.map { |a| a.first }) # coverage
             end
@@ -115,11 +115,11 @@ describe 'Catalog' do
 
       describe 'fields' do
         assertions = [
-          ['all_fields','Larry',2],
-          ['titles','Larry',1],
-          ['contribs','Larry',1]
+          ['all_fields', 'Larry', 2],
+          ['titles', 'Larry', 1],
+          ['contribs', 'Larry', 1]
         ]
-        assertions.each_with_index do |(constraint,value,count),index|
+        assertions.each_with_index do |(constraint, value, count), index|
           url = "/catalog?search_field=#{constraint}&q=#{value}"
           it "#{constraint}=#{value}: #{count}\t#{url}" do
             visit url
@@ -139,18 +139,18 @@ describe 'Catalog' do
 
       describe 'sorting' do
         assertions = [
-          ['score+desc','From Bessie Smith to Bruce Springsteen'],
-          ['year+desc','Gratuitous Explosions'],
-          ['title+asc','#508']
+          ['score+desc', 'From Bessie Smith to Bruce Springsteen'],
+          ['year+desc', 'Gratuitous Explosions'],
+          ['title+asc', '#508']
         ]
-        assertions.each_with_index do |(sort,title),index|
+        assertions.each_with_index do |(sort, title), index|
           url = "/catalog?search_field=all_fields&sort=#{sort}"
           it "sort=#{sort}: '#{title}'\t#{url}" do
             visit url
             if index == 0
               expect(
                 page.all('#sort-dropdown .dropdown-menu a').map { |node|
-                  node['href'].gsub(/.*sort=/,'')
+                  node['href'].gsub(/.*sort=/, '')
                 }
               ).to eq(assertions.map { |a| a.first }) # coverage
             end
@@ -193,13 +193,13 @@ describe 'Catalog' do
     Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
       id = PBCore.new(File.read(file_name)).id
       describe id do
-        details_url = "/catalog/#{id.gsub('/','%2F')}" # Remember the URLs are tricky.
+        details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
         it "details: #{details_url}" do
           visit details_url
           expect(page.status_code).to eq(200)
           expect_fuzzy_xml
         end
-        search_url = "/catalog?search_field=all_fields&q=#{id.gsub(/^(.*\W)?(\w+)$/,'\2')}"
+        search_url = "/catalog?search_field=all_fields&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
         # because of tokenization, unless we strip the ID down we will get other matches.
         it "search: #{search_url}" do
           visit search_url

@@ -15,7 +15,7 @@ class Cleaner
     @report = {}
     def @report.to_s
       out = ''
-      self.sort.each do |category,set|
+      self.sort.each do |category, set|
         out << "#{category}\n"
         set.sort.each do |member|
           out << "\t#{member}\n"
@@ -27,7 +27,7 @@ class Cleaner
 
   def clean(dirty_xml, name='not specified')
     dirty_xml.gsub!("xsi:xmlns='http://www.w3.org/2001/XMLSchema-instance'", "xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'")
-    dirty_xml.gsub!("xmlns:xsi='xsi'",'')
+    dirty_xml.gsub!("xmlns:xsi='xsi'", '')
     doc = REXML::Document.new(dirty_xml)
     @current_name = name # A little bit icky, but makes the match calls simpler, rather than passing another parameter.
 
@@ -127,7 +127,7 @@ class Cleaner
     # pbcoreInstantiation:
 
     match(doc, '/pbcoreInstantiation[not(instantiationIdentifier)]') { |node|
-      node[0,0] = REXML::Element.new('instantiationIdentifier')
+      node[0, 0] = REXML::Element.new('instantiationIdentifier')
     }
 
     match(doc, '/pbcoreInstantiation/instantiationIdentifier[not(@source)]') { |node|
@@ -154,7 +154,7 @@ class Cleaner
       node.text='other'
     }
 
-    match_no_report(doc,'/pbcoreInstantiation/instantiationLanguage') { |node|
+    match_no_report(doc, '/pbcoreInstantiation/instantiationLanguage') { |node|
       # TODO: report
       node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
       node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/

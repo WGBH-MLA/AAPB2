@@ -7,7 +7,7 @@ describe Uncollector do
     y = '<y>Y!</y>'
     collection = "<collection>#{x}#{y}</collection>"
 
-    expect(Uncollector.uncollect_string(collection)).to eq([x,y])
+    expect(Uncollector.uncollect_string(collection)).to eq([x, y])
   end
 
 end

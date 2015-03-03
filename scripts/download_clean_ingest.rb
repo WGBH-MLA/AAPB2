@@ -60,7 +60,7 @@ if __FILE__ == $0
   end
 
   files ||= Dir.entries(target_dir)
-    .reject { |file_name| ['.','..'].include?(file_name) }
+    .reject { |file_name| ['.', '..'].include?(file_name) }
     .map { |file_name| "#{target_dir}/#{file_name}" }
 
   files.each do |path|
@@ -93,7 +93,7 @@ if __FILE__ == $0
   puts 'SUMMARY'
 
   puts "processed #{target_dir}" if target_dir
-  fails.each {|type,list|
+  fails.each {|type, list|
     puts "#{list.count} failed to #{type}:\n#{list.join("\n")}".red unless list.empty?
   }
   puts "#{success.count} succeeded".green

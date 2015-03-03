@@ -29,7 +29,7 @@ class Downloader
               '20000101' # ie, beginning of time.
             end
     Dir.chdir(File.dirname(File.dirname(File.dirname(__FILE__))))
-    path = ['tmp','pbcore','download', #
+    path = ['tmp', 'pbcore', 'download', #
       "#{Time.now.strftime('%F_%T')}_since_#{since}_starting_page_#{args[:page]}"]
     path.each do |dir|
       Dir.mkdir(dir) rescue nil # may already exist
@@ -44,7 +44,7 @@ class Downloader
     if File.exist?(link_name) # Does not return true for links! At least for me...
       raise "Did not expect '#{link_name}'"
     end
-    File.symlink(path.last,link_name)
+    File.symlink(path.last, link_name)
 
     Dir.chdir(link_name)
     downloader = Downloader.new(since)
@@ -54,7 +54,7 @@ class Downloader
   end
 
   def download_to_directory(start_page)
-    download(start_page) do |collection,page|
+    download(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
       File.write(name, collection)
       @log << "#{Time.now}\tWrote #{name}\n"
@@ -79,7 +79,7 @@ class Downloader
         return
       else
         @log << "#{Time.now}\tGot page #{page}\n"
-        yield(content,page)
+        yield(content, page)
         page += 1
       end
     end

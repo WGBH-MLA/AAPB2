@@ -125,7 +125,7 @@ class Ci < CiCore
       end
 
       row = [Time.now, File.basename(@path), @asset_id,
-        @ci.detail(@asset_id).to_s.gsub("\n",' ')]
+        @ci.detail(@asset_id).to_s.gsub("\n", ' ')]
       @log_file.write(row.join("\t")+"\n")
       @log_file.flush
 
@@ -185,7 +185,7 @@ class Ci < CiCore
 end
 
 if __FILE__ == $0
-  args = Hash[ARGV.slice_before { |a| a.match(/^--/) }.to_a.map { |a| [a[0].gsub(/^--/,''),a[1..-1]] }] rescue {}
+  args = Hash[ARGV.slice_before { |a| a.match(/^--/) }.to_a.map { |a| [a[0].gsub(/^--/, ''), a[1..-1]] }] rescue {}
 
   ci = Ci.new(
     #verbose: true,
@@ -194,7 +194,7 @@ if __FILE__ == $0
   begin
     case args.keys.sort
 
-    when ['log','up']
+    when ['log', 'up']
       raise ArgumentError.new if args['log'].empty? || args['up'].empty?
       args['up'].each { |path| ci.upload(path, args['log'].first) }
 
@@ -212,7 +212,7 @@ if __FILE__ == $0
         File.foreach(file) do |line|
           line.chomp!
           id = line.split("\t")[2]
-          detail = ci.detail(id).to_s.gsub("\n",' ')
+          detail = ci.detail(id).to_s.gsub("\n", ' ')
           puts line + "\t" + detail
         end
       end

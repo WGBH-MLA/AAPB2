@@ -39,7 +39,7 @@ describe Ci, not_on_travis: true, slow: true do
     ci = safe_ci
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
-      ['js','html','rb'].each do |disallowed_ext|
+      ['js', 'html', 'rb'].each do |disallowed_ext|
         path = "#{dir}/file-name.#{disallowed_ext}"
         File.write(path, "content doesn't matter")
         expect { ci.upload(path, log_path) }.to raise_exception(/Upload failed/)
@@ -114,7 +114,7 @@ describe Ci, not_on_travis: true, slow: true do
     id = log_content.strip.split("\t")[2]
 
     detail = ci.detail(id)
-    expect([detail['name'],detail['id']]).to eq([basename,id])
+    expect([detail['name'], detail['id']]).to eq([basename, id])
 
     before = Time.now
     ci.download(id)

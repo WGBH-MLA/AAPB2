@@ -49,7 +49,7 @@ class PBCore
     nil
   end
   def asset_dates
-    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate','@dateType')
+    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType')
   end
   def asset_date
     @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
@@ -57,13 +57,13 @@ class PBCore
     nil
   end
   def titles
-    @titles ||= pairs_by_type('/*/pbcoreTitle','@titleType')
+    @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
   def title
     @title ||= xpath('/*/pbcoreTitle[1]')
   end
   def id
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_','_/')
+    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')
     # AAPB IDs, frustratingly, include slashes. We don't expect to see underscore,
     # so swap these two for a loss-less mapping. May revisit.
   end
@@ -82,18 +82,18 @@ class PBCore
     @media_src ||= ci_id ? "/media/#{id}" : nil
   end
   def img_src
-    @img_src ||= case [media_type,digitized?]
-    when [MOVING_IMAGE,true]
+    @img_src ||= case [media_type, digitized?]
+    when [MOVING_IMAGE, true]
       '/thumbs/video-digitized.jpg' # TODO! "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
-    when [MOVING_IMAGE,false]
+    when [MOVING_IMAGE, false]
       '/thumbs/video-not-digitized.jpg'
-    when [SOUND,true]
+    when [SOUND, true]
       '/thumbs/audio-digitized.jpg'
-    when [SOUND,false]
+    when [SOUND, false]
       '/thumbs/audio-not-digitized.jpg'
-    when [OTHER,true]
+    when [OTHER, true]
       '/thumbs/other.jpg'
-    when [OTHER,false]
+    when [OTHER, false]
       '/thumbs/other.jpg'
     end
   end
@@ -159,7 +159,7 @@ class PBCore
       'access_types' => access_types
     }.merge(
       Hash[
-        titles.group_by { |pair| pair[0] }.map {|key,pairs|
+        titles.group_by { |pair| pair[0] }.map {|key, pairs|
           ["#{key.downcase}_titles", pairs.map { |pair| pair[1] }]
         }
       ]
@@ -187,7 +187,7 @@ class PBCore
       @duration ||= optional('instantiationDuration')
     end
     def to_a
-      [media_type,duration].select { |x| x }
+      [media_type, duration].select { |x| x }
     end
 
     private
@@ -208,7 +208,7 @@ class PBCore
         @affiliation = affiliation
       else
         @rexml = rexml_or_stem
-        @stem = @rexml.name.gsub('pbcore','').downcase
+        @stem = @rexml.name.gsub('pbcore', '').downcase
       end
     end
     def ==(other)
@@ -235,7 +235,7 @@ class PBCore
       end
     end
     def to_a
-      [name,role,affiliation].select { |x| x }
+      [name, role, affiliation].select { |x| x }
     end
   end
 
@@ -289,7 +289,7 @@ class PBCore
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text,:to_solr,:contribs,:img_src,:media_src,:rights_code,:access_types]
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types]
     @text ||= (PBCore.instance_methods(false)-ignores)
       .reject { |method| method=~/\?$/ } # skip booleans
       .map { |method| self.send(method) } # method -> value
@@ -309,7 +309,7 @@ class PBCore
       xpaths('/*/pbcorePublisher/publisher/@affiliation')
   end
   def year
-    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/,'') : nil
+    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
   end
 
 end

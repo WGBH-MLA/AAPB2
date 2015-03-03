@@ -6,7 +6,7 @@ describe Cleaner do
   describe 'clean-MOCK.xml' do
     it 'is in fact clean' do
       hopefully_clean = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
-      clean = Cleaner.new.clean(hopefully_clean,'hopefully')
+      clean = Cleaner.new.clean(hopefully_clean, 'hopefully')
       expect(clean).to eq hopefully_clean
       expect { ValidatedPBCore.new(clean) }.not_to raise_error
     end
@@ -21,7 +21,7 @@ describe Cleaner do
         dirty = File.read(path_dirty)
         clean = File.read(path_clean)
 
-        expect(cleaner.clean(dirty,name)).to eq(clean)
+        expect(cleaner.clean(dirty, name)).to eq(clean)
 
         path_report = path_dirty.gsub('dirty-yes-fix', 'report').gsub('.xml', '.txt')
         # To create new test:
@@ -43,7 +43,7 @@ describe Cleaner do
 
         expect do
           # Error could occur in either phase: we don't care.
-          clean = cleaner.clean(dirty,name)
+          clean = cleaner.clean(dirty, name)
           ValidatedPBCore.new(clean)
         end.to raise_error
 

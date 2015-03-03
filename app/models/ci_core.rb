@@ -27,7 +27,7 @@ class CiCore
       'grant_type' => 'password',
       'client_id' => credentials['client_id'],
       'client_secret' => credentials['client_secret']
-    }.map { |k,v| Curl::PostField.content(k,v) }
+    }.map { |k, v| Curl::PostField.content(k, v) }
 
     curl = Curl::Easy.http_post('https://api.cimediacloud.com/oauth2/token', *params) do |c|
       c.verbose = @verbose

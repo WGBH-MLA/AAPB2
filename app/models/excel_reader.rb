@@ -28,7 +28,7 @@ module ExcelReader
           rescue ArgumentError => e
             raise ArgumentError.new(e.message + " Row #{row_number}. #{params}. #{row}")
           end
-          [key,value]
+          [key, value]
         end
       end.select { |x| x }
     ]
