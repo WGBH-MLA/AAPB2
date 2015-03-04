@@ -69,8 +69,8 @@ describe 'Validated and plain PBCore' do
             'Program', 'Gratuitous Explosions', 'Series', 'NOVA', '1234', #
             'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts'],
-          'title' => 'Kaboom!',
           'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'NOVA'],
+          'title' => 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1', 
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
           'year' => '2000',
           'media_type' => 'Moving Image',
@@ -83,6 +83,7 @@ describe 'Validated and plain PBCore' do
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['uncataloged', '2000-01-01']],
+        titles_sort: 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
         titles: [['Episode Number', '3-2-1'], ['Episode', 'Kaboom!'], #
                  ['Program', 'Gratuitous Explosions'], ['Series', 'NOVA']],
         title: 'Kaboom!',

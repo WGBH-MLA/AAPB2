@@ -138,10 +138,10 @@ describe 'Catalog' do
 
       describe 'sorting' do
         assertions = [
-          ['score+desc', 'From Bessie Smith to Bruce Springsteen'],
+          ['score+desc', 'Four Decades of Dedication: The 40th Anniversary Special'],
           ['year+desc', 'Kaboom!'],
           ['year+asc', 'From Bessie Smith to Bruce Springsteen'],
-          ['title+asc', '#508']
+          ['title+asc', 'World Youth Symphony Orchestra with Concerto Winners - Part II of II (261st program, 50th season)']
         ]
         assertions.each_with_index do |(sort, title), index|
           url = "/catalog?search_field=all_fields&sort=#{sort}"
