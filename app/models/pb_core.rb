@@ -57,6 +57,9 @@ class PBCore
   rescue NoMatchError
     nil
   end
+  def titles_sort
+    @titles_sort ||= titles.reverse.map { |pair| pair.last }.join(' -- ')
+  end
   def titles
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
@@ -85,7 +88,7 @@ class PBCore
   def img_src
     @img_src ||= case [media_type, digitized?]
     when [MOVING_IMAGE, true]
-      '/thumbs/video-digitized.jpg' # TODO! "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+      '/thumbs/video-digitized.jpg' # TODO: "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
     when [MOVING_IMAGE, false]
       '/thumbs/video-not-digitized.jpg'
     when [SOUND, true]
@@ -149,7 +152,7 @@ class PBCore
       'contribs' => contribs,
 
       # sort:
-      'title' => title,
+      'title' => titles_sort,
 
       # sort and facet:
       'year' => year,
@@ -302,7 +305,7 @@ class PBCore
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types]
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types, :titles_sort]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
