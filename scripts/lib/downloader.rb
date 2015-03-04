@@ -8,7 +8,7 @@ class Downloader
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
 
-  def initialize(since) # rubocop:disable Metrics/PerceivedComplexity
+  def initialize(since) # rubocop:disable PerceivedComplexity, CyclomaticComplexity
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
       fail("Expected YYYYMMDD, not '#{since}'") unless

@@ -7,7 +7,7 @@ class CiCore
   attr_reader :verbose
   attr_reader :workspace_id
 
-  def initialize(opts={}) # rubocop:disable Metrics/PerceivedComplexity
+  def initialize(opts={}) # rubocop:disable PerceivedComplexity, CyclomaticComplexity
     unrecognized_opts = opts.keys - [:verbose, :credentials_path, :credentials]
     fail "Unrecognized options #{unrecognized_opts}" unless unrecognized_opts == []
 

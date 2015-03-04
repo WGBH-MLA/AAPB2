@@ -85,7 +85,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def media_src
     @media_src ||= ci_id ? "/media/#{id}" : nil
   end
-  def img_src
+  def img_src # rubocop:disable CyclomaticComplexity
     @img_src ||=
       case [media_type, digitized?]
       when [MOVING_IMAGE, true]
