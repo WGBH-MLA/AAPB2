@@ -1,4 +1,4 @@
-inherit_from: .rubocop_todo.yml
+#inherit_from: .rubocop_todo.yml
 
 # TODO: What's a better idiom?
 Style/MultilineBlockChain:
@@ -12,10 +12,6 @@ Style/WordArray:
   
 Style/SpaceAroundEqualsInParameterDefault:
   EnforcedStyle: no_space
-  
-# Should be lower.
-Metrics/LineLength:
-  Max: 180
   
 Metrics/ParameterLists:
   Max: 4
@@ -36,3 +32,16 @@ AllCops:
   Exclude:
     - 'bin/**'
     - 'db/schema.rb'
+    
+## TODO ##
+
+Metrics/AbcSize:
+  Max: 80
+Metrics/MethodLength:
+  Max: 97
+Style/ClassVars:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Metrics/LineLength:
+  Max: 180
