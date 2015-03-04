@@ -2,7 +2,7 @@ require 'rexml/document'
 require 'set'
 require_relative '../../app/models/vocab_map'
 
-class Cleaner
+class Cleaner # rubocop:disable Metrics/ClassLength
   attr_reader :report
 
   def initialize

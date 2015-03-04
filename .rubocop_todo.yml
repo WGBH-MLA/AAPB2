@@ -5,19 +5,9 @@
 # Note that changes in the inspected code, or installation of new
 # versions of RuboCop, may require this file to be generated again.
 
-# Offense count: 2
-# Cop supports --auto-correct.
-Lint/UnusedMethodArgument:
-  Enabled: false
-
 # Offense count: 14
 Metrics/AbcSize:
   Max: 80
-
-# Offense count: 2
-# Configuration parameters: CountComments.
-Metrics/ClassLength:
-  Max: 203
 
 # Offense count: 3
 Metrics/CyclomaticComplexity:
@@ -31,11 +21,6 @@ Metrics/MethodLength:
 # Offense count: 28
 # Cop supports --auto-correct.
 Style/Blocks:
-  Enabled: false
-
-# Offense count: 6
-# Configuration parameters: IndentWhenRelativeTo, SupportedStyles, IndentOneStep.
-Style/CaseIndentation:
   Enabled: false
 
 # Offense count: 5
