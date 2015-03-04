@@ -50,7 +50,7 @@ class Downloader
     downloader = Downloader.new(since)
     downloader.download_to_directory(args[:page])
 
-    return Dir.pwd
+    Dir.pwd
   end
 
   def download_to_directory(start_page)

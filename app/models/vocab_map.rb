@@ -24,7 +24,7 @@ class VocabMap
   end
 
   def map_string(s)
-    return @case_map[s.downcase] ||
+    @case_map[s.downcase] ||
       @map.select { |key| s.downcase.include? key.downcase }.values.first ||
       fail("No match found for '#{s}'")
   end

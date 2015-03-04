@@ -32,9 +32,3 @@ Style/Documentation:
 # Configuration parameters: EnforcedStyle, SupportedStyles.
 Style/RaiseArgs:
   Enabled: false
-
-# Offense count: 4
-# Cop supports --auto-correct.
-# Configuration parameters: AllowMultipleReturnValues.
-Style/RedundantReturn:
-  Enabled: false

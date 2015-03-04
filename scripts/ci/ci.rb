@@ -121,7 +121,7 @@ class Ci < CiCore
       @log_file.write(row.join("\t") + "\n")
       @log_file.flush
 
-      return @asset_id
+      @asset_id
     end
 
     private
