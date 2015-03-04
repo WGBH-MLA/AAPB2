@@ -36,6 +36,8 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       expect_count(1)
       [
+        '3-2-1',
+        'Kaboom!',
         'Gratuitous Explosions',
         'Series NOVA',
         'uncataloged 2000-01-01',
@@ -137,7 +139,7 @@ describe 'Catalog' do
       describe 'sorting' do
         assertions = [
           ['score+desc', 'From Bessie Smith to Bruce Springsteen'],
-          ['year+desc', 'Gratuitous Explosions'],
+          ['year+desc', 'Kaboom!'],
           ['title+asc', '#508']
         ]
         assertions.each_with_index do |(sort, title), index|
