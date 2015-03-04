@@ -1,4 +1,4 @@
-require 'net/http'
+require 'open-uri'
 require 'rexml/xpath'
 require 'rexml/document'
 require 'set'
@@ -68,7 +68,7 @@ class Downloader
       until content
         begin
           @log << "#{Time.now}\tTrying #{url}\n"
-          content = Net::HTTP.get(URI.parse(url))
+          content = URI.parse(url).read(read_timeout: 240)
         rescue Net::ReadTimeout
           @log << "#{Time.now}\tTimeout. Retrying in 10...\n"
           sleep 10
