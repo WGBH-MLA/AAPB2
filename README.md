@@ -31,6 +31,9 @@ At this point you can
 - Ingest the fixtures: `ruby scripts/download_clean_ingest.rb --files spec/fixtures/pbcore/clean-*.xml`
 - Start rails: `rails s`
 
+# Code style
+
+We are using [Rubocop's](https://github.com/bbatsov/rubocop) defaults, for the most part. For simple stuff, like whitespace correction, `rubocop --auto-correct` will make the necessary edits.
 
 # Deployment and Management
 
