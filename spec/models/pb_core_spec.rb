@@ -15,22 +15,28 @@ describe 'Validated and plain PBCore' do
     describe 'invalid docs' do
       it 'rejects missing closing brace' do
         invalid_pbcore = pbc_xml.sub(/>\s*$/, '')
-        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/missing tag start/)
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/missing tag start/))
       end
 
       it 'rejects missing closing tag' do
         invalid_pbcore = pbc_xml.sub(/<\/[^>]+>\s*$/, '')
-        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Missing end tag/)
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Missing end tag/))
       end
 
       it 'rejects missing namespace' do
         invalid_pbcore = pbc_xml.sub(/xmlns=['"][^'"]+['"]/, '')
-        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Element 'pbcoreDescriptionDocument': No matching global declaration/)
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Element 'pbcoreDescriptionDocument': No matching global declaration/))
       end
 
       it 'rejects unknown media types at creation' do
-        invalid_pbcore = pbc_xml.gsub(/<instantiationMediaType>[^<]+<\/instantiationMediaType>/, '<instantiationMediaType>unexpected</instantiationMediaType>')
-        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error(/Unexpected media types: \["unexpected"\]/)
+        invalid_pbcore = pbc_xml.gsub(
+          /<instantiationMediaType>[^<]+<\/instantiationMediaType>/,
+          '<instantiationMediaType>unexpected</instantiationMediaType>')
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Unexpected media types: \["unexpected"\]/))
       end
     end
   end
@@ -70,7 +76,7 @@ describe 'Validated and plain PBCore' do
             'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts'],
           'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'NOVA'],
-          'title' => 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1', 
+          'title' => 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
           'year' => '2000',
           'media_type' => 'Moving Image',
@@ -95,7 +101,8 @@ describe 'Validated and plain PBCore' do
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
         ci_id: nil,
         media_src: nil,
-        img_src: '/thumbs/video-not-digitized.jpg', # TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
+        img_src: '/thumbs/video-not-digitized.jpg',
+        # TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
         rights_code: 'PUBLIC',

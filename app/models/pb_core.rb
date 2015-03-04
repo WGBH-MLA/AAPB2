@@ -166,7 +166,7 @@ class PBCore
     }.merge(
       Hash[
         titles.group_by { |pair| pair[0] }.map do|key, pairs|
-          ["#{key.downcase.tr(' ','_')}_titles", pairs.map { |pair| pair[1] }]
+          ["#{key.downcase.tr(' ', '_')}_titles", pairs.map { |pair| pair[1] }]
         end
       ]
     )

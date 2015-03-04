@@ -5,7 +5,7 @@ require_relative 'lib/pb_core_ingester'
 if __FILE__ == $PROGRAM_NAME
 
   $stdout.sync # TODO: Use a real logging framework
-  
+
   class Exception
     def short
       message + "\n" + backtrace[0..2].join("\n")

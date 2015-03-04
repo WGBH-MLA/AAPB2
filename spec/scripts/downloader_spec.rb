@@ -2,7 +2,7 @@ require 'tmpdir'
 require_relative '../../scripts/lib/downloader'
 
 describe Downloader, non_on_travis: true do
-  # Could be run on Travis, but very slow, and it depends on an outside service. 
+  # Could be run on Travis, but very slow, and it depends on an outside service.
   it 'works' do
     Dir.mktmpdir do |tmpdir|
       Dir.chdir(tmpdir) do |dir|

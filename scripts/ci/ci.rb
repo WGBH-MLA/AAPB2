@@ -11,7 +11,8 @@ class Ci < CiCore
   end
 
   def list_names
-    list.map { |item| item['name'] } - ['Workspace'] # A self reference is present even in an empty workspace.
+    list.map { |item| item['name'] } - ['Workspace']
+    # A self reference is present even in an empty workspace.
   end
 
   def list(limit=50, offset=0)
@@ -81,7 +82,8 @@ class Ci < CiCore
     end
 
     def list(limit, offset)
-      curl = Curl::Easy.http_get('https:'"//api.cimediacloud.com/workspaces/#{@ci.workspace_id}/contents?limit=#{limit}&offset=#{offset}") do |c|
+      curl = Curl::Easy.http_get('https:''//api.cimediacloud.com/workspaces/' \
+                                 "#{@ci.workspace_id}/contents?limit=#{limit}&offset=#{offset}") do |c|
         perform(c)
       end
       JSON.parse(curl.body_str)['items']

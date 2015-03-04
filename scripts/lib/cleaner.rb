@@ -25,7 +25,8 @@ class Cleaner
   end
 
   def clean(dirty_xml, name='not specified')
-    dirty_xml.gsub!("xsi:xmlns='http://www.w3.org/2001/XMLSchema-instance'", "xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'")
+    dirty_xml.gsub!("xsi:xmlns='http://www.w3.org/2001/XMLSchema-instance'",
+                    "xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'")
     dirty_xml.gsub!("xmlns:xsi='xsi'", '')
     doc = REXML::Document.new(dirty_xml)
     @current_name = name # A little bit icky, but makes the match calls simpler, rather than passing another parameter.
@@ -69,11 +70,13 @@ class Cleaner
       node.attributes['titleType'] = ''
     }
 
-    @title_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
+    @title_type_map.map_reorder_nodes(
+      REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
 
     # pbcoreDescription:
 
-    @description_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreDescription/@descriptionType'))
+    @description_type_map.map_reorder_nodes(
+      REXML::XPath.match(doc, '//pbcoreDescription/@descriptionType'))
 
     # pbcoreRelation:
 
@@ -116,7 +119,9 @@ class Cleaner
     match_no_report(doc, '[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]') { |node|
       Cleaner.insert_after_match(
         node,
-        Cleaner.any('pbcore', %w(Description Genre Relation Coverage AudienceLevel AudienceRating Creator Contributor Publisher RightsSummary)),
+        Cleaner.any('pbcore',
+                    %w(Description Genre Relation Coverage AudienceLevel) +
+                    %w(AudienceRating Creator Contributor Publisher RightsSummary)),
         REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' \
                           'ON_LOCATION_ONLY' \
                           '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
@@ -149,7 +154,8 @@ class Cleaner
       )
     }
 
-    match(doc, '/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationMediaType' \
+      '[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
       node.text = 'other'
     }
 

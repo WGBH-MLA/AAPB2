@@ -4,7 +4,7 @@ inherit_from: .rubocop_todo.yml
 Style/MultilineBlockChain:
   Enabled: false
 
-# Nice, but a bit esoteric
+# Nice, but a bit esoteric:
 Style/SymbolProc:
   Enabled: false
 Style/WordArray:
@@ -12,6 +12,10 @@ Style/WordArray:
   
 Style/SpaceAroundEqualsInParameterDefault:
   EnforcedStyle: no_space
+  
+# Should be lower.
+Metrics/LineLength:
+  Max: 180
 
 # Some exceptions
 Style/CommentIndentation:
