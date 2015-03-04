@@ -8,7 +8,7 @@ class Downloader
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
 
-  def initialize(since)
+  def initialize(since) # rubocop:disable Metrics/PerceivedComplexity
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
       fail("Expected YYYYMMDD, not '#{since}'") unless
@@ -32,18 +32,18 @@ class Downloader
     path = ['tmp', 'pbcore', 'download', #
             "#{Time.now.strftime('%F_%T')}_since_#{since}_starting_page_#{args[:page]}"]
     path.each do |dir|
-      Dir.mkdir(dir) rescue nil # may already exist
+      begin
+        Dir.mkdir(dir)
+      rescue
+        nil # may already exist
+      end
       Dir.chdir(dir)
     end
 
     Dir.chdir('..')
     link_name = 'LATEST'
-    if File.symlink?(link_name)
-      File.unlink(link_name)
-    end
-    if File.exist?(link_name) # Does not return true for links! At least for me...
-      fail "Did not expect '#{link_name}'"
-    end
+    File.unlink(link_name) if File.symlink?(link_name)
+    fail "Did not expect '#{link_name}'" if File.exist?(link_name)
     File.symlink(path.last, link_name)
 
     Dir.chdir(link_name)

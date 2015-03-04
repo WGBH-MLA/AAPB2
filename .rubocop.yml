@@ -16,8 +16,11 @@ Style/SpaceAroundEqualsInParameterDefault:
 # Should be lower.
 Metrics/LineLength:
   Max: 180
+  
+Metrics/ParameterLists:
+  Max: 4
 
-# Some exceptions
+# I like to distinguish code blocks which are commented out from real comments
 Style/CommentIndentation:
   Enabled: false
 

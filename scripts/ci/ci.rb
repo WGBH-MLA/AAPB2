@@ -31,8 +31,6 @@ class Ci < CiCore
     Detailer.new(self).detail(asset_id)
   end
 
-  private
-
   class CiClient
     # This class hierarchy might be excessive, but it gives us:
     # - a single place for the `perform` method
@@ -175,7 +173,11 @@ class Ci < CiCore
 end
 
 if __FILE__ == $PROGRAM_NAME
-  args = Hash[ARGV.slice_before { |a| a.match(/^--/) }.to_a.map { |a| [a[0].gsub(/^--/, ''), a[1..-1]] }] rescue {}
+  args = begin
+    Hash[ARGV.slice_before { |a| a.match(/^--/) }.to_a.map { |a| [a[0].gsub(/^--/, ''), a[1..-1]] }]
+  rescue
+    {}
+  end
 
   ci = Ci.new(
     # verbose: true,

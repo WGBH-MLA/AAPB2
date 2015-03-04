@@ -125,7 +125,7 @@ describe Ci, not_on_travis: true do
     expect(after - middle).to be < 0.01
     expect(middle - before).to be > 0.1 # Often greater than 1
 
-    expect(download_url).to match(/^https:\/\/ci-buckets/)
+    expect(download_url).to match(%r{^https://ci-buckets})
     if File.new(path).size < 1024
       curl = Curl::Easy.http_get(download_url)
       curl.perform

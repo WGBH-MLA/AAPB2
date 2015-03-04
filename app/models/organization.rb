@@ -14,8 +14,9 @@ class Organization
 
   private
 
-  def initialize(pbcore_name, id, short_name=nil, state=nil, city=nil,
-      url=nil, history_text=nil, productions_text=nil, logo_filename=nil, notes=nil)
+  def initialize( # rubocop:disable Metrics/ParameterLists
+      pbcore_name, id, short_name=nil, state=nil, city=nil, url=nil,
+      history_text=nil, productions_text=nil, logo_filename=nil, notes=nil)
     # TODO: Should all fields be required?
     @pbcore_name = pbcore_name
     @id = id
