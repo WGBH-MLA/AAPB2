@@ -20,8 +20,16 @@ Metrics/LineLength:
 Metrics/ParameterLists:
   Max: 4
 
+# Sometimes more readable?
+Style/Blocks:
+  Enabled: false
+
 # I like to distinguish code blocks which are commented out from real comments
 Style/CommentIndentation:
+  Enabled: false
+
+# Message Often supplied in exception constructor, so I don't think an additional message is essential.
+Style/RaiseArgs:
   Enabled: false
 
 AllCops:
