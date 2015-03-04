@@ -140,6 +140,7 @@ describe 'Catalog' do
         assertions = [
           ['score+desc', 'From Bessie Smith to Bruce Springsteen'],
           ['year+desc', 'Kaboom!'],
+          ['year+asc', 'From Bessie Smith to Bruce Springsteen'],
           ['title+asc', '#508']
         ]
         assertions.each_with_index do |(sort, title), index|
