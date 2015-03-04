@@ -39,6 +39,11 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     # TODO: insert assetType if not given.
 
+    match_no_report(doc, '/pbcoreAssetDate') { |node|
+      match = node.text.match(/^(\d{4})/)
+      Cleaner.delete(node) unless match && match[1].to_i >= 1900
+    }
+    
     # dateType
 
     match(doc, '/pbcoreAssetDate[not(@dateType)]') { |node|
@@ -179,6 +184,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
   private
 
   def add_report(category, instance)
+    # TODO: I don't think anyone ended up using this. Confirm and delete.
     @report[category] ||= Set.new
     @report[category].add(instance)
   end
