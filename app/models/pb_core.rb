@@ -61,7 +61,7 @@ class PBCore
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
   def title
-    @title ||= xpath('/*/pbcoreTitle[1]')
+    @title ||= xpath('/*/pbcoreTitle[@titleType!="Episode Number"][1]')
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')
@@ -163,7 +163,7 @@ class PBCore
     }.merge(
       Hash[
         titles.group_by { |pair| pair[0] }.map do|key, pairs|
-          ["#{key.downcase}_titles", pairs.map { |pair| pair[1] }]
+          ["#{key.downcase.tr(' ','_')}_titles", pairs.map { |pair| pair[1] }]
         end
       ]
     )
