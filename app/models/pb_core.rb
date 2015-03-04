@@ -4,7 +4,7 @@ require 'solrizer'
 
 require_relative 'organization'
 
-class PBCore
+class PBCore # rubocop:disable Metrics/ClassLength
   # rubocop:disable Style/EmptyLineBetweenDefs
   def initialize(xml)
     @xml = xml
@@ -85,21 +85,22 @@ class PBCore
   def media_src
     @media_src ||= ci_id ? "/media/#{id}" : nil
   end
-  def img_src
-    @img_src ||= case [media_type, digitized?]
-    when [MOVING_IMAGE, true]
-      '/thumbs/video-digitized.jpg' # TODO: "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
-    when [MOVING_IMAGE, false]
-      '/thumbs/video-not-digitized.jpg'
-    when [SOUND, true]
-      '/thumbs/audio-digitized.jpg'
-    when [SOUND, false]
-      '/thumbs/audio-not-digitized.jpg'
-    when [OTHER, true]
-      '/thumbs/other.jpg'
-    when [OTHER, false]
-      '/thumbs/other.jpg'
-    end
+  def img_src # rubocop:disable CyclomaticComplexity
+    @img_src ||=
+      case [media_type, digitized?]
+      when [MOVING_IMAGE, true]
+        '/thumbs/video-digitized.jpg' # TODO: "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+      when [MOVING_IMAGE, false]
+        '/thumbs/video-not-digitized.jpg'
+      when [SOUND, true]
+        '/thumbs/audio-digitized.jpg'
+      when [SOUND, false]
+        '/thumbs/audio-not-digitized.jpg'
+      when [OTHER, true]
+        '/thumbs/other.jpg'
+      when [OTHER, false]
+        '/thumbs/other.jpg'
+      end
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
@@ -166,7 +167,7 @@ class PBCore
     }.merge(
       Hash[
         titles.group_by { |pair| pair[0] }.map do|key, pairs|
-          ["#{key.downcase.tr(' ','_')}_titles", pairs.map { |pair| pair[1] }]
+          ["#{key.downcase.tr(' ', '_')}_titles", pairs.map { |pair| pair[1] }]
         end
       ]
     )

@@ -11,7 +11,8 @@ class Ci < CiCore
   end
 
   def list_names
-    list.map { |item| item['name'] } - ['Workspace'] # A self reference is present even in an empty workspace.
+    list.map { |item| item['name'] } - ['Workspace']
+    # A self reference is present even in an empty workspace.
   end
 
   def list(limit=50, offset=0)
@@ -29,8 +30,6 @@ class Ci < CiCore
   def detail(asset_id)
     Detailer.new(self).detail(asset_id)
   end
-
-  private
 
   class CiClient
     # This class hierarchy might be excessive, but it gives us:
@@ -81,7 +80,8 @@ class Ci < CiCore
     end
 
     def list(limit, offset)
-      curl = Curl::Easy.http_get('https:'"//api.cimediacloud.com/workspaces/#{@ci.workspace_id}/contents?limit=#{limit}&offset=#{offset}") do |c|
+      curl = Curl::Easy.http_get('https:''//api.cimediacloud.com/workspaces/' \
+                                 "#{@ci.workspace_id}/contents?limit=#{limit}&offset=#{offset}") do |c|
         perform(c)
       end
       JSON.parse(curl.body_str)['items']
@@ -121,7 +121,7 @@ class Ci < CiCore
       @log_file.write(row.join("\t") + "\n")
       @log_file.flush
 
-      return @asset_id
+      @asset_id
     end
 
     private
@@ -173,7 +173,11 @@ class Ci < CiCore
 end
 
 if __FILE__ == $PROGRAM_NAME
-  args = Hash[ARGV.slice_before { |a| a.match(/^--/) }.to_a.map { |a| [a[0].gsub(/^--/, ''), a[1..-1]] }] rescue {}
+  args = begin
+    Hash[ARGV.slice_before { |a| a.match(/^--/) }.to_a.map { |a| [a[0].gsub(/^--/, ''), a[1..-1]] }]
+  rescue
+    {}
+  end
 
   ci = Ci.new(
     # verbose: true,

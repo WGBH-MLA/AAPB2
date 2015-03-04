@@ -7,7 +7,7 @@ class CiCore
   attr_reader :verbose
   attr_reader :workspace_id
 
-  def initialize(opts={})
+  def initialize(opts={}) # rubocop:disable PerceivedComplexity, CyclomaticComplexity
     unrecognized_opts = opts.keys - [:verbose, :credentials_path, :credentials]
     fail "Unrecognized options #{unrecognized_opts}" unless unrecognized_opts == []
 
@@ -47,8 +47,6 @@ class CiCore
   def download(asset_id)
     Downloader.new(self).download(asset_id)
   end
-
-  private
 
   class CiClient
     # This class hierarchy might be excessive, but it gives us:

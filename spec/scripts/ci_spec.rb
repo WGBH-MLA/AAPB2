@@ -99,7 +99,7 @@ describe Ci, not_on_travis: true do
     expect(ci.access_token).to match(/^[0-9a-f]{32}$/)
     expect(ci.list_names.count).to eq(0),
                                    "Expected workspace #{ci.workspace_id} to be empty, instead of #{ci.list_names}"
-    return ci
+    ci
   end
 
   def expect_upload(ci, path, log_path)
@@ -125,7 +125,7 @@ describe Ci, not_on_travis: true do
     expect(after - middle).to be < 0.01
     expect(middle - before).to be > 0.1 # Often greater than 1
 
-    expect(download_url).to match(/^https:\/\/ci-buckets/)
+    expect(download_url).to match(%r{^https://ci-buckets})
     if File.new(path).size < 1024
       curl = Curl::Easy.http_get(download_url)
       curl.perform

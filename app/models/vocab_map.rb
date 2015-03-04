@@ -24,7 +24,7 @@ class VocabMap
   end
 
   def map_string(s)
-    return @case_map[s.downcase] ||
+    @case_map[s.downcase] ||
       @map.select { |key| s.downcase.include? key.downcase }.values.first ||
       fail("No match found for '#{s}'")
   end
@@ -77,8 +77,6 @@ class VocabMap
     }
     nodes.each { |attr| attr.element.parent.delete(attr.element) }
   end
-
-  private
 
   def self.delete(node)
     node.parent.elements.delete(node)

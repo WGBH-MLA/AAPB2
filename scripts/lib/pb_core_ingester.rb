@@ -73,9 +73,11 @@ class PBCoreIngester
     end
 
     def message
-      @base_error.respond_to?(:message) ?
-        (@base_error.message + "\n" + @base_error.backtrace[0..2].join("\n") + "\n...") :
+      if @base_error.respond_to?(:message)
+        @base_error.message + "\n" + @base_error.backtrace[0..2].join("\n") + "\n..."
+      else
         @base_error
+      end
     end
   end
   class ReadError < ChainedError

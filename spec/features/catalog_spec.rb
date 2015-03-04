@@ -25,7 +25,7 @@ describe 'Catalog' do
     end
   end
 
-  def expect_thumbnail(id)
+  def expect_thumbnail(_id)
     # TODO: "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
     # expect(page).to have_css("img[src='#{url}']")
   end
