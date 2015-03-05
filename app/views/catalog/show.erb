@@ -1,80 +1,96 @@
-<% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
-
-<h1><%= @pbcore.title %></h1>
-
-<% if @pbcore.media_src %>
-  <%= render partial: 'catalog/player' %>
-<% else %>
-  <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
-<% end %>
-  
-<dl>
-<% @pbcore.titles.each do |type,title| %>
-  <dt><%= type %></dt>
-  <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
-<% end %>
-</dl>
- 
-<dl>
-<% @pbcore.ids.each do |type,id| %>
-  <dt><%= type %></dt>
-  <dd><%= id %></dd>
-<% end %>
-</dl>
-
-<div>
-  <% @pbcore.descriptions.each do |description| %>
-    <p><%= description %></p>
-  <% end %>
+<div class="page-header">
+  <h1>Records</h1>
 </div>
 
-<p>Asset type: <%= @pbcore.asset_type %></p>
+<!-- START: Main Column -->
+<div class="col-md-8 col-md-push-4">
 
-<dl>
-<% @pbcore.asset_dates.each do |type,date| %>
-  <dt><%= type %></dt>
-  <dd><%= date %></dd>
-<% end %>
-</dl>
+  <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
-<p>Media type: <%= @pbcore.media_type %></p>
+  <h1 class="record-title"><%= @pbcore.title %></h1>
 
-<% if !@pbcore.genres.empty? %>
-  <p>Genres: <%= @pbcore.genres.join('; ') %></p>
-<% end %>
-  
-<% if !@pbcore.subjects.empty? %>
-  <p>Subjects: <%= @pbcore.subjects.join('; ') %></p>
-<% end %>
-  
-<!-- Coverage and affiliation when we have more data. -->
+  <% if @pbcore.media_src %>
+    <%= render partial: 'catalog/player' %>
+  <% else %>
+    <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
+  <% end %>
+    
+  <dl>
+  <% @pbcore.titles.each do |type,title| %>
+    <dt><%= type %></dt>
+    <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
+  <% end %>
+  </dl>
+   
+  <dl>
+  <% @pbcore.ids.each do |type,id| %>
+    <dt><%= type %></dt>
+    <dd><%= id %></dd>
+  <% end %>
+  </dl>
 
-<dl>
-  <% {
-      'Contributor'=> @pbcore.contributors,
-      'Creator'=> @pbcore.creators,
-      'Publisher'=> @pbcore.publishers
-      }.select{|label,list| !list.empty?}.each do |label,list| %>
-  <dt><%= label %></dt>
-    <% list.each do |c| %>
-      <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+  <div>
+    <% @pbcore.descriptions.each do |description| %>
+      <p><%= description %></p>
     <% end %>
-  <% end %>
-</dl>
+  </div>
 
-<% if @pbcore.rights_summary %>
-  <p>Rights: <%= @pbcore.rights_summary %></p>
-<% end %>
-  
-<dl>
-  <% @pbcore.instantiations.each do |instantiation| %>
-    <dt><%= instantiation.media_type %></dt>
-    <dd><%= instantiation.duration %></dd>
-  <% end %>
-</dl>
+  <p>Asset type: <%= @pbcore.asset_type %></p>
 
-<p>
-  <%# TODO: cleaner link syntax. %>
-  <a href='/organizations/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
-  (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)
-</p>
+  <dl>
+  <% @pbcore.asset_dates.each do |type,date| %>
+    <dt><%= type %></dt>
+    <dd><%= date %></dd>
+  <% end %>
+  </dl>
+
+  <p>Media type: <%= @pbcore.media_type %></p>
+
+  <% if !@pbcore.genres.empty? %>
+    <p>Genres: <%= @pbcore.genres.join('; ') %></p>
+  <% end %>
+    
+  <% if !@pbcore.subjects.empty? %>
+    <p>Subjects: <%= @pbcore.subjects.join('; ') %></p>
+  <% end %>
+    
+  <!-- Coverage and affiliation when we have more data. -->
+
+  <dl>
+    <% {
+        'Contributor'=> @pbcore.contributors,
+        'Creator'=> @pbcore.creators,
+        'Publisher'=> @pbcore.publishers
+        }.select{|label,list| !list.empty?}.each do |label,list| %>
+    <dt><%= label %></dt>
+      <% list.each do |c| %>
+        <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+      <% end %>
+    <% end %>
+  </dl>
+
+  <% if @pbcore.rights_summary %>
+    <p>Rights: <%= @pbcore.rights_summary %></p>
+  <% end %>
+    
+  <dl>
+    <% @pbcore.instantiations.each do |instantiation| %>
+      <dt><%= instantiation.media_type %></dt>
+      <dd><%= instantiation.duration %></dd>
+    <% end %>
+  </dl>
+
+  <p>
+    <%# TODO: cleaner link syntax. %>
+    <a href='/organizations/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
+    (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)
+  </p>
+
+</div>
+<!-- END: Main Column -->
+
+<!-- START: Left Column -->
+<div class="col-md-4 col-md-pull-8">
+
+</div>
+<!-- END: Left Column -->

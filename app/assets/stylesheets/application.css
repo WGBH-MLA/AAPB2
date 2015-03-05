@@ -1,5 +1,5 @@
-/*
- * This is a manifest file that'll be compiled into application.css, which will include all the files
+
+ /* This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
  * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
@@ -14,15 +14,27 @@
  *= require_self
  */
 
+/* Google Fonts: Roboto --------- */
+@import url(http://fonts.googleapis.com/css?family=Roboto:100,400,300,400italic,700,700italic,500,500italic);
 
-/* Body Styles */
-/*body { padding-top: 70px; }*/
+/* TYPOGRAPHY --------- */
+@import "bootstrap-killer.css";
+
+/* TYPOGRAPHY --------- */
+@import "normalize.css";
+
+/* TYPOGRAPHY --------- */
+@import "homepage.css";
+
+
 
 
 /*
  * HEADER STYLES
  */
 .header {}
+
+
 
 /*
  * NAVIGATION STYLES
@@ -45,18 +57,23 @@
 	min-height:32px !important;
 }
 
-	.secondary-navbar .navbar-nav > li > a {
-		padding-top:5px !important; 
-		padding-bottom:5px !important;
+	#header-navbar .secondary-nav .navbar-nav > li > a {
+		color:#999;
+		font-size:0.875em;
+		font-weight:400;
+		line-height:50px;
+		padding-bottom:0;
+		padding-top:0;
 	}
 
 /*Logo*/
 #header-navbar .navbar-brand {
-	background: #000 url(../images/logo-mobile.png) no-repeat 0 0;
-	width: 50px;
-	height: 50px;
+	background: transparent url(/site-ui/logo.png) no-repeat 0 0;
+	width: 225px;
+	height: 36px;
 	background-size: 100% auto;
 	margin-right: 0;
+	margin-top:7px;
 	padding:0;
 	text-indent:-9999em;
 }
@@ -119,6 +136,11 @@
  * FOOTER STYLES
  */
 
+ #footer {
+ 	background:#eeeeee url(/site-ui/footer-bg.gif) repeat 0 0;
+ 	margin-top:2em;
+ }
+
 .footer-links {
 	float:left; 
 	width:23%;
@@ -173,77 +195,73 @@ hr {
 }
 
 
-/*
- * HOMEPAGE STYLES
- */
-
-/* sets width for Homepage Container */
-.blacklight-home #main-container {
-	width:100%;
-}
-
-/* Remove border radius */
-.blacklight-home .jumbotron {
-	border-radius:0;
-	margin-bottom:0;
-}
-
-	/*Set .container width on Homepage Jumbotron*/
-	.blacklight-home .home-jumbotron .container {
-		width:800px;
-	}
-
-
-	/* Large HOmepage Search */
-	#home-search {
-		background-color:transparent;
-		border:none;
-		text-align:center;
-		padding:0;
-	}
-
-		#home-search .panel-body {
-			padding:0;
-		}
-
-		/*Add on container*/
-		#home-search .input-group-addon {
-	  	background-color:rgba(255,255,255,.2);
-	  	border-color:transparent;
-	  	border-radius:0;
-	  	color:#FFF;
-	  	padding:10px 0;
-	  	width:20%;
-	  }
-
-			/*Select Box*/
-			#home-search .search_field {
-				border: 0;
-				width: 100%;
-				background-color: transparent;
-				padding:0;
-			}
-
-			/*The field*/
-			#home-search .form-control {
-				border: none;
-			}
-
-			/*BUtton*/
-			#home-search .search-btn {
-				border-radius:0;
-				text-transform:uppercase;
-			}
 
 
 
-
-
-/*INNER - THis is an element meant to contain other elements and center alin them according to the design*/
+/* REGION - THis is an element meant to contain other elements and center align them according to the design */
 .region {
 	margin:0 auto;
 	padding:0 10px;
 }
+
+
+
+
+
+
+/* -------------------- */
+/* CATALOG ---------- */
+/* -------------------- */
+
+/* This is a record display in a search result*/
+
+#documents .document {
+	margin-top: 0;
+	padding-top: 0;
+
+	margin-bottom:2em;
+	padding-bottom:2em;
+}
+
+.blacklight-catalog .document .media {}
+
+/* Image container */
+.blacklight-catalog .document .media-left {
+	padding-right:20px;
+	width:25%;
+}
+	
+	/* Image:hover; */
+	.blacklight-catalog .document .media-left a:hover img {
+		opacity:.8;
+	}
+
+	/*
+	.blacklight-catalog .document .media-heading {
+		line-height: 1.3em;
+		margin-bottom: .5em;
+	}
+	*/
+
+	/* Media Body */
+	.media-body dl {
+		clear:left;
+		margin:0 0 1em;
+	}
+
+	
+	.media-body dt {
+		color:#9f2064;
+		float:left;
+		width:20%;
+	}
+
+	.media-body dd {
+		float:right;
+		margin:0;
+		width:75%;
+	}
+
 
 
 	/* **********
@@ -259,7 +277,8 @@ hr {
 @media (min-width: 768px) {
 
 	/* INNER */
-	.region {
+	.region,
+	.sticky-well.affix .btn-group {
 		padding:0;
 		width:750px;
 	}
@@ -269,7 +288,7 @@ hr {
 	 * HEADER STYLES
 	 */
 	.header {
-		background:url(../images/aapb-site-sprite.png) repeat-x 0 0;
+		background:url(/site-ui/aapb-site-sprite.png) repeat-x 0 0;
 		position:relative;
 		padding:70px 0 20px;
 	}
@@ -278,18 +297,18 @@ hr {
 
 	.primary-nav.navbar-nav > li > a {
 		color:#3c439b;
-		font-size:1.4em;
+		font-size:1.25em;
 		font-weight:700;
 	}
 
 
 	/* Secondary NAvigation */
 	.secondary-nav {
-		background-color:#DEDEDE;
+		background-color:#F0F0F0;
 		height:50px;
 		position:absolute;
 		right:0;
-		top:-65px;
+		top:-60px;
 		text-align:center;
 		width:100%;
 		z-index:1;
@@ -300,6 +319,9 @@ hr {
 			float:none;
 			margin:0 auto;
 		}
+
+
+
 
 }/* END: Tablet ---------- */
 
@@ -315,8 +337,11 @@ hr {
 
 	/*Logo*/
 	#header-navbar .navbar-brand {
-		width: 310px;
+		background-size:100% auto;
 		height: 50px;
+		margin-left: 40px;
+		margin-top:14px;
+		width: 310px;
 	}
 
 	/*Primary NAv*/
@@ -335,6 +360,86 @@ hr {
 		}
 
 
+/*
+ * NAVBAR in a Column
+ */
+.column .navbar {
+	max-width:300px;
+	margin-right: 0;
+	margin-left: 0;
+}
+
+	.column .navbar-nav,
+	.column .navbar-nav > li,
+	.column .navbar-left,
+	.column .navbar-right,
+	.column .navbar-header {
+		float:none !important;
+	}
+
+		.column .container-fluid {
+		  padding-left: 0;
+		  padding-right: 0;
+		}
+
+
+		.column .nav {
+			background-color:#EFEFEF
+		}
+
+		.column .navbar-collapse {
+			padding:0;
+		}
+
+
+
+
+
+	/* HOmepage Carousel */
+	.home-carousel {
+		height:300px;
+	}
+
+	.carousel-control.left {
+		left: -5em;
+	  background-image: none;
+	  background-image: none;
+	  background-image: none;
+	  background-repeat: repeat-x;
+	  filter: 0;
+	}
+
+	.carousel-control.right {
+		right: -5em;
+	  background-image: none;
+	  background-image: none;
+	  background-image: none;
+	  background-repeat: repeat-x;
+	  filter: 0;
+	}
+
+	/* The Panel */
+	.home-carousel .panel-body {
+		padding:0;
+	}
+
+	/* The List */
+		.list-group {
+			width:100%;
+		}
+
+			.list-group .list-group-item {
+				float:left;
+				height:300px;
+				width:33.333%;
+			}
+
+				.list-group-item:first-child {
+				  border-top-right-radius: 0;
+				  border-top-left-radius: 0;
+				}
+
+
 }/* END: Desktop ---------- */
 
 /* Wide Desktop ---------- */
@@ -345,7 +450,8 @@ hr {
 		padding:0;
 		width:1170px;
 	}
-/* END: Wide Desktop ---------- */
+
+}/* END: Wide Desktop ---------- */
 
 
 	.clearfix:after {
@@ -357,5 +463,4 @@ hr {
 		height: 0;
 	}
 * html .clearfix             { zoom: 1; } /* IE6 */
-*:first-child+html .clearfix { zoom: 1; } /* IE7 */
-}
+*:first-child+html .clearfix { zoom: 1; } /* IE7 

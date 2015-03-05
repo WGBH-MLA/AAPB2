@@ -8,11 +8,10 @@
             How many bootstrap columns need to be reserved
             for bookmarks control depends on size. 
         -%>
-        <h5 class="index_title col-sm-9 col-lg-10">
-            <%= link_to_document document, label: pbcore.title %>
-        </h5>
-        
         <img src="<%= pbcore.img_src %>" alt="thumbnail of <%= pbcore.title %>"/>
+        <h4 class="index_title col-sm-9 col-lg-10">
+            <%= link_to_document document, label: pbcore.title %>
+        </h4>
         
         <% # bookmark functions for items/docs -%>
         <%= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>

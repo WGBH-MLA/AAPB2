@@ -1,20 +1,44 @@
-<h1><%= @org.short_name %></h1>
+<div class="page-header">
+  <h1>Participating Organizations</h1>
+</div>
 
-<p><%= @org.city %>, <%= @org.state %></p>
+<div class="row">
 
-<%# TODO: better link idiom %>
-<p><a href="<%= @org.url %>"><%= @org.url %></a></p>
+	<!-- START: Main Column -->
+  <div class="col-md-8">
 
-<p><a href="/catalog?f[organization][]=<%= CGI::escape(@org.short_name)%>">All records</a></p>
+  	<h1><%= @org.short_name %></h1>
 
-<% if @org.history_html %>
-  <p>
-    <%= @org.history_html.html_safe %>
-  </p>
-<% end %>
+		<p><%= @org.city %>, <%= @org.state %></p>
 
-<% if @org.productions_html %>
-  <p>
-    <%= @org.productions_html.html_safe %>
-  </p>
-<% end %>
+		<%# TODO: better link idiom %>
+		<p><a href="<%= @org.url %>"><%= @org.url %></a></p>
+
+		<p><a href="/catalog?f[organization][]=<%= CGI::escape(@org.short_name)%>">All records</a></p>
+
+		<% if @org.history_html %>
+		  <p>
+		    <%= @org.history_html.html_safe %>
+		  </p>
+		<% end %>
+
+		<% if @org.productions_html %>
+		  <p>
+		    <%= @org.productions_html.html_safe %>
+		  </p>
+		<% end %>
+
+
+  </div>
+  <!-- END: Main Column -->
+
+  <!-- START: Right Column -->
+  <div class="col-md-4">
+
+  	<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/amarchivepub" data-widget-id="570658195291774976">Tweets by @amarchivepub</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+  </div>
+  <!-- END: Right Column -->
+
+</div>
