@@ -87,26 +87,27 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 'Sound', 6],
-          ['genres', 'Interview', 3],
-          ['asset_type', 'Segment', 5],
-          ['organization', 'WGBH', 1],
-          ['year', '2000', 1],
-          ['access_types', 'All', 19]
+          ['media_type', 2, 'Sound', 6],
+          ['genres', 10, 'Interview', 3],
+          ['asset_type', 5, 'Segment', 5],
+          ['organization', 15, 'WGBH', 1],
+          ['year', 2, '2000', 1],
+          ['access_types', 1, 'All', 19]
         ]
-        assertions.each_with_index do |(facet, value, count), index|
+        assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"
-          it "#{facet}=#{value}: #{count}\t#{url}" do
+          it "#{facet}=#{value}: #{value_count}\t#{url}" do
             visit url
-            if index == 0
-              expect(
-                page.all('.panel-heading[data-target]').map { |node|
-                  node['data-target'].gsub('#facet-', '')
-                }
-              ).to eq(assertions.map { |a| a.first }) # coverage
-            end
+            expect(
+              page.all("#facet-#{facet} li").count
+            ).to eq facet_count # expected number of values for each facet
+            expect(
+              page.all('.panel-heading[data-target]').map { |node|
+                node['data-target'].gsub('#facet-', '')
+              }
+            ).to eq(assertions.map { |a| a.first }) # coverage
             expect(page.status_code).to eq(200)
-            expect_count(count)
+            expect_count(value_count)
             expect_fuzzy_xml
           end
         end
@@ -118,17 +119,15 @@ describe 'Catalog' do
           ['titles', 'Larry', 1],
           ['contribs', 'Larry', 1]
         ]
-        assertions.each_with_index do |(constraint, value, count), index|
+        assertions.each do |constraint, value, count|
           url = "/catalog?search_field=#{constraint}&q=#{value}"
           it "#{constraint}=#{value}: #{count}\t#{url}" do
             visit url
-            if index == 0
-              expect(
-                page.all('#search_field option').map { |node|
-                  node['value']
-                }
-              ).to eq(assertions.map { |a| a.first }) # coverage
-            end
+            expect(
+              page.all('#search_field option').map { |node|
+                node['value']
+              }
+            ).to eq(assertions.map { |a| a.first }) # coverage
             expect(page.status_code).to eq(200)
             expect_count(count)
             expect_fuzzy_xml
@@ -143,17 +142,15 @@ describe 'Catalog' do
           ['year+asc', 'From Bessie Smith to Bruce Springsteen'],
           ['title+asc', 'World Youth Symphony Orchestra with Concerto Winners - Part II of II (261st program, 50th season)']
         ]
-        assertions.each_with_index do |(sort, title), index|
+        assertions.each do |sort, title|
           url = "/catalog?search_field=all_fields&sort=#{sort}"
           it "sort=#{sort}: '#{title}'\t#{url}" do
             visit url
-            if index == 0
-              expect(
-                page.all('#sort-dropdown .dropdown-menu a').map { |node|
-                  node['href'].gsub(/.*sort=/, '')
-                }
-              ).to eq(assertions.map { |a| a.first }) # coverage
-            end
+            expect(
+              page.all('#sort-dropdown .dropdown-menu a').map { |node|
+                node['href'].gsub(/.*sort=/, '')
+              }
+            ).to eq(assertions.map { |a| a.first }) # coverage
             expect(page.status_code).to eq(200)
             expect(page.find('.document[1] .index_title').text).to eq(title)
             expect_fuzzy_xml
