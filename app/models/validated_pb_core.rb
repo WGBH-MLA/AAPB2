@@ -26,7 +26,7 @@ class ValidatedPBCore < PBCore
       begin
         send(method)
       rescue => e
-        errors << e.message
+        errors << e.message + "\n" + e.backtrace[0..2].join("\n")
       end
     end
     return if errors.empty?
