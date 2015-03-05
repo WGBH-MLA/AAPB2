@@ -1,45 +1,45 @@
 <%# TODO: When this is stable, define solr fields and use them instead. Saves about 0.1s. %>
 <% PBCore.new(document.instance_variable_get('@_source')['xml']).tap do |pbcore| %>
 
-      <% # header bar for doc items in index view -%>
-      <div class="documentHeader media" style="clear:left;"><!-- Document Header -->
+  <% # header bar for doc items in index view -%>
+  <div class="documentHeader media" style="clear:left;"><!-- Document Header -->
 
-          <div class="media-left">
-            <a href="#">
-              <img src="<%= pbcore.img_src %>" class="media-object" alt="thumbnail of <%= pbcore.title %>" title="thumbnail of <%= pbcore.title %>" />
-            </a>
-          </div><!-- END MEdia Left -->
-          <div class="media-body"><!-- Media Body -->
+    <div class="media-left">
+      <a href="#">
+        <img src="<%= pbcore.img_src %>" class="media-object" alt="thumbnail of <%= pbcore.title %>" title="thumbnail of <%= pbcore.title %>" />
+      </a>
+    </div><!-- END MEdia Left -->
+    <div class="media-body"><!-- Media Body -->
 
-            <%# main title container for doc partial view 
-            How many bootstrap columns need to be reserved
-            for bookmarks control depends on size. 
-        -%>
-            <h2 class="media-heading" title="<%= pbcore.title %>"><%= link_to_document document, label: pbcore.title %></h2>
+  <%# main title container for doc partial view 
+  How many bootstrap columns need to be reserved
+  for bookmarks control depends on size. 
+  -%>
+      <h2 class="media-heading" title="<%= pbcore.title %>"><%= link_to_document document, label: pbcore.title %></h2>
 
-            <% pbcore.descriptions.each do |description| %>
-                <p><%= description %></p>
-            <% end %>
+      <% pbcore.descriptions.each do |description| %>
+        <p><%= description %></p>
+      <% end %>
 
-            <% pbcore.titles.each do |type,title| %>
-              <dl class="clearfix">
-                <dt><%= type %></dt>
-                <dd><%= title %></dd>
-              </dl>
-            <% end %>
-            
-            <% pbcore.asset_dates.each do |type,date| %>
-              <dl class="clearfix">
-                <dt><%= type %></dt>
-                <dd><%= date %></dd>
-              </dl>
-            <% end %>
+      <% pbcore.titles.each do |type,title| %>
+        <dl class="clearfix">
+          <dt><%= type %></dt>
+          <dd><%= title %></dd>
+        </dl>
+      <% end %>
 
-          </div><!-- End Media Body -->
-        
-        <% # bookmark functions for items/docs -%>
-            <%= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>
+      <% pbcore.asset_dates.each do |type,date| %>
+        <dl class="clearfix">
+          <dt><%= type %></dt>
+          <dd><%= date %></dd>
+        </dl>
+      <% end %>
 
-      </div><!-- END Document Header -->
-      
+    </div><!-- End Media Body -->
+
+    <% # bookmark functions for items/docs -%>
+    <%= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>
+
+  </div><!-- END Document Header -->
+
 <% end %>
