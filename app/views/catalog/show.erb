@@ -1,94 +1,104 @@
-<% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
+<div class="page-header">
+  <h1>Records</h1>
+</div>
 
-<h1><%= @pbcore.title %></h1>
+<!-- START: Main Column -->
+<div class="col-md-8 col-md-push-4">
 
-<% if @pbcore.media_src %>
-  <%= render partial: 'catalog/player' %>
-<% else %>
-  <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
-<% end %>
+  <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
-<h2>Titles</h2>
+  <h1 class="record-title"><%= @pbcore.title %></h1>
 
-<dl>
-  <% @pbcore.titles.reverse_each do |type,title| %>
-    <dt><%= type %></dt>
-    <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
+  <% if @pbcore.media_src %>
+    <%= render partial: 'catalog/player' %>
+  <% else %>
+    <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
   <% end %>
-</dl>
 
-<dl>
-  <dt>Contributing Organization</dt>
-  <dd><a href='/participating-orgs/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
-    (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)</dd>
-</dl>
+  <h2>Titles</h2>
 
-<dl>
-  <dt>Description</dt>
-  <% @pbcore.descriptions.each do |description| %>
-    <dd><%= description %></dd>
-  <% end %>
-</dl>
-
-<% unless @pbcore.asset_dates.empty? %>
-  <h2>Dates</h2>
   <dl>
-    <% @pbcore.asset_dates.each do |type,date| %>
+    <% @pbcore.titles.reverse_each do |type,title| %>
       <dt><%= type %></dt>
-      <dd><%= date %></dd>
+      <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
     <% end %>
   </dl>
-<% end %>
 
-<dl>
-  <% if @pbcore.asset_type %>
-    <dt>Asset type</dt>
-    <dd><%= @pbcore.asset_type %></dd>
-  <% end %>
+  <dl>
+    <dt>Contributing Organization</dt>
+    <dd><a href='/participating-orgs/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
+      (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)</dd>
+  </dl>
 
-  <% unless @pbcore.genres.empty? %>
-    <dt>Genres</dt>
-    <dd><%= @pbcore.genres.join('; ') %></dd>
-  <% end %>
-
-  <% unless @pbcore.subjects.empty? %>
-    <dt>Subjects</dt>
-    <dd><%= @pbcore.subjects.join('; ') %></dd>
-  <% end %>
-
-  <% {
-    'Creator'=> @pbcore.creators,
-    'Contributor'=> @pbcore.contributors,
-    'Publisher'=> @pbcore.publishers
-    }.select{|label,list| !list.empty?}.each do |label,list| %>
-    <dt><%= label %></dt>
-    <% list.each do |c| %>
-      <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+  <dl>
+    <dt>Description</dt>
+    <% @pbcore.descriptions.each do |description| %>
+      <dd><%= description %></dd>
     <% end %>
+  </dl>
+
+  <% unless @pbcore.asset_dates.empty? %>
+    <h2>Dates</h2>
+    <dl>
+      <% @pbcore.asset_dates.each do |type,date| %>
+        <dt><%= type %></dt>
+        <dd><%= date %></dd>
+      <% end %>
+    </dl>
   <% end %>
 
-  <% if @pbcore.rights_summary %>
-    <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
-  <% end %>
+  <dl>
+    <% if @pbcore.asset_type %>
+      <dt>Asset type</dt>
+      <dd><%= @pbcore.asset_type %></dd>
+    <% end %>
 
-  <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
+    <% unless @pbcore.genres.empty? %>
+      <dt>Genres</dt>
+      <dd><%= @pbcore.genres.join('; ') %></dd>
+    <% end %>
 
-  <% if @pbcore.instantiations.first && @pbcore.instantiations.first.duration %>
-    <dt>Duration</dt>
-    <dd><%= @pbcore.instantiations.first.duration %></dd>
-  <% end %>
-</dl>
+    <% unless @pbcore.subjects.empty? %>
+      <dt>Subjects</dt>
+      <dd><%= @pbcore.subjects.join('; ') %></dd>
+    <% end %>
 
-<h2>Identifiers</h2>
+    <% {
+      'Creator'=> @pbcore.creators,
+      'Contributor'=> @pbcore.contributors,
+      'Publisher'=> @pbcore.publishers
+      }.select{|label,list| !list.empty?}.each do |label,list| %>
+      <dt><%= label %></dt>
+      <% list.each do |c| %>
+        <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+      <% end %>
+    <% end %>
 
-<dl>
-  <% @pbcore.ids.each do |type,id| %>
-    <dt><%= type %></dt>
-    <dd><%= id %></dd>
-  <% end %>
-</dl>
+    <% if @pbcore.rights_summary %>
+      <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
+    <% end %>
 
-<div class="alert alert-info">
-  If you have more information about this item than what is given here, 
-  we want to know! <a href="/contact-us">Contact us</a>, indicating the AAPB ID
-  (<%= @pbcore.ids.first[1] %>).</div>
+    <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
+
+    <% if @pbcore.instantiations.first && @pbcore.instantiations.first.duration %>
+      <dt>Duration</dt>
+      <dd><%= @pbcore.instantiations.first.duration %></dd>
+    <% end %>
+  </dl>
+
+  <h2>Identifiers</h2>
+
+  <dl>
+    <% @pbcore.ids.each do |type,id| %>
+      <dt><%= type %></dt>
+      <dd><%= id %></dd>
+    <% end %>
+  </dl>
+
+  <div class="alert alert-info">
+    If you have more information about this item than what is given here, 
+    we want to know! <a href="/contact-us">Contact us</a>, indicating the AAPB ID
+    (<%= @pbcore.ids.first[1] %>).
+  </div>
+  
+</div>

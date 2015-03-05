@@ -1,0 +1,216 @@
+/* These styles are specifially for overriding the default Bootstrap theme */
+
+
+
+/* -------------------- */
+/* LAYOUT ---------- */
+/* -------------------- */
+.row,
+.container > .navbar-header, 
+.container > .navbar-collapse, 
+.container > #facet-panel-collapse, 
+.container-fluid > .navbar-header, 
+.container-fluid > .navbar-collapse, 
+.container-fluid > #facet-panel-collapse {
+  /*margin-left: 0;
+  margin-right: 0;*/
+}
+
+
+
+
+
+
+/* -------------------- */
+/* BUTTONS ---------- */
+/* -------------------- */
+
+/* Button Overrides */
+.btn, 
+.facets-toggle {
+	border:none;
+	border-radius:0;
+	text-transform:uppercase;
+}
+
+.btn-default, 
+.facets-toggle {
+	color: #FFF;
+	background-color: #90298E;
+}
+
+.btn-primary {
+	color: white;
+	background-color: #292A72;
+}
+
+.btn-success {
+	color: white;
+	background-color: #3C439B;
+}
+
+.btn-info {
+	color: white;
+	background-color: #5D60AB;
+}
+
+.btn-warning {
+	color: white;
+	background-color: #9F2064;
+}
+
+.btn-danger, 
+.appliedFilter .remove:hover, 
+.appliedFilter .remove:active {
+	color: white;
+	background-color: #BF202F;
+}
+
+.btn-default:hover, 
+.facets-toggle:hover, 
+.btn-default:focus, 
+.facets-toggle:focus, 
+.btn-default.focus, 
+.focus.facets-toggle, 
+.btn-default:active, 
+.facets-toggle:active, 
+.btn-default.active, 
+.active.facets-toggle, 
+.open > .btn-default.dropdown-toggle, 
+.open > .dropdown-toggle.facets-toggle {
+  color: #FFF;
+  background-color: #653090;
+}
+
+
+
+/* -------------------- */
+/* LIST GROUP ---------- */
+/* -------------------- */
+
+.panel > .list-group {
+	margin-top:0;
+}
+
+
+/* -------------------- */
+/* FACET ACCORDIANS ---------- */
+/* -------------------- */
+
+.facets .top-panel-heading,
+.column .navbar-header {
+	background-color:#3c439b;
+	border-radius:0;
+}
+
+
+.facets .panel {
+	margin-bottom: 0;
+	border:none;
+	border-bottom: 1px solid #CCC;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+	.facets .panel-body {
+		padding: 0 15px;
+	}
+
+.facets .panel-default > .panel-heading {
+	color: #333333;
+	background-color: #FFF;
+}
+
+.facets .panel-group .panel + .panel {
+	margin:0;
+}
+
+.panel-group .panel-heading + .panel-collapse > .panel-body, 
+.panel-group .panel-heading + .panel-collapse > .list-group {
+	border-top: none;
+}
+
+.facets .panel-group .panel {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+/* The Link */
+.facets .panel-title a {
+	color:#292a72;
+}
+
+/* The Arrow */
+.panel-heading.collapse-toggle .panel-title:after {
+	color: #ef3f37;
+}
+
+/* COntratinst Container */
+
+.constraints-container {
+	min-height: 20px;
+	padding: 19px 0;
+	margin-bottom: 20px;
+	background-color: #FFF;
+	border:none;
+	border-bottom: 1px solid #e3e3e3;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+
+/* Applied Constraints */
+.btn-group.appliedFilter {
+	border:1px solid #CCC;
+}
+
+.btn-group.appliedFilter .btn,
+.btn-group.appliedFilter a {
+	background-color:#FFF;
+	color:#90298e;
+}
+
+	.btn-group.appliedFilter a.remove {
+		color:#CCC;
+	}
+
+		.btn-group.appliedFilter a.remove:hover {
+			color:#BF202F;
+		}
+
+/* -------------------- */
+/* BREAKPOINTS ---------- */
+/* -------------------- */
+
+/* Tablet ---------- */
+@media (min-width: 768px) {
+
+	/* -------------------- */
+	/* LOGO/BRAND ---------- */
+	/* -------------------- */
+	.navbar > .container .navbar-brand, 
+	.navbar > .container-fluid .navbar-brand {
+	  margin-left: 0;
+	}
+
+
+
+
+
+}/* END: Tablet ---------- */
+
+/* Desktop ---------- */
+@media (min-width: 992px) {
+
+
+
+}/* END: Desktop ---------- */
+
+/* Wide Desktop ---------- */
+@media (min-width: 1200px) {
+
+
+
+}/* END: Wide Desktop ---------- */
