@@ -33,7 +33,8 @@ At this point you can
 
 # Code style
 
-We are using [Rubocop's](https://github.com/bbatsov/rubocop) defaults, for the most part. For simple stuff, like whitespace correction, `rubocop --auto-correct` will make the necessary edits.
+We are using [Rubocop's](https://github.com/bbatsov/rubocop) defaults, for the most part.
+For simple stuff, like whitespace correction, `rubocop --auto-correct` will make the necessary edits.
 
 # Deployment and Management
 
@@ -44,7 +45,7 @@ The blog is hosted by Wordpress. Sadie and Casie are admins.
 
 ### AWS OpsWorks
 
-**TODO**
+![AWS Servers](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-servers.svg?v1)
 
 #### Deployment
 - Get an AWS account.
