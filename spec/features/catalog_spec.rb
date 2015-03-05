@@ -152,7 +152,7 @@ describe 'Catalog' do
               }
             ).to eq(assertions.map { |a| a.first }) # coverage
             expect(page.status_code).to eq(200)
-            expect(page.find('.document[1] .index_title').text).to eq(title)
+            expect(page.find('.document[1] .media-heading').text).to eq(title)
             expect_fuzzy_xml
           end
         end
