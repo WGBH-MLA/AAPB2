@@ -13,14 +13,14 @@ module ExcelReader
         else
           params = []
           index = 0
-          REXML::XPath.match(row, 'Cell/Data').each do |data| 
+          REXML::XPath.match(row, 'Cell/Data').each do |data|
             index_attribute = data.parent.attributes['Index']
             if index_attribute
               index = index_attribute.to_i # 1-based
             else
               index += 1
             end
-            params[index-1] = data.text
+            params[index - 1] = data.text
           end
           key = params[key_column]
           begin
@@ -28,9 +28,9 @@ module ExcelReader
           rescue ArgumentError => e
             raise ArgumentError.new(e.message + " Row #{row_number}. #{params}. #{row}")
           end
-          [key,value]
+          [key, value]
         end
-      end.select{|x| x}
+      end.select { |x| x }
     ]
   end
 end

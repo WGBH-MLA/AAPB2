@@ -1,0 +1,47 @@
+#inherit_from: .rubocop_todo.yml
+
+# TODO: What's a better idiom?
+Style/MultilineBlockChain:
+  Enabled: false
+
+# Nice, but a bit esoteric:
+Style/SymbolProc:
+  Enabled: false
+Style/WordArray:
+  MinSize: 6
+  
+Style/SpaceAroundEqualsInParameterDefault:
+  EnforcedStyle: no_space
+  
+Metrics/ParameterLists:
+  Max: 4
+
+# Sometimes more readable?
+Style/Blocks:
+  Enabled: false
+
+# I like to distinguish code blocks which are commented out from real comments
+Style/CommentIndentation:
+  Enabled: false
+
+# Message Often supplied in exception constructor, so I don't think an additional message is essential.
+Style/RaiseArgs:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - 'bin/**'
+    - 'db/schema.rb'
+    
+## TODO ##
+
+Metrics/AbcSize:
+  Max: 80
+Metrics/MethodLength:
+  Max: 97
+Style/ClassVars:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Metrics/LineLength:
+  Max: 180

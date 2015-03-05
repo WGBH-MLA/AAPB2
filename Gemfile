@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.2'
 # Use sqlite3 as the database for Active Record
@@ -42,12 +41,13 @@ gem 'spring',        group: :development
 gem 'rubyzip'
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
+gem 'wordpress-client'
 
 gem 'blacklight'
 gem 'blacklight-gallery'
 gem 'solrizer'
 gem 'rsolr'
-gem "jettywrapper", "~> 1.7"
+gem 'jettywrapper', '~> 1.7'
 
 gem 'rspec'
 gem 'rspec-rails'

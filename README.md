@@ -6,7 +6,7 @@ For more information:
 - [About the project](http://americanarchive.org/about-the-american-archive/)
 - [Interim access portal](http://americanarchiveinventory.org/)
 
-The code is not yet deployed: Its home will be [americanarchive.org](http://americanarchive.org).
+The code is deployed at [beta.americanarchive.org](http://beta.americanarchive.org); Its long-term home will be [americanarchive.org](http://americanarchive.org).
 (That currently redirects to the blog.)
 
 
@@ -31,6 +31,10 @@ At this point you can
 - Ingest the fixtures: `ruby scripts/download_clean_ingest.rb --files spec/fixtures/pbcore/clean-*.xml`
 - Start rails: `rails s`
 
+# Code style
+
+We are using [Rubocop's](https://github.com/bbatsov/rubocop) defaults, for the most part.
+For simple stuff, like whitespace correction, `rubocop --auto-correct` will make the necessary edits.
 
 # Deployment and Management
 
@@ -41,7 +45,7 @@ The blog is hosted by Wordpress. Sadie and Casie are admins.
 
 ### AWS OpsWorks
 
-**TODO**
+![AWS Servers](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-servers.svg?v1)
 
 #### Deployment
 - Get an AWS account.
@@ -63,10 +67,38 @@ Copy this public key, and then in OpsWorks, click on "My Settings" in the upper 
 "Edit", paste in the "Public SSH Key", "Save", and then:
 ```bash
 $ ssh -i ~/.ssh/opsworks USERNAME@54.167.213.134 # TODO: DNS
-$ cd /srv/www/aapb/current 
+$ cd /srv/www/aapb/current
+$ sudo chown deploy:apache /mnt/* # needed for the next section
+$ sudo su deploy
+$ bundle install
+$ rake jetty:start
 ```
-At this point I installed RVM (described above) ... but this seems weird:
-Would it be better to use the same Ruby Rails is using?
+The disk space that comes with an EC2 instance is ephemeral: not that we expect instances to go down, but still.
+So for downloading and indexing we have EBS volumes symlinked to the appropriate locations:
+```bash
+$ rm -rf tmp/pbcore/download
+$ ln -s /mnt/aapb-downloads tmp/pbcore/download
+$ rm -rf jetty/solr/blacklight-core/data/index
+$ ln -s /mnt/aapb-index jetty/solr/blacklight-core/data/index
+```
+At this point for the ingest script to work, we need a symlink to the gems. 
+There is probably a better way to do this:
+```bash
+$ mkdir -p ~/.gem/ruby # Might not exist?
+$ ln -s ~/.bundler/aapb/ruby/2.1.0 ~/.gem/ruby/2.1.0
+  # This should list everything bundle installed:
+$ ruby -e 'Gem.path.each{|dir|puts Dir["#{dir}/gems/*"]}'
+```
+Want to blow away the index before you start?
+```bash
+  # DELETES EVERYTHING!
+$ ruby -I . -e 'require "scripts/lib/pb_core_ingester"; PBCoreIngester.new.delete_all'
+```
+To download and ingest everthing (which will take a while):
+```bash
+$ nohup ruby scripts/download_clean_ingest.rb --all >> tmp/ingest.log 2>> tmp/ingest.err &
+$ cat tmp/ingest.err # to make sure it started without errors
+```
 
 
 ### Sony Ci

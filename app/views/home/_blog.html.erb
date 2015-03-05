@@ -1,0 +1,7 @@
+<% Wordpress::Client.new.get_posts('blog.americanarchive.org', number: 3).each do |post| %>
+<h2><a href="<%= post.url %>"><%= post.title %></a></h2>
+<%# TODO: cache %>
+<p>
+  <%= post.content.html_safe %>
+</p>
+<% end %>

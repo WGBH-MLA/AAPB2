@@ -1,5 +1,5 @@
-# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
-#
-# To ban all spiders from the entire site uncomment the next two lines:
-# User-agent: *
-# Disallow: /
+# TODO: allow indexing at launch. https://github.com/WGBH/AAPB2/issues/156
+User-agent: *
+Disallow: /
+# Disallow: /catalog?
+# Search results, as opposed to individual records, should not be indexed. 

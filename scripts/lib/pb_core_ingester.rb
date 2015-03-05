@@ -2,23 +2,25 @@ require 'rsolr'
 require 'date' # NameError deep in Solrizer without this.
 require_relative '../../app/models/validated_pb_core'
 require_relative 'uncollector'
+require_relative 'cleaner'
 
 class PBCoreIngester
-   
   attr_reader :solr
-  
+
   def initialize(url='http://localhost:8983/solr/')
     @solr = RSolr.connect(url: url) # TODO: read config/solr.yml
+    @log = File.basename($PROGRAM_NAME) == 'rspec' ? [] : STDOUT
   end
-  
+
   # TODO: maybe light session management? If we don't go in that direction, this should just be a module.
-  
+
   def delete_all
     @solr.delete_by_query('*:*')
     @solr.commit
   end
-  
+
   def ingest(path)
+    cleaner = Cleaner.new
 
     begin
       xml = File.read(path)
@@ -26,21 +28,23 @@ class PBCoreIngester
       raise ReadError.new(e)
     end
 
-    case xml[0..100] # just look at the start of the file.
+    xml_top = xml[0..100] # just look at the start of the file.
+    case xml_top
     when /<pbcoreCollection/
-      Uncollector::uncollect_string(xml).each do |document|
-        ingest_xml(document)
+      @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
+      Uncollector.uncollect_string(xml).each do |document|
+        ingest_xml(cleaner.clean(document))
       end
     when /<pbcoreDescriptionDocument/
-      ingest_xml(xml)
+      ingest_xml(cleaner.clean(xml))
     else
-      raise ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml[0..100]}")
-    end  
-    
+      fail ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
+    end
   end
-  
+
+  # TODO: private
+
   def ingest_xml(xml)
-    
     begin
       pbcore = ValidatedPBCore.new(xml)
     rescue => e
@@ -53,11 +57,12 @@ class PBCoreIngester
     rescue => e
       raise SolrError.new(e)
     end
-    
+
+    @log << "#{Time.now}\tUpdated solr record #{pbcore.id}\n"
+
     pbcore
-  
   end
-  
+
   class ChainedError < StandardError
     # Sorry, this is more java-ish than ruby-ish,
     # but downstream I want to distinguish different
@@ -66,8 +71,13 @@ class PBCoreIngester
     def initialize(e)
       @base_error = e
     end
+
     def message
-      @base_error.message + "\n" + @base_error.backtrace[0..2].join("\n") + "\n..."
+      if @base_error.respond_to?(:message)
+        @base_error.message + "\n" + @base_error.backtrace[0..2].join("\n") + "\n..."
+      else
+        @base_error
+      end
     end
   end
   class ReadError < ChainedError
@@ -76,5 +86,4 @@ class PBCoreIngester
   end
   class SolrError < ChainedError
   end
-  
 end
