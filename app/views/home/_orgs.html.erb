@@ -1,0 +1,8 @@
+<% Organization.all.each do |org| %>
+  <a href="/participating-orgs/<%= org.id %>">
+    <div>
+      <h2><%= org.short_name %></h2>
+      <p><%= org.city %>, <%= org.state %></p>
+    </div>
+  </a>
+<% end %>
