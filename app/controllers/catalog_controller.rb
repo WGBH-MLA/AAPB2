@@ -156,8 +156,9 @@ class CatalogController < ApplicationController
   def index
     facets = params['f'] || []
     q = params['q'] || ''
+    sort = params['sort'] || ''
     url_params = params.keys - ['action', 'controller']
-    if facets.empty? && q.empty? && !url_params.empty?
+    if facets.empty? && q.empty? && sort.empty? && !url_params.empty?
       redirect_to '/catalog' 
     else
       super

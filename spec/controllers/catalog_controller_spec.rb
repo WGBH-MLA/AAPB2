@@ -38,6 +38,12 @@ describe CatalogController do
       expect(response).not_to redirect_to '/catalog'
     end
     
+    it 'not in effect if sort filled in' do
+      get 'index', sort: 'year asc'
+      expect(response.status).to eq 200
+      expect(response).not_to redirect_to '/catalog'
+    end
+    
   end
   
 end

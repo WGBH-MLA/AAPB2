@@ -70,9 +70,9 @@ describe 'Catalog' do
       describe 'views' do
         assertions = [
           # Better if we actually looked for something in the results?
-          ['', '.view-type-list.active'],
-          ['&view=list', '.view-type-list.active'],
-          ['&view=gallery', '.view-type-gallery.active']
+          ['&q=smith', '.view-type-list.active'],
+          ['&q=smith&view=list', '.view-type-list.active'],
+          ['&q=smith&view=gallery', '.view-type-gallery.active']
         ]
         assertions.each do |(params, css)|
           url = "/catalog?search_field=all_fields#{params}"
