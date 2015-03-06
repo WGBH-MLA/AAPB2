@@ -2,7 +2,7 @@ require_relative '../../app/models/htmlizer'
 
 describe Htmlizer do
   it 'creates named and numeric character entities and p tags' do
-    html = Htmlizer.to_html("<A>\n• “B”\n\t\u2603")
+    html = Htmlizer.to_html("<A>\r• “B”\n\t\u2603")
     expect(html).to eq('<p>&lt;A&gt;</p><p>&bull; &ldquo;B&rdquo;</p><p>&#9731;</p>')
   end
 
