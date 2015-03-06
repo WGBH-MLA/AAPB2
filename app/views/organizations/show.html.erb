@@ -17,15 +17,13 @@
     <p><a href="/catalog?f[organization][]=<%= CGI::escape(@org.short_name)%>">All records</a></p>
 
     <% if @org.history_html %>
-      <p>
-        <%= @org.history_html.html_safe %>
-      </p>
+      <h2>History</h2>
+      <%= @org.history_html.html_safe %>
     <% end %>
 
     <% if @org.productions_html %>
-      <p>
-        <%= @org.productions_html.html_safe %>
-      </p>
+      <h2>Productions</h2>
+      <%= @org.productions_html.html_safe %>
     <% end %>
 
 
