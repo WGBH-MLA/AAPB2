@@ -152,6 +152,18 @@ class CatalogController < ApplicationController
     # mean") suggestion is offered.
     config.spell_max = 5
   end
+  
+  def index
+    facets = params['f'] || []
+    q = params['q'] || ''
+    sort = params['sort'] || ''
+    url_params = params.keys - ['action', 'controller']
+    if facets.empty? && q.empty? && sort.empty? && !url_params.empty?
+      redirect_to '/catalog' 
+    else
+      super
+    end  
+  end
 
   def show
     # TODO: do we need more of the behavior from Blacklight::Catalog?
