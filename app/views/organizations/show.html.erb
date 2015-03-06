@@ -5,13 +5,13 @@
 <div class="row">
 
   <!-- START: Main Column -->
-  <div class="col-md-8">
+  <div class="col-md-12">
 
     <h1><%= @org.short_name %></h1>
 
     <p><%= @org.city %>, <%= @org.state %></p>
 
-<%# TODO: better link idiom %>
+    <%# TODO: better link idiom %>
     <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
 
     <p><a href="/catalog?f[organization][]=<%= CGI::escape(@org.short_name)%>">All records</a></p>
@@ -29,22 +29,5 @@
 
   </div>
   <!-- END: Main Column -->
-
-  <!-- START: Right Column -->
-  <div class="col-md-4">
-
-    <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/amarchivepub" data-widget-id="570658195291774976">Tweets by @amarchivepub</a>
-    <script>!function(d, s, id) {
-                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
-                    if (!d.getElementById(id)) {
-                      js = d.createElement(s);
-                      js.id = id;
-                      js.src = p + "://platform.twitter.com/widgets.js";
-                      fjs.parentNode.insertBefore(js, fjs);
-                    }
-                  }(document, "script", "twitter-wjs");</script>
-
-  </div>
-  <!-- END: Right Column -->
 
 </div>
