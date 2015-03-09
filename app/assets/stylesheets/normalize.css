@@ -186,6 +186,12 @@ blockquote {
   margin: 1.5em 30px;
 }
 
+  /*Intro text box for each section*/
+  .intro-text p {
+    font-size:.95em;
+    color:#FFF;
+  }
+
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari 5, and Chrome.
@@ -202,19 +208,20 @@ h1 {
   /* custom ---------- */
 
   /* HOmepage HEader */
-  .home-jumbotron h1 {
+
+  /*Intro text box for each section*/
+  .intro-text h1 {
     color:#FFF;
-    font-size:3.750em;
+    font-size:1.8em;
     font-weight:300;
+    margin:0;
     text-align:center;
   }
 
     /* Homepage Welcome Header */
     #welcome h1 {
-      font-size:1.8em;
+      font-size:1.4em;
       margin:0 auto;
-      max-width:650px;
-      min-width:380px;
     }
 
   /* Page Title */
@@ -640,6 +647,20 @@ table {
 
 
   /* H1 --------- */
+
+  /*Homepage Intro Text*/
+  .intro-text h1 {
+    font-size:3.750em;
+  }
+
+  .intro-text p {
+    font-size:1em;
+  }
+
+    /* Homepage Welcome Header */
+    #welcome h1 {
+      font-size:1.8em;
+    }
 
   /*Page HEader*/
   .page-header h1 {
