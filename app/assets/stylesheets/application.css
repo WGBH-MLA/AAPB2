@@ -27,6 +27,16 @@
 @import "homepage.css";
 
 
+/*
+ * CHEATING
+ */
+
+ * {
+ 	-webkit-border-radius:0!important; 
+  -moz-border-radius:0!important; 
+ 	border-radius:0!important;
+ }
+
 
 
 /*
@@ -395,49 +405,7 @@ hr {
 
 
 
-	/* HOmepage Carousel */
-	.home-carousel {
-		height:300px;
-	}
-
-	.carousel-control.left {
-		left: -5em;
-	  background-image: none;
-	  background-image: none;
-	  background-image: none;
-	  background-repeat: repeat-x;
-	  filter: 0;
-	}
-
-	.carousel-control.right {
-		right: -5em;
-	  background-image: none;
-	  background-image: none;
-	  background-image: none;
-	  background-repeat: repeat-x;
-	  filter: 0;
-	}
-
-	/* The Panel */
-	.home-carousel .panel-body {
-		padding:0;
-	}
-
-	/* The List */
-		.list-group {
-			width:100%;
-		}
-
-			.list-group .list-group-item {
-				float:left;
-				height:300px;
-				width:33.333%;
-			}
-
-				.list-group-item:first-child {
-				  border-top-right-radius: 0;
-				  border-top-left-radius: 0;
-				}
+	
 
 
 }/* END: Desktop ---------- */

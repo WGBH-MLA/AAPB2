@@ -1,7 +1,8 @@
-<% Wordpress::Client.new.get_posts('blog.americanarchive.org', number: 3).each do |post| %>
-<h2><a href="<%= post.url %>"><%= post.title %></a></h2>
+<% Wordpress::Client.new.get_posts('blog.americanarchive.org', number: 1).each do |post| %>
+<h3 class="list-group-item-heading"><a href="<%= post.url %>"  target="_blank" title="From the AAPB Blog:<%= post.title %>"><%= post.title %></a></h3>
 <%# TODO: cache %>
-<p>
-  <%= post.content.html_safe %>
+<p class="list-group-item-text">
+  <%= truncate(strip_tags(post.content.html_safe), :length => 150) %>
 </p>
+<p class="list-group-item-text"><a href="<%= post.url %>" target="_blank" title="Visit the AAPB Blog"><strong>Read More</strong></a></p>
 <% end %>

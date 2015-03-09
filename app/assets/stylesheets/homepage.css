@@ -11,11 +11,24 @@
 .blacklight-home .jumbotron {
 	border-radius:0;
 	margin-bottom:0;
+	padding:0;
 }
 
 	/*Set .container width on Homepage Jumbotron*/
 	.blacklight-home .home-jumbotron .container {
-		width:800px;
+		width:100%;
+	}
+
+	/*Intro text box for each section*/
+	.intro-text {
+		background-color:transparent;
+		border:0;
+	  border-radius: 0;
+	  -webkit-box-shadow: none;
+	  box-shadow: none;
+		margin:1em auto 2em;
+		padding:0;
+		width:98%;
 	}
 
 
@@ -23,8 +36,10 @@
 	#home-search {
 		background-color:transparent;
 		border:none;
-		text-align:center;
+		margin:2em auto;
 		padding:0;
+		text-align:center;
+		width:90%;
 	}
 
 		#home-search .panel-body {
@@ -62,6 +77,7 @@
 
 
 /* Homepage Relative Nav */
+/*This is on hold for the time being*/
 .sticky-well {
 	background-color: rgba(255,255,255,.25);
 	border:0;
@@ -133,7 +149,105 @@
 
 
 
-/* Homepage Sections ---------- */
+/* -------------------- */
+/* HOMEPAGE CAROUSEL ---------- */
+/* -------------------- */
+
+/* The Image */
+.home-carousel .list-group-item img {
+	float:left;
+	height:auto;
+	width:35%;
+}
+
+	/* Hover State */
+	/*.home-carousel .list-group-item:hover {
+		background-color:transparent;
+	}*/
+
+
+/* THe Caption */
+.home-carousel .list-group-item .carousel-caption {
+	display:block;
+	float:left;
+	padding:3%;
+	position:static;
+	text-align:left;
+	width:63%;
+}
+
+	/* The Title/Attribution */
+	.home-carousel .list-group-item .carousel-caption h3,
+	.home-carousel .list-group-item .carousel-caption h4,
+	.home-carousel .list-group-item .carousel-caption p {
+		color:#FFF;
+		font-weight:300;
+		margin:0 0 .25em;
+		padding:0;
+		text-shadow: none;
+	}
+
+		/* The Title */
+		.home-carousel .list-group-item .carousel-caption h3 {
+			font-size: 1.3em;
+		}
+
+		.home-carousel .list-group-item .carousel-caption h4 {
+			font-size: .8em;
+		  margin-bottom: 1em;
+		  text-transform: uppercase;
+		  font-weight: 600;
+		}
+
+		/* The Attribution */
+		.home-carousel .list-group-item .carousel-caption p {
+			font-size: .9em;
+		}
+
+		 .home-carousel .list-group-item .carousel-caption .description {
+		 	display:none;
+		 }
+
+
+		/* Stations Carousel */
+		#orgs-carousel.home-carousel .list-group-item {
+			background-color:rgba(255,255,255,.2);
+		}
+
+
+/* -------------------- */
+/* WELCOME PANEL ---------- */
+/* -------------------- */
+
+#welcome-panel {
+	
+}
+
+#welcome-panel .list-group-item {
+	background-color:rgba(255,255,255,.25);
+	float:left;
+	margin:0;
+	padding:3%;
+	width:100%%;
+}
+	
+	#welcome-panel .list-group-item h3,
+	#welcome-panel .list-group-item h3 a,
+	#welcome-panel .list-group-item p,
+	#welcome-panel .list-group-item p a {
+		color:#FFF;
+	}
+
+		#welcome-panel .list-group-item h3 {
+			font-size:1.5em;
+		}
+
+		#welcome-panel .list-group-item p {
+			font-size:1em;
+		}
+
+
+
 
 /* Home One - Welcome */
 .home-jumbotron {
@@ -167,7 +281,7 @@
 	/* Home Jumbotron - Welcome */
 	#welcome {
 		background-color:rgb(60,67,155);
-		background-image:url(/home-bg/home-one.jpg);
+		background-image:none;
 	}
 
 		#welcome:after { background-color:rgba(60,67,155,.85); }
@@ -176,7 +290,7 @@
 	/* Home Jumbotron - Contributing Stations */
 	#stations {
 		background-color:rgb(239,63,55);
-		background-image:url(/home-bg/home-two.jpg);
+		background-image:none;
 	}
 
 		#stations:after { background-color:rgba(239,63,55,.85); }
@@ -184,7 +298,7 @@
 	/* Home Jumbotron - Featured Collections */
 	#collections {
 		background-color:rgb(159,32,100);
-		background-image:url(/home-bg/home-three.jpg);
+		background-image:none;
 	}
 
 		#collections:after { background-color:rgba(159,32,100,.85); }
@@ -192,7 +306,202 @@
 	/* Home Jumbotron - Featured Collections */
 	#staff {
 		background-color:rgb(144,41,142);
-		background-image:url(/home-bg/home-four.jpg);
+		background-image:none;
 	}
 
 		#staff:after { background-color:rgba(144,41,142,.85); }
+
+
+
+
+
+
+
+/* -------------------- */
+/* BREAKPOINTS ---------- */
+/* -------------------- */
+
+
+/* Tablet ---------- */
+@media (min-width: 768px) {
+
+	/* Remove border radius */
+	.blacklight-home .jumbotron {
+		padding:1em;
+	}
+
+	/*Set .container width on Homepage Jumbotron*/
+	.blacklight-home .home-jumbotron .container {
+		width:960px;
+	}
+
+	/*Intro text box for each section*/
+	.intro-text {
+		width:80%;
+	}
+
+
+/* -------------------- */
+/* HOMEPAGE SEARCH ---------- */
+/* -------------------- */
+	#home-search {
+		width:75%;
+	}
+
+/* -------------------- */
+/* HOMEPAGE CAROUSEL ---------- */
+/* -------------------- */
+.home-carousel .carousel-control .glyphicon-chevron-left, 
+.home-carousel .carousel-control .glyphicon-chevron-right, 
+.home-carousel .carousel-control .icon-prev, 
+.home-carousel .carousel-control .icon-next {
+	font-size:1.8em;
+}
+
+/* The Image */
+.home-carousel .list-group-item img {
+	float:none;
+	height:300px;
+	width:300px;
+	-webkit-transition: all 2s ease-in-out;
+  transition: all 2s ease-in-outs;
+}
+
+	/* Hover State */
+	.home-carousel .list-group-item:hover {
+		background-color:transparent;
+	}
+
+
+/* THe Caption */
+.home-carousel .list-group-item .carousel-caption {
+	background-color:#171028;
+	background-color:rgba(23,16,40,.85);
+	bottom:0;
+	display:block;
+	left:0;
+	padding:5%;
+	position:absolute;
+	text-align:left;
+	width:100%;
+	z-index:1;
+}
+		
+	/* THe Caption - Stations */
+	#orgs-carousel.home-carousel .list-group-item .carousel-caption {
+		background-color:transparent;
+		position:static;
+	}
+
+
+	/* Hover State */
+	.home-carousel .list-group-item:hover img {
+		-webkit-transform: scale(1.2);
+    transform: scale(1.2);
+	}
+
+	/* Hiover State - Stations */
+	#orgs-carousel.home-carousel .list-group-item:hover {
+		background-color:rgba(255,255,255,.1);
+		position:static;
+	}
+
+/* THe Caption */
+		/* The Title */
+		.home-carousel .list-group-item .carousel-caption h3 {
+			font-size: 1.5em;
+		}
+
+		.home-carousel .list-group-item .carousel-caption h4 {
+			font-size: 1em;
+			margin-bottom:1em;
+			text-transform:uppercase;
+		}
+
+			.home-carousel .list-group-item .carousel-caption .description {
+			 	display:block;
+			 }
+
+		/* The Attribution */
+		.home-carousel .list-group-item .carousel-caption p {
+			font-size: 1em;
+		}
+
+
+
+/* -------------------- */
+/* WELCOME PANEL ---------- */
+/* -------------------- */
+
+#welcome-panel {
+	
+}
+
+#welcome-panel .list-group-item {
+	margin:0 1%;
+	min-height:320px;
+	padding:3%;
+	width:48%;
+}
+
+		#welcome-panel .list-group-item h3 {
+			font-size:1.8em;
+		}
+
+		#welcome-panel .list-group-item p {
+			font-size:1.2em;
+		}
+
+
+		
+
+}/* END: Tablet ---------- */
+
+
+
+/* Desktop ---------- */
+@media (min-width: 992px) {
+
+
+
+
+
+	/* Home Jumbotron - Welcome */
+	#welcome {
+		background-image:url(/home-bg/home-one.jpg);
+	}
+
+
+	/* Home Jumbotron - Contributing Stations */
+	#stations {
+		background-image:url(/home-bg/home-two.jpg);
+	}
+
+	/* Home Jumbotron - Featured Collections */
+	#collections {
+		background-image:url(/home-bg/home-three.jpg);
+	}
+
+	/* Home Jumbotron - Featured Collections */
+	#staff {
+		background-image:url(/home-bg/home-four.jpg);
+	}
+
+
+
+
+
+}/* END: Desktop ---------- */
+
+
+
+/* Wide Desktop ---------- */
+@media (min-width: 1200px) {
+
+}/* END: Wide Desktop ---------- */
+
+
+
+
+
+		
