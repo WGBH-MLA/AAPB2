@@ -1,0 +1,80 @@
+# Quotes are optional, unless the string contains colons.
+# If the image is sitting in the expected place on the media server,
+# "thumbnail_url" can be omitted.
+-
+  id: cpb-aacip_260-55z6187m
+  org_name: Oregon Public Broadcasting
+  name: "In Search of the Oregon Trail"
+-
+  id: cpb-aacip_254-1615dwj5
+  org_name: WPBS
+  name: "Rod and Reel Streamside: Deadly Techniques"
+-
+  id: cpb-aacip_375-93gxdckz
+  org_name: Radio Bilingue
+  name: "Linea Abierta"
+  thumbnail_url: /thumbs/audio-digitized.jpg
+-
+  id: cpb-aacip_260-64gmsjf3
+  org_name: Wyoming PBS
+  name: "Resettling the West: Mexicans in Wyoming"
+  thumbnail_url: /thumbs/video-digitized.jpg
+-
+  id: cpb-aacip_37-44pk0t5v
+  org_name: Iowa Public Television
+  name: "All Roads Lead to Jimmie Porter"
+-
+  id: cpb-aacip_46-07gqnmfv
+  org_name: Vermont Public Television
+  name: "Profile: Interview with Jamaica Kincaid"
+-
+  id: cpb-aacip_345-25k98vzs
+  org_name: WUMB
+  name: "Black Perspectives: Ibrna Scholar Program"
+  thumbnail_url: /thumbs/audio-digitized.jpg
+-
+  id: cpb-aacip_114-870vtd7t
+  org_name: WGBY
+  name: "Sharing Stories: Polish Life In Our Valley"
+-
+  id: cpb-aacip_111-117m0gsj
+  org_name: Arkansas Educational TV Network
+  name: "Saving the Eagles"
+-
+  id: cpb-aacip_52-708w9qkg
+  org_name: Rocky Mountain PBS
+  name: "Frying Pan West"
+-
+  id: cpb-aacip_22-44pk0sxx
+  org_name: Vegas PBS
+  name: "Tapped Out: Water in Southern Nevada"
+-
+  id: cpb-aacip_23-79v15pqr
+  org_name: WCTE
+  name: "Ryan Dalton and the Children of Cape Town"
+-
+  id: cpb-aacip_106-55m90bjp
+  org_name: Cincinnati Public Radio
+  name: "Interview with Erich Leinsdorf"
+  thumbnail_url: /thumbs/audio-digitized.jpg
+-
+  id: cpb-aacip_225-38w9gnkv
+  org_name: PBS Hawaii
+  name: "Spectrum Hawaii: The Kona Coast"
+-
+  id: cpb-aacip_190-76f1vr4c
+  org_name: KCAW
+  name: "Tales of Haven Bay"
+  thumbnail_url: /thumbs/audio-digitized.jpg
+-
+  id: cpb-aacip_147-78gf23gn
+  org_name: KMOS
+  name: "Lee Mace's Ozark Opry"
+-
+  id: cpb-aacip_235-773tzcpf
+  org_name: KAKM
+  name: "The Alaska Highway"
+-
+  id: cpb-aacip_56-80ht7g7k
+  org_name: WJCT
+  name: "Jazz Festival"
