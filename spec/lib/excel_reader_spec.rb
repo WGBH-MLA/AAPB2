@@ -1,4 +1,4 @@
-require_relative '../../app/models/excel_reader'
+require_relative '../../lib/excel_reader'
 
 describe ExcelReader do
   it 'works' do

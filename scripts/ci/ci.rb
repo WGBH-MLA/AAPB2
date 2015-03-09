@@ -1,7 +1,7 @@
 require 'yaml'
 require 'curb'
 require 'json'
-require_relative '../../app/models/ci_core'
+require_relative '../../lib/ci_core'
 
 class Ci < CiCore
   include Enumerable

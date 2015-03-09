@@ -1,5 +1,5 @@
-require_relative 'excel_reader'
-require_relative 'htmlizer'
+require_relative '../../lib/excel_reader'
+require_relative '../../lib/htmlizer'
 
 class Organization
   attr_reader :pbcore_name
