@@ -1,4 +1,4 @@
-require_relative '../../app/models/htmlizer'
+require_relative '../../lib/htmlizer'
 
 describe Htmlizer do
   it 'creates named and numeric character entities and p tags' do

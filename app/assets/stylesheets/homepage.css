@@ -228,7 +228,7 @@
 	float:left;
 	margin:0;
 	padding:3%;
-	width:100%%;
+	width:100%;
 }
 	
 	#welcome-panel .list-group-item h3,
@@ -364,7 +364,7 @@
 	height:300px;
 	width:300px;
 	-webkit-transition: all 2s ease-in-out;
-  transition: all 2s ease-in-outs;
+  transition: all 2s ease-in-out;
 }
 
 	/* Hover State */
