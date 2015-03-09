@@ -43,6 +43,18 @@ For simple stuff, like whitespace correction, `rubocop --auto-correct` will make
 The blog is hosted by Wordpress. Sadie and Casie are admins.
 
 
+### DNS
+
+We are using the Wordpress DNS to manage all `*.americanarchive.org` names. This does not give us control over everything:
+Wordpress sets a default TTL of 300s, which should be fine for now.
+
+
+### Media hosting
+
+- Thumbnails are served from the WGBH media server. This has a config `/wgbh/http/streaming/conf/allow-referrer.conf` which prevents unrecognized hosts from leeching from us.
+- Videos are served from Sony Ci. We need to hit their API to generate temporary download URLs, which we then redirect to.
+
+
 ### AWS OpsWorks
 
 ![AWS Servers](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-servers.svg?v1)
