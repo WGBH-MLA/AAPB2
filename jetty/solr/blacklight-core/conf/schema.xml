@@ -518,26 +518,26 @@
    <!-- TODO: turn off stored for everything below? -->
    <!-- sorting -->
    <field name="title" 
-          type="string" indexed="true" stored="true" multiValued="false"/>
+          type="string" indexed="true" stored="false" multiValued="false"/>
    
    <!-- sorting and facet -->
    <field name="year" 
-          type="string" indexed="true" stored="true" multiValued="false"/>
+          type="string" indexed="true" stored="false" multiValued="false"/>
    
    <!-- facet -->
    <field name="media_type" 
-          type="string" indexed="true" stored="true" multiValued="false"/>
+          type="string" indexed="true" stored="false" multiValued="false"/>
    <field name="asset_type" 
-          type="string" indexed="true" stored="true" multiValued="false"/>
+          type="string" indexed="true" stored="false" multiValued="false"/>
    <field name="organization" 
-          type="string" indexed="true" stored="true" multiValued="false"/>
+          type="string" indexed="true" stored="false" multiValued="false"/>
    <field name="genres" 
-          type="string" indexed="true" stored="true" multiValued="true"/>
+          type="string" indexed="true" stored="false" multiValued="true"/>
    <field name="access_types"
-          type="string" indexed="true" stored="true" multiValued="true"/>
+          type="string" indexed="true" stored="false" multiValued="true"/>
    
    <dynamicField name="*_titles"
-          type="string" indexed="true" stored="true" multiValued="true"/>
+          type="string" indexed="true" stored="false" multiValued="true"/>
    
  </fields>
 
