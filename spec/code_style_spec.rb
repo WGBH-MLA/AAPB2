@@ -1,17 +1,22 @@
 describe 'code style' do
-  # TODO: scan all and collect failures: don't need to print success for each.
+  debugging = []
+  merging = []
 
   # "vendor", in particular, is very large on Travis.
   (Dir['{app,config,scripts,spec}/**/*.{e,}rb'] - [__FILE__.gsub(/.*\/spec/, 'spec')]).each do |path|
-    it "has no byebug or pry in #{path}" do
-      code = File.read(path)
-      expect(code).not_to match 'pry'
-      expect(code).not_to match 'byebug'
-    end
-    it "has no git merge junk in #{path}" do
-      code = File.read(path)
-      expect(code).not_to match '<<<'
-      expect(code).not_to match '>>>'
+    File.readlines(path).each_with_index do |line, i|
+      combo = "#{path}:#{i}: #{line}"
+      debugging << combo if line =~ /byebug|pry/
+      merging << combo if line =~ /<<<|===|>>>/
     end
   end
+  
+  it 'has no debug cruft' do
+    expect(debugging.join).to eq ''
+  end
+
+  it 'has no merge cruft' do
+    expect(merging.join).to eq ''
+  end
+  
 end
