@@ -15,14 +15,13 @@
   name: "Linea Abierta"
   thumbnail_url: /thumbs/audio-digitized.jpg
 -
-  id: cpb-aacip_260-64gmsjf3
+  id: cpb-aacip_260-55z6187m 
   org_name: Wyoming PBS
   name: "Resettling the West: Mexicans in Wyoming"
-  thumbnail_url: /thumbs/video-digitized.jpg
 -
-  id: cpb-aacip_37-44pk0t5v
+  id: cpb-aacip_37-010p2nvv
   org_name: Iowa Public Television
-  name: "All Roads Lead to Jimmie Porter"
+  name: "Promise City"
 -
   id: cpb-aacip_46-07gqnmfv
   org_name: Vermont Public Television
@@ -30,7 +29,7 @@
 -
   id: cpb-aacip_345-25k98vzs
   org_name: WUMB
-  name: "Black Perspectives: Ibrna Scholar Program"
+  name: "Black Perspectives: Urban Scholar Program"
   thumbnail_url: /thumbs/audio-digitized.jpg
 -
   id: cpb-aacip_114-870vtd7t
@@ -78,3 +77,15 @@
   id: cpb-aacip_56-80ht7g7k
   org_name: WJCT
   name: "Jazz Festival"
+-
+  id: cpb-aacip_15-26m0cr6g
+  org_name: WGBH
+  name: "Prospects of Mankind with Eleanor Roosevelt"
+-
+  id: cpb-aacip_29-41mgqtmw
+  org_name: Wisconsin Public Television
+  name: "A Portrait of Harry Partch"
+-
+  id: cpb-aacip_55-24jm6wrz
+  org_name: KQED
+  name: "Michael McClure and The Magic Theatre"
