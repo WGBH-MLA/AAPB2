@@ -509,8 +509,8 @@
    <field name="contribs" type="text" indexed="true" stored="false" multiValued="true"/>
    
    <!-- format is used for facet, display, and choosing which partial to use for the show view, so it must be stored and indexed -->
-   <!-- TODO: Is this being used? -->
-   <field name="format" type="string" indexed="true" stored="true"/>
+   <!-- Not used by AAPB -->
+   <!--<field name="format" type="string" indexed="true" stored="true"/>-->
    
    <field name="xml" 
           type="string" indexed="false" stored="true" multiValued="false"/>

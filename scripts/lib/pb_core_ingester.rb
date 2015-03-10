@@ -28,7 +28,7 @@ class PBCoreIngester
       raise ReadError.new(e)
     end
     
-    @pb_core_ids = Set.new
+    @pb_core_seen = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.
     case xml_top
@@ -36,12 +36,13 @@ class PBCoreIngester
       @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
       Uncollector.uncollect_string(xml).each do |document|
         cleaned = cleaner.clean(document)
-        if @pb_core_ids.include?(cleaned.id)
+        if @pb_core_seen.include?(cleaned)
           # Documents are often repeated in AMS exports.
-          @log << "#{Time.now}\tSkipping #{cleaned.id}: already seen\n"
+          # TODO: pass PBCore objects instead of strings?
+          @log << "#{Time.now}\tSkipping already seen\n"
         else
           ingest_xml(cleaned)
-          @pb_core_ids.add(cleaned.id)
+          @pb_core_seen.add(cleaned)
         end
       end
     when /<pbcoreDescriptionDocument/
