@@ -176,7 +176,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     formatter.compact = true
     output = []
     formatter.write(doc, output)
-    output.join('').gsub(/<\?xml version='1\.0' encoding='UTF-8'\?>\s*/, '')
+    output.join('').sub("<\?xml version='1\.0' encoding='UTF-8'\?> \n", '')
     # XML declaration seems to be output with trailing space, which makes tests just a bit annoying.
     # Just stripping it should be fine.
   end

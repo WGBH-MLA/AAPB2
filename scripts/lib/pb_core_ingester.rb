@@ -27,19 +27,41 @@ class PBCoreIngester
     rescue => e
       raise ReadError.new(e)
     end
+    
+    @pb_core_seen = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.
     case xml_top
     when /<pbcoreCollection/
       @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
       Uncollector.uncollect_string(xml).each do |document|
-        ingest_xml(cleaner.clean(document))
+        cleaned = cleaner.clean(document)
+        if @pb_core_seen.include?(cleaned)
+          # Documents are often repeated in AMS exports.
+          # TODO: pass PBCore objects instead of strings?
+          @log << "#{Time.now}\tSkipping already seen\n"
+        else
+          ingest_xml(cleaned)
+          @pb_core_seen.add(cleaned)
+        end
       end
     when /<pbcoreDescriptionDocument/
       ingest_xml(cleaner.clean(xml))
     else
       fail ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
     end
+    begin
+      # If collections are ingested, commit after each collection;
+      # If individual documents are ingested, still commit after each,
+      # ... which could be faster.
+      @solr.commit
+    rescue => e
+      raise SolrError.new(e)
+    end
+  end
+  
+  def optimize
+    @solr.optimize
   end
 
   # TODO: private
