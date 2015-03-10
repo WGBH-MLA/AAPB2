@@ -40,6 +40,18 @@ class PBCoreIngester
     else
       fail ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
     end
+    begin
+      # If collections are ingested, commit after each collection;
+      # If individual documents are ingested, still commit after each,
+      # ... which could be faster.
+      @solr.commit
+    rescue => e
+      raise SolrError.new(e)
+    end
+  end
+  
+  def optimize
+    @solr.optimize
   end
 
   # TODO: private

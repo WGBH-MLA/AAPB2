@@ -91,6 +91,9 @@ if __FILE__ == $PROGRAM_NAME
       success << path
     end
   end
+  
+  puts 'Ingest complete; Begin optimization...'
+  ingester.optimize
 
   puts 'SUMMARY'
 
