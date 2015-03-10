@@ -27,13 +27,22 @@ class PBCoreIngester
     rescue => e
       raise ReadError.new(e)
     end
+    
+    @pb_core_ids = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.
     case xml_top
     when /<pbcoreCollection/
       @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
       Uncollector.uncollect_string(xml).each do |document|
-        ingest_xml(cleaner.clean(document))
+        cleaned = cleaner.clean(document)
+        if @pb_core_ids.include?(cleaned.id)
+          # Documents are often repeated in AMS exports.
+          @log << "#{Time.now}\tSkipping #{cleaned.id}: already seen\n"
+        else
+          ingest_xml(cleaned)
+          @pb_core_ids.add(cleaned.id)
+        end
       end
     when /<pbcoreDescriptionDocument/
       ingest_xml(cleaner.clean(xml))
