@@ -82,7 +82,7 @@ describe 'Validated and plain PBCore' do
           'media_type' => 'Moving Image',
           'genres' => ['Horror', 'Musical'],
           'asset_type' => 'Album',
-          'organization' => 'WGBH',
+          'organization' => 'WGBH (MA)',
           'access_types' => ['All']
         },
         access_types: ['All'],

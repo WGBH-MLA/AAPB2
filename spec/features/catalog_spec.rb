@@ -90,7 +90,7 @@ describe 'Catalog' do
           ['media_type', 2, 'Sound', 6],
           ['genres', 10, 'Interview', 3],
           ['asset_type', 5, 'Segment', 5],
-          ['organization', 15, 'WGBH', 1],
+          ['organization', 15, 'WGBH+(MA)', 1],
           ['year', 2, '2000', 1],
           ['access_types', 1, 'All', 19]
         ]

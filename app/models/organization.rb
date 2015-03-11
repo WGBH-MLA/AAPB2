@@ -6,6 +6,7 @@ class Organization
   attr_reader :id
   attr_reader :short_name
   attr_reader :state
+  attr_reader :state_abbreviation
   attr_reader :city
   attr_reader :url
   attr_reader :history_html
@@ -14,6 +15,61 @@ class Organization
 
   private
 
+  STATE_ABBREVIATIONS = {
+    'Alabama' =>	'AL',
+    'Alaska' =>	'AK',
+    'Arizona' =>	'AZ',
+    'Arkansas' =>	'AR',
+    'California' =>	'CA',
+    'Colorado' =>	'CO',
+    'Connecticut' =>	'CT',
+    'Delaware' =>	'DE',
+    'Florida' =>	'FL',
+    'Georgia' =>	'GA',
+    'Hawaii' =>	'HI',
+    'Idaho' =>	'ID',
+    'Illinois' =>	'IL',
+    'Indiana' =>	'IN',
+    'Iowa' =>	'IA',
+    'Kansas' =>	'KS',
+    'Kentucky' =>	'KY',
+    'Louisiana' =>	'LA',
+    'Maine' =>	'ME',
+    'Maryland' =>	'MD',
+    'Massachusetts' =>	'MA',
+    'Michigan' =>	'MI',
+    'Minnesota' =>	'MN',
+    'Mississippi' =>	'MS',
+    'Missouri' =>	'MO',
+    'Montana' =>	'MT',
+    'Nebraska' =>	'NE',
+    'Nevada' =>	'NV',
+    'New Hampshire' =>	'NH',
+    'New Jersey' =>	'NJ',
+    'New Mexico' =>	'NM',
+    'New York' =>	'NY',
+    'North Carolina' =>	'NC',
+    'North Dakota' =>	'ND',
+    'Ohio' =>	'OH',
+    'Oklahoma' =>	'OK',
+    'Oregon' =>	'OR',
+    'Pennsylvania' =>	'PA',
+    'Rhode Island' =>	'RI',
+    'South Carolina' =>	'SC',
+    'South Dakota' =>	'SD',
+    'Tennessee' =>	'TN',
+    'Texas' =>	'TX',
+    'Utah' =>	'UT',
+    'Vermont' =>	'VT',
+    'Virginia' =>	'VA',
+    'Washington' =>	'WA',
+    'West Virginia' =>	'WV',
+    'Wisconsin' =>	'WI',
+    'Wyoming' =>	'WY',
+    'DC' =>	'DC',
+    'Guam' => 'GU'
+  }
+  
   def initialize( # rubocop:disable Metrics/ParameterLists
       pbcore_name, id, short_name=nil, state=nil, city=nil, url=nil,
       history_text=nil, productions_text=nil, logo_filename=nil, _notes=nil)
@@ -22,6 +78,7 @@ class Organization
     @id = id
     @short_name = short_name
     @state = state
+    @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
     @city = city
     @url = url
     @history_html = Htmlizer.to_html(history_text) if history_text

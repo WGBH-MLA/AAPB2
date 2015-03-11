@@ -162,7 +162,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'media_type' => media_type == OTHER ? nil : media_type,
       'genres' => genres,
       'asset_type' => asset_type,
-      'organization' => organization.short_name,
+      'organization' => "#{organization.short_name} (#{organization.state_abbreviation})",
       'access_types' => access_types
     }.merge(
       Hash[
