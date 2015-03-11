@@ -70,12 +70,8 @@ class Organization
   }
   
   def initialize(hash)
-    # rubocop:disable Metrics/ParameterLists
-    #  pbcore_name, id, short_name=nil, state=nil, city=nil, url=nil,
-    #  history_text=nil, productions_text=nil, logo_filename=nil, _notes=nil)
-    # TODO: Should all fields be required?
     @pbcore_name = hash['pbcore_name']
-    @id = hash['id']
+    @id = hash['id'].to_s
     @short_name = hash['short_name']
     @state = hash['state']
     @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
@@ -89,10 +85,18 @@ class Organization
   # TODO: better idiom for locating configuration files?
   (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.yml').tap do |path|
     org_hashes = YAML.load_file(path)
-    @@orgs_by_pbcore_name = Hash[org_hashes.map { |hash| [hash['pbcore_name'], Organization.new(hash)]}]
-    @@orgs_by_id          = Hash[org_hashes.map { |hash| [hash['id'],          Organization.new(hash)]}]
-#    @@orgs_by_pbcore_name = ExcelReader.read(path, 0) { |row| Organization.new(*row) }
-#    @@orgs_by_id          = ExcelReader.read(path, 1) { |row| Organization.new(*row) }
+    @@orgs_by_pbcore_name = Hash[
+      org_hashes.map do |hash|
+        org = Organization.new(hash)
+        [org.pbcore_name, org]
+      end
+    ]
+    @@orgs_by_id          = Hash[
+      org_hashes.map do |hash|
+        org = Organization.new(hash)
+        [org.id, org]
+      end
+    ]
   end
 
   public
