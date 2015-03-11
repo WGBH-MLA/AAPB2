@@ -4,6 +4,7 @@ module Htmlizer
   @@coder = HTMLEntities.new
 
   def self.to_html(text)
+    return nil unless text
     html = text.split(/\s*[\n\r]\s*/).map { |p| "<p>#{@@coder.encode(p, :named, :decimal)}</p>" }.join
     html.gsub(%r{
         (\[ (?<l_text> [^\]]+) \])?

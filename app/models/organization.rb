@@ -1,4 +1,3 @@
-require_relative '../../lib/excel_reader'
 require_relative '../../lib/htmlizer'
 
 class Organization
@@ -70,26 +69,30 @@ class Organization
     'Guam' => 'GU'
   }
   
-  def initialize( # rubocop:disable Metrics/ParameterLists
-      pbcore_name, id, short_name=nil, state=nil, city=nil, url=nil,
-      history_text=nil, productions_text=nil, logo_filename=nil, _notes=nil)
+  def initialize(hash)
+    # rubocop:disable Metrics/ParameterLists
+    #  pbcore_name, id, short_name=nil, state=nil, city=nil, url=nil,
+    #  history_text=nil, productions_text=nil, logo_filename=nil, _notes=nil)
     # TODO: Should all fields be required?
-    @pbcore_name = pbcore_name
-    @id = id
-    @short_name = short_name
-    @state = state
+    @pbcore_name = hash['pbcore_name']
+    @id = hash['id']
+    @short_name = hash['short_name']
+    @state = hash['state']
     @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
-    @city = city
-    @url = url
-    @history_html = Htmlizer.to_html(history_text) if history_text
-    @productions_html = Htmlizer.to_html(productions_text) if productions_text
-    @logo_filename = logo_filename
+    @city = hash['city']
+    @url = hash['url']
+    @history_html = Htmlizer.to_html(hash['history_text'])
+    @productions_html = Htmlizer.to_html(hash['productions_text'])
+    @logo_filename = hash['logo_filename']
   end
 
   # TODO: better idiom for locating configuration files?
-  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.xml').tap do |path|
-    @@orgs_by_pbcore_name = ExcelReader.read(path, 0) { |row| Organization.new(*row) }
-    @@orgs_by_id          = ExcelReader.read(path, 1) { |row| Organization.new(*row) }
+  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.yml').tap do |path|
+    org_hashes = YAML.load_file(path)
+    @@orgs_by_pbcore_name = Hash[org_hashes.map { |hash| [hash['pbcore_name'], Organization.new(hash)]}]
+    @@orgs_by_id          = Hash[org_hashes.map { |hash| [hash['id'],          Organization.new(hash)]}]
+#    @@orgs_by_pbcore_name = ExcelReader.read(path, 0) { |row| Organization.new(*row) }
+#    @@orgs_by_id          = ExcelReader.read(path, 1) { |row| Organization.new(*row) }
   end
 
   public
