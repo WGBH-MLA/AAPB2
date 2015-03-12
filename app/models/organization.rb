@@ -1,4 +1,3 @@
-require_relative '../../lib/excel_reader'
 require_relative '../../lib/htmlizer'
 
 class Organization
@@ -11,7 +10,7 @@ class Organization
   attr_reader :url
   attr_reader :history_html
   attr_reader :productions_html
-  attr_reader :logo_filename
+  attr_reader :logo_src
 
   private
 
@@ -70,26 +69,24 @@ class Organization
     'Guam' => 'GU'
   }
   
-  def initialize( # rubocop:disable Metrics/ParameterLists
-      pbcore_name, id, short_name=nil, state=nil, city=nil, url=nil,
-      history_text=nil, productions_text=nil, logo_filename=nil, _notes=nil)
-    # TODO: Should all fields be required?
-    @pbcore_name = pbcore_name
-    @id = id
-    @short_name = short_name
-    @state = state
+  def initialize(hash)
+    @pbcore_name = hash['pbcore_name']
+    @id = hash['id'].to_s
+    @short_name = hash['short_name']
+    @state = hash['state']
     @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
-    @city = city
-    @url = url
-    @history_html = Htmlizer.to_html(history_text) if history_text
-    @productions_html = Htmlizer.to_html(productions_text) if productions_text
-    @logo_filename = logo_filename
+    @city = hash['city']
+    @url = hash['url']
+    @history_html = Htmlizer.to_html(hash['history_text'])
+    @productions_html = Htmlizer.to_html(hash['productions_text'])
+    @logo_src = "http://mlamedia01.wgbh.org/aapb/org-logos/#{hash['logo_filename']}" if hash['logo_filename']
   end
 
   # TODO: better idiom for locating configuration files?
-  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.xml').tap do |path|
-    @@orgs_by_pbcore_name = ExcelReader.read(path, 0) { |row| Organization.new(*row) }
-    @@orgs_by_id          = ExcelReader.read(path, 1) { |row| Organization.new(*row) }
+  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.yml').tap do |path| 
+    orgs = YAML.load_file(path).map { |hash| Organization.new(hash) }
+    @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] } ]
+    @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] } ]
   end
 
   public

@@ -10,6 +10,10 @@
     <h1><%= @org.short_name %></h1>
 
     <p><%= @org.city %>, <%= @org.state %></p>
+    
+    <% if @org.logo_src %>
+      <img src="<%= @org.logo_src %>" alt="<%= @org.short_name %> logo"/>
+    <% end %>
 
     <%# TODO: better link idiom %>
     <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
