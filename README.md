@@ -83,11 +83,12 @@ $ cd /srv/www/aapb/current
 $ sudo chown deploy:apache /mnt/* # needed for the next section
 $ sudo su deploy
 $ bundle install
-$ rake jetty:start
+$ bundle exec rake jetty:start
 ```
 The disk space that comes with an EC2 instance is ephemeral: not that we expect instances to go down, but still.
 So for downloading and indexing we have EBS volumes symlinked to the appropriate locations:
 ```bash
+$ mkdir tmp/pbcore # will not exist on a fresh install
 $ rm -rf tmp/pbcore/download
 $ ln -s /mnt/aapb-downloads tmp/pbcore/download
 $ rm -rf jetty/solr/blacklight-core/data/index
@@ -150,9 +151,9 @@ Doing a massive find-and-replace is scary, so instead we clean up the data durin
 ingest. Vocabularies which we remap are specified at `config/vocab-maps`: These files
 specify both the replacements to be made, and the preferred display order in the UI.
 
-**Organizations**: The organization pages are controlled by `config/organizations.xml`, and MS Excel XML
-file. We chose this format because it is easy to edit, accommodates Unicode, and
-preserves newlines.
+**Organizations**: The organization pages are controlled by `config/organizations.yml`.
+The descriptions and histories respect paragraph breaks and have a notation for links.
+If we need more, we should investigate markdown.
 
 **Views**: All the ERBs under `app/views` as well as the CSS under `app/assets/stylesheets`
 are tweakable. We have good test coverage, so if something is simply invalid, 
