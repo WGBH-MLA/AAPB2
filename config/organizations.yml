@@ -541,7 +541,7 @@
   short_name: Rocky Mountain PBS
   state: Colorado
   city: Denver
-  logo_filename:
+  logo_filename: rocky_mountain_logo.png
   url: http://www.rmpbs.org/
   history_text: |
     KRMA-TV (Rocky Mountain PBS) first went on the air on January 30,
@@ -809,7 +809,7 @@
   short_name: Mississippi Public Broadcasting
   state: Mississippi
   city: Jackson
-  logo_filename: mpbn_logo.png
+  logo_filename:
   url: http://www.mpbonline.org/
   history_text: 
   productions_text: 
@@ -1687,7 +1687,7 @@
   short_name: WXXI Public Broadcasting
   state: New York
   city: Rochester
-  logo_filename:
+  logo_filename: wxxi_logo.png
   url: http://interactive.wxxi.org/
   history_text: 'WXXI Public Broadcasting Council was founded in 1958 as the Rochester
     Area Educational Television Association (RAETA), and the station''s first few
@@ -1754,7 +1754,7 @@
   short_name: New Mexico PBS
   state: New Mexico
   city: Albuquerque
-  logo_filename:
+  logo_filename: newmexicopbs_logo.png
   url: http://www.newmexicopbs.org/
   history_text: |
     KNME-TV signed on the air in 1958 as the first public “educational”
@@ -2352,7 +2352,7 @@
   short_name: WKAR
   state: Michigan
   city: East Lansing
-  logo_filename:
+  logo_filename: wkar_logo.png
   url: http://wkar.org/
   history_text: |
     WKAR began broadcasting in 1922 on WKAR AM, with WKAR FM following
@@ -2724,7 +2724,7 @@
   short_name: Wyoming PBS
   state: Wyoming
   city: Riverton
-  logo_filename:
+  logo_filename: wyoming_pbs_logo.png
   url: http://www.wyomingpbs.org/
   history_text: |
     KCWC-TV/Wyoming PBS is a full-service, public television station
@@ -2958,7 +2958,7 @@
   short_name: New England Public Radio
   state: Massachusetts
   city: Amherst
-  logo_filename:
+  logo_filename: nepr_logo.png
   url: http://nepr.net/
   history_text: |
     On May 6, 1961 the first signal from newly named WFCR (Four College
@@ -2977,7 +2977,7 @@
   short_name: KGLT
   state: Montana
   city: Bozeman
-  logo_filename:
+  logo_filename: kglt_logo.png
   url: http://www.kglt.net/
   history_text: |
     On the air for 47 years, KGLT 91.9fm, alternative public radio in
@@ -3123,7 +3123,7 @@
   short_name: Colorado Public Television
   state: Colorado
   city: Denver
-  logo_filename:
+  logo_filename: colorado_pt_logo.png
   url: http://www.cpt12.org/
   history_text: |
     Originally known as KBDI Channel 12, Colorado Public Television (CPT12)
@@ -3782,7 +3782,7 @@
   short_name: University of Maryland
   state: Maryland
   city: College Park
-  logo_filename:
+  logo_filename: umd_logo.png
   url: http://www.lib.umd.edu/special
   history_text: 
   productions_text: 
@@ -3792,7 +3792,7 @@
   short_name: Minnesota Public Radio
   state: Minnesota
   city: St. Paul
-  logo_filename:
+  logo_filename: mpr_logo.png
   url: http://minnesota.publicradio.org/
   history_text: |
     Minnesota Public Radio is one of the nation's premier public radio
