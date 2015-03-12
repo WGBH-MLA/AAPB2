@@ -10,7 +10,7 @@ class Organization
   attr_reader :url
   attr_reader :history_html
   attr_reader :productions_html
-  attr_reader :logo_filename
+  attr_reader :logo_src
 
   private
 
@@ -79,24 +79,14 @@ class Organization
     @url = hash['url']
     @history_html = Htmlizer.to_html(hash['history_text'])
     @productions_html = Htmlizer.to_html(hash['productions_text'])
-    @logo_filename = hash['logo_filename']
+    @logo_src = "http://mlamedia01.wgbh.org/aapb/org-logos/#{hash['logo_filename']}" if hash['logo_filename']
   end
 
   # TODO: better idiom for locating configuration files?
-  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.yml').tap do |path|
-    org_hashes = YAML.load_file(path)
-    @@orgs_by_pbcore_name = Hash[
-      org_hashes.map do |hash|
-        org = Organization.new(hash)
-        [org.pbcore_name, org]
-      end
-    ]
-    @@orgs_by_id          = Hash[
-      org_hashes.map do |hash|
-        org = Organization.new(hash)
-        [org.id, org]
-      end
-    ]
+  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.yml').tap do |path| 
+    orgs = YAML.load_file(path).map { |hash| Organization.new(hash) }
+    @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] } ]
+    @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] } ]
   end
 
   public
