@@ -10,17 +10,21 @@ class Featured
     @id = hash['id']
     @org_name = hash['org_name']
     @name = hash['name']
-    @thumbnail_url = hash['thumbnail_url'] || "//mlamedia01.wgbh.org/aapb/featured/#{@id}_gallery.jpg"
+    @thumbnail_url = hash['thumbnail_url'] || "http://mlamedia01.wgbh.org/aapb/featured/#{@id}_gallery.jpg"
   end
 
-  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/featured.yml').tap do |path|
-    @@features = YAML.load_file(path).map { |hash| Featured.new(hash) }
-  end
-  
-  public
-  
-  def self.all
-    @@features
+  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/featured').tap do |parent_path|
+    @@galleries = Hash[
+      Dir["#{parent_path}/*-featured.yml"].map do |gallery_path|
+        [
+          gallery_path.sub(/.*\//, '').sub('-featured.yml', ''),
+          YAML.load_file(gallery_path).map { |hash| Featured.new(hash) }
+        ]
+      end
+    ]
   end
 
+  def self.from_gallery(gallery_name)
+    @@galleries[gallery_name]
+  end
 end

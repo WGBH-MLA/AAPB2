@@ -152,16 +152,16 @@ class CatalogController < ApplicationController
     # mean") suggestion is offered.
     config.spell_max = 5
   end
-  
+
   def index
     actual_params = params.keys - ['action', 'controller']
     if !actual_params.empty? &&
        params.except('action', 'controller', 'utf8', 'search_field')
-            .select { |key,value| !value.empty? }.empty?
+       .select { |_key, value| !value.empty? }.empty?
       redirect_to '/catalog'
     else
       super
-    end  
+    end
   end
 
   def show

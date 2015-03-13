@@ -27,7 +27,7 @@ class PBCoreIngester
     rescue => e
       raise ReadError.new(e)
     end
-    
+
     @pb_core_seen = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.
@@ -59,7 +59,7 @@ class PBCoreIngester
       raise SolrError.new(e)
     end
   end
-  
+
   def optimize
     @solr.optimize
   end

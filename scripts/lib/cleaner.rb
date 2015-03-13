@@ -43,7 +43,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       match = node.text.match(/^(\d{4})/)
       Cleaner.delete(node) unless match && match[1].to_i >= 1900
     }
-    
+
     # dateType
 
     match(doc, '/pbcoreAssetDate[not(@dateType)]') { |node|

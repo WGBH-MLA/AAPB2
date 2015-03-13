@@ -10,7 +10,7 @@ describe 'code style' do
       merging << combo if line =~ /<<<|===|>>>/
     end
   end
-  
+
   it 'has no debug cruft' do
     expect(debugging.join).to eq ''
   end
@@ -18,5 +18,4 @@ describe 'code style' do
   it 'has no merge cruft' do
     expect(merging.join).to eq ''
   end
-  
 end
