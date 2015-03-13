@@ -4,8 +4,8 @@ class Featured
   attr_reader :name
   attr_reader :thumbnail_url
 
-  private 
-  
+  private
+
   def initialize(hash)
     @id = hash['id']
     @org_name = hash['org_name']
@@ -17,17 +17,14 @@ class Featured
     @@galleries = Hash[
       Dir["#{parent_path}/*-featured.yml"].map do |gallery_path|
         [
-          gallery_path.sub(%r{.*/}, '').sub('-featured.yml', ''),
+          gallery_path.sub(/.*\//, '').sub('-featured.yml', ''),
           YAML.load_file(gallery_path).map { |hash| Featured.new(hash) }
         ]
       end
     ]
   end
-  
-  public
-  
+
   def self.from_gallery(gallery_name)
     @@galleries[gallery_name]
   end
-
 end

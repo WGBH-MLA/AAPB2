@@ -91,10 +91,10 @@ if __FILE__ == $PROGRAM_NAME
       success << path
     end
   end
-  
+
   # TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.
-  #puts 'Ingest complete; Begin optimization...'
-  #ingester.optimize
+  # puts 'Ingest complete; Begin optimization...'
+  # ingester.optimize
 
   puts 'SUMMARY'
 
