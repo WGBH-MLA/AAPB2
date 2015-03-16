@@ -11,6 +11,7 @@ class Organization
   attr_reader :history_html
   attr_reader :productions_html
   attr_reader :logo_src
+  attr_reader :summary_html
 
   private
 
@@ -80,6 +81,7 @@ class Organization
     @history_html = Htmlizer.to_html(hash['history_text'])
     @productions_html = Htmlizer.to_html(hash['productions_text'])
     @logo_src = "http://mlamedia01.wgbh.org/aapb/org-logos/#{hash['logo_filename']}" if hash['logo_filename']
+    @summary_html = Htmlizer.to_html((hash['history_text'] || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
   end
 
   # TODO: better idiom for locating configuration files?

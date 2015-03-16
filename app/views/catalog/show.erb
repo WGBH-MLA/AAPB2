@@ -96,9 +96,11 @@
   </dl>
 
   <div class="alert alert-info">
-    If you have more information about this item than what is given here, 
-    we want to know! <a href="/contact-us">Contact us</a>, indicating the AAPB ID
-    (<%= @pbcore.ids.first[1] %>).
+    <% @pbcore.ids.first[1].tap do |id| %>
+      If you have more information about this item than what is given here, we want to know!
+      <a href="mailto:sadie_roosa@wgbh.org&amp;subject=info%20on%20<%= id %>">Contact us</a>, 
+      indicating the AAPB ID (<%= id %>).
+    <% end %>
   </div>
   
 </div>
