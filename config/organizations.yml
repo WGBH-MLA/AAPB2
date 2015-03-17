@@ -415,7 +415,7 @@
   history_text: Wisconsin Public Radio is a 3-network, 34-startion regional group
     with a very long history.  Regular broadcasts began from our flagship station
     WHA (then the callsign was 9XM) before America's entry into World War I.  Our
-    website has a nice list of our [accomplishments][http://www.wpr.org/wprs-tradition-innovation].
+    website has a nice list of our [accomplishments](http://www.wpr.org/wprs-tradition-innovation).
   productions_text: |
     Chapter A Day - one of the longest-running programs in radio
     history, began on WHA when a radio guest cancels and the host decides to read
@@ -570,8 +570,8 @@
     and KRMJ (Grand Junction).
 
     In recent years, Rocky Mountain PBS has expanded by
-    merging with [I-News][http://inewsnetwork.org/], a Colorado-based nonprofit that
-    produces in-depth journalism for media outlets across the region and [KUVO Radio][http://kuvo.drupal.publicbroadcasting.net/],
+    merging with [I-News](http://inewsnetwork.org/), a Colorado-based nonprofit that
+    produces in-depth journalism for media outlets across the region and [KUVO Radio](http://kuvo.drupal.publicbroadcasting.net/),
     a jazz, blues and news public radio station.
 
     Rocky Mountain PBS has been on the
@@ -589,7 +589,7 @@
     
 
     The entire history of Rocky Mountain PBS is being archived by an award-winning
-    volunteer-driven project known as [“Station’s Archived Memories”][http://www.rmpbs.org/volunteer/sam/]
+    volunteer-driven project known as [“Station’s Archived Memories”](http://www.rmpbs.org/volunteer/sam/)
     (SAM).  The archive project was founded in 2000. To date, the dedicated group
     of volunteers has meticulously collected and digitally archived over 50,000 photographs,
     195 Oral History interviews, 15,000 Station documents, 3,500 Memorabilia pieces
@@ -757,7 +757,7 @@
 
     Hometown - Discover the stories of the people, places and events that
     are unique to the Northeast Florida and Southeast Georgia area.  Hometown, produced
-    locally by WJCT Public Broadcasting, is [available OnDemand][http://www.wjct.tv/programs/].
+    locally by WJCT Public Broadcasting, is [available OnDemand](http://www.wjct.tv/programs/).
 
 - pbcore_name: KUCB (Unalaska Community Broadcasting/KIAL)
   id: 1275
@@ -2141,7 +2141,7 @@
     present.  There is currently 12 hours of locally produced Veteran's Day content.
     
 
-    We Shall Remain - KWSO produces this [radio hour][http://www.prx.org/series/31158-we-shall-remain]
+    We Shall Remain - KWSO produces this [radio hour](http://www.prx.org/series/31158-we-shall-remain)
 
 - pbcore_name: WOJB-FM
   id: 1666
@@ -3331,8 +3331,8 @@
     independent radio station. In August 1998 the station's studios and offices were
     relocated to a Jersey City facility purchased with listener donations. WFMU now
     broadcasts terrestrially and online. It has been the subject of various articles,
-    [books][http://www.amazon.com/The-Best-LCD-Writing-WFMU-FM/dp/1568987153], and
-    even a [film][http://www.wfmuthemovie.com/]
+    [books](http://www.amazon.com/The-Best-LCD-Writing-WFMU-FM/dp/1568987153), and
+    even a [film](http://www.wfmuthemovie.com/)
   productions_text: |
     Aircheck - An hour of radio ghosts recaptured: once in a lifetime
     occurrences and remembrances (some from WFMU's own archives). This is no mere
@@ -3340,8 +3340,7 @@
     moments and personalities in radio that probably wouldn't get attention anywhere
     else. (notable episode: Oct 2, 2003: Daniel Johnston & Yo La Tengo)
 
-    The Hound
-    - James "The Hound" Marshall playing what he considers good music; mostly "Weird
+    The Hound - James "The Hound" Marshall playing what he considers good music; mostly "Weird
     old records. Most of the stuff I like is just this really old R & B and Rockabilly,
     old instrumentals -- stuff like that." (notable episode: Mar 29, 1986: Hasil
     Adkins)
@@ -3617,24 +3616,21 @@
     to offer an impressive array of educational resources for children, teachers,
     families, and daycare providers across the state and nationally.
   productions_text: |
-    Wall $treet Week With Louis Rukeyser - 1972-2002; highlight was
+    - Wall $treet Week With Louis Rukeyser - 1972-2002; highlight was
     1987 broadcast from London Stock Exchange to more than 300 U.S. PBS stations
 
-    MotorWeek
-    – 1981-present; television’s longest-running automotive series
+    - MotorWeek – 1981-present; television’s longest-running automotive series
 
-    Our Street – groundbreaking
+    - Our Street – groundbreaking
     MPT-produced drama focusing on then-described “Negro family life in West Baltimore”
 
-    Crabs
-    – 1984; half-hour comedy special live studio audience, numerous national and internat’l
+    - Crabs – 1984; half-hour comedy special live studio audience, numerous national and internat’l
     awards
 
-    Consumer Survival Kit, 1973-79, more than 100 30-minute programs; series
+    - Consumer Survival Kit, 1973-79, more than 100 30-minute programs; series
     educated consumers; nationally distributed to PBS from 1974-79
 
-    HodgePodge Lodge
-    – 1970-76; 600 30-min. programs, nature series; the first privately underwritten,
+    - HodgePodge Lodge – 1970-76; 600 30-min. programs, nature series; the first privately underwritten,
     MPT-produced program; distributed nationally 
 
     
