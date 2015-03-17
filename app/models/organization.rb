@@ -1,4 +1,4 @@
-require_relative '../../lib/htmlizer'
+require_relative '../../lib/carpet_factory'
 
 class Organization
   attr_reader :pbcore_name
@@ -78,10 +78,10 @@ class Organization
     @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
     @city = hash['city']
     @url = hash['url']
-    @history_html = Htmlizer.to_html(hash['history_text'])
-    @productions_html = Htmlizer.to_html(hash['productions_text'])
+    @history_html = CarpetFactory.render(hash['history_text'])
+    @productions_html = CarpetFactory.render(hash['productions_text'])
     @logo_src = "http://mlamedia01.wgbh.org/aapb/org-logos/#{hash['logo_filename']}" if hash['logo_filename']
-    @summary_html = Htmlizer.to_html((hash['history_text'] || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
+    @summary_html = CarpetFactory.render((hash['history_text'] || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
   end
 
   # TODO: better idiom for locating configuration files?

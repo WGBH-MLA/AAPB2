@@ -38,7 +38,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'rubyzip'
+gem 'redcarpet', '~> 3.2.2'
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
 gem 'wordpress-client'
