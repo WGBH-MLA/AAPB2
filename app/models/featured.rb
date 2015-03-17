@@ -1,3 +1,5 @@
+require 'yaml'
+
 class Featured
   attr_reader :id
   attr_reader :org_name
@@ -6,11 +8,12 @@ class Featured
 
   private
 
-  def initialize(hash)
-    @id = hash['id']
-    @org_name = hash['org_name']
-    @name = hash['name']
-    @thumbnail_url = hash['thumbnail_url'] || "http://mlamedia01.wgbh.org/aapb/featured/#{@id}_gallery.jpg"
+  def initialize(hash) 
+    @id = hash.delete('id') || fail('expected id')
+    @org_name = hash.delete('org_name') || fail('expected org_name')
+    @name = hash.delete('name') || fail('expected org_name')
+    @thumbnail_url = hash.delete('thumbnail_url') || "http://mlamedia01.wgbh.org/aapb/featured/#{@id}_gallery.jpg"
+    fail("unexpected #{hash}") unless hash == {}
   end
 
   (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/featured').tap do |parent_path|
