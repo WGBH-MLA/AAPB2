@@ -2,8 +2,8 @@ require 'rails_helper'
 require_relative '../support/validation_helper'
 
 describe 'Overrides' do
-  Dir['app/views/override/**'].each do |override|
-    path = override.gsub('app/views/override', '').gsub('.html.erb', '')
+  Dir['app/views/override/**/*'].select { |file| !File.directory?(file) }.each do |override|
+    path = override.gsub('app/views/override', '').sub('.md', '')
 
     it "#{path} works" do
       visit path
