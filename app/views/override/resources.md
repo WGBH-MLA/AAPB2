@@ -136,17 +136,3 @@ Force](http://www.loc.gov/programs/national-recording-preservation-plan/about-th
   - [blog](http://blogs.loc.gov/digitalpreservation/)
 - [Digital Preservation Outreach & Education 
 (DPOE)](http://www.digitalpreservation.gov/education/)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
