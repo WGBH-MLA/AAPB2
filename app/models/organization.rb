@@ -70,18 +70,23 @@ class Organization
     'Guam' => 'GU'
   }
   
+  def pop(hash, key)
+    hash.delete(key) || fail("#{key} required")
+  end
+  
   def initialize(hash)
-    @pbcore_name = hash['pbcore_name']
-    @id = hash['id'].to_s
-    @short_name = hash['short_name']
-    @state = hash['state']
+    @pbcore_name = pop(hash, 'pbcore_name')
+    @id = (pop(hash, 'id')).to_s
+    @short_name = pop(hash, 'short_name')
+    @state = pop(hash, 'state')
     @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
-    @city = hash['city']
-    @url = hash['url']
-    @history_html = CarpetFactory.render(hash['history_text'])
-    @productions_html = CarpetFactory.render(hash['productions_text'])
-    @logo_src = "http://mlamedia01.wgbh.org/aapb/org-logos/#{hash['logo_filename']}" if hash['logo_filename']
-    @summary_html = CarpetFactory.render((hash['history_text'] || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
+    @city = pop(hash, 'city')
+    @url = pop(hash, 'url')
+    @history_html = CarpetFactory.render(hash['history_md'])
+    @summary_html = CarpetFactory.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
+    @productions_html = CarpetFactory.render(hash.delete('productions_md'))
+    @logo_src = "http://mlamedia01.wgbh.org/aapb/org-logos/#{hash.delete('logo_filename')}" if hash['logo_filename']
+    fail("unexpected #{hash}") unless hash == {}
   end
 
   # TODO: better idiom for locating configuration files?

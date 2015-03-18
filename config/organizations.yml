@@ -6,7 +6,7 @@
   city: Urbana
   logo_filename: will_logo.png
   url: http://will.illinois.edu/
-  history_text: |
+  history_md: |
     The radio station that became WILL first signed on the air on March
     27th, 1922 on the campus of the University of Illinois at Urbana-Champaign. The
     initial call letters were WRM for “We Reach Millions,” which was likely an overstatement
@@ -52,7 +52,7 @@
     “digital first” becoming the mantra of the Internet age, WILL has worked to innovate
     more effective ways of producing and distributing “born digital” content, while
     preserving the rich historical record contained in its media archives.
-  productions_text: |
+  productions_md: |
     Illinois Broadcast Archives
 
     African American Life in Central Illinois
@@ -72,7 +72,7 @@
   city: Baton Rouge
   logo_filename: lpb_logo.png
   url: http://www.lpb.org
-  history_text: |
+  history_md: |
     On September 6, 1975 at 11:58 a.m., longtime public television advocate
     Lucille Woodard flipped a ceremonial switch to sign WLPB on in Baton Rouge. It
     was the culmination of three years of hard work after the Legislature approved
@@ -133,7 +133,7 @@
     Sunshine By the Stars: Celebrating Louisiana Music. It featured an all-star lineup
     of Louisiana musicians performing their unique versions of one of Louisiana’s
     State Songs “You Are My Sunshine.” 
-  productions_text: |
+  productions_md: |
     Louisiana: The State We’re In – Louisiana’s only statewide newsmagazine,
     now in its 38th season.  It started in November 1976, a little over a year after
     LPB went on the air. 
@@ -157,30 +157,30 @@
   short_name: KUHF-FM
   state: Texas
   city: Houston
-  logo_filename:
+# logo_filename:
   url: http://www.houstonpublicmedia.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Vegas PBS (KLVX)
   id: 1806
   short_name: Vegas PBS
   state: Nevada
   city: Las Vegas
-  logo_filename:
+# logo_filename:
   url: http://www.vegaspbs.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WCTE
   id: 1864
   short_name: WCTE
   state: Tennessee
   city: Cookeville
-  logo_filename:
+# logo_filename:
   url: http://www.wcte.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KEXP-FM
   id: 1658.2
@@ -189,7 +189,7 @@
   city: Seattle
   logo_filename: kexp_logo.png
   url: http://www.kexp.org/
-  history_text: |
+  history_md: |
     Beginning as a tiny 10-watt station back in 1972, KEXP has grown
     over the years into an innovative, influential cultural force in the Seattle community
     and beyond. Some of the station's milestones include:
@@ -269,7 +269,7 @@
 
     2015- KEXP breaks ground on new home at Seattle Center.
     Construction Begins February 2015 on KEXP’s New Home.
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: WYSO-FM (WYSO Public Radio)
   id: 1570
@@ -278,7 +278,7 @@
   city: Yellow Springs
   logo_filename: wyso_logo.png
   url: http://wyso.org/
-  history_text: |
+  history_md: |
     WYSO Public Radio is owned and operated by Antioch College in Yellow
     Springs, Ohio.  It began broadcasting in 1958 with 19 watts of power.  The student
     founders promised programs “of a nature not generally available,” saying, “this
@@ -311,7 +311,7 @@
 
     The WYSO Digital Audio Archives reflects our history as we continue the
     tradition of community involvement.   
-  productions_text: |
+  productions_md: |
     Rise When the Rooster Crows (gospel bluegrass)
 
     Around the Fringe
@@ -341,7 +341,7 @@
   city: North Hollywood
   logo_filename: pacifica_logo.png
   url: http://www.pacificaradioarchives.org/
-  history_text: |
+  history_md: |
     The Pacifica Foundation, founded by Lewis Hill in 1947, was given
     the mission to create a new kind of radio, supported by listeners, owing nothing
     to sponsors, providing an outlet for creative expression and a safe haven for
@@ -393,17 +393,17 @@
     the Pacifica Radio Archives office in North Hollywood, California.  Please contact
     us at (800) 735-0230 or visit http://pacificaradioarchives.org/contact-us for
     reference assistance or information about our collection. 
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: Wisconsin Public Television (WHA-TV)
   id: 1896
   short_name: Wisconsin Public Television
   state: Wisconsin
   city: Madison
-  logo_filename:
+# logo_filename:
   url: http://wpt.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Wisconsin Public Radio
   id: 1896.2
@@ -412,11 +412,11 @@
   city: Madison
   logo_filename: wpr_logo.png
   url: http://www.wpr.org/
-  history_text: Wisconsin Public Radio is a 3-network, 34-startion regional group
+  history_md: Wisconsin Public Radio is a 3-network, 34-startion regional group
     with a very long history.  Regular broadcasts began from our flagship station
     WHA (then the callsign was 9XM) before America's entry into World War I.  Our
     website has a nice list of our [accomplishments](http://www.wpr.org/wprs-tradition-innovation).
-  productions_text: |
+  productions_md: |
     Chapter A Day - one of the longest-running programs in radio
     history, began on WHA when a radio guest cancels and the host decides to read
     a library book to fill the hour. Listeners ask for more. In 1932, it's carried
@@ -445,7 +445,7 @@
   city: Liverpool
   logo_filename: wcny_logo.png
   url: http://www.wcny.org/
-  history_text: |
+  history_md: |
     WCNY, founded in 1965 as The Educational Television Council of Central
     New York, is today a community-owned public media company that produces content
     across multiple platforms, including television and radio programs, dynamic web
@@ -484,7 +484,7 @@
     content-rich programming, is what we do.  The archives provide WCNY with a way
     to ensure that our programming history is recorded, and that productions we have
     created are accessible for future generations.
-  productions_text: 'From a television perspective, Artic Air, The Barn, Central New
+  productions_md: 'From a television perspective, Artic Air, The Barn, Central New
     York in the 40s, William Henry Seward: Lincoln’s Right Hand, The Performers: Taking
     Center Stage in NYS Agriculture, Dream Destinations: New York’s Contemporary Canals,
     Losing Ground: The Battle to Preserve War of 1812 Battlefields in New York State,
@@ -501,20 +501,20 @@
   short_name: Iowa Public Television
   state: Iowa
   city: Johnston
-  logo_filename:
+# logo_filename:
   url: http://www.iptv.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Community Television Foundation of South Florida, Inc
   id: 1737
   short_name: WPBT2
   state: Florida
   city: Miami
-  logo_filename:
+# logo_filename:
   url: http://www.wpbt2.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Vermont Public Television
   id: 1882
@@ -523,7 +523,7 @@
   city: Colchester
   logo_filename: vermont_pt.png
   url: http://www.vpt.org/
-  history_text: |
+  history_md: |
     Vermont PBS is Vermont’s statewide PBS affiliate and public media provider, 
     offering viewers the best of PBS, along with a regular line-up of award-winning 
     local programs. Along with serving the entire state of Vermont, Vermont PBS’ 
@@ -559,7 +559,7 @@
     2014 when the station became Vermont PBS. Also in 2014, the station launched 
     a second HD channel, Vermont PBS PLUS, which allows even more opportunity for 
     alternative programming and local content from independent filmmakers.
-  productions_text: 
+  productions_md: 
   
 
 - pbcore_name: Chicago Public Radio (WBEZ-FM) and Vocalo.org
@@ -567,10 +567,10 @@
   short_name: WBEZ
   state: Illinois
   city: Chicago
-  logo_filename:
+# logo_filename:
   url: http://www.wbez.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Rocky Mountain PBS (KRMA)
   id: 1724
@@ -579,7 +579,7 @@
   city: Denver
   logo_filename: rocky_mountain_logo.png
   url: http://www.rmpbs.org/
-  history_text: |
+  history_md: |
     KRMA-TV (Rocky Mountain PBS) first went on the air on January 30,
     1956, as Denver’s instructional TV station licensed to Denver Public Schools.
     As Denver’s first educational station, it broadcast for only two hours that
@@ -633,7 +633,7 @@
     preserved 700 local programs.  To learn more about the archives at Rocky Mountain
     PBS or to learn how any public media station can establish an archive project,
     contact SAM@rmpbs.org.
-  productions_text: |
+  productions_md: |
     Frying Pans West - (1968) Hosted by Mr. Sam Arnold and produced
     by Mr. Richard “Dick” Siceloff, the 1968 program is a compilation of recipes,
     anecdotes and little known facts about the early West and our American gastronomic
@@ -679,7 +679,7 @@
   city: San Francisco
   logo_filename: kqed_logo.png
   url: http://www.kqed.org/
-  history_text: |
+  history_md: |
     When KQED went on the air in 1954, it was one of a handful of stations
     in a new field referred to as the “educational TV movement.” Conceived initially
     as a teaching tool, the station quickly broadened its scope to include entertainment
@@ -734,7 +734,7 @@
     are often the nation’s most watched public television stations in prime time,
     and KQED Public Radio is the most-listened-to public radio station in the nation.
     Additionally, KQED’s social media has more than 1 million fans across all channels.
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: WJCT-FM
   id: 1347
@@ -743,7 +743,7 @@
   city: Jacksonville
   logo_filename: wjct_logo.png
   url: http://www.wjct.org/
-  history_text: |
+  history_md: |
     WJCT went on the air on September 10, 1958, broadcasting a report
     on educational television from Florida Governor Leroy Collins. Its broadcast reached
     Live Oak, St. Augustine, Palatka, and Folkston, Georgia. WJCT became Florida’s
@@ -777,7 +777,7 @@
     together to celebrate human diversity, experience lifelong learning, and actively
     engage in matters of civic importance, all to improve the quality of our lives
     and our community.
-  productions_text: |
+  productions_md: |
     First Coast Connect - Hosted by Melissa Ross, this one-hour call-in
     program features local newsmakers, civic and community leaders, arts, activities
     and more, along with spot news features and a weekly roundtable of local journalists.
@@ -802,7 +802,7 @@
   city: Unalaska
   logo_filename: kucb_logo.png
   url: http://kucb.org/
-  history_text: |
+  history_md: |
     Unalaska Community Broadcasting is a non-profit organization that
     has served Unalaska since 1984. We began as a local access television station
     and have since developed into a provider of television, radio, a website, and
@@ -822,7 +822,7 @@
     provide photos and video from the Aleutian Islands, Pribilof Islands, and Alaska
     Peninsula.  Our website gets thousands of hits a week from individuals all over
     the world interested in Western Alaska news and events.
-  productions_text: |
+  productions_md: |
     Channel 8 remains a vibrant part of our organization and we document
     nearly every cultural event that takes place in Unalaska.  Staff collaborates
     with volunteers to create about 10 hours per week of local programming.  Highlights
@@ -845,30 +845,30 @@
   short_name: Mississippi Public Broadcasting
   state: Mississippi
   city: Jackson
-  logo_filename:
+# logo_filename:
   url: http://www.mpbonline.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WSIU Public Broadcasting
   id: 1752
   short_name: WSIU
   state: Illinois
   city: Carbondale
-  logo_filename:
+# logo_filename:
   url: http://www.wsiu.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WFIU-FM (Public Radio from Indiana University)
   id: 1383
   short_name: WFIU
   state: Indiana
   city: Bloomington
-  logo_filename:
+# logo_filename:
   url: http://indianapublicmedia.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Thirteen - New York Public Media (WNET)
   id: 1817
@@ -877,8 +877,8 @@
   city: New York
   logo_filename: wnet_logo.png
   url: http://www.wnet.org/
-  history_text: 
-  productions_text: |
+  history_md: 
+  productions_md: |
     Signature series: 
 
     American Masters
@@ -900,11 +900,11 @@
   city: St. Paul
   logo_filename: tpt_logo.png
   url: http://www.tpt.org/
-  history_text: TPT has been around since Sept. 1957 and started as Minneapolis Educational
+  history_md: TPT has been around since Sept. 1957 and started as Minneapolis Educational
     Television. America’s 26th public TV station (KTCA). Originally housed at the
     University of MN. Currently, one of the top 5 public television stations in the
     country.
-  productions_text: |
+  productions_md: |
     Hoop Dreams
 
     Newton’s Apple
@@ -918,10 +918,10 @@
   short_name: ideastream
   state: Ohio
   city: Cleveland
-  logo_filename:
+# logo_filename:
   url: http://www.ideastream.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WOSU Public Media
   id: 1832
@@ -930,7 +930,7 @@
   city: Columbus
   logo_filename: wosu_logo.png
   url: http://wosu.org/
-  history_text: |
+  history_md: |
     Licensed to The Ohio State University, WOSU Public Media has been
     a vital community resource since 1920, when it received one of the first experimental
     radio licenses in the country. It has evolved into multiple public media services
@@ -957,7 +957,7 @@
     at the COSI Science Center in downtown Columbus. All local program production
     is developed at the WOSU@COSI Studios, which also serves as our prime community
     engagement space.
-  productions_text: |
+  productions_md: |
     Broad & High
 
     Columbus On The Record
@@ -969,10 +969,10 @@
   short_name: WNED
   state: New York
   city: Buffalo
-  logo_filename:
+# logo_filename:
   url: http://www.wned.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KUED
   id: 1881
@@ -981,7 +981,7 @@
   city: Salt Lake City
   logo_filename: kued_logo.png
   url: http://www.kued.org/
-  history_text: |
+  history_md: |
     KUED first signed on the air on January 20, 1958, with an episode
     of The Friendly Giant. Original broadcasts from improvised studios were set up
     in the basement of the old student union building on the University of Utah campus.
@@ -1016,7 +1016,7 @@
     for our viewers - where learning is revered, diversity is welcomed, intelligence
     is respected, free expression is safeguarded, curiosity is prized, fairness is
     expected, citizens are engaged, and children are cherished and nurtured.
-  productions_text: |
+  productions_md: |
     Utah’s World War Two Stories
 
     Butch Cassidy and the Outlaw Trail
@@ -1054,7 +1054,7 @@
   city: Roanoke
   logo_filename: wbra_logo.png
   url: http://www.blueridgepbs.org/
-  history_text: |
+  history_md: |
     In 1965, a group of concerned citizens and educators established
     the Blue Ridge Educational Television (ETV) Association, with the goal of bringing
     educational television to Southwest Virginia. With seed money from the City of
@@ -1100,7 +1100,7 @@
     investments in digital technologies have enabled Blue Ridge PBS to triple the
     amount of programming available to regional viewers. Viewers can now choose from
     three digital channels: Blue Ridge PBS, Southwest Virginia Public TV and World.
-  productions_text: |
+  productions_md: |
     Blue Ridge Nightline was a public affairs show that was on the
     air for over 20 years covering a wide variety of topics.  The show had a number
     of title variations over the years as hosts changed.  Several episodes of Hake
@@ -1122,8 +1122,8 @@
   city: Sacramento
   logo_filename: kvie_logo.png
   url: http://www.kvie.org/
-  history_text: 
-  productions_text: |
+  history_md: 
+  productions_md: |
     America’s Heartland
 
     KVIE Arts Showcase
@@ -1143,7 +1143,7 @@
   city: Rohnert Park
   logo_filename: krcb_logo.png
   url: http://www.krcb.org/
-  history_text: |
+  history_md: |
     KRCB first went on the air December 2, 1983, with a broadcast of
     the PBS show NOVA. Conceived as "Public Television for the North Bay," KRCB
     now broadcasts to much of the San Francisco Bay Area through satellite and cable
@@ -1163,7 +1163,7 @@
     station Link TV and includes shows such as Mosaic: World News from the Middle
     East, while Create is digitally broadcast on KRCB DT2 and NHK is digitally broadcast
     on KRCB DT3.
-  productions_text: |
+  productions_md: |
     KRCB programs include:
 
     The nationally distributed series Natural Heroes
@@ -1181,7 +1181,7 @@
   city: Youngstown
   logo_filename: wysu_logo.png
   url: http://wysu.org/
-  history_text: |
+  history_md: |
     In 1969, just two years after the proposal was first made for a fine
     arts radio station in Youngstown, Ohio, with the hard work of Don Elser, first
     director Steve Grcevich, and Youngstown State University president Albert Pugsley,
@@ -1226,7 +1226,7 @@
     to WYSU’s mission as a public radio station:  to be the community’s leading source
     for trusted, in-depth news, engaging conversation, and music that stimulates the
     mind and spirit.
-  productions_text: |
+  productions_md: |
     Looking Out - This round-table discussion is a platform for community
     leaders address national and global issues from often unexplored angles. Hosted
     by Dr. George McCloud the half-hour program covers many topics ranging from the
@@ -1256,7 +1256,7 @@
   city: Fargo
   logo_filename: prairie_logo.png
   url: http://www.prairiepublic.org/
-  history_text: |
+  history_md: |
     What began with a hand-me-down trailer house headquarters and television
     transmitter tower on the edge of Fargo, North Dakota, is now a television and
     radio network that serves North Dakota, portions of its border states, and several
@@ -1302,57 +1302,57 @@
     television. Just as the public adjusted from black and white color back in the
     ‘60’s, large high-definition televisions have become the norm in most households
     as Prairie Public turns 50.
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: Cincinnati Public Radio (WGUC-FM, WMUB-FM, WVXU-FM)
   id: 1559
   short_name: Cincinnati Public Radio
   state: Ohio
   city: Cincinnati
-  logo_filename:
+# logo_filename:
   url: http://www.cincinnatipublicradio.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KUSC-FM
   id: 1297
   short_name: KUSC
   state: California
   city: Los Angeles
-  logo_filename:
+# logo_filename:
   url: http://www.kusc.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: The Nine Network of Public Media (formerly KETC)
   id: 1800
   short_name: The Nine Network of Public Media
   state: Missouri
   city: St. Louis
-  logo_filename:
+# logo_filename:
   url: http://ninenet.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Arkansas Educational TV Network (AETN)
   id: 1708
   short_name: Arkansas Educational TV Network
   state: Arkansas
   city: Conway
-  logo_filename:
+# logo_filename:
   url: http://www.aetn.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Mountain Lake PBS (WCFE)
   id: 1818 
   short_name: Mountain Lake PBS
   state: New York
   city: Plattsburgh
-  logo_filename:
+# logo_filename:
   url: http://mountainlake.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WGBY
   id: 1784
@@ -1361,7 +1361,7 @@
   city: Springfield
   logo_filename: wgby_logo.png
   url: http://wgby.org/
-  history_text: |
+  history_md: |
     WGBY-TV (formerly known as Channel 57) a division of WGBH Educational
     Foundation began its broadcasting service in Springfield, Massachusetts as the
     western link of the Massachusetts Public Broadcasting Network on September 26,
@@ -1385,7 +1385,7 @@
     for western New England.
 
     
-  productions_text: |
+  productions_md: |
     Connecting Point - WGBY continues to present a 3-night- a-week
     look at news headlines and feature content.  Each magazine style program features
     interviews, analysis, field production, and commentary focused on the communities
@@ -1438,10 +1438,10 @@
   short_name: KDLG
   state: Alaska
   city: Dillingham
-  logo_filename:
+# logo_filename:
   url: http://kdlg.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WQED-TV
   id: 1846
@@ -1450,7 +1450,7 @@
   city: Pittsburgh
   logo_filename: wqed_logo.png
   url: http://www.wqed.org/
-  history_text: |
+  history_md: |
     WQED was the nation’s first community-supported television station
     and went on the air on April 1, 1954.  In 1973, Classical WQED-FM 89.3 was founded
     as the region’s only 24-hour classical radio station.
@@ -1508,17 +1508,17 @@
     of media and learning to prepare our children for a competitive world. We provide
     content for science and technology; literacy; global cultures and connections;
     expression; social and community responsibility; numeracy; and behavioral wellness.
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: KYUK
   id: 1703
   short_name: KYUK
   state: Alaska
   city: Bethel
-  logo_filename:
+# logo_filename:
   url: http://kyuk.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: UNC-TV
   id: 1824
@@ -1527,7 +1527,7 @@
   city: Research Triangle Park
   logo_filename: unctv_logo.png
   url: http://www.unctv.org/
-  history_text: |
+  history_md: |
     Today, UNC-TV is the 12-station statewide public television network
     for North Carolina, reaching all 100 counties with four channels of national and
     local program content, as well as parts of Virginia, South Carolina, Tennessee
@@ -1578,7 +1578,7 @@
     North Carolina.  Looking to the future, UNC-TV continues extending its content
     into the ever-growing array of digital platforms, and expanding its mission to
     include even more opportunities for public service.
-  productions_text: North Carolina People with William Friday
+  productions_md: North Carolina People with William Friday
 
 - pbcore_name: WMHT
   id: 1820
@@ -1587,7 +1587,7 @@
   city: Troy
   logo_filename: wmht_logo.png
   url: http://www.wmht.org/
-  history_text: A trusted community resource for over half a century, WMHT Educational
+  history_md: A trusted community resource for over half a century, WMHT Educational
     Telecommunications uses the power of non-commercial public television, radio,
     the web and other media to enrich the lives of more than a half million households
     throughout eastern New York state and portions of western Vermont, Massachusetts
@@ -1597,7 +1597,7 @@
     RISE, a radio reading service for the visually and print disabled. In addition,
     WMHT offers numerous community outreach and family learning initiatives that inspire,
     educate and entertain for a lifetime.
-  productions_text: |
+  productions_md: |
     New York Now
 
     William Kennedy’s Prohibition Story
@@ -1615,60 +1615,60 @@
   short_name: Rhode Island Public Radio
   state: Rhode Island
   city: Providence
-  logo_filename:
+# logo_filename:
   url: http://ripr.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Appalshop, Inc. (WMMT and Appalshop Films)
   id: 1419
   short_name: Appalshop, Inc.
   state: Kentucky
   city: Whitesburg
-  logo_filename:
+# logo_filename:
   url: http://www.appalshop.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KMOS
   id: 1802
   short_name: KMOS
   state: Missouri
   city: Warrensburg
-  logo_filename:
+# logo_filename:
   url: http://kmos.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Film & Media Archive, Washington University in St. Louis
   id: NCSG16
   short_name: Film and Media Archive, Washington University in St. Louis
   state: Missouri
   city: St. Louis
-  logo_filename:
+# logo_filename:
   url: http://www.library.wustl.edu/units/spec/filmandmedia/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Oregon Public Broadcasting (OPB)
   id: 1840
   short_name: Oregon Public Broadcasting
   state: Oregon
   city: Portland
-  logo_filename:
+# logo_filename:
   url: http://www.opb.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WXPN-FM
   id: 1595
   short_name: WXPN
   state: Pennsylvania
   city: Philadelphia
-  logo_filename:
+# logo_filename:
   url: http://www.xpn.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WTIU (Public Television from Indiana University)
   id: 1761
@@ -1677,7 +1677,7 @@
   city: Bloomington
   logo_filename: wtiu_logo.png
   url: http://indianapublicmedia.org/tv/
-  history_text: |
+  history_md: |
     Signing on the air on March 3, 1969, WTIU is the public television station 
     licensed to Indiana University, operating out of the Radio and TV Center on 
     the Bloomington, Indiana campus.
@@ -1699,7 +1699,7 @@
     WTIU is a member station of PBS, Indiana’s Public Broadcasting Stations, and 
     The Association of Public Television Stations.
     
-  productions_text: |
+  productions_md: |
     Locally-produced programs include daily news breaks and a weekly magazine 
     program covering people, places, and events from across the state entitled The Weekly Special. 
     
@@ -1725,14 +1725,14 @@
   city: Grand Rapids
   logo_filename: wgvu_logo.png
   url: http://www.wgvu.org/
-  history_text: WGVU Public Media’s continued mission is to provide educational, informative,
+  history_md: WGVU Public Media’s continued mission is to provide educational, informative,
     and entertaining programs and events to the community as a service of Grand Valley
     State University. WGVU is proud to serve the 28 counties of west and southwest
     Michigan providing PBS programming on television, and the only local NPR radio
     station affiliate in the area. WGVU offers the opportunity to explore new ideas
     through television, radio and online. More information about WGVU is available
     at www.wgvu.org, or follow WGVU on Twitter or like WGVU on Facebook.
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: Iowa Public Radio
   id: 1393
@@ -1741,7 +1741,7 @@
   city: Des Moines
   logo_filename: iowa_pr_logo.png
   url: http://iowapublicradio.org/
-  history_text: |
+  history_md: |
     Iowa Public Radio was created in 2004 by the Iowa Board of Regents to manage
     the radio groups of Iowa State University, University of Iowa and University 
     of Northern Iowa.  This statewide public radio network (a total of 24 stations) 
@@ -1754,17 +1754,17 @@
     licenses that were among the first 100 radio licenses ever granted, and 
     our statewide network is one that other states look to as a model.  This 
     century of service to and for Iowans is the foundation for our future."
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: New Hampshire Public Radio
   id: 1502
   short_name: New Hampshire Public Radio
   state: New Hampshire
   city: Concord
-  logo_filename:
+# logo_filename:
   url: http://nhpr.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WXXI Public Broadcasting (WXXI-TV)
   id: 1531
@@ -1773,7 +1773,7 @@
   city: Rochester
   logo_filename: wxxi_logo.png
   url: http://interactive.wxxi.org/
-  history_text: 'WXXI Public Broadcasting Council was founded in 1958 as the Rochester
+  history_md: 'WXXI Public Broadcasting Council was founded in 1958 as the Rochester
     Area Educational Television Association (RAETA), and the station''s first few
     years were dedicated to producing instructional television programs for elementary
     school students. In 1959, Assignment: The World became the first educational series
@@ -1797,7 +1797,7 @@
     health, and news programs that inspire, engage, educate, and inform.  In January
     2012, WXXI and Rochester’s Independent Film House, Little Theatre, joined together
     in a formal, long-term affiliation.'
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: KCAW-FM  (Raven Radio Foundation, Inc.)
   id: 1271
@@ -1806,7 +1806,7 @@
   city: Sitka
   logo_filename: kcaw_logo.png
   url: http://www.kcaw.org/
-  history_text: |
+  history_md: |
     KCAW-FM is a non-commercial, community radio station owned and operated
     by the Raven Radio Foundation, Inc. of Sitka, Alaska. Since signing on the air
     March 6th, 1982, KCAW has been broadcasting a diverse and vibrant program schedule
@@ -1827,7 +1827,7 @@
     volunteers, and in the past week, more than 50 volunteers have been on the air.
     KCAW has built a solid reputation for training producers and several former staff
     and volunteers are now award winning national producers.
-  productions_text: One of the productions Raven Radio is most proud of is the original
+  productions_md: One of the productions Raven Radio is most proud of is the original
     radio series "Haven Bay". Scores of writers, actors, musicians and technicians
     worked for several years to create four seasons featuring dozens of five minute
     modules following the adventures of the unique individuals in this remote fictional(?)
@@ -1840,7 +1840,7 @@
   city: Albuquerque
   logo_filename: newmexicopbs_logo.png
   url: http://www.newmexicopbs.org/
-  history_text: |
+  history_md: |
     KNME-TV signed on the air in 1958 as the first public “educational”
     television station in New Mexico.  Licensed to both the University of New Mexico
     and Albuquerque Public Schools, KNME-TV is unique in broadcasting with this diverse,
@@ -1881,7 +1881,7 @@
     New Mexico PBS provides important local programming to the
     citizens of New Mexico. New Mexico PBS productions have won national and regional
     awards including a Peabody Award, a national Emmy, and 40 regional Emmys.
-  productions_text: |
+  productions_md: |
     Colores! - Our weekly cultural affairs series looks at the inspiration,
     challenges, and processes of a wide range of local and national artists, authors,
     actors, musicians and more.  COLORES! is presented though a collaboration between
@@ -1912,20 +1912,20 @@
   short_name: KXCI Community Radio
   state: Arizona
   city: Tucson
-  logo_filename:
+# logo_filename:
   url: https://kxci.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Friends of WWOZ, Inc.
   id: 1427
   short_name: WWOZ
   state: Louisiana
   city: New Orleans
-  logo_filename:
+# logo_filename:
   url: http://www.wwoz.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Ozarks Public Broadcasting (KOZK/KOZJ)
   id: 1801
@@ -1934,7 +1934,7 @@
   city: Springfield
   logo_filename: ozarks_logo.png
   url: http://www.optv.org/
-  history_text: |
+  history_md: |
     Ozarks Public Television is the Missouri State licensee for KOZK-TV,
     channel 21 in Springfield, Missouri and KOZJ-TV, channel 26 in Joplin, Missouri.
 
@@ -1966,7 +1966,7 @@
     heritage that has made the Ozarks a great place to live.  Just like everyone else
     we are a small staff trying to do a lot of work that informs, educates and entertains
     our viewers.
-  productions_text: |
+  productions_md: |
     OzarksWatch Video Magazine – The goal of the series is to increase
     a knowledge and understanding of the region.  The series began in 1999, and we
     do approximately 12 to 15 new shows a year.  It airs weekly and documents, presents
@@ -2002,10 +2002,10 @@
   short_name: KDNA
   state: Washington
   city: Granger
-  logo_filename:
+# logo_filename:
   url: http://www.kdna.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WFYI-FM
   id: 1388
@@ -2014,7 +2014,7 @@
   city: Indianapolis
   logo_filename: wfyi_logo.png
   url: http://www.wfyi.org/
-  history_text: |
+  history_md: |
     Known for quality programming throughout Central Indiana, WFYI Public
     Media provides more than just the standard radio and television services. WFYI
     has been involved as a community leader and partner in education, health, public
@@ -2050,7 +2050,7 @@
     its local production capacity; enhancing its community services to both mainstream
     and underserved audiences; and building on its proven track record of delivering
     first-rate local, national and international news coverage.
-  productions_text: |
+  productions_md: |
     Across Indiana – for 20 seasons, WFYI correspondents traveled
     the state to explore the passions, eccentricities and history of the residents
     of the Hoosier state. 
@@ -2077,7 +2077,7 @@
   city: Knoxville
   logo_filename: wdvx_logo.png
   url: http://www.wdvx.com/
-  history_text: |
+  history_md: |
     WDVX:  Grassroots Radio
 
     WDVX Radio came into existence because a
@@ -2128,7 +2128,7 @@
     the arts and culture of the region.  We invite you to tune in at 89.9 FM, 102.9
     in downtown Knoxville, 93.9 in Seymour/Seven Islands area, wdvx.com, or attend
     a live performance and become part of East Tennessee’s Own. 
-  productions_text: |
+  productions_md: |
     The WDVX Blue Plate Special – Monday through Saturday live radio
     show with audience
 
@@ -2181,10 +2181,10 @@
   short_name: WUFT
   state: Florida
   city: Gainesville
-  logo_filename:
+# logo_filename:
   url: http://www.wuft.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KWSO-FM (Warm Springs Community Radio)
   id: 4502
@@ -2193,7 +2193,7 @@
   city: Warm Springs
   logo_filename: kwso_logo.png
   url: http://kwso.org/
-  history_text: 'The Confederated Tribes of Warm Springs (CTWS) is a federally recognized
+  history_md: 'The Confederated Tribes of Warm Springs (CTWS) is a federally recognized
     Indian Tribe located in Central Oregon 104 miles south of Portland and 60 miles
     north of Bend, just off Highway 26. The Warm Springs Reservation consists of 640,000
     acres and is home to three (3) tribes, the Warm Springs, Wasco, and Paiute Tribes. 
@@ -2211,7 +2211,7 @@
     radio programming that: delivers local news and information; promotes education,
     cultural knowledge and language preservation; and increases awareness of social,
     health and safety issues.'
-  productions_text: |
+  productions_md: |
     The Warm Springs Program and Our People and Mother Earth - KWSO
     continues ongoing production of these weekly news magazines. 
 
@@ -2232,10 +2232,10 @@
   short_name: WOJB
   state: Wisconsin
   city: Hayward
-  logo_filename:
+# logo_filename:
   url: http://www.wojb.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KNBA-FM
   id: 1254
@@ -2244,7 +2244,7 @@
   city: Anchorage
   logo_filename: koahnic_logo.png
   url: http://knba.org/
-  history_text: |
+  history_md: |
     Koahnic Broadcast Corporation was created as a non-profit media corporation
     in 1992 by Alaska Native leaders to preserve culture and languages, combat widespread
     misconceptions and prejudices against Alaska Natives, and create cross-cultural
@@ -2281,7 +2281,7 @@
     mobile devices to hear these shows that are engaging Native America.
 
     
-  productions_text: |
+  productions_md: |
     National Native News (NNN) - a daily five-minute newscast, has
     been the leading daily news service focused on Native issues for 27 years. NNN
     is the only news program of this kind produced and anchored entirely by a Native
@@ -2346,30 +2346,30 @@
   short_name: KUNM
   state: New Mexico
   city: Albuquerque
-  logo_filename:
+# logo_filename:
   url: http://kunm.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Vermont Public Radio - WVPR
   id: 1642
   short_name: Vermont Public Radio
   state: Vermont
   city: Colchester
-  logo_filename:
+# logo_filename:
   url: http://www.vpr.net/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WYCC-TV20 PBS Chicago
   id: 1755
   short_name: WYCC PBS Chicago
   state: Illinois
   city: Chicago
-  logo_filename:
+# logo_filename:
   url: http://www.wycc.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WHYY
   id: 1844
@@ -2378,7 +2378,7 @@
   city: Philadelphia
   logo_filename: whyy_logo.png
   url: http://www.whyy.org/
-  history_text: |
+  history_md: |
     For close to 60 years, WHYY has been the region’s leading public
     media company and PBS/NPR affiliate, currently serving the nation’s fourth largest
     market, with 2,963,500 households (Source: Nielsen Local Market Television Estimates,
@@ -2398,7 +2398,7 @@
     performances and lectures onsite in the Independence Foundation Civic Space, and
     Dorrance H. Hamilton Public Media Commons. Our strategic approach is to use on
     air and online content to drive in-person audience engagement.
-  productions_text: |
+  productions_md: |
     WHYY-TV:
 
     Friday Arts
@@ -2438,7 +2438,7 @@
   city: East Lansing
   logo_filename: wkar_logo.png
   url: http://wkar.org/
-  history_text: |
+  history_md: |
     WKAR began broadcasting in 1922 on WKAR AM, with WKAR FM following
     in 1948 and WKAR TV in 1954. WKAR serves the mid-Michigan market with public broadcasting
     on WKAR Radio and WKAR-TV, with its reach expanding to an even wider audience
@@ -2457,7 +2457,7 @@
     WKAR offers a robust website, WKAR.org, that includes live streaming of 90.5 WKAR
     and AM/870, plus three online-only streams, WKAR Classical, WKAR Folk Alley and
     WKAR Jazz. 
-  productions_text: |
+  productions_md: |
     WKAR Television:
 
     Off the Record - Michigan public affairs and
@@ -2527,7 +2527,7 @@
   city: Costa Mesa
   logo_filename: pbs_socal_logo.png
   url: http://www.pbssocal.org/
-  history_text: Over four decades, PBS SoCaL has grown into a cultural resource for
+  history_md: Over four decades, PBS SoCaL has grown into a cultural resource for
     all of Southern California. In 2011, when Southern California abruptly lost what
     had been its lead PBS station, PBS SoCaL— then known as KOCE-TV for Orange County—
     adapted quickly to ensure that Southern California would continue to receive free
@@ -2536,7 +2536,7 @@
     Empire. PBS SoCaL is the parent to three unique broadcast channels, PBS SoCaL
     HD, PBS SoCaL Plus, and PBS SoCaL World, dedicated to educating, entertaining
     and enlightening viewers throughout the Southland.
-  productions_text: PBS SoCaL’s production history under its former name, KOCE-TV,
+  productions_md: PBS SoCaL’s production history under its former name, KOCE-TV,
     included content about Orange County and California.  The archive collection includes
     the “Orange County History Project,” and a statewide documentary series called
     “California Dreams.”  Public affairs series such as “Jim Cooper’s Orange County”
@@ -2550,20 +2550,20 @@
   short_name: WGCU Public Media
   state: Florida
   city: Fory Myers
-  logo_filename:
+# logo_filename:
   url: http://wgcu.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KGNU-FM
   id: 1323
   short_name: KGNU
   state: Colorado
   city: Boulder
-  logo_filename:
+# logo_filename:
   url: http://www.kgnu.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: PBS Hawaii (KHET)
   id: 1748
@@ -2572,7 +2572,7 @@
   city: Honolulu
   logo_filename: pbs_hawaii_logo.png
   url: http://www.pbshawaii.org/home/index.php
-  history_text: |
+  history_md: |
     Established in 1965 as the State-funded Hawaii Educational Television
     Network, providing educational TV for the University of Hawaii, PBS Hawaii then
     became the State’s sole member of the Public Broadcasting Service and transitioned
@@ -2604,7 +2604,7 @@
 
     HIKI NŌ is a weekly half hour program of student-produced
     stories – mostly from communities rarely covered in commercial media. 
-  productions_text: |
+  productions_md: |
     Damien - In 1977, PBS Hawaii produced Damien, about a Roman Catholic
     priest from Belgium who spent 16 years ministering to people with Hansen’s disease
     (leprosy) on Moloka’i. He died from the disease in 1889 and was canonized in 2009.
@@ -2639,20 +2639,20 @@
   short_name: KAKM Alaska Public Media
   state: Alaska
   city: Anchorage
-  logo_filename:
+# logo_filename:
   url: http://www.alaskapublic.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Detroit Public Television (aka DPTV and WTVS)
   id: 1786
   short_name: Detroit Public Television
   state: Michigan
   city: Wixom
-  logo_filename:
+# logo_filename:
   url: http://www.dptv.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Maine Public Broadcasting
   id: 1781
@@ -2661,7 +2661,7 @@
   city: Lewiston
   logo_filename: mpbn_logo.png
   url: http://www.mpbn.net/
-  history_text: |
+  history_md: |
     The Maine Public Broadcasting Network is a statewide dual licensee
     providing both television and radio service throughout the state of Maine. MPBN’s
     television service is also available in the Canadian maritime provinces and Quebec.
@@ -2697,7 +2697,7 @@
     stream: regular PBS programming with occasional local productions (HD), MPBN Create
     (SD), MPBN World (SD) and a fourth channel which is used for seasonal coverage
     of the Maine Legislature (SD).
-  productions_text: |
+  productions_md: |
     The News Machine, and its French language counterpart La Machine
     Magique - began in 1974. This weekly half-hour was a news program aimed at grade
     school students. The French version was added to serve the French Acadian population
@@ -2721,20 +2721,20 @@
   short_name: WPBS
   state: New York
   city: Watertown
-  logo_filename:
+# logo_filename:
   url: http://www.wpbstv.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WSKG Public Broadcasting
   id: 1813
   short_name: WSKG Public Broadcasting
   state: New York
   city: Vestal
-  logo_filename:
+# logo_filename:
   url: http://www.wskg.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: New Jersey Network
   id: 1809
@@ -2743,7 +2743,7 @@
   city: Trenton
   logo_filename: njn_logo.png
   url: http://www.njtvonline.org/
-  history_text: |
+  history_md: |
     In 1968, the "New Jersey Public Broadcasting Authority Act of 1968"
     established the New Jersey Public Broadcasting Authority (“NJPBA”) in response
     to the perceived lack of coverage by both commercial and public broadcasters of
@@ -2773,7 +2773,7 @@
     that cover 40,000 to 50,000 hours of material. NJPBA is working toward the goal
     of cataloging, preserving, and making the 40 years’ worth of media content created
     by NJN available to the public.
-  productions_text: |
+  productions_md: |
     NJN News - A 30-minute daily news program focused on the issues
     and events relevant to New Jersey’s citizens.  
 
@@ -2810,7 +2810,7 @@
   city: Riverton
   logo_filename: wyoming_pbs_logo.png
   url: http://www.wyomingpbs.org/
-  history_text: |
+  history_md: |
     KCWC-TV/Wyoming PBS is a full-service, public television station
     licensed to Central Wyoming College, with studio and office facilities located
     in Riverton, Wyoming. The station, under call letters KCWC-TV, was built in 1982-83.
@@ -2838,7 +2838,7 @@
     a service that is open to public input with program offerings and services built
     around Wyoming's needs and providing communications opportunities which would
     otherwise be unavailable.
-  productions_text: |
+  productions_md: |
     Main Street, Wyoming
 
     Wyoming Chronicle
@@ -2850,40 +2850,40 @@
   short_name: WDIY
   state: Pennsylvania
   city: Bethlehem
-  logo_filename:
+# logo_filename:
   url: http://wdiy.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WLVT (PBS39)
   id: 1841
   short_name: PBS39
   state: Pennsylvania
   city: Bethlehem
-  logo_filename:
+# logo_filename:
   url: http://www.wlvt.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WRFA-LP
   id: 4785
   short_name: WRFA
   state: New York
   city: Jamestown
-  logo_filename:
+# logo_filename:
   url: http://www.wrfalp.com/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KCTS 9
   id: 1890
   short_name: KCTS 9
   state: Washington
   city: Seattle
-  logo_filename:
+# logo_filename:
   url: http://kcts9.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WHUT-TV (Howard University Television)
   id: 1731
@@ -2892,7 +2892,7 @@
   city: Washington
   logo_filename: whut_logo.png
   url: http://www.whut.org/
-  history_text: |
+  history_md: |
     WHUT went on air on November 17, 1980 as WHMM (Howard Multimedia).
     The station came into existence through efforts that included Dr. James Cheek,
     then president of Howard University, Millard J. (Jim) Watkins, an engineer and
@@ -2942,7 +2942,7 @@
     American Graduate: Let’s Make It Happen community service grant from The Corporation
     for Public Broadcasting (CPB) to help Washington, DC improve youth outcomes for
     all students from preschool through college and onto careers. 
-  productions_text: |
+  productions_md: |
     The Rock Newman Show
 
     Vocal Point
@@ -2956,7 +2956,7 @@
   city: Pittston
   logo_filename: wvia_logo.png
   url: http://www.wvia.org/
-  history_text: For almost 50 years WVIA Public Media offers broad-appeal programming
+  history_md: For almost 50 years WVIA Public Media offers broad-appeal programming
     for the entire family to enjoy both on WVIA-FM and WVIA-TV. From award winning
     Original Documentary Films, NPR News plus powerful & insightful Regional Programming
     WVIA inspires & captivates its listeners, online users and viewers. WVIA Public
@@ -2964,37 +2964,37 @@
     and beyond. WVIA Public Media is a catalyst, convener and educator, using media,
     partnerships, ideas and programs to advance the best attributes of an enlightened
     society.
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: KWSU/KTNW (Northwest Public Television)
   id: 1889
   short_name: Northwest Public Television
   state: Washington
   city: Pullman
-  logo_filename:
+# logo_filename:
   url: http://www.nwptv.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: New Hampshire Public Television
   id: 1808
   short_name: New Hampshire Public Television
   state: New Hampshire
   city: Durham
-  logo_filename:
+# logo_filename:
   url: http://www.nhptv.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WIAA-FM
   id: 1451
   short_name: WIAA
   state: Michigan
   city: Interlochen
-  logo_filename:
+# logo_filename:
   url: http://interlochenpublicradio.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WERU-FM (WERU Community Radio)
   id: 1430
@@ -3003,7 +3003,7 @@
   city: East Orland
   logo_filename: weru_logo.png
   url: https://weru.org/
-  history_text: |
+  history_md: |
     On May 1, 1988, after eight years of planning and work by an highly
     dedicated group of volunteers, WERU began broadcasting at 89.9 FM from the top
     of Blue Hill Mountain on the coast of Maine. Noel Paul Stookey (of Peter, Paul
@@ -3025,17 +3025,17 @@
 
     WERU is a member of the National Federation of
     Community Broadcasters and Maine Association of Broadcasters.
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: WUSF
   id: 1744
   short_name: WUSF
   state: Florida
   city: Tampa
-  logo_filename:
+# logo_filename:
   url: http://www.wusf.usf.edu/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WFCR
   id: 1438
@@ -3044,7 +3044,7 @@
   city: Amherst
   logo_filename: nepr_logo.png
   url: http://nepr.net/
-  history_text: |
+  history_md: |
     On May 6, 1961 the first signal from newly named WFCR (Four College
     Radio (Amherst, Mount Holyoke and Smith Colleges, and UMass Amherst) came from
     a 10-watt transmitting site at Springfield Trade High School, under a license
@@ -3054,7 +3054,7 @@
     WFCR and WNNZ are proud to serve over 165,000 weekly listeners throughout western
     New England from Hartford, CT to Brattleboro, VT with music, news and entertainment
     programs twenty-four hours a day, seven days a week.
-  productions_text: Five College Forum
+  productions_md: Five College Forum
 
 - pbcore_name: KGLT-FM
   id: 4608
@@ -3063,7 +3063,7 @@
   city: Bozeman
   logo_filename: kglt_logo.png
   url: http://www.kglt.net/
-  history_text: |
+  history_md: |
     On the air for 47 years, KGLT 91.9fm, alternative public radio in
     Southwest Montana, has entertained and shared diverse music played by live DJ’s
     around the clock, as well as informative programming and public service announcements,
@@ -3102,7 +3102,7 @@
 
     New in 2014, KGLT has worked with the Central Washington University
     radio station to help them build financial support.
-  productions_text: |
+  productions_md: |
     KGLT is the Emergency Alert System for Gallatin County, broadcasts
     the daily avalanche and ski reports, announces school closings, and gives a fishing
     report during the fishing season. 
@@ -3157,10 +3157,10 @@
   short_name: Public Broadcasting Atlanta
   state: Georgia
   city: Atlanta
-  logo_filename:
+# logo_filename:
   url: http://www.pba.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WEDU Florida Public Media
   id: 1742
@@ -3169,7 +3169,7 @@
   city: Tampa
   logo_filename: wedu_logo.png
   url: http://www.wedu.org/
-  history_text: |
+  history_md: |
     WEDU is West Central Florida’s leading PBS station reaching 16 counties through 
     media platforms including on-air programming and online experiences that broaden 
     horizons, transport and transform and open gateways to new ideas and new worlds. 
@@ -3188,37 +3188,37 @@
     (ORC International’s DualFrame CARAVAN, January 2015). For more information, 
     program schedules or to support WEDU visit www.wedu.org; WEDU Public Media 
     on Facebook and Twitter (@wedupbs) or call (813) 254-9338.
-  productions_text: 
+  productions_md: 
 
 - pbcore_name: Idaho Public Television
   id: 1750
   short_name: Idaho Public Television
   state: Idaho
   city: Boise
-  logo_filename:
+# logo_filename:
   url: http://idahoptv.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WTIP (North Shore Community Radio)
   id: 4602
   short_name: WTIP
   state: Minnesota
   city: Grand Marais
-  logo_filename:
+# logo_filename:
   url: http://www.wtip.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KGTF (PBS Guam)
   id: 1900
   short_name: PBS Guam
   state: Guam
   city: Mangilao
-  logo_filename:
+# logo_filename:
   url: http://pbsguam.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Colorado Public Television
   id: 1723
@@ -3227,7 +3227,7 @@
   city: Denver
   logo_filename: colorado_pt_logo.png
   url: http://www.cpt12.org/
-  history_text: |
+  history_md: |
     Originally known as KBDI Channel 12, Colorado Public Television (CPT12)
     is a unique civic resource and one of the country’s first alternative public television
     services. CPT12 provides important local, national and international programming
@@ -3274,7 +3274,7 @@
     mission, programming choices, community activities and engagement with its Colorado
     constituents. A global perspective combined with local conversations will continue
     to be CPT12's guide into the future.
-  productions_text: |
+  productions_md: |
     Colorado Inside Out
 
     Sounds on 29th
@@ -3343,7 +3343,7 @@
   city: Boston
   logo_filename: wumb_logo.png
   url: http://www.wumb.org
-  history_text: |
+  history_md: |
     WUMB-FM is a non-commercial radio station licensed to the University
     of Massachusetts with studios at the UMass Boston Campus, as the central hub for
     a network of eight public radio stations in Boston, Worcester, Falmouth, Newburyport,
@@ -3388,7 +3388,7 @@
     2 one week summer music camps for adults, as well as a weekend music getaway as
     well, geared toward furthering the participants’ musical skill.   WUMB is actively
     involved in several community engagement projects throughout the year.
-  productions_text: |
+  productions_md: |
     Commonwealth Journal
 
     Summer Acoustic Music Week/Winter Acoustic
@@ -3404,20 +3404,20 @@
   short_name: KUOW Puget Sound Public Radio
   state: Washington
   city: Seattle
-  logo_filename:
+# logo_filename:
   url: http://kuow.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KET - The Kentucky Network
   id: 1775
   short_name: KET - Kentucky Educational Television
   state: Kentucky
   city: Lexington
-  logo_filename:
+# logo_filename:
   url: http://www.ket.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WFMU
   id: 4857
@@ -3426,7 +3426,7 @@
   city: Jersey City
   logo_filename: wfmu_logo.png
   url: http://wfmu.org/
-  history_text: WFMU first went on the air in April 1958, then a part of Uppsala College
+  history_md: WFMU first went on the air in April 1958, then a part of Uppsala College
     in East Orange, New Jersey. Shortly before Uppsala's bankruptcy filing and closure
     on May 31, 1995, a group of station executives, personnel, and supporters formed
     Auricle Communications and bought the license from the college, making it a fully
@@ -3435,7 +3435,7 @@
     broadcasts terrestrially and online. It has been the subject of various articles,
     [books](http://www.amazon.com/The-Best-LCD-Writing-WFMU-FM/dp/1568987153), and
     even a [film](http://www.wfmuthemovie.com/)
-  productions_text: |
+  productions_md: |
     Aircheck - An hour of radio ghosts recaptured: once in a lifetime
     occurrences and remembrances (some from WFMU's own archives). This is no mere
     nostalgia trip; Aircheck seeks out some of the more unusual and unpredictable
@@ -3463,10 +3463,10 @@
   short_name: Blue Lake Public Radio
   state: Michigan
   city: Twin Lake
-  logo_filename:
+# logo_filename:
   url: http://bluelake.org/radio/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Pioneer Public Television
   id: 1793
@@ -3475,7 +3475,7 @@
   city: Appleton
   logo_filename: pioneer_logo.png
   url: http://www.pioneer.org/
-  history_text: |
+  history_md: |
     The original incorporation documents of the West Central Minnesota
     Educational Television Company were filed in 1959 as part of a plan for a six-state
     educational television network to serve the Upper Midwest through a series of
@@ -3552,7 +3552,7 @@
     communications services that reflect and uphold local values. Pioneer Public Television
     is a rare example of how democratic greater-good principles and small town cooperative
     values have been applied to the sophisticated world of broadcast communications. 
-  productions_text: |
+  productions_md: |
     Haiti Love
 
     My Way Back Home:  Holly Hansen
@@ -3567,10 +3567,10 @@
   short_name: Radio Bilingue
   state: California
   city: Fresno
-  logo_filename:
+# logo_filename:
   url: http://radiobilingue.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Southern Oregon Public Television (KSYS/KFTS)
   id: 1839
@@ -3579,7 +3579,7 @@
   city: Medford
   logo_filename: soptv_logo.png
   url: http://www.soptv.org/
-  history_text: |
+  history_md: |
     In 1965, Oregon Educational Broadcasting (OEB), forerunner of Oregon
     Public Broadcasting (OPB), persuaded the Federal Communications Commission (FCC)
     to reassign channel 8 from Brookings to Medford. OEB intended to make channel
@@ -3608,7 +3608,7 @@
     There are also the "Presenting Station" for several national programs
     including Tommy Emmanuel and Jesse Cook pledge specials.  We also present the
     series Sierra Center Stage and Music Gone Public.
-  productions_text: |
+  productions_md: |
     Immense Possibilities
 
     Souther Oregon Town Hall
@@ -3620,30 +3620,30 @@
   short_name: KUSP
   state: California
   city: Santa Cruz
-  logo_filename:
+# logo_filename:
   url: http://www.kusp.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KCPT (KCPT Public Television 19)
   id: 1799
   short_name: KCPT
   state: Missouri
   city: Kansas City
-  logo_filename:
+# logo_filename:
   url: http://www.kcpt.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WHRO
   id: 1886
   short_name: WHRO
   state: Virginia
   city: Norfolk
-  logo_filename:
+# logo_filename:
   url: http://whro.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: Maryland Public Television
   id: 1783
@@ -3652,7 +3652,7 @@
   city: Owings Mills
   logo_filename: mpt_logo.png
   url: http://www.mpt.org/
-  history_text: |
+  history_md: |
     In 1966, an act of the Maryland Legislature established the Maryland
     Educational-Cultural Television Commission, the governance body of what became
     known as the Maryland Center for Public Broadcasting and, later, Maryland Public
@@ -3717,7 +3717,7 @@
     to provide distinctive online content and community outreach initiatives, and
     to offer an impressive array of educational resources for children, teachers,
     families, and daycare providers across the state and nationally.
-  productions_text: |
+  productions_md: |
     - Wall $treet Week With Louis Rukeyser - 1972-2002; highlight was
     1987 broadcast from London Stock Exchange to more than 300 U.S. PBS stations
 
@@ -3744,7 +3744,7 @@
   city: Hartford
   logo_filename: cpbn_logo.png
   url: http://www.cpbn.org/
-  history_text: |
+  history_md: |
     In October 1962, the Connecticut Educational Television Corporation
     began broadcasting over station WEDH-TV (Channel 24) in black and white from the
     basement of the Trinity College Library in Hartford, Connecticut. In the beginning,
@@ -3776,7 +3776,7 @@
     is the state’s only locally owned media organization producing TV, radio, print
     and Internet content for distribution to Connecticut’s wide-ranging and diverse
     communities.
-  productions_text: |
+  productions_md: |
     Mundo Real (CPTV, 1976-1978) - One of the first television series
     to focus on a Puerto Rican family, Mundo Real was a Spanish-English bilingual
     educational children’s series aimed at ages 7-11. It was funded by four successive
@@ -3820,10 +3820,10 @@
   short_name: KVCR
   state: California
   city: San Bernardino
-  logo_filename:
+# logo_filename:
   url: http://kvcr.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KUT Radio
   id: 1616
@@ -3832,14 +3832,14 @@
   city: Austin
   logo_filename: kut_logo.png
   url: http://kut.org/
-  history_text: |
+  history_md: |
     KUT was established in 1958 and became a charter member of NPR in
     1971, carrying the first-ever broadcast of All Things Considered in May of that
     year. KUT also contributed the first of, what would become in time, 14 of the
     station’s employees to the NPR staff. In 1979, KUT carried the November inaugural
     broadcast of Morning Edition, with Bob Edwards as host and, in doing so, helped
     to launch what has become one of the most important and honored public radio programs.
-  productions_text: |
+  productions_md: |
     Texas Standard - the national daily news show of Texas.
 
     The
@@ -3860,20 +3860,20 @@
   short_name: KUVO
   state: Colorado
   city: Denver
-  logo_filename:
+# logo_filename:
   url: http://kuvo.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KEET
   id: 1711
   short_name: KEET
   state: California
   city: Eureka
-  logo_filename:
+# logo_filename:
   url: http://www.keet.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: University of Maryland
   id: NCSG0150
@@ -3882,8 +3882,8 @@
   city: College Park
   logo_filename: umd_logo.png
   url: http://www.lib.umd.edu/special
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: KSJN-FM (Minnesota Public Radio)
   id: 1466
@@ -3892,7 +3892,7 @@
   city: St. Paul
   logo_filename: mpr_logo.png
   url: http://minnesota.publicradio.org/
-  history_text: |
+  history_md: |
     Minnesota Public Radio is one of the nation's premier public radio
     stations producing programming for radio, online and live audiences. MPR started
     at Saint John’s University where Bill Kling, a student, found the support of Father
@@ -3905,7 +3905,7 @@
     of surrounding states. Reaching 900,000 weekly listeners, MPR and its three regional
     services—MPR News, Classical MPR and The Current—produce programming for radio,
     online and live audiences.
-  productions_text: |
+  productions_md: |
     Midday (1967-2012)
 
     A Prairie Home Companion (1974-present day)
@@ -3927,7 +3927,7 @@
   city: Columbia
   logo_filename: scetv_logo.png
   url: http://www.scetv.org/
-  history_text: |
+  history_md: |
     South Carolina Educational Television began in the library of a high
     school in 1958.  A teacher shortage in French and algebra was solved by sending
     teachers via closed circuit television to other schools.  The circuits eventually
@@ -3937,7 +3937,7 @@
     statewide.  Through ETV Streamline, ETV provides classroom content via the internet
     with safe, standards-based curriculum.
 
-  productions_text: 
+  productions_md: 
     First an affiliate of NET (National Educational
     Television) and now a member of  PBS, South Carolina ETV became a producer and
     presenter of national public television programs, including Firing Line with William
@@ -3951,10 +3951,10 @@
   short_name: WGBH
   state: Massachusetts
   city: Boston
-  logo_filename:
+# logo_filename:
   url: http://www.wgbh.org/
-  history_text: 
-  productions_text: 
+  history_md: 
+  productions_md: 
 
 - pbcore_name: WNYC-FM
   id: 1527
@@ -3963,7 +3963,7 @@
   city: New York
   logo_filename: wnyc_logo.png
   url: http://www.wnyc.org/
-  history_text: |
+  history_md: |
     New York Public Radio is home to three of the country’s leading public
     radio stations – WNYC FM, WNYC AM and WQXR FM – as well as New Jersey Public Radio
     and The Jerome L. Greene Performance Space. WNYC is a major producer of original
@@ -3977,7 +3977,7 @@
     WNYC - the largest station at NYPR - was one of the earliest municipally owned
     radio stations in the country. The first day of broadcast was July 8th, 1924 and
     the station was owned by the City of New York until 1997.
-  productions_text: |
+  productions_md: |
     WNYC's Masterwork Hour (1929) was radio's first program of recorded
     classical music
 
