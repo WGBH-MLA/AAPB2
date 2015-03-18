@@ -13,6 +13,9 @@ class OverrideController < ApplicationController
       full_path = (File.dirname(File.dirname(__FILE__))) + "/views/#{override_md_file_path}"
       if File.exist?(full_path)
         @content = CarpetFactory.render(File.read(full_path))
+                                .gsub('<h1>', '<div class="page-header"><h1>')
+                                .gsub('</h1>', '</h1></div>')
+                                # This is wrong, but not worth a full xml parse.
         render file: 'override-containers/md-container.erb'
         return
       end
