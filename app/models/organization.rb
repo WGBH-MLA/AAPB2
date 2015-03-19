@@ -1,4 +1,4 @@
-require_relative '../../lib/carpet_factory'
+require_relative '../../lib/markdown'
 
 class Organization
   attr_reader :pbcore_name
@@ -82,9 +82,9 @@ class Organization
     @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
     @city = pop(hash, 'city')
     @url = pop(hash, 'url')
-    @history_html = CarpetFactory.render(hash['history_md'])
-    @summary_html = CarpetFactory.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
-    @productions_html = CarpetFactory.render(hash.delete('productions_md'))
+    @history_html = Markdown.render(hash['history_md'])
+    @summary_html = Markdown.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
+    @productions_html = Markdown.render(hash.delete('productions_md'))
     @logo_src = "http://mlamedia01.wgbh.org/aapb/org-logos/#{hash.delete('logo_filename')}" if hash['logo_filename']
     fail("unexpected #{hash}") unless hash == {}
   end
