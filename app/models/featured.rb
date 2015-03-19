@@ -8,7 +8,7 @@ class Featured
 
   private
 
-  def initialize(hash) 
+  def initialize(hash)
     @id = hash.delete('id') || fail('expected id')
     @org_name = hash.delete('org_name') || fail('expected org_name')
     @name = hash.delete('name') || fail('expected org_name')
