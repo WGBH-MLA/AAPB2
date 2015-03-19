@@ -1,4 +1,4 @@
-require_relative '../../lib/carpet_factory'
+require_relative '../../lib/markdowner'
 
 class OverrideController < ApplicationController
   def show
@@ -11,9 +11,10 @@ class OverrideController < ApplicationController
       override_md_file_path = "override/#{params[:path]}.md"
       full_path = (File.dirname(File.dirname(__FILE__))) + "/views/#{override_md_file_path}"
       if File.exist?(full_path)
-        html = CarpetFactory.render(File.read(full_path))
-        (@title, @body) = html.match(%r{(<h1>.*?<\/h1>)(.*)}m).captures
+        html = Markdowner.render_file(full_path)
+        (@title, @body) = html.match(/^\s*<h1>(.*?)<\/h1>(.*)/m).captures
         # This is wrong, but not worth a full xml parse.
+        @page_title = @title
         render file: 'override-containers/md-container.erb'
         return
       end

@@ -1,4 +1,4 @@
-require_relative '../../lib/carpet_factory'
+require_relative '../../lib/markdowner'
 
 class Organization
   attr_reader :pbcore_name
@@ -69,11 +69,11 @@ class Organization
     'DC' =>	'DC',
     'Guam' => 'GU'
   }
-  
+
   def pop(hash, key)
     hash.delete(key) || fail("#{key} required")
   end
-  
+
   def initialize(hash)
     @pbcore_name = pop(hash, 'pbcore_name')
     @id = (pop(hash, 'id')).to_s
@@ -82,18 +82,18 @@ class Organization
     @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
     @city = pop(hash, 'city')
     @url = pop(hash, 'url')
-    @history_html = CarpetFactory.render(hash['history_md'])
-    @summary_html = CarpetFactory.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
-    @productions_html = CarpetFactory.render(hash.delete('productions_md'))
+    @history_html = Markdowner.render(hash['history_md'])
+    @summary_html = Markdowner.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
+    @productions_html = Markdowner.render(hash.delete('productions_md'))
     @logo_src = "http://mlamedia01.wgbh.org/aapb/org-logos/#{hash.delete('logo_filename')}" if hash['logo_filename']
     fail("unexpected #{hash}") unless hash == {}
   end
 
   # TODO: better idiom for locating configuration files?
-  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.yml').tap do |path| 
+  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.yml').tap do |path|
     orgs = YAML.load_file(path).map { |hash| Organization.new(hash) }
-    @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] } ]
-    @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] } ]
+    @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
+    @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
   end
 
   public
