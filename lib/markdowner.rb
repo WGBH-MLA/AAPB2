@@ -1,6 +1,6 @@
 require 'redcarpet'
 
-module Markdown
+module Markdowner
   @@markdown = Redcarpet::Markdown.new(Redcarpet::Render::XHTML, autolink: true)
   def self.render(md_text)
     return unless md_text
