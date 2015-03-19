@@ -1,7 +1,9 @@
 # Contact Us
 
 We’d love to hear from you. If you have general questions about the website and collection, or want to share information on the stories you find in the collections, please send an email to info@americanarchive.org.
+
 Feel free to contact us with any specific questions about the AAPB project by directly contacting project staff. WGBH’s focus is access, outreach, and description of materials, while Library of Congress may be contacted about preservation strategies. 
+
 Karen Cariani<br/>
 Project Director<br/>
 Director, WGBH Media Library & Archives<br/>

@@ -1,3 +1,3 @@
-# Acknowledgements & Funding
+# Acknowledgements
 
 TODO
