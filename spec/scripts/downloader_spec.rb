@@ -25,4 +25,14 @@ describe Downloader, not_on_travis: true do
       expect { Downloader.new('20001332') }.to raise_error
     end
   end
+  
+  describe 'download by id' do
+    it 'works' do
+      dir = Downloader.download_to_directory_and_link({ids: ['cpb-aacip/17-00000qrv']})
+      expect(dir).to match(/\d{4}-\d{2}-\d{2}.*_by_ids_1/)
+      files = Dir["#{dir}/*.pbcore"]
+      expect(files.map{ |f| f.sub(/.*\//, '')}).to eq(['17-00000qrv.pbcore'])
+      expect(File.read(files.first)).to match(/<pbcoreIdentifier source="http:\/\/americanarchiveinventory.org">cpb-aacip\/17-00000qrv/)
+    end
+  end
 end
