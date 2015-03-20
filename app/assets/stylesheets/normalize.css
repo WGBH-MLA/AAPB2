@@ -89,7 +89,7 @@ body {
   font-family: 'Roboto', Verdana, Tahoma, "DejaVu Sans", sans-serif; /* 1 */
 
   /* Use a 16px base font size. */
-  font-size: 100%; 
+  font-size: 90%; 
   line-height: 1.5em;
 }
 
@@ -186,6 +186,10 @@ blockquote {
   margin: 1.5em 30px;
 }
 
+  blockquote p {
+    font-style:italic;
+  }
+
   /*Intro text box for each section*/
   .intro-text p {
     font-size:.95em;
@@ -234,15 +238,20 @@ h1 {
   .page-header h1 {
     background-color:#292A72; /* This is the default background color */
     color:#FFF;
-    font-size:1.125em;
+    font-size:1.5em;
     font-weight:100;
-    line-height:40px;
-    margin:0 0 1em 0;
+    line-height:50px;
+    margin:0 0 .25em 0;
     padding:0 1em;
 
   }
 
     /* Sectional Page Header Styles */
+    
+    /*On an organization page*/
+    .blacklight-organizations-show .page-header h1 {
+      margin:0;
+    }
 
     /* Contributing/Participating Organizations */
     .blacklight-organizations .page-header h1 { background-color:#ef3f37; }
@@ -251,6 +260,7 @@ h1 {
     /* Record Title */
     .record-title {
       font-weight:400;
+      padding: 0 1em;
     }
 
 
@@ -645,6 +655,12 @@ table {
 /* Tablet ---------- */
 @media (min-width: 768px) {
 
+  html,
+  body {
+    /* Use a 16px base font size. */
+    font-size: 100%;
+  }
+
 
   /* H1 --------- */
 
@@ -664,8 +680,8 @@ table {
 
   /*Page HEader*/
   .page-header h1 {
-    font-size: 2em;
-    line-height:60px;
+    font-size: 1.8em;
+    line-height:50px;
   }
 
 }/* END: Tablet ---------- */
@@ -674,6 +690,23 @@ table {
 
 /* Desktop ---------- */
 @media (min-width: 992px) {
+
+  /*Page HEader*/
+  .page-header h1 {
+    font-size:2em;
+    line-height:60px;
+    margin:0 0 1em 0;
+  }
+
+    /*On an organization page*/
+    .blacklight-organizations-show .page-header h1 {
+      margin:0;
+    }
+
+    /* Record Title */
+    .record-title {
+      padding: 0;
+    }
 
 }/* END: Desktop ---------- */
 

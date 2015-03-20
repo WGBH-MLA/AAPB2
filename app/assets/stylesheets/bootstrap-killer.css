@@ -1,21 +1,19 @@
-/* These styles are specifially for overriding the default Bootstrap theme */
+ /* These styles are specifially for overriding the default Bootstrap theme */
 
 
 
 /* -------------------- */
 /* LAYOUT ---------- */
 /* -------------------- */
-.row,
+/*.row,
 .container > .navbar-header, 
 .container > .navbar-collapse, 
 .container > #facet-panel-collapse, 
 .container-fluid > .navbar-header, 
 .container-fluid > .navbar-collapse, 
 .container-fluid > #facet-panel-collapse {
-  /*margin-left: 0;
-  margin-right: 0;*/
 }
-
+*/
 
 
 
@@ -37,26 +35,31 @@
 .facets-toggle {
 	color: #FFF;
 	background-color: #90298E;
+	border-color: #90298E;
 }
 
 .btn-primary {
 	color: white;
 	background-color: #292A72;
+	border-color: #292A72;
 }
 
 .btn-success {
 	color: white;
 	background-color: #3C439B;
+	border-color: #3C439B;
 }
 
 .btn-info {
 	color: white;
 	background-color: #5D60AB;
+	border-color: #5D60AB;
 }
 
 .btn-warning {
 	color: white;
 	background-color: #9F2064;
+	border-color: #9F2064;
 }
 
 .btn-danger, 
@@ -64,6 +67,7 @@
 .appliedFilter .remove:active {
 	color: white;
 	background-color: #BF202F;
+	border-color: #BF202F;
 }
 
 .btn-default:hover, 
@@ -90,13 +94,13 @@
 
 
 .panel-primary {
-	border-color:#292A72;
+	border-color:#90298E;
 }
 
 	.panel-primary > .panel-heading {
-	  color: white;
-	  background-color: #292A72;
-	  border-color: #292A72;
+	  color: #FFF;
+	  background-color: #90298E;
+	  border-color: #90298E;
 	}
 
 .panel-success {
@@ -126,6 +130,17 @@
 		background-color: #9F2064;
 	}
 
+	/* Stripped Panel */
+	.panel.naked-panel,
+	.naked-panel > .panel-heading {
+		border:none;
+	}
+
+	.naked-panel .panel-body {
+		padding:0;
+	}
+
+
 
 
 /* -------------------- */
@@ -141,10 +156,16 @@
 /* FACET ACCORDIANS ---------- */
 /* -------------------- */
 
+#facets {
+	padding-bottom:0;
+}
+
 .facets .top-panel-heading,
 .column .navbar-header {
 	background-color:#3c439b;
+	border:none;
 	border-radius:0;
+	margin-bottom:0;
 }
 
 
@@ -225,6 +246,33 @@
 		}
 
 
+
+
+/* Facet Toggle Button */
+.facets-toggle {
+	background-color: transparent;
+	border-color: transparent;
+	margin:-5px 0 0;
+}
+
+	.facets-toggle:hover,
+	.facets-toggle:focus,
+	.facets-toggle:active,
+	.facets-toggle:active:focus {
+		background-color: transparent;
+		border-color: transparent;
+	}
+
+		.facets-toggle .icon-bar {
+			background-color:#FFF;
+		}
+
+
+
+
+
+
+
 /* -------------------- */
 /* PANEL ---------- */
 /* -------------------- */
@@ -254,49 +302,124 @@
 		}
 
 			
+/* -------------------- */
+/* SEARCH FIELD ---------- */
+/* -------------------- */
 
+/*THe Form*/
+.search-query-form {
+	border:none;
+}
 
 
 
 /* -------------------- */
-/* HOMEPAGE CAROUSEL ---------- */
+/* FEATURED CAROUSEL ---------- */
 /* -------------------- */
-	.home-carousel {
+	.featured-carousel {
 		height:auto;
-		width: 90%;
+		width: 100%;
 	  margin: 0 auto;
 	}
 
-	.home-carousel .carousel-control {
-		opacity: 1;
-  	filter: alpha(opacity=100);
-	}
-
-	.home-carousel .carousel-control.left {
-	  background-image: none;
-	  background-image: none;
-	  background-image: none;
-	  background-repeat: repeat-x;
-	  filter: 0;
-	}
-
-	.home-carousel .carousel-control.right {
-	  background-image: none;
-	  background-image: none;
-	  background-image: none;
-	  background-repeat: repeat-x;
-	  filter: 0;
-	}
-
-	/* The Panel */
-	
-
-	/* The List */
-		.home-carousel .list-group {
+		.featured-carousel .carousel-inner {
+			margin:0 auto;
 			width:100%;
 		}
 
-			.home-carousel .list-group .list-group-item {
+
+/*COntrols*/
+
+	.featured-carousel .carousel-control {
+		color:#3C439B;
+	}
+
+		.blacklight-home  .featured-carousel .carousel-control {
+			color:#FFF;
+			opacity: .3;
+  		filter: alpha(opacity=30);
+			/*padding:15px;*/
+		}	
+
+			.blacklight-home  .featured-carousel .carousel-control:hover {
+				opacity: .8;
+	  		filter: alpha(opacity=80);
+				/*padding:15px;*/
+			}
+
+		.featured-carousel .carousel-control.left,
+		.featured-carousel .carousel-control.right  {
+			background-color:transparent;
+		  background-image:none;
+		  filter: none;
+		  margin:0;
+		  text-align:center;
+		 	width:10%;
+		}
+
+			.featured-carousel .carousel-control.left  {
+			  margin-left:0;
+			  /*margin-left:-5%;*/
+			}
+
+			.featured-carousel .carousel-control.right  {
+				margin-right:0;
+			  /*margin-right:-4.4%;*/
+			}
+
+				/*.featured-carousel .carousel-control.left:hover  {
+				  margin-left:-6%;
+				}
+
+				.featured-carousel .carousel-control.right:hover  {
+				  margin-right:-5.4%;
+				}*/
+
+			.featured-carousel .carousel-control .glyphicon-chevron-left, 
+			.featured-carousel .carousel-control .glyphicon-chevron-right {
+				font-size:180%;
+				height:25%;
+				margin-top:0;
+				top:30%;
+				width:100%;
+			}
+
+				.carousel-control .glyphicon-chevron-left, 
+				.carousel-control .icon-prev {
+					margin-left:0;
+					left:0;
+				}
+
+				.featured-carousel .carousel-control .glyphicon-chevron-right, 
+				.featured-carousel .carousel-control .icon-next {
+					margin-right:0;
+					right:0;
+				}
+
+
+				/* Cruise Control */
+				.cruise-control {
+					background-color:transparent;
+					border:none;
+					margin:.5em 0;
+					padding:0;
+				}
+
+				.cruise-control .btn:link, 
+				.cruise-control .btn a:link, 
+				.cruise-control .btn:visited, 
+				.cruise-control .btn a:visited,
+				.cruise-control .btn-link {
+					color:#3C439B;
+				}
+
+
+		/* The List */
+		.featured-carousel.list-group {
+			width:100%;
+		}
+
+			.featured-carousel .list-group .list-group-item {
 				background-color:#171028;
 				background-color:rgba(23,16,40,.25);
 				border:0;
@@ -306,44 +429,80 @@
 				float:left;
 				margin:0 0 1%;
 				padding:0;
+				text-align:center;
 				width:100%;
 			}
 
-				/*.home-carousel .list-group-item:first-child {
-				  border-top-right-radius: 0;
-				  border-top-left-radius: 0;
-				}*/
+			/*Panel*/
+			.featured-carousel .panel {
+				margin-bottom:0;
+			}
 
 
-	.home-carousel .carousel-control {
-		color:#FFF;
+/* -------------------- */
+/* NAVBAR in the Main Container ---------- */
+/* -------------------- */
+
+#main-container .navbar {
+	border:1px solid #D3D3D3;
+}
+
+/* -------------------- */
+/* NAVBAR in a Column ---------- */
+/* -------------------- */
+
+ .column .navbar,
+ .container-fluid > .navbar-header,
+ .container-fluid > .navbar-collapse {
+		margin-right: 0;
+		margin-left: 0;
 	}
 
-		.home-carousel .carousel-control.left {
-			 left: -4.4em;
+	/*Nav toggle button*/
+	.column .navbar-default .navbar-toggle {
+		border:none;
+	}
+
+		.column .navbar-default .navbar-toggle .icon-bar {
+			background-color:#FFF;
+			height:3px;
 		}
 
-		.home-carousel .carousel-control.right {
-			right: -4em;
+			.column .navbar-default .navbar-toggle:hover,
+			.column .navbar-default .navbar-toggle:focus {
+				background-color:rgba(0,0,0,.3);
+			}
+
+	/* The Branding */
+	.column .navbar .navbar-brand {
+		color:#FFF;
+		font-size:1em;
+		font-weight: 400;
+		line-height: 1.2em;
+		width:auto;
+	}
+
+	.column .navbar-nav,
+	.column .navbar-nav > li,
+	.column .navbar-left,
+	.column .navbar-right,
+	.column .navbar-header {
+		float:none !important;
+	}
+
+		.column .container-fluid {
+		  padding-left: 0;
+		  padding-right: 0;
 		}
 
-			.home-carousel .carousel-control.left:hover {
-				left: -4.7em;
-			}
+		.column .navbar-nav {
+			background-color:#FFF;
+			margin:0;
+		}
 
-			.home-carousel .carousel-control.right:hover {
-				right: -4.3em;
-			}
-
-			.home-carousel .carousel-control .glyphicon-chevron-left, 
-			.home-carousel .carousel-control .glyphicon-chevron-right, 
-			.home-carousel .carousel-control .icon-prev, 
-			.home-carousel .carousel-control .icon-next {
-				font-size:1.8em;
-			}
-
-
-
+		.column .navbar-collapse {
+			padding:0;
+		}
 				
 
 /* -------------------- */
@@ -361,28 +520,14 @@
 	  margin-left: 0;
 	}
 
+	/*
+	 * NAVBAR in a Column
+	 */
 
-
-/* -------------------- */
-/* HOMEPAGE CAROUSEL ---------- */
-/* -------------------- */
-	.home-carousel {
-		height:300px;
-		width: 100%;
-	}
-
-		/* The List Item */
-		.home-carousel .list-group .list-group-item {
-			background-color:transparent;
-			clear:none;
-			height:300px;
-			margin:0 1%;
-			overflow:hidden;
-			width:31.3333%;
+		/* The Branding */
+		.column .navbar .navbar-brand {
+			width:100%;
 		}
-
-
-
 
 
 
@@ -395,6 +540,49 @@
 
 
 
+/*
+ * NAVBAR in a Column
+ */
+.column .navbar {
+	max-width:390px;
+}
+
+	/* The Branding */
+	.column .navbar .navbar-brand {
+		width:auto;
+	}
+
+
+	/* -------------------- */
+	/* FEATURED CAROUSEL ---------- */
+	/* -------------------- */
+		.featured-carousel {
+			height:auto;
+			width: 100%;
+		  margin: 0 auto;
+		}
+
+				/*Slides*/
+				.featured-carousel .list-group .list-group-item {
+					clear:none;
+					margin:0 1%;
+					width:31.3333%;
+				}
+
+
+
+			/* Controls */
+			.blacklight-home .featured-carousel .carousel-control.left {
+				/*margin-left:-30px;
+			  width:60px;*/
+			}
+
+			.blacklight-home .featured-carousel .carousel-control.right {
+				/*margin-right:-30px;
+			  width:60px;*/
+			}
+
+
 }/* END: Desktop ---------- */
 
 /* Wide Desktop ---------- */
@@ -402,4 +590,4 @@
 
 
 
-}/* END: Wide Desktop ---------- */
+}/* END: Wide Desktop ---------- 
