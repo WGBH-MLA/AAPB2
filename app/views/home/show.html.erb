@@ -6,19 +6,9 @@
     <div class="well intro-text">
       <h1>Discover millions of historic programs from publicly funded radio and television stations across America. Watch and listen to thousands of them.</h1>
     </div>
-    <!-- Well - Relative Home Nav -->
-    <!-- <div class="well well-sm sticky-well home-rel-nav" data-spy="affix" data-offset-top="200">
-      <div class="btn-group" role="group" aria-label="AAPB Homepage Sections">
-        <a class="btn btn-default home-rel-nav-welcome" href="#top" role="button">Welcome</a>
-        <a class="btn btn-default" href="#stations" role="button">Contributing Stations</a>
-        <a class="btn btn-default" href="#collections" role="button">Featured Collections</a>
-        <a class="btn btn-default" href="#staff" role="button">Staff Curations</a>
-      </div>
-    </div> -->
-    <!-- Wells -->
 
     <!-- Panel - Search -->
-    <div class="panel panel-default large-search" id="home-search">
+    <div class="panel panel-default naked-panel search-panel" id="home-search">
       <div class="panel-body">
           <%= render partial: 'catalog/search_form_big'  %>
       </div>
@@ -41,7 +31,7 @@
           </div>
 
           <div class="list-group-item">
-            <%= render partial: 'home/blog'  %>
+            <%= render :partial=>'home/blog'  %>
           </div>
 
         </div>
@@ -49,6 +39,7 @@
       </div>
     </div>
     <!-- Panel -->
+
     
   </div>
 </div>
@@ -63,5 +54,3 @@
   </div>
 </div>
 <!-- END Contributing Stations -->
-
-

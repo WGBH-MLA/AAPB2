@@ -32,11 +32,23 @@
  */
 
  * {
+
+ 	/*No Border Radius*/
  	-webkit-border-radius:0!important; 
   -moz-border-radius:0!important; 
  	border-radius:0!important;
+
+ 	/*No Box Shadow*/
+ 	-webkit-box-shadow:none!important;
+  box-shadow:none!important;
  }
 
+
+/* REGION - THis is an element meant to contain other elements and center align them according to the design */
+.region {
+	margin:0 auto;
+	padding:0 10px;
+}
 
 
 /*
@@ -89,54 +101,7 @@
 }
 
 
-/*Search*/
-.navbar-search {
-	background-color:#FFF;
-	border: 1px solid #cccccc;
-	padding: 0;
-}
 
-	.navbar-search .form-control,
-	.navbar-search .btn {
-		border: none;
-		border-radius: 0;
-		-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0);
-		box-shadow: inset 0 1px 1px rgba(0,0,0,0);
-		-webkit-transition: border-color ease-in-out 0, box-shadow ease-in-out 0;
-		-o-transition: border-color ease-in-out 0, box-shadow ease-in-out 0;
-		transition: border-color ease-in-out 0, box-shadow ease-in-out 0;
-	}
-
-		.navbar-search .form-control:focus {
-			outline:none;
-		}
-
-	/*Add on container*/
-	.navbar-search .input-group-addon {
-  	background-color:rgba(0,0,0,.08);
-  	border-color:transparent;
-  	border-radius:0;
-  	color:#666;
-  	padding:5px 0;
-  	width:20%;
-  }
-
-  	/*Select Box*/
-		.navbar-search .search_field {
-			border: 0;
-			width: 100%;
-			background-color: transparent;
-			padding:0;
-		}
-
-	.navbar-search .btn {
-		color:#333;
-		background-color:#FFF;
-	}
-
-		.navbar-search .btn:hover {
-			color:#0066CC;
-		}
 
 
 
@@ -148,42 +113,57 @@
 
  #footer {
  	background:#eeeeee url(/site-ui/footer-bg.gif) repeat 0 0;
- 	margin-top:2em;
+ 	padding-top:2em;
  }
 
-.footer-links {
-	float:left; 
-	width:23%;
-	margin:0 1%;
-	background-color: transparent;
-	border: none;
-	border-radius: 0;
-	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0);
-	box-shadow: 0 1px 1px rgba(0,0,0,0);
-}
+
+	.footer-logo {
+		background-color:transparent;
+		border:none;
+		padding:0;
+		text-align:center;
+	}
+
+		.footer-logo img {
+			height:auto;
+			margin:0 auto;
+			width:250px;
+		}
 
 
+
+/* Lists of links --------- */
+
+/*The Heading*/
 .footer-links > .panel-heading {
 	color: #666;
 	background-color: transparent;
 	border:none;
 	border-top-right-radius: 0;
 	border-top-left-radius: 0;
-	padding: 5px 0;
+	padding: .5em 0;
 	
 }
+	
+	/*the title*/
+	.footer-links .panel-title {
+		font-size:1.125em;
+	}
 
+/*List item*/
 .footer-links .list-group-item {
-	padding: 5px 0;
-	margin-bottom: -1px;
+	padding: .25em 0;
+	margin-bottom: 0;
 	background-color: transparent;
 	border: none;
 }
 
+/*the links*/
 .footer-links a,
 .footer-links a:active,
 .footer-links a:visited {
 	color:#666;
+	font-size:.875em;
 }
 
 	.footer-links a:hover {
@@ -191,6 +171,24 @@
 	}
 
 
+
+/* Third Footer Row --------- */
+
+/* The Row */
+#footer .row.third {
+	text-align:center;
+}
+	
+	/* footer button group */
+	#footer .row.third .btn-group {
+		margin:0 auto;
+	}
+
+		/* links */
+		#footer .row.third .btn-link {
+			color:#666;
+			text-transform: none;
+		}
 
 /* MISC Elements */
 		
@@ -206,16 +204,86 @@ hr {
 
 
 
+/* -------------------- */
+/* SEARCH FIELD ---------- */
+/* -------------------- */
 
-
-/* REGION - THis is an element meant to contain other elements and center align them according to the design */
-.region {
-	margin:0 auto;
-	padding:0 10px;
+/*THe Form*/
+.search-group {
+	border:1px solid #CCC;
+	height:50px;
 }
 
+	.search-group .input-group-addon,
+	.search-group .input-group-lg > .input-group-addon,
+	.search-group .search_field,
+	.search-group .form-control,
+	.search-group.input-group-lg > .input-group-btn,
+	.search-group.input-group-lg > .input-group-btn > .btn {
+		border: none;
+  	height: 50px;
+  	padding:0;
+	}
+
+		/* Small Search Select */ 
+		.input-group.input-group-sm.search-group .input-group-addon {
+			width:25%;
+		}
+
+			.search-group .search_field {
+				background-color:transparent;
+			}
+
+		/*Search FIELD*/
+		.search-group .form-control {
+			line-height:50px;
+			padding:0 1em;
+		}
+
+		/* Search Button */
+		.search-group.input-group-lg > .input-group-btn,
+		.search-group.input-group-lg > .input-group-btn > .btn,
+		.search-group.input-group-sm > .input-group-btn,
+		.search-group.input-group-sm > .input-group-btn > .btn {
+			background-color:#FFF;
+			color:#292A72;
+			margin:0;
+			width:50px;
+		}
+
+			.search-group.input-group-lg > .input-group-btn > .btn:hover,
+			.search-group.input-group-sm > .input-group-btn > .btn:hover {
+				background-color:#F9F9F9;
+				color:#90298E;
+			}	
 
 
+		/* Smaller Search Field --------- */
+
+		/*THe Form*/
+		.search-group.input-group-sm {
+			border-color:#DFDFDF;
+		}
+
+			.search-group.input-group-sm,
+			.search-group.input-group-sm .input-group-addon,
+			.search-group.input-group-sm .input-group-sm > .input-group-addon,
+			.search-group.input-group-sm .search_field,
+			.search-group.input-group-sm .form-control,
+			.search-group.input-group-sm > .input-group-btn,
+			.search-group.input-group-sm > .input-group-btn > .btn {
+		  	height: 30px;
+			}
+
+				/*Search FIELD*/
+				.search-group.input-group-sm .form-control {
+					line-height:30px;
+				}
+
+				.search-group.input-group-sm .input-group-sm > .input-group-btn,
+				.search-group.input-group-sm .input-group-sm > .input-group-btn > .btn {
+			  	width: 30px;
+				}
 
 
 
@@ -226,62 +294,182 @@ hr {
 /* This is a record display in a search result*/
 
 #documents .document {
+	border-bottom:none;
 	margin-top: 0;
 	padding-top: 0;
-
-	margin-bottom:2em;
-	padding-bottom:2em;
 }
 
-.blacklight-catalog .document .media {}
-
-/* Image container */
-.blacklight-catalog .document .media-left {
-	padding-right:20px;
-	width:25%;
-}
-	
-	/* Image:hover; */
-	.blacklight-catalog .document .media-left a:hover img {
-		opacity:.8;
+	/*Title*/
+	.media-panel h2.panel-title {
+		font-size: 1.4em;
 	}
 
-	/*
-	.blacklight-catalog .document .media-heading {
-		line-height: 1.3em;
-		margin-bottom: .5em;
-	}
-	*/
+	/*MEdia THumbnail*/
+	.media-thumb,
+	.media-panel .col-md-3 {
+		background: #ffffff; /* Old browsers */
+		background: -moz-radial-gradient(center, ellipse cover,  #ffffff 25%, #f2f2f2 100%); /* FF3.6+ */
+		background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(25%,#ffffff), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
+		background: -webkit-radial-gradient(center, ellipse cover,  #ffffff 25%,#f2f2f2 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-radial-gradient(center, ellipse cover,  #ffffff 25%,#f2f2f2 100%); /* Opera 12+ */
+		background: -ms-radial-gradient(center, ellipse cover,  #ffffff 25%,#f2f2f2 100%); /* IE10+ */
+		background: radial-gradient(ellipse at center,  #ffffff 25%,#f2f2f2 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
-	/* Media Body */
-	.media-body dl {
+		text-align:center;
+	}
+
+		.media-panel .col-md-3 {
+			margin-top:-15px;
+			padding:1em 0;
+		}
+
+			.media-thumb img,
+			.media-panel .col-md-3 img {
+				height:auto;
+				width:100%;
+			}
+
+
+.media-panel .col-md-3 img {}
+
+
+	/* Catalog Meta Info */
+	.blacklight-catalog dl {
 		clear:left;
 		margin:0 0 1em;
 	}
 
+		/*In a Media Panel*/
+		.media-panel dl {
+			margin:0 0 .5em;
+		}
+
+		.blacklight-catalog dl dt,
+		.blacklight-catalog dl dd {
+			clear:left;
+			float:left;
+			margin:0 0 1em;
+		}
 	
-	.media-body dt {
-		color:#9f2064;
+			.blacklight-catalog dl dt {
+				color:#9f2064;
+			}
+
+
+	/* Column Search ---------- */
+
+	/*Hide the Panel header on smaller screens*/
+	#column-search .panel-heading {
+		display:none;
+	}
+		
+	/* The Form */
+	#column-search .navbar-form {
+		margin:.5em 0;
+		padding:0;
+	}
+
+		#column-search .navbar-form .input-group {
+			width:100%;
+		}
+
+
+/* -------------------- */
+/* ORGANIZATION ---------- */
+/* -------------------- */
+
+.org-o-tron {
+	background-color: #F9F9F9;
+	border:1px solid #DEDEDE;
+	padding:1em;
+	text-align:center;
+}
+
+.org-o-tron h1 {
+	font-size: 3em;
+	font-weight:200;
+}
+
+	.org-o-tron p {
+		font-weight:400;
+	}
+
+
+/* -------------------- */
+/* FEATURED CAROUSEL ---------- */
+/* -------------------- */
+
+/* homepage - mobile */
+.blacklight-home .featured-carousel .carousel-inner {
+	max-width:80%;
+}
+
+/* The Slide */
+.featured-carousel .list-group-item {
+	overflow:hidden;
+	text-align:center;
+}
+
+	/* The Image */
+	.featured-carousel .list-group-item img {
+		display:block;
 		float:left;
-		width:20%;
-	}
-
-	.media-body dd {
-		float:right;
-		margin:0;
-		width:75%;
+		height:auto;
+		margin: 0 auto;
+		width:35%;
 	}
 
 
+	/* THe Caption */
+	.featured-carousel .list-group-item .carousel-caption {
+		display:block;
+		float:left;
+		padding:3%;
+		position:static;
+		text-align:left;
+		width:63%;
+	}
 
-	/* **********
-	 BREAKPOINTS 
-	 ********** */
+		/* The Title/Attribution */
+		.featured-carousel .list-group-item .carousel-caption h3,
+		.featured-carousel .list-group-item .carousel-caption h4,
+		.featured-carousel .list-group-item .carousel-caption p {
+			color:#FFF;
+			font-weight:300;
+			margin:0 0 .35em;
+			padding:0;
+			text-shadow: none;
+		}
+
+			/* The Title */
+			.featured-carousel .list-group-item .carousel-caption h3 {
+				font-size: 1em;
+			}
+
+			.featured-carousel .list-group-item .carousel-caption h4 {
+				font-size: .8em;
+			  margin-bottom: 1em;
+			  text-transform: uppercase;
+			  font-weight: 600;
+			}
+
+			/* The Attribution */
+			.featured-carousel .list-group-item .carousel-caption p {
+				font-size: .8em;
+			}
+
+			 .featured-carousel .list-group-item .carousel-caption .description {
+			 	display:none;
+			 }
 
 
-/* -------------------- */
-/* BREAKPOINTS ---------- */
-/* -------------------- */
+
+
+
+/* ------------------------------------------------------------ */
+/* BREAKPOINTS -------------------------------------------------- */
+/* ------------------------------------------------------------ */
 
 /* Tablet ---------- */
 @media (min-width: 768px) {
@@ -302,6 +490,8 @@ hr {
 		position:relative;
 		padding:70px 0 20px;
 	}
+
+
 
 	/* Primary Nav */
 
@@ -331,6 +521,71 @@ hr {
 		}
 
 
+/* -------------------- */
+/* CATALOG ---------- */
+/* -------------------- */
+
+/*Thumbnail*/
+.media-thumb img,
+.media-panel .col-md-3 img {
+	height:auto;
+	width:50%;
+}
+
+/* Catalog Meta Info */
+	.blacklight-catalog dl {
+		clear:left;
+		margin:0 0 1em;
+	}
+
+		/*In a Media Panel*/
+		.media-panel dl {
+			margin:0 0 .5em;
+		}
+
+		.blacklight-catalog dl dt,
+		.blacklight-catalog dl dd {
+			clear:none;
+			float:left;
+			margin:0 0 1em;
+		}
+	
+			.blacklight-catalog dl dt {
+				color:#9f2064;
+				width:20%;
+				margin-right:2%;
+			}
+
+			.blacklight-catalog dl dd {
+				width:70%;
+			}
+
+
+
+
+	/* -------------------- */
+	/* FEATURED CAROUSEL ---------- */
+	/* -------------------- */
+
+		/* The Title */
+			.featured-carousel .list-group-item .carousel-caption h3 {
+				font-size: 1.3em;
+			}
+
+			.featured-carousel .list-group-item .carousel-caption h4 {
+				font-size: .8em;
+			  margin-bottom: 1em;
+			  text-transform: uppercase;
+			  font-weight: 600;
+			}
+
+			/* The Attribution */
+			.featured-carousel .list-group-item .carousel-caption p {
+				font-size: .9em;
+			}
+
+
+		
 
 
 }/* END: Tablet ---------- */
@@ -347,11 +602,10 @@ hr {
 
 	/*Logo*/
 	#header-navbar .navbar-brand {
-		background-size:100% auto;
-		height: 50px;
+		height: 57px;
 		margin-left: 40px;
-		margin-top:14px;
-		width: 310px;
+		margin-top:-7px;
+		width: 285px;
 	}
 
 	/*Primary NAv*/
@@ -369,41 +623,141 @@ hr {
 			margin:0 auto;
 		}
 
+		/* Styling */
+		.column .navbar-default .navbar-nav > li > a:hover {
+			background-color:#EFEFEF;
+		}
 
-/*
- * NAVBAR in a Column
- */
-.column .navbar {
-	max-width:300px;
-	margin-right: 0;
-	margin-left: 0;
-}
 
-	.column .navbar-nav,
-	.column .navbar-nav > li,
-	.column .navbar-left,
-	.column .navbar-right,
-	.column .navbar-header {
-		float:none !important;
+	/* LARGE SEARCH ---------- */
+	.input-group-lg.search-group {
+		margin:0 auto 1em;
+		width:80%;
 	}
 
-		.column .container-fluid {
-		  padding-left: 0;
-		  padding-right: 0;
+
+
+/* -------------------- */
+/* CATALOG ---------- */
+/* -------------------- */
+
+	/* Media Panel left column */
+	.media-panel .col-md-3 {
+		background-color: #ffffff;
+		background-image: none;
+	}
+
+		.media-panel .col-md-3 {
+			margin-top:0;
+			padding:0 1em;
+		}
+			.media-panel .col-md-3 img {
+				height:auto;
+				width:100%;
+			}
+
+	/*Thumbnail*/
+	.media-thumb img {
+		height:auto;
+		width:40%;
+	}
+
+
+	/* Column Search ---------- */
+
+	/*Hide the Panel header on smaller screens*/
+		#column-search .panel-heading {
+			display:block;
 		}
 
 
-		.column .nav {
-			background-color:#EFEFEF
+
+	/* -------------------- */
+	/* FEATURED CAROUSEL ---------- */
+	/* -------------------- */
+
+		.blacklight-home .featured-carousel .carousel-inner {
+			max-width:none;
 		}
 
-		.column .navbar-collapse {
-			padding:0;
+	/*List item*/
+	.featured-carousel .list-group .list-group-item {
+		margin:0 .5%;
+		overflow:hidden;
+		width:32.3333%;
+	}
+
+		/*on homepage*/
+		.blacklight-home .featured-carousel .list-group .list-group-item {}
+
+	/* The Image */
+	.featured-carousel .list-group-item img {
+		float:none;
+		height:300px;
+		max-width:none;
+		width:300px;
+		-webkit-transition: all 3s ease-in-out;
+	  transition: all 3s ease-in-out;
+	}
+
+		/* Hover State */
+		.featured-carousel .list-group-item:hover img {
+			-webkit-transform: scale(1.1);
+	    transform: scale(1.1);
+		}
+
+		/* Hover State */
+		.featured-carousel .list-group-item:hover {
+			background-color:transparent;
 		}
 
 
+	/* THe Caption */
+	.featured-carousel .list-group-item .carousel-caption {
+		background-color:#171028;
+		background-color:rgba(23,16,40,.7);
+		bottom:0;
+		display:block;
+		left:0;
+		padding:8%;
+		position:absolute;
+		text-align:left;
+		width:100%;
+		z-index:1;
+	}
+
+		/* hover */
+		.featured-carousel .list-group-item:hover .carousel-caption {
+			background-color:rgba(23,16,40,.9);
+		}
+			
+		/* THe Caption - Stations */
+		#orgs-carousel.featured-carousel .list-group-item .carousel-caption {
+			background-color:transparent;
+			position:static;
+		}
 
 
+			
+
+
+
+		/*Orgs Slider*/
+		.blacklight-home #orgs-carousel.featured-carousel .list-group .list-group-item {
+			background-color:rgba(255,255,255,.2);
+			min-height:250px;
+		}
+
+			/*description*/
+			#orgs-carousel.featured-carousel .carousel-caption .description {
+				display:block;
+			}
+
+			/* Hiover State - Stations */
+			#orgs-carousel.featured-carousel .list-group-item:hover {
+				background-color:rgba(255,255,255,.1);
+				position:static;
+			}
 
 	
 
@@ -417,6 +771,13 @@ hr {
 	.region {
 		padding:0;
 		width:1170px;
+	}
+
+	/*Logo*/
+	#header-navbar .navbar-brand {
+		height: 70px;
+		margin-top:-20px;
+		width: 350px;
 	}
 
 }/* END: Wide Desktop ---------- */
