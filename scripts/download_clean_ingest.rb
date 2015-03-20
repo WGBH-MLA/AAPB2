@@ -55,12 +55,16 @@ if __FILE__ == $PROGRAM_NAME
     when '--files'
       fail ParamsError.new if args.empty?
       files = args
+      
+    when '--ids'
+      fail ParamsError.new unless args.count >= 1
+      target_dir = Downloader.download_to_directory_and_link(ids: args)
 
     else
       fail ParamsError.new
     end
   rescue ParamsError
-    abort 'USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ...'
+    abort 'USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ... | --ids ID ...'
   end
 
   files ||= Dir.entries(target_dir)
