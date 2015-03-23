@@ -71,16 +71,21 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # AAPB IDs, frustratingly, include slashes. We don't expect to see underscore,
     # so swap these two for a loss-less mapping. May revisit.
   end
+  SONY_CI = 'Sony Ci'
   def ids
     @ids ||= begin
       h = hash_by_type('/*/pbcoreIdentifier', '@source') # TODO: confirm multi-hash not necessary.
+      h.delete(SONY_CI) # Handled separately
       { 'AAPB ID' => h.delete('http://americanarchiveinventory.org') }.merge(h).map { |key, value| [key, value] }
       # Relabel AND put at front of list.
       # Map to pairs for consistency... but building the hash and just throwing it away?
     end
   end
   def ci_id
-    @ci_id ||= xpaths('/*/pbcoreIdentifier[@source="Sony Ci"]').first # May not be present.
+    # Records from Wash U may have multiple Ci IDs right now.
+    # In the future, cataloging work should be done so these each have their own record.
+    # https://github.com/WGBH/AAPB2/issues/253
+    @ci_id ||= xpaths("/*/pbcoreIdentifier[@source='#{SONY_CI}']").first # May not be present.
   end
   def media_src
     @media_src ||= ci_id ? "/media/#{id}" : nil
@@ -89,7 +94,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @img_src ||=
       case [media_type, digitized?]
       when [MOVING_IMAGE, true]
-        '/thumbs/video-digitized.jpg' # TODO: "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+        "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
       when [MOVING_IMAGE, false]
         '/thumbs/video-not-digitized.jpg'
       when [SOUND, true]
@@ -306,7 +311,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types, :titles_sort]
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types, :titles_sort, :ci_id]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
