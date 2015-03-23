@@ -1,4 +1,3 @@
-<%# TODO: When this is stable, define solr fields and use them instead. Saves about 0.1s. %>
 <% PBCore.new(document.instance_variable_get('@_source')['xml']).tap do |pbcore| %>
 
   <% # header bar for doc items in index view -%>
@@ -7,7 +6,7 @@
     <div class="panel panel-default media-panel">
       <div class="panel-heading">
         <h2 class="panel-title" title="<%= pbcore.title %>">
-          <%= link_to_document document, label: pbcore.title %>
+          <%= link_to_document(document, pbcore.title) %>
         </h2>
       </div>
       <div class="panel-body">
@@ -55,7 +54,7 @@
 
 
     <% # bookmark functions for items/docs -%>
-    <%= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>
+    <%#= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>
 
   </div><!-- END Document Header -->
 

@@ -99,8 +99,8 @@ describe 'Validated and plain PBCore' do
         genres: ['Horror', 'Musical'],
         id: '1234',
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
-        ci_id: nil,
-        media_src: nil,
+        ci_id: 'a-32-digit-hex',
+        media_src: '/media/1234',
         img_src: '/thumbs/video-not-digitized.jpg',
         # TODO: 'https://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg'
         organization_pbcore_name: 'WGBH',

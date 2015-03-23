@@ -37,13 +37,13 @@
     
     <h1 class="record-title"><%= @pbcore.title %></h1>
 
-    <% if @pbcore.media_src %>
-      <%= render partial: 'catalog/player' %>
-    <% else %>
+    <%# if @pbcore.media_src %>
+      <%#= render partial: 'catalog/player' %>
+    <%# else %>
       <div class="well media-thumb">
         <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
       </div>
-    <% end %>
+    <%# end %>
 
 
     <div class="panel panel-default">
