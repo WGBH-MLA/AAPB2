@@ -47,19 +47,21 @@
 
 
     <div class="panel panel-default">
-    <div class="panel-heading">
-      <h2 class="panel-title">Titles</h2>
-    </div>
-    <div class="panel-body">
-    
-
+      <div class="panel-heading">
+        <h2 class="panel-title">Titles</h2>
+      </div>
+      <div class="panel-body">
         <dl>
           <% @pbcore.titles.reverse_each do |type,title| %>
             <dt><%= type %></dt>
             <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
           <% end %>
         </dl>
-
+      </div>
+    </div>
+    
+    <div class="panel panel-default">
+      <div class="panel-body">
         <dl>
           <dt>Contributing Organization</dt>
           <dd><a href='/participating-orgs/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
@@ -74,7 +76,6 @@
         </dl>
 
         <% unless @pbcore.asset_dates.empty? %>
-          <h2>Dates</h2>
           <dl>
             <% @pbcore.asset_dates.each do |type,date| %>
               <dt><%= type %></dt>
@@ -122,25 +123,25 @@
           <% end %>
         </dl>
 
-    </div><!-- END Panel Body -->
-  </div><!-- END Panel -->
+      </div><!-- END Panel Body -->
+    </div><!-- END Panel -->
 
 
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h2 class="panel-title">Identifiers</h2>
-    </div>
-    <div class="panel-body">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2 class="panel-title">Identifiers</h2>
+      </div>
+      <div class="panel-body">
 
-      <dl>
-        <% @pbcore.ids.each do |type,id| %>
-          <dt><%= type %></dt>
-          <dd><%= id %></dd>
-        <% end %>
-      </dl>
+        <dl>
+          <% @pbcore.ids.each do |type,id| %>
+            <dt><%= type %></dt>
+            <dd><%= id %></dd>
+          <% end %>
+        </dl>
 
-    </div><!-- END Panel Body -->
-  </div><!-- END Panel -->
+      </div><!-- END Panel Body -->
+    </div><!-- END Panel -->
 
   </div><!-- END COlumn -->
 
