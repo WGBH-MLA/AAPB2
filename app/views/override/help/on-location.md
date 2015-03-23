@@ -1,3 +1,0 @@
-# On Location Research
-
-TODO
