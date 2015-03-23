@@ -166,7 +166,7 @@ class CatalogController < ApplicationController
 
   def show
     # TODO: do we need more of the behavior from Blacklight::Catalog?
-    @response, @document = get_solr_response_for_doc_id
+    @response, @document = fetch(params['id'])
     xml = @document.instance_variable_get('@_source')['xml']
 
     respond_to do |format|
