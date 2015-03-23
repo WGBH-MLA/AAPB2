@@ -56,7 +56,7 @@ The **ACCESS** facet is the quickest way to display only the metadata records fo
 video and audio content digitized by the AAPB. All digitized assets are 
 available for viewing/listening at the Library of Congress or WGBH, so this 
 facet is a good way to begin your research and identify content that you may 
-want to view or listen to during an on-location visit. [Click here](TODO) for more 
+want to view or listen to during an on-location visit. [Click here](http://americanarchive.org/on-location) for more 
 information about on-location research, and follow our 
 [blog](http://blog.americanarchive.org) to stay tuned about forthcoming 
 availability of video and audio on the website!
