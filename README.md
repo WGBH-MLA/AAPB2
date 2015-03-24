@@ -109,8 +109,8 @@ $ ruby -I . -e 'require "scripts/lib/pb_core_ingester"; PBCoreIngester.new.delet
 ```
 To download and ingest everthing (which will take a while):
 ```bash
-$ nohup ruby scripts/download_clean_ingest.rb --all >> tmp/ingest.log 2>> tmp/ingest.err &
-$ cat tmp/ingest.err # to make sure it started without errors
+$ nohup ruby scripts/download_clean_ingest.rb --all >> ~/ingest.log 2>> ~/ingest.err &
+$ cat ~/ingest.err # to make sure it started without errors
 ```
 
 
