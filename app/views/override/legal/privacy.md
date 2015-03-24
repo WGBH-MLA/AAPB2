@@ -1,4 +1,4 @@
-# AAPB Website Privacy Policy
+# AAPB Privacy Policy
 
  
 Thank you for visiting americanarchive.org (the “Site”). We know you don’t want 
