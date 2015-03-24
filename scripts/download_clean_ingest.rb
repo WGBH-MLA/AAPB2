@@ -42,15 +42,15 @@ if __FILE__ == $PROGRAM_NAME
 
     when '--all'
       fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-      target_dir = Downloader.download_to_directory_and_link(page: args.first.to_i)
+      target_dirs = [Downloader.download_to_directory_and_link(page: args.first.to_i)]
 
     when '--back'
       fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
-      target_dir = Downloader.download_to_directory_and_link(days: args.first.to_i)
+      target_dirs = [Downloader.download_to_directory_and_link(days: args.first.to_i)]
 
-    when '--dir'
-      fail ParamsError.new unless args.count == 1 && File.directory?(args.first)
-      target_dir = args.first
+    when '--dirs'
+      fail ParamsError.new if args.empty? || not(args.map {|dir| File.directory?(dir)}.all?) 
+      target_dirs = args
 
     when '--files'
       fail ParamsError.new if args.empty?
@@ -58,18 +58,20 @@ if __FILE__ == $PROGRAM_NAME
       
     when '--ids'
       fail ParamsError.new unless args.count >= 1
-      target_dir = Downloader.download_to_directory_and_link(ids: args)
+      target_dirs = [Downloader.download_to_directory_and_link(ids: args)]
 
     else
       fail ParamsError.new
     end
   rescue ParamsError
-    abort 'USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ... | --ids ID ...'
+    abort 'USAGE: --all [PAGE] | --back DAYS | --dirs DIR ... | --files FILE ... | --ids ID ...'
   end
 
-  files ||= Dir.entries(target_dir)
+  files ||= target_dirs.map do |target_dir|
+    Dir.entries(target_dir)
             .reject { |file_name| ['.', '..'].include?(file_name) }
             .map { |file_name| "#{target_dir}/#{file_name}" }
+  end.flatten
 
   files.each do |path|
     begin
@@ -102,7 +104,7 @@ if __FILE__ == $PROGRAM_NAME
 
   puts 'SUMMARY'
 
-  puts "processed #{target_dir}" if target_dir
+  puts "processed #{target_dirs}" if target_dirs
   fails.each {|type, list|
     puts "#{list.count} failed to #{type}:\n#{list.join("\n")}".red unless list.empty?
   }
