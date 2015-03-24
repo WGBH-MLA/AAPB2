@@ -27,8 +27,8 @@ about their policies.
 5. <a href="#corrections">CORRECTIONS TO PERSONAL DATA; OPTING OUT</a>
 6. <a href="#acceptance">ACCEPTANCE OF THIS PRIVACY POLICY FOR americanarchive.org</a>
 7. <a href="#changes">CHANGES TO THIS PRIVACY POLICY</a><br/>
-<a href="#notice">NOTICE TO PARENTS AND LEGAL GUARDIANS<br/>
-<a href="#discussion">DISCUSSION AND COMMENT POLICY<br/>
+<a href="#notice">NOTICE TO PARENTS AND LEGAL GUARDIANS</a><br/>
+<a href="#discussion">DISCUSSION AND COMMENT POLICY</a><br/>
 
  
 ## <a name="collect">1. WHAT INFORMATION DO WE COLLECT ABOUT YOU?</a>
@@ -277,7 +277,7 @@ certain circumstances, we may also elect to notify you of changes or updates to
 our Privacy Policy by additional means, such as posting a notice on the front 
 page of our Site or sending you an email if we have your email address.
 
-## <a name="notice">NOTICE TO PARENTS AND LEGAL GUARDIANS<a>
+## <a name="notice">NOTICE TO PARENTS AND LEGAL GUARDIANS</a>
 
 It is our goal to provide service on our site while maintaining our strong 
 commitment to identifying children and protecting their privacy. If we learn 
