@@ -16,7 +16,7 @@ class PBCoreIngester
 
   def delete_all
     @solr.delete_by_query('*:*')
-    @solr.commit
+    commit
   end
 
   def ingest(path)
@@ -28,7 +28,7 @@ class PBCoreIngester
       raise ReadError.new(e)
     end
 
-    @pb_core_seen = Set.new
+    @ids_seen = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.
     case xml_top
@@ -36,17 +36,17 @@ class PBCoreIngester
       @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
       Uncollector.uncollect_string(xml).each do |document|
         cleaned = cleaner.clean(document)
-        if @pb_core_seen.include?(cleaned)
+        if @ids_seen.include?(cleaned.id)
           # Documents are often repeated in AMS exports.
           # TODO: pass PBCore objects instead of strings?
           @log << "#{Time.now}\tSkipping already seen\n"
         else
-          ingest_xml(cleaned)
-          @pb_core_seen.add(cleaned)
+          ingest_xml_no_commit(cleaned)
+          @ids_seen.add(cleaned.id)
         end
       end
     when /<pbcoreDescriptionDocument/
-      ingest_xml(cleaner.clean(xml))
+      ingest_xml_no_commit(cleaner.clean(xml))
     else
       fail ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
     end
@@ -54,19 +54,21 @@ class PBCoreIngester
       # If collections are ingested, commit after each collection;
       # If individual documents are ingested, still commit after each,
       # ... which could be faster.
-      @solr.commit
+      commit
     rescue => e
       raise SolrError.new(e)
     end
   end
 
+  # TODO: private
+  
   def optimize
     @solr.optimize
   end
-
-  # TODO: private
-
-  def ingest_xml(xml)
+  def commit
+    @solr.commit
+  end
+  def ingest_xml_no_commit(xml)
     begin
       pbcore = ValidatedPBCore.new(xml)
     rescue => e
@@ -75,7 +77,6 @@ class PBCoreIngester
 
     begin
       @solr.add(pbcore.to_solr)
-      @solr.commit
     rescue => e
       raise SolrError.new(e)
     end
