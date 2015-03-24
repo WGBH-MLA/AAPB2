@@ -28,21 +28,20 @@ class PBCoreIngester
       raise ReadError.new(e)
     end
 
-    @ids_seen = Set.new
+    @md5s_seen = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.
     case xml_top
     when /<pbcoreCollection/
       @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
       Uncollector.uncollect_string(xml).each do |document|
-        cleaned = cleaner.clean(document)
-        if @ids_seen.include?(cleaned.id)
+        md5 = Digest::MD5.hexdigest(document)
+        if @md5s_seen.include?(md5)
           # Documents are often repeated in AMS exports.
-          # TODO: pass PBCore objects instead of strings?
           @log << "#{Time.now}\tSkipping already seen\n"
         else
-          ingest_xml_no_commit(cleaned)
-          @ids_seen.add(cleaned.id)
+          @md5s_seen.add(md5)
+          ingest_xml_no_commit(cleaner.clean(document))
         end
       end
     when /<pbcoreDescriptionDocument/
@@ -52,8 +51,7 @@ class PBCoreIngester
     end
     begin
       # If collections are ingested, commit after each collection;
-      # If individual documents are ingested, still commit after each,
-      # ... which could be faster.
+      # If individual documents are ingested, still commit after each.
       commit
     rescue => e
       raise SolrError.new(e)
