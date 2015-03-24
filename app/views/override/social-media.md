@@ -1,4 +1,4 @@
-# Follow the Archive of Public Broadcasting on social media
+# Social Media
 
 - Receive timely updates about the AAPB sent to your inbox by subscribing to our
 [blog](http://blog.americanarchive.org)
