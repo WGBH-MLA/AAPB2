@@ -25,7 +25,8 @@ describe 'Media', not_on_travis: true do
 
       ingester = PBCoreIngester.new
       ingester.delete_all
-      ingester.ingest_xml(pbcore)
+      ingester.ingest_xml_no_commit(pbcore)
+      ingester.commit
       ci_id
     end
   end
