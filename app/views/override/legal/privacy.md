@@ -59,7 +59,7 @@ will either select your own password and login name or you will receive a
 password and login name. You are responsible for maintaining the 
 confidentiality of your password and login name, and are solely responsible for 
 all activities that occur with your password and login name. By using the Site, 
-you are agreeing to the conditions of our Terms of Use.
+you are agreeing to the conditions of our [Terms of Use](/legal/tou).
 
  
 #### Forums, Feedback and Content Submissions: 
