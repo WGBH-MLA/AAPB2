@@ -1,4 +1,4 @@
-# AAPB Vision and Mission Statements
+# Vision and Mission Statements
 
 ## AAPB Vision Statement
 
