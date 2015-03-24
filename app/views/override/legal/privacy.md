@@ -20,18 +20,18 @@ participating organizations' websites. Please consult those sites to learn more
 about their policies.
 
  
-1. WHAT INFORMATION DO WE COLLECT ABOUT YOU?
-2. HOW DO WE USE INFORMATION GATHERED ON THE SITE?
-3. SECURITY OF INFORMATION
-4. CHILDREN’S GUIDELINES
-5. CORRECTIONS TO PERSONAL DATA; OPTING OUT
-6. ACCEPTANCE OF THIS PRIVACY POLICY FOR americanarchive.org
-7. CHANGES TO THIS PRIVACY POLICY<br/>
-NOTICE TO PARENTS AND LEGAL GUARDIANS<br/>
-DISCUSSION AND COMMENT POLICY<br/>
+1. <a href="#collect">WHAT INFORMATION DO WE COLLECT ABOUT YOU?</a>
+2. <a href="#gathered">HOW DO WE USE INFORMATION GATHERED ON THE SITE?</a>
+3. <a href="#security">SECURITY OF INFORMATION</a>
+4. <a href="#children">CHILDREN’S GUIDELINES</a>
+5. <a href="#corrections">CORRECTIONS TO PERSONAL DATA; OPTING OUT</a>
+6. <a href="#acceptance">ACCEPTANCE OF THIS PRIVACY POLICY FOR americanarchive.org</a>
+7. <a href="#changes">CHANGES TO THIS PRIVACY POLICY</a><br/>
+<a href="#notice">NOTICE TO PARENTS AND LEGAL GUARDIANS<br/>
+<a href="#discussion">DISCUSSION AND COMMENT POLICY<br/>
 
  
-## 1. WHAT INFORMATION DO WE COLLECT ABOUT YOU?
+## <a name="collect">1. WHAT INFORMATION DO WE COLLECT ABOUT YOU?</a>
 
 We collect two types of information from you: a) Personally identifiable 
 information, includes personal information (such as your name, address, email 
@@ -142,7 +142,7 @@ You can set your browser preferences to refuse cookies or to alert you when
 cookies are being sent. However, some parts of the Site will not function 
 properly if you do so.
 
-## 2. HOW DO WE USE INFORMATION GATHERED ON THE SITE?
+## <a name="gathered">2. HOW DO WE USE INFORMATION GATHERED ON THE SITE?</a>
 
 Neither WGBH, nor our third-party vendors and/or service providers acting on 
 our behalf to help deliver the services and operate the Site, will willfully 
@@ -228,7 +228,7 @@ For example, we may tell a third party that a certain number of users accessed
 a particular video on our Site. However, we will not disclose any information 
 that could be used to identify those users.
  
-## 3. SECURITY OF INFORMATION
+## <a name="security">3. SECURITY OF INFORMATION</a>
 
 WGBH has in place what we believe to be appropriate physical, electronic, and 
 managerial procedures to safeguard and secure the information we collect 
@@ -241,12 +241,12 @@ transmission is ever fully secure or error free. Because most email is not
 encrypted, you should take special care in deciding what information you send 
 to us via email.
  
-## 4. CHILDREN’S GUIDELINES
+## <a name="children">4. CHILDREN’S GUIDELINES</a>
 
 Our Site is a general audience site and does not knowingly collect or store 
 personally identifiable information about children under the age of 13.
 
-## 5. CORRECTIONS TO PERSONAL DATA; OPTING OUT
+## <a name="corrections">5. CORRECTIONS TO PERSONAL DATA; OPTING OUT</a>
 
 Please Contact Us to a) correct or update any personal information in the WGBH 
 database that you state is erroneous, b) opt-out of future communications from 
@@ -257,7 +257,7 @@ previous public comments and other User Materials submitted for public display
 on the Site. You should understand that it may be impossible to delete personal 
 information entirely because of backups and records of deletions.
  
-## 6. ACCEPTANCE OF THIS PRIVACY POLICY FOR americanarchive.org
+## <a name="acceptance">6. ACCEPTANCE OF THIS PRIVACY POLICY FOR americanarchive.org</a>
 
 By using this Site, you signify your agreement to the terms and conditions of 
 this Privacy Policy for americanarchive.org. If you do not agree to these terms 
@@ -268,7 +268,7 @@ of americanarchive.org following the posting of any changes to these terms
 shall mean that you have accepted those changes. If you have any questions or 
 concerns, please contact us.
  
-## 7. CHANGES TO THIS PRIVACY POLICY
+## <a name="changes">7. CHANGES TO THIS PRIVACY POLICY</a>
 
 Whenever this Privacy Policy for our Site changes, we will post the changes to 
 the Site, and such changes will be effective immediately upon posting. If you 
@@ -277,7 +277,7 @@ certain circumstances, we may also elect to notify you of changes or updates to
 our Privacy Policy by additional means, such as posting a notice on the front 
 page of our Site or sending you an email if we have your email address.
 
-## NOTICE TO PARENTS AND LEGAL GUARDIANS
+## <a name="notice">NOTICE TO PARENTS AND LEGAL GUARDIANS<a>
 
 It is our goal to provide service on our site while maintaining our strong 
 commitment to identifying children and protecting their privacy. If we learn 
@@ -286,7 +286,7 @@ for future communication. WGBH does not willfully disclose to any third party
 any personally identifiable information about our online visitors who have 
 identified themselves as younger than 18.
  
-## DISCUSSION AND COMMENT POLICY
+## <a name="discussion">DISCUSSION AND COMMENT POLICY</a>
 
 This is the discussion policy for users of americanarchive.org’s 
 blog/commenting/email tools. All participants offering comments on 
