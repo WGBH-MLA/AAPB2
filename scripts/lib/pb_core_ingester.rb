@@ -19,7 +19,9 @@ class PBCoreIngester
     commit
   end
 
-  def ingest(path)
+  def ingest(opts)
+    path = opts[:path]
+    one_commit = opts[:one_commit]
     cleaner = Cleaner.new
 
     begin
@@ -50,15 +52,11 @@ class PBCoreIngester
       fail ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
     end
     begin
-      # If collections are ingested, commit after each collection;
-      # If individual documents are ingested, still commit after each.
-      commit
+      commit unless one_commit
     rescue => e
       raise SolrError.new(e)
     end
   end
-
-  # TODO: private
   
   def optimize
     @solr.optimize
