@@ -8,45 +8,17 @@
     <!-- START: Left Column -->
     <div class="col-md-4 column">
 
-      <!-- Column Search -->
-      <div class="panel panel-primary">
-        <div class="panel-heading">
-          <h3 class="panel-title">Search the AAPB</h3>
-        </div>
-        <div class="panel-body">
-          <%= render_search_bar  %>
-        </div>
-      </div>
-      <!-- END: Column Search -->
-
-      <nav class="navbar navbar-default">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-about">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <h4>About Us</h4>
-          </div>
-
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse" id="nav-about">
-            <ul class="nav navbar-nav">
-              <li class="active"><a href="/about-the-american-archive">About the AAPB</a></li>
-              <li class="active"><a href="/about-the-american-archive/mission-and-vision">Mission and Vision</a></li>
-              <!--<li class="active"><a href="#">History</a></li>-->
-              <li class="active"><a href="/on-location">On Location Research</a></li>
-              <li class="active"><a href="/about-the-american-archive/projects">Projects</a></li>
-              <li class="active"><a href="/about-the-american-archive/staff">Staff</a></li>
-              <li class="active"><a href="/about-the-american-archive/funding">Funding</a></li>
-              <li class="active"><a href="/contact-us">Contact Us</a></li>
-            </ul>
-          </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-      </nav>
+      <%= render 'shared/sidebar_search' %>
+      <%= render layout: 'shared/sidebar_nav', locals: { title: 'About Us' } do %>      
+        <li class="active"><a href="/about-the-american-archive">About the AAPB</a></li>
+        <li class="active"><a href="/about-the-american-archive/mission-and-vision">Mission and Vision</a></li>
+        <!--<li class="active"><a href="#">History</a></li>-->
+        <li class="active"><a href="/on-location">On Location Research</a></li>
+        <li class="active"><a href="/about-the-american-archive/projects">Projects</a></li>
+        <li class="active"><a href="/about-the-american-archive/staff">Staff</a></li>
+        <li class="active"><a href="/about-the-american-archive/funding">Funding</a></li>
+        <li class="active"><a href="/contact-us">Contact Us</a></li>
+      <% end %>
 
     </div>
     <!-- END: Left Column -->
