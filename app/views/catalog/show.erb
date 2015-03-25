@@ -12,17 +12,23 @@
   <% if @pbcore.media_src %>
     <%= render partial: 'catalog/player' %>
   <% else %>
-    <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>"></img>
+    <div class="well well-sm media-thumb">
+      <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
+    </div>
   <% end %>
 
-  <h2>Titles</h2>
 
-  <dl>
-    <% @pbcore.titles.reverse_each do |type,title| %>
+
+
+  <h2>Titles</h2>
+  
+  <% @pbcore.titles.reverse_each do |type,title| %>
+    <dl>
       <dt><%= type %></dt>
       <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
-    <% end %>
-  </dl>
+    </dl>
+  <% end %> 
+  
 
   <dl>
     <dt>Contributing Organization</dt>
@@ -47,20 +53,26 @@
     </dl>
   <% end %>
 
-  <dl>
+  
     <% if @pbcore.asset_type %>
-      <dt>Asset type</dt>
-      <dd><%= @pbcore.asset_type %></dd>
+      <dl>
+        <dt>Asset type</dt>
+        <dd><%= @pbcore.asset_type %></dd>
+      </dl> 
     <% end %>
 
     <% unless @pbcore.genres.empty? %>
-      <dt>Genres</dt>
-      <dd><%= @pbcore.genres.join('; ') %></dd>
+      <dl>
+        <dt>Genres</dt>
+        <dd><%= @pbcore.genres.join('; ') %></dd>
+      </dl>
     <% end %>
 
     <% unless @pbcore.subjects.empty? %>
-      <dt>Subjects</dt>
-      <dd><%= @pbcore.subjects.join('; ') %></dd>
+      <dl>
+        <dt>Subjects</dt>
+        <dd><%= @pbcore.subjects.join('; ') %></dd>
+      </dl>
     <% end %>
 
     <% {
@@ -68,32 +80,46 @@
       'Contributor'=> @pbcore.contributors,
       'Publisher'=> @pbcore.publishers
       }.select{|label,list| !list.empty?}.each do |label,list| %>
-      <dt><%= label %></dt>
-      <% list.each do |c| %>
-        <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
-      <% end %>
+      <dl>
+        <dt><%= label %></dt>
+        <% list.each do |c| %>
+          <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+        <% end %>
+      </dl>
     <% end %>
 
     <% if @pbcore.rights_summary %>
-      <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
+      <dl>
+        <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
+      </dl>
     <% end %>
 
-    <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
+    <dl>
+      <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
+    </dl>
 
     <% if @pbcore.instantiations.first && @pbcore.instantiations.first.duration %>
-      <dt>Duration</dt>
-      <dd><%= @pbcore.instantiations.first.duration %></dd>
+      <dl>
+        <dt>Duration</dt>
+        <dd><%= @pbcore.instantiations.first.duration %></dd>
+      </dl>
     <% end %>
-  </dl>
+  
+
+  <br clear="all">
 
   <h2>Identifiers</h2>
 
-  <dl>
+  
     <% @pbcore.ids.each do |type,id| %>
-      <dt><%= type %></dt>
-      <dd><%= id %></dd>
+      <dl>
+        <dt><%= type %></dt>
+        <dd><%= id %></dd>
+      </dl>
     <% end %>
-  </dl>
+  
+
+  <br clear="all">
 
   <div class="alert alert-info">
     <% @pbcore.ids.first[1].tap do |id| %>
@@ -103,4 +129,9 @@
     <% end %>
   </div>
   
-</div>
+</div><!-- END Main Column -->
+
+<!-- Left Column -->
+<div class="col-md-4 col-md-pull-8 column"><!-- EMPTY COLUMN --></div>
+<!-- END Left Column -->
+

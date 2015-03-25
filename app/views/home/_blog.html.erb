@@ -2,11 +2,17 @@
   <% host = 'blog.americanarchive.org' %>
   <% begin %>
     <% Wordpress::Client.new.get_posts(host, number: 1).each do |post| %>
+      <h6>From the Blog</h6>
       <h3 class="list-group-item-heading"><a href="<%= post.url %>"  target="_blank" title="From the AAPB Blog:<%= post.title %>"><%= post.title %></a></h3>
       <p class="list-group-item-text">
-        <%= truncate(HTMLEntities.new.decode(strip_tags(post.content)), length: 150, separator: '. ') %>
+        <%= truncate(HTMLEntities.new.decode(strip_tags(post.content)), length: 150, separator: '. ') %> <a href="<%= post.url %>" target="_blank" title="Visit the AAPB Blog"><em>More</em></a>
       </p>
-      <p class="list-group-item-text"><a href="<%= post.url %>" target="_blank" title="Visit the AAPB Blog"><strong>Read More</strong></a></p>
+
+      <div class="btn-group" role="group">
+        <a href="https://twitter.com/amarchivepub" target="_blank" title="Follow us on Twitter" class="btn btn-link btn-sm">AAPB on Twitter</a>
+        <a href="https://www.facebook.com/amarchivepub" target="_blank" title="Like us on Facebook" class="btn btn-link btn-sm">AAPB on Facebook</a>
+      </div>
+      
     <% end %>
   <% rescue Faraday::ConnectionFailed %>
     <!-- Connection to <%= host %> failed; Will try again when cache expires. -->

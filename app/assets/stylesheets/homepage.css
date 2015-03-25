@@ -11,7 +11,7 @@
 .blacklight-home .jumbotron {
 	border-radius:0;
 	margin-bottom:0;
-	padding:0;
+	padding:3em 0;
 }
 
 	/*Set .container width on Homepage Jumbotron*/
@@ -32,220 +32,48 @@
 	}
 
 
-	/* Large HOmepage Search */
-	#home-search {
-		background-color:transparent;
-		border:none;
-		margin:2em auto;
-		padding:0;
-		text-align:center;
-		width:90%;
-	}
-
-		#home-search .panel-body {
-			padding:0;
-		}
-
-		/*Add on container*/
-		#home-search .input-group-addon {
-	  	background-color:transparent;
-	  	border-color:transparent;
-	  	border-radius:0;
-	  	color:#FFF;
-	  	padding:10px 0;
-	  	width:20%;
-	  }
-
-			/*Select Box*/
-			#home-search .search_field {
-				border: 0;
-				width: 100%;
-				background-color: transparent;
-				padding:0;
-			}
-
-			/*The field*/
-			#home-search .form-control {
-				border: none;
-			}
-
-			/*BUtton*/
-			#home-search .search-btn {
-				border-radius:0;
-				text-transform:uppercase;
-			}
-
-
-/* Homepage Relative Nav */
-/*This is on hold for the time being*/
-.sticky-well {
-	background-color: rgba(255,255,255,.25);
-	border:0;
-	border-radius:0;
-	box-shadow:none;
-	height:50px;
-	margin:2em 0;
-	padding:0;
-	text-align:center;
-}
-	
-	/*This is when it gets picked up by then Affix plugin*/
-	.sticky-well.affix {
-		background:#FFF url(/site-ui/aapb-site-sprite.png) repeat-x 0 -7px;
-		border-bottom:1px solid #CCC;
-		height:60px;
-		left:0;
-		margin:0;
-		top:0;
-		width:100%;
-		z-index:10000!important;
-	}
-
-		.sticky-well .btn-group {
-			margin:0 auto;
-			width:auto;
-		}
-
-		.sticky-well.affix .btn-group {
-			margin-top:6px;
-			width:auto;
-		}
-
-
-/* Home Rel Nav Styles */
-.home-rel-nav .btn,
-.home-rel-nav .btn:active {
-	-webkit-box-shadow: none;
-  box-shadow: none;
-}
-
-.home-rel-nav .btn-default {
-	color: #FFF;
-	background-color: transparent;
-	border:none;
-	font-size:1em;
-	line-height: 50px;
-	padding:0 .85em;
-	text-transform:uppercase;
-}
-
-	.home-rel-nav.affix .btn-default {
-		color: #004840;
-	}
-
-	.home-rel-nav .btn:hover {
-		background-color: rgba(255,255,255,.35);
-	}
-
-
-		.home-rel-nav.affix .home-rel-nav-welcome {
-			background:url(/site-ui/logo-mobile.png) no-repeat center 0;
-			height:60px;
-			margin:0;
-			padding:0;
-			text-indent:-9999em;
-			width:60px;
-		}
-
-
-
-/* -------------------- */
-/* HOMEPAGE CAROUSEL ---------- */
-/* -------------------- */
-
-/* The Image */
-.home-carousel .list-group-item img {
-	float:left;
-	height:auto;
-	width:35%;
-}
-
-	/* Hover State */
-	/*.home-carousel .list-group-item:hover {
-		background-color:transparent;
-	}*/
-
-
-/* THe Caption */
-.home-carousel .list-group-item .carousel-caption {
-	display:block;
-	float:left;
-	padding:3%;
-	position:static;
-	text-align:left;
-	width:63%;
-}
-
-	/* The Title/Attribution */
-	.home-carousel .list-group-item .carousel-caption h3,
-	.home-carousel .list-group-item .carousel-caption h4,
-	.home-carousel .list-group-item .carousel-caption p {
-		color:#FFF;
-		font-weight:300;
-		margin:0 0 .25em;
-		padding:0;
-		text-shadow: none;
-	}
-
-		/* The Title */
-		.home-carousel .list-group-item .carousel-caption h3 {
-			font-size: 1.3em;
-		}
-
-		.home-carousel .list-group-item .carousel-caption h4 {
-			font-size: .8em;
-		  margin-bottom: 1em;
-		  text-transform: uppercase;
-		  font-weight: 600;
-		}
-
-		/* The Attribution */
-		.home-carousel .list-group-item .carousel-caption p {
-			font-size: .9em;
-		}
-
-		 .home-carousel .list-group-item .carousel-caption .description {
-		 	display:none;
-		 }
-
-
-		/* Stations Carousel */
-		#orgs-carousel.home-carousel .list-group-item {
-			background-color:rgba(255,255,255,.2);
-		}
-
 
 /* -------------------- */
 /* WELCOME PANEL ---------- */
 /* -------------------- */
 
 #welcome-panel {
-	
+	background-color:rgba(255,255,255,.25);
+	margin-bottom:2em;
+	margin-top:2em;
 }
 
-#welcome-panel .list-group-item {
-	background-color:rgba(255,255,255,.25);
-	float:left;
-	margin:0;
-	padding:3%;
-	width:100%;
+#welcome-panel .column {
+	padding:2em;
 }
 	
-	#welcome-panel .list-group-item h3,
-	#welcome-panel .list-group-item h3 a,
-	#welcome-panel .list-group-item p,
-	#welcome-panel .list-group-item p a {
+	#welcome-panel h3,
+	#welcome-panel h3 a,
+	#welcome-panel h6,
+	#welcome-panel p,
+	#welcome-panel p a,
+	#welcome-panel .btn-link:link, 
+	#welcome-panel .btn-link:visited {
 		color:#FFF;
 	}
 
-		#welcome-panel .list-group-item h3 {
+		#welcome-panel h6 {
+			font-size:.95em;
+			margin:0 0 1em;
+		}
+
+		#welcome-panel h3 {
 			font-size:1.5em;
 		}
 
-		#welcome-panel .list-group-item p {
+		#welcome-panel p {
 			font-size:1em;
 		}
 
+		#welcome .btn-group {
+			border-top:1px solid #FFF;
+			width:100%;
+		}
 
 
 
@@ -341,101 +169,12 @@
 	}
 
 
-/* -------------------- */
-/* HOMEPAGE SEARCH ---------- */
-/* -------------------- */
-	#home-search {
-		width:75%;
-	}
-
-/* -------------------- */
-/* HOMEPAGE CAROUSEL ---------- */
-/* -------------------- */
-.home-carousel .carousel-control .glyphicon-chevron-left, 
-.home-carousel .carousel-control .glyphicon-chevron-right, 
-.home-carousel .carousel-control .icon-prev, 
-.home-carousel .carousel-control .icon-next {
-	font-size:1.8em;
-}
-
-/* The Image */
-.home-carousel .list-group-item img {
-	float:none;
-	height:300px;
-	width:300px;
-	-webkit-transition: all 2s ease-in-out;
-  transition: all 2s ease-in-out;
-}
-
-	/* Hover State */
-	.home-carousel .list-group-item:hover {
-		background-color:transparent;
-	}
-
-
-/* THe Caption */
-.home-carousel .list-group-item .carousel-caption {
-	background-color:#171028;
-	background-color:rgba(23,16,40,.85);
-	bottom:0;
-	display:block;
-	left:0;
-	padding:5%;
-	position:absolute;
-	text-align:left;
-	width:100%;
-	z-index:1;
-}
-		
-	/* THe Caption - Stations */
-	#orgs-carousel.home-carousel .list-group-item .carousel-caption {
-		background-color:transparent;
-		position:static;
-	}
-
-
-	/* Hover State */
-	.home-carousel .list-group-item:hover img {
-		-webkit-transform: scale(1.2);
-    transform: scale(1.2);
-	}
-
-	/* Hiover State - Stations */
-	#orgs-carousel.home-carousel .list-group-item:hover {
-		background-color:rgba(255,255,255,.1);
-		position:static;
-	}
-
-/* THe Caption */
-		/* The Title */
-		.home-carousel .list-group-item .carousel-caption h3 {
-			font-size: 1.5em;
-		}
-
-		.home-carousel .list-group-item .carousel-caption h4 {
-			font-size: 1em;
-			margin-bottom:1em;
-			text-transform:uppercase;
-		}
-
-			.home-carousel .list-group-item .carousel-caption .description {
-			 	display:block;
-			 }
-
-		/* The Attribution */
-		.home-carousel .list-group-item .carousel-caption p {
-			font-size: 1em;
-		}
 
 
 
 /* -------------------- */
 /* WELCOME PANEL ---------- */
 /* -------------------- */
-
-#welcome-panel {
-	
-}
 
 #welcome-panel .list-group-item {
 	margin:0 1%;

@@ -1,5 +1,5 @@
 <!-- THis is the Feature Carousel for the homepage -->
-<div id="feature-carousel" class="carousel slide home-carousel" data-ride="carousel">
+<div id="feature-carousel" class="carousel slide featured-carousel" data-ride="carousel">
   <!-- <ol class="carousel-indicators">
     <li data-target="#feature-carousel" data-slide-to="0" class="active"></li>
     <li data-target="#feature-carousel" data-slide-to="1" class=""></li>
@@ -12,12 +12,12 @@
       <div class="item <%= 'active' if index == 0%>">
 
         <!-- Panel - Welcome Text Blocks -->
-        <div class="panel panel-default">
+        <div class="panel panel-default naked-panel">
           <div class="panel-body">
 
             <div class="list-group">
               <% items.each do |item| %>
-                <div style="overflow: hidden" class="list-group-item">
+                <div class="list-group-item">
                   <a href="<%= "/catalog/#{item.id}" %>">
                     <img src="<%= item.thumbnail_url %>" title="<%= item.name %>" alt="<%= item.name %>" />
                     <span class="carousel-caption">

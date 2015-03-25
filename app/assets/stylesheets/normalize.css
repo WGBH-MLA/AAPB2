@@ -89,7 +89,7 @@ body {
   font-family: 'Roboto', Verdana, Tahoma, "DejaVu Sans", sans-serif; /* 1 */
 
   /* Use a 16px base font size. */
-  font-size: 100%; 
+  font-size: 95%; 
   line-height: 1.5em;
 }
 
@@ -146,6 +146,12 @@ a:visited {
     color:#FFF;
   }
 
+  /*button link class*/
+  .btn-link:link,
+  .btn-link:visited {
+    color: #3C439B;
+  }
+
 a:visited {
 }
 a:hover,
@@ -190,6 +196,11 @@ blockquote {
   .intro-text p {
     font-size:.95em;
     color:#FFF;
+  }
+
+  /*Org profile*/
+  .org-o-tron p {
+    font-size:1em;
   }
 
 /**
@@ -242,6 +253,11 @@ h1 {
 
   }
 
+    /*Organizations page*/
+    .blacklight-organizations .page-header h1 {
+      margin:0;
+    }
+
     /* Sectional Page Header Styles */
 
     /* Contributing/Participating Organizations */
@@ -250,14 +266,23 @@ h1 {
 
     /* Record Title */
     .record-title {
-      font-weight:400;
+      font-size:1.4em;
+      font-weight:300;
+      margin-top:0;
+    }
+
+    /*Organization Title*/
+    .org-o-tron h1 {
+      font-size:1.8em;
+      font-weight:300;
+      margin:.5em 0;
     }
 
 
 h2 {
-  font-size: 2em;
-  line-height: 1.2em;
-  margin-bottom: 1em;
+  font-size:2em;
+  line-height:1.2em;
+  margin-bottom:1em;
   margin-top:0;
   font-weight:400;
 }
@@ -265,17 +290,24 @@ h2 {
   /* Media HEading - Title for record in a search result */
   h2.media-heading {
     font-size:1.5em;
+    font-weight:300;
+  }
+
+  /*Org State listing panel head*/
+  .org-state h2.panel-title {
+    font-size:1.25em;
   }
 
 
 
 h3 {
-  font-size: 1.5em;
+  font-size:1.5em;
   font-weight:400;
-  line-height: 1.2em;
-  margin-bottom: 1.2em;
+  line-height:1.2em;
+  margin-bottom:1.2em;
   margin-top:0;
 }
+
 h4 {
   font-size: 1.125em;
   font-weight:700;
@@ -291,9 +323,12 @@ h4 {
     margin:0;
   }
 
-
+  /* Column Nav Header */
   .column .navbar-header h4 {
-      padding: 10px 15px;
+    font-size: 1.143em;
+    font-weight: 400;
+    line-height: 50px;
+    padding: 0 1em;
   }
 
 
@@ -645,6 +680,11 @@ table {
 /* Tablet ---------- */
 @media (min-width: 768px) {
 
+  html,
+  body {
+    /* Use a 16px base font size. */
+    font-size: 100%; 
+  }
 
   /* H1 --------- */
 
@@ -668,12 +708,39 @@ table {
     line-height:60px;
   }
 
+  /*Organization Title*/
+  .org-o-tron h1 {
+    font-size: 3em;
+  }
+
+  /*Org profile*/
+  .org-o-tron p {
+    font-size:1.125em;
+  }
+
+  /* Record Title */
+  .record-title {
+    font-size:1.6em;
+  }
+
 }/* END: Tablet ---------- */
 
 
 
 /* Desktop ---------- */
 @media (min-width: 992px) {
+
+  /* Record Title */
+  .record-title {
+    font-size:2em;
+  }
+
+  /* Column Nav Header */
+  .column .navbar-header h4 {
+    font-size: 1em;
+    font-weight: 400;
+    line-height:40px;
+  }
 
 }/* END: Desktop ---------- */
 

@@ -1,24 +1,13 @@
 <!-- TODO: home page -->
-
 <!-- Welcome -->
 <div class="jumbotron home-jumbotron" id="welcome">
   <div class="container">
     <div class="well intro-text">
-      <h1>Discover millions of historic programs from publicly funded radio and television stations across America. Watch and listen to thousands of them.</h1>
+      <h1>Discover historic programs of publicly funded radio and television across America. Watch and listen.</h1>
     </div>
-    <!-- Well - Relative Home Nav -->
-    <!-- <div class="well well-sm sticky-well home-rel-nav" data-spy="affix" data-offset-top="200">
-      <div class="btn-group" role="group" aria-label="AAPB Homepage Sections">
-        <a class="btn btn-default home-rel-nav-welcome" href="#top" role="button">Welcome</a>
-        <a class="btn btn-default" href="#stations" role="button">Contributing Stations</a>
-        <a class="btn btn-default" href="#collections" role="button">Featured Collections</a>
-        <a class="btn btn-default" href="#staff" role="button">Staff Curations</a>
-      </div>
-    </div> -->
-    <!-- Wells -->
 
     <!-- Panel - Search -->
-    <div class="panel panel-default large-search" id="home-search">
+    <div class="panel panel-default large-search naked-panel" id="home-search">
       <div class="panel-body">
           <%= render partial: 'catalog/search_form_big'  %>
       </div>
@@ -26,29 +15,25 @@
     
     <%= render partial: 'shared/featured_carousel', locals: { gallery: 'home' } %>
 
-    <br />
+    <div class="row" id="welcome-panel">
+      <div class="col-md-6 column">
 
-    <!-- Panel - Welcome Text Blocks -->
-    <div class="panel panel-default" id="welcome-panel">
-      <div class="panel-body">
+        <h6>About the AAPB</h6>
+        <h3 class="list-group-item-heading">A Collaboration with a Long-Term Vision</h3>
+        <p class="list-group-item-text">We are a collaboration between WGBH and the Library of Congress with a long-term vision to identify and preserve, as much as possible the historical record of publicly funded broadcasting in America.</p>
+        <p class="list-group-item-text"></p>
 
-        <div class="list-group">
-
-          <div class="list-group-item">
-            <h3 class="list-group-item-heading">About the AAPB</h3>
-            <p class="list-group-item-text">We are a collaboration between WGBH and the Library of Congress with a long-term vision to identify and preserve, as much as possible the historical record of publicly funded broadcasting in America.</p>
-            <p class="list-group-item-text"><a href="/about-the-american-archive" title="Learn More About the AAPB"><strong>Learn More About the AAPB</strong></a></p>
-          </div>
-
-          <div class="list-group-item">
-            <%= render partial: 'home/blog'  %>
-          </div>
-
+        <div class="btn-group" role="group" aria-label="...">
+          <a href="/about-the-american-archive" title="Learn More About the AAPB" class="btn btn-link btn-sm">Learn More</a>
+          <a href="/contact-us" title="Learn More About the AAPB" class="btn btn-link btn-sm">Contact the AAPB</a>
         </div>
 
+
+      </div>
+      <div class="col-md-6 column">
+        <%= render partial: 'home/blog'  %>
       </div>
     </div>
-    <!-- Panel -->
     
   </div>
 </div>
@@ -63,5 +48,3 @@
   </div>
 </div>
 <!-- END Contributing Stations -->
-
-

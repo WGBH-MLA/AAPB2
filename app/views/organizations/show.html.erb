@@ -2,32 +2,60 @@
   <h1>Participating Organizations</h1>
 </div>
 
-<div class="row">
-
-  <!-- START: Main Column -->
-  <div class="col-md-12">
-
+<!-- Top -->
+<div class="jumbotron org-o-tron">
+  <div class="container">
+    
     <h1><%= @org.short_name %></h1>
 
     <p><%= @org.city %>, <%= @org.state %></p>
     
     <% if @org.logo_src %>
-      <img src="<%= @org.logo_src %>" alt="<%= @org.short_name %> logo"/>
+      <img src="<%= @org.logo_src %>" alt="<%= @org.short_name %> logo" class="org-logo"/>
     <% end %>
 
     <%# TODO: better link idiom %>
     <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
 
-    <p><a href="/catalog?f[organization][]=<%= CGI::escape(@org.short_name)%>">All records</a></p>
+    <a href="/catalog?f[organization][]=<%= CGI::escape(@org.short_name)%>" class="btn btn-default btn-sm">All records</a>
+
+  </div>
+</div>
+<!-- END Top -->
+
+<br />
+
+<div class="row">
+
+    <!-- COlumn -->
+  <div class="col-md-4 column">
+
+  </div>
+  <!-- END Column -->
+
+  <!-- START: Main Column -->
+  <div class="col-md-8">
 
     <% if @org.history_html %>
-      <h2>History</h2>
-      <%= @org.history_html.html_safe %>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2 class="panel-title">History</h2>
+        </div>
+        <div class="panel-body">
+          <%= @org.history_html.html_safe %>
+        </div>
+      </div>
     <% end %>
 
     <% if @org.productions_html %>
-      <h2>Productions</h2>
-      <%= @org.productions_html.html_safe %>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2 class="panel-title">Productions</h2>
+        </div>
+        <div class="panel-body">
+          <%= @org.productions_html.html_safe %>
+        </div>
+      </div>
     <% end %>
 
 

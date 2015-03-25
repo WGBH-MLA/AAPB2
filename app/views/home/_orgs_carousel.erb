@@ -1,21 +1,16 @@
 <div class="well intro-text">
   <h1>Participating Organizations</h1>
-  <p>TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO </p>
+  <p>Learn about the history, significant productions, and archive contributions of more than 120 public media stations and archives.</p>
 </div>
 
-<div id="orgs-carousel" class="carousel slide home-carousel" data-ride="carousel">
-  <!-- <ol class="carousel-indicators"><%# TODO: Delete? %>
-    <li data-target="#orgs-carousel" data-slide-to="0" class="active"></li>
-    <li data-target="#orgs-carousel" data-slide-to="1" class=""></li>
-    <li data-target="#orgs-carousel" data-slide-to="2" class=""></li>
-  </ol> -->
+<div id="orgs-carousel" class="carousel slide featured-carousel naked-panel" data-ride="carousel">
   <div class="carousel-inner clearfix" role="listbox">
 
     <% Organization.all.select { |org| org.history_html }.shuffle.each_slice(3).each_with_index do |orgs, index| %>
       <div class="item <%= 'active' if index == 0%>">
 
         <!-- Panel - Welcome Text Blocks -->
-        <div class="panel panel-default">
+        <div class="panel panel-default naked-panel">
           <div class="panel-body">
 
             <div class="list-group">
@@ -24,7 +19,9 @@
                   <span class="carousel-caption">
                     <h3 class="list-group-item-heading"><%= org.short_name %></h3>
                     <h4 class="list-group-item-heading"><%= org.city %>, <%= org.state %></h4>
-                    <p class="list-group-item-text description"><%= org.summary_html.html_safe %></p>
+                    <span class="list-group-item-text description">
+                      <p><%= org.summary_html.html_safe %></p>
+                    </span>
                   </span>
                 </a>
               <% end %>
@@ -35,6 +32,10 @@
         
       </div>
     <% end %>
+
+    <div class="btn-group btn-group-justified" role="group" aria-label="organizations">
+      <a href="/participating-orgs" class="btn btn-default" role="button">View All Organizations</a>
+    </div>
 
   </div>
   <a class="left carousel-control" href="#orgs-carousel" role="button" data-slide="prev">
@@ -47,6 +48,3 @@
   </a>
 </div>
 
-<div class="btn-group btn-group-justified" role="group" aria-label="Organizations">
-  <a href="/participating-orgs" class="btn btn-primary" role="button">View All Participating Organizations</a>
-</div>
