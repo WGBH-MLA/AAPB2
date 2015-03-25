@@ -1,4 +1,3 @@
-<%# TODO: When this is stable, define solr fields and use them instead. Saves about 0.1s. %>
 <% PBCore.new(document.instance_variable_get('@_source')['xml']).tap do |pbcore| %>
 
   <% # header bar for doc items in index view -%>
@@ -8,13 +7,16 @@
   How many bootstrap columns need to be reserved
   for bookmarks control depends on size. 
   -%>
+
+
     <img src="<%= pbcore.img_src %>" alt="thumbnail of <%= pbcore.title %>"/>
     <h4 class="index_title col-sm-9 col-lg-10">
-      <%= link_to_document document, label: pbcore.title %>
+      <%= link_to_document(document, pbcore.title) %>
     </h4>
 
+    
     <% # bookmark functions for items/docs -%>
-    <%= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>
+    <%#= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>
   </div>
 
 <% end %>

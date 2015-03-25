@@ -10,7 +10,7 @@ describe 'Catalog' do
     ingester = PBCoreIngester.new
     ingester.delete_all
     Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
-      ingester.ingest(pbcore)
+      ingester.ingest(path: pbcore)
     end
   end
 
@@ -152,7 +152,7 @@ describe 'Catalog' do
               }
             ).to eq(assertions.map { |a| a.first }) # coverage
             expect(page.status_code).to eq(200)
-            expect(page.find('.document[1] .media-heading').text).to eq(title)
+            expect(page.find('.document[1] .panel-title').text).to eq(title)
             expect_fuzzy_xml
           end
         end

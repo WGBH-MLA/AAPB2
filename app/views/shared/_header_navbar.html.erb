@@ -20,30 +20,25 @@
           <div class="collapse navbar-collapse" id="user-util-collapse">
 
             <!--  Main Nav Links -->
-           
+
             <ul class="nav navbar-nav navbar-right primary-nav">
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Research <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
-                  <li><a href="#">Searching the Collection</a></li>
-                  <li><a href="#">On Location Research</a></li>
+                  <li><a href="/search">Searching the Collection</a></li>
+                  <li><a href="/on-location">On Location Research</a></li>
                 </ul>
               </li>
-
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">For Contributing Organizations <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
-
-                  <li><a href="#">Accessing the AMS</a></li>
-                  <li><a href="#">Obtaining your metadata</a></li>
-                  <li><a href="#">Submit new metadata</a></li>
+                  <li><a href="/help/using-the-ams">Accessing the AMS</a></li>
+                  <li><a href="/help/obtain-metadata">Obtaining your metadata</a></li>
+                  <li><a href="/help/submit-metadata">Submit new metadata</a></li>
                 </ul>
               </li>
 
-              <li><a href="#">Resources</a></li>
-              
             </ul>
-            
 
             <!-- Secondary Nav Links -->
             <div class="navbar-right secondary-nav">
@@ -51,12 +46,10 @@
                 <!-- Nav Search -->
                 <li><%= render_search_bar  %></li>
                 <li><a href="/about-the-american-archive">About</a></li>
-                <li><a href="/contact-us">Contact</a></li>
                 <li><a href="/participating-orgs">Organizations</a></li>
+                <li><a href="/contact-us">Contact</a></li>
               </ul>
             </div>
-
-          <%# render :partial=>'/user_util_links' %>
 
         </div>
       </div>

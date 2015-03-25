@@ -1,5 +1,5 @@
 
-# AAPB Website Terms of Use
+# AAPB Terms of Use
 
  
 THE FOLLOWING TERMS AND CONDITIONS GOVERN YOUR USE OF THE SITE. PLEASE READ 
@@ -7,7 +7,7 @@ THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE.
 
  
 By using the American Archive of Public Broadcasting (“AAPB”) website you agree 
-to be bound by these Terms of Use, Privacy Policy, and the Discussion and 
+to be bound by these Terms of Use, [Privacy Policy](/legal/privacy), and the Discussion and 
 Comment Policy. If you do not agree to these Terms of Use, Privacy Policy, and 
 Discussion and Comment Policy, please exit the Site and do not use the Site or 
 any of its features.
@@ -413,7 +413,7 @@ should refer back to this page for future updates.
 
 ## Q. Privacy Policy
 
-The Site’s Privacy Policy provides additional terms and conditions that apply 
+The Site’s [Privacy Policy](/legal/privacy) provides additional terms and conditions that apply 
 to your use of this Site. If you do not agree to the conditions therein, please 
 do not use the Site. 
 

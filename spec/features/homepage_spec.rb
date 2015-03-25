@@ -8,7 +8,7 @@ describe 'Homepage' do
     visit '/'
 
     expect(page.status_code).to eq(200)
-    expect(page).to have_text('Discover millions of historic programs')
+    expect(page).to have_text('Discover historic programs')
     expect_fuzzy_xml
   end
 end

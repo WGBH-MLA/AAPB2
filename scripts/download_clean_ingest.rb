@@ -32,44 +32,60 @@ if __FILE__ == $PROGRAM_NAME
   fails = { read: [], clean: [], validate: [], add: [], other: [] }
   success = []
 
-  ingester = PBCoreIngester.new
+  ingester = PBCoreIngester.new  
 
+  ONE_COMMIT = '--one-commit'
+  ALL = '--all'
+  BACK = '--back'
+  DIRS = '--dirs'
+  FILES = '--files'
+  IDS = '--ids'
+  
+  one_commit = ARGV.include?(ONE_COMMIT)
+  ARGV.delete(ONE_COMMIT) if one_commit
+  
   mode = ARGV.shift
   args = ARGV
 
   begin
     case mode
 
-    when '--all'
+    when ALL
       fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-      target_dir = Downloader.download_to_directory_and_link(page: args.first.to_i)
+      target_dirs = [Downloader.download_to_directory_and_link(page: args.first.to_i)]
 
-    when '--back'
+    when BACK
       fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
-      target_dir = Downloader.download_to_directory_and_link(days: args.first.to_i)
+      target_dirs = [Downloader.download_to_directory_and_link(days: args.first.to_i)]
 
-    when '--dir'
-      fail ParamsError.new unless args.count == 1 && File.directory?(args.first)
-      target_dir = args.first
+    when DIRS
+      fail ParamsError.new if args.empty? || not(args.map {|dir| File.directory?(dir)}.all?) 
+      target_dirs = args
 
-    when '--files'
+    when FILES
       fail ParamsError.new if args.empty?
       files = args
+      
+    when IDS
+      fail ParamsError.new unless args.count >= 1
+      target_dirs = [Downloader.download_to_directory_and_link(ids: args)]
 
     else
       fail ParamsError.new
     end
   rescue ParamsError
-    abort 'USAGE: --all [PAGE] | --back DAYS | --dir DIR | --files FILE ...'
+    abort "USAGE: [#{ONE_COMMIT}] #{ALL} [PAGE] | #{BACK} DAYS | #{DIRS} DIR ... | #{FILES} FILE ... | #{IDS} ID ..."
   end
 
-  files ||= Dir.entries(target_dir)
+  files ||= target_dirs.map do |target_dir|
+    Dir.entries(target_dir)
             .reject { |file_name| ['.', '..'].include?(file_name) }
             .map { |file_name| "#{target_dir}/#{file_name}" }
+  end.flatten
 
   files.each do |path|
     begin
-      ingester.ingest(path)
+      ingester.ingest(path: path, one_commit: one_commit)
     rescue PBCoreIngester::ReadError => e
       puts "Failed to read #{path}: #{e.short}".red
       fails[:read] << path
@@ -91,6 +107,8 @@ if __FILE__ == $PROGRAM_NAME
       success << path
     end
   end
+  
+  ingester.commit if one_commit
 
   # TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.
   # puts 'Ingest complete; Begin optimization...'
@@ -98,7 +116,7 @@ if __FILE__ == $PROGRAM_NAME
 
   puts 'SUMMARY'
 
-  puts "processed #{target_dir}" if target_dir
+  puts "processed #{target_dirs}" if target_dirs
   fails.each {|type, list|
     puts "#{list.count} failed to #{type}:\n#{list.join("\n")}".red unless list.empty?
   }

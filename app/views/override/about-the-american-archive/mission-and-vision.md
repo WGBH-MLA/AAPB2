@@ -1,13 +1,10 @@
-# AAPB Vision and Mission Statements
+# Vision and Mission Statements
 
-## AAPB Vision Statement
+## Vision Statement
 
-The American Archive of Public Broadcasting seeks to preserve and make 
-accessible significant historical content created by public media, and to 
-coordinate a national effort to save significant at-risk public media before 
-its content is lost to posterity.
+The American Archive of Public Broadcasting seeks to preserve and make accessible significant historical content created by public media, and to coordinate a national effort to save at-risk public media before its content is lost to posterity.
 
-## AAPB Mission Statement
+## Mission Statement
 
 The American Archive of Public Broadcasting seeks to:
 
@@ -28,7 +25,7 @@ teaching;
 
 - Increase public awareness of the significance of historical public media and 
 the need to preserve and make accessible significant public broadcasting 
-programs;
+programs; and
 
 - Ensure the perpetuation of the archive by working toward financial 
 sustainability.
