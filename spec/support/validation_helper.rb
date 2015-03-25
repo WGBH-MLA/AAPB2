@@ -6,8 +6,7 @@ module ValidationHelper
     # Kludge valid HTML5 to make it into valid XML.
 
     # self-close tags
-    xhtml.gsub!(/<(meta[^>]+[^\/])>/, '<\1/>')
-    xhtml.gsub!(/<(hr|br)>/, '<\1/>')
+    xhtml.gsub!(/<((meta|link|img|hr|br)([^>]+[^\/])?)>/, '<\2/>')
 
     # give values to attributes
     attribute_re = %q{(?:\\s+\\w+\\s*=\\s*(?:"[^"]*"|'[^']*'))}

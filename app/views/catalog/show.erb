@@ -9,13 +9,10 @@
 
   <h1 class="record-title"><%= @pbcore.title %></h1>
 
-  <% if @pbcore.media_src %>
-    <%= render partial: 'catalog/player' %>
-  <% else %>
-    <div class="well well-sm media-thumb">
-      <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
-    </div>
-  <% end %>
+  <%#= TODO: render partial: 'catalog/player'  if @pbcore.media_src %>
+  <div class="well well-sm media-thumb">
+    <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
+  </div>
 
 
 
