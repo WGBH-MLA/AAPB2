@@ -12,12 +12,12 @@
       <div class="item <%= 'active' if index == 0%>">
 
         <!-- Panel - Welcome Text Blocks -->
-        <div class="panel panel-default">
+        <div class="panel panel-default naked-panel">
           <div class="panel-body">
 
             <div class="list-group">
               <% items.each do |item| %>
-                <div style="overflow: hidden" class="list-group-item">
+                <div class="list-group-item">
                   <a href="<%= "/catalog/#{item.id}" %>">
                     <img src="<%= item.thumbnail_url %>" title="<%= item.name %>" alt="<%= item.name %>" />
                     <span class="carousel-caption">

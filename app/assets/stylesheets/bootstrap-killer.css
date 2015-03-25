@@ -1,20 +1,4 @@
- /* These styles are specifially for overriding the default Bootstrap theme */
-
-
-
-/* -------------------- */
-/* LAYOUT ---------- */
-/* -------------------- */
-/*.row,
-.container > .navbar-header, 
-.container > .navbar-collapse, 
-.container > #facet-panel-collapse, 
-.container-fluid > .navbar-header, 
-.container-fluid > .navbar-collapse, 
-.container-fluid > #facet-panel-collapse {
-}
-*/
-
+/* These styles are specifially for overriding the default Bootstrap theme */
 
 
 
@@ -35,39 +19,35 @@
 .facets-toggle {
 	color: #FFF;
 	background-color: #90298E;
-	border-color: #90298E;
 }
 
 .btn-primary {
 	color: white;
 	background-color: #292A72;
-	border-color: #292A72;
 }
 
 .btn-success {
 	color: white;
 	background-color: #3C439B;
-	border-color: #3C439B;
 }
 
 .btn-info {
 	color: white;
 	background-color: #5D60AB;
-	border-color: #5D60AB;
 }
 
 .btn-warning {
 	color: white;
 	background-color: #9F2064;
-	border-color: #9F2064;
 }
+
+
 
 .btn-danger, 
 .appliedFilter .remove:hover, 
 .appliedFilter .remove:active {
 	color: white;
 	background-color: #BF202F;
-	border-color: #BF202F;
 }
 
 .btn-default:hover, 
@@ -79,28 +59,41 @@
 .btn-default:active, 
 .facets-toggle:active, 
 .btn-default.active, 
-.active.facets-toggle, 
+.active.facets-toggle,
+.btn-default:visited, 
+.facets-toggle:visited,
+#sort-dropdown .dropdown-toggle, 
+#per_page-dropdown .dropdown-toggle,
 .open > .btn-default.dropdown-toggle, 
-.open > .dropdown-toggle.facets-toggle {
+.open > .dropdown-toggle.facets-toggle,
+#sort-dropdown .dropdown-toggle .caret, 
+#per_page-dropdown .dropdown-toggle .caret {
   color: #FFF;
   background-color: #653090;
 }
+
+	/* In a Carousel */
+	.carousel .btn-group .btn-default {
+		background-color:rgba(255,255,255,.2);
+	}
+
+		.carousel .btn-group .btn-default:hover {
+			background-color:rgba(255,255,255,.1);
+		}
 
 
 
 /* -------------------- */
 /* PANELS ---------- */
 /* -------------------- */
-
-
 .panel-primary {
-	border-color:#90298E;
+	border-color:#292A72;
 }
 
 	.panel-primary > .panel-heading {
-	  color: #FFF;
-	  background-color: #90298E;
-	  border-color: #90298E;
+	  color: white;
+	  background-color: #292A72;
+	  border-color: #292A72;
 	}
 
 .panel-success {
@@ -130,23 +123,11 @@
 		background-color: #9F2064;
 	}
 
-	/* Stripped Panel */
-	.panel.naked-panel,
-	.naked-panel > .panel-heading {
-		border:none;
-	}
-
-	.naked-panel .panel-body {
-		padding:0;
-	}
-
-
 
 
 /* -------------------- */
 /* LIST GROUP ---------- */
 /* -------------------- */
-
 .panel > .list-group {
 	margin-top:0;
 }
@@ -156,16 +137,10 @@
 /* FACET ACCORDIANS ---------- */
 /* -------------------- */
 
-#facets {
-	padding-bottom:0;
-}
-
 .facets .top-panel-heading,
 .column .navbar-header {
 	background-color:#3c439b;
-	border:none;
 	border-radius:0;
-	margin-bottom:0;
 }
 
 
@@ -246,70 +221,23 @@
 		}
 
 
-
-
-/* Facet Toggle Button */
-.facets-toggle {
-	background-color: transparent;
-	border-color: transparent;
-	margin:-5px 0 0;
-}
-
-	.facets-toggle:hover,
-	.facets-toggle:focus,
-	.facets-toggle:active,
-	.facets-toggle:active:focus {
-		background-color: transparent;
-		border-color: transparent;
-	}
-
-		.facets-toggle .icon-bar {
-			background-color:#FFF;
-		}
-
-
-
-
-
-
-
 /* -------------------- */
 /* PANEL ---------- */
 /* -------------------- */
 
-.panel {
+.naked-panel {
 	background-color:transparent;
-	/*border:0;*/
+	border:none;
 	border-radius:0;
+	padding:0;
 }
-
-.blacklight-home .panel {
-	border:0;
-}
-
-	.blacklight-home .panel .panel-body {
+	/* heading/body */
+	.naked-panel .panel-heading,
+	.naked-panel .panel-body {
+		background-color:transparent;
+		border:none;
 		padding:0;
 	}
-
-
-		/* LIST GROUP */
-		 .list-group .list-group-item {
-			background-color:transparent;
-			border:0;
-			border-radius:0;
-			margin:0;
-			padding:0;
-		}
-
-			
-/* -------------------- */
-/* SEARCH FIELD ---------- */
-/* -------------------- */
-
-/*THe Form*/
-.search-query-form {
-	border:none;
-}
 
 
 
@@ -318,191 +246,127 @@
 /* -------------------- */
 	.featured-carousel {
 		height:auto;
-		width: 100%;
+		width: 90%;
 	  margin: 0 auto;
 	}
 
-		.featured-carousel .carousel-inner {
-			margin:0 auto;
-			width:100%;
-		}
-
-
-/*COntrols*/
-
-	.featured-carousel .carousel-control {
-		color:#3C439B;
+	.featured-carousel .panel-body {
+		border:none;
+		padding:0;
 	}
 
-		.blacklight-home  .featured-carousel .carousel-control {
+	.featured-carousel .carousel-control {
+		opacity: 1;
+  	filter: alpha(opacity=100);
+  	width:5%;
+	}
+
+		.blacklight-home .featured-carousel .carousel-control {
 			color:#FFF;
-			opacity: .3;
-  		filter: alpha(opacity=30);
-			/*padding:15px;*/
-		}	
-
-			.blacklight-home  .featured-carousel .carousel-control:hover {
-				opacity: .8;
-	  		filter: alpha(opacity=80);
-				/*padding:15px;*/
-			}
-
-		.featured-carousel .carousel-control.left,
-		.featured-carousel .carousel-control.right  {
-			background-color:transparent;
-		  background-image:none;
-		  filter: none;
-		  margin:0;
-		  text-align:center;
-		 	width:10%;
 		}
 
-			.featured-carousel .carousel-control.left  {
-			  margin-left:0;
-			  /*margin-left:-5%;*/
+		.featured-carousel .carousel-control.left,
+		.featured-carousel .carousel-control.right {
+		  background-image: none;
+		  background-repeat: repeat-x;
+		  filter: 0;
+		}
+
+			.featured-carousel .carousel-control.left {
+				left:-5%;
 			}
 
-			.featured-carousel .carousel-control.right  {
-				margin-right:0;
-			  /*margin-right:-4.4%;*/
+			.featured-carousel .carousel-control.right {
+			  right:-5%;
 			}
 
-				/*.featured-carousel .carousel-control.left:hover  {
-				  margin-left:-6%;
-				}
-
-				.featured-carousel .carousel-control.right:hover  {
-				  margin-right:-5.4%;
-				}*/
-
-			.featured-carousel .carousel-control .glyphicon-chevron-left, 
-			.featured-carousel .carousel-control .glyphicon-chevron-right {
-				font-size:180%;
-				height:25%;
-				margin-top:0;
-				top:30%;
-				width:100%;
-			}
-
-				.carousel-control .glyphicon-chevron-left, 
-				.carousel-control .icon-prev {
-					margin-left:0;
-					left:0;
-				}
-
-				.featured-carousel .carousel-control .glyphicon-chevron-right, 
-				.featured-carousel .carousel-control .icon-next {
-					margin-right:0;
-					right:0;
-				}
-
-
-				/* Cruise Control */
-				.cruise-control {
-					background-color:transparent;
-					border:none;
-					margin:.5em 0;
-					padding:0;
-				}
-
-				.cruise-control .btn:link, 
-				.cruise-control .btn a:link, 
-				.cruise-control .btn:visited, 
-				.cruise-control .btn a:visited,
-				.cruise-control .btn-link {
-					color:#3C439B;
-				}
-
-
-		/* The List */
-		.featured-carousel.list-group {
+	
+	/* The Panel */
+	
+	/* The List */
+		.featured-carousel .list-group {
 			width:100%;
 		}
 
 			.featured-carousel .list-group .list-group-item {
 				background-color:#171028;
 				background-color:rgba(23,16,40,.25);
-				border:0;
-				-webkit-border-radius:0;
-				border-radius:0;
+				border:none;
 				clear:left;
 				float:left;
 				margin:0 0 1%;
 				padding:0;
-				text-align:center;
 				width:100%;
 			}
 
-			/*Panel*/
-			.featured-carousel .panel {
-				margin-bottom:0;
-			}
+				#orgs-carousel.featured-carousel .list-group .list-group-item {
+					background-color:transparent;
+					background-color:rgba(255,255,255,.15);
+				}
 
 
-/* -------------------- */
-/* NAVBAR in the Main Container ---------- */
-/* -------------------- */
-
-#main-container .navbar {
-	border:1px solid #D3D3D3;
+/* The Image */
+.featured-carousel .list-group-item img {
+	float:left;
+	height:auto;
+	width:35%;
 }
 
-/* -------------------- */
-/* NAVBAR in a Column ---------- */
-/* -------------------- */
+	/* Hover State */
+	/*.home-carousel .list-group-item:hover {
+		background-color:transparent;
+	}*/
 
- .column .navbar,
- .container-fluid > .navbar-header,
- .container-fluid > .navbar-collapse {
-		margin-right: 0;
-		margin-left: 0;
+
+/* THe Caption */
+.featured-carousel .list-group-item .carousel-caption {
+	display:block;
+	float:left;
+	padding:3%;
+	position:static;
+	text-align:left;
+	width:63%;
+}
+
+	#orgs-carousel.featured-carousel .list-group-item .carousel-caption {
+		width:94%;
 	}
 
-	/*Nav toggle button*/
-	.column .navbar-default .navbar-toggle {
-		border:none;
-	}
-
-		.column .navbar-default .navbar-toggle .icon-bar {
-			background-color:#FFF;
-			height:3px;
-		}
-
-			.column .navbar-default .navbar-toggle:hover,
-			.column .navbar-default .navbar-toggle:focus {
-				background-color:rgba(0,0,0,.3);
-			}
-
-	/* The Branding */
-	.column .navbar .navbar-brand {
+	/* The Title/Attribution */
+	.featured-carousel .list-group-item .carousel-caption h3,
+	.featured-carousel .list-group-item .carousel-caption h4,
+	.featured-carousel .list-group-item .carousel-caption p {
 		color:#FFF;
-		font-size:1em;
-		font-weight: 400;
-		line-height: 1.2em;
-		width:auto;
+		font-weight:300;
+		margin:0 0 .25em;
+		padding:0;
+		text-shadow: none;
 	}
 
-	.column .navbar-nav,
-	.column .navbar-nav > li,
-	.column .navbar-left,
-	.column .navbar-right,
-	.column .navbar-header {
-		float:none !important;
-	}
-
-		.column .container-fluid {
-		  padding-left: 0;
-		  padding-right: 0;
+		/* The Title */
+		.featured-carousel .list-group-item .carousel-caption h3 {
+			font-size: 1.3em;
 		}
 
-		.column .navbar-nav {
-			background-color:#FFF;
-			margin:0;
+		.featured-carousel .list-group-item .carousel-caption h4 {
+			font-size: .8em;
+		  margin-bottom: 1em;
+		  text-transform: uppercase;
+		  font-weight: 600;
 		}
 
-		.column .navbar-collapse {
-			padding:0;
+		/* The Attribution */
+		.featured-carousel .list-group-item .carousel-caption p {
+			font-size: .9em;
 		}
+
+		 .featured-carousel .list-group-item .carousel-caption .description {
+		 	display:none;
+		 }
+
+
+
+
 				
 
 /* -------------------- */
@@ -520,16 +384,6 @@
 	  margin-left: 0;
 	}
 
-	/*
-	 * NAVBAR in a Column
-	 */
-
-		/* The Branding */
-		.column .navbar .navbar-brand {
-			width:100%;
-		}
-
-
 
 
 
@@ -539,47 +393,99 @@
 @media (min-width: 992px) {
 
 
+/* -------------------- */
+/* FEATURED CAROUSEL ---------- */
+/* -------------------- */
 
-/*
- * NAVBAR in a Column
- */
-.column .navbar {
-	max-width:390px;
+.featured-carousel .list-group .list-group-item {
+		background-color:transparent;
+		border:0;
+		clear:none;
+		height:300px;
+		margin:0 1%;
+		overflow:hidden;
+		padding:0;
+		position: relative;
+		text-align:center;
+		width:31.3333%;
+	}
+
+/* The Image */
+.featured-carousel .list-group-item img {
+	float:none;
+	height:300px;
+	max-width:none;
+	width:auto;
+	-webkit-transition: all 4s ease-in-out;
+  transition: all 4s ease-in-out;
+
+  /* THis is a technique for centeringthe image in the container */
+  position: absolute;
+  top: -9999px;
+  bottom: -9999px;
+  left: -9999px;
+  right: -9999px;
+  margin: auto;
 }
 
-	/* The Branding */
-	.column .navbar .navbar-brand {
-		width:auto;
+	/* Hover State */
+	.featured-carousel .list-group-item:hover {
+		background-color:transparent;
 	}
 
 
-	/* -------------------- */
-	/* FEATURED CAROUSEL ---------- */
-	/* -------------------- */
-		.featured-carousel {
-			height:auto;
-			width: 100%;
-		  margin: 0 auto;
+	/* THe Caption */
+	.featured-carousel .list-group-item .carousel-caption {
+		background-color:#171028;
+		background-color:rgba(23,16,40,.85);
+		bottom:0;
+		display:block;
+		left:0;
+		padding:5%;
+		position:absolute;
+		text-align:left;
+		width:100%;
+		z-index:1;
+	}
+			
+		/* THe Caption - Stations */
+		#orgs-carousel.featured-carousel .list-group-item .carousel-caption {
+			background-color:transparent;
+			position:static;
 		}
 
-				/*Slides*/
-				.featured-carousel .list-group .list-group-item {
-					clear:none;
-					margin:0 1%;
-					width:31.3333%;
-				}
 
+		/* Hover State */
+		.featured-carousel .list-group-item:hover img {
+			-webkit-transform: scale(1.1);
+	    transform: scale(1.1);
+		}
 
+		/* Hiover State - Stations */
+		#orgs-carousel.featured-carousel .list-group-item:hover {
+			background-color:rgba(255,255,255,.1);
+			position:static;
+		}
 
-			/* Controls */
-			.blacklight-home .featured-carousel .carousel-control.left {
-				/*margin-left:-30px;
-			  width:60px;*/
+	/* THe Caption */
+			/* The Title */
+			.featured-carousel .list-group-item .carousel-caption h3 {
+				font-size: 1.5em;
 			}
 
-			.blacklight-home .featured-carousel .carousel-control.right {
-				/*margin-right:-30px;
-			  width:60px;*/
+			.featured-carousel .list-group-item .carousel-caption h4 {
+				font-size: 1em;
+				margin-bottom:1em;
+				text-transform:uppercase;
+			}
+
+				.featured-carousel .list-group-item .carousel-caption .description {
+				 	display:block;
+				 }
+
+			/* The Attribution */
+			.featured-carousel .list-group-item .carousel-caption p {
+				font-size: 1em;
 			}
 
 
@@ -590,4 +496,4 @@
 
 
 
-}/* END: Wide Desktop ---------- 
+}/* END: Wide Desktop ---------- */

@@ -1,5 +1,4 @@
 <!-- TODO: home page -->
-
 <!-- Welcome -->
 <div class="jumbotron home-jumbotron" id="welcome">
   <div class="container">
@@ -8,7 +7,7 @@
     </div>
 
     <!-- Panel - Search -->
-    <div class="panel panel-default naked-panel search-panel" id="home-search">
+    <div class="panel panel-default large-search naked-panel" id="home-search">
       <div class="panel-body">
           <%= render partial: 'catalog/search_form_big'  %>
       </div>
@@ -16,30 +15,24 @@
     
     <%= render partial: 'shared/featured_carousel', locals: { gallery: 'home' } %>
 
-    <br />
+    <div class="row" id="welcome-panel">
+      <div class="col-md-6 column">
 
-    <!-- Panel - Welcome Text Blocks -->
-    <div class="panel panel-default" id="welcome-panel">
-      <div class="panel-body">
+        <h6>About the AAPB</h6>
+        <p class="list-group-item-text">We are a collaboration between WGBH and the Library of Congress with a long-term vision to identify and preserve, as much as possible the historical record of publicly funded broadcasting in America.</p>
+        <!-- why? <p class="list-group-item-text"></p> -->
 
-        <div class="list-group">
-
-          <div class="list-group-item">
-            <h3 class="list-group-item-heading">About the AAPB</h3>
-            <p class="list-group-item-text">We are a collaboration between WGBH and the Library of Congress with a long-term vision to identify and preserve, as much as possible the historical record of publicly funded broadcasting in America.</p>
-            <p class="list-group-item-text"><a href="/about-the-american-archive" title="Learn More About the AAPB"><strong>Learn More About the AAPB</strong></a></p>
-          </div>
-
-          <div class="list-group-item">
-            <%= render :partial=>'home/blog'  %>
-          </div>
-
+        <div class="btn-group" role="group" aria-label="...">
+          <a href="/about-the-american-archive" title="Learn More About the AAPB" class="btn btn-link btn-sm">Learn More</a>
+          <a href="/contact-us" title="Learn More About the AAPB" class="btn btn-link btn-sm">Contact the AAPB</a>
         </div>
 
+
+      </div>
+      <div class="col-md-6 column">
+        <%= render partial: 'home/blog'  %>
       </div>
     </div>
-    <!-- Panel -->
-
     
   </div>
 </div>
