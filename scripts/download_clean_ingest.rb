@@ -38,25 +38,30 @@ if __FILE__ == $PROGRAM_NAME
   args = ARGV
 
   begin
+    ALL = '--all'
+    BACK = '--back'
+    DIRS = '--dirs'
+    FILES = '--files'
+    IDS = '--ids'
     case mode
 
-    when '--all'
+    when ALL
       fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
       target_dirs = [Downloader.download_to_directory_and_link(page: args.first.to_i)]
 
-    when '--back'
+    when BACK
       fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
       target_dirs = [Downloader.download_to_directory_and_link(days: args.first.to_i)]
 
-    when '--dirs'
+    when DIRS
       fail ParamsError.new if args.empty? || not(args.map {|dir| File.directory?(dir)}.all?) 
       target_dirs = args
 
-    when '--files'
+    when FILES
       fail ParamsError.new if args.empty?
       files = args
       
-    when '--ids'
+    when IDS
       fail ParamsError.new unless args.count >= 1
       target_dirs = [Downloader.download_to_directory_and_link(ids: args)]
 
@@ -64,7 +69,7 @@ if __FILE__ == $PROGRAM_NAME
       fail ParamsError.new
     end
   rescue ParamsError
-    abort 'USAGE: --all [PAGE] | --back DAYS | --dirs DIR ... | --files FILE ... | --ids ID ...'
+    abort "USAGE: #{ALL} [PAGE] | #{BACK} DAYS | #{DIRS} DIR ... | #{FILES} FILE ... | #{IDS} ID ..."
   end
 
   files ||= target_dirs.map do |target_dir|
