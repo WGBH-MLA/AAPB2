@@ -10,6 +10,9 @@ Rails.application.routes.draw do
 
   resources 'media',
             only: [:show]
+        
+  resources 'ams',
+            only: [:show]
 
   get '/*path', to: 'override#show', constraints: lambda { |req|
     path = req.params['path']

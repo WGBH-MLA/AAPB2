@@ -2,7 +2,7 @@ class MediaController < ApplicationController
   include Blacklight::Catalog
 
   def show
-    _response, document = get_solr_response_for_doc_id
+    _response, document = fetch(params['id'])
     xml = document.instance_variable_get('@_source')['xml']
     pbcore = PBCore.new(xml)
 
