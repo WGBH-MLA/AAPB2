@@ -32,17 +32,22 @@ if __FILE__ == $PROGRAM_NAME
   fails = { read: [], clean: [], validate: [], add: [], other: [] }
   success = []
 
-  ingester = PBCoreIngester.new
+  ingester = PBCoreIngester.new  
 
+  ONE_COMMIT = '--one-commit'
+  ALL = '--all'
+  BACK = '--back'
+  DIRS = '--dirs'
+  FILES = '--files'
+  IDS = '--ids'
+  
+  one_commit = ARGV.include?(ONE_COMMIT)
+  ARGV.delete(ONE_COMMIT) if one_commit
+  
   mode = ARGV.shift
   args = ARGV
 
   begin
-    ALL = '--all'
-    BACK = '--back'
-    DIRS = '--dirs'
-    FILES = '--files'
-    IDS = '--ids'
     case mode
 
     when ALL
@@ -69,7 +74,7 @@ if __FILE__ == $PROGRAM_NAME
       fail ParamsError.new
     end
   rescue ParamsError
-    abort "USAGE: #{ALL} [PAGE] | #{BACK} DAYS | #{DIRS} DIR ... | #{FILES} FILE ... | #{IDS} ID ..."
+    abort "USAGE: [#{ONE_COMMIT}] #{ALL} [PAGE] | #{BACK} DAYS | #{DIRS} DIR ... | #{FILES} FILE ... | #{IDS} ID ..."
   end
 
   files ||= target_dirs.map do |target_dir|
@@ -80,7 +85,7 @@ if __FILE__ == $PROGRAM_NAME
 
   files.each do |path|
     begin
-      ingester.ingest(path)
+      ingester.ingest(path: path, one_commit: one_commit)
     rescue PBCoreIngester::ReadError => e
       puts "Failed to read #{path}: #{e.short}".red
       fails[:read] << path
@@ -102,6 +107,8 @@ if __FILE__ == $PROGRAM_NAME
       success << path
     end
   end
+  
+  ingester.commit if one_commit
 
   # TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.
   # puts 'Ingest complete; Begin optimization...'

@@ -8,7 +8,7 @@ describe 'AMS' do
     ingester = PBCoreIngester.new
     ingester.delete_all
     Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
-      ingester.ingest(pbcore)
+      ingester.ingest(path: pbcore)
     end
   end
 

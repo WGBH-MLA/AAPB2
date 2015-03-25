@@ -10,24 +10,24 @@ describe PBCoreIngester do
   end
 
   it 'fails with non-existent file' do
-    expect { @ingester.ingest('/non-existent.xml') }.to raise_error(PBCoreIngester::ReadError)
+    expect { @ingester.ingest(path: '/non-existent.xml') }.to raise_error(PBCoreIngester::ReadError)
   end
 
   it 'fails with invalid file' do
     # obviously this file is not valid pbcore.
-    expect { @ingester.ingest(__FILE__) }.to raise_error(PBCoreIngester::ValidationError)
+    expect { @ingester.ingest(path: __FILE__) }.to raise_error(PBCoreIngester::ValidationError)
   end
 
   it 'fails when the ingester is not pointing at solr' do
     bad_ingester = PBCoreIngester.new('bad-protocol:bad-host')
-    expect { bad_ingester.ingest(path) }.to raise_error(PBCoreIngester::SolrError)
+    expect { bad_ingester.ingest(path: path) }.to raise_error(PBCoreIngester::SolrError)
   end
 
   it 'works for single ingest' do
     expect_results(0)
-    expect { @ingester.ingest(path) }.not_to raise_error
+    expect { @ingester.ingest(path: path) }.not_to raise_error
     expect_results(1)
-    expect { @ingester.ingest(path) }.not_to raise_error
+    expect { @ingester.ingest(path: path) }.not_to raise_error
     expect_results(1)
     expect { @ingester.delete_all }.not_to raise_error
     expect_results(0)
@@ -40,7 +40,7 @@ describe PBCoreIngester do
       collection = "<pbcoreCollection>#{document}</pbcoreCollection>"
       collection_path = "#{dir}/collection.xml"
       File.write(collection_path, collection)
-      expect { @ingester.ingest(collection_path) }.not_to raise_error
+      expect { @ingester.ingest(path: collection_path) }.not_to raise_error
       expect_results(1)
       expect { @ingester.delete_all }.not_to raise_error
       expect_results(0)
@@ -51,7 +51,7 @@ describe PBCoreIngester do
     expect_results(0)
     glob = File.dirname(path) + '/clean-*'
     Dir[glob].each do |fixture_path|
-      expect { @ingester.ingest(fixture_path) }.not_to raise_error
+      expect { @ingester.ingest(path: fixture_path) }.not_to raise_error
     end
     expect_results(19)
   end
