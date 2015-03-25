@@ -1,8 +1,6 @@
 # About the AAPB
 
-<div class="container-fluid">
-<iframe src="https://player.vimeo.com/video/108272934" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-</div>
+<iframe src="https://player.vimeo.com/video/108272934" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [American Archive of Public Broadcasting: Every Picture Tells a Story](https://vimeo.com/108272934)
 from [American Archive](https://vimeo.com/aapb) on [Vimeo](https://vimeo.com).
