@@ -74,7 +74,23 @@ if __FILE__ == $PROGRAM_NAME
       fail ParamsError.new
     end
   rescue ParamsError
-    abort "USAGE: [#{ONE_COMMIT}] #{ALL} [PAGE] | #{BACK} DAYS | #{DIRS} DIR ... | #{FILES} FILE ... | #{IDS} ID ..."
+    abort <<-EOF.gsub(/^ {6}/, '')
+      USAGE: #{File.basename($0)} [#{ONE_COMMIT}] ( #{ALL} [PAGE] | #{BACK} DAYS 
+             | #{FILES} FILE ... | #{DIRS} DIR ... | #{IDS} ID ... )
+        #{ONE_COMMIT}: Optionally, make just one commit at the end, rather than
+          one commit per file.
+        #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
+          supply a results page to begin with.
+        #{BACK}: Download, clean, and ingest only those records updated in the 
+          last N days. (I don't trust the underlying API, so give yourself a 
+          buffer if you use this for daily updates.)
+        #{FILES}: Clean and ingest the given files. 
+        #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
+          could suffice in many cases, for large directories it is too many args.)
+        #{IDS}: Download, clean, and ingest records with the given IDs. Will
+          usually be used in conjunction with #{ONE_COMMIT}, rather than
+          committing after each record.
+      EOF
   end
 
   files ||= target_dirs.map do |target_dir|
