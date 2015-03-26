@@ -97,7 +97,7 @@ if __FILE__ == $PROGRAM_NAME
     Dir.entries(target_dir)
             .reject { |file_name| ['.', '..'].include?(file_name) }
             .map { |file_name| "#{target_dir}/#{file_name}" }
-  end.flatten
+  end.flatten.sort
 
   files.each do |path|
     begin
