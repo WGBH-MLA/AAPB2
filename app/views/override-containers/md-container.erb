@@ -1,32 +1,20 @@
-<div class="page-header">
-  <h1><%= @title.html_safe %></h1>
-</div>
-
-<div class="row">
-  <div class="region clearfix">
-
-    <!-- START: Left Column -->
-    <div class="col-md-4 column">
-
-      <%= render 'shared/sidebar_search' %>
-      <%= render layout: 'shared/sidebar_nav', locals: { title: 'About Us' } do %>      
-        <li class="active"><a href="/about-the-american-archive">About the AAPB</a></li>
-        <li class="active"><a href="/about-the-american-archive/mission-and-vision">Mission and Vision</a></li>
-        <!--<li class="active"><a href="#">History</a></li>-->
-        <li class="active"><a href="/on-location">On Location Research</a></li>
-        <li class="active"><a href="/about-the-american-archive/projects">Projects</a></li>
-        <li class="active"><a href="/about-the-american-archive/staff">Staff</a></li>
-        <li class="active"><a href="/about-the-american-archive/funding">Funding</a></li>
-        <li class="active"><a href="/contact-us">Contact Us</a></li>
-      <% end %>
-
-    </div>
-    <!-- END: Left Column -->
-
-    <!-- START: Main Column -->
-    <div class="col-md-8">
-      <%= @body.html_safe %>
-    </div>
-    <!-- END: Main Column -->
-  </div>
-</div>
+<% content_for :sidebar do %>
+  <%= render 'shared/sidebar_search' %>
+  <%= render layout: 'shared/sidebar_nav', locals: { title: 'About Us' } do %>      
+    <li class="active"><a href="/about-the-american-archive">About the AAPB</a></li>
+    <li class="active"><a href="/about-the-american-archive/mission-and-vision">Mission and Vision</a></li>
+    <!--<li class="active"><a href="#">History</a></li>-->
+    <li class="active"><a href="/on-location">On Location Research</a></li>
+    <li class="active"><a href="/about-the-american-archive/projects">Projects</a></li>
+    <li class="active"><a href="/about-the-american-archive/staff">Staff</a></li>
+    <li class="active"><a href="/about-the-american-archive/funding">Funding</a></li>
+    <li class="active"><a href="/contact-us">Contact Us</a></li>
+  <% end %>
+<% end %>
+    
+<%= render partial: 'shared/title_sidebar_main', 
+           locals: { 
+             title: @title.html_safe,
+             sidebar: yield(:sidebar),
+             main: @body.html_safe
+           } %>

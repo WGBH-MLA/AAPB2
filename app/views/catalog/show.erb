@@ -1,9 +1,4 @@
-<div class="page-header">
-  <h1>Records</h1>
-</div>
-
-  <!-- Column -->
-<div class="col-md-4  column">
+<% content_for :sidebar do %>
   <%= render 'shared/sidebar_search' %>
   <div class="alert alert-info">
     <% @pbcore.ids.first[1].tap do |id| %>
@@ -32,13 +27,12 @@
       <dd><%= id %></dd>
     </dl>
   <% end %>
-  
-</div>
-  <!-- END Column -->
+<% end %>
 
-<!-- START: Main Column -->
-<div class="col-md-8">
 
+
+
+<% content_for :main do %>
   <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
   <h1 class="record-title"><%= @pbcore.title %></h1>
@@ -65,55 +59,64 @@
   <% end %>
 
   
-    <% if @pbcore.asset_type %>
-      <dl>
-        <dt>Asset type</dt>
-        <dd><%= @pbcore.asset_type %></dd>
-      </dl> 
-    <% end %>
-
-    <% unless @pbcore.genres.empty? %>
-      <dl>
-        <dt>Genres</dt>
-        <dd><%= @pbcore.genres.join('; ') %></dd>
-      </dl>
-    <% end %>
-
-    <% unless @pbcore.subjects.empty? %>
-      <dl>
-        <dt>Subjects</dt>
-        <dd><%= @pbcore.subjects.join('; ') %></dd>
-      </dl>
-    <% end %>
-
-    <% {
-      'Creator'=> @pbcore.creators,
-      'Contributor'=> @pbcore.contributors,
-      'Publisher'=> @pbcore.publishers
-      }.select{|label,list| !list.empty?}.each do |label,list| %>
-      <dl>
-        <dt><%= label %></dt>
-        <% list.each do |c| %>
-          <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
-        <% end %>
-      </dl>
-    <% end %>
-
-    <% if @pbcore.rights_summary %>
-      <dl>
-        <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
-      </dl>
-    <% end %>
-
+  <% if @pbcore.asset_type %>
     <dl>
-      <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
-    </dl>
+      <dt>Asset type</dt>
+      <dd><%= @pbcore.asset_type %></dd>
+    </dl> 
+  <% end %>
 
-    <% if @pbcore.instantiations.first && @pbcore.instantiations.first.duration %>
-      <dl>
-        <dt>Duration</dt>
-        <dd><%= @pbcore.instantiations.first.duration %></dd>
-      </dl>
-    <% end %>  
+  <% unless @pbcore.genres.empty? %>
+    <dl>
+      <dt>Genres</dt>
+      <dd><%= @pbcore.genres.join('; ') %></dd>
+    </dl>
+  <% end %>
+
+  <% unless @pbcore.subjects.empty? %>
+    <dl>
+      <dt>Subjects</dt>
+      <dd><%= @pbcore.subjects.join('; ') %></dd>
+    </dl>
+  <% end %>
+
+  <% {
+    'Creator'=> @pbcore.creators,
+    'Contributor'=> @pbcore.contributors,
+    'Publisher'=> @pbcore.publishers
+    }.select{|label,list| !list.empty?}.each do |label,list| %>
+    <dl>
+      <dt><%= label %></dt>
+      <% list.each do |c| %>
+        <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+      <% end %>
+    </dl>
+  <% end %>
+
+  <% if @pbcore.rights_summary %>
+    <dl>
+      <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
+    </dl>
+  <% end %>
+
+  <dl>
+    <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
+  </dl>
+
+  <% if @pbcore.instantiations.first && @pbcore.instantiations.first.duration %>
+    <dl>
+      <dt>Duration</dt>
+      <dd><%= @pbcore.instantiations.first.duration %></dd>
+    </dl>
+  <% end %>  
+<% end %>
   
-</div><!-- END Main Column -->
+  
+  
+  
+<%= render partial: 'shared/title_sidebar_main', 
+           locals: { 
+             title: 'Records',
+             sidebar: yield(:sidebar),
+             main: yield(:main)
+           } %>
