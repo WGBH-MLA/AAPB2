@@ -1,84 +1,37 @@
-<div class="page-header">
-  <h1>Participating Organizations</h1>
-</div>
+<% state_list = @orgs.group_by{|org| org.state} %>
 
-<div class="row">
+<% content_for :sidebar do %>
+  <%= render layout: 'shared/sidebar_nav', locals: { title: 'States' } do %>
+    <%= state_list.keys.map{|state| "<li class='active'><a href='\##{state}' title='#{state}' >#{state}</a></li>"}.join('').html_safe %>
+  <% end %>
+<% end %>
 
-
-  <!-- START: Main Column -->
-  <div class="col-md-9">
-
-    
-    <% @orgs.group_by{|org| org.state}.tap do |state_list| %>
-      
-
-
-      <nav class="navbar navbar-default">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="#">Browse By State</a>
-          </div>
-
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Select a State<span class="caret"></span></a>
-                <ul class="dropdown-menu" role="menu">
-                  <%= state_list.keys.map{|state| "<li><a href='\##{state}' title='#{state}' >#{state}</a></li>"}.join('').html_safe %>
-                </ul>
-              </li>
-            </ul>
-          </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-      </nav>
-     
-
-
-
-    <% state_list.each do |state,orgs| %>
-      <a name="<%= state %>"></a>
-      <div class="panel panel-default org-state">
-        <div class="panel-heading">
-          <h2 class="panel-title"><%= state %></h2>
-        </div>
-        <div class="panel-body">
-
-          <% orgs.sort_by{|org| org.short_name}.each do |org| %>
-            <p>
-              <a href="/participating-orgs/<%= org.id %>"><%= org.short_name %></a><br/>
-              <%= "#{org.city}, #{org.state}" %>
-            </p>
-          <% end %>
-
-        </div>
-        <div class="panel-footer"><a href="#" class="btn btn-sm btn-link"><span class="glyphicon glyphicon-circle-arrow-up" aria-hidden="true"></span> Return to top</a></div>
+<% content_for :main do %>
+  <% state_list.each do |state,orgs| %>
+    <a name="<%= state %>"></a>
+    <div class="panel panel-default org-state">
+      <div class="panel-heading">
+        <h2 class="panel-title"><%= state %></h2>
       </div>
+      <div class="panel-body">
 
-    <% end %>
-  
+        <% orgs.sort_by{|org| org.short_name}.each do |org| %>
+          <p>
+            <a href="/participating-orgs/<%= org.id %>"><%= org.short_name %></a><br/>
+            <%= "#{org.city}, #{org.state}" %>
+          </p>
+        <% end %>
 
-    
-
-
-  </div>
-  <!-- END: Main Column -->
-
-  <!-- START: Right Column -->
-  <div class="col-md-3">
-
-    
-
-  </div>
-  <!-- END: Right Column -->
+      </div>
+      <div class="panel-footer"><a href="#" class="btn btn-sm btn-link"><span class="glyphicon glyphicon-circle-arrow-up" aria-hidden="true"></span> Return to top</a></div>
+    </div>
 
   <% end %>
+<% end %>
 
-</div>
+<%= render partial: 'shared/title_sidebar_main', 
+           locals: { 
+             title: 'Participating Organizations',
+             sidebar: yield(:sidebar),
+             main: yield(:main)
+           } %>
