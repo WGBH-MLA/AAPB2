@@ -24,6 +24,8 @@ individual contributors. So, if a limited search does not retrieve the results
 you’re looking for, try a search of all fields because the data may be in the 
 record, but in the wrong field.
 
+You can tell if something has been **DIGITIZED** based on the record's thumbnail. Digitized video has a thumbnail featuring an image from the content or program. The thumbnails for audio that has been digitized say AUDIO (digitized). The thumbnails for audio and video that hasn't been digitized will say either VIDEO (not digitized) or AUDIO (not digitized). 
+
 From the search results page, you can use the **FACETS** menu on the left to filter 
 the search results.
 
