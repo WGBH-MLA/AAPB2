@@ -28,7 +28,7 @@ At this point you can
 
 - Run tests (skipping Ci tests): `rspec --tag ~not_on_travis`
 (If it's not 100% passing, let us know!)
-- Ingest the fixtures: `ruby scripts/download_clean_ingest.rb --files spec/fixtures/pbcore/clean-*.xml`
+- Ingest the fixtures: `ruby scripts/download_clean_ingest.rb --same-mount --files spec/fixtures/pbcore/clean-*.xml`
 - Start rails: `rails s`
 
 # Code style
