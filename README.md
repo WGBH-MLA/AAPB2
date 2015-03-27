@@ -105,7 +105,7 @@ $ ruby -e 'Gem.path.each{|dir|puts Dir["#{dir}/gems/*"]}'
 Want to blow away the index before you start?
 ```bash
   # DELETES EVERYTHING!
-$ ruby -I . -e 'require "scripts/lib/pb_core_ingester"; PBCoreIngester.new.delete_all'
+$ ruby -I . -e 'require "scripts/lib/pb_core_ingester"; PBCoreIngester.new(same_mount: true).delete_all'
 ```
 To download and ingest everything (which will take a while):
 ```bash
