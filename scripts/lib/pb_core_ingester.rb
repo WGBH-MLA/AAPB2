@@ -68,10 +68,15 @@ EOF
         md5 = Digest::MD5.hexdigest(document)
         if @md5s_seen.include?(md5)
           # Documents are often repeated in AMS exports.
-          @log << "#{Time.now}\tSkipping already seen\n"
+          @log << "#{Time.now}\tSkipping already seen md5 #{md5}\n"
         else
           @md5s_seen.add(md5)
-          ingest_xml_no_commit(cleaner.clean(document))
+          begin
+            ingest_xml_no_commit(cleaner.clean(document))
+          rescue => e
+            id_extracts = document.scan(/<pbcoreIdentifier[^>]*>[^<]*<[^>]*>/)
+            @log << "#{Time.now}\tError during ingest of #{id_extracts}: #{e.message}\n"
+          end
         end
       end
     when /<pbcoreDescriptionDocument/
