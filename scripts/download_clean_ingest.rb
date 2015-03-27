@@ -128,7 +128,7 @@ if __FILE__ == $PROGRAM_NAME
       fails[:other] << path
       next
     else
-      puts "Added '#{path}' #{'but not committed' if one_commit}".green
+      puts "Successfully added '#{path}' #{'but not committed' if one_commit}".green
       success << path
     end
   end

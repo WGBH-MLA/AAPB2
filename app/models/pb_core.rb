@@ -111,7 +111,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
   end
   def organization
-    @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name)
+    @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name) ||
+      fail("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
   end
   def rights_code
     @rights_code ||= xpath('/*/pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
