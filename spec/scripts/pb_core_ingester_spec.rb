@@ -5,8 +5,12 @@ describe PBCoreIngester do
   let(:path) { File.dirname(File.dirname(__FILE__)) + '/fixtures/pbcore/clean-MOCK.xml' }
 
   before(:each) do
-    @ingester = PBCoreIngester.new
+    @ingester = PBCoreIngester.new(same_mount: true)
     @ingester.delete_all
+  end
+  
+  it 'fails without same_mount' do
+    expect { PBCoreIngester.new(same_mount: false) }.to raise_error
   end
 
   it 'fails with non-existent file' do
@@ -16,11 +20,6 @@ describe PBCoreIngester do
   it 'fails with invalid file' do
     # obviously this file is not valid pbcore.
     expect { @ingester.ingest(path: __FILE__) }.to raise_error(PBCoreIngester::ValidationError)
-  end
-
-  it 'fails when the ingester is not pointing at solr' do
-    bad_ingester = PBCoreIngester.new('bad-protocol:bad-host')
-    expect { bad_ingester.ingest(path: path) }.to raise_error(PBCoreIngester::SolrError)
   end
 
   it 'works for single ingest' do

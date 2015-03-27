@@ -15,6 +15,7 @@ class OverrideController < ApplicationController
         (@title, @body) = html.match(/^\s*<h1>(.*?)<\/h1>(.*)/m).captures
         # This is wrong, but not worth a full xml parse.
         @page_title = @title
+        params[:path] = nil # search widget grabs ALL parameters.
         render file: 'override-containers/md-container.erb'
         return
       end

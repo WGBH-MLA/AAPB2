@@ -30,11 +30,10 @@ if __FILE__ == $PROGRAM_NAME
   end
 
   fails = { read: [], clean: [], validate: [], add: [], other: [] }
-  success = []
-
-  ingester = PBCoreIngester.new  
+  success = [] 
 
   ONE_COMMIT = '--one-commit'
+  SAME_MOUNT = '--same-mount'
   ALL = '--all'
   BACK = '--back'
   DIRS = '--dirs'
@@ -43,6 +42,11 @@ if __FILE__ == $PROGRAM_NAME
   
   one_commit = ARGV.include?(ONE_COMMIT)
   ARGV.delete(ONE_COMMIT) if one_commit
+  
+  same_mount = ARGV.include?(SAME_MOUNT)
+  ARGV.delete(SAME_MOUNT) if same_mount
+  
+  ingester = PBCoreIngester.new(same_mount: same_mount)
   
   mode = ARGV.shift
   args = ARGV
@@ -74,14 +78,35 @@ if __FILE__ == $PROGRAM_NAME
       fail ParamsError.new
     end
   rescue ParamsError
-    abort "USAGE: [#{ONE_COMMIT}] #{ALL} [PAGE] | #{BACK} DAYS | #{DIRS} DIR ... | #{FILES} FILE ... | #{IDS} ID ..."
+    abort <<-EOF.gsub(/^ {6}/, '')
+      USAGE: #{File.basename($0)} [#{ONE_COMMIT}] [#{SAME_MOUNT}]
+             ( #{ALL} [PAGE] | #{BACK} DAYS 
+               | #{FILES} FILE ... | #{DIRS} DIR ... | #{IDS} ID ... )
+        #{ONE_COMMIT}: Optionally, make just one commit at the end, rather than
+          one commit per file.
+        #{SAME_MOUNT}: Optionally, allow same mount point for the script and the
+          solr index. This is what you want in development, but the default, to
+          disallow this, would have stopped me from running out of disk many times.
+        #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
+          supply a results page to begin with.
+        #{BACK}: Download, clean, and ingest only those records updated in the 
+          last N days. (I don't trust the underlying API, so give yourself a 
+          buffer if you use this for daily updates.)
+        #{FILES}: Clean and ingest the given files. 
+        #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
+          could suffice in many cases, for large directories it might not work,
+          and this is easier than xargs.)
+        #{IDS}: Download, clean, and ingest records with the given IDs. Will
+          usually be used in conjunction with #{ONE_COMMIT}, rather than
+          committing after each record.
+      EOF
   end
 
   files ||= target_dirs.map do |target_dir|
     Dir.entries(target_dir)
             .reject { |file_name| ['.', '..'].include?(file_name) }
             .map { |file_name| "#{target_dir}/#{file_name}" }
-  end.flatten
+  end.flatten.sort
 
   files.each do |path|
     begin

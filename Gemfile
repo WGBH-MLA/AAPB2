@@ -49,6 +49,8 @@ gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper', '~> 1.7'
 
+gem 'sys-filesystem' # just for checking mount points at ingest
+
 gem 'rspec'
 gem 'rspec-rails'
 gem 'capybara'
