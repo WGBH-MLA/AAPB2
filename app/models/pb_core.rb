@@ -137,7 +137,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     media_type == SOUND
   end
   def digitized?
-    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO: get the right value
+    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') || 
+      ci_id != nil 
   end
   def access_types
     @access_types ||= ['All'].tap do|types|
