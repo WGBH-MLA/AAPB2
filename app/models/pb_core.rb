@@ -112,7 +112,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
   def organization
     @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name) ||
-      fail("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
+                      fail("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
   end
   def rights_code
     @rights_code ||= xpath('/*/pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
@@ -137,8 +137,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     media_type == SOUND
   end
   def digitized?
-    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') || 
-      ci_id != nil 
+    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') ||
+                   !ci_id.nil?
   end
   def access_types
     @access_types ||= ['All'].tap do|types|

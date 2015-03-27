@@ -1,5 +1,4 @@
 describe 'code style' do
-
   before :all do
     @debugging = []
     @merging = []
@@ -15,8 +14,6 @@ describe 'code style' do
       end
     end
   end
-
-
 
   it 'has no debug cruft' do
     expect(@debugging.join).to eq ''
