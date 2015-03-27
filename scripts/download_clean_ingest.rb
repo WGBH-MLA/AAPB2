@@ -128,12 +128,16 @@ if __FILE__ == $PROGRAM_NAME
       fails[:other] << path
       next
     else
-      puts "Successfully added '#{path}'".green
+      puts "Successfully added '#{path}' #{'but not committed' if one_commit}".green
       success << path
     end
   end
   
-  ingester.commit if one_commit
+  if one_commit
+    puts "Starting one big commit..."
+    ingester.commit
+    puts "Finished one big commit."
+  end
 
   # TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.
   # puts 'Ingest complete; Begin optimization...'

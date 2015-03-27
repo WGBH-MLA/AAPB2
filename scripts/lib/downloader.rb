@@ -29,6 +29,7 @@ class Downloader
       args[:ids].each do |id|
         short_id = id.sub(/.*[_\/]/, '')
         url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
+        puts "Downloading #{url}"
         content = URI.parse(url).read(read_timeout: 240)
         File.write("#{short_id}.pbcore", content)
       end
