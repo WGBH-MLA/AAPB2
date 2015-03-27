@@ -42,7 +42,7 @@ Association of Moving Image Archivists’ (AMIA)  PBCore Advisory Committee to
 support and improve the Public Broadcasting Core (PBCore) metadata standard, 
 serves as a mentor for the National Digital Stewardship Residency (NDSR) Boston 
 project, and is Co-Chair of the New England Archivists Roundtable for Early 
-Professionals and Students (REPS) and [its?] Membership Committee. As an 
+Professionals and Students (REPS) and NEA's Membership Committee. As an 
 archivist, Casey is passionate about access and use of audiovisual archival 
 collections and archival advocacy. Personally, she enjoys traveling, visiting 
 historic sites and museums, and collecting embroidered patches. Before working 
