@@ -4,12 +4,7 @@ require_relative '../../scripts/lib/pb_core_ingester'
 describe 'AMS' do
 
   before(:all) do
-    # This is a test in its own right elsewhere.
-    ingester = PBCoreIngester.new
-    ingester.delete_all
-    Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
-      ingester.ingest(path: pbcore)
-    end
+    PBCoreIngester.load_fixtures
   end
 
   describe '#show' do

@@ -1,4 +1,5 @@
 require 'rsolr'
+require 'sys/filesystem' # just for checking mount points
 require 'date' # NameError deep in Solrizer without this.
 require_relative '../../app/models/validated_pb_core'
 require_relative 'uncollector'
@@ -7,9 +8,36 @@ require_relative 'cleaner'
 class PBCoreIngester
   attr_reader :solr
 
-  def initialize(url='http://localhost:8983/solr/')
-    @solr = RSolr.connect(url: url) # TODO: read config/solr.yml
+  def initialize(opts)
+    @solr = RSolr.connect(url: 'http://localhost:8983/solr/') # TODO: read config/solr.yml
+    validate_mount if !opts[:same_mount]
     @log = File.basename($PROGRAM_NAME) == 'rspec' ? [] : STDOUT
+  end
+  
+  def validate_mount
+    core = 'blacklight-core' # TODO: read from config
+    data_dir = solr.get('admin/cores')['status'][core]['dataDir']
+    data_dir_mount = Sys::Filesystem.mount_point(data_dir)
+    script_mount = Sys::Filesystem.mount_point(__FILE__)
+    fail(<<EOF
+Index mount point error
+This code (#{__FILE__}) 
+and the solr index (#{data_dir})
+share a mount point: #{data_dir_mount}
+If this is development, add --same-mount to ignore.
+If this is production, you probably want to set up a large separate volume
+for the index, and create a symlink. See the README.
+EOF
+    ) if data_dir_mount == script_mount
+  end
+  
+  def self.load_fixtures
+    # This is a test in its own right elsewhere.
+    ingester = PBCoreIngester.new(same_mount: true)
+    ingester.delete_all
+    Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
+      ingester.ingest(path: pbcore)
+    end
   end
 
   # TODO: maybe light session management? If we don't go in that direction, this should just be a module.
