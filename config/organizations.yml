@@ -3215,9 +3215,13 @@
   short_name: PBS Guam
   state: Guam
   city: Mangilao
-# logo_filename:
+  logo_filename: pbs_guam_logo.png
   url: http://pbsguam.org/
-  history_md: 
+  history_md: |
+  	PBS Guam (KGTF) is Guam’s public media station, delivering exceptional programs from national, regional and local sources since 1970.  PBS Guam is PBS’ western-most member station, located approximately 3,800 miles west of Hawaii and 1,500 miles south of Japan; it is uniquely situated to bring together east and west content themes - through broadcast and other multimedia platforms - that serve the public interest and engage the island’s blend of cultures.  
+	Video archives from past decades, along with present work, reflect a great deal of the station’s productions. They offer viewers an historical Guam and are perspectives told by the island’s diverse local population. The archives contain programs that encompass numerous cultural, educational, biographical, political, military and environmental topics.  
+	The television station has come a long way from its humble beginnings. Today, PBS Guam is pleased to uphold the tradition of providing island viewers with outstanding programs, educational services and dynamic community engagement opportunities for generations of viewers to come.
+
   productions_md: 
 
 - pbcore_name: Colorado Public Television
