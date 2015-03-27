@@ -87,7 +87,7 @@ describe 'Catalog' do
           ['asset_type', 5, 'Segment', 5],
           ['organization', 15, 'WGBH+(MA)', 1],
           ['year', 2, '2000', 1],
-          ['access_types', 1, 'All', 19]
+          ['access_types', 2, 'All', 19]
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"
