@@ -22,10 +22,10 @@ class Downloader
 
   def self.download_to_directory_and_link(args={})
     fail("Unexpected keys: #{args}") unless Set.new(args.keys).subset?(Set[:days, :page, :ids])
-    fail("ids is exclusive") if args[:ids] && args.keys.size > 1
+    fail('ids is exclusive') if args[:ids] && args.keys.size > 1
     now = Time.now.strftime('%F_%T')
     if args[:ids]
-      self.mkdir_and_cd("#{now}_by_ids_#{args[:ids].size}")
+      mkdir_and_cd("#{now}_by_ids_#{args[:ids].size}")
       args[:ids].each do |id|
         short_id = id.sub(/.*[_\/]/, '')
         url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
@@ -40,13 +40,13 @@ class Downloader
               else
                 '20000101' # ie, beginning of time.
               end
-      self.mkdir_and_cd("#{now}_since_#{since}_starting_page_#{args[:page]}")
+      mkdir_and_cd("#{now}_since_#{since}_starting_page_#{args[:page]}")
       downloader = Downloader.new(since)
       downloader.download_to_directory(args[:page])
     end
     Dir.pwd
   end
-  
+
   def self.mkdir_and_cd(name)
     Dir.chdir(File.dirname(File.dirname(File.dirname(__FILE__))))
     path = ['tmp', 'pbcore', 'download', name]

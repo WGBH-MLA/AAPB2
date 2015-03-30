@@ -8,7 +8,7 @@ describe PBCoreIngester do
     @ingester = PBCoreIngester.new(same_mount: true)
     @ingester.delete_all
   end
-  
+
   it 'fails without same_mount' do
     expect { PBCoreIngester.new(same_mount: false) }.to raise_error
   end

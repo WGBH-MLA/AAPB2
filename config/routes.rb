@@ -10,7 +10,7 @@ Rails.application.routes.draw do
 
   resources 'media',
             only: [:show]
-        
+
   resources 'ams',
             only: [:show]
 

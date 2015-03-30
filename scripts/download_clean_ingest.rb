@@ -30,7 +30,7 @@ if __FILE__ == $PROGRAM_NAME
   end
 
   fails = { read: [], clean: [], validate: [], add: [], other: [] }
-  success = [] 
+  success = []
 
   ONE_COMMIT = '--one-commit'
   SAME_MOUNT = '--same-mount'
@@ -39,15 +39,15 @@ if __FILE__ == $PROGRAM_NAME
   DIRS = '--dirs'
   FILES = '--files'
   IDS = '--ids'
-  
+
   one_commit = ARGV.include?(ONE_COMMIT)
   ARGV.delete(ONE_COMMIT) if one_commit
-  
+
   same_mount = ARGV.include?(SAME_MOUNT)
   ARGV.delete(SAME_MOUNT) if same_mount
-  
+
   ingester = PBCoreIngester.new(same_mount: same_mount)
-  
+
   mode = ARGV.shift
   args = ARGV
 
@@ -63,13 +63,13 @@ if __FILE__ == $PROGRAM_NAME
       target_dirs = [Downloader.download_to_directory_and_link(days: args.first.to_i)]
 
     when DIRS
-      fail ParamsError.new if args.empty? || not(args.map {|dir| File.directory?(dir)}.all?) 
+      fail ParamsError.new if args.empty? || notargs.map { |dir| File.directory?(dir) }.all?
       target_dirs = args
 
     when FILES
       fail ParamsError.new if args.empty?
       files = args
-      
+
     when IDS
       fail ParamsError.new unless args.count >= 1
       target_dirs = [Downloader.download_to_directory_and_link(ids: args)]
@@ -79,8 +79,8 @@ if __FILE__ == $PROGRAM_NAME
     end
   rescue ParamsError
     abort <<-EOF.gsub(/^ {6}/, '')
-      USAGE: #{File.basename($0)} [#{ONE_COMMIT}] [#{SAME_MOUNT}]
-             ( #{ALL} [PAGE] | #{BACK} DAYS 
+      USAGE: #{File.basename($PROGRAM_NAME)} [#{ONE_COMMIT}] [#{SAME_MOUNT}]
+             ( #{ALL} [PAGE] | #{BACK} DAYS
                | #{FILES} FILE ... | #{DIRS} DIR ... | #{IDS} ID ... )
         #{ONE_COMMIT}: Optionally, make just one commit at the end, rather than
           one commit per file.
@@ -89,10 +89,10 @@ if __FILE__ == $PROGRAM_NAME
           disallow this, would have stopped me from running out of disk many times.
         #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
           supply a results page to begin with.
-        #{BACK}: Download, clean, and ingest only those records updated in the 
-          last N days. (I don't trust the underlying API, so give yourself a 
+        #{BACK}: Download, clean, and ingest only those records updated in the
+          last N days. (I don't trust the underlying API, so give yourself a
           buffer if you use this for daily updates.)
-        #{FILES}: Clean and ingest the given files. 
+        #{FILES}: Clean and ingest the given files.
         #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
           could suffice in many cases, for large directories it might not work,
           and this is easier than xargs.)
@@ -104,8 +104,8 @@ if __FILE__ == $PROGRAM_NAME
 
   files ||= target_dirs.map do |target_dir|
     Dir.entries(target_dir)
-            .reject { |file_name| ['.', '..'].include?(file_name) }
-            .map { |file_name| "#{target_dir}/#{file_name}" }
+    .reject { |file_name| ['.', '..'].include?(file_name) }
+    .map { |file_name| "#{target_dir}/#{file_name}" }
   end.flatten.sort
 
   files.each do |path|
@@ -132,11 +132,11 @@ if __FILE__ == $PROGRAM_NAME
       success << path
     end
   end
-  
+
   if one_commit
-    puts "Starting one big commit..."
+    puts 'Starting one big commit...'
     ingester.commit
-    puts "Finished one big commit."
+    puts 'Finished one big commit.'
   end
 
   # TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.

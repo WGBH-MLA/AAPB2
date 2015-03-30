@@ -94,7 +94,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @img_src ||=
       case [media_type, digitized?]
       when [MOVING_IMAGE, true]
-        "https://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+        "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
       when [MOVING_IMAGE, false]
         '/thumbs/video-not-digitized.jpg'
       when [SOUND, true]
@@ -112,7 +112,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
   def organization
     @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name) ||
-      fail("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
+                      fail("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
   end
   def rights_code
     @rights_code ||= xpath('/*/pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
@@ -137,7 +137,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
     media_type == SOUND
   end
   def digitized?
-    @digitized ||= xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy') # TODO: get the right value
+    @digitized ||= !ci_id.nil?
+    # TODO: not confident about this. We ought to be able to rely on this:
+    # xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy')
   end
   def access_types
     @access_types ||= ['All'].tap do|types|
