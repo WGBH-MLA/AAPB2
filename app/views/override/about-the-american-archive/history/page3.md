@@ -15,8 +15,7 @@ general, see “A Selective Chronology of Events Relating to Television and Vide
 Archives,” Appendix B, of Library of Congress, Television and Video 
 Preservation 1997: A Report on the Current State of American Television and 
 Video Preservation, vol. 1 (Washington: Library of Congress, 1997), 
-<http://www.loc.gov/programs/national-film-preservation-board/preservation-resea
-rch/television-videotape-preservation-study/>. 
+<http://www.loc.gov/programs/national-film-preservation-board/preservation-research/television-videotape-preservation-study/>. 
 
 <a name="3"></a><sup>3</sup>Robert M. Reed and Alan F. Lewis, “A Public Television Program 
 Archive: A Report,” Public Television Library, January 14, 1977; quoted in 
@@ -61,8 +60,7 @@ Television and Video Preservation 1997, 4:77. National Educational Television
 presented its textual records to the Wisconsin Historical Society between 1965 
 and 1971. See Wisconsin History Society, “National Educational Television 
 Records, 1951-1969,” 
-<http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;view=re
-slist;subview=standard;didno=uw-whs-us0066af>. 
+<http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;view=reslist;subview=standard;didno=uw-whs-us0066af>. 
 
 <a name="12"></a><sup>12</sup>Connors, “Appraising Public Television Programs,” 161.
 
@@ -70,8 +68,7 @@ slist;subview=standard;didno=uw-whs-us0066af>.
 Library of Congress, Redefining Film Preservation: A National Plan; 
 Recommendations of the Librarian of Congress in Consultation with the National 
 Film Preservation Board (Washington: Library of Congress, 1994), 10, 
-<http://www.loc.gov/programs/national-film-preservation-board/preservation-resea
-rch/film-preservation-plan/redefining-film-preservation/>. 
+<http://www.loc.gov/programs/national-film-preservation-board/preservation-research/film-preservation-plan/redefining-film-preservation/>. 
 
 <a name="14"></a><sup>14</sup>Library of Congress, Television and Video Preservation 1997, 1:69, 
 72.
@@ -104,20 +101,17 @@ Digital Public Television: Final Report, June 2010” (New York: WNET.org),
 Backgrounder,” February 14, 2012. See also Jeremy Egner and Steven Behrens, 
 “Q&A with John Lawson: APTS Preps Proposals for ‘American Archive,’ Copyright 
 Legislation,” Current, February 25, 2007. 
-<http://www.current.org/2007/02/qa-with-john-lawson-apts-preps-proposals-for-ame
-rican-archive-copyright-legislation/>. 
+<http://www.current.org/2007/02/qa-with-john-lawson-apts-preps-proposals-for-american-archive-copyright-legislation/>. 
 
 <a name="22"></a><sup>22</sup>Mark R. Smith, “APTS Helps Create ‘American Archive,’” TV 
 Technology, April 2, 2007, 40, in Rubin, “Preserving Digital Public 
 Television,” 47.
 
 <a name="23"></a><sup>23</sup>110 S. Rpt. 107 (2007). 
-<http://thomas.loc.gov/cgi-bin/cpquery/?&dbname=cp110&sid=cp110w2SuW&refer=&r_n=
-sr107.110&item=&&&sel=TOC_1080933&>.
+<http://thomas.loc.gov/cgi-bin/cpquery/?&dbname=cp110&sid=cp110w2SuW&refer=&r_n=sr107.110&item=&&&sel=TOC_1080933&>.
 
 <a name="24"></a><sup>24</sup>110 H. Rpt. 231 (2007). 
-<http://thomas.loc.gov/cgi-bin/cpquery/?&dbname=cp110&sid=cp110wot7U&refer=&r_n=
-hr231.110&item=&&&sel=TOC_1155037&>.
+<http://thomas.loc.gov/cgi-bin/cpquery/?&dbname=cp110&sid=cp110wot7U&refer=&r_n=hr231.110&item=&&&sel=TOC_1155037&>.
 
 <a name="25"></a><sup>25</sup>“CPB American Archive Backgrounder,” February 14, 2012.
 
@@ -135,8 +129,7 @@ Prospectus,” November 19, 2012.
 <https://www.congress.gov/bill/112th-congress/house-bill/1473/text>; Steve 
 Behrens, “CPB Will Seek Operator to Develop American Archive; Director Leaves 
 Project,” Current, January 30, 2012, 
-<http://www.current.org/wp-content/themes/current/archive-site/cpb/cpb1202archiv
-e.html>. 
+<http://www.current.org/wp-content/themes/current/archive-site/cpb/cpb1202archive.html>. 
 
 <a name="31"></a><sup>31</sup>“CPB American Archive Backgrounder,” February 14, 2012.
 
