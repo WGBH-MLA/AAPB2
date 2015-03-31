@@ -16,6 +16,6 @@ Rails.application.routes.draw do
 
   get '/*path', to: 'override#show', constraints: lambda { |req|
     path = req.params['path']
-    path.match(/^[a-z\/-]+$/) && !path.match(/^rails/)
+    path.match(OverrideController::PATH_PATTERN) && !path.match(/^rails/)
   }
 end

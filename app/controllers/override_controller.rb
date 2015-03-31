@@ -1,8 +1,9 @@
 require_relative '../../lib/markdowner'
 
 class OverrideController < ApplicationController
+  PATH_PATTERN = /^[a-z0-9\/-]+$/
   def show
-    if params[:path] =~ /^[a-z0-9\/-]+$/i # paranoid about weird paths.
+    if params[:path] =~ PATH_PATTERN # paranoid about weird paths.
 #      override_html_erb_file_path = "override/#{params[:path]}.html.erb"
 #      if File.exist?("app/views/#{override_html_erb_file_path}")
 #        render file: override_html_erb_file_path
