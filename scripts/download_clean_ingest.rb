@@ -3,15 +3,6 @@ require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 require 'logger'
 
-abort('This is a script, not a library') unless __FILE__ == $PROGRAM_NAME
-
-log_file_name = File.join(
-  File.dirname(File.dirname(__FILE__)), 
-  "log/ingest-#{ARGV[0..4].map{|a| a.sub('--','')}.join('-')}.log"
-)
-$LOG = Logger.new(log_file_name)
-$LOG.info("START: #{$PROGRAM_NAME} #{ARGV.join(' ')}")
-
 class Exception
   def short
     message + "\n" + backtrace[0..2].join("\n")
@@ -21,9 +12,6 @@ end
 class ParamsError < StandardError
 end
 
-fails = { read: [], clean: [], validate: [], add: [], other: [] }
-success = []
-
 ONE_COMMIT = '--one-commit'
 SAME_MOUNT = '--same-mount'
 ALL = '--all'
@@ -32,45 +20,70 @@ DIRS = '--dirs'
 FILES = '--files'
 IDS = '--ids'
 
-one_commit = ARGV.include?(ONE_COMMIT)
-ARGV.delete(ONE_COMMIT) if one_commit
+def init()
+  abort('This is a script, not a library') unless __FILE__ == $PROGRAM_NAME
 
-same_mount = ARGV.include?(SAME_MOUNT)
-ARGV.delete(SAME_MOUNT) if same_mount
+  log_file_name = File.join(
+    File.dirname(File.dirname(__FILE__)), 
+    "log/ingest-#{ARGV[0..4].map{|a| a.sub('--','')}.join('-')}.log"
+  )
+  $LOG = Logger.new(log_file_name)
+  puts "logging to #{log_file_name}"
+  $LOG.info("START: #{$PROGRAM_NAME} #{ARGV.join(' ')}")
+end
 
-ingester = PBCoreIngester.new(same_mount: same_mount)
+def parse_opts()
 
-mode = ARGV.shift
-args = ARGV
+  one_commit = ARGV.include?(ONE_COMMIT)
+  ARGV.delete(ONE_COMMIT) if one_commit
 
-begin
-  case mode
+  same_mount = ARGV.include?(SAME_MOUNT)
+  ARGV.delete(SAME_MOUNT) if same_mount
 
-  when ALL
-    fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-    target_dirs = [Downloader.download_to_directory_and_link(page: args.first.to_i)]
+  mode = ARGV.shift
+  args = ARGV
 
-  when BACK
-    fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
-    target_dirs = [Downloader.download_to_directory_and_link(days: args.first.to_i)]
+  begin
+    case mode
 
-  when DIRS
-    fail ParamsError.new if args.empty? || notargs.map { |dir| File.directory?(dir) }.all?
-    target_dirs = args
+    when ALL
+      fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
+      target_dirs = [Downloader.download_to_directory_and_link(page: args.first.to_i)]
 
-  when FILES
-    fail ParamsError.new if args.empty?
-    files = args
+    when BACK
+      fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
+      target_dirs = [Downloader.download_to_directory_and_link(days: args.first.to_i)]
 
-  when IDS
-    fail ParamsError.new unless args.count >= 1
-    target_dirs = [Downloader.download_to_directory_and_link(ids: args)]
+    when DIRS
+      fail ParamsError.new if args.empty? || notargs.map { |dir| File.directory?(dir) }.all?
+      target_dirs = args
 
-  else
-    fail ParamsError.new
+    when FILES
+      fail ParamsError.new if args.empty?
+      files = args
+
+    when IDS
+      fail ParamsError.new unless args.count >= 1
+      target_dirs = [Downloader.download_to_directory_and_link(ids: args)]
+
+    else
+      fail ParamsError.new
+    end
+  rescue ParamsError
+    abort usage_message()
   end
-rescue ParamsError
-  abort <<-EOF.gsub(/^ {6}/, '')
+
+  files ||= target_dirs.map do |target_dir|
+    Dir.entries(target_dir)
+    .reject { |file_name| ['.', '..'].include?(file_name) }
+    .map { |file_name| "#{target_dir}/#{file_name}" }
+  end.flatten.sort
+
+  {files: files, one_commit: one_commit, same_mount: same_mount}
+end
+
+def usage_message()
+  <<-EOF.gsub(/^ {4}/, '')
     USAGE: #{File.basename($PROGRAM_NAME)} [#{ONE_COMMIT}] [#{SAME_MOUNT}]
            ( #{ALL} [PAGE] | #{BACK} DAYS
              | #{FILES} FILE ... | #{DIRS} DIR ... | #{IDS} ID ... )
@@ -93,54 +106,56 @@ rescue ParamsError
         committing after each record.
     EOF
 end
+  
+def process(parsed_args)
+  fails = { read: [], clean: [], validate: [], add: [], other: [] }
+  success = []
+  ingester = PBCoreIngester.new(same_mount: parsed_args[:same_mount])
 
-files ||= target_dirs.map do |target_dir|
-  Dir.entries(target_dir)
-  .reject { |file_name| ['.', '..'].include?(file_name) }
-  .map { |file_name| "#{target_dir}/#{file_name}" }
-end.flatten.sort
-
-files.each do |path|
-  begin
-    ingester.ingest(path: path, one_commit: one_commit)
-  rescue PBCoreIngester::ReadError => e
-    $LOG.warn("Failed to read #{path}: #{e.short}")
-    fails[:read] << path
-    next
-  rescue PBCoreIngester::ValidationError => e
-    $LOG.warn("Failed to validate #{path}: #{e.short}")
-    fails[:validate] << path
-    next
-  rescue PBCoreIngester::SolrError => e
-    $LOG.warn("Failed to add #{path}: #{e.short}")
-    fails[:add] << path
-    next
-  rescue => e
-    $LOG.warn("Other error on #{path}: #{e.short}")
-    fails[:other] << path
-    next
-  else
-    $LOG.info("Successfully added '#{path}' #{'but not committed' if one_commit}")
-    success << path
+  parsed_args[:files].each do |path|
+    begin
+      ingester.ingest(path: path, one_commit: parsed_args[:one_commit])
+    rescue PBCoreIngester::ReadError => e
+      $LOG.warn("Failed to read #{path}: #{e.short}")
+      fails[:read] << path
+      next
+    rescue PBCoreIngester::ValidationError => e
+      $LOG.warn("Failed to validate #{path}: #{e.short}")
+      fails[:validate] << path
+      next
+    rescue PBCoreIngester::SolrError => e
+      $LOG.warn("Failed to add #{path}: #{e.short}")
+      fails[:add] << path
+      next
+    rescue => e
+      $LOG.warn("Other error on #{path}: #{e.short}")
+      fails[:other] << path
+      next
+    else
+      $LOG.info("Successfully added '#{path}' #{'but not committed' if parsed_args[:one_commit]}")
+      success << path
+    end
   end
+
+  if parsed_args[:one_commit]
+    $LOG.info('Starting one big commit...')
+    ingester.commit
+    $LOG.info('Finished one big commit.')
+  end
+
+  # TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.
+  # puts 'Ingest complete; Begin optimization...'
+  # ingester.optimize
+
+  $LOG.info('SUMMARY')
+
+  fails.each {|type, list|
+    $LOG.warn("#{list.count} failed to #{type}:\n#{list.join("\n")}") unless list.empty?
+  }
+  $LOG.info("#{success.count} succeeded")
+
+  $LOG.info('DONE')
 end
 
-if one_commit
-  $LOG.info('Starting one big commit...')
-  ingester.commit
-  $LOG.info('Finished one big commit.')
-end
-
-# TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.
-# puts 'Ingest complete; Begin optimization...'
-# ingester.optimize
-
-$LOG.info('SUMMARY')
-
-$LOG.info("processed #{target_dirs}") if target_dirs
-fails.each {|type, list|
-  $LOG.warn("#{list.count} failed to #{type}:\n#{list.join("\n")}") unless list.empty?
-}
-$LOG.info("#{success.count} succeeded")
-
-$LOG.info('DONE')
+init()
+process(parse_opts())
