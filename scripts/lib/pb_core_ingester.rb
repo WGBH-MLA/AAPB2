@@ -1,9 +1,11 @@
 require 'rsolr'
 require 'sys/filesystem' # just for checking mount points
 require 'date' # NameError deep in Solrizer without this.
+require 'logger'
 require_relative '../../app/models/validated_pb_core'
 require_relative 'uncollector'
 require_relative 'cleaner'
+require_relative 'null_logger'
 
 class PBCoreIngester
   attr_reader :solr
@@ -11,7 +13,7 @@ class PBCoreIngester
   def initialize(opts)
     @solr = RSolr.connect(url: 'http://localhost:8983/solr/') # TODO: read config/solr.yml
     validate_mount unless opts[:same_mount]
-    @log = File.basename($PROGRAM_NAME) == 'rspec' ? [] : STDOUT
+    $LOG ||= NullLogger.new
   end
 
   def validate_mount
@@ -63,19 +65,19 @@ EOF
     xml_top = xml[0..100] # just look at the start of the file.
     case xml_top
     when /<pbcoreCollection/
-      @log << "#{Time.now}\tRead pbcoreCollection from #{path}\n"
+      $LOG.info("Read pbcoreCollection from #{path}")
       Uncollector.uncollect_string(xml).each do |document|
         md5 = Digest::MD5.hexdigest(document)
         if @md5s_seen.include?(md5)
           # Documents are often repeated in AMS exports.
-          @log << "#{Time.now}\tSkipping already seen md5 #{md5}\n"
+          $LOG.info("Skipping already seen md5 #{md5}")
         else
           @md5s_seen.add(md5)
           begin
             ingest_xml_no_commit(cleaner.clean(document))
           rescue => e
             id_extracts = document.scan(/<pbcoreIdentifier[^>]*>[^<]*<[^>]*>/)
-            @log << "#{Time.now}\tError during ingest of #{id_extracts}: #{e.message}\n"
+            $LOG.warn("Error during ingest of #{id_extracts}: #{e.message}")
           end
         end
       end
@@ -112,7 +114,7 @@ EOF
       raise SolrError.new(e)
     end
 
-    @log << "#{Time.now}\tUpdated solr record #{pbcore.id}\n"
+    $LOG.info("Updated solr record #{pbcore.id}")
 
     pbcore
   end

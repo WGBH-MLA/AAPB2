@@ -9,11 +9,3 @@ module Uncollector
     end
   end
 end
-
-if __FILE__ == $PROGRAM_NAME
-  if ARGV.empty?
-    puts Uncollector.uncollect_string(ARGF.read).join("\n")
-  else
-    abort 'No args: supply xml through STDIN'
-  end
-end
