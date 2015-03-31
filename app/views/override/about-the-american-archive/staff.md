@@ -6,8 +6,8 @@ Karen has been director of the WGBH Media Library since its inception in 1990.
 She co-led the AMIA Local Television Case Studies and Symposium Task Force from 
 2001-2004.  She has been project director for the WGBH Teachers’ Domain 
 initiative, WGBH Open Vault, WGBH Mellon Digital Library project, the American 
-Archive Content Inventory Project, and the American Archive [of Public 
-Broadcasting?] project, and for the development and testing of the WGBH DAM 
+Archive Content Inventory Project, and the American Archive of Public 
+Broadcasting, and for the development and testing of the WGBH DAM 
 system.  
 
 Karen's current favorite AAPB collection item is ["Beekeeping" from 
