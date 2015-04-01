@@ -15,31 +15,41 @@ end
 class DownloadCleanIngest
   ONE_COMMIT = '--one-commit'
   SAME_MOUNT = '--same-mount'
+  STDOUT_LOG = '--stdout-log'
   ALL = '--all'
   BACK = '--back'
   DIRS = '--dirs'
   FILES = '--files'
   IDS = '--ids'
 
-  def log_init()
-    log_file_name = File.join(
-      File.dirname(File.dirname(__FILE__)), 
-      "log/ingest-#{ARGV[0..4].map{|a| a.sub('--','')}.join('-')}.log"
-    )
-    $LOG = Logger.new(log_file_name)
+  def log_init(stdout_log)
+    log_file_name = if stdout_log
+      STDOUT
+    else
+      File.join(
+        File.dirname(File.dirname(__FILE__)), 'log',
+        "ingest-#{ARGV[0..4].map{|a| a.sub('--','')}.join('-')}.log"
+      )
+    end
+    $LOG = Logger.new(log_file_name, 'daily')
     puts "logging to #{log_file_name}"
-    $LOG.info("START: #{$PROGRAM_NAME} #{ARGV.join(' ')}")
   end
 
   def initialize(argv)
-    log_init()
-
+    orig = argv.clone
+    
     one_commit = argv.include?(ONE_COMMIT)
     argv.delete(ONE_COMMIT) if one_commit
 
     same_mount = argv.include?(SAME_MOUNT)
     argv.delete(SAME_MOUNT) if same_mount
 
+    stdout_log = argv.include?(STDOUT_LOG)
+    argv.delete(STDOUT_LOG) if stdout_log
+    
+    log_init(stdout_log)
+    $LOG.info("START: #{$PROGRAM_NAME} #{orig.join(' ')}")
+    
     mode = argv.shift
     args = argv
 
@@ -55,7 +65,7 @@ class DownloadCleanIngest
         target_dirs = [Downloader.download_to_directory_and_link(days: args.first.to_i)]
 
       when DIRS
-        fail ParamsError.new if args.empty? || notargs.map { |dir| File.directory?(dir) }.all?
+        fail ParamsError.new if args.empty? || args.map { |dir| !File.directory?(dir) }.any?
         target_dirs = args
 
       when FILES
@@ -84,14 +94,16 @@ class DownloadCleanIngest
 
   def usage_message()
     <<-EOF.gsub(/^ {4}/, '')
-      USAGE: #{File.basename($PROGRAM_NAME)} [#{ONE_COMMIT}] [#{SAME_MOUNT}]
-             ( #{ALL} [PAGE] | #{BACK} DAYS
-               | #{FILES} FILE ... | #{DIRS} DIR ... | #{IDS} ID ... )
+      USAGE: #{File.basename($PROGRAM_NAME)} 
+               [#{ONE_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}]
+               ( #{ALL} [PAGE] | #{BACK} DAYS
+                 | #{FILES} FILE ... | #{DIRS} DIR ... | #{IDS} ID ... )
         #{ONE_COMMIT}: Optionally, make just one commit at the end, rather than
           one commit per file.
         #{SAME_MOUNT}: Optionally, allow same mount point for the script and the
           solr index. This is what you want in development, but the default, to
           disallow this, would have stopped me from running out of disk many times.
+        #{STDOUT_LOG}: Optionally, log to stdout, rather than a log file.
         #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
           supply a results page to begin with.
         #{BACK}: Download, clean, and ingest only those records updated in the
