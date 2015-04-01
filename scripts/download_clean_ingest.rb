@@ -51,7 +51,7 @@ class DownloadCleanIngest
     argv.delete(STDOUT_LOG) if stdout_log
     
     log_init(stdout_log)
-    $LOG.info("START: #{$PROGRAM_NAME} #{orig.join(' ')}")
+    $LOG.info("START: Process ##{Process.pid}: #{$PROGRAM_NAME} #{orig.join(' ')}")
     
     mode = argv.shift
     args = argv

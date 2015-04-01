@@ -284,7 +284,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
 
   def self.text_from(node)
-    (node.respond_to?('text') ? node.text : node.value).strip
+    ((node.respond_to?('text') ? node.text : node.value) || '').strip
   end
 
   def pairs_by_type(element_xpath, attribute_xpath)
