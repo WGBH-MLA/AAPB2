@@ -21,14 +21,15 @@ class DownloadCleanIngest
   DIRS = '--dirs'
   FILES = '--files'
   IDS = '--ids'
+  ID_FILES = '--id-files'
 
-  def log_init(stdout_log)
-    log_file_name = if stdout_log
+  def log_init(is_stdout_log, argv)
+    log_file_name = if is_stdout_log
       STDOUT
     else
       File.join(
         File.dirname(File.dirname(__FILE__)), 'log',
-        "ingest-#{ARGV[0..4].map{|a| a.sub('--','')}.join('-')}.log"
+        "ingest-#{argv[0..4].map{|a| a.sub('--','')}.join('-')}.log"
       )
     end
     $LOG = Logger.new(log_file_name, 'daily')
@@ -41,16 +42,16 @@ class DownloadCleanIngest
   def initialize(argv)
     orig = argv.clone
     
-    one_commit = argv.include?(ONE_COMMIT)
-    argv.delete(ONE_COMMIT) if one_commit
+    is_one_commit = argv.include?(ONE_COMMIT)
+    argv.delete(ONE_COMMIT) if is_one_commit
 
-    same_mount = argv.include?(SAME_MOUNT)
-    argv.delete(SAME_MOUNT) if same_mount
+    is_same_mount = argv.include?(SAME_MOUNT)
+    argv.delete(SAME_MOUNT) if is_same_mount
 
-    stdout_log = argv.include?(STDOUT_LOG)
-    argv.delete(STDOUT_LOG) if stdout_log
+    is_stdout_log = argv.include?(STDOUT_LOG)
+    argv.delete(STDOUT_LOG) if is_stdout_log
     
-    log_init(stdout_log)
+    log_init(is_stdout_log, orig)
     $LOG.info("START: Process ##{Process.pid}: #{$PROGRAM_NAME} #{orig.join(' ')}")
     
     mode = argv.shift
@@ -75,9 +76,14 @@ class DownloadCleanIngest
         fail ParamsError.new if args.empty?
         files = args
 
-      when IDS
+      when IDS, ID_FILES
         fail ParamsError.new unless args.count >= 1
-        target_dirs = [Downloader.download_to_directory_and_link(ids: args)]
+        ids = if mode == ID_FILES
+          args.map { |id_file| File.readlines(id_file) }.flatten
+        else
+          args
+        end
+        target_dirs = [Downloader.download_to_directory_and_link(ids: ids)]
 
       else
         fail ParamsError.new
@@ -92,7 +98,7 @@ class DownloadCleanIngest
       .map { |file_name| "#{target_dir}/#{file_name}" }
     end.flatten.sort
 
-    @opts = {files: files, one_commit: one_commit, same_mount: same_mount}
+    @opts = {files: files, is_one_commit: is_one_commit, is_same_mount: is_same_mount}
   end
 
   def usage_message()
@@ -100,7 +106,8 @@ class DownloadCleanIngest
       USAGE: #{File.basename($PROGRAM_NAME)} 
                [#{ONE_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}]
                ( #{ALL} [PAGE] | #{BACK} DAYS
-                 | #{FILES} FILE ... | #{DIRS} DIR ... | #{IDS} ID ... )
+                 | #{IDS} ID ... | #{ID_FILES} ID_FILE ... 
+                 | #{FILES} FILE ... | #{DIRS} DIR ... )
         #{ONE_COMMIT}: Optionally, make just one commit at the end, rather than
           one commit per file.
         #{SAME_MOUNT}: Optionally, allow same mount point for the script and the
@@ -112,24 +119,27 @@ class DownloadCleanIngest
         #{BACK}: Download, clean, and ingest only those records updated in the
           last N days. (I don't trust the underlying API, so give yourself a
           buffer if you use this for daily updates.)
+        #{IDS}: Download, clean, and ingest records with the given IDs. Will
+          usually be used in conjunction with #{ONE_COMMIT}, rather than
+          committing after each record.
+        #{ID_FILES}: Read the files, and then download, clean, and ingest records
+          with the given IDs. Again, this will usually be used in conjunction 
+          with #{ONE_COMMIT}, rather than committing after each record.
         #{FILES}: Clean and ingest the given files.
         #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
           could suffice in many cases, for large directories it might not work,
           and this is easier than xargs.)
-        #{IDS}: Download, clean, and ingest records with the given IDs. Will
-          usually be used in conjunction with #{ONE_COMMIT}, rather than
-          committing after each record.
       EOF
   end
 
   def process()
     fails = { read: [], clean: [], validate: [], add: [], other: [] }
     success = []
-    ingester = PBCoreIngester.new(same_mount: @opts[:same_mount])
+    ingester = PBCoreIngester.new(is_same_mount: @opts[:is_same_mount])
 
     @opts[:files].each do |path|
       begin
-        ingester.ingest(path: path, one_commit: @opts[:one_commit])
+        ingester.ingest(path: path, is_one_commit: @opts[:is_one_commit])
       rescue PBCoreIngester::ReadError => e
         $LOG.warn("Failed to read #{path}: #{e.short}")
         fails[:read] << path
@@ -147,12 +157,12 @@ class DownloadCleanIngest
         fails[:other] << path
         next
       else
-        $LOG.info("Successfully added '#{path}' #{'but not committed' if @opts[:one_commit]}")
+        $LOG.info("Successfully added '#{path}' #{'but not committed' if @opts[:is_one_commit]}")
         success << path
       end
     end
 
-    if @opts[:one_commit]
+    if @opts[:is_one_commit]
       $LOG.info('Starting one big commit...')
       ingester.commit
       $LOG.info('Finished one big commit.')
