@@ -580,6 +580,8 @@ hr {
 	/*on the homepage*/
 	.blacklight-home .search-query-form .input-group-lg {
 		border:none;
+		margin:0 auto;
+		width:75%;
 	}
 
 		/*select list*/
