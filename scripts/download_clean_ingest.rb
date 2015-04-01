@@ -32,6 +32,9 @@ class DownloadCleanIngest
       )
     end
     $LOG = Logger.new(log_file_name, 'daily')
+    $LOG.formatter = proc do |severity, datetime, _progname, msg|
+      "#{severity} [#{datetime.strftime('%Y-%m-%d %H:%M:%S')}]: #{msg}\n"
+    end
     puts "logging to #{log_file_name}"
   end
 
