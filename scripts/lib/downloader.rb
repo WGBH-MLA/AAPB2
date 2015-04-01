@@ -2,6 +2,7 @@ require 'open-uri'
 require 'rexml/xpath'
 require 'rexml/document'
 require 'set'
+require_relative 'null_logger'
 
 class Downloader
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
@@ -17,7 +18,7 @@ class Downloader
         match[2].to_i.instance_eval { |m| (1 <= m) && (m <= 12) } &&
         match[3].to_i.instance_eval { |d| (1 <= d) && (d <= 31) }
     end
-    @log = File.basename($PROGRAM_NAME) == 'rspec' ? [] : STDOUT
+    $LOG ||= NullLogger.new
   end
 
   def self.download_to_directory_and_link(args={})
@@ -29,7 +30,7 @@ class Downloader
       args[:ids].each do |id|
         short_id = id.sub(/.*[_\/]/, '')
         url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
-        puts "Downloading #{url}"
+        $LOG.info("Downloading #{url}")
         content = URI.parse(url).read(read_timeout: 240)
         File.write("#{short_id}.pbcore", content)
       end
@@ -72,7 +73,7 @@ class Downloader
     download(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
       File.write(name, collection)
-      @log << "#{Time.now}\tWrote #{name}\n"
+      $LOG.info("Wrote #{name}")
     end
   end
 
@@ -82,26 +83,21 @@ class Downloader
       content = nil
       until content
         begin
-          @log << "#{Time.now}\tTrying #{url}\n"
+          $LOG.info("Trying #{url}")
           content = URI.parse(url).read(read_timeout: 240)
         rescue Net::ReadTimeout
-          @log << "#{Time.now}\tTimeout. Retrying in 10...\n"
+          $LOG.warn("Timeout. Retrying in 10...")
           sleep 10
         end
       end
       if content =~ /^<error>/
-        @log << "#{Time.now}\tPaged past end of results: page #{page}\n"
+        $LOG.info("Paged past end of results: page #{page}")
         return
       else
-        @log << "#{Time.now}\tGot page #{page}\n"
+        $LOG.info("Got page #{page}")
         yield(content, page)
         page += 1
       end
     end
   end
-end
-
-if __FILE__ == $PROGRAM_NAME
-  abort 'No args' unless ARGV.empty?
-  Downloader.download_to_directory_and_link
 end

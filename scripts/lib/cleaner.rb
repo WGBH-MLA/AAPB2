@@ -224,11 +224,3 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     node.parent.elements.delete(node)
   end
 end
-
-if __FILE__ == $PROGRAM_NAME
-  cleaner = Cleaner.new
-  ARGV.each do |path|
-    dirty_xml = File.read(path)
-    puts cleaner.clean(dirty_xml, path)
-  end
-end
