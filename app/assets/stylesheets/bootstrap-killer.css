@@ -16,10 +16,19 @@
 }
 
 .btn-default, 
-.facets-toggle {
+.facets-toggle,
+#sort-dropdown .dropdown-toggle, 
+#per_page-dropdown .dropdown-toggle ,
+#sort-dropdown .dropdown-toggle .caret,
+#per_page-dropdown .dropdown-toggle .caret{
 	color: #FFF;
 	background-color: #90298E;
 }
+
+	.facets-toggle .icon-bar {
+		  background-color: #FFF;	
+	}
+
 
 .btn-primary {
 	color: white;
@@ -72,6 +81,7 @@
   background-color: #653090;
 }
 
+
 	/* In a Carousel */
 	.carousel .btn-group .btn-default {
 		background-color:rgba(255,255,255,.2);
@@ -81,6 +91,12 @@
 			background-color:rgba(255,255,255,.1);
 		}
 
+
+/* Facet Button dropdown on search page - "Limit Your Search" */
+.facets-toggle {
+	background-color:transparent;
+	margin: -7px 0 0;
+}
 
 
 /* -------------------- */
@@ -222,7 +238,7 @@
 
 
 /* -------------------- */
-/* PANEL ---------- */
+/* NAKED PANEL ---------- */
 /* -------------------- */
 
 .naked-panel {
@@ -238,6 +254,7 @@
 		border:none;
 		padding:0;
 	}
+
 
 
 
@@ -312,10 +329,6 @@
 	width:35%;
 }
 
-	/* Hover State */
-	/*.home-carousel .list-group-item:hover {
-		background-color:transparent;
-	}*/
 
 
 /* THe Caption */
@@ -364,10 +377,16 @@
 		 	display:none;
 		 }
 
+		/* LIST GROUP */
+		 .list-group .list-group-item {
+			background-color:transparent;
+			border:0;
+			border-radius:0;
+			margin:0;
+			padding:0;
+		}
 
-
-
-				
+			
 
 /* -------------------- */
 /* BREAKPOINTS ---------- */
@@ -383,7 +402,6 @@
 	.navbar > .container-fluid .navbar-brand {
 	  margin-left: 0;
 	}
-
 
 
 
@@ -466,6 +484,7 @@
 			background-color:rgba(255,255,255,.1);
 			position:static;
 		}
+
 
 	/* THe Caption */
 			/* The Title */

@@ -31,7 +31,79 @@
 		width:98%;
 	}
 
+/* Homepage Relative Nav */
+/*This is on hold for the time being*/
+.sticky-well {
+	background-color: rgba(255,255,255,.25);
+	border:0;
+	border-radius:0;
+	box-shadow:none;
+	height:50px;
+	margin:2em 0;
+	padding:0;
+	text-align:center;
+}
+	
+	/*This is when it gets picked up by then Affix plugin*/
+	.sticky-well.affix {
+		background:#FFF url(/site-ui/aapb-site-sprite.png) repeat-x 0 -7px;
+		border-bottom:1px solid #CCC;
+		height:60px;
+		left:0;
+		margin:0;
+		top:0;
+		width:100%;
+		z-index:10000!important;
+	}
 
+		.sticky-well .btn-group {
+			margin:0 auto;
+			width:auto;
+		}
+
+		.sticky-well.affix .btn-group {
+			margin-top:6px;
+			width:auto;
+		}
+
+
+/* Home Rel Nav Styles */
+.home-rel-nav .btn,
+.home-rel-nav .btn:active {
+	-webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.home-rel-nav .btn-default {
+	color: #FFF;
+	background-color: transparent;
+	border:none;
+	font-size:1em;
+	line-height: 50px;
+	padding:0 .85em;
+	text-transform:uppercase;
+}
+
+	.home-rel-nav.affix .btn-default {
+		color: #004840;
+	}
+
+	.home-rel-nav .btn:hover {
+		background-color: rgba(255,255,255,.35);
+	}
+
+
+		.home-rel-nav.affix .home-rel-nav-welcome {
+			background:url(/site-ui/logo-mobile.png) no-repeat center 0;
+			height:60px;
+			margin:0;
+			padding:0;
+			text-indent:-9999em;
+			width:60px;
+		}
+
+
+>>>>>>> latest ui updates
 
 /* -------------------- */
 /* WELCOME PANEL ---------- */
@@ -155,7 +227,7 @@
 
 	/* Remove border radius */
 	.blacklight-home .jumbotron {
-		padding:1em;
+		padding:2em 1em;
 	}
 
 	/*Set .container width on Homepage Jumbotron*/

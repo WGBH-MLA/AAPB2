@@ -7,7 +7,9 @@
     </div>
 
     <!-- Panel - Search -->
-    <div class="panel panel-default large-search naked-panel" id="home-search">
+
+    <div class="panel panel-default search-panel naked-panel" id="home-search">
+
       <div class="panel-body">
           <%= render partial: 'catalog/search_form_big'  %>
       </div>
@@ -15,12 +17,17 @@
     
     <%= render partial: 'shared/featured_carousel', locals: { gallery: 'home' } %>
 
+
+    <!-- Panel - Welcome Text Blocks -->
+
     <div class="row" id="welcome-panel">
       <div class="col-md-6 column">
 
         <h6>About the AAPB</h6>
-        <p class="list-group-item-text">We are a collaboration between WGBH and the Library of Congress with a long-term vision to identify and preserve as much as possible the historical record of publicly funded broadcasting in America.</p>
-        <!-- why? <p class="list-group-item-text"></p> -->
+
+        <h3 class="list-group-item-heading">A Collaboration with a Long-Term Vision</h3>
+        <p class="list-group-item-text">We are a collaboration between WGBH and the Library of Congress with a long-term vision to identify and preserve, as much as possible the historical record of publicly funded broadcasting in America.</p>
+        
 
         <div class="btn-group" role="group" aria-label="...">
           <a href="/about-the-american-archive" title="Learn More About the AAPB" class="btn btn-link btn-sm">Learn More</a>
@@ -29,6 +36,7 @@
 
 
       </div>
+     
       <div class="col-md-6 column">
         <%= render partial: 'home/blog'  %>
       </div>
