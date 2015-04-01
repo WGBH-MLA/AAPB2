@@ -331,6 +331,11 @@ h4 {
     padding: 0 1em;
   }
 
+  /* Catalog Thumb title */
+  .thumbnail h4.index_title {
+    margin:1em 0;
+  }
+
 
 h5 {
   font-size: 1em;

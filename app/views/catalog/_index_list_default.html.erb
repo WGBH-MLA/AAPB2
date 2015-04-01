@@ -3,13 +3,6 @@
   <% # header bar for doc items in index view -%>
   <div class="documentHeader media"><!-- Document Header -->
 
-    <div class="panel panel-default media-panel">
-      <div class="panel-heading">
-        <h2 class="panel-title" title="<%= pbcore.title %>">
-          <%= link_to_document(document, pbcore.title) %>
-        </h2>
-      </div>
-      <div class="panel-body">
         
         <!-- Start Grid -->
         <div class="row">
@@ -26,6 +19,8 @@
 
           <!-- START Column -->
           <div class="col-md-9">
+
+            <h2><%= link_to_document(document, pbcore.title) %></h2>
 
             <% pbcore.descriptions.each do |description| %>
               <p><%= description %></p>
@@ -49,8 +44,7 @@
           <!-- END Column -->
         </div>
           <!-- END Grid -->
-      </div><!-- END Panel Body -->
-    </div><!-- END Panel -->
+
 
 
     <% # bookmark functions for items/docs -%>
