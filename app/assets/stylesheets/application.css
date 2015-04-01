@@ -309,6 +309,7 @@ hr {
 
 	.featured-carousel .list-group-item {
 		background-color:#FFF;
+		border:none;
 		float:none;
 		margin:0 0 1px;
 		overflow:hidden;
@@ -524,9 +525,6 @@ hr {
 		width:100%;
 	}
 
-
-/* -------------------- */
-/* ORG Jumbotron ---------- */
 
 /* field */
 .search-query-form .input-group .form-control {
