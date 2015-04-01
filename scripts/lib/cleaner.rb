@@ -158,6 +158,10 @@ class Cleaner # rubocop:disable Metrics/ClassLength
         REXML::Element.new('instantiationMediaType')
       )
     }
+    
+    match_no_report(doc, '/pbcoreInstantiation/instantiationDimensions/@unitOfMeasure') { |node|
+      node.name = 'unitsOfMeasure'
+    }
 
     match(doc, '/pbcoreInstantiation/instantiationMediaType' \
       '[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
