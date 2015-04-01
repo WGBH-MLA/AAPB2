@@ -151,7 +151,6 @@
 	  width: 90%;
 	}
 
-<<<<<<< HEAD
 /* --------- */
 /* FOOTER STYLES --------- */
 /* --------- */
@@ -420,14 +419,11 @@ hr {
 /* This is a record display in a search result*/
 
 #documents .document {
-	margin-top: 0;
-	padding-top: 0;
-
+	margin-top:0;
+	padding-top:0;
 	margin-bottom:2em;
 	padding-bottom:2em;
 }
-
-.blacklight-catalog .document .media {}
 
 /* Image container */
 .blacklight-catalog .document .media-left {
@@ -456,7 +452,6 @@ hr {
 		dt {
 			color:#9f2064;
 			margin:0 0 .75em;
-
 		}
 
 		dd {
@@ -472,8 +467,6 @@ hr {
 		.media-body dd {
 			margin:0;
 		}
-
-
 
 		/*Trcky dl*/
 		dl:after {
@@ -634,7 +627,6 @@ hr {
 /* thumb display */
 .media-thumb {
 	text-align:center;
-
 	background: rgba(255,255,255,1);
 	background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(233,233,233,1) 100%);
 	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(15%, rgba(255,255,255,1)), color-stop(100%, rgba(233,233,233,1)));
@@ -677,7 +669,6 @@ hr {
 /* thumb display */
 .media-thumb {
 	text-align:center;
-
 	background: rgba(255,255,255,1);
 	background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 15%, rgba(233,233,233,1) 100%);
 	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(15%, rgba(255,255,255,1)), color-stop(100%, rgba(233,233,233,1)));
