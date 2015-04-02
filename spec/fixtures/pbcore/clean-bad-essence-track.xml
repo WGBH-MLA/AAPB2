@@ -1,0 +1,77 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreIdentifier source='WNYC Archive Catalog'>72208</pbcoreIdentifier>
+  <pbcoreIdentifier source='pbcore XML database UUID'>986dd7a4-fd14-4e51-ab8b-3dbea66fd504</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/80-12893j6c</pbcoreIdentifier>
+  <pbcoreTitle titleType='Episode'>Judd Hirsch</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>This is My Music</pbcoreTitle>
+  <pbcoreTitle titleType='Collection'>WQXR</pbcoreTitle>
+  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcoreRelation>
+    <pbcoreRelationType>Is Part Of</pbcoreRelationType>
+    <pbcoreRelationIdentifier>WQXR</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreContributor>
+    <contributor>Moss, Lloyd</contributor>
+    <contributorRole>Host</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Hirsch, Judd</contributor>
+    <contributorRole>Guest</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>WQXR</publisher>
+    <publisherRole>Publisher</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WNYC Media Archive Label'>72208.1</instantiationIdentifier>
+    <instantiationIdentifier source='pbcore XML database UUID'>f60bd50b-1471-4afb-bbdb-700a3ef1e3ed</instantiationIdentifier>
+    <instantiationDate dateType='broadcast'>1983-11-12</instantiationDate>
+    <instantiationDimensions>Reel</instantiationDimensions>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>WNYC Archives</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Audio/Master mix</instantiationGenerations>
+    <instantiationDuration>00:53:22</instantiationDuration>
+    <instantiationTracks>Half-Track</instantiationTracks>
+    <instantiationChannelConfiguration>Stereo</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='WNYC Media Archive Label'>Hirsch 72208.1 TIMM</essenceTrackIdentifier>
+      <essenceTrackPlaybackSpeed>7.5</essenceTrackPlaybackSpeed>
+      <essenceTrackDuration>53:22:00</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='duration approximate'>n</instantiationAnnotation>
+    <instantiationAnnotation annotationType='date approximate'>n</instantiationAnnotation>
+    <instantiationAnnotation annotationType='Alternate Generation'>Audio/Master mix</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WNYC Media Archive Label'>72208.2</instantiationIdentifier>
+    <instantiationIdentifier source='pbcore XML database UUID'>e32fed4d-801f-46c1-99c0-d72fceba7306</instantiationIdentifier>
+    <instantiationDate dateType='broadcast'>1983-11-12</instantiationDate>
+    <instantiationDate dateType='created'>2012-01-06</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationLocation>DAVID</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationChannelConfiguration>Stereo</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='DAVID'>WQXR-TIMM-1983-11-12-72208.2 Judd Hirsch</essenceTrackIdentifier>
+      <essenceTrackEncoding>Linear PCM</essenceTrackEncoding>
+      <essenceTrackSamplingRate>96 kHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>53:22:00</essenceTrackDuration>
+      <essenceTrackAnnotation>
+        \\wnycdavidmedia\media$\Archives
+        96k\PB7-ARCH-DAWA_E25C9590F422410DA9EE5076F83416DD.WAV
+      </essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-03 03:00:54</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WNYC-FM</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

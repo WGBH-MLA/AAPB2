@@ -1,0 +1,2 @@
+swapped pbcoreRelation children
+	dirty-yes-fix-bad-essence-track.xml
