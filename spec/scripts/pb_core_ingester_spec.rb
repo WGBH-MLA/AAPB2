@@ -5,12 +5,12 @@ describe PBCoreIngester do
   let(:path) { File.dirname(File.dirname(__FILE__)) + '/fixtures/pbcore/clean-MOCK.xml' }
 
   before(:each) do
-    @ingester = PBCoreIngester.new(same_mount: true)
+    @ingester = PBCoreIngester.new(is_same_mount: true)
     @ingester.delete_all
   end
 
   it 'fails without same_mount' do
-    expect { PBCoreIngester.new(same_mount: false) }.to raise_error
+    expect { PBCoreIngester.new(is_same_mount: false) }.to raise_error
   end
 
   it 'fails with non-existent file' do
@@ -52,7 +52,7 @@ describe PBCoreIngester do
     Dir[glob].each do |fixture_path|
       expect { @ingester.ingest(path: fixture_path) }.not_to raise_error
     end
-    expect_results(19)
+    expect_results(23)
   end
 
   def expect_results(count)
