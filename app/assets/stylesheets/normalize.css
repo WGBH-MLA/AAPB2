@@ -137,6 +137,9 @@ a:link,
 a:visited {
   color:#5D60AB;
 }
+a#startOverLink {
+  color: #3C439B; 
+}
 
   /* Links as buttons */
   .btn:link,
