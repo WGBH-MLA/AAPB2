@@ -17,7 +17,7 @@ class OverrideController < ApplicationController
         # This is wrong, but not worth a full xml parse.
         @page_title = @title
         params[:path] = nil # search widget grabs ALL parameters.
-        render file: 'override-containers/md-container.erb'
+        render file: 'override-containers/md_container.erb'
         return
       end
     end
