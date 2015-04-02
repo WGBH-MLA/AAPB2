@@ -12,6 +12,7 @@ module ValidationHelper
     attribute_re = %q{(?:\\s+\\w+\\s*=\\s*(?:"[^"]*"|'[^']*'))}
     xhtml.gsub!(/(<\w+#{attribute_re}*\s+\w+)(#{attribute_re}*\/?>)/, '\1=""\2')
 
+    xhtml.gsub!(/<iframe[^>]+><\/iframe>/, '<!-- iframe was here -->')
     REXML::Document.new(xhtml)
   rescue => e
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")

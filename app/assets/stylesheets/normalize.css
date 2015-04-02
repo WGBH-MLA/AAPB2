@@ -203,6 +203,11 @@ blockquote {
     font-size:1em;
   }
 
+  /*A Facet the is selected*/
+  .facet-values li .selected {
+    color:#9F2064;
+  }
+
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari 5, and Chrome.
@@ -245,13 +250,18 @@ h1 {
   .page-header h1 {
     background-color:#292A72; /* This is the default background color */
     color:#FFF;
-    font-size:1.125em;
+    font-size:1.5em;
     font-weight:100;
     line-height:40px;
     margin:0 0 1em 0;
     padding:0 1em;
 
   }
+
+    /*Organizations page*/
+    .blacklight-organizations-show .page-header h1 {
+      margin:0;
+    }
 
     /* Sectional Page Header Styles */
 
@@ -320,10 +330,16 @@ h4 {
 
   /* Column Nav Header */
   .column .navbar-header h4 {
+    float:left;
     font-size: 1.143em;
     font-weight: 400;
     line-height: 50px;
     padding: 0 1em;
+  }
+
+  /* Catalog Thumb title */
+  .thumbnail h4.index_title {
+    margin:1em 0;
   }
 
 

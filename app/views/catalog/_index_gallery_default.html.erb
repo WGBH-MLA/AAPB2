@@ -1,7 +1,7 @@
 <% PBCore.new(document.instance_variable_get('@_source')['xml']).tap do |pbcore| %>
 
   <% # header bar for doc items in index view -%>
-  <div class="documentHeader row">
+  <div class="documentHeader">
 
   <%# main title container for doc partial view 
   How many bootstrap columns need to be reserved
@@ -10,7 +10,7 @@
 
 
     <img src="<%= pbcore.img_src %>" alt="thumbnail of <%= pbcore.title %>"/>
-    <h4 class="index_title col-sm-9 col-lg-10">
+    <h4 class="index_title">
       <%= link_to_document(document, pbcore.title) %>
     </h4>
 

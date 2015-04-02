@@ -2,11 +2,12 @@
 
 <% content_for :sidebar do %>
   <%= render layout: 'shared/sidebar_nav', locals: { title: 'States' } do %>
-    <%= state_list.keys.map{|state| "<li class='active'><a href='\##{state}' title='#{state}' >#{state}</a></li>"}.join('').html_safe %>
+    <%= state_list.keys.map{|state| "<li><a href='\##{state}' title='#{state}' >#{state}</a></li>"}.join('').html_safe %>
   <% end %>
 <% end %>
 
 <% content_for :main do %>
+
   <% state_list.each do |state,orgs| %>
     <a name="<%= state %>"></a>
     <div class="panel panel-default org-state">

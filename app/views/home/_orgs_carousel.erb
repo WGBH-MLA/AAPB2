@@ -3,7 +3,9 @@
   <p>Learn about the history, significant productions, and archive contributions of more than 120 public media stations and archives.</p>
 </div>
 
-<div id="orgs-carousel" class="carousel slide featured-carousel naked-panel" data-ride="carousel">
+
+<div id="orgs-carousel" class="carousel slide featured-carousel" data-ride="carousel">
+
   <div class="carousel-inner clearfix" role="listbox">
 
     <% Organization.all.select { |org| org.history_html }.shuffle.each_slice(3).each_with_index do |orgs, index| %>
