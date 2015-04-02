@@ -273,7 +273,7 @@ hr {
 }
 
 	.featured-carousel .list-group-item {
-		background-color:#FFF;
+		background-color:rgba(23,16,40,.05);
 		border:none;
 		float:none;
 		margin:0 0 1px;
@@ -734,132 +734,10 @@ hr {
 	}
 
 
-/* -------------------- */
-/* FEQTURED CAROUSEL ---------- */
-/* -------------------- */
 
-.featured-carousel .list-group-item {
-	float:left;
-	height:300px;
-	margin:0 .25%;
-	overflow:hidden;
-	position:relative;
-	width:32.833%;
-	text-align:center;
-	overflow:hidden;
-	position:relative;
-}
-
-	/* THe Caption */
-.featured-carousel .list-group-item .carousel-caption,
-.featured-carousel a.list-group-item .list-group-item-heading {
-	color: #FFF;
-}
-
-	
-	/* The Title/Attribution */
-	.featured-carousel .list-group-item .carousel-caption h3,
-	.featured-carousel .list-group-item .carousel-caption h4,
-	.featured-carousel .list-group-item .carousel-caption p {
-		color: #FFF;
-	}
-	
-	/*Orgs caroiusel*/
-	#orgs-carousel.featured-carousel .list-group-item {
-		min-height:300px;
-	}
-
-/* The Image */
-.featured-carousel .list-group-item img {
-	float:none;
-	height:100%;
-	width:auto;
-	max-width:none;
-	-webkit-transition: all 4s ease-in-out;
-  transition: all 4s ease-in-out;
-
-  position: absolute;
-  top: -9999px;
-  bottom: -9999px;
-  left: -9999px;
-  right: -9999px;
-  margin: auto;
-}
-
-	/* Hover State */
-	.featured-carousel .list-group-item:hover {
-		background-color:transparent;
-	}
-
-
-/* THe Caption */
-.featured-carousel .list-group-item .carousel-caption {
-	background-color:#171028;
-	background-color:rgba(23,16,40,.85);
-	bottom:0;
-	display:block;
-	left:0;
-	padding:5%;
-	position:absolute;
-	text-align:left;
-	width:100%;
-	z-index:1;
-}
-		
-	/* THe Caption - Stations */
-	#orgs-carousel.featured-carousel .list-group-item .carousel-caption {
-		background-color:transparent;
-		position:static;
-	}
-
-/* Hover: THe Caption */
-.featured-carousel .list-group-item:hover .carousel-caption {
-	background-color:#171028;
-	background-color:rgba(23,16,40,1);
-
-}
-
-/*Hover State*/
-.featured-carousel .list-group-item:hover h3 {
-	text-decoration:underline;
-}
-
-	/* Hover State */
-	.featured-carousel .list-group-item:hover img {
-		-webkit-transform: scale(1.2);
-    transform: scale(1.2);
-	}
-
-	/* Hiover State - Stations */
-	#orgs-carousel.featured-carousel .list-group-item:hover {
-		background-color:rgba(255,255,255,.1);
-		position:static;
-	}
-
-/* THe Caption */
-		/* The Title */
-		.featured-carousel .list-group-item .carousel-caption h3 {
-			font-size: 1.2em;
-		}
-
-		.featured-carousel .list-group-item .carousel-caption h4 {
-			font-size: 1em;
-			margin-bottom:1em;
-			text-transform:uppercase;
-		}
-
-			.featured-carousel .list-group-item .carousel-caption .description {
-			 	display:block;
-			 }
-
-		/* The Attribution */
-		.featured-carousel .list-group-item .carousel-caption p {
-			font-size: 1em;
-		}
 
 
 /* -------------------- */
->>>>>>> latest ui updates
 /* CATALOG ---------- */
 /* -------------------- */
 	
@@ -1043,6 +921,130 @@ hr {
 	.blacklight-catalog .document .media-left {
 		width:25%;
 	}
+
+
+/* -------------------- */
+/* FEQTURED CAROUSEL ---------- */
+/* -------------------- */
+
+.featured-carousel .list-group-item {
+	float:left;
+	height:300px;
+	margin:0 .25%;
+	overflow:hidden;
+	position:relative;
+	width:32.833%;
+	text-align:center;
+	overflow:hidden;
+	position:relative;
+}
+
+	/* THe Caption */
+.featured-carousel .list-group-item .carousel-caption,
+.featured-carousel a.list-group-item .list-group-item-heading {
+	color: #FFF;
+}
+
+	
+	/* The Title/Attribution */
+	.featured-carousel .list-group-item .carousel-caption h3,
+	.featured-carousel .list-group-item .carousel-caption h4,
+	.featured-carousel .list-group-item .carousel-caption p {
+		color: #FFF;
+	}
+	
+	/*Orgs caroiusel*/
+	#orgs-carousel.featured-carousel .list-group-item {
+		min-height:300px;
+	}
+
+/* The Image */
+.featured-carousel .list-group-item img {
+	float:none;
+	height:100%;
+	width:auto;
+	max-width:none;
+	-webkit-transition: all 4s ease-in-out;
+  transition: all 4s ease-in-out;
+
+  position: absolute;
+  top: -9999px;
+  bottom: -9999px;
+  left: -9999px;
+  right: -9999px;
+  margin: auto;
+}
+
+	/* Hover State */
+	.featured-carousel .list-group-item:hover {
+		background-color:transparent;
+	}
+
+
+/* THe Caption */
+.featured-carousel .list-group-item .carousel-caption {
+	background-color:#171028;
+	background-color:rgba(23,16,40,.85);
+	bottom:0;
+	display:block;
+	left:0;
+	padding:5%;
+	position:absolute;
+	text-align:left;
+	width:100%;
+	z-index:1;
+}
+		
+	/* THe Caption - Stations */
+	#orgs-carousel.featured-carousel .list-group-item .carousel-caption {
+		background-color:transparent;
+		position:static;
+	}
+
+/* Hover: THe Caption */
+.featured-carousel .list-group-item:hover .carousel-caption {
+	background-color:#171028;
+	background-color:rgba(23,16,40,1);
+
+}
+
+/*Hover State*/
+.featured-carousel .list-group-item:hover h3 {
+	text-decoration:underline;
+}
+
+	/* Hover State */
+	.featured-carousel .list-group-item:hover img {
+		-webkit-transform: scale(1.2);
+    transform: scale(1.2);
+	}
+
+	/* Hiover State - Stations */
+	#orgs-carousel.featured-carousel .list-group-item:hover {
+		background-color:rgba(255,255,255,.1);
+		position:static;
+	}
+
+/* THe Caption */
+		/* The Title */
+		.featured-carousel .list-group-item .carousel-caption h3 {
+			font-size: 1.2em;
+		}
+
+		.featured-carousel .list-group-item .carousel-caption h4 {
+			font-size: 1em;
+			margin-bottom:1em;
+			text-transform:uppercase;
+		}
+
+			.featured-carousel .list-group-item .carousel-caption .description {
+			 	display:block;
+			 }
+
+		/* The Attribution */
+		.featured-carousel .list-group-item .carousel-caption p {
+			font-size: 1em;
+		}
 
 
 	

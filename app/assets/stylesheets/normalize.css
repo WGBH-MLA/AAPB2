@@ -250,7 +250,7 @@ h1 {
   .page-header h1 {
     background-color:#292A72; /* This is the default background color */
     color:#FFF;
-    font-size:1.125em;
+    font-size:1.5em;
     font-weight:100;
     line-height:40px;
     margin:0 0 1em 0;
@@ -330,6 +330,7 @@ h4 {
 
   /* Column Nav Header */
   .column .navbar-header h4 {
+    float:left;
     font-size: 1.143em;
     font-weight: 400;
     line-height: 50px;

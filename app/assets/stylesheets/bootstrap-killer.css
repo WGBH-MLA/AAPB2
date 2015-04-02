@@ -283,7 +283,7 @@
 	}
 
 
-	/* Special NavBar - Collapses early - This is for a navbar in a .column --------- */
+	/* Special NavBar - Collapses early --------- */
 	.column .navbar-header {
         float: none;
     }
@@ -307,7 +307,7 @@
 	    }
 	    .column .navbar-nav {
 	      float: none!important;
-	      margin:0;
+				margin: 0!important;
 			}
 		.column .navbar-nav>li {
 	        float: none;
@@ -328,11 +328,14 @@
 /* Desktop ---------- */
 @media (min-width: 992px) {
 
-
-	/* Special NavBar - Collapses early - This is for a navbar in a .column --------- */
+	/* Special NavBar - Collapses early --------- */
 	
     .column .navbar-toggle {
         display: none;
+    }
+    .column .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
     }
     
 	    .column .navbar-collapse.collapse {

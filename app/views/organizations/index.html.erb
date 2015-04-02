@@ -2,7 +2,7 @@
 
 <% content_for :sidebar do %>
   <%= render layout: 'shared/sidebar_nav', locals: { title: 'States' } do %>
-    <%= state_list.keys.map{|state| "<li class='active'><a href='\##{state}' title='#{state}' >#{state}</a></li>"}.join('').html_safe %>
+    <%= state_list.keys.map{|state| "<li><a href='\##{state}' title='#{state}' >#{state}</a></li>"}.join('').html_safe %>
   <% end %>
 <% end %>
 
