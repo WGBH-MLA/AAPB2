@@ -13,7 +13,7 @@ class ParamsError < StandardError
 end
 
 class DownloadCleanIngest
-  ONE_COMMIT = '--one-commit'
+  BATCH_COMMIT = '--batch-commit'
   SAME_MOUNT = '--same-mount'
   STDOUT_LOG = '--stdout-log'
   ALL = '--all'
@@ -23,35 +23,19 @@ class DownloadCleanIngest
   IDS = '--ids'
   ID_FILES = '--id-files'
 
-  def log_init(is_stdout_log, argv)
-    log_file_name = if is_stdout_log
-      STDOUT
-    else
-      File.join(
-        File.dirname(File.dirname(__FILE__)), 'log',
-        "ingest-#{argv[0..4].map{|a| a.sub('--','')}.join('-')}.log"
-      )
-    end
-    $LOG = Logger.new(log_file_name, 'daily')
-    $LOG.formatter = proc do |severity, datetime, _progname, msg|
-      "#{severity} [#{datetime.strftime('%Y-%m-%d %H:%M:%S')}]: #{msg}\n"
-    end
-    puts "logging to #{log_file_name}"
-  end
-
   def initialize(argv)
     orig = argv.clone
     
-    is_one_commit = argv.include?(ONE_COMMIT)
-    argv.delete(ONE_COMMIT) if is_one_commit
+    @is_batch_commit = argv.include?(BATCH_COMMIT)
+    argv.delete(BATCH_COMMIT) if @is_batch_commit
 
-    is_same_mount = argv.include?(SAME_MOUNT)
-    argv.delete(SAME_MOUNT) if is_same_mount
+    @is_same_mount = argv.include?(SAME_MOUNT)
+    argv.delete(SAME_MOUNT) if @is_same_mount
 
-    is_stdout_log = argv.include?(STDOUT_LOG)
-    argv.delete(STDOUT_LOG) if is_stdout_log
+    @is_stdout_log = argv.include?(STDOUT_LOG)
+    argv.delete(STDOUT_LOG) if @is_stdout_log
     
-    log_init(is_stdout_log, orig)
+    log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{$PROGRAM_NAME} #{orig.join(' ')}")
     
     mode = argv.shift
@@ -62,29 +46,29 @@ class DownloadCleanIngest
 
       when ALL
         fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-        target_dirs = [Downloader.download_to_directory_and_link(page: args.first.to_i)]
+        target_dirs = [Downloader.download_to_directory_and_link({page: args.first.to_i}, @is_same_mount)]
 
       when BACK
         fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
-        target_dirs = [Downloader.download_to_directory_and_link(days: args.first.to_i)]
-
+        target_dirs = [Downloader.download_to_directory_and_link({days: args.first.to_i}, @is_same_mount)]
+        
+      when IDS
+        fail ParamsError.new unless args.count >= 1
+        target_dirs = [Downloader.download_to_directory_and_link({ids: args}, @is_same_mount)]
+        
+      when ID_FILES
+        fail ParamsError.new unless args.count >= 1
+        ids = args.map { |id_file| File.readlines(id_file).map { |line| line.strip } }.flatten
+        target_dirs = [Downloader.download_to_directory_and_link({ids: ids}, @is_same_mount)]
+        
       when DIRS
         fail ParamsError.new if args.empty? || args.map { |dir| !File.directory?(dir) }.any?
         target_dirs = args
 
       when FILES
         fail ParamsError.new if args.empty?
-        files = args
-
-      when IDS, ID_FILES
-        fail ParamsError.new unless args.count >= 1
-        ids = if mode == ID_FILES
-          args.map { |id_file| File.readlines(id_file) }.flatten
-        else
-          args
-        end
-        target_dirs = [Downloader.download_to_directory_and_link(ids: ids)]
-
+        @files = args
+        
       else
         fail ParamsError.new
       end
@@ -92,39 +76,61 @@ class DownloadCleanIngest
       abort usage_message()
     end
 
-    files ||= target_dirs.map do |target_dir|
+    @files ||= target_dirs.map do |target_dir|
       Dir.entries(target_dir)
       .reject { |file_name| ['.', '..'].include?(file_name) }
       .map { |file_name| "#{target_dir}/#{file_name}" }
     end.flatten.sort
-
-    @opts = {files: files, is_one_commit: is_one_commit, is_same_mount: is_same_mount}
+  end
+  
+  def log_init(argv)
+    log_file_name = if @is_stdout_log
+      STDOUT
+    else
+      File.join(
+        File.dirname(File.dirname(__FILE__)), 'log',
+        "ingest-#{argv.grep(/--/).map{|a| a.sub('--','')}.join('-')}.log"
+      )
+    end
+    $LOG = Logger.new(log_file_name, 'daily')
+    $LOG.formatter = proc do |severity, datetime, _progname, msg|
+      "#{severity} [#{datetime.strftime('%Y-%m-%d %H:%M:%S')}]: #{msg}\n"
+    end
+    puts "logging to #{log_file_name}"
+  end
+  
+  def files_init()
+    
   end
 
   def usage_message()
     <<-EOF.gsub(/^ {4}/, '')
       USAGE: #{File.basename($PROGRAM_NAME)} 
-               [#{ONE_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}]
+               [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}]
                ( #{ALL} [PAGE] | #{BACK} DAYS
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ... 
                  | #{FILES} FILE ... | #{DIRS} DIR ... )
-        #{ONE_COMMIT}: Optionally, make just one commit at the end, rather than
+
+      boolean flags:
+        #{BATCH_COMMIT}: Optionally, make just one commit at the end, rather than
           one commit per file.
         #{SAME_MOUNT}: Optionally, allow same mount point for the script and the
           solr index. This is what you want in development, but the default, to
           disallow this, would have stopped me from running out of disk many times.
         #{STDOUT_LOG}: Optionally, log to stdout, rather than a log file.
+
+      mutually exclusive modes:
         #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
           supply a results page to begin with.
         #{BACK}: Download, clean, and ingest only those records updated in the
           last N days. (I don't trust the underlying API, so give yourself a
           buffer if you use this for daily updates.)
         #{IDS}: Download, clean, and ingest records with the given IDs. Will
-          usually be used in conjunction with #{ONE_COMMIT}, rather than
+          usually be used in conjunction with #{BATCH_COMMIT}, rather than
           committing after each record.
         #{ID_FILES}: Read the files, and then download, clean, and ingest records
           with the given IDs. Again, this will usually be used in conjunction 
-          with #{ONE_COMMIT}, rather than committing after each record.
+          with #{BATCH_COMMIT}, rather than committing after each record.
         #{FILES}: Clean and ingest the given files.
         #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
           could suffice in many cases, for large directories it might not work,
@@ -135,11 +141,11 @@ class DownloadCleanIngest
   def process()
     fails = { read: [], clean: [], validate: [], add: [], other: [] }
     success = []
-    ingester = PBCoreIngester.new(is_same_mount: @opts[:is_same_mount])
+    ingester = PBCoreIngester.new(is_same_mount: @is_same_mount)
 
-    @opts[:files].each do |path|
+    @files.each do |path|
       begin
-        ingester.ingest(path: path, is_one_commit: @opts[:is_one_commit])
+        ingester.ingest(path: path, is_batch_commit: @is_batch_commit)
       rescue PBCoreIngester::ReadError => e
         $LOG.warn("Failed to read #{path}: #{e.short}")
         fails[:read] << path
@@ -157,12 +163,12 @@ class DownloadCleanIngest
         fails[:other] << path
         next
       else
-        $LOG.info("Successfully added '#{path}' #{'but not committed' if @opts[:is_one_commit]}")
+        $LOG.info("Successfully added '#{path}' #{'but not committed' if @is_batch_commit}")
         success << path
       end
     end
 
-    if @opts[:is_one_commit]
+    if @is_batch_commit
       $LOG.info('Starting one big commit...')
       ingester.commit
       $LOG.info('Finished one big commit.')

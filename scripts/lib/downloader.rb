@@ -3,6 +3,7 @@ require 'rexml/xpath'
 require 'rexml/document'
 require 'set'
 require_relative 'null_logger'
+require_relative 'mount_validator'
 
 class Downloader
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
@@ -21,13 +22,13 @@ class Downloader
     $LOG ||= NullLogger.new
   end
 
-  def self.download_to_directory_and_link(args={})
-    fail("Unexpected keys: #{args}") unless Set.new(args.keys).subset?(Set[:days, :page, :ids])
-    fail('ids is exclusive') if args[:ids] && args.keys.size > 1
+  def self.download_to_directory_and_link(opts={}, is_same_mount)
+    fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(Set[:days, :page, :ids])
+    fail('ids is exclusive') if opts[:ids] && opts.keys.size > 1
     now = Time.now.strftime('%F_%T')
-    if args[:ids]
-      mkdir_and_cd("#{now}_by_ids_#{args[:ids].size}")
-      args[:ids].each do |id|
+    if opts[:ids]
+      mkdir_and_cd("#{now}_by_ids_#{opts[:ids].size}", is_same_mount)
+      opts[:ids].each do |id|
         short_id = id.sub(/.*[_\/]/, '')
         url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
         $LOG.info("Downloading #{url}")
@@ -35,22 +36,23 @@ class Downloader
         File.write("#{short_id}.pbcore", content)
       end
     else
-      args[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
-      since = if args[:days]
-                (Time.now - args[:days] * 24 * 60 * 60).strftime('%Y%m%d')
+      opts[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
+      since = if opts[:days]
+                (Time.now - opts[:days] * 24 * 60 * 60).strftime('%Y%m%d')
               else
                 '20000101' # ie, beginning of time.
               end
-      mkdir_and_cd("#{now}_since_#{since}_starting_page_#{args[:page]}")
+      mkdir_and_cd("#{now}_since_#{since}_starting_page_#{opts[:page]}", is_same_mount)
       downloader = Downloader.new(since)
-      downloader.download_to_directory(args[:page])
+      downloader.download_to_directory(opts[:page])
     end
     Dir.pwd
   end
 
-  def self.mkdir_and_cd(name)
+  def self.mkdir_and_cd(name, is_same_mount)
     Dir.chdir(File.dirname(File.dirname(File.dirname(__FILE__))))
-    path = ['tmp', 'pbcore', 'download', name]
+    path = ['tmp', 'download', name]
+    $LOG.info("mkdir #{File.join(path)}")
     path.each do |dir|
       begin
         Dir.mkdir(dir)
@@ -59,6 +61,7 @@ class Downloader
       end
       Dir.chdir(dir)
     end
+    MountValidator.validate_mount(Dir.pwd(), 'downloads') unless is_same_mount
 
     Dir.chdir('..')
     link_name = 'LATEST'
@@ -73,7 +76,7 @@ class Downloader
     download(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
       File.write(name, collection)
-      $LOG.info("Wrote #{name}")
+      $LOG.info("Wrote #{File.join([Dir.pwd(), name])}")
     end
   end
 
