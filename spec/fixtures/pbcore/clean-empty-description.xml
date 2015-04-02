@@ -1,0 +1,33 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreIdentifier source='MARS Asset Record ID'>A_1LLRRAJ8TCCKZCH</pbcoreIdentifier>
+  <pbcoreIdentifier source='MARS Source Creation Order'>275829</pbcoreIdentifier>
+  <pbcoreIdentifier source='WGBH Old File Number'>P03649,W01263</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-042rd7dg</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>MacLeod: The Palace Guard</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>Reading Aloud</pbcoreTitle>
+  <pbcoreDescription/>
+  <pbcoreCreator>
+    <creator>Radio</creator>
+    <creatorRole>Production Unit</creatorRole>
+  </pbcoreCreator>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WGBH Item ID'>88-0009-00-03-008</instantiationIdentifier>
+    <instantiationIdentifier source='WGBH Barcode'>0000221665</instantiationIdentifier>
+    <instantiationDate dateType='created'>1988-05-18</instantiationDate>
+    <instantiationDate dateType='issued'>1988-05-18</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>HOLDINGS_LOCATION = Vault. Vault-ML007834-120-1-8-</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>00:28:50</instantiationDuration>
+    <instantiationTracks>Audio: tracks</instantiationTracks>
+    <instantiationAnnotation annotationType='Alternate Generation'>Radio program (Master)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-22 16:27:47</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

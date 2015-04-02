@@ -32,10 +32,10 @@
     <%= render 'shared/sidebar_search' %>
     <%= render layout: 'shared/sidebar_nav', locals: { title: 'About' } do %>
       <% if @org.history_html %>
-          <li class="active"><a href="#">History</a></li>
+          <li class="active"><a href="#history">History</a></li>
       <% end %>
       <% if @org.productions_html %>
-          <li class="active"><a href="#">Productions</a></li>
+          <li class="active"><a href="#productions">Productions</a></li>
       <% end %>
     <% end %>
 
@@ -46,6 +46,7 @@
   <div class="col-md-8">
 
     <% if @org.history_html %>
+      <a name="history"></a>
       <div class="panel panel-default">
         <div class="panel-heading">
           <h2 class="panel-title">History</h2>
@@ -57,6 +58,7 @@
     <% end %>
 
     <% if @org.productions_html %>
+      <a name="productions"></a>
       <div class="panel panel-default">
         <div class="panel-heading">
           <h2 class="panel-title">Productions</h2>

@@ -1,0 +1,2 @@
+[not(pbcoreTitle)]
+	dirty-yes-fix-rename-attribute.xml

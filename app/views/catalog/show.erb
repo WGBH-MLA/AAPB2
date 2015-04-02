@@ -11,46 +11,10 @@
   
   <% @pbcore.titles.reverse_each do |type,title| %>
     <dl>
-      <dt><%= type %> title</dt>
-      <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
-    </dl>
-  <% end %>
-
-
-  
-
-<div class="page-header">
-  <h1>Records</h1>
-</div>
-
-<!-- START: Main Column -->
-<div class="col-md-8 col-md-push-4">
-
-  <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
-
-  <h1 class="record-title"><%= @pbcore.title %></h1>
-
-  <% if @pbcore.media_src %>
-    <%= render partial: 'catalog/player' %>
-  <% else %>
-    <div class="well well-sm media-thumb">
-      <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
-    </div>
-  <% end %>
-
-
-
-
-  <h2>Titles</h2>
-  
-  <% @pbcore.titles.reverse_each do |type,title| %>
-    <dl>
       <dt><%= type %></dt>
       <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
     </dl>
-  <% end %> 
-  
-
+  <% end %>
 
   <dl>
     <dt>Contributing Organization</dt>
@@ -65,9 +29,6 @@
     </dl>
   <% end %>
 <% end %>
-
-
-
 
 <% content_for :main do %>
   <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
@@ -148,9 +109,6 @@
   <% end %>  
 
 <% end %>
-  
-  
-  
   
 <%= render partial: 'shared/title_sidebar_main', 
      locals: { 

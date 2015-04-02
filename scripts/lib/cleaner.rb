@@ -158,6 +158,10 @@ class Cleaner # rubocop:disable Metrics/ClassLength
         REXML::Element.new('instantiationMediaType')
       )
     }
+    
+    match_no_report(doc, '/pbcoreInstantiation/instantiationDimensions/@unitOfMeasure') { |node|
+      node.name = 'unitsOfMeasure'
+    }
 
     match(doc, '/pbcoreInstantiation/instantiationMediaType' \
       '[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
@@ -165,9 +169,11 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     }
 
     match_no_report(doc, '/pbcoreInstantiation/instantiationLanguage') { |node|
-      # TODO: report
-      node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
-      node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
+      Cleaner.clean_language(node)
+    }
+    
+    match_no_report(doc, '/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackLanguage') { |node|
+      Cleaner.clean_language(node)
     }
 
     # formatting:
@@ -182,6 +188,11 @@ class Cleaner # rubocop:disable Metrics/ClassLength
   end
 
   private
+  
+  def self.clean_language(node)
+    node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
+    node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
+  end
 
   def add_report(category, instance)
     # TODO: I don't think anyone ended up using this. Confirm and delete.

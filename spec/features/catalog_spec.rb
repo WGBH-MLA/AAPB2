@@ -82,12 +82,12 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 2, 'Sound', 6],
+          ['media_type', 2, 'Sound', 8],
           ['genres', 10, 'Interview', 3],
-          ['asset_type', 5, 'Segment', 5],
-          ['organization', 15, 'WGBH+(MA)', 1],
-          ['year', 2, '2000', 1],
-          ['access_types', 2, 'All', 19]
+          ['asset_type', 6, 'Segment', 5],
+          ['organization', 16, 'WGBH+(MA)', 2],
+          ['year', 3, '2000', 1],
+          ['access_types', 2, 'All', 23]
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"
@@ -110,7 +110,7 @@ describe 'Catalog' do
 
       describe 'fields' do
         assertions = [
-          ['all_fields', 'Larry', 2],
+          ['all_fields', 'Larry', 3],
           ['titles', 'Larry', 1],
           ['contribs', 'Larry', 1]
         ]
@@ -132,9 +132,9 @@ describe 'Catalog' do
 
       describe 'sorting' do
         assertions = [
-          ['score+desc', 'Four Decades of Dedication: The 40th Anniversary Special'],
+          ['score+desc', 'Judd Hirsch'],
           ['year+desc', 'Kaboom!'],
-          ['year+asc', 'From Bessie Smith to Bruce Springsteen'],
+          ['year+asc', 'Musical Encounter'],
           ['title+asc', 'World Youth Symphony Orchestra with Concerto Winners - Part II of II (261st program, 50th season)']
         ]
         assertions.each do |sort, title|
@@ -147,7 +147,7 @@ describe 'Catalog' do
               }
             ).to eq(assertions.map { |a| a.first }) # coverage
             expect(page.status_code).to eq(200)
-            expect(page.find('.document[1] .panel-title').text).to eq(title)
+            expect(page.find('.document[1] h2').text).to eq(title)
             expect_fuzzy_xml
           end
         end
