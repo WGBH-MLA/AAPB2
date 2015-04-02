@@ -24,6 +24,11 @@
 	color: #FFF;
 	background-color: #90298E;
 }
+	
+	/* an Active button */
+	.view-type .btn-default.active {
+		background-color: #9F2064;
+	}
 
 	.facets-toggle .icon-bar {
 		  background-color: #FFF;	
@@ -278,12 +283,64 @@
 	}
 
 
+	/* Special NavBar - Collapses early - This is for a navbar in a .column --------- */
+	.column .navbar-header {
+        float: none;
+    }
+    .column .navbar-left,
+    .column .navbar-right {
+        float: none !important;
+    }
+    .column .navbar-toggle {
+        display: block;
+    }
+    .column .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .column .navbar-fixed-top {
+			top: 0;
+			border-width: 0 0 1px;
+		}
+	    .column .navbar-collapse.collapse {
+	        display: none!important;
+	    }
+	    .column .navbar-nav {
+	      float: none!important;
+	      margin:0;
+			}
+		.column .navbar-nav>li {
+	        float: none;
+	    }
+	    .column .navbar-nav>li>a {
+	        padding-top: 10px;
+	        padding-bottom: 10px;
+	    }
+	    .column .collapse.in {
+	  		display:block !important;
+		}
+
+
+
 
 }/* END: Tablet ---------- */
 
 /* Desktop ---------- */
 @media (min-width: 992px) {
 
+
+	/* Special NavBar - Collapses early - This is for a navbar in a .column --------- */
+	
+    .column .navbar-toggle {
+        display: none;
+    }
+    
+	    .column .navbar-collapse.collapse {
+	        display: block!important;
+	    }
+	   
+
+	
 }/* END: Desktop ---------- */
 
 /* Wide Desktop ---------- */

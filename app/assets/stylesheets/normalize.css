@@ -203,6 +203,11 @@ blockquote {
     font-size:1em;
   }
 
+  /*A Facet the is selected*/
+  .facet-values li .selected {
+    color:#9F2064;
+  }
+
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari 5, and Chrome.

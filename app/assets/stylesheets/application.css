@@ -46,7 +46,7 @@
  * HEADER STYLES
  */
 #main-container {
-
+	padding-bottom:3em;
 }
 
 
@@ -130,15 +130,17 @@
 
 	/* logo */
 	.footer-logo {
-		height:auto;
+		background:url(/site-ui/logo.png) no-repeat center 0;
+		background-size:100% auto;
+		display:inline-block;
+		height:41px;
+		margin:0 auto;
 		width:250px;
+		text-indent:-9999em;
 	}
 
 
 	/* Row Two --------- */
-
-	/* the row */
-	.row.two {}
 
 	/*Footer Links*/
 
@@ -150,42 +152,6 @@
 	  padding: 0;
 	  width: 90%;
 	}
-
-/* --------- */
-/* FOOTER STYLES --------- */
-/* --------- */
-
- #footer {
- 	background:#eeeeee url(/site-ui/footer-bg.gif) repeat 0 0;
- 	padding:2em 0;
- 	text-align:center;
- }
-
-	/* Rows! --------- */
-	#footer .row {
-		padding:1em 0;
-	}
-
-	/*Footer list item(s)*/
-	#footer .list-group .list-group-item {
-		background-color:transparent;
-		border:0;
-		border-radius:0;
-		margin:0;
-		padding:0;
-	}
-
-
-	/* Row One --------- */
-
-	/* logo */
-	.footer-logo {
-		height:auto;
-		width:250px;
-	}
-
-
-	/* Row Two --------- */
 
 	/* Lists(s) */
 	.row.two h3 {
@@ -242,6 +208,11 @@
 	margin:0 auto;
 	width:100%;
 }
+	/*list item*/
+	.collab .list-group-item {
+		float:left;
+		width:30%;
+	}
 
 		/*list item - title*/
 		.collab .list-group-item.title {
@@ -276,17 +247,12 @@
 		margin:0 2em;
 	}
 
-
 /* MISC Elements */
 		
 hr {
     border: 0;
     height: 1px;
     background: #999;
-    background-image: -webkit-linear-gradient(left, #D3D3D3, #999, #D3D3D3); 
-    background-image:    -moz-linear-gradient(left, #D3D3D3, #999, #D3D3D3); 
-    background-image:     -ms-linear-gradient(left, #D3D3D3, #999, #D3D3D3); 
-    background-image:      -o-linear-gradient(left, #D3D3D3, #999, #D3D3D3); 
 }
 
 
@@ -1027,6 +993,7 @@ hr {
 
 /* --------- */
 /* NAVBAR in a Column --------- */
+/* Styles only - functionality is in bootstrap-killer.css */
 /* --------- */
 .column .navbar {
 	background-color:#FFF;
@@ -1051,6 +1018,7 @@ hr {
 
 		.column .navbar-default .navbar-nav > li > a {
 			color:#3c439b;
+			background-color:#FFF;
 		}
 
 			.column .navbar-default .navbar-nav > li > a:hover {
