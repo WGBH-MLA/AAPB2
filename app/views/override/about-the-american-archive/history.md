@@ -16,8 +16,7 @@ nearly fifty years ago, efforts and funding to methodically implement a
 nationally coordinated program did not begin in earnest until the advent of the 
 digital age in the 21st century.
 
-##20th Century – A Proposed “Library and Archives of Noncommercial Educational 
-Television or Radio Programs”
+##20th Century – A Proposed “Library and Archives of Noncommercial Educational Television or Radio Programs”
 
 The earliest conception of an archive of public media can be traced back to the 
 Public Broadcasting Act of 1967, which created the Corporation for Public 
