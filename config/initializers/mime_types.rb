@@ -3,3 +3,4 @@
 # Add new mime types for use in respond_to blocks:
 
 Mime::Type.register 'text/xml', :pbcore
+Mime::Type.register 'text/plain', :txt
