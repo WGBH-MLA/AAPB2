@@ -58,3 +58,5 @@ gem 'capybara'
 
 gem 'pry'
 gem 'pry-nav'
+
+gem 'passenger', :group => :production

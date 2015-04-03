@@ -122,6 +122,9 @@ GEM
       mini_portile (~> 0.6.0)
     openseadragon (0.2.0)
       rails (> 3.2.0)
+    passenger (5.0.6)
+      rack
+      rake (>= 0.8.1)
     polyglot (0.3.5)
     pry (0.10.1)
       coderay (~> 1.1.0)
@@ -248,6 +251,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jettywrapper (~> 1.7)
   jquery-rails
+  passenger
   pry
   pry-nav
   rails (= 4.1.2)
