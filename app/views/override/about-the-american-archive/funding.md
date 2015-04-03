@@ -13,3 +13,11 @@ The Corporation for Public Broadcasting (CPB) promotes the growth and developmen
 ![CLIR Logo Image](http://mlamedia01.wgbh.org/aapb/org-logos/clir_logo.png)
 
 The Council on Library and Information Resources (CLIR) awarded WGBH in collaboration with the Library of Congress a Cataloging Hidden Special Collections and Archives grant to lead the National Educational Television (NET) Collection Catalog Project, the first project to build upon the American Archive of Public Broadcasting initiative. This project will involve the creation of a national catalog of records to provide robust descriptions of programs distributed by NET (1952-1972), comprising the earliest public television content.
+
+## Institute of Museum and Library Services
+
+![IMLS Logo Image](http://mlamedia01.wgbh.org/aapb/org-logos/imls_logo.png)
+
+The Institute of Museum and Library Services is the primary source of federal support for the nation’s 123,000 libraries and 35,000 museums. Our mission is to inspire libraries and museums to advance innovation, lifelong learning, and cultural and civic engagement. Our grant making, policy development, and research help libraries and museums deliver valuable services that make it possible for communities and individuals to thrive.
+
+The Laura Bush 21st Century Librarian Program supports projects to recruit and educate the next generation of librarians, faculty, and library leaders; and to support early career research. It also assists in the professional development of librarians and library staff.
