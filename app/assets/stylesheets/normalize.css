@@ -210,6 +210,10 @@ blockquote {
   .facet-values li .selected {
     color:#9F2064;
   }
+  
+  .facet-values .facet-label {
+    word-break: normal; /* BL default has character breaking. */
+  }
 
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
