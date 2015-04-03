@@ -100,10 +100,11 @@
 
        <!-- NOT using marc_display because it is large and will slow things down for search results -->
        <str name="fl">*</str>
+       
+       <str name="facet.mincount">1</str>
 
        <!--
        <str name="facet">true</str>
-       <str name="facet.mincount">1</str>
        <str name="facet.limit">10</str>
        -->
        <!--<str name="facet.field">format</str>-->
