@@ -54,6 +54,8 @@ GEM
     capistrano-bundler (1.1.4)
       capistrano (~> 3.1)
       sshkit (~> 1.2)
+    capistrano-passenger (0.0.1)
+      capistrano (~> 3.0)
     capistrano-rails (1.1.2)
       capistrano (~> 3.1)
       capistrano-bundler (~> 1.1)
@@ -113,7 +115,6 @@ GEM
     minitest (5.5.1)
     multi_json (1.11.0)
     multipart-post (2.0.0)
-    mysql2 (0.3.18)
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (2.9.2)
@@ -238,6 +239,7 @@ PLATFORMS
 DEPENDENCIES
   blacklight
   blacklight-gallery
+  capistrano-passenger
   capistrano-rails
   capybara
   coffee-rails (~> 4.0.0)
@@ -246,7 +248,6 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jettywrapper (~> 1.7)
   jquery-rails
-  mysql2
   pry
   pry-nav
   rails (= 4.1.2)

@@ -45,4 +45,10 @@ namespace :deploy do
     end
   end
 
+  # task :restart do
+  #   on roles(:web, :app) do |host|
+  #     execute "touch #{File.join(current_path,'tmp','restart.txt')}"  
+  #   end
+  # end
+
 end
