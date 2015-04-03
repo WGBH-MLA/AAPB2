@@ -6,8 +6,7 @@ For more information:
 - [About the project](http://americanarchive.org/about-the-american-archive/)
 - [Interim access portal](http://americanarchiveinventory.org/)
 
-The code is deployed at [beta.americanarchive.org](http://beta.americanarchive.org); Its long-term home will be [americanarchive.org](http://americanarchive.org).
-(That currently redirects to the blog.)
+The code is deployed at [americanarchive.org](http://americanarchive.org).
 
 
 # Getting started
