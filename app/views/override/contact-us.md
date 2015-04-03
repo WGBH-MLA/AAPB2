@@ -31,7 +31,7 @@ Library of Congress<br/>
 lsor@loc.gov<br/>
 
 Sadie Roosa<br/>
-Station Outreach & Metadata<br/>
+Metadata Specialist<br/>
 WGBH Educational Foundation<br/>
 sadie_roosa@wgbh.org<br/>
 
