@@ -13,7 +13,7 @@ organizations:
 - [Former project staff of the NDIIPP Preserving Digital Public Television project](http://www.digitalpreservation.gov/partners/documents/pdpt_finalreport0610.pdf)
 - Former staff of the American Archive Content Inventory Project
 - Former staff of the American Archive Pilot Project
-- American Archive of Public Broadcasting interns
+- [American Archive of Public Broadcasting interns](http://blog.americanarchive.org/category/from-the-interns/)
 - [AudioVisual Preservation Solutions (AVPS)](http://www.avpreserve.com/)
 - [Crawford Media Services](http://crawford.com/)
 - [Sony Cloud Media Services](https://www.sonymcs.com/)
