@@ -12,3 +12,5 @@ end
 
 SolrDocument.use_extension(LoadXML) { true }
 # TODO: should we just be able to redefine SolrDocument the normal way?
+
+Blacklight.secret_key = ENV['BLACKLIGHT_SECRET_KEY']
