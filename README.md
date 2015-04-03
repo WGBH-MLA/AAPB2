@@ -1,13 +1,6 @@
 [![Build Status](https://travis-ci.org/WGBH/AAPB2.svg?branch=master)](https://travis-ci.org/WGBH/AAPB2)
 
-The public-facing website of the the *American Archive of Public Broadcasting*.
-
-For more information:
-- [About the project](http://americanarchive.org/about-the-american-archive/)
-- [Interim access portal](http://americanarchiveinventory.org/)
-
-The code is deployed at [americanarchive.org](http://americanarchive.org).
-
+This is the public-facing website of the [*American Archive of Public Broadcasting*](http://americanarchive.org).
 
 # Getting started
 
