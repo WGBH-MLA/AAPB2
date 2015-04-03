@@ -14,7 +14,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /jetty/jettywrapper.log
-/tmp
+/tmp/*
+!/tmp/restart.txt
 
 # IDE
 /nbproject/
