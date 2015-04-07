@@ -1,5 +1,0 @@
-# TODO: allow indexing at launch. https://github.com/WGBH/AAPB2/issues/156
-User-agent: *
-Disallow: /
-# Disallow: /catalog?
-# Search results, as opposed to individual records, should not be indexed. 
