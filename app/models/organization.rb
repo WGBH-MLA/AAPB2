@@ -5,6 +5,7 @@ class Organization
   attr_reader :pbcore_name
   attr_reader :id
   attr_reader :short_name
+  attr_reader :facet
   attr_reader :state
   attr_reader :state_abbreviation
   attr_reader :city
@@ -83,6 +84,7 @@ class Organization
     @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
     @city = pop(hash, 'city')
     @url = pop(hash, 'url')
+    @facet = "#{@short_name} (#{@state_abbreviation})"
     @history_html = Markdowner.render(hash['history_md'])
     @summary_html = Markdowner.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
     @productions_html = Markdowner.render(hash.delete('productions_md'))

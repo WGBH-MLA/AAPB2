@@ -17,7 +17,7 @@
     <%# TODO: better link idiom %>
     <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
 
-    <a href="/catalog?f[organization][]=<%= CGI::escape(@org.short_name)%>" class="btn btn-default btn-sm">All records</a>
+    <a href="/catalog?f[organization][]=<%= CGI::escape(@org.facet)%>" class="btn btn-default btn-sm">All records</a>
 
   </div>
 </div>
