@@ -21,5 +21,8 @@ module Xyz
     # config.i18n.default_locale = :de
     
     config.autoload_paths << Rails.root.join('lib')
+    config.autoload_paths << Rails.root.join('lib', 'middleware')
+    config.middleware.use('RedirectMiddleware')
   end
 end
+
