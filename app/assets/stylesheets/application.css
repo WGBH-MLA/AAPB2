@@ -465,6 +465,10 @@ hr {
 	.search-query-form .input-group-lg .input-group-addon {
 		width:20%;
 	}
+        
+	.search-query-form .input-group-lg option {
+		background-color:#292A72;
+	}
 	
 	/*select list*/
 	.search-query-form .input-group .input-group-addon .search_field {
