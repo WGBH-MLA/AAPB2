@@ -82,11 +82,11 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 2, 'Sound', 8],
-          ['genres', 10, 'Interview', 3],
-          ['asset_type', 6, 'Segment', 5],
-          ['organization', 16, 'WGBH+(MA)', 2],
-          ['year', 3, '2000', 1],
+          ['media_type', 1, 'Sound', 8],
+          ['genres', 2, 'Interview', 3],
+          ['asset_type', 1, 'Segment', 5],
+          ['organization', 1, 'WGBH+(MA)', 2],
+          ['year', 1, '2000', 1],
           ['access_types', 2, 'All', 23]
         ]
         assertions.each do |facet, facet_count, value, value_count|
@@ -99,8 +99,8 @@ describe 'Catalog' do
             expect(
               page.all('.panel-heading[data-target]').map { |node|
                 node['data-target'].gsub('#facet-', '')
-              }
-            ).to eq(assertions.map { |a| a.first }) # coverage
+              } - ['year'] # years are sparse, so they may drop out of the facet list.
+            ).to eq(assertions.map { |a| a.first } - ['year']) # coverage
             expect(page.status_code).to eq(200)
             expect_count(value_count)
             expect_fuzzy_xml
