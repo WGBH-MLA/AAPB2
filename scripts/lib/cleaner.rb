@@ -41,7 +41,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     match_no_report(doc, '/pbcoreAssetDate') { |node|
       match = node.text.match(/^(\d{4})/)
-      Cleaner.delete(node) unless match && match[1].to_i >= 1900
+      Cleaner.delete(node) unless match && match[1].to_i.between?(1900, Time.now.year)
     }
 
     # dateType
