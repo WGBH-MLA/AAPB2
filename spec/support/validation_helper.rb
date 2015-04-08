@@ -1,4 +1,5 @@
 require 'rexml/document'
+require_relative 'link_checker'
 
 module ValidationHelper
   def expect_fuzzy_xml
@@ -14,6 +15,8 @@ module ValidationHelper
 
     xhtml.gsub!(/<iframe[^>]+><\/iframe>/, '<!-- iframe was here -->')
     REXML::Document.new(xhtml)
+    
+    page.all('a').map{|element| element['href']}.each{|url| LinkChecker.check(url)}
   rescue => e
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
     raise "XML validation failed: '#{e}'\n#{numbered}"
