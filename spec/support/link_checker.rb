@@ -14,13 +14,14 @@ module LinkChecker
   def self.needs_recheck?()
     return true if !File.exists?(FILENAME)
     if (Time.now - File.mtime(FILENAME))/(60*60*24*7) > 1
-      File.unlink(FILE)
+      File.unlink(FILENAME)
       return true
     end
     return false
   end
   @@needs_recheck = self.needs_recheck?()
   def self.check(url)
+    return if ENV['CI'] # don't run on Travis
     return unless @@needs_recheck
     return if @@checked.include?(url)
     return if RE_IGNORES.map{|ignore| ignore.match(url)}.any?
