@@ -66,7 +66,8 @@ class CatalogController < ApplicationController
     config.add_facet_field 'media_type'
     config.add_facet_field 'genres', label: 'Genre', solr_params: { 'facet.limit' => 20 }
     config.add_facet_field 'asset_type'
-    config.add_facet_field 'organization', sort: 'index'
+    config.add_facet_field 'organization', sort: 'index', solr_params: { 'facet.limit' => -1 }
+    # Default is 100, but we have more orgs than that. -1 means no limit.
     config.add_facet_field 'year', sort: 'index'
     config.add_facet_field 'access_types', label: 'Access'
 
