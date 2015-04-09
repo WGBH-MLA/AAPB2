@@ -25,7 +25,7 @@ class Downloader
   def self.download_to_directory_and_link(opts={}, is_same_mount)
     fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(Set[:days, :page, :ids])
     fail('ids is exclusive') if opts[:ids] && opts.keys.size > 1
-    now = Time.now.strftime('%F_%T')
+    now = Time.now.strftime('%F_%T.%6N')
     if opts[:ids]
       mkdir_and_cd("#{now}_by_ids_#{opts[:ids].size}", is_same_mount)
       opts[:ids].each do |id|

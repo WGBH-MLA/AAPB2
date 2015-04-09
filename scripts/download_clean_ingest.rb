@@ -105,7 +105,7 @@ class DownloadCleanIngest
 
   def usage_message()
     <<-EOF.gsub(/^ {4}/, '')
-      USAGE: #{File.basename($PROGRAM_NAME)} 
+      USAGE: #{File.basename(__FILE__)} 
                [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}] [#{JUST_REINDEX}]
                ( #{ALL} [PAGE] | #{BACK} DAYS
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ... 
