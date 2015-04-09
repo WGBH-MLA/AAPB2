@@ -89,7 +89,7 @@ class DownloadCleanIngest
   
   def log_init(argv)
     log_file_name = if @is_stdout_log
-      STDOUT
+      $stdout
     else
       File.join(
         File.dirname(File.dirname(__FILE__)), 'log',

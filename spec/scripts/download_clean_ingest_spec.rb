@@ -36,12 +36,12 @@ describe DownloadCleanIngest, not_on_travis: true do
   {
     '' => [/USAGE:/],
     'random args here' => [/USAGE:/],
-    '--stdout-log --ids fake-id' => [/logging to #<IO:/, /START: Process/]
+    '--stdout-log --ids fake-id' => [/logging to #</, /START: Process/]
   }.each do |args, patterns|
     describe "download_clean_ingest.rb #{args}" do
       let(:output) { dci_output(*args.split(/\s+/)) }
       patterns.each do |pattern|
-        it "matches #{pattern}" do
+        it "matches /#{pattern.source}/" do
           expect(output).to match pattern
         end
       end
