@@ -39,31 +39,41 @@ class DownloadCleanIngest
       argv.delete(flag_name)
     end
     
+    mode = argv.shift
+    args = argv
+    
+    fail("#{JUST_REINDEX} should only be used with ID modes") if @is_just_reindex && ![IDS, ID_FILES].include?(mode)
+
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{$PROGRAM_NAME} #{orig.join(' ')}")
     
-    mode = argv.shift
-    args = argv
-
     begin
       case mode
 
       when ALL
         fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-        target_dirs = [Downloader.download_to_directory_and_link({page: args.first.to_i}, @is_same_mount)]
+        target_dirs = [Downloader.download_to_directory_and_link(
+            page: args.first.to_i, is_same_mount: @is_same_mount
+        )]
 
       when BACK
         fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
-        target_dirs = [Downloader.download_to_directory_and_link({days: args.first.to_i}, @is_same_mount)]
+        target_dirs = [Downloader.download_to_directory_and_link(
+            days: args.first.to_i, is_same_mount: @is_same_mount
+        )]
         
       when IDS
         fail ParamsError.new unless args.count >= 1
-        target_dirs = [Downloader.download_to_directory_and_link({ids: args}, @is_same_mount)]
+        target_dirs = [Downloader.download_to_directory_and_link(
+            ids: args, is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex
+        )]
         
       when ID_FILES
         fail ParamsError.new unless args.count >= 1
         ids = args.map { |id_file| File.readlines(id_file).map { |line| line.strip } }.flatten
-        target_dirs = [Downloader.download_to_directory_and_link({ids: ids}, @is_same_mount)]
+        target_dirs = [Downloader.download_to_directory_and_link(
+            ids: ids, is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex
+        )]
         
       when DIRS
         fail ParamsError.new if args.empty? || args.map { |dir| !File.directory?(dir) }.any?

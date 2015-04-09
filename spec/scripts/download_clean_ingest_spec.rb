@@ -32,25 +32,13 @@ describe DownloadCleanIngest do
     # Expected to fail:
     '' => [/USAGE:/],
     'random args here' => [/USAGE:/],
-    '--stdout-log --ids fake-id' => [
-      /logging to #</, /START: Process/, /add --same-mount to ignore/
-    ],
+    '--stdout-log --ids fake-id' => [/add --same-mount to ignore/],
     "#{default_flags} --ids fake-id" => [
-      /logging to #</, /START: Process/, 
       /fake-id.pbcore: Neither pbcoreCollection nor pbcoreDocument/,
       /1 failed to validate/
     ],
-    
-    # Flags expected to succeed:
-    "--batch-commit #{default_flags} #{default_mode}" => [
-      /Updated solr record 1234/,
-      /Starting one big commit/,
-      /1 succeeded/
-    ],
     "--just-reindex #{default_flags} #{default_mode}" => [
-      /Updated solr record 1234/,
-      # TODO
-      /1 succeeded/
+      /should only be used with ID modes/,
     ],
     
     # Modes expected to succeed:
@@ -78,7 +66,20 @@ describe DownloadCleanIngest do
     "#{default_flags} --files #{File.dirname(__FILE__)}/../fixtures/dci/pbcore-dir/pbcore.xml" => [
       /Updated solr record 1234/,
       /1 succeeded/
-    ]
+    ],
+    
+    # Flags expected to succeed:
+    "--batch-commit #{default_flags} #{default_mode}" => [
+      /Updated solr record 1234/,
+      /Starting one big commit/,
+      /1 succeeded/
+    ],
+    "--just-reindex #{default_flags} --ids 1234" => [
+      # XXX: order dependent! Depends on an earlier test to have loaded the data.
+      /Query solr for 1234/,
+      /Updated solr record 1234/,
+      /1 succeeded/
+    ],
   }.each do |args, patterns|
     describe "download_clean_ingest.rb #{args}" do
       let(:output) { dci_output(*args.split(/\s+/)) }
