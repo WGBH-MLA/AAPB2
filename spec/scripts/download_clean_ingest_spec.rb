@@ -1,6 +1,6 @@
 require_relative '../../scripts/download_clean_ingest'
 
-describe DownloadCleanIngest do
+describe DownloadCleanIngest, not_on_travis: true do
   
   def capture
     begin
@@ -20,19 +20,32 @@ describe DownloadCleanIngest do
     capture { 
       begin
         DownloadCleanIngest.new(args).process()
-      rescue SystemExit
-        
+      rescue SystemExit, RuntimeError
+        # Catch aborts; Hopefully no other errors get here?
       end
     }
   end
   
-  describe 'docs' do
-    it 'prints usage when no args' do
-      expect(dci_output()).to match /logging to .*USAGE:/m
+  def describe_dci(args_string)
+    describe args_string do
+      let(:output) { dci_output(*args_string.split(/\s+/)) }
+      yield
     end
-#    it 'prints usage when not recognized' do
-#      expect(dci_output('random', 'args', 'here')).to match /logging to .*USAGE:/
-#    end
+  end
+
+  {
+    '' => [/USAGE:/],
+    'random args here' => [/USAGE:/],
+    '--stdout-log --ids fake-id' => [/logging to #<IO:/, /START: Process/]
+  }.each do |args, patterns|
+    describe "download_clean_ingest.rb #{args}" do
+      let(:output) { dci_output(*args.split(/\s+/)) }
+      patterns.each do |pattern|
+        it "matches #{pattern}" do
+          expect(output).to match pattern
+        end
+      end
+    end
   end
 
 end

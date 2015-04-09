@@ -17,7 +17,12 @@ class DownloadCleanIngest
   def const_init(name)
     const_name = name.upcase.gsub('-', '_')
     flag_name = "--#{name}"
-    Kernel.const_set(const_name, flag_name)
+    begin
+      # to avoid "warning: already initialized constant" in tests.
+      DownloadCleanIngest.const_get(const_name)
+    rescue NameError
+      DownloadCleanIngest.const_set(const_name, flag_name)
+    end
   end
   
   def initialize(argv)
