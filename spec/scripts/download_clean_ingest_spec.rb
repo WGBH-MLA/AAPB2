@@ -20,8 +20,8 @@ describe DownloadCleanIngest, not_on_travis: true do
     capture { 
       begin
         DownloadCleanIngest.new(args).process()
-      rescue SystemExit, RuntimeError
-        # Catch aborts; Hopefully no other errors get here?
+      rescue SystemExit, RuntimeError => e
+        $stderr.puts e.message
       end
     }
   end
@@ -36,7 +36,10 @@ describe DownloadCleanIngest, not_on_travis: true do
   {
     '' => [/USAGE:/],
     'random args here' => [/USAGE:/],
-    '--stdout-log --ids fake-id' => [/logging to #</, /START: Process/]
+    '--stdout-log --ids fake-id' => [
+      /logging to #</, /START: Process/, /add --same-mount to ignore/],
+    '--stdout-log --same-mount --ids fake-id' => [
+      /logging to #</, /START: Process/, /fake-id.pbcore: Neither pbcoreCollection nor pbcoreDocument/]
   }.each do |args, patterns|
     describe "download_clean_ingest.rb #{args}" do
       let(:output) { dci_output(*args.split(/\s+/)) }
