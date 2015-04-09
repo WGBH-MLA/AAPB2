@@ -13,27 +13,26 @@ class ParamsError < StandardError
 end
 
 class DownloadCleanIngest
-  BATCH_COMMIT = '--batch-commit'
-  SAME_MOUNT = '--same-mount'
-  STDOUT_LOG = '--stdout-log'
-  ALL = '--all'
-  BACK = '--back'
-  DIRS = '--dirs'
-  FILES = '--files'
-  IDS = '--ids'
-  ID_FILES = '--id-files'
 
+  def const_init(name)
+    const_name = name.upcase.gsub('-', '_')
+    flag_name = "--#{name}"
+    Kernel.const_set(const_name, flag_name)
+  end
+  
   def initialize(argv)
     orig = argv.clone
     
-    @is_batch_commit = argv.include?(BATCH_COMMIT)
-    argv.delete(BATCH_COMMIT) if @is_batch_commit
-
-    @is_same_mount = argv.include?(SAME_MOUNT)
-    argv.delete(SAME_MOUNT) if @is_same_mount
-
-    @is_stdout_log = argv.include?(STDOUT_LOG)
-    argv.delete(STDOUT_LOG) if @is_stdout_log
+    %w{all back dirs files ids id-files}.each do |name|
+      const_init(name)
+    end    
+    
+    %w{batch-commit same-mount stdout-log just-reindex}.each do |name|
+      flag_name = const_init(name)
+      variable_name = "@is_#{name.gsub('-', '_')}"
+      instance_variable_set(variable_name, argv.include?(flag_name))
+      argv.delete(flag_name)
+    end
     
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{$PROGRAM_NAME} #{orig.join(' ')}")
@@ -98,15 +97,11 @@ class DownloadCleanIngest
     end
     puts "logging to #{log_file_name}"
   end
-  
-  def files_init()
-    
-  end
 
   def usage_message()
     <<-EOF.gsub(/^ {4}/, '')
       USAGE: #{File.basename($PROGRAM_NAME)} 
-               [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}]
+               [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}] [#{JUST_REINDEX}]
                ( #{ALL} [PAGE] | #{BACK} DAYS
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ... 
                  | #{FILES} FILE ... | #{DIRS} DIR ... )
@@ -118,6 +113,9 @@ class DownloadCleanIngest
           solr index. This is what you want in development, but the default, to
           disallow this, would have stopped me from running out of disk many times.
         #{STDOUT_LOG}: Optionally, log to stdout, rather than a log file.
+        #{JUST_REINDEX}: Rather than querying the AMS, query the local solr. This
+          is typically used when the indexing strategy has changed, but the 
+          cleaning logic remains the same.
 
       mutually exclusive modes:
         #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
