@@ -13,53 +13,71 @@ class ParamsError < StandardError
 end
 
 class DownloadCleanIngest
-  BATCH_COMMIT = '--batch-commit'
-  SAME_MOUNT = '--same-mount'
-  STDOUT_LOG = '--stdout-log'
-  ALL = '--all'
-  BACK = '--back'
-  DIRS = '--dirs'
-  FILES = '--files'
-  IDS = '--ids'
-  ID_FILES = '--id-files'
 
+  def const_init(name)
+    const_name = name.upcase.gsub('-', '_')
+    flag_name = "--#{name}"
+    begin
+      # to avoid "warning: already initialized constant" in tests.
+      DownloadCleanIngest.const_get(const_name)
+    rescue NameError
+      DownloadCleanIngest.const_set(const_name, flag_name)
+    end
+  end
+  
   def initialize(argv)
     orig = argv.clone
     
-    @is_batch_commit = argv.include?(BATCH_COMMIT)
-    argv.delete(BATCH_COMMIT) if @is_batch_commit
-
-    @is_same_mount = argv.include?(SAME_MOUNT)
-    argv.delete(SAME_MOUNT) if @is_same_mount
-
-    @is_stdout_log = argv.include?(STDOUT_LOG)
-    argv.delete(STDOUT_LOG) if @is_stdout_log
+    %w{all back query dirs files ids id-files}.each do |name|
+      const_init(name)
+    end    
     
-    log_init(orig)
-    $LOG.info("START: Process ##{Process.pid}: #{$PROGRAM_NAME} #{orig.join(' ')}")
+    %w{batch-commit same-mount stdout-log just-reindex}.each do |name|
+      flag_name = const_init(name)
+      variable_name = "@is_#{name.gsub('-', '_')}"
+      instance_variable_set(variable_name, argv.include?(flag_name))
+      argv.delete(flag_name)
+    end
     
     mode = argv.shift
     args = argv
+    
+    fail("#{JUST_REINDEX} should only be used with ID modes") if @is_just_reindex && ![IDS, ID_FILES].include?(mode)
 
+    log_init(orig)
+    $LOG.info("START: Process ##{Process.pid}: #{$PROGRAM_NAME} #{orig.join(' ')}")
+    
     begin
       case mode
 
       when ALL
         fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-        target_dirs = [Downloader.download_to_directory_and_link({page: args.first.to_i}, @is_same_mount)]
+        target_dirs = [Downloader.download_to_directory_and_link(
+            page: args.first.to_i, is_same_mount: @is_same_mount
+        )]
 
       when BACK
         fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
-        target_dirs = [Downloader.download_to_directory_and_link({days: args.first.to_i}, @is_same_mount)]
+        target_dirs = [Downloader.download_to_directory_and_link(
+            days: args.first.to_i, is_same_mount: @is_same_mount
+        )]
+      
+      when QUERY
+        fail ParamsError.new unless args.count == 1
+        fail('TODO') # TODO
         
       when IDS
         fail ParamsError.new unless args.count >= 1
-        target_dirs = [Downloader.download_to_directory_and_link({ids: args}, @is_same_mount)]
+        target_dirs = [Downloader.download_to_directory_and_link(
+            ids: args, is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex
+        )]
         
       when ID_FILES
         fail ParamsError.new unless args.count >= 1
         ids = args.map { |id_file| File.readlines(id_file).map { |line| line.strip } }.flatten
-        target_dirs = [Downloader.download_to_directory_and_link({ids: ids}, @is_same_mount)]
+        target_dirs = [Downloader.download_to_directory_and_link(
+            ids: ids, is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex
+        )]
         
       when DIRS
         fail ParamsError.new if args.empty? || args.map { |dir| !File.directory?(dir) }.any?
@@ -85,7 +103,7 @@ class DownloadCleanIngest
   
   def log_init(argv)
     log_file_name = if @is_stdout_log
-      STDOUT
+      $stdout
     else
       File.join(
         File.dirname(File.dirname(__FILE__)), 'log',
@@ -98,16 +116,12 @@ class DownloadCleanIngest
     end
     puts "logging to #{log_file_name}"
   end
-  
-  def files_init()
-    
-  end
 
   def usage_message()
     <<-EOF.gsub(/^ {4}/, '')
-      USAGE: #{File.basename($PROGRAM_NAME)} 
-               [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}]
-               ( #{ALL} [PAGE] | #{BACK} DAYS
+      USAGE: #{File.basename(__FILE__)} 
+               [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}] [#{JUST_REINDEX}]
+               ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ... 
                  | #{FILES} FILE ... | #{DIRS} DIR ... )
 
@@ -118,6 +132,9 @@ class DownloadCleanIngest
           solr index. This is what you want in development, but the default, to
           disallow this, would have stopped me from running out of disk many times.
         #{STDOUT_LOG}: Optionally, log to stdout, rather than a log file.
+        #{JUST_REINDEX}: Rather than querying the AMS, query the local solr. This
+          is typically used when the indexing strategy has changed, but the AMS
+          data has not changed.
 
       mutually exclusive modes:
         #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
@@ -125,12 +142,15 @@ class DownloadCleanIngest
         #{BACK}: Download, clean, and ingest only those records updated in the
           last N days. (I don't trust the underlying API, so give yourself a
           buffer if you use this for daily updates.)
-        #{IDS}: Download, clean, and ingest records with the given IDs. Will
-          usually be used in conjunction with #{BATCH_COMMIT}, rather than
+        #{QUERY}: First obtain a list of IDs to update using the url query fragment.
+          Unless #{JUST_REINDEX} is given, these records will be re-downloaded,
+          cleaned, and ingested.
+        #{IDS}: Download (or query), clean, and ingest records with the given IDs. 
+          Will usually be used in conjunction with #{BATCH_COMMIT}, rather than
           committing after each record.
-        #{ID_FILES}: Read the files, and then download, clean, and ingest records
-          with the given IDs. Again, this will usually be used in conjunction 
-          with #{BATCH_COMMIT}, rather than committing after each record.
+        #{ID_FILES}: Read the files, and then download (or query), clean, and 
+          ingest records with the given IDs. Again, this will usually be used in 
+          conjunction with #{BATCH_COMMIT}, rather than committing after each record.
         #{FILES}: Clean and ingest the given files.
         #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
           could suffice in many cases, for large directories it might not work,

@@ -1,0 +1,46 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html'>
+  <pbcoreAssetType>Album</pbcoreAssetType>
+  <pbcoreAssetDate dateType='uncataloged'>2000-01-01</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>1234</pbcoreIdentifier>
+  <pbcoreIdentifier source='somewhere else'>5678</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>a-32-digit-hex</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>a-different-32-digit-hex</pbcoreIdentifier>
+  <pbcoreTitle titleType='Episode Number'>3-2-1</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Kaboom!</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>Gratuitous Explosions</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>NOVA</pbcoreTitle>
+  <pbcoreSubject>explosions -- gratuitious</pbcoreSubject>
+  <pbcoreSubject>musicals -- horror</pbcoreSubject>
+  <pbcoreDescription>Best episode ever!</pbcoreDescription>
+  <pbcoreGenre>Horror</pbcoreGenre>
+  <pbcoreGenre>Musical</pbcoreGenre>
+  <pbcoreCreator>
+    <creator affiliation='Stooges'>Larry</creator>
+    <creatorRole>balding</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor affiliation='Stooges'>Curly</contributor>
+    <contributorRole>bald</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher affiliation='Stooges'>Moe</publisher>
+    <publisherRole>hair</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>Copy Left: All rights reversed.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsEmbedded>
+      <AAPB_RIGHTS_CODE>PUBLIC</AAPB_RIGHTS_CODE>
+    </rightsEmbedded>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='foo'>ABC</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>
+    <instantiationLocation>my closet</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
+    <instantiationDuration>0:12:34</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

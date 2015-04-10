@@ -22,17 +22,25 @@ class Downloader
     $LOG ||= NullLogger.new
   end
 
-  def self.download_to_directory_and_link(opts={}, is_same_mount)
-    fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(Set[:days, :page, :ids])
-    fail('ids is exclusive') if opts[:ids] && opts.keys.size > 1
-    now = Time.now.strftime('%F_%T')
+  def self.download_to_directory_and_link(opts={})
+    fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(Set[:days, :page, :ids, :is_same_mount, :is_just_reindex])
+    fail('"ids" is incompatible with "page" and "days"') if opts[:ids] && (opts[:days] || opts[:page])
+    now = Time.now.strftime('%F_%T.%6N')
     if opts[:ids]
-      mkdir_and_cd("#{now}_by_ids_#{opts[:ids].size}", is_same_mount)
+      mkdir_and_cd("#{now}_by_ids_#{opts[:ids].size}", opts[:is_same_mount])
       opts[:ids].each do |id|
         short_id = id.sub(/.*[_\/]/, '')
-        url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
-        $LOG.info("Downloading #{url}")
-        content = URI.parse(url).read(read_timeout: 240)
+        content = if opts[:is_just_reindex]
+          $LOG.info("Query solr for #{id}")
+          # TODO: hostname and corename from config?
+          RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
+              qt: 'document', id: id
+            })['response']['docs'][0]['xml']
+        else  
+          url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
+          $LOG.info("Downloading #{url}")
+          URI.parse(url).read(read_timeout: 240)
+        end
         File.write("#{short_id}.pbcore", content)
       end
     else
@@ -42,7 +50,7 @@ class Downloader
               else
                 '20000101' # ie, beginning of time.
               end
-      mkdir_and_cd("#{now}_since_#{since}_starting_page_#{opts[:page]}", is_same_mount)
+      mkdir_and_cd("#{now}_since_#{since}_starting_page_#{opts[:page]}", opts[:is_same_mount])
       downloader = Downloader.new(since)
       downloader.download_to_directory(opts[:page])
     end
