@@ -26,6 +26,12 @@ class DownloadCleanIngest
     end
   end
   
+  def download(opts)
+    [Downloader.download_to_directory_and_link(
+      {is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex}.merge(opts)
+    )]
+  end
+  
   def initialize(argv)
     orig = argv.clone
     
@@ -33,7 +39,7 @@ class DownloadCleanIngest
       const_init(name)
     end    
     
-    %w{batch-commit same-mount stdout-log just-reindex}.each do |name|
+    %w{batch-commit same-mount stdout-log just-reindex skip-sitemap}.each do |name|
       flag_name = const_init(name)
       variable_name = "@is_#{name.gsub('-', '_')}"
       instance_variable_set(variable_name, argv.include?(flag_name))
@@ -48,37 +54,31 @@ class DownloadCleanIngest
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{$PROGRAM_NAME} #{orig.join(' ')}")
     
+    @flags = {is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex}
+    
     begin
       case mode
 
       when ALL
         fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
-        target_dirs = [Downloader.download_to_directory_and_link(
-            page: args.first.to_i, is_same_mount: @is_same_mount
-        )]
+        target_dirs = download(page: args.first.to_i)
 
       when BACK
         fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
-        target_dirs = [Downloader.download_to_directory_and_link(
-            days: args.first.to_i, is_same_mount: @is_same_mount
-        )]
+        target_dirs = download(days: args.first.to_i)
       
       when QUERY
         fail ParamsError.new unless args.count == 1
-        fail('TODO') # TODO
+        target_dirs = download(query: args.first)
         
       when IDS
         fail ParamsError.new unless args.count >= 1
-        target_dirs = [Downloader.download_to_directory_and_link(
-            ids: args, is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex
-        )]
+        target_dirs = download(ids: args)
         
       when ID_FILES
         fail ParamsError.new unless args.count >= 1
         ids = args.map { |id_file| File.readlines(id_file).map { |line| line.strip } }.flatten
-        target_dirs = [Downloader.download_to_directory_and_link(
-            ids: ids, is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex
-        )]
+        target_dirs = download(ids: ids)
         
       when DIRS
         fail ParamsError.new if args.empty? || args.map { |dir| !File.directory?(dir) }.any?
@@ -121,7 +121,8 @@ class DownloadCleanIngest
   def usage_message()
     <<-EOF.gsub(/^ {4}/, '')
       USAGE: #{File.basename(__FILE__)} 
-               [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}] [#{JUST_REINDEX}]
+               [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}] 
+               [#{JUST_REINDEX}] [#{SKIP_SITEMAP}]
                ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ... 
                  | #{FILES} FILE ... | #{DIRS} DIR ... )
@@ -136,6 +137,8 @@ class DownloadCleanIngest
         #{JUST_REINDEX}: Rather than querying the AMS, query the local solr. This
           is typically used when the indexing strategy has changed, but the AMS
           data has not changed.
+        #{SKIP_SITEMAP}: Do not regenerate sitemap.xml. If no new records are
+          ingested, the sitemaps will not change, and regeneration can be skipped.
 
       mutually exclusive modes:
         #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
@@ -199,10 +202,12 @@ class DownloadCleanIngest
     # puts 'Ingest complete; Begin optimization...'
     # ingester.optimize
     
-    $LOG.info('Starting sitemap generation...')
-    $LOG.info(`rake blacklight:sitemap`) # TODO: figure out the right way to do this.
-    $LOG.info('Finished sitemap generation.')
-
+    unless @is_skip_sitemap
+      $LOG.info('Starting sitemap generation...')
+      $LOG.info(`rake blacklight:sitemap`) # TODO: figure out the right way to do this.
+      $LOG.info('Finished sitemap generation.')
+    end
+      
     $LOG.info('SUMMARY')
 
     fails.each {|type, list|

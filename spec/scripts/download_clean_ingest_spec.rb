@@ -26,7 +26,7 @@ describe DownloadCleanIngest do
     }
   end
 
-  default_flags = '--stdout-log --same-mount'
+  default_flags = '--stdout-log --same-mount --skip-sitemap'
   default_mode = "--files #{File.dirname(__FILE__)}/../fixtures/dci/pbcore-dir/pbcore.xml"
   {
     # Expected to fail:
