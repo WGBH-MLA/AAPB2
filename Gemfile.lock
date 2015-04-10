@@ -43,6 +43,8 @@ GEM
       bootstrap-sass (~> 3.0)
       openseadragon (>= 0.2.0)
       rails
+    blacklight-sitemap (2.0.0)
+      nokogiri
     bootstrap-sass (3.3.4.1)
       autoprefixer-rails (>= 5.0.0.1)
       sass (>= 3.2.19)
@@ -242,6 +244,7 @@ PLATFORMS
 DEPENDENCIES
   blacklight
   blacklight-gallery
+  blacklight-sitemap (~> 2.0.0)
   capistrano-passenger
   capistrano-rails
   capybara

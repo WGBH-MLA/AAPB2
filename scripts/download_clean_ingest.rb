@@ -2,6 +2,7 @@ require_relative 'lib/downloader'
 require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 require 'logger'
+require 'rake'
 
 class Exception
   def short
@@ -193,10 +194,14 @@ class DownloadCleanIngest
       ingester.commit
       $LOG.info('Finished one big commit.')
     end
-
+    
     # TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.
     # puts 'Ingest complete; Begin optimization...'
     # ingester.optimize
+    
+    $LOG.info('Starting sitemap generation...')
+    $LOG.info(`rake blacklight:sitemap`) # TODO: figure out the right way to do this.
+    $LOG.info('Finished sitemap generation.')
 
     $LOG.info('SUMMARY')
 

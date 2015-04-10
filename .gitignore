@@ -19,3 +19,6 @@
 
 # IDE
 /nbproject/
+
+# Sitemaps built by rake task.
+/public/blacklight-sitemap*
