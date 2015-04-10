@@ -28,7 +28,7 @@ class DownloadCleanIngest
   def initialize(argv)
     orig = argv.clone
     
-    %w{all back dirs files ids id-files}.each do |name|
+    %w{all back query dirs files ids id-files}.each do |name|
       const_init(name)
     end    
     
@@ -61,6 +61,10 @@ class DownloadCleanIngest
         target_dirs = [Downloader.download_to_directory_and_link(
             days: args.first.to_i, is_same_mount: @is_same_mount
         )]
+      
+      when QUERY
+        fail ParamsError.new unless args.count == 1
+        fail('TODO') # TODO
         
       when IDS
         fail ParamsError.new unless args.count >= 1
