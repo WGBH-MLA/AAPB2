@@ -117,7 +117,7 @@ class DownloadCleanIngest
     <<-EOF.gsub(/^ {4}/, '')
       USAGE: #{File.basename(__FILE__)} 
                [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}] [#{JUST_REINDEX}]
-               ( #{ALL} [PAGE] | #{BACK} DAYS
+               ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ... 
                  | #{FILES} FILE ... | #{DIRS} DIR ... )
 
@@ -129,8 +129,8 @@ class DownloadCleanIngest
           disallow this, would have stopped me from running out of disk many times.
         #{STDOUT_LOG}: Optionally, log to stdout, rather than a log file.
         #{JUST_REINDEX}: Rather than querying the AMS, query the local solr. This
-          is typically used when the indexing strategy has changed, but the 
-          cleaning logic remains the same.
+          is typically used when the indexing strategy has changed, but the AMS
+          data has not changed.
 
       mutually exclusive modes:
         #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
@@ -138,12 +138,15 @@ class DownloadCleanIngest
         #{BACK}: Download, clean, and ingest only those records updated in the
           last N days. (I don't trust the underlying API, so give yourself a
           buffer if you use this for daily updates.)
-        #{IDS}: Download, clean, and ingest records with the given IDs. Will
-          usually be used in conjunction with #{BATCH_COMMIT}, rather than
+        #{QUERY}: First obtain a list of IDs to update using the url query fragment.
+          Unless #{JUST_REINDEX} is given, these records will be re-downloaded,
+          cleaned, and ingested.
+        #{IDS}: Download (or query), clean, and ingest records with the given IDs. 
+          Will usually be used in conjunction with #{BATCH_COMMIT}, rather than
           committing after each record.
-        #{ID_FILES}: Read the files, and then download, clean, and ingest records
-          with the given IDs. Again, this will usually be used in conjunction 
-          with #{BATCH_COMMIT}, rather than committing after each record.
+        #{ID_FILES}: Read the files, and then download (or query), clean, and 
+          ingest records with the given IDs. Again, this will usually be used in 
+          conjunction with #{BATCH_COMMIT}, rather than committing after each record.
         #{FILES}: Clean and ingest the given files.
         #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
           could suffice in many cases, for large directories it might not work,
