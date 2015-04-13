@@ -4,6 +4,7 @@ require 'rexml/document'
 require 'set'
 require_relative 'null_logger'
 require_relative 'mount_validator'
+require_relative 'solr'
 
 class Downloader
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
@@ -33,7 +34,7 @@ class Downloader
         content = if opts[:is_just_reindex]
           $LOG.info("Query solr for #{id}")
           # TODO: hostname and corename from config?
-          RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
+          Solr.instance.connect.get('select', params: {
               qt: 'document', id: id
             })['response']['docs'][0]['xml']
         else  
