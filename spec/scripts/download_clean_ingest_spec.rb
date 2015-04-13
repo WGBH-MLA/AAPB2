@@ -1,25 +1,22 @@
 require_relative '../../scripts/download_clean_ingest'
 
 describe DownloadCleanIngest do
-  
   def capture
-    begin
-      old_stdout = $stdout
-      old_stderr = $stderr
-      $stdout = StringIO.new('','w')
-      $stderr = StringIO.new('','w')
-      yield
-      $stdout.string + $stderr.string
-    ensure
-      $stdout = old_stdout
-      $stderr = old_stderr
-    end
+    old_stdout = $stdout
+    old_stderr = $stderr
+    $stdout = StringIO.new('', 'w')
+    $stderr = StringIO.new('', 'w')
+    yield
+    $stdout.string + $stderr.string
+  ensure
+    $stdout = old_stdout
+    $stderr = old_stderr
   end
-  
+
   def dci_output(*args)
-    capture { 
+    capture {
       begin
-        DownloadCleanIngest.new(args).process()
+        DownloadCleanIngest.new(args).process
       rescue SystemExit, RuntimeError => e
         $stderr.puts e.inspect, e.backtrace.join("\n")
       end
@@ -38,9 +35,9 @@ describe DownloadCleanIngest do
       /1 failed to validate/
     ],
     "--just-reindex #{default_flags} #{default_mode}" => [
-      /should only be used with/,
+      /should only be used with/
     ],
-    
+
     # Modes expected to succeed:
     # (--back can be slow)
 #    '--stdout-log --same-mount --back 1' => [
@@ -73,7 +70,7 @@ describe DownloadCleanIngest do
       /Successfully added .*37-010p2nvv.pbcore/,
       /1 succeeded/
     ],
-    
+
     # Flags expected to succeed:
     "--batch-commit #{default_flags} #{default_mode}" => [
       /Updated solr record 1234/,
@@ -85,13 +82,14 @@ describe DownloadCleanIngest do
       /Query solr for 1234/,
       /Updated solr record 1234/,
       /1 succeeded/
-    ],
+    ]
   }.each do |args, patterns|
     describe "download_clean_ingest.rb #{args}" do
-      let(:output) { dci_output(*args.split(/\s+/).map{|arg| 
-            arg.sub(/(^['"])|(['"]$)/, '') 
+      let(:output) {
+        dci_output(*args.split(/\s+/).map {|arg|
+          arg.sub(/(^['"])|(['"]$)/, '')
             # There might be quotes around args if pasted from commandline.
-          } ) }
+        }) }
       patterns.each do |pattern|
         it "matches /#{pattern.source}/" do
           expect(output).to match pattern
@@ -99,5 +97,4 @@ describe DownloadCleanIngest do
       end
     end
   end
-
 end

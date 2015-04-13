@@ -13,7 +13,7 @@ class PBCoreIngester
   def initialize(opts)
     # TODO: hostname and corename from config?
     @solr = RSolr.connect(url: 'http://localhost:8983/solr/')
-    @solr.get('admin/cores')['status']['blacklight-core']['dataDir'].tap{|data_dir|
+    @solr.get('admin/cores')['status']['blacklight-core']['dataDir'].tap {|data_dir|
       MountValidator.validate_mount(data_dir, 'solr index') unless opts[:is_same_mount]
     }
     $LOG ||= NullLogger.new

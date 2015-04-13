@@ -7,7 +7,7 @@ require_relative 'mount_validator'
 require_relative 'query_maker'
 
 class Downloader
-  MAX_ROWS = 10000
+  MAX_ROWS = 10_000
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
@@ -36,7 +36,7 @@ class Downloader
       q = QueryMaker.translate(opts[:query])
       $LOG.info("Query solr for #{opts[:query]}")
       opts[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
-          q: q, fl: 'id', rows: MAX_ROWS})['response']['docs'].map{|doc| doc['id']}
+                                                                           q: q, fl: 'id', rows: MAX_ROWS })['response']['docs'].map { |doc| doc['id'] }
       fail("Got back more than #{MAX_ROWS} from query") if opts[:ids].size > MAX_ROWS
     end
     if opts[:ids]
@@ -45,15 +45,15 @@ class Downloader
       opts[:ids].each do |id|
         short_id = id.sub(/.*[_\/]/, '')
         content = if opts[:is_just_reindex]
-          $LOG.info("Query solr for #{id}")
+                    $LOG.info("Query solr for #{id}")
           # TODO: hostname and corename from config?
-          RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
-              qt: 'document', id: id
-            })['response']['docs'][0]['xml']
-        else  
-          url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
-          $LOG.info("Downloading #{url}")
-          URI.parse(url).read(read_timeout: 240)
+                    RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
+                                                                            qt: 'document', id: id
+                                                                          })['response']['docs'][0]['xml']
+                  else
+                    url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
+                    $LOG.info("Downloading #{url}")
+                    URI.parse(url).read(read_timeout: 240)
         end
         File.write("#{short_id}.pbcore", content)
       end
@@ -83,7 +83,7 @@ class Downloader
       end
       Dir.chdir(dir)
     end
-    MountValidator.validate_mount(Dir.pwd(), 'downloads') unless is_same_mount
+    MountValidator.validate_mount(Dir.pwd, 'downloads') unless is_same_mount
 
     Dir.chdir('..')
     link_name = 'LATEST'
@@ -98,7 +98,7 @@ class Downloader
     download(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
       File.write(name, collection)
-      $LOG.info("Wrote #{File.join([Dir.pwd(), name])}")
+      $LOG.info("Wrote #{File.join([Dir.pwd, name])}")
     end
   end
 
@@ -111,7 +111,7 @@ class Downloader
           $LOG.info("Trying #{url}")
           content = URI.parse(url).read(read_timeout: 240)
         rescue Net::ReadTimeout
-          $LOG.warn("Timeout. Retrying in 10...")
+          $LOG.warn('Timeout. Retrying in 10...')
           sleep 10
         end
       end
