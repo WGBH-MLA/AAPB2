@@ -1,3 +1,7 @@
+# rubocop:disable Style/HashSyntax
+# Hash rockets are important in deployments, for a reason we don't understand,
+# but rubocop's default is to clear them.
+
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
