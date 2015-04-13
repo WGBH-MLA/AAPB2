@@ -38,7 +38,7 @@ describe DownloadCleanIngest do
       /1 failed to validate/
     ],
     "--just-reindex #{default_flags} #{default_mode}" => [
-      /should only be used with ID modes/,
+      /should only be used with/,
     ],
     
     # Modes expected to succeed:
@@ -67,7 +67,7 @@ describe DownloadCleanIngest do
       /Updated solr record 1234/,
       /1 succeeded/
     ],
-    "#{default_flags} --query 'f[asset_type][]=Episode&q=promise'" => [
+    "#{default_flags} --just-reindex --query 'f[asset_type][]=Episode&q=promise'" => [
       /Query solr for/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Successfully added .*37-010p2nvv.pbcore/,
@@ -88,7 +88,10 @@ describe DownloadCleanIngest do
     ],
   }.each do |args, patterns|
     describe "download_clean_ingest.rb #{args}" do
-      let(:output) { dci_output(*args.split(/\s+/)) }
+      let(:output) { dci_output(*args.split(/\s+/).map{|arg| 
+            arg.sub(/(^['"])|(['"]$)/, '') 
+            # There might be quotes around args if pasted from commandline.
+          } ) }
       patterns.each do |pattern|
         it "matches /#{pattern.source}/" do
           expect(output).to match pattern

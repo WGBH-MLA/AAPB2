@@ -49,7 +49,7 @@ class DownloadCleanIngest
     mode = argv.shift
     args = argv
     
-    fail("#{JUST_REINDEX} should only be used with #{ID} or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, QUERY].include?(mode)
+    fail("#{JUST_REINDEX} should only be used with #{IDS} or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, QUERY].include?(mode)
 
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{__FILE__} #{orig.join(' ')}")
