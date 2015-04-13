@@ -7,7 +7,7 @@ describe ValidationHelper do
       []
     end
   end
-  
+
   describe 'obvious errors' do
     it 'catches mismatched tags' do
       def page

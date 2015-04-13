@@ -35,7 +35,6 @@ set :log_level, :info
 # set :keep_releases, 5
 
 namespace :deploy do
-
   after :restart, :clear_cache do
     on roles(:web), in: :groups, limit: 3, wait: 10 do
       # Here we can do anything such as:
@@ -47,8 +46,7 @@ namespace :deploy do
 
   # task :restart do
   #   on roles(:web, :app) do |host|
-  #     execute "touch #{File.join(current_path,'tmp','restart.txt')}"  
+  #     execute "touch #{File.join(current_path,'tmp','restart.txt')}"
   #   end
   # end
-
 end

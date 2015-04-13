@@ -65,7 +65,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
   def title
     @title ||= xpaths('/*/pbcoreTitle[@titleType!="Episode Number"]').first ||
-      xpaths('/*/pbcoreTitle').first # There are records that only have "Episode Number"
+               xpaths('/*/pbcoreTitle').first # There are records that only have "Episode Number"
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')

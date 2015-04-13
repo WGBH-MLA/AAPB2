@@ -1,8 +1,9 @@
 require 'logger'
 
 class NullLogger < Logger
-  def initialize(*args)
+  def initialize(*_args)
   end
-  def add(*args, &block)
+
+  def add(*_args, &_block)
   end
 end

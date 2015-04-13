@@ -37,7 +37,7 @@ Rake::BlacklightSitemapTask.new do |sm|
 
   # Solr query sort parameter
   # sm.sort = '_docid_ asc'
-  
+
   # Solr request handler. This can be useful when your Solr configuration already has
   # a filter query appended.
   sm.qt = nil

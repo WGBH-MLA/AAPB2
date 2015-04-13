@@ -5,8 +5,10 @@ require 'set'
 require_relative 'null_logger'
 require_relative 'mount_validator'
 require_relative 'solr'
+require_relative 'query_maker'
 
 class Downloader
+  MAX_ROWS = 10_000
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
@@ -24,17 +26,30 @@ class Downloader
   end
 
   def self.download_to_directory_and_link(opts={})
-    fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(Set[:days, :page, :ids, :is_same_mount, :is_just_reindex])
-    fail('"ids" is incompatible with "page" and "days"') if opts[:ids] && (opts[:days] || opts[:page])
+    fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(
+      Set[
+        :days, :page, :ids, :query, # modes
+        :is_same_mount, :is_just_reindex # flags
+      ])
     now = Time.now.strftime('%F_%T.%6N')
+    if opts[:query]
+      dirname = "#{now}_by_query_#{opts[:query].gsub(/\W+/, '-')}"
+      q = QueryMaker.translate(opts[:query])
+      $LOG.info("Query solr for #{opts[:query]}")
+      opts[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
+                                                                           q: q, fl: 'id', rows: MAX_ROWS })['response']['docs'].map { |doc| doc['id'] }
+      fail("Got back more than #{MAX_ROWS} from query") if opts[:ids].size > MAX_ROWS
+    end
     if opts[:ids]
-      mkdir_and_cd("#{now}_by_ids_#{opts[:ids].size}", opts[:is_same_mount])
+      dirname ||= "#{now}_by_ids_#{opts[:ids].size}"
+      mkdir_and_cd(dirname, opts[:is_same_mount])
       opts[:ids].each do |id|
         short_id = id.sub(/.*[_\/]/, '')
         content = if opts[:is_just_reindex]
-          $LOG.info("Query solr for #{id}")
+                    $LOG.info("Query solr for #{id}")
           # TODO: hostname and corename from config?
-          Solr.instance.connect.get('select', params: {
+          Solr.instance.connect
+          .get('select', params: {
               qt: 'document', id: id
             })['response']['docs'][0]['xml']
         else  
@@ -70,7 +85,7 @@ class Downloader
       end
       Dir.chdir(dir)
     end
-    MountValidator.validate_mount(Dir.pwd(), 'downloads') unless is_same_mount
+    MountValidator.validate_mount(Dir.pwd, 'downloads') unless is_same_mount
 
     Dir.chdir('..')
     link_name = 'LATEST'
@@ -85,7 +100,7 @@ class Downloader
     download(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
       File.write(name, collection)
-      $LOG.info("Wrote #{File.join([Dir.pwd(), name])}")
+      $LOG.info("Wrote #{File.join([Dir.pwd, name])}")
     end
   end
 
@@ -98,7 +113,7 @@ class Downloader
           $LOG.info("Trying #{url}")
           content = URI.parse(url).read(read_timeout: 240)
         rescue Net::ReadTimeout
-          $LOG.warn("Timeout. Retrying in 10...")
+          $LOG.warn('Timeout. Retrying in 10...')
           sleep 10
         end
       end

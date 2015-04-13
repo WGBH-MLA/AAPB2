@@ -7,6 +7,6 @@ module AccessControl
                           IPAddr.new('140.147.0.0/16') # LoC
                       ]
   def self.authorized_ip?(ip)
-    AUTHORIZED_RANGES.map{ |range| range.include?(ip) }.any?
+    AUTHORIZED_RANGES.map { |range| range.include?(ip) }.any?
   end
 end
