@@ -21,7 +21,7 @@ describe DownloadCleanIngest do
       begin
         DownloadCleanIngest.new(args).process()
       rescue SystemExit, RuntimeError => e
-        $stderr.puts e.message
+        $stderr.puts e.inspect, e.backtrace.join("\n")
       end
     }
   end
@@ -65,6 +65,12 @@ describe DownloadCleanIngest do
     ],
     "#{default_flags} --files #{File.dirname(__FILE__)}/../fixtures/dci/pbcore-dir/pbcore.xml" => [
       /Updated solr record 1234/,
+      /1 succeeded/
+    ],
+    "#{default_flags} --query 'f[asset_type][]=Episode&q=promise'" => [
+      /Query solr for/,
+      /Updated solr record cpb-aacip_37-010p2nvv/,
+      /Successfully added .*37-010p2nvv.pbcore/,
       /1 succeeded/
     ],
     

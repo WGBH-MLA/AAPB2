@@ -4,8 +4,10 @@ require 'rexml/document'
 require 'set'
 require_relative 'null_logger'
 require_relative 'mount_validator'
+require_relative 'query_maker'
 
 class Downloader
+  MAX_ROWS = 10000
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
@@ -23,11 +25,23 @@ class Downloader
   end
 
   def self.download_to_directory_and_link(opts={})
-    fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(Set[:days, :page, :ids, :is_same_mount, :is_just_reindex])
-    fail('"ids" is incompatible with "page" and "days"') if opts[:ids] && (opts[:days] || opts[:page])
+    fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(
+      Set[
+        :days, :page, :ids, :query, # modes
+        :is_same_mount, :is_just_reindex # flags
+      ])
     now = Time.now.strftime('%F_%T.%6N')
+    if opts[:query]
+      dirname = "#{now}_by_query_#{opts[:query].gsub(/\W+/, '-')}"
+      q = QueryMaker.translate(opts[:query])
+      $LOG.info("Query solr for #{opts[:query]}")
+      opts[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
+          q: q, fl: 'id', rows: MAX_ROWS})['response']['docs'].map{|doc| doc['id']}
+      fail("Got back more than #{MAX_ROWS} from query") if opts[:ids].size > MAX_ROWS
+    end
     if opts[:ids]
-      mkdir_and_cd("#{now}_by_ids_#{opts[:ids].size}", opts[:is_same_mount])
+      dirname ||= "#{now}_by_ids_#{opts[:ids].size}"
+      mkdir_and_cd(dirname, opts[:is_same_mount])
       opts[:ids].each do |id|
         short_id = id.sub(/.*[_\/]/, '')
         content = if opts[:is_just_reindex]
