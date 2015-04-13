@@ -4,9 +4,11 @@ describe AccessControl do
   def expect_authorized(ip)
     expect(AccessControl.authorized_ip?(ip)).to eq true
   end
+
   def expect_unauthorized(ip)
     expect(AccessControl.authorized_ip?(ip)).to eq false
   end
+
   def expect_ip_range(below, bottom, top, above)
     expect_unauthorized(below)
     expect_authorized(bottom)

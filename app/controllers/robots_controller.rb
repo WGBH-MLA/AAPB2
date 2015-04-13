@@ -4,13 +4,13 @@ class RobotsController < ApplicationController
     respond_to do |format|
       format.txt do
         render text: if request.host == REAL_HOST
-          <<EOF
+                       <<EOF
 User-agent: *
 Disallow: /catalog?
 Sitemap: http://#{REAL_HOST}/blacklight-sitemap.xml
 EOF
-          else
-            <<EOF
+                     else
+                       <<EOF
 User-agent: *
 Disallow: /
 # Only #{REAL_HOST} should be indexed.

@@ -158,7 +158,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
         REXML::Element.new('instantiationMediaType')
       )
     }
-    
+
     match_no_report(doc, '/pbcoreInstantiation/instantiationDimensions/@unitOfMeasure') { |node|
       node.name = 'unitsOfMeasure'
     }
@@ -171,7 +171,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     match_no_report(doc, '/pbcoreInstantiation/instantiationLanguage') { |node|
       Cleaner.clean_language(node)
     }
-    
+
     match_no_report(doc, '/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackLanguage') { |node|
       Cleaner.clean_language(node)
     }
@@ -188,7 +188,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
   end
 
   private
-  
+
   def self.clean_language(node)
     node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
     node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/

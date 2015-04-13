@@ -8,14 +8,14 @@ class RedirectMiddleware
   def call(env)
     request = Rack::Request.new(env)
     if request.host.starts_with?('www.')
-      [301, {'Location' => request.url.sub('//www.', '//')}, self]
+      [301, { 'Location' => request.url.sub('//www.', '//') }, self]
     elsif request.host.ends_with?('americanarchiveinventory.org')
-      [301, {'Location' => 'http://americanarchive.org'}, self]
+      [301, { 'Location' => 'http://americanarchive.org' }, self]
     else
       @app.call(env)
     end
   end
 
-  def each(&block)
+  def each(&_block)
   end
 end
