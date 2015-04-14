@@ -19,7 +19,7 @@ module ValidationHelper
     page.all('a').map { |element| element['href'] }.each { |url| LinkChecker.instance.check(url) }
   rescue => e
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
-    raise "XML validation failed: #{e}\n#{e.backtrace}\n#{numbered}"
+    raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n#{numbered}"
   end
 end
 
