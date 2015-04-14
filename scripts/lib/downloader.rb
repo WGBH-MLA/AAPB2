@@ -4,6 +4,7 @@ require 'rexml/document'
 require 'set'
 require_relative 'null_logger'
 require_relative 'mount_validator'
+require_relative 'solr'
 require_relative 'query_maker'
 
 class Downloader
@@ -47,13 +48,14 @@ class Downloader
         content = if opts[:is_just_reindex]
                     $LOG.info("Query solr for #{id}")
           # TODO: hostname and corename from config?
-                    RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
-                                                                            qt: 'document', id: id
-                                                                          })['response']['docs'][0]['xml']
-                  else
-                    url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
-                    $LOG.info("Downloading #{url}")
-                    URI.parse(url).read(read_timeout: 240)
+          Solr.instance.connect
+          .get('select', params: {
+              qt: 'document', id: id
+            })['response']['docs'][0]['xml']
+        else  
+          url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
+          $LOG.info("Downloading #{url}")
+          URI.parse(url).read(read_timeout: 240)
         end
         File.write("#{short_id}.pbcore", content)
       end

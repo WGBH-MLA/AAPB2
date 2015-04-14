@@ -6,14 +6,14 @@ require_relative 'uncollector'
 require_relative 'cleaner'
 require_relative 'null_logger'
 require_relative 'mount_validator'
+require_relative 'solr'
 
 class PBCoreIngester
-  attr_reader :solr
 
   def initialize(opts)
     # TODO: hostname and corename from config?
-    @solr = RSolr.connect(url: 'http://localhost:8983/solr/')
-    @solr.get('admin/cores')['status']['blacklight-core']['dataDir'].tap {|data_dir|
+    @solr = Solr.instance.connect
+    @solr.get('../admin/cores')['status']['blacklight-core']['dataDir'].tap{|data_dir|
       MountValidator.validate_mount(data_dir, 'solr index') unless opts[:is_same_mount]
     }
     $LOG ||= NullLogger.new
