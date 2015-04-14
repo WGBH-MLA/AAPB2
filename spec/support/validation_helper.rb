@@ -16,10 +16,10 @@ module ValidationHelper
     xhtml.gsub!(/<iframe[^>]+><\/iframe>/, '<!-- iframe was here -->')
     REXML::Document.new(xhtml)
 
-    page.all('a').map { |element| element['href'] }.each { |url| LinkChecker.check(url) }
+    page.all('a').map { |element| element['href'] }.each { |url| LinkChecker.instance.check(url) }
   rescue => e
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
-    raise "XML validation failed: '#{e}'\n#{numbered}"
+    raise "XML validation failed: #{e}\n#{e.backtrace}\n#{numbered}"
   end
 end
 

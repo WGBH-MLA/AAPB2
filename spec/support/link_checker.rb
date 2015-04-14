@@ -1,16 +1,25 @@
 require 'set'
 require 'curb'
+require 'singleton'
 
-module LinkChecker
-  @@checked = Set[]
+class LinkChecker
+  include Singleton
+
   FILENAME = File.join(File.dirname(__FILE__), '.link-check.txt')
   RE_IGNORES = [
     /^\/catalog\?/, # too many combos
     /^\/catalog\//, # redundant
     /^https?:/, # TODO: remote sites
     /#/, # TODO: anchors
-    /^mailto:/
+    /^mailto:/,
+    /^\/participating-orgs/ # skip for now because it is slow.
   ]
+  
+  def initialize()
+    @checked = Set[]
+    @needs_recheck = LinkChecker.needs_recheck?
+  end
+  
   def self.needs_recheck?
     return true unless File.exist?(FILENAME)
     if (Time.now - File.mtime(FILENAME)) / (60 * 60 * 24 * 7) > 1
@@ -19,13 +28,14 @@ module LinkChecker
     end
     false
   end
-  @@needs_recheck = self.needs_recheck?
-  def self.check(url)
+  
+  def check(url)
+    return if url == nil # Calling code might forget a special case for <a name='foo'>
     return if ENV['CI'] # don't run on Travis
-    return unless @@needs_recheck
-    return if @@checked.include?(url)
+    return unless @needs_recheck
+    return if @checked.include?(url)
     return if RE_IGNORES.map { |ignore| ignore.match(url) }.any?
-    @@checked << url
+    @checked << url
 
      # TODO: remote URLs
 
@@ -36,6 +46,7 @@ module LinkChecker
     code = curl.response_code
     fail("Got #{code} from #{full_url}") unless code == 200
 
-    File.open(FILENAME, 'a') { |f| f.write(url) }
+    puts "[link-checked: #{url}]"
+    File.open(FILENAME, 'a') { |f| f.write("#{url}\n") }
   end
 end
