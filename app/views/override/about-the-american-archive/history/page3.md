@@ -1,6 +1,6 @@
 # A Brief History of the AAPB
 
-## Bibliography
+## Notes
 
 <a name="1"></a><sup>1</sup>Departments of Labor, Health and Human Services, Education, and 
 Related Agencies Appropriations for 2011. Part 4: Related Agencies FY 2011 
