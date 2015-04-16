@@ -71,7 +71,7 @@
   state: Louisiana
   city: Baton Rouge
   logo_filename: lpb_logo.png
-  url: http://www.lpb.org
+  url: http://ladigitalmedia.org/
   history_md: |
     On September 6, 1975 at 11:58 a.m., longtime public television advocate
     Lucille Woodard flipped a ceremonial switch to sign WLPB on in Baton Rouge. It
@@ -400,7 +400,7 @@
   short_name: Wisconsin Public Television
   state: Wisconsin
   city: Madison
-# logo_filename:
+  logo_filename: wpt_logo.png
   url: http://wpt.org/
   history_md: 
   productions_md: 
