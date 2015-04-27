@@ -49,51 +49,12 @@ Wordpress sets a default TTL of 300s, which should be fine for now.
 
 ### AWS OpsWorks
 
-![AWS Servers](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-servers.svg?v1)
+*TODO*: This has been in flux.
 
-#### Deployment
-- Get an AWS account.
-- Talk to one of us and get access to the AAPB OpsWorks stack: If you go to 
-https://console.aws.amazon.com/opsworks/home you should have an option for AAPB.
-- From the AAPB stack page, click on instances: You can redeploy from here.
+<!-- https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-servers.svg?v1 -->
 
-#### Management
-The goal is to have ingests of the latest data should be automatic. 
-But for now we need to log in...
+### Indexing
 
-```bash
-$ ssh-keygen -t rsa -f opsworks
-$ mv opsworks* ~/.ssh
-$ chmod 400 ~/.ssh/opsworks
-$ cat ~/.ssh/opsworks.pub
-```
-Copy this public key, and then in OpsWorks, click on "My Settings" in the upper right,
-"Edit", paste in the "Public SSH Key", "Save", and then:
-```bash
-$ ssh -i ~/.ssh/opsworks USERNAME@54.167.213.134 # TODO: DNS
-$ cd /srv/www/aapb/current
-$ sudo chown deploy:apache /mnt/* # needed for the next section
-$ sudo su deploy
-$ bundle install
-$ bundle exec rake jetty:start
-```
-The disk space that comes with an EC2 instance is ephemeral: not that we expect instances to go down, but still.
-So for downloading and indexing we have EBS volumes symlinked to the appropriate locations:
-```bash
-$ mkdir tmp/pbcore # will not exist on a fresh install
-$ rm -rf tmp/pbcore/download
-$ ln -s /mnt/aapb-downloads tmp/pbcore/download
-$ rm -rf jetty/solr/blacklight-core/data/index
-$ ln -s /mnt/aapb-index jetty/solr/blacklight-core/data/index
-```
-At this point for the ingest script to work, we need a symlink to the gems. 
-There is probably a better way to do this:
-```bash
-$ mkdir -p ~/.gem/ruby # Might not exist?
-$ ln -s ~/.bundler/aapb/ruby/2.1.0 ~/.gem/ruby/2.1.0
-  # This should list everything bundle installed:
-$ ruby -e 'Gem.path.each{|dir|puts Dir["#{dir}/gems/*"]}'
-```
 Want to blow away the index before you start?
 ```bash
   # DELETES EVERYTHING!
