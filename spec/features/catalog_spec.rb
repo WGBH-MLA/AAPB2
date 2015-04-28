@@ -24,6 +24,11 @@ describe 'Catalog' do
     url = "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
     expect(page).to have_css("img[src='#{url}']")
   end
+  
+  def expect_poster(id)
+    url = "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    expect(page).to have_css("video[poster='#{url}']")
+  end
 
   describe '#index' do
     it 'can find one item' do
@@ -173,7 +178,7 @@ describe 'Catalog' do
         expect(page).to have_text(field)
       end
 
-      expect_thumbnail(1234)
+      expect_poster(1234)
     end
   end
 
