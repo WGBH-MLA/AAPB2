@@ -12,7 +12,8 @@ class Downloader
   KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
-
+  $LOG ||= NullLogger.new
+  
   def initialize(since) # rubocop:disable PerceivedComplexity, CyclomaticComplexity
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
@@ -22,7 +23,6 @@ class Downloader
         match[2].to_i.instance_eval { |m| (1 <= m) && (m <= 12) } &&
         match[3].to_i.instance_eval { |d| (1 <= d) && (d <= 31) }
     end
-    $LOG ||= NullLogger.new
   end
 
   def self.download_to_directory_and_link(opts={})

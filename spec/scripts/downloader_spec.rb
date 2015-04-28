@@ -28,7 +28,7 @@ describe Downloader, not_on_travis: true do
 
   describe 'download by id' do
     it 'works' do
-      dir = Downloader.download_to_directory_and_link(ids: ['cpb-aacip/17-00000qrv'])
+      dir = Downloader.download_to_directory_and_link(ids: ['cpb-aacip/17-00000qrv'], is_same_mount: true)
       expect(dir).to match(/\d{4}-\d{2}-\d{2}.*_by_ids_1/)
       files = Dir["#{dir}/*.pbcore"]
       expect(files.map { |f| f.sub(/.*\//, '') }).to eq(['17-00000qrv.pbcore'])
