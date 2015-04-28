@@ -1,3 +1,4 @@
+require_relative '../lib/rails_stub'
 require_relative 'lib/downloader'
 require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
@@ -102,13 +103,11 @@ class DownloadCleanIngest
   end
 
   def log_init(argv)
+    sanitized_argv = argv.grep(/--/).map { |a| a.sub('--', '') }.join('-')
     log_file_name = if @is_stdout_log
                       $stdout
                     else
-                      File.join(
-                        File.dirname(File.dirname(__FILE__)), 'log',
-                        "ingest-#{argv.grep(/--/).map { |a| a.sub('--', '') }.join('-')}.log"
-                      )
+                      Rails.root + "log/ingest-#{sanitized_argv}.log"
     end
     $LOG = Logger.new(log_file_name, 'daily')
     $LOG.formatter = proc do |severity, datetime, _progname, msg|

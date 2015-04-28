@@ -8,7 +8,7 @@ class MediaController < ApplicationController
     xml = document.instance_variable_get('@_source')['xml']
     pbcore = PBCore.new(xml)
 
-    ci = CiCore.new(credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
+    ci = CiCore.new(credentials_path: Rails.root + 'config/ci.yml')
     # OAuth credentials expire: otherwise it would make sense to cache this instance.
     if AccessControl.authorized_ip?(request.remote_ip)
       redirect_to ci.download(pbcore.ci_id)
