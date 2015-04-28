@@ -81,3 +81,10 @@ RSpec.configure do |config|
 #   # as the one that triggered the failure.
 #   Kernel.srand config.seed
 end
+
+module Rails
+  # Allow more idiomatic tests everywhere, without loading in all of rails.
+  def self.root
+    File.dirname(File.dirname(__FILE__)) + '/'
+  end
+end
