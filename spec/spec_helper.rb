@@ -85,6 +85,6 @@ end
 module Rails
   # Allow more idiomatic tests everywhere, without loading in all of rails.
   def self.root
-    File.dirname(File.dirname(__FILE__)) + '/'
+    Pathname.new(File.dirname(File.dirname(__FILE__)))
   end
 end
