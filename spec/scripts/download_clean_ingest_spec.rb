@@ -24,7 +24,7 @@ describe DownloadCleanIngest do
   end
 
   default_flags = '--stdout-log --same-mount --skip-sitemap'
-  default_mode = "--files #{File.dirname(__FILE__)}/../fixtures/dci/pbcore-dir/pbcore.xml"
+  default_mode = "--files #{Rails.root + 'spec/fixtures/dci/pbcore-dir/pbcore.xml'}"
   {
     # Expected to fail:
     '' => [/USAGE:/],
@@ -50,17 +50,17 @@ describe DownloadCleanIngest do
       /Successfully added .*37-010p2nvv.pbcore/,
       /1 succeeded/
     ],
-    "#{default_flags} --id-files #{File.dirname(__FILE__)}/../fixtures/dci/id-file.txt" => [
+    "#{default_flags} --id-files #{Rails.root + 'spec/fixtures/dci/id-file.txt'}" => [
       /Downloading .*guid\/37-010p2nvv/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Successfully added .*37-010p2nvv.pbcore/,
       /1 succeeded/
     ],
-    "#{default_flags} --dirs #{File.dirname(__FILE__)}/../fixtures/dci/pbcore-dir" => [
+    "#{default_flags} --dirs #{Rails.root + 'spec/fixtures/dci/pbcore-dir'}" => [
       /Updated solr record 1234/,
       /1 succeeded/
     ],
-    "#{default_flags} --files #{File.dirname(__FILE__)}/../fixtures/dci/pbcore-dir/pbcore.xml" => [
+    "#{default_flags} --files #{Rails.root + 'spec/fixtures/dci/pbcore-dir/pbcore.xml'}" => [
       /Updated solr record 1234/,
       /1 succeeded/
     ],
