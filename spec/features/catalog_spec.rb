@@ -175,9 +175,10 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
       target.send(:text).each do |field|
+        # #text is only used for #to_solr, so it's private... 
+        # so we need the #send to get at it.
         expect(page).to have_text(field)
       end
-
       expect_poster(1234)
     end
   end
