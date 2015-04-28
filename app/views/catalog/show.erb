@@ -35,13 +35,13 @@
 
   <h1 class="record-title"><%= @pbcore.title %></h1>
 
-  <% if @pbcore.media_src %>
-    <%= render partial: 'catalog/player' %>
-  <% else %>
-    <div class="well well-sm media-thumb">
+  <div class="well well-sm media-thumb">
+    <% if @pbcore.media_src && AccessControl.authorized_ip?(request.remote_ip) %>
+      <%= render partial: 'catalog/player' %>
+    <% else %>
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
-    </div>
-  <% end %>
+    <% end %>
+  </div>
 
   <dl>
     <dt>Description</dt>
