@@ -14,7 +14,8 @@
       </div>
       
     <% end %>
-  <% rescue Faraday::ConnectionFailed %>
-    <!-- Connection to <%= host %> failed; Will try again when cache expires. -->
+  <% rescue => e %>
+    <% logger.error(e.message + "\n" + e.backtrace.join("\n")) %>
+    <!-- WP API for <%= host %> failed; Will try again when cache expires. -->
   <% end %>
 <% end %>
