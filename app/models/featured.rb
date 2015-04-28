@@ -16,16 +16,14 @@ class Featured
     fail("unexpected #{hash}") unless hash == {}
   end
 
-  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/featured').tap do |parent_path|
-    @@galleries = Hash[
-      Dir["#{parent_path}/*-featured.yml"].map do |gallery_path|
-        [
-          gallery_path.sub(/.*\//, '').sub('-featured.yml', ''),
-          YAML.load_file(gallery_path).map { |hash| Featured.new(hash) }
-        ]
-      end
-    ]
-  end
+  @@galleries = Hash[
+    Dir[Rails.root + 'config/featured/*-featured.yml'].map do |gallery_path|
+      [
+        gallery_path.sub(/.*\//, '').sub('-featured.yml', ''),
+        YAML.load_file(gallery_path).map { |hash| Featured.new(hash) }
+      ]
+    end
+  ]
 
   def self.from_gallery(gallery_name)
     @@galleries[gallery_name]

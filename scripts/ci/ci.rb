@@ -1,6 +1,7 @@
 require 'yaml'
 require 'curb'
 require 'json'
+require_relative '../../lib/rails_stub'
 require_relative '../../lib/ci_core'
 
 class Ci < CiCore
@@ -181,7 +182,7 @@ if __FILE__ == $PROGRAM_NAME
 
   ci = Ci.new(
     # verbose: true,
-    credentials_path: File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/ci.yml')
+    credentials_path: Rails.root + 'config/ci.yml')
 
   begin
     case args.keys.sort
