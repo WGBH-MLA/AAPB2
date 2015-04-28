@@ -1,10 +1,12 @@
 # Obtaining Your Organization's Metadata
+
 To obtain a copy of the records that describe the moving image and sound assets 
 submitted to the AAPB by your organization, you may easily do so through the 
 [Archival Management System (AMS)](https://ams.americanarchive.org). There are 
 two formats available for record export: a limited CSV or PBCore XML.
 
 ## Limited CSVs
+
 A limited CSV exported from the AMS provides a basic inventory list of your 
 records that you can open as an Excel spreadsheet or another application that 
 supports CSV such as OpenOffice or GoogleDocs. 
@@ -40,8 +42,13 @@ GoogleDocs.
 
 ## PBCore XML
 
-PBCore XML records can be emailed to you as a zip file containing folders 
-titled by each record’s AAPB GUID. 
+For single records, cleaned and normalized PBCore can be obtained by adding
+".pbcore" to any AAPB url. For example: 
+http://americanarchive.org/catalog/cpb-aacip_37-95j9krh1.pbcore
+
+The original, unnormalized PBCore is available from the AMS. PBCore XML records 
+can be emailed to you as a zip file containing folders titled by each record’s 
+AAPB GUID. 
 
 To export PBCore XML, you will need to be logged into the AMS. From the records 
 page, you should see all of your organization’s records. 
