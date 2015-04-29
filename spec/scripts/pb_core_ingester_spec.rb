@@ -2,7 +2,7 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require 'tmpdir'
 
 describe PBCoreIngester do
-  let(:path) { File.dirname(File.dirname(__FILE__)) + '/fixtures/pbcore/clean-MOCK.xml' }
+  let(:path) { Rails.root + 'spec/fixtures/pbcore/clean-MOCK.xml' }
 
   before(:each) do
     @ingester = PBCoreIngester.new(is_same_mount: true)

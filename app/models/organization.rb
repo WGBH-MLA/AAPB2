@@ -92,13 +92,10 @@ class Organization
     fail("unexpected #{hash}") unless hash == {}
   end
 
-  # TODO: better idiom for locating configuration files?
-  (File.dirname(File.dirname(File.dirname(__FILE__))) + '/config/organizations.yml').tap do |path|
-    orgs = YAML.load_file(path).map { |hash| Organization.new(hash) }
-    @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
-    @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
-  end
-
+  orgs = YAML.load_file(Rails.root + 'config/organizations.yml').map { |hash| Organization.new(hash) }
+  @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
+  @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
+  
   public
 
   def self.find_by_pbcore_name(pbcore_name)

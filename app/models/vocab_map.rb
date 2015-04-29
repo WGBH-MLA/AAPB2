@@ -2,7 +2,7 @@ require 'yaml'
 
 class VocabMap
   def self.for(vocab)
-    path = File.dirname(File.dirname(File.dirname(__FILE__))) + "/config/vocab-maps/#{vocab}-type-map.yml"
+    path = Rails.root + "config/vocab-maps/#{vocab}-type-map.yml"
     VocabMap.new(path)
   end
 

@@ -8,7 +8,7 @@ class Solr
   
   def initialize
     environment = ENV['RAILS_ENV'] || DEFAULT
-    conf = YAML.load_file(File.dirname(__FILE__) + '/../../config/blacklight.yml')
+    conf = YAML.load_file(Rails.root + 'config/blacklight.yml')
     @connect = RSolr.connect(url: conf[environment]['url'])
   end
   

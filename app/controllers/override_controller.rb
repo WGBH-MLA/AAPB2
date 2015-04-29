@@ -9,8 +9,7 @@ class OverrideController < ApplicationController
 #        render file: override_html_erb_file_path
 #        return
 #      end
-      override_md_file_path = "override/#{params[:path]}.md"
-      full_path = (File.dirname(File.dirname(__FILE__))) + "/views/#{override_md_file_path}"
+      full_path = Rails.root + "app/views/override/#{params[:path]}.md"
       if File.exist?(full_path)
         html = Markdowner.render_file(full_path)
         (@title, @body) = html.match(/^\s*<h1>(.*?)<\/h1>(.*)/m).captures

@@ -5,7 +5,7 @@ require 'singleton'
 class LinkChecker
   include Singleton
 
-  FILENAME = File.join(File.dirname(__FILE__), '.link-check.txt')
+  FILENAME = File.dirname(__FILE__) + '/.link-check.txt'
   RE_IGNORES = [
     /^\/catalog\?/, # too many combos
     /^\/catalog\//, # redundant: other tests load each fixture

@@ -4,14 +4,13 @@ describe 'code style' do
     @merge = []
     @error = []
 
-    root = File.dirname(File.dirname(File.dirname(__FILE__)))
-    all_paths = Dir[root + '/{app,config,scripts,spec}/**/*']
+    all_paths = Dir[Rails.root + '{app,config,scripts,spec}/**/*']
     paths_to_check = all_paths.reject do |path|
       path=~/\.(jar|ico|png|gif|jpg)$/ || 
         File.directory?(path) ||
         path == __FILE__
     end
-    puts "Checking #{paths_to_check.count} files under #{root} for cruft..."
+    puts "Checking #{paths_to_check.count} files under #{Rails.root} for cruft..."
     paths_to_check.each do |path|
       File.readlines(path).each_with_index do |line, i|
         combo = "#{path}:#{i}: #{line}"
