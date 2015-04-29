@@ -22,4 +22,7 @@
     <source src="<%= @pbcore.media_src %>" type='TODO' />
     <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 audio</a></p>
   </audio>
+<% else %>
+  <!-- It should have been either video or audio. -->
+  <% logger.error("#{@pbcore.id} is neither video nor audio.") %>
 <% end %>

@@ -24,6 +24,11 @@ describe 'Catalog' do
     url = "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
     expect(page).to have_css("img[src='#{url}']")
   end
+  
+  def expect_poster(id)
+    url = "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    expect(page).to have_css("video[poster='#{url}']")
+  end
 
   describe '#index' do
     it 'can find one item' do
@@ -170,10 +175,11 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
       target.send(:text).each do |field|
+        # #text is only used for #to_solr, so it's private... 
+        # so we need the #send to get at it.
         expect(page).to have_text(field)
       end
-
-      expect_thumbnail(1234)
+      expect_poster(1234)
     end
   end
 

@@ -68,5 +68,27 @@ describe ValidationHelper do
       end
       expect_fuzzy_xml
     end
+    
+    it 'handles iframe' do
+      def page
+        Fake.new(body: '<iframe src="/iframe.html" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
+      end
+    end
+    
+    it 'handles video' do
+      # "-" in attribute name was tripping us up.
+      def page
+        Fake.new(body: <<END
+          <video class="video-js vjs-default-skin" controls preload="none" width="400" height="300"
+              poster="/poster.jpg"
+              data-setup="{}">
+            <source src="/media.mp4" type='video/mp4' />
+            <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+          </video>
+END
+          )
+      end
+      expect_fuzzy_xml
+    end
   end
 end

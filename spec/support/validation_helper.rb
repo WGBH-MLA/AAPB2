@@ -2,6 +2,19 @@ require 'rexml/document'
 require_relative 'link_checker'
 
 module ValidationHelper
+  # http://www.w3.org/TR/REC-xml/#NT-NameStartChar
+  NAME_START_CHARS = <<END
+        : A-Z _ a-z \u{C0}-\u{D6} \u{D8}-\u{F6} \u{F8}-\u{2FF} 
+        \u{370}-\u{37D} \u{37F}-\u{1FFF} \u{200C}-\u{200D} \u{2070}-\u{218F} 
+        \u{2C00}-\u{2FEF} \u{3001}-\u{D7FF} \u{F900}-\u{FDCF} \u{FDF0}-\u{FFFD} 
+        \u{10000}-\u{EFFFF} 
+END
+    .gsub(/\s/,'')
+  NAME_CHARS = "#{NAME_START_CHARS} . 0-9 \u{B7} \u{0300}-\u{036F} \u{203F}-\u{2040} -".gsub(/\s/,'')
+  XML_NAME_RE = /[#{NAME_START_CHARS}][#{NAME_CHARS}]*/
+  ATTR_VAL_RE = /\s+#{XML_NAME_RE}\s*=\s*(?:"[^"]*"|'[^']*')/ # includes leading space
+  MISSING_VAL_RE = /(<#{XML_NAME_RE}+#{ATTR_VAL_RE}*\s+#{XML_NAME_RE}+)(#{ATTR_VAL_RE}*\/?>)/
+  
   def expect_fuzzy_xml
     xhtml = page.body
     # Kludge valid HTML5 to make it into valid XML.
@@ -10,10 +23,11 @@ module ValidationHelper
     xhtml.gsub!(/<((meta|link|img|hr|br)([^>]+[^\/])?)>/, '<\2/>')
 
     # give values to attributes
-    attribute_re = %q{(?:\\s+\\w+\\s*=\\s*(?:"[^"]*"|'[^']*'))}
-    xhtml.gsub!(/(<\w+#{attribute_re}*\s+\w+)(#{attribute_re}*\/?>)/, '\1=""\2')
-
+    xhtml.gsub!(MISSING_VAL_RE, '\1="FILLER"\2')
+    
+    # iframe kludge: What's the problem here? TODO
     xhtml.gsub!(/<iframe[^>]+><\/iframe>/, '<!-- iframe was here -->')
+    
     REXML::Document.new(xhtml)
 
     page.all('a').map { |element| element['href'] }.each { |url| LinkChecker.instance.check(url) }
