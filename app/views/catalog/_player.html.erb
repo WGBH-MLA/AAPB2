@@ -9,8 +9,7 @@
 </script>
 
 <% if @pbcore.video? %>
-  <video class="video-js vjs-default-skin" controls="value here for xml validation" 
-      preload="none" width="400" height="300"
+  <video class="video-js vjs-default-skin" controls preload="none" width="400" height="300"
       poster="<%= @pbcore.img_src %>"
       data-setup="{}">
     <source src="<%= @pbcore.media_src %>" type='video/mp4' />
