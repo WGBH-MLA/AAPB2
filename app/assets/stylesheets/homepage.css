@@ -4,6 +4,7 @@
 
 /* sets width for Homepage Container */
 .blacklight-home #main-container {
+	padding-bottom:0;
 	width:100%;
 }
 

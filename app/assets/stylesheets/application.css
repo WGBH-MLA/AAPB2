@@ -76,8 +76,9 @@
 #header-navbar .navbar-brand {
 	background: transparent url(/site-ui/logo.png) no-repeat 0 0;
 	width: 225px;
-	height: 36px;
+	height: 40px;
 	background-size: 100% auto;
+	margin-left:1em;
 	margin-right: 0;
 	margin-top:7px;
 	padding:0;
@@ -702,7 +703,7 @@ hr {
 		background-color:#F0F0F0;
 		height:50px;
 		position:absolute;
-		right:15px;
+		right:0;
 		top:-60px;
 		text-align:center;
 		width:100%;
@@ -810,10 +811,10 @@ hr {
 	/*Logo*/
 	#header-navbar .navbar-brand {
 		background-size: auto 100%;
-		height: 45px;
-		margin-left: 20px;
-		margin-top:-20px;
-		width: 280px;
+		height: 51px;
+		margin-left: 1em;
+		margin-top:-17px;
+		width: 320px;
 	}
 
 	/*Primary NAv*/
@@ -1057,8 +1058,9 @@ hr {
 
 	/*Logo*/
 	#header-navbar .navbar-brand {
-		height: 48px;
-		width: 300px;
+		height: 61px;
+		margin-top: -29px;
+  	width: 380px;
 	}
 
 }/* END: Wide Desktop ---------- */
