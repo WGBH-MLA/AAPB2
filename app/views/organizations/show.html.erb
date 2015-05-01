@@ -2,26 +2,7 @@
   <h1>Participating Organizations</h1>
 </div>
 
-<!-- Top -->
-<div class="jumbotron org-o-tron">
-  <div class="container">
-    
-    <h1><%= @org.short_name %></h1>
 
-    <p><%= @org.city %>, <%= @org.state %></p>
-    
-    <% if @org.logo_src %>
-      <img src="<%= @org.logo_src %>" alt="<%= @org.short_name %> logo" class="org-logo"/>
-    <% end %>
-
-    <%# TODO: better link idiom %>
-    <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
-
-    <a href="/catalog?f[organization][]=<%= CGI::escape(@org.facet)%>" class="btn btn-default btn-sm">All records</a>
-
-  </div>
-</div>
-<!-- END Top -->
 
 <br />
 
@@ -44,6 +25,27 @@
 
   <!-- START: Main Column -->
   <div class="col-md-8">
+
+    <!-- Org-o-tron -->
+    <div class="jumbotron org-o-tron">
+      <div class="container">
+        
+        <h2><%= @org.short_name %></h2>
+
+        <p><%= @org.city %>, <%= @org.state %></p>
+        
+        <% if @org.logo_src %>
+          <img src="<%= @org.logo_src %>" alt="<%= @org.short_name %> logo" class="org-logo"/>
+        <% end %>
+
+        <%# TODO: better link idiom %>
+        <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
+
+        <a href="/catalog?f[organization][]=<%= CGI::escape(@org.facet)%>" class="btn btn-default btn-sm">View All Records</a>
+
+      </div>
+    </div>
+    <!-- END Org-o-tron -->
 
     <% if @org.history_html %>
       <a name="history"></a>
