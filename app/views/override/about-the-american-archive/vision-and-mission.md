@@ -1,6 +1,6 @@
 # Vision and Mission Statements
 
-<img src="../../../../page-banners/banner1.jpg" title="Vision and Mission Statements" class="page-banner" />
+![banner](/page-banners/banner1.jpg)
 
 ## Vision Statement
 
