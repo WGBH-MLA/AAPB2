@@ -3,26 +3,25 @@
 <!-- video.js must be in the <head> for older IEs to work. -->
 <script src="/video-js/video.js"></script>
 
-<!-- Unless using the CDN hosted version, update the URL to the Flash SWF -->
 <script>
   videojs.options.flash.swf = "/video-js/video-js.swf";
 </script>
 
-<% if @pbcore.video? %>
-  <video class="video-js vjs-default-skin" controls preload="none" width="400" height="300"
-      poster="<%= @pbcore.img_src %>"
-      data-setup="{}">
-    <source src="<%= @pbcore.media_src %>" type='video/mp4' />
-    <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
-  </video>
-<% elsif @pbcore.audio? %>
-  <audio class="video-js vjs-default-skin" controls preload="none" width="400" height="300"
-      poster="<%= @pbcore.img_src %>"
-      data-setup="{}">
-    <source src="<%= @pbcore.media_src %>" type='TODO' />
-    <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 audio</a></p>
-  </audio>
-<% else %>
+
+<% if @pbcore.video? || @pbcore.audio?
+  (@pbcore.video? ? 'video' : 'audio').tap do |media| %>
+    <%= content_tag(media, 'class' => 'video-js vjs-default-skin', controls: true, 
+                       preload: 'none', width: 400, height: 300,
+                       poster: @pbcore.img_src, 'data-setup' => '{}') do %>
+
+      <source src="<%= @pbcore.media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+      <p class="vjs-no-js">
+        To play this <%= media %> please enable JavaScript, and consider upgrading to a web browser that 
+        <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 <%= media %></a>.
+      </p>
+<%    end
+    end
+  else %>
   <!-- It should have been either video or audio. -->
   <% logger.error("#{@pbcore.id} is neither video nor audio.") %>
 <% end %>
