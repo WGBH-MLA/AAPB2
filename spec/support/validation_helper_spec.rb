@@ -50,7 +50,7 @@ describe ValidationHelper do
   describe 'adding attribute values' do
     it 'adds values' do
       def page
-        Fake.new(body: '<html><arbitrary attribute/></html>')
+        Fake.new(body: '<html><arbitrary attribute></arbitrary></html>')
       end
       expect_fuzzy_xml
     end
@@ -70,9 +70,11 @@ describe ValidationHelper do
     end
     
     it 'handles iframe' do
+      # multiple value-less attributes were tripping us up.
       def page
         Fake.new(body: '<iframe src="/iframe.html" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
       end
+      expect_fuzzy_xml
     end
     
     it 'handles video' do

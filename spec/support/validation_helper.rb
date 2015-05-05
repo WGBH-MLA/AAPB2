@@ -11,23 +11,28 @@ module ValidationHelper
 END
     .gsub(/\s/,'')
   NAME_CHARS = "#{NAME_START_CHARS} . 0-9 \u{B7} \u{0300}-\u{036F} \u{203F}-\u{2040} -".gsub(/\s/,'')
-  XML_NAME_RE = /[#{NAME_START_CHARS}][#{NAME_CHARS}]*/
-  ATTR_VAL_RE = /\s+#{XML_NAME_RE}\s*=\s*(?:"[^"]*"|'[^']*')/ # includes leading space
-  MISSING_VAL_RE = /(<#{XML_NAME_RE}+#{ATTR_VAL_RE}*\s+#{XML_NAME_RE}+)(#{ATTR_VAL_RE}*\/?>)/
+  XML_NAME_RE = /[#{NAME_START_CHARS}][#{NAME_CHARS}]*+/ # possessive: do not backtrack to find shorter match
+  ATTR_VAL_RE = /#{XML_NAME_RE}\s*=\s*(?:"[^"]*"|'[^']*')/
+  MISSING_VAL_RE = /
+    (<#{XML_NAME_RE}\s+
+      (?:#{ATTR_VAL_RE}\s+)*
+      #{XML_NAME_RE})\s*+
+    (?!=)
+  /x
   
   def expect_fuzzy_xml
-    xhtml = page.body
     # Kludge valid HTML5 to make it into valid XML.
-
+    xhtml = page.body
     # self-close tags
     xhtml.gsub!(/<((meta|link|img|hr|br)([^>]+[^\/])?)>/, '<\2/>')
 
     # give values to attributes
-    xhtml.gsub!(MISSING_VAL_RE, '\1="FILLER"\2')
+    while xhtml.gsub!(MISSING_VAL_RE, '\1="FILLER" ') do
+      # Plain gsub doesn't work because that moves the cursor after each replace.
+      # RE lookbehinds don't work because they must be constant length.
+    end
     
-    # iframe kludge: What's the problem here? TODO
-    xhtml.gsub!(/<iframe[^>]+><\/iframe>/, '<!-- iframe was here -->')
-    
+    # try to parse as xml
     REXML::Document.new(xhtml)
 
     page.all('a').map { |element| element['href'] }.each { |url| LinkChecker.instance.check(url) }
