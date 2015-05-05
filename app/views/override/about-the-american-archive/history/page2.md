@@ -1,7 +1,6 @@
 # A Brief History of the AAPB
 
-+![banner](/page-banners/banner1.jpg)
-+
+![banner](/page-banners/banner1.jpg)
 
 ## 21st Century – Toward “A Digital Public Broadcasting Archive” 
 
