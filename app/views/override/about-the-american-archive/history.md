@@ -1,5 +1,7 @@
 # A Brief History of the AAPB
 
+![banner](/page-banners/banner3.jpg)
+
 >
 Digital technology not only offers a means for creating a universally 
 acceptable archive but also allows the materials to be repurposed in a thousand 

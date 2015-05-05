@@ -1,5 +1,8 @@
 # On Location Research
 
+![banner](/page-banners/banner2.jpg)
+
+
 Members of the general public may access the American Archive of Public Broadcasting metadata records and proxy files within the WGBH Media Library and Archives offices and at the Library of Congress Moving Image and Recorded Sound Research Centers. Users accessing AAPB materials at the on-site research locations must agree to abide by AAPB Access Policies. 
 
 ## Visiting WGBH

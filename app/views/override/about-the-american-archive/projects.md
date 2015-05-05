@@ -1,5 +1,7 @@
 # Projects
 
+![banner](/page-banners/banner4.jpg)
+
 ## American Archive of Public Broadcasting Permanent Entity Grant
 
 In April 2013, Corporation for Public Broadcasting (CPB) selected WGBH and the Library of Congress as the permanent stewards of the American Archive. The initial two-year project funded by CPB is currently underway. During this first phase, AAPB will accomplish the following tasks: 
