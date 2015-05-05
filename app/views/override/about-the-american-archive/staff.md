@@ -1,5 +1,7 @@
 # AAPB Staff
 
+![banner](/page-banners/banner5.jpg)
+
 **Karen Cariani, Project Director**<br/>
 **WGBH**<br/>
 Karen has been director of the WGBH Media Library since its inception in 1990. 
