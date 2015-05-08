@@ -2,6 +2,8 @@
 
 ![banner](/page-banners/banner3.jpg)
 
+By Alan Gevinson, Ph.D., Project Director for the American Archive of Public Broadcasting at the Library of Congress
+
 >
 Digital technology not only offers a means for creating a universally 
 acceptable archive but also allows the materials to be repurposed in a thousand 
