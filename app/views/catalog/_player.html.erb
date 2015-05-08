@@ -10,7 +10,8 @@
 
 <% if @pbcore.video? || @pbcore.audio?
   (@pbcore.video? ? 'video' : 'audio').tap do |media| %>
-    <%= content_tag(media, 'class' => 'video-js vjs-default-skin', controls: true, 
+    <%= content_tag(media, 'class' => 'video-js vjs-default-skin', controls: true,
+                       oncontextmenu: 'return false;', 
                        preload: 'none', width: 400, height: 300,
                        poster: @pbcore.img_src, 'data-setup' => '{}') do %>
 
