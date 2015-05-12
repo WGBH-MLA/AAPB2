@@ -1073,6 +1073,12 @@ hr {
 
 }/* END: Wide Desktop ---------- */
 
+/* Video Player ---------------- */
+.video-js {
+    margin-left: auto;
+    margin-right: auto;
+}
+/* END: Video Player ----------- */
 
 	.clearfix:after {
 		visibility: hidden;
