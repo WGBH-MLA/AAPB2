@@ -60,11 +60,9 @@ Want to blow away the index before you start?
   # DELETES EVERYTHING!
 $ ruby -I . -e 'require "scripts/lib/pb_core_ingester"; PBCoreIngester.new(same_mount: true).delete_all'
 ```
-To download and ingest everything (which will take a while):
+To download and ingest everything on the server (which will take a while):
 ```bash
-$ nohup ruby scripts/download_clean_ingest.rb --all >> ~/ingest.log 2>> ~/ingest.err &
-$ cat ~/ingest.err # to make sure it started without errors ...
-$ tail -f ~/ingest.log # and make sure it's doing the right thing.
+$ nohup ruby scripts/download_clean_ingest.rb --all &
 ```
 
 (The script can be run in several modes. Run it without arguments for more details:
