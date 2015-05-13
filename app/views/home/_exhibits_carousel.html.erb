@@ -1,0 +1,17 @@
+<div class="well intro-text">
+  <h1>Exhibits</h1>
+</div>
+
+
+<%= render layout: 'shared/carousel', 
+           locals: {
+                    id: 'exhibits-carousel', 
+                    items: Featured.from_gallery('home')
+                   } do |item| %>
+  <a href="<%= "/catalog/#{item.id}" %>" class="list-group-item" >
+    <img src="<%= item.thumbnail_url %>" title="<%= item.name %>" alt="<%= item.name %>" />
+    <span class="carousel-caption">
+      <h3 class="list-group-item-heading"><%= item.name %></h3>
+    </span>
+  </a>
+<% end %>

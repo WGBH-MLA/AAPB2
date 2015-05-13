@@ -288,7 +288,8 @@
 
 	/* Home Jumbotron - Featured Collections */
 	#collections {
-		background-image:url(/home-bg/home-three.jpg);
+                /* TODO: a different, distinct image? */
+		background-image:url(/home-bg/home-one.jpg);
 	}
 
 	/* Home Jumbotron - Featured Collections */
