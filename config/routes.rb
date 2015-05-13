@@ -7,6 +7,9 @@ Rails.application.routes.draw do
             path: '/participating-orgs', # for backwards compatibility.
             constraints: { id: /.*/ }, # so periods in station IDs are acceptable.
             only: [:index, :show]
+  
+  resources 'exhibits',
+            only: [:show]
 
   resources 'media',
             only: [:show]
