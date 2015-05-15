@@ -27,7 +27,7 @@ class Exhibit
     @name = pop(hash, 'name')
     @ids = pop(hash, 'ids')
     @thumbnail_url = pop(hash, 'thumbnail_url')
-    @html = Markdowner.render("# #{@name}\n#{pop(hash, 'md')}")
+    @html = Markdowner.render(pop(hash, 'md'))
     fail("unexpected #{hash}") unless hash == {}
   end
 
