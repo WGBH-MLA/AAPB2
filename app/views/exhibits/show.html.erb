@@ -1,0 +1,15 @@
+<% content_for :sidebar do %>
+  <%= render 'shared/sidebar_search' %>
+  <%= render layout: 'shared/sidebar_nav', locals: { title: 'Exhibits' } do %>
+    <% @all.each do |exhibit| %>
+      <li class="active"><a href="/exhibits/<%= exhibit.slug %>"><%=  exhibit.name %></a></li>
+    <% end %>
+  <% end %>
+<% end %>
+
+<%= render partial: 'shared/title_sidebar_main', 
+           locals: { 
+             title: @exhibit.name,
+             sidebar: yield(:sidebar),
+             main: @exhibit.html.html_safe
+           } %>

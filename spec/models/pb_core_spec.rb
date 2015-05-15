@@ -79,6 +79,7 @@ describe 'Validated and plain PBCore' do
           'title' => 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
           'year' => '2000',
+          'exhibits' => [],
           'media_type' => 'Moving Image',
           'genres' => ['Horror', 'Musical'],
           'asset_type' => 'Album',
@@ -93,6 +94,7 @@ describe 'Validated and plain PBCore' do
         titles: [['Episode Number', '3-2-1'], ['Episode', 'Kaboom!'], #
                  ['Program', 'Gratuitous Explosions'], ['Series', 'NOVA']],
         title: 'Kaboom!',
+        exhibits: [],
         descriptions: ['Best episode ever!'],
         instantiations: [PBCore::Instantiation.new('Moving Image', '0:12:34')],
         rights_summary: 'Copy Left: All rights reversed.',
