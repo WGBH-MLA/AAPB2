@@ -1,0 +1,90 @@
+# Case-insensitive substring on the left,
+# replacement on the right.
+# Final line is a fall-through.
+
+!omap
+  Agriculture: Agriculture
+  Animal: Animals
+  Antiques: Antiques and Collectibles
+  Collectibles: Antiques and Collectibles
+  Biography: Biography
+  Business: Business
+  Consumer Affairs: Consumer Affairs and Advocacy
+  Cooking: Cooking
+  Crafts: Crafts
+  Dance: Dance
+  Economics: Economics
+  Educational: Educational
+  Education: Education
+  Employment: Employment
+  Energy: Energy
+  Environment: Environment
+  Exercise: Exercise
+  Film and Television: Film and Television
+  Fine Arts: Fine Arts
+  Gardening: Gardening
+  Geography: Geography
+  Global Affairs: Global Affairs
+  World Affairs: Global Affairs
+  Politics: Politics
+  Government: Government
+  Health: Health
+  History: History
+  Holiday: Holiday
+  Home Improvement: Home Improvement
+  Humor: Humor
+  Journalism: Journalism
+  LGBT: LGBTQ
+  Literature: Literature
+  Local Communities: Local Communities
+  Recorded Music: Recorded Music
+  Performance in a Studio: Performance in a Studio
+  Performance for a Live Audience: Performance for a Live Audience
+  Music: Music
+  Nature: Nature
+  Magazine: Magazine
+  News Report: News Report
+  News: News
+  Parenting: Parenting
+  Performing Arts: Performing Arts
+  Philosophy: Philosophy
+  Public Affairs: Public Affairs
+  Race and Ethnicity: Race and Ethnicity
+  Religion: Religion
+  Science: Science
+  Social Issues: Social Issues
+  Sports: Sports
+  Technology: Technology
+  Theater: Theater
+  Theatre: Theater
+  Travel: Travel
+  War : War and Conflict
+  Weather: Weather
+  Women: Women
+  Call-in: Call-in
+  Callin: Call-in
+  Call in: Call-in
+  Children: Children’s
+  Debate: Debate
+  Documentary: Documentary
+  Drama: Drama
+  Event Coverage: Event Coverage
+  Fundraiser: Fundraiser
+  Pledge: Fundraiser
+  Game Show: Game Show
+  Quiz Show: Game Show
+  Instructional: Instructional
+  How to: Instructional
+  How-to: Instructional
+  Interview: Interview
+  Mini: Miniseries
+  Promo: Promo
+  Public Service Announcement: Public Service Announcement
+  PSA: Public Service Announcement
+  Radio Theater: Radio Theater
+  Special: Special
+  Stand-up: Stand-up
+  Talk: Talk Show
+  Unedited: Unedited
+  Raw Footage: Unedited
+  '': ''
