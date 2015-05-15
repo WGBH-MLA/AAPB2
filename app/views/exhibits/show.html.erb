@@ -11,5 +11,5 @@
            locals: { 
              title: @exhibit.name,
              sidebar: yield(:sidebar),
-             main: @exhibit.html
+             main: @exhibit.html.html_safe
            } %>

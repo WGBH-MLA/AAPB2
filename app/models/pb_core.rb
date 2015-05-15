@@ -1,6 +1,7 @@
 require 'rexml/document'
 require 'rexml/xpath'
 require 'solrizer'
+require_relative 'exhibit'
 
 require_relative 'organization'
 
@@ -66,6 +67,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def title
     @title ||= xpaths('/*/pbcoreTitle[@titleType!="Episode Number"]').first ||
                xpaths('/*/pbcoreTitle').first # There are records that only have "Episode Number"
+  end
+  def exhibits
+    @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.name }
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')
@@ -168,6 +172,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'year' => year,
 
       # facets:
+      'exhibits' => exhibits,
       'media_type' => media_type == OTHER ? nil : media_type,
       'genres' => genres,
       'asset_type' => asset_type,
