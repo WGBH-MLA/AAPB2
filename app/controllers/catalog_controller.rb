@@ -133,7 +133,7 @@ class CatalogController < ApplicationController
       }
     end
 
-    config.add_search_field('contribs', label: 'Contributors') do |field|
+    config.add_search_field('contribs', label: 'Cast & Crew') do |field|
       field.solr_local_parameters = {
         qf: '$contribs_qf',
         pf: '$contribs_pf'
