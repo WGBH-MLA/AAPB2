@@ -107,6 +107,7 @@
 /* WELCOME PANEL ---------- */
 /* -------------------- */
 
+/* TODO: change to class, since we're using it twice. */
 #welcome-panel {
 	background-color:rgba(255,255,255,.25);
 	margin-bottom:2em;
@@ -117,11 +118,7 @@
 	padding:2em;
 }
 	
-	#welcome-panel h3,
-	#welcome-panel h3 a,
-	#welcome-panel h6,
-	#welcome-panel p,
-	#welcome-panel p a,
+	#welcome-panel *,
 	#welcome-panel .btn-link:link, 
 	#welcome-panel .btn-link:visited {
 		color:#FFF;
@@ -201,7 +198,15 @@
 
 		#collections:after { background-color:rgba(159,32,100,.85); }
 
-	/* Home Jumbotron - Featured Collections */
+	/* Home Jumbotron - Browse */
+	#browse {
+		background-color:rgb(144,41,142);
+		background-image:none;
+	}
+
+		#browse:after { background-color:rgba(144,41,142,.85); }
+                
+	/* Home Jumbotron - Staff */
 	#staff {
 		background-color:rgb(144,41,142);
 		background-image:none;
@@ -288,6 +293,12 @@
 
 	/* Home Jumbotron - Featured Collections */
 	#collections {
+                /* TODO: a different, distinct image? */
+		background-image:url(/home-bg/home-one.jpg);
+	}
+        
+	/* Home Jumbotron - Browse */
+	#browse {
                 /* TODO: a different, distinct image? */
 		background-image:url(/home-bg/home-one.jpg);
 	}
