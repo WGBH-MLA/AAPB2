@@ -4,28 +4,71 @@
 
 <div class="container">
   <div id="welcome-panel" class="row">
-      <div class="col-md-6 column">
-
-        <h3>Topic</h3>
-        
-        <ul>
-          <li><a>Slithy</a></li>
-          <li><a>Toves</a></li>
-          <li><a>Outgabe</a></li>
-        </ul>
-
-      </div>
-     
-      <div class="col-md-6 column">
+    
+      <div class="col-md-3 column">
 
         <h3>Format</h3>
         
         <ul>
-          <li><a>Slithy</a></li>
-          <li><a>Toves</a></li>
-          <li><a>Outgabe</a></li>
+          <%
+            ["Call-in", "Children’s", "Debate", "Documentary", "Drama", "Event Coverage", 
+            "Fundraiser", "Game Show", "Instructional", "Interview", "Miniseries", 
+            "Promo", "Public Service Announcement", "Radio Theater", "Special", 
+            "Stand-up", "Talk Show"].each do |term| %>
+              <li><a href="/catalog?q=<%= term %>"><%= term %></a></li>
+          <% end %>
         </ul>
 
       </div>
+    
+      <div class="col-md-3 column">
+
+        <h3>Topic</h3>
+        
+        <ul>
+          <%
+            ["Agriculture", "Animals", "Antiques and Collectibles", "Biography", 
+            "Business", "Consumer Affairs and Advocacy", "Cooking", "Crafts", 
+            "Dance", "Economics", "Educational", "Education", "Employment", 
+            "Energy", "Environment", "Exercise"].each do |term| %>
+              <li><a href="/catalog?q=<%= term %>"><%= term %></a></li>
+          <% end %>
+          
+        </ul>
+
+      </div>
+    
+      <div class="col-md-3 column">
+        
+        <ul>
+          <%
+            ["Film and Television", "Fine Arts", 
+            "Gardening", "Geography", "Global Affairs", "Politics", "Government", 
+            "Health", "History", "Holiday",
+            "Home Improvement", "Humor", "Journalism", 
+            "LGBTQ", "Literature", "Local Communities", "Performance", "Music"].each do |term| %>
+              <li><a><a href="/catalog?q=<%= term %>"><%= term %></a></li>
+          <% end %>
+          
+        </ul>
+
+      </div>
+    
+      <div class="col-md-3 column">
+        
+        <ul>
+          <%
+            [
+            "Nature", "Magazine", "News Report", "News", "Parenting", "Performing Arts", 
+            "Philosophy", "Public Affairs", "Race and Ethnicity", "Religion", "Science", 
+            "Social Issues", "Sports", "Technology", "Theater", "Travel", 
+            "War and Conflict", "Weather", "Women"].each do |term| %>
+              <li><a><a href="/catalog?q=<%= term %>"><%= term %></a></li>
+          <% end %>
+          
+        </ul>
+
+      </div>
+     
     </div>
 </div>
