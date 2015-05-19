@@ -157,7 +157,7 @@ class CatalogController < ApplicationController
     @response, @document = fetch(params['id'])
     xml = @document.instance_variable_get('@_source')['xml']
     
-    if !session[:affirm_terms]
+    if !session[:affirm_terms] && (xml.video? || xml.audio?)
       # Could limit this to pages with just media, 
       # but that should be most of the traffic, in any case.
       redirect_to "/terms/#{CGI::escape(params['id'])}"
