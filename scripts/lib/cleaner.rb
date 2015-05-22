@@ -10,6 +10,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     @date_type_map = VocabMap.for('date')
     @title_type_map = VocabMap.for('title')
     @description_type_map = VocabMap.for('description')
+    @genre_type_map = VocabMap.for('genre')
 
     @report = {}
     def @report.to_s
@@ -83,6 +84,12 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     @description_type_map.map_reorder_nodes(
       REXML::XPath.match(doc, '//pbcoreDescription/@descriptionType'))
 
+    # pbcoreGenre:
+
+    match_no_report(doc, '/pbcoreGenre') { |node|
+      @genre_type_map.map_node(node)
+    }
+    
     # pbcoreRelation:
 
     match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') { |node|

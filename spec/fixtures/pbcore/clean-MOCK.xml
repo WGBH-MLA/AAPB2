@@ -12,8 +12,8 @@
   <pbcoreSubject>explosions -- gratuitious</pbcoreSubject>
   <pbcoreSubject>musicals -- horror</pbcoreSubject>
   <pbcoreDescription>Best episode ever!</pbcoreDescription>
-  <pbcoreGenre>Horror</pbcoreGenre>
-  <pbcoreGenre>Musical</pbcoreGenre>
+  <pbcoreGenre/>
+  <pbcoreGenre>Music</pbcoreGenre>
   <pbcoreCreator>
     <creator affiliation='Stooges'>Larry</creator>
     <creatorRole>balding</creatorRole>

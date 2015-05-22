@@ -1,0 +1,19 @@
+<div class="well intro-text">
+  <h1>Browse the Collection</h1>
+</div>
+
+<div class="container">
+  <div id="welcome-panel" class="row">
+    <% VocabMap.for('genre').authorized_names.sort.in_groups(4).each do |group| %>
+      <div class="col-md-3 column" style="padding: 0 2em;">
+        <%# TODO: Better CSS. Don't want big breaks in narrow layout. %>
+        <ul>
+          <% group.select { |genre| genre && !genre.empty? }.each do |genre| %>
+            <%# TODO: (1) facet search. (2) split into "topic" and "format". %>
+            <li><a href="/catalog?q=<%= CGI::escape(genre) %>"><%= genre %></a></li>
+          <% end %>
+        </ul>
+      </div>
+    <% end %>
+  </div>
+</div>
