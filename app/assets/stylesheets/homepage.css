@@ -291,6 +291,12 @@
 		background-image:url(/home-bg/home-two.jpg);
 	}
 
+        /* Home Jumbotron - Video */
+	#video {
+                /* TODO: a different, distinct image? */
+		background-image:url(/home-bg/home-one.jpg);
+	}
+        
 	/* Home Jumbotron - Featured Collections */
 	#collections {
                 /* TODO: a different, distinct image? */
