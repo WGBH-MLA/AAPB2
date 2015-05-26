@@ -75,6 +75,21 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     match(doc, '/pbcoreTitle[not(@titleType)]') { |node|
       node.attributes['titleType'] = ''
     }
+    
+    match_no_report(doc, '/pbcoreTitle') { |node|
+      if node.text !~ /[A-Z]/ && node.text =~ /[a-z]/
+        node.text = node.text
+          .gsub(/\b\w/) { |match| 
+            match.upcase 
+          }
+          .gsub(/\ba|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from\b/i) { |match|
+            match.downcase
+          }
+          .gsub(/^./) { |match|
+            match.upcase
+          }
+      end
+    }
 
     @title_type_map.map_reorder_nodes(
       REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
