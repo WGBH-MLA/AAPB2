@@ -64,7 +64,7 @@ describe 'Validated and plain PBCore' do
           'episode_number_titles' => ['3-2-1'],
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
-          'series_titles' => ['NOVA'],
+          'series_titles' => ['Nova'],
           'text' => [ #
             'Best episode ever!', '', 'Music', #
             'explosions -- gratuitious', 'musicals -- horror', #
@@ -72,11 +72,11 @@ describe 'Validated and plain PBCore' do
             'Moving Image', '0:12:34', 'Copy Left: All rights reversed.', #
             'Album', 'uncataloged', '2000-01-01', #
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
-            'Program', 'Gratuitous Explosions', 'Series', 'NOVA', '1234', #
+            'Program', 'Gratuitous Explosions', 'Series', 'Nova', '1234', #
             'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts'],
-          'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'NOVA'],
-          'title' => 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
+          'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'Nova'],
+          'title' => 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
           'year' => '2000',
           'exhibits' => [],
@@ -90,9 +90,9 @@ describe 'Validated and plain PBCore' do
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['uncataloged', '2000-01-01']],
-        titles_sort: 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
+        titles_sort: 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
         titles: [['Episode Number', '3-2-1'], ['Episode', 'Kaboom!'], #
-                 ['Program', 'Gratuitous Explosions'], ['Series', 'NOVA']],
+                 ['Program', 'Gratuitous Explosions'], ['Series', 'Nova']],
         title: 'Kaboom!',
         exhibits: [],
         descriptions: ['Best episode ever!'],
