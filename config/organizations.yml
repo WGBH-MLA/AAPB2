@@ -3995,9 +3995,18 @@
   short_name: WGBH
   state: Massachusetts
   city: Boston
-# logo_filename:
-  url: http://www.wgbh.org/
-  history_md: 
+  logo_filename: wgbh_logo.png
+  url: http://openvault.wgbh.org/
+  history_md: |
+    WGBH traces its roots back to 1836, when textile merchant John Lowell, Jr. (of the illustrious “Lowells of Massachusetts,” one of America’s great early families) left a bequest creating “free public lectures for the benefit of the citizens of Boston.” In his will, Lowell set aside 250,000 half his estate to underwrite the public lectures in perpetuity.
+	 In the early 1940s the position of Trustee of the Lowell Institute passed to Ralph Lowell. Intrigued by the Federal Communications Commission’s 1945 announcement that 20 of the 90 radio channels in the newly relocated frequency modulation (FM) band had been reserved for noncommercial stations, Lowell considered a Lowell Institute FM station as a new way to fulfill the institute’s mission. Conversations with James Bryant Conan, president of Harvard University, led instead to the notion that Boston-area universities and colleges produce educational programs for broadcast on commercial AM outlets.
+	 In 1946, the Lowell Institute Cooperative Broadcasting Council (LICBC) was formed—a cooperative venture with six Boston colleges, broadcasting lectures on commercial radio. 
+	 In April 1951, the WGBH Educational Foundation was formed, to launch an FM station that would carry the LICBC lectures. The “GBH” stood for Great Blue Hill, the site of the station’s antenna atop a Harvard-operated weather observatory. The incorporators and original board members were Ralph Lowell (as Trustee of the Lowell Institute), the presidents and treasurers of Harvard and MIT, and the president of the Boston Symphony Orchestra. 
+	 Noncommercial radio station WGBH-FM made its initial broadcast on October 6, 1951: the first Saturday-evening performance of the BSO’s 71st season, live from Boston’s famed Symphony Hall. The broadcast opened with words of welcome from Ralph Lowell and BSO President Henry Cabot. It was the first full-length broadcast of a symphony concert in Boston in 25 years. Only 15 percent of the households in Greater Boston had FM receivers, but WGBH’s premiere foray was considered a rousing success. During its first year, WGBH-FM broadcast 2,600 hours of programming—10 times the amount the LICBC had been allotted on commercial radio.
+	 On May 2, 1955, WGBH-TV signed on for the first time. Its first broadcast was Come and See, a program for young children with folk singer Tony Saletan and Mary Lou Adams from Tufts University Nursery Training School. That was followed by Louis Lyons (a WGBH-FM fixture) reading the news before a camera. 
+	 Most early “Channel 2” programs were course lectures: French Through Television, Your Income Taxes, From Criminal to Citizen. Over time, WGBH made its mark by creating programs locally that were shared with other stations—this prior to the creation of the Public Broadcasting Service. Notable among them was Prospects of Mankind, a monthly series in which former First Lady Eleanor Roosevelt interviewed statesmen from all over the world.
+	 In 1962, WGBH produced three programs on French cooking, after a Cambridge cookbook author appeared on a WGBH book-review program and whipped up not only egg whites but an interest in how-to television. Within a year The French Chef with Julia Child was teaching audiences in several major cities to cook with courage. “Educational TV” had its first national star—and WGBH had the first in a long line of productions that would transform American broadcasting and put the Boston station on the map.
+	 Today, WGBH is public broadcasting for New England, the number one producer of PBS programming (on TV, the Web, online, and mobile), a major source of public radio content, and a pioneer in both educational multimedia and media access solutions serving millions of people with disabilities.
   productions_md: 
 
 - pbcore_name: WNYC-FM
