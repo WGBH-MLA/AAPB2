@@ -77,12 +77,22 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     }
     
     match_no_report(doc, '/pbcoreTitle') { |node|
-      if node.text !~ /[A-Z]/ && node.text =~ /[a-z]/
-        node.text = node.text
-          .gsub(/\b\w/) { |match| 
+      if (node.text !~ /[A-Z]/ || node.text !~ /[a-z]/) && node.text =~ /[a-zA-Z]/
+        # ie, either all upper or all lower, and it has letters.
+        node.text = node.text.downcase
+          .gsub(/\b\w/) { |match|
+            # First letters
             match.upcase 
           }
-          .gsub(/\ba|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from\b/i) { |match|
+          .gsub(/\b(NPR|PBS|APTS|APT|APM|PRX|NETA|ITVS|CPB)\b/i) { |match|
+            # Known acronyms
+            match.upcase
+          }
+          .gsub(/\b[^AEIOUY]+\b/i) { |match|
+            # Unknown acronyms
+            match.upcase
+          }
+          .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i) { |match|
             match.downcase
           }
           .gsub(/^./) { |match|
