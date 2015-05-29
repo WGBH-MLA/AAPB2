@@ -206,13 +206,13 @@
 
 		#browse:after { background-color:rgba(144,41,142,.85); }
                 
-	/* Home Jumbotron - Staff */
-	#staff {
-		background-color:rgb(144,41,142);
+	/* Home Jumbotron - Video */
+	#video {
+		background-color:rgb(158,32,100);
 		background-image:none;
 	}
 
-		#staff:after { background-color:rgba(144,41,142,.85); }
+		#video:after { background-color:rgba(158,32,100,.85); }
 
 
 
