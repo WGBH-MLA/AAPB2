@@ -1,9 +1,6 @@
 # About the AAPB
-<!-- Keep the IFRAME inside this DIV and the video will look great! -->
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe src="https://player.vimeo.com/video/108272934" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
 
+![banner](/page-banners/banner8.jpg)
 
 >
 Public television has been responsible for the production, broadcast, and 
