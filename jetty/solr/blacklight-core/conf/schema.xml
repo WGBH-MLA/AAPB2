@@ -464,7 +464,7 @@
             <filter class="solr.LowerCaseFilterFactory"/>
             <filter class="solr.TrimFilterFactory"/>
             <filter class="solr.PatternReplaceFilterFactory"
-                    pattern="^(a |the )" replacement="" replace="all"/>
+                    pattern="^(a |an |the )" replacement="" replace="all"/>
             <!-- Pad with "z" so numbers sort last -->
             <filter class="solr.PatternReplaceFilterFactory"
                     pattern="(\d+)" replacement="zzzz$1" replace="all"/>
