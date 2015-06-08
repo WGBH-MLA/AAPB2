@@ -455,6 +455,26 @@
     See http://wiki.apache.org/solr/SpatialSearch
    -->
     <fieldtype name="geohash" class="solr.GeoHashField"/>
+    
+    <fieldType name="sort" class="solr.TextField">
+        <analyzer>
+            <!-- One token -->
+            <tokenizer class="solr.KeywordTokenizerFactory"/>
+            <filter class="solr.ASCIIFoldingFilterFactory"/>
+            <filter class="solr.LowerCaseFilterFactory"/>
+            <filter class="solr.TrimFilterFactory"/>
+            <filter class="solr.PatternReplaceFilterFactory"
+                    pattern="^(a |the )" replacement="" replace="all"/>
+            <!-- Pad with "z" so numbers sort last -->
+            <filter class="solr.PatternReplaceFilterFactory"
+                    pattern="(\d+)" replacement="zzzz$1" replace="all"/>
+            <!-- Zero pad to mask lexicographic sort behavior. -->
+            <filter class="solr.PatternReplaceFilterFactory"
+                    pattern="(\d+)" replacement="00000$1" replace="all"/>
+            <filter class="solr.PatternReplaceFilterFactory"
+                    pattern="0*([0-9]{6,})" replacement="$1" replace="all"/>
+        </analyzer>
+    </fieldType>
  </types>
 
 
@@ -504,7 +524,7 @@
    
    <!-- sorting --><!-- TODO: stored=true only for debugging. -->
    <field name="title" 
-          type="alphaOnlySort" indexed="true" stored="true" multiValued="false"/>
+          type="sort" indexed="true" stored="true" multiValued="false"/>
    
    <!-- sorting and facet -->
    <field name="year" 

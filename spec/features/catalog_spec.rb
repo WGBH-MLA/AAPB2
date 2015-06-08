@@ -140,7 +140,7 @@ describe 'Catalog' do
           ['score+desc', 'Judd Hirsch'],
           ['year+desc', 'Kaboom!'],
           ['year+asc', 'Musical Encounter'],
-          ['title+asc', 'World Youth Symphony Orchestra with Concerto Winners - Part II of II (261st program, 50th season)']
+          ['title+asc', 'Ask Governor Chris Gregoire']
         ]
         assertions.each do |sort, title|
           url = "/catalog?search_field=all_fields&sort=#{sort}"
