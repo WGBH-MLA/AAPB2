@@ -156,15 +156,15 @@ class CatalogController < ApplicationController
     # TODO: do we need more of the behavior from Blacklight::Catalog?
     @response, @document = fetch(params['id'])
     xml = @document.instance_variable_get('@_source')['xml']
+    @pbcore = PBCore.new(xml)
     
-    if !session[:affirm_terms] && (xml.video? || xml.audio?)
-      # Could limit this to pages with just media, 
-      # but that should be most of the traffic, in any case.
+    if !session[:affirm_terms] && 
+        (@pbcore.video? || @pbcore.audio?) &&
+        /bot|spider/i != request.user_agent
       redirect_to "/terms/#{CGI::escape(params['id'])}"
     else 
       respond_to do |format|
         format.html do
-          @pbcore = PBCore.new(xml)
           render
         end
         format.pbcore do
