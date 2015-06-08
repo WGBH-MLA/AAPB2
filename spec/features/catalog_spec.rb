@@ -157,6 +157,41 @@ describe 'Catalog' do
           end
         end
       end
+      
+      describe 'sorting, title edge cases' do
+        url = '/catalog?search_field=all_fields&sort=title+asc&per_page=50'
+        it 'works' do
+          visit url
+          expect(page.status_code).to eq(200)
+          expect(page.all('.document h2').map { |node| node.text }).to eq([
+            # Remember that these are the most granular titles, 
+            # and the first sorts are by the higher level titles.
+            "Ask Governor Chris Gregoire", #
+            "#508", #
+            "Dr. Norman Borlaug", #
+            "Dry Spell", #
+            "From Bessie Smith to Bruce Springsteen", #
+            "Gvsports", #
+            "Four Decades of Dedication: The 40th Anniversary Special", #
+            "MSOM Field Tape - BUG 12", #
+            "Musical Encounter", #
+            "Kaboom!", #
+            "Podcast Release Form", #
+            "MacLeod: The Palace Guard", #
+            "Scheewe Art Workshop", #
+            "Touchstone 108", # 
+            "Unknown", #
+            "Unknown", #
+            "Unknown", #
+            "Howard Kramer 2004", #
+            "Larry Kane On John Lennon 2005", # 
+            "Martin Luther King, Jr. 1997", #
+            "World Youth Symphony Orchestra with Concerto Winners - Part II of II (261st program, 50th season)", #
+            "Judd Hirsch", #
+            "WRF-09/13/07"])
+          expect_fuzzy_xml
+        end
+      end
     end
   end
 
