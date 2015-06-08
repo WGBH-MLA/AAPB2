@@ -502,9 +502,9 @@
    <field name="contribs" 
           type="text" indexed="true" stored="false" multiValued="true"/>
    
-   <!-- sorting -->
+   <!-- sorting --><!-- TODO: stored=true only for debugging. -->
    <field name="title" 
-          type="string" indexed="true" stored="false" multiValued="false"/>
+          type="alphaOnlySort" indexed="true" stored="true" multiValued="false"/>
    
    <!-- sorting and facet -->
    <field name="year" 
