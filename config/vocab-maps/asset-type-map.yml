@@ -4,6 +4,7 @@
 !omap
   Album: Album
   Clip: Clip
+  Compilation: Compilation
   Element: Raw Footage
   B-roll: Raw Footage
   broll: Raw Footage
@@ -18,8 +19,6 @@
   Stock Footage: Raw Footage
   Stock shot: Raw Footage
   unedited footage: Raw Footage
-  Episode: Episode  
-  Program: Program  
   Porgram: Program
   Television special: Program
   Promo: Promo
@@ -32,4 +31,4 @@
   Segrment: Segment
   Track: Track
   epi: Episode
-  '': ''
+  '': Uncataloged

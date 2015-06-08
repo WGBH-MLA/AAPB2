@@ -58,11 +58,13 @@ gem 'jettywrapper', '~> 1.7'
 
 gem 'sys-filesystem' # just for checking mount points at ingest
 
-gem 'rspec'
-gem 'rspec-rails'
-gem 'capybara'
+gem 'sony-ci-api'
 
-gem 'pry'
-gem 'pry-nav'
+gem 'rspec', :group => :test
+gem 'rspec-rails', :group => :test
+gem 'capybara', :group => :test
+
+gem 'pry', :group => :development
+gem 'pry-nav', :group => :development
 
 gem 'passenger', :group => :production

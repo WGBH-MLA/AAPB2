@@ -64,24 +64,24 @@ describe 'Validated and plain PBCore' do
           'episode_number_titles' => ['3-2-1'],
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
-          'series_titles' => ['NOVA'],
+          'series_titles' => ['Nova'],
           'text' => [ #
-            'Best episode ever!', 'Horror', 'Musical', #
+            'Best episode ever!', '', 'Music', #
             'explosions -- gratuitious', 'musicals -- horror', #
             'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', #
             'Moving Image', '0:12:34', 'Copy Left: All rights reversed.', #
             'Album', 'uncataloged', '2000-01-01', #
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
-            'Program', 'Gratuitous Explosions', 'Series', 'NOVA', '1234', #
+            'Program', 'Gratuitous Explosions', 'Series', 'Nova', '1234', #
             'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts'],
-          'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'NOVA'],
-          'title' => 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
+          'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'Nova'],
+          'title' => 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
           'year' => '2000',
           'exhibits' => [],
           'media_type' => 'Moving Image',
-          'genres' => ['Horror', 'Musical'],
+          'genres' => ['', 'Music'],
           'asset_type' => 'Album',
           'organization' => 'WGBH (MA)',
           'access_types' => ['All', 'Digitized']
@@ -90,15 +90,15 @@ describe 'Validated and plain PBCore' do
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['uncataloged', '2000-01-01']],
-        titles_sort: 'NOVA -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
+        titles_sort: 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
         titles: [['Episode Number', '3-2-1'], ['Episode', 'Kaboom!'], #
-                 ['Program', 'Gratuitous Explosions'], ['Series', 'NOVA']],
+                 ['Program', 'Gratuitous Explosions'], ['Series', 'Nova']],
         title: 'Kaboom!',
         exhibits: [],
         descriptions: ['Best episode ever!'],
         instantiations: [PBCore::Instantiation.new('Moving Image', '0:12:34')],
         rights_summary: 'Copy Left: All rights reversed.',
-        genres: ['Horror', 'Musical'],
+        genres: ['', 'Music'],
         id: '1234',
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
         ci_id: 'a-32-digit-hex',

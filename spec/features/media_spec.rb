@@ -1,5 +1,5 @@
 require_relative '../../scripts/lib/pb_core_ingester'
-require_relative '../../scripts/ci/ci'
+require 'sony-ci-api'
 require 'tmpdir'
 
 describe 'Media', not_on_travis: true do
@@ -7,7 +7,7 @@ describe 'Media', not_on_travis: true do
 
   def safe_ci
     credentials_path = Rails.root + 'config/ci.yml'
-    ci = Ci.new(credentials_path: credentials_path)
+    ci = SonyCiAdmin.new(credentials_path: credentials_path)
     fail 'Workspace must be empty' unless ci.list_names.empty?
     ci
   end
@@ -23,7 +23,7 @@ describe 'Media', not_on_travis: true do
       pbcore.gsub!('1234</pbcoreIdentifier>',
                    "1234</pbcoreIdentifier><pbcoreIdentifier source='Sony Ci'>#{ci_id}</pbcoreIdentifier>")
 
-      ingester = PBCoreIngester.new(same_mount: true)
+      ingester = PBCoreIngester.new(is_same_mount: true)
       ingester.delete_all
       ingester.ingest_xml_no_commit(pbcore)
       ingester.commit
@@ -42,6 +42,7 @@ describe 'Media', not_on_travis: true do
     # expect(page).to have_text(TARGET)
 
     curl = Curl::Easy.http_get('http://localhost:3000/media/1234')
+    curl.headers['Referer'] = 'http://americanarchive.org/'
     curl.follow_location = true
     curl.perform
     expect(curl.body_str).to eq(TARGET)

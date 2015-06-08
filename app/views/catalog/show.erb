@@ -70,7 +70,9 @@
   <% unless @pbcore.genres.empty? %>
     <dl>
       <dt>Genres</dt>
-      <dd><%= @pbcore.genres.join('; ') %></dd>
+      <% @pbcore.genres.each do |genre| %>
+        <dd><a href="/catalog?f[genres][]=<%= CGI::escape(genre) %>"><%= genre %></a></dd>
+      <% end %>
     </dl>
   <% end %>
 

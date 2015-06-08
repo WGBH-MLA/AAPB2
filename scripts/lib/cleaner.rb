@@ -10,6 +10,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     @date_type_map = VocabMap.for('date')
     @title_type_map = VocabMap.for('title')
     @description_type_map = VocabMap.for('description')
+    @genre_type_map = VocabMap.for('genre')
 
     @report = {}
     def @report.to_s
@@ -74,6 +75,48 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     match(doc, '/pbcoreTitle[not(@titleType)]') { |node|
       node.attributes['titleType'] = ''
     }
+    
+    match_no_report(doc, '/pbcoreTitle') { |node|
+      if (node.text !~ /[A-Z]/ || node.text !~ /[a-z]/) && node.text =~ /[a-zA-Z]/
+        # ie, either all upper or all lower, and it has letters.
+        node.text = node.text.downcase
+          .gsub(/\b\w/) { |match|
+            # First letters
+            match.upcase 
+          }
+          .gsub(/\b(
+              AFN|AG|ASMW|BSO|CEO|CMU|CO|CTE|DCA
+              |ETV|HBCU|HIKI|ICC|II|IPR|ITV|KAKM|KBDI|KCAW|KCMU
+              |KDNA|KEET|KET|KETC|KEXP|KEZI|KFME|KGNU|KLPA|KMED|KMOS
+              |KNBA|KNME|KOAC|KOCE|KODE|KOZJ|KOZK|KPFA|KQED|KRMA|KSYS
+              |KTCA|KUCB|KUED|KUHF|KUNM|KUOW|KUSC|KUSP|KUT|KUVO|KVIE
+              |KWSO|KWSU|KXCI|KYUK|LA|LICBC|LSU|LYMI|MA|MELE|MIT|MSU
+              |NAC|NAEB|NE|NEA|NETA|NJPBA|NY|NYS|OEB|OPB|OPTV|ORC
+              |PSA|RAETA|SCETV|SOEC|TIU|UC|UCB|UCTV
+              |UHF|UM|UNC|US|USA|UVM|UW|WBAI|WBEZ|WBRA|WCNY|WCTE|WDIY
+              |WEDH|WEDU|WEOS|WERU|WETA|WEXT|WFIU|WFMU|WFYI|WGBY|WGCU
+              |WGUC|WGVU|WHA|WHRO|WHUR|WHUT|WHYY|WIAA|WKAR|WLAE
+              |WMEB|WNED|WNET|WNYC|WOJB|WOSU|WQED|WQEJ|WRFA|WRNI|WSIU
+              |WTIP|WTIU|WUFT|WUMB|WUNC|WUSF|WVIA|WVIZ|WWOZ|WXXI|WYCC
+              |WYSO|WYSU|YSU)\b/xi) { |match|
+            # Based on:
+            #   ruby -ne '$_.match(/[A-Z]{2,}/){|m| puts m}' config/organizations.yml \
+            #     | grep '[AEIOUY]' | sort | uniq | ruby -ne 'print $_.chop; print "|"'
+            # Removed: AM, AMBER, COLORES, COSI, FETCH, NET, RISE, SAM, STEM, TOLD, WILL
+            match.upcase
+          }
+          .gsub(/\b[^AEIOUY]+\b/i) { |match|
+            # Unknown acronyms
+            match.upcase
+          }
+          .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i) { |match|
+            match.downcase
+          }
+          .gsub(/^./) { |match|
+            match.upcase
+          }
+      end
+    }
 
     @title_type_map.map_reorder_nodes(
       REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
@@ -83,6 +126,12 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     @description_type_map.map_reorder_nodes(
       REXML::XPath.match(doc, '//pbcoreDescription/@descriptionType'))
 
+    # pbcoreGenre:
+
+    match_no_report(doc, '/pbcoreGenre') { |node|
+      @genre_type_map.map_node(node)
+    }
+    
     # pbcoreRelation:
 
     match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') { |node|

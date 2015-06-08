@@ -35,6 +35,8 @@ END
     # try to parse as xml
     REXML::Document.new(xhtml)
 
+    raise 'Text should not contain raw <p>' if page.text && page.text.include?('<p>')
+    
     page.all('a').map { |element| element['href'] }.each { |url| LinkChecker.instance.check(url) }
   rescue => e
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")

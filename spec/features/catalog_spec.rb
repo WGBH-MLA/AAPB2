@@ -39,7 +39,7 @@ describe 'Catalog' do
         '3-2-1',
         'Kaboom!',
         'Gratuitous Explosions',
-        'Series NOVA',
+        'Series Nova',
         'uncataloged 2000-01-01',
         '2000-01-01',
         'Best episode ever!'
@@ -53,7 +53,7 @@ describe 'Catalog' do
     describe 'search constraints' do
       describe 'title facets' do
         assertions = [
-          ['f[series_titles][]=NOVA', 1],
+          ['f[series_titles][]=Nova', 1],
           ['f[program_titles][]=Gratuitous+Explosions', 1]
         ]
         assertions.each do |(param, count)|
