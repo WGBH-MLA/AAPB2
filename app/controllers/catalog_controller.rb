@@ -171,18 +171,18 @@ class CatalogController < ApplicationController
     xml = @document.instance_variable_get('@_source')['xml']
     @pbcore = PBCore.new(xml)
     
-    if !session[:affirm_terms] && 
-        (@pbcore.video? || @pbcore.audio?) &&
-        /bot|spider/i != request.user_agent
-      redirect_to "/terms/#{CGI::escape(params['id'])}"
-    else 
-      respond_to do |format|
-        format.html do
+    respond_to do |format|
+      format.html do
+        if !session[:affirm_terms] && 
+            (@pbcore.video? || @pbcore.audio?) &&
+            /bot|spider/i != request.user_agent
+          redirect_to "/terms/#{CGI::escape(params['id'])}"
+        else
           render
         end
-        format.pbcore do
-          render text: xml
-        end
+      end
+      format.pbcore do
+        render text: xml
       end
     end
     
