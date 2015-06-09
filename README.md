@@ -57,7 +57,8 @@ Wordpress sets a default TTL of 300s, which should be fine for now.
 
 Get `aapb.pem` from Chuck or Drew and log in to the remote machine:
 ```bash
-ssh -i ~/.ssh/aapb.pem ec2-user@americanarchive.org
+$ ssh -i ~/.ssh/aapb.pem ec2-user@americanarchive.org
+$ cd /srv/www/aapb/current/
 ```
 
 Want to blow away the index before you start?
