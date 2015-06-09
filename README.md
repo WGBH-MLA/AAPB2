@@ -61,18 +61,13 @@ $ ssh -i ~/.ssh/aapb.pem ec2-user@americanarchive.org
 $ cd /srv/www/aapb/current/
 ```
 
-Want to blow away the index before you start?
-```bash
-  # DELETES EVERYTHING!
-$ ruby -I . -e 'require "scripts/lib/pb_core_ingester"; PBCoreIngester.new(same_mount: true).delete_all'
-```
 To download and ingest everything on the server (which will take a while):
 ```bash
-$ nohup ruby scripts/download_clean_ingest.rb --all &
+$ nohup bundle exec ruby scripts/download_clean_ingest.rb --all &
 ```
 
 (The script can be run in several modes. Run it without arguments for more details:
-`ruby scripts/download_clean_ingest.rb`.)
+`bundle exec ruby scripts/download_clean_ingest.rb`.)
 
 
 ### Sony Ci
