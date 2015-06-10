@@ -53,6 +53,10 @@ Wordpress sets a default TTL of 300s, which should be fine for now.
 
 <!-- https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-servers.svg?v1 -->
 
+### AMS Ingest
+
+Each bulk ingest to the AMS has been a little different, so we don't have a single script, but there are [notes](https://github.com/WGBH/AAPB2/blob/master/docs/ams-ingest.md) which might help.
+
 ### Indexing
 
 Get `aapb.pem` from Chuck or Drew and log in to the remote machine:
