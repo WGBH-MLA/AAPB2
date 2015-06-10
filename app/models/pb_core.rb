@@ -97,6 +97,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
+  def captions_src
+    @captions_src ||= "/captions/#{id}.txt" if video?
+    # TODO: "CC" icon will show for all videos, even if caption isn't actually available.
+  end
   def img_src # rubocop:disable CyclomaticComplexity
     @img_src ||=
       case [media_type, digitized?]

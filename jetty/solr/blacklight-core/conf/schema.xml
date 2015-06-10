@@ -506,8 +506,12 @@
           type="string" indexed="true" stored="true" required="true" />
    <field name="timestamp" 
           type="date" indexed="true" stored="true" default="NOW" multiValued="false"/>
+   
    <field name="xml" 
           type="string" indexed="false" stored="true" multiValued="false"/>
+   <field name="captions"
+          type="string" indexed="false" stored="true" multiValued="false"/>
+   
    <field name="exhibits"
           type="string" indexed="true" stored="true" multiValued="true"/>
    

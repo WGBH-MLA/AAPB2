@@ -17,8 +17,12 @@
                   preload: 'none', width: 400, height: 300,
                   poster: @pbcore.img_src, 'data-setup' => '{}') do %>
 
-
         <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+
+        <% if @pbcore.captions_src %>    
+          <track kind="captions" src="<%= @pbcore.captions_src %>" srclang="en" label="English" default>
+        <% end %>
+
         <p class="vjs-no-js">
           To play this <%= media %> please enable JavaScript, and consider upgrading to a web browser that 
           <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 <%= media %></a>.
