@@ -1,3 +1,38 @@
+<% content_for :head do %>
+  <meta property="og:title" content="<%= @pbcore.title %>" />
+  <meta property="og:url" content="http://americanarchive.org/catalog/<%= @pbcore.id %>" />
+  <meta property="og:type" content="<%=
+    # See http://ogp.me/#types
+    # The OG type vocabulary is impoverished.
+    if @pbcore.video?
+      'video.other'
+    else
+      'website'
+    end 
+  %>" />
+  <meta property="og:image" content="<%=
+    # I believe that protocol and host are required here.
+    if @pbcore.img_src =~ /^\//
+      "http://americanarchive.org#{@pbcore.img_src}"
+    else 
+      @pbcore.img_src
+    end
+  %>" />
+  
+  <meta property="og:site_name" content="American Archive of Public Broadcasting"/>
+  <meta property="og:description" content="<%= @pbcore.descriptions.join("\n") %>" />
+  
+  <!-- TODO: Doubt that these will be effective because we check the referer. -->
+  <% if @pbcore.digitized? %>
+    <% if @pbcore.video? %>
+      <meta property="og:video" content="http://americanarchive.org/media/<%= @pbcore.id %>" />
+    <% end %>
+    <% if @pbcore.audio? %>
+      <meta property="og:audio" content="http://americanarchive.org/media/<%= @pbcore.id %>" />
+    <% end %>
+  <% end %>
+  
+<% end %>
 
 <% content_for :sidebar do %>
   <%= render 'shared/sidebar_search' %>
