@@ -185,11 +185,11 @@ describe 'Catalog' do
               ["Program: The Sorting Test: 1"], 
               ["Program: SORTING Test: 2"], 
               ["Program: A Sorting Test: 100"],
-              ["Episode: Touchstone 108"],  
+              ["Episode: Touchstone 108"],
+              ["Program: Unknown"],
               ["Segment: Howard Kramer 2004", "Program: World Cafe"], 
               ["Segment: Larry Kane On John Le", "Program: World Cafe"], 
               ["Segment: Martin Luther King, J", "Segment: 1997-01-20 Sat/Mon", "Program: World Cafe"], 
-              ["Program: World Youth Symphony ", "Uncataloged: World Youth Symphony "], 
               ["Episode: Judd Hirsch", "Series: This is My Music", "Collection: WQXR"], 
               ["Program: WRF-09/13/07", "Series: Writers Forum"]
             ])
