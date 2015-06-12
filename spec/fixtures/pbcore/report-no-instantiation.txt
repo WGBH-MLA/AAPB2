@@ -1,4 +1,2 @@
 /pbcoreIdentifier[not(@source)]
 	dirty-yes-fix-no-instantiation.xml
-[not(pbcoreTitle)]
-	dirty-yes-fix-no-instantiation.xml

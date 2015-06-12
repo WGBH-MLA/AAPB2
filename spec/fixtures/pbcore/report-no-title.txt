@@ -1,2 +1,0 @@
-[not(pbcoreTitle)]
-	dirty-yes-fix-no-title.xml
