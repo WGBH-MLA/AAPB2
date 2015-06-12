@@ -163,32 +163,36 @@ describe 'Catalog' do
         it 'works' do
           visit url
           expect(page.status_code).to eq(200)
-          expect(page.all('.document h2').map { |node| node.text }).to eq([
-            # Remember that these are the most granular titles, 
-            # and the first sorts are by the higher level titles.
-            "Ask Governor Chris Gregoire", #
-            "#508", #
-            "Dr. Norman Borlaug", #
-            "Dry Spell", #
-            "From Bessie Smith to Bruce Springsteen", #
-            "Gvsports", #
-            "Four Decades of Dedication: The 40th Anniversary Special", #
-            "MSOM Field Tape - BUG 12", #
-            "Musical Encounter", #
-            "Kaboom!", #
-            "Podcast Release Form", #
-            "MacLeod: The Palace Guard", #
-            "Scheewe Art Workshop", #
-            "Touchstone 108", # 
-            "Unknown", #
-            "Unknown", #
-            "Unknown", #
-            "Howard Kramer 2004", #
-            "Larry Kane On John Lennon 2005", # 
-            "Martin Luther King, Jr. 1997", #
-            "World Youth Symphony Orchestra with Concerto Winners - Part II of II (261st program, 50th season)", #
-            "Judd Hirsch", #
-            "WRF-09/13/07"])
+          expect(
+            page.all('#documents/div').map do |doc| 
+              doc.all('dl').map do |dl|
+                "#{dl.find('dt').text}: #{dl.find('dd').text[0..20]}"
+              end
+            end).to eq([
+              ["Program: Ask Governor Chris Gr"], 
+              ["Episode: #508", "Series: Askc: Ask Congress"], 
+              ["Raw Footage: Dr. Norman Borlaug", "Raw Footage: B-Roll"], 
+              ["Uncataloged: Dry Spell"], 
+              ["Uncataloged: From Bessie Smith to ", "created: 1990-07-27"], 
+              ["Series: Gvsports"], 
+              ["Program: Four Decades of Dedic", "Uncataloged: Handles missing title"], 
+              ["Raw Footage: MSOM Field Tape - BUG"], 
+              ["Episode Number: Musical Encounter", "Episode Number: 116", "Episode Number: Music for Fun", "created: 1988-05-12"], 
+              ["Episode Number: 3-2-1", "Episode: Kaboom!", "Program: Gratuitous Explosions", "Series: Nova", "uncataloged: 2000-01-01"], 
+              ["Uncataloged: Podcast Release Form"], 
+              ["Program: MacLeod: The Palace G", "Series: Reading Aloud"], 
+              ["Uncataloged: Scheewe Art Workshop"], 
+              ["Episode: Touchstone 108"], 
+              ["Program: Unknown"], 
+              ["Program: Unknown"], 
+              ["Program: Unknown"], 
+              ["Segment: Howard Kramer 2004", "Program: World Cafe"], 
+              ["Segment: Larry Kane On John Le", "Program: World Cafe"], 
+              ["Segment: Martin Luther King, J", "Segment: 1997-01-20 Sat/Mon", "Program: World Cafe"], 
+              ["Program: World Youth Symphony ", "Uncataloged: World Youth Symphony "], 
+              ["Episode: Judd Hirsch", "Series: This is My Music", "Collection: WQXR"], 
+              ["Program: WRF-09/13/07", "Series: Writers Forum"]
+            ])
           expect_fuzzy_xml
         end
       end
