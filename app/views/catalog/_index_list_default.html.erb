@@ -9,10 +9,12 @@
 
           <!-- START Column -->
           <div class="col-md-3">
-
-            <!-- This should link to the record -->
-
-            <img src="<%= pbcore.img_src %>" class="media-object" alt="thumbnail of <%= pbcore.title %>" title="thumbnail of <%= pbcore.title %>" />
+            
+            <%= link_to(url_for_document(document))  do %>
+              <img src="<%= pbcore.img_src %>" 
+                   class="media-object" 
+                   alt="thumbnail of <%= pbcore.title %>" />
+            <% end %>
             
           </div>
           <!-- END Column -->
