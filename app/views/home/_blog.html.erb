@@ -3,7 +3,11 @@
   <% begin %>
     <% Wordpress::Client.new.get_posts(host, number: 1).each do |post| %>
       <h6>From the Blog</h6>
-      <h3 class="list-group-item-heading"><a href="<%= post.url %>"  target="_blank" title="From the AAPB Blog:<%= post.title %>"><%= post.title %></a></h3>
+      <h3 class="list-group-item-heading">
+        <a href="<%= post.url %>"  target="_blank">
+          <%= post.title.html_safe %>
+        </a>
+      </h3>
       <p class="list-group-item-text">
         <%= truncate(HTMLEntities.new.decode(strip_tags(post.content)), length: 150, separator: '. ') %> <a href="<%= post.url %>" target="_blank" title="Visit the AAPB Blog"><em>More</em></a>
       </p>
