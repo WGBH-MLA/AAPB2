@@ -1,5 +1,7 @@
 # -*- encoding : utf-8 -*-
 #
+require_relative '../../lib/geo_i_p_country'
+
 class CatalogController < ApplicationController
   helper Openseadragon::OpenseadragonHelper
 
@@ -160,9 +162,7 @@ class CatalogController < ApplicationController
     
     respond_to do |format|
       format.html do
-        if !session[:affirm_terms] && 
-            (@pbcore.video? || @pbcore.audio?) &&
-            /bot|spider/i != request.user_agent
+        if requires_eula?
           redirect_to "/terms/#{CGI::escape(params['id'])}"
         else
           render
@@ -173,5 +173,18 @@ class CatalogController < ApplicationController
       end
     end
     
+  end
+  
+  private
+  
+  def requires_eula?
+    !session[:affirm_terms] && 
+            (@pbcore.video? || @pbcore.audio?) &&
+            !bot? &&
+            GeoIPCountry.instance.country_code(request.remote_ip) == 'US'
+  end
+  
+  def bot?
+    /bot|spider/i =~ request.user_agent
   end
 end
