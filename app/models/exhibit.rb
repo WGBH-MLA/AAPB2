@@ -9,7 +9,11 @@ class Exhibit
   attr_reader :html
   
   def self.find_by_slug(slug)
-    @@exhibits[slug]
+    @@exhibits_by_slug[slug]
+  end
+  
+  def self.find_by_name(name)
+    @@exhibits_by_name[name]
   end
   
   def self.find_by_item_id(id)
@@ -17,7 +21,7 @@ class Exhibit
   end
   
   def self.all
-    @@exhibits.values
+    @@exhibits_by_slug.values
   end
 
   private
@@ -35,9 +39,18 @@ class Exhibit
     fail("unexpected #{hash}") unless hash == {}
   end
 
-  @@exhibits = Hash[
+  # Lookup by slug is necessary for exhibit pages.
+  # Lookup by name is necessary on search results.
+  
+  @@exhibits_by_slug = Hash[
     YAML.load_file(Rails.root + 'config/exhibits.yml').map do |hash|
       [hash['slug'], Exhibit.new(hash)]
+    end
+  ]
+  
+  @@exhibits_by_name = Hash[
+    YAML.load_file(Rails.root + 'config/exhibits.yml').map do |hash|
+      [hash['name'], Exhibit.new(hash)]
     end
   ]
   
