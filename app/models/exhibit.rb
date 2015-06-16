@@ -4,6 +4,7 @@ require 'yaml'
 class Exhibit
   attr_reader :slug
   attr_reader :name
+  attr_reader :items
   attr_reader :ids
   attr_reader :thumbnail_url
   attr_reader :html
@@ -33,7 +34,8 @@ class Exhibit
   def initialize(hash)
     @slug = pop(hash, 'slug')
     @name = pop(hash, 'name')
-    @ids = pop(hash, 'ids')
+    @items = pop(hash, 'items')
+    @ids = @items.keys
     @thumbnail_url = pop(hash, 'thumbnail_url')
     @html = Markdowner.render(pop(hash, 'md'))
     fail("unexpected #{hash}") unless hash == {}

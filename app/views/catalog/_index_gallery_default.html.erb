@@ -15,7 +15,18 @@
     <h4 class="index_title">
       <%= link_to_document(document, pbcore.title) %>
     </h4>
-
+      
+    <% 
+      request.params.try(:[],'f').try(:[],'exhibits').tap do |exhibit_names|
+        exhibit_names.each do |name|
+          %>
+            <div>
+              <%= Exhibit.find_by_name(name).items[document.id] %>
+            </div>
+          <%
+        end if exhibit_names
+      end
+    %>
     
     <% # bookmark functions for items/docs -%>
     <%#= render_index_doc_actions document, :wrapping_class => "index-document-functions col-sm-3 col-lg-2" %>
