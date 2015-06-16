@@ -117,4 +117,14 @@ describe HtmlScrubber do
         'enjoy an active and exciting life in Southwest Florida. ??table border=0 cellpadding=10 ??tbody ??tr ??td img src=images/stories/Connect/arts.jpg alt=arts width=205 height=115 /td'
       )).to eq 'enjoy an active and exciting life in Southwest Florida. /td'
   end
+  it 'muddles through' do
+    expect(HtmlScrubber.scrub(
+        'span style=font-family: \'times new roman\', times span style=font-size: 18pt a http://wgcu.org/yourvoiceshow/home.html target=_self YOUR VOICE / /span //span WGCU Public Media\'s initiative, em Your Voice/em , examines issues affecting Southwest Florida. '
+      )).to eq "span 'times new roman', times span a http://wgcu.org.html YOUR VOICE / /span //span WGCU Public Media's initiative, em Your Voice , examines issues affecting Southwest Florida."
+  end
+  it 'cleans up "live chat"' do
+    expect(HtmlScrubber.scrub(
+        '!-- START LIVE CHAT MODULE -- br iframe src=http://www.coveritlive.com/index2.php/option=com_altcaster/task=viewaltcast/altcast_code=4947f0148c/height=500/width=320 mce_src=http://www.coveritlive.com/index2.php/option=com_altcaster/task=viewaltcast/altcast_code=4947f0148c/height=500/width=320 scrolling=no width=320 frameborder=0 height=500 amp amp amp amp'
+      )).to eq "!-- START LIVE CHAT MODULE -- br iframe amp amp amp amp"
+  end
 end
