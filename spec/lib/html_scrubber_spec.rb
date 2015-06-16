@@ -44,11 +44,11 @@ describe HtmlScrubber do
       EOF
         )).to eq [
           # TODO: Want this to be cleaner.
-          'em img 10px float: left',
+          'em',
           'Earth Edition /em focuses on diverse and',
           'unique natural world of Southwest Florida. ... Produced from 2003 to 2006,',
           'the programs received Emmy nominations and won Telly awards.',
-          'a http://video.wgcu.org img',
+          'a http://video.wgcu.org',
           '/ /??/'
         ].join("\n")
   end
@@ -66,7 +66,7 @@ describe HtmlScrubber do
           "Michigan Public Radio's Rachel Lippmann reports."
         ].join("\n")
   end
-  xit '....?' do
+  it 'tries to clean up style fragments' do
     expect(HtmlScrubber.scrub(
       <<-EOF
       a http://www.pbs.org/wnet/need-to-know/ target=_blank;span style=font-size: 12pt;;em;Need to 
@@ -75,7 +75,13 @@ describe HtmlScrubber do
       that gives you what you need to know along with a healthy dose of insight, perspective 
       and wit. 
       EOF
-        )).to eq []
+        )).to eq [
+        'a http://www.pbs.org-to-know/ ;;em;Need to',
+        'Know/ ;',
+        'Need to Know is the PBS TV- and web- newsmagazine',
+        'that gives you what you need to know along with a healthy dose of insight, perspective',
+        'and wit.'
+        ].join("\n")
   end
   it 'handles MS Word XML' do
     expect(HtmlScrubber.scrub(
@@ -95,5 +101,20 @@ describe HtmlScrubber do
           'Congressman Peter Welch is pushing for new legislation to support businesses that hire unemployed veterans.',
           '(Host) Vermont veterans who\'ve returned from deployment to Afghanistan only to find the job market scarce would get a leg up on finding work under a bill sponsored by Congressman Peter Welch.'
         ].join("\n")
+  end
+  it 'handles nmap weirdness' do
+    expect(HtmlScrubber.scrub(
+      'Heres some of what we heard. ; ;{nmap}normal|250|80|images/stories/audio/news/FS2089.mp3|||a{/nmap} a mce_http://wgcu.org/blogs/news/workjanuary2011%20073.jpg http://wgcu.org/blogs/news/workjanuary2011%20073.jpg; img width=350 border=0 mce_src=http://wgcu.org/blogs/news/workjanuary2011%20073.jpg src=http://wgcu.org/blogs/news/workjanuary2011%20073.jpg ;/ ;'
+      )).to eq 'Heres some of what we heard. a mce_http://wgcu.org%20073.jpg http://wgcu.org%20073.jpg;'
+  end
+  it 'handles more nmap weirdness' do
+    expect(HtmlScrubber.scrub(
+        '{nmap}popup|250|40|images/stories/audio/gulfcoastlive/GL012612.mp3|1||||1|{/nmap} ; ; a http://firesigntheatre.com/media/media.php?member=all target=_blank;Nick Danger: Third Eye"/ a parody of the 1940s radio detective shows originally written and performed by a http://firesigntheatre.com/index.php target=_blank;The Firesign Theatre/ in 1969 comes to Sarasota. This bit of theatrical history is the first ever fully dramatized presentation of Nick Danger. It will be performed at the a http://www.annamariaisland-longboatkey.com/crosley-estate/ target=_blank;Powel Crosley Estate/ .'
+      )).to eq "a http://firesigntheatre.com.php? Danger: Third Eye\"/ a parody of the 1940s radio detective shows originally written and performed by a http://firesigntheatre.com.php Firesign Theatre/ in 1969 comes to Sarasota. This bit of theatrical history is the first ever fully dramatized presentation of Nick Danger. It will be performed at the a http://www.annamariaisland-longboatkey.com-estate/ Crosley Estate/ ."
+  end
+  it 'handles "??" weirdness' do
+    expect(HtmlScrubber.scrub(
+        'enjoy an active and exciting life in Southwest Florida. ??table border=0 cellpadding=10 ??tbody ??tr ??td img src=images/stories/Connect/arts.jpg alt=arts width=205 height=115 /td'
+      )).to eq 'enjoy an active and exciting life in Southwest Florida. /td'
   end
 end
