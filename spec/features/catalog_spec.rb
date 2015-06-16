@@ -112,6 +112,13 @@ describe 'Catalog' do
           end
         end
       end
+      
+      describe 'exhibit facet' do
+        it 'works' do
+          visit '/catalog?f[exhibits][]=Iowa!'
+          expect(page).to have_text("I'm reluctant to hard-code too much of the design right now")
+        end
+      end
 
       describe 'fields' do
         assertions = [
