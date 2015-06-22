@@ -90,7 +90,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @ci_ids ||= xpaths("/*/pbcoreIdentifier[@source='#{SONY_CI}']")
   end
   def media_srcs
-    @media_srcs ||= ci_ids.map { |id| "/media/#{id}" }
+    @media_srcs ||= if ci_ids.empty? 
+                      nil
+                    else
+                      (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
+                    end
   end
   def img_src # rubocop:disable CyclomaticComplexity
     @img_src ||=
