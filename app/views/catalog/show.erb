@@ -71,7 +71,7 @@
   <h1 class="record-title"><%= @pbcore.title %></h1>
 
   <div class="well well-sm media-thumb">
-    <% if @pbcore.media_src && AccessControl.authorized_ip?(request.remote_ip) %>
+    <% if !@pbcore.media_srcs.empty? && AccessControl.authorized_ip?(request.remote_ip) %>
       <%= render partial: 'catalog/player' %>
     <% else %>
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">

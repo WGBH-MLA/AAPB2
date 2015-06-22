@@ -4,7 +4,7 @@
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>1234</pbcoreIdentifier>
   <pbcoreIdentifier source='somewhere else'>5678</pbcoreIdentifier>
   <pbcoreIdentifier source='Sony Ci'>a-32-digit-hex</pbcoreIdentifier>
-  <pbcoreIdentifier source='Sony Ci'>a-different-32-digit-hex</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>another-32-digit-hex</pbcoreIdentifier>
   <pbcoreTitle titleType='Episode Number'>3-2-1</pbcoreTitle>
   <pbcoreTitle titleType='Episode'>Kaboom!</pbcoreTitle>
   <pbcoreTitle titleType='Program'>Gratuitous Explosions</pbcoreTitle>
