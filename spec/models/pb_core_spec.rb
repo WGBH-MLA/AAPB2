@@ -102,7 +102,7 @@ describe 'Validated and plain PBCore' do
         id: '1234',
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
         ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],
-        media_srcs: ["/media/a-32-digit-hex", "/media/another-32-digit-hex"],
+        media_srcs: ["/media/1234?part=1", "/media/1234?part=2"],
         img_src: 'http://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg',
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),

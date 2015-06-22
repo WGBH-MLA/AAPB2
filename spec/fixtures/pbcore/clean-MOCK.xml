@@ -3,10 +3,8 @@
   <pbcoreAssetDate dateType='uncataloged'>2000-01-01</pbcoreAssetDate>
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>1234</pbcoreIdentifier>
   <pbcoreIdentifier source='somewhere else'>5678</pbcoreIdentifier>
-  <pbcoreIdentifier source='Sony Ci'>6f06cf4c0b604870a6740c0932564eb8</pbcoreIdentifier>
-  <pbcoreIdentifier source='Sony Ci'>1f222d53405d406c993ae4b40c5148ba</pbcoreIdentifier>
-  <!--<pbcoreIdentifier source='Sony Ci'>a-32-digit-hex</pbcoreIdentifier>
-  <pbcoreIdentifier source='Sony Ci'>another-32-digit-hex</pbcoreIdentifier>-->
+  <pbcoreIdentifier source='Sony Ci'>a-32-digit-hex</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>another-32-digit-hex</pbcoreIdentifier>
   <pbcoreTitle titleType='Episode Number'>3-2-1</pbcoreTitle>
   <pbcoreTitle titleType='Episode'>Kaboom!</pbcoreTitle>
   <pbcoreTitle titleType='Program'>Gratuitous Explosions</pbcoreTitle>
