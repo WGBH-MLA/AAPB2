@@ -15,7 +15,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @descriptions ||= xpaths('/*/pbcoreDescription')
   end
   def genres
-    @genres ||= xpaths('/*/pbcoreGenre')
+    @genres ||= xpaths('/*/pbcoreGenre[@annotation="genre"]')
+  end
+  def topics
+    @topics ||= xpaths('/*/pbcoreGenre[@annotation="topic"]')
   end
   def subjects
     @subjects ||= xpaths('/*/pbcoreSubject')
@@ -175,6 +178,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'exhibits' => exhibits,
       'media_type' => media_type == OTHER ? nil : media_type,
       'genres' => genres,
+      'topics' => topics,
       'asset_type' => asset_type,
       'organization' => organization.facet,
       'access_types' => access_types

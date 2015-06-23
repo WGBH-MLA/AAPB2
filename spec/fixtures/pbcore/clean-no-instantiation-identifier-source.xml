@@ -7,8 +7,8 @@
   <pbcoreSubject>Interview</pbcoreSubject>
   <pbcoreSubject source='PBS'>MUSIC</pbcoreSubject>
   <pbcoreDescription>Rock and Roll Hall of Fame 2004</pbcoreDescription>
-  <pbcoreGenre>Interview</pbcoreGenre>
-  <pbcoreGenre source='AACIP-IVL-Genre'>Performance</pbcoreGenre>
+  <pbcoreGenre annotation='genre'>Interview</pbcoreGenre>
+  <pbcoreGenre source='AACIP-IVL-Genre' annotation='topic'>Performance</pbcoreGenre>
   <pbcoreCreator>
     <creator>WXPN</creator>
     <creatorRole>Producer</creatorRole>

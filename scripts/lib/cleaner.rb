@@ -11,6 +11,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     @title_type_map = VocabMap.for('title')
     @description_type_map = VocabMap.for('description')
     @genre_type_map = VocabMap.for('genre')
+    @topic_type_map = VocabMap.for('topic')
 
     @report = {}
     def @report.to_s
@@ -129,7 +130,18 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     # pbcoreGenre:
 
     match_no_report(doc, '/pbcoreGenre') { |node|
-      @genre_type_map.map_node(node)
+      genre = @genre_type_map.map_string(node.text)
+      topic = @topic_type_map.map_string(node.text)
+      
+      if topic.empty? && !genre.empty?
+        node.text = genre
+        node.add_attribute('annotation', 'genre')
+      elsif genre.empty? && !topic.empty?
+        node.text = topic
+        node.add_attribute('annotation', 'topic')
+      else
+        Cleaner.delete(node)
+      end
     }
     
     # pbcoreRelation:
