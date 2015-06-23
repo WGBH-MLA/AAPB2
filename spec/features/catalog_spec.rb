@@ -88,7 +88,8 @@ describe 'Catalog' do
       describe 'facets' do
         assertions = [
           ['media_type', 1, 'Sound', 8],
-          ['genres', 2, 'Interview', 3],
+          ['genres', 1, 'Interview', 3],
+          ['topics', 1, 'Music', 1],
           ['asset_type', 1, 'Segment', 5],
           ['organization', 1, 'WGBH+(MA)', 2],
           ['year', 1, '2000', 1],
