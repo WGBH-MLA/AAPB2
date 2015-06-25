@@ -36,8 +36,8 @@ page, expand the "Access" filter and click "Digitized."
 The entire AAPB collection, consisting of 40,000 hours of historic public 
 television and radio programming and 68,000 items, is available for research at 
 WGBH Educational Foundation in Boston and the Library of Congress in 
-Washington, D.C. For information about on-location research policies and 
-scheduling an appointment, visit [on location research page]. 
+Washington, D.C. More information about on-location research policies and 
+scheduling an appointment is available [here](/on-location). 
 
 <a name="when"></a>
 ##When will video and audio in the AAPB collection be available online?
