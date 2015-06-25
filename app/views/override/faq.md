@@ -117,7 +117,7 @@ contact AAPB Project Staff at aapb_notifications@wgbh.org.
 ##I work at a participating organization. How can my station access our digital files and metadata records?
 
 Participating organizations can use the Archival Management System (AMS), to 
-view their records and digitized proxy files. We have created [guides](http://americanarchive.org/help/using-the-ams) for 
-navigating the AMS and obtaining copies of your organization's improved 
-metadata.
+view their records and digitized proxy files. We have created 
+[guides](/help/using-the-ams) for navigating the AMS and obtaining copies of 
+your organization's improved metadata.
 
