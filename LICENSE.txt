@@ -1,0 +1,11 @@
+Copyright (c) WGBH Educational Foundation
+
+This project is licensed under the terms of the Apache License Version 2.0: 
+http://www.apache.org/licenses/LICENSE-2.0.txt
+
+The project consists of copyrighted components that are subject to the terms of 
+licenses, including:
+
+Ruby on Rails -- MIT License (http://rubyonrails.org/)
+Solr -- Apache License Version 2.0 (http://lucene.apache.org/solr/)
+Blacklight -- Apache License Version 2.0 (https://github.com/projectblacklight/blacklight)
