@@ -112,6 +112,18 @@ describe 'Catalog' do
           end
         end
       end
+      
+      describe 'exhibit facet' do
+        it 'has exhibition description' do
+          visit '/catalog?f[exhibits][]=Iowa!&view=gallery'
+          expect(page).to have_text("I'm reluctant to hard-code too much of the design right now")
+        end
+        
+        it 'has individual descriptions' do
+          visit '/catalog?f[exhibits][]=Iowa!&view=gallery'
+          expect(page).to have_text("Under construction")
+        end
+      end
 
       describe 'fields' do
         assertions = [
