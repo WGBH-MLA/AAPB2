@@ -2,6 +2,7 @@ require 'rexml/document'
 require 'rexml/xpath'
 require 'solrizer'
 require_relative 'exhibit'
+require_relative '../../lib/html_scrubber'
 
 require_relative 'organization'
 
@@ -12,7 +13,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @doc = REXML::Document.new xml
   end
   def descriptions
-    @descriptions ||= xpaths('/*/pbcoreDescription')
+    @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
   def genres
     @genres ||= xpaths('/*/pbcoreGenre')
