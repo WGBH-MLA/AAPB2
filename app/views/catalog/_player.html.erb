@@ -7,22 +7,28 @@
   videojs.options.flash.swf = "/video-js/video-js.swf";
 </script>
 
+<%= 
+  if @pbcore.video? || @pbcore.audio?
+    @pbcore.media_srcs.map do |media_src|
+      media = @pbcore.video? ? 'video' : 'audio'
+      content_tag(media, 'class' => 'video-js vjs-default-skin', 
+                  controls: true,
+                  oncontextmenu: 'return false;', 
+                  preload: 'none', width: 400, height: 300,
+                  poster: @pbcore.img_src, 'data-setup' => '{}') do %>
 
-<% if @pbcore.video? || @pbcore.audio?
-  (@pbcore.video? ? 'video' : 'audio').tap do |media| %>
-    <%= content_tag(media, 'class' => 'video-js vjs-default-skin', controls: true,
-                       oncontextmenu: 'return false;', 
-                       preload: 'none', width: 400, height: 300,
-                       poster: @pbcore.img_src, 'data-setup' => '{}') do %>
 
-      <source src="<%= @pbcore.media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
-      <p class="vjs-no-js">
-        To play this <%= media %> please enable JavaScript, and consider upgrading to a web browser that 
-        <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 <%= media %></a>.
-      </p>
-<%    end
-    end
-  else %>
-  <!-- It should have been either video or audio. -->
-  <% logger.error("#{@pbcore.id} is neither video nor audio.") %>
-<% end %>
+        <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+        <p class="vjs-no-js">
+          To play this <%= media %> please enable JavaScript, and consider upgrading to a web browser that 
+          <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 <%= media %></a>.
+        </p>
+
+        
+        <%
+      end
+    end.join().html_safe()
+  else
+    logger.error("#{@pbcore.id} is neither video nor audio.")
+  end
+%>

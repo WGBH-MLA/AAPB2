@@ -86,14 +86,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
       # Map to pairs for consistency... but building the hash and just throwing it away?
     end
   end
-  def ci_id
-    # Records from Wash U may have multiple Ci IDs right now.
-    # In the future, cataloging work should be done so these each have their own record.
-    # https://github.com/WGBH/AAPB2/issues/253
-    @ci_id ||= xpaths("/*/pbcoreIdentifier[@source='#{SONY_CI}']").first # May not be present.
+  def ci_ids
+    @ci_ids ||= xpaths("/*/pbcoreIdentifier[@source='#{SONY_CI}']")
   end
-  def media_src
-    @media_src ||= ci_id ? "/media/#{id}" : nil
+  def media_srcs
+    @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
   def img_src # rubocop:disable CyclomaticComplexity
     @img_src ||=
@@ -142,7 +139,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     media_type == SOUND
   end
   def digitized?
-    @digitized ||= !ci_id.nil?
+    @digitized ||= !ci_ids.empty?
     # TODO: not confident about this. We ought to be able to rely on this:
     # xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy')
   end
@@ -320,7 +317,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_src, :rights_code, :access_types, :titles_sort, :ci_id]
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :rights_code, :access_types, :titles_sort, :ci_ids]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
