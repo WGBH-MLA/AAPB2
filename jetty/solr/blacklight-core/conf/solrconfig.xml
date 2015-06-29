@@ -86,8 +86,8 @@
             http://wiki.apache.org/solr/LocalParams
        -->
 
-       <str name="qf">text</str>
-       <str name="pf">text</str>
+       <str name="qf">text titles^100</str>
+       <str name="pf">text titles^100</str>
        
        <str name="titles_qf">titles</str>
        <str name="titles_pf">titles</str>
