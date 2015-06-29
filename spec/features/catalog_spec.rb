@@ -114,7 +114,7 @@ describe 'Catalog' do
           end
         end
       end
-      
+
       describe 'facets not in sidebar' do
         describe 'state facet' do
           assertions = [
@@ -130,7 +130,21 @@ describe 'Catalog' do
           end
         end
       end
-      
+
+      describe 'facet ORs' do
+        assertions = [
+          ['media_type', 'Sound+OR+Moving+Image', 19],
+          ['media_type', 'Moving+Image+or+Sound', 19]
+        ]
+        assertions.each do |facet, value, value_count|
+          url = "/catalog?f[#{facet}][]=#{value}"
+          it "#{facet}=#{value}: #{value_count}\t#{url}" do
+            visit url
+            expect_count(value_count)
+          end
+        end
+      end
+
       describe 'exhibit facet' do
         describe 'in gallery' do
           it 'has exhibition description' do
