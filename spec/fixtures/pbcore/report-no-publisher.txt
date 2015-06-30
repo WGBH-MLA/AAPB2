@@ -1,2 +1,0 @@
-/pbcorePublisher[not(publisher)]
-	dirty-yes-fix-no-publisher.xml

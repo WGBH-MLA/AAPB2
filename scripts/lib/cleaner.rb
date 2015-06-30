@@ -3,7 +3,7 @@ require 'set'
 require_relative '../../app/models/vocab_map'
 
 class Cleaner # rubocop:disable Metrics/ClassLength
-  attr_reader :report
+  attr_reader :match
 
   def initialize
     @asset_type_map = VocabMap.for('asset')
@@ -11,18 +11,6 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     @title_type_map = VocabMap.for('title')
     @description_type_map = VocabMap.for('description')
     @genre_type_map = VocabMap.for('genre')
-
-    @report = {}
-    def @report.to_s
-      out = ''
-      sort.each do |category, set|
-        out << "#{category}\n"
-        set.sort.each do |member|
-          out << "\t#{member}\n"
-        end
-      end
-      out
-    end
   end
 
   def clean(dirty_xml, name='not specified')
@@ -34,13 +22,13 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     # pbcoreAssetType:
 
-    match_no_report(doc, '/pbcoreAssetType') { |node|
+    match(doc, '/pbcoreAssetType') { |node|
       @asset_type_map.map_node(node)
     }
 
     # TODO: insert assetType if not given.
 
-    match_no_report(doc, '/pbcoreAssetDate') { |node|
+    match(doc, '/pbcoreAssetDate') { |node|
       match = node.text.match(/^(\d{4})/)
       Cleaner.delete(node) unless match && match[1].to_i.between?(1900, Time.now.year)
     }
@@ -76,7 +64,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       node.attributes['titleType'] = ''
     }
     
-    match_no_report(doc, '/pbcoreTitle') { |node|
+    match(doc, '/pbcoreTitle') { |node|
       if (node.text !~ /[A-Z]/ || node.text !~ /[a-z]/) && node.text =~ /[a-zA-Z]/
         # ie, either all upper or all lower, and it has letters.
         node.text = node.text.downcase
@@ -128,7 +116,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     # pbcoreGenre:
 
-    match_no_report(doc, '/pbcoreGenre') { |node|
+    match(doc, '/pbcoreGenre') { |node|
       @genre_type_map.map_node(node)
     }
     
@@ -138,9 +126,8 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       Cleaner.delete(node)
     }
 
-    match_no_report(doc, '/pbcoreRelation') { |node|
+    match(doc, '/pbcoreRelation') { |node|
       if node.elements[1].name == 'pbcoreRelationIdentifier'
-        add_report('swapped pbcoreRelation children', @current_name)
         Cleaner.swap_children(node)
       end
     }
@@ -151,8 +138,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       Cleaner.delete(node)
     }
 
-    match_no_report(doc, '/pbcoreCoverage/coverageType') { |node|
-      # TODO: report, or tighter XPath
+    match(doc, '/pbcoreCoverage/coverageType') { |node|
       node.text = node.text.capitalize
     }
 
@@ -170,7 +156,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     # pbcoreRightsSummary:
 
-    match_no_report(doc, '[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]') { |node|
+    match(doc, '[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]') { |node|
       Cleaner.insert_after_match(
         node,
         Cleaner.any('pbcore',
@@ -208,7 +194,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       )
     }
 
-    match_no_report(doc, '/pbcoreInstantiation/instantiationDimensions/@unitOfMeasure') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationDimensions/@unitOfMeasure') { |node|
       node.name = 'unitsOfMeasure'
     }
 
@@ -217,11 +203,11 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       node.text = 'other'
     }
 
-    match_no_report(doc, '/pbcoreInstantiation/instantiationLanguage') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationLanguage') { |node|
       Cleaner.clean_language(node)
     }
 
-    match_no_report(doc, '/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackLanguage') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackLanguage') { |node|
       Cleaner.clean_language(node)
     }
 
@@ -243,21 +229,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
   end
 
-  def add_report(category, instance)
-    # TODO: I don't think anyone ended up using this. Confirm and delete.
-    @report[category] ||= Set.new
-    @report[category].add(instance)
-  end
-
   def match(doc, xpath_fragment)
-    @current_category = xpath_fragment # TODO: Is there a better way to get this into the each-scope?
-    REXML::XPath.match(doc, '/pbcoreDescriptionDocument' + xpath_fragment).each do |node|
-      add_report(@current_category, @current_name)
-      yield node
-    end
-  end
-
-  def match_no_report(doc, xpath_fragment)
     REXML::XPath.match(doc, '/pbcoreDescriptionDocument' + xpath_fragment).each do |node|
       yield node
     end

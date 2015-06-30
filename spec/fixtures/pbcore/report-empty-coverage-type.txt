@@ -1,2 +1,0 @@
-/pbcoreCoverage[coverageType[not(node())]]
-	dirty-yes-fix-empty-coverage-type.xml

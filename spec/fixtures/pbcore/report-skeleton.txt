@@ -1,2 +1,0 @@
-[not(pbcoreTitle)]
-	dirty-no-fix-skeleton.xml
