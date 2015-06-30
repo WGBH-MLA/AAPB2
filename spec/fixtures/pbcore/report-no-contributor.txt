@@ -1,8 +1,0 @@
-/pbcoreContributor[not(contributor)]
-	dirty-yes-fix-no-contributor.xml
-/pbcoreInstantiation/instantiationIdentifier[not(@source)]
-	dirty-yes-fix-no-contributor.xml
-/pbcoreInstantiation[not(instantiationIdentifier)]
-	dirty-yes-fix-no-contributor.xml
-[not(pbcoreTitle)]
-	dirty-yes-fix-no-contributor.xml

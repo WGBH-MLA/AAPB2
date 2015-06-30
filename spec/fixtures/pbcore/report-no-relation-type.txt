@@ -1,4 +1,0 @@
-/pbcoreRelation[not(pbcoreRelationType)]
-	dirty-yes-fix-no-relation-type.xml
-swapped pbcoreRelation children
-	dirty-yes-fix-no-relation-type.xml

@@ -1,2 +1,0 @@
-/pbcoreIdentifier[not(@source)]
-	dirty-yes-fix-no-identifier-source.xml
