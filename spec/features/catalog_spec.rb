@@ -92,9 +92,9 @@ describe 'Catalog' do
           ['genres', 1, 'Interview', 3],
           ['topics', 1, 'Music', 1],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 1, 'WGBH+(MA)', 2],
+          ['organization', 16, 'WGBH+(MA)', 2],
           ['year', 1, '2000', 1],
-          ['access_types', 2, 'all', 23]
+          ['access_types', 2, PBCore::ALL_ACCESS, 23]
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"

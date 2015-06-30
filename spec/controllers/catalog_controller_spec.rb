@@ -38,7 +38,7 @@ describe CatalogController do
     
     it 'errors if f is gibberish' do
       expect { get 'index', f: { 'gibberish' => 'data' } }.to raise_error
-      # This is what it's doing now... do we want something different?
+      # TODO: This is the current behavior: do we want something different?
     end
 
     it 'not in effect if sort filled in' do
