@@ -1,5 +1,5 @@
 
-<form action="/catalog">
+<form action="/catalog" id="advanced">
   <input name="q" type="hidden"></input>
   
   <label>Search</label><input id="include"></input>
@@ -18,7 +18,7 @@
 
 <script>
   $(function(){
-    $('form').change(function(){
+    $('#advanced').change(function(){
       var include = $('#include').val();
       var exclude = $('#exclude').val();
       var q = ( $('#exact').prop('checked') ? 
@@ -28,7 +28,14 @@
                   '' :
                   (' -"' + exclude + '"') );
       $('[name=q]').val(q);
-      console.log(q);
+      
+      // munge all the facet links:
+      $('.facet_select').each(function(i,el){
+        var $el = $(el);
+        url = $el.attr('href').replace(/(&q=.*)?$/, 
+                                       '&'+$('#advanced').serialize());
+        $el.attr('href', url);
+      });
     });
   });
 </script>
