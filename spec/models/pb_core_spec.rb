@@ -106,6 +106,7 @@ describe 'Validated and plain PBCore' do
         img_src: 'http://mlamedia01.wgbh.org/aapb/thumbnail/1234.jpg',
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
+        organization_state_abbreviation: 'MA',
         rights_code: 'PUBLIC',
         media_type: 'Moving Image',
         video?: true,
