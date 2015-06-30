@@ -537,6 +537,8 @@
           type="string" indexed="true" stored="false" multiValued="false"/>
    <field name="organization" 
           type="string" indexed="true" stored="false" multiValued="false"/>
+   <field name="organization_state" 
+          type="string" indexed="true" stored="false" multiValued="false"/>
    <field name="genres" 
           type="string" indexed="true" stored="false" multiValued="true"/>
    <field name="access_types"
