@@ -10,7 +10,7 @@
     exhibit_names.each do |name|
       %>
         <div>
-          <%= Exhibit.find_by_name(name).html.html_safe %>
+          <%= Exhibit.find_by_name(name).summary_html.html_safe %>
         </div>
       <%
     end if exhibit_names

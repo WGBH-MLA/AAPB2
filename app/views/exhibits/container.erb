@@ -1,22 +1,19 @@
 <% content_for :sidebar do %>
-  <%= render 'shared/sidebar_search' %>
-  <%= render layout: 'shared/sidebar_nav', locals: { title: 'About Us' } do %>      
-    <li class="active"><a href="/about-the-american-archive">About the AAPB</a></li>
-    <li class="active"><a href="/about-the-american-archive/vision-and-mission">Vision and Mission</a></li>
-    <li class="active"><a href="/on-location">On Location Research</a></li>
-    <li class="active"><a href="/about-the-american-archive/history">History</a></li>
-    <li class="active"><a href="/about-the-american-archive/projects">Projects</a></li>
-    <li class="active"><a href="/about-the-american-archive/staff">Staff</a></li>
-    <li class="active"><a href="/about-the-american-archive/funding">Funding</a></li>
-    <li class="active"><a href="/about-the-american-archive/acknowledgments">Acknowledgments</a></li>
-    <li class="active"><a href="/faq">FAQ</a></li>
-    <li class="active"><a href="/contact-us">Contact Us</a></li>
-  <% end %>
+  <img src="<%= @exhibit.thumbnail_url %>"/>
+  
+  <h2>Author</h2>
+  <%= @exhibit.author_html.html_safe %>
+  
+  <h2>Links</h2>
+  <%= @exhibit.links_html.html_safe %>
+  
+  TODO: view all<br/>
+  TODO: search<br/>
 <% end %>
     
 <%= render partial: 'shared/title_sidebar_main', 
            locals: { 
-             title: @title.html_safe,
+             title: @exhibit.name.html_safe,
              sidebar: yield(:sidebar),
-             main: @body.html_safe
+             main: @exhibit.body_html.html_safe
            } %>

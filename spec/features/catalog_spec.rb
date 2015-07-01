@@ -116,12 +116,12 @@ describe 'Catalog' do
       describe 'exhibit facet' do
         it 'has exhibition description' do
           visit '/catalog?f[exhibits][]=Iowa!&view=gallery'
-          expect(page).to have_text("I'm reluctant to hard-code too much of the design right now")
+          expect(page).to have_text('Summary for search results goes here')
         end
         
         it 'has individual descriptions' do
           visit '/catalog?f[exhibits][]=Iowa!&view=gallery'
-          expect(page).to have_text("Under construction")
+          expect(page).to have_text('Item 1 summary')
         end
       end
 
