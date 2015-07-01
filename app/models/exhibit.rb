@@ -50,8 +50,9 @@ class Exhibit
     html = Markdowner.render(File.read(path))
     @slug = File.basename(path, '.md')
     Nokogiri::HTML(html).tap do |doc|
-      @name = doc.xpath('//h1[1]').remove.text
-      @thumbnail_url = doc.xpath('//img[1]/@src').remove.text
+      #binding.pry
+      @name = doc.xpath('//h1').first.remove.text
+      @thumbnail_url = doc.xpath('//img[1]/@src').first.remove.text
       
       @items = Hash[
         doc.xpath('//a').select { |el| 
