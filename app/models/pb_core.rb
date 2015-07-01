@@ -353,7 +353,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :rights_code, :access_level,
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, :rights_code, :access_level,
                :access_types, :titles_sort, :ci_ids, :instantiations, :organization_state_abbreviation]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
