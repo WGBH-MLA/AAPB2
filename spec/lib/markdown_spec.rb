@@ -37,5 +37,11 @@ describe Markdowner do
       expect(html).to eq(%(<p>foo <a href="https://link.com/path.ext?name=value#anchor">text</a> bar</p>
 ))
     end
+    
+    it 'makes anchors' do
+      html = Markdowner.render('# Testing 123')
+      expect(html).to eq(%(<h1 id="testing-123">Testing 123</h1>
+))
+    end
   end
 end

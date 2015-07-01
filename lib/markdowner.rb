@@ -1,7 +1,7 @@
 require 'redcarpet'
 
 module Markdowner
-  @@markdown = Redcarpet::Markdown.new(Redcarpet::Render::XHTML, autolink: true)
+  @@markdown = Redcarpet::Markdown.new(Redcarpet::Render::XHTML.new(with_toc_data: true), autolink: true)
   def self.render(md_text)
     return unless md_text
     @@markdown.render(md_text)
