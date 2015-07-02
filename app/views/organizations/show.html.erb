@@ -14,7 +14,7 @@
     <%= render partial: 'shared/sidebar_nav', 
                locals: { 
                   title: 'About',
-                  links: [] +
+                  links:
                     (@org.history_html ? [['History', '#history']] : []) +
                     (@org.productions_html ? [['Productions', '#productions']] : [])
                } %>
