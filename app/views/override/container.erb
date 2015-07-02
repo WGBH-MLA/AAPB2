@@ -1,17 +1,21 @@
 <% content_for :sidebar do %>
   <%= render 'shared/sidebar_search' %>
-  <%= render layout: 'shared/sidebar_nav', locals: { title: 'About Us' } do %>      
-    <li class="active"><a href="/about-the-american-archive">About the AAPB</a></li>
-    <li class="active"><a href="/about-the-american-archive/vision-and-mission">Vision and Mission</a></li>
-    <li class="active"><a href="/on-location">On Location Research</a></li>
-    <li class="active"><a href="/about-the-american-archive/history">History</a></li>
-    <li class="active"><a href="/about-the-american-archive/projects">Projects</a></li>
-    <li class="active"><a href="/about-the-american-archive/staff">Staff</a></li>
-    <li class="active"><a href="/about-the-american-archive/funding">Funding</a></li>
-    <li class="active"><a href="/about-the-american-archive/acknowledgments">Acknowledgments</a></li>
-    <li class="active"><a href="/faq">FAQ</a></li>
-    <li class="active"><a href="/contact-us">Contact Us</a></li>
-  <% end %>
+  <%= render partial: 'shared/sidebar_nav', 
+             locals: { 
+              title: 'Resources',
+              links: [
+                        ['About the AAPB', '/about-the-american-archive'],
+                        ['Vision and Mission', '/about-the-american-archive/vision-and-mission'],
+                        ['On Location Research', '/on-location'],
+                        ['History', '/about-the-american-archive/history'],
+                        ['Projects', '/about-the-american-archive/projects'],
+                        ['Staff', '/about-the-american-archive/staff'],
+                        ['Funding', '/about-the-american-archive/funding'],
+                        ['Acknowledgments', '/about-the-american-archive/acknowledgments'],
+                        ['FAQ', '/faq'],
+                        ['Contact Us', '/contact-us']
+                      ]
+            } %>
 <% end %>
     
 <%= render partial: 'shared/title_sidebar_main', 
