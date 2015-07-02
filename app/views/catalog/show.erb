@@ -141,10 +141,10 @@
     <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
   </dl>
 
-  <% if @pbcore.instantiations.first && @pbcore.instantiations.first.duration %>
+  <% if @pbcore.duration %>
     <dl>
       <dt>Duration</dt>
-      <dd><%= @pbcore.instantiations.first.duration %></dd>
+      <dd><%= @pbcore.duration %></dd>
     </dl>
   <% end %>  
 

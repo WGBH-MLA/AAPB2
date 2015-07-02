@@ -69,12 +69,13 @@ describe 'Validated and plain PBCore' do
             'Best episode ever!', '', 'Music', #
             'explosions -- gratuitious', 'musicals -- horror', #
             'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', #
-            'Moving Image', '0:12:34', 'Copy Left: All rights reversed.', #
+            'Copy Left: All rights reversed.', #
             'Album', 'uncataloged', '2000-01-01', #
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
             'Program', 'Gratuitous Explosions', 'Series', 'Nova', '1234', #
             'AAPB ID', 'somewhere else', '5678', #
-            'WGBH', 'Boston', 'Massachusetts'],
+            'WGBH', 'Boston', 'Massachusetts', #
+            'Moving Image', '1:23:45'],
           'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'Nova'],
           'title' => 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
@@ -96,7 +97,8 @@ describe 'Validated and plain PBCore' do
         title: 'Kaboom!',
         exhibits: [],
         descriptions: ['Best episode ever!'],
-        instantiations: [PBCore::Instantiation.new('Moving Image', '0:12:34')],
+        instantiations: [PBCore::Instantiation.new('Moving Image', 'should be ignored!'),
+                         PBCore::Instantiation.new('Moving Image', '1:23:45')],
         rights_summary: 'Copy Left: All rights reversed.',
         genres: ['', 'Music'],
         id: '1234',
@@ -110,6 +112,7 @@ describe 'Validated and plain PBCore' do
         media_type: 'Moving Image',
         video?: true,
         audio?: false,
+        duration: '1:23:45',
         digitized?: true,
         subjects: ['explosions -- gratuitious', 'musicals -- horror'],
         creators: [PBCore::NameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
