@@ -10,7 +10,7 @@ class Exhibit
   attr_reader :thumbnail_url
   attr_reader :author_html
   attr_reader :author_img_src
-  attr_reader :links_html
+  attr_reader :links
   attr_reader :body_html
   
   def self.find_by_slug(slug)
@@ -38,7 +38,7 @@ class Exhibit
   def self.extract_html(doc, title)
     following_siblings = []
     doc.xpath("//*[text()='#{title}']").first.tap do |header|
-      while header.next_element && !header.next_element.name.match(/h\d/) do
+      while header.next_element && !header.next_element.name.match(/h2/) do
         following_siblings.push(header.next_element.remove)
       end
       header.remove
@@ -66,8 +66,18 @@ class Exhibit
       
       @summary_html = Exhibit::extract_html(doc, 'Summary')
       @author_html = Exhibit::extract_html(doc, 'Author')
-      @links_html = Exhibit::extract_html(doc, 'Links')
       @body_html = Exhibit::extract_html(doc, 'Description')
+      
+      Exhibit::extract_html(doc, 'Links').tap do |links_html|
+        Nokogiri::HTML(links_html).tap do |doc|
+          @links = doc.xpath('//a').map { |el| 
+            [
+              el.text,
+              el.attribute('href').to_s
+            ]
+          }
+        end
+      end
       
       # TODO: Should be nothing left after this.
     end

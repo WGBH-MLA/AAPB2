@@ -13,11 +13,8 @@
   
     <%= render partial: 'shared/sidebar_nav', 
                locals: { 
-                title: 'Resources',
-                links: [
-                          ['TODO', '/about-the-american-archive'],
-                          ['Extract from MD', '/about-the-american-archive/vision-and-mission']
-                        ]
+                title: 'Links',
+                links: @exhibit.links
               } %>
     
   TODO: view all<br/>

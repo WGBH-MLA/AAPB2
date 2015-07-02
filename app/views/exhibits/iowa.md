@@ -27,9 +27,13 @@ Is this workable, or would some kind of pre-processor be useful?
 
 [456](/catalog/cpb-aacip_37-010p2nvv "Item 2 summary")
 
+### Sub headings work
 
 I'm reluctant to hard-code too much of the design right now: 
 I'd suggest we just put images and links in the text until we're more confident
 about the arrangement, and then I could turn that into code.
+
+### For example
+
 If you need a link to all results, this is an example: 
 [Iowa!](/catalog?f[exhibits][]=Iowa!&view=gallery)
