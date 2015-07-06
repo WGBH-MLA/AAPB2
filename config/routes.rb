@@ -7,11 +7,11 @@ Rails.application.routes.draw do
             path: '/participating-orgs', # for backwards compatibility.
             constraints: { id: /.*/ }, # so periods in station IDs are acceptable.
             only: [:index, :show]
-  
-  resources 'exhibits',
-            only: [:show]
 
   resources 'media',
+            only: [:show]
+          
+  resources 'thumbnails',
             only: [:show]
           
   ['404', '500'].each do |status_code|
@@ -20,8 +20,12 @@ Rails.application.routes.draw do
 
   get 'robots', to: 'robots#show'
 
-  get '/*path', to: 'override#show', constraints: lambda { |req|
+  override_constraints = lambda { |req|
     path = req.params['path']
     path.match(OverrideController::PATH_PATTERN) && !path.match(/^rails/)
   }
+  
+  get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
+  
+  get '/*path', to: 'override#show', constraints: override_constraints
 end

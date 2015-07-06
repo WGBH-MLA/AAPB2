@@ -1,13 +1,17 @@
 require_relative '../../lib/markdowner'
-require 'yaml'
+require 'nokogiri'
 
 class Exhibit
-  attr_reader :slug
   attr_reader :name
+  attr_reader :slug
   attr_reader :items
-  attr_reader :ids
+  
+  attr_reader :summary_html
   attr_reader :thumbnail_url
-  attr_reader :html
+  attr_reader :author_html
+  attr_reader :author_img_src
+  attr_reader :links
+  attr_reader :body_html
   
   def self.find_by_slug(slug)
     @@exhibits_by_slug[slug]
@@ -25,35 +29,69 @@ class Exhibit
     @@exhibits_by_slug.values
   end
 
+  def ids
+    items.keys
+  end
+  
   private
   
-  def pop(hash, key)
-    hash.delete(key) || fail("#{key} required")
+  def self.extract_html(doc, title)
+    following_siblings = []
+    doc.xpath("//*[text()='#{title}']").first.tap do |header|
+      while header.next_element && !header.next_element.name.match(/h2/) do
+        following_siblings.push(header.next_element.remove)
+      end
+      header.remove
+    end
+    following_siblings.map { |el| el.to_s }.join
   end
 
-  def initialize(hash)
-    @slug = pop(hash, 'slug')
-    @name = pop(hash, 'name')
-    @items = pop(hash, 'items')
-    @ids = @items.keys
-    @thumbnail_url = pop(hash, 'thumbnail_url')
-    @html = Markdowner.render(pop(hash, 'md'))
-    fail("unexpected #{hash}") unless hash == {}
+  def initialize(path)
+    html = Markdowner.render(File.read(path))
+    @slug = File.basename(path, '.md')
+    Nokogiri::HTML(html).tap do |doc|
+      @name = doc.xpath('//h1').first.remove.text
+      @thumbnail_url = doc.xpath('//img[1]/@src').first.remove.text
+      
+      @items = Hash[
+        doc.xpath('//a').select { |el| 
+          el.attribute('href').to_s.match('^/catalog/.+')
+        }.map { |el| 
+          [
+            el.attribute('href').to_s.gsub('/catalog/', ''),
+            el.attribute('title').text
+          ]
+        }
+      ]
+      
+      @summary_html = Exhibit::extract_html(doc, 'Summary')
+      @author_html = Exhibit::extract_html(doc, 'Author')
+      @body_html = Exhibit::extract_html(doc, 'Description')
+      
+      Exhibit::extract_html(doc, 'Links').tap do |links_html|
+        Nokogiri::HTML(links_html).tap do |doc|
+          @links = doc.xpath('//a').map { |el| 
+            [
+              el.text,
+              el.attribute('href').to_s
+            ]
+          }
+        end
+      end
+      
+      # TODO: Should be nothing left after this.
+    end
   end
 
-  # Lookup by slug is necessary for exhibit pages.
-  # Lookup by name is necessary on search results.
-  
   @@exhibits_by_slug = Hash[
-    YAML.load_file(Rails.root + 'config/exhibits.yml').map do |hash|
-      [hash['slug'], Exhibit.new(hash)]
+    Dir[Rails.root + 'app/views/exhibits/*.md'].map do |path|
+      exhibit = Exhibit.new(path)
+      [exhibit.slug, exhibit]
     end
   ]
   
   @@exhibits_by_name = Hash[
-    YAML.load_file(Rails.root + 'config/exhibits.yml').map do |hash|
-      [hash['name'], Exhibit.new(hash)]
-    end
+    Exhibit.all.map{ |exhibit| [exhibit.name, exhibit] }
   ]
   
   @@exhibits_by_item_id = Hash[

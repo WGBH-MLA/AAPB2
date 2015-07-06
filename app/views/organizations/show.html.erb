@@ -11,14 +11,13 @@
   <div class="col-md-4  column">
 
     <%= render 'shared/sidebar_search' %>
-    <%= render layout: 'shared/sidebar_nav', locals: { title: 'About' } do %>
-      <% if @org.history_html %>
-          <li class="active"><a href="#history">History</a></li>
-      <% end %>
-      <% if @org.productions_html %>
-          <li class="active"><a href="#productions">Productions</a></li>
-      <% end %>
-    <% end %>
+    <%= render partial: 'shared/sidebar_nav', 
+               locals: { 
+                  title: 'About',
+                  links: [] +
+                    (@org.history_html ? [['History', '#history']] : []) +
+                    (@org.productions_html ? [['Productions', '#productions']] : [])
+               } %>
 
   </div>
   <!-- END Column -->
