@@ -1,2 +1,0 @@
-/pbcoreInstantiation/instantiationIdentifier[not(@source)]
-	dirty-yes-fix-no-instantiation-identifier-source.xml

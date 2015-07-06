@@ -1,6 +1,0 @@
-/pbcoreInstantiation/instantiationMediaType[. != "Moving Image" and . != "Sound" and . != "other"]
-	dirty-yes-fix-bad-relation-and-language.xml
-/pbcoreInstantiation[not(instantiationMediaType)]
-	dirty-yes-fix-bad-relation-and-language.xml
-swapped pbcoreRelation children
-	dirty-yes-fix-bad-relation-and-language.xml

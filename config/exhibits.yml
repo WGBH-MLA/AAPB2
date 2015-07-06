@@ -1,7 +1,9 @@
 ---
 - slug: iowa
   name: Iowa!
-  ids: [cpb-aacip_37-31cjt2qs, cpb-aacip_37-010p2nvv]
+  items: 
+    cpb-aacip_37-31cjt2qs: Under construction
+    cpb-aacip_37-010p2nvv: Under construction
   thumbnail_url: http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg
   md: |
     I'm reluctant to hard-code too much of the design right now: 

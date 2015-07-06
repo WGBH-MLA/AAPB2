@@ -21,13 +21,6 @@ describe Cleaner do
         clean = File.read(path_clean)
 
         expect(cleaner.clean(dirty, name)).to eq(clean)
-
-        path_report = path_dirty.gsub('dirty-yes-fix', 'report').gsub('.xml', '.txt')
-        # To create new test:
-        # File.write(path_report, cleaner.report.to_s) if !File.exist?(path_report)
-        report = File.read(path_report)
-        expect(cleaner.report.to_s).to eq(report)
-
         expect { ValidatedPBCore.new(clean) }.not_to raise_error
       end
     end
@@ -40,17 +33,8 @@ describe Cleaner do
         cleaner = Cleaner.new
         dirty = File.read(path_dirty)
 
-        expect do
-          # Error could occur in either phase: we don't care.
-          clean = cleaner.clean(dirty, name)
-          ValidatedPBCore.new(clean)
-        end.to raise_error
-
-        path_report = path_dirty.gsub('dirty-no-fix', 'report').gsub('.xml', '.txt')
-        # To create new test:
-        # File.write(path_report, cleaner.report.to_s) if !File.exist?(path_report)
-        report = File.read(path_report)
-        expect(cleaner.report.to_s).to eq(report)
+        # Error could occur either in cleaning or validation; We don't care.
+        expect { ValidatedPBCore.new(cleaner.clean(dirty, name)) }.to raise_error
       end
     end
   end

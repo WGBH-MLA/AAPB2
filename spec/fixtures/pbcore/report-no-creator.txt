@@ -1,2 +1,0 @@
-/pbcoreCreator[not(creator)]
-	dirty-yes-fix-no-creator.xml
