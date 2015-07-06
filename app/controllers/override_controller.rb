@@ -8,7 +8,7 @@ class OverrideController < ApplicationController
       if File.exist?(full_path)
         params[:path] = nil # search widget grabs ALL parameters.
         set_view_fields(full_path)
-        render file: "#{params[:controller]}/container.erb"
+        render file: "#{params[:controller]}/template.erb"
         return
       end
     end
