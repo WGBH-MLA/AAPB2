@@ -153,7 +153,7 @@ describe 'Catalog' do
         describe 'relevance sorting' do
           assertions = [
             ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug', 'Musical Encounter']],
-            ['art', ['Unknown', 'Scheewe Art Workshop', 'A Sorting Test: 100']],
+            ['art', ['Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
             ['John', ['Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug']]
           ]
           assertions.each do |query, titles|
