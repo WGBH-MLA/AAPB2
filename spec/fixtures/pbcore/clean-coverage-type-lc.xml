@@ -4,7 +4,7 @@
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/394-62f7m6kq</pbcoreIdentifier>
   <pbcoreTitle titleType='Raw Footage'>MSOM Field Tape - BUG 12</pbcoreTitle>
   <pbcoreDescription>MSOM Field Tape - BUG 11 C. Miller part 2</pbcoreDescription>
-  <pbcoreGenre>Magazine</pbcoreGenre>
+  <pbcoreGenre annotation='topic'>Magazine</pbcoreGenre>
   <pbcoreCoverage>
     <coverage>Local</coverage>
     <coverageType>Spatial</coverageType>

@@ -12,8 +12,8 @@
   <pbcoreSubject>explosions -- gratuitious</pbcoreSubject>
   <pbcoreSubject>musicals -- horror</pbcoreSubject>
   <pbcoreDescription>&lt;removed by html scrubber&gt;Best episode ever!</pbcoreDescription>
-  <pbcoreGenre/>
-  <pbcoreGenre>Music</pbcoreGenre>
+  <pbcoreGenre annotation='genre'>Call-in</pbcoreGenre>
+  <pbcoreGenre annotation='topic'>Music</pbcoreGenre>
   <pbcoreCreator>
     <creator affiliation='Stooges'>Larry</creator>
     <creatorRole>balding</creatorRole>

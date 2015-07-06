@@ -20,7 +20,7 @@ class VocabMap
   end
 
   def authorized_names
-    @map.values.uniq
+    @map.values.uniq.select { |name| !name.empty? }
   end
 
   def map_string(s)

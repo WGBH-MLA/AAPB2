@@ -539,6 +539,8 @@
           type="string" indexed="true" stored="false" multiValued="false"/>
    <field name="genres" 
           type="string" indexed="true" stored="false" multiValued="true"/>
+   <field name="topics" 
+          type="string" indexed="true" stored="false" multiValued="true"/>
    <field name="access_types"
           type="string" indexed="true" stored="false" multiValued="true"/>
    

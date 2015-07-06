@@ -66,7 +66,7 @@ describe 'Validated and plain PBCore' do
           'program_titles' => ['Gratuitous Explosions'],
           'series_titles' => ['Nova'],
           'text' => [ #
-            'Best episode ever!', '', 'Music', #
+            'Best episode ever!', 'Call-in', 'Music', #
             'explosions -- gratuitious', 'musicals -- horror', #
             'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', #
             'Copy Left: All rights reversed.', #
@@ -82,7 +82,8 @@ describe 'Validated and plain PBCore' do
           'year' => '2000',
           'exhibits' => [],
           'media_type' => 'Moving Image',
-          'genres' => ['', 'Music'],
+          'genres' => ['Call-in'],
+          'topics' => ['Music'],
           'asset_type' => 'Album',
           'organization' => 'WGBH (MA)',
           'access_types' => ['All', 'Digitized']
@@ -100,7 +101,8 @@ describe 'Validated and plain PBCore' do
         instantiations: [PBCore::Instantiation.new('Moving Image', 'should be ignored!'),
                          PBCore::Instantiation.new('Moving Image', '1:23:45')],
         rights_summary: 'Copy Left: All rights reversed.',
-        genres: ['', 'Music'],
+        genres: ['Call-in'],
+        topics: ['Music'],
         id: '1234',
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
         ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],

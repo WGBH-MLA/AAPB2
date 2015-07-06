@@ -5,7 +5,6 @@
   <pbcoreTitle titleType='Program'>WRF-09/13/07</pbcoreTitle>
   <pbcoreTitle titleType='Series'>Writers Forum</pbcoreTitle>
   <pbcoreDescription>No description available</pbcoreDescription>
-  <pbcoreGenre source='WERU Genre Picklist'></pbcoreGenre>
   <pbcoreCoverage>
     <coverage>mock value which should be preserved</coverage>
     <coverageType>Spatial</coverageType>

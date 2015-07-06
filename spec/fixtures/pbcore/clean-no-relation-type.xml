@@ -9,7 +9,7 @@
   <pbcoreSubject>Civil Rights</pbcoreSubject>
   <pbcoreSubject>Politics</pbcoreSubject>
   <pbcoreDescription descriptionType='Description'>Billie Ray, wife of Iowa Governor Bob Ray</pbcoreDescription>
-  <pbcoreGenre>Talk Show</pbcoreGenre>
+  <pbcoreGenre annotation='genre'>Talk Show</pbcoreGenre>
   <pbcoreRelation>
     <pbcoreRelationType>Is Part Of</pbcoreRelationType>
     <pbcoreRelationIdentifier>18</pbcoreRelationIdentifier>

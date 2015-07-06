@@ -9,7 +9,7 @@
     "FOUR DECADES OF DEDICATION: THE 40TH ANNIVERSARY SPECIAL" producer Natasha
     Neuroth
   </pbcoreDescription>
-  <pbcoreGenre>Documentary</pbcoreGenre>
+  <pbcoreGenre annotation='genre'>Documentary</pbcoreGenre>
   <pbcoreCreator>
     <creator>WPBS-TV</creator>
     <creatorRole>Producer</creatorRole>

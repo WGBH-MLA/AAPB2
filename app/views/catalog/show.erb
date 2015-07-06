@@ -110,6 +110,15 @@
       <% end %>
     </dl>
   <% end %>
+  
+  <% unless @pbcore.topics.empty? %>
+    <dl>
+      <dt>Topics</dt>
+      <% @pbcore.topics.each do |topic| %>
+        <dd><a href="/catalog?f[topics][]=<%= CGI::escape(topic) %>"><%= topic %></a></dd>
+      <% end %>
+    </dl>
+  <% end %>
 
   <% unless @pbcore.subjects.empty? %>
     <dl>

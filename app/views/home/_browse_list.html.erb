@@ -4,16 +4,33 @@
 
 <div class="container">
   <div id="welcome-panel" class="row">
-    <% VocabMap.for('genre').authorized_names.sort.in_groups(4).each do |group| %>
+    <%# TODO: Better CSS. Don't want big breaks in narrow layout. %>
+    
+    <div class="col-md-3 column" style="padding: 0 2em;">
+      <menu>Genre</menu>
+      <ul>
+        <% VocabMap.for('genre').authorized_names.sort.each do |genre| %>
+          <li><a href="/catalog?f[genres][]=<%= CGI::escape(genre) %>"><%= genre %></a></li>
+        <% end %>
+      </ul>
+    </div>
+    
+    <% VocabMap.for('topic').authorized_names.sort.in_groups(3,false).tap do |groups|
+      # ad-hoc shuffling to make up for title.
+      2.times { groups[1].unshift(groups[0].pop) }
+      2.times { groups[2].unshift(groups[1].pop) }
+      groups.each_with_index do |group, i| %>
       <div class="col-md-3 column" style="padding: 0 2em;">
-        <%# TODO: Better CSS. Don't want big breaks in narrow layout. %>
+        <% if i == 0 %>
+          <menu>Topic</menu>
+        <% end %>
         <ul>
-          <% group.select { |genre| genre && !genre.empty? }.each do |genre| %>
-            <%# TODO: (1) facet search. (2) split into "topic" and "format". %>
-            <li><a href="/catalog?q=<%= CGI::escape(genre) %>"><%= genre %></a></li>
+          <% group.each do |topic| %>
+            <li><a href="/catalog?f[topics][]=<%= CGI::escape(topic) %>"><%= topic %></a></li>
           <% end %>
         </ul>
       </div>
-    <% end %>
+    <% end end %>
+    
   </div>
 </div>
