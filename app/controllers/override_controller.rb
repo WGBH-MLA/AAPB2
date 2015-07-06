@@ -12,7 +12,7 @@ class OverrideController < ApplicationController
       full_path = Rails.root + "app/views/override/#{params[:path]}.md"
       if File.exist?(full_path)
         html = Markdowner.render_file(full_path)
-        (@title, @body) = html.match(/^\s*<h1>(.*?)<\/h1>(.*)/m).captures
+        (@title, @body) = html.match(/^\s*<h1[^>]*>(.*?)<\/h1>(.*)/m).captures
         # This is wrong, but not worth a full xml parse.
         @page_title = @title
         params[:path] = nil # search widget grabs ALL parameters.
