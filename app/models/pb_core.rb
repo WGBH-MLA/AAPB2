@@ -70,7 +70,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                xpaths('/*/pbcoreTitle').first # There are records that only have "Episode Number"
   end
   def exhibits
-    @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.name }
+    @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.path }
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')

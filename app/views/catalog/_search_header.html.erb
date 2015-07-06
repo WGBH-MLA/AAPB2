@@ -6,14 +6,14 @@
   for information about researching the collection at the Library of Congress or WGBH.</div>
 
 <% 
-  request.params.try(:[],'f').try(:[],'exhibits').tap do |exhibit_names|
-    exhibit_names.each do |name|
+  request.params.try(:[],'f').try(:[],'exhibits').tap do |exhibit_paths|
+    exhibit_paths.each do |path|
       %>
         <div>
-          <%= Exhibit.find_by_name(name).summary_html.html_safe %>
+          <%= Exhibit.find_by_path(path).summary_html.html_safe %>
         </div>
       <%
-    end if exhibit_names
+    end if exhibit_paths
   end
 %>
 

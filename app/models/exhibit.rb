@@ -3,7 +3,7 @@ require 'nokogiri'
 
 class Exhibit
   attr_reader :name
-  attr_reader :slug
+  attr_reader :path
   attr_reader :items
   
   attr_reader :summary_html
@@ -13,12 +13,8 @@ class Exhibit
   attr_reader :links
   attr_reader :body_html
   
-  def self.find_by_slug(slug)
-    @@exhibits_by_slug[slug]
-  end
-  
-  def self.find_by_name(name)
-    @@exhibits_by_name[name]
+  def self.find_by_path(path)
+    @@exhibits_by_path[path]
   end
   
   def self.find_by_item_id(id)
@@ -26,7 +22,7 @@ class Exhibit
   end
   
   def self.all
-    @@exhibits_by_slug.values
+    @@exhibits_by_path.values
   end
 
   def ids
@@ -46,9 +42,9 @@ class Exhibit
     following_siblings.map { |el| el.to_s }.join
   end
 
-  def initialize(path)
-    html = Markdowner.render(File.read(path))
-    @slug = File.basename(path, '.md')
+  def initialize(file_path)
+    html = Markdowner.render(File.read(file_path))
+    @path = File.basename(file_path, '.md') # TODO: get path up to 'exhibits'
     Nokogiri::HTML(html).tap do |doc|
       @name = doc.xpath('//h1').first.remove.text
       @thumbnail_url = doc.xpath('//img[1]/@src').first.remove.text
@@ -83,15 +79,11 @@ class Exhibit
     end
   end
 
-  @@exhibits_by_slug = Hash[
+  @@exhibits_by_path = Hash[
     Dir[Rails.root + 'app/views/exhibits/*.md'].map do |path|
       exhibit = Exhibit.new(path)
-      [exhibit.slug, exhibit]
+      [exhibit.path, exhibit]
     end
-  ]
-  
-  @@exhibits_by_name = Hash[
-    Exhibit.all.map{ |exhibit| [exhibit.name, exhibit] }
   ]
   
   @@exhibits_by_item_id = Hash[

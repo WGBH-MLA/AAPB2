@@ -8,6 +8,6 @@ class ExhibitsController < OverrideController
 #  end
 
   def set_view_fields(path)
-    @exhibit = Exhibit.find_by_slug(File.basename(path, '.md'))
+    @exhibit = Exhibit.find_by_path(File.basename(path, '.md'))
   end
 end
