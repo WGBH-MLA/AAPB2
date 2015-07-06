@@ -139,6 +139,13 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def audio?
     media_type == SOUND
   end
+  def duration
+    @duration ||= begin
+      xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
+    rescue
+      xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+    end
+  end
   def digitized?
     @digitized ||= !ci_ids.empty?
     # TODO: not confident about this. We ought to be able to rely on this:
@@ -318,7 +325,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :rights_code, :access_types, :titles_sort, :ci_ids]
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :rights_code, :access_types, :titles_sort, :ci_ids, :instantiations]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value

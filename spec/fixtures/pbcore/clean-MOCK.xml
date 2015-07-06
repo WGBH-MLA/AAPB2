@@ -40,7 +40,15 @@
     <instantiationLocation>my closet</instantiationLocation>
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
-    <instantiationDuration>0:12:34</instantiationDuration>
+    <instantiationDuration>should be ignored!</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='foo'>XYZ</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>
+    <instantiationLocation>my harddrive</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationDuration>1:23:45</instantiationDuration>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
 </pbcoreDescriptionDocument>
