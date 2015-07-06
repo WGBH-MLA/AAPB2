@@ -9,6 +9,6 @@ describe 'Homepage' do
 
     expect(page.status_code).to eq(200)
     expect(page).to have_text('Discover historic programs')
-    expect_fuzzy_xml
+    expect_fuzzy_xml(false) # It can have a default title
   end
 end

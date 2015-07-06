@@ -19,8 +19,7 @@
 <% end %>
     
 <%= render partial: 'shared/title_sidebar_main', 
-           locals: { 
-             title: @page_title.html_safe,
+           locals: {
              sidebar: yield(:sidebar),
              main: @body.html_safe
            } %>

@@ -6,26 +6,35 @@ describe ValidationHelper do
     def all(_ignored)
       []
     end
+    def initialize(body)
+      @body = "<html><head><title>howdy</title></head><body>#{body}</body></html>"
+    end
+    def body
+      @body
+    end
+    def text
+      ''
+    end
   end
 
   describe 'obvious errors' do
     it 'catches mismatched tags' do
       def page
-        Fake.new(body: '<html><a>TEXT</b></html>')
+        Fake.new('<a>TEXT</b>')
       end
       expect { expect_fuzzy_xml }.to raise_error
     end
 
     it 'catches missing open brace' do
       def page
-        Fake.new(body: '<html>a>TEXT</a></html>')
+        Fake.new('a>TEXT</a>')
       end
       expect { expect_fuzzy_xml }.to raise_error
     end
 
     it 'catches missing close brace' do
       def page
-        Fake.new(body: '<html><aTEXT</a></html>')
+        Fake.new('<aTEXT</a>')
       end
       expect { expect_fuzzy_xml }.to raise_error
     end
@@ -34,14 +43,14 @@ describe ValidationHelper do
   describe 'tag self closing' do
     it 'closes meta tags' do
       def page
-        Fake.new(body: '<html><meta attribute="value"></html>')
+        Fake.new('<meta attribute="value">')
       end
       expect_fuzzy_xml
     end
 
     it 'does not close arbitrary tags' do
       def page
-        Fake.new(body: '<html><arbitrary attribute="value"></html>')
+        Fake.new('<arbitrary attribute="value">')
       end
       expect { expect_fuzzy_xml }.to raise_error
     end
@@ -50,21 +59,21 @@ describe ValidationHelper do
   describe 'adding attribute values' do
     it 'adds values' do
       def page
-        Fake.new(body: '<html><arbitrary attribute></arbitrary></html>')
+        Fake.new('<arbitrary attribute></arbitrary>')
       end
       expect_fuzzy_xml
     end
 
     it 'keep previous / double quotes' do
       def page
-        Fake.new(body: '<html><arbitrary prev ="foo" attribute/></html>')
+        Fake.new('<arbitrary prev ="foo" attribute/>')
       end
       expect_fuzzy_xml
     end
 
     it 'keeps next / single quotes' do
       def page
-        Fake.new(body: '<html><arbitrary attribute next= \'bar\'/></html>')
+        Fake.new('<arbitrary attribute next= \'bar\'/>')
       end
       expect_fuzzy_xml
     end
@@ -72,7 +81,7 @@ describe ValidationHelper do
     it 'handles iframe' do
       # multiple value-less attributes were tripping us up.
       def page
-        Fake.new(body: '<iframe src="/iframe.html" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
+        Fake.new('<iframe src="/iframe.html" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
       end
       expect_fuzzy_xml
     end
@@ -80,7 +89,7 @@ describe ValidationHelper do
     it 'handles video' do
       # "-" in attribute name was tripping us up.
       def page
-        Fake.new(body: <<END
+        Fake.new(<<END
           <video class="video-js vjs-default-skin" controls preload="none" width="400" height="300"
               poster="/poster.jpg"
               data-setup="{}">
