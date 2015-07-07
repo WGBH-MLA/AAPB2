@@ -1,4 +1,6 @@
 <% content_for :sidebar do %>
+  <%= render partial: 'sidebar_search' %>
+
   <img src="<%= @exhibit.thumbnail_url %>"/>
   <br/><br/><%# TODO: CSS to establish spacing. %>
   
@@ -17,8 +19,6 @@
                 links: @exhibit.links
               } %>
     
-  TODO: view all<br/>
-  TODO: search<br/>
 <% end %>
     
 <%= render partial: 'shared/title_sidebar_main', 
