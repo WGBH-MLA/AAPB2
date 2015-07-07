@@ -13,8 +13,8 @@
     
     <form method="get" class="search-query-form form-inline clearfix" action="http://localhost.americanarchive.org:3000/catalog" accept-charset="UTF-8">
       <div style="display:none">
-        <input type="hidden" value="✓" name="utf8">
-        <input type="hidden" value="<%= @exhibit.path %>" name="f[exhibits][]">
+        <input type="hidden" value="✓" name="utf8"></input>
+        <input type="hidden" value="<%= @exhibit.path %>" name="f[exhibits][]"></input>
       </div>
 
       <div class="input-group input-group-sm">
@@ -28,7 +28,7 @@
             <span class="sr-only">for</span>
           </div>
         <label class="sr-only" for="q">Search...</label>
-        <input type="text" placeholder="Search..." name="q" id="q" class="search_q q form-control">
+        <input type="text" placeholder="Search..." name="q" id="q" class="search_q q form-control"></input>
         <span class="input-group-btn">
           <button id="search" class="btn btn-primary search-btn" type="submit">
             <span class="submit-search-text sr-only">Search</span>
