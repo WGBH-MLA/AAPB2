@@ -116,24 +116,24 @@ describe 'Catalog' do
       describe 'exhibit facet' do
         describe 'in gallery' do
           it 'has exhibition description' do
-            visit '/catalog?f[exhibits][]=iowa&view=gallery'
+            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=gallery'
             expect(page).to have_text('Summary for search results goes here')
           end
 
           it 'has individual descriptions' do
-            visit '/catalog?f[exhibits][]=iowa&view=gallery'
+            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=gallery'
             expect(page).to have_text('item 1 summary')
           end
         end
         
         describe 'in list' do
           it 'has exhibition description' do
-            visit '/catalog?f[exhibits][]=iowa&view=list'
+            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list'
             expect(page).to have_text('Summary for search results goes here')
           end
 
           it 'has individual descriptions' do
-            visit '/catalog?f[exhibits][]=iowa&view=list'
+            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list'
             expect(page).to have_text('item 1 summary')
           end
         end
