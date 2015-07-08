@@ -1,6 +1,6 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html'>
   <pbcoreAssetType>Album</pbcoreAssetType>
-  <pbcoreAssetDate dateType='uncataloged'>2000-01-01</pbcoreAssetDate>
+  <pbcoreAssetDate dateType='Uncataloged'>2000-01-01</pbcoreAssetDate>
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>1234</pbcoreIdentifier>
   <pbcoreIdentifier source='somewhere else'>5678</pbcoreIdentifier>
   <pbcoreIdentifier source='Sony Ci'>a-32-digit-hex</pbcoreIdentifier>
