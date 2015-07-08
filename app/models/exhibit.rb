@@ -36,7 +36,7 @@ class Exhibit
   end
   
   def add_items(items)
-    @items.merge(items)
+    @items.merge!(items)
   end
   
   private
