@@ -4,7 +4,7 @@ class ExhibitsController < OverrideController
   
   def index
     @exhibits = Exhibit.all
-    render 'index'
+    @page_title = 'Exhibits'
   end
 
   def set_view_fields(path)
