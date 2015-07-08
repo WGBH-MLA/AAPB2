@@ -3,14 +3,14 @@
 # Final line is a fall-through.
 
 !omap
-  broadcast: broadcast
-  air: broadcast
-  issue: broadcast
-  published: broadcast
-  release: broadcast
-  created: created
-  recorded: created
-  performance: created
-  revised: revised
-  copyright: copyright
-  '': uncataloged
+  broadcast: Broadcast
+  air: Broadcast
+  issue: Broadcast
+  published: Broadcast
+  release: Broadcast
+  created: Created
+  recorded: Created
+  performance: Created
+  revised: Revised
+  copyright: Copyright
+  '': Uncataloged
