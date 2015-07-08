@@ -41,7 +41,7 @@
     <% @exhibit.ancestors.map do |ancestor| %>
       <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.name %></a>
     <% end %>
-  <p>
+  </p>
   <%= @exhibit.body_html.html_safe %>
   
 <% end %>
