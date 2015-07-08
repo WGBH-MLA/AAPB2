@@ -25,6 +25,8 @@ Rails.application.routes.draw do
     path.match(OverrideController::PATH_PATTERN) && !path.match(/^rails/)
   }
   
+  # TODO: combine these into a resource?
+  get '/exhibits', to: 'exhibits#index'
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
   
   get '/*path', to: 'override#show', constraints: override_constraints
