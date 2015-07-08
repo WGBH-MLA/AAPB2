@@ -1,6 +1,6 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
   <pbcoreAssetType>Episode</pbcoreAssetType>
-  <pbcoreAssetDate dateType='created'>1988-05-12</pbcoreAssetDate>
+  <pbcoreAssetDate dateType='Created'>1988-05-12</pbcoreAssetDate>
   <pbcoreIdentifier source='IPTV Barcode'>IPTVUS-0002773</pbcoreIdentifier>
   <pbcoreIdentifier source='NOLA'>MLER</pbcoreIdentifier>
   <pbcoreIdentifier source='Old Tape Number'>4E11</pbcoreIdentifier>
