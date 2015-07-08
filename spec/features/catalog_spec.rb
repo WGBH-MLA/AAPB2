@@ -127,7 +127,7 @@ describe 'Catalog' do
         end
         
         describe 'in list' do
-          it 'has exhibition description' do
+          it 'has exhibit description' do
             visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list'
             expect(page).to have_text('Summary for search results goes here')
           end

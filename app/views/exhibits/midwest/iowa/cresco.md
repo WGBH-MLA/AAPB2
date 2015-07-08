@@ -4,6 +4,8 @@
 
 ## Summary
 
+Test looks for: "Summary for search results goes here"
+
 Cresco is a lovely town in north-eastern Iowa.
 
 You might include a [link back](/exhibits/midwest/iowa/cresco).
