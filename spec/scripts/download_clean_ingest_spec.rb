@@ -64,6 +64,11 @@ describe DownloadCleanIngest do
       /Updated solr record 1234/,
       /1 succeeded/
     ],
+    "#{default_flags} --exhibit midwest" => [
+      /Updated solr record cpb-aacip_37-010p2nvv/,
+      /Updated solr record cpb-aacip_37-31cjt2qs/,
+      /2 succeeded/
+    ],
     "#{default_flags} --just-reindex --query 'f[asset_type][]=Episode&q=promise'" => [
       /Query solr for/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
