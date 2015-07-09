@@ -14,7 +14,7 @@ class PBCoreIngester
     # TODO: hostname and corename from config?
     @solr = Solr.instance.connect
     @solr.get('../admin/cores')['status']['blacklight-core']['dataDir'].tap{|data_dir|
-      MountValidator.validate_mount(data_dir, 'solr index') unless opts[:is_same_mount]
+      MountValidator.validate_mount("#{data_dir}index", 'solr index') unless opts[:is_same_mount]
     }
     $LOG ||= NullLogger.new
   end
