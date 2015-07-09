@@ -2,6 +2,7 @@ require 'open-uri'
 require 'rexml/xpath'
 require 'rexml/document'
 require 'set'
+require 'fileutils'
 require_relative 'null_logger'
 require_relative 'mount_validator'
 require_relative 'solr'
@@ -75,23 +76,16 @@ class Downloader
 
   def self.mkdir_and_cd(name, is_same_mount)
     Dir.chdir(Rails.root)
-    path = ['tmp', 'download', name]
-    $LOG.info("mkdir #{File.join(path)}")
-    path.each do |dir|
-      begin
-        Dir.mkdir(dir)
-      rescue
-        nil # may already exist
-      end
-      Dir.chdir(dir)
-    end
-    MountValidator.validate_mount(Dir.pwd, 'downloads') unless is_same_mount
+    path = "tmp/downloads/#{name}"
+    FileUtils.mkdir_p(path)
+    Dir.chdir(path)
+    MountValidator.validate_mount(Dir.pwd, 'pbcore downloads') unless is_same_mount
 
     Dir.chdir('..')
     link_name = 'LATEST'
     File.unlink(link_name) if File.symlink?(link_name)
     fail "Did not expect '#{link_name}'" if File.exist?(link_name)
-    File.symlink(path.last, link_name)
+    File.symlink(name, link_name)
 
     Dir.chdir(link_name)
   end
