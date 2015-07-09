@@ -75,7 +75,7 @@ class Downloader
 
   def self.mkdir_and_cd(name, is_same_mount)
     Dir.chdir(Rails.root)
-    path = ['tmp', 'download', name]
+    path = ['tmp', 'downloads', name]
     $LOG.info("mkdir #{File.join(path)}")
     path.each do |dir|
       begin
