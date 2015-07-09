@@ -64,7 +64,7 @@ describe DownloadCleanIngest do
       /Updated solr record 1234/,
       /1 succeeded/
     ],
-    "#{default_flags} --exhibit midwest" => [
+    "#{default_flags} --exhibits midwest" => [
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Updated solr record cpb-aacip_37-31cjt2qs/,
       /2 succeeded/
