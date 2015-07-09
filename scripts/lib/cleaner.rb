@@ -226,8 +226,10 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     # duplicate value removal
     
     seen_values = Set.new
-    ['/pbcoreTitle', '/pbcoreDescription', #
+    ['/pbcoreTitle', '/pbcoreDescription', '/pbcoreRightsSummary/rightsSummary', #
         '/pbcoreInstantiation/instantiationIdentifier'].each { |name|
+        
+      
       match(doc, name) { |node|
         if seen_values.include?(node.text)
           Cleaner.delete(node)

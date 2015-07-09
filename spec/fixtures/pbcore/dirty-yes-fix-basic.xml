@@ -12,6 +12,7 @@
   <pbcoreDescription>No description available</pbcoreDescription>
   <pbcoreDescription descriptionType="duplicate to be removed">No description available</pbcoreDescription>
   <pbcoreGenre source="WERU Genre Picklist">Readings</pbcoreGenre>
+  <pbcoreGenre source="duplicate to be removed">Readings</pbcoreGenre>
   <pbcoreCoverage>
     <coverage>mock value which should be preserved</coverage>
     <coverageType>Spatial</coverageType>
@@ -20,6 +21,12 @@
     <coverage>mock value which should be preserved</coverage>
     <coverageType>Temporal</coverageType>
   </pbcoreCoverage>
+  <pbcoreRightsSummary>
+     <rightsSummary>There should be only one.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+     <rightsSummary>There should be only one.</rightsSummary>
+  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source="WERU Prog List">WRF028</instantiationIdentifier>
     <instantiationIdentifier source="duplicate to be removed">Writers Forum</instantiationIdentifier>
