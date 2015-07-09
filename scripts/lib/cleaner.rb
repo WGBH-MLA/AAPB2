@@ -223,6 +223,22 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       Cleaner.clean_language(node)
     }
 
+    # duplicate value removal
+    
+    seen_values = Set.new
+    ['/pbcoreTitle', '/pbcoreDescription', '/pbcoreRightsSummary/rightsSummary', #
+        '/pbcoreInstantiation/instantiationIdentifier'].each { |name|
+        
+      
+      match(doc, name) { |node|
+        if seen_values.include?(node.text)
+          Cleaner.delete(node)
+        else
+          seen_values.add(node.text)
+        end
+      }
+    }
+    
     # formatting:
 
     formatter = REXML::Formatters::Pretty.new(2)

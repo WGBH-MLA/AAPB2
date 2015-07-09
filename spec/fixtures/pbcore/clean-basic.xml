@@ -14,6 +14,10 @@
     <coverageType>Temporal</coverageType>
   </pbcoreCoverage>
   <pbcoreRightsSummary>
+    <rightsSummary>There should be only one.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
     <rightsEmbedded>
       <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
     </rightsEmbedded>
