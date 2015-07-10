@@ -167,9 +167,12 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy')
   end
   def access_types
-    @access_types ||= ['All'].tap do|types|
-      types << 'Digitized' if digitized?
-      # TODO: distinguish if available off-site
+    @access_types ||= ['All'].tap do |types|
+      types << 'On site' if ( protected? || public? ) && digitized? 
+      types << 'Online reading room' if public? && digitized?
+      # "All" covers everything.
+      # "On site" covers everything which is digitized and not private.
+      # "ORR" covers everything which is digitized and public.
     end
   end
 
