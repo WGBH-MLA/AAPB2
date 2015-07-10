@@ -236,4 +236,14 @@
     </a>
     <path class="border" d="M 211,493 V 548 L 247,593 M 0,425 H 144 L 211,493 H 297 L 350,547 V 593" />
     <path class="border" d="M 559.77,593 L 559.77,515.66 L 682.01,515.66 L 682.01,593 M 632.77,515.66 L 632.77,593 M 559.77,557.52 L 682.01,557.52M 597.89,556.61 L 597.89,593.73" />
+    
+    <a xlink:href="#Pennsylvania">
+        <title>Philadelphia</title>
+        <circle class="city" cx="829.81" cy="227.84" r="10" />
+    </a>
+    
+    <a xlink:href="#New York">
+        <title>New York City</title>
+        <circle class="city" cx="845.81" cy="190.84" r="10" />
+    </a>
 </svg>
