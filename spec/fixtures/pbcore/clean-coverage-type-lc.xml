@@ -21,11 +21,6 @@
     <publisher>Maryland Public Television</publisher>
     <publisherRole>Copyright Holder</publisherRole>
   </pbcorePublisher>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='Maryland Public Television'>18037</instantiationIdentifier>
     <instantiationPhysical>Betacam</instantiationPhysical>

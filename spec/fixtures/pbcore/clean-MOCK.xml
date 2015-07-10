@@ -29,11 +29,6 @@
   <pbcoreRightsSummary>
     <rightsSummary>Copy Left: All rights reversed.</rightsSummary>
   </pbcoreRightsSummary>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>PUBLIC</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='foo'>ABC</instantiationIdentifier>
     <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>

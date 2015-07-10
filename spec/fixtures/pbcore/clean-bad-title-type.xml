@@ -4,11 +4,6 @@
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/240-12893cp0</pbcoreIdentifier>
   <pbcoreTitle titleType='Uncataloged'>Scheewe Art Workshop</pbcoreTitle>
   <pbcoreDescription>TAPE 5</pbcoreDescription>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WTVS DATABASE ID'>WTVS000613</instantiationIdentifier>
     <instantiationDate dateType='created'>2007-07-10</instantiationDate>

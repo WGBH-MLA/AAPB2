@@ -13,11 +13,6 @@
     <coverage>mock value which should be preserved</coverage>
     <coverageType>Temporal</coverageType>
   </pbcoreCoverage>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WERU Prog List'>WRF028</instantiationIdentifier>
     <instantiationPhysical>CD</instantiationPhysical>

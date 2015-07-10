@@ -166,20 +166,6 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       Cleaner.delete(node)
     }
 
-    # pbcoreRightsSummary:
-
-    match(doc, '[not(pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE)]') { |node|
-      Cleaner.insert_after_match(
-        node,
-        Cleaner.any('pbcore',
-                    %w(Description Genre Relation Coverage AudienceLevel) +
-                    %w(AudienceRating Creator Contributor Publisher RightsSummary)),
-        REXML::Document.new('<pbcoreRightsSummary><rightsEmbedded><AAPB_RIGHTS_CODE>' \
-                          'ON_LOCATION_ONLY' \
-                          '</AAPB_RIGHTS_CODE></rightsEmbedded></pbcoreRightsSummary>')
-      )
-    }
-
     # pbcoreInstantiation:
 
     match(doc, '/pbcoreInstantiation[not(instantiationIdentifier)]') { |node|
