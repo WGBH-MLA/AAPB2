@@ -123,8 +123,17 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def organization_state_abbreviation
     @organization_state_abbreviation ||= organization.state_abbreviation
   end
-  def rights_code
-    @rights_code ||= 'PUBLIC' # TODO: replace with boolean getters
+  def access_level
+    @access_level ||= xpath('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
+  end
+  def public? # AKA online reading room
+    access_level == 'Online Reading Room'
+  end
+  def protected? # AKA on site
+    access_level == 'On Location'
+  end 
+  def private? # AKA not even on site
+    access_level == 'Private' # TODO: Confirm that this is the right string.
   end
   MOVING_IMAGE = 'Moving Image'
   SOUND = 'Sound'
@@ -332,7 +341,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :rights_code, 
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :rights_code, :access_level,
                :access_types, :titles_sort, :ci_ids, :instantiations, :organization_state_abbreviation]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
