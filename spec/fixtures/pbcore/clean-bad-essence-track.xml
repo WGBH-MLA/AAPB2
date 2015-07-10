@@ -22,11 +22,6 @@
     <publisher>WQXR</publisher>
     <publisherRole>Publisher</publisherRole>
   </pbcorePublisher>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WNYC Media Archive Label'>72208.1</instantiationIdentifier>
     <instantiationIdentifier source='pbcore XML database UUID'>f60bd50b-1471-4afb-bbdb-700a3ef1e3ed</instantiationIdentifier>

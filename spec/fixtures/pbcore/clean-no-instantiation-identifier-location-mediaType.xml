@@ -7,11 +7,6 @@
     <publisher>IND</publisher>
     <publisherRole>Source</publisherRole>
   </pbcorePublisher>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='unknown'/>
     <instantiationLocation/>

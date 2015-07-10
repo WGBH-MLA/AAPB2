@@ -3,11 +3,6 @@
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/240-07tmpw1x</pbcoreIdentifier>
   <pbcoreTitle titleType='Program'>SORTING Test: 2</pbcoreTitle>
   <pbcoreDescription>#5+7</pbcoreDescription>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WTVS DATABASE ID'>WTVS009483</instantiationIdentifier>
     <instantiationPhysical>Film: 16mm print</instantiationPhysical>

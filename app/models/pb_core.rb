@@ -124,7 +124,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @organization_state_abbreviation ||= organization.state_abbreviation
   end
   def rights_code
-    @rights_code ||= xpath('/*/pbcoreRightsSummary/rightsEmbedded/AAPB_RIGHTS_CODE')
+    @rights_code ||= 'PUBLIC' # TODO: replace with boolean getters
   end
   MOVING_IMAGE = 'Moving Image'
   SOUND = 'Sound'
