@@ -66,45 +66,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     }
     
     match(doc, '/pbcoreTitle') { |node|
-      if (node.text !~ /[A-Z]/ || node.text !~ /[a-z]/) && node.text =~ /[a-zA-Z]/
-        # ie, either all upper or all lower, and it has letters.
-        node.text = node.text.downcase
-          .gsub(/\b\w/) { |match|
-            # First letters
-            match.upcase 
-          }
-          .gsub(/\b(
-              AFN|AG|ASMW|BSO|CEO|CMU|CO|CTE|DCA
-              |ETV|HBCU|HIKI|ICC|II|IPR|ITV|KAKM|KBDI|KCAW|KCMU
-              |KDNA|KEET|KET|KETC|KEXP|KEZI|KFME|KGNU|KLPA|KMED|KMOS
-              |KNBA|KNME|KOAC|KOCE|KODE|KOZJ|KOZK|KPFA|KQED|KRMA|KSYS
-              |KTCA|KUCB|KUED|KUHF|KUNM|KUOW|KUSC|KUSP|KUT|KUVO|KVIE
-              |KWSO|KWSU|KXCI|KYUK|LA|LICBC|LSU|LYMI|MA|MELE|MIT|MSU
-              |NAC|NAEB|NE|NEA|NETA|NJPBA|NY|NYS|OEB|OPB|OPTV|ORC
-              |PSA|RAETA|SCETV|SOEC|TIU|UC|UCB|UCTV
-              |UHF|UM|UNC|US|USA|UVM|UW|WBAI|WBEZ|WBRA|WCNY|WCTE|WDIY
-              |WEDH|WEDU|WEOS|WERU|WETA|WEXT|WFIU|WFMU|WFYI|WGBY|WGCU
-              |WGUC|WGVU|WHA|WHRO|WHUR|WHUT|WHYY|WIAA|WKAR|WLAE
-              |WMEB|WNED|WNET|WNYC|WOJB|WOSU|WQED|WQEJ|WRFA|WRNI|WSIU
-              |WTIP|WTIU|WUFT|WUMB|WUNC|WUSF|WVIA|WVIZ|WWOZ|WXXI|WYCC
-              |WYSO|WYSU|YSU)\b/xi) { |match|
-            # Based on:
-            #   ruby -ne '$_.match(/[A-Z]{2,}/){|m| puts m}' config/organizations.yml \
-            #     | grep '[AEIOUY]' | sort | uniq | ruby -ne 'print $_.chop; print "|"'
-            # Removed: AM, AMBER, COLORES, COSI, FETCH, NET, RISE, SAM, STEM, TOLD, WILL
-            match.upcase
-          }
-          .gsub(/\b[^AEIOUY]+\b/i) { |match|
-            # Unknown acronyms
-            match.upcase
-          }
-          .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i) { |match|
-            match.downcase
-          }
-          .gsub(/^./) { |match|
-            match.upcase
-          }
-      end
+      node.text = Cleaner.clean_title(node.text)
     }
 
     @title_type_map.map_reorder_nodes(
@@ -241,6 +203,49 @@ class Cleaner # rubocop:disable Metrics/ClassLength
   def self.clean_language(node)
     node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
     node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
+  end
+  
+  def self.clean_title(title)
+    if title =~ /[A-Z]/ && title =~ /[a-z]/
+      title # No change, if mix of upper and lower.
+    else
+      title.downcase
+        .gsub(/\b\w/) { |match|
+          # First letters
+          match.upcase 
+        }
+        .gsub(/\b(
+            AFN|AG|ASMW|BSO|CEO|CMU|CO|CTE|DCA
+            |ETV|HBCU|HIKI|ICC|II|IPR|ITV|KAKM|KBDI|KCAW|KCMU
+            |KDNA|KEET|KET|KETC|KEXP|KEZI|KFME|KGNU|KLPA|KMED|KMOS
+            |KNBA|KNME|KOAC|KOCE|KODE|KOZJ|KOZK|KPFA|KQED|KRMA|KSYS
+            |KTCA|KUCB|KUED|KUHF|KUNM|KUOW|KUSC|KUSP|KUT|KUVO|KVIE
+            |KWSO|KWSU|KXCI|KYUK|LA|LICBC|LSU|LYMI|MA|MELE|MIT|MSU
+            |NAC|NAEB|NE|NEA|NETA|NJPBA|NY|NYS|OEB|OPB|OPTV|ORC
+            |PSA|RAETA|SCETV|SOEC|TIU|UC|UCB|UCTV
+            |UHF|UM|UNC|US|USA|UVM|UW|WBAI|WBEZ|WBRA|WCNY|WCTE|WDIY
+            |WEDH|WEDU|WEOS|WERU|WETA|WEXT|WFIU|WFMU|WFYI|WGBY|WGCU
+            |WGUC|WGVU|WHA|WHRO|WHUR|WHUT|WHYY|WIAA|WKAR|WLAE
+            |WMEB|WNED|WNET|WNYC|WOJB|WOSU|WQED|WQEJ|WRFA|WRNI|WSIU
+            |WTIP|WTIU|WUFT|WUMB|WUNC|WUSF|WVIA|WVIZ|WWOZ|WXXI|WYCC
+            |WYSO|WYSU|YSU)\b/xi) { |match|
+          # Based on:
+          #   ruby -ne '$_.match(/[A-Z]{2,}/){|m| puts m}' config/organizations.yml \
+          #     | grep '[AEIOUY]' | sort | uniq | ruby -ne 'print $_.chop; print "|"'
+          # Removed: AM, AMBER, COLORES, COSI, FETCH, NET, RISE, SAM, STEM, TOLD, WILL
+          match.upcase
+        }
+        .gsub(/\b[^AEIOUY]+\b/i) { |match|
+          # Unknown acronyms
+          match.upcase
+        }
+        .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i) { |match|
+          match.downcase
+        }
+        .gsub(/^./) { |match|
+          match.upcase
+        } 
+    end
   end
 
   def match(doc, xpath_fragment)

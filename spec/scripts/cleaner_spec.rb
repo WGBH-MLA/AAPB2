@@ -38,4 +38,14 @@ describe Cleaner do
       end
     end
   end
+  
+  describe '#clean_title' do
+    {
+      'No change if a mix of UPPER and lower' => 'No change if a mix of UPPER and lower'
+    }.each do |dirty,clean|
+      it "cleans '#{dirty}'" do
+        expect(Cleaner.clean_title(dirty)).to eq(clean)
+      end
+    end
+  end
 end

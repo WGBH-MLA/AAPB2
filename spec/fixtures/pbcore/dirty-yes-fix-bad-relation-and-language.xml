@@ -2,6 +2,7 @@
   <pbcoreAssetType>Moving Image</pbcoreAssetType>
   <pbcoreAssetDate dateType="should-be-deleted">1899-12-31</pbcoreAssetDate>
   <pbcoreAssetDate dateType="this-too">not-even-a-date</pbcoreAssetDate>
+  <pbcoreAssetDate>1991-07-27</pbcoreAssetDate>
   <pbcoreAssetDate dateType="created">1990-07-27</pbcoreAssetDate>
   <pbcoreIdentifier source="MAVIS Title Number">6875</pbcoreIdentifier>
   <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/151-2z12n4zx85</pbcoreIdentifier>
