@@ -64,6 +64,8 @@ gem 'rspec', :group => :test
 gem 'rspec-rails', :group => :test
 gem 'capybara', :group => :test
 
+gem 'simplecov', :require => false, :group => :test
+
 gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
 

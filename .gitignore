@@ -22,3 +22,6 @@
 
 # Sitemaps built by rake task.
 /public/blacklight-sitemap*
+
+# Coverage
+/coverage
