@@ -80,10 +80,6 @@ class PBCoreIngester
     end
   end
 
-  def optimize
-    @solr.optimize
-  end
-
   def commit
     @solr.commit
   end

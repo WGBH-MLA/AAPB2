@@ -128,6 +128,7 @@ describe 'Catalog' do
 
       describe 'fields' do
         assertions = [
+          ['all_fields', 'no-match-for-this', 0],
           ['all_fields', 'Larry', 3],
           ['titles', 'Larry', 1],
           ['contribs', 'Larry', 1]
@@ -140,7 +141,7 @@ describe 'Catalog' do
               page.all('#search_field option').map { |node|
                 node['value']
               }
-            ).to eq(assertions.map { |a| a.first }) # coverage
+            ).to eq(assertions.map(&:first).uniq) # coverage
             expect(page.status_code).to eq(200)
             expect_count(count)
             expect_fuzzy_xml
