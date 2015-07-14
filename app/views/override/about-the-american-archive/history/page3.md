@@ -41,7 +41,7 @@ Thomas Connors differs slightly in dating the PBS archive, stating that it was
 cutbacks at PBS in 1982.” See Thomas Connors, “Appraising Public Television 
 Programs: Toward an Interpretive and Comparative Evaluation Model,” American 
 Archivist 63, no. 1 (2000): 161, 
-<http://archivists.metapress.com/content/242683617N40849G>.
+<http://americanarchivist.org/doi/abs/10.17723/aarc.63.1.242683617n40849g>.
 
 <a name="8"></a><sup>8</sup>Agreement and Instrument of Gift [between the Library of Congress 
 and the Public Broadcasting Service], September 15, 1993. Copy in Library of 
