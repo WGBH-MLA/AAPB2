@@ -16,7 +16,7 @@
   <%= render partial: 'shared/sidebar_nav', 
              locals: { 
                 title: 'Sub-exhibits',
-                links: @exhibit.children.map { |child| [child.name, child.path] }
+                links: @exhibit.children.map { |child| [child.name, "/exhibits/#{child.path}"] }
               } %>
     
   <%= render partial: 'shared/sidebar_nav', 
