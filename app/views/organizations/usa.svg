@@ -237,13 +237,18 @@
     <path class="border" d="M 211,493 V 548 L 247,593 M 0,425 H 144 L 211,493 H 297 L 350,547 V 593" />
     <path class="border" d="M 559.77,593 L 559.77,515.66 L 682.01,515.66 L 682.01,593 M 632.77,515.66 L 632.77,593 M 559.77,557.52 L 682.01,557.52M 597.89,556.61 L 597.89,593.73" />
     
-    <a xlink:href="#Pennsylvania">
-        <title>Philadelphia</title>
-        <circle class="city" cx="829.81" cy="227.84" r="10" />
-    </a>
     
-    <a xlink:href="#New York">
-        <title>New York City</title>
-        <circle class="city" cx="845.81" cy="190.84" r="10" />
-    </a>
+    <path class='border' d='M 78,131.6 178,153.65 278,169.4 378,178.85 478,182 578,178.85 678,169.4 778,153.65 878,131.6'/>
+    <path class='border' d='M 78,274.6 178,296.65 278,312.4 378,321.85 478,325 578,321.85 678,312.4 778,296.65 878,274.6'/>
+    
+    
+    <path class='border' d='M 720.48,100 737.8,200 755.12,300 772.44,400'/>    
+    <path class='border' d='M 212,100 193,200 174,300 155,400'/>
+    
+    <!--
+    TODO: solve this for lat and long:
+      { y == -0.000315 ( x - 478 )^2 - 22 * lat + 1139, 
+        x == (-0.01083 * long + 1.045) * ( y + 1300 ) + 478 }
+    -->
+    
 </svg>
