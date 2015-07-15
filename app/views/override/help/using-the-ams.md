@@ -1,8 +1,8 @@
 # Accessing the AMS
-Staff at organizations that have contributed to the American Archive of Public Broadcasting may continue to access and manage records and digitized media through the [AMS](http://ams.americanarchive.org). 
+Staff at organizations that have contributed to the American Archive of Public Broadcasting may continue to access and manage records and digitized media through the [AMS](https://ams.americanarchive.org). 
 
 ## Logging into the AMS
-Open a browser window and navigate to [ams.americanarchive.org](http://ams.americanarchive.org). Enter your credentials and click the Sign In button. If you do not know your login credentials, email Casey Davis, Project Manager, at casey_davis@wgbh.org.
+Open a browser window and navigate to [ams.americanarchive.org](https://ams.americanarchive.org). Enter your credentials and click the Sign In button. If you do not know your login credentials, email Casey Davis, Project Manager, at casey_davis@wgbh.org.
 
 ## The Records Page
 Once logged in, click on the Record button at the top right of the screen. This page will display all of your organization’s records. When you first load the records page, notice that the default view is the Assets screen, highlighted in blue on the top left. You also can search instantiation records by clicking on the Instantiation tab, next to the highlighted Asset tab. Instantiation records provide you with detailed information about each copy of assets.
