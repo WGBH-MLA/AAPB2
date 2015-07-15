@@ -207,7 +207,7 @@ describe 'Catalog' do
                 ['Episode: #508', 'Series: Askc: Ask Congress', 'Organization: WHUT'],
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio'],
                 ['Uncataloged: Dry Spell', 'Organization: KQED'],
-                ['Uncataloged: From Bessie Smith to ', 'Created: 1990-07-27', 'Organization: Film and Media Archiv'],
+                ['Uncataloged: From Bessie Smith to ', 'Created: 1990-07-27', 'Uncataloged: 1991-07-27', 'Organization: Film and Media Archiv'],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra'],
                 ['Program: Four Decades of Dedic', 'Uncataloged: Handles missing title', 'Organization: WPBS'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev'],
