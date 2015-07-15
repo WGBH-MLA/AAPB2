@@ -152,9 +152,9 @@ describe 'Catalog' do
 
         describe 'relevance sorting' do
           assertions = [
-            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug', 'Musical Encounter']],
+            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug, B-Roll', 'Musical Encounter, 116, Music for Fun']],
             ['art', ['Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
-            ['John', ['Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug']]
+            ['John', ['Larry Kane On John Lennon 2005, World Cafe', 'Dr. Norman Borlaug, B-Roll']]
           ]
           assertions.each do |query, titles|
             url = "/catalog?q=#{query}"
@@ -169,8 +169,8 @@ describe 'Catalog' do
 
         describe 'field sorting' do
           assertions = [
-            ['year+desc', 'Kaboom!'],
-            ['year+asc', 'Musical Encounter'],
+            ['year+desc', '3-2-1, Kaboom!, Gratuitous Explosions, Nova'],
+            ['year+asc', 'Musical Encounter, 116, Music for Fun'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
           assertions.each do |sort, title|
