@@ -235,10 +235,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
       @duration ||= optional('instantiationDuration')
     end
 
-    def to_a
-      [media_type, duration].select { |x| x }
-    end
-
     private
 
     def optional(xpath)

@@ -38,4 +38,19 @@ describe Cleaner do
       end
     end
   end
+  
+  describe '#clean_title' do
+    {
+      'No change if a mix of UPPER and lower' => 'No change if a mix of UPPER and lower',
+      'guesses some: xkcd, cnn, rdf, wgbh, dc' => 'Guesses Some: XKCD, CNN, RDF, WGBH, DC',
+      'HARD CODED: CEO, LA, MIT, UC-DAVIS, WETA' => 'Hard Coded: CEO, LA, MIT, UC-Davis, WETA',
+      'not all-knowing: ussr, cia, ianal' => 'Not All-Knowing: Ussr, Cia, Ianal',
+      'AND NOTICE THE CAPITALIZATION OF "AND"' => 'And Notice the Capitalization of "and"',
+      '... yet as for the in-box and the by-line' => '... yet as for the in-Box and the by-Line'
+    }.each do |dirty,clean|
+      it "cleans '#{clean}'" do
+        expect(Cleaner.clean_title(dirty)).to eq(clean)
+      end
+    end
+  end
 end

@@ -128,6 +128,7 @@ describe 'Catalog' do
 
       describe 'fields' do
         assertions = [
+          ['all_fields', 'no-match-for-this', 0],
           ['all_fields', 'Larry', 3],
           ['titles', 'Larry', 1],
           ['contribs', 'Larry', 1]
@@ -140,7 +141,7 @@ describe 'Catalog' do
               page.all('#search_field option').map { |node|
                 node['value']
               }
-            ).to eq(assertions.map { |a| a.first }) # coverage
+            ).to eq(assertions.map(&:first).uniq) # coverage
             expect(page.status_code).to eq(200)
             expect_count(count)
             expect_fuzzy_xml
@@ -206,7 +207,7 @@ describe 'Catalog' do
                 ['Episode: #508', 'Series: Askc: Ask Congress', 'Organization: WHUT'],
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio'],
                 ['Uncataloged: Dry Spell', 'Organization: KQED'],
-                ['Uncataloged: From Bessie Smith to ', 'Created: 1990-07-27', 'Organization: Film and Media Archiv'],
+                ['Uncataloged: From Bessie Smith to ', 'Created: 1990-07-27', 'Uncataloged: 1991-07-27', 'Organization: Film and Media Archiv'],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra'],
                 ['Program: Four Decades of Dedic', 'Uncataloged: Handles missing title', 'Organization: WPBS'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev'],

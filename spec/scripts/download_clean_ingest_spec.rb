@@ -27,9 +27,18 @@ describe DownloadCleanIngest do
   default_mode = "--files #{Rails.root + 'spec/fixtures/dci/pbcore-dir/pbcore.xml'}"
   {
     # Expected to fail:
-    '' => [/USAGE:/],
-    'random args here' => [/USAGE:/],
-    '--stdout-log --ids fake-id' => [/add --same-mount to ignore/],
+    '' => [
+      /USAGE:/
+    ],
+    'random args here' => [
+      /USAGE:/
+    ],
+    '--stdout-log --ids fake-id' => [
+      /add --same-mount to ignore/
+    ],
+    "#{default_flags} --files /this/path/is/no/good" => [
+      /Failed to read/
+    ],
     "#{default_flags} --ids fake-id" => [
       /fake-id.pbcore: Neither pbcoreCollection nor pbcoreDocument/,
       /1 failed to validate/

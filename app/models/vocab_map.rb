@@ -78,8 +78,4 @@ class VocabMap
     }
     nodes.each { |attr| attr.element.parent.delete(attr.element) }
   end
-
-  def self.delete(node)
-    node.parent.elements.delete(node)
-  end
 end
