@@ -14,11 +14,6 @@
     <contributor>WXPN</contributor>
     <contributorRole>Producer</contributorRole>
   </pbcoreContributor>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WXPN Barcode'>7006</instantiationIdentifier>
     <instantiationDate dateType='created'>1997-01-20</instantiationDate>
@@ -31,4 +26,5 @@
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-18 00:28:53</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>WXPN-FM</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

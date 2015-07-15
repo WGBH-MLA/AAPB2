@@ -22,11 +22,6 @@
   <pbcoreRightsSummary>
     <rightsSummary>Undefined</rightsSummary>
   </pbcoreRightsSummary>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='Iowa Public Television'>iptvtst_19821225_108</instantiationIdentifier>
     <instantiationPhysical>3/4 inch videotape: U-matic</instantiationPhysical>
@@ -53,4 +48,5 @@
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2014-07-31 19:53:13</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>Iowa Public Television</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

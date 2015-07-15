@@ -10,11 +10,6 @@
     <creator>Radio</creator>
     <creatorRole>Production Unit</creatorRole>
   </pbcoreCreator>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WGBH Item ID'>88-0009-00-03-008</instantiationIdentifier>
     <instantiationIdentifier source='WGBH Barcode'>0000221665</instantiationIdentifier>
@@ -30,4 +25,5 @@
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-22 16:27:47</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

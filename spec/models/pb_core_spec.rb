@@ -86,9 +86,10 @@ describe 'Validated and plain PBCore' do
           'topics' => ['Music'],
           'asset_type' => 'Album',
           'organization' => 'WGBH (MA)',
-          'access_types' => ['All', 'Digitized']
+          'access_types' => ['All', 'On site', 'Online reading room']
         },
-        access_types: ['All', 'Digitized'],
+        access_types: ['All', 'On site', 'Online reading room'],
+        access_level: 'Online Reading Room',
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['Uncataloged', '2000-01-01']],
@@ -111,7 +112,9 @@ describe 'Validated and plain PBCore' do
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),        
         organization_state_abbreviation: 'MA',
-        rights_code: 'PUBLIC',
+        private?: false,
+        protected?: false,
+        public?: true,
         media_type: 'Moving Image',
         video?: true,
         audio?: false,

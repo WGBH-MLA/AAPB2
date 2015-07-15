@@ -17,11 +17,6 @@
     <rightsSummary>There should be only one.</rightsSummary>
   </pbcoreRightsSummary>
   <pbcoreRightsSummary>  </pbcoreRightsSummary>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WERU Prog List'>WRF028</instantiationIdentifier>
     <instantiationPhysical>CD</instantiationPhysical>
@@ -32,4 +27,5 @@
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-03 01:50:55</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>WERU-FM (WERU Community Radio)</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

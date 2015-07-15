@@ -7,11 +7,7 @@
     <publisher>WGVU</publisher>
     <publisherRole>Distributor</publisherRole>
   </pbcorePublisher>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-02 06:19:31</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>WGVU Public TV &amp; Radio</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

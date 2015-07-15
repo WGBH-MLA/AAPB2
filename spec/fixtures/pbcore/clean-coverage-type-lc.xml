@@ -21,11 +21,6 @@
     <publisher>Maryland Public Television</publisher>
     <publisherRole>Copyright Holder</publisherRole>
   </pbcorePublisher>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='Maryland Public Television'>18037</instantiationIdentifier>
     <instantiationPhysical>Betacam</instantiationPhysical>
@@ -38,4 +33,5 @@
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-17 14:09:28</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>Maryland Public Television</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

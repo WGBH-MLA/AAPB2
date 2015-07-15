@@ -25,11 +25,6 @@
   <pbcoreRightsSummary>
     <rightsSummary> 2011 KUOW Puget Sound Public Radio</rightsSummary>
   </pbcoreRightsSummary>
-  <pbcoreRightsSummary>
-    <rightsEmbedded>
-      <AAPB_RIGHTS_CODE>ON_LOCATION_ONLY</AAPB_RIGHTS_CODE>
-    </rightsEmbedded>
-  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='File name'>weekdayb20061120</instantiationIdentifier>
     <instantiationIdentifier source='KUOW Puget Sound Public Radio'>24748</instantiationIdentifier>
@@ -49,4 +44,5 @@
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-17 17:41:40</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>KUOW Puget Sound Public Radio</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
 </pbcoreDescriptionDocument>
