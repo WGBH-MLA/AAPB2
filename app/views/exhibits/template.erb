@@ -1,6 +1,19 @@
 <% content_for :sidebar do %>
   <%= render partial: 'sidebar_search' %>
 
+  <% @exhibit.facets.each do |name, list| %>
+    <%= render partial: 'shared/sidebar_nav', 
+               locals: { 
+                  title: name,
+                  links: list.each_slice(2).map do |facet,count|
+                    [
+                      "#{facet} (#{count})", 
+                      "/catalog?f[exhibits][]=#{@exhibit.path}&f[#{name}][]=#{facet}"
+                    ]
+                  end
+                } %>
+  <% end %>
+
   <img src="<%= @exhibit.thumbnail_url %>"/>
   <br/><br/><%# TODO: CSS to establish spacing. %>
   

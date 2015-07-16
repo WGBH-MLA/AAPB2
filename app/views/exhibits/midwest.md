@@ -35,7 +35,7 @@ fringilla felis diam id lorem. Nulla sollicitudin neque eget massa gravida, ac
 tempus sapien pretium. Pellentesque rhoncus at nibh ut vehicula. Duis non 
 blandit lectus.
 
-[![alt text](/thumbnails/cpb-aacip_37-31cjt2qs)](/catalog/cpb-aacip_37-31cjt2qs "item 1 summary")
+[![alt text](/thumbnails/cpb-aacip_37-31cjt2qs)](/catalog/cpb-aacip_358-01bk3s1z "item 1 summary")
 Sed nisl lectus, iaculis a felis ac, laoreet pellentesque neque. Sed id 
 facilisis eros. Vivamus sagittis rhoncus urna sit amet volutpat. Sed maximus, 
 ante nec fringilla laoreet, magna augue rutrum libero, ac sollicitudin sapien 
@@ -46,7 +46,7 @@ Proin rhoncus felis et augue dignissim, sit amet sodales elit pulvinar. Nullam
 elementum mollis nibh volutpat posuere. Quisque ut nisi in enim dignissim 
 mattis. Maecenas vel justo risus.
 
-[![alt text](/thumbnails/cpb-aacip_37-31cjt2qs)](/catalog/cpb-aacip_37-31cjt2qs "item 1 summary")
+[![alt text](/thumbnails/cpb-aacip_37-31cjt2qs)](/catalog/cpb-aacip_55-644qs820 "item 1 summary")
 Suspendisse eros purus, hendrerit eget condimentum at, consequat vel sem. 
 Aliquam non est nisl. Fusce euismod purus vel mauris molestie suscipit. Nam in 
 commodo nunc. Quisque malesuada enim faucibus scelerisque viverra. Sed 

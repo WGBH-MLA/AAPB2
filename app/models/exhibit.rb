@@ -1,10 +1,12 @@
 require_relative '../../lib/markdowner'
+require_relative '../../lib/solr'
 require 'nokogiri'
 
 class Exhibit
   attr_reader :name
   attr_reader :path
   attr_reader :items
+  attr_reader :facets
   
   attr_reader :summary_html
   attr_reader :thumbnail_url
@@ -60,6 +62,13 @@ class Exhibit
     @children = []
     
     @path = Exhibit.path_from_file_path(file_path)
+    
+    @facets = Solr.instance.connect.select(params: {
+        q: "exhibits:#{path}", 
+        rows: 0, 
+        facet: true, 
+        'facet.field' => ['genres', 'topics']
+      })['facet_counts']['facet_fields']
     
     @path.split('/').tap do |split|
       @ancestors = (1..split.size-1).to_a.map do |i|
