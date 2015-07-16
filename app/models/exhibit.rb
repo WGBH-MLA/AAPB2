@@ -90,7 +90,12 @@ class Exhibit
       
       @summary_html = Exhibit::extract_html(doc, 'Summary')
       @author_html = Exhibit::extract_html(doc, 'Author')
-      @body_html = Exhibit::extract_html(doc, 'Description').gsub('<img ', '<img class="pull-left" ')
+      left = false
+      @body_html = Exhibit::extract_html(doc, 'Description')
+        .gsub('<img ') do |match|
+          left = !left
+          "<img class='pull-#{left ? 'left' : 'right'}' "
+        end
       
       Exhibit::extract_html(doc, 'Links').tap do |links_html|
         Nokogiri::HTML(links_html).tap do |doc|
