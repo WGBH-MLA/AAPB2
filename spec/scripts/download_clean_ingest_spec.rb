@@ -76,7 +76,7 @@ describe DownloadCleanIngest do
     "#{default_flags} --exhibits midwest" => [
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Updated solr record cpb-aacip_37-31cjt2qs/,
-      /2 succeeded/
+      /4 succeeded/
     ],
     "#{default_flags} --just-reindex --query 'f[asset_type][]=Episode&q=promise'" => [
       /Query solr for/,
