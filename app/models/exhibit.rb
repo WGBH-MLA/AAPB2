@@ -72,6 +72,7 @@ class Exhibit
     Nokogiri::HTML(Markdowner.render(File.read(file_path))).tap do |doc|
       @name = doc.xpath('//h1').first.remove.text
       @thumbnail_url = doc.xpath('//img[1]/@src').first.remove.text
+      # img element is still there.
       
       @items = Hash[
         doc.xpath('//a').select { |el| 
@@ -108,7 +109,9 @@ class Exhibit
         end
       end
       
-      # TODO: Should be nothing left after this.
+      doc.text.strip.tap do |extra|
+        fail("#{file_path} has extra unused text: '#{extra}'") unless extra == ''
+      end
     end
   end
 
