@@ -1,9 +1,11 @@
 <% state_list = @orgs.group_by{|org| org.state} %>
 
 <% content_for :sidebar do %>
-  <%= render layout: 'shared/sidebar_nav', locals: { title: 'States' } do %>
-    <%= state_list.keys.map{|state| "<li><a href='\##{state}' title='#{state}' >#{state}</a></li>"}.join('').html_safe %>
-  <% end %>
+  <%= render partial: 'shared/sidebar_nav', 
+             locals: { 
+                title: 'States',
+                links: state_list.keys.map{ |state| [state, "\##{state}"] }
+              } %>
 <% end %>
 
 <% content_for :main do %>
@@ -31,8 +33,7 @@
 <% end %>
 
 <%= render partial: 'shared/title_sidebar_main', 
-           locals: { 
-             title: 'Participating Organizations',
+           locals: {
              sidebar: yield(:sidebar),
              main: yield(:main)
            } %>

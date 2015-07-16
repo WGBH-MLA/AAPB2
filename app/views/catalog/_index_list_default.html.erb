@@ -23,6 +23,9 @@
           <div class="col-md-9">
 
             <h2><%= link_to_document(document, pbcore.titles.map(&:second).join(', ')) %></h2>
+            
+            <%= render partial: 'exhibit_item', 
+                       locals: { document: document } %>
 
             <% pbcore.descriptions.each do |description| %>
               <p><%= truncate(description, length: 300, separator: '.') %></p>

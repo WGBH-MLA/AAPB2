@@ -8,7 +8,7 @@ Rails.application.routes.draw do
             constraints: { id: /.*/ }, # so periods in station IDs are acceptable.
             only: [:index, :show]
   
-  resources 'exhibits',
+  resources 'thumbnails',
             only: [:show]
 
   resources 'media',
@@ -19,9 +19,15 @@ Rails.application.routes.draw do
   end
 
   get 'robots', to: 'robots#show'
-
-  get '/*path', to: 'override#show', constraints: lambda { |req|
+  
+  override_constraints = lambda { |req|
     path = req.params['path']
     path.match(OverrideController::PATH_PATTERN) && !path.match(/^rails/)
   }
+
+  # TODO: combine these into a resource?
+  get '/exhibits', to: 'exhibits#index'
+  get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
+  
+  get '/*path', to: 'override#show', constraints: override_constraints
 end

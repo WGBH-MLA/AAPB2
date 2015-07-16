@@ -20,7 +20,7 @@ END
     (?!=)
   /x
   
-  def expect_fuzzy_xml
+  def expect_fuzzy_xml(require_distinct_title = true)
     # Kludge valid HTML5 to make it into valid XML.
     xhtml = page.body
     # self-close tags
@@ -33,7 +33,13 @@ END
     end
     
     # try to parse as xml
-    REXML::Document.new(xhtml)
+    doc = REXML::Document.new(xhtml)
+    
+    title_node = REXML::XPath.match(doc, '/html/head/title').first
+    raise 'Page should have title' unless title_node and !title_node.text.empty?
+    if require_distinct_title && title_node.text == 'American Archive of Public Broadcasting'
+      raise 'Page title should be distinctive'
+    end
 
     raise 'Text should not contain raw <p>' if page.text && page.text.include?('<p>')
     

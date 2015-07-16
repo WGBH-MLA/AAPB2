@@ -1,4 +1,5 @@
 require_relative '../lib/rails_stub'
+require_relative '../app/models/exhibit'
 require_relative 'lib/downloader'
 require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
@@ -35,7 +36,7 @@ class DownloadCleanIngest
   def initialize(argv)
     orig = argv.clone
 
-    %w(all back query dirs files ids id-files).each do |name|
+    %w(all back query dirs files ids id-files exhibits).each do |name|
       const_init(name)
     end
 
@@ -87,6 +88,11 @@ class DownloadCleanIngest
       when FILES
         fail ParamsError.new if args.empty?
         @files = args
+        
+      when EXHIBITS
+        fail ParamsError.new unless args.count >= 1
+        ids = args.map { |exhibit_path| Exhibit.find_by_path(exhibit_path).ids }.flatten
+        target_dirs = download(ids: ids)
 
       else
         fail ParamsError.new
@@ -123,7 +129,8 @@ class DownloadCleanIngest
                [#{JUST_REINDEX}] [#{SKIP_SITEMAP}]
                ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ...
-                 | #{FILES} FILE ... | #{DIRS} DIR ... )
+                 | #{FILES} FILE ... | #{DIRS} DIR ... 
+                 | #{EXHIBITS} EXHIBIT ...)
 
       boolean flags:
         #{BATCH_COMMIT}: Optionally, make just one commit at the end, rather than
@@ -157,6 +164,8 @@ class DownloadCleanIngest
         #{DIRS}: Clean and ingest the given directories. (While "#{FILES} dir/*"
           could suffice in many cases, for large directories it might not work,
           and this is easier than xargs.)
+        #{EXHIBITS}: Clean and ingest those records which support the specified
+          exhibits, including those belonging to sub-exhibits.
       EOF
   end
 

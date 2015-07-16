@@ -73,7 +73,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                xpaths('/*/pbcoreTitle').first # There are records that only have "Episode Number"
   end
   def exhibits
-    @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.name }
+    @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.path }
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')
@@ -124,7 +124,12 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @organization_state_abbreviation ||= organization.state_abbreviation
   end
   def access_level
-    @access_level ||= xpath('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
+    @access_level ||= begin
+      # TODO: I belive the AMS should always return an access level.
+      access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
+      fail('Should have at most 1 "Level of User Access" annotation') if access_levels.count > 1
+      access_levels.first || 'On Location'
+    end
   end
   def public? # AKA online reading room
     access_level == 'Online Reading Room'
