@@ -14,7 +14,10 @@ describe Exhibit do
     name: 'Grandchild!',
     path: 'parent/child/grandchild',
     facets: {"genres"=>[], "topics"=>[]},
-
+    ancestors: [MockExhibit.find_by_path('parent'), MockExhibit.find_by_path('parent/child')],
+    children: [],
+    items: {},
+    ids: [],
     summary_html: "<p>Summary goes here.</p>",
     thumbnail_url: 'http://example.org/image',
     author_html: '<p>Author goes here.</p>',
@@ -28,9 +31,8 @@ describe Exhibit do
     end
   end
 
-#      it 'tests everthing' do
-#        expect(assertions.keys.sort).to eq(PBCore.instance_methods(false).sort)
-#      end
- 
-  
+  it 'tests everthing' do
+    expect(assertions.keys.sort).to eq(Exhibit.instance_methods(false).sort)
+  end
+   
 end

@@ -21,7 +21,7 @@ class Exhibit
     @exhibits_by_path ||= 
       Hash[
         Dir[self.exhibit_root + '**/*.md'].sort.map do |path|
-          exhibit = Exhibit.new(path)
+          exhibit = self.new(path)
           [exhibit.path, exhibit]
         end
       ]
@@ -34,10 +34,10 @@ class Exhibit
   def self.exhibits_by_item_id
     @exhibits_by_item_id ||=
       Hash[
-        Exhibit.all.map{ |exhibit| exhibit.ids }.flatten.uniq.map do |id|
+        self.class.all.map{ |exhibit| exhibit.ids }.flatten.uniq.map do |id|
           [
             id, 
-            Exhibit.all.select { |exhibit| exhibit.ids.include?(id) }
+            self.class.all.select { |exhibit| exhibit.ids.include?(id) }
           ]
         end
       ]
@@ -96,7 +96,7 @@ class Exhibit
   end
   
   def initialize(file_path)
-    @path = Exhibit.path_from_file_path(file_path)
+    @path = self.class.path_from_file_path(file_path)
     
     @facets = Solr.instance.connect.select(params: {
         q: "exhibits:#{path}", 
