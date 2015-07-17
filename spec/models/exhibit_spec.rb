@@ -67,5 +67,17 @@ describe Exhibit do
         expect { MisspelledH2MockExhibit.find_by_path('misspelled-h2')}.to raise_error(/Can't find header/)
       end
     end
+    
+    describe 'extra cruft' do
+      class ExtraCruftMockExhibit < Exhibit
+        def self.exhibit_root
+          Rails.root + 'spec/fixtures/exhibits-broken/extra-cruft'
+        end
+      end
+      
+      it 'errors' do
+        expect { ExtraCruftMockExhibit.find_by_path('extra-cruft')}.to raise_error(/Extra Cruft\s+Should cause an error/)
+      end
+    end
   end
 end
