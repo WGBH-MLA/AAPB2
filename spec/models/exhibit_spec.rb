@@ -1,0 +1,28 @@
+require_relative '../../app/models/exhibit'
+
+describe Exhibit do
+  
+  class MockExhibit < Exhibit
+    def self.exhibit_root
+      Rails.root + 'spec/fixtures/exhibits'
+    end
+  end
+  
+  exhibit = MockExhibit.find_by_path('parent/child/grandchild')
+  
+  assertions = {
+    
+  }
+
+  assertions.each do |method, value|
+    it "\##{method} works" do
+      expect(exhibit.send(method)).to eq(value)
+    end
+  end
+
+#      it 'tests everthing' do
+#        expect(assertions.keys.sort).to eq(PBCore.instance_methods(false).sort)
+#      end
+ 
+  
+end

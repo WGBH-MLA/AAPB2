@@ -74,9 +74,8 @@ describe DownloadCleanIngest do
       /1 succeeded/
     ],
     "#{default_flags} --exhibits midwest" => [
-      /Updated solr record cpb-aacip_37-010p2nvv/,
-      /Updated solr record cpb-aacip_37-31cjt2qs/,
-      /4 succeeded/
+      /Updated solr record/,
+      /succeeded/ # TODO: Enrich this when we have solid examples that won't be breaking.
     ],
     "#{default_flags} --just-reindex --query 'f[asset_type][]=Episode&q=promise'" => [
       /Query solr for/,

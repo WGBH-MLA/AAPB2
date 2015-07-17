@@ -5,7 +5,6 @@ require 'nokogiri'
 class Exhibit
   attr_reader :name
   attr_reader :path
-  attr_reader :items
   attr_reader :facets
   
   attr_reader :summary_html
@@ -14,31 +13,70 @@ class Exhibit
   attr_reader :author_img_src
   attr_reader :links
   attr_reader :body_html
-  attr_reader :children
-  attr_reader :ancestors
+  
+  def self.exhibit_root
+    Rails.root + 'app/views/exhibits'
+  end
+  
+  def self.exhibits_by_path
+    @exhibits_by_path ||= 
+      Hash[
+        Dir[self.exhibit_root + '**/*.md'].sort.map do |path|
+          exhibit = Exhibit.new(path)
+          [exhibit.path, exhibit]
+        end
+      ]
+  end
   
   def self.find_by_path(path)
-    @@exhibits_by_path[path]
+    self.exhibits_by_path[path]
+  end
+  
+  def self.exhibits_by_item_id
+    @exhibits_by_item_id ||=
+      Hash[
+        Exhibit.all.map{ |exhibit| exhibit.ids }.flatten.uniq.map do |id|
+          [
+            id, 
+            Exhibit.all.select { |exhibit| exhibit.ids.include?(id) }
+          ]
+        end
+      ]
   end
   
   def self.find_by_item_id(id)
-    @@exhibits_by_item_id[id] || []
+    self.exhibits_by_item_id[id] || []
   end
   
   def self.all
-    @@exhibits_by_path.values
+    self.exhibits_by_path.values
   end
 
   def ids
     items.keys
   end
   
-  def add_child(child)
-    @children.push(child)
+  def ancestors
+    @ancestors ||= begin
+      split = path.split('/')
+      (1..split.size-1).to_a.map do |i|
+        self.class.exhibits_by_path[split[0,i].join('/')]
+      end
+    end
   end
   
-  def add_items(items)
-    @items.merge!(items)
+  def children
+    @children ||= begin
+      self.class.exhibits_by_path.select do |other_path, other_exhibit|
+        other_path.match(/^#{path}\/[^\/]+$/) # TODO: escape
+      end.map do |other_path, other_exhibit|
+        other_exhibit
+      end
+    end
+  end
+  
+  def items
+    @immediate_items # TODO: ADD child items
   end
   
   private
@@ -59,8 +97,6 @@ class Exhibit
   end
   
   def initialize(file_path)
-    @children = []
-    
     @path = Exhibit.path_from_file_path(file_path)
     
     @facets = Solr.instance.connect.select(params: {
@@ -70,20 +106,12 @@ class Exhibit
         'facet.field' => ['genres', 'topics']
       })['facet_counts']['facet_fields']
     
-    @path.split('/').tap do |split|
-      @ancestors = (1..split.size-1).to_a.map do |i|
-        @@exhibits_by_path[split[0,i].join('/')]
-      end
-    end
-    
-    @ancestors.last.add_child(self) if @ancestors && !@ancestors.empty?
-    
     Nokogiri::HTML(Markdowner.render(File.read(file_path))).tap do |doc|
       @name = doc.xpath('//h1').first.remove.text
       @thumbnail_url = doc.xpath('//img[1]/@src').first.remove.text
       # img element is still there.
       
-      @items = Hash[
+      @immediate_items = Hash[
         doc.xpath('//a').select { |el| 
           el.attribute('href').to_s.match('^/catalog/.+')
         }.map { |el| 
@@ -93,10 +121,6 @@ class Exhibit
           ]
         }
       ]
-      
-      @ancestors.each do |ancestor|
-        ancestor.add_items(@items)
-      end
       
       @summary_html = Exhibit::extract_html(doc, 'Summary')
       @author_html = Exhibit::extract_html(doc, 'Author')
@@ -124,18 +148,4 @@ class Exhibit
     end
   end
 
-  @@exhibits_by_path = {}
-  Dir[Rails.root + 'app/views/exhibits/**/*.md'].sort.each do |path|
-    # Constructor requires higher-level exhibits to already exist.
-    # .md files must come before their contents.
-    Exhibit.new(path).tap do |exhibit|
-      @@exhibits_by_path[exhibit.path] = exhibit
-    end
-  end
-  
-  @@exhibits_by_item_id = Hash[
-    Exhibit.all.map{ |exhibit| exhibit.ids }.flatten.uniq.map do |id|
-      [id, Exhibit.all.select { |exhibit| exhibit.ids.include?(id) } ]
-    end
-  ]
 end
