@@ -9,7 +9,7 @@ describe 'Overrides' do
       each do |override|
         path = override.gsub(/app\/views(\/override)?/, '').sub('.md', '')
 
-        it "#{path} works" do
+        it "#{path} method works" do
           visit path
           expect(page.status_code).to eq(200)
           expect(page.all('input[name="path"]').count).to eq(0)

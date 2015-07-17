@@ -127,7 +127,7 @@ describe 'Validated and plain PBCore' do
       }
 
       assertions.each do |method, value|
-        it "\##{method} works" do
+        it "\##{method} method works" do
           expect(pbc.send(method)).to eq(value)
         end
       end

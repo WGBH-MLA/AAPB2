@@ -26,7 +26,7 @@ describe Exhibit do
   }
 
   assertions.each do |method, value|
-    it "\##{method} works" do
+    it "\##{method} method works" do
       expect(exhibit.send(method)).to eq(value)
     end
   end

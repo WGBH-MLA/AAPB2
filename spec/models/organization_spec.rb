@@ -1,7 +1,7 @@
 require_relative '../../app/models/organization'
 
 describe Organization do
-  it 'works' do
+  it 'contains expected data' do
     org = Organization.find_by_pbcore_name('WGBH')
     expect(org.pbcore_name).to eq('WGBH')
     expect(org.short_name).to eq('WGBH')
