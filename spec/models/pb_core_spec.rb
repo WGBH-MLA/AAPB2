@@ -86,9 +86,9 @@ describe 'Validated and plain PBCore' do
           'topics' => ['Music'],
           'asset_type' => 'Album',
           'organization' => 'WGBH (MA)',
-          'access_types' => ['All', 'On site', 'Online reading room']
+          'access_types' => ['all', 'public'] # TODO: UI will transform internal representation.
         },
-        access_types: ['All', 'On site', 'Online reading room'],
+        access_types: ['all', 'public'],
         access_level: 'Online Reading Room',
         asset_type: 'Album',
         asset_date: '2000-01-01',
@@ -127,7 +127,7 @@ describe 'Validated and plain PBCore' do
       }
 
       assertions.each do |method, value|
-        it "\##{method} works" do
+        it "\##{method} method works" do
           expect(pbc.send(method)).to eq(value)
         end
       end

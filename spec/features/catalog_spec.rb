@@ -93,7 +93,7 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 5],
           ['organization', 1, 'WGBH+(MA)', 2],
           ['year', 1, '2000', 1],
-          ['access_types', 3, 'All', 23]
+          ['access_types', 2, 'all', 23]
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"
@@ -115,14 +115,28 @@ describe 'Catalog' do
       end
       
       describe 'exhibit facet' do
-        it 'has exhibition description' do
-          visit '/catalog?f[exhibits][]=Iowa!&view=gallery'
-          expect(page).to have_text("I'm reluctant to hard-code too much of the design right now")
+        describe 'in gallery' do
+          it 'has exhibition description' do
+            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=gallery'
+            expect(page).to have_text('Summary for search results goes here')
+          end
+
+          it 'has individual descriptions' do
+            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=gallery'
+            expect(page).to have_text('item 1 summary')
+          end
         end
         
-        it 'has individual descriptions' do
-          visit '/catalog?f[exhibits][]=Iowa!&view=gallery'
-          expect(page).to have_text("Under construction")
+        describe 'in list' do
+          it 'has exhibit description' do
+            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list'
+            expect(page).to have_text('Summary for search results goes here')
+          end
+
+          it 'has individual descriptions' do
+            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list'
+            expect(page).to have_text('item 1 summary')
+          end
         end
       end
 

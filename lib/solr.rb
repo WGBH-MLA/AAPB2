@@ -1,5 +1,6 @@
 require 'yaml'
 require 'singleton'
+require 'rsolr'
 
 class Solr
   include Singleton

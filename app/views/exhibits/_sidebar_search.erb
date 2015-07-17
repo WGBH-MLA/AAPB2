@@ -1,0 +1,44 @@
+<%#
+  Frame copy-and-paste from AAPB2/app/views/shared/_sidebar_search.erb
+  Inside is copy-and-paste from rendered _search_form.html.erb, plus tweaks.
+  (Starting from source just made things more complicated.)
+%>
+<!-- Column Search -->
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Search just this exhibit</h3>
+  </div>
+  <div class="panel-body">
+    
+    
+    <form method="get" class="search-query-form form-inline clearfix" action="http://localhost.americanarchive.org:3000/catalog" accept-charset="UTF-8">
+      <div style="display:none">
+        <input type="hidden" value="✓" name="utf8"></input>
+        <input type="hidden" value="<%= @exhibit.path %>" name="f[exhibits][]"></input>
+      </div>
+
+      <div class="input-group input-group-sm">
+          <div class="input-group-addon">
+            <label class="sr-only" for="search_field">Search in</label>
+            <select title="Targeted search options" name="search_field" id="search_field" class="search_field">
+              <option value="all_fields">All Fields</option>
+              <option value="titles">Titles</option>
+              <option value="contribs">Credits</option>
+            </select>
+            <span class="sr-only">for</span>
+          </div>
+        <label class="sr-only" for="q">Search...</label>
+        <input type="text" placeholder="Search..." name="q" id="q" class="search_q q form-control"></input>
+        <span class="input-group-btn">
+          <button id="search" class="btn btn-primary search-btn" type="submit">
+            <span class="submit-search-text sr-only">Search</span>
+            <span class="glyphicon glyphicon-search"></span>
+          </button>
+        </span>
+      </div>
+    </form>
+    
+    
+  </div>
+</div>
+<!-- END: Column Search -->

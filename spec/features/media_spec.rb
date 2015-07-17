@@ -31,7 +31,7 @@ describe 'Media', not_on_travis: true do
     end
   end
 
-  it 'works' do
+  it 'redirects as expected' do
     ci = safe_ci
     ci_id = setup(ci)
 

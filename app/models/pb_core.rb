@@ -73,7 +73,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                xpaths('/*/pbcoreTitle').first # There are records that only have "Episode Number"
   end
   def exhibits
-    @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.name }
+    @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.path }
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')
@@ -124,7 +124,13 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @organization_state_abbreviation ||= organization.state_abbreviation
   end
   def access_level
-    @access_level ||= xpath('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
+    @access_level ||= begin
+      access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
+      fail('Should have at most 1 "Level of User Access" annotation') if access_levels.count > 1
+      fail('Should have "Level of User Access" annotation if digitized') if digitized? and access_levels.count == 0
+      fail('Should not have "Level of User Access" annotation if not digitized') if !digitized? and access_levels.count != 0
+      access_levels.first # Returns nil for non-digitized
+    end
   end
   def public? # AKA online reading room
     access_level == 'Online Reading Room'
@@ -166,13 +172,15 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # TODO: not confident about this. We ought to be able to rely on this:
     # xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy')
   end
+  ALL_ACCESS = 'all'             # includes non-digitized
+  PUBLIC_ACCESS = 'public'       # digitized
+  PROTECTED_ACCESS = 'protected' # digitized
+  PRIVATE_ACCESS = 'private'     # digitized
   def access_types
-    @access_types ||= ['All'].tap do |types|
-      types << 'On site' if ( protected? || public? ) && digitized? 
-      types << 'Online reading room' if public? && digitized?
-      # "All" covers everything.
-      # "On site" covers everything which is digitized and not private.
-      # "ORR" covers everything which is digitized and public.
+    @access_types ||= [ALL_ACCESS].tap do |types|
+      types << PUBLIC_ACCESS if public?
+      types << PROTECTED_ACCESS if protected?
+      types << PRIVATE_ACCESS if private?
     end
   end
 

@@ -5,7 +5,7 @@ require 'set'
 require 'fileutils'
 require_relative 'null_logger'
 require_relative 'mount_validator'
-require_relative 'solr'
+require_relative '../../lib/solr'
 require_relative 'query_maker'
 
 class Downloader

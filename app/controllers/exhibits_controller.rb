@@ -1,15 +1,14 @@
-class ExhibitsController < ApplicationController
-  # TODO: Do we need an index?
-#  def index
-#    @orgs = Exhibit.all
-#    render 'index'
-#  end
+require_relative '../models/exhibit'
 
-  def show
-    @all = Exhibit.all
-    @exhibit = Exhibit.find_by_slug(params[:id])
+class ExhibitsController < OverrideController
+  
+  def index
+    @exhibits = Exhibit.all
+    @page_title = 'Exhibits'
+  end
+
+  def set_view_fields(path)
+    @exhibit = Exhibit.find_by_path(Exhibit.path_from_file_path(path))
     @page_title = @exhibit.name
-    params[:path] = nil # search widget grabs ALL parameters.
-    render 'show'
   end
 end
