@@ -10,7 +10,6 @@ class Exhibit
   attr_reader :summary_html
   attr_reader :thumbnail_url
   attr_reader :author_html
-  attr_reader :author_img_src
   attr_reader :links
   attr_reader :body_html
   

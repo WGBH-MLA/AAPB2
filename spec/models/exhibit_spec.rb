@@ -11,7 +11,15 @@ describe Exhibit do
   exhibit = MockExhibit.find_by_path('parent/child/grandchild')
   
   assertions = {
-    
+    name: 'Grandchild!',
+    path: 'parent/child/grandchild',
+    facets: {"genres"=>[], "topics"=>[]},
+
+    summary_html: "<p>Summary goes here.</p>",
+    thumbnail_url: 'http://example.org/image',
+    author_html: '<p>Author goes here.</p>',
+    links: [["LoC", "http://loc.gov"], ["WGBH", "http://wgbh.org"]],
+    body_html: '<p>Description goes here.</p>'
   }
 
   assertions.each do |method, value|
