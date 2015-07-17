@@ -14,8 +14,12 @@ describe Exhibit do
     name: 'Grandchild!',
     path: 'parent/child/grandchild',
     facets: {"genres"=>[], "topics"=>[]},
-    ancestors: [MockExhibit.find_by_path('parent'), MockExhibit.find_by_path('parent/child')],
-    children: [],
+    ancestors: [
+      MockExhibit.find_by_path('parent'),
+      MockExhibit.find_by_path('parent/child')],
+    children: [
+      MockExhibit.find_by_path('parent/child/grandchild/greatgrandchild1'), 
+      MockExhibit.find_by_path('parent/child/grandchild/greatgrandchild2')],
     items: {
       "cpb-aacip_80-12893j6c"=>"item 1", 
       "cpb-aacip_37-31cjt2qs"=>"item 2",
@@ -31,7 +35,7 @@ describe Exhibit do
 <a href="/catalog/cpb-aacip_192-1937pxnq" title="fuller description">item 3</a></p>
     EOF
   }
-
+  
   assertions.each do |method, value|
     it "\##{method} method works" do
       expect(exhibit.send(method)).to eq((value.strip rescue value))
@@ -41,5 +45,10 @@ describe Exhibit do
   it 'tests everthing' do
     expect(assertions.keys.sort).to eq(Exhibit.instance_methods(false).sort)
   end
-   
+
+  describe 'error handling' do
+    it 'raises an error for bad paths' do
+      expect {MockExhibit.find_by_path('no/such/path')}.to raise_error(IndexError)
+    end
+  end
 end

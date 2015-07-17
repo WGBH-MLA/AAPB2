@@ -28,7 +28,7 @@ class Exhibit
   end
   
   def self.find_by_path(path)
-    self.exhibits_by_path[path]
+    self.exhibits_by_path[path] || raise(IndexError.new("'#{path}' is not an exhibit path"))
   end
   
   def self.exhibits_by_item_id
