@@ -116,7 +116,7 @@ class Exhibit
         }.map { |el| 
           [
             el.attribute('href').to_s.gsub('/catalog/', ''),
-            el.attribute('title').text
+            (el.attribute('title').text rescue el.text)
           ]
         }
       ]

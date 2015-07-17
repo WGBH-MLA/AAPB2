@@ -16,18 +16,25 @@ describe Exhibit do
     facets: {"genres"=>[], "topics"=>[]},
     ancestors: [MockExhibit.find_by_path('parent'), MockExhibit.find_by_path('parent/child')],
     children: [],
-    items: {},
-    ids: [],
+    items: {
+      "cpb-aacip_80-12893j6c"=>"item 1", 
+      "cpb-aacip_37-31cjt2qs"=>"item 2",
+      "cpb-aacip_192-1937pxnq"=>"fuller description"},
+    ids: ["cpb-aacip_80-12893j6c", "cpb-aacip_37-31cjt2qs", "cpb-aacip_192-1937pxnq"],
     summary_html: "<p>Summary goes here.</p>",
     thumbnail_url: 'http://example.org/image',
     author_html: '<p>Author goes here.</p>',
     links: [["LoC", "http://loc.gov"], ["WGBH", "http://wgbh.org"]],
-    body_html: '<p>Description goes here.</p>'
+    body_html: <<-EOF
+<p><a href="/catalog/cpb-aacip_80-12893j6c">item 1</a>
+<a href="/catalog/cpb-aacip_37-31cjt2qs">item 2</a>
+<a href="/catalog/cpb-aacip_192-1937pxnq" title="fuller description">item 3</a></p>
+    EOF
   }
 
   assertions.each do |method, value|
     it "\##{method} method works" do
-      expect(exhibit.send(method)).to eq(value)
+      expect(exhibit.send(method)).to eq((value.strip rescue value))
     end
   end
 
