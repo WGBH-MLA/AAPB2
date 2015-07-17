@@ -34,10 +34,10 @@ class Exhibit
   def self.exhibits_by_item_id
     @exhibits_by_item_id ||=
       Hash[
-        self.class.all.map{ |exhibit| exhibit.ids }.flatten.uniq.map do |id|
+        self.all.map{ |exhibit| exhibit.ids }.flatten.uniq.map do |id|
           [
             id, 
-            self.class.all.select { |exhibit| exhibit.ids.include?(id) }
+            self.all.select { |exhibit| exhibit.ids.include?(id) }
           ]
         end
       ]

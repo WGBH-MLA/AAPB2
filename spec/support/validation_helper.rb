@@ -20,7 +20,9 @@ END
     (?!=)
   /x
   
-  def expect_fuzzy_xml(require_distinct_title = true)
+  def expect_fuzzy_xml(options={})
+    allow_default_title = options.delete(:allow_default_title)
+    
     # Kludge valid HTML5 to make it into valid XML.
     xhtml = page.body
     # self-close tags
@@ -37,7 +39,7 @@ END
     
     title_node = REXML::XPath.match(doc, '/html/head/title').first
     raise 'Page should have title' unless title_node and !title_node.text.empty?
-    if require_distinct_title && title_node.text == 'American Archive of Public Broadcasting'
+    if !allow_default_title && title_node.text == 'American Archive of Public Broadcasting'
       raise 'Page title should be distinctive'
     end
 
