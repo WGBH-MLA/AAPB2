@@ -28,7 +28,7 @@ class Exhibit
   end
   
   def self.find_by_path(path)
-    self.exhibits_by_path[path]
+    self.exhibits_by_path[path] || raise(IndexError.new("'#{path}' is not an exhibit path"))
   end
   
   def self.exhibits_by_item_id
@@ -82,7 +82,8 @@ class Exhibit
   
   def self.extract_html(doc, title)
     following_siblings = []
-    doc.xpath("//*[text()='#{title}']").first.tap do |header|
+    doc.xpath("//h2[text()='#{title}']").first.tap do |header|
+      raise IndexError.new("Can't find header '#{title}'") unless header
       while header.next_element && !header.next_element.name.match(/h2/) do
         following_siblings.push(header.next_element.remove)
       end
@@ -92,7 +93,7 @@ class Exhibit
   end
   
   def self.path_from_file_path(file_path)
-    file_path.to_s.match(/exhibits\/(.*)\.md/).captures.first
+    file_path.to_s.gsub(self.exhibit_root.to_s+'/', '').gsub(/\.md$/, '')
   end
   
   def initialize(file_path)
@@ -116,7 +117,7 @@ class Exhibit
         }.map { |el| 
           [
             el.attribute('href').to_s.gsub('/catalog/', ''),
-            el.attribute('title').text
+            (el.attribute('title').text rescue el.text)
           ]
         }
       ]
