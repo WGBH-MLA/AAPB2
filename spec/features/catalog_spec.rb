@@ -21,12 +21,12 @@ describe 'Catalog' do
   end
 
   def expect_thumbnail(id)
-    url = "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    url = "http://americanarchive.org.s3.amazonaws.com/thumbnail/#{id}.jpg"
     expect(page).to have_css("img[src='#{url}']")
   end
   
   def expect_poster(id)
-    url = "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    url = "http://americanarchive.org.s3.amazonaws.com/thumbnail/#{id}.jpg"
     expect(page).to have_css("video[poster='#{url}']")
   end
 

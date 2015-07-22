@@ -12,7 +12,7 @@ class Featured
     @id = hash.delete('id') || fail('expected id')
     @org_name = hash.delete('org_name') || fail('expected org_name')
     @name = hash.delete('name') || fail('expected org_name')
-    @thumbnail_url = hash.delete('thumbnail_url') || "http://mlamedia01.wgbh.org/aapb/featured/#{@id}_gallery.jpg"
+    @thumbnail_url = hash.delete('thumbnail_url') || "http://americanarchive.org.s3.amazonaws.com/featured/#{@id}_gallery.jpg"
     fail("unexpected #{hash}") unless hash == {}
   end
 
