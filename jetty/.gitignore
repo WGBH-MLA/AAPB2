@@ -1,6 +1,0 @@
-solr/data/*
-logs/*
-.DS_Store
-tmp
-solr-webapp
-solr/*-core/data
