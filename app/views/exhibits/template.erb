@@ -15,7 +15,7 @@
             <% list.each_slice(2) do |value,count| %>
               <li>
                 <span class="facet-label">
-                  <a href="/catalog?f[exhibits][]=<%= @exhibit.path %>&amps;f[<%= name %>][]=<%= value %>" class="facet_select">Moving Image</a></span>
+                  <a href="/catalog?f[exhibits][]=<%= @exhibit.path %>&amp;f[<%= name %>][]=<%= value %>" class="facet_select">Moving Image</a></span>
                 <span class="facet-count"><%= count %></span>
               </li>
             <% end %>
