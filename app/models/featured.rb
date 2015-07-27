@@ -1,5 +1,5 @@
 require 'yaml'
-require 'aws'
+require 'aapb'
 
 class Featured
   attr_reader :id
