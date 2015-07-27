@@ -1,5 +1,6 @@
 require_relative '../../lib/markdowner'
 require 'yaml'
+require 'aapb'
 
 class Organization
   attr_reader :pbcore_name
@@ -88,7 +89,7 @@ class Organization
     @history_html = Markdowner.render(hash['history_md'])
     @summary_html = Markdowner.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
     @productions_html = Markdowner.render(hash.delete('productions_md'))
-    @logo_src = "http://americanarchive.org.s3.amazonaws.com/org-logos/#{hash.delete('logo_filename')}" if hash['logo_filename']
+    @logo_src = "#{AAPB::S3_BASE}/org-logos/#{hash.delete('logo_filename')}" if hash['logo_filename']
     fail("unexpected #{hash}") unless hash == {}
   end
 
