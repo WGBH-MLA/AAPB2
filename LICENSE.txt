@@ -9,3 +9,4 @@ licenses, including:
 Ruby on Rails -- MIT License (http://rubyonrails.org/)
 Solr -- Apache License Version 2.0 (http://lucene.apache.org/solr/)
 Blacklight -- Apache License Version 2.0 (https://github.com/projectblacklight/blacklight)
+Video.js -- Apache License Version 2.0 (https://github.com/videojs/video.js/blob/master/LICENSE)
