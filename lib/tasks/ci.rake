@@ -19,11 +19,6 @@ task :ci do
     # builds don't time.
     :startup_wait=> 180
   })
-  
-  # make sure we've got the thing downloaded
-  puts 'Checking to see if jetty download was successful...'
-  sleep(1) until Dir.exists?(jetty_params['jetty_home'])
-  puts 'Jetty download detected.'
 
   puts "Starting Jetty..."
 
