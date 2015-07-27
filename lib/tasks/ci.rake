@@ -20,6 +20,11 @@ task :ci do
     :startup_wait=> 180
   })
   
+  # make sure we've got the thing downloaded
+  puts 'Checking to see if jetty download was successful...'
+  sleep(1) until Dir.exists?(jetty_params['jetty_home'])
+  puts 'Jetty download detected.'
+
   puts "Starting Jetty..."
 
   # Jettywrapper.wrap() will ensure jetty is started and available before
