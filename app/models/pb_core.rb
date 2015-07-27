@@ -100,7 +100,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @img_src ||=
       case [media_type, digitized?]
       when [MOVING_IMAGE, true]
-        "http://americanarchive.org.s3.amazonaws.com/thumbnail/#{id}.jpg"
+        "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
       when [MOVING_IMAGE, false]
         '/thumbs/video-not-digitized.jpg'
       when [SOUND, true]

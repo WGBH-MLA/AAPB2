@@ -108,7 +108,7 @@ describe 'Validated and plain PBCore' do
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
         ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],
         media_srcs: ["/media/1234?part=1", "/media/1234?part=2"],
-        img_src: 'http://americanarchive.org.s3.amazonaws.com/thumbnail/1234.jpg',
+        img_src: "#{AAPB::S3_BASE}/thumbnail/1234.jpg",
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),        
         organization_state_abbreviation: 'MA',
