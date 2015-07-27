@@ -97,6 +97,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
+  def captions_src
+    @captions_src ||= "/captions/#{id}.txt" if video?
+    # TODO: "CC" icon will show for all videos, even if caption isn't actually available.
+  end
   def img_src # rubocop:disable CyclomaticComplexity
     @img_src ||=
       case [media_type, digitized?]
@@ -349,7 +353,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :rights_code, :access_level,
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, :rights_code, :access_level,
                :access_types, :titles_sort, :ci_ids, :instantiations, :organization_state_abbreviation]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans

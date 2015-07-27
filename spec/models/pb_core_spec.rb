@@ -110,6 +110,7 @@ describe 'Validated and plain PBCore' do
         ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],
         media_srcs: ["/media/1234?part=1", "/media/1234?part=2"],
         img_src: "#{AAPB::S3_BASE}/thumbnail/1234.jpg",
+        captions_src: '/captions/1234.txt',
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),        
         organization_state_abbreviation: 'MA',
