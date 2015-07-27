@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/validation_helper'
 
@@ -21,12 +22,12 @@ describe 'Catalog' do
   end
 
   def expect_thumbnail(id)
-    url = "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
     expect(page).to have_css("img[src='#{url}']")
   end
   
   def expect_poster(id)
-    url = "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+    url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
     expect(page).to have_css("video[poster='#{url}']")
   end
 

@@ -1,6 +1,7 @@
 require 'rexml/document'
 require 'rexml/xpath'
 require 'solrizer'
+require 'aapb'
 require_relative 'exhibit'
 require_relative '../../lib/html_scrubber'
 
@@ -100,7 +101,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @img_src ||=
       case [media_type, digitized?]
       when [MOVING_IMAGE, true]
-        "http://mlamedia01.wgbh.org/aapb/thumbnail/#{id}.jpg"
+        "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
       when [MOVING_IMAGE, false]
         '/thumbs/video-not-digitized.jpg'
       when [SOUND, true]
