@@ -7,7 +7,7 @@
 <% content_for :main do %>
   
   <% @exhibits.each do |exhibit| %>
-    <a href="/exhibits/<%= exhibit.path %>"><%= exhibit.name %></a>
+    <a href="/exhibits/<%= exhibit.path %>"><%= exhibit.title %></a>
   <% end %>
   
 <% end %>
