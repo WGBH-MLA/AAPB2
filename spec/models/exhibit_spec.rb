@@ -5,15 +5,14 @@ describe Exhibit do
   describe 'correctly configured' do
   
     class MockExhibit < Exhibit
-      def self.exhibit_root
-        Rails.root + 'spec/fixtures/exhibits'
-      end
+      ROOT = (Rails.root + 'spec/fixtures/exhibits').to_s
     end
 
     exhibit = MockExhibit.find_by_path('parent/child/grandchild')
 
     assertions = {
-      name: 'Grandchild!',
+      title: 'Grandchild!',
+      title_html: 'Grandchild!',
       path: 'parent/child/grandchild',
       facets: {"genres"=>[], "topics"=>[]},
       ancestors: [
@@ -30,8 +29,11 @@ describe Exhibit do
       summary_html: "<p>Summary goes here.</p>",
       thumbnail_url: 'http://example.org/image',
       author_html: '<p>Author goes here.</p>',
+      formatted: "<p><a href=\"/catalog/cpb-aacip_80-12893j6c\">item 1</a>\n<a href=\"/catalog/cpb-aacip_37-31cjt2qs\">item 2</a>\n<a href=\"/catalog/cpb-aacip_192-1937pxnq\" title=\"fuller description\">item 3</a></p>",
+      head_html: "<p><img src=\"http://example.org/image\" alt=\"alt text\"></p>",
+      links_html: "<ul>\n<li><a href=\"http://loc.gov\">LoC</a></li>\n<li><a href=\"http://wgbh.org\">WGBH</a></li>\n</ul>",
       links: [["LoC", "http://loc.gov"], ["WGBH", "http://wgbh.org"]],
-      body_html: <<-EOF
+      main_html: <<-EOF
 <p><a href="/catalog/cpb-aacip_80-12893j6c">item 1</a>
 <a href="/catalog/cpb-aacip_37-31cjt2qs">item 2</a>
 <a href="/catalog/cpb-aacip_192-1937pxnq" title="fuller description">item 3</a></p>
@@ -45,7 +47,8 @@ describe Exhibit do
     end
 
     it 'tests everthing' do
-      expect(assertions.keys.sort).to eq(Exhibit.instance_methods(false).sort)
+      expect(assertions.keys.sort)
+        .to eq((Exhibit.instance_methods(false) + Cmless.instance_methods(false)).sort)
     end
 
     describe 'error handling' do
@@ -55,29 +58,4 @@ describe Exhibit do
     end
   end
 
-  describe 'mis-configured' do
-    describe 'misspelled h2' do
-      class MisspelledH2MockExhibit < Exhibit
-        def self.exhibit_root
-          Rails.root + 'spec/fixtures/exhibits-broken/misspelled-h2'
-        end
-      end
-      
-      it 'errors' do
-        expect { MisspelledH2MockExhibit.find_by_path('misspelled-h2')}.to raise_error(/Can't find header/)
-      end
-    end
-    
-    describe 'extra cruft' do
-      class ExtraCruftMockExhibit < Exhibit
-        def self.exhibit_root
-          Rails.root + 'spec/fixtures/exhibits-broken/extra-cruft'
-        end
-      end
-      
-      it 'errors' do
-        expect { ExtraCruftMockExhibit.find_by_path('extra-cruft')}.to raise_error(/Extra Cruft\s+Should cause an error/)
-      end
-    end
-  end
 end

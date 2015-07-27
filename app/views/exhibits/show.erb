@@ -60,7 +60,7 @@
       <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.name %></a>
     <% end %>
   </p>
-  <%= @exhibit.body_html.html_safe %>
+  <%= @exhibit.formatted.html_safe %>
   
 <% end %>
     

@@ -15,7 +15,7 @@ Fake Author
 - [LoC](http://loc.gov)
 - [WGBH](http://wgbh.org)
 
-## Description
+## Main
 
 (1000 words) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at 
 lectus orci. Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In 

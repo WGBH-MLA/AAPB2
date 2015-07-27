@@ -15,6 +15,6 @@ Author goes here.
 - [LoC](http://loc.gov)
 - [WGBH](http://wgbh.org)
 
-## Description
+## Main
 
 Description goes here.
