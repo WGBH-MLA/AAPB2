@@ -55,12 +55,12 @@
         var none = $('#none').val() ? 
           $.map(
             $('#none').val().split(/\s+/), 
-            function(term){return "-" + term;}
+            function(term){return '-' + term;}
           ).join(' ') : '';
         $('input[name=q]').val(
+          // Get only those which are not empty.
           $.grep([all, title, exact, any, none],function(x){return x;}
         ).join(' '));
-        console.log($('input[name=q]').val());
       });
     </script>
     
