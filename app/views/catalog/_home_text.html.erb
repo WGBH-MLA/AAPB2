@@ -1,9 +1,41 @@
-<!-- Panel - Search -->
-<div class="panel panel-default search-panel naked-panel" id="catalog-search">
-	<div class="panel-body">
-		<%= render :partial=>'catalog/search_form_big'  %>
-	</div>
-</div>
- 
-<!-- Panel -->
-<%= render partial: 'shared/featured_carousel', locals: { gallery: 'search' } %>
+
+<form action="/catalog" id="advanced">
+  <input name="q" type="hidden"></input>
+  
+  <label>Search</label><input id="include"></input>
+  
+  <label>Field:</label>
+  <input type="radio" name="search_field" value="all_fields" checked>All text</input>
+  <input type="radio" name="search_field" value="titles">Just titles</input>
+  <input type="radio" name="search_field" value="contribs">Just contributors</input>
+  
+  <label>Exact phrase?</label><input type="checkbox" id="exact"></input>
+  
+  <label>Exclude</label><input id="exclude"></input>
+  
+  <br/><input type="submit" value="Search"></input>
+</form>
+
+<script>
+  $(function(){
+    $('#advanced').change(function(){
+      var include = $('#include').val();
+      var exclude = $('#exclude').val();
+      var q = ( $('#exact').prop('checked') ? 
+                  ('"' + include + '"') : 
+                  include )
+            + ( exclude === '' ?
+                  '' :
+                  (' -"' + exclude + '"') );
+      $('[name=q]').val(q);
+      
+      // munge all the facet links:
+      $('.facet_select').each(function(i,el){
+        var $el = $(el);
+        url = $el.attr('href').replace(/(&q=.*)?$/, 
+                                       '&'+$('#advanced').serialize());
+        $el.attr('href', url);
+      });
+    });
+  });
+</script>
