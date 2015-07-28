@@ -2,7 +2,10 @@
 <div class="panel panel-default search-panel naked-panel" id="catalog-search">
   <div class="panel-body">
     
-    <%= form_tag search_action_url, method: :get, class: 'search-query-form clearfix' do %>
+    <%= form_tag search_action_url, 
+                  method: :get, 
+                  class: 'search-query-form clearfix', 
+                  id: 'advanced-search' do %>
   
       <div class="form-group">
         <label for="all">All these words</label>
@@ -29,14 +32,37 @@
         <input class="form-control input-group input-group-lg" id="none"/>
       </div>
     
+      <input type="hidden" name="q"></input>
+    
   
-      <%# Do we need this?: render_hash_as_hidden_fields(params_for_search().except(:q, :search_field, :qt, :page, :utf8)) %>
+      <%# Do we need this? <%= render_hash_as_hidden_fields(params_for_search().except(:q, :search_field, :qt, :page, :utf8)) %>
+    
       
       <div class="form-group">
         <input type="submit" class="btn btn-primary" value="Search"/>
       </div>
     <% end %>
     
+    <script>
+      $('#advanced-search').change(function(){
+        var all = $('#all').val();
+        var title = $('#title').val() ? 
+          ('titles:"' + $('#title').val() + '"') : '';
+        var exact = $('#exact').val() ? 
+          ('"' + $('#exact').val() + '"') : '';
+        var any = $('#any').val() ? 
+          '(' + $('#any').val().split(/\s+/).join(' OR ') + ')' : '';
+        var none = $('#none').val() ? 
+          $.map(
+            $('#none').val().split(/\s+/), 
+            function(term){return "-" + term;}
+          ).join(' ') : '';
+        $('input[name=q]').val(
+          $.grep([all, title, exact, any, none],function(x){return x;}
+        ).join(' '));
+        console.log($('input[name=q]').val());
+      });
+    </script>
     
     
     
