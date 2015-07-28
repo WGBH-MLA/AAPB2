@@ -63,6 +63,7 @@ gem 'sony-ci-api'
 gem 'rspec', :group => :test
 gem 'rspec-rails', :group => :test
 gem 'capybara', :group => :test
+gem 'selenium-webdriver', :group => :test
 
 gem 'simplecov', :require => false, :group => :test
 

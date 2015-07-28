@@ -50,6 +50,25 @@ describe 'Catalog' do
       expect_thumbnail(1234)
       expect_fuzzy_xml
     end
+    
+    describe 'advanced search', js: true do
+      assertions = [
+        ['all', 'iowa music', 1],
+        ['title', 'fun', 1],
+        ['exact', 'field tape', 1],
+        ['any', 'maryland iowa', 4],
+        ['none', 'tape music', 14]
+      ]
+      assertions.each do |input_id, terms, count|
+        it "search #{input_id} for #{terms}" do
+          visit '/catalog';
+          fill_in(input_id, with: terms)
+          find("#advanced-search input[type=submit]").click
+          expect_count(count)
+          expect_fuzzy_xml
+        end
+      end
+    end
 
     describe 'search constraints' do
       describe 'title facets' do
