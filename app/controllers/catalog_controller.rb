@@ -125,22 +125,6 @@ class CatalogController < ApplicationController
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
     # since we aren't specifying it otherwise.
 
-    config.add_search_field('all_fields', label: 'All Fields')
-
-    config.add_search_field('titles', label: 'Titles') do |field|
-      field.solr_local_parameters = {
-        qf: '$titles_qf',
-        pf: '$titles_pf'
-      }
-    end
-
-    config.add_search_field('contribs', label: 'Credits') do |field|
-      field.solr_local_parameters = {
-        qf: '$contribs_qf',
-        pf: '$contribs_pf'
-      }
-    end
-
     # "sort results by" select (pulldown)
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc

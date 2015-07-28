@@ -1,9 +1,73 @@
 <!-- Panel - Search -->
 <div class="panel panel-default search-panel naked-panel" id="catalog-search">
-	<div class="panel-body">
-		<%= render :partial=>'catalog/search_form_big'  %>
-	</div>
+  <div class="panel-body">
+    
+    <%= form_tag search_action_url, 
+                  method: :get, 
+                  class: 'search-query-form clearfix', 
+                  id: 'advanced-search' do %>
+  
+      <div class="form-group">
+        <label for="all">All these words</label>
+        <input class="form-control input-group input-group-lg" id="all"/>
+      </div>
+    
+      <div class="form-group">
+        <label for="title">This title</label>
+        <input class="form-control input-group input-group-lg" id="title"/>
+      </div>
+    
+      <div class="form-group">
+        <label for="exact">This exact word or phrase</label>
+        <input class="form-control input-group input-group-lg" id="exact"/>
+      </div>
+    
+      <div class="form-group">
+        <label for="any">Any of these words</label>
+        <input class="form-control input-group input-group-lg" id="any"/>
+      </div>
+    
+      <div class="form-group">
+        <label for="none">None of these words</label>
+        <input class="form-control input-group input-group-lg" id="none"/>
+      </div>
+    
+      <input type="hidden" name="q"></input>
+    
+  
+      <%# Do we need this? <%= render_hash_as_hidden_fields(params_for_search().except(:q, :search_field, :qt, :page, :utf8)) %>
+    
+      
+      <div class="form-group">
+        <input type="submit" class="btn btn-primary" value="Search"/>
+      </div>
+    <% end %>
+    
+    <script>
+      $('#advanced-search').change(function(){
+        var all = $('#all').val();
+        var title = $('#title').val() ? 
+          ('titles:"' + $('#title').val() + '"') : '';
+        var exact = $('#exact').val() ? 
+          ('"' + $('#exact').val() + '"') : '';
+        var any = $('#any').val() ? 
+          '(' + $('#any').val().split(/\s+/).join(' OR ') + ')' : '';
+        var none = $('#none').val() ? 
+          $.map(
+            $('#none').val().split(/\s+/), 
+            function(term){return '-' + term;}
+          ).join(' ') : '';
+        $('input[name=q]').val(
+          // Get only those which are not empty.
+          $.grep([all, title, exact, any, none],function(x){return x;}
+        ).join(' '));
+      });
+    </script>
+    
+    
+    
+  </div>
 </div>
- 
+
 <!-- Panel -->
 <%= render partial: 'shared/featured_carousel', locals: { gallery: 'search' } %>

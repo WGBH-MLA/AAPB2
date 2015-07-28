@@ -50,6 +50,25 @@ describe 'Catalog' do
       expect_thumbnail(1234)
       expect_fuzzy_xml
     end
+    
+    describe 'advanced search', js: true do
+      assertions = [
+        ['all', 'iowa music', 1],
+        ['title', 'fun', 1],
+        ['exact', 'field tape', 1],
+        ['any', 'maryland iowa', 4],
+        ['none', 'tape music', 14]
+      ]
+      assertions.each do |input_id, terms, count|
+        it "search #{input_id} for #{terms}" do
+          visit '/catalog';
+          fill_in(input_id, with: terms)
+          find("#advanced-search input[type=submit]").click
+          expect_count(count)
+          expect_fuzzy_xml
+        end
+      end
+    end
 
     describe 'search constraints' do
       describe 'title facets' do
@@ -137,29 +156,6 @@ describe 'Catalog' do
           it 'has individual descriptions' do
             visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list'
             expect(page).to have_text('item 1 summary')
-          end
-        end
-      end
-
-      describe 'fields' do
-        assertions = [
-          ['all_fields', 'no-match-for-this', 0],
-          ['all_fields', 'Larry', 3],
-          ['titles', 'Larry', 1],
-          ['contribs', 'Larry', 1]
-        ]
-        assertions.each do |constraint, value, count|
-          url = "/catalog?search_field=#{constraint}&q=#{value}"
-          it "#{constraint}=#{value}: #{count}\t#{url}" do
-            visit url
-            expect(
-              page.all('#search_field option').map { |node|
-                node['value']
-              }
-            ).to eq(assertions.map(&:first).uniq) # coverage
-            expect(page.status_code).to eq(200)
-            expect_count(count)
-            expect_fuzzy_xml
           end
         end
       end
