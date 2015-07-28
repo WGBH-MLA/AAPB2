@@ -13,9 +13,11 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*
-/jetty/jettywrapper.log
 /tmp/*
 !/tmp/restart.txt
+
+# Ignore jetty instance
+jetty
 
 # IDE
 /nbproject/
@@ -25,3 +27,7 @@
 
 # Coverage
 /coverage
+
+# Chuck ran into gem version issues, which a gemset solved, but if you're ok,
+# then it's much more efficient to use the default gemset on all projects.
+.ruby-gemset

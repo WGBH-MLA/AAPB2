@@ -3,8 +3,4 @@ sudo: false
 cache: bundler
 rvm:
   - 2.0.0
-script: 'bundle exec rspec --tag ~not_on_travis'
-before_script:
-  - bundle exec rake jetty:start
-  - JETTY='http://127.0.0.1:8983'
-  - for X in {1..1000}; do sleep 1; curl $JETTY && break; done
+script: 'bundle exec rake ci'

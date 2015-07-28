@@ -1,5 +1,5 @@
 require 'yaml'
-require 'aapb'
+require_relative '../../lib/aapb'
 
 class Featured
   attr_reader :id

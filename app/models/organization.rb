@@ -1,6 +1,6 @@
 require_relative '../../lib/markdowner'
 require 'yaml'
-require 'aapb'
+require_relative '../../lib/aapb'
 
 class Organization
   attr_reader :pbcore_name

@@ -1,11 +1,11 @@
+# Jetty params default to the same values for both `development` and `test`
+# environments. Override any of the defaults with environment variables.
+default: &default
+  startup_wait: <%= ENV['JETTY_STARTUP_WAIT'] || 15 %>
+  jetty_port: <%= ENV['JETTY_PORT'] || 8983 %>
+  jetty_home: <%= ENV['JETTY_HOME'] || File.expand_path(File.join(File.dirname(File.dirname(__FILE__)), 'jetty')) %>
+  solr_core: <%= ENV['SOLR_CORE'] || 'blacklight-core' %>
 development:
-  startup_wait: 15
-  jetty_port: 8983
+  <<: *default
 test:
-  startup_wait: 60
-  jetty_port: <%= ENV['TEST_JETTY_PORT'] || 8983 %>
-  <%# TODO: Get separate dev and test cores, and change this back to 8888. bug #1 %>
-  <%= ENV['TEST_JETTY_PATH'] ? "jetty_home: " + ENV['TEST_JETTY_PATH'] : '' %>
-production:
-  startup_wait: 15
-  jetty_port: 8983
+  <<: *default
