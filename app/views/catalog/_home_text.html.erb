@@ -1,9 +1,47 @@
 <!-- Panel - Search -->
 <div class="panel panel-default search-panel naked-panel" id="catalog-search">
-	<div class="panel-body">
-		<%= render :partial=>'catalog/search_form_big'  %>
-	</div>
+  <div class="panel-body">
+    
+    <%= form_tag search_action_url, method: :get, class: 'search-query-form clearfix' do %>
+  
+      <div class="form-group">
+        <label for="all">All these words</label>
+        <input class="form-control input-group input-group-lg" id="all"/>
+      </div>
+    
+      <div class="form-group">
+        <label for="title">This title</label>
+        <input class="form-control input-group input-group-lg" id="title"/>
+      </div>
+    
+      <div class="form-group">
+        <label for="exact">This exact word or phrase</label>
+        <input class="form-control input-group input-group-lg" id="exact"/>
+      </div>
+    
+      <div class="form-group">
+        <label for="any">Any of these words</label>
+        <input class="form-control input-group input-group-lg" id="any"/>
+      </div>
+    
+      <div class="form-group">
+        <label for="none">None of these words</label>
+        <input class="form-control input-group input-group-lg" id="none"/>
+      </div>
+    
+  
+      <%# Do we need this?: render_hash_as_hidden_fields(params_for_search().except(:q, :search_field, :qt, :page, :utf8)) %>
+      
+      <div class="form-group">
+        <input type="submit" class="btn btn-primary" value="Search"/>
+      </div>
+    <% end %>
+    
+    
+    
+    
+  </div>
 </div>
- 
+
 <!-- Panel -->
 <%= render partial: 'shared/featured_carousel', locals: { gallery: 'search' } %>
