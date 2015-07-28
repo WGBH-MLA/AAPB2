@@ -141,29 +141,6 @@ describe 'Catalog' do
         end
       end
 
-      describe 'fields' do
-        assertions = [
-          ['all_fields', 'no-match-for-this', 0],
-          ['all_fields', 'Larry', 3],
-          ['titles', 'Larry', 1],
-          ['contribs', 'Larry', 1]
-        ]
-        assertions.each do |constraint, value, count|
-          url = "/catalog?search_field=#{constraint}&q=#{value}"
-          it "#{constraint}=#{value}: #{count}\t#{url}" do
-            visit url
-            expect(
-              page.all('#search_field option').map { |node|
-                node['value']
-              }
-            ).to eq(assertions.map(&:first).uniq) # coverage
-            expect(page.status_code).to eq(200)
-            expect_count(count)
-            expect_fuzzy_xml
-          end
-        end
-      end
-
       describe 'sorting' do
 
         describe 'relevance sorting' do
