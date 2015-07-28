@@ -1,5 +1,5 @@
 require 'rails_helper'
-require 'aapb'
+require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/validation_helper'
 
