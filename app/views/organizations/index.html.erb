@@ -14,7 +14,12 @@
     <a name="<%= state %>"></a>
     <div class="panel panel-default org-state">
       <div class="panel-heading">
-        <h2 class="panel-title"><%= state %></h2>
+        <h2 class="panel-title">
+          <%= state %>
+          <a href="catalog?f[state][]=<%= URI.encode(state) %>" class="btn btn-sm btn-link pull-right">
+            All records from <%= state %>
+          </a>
+        </h2>
       </div>
       <div class="panel-body">
 

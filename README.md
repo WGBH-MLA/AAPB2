@@ -11,7 +11,7 @@ This is the public-facing website of the [*American Archive of Public Broadcasti
 - You may see a message from RVM stating that the required Ruby version is not available. 
 Install it as instructed.
 - Get dependencies: `bundle install`
-- Download Solr, configure, and start: `rake jetty:clean; rake jetty:config; rake jetty:start`
+- Download Solr, configure, and start: `rake jetty:clean && rake jetty:config && rake jetty:start`
 - Run DB migrations: `rake db:migrate RAILS_ENV=development`
 (TODO: This shouldn't be necessary, since we don't use the DB.
 [Issue #63](https://github.com/WGBH/AAPB2/issues/63))

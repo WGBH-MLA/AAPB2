@@ -125,14 +125,13 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name) ||
                       fail("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
   end
-  def organization_state_abbreviation
-    @organization_state_abbreviation ||= organization.state_abbreviation
-  end
+
   def outside_url
     @outside_url ||= xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]')
   rescue NoMatchError
     nil
   end
+
   def access_level
     @access_level ||= begin
       access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
@@ -219,6 +218,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'topics' => topics,
       'asset_type' => asset_type,
       'organization' => organization.facet,
+      'state' => organization.state,
       'access_types' => access_types
     }.merge(
       Hash[
@@ -360,7 +360,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def text
     ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, 
                :rights_code, :access_level, :access_types, :titles_sort, :ci_ids, 
-               :instantiations, :organization_state_abbreviation, :outside_url]
+               :instantiations, :outside_url]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
