@@ -87,6 +87,7 @@ describe 'Validated and plain PBCore' do
           'topics' => ['Music'],
           'asset_type' => 'Album',
           'organization' => 'WGBH (MA)',
+          'state' => 'Massachusetts',
           'access_types' => ['all', 'public'] # TODO: UI will transform internal representation.
         },
         access_types: ['all', 'public'],
@@ -112,8 +113,7 @@ describe 'Validated and plain PBCore' do
         img_src: "#{AAPB::S3_BASE}/thumbnail/1234.jpg",
         captions_src: '/captions/1234.txt',
         organization_pbcore_name: 'WGBH',
-        organization: Organization.find_by_pbcore_name('WGBH'),        
-        organization_state_abbreviation: 'MA',
+        organization: Organization.find_by_pbcore_name('WGBH'),
         outside_url: 'http://example.org/outside-video-link',
         private?: false,
         protected?: false,
