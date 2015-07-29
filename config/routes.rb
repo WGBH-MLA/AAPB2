@@ -8,6 +8,9 @@ Rails.application.routes.draw do
             constraints: { id: /.*/ }, # so periods in station IDs are acceptable.
             only: [:index, :show]
   
+  resources 'advanced',
+            only: [:index]
+  
   resources 'thumbnails',
             only: [:show]
 
