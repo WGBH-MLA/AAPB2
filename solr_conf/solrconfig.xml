@@ -89,12 +89,6 @@
        <str name="qf">text titles^2</str>
        <str name="pf">text titles^2</str>
        
-       <str name="titles_qf">titles</str>
-       <str name="titles_pf">titles</str>
-       
-       <str name="contribs_qf">contribs</str>
-       <str name="contribs_pf">contribs</str>
-       
        <int name="ps">3</int>
        <float name="tie">0.01</float>
 
