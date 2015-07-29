@@ -128,6 +128,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def organization_state_abbreviation
     @organization_state_abbreviation ||= organization.state_abbreviation
   end
+  def outside_url
+    @outside_url ||= xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]')
+  rescue NoMatchError
+    nil
+  end
   def access_level
     @access_level ||= begin
       access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
