@@ -2,6 +2,9 @@ Rails.application.routes.draw do
   root to: 'home#show'
 
   blacklight_for :catalog
+  
+  resources 'terms',
+            only: [:show, :create]
 
   resources 'organizations',
             path: '/participating-orgs', # for backwards compatibility.

@@ -263,6 +263,8 @@ describe 'Catalog' do
     it 'contains expected data' do
       visit '/catalog/1234'
       expect(page.status_code).to eq(200)
+      expect(page).to have_text('Do you agree to our terms?')
+      click_button('Yes!')
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
       target.send(:text).each do |field|
         # #text is only used for #to_solr, so it's private... 

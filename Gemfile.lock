@@ -89,6 +89,7 @@ GEM
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.8)
+    geoip (1.5.0)
     hike (1.2.3)
     htmlentities (4.3.3)
     i18n (0.7.0)
@@ -257,6 +258,7 @@ DEPENDENCIES
   capybara
   coffee-rails (~> 4.0.0)
   curb
+  geoip
   htmlentities (~> 4.3.2)
   jbuilder (~> 2.0)
   jettywrapper (~> 1.7)

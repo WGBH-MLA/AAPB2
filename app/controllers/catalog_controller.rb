@@ -1,5 +1,7 @@
 # -*- encoding : utf-8 -*-
 #
+require_relative '../../lib/geo_i_p_country'
+
 class CatalogController < ApplicationController
   helper Openseadragon::OpenseadragonHelper
 
@@ -170,15 +172,33 @@ class CatalogController < ApplicationController
     # TODO: do we need more of the behavior from Blacklight::Catalog?
     @response, @document = fetch(params['id'])
     xml = @document.instance_variable_get('@_source')['xml']
-
+    @pbcore = PBCore.new(xml)
+    
     respond_to do |format|
       format.html do
-        @pbcore = PBCore.new(xml)
-        render
+        if requires_eula?
+          redirect_to "/terms/#{CGI::escape(params['id'])}"
+        else
+          render
+        end
       end
       format.pbcore do
         render text: xml
       end
     end
+    
+  end
+  
+  private
+  
+  def requires_eula?
+    !session[:affirm_terms] && 
+            (@pbcore.video? || @pbcore.audio?) &&
+            !bot? &&
+            GeoIPCountry.instance.country_code(request.remote_ip) == 'US'
+  end
+  
+  def bot?
+    /bot|spider/i =~ request.user_agent
   end
 end

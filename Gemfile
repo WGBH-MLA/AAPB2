@@ -56,6 +56,8 @@ gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper', '~> 1.7'
 
+gem 'geoip'
+
 gem 'sys-filesystem' # just for checking mount points at ingest
 
 gem 'sony-ci-api'
