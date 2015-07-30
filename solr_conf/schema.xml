@@ -547,7 +547,7 @@
           type="string" indexed="true" stored="false" multiValued="true"/>
    <field name="access_types"
           type="string" indexed="true" stored="false" multiValued="true"/>
-   <field name="organization_state" 
+   <field name="state" 
           type="string" indexed="true" stored="false" multiValued="false"/>
    
    <dynamicField name="*_titles"
