@@ -10,7 +10,10 @@
       <menu>Genre</menu>
       <ul>
         <% VocabMap.for('genre').authorized_names.sort.each do |genre| %>
-          <li><a href="/catalog?f[genres][]=<%= CGI::escape(genre) %>"><%= genre %></a></li>
+          <li><a href="/catalog?<%= {
+                  'f[access_types][]' => PBCore::PUBLIC_ACCESS,
+                  'f[genres][]' => genre
+          }.to_query %>"><%= genre %></a></li>
         <% end %>
       </ul>
     </div>
@@ -26,7 +29,10 @@
         <% end %>
         <ul>
           <% group.each do |topic| %>
-            <li><a href="/catalog?f[topics][]=<%= CGI::escape(topic) %>"><%= topic %></a></li>
+            <li><a href="/catalog?<%= {
+                  'f[access_types][]' => PBCore::PUBLIC_ACCESS,
+                  'f[topics][]' => topic
+          }.to_query %>"><%= topic %></a></li>
           <% end %>
         </ul>
       </div>
