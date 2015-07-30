@@ -2,7 +2,7 @@ require_relative '../models/exhibit'
 
 class ExhibitsController < OverrideController
   def index
-    @exhibits = Exhibit.all
+    @top_level_exhibits = Exhibit.all_top_level
     @page_title = 'Exhibits'
   end
   

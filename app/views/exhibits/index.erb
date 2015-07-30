@@ -1,17 +1,45 @@
 <% content_for :sidebar do %>
-  
-  TODO: What should go in the sidebar on this page?
-    
+  <%= render 'shared/sidebar_search' %>
+  <%= render partial: 'shared/sidebar_nav', 
+             locals: { 
+              title: 'Exhibits', # TODO: Would make more sense if this were one of the pages listed.
+              links: [ # TODO: If we really want the same thing as the about pages, 
+                       # find a place to share: Maybe const on controller?
+                        ['About the AAPB', '/about-the-american-archive'],
+                        ['Vision and Mission', '/about-the-american-archive/vision-and-mission'],
+                        ['On Location Research', '/on-location'],
+                        ['History', '/about-the-american-archive/history'],
+                        ['Projects', '/about-the-american-archive/projects'],
+                        ['Staff', '/about-the-american-archive/staff'],
+                        ['Funding', '/about-the-american-archive/funding'],
+                        ['Acknowledgments', '/about-the-american-archive/acknowledgments'],
+                        ['FAQ', '/faq'],
+                        ['Contact Us', '/contact-us']
+                      ]
+            } %>
 <% end %>
   
 <% content_for :main do %>
-  
-  <% @exhibits.each do |exhibit| %>
-    <a href="/exhibits/<%= exhibit.path %>"><%= exhibit.title %></a>
-  <% end %>
-  
+  <div class="row gallery" id="documents">
+    <% @top_level_exhibits.each do |exhibit| %>
+      <div class="document col-xs-6 col-md-3">
+        <div class="thumbnail">
+          <div class="caption">
+            <div class="documentHeader">
+              <a href="/exhibits/<%= exhibit.path %>">
+                <img src="<%= exhibit.thumbnail_url %>">
+              </a>    
+              <h4 class="index_title">
+                <a href="/exhibits/<%= exhibit.path %>"><%= exhibit.title %></a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    <% end %>
+  </div>
 <% end %>
-    
+
 <%= render partial: 'shared/title_sidebar_main', 
            locals: {
              sidebar: yield(:sidebar),
