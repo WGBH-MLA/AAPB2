@@ -237,7 +237,7 @@ describe 'Catalog' do
   end
 
   describe '#show' do
-    it 'contains expected data' do
+    it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
       expect(page.status_code).to eq(200)
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
@@ -246,7 +246,18 @@ describe 'Catalog' do
         # so we need the #send to get at it.
         expect(page).to have_text(field)
       end
-      expect_poster(1234)
+      expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
+    end
+    
+    it 'has poster otherwise if media' do
+      visit 'catalog/cpb-aacip_37-16c2fsnr'
+      expect(page.status_code).to eq(200)
+      target = PBCore.new(File.read('spec/fixtures/pbcore/clean-every-title-is-episode-number.xml'))
+      (target.send(:text) - ['cpb-aacip_37-16c2fsnr']).each do |field|
+        # The ID is on the page, but it has a slash, not underscore.
+        expect(page).to have_text(field)
+      end
+      expect_poster('cpb-aacip_37-16c2fsnr')
     end
   end
 
