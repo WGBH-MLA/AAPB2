@@ -71,6 +71,8 @@
   <h1 class="record-title"><%= @pbcore.title %></h1>
 
   <div class="well well-sm media-thumb">
+
+    <a name="player"></a>
     <% if !@pbcore.media_srcs.empty? && 
         !@pbcore.outside_url &&
         AccessControl.authorized_ip?(request.remote_ip) %>
