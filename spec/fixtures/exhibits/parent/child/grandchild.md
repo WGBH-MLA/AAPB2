@@ -15,7 +15,7 @@ Author goes here.
 - [LoC](http://loc.gov)
 - [WGBH](http://wgbh.org)
 
-## Description
+## Main
 
 [item 1](/catalog/cpb-aacip_80-12893j6c)
 [item 2](/catalog/cpb-aacip_37-31cjt2qs)

@@ -19,7 +19,7 @@ Author goes here. Use *any* **formatting** you want.
 - [LoC](http://loc.gov)
 - [WGBH](http://wgbh.org)
 
-## Description
+## Main
 
 Cresco is a lovely town in north-eastern Iowa.
 

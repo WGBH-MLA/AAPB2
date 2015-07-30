@@ -25,7 +25,6 @@
     </div>
   <% end %>
 
-
   <img src="<%= @exhibit.thumbnail_url %>"/>
   <br/><br/><%# TODO: CSS to establish spacing. %>
   
@@ -41,7 +40,7 @@
   <%= render partial: 'shared/sidebar_nav', 
              locals: { 
                 title: 'Sub-exhibits',
-                links: @exhibit.children.map { |child| [child.name, "/exhibits/#{child.path}"] }
+                links: @exhibit.children.map { |child| [child.title, "/exhibits/#{child.path}"] }
               } %>
     
   <%= render partial: 'shared/sidebar_nav', 
@@ -57,10 +56,10 @@
   <p>
     TODO: Bread crumbs for navigation:
     <% @exhibit.ancestors.map do |ancestor| %>
-      <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.name %></a>
+      <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.title %></a>
     <% end %>
   </p>
-  <%= @exhibit.body_html.html_safe %>
+  <%= @exhibit.formatted.html_safe %>
   
 <% end %>
     

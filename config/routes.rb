@@ -25,7 +25,7 @@ Rails.application.routes.draw do
   
   override_constraints = lambda { |req|
     path = req.params['path']
-    path.match(OverrideController::PATH_PATTERN) && !path.match(/^rails/)
+    path.match(/^[a-z0-9\/-]+$/) && !path.match(/^rails/)
   }
 
   # TODO: combine these into a resource?

@@ -69,6 +69,9 @@ GEM
       xpath (~> 2.0)
     childprocess (0.5.5)
       ffi (~> 1.0, >= 1.0.11)
+    cmless (0.0.5)
+      nokogiri (~> 1.6)
+      redcarpet (~> 3.2)
     coderay (1.1.0)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
@@ -156,7 +159,7 @@ GEM
     rake (10.4.2)
     rdoc (4.2.0)
       json (~> 1.4)
-    redcarpet (3.2.2)
+    redcarpet (3.3.2)
     ref (1.0.5)
     rsolr (1.0.12)
       builder (>= 2.1.2)
@@ -255,6 +258,7 @@ DEPENDENCIES
   capistrano-passenger
   capistrano-rails
   capybara
+  cmless (= 0.0.5)
   coffee-rails (~> 4.0.0)
   curb
   htmlentities (~> 4.3.2)
@@ -265,7 +269,6 @@ DEPENDENCIES
   pry
   pry-nav
   rails (= 4.1.2)
-  redcarpet (~> 3.2.2)
   rsolr
   rspec
   rspec-rails
