@@ -5,7 +5,7 @@
   %>
   <li>
     <span class="facet-label">
-      <a href="<%= base_uri %>&f[access_types][]=<%= PBCore::ALL_ACCESS %>" class="facet_select">All</a>
+      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::ALL_ACCESS %>" class="facet_select">All</a>
     </span>
     <span class="facet-count"><%= facet_counts[PBCore::ALL_ACCESS] || 0 %></span>
   </li>
@@ -15,7 +15,7 @@
   </small></div></li>
   <li>
     <span class="facet-label">
-      <a href="<%= base_uri %>&f[access_types][]=<%= PBCore::PUBLIC_ACCESS %>" class="facet_select">Online Reading Room</a>
+      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::PUBLIC_ACCESS %>" class="facet_select">Online Reading Room</a>
     </span>
     <span class="facet-count"><%= facet_counts[PBCore::PUBLIC_ACCESS] || 0 %></span>
   </li>
@@ -24,7 +24,7 @@
   </small></div></li>
   <li>
     <span class="facet-label">
-      <a href="<%= base_uri %>&f[access_types][]=<%= PBCore::PROTECTED_ACCESS %>" class="facet_select">On site only</a>
+      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::PROTECTED_ACCESS %>" class="facet_select">On site only</a>
     </span>
     <span class="facet-count"><%= facet_counts[PBCore::PROTECTED_ACCESS] || 0 %></span>
   </li>
