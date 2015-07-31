@@ -1,0 +1,16 @@
+<%= render layout: 'shared/carousel', 
+           locals: {
+                    id: 'featured-carousel', 
+                    items: Featured.from_gallery(gallery),
+                    view_all: 'View All Curated Exhibits',
+                    view_all_href: '/exhibits'
+                   } do |item| %>
+  <a href="<%= "/catalog/#{item.id}" %>" class="list-group-item" >
+    <img src="<%= item.thumbnail_url %>" title="<%= item.name %>" alt="<%= item.name %>" />
+    <span class="carousel-caption">
+      <h3 class="list-group-item-heading"><%= item.name %></h3>
+      <p class="list-group-item-text"><%= item.org_name %></p>
+    </span>
+  </a>
+<% end %>
+  
