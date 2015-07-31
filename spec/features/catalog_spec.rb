@@ -138,9 +138,12 @@ describe 'Catalog' do
         ]
         assertions.each do |facet, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"
-          it "#{facet}=#{value}: #{value_count}\t#{url}" do
-            visit url
-            expect_count(value_count)
+
+          describe "visiting #{url}" do
+            it "has #{value_count} results" do
+              visit url
+              expect_count(value_count)
+            end
           end
         end
       end
