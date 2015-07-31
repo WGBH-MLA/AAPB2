@@ -1,6 +1,16 @@
 <% content_for :head do %>
   <meta name="description" content="A collaboration between WGBH and the Library of Congress with a long-term vision to preserve and make accessible significant historical content created by public media.">
 <% end %>
+
+<!-- Sticky Nav -->
+<div id="homenav" class="well well-sm affix-top hidden-xs" data-spy="affix" data-offset-top="250">
+  <ul class="nav nav-pills">
+    <li role="presentation" class="aa-link"><a href="#top">American Archive</a></li>
+    <li role="presentation"><a href="#stations">Participating Organizations</a></li>
+    <li role="presentation"><a href="#browse">Browse The Collection</a></li>
+    <li role="presentation"><a href="#video">Telling Our Story</a></li>
+  </ul>
+</div>
   
 <!-- Welcome -->
 <div class="jumbotron home-jumbotron" id="welcome">
@@ -17,6 +27,7 @@
           <%= render partial: 'catalog/search_form_big'  %>
       </div>
     </div>
+
     
     <%= render partial: 'shared/featured_carousel', locals: { gallery: 'home' } %>
 
@@ -61,7 +72,7 @@
 
 <!-- Browse -->
 <div class="jumbotron home-jumbotron" id="browse">
-  <div class="container">
+  <div class="container-fluid">
     
     <%= render partial: 'home/browse_list'  %>
 
