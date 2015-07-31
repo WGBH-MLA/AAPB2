@@ -70,7 +70,8 @@ class CatalogController < ApplicationController
     config.add_facet_field 'organization', sort: 'index', solr_params: { 'facet.limit' => -1 }
     # Default is 100, but we have more orgs than that. -1 means no limit.
     config.add_facet_field 'year', sort: 'index', range: true
-    config.add_facet_field 'access_types', label: 'Access'
+    config.add_facet_field 'access_types', label: 'Access', partial: 'access_facet', 
+      tag: 'access', ex: 'access', collapse: false
 
     VocabMap.for('title').authorized_names.each do|name|
       config.add_facet_field "#{name.downcase.gsub(/\s/, '_')}_titles", show: false, label: name
