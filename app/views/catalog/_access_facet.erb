@@ -3,34 +3,37 @@
     base_uri = '/catalog?' + params.except('action', 'controller').to_query
     facet_counts = Hash[display_facet.items.map{|i| [i.value, i.hits]}]
   %>
+  
   <li>
     <span class="facet-label">
-      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::ALL_ACCESS %>" class="facet_select">All</a>
-    </span>
-    <span class="facet-count"><%= facet_counts[PBCore::ALL_ACCESS] || 0 %></span>
-  </li>
-  <li><div class="well well-sm"><small>
-    Broaden your search to include all records, including those which can only be viewed
-    on location at WGBH or the Library of Congress, and those which are not yet even digitized.
-  </small></div></li>
-  <li>
-    <span class="facet-label">
-      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::PUBLIC_ACCESS %>" class="facet_select">Online Reading Room</a>
+      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::PUBLIC_ACCESS %>" class="facet_select">Available Online</a>
     </span>
     <span class="facet-count"><%= facet_counts[PBCore::PUBLIC_ACCESS] || 0 %></span>
   </li>
   <li><div class="well well-sm"><small>
-    The default: Returns only records which have audio or video which can be viewed online.
+    The default: All video and audio that can be viewed or listened to in the Online Reading Room.
   </small></div></li>
+  
   <li>
     <span class="facet-label">
-      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::PROTECTED_ACCESS %>" class="facet_select">On site only</a>
+      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::PROTECTED_ACCESS %>" class="facet_select">On Location</a>
     </span>
     <span class="facet-count"><%= facet_counts[PBCore::PROTECTED_ACCESS] || 0 %></span>
   </li>
   <li><div class="well well-sm"><small>
-    Because of copyright restrictions, many items which have been digitized are not
-    available online. This broadens your search to include items which are viewable only
-    on location at WGBH or the Library of Congress.
+    All digitized video and audio, including content available online and content 
+    which is restricted to viewing only at WGBH and the Library of Congress.
   </small></div></li>
+
+  
+  <li>
+    <span class="facet-label">
+      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::ALL_ACCESS %>" class="facet_select">All records</a>
+    </span>
+    <span class="facet-count"><%= facet_counts[PBCore::ALL_ACCESS] || 0 %></span>
+  </li>
+  <li><div class="well well-sm"><small>
+    All 2.5 million records, including digitized content (online and on-site only), and content that has not yet even been digitized.
+  </small></div></li>
+  
 </ul>
