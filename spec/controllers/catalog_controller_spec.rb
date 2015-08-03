@@ -31,9 +31,14 @@ describe CatalogController do
     end
 
     it 'not in effect if f filled in' do
-      get 'index', f: { 'arbitrary' => 'data' }
+      get 'index', f: { 'year' => 'data' }
       expect(response.status).to eq 200
       expect(response).not_to redirect_to '/catalog'
+    end
+    
+    it 'errors if f is gibberish' do
+      expect { get 'index', f: { 'gibberish' => 'data' } }.to raise_error
+      # TODO: This is the current behavior: do we want something different?
     end
 
     it 'not in effect if sort filled in' do

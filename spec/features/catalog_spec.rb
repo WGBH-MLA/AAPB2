@@ -92,9 +92,9 @@ describe 'Catalog' do
           ['genres', 1, 'Interview', 3],
           ['topics', 1, 'Music', 1],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 1, 'WGBH+(MA)', 2],
           ['year', 1, '2000', 1],
-          ['access_types', 2, 'all', 23]
+          ['organization', 16, 'WGBH+(MA)', 2], # all shown because of tag-ex in catalog_controller
+          ['access_types', 2, PBCore::ALL_ACCESS, 23],
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"
@@ -114,7 +114,7 @@ describe 'Catalog' do
           end
         end
       end
-      
+
       describe 'facets not in sidebar' do
         describe 'state facet' do
           assertions = [
@@ -130,7 +130,24 @@ describe 'Catalog' do
           end
         end
       end
-      
+
+      describe 'facet ORs' do
+        assertions = [
+          ['media_type', 'Sound+OR+Moving+Image', 19],
+          ['media_type', 'Moving+Image+or+Sound', 19]
+        ]
+        assertions.each do |facet, value, value_count|
+          url = "/catalog?f[#{facet}][]=#{value}"
+
+          describe "visiting #{url}" do
+            it "has #{value_count} results" do
+              visit url
+              expect_count(value_count)
+            end
+          end
+        end
+      end
+
       describe 'exhibit facet' do
         describe 'in gallery' do
           it 'has exhibition description' do
