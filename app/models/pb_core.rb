@@ -185,11 +185,13 @@ class PBCore # rubocop:disable Metrics/ClassLength
   PUBLIC_ACCESS = 'public'       # digitized
   PROTECTED_ACCESS = 'protected' # digitized
   PRIVATE_ACCESS = 'private'     # digitized
+  DIGITIZED_ACCESS = 'digitized' # public or protected, but not private
   def access_types
     @access_types ||= [ALL_ACCESS].tap do |types|
       types << PUBLIC_ACCESS if public?
       types << PROTECTED_ACCESS if protected?
       types << PRIVATE_ACCESS if private?
+      types << DIGITIZED_ACCESS if digitized? && !private?
     end
   end
 

@@ -12,11 +12,15 @@
         info: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.'},
       {
         value: PBCore::PROTECTED_ACCESS,
-        title: 'On Location',
-        info: 'All digitized video and audio, including content available online and content which is restricted to viewing only at WGBH and the Library of Congress.'},
+        title: 'Available On Location',
+        info: 'Video and audio restricted to viewing only at WGBH and the Library of Congress.'},
+      {
+        value: PBCore::DIGITIZED_ACCESS,
+        title: 'All Digitized',
+        info: 'All video and audio, available either online, or on location.'},
       {
         value: PBCore::ALL_ACCESS,
-        title: 'All records',
+        title: 'All Records',
         info: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not yet even been digitized.'}
     ].each do |option|
   %>
