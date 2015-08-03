@@ -1,0 +1,16 @@
+<%= render layout: 'shared/carousel', 
+           locals: {
+                    id: 'exhibit-carousel', 
+                    items: Exhibit.all.shuffle,
+                    view_all: 'View All Curated Exhibits',
+                    view_all_href: '/exhibits'
+                   } do |exhibit| %>
+  <a href="<%= "/exhibits/#{exhibit.path}" %>" class="list-group-item" >
+    <img src="<%= exhibit.thumbnail_url %>" title="<%= exhibit.title %>" alt="<%= exhibit.title %>" />
+    <span class="carousel-caption">
+      <h3 class="list-group-item-heading"><%= exhibit.title %></h3>
+      <!--<p class="list-group-item-text">description?</p>-->
+    </span>
+  </a>
+<% end %>
+  

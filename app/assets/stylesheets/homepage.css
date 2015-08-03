@@ -215,6 +215,15 @@
 		#video:after { background-color:rgba(158,32,100,.85); }
 
 
+	/* Home Jumbotron - Curated Exhibits */
+	#exhibits {
+		background-color:rgb(44,42,115);
+		background-image:none;
+	}
+
+		#exhibits:after { background-color:rgba(44,42,115,.85); }
+
+
 
 
 
@@ -312,6 +321,11 @@
 	/* Home Jumbotron - Featured Collections */
 	#staff {
 		background-image:url(/home-bg/home-four.jpg);
+	}
+
+	/* Home Jumbotron - Curated Exhibits */
+	#exhibits {
+		background-image:url(/home-bg/home-three.jpg); 
 	}
 
 
