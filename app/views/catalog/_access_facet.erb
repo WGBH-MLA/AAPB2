@@ -5,38 +5,37 @@
         params.except('action', 'controller', 'f')
       )).to_query
     facet_counts = Hash[display_facet.items.map{|i| [i.value, i.hits]}]
+    [
+      {
+        value: PBCore::PUBLIC_ACCESS,
+        title: 'Available Online',
+        info: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.'},
+      {
+        value: PBCore::PROTECTED_ACCESS,
+        title: 'On Location',
+        info: 'All digitized video and audio, including content available online and content which is restricted to viewing only at WGBH and the Library of Congress.'},
+      {
+        value: PBCore::ALL_ACCESS,
+        title: 'All records',
+        info: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not yet even been digitized.'}
+    ].each do |option|
   %>
-  
-  <li>
-    <span class="facet-label">
-      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::PUBLIC_ACCESS %>" class="facet_select">Available Online</a>
-    </span>
-    <span class="facet-count"><%= facet_counts[PBCore::PUBLIC_ACCESS] || 0 %></span>
-  </li>
-  <li><div class="well well-sm"><small>
-    The default: All video and audio that can be viewed or listened to in the Online Reading Room.
-  </small></div></li>
-  
-  <li>
-    <span class="facet-label">
-      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::PROTECTED_ACCESS %>" class="facet_select">On Location</a>
-    </span>
-    <span class="facet-count"><%= facet_counts[PBCore::PROTECTED_ACCESS] || 0 %></span>
-  </li>
-  <li><div class="well well-sm"><small>
-    All digitized video and audio, including content available online and content 
-    which is restricted to viewing only at WGBH and the Library of Congress.
-  </small></div></li>
-
-  
-  <li>
-    <span class="facet-label">
-      <a href="<%= base_uri %>&amp;f[access_types][]=<%= PBCore::ALL_ACCESS %>" class="facet_select">All records</a>
-    </span>
-    <span class="facet-count"><%= facet_counts[PBCore::ALL_ACCESS] || 0 %></span>
-  </li>
-  <li><div class="well well-sm"><small>
-    All 2.5 million records, including digitized content (online and on-site only), and content that has not yet even been digitized.
-  </small></div></li>
-  
+    <li>
+      <span class="facet-label">
+        <% if params['f']['access_types'] == [option[:value]] %>
+          <span class="selected"><%= option[:title] %></span>
+          <a class="remove">
+            <span class="glyphicon glyphicon-ok"></span>
+            <span class="sr-only">[checked]</span>
+          </a>
+        <% else %>
+          <span class="selected"><a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>" class="facet_select"><%= option[:title] %></a></span>
+        <% end %>
+      </span>
+      <span class="facet-count"><%= facet_counts[option[:value]] || 0 %></span>
+    </li>
+    <li><div class="well well-sm"><small>
+      <%= option[:info] %>
+    </small></div></li>
+  <% end %>
 </ul>
