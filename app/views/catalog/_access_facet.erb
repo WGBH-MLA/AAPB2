@@ -1,7 +1,7 @@
 <ul class="facet-values list-unstyled">
   <% 
     base_uri = '/catalog?' + (
-      {f: params['f'].except('access_types')}.merge(
+      {f: (params['f'].except('access_types') rescue {})}.merge(
         params.except('action', 'controller', 'f')
       )).to_query
     facet_counts = Hash[display_facet.items.map{|i| [i.value, i.hits]}]
@@ -22,7 +22,7 @@
   %>
     <li>
       <span class="facet-label">
-        <% if params['f']['access_types'] == [option[:value]] %>
+        <% if params.try(:[],'f').try(:[],'access_types') == [option[:value]] %>
           <span class="selected"><%= option[:title] %></span>
           <a class="remove">
             <span class="glyphicon glyphicon-ok"></span>
