@@ -548,6 +548,18 @@ hr {
 	border:none;
 }
 
+/* Date range slider */
+
+.slider-handle {
+    background-color: #3c439b !important;
+    background-image: none !important;
+    opacity: 1.0 !important;
+    border-radius: 10px !important;
+}
+
+.slider_js .slider-selection {
+    background-color: #dddddd !important;
+}
 
 
 /* -------------------- */
