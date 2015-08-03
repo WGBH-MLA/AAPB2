@@ -24,25 +24,25 @@ describe CatalogController do
       expect(response).to redirect_to '/catalog'
     end
 
-    it 'not in effect if q filled in' do
-      get 'index', q: 'foo'
+    it 'not in effect if q filled in, and access given' do
+      get 'index', q: 'foo', f: {access_types: PBCore::ALL_ACCESS}
       expect(response.status).to eq 200
       expect(response).not_to redirect_to '/catalog'
     end
 
     it 'not in effect if f filled in' do
-      get 'index', f: { 'year' => 'data' }
+      get 'index', f: { year: 'data', access_types: PBCore::ALL_ACCESS }
       expect(response.status).to eq 200
       expect(response).not_to redirect_to '/catalog'
     end
     
     it 'errors if f is gibberish' do
-      expect { get 'index', f: { 'gibberish' => 'data' } }.to raise_error
+      expect { get 'index', f: { gibberish: 'data', access_types: PBCore::ALL_ACCESS } }.to raise_error
       # TODO: This is the current behavior: do we want something different?
     end
 
     it 'not in effect if sort filled in' do
-      get 'index', sort: 'year asc'
+      get 'index', sort: 'year asc', f: {access_types: PBCore::ALL_ACCESS}
       expect(response.status).to eq 200
       expect(response).not_to redirect_to '/catalog'
     end
