@@ -88,9 +88,10 @@ describe 'Validated and plain PBCore' do
           'asset_type' => 'Album',
           'organization' => 'WGBH (MA)',
           'state' => 'Massachusetts',
-          'access_types' => ['all', 'public'] # TODO: UI will transform internal representation.
+          'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
+            # TODO: UI will transform internal representation.
         },
-        access_types: ['all', 'public'],
+        access_types: [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
         access_level: 'Online Reading Room',
         asset_type: 'Album',
         asset_date: '2000-01-01',

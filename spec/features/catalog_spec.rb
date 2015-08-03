@@ -94,7 +94,7 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 5],
           ['year', 1, '2000', 1],
           ['organization', 16, 'WGBH+(MA)', 2], # all shown because of tag-ex in catalog_controller
-          ['access_types', 3, PBCore::ALL_ACCESS, 23]
+          ['access_types', 4, PBCore::ALL_ACCESS, 23]
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
