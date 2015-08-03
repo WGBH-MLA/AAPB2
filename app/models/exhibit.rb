@@ -12,6 +12,11 @@ class Exhibit < Cmless
   
   attr_reader :head_html
   
+  def self.all_top_level
+    @all_top_level ||=
+      Exhibit.select { |exhibit| !exhibit.path.match(/\//) }
+  end
+  
   def self.exhibits_by_item_id
     @exhibits_by_item_id ||=
       Hash[
