@@ -24,6 +24,11 @@ describe CatalogController do
       expect(response).to redirect_to '/catalog'
     end
 
+    it 'supplies missing parameter' do
+      get 'index', q: 'foo'
+      expect(response).to redirect_to "/catalog?q=foo&f[access_types][]=#{PBCore::PUBLIC_ACCESS}"
+    end
+    
     it 'not in effect if q filled in, and access given' do
       get 'index', q: 'foo', f: {access_types: PBCore::ALL_ACCESS}
       expect(response.status).to eq 200
@@ -31,7 +36,7 @@ describe CatalogController do
     end
 
     it 'not in effect if f filled in' do
-      get 'index', f: { year: 'data', access_types: PBCore::ALL_ACCESS }
+      get 'index', f: { year: 'data', access_types: PBCore::PUBLIC_ACCESS }
       expect(response.status).to eq 200
       expect(response).not_to redirect_to '/catalog'
     end
@@ -42,7 +47,7 @@ describe CatalogController do
     end
 
     it 'not in effect if sort filled in' do
-      get 'index', sort: 'year asc', f: {access_types: PBCore::ALL_ACCESS}
+      get 'index', sort: 'year asc', f: {access_types: PBCore::PUBLIC_ACCESS}
       expect(response.status).to eq 200
       expect(response).not_to redirect_to '/catalog'
     end
