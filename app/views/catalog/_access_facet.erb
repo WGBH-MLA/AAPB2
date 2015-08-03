@@ -1,6 +1,9 @@
 <ul class="facet-values list-unstyled">
   <% 
-    base_uri = '/catalog?' + params.except('action', 'controller').to_query
+    base_uri = '/catalog?' + (
+      {f: params['f'].except('access_types')}.merge(
+        params.except('action', 'controller', 'f')
+      )).to_query
     facet_counts = Hash[display_facet.items.map{|i| [i.value, i.hits]}]
   %>
   
