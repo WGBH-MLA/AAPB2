@@ -2,9 +2,9 @@
   <pbcoreIdentifier source='WNYC Archive Catalog'>72208</pbcoreIdentifier>
   <pbcoreIdentifier source='pbcore XML database UUID'>986dd7a4-fd14-4e51-ab8b-3dbea66fd504</pbcoreIdentifier>
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/80-12893j6c</pbcoreIdentifier>
-  <pbcoreTitle titleType='Episode'>Judd Hirsch</pbcoreTitle>
-  <pbcoreTitle titleType='Series'>This is My Music</pbcoreTitle>
   <pbcoreTitle titleType='Collection'>WQXR</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>This is My Music</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Judd Hirsch</pbcoreTitle>
   <pbcoreDescription>No description available</pbcoreDescription>
   <pbcoreRelation>
     <pbcoreRelationType>Is Part Of</pbcoreRelationType>

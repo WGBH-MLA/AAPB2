@@ -71,7 +71,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
   def title
-    @title ||= titles.reverse.map { |pair| pair.last }.join('; ')
+    @title ||= titles.map { |pair| pair.last }.join('; ')
   end
   def exhibits
     @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.path }

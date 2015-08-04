@@ -1,7 +1,7 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/293-10wpzhr8</pbcoreIdentifier>
-  <pbcoreTitle titleType='Episode'>#508</pbcoreTitle>
   <pbcoreTitle titleType='Series'>Askc: Ask Congress</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>#508</pbcoreTitle>
   <pbcoreDescription>No description available</pbcoreDescription>
   <pbcorePublisher>
     <publisher>IND</publisher>
