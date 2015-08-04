@@ -73,12 +73,13 @@ describe 'Validated and plain PBCore' do
             'Copy Left: All rights reversed.', #
             'Album', 'Uncataloged', '2000-01-01', #
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
-            'Program', 'Gratuitous Explosions', 'Series', 'Nova', '1234', #
+            'Program', 'Gratuitous Explosions', 'Series', 'Nova', # 
+            'Nova; Gratuitous Explosions; Kaboom!; 3-2-1', '1234', #
             'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts', #
             'Moving Image', '1:23:45'],
           'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'Nova'],
-          'title' => 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
+          'title' => 'Nova; Gratuitous Explosions; Kaboom!; 3-2-1',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
           'year' => '2000',
           'exhibits' => [],
@@ -95,10 +96,10 @@ describe 'Validated and plain PBCore' do
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['Uncataloged', '2000-01-01']],
-        titles_sort: 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
+        titles_sort: 'Nova; Gratuitous Explosions; Kaboom!; 3-2-1',
         titles: [['Episode Number', '3-2-1'], ['Episode', 'Kaboom!'], #
                  ['Program', 'Gratuitous Explosions'], ['Series', 'Nova']],
-        title: 'Kaboom!',
+        title: 'Nova; Gratuitous Explosions; Kaboom!; 3-2-1',
         exhibits: [],
         descriptions: ['Best episode ever!'],
         instantiations: [PBCore::Instantiation.new('Moving Image', 'should be ignored!'),
