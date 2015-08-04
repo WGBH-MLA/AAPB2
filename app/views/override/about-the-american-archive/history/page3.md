@@ -26,7 +26,7 @@ Library of Congress, Television and Video Preservation 1997, 1:71.
 <a name="4"></a><sup>4</sup>Ibid.
 
 <a name="5"></a><sup>5</sup>American Television and Radio Archives Act, 2 U.S.C. § 170, 
-<https://www.law.cornell.edu/uscode/text/2/170.> The Library of Congress 
+<https://www.law.cornell.edu/uscode/text/2/170> The Library of Congress 
 already had acquired in 1965 16mm prints of 550 National Educational Television 
 (NET) programs from the Educational Television and Radio Center in Ann Arbor, 
 and in 1975, the Library received 96 additional 16mm NET films from WNET. 

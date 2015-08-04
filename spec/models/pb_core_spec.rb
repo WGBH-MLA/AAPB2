@@ -114,7 +114,7 @@ describe 'Validated and plain PBCore' do
         captions_src: '/captions/1234.txt',
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
-        outside_url: 'http://example.org/outside-video-link',
+        outside_url: 'http://www.wgbh.org/',
         private?: false,
         protected?: false,
         public?: true,
