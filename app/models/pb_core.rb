@@ -5,6 +5,7 @@ require_relative '../../lib/aapb'
 require_relative 'exhibit'
 require_relative '../../lib/html_scrubber'
 require_relative 'xml_backed'
+require_relative 'pb_core_instantiation'
 require_relative 'organization'
 
 class PBCore # rubocop:disable Metrics/ClassLength
@@ -24,22 +25,22 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
   def contributors
     @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do|rexml|
-      NameRoleAffiliation.new(rexml)
+      PBCoreNameRoleAffiliation.new(rexml)
     end
   end
   def creators
     @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map do|rexml|
-      NameRoleAffiliation.new(rexml)
+      PBCoreNameRoleAffiliation.new(rexml)
     end
   end
   def publishers
     @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map do|rexml|
-      NameRoleAffiliation.new(rexml)
+      PBCoreNameRoleAffiliation.new(rexml)
     end
   end
   def instantiations
     @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do|rexml|
-      Instantiation.new(rexml)
+      PBCoreInstantiation.new(rexml)
     end
   end
   def rights_summary
@@ -224,85 +225,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
         end
       ]
     )
-  end
-
-  class Instantiation
-    def initialize(rexml_or_media_type, duration=nil)
-      if duration
-        @media_type = rexml_or_media_type
-        @duration = duration
-      else
-        @rexml = rexml_or_media_type
-      end
-    end
-
-    def ==(other)
-      self.class == other.class &&
-        media_type == other.media_type &&
-        duration == other.duration
-    end
-
-    def media_type
-      @media_type ||= optional('instantiationMediaType')
-    end
-
-    def duration
-      @duration ||= optional('instantiationDuration')
-    end
-
-    private
-
-    def optional(xpath)
-      match = REXML::XPath.match(@rexml, xpath).first
-      match ? match.text : nil
-    end
-  end
-
-  class NameRoleAffiliation
-    def initialize(rexml_or_stem, name=nil, role=nil, affiliation=nil)
-      if name
-        # for testing only
-        @stem = rexml_or_stem
-        @name = name
-        @role = role
-        @affiliation = affiliation
-      else
-        @rexml = rexml_or_stem
-        @stem = @rexml.name.gsub('pbcore', '').downcase
-      end
-    end
-
-    def ==(other)
-      self.class == other.class &&
-        stem == other.stem &&
-        name == other.name &&
-        role == other.role &&
-        affiliation == other.affiliation
-    end
-
-    attr_reader :stem
-
-    def name
-      @name ||= REXML::XPath.match(@rexml, @stem).first.text
-    end
-
-    def role
-      @role ||= begin
-        node = REXML::XPath.match(@rexml, "#{@stem}Role").first
-        node ? node.text : nil
-      end
-    end
-
-    def affiliation
-      @affiliation ||= begin
-        node = REXML::XPath.match(@rexml, "#{@stem}/@affiliation").first
-        node ? node.value : nil
-      end
-    end
-
-    def to_a
-      [name, role, affiliation].select { |x| x }
-    end
   end
 
   private
