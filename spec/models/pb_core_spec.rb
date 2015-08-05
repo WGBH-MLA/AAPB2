@@ -63,6 +63,16 @@ describe 'Validated and plain PBCore' do
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Should not have "Level of User Access" annotation if not digitized/))
       end
+      
+      it 'rejects "Outside URL" if not explicitly ORR' do
+        invalid_pbcore = pbc_xml.gsub( # First make it un-digitized
+          /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
+          '').gsub( # Then remove access
+          /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
+          '')
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/If there is an Outside URL, the record must be explicitly public/))
+      end
     end
   end
 
