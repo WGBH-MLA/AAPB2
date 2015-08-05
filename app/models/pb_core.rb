@@ -182,8 +182,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy')
   end
   ALL_ACCESS = 'all'             # includes non-digitized
-  PUBLIC_ACCESS = 'public'       # digitized
-  PROTECTED_ACCESS = 'protected' # digitized
+  PUBLIC_ACCESS = 'online'       # digitized
+  PROTECTED_ACCESS = 'on-location' # digitized
   PRIVATE_ACCESS = 'private'     # digitized
   DIGITIZED_ACCESS = 'digitized' # public or protected, but not private
   def access_types
