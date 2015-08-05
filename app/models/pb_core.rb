@@ -123,13 +123,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name) ||
                       fail("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
   end
-
   def outside_url
     @outside_url ||= xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]')
   rescue NoMatchError
     nil
   end
-
   def access_level
     @access_level ||= begin
       access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
