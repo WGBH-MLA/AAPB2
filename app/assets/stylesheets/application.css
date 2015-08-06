@@ -32,6 +32,14 @@
  }
 
 
+ 	/* Image Circle style - using for profile pics */
+	.img-circle {
+	  -webkit-border-radius:50%!important; 
+	  -moz-border-radius:50%!important; 
+	 	border-radius:50%!important;
+	}
+
+
 
 /*
  * HEADER STYLES
@@ -686,6 +694,53 @@ hr {
 }
 
 
+
+/* EXHIBITS STYLES --------- */
+
+/* ---------- */
+/* BREADCRUMBS ---------- */
+/* ---------- */
+.breadcrumb {
+	background-color:transparent;
+	border-bottom:1px solid #F5F5F5;
+	margin-top:0;
+}
+
+
+
+
+/*Featured Curated Image*/
+.curated-featured-image {
+	margin: 0 2em 1em 0;
+	width:100%;
+}
+
+/* TYPOGRAPHY */
+.curated-author h4,
+.curated-author p {
+	margin:0;
+}
+
+	.curated-author h4 {
+		margin:.25em 0;
+	}
+
+
+	/* Featured Exhibit BUtton */
+	.btn-featured-record:link,
+	.btn-featured-record:visited,
+	.btn-featured-record:active {
+		background: url(/site-ui/aapb-site-sprite.png) no-repeat -240px -675px;
+    background-color: #2b2a72;
+    color: #FFFFFF;
+    display: block;
+    padding: 1em;
+	}
+
+		.btn-featured-record:hover {
+	    background-color: #454ea0;
+		}
+
 /* ------------------------------------------------------------ */
 /* BREAKPOINTS ---------------------------------------- */
 /* ------------------------------------------------------------ */
@@ -814,6 +869,14 @@ hr {
 
 	.column .navbar-nav > li {
 	  float: none;
+	}
+
+
+	/* EXHIBITS STYLES --------- */
+
+	/*Featured Curated Image*/
+	.curated-featured-image {
+		width:45%;
 	}
 
 
@@ -1103,3 +1166,29 @@ hr {
 	}
 * html .clearfix             { zoom: 1; } /* IE6 */
 *:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Narrative SLider*/
+#slider .slide {
+  background-color:#F0F0F0;
+  border-bottom:5px solid #666;
+}
+
+
+/*USER AVATER*/
+img.avatar    {
+	width: 150px;
+  float: left;
+  margin: 0 1em 1em 0;
+}

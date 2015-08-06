@@ -15,6 +15,7 @@ system.
 Karen's current favorite AAPB collection item is ["Beekeeping" from 
 WCTE](/catalog/cpb-aacip_23-12m640f2).
 
+<img class="img-circle img-responsive avatar" alt="Responsive image" src="http://localhost:3000/thumbs/audio-digitized.jpg">
 **Alan Gevinson, Project Director**<br/>
 **Library of Congress**<br/>
 Alan is the Special Assistant to the Chief of the National Audio-Visual 
@@ -35,6 +36,8 @@ Sound: An Illustrated Guide (2002).
 Alan's current favorite AAPB collection item is ["Promise City" from Iowa 
 Public Television](/catalog/cpb-aacip_37-010p2nvv).
 
+
+<img class="img-circle img-responsive avatar" alt="Responsive image" src="http://localhost:3000/thumbs/audio-digitized.jpg">
 **Casey E. Davis, Project Manager**<br/>
 **WGBH**<br/>
 Casey manages the day-to-day activities of the AAPB, including outreach, 
@@ -55,6 +58,7 @@ Louisiana State University.
 Casey's current favorite AAPB collection item is ["Charlie Pride" from 
 Mississippi Public Broadcasting](/catalog/cpb-aacip_60-39k3jfc6).
 
+<img class="img-circle img-responsive avatar" alt="Responsive image" src="http://localhost:3000/thumbs/audio-digitized.jpg">
 **Lauren Sorensen, Digital Conversion Specialist**<br/>
 **Library of Congress**<br/>
 An audiovisual archivist & conservator interested in digital preservation, 
