@@ -1,7 +1,31 @@
 <% content_for :sidebar do %>
   <%= render partial: 'sidebar_search' %>
 
-  <!-- EXHIBIT CODE REMOVED FROM HERE AS IT WAS BREAKING THE PAGE -->
+  <!-- THIS CODE WAS BREAKING THE PAGE -->
+
+  <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
+    <%# Copy-and-paste from the normal facet, but had to replace the internals. %>
+    <div class="panel panel-default facet_limit blacklight-media_type ">
+      <div class="collapse-toggle panel-heading">
+        <h5 class="panel-title facet-field-heading">
+          <%= name %>
+        </h5>
+      </div>
+      <div class="panel-collapse facet-content collapse in">
+        <div class="panel-body">
+          <ul class="facet-values list-unstyled">
+            <% list.each_slice(2) do |value,count| %>
+              <li>
+                <span class="facet-label">
+                  <a href="/catalog?f[exhibits][]=<%= @exhibit.path %>&amp;f[<%= name %>][]=<%= value %>" class="facet_select">Moving Image</a></span>
+                <span class="facet-count"><%= count %></span>
+              </li>
+            <% end %>
+          </ul>
+        </div>
+      </div>
+    </div>
+  <% end %>
 
   <img src="<%= @exhibit.thumbnail_url %>"/>
   <br/><br/><%# TODO: CSS to establish spacing. %>
@@ -17,7 +41,8 @@
       <div class="row curated-author">
 
         <div class="col-xs-4 col-sm-3 col-md-4">
-          <img class="img-circle img-responsive" alt="Responsive image" src="http://localhost:3000/thumbs/audio-digitized.jpg">
+          <img class="img-circle img-responsive" alt="Author Name" src="http://localhost:3000/thumbs/audio-digitized.jpg">
+
         </div>
 
         <div class="col-xs-8 col-sm-8 col-md-8">
@@ -61,8 +86,7 @@
     <li class="active">Page Title</li>
   </ol>
   
-
-  <img class="pull-left img-thumbnail curated-featured-image" alt="Responsive image" src="http://americanarchive.org.s3.amazonaws.com/featured/cpb-aacip_17-386hfkfs_gallery.jpg">
+  <img class="pull-left img-thumbnail curated-featured-image" alt="Exhibit Title" title="Exhibit Title" src="<%= @exhibit.thumbnail_url %>"/>
 
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at lectus orci. Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. Morbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. Praesent imperdiet ligula eu lacinia volutpat.
