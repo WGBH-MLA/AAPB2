@@ -127,7 +127,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
 
   def outside_url
-    @outside_url ||= xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]')
+    @outside_url ||= begin
+      xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]').tap do |url|
+        fail('If there is an Outside URL, the record must be explicitly public') unless public?
+      end
+    end
   rescue NoMatchError
     nil
   end

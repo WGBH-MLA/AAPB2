@@ -39,6 +39,40 @@ describe 'Validated and plain PBCore' do
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Unexpected media types: \["unexpected"\]/))
       end
+      
+      it 'rejects multi "Level of User Access"' do
+        invalid_pbcore = pbc_xml.sub(
+          /<pbcoreAnnotation/,
+          "<pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation><pbcoreAnnotation")
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Should have at most 1 "Level of User Access" annotation/))
+      end
+      
+      it 'rejects digitized w/o "Level of User Access"' do
+        invalid_pbcore = pbc_xml.gsub(
+          /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
+          '')
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Should have "Level of User Access" annotation if digitized/))
+      end
+      
+      it 'rejects undigitized w/ "Level of User Access"' do
+        invalid_pbcore = pbc_xml.gsub(
+          /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
+          '')
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Should not have "Level of User Access" annotation if not digitized/))
+      end
+      
+      it 'rejects "Outside URL" if not explicitly ORR' do
+        invalid_pbcore = pbc_xml.gsub( # First make it un-digitized
+          /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
+          '').gsub( # Then remove access
+          /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
+          '')
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/If there is an Outside URL, the record must be explicitly public/))
+      end
     end
   end
 
