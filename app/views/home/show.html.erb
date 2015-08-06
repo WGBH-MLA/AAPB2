@@ -59,24 +59,27 @@
 </div>
 <!-- END Contributing Stations -->
 
-<!-- Exhibits
-<div class="jumbotron home-jumbotron" id="exhibits">
-  <div class="container">
-    
-    <div class="well intro-text">
-      <h1>Curated Exhibits</h1>
-    </div>
-    
-    <%#= render partial: 'shared/exhibit_carousel', locals: { gallery: 'home' } %>
-
-  </div>
-</div>
-END Exhibits -->
-
 <!-- Browse -->
 <div class="jumbotron home-jumbotron" id="browse">
   <div class="container">
+
+    <div class="well intro-text">
+      <h1>Browse the Collection</h1>
+    </div>
     
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        
+        <form class="browse-form">
+          <div class="input-group input-group-lg">
+            <span class="input-group-addon">I'm looking for</span>
+            <input type="text" id="browse-search" placeholder="Type Here" class="form-control search-box">
+            <span class="list-count input-group-addon"></span>
+          </div>
+        </form>
+      </div>
+    </div>
+
     <%= render partial: 'home/browse_list'  %>
 
   </div>

@@ -1,42 +1,38 @@
-<div class="well intro-text">
-  <h1>Browse the Collection</h1>
-</div>
+<div class="row browsable">
+  <%# TODO: Better CSS. Don't want big breaks in narrow layout. %>
+  <h2>Oh No, We Couldn't Find That!</h2>
+  <div class="col-sm-6 col-md-3">
+    <ul class="list-unstyled">
+      <% VocabMap.for('genre').authorized_names.sort.each do |genre| %>
+        <li><a href="/catalog?<%= {
+                'f[access_types][]' => PBCore::PUBLIC_ACCESS,
+                'f[genres][]' => genre
+        }.to_query %>"><%= genre %></a></li>
+      <% end %>
+    </ul>
+  </div>
+  
+  <% VocabMap.for('topic').authorized_names.sort.in_groups(3,false).tap do |groups|
+    # ad-hoc shuffling to make up for title.
+    2.times { groups[1].unshift(groups[0].pop) }
+    2.times { groups[2].unshift(groups[1].pop) }
+    groups.each_with_index do |group, i| %>
 
-<div class="container">
-  <div id="welcome-panel" class="row">
-    <%# TODO: Better CSS. Don't want big breaks in narrow layout. %>
-    
-    <div class="col-md-3 column" style="padding: 0 2em;">
-      <menu>Genre</menu>
-      <ul>
-        <% VocabMap.for('genre').authorized_names.sort.each do |genre| %>
+    <% if i == 1 %>
+      <!-- Optional: clear the XS cols if their content doesn't match in height -->
+      <div class="clearfix visible-sm-block"></div>
+    <% end %>
+
+    <div class="col-sm-6 col-md-3">
+      <ul class="list-unstyled">
+        <% group.each do |topic| %>
           <li><a href="/catalog?<%= {
-                  'f[access_types][]' => PBCore::PUBLIC_ACCESS,
-                  'f[genres][]' => genre
-          }.to_query %>"><%= genre %></a></li>
+                'f[access_types][]' => PBCore::PUBLIC_ACCESS,
+                'f[topics][]' => topic
+        }.to_query %>"><%= topic %></a></li>
         <% end %>
       </ul>
     </div>
-    
-    <% VocabMap.for('topic').authorized_names.sort.in_groups(3,false).tap do |groups|
-      # ad-hoc shuffling to make up for title.
-      2.times { groups[1].unshift(groups[0].pop) }
-      2.times { groups[2].unshift(groups[1].pop) }
-      groups.each_with_index do |group, i| %>
-      <div class="col-md-3 column" style="padding: 0 2em;">
-        <% if i == 0 %>
-          <menu>Topic</menu>
-        <% end %>
-        <ul>
-          <% group.each do |topic| %>
-            <li><a href="/catalog?<%= {
-                  'f[access_types][]' => PBCore::PUBLIC_ACCESS,
-                  'f[topics][]' => topic
-          }.to_query %>"><%= topic %></a></li>
-          <% end %>
-        </ul>
-      </div>
-    <% end end %>
-    
-  </div>
+  <% end end %>
+  
 </div>

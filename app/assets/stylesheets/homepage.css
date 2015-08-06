@@ -154,7 +154,8 @@
 	overflow:hidden;
 }
 
-	.home-jumbotron .container {
+	.home-jumbotron .container,
+	.home-jumbotron .container-fluid {
 		position:relative;
 		z-index:2;
 	}
@@ -165,6 +166,7 @@
 	/* Info on this technique can be found here - http://css-tricks.com/snippets/css/transparent-background-images/ */
 	.home-jumbotron:after {
 		content: "";
+		height: 100%;
 		left:0;
 		min-height:75em;
 		position:absolute;
@@ -225,8 +227,58 @@
 
 
 
+/* Browse THe Collection --------- */
+
+	/* The Form */
+	.browse-form .input-group-addon {
+		background-color:rgba(0,0,0,.1);
+		border:none;
+		color:#FFF;
+	}
+
+	.browse-form .search-box {
+		background-color:rgba(0,0,0,.3);
+		border:none;
+		color:#FFF;
+	}
+
+		.browse-form .form-control::-webkit-input-placeholder {
+		   color:#FFF;
+		}
+
+		.browse-form .form-control:-moz-placeholder { /* Firefox 18- */
+		   color:#FFF; 
+		}
+
+		.browse-form .form-control::-moz-placeholder {  /* Firefox 19+ */
+		   color:#FFF;
+		}
+
+		.browse-form .form-control:-ms-input-placeholder {  
+		   color:#FFF;
+		}
 
 
+
+		/*First Try*/
+		.browsable ul a {
+			background-color:rgba(255,255,255,.25);
+		  color:#FFF;
+		  display:block;
+		  margin:0 0 1px;
+		  padding:.5em;
+		}
+
+
+		.browsable h2 {
+			color:#FFF;
+		  display:none;
+		  text-align:center;
+		}
+
+		.browsable.empty h2 {
+		  display:block;
+		}
 
 
 /* -------------------- */
@@ -284,6 +336,19 @@
 
 /* Desktop ---------- */
 @media (min-width: 992px) {
+
+
+	/*Browse THe Collection*/
+	.browsable ul a {
+  	transition: all .1s ease-in-out;
+	}
+
+	/*Browse THe Collection*/
+	.browsable ul a:hover {
+  	background-color:rgba(255,255,255,.1);
+  	text-decoration:none;
+  	transform: scale(1.2);
+	}
 
 
 
