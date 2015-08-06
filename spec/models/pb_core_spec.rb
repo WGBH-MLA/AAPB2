@@ -137,8 +137,8 @@ describe 'Validated and plain PBCore' do
         title: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
         exhibits: [],
         descriptions: ['Best episode ever!'],
-        instantiations: [PBCore::Instantiation.new('Moving Image', 'should be ignored!'),
-                         PBCore::Instantiation.new('Moving Image', '1:23:45')],
+        instantiations: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
+                         PBCoreInstantiation.new('Moving Image', '1:23:45')],
         rights_summary: 'Copy Left: All rights reversed.',
         genres: ['Call-in'],
         topics: ['Music'],
@@ -160,9 +160,9 @@ describe 'Validated and plain PBCore' do
         duration: '1:23:45',
         digitized?: true,
         subjects: ['explosions -- gratuitious', 'musicals -- horror'],
-        creators: [PBCore::NameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
-        contributors: [PBCore::NameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
-        publishers: [PBCore::NameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
+        creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
+        contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
+        publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
       }
 
       assertions.each do |method, value|
