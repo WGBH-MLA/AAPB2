@@ -72,7 +72,8 @@ class CatalogController < ApplicationController
                            tag: 'org', ex: 'org'
                            # Display all, even when one is selected.
     config.add_facet_field 'year', sort: 'index', range: true
-    config.add_facet_field 'access_types', label: 'Access'
+    config.add_facet_field 'access_types', label: 'Access', partial: 'access_facet', 
+      tag: 'access', ex: 'access', collapse: false
 
     VocabMap.for('title').authorized_names.each do|name|
       config.add_facet_field "#{name.downcase.gsub(/\s/, '_')}_titles", show: false, label: name
@@ -144,9 +145,13 @@ class CatalogController < ApplicationController
   def index
     actual_params = params.keys - ['action', 'controller']
     if !actual_params.empty? &&
-       params.except('action', 'controller', 'utf8', 'search_field')
-       .select { |_key, value| !value.empty? }.empty?
+        params.except(:action, :controller, :utf8, :search_field)
+          .select { |_key, value| !value.empty? }.empty?
+        # TODO: should a bare "f[access_types][]" send you back to advanced?
       redirect_to '/catalog'
+    elsif !actual_params.empty? && (!params[:f] || !params[:f][:access_types])
+      # missing access_types:
+      redirect_to "/catalog?#{params.except(:action, :controller).to_query}&f[access_types][]=#{PBCore::PUBLIC_ACCESS}"
     else
       super
     end

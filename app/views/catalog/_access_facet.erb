@@ -1,0 +1,45 @@
+<ul class="facet-values list-unstyled">
+  <% 
+    base_uri = '/catalog?' + (
+      {f: (params['f'].except('access_types') rescue {})}.merge(
+        params.except('action', 'controller', 'f')
+      )).to_query
+    facet_counts = Hash[display_facet.items.map{|i| [i.value, i.hits]}]
+    [
+      {
+        value: PBCore::PUBLIC_ACCESS,
+        title: 'Available Online',
+        info: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.'},
+      {
+        value: PBCore::PROTECTED_ACCESS,
+        title: 'Available On Location',
+        info: 'Video and audio restricted to viewing only at WGBH and the Library of Congress.'},
+      {
+        value: PBCore::DIGITIZED_ACCESS,
+        title: 'All Digitized',
+        info: 'All video and audio, available either online, or on location.'},
+      {
+        value: PBCore::ALL_ACCESS,
+        title: 'All Records',
+        info: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not yet even been digitized.'}
+    ].each do |option|
+  %>
+    <li>
+      <span class="facet-label">
+        <% if params.try(:[],'f').try(:[],'access_types') == [option[:value]] %>
+          <span class="selected"><%= option[:title] %></span>
+          <a class="remove">
+            <span class="glyphicon glyphicon-ok"></span>
+            <span class="sr-only">[checked]</span>
+          </a>
+        <% else %>
+          <span class="selected"><a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>" class="facet_select"><%= option[:title] %></a></span>
+        <% end %>
+      </span>
+      <span class="facet-count"><%= facet_counts[option[:value]] || 0 %></span>
+    </li>
+    <li><div class="well well-sm"><small>
+      <%= option[:info] %>
+    </small></div></li>
+  <% end %>
+</ul>
