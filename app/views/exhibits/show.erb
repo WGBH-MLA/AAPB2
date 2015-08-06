@@ -2,8 +2,7 @@
   <%= render partial: 'sidebar_search' %>
 
   <!-- THIS CODE WAS BREAKING THE PAGE -->
-
-  <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
+   <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
     <%# Copy-and-paste from the normal facet, but had to replace the internals. %>
     <div class="panel panel-default facet_limit blacklight-media_type ">
       <div class="collapse-toggle panel-heading">
@@ -26,6 +25,7 @@
       </div>
     </div>
   <% end %>
+  
 
   <img src="<%= @exhibit.thumbnail_url %>"/>
   <br/><br/><%# TODO: CSS to establish spacing. %>
