@@ -6,22 +6,22 @@
 # Final line is a fall-through.
 
 !omap
-  album: Album
-  b roll: Raw Footage
-  b-roll: Raw Footage
-  element: Raw Footage
-  field tape: Raw Footage
-  raw: Raw Footage
-  promo: Promo
-  trailer: Promo
-  advertis: Promo
-  clip: Clip
-  number: Episode Number
-  episode: Episode
-  epospde: Episode
-  segment: Segment
-  program: Program
-  series: Series
-  collection: Collection
   label: Label
+  collection: Collection
+  series: Series
+  program: Program
+  segment: Segment
+  number: Episode Number
+  epospde: Episode
+  episode: Episode
+  clip: Clip
+  advertis: Promo
+  trailer: Promo
+  promo: Promo
+  raw: Raw Footage
+  field tape: Raw Footage
+  element: Raw Footage
+  b-roll: Raw Footage
+  b roll: Raw Footage
+  album: Album
   '': Uncataloged

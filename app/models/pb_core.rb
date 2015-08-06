@@ -64,14 +64,14 @@ class PBCore # rubocop:disable Metrics/ClassLength
     nil
   end
   def titles_sort
-    @titles_sort ||= titles.reverse.map { |pair| pair.last }.join(' -- ')
+    # TODO: If title is stable, remove this. https://github.com/WGBH/AAPB2/issues/569
+    @titles_sort ||= title
   end
   def titles
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
   def title
-    @title ||= xpaths('/*/pbcoreTitle[@titleType!="Episode Number"]').first ||
-               xpaths('/*/pbcoreTitle').first # There are records that only have "Episode Number"
+    @title ||= titles.map { |pair| pair.last }.join('; ')
   end
   def exhibits
     @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.path }
