@@ -3,10 +3,10 @@
     <!-- By Theshibboleth [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons -->
     <style type="text/css">
         .state,.territory,.city { fill:#E0E0E0; stroke:#646464; stroke-width:1.5; stroke-opacity:1; } 
-        a .state:hover,.territory:hover { fill:#ef3f37 }
         
-        a .city:hover { fill:#3c439b }
-
+        .city:hover { fill:#3c439b }
+        .state:hover,.territory:hover { fill:#ef3f37 }
+        
         .border { opacity:1; fill:none; stroke:#A9A9A9; stroke-width:2; } 
     </style>
     <a xlink:href="#Hawaii">
@@ -95,8 +95,7 @@
     </a>
     <a xlink:href="#DC">
         <title>Washington, D.C.</title>
-        <!--<path class="state dc" id="DC" d="m 805.81,250.84 -1.85,-1.82 -1.23,-0.68 1.44,-2.02 2.88,1.94 -1.24,2.58 z" />-->
-        <circle class="state city dc" cx="805.81" cy="250.84" r="10" />
+        <path class="state dc" id="DC" d="m 805.81,250.84 -1.85,-1.82 -1.23,-0.68 1.44,-2.02 2.88,1.94 -1.24,2.58 z" />
     </a>
     <a xlink:href="#Maryland">
         <title>Maryland</title>
@@ -237,18 +236,140 @@
     <path class="border" d="M 211,493 V 548 L 247,593 M 0,425 H 144 L 211,493 H 297 L 350,547 V 593" />
     <path class="border" d="M 559.77,593 L 559.77,515.66 L 682.01,515.66 L 682.01,593 M 632.77,515.66 L 632.77,593 M 559.77,557.52 L 682.01,557.52M 597.89,556.61 L 597.89,593.73" />
     
-    
-    <path class='border' d='M 78,131.6 178,153.65 278,169.4 378,178.85 478,182 578,178.85 678,169.4 778,153.65 878,131.6'/>
-    <path class='border' d='M 78,274.6 178,296.65 278,312.4 378,321.85 478,325 578,321.85 678,312.4 778,296.65 878,274.6'/>
-    
-    
-    <path class='border' d='M 720.48,100 737.8,200 755.12,300 772.44,400'/>    
-    <path class='border' d='M 212,100 193,200 174,300 155,400'/>
+    <a xlink:href='#Alaska'><title>Dillingham, AK: KDLG</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Alaska'><title>Bethel, AK: KYUK</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Alaska'><title>Anchorage, AK: KAKM Alaska Public Media + Koahnic Broadcast Corporation</title><circle class='city' cx='-53.05768690762295' cy='-346.45927667383637' r='10' /></a>
+    <a xlink:href='#Alaska'><title>Unalaska, AK: KUCB</title><circle class='city' cx='-327.7266251956155' cy='-311.3810927694906' r='10' /></a>
+    <a xlink:href='#Alaska'><title>Sitka, AK: KCAW</title><circle class='city' cx='31.252125577644165' cy='-208.84328672059883' r='10' /></a>
+    <a xlink:href='#Arizona'><title>Tucson, AZ: KXCI Community Radio</title><circle class='city' cx='212.15260751627306' cy='404.46283714696983' r='10' /></a>
+    <a xlink:href='#Arkansas'><title>Conway, AR: Arkansas Educational TV Network</title><circle class='city' cx='546.2711485390082' cy='357.79121762308023' r='10' /></a>
+    <a xlink:href='#California'><title>Eureka, CA: KEET</title><circle class='city' cx='28.83029385035252' cy='174.92515513734043' r='10' /></a>
+    <a xlink:href='#California'><title>San Bernardino, CA: KVCR</title><circle class='city' cx='102.83364781099493' cy='344.4623899416806' r='10' /></a>
+    <a xlink:href='#California'><title>Costa Mesa, CA: PBS SoCaL</title><circle class='city' cx='90.00034996650646' cy='352.75271554281517' r='10' /></a>
+    <a xlink:href='#California'><title>Los Angeles, CA: KUSC</title><circle class='city' cx='83.01101346328062' cy='340.7304999196956' r='10' /></a>
+    <a xlink:href='#California'><title>North Hollywood, CA: Pacifica Radio Archives</title><circle class='city' cx='84.50515589157158' cy='339.2989689128283' r='10' /></a>
+    <a xlink:href='#California'><title>Santa Cruz, CA: KUSP</title><circle class='city' cx='39.13362709486506' cy='264.64499975027366' r='10' /></a>
+    <a xlink:href='#California'><title>Fresno, CA: Radio Bilingue</title><circle class='city' cx='73.88347660320318' cy='278.13750039201796' r='10' /></a>
+    <a xlink:href='#California'><title>Sacramento, CA: KVIE</title><circle class='city' cx='58.753698522067' cy='232.6990758399047' r='10' /></a>
+    <a xlink:href='#California'><title>Rohnert Park, CA: KRCB</title><circle class='city' cx='35.86547348777498' cy='232.8698121220575' r='10' /></a>
+    <a xlink:href='#California'><title>San Francisco, CA: KQED</title><circle class='city' cx='36.52752013232487' cy='247.52449628480895' r='10' /></a>
+    <a xlink:href='#Colorado'><title>Boulder, CO: KGNU</title><circle class='city' cx='329.0821317735032' cy='241.1228102350667' r='10' /></a>
+    <a xlink:href='#Colorado'><title>Denver, CO: Rocky Mountain PBS + KUVO + Colorado Public Television</title><circle class='city' cx='337.1237229608531' cy='247.6121733501484' r='10' /></a>
+    <a xlink:href='#Connecticut'><title>Hartford, CT: Connecticut Public Broadcasting Network</title><circle class='city' cx='854.2340711927241' cy='169.35371627467885' r='10' /></a>
+    <a xlink:href='#DC'><title>Washington, DC: WHUT</title><circle class='city' cx='800.3306733578618' cy='247.0819053288751' r='10' /></a>
+    <a xlink:href='#Florida'><title>Tampa, FL: WUSF + WEDU</title><circle class='city' cx='745.2817850361405' cy='499.09193426106367' r='10' /></a>
+    <a xlink:href='#Florida'><title>Jacksonville, FL: WJCT</title><circle class='city' cx='753.3683007004362' cy='453.1192977406524' r='10' /></a>
+    <a xlink:href='#Florida'><title>Fort Myers, FL: WGCU Public Media</title><circle class='city' cx='759.159135389484' cy='529.1349123764751' r='10' /></a>
+    <a xlink:href='#Florida'><title>Miami, FL: WPBT2</title><circle class='city' cx='789.9287366147558' cy='548.4766706517253' r='10' /></a>
+    <a xlink:href='#Florida'><title>Gainesville, FL: WUFT</title><circle class='city' cx='741.111854489651' cy='464.9681637916335' r='10' /></a>
+    <a xlink:href='#Georgia'><title>Atlanta, GA: Public Broadcasting Atlanta</title><circle class='city' cx='693.6669382404721' cy='373.2901295775853' r='10' /></a>
+    <a xlink:href='#Guam'><title>Mangilao, GU: PBS Guam</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Hawaii'><title>Honolulu, HI: PBS Hawaii</title><circle class='city' cx='-694.1729659888722' cy='305.834516253989' r='10' /></a>
+    <a xlink:href='#Idaho'><title>Boise, ID: Idaho Public Television</title><circle class='city' cx='169.31839699456037' cy='139.8749520108761' r='10' /></a>
+    <a xlink:href='#Illinois'><title>Carbondale, IL: WSIU</title><circle class='city' cx='598.8166932682614' cy='295.7852363156412' r='10' /></a>
+    <a xlink:href='#Illinois'><title>Urbana, IL: WILL Illinois Public Media</title><circle class='city' cx='611.4307805408379' cy='240.95426277887123' r='10' /></a>
+    <a xlink:href='#Illinois'><title>Chicago, IL: WYCC PBS Chicago + WBEZ</title><circle class='city' cx='616.8591962884223' cy='200.5004964141915' r='10' /></a>
+    <a xlink:href='#Indiana'><title>Indianapolis, IN: WFYI</title><circle class='city' cx='646.0542497395174' cy='246.56787397871813' r='10' /></a>
+    <a xlink:href='#Indiana'><title>Bloomington, IN: WTIU + WFIU</title><circle class='city' cx='640.4207067552836' cy='259.40031151431003' r='10' /></a>
+    <a xlink:href='#Iowa'><title>Johnston, IA: Iowa Public Television</title><circle class='city' cx='519.6023338867271' cy='209.8352353240084' r='10' /></a>
+    <a xlink:href='#Iowa'><title>Des Moines, IA: Iowa Public Radio</title><circle class='city' cx='520.3434401713281' cy='212.6486819525196' r='10' /></a>
+    <a xlink:href='#Kentucky'><title>Lexington, KY: KET - Kentucky Educational Television</title><circle class='city' cx='678.7628552636066' cy='283.1883252809239' r='10' /></a>
+    <a xlink:href='#Kentucky'><title>Whitesburg, KY: Appalshop, Inc.</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Louisiana'><title>Baton Rouge, LA: Louisiana Public Broadcasting</title><circle class='city' cx='573.8766676214739' cy='462.8860190051669' r='10' /></a>
+    <a xlink:href='#Louisiana'><title>New Orleans, LA: WWOZ</title><circle class='city' cx='596.5084289491986' cy='472.17049400349015' r='10' /></a>
+    <a xlink:href='#Maine'><title>Lewiston, ME: Maine Public Broadcasting Network</title><circle class='city' cx='877.3771442927773' cy='110.94443523463201' r='10' /></a>
+    <a xlink:href='#Maine'><title>East Orland, ME: WERU Community Radio</title><circle class='city' cx='896.078951113697' cy='95.54419768476657' r='10' /></a>
+    <a xlink:href='#Maryland'><title>Owings Mills, MD: Maryland Public Television</title><circle class='city' cx='801.4582479414712' cy='233.47377043982533' r='10' /></a>
+    <a xlink:href='#Maryland'><title>College Park, MD: University of Maryland</title><circle class='city' cx='800.9926564440856' cy='243.38752541773806' r='10' /></a>
+    <a xlink:href='#Massachusetts'><title>Springfield, MA: WGBY</title><circle class='city' cx='855.1458319140709' cy='161.42492751507234' r='10' /></a>
+    <a xlink:href='#Massachusetts'><title>Amherst, MA: New England Public Radio</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Massachusetts'><title>Boston, MA: WUMB + WGBH</title><circle class='city' cx='875.0923717230634' cy='151.92621188729095' r='10' /></a>
+    <a xlink:href='#Michigan'><title>Twin Lake, MI: Blue Lake Public Radio</title><circle class='city' cx='636.7958198579721' cy='165.8647775894301' r='10' /></a>
+    <a xlink:href='#Michigan'><title>Grand Rapids, MI: WGVU Public TV and Radio</title><circle class='city' cx='647.5399247069222' cy='174.26651421453607' r='10' /></a>
+    <a xlink:href='#Michigan'><title>Interlochen, MI: WIAA</title><circle class='city' cx='638.8789207004202' cy='136.00943137829097' r='10' /></a>
+    <a xlink:href='#Michigan'><title>East Lansing, MI: WKAR</title><circle class='city' cx='664.9501008199469' cy='176.8700608430761' r='10' /></a>
+    <a xlink:href='#Michigan'><title>Wixom, MI: Detroit Public Television</title><circle class='city' cx='680.5306394841705' cy='179.86670932503307' r='10' /></a>
+    <a xlink:href='#Minnesota'><title>Appleton, MN: Pioneer Public Television</title><circle class='city' cx='482.423906941053' cy='130.56385328698912' r='10' /></a>
+    <a xlink:href='#Minnesota'><title>St. Paul, MN: Minnesota Public Radio + Twin Cities Public Television</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Minnesota'><title>Grand Marais, MN: WTIP</title><circle class='city' cx='564.4809309027415' cy='70.50671848081856' r='10' /></a>
+    <a xlink:href='#Mississippi'><title>Jackson, MS: Mississippi Public Broadcasting</title><circle class='city' cx='589.7333858451653' cy='418.713063504307' r='10' /></a>
+    <a xlink:href='#Missouri'><title>St. Louis, MO: The Nine Network of Public Media + Film and Media Archive, Washington University in St. Louis</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Missouri'><title>Kansas City, MO: KCPT</title><circle class='city' cx='508.28873635003885' cy='263.3646118595698' r='10' /></a>
+    <a xlink:href='#Missouri'><title>Warrensburg, MO: KMOS</title><circle class='city' cx='520.9733992476342' cy='275.3854163177177' r='10' /></a>
+    <a xlink:href='#Missouri'><title>Springfield, MO: Ozarks Public Television</title><circle class='city' cx='529.5137389861048' cy='312.4862504076075' r='10' /></a>
+    <a xlink:href='#Montana'><title>Bozeman, MT: KGLT</title><circle class='city' cx='256.06736312900534' cy='105.86822654951914' r='10' /></a>
+    <a xlink:href='#Nevada'><title>Las Vegas, NV: Vegas PBS</title><circle class='city' cx='147.57209526497724' cy='305.02383079277774' r='10' /></a>
+    <a xlink:href='#New Hampshire'><title>Concord, NH: New Hampshire Public Radio</title><circle class='city' cx='863.0787713669557' cy='134.47032621157155' r='10' /></a>
+    <a xlink:href='#New Hampshire'><title>Durham, NH: New Hampshire Public Television</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#New Jersey'><title>Jersey City, NJ: WFMU</title><circle class='city' cx='838.7694800156196' cy='196.693836069986' r='10' /></a>
+    <a xlink:href='#New Jersey'><title>Trenton, NJ: New Jersey Network</title><circle class='city' cx='829.8929468801754' cy='209.45103519529448' r='10' /></a>
+    <a xlink:href='#New Mexico'><title>Albuquerque, NM: KUNM + New Mexico PBS</title><circle class='city' cx='296.3782625698142' cy='350.64271190897057' r='10' /></a>
+    <a xlink:href='#New York'><title>Vestal, NY: WSKG Public Broadcasting</title><circle class='city' cx='800.5782534560706' cy='173.03724958296425' r='10' /></a>
+    <a xlink:href='#New York'><title>Watertown, NY: WPBS</title><circle class='city' cx='792.2442422113502' cy='131.08377502663075' r='10' /></a>
+    <a xlink:href='#New York'><title>Buffalo, NY: WNED</title><circle class='city' cx='752.1361730654248' cy='160.5387676042276' r='10' /></a>
+    <a xlink:href='#New York'><title>New York, NY: Thirteen WNET + WNYC</title><circle class='city' cx='839.3161526909219' cy='197.0865760030772' r='10' /></a>
+    <a xlink:href='#New York'><title>Rochester, NY: WXXI Public Broadcasting</title><circle class='city' cx='768.6802438610632' cy='152.4875181969694' r='10' /></a>
+    <a xlink:href='#New York'><title>Plattsburgh, NY: Mountain Lake PBS</title><circle class='city' cx='824.9311580017848' cy='108.46172806626248' r='10' /></a>
+    <a xlink:href='#New York'><title>Troy, NY: WMHT</title><circle class='city' cx='833.1121790083587' cy='150.73642917581105' r='10' /></a>
+    <a xlink:href='#New York'><title>Jamestown, NY: WRFA</title><circle class='city' cx='749.7612833274144' cy='180.95902073453635' r='10' /></a>
+    <a xlink:href='#New York'><title>Liverpool, NY: WCNY</title><circle class='city' cx='792.5535104758103' cy='150.81687560431214' r='10' /></a>
+    <a xlink:href='#North Carolina'><title>Research Triangle Park, NC: UNC-TV</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#North Dakota'><title>Fargo, ND: Prairie Public Broadcasting</title><circle class='city' cx='470.2634770670777' cy='93.29233893218793' r='10' /></a>
+    <a xlink:href='#Ohio'><title>Columbus, OH: WOSU Public Media</title><circle class='city' cx='699.745787105406' cy='236.9252560923619' r='10' /></a>
+    <a xlink:href='#Ohio'><title>Cleveland, OH: ideastream</title><circle class='city' cx='711.7154051389545' cy='201.15936231704086' r='10' /></a>
+    <a xlink:href='#Ohio'><title>Yellow Springs, OH: WYSO</title><circle class='city' cx='683.3241628960461' cy='241.57650831701994' r='10' /></a>
+    <a xlink:href='#Ohio'><title>Youngstown, OH: WYSU</title><circle class='city' cx='730.9049442514265' cy='206.91555487715095' r='10' /></a>
+    <a xlink:href='#Ohio'><title>Cincinnati, OH: Cincinnati Public Radio</title><circle class='city' cx='672.6622619805116' cy='254.77094727204008' r='10' /></a>
+    <a xlink:href='#Oregon'><title>Medford, OR: Southern Oregon Public Television</title><circle class='city' cx='59.82216953847757' cy='146.39290462023814' r='10' /></a>
+    <a xlink:href='#Oregon'><title>Portland, OR: Oregon Public Broadcasting</title><circle class='city' cx='85.55786427800314' cy='79.72404550232523' r='10' /></a>
+    <a xlink:href='#Oregon'><title>Warm Springs, OR: KWSO</title><circle class='city' cx='99.15605934180252' cy='99.68098633314196' r='10' /></a>
+    <a xlink:href='#Pennsylvania'><title>Bethlehem, PA: WDIY + PBS39</title><circle class='city' cx='817.8317437439117' cy='203.0842817971079' r='10' /></a>
+    <a xlink:href='#Pennsylvania'><title>Philadelphia, PA: WHYY + WXPN</title><circle class='city' cx='827.286095677136' cy='213.6404107528881' r='10' /></a>
+    <a xlink:href='#Pennsylvania'><title>Pittsburgh, PA: WQED</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Pennsylvania'><title>Pittston, PA: WVIA Public Media</title><circle class='city' cx='807.98588215275' cy='189.09491942539807' r='10' /></a>
+    <a xlink:href='#Rhode Island'><title>Providence, RI: Rhode Island Public Radio</title><circle class='city' cx='873.1362370852801' cy='164.09442189181686' r='10' /></a>
+    <a xlink:href='#South Carolina'><title>Columbia, SC: South Carolina ETV</title><circle class='city' cx='752.9455784213515' cy='362.6367157609325' r='10' /></a>
+    <a xlink:href='#Tennessee'><title>Cookeville, TN: WCTE</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Tennessee'><title>Knoxville, TN: WDVX</title><circle class='city' cx='693.3220796382731' cy='324.2184946530231' r='10' /></a>
+    <a xlink:href='#Texas'><title>Houston, TX: KUHF-FM</title><circle class='city' cx='490.7731850102761' cy='480.9970038935337' r='10' /></a>
+    <a xlink:href='#Texas'><title>Austin, TX: KUT Radio</title><circle class='city' cx='449.90017810774543' cy='464.27336314962395' r='10' /></a>
+    <a xlink:href='#Utah'><title>Salt Lake City, UT: KUED</title><circle class='city' cx='222.9195553704085' cy='212.54235949897907' r='10' /></a>
+    <a xlink:href='#Vermont'><title>Colchester, VT: Vermont Public Radio + Vermont Public Television</title><circle class='city' cx='829.7933466009295' cy='111.09605085720295' r='10' /></a>
+    <a xlink:href='#Virginia'><title>Norfolk, VA: WHRO</title><circle class='city' cx='822.2114373084739' cy='289.1390814884983' r='10' /></a>
+    <a xlink:href='#Virginia'><title>Roanoke, VA: Blue Ridge PBS</title><circle class='city' cx='757.1963656920785' cy='289.1200708313097' r='10' /></a>
+    <a xlink:href='#Washington'><title>Pullman, WA: Northwest Public Television</title><circle class='city' cx='171.36403872951348' cy='68.43508172982308' r='10' /></a>
+    <a xlink:href='#Washington'><title>Seattle, WA: KUOW Puget Sound Public Radio + KEXP + KCTS 9</title><circle class='city' cx='103.16934521030322' cy='33.41277941283374' r='10' /></a>
+    <a xlink:href='#Washington'><title>Granger, WA: KDNA</title><circle class='city' cx='125.71781170919462' cy='68.42727525954263' r='10' /></a>
+    <a xlink:href='#Wisconsin'><title>Madison, WI: Wisconsin Public Radio + Wisconsin Public Television</title><circle class='city' cx='585.0995818442004' cy='176.57839839004032' r='10' /></a>
+    <a xlink:href='#Wisconsin'><title>Hayward, WI: WOJB</title><circle class='city' cx='0' cy='0' r='10' /></a>
+    <a xlink:href='#Wyoming'><title>Riverton, WY: Wyoming PBS</title><circle class='city' cx='0' cy='0' r='10' /></a>
     
     <!--
-    TODO: solve this for lat and long:
-      { y == -0.000315 ( x - 478 )^2 - 22 * lat + 1139, 
-        x == (-0.01083 * long + 1.045) * ( y + 1300 ) + 478 }
+    # http://simplemaps.com/files/cities.csv
+    cities = Hash[File.readlines('/Users/chuck_mccallum/Downloads/cities.csv').
+      map{|l| l.strip.split(',')}.
+      map{|row| ["#{row[2]}, #{row[1]}",[row[3].to_f,row[4].to_f]]}]
+    state_city_orgs = Organization.all.
+      group_by{|s| [s.state, "#{s.city}, #{s.state_abbreviation}"]}.
+      map{|state_city,orgs| [
+        state_city[0], state_city[1],
+        state_city[1] + ': ' +    orgs.map{|org| org.short_name}.join(' + ')]}
+    def to_xy(lat,long)
+      dx = 480
+      dy = -880
+      r_mult = 24
+      long_shift = 27.5
+      x_mult = 1.2
+      long_mult = 0.65
+      y_mult = 0.94
+      x = (1+(lat-37)/200)*(90-lat) * r_mult * Math::cos((long*long_mult+long_shift)*3.14159/180)*x_mult +dx
+      y = (90-lat) * r_mult * Math::sin((long*long_mult+long_shift)*3.14159/180)*y_mult +dy
+      [x,y]
+    end
+    state_city_orgs.select{|sco| sco}.each{|sco|
+      ll = cities[sco[1]] 
+      xy = to_xy(ll[0],-ll[1]) rescue [0,0]
+      puts "<a xlink:href='##{sco[0]}'><title>#{sco[2]}</title><circle class='city' cx='#{xy[0]}' cy='#{xy[1]}' r='10' /></a>"
+    } 
     -->
-    
 </svg>
