@@ -1,7 +1,8 @@
 <% content_for :sidebar do %>
   <%= render partial: 'sidebar_search' %>
 
-  <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
+  <!-- THIS CODE WAS BREAKING THE PAGE -->
+   <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
     <%# Copy-and-paste from the normal facet, but had to replace the internals. %>
     <div class="panel panel-default facet_limit blacklight-media_type ">
       <div class="collapse-toggle panel-heading">
@@ -24,6 +25,7 @@
       </div>
     </div>
   <% end %>
+  
 
   <img src="<%= @exhibit.thumbnail_url %>"/>
   <br/><br/><%# TODO: CSS to establish spacing. %>
@@ -34,6 +36,30 @@
     </div>
     <div class="panel-body">
       <%= @exhibit.author_html.html_safe %>
+
+      <!-- Row to display author layout -->
+      <div class="row curated-author">
+
+        <div class="col-xs-4 col-sm-3 col-md-4">
+          <img class="img-circle img-responsive" alt="Author Name" src="http://localhost:3000/thumbs/audio-digitized.jpg">
+
+        </div>
+
+        <div class="col-xs-8 col-sm-8 col-md-8">
+
+          <h4>Alan Gevinson</h4>
+          <p>
+            Project Director <br>
+            <small>Library of Congress</small> <br>
+            <a href="#" title="More Info Link"><small>More Info Link</small></a>
+          </p>
+
+        </div>
+
+      </div><!-- /row -->
+
+
+
     </div>
   </div>
   
@@ -52,14 +78,198 @@
 <% end %>
   
 <% content_for :main do %>
+
+
+  <ol class="breadcrumb hidden-xs">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Section</a></li>
+    <li class="active">Page Title</li>
+  </ol>
   
+  <img class="pull-left img-thumbnail curated-featured-image" alt="Exhibit Title" title="Exhibit Title" src="<%= @exhibit.thumbnail_url %>"/>
+
   <p>
-    TODO: Bread crumbs for navigation:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at lectus orci. Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. Morbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. Praesent imperdiet ligula eu lacinia volutpat.
+  </p>
+
+  <p>
+    Morbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. Praesent imperdiet ligula eu lacinia volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at lectus orci. Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. 
+  </p>
+
+  <br><br>
+
+  <h5><a href="#" class="btn-featured-record" title="This Record is featured in the Midwest! Exhibit"><span class="glyphicon glyphicon-star"></span>&nbsp;&nbsp;This Record is featured in the <em>Midwest!</em> Exhibit.</a></h5>
+
+  <br><br>
+
+  <h2>Narrative</h2>
+
+  <div class="narrative-body hidden-xs">
+    <p class="lead">
+      Seugorbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. Praesent imperdiet ligula eu lacinia volutpat.
+    </p>
+
+    <h3>Topic Heading</h3>
+    <p>
+      Morbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. 
+    </p>
+
+
+    <h4>Section Heading</h4>
+
+    <p>
+      Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. Morbi ex erat, feugiat quis pharetra quis, ornare sed..........  
+    </p> 
+  </div>
+  <hr> 
+  <a class="btn btn-link" data-toggle="modal" data-target=".narrative-modal">View Narrative</a> | <a class="btn btn-link" href="#" role="button">Download Narrative</a>
+
+
+  <br><br><br><br>
+
+  <h2>Gallery</h2>
+
+  <div class="row">
+
+    <!-- fake image -->
+    <div class="document col-xs-6 col-sm-4 col-md-4">
+      <div class="thumbnail">
+        <div class="caption">
+          <div class="documentHeader">
+            <img src="/thumbs/audio-not-digitized.jpg" alt="thumbnail of Beans!">
+            <h4 class="index_title">
+              <a data-context-href="/catalog/cpb-aacip_187-28nck4sf/track?search_id=22330" href="/catalog/cpb-aacip_187-28nck4sf">Beans!</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /fake image -->
+
+    <!-- fake image -->
+    <div class="document col-xs-6 col-sm-4 col-md-4">
+      <div class="thumbnail">
+        <div class="caption">
+          <div class="documentHeader">
+            <img src="/thumbs/audio-not-digitized.jpg" alt="thumbnail of Beans!">
+            <h4 class="index_title">
+              <a data-context-href="/catalog/cpb-aacip_187-28nck4sf/track?search_id=22330" href="/catalog/cpb-aacip_187-28nck4sf">Beans!</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /fake image -->
+
+    <!-- fake image -->
+    <div class="document col-xs-6 col-sm-4 col-md-4">
+      <div class="thumbnail">
+        <div class="caption">
+          <div class="documentHeader">
+            <img src="/thumbs/audio-not-digitized.jpg" alt="thumbnail of Beans!">
+            <h4 class="index_title">
+              <a data-context-href="/catalog/cpb-aacip_187-28nck4sf/track?search_id=22330" href="/catalog/cpb-aacip_187-28nck4sf">Beans!</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /fake image -->
+
+    <!-- fake image -->
+    <div class="document col-xs-6 col-sm-4 col-md-4">
+      <div class="thumbnail">
+        <div class="caption">
+          <div class="documentHeader">
+            <img src="/thumbs/audio-not-digitized.jpg" alt="thumbnail of Beans!">
+            <h4 class="index_title">
+              <a data-context-href="/catalog/cpb-aacip_187-28nck4sf/track?search_id=22330" href="/catalog/cpb-aacip_187-28nck4sf">Beans!</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /fake image -->
+
+    <!-- fake image -->
+    <div class="document col-xs-6 col-sm-4 col-md-4">
+      <div class="thumbnail">
+        <div class="caption">
+          <div class="documentHeader">
+            <img src="/thumbs/audio-not-digitized.jpg" alt="thumbnail of Beans!">
+            <h4 class="index_title">
+              <a data-context-href="/catalog/cpb-aacip_187-28nck4sf/track?search_id=22330" href="/catalog/cpb-aacip_187-28nck4sf">Beans!</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /fake image -->
+
+    <!-- fake image -->
+    <div class="document col-xs-6 col-sm-4 col-md-4">
+      <div class="thumbnail">
+        <div class="caption">
+          <div class="documentHeader">
+            <img src="/thumbs/audio-not-digitized.jpg" alt="thumbnail of Beans!">
+            <h4 class="index_title">
+              <a data-context-href="/catalog/cpb-aacip_187-28nck4sf/track?search_id=22330" href="/catalog/cpb-aacip_187-28nck4sf">Beans!</a>
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /fake image -->
+
+  </div>
+
+  <hr>
+  <a class="btn btn-link" href="#" role="button">View All Gallery Items</a>
+
+
+  <br><br><br><br>
+
+
+
+
+
+<!--   Narrative Modal -->
+<div class="modal fade narrative-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="btn btn-link pull-right" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></button>
+          
+          <h4 class="modal-title">Narrative Title</h4>
+        </div>
+
+        <div class="modal-body">
+          <%= @exhibit.formatted.html_safe %>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-link" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Close</button>
+        </div>
+      </div><!-- /.modal-content -->
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+  <p>
+    <!--  -->
+
+
+
     <% @exhibit.ancestors.map do |ancestor| %>
       <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.title %></a>
     <% end %>
   </p>
-  <%= @exhibit.formatted.html_safe %>
+  <!-- <%= @exhibit.formatted.html_safe %> -->
   
 <% end %>
     
