@@ -6,6 +6,7 @@ require_relative 'exhibit'
 require_relative '../../lib/html_scrubber'
 require_relative 'xml_backed'
 require_relative 'pb_core_instantiation'
+require_relative 'pb_core_name_role_affiliation'
 require_relative 'organization'
 
 class PBCore # rubocop:disable Metrics/ClassLength
