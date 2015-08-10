@@ -13,7 +13,9 @@ describe AdvancedController do
     assertions.each do |params, encoded|
       it "handles #{params}" do
         get 'index', params
-        expect(response).to redirect_to "/catalog?q=#{encoded}"
+        expect(response).to redirect_to(
+          "/catalog?q=#{encoded}&f[access_types][]=#{PBCore::PUBLIC_ACCESS}"
+        )
       end
     end
   end

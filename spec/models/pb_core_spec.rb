@@ -39,6 +39,40 @@ describe 'Validated and plain PBCore' do
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Unexpected media types: \["unexpected"\]/))
       end
+      
+      it 'rejects multi "Level of User Access"' do
+        invalid_pbcore = pbc_xml.sub(
+          /<pbcoreAnnotation/,
+          "<pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation><pbcoreAnnotation")
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Should have at most 1 "Level of User Access" annotation/))
+      end
+      
+      it 'rejects digitized w/o "Level of User Access"' do
+        invalid_pbcore = pbc_xml.gsub(
+          /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
+          '')
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Should have "Level of User Access" annotation if digitized/))
+      end
+      
+      it 'rejects undigitized w/ "Level of User Access"' do
+        invalid_pbcore = pbc_xml.gsub(
+          /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
+          '')
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/Should not have "Level of User Access" annotation if not digitized/))
+      end
+      
+      it 'rejects "Outside URL" if not explicitly ORR' do
+        invalid_pbcore = pbc_xml.gsub( # First make it un-digitized
+          /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
+          '').gsub( # Then remove access
+          /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
+          '')
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
+          raise_error(/If there is an Outside URL, the record must be explicitly public/))
+      end
     end
   end
 
@@ -72,13 +106,13 @@ describe 'Validated and plain PBCore' do
             'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', #
             'Copy Left: All rights reversed.', #
             'Album', 'Uncataloged', '2000-01-01', #
+            'Series', 'Nova', 'Program', 'Gratuitous Explosions', # 
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
-            'Program', 'Gratuitous Explosions', 'Series', 'Nova', '1234', #
-            'AAPB ID', 'somewhere else', '5678', #
+            '1234', 'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts', #
             'Moving Image', '1:23:45'],
-          'titles' => ['3-2-1', 'Kaboom!', 'Gratuitous Explosions', 'Nova'],
-          'title' => 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
+          'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
+          'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
           'year' => '2000',
           'exhibits' => [],
@@ -88,21 +122,22 @@ describe 'Validated and plain PBCore' do
           'asset_type' => 'Album',
           'organization' => 'WGBH (MA)',
           'state' => 'Massachusetts',
-          'access_types' => ['all', 'public'] # TODO: UI will transform internal representation.
+          'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
+            # TODO: UI will transform internal representation.
         },
-        access_types: ['all', 'public'],
+        access_types: [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
         access_level: 'Online Reading Room',
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['Uncataloged', '2000-01-01']],
-        titles_sort: 'Nova -- Gratuitous Explosions -- Kaboom! -- 3-2-1',
-        titles: [['Episode Number', '3-2-1'], ['Episode', 'Kaboom!'], #
-                 ['Program', 'Gratuitous Explosions'], ['Series', 'Nova']],
-        title: 'Kaboom!',
+        titles_sort: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
+        titles: [['Series', 'Nova'], ['Program', 'Gratuitous Explosions'], #
+                 ['Episode Number', '3-2-1'], ['Episode', 'Kaboom!']],
+        title: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
         exhibits: [],
         descriptions: ['Best episode ever!'],
-        instantiations: [PBCore::Instantiation.new('Moving Image', 'should be ignored!'),
-                         PBCore::Instantiation.new('Moving Image', '1:23:45')],
+        instantiations: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
+                         PBCoreInstantiation.new('Moving Image', '1:23:45')],
         rights_summary: 'Copy Left: All rights reversed.',
         genres: ['Call-in'],
         topics: ['Music'],
@@ -114,7 +149,7 @@ describe 'Validated and plain PBCore' do
         captions_src: '/captions/1234.txt',
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
-        outside_url: 'http://example.org/outside-video-link',
+        outside_url: 'http://www.wgbh.org/',
         private?: false,
         protected?: false,
         public?: true,
@@ -124,9 +159,9 @@ describe 'Validated and plain PBCore' do
         duration: '1:23:45',
         digitized?: true,
         subjects: ['explosions -- gratuitious', 'musicals -- horror'],
-        creators: [PBCore::NameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
-        contributors: [PBCore::NameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
-        publishers: [PBCore::NameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
+        creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
+        contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
+        publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
       }
 
       assertions.each do |method, value|

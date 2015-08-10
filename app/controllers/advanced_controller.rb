@@ -2,7 +2,8 @@ require 'uri'
 
 class AdvancedController < ApplicationController
   def index
-    redirect_to "/catalog?q=#{URI.encode(AdvancedController.query(params))}"
+    redirect_to "/catalog?q=#{URI.encode(AdvancedController.query(params))}&" +
+      "f[access_types][]=#{PBCore::PUBLIC_ACCESS}"
   end
   def self.query(params)
     [
