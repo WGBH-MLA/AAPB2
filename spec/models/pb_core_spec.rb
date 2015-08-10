@@ -108,8 +108,7 @@ describe 'Validated and plain PBCore' do
             'Album', 'Uncataloged', '2000-01-01', #
             'Series', 'Nova', 'Program', 'Gratuitous Explosions', # 
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
-            'Nova; Gratuitous Explosions; 3-2-1; Kaboom!', '1234', #
-            'AAPB ID', 'somewhere else', '5678', #
+            '1234', 'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts', #
             'Moving Image', '1:23:45'],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
