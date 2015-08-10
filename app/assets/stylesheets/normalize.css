@@ -244,7 +244,7 @@ h1 {
     /* Homepage Welcome Header */
     #welcome h1 {
       font-size:1.4em;
-      margin:0 auto;
+      margin: 0 auto;
     }
 
   /* Page Title */
@@ -717,7 +717,8 @@ table {
 
     /* Homepage Welcome Header */
     #welcome h1 {
-      font-size:1.8em;
+      font-size:1.4em;
+      margin: 0 auto 3em;
     }
 
   /*Page HEader*/
@@ -748,6 +749,11 @@ table {
 /* Desktop ---------- */
 @media (min-width: 992px) {
 
+  /* Homepage Welcome Header */
+  #welcome h1 {
+    font-size:1.8em;
+  }
+  
   /* Record Title */
   .record-title {
     font-size:2em;
