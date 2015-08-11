@@ -64,7 +64,6 @@ class PBCoreIngester
           rescue => e
             id_extracts = document.scan(/<pbcoreIdentifier[^>]*>[^<]*<[^>]*>/)
             $LOG.warn("Error during ingest of #{id_extracts}: #{e.message}")
-            raise e
           end
         end
       end
