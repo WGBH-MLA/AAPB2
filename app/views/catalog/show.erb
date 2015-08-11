@@ -73,7 +73,7 @@
     <a name="player"></a>
     <% if !@pbcore.media_srcs.empty? && 
         !@pbcore.outside_url &&
-        current_user.onsite? # TODO: replace with cancan %>
+        can?(:play, @pbcore) %>
       <%= render partial: 'catalog/player' %>
     <% else %>
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
