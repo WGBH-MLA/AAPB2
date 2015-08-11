@@ -78,6 +78,7 @@ the outdoors.
 Lauren's current favorite AAPB collection item is [“Writers Speak: James 
 Baldwin” from New England Public Radio](/catalog/cpb-aacip_305-86nzshkq).
 
+![sadie](/staff/Staff_Roosa.jpg)
 **Sadie Roosa, Metadata Specialist**<br/>
 **WGBH**<br/>
 Sadie focuses her attention on metadata management and cataloging for the AAPB. 
@@ -100,7 +101,7 @@ After first coming to WGBH as a National Digital Stewardship (NDSR) Resident in 
 
 Rebecca's's current favorite AAPB collection item is ["Role of Fantasy in Children's Lives" from WGBH](/catalog/cpb-aacip_15-5717m0428t).
 
-![karen](/staff/Staff_Myers.jpg)
+![drew](/staff/Staff_Myers.jpg)
 **Andrew Myers, Supervising Developer**<br/>
 **WGBH**<br/>
 Andrew Myers is a web developer who has worked for many different kinds of 
@@ -119,7 +120,7 @@ Chuck is curious<br/>
 about the edge cases here.<br/>
 Will a haiku do?<br/>
 
-![karen](/staff/Staff_Carter.jpg)
+![kevin](/staff/Staff_Carter.jpg)
 **Kevin Carter, Programmer Analyst**<br/>
 **WGBH**<br/>
 Kevin Carter began work in 1997 on the nascent Digital Library Initiative at 
