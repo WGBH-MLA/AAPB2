@@ -1,0 +1,5 @@
+<%= form_tag('/terms') do %>
+  Do you agree to our <a href="/legal/tou">terms</a>?
+  <%= hidden_field_tag(:id, params[:id]) %>
+  <%= submit_tag("Yes!") %>
+<% end %> 

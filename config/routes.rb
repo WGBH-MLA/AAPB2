@@ -3,6 +3,9 @@ Rails.application.routes.draw do
 
   blacklight_for :catalog
 
+  resources 'terms',
+            only: [:show, :create]
+
   resources 'organizations',
             path: '/participating-orgs', # for backwards compatibility.
             constraints: { id: /.*/ }, # so periods in station IDs are acceptable.

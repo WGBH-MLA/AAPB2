@@ -1,5 +1,5 @@
-# -*- encoding : utf-8 -*-
-#
+require_relative '../../lib/geo_i_p_country'
+
 class CatalogController < ApplicationController
   helper Openseadragon::OpenseadragonHelper
 
