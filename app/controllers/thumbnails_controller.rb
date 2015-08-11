@@ -1,5 +1,3 @@
-require_relative '../../lib/access_control'
-
 # This exists just so that shorter, stable image src urls can be used in markdown.
 # It should not be used from inside the code when we have the PBCore object itself.
 class ThumbnailsController < ApplicationController

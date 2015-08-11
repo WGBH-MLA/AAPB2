@@ -1,10 +1,8 @@
-require_relative '../../lib/access_control'
-
 class MediaController < ApplicationController
   include Blacklight::Catalog
 
   def show
-    if AccessControl.authorized_ip?(request.remote_ip) 
+    if current_user.onsite? # TODO: replace with cancan. 
         # TODO: Add referer check when reading rooms are up.
         # || ( AccessControl.reading_room?
         #      && URI.parse(request.referer).host =~ /^(.+\.)?americanarchive\.org$/ )
