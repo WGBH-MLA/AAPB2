@@ -5,6 +5,7 @@ class User
   def initialize(request)
     @ua = request.user_agent
     @ip = request.remote_ip
+    @referer = request.referer
   end
   
   ONSITE_RANGES = Set[
@@ -22,5 +23,9 @@ class User
   
   def bot?
     /bot|spider/i =~ @ua
+  end
+  
+  def aapb_referer?
+    URI.parse(@referer).host =~ /^(.+\.)?americanarchive\.org$/
   end
 end

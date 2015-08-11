@@ -2,14 +2,11 @@ class MediaController < ApplicationController
   include Blacklight::Catalog
 
   def show
-    # TODO: Add referer check when reading rooms are up.
-    # || ( AccessControl.reading_room?
-    #      && URI.parse(request.referer).host =~ /^(.+\.)?americanarchive\.org$/ )
     _response, document = fetch(params['id'])
     xml = document.instance_variable_get('@_source')['xml']
     pbcore = PBCore.new(xml)
 
-    if can?(:play, pbcore)      
+    if can?(:play, pbcore) && current_user.aapb_referer?  
       ci = SonyCiBasic.new(credentials_path: Rails.root + 'config/ci.yml')
       # OAuth credentials expire: otherwise it would make sense to cache this instance.
       redirect_to ci.download(pbcore.ci_ids[(params['part'].to_i || 1) - 1])
