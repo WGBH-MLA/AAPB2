@@ -53,6 +53,7 @@ GEM
       autoprefixer-rails (>= 5.0.0.1)
       sass (>= 3.2.19)
     builder (3.2.2)
+    cancan (1.6.10)
     capistrano (3.4.0)
       i18n
       rake (>= 10.0.0)
@@ -260,6 +261,7 @@ DEPENDENCIES
   blacklight-gallery
   blacklight-sitemap (~> 2.0.0)
   blacklight_range_limit
+  cancan
   capistrano-passenger
   capistrano-rails
   capybara

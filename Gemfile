@@ -63,6 +63,8 @@ gem 'sys-filesystem' # just for checking mount points at ingest
 
 gem 'sony-ci-api'
 
+gem 'cancan'
+
 gem 'rspec', :group => :test
 gem 'rspec-rails', :group => :test
 gem 'capybara', :group => :test
