@@ -2,6 +2,7 @@
 
 ![banner](/page-banners/banner5.jpg)
 
+![karen](/staff/Staff_Cariani.jpg)
 **Karen Cariani, Project Director**<br/>
 **WGBH**<br/>
 Karen has been director of the WGBH Media Library since its inception in 1990. 
@@ -35,6 +36,7 @@ Sound: An Illustrated Guide (2002).
 Alan's current favorite AAPB collection item is ["Promise City" from Iowa 
 Public Television](/catalog/cpb-aacip_37-010p2nvv).
 
+![casey](/staff/Staff_Davis.jpg)
 **Casey E. Davis, Project Manager**<br/>
 **WGBH**<br/>
 Casey manages the day-to-day activities of the AAPB, including outreach, 
@@ -91,12 +93,14 @@ Pittsburgh.
 Sadie's current favorite AAPB collection item is an ["Interview with Jonathan 
 Richmond" from WERU](/catalog/cpb-aacip_301-956djt0n ).
 
+![rebecca](/staff/Staff_Fraimow.jpg)
 **Rebecca Fraimow, Archivist**<br/>
 **WGBH**<br/>
 After first coming to WGBH as a National Digital Stewardship (NDSR) Resident in 2014, Rebecca joined the staff of WGBH full-time in 2015, focusing on the AAPB NDSR program, the development of the PBCore metadata standard, and the ongoing migration of digital assets.  Prior to moving up north, Rebecca served as the Audiovisual Projects Manager for the Dance Heritage Coalition, managing a large-scale project to digitize and make accessible dance-related media.  She also worked on the XFR STN exhibit at the New Museum, which opened up video preservation to the public, and subsequently co-founded XFR Collective, a New York-based nonprofit organization focused on the preservation of at-risk and obsolete community media.  Rebecca holds an MA in Moving Image Archiving and Preservation from NYU.  When she's not yelling about community archives or banging her head against video decks, hard drives, and LTO tapes, she likes dancing, making a mess in the kitchen, and immersing herself in good (and bad) fiction.  
 
 Rebecca's's current favorite AAPB collection item is ["Role of Fantasy in Children's Lives" from WGBH](/catalog/cpb-aacip_15-5717m0428t).
 
+![karen](/staff/Staff_Myers.jpg)
 **Andrew Myers, Supervising Developer**<br/>
 **WGBH**<br/>
 Andrew Myers is a web developer who has worked for many different kinds of 
@@ -115,6 +119,7 @@ Chuck is curious<br/>
 about the edge cases here.<br/>
 Will a haiku do?<br/>
 
+![karen](/staff/Staff_Carter.jpg)
 **Kevin Carter, Programmer Analyst**<br/>
 **WGBH**<br/>
 Kevin Carter began work in 1997 on the nascent Digital Library Initiative at 
