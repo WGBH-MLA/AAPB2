@@ -85,10 +85,7 @@ Sadie focuses her attention on metadata management and cataloging for the AAPB.
 She has worked at WGBH since 2012, engaged in digitization and digital library 
 projects including Boston TV News Digital Library and WGBH's Open Vault. She 
 co-chairs the Digital Commonwealth Outreach Committee and the AMIA News, 
-Documentary and Television Committee. Even though Sadie spends the majority of 
-her work days cataloging at a television station, she also spends a significant 
-portion of her free time participating in crowdsourced cataloging initiatives, 
-while watching TV at home. Sadie earned her MLIS from the University of 
+Documentary and Television Committee. In her free time, she enjoys knitting baby booties, even though she knows very few people with babies, and rearranging furniture in her apartment, even though there is really only one place each things fits. Sadie earned her MLIS from the University of 
 Pittsburgh. 
 
 Sadie's current favorite AAPB collection item is an ["Interview with Jonathan 
