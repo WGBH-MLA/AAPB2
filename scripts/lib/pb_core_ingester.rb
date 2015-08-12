@@ -10,6 +10,9 @@ require_relative '../../lib/solr'
 
 class PBCoreIngester
 
+  attr_reader :errors
+  attr_reader :success_count
+  
   def initialize(opts)
     # TODO: hostname and corename from config?
     @solr = Solr.instance.connect
@@ -17,6 +20,8 @@ class PBCoreIngester
       MountValidator.validate_mount("#{data_dir}index", 'solr index') unless opts[:is_same_mount]
     }
     $LOG ||= NullLogger.new
+    @errors = Hash.new([])
+    @success_count = 0
   end
 
   def self.load_fixtures
@@ -27,8 +32,6 @@ class PBCoreIngester
       ingester.ingest(path: pbcore)
     end
   end
-
-  # TODO: maybe light session management? If we don't go in that direction, this should just be a module.
 
   def delete_all
     @solr.delete_by_query('*:*')
@@ -43,7 +46,8 @@ class PBCoreIngester
     begin
       xml = File.read(path)
     rescue => e
-      raise ReadError.new(e)
+      record_error(e, path)
+      return
     end
 
     @md5s_seen = Set.new
@@ -61,22 +65,31 @@ class PBCoreIngester
           @md5s_seen.add(md5)
           begin
             ingest_xml_no_commit(cleaner.clean(document))
+            @success_count += 1
           rescue => e
             id_extracts = document.scan(/<pbcoreIdentifier[^>]*>[^<]*<[^>]*>/)
-            $LOG.warn("Error during ingest of #{id_extracts}: #{e.message}")
+            record_error(e, path, id_extracts)
           end
         end
       end
     when /<pbcoreDescriptionDocument/
-      ingest_xml_no_commit(cleaner.clean(xml))
+      begin
+        ingest_xml_no_commit(cleaner.clean(xml))
+        @success_count += 1
+      rescue => e
+        record_error(e, path)
+      end
     else
-      fail ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{path}: #{xml_top}")
+      e = ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{xml_top}")
+      record_error(e, path)
     end
-    begin
-      commit unless is_batch_commit
-    rescue => e
-      raise SolrError.new(e)
-    end
+    commit unless is_batch_commit
+  end
+  
+  def record_error(e, path, id_extracts='')
+    message = "#{path} #{id_extracts}: #{e.message}"
+    $LOG.warn(message)
+    @errors[e.class.to_s] += [message]
   end
 
   def commit
@@ -117,8 +130,6 @@ class PBCoreIngester
         @base_error
       end
     end
-  end
-  class ReadError < ChainedError
   end
   class ValidationError < ChainedError
   end
