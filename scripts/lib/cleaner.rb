@@ -51,6 +51,10 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     }
 
     # pbcoreTitle:
+    
+    match(doc, '/pbcoreTitle[not(text())]') { |node|
+      Cleaner.delete(node)
+    }
 
     match(doc, '[not(pbcoreTitle)]') {
       # If there is a match, it's the root node, so no "node" parameter is needed.
