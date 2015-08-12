@@ -1,4 +1,5 @@
-require_relative '../../app/models/user'
+require 'rails_helper'
+require 'cancan/matchers'
 require 'ostruct'
 
 describe User do
@@ -34,6 +35,32 @@ describe User do
   
   describe '#bot?' do
     # TODO
+  end
+
+
+  describe 'ablities' do
+
+    let(:ability) { Ability.new(user) }
+    let(:user) { instance_double(User) }
+
+    # It would be nice to use instance_double here, but CanCan will not work
+    # properly unless you use the real class. So we are forced to load real
+    # objects here, with new fixtures we had to create, which slows things.
+    let(:pbcore_with_public_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
+    let(:pbcore_with_protected_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
+
+    context 'when on-site' do
+
+      let(:user) { instance_double(User, "onsite?" => true, "affirmed_tos?" => true) }
+
+      it "can play videos when PBCore says the video is 'public'" do
+        expect(ability).to be_able_to :play, pbcore_with_public_access
+      end
+
+      it "can play videos when PBCore say the video is 'protected'" do
+        expect(ability).to be_able_to :play, pbcore_with_protected_access
+      end
+    end
   end
   
 end

@@ -1,0 +1,57 @@
+<!-- NOTE: The only thing we're interested in with this fixture is
+<pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+The rest is just to make sure we have a valid PBCore doc. I'm sure a lot of it can
+be removed, and still be valid. If you want remove it, feel free.
+-->
+
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html'>
+  <pbcoreAssetType>Album</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Uncataloged'>2000-01-01</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>1234</pbcoreIdentifier>
+  <pbcoreIdentifier source='somewhere else'>5678</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>a-32-digit-hex</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>another-32-digit-hex</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Nova</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>Gratuitous Explosions</pbcoreTitle>
+  <pbcoreTitle titleType='Episode Number'>3-2-1</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Kaboom!</pbcoreTitle>
+  <pbcoreSubject>explosions -- gratuitious</pbcoreSubject>
+  <pbcoreSubject>musicals -- horror</pbcoreSubject>
+  <pbcoreDescription>&lt;removed by html scrubber&gt;Best episode ever!</pbcoreDescription>
+  <pbcoreGenre annotation='genre'>Call-in</pbcoreGenre>
+  <pbcoreGenre annotation='topic'>Music</pbcoreGenre>
+  <pbcoreCreator>
+    <creator affiliation='Stooges'>Larry</creator>
+    <creatorRole>balding</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor affiliation='Stooges'>Curly</contributor>
+    <contributorRole>bald</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher affiliation='Stooges'>Moe</publisher>
+    <publisherRole>hair</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>Copy Left: All rights reversed.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='foo'>ABC</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>
+    <instantiationLocation>my closet</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
+    <instantiationDuration>should be ignored!</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='foo'>XYZ</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>
+    <instantiationLocation>my harddrive</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationDuration>1:23:45</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Outside URL'>http://www.wgbh.org/</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
