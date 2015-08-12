@@ -1,12 +1,12 @@
 Method validation errors: '#exhibits' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:11:in `block in xpath'
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:9:in `tap'
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:9:in `xpath'
+/.../AAPB2/app/models/xml_backed.rb:11:in `block in xpath'
+/.../AAPB2/app/models/xml_backed.rb:9:in `tap'
+/.../AAPB2/app/models/xml_backed.rb:9:in `xpath'
 '#id' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:11:in `block in xpath'
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:9:in `tap'
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:9:in `xpath'
+/.../AAPB2/app/models/xml_backed.rb:11:in `block in xpath'
+/.../AAPB2/app/models/xml_backed.rb:9:in `tap'
+/.../AAPB2/app/models/xml_backed.rb:9:in `xpath'
 '#captions_src' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:11:in `block in xpath'
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:9:in `tap'
-/Users/chuck_mccallum/starting/AAPB2/app/models/xml_backed.rb:9:in `xpath'
+/.../AAPB2/app/models/xml_backed.rb:11:in `block in xpath'
+/.../AAPB2/app/models/xml_backed.rb:9:in `tap'
+/.../AAPB2/app/models/xml_backed.rb:9:in `xpath'

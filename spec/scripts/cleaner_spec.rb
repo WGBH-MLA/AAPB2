@@ -39,7 +39,9 @@ describe Cleaner do
           ValidatedPBCore.new(cleaner.clean(dirty, name))
           fail('Expected an error')
         rescue => e
-          expect(e.message).to eq expected
+          expect(e.message.gsub(/^\s*\/.*AAPB2\//, '')).
+            to eq expected.gsub(/^\s*\/.*AAPB2\//, '')
+          # Full paths need to be cleaned up so that they match on Travis.
         end
         # This could be shorter, but the eq matcher gives us a diff that we don't get from
         #   expect { ValidatedPBCore.new(cleaner.clean(dirty, name)) }.to raise_error(expected)
