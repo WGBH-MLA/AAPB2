@@ -305,7 +305,7 @@ describe 'Catalog' do
         details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
         it "details: #{details_url}" do
           visit details_url
-          if pbcore.video? || pbcore.audio?
+          if pbcore.digitized?
             click_button(AGREE)
           end
           expect_fuzzy_xml
