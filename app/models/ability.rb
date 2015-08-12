@@ -11,7 +11,7 @@ class Ability
     # TODO:
 #    can :play, PBCore do |pbcore|
 #      (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
-#      (user.usa? && user.affirmed_tos? && pbcore.public?)
+#      (user.usa? && !user.bot? && user.affirmed_tos? && pbcore.public?)
 #    end
 
     cannot :skip_tos, PBCore do |pbcore|
@@ -20,7 +20,7 @@ class Ability
  
     # TODO:
 #    cannot :skip_tos, PBCore do |pbcore|
-#      user.usa? && !user.affirmed_tos? && pbcore.public?
+#      user.usa? && !user.bot? && !user.affirmed_tos? && pbcore.public?
 #    end
   end
 end
