@@ -41,7 +41,7 @@ describe 'Catalog' do
         'Kaboom!',
         'Gratuitous Explosions',
         'Series Nova',
-        'Uncataloged 2000-01-01',
+        'Date 2000-01-01',
         '2000-01-01',
         'Best episode ever!'
       ].each do |field|
@@ -233,11 +233,11 @@ describe 'Catalog' do
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio'],
                 ['Uncataloged: Dry Spell', 'Organization: KQED'],
                 ['Program: Four Decades of Dedic', 'Uncataloged: Handles missing title', 'Organization: WPBS'],
-                ['Uncataloged: From Bessie Smith to ', 'Created: 1990-07-27', 'Uncataloged: 1991-07-27', 'Organization: Film and Media Archiv'],
+                ['Uncataloged: From Bessie Smith to ', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv'],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev'],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio'],
-                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Uncataloged: 2000-01-01', 'Organization: WGBH'],
+                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH'],
                 ['Uncataloged: Podcast Release Form', 'Organization: KXCI Community Radio'],
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH'],
                 ['Uncataloged: Scheewe Art Workshop', 'Organization: Detroit Public Televi'],
