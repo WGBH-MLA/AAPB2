@@ -1,36 +1,61 @@
 require 'rails_helper'
 require 'cancan/matchers'
-require 'ostruct'
 
 describe User do
   
+  let(:user) { User.new(fake_request) }
+  let(:fake_request) { double(user_agent: nil, referer: nil, session: nil)}
+
   describe '#onsite?' do
-    def expect_authorized(ip)
-      user = User.new(OpenStruct.new(remote_ip: ip, user_agent: nil))
-      expect(user.onsite?).to eq true
+
+    context "when remote IP is within the WGBH and LOC IP ranges (i.e. 'on-site')" do
+
+      # Lists of all on-site IPs from WGBH and LOC
+      let(:wgbh_ips) { IPAddr.new('198.147.175.0/24').to_range.to_a.map(&:to_s) }
+      let(:loc_ips) { IPAddr.new('140.147.0.0/16').to_range.to_a.map(&:to_s) }  # NOTE: this is > 65K IPs
+
+      let(:test_these_onsite_ips) do
+        [wgbh_ips.first, wgbh_ips.last, wgbh_ips.sample] +
+        [loc_ips.first, loc_ips.last, loc_ips.sample]
+      end
+
+      it 'returns true' do
+        test_these_onsite_ips.each do |onsite_ip|
+          allow(fake_request).to receive(:remote_ip).and_return(onsite_ip)
+          expect(user.onsite?).to eq true
+        end
+      end
     end
 
-    def expect_unauthorized(ip)
-      user = User.new(OpenStruct.new(remote_ip: ip, user_agent: nil))
-      expect(user.onsite?).to eq false
-    end
+    context "when remote IP is *not* within the WGBH + LOC IP ranges (i.e. 'off-site')" do
 
-    def expect_ip_range(below, bottom, top, above)
-      expect_unauthorized(below)
-      expect_authorized(bottom)
-      expect_authorized(top)
-      expect_unauthorized(above)
-    end
-    it 'allows appropriate WGBH access' do
-      expect_ip_range('198.147.174.255', '198.147.175.0', '198.147.175.255', '198.147.176.0')
-    end
-    it 'allows appropriate LoC access' do
-      expect_ip_range('140.146.255.255', '140.147.0.0', '140.147.255.255', '140.148.0.0')
+      let(:test_these_offsite_ips) do
+        ['198.147.174.0', '198.147.176.0', '140.146.0.0', '140.148.0.0']
+      end
+
+      it 'returns false' do
+        test_these_offsite_ips.each do |offsite_ip|
+          allow(fake_request).to receive(:remote_ip).and_return(offsite_ip)
+          expect(user.onsite?).to eq false
+        end
+      end
     end
   end
   
   describe '#usa?' do
-    # TODO
+    
+    require 'socket'
+
+    it 'returns true for US IP addresses' do
+      allow(fake_request).to receive(:remote_ip) { IPSocket::getaddress('www.usa.gov') rescue nil }
+      expect(user.usa?).to eq true
+    end
+
+    it 'returns false for non-US IP addresses' do
+      canadian_ip = '50.117.128.0'
+      allow(fake_request).to receive(:remote_ip) { canadian_ip }
+      expect(user.usa?).to eq false
+    end
   end
   
   describe '#bot?' do
