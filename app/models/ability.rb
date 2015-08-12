@@ -9,7 +9,7 @@ class Ability
     end
 
     cannot :skip_tos, PBCore do |pbcore|
-      user.onsite? && !user.affirmed_tos?
+      user.onsite? && !user.affirmed_tos? && !pbcore.private?
     end
   end
 end

@@ -41,26 +41,74 @@ describe User do
   describe 'ablities' do
 
     let(:ability) { Ability.new(user) }
-    let(:user) { instance_double(User) }
 
     # It would be nice to use instance_double here, but CanCan will not work
     # properly unless you use the real class. So we are forced to load real
     # objects here, with new fixtures we had to create, which slows things.
-    let(:pbcore_with_public_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
-    let(:pbcore_with_protected_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
+    let(:public_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
+    let(:protected_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
+    let(:private_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')) }
 
-    context 'when on-site' do
+    context 'when on site and not affirmed TOS' do
+      let(:user) { instance_double(User, onsite?: true, affirmed_tos?: false) }
 
-      let(:user) { instance_double(User, "onsite?" => true, "affirmed_tos?" => true) }
-
-      it "can play videos when PBCore says the video is 'public'" do
-        expect(ability).to be_able_to :play, pbcore_with_public_access
+      it "can not play public content" do
+        expect(ability).not_to be_able_to :play,     public_access
+        expect(ability).not_to be_able_to :skip_tos, public_access
       end
 
-      it "can play videos when PBCore say the video is 'protected'" do
-        expect(ability).to be_able_to :play, pbcore_with_protected_access
+      it "can not play protected content" do
+        expect(ability).not_to be_able_to :play,     protected_access
+        expect(ability).not_to be_able_to :skip_tos, protected_access
+      end
+      
+      it "can not play private content" do
+        expect(ability).not_to be_able_to :play,     private_access
+        expect(ability).to     be_able_to :skip_tos, private_access
+      end
+    end    
+    
+    context 'when on site and affirmed TOS' do
+      let(:user) { instance_double(User, onsite?: true, affirmed_tos?: true) }
+
+      it "can play public content" do
+        expect(ability).to     be_able_to :play,     public_access
+        expect(ability).to     be_able_to :skip_tos, public_access
+      end
+
+      it "can play protected content" do
+        expect(ability).to     be_able_to :play,     protected_access
+        expect(ability).to     be_able_to :skip_tos, protected_access
+      end
+      
+      it "can not play private content" do
+        expect(ability).not_to be_able_to :play,     private_access
+        expect(ability).to     be_able_to :skip_tos, private_access
       end
     end
+    
+    context 'when off site' do
+      # TODO: This changes when we open the ORR.
+      let(:user) { instance_double(User, onsite?: false, usa?: true, affirmed_tos?: false) }
+
+      it "can not play public content" do
+        expect(ability).not_to be_able_to :play,     public_access
+        expect(ability).to     be_able_to :skip_tos, private_access
+      end
+
+      it "can not play protected content" do
+        expect(ability).not_to be_able_to :play,     protected_access
+        expect(ability).to     be_able_to :skip_tos, private_access
+      end
+      
+      it "can not play private content" do
+        expect(ability).not_to be_able_to :play,     private_access
+        expect(ability).to     be_able_to :skip_tos, private_access
+      end
+    end
+    
+    # TODO: When we open the ORR, test international users, and USA bots.
+    
   end
   
 end
