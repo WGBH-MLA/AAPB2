@@ -215,12 +215,19 @@ class DownloadCleanIngest
       $LOG.info('Finished sitemap generation.')
     end
 
-    $LOG.info('SUMMARY')
+    $LOG.info('SUMMARY: FILES')
 
     fails.each {|type, list|
       $LOG.warn("#{list.count} failed to #{type}:\n#{list.join("\n")}") unless list.empty?
     }
-    $LOG.info("#{success.count} succeeded")
+    
+    $LOG.info('SUMMARY: STATS')
+    
+    fails.each {|type, list|
+      $LOG.warn("#{list.count} (#{100 * list.count / @files.count}%) failed to #{type}") unless list.empty?
+    }
+    
+    $LOG.info("#{success.count} (#{100 * success.count / @files.count}%) succeeded")
 
     $LOG.info('DONE')
   end
