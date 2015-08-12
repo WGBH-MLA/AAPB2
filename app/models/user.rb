@@ -6,6 +6,7 @@ class User
     @ua = request.user_agent
     @ip = request.remote_ip
     @referer = request.referer
+    @session = request.session
   end
   
   ONSITE_RANGES = Set[
@@ -27,5 +28,9 @@ class User
   
   def aapb_referer?
     URI.parse(@referer).host =~ /^(.+\.)?americanarchive\.org$/
+  end
+  
+  def affirmed_tos?
+    @session[:affirm_terms]
   end
 end

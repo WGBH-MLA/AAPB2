@@ -165,7 +165,11 @@ class CatalogController < ApplicationController
     respond_to do |format|
       format.html do
         @pbcore = PBCore.new(xml)
-        render
+        if can? :skip_tos, @pbcore
+          render
+        else
+          redirect_to "/terms/#{CGI::escape(params['id'])}"
+        end
       end
       format.pbcore do
         render text: xml

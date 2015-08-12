@@ -6,10 +6,18 @@ class Ability
     if user.bot?
       # no access
     elsif user.onsite?
-      can :play, PBCore, public?: true
-      can :play, PBCore, protected?: true
+      # TODO: These are the settings we want long term:
+#      can :play, PBCore, public?: true
+#      can :play, PBCore, protected?: true
+      # TODO: These are just for testing:
+      if user.affirmed_tos?
+        can :play, PBCore, public?: true
+        can :play, PBCore, protected?: true
+      else
+        cannot :skip_tos, PBCore
+      end  
     elsif user.usa?
-      # TODO: implement TOS
+      # TODO: Uncomment when we are ready to go live:
 #      if user.affirmed_tos?
 #        can :play, PBCore, public?: true
 #      else
