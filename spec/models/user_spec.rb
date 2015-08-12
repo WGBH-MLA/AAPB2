@@ -45,10 +45,12 @@ describe User do
     # It would be nice to use instance_double here, but CanCan will not work
     # properly unless you use the real class. So we are forced to load real
     # objects here, with new fixtures we had to create, which slows things.
-    let(:public_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
+    let(:public_access)    { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
     let(:protected_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
-    let(:private_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')) }
+    let(:private_access)   { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')) }
+    let(:all_access)       { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml')) }
 
+    
     context 'when on site and not affirmed TOS' do
       let(:user) { instance_double(User, onsite?: true, affirmed_tos?: false) }
 
@@ -65,6 +67,11 @@ describe User do
       it "can not play private content" do
         expect(ability).not_to be_able_to :play,     private_access
         expect(ability).to     be_able_to :skip_tos, private_access
+      end
+      
+      it "can not play undigitized content" do
+        expect(ability).not_to be_able_to :play,     all_access
+        expect(ability).to     be_able_to :skip_tos, all_access
       end
     end    
     
@@ -85,6 +92,11 @@ describe User do
         expect(ability).not_to be_able_to :play,     private_access
         expect(ability).to     be_able_to :skip_tos, private_access
       end
+      
+      it "can not play undigitized content" do
+        expect(ability).not_to be_able_to :play,     all_access
+        expect(ability).to     be_able_to :skip_tos, all_access
+      end
     end
     
     context 'when off site' do
@@ -104,6 +116,11 @@ describe User do
       it "can not play private content" do
         expect(ability).not_to be_able_to :play,     private_access
         expect(ability).to     be_able_to :skip_tos, private_access
+      end
+      
+      it "can not play undigitized content" do
+        expect(ability).not_to be_able_to :play,     all_access
+        expect(ability).to     be_able_to :skip_tos, all_access
       end
     end
     
