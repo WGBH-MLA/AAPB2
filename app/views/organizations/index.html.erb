@@ -10,6 +10,11 @@
 
 <% content_for :main do %>
 
+  <%= render file: "#{Rails.root}/app/views/organizations/usa.svg" %>
+  
+  <br/>
+  <br/>
+  
   <% state_list.each do |state,orgs| %>
     <a name="<%= state %>"></a>
     <div class="panel panel-default org-state">
