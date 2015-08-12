@@ -1,6 +1,6 @@
 # Retrospective Anniversary Specials
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+![Anniversary Specials](/exhibits/AAPB_Exhibit_StationHistories_image2.jpg)
 
 ## Summary
 
@@ -12,7 +12,6 @@ Sadie Roosa
 
 ## Links
 
-- [Rocky Mountain PBS Station's Archived Memories](http://www.rmpbs.org/volunteer/sam/about-stations-archived-memories-sam/)
 
 ## Main
 

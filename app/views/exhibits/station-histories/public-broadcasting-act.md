@@ -1,6 +1,6 @@
 # Public Broadcasting Act of 1967
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+![LBJ signing Public Broadcasting Act](/exhibits/AAPB_Exhibit_StationHistories_image3.jpg)
 
 ## Summary
 

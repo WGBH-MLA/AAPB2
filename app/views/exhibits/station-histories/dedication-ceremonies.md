@@ -1,6 +1,6 @@
 # Dedication Ceremonies
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+![Dedicating New Facilities](/exhibits/AAPB_Exhibit_StationHistories_image1.jpg)
 
 ## Summary
 

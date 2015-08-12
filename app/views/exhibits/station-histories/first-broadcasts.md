@@ -1,6 +1,6 @@
 # First Broadcasts
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+![Listening to radio at home](/exhibits/AAPB_Exhibit_StationHistories_image4.jpg)
 
 ## Summary
 
