@@ -270,9 +270,12 @@ describe 'Catalog' do
   end
 
   describe '#show' do
+    
+    AGREE = 'I agree'
+    
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
-      expect(page.status_code).to eq(200)
+      click_button(AGREE)
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
       target.send(:text).each do |field|
         # #text is only used for #to_solr, so it's private... 
@@ -284,7 +287,7 @@ describe 'Catalog' do
     
     it 'has poster otherwise if media' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
-      expect(page.status_code).to eq(200)
+      click_button(AGREE)
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-every-title-is-episode-number.xml'))
       (target.send(:text) - ['cpb-aacip_37-16c2fsnr']).each do |field|
         # The ID is on the page, but it has a slash, not underscore.
@@ -296,12 +299,15 @@ describe 'Catalog' do
 
   describe 'all fixtures' do
     Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
-      id = PBCore.new(File.read(file_name)).id
+      pbcore = PBCore.new(File.read(file_name))
+      id = pbcore.id
       describe id do
         details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
         it "details: #{details_url}" do
           visit details_url
-          expect(page.status_code).to eq(200)
+          if pbcore.digitized?
+            click_button(AGREE)
+          end
           expect_fuzzy_xml
         end
         search_url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
