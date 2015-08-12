@@ -231,16 +231,16 @@ describe 'Catalog' do
                 ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ'],
                 ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT'],
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio'],
-                ['Uncataloged: Dry Spell', 'Organization: KQED'],
-                ['Program: Four Decades of Dedic', 'Uncataloged: Handles missing title', 'Organization: WPBS'],
-                ['Uncataloged: From Bessie Smith to ', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv'],
+                ['Title: Dry Spell', 'Organization: KQED'],
+                ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS'],
+                ['Title: From Bessie Smith to ', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv'],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev'],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio'],
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH'],
-                ['Uncataloged: Podcast Release Form', 'Organization: KXCI Community Radio'],
+                ['Title: Podcast Release Form', 'Organization: KXCI Community Radio'],
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH'],
-                ['Uncataloged: Scheewe Art Workshop', 'Organization: Detroit Public Televi'],
+                ['Title: Scheewe Art Workshop', 'Organization: Detroit Public Televi'],
                 ['Program: The Sorting Test: 1', 'Organization: WUSF'],
                 ['Program: SORTING Test: 2', 'Organization: Detroit Public Televi'],
                 ['Program: A Sorting Test: 100', 'Organization: WNYC'],
@@ -270,9 +270,12 @@ describe 'Catalog' do
   end
 
   describe '#show' do
+    
+    AGREE = 'I agree'
+    
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
-      expect(page.status_code).to eq(200)
+      click_button(AGREE)
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
       target.send(:text).each do |field|
         # #text is only used for #to_solr, so it's private... 
@@ -284,7 +287,7 @@ describe 'Catalog' do
     
     it 'has poster otherwise if media' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
-      expect(page.status_code).to eq(200)
+      click_button(AGREE)
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-every-title-is-episode-number.xml'))
       (target.send(:text) - ['cpb-aacip_37-16c2fsnr']).each do |field|
         # The ID is on the page, but it has a slash, not underscore.
@@ -296,12 +299,15 @@ describe 'Catalog' do
 
   describe 'all fixtures' do
     Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
-      id = PBCore.new(File.read(file_name)).id
+      pbcore = PBCore.new(File.read(file_name))
+      id = pbcore.id
       describe id do
         details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
         it "details: #{details_url}" do
           visit details_url
-          expect(page.status_code).to eq(200)
+          if pbcore.digitized?
+            click_button(AGREE)
+          end
           expect_fuzzy_xml
         end
         search_url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"

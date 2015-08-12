@@ -1,5 +1,3 @@
-require_relative '../../lib/access_control'
-
 class CaptionsController < ApplicationController
   include Blacklight::Catalog
 
