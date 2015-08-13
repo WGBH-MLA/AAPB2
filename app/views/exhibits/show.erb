@@ -2,29 +2,7 @@
   <%= render partial: 'sidebar_search' %>
 
   <!-- THIS CODE WAS BREAKING THE PAGE -->
-   <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
-    <%# Copy-and-paste from the normal facet, but had to replace the internals. %>
-    <div class="panel panel-default facet_limit blacklight-media_type ">
-      <div class="collapse-toggle panel-heading">
-        <h5 class="panel-title facet-field-heading">
-          <%= name %>
-        </h5>
-      </div>
-      <div class="panel-collapse facet-content collapse in">
-        <div class="panel-body">
-          <ul class="facet-values list-unstyled">
-            <% list.each_slice(2) do |value,count| %>
-              <li>
-                <span class="facet-label">
-                  <a href="/catalog?f[exhibits][]=<%= @exhibit.path %>&amp;f[<%= name %>][]=<%= value %>" class="facet_select">Moving Image</a></span>
-                <span class="facet-count"><%= count %></span>
-              </li>
-            <% end %>
-          </ul>
-        </div>
-      </div>
-    </div>
-  <% end %>
+   
   
 
   <img src="<%= @exhibit.thumbnail_url %>"/>
@@ -96,43 +74,45 @@
     Morbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. Praesent imperdiet ligula eu lacinia volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at lectus orci. Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. 
   </p>
 
-  <br><br>
 
-  <h5><a href="#" class="btn-featured-record" title="This Record is featured in the Midwest! Exhibit"><span class="glyphicon glyphicon-star"></span>&nbsp;&nbsp;This Record is featured in the <em>Midwest!</em> Exhibit.</a></h5>
+<!-- View All Gallery Items Link -->
+  <div class="panel panel-primary view-all-gallery">
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-sm-9"><h3>View all items in this Gallery.</h3></div>
+        <div class="col-sm-3"><a class="btn btn-default" href="#" role="button">View Gallery</a></div>
+      </div>
+    </div>
+  </div>
 
-  <br><br>
+
 
   <h2>Narrative</h2>
 
-  <div class="narrative-body hidden-xs">
-    <p class="lead">
-      Seugorbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. Praesent imperdiet ligula eu lacinia volutpat.
-    </p>
+  <p>
 
-    <h3>Topic Heading</h3>
-    <p>
-      Morbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. 
-    </p>
+    <% @exhibit.ancestors.map do |ancestor| %>
+      <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.title %></a>
+    <% end %>
+  </p>
+  <%= @exhibit.formatted.html_safe %>
 
-
-    <h4>Section Heading</h4>
-
-    <p>
-      Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. Morbi ex erat, feugiat quis pharetra quis, ornare sed..........  
-    </p> 
-  </div>
   <hr> 
   <a class="btn btn-link" data-toggle="modal" data-target=".narrative-modal">View Narrative</a> | <a class="btn btn-link" href="#" role="button">Download Narrative</a>
 
+  <br><br><br><br>
+
+  <h5><a href="#" class="btn-featured-record" title="This Record is featured in the Midwest! Exhibit"><span class="glyphicon glyphicon-star"></span>&nbsp;&nbsp;This Record is featured in the <em>Midwest!</em> Exhibit.</a></h5>
 
   <br><br><br><br>
 
   <h2>Gallery</h2>
+  <p>(For when there is a need for one)</p>
 
   <div class="row">
 
     <!-- fake image -->
-    <div class="document col-xs-6 col-sm-4 col-md-4">
+    <div class="col-xs-6 col-sm-4 col-md-4">
       <div class="thumbnail">
         <div class="caption">
           <div class="documentHeader">
@@ -147,7 +127,7 @@
     <!-- /fake image -->
 
     <!-- fake image -->
-    <div class="document col-xs-6 col-sm-4 col-md-4">
+    <div class="col-xs-6 col-sm-4 col-md-4">
       <div class="thumbnail">
         <div class="caption">
           <div class="documentHeader">
@@ -162,7 +142,7 @@
     <!-- /fake image -->
 
     <!-- fake image -->
-    <div class="document col-xs-6 col-sm-4 col-md-4">
+    <div class="col-xs-6 col-sm-4 col-md-4">
       <div class="thumbnail">
         <div class="caption">
           <div class="documentHeader">
@@ -177,7 +157,7 @@
     <!-- /fake image -->
 
     <!-- fake image -->
-    <div class="document col-xs-6 col-sm-4 col-md-4">
+    <div class="col-xs-6 col-sm-4 col-md-4">
       <div class="thumbnail">
         <div class="caption">
           <div class="documentHeader">
@@ -192,7 +172,7 @@
     <!-- /fake image -->
 
     <!-- fake image -->
-    <div class="document col-xs-6 col-sm-4 col-md-4">
+    <div class="col-xs-6 col-sm-4 col-md-4">
       <div class="thumbnail">
         <div class="caption">
           <div class="documentHeader">
@@ -207,7 +187,7 @@
     <!-- /fake image -->
 
     <!-- fake image -->
-    <div class="document col-xs-6 col-sm-4 col-md-4">
+    <div class="col-xs-6 col-sm-4 col-md-4">
       <div class="thumbnail">
         <div class="caption">
           <div class="documentHeader">
@@ -227,51 +207,14 @@
   <a class="btn btn-link" href="#" role="button">View All Gallery Items</a>
 
 
-  <br><br><br><br>
-
-
-
-
-
-<!--   Narrative Modal -->
-<div class="modal fade narrative-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-
-        <div class="modal-header">
-          <button type="button" class="btn btn-link pull-right" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></button>
-          
-          <h4 class="modal-title">Narrative Title</h4>
-        </div>
-
-        <div class="modal-body">
-          <%= @exhibit.formatted.html_safe %>
-        </div>
-
-        <div class="modal-footer">
-          <button type="button" class="btn btn-link" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> Close</button>
-        </div>
-      </div><!-- /.modal-content -->
-
-      
-    </div>
-  </div>
-</div>
-
-
-
-  <p>
-    <!--  -->
-
-
-
-    <% @exhibit.ancestors.map do |ancestor| %>
-      <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.title %></a>
-    <% end %>
-  </p>
-  <!-- <%= @exhibit.formatted.html_safe %> -->
   
 <% end %>
+
+
+
+
+  
+
     
 <%= render partial: 'shared/title_sidebar_main', 
            locals: {
