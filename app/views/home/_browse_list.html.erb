@@ -3,40 +3,88 @@
 </div>
 
 <div class="container">
-  <div id="welcome-panel" class="row">
-    <%# TODO: Better CSS. Don't want big breaks in narrow layout. %>
-    
-    <div class="col-md-3 column" style="padding: 0 2em;">
-      <menu>Genre</menu>
-      <ul>
-        <% VocabMap.for('genre').authorized_names.sort.each do |genre| %>
-          <li><a href="/catalog?<%= {
-                  'f[access_types][]' => PBCore::PUBLIC_ACCESS,
-                  'f[genres][]' => genre
-          }.to_query %>"><%= genre %></a></li>
-        <% end %>
-      </ul>
-    </div>
-    
-    <% VocabMap.for('topic').authorized_names.sort.in_groups(3,false).tap do |groups|
-      # ad-hoc shuffling to make up for title.
-      2.times { groups[1].unshift(groups[0].pop) }
-      2.times { groups[2].unshift(groups[1].pop) }
-      groups.each_with_index do |group, i| %>
-      <div class="col-md-3 column" style="padding: 0 2em;">
-        <% if i == 0 %>
-          <menu>Topic</menu>
-        <% end %>
-        <ul>
-          <% group.each do |topic| %>
-            <li><a href="/catalog?<%= {
-                  'f[access_types][]' => PBCore::PUBLIC_ACCESS,
-                  'f[topics][]' => topic
-          }.to_query %>"><%= topic %></a></li>
+  <div class="row">
+      <% {
+        'Agriculture' => nil,
+        'Animals' => nil,
+        'Antiques and Collectibles' => nil,
+        'Biography' => nil,
+        'Business' => nil,
+        'Call-in' => nil,
+        'Children’s' => nil,
+        'Consumer Affairs and Advocacy' => nil,
+        'Cooking' => nil,
+        'Crafts' => nil,
+        'Dance' => nil,
+        'Debate' => nil,
+        'Documentary' => nil,
+        'Drama' => nil,
+        'Economics' => nil,
+        'Education' => nil,
+        'Employment' => nil,
+        'Energy' => nil,
+        'Environment' => nil,
+        'Event Coverage' => nil,
+        'Exercise' => nil,
+        'Film and Television' => nil,
+        'Fine Arts' => nil,
+        'Fundraiser' => nil,
+        'Game Show' => nil,
+        'Gardening' => nil,
+        'Geography' => nil,
+        'Global Affairs' => nil,
+        'Government' => nil,
+        'Health' => nil,
+        'History' => nil,
+        'Holiday' => nil,
+        'Home Improvement' => nil,
+        'Humor' => nil,
+        'Instructional' => nil,
+        'Interview' => nil,
+        'Journalism' => nil,
+        'LGBTQ' => 'lesbian+or+gay+or+bisexual+or+transsexual+or+queer+or+homosexual',
+        'Literature' => nil,
+        'Local Communities' => nil,
+        'Magazine' => nil,
+        'Miniseries' => nil,
+        'Music' => nil,
+        'Nature' => nil,
+        'News' => nil,
+        'News Report' => nil,
+        'Parenting' => nil,
+        'Performance' => nil,
+        'Performing Arts' => nil,
+        'Philosophy' => nil,
+        'Politics' => nil,
+        'Promo' => nil,
+        'Public Affairs' => nil,
+        'Public Service Announcement' => nil,
+        'Race and Ethnicity' => nil,
+        'Radio Theater' => nil,
+        'Recorded Music' => nil,
+        'Religion' => nil,
+        'Science' => nil,
+        'Social Issues' => nil,
+        'Special' => nil,
+        'Sports' => nil,
+        'Stand-up' => nil,
+        'Talk Show' => nil,
+        'Technology' => nil,
+        'Theater' => nil,
+        'Travel' => nil,
+        'Unedited' => nil,
+        'War and Conflict' => nil,
+        'Weather' => nil,
+        'Women' => nil,
+      }.each.to_a.in_groups(6,false) do |group| %>
+        <div  class="col-md-2 column">
+          <% group.each do |term, q| 
+              q ||= CGI::escape(term.downcase) %>
+            <div id="welcome-panel" style="padding: 0.5em; text-align: center;">
+              <a href="/catalog?q=<%= q %>"><%= term %></a>
+            </div>
           <% end %>
-        </ul>
-      </div>
-    <% end end %>
-    
-  </div>
+        </div>
+      <% end %>
+    </div>
 </div>
