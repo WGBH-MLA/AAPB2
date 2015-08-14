@@ -3,20 +3,6 @@
   <p>Learn about the history, significant productions, and archive contributions of more than 120 public media stations and archives.</p>
 </div>
 
-<%= render layout: 'shared/carousel', 
-           locals: {
-                    id: 'orgs-carousel', 
-                    items: Organization.all,
-                    view_all: 'View All Organizations',
-                    view_all_href: '/participating-orgs'
-                   } do |org| %>
-  <a href="/participating-orgs/<%= org.id %>" class="list-group-item">
-    <span class="carousel-caption">
-      <h3 class="list-group-item-heading"><%= org.short_name %></h3>
-      <h4 class="list-group-item-heading"><%= org.city %>, <%= org.state %></h4>
-      <span class="list-group-item-text description">
-        <p><%= org.summary_html.html_safe %></p>
-      </span>
-    </span>
-  </a>
-<% end %>
+<div id="welcome-panel" class="row">
+  <%= render file: "#{Rails.root}/app/views/organizations/usa.svg" %>
+</div>
