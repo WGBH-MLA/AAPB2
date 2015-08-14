@@ -93,8 +93,8 @@ describe 'Catalog' do
           ['topics', 1, 'Music', 1],
           ['asset_type', 1, 'Segment', 5],
           ['year', 1, '2000', 1],
-          ['organization', 16, 'WGBH+(MA)', 2], # all shown because of tag-ex in catalog_controller
-          ['access_types', 2, PBCore::ALL_ACCESS, 23],
+          ['organization', 17, 'WGBH+(MA)', 2], # all shown because of tag-ex in catalog_controller
+          ['access_types', 3, PBCore::ALL_ACCESS, 24],
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"
@@ -133,8 +133,8 @@ describe 'Catalog' do
 
       describe 'facet ORs' do
         assertions = [
-          ['media_type', 'Sound+OR+Moving+Image', 19],
-          ['media_type', 'Moving+Image+or+Sound', 19]
+          ['media_type', 'Sound+OR+Moving+Image', 20],
+          ['media_type', 'Moving+Image+or+Sound', 20]
         ]
         assertions.each do |facet, value, value_count|
           url = "/catalog?f[#{facet}][]=#{value}"
@@ -151,25 +151,25 @@ describe 'Catalog' do
       describe 'exhibit facet' do
         describe 'in gallery' do
           it 'has exhibition description' do
-            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=gallery'
-            expect(page).to have_text('Summary for search results goes here')
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery'
+            expect(page).to have_text('documents and celebrates stations\' histories')
           end
 
           it 'has individual descriptions' do
-            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=gallery'
-            expect(page).to have_text('item 1 summary')
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery'
+            expect(page).to have_text('Dedication ceremony of Arkansas’ new Educational Broadcasting Facility')
           end
         end
         
         describe 'in list' do
           it 'has exhibit description' do
-            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list'
-            expect(page).to have_text('Summary for search results goes here')
+            visit '/catalog?f[exhibits][]=station-histories&view=list'
+            expect(page).to have_text('documents and celebrates stations\' histories')
           end
 
           it 'has individual descriptions' do
-            visit '/catalog?f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list'
-            expect(page).to have_text('item 1 summary')
+            visit '/catalog?f[exhibits][]=station-histories&view=list'
+            expect(page).to have_text('dedication ceremony of the new Educational Television facility')
           end
         end
       end
@@ -178,7 +178,7 @@ describe 'Catalog' do
 
         describe 'relevance sorting' do
           assertions = [
-            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug, B-Roll', 'Musical Encounter, 116, Music for Fun']],
+            ['Iowa', ['Touchstone 108', 'Musical Encounter, 116, Music for Fun', 'Dr. Norman Borlaug, B-Roll']],
             ['art', ['Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
             ['John', ['Larry Kane On John Lennon 2005, World Cafe', 'Dr. Norman Borlaug, B-Roll']]
           ]
@@ -196,7 +196,7 @@ describe 'Catalog' do
         describe 'field sorting' do
           assertions = [
             ['year+desc', '3-2-1, Kaboom!, Gratuitous Explosions, Nova'],
-            ['year+asc', 'Musical Encounter, 116, Music for Fun'],
+            ['year+asc', '15th Anniversary Show'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
           assertions.each do |sort, title|
@@ -225,14 +225,14 @@ describe 'Catalog' do
             expect(
               page.all('#documents/div').map do |doc| 
                 doc.all('dl').map do |dl|
-                  "#{dl.find('dt').text}: #{dl.find('dd').text[0..20]}"
+                  "#{dl.find('dt').text}: #{dl.find('dd').text[0..20].strip}"
                 end
-              end).to eq([
+              end.join("\n")).to eq([
                 ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ'],
                 ['Episode: #508', 'Series: Askc: Ask Congress', 'Organization: WHUT'],
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio'],
                 ['Uncataloged: Dry Spell', 'Organization: KQED'],
-                ['Uncataloged: From Bessie Smith to ', 'Created: 1990-07-27', 'Uncataloged: 1991-07-27', 'Organization: Film and Media Archiv'],
+                ['Uncataloged: From Bessie Smith to', 'Created: 1990-07-27', 'Uncataloged: 1991-07-27', 'Organization: Film and Media Archiv'],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra'],
                 ['Program: Four Decades of Dedic', 'Uncataloged: Handles missing title', 'Organization: WPBS'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev'],
@@ -250,8 +250,9 @@ describe 'Catalog' do
                 ['Segment: Larry Kane On John Le', 'Program: World Cafe', 'Organization: WXPN'],
                 ['Segment: Martin Luther King, J', 'Segment: 1997-01-20 Sat/Mon', 'Program: World Cafe', 'Organization: WXPN'],
                 ['Episode: Judd Hirsch', 'Series: This is My Music', 'Collection: WQXR', 'Organization: WNYC'],
-                ['Program: WRF-09/13/07', 'Series: Writers Forum', 'Organization: WERU Community Radio']
-              ])
+                ['Program: WRF-09/13/07', 'Series: Writers Forum', 'Organization: WERU Community Radio'],
+                ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational']
+              ].join("\n"))
             expect_fuzzy_xml
           end
         end
