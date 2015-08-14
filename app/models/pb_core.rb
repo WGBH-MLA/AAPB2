@@ -4,15 +4,14 @@ require 'solrizer'
 require_relative '../../lib/aapb'
 require_relative 'exhibit'
 require_relative '../../lib/html_scrubber'
-
+require_relative 'xml_backed'
+require_relative 'pb_core_instantiation'
+require_relative 'pb_core_name_role_affiliation'
 require_relative 'organization'
 
 class PBCore # rubocop:disable Metrics/ClassLength
   # rubocop:disable Style/EmptyLineBetweenDefs
-  def initialize(xml)
-    @xml = xml
-    @doc = REXML::Document.new xml
-  end
+  include XmlBacked
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
@@ -27,22 +26,22 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
   def contributors
     @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do|rexml|
-      NameRoleAffiliation.new(rexml)
+      PBCoreNameRoleAffiliation.new(rexml)
     end
   end
   def creators
     @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map do|rexml|
-      NameRoleAffiliation.new(rexml)
+      PBCoreNameRoleAffiliation.new(rexml)
     end
   end
   def publishers
     @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map do|rexml|
-      NameRoleAffiliation.new(rexml)
+      PBCoreNameRoleAffiliation.new(rexml)
     end
   end
   def instantiations
     @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do|rexml|
-      Instantiation.new(rexml)
+      PBCoreInstantiation.new(rexml)
     end
   end
   def rights_summary
@@ -64,14 +63,14 @@ class PBCore # rubocop:disable Metrics/ClassLength
     nil
   end
   def titles_sort
-    @titles_sort ||= titles.reverse.map { |pair| pair.last }.join(' -- ')
+    # TODO: If title is stable, remove this. https://github.com/WGBH/AAPB2/issues/569
+    @titles_sort ||= title
   end
   def titles
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
   def title
-    @title ||= xpaths('/*/pbcoreTitle[@titleType!="Episode Number"]').first ||
-               xpaths('/*/pbcoreTitle').first # There are records that only have "Episode Number"
+    @title ||= titles.map { |pair| pair.last }.join('; ')
   end
   def exhibits
     @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.path }
@@ -125,13 +124,15 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name) ||
                       fail("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
   end
-
   def outside_url
-    @outside_url ||= xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]')
+    @outside_url ||= begin
+      xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]').tap do |url|
+        fail('If there is an Outside URL, the record must be explicitly public') unless public?
+      end
+    end
   rescue NoMatchError
     nil
   end
-
   def access_level
     @access_level ||= begin
       access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
@@ -182,14 +183,16 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # xpaths('/*/pbcoreInstantiation/instantiationGenerations').include?('Proxy')
   end
   ALL_ACCESS = 'all'             # includes non-digitized
-  PUBLIC_ACCESS = 'public'       # digitized
-  PROTECTED_ACCESS = 'protected' # digitized
+  PUBLIC_ACCESS = 'online'       # digitized
+  PROTECTED_ACCESS = 'on-location' # digitized
   PRIVATE_ACCESS = 'private'     # digitized
+  DIGITIZED_ACCESS = 'digitized' # public or protected, but not private
   def access_types
     @access_types ||= [ALL_ACCESS].tap do |types|
       types << PUBLIC_ACCESS if public?
       types << PROTECTED_ACCESS if protected?
       types << PRIVATE_ACCESS if private?
+      types << DIGITIZED_ACCESS if digitized? && !private?
     end
   end
 
@@ -229,138 +232,15 @@ class PBCore # rubocop:disable Metrics/ClassLength
     )
   end
 
-  class Instantiation
-    def initialize(rexml_or_media_type, duration=nil)
-      if duration
-        @media_type = rexml_or_media_type
-        @duration = duration
-      else
-        @rexml = rexml_or_media_type
-      end
-    end
-
-    def ==(other)
-      self.class == other.class &&
-        media_type == other.media_type &&
-        duration == other.duration
-    end
-
-    def media_type
-      @media_type ||= optional('instantiationMediaType')
-    end
-
-    def duration
-      @duration ||= optional('instantiationDuration')
-    end
-
-    private
-
-    def optional(xpath)
-      match = REXML::XPath.match(@rexml, xpath).first
-      match ? match.text : nil
-    end
-  end
-
-  class NameRoleAffiliation
-    def initialize(rexml_or_stem, name=nil, role=nil, affiliation=nil)
-      if name
-        # for testing only
-        @stem = rexml_or_stem
-        @name = name
-        @role = role
-        @affiliation = affiliation
-      else
-        @rexml = rexml_or_stem
-        @stem = @rexml.name.gsub('pbcore', '').downcase
-      end
-    end
-
-    def ==(other)
-      self.class == other.class &&
-        stem == other.stem &&
-        name == other.name &&
-        role == other.role &&
-        affiliation == other.affiliation
-    end
-
-    attr_reader :stem
-
-    def name
-      @name ||= REXML::XPath.match(@rexml, @stem).first.text
-    end
-
-    def role
-      @role ||= begin
-        node = REXML::XPath.match(@rexml, "#{@stem}Role").first
-        node ? node.text : nil
-      end
-    end
-
-    def affiliation
-      @affiliation ||= begin
-        node = REXML::XPath.match(@rexml, "#{@stem}/@affiliation").first
-        node ? node.value : nil
-      end
-    end
-
-    def to_a
-      [name, role, affiliation].select { |x| x }
-    end
-  end
-
   private
-
-  class NoMatchError < StandardError
-  end
-
-  def xpath(xpath)
-    REXML::XPath.match(@doc, xpath).tap do |matches|
-      if matches.length != 1
-        fail NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
-      else
-        return PBCore.text_from(matches.first)
-      end
-    end
-  end
-
-  def xpaths(xpath)
-    REXML::XPath.match(@doc, xpath).map { |node| PBCore.text_from(node) }
-  end
-
-  def self.text_from(node)
-    ((node.respond_to?('text') ? node.text : node.value) || '').strip
-  end
-
-  def pairs_by_type(element_xpath, attribute_xpath)
-    REXML::XPath.match(@doc, element_xpath).map do |node|
-      key = REXML::XPath.first(node, attribute_xpath)
-      [
-        key ? key.value : nil,
-        node.text
-      ]
-    end
-  end
-
-  def hash_by_type(element_xpath, attribute_xpath)
-    Hash[pairs_by_type(element_xpath, attribute_xpath)]
-  end
-
-# TODO: If we can just iterate over pairs, we don't need either of these.
-#
-#  def multi_hash_by_type(element_xpath, attribute_xpath) # Not tested
-#    Hash[
-#      pairs_by_type(element_xpath, attribute_xpath).group_by{|(key,value)| key}.map{|key,pair_list|
-#        [key, pair_list.map{|(key,value)| value}]
-#      }
-#    ]
-#  end
 
   # These methods are only used by to_solr.
 
   def text
     ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, 
-               :rights_code, :access_level, :access_types, :titles_sort, :ci_ids, 
-               :instantiations, :outside_url]
+               :rights_code, :access_level, :access_types, 
+               :titles_sort, :title, # Covered by #titles 
+               :ci_ids, :instantiations, :outside_url]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value

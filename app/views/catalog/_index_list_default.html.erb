@@ -22,7 +22,7 @@
           <!-- START Column -->
           <div class="col-md-9">
 
-            <h2><%= link_to_document(document, pbcore.titles.map(&:second).join(', ')) %></h2>
+            <h2><%= link_to_document(document, pbcore.title) %></h2>
             
             <%= render partial: 'exhibit_item', 
                        locals: { document: document } %>

@@ -170,32 +170,18 @@ class DownloadCleanIngest
   end
 
   def process
-    fails = { read: [], clean: [], validate: [], add: [], other: [] }
-    success = []
     ingester = PBCoreIngester.new(is_same_mount: @is_same_mount)
 
     @files.each do |path|
       begin
+        success_count_before = ingester.success_count
+        error_count_before = ingester.errors.values.flatten.count
         ingester.ingest(path: path, is_batch_commit: @is_batch_commit)
-      rescue PBCoreIngester::ReadError => e
-        $LOG.warn("Failed to read #{path}: #{e.short}")
-        fails[:read] << path
-        next
-      rescue PBCoreIngester::ValidationError => e
-        $LOG.warn("Failed to validate #{path}: #{e.short}")
-        fails[:validate] << path
-        next
-      rescue PBCoreIngester::SolrError => e
-        $LOG.warn("Failed to add #{path}: #{e.short}")
-        fails[:add] << path
-        next
-      rescue => e
-        $LOG.warn("Other error on #{path}: #{e.short}")
-        fails[:other] << path
-        next
-      else
-        $LOG.info("Successfully added '#{path}' #{'but not committed' if @is_batch_commit}")
-        success << path
+        success_count_after = ingester.success_count
+        error_count_after = ingester.errors.values.flatten.count
+        $LOG.info("Processed '#{path}' #{'but not committed' if @is_batch_commit}")
+        $LOG.info("success: #{success_count_after-success_count_before}; " +
+          "error: #{error_count_after-error_count_before}")
       end
     end
 
@@ -215,12 +201,23 @@ class DownloadCleanIngest
       $LOG.info('Finished sitemap generation.')
     end
 
-    $LOG.info('SUMMARY')
+    error_count = ingester.errors.values.flatten.count
+    success_count = ingester.success_count
+    total_count = error_count + success_count
+    
+    $LOG.info('SUMMARY: ERRORS')
 
-    fails.each {|type, list|
-      $LOG.warn("#{list.count} failed to #{type}:\n#{list.join("\n")}") unless list.empty?
+    ingester.errors.each {|type, list|
+      $LOG.warn("#{list.count} #{type} errors:\n#{list.join("\n")}")
     }
-    $LOG.info("#{success.count} succeeded")
+    
+    $LOG.info('SUMMARY: STATS')
+    
+    ingester.errors.each {|type, list|
+      $LOG.warn("#{list.count} #{type} errors (#{100 * list.count / total_count}%)")
+    }
+    
+    $LOG.info("#{ingester.success_count} (#{100 * success_count / total_count}%) succeeded")
 
     $LOG.info('DONE')
   end

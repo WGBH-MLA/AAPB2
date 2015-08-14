@@ -47,11 +47,12 @@ Wordpress sets a default TTL of 300s, which should be fine for now.
 - Videos are served from Sony Ci. We need to hit their API to generate temporary download URLs, which we then redirect to.
 
 
-### AWS OpsWorks
+### Deploying to production
 
-*TODO*: This has been in flux.
-
-<!-- https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-servers.svg?v1 -->
+Code and documentation are hosted in the private repository,
+[`aapb_deployment`](https://atlas.wgbh.org/stash/projects/MLA/repos/aapb_deployment/browse).
+To access it, you must have an account in WGBH's Atlassian system. Ask a
+project manager in Digital for more details.
 
 ### AMS Ingest
 

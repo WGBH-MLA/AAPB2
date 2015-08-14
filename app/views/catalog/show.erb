@@ -68,14 +68,12 @@
 <% content_for :main do %>
   <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
-  <h1 class="record-title"><%= @pbcore.title %></h1>
-
   <div class="well well-sm media-thumb">
 
     <a name="player"></a>
     <% if !@pbcore.media_srcs.empty? && 
         !@pbcore.outside_url &&
-        AccessControl.authorized_ip?(request.remote_ip) %>
+        can?(:play, @pbcore) %>
       <%= render partial: 'catalog/player' %>
     <% else %>
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">

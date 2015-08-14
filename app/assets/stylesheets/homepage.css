@@ -32,75 +32,65 @@
 		width:98%;
 	}
 
-/* Homepage Relative Nav */
-/*This is on hold for the time being*/
-.sticky-well {
-	background-color: rgba(255,255,255,.25);
-	border:0;
-	border-radius:0;
-	box-shadow:none;
-	height:50px;
-	margin:2em 0;
+
+/* Sticky Nav on the Homepage --------- */
+#homenav {
+	background-color:transparent;
+	border:none;
+	left: 0;
 	padding:0;
-	text-align:center;
+  position: absolute;
+  text-align: center;
+  top: 18em;
+  width: 100%;
+  z-index: 10;
 }
 	
-	/*This is when it gets picked up by then Affix plugin*/
-	.sticky-well.affix {
-		background:#FFF url(/site-ui/aapb-site-sprite.png) repeat-x 0 -7px;
-		border-bottom:1px solid #CCC;
-		height:60px;
+	#homenav.affix {
+		background: url(/site-ui/aapb-site-sprite.png) repeat-x 0 0;
+		background-color:rgba(24,18,40,.8);
 		left:0;
-		margin:0;
-		top:0;
+		padding: 1.6em 0 .8em;
+		position:fixed;
 		width:100%;
-		z-index:10000!important;
+		top:0;
 	}
 
-		.sticky-well .btn-group {
-			margin:0 auto;
-			width:auto;
+		#homenav.affix .aa-link {
+			display:block;
 		}
 
-		.sticky-well.affix .btn-group {
-			margin-top:6px;
-			width:auto;
+/*the list*/
+#homenav .nav {
+	display: inline-block;
+  margin: 0 auto;
+  width: auto;
+}
+
+	/*logo link*/
+	#homenav .aa-link {
+		display:none;
+	}
+
+		/*links*/
+		#homenav a {
+			color:#FFF;
 		}
 
+		#homenav a:hover {
+			background-color:rgba(24,18,40,.7);
+		}
 
-/* Home Rel Nav Styles */
-.home-rel-nav .btn,
-.home-rel-nav .btn:active {
-	-webkit-box-shadow: none;
-  box-shadow: none;
-}
-
-.home-rel-nav .btn-default {
-	color: #FFF;
-	background-color: transparent;
-	border:none;
-	font-size:1em;
-	line-height: 50px;
-	padding:0 .85em;
-	text-transform:uppercase;
-}
-
-	.home-rel-nav.affix .btn-default {
-		color: #004840;
-	}
-
-	.home-rel-nav .btn:hover {
-		background-color: rgba(255,255,255,.35);
-	}
-
-
-		.home-rel-nav.affix .home-rel-nav-welcome {
-			background:url(/site-ui/logo-mobile.png) no-repeat center 0;
-			height:60px;
+		/*logo link*/
+		#homenav .aa-link a {
+			background:#000 url(/site-ui/logo-mobile.png) no-repeat 0 0;
+			background-size:44px 44px;
+			display:block;
+			height:44px;
 			margin:0;
 			padding:0;
+			width:44px;
 			text-indent:-9999em;
-			width:60px;
 		}
 
 /* -------------------- */
@@ -239,12 +229,22 @@
 
 	/* Remove border radius */
 	.blacklight-home .jumbotron {
-		padding:2em 1em;
+		padding:5em 1em 2em 1em;
 	}
+
+		/* Remove border radius */
+		.blacklight-home .jumbotron#welcome {
+			padding:2em 1em;
+		}
 
 	/*Set .container width on Homepage Jumbotron*/
 	.blacklight-home .home-jumbotron .container {
 		width:960px;
+	}
+
+	/* FLoating Navigation on Homepage */
+	#homenav {
+	  top: 16em;
 	}
 
 	/*Intro text box for each section*/
@@ -284,10 +284,6 @@
 
 /* Desktop ---------- */
 @media (min-width: 992px) {
-
-
-
-
 
 	/* Home Jumbotron - Welcome */
 	#welcome {
@@ -329,7 +325,10 @@
 	}
 
 
-
+	/* FLoating Navigation on Homepage */
+	#homenav {
+	  top: 18em;
+	}
 
 
 }/* END: Desktop ---------- */
