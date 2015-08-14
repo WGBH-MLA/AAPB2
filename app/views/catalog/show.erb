@@ -44,7 +44,7 @@
     <% end %>
   </div>
   
-  <% @pbcore.titles.reverse_each do |type,title| %>
+  <% @pbcore.titles.each do |type,title| %>
     <dl>
       <dt><%= type %></dt>
       <dd><a href="/catalog?f[<%= type.downcase.gsub(/\s/,'_') %>_titles][]=<%= CGI::escape(title) %>"><%= title %></a></dd>
