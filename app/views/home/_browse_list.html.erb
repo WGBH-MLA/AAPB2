@@ -42,7 +42,7 @@
         'Instructional' => nil,
         'Interview' => nil,
         'Journalism' => nil,
-        'LGBTQ' => 'lesbian+or+gay+or+bisexual+or+transsexual+or+queer+or+homosexual',
+        'LGBTQ' => 'lesbian OR gay OR bisexual OR transsexual OR queer OR homosexual',
         'Literature' => nil,
         'Local Communities' => nil,
         'Magazine' => nil,
@@ -79,9 +79,9 @@
       }.each.to_a.in_groups(6,false) do |group| %>
         <div  class="col-md-2 column">
           <% group.each do |term, q| 
-              q ||= CGI::escape(term.downcase) %>
+              q ||= term.downcase %>
             <div id="welcome-panel" style="padding: 0.5em; text-align: center;">
-              <a href="/catalog?q=<%= q %>"><%= term %></a>
+              <a href="/catalog?q=<%= CGI::escape(q) %>"><%= term %></a>
             </div>
           <% end %>
         </div>
