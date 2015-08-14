@@ -32,6 +32,11 @@ describe 'Catalog' do
   end
 
   describe '#index' do
+    it 'has facet messages' do
+      visit '/catalog'
+      expect(page).to have_text('Cataloging in progress: Only 1/3 of AAPB records are currently dated.')
+    end
+    
     it 'can find one item' do
       visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=1234"
       expect(page.status_code).to eq(200)
