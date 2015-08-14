@@ -5,7 +5,7 @@
 <div class="container">
   <div class="row">
       <% {
-        'Agriculture' => nil,
+        'Agriculture' => 'farms OR crops OR livestock OR agriculture',
         'Animals' => nil,
         'Antiques and Collectibles' => nil,
         'Biography' => nil,
@@ -20,7 +20,7 @@
         'Documentary' => nil,
         'Drama' => nil,
         'Economics' => nil,
-        'Education' => nil,
+        'Education' => 'education OR school OR teach',
         'Employment' => nil,
         'Energy' => nil,
         'Environment' => nil,
@@ -73,7 +73,7 @@
         'Theater' => nil,
         'Travel' => nil,
         'Unedited' => nil,
-        'War and Conflict' => nil,
+        'War and Conflict' => 'war OR battle',
         'Weather' => nil,
         'Women' => nil,
       }.each.to_a.in_groups(6,false) do |group| %>
