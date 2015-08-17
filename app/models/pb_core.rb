@@ -100,7 +100,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @captions_src ||= "/captions/#{id}.txt" if video?
     # TODO: "CC" icon will show for all videos, even if caption isn't actually available.
   end
-  def img_src # rubocop:disable CyclomaticComplexity
+  def img_src
     @img_src ||=
       case [media_type, digitized?]
       when [MOVING_IMAGE, true]

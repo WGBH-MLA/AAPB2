@@ -1,4 +1,4 @@
-#inherit_from: .rubocop_todo.yml
+inherit_from: .rubocop_todo.yml
 
 # TODO: What's a better idiom?
 Style/MultilineBlockChain:
@@ -9,16 +9,16 @@ Style/SymbolProc:
   Enabled: false
 Style/WordArray:
   MinSize: 6
+
+# %r is more unusual than a backslash, at least for me.
+Style/RegexpLiteral:
+  AllowInnerSlashes: true
   
 Style/SpaceAroundEqualsInParameterDefault:
   EnforcedStyle: no_space
   
 Metrics/ParameterLists:
   Max: 4
-
-# Sometimes more readable?
-Style/Blocks:
-  Enabled: false
 
 # I like to distinguish code blocks which are commented out from real comments
 Style/CommentIndentation:

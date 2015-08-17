@@ -1,5 +1,6 @@
 require_relative '../../lib/html_scrubber'
 
+# rubocop:disable Metrics/LineLength
 describe HtmlScrubber do
   it 'scrubs "nbsp"' do
     expect(HtmlScrubber.scrub('debate Sunday evening.&nbsp; As&nbsp;Laura Weber reports'))

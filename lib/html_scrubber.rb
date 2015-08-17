@@ -20,8 +20,8 @@ class HtmlScrubber
               .gsub(/\b\/\w+/, '')
     end
 
-    dirty = dirty.gsub(/[ \t]+/, ' ')
-            .gsub(/\n( ?\n)+/, "\n")
-            .gsub(/^\s+|\s+$/, '')
+    dirty.gsub(/[ \t]+/, ' ')
+      .gsub(/\n( ?\n)+/, "\n")
+      .gsub(/^\s+|\s+$/, '')
   end
 end

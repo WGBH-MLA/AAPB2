@@ -15,7 +15,7 @@ class Downloader
   # ie, this not sensitive.
   $LOG ||= NullLogger.new
 
-  def initialize(since) # rubocop:disable PerceivedComplexity, CyclomaticComplexity
+  def initialize(since)
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
       fail("Expected YYYYMMDD, not '#{since}'") unless
