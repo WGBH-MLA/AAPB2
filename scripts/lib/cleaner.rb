@@ -51,6 +51,10 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     }
 
     # pbcoreTitle:
+    
+    match(doc, '/pbcoreTitle[not(text())]') { |node|
+      Cleaner.delete(node)
+    }
 
     match(doc, '[not(pbcoreTitle)]') {
       # If there is a match, it's the root node, so no "node" parameter is needed.
@@ -176,8 +180,6 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     seen_values = Set.new
     ['/pbcoreTitle', '/pbcoreDescription', '/pbcoreRightsSummary/rightsSummary', #
         '/pbcoreInstantiation/instantiationIdentifier'].each { |name|
-        
-      
       match(doc, name) { |node|
         if seen_values.include?(node.text)
           Cleaner.delete(node)
@@ -185,6 +187,10 @@ class Cleaner # rubocop:disable Metrics/ClassLength
           seen_values.add(node.text)
         end
       }
+    }
+    
+    match(doc, '[not(pbcoreDescription)]') {
+      raise 'No pbcoreDescription remains after removal of duplicate values'
     }
     
     # formatting:

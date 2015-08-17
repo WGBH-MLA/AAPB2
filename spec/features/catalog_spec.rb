@@ -32,6 +32,11 @@ describe 'Catalog' do
   end
 
   describe '#index' do
+    it 'has facet messages' do
+      visit '/catalog'
+      expect(page).to have_text('Cataloging in progress: Only 1/3 of AAPB records are currently dated.')
+    end
+    
     it 'can find one item' do
       visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=1234"
       expect(page.status_code).to eq(200)
@@ -41,7 +46,7 @@ describe 'Catalog' do
         'Kaboom!',
         'Gratuitous Explosions',
         'Series Nova',
-        'Uncataloged 2000-01-01',
+        'Date 2000-01-01',
         '2000-01-01',
         'Best episode ever!'
       ].each do |field|
@@ -93,8 +98,8 @@ describe 'Catalog' do
           ['topics', 1, 'Music', 1],
           ['asset_type', 1, 'Segment', 5],
           ['year', 1, '2000', 1],
-          ['organization', 16, 'WGBH+(MA)', 2], # all shown because of tag-ex in catalog_controller
-          ['access_types', 4, PBCore::ALL_ACCESS, 23]
+          ['organization', 17, 'WGBH+(MA)', 2], # all shown because of tag-ex in catalog_controller
+          ['access_types', 3, PBCore::ALL_ACCESS, 24],
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -133,8 +138,8 @@ describe 'Catalog' do
 
       describe 'facet ORs' do
         assertions = [
-          ['media_type', 'Sound+OR+Moving+Image', 19],
-          ['media_type', 'Moving+Image+or+Sound', 19]
+          ['media_type', 'Sound+OR+Moving+Image', 20],
+          ['media_type', 'Moving+Image+or+Sound', 20]
         ]
         assertions.each do |facet, value, value_count|
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -151,25 +156,25 @@ describe 'Catalog' do
       describe 'exhibit facet' do
         describe 'in gallery' do
           it 'has exhibition description' do
-            visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[exhibits][]=midwest%2Fiowa%2Fcresco&view=gallery"
-            expect(page).to have_text('Summary for search results goes here')
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]='+PBCore::ALL_ACCESS
+            expect(page).to have_text('documents and celebrates stations\' histories')
           end
 
           it 'has individual descriptions' do
-            visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[exhibits][]=midwest%2Fiowa%2Fcresco&view=gallery"
-            expect(page).to have_text('item 1 summary')
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]='+PBCore::ALL_ACCESS
+            expect(page).to have_text('Dedication ceremony of Arkansas’ new Educational Broadcasting Facility')
           end
         end
         
         describe 'in list' do
           it 'has exhibit description' do
-            visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list"
-            expect(page).to have_text('Summary for search results goes here')
+            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]='+PBCore::ALL_ACCESS
+            expect(page).to have_text('documents and celebrates stations\' histories')
           end
 
           it 'has individual descriptions' do
-            visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[exhibits][]=midwest%2Fiowa%2Fcresco&view=list"
-            expect(page).to have_text('item 1 summary')
+            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]='+PBCore::ALL_ACCESS
+            expect(page).to have_text('dedication ceremony of the new Educational Television facility')
           end
         end
       end
@@ -178,7 +183,7 @@ describe 'Catalog' do
 
         describe 'relevance sorting' do
           assertions = [
-            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun']],
+            ['Iowa', ['Touchstone 108', 'Musical Encounter; 116; Music for Fun', 'Dr. Norman Borlaug; B-Roll']],
             ['art', ['Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
             ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll']]
           ]
@@ -196,7 +201,7 @@ describe 'Catalog' do
         describe 'field sorting' do
           assertions = [
             ['year+desc', 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!'],
-            ['year+asc', 'Musical Encounter; 116; Music for Fun'],
+            ['year+asc', '15th Anniversary Show'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
           assertions.each do |sort, title|
@@ -225,7 +230,7 @@ describe 'Catalog' do
             expect(
               page.all('#documents/div').map do |doc| 
                 doc.all('dl').map do |dl|
-                  "#{dl.find('dt').text}: #{dl.find('dd').text[0..20]}"
+                  "#{dl.find('dt').text}: #{dl.find('dd').text[0..20].strip}"
                 end.join('; ')
               end.join("\n")).to eq([
                 ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ'],
@@ -233,11 +238,11 @@ describe 'Catalog' do
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio'],
                 ['Title: Dry Spell', 'Organization: KQED'],
                 ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS'],
-                ['Title: From Bessie Smith to ', 'Created: 1990-07-27', 'Uncataloged: 1991-07-27', 'Organization: Film and Media Archiv'],
+                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv'],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev'],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio'],
-                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Uncataloged: 2000-01-01', 'Organization: WGBH'],
+                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH'],
                 ['Title: Podcast Release Form', 'Organization: KXCI Community Radio'],
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH'],
                 ['Title: Scheewe Art Workshop', 'Organization: Detroit Public Televi'],
@@ -250,7 +255,8 @@ describe 'Catalog' do
                 ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN'],
                 ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN'],
                 ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC'],
-                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Organization: WERU Community Radio']
+                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Organization: WERU Community Radio'],
+                ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational']
               ].map{|x| x.join('; ')}.join("\n"))
             expect_fuzzy_xml
           end

@@ -105,7 +105,7 @@ describe 'Validated and plain PBCore' do
             'explosions -- gratuitious', 'musicals -- horror', #
             'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', #
             'Copy Left: All rights reversed.', #
-            'Album', 'Uncataloged', '2000-01-01', #
+            'Album', 'Date', '2000-01-01', #
             'Series', 'Nova', 'Program', 'Gratuitous Explosions', # 
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
             '1234', 'AAPB ID', 'somewhere else', '5678', #
@@ -129,7 +129,7 @@ describe 'Validated and plain PBCore' do
         access_level: 'Online Reading Room',
         asset_type: 'Album',
         asset_date: '2000-01-01',
-        asset_dates: [['Uncataloged', '2000-01-01']],
+        asset_dates: [['Date', '2000-01-01']],
         titles_sort: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
         titles: [['Series', 'Nova'], ['Program', 'Gratuitous Explosions'], #
                  ['Episode Number', '3-2-1'], ['Episode', 'Kaboom!']],

@@ -11,12 +11,11 @@ describe User do
     context "when remote IP is within the WGBH and LOC IP ranges (i.e. 'on-site')" do
 
       # Lists of all on-site IPs from WGBH and LOC
-      let(:wgbh_ips) { IPAddr.new('198.147.175.0/24').to_range.to_a.map(&:to_s) }
-      let(:loc_ips) { IPAddr.new('140.147.0.0/16').to_range.to_a.map(&:to_s) }  # NOTE: this is > 65K IPs
+      let(:wgbh_ips) { IPAddr.new('198.147.175.0/24').to_range.minmax.map(&:to_s) }
+      let(:loc_ips) { IPAddr.new('140.147.0.0/16').to_range.minmax.map(&:to_s) }
 
       let(:test_these_onsite_ips) do
-        [wgbh_ips.first, wgbh_ips.last, wgbh_ips.sample] +
-        [loc_ips.first, loc_ips.last, loc_ips.sample]
+        wgbh_ips + loc_ips
       end
 
       it 'returns true' do
@@ -52,7 +51,8 @@ describe User do
     end
 
     it 'returns false for non-US IP addresses' do
-      allow(fake_request).to receive(:remote_ip) { IPSocket::getaddress('www.gouvernement.fr') rescue nil }
+      canadian_ip = '50.117.128.0'
+      allow(fake_request).to receive(:remote_ip) { canadian_ip }
       expect(user.usa?).to eq false
     end
   end

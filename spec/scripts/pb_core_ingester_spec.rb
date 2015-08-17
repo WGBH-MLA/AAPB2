@@ -13,13 +13,14 @@ describe PBCoreIngester do
     expect { PBCoreIngester.new(is_same_mount: false) }.to raise_error
   end
 
-  it 'fails with non-existent file' do
-    expect { @ingester.ingest(path: '/non-existent.xml') }.to raise_error(PBCoreIngester::ReadError)
+  it 'whines about non-existent file' do
+    @ingester.ingest(path: '/non-existent.xml')
+    expect(@ingester.errors.keys).to eq ['Errno::ENOENT']
   end
 
-  it 'fails with invalid file' do
-    # obviously this file is not valid pbcore.
-    expect { @ingester.ingest(path: __FILE__) }.to raise_error(PBCoreIngester::ValidationError)
+  it 'whines about invalid file' do
+    @ingester.ingest(path: __FILE__)
+    expect(@ingester.errors.keys).to eq ['PBCoreIngester::ValidationError']
   end
 
   it 'works for single ingest' do
@@ -52,7 +53,7 @@ describe PBCoreIngester do
     Dir[glob].each do |fixture_path|
       expect { @ingester.ingest(path: fixture_path) }.not_to raise_error
     end
-    expect_results(23)
+    expect_results(24)
   end
 
   def expect_results(count)

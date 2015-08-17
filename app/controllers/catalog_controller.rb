@@ -64,14 +64,17 @@ class CatalogController < ApplicationController
     #
 
     config.add_facet_field 'media_type'
-    config.add_facet_field 'genres', label: 'Genre', solr_params: { 'facet.limit' => -1 }
-    config.add_facet_field 'topics', label: 'Topic', solr_params: { 'facet.limit' => -1 }
+    config.add_facet_field 'genres', label: 'Genre', solr_params: { 'facet.limit' => -1 },
+      message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
+    config.add_facet_field 'topics', label: 'Topic', solr_params: { 'facet.limit' => -1 },
+      message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
     config.add_facet_field 'asset_type'
     config.add_facet_field 'organization', sort: 'index', solr_params: { 'facet.limit' => -1 },
                            # Default is 100, but we have more orgs than that. -1 means no limit.
                            tag: 'org', ex: 'org'
                            # Display all, even when one is selected.
-    config.add_facet_field 'year', sort: 'index', range: true
+    config.add_facet_field 'year', sort: 'index', range: true, 
+      message: 'Cataloging in progress: Only 1/3 of AAPB records are currently dated.'
     config.add_facet_field 'access_types', label: 'Access', partial: 'access_facet', 
       tag: 'access', ex: 'access', collapse: false
 
