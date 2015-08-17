@@ -148,7 +148,7 @@ class CatalogController < ApplicationController
   def index
     actual_params = params.keys - ['action', 'controller']
     if !actual_params.empty? &&
-       params.except(:action, :controller, :utf8, :search_field)
+       params.except(:action, :controller, :utf8)
        .select { |_key, value| !value.empty? }.empty?
         # TODO: should a bare "f[access_types][]" send you back to advanced?
       redirect_to '/catalog'

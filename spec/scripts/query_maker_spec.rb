@@ -15,7 +15,7 @@ describe QueryMaker do
   end
 
   it 'handles text + facet search' do
-    query = 'utf8=✓&f[organization][]=Detroit+Public+Television+(MI)&search_field=all_fields&q=art'
+    query = 'utf8=✓&f[organization][]=Detroit+Public+Television+(MI)&q=art'
     expect(QueryMaker.translate(query)).to eq 'organization:"Detroit Public Television (MI)" text:"art"'
   end
 end
