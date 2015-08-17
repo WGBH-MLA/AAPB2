@@ -10,8 +10,8 @@ describe GeoIPCountry do
     expect(GeoIPCountry.instance.country_code('0.0.0.0')).to eq '--'
   end
   
-  it 'puts MIT in US' do
-    expect(country_for_domain('mit.edu')).to eq 'US'
+  it 'puts UMass in US' do
+    expect(country_for_domain('umass.edu')).to eq 'US'
   end
   
   it 'puts BBC in GB' do
