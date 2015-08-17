@@ -23,22 +23,22 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     # pbcoreAssetType:
 
-    match(doc, '/pbcoreAssetType') { |node|
+    match(doc, '/pbcoreAssetType') do |node|
       @asset_type_map.map_node(node)
-    }
+    end
 
     # TODO: insert assetType if not given.
 
-    match(doc, '/pbcoreAssetDate') { |node|
+    match(doc, '/pbcoreAssetDate') do |node|
       match = node.text.match(/^(\d{4})/)
       Cleaner.delete(node) unless match && match[1].to_i.between?(1900, Time.now.year)
-    }
+    end
 
     # dateType
 
-    match(doc, '/pbcoreAssetDate[not(@dateType)]') { |node|
+    match(doc, '/pbcoreAssetDate[not(@dateType)]') do |node|
       node.attributes['dateType'] = ''
-    }
+    end
 
     @date_type_map.map_reorder_nodes(REXML::XPath.match(doc, '//pbcoreAssetDate/@dateType'))
     # TODO: sort instantiation dates? Though with multiple instantiations,
@@ -46,32 +46,32 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     # pbcoreIdentifier:
 
-    match(doc, '/pbcoreIdentifier[not(@source)]') { |node|
+    match(doc, '/pbcoreIdentifier[not(@source)]') do |node|
       node.attributes['source'] = 'unknown'
-    }
+    end
 
     # pbcoreTitle:
-    
-    match(doc, '/pbcoreTitle[not(text())]') { |node|
-      Cleaner.delete(node)
-    }
 
-    match(doc, '[not(pbcoreTitle)]') {
+    match(doc, '/pbcoreTitle[not(text())]') do |node|
+      Cleaner.delete(node)
+    end
+
+    match(doc, '[not(pbcoreTitle)]') do
       # If there is a match, it's the root node, so no "node" parameter is needed.
       Cleaner.insert_after_match(
         doc,
         '/pbcoreDescriptionDocument/pbcoreIdentifier',
         REXML::Document.new('<pbcoreTitle titleType="Program">unknown</pbcoreTitle>')
       )
-    }
+    end
 
-    match(doc, '/pbcoreTitle[not(@titleType)]') { |node|
+    match(doc, '/pbcoreTitle[not(@titleType)]') do |node|
       node.attributes['titleType'] = ''
-    }
-    
-    match(doc, '/pbcoreTitle') { |node|
+    end
+
+    match(doc, '/pbcoreTitle') do |node|
       node.text = Cleaner.clean_title(node.text)
-    }
+    end
 
     @title_type_map.map_reorder_nodes(
       REXML::XPath.match(doc, '//pbcoreTitle/@titleType'))
@@ -83,10 +83,10 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     # pbcoreGenre:
 
-    match(doc, '/pbcoreGenre') { |node|
+    match(doc, '/pbcoreGenre') do |node|
       genre = @genre_type_map.map_string(node.text)
       topic = @topic_type_map.map_string(node.text)
-      
+
       if topic.empty? && !genre.empty?
         node.text = genre
         node.add_attribute('annotation', 'genre')
@@ -96,103 +96,103 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       else
         Cleaner.delete(node)
       end
-    }
-    
+    end
+
     # pbcoreRelation:
 
-    match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') { |node|
+    match(doc, '/pbcoreRelation[not(pbcoreRelationType)]') do |node|
       Cleaner.delete(node)
-    }
+    end
 
-    match(doc, '/pbcoreRelation') { |node|
+    match(doc, '/pbcoreRelation') do |node|
       if node.elements[1].name == 'pbcoreRelationIdentifier'
         Cleaner.swap_children(node)
       end
-    }
+    end
 
     # pbcoreCoverage:
 
-    match(doc, '/pbcoreCoverage[coverageType[not(node())]]') { |node|
+    match(doc, '/pbcoreCoverage[coverageType[not(node())]]') do |node|
       Cleaner.delete(node)
-    }
+    end
 
-    match(doc, '/pbcoreCoverage/coverageType') { |node|
+    match(doc, '/pbcoreCoverage/coverageType') do |node|
       node.text = node.text.capitalize
-    }
+    end
 
     # pbcoreCreator/Contributor/Publisher:
 
-    match(doc, '/pbcoreCreator[not(creator)]') { |node|
+    match(doc, '/pbcoreCreator[not(creator)]') do |node|
       Cleaner.delete(node)
-    }
-    match(doc, '/pbcoreContributor[not(contributor)]') { |node|
+    end
+    match(doc, '/pbcoreContributor[not(contributor)]') do |node|
       Cleaner.delete(node)
-    }
-    match(doc, '/pbcorePublisher[not(publisher)]') { |node|
+    end
+    match(doc, '/pbcorePublisher[not(publisher)]') do |node|
       Cleaner.delete(node)
-    }
+    end
 
     # pbcoreInstantiation:
 
-    match(doc, '/pbcoreInstantiation[not(instantiationIdentifier)]') { |node|
+    match(doc, '/pbcoreInstantiation[not(instantiationIdentifier)]') do |node|
       node[0, 0] = REXML::Element.new('instantiationIdentifier')
-    }
+    end
 
-    match(doc, '/pbcoreInstantiation/instantiationIdentifier[not(@source)]') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationIdentifier[not(@source)]') do |node|
       node.attributes['source'] = 'unknown'
-    }
+    end
 
-    match(doc, '/pbcoreInstantiation[not(instantiationLocation)]') { |node|
+    match(doc, '/pbcoreInstantiation[not(instantiationLocation)]') do |node|
       Cleaner.insert_after_match(
         node,
         Cleaner.any('instantiation', %w(Identifier Date Dimensions Physical Digital Standard)),
         REXML::Element.new('instantiationLocation')
       )
-    }
+    end
 
-    match(doc, '/pbcoreInstantiation[not(instantiationMediaType)]') { |node|
+    match(doc, '/pbcoreInstantiation[not(instantiationMediaType)]') do |node|
       Cleaner.insert_after_match(
         node,
         'instantiationLocation',
         REXML::Element.new('instantiationMediaType')
       )
-    }
+    end
 
-    match(doc, '/pbcoreInstantiation/instantiationDimensions/@unitOfMeasure') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationDimensions/@unitOfMeasure') do |node|
       node.name = 'unitsOfMeasure'
-    }
+    end
 
     match(doc, '/pbcoreInstantiation/instantiationMediaType' \
-      '[. != "Moving Image" and . != "Sound" and . != "other"]') { |node|
+      '[. != "Moving Image" and . != "Sound" and . != "other"]') do |node|
       node.text = 'other'
-    }
+    end
 
-    match(doc, '/pbcoreInstantiation/instantiationLanguage') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationLanguage') do |node|
       Cleaner.clean_language(node)
-    }
+    end
 
-    match(doc, '/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackLanguage') { |node|
+    match(doc, '/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackLanguage') do |node|
       Cleaner.clean_language(node)
-    }
+    end
 
     # duplicate value removal
-    
+
     seen_values = Set.new
     ['/pbcoreTitle', '/pbcoreDescription', '/pbcoreRightsSummary/rightsSummary', #
-        '/pbcoreInstantiation/instantiationIdentifier'].each { |name|
-      match(doc, name) { |node|
+     '/pbcoreInstantiation/instantiationIdentifier'].each do |name|
+      match(doc, name) do |node|
         if seen_values.include?(node.text)
           Cleaner.delete(node)
         else
           seen_values.add(node.text)
         end
-      }
-    }
-    
-    match(doc, '[not(pbcoreDescription)]') {
-      raise 'No pbcoreDescription remains after removal of duplicate values'
-    }
-    
+      end
+    end
+
+    match(doc, '[not(pbcoreDescription)]') do
+      fail 'No pbcoreDescription remains after removal of duplicate values'
+    end
+
     # formatting:
 
     formatter = REXML::Formatters::Pretty.new(2)
@@ -210,16 +210,16 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     node.text = node.text[0..2].downcase # Rare problem; Works for English, but not for other languages.
     node.parent.elements.delete(node) if node.text !~ /^[a-z]{3}/
   end
-  
+
   def self.clean_title(title)
     if title =~ /[A-Z]/ && title =~ /[a-z]/
       title # No change, if mix of upper and lower.
     else
       title.downcase
-        .gsub(/\b\w/) { |match|
+        .gsub(/\b\w/) do |match|
           # First letters
-          match.upcase 
-        }
+          match.upcase
+        end
         .gsub(/\b(
             AFN|AG|ASMW|BSO|CEO|CMU|CO|CTE|DCA
             |ETV|HBCU|HIKI|ICC|II|IPR|ITV|KAKM|KBDI|KCAW|KCMU
@@ -234,23 +234,23 @@ class Cleaner # rubocop:disable Metrics/ClassLength
             |WGUC|WGVU|WHA|WHRO|WHUR|WHUT|WHYY|WIAA|WKAR|WLAE
             |WMEB|WNED|WNET|WNYC|WOJB|WOSU|WQED|WQEJ|WRFA|WRNI|WSIU
             |WTIP|WTIU|WUFT|WUMB|WUNC|WUSF|WVIA|WVIZ|WWOZ|WXXI|WYCC
-            |WYSO|WYSU|YSU)\b/xi) { |match|
+            |WYSO|WYSU|YSU)\b/xi) do |match|
           # Based on:
           #   ruby -ne '$_.match(/[A-Z]{2,}/){|m| puts m}' config/organizations.yml \
           #     | grep '[AEIOUY]' | sort | uniq | ruby -ne 'print $_.chop; print "|"'
           # Removed: AM, AMBER, COLORES, COSI, FETCH, NET, RISE, SAM, STEM, TOLD, WILL
-          match.upcase
-        }
-        .gsub(/\b[^AEIOUY]+\b/i) { |match|
+        match.upcase
+      end
+        .gsub(/\b[^AEIOUY]+\b/i) do |match|
           # Unknown acronyms
           match.upcase
-        }
-        .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i) { |match|
+        end
+        .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i) do |match|
           match.downcase
-        }
-        .gsub(/^./) { |match|
+        end
+        .gsub(/^./) do |match|
           match.upcase
-        } 
+        end
     end
   end
 

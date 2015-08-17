@@ -25,7 +25,7 @@ describe 'Catalog' do
     url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
     expect(page).to have_css("img[src='#{url}']")
   end
-  
+
   def expect_poster(id)
     url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
     expect(page).to have_css("video[poster='#{url}']")
@@ -36,7 +36,7 @@ describe 'Catalog' do
       visit '/catalog'
       expect(page).to have_text('Cataloging in progress: Only 1/3 of AAPB records are currently dated.')
     end
-    
+
     it 'can find one item' do
       visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=1234"
       expect(page.status_code).to eq(200)
@@ -99,7 +99,7 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 5],
           ['year', 1, '2000', 1],
           ['organization', 17, 'WGBH+(MA)', 2], # all shown because of tag-ex in catalog_controller
-          ['access_types', 3, PBCore::ALL_ACCESS, 24],
+          ['access_types', 3, PBCore::ALL_ACCESS, 24]
         ]
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -109,9 +109,9 @@ describe 'Catalog' do
               page.all("#facet-#{facet} li a").count
             ).to eq facet_count # expected number of values for each facet
             expect(
-              page.all('.panel-heading[data-target]').map { |node|
+              page.all('.panel-heading[data-target]').map do |node|
                 node['data-target'].gsub('#facet-', '')
-              } - ['year'] # years are sparse, so they may drop out of the facet list.
+              end - ['year'] # years are sparse, so they may drop out of the facet list.
             ).to eq(assertions.map { |a| a.first } - ['year']) # coverage
             expect(page.status_code).to eq(200)
             expect_count(value_count)
@@ -156,31 +156,30 @@ describe 'Catalog' do
       describe 'exhibit facet' do
         describe 'in gallery' do
           it 'has exhibition description' do
-            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]='+PBCore::ALL_ACCESS
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCore::ALL_ACCESS
             expect(page).to have_text('documents and celebrates stations\' histories')
           end
 
           it 'has individual descriptions' do
-            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]='+PBCore::ALL_ACCESS
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCore::ALL_ACCESS
             expect(page).to have_text('Dedication ceremony of Arkansas’ new Educational Broadcasting Facility')
           end
         end
-        
+
         describe 'in list' do
           it 'has exhibit description' do
-            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]='+PBCore::ALL_ACCESS
+            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
             expect(page).to have_text('documents and celebrates stations\' histories')
           end
 
           it 'has individual descriptions' do
-            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]='+PBCore::ALL_ACCESS
+            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
             expect(page).to have_text('dedication ceremony of the new Educational Television facility')
           end
         end
       end
 
       describe 'sorting' do
-
         describe 'relevance sorting' do
           assertions = [
             ['Iowa', ['Touchstone 108', 'Musical Encounter; 116; Music for Fun', 'Dr. Norman Borlaug; B-Roll']],
@@ -192,7 +191,7 @@ describe 'Catalog' do
             it "sort=score+desc: #{titles}\t#{url}" do
               visit url
               expect(page.status_code).to eq(200)
-              expect(page.all('.document h2').map{|node| node.text}).to eq(titles)
+              expect(page.all('.document h2').map { |node| node.text }).to eq(titles)
               expect_fuzzy_xml
             end
           end
@@ -211,9 +210,9 @@ describe 'Catalog' do
               expect(
                 # NOTE: We do not check relevance sort here, because,
                 # without a query, every result has a relevance of "1".
-                page.all('#sort-dropdown .dropdown-menu a').map { |node|
+                page.all('#sort-dropdown .dropdown-menu a').map do |node|
                   node['href'].gsub(/.*sort=/, '')
-                } - ['score+desc']
+                end - ['score+desc']
               ).to eq(assertions.map { |a| a.first }) # coverage
               expect(page.status_code).to eq(200)
               expect(page.find('.document[1] h2').text).to eq(title)
@@ -228,7 +227,7 @@ describe 'Catalog' do
             visit url
             expect(page.status_code).to eq(200)
             expect(
-              page.all('#documents/div').map do |doc| 
+              page.all('#documents/div').map do |doc|
                 doc.all('dl').map do |dl|
                   "#{dl.find('dt').text}: #{dl.find('dd').text[0..20].strip}"
                 end.join('; ')
@@ -257,15 +256,14 @@ describe 'Catalog' do
                 ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC'],
                 ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Organization: WERU Community Radio'],
                 ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational']
-              ].map{|x| x.join('; ')}.join("\n"))
+              ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml
           end
         end
       end
     end
-
   end
-    
+
   describe '.pbcore' do
     it 'works' do
       visit '/catalog/1234.pbcore'
@@ -276,21 +274,20 @@ describe 'Catalog' do
   end
 
   describe '#show' do
-    
     AGREE = 'I agree'
-    
+
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
       click_button(AGREE)
       target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
       target.send(:text).each do |field|
-        # #text is only used for #to_solr, so it's private... 
+        # #text is only used for #to_solr, so it's private...
         # so we need the #send to get at it.
         expect(page).to have_text(field)
       end
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
     end
-    
+
     it 'has poster otherwise if media' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
       click_button(AGREE)
@@ -311,9 +308,7 @@ describe 'Catalog' do
         details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
         it "details: #{details_url}" do
           visit details_url
-          if pbcore.digitized?
-            click_button(AGREE)
-          end
+          click_button(AGREE) if pbcore.digitized?
           expect_fuzzy_xml
         end
         search_url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"

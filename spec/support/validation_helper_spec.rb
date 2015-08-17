@@ -6,12 +6,13 @@ describe ValidationHelper do
     def initialize(body)
       @body = "<html><head><title>howdy</title></head><body>#{body}</body></html>"
     end
-    def body
-      @body
-    end
+
+    attr_reader :body
+
     def text
       ''
     end
+
     def all(_ignored)
       []
     end
@@ -77,7 +78,7 @@ describe ValidationHelper do
       end
       expect_fuzzy_xml
     end
-    
+
     it 'handles iframe' do
       # multiple value-less attributes were tripping us up.
       def page
@@ -85,7 +86,7 @@ describe ValidationHelper do
       end
       expect_fuzzy_xml
     end
-    
+
     it 'handles video' do
       # "-" in attribute name was tripping us up.
       def page
@@ -97,7 +98,7 @@ describe ValidationHelper do
             <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
           </video>
 END
-          )
+                )
       end
       expect_fuzzy_xml
     end

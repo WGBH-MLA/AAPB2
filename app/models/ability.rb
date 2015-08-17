@@ -17,7 +17,7 @@ class Ability
     cannot :skip_tos, PBCore do |pbcore|
       user.onsite? && !user.affirmed_tos? && (pbcore.public? || pbcore.protected?)
     end
- 
+
     # TODO:
 #    cannot :skip_tos, PBCore do |pbcore|
 #      user.usa? && !user.bot? && !user.affirmed_tos? && pbcore.public?

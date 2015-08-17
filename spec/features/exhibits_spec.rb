@@ -7,7 +7,7 @@ describe 'Exhibits' do
     expect(page.status_code).to eq(200)
     expect_fuzzy_xml
   end
-  
+
   Exhibit.all.each do |exhibit|
     path = "/exhibits/#{exhibit.path}"
     it "#{path} works" do

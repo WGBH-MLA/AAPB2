@@ -14,8 +14,8 @@ class Downloader
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
   $LOG ||= NullLogger.new
-  
-  def initialize(since) # rubocop:disable PerceivedComplexity, CyclomaticComplexity
+
+  def initialize(since)
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
       fail("Expected YYYYMMDD, not '#{since}'") unless
@@ -49,14 +49,14 @@ class Downloader
         content = if opts[:is_just_reindex]
                     $LOG.info("Query solr for #{id}")
           # TODO: hostname and corename from config?
-          Solr.instance.connect
-          .get('select', params: {
-              qt: 'document', id: id
-            })['response']['docs'][0]['xml']
-        else  
-          url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
-          $LOG.info("Downloading #{url}")
-          URI.parse(url).read(read_timeout: 240)
+                    Solr.instance.connect
+                    .get('select', params: {
+                           qt: 'document', id: id
+                         })['response']['docs'][0]['xml']
+                  else
+                    url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
+                    $LOG.info("Downloading #{url}")
+                    URI.parse(url).read(read_timeout: 240)
         end
         File.write("#{short_id}.pbcore", content)
       end

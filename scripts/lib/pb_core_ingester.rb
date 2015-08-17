@@ -9,16 +9,15 @@ require_relative 'mount_validator'
 require_relative '../../lib/solr'
 
 class PBCoreIngester
-
   attr_reader :errors
   attr_reader :success_count
-  
+
   def initialize(opts)
     # TODO: hostname and corename from config?
     @solr = Solr.instance.connect
-    @solr.get('../admin/cores')['status']['blacklight-core']['dataDir'].tap{|data_dir|
+    @solr.get('../admin/cores')['status']['blacklight-core']['dataDir'].tap do|data_dir|
       MountValidator.validate_mount("#{data_dir}index", 'solr index') unless opts[:is_same_mount]
-    }
+    end
     $LOG ||= NullLogger.new
     @errors = Hash.new([])
     @success_count = 0
@@ -85,7 +84,7 @@ class PBCoreIngester
     end
     commit unless is_batch_commit
   end
-  
+
   def record_error(e, path, id_extracts='')
     message = "#{path} #{id_extracts}: #{e.message}"
     $LOG.warn(message)

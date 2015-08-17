@@ -39,7 +39,7 @@ describe 'Validated and plain PBCore' do
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Unexpected media types: \["unexpected"\]/))
       end
-      
+
       it 'rejects multi "Level of User Access"' do
         invalid_pbcore = pbc_xml.sub(
           /<pbcoreAnnotation/,
@@ -47,7 +47,7 @@ describe 'Validated and plain PBCore' do
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Should have at most 1 "Level of User Access" annotation/))
       end
-      
+
       it 'rejects digitized w/o "Level of User Access"' do
         invalid_pbcore = pbc_xml.gsub(
           /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
@@ -55,7 +55,7 @@ describe 'Validated and plain PBCore' do
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Should have "Level of User Access" annotation if digitized/))
       end
-      
+
       it 'rejects undigitized w/ "Level of User Access"' do
         invalid_pbcore = pbc_xml.gsub(
           /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
@@ -63,13 +63,13 @@ describe 'Validated and plain PBCore' do
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Should not have "Level of User Access" annotation if not digitized/))
       end
-      
+
       it 'rejects "Outside URL" if not explicitly ORR' do
         invalid_pbcore = pbc_xml.gsub( # First make it un-digitized
           /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
           '').gsub( # Then remove access
-          /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
-          '')
+            /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
+            '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/If there is an Outside URL, the record must be explicitly public/))
       end
@@ -106,7 +106,7 @@ describe 'Validated and plain PBCore' do
             'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', #
             'Copy Left: All rights reversed.', #
             'Album', 'Date', '2000-01-01', #
-            'Series', 'Nova', 'Program', 'Gratuitous Explosions', # 
+            'Series', 'Nova', 'Program', 'Gratuitous Explosions', #
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
             '1234', 'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts', #
@@ -144,7 +144,7 @@ describe 'Validated and plain PBCore' do
         id: '1234',
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
         ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],
-        media_srcs: ["/media/1234?part=1", "/media/1234?part=2"],
+        media_srcs: ['/media/1234?part=1', '/media/1234?part=2'],
         img_src: "#{AAPB::S3_BASE}/thumbnail/1234.jpg",
         captions_src: '/captions/1234.txt',
         organization_pbcore_name: 'WGBH',

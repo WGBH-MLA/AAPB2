@@ -13,6 +13,6 @@ If this is development, add --same-mount to ignore.
 If this is production, you probably want to set up a large separate volume
 for #{label}, and create a symlink. See the README.
 EOF
-    ) if path_mount == script_mount
+        ) if path_mount == script_mount
   end
 end

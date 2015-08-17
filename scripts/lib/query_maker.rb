@@ -17,15 +17,15 @@ module QueryMaker
     fail("Only 'all_fields' is supported") if search_field &&
                                               search_field.count == 1 && search_field.first != 'all_fields'
 
-    pairs = facets.map {|bracket_key, array_value|
+    pairs = facets.flat_map do|bracket_key, array_value|
       simple = bracket_key.sub(/f\[/, '').sub(/\]\[\]/, '')
       array_value.map { |value| [simple, value] }
-    }.flatten(1)
+    end
 
     pairs << ['text', q.first] if q
 
-    pairs.map {|k, v|
+    pairs.map do|k, v|
       "#{k}:\"#{v.gsub('"', '\\"')}\""
-    }.join(' ')
+    end.join(' ')
   end
 end

@@ -1,10 +1,9 @@
 module XmlBacked
-  
   def initialize(xml)
     @xml = xml
     @doc = REXML::Document.new xml
   end
-  
+
   def xpath(xpath)
     REXML::XPath.match(@doc, xpath).tap do |matches|
       if matches.length != 1
@@ -49,5 +48,4 @@ module XmlBacked
 
   class NoMatchError < StandardError
   end
-
 end
