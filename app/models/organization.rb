@@ -96,7 +96,7 @@ class Organization
   orgs = YAML.load_file(Rails.root + 'config/organizations.yml').map { |hash| Organization.new(hash) }
   @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
   @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
-  
+
   public
 
   def self.find_by_pbcore_name(pbcore_name)

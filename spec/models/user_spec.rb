@@ -2,9 +2,9 @@ require 'rails_helper'
 require 'cancan/matchers'
 
 describe User do
-  
+
   let(:user) { User.new(fake_request) }
-  let(:fake_request) { double(user_agent: nil, referer: nil, session: nil)}
+  let(:fake_request) { double(user_agent: nil, referer: nil, session: nil) }
 
   describe '#onsite?' do
 
@@ -40,7 +40,7 @@ describe User do
       end
     end
   end
-  
+
   describe '#usa?' do
     
     require 'socket'
@@ -56,14 +56,12 @@ describe User do
       expect(user.usa?).to eq false
     end
   end
-  
+
   describe '#bot?' do
     # TODO
   end
 
-
   describe 'ablities' do
-
     let(:ability) { Ability.new(user) }
 
     # It would be nice to use instance_double here, but CanCan will not work
@@ -74,82 +72,79 @@ describe User do
     let(:private_access)   { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')) }
     let(:all_access)       { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml')) }
 
-    
     context 'when on site and not affirmed TOS' do
       let(:user) { instance_double(User, onsite?: true, affirmed_tos?: false) }
 
-      it "can not play public content" do
+      it 'can not play public content' do
         expect(ability).not_to be_able_to :play,     public_access
         expect(ability).not_to be_able_to :skip_tos, public_access
       end
 
-      it "can not play protected content" do
+      it 'can not play protected content' do
         expect(ability).not_to be_able_to :play,     protected_access
         expect(ability).not_to be_able_to :skip_tos, protected_access
       end
-      
-      it "can not play private content" do
-        expect(ability).not_to be_able_to :play,     private_access
-        expect(ability).to     be_able_to :skip_tos, private_access
+
+      it 'can not play private content' do
+        expect(ability).not_to be_able_to :play, private_access
+        expect(ability).to be_able_to :skip_tos, private_access
       end
-      
-      it "can not play undigitized content" do
+
+      it 'can not play undigitized content' do
         expect(ability).not_to be_able_to :play,     all_access
-        expect(ability).to     be_able_to :skip_tos, all_access
+        expect(ability).to be_able_to :skip_tos, all_access
       end
-    end    
-    
+    end
+
     context 'when on site and affirmed TOS' do
       let(:user) { instance_double(User, onsite?: true, affirmed_tos?: true) }
 
-      it "can play public content" do
-        expect(ability).to     be_able_to :play,     public_access
-        expect(ability).to     be_able_to :skip_tos, public_access
+      it 'can play public content' do
+        expect(ability).to be_able_to :play,     public_access
+        expect(ability).to be_able_to :skip_tos, public_access
       end
 
-      it "can play protected content" do
-        expect(ability).to     be_able_to :play,     protected_access
-        expect(ability).to     be_able_to :skip_tos, protected_access
+      it 'can play protected content' do
+        expect(ability).to be_able_to :play,     protected_access
+        expect(ability).to be_able_to :skip_tos, protected_access
       end
-      
-      it "can not play private content" do
-        expect(ability).not_to be_able_to :play,     private_access
-        expect(ability).to     be_able_to :skip_tos, private_access
+
+      it 'can not play private content' do
+        expect(ability).not_to be_able_to :play, private_access
+        expect(ability).to be_able_to :skip_tos, private_access
       end
-      
-      it "can not play undigitized content" do
+
+      it 'can not play undigitized content' do
         expect(ability).not_to be_able_to :play,     all_access
-        expect(ability).to     be_able_to :skip_tos, all_access
+        expect(ability).to be_able_to :skip_tos, all_access
       end
     end
-    
+
     context 'when off site' do
       # TODO: This changes when we open the ORR.
       let(:user) { instance_double(User, onsite?: false, usa?: true, affirmed_tos?: false) }
 
-      it "can not play public content" do
-        expect(ability).not_to be_able_to :play,     public_access
-        expect(ability).to     be_able_to :skip_tos, private_access
+      it 'can not play public content' do
+        expect(ability).not_to be_able_to :play, public_access
+        expect(ability).to be_able_to :skip_tos, private_access
       end
 
-      it "can not play protected content" do
-        expect(ability).not_to be_able_to :play,     protected_access
-        expect(ability).to     be_able_to :skip_tos, private_access
+      it 'can not play protected content' do
+        expect(ability).not_to be_able_to :play, protected_access
+        expect(ability).to be_able_to :skip_tos, private_access
       end
-      
-      it "can not play private content" do
-        expect(ability).not_to be_able_to :play,     private_access
-        expect(ability).to     be_able_to :skip_tos, private_access
+
+      it 'can not play private content' do
+        expect(ability).not_to be_able_to :play, private_access
+        expect(ability).to be_able_to :skip_tos, private_access
       end
-      
-      it "can not play undigitized content" do
+
+      it 'can not play undigitized content' do
         expect(ability).not_to be_able_to :play,     all_access
-        expect(ability).to     be_able_to :skip_tos, all_access
+        expect(ability).to be_able_to :skip_tos, all_access
       end
     end
-    
+
     # TODO: When we open the ORR, test international users, and USA bots.
-    
   end
-  
 end

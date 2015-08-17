@@ -1,10 +1,8 @@
 require 'jettywrapper'
 
 namespace :jetty do
-
-  desc "Copy solr config into jetty instance"
+  desc 'Copy solr config into jetty instance'
   task :config do
-
     # Jettywrapper.load_config is convenience method for loading
     # config/jetty.yml
     params = Jettywrapper.load_config

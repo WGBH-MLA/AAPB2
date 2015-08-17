@@ -32,15 +32,15 @@ describe Cleaner do
       it "chokes on #{name}" do
         cleaner = Cleaner.new
         dirty = File.read(path_dirty)
-        expected = File.read(path_dirty.gsub('.xml','-error.txt'))
+        expected = File.read(path_dirty.gsub('.xml', '-error.txt'))
 
         # Error could occur either in cleaning or validation; We don't care.
-        begin 
+        begin
           ValidatedPBCore.new(cleaner.clean(dirty, name))
           fail('Expected an error')
         rescue => e
-          expect(e.message.gsub(/^\s*\/.*AAPB2\//, '')).
-            to eq expected.gsub(/^\s*\/.*AAPB2\//, '')
+          expect(e.message.gsub(/^\s*\/.*AAPB2\//, ''))
+            .to eq expected.gsub(/^\s*\/.*AAPB2\//, '')
           # Full paths need to be cleaned up so that they match on Travis.
         end
         # This could be shorter, but the eq matcher gives us a diff that we don't get from
@@ -48,7 +48,7 @@ describe Cleaner do
       end
     end
   end
-  
+
   describe '#clean_title' do
     {
       'No change if a mix of UPPER and lower' => 'No change if a mix of UPPER and lower',
@@ -57,7 +57,7 @@ describe Cleaner do
       'not all-knowing: ussr, cia, ianal' => 'Not All-Knowing: Ussr, Cia, Ianal',
       'AND NOTICE THE CAPITALIZATION OF "AND"' => 'And Notice the Capitalization of "and"',
       '... yet as for the in-box and the by-line' => '... yet as for the in-Box and the by-Line'
-    }.each do |dirty,clean|
+    }.each do |dirty, clean|
       it "cleans '#{clean}'" do
         expect(Cleaner.clean_title(dirty)).to eq(clean)
       end

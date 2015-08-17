@@ -14,13 +14,13 @@ describe DownloadCleanIngest do
   end
 
   def dci_output(*args)
-    capture {
+    capture do
       begin
         DownloadCleanIngest.new(args).process
       rescue SystemExit, RuntimeError => e
         $stderr.puts e.inspect, e.backtrace.join("\n")
       end
-    }
+    end
   end
 
   default_flags = '--stdout-log --same-mount --skip-sitemap'
@@ -100,11 +100,11 @@ describe DownloadCleanIngest do
     ]
   }.each do |args, patterns|
     describe "download_clean_ingest.rb #{args}" do
-      let(:output) {
-        dci_output(*args.split(/\s+/).map {|arg|
+      let(:output) do
+        dci_output(*args.split(/\s+/).map do|arg|
           arg.sub(/(^['"])|(['"]$)/, '')
             # There might be quotes around args if pasted from commandline.
-        }) }
+        end) end
       patterns.each do |pattern|
         it "matches /#{pattern.source}/" do
           expect(output).to match pattern

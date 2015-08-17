@@ -69,13 +69,13 @@ class VocabMap
 
     ordering = Hash[@map.values.uniq.each_with_index.map { |e, i| [e, i] }]
 
-    nodes.map { |attr|
+    nodes.map do |attr|
       attr.element.dup
-    }.sort_by { |element|
+    end.sort_by do |element|
       ordering[element.attributes[attribute_name]]
-    }.each { |element|
+    end.each do |element|
       nodes[0].element.parent.insert_before(nodes[0].element, element)
-    }
+    end
     nodes.each { |attr| attr.element.parent.delete(attr.element) }
   end
 end

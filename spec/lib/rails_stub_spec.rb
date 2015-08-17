@@ -1,5 +1,4 @@
 describe 'Rails (module from rails_stub.rb)' do
-
   before do
     ActualRails = Rails
     Object.send(:remove_const, :Rails)
@@ -13,7 +12,7 @@ describe 'Rails (module from rails_stub.rb)' do
   end
 
   it 'loads a stub Rails module' do
-    expect{Rails}.not_to raise_error
+    expect { Rails }.not_to raise_error
   end
 
   describe '.root' do

@@ -65,18 +65,18 @@ class CatalogController < ApplicationController
 
     config.add_facet_field 'media_type'
     config.add_facet_field 'genres', label: 'Genre', solr_params: { 'facet.limit' => -1 },
-      message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
+                                     message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
     config.add_facet_field 'topics', label: 'Topic', solr_params: { 'facet.limit' => -1 },
-      message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
+                                     message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
     config.add_facet_field 'asset_type'
     config.add_facet_field 'organization', sort: 'index', solr_params: { 'facet.limit' => -1 },
                            # Default is 100, but we have more orgs than that. -1 means no limit.
-                           tag: 'org', ex: 'org'
+                                           tag: 'org', ex: 'org'
                            # Display all, even when one is selected.
-    config.add_facet_field 'year', sort: 'index', range: true, 
-      message: 'Cataloging in progress: Only 1/3 of AAPB records are currently dated.'
-    config.add_facet_field 'access_types', label: 'Access', partial: 'access_facet', 
-      tag: 'access', ex: 'access', collapse: false
+    config.add_facet_field 'year', sort: 'index', range: true,
+                                   message: 'Cataloging in progress: Only 1/3 of AAPB records are currently dated.'
+    config.add_facet_field 'access_types', label: 'Access', partial: 'access_facet',
+                                           tag: 'access', ex: 'access', collapse: false
 
     VocabMap.for('title').authorized_names.each do|name|
       config.add_facet_field "#{name.downcase.gsub(/\s/, '_')}_titles", show: false, label: name
@@ -148,8 +148,8 @@ class CatalogController < ApplicationController
   def index
     actual_params = params.keys - ['action', 'controller']
     if !actual_params.empty? &&
-        params.except(:action, :controller, :utf8, :search_field)
-          .select { |_key, value| !value.empty? }.empty?
+       params.except(:action, :controller, :utf8, :search_field)
+       .select { |_key, value| !value.empty? }.empty?
         # TODO: should a bare "f[access_types][]" send you back to advanced?
       redirect_to '/catalog'
     elsif !actual_params.empty? && (!params[:f] || !params[:f][:access_types])
@@ -171,7 +171,7 @@ class CatalogController < ApplicationController
         if can? :skip_tos, @pbcore
           render
         else
-          redirect_to "/terms/#{CGI::escape(params['id'])}"
+          redirect_to "/terms/#{CGI.escape(params['id'])}"
         end
       end
       format.pbcore do

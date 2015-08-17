@@ -5,7 +5,7 @@ class OverrideController < ApplicationController
     @override = Override.find_by_path(params[:path])
     @page_title = @override.title
     params[:path] = nil # search widget grabs ALL parameters.
-  rescue IndexError 
-    fail ActionController::RoutingError.new('404')
+  rescue IndexError
+    raise ActionController::RoutingError.new('404')
   end
 end

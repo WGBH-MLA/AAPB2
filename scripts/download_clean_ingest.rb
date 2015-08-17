@@ -17,7 +17,7 @@ end
 
 class DownloadCleanIngest
   def const_init(name)
-    const_name = name.upcase.gsub('-', '_')
+    const_name = name.upcase.tr('-', '_')
     flag_name = "--#{name}"
     begin
       # to avoid "warning: already initialized constant" in tests.
@@ -42,7 +42,7 @@ class DownloadCleanIngest
 
     %w(batch-commit same-mount stdout-log just-reindex skip-sitemap).each do |name|
       flag_name = const_init(name)
-      variable_name = "@is_#{name.gsub('-', '_')}"
+      variable_name = "@is_#{name.tr('-', '_')}"
       instance_variable_set(variable_name, argv.include?(flag_name))
       argv.delete(flag_name)
     end
@@ -88,7 +88,7 @@ class DownloadCleanIngest
       when FILES
         fail ParamsError.new if args.empty?
         @files = args
-        
+
       when EXHIBITS
         fail ParamsError.new unless args.count >= 1
         ids = args.map { |exhibit_path| Exhibit.find_by_path(exhibit_path).ids }.flatten
@@ -129,7 +129,7 @@ class DownloadCleanIngest
                [#{JUST_REINDEX}] [#{SKIP_SITEMAP}]
                ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ...
-                 | #{FILES} FILE ... | #{DIRS} DIR ... 
+                 | #{FILES} FILE ... | #{DIRS} DIR ...
                  | #{EXHIBITS} EXHIBIT ...)
 
       boolean flags:
@@ -180,8 +180,8 @@ class DownloadCleanIngest
         success_count_after = ingester.success_count
         error_count_after = ingester.errors.values.flatten.count
         $LOG.info("Processed '#{path}' #{'but not committed' if @is_batch_commit}")
-        $LOG.info("success: #{success_count_after-success_count_before}; " +
-          "error: #{error_count_after-error_count_before}")
+        $LOG.info("success: #{success_count_after - success_count_before}; " \
+          "error: #{error_count_after - error_count_before}")
       end
     end
 
@@ -204,25 +204,23 @@ class DownloadCleanIngest
     error_count = ingester.errors.values.flatten.count
     success_count = ingester.success_count
     total_count = error_count + success_count
-    
+
     $LOG.info('SUMMARY: ERRORS')
 
     ingester.errors.each {|type, list|
       $LOG.warn("#{list.count} #{type} errors:\n#{list.join("\n")}")
     }
-    
+
     $LOG.info('SUMMARY: STATS')
-    
+
     ingester.errors.each {|type, list|
       $LOG.warn("#{list.count} #{type} errors (#{100 * list.count / total_count}%)")
     }
-    
+
     $LOG.info("#{ingester.success_count} (#{100 * success_count / total_count}%) succeeded")
 
     $LOG.info('DONE')
   end
 end
 
-if __FILE__ == $PROGRAM_NAME
-  DownloadCleanIngest.new(ARGV).process
-end
+DownloadCleanIngest.new(ARGV).process if __FILE__ == $PROGRAM_NAME
