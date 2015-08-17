@@ -2,7 +2,7 @@
 
 ![banner](/page-banners/banner5.jpg)
 
-![karen](https://s3.amazonaws.com/americanarchive.org/staff/Staff_Cariani.jpg)
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Cariani.jpg"/><br/>
 **Karen Cariani, Project Director**<br/>
 **WGBH**<br/>
 Karen has been director of the WGBH Media Library since its inception in 1990. 
@@ -36,7 +36,7 @@ Sound: An Illustrated Guide (2002).
 Alan's current favorite AAPB collection item is ["Promise City" from Iowa 
 Public Television](/catalog/cpb-aacip_37-010p2nvv).
 
-![casey](https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg)
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/><br/>
 **Casey E. Davis, Project Manager**<br/>
 **WGBH**<br/>
 Casey manages the day-to-day activities of the AAPB, including outreach, 
@@ -78,27 +78,42 @@ the outdoors.
 Lauren's current favorite AAPB collection item is [“Writers Speak: James 
 Baldwin” from New England Public Radio](/catalog/cpb-aacip_305-86nzshkq).
 
-![sadie](https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg)
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/><br/>
 **Sadie Roosa, Metadata Specialist**<br/>
 **WGBH**<br/>
 Sadie focuses her attention on metadata management and cataloging for the AAPB. 
 She has worked at WGBH since 2012, engaged in digitization and digital library 
 projects including Boston TV News Digital Library and WGBH's Open Vault. She 
 co-chairs the Digital Commonwealth Outreach Committee and the AMIA News, 
-Documentary and Television Committee. In her free time, she enjoys knitting baby booties, even though she knows very few people with babies, and rearranging furniture in her apartment, even though there is really only one place each things fits. Sadie earned her MLIS from the University of 
-Pittsburgh. 
+Documentary and Television Committee. In her free time, she enjoys knitting baby 
+booties, even though she knows very few people with babies, and rearranging 
+furniture in her apartment, even though there is really only one place each things 
+fits. Sadie earned her MLIS from the University of Pittsburgh. 
 
 Sadie's current favorite AAPB collection item is an ["Interview with Jonathan 
 Richmond" from WERU](/catalog/cpb-aacip_301-956djt0n ).
 
-![rebecca](https://s3.amazonaws.com/americanarchive.org/staff/Staff_Fraimow.png)
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Fraimow.png"/><br/>
 **Rebecca Fraimow, Archivist**<br/>
 **WGBH**<br/>
-After first coming to WGBH as a National Digital Stewardship (NDSR) Resident in 2014, Rebecca joined the staff of WGBH full-time in 2015, focusing on the AAPB NDSR program, the development of the PBCore metadata standard, and the ongoing migration of digital assets.  Prior to moving up north, Rebecca served as the Audiovisual Projects Manager for the Dance Heritage Coalition, managing a large-scale project to digitize and make accessible dance-related media.  She also worked on the XFR STN exhibit at the New Museum, which opened up video preservation to the public, and subsequently co-founded XFR Collective, a New York-based nonprofit organization focused on the preservation of at-risk and obsolete community media.  Rebecca holds an MA in Moving Image Archiving and Preservation from NYU.  When she's not yelling about community archives or banging her head against video decks, hard drives, and LTO tapes, she likes dancing, making a mess in the kitchen, and immersing herself in good (and bad) fiction.  
+After first coming to WGBH as a National Digital Stewardship (NDSR) Resident in 
+2014, Rebecca joined the staff of WGBH full-time in 2015, focusing on the AAPB 
+NDSR program, the development of the PBCore metadata standard, and the ongoing 
+migration of digital assets.  Prior to moving up north, Rebecca served as the 
+Audiovisual Projects Manager for the Dance Heritage Coalition, managing a 
+large-scale project to digitize and make accessible dance-related media.  She 
+also worked on the XFR STN exhibit at the New Museum, which opened up video 
+preservation to the public, and subsequently co-founded XFR Collective, a New 
+York-based nonprofit organization focused on the preservation of at-risk and 
+obsolete community media.  Rebecca holds an MA in Moving Image Archiving and 
+Preservation from NYU.  When she's not yelling about community archives or 
+banging her head against video decks, hard drives, and LTO tapes, she likes 
+dancing, making a mess in the kitchen, and immersing herself in good (and bad) 
+fiction.  
 
 Rebecca's's current favorite AAPB collection item is ["Role of Fantasy in Children's Lives" from WGBH](/catalog/cpb-aacip_15-5717m0428t).
 
-![drew](https://s3.amazonaws.com/americanarchive.org/staff/Staff_Myers.jpg)
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Myers.jpg"/><br/>
 **Andrew Myers, Supervising Developer**<br/>
 **WGBH**<br/>
 Andrew Myers is a web developer who has worked for many different kinds of 
@@ -117,7 +132,7 @@ Chuck is curious<br/>
 about the edge cases here.<br/>
 Will a haiku do?<br/>
 
-![kevin](https://s3.amazonaws.com/americanarchive.org/staff/Staff_Carter.jpg)
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Carter.jpg"/><br/>
 **Kevin Carter, Programmer Analyst**<br/>
 **WGBH**<br/>
 Kevin Carter began work in 1997 on the nascent Digital Library Initiative at 
