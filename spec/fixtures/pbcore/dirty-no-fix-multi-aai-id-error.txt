@@ -1,12 +1,1 @@
 Method validation errors: '#exhibits' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
-/.../AAPB2/app/models/xml_backed.rb:10:in `block in xpath'
-/.../AAPB2/app/models/xml_backed.rb:8:in `tap'
-/.../AAPB2/app/models/xml_backed.rb:8:in `xpath'
-'#id' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
-/.../AAPB2/app/models/xml_backed.rb:10:in `block in xpath'
-/.../AAPB2/app/models/xml_backed.rb:8:in `tap'
-/.../AAPB2/app/models/xml_backed.rb:8:in `xpath'
-'#captions_src' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
-/.../AAPB2/app/models/xml_backed.rb:10:in `block in xpath'
-/.../AAPB2/app/models/xml_backed.rb:8:in `tap'
-/.../AAPB2/app/models/xml_backed.rb:8:in `xpath'
