@@ -2,9 +2,9 @@ require 'uri'
 
 class AdvancedController < ApplicationController
   def create
-    redirect_to "/catalog?q=#{URI.encode(AdvancedController.query(params))}"
+    redirect_to "/catalog?q=#{URI.encode(query)}"
   end
-  def self.query(params)
+  def query
     [
       params[:all] && !params[:all].empty? ?
         params[:all] : '',
