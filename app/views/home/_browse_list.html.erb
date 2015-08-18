@@ -3,7 +3,7 @@
 </div>
 
 <div class="container">
-  <div class="row">
+  <div class="row browsable">
       <% {
         'Agriculture' => 'farms OR crops OR livestock OR agriculture',
         'Animals' => nil,
@@ -77,13 +77,13 @@
         'Weather' => nil,
         'Women' => nil,
       }.each.to_a.in_groups(6,false) do |group| %>
-        <div  class="col-md-2 column">
-          <% group.each do |term, q| 
-              q ||= term.downcase %>
-            <div id="welcome-panel" style="padding: 0.5em; text-align: center;">
-              <a href="/catalog?q=<%= CGI::escape(q) %>"><%= term %></a>
-            </div>
-          <% end %>
+        <div  class="col-md-2 col-sm-6 column">
+          <ul class="list-unstyled">
+            <% group.each do |term, q| 
+                q ||= term.downcase %>
+              <li><a href="/catalog?q=<%= CGI::escape(q) %>"><%= term %></a></li>
+            <% end %>
+          </ul>
         </div>
       <% end %>
     </div>
