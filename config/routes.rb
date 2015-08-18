@@ -12,7 +12,7 @@ Rails.application.routes.draw do
             only: [:index, :show]
 
   resources 'advanced',
-            only: [:index]
+            only: [:index, :create]
 
   resources 'thumbnails',
             only: [:show]
