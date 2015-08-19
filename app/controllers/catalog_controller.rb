@@ -147,7 +147,13 @@ class CatalogController < ApplicationController
 
   def index
     if !params[:f] || !params[:f][:access_types]
-      redirect_to "/catalog?#{params.except(:action, :controller).to_query}&f[access_types][]=#{PBCore::PUBLIC_ACCESS}"
+      base_query = params.except(:action, :controller).to_query
+      access = if current_user.onsite?
+        PBCore::PROTECTED_ACCESS
+      else
+        PBCore::PUBLIC_ACCESS
+      end 
+      redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
     else
       super
     end
