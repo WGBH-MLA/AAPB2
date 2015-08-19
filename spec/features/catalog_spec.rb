@@ -55,7 +55,14 @@ describe 'Catalog' do
       expect_thumbnail(1234)
       expect_fuzzy_xml
     end
-
+    
+    it 'offers to broaden search' do
+      visit '/catalog?q=nothing-matches-this&f[access_types][]=' + PBCore::PUBLIC_ACCESS
+      expect(page).to have_text('No entries found')
+      click_link 'searching all records'
+      expect(page).to have_text('Consider using other search terms or removing filters.')
+    end
+    
     describe 'search constraints' do
       describe 'title facets' do
         assertions = [
