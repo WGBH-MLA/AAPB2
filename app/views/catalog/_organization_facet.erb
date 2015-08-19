@@ -7,17 +7,18 @@
     display_facet.items.group_by do |option|
       option.value.match(/\((..)\)/)[1]
     end.sort.each do |state_abbr, options|
+      state = AAPB::STATES[state_abbr]
   %>
     <li>
       <span class="facet-label"><b>
-        <% if params.try(:[],'f').try(:[],'state') == [state_abbr] %>
-          <span class="selected"><%= AAPB::STATES[state_abbr] %></span>
-          <a class="remove">
-            <span class="glyphicon glyphicon-ok"></span>
+        <% if params.try(:[],'f').try(:[],'state') == [state] %>
+          <span class="selected"><%= state %></span>
+          <a href="<%= base_uri %>" class="remove">
+            <span class="glyphicon glyphicon-remove"></span>
             <span class="sr-only">[checked]</span>
           </a>
         <% else %>
-          <span class="selected"><a href="<%= base_uri %>&amp;f[state][]=<%= CGI.escape(state_abbr) %>" class="facet_select"><%= AAPB::STATES[state_abbr] %></a></span>
+          <span class="selected"><a href="<%= base_uri %>&amp;f[state][]=<%= state %>" class="facet_select"><%= state %></a></span>
         <% end %>
       </b></span>
     </li>
@@ -28,8 +29,8 @@
         <span class="facet-label">
           <% if params.try(:[],'f').try(:[],'organization') == [option.value] %>
             <span class="selected"><%= option.value %></span>
-            <a class="remove">
-              <span class="glyphicon glyphicon-ok"></span>
+            <a href="<%= base_uri %>" class="remove">
+              <span class="glyphicon glyphicon-remove"></span>
               <span class="sr-only">[checked]</span>
             </a>
           <% else %>
