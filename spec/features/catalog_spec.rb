@@ -276,27 +276,36 @@ describe 'Catalog' do
   describe '#show' do
     AGREE = 'I agree'
 
+    def expect_all_the_text(fixture_name)
+      target = PBCore.new(File.read('spec/fixtures/pbcore/'+fixture_name))
+      # #text is only used for #to_solr, so it's private...
+      # so we need the #send to get at it.
+      target.send(:text).map { |s| s.gsub('_', '/') }.each do |field|
+        # The ID is on the page, but it has a slash, not underscore.
+        expect(page).to have_text(field)
+      end
+    end
+    
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
       click_button(AGREE)
-      target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
-      target.send(:text).each do |field|
-        # #text is only used for #to_solr, so it's private...
-        # so we need the #send to get at it.
-        expect(page).to have_text(field)
-      end
+      expect_all_the_text('clean-MOCK.xml')
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
     end
 
     it 'has poster otherwise if media' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
       click_button(AGREE)
-      target = PBCore.new(File.read('spec/fixtures/pbcore/clean-every-title-is-episode-number.xml'))
-      (target.send(:text) - ['cpb-aacip_37-16c2fsnr']).each do |field|
-        # The ID is on the page, but it has a slash, not underscore.
-        expect(page).to have_text(field)
-      end
+      expect_all_the_text('clean-every-title-is-episode-number.xml')
       expect_poster('cpb-aacip_37-16c2fsnr')
+    end
+    
+    it 'apologizes if no access' do
+      visit '/catalog/cpb-aacip_80-12893j6c'
+      # No need to click through
+      expect_all_the_text('clean-bad-essence-track.xml')
+      # No thumbnail
+      expect(page).to have_text('This content has not been digitized.')
     end
   end
 

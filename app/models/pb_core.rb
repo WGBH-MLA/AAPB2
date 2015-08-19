@@ -239,6 +239,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def text
     ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src,
                :rights_code, :access_level, :access_types,
+               :organization_pbcore_name, # internal string; not in UI
                :titles_sort, :title, # Covered by #titles
                :ci_ids, :instantiations, :outside_url]
     @text ||= (PBCore.instance_methods(false) - ignores)
