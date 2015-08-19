@@ -71,7 +71,8 @@ class CatalogController < ApplicationController
     config.add_facet_field 'asset_type'
     config.add_facet_field 'organization', sort: 'index', solr_params: { 'facet.limit' => -1 },
                            # Default is 100, but we have more orgs than that. -1 means no limit.
-                                           tag: 'org', ex: 'org'
+                                           tag: 'org', ex: 'org',
+                                           partial: 'organization_facet'
                            # Display all, even when one is selected.
     config.add_facet_field 'year', sort: 'index', range: true,
                                    message: 'Cataloging in progress: Only 1/3 of AAPB records are currently dated.'
