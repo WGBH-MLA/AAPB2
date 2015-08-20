@@ -8,7 +8,9 @@ This exhibit focuses on content that documents and celebrates stations' historie
 
 ## Author
 
-Sadie Roosa
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
+
+### Sadie Roosa
 
 ## Links
 
