@@ -59,12 +59,14 @@
   
 <% content_for :main do %>
   
-  <p>
-    TODO: Bread crumbs for navigation:
+  <ol class="breadcrumb hidden-xs" style="margin-top: 0px;">
+    <li><a href="/exhibits">Exhibits</a></li>
     <% @exhibit.ancestors.map do |ancestor| %>
-      <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.title %></a>
+      <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
     <% end %>
-  </p>
+    <li><%= @exhibit.title %></li>
+  </ol>
+  
   <%= @exhibit.formatted.html_safe %>
   
 <% end %>

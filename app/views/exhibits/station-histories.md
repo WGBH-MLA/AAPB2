@@ -43,5 +43,3 @@ The third type of content I'm interested in including in my exhibition is retros
 -	[KUT’s “30th Anniversary Dinner”](/catalog/cpb-aacip_402-70zpch1s) – This is a recording of a dinner celebrating 30th anniversary of station. Molly Ivins MCs. She introduces the evening and recognizes special guests. Then the general manager speaks on the history of the station. Then Bob Edwards, host of Morning Edition, speaks about public radio's unique contribution to radio.
 
 I also have come across a few recordings about the Public Broadcasting Act. I need to track them down again, but I think that these would be really interesting to include in their own section. 
-
-### For example
