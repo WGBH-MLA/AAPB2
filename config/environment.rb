@@ -71,16 +71,55 @@ module Blacklight::UrlHelperBehavior
 
     p
   end
+  
+  def remove_facet_params(field, item, source_params=params)
+    if item.respond_to? :field
+      field = item.field
+    end
+
+    facet_config = facet_configuration_for_field(field)
+
+    url_field = facet_config.key
+
+    value = facet_value_for_facet_item(item)
+
+    p = reset_search_params(source_params)
+    # need to dup the facet values too,
+    # if the values aren't dup'd, then the values
+    # from the session will get remove in the show view...
+    p[:f] = (p[:f] || {}).dup
+    p[:f][url_field] = (p[:f][url_field] || []).dup
+    # Was:
+    #p[:f][url_field] = p[:f][url_field] - [value]
+    p[:f][url_field] = (p[:f][url_field].map{ |field| field.split(' OR ')}.map { |terms| terms - [value] }).map { |terms| terms.join(' OR ') }
+    p[:f].delete(url_field) if p[:f][url_field].size == 0
+    p.delete(:f) if p[:f].empty?
+    p
+  end
 end
 
-# module Blacklight::FacetsHelperBehavior
+module Blacklight::FacetsHelperBehavior
+  def facet_in_params?(field, item)
+    if item and item.respond_to? :field
+      field = item.field
+    end
+
+    value = facet_value_for_facet_item(item)
+
+    params[:f] and params[:f][field] and (params[:f][field].include?(value) ||
+      # Local addition:
+      params[:f][field].any? { |field| field.split(' OR ').include?(value) })
+      # First 'include?' is searching for exact match in elements of array;
+      # Second 'include?' is searching for substring match in elements of array.
+  end
+  
 #  def render_facet_value(facet_field, item, options ={})
 #    path = search_action_path(add_facet_params_and_redirect(facet_field, item))
 #    content_tag(:span, :class => "facet-label") do
 #      link_to_unless(options[:suppress_link], facet_display_value(facet_field, item), path, :class=>"facet_select")
 #    end + render_facet_count(item.hits)
 #  end
-#
+
 #  def render_selected_facet_value(facet_field, item)
 #    content_tag(:span, :class => "facet-label") do
 #      content_tag(:span, facet_display_value(facet_field, item), :class => "selected") +
@@ -88,7 +127,7 @@ end
 #      link_to(content_tag(:span, '', :class => "glyphicon glyphicon-remove") + content_tag(:span, '[remove]', :class => 'sr-only'), search_action_path(remove_facet_params(facet_field, item, params)), :class=>"remove")
 #    end + render_facet_count(item.hits, :classes => ["selected"])
 #  end
-#
+
 #  def render_facet_item(facet_field, item)
 #    if facet_in_params?(facet_field, item.value )
 #      render_selected_facet_value(facet_field, item)
@@ -96,4 +135,4 @@ end
 #      render_facet_value(facet_field, item)
 #    end
 #  end
-# end
+end
