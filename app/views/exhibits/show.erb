@@ -1,8 +1,7 @@
 <% content_for :sidebar do %>
   <%= render partial: 'sidebar_search' %>
 
-  <img src="<%= @exhibit.thumbnail_url %>"/>
-  <br/><br/>
+  <%# Exhibit image could go here, but I feel like the gallery gives us enough. %>
   
   <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
     <%# Copy-and-paste from the normal facet, but had to replace the internals. %>
@@ -67,7 +66,34 @@
     <li><%= @exhibit.title %></li>
   </ol>
   
-  <%= @exhibit.formatted.html_safe %>
+  <%= @exhibit.summary_html.html_safe %>
+  
+  <% @exhibit.items.to_a.slice(0,6).in_groups(2,false).each do |group| %>
+    <div class="row">
+    <% group.each do |id, title| %>
+      <div class="document col-md-4">
+        <div class="thumbnail">
+          <div class="caption">
+            <div class="documentHeader">
+              <img src="/thumbnails/<%= id %>">
+              <h4 class="index_title">
+                <%= link_to(title, '/catalog/'+id) %>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    <% end %>
+    </div>
+  <% end %>
+  
+  <p style="text-align: center;">
+    <a href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>" class="btn btn-primary">
+      Show All <%= @exhibit.items.count %>
+    </a>
+  </p>
+  
+  <%= @exhibit.main_formatted.html_safe %>
   
 <% end %>
     
