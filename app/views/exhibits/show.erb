@@ -1,6 +1,8 @@
 <% content_for :sidebar do %>
   <%= render partial: 'sidebar_search' %>
 
+  <%# Exhibit image could go here, but I feel like the gallery gives us enough. %>
+  
   <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
     <%# Copy-and-paste from the normal facet, but had to replace the internals. %>
     <div class="panel panel-default facet_limit blacklight-media_type ">
@@ -15,7 +17,11 @@
             <% list.each_slice(2) do |value,count| %>
               <li>
                 <span class="facet-label">
-                  <a href="/catalog?f[exhibits][]=<%= @exhibit.path %>&amp;f[<%= name %>][]=<%= value %>" class="facet_select">Moving Image</a></span>
+                  <%= link_to(value, '/catalog?' + {f: {
+                        exhibits: [@exhibit.path], 
+                        name => [value]
+                      }}.to_query) %>
+                </span>
                 <span class="facet-count"><%= count %></span>
               </li>
             <% end %>
@@ -24,9 +30,6 @@
       </div>
     </div>
   <% end %>
-
-  <img src="<%= @exhibit.thumbnail_url %>"/>
-  <br/><br/><%# TODO: CSS to establish spacing. %>
   
   <div class="panel panel-primary">
     <div class="panel-heading">
@@ -44,7 +47,7 @@
               } %>
   
   <br/>
-  
+
   <%= render partial: 'shared/sidebar_nav', 
              locals: { 
                 title: 'Links',
@@ -55,13 +58,45 @@
   
 <% content_for :main do %>
   
-  <p>
-    TODO: Bread crumbs for navigation:
+  <ol class="breadcrumb hidden-xs" style="margin-top: 0px;">
+    <li><a href="/exhibits">Exhibits</a></li>
     <% @exhibit.ancestors.map do |ancestor| %>
-      <a href="/exhibits/<%= ancestor.path %>"><%= ancestor.title %></a>
+      <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
     <% end %>
-  </p>
-  <%= @exhibit.formatted.html_safe %>
+    <li><%= @exhibit.title %></li>
+  </ol>
+  
+  <%= @exhibit.summary_html.html_safe %>
+  
+  <% unless @exhibit.children.empty? %>
+    <hr/>
+  <% else %>
+    <% @exhibit.items.to_a.slice(0,6).in_groups(2,false).each do |group| %>
+      <div class="row">
+      <% group.each do |id, title| %>
+        <div class="document col-md-4">
+          <div class="thumbnail">
+            <div class="caption">
+              <div class="documentHeader">
+                <img src="/thumbnails/<%= id %>">
+                <h4 class="index_title">
+                  <%= link_to(title, '/catalog/'+id) %>
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      <% end %>
+      </div>
+    <% end %>
+    <p style="text-align: center;">
+      <a href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>" class="btn btn-primary">
+        Show All <%= @exhibit.items.count %>
+      </a>
+    </p>
+  <% end %>
+  
+  <%= @exhibit.main_formatted.html_safe %>
   
 <% end %>
     

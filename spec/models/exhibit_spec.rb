@@ -27,7 +27,7 @@ describe Exhibit do
       summary_html: '<p>Summary goes here.</p>',
       thumbnail_url: 'http://example.org/image',
       author_html: '<p>Author goes here.</p>',
-      formatted: "<p><a href=\"/catalog/cpb-aacip_80-12893j6c\">item 1</a>\n<a href=\"/catalog/cpb-aacip_37-31cjt2qs\">item 2</a>\n<a href=\"/catalog/cpb-aacip_192-1937pxnq\" title=\"fuller description\">item 3</a></p>",
+      main_formatted: "<p><a href=\"/catalog/cpb-aacip_80-12893j6c\">item 1</a>\n<a href=\"/catalog/cpb-aacip_37-31cjt2qs\">item 2</a>\n<a href=\"/catalog/cpb-aacip_192-1937pxnq\" title=\"fuller description\">item 3</a></p>",
       head_html: "<p><img src=\"http://example.org/image\" alt=\"alt text\"></p>",
       links_html: "<ul>\n<li><a href=\"http://loc.gov\">LoC</a></li>\n<li><a href=\"http://wgbh.org\">WGBH</a></li>\n</ul>",
       links: [['LoC', 'http://loc.gov'], ['WGBH', 'http://wgbh.org']],
