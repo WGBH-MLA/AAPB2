@@ -4,6 +4,10 @@ require File.expand_path('../application', __FILE__)
 # Initialize the Rails application.
 Rails.application.initialize!
 
+module AAPB
+  QUERY_OR = ' OR '
+end
+
 # Monkey-patches which might be made into PRs?
 
 module Blacklight::Solr
@@ -36,7 +40,7 @@ module Blacklight::Solr
           # "{!raw f=#{facet_field}#{(" " + local_params.join(" ")) unless local_params.empty?}}#{value}"
           # Do all the extra parts matter?
           # BEGIN patch replace
-             prefix + value.split(/ OR /i).map { |single| "#{facet_field}:\"#{single}\"" }.join(' ')
+             prefix + value.split(AAPB::QUERY_OR).map { |single| "#{facet_field}:\"#{single}\"" }.join(' ')
           # END patch
       end
     end
@@ -61,7 +65,7 @@ module Blacklight::UrlHelperBehavior
 
     p[:f][url_field].push(value)
     # BEGIN patch addition:
-    p[:f] = Hash[p[:f].map { |k, v| [k, [v.join(' OR ')]] }]
+    p[:f] = Hash[p[:f].map { |k, v| [k, [v.join(AAPB::QUERY_OR)]] }]
     # END patch
 
     if item and item.respond_to?(:fq) and item.fq
@@ -94,7 +98,7 @@ module Blacklight::UrlHelperBehavior
     # The line above removes an exact match (ie in the filter list).
     # The line below removes just one term (ie in the side bar).
     # BEGIN patch addition
-    p[:f][url_field] = (p[:f][url_field].map{ |field| field.split(' OR ')}.map { |terms| terms - [value] }).map { |terms| terms.join(' OR ') }
+    p[:f][url_field] = (p[:f][url_field].map{ |field| field.split(AAPB::QUERY_OR)}.map { |terms| terms - [value] }).map { |terms| terms.join(' OR ') }
     # END patch
     p[:f].delete(url_field) if p[:f][url_field].size == 0
     p.delete(:f) if p[:f].empty?
@@ -110,12 +114,11 @@ module Blacklight::FacetsHelperBehavior
 
     value = facet_value_for_facet_item(item)
 
-    params[:f] and params[:f][field] and (params[:f][field].include?(value) ||
-      # Local addition:
-      # BEGIN patch addition
-      params[:f][field].any? { |field| field.split(' OR ').include?(value) })
+    params[:f] and params[:f][field] and
+      # Before:
+      #   params[:f][field].include?(value)
+      # BEGIN patch replace
+      params[:f][field].any? { |field| field.split(AAPB::QUERY_OR).include?(value) }
       # END patch
-      # First 'include?' is searching for exact match in elements of array;
-      # Second 'include?' is searching for substring match in elements of array.
   end
 end

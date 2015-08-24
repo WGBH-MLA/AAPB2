@@ -142,7 +142,7 @@ describe 'Catalog' do
           assertions = [
             ['media_type', 'Sound', 8],
             ['media_type', 'Sound+OR+Moving+Image', 20],
-            ['media_type', 'Moving+Image+or+Sound', 20],
+            ['media_type', 'Moving+Image+OR+Sound', 20],
             ['media_type', 'Moving+Image', 12]
           ]
           assertions.each do |facet, value, value_count|

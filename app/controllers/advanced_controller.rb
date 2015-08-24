@@ -14,7 +14,7 @@ class AdvancedController < ApplicationController
       params[:exact] && !params[:exact].empty? ?
         "\"#{params[:exact]}\"" : '',
       params[:any] && !params[:any].empty? ?
-        "(#{params[:any].split(/\s+/).join(' OR ')})" : '',
+        "(#{params[:any].split(/\s+/).join(AAPB::QUERY_OR)})" : '',
       params[:none] && !params[:none].empty? ?
         params[:none].split(/\s+/).map { |term| "-#{term}" }.join(' ') : ''
     ].join(' ').strip
