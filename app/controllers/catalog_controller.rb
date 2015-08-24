@@ -149,7 +149,7 @@ class CatalogController < ApplicationController
     if !params[:f] || !params[:f][:access_types]
       base_query = params.except(:action, :controller).to_query
       access = if current_user.onsite?
-        PBCore::PROTECTED_ACCESS
+        PBCore::DIGITIZED_ACCESS
       else
         PBCore::PUBLIC_ACCESS
       end 
