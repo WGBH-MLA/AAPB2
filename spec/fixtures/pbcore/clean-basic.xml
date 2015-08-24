@@ -4,7 +4,7 @@
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/301-60cvdtx8</pbcoreIdentifier>
   <pbcoreTitle titleType='Series'>Writers Forum</pbcoreTitle>
   <pbcoreTitle titleType='Program'>WRF-09/13/07</pbcoreTitle>
-  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcoreDescription descriptionType='Description'>Writers Forum</pbcoreDescription>
   <pbcoreCoverage>
     <coverage>mock value which should be preserved</coverage>
     <coverageType>Spatial</coverageType>
@@ -19,6 +19,7 @@
   <pbcoreRightsSummary>  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WERU Prog List'>WRF028</instantiationIdentifier>
+    <instantiationIdentifier source='duplicate not to be removed'>Writers Forum</instantiationIdentifier>
     <instantiationPhysical>CD</instantiationPhysical>
     <instantiationLocation>WERU Archives - CD Shelves</instantiationLocation>
     <instantiationMediaType>Sound</instantiationMediaType>
