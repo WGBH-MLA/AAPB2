@@ -146,15 +146,14 @@ class CatalogController < ApplicationController
   end
 
   def index
-    actual_params = params.keys - ['action', 'controller']
-    if !actual_params.empty? &&
-       params.except(:action, :controller, :utf8, :search_field)
-       .select { |_key, value| !value.empty? }.empty?
-        # TODO: should a bare "f[access_types][]" send you back to advanced?
-      redirect_to '/catalog'
-    elsif !actual_params.empty? && (!params[:f] || !params[:f][:access_types])
-      # missing access_types:
-      redirect_to "/catalog?#{params.except(:action, :controller).to_query}&f[access_types][]=#{PBCore::PUBLIC_ACCESS}"
+    if !params[:f] || !params[:f][:access_types]
+      base_query = params.except(:action, :controller).to_query
+      access = if current_user.onsite?
+        PBCore::PROTECTED_ACCESS
+      else
+        PBCore::PUBLIC_ACCESS
+      end 
+      redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
     else
       super
     end
