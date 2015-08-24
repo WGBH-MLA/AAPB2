@@ -5,7 +5,7 @@
       link_to(
         'searching all records',
         request.original_fullpath.gsub(
-          /f\[access_types]\[\]=[^&]*/,
+          /f\[access_types\]\[\]=[^&]*/,
           'f[access_types][]='+PBCore::ALL_ACCESS
         )) %>,
     not just those with media.
