@@ -32,15 +32,15 @@ describe Cleaner do
       it "chokes on #{name}" do
         cleaner = Cleaner.new
         dirty = File.read(path_dirty)
-        expected = File.read(path_dirty.gsub('.xml', '-error.txt'))
+        expected_first_line = File.read(path_dirty.gsub('.xml', '-error.txt'))
 
         # Error could occur either in cleaning or validation; We don't care.
         begin
           ValidatedPBCore.new(cleaner.clean(dirty, name))
           fail('Expected an error')
         rescue => e
-          expect(e.message.gsub(/^\s*\/.*AAPB2\//, ''))
-            .to eq expected.gsub(/^\s*\/.*AAPB2\//, '')
+          expect(e.message.split("\n").first)
+            .to eq expected_first_line
           # Full paths need to be cleaned up so that they match on Travis.
         end
         # This could be shorter, but the eq matcher gives us a diff that we don't get from
