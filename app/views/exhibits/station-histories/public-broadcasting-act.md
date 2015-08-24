@@ -1,6 +1,6 @@
 # Public Broadcasting Act of 1967
 
-![LBJ signing Public Broadcasting Act](/exhibits/AAPB_Exhibit_StationHistories_image3.jpg)
+![LBJ signing Public Broadcasting Act](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image3.jpg)
 
 ## Summary
 
@@ -8,7 +8,9 @@ President Lyndon M. Johnson signed the Public Broadcasting Act on November 7, 19
 
 ## Author
 
-Sadie Roosa
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
+
+### Sadie Roosa
 
 ## Links
 
@@ -17,4 +19,3 @@ Sadie Roosa
 
 I also have come across a few recordings about the Public Broadcasting Act. I need to track them down again, but I think that these would be really interesting to include in their own section. 
 
-### For example

@@ -55,7 +55,14 @@ describe 'Catalog' do
       expect_thumbnail(1234)
       expect_fuzzy_xml
     end
-
+    
+    it 'offers to broaden search' do
+      visit '/catalog?q=nothing-matches-this&f[access_types][]=' + PBCore::PUBLIC_ACCESS
+      expect(page).to have_text('No entries found')
+      click_link 'searching all records'
+      expect(page).to have_text('Consider using other search terms or removing filters.')
+    end
+    
     describe 'search constraints' do
       describe 'title facets' do
         assertions = [
@@ -137,19 +144,63 @@ describe 'Catalog' do
       end
 
       describe 'facet ORs' do
-        assertions = [
-          ['media_type', 'Sound+OR+Moving+Image', 20],
-          ['media_type', 'Moving+Image+or+Sound', 20]
-        ]
-        assertions.each do |facet, value, value_count|
-          url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
+        describe 'URL support' do
+          # OR is supported on all facets, even if not in the UI.
+          assertions = [
+            ['media_type', 'Sound', 8],
+            ['media_type', 'Sound+OR+Moving+Image', 20],
+            ['media_type', 'Moving+Image+OR+Sound', 20],
+            ['media_type', 'Moving+Image', 12]
+          ]
+          assertions.each do |facet, value, value_count|
+            url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
 
-          describe "visiting #{url}" do
-            it "has #{value_count} results" do
-              visit url
-              expect_count(value_count)
+            describe "visiting #{url}" do
+              it "has #{value_count} results" do
+                visit url
+                expect_count(value_count)
+              end
             end
           end
+        end
+        
+        it 'works in the UI' do
+          visit '/catalog?f[access_types][]=online'
+          expect_count(2)
+          expect(page).to have_text('You searched for: Access online')
+          
+          click_link('All Records')
+          expect_count(24)
+          expect(page).to have_text('You searched for: Access all')
+          
+          click_link('KQED (CA)')
+          expect_count(1)
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '+
+                                    'Organization KQED (CA) Remove constraint Organization: KQED (CA)')
+        
+          click_link('WGBH (MA)')
+          expect_count(3)
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '+
+                                    'Organization KQED (CA) OR WGBH (MA) Remove constraint Organization: KQED (CA) OR WGBH (MA)')
+        
+          all(:css, 'a.remove').first.click # KQED
+          expect_count(2)
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '+
+                                    'Organization WGBH (MA) Remove constraint Organization: WGBH (MA)')
+        
+          all(:css, '.constraints-container a.remove').first.click # remove access all
+          # If you attempt to remove the access facet, it redirects you to the default.
+          expect_count(1)
+          expect(page).to have_text('You searched for: Organization WGBH (MA) Remove constraint Organization: WGBH (MA) '+
+                                    'Access online Remove constraint Access: online')
+                                
+          click_link('Iowa Public Television (IA)')
+          expect_count(2)
+          expect(page).to have_text('Organization: WGBH (MA) OR Iowa Public Television (IA)')
+          
+          all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
+          expect_count(2) # Same two
+          expect(page).to have_text('You searched for: Access online Remove constraint Access: online 1 - 2 of 2')
         end
       end
 
@@ -276,27 +327,36 @@ describe 'Catalog' do
   describe '#show' do
     AGREE = 'I agree'
 
+    def expect_all_the_text(fixture_name)
+      target = PBCore.new(File.read('spec/fixtures/pbcore/'+fixture_name))
+      # #text is only used for #to_solr, so it's private...
+      # so we need the #send to get at it.
+      target.send(:text).map { |s| s.gsub('_', '/') }.each do |field|
+        # The ID is on the page, but it has a slash, not underscore.
+        expect(page).to have_text(field)
+      end
+    end
+    
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
       click_button(AGREE)
-      target = PBCore.new(File.read('spec/fixtures/pbcore/clean-MOCK.xml'))
-      target.send(:text).each do |field|
-        # #text is only used for #to_solr, so it's private...
-        # so we need the #send to get at it.
-        expect(page).to have_text(field)
-      end
+      expect_all_the_text('clean-MOCK.xml')
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
     end
 
     it 'has poster otherwise if media' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
       click_button(AGREE)
-      target = PBCore.new(File.read('spec/fixtures/pbcore/clean-every-title-is-episode-number.xml'))
-      (target.send(:text) - ['cpb-aacip_37-16c2fsnr']).each do |field|
-        # The ID is on the page, but it has a slash, not underscore.
-        expect(page).to have_text(field)
-      end
+      expect_all_the_text('clean-every-title-is-episode-number.xml')
       expect_poster('cpb-aacip_37-16c2fsnr')
+    end
+    
+    it 'apologizes if no access' do
+      visit '/catalog/cpb-aacip_80-12893j6c'
+      # No need to click through
+      expect_all_the_text('clean-bad-essence-track.xml')
+      # No thumbnail
+      expect(page).to have_text('This content has not been digitized.')
     end
   end
 

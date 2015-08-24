@@ -68,8 +68,8 @@ class Exhibit < Cmless
     end
   end
 
-  def formatted
-    @formatted ||= begin
+  def main_formatted
+    @main_formatted ||= begin
       left = false
       @main_html.gsub('<img ') do |_match|
         left = !left

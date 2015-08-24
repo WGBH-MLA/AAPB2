@@ -1,6 +1,6 @@
 # Dedication Ceremonies
 
-![Dedicating New Facilities](/exhibits/AAPB_Exhibit_StationHistories_image1.jpg)
+![Dedicating New Facilities](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image1.jpg)
 
 ## Summary
 
@@ -8,7 +8,9 @@ Dedication of new facilities
 
 ## Author
 
-Sadie Roosa
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
+
+### Sadie Roosa
 
 ## Links
 
@@ -25,6 +27,3 @@ The second type of content I’m interested in including in my exhibition is ded
 -	[Dedication ceremony of Vilas Communication Hall, Wisconsin Public Broadcasting facilities](/catalog/cpb-aacip_30-89281bqr), made up of speeches by many involved, especially those at the University of Wisconsin, where the station is housed. 
 -	I might also try to work in including [the announcement made after WGBH fire in 1960s](/catalog/cpb-aacip_15-19s1rwtr) in this section since it is also about facilities. 
 
-
-
-### For example

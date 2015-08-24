@@ -10,8 +10,8 @@
   <pbcoreTitle titleType="duplicate to be removed">Writers Forum</pbcoreTitle>
   <pbcoreTitle titleType="and empty should be deleted"></pbcoreTitle>
   <pbcoreTitle titleType="Program">WRF-09/13/07</pbcoreTitle>
-  <pbcoreDescription>No description available</pbcoreDescription>
-  <pbcoreDescription descriptionType="duplicate to be removed">No description available</pbcoreDescription>
+  <pbcoreDescription descriptionType="duplicate to be removed">Writers Forum</pbcoreDescription>
+  <pbcoreDescription descriptionType="but this one is kept">Writers Forum</pbcoreDescription>
   <pbcoreGenre source="WERU Genre Picklist">Readings</pbcoreGenre>
   <pbcoreGenre source="duplicate to be removed">Readings</pbcoreGenre>
   <pbcoreCoverage>
@@ -30,7 +30,7 @@
   </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source="WERU Prog List">WRF028</instantiationIdentifier>
-    <instantiationIdentifier source="duplicate to be removed">Writers Forum</instantiationIdentifier>
+    <instantiationIdentifier source="duplicate not to be removed">Writers Forum</instantiationIdentifier>
     <instantiationPhysical>CD</instantiationPhysical>
     <instantiationLocation>WERU Archives - CD Shelves</instantiationLocation>
     <instantiationMediaType>Sound</instantiationMediaType>

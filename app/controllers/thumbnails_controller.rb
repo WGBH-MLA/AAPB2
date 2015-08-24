@@ -3,10 +3,15 @@
 class ThumbnailsController < ApplicationController
   include Blacklight::Catalog
 
+  CACHE = {}
+  
   def show
-    _response, document = fetch(params['id'])
-    xml = document.instance_variable_get('@_source')['xml']
-    pbcore = PBCore.new(xml)
-    redirect_to pbcore.img_src
+    id = params['id']
+    CACHE[id] ||= begin
+      _response, document = fetch(id)
+      xml = document.instance_variable_get('@_source')['xml']
+      PBCore.new(xml).img_src
+    end
+    redirect_to CACHE[id]
   end
 end

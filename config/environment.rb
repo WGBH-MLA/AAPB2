@@ -4,6 +4,10 @@ require File.expand_path('../application', __FILE__)
 # Initialize the Rails application.
 Rails.application.initialize!
 
+module AAPB
+  QUERY_OR = ' OR '
+end
+
 # Monkey-patches which might be made into PRs?
 
 module Blacklight::Solr
@@ -35,7 +39,8 @@ module Blacklight::Solr
           # Before monkey-patching:
           # "{!raw f=#{facet_field}#{(" " + local_params.join(" ")) unless local_params.empty?}}#{value}"
           # Do all the extra parts matter?
-             prefix + value.split(/ OR /i).map { |single| "#{facet_field}:\"#{single}\"" }.join(' ')
+          # BEGIN patch replace
+             prefix + value.split(AAPB::QUERY_OR).map { |single| "#{facet_field}:\"#{single}\"" }.join(' ')
           # END patch
       end
     end
@@ -59,8 +64,8 @@ module Blacklight::UrlHelperBehavior
     p[:f][url_field] = [] if facet_config.single and not p[:f][url_field].empty?
 
     p[:f][url_field].push(value)
-    # Monkey-patch:
-    p[:f] = Hash[p[:f].map { |k, v| [k, [v.join(' OR ')]] }]
+    # BEGIN patch addition:
+    p[:f] = Hash[p[:f].map { |k, v| [k, [v.join(AAPB::QUERY_OR)]] }]
     # END patch
 
     if item and item.respond_to?(:fq) and item.fq
@@ -71,29 +76,49 @@ module Blacklight::UrlHelperBehavior
 
     p
   end
+  
+  def remove_facet_params(field, item, source_params=params)
+    if item.respond_to? :field
+      field = item.field
+    end
+
+    facet_config = facet_configuration_for_field(field)
+
+    url_field = facet_config.key
+
+    value = facet_value_for_facet_item(item)
+
+    p = reset_search_params(source_params)
+    # need to dup the facet values too,
+    # if the values aren't dup'd, then the values
+    # from the session will get remove in the show view...
+    p[:f] = (p[:f] || {}).dup
+    p[:f][url_field] = (p[:f][url_field] || []).dup
+    p[:f][url_field] = p[:f][url_field] - [value]
+    # The line above removes an exact match (ie in the filter list).
+    # The line below removes just one term (ie in the side bar).
+    # BEGIN patch addition
+    p[:f][url_field] = (p[:f][url_field].map{ |field| field.split(AAPB::QUERY_OR)}.map { |terms| terms - [value] }).map { |terms| terms.join(' OR ') }
+    # END patch
+    p[:f].delete(url_field) if p[:f][url_field].size == 0
+    p.delete(:f) if p[:f].empty?
+    p
+  end
 end
 
-# module Blacklight::FacetsHelperBehavior
-#  def render_facet_value(facet_field, item, options ={})
-#    path = search_action_path(add_facet_params_and_redirect(facet_field, item))
-#    content_tag(:span, :class => "facet-label") do
-#      link_to_unless(options[:suppress_link], facet_display_value(facet_field, item), path, :class=>"facet_select")
-#    end + render_facet_count(item.hits)
-#  end
-#
-#  def render_selected_facet_value(facet_field, item)
-#    content_tag(:span, :class => "facet-label") do
-#      content_tag(:span, facet_display_value(facet_field, item), :class => "selected") +
-#      # remove link
-#      link_to(content_tag(:span, '', :class => "glyphicon glyphicon-remove") + content_tag(:span, '[remove]', :class => 'sr-only'), search_action_path(remove_facet_params(facet_field, item, params)), :class=>"remove")
-#    end + render_facet_count(item.hits, :classes => ["selected"])
-#  end
-#
-#  def render_facet_item(facet_field, item)
-#    if facet_in_params?(facet_field, item.value )
-#      render_selected_facet_value(facet_field, item)
-#    else
-#      render_facet_value(facet_field, item)
-#    end
-#  end
-# end
+module Blacklight::FacetsHelperBehavior
+  def facet_in_params?(field, item)
+    if item and item.respond_to? :field
+      field = item.field
+    end
+
+    value = facet_value_for_facet_item(item)
+
+    params[:f] and params[:f][field] and
+      # Before:
+      #   params[:f][field].include?(value)
+      # BEGIN patch replace
+      params[:f][field].any? { |field| field.split(AAPB::QUERY_OR).include?(value) }
+      # END patch
+  end
+end

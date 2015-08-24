@@ -1,6 +1,6 @@
 # Retrospective Anniversary Specials
 
-![Anniversary Specials](/exhibits/AAPB_Exhibit_StationHistories_image2.jpg)
+![Anniversary Specials](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image2.jpg)
 
 ## Summary
 
@@ -8,7 +8,9 @@ Stations reflect on their histories.
 
 ## Author
 
-Sadie Roosa
+<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
+
+### Sadie Roosa
 
 ## Links
 
@@ -22,4 +24,3 @@ The third type of content I'm interested in including in my exhibition is retros
 -	[WBRA’s “Across the Blue Ridge: 20 Years of Public Television”](/catalog/cpb-aacip_85-85n8ptc3) – This program features interviews with many of the founding staff of the station, who still work there 20 years later. They go through the entire history with great anecdotes. The only problem is they use some short clips (most with voiceover narration played on top of any sound from the clip), so I have to check if that’s okay to put online. 
 -	[KUT’s “30th Anniversary Dinner”](/catalog/cpb-aacip_402-70zpch1s) – This is a recording of a dinner celebrating 30th anniversary of station. Molly Ivins MCs. She introduces the evening and recognizes special guests. Then the general manager speaks on the history of the station. Then Bob Edwards, host of Morning Edition, speaks about public radio's unique contribution to radio.
 
-### For example
