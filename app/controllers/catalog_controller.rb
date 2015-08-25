@@ -1,4 +1,5 @@
 require_relative '../../lib/geo_i_p_country'
+require_relative '../../lib/aapb'
 
 class CatalogController < ApplicationController
   helper Openseadragon::OpenseadragonHelper

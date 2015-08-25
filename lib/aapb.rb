@@ -8,9 +8,11 @@ module AAPB
     'CA' => 'California',
     'CO' => 'Colorado',
     'CT' => 'Connecticut',
+    'DC' => 'District of Columbia',
     'DE' => 'Delaware',
     'FL' => 'Florida',
     'GA' => 'Georgia',
+    'GU' => 'Guam',
     'HI' => 'Hawaii',
     'ID' => 'Idaho',
     'IL' => 'Illinois',
@@ -52,4 +54,7 @@ module AAPB
     'WI' => 'Wisconsin',
     'WY' => 'Wyoming'
   }
+  STATES.default = 'undefined' 
+  # Without a default we get a cryptic error message
+  # about comparing array to array for the sort.
 end

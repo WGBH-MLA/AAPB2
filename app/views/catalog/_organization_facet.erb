@@ -1,42 +1,22 @@
 <ul class="facet-values list-unstyled">
-  <% 
-    base_uri = '/catalog?' + (
-      {f: (params['f'].except('organization','state') rescue {})}.merge(
-        params.except('action', 'controller', 'f')
-      )).to_query
+  <%
     display_facet.items.group_by do |option|
-      option.value.match(/\((..)\)/)[1]
-    end.sort.each do |state_abbr, options|
-      state = AAPB::STATES[state_abbr]
+      AAPB::STATES[option.value.match(/\((..)\)/)[1]]
+    end.sort.each do |state, options|
   %>
     <li>
-      <span class="facet-label"><b>
-        <% if params.try(:[],'f').try(:[],'state') == [state] %>
-          <span class="selected"><%= state %></span>
-          <a href="<%= base_uri %>" class="remove">
-            <span class="glyphicon glyphicon-remove"></span>
-            <span class="sr-only">[checked]</span>
-          </a>
-        <% else %>
-          <span class="selected"><a href="<%= base_uri %>&amp;f[state][]=<%= state %>" class="facet_select"><%= state %></a></span>
-        <% end %>
-      </b></span>
+      <b><%= render_facet_value('organization', 
+                OpenStruct.new(
+                  label: state,
+                  value: options.map { |o| o.value }.join(AAPB::QUERY_OR)
+                )
+              ) %></b>
     </li>
     <%
       options.each do |option|
     %>
       <li>
-        <span class="facet-label">
-          <% if params.try(:[],'f').try(:[],'organization') == [option.value] %>
-            <span class="selected"><%= option.value %></span>
-            <a href="<%= base_uri %>" class="remove">
-              <span class="glyphicon glyphicon-remove"></span>
-              <span class="sr-only">[checked]</span>
-            </a>
-          <% else %>
-            <span class="selected"><a href="<%= base_uri %>&amp;f[organization][]=<%= CGI.escape(option.value) %>" class="facet_select"><%= option.value %></a></span>
-          <% end %>
-        </span>
+        <%= render_facet_item('organization', OpenStruct.new(value: option.value)) %>
         <span class="facet-count"><%= option.hits || 0 %></span>
       </li>
     <% end 
