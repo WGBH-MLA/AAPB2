@@ -12,15 +12,13 @@
                 )
               ) %></b>
     </li>
-    <ul>
-      <%
-        options.each do |option|
-      %>
-        <li>
-          <%= render_facet_item('organization', OpenStruct.new(value: option.value)) %>
-          <span class="facet-count"><%= option.hits || 0 %></span>
-        </li>
-      <% end %>
-    </ul>
+    <%
+      options.each do |option|
+    %>
+      <li>
+        <%= render_facet_item('organization', OpenStruct.new(value: option.value)) %>
+        <span class="facet-count"><%= option.hits || 0 %></span>
+      </li>
+    <% end %>
   <% end %>
 </ul>
