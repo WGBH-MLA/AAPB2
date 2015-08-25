@@ -105,7 +105,7 @@ describe 'Catalog' do
           ['topics', 1, 'Music', 1],
           ['asset_type', 1, 'Segment', 5],
           ['year', 1, '2000', 1],
-          ['organization', 17, 'WGBH+(MA)', 2], # all shown because of tag-ex in catalog_controller
+          ['organization', 31, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
           ['access_types', 3, PBCore::ALL_ACCESS, 24]
         ]
         assertions.each do |facet, facet_count, value, value_count|
