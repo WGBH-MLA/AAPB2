@@ -23,7 +23,7 @@ The two items in this section of the exhibit are unique in their focus on causes
 
 ## Main
 
-## Links
+## Resources
 
 - [NASA. Causes of Climate Change.](http://climate.nasa.gov/causes/)
 - [Environmental Protection Agency. Causes of Climate Change.](http://www.epa.gov/climatechange/science/causes.html)

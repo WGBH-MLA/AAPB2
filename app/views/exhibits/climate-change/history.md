@@ -26,7 +26,7 @@ But perceptions are changing, and people are becoming more aware of the problem.
 
 ## Main
 
-## Links
+## Resources
 
 - [Timeline of the Modern Environmental Movement](http://www.pbs.org/wgbh/americanexperience/features/timeline/earthdays/)
 - [Predictors of Public Climate Change Awareness and Risk Perceptions around the World](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2728.html)

@@ -8,7 +8,7 @@ class Exhibit < Cmless
   attr_reader :summary_html
   attr_reader :author_html
   attr_reader :main_html
-  attr_reader :links_html
+  attr_reader :resources_html
 
   attr_reader :head_html
 
@@ -82,9 +82,9 @@ class Exhibit < Cmless
     end
   end
 
-  def links
-    @links ||=
-      Nokogiri::HTML(links_html).xpath('//a').map do |el|
+  def resources
+    @resources ||=
+      Nokogiri::HTML(resources_html).xpath('//a').map do |el|
         [
           el.text,
           el.attribute('href').to_s

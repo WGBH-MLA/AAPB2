@@ -26,7 +26,7 @@ In 2008, McKibben and a group of college students founded 350.org, a grassroots 
 
 ## Main
 
-## Links
+## Resources
 
 - [350.org](http://www.350.org)
 - [Yale Project on Climate Change Communication. The Genesis of Climate Change Activism.](http://environment.yale.edu/climate-communication/article/the-genesis-of-climate-change-activism)

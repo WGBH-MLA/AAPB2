@@ -22,7 +22,7 @@ Despite overwhelming scientific consensus on human-driven climate change, politi
 
 ## Main
 
-## Links
+## Resources
 
 - [Center for Research on Environmental Decisions, Earth Institute, Columbia University * EcoAmerica. Connecting on Climate: A Guide to Effective Climate Change Communication.](http://www.connectingonclimate.org/)
 

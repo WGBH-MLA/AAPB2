@@ -26,7 +26,7 @@ Decades ago, climate change could have been prevented. By now, it is inevitable 
 
 ## Main
 
-## Links
+## Resources
 
 - [United Nations Framework Convention on Climate Change](http://unfccc.int/meetings/paris_nov_2015/meeting/8926.php)
 - [United Nations Climate Change Conference](http://www.cop21.gouv.fr/en)

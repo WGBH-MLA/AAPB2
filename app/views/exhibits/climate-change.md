@@ -1,4 +1,4 @@
-# Climate Change Conversations from 1970 through the Present: Causes, Impacts, Research, and Activism
+# Climate Change Conversations from 1970 through the Present
 
 !["The Blue Marble" Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg "The Blue Marble" Source: NASA")
 
@@ -12,7 +12,7 @@ Climate scientists and activists have used public broadcasting to discuss and co
 
 ### Casey E. Davis, AAPB Project Manager
 
-## Links
+## Resources
 
 - [Intergovernmental Panel on Climate Change. (2014). Fifth assessment report.](http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml)
 - [NASA. (2015). What is Climate Change?](http://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-climate-change-k4.html)

@@ -20,7 +20,7 @@ Some artists have taken to addressing the issue of climate change through their 
 
 ## Main
 
-## Links
+## Resources
 
 - [Artists and Climate Change](http://artistsandclimatechange.com)
 - [Ira Glass on Why It's Hard to Make Climate Change a Compelling Story](https://www.youtube.com/watch?v=dv2JEsHiL8U)

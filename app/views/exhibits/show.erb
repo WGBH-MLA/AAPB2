@@ -42,7 +42,7 @@
   
   <%= render partial: 'shared/sidebar_nav', 
              locals: { 
-                title: 'Sub-exhibits',
+                title: 'Sections',
                 links: @exhibit.children.map { |child| [child.title, "/exhibits/#{child.path}"] }
               } %>
   
@@ -50,8 +50,8 @@
 
   <%= render partial: 'shared/sidebar_nav', 
              locals: { 
-                title: 'Links',
-                links: @exhibit.links
+                title: 'Resources',
+                links: @exhibit.resources
               } %>
     
 <% end %>

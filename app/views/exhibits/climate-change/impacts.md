@@ -24,7 +24,7 @@ Public broadcasting stations have recorded public lectures, interviews and call-
 
 ## Main
 
-## Links
+## Resources
 
 - [Environmental Protection Agency. (2015). Climate Change Impacts and Adapting to Climate Change.](http://www.epa.gov/climatechange/impacts-adaptation/)
 - [NASA. The Current and Future Consequences of Global Change.](http://climate.nasa.gov/effects/)
