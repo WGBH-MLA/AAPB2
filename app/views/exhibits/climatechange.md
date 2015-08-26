@@ -1,6 +1,6 @@
 # Climate Change Conversations from 1970 through the Present: Causes, Impacts, Research, and Activism
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+!["The Blue Marble" Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg)
 
 ## Summary
 
