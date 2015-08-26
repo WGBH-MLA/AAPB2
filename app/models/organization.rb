@@ -18,61 +18,6 @@ class Organization
 
   private
 
-  STATE_ABBREVIATIONS = {
-    'Alabama' =>	'AL',
-    'Alaska' =>	'AK',
-    'Arizona' =>	'AZ',
-    'Arkansas' =>	'AR',
-    'California' =>	'CA',
-    'Colorado' =>	'CO',
-    'Connecticut' =>	'CT',
-    'Delaware' =>	'DE',
-    'Florida' =>	'FL',
-    'Georgia' =>	'GA',
-    'Hawaii' =>	'HI',
-    'Idaho' =>	'ID',
-    'Illinois' =>	'IL',
-    'Indiana' =>	'IN',
-    'Iowa' =>	'IA',
-    'Kansas' =>	'KS',
-    'Kentucky' =>	'KY',
-    'Louisiana' =>	'LA',
-    'Maine' =>	'ME',
-    'Maryland' =>	'MD',
-    'Massachusetts' =>	'MA',
-    'Michigan' =>	'MI',
-    'Minnesota' =>	'MN',
-    'Mississippi' =>	'MS',
-    'Missouri' =>	'MO',
-    'Montana' =>	'MT',
-    'Nebraska' =>	'NE',
-    'Nevada' =>	'NV',
-    'New Hampshire' =>	'NH',
-    'New Jersey' =>	'NJ',
-    'New Mexico' =>	'NM',
-    'New York' =>	'NY',
-    'North Carolina' =>	'NC',
-    'North Dakota' =>	'ND',
-    'Ohio' =>	'OH',
-    'Oklahoma' =>	'OK',
-    'Oregon' =>	'OR',
-    'Pennsylvania' =>	'PA',
-    'Rhode Island' =>	'RI',
-    'South Carolina' =>	'SC',
-    'South Dakota' =>	'SD',
-    'Tennessee' =>	'TN',
-    'Texas' =>	'TX',
-    'Utah' =>	'UT',
-    'Vermont' =>	'VT',
-    'Virginia' =>	'VA',
-    'Washington' =>	'WA',
-    'West Virginia' =>	'WV',
-    'Wisconsin' =>	'WI',
-    'Wyoming' =>	'WY',
-    'DC' =>	'DC',
-    'Guam' => 'GU'
-  }
-
   def pop(hash, key)
     hash.delete(key) || fail("#{key} required")
   end
@@ -82,7 +27,7 @@ class Organization
     @id = (pop(hash, 'id')).to_s
     @short_name = pop(hash, 'short_name')
     @state = pop(hash, 'state')
-    @state_abbreviation = STATE_ABBREVIATIONS[state] || fail("no such state: #{state}")
+    @state_abbreviation = State.find_by_name(@state).abbreviation
     @city = pop(hash, 'city')
     @url = pop(hash, 'url')
     @facet = "#{@short_name} (#{@state_abbreviation})"
@@ -96,6 +41,7 @@ class Organization
   orgs = YAML.load_file(Rails.root + 'config/organizations.yml').map { |hash| Organization.new(hash) }
   @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
   @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
+  @@orgs_by_state       = Hash[orgs.group_by { |org| org.state }]
 
   public
 
@@ -105,6 +51,10 @@ class Organization
 
   def self.find_by_id(id)
     @@orgs_by_id[id]
+  end
+  
+  def self.find_by_state(state)
+    @@orgs_by_state[state]
   end
 
   def self.all
