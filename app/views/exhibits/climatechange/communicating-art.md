@@ -1,6 +1,6 @@
 # Communicating Climate Change through Art
 
-![Melting glaciers](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section7_Art.jpg)
+![Melting glaciers](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section7_Art.jpg "Melting glaciers")
 
 ## Summary
 
