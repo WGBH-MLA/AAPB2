@@ -33,15 +33,6 @@ class Exhibit < Cmless
     exhibits_by_item_id[id] || []
   end
 
-  def facets
-    @facets ||= Solr.instance.connect.select(params: {
-                                               q: "exhibits:#{path}",
-                                               rows: 0,
-                                               facet: true,
-                                               'facet.field' => ['genres', 'topics']
-                                             })['facet_counts']['facet_fields']
-  end
-
   def thumbnail_url
     @thumbnail_url ||=
       Nokogiri::HTML(head_html).xpath('//img[1]/@src').first.text

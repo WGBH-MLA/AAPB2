@@ -3,34 +3,6 @@
 
   <%# Exhibit image could go here, but I feel like the gallery gives us enough. %>
   
-  <% @exhibit.facets.select { |name, list| !list.empty? }.each do |name, list| %>
-    <%# Copy-and-paste from the normal facet, but had to replace the internals. %>
-    <div class="panel panel-default facet_limit blacklight-media_type ">
-      <div class="collapse-toggle panel-heading">
-        <h5 class="panel-title facet-field-heading">
-          <%= name %>
-        </h5>
-      </div>
-      <div class="panel-collapse facet-content collapse in">
-        <div class="panel-body">
-          <ul class="facet-values list-unstyled">
-            <% list.each_slice(2) do |value,count| %>
-              <li>
-                <span class="facet-label">
-                  <%= link_to(value, '/catalog?' + {f: {
-                        exhibits: [@exhibit.path], 
-                        name => [value]
-                      }}.to_query) %>
-                </span>
-                <span class="facet-count"><%= count %></span>
-              </li>
-            <% end %>
-          </ul>
-        </div>
-      </div>
-    </div>
-  <% end %>
-  
   <div class="panel panel-primary">
     <div class="panel-heading">
       <h3 class="panel-title">Author</h3>
