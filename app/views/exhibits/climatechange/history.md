@@ -1,6 +1,6 @@
 # History of the Environmental Movement
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+![Rachel Carson, "Mother of the Environmental Movement"](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section6_History.jpg)
 
 ## Summary
 
