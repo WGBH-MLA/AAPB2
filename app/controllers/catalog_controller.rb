@@ -1,4 +1,5 @@
 require_relative '../../lib/geo_i_p_country'
+require_relative '../../lib/aapb'
 
 class CatalogController < ApplicationController
   helper Openseadragon::OpenseadragonHelper
@@ -69,9 +70,12 @@ class CatalogController < ApplicationController
     config.add_facet_field 'topics', label: 'Topic', solr_params: { 'facet.limit' => -1 },
                                      message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
     config.add_facet_field 'asset_type'
+    config.add_facet_field 'state', solr_params: { 'facet.limit' => -1 },
+                                    show: false, tag: 'state'
     config.add_facet_field 'organization', sort: 'index', solr_params: { 'facet.limit' => -1 },
                            # Default is 100, but we have more orgs than that. -1 means no limit.
-                                           tag: 'org', ex: 'org'
+                                           tag: 'org', ex: 'org,state',
+                                           partial: 'organization_facet'
                            # Display all, even when one is selected.
     config.add_facet_field 'year', sort: 'index', range: true,
                                    message: 'Cataloging in progress: Only 1/3 of AAPB records are currently dated.'

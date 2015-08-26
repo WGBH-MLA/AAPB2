@@ -1,0 +1,24 @@
+<ul class="facet-values list-unstyled">
+  <%
+    display_facet.items.group_by do |option|
+      AAPB::STATES[option.value.match(/\((..)\)/)[1]]
+    end.sort.each do |state, options|
+  %>
+    <li>
+      <b><%= render_facet_value('organization', 
+                OpenStruct.new(
+                  label: state,
+                  value: options.map { |o| o.value }.join(AAPB::QUERY_OR)
+                )
+              ) %></b>
+    </li>
+    <%
+      options.each do |option|
+    %>
+      <li>
+        <%= render_facet_item('organization', OpenStruct.new(value: option.value)) %>
+        <span class="facet-count"><%= option.hits || 0 %></span>
+      </li>
+    <% end %>
+  <% end %>
+</ul>
