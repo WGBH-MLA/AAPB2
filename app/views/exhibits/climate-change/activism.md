@@ -12,12 +12,6 @@ A study published by Yale University and George Mason University in 2014 reports
 
 In 2008, McKibben and a group of college students founded 350.org, a grassroots effort to mobilize citizens across the world to take action on climate change. Because more than 4,000 languages are spoken across the globe, the universally understood number "350," which, according to Dr. James Hansen, is the safe upper limit of carbon dioxide parts per million in the atmosphere, became the name of the organization. Today, 350 works in every country to effect change on both the local and global scale, and activists around the world have dedicated themselves to the effort. 
 
-
-8.	[The End of Nature, 1989 (WILL)](/catalog/cpb-aacip_16-p843r0qc0z)
-9.	[Interview with Bill McKibben, Vermont Public Television (2001)](/catalog/cpb-aacip_46-65h9w6z2)
-10.	[Role of Citizen Action in Solving Global Warming, 2010 (WGBH)](/catalog/cpb-aacip_15-7940r9m78p)
-11.	[Bill McKibben: Eaarth, 2010 (WGBH)](/catalog/cpb-aacip_15-8s4jm23h6q)
-
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
@@ -25,6 +19,13 @@ In 2008, McKibben and a group of college students founded 350.org, a grassroots 
 ### Casey E. Davis, AAPB Project Manager
 
 ## Main
+
+## Records
+
+8.	[The End of Nature, 1989 (WILL)](/catalog/cpb-aacip_16-p843r0qc0z)
+9.	[Interview with Bill McKibben, Vermont Public Television (2001)](/catalog/cpb-aacip_46-65h9w6z2)
+10.	[Role of Citizen Action in Solving Global Warming, 2010 (WGBH)](/catalog/cpb-aacip_15-7940r9m78p)
+11.	[Bill McKibben: Eaarth, 2010 (WGBH)](/catalog/cpb-aacip_15-8s4jm23h6q)
 
 ## Resources
 

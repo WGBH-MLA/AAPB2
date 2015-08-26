@@ -24,6 +24,13 @@ Public broadcasting stations have recorded public lectures, interviews and call-
 
 ## Main
 
+## Records
+
+22.	[David Brower: Speaks about "What will it cost the Earth?" at Kelly Hall, Antioch College, Yellow Springs, Ohio (Part A), 1970 (WYSO)](/catalog/cpb-aacip_27-9673ng8v)
+23.	[David Brower: Speaks about "What will it cost the Earth?" at Kelly Hall, Antioch College, Yellow Springs, Ohio (Part B), 1970 (WYSO)](/catalog/cpb-aacip_27-59q2c26d)
+24.	[Red Sky at Morning: America and the Crisis of Global Environment, 2004 (WILL)](/catalog/cpb-aacip_16-4j09w0978j)
+25.	[Rachel Carson: Mother of the Environmental Movement, 2007 (WGBH)](/catalog/cpb-aacip_15-jq0sq8qr1w)
+
 ## Resources
 
 - [Environmental Protection Agency. (2015). Climate Change Impacts and Adapting to Climate Change.](http://www.epa.gov/climatechange/impacts-adaptation/)

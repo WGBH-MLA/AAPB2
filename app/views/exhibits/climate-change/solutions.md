@@ -12,12 +12,6 @@ Policy makers have historically put off and delayed any global binding agreement
 
 Decades ago, climate change could have been prevented. By now, it is inevitable and has already begun to take its toll on countries around the world. The impacts of sea-level rise, more frequent and severe weather and heat waves, and longer wildfire seasons now need to be confronted, countries and local communities will need to adapt to the new normal of our changed planet. 
 
-
-18.	[Impact of Global Warming on the US Economy, 2007 (WGBH)](/catalog/cpb-aacip_15-4b2x34mp8f)
-19.	[Daniel Schrag: Geoengineering, 2008 (WGBH)](/catalog/cpb-aacip_15-js9h41jv6n)
-20.	[Al Gore: A Plan to Solve the Global Climate Crisis, 2009 (WGBH)](/catalog/cpb-aacip_15-4m9183453q)
-21.	[After Copenhagen: Real Solutions for Global Climate Change, 2010 (WGBH)](/catalog/cpb-aacip_15-rj48p5vm8b)
-
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
@@ -25,6 +19,13 @@ Decades ago, climate change could have been prevented. By now, it is inevitable 
 ### Casey E. Davis, AAPB Project Manager
 
 ## Main
+
+## Records
+
+18.	[Impact of Global Warming on the US Economy, 2007 (WGBH)](/catalog/cpb-aacip_15-4b2x34mp8f)
+19.	[Daniel Schrag: Geoengineering, 2008 (WGBH)](/catalog/cpb-aacip_15-js9h41jv6n)
+20.	[Al Gore: A Plan to Solve the Global Climate Crisis, 2009 (WGBH)](/catalog/cpb-aacip_15-4m9183453q)
+21.	[After Copenhagen: Real Solutions for Global Climate Change, 2010 (WGBH)](/catalog/cpb-aacip_15-rj48p5vm8b)
 
 ## Resources
 

@@ -39,10 +39,8 @@
   
   <%= @exhibit.summary_html.html_safe %>
   
-  <% unless @exhibit.children.empty? %>
-    <hr/>
-  <% else %>
-    <% @exhibit.items.to_a.slice(0,6).in_groups(2,false).each do |group| %>
+  <% if @exhibit.children.empty? %>
+    <% @exhibit.items.to_a.slice(0,6).in_groups_of(3,false).each do |group| %>
       <div class="row">
       <% group.each do |id, title| %>
         <div class="document col-md-4">
@@ -60,12 +58,15 @@
       <% end %>
       </div>
     <% end %>
-    <p style="text-align: center;">
-      <a href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>" class="btn btn-primary">
-        Show All <%= @exhibit.items.count %>
-      </a>
-    </p>
   <% end %>
+    
+  <p style="text-align: center;">
+    <a href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>" class="btn btn-primary">
+      Show All <%= @exhibit.items.count %>
+    </a>
+  </p>
+  
+  <hr/>
   
   <%= @exhibit.main_formatted.html_safe %>
   

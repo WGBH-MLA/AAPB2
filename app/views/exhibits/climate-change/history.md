@@ -12,12 +12,6 @@ Environmental problems in the 1970s, including air and water pollution, were loc
 
 But perceptions are changing, and people are becoming more aware of the problem. In North America, Europe and Japan, more than 90% of the public are aware of climate change; however, this sharply contrasts with the global percentage, where as much as 40% of adults worldwide have never heard of climate change. 
 
-
-22.	[David Brower: Speaks about "What will it cost the Earth?" at Kelly Hall, Antioch College, Yellow Springs, Ohio (Part A), 1970 (WYSO)](/catalog/cpb-aacip_27-9673ng8v)
-23.	[David Brower: Speaks about "What will it cost the Earth?" at Kelly Hall, Antioch College, Yellow Springs, Ohio (Part B), 1970 (WYSO)](/catalog/cpb-aacip_27-59q2c26d)
-24.	[Red Sky at Morning: America and the Crisis of Global Environment, 2004 (WILL)](/catalog/cpb-aacip_16-4j09w0978j)
-25.	[Rachel Carson: Mother of the Environmental Movement, 2007 (WGBH)](/catalog/cpb-aacip_15-jq0sq8qr1w)
-
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
@@ -25,6 +19,13 @@ But perceptions are changing, and people are becoming more aware of the problem.
 ### Casey E. Davis, AAPB Project Manager
 
 ## Main
+
+## Records
+
+22.	[David Brower: Speaks about "What will it cost the Earth?" at Kelly Hall, Antioch College, Yellow Springs, Ohio (Part A), 1970 (WYSO)](/catalog/cpb-aacip_27-9673ng8v)
+23.	[David Brower: Speaks about "What will it cost the Earth?" at Kelly Hall, Antioch College, Yellow Springs, Ohio (Part B), 1970 (WYSO)](/catalog/cpb-aacip_27-59q2c26d)
+24.	[Red Sky at Morning: America and the Crisis of Global Environment, 2004 (WILL)](/catalog/cpb-aacip_16-4j09w0978j)
+25.	[Rachel Carson: Mother of the Environmental Movement, 2007 (WGBH)](/catalog/cpb-aacip_15-jq0sq8qr1w)
 
 ## Resources
 

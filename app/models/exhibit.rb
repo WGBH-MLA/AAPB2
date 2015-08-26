@@ -9,6 +9,7 @@ class Exhibit < Cmless
   attr_reader :author_html
   attr_reader :main_html
   attr_reader :resources_html
+  attr_reader :records_html
 
   attr_reader :head_html
 
@@ -45,7 +46,7 @@ class Exhibit < Cmless
   def items
     # TODO: Add the items of the children.
     @items ||= begin
-      doc = Nokogiri::HTML(summary_html + main_html)
+      doc = Nokogiri::HTML(summary_html + main_html + records_html)
       hash = Hash[
         doc.xpath('//a').select do |el|
           el.attribute('href').to_s.match('^/catalog/.+')

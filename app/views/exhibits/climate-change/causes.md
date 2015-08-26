@@ -12,9 +12,6 @@ Throughout this exhibit, you may notice that scientists and activists, each of w
 
 The two items in this section of the exhibit are unique in their focus on causes. One, an edited documentary titled "After the Warming" which originally broadcast in 1990 by Maryland Public Television, looks at the causes of climate change from the year 2050. The second, a public lecture by Anna Lappe, focuses on an often-overlooked cause of climate change -- our food, livestock and agricultural industries.
 
-12.	 [After the Warming, 1990 (MPT)](/catalog/cpb-aacip_394-65h9wd4r)
-13.	[Anne Lappe and Frances Moore Lappe: Diet for a Hot Planet, 2010 (WGBH)](/catalog/cpb-aacip_15-930ns0m03c)
-
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
@@ -22,6 +19,11 @@ The two items in this section of the exhibit are unique in their focus on causes
 ### Casey E. Davis, AAPB Project Manager
 
 ## Main
+
+## Records
+
+12.	 [After the Warming, 1990 (MPT)](/catalog/cpb-aacip_394-65h9wd4r)
+13.	[Anne Lappe and Frances Moore Lappe: Diet for a Hot Planet, 2010 (WGBH)](/catalog/cpb-aacip_15-930ns0m03c)
 
 ## Resources
 
