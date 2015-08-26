@@ -25,11 +25,16 @@ class State
   
   @@states = YAML.load_file(Rails.root + 'config/states.yml').map { |hash| State.new(hash) }
   @@states_by_name = Hash[@@states.map { |state| [state.name, state] }]
+  @@states_by_abbreviation = Hash[@@states.map { |state| [state.abbreviation, state] }]
   
   public
   
   def self.find_by_name(name)
     @@states_by_name[name]
+  end
+  
+  def self.find_by_abbreviation(abbreviation)
+    @@states_by_abbreviation[abbreviation]
   end
   
   def self.all
