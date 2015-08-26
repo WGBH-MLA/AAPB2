@@ -1,6 +1,6 @@
 # Communicating Climate Change through Art
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+![Melting glaciers](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section7_Art.jpg)
 
 ## Summary
 
