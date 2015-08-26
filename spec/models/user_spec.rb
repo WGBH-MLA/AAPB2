@@ -46,7 +46,8 @@ describe User do
     require 'socket'
 
     it 'returns true for US IP addresses' do
-      allow(fake_request).to receive(:remote_ip) { IPSocket::getaddress('www.usa.gov') rescue nil }
+      allow(fake_request).to receive(:remote_ip) { '23.48.126.184' }
+      # Was doing DNS lookup, but it failed on Travis: Make it more stable.
       expect(user.usa?).to eq true
     end
 
