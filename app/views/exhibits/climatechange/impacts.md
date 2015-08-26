@@ -1,6 +1,6 @@
 # Impacts and Consequences of Climate Change
 
-![Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section1_Impacts.jpg)
+![Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section1_Impacts.jpg "Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA")
 
 ## Summary
 
