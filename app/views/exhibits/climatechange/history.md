@@ -1,5 +1,7 @@
 # History of the Environmental Movement
 
+6
+
 ![Rachel Carson, "Mother of the Environmental Movement"](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section6_History.jpg)
 
 ## Summary
@@ -21,6 +23,8 @@ But perceptions are changing, and people are becoming more aware of the problem.
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
 ### Casey E. Davis, AAPB Project Manager
+
+## Main
 
 ## Links
 

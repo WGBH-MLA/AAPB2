@@ -1,5 +1,7 @@
 # Communicating Climate Change through Art
 
+7
+
 ![Melting glaciers](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section7_Art.jpg)
 
 ## Summary
@@ -15,6 +17,8 @@ Some artists have taken to addressing the issue of climate change through their 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
 ### Casey E. Davis, AAPB Project Manager
+
+## Main
 
 ## Links
 

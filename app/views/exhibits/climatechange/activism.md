@@ -1,5 +1,7 @@
 # Climate Change Activism
 
+2
+
 ![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg "Bill McKibben, Founder of 350.org")
 
 ## Summary
@@ -21,6 +23,8 @@ In 2008, McKibben and a group of college students founded 350.org, a grassroots 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
 ### Casey E. Davis, AAPB Project Manager
+
+## Main
 
 ## Links
 

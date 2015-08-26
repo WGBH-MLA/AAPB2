@@ -1,5 +1,7 @@
 # Debates about Climate Change
 
+4
+
 ![Maryland Public Television Panel Discussion on Global Warming](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section4_Debates.jpg)
 
 ## Summary
@@ -17,6 +19,8 @@ Despite overwhelming scientific consensus on human-driven climate change, politi
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
 ### Casey E. Davis, AAPB Project Manager
+
+## Main
 
 ## Links
 

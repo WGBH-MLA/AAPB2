@@ -1,5 +1,7 @@
 # Proposed Solutions to Climate Change
 
+5
+
 ![Wind Turbines (CC-BY-SA 3.0 Image by Fred J, userpage: commons.wikimedia.org/wiki/User:Fred_J](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section5_Solutions.jpg)
 
 ## Summary
@@ -21,6 +23,8 @@ Decades ago, climate change could have been prevented. By now, it is inevitable 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
 ### Casey E. Davis, AAPB Project Manager
+
+## Main
 
 ## Links
 

@@ -1,5 +1,7 @@
 # Impacts and Consequences of Climate Change
 
+1
+
 ![Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section1_Impacts.jpg)
 
 ## Summary
@@ -19,6 +21,8 @@ Public broadcasting stations have recorded public lectures, interviews and call-
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
 ### Casey E. Davis, AAPB Project Manager
+
+## Main
 
 ## Links
 

@@ -1,5 +1,7 @@
 # Causes of Climate Change
 
+3
+
 ![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section3_Causes.jpg)
 
 ## Summary
@@ -18,6 +20,8 @@ The two items in this section of the exhibit are unique in their focus on causes
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
 ### Casey E. Davis, AAPB Project Manager
+
+## Main
 
 ## Links
 
