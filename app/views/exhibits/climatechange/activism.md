@@ -1,6 +1,6 @@
 # Climate Change Activism
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg)
 
 ## Summary
 
