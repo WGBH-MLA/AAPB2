@@ -20,7 +20,7 @@
         <h2 class="panel-title">
           <%= state.name %>
           <% if state.organizations %>
-            <a href="catalog?f[state][]=<%= URI.encode(state.name) %>" class="btn btn-sm btn-link pull-right">
+            <a href="catalog?f[organization][]=<%= state.organizations.map { |org| org.facet}.join(AAPB::QUERY_OR) %>" class="btn btn-sm btn-link pull-right">
               All records from <%= state.name %>
             </a>
           <% end %>
