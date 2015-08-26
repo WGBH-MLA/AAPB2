@@ -2,7 +2,7 @@
 
 5
 
-![Wind Turbines (CC-BY-SA 3.0 Image by Fred J, userpage: commons.wikimedia.org/wiki/User:Fred_J](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section5_Solutions.jpg)
+![Wind Turbines (CC-BY-SA 3.0 Image by Fred J, userpage: commons.wikimedia.org/wiki/User:Fred_J](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section5_Solutions.jpg "Wind Turbines (CC-BY-SA 3.0 Image by Fred J, userpage: commons.wikimedia.org/wiki/User:Fred_J)")
 
 ## Summary
 

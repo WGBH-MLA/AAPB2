@@ -2,7 +2,7 @@
 
 6
 
-![Rachel Carson, "Mother of the Environmental Movement"](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section6_History.jpg)
+![Rachel Carson, "Mother of the Environmental Movement"](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section6_History.jpg "Rachel Carson, 'Mother of the Environmental Movement'")
 
 ## Summary
 
