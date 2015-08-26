@@ -1,4 +1,4 @@
-# Proposed Solutions of Climate Change
+# Proposed Solutions to Climate Change
 
 ![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
 
