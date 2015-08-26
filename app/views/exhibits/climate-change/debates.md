@@ -8,6 +8,8 @@
 
 Despite overwhelming scientific consensus on human-driven climate change, politics and punditry have gotten in the way of a general understanding and acceptance of climate change among American citizens, as well as commitment by government leaders to solving the climate crisis. Over the years, public broadcasting stations have facilitated discussions among people who understand climate change and sometimes with those who are skeptic of or deny the scientific evidence. These discussions, which have taken the form of radio and television call-in shows and news debates document public understanding, or the lack thereof, of the severity of climate change impacts and the urgency that is necessary to act on them.
 
+Next: [Proposed Solutions to Climate Change](solutions)
+
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>

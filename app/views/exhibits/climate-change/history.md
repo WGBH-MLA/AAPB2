@@ -12,6 +12,8 @@ Environmental problems in the 1970s, including air and water pollution, were loc
 
 But perceptions are changing, and people are becoming more aware of the problem. In North America, Europe and Japan, more than 90% of the public are aware of climate change; however, this sharply contrasts with the global percentage, where as much as 40% of adults worldwide have never heard of climate change. 
 
+Next: [Communicating Climate Change through Art](communicating-art)
+
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>

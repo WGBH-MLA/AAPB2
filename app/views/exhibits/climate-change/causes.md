@@ -12,6 +12,8 @@ Throughout this exhibit, you may notice that scientists and activists, each of w
 
 The two items in this section of the exhibit are unique in their focus on causes. One, an edited documentary titled "After the Warming" which originally broadcast in 1990 by Maryland Public Television, looks at the causes of climate change from the year 2050. The second, a public lecture by Anna Lappe, focuses on an often-overlooked cause of climate change -- our food, livestock and agricultural industries.
 
+Next: [Debates about Climate Change](debates)
+
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>

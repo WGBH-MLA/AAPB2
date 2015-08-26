@@ -12,6 +12,8 @@ Policy makers have historically put off and delayed any global binding agreement
 
 Decades ago, climate change could have been prevented. By now, it is inevitable and has already begun to take its toll on countries around the world. The impacts of sea-level rise, more frequent and severe weather and heat waves, and longer wildfire seasons now need to be confronted, countries and local communities will need to adapt to the new normal of our changed planet. 
 
+Next: [History of the Environmental Movement](history)
+
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>

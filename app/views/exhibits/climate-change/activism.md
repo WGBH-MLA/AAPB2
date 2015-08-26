@@ -12,6 +12,8 @@ A study published by Yale University and George Mason University in 2014 reports
 
 In 2008, McKibben and a group of college students founded 350.org, a grassroots effort to mobilize citizens across the world to take action on climate change. Because more than 4,000 languages are spoken across the globe, the universally understood number "350," which, according to Dr. James Hansen, is the safe upper limit of carbon dioxide parts per million in the atmosphere, became the name of the organization. Today, 350 works in every country to effect change on both the local and global scale, and activists around the world have dedicated themselves to the effort. 
 
+Next: [Causes of Climate Change](causes)
+
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>

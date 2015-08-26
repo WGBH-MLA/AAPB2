@@ -8,6 +8,8 @@
 
 Public broadcasting stations have recorded public lectures, interviews and call-in shows with scientists, historians and policy makers focusing on the impacts and consequences of climate change. According to many of these guests, climate change is not just an environmental issue. The United States Environmental Protection Agency has identified several impacts of climate change on regions across the world and on society. Climate change impacts human health, such as increased allergies and negative impacts on respiratory health, heat stroke, mental health, and the enhanced spread of disease-causing pathogens. Some areas of the world will become inhabitable, including low-lying coastal and hotter regions, which will have an impact on national security. Changes in precipitation and heat waves will have negative impacts on crop yields. Melting glaciers will affect runoff and water resources. Animal and fish species have begun to shift their migration patterns, altering ecosystems and leading to species extinction. The Intergovernmental Panel on Climate Change (IPCC), which includes more than 1,300 scientists from countries around the world, reported that the "net costs of climate change are likely to be significant and to increase over time." 
 
+Next: [Climate Change Activism](activism)
+
 ## Author
 
 <img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
