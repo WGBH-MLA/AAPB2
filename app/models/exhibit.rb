@@ -54,8 +54,8 @@ class Exhibit < Cmless
   def items
     # TODO: Add the items of the children.
     @items ||= begin
-      doc = Nokogiri::HTML(main_html)
-      Hash[
+      doc = Nokogiri::HTML(summary_html + main_html)
+      hash = Hash[
         doc.xpath('//a').select do |el|
           el.attribute('href').to_s.match('^/catalog/.+')
         end.map do |el|
@@ -65,6 +65,10 @@ class Exhibit < Cmless
           ]
         end
       ]
+      children.each do |child|
+        hash.merge!(child.items)
+      end
+      hash
     end
   end
 
