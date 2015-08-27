@@ -1,7 +1,9 @@
 <ul class="facet-values list-unstyled">
   <%
     display_facet.items.group_by do |option|
-      AAPB::STATES[option.value.match(/\((..)\)/)[1]]
+      State.find_by_abbreviation(
+        option.value.match(/\((..)\)/)[1]
+      ).name
     end.sort.each do |state, options|
   %>
     <li>

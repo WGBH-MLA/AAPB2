@@ -1,0 +1,182 @@
+---
+- state: Kansas
+  abbreviation: KS 
+  blurb_fill:
+    naeb_station: U. of Kansas
+  blurb_md: &naeb_blurb >
+    [Additional audio content from %{naeb_station} in %{state}]
+    (/catalog?&f[access_types][]=all&q="%{naeb_station}")
+    is part of the National Association of Educational Broadcasters (NAEB) collection, 
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925. 
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where 
+    programs produced by university radio stations across the country were copied and 
+    distributed to member stations, an early networking scheme that influenced the 
+    history of later public radio and television systems. The more than 5,500 NAEB 
+    programs available in the AAPB come from the 1950s and 1960s, and include radio 
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars), 
+    interviews, debates, and lectures on public affairs topics such as civil rights, 
+    foreign affairs, health, politics, education, and broadcasting.
+    
+- state: South Dakota
+  blurb_fill:
+    naeb_station: KFJM
+  blurb_md: *naeb_blurb
+  abbreviation: SD
+
+- state: North Dakota
+  blurb_fill:
+    naeb_station: KUSD
+  blurb_md: *naeb_blurb
+  abbreviation: ND
+
+- state: Alabama
+  blurb_fill:
+    naeb_station: WUOA
+  blurb_md: *naeb_blurb
+  abbreviation: AL
+
+- state: Alaska
+  abbreviation: AK
+
+- state: Arizona
+  abbreviation: AZ
+
+- state: Arkansas
+  abbreviation: AR
+
+- state: California
+  abbreviation: CA
+
+- state: Colorado
+  abbreviation: CO
+
+- state: Connecticut
+  abbreviation: CT
+
+- state: Delaware
+  abbreviation: DE
+
+- state: Florida
+  abbreviation: FL
+
+- state: Georgia
+  abbreviation: GA
+
+- state: Hawaii
+  abbreviation: HI
+
+- state: Idaho
+  abbreviation: ID
+
+- state: Illinois
+  abbreviation: IL
+
+- state: Indiana
+  abbreviation: IN
+
+- state: Iowa
+  abbreviation: IA
+
+- state: Kentucky
+  abbreviation: KY
+
+- state: Louisiana
+  abbreviation: LA
+
+- state: Maine
+  abbreviation: ME
+
+- state: Maryland
+  abbreviation: MD
+
+- state: Massachusetts
+  abbreviation: MA
+
+- state: Michigan
+  abbreviation: MI
+
+- state: Minnesota
+  abbreviation: MN
+
+- state: Mississippi
+  abbreviation: MS
+
+- state: Missouri
+  abbreviation: MO
+
+- state: Montana
+  abbreviation: MT
+
+- state: Nebraska
+  abbreviation: NE
+
+- state: Nevada
+  abbreviation: NV
+
+- state: New Hampshire
+  abbreviation: NH
+
+- state: New Jersey
+  abbreviation: NJ
+
+- state: New Mexico
+  abbreviation: NM
+
+- state: New York
+  abbreviation: NY
+
+- state: North Carolina
+  abbreviation: NC
+
+- state: Ohio
+  abbreviation: OH
+
+- state: Oklahoma
+  abbreviation: OK
+
+- state: Oregon
+  abbreviation: OR
+
+- state: Pennsylvania
+  abbreviation: PA
+
+- state: Rhode Island
+  abbreviation: RI
+
+- state: South Carolina
+  abbreviation: SC
+
+- state: Tennessee
+  abbreviation: TN
+
+- state: Texas
+  abbreviation: TX
+
+- state: Utah
+  abbreviation: UT
+
+- state: Vermont
+  abbreviation: VT
+
+- state: Virginia
+  abbreviation: VA
+
+- state: Washington
+  abbreviation: WA
+
+- state: West Virginia
+  abbreviation: WV
+
+- state: Wisconsin
+  abbreviation: WI
+
+- state: Wyoming
+  abbreviation: WY
+
+- state: DC
+  abbreviation: DC
+
+- state: Guam
+  abbreviation: GU

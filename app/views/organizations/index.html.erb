@@ -1,10 +1,8 @@
-<% state_list = @orgs.group_by{|org| org.state} %>
-
 <% content_for :sidebar do %>
   <%= render partial: 'shared/sidebar_nav', 
              locals: { 
                 title: 'States',
-                links: state_list.keys.map{ |state| [state, "\##{state}"] }
+                links: @states.map{ |state| [state.name, "\##{state.name}"] }
               } %>
 <% end %>
 
@@ -15,25 +13,33 @@
   <br/>
   <br/>
 
-  <% state_list.each do |state,orgs| %>
-    <a name="<%= state %>"></a>
+  <% @states.each do |state| %>
+    <a name="<%= state.name %>"></a>
     <div class="panel panel-default org-state">
       <div class="panel-heading">
         <h2 class="panel-title">
-          <%= state %>
-          <a href="catalog?f[state][]=<%= URI.encode(state) %>" class="btn btn-sm btn-link pull-right">
-            All records from <%= state %>
-          </a>
+          <%= state.name %>
+          <% if state.organizations %>
+            <a href="catalog?f[organization][]=<%= state.organizations.map { |org| org.facet}.join(AAPB::QUERY_OR) %>" class="btn btn-sm btn-link pull-right">
+              All records from <%= state.name %>
+            </a>
+          <% end %>
         </h2>
       </div>
       <div class="panel-body">
+        
+        <% if state.blurb_html %>
+          <p>
+            <%= state.blurb_html.html_safe %>
+          </p>
+        <% end %>
 
-        <% orgs.sort_by{|org| org.short_name}.each do |org| %>
+        <% state.organizations.sort_by{ |org| org.short_name }.each do |org| %>
           <p>
             <a href="/participating-orgs/<%= org.id %>"><%= org.short_name %></a><br/>
             <%= "#{org.city}, #{org.state}" %>
           </p>
-        <% end %>
+        <% end if state.organizations %>
 
       </div>
       <div class="panel-footer"><a href="#" class="btn btn-sm btn-link"><span class="glyphicon glyphicon-circle-arrow-up" aria-hidden="true"></span> Return to top</a></div>
