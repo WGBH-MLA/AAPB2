@@ -15,11 +15,9 @@ class State
   def initialize(hash)
     @name = pop(hash, 'state')
     @abbreviation = pop(hash, 'abbreviation')
-    naeb_search = hash.delete('naeb_search')
-    @blurb_html = Markdowner.render(hash.delete('blurb_md') % {
-        state: @name, 
-        naeb_search: CGI::escape(naeb_search)
-      }) if naeb_search
+    @blurb_html = Markdowner.render(
+      hash.delete('blurb_md') % hash.delete('blurb_fill').symbolize_keys.merge({state: @name})
+    ) if hash['blurb_md']
     fail "Unexpected #{hash}" unless hash.empty?
   end
   

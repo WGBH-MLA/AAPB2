@@ -1,11 +1,13 @@
 ---
 - state: Kansas
   abbreviation: KS 
-  naeb_search: '"U. of Kansas"'
-  blurb_md: &blurb |
-    [Additional audio content from %{state}](/catalog?q=%{naeb_search}) is part of the National 
-    Association of Educational Broadcasters (NAEB) collection, contributed by the 
-    University of Maryland to the AAPB.
+  blurb_fill:
+    naeb_station: U. of Kansas
+  blurb_md: &naeb_blurb >
+    [Additional audio content from %{naeb_station} in %{state}]
+    (/catalog?&f[access_types][]=all&q="%{naeb_station}")
+    is part of the National Association of Educational Broadcasters (NAEB) collection, 
+    contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925. 
     In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where 
@@ -18,18 +20,21 @@
     foreign affairs, health, politics, education, and broadcasting.
     
 - state: South Dakota
-  naeb_search: 'KFJM'
-  blurb_md: *blurb
+  blurb_fill:
+    naeb_station: KFJM
+  blurb_md: *naeb_blurb
   abbreviation: SD
 
 - state: North Dakota
-  naeb_search: 'KUSD'
-  blurb_md: *blurb
+  blurb_fill:
+    naeb_station: KUSD
+  blurb_md: *naeb_blurb
   abbreviation: ND
 
 - state: Alabama
-  naeb_search: 'WUOA'
-  blurb_md: *blurb
+  blurb_fill:
+    naeb_station: WUOA
+  blurb_md: *naeb_blurb
   abbreviation: AL
 
 - state: Alaska
