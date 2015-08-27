@@ -10,7 +10,9 @@ Summary goes here.
 
 Author goes here.
 
-## Links
+## Records
+
+## Resources
 
 - [LoC](http://loc.gov)
 - [WGBH](http://wgbh.org)

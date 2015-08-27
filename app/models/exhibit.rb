@@ -8,7 +8,8 @@ class Exhibit < Cmless
   attr_reader :summary_html
   attr_reader :author_html
   attr_reader :main_html
-  attr_reader :links_html
+  attr_reader :resources_html
+  attr_reader :records_html
 
   attr_reader :head_html
 
@@ -33,15 +34,6 @@ class Exhibit < Cmless
     exhibits_by_item_id[id] || []
   end
 
-  def facets
-    @facets ||= Solr.instance.connect.select(params: {
-                                               q: "exhibits:#{path}",
-                                               rows: 0,
-                                               facet: true,
-                                               'facet.field' => ['genres', 'topics']
-                                             })['facet_counts']['facet_fields']
-  end
-
   def thumbnail_url
     @thumbnail_url ||=
       Nokogiri::HTML(head_html).xpath('//img[1]/@src').first.text
@@ -54,8 +46,8 @@ class Exhibit < Cmless
   def items
     # TODO: Add the items of the children.
     @items ||= begin
-      doc = Nokogiri::HTML(main_html)
-      Hash[
+      doc = Nokogiri::HTML(summary_html + main_html + records_html)
+      hash = Hash[
         doc.xpath('//a').select do |el|
           el.attribute('href').to_s.match('^/catalog/.+')
         end.map do |el|
@@ -65,6 +57,10 @@ class Exhibit < Cmless
           ]
         end
       ]
+      children.each do |child|
+        hash.merge!(child.items)
+      end
+      hash
     end
   end
 
@@ -78,9 +74,9 @@ class Exhibit < Cmless
     end
   end
 
-  def links
-    @links ||=
-      Nokogiri::HTML(links_html).xpath('//a').map do |el|
+  def resources
+    @resources ||=
+      Nokogiri::HTML(resources_html).xpath('//a').map do |el|
         [
           el.text,
           el.attribute('href').to_s
