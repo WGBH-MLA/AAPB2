@@ -13,7 +13,8 @@
   <br/>
   <br/>
 
-  <% @states.each do |state| %>
+  <%# West Virginia and Delaware have no contributions right now, and should be skipped. %>
+  <% @states.select{ |o| o.organizations || o.blurb_html }.each do |state| %>
     <a name="<%= state.name %>"></a>
     <div class="panel panel-default org-state">
       <div class="panel-heading">
