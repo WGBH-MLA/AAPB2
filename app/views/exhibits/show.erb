@@ -1,5 +1,11 @@
 <% content_for :sidebar do %>
   
+  <%= render partial: 'shared/sidebar_nav', 
+             locals: { 
+                title: 'Sections',
+                links: @exhibit.children.sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
+              } %>
+  
   <div class="panel panel-primary">
     <div class="panel-heading">
       <h3 class="panel-title">Curator</h3>
@@ -8,14 +14,6 @@
       <%= @exhibit.author_html.html_safe %>
     </div>
   </div>
-  
-  <%= render partial: 'shared/sidebar_nav', 
-             locals: { 
-                title: 'Sections',
-                links: @exhibit.children.sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
-              } %>
-  
-  <br/>
 
   <%= render partial: 'shared/sidebar_nav', 
              locals: { 
@@ -39,8 +37,10 @@
   
   <%= @exhibit.summary_html.html_safe %>
   
+  <% gallery_size = 9 %>
+  
   <% if @exhibit.children.empty? %>
-    <% @exhibit.items.to_a.slice(0,6).in_groups_of(3,false).each do |group| %>
+    <% @exhibit.items.to_a.slice(0, gallery_size).in_groups_of(3,false).each do |group| %>
       <div class="row">
       <% group.each do |id, title| %>
         <div class="document col-md-4">
@@ -60,11 +60,13 @@
     <% end %>
   <% end %>
     
-  <p style="text-align: center;">
-    <a href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>" class="btn btn-primary">
-      Show All <%= @exhibit.items.count %>
-    </a>
-  </p>
+  <% if @exhibit.items.count > gallery_size %>
+    <p style="text-align: center;">
+      <a href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>" class="btn btn-primary">
+        Show All <%= @exhibit.items.count %>
+      </a>
+    </p>
+  <% end %>
   
   <hr/>
   
