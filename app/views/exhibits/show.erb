@@ -3,7 +3,7 @@
   <%= render partial: 'shared/sidebar_nav', 
              locals: { 
                 title: 'Sections',
-                links: @exhibit.children.sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
+                links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
               } %>
   
   <div class="panel panel-primary">
