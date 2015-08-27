@@ -13,7 +13,7 @@
   <br/>
   <br/>
 
-  <% @states.select { |state| state.organizations || state.blurb_html }.each do |state| %>
+  <% @states.each do |state| %>
     <a name="<%= state.name %>"></a>
     <div class="panel panel-default org-state">
       <div class="panel-heading">
