@@ -39,26 +39,26 @@ class Organization
   end
 
   orgs = YAML.load_file(Rails.root + 'config/organizations.yml').map { |hash| Organization.new(hash) }
-  @@orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
-  @@orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
-  @@orgs_by_state       = Hash[orgs.group_by { |org| org.state }]
+  @orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
+  @orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
+  @orgs_by_state       = Hash[orgs.group_by { |org| org.state }]
 
   public
 
   def self.find_by_pbcore_name(pbcore_name)
-    @@orgs_by_pbcore_name[pbcore_name]
+    @orgs_by_pbcore_name[pbcore_name]
   end
 
   def self.find_by_id(id)
-    @@orgs_by_id[id]
+    @orgs_by_id[id]
   end
   
   def self.find_by_state(state)
-    @@orgs_by_state[state]
+    @orgs_by_state[state]
   end
 
   def self.all
-    @@orgs_by_id.values.sort_by { |org| org.state }
+    @orgs_by_id.values.sort_by { |org| org.state }
   end
 
   def to_a

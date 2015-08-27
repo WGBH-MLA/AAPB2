@@ -2,7 +2,7 @@ require 'nokogiri'
 require_relative 'pb_core'
 
 class ValidatedPBCore < PBCore
-  @@schema = Nokogiri::XML::Schema(File.read('lib/pbcore-2.0.xsd'))
+  SCHEMA = Nokogiri::XML::Schema(File.read('lib/pbcore-2.0.xsd'))
 
   def initialize(xml)
     super(xml)
@@ -14,7 +14,7 @@ class ValidatedPBCore < PBCore
 
   def schema_validate(xml)
     document = Nokogiri::XML(xml)
-    errors = @@schema.validate(document)
+    errors = SCHEMA.validate(document)
     return if errors.empty?
     fail 'Schema validation errors: ' + errors.join("\n")
   end

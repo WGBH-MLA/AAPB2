@@ -17,7 +17,7 @@ class Featured
     fail("unexpected #{hash}") unless hash == {}
   end
 
-  @@galleries = Hash[
+  @galleries = Hash[
     Dir[Rails.root + 'config/featured/*-featured.yml'].map do |gallery_path|
       [
         gallery_path.sub(/.*\//, '').sub('-featured.yml', ''),
@@ -27,6 +27,6 @@ class Featured
   ]
 
   def self.from_gallery(gallery_name)
-    @@galleries[gallery_name]
+    @galleries[gallery_name]
   end
 end
