@@ -15,10 +15,10 @@ Birthdays and anniversaries are natural occasions on which to look back at how y
 ## Resources
 
 ## Records
-[WILL history of radio, early broadcasting, and the establishment of University of Illinois educational radio](/catalog/cpb-aacip_16-79v15q57)
-[Maine Public Broadcasting Network’s “20th Anniversary Scrapbook”](/catalog/cpb-aacip_245-214mwb7d)
-[WBRA’s “Across the Blue Ridge: 20 Years of Public Television”](/catalog/cpb-aacip_85-85n8ptc3)
-[KUT’s “30th Anniversary Dinner”](/catalog/cpb-aacip_402-70zpch1s)
+- [WILL history of radio, early broadcasting, and the establishment of University of Illinois educational radio](/catalog/cpb-aacip_16-79v15q57)
+- [Maine Public Broadcasting Network’s “20th Anniversary Scrapbook”](/catalog/cpb-aacip_245-214mwb7d)
+- [WBRA’s “Across the Blue Ridge: 20 Years of Public Television”](/catalog/cpb-aacip_85-85n8ptc3)
+- [KUT’s “30th Anniversary Dinner”](/catalog/cpb-aacip_402-70zpch1s)
 
 ## Main
 
