@@ -201,25 +201,28 @@ class DownloadCleanIngest
       $LOG.info('Finished sitemap generation.')
     end
 
-    error_count = ingester.errors.values.flatten.count
+    errors = ingester.errors.sort # So related errors are together
+    error_count = errors.map{|pair| pair[1]}.flatten.count
     success_count = ingester.success_count
     total_count = error_count + success_count
 
-    $LOG.info('SUMMARY: ERRORS')
-
-    ingester.errors.each {|type, list|
+    $LOG.info('SUMMARY: DETAIL')
+    errors.each {|type, list|
       $LOG.warn("#{list.count} #{type} errors:\n#{list.join("\n")}")
     }
 
     $LOG.info('SUMMARY: STATS')
-
-    ingester.errors.each {|type, list|
-      $LOG.warn("#{list.count} #{type} errors (#{100 * list.count / total_count}%)")
+    $LOG.info('(Look just above for details on each error.)')
+    errors.each {|type, list|
+      $LOG.warn("#{list.count} (#{percent(list.count, total_count)}%) #{type}")
     }
-
-    $LOG.info("#{ingester.success_count} (#{100 * success_count / total_count}%) succeeded")
+    $LOG.info("#{success_count} (#{percent(success_count, total_count)}%) succeeded")
 
     $LOG.info('DONE')
+  end
+  
+  def percent(part, whole)
+    (100.0 * part / whole).round(1)
   end
 end
 

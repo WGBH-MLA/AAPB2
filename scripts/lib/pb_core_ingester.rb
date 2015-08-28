@@ -88,7 +88,7 @@ class PBCoreIngester
   def record_error(e, path, id_extracts='')
     message = "#{path} #{id_extracts}: #{e.message}"
     $LOG.warn(message)
-    @errors[e.class.to_s] += [message]
+    @errors["#{e.class}: #{e.message.split(/\n/).first}"] += [message]
   end
 
   def commit
