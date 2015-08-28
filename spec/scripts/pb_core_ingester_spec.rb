@@ -15,12 +15,12 @@ describe PBCoreIngester do
 
   it 'whines about non-existent file' do
     @ingester.ingest(path: '/non-existent.xml')
-    expect(@ingester.errors.keys).to eq ['Errno::ENOENT']
+    expect(@ingester.errors.keys).to eq ['Errno::ENOENT: No such file or directory - /non-existent.xml']
   end
 
   it 'whines about invalid file' do
     @ingester.ingest(path: __FILE__)
-    expect(@ingester.errors.keys).to eq ['PBCoreIngester::ValidationError']
+    expect(@ingester.errors.keys).to eq ['PBCoreIngester::ValidationError: Neither pbcoreCollection nor pbcoreDocument. require_relative \'../../scripts/lib/pb_core_ingester\'']
   end
 
   it 'works for single ingest' do

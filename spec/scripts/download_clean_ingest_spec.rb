@@ -37,11 +37,11 @@ describe DownloadCleanIngest do
       /add --same-mount to ignore/
     ],
     "#{default_flags} --files /this/path/is/no/good" => [
-      /1 Errno::ENOENT errors \(100%\)/
+      /1 \(100.0%\) Errno::ENOENT/
     ],
     "#{default_flags} --ids fake-id" => [
       /fake-id.pbcore : Neither pbcoreCollection nor pbcoreDocument/,
-      /1 PBCoreIngester::ValidationError errors \(100%\)/
+      /1 \(100.0%\) PBCoreIngester::ValidationError/
     ],
     "--just-reindex #{default_flags} #{default_mode}" => [
       /should only be used with/
@@ -57,46 +57,46 @@ describe DownloadCleanIngest do
       /Downloading .*guid\/37-010p2nvv/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
-      /1 \(100%\) succeeded/
+      /1 \(100.0%\) succeeded/
     ],
     "#{default_flags} --id-files #{Rails.root + 'spec/fixtures/dci/id-file.txt'}" => [
       /Downloading .*guid\/37-010p2nvv/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
-      /1 \(100%\) succeeded/
+      /1 \(100.0%\) succeeded/
     ],
     "#{default_flags} --dirs #{Rails.root + 'spec/fixtures/dci/pbcore-dir'}" => [
       /Updated solr record 1234/,
-      /1 \(100%\) succeeded/
+      /1 \(100.0%\) succeeded/
     ],
     "#{default_flags} --files #{Rails.root + 'spec/fixtures/dci/pbcore-dir/pbcore.xml'}" => [
       /Updated solr record 1234/,
-      /1 \(100%\) succeeded/
+      /1 \(100.0%\) succeeded/
     ],
     "#{default_flags} --exhibits station-histories/dedication-ceremonies" => [
       # Choose the smallest exhibit we have, since the test will be hitting the AMS.
       # Perhaps it should be skipped?
       /Updated solr record cpb-aacip_111-21ghx7d6/,
-      /\d+ \(100%\) succeeded/
+      /\d+ \(100.0%\) succeeded/
     ],
     "#{default_flags} --just-reindex --query 'f[asset_type][]=Episode&q=promise'" => [
       /Query solr for/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
-      /1 \(100%\) succeeded/
+      /1 \(100.0%\) succeeded/
     ],
 
     # Flags expected to succeed:
     "--batch-commit #{default_flags} #{default_mode}" => [
       /Updated solr record 1234/,
       /Starting one big commit/,
-      /1 \(100%\) succeeded/
+      /1 \(100.0%\) succeeded/
     ],
     "--just-reindex #{default_flags} --ids 1234" => [
       # XXX: order dependent! Depends on an earlier test to have loaded the data.
       /Query solr for 1234/,
       /Updated solr record 1234/,
-      /1 \(100%\) succeeded/
+      /1 \(100.0%\) succeeded/
     ]
   }.each do |args, patterns|
     describe "download_clean_ingest.rb #{args}" do
