@@ -4,10 +4,6 @@ require File.expand_path('../application', __FILE__)
 # Initialize the Rails application.
 Rails.application.initialize!
 
-module AAPB
-  QUERY_OR = ' OR '
-end
-
 # Monkey-patches which might be made into PRs?
 
 module Blacklight::Solr
