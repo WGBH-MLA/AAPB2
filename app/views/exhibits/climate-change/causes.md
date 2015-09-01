@@ -1,6 +1,6 @@
 # Causes of Climate Change
 
-3
+2
 
 ![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section3_Causes.jpg "Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)")
 
