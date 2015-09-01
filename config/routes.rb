@@ -22,6 +22,9 @@ Rails.application.routes.draw do
 
   resources 'captions',
             only: [:show]
+          
+  resources 'api',
+            only: [:index]
 
   ['404', '500'].each do |status_code|
     get status_code, to: 'errors#show', status_code: status_code
