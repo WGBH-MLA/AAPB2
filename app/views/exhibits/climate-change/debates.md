@@ -1,6 +1,6 @@
 # Debates about Climate Change
 
-4
+6
 
 ![Maryland Public Television Panel Discussion on Global Warming](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section4_Debates.jpg "Maryland Public Television Panel Discussion on Global Warming")
 
