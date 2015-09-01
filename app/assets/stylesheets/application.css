@@ -179,6 +179,47 @@
 				.row.two .list-group-item a:hover {
 					color:#9f2064;
 				}
+                                
+                /*Social Links in the Footer */
+                
+                ul.social {
+                        display:inline-block;
+                        margin:0 auto;
+                        width:auto;
+                }
+
+                ul.social li {
+                        float:left;
+                        height:32px;
+                        width:32px;
+                        margin-right:1em;
+                }
+
+                ul.social a {
+                        background-image:url(/site-ui/aapb-site-sprite.png);
+                        background-repeat:no-repeat;
+                        background-position:0 -350px;
+                        background-size: 512px auto;
+                        display:block;
+                        height:32px;
+                        opacity:.8;
+                        text-indent:-9999em;
+                        width:32px;
+                }
+
+                ul.social .twitter a {
+                        background-position:-80px -350px;
+
+                }
+
+                ul.social .facebook a {
+                        background-position:-40px -350px;
+                }
+
+                ul.social a:hover {
+                        opacity:1;
+                }
+
 
 
 /* Row THree --------- */
