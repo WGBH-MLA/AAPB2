@@ -2,7 +2,7 @@
 
 ![banner](/page-banners/banner5.jpg)
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Cariani.jpg"/><br/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Cariani.jpg"/>
 **Karen Cariani, Project Director**<br/>
 **WGBH**<br/>
 Karen has been director of the WGBH Media Library since its inception in 1990. 
@@ -36,7 +36,7 @@ Sound: An Illustrated Guide (2002).
 Alan's current favorite AAPB collection item is ["Promise City" from Iowa 
 Public Television](/catalog/cpb-aacip_37-010p2nvv).
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/><br/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 **Casey E. Davis, Project Manager**<br/>
 **WGBH**<br/>
 Casey manages the day-to-day activities of the AAPB, including outreach, 
@@ -78,7 +78,7 @@ the outdoors.
 Lauren's current favorite AAPB collection item is [“Writers Speak: James 
 Baldwin” from New England Public Radio](/catalog/cpb-aacip_305-86nzshkq).
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/><br/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
 **Sadie Roosa, Metadata Specialist**<br/>
 **WGBH**<br/>
 Sadie focuses her attention on metadata management and cataloging for the AAPB. 
@@ -93,7 +93,7 @@ fits. Sadie earned her MLIS from the University of Pittsburgh.
 Sadie's current favorite AAPB collection item is an ["Interview with Jonathan 
 Richmond" from WERU](/catalog/cpb-aacip_301-956djt0n ).
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Fraimow.png"/><br/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Fraimow.png"/>
 **Rebecca Fraimow, Archivist**<br/>
 **WGBH**<br/>
 After first coming to WGBH as a National Digital Stewardship (NDSR) Resident in 
@@ -113,7 +113,7 @@ fiction.
 
 Rebecca's's current favorite AAPB collection item is ["Role of Fantasy in Children's Lives" from WGBH](/catalog/cpb-aacip_15-5717m0428t).
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Myers.jpg"/><br/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Myers.jpg"/>
 **Andrew Myers, Supervising Developer**<br/>
 **WGBH**<br/>
 Andrew Myers is a web developer who has worked for many different kinds of 
@@ -126,13 +126,7 @@ Andrew's current favorite AAPB collection item is ["Midday: Wes Jackson,
 President of the Land Institute in Salina, KS," from Minnesota Public 
 Radio](/catalog/cpb-aacip_43-752fr84r).
 
-**Chuck McCallum, Developer**<br/>
-**WGBH**<br/>
-Chuck is curious<br/>
-about the edge cases here.<br/>
-Will a haiku do?<br/>
-
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Carter.jpg"/><br/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Carter.jpg"/>
 **Kevin Carter, Programmer Analyst**<br/>
 **WGBH**<br/>
 Kevin Carter began work in 1997 on the nascent Digital Library Initiative at 
@@ -146,4 +140,10 @@ and digital materials on The Web and beyond.
 
 Kevin's current favorite AAPB collection item is ["Chrysti the Wordsmith: 
 Dachshund" from KGLT](/catalog/cpb-aacip_309-375tb64n).
+
+**Chuck McCallum, Developer**<br/>
+**WGBH**<br/>
+Chuck is curious<br/>
+about the edge cases here.<br/>
+Will a haiku do?<br/>
 
