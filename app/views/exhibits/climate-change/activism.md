@@ -4,6 +4,11 @@
 
 ![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg "Bill McKibben, Founder of 350.org")
 
+8.	[The End of Nature, 1989 (WILL)](/catalog/cpb-aacip_16-p843r0qc0z)
+9.	[Interview with Bill McKibben, Vermont Public Television (2001)](/catalog/cpb-aacip_46-65h9w6z2)
+10.	[Role of Citizen Action in Solving Global Warming, 2010 (WGBH)](/catalog/cpb-aacip_15-7940r9m78p)
+11.	[Bill McKibben: Eaarth, 2010 (WGBH)](/catalog/cpb-aacip_15-8s4jm23h6q)
+
 ## Summary
 
 Since the late 1980s, writer and climate change activist Bill McKibben has been the leading voice on global warming. Over the course of his career, he has discussed on multiple occasions the issue of climate change over the airwaves of public radio and television. His first book published in 1989 titled "The End of Nature" argued for a transformational shift in how society perceives our relationship of domination with the Earth. By the time he published his latest book "Eaarth," people across the world had already begun to feel the impacts of climate change. McKibben writes that we no longer live on the same planet. The unprecedented amount of carbon and fossil fuel emissions in our atmosphere have fundamentally altered the planet; now, he argues, we must learn to adapt and live on this new planet. 
@@ -16,18 +21,12 @@ Next: [Causes of Climate Change](causes)
 
 ## Author
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
-### Casey E. Davis, AAPB Project Manager
+### Casey E. Davis
+AAPB Project Manager
 
 ## Main
-
-## Records
-
-8.	[The End of Nature, 1989 (WILL)](/catalog/cpb-aacip_16-p843r0qc0z)
-9.	[Interview with Bill McKibben, Vermont Public Television (2001)](/catalog/cpb-aacip_46-65h9w6z2)
-10.	[Role of Citizen Action in Solving Global Warming, 2010 (WGBH)](/catalog/cpb-aacip_15-7940r9m78p)
-11.	[Bill McKibben: Eaarth, 2010 (WGBH)](/catalog/cpb-aacip_15-8s4jm23h6q)
 
 ## Resources
 

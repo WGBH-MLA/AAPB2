@@ -13,8 +13,6 @@ This exhibit focuses on content that documents and celebrates stations' historie
 ### Sadie Roosa
 AAPB Metadata Specialist
 
-## Records
-
 ## Resources
 
 - [Rocky Mountain PBS Station's Archived Memories](http://www.rmpbs.org/volunteer/sam/about-stations-archived-memories-sam/)

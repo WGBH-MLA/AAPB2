@@ -4,6 +4,9 @@
 
 ![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section3_Causes.jpg "Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)")
 
+12.	 [After the Warming, 1990 (MPT)](/catalog/cpb-aacip_394-65h9wd4r)
+13.	[Anne Lappe and Frances Moore Lappe: Diet for a Hot Planet, 2010 (WGBH)](/catalog/cpb-aacip_15-930ns0m03c)
+
 ## Summary
 
 Greenhouse gases, such as carbon and methane, are gases that trap heat in the Earth's atmosphere, adding additional energy and making the planet warmer. Since the beginning of the Industrial Revolution, human activities have been the source of almost all greenhouse gas emissions, which has taken place primarily through the burning of fossil fuels. Statistics show that the United States is responsible for ??% of fossil fuel production, while China is responsible for ??%; however, much of the emissions in China are traced to out-sourced United States manufacturing and industry corporations. Greenhouse gases are emitted through electricity production, transportation, industry and manufacturing, heating our homes and business, waste management, agriculture, and forestry. In addition, once the climate begins to change, it sets into effect positive feedback loops, that is, initial warming accelerates the warming trend in a vicious cycle. One example of a positive feedback loop is the melting of ice. Ice helps reflect heat from being absorbed into the atmosphere. Once it begins to melt, it turns dark, and the energy is absorbed, which leads to more warming. 
@@ -16,16 +19,12 @@ Next: [Debates about Climate Change](debates)
 
 ## Author
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
-### Casey E. Davis, AAPB Project Manager
+### Casey E. Davis
+AAPB Project Manager
 
 ## Main
-
-## Records
-
-12.	 [After the Warming, 1990 (MPT)](/catalog/cpb-aacip_394-65h9wd4r)
-13.	[Anne Lappe and Frances Moore Lappe: Diet for a Hot Planet, 2010 (WGBH)](/catalog/cpb-aacip_15-930ns0m03c)
 
 ## Resources
 
