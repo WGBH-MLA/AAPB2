@@ -902,6 +902,8 @@ hr {
   -webkit-border-radius:50%!important; 
   -moz-border-radius:50%!important; 
   border-radius:50%!important;
+  width: 10em;
+  padding-right: 1em;
 }
 
 /*Browse THe Collection*/

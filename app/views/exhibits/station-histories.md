@@ -8,9 +8,10 @@ This exhibit focuses on content that documents and celebrates stations' historie
 
 ## Author
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
 
 ### Sadie Roosa
+AAPB Metadata Specialist
 
 ## Records
 

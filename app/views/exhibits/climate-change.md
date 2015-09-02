@@ -10,9 +10,10 @@ In the 1980s, the conversation around climate change focused primarily on the fu
 
 ## Author
 
-<img class="img-circle" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
-### Casey E. Davis, AAPB Project Manager
+### Casey E. Davis
+AAPB Project Manager
 
 ## Records
 
