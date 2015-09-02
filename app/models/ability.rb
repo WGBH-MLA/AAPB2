@@ -20,7 +20,7 @@ class Ability
 #    end
 
     cannot :skip_tos, PBCore do |pbcore|
-      user.usa? && !user.bot? && !user.affirmed_tos? && pbcore.public?
+      !user.onsite? && !user.affirmed_tos? && user.usa? && !user.bot? && pbcore.public?
     end
 
   end
