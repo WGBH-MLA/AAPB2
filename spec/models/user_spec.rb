@@ -58,7 +58,7 @@ describe User do
     end
   end
 
-  describe 'ablities' do
+  describe 'abilities' do
     
     examples = {
       public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),

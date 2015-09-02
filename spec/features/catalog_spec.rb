@@ -340,14 +340,12 @@ describe 'Catalog' do
     
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
-      click_button(AGREE)
       expect_all_the_text('clean-MOCK.xml')
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
     end
 
     it 'has poster otherwise if media' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
-      click_button(AGREE)
       expect_all_the_text('clean-every-title-is-episode-number.xml')
       expect_poster('cpb-aacip_37-16c2fsnr')
     end
@@ -369,7 +367,6 @@ describe 'Catalog' do
         details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
         it "details: #{details_url}" do
           visit details_url
-          click_button(AGREE) if pbcore.digitized?
           expect_fuzzy_xml
         end
         search_url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
