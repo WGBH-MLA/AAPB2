@@ -15,8 +15,6 @@ In the 1980s, the conversation around climate change focused primarily on the fu
 ### Casey E. Davis
 AAPB Project Manager
 
-## Records
-
 ## Resources
 
 - [Intergovernmental Panel on Climate Change. (2014). Fifth assessment report.](http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml)

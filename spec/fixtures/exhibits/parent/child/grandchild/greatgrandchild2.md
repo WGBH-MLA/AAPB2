@@ -10,8 +10,6 @@ Summary goes here.
 
 Author goes here.
 
-## Records
-
 ## Resources
 
 - [LoC](http://loc.gov)
