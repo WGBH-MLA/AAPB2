@@ -1,9 +1,12 @@
 require_relative '../../lib/solr'
 
 class ApiController < ApplicationController
+  skip_before_action :verify_authenticity_token
+  # TODO: There is nothing we have that is worth a CSRF, but CORS is a better way to do this.
+  
   def index
     @solr = Solr.instance.connect
-    callback = params.delete('callback')
+    callback = params.delete('callback') || 'callback'
     rows = [params.delete('rows').to_i, 100].min
     data = begin
       @solr.get('select', params: params.except(:action, :format, :controller).merge({rows: rows}))
@@ -12,10 +15,14 @@ class ApiController < ApplicationController
       # but the eval still scares me.
       eval(e.response[:body])
     end
+    json = JSON.pretty_generate(data)
     respond_to do |format|
+      format.js do
+        render text: "#{callback}(#{json});", 
+               status: data['error'] ? 500 : 200
+      end
       format.json do
-        pretty = JSON.pretty_generate(data)
-        render text: (callback ? "#{callback}(#{pretty});" : pretty), 
+        render text: json, 
                status: data['error'] ? 500 : 200
       end
       format.xml do
