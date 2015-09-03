@@ -47,6 +47,11 @@
   name: "National Native News: American Indian Dance Theatre"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
+- id: cpb-aacip_28-8k74t6fd9b
+  org_name: Pacifica Radio Archives
+  name: "A Talk with Bobby Seale"
+  thumbnail_url: /thumbs/audio-digitized.jpg
+  
 - id: cpb-aacip_398-61djhhq3
   org_name: Connecticut Public Broadcasting Network
   name: "Connecticut Lawmakers"
@@ -86,10 +91,6 @@
 - id: cpb-aacip_322-01bk3jtv
   org_name: WEDU
   name: "WEDU Interview: Jimmy Carter"
-  
-- id: cpb-aacip_15-03qvb0hf
-  org_name: WGBH
-  name: "Senator Kennedy: A Health Policy for the 70s"
   
 - id: cpb-aacip_114-90dv49m9
   org_name: WGBY
