@@ -1,5 +1,5 @@
 require 'rails_helper'
-require 'cancan/matchers'
+require 'ostruct'
 
 describe User do
 
@@ -58,94 +58,96 @@ describe User do
     end
   end
 
-  describe '#bot?' do
-    # TODO
-  end
-
-  describe 'ablities' do
-    let(:ability) { Ability.new(user) }
-
-    # It would be nice to use instance_double here, but CanCan will not work
-    # properly unless you use the real class. So we are forced to load real
-    # objects here, with new fixtures we had to create, which slows things.
-    let(:public_access)    { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
-    let(:protected_access) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
-    let(:private_access)   { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')) }
-    let(:all_access)       { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml')) }
-
-    context 'when on site and not affirmed TOS' do
-      let(:user) { instance_double(User, onsite?: true, affirmed_tos?: false) }
-
-      it 'can not play public content' do
-        expect(ability).not_to be_able_to :play,     public_access
-        expect(ability).not_to be_able_to :skip_tos, public_access
-      end
-
-      it 'can not play protected content' do
-        expect(ability).not_to be_able_to :play,     protected_access
-        expect(ability).not_to be_able_to :skip_tos, protected_access
-      end
-
-      it 'can not play private content' do
-        expect(ability).not_to be_able_to :play, private_access
-        expect(ability).to be_able_to :skip_tos, private_access
-      end
-
-      it 'can not play undigitized content' do
-        expect(ability).not_to be_able_to :play,     all_access
-        expect(ability).to be_able_to :skip_tos, all_access
+  describe 'abilities' do
+    
+    examples = {
+      public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),
+      protected: PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')),
+      private:   PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')),
+      all:       PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml'))
+    }
+    
+    onsite_access = {
+      public:     { play: true,  skip_tos: true},
+      protected:  { play: true,  skip_tos: true},
+      private:    { play: false, skip_tos: true},
+      all:        { play: false, skip_tos: true},
+    }
+    no_access = {
+      public:     { play: false, skip_tos: true},
+      protected:  { play: false, skip_tos: true},
+      private:    { play: false, skip_tos: true},
+      all:        { play: false, skip_tos: true},
+    }
+    
+    {
+      # on-site possibilities:
+      
+      OpenStruct.new(onsite?: true, affirmed_tos?: false, usa?: true, bot?: false) =>
+        onsite_access,
+      OpenStruct.new(onsite?: true, affirmed_tos?: false, usa?: false, bot?: false) =>
+        # usa?: false
+        # if LoC or GBH IPs get geocoded outside USA, it should make no difference.
+        onsite_access,
+      OpenStruct.new(onsite?: true, affirmed_tos?: true, usa?: false, bot?: false) =>
+        # affirmed_tos?: true
+        # affirming toc (perhaps through a different network) should not break it.
+        onsite_access,
+      OpenStruct.new(onsite?: true, affirmed_tos?: true, usa?: false, bot?: false) =>
+        # usa?: false / affirmed_tos?: true
+        # two weird cases together.
+        onsite_access,
+      
+      # off-site:
+      
+      OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: false) =>
+        {
+          public:     { play: false, skip_tos: false},
+          protected:  { play: false, skip_tos: true},
+          private:    { play: false, skip_tos: true},
+          all:        { play: false, skip_tos: true},
+        },
+      OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: true, bot?: false) =>
+        {
+          public:     { play: true,  skip_tos: true},
+          protected:  { play: false, skip_tos: true},
+          private:    { play: false, skip_tos: true},
+          all:        { play: false, skip_tos: true},
+        },
+        
+      # international:
+      
+      OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: false, bot?: false) =>
+        no_access,
+      OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: false, bot?: false) =>
+        # Maybe you got the TOS domestically, but we still deny access.
+        no_access,
+        
+      # bot:
+      
+      OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: true) =>
+        no_access,
+      OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: false, bot?: true) =>
+        # international bot the same
+        no_access,
+      
+    }.each do |user, doc_types|
+      context "User #{user.onsite? ? 'on-site' : 'off-site'} and " +
+              "TOS #{user.affirmed_tos? ? 'affirmed' : 'not affirmed'} and " +
+              "#{user.usa? ? 'domestic' : 'international'} " +
+              "#{user.bot? ? 'bot' : 'human'}" do
+        ability = Ability.new(user)
+        doc_types.each do |access_level, privs|
+          describe access_level do
+            example = examples[access_level]
+            privs.each do |priv, t_f|
+              it "can #{t_f ? '' : 'not '}#{priv}" do
+                expect(t_f).to eq ability.can?(priv, example)
+              end
+            end
+          end
+        end
       end
     end
-
-    context 'when on site and affirmed TOS' do
-      let(:user) { instance_double(User, onsite?: true, affirmed_tos?: true) }
-
-      it 'can play public content' do
-        expect(ability).to be_able_to :play,     public_access
-        expect(ability).to be_able_to :skip_tos, public_access
-      end
-
-      it 'can play protected content' do
-        expect(ability).to be_able_to :play,     protected_access
-        expect(ability).to be_able_to :skip_tos, protected_access
-      end
-
-      it 'can not play private content' do
-        expect(ability).not_to be_able_to :play, private_access
-        expect(ability).to be_able_to :skip_tos, private_access
-      end
-
-      it 'can not play undigitized content' do
-        expect(ability).not_to be_able_to :play,     all_access
-        expect(ability).to be_able_to :skip_tos, all_access
-      end
-    end
-
-    context 'when off site' do
-      # TODO: This changes when we open the ORR.
-      let(:user) { instance_double(User, onsite?: false, usa?: true, affirmed_tos?: false) }
-
-      it 'can not play public content' do
-        expect(ability).not_to be_able_to :play, public_access
-        expect(ability).to be_able_to :skip_tos, private_access
-      end
-
-      it 'can not play protected content' do
-        expect(ability).not_to be_able_to :play, protected_access
-        expect(ability).to be_able_to :skip_tos, private_access
-      end
-
-      it 'can not play private content' do
-        expect(ability).not_to be_able_to :play, private_access
-        expect(ability).to be_able_to :skip_tos, private_access
-      end
-
-      it 'can not play undigitized content' do
-        expect(ability).not_to be_able_to :play,     all_access
-        expect(ability).to be_able_to :skip_tos, all_access
-      end
-    end
-
-    # TODO: When we open the ORR, test international users, and USA bots.
   end
 end
