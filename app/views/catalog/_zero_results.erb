@@ -1,13 +1,15 @@
 <div>
   <% if params[:f][:access_types] != [PBCore::ALL_ACCESS] %>
     Consider using other search terms, removing filters, or
-    <%= 
+    <%=
       link_to(
         'searching all records',
-        request.original_fullpath.gsub(
-          /f\[access_types\]\[\]=[^&]*/,
-          'f[access_types][]='+PBCore::ALL_ACCESS
-        )) %>,
+        begin
+          params = request.params.except(:action, :controller).clone
+          params[:f][:access_types] = [PBCore::ALL_ACCESS]
+          '/catalog?' + params.to_query
+        end
+      ) %>,
     not just those with media.
   <% else %>
     Consider using other search terms or removing filters.
