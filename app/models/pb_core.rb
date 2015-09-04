@@ -73,7 +73,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @title ||= titles.map { |pair| pair.last }.join('; ')
   end
   def exhibits
-    @exhibits ||= Exhibit.find_by_item_id(id).map { |exhibit| exhibit.path }
+    @exhibits ||= Exhibit.find_all_by_item_id(id)
   end
   def id
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')
@@ -215,7 +215,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'year' => year,
 
       # facets:
-      'exhibits' => exhibits,
+      'exhibits' => exhibits.map { |exhibit| exhibit.path },
       'media_type' => media_type == OTHER ? nil : media_type,
       'genres' => genres,
       'topics' => topics,
