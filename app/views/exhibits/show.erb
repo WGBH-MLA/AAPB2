@@ -25,11 +25,11 @@
       </div>
     </div>
   <% end %>
-  
+
 
   <img src="<%= @exhibit.thumbnail_url %>"/>
   <br/><br/><%# TODO: CSS to establish spacing. %>
-  
+
   <div class="panel panel-primary">
     <div class="panel-heading">
       <h3 class="panel-title">Author</h3>
@@ -62,21 +62,21 @@
 
     </div>
   </div>
-  
-  <%= render partial: 'shared/sidebar_nav', 
-             locals: { 
+
+  <%= render partial: 'shared/sidebar_nav',
+             locals: {
                 title: 'Sub-exhibits',
                 links: @exhibit.children.map { |child| [child.title, "/exhibits/#{child.path}"] }
               } %>
-    
-  <%= render partial: 'shared/sidebar_nav', 
-             locals: { 
+
+  <%= render partial: 'shared/sidebar_nav',
+             locals: {
                 title: 'Links',
                 links: @exhibit.links
               } %>
-    
+
 <% end %>
-  
+
 <% content_for :main do %>
 
 
@@ -85,7 +85,25 @@
     <li><a href="#">Section</a></li>
     <li class="active">Page Title</li>
   </ol>
-  
+
+  <!-- View All Gallery Items Link -->
+  <div class="panel panel-primary view-all-gallery">
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-sm-9"><h3>View all items in this Gallery.</h3></div>
+        <div class="col-sm-3"><a class="btn btn-primary" href="#">View Gallery</a></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- "Featured In" Button -->
+  <h4>
+    <a href="#" class="btn-featured-record" title="This Record is featured in the [TITLE] Exhibit">
+      <span class="glyphicon glyphicon-star"></span>
+      <strong>This Record is featured in the <em>[TITLE]</em> Exhibit.</strong>
+    </a>
+  </h4>
+
   <img class="pull-left img-thumbnail curated-featured-image" alt="Exhibit Title" title="Exhibit Title" src="<%= @exhibit.thumbnail_url %>"/>
 
   <p>
@@ -93,24 +111,11 @@
   </p>
 
   <p>
-    Morbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. Praesent imperdiet ligula eu lacinia volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at lectus orci. Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit. 
+    Morbi ex erat, feugiat quis pharetra quis, ornare sed risus. Suspendisse potenti. Phasellus elementum nulla leo, sit amet commodo massa ullamcorper a. Praesent imperdiet ligula eu lacinia volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at lectus orci. Praesent feugiat elit metus, vel laoreet purus pellentesque eu. In tempor at massa euismod dignissim. Suspendisse at ipsum fringilla purus malesuada facilisis id non arcu. Phasellus mollis sodales diam, sed porta nunc fringilla sit amet. Aliquam at rhoncus metus, non sodales velit.
   </p>
 
 
-<!-- View All Gallery Items Link -->
-  <div class="panel panel-primary view-all-gallery">
-    <div class="panel-body">
-      <div class="row">
-        <div class="col-sm-9"><h3>View all items in this Gallery.</h3></div>
-        <div class="col-sm-3"><a class="btn btn-default" href="#" role="button">View Gallery</a></div>
-      </div>
-    </div>
-  </div>
-
-
-
   <h2>Narrative</h2>
-
   <p>
 
     <% @exhibit.ancestors.map do |ancestor| %>
@@ -119,14 +124,9 @@
   </p>
   <%= @exhibit.formatted.html_safe %>
 
-  <hr> 
+  <hr>
   <a class="btn btn-link" data-toggle="modal" data-target=".narrative-modal">View Narrative</a> | <a class="btn btn-link" href="#" role="button">Download Narrative</a>
 
-  <br><br><br><br>
-
-  <h5><a href="#" class="btn-featured-record" title="This Record is featured in the Midwest! Exhibit"><span class="glyphicon glyphicon-star"></span>&nbsp;&nbsp;This Record is featured in the <em>Midwest!</em> Exhibit.</a></h5>
-
-  <br><br><br><br>
 
   <h2>Gallery</h2>
   <p>(For when there is a need for one)</p>
@@ -228,18 +228,11 @@
   <hr>
   <a class="btn btn-link" href="#" role="button">View All Gallery Items</a>
 
-
-  
 <% end %>
 
 
-
-
-  
-
-    
-<%= render partial: 'shared/title_sidebar_main', 
+<%= render partial: 'shared/title_sidebar_main',
            locals: {
              sidebar: yield(:sidebar),
              main: yield(:main)
-           } %> 
+           } %>
