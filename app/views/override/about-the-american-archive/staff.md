@@ -2,9 +2,14 @@
 
 ![banner](/page-banners/banner5.jpg)
 
+<style>
+  h3, h4 {margin-bottom: 0;}
+</style>
+
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Cariani.jpg"/>
-**Karen Cariani, Project Director**<br/>
-**WGBH**<br/>
+### Karen Cariani
+#### Project Director
+#### WGBH
 Karen has been director of the WGBH Media Library since its inception in 1990. 
 She co-led the AMIA Local Television Case Studies and Symposium Task Force from 
 2001-2004.  She has been project director for the WGBH Teachers’ Domain 
@@ -16,8 +21,9 @@ system.
 Karen's current favorite AAPB collection item is ["Beekeeping" from 
 WCTE](/catalog/cpb-aacip_23-12m640f2).
 
-**Alan Gevinson, Project Director**<br/>
-**Library of Congress**<br/>
+### Alan Gevinson
+#### Project Director
+#### Library of Congress
 Alan is the Special Assistant to the Chief of the National Audio-Visual 
 Conservation Center at the Library of Congress. He received a PhD in History 
 from Johns Hopkins University, has taught in George Mason University’s graduate 
@@ -37,8 +43,9 @@ Alan's current favorite AAPB collection item is ["Promise City" from Iowa
 Public Television](/catalog/cpb-aacip_37-010p2nvv).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
-**Casey E. Davis, Project Manager**<br/>
-**WGBH**<br/>
+### Casey E. Davis
+#### Project Manager
+#### WGBH
 Casey manages the day-to-day activities of the AAPB, including outreach, 
 access, overseeing web development, coordinating with the Library of Congress 
 on policy and strategy, and assisting with sustainability. She established the 
@@ -57,8 +64,9 @@ Louisiana State University.
 Casey's current favorite AAPB collection item is ["Charlie Pride" from 
 Mississippi Public Broadcasting](/catalog/cpb-aacip_60-39k3jfc6).
 
-**Lauren Sorensen, Digital Conversion Specialist**<br/>
-**Library of Congress**<br/>
+### Lauren Sorensen
+#### Digital Conversion Specialist
+#### Library of Congress
 An audiovisual archivist & conservator interested in digital preservation, 
 community initiatives, metadata and open access, Lauren manages preservation 
 for the American Archive of Public Broadcasting. Lauren previously worked for 
@@ -79,8 +87,9 @@ Lauren's current favorite AAPB collection item is [“Writers Speak: James
 Baldwin” from New England Public Radio](/catalog/cpb-aacip_305-86nzshkq).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
-**Sadie Roosa, Metadata Specialist**<br/>
-**WGBH**<br/>
+### Sadie Roosa
+#### Metadata Specialist
+#### WGBH
 Sadie focuses her attention on metadata management and cataloging for the AAPB. 
 She has worked at WGBH since 2012, engaged in digitization and digital library 
 projects including Boston TV News Digital Library and WGBH's Open Vault. She 
@@ -94,8 +103,9 @@ Sadie's current favorite AAPB collection item is an ["Interview with Jonathan
 Richmond" from WERU](/catalog/cpb-aacip_301-956djt0n ).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Fraimow.png"/>
-**Rebecca Fraimow, Archivist**<br/>
-**WGBH**<br/>
+### Rebecca Fraimow
+#### Archivist
+#### WGBH
 After first coming to WGBH as a National Digital Stewardship (NDSR) Resident in 
 2014, Rebecca joined the staff of WGBH full-time in 2015, focusing on the AAPB 
 NDSR program, the development of the PBCore metadata standard, and the ongoing 
@@ -114,8 +124,9 @@ fiction.
 Rebecca's's current favorite AAPB collection item is ["Role of Fantasy in Children's Lives" from WGBH](/catalog/cpb-aacip_15-5717m0428t).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Myers.jpg"/>
-**Andrew Myers, Supervising Developer**<br/>
-**WGBH**<br/>
+### Andrew Myers
+#### Supervising Developer
+#### WGBH
 Andrew Myers is a web developer who has worked for many different kinds of 
 organizations, but has focused mainly on websites and applications for 
 libraries and archives since joining WGBH in 2013. When he's not working, he 
@@ -127,8 +138,9 @@ President of the Land Institute in Salina, KS," from Minnesota Public
 Radio](/catalog/cpb-aacip_43-752fr84r).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Carter.jpg"/>
-**Kevin Carter, Programmer Analyst**<br/>
-**WGBH**<br/>
+### Kevin Carter
+#### Programmer Analyst
+#### WGBH
 Kevin Carter began work in 1997 on the nascent Digital Library Initiative at 
 WGBH and has been spinning information straw into data gold there ever since.  
 He worked for many years in the Applied Technology unit to refine and invent 
@@ -141,8 +153,9 @@ and digital materials on The Web and beyond.
 Kevin's current favorite AAPB collection item is ["Chrysti the Wordsmith: 
 Dachshund" from KGLT](/catalog/cpb-aacip_309-375tb64n).
 
-**Chuck McCallum, Developer**<br/>
-**WGBH**<br/>
+### Chuck McCallum
+#### Developer
+#### WGBH
 Chuck is curious<br/>
 about the edge cases here.<br/>
 Will a haiku do?<br/>

@@ -21,7 +21,7 @@ Next: [Debates about Climate Change](debates)
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 
-### Casey E. Davis
+### [Casey E. Davis](/about-the-american-archive/staff#casey-e-davis) 
 AAPB Project Manager
 
 ## Main
