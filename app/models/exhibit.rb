@@ -27,10 +27,14 @@ class Exhibit < Cmless
           ]
         end
       ]
-  end
-
-  def self.find_by_item_id(id)
+  end  
+  
+  def self.find_all_by_item_id(id)
     exhibits_by_item_id[id] || []
+  end
+  
+  def self.find_top_by_item_id(id)
+    all_top_level.select { |ex| ex.ids.include?(id) }
   end
 
   def thumbnail_url

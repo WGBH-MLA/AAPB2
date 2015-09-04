@@ -357,6 +357,13 @@ describe 'Catalog' do
       # No thumbnail
       expect(page).to have_text('This content has not been digitized.')
     end
+    
+    it 'links to collection' do
+      visit '/catalog/cpb-aacip_111-21ghx7d6'
+      # TODO: Will travis require this?
+      #click_link(AGREE)
+      expect(page).to have_text('This record is featured in')
+    end
   end
 
   describe 'all fixtures' do
