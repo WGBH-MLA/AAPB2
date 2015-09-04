@@ -23,8 +23,8 @@
  */
 
  * {
- 	-webkit-border-radius:0!important; 
-  -moz-border-radius:0!important; 
+ 	-webkit-border-radius:0!important;
+  -moz-border-radius:0!important;
  	border-radius:0!important;
 
  	-webkit-box-shadow: none!important;
@@ -165,7 +165,7 @@
 
 
 	/* LIST GROUP */
-		
+
 
 		/*the list*/
 		.row.two .list-group {
@@ -179,9 +179,9 @@
 				.row.two .list-group-item a:hover {
 					color:#9f2064;
 				}
-                                
+
                 /*Social Links in the Footer */
-                
+
                 ul.social {
                         display:inline-block;
                         margin:0 auto;
@@ -281,7 +281,7 @@
 	}
 
 /* MISC Elements */
-		
+
 hr {
     border: 0;
     height: 1px;
@@ -329,7 +329,7 @@ hr {
   opacity: 1;
   filter: alpha(opacity=100);
 }
-		
+
 	/*HOmepage*/
 	.blacklight-home .featured-carousel .carousel-control {
 		color:#FFF;
@@ -434,7 +434,7 @@ hr {
 		-webkit-box-shadow: 2px 2px 5px 2px rgba(0,0,0,.15);
 		box-shadow: 2px 2px 5px 2px rgba(0,0,0,.15);
 	}
-	
+
 	/* Image:hover; */
 	.blacklight-catalog .document .media-left a:hover img {
 		opacity:.8;
@@ -447,7 +447,7 @@ hr {
 		margin:0 0 1em;
 	}
 
-	
+
 		dt {
 			color:#9f2064;
 			margin:0 0 .75em;
@@ -487,7 +487,7 @@ hr {
 /*---------*/
 
 
-/*universal*/ 
+/*universal*/
 .search-panel {
 	margin:0 auto 2em;
 }
@@ -508,11 +508,11 @@ hr {
 	.search-query-form .input-group-lg .input-group-addon {
 		width:20%;
 	}
-        
+
 	.search-query-form .input-group-lg option {
 		background-color:#292A72;
 	}
-	
+
 	/*select list*/
 	.search-query-form .input-group .input-group-addon .search_field {
 		background-color: transparent;
@@ -536,7 +536,7 @@ hr {
 
 
 
-/* SMALL */ 
+/* SMALL */
 .search-query-form .input-group-sm,
 .search-query-form .input-group-sm .input-group-addon
 .search-query-form .input-group-sm .search_field,
@@ -544,7 +544,7 @@ hr {
 .search-query-form .input-group-sm .search-btn {
 	height:30px;
 }
-	
+
 	/*the button*/
 	.search-query-form .input-group-sm .input-group-btn {
 		width:30px;
@@ -556,7 +556,7 @@ hr {
 			width:300px;
 		}
 
-/* Large */ 
+/* Large */
 .search-query-form .input-group-lg,
 .search-query-form .input-group-lg .input-group-addon
 .search-query-form .input-group-lg .search_field,
@@ -564,7 +564,7 @@ hr {
 .search-query-form .input-group-lg .search-btn {
 	height:50px;
 }
-	
+
 	/*the button*/
 	.search-query-form .input-group-lg .input-group-btn {
 		width:50px;
@@ -658,19 +658,19 @@ hr {
 
 
 /* Navbar Toggle */
-.column .navbar-default .navbar-toggle, 
+.column .navbar-default .navbar-toggle,
 .column .navbar-default .facets- {
 	border:none;
 }
 
-	.column .navbar-default .navbar-toggle .icon-bar, 
+	.column .navbar-default .navbar-toggle .icon-bar,
 	.column .navbar-default .facets-toggle .icon-bar {
 		background-color:#FFF;
 	}
 
-	.navbar-default .navbar-toggle:hover, 
-	.navbar-default .facets-toggle:hover, 
-	.navbar-default .navbar-toggle:focus, 
+	.navbar-default .navbar-toggle:hover,
+	.navbar-default .facets-toggle:hover,
+	.navbar-default .navbar-toggle:focus,
 	.navbar-default .facets-toggle:focus {
 	  background-color: transparent;
 	}
@@ -698,25 +698,25 @@ hr {
 
 
 /* Navbar Toggle */
-.column .navbar-default .navbar-toggle, 
+.column .navbar-default .navbar-toggle,
 .column .navbar-default .facets- {
 	border:none;
 }
 
-	.column .navbar-default .navbar-toggle .icon-bar, 
+	.column .navbar-default .navbar-toggle .icon-bar,
 	.column .navbar-default .facets-toggle .icon-bar {
 		background-color:#FFF;
 	}
 
-	.navbar-default .navbar-toggle:hover, 
-	.navbar-default .facets-toggle:hover, 
-	.navbar-default .navbar-toggle:focus, 
+	.navbar-default .navbar-toggle:hover,
+	.navbar-default .facets-toggle:hover,
+	.navbar-default .navbar-toggle:focus,
 	.navbar-default .facets-toggle:focus {
 	  background-color: transparent;
 	}
 
 
-	/* ---------- */
+/* ---------- */
 /* PAGE BANNERS ---------- */
 /* ---------- */
 
@@ -724,6 +724,26 @@ hr {
 	height:auto;
 	margin:0 0 1em;
 	width:100%;
+}
+
+/* ---------- */
+/* Browse THe Collection ---------- */
+/* ---------- */
+.browsable ul a {
+    transition: all .1s ease-in-out;
+    background-color:rgba(255,255,255,.25);
+    text-align: center;
+    color:#FFF;
+    display:block;
+    margin:0 0 1px;
+    padding:.5em;
+}
+
+/*Browse THe Collection*/
+.browsable ul a:hover {
+    background-color:rgba(255,255,255,.1);
+    text-decoration:none;
+    transform: scale(1.2);
 }
 
 
@@ -797,7 +817,7 @@ hr {
 /* -------------------- */
 /* CATALOG ---------- */
 /* -------------------- */
-	
+
 	/* Image container */
 	.blacklight-catalog .document .media-left {
 		width:35%;
@@ -837,13 +857,13 @@ hr {
   border:none;
 }
 
-.column .facets .top-panel-heading, 
+.column .facets .top-panel-heading,
 .column .navbar-header {
 	float:none;
 }
 
-.column .navbar-default .navbar-collapse, 
-.column .navbar-default #facet-panel-collapse, 
+.column .navbar-default .navbar-collapse,
+.column .navbar-default #facet-panel-collapse,
 .column .navbar-default .navbar-form {
 	padding-left:0;
 	padding-right:0;
@@ -897,32 +917,16 @@ hr {
 			display:inline-block;
 			margin:0 auto;
 		}
-                
+
 .img-circle {
-  -webkit-border-radius:50%!important; 
-  -moz-border-radius:50%!important; 
+  -webkit-border-radius:50%!important;
+  -moz-border-radius:50%!important;
   border-radius:50%!important;
   width: 10em;
   padding-right: 1em;
 }
 
-/*Browse THe Collection*/
-.browsable ul a {
-    transition: all .1s ease-in-out;
-    background-color:rgba(255,255,255,.25);
-    text-align: center;
-    color:#FFF;
-    display:block;
-    margin:0 0 1px;
-    padding:.5em;
-}
 
-/*Browse THe Collection*/
-.browsable ul a:hover {
-    background-color:rgba(255,255,255,.1);
-    text-decoration:none;
-    transform: scale(1.2);
-}
 
 
 /* --------- */
@@ -999,7 +1003,7 @@ hr {
 /* -------------------- */
 /* CATALOG ---------- */
 /* -------------------- */
-	
+
 	/* Image container */
 	.blacklight-catalog .document .media-left {
 		width:25%;
@@ -1028,14 +1032,14 @@ hr {
 	color: #FFF;
 }
 
-	
+
 	/* The Title/Attribution */
 	.featured-carousel .list-group-item .carousel-caption h3,
 	.featured-carousel .list-group-item .carousel-caption h4,
 	.featured-carousel .list-group-item .carousel-caption p {
 		color: #FFF;
 	}
-	
+
 	/*Orgs caroiusel*/
 	#orgs-carousel.featured-carousel .list-group-item {
 		min-height:300px;
@@ -1077,7 +1081,7 @@ hr {
 	width:100%;
 	z-index:1;
 }
-		
+
 	/* THe Caption - Stations */
 	#orgs-carousel.featured-carousel .list-group-item .carousel-caption {
 		background-color:transparent;
@@ -1130,7 +1134,7 @@ hr {
 		}
 
 
-	
+
 
 
 }/* END: Desktop ---------- */
