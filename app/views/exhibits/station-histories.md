@@ -1,6 +1,6 @@
 # Station Histories
 
-![alt text](http://mlamedia01.wgbh.org/aapb/thumbnail/cpb-aacip_37-010p2nvv.jpg)
+![Early WGBH Control Room](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg)
 
 ## Summary
 
