@@ -2,13 +2,13 @@
 
 ![banner](/page-banners/banner2.jpg)
 
-## What is the American Archive of Public Broadcasting?
+## What is the American Archive of Public Broadcasting (AAPB)?
 
-The American Archive is an initiative to digitally preserve and make accessible 
+The AAPB is an initiative to digitally preserve and make accessible 
 public broadcasting radio and television programming, ensuring its collection, 
 management, preservation, and access. In August 2013, the Corporation for 
 Public Broadcasting selected WGBH and the Library of Congress as the permanent 
-stewards of the American Archive collection.
+stewards of the AAPB collection.
 
 ## What is available on the AAPB website?
 
@@ -16,16 +16,13 @@ The initial launch of the AAPB website provides access to metadata records that
 were created during the American Archive Content Inventory Project. The records 
 document the existence of 2.5 million public radio and television assets at 
 more than 120 public media stations and archives across the country. Of those 
-2.5 million assets, 68,000 were recently digitized for preservation and access 
+2.5 million assets, 68,000 have been digitized for preservation and access 
 in the AAPB. The 68,000 items total approximately 40,000 hours of video and 
 audio. 
 
 ## How can I tell if something was digitized in the AAPB?
 
-The website currently indicates the 68,000 video and audio items that were 
-digitized in the AAPB project. To locate records for digitized items, conduct a 
-keyword search, and using the facet menu on the left side of the search results 
-page, expand the "Access" filter and click "Digitized."
+After you conduct a search on the AAPB website, click the "All Digitized" link below the Access filter on the left side of the page.
 
 ## I want to conduct research using the AAPB collection now. How can I do so?
 
@@ -81,7 +78,7 @@ If the item you found was not digitized, you can contact the contributing
 organization listed in the metadata record to find out if and how it can be 
 accessed.
 
-## Who is eligible to contribute to the American Archive collection?
+## Who is eligible to contribute to the AAPB collection?
 
 Public TV or radio stations (or joint licensees); national public media 
 organizations; producers for public media (e.g. PRI, ITVS); and repositories 
@@ -90,7 +87,7 @@ collection.
 
 ## How can my organization get involved in the American Archive initiative?
 
-The AAPB Project Team is currently working on a collection development policy 
+AAPB Project Staff are currently working on a collection development policy 
 to guide the growth of the collection and the workflows to add new metadata 
 records to the catalog and accept new digital files for preservation and 
 access. In the next few months we'll have a solid plan for growing the archive 
