@@ -1,58 +1,40 @@
 # Searching the AAPB Website
 
-The AAPB website consists of nearly 2.5 million metadata records, 72,000 of 
+The AAPB website consists of nearly 2.5 million metadata records, 68,000 of 
 which describe video and audio content that has been digitized by the AAPB. The 
 metadata records for all 2.5 million records are currently inventory-level and 
-most have not been fully cataloged. Even so, the best way to find what you are 
-looking for, or at least narrow your search on the AAPB website is to conduct 
+most have not been fully cataloged. The best way to find what you are 
+looking for, or at least narrow your search on the AAPB website, is to conduct 
 keyword searches in the search bar. Then, you can filter the retrieved results 
 using the browsing options (facets) that appear on the left side of the search 
-results page.
+results page. If you come to the website not looking for anything in particular, check out the [Browse the Collection](http://americanarchive.org/#browse) section on the homepage for possible content to browse.
 
 If you type keywords into the **SEARCH BAR**, you will be searching all of the 
 fields in all of the records in the AAPB Collection. This is the most fail-safe 
 way to search the collection because it will retrieve relevant results based on 
 the data available, even if that data has not be entered into the correct field.
 
-You can also choose to **LIMIT YOUR SEARCH** to only the title or contributor 
-fields.  This more limited search will give you more precise search results, if 
-the data is correctly cataloged in the title or contributor field.  However, as 
-the majority of our records are not cataloged, there is a good chance the data 
-may not be in the correct field. For example, many times contributors are 
-listed in the descriptions, but have not yet been pulled out and entered as 
-individual contributors. So, if a limited search does not retrieve the results 
-you’re looking for, try a search of all fields because the data may be in the 
-record, but in the wrong field.
+If you want to view everything that has been **DIGITIZED**, conduct a search and then click "All Digitized" under the "Access" filter in the facets menu on the left side of your search results.
 
-You can tell if something has been **DIGITIZED** based on the record's thumbnail. Digitized video has a thumbnail featuring an image from the content or program. The thumbnails for audio that has been digitized say AUDIO. The thumbnails for audio and video that hasn't been digitized will say either VIDEO (not digitized) or AUDIO (not digitized). 
+From your search results, you can use additional **FACETS** on the left to filter 
+your results.
 
-From the search results page, you can use the **FACETS** menu on the left to filter 
-the search results.
-
-Using the **MEDIA TYPE** facet, you can filter your results based on if they are 
-Moving Image or Sound
+Using the **MEDIA TYPE** facet, you can filter your results to show only 
+Moving Image or Sound.
 
 To filter your results based on their topic or format of the content use the 
-**GENRE** facet; for example, Cooking, Arts, Nature, Talk Shows, and News Reports. 
-The data in the genre field is not normalized. AAPB catalogers are working on 
-this data during their efforts; however, we have made the un-normalized data 
-available now, to better enhance discoverability.
+**GENRE** or **TOPIC** facets; for example, Cooking, Arts, Nature, Talk Shows, and News Reports. 
+Please note that not all records have been tagged with a Genre or Topic as cataloging is still in progress.
 
 The **ASSET TYPE** facet filters results based on whether they are Episodes, Clips, 
-Programs, Raw Footage, etc. Asset Types have not been added to many of the 
-records. Also, some Asset Types from the original inventory have not been 
-normalized. We have made this imperfect data available because we felt it would 
-be helpful when it does exist; however in many cases it may not exist.
+Programs, Raw Footage, etc. Please note that Asset Types have not been added to all of the 
+record, as cataloging is still in progress.
 
-If you are looking for content contributed by a specific station, or if you 
-want to find materials that document the history of a certain region or area of 
-the United States, use the **ORGANIZATION** facet. With this facet you can filer 
+If you are looking for content contributed by a specific station or material from a specific state in the US, use the **ORGANIZATION** facet. With this facet you can filer 
 your results based on which organization contributed the records to the AAPB 
-collection.
+collection, or a state. Clicking on a state will show all records contributed by all stations in that state.
 
-The **YEAR** facet lets you filter your results based on the year in the Asset Date 
-field. Asset Dates can be the date the asset was created, broadcast, revised, 
-or the copyright date of the asset.
+The **YEAR** facet lets you filter your results based on the year or range of years. Please note that only 1/3 of AAPB records currently have dates, as cataloging is still in progress.
 
 The **ACCESS** facet is the quickest way to display only the metadata records for 
 video and audio content digitized by the AAPB. All digitized assets are 
