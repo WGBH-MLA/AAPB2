@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'resolv'
 require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/validation_helper'
@@ -29,6 +30,11 @@ describe 'Catalog' do
   def expect_poster(id)
     url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
     expect(page).to have_css("video[poster='#{url}']")
+  end
+  
+  def expect_no_media()
+    expect(page).not_to have_css("video")
+    expect(page).not_to have_css("audio")
   end
 
   describe '#index' do
@@ -342,6 +348,7 @@ describe 'Catalog' do
       visit '/catalog/1234'
       expect_all_the_text('clean-MOCK.xml')
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
+      expect_no_media()
     end
 
     it 'has poster otherwise if media' do
@@ -354,15 +361,34 @@ describe 'Catalog' do
       visit '/catalog/cpb-aacip_80-12893j6c'
       # No need to click through
       expect_all_the_text('clean-bad-essence-track.xml')
-      # No thumbnail
       expect(page).to have_text('This content has not been digitized.')
+      expect_no_media()
     end
     
     it 'links to collection' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
-      # TODO: Will travis require this?
-      #click_link(AGREE)
       expect(page).to have_text('This record is featured in')
+      expect_poster('cpb-aacip_111-21ghx7d6')
+    end
+    
+    describe 'access control' do
+      it 'has warning for non-us access' do
+        ENV['RAILS_TEST_IP_ADDRESS'] = '0.0.0.0'
+        visit 'catalog/cpb-aacip_37-16c2fsnr'
+        ENV.delete('RAILS_TEST_IP_ADDRESS')
+        expect_all_the_text('clean-every-title-is-episode-number.xml')
+        expect(page).to have_text('not available for viewing at your location.')
+        expect_no_media()
+      end
+      
+      it 'has warning for off-site access' do
+        ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
+        visit 'catalog/cpb-aacip_111-21ghx7d6'
+        ENV.delete('RAILS_TEST_IP_ADDRESS')
+        expect_all_the_text('clean-exhibit.xml')
+        expect(page).to have_text('only available for viewing at WGBH and the Library of Congress. ')
+        expect_no_media()
+      end
     end
   end
 

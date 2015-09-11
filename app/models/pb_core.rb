@@ -241,7 +241,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
                :titles_sort, :title, # Covered by #titles
-               :ci_ids, :instantiations, :outside_url]
+               :ci_ids, :instantiations, :outside_url, :exhibits]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value

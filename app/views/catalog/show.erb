@@ -78,7 +78,9 @@
     <% else %>
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
       <div style="margin-top: 1em;">
-        <% if @pbcore.protected? %>
+        <% if @pbcore.public? && !current_user.usa? %>
+          Please note: This content is currently not available for viewing at your location.
+        <% elsif @pbcore.protected? %>
           Please note: This content is only available for viewing at WGBH and 
           the Library of Congress. For information about on location research, 
           <a href="/on-location">click here</a>.
@@ -90,10 +92,6 @@
           Please note: This content has not been digitized. For inquiries regarding access, 
           please contact <%= link_to @pbcore.organization.short_name, @pbcore.organization.url %>.
         <% end %>
-        <%# 
-            TODO: Apologies to non-US users. Another elsif? or separate? 
-            https://github.com/WGBH/AAPB2/issues/642
-        %>
       </div>
     <% end %>
     <% if @pbcore.outside_url %>
