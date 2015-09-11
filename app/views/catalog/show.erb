@@ -79,7 +79,7 @@
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
       <div style="margin-top: 1em;">
         <% if @pbcore.public? && !current_user.usa? %>
-          Please note: This content is not available for viewing at your location.
+          Please note: This content is currently not available for viewing at your location.
         <% elsif @pbcore.protected? %>
           Please note: This content is only available for viewing at WGBH and 
           the Library of Congress. For information about on location research, 
