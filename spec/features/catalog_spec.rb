@@ -326,7 +326,10 @@ describe 'Catalog' do
     it 'works' do
       visit '/catalog/1234.pbcore'
       expect(page.status_code).to eq(200)
-      expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.xml'))
+      # Don't worry about whitespace text nodes.
+      expect(page.source.gsub(/>\s+</, '><')).to eq(
+        File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.xml').gsub(/>\s+</, '><')
+      )
       expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
     end
   end

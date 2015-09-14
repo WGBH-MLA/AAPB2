@@ -205,27 +205,36 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # We don't want to ping S3 multiple times, and we don't want to store all
     # of a captions/transcript file in solr (much less in the pbcore).
     # --> We only want to say that it exists, and we want to index the words.
-    xml_with_caption_flag = @xml.clone
+    
+    doc_with_caption_flag = @doc.deep_clone
+    # perhaps paranoid, but I don't want this method to have side effects.
     
     caption_id = id.gsub('_','-')
     caption_base = 'https://s3.amazonaws.com/americanarchive.org/captions'
     caption_url = "#{caption_base}/#{caption_id}/#{caption_id}.srt1.srt"
     caption_response = Net::HTTP.get_response(URI.parse(caption_url))
-    if caption_response.code == 200
+    if caption_response.code == '200'
+      pre_existing = REXML::XPath.match(doc_with_caption_flag, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first
+      if pre_existing
+        pre_existing.parent.elements.delete(pre_existing)
+      end
       caption_body = caption_response.body
-      REXML::XPath.match(xml_with_caption_flag, '/*/*pbcoreInstantiation').last.next_sibling = 
+      REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling = 
         REXML::Document.new(
           "<pbcoreAnnotation annotationType='#{CAPTIONS_ANNOTATION}'>" +
           caption_url + '</pbcoreAnnotation>'
         )
     end
     
+    xml_holder = []
+    doc_with_caption_flag.write(xml_holder)
     {
       'id' => id,
-      'xml' => xml_with_caption_flag,
+      'xml' => xml_holder.join(),
 
       # constrained searches:
-      'text' => text + [caption_body],
+      'text' => text + [caption_body].select { |optional| optional },
+      # Unused at the moment, but let's continue to index so it could be re-enabled.
       'titles' => titles.map { |pair| pair.last },
       'contribs' => contribs,
 

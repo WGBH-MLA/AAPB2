@@ -95,7 +95,10 @@ describe 'Validated and plain PBCore' do
       assertions = {
         to_solr: {
           'id' => '1234',
-          'xml' => pbc_xml,
+          'xml' => pbc_xml.gsub(
+            "</pbcoreInstantiation>\n  <pbcoreAnnotation",
+            "</pbcoreInstantiation><pbcoreAnnotation annotationType='Captions URL'>https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt</pbcoreAnnotation>\n  <pbcoreAnnotation"
+          ),
           'episode_number_titles' => ['3-2-1'],
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
@@ -110,7 +113,8 @@ describe 'Validated and plain PBCore' do
             'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
             '1234', 'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts', #
-            'Moving Image', '1:23:45'],
+            'Moving Image', '1:23:45',
+            "1\n00:00:00,000 --> 00:00:20,000\nTest suite checks this string\n"],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
@@ -146,7 +150,7 @@ describe 'Validated and plain PBCore' do
         ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],
         media_srcs: ['/media/1234?part=1', '/media/1234?part=2'],
         img_src: "#{AAPB::S3_BASE}/thumbnail/1234.jpg",
-        captions_src: '/captions/1234.txt',
+        captions_src: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt',
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
         outside_url: 'http://www.wgbh.org/',
