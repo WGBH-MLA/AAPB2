@@ -219,7 +219,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
         pre_existing.parent.elements.delete(pre_existing)
       end
       caption_body = caption_response.body
-      REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling = 
+      REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling = 
         REXML::Document.new(
           "<pbcoreAnnotation annotationType='#{CAPTIONS_ANNOTATION}'>" +
           caption_url + '</pbcoreAnnotation>'

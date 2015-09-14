@@ -90,15 +90,10 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'full' do
-      pbc = PBCore.new(pbc_xml)
-
       assertions = {
         to_solr: {
           'id' => '1234',
-          'xml' => pbc_xml.gsub(
-            "</pbcoreInstantiation>\n  <pbcoreAnnotation",
-            "</pbcoreInstantiation><pbcoreAnnotation annotationType='Captions URL'>https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt</pbcoreAnnotation>\n  <pbcoreAnnotation"
-          ),
+          'xml' => pbc_xml,
           'episode_number_titles' => ['3-2-1'],
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
@@ -167,6 +162,8 @@ describe 'Validated and plain PBCore' do
         contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
         publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
       }
+
+      pbc = PBCore.new(pbc_xml)
 
       assertions.each do |method, value|
         it "\##{method} method works" do
