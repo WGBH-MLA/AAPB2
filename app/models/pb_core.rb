@@ -97,7 +97,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
   def captions_src
-    @captions_src ||= "/captions/#{id}.txt" if video?
+    @captions_src ||= begin
+      s3_id = id.gsub('_','-')
+      base = 'https://s3.amazonaws.com/americanarchive.org/captions'
+      "#{base}/#{s3_id}/#{s3_id}.srt1.srt" if video?
+    end
     # TODO: "CC" icon will show for all videos, even if caption isn't actually available.
   end
   def img_src
