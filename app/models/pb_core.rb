@@ -8,6 +8,7 @@ require_relative 'xml_backed'
 require_relative 'pb_core_instantiation'
 require_relative 'pb_core_name_role_affiliation'
 require_relative 'organization'
+require_relative '../../lib/formatter'
 
 class PBCore # rubocop:disable Metrics/ClassLength
   # rubocop:disable Style/EmptyLineBetweenDefs
@@ -226,11 +227,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
         )
     end
     
-    xml_holder = []
-    doc_with_caption_flag.write(xml_holder)
     {
       'id' => id,
-      'xml' => xml_holder.join(),
+      'xml' => Formatter.instance.format(doc_with_caption_flag),
 
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional },

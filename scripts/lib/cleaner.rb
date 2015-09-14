@@ -1,6 +1,7 @@
 require 'rexml/document'
 require 'set'
 require_relative '../../app/models/vocab_map'
+require_relative '../../lib/formatter'
 
 class Cleaner # rubocop:disable Metrics/ClassLength
   attr_reader :match
@@ -196,11 +197,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
 
     # formatting:
 
-    formatter = REXML::Formatters::Pretty.new(2)
-    formatter.compact = true
-    output = []
-    formatter.write(doc, output)
-    output.join('').sub("<\?xml version='1\.0' encoding='UTF-8'\?> \n", '')
+    Formatter.instance.format(doc).sub("<\?xml version='1\.0' encoding='UTF-8'\?> \n", '')
     # XML declaration seems to be output with trailing space, which makes tests just a bit annoying.
     # Just stripping it should be fine.
   end
