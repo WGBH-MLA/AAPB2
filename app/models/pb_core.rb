@@ -96,13 +96,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
+  CAPTIONS_ANNOTATION = 'Captions URL'
   def captions_src
-    @captions_src ||= begin
-      s3_id = id.gsub('_','-')
-      base = 'https://s3.amazonaws.com/americanarchive.org/captions'
-      "#{base}/#{s3_id}/#{s3_id}.srt1.srt" if video?
-    end
-    # TODO: "CC" icon will show for all videos, even if caption isn't actually available.
+    @captions_src ||= xpath("/*/pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']")
+  rescue NoMatchError
+    nil
   end
   def img_src
     @img_src ||=
@@ -203,12 +201,31 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # rubocop:enable Style/EmptyLineBetweenDefs
 
   def to_solr
+    # Only just before indexing do we check for the existence of captions:
+    # We don't want to ping S3 multiple times, and we don't want to store all
+    # of a captions/transcript file in solr (much less in the pbcore).
+    # --> We only want to say that it exists, and we want to index the words.
+    xml_with_caption_flag = @xml.clone
+    
+    caption_id = id.gsub('_','-')
+    caption_base = 'https://s3.amazonaws.com/americanarchive.org/captions'
+    caption_url = "#{caption_base}/#{caption_id}/#{caption_id}.srt1.srt"
+    caption_response = Net::HTTP.get_response(URI.parse(caption_url))
+    if caption_response.code == 200
+      caption_body = caption_response.body
+      REXML::XPath.match(xml_with_caption_flag, '/*/*pbcoreInstantiation').last.next_sibling = 
+        REXML::Document.new(
+          "<pbcoreAnnotation annotationType='#{CAPTIONS_ANNOTATION}'>" +
+          caption_url + '</pbcoreAnnotation>'
+        )
+    end
+    
     {
       'id' => id,
-      'xml' => @xml,
+      'xml' => xml_with_caption_flag,
 
       # constrained searches:
-      'text' => text,
+      'text' => text + [caption_body],
       'titles' => titles.map { |pair| pair.last },
       'contribs' => contribs,
 
