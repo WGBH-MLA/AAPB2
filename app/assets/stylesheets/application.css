@@ -726,6 +726,16 @@ hr {
 	width:100%;
 }
 
+	.view-all-gallery {
+		background: #454ea1 url(/site-ui/aapb-site-sprite.png) no-repeat -240px -675px;
+		text-align:center;
+	}
+
+	.view-all-gallery h3 {
+                color:#FFF;
+                padding: 0;
+	}
+
 
 	/* Featured Exhibit BUtton */
 	.btn-featured-record:link,
@@ -879,6 +889,13 @@ hr {
 	.column .navbar-nav > li {
 	  float: none;
 	}
+        
+.view-all-gallery {
+        text-align:left;
+}
+        .view-all-gallery h3 {
+                margin: 0;
+        }
 
 
 }/* END: Tablet ---------- */
