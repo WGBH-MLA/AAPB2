@@ -1,21 +1,29 @@
-require 'uri'
+require 'cgi'
 
 class AdvancedController < ApplicationController
   def create
-    redirect_to "/catalog?q=#{URI.encode(query)}"
+    redirect_to "/catalog?q=#{CGI.escape(query)}"
   end
   def query
     [
-      params[:all] && !params[:all].empty? ?
-        params[:all] : '',
-      params[:title] && !params[:title].empty? ?
-        "titles:\"#{params[:title]}\"" : '',
-      params[:exact] && !params[:exact].empty? ?
-        "\"#{params[:exact]}\"" : '',
-      params[:any] && !params[:any].empty? ?
-        "(#{params[:any].split(/\s+/).join(AAPB::QUERY_OR)})" : '',
-      params[:none] && !params[:none].empty? ?
-        params[:none].split(/\s+/).map { |term| "-#{term}" }.join(' ') : ''
-    ].join(' ').strip
+      !params[:all].empty? &&
+        self.class.prefix(params[:all], '+'),
+      
+      !params[:title].empty? &&
+        "+titles:\"#{params[:title]}\"",
+      
+      !params[:exact].empty? &&
+        "+\"#{params[:exact]}\"",
+      
+      !params[:any].empty? &&
+        self.class.prefix(params[:any], '', ' OR '),
+      
+      !params[:none].empty? &&
+        self.class.prefix(params[:none], '-')
+      
+    ].select { |clause| clause }.join(' ')
+  end
+  def self.prefix(terms, prefix, joint=' ')
+    terms.split(/\s+/).map { |term| "#{prefix}#{term}" }.join(joint)
   end
 end

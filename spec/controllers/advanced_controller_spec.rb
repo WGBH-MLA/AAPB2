@@ -2,20 +2,19 @@ require 'rails_helper'
 describe AdvancedController do
   describe 'redirection' do
     assertions = [
-      [{ all: 'all of these' }, 'all%20of%20these'],
-      [{ title: 'some title' }, 'titles:%22some%20title%22'],
-      [{ exact: 'exactly these' }, '%22exactly%20these%22'],
-      [{ any: 'any of these' }, '(any%20OR%20of%20OR%20these)'],
-      [{ none: 'none of these' }, '-none%20-of%20-these'],
+      [{ all: 'all of these' }, '+all +of +these'],
+      [{ title: 'some title' }, '+titles:"some title"'],
+      [{ exact: 'exactly these' }, '+"exactly these"'],
+      [{ any: 'any of these' }, 'any OR of OR these'],
+      [{ none: 'none of these' }, '-none -of -these'],
       [{ all: 'all', title: 'title', exact: 'exact', any: 'any', none: 'none' },
-       'all%20titles:%22title%22%20%22exact%22%20(any)%20-none']
+       '+all +titles:"title" +"exact" any -none']
     ]
-    assertions.each do |params, encoded|
+    assertions.each do |params, query|
       it "handles #{params}" do
-        post 'create', params
-        expect(response).to redirect_to(
-          "/catalog?q=#{encoded}"
-        )
+        # Form submission from browser will include all fields.
+        post 'create', { all: '', title: '', exact: '', any: '', none: '' }.merge(params)
+        expect(CGI.unescape(response.redirect_url.split('=')[1])).to eq(query)
       end
     end
   end
