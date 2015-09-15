@@ -54,9 +54,9 @@
         'War' => 'war OR battle',
         'Women' => 'women OR female OR feminism OR sexism',
       }.each.to_a.in_groups(6,false) do |group| %>
-        <div  class="col-md-2 col-sm-6 column">
+        <div  class="col-xs-4 col-md-2">
           <ul class="list-unstyled">
-            <% group.each do |term, q| 
+            <% group.each do |term, q|
                 q ||= term.downcase %>
               <li><a href="/catalog?q=<%= CGI::escape(q) %>"><%= term %></a></li>
             <% end %>
