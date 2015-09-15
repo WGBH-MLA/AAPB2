@@ -63,10 +63,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
-  def titles_sort
-    # TODO: If title is stable, remove this. https://github.com/WGBH/AAPB2/issues/569
-    @titles_sort ||= title
-  end
   def titles
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
@@ -238,7 +234,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'contribs' => contribs,
 
       # sort:
-      'title' => titles_sort,
+      'title' => title,
 
       # sort and facet:
       'year' => year,
@@ -269,8 +265,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src,
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
-               :titles_sort, :title, # Covered by #titles
-               :ci_ids, :instantiations, :outside_url, :exhibits]
+               :title, :ci_ids, :instantiations, :outside_url, :exhibits]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
