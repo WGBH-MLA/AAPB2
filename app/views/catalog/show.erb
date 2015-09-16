@@ -78,7 +78,13 @@
     <% else %>
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
       <div style="margin-top: 1em;">
-        <% if @pbcore.public? && !current_user.usa? %>
+        <% if @pbcore.outside_url %>
+          <%= link_to(
+            "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.organization.short_name}",
+            @pbcore.outside_url,
+            {target: '_blank'}
+          ) %>
+        <% elsif @pbcore.public? && !current_user.usa? %>
           Please note: This content is currently not available for viewing at your location.
         <% elsif @pbcore.protected? %>
           Please note: This content is only available for viewing at WGBH and 
@@ -92,11 +98,6 @@
           Please note: This content has not been digitized. For inquiries regarding access, 
           please contact <%= link_to @pbcore.organization.short_name, @pbcore.organization.url %>.
         <% end %>
-      </div>
-    <% end %>
-    <% if @pbcore.outside_url %>
-      <div style="margin-top: 1em;">
-        <a href="<%= @pbcore.outside_url %>" target="_blank">View at <%= @pbcore.organization.short_name %></a>
       </div>
     <% end %>
   </div>
