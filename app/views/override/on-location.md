@@ -24,6 +24,8 @@ The AAPB Collection must be acknowledged in publications as follows: [name of Co
 
 ## Visiting the Library of Congress
 
+![Library of Congress Building](https://s3.amazonaws.com/americanarchive.org/on-location/library-exterior.jpg "Courtesy of the Library of Congress")
+
 The Library of Congress Motion Picture and Recorded Sound Division contains two sections, Recorded Sound and Moving Image. These two sections have distinct policies and procedures regarding on-site access. 
 
 ### Recorded Sound Section
