@@ -61,14 +61,16 @@
   <% end %>
     
   <% if @exhibit.items.count > gallery_size %>
-    <p style="text-align: center;">
-      <a href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>" class="btn btn-primary">
-        Show All <%= @exhibit.items.count %>
-      </a>
-    </p>
+    <div class="panel panel-primary view-all-gallery">
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-sm-9"><h3><%= @exhibit.title %></h3></div>
+          <div class="col-sm-3"><a class="btn btn-primary" href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>">Show All Items</a></div>
+        </div>
+      </div>
+    </div>
   <% end %>
-  
-  <hr/>
+  <br/>
   
   <%= @exhibit.main_formatted.html_safe %>
   
