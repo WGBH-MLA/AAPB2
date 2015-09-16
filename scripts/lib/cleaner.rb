@@ -88,12 +88,14 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       genre = @genre_type_map.map_string(node.text)
       topic = @topic_type_map.map_string(node.text)
 
-      if topic.empty? && !genre.empty?
+      if !genre.empty? && topic.empty?
         node.text = genre
         node.add_attribute('annotation', 'genre')
       elsif genre.empty? && !topic.empty?
         node.text = topic
         node.add_attribute('annotation', 'topic')
+      elsif !genre.empty? && !topic.empty?
+        fail "Single term would map to both topic and genre:\n  '#{node.text}' -> '#{genre}' or '#{topic}'"
       else
         Cleaner.delete(node)
       end

@@ -107,8 +107,7 @@ describe 'Catalog' do
       describe 'facets' do
         assertions = [
           ['media_type', 1, 'Sound', 8],
-          ['genres', 1, 'Interview', 3],
-          ['topics', 1, 'Music', 1],
+          ['genres', 2, 'Interview', 3],
           ['asset_type', 1, 'Segment', 5],
           ['year', 1, '2000', 1],
           ['organization', 31, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
