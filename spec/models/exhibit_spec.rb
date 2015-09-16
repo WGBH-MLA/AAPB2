@@ -15,6 +15,7 @@ describe Exhibit do
       ancestors: [
         MockExhibit.find_by_path('parent'),
         MockExhibit.find_by_path('parent/child')],
+      parent: MockExhibit.find_by_path('parent/child'),
       children: [
         MockExhibit.find_by_path('parent/child/grandchild/greatgrandchild1'),
         MockExhibit.find_by_path('parent/child/grandchild/greatgrandchild2')],
