@@ -6,6 +6,7 @@
 Members of the general public may access the American Archive of Public Broadcasting metadata records and proxy files within the WGBH Media Library and Archives offices and at the Library of Congress Moving Image and Recorded Sound Research Centers. Users accessing AAPB materials at the on-site research locations must agree to abide by AAPB Access Policies. 
 
 ## Visiting WGBH
+![WGBH Building](https://s3.amazonaws.com/americanarchive.org/on-location/wgbh-exterior.jpg "Courtesy of WGBH")
 Hours and Location:<br/>
 8 am to 5 pm, Monday through Friday<br/>
 WGBH Educational Foundation<br/>
