@@ -96,7 +96,11 @@
     <% end %>
     <% if @pbcore.outside_url %>
       <div style="margin-top: 1em;">
-        <a href="<%= @pbcore.outside_url %>" target="_blank">View at <%= @pbcore.organization.short_name %></a>
+        <%= link_to(
+          "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.organization.short_name}",
+          @pbcore.outside_url,
+          {target: '_blank'}
+        ) %>
       </div>
     <% end %>
   </div>
