@@ -129,7 +129,6 @@ describe 'Validated and plain PBCore' do
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['Date', '2000-01-01']],
-        titles_sort: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
         titles: [['Series', 'Nova'], ['Program', 'Gratuitous Explosions'], #
                  ['Episode Number', '3-2-1'], ['Episode', 'Kaboom!']],
         title: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
