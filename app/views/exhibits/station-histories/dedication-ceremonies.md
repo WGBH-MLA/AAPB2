@@ -15,13 +15,6 @@ Dedication ceremonies of new buildings and facilities signify that a station is 
 
 Much as communities come together to celebrate achievements, they also come together to mourn losses. That is why the this section also includes the announcement made by WGBH executives David Ives and Hartford Gunn after the massive fire that destroyed their studios in 1961.
 
-## Author
-
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
-
-### [Sadie Roosa](/about-the-american-archive/staff#sadie-roosa)
-AAPB Metadata Specialist
-
 ## Resources
 
 ## Main

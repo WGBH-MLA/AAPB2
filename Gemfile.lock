@@ -74,7 +74,7 @@ GEM
       xpath (~> 2.0)
     childprocess (0.5.5)
       ffi (~> 1.0, >= 1.0.11)
-    cmless (0.0.5)
+    cmless (0.0.8)
       nokogiri (~> 1.6)
       redcarpet (~> 3.2)
     coderay (1.1.0)
@@ -266,7 +266,7 @@ DEPENDENCIES
   capistrano-passenger
   capistrano-rails
   capybara
-  cmless (= 0.0.5)
+  cmless (= 0.0.8)
   coffee-rails (~> 4.0.0)
   curb
   geoip

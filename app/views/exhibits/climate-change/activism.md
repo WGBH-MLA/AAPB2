@@ -19,13 +19,6 @@ In 2008, McKibben and a group of college students founded 350.org, a grassroots 
 
 Next: [Causes of Climate Change](causes)
 
-## Author
-
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
-
-### [Casey E. Davis](/about-the-american-archive/staff#casey-e-davis) 
-AAPB Project Manager
-
 ## Main
 
 ## Resources

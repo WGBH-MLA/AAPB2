@@ -19,13 +19,6 @@ But perceptions are changing, and people are becoming more aware of the problem.
 
 Next: [Communicating Climate Change through Art](communicating-art)
 
-## Author
-
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
-
-### [Casey E. Davis](/about-the-american-archive/staff#casey-e-davis) 
-AAPB Project Manager
-
 ## Main
 
 ## Resources

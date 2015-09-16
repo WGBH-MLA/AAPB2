@@ -11,13 +11,6 @@
 
 Birthdays and anniversaries are natural occasions on which to look back at how you got to where you are. Many public broadcasting stations have taken the opportunity to do just that in these anniversary specials, which bring together historical overviews, conversations with staff that have been at the stations since their foundings, and a sense of how the stations have become integral parts of their communities.
 
-## Author
-
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
-
-### [Sadie Roosa](/about-the-american-archive/staff#sadie-roosa)
-AAPB Metadata Specialist
-
 ## Resources
 
 ## Main
