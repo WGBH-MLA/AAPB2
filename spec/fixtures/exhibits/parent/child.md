@@ -6,10 +6,6 @@
 
 Summary goes here.
 
-## Author
-
-Author goes here.
-
 ## Resources
 
 - [LoC](http://loc.gov)

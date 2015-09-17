@@ -45,7 +45,7 @@ gem 'capistrano-passenger', :group => :development
 
 gem 'blacklight-sitemap', '~> 2.0.0'
 
-gem 'cmless', '0.0.5'
+gem 'cmless', '0.0.8'
 
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
