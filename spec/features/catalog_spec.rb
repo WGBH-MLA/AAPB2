@@ -227,7 +227,7 @@ describe 'Catalog' do
         describe 'in list' do
           it 'has exhibit description' do
             visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
-            expect(page).to have_text('documents and celebrates stations\' histories')
+            expect(page).to have_text('Every public broadcasting station')
           end
 
           it 'has individual descriptions' do
