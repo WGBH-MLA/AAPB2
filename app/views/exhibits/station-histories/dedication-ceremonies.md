@@ -1,8 +1,9 @@
 # Dedication Ceremonies
 
+2
+
 ![Dedicating New Facilities](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image1.jpg)
 
-[Dedication ceremony of Arkansas’ new Educational Broadcasting Facility](/catalog/cpb-aacip_111-21ghx7d6)
 [Dedication ceremony of the KOCE/PBS SoCaL station](/catalog/cpb-aacip_221-76f1vwh1)
 [Dedication ceremony of the WXXI facilities](/catalog/cpb-aacip_189-56n0319k)
 [Dedication ceremony of the WNED facilities](/catalog/cpb-aacip_81-8380gndb)
