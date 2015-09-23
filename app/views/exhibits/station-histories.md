@@ -1,4 +1,4 @@
-# Station Histories
+# Documenting and Celebrating Public Broadcasting Station Histories
 
 ![Early WGBH Control Room](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg)
 
@@ -16,17 +16,19 @@ AAPB Metadata Specialist
 ## Resources
 
 - [Rocky Mountain PBS Station's Archived Memories](http://www.rmpbs.org/volunteer/sam/about-stations-archived-memories-sam/)
+- [Louisiana Digital Media Archive](http://www.ladigitalmedia.org/)
+- [New York Public Radio Archives](http://www.wnyc.org/series/archives-and-preservation/)
+- [WNET Thirteen Archives](http://www.thirteen.org/about/archives/)
 
 ## Main
 
-Public broadcasting began at the local level, and each public broadcasting station’s history is unique and tied closely to its community.
+Public broadcasting began at the local level. Each station’s history is unique and tied closely to the community it serves. 
 
-Many stations started out when the technology, whether radio or television, was new and largely untested. For example, WILL [get quote from Jack’s piece].
+Many early educational stations started out when broadcast technology, whether radio or television, was new and largely untested, especially at large universities that used the new means of communication to extend their mission beyond classrooms and campuses. A University of Illinois professor remembers that one radio station on campus [“was in somebody’s laboratory, and then pretty soon its operations got too big for that laboratory, and they had to provide a bigger space for them.”](http://americanarchive.org/catalog/cpb-aacip_16-79v15q57)
 
-In other cases, people decided that public broadcasting was the best way to address a need in their communities. For Arkansas, this occurred at the state level, with the establishment of the Arkansas Education Television Network, which was championed by state politicians. On the other side of the country, Radio Bilingue was created in Fresno, California to provide better information to the Spanish-speaking community there.
+In other cases, people decided that public broadcasting was the best way to address needs in larger communities. In Arkansas, this occurred at the state level, with the establishment of the Arkansas Educational Television Network, championed by state politicians. Radio Bilingue, created in Fresno, California, to provide better information to the local Spanish-speaking community, eventually extended its reach to the larger Latino community throughout the nation. 
 
-Because of their varied histories and communities, each station’s mission is different; however, they are all dedicated to providing quality programming that addresses their audience’s interests and needs.
+Because of their varied histories and communities, each station’s mission is different; however, they all are dedicated to providing quality programming that addresses their audience’s interests and needs. This exhibition presents examples of stations setting out on their missions, reaching milestones, and looking back to evaluate how well they’ve accomplished their goals. 
 
-In this exhibition are some examples of stations setting out on their missions, reaching milestones needed to achieve those missions, and looking back to evaluate how well they’ve accomplished those missions.
+Many of the stations participating in the AAPB have well-documented histories available on their websites. (Links to each station’s website can be found in our [Participating Organizations](http://americanarchive.org/participating-orgs) page.) This exhibition is intended to highlight pieces of audiovisual content that serve both as documents about and artifacts of specific station’s histories. Each item in the exhibition has captured a moment in time. We’re lucky that in the midst of producing so much engaging, educational, public-focused, and audience-driven content, these stations also took the time and the pride in their work to document their own histories, so that we can better remember them now. 
 
-Many of the stations participating in the AAPB have well-documented histories, which you can read about on their websites (links to each station’s website are available on their organization page). This exhibition is not trying to comprehensively cover the breadth of public broadcasting’s history, but rather is intended to highlight pieces of audiovisual content, which serve as both documents about and artifacts of specific station’s histories. Each item in the exhibition has captured a moment in time. We’re very lucky that in the midst of producing so much amazing, educational, public-focused, and audience-driven content, these stations also took the time and the pride in their work to document their own histories, so that we can better remember them now.
