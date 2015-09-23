@@ -4,11 +4,11 @@
 
 ![Dedicating New Facilities](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image1.jpg)
 
-5. [Dedication ceremony of the WXXI facilities](/catalog/cpb-aacip_189-56n0319k)
+5. [Dedication ceremony of the WXXI Public Broadcasting Center](/catalog/cpb-aacip_189-56n0319k)
 6. [Dedication ceremony of the WNED facilities](/catalog/cpb-aacip_81-8380gndb)
 7. [Dedication ceremony of Vilas Communication Hall, Wisconsin Public Broadcasting facilities](/catalog/cpb-aacip_30-89281bqr)
-8. [Dedication ceremony of the KOCE/PBS SoCaL station](/catalog/cpb-aacip_221-76f1vwh1)
-9. [Announcement After WGBH Fire (1961) ](/catalog/cpb-aacip_15-19s1rwtr)
+8. [Dedication ceremony of the KOCE/PBS SoCaL](/catalog/cpb-aacip_221-76f1vwh1)
+9. [Announcement After WGBH Fire in 1961](/catalog/cpb-aacip_15-19s1rwtr)
 
 ## Summary
 
