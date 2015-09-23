@@ -4,7 +4,7 @@
 
 ## Summary
 
-This exhibit focuses on content that documents and celebrates stations' histories. 
+Every public broadcasting station starts their history with a first broadcast, but these first moments on the air are only the beginning in terms of important milestones in a station’s history. Public broadcasting stations have continued to grow and evolve through out the twentieth and twenty-first centuries, implementing new technologies, building new facilities, and working tirelessly to address the expanding needs of their audiences. Many stations were able to record and preserve these moments, some of which we are fortunate enough to have in the AAPB, and which we want to share with you in this exhibit. 
 
 ## Author
 
@@ -28,7 +28,7 @@ Many early educational stations started out when broadcast technology, whether r
 
 In other cases, people decided that public broadcasting was the best way to address needs in larger communities. In Arkansas, this occurred at the state level, with the establishment of the Arkansas Educational Television Network, championed by state politicians. Radio Bilingue, created in Fresno, California, to provide better information to the local Spanish-speaking community, eventually extended its reach to the larger Latino community throughout the nation. 
 
-Because of their varied histories and communities, each station’s mission is different; however, they all are dedicated to providing quality programming that addresses their audience’s interests and needs. This exhibition presents examples of stations setting out on their missions, reaching milestones, and looking back to evaluate how well they’ve accomplished their goals. 
+Because of their varied histories and communities, each station’s mission is different; however, they all are dedicated to providing quality programming that addresses their audience’s interests and needs. This exhibi presents examples of stations setting out on their missions, reaching milestones, and looking back to evaluate how well they’ve accomplished their goals. 
 
-Many of the stations participating in the AAPB have well-documented histories available on their websites. (Links to each station’s website can be found in our [Participating Organizations](http://americanarchive.org/participating-orgs) page.) This exhibition is intended to highlight pieces of audiovisual content that serve both as documents about and artifacts of specific station’s histories. Each item in the exhibition has captured a moment in time. We’re lucky that in the midst of producing so much engaging, educational, public-focused, and audience-driven content, these stations also took the time and the pride in their work to document their own histories, so that we can better remember them now. 
+Many of the stations participating in the AAPB have well-documented histories available on their websites. (Links to each station’s website can be found in our [Participating Organizations](http://americanarchive.org/participating-orgs) page.) This exhibit is intended to highlight pieces of audiovisual content that serve both as documents about and artifacts of specific station’s histories. Each item in the exhibit has captured a moment in time. We’re lucky that in the midst of producing so much engaging, educational, public-focused, and audience-driven content, these stations also took the time and the pride in their work to document their own histories, so that we can better remember them now. 
 
