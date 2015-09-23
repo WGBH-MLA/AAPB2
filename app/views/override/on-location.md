@@ -6,6 +6,9 @@
 Members of the general public may access the American Archive of Public Broadcasting metadata records and proxy files within the WGBH Media Library and Archives offices and at the Library of Congress Moving Image and Recorded Sound Research Centers. Users accessing AAPB materials at the on-site research locations must agree to abide by AAPB Access Policies. 
 
 ## Visiting WGBH
+
+![WGBH Building](https://s3.amazonaws.com/americanarchive.org/on-location/wgbh-exterior.jpg "Courtesy of WGBH")
+
 Hours and Location:<br/>
 8 am to 5 pm, Monday through Friday<br/>
 WGBH Educational Foundation<br/>
@@ -20,6 +23,8 @@ The Media Library and Archives will provide appropriate reference services and r
 The AAPB Collection must be acknowledged in publications as follows: [name of Contributing Organization], American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC. The Media Library and Archives will receive free of charge, one copy of any paper, book, thesis, or article drawing substantially on materials from the AAPB. 
 
 ## Visiting the Library of Congress
+
+![Library of Congress Building](https://s3.amazonaws.com/americanarchive.org/on-location/library-exterior.jpg "Courtesy of the Library of Congress")
 
 The Library of Congress Motion Picture and Recorded Sound Division contains two sections, Recorded Sound and Moving Image. These two sections have distinct policies and procedures regarding on-site access. 
 
