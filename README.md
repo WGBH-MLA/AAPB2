@@ -136,3 +136,38 @@ in how data is pulled from PBCore for display, it does not require a re-index.
 # Data Flow
 
 ![data flow diagram](https://cdn.rawgit.com/WGBH/AAPB2/master/docs/aapb-data-flow.svg?v2)
+
+# API
+
+Data from the AAPB is available via an API. At this moment the API is experimental:
+No key is required, but we also do not guarantee continued availability. If you just
+need one or a small number of records in machine-readable form, append `.pbcore` to 
+the item URL to get [PBCore XML](http://pbcore.org/):
+
+- PBCore: [`/catalog/cpb-aacip_305-7312jttj.pbcore`](http://americanarchive.org/catalog/cpb-aacip_305-7312jttj.pbcore)
+
+If you need multiple records, or are interested in summary statistics across the collection,
+an advanced API provides limited access to the underlying Solr index. XML, JSON, and JSONP
+are available. (CORS has not yet been enabled for XML and JSON).
+
+- XML: [`/api.xml?q=asimov&fl=id,title,xml&rows=3`](http://americanarchive.org/api.xml?q=asimov&fl=id,title,xml&rows=3)
+- JSON: [`/api.json?q=asimov&fl=id,title&rows=3`](http://americanarchive.org/api.json?q=asimov&fl=id,title&rows=3)
+- JSONP: [`/api.js?callback=my_callback&q=asimov&fl=id,title&rows=3`](http://americanarchive.org/api.js?callback=my_callback&q=asimov&fl=id,title&rows=3)
+
+Note that while the PBCore XML is available through this API, it is simply represented
+as a string within the container: Even with the XML response type a first parse would
+be necessary to extract the PBCore, which could then in its turn be parsed.
+
+Solr query syntax is beyond the scope of this document, but 
+[extensive documentation](http://wiki.apache.org/solr/CommonQueryParameters) is available.
+**NOTE**: Repeated parameters must be followed by `[]` when using the API. This is different
+from native Solr syntax. For example:
+[`facet.field[]=state&facet.field[]=year`](http://americanarchive.org/api.json?facet=true&q=asimov&facet.field[]=state&facet.field[]=year)
+
+The available facets correspond closely to what is available through the UI,
+but check the [schema](https://raw.githubusercontent.com/WGBH/AAPB2/master/solr_conf/schema.xml) 
+in this repo if you are curious.
+
+We've made a few simple D3 [visualizations](http://mccalluc.github.io/alt-aapb/) 
+of the AAPB collection that suggest some of the possibilities. If you build anything interesting, 
+we'd love to hear about it, and if we have your email, we'll try to notify you about changes to the API.
