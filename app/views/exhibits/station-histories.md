@@ -19,6 +19,9 @@ AAPB Metadata Specialist
 - [Louisiana Digital Media Archive](http://www.ladigitalmedia.org/)
 - [New York Public Radio Archives](http://www.wnyc.org/series/archives-and-preservation/)
 - [WNET Thirteen Archives](http://www.thirteen.org/about/archives/)
+- [WYSO Public Radio Digital Archives](http://www.greenecountyroom.info/cdm/landingpage/collection/WYSOProgram)
+- [Minnesota Public Radio Archive](http://archive.mprnews.org/)
+- [Pacifica Radio Archives](http://audio.pacificaradioarchives.org/)
 
 ## Main
 
