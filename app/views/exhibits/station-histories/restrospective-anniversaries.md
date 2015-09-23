@@ -5,9 +5,9 @@
 ![Anniversary Specials](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image2.jpg)
 
 
-- [MPBN 20th Birthday Scrapbook](/catalog/cpb-aacip_245-214mwb7d)
-- [WILL 75th Anniversary Celebration](/catalog/cpb-aacip_16-79v15q57)
-- [KUT 30th Anniversary Dinner](/catalog/cpb-aacip_402-70zpch1s)
+10. [MPBN 20th Birthday Scrapbook](/catalog/cpb-aacip_245-214mwb7d)
+11. [WILL 75th Anniversary Celebration](/catalog/cpb-aacip_16-79v15q57)
+12. [KUT 30th Anniversary Dinner](/catalog/cpb-aacip_402-70zpch1s)
 
 ## Summary
 
