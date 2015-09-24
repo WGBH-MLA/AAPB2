@@ -6,7 +6,15 @@
   h3, h4 {margin-bottom: 0;}
 </style>
 
-The AAPB Executive Advisory Council is a group of individuals from around the country who are passionate about public media and its long-term preservation and access. The purpose of the Council is to inform and guide the strategic direction of the AAPB with the overarching goal of ensuring that the Archive continues to serve the needs of public media stakeholders and the American people.
+The AAPB Executive Advisory Council comprises a distinguished group of individuals from around the country who are passionate about public media and its long-term preservation and access. The Council will inform and guide the strategic direction of the AAPB with the overarching goal of ensuring that the Archive continues to serve the needs of public media stakeholders and the American people.
+
+The Council will provide guidance to the Project Team in the following ways:
+-Provide advice and recommendations on strategic direction
+-Collaborate with the AAPB team on initiatives to raise awareness of the collection among cultural institutions and the general public
+-Assist in outreach to their networks and communities (public media organizations and leaders, educators, government officials and agencies, foundations, journalists, historians, librarians, technology developers, etc.) and beyond
+-Guide the AAPB in developing a sustainability plan and its fundraising components.
+
+---
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Henry_Becton.jpg"/>
 ### Henry Becton
