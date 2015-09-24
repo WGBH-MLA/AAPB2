@@ -510,7 +510,7 @@
    <field name="xml" 
           type="string" indexed="false" stored="true" multiValued="false"/>
    <field name="captions"
-          type="string" indexed="false" stored="true" multiValued="false"/>
+          type="string" indexed="true" stored="false" multiValued="false"/>
    
    <field name="exhibits"
           type="string" indexed="true" stored="true" multiValued="true"/>
