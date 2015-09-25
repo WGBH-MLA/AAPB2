@@ -1,0 +1,6 @@
+<ul class="list-unstyled">
+  <% group.each do |term, q| 
+    q ||= term.downcase %>
+    <li><a href="/catalog?q=<%= CGI::escape(q) %>"><%= term %></a></li>
+  <% end %>
+</ul>

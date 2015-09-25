@@ -946,25 +946,6 @@ hr {
   padding-right: 1em;
 }
 
-/*Browse THe Collection*/
-.browsable ul a {
-    transition: all .1s ease-in-out;
-    background-color:rgba(255,255,255,.25);
-    text-align: center;
-    color:#FFF;
-    display:block;
-    margin:0 0 1px;
-    padding:.5em;
-}
-
-/*Browse THe Collection*/
-.browsable ul a:hover {
-    background-color:rgba(255,255,255,.1);
-    text-decoration:none;
-    transform: scale(1.2);
-}
-
-
 /* --------- */
 /* FOOTER STYLES --------- */
 /* --------- */

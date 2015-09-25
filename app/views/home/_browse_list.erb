@@ -21,7 +21,7 @@
         'Education' => 'education OR school OR teach',
         'Energy' => nil,
         'Earth and Environment' => 'earth OR environment OR conservation OR pollution OR "climate change" OR "global warming"',
-        'Event Coverage' => 'event coverage OR speech OR lecture',
+        'Event Coverage' => '"event coverage" OR speech OR lecture',
         'Fine Arts' => 'art',
         'Gardening' => 'garden',
         'Global Affairs' => '"global affairs" OR "international affairs" OR "world affairs"',
@@ -53,15 +53,17 @@
         'Unedited' => nil,
         'War' => 'war OR battle',
         'Women' => 'women OR female OR feminism OR sexism',
-      }.each.to_a.in_groups(6,false) do |group| %>
-        <div  class="col-md-2 col-sm-6 column">
-          <ul class="list-unstyled">
-            <% group.each do |term, q| 
-                q ||= term.downcase %>
-              <li><a href="/catalog?q=<%= CGI::escape(q) %>"><%= term %></a></li>
-            <% end %>
-          </ul>
-        </div>
+      }.each.to_a.tap do |terms| %>
+        <% terms.in_groups(6,false) do |group| %>
+          <div class="col-md-2 hidden-xs hidden-sm">
+            <%= render partial: 'home/browse_list_group', locals: { group: group } %>
+          </div>
+        <% end %>
+        <% terms.in_groups(3,false) do |group| %>
+          <div class="col-xs-4 hidden-md hidden-lg">
+            <%= render partial: 'home/browse_list_group', locals: { group: group }  %>
+          </div>
+        <% end %>
       <% end %>
     </div>
 </div>
