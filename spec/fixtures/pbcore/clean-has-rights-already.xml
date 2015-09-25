@@ -9,7 +9,7 @@
     We will cover a range of issues with her: The Puget Sound, transportation,
     the economy, trade and education. What questions do you have?
   </pbcoreDescription>
-  <pbcoreGenre annotation='topic'>News</pbcoreGenre>
+  <pbcoreGenre annotation='genre'>News Report</pbcoreGenre>
   <pbcoreCoverage>
     <coverage>Seattle WA</coverage>
     <coverageType>Spatial</coverageType>
