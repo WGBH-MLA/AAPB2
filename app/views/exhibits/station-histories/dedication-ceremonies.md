@@ -9,6 +9,7 @@
 7. [Dedication ceremony of Vilas Communication Hall, Wisconsin Public Broadcasting facilities](/catalog/cpb-aacip_30-89281bqr)
 8. [Dedication ceremony of the KOCE/PBS SoCaL](/catalog/cpb-aacip_221-76f1vwh1)
 9. [Announcement After WGBH Fire in 1961](/catalog/cpb-aacip_15-19s1rwtr)
+10. [Dedication ceremony of Arkansas’ new Educational Broadcasting Facility](/catalog/cpb-aacip_111-21ghx7d6)
 
 ## Summary
 
