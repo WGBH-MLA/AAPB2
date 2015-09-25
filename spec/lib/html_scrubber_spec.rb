@@ -52,6 +52,12 @@ describe HtmlScrubber do
       '/ /??/'
     ].join("\n")
   end
+  it 'leaves name slashes in place' do
+    expect(HtmlScrubber.scrub('Stunk/White slash fiction')).to eq 'Stunk/White slash fiction'
+  end
+  it 'leaves date slashes in place' do
+    expect(HtmlScrubber.scrub('7/4/1776')).to eq '7/4/1776'
+  end
   it 'handles capitalized tags' do
     expect(HtmlScrubber.scrub(
              <<-EOF
