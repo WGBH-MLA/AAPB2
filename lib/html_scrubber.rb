@@ -17,7 +17,6 @@ class HtmlScrubber
     if dirty.match(/\/\w+/)
       # Angle-brackets stripped, so be more aggressive
       dirty = dirty.gsub(/\w+=\S+/, ' ')
-              .gsub(/\b\/\w+/, '')
     end
 
     dirty.gsub(/[ \t]+/, ' ')
