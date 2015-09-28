@@ -40,7 +40,7 @@ class PBCoreIngester
   def ingest(opts)
     path = opts[:path]
     is_batch_commit = opts[:is_batch_commit]
-    cleaner = Cleaner.new
+    cleaner = Cleaner.instance
 
     begin
       xml = File.read(path)
