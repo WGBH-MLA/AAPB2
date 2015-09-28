@@ -5,6 +5,7 @@
   <pbcoreTitle titleType='Raw Footage'>MSOM Field Tape - BUG 12</pbcoreTitle>
   <pbcoreDescription>MSOM Field Tape - BUG 11 C. Miller part 2</pbcoreDescription>
   <pbcoreGenre annotation='genre'>Magazine</pbcoreGenre>
+  <pbcoreGenre annotation='topic'>News</pbcoreGenre>
   <pbcoreCoverage>
     <coverage>Local</coverage>
     <coverageType>Spatial</coverageType>

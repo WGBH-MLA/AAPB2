@@ -96,7 +96,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
         node.add_attribute('annotation', 'topic')
       elsif !genre.empty? && !topic.empty?
         genre_node = node
-        topic_node = node.dup
+        topic_node = node.clone
         
         genre_node.text = genre
         genre_node.add_attribute('annotation', 'genre')
