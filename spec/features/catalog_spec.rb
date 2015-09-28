@@ -107,13 +107,21 @@ describe 'Catalog' do
       describe 'facets' do
         assertions = [
           ['media_type', 1, 'Sound', 8],
-          ['genres', 1, 'Interview', 3],
+          ['genres', 2, 'Interview', 3],
           ['topics', 1, 'Music', 1],
           ['asset_type', 1, 'Segment', 5],
-          ['year', 1, '2000', 1],
           ['organization', 31, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
+          ['year', 1, '2000', 1],
           ['access_types', 3, PBCore::ALL_ACCESS, 24]
         ]
+        it 'has them all' do
+          visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
+          expect(
+            page.all('.panel-heading[data-target]').map do |node|
+              node['data-target'].gsub('#facet-', '')
+            end
+          ).to eq(assertions.map { |a| a.first }) # coverage
+        end
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
           it "#{facet}=#{value}: #{value_count}\t#{url}" do
@@ -121,11 +129,6 @@ describe 'Catalog' do
             expect(
               page.all("#facet-#{facet} li a").count
             ).to eq facet_count # expected number of values for each facet
-            expect(
-              page.all('.panel-heading[data-target]').map do |node|
-                node['data-target'].gsub('#facet-', '')
-              end - ['year'] # years are sparse, so they may drop out of the facet list.
-            ).to eq(assertions.map { |a| a.first } - ['year']) # coverage
             expect(page.status_code).to eq(200)
             expect_count(value_count)
             expect_fuzzy_xml

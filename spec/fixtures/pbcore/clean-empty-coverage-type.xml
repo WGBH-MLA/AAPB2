@@ -9,7 +9,7 @@
   <pbcoreSubject>Interview</pbcoreSubject>
   <pbcoreDescription>No description available</pbcoreDescription>
   <pbcoreGenre annotation='genre'>Interview</pbcoreGenre>
-  <pbcoreGenre source='AACIP-IVL-Genre' annotation='topic'>Performance</pbcoreGenre>
+  <pbcoreGenre source='AACIP-IVL-Genre' annotation='genre'>Performance</pbcoreGenre>
   <pbcoreContributor>
     <contributor>WXPN</contributor>
     <contributorRole>Producer</contributorRole>

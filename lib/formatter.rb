@@ -1,4 +1,5 @@
 require 'rexml/document'
+require 'singleton'
 
 class Formatter
   include Singleton

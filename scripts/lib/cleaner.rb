@@ -4,7 +4,7 @@ require_relative '../../app/models/vocab_map'
 require_relative '../../lib/formatter'
 
 class Cleaner # rubocop:disable Metrics/ClassLength
-  attr_reader :match
+  include Singleton
 
   def initialize
     @asset_type_map = VocabMap.for('asset')
@@ -88,12 +88,23 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       genre = @genre_type_map.map_string(node.text)
       topic = @topic_type_map.map_string(node.text)
 
-      if topic.empty? && !genre.empty?
+      if !genre.empty? && topic.empty?
         node.text = genre
         node.add_attribute('annotation', 'genre')
       elsif genre.empty? && !topic.empty?
         node.text = topic
         node.add_attribute('annotation', 'topic')
+      elsif !genre.empty? && !topic.empty?
+        genre_node = node
+        topic_node = node.clone
+        
+        genre_node.text = genre
+        genre_node.add_attribute('annotation', 'genre')
+        
+        topic_node.text = topic
+        topic_node.add_attribute('annotation', 'topic')
+        
+        genre_node.next_sibling = topic_node
       else
         Cleaner.delete(node)
       end
