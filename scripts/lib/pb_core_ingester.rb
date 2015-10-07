@@ -43,7 +43,7 @@ class PBCoreIngester
     cleaner = Cleaner.instance
 
     begin
-      xml = File.read(path)
+      xml = Zipper.read(path)
     rescue => e
       record_error(e, path)
       return
