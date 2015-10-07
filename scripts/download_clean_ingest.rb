@@ -170,24 +170,25 @@ class DownloadCleanIngest
   end
 
   def process
-    ingester = PBCoreIngester.new(is_same_mount: @is_same_mount)
+    @ingester = PBCoreIngester.new(is_same_mount: @is_same_mount)
 
     @files.each do |path|
       begin
-        success_count_before = ingester.success_count
-        error_count_before = ingester.errors.values.flatten.count
-        ingester.ingest(path: path, is_batch_commit: @is_batch_commit)
-        success_count_after = ingester.success_count
-        error_count_after = ingester.errors.values.flatten.count
+        success_count_before = @ingester.success_count
+        error_count_before = @ingester.errors.values.flatten.count
+        @ingester.ingest(path: path, is_batch_commit: @is_batch_commit)
+        success_count_after = @ingester.success_count
+        error_count_after = @ingester.errors.values.flatten.count
         $LOG.info("Processed '#{path}' #{'but not committed' if @is_batch_commit}")
         $LOG.info("success: #{success_count_after - success_count_before}; " \
           "error: #{error_count_after - error_count_before}")
+        log_summary # TODO: Another flag to make this conditional?
       end
     end
 
     if @is_batch_commit
       $LOG.info('Starting one big commit...')
-      ingester.commit
+      @ingester.commit
       $LOG.info('Finished one big commit.')
     end
 
@@ -201,24 +202,26 @@ class DownloadCleanIngest
       $LOG.info('Finished sitemap generation.')
     end
 
-    errors = ingester.errors.sort # So related errors are together
+    $LOG.info('DONE')
+  end
+  
+  def log_summary
+    errors = @ingester.errors.sort # So related errors are together
     error_count = errors.map{|pair| pair[1]}.flatten.count
-    success_count = ingester.success_count
+    success_count = @ingester.success_count
     total_count = error_count + success_count
 
     $LOG.info('SUMMARY: DETAIL')
     errors.each {|type, list|
       $LOG.warn("#{list.count} #{type} errors:\n#{list.join("\n")}")
     }
-
+      
     $LOG.info('SUMMARY: STATS')
     $LOG.info('(Look just above for details on each error.)')
     errors.each {|type, list|
       $LOG.warn("#{list.count} (#{percent(list.count, total_count)}%) #{type}")
     }
     $LOG.info("#{success_count} (#{percent(success_count, total_count)}%) succeeded")
-
-    $LOG.info('DONE')
   end
   
   def percent(part, whole)
