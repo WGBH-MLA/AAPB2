@@ -7,7 +7,6 @@ class RobotsController < ApplicationController
                        <<EOF
 User-agent: *
 Disallow: /catalog?
-Sitemap: http://#{REAL_HOST}/blacklight-sitemap.xml
 EOF
                      else
                        <<EOF

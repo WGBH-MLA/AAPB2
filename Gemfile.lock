@@ -43,8 +43,6 @@ GEM
       bootstrap-sass (~> 3.0)
       openseadragon (>= 0.2.0)
       rails
-    blacklight-sitemap (2.0.0)
-      nokogiri
     blacklight_range_limit (5.1.0)
       blacklight (>= 5.0.0.pre4, < 6)
       jquery-rails
@@ -260,7 +258,6 @@ PLATFORMS
 DEPENDENCIES
   blacklight
   blacklight-gallery
-  blacklight-sitemap (~> 2.0.0)
   blacklight_range_limit
   cancan
   capistrano-passenger

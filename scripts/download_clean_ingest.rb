@@ -40,7 +40,7 @@ class DownloadCleanIngest
       const_init(name)
     end
 
-    %w(batch-commit same-mount stdout-log just-reindex skip-sitemap).each do |name|
+    %w(batch-commit same-mount stdout-log just-reindex).each do |name|
       flag_name = const_init(name)
       variable_name = "@is_#{name.tr('-', '_')}"
       instance_variable_set(variable_name, argv.include?(flag_name))
@@ -125,8 +125,8 @@ class DownloadCleanIngest
   def usage_message
     <<-EOF.gsub(/^ {4}/, '')
       USAGE: #{File.basename(__FILE__)}
-               [#{BATCH_COMMIT}] [#{SAME_MOUNT}] [#{STDOUT_LOG}]
-               [#{JUST_REINDEX}] [#{SKIP_SITEMAP}]
+               [#{BATCH_COMMIT}] [#{SAME_MOUNT}]
+               [#{STDOUT_LOG}] [#{JUST_REINDEX}]
                ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ...
                  | #{FILES} FILE ... | #{DIRS} DIR ...
@@ -142,8 +142,6 @@ class DownloadCleanIngest
         #{JUST_REINDEX}: Rather than querying the AMS, query the local solr. This
           is typically used when the indexing strategy has changed, but the AMS
           data has not changed.
-        #{SKIP_SITEMAP}: Do not regenerate sitemap.xml. If no new records are
-          ingested, the sitemaps will not change, and regeneration can be skipped.
 
       mutually exclusive modes:
         #{ALL}: Download, clean, and ingest all PBCore from the AMS. Optionally,
@@ -194,12 +192,6 @@ class DownloadCleanIngest
     # TODO: Investigate whether optimization is worth it. Requires a lot of disk and time.
     # puts 'Ingest complete; Begin optimization...'
     # ingester.optimize
-
-    unless @is_skip_sitemap
-      $LOG.info('Starting sitemap generation...')
-      $LOG.info(`rake blacklight:sitemap`) # TODO: figure out the right way to do this.
-      $LOG.info('Finished sitemap generation.')
-    end
 
     errors = ingester.errors.sort # So related errors are together
     error_count = errors.map{|pair| pair[1]}.flatten.count
