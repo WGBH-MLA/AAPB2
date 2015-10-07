@@ -27,7 +27,8 @@ class User
   end
 
   def aapb_referer?
-    URI.parse(@referer).host =~ /^(.+\.)?americanarchive\.org$/
+    allowed_referrers = [/^(.+\.)?americanarchive\.org$/, /54\.198\.43\.192$/]
+    allowed_referrers.select{ |allowed_referrer| URI.parse(@referer).host =~ allowed_referrer }.count > 0
   end
 
   def affirmed_tos?
