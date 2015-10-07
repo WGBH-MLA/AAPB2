@@ -7,11 +7,14 @@ module Zipper
     end
   end
   def self.read(filename)
-    Zip::File.open(filename+'.zip', Zip::File::CREATE) do |zipfile|
-      zipfile.read(File.basename(filename))
+    plain_name = filename.gsub(/\.zip$/, '')
+    zip_name = filename=~ /\.zip$/ ? filename : filename + '.zip'
+    if File.exists?(zip_name)
+      Zip::File.open(zip_name, Zip::File::CREATE) do |z|
+        z.read(File.basename(plain_name))
+      end
+    else
+      File.read(filename)
     end
-  rescue
-    # Fallback
-    File.read(filename)
   end
 end
