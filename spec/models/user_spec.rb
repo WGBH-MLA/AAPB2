@@ -4,7 +4,7 @@ require 'ostruct'
 describe User do
 
   let(:user) { User.new(fake_request) }
-  let(:fake_request) { double(user_agent: nil, referer: nil, session: nil) }
+  let(:fake_request) { double(user_agent: nil, referer: nil, session: nil, remote_ip: nil) }
 
   describe '#onsite?' do
 
@@ -55,6 +55,26 @@ describe User do
       canadian_ip = '50.117.128.0'
       allow(fake_request).to receive(:remote_ip) { canadian_ip }
       expect(user.usa?).to eq false
+    end
+  end
+  
+  
+  describe '#aapb_referrer?' do
+    it 'returns true when referrer is the production website' do
+      allow(fake_request).to receive(:referer) { 'http://americanarchive.org' }
+      expect(user.aapb_referer?).to eq true
+    end
+
+    it 'returns true when the referrer is the demo site' do
+      # mock the remote IP to be the demo machine's IP
+      allow(fake_request).to receive(:referer).and_return('http://54.198.43.192')
+      expect(user.aapb_referer?).to eq true
+    end
+
+    it 'returns false when the referrer is example.com' do
+      # mock an arbitrary non-AAPB IP
+      allow(fake_request).to receive(:referer).and_return('http://example.com')
+      expect(user.aapb_referer?).to eq false
     end
   end
 
@@ -150,4 +170,5 @@ describe User do
       end
     end
   end
+
 end
