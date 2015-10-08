@@ -6,9 +6,10 @@ module Zipper
       zipfile.get_output_stream(File.basename(filename)) { |stream| stream << content }
     end
   end
-  def self.read(filename)
+  def self.read(path)
+    filename = path.to_s
     plain_name = filename.gsub(/\.zip$/, '')
-    zip_name = filename=~ /\.zip$/ ? filename : filename + '.zip'
+    zip_name = filename =~ /\.zip$/ ? filename : filename + '.zip'
     if File.exists?(zip_name)
       Zip::File.open(zip_name, Zip::File::CREATE) do |z|
         z.read(File.basename(plain_name))
