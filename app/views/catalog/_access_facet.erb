@@ -9,15 +9,15 @@
       {
         value: PBCore::PUBLIC_ACCESS,
         title: 'Available Online',
-        info: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.'},
+        info_html: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.'},
       {
         value: PBCore::DIGITIZED_ACCESS,
         title: 'All Digitized',
-        info: 'All video and audio, available either online, or on location at WGBH or the Library of Congress.'},
+        info_html: 'All video and audio, available either online, or on location at WGBH or the Library of Congress. <a href="/on-location">More information</a>.'},
       {
         value: PBCore::ALL_ACCESS,
         title: 'All Records',
-        info: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not yet even been digitized.'}
+        info_html: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not yet even been digitized.'}
     ].each do |option|
   %>
     <li>
@@ -35,7 +35,7 @@
       <span class="facet-count"><%= facet_counts[option[:value]] || 0 %></span>
     </li>
     <li><div class="well well-sm"><small>
-      <%= option[:info] %>
+      <%= option[:info_html].html_safe %>
     </small></div></li>
   <% end %>
 </ul>
