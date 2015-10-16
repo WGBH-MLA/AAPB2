@@ -21,6 +21,7 @@ system.
 Karen's current favorite AAPB collection item is ["Beekeeping" from 
 WCTE](/catalog/cpb-aacip_23-12m640f2).
 
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/>
 ### Alan Gevinson
 #### Project Director
 #### Library of Congress
@@ -50,11 +51,7 @@ Casey manages the day-to-day activities of the AAPB, including outreach,
 access, overseeing web development, coordinating with the Library of Congress 
 on policy and strategy, and assisting with sustainability. She established the 
 Association of Moving Image Archivists’ (AMIA)  PBCore Advisory Committee to 
-support and improve the Public Broadcasting Core (PBCore) metadata standard, 
-serves as a mentor for the National Digital Stewardship Residency (NDSR) Boston 
-project, and is Co-Chair of the New England Archivists Roundtable for Early 
-Professionals and Students (REPS) and NEA's Membership Committee. As an 
-archivist, Casey is passionate about access and use of audiovisual archival 
+support and improve the Public Broadcasting Core (PBCore) metadata standard, is the Co-Chair of the New England Archivists Roundtable for Early Professionals and Students (REPS), serves on the NEA Membership Committee, and is Founder of ProjectARCC. As an archivist, Casey is passionate about access and use of audiovisual archival 
 collections and archival advocacy. Personally, she enjoys traveling, visiting 
 historic sites and museums, and collecting embroidered patches. Before working 
 on the AAPB, Casey worked for the PBS history documentary series American 
@@ -63,28 +60,6 @@ Louisiana State University.
 
 Casey's current favorite AAPB collection item is ["Charlie Pride" from 
 Mississippi Public Broadcasting](/catalog/cpb-aacip_60-39k3jfc6).
-
-### Lauren Sorensen
-#### Digital Conversion Specialist
-#### Library of Congress
-An audiovisual archivist & conservator interested in digital preservation, 
-community initiatives, metadata and open access, Lauren manages preservation 
-for the American Archive of Public Broadcasting. Lauren previously worked for 
-Bay Area Video Coalition (BAVC) where she managed workflow for digital 
-audiovisual preservation. Before that time, she served as Assistant Director at 
-Canyon Cinema, the San Francisco-based artist-run media access cooperative, and 
-provided research assistance for the Preserving Digital Public Television 
-project for NYU Libraries, with NDIIPP (National Digital Information 
-Infrastructure & Preservation Program). She contributes to Public Broadcasting 
-Core (PBCore) metadata dictionary project, participates in the National Digital 
-Stewardship Alliance (NDSA) Standards & Practices working group and the Federal 
-Agencies Digitization Guidelines Initiative (FADGI) born digital video group, 
-and co-chairs the Association of Moving Image Archivists’ (AMIA) Independent 
-Media committee. She enjoys music, bicycling, social histories, jokes, art and 
-the outdoors. 
-
-Lauren's current favorite AAPB collection item is [“Writers Speak: James 
-Baldwin” from New England Public Radio](/catalog/cpb-aacip_305-86nzshkq).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
 ### Sadie Roosa
@@ -102,61 +77,111 @@ fits. Sadie earned her MLIS from the University of Pittsburgh.
 Sadie's current favorite AAPB collection item is an ["Interview with Jonathan 
 Richmond" from WERU](/catalog/cpb-aacip_301-956djt0n ).
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Fraimow.png"/>
-### Rebecca Fraimow
-#### Archivist
-#### WGBH
-After first coming to WGBH as a National Digital Stewardship (NDSR) Resident in 
-2014, Rebecca joined the staff of WGBH full-time in 2015, focusing on the AAPB 
-NDSR program, the development of the PBCore metadata standard, and the ongoing 
-migration of digital assets.  Prior to moving up north, Rebecca served as the 
-Audiovisual Projects Manager for the Dance Heritage Coalition, managing a 
-large-scale project to digitize and make accessible dance-related media.  She 
-also worked on the XFR STN exhibit at the New Museum, which opened up video 
-preservation to the public, and subsequently co-founded XFR Collective, a New 
-York-based nonprofit organization focused on the preservation of at-risk and 
-obsolete community media.  Rebecca holds an MA in Moving Image Archiving and 
-Preservation from NYU.  When she's not yelling about community archives or 
-banging her head against video decks, hard drives, and LTO tapes, she likes 
-dancing, making a mess in the kitchen, and immersing herself in good (and bad) 
-fiction.  
+## WGBH Supporting Staff
 
-Rebecca's's current favorite AAPB collection item is ["Role of Fantasy in Children's Lives" from WGBH](/catalog/cpb-aacip_15-5717m0428t).
-
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Myers.jpg"/>
-### Andrew Myers
-#### Supervising Developer
-#### WGBH
-Andrew Myers is a web developer who has worked for many different kinds of 
-organizations, but has focused mainly on websites and applications for 
-libraries and archives since joining WGBH in 2013. When he's not working, he 
-likes to play guitar, ride his bike, climb fake rocks, cook things, and spend 
-time with his wife and daughter.
-
-Andrew's current favorite AAPB collection item is ["Midday: Wes Jackson, 
-President of the Land Institute in Salina, KS," from Minnesota Public 
-Radio](/catalog/cpb-aacip_43-752fr84r).
-
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Carter.jpg"/>
 ### Kevin Carter
 #### Programmer Analyst
-#### WGBH
-Kevin Carter began work in 1997 on the nascent Digital Library Initiative at 
-WGBH and has been spinning information straw into data gold there ever since.  
-He worked for many years in the Applied Technology unit to refine and invent 
-systems and cajole teams across a wide spectrum of activities toward the common 
-causes of efficiency and the Holy Grail of Write Once, Read Many data 
-throughout the lifecycle of media assets.  His work for the Media Library and 
-Archives continues to support its needs for various systems to manage content 
-and digital materials on The Web and beyond.
 
-Kevin's current favorite AAPB collection item is ["Chrysti the Wordsmith: 
-Dachshund" from KGLT](/catalog/cpb-aacip_309-375tb64n).
+### Hilary Emmons
+#### Project Manager, Digital
+
+### Mike Hamilton
+#### Designer
+
+### Jay Fialkov
+#### Deputy General Counsel
+
+### Jessica Fjeld
+#### Contracts Manager
+
+### Rebecca Fraimow
+#### Archivist
+
+### Sue Kantrowitz
+#### Vice President & General Counsel
 
 ### Chuck McCallum
 #### Developer
-#### WGBH
-Chuck is curious<br/>
-about the edge cases here.<br/>
-Will a haiku do?<br/>
 
+### Andrew Myers
+#### Supervising Developer
+
+## Library of Congress Supporting Staff
+
+### Christopher Barr
+#### Systems Programmer, Information Technology Service
+
+### Jason Butler
+#### Robotics Operator, National Audio-Visual Conservation Center
+
+### Mark Conner
+#### Research Specialist, Development Office
+
+### Eugene DeAnna
+#### Recorded Sound Section Head, National Audio-Visual Conservation Center
+
+### Matthew Derby
+#### Software Developer, National Audio-Visual Conservation Center
+
+### Carlos Fuentes, Jr.
+#### Robotics Operator, National Audio-Visual Conservation Center
+
+### Christopher Greenman
+#### Assistant General Counsel, Office of the General Counsel
+
+### Caitlin Hunter
+#### Recorded Sound Processing Unit Head, National Audio-Visual Conservation Center
+
+### Paul Klamer
+#### Video Lab Supervisor, National Audio-Visual Conservation Center
+
+### Lillie Lee
+#### Cataloger, Moving Image Processing Section, National Audio-Visual Conservation Center
+
+### Andrea Leigh
+#### Moving Image Processing Unit Head, National Audio-Visual Conservation Center
+
+### Gregory Lukow
+#### Chief, National Audio-Visual Conservation Center
+
+### JoEllen Marcel
+#### Administrative Officer, National Audio-Visual Conservation Center
+
+### Mike Mashon
+#### Moving Image Section Head, National Audio-Visual Conservation Center
+
+### Hope O’Keeffe
+#### Associate General Counsel, Office of the General Counsel
+
+### Gayle Osterberg
+#### Director of Communications, Office of Communications
+
+### Keith Paramore
+#### Quality Assurance Specialist, National Audio-Visual Conservation Center
+
+### Thomas Pease
+#### Cataloger, Recorded Sound Processing Unit, National Audio-Visual Conservation Center
+
+### Deborah Pierce
+#### Administrative Specialist, National Audio-Visual Conservation Center
+
+### Stephen W. Nease, Jr.
+#### Chief Technology Officer, National Audio-Visual Conservation Center
+
+### Scott Rife
+#### Senior System Administrator, Information Technology Service
+
+### Sue Siegel
+#### Director of Development, Development Office
+
+### Lauren Sorensen
+#### Former Digital Conversion Specialist, National Audio-Visual Conservation Center
+
+### James Snyder
+#### Senior Systems Administrator, National Audio-Visual Conservation Center
+
+### Mark Sweeney
+#### Associate Librarian for Library Services
+
+### Helena Zinkham
+#### Director, Collections & Services
