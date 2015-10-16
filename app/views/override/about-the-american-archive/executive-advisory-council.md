@@ -9,17 +9,17 @@
 The AAPB Executive Advisory Council comprises a distinguished group of individuals from around the country who are passionate about public media and its long-term preservation and access. The Council will inform and guide the strategic direction of the AAPB with the overarching goal of ensuring that the Archive continues to serve the needs of public media stakeholders and the American people.
 
 The Council will provide guidance to the Project Team in the following ways:
-- Provide advice and recommendations on strategic direction
-- Collaborate with the AAPB team on initiatives to raise awareness of the collection among cultural institutions and the general public
-- Assist in outreach to their networks and communities (public media organizations and leaders, educators, government officials and agencies, foundations, journalists, historians, librarians, technology developers, etc.) and beyond
-- Guide the AAPB in developing a sustainability plan and its fundraising components.
+-- Provide advice and recommendations on strategic direction
+-- Collaborate with the AAPB team on initiatives to raise awareness of the collection among cultural institutions and the general public
+-- Assist in outreach to their networks and communities (public media organizations and leaders, educators, government officials and agencies, foundations, journalists, historians, librarians, technology developers, etc.) and beyond
+-- Guide the AAPB in developing a sustainability plan and its fundraising components.
 
 ---
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Henry_Becton.jpg"/>
 ### Henry Becton
 #### Acting Chair
-Henry Becton served as president of WGBH Educational Foundation from 1984 until October 2007, when he was named Vice Chairman. He served as WGBH's general manager from 1978 until 1999.  He is a Director of Public Radio International, the Public Radio Exchange (PRX) and American Documentary Inc. (POV). Henry is a former chairman of the Association of Public Television Stations and a former member of the boards of directors of PBS, the PBS Foundation and The Belo Corporation where he served as lead director. He is a director of Becton Dickinson and Company where has served as its lead director, and is a trustee or director of various Deutsche mutual funds. He is a former President of the Board of Concord Academy and a former Trustee of Connecticut College, the Boston Museum of Science, the New England Aquarium and the North Bennett Street School.  
+Henry Becton served as president of WGBH Educational Foundation from 1984 until October 2007, when he was named Vice Chairman. He served as WGBH's general manager from 1978 until 1999.  He is a Director of Public Radio International, the Public Radio Exchange (PRX) and American Documentary Inc. (POV). Henry is a former chairman of the Association of Public Television Stations and a former member of the boards of directors of PBS, the PBS Foundation and The Belo Corporation where he served as lead director. He is a director of Becton Dickinson and Company where he has served as its lead director, and is a trustee or director of various Deutsche mutual funds. He is a former President of the Board of Concord Academy and a former Trustee of Connecticut College, the Boston Museum of Science, the New England Aquarium and the North Bennett Street School.  
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Alan_Brinkley.jpg"/>
 ### Alan Brinkley
