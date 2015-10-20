@@ -23,7 +23,7 @@ describe DownloadCleanIngest do
     end
   end
 
-  default_flags = '--stdout-log --same-mount --skip-sitemap'
+  default_flags = '--stdout-log --same-mount'
   default_mode = "--files #{Rails.root + 'spec/fixtures/dci/pbcore-dir/pbcore.xml'}"
   {
     # Expected to fail:
