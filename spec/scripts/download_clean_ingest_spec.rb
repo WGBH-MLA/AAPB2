@@ -40,7 +40,7 @@ describe DownloadCleanIngest do
       /1 \(100.0%\) Errno::ENOENT/
     ],
     "#{default_flags} --ids fake-id" => [
-      /fake-id.pbcore : Neither pbcoreCollection nor pbcoreDocument/,
+      /fake-id.pbcore.zip : Neither pbcoreCollection nor pbcoreDocument/,
       /1 \(100.0%\) PBCoreIngester::ValidationError/
     ],
     "--just-reindex #{default_flags} #{default_mode}" => [

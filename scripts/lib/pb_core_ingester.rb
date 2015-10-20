@@ -6,6 +6,7 @@ require_relative 'uncollector'
 require_relative 'cleaner'
 require_relative 'null_logger'
 require_relative 'mount_validator'
+require_relative 'zipper'
 require_relative '../../lib/solr'
 
 class PBCoreIngester
@@ -43,7 +44,7 @@ class PBCoreIngester
     cleaner = Cleaner.instance
 
     begin
-      xml = File.read(path)
+      xml = Zipper.read(path)
     rescue => e
       record_error(e, path)
       return

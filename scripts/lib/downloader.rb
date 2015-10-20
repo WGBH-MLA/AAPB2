@@ -3,6 +3,7 @@ require 'rexml/xpath'
 require 'rexml/document'
 require 'set'
 require 'fileutils'
+require_relative 'zipper'
 require_relative 'null_logger'
 require_relative 'mount_validator'
 require_relative '../../lib/solr'
@@ -58,7 +59,7 @@ class Downloader
                     $LOG.info("Downloading #{url}")
                     URI.parse(url).read(read_timeout: 240)
         end
-        File.write("#{short_id}.pbcore", content)
+        Zipper.write("#{short_id}.pbcore", content)
       end
     else
       opts[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
@@ -93,7 +94,7 @@ class Downloader
   def download_to_directory(start_page)
     download(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
-      File.write(name, collection)
+      Zipper.write(name, collection)
       $LOG.info("Wrote #{File.join([Dir.pwd, name])}")
     end
   end
