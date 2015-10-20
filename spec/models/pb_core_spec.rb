@@ -77,6 +77,16 @@ describe 'Validated and plain PBCore' do
   end
 
   describe PBCore do
+    it 'SRT on S3 matches fixture' do
+      # Rather than mocking more of it up, the ingest test really pulls an SRT from S3.
+      # ... but we still want to make sure that that SRT before it is cleaned has the data we expect.
+      
+      # Ruby defaults to read files as UTF-8,
+      # but the file delivered over the network is seen as ASCII: not sure what determines that.
+      expect(File.open(Rails.root + 'spec/fixtures/srt/1234.srt1.srt', 'r:' + Encoding::ASCII_8BIT.to_s).read)
+        .to eq(''+Net::HTTP.get_response(URI.parse('https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt')).body)
+    end
+    
     describe 'empty' do
       empty_pbc = PBCore.new('<pbcoreDescriptionDocument/>')
 
@@ -109,7 +119,7 @@ describe 'Validated and plain PBCore' do
             '1234', 'AAPB ID', 'somewhere else', '5678', #
             'WGBH', 'Boston', 'Massachusetts', #
             'Moving Image', '1:23:45',
-            "1\n00:00:00,000 --> 00:00:20,000\nTest suite checks this string\n"],
+            "1\n00:00:00,000 --> 00:00:20,000\nRaw bytes 0-255 follow:\n \n !\"\#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
           'contribs' => ['Larry', 'Stooges', 'Curly', 'Stooges', 'Moe', 'Stooges'],
