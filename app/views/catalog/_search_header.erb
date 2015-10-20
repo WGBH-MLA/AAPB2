@@ -1,0 +1,17 @@
+<% 
+  request.params.try(:[],'f').try(:[],'exhibits').tap do |exhibit_paths|
+    exhibit_paths.each do |path|
+      exhibit = Exhibit.find_by_path(path)
+      %>
+        <%= link_to(exhibit.title, "/exhibits/#{exhibit.path}") %>:
+        <%= sanitize(Exhibit.find_by_path(path).summary_html, tags: []) %>
+      <%
+    end if exhibit_paths
+  end
+%>
+
+<%= render 'did_you_mean' %>
+
+<%= render 'constraints' %>
+
+<%= render 'sort_and_per_page' %>
