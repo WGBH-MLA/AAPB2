@@ -127,7 +127,7 @@ describe 'Catalog' do
           it "#{facet}=#{value}: #{value_count}\t#{url}" do
             visit url
             expect(
-              page.all("#facet-#{facet} li a").count
+              page.all("#facet-#{facet} li a.remove, #facet-#{facet} li a.facet_select").count
             ).to eq facet_count # expected number of values for each facet
             expect(page.status_code).to eq(200)
             expect_count(value_count)
