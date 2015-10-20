@@ -1,0 +1,14 @@
+
+$grid-item-height: 250px;
+
+#documents {
+  .document {
+    border-bottom: none;
+    height: $grid-item-height;
+  }
+
+  .thumbnail {
+    height: $grid-item-height;
+    overflow: hidden;
+  }
+}
