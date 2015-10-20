@@ -1,18 +1,15 @@
-<div class="well intro-text">
-  <h1>Exhibits</h1>
-</div>
-
-<%= render layout: 'shared/carousel', 
+<%= 
+    render layout: 'home/carousel', 
            locals: {
                     id: 'exhibits-carousel', 
-                    items: Exhibit.all,
+                    items: Exhibit.all_top_level,
                     view_all: 'View All Exhibits',
                     view_all_href: '/exhibits'
                    } do |item| %>
   <a href="<%= "/exhibits/#{item.path}" %>" class="list-group-item" >
-    <img src="<%= item.thumbnail_url %>" title="<%= item.name %>" alt="<%= item.name %>" />
+    <img src="<%= item.thumbnail_url %>" title="<%= item.title %>" alt="<%= item.title %>" />
     <span class="carousel-caption">
-      <h3 class="list-group-item-heading"><%= item.name %></h3>
+      <h3 class="list-group-item-heading"><%= item.title %></h3>
     </span>
   </a>
 <% end %>
