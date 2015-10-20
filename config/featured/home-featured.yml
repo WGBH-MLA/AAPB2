@@ -22,9 +22,9 @@
   name: "Perspectives: Vivian Paley"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
-- id: cpb-aacip_30-44bp0kkw
-  org_name: Wisconsin Public Radio
-  name: "Counties of Wisconsin: Dane County"
+- id: cpb-aacip_305-34sj3z88
+  org_name: New England Public Radio
+  name: "Ayn Rand Lecture on 'A Nation's Unity'"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
 - id: cpb-aacip_345-25k98vzs
@@ -47,9 +47,14 @@
   name: "National Native News: American Indian Dance Theatre"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
-- id: cpb-aacip_28-8k74t6fd9b
+- id: cpb-aacip_28-kw57d2qp45
   org_name: Pacifica Radio Archives
-  name: "A Talk with Bobby Seale"
+  name: "Commentary of a Black Southern Bus Rider / Rosa Parks"
+  thumbnail_url: /thumbs/audio-digitized.jpg
+  
+- id: cpb-aacip_30-9351d435
+  org_name: Wisconsin Public Radio
+  name: "Inaugural FM Program"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
 - id: cpb-aacip_398-61djhhq3
@@ -92,6 +97,10 @@
   org_name: WEDU
   name: "WEDU Interview: Jimmy Carter"
   
+- id: cpb-aacip_283-881jx3z5
+  org_name: KCTS 9
+  name: "World Trade: The Seattle Summit"
+  
 - id: cpb-aacip_114-90dv49m9
   org_name: WGBY
   name: "Making it Here: Sweets"
@@ -116,18 +125,22 @@
   org_name: KCPT
   name: "1998 Kansas Governor's Debate: The Race Is On"
   
-- id: cpb-aacip_221-59c5b992
-  org_name: PBS SoCaL
-  name: "Voter's Pipeline: Grand Jury at Work"
+- id: cpb-aacip_221-053ffh76
+  org_name: KOCE
+  name: "Voter's Pipeline: Vietnam Refugees in Orange County"
   
 - id: cpb-aacip_378-51hhmncc
   org_name: Southern Oregon Public Television
   name: "Downstate Gazette: Elk Creek Special"
   
-- id: cpb-aacip/46-1937pz42
+- id: cpb-aacip_46-1937pz42
   org_name: Vermont Public Television
   name: "Points North: Lake Champlain"
   
 - id: cpb-aacip_81-59c5b5nr
   org_name: WNED
   name: "Woman: Black Woman"
+  
+- id: cpb-aacip_15-80ht7n4v
+  org_name: WGBH
+  name: "The Press and the People: The Responsibilities of Television"
