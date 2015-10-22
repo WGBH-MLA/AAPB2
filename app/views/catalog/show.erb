@@ -85,13 +85,13 @@
             {target: '_blank'}
           ) %>
         <% elsif @pbcore.public? && !current_user.usa? %>
-          Please note: This content is currently not available for viewing at your location.
+          Please note: This content is currently not available at your location.
         <% elsif @pbcore.protected? %>
-          Please note: This content is only available for viewing at WGBH and 
+          Please note: This content is only available at WGBH and 
           the Library of Congress. For information about on location research, 
           <a href="/on-location">click here</a>.
         <% elsif @pbcore.private? %>
-          Please note: This content is only available for viewing at 
+          Please note: This content is only available at 
           the Library of Congress. For information about on location research, 
           <a href="/on-location">click here</a>.
         <% elsif !@pbcore.digitized? %>

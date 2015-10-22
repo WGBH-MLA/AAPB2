@@ -380,7 +380,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_37-16c2fsnr'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-every-title-is-episode-number.xml')
-        expect(page).to have_text('not available for viewing at your location.')
+        expect(page).to have_text('not available at your location.')
         expect_no_media()
       end
       
@@ -389,7 +389,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_111-21ghx7d6'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-exhibit.xml')
-        expect(page).to have_text('only available for viewing at WGBH and the Library of Congress. ')
+        expect(page).to have_text('only available at WGBH and the Library of Congress. ')
         expect_no_media()
       end
     end
