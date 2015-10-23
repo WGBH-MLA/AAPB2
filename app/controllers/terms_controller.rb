@@ -1,5 +1,6 @@
 class TermsController < ApplicationController
   def show
+    @terms = Override.find_by_path('legal/orr-rules')
     render 'show'
   end
 
