@@ -1,0 +1,12 @@
+.exhibit-index {
+
+  $grid-item-height: 350px;
+
+  .thumbnail {
+    height: $grid-item-height;
+
+    @media (max-width: 992px) {
+      text-align: center;
+    }
+  }
+}

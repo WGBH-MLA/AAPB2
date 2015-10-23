@@ -5,3 +5,14 @@ $logo_image: 'todo-aapb-logo.gif';
 @import 'bootstrap';
 
 @import 'blacklight/blacklight';
+
+// =====================
+// BLACKLIGHT OVERRIDES
+// =====================
+
+#documents {
+  .document {
+    // Remove bottom border for search result items
+    border-bottom: none;
+  }
+}
