@@ -114,6 +114,9 @@ Richmond" from WERU](/catalog/cpb-aacip_301-956djt0n ).
 ### Jason Butler
 #### Robotics Operator, National Audio-Visual Conservation Center
 
+### Sheryl Cannady
+#### Media Specialist, Office of Communications
+
 ### Mark Conner
 #### Research Specialist, Development Office
 
