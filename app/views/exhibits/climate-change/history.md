@@ -8,7 +8,8 @@
 23.	[Roundtable Discussion of Silent Spring by Rachel Carson](/catalog/cpb-aacip_15-4947dkg7)
 24.	[David Brower: "What will it cost the Earth?" (Part A)](/catalog/cpb-aacip_27-9673ng8v)
 25.	[David Brower: "What will it cost the Earth?" (Part B)](/catalog/cpb-aacip_27-59q2c26d)
-26.	[Gus Speth on Red Sky at Morning: America and the Crisis of Global Environment](/catalog/cpb-aacip_16-4j09w0978j)
+26.	[Latest Developments in the Global Warming Crisis](/catalog/cpb-aacip_43-4947ds3w)
+27.	[Gus Speth on Red Sky at Morning: America and the Crisis of Global Environment](/catalog/cpb-aacip_16-4j09w0978j)
 
 
 ## Summary
