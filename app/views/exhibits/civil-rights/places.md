@@ -37,7 +37,7 @@
 ### Georgia
 #### Albany
 
-14. [Walk to Freedom](/catalog/cpb-aacip/28-m61bk17469)
+14. [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
 15. [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
 
 #### Savannah
@@ -61,7 +61,7 @@
 ### Mississippi
 #### Canton
 
-20. [Handful that We are in Mississippi: A Spectrum of Opinion on Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+20. [Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 
 #### Greenwood
 
