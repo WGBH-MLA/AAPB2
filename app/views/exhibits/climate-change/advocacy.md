@@ -4,10 +4,13 @@
 
 ![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg "Bill McKibben, Founder of 350.org")
 
-8.	[The End of Nature, 1989 (WILL)](/catalog/cpb-aacip_16-p843r0qc0z)
-9.	[Interview with Bill McKibben, Vermont Public Television (2001)](/catalog/cpb-aacip_46-65h9w6z2)
-10.	[Role of Citizen Action in Solving Global Warming, 2010 (WGBH)](/catalog/cpb-aacip_15-7940r9m78p)
-11.	[Bill McKibben: Eaarth, 2010 (WGBH)](/catalog/cpb-aacip_15-8s4jm23h6q)
+8.	[Bill McKibben: The End of Nature](/catalog/cpb-aacip_16-p843r0qc0z)
+9.	[Interview with Bill McKibben](/catalog/cpb-aacip_46-65h9w6z2)
+10.	[Role of Citizen Action in Solving Global Warming)](/catalog/cpb-aacip_15-7940r9m78p)
+11.	[Bill McKibben: Eaarth](/catalog/cpb-aacip_15-8s4jm23h6q)
+12.	[John Francis: Planetwalker](/catalog/cpb-aacip_15-2f7jq0sw07)
+13.	[Elizabeth Kolbert: The Climate of Man](/catalog/cpb-aacip_16-9c6rx93p51)
+14.	[Global Warming / SCETV](/catalog/cpb-aacip_41-51vdnpkz)
 
 ## Summary
 
