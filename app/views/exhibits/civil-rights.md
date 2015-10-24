@@ -34,5 +34,7 @@ NAEB began operations in 1934 from a precursor organization that had been formed
 In addition to the radio broadcasts, “Voices from the Southern Civil Rights Movement” includes one television documentary, [“We Shall Overcome”](/catalog/cpb-aacip_15-9862bb5r), in which SNCC executive director James Forman, in an aural interview conducted by psychologist Kenneth Clark, describes SNCC voter registration drives in the rural South. Forman’s off-camera testimony, heard in this documentary over footage depicting SNCC activities, like the accompanying radio programs, gives voice to the challenges, tactics, and dangers of that organizers and activists faced to achieve the movement’s goals.
 
 <a name="1"></a><sup>1</sup>Emily Crosby, ed., *Civil Rights History from the Ground Up: Local Struggles, a National Movement*
+
 <a name="2"></a><sup>2</sup>Brian Ward, *Radio and the Struggle for Civil Rights in the South* (Gainsville, FL: University Press of Florida, 2004), 132.
+
 <a name="3"></a><sup>3</sup>Jack Gould, “Radio: Aural Picture of Racial Crisis,” *New York Times*, June 10, 1963.
