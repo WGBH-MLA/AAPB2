@@ -27,8 +27,8 @@
 
 9.  [Dateline St. Augustine; Episode 1](/catalog/cpb-aacip_15-289gj6vg)
 10.  [Dateline St. Augustine; Episode 2](/catalog/cpb-aacip_15-23612tg4)
-11.  [Long Hot Summer 64; Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
-12.  [Long Hot Summer 64; Episode 3](/catalog/cpb-aacip_15-02c86fs0)
+11.  [Long, Hot Summer 64; Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
+12.  [Long, Hot Summer 64; Episode 3](/catalog/cpb-aacip_15-02c86fs0)
 
 #### Tallahassee
 
@@ -38,7 +38,7 @@
 #### Albany
 
 14. [Walk to Freedom](/catalog/cpb-aacip/28-m61bk17469)
-15. [An Integrated Project in George](/catalog/cpb-aacip_28-mk6542jr2r)
+15. [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
 
 #### Savannah
 
@@ -56,7 +56,7 @@
 ### Louisiana
 #### Baton Rouge
 
-19. [The Battle is not yet Won](/catalog/cpb-aacip_28-2z12n4zs1w )
+19. [The Battle is not yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
 
 ### Mississippi
 #### Canton
@@ -78,7 +78,7 @@
 
 #### Natchez
 
-25. [Public Affairs: One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
+25. [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 #### Winona
 
@@ -111,7 +111,7 @@
 
 Locales discussed in this exhibit range across nine states:
 
-Next: [People](/exhibits/civil-rights/people)
+Next: [Organizations](/exhibits/civil-rights/organizations)
 
 ## Main
 
