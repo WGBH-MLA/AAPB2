@@ -2,7 +2,8 @@
 
 1
 
-![Rachel Carson, "Mother of the Environmental Movement"](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section6_History.jpg "Rachel Carson, 'Mother of the Environmental Movement'")
+![Rachel Carson, "Mother of the Environmental Movement"](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section6_History.jpg) 
+*Rachel Carson, "Mother of the Environmental Movement"*
 
 22.	[Rachel Carson: Mother of the Environmental Movement](/catalog/cpb-aacip_15-jq0sq8qr1w)
 23.	[Roundtable Discussion of Silent Spring by Rachel Carson](/catalog/cpb-aacip_15-4947dkg7)
