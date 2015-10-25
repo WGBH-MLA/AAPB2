@@ -1,4 +1,4 @@
-# Organizations
+# People
 
 3
 
@@ -143,3 +143,7 @@ and a host of direct action campaigns to confront segregation and discrimination
 ## Main
 
 ## Resources
+
+- [Historical Thinking Matters: Rosa Parks](http://historicalthinkingmatters.org/rosaparks/)
+- [Martin Luther King, Jr. Papers Project](https://kinginstitute.stanford.edu/king-papers/about-papers-project)
+
