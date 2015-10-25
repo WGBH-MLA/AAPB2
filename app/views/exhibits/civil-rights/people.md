@@ -144,6 +144,7 @@ and a host of direct action campaigns to confront segregation and discrimination
 
 ## Resources
 
+- [Civil Rights Movement Veterans](http://www.crmvet.org/index.htm)
 - [Historical Thinking Matters: Rosa Parks](http://historicalthinkingmatters.org/rosaparks/)
 - [Martin Luther King, Jr. Papers Project](https://kinginstitute.stanford.edu/king-papers/about-papers-project)
 
