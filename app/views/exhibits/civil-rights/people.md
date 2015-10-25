@@ -8,12 +8,12 @@
 ### Ralph Abernathy
 
 60.	[On Freedom Road with Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
-61.	[The Birmingham Story: Happy Day in Birmingham; Part 1](/catalog/cpb-aacip_500-r785p02p)
-62.	[The Birmingham Story: Happy Day in Birmingham; Part 2](/catalog/cpb-aacip_500-m9023j32)
-63.	[The Birmingham Story: Happy Day in Birmingham; Part 3](/catalog/cpb-aacip_500-ff3m1j0m)
-64.	[The Birmingham Story: Happy Day in Birmingham; Part 4](/catalog/cpb-aacip_500-cj87n27n) 
-65.	[The Birmingham Story: Happy Day in Birmingham; Part 5](/catalog/cpb-aacip_500-jq0svz1h)
-66.	[The Birmingham Story: Happy Day in Birmingham; Part 6](/catalog/cpb-aacip_500-z60c1503)
+61.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
+62.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
+63.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
+64.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
+65.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
+66.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 ### Ella Baker
 
@@ -38,7 +38,7 @@
 
 ### Annie Devine
 
-73. [Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+73. [Black Power Surveyed; Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 
 ### James Forman
 
@@ -62,8 +62,8 @@
 
 ### Dorothy Height
 
-79.	[The Birmingham Story: Happy Day in Birmingham; Part 3](/catalog/cpb-aacip_500-ff3m1j0m)
-80.	[The Birmingham Story: Happy Day in Birmingham; Part 4](/catalog/cpb-aacip_500-cj87n27n) 
+79.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
+80.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
 
 ### Myles Horton
 
@@ -71,12 +71,12 @@
 
 ### Martin Luther King, Jr.
 
-82.	[The Birmingham Story: Happy Day in Birmingham; Part 1](/catalog/cpb-aacip_500-r785p02p)
-83.	[The Birmingham Story: Happy Day in Birmingham; Part 2](/catalog/cpb-aacip_500-m9023j32)
-84.	[The Birmingham Story: Happy Day in Birmingham; Part 3](/catalog/cpb-aacip_500-ff3m1j0m)
-85.	[The Birmingham Story: Happy Day in Birmingham; Part 4](/catalog/cpb-aacip_500-cj87n27n) 
-86.	[The Birmingham Story: Happy Day in Birmingham; Part 5](/catalog/cpb-aacip_500-jq0svz1h)
-87.	[The Birmingham Story: Happy Day in Birmingham; Part 6](/catalog/cpb-aacip_500-z60c1503)
+82.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
+83.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
+84.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
+85.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
+86.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
+87.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 ### John Lowery
 
@@ -92,8 +92,8 @@
 
 ### Constance Baker Motley
 
-91.	[The Birmingham Story: Happy Day in Birmingham; Part 5](/catalog/cpb-aacip_500-jq0svz1h)
-92.	[The Birmingham Story: Happy Day in Birmingham; Part 6](/catalog/cpb-aacip_500-z60c1503)
+91.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
+92.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 ### Karen Mulloy
 
