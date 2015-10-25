@@ -13,7 +13,6 @@
 6.	[Arctic Warming: Risks for Methane Emissions](/catalog/cpb-aacip_15-dj58c9rc1j)
 7.	[Gwynne Dyer: Climate Wars](/catalog/cpb-aacip_15-n00zp3w741)
 8.	[Jonathan Waterman: Arctic Warming](/catalog/cpb-aacip_15-3t9d50fw80)
-9.	[Impact of Global Warming on the US Economy](/catalog/cpb-aacip_15-4b2x34mp8f)
 
 ## Summary
 
