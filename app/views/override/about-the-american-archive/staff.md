@@ -58,8 +58,7 @@ on the AAPB, Casey worked for the PBS history documentary series American
 Experience and earned her MLIS with a concentration in Archives Management from 
 Louisiana State University.
 
-Casey's current favorite AAPB collection item is ["Charlie Pride" from 
-Mississippi Public Broadcasting](/catalog/cpb-aacip_60-39k3jfc6).
+Casey's current favorite AAPB collection item is ["Press And The People, The: An Inquiry Into The Work Of The American Press In Informing The American People" from WGBH](/catalog/cpb-aacip_15-719kdknm).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
 ### Sadie Roosa
