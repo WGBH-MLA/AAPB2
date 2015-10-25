@@ -2,7 +2,7 @@
 
 3
 
-![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg "Bill McKibben, Founder of 350.org")
+!["Alabama State College students speak with a reporter"](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_People.jpg "Thomas J. O’Halloran, photographer. Alabama State College students speak with a reporter the day of a demonstration against segregation following the arrest of nine student sit-in leaders, Montgomery, Alabama, March 10, 1960. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.")
 
 ### Ralph Abernathy
 
