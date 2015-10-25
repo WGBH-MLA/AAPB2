@@ -14,7 +14,7 @@
 
 34. [Long, Hot Summer 64: Episode 3](/catalog/cpb-aacip_15-02c86fs0)
 35. [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
-36. [Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+36. [Black Power Surveyed; Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 
 ### Highlander Folk School
 
@@ -27,7 +27,7 @@
 ### Mississippi Freedom Democratic Party (MFDP)
 
 39. [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
-40. [Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+40. [Black Power Surveyed; Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 41. [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 ### National Association for the Advancement of Colored People (NAACP)
@@ -40,12 +40,12 @@
 
 45. [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
 46. [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
-47.	[The Birmingham Story: Happy Day in Birmingham; Part 1](/catalog/cpb-aacip_500-r785p02p)
-48.	[The Birmingham Story: Happy Day in Birmingham; Part 2](/catalog/cpb-aacip_500-m9023j32)
-49.	[The Birmingham Story: Happy Day in Birmingham; Part 3](/catalog/cpb-aacip_500-ff3m1j0m)
-50.	[The Birmingham Story: Happy Day in Birmingham; Part 4](/catalog/cpb-aacip_500-cj87n27n) 
-51.	[The Birmingham Story: Happy Day in Birmingham; Part 5](/catalog/cpb-aacip_500-jq0svz1h)
-52.	[The Birmingham Story: Happy Day in Birmingham; Part 6](/catalog/cpb-aacip_500-z60c1503)
+47.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
+48.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
+49.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
+50.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
+51.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
+52.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 53. [Report from the South: James Bevel Speech](/catalog/cpb-aacip_28-j09w08ws94)
 54. [Long, Hot Summer 64: Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
 
