@@ -2,7 +2,8 @@
 
 3
 
-![Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section1_Impacts.jpg "Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA")
+![Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section1_Impacts.jpg) 
+*Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA*
 
 1.	[Is Climate Change too Uncertain for Public Policy?](/catalog/cpb-aacip_16-6t0gt5fq8c)
 2.	[Climate Change in the Great Lakes Region](/catalog/cpb-aacip_16-1z41r6n955)
