@@ -71,3 +71,5 @@ Next: [People](/exhibits/civil-rights/people)
 ## Main
 
 ## Resources
+
+- [Dynamics for Idealism: Volunteers for Civil RIghts, 1965-1982](http://www.disc.wisc.edu/archive/idealism/)
