@@ -15,7 +15,13 @@ AAPB Project Director, Library of Congress
 
 ## Resources
 
-- [TODO](http://TODO)
+- [Brown V. Board of Education](http://www.lib.umich.edu/brown-versus-board-education/)
+- [The Civil Rights Act of 1964: A Long Struggle for Freedom](http://www.loc.gov/exhibits/civil-rights-act/)
+- [Civil Rights Digital Library](http://crdl.usg.edu/?Welcome)
+- [Civil Rights History Project](http://www.loc.gov/collection/civil-rights-history-project/about-this-collection/)
+- [Documented Rights](http://www.archives.gov/exhibits/documented-rights/)
+- [National Civil Rights Museum Exhibitions](http://civilrightsmuseum.org/exhibitions/)
+- [Television News of the Civil Rights Era, 1950-1970](http://www2.vcdh.virginia.edu/civilrightstv/)
 
 ## Main
 
