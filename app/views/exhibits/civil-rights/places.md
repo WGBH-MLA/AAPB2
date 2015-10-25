@@ -8,12 +8,12 @@
 ### Alabama
 #### Birmingham 
 
-1.	[The Birmingham Story: Happy Day in Birmingham; Part 1](/catalog/cpb-aacip_500-r785p02p)
-2.	[The Birmingham Story: Happy Day in Birmingham; Part 2](/catalog/cpb-aacip_500-m9023j32)
-3.	[The Birmingham Story: Happy Day in Birmingham; Part 3](/catalog/cpb-aacip_500-ff3m1j0m)
-4.	[The Birmingham Story: Happy Day in Birmingham; Part 4](/catalog/cpb-aacip_500-cj87n27n) 
-5.	[The Birmingham Story: Happy Day in Birmingham; Part 5](/catalog/cpb-aacip_500-jq0svz1h)
-6.	[The Birmingham Story: Happy Day in Birmingham; Part 6](/catalog/cpb-aacip_500-z60c1503)
+1.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
+2.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
+3.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
+4.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
+5.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
+6.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 #### Lowndes County
 
@@ -29,7 +29,7 @@
 9.  [Dateline St. Augustine; Episode 1](/catalog/cpb-aacip_15-289gj6vg)
 10.  [Dateline St. Augustine; Episode 2](/catalog/cpb-aacip_15-23612tg4)
 11.  [Long, Hot Summer 64; Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
-12.  [Long, Hot Summer 64; Episode 3](/catalog/cpb-aacip_15-02c86fs0)
+12.  [Long, Hot Summer 64; Episode 2](/catalog/cpb-aacip_15-02c86fs0)
 
 #### Tallahassee
 
