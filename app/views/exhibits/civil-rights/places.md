@@ -116,3 +116,7 @@ Next: [Organizations](/exhibits/civil-rights/organizations)
 ## Main
 
 ## Resources
+
+- [Civil Rights Greenboro](http://libcdm1.uncg.edu/cdm/landingpage/collection/CivilRights)
+- [Civil Rights in Mississippi Digital Archive](http://digilib.usm.edu/crmda.php)
+- [Freedom Now!](http://cds.library.brown.edu/projects/FreedomNow/)
