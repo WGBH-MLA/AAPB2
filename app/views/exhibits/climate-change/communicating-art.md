@@ -2,7 +2,7 @@
 
 5
 
-![Melting glaciers](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section7_Art.jpg "Melting glaciers")
+![Melting glaciers](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section7_Art.jpg)
 
 26.	[Global Warming: Communicating Science through Film](/catalog/cpb-aacip_15-cc0tq5rf2m)
 27.	[Weaving Science into Sculpture](/catalog/cpb-aacip_15-1v5bc3t03w)
