@@ -9,6 +9,7 @@
 19.	[Al Gore: A Plan to Solve the Global Climate Crisis](/catalog/cpb-aacip_15-4m9183453q)
 20.	[After Copenhagen: Real Solutions for Global Climate Change / James Hansen](/catalog/cpb-aacip_15-rj48p5vm8b)
 21.	[The Bush Energy Plan](/catalog/cpb-aacip_16-222r49gf6t)
+22.	[Impact of Global Warming on the US Economy](/catalog/cpb-aacip_15-4b2x34mp8f)
 
 ## Summary
 
