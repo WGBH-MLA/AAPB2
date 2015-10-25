@@ -1,7 +1,7 @@
 # Climate Change Conversations: Causes, Impacts, Solutions
 
 !["The Blue Marble" Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg) 
-*The Blue Marble" Source: NASA*
+*"The Blue Marble" Source: NASA*
 
 ## Summary
 
