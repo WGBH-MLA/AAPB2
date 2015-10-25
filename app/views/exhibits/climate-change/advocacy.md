@@ -2,7 +2,7 @@
 
 4
 
-![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg "Bill McKibben, Founder of 350.org")
+![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg) *Bill McKibben, Founder of 350.org*
 
 8.	[Bill McKibben: The End of Nature](/catalog/cpb-aacip_16-p843r0qc0z)
 9.	[Interview with Bill McKibben](/catalog/cpb-aacip_46-65h9w6z2)
