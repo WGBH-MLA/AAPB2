@@ -29,7 +29,7 @@
 
 #### Tuskegee
 
-- [The Long, Hot Summer 64; Episode 10](/catalog/cpb-aacip_15-12m646qz)
+- [The Long, Hot Summer 64; Episode 10](/catalog/cpb-aacip_15-87brvgm3 )
 
 #### Tuscaloosa
 
