@@ -84,7 +84,6 @@
 #### Greenwood
 
 - [Ralph Gleason Interviewing Dick Gregory](/catalog/cpb-aacip_28-k649p2wm6m)
-- [We Shall Overcome](/catalog/cpb-aacip_15-9862bb5r)
 
 #### Jackson
 
