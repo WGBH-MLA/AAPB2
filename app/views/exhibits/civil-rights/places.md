@@ -2,8 +2,7 @@
 
 1
 
-![Civil Rights March from Selma to Montomery, Alabama, 1965](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Places.jpg) 
-*Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.*
+![Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Places.jpg "Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.")
 
 ### Alabama
 #### Birmingham 
