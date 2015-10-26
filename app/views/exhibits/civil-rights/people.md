@@ -43,10 +43,6 @@
 
 - [The Long, Hot Summer 64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
 
-### James Forman
-
-- [We Shall Overcome](/catalog/cpb-aacip_15-9862bb5r)
-
 ### David Gelfand
 
 - [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
