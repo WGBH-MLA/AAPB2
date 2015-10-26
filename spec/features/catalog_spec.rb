@@ -18,7 +18,7 @@ describe 'Catalog' do
     when 1
       expect(page).to have_text('1 entry found')
     else
-      expect(page).to have_text("1 - #{[count, 10].min} of #{count}")
+      expect(page).to have_text("1 - #{[count, 12].min} of #{count}")
     end
   end
 

@@ -13,14 +13,14 @@ class CatalogController < ApplicationController
     ## See also SolrHelper#solr_search_params
     config.default_solr_params = {
       qt: 'search',
-      rows: 10
+      rows: 12
     }
 
     # solr path which will be added to solr base url before the other solr params.
     # config.solr_path = 'select'
 
     # items to show per page, each number in the array represent another option to choose from.
-    # config.per_page = [10,20,50,100]
+    config.per_page = [12,30,60,90]
 
     ## Default parameters to send on single-document requests to Solr.
     ## These settings are the Blackligt defaults (see SolrHelper#solr_doc_params) or
@@ -150,6 +150,11 @@ class CatalogController < ApplicationController
   end
 
   def index
+
+    # If we are looking at search results for a particular exhibit, then fetch
+    # the exhibit for additional display logic.
+    @exhibit = exhibit_from_url
+
     if !params[:f] || !params[:f][:access_types]
       base_query = params.except(:action, :controller).to_query
       access = if current_user.onsite?
@@ -180,6 +185,20 @@ class CatalogController < ApplicationController
       format.pbcore do
         render text: xml
       end
+    end
+  end
+
+  private
+
+  # Returns exactly 1 Exhibit object given a path to the exhibit in the params
+  def exhibit_from_url
+    # Despite 'exhibit' field being multi-valued in solrconfig.xml, we're only
+    # returning the first exhibit from the URL we currently only allow users to
+    # select 1 exhibit in the UI, via the 'Show all items' link on the exhibit
+    # pages are Cmless pages.
+    if params['f'] && params['f']['exhibits'] && !params['f']['exhibits'].empty?
+      path = params['f']['exhibits'].first
+      return Exhibit.find_by_path(path) rescue nil
     end
   end
 end

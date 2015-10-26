@@ -1,14 +1,6 @@
-<% 
-  request.params.try(:[],'f').try(:[],'exhibits').tap do |exhibit_paths|
-    exhibit_paths.each do |path|
-      exhibit = Exhibit.find_by_path(path)
-      %>
-        <%= link_to(exhibit.title, "/exhibits/#{exhibit.path}") %>:
-        <%= sanitize(Exhibit.find_by_path(path).summary_html, tags: []) %>
-      <%
-    end if exhibit_paths
-  end
-%>
+<% if @exhibit %>
+  <%= render partial: 'exhibits/show_all_items_header', locals: {exhibit: @exhibit } %>
+<% end %>
 
 <%= render 'did_you_mean' %>
 

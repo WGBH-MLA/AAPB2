@@ -1,0 +1,10 @@
+.exhibit-index {
+  
+  .thumbnail {
+    height: 350px;
+
+    @media (max-width: 992px) {
+      text-align: center;
+    }
+  }
+}
