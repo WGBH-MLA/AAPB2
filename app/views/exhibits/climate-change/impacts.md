@@ -5,14 +5,14 @@
 ![Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section1_Impacts.jpg) 
 *Flooded streets in New Orleans after Hurricane Katrina. Source: FEMA*
 
-1.	[Is Climate Change too Uncertain for Public Policy?](/catalog/cpb-aacip_16-6t0gt5fq8c)
-2.	[Climate Change in the Great Lakes Region](/catalog/cpb-aacip_16-1z41r6n955)
-3.	[The Pentagon's Scientific Intelligence on a Dramatic Changing Climate](/catalog/cpb-aacip_16-6t0gt5fq9p)
-4.	[The Whale and the Supercomputer: On the Northern Front of Climate Change](/catalog/cpb-aacip_16-bv79s1kz48)
-5.	[Health Impacts of Global Warming](/catalog/cpb-aacip_15-w37kp7v462)
-6.	[Arctic Warming: Risks for Methane Emissions](/catalog/cpb-aacip_15-dj58c9rc1j)
-7.	[Gwynne Dyer: Climate Wars](/catalog/cpb-aacip_15-n00zp3w741)
-8.	[Jonathan Waterman: Arctic Warming](/catalog/cpb-aacip_15-3t9d50fw80)
+-	[Is Climate Change too Uncertain for Public Policy?](/catalog/cpb-aacip_16-6t0gt5fq8c)
+-	[Climate Change in the Great Lakes Region](/catalog/cpb-aacip_16-1z41r6n955)
+-	[The Pentagon's Scientific Intelligence on a Dramatic Changing Climate](/catalog/cpb-aacip_16-6t0gt5fq9p)
+-	[The Whale and the Supercomputer: On the Northern Front of Climate Change](/catalog/cpb-aacip_16-bv79s1kz48)
+-	[Health Impacts of Global Warming](/catalog/cpb-aacip_15-w37kp7v462)
+-	[Arctic Warming: Risks for Methane Emissions](/catalog/cpb-aacip_15-dj58c9rc1j)
+-	[Gwynne Dyer: Climate Wars](/catalog/cpb-aacip_15-n00zp3w741)
+-	[Jonathan Waterman: Arctic Warming](/catalog/cpb-aacip_15-3t9d50fw80)
 
 ## Summary
 
