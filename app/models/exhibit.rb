@@ -47,9 +47,9 @@ class Exhibit < Cmless
   end
   
   def summary_html
-    doc = Nokogiri::HTML(@summary_html)
-    doc.at_css('img')['class'] = 'pull-right'
-    doc.to_html
+    doc = Nokogiri::HTML::DocumentFragment.parse(@summary_html)
+    doc.at_css('img').tap { |img| img['class'] = 'pull-right' if img }
+    doc.inner_html
   end
 
   def items
