@@ -39,11 +39,17 @@ class Exhibit < Cmless
 
   def thumbnail_url
     @thumbnail_url ||=
-      Nokogiri::HTML(head_html).xpath('//img[1]/@src').first.text
+      Nokogiri::HTML(summary_html).xpath('//img[1]/@src').first.text
   end
 
   def ids
     items.keys
+  end
+  
+  def summary_html
+    doc = Nokogiri::HTML(@summary_html)
+    doc.at_css('img')['class'] = 'pull-right'
+    doc.to_html
   end
 
   def items

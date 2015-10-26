@@ -2,8 +2,6 @@
 
 4
 
-![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg "Bill McKibben, Founder of 350.org")
-
 -	[Bill McKibben: The End of Nature](/catalog/cpb-aacip_16-p843r0qc0z)
 -	[Interview with Bill McKibben](/catalog/cpb-aacip_46-65h9w6z2)
 -	[Role of Citizen Action in Solving Global Warming)](/catalog/cpb-aacip_15-7940r9m78p)
@@ -13,6 +11,8 @@
 -	[Global Warming / SCETV](/catalog/cpb-aacip_41-51vdnpkz)
 
 ## Summary
+
+![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg "Bill McKibben, Founder of 350.org")
 
 In addition to the recording of interviews and lectures with climate scientists, public broadcasting has served as a venue for journalists, students, and activists to advocate for action on climate change.
 
