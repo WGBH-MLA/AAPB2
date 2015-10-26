@@ -29,13 +29,11 @@
 - [Black Power Surveyed; Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 - [The Long, Hot Summer 64; Episode 9](/catalog/cpb-aacip_15-12m646qz)
 - [The Long, Hot Summer 64; Episode 10)(/catalog/cpb-aacip_15-12m646qz)
-- [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 ### National Association for the Advancement of Colored People (NAACP)
 
 - [Commentary of a Black Southern Bus Rider / Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45)
 - [Kidnapping in North Carolina](/catalog/cpb-aacip_28-h707w67k6x)
-- [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 ### Southern Christian Leadership Conference (SCLC) 
 
