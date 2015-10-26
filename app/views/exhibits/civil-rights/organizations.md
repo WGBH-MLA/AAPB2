@@ -62,7 +62,6 @@
 
 - [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
 - [Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
-- [We Shall Overcome](/catalog/cpb-aacip_15-9862bb5r)
 
 ## Summary
 
