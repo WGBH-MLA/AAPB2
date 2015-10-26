@@ -1,6 +1,6 @@
 # Voices from the Southern Civil Rights Movement
 
-!["Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress."](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.)
+![Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg "Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.")
 
 ## Summary
 
