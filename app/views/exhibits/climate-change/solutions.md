@@ -5,11 +5,11 @@
 ![Wind Turbines (CC-BY-SA 3.0 Image by Fred J, userpage: commons.wikimedia.org/wiki/User:Fred_J](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section5_Solutions.jpg) 
 *Wind Turbines (CC-BY-SA 3.0 Image by Fred J, userpage: commons.wikimedia.org/wiki/User:Fred_J)*
 
-18.	[Daniel Schrag: Geoengineering](/catalog/cpb-aacip_15-js9h41jv6n)
-19.	[Al Gore: A Plan to Solve the Global Climate Crisis](/catalog/cpb-aacip_15-4m9183453q)
-20.	[After Copenhagen: Real Solutions for Global Climate Change / James Hansen](/catalog/cpb-aacip_15-rj48p5vm8b)
-21.	[The Bush Energy Plan](/catalog/cpb-aacip_16-222r49gf6t)
-22.	[Impact of Global Warming on the US Economy](/catalog/cpb-aacip_15-4b2x34mp8f)
+-	[Daniel Schrag: Geoengineering](/catalog/cpb-aacip_15-js9h41jv6n)
+-	[Al Gore: A Plan to Solve the Global Climate Crisis](/catalog/cpb-aacip_15-4m9183453q)
+-	[After Copenhagen: Real Solutions for Global Climate Change / James Hansen](/catalog/cpb-aacip_15-rj48p5vm8b)
+-	[The Bush Energy Plan](/catalog/cpb-aacip_16-222r49gf6t)
+-	[Impact of Global Warming on the US Economy](/catalog/cpb-aacip_15-4b2x34mp8f)
 
 ## Summary
 
