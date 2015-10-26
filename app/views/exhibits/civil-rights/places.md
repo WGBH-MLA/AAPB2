@@ -8,105 +8,128 @@
 ### Alabama
 #### Birmingham 
 
-1.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
-2.	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
-3.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
-4.	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
-5.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
-6.	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
+-	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
+-	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
+-	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
+-	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
+-	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
+-	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 #### Lowndes County
 
-7.  [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
+-  [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
 
 #### Montgomery
 
-8.  [Commentary of a Black Southern Bus Rider / Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45)
+- [Commentary of a Black Southern Bus Rider / Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45)
+
+#### Selma
+
+- [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
+
+#### Tuskegee
+
+- [The Long, Hot Summer 64; Episode 10](/catalog/cpb-aacip_15-12m646qz)
+
+#### Tuscaloosa
+
+- [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
 
 ### Florida
 #### St. Augustine
 
-9.  [Dateline St. Augustine; Episode 1](/catalog/cpb-aacip_15-289gj6vg)
-10.  [Dateline St. Augustine; Episode 2](/catalog/cpb-aacip_15-23612tg4)
-11.  [Long, Hot Summer 64; Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
-12.  [Long, Hot Summer 64; Episode 2](/catalog/cpb-aacip_15-02c86fs0)
+- [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
+- [Dateline St. Augustine; Episode 1](/catalog/cpb-aacip_15-289gj6vg)
+- [Dateline St. Augustine; Episode 2](/catalog/cpb-aacip_15-23612tg4)
+- [Dateline St. Augustine; Part 8: A Day of Arrests](/catalog/cpb-aacip_15-87brvgz0)
+- [Long, Hot Summer 64; Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
+- [Long, Hot Summer 64; Episode 2](/catalog/cpb-aacip_15-02c86fs0)
 
 #### Tallahassee
 
-13. [The Sit-ins and the New South](/catalog/cpb-aacip_28-br8mc8rr6z)
+- [The Sit-ins and the New South](/catalog/cpb-aacip_28-br8mc8rr6z)
 
 ### Georgia
 #### Albany
 
-14. [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
-15. [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
+- [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
+- [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
 
 #### Savannah
 
-16. [Report from the South: James Bevel Speech](/catalog/cpb-aacip_28-j09w08ws94)
+- [Report from the South: James Bevel Speech](/catalog/cpb-aacip_28-j09w08ws94)
 
 #### Southwest Georgia
 
-17. [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
+- [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
 
 ### Kentucky
 #### Louisville
 
-18. [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
+- [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
 
 ### Louisiana
 #### Baton Rouge
 
-19. [The Battle is not yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
+- [The Battle is not yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
 
 ### Mississippi
 #### Canton
 
-20. [Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+- [Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+
+#### Drew
+
+- [The Long, Hot Summer 64; Episode 11](/catalog/cpb-aacip_15-1615f47p)
 
 #### Greenwood
 
-21. [Ralph Gleason Interviewing Dick Gregory](/catalog/cpb-aacip_28-k649p2wm6m)
-22. [We Shall Overcome](/catalog/cpb-aacip_15-9862bb5r)
+- [Ralph Gleason Interviewing Dick Gregory](/catalog/cpb-aacip_28-k649p2wm6m)
+- [We Shall Overcome](/catalog/cpb-aacip_15-9862bb5r)
+
+#### Jackson
+
+- [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
 
 #### Laurel and Liberty
 
-23. [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
+- [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
 
 #### McComb
 
-24. [Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
+- [Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
 
 #### Natchez
 
-25. [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
+- [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 #### Winona
 
-26. [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
+- [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
 
 ### North Carolina
-#### Unknown
-
-27. [The Negro Lawyer in the South](/catalog/cpb-aacip_28-4t6f18sn70)
 
 #### Monroe
 
-28. [Kidnapping in North Carolina](/catalog/cpb-aacip_28-h707w67k6x)
+- [Kidnapping in North Carolina](/catalog/cpb-aacip_28-h707w67k6x)
+
+#### Raleigh
+
+- [The Negro Lawyer in the South](/catalog/cpb-aacip_28-4t6f18sn70)
 
 ### South Carolina
 #### Charleston
 
-29. [Five Sat Down](/catalog/cpb-aacip_500-5q4rp59q)
+- [Five Sat Down](/catalog/cpb-aacip_500-5q4rp59q)
 
 ### Tennessee
 #### Knoxville
 
-30. [Thirty Years of Civil Rights Education in the South / Myles Horton](/catalog/cpb-aacip_28-xp6tx35q0h)
+- [Thirty Years of Civil Rights Education in the South / Myles Horton](/catalog/cpb-aacip_28-xp6tx35q0h)
 
 #### Nashville
 
-31. [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
+- [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
 
 ## Summary
 
