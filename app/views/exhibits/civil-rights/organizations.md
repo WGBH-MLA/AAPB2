@@ -2,7 +2,11 @@
 
 2
 
-![Marion S. Trikosko, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Organizations.jpg "Marion S. Trikosko, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.")
+## Summary
+
+
+![Marion S. Trikosko, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Organizations.jpg "Marion S. Trikosko, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.") Organizations profiled include: 
+
 
 ### Congress of Racial Equality (CORE)
 
@@ -60,10 +64,6 @@
 
 - [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
 - [Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
-
-## Summary
-
-Organizations profiled include: 
 
 Next: [People](/exhibits/civil-rights/people)
 

@@ -1,12 +1,26 @@
 # Climate Change Conversations: Causes, Impacts, Solutions
 
-![The Blue Marble; Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg "The Blue Marble; Source: NASA")
-
 ## Summary
 
-Climate scientists and activists have used the venue of public broadcasting to discuss climate change for more than a quarter of a century. They have repeatedly communicated the science of human driven climate change and its impacts in interviews, call-in radio shows, debates, public lectures, news programs, and documentaries. 
+![The Blue Marble; Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg "The Blue Marble; Source: NASA")
 
-While scientists and activists have consistently used public broadcasting to disseminate information about climate change, the conversation has changed over time. In the 1980s, focus was primarily on communicating the potential threats of global warming. Since then, programming has increasingly examined the actual impacts, and in addition, struggled to keep the American public informed and engaged. This exhibit highlights public broadcasting recordings of conversations on climate change—its causes, impacts, and proposed solutions—from 1970, the first year that Earth Day was celebrated, to the present.
+
+Climate scientists and activists have used the venue of public broadcasting to
+discuss climate change for more than a quarter of a century. They have
+repeatedly communicated the science of human driven climate change and its
+impacts in interviews, call-in radio shows, debates, public lectures, news
+programs, and documentaries.
+
+While scientists and activists have consistently used public broadcasting to
+disseminate information about climate change, the conversation has changed
+over time. In the 1980s, focus was primarily on communicating the potential
+threats of global warming. Since then, programming has increasingly examined
+the actual impacts, and in addition, struggled to keep the American public
+informed and engaged. This exhibit highlights public broadcasting recordings
+of conversations on climate change—its causes, impacts, and proposed
+solutions—from 1970, the first year that Earth Day was celebrated, to the
+present.
+
 
 ## Author
 

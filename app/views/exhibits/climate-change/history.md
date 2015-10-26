@@ -2,8 +2,6 @@
 
 1
 
-![Rachel Carson, "Mother of the Environmental Movement" Source: U.S. Fish and Wildlife Service](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section6_History.jpg "Rachel Carson, 'Mother of the Environmental Movement' Source: U.S. Fish and Wildlife Service")
-
 -	[Rachel Carson: Mother of the Environmental Movement](/catalog/cpb-aacip_15-jq0sq8qr1w)
 -	[Roundtable Discussion of Silent Spring by Rachel Carson](/catalog/cpb-aacip_15-4947dkg7)
 -	[David Brower: "What will it cost the Earth?" (Part A)](/catalog/cpb-aacip_27-9673ng8v)
@@ -11,8 +9,9 @@
 -	[Latest Developments in the Global Warming Crisis](/catalog/cpb-aacip_43-4947ds3w)
 -	[Gus Speth on Red Sky at Morning: America and the Crisis of Global Environment](/catalog/cpb-aacip_16-4j09w0978j)
 
-
 ## Summary
+
+![Rachel Carson, "Mother of the Environmental Movement" Source: U.S. Fish and Wildlife Service](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section6_History.jpg "Rachel Carson, 'Mother of the Environmental Movement' Source: U.S. Fish and Wildlife Service")
 
 As concern about the environment grew among scientists in the mid-1950s, they began to measure the Earth's carbon dioxide levels at Mauna Loa Observatory in Hawaii in 1958. "Human beings are now carrying out a large-scale geophysical experiment of a kind that could not have happened in the past nor be reproduced in the future," said Roger Revelle of the Scripps Institution of Oceanography in 1957. 
 
@@ -21,7 +20,6 @@ In 1962, Rachel Carson, now regarded as the mother of the environmental movement
 The first Earth Day, celebrated on April 22, 1970, launched what is known as the "environmental decade," and grassroots activists paved the way for the groundbreaking environmental legislation such as the Clean Water Act, the Endangered Species Act, the Coastal Zone Management Act, and the Safe Drinking Water Act. [David Brower](/catalog/cpb-aacip_27-9673ng8v), founder of Friends of the Earth and the fist Executive Director for the Sierra Club, spoke at Antioch College in Yellow Springs, Ohio and recorded by the campus station WYSO, just three days before the first Earth Day.
 
 As [Gus Speth](/catalog/cpb-aacip_16-4j09w0978j) argued in an interview with WILL in 2004, environmental problems in the 1970s, including air and water pollution, were local, visible, and issues that personally impacted many American citizens. This has created a much more difficult challenge "in the effort to mobilize our country to give the kind of leadership on the global scale issues that we should be giving, like climate change," he stated.
-
 
 Next: [Causes](causes)
 

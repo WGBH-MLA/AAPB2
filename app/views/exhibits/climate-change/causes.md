@@ -2,15 +2,24 @@
 
 2
 
-![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section3_Causes.jpg "Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)")
-
 -	[After the Warming](/catalog/cpb-aacip_394-65h9wd4r)
 -	[Anne Lappe and Frances Moore Lappe: Diet for a Hot Planet](/catalog/cpb-aacip_15-930ns0m03c)
 -	[Panel Discussion on Global Warming](/catalog/cpb-aacip_394-773txj1w)
 
 ## Summary
 
-Throughout this exhibit, scientists and activists, each of whom talk about the various facets of climate change—from a policy perspective to activism to specific research on impacts and solutions—spend a portion of their discussions communicating that climate change is happening and discuss several of the various human-driven causes. Guests, interviewees, program hosts, listeners, and event attendees discuss how greenhouse gases, such as carbon and methane, trap heat in the Earth's atmosphere, making the planet warmer. Scientists report that since the beginning of the Industrial Revolution, human activities have been the main source of greenhouse gas emissions, which has taken place primarily through the burning of fossil fuels. 
+![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section3_Causes.jpg "Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)")
+
+Throughout this exhibit, scientists and activists, each of whom talk about the
+various facets of climate change—from a policy perspective to activism to
+specific research on impacts and solutions—spend a portion of their
+discussions communicating that climate change is happening and discuss several
+of the various human-driven causes. Guests, interviewees, program hosts,
+listeners, and event attendees discuss how greenhouse gases, such as carbon
+and methane, trap heat in the Earth's atmosphere, making the planet warmer.
+Scientists report that since the beginning of the Industrial Revolution, human
+activities have been the main source of greenhouse gas emissions, which has
+taken place primarily through the burning of fossil fuels.
 
 In a call-in show about climate change and public policy, [Stephen Schneider](impacts), Professor of Environmental Biology and Global Change at Stanford University, asserts that causes of climate change are global in nature. After discussing how the United States has historically been the primary source of emissions, he contends that with the spread of industrialization, "we need a global process...where we can work with developing countries and say 'you have a right to develop, but don't do it the way we did it, but since we got rich doing it . . . we'll help you with these alternatives.'" If we don't help them, he continues, "we going to end up doubling, tripling, or worse CO2 [concentrations in Earth’s atmosphere]." 
 

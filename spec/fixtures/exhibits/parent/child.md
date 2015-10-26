@@ -1,9 +1,8 @@
 # Child!
 
-![alt text](http://example.org/image)
-
 ## Summary
 
+![alt text](http://example.org/image)
 Summary goes here.
 
 ## Resources
