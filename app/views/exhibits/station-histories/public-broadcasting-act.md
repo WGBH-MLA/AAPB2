@@ -2,10 +2,9 @@
 
 4
 
-- [John Pastore on the Public Broadcasting Act](/cpb-aacip_15-18rbp7bm)
-- [NET and NAEB Representatives on the Public Broadcasting Act](/cpb-aacip_15-02q57bjk)
-- [News Story on Disputes After Enactment of the Public Broadcasting Act](c/pb-aacip_43-jh3cz32j59)
-
+- [John Pastore on the Public Broadcasting Act](/catalog/cpb-aacip_15-18rbp7bm)
+- [NET and NAEB Representatives on the Public Broadcasting Act](/catalog/cpb-aacip_15-02q57bjk)
+- [News Story on Disputes After Enactment of the Public Broadcasting Act](/catalog/cpb-aacip_43-jh3cz32j59)
 
 ## Summary
 

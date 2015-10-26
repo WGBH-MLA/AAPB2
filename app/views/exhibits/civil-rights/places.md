@@ -2,7 +2,10 @@
 
 1
 
+## Summary
+
 ![Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Places.jpg "Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.")
+Locales discussed in this exhibit range across nine states:
 
 ### Alabama
 #### Birmingham 
@@ -124,10 +127,6 @@
 #### Nashville
 
 - [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
-
-## Summary
-
-Locales discussed in this exhibit range across nine states:
 
 Next: [Organizations](/exhibits/civil-rights/organizations)
 
