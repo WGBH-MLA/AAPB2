@@ -25,6 +25,6 @@ Next: [Advocacy](advocacy)
 
 ## Resources
 
-- [Environmental Protection Agency. (2015). Climate Change Impacts and Adapting to Climate Change.](http://www.epa.gov/climatechange/impacts-adaptation/)
+- [Environmental Protection Agency. (2015). Climate Change Impacts and Adapting to Climate Change.](http://www3.epa.gov/climatechange/impacts/index.html)
 - [NASA. The Current and Future Consequences of Global Change.](http://climate.nasa.gov/effects/)
 
