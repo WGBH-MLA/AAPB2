@@ -73,8 +73,7 @@ booties, even though she knows very few people with babies, and rearranging
 furniture in her apartment, even though there is really only one place each things 
 fits. Sadie earned her MLIS from the University of Pittsburgh. 
 
-Sadie's current favorite AAPB collection item is an ["Interview with Jonathan 
-Richmond" from WERU](/catalog/cpb-aacip_301-956djt0n ).
+Sadie's current favorite AAPB collection item is an ["Melvin King on the Ten O'Clock News" from WGBH](catalog/cpb-aacip_15-7940r9m823).
 
 ## WGBH Supporting Staff
 
