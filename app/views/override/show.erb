@@ -22,5 +22,5 @@
 <%= render partial: 'shared/title_sidebar_main', 
            locals: {
              sidebar: yield(:sidebar),
-             main: @override.body_html.html_safe
+             main: @override.body_html_wrapped.html_safe
            } %>
