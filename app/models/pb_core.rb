@@ -76,6 +76,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').tr('/_', '_/')
     # AAPB IDs, frustratingly, include slashes. We don't expect to see underscore,
     # so swap these two for a loss-less mapping. May revisit.
+    # TODO: Maybe this should be in cleaner?
   end
   SONY_CI = 'Sony Ci'
   def ids
