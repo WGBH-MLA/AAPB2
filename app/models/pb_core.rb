@@ -132,6 +132,15 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
+  def reference_urls
+    # These only provide extra information. We aren't saying there is media on the far side,
+    # so this has no interaction with access_level, unlike outside_url.
+    @reference_urls ||= begin
+      xpaths('/*/pbcoreAnnotation[@annotationType="External Reference URL"]')
+    end
+  rescue NoMatchError
+    nil
+  end
   def access_level
     @access_level ||= begin
       access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
@@ -268,7 +277,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src,
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
-               :title, :ci_ids, :instantiations, :outside_url, :exhibits]
+               :title, :ci_ids, :instantiations, 
+               :outside_url, :reference_urls, :exhibits]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value

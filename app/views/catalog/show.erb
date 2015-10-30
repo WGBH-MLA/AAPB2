@@ -80,7 +80,7 @@
       <div style="margin-top: 1em;">
         <% if @pbcore.outside_url %>
           <%= link_to(
-            "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.organization.short_name}",
+            "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.organization.short_name}.",
             @pbcore.outside_url,
             {target: '_blank'}
           ) %>
@@ -98,6 +98,10 @@
           Please note: This content has not been digitized. For inquiries regarding access, 
           please contact <%= link_to @pbcore.organization.short_name, @pbcore.organization.url %>.
         <% end %>
+          
+        <% @pbcore.reference_urls.each do |url| %>
+          <%= link_to 'More information on this record is available.', url %>
+        <% end %> 
       </div>
     <% end %>
   </div>
