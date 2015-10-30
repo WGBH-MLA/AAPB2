@@ -32,7 +32,7 @@
 - [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
 - [Black Power Surveyed; Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 - [The Long, Hot Summer 64; Episode 9](/catalog/cpb-aacip_15-12m646qz)
-- [The Long, Hot Summer 64; Episode 10)(/catalog/cpb-aacip_15-12m646qz)
+- [The Long, Hot Summer 64; Episode 10](/catalog/cpb-aacip_15-12m646qz)
 
 ### National Association for the Advancement of Colored People (NAACP)
 
