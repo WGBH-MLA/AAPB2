@@ -100,6 +100,10 @@ Locales discussed in this exhibit range across nine states:
 
 - [Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
 
+#### Natchez
+
+- [One Year Later in Mississippi](catalog/cpb-aacip_15-88qc028z)
+
 #### Winona
 
 - [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
