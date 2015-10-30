@@ -114,6 +114,10 @@ and a host of direct action campaigns to confront segregation and discrimination
 
 - [An Integrated Project in Georgia](/catalog/cpb-aacip_28-mk6542jr2r)
 
+### Ed Pincus
+
+- [One Year Later in Mississippi](catalog/cpb-aacip_15-88qc028z)
+
 ### Charles Sherrod
 
 - [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
