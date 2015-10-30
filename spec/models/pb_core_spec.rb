@@ -158,6 +158,7 @@ describe 'Validated and plain PBCore' do
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
         outside_url: 'http://www.wgbh.org/',
+        reference_urls: ['http://www.wgbh.org/'],
         private?: false,
         protected?: false,
         public?: true,
