@@ -8,43 +8,41 @@ The AAPB is an initiative to digitally preserve and make accessible
 public broadcasting radio and television programming, ensuring its collection, 
 management, preservation, and access. In August 2013, the Corporation for 
 Public Broadcasting selected WGBH and the Library of Congress as the permanent 
-stewards of the AAPB collection.
+stewards of the AAPB collection. To date, almost 40,000 hours of historic public broadcasting radio and
+television content has been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection is available for research [on location](/on-location) at WGBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not yet been digitized.
 
 ## What is available on the AAPB website?
 
-The initial launch of the AAPB website provides access to metadata records that 
-were created during the American Archive Content Inventory Project. The records 
-document the existence of 2.5 million public radio and television assets at 
-more than 120 public media stations and archives across the country. Of those 
-2.5 million assets, 68,000 have been digitized for preservation and access 
-in the AAPB. The 68,000 items total approximately 40,000 hours of video and 
-audio. 
+The AAPB website provides three layers of searching and browsing:
 
-## How can I tell if something was digitized in the AAPB?
+- Users can access the [AAPB Online Reading Room](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=online), which provides online access to some of the digitized collectionfor private research, educational and informational purposes. 
+- Users can [search metadata records for all 40,000 hours of digitized content](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized), including content that is available in the Online Reading Room and content that is only available for viewing and listening [on location](/on-location) at WGBH and the Library of Congress. 
+- Users can search search and browse the [2.5 million million metadata records](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=all) that document public radio and television assets existing at more than 120 public media stations and archives across the country. Most of these assets have not been digitized. 
 
-After you conduct a search on the AAPB website, click the "All Digitized" link below the Access filter on the left side of the page.
+The AAPB has also curated [exhibits](/exhibits) that feature content on topics of historical significance.
 
-## I want to conduct research using the AAPB collection now. How can I do so?
+## I'm interested in accessing the entire digitized collection at WGBH or the Library of Congress, and I want to begin my search before traveling to one of the research locations. How can I tell if something was digitized in the AAPB?
+
+After you conduct a search on the AAPB website, click the ["All Digitized"](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized) link below the Access filter on the left side of the page. This will display records for all 40,000 hours of digitized content.
+
+## I want to conduct research using the entire AAPB collection. How can I do so?
 
 The entire AAPB collection, consisting of 40,000 hours of historic public 
 television and radio programming and 68,000 items, is available for research at 
-WGBH Educational Foundation in Boston and the Library of Congress in 
+WGBH in Boston and the Library of Congress in 
 Washington, D.C. More information about on-location research policies and 
 scheduling an appointment is available [here](/on-location). 
 
-## When will video and audio in the AAPB collection be available online?
+## Will more content be available in the Online Reading Room than what is available now?
 
-Digitized video and audio will be available in the AAPB Online Reading Room by 
-October 2015. 
+AAPB staff are continuing to review the digitized content and add more material to the Online Reading Room. If you find something that is digitized but not available in the Online Reading Room, and you would like access to it, contact us and we will try to prioritize the review of this content.
 
-## Will all 68,000 items / 40,000 hours be available online?
+## Are all 68,000 items / 40,000 hours available in the Online Reading Room?
  
-No, the entire collection will not be available online due to rights and other 
-legal restrictions; however, the AAPB Project Team is developing a strategy to 
+No, the entire collection is not available in the Online Reading Room due to rights and other 
+legal restrictions; however, the AAPB Project Team has developed a strategy to 
 clear rights and analyze content in the collection in order to make as much 
-accessible in the Online Reading Room as possible. By October 2015, we hope 
-that thousands of video and audio materials in the collection will be available 
-in the Online Reading Room.
+accessible in the Online Reading Room as possible. 
 
 ## Since it's public media, isn't it in the public domain?
 
@@ -60,9 +58,8 @@ determinations.
 
 ## What is the Online Reading Room?
 
-The AAPB Online Reading Room, accessible beginning in October 2015, will 
-provide access to digitized video and audio archival materials in the 
-collection for research, educational, and informational purposes only. Patron 
+The AAPB Online Reading Room provide accesss to digitized video and audio archival materials in the 
+collection for private research, educational, and informational purposes. Patron 
 uses will be restricted to those permitted under copyright law. 
 
 ## If I would like to license or reuse content in the archive, who do I contact?
