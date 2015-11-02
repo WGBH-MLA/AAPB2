@@ -200,10 +200,10 @@
       <dt>Embed Code</dt>
       <dd>
         <input style="width: 100%; font-family: monospace;" 
-                 value="<iframe src='<%= 
+                 value="&lt;iframe src='<%= 
                     url_for(controller: 'embed', action: 'show', id: params[:id], only_path: false)
                  %>' width='<%= AAPB::PLAYER_WIDTH %>' height='<%= AAPB::PLAYER_HEIGHT %>' 
-                 style='border: 0;'></iframe>"
+                 style='border: 0;'&gt;&lt;/iframe&gt;"
                  onclick="this.select();" />
         <div class="well well-sm"><small>
           Copy and paste this HTML to include AAPB content on your blog or webpage.
