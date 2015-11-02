@@ -15,6 +15,7 @@ way to search the collection because it will retrieve relevant results based on
 the data available, even if that data has not be entered into the correct field.
 
 If you want to view everything that has been **DIGITIZED**, conduct a search and then click "All Digitized" under the "Access" filter in the facets menu on the left side of your search results.
+![Screenshot of search results](https://s3.amazonaws.com/americanarchive.org/searching/Searching_1.jpg "Screenshot of search results")
 
 From your search results, you can use additional **FACETS** on the left to filter 
 your results.
@@ -36,11 +37,6 @@ collection, or a state. Clicking on a state will show all records contributed by
 
 The **YEAR** facet lets you filter your results based on the year or range of years. Please note that only 1/3 of AAPB records currently have dates, as cataloging is still in progress.
 
-The **ACCESS** facet is the quickest way to display only the metadata records for 
-video and audio content digitized by the AAPB. All digitized assets are 
-available for viewing/listening at the Library of Congress or WGBH, so this 
-facet is a good way to begin your research and identify content that you may 
-want to view or listen to during an on-location visit. [Click here](http://americanarchive.org/on-location) for more 
-information about on-location research, and follow our 
-[blog](https://americanarchivepb.wordpress.com) to stay tuned about forthcoming 
-availability of video and audio on the website!
+### Still have questions?
+
+Check out our [FAQ](/faq) page, and if you still need help, [contact us](/contact-us)
