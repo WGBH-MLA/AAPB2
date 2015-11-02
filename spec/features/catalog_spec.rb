@@ -36,6 +36,10 @@ describe 'Catalog' do
     expect(page).not_to have_css("video")
     expect(page).not_to have_css("audio")
   end
+  
+  def expect_external_reference()
+    expect(page).to have_text('More information on this record is available.')
+  end
 
   describe '#index' do
     it 'has facet messages' do
@@ -352,6 +356,7 @@ describe 'Catalog' do
       expect_all_the_text('clean-MOCK.xml')
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
       expect_no_media()
+      expect_external_reference()
     end
 
     it 'has poster otherwise if media' do
