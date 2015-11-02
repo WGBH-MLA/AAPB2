@@ -1,4 +1,3 @@
-require_relative '../../lib/geo_i_p_country'
 require_relative '../../lib/aapb'
 
 class CatalogController < ApplicationController
@@ -179,13 +178,17 @@ class CatalogController < ApplicationController
         if can? :skip_tos, @pbcore
           render
         else
-          redirect_to "/terms/#{CGI.escape(params['id'])}"
+          redirect_to(terms_target + CGI.escape(params['id']))
         end
       end
       format.pbcore do
         render text: xml
       end
     end
+  end
+  
+  def terms_target
+    '/terms/'
   end
 
   private

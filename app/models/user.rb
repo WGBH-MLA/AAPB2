@@ -1,5 +1,6 @@
 require 'set'
 require 'ipaddr'
+require_relative '../../lib/geo_i_p_country'
 
 class User
   def initialize(request)
@@ -19,7 +20,8 @@ class User
   end
 
   def usa?
-    GeoIPCountry.instance.country_code(@ip) == 'US'
+    GeoIPCountry.instance.country_code(@ip) == 'US' || onsite?
+    # WGBH doesn't actually geocode to USA. No idea why.
   end
 
   def bot?
