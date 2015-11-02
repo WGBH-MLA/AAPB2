@@ -39,4 +39,4 @@ The **YEAR** facet lets you filter your results based on the year or range of ye
 
 ### Still have questions?
 
-Check out our [FAQ](/faq) page, and if you still need help, [contact us](/contact-us)
+Check out our [FAQ](/faq) page, and feel free to [contact us](/contact-us).
