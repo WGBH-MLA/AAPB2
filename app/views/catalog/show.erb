@@ -196,20 +196,20 @@
   <% end %>
       
   <% if @pbcore.public? %>
-     <dl>
+     <dl style="display:none;"><%# TODO: remove style when ready to go. %>
       <dt>Embed Code</dt>
       <dd>
         <input style="width: 100%; font-family: monospace;" 
                  value="<iframe src='<%= 
                     url_for(controller: 'embed', action: 'show', id: params[:id], only_path: false)
-                 %>' width='400' height='300' style='border: 0;'></iframe>"
+                 %>' width='<%= AAPB::PLAYER_WIDTH %>' height='<%= AAPB::PLAYER_HEIGHT %>' 
+                 style='border: 0;'></iframe>"
                  onclick="this.select();" />
         <div class="well well-sm"><small>
           Copy and paste this HTML to include AAPB content on your blog or webpage.
         </small></div>
       </dd>
     </dl>
-   
   <% end %>
 
 <% end %>

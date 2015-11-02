@@ -13,7 +13,7 @@
     content_tag(media, 'class' => 'video-js vjs-default-skin', 
                 controls: true,
                 oncontextmenu: 'return false;', 
-                preload: 'none', width: 400, height: 300,
+                preload: 'none', width: AAPB::PLAYER_WIDTH, height: AAPB::PLAYER_HEIGHT,
                 poster: @pbcore.img_src, 'data-setup' => '{}') do %>
 
       <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
