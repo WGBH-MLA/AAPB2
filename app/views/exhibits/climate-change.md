@@ -7,7 +7,7 @@
 
 Climate scientists and activists have used the venue of public broadcasting to
 discuss climate change for more than a quarter of a century. They have
-repeatedly communicated the science of human driven climate change and its
+repeatedly communicated the science of human-driven climate change and its
 impacts in interviews, call-in radio shows, debates, public lectures, news
 programs, and documentaries.
 
