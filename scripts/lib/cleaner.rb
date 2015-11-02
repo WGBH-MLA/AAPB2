@@ -50,6 +50,11 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     match(doc, '/pbcoreIdentifier[not(@source)]') do |node|
       node.attributes['source'] = 'unknown'
     end
+    
+    match(doc, '/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]') do |node|
+      node.text = node.text.gsub(/cpb-aacip./, 'cpb-aacip/')
+      # Particularly for records from Mississippi that have a '-' instead of '/'
+    end
 
     # pbcoreTitle:
 
