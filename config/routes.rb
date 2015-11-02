@@ -6,7 +6,7 @@ Rails.application.routes.draw do
   resources 'terms',
             only: [:show, :create]
           
-  resources 'embed', only: [:index, :show] # BL requires that there be an index
+  resources 'embed', only: [:index, :show] # BL requires that there be an index.
   resources 'embed_terms', only: [:show, :create]
 
   resources 'organizations',

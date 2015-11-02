@@ -6,7 +6,7 @@ class MediaController < ApplicationController
     xml = document.instance_variable_get('@_source')['xml']
     pbcore = PBCore.new(xml)
 
-    if can?(:play, pbcore) && current_user.aapb_referer?
+    if can?(:play, pbcore) && (current_user.aapb_referer? || current_user.embed?)
       ci = SonyCiBasic.new(credentials_path: Rails.root + 'config/ci.yml')
       # OAuth credentials expire: otherwise it would make sense to cache this instance.
       redirect_to ci.download(pbcore.ci_ids[(params['part'].to_i || 1) - 1])

@@ -33,6 +33,10 @@ class User
       URI.parse(@referer).host =~ allowed
     end
   end
+  
+  def embed?
+    URI.parse(@referer).path =~ /embed/
+  end
 
   def affirmed_tos?
     @session[:affirm_terms]
