@@ -3,13 +3,12 @@
 ![banner](/page-banners/banner5.jpg)
 
 <style>
-  h3, h4 {margin-bottom: 0;}
+  h3 {margin-bottom: 0;}
 </style>
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Cariani.jpg"/>
 ### Karen Cariani
-#### Project Director
-#### WGBH
+#### Project Director, WGBH
 Karen has been director of the WGBH Media Library since its inception in 1990. 
 She co-led the AMIA Local Television Case Studies and Symposium Task Force from 
 2001-2004.  She has been project director for the WGBH Teachers’ Domain 
@@ -23,8 +22,7 @@ WCTE](/catalog/cpb-aacip_23-12m640f2).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/>
 ### Alan Gevinson
-#### Project Director
-#### Library of Congress
+#### Project Director, Library of Congress
 Alan is the Special Assistant to the Chief of the National Audio-Visual 
 Conservation Center at the Library of Congress. He received a PhD in History 
 from Johns Hopkins University, has taught in George Mason University’s graduate 
@@ -45,8 +43,7 @@ Public Television](/catalog/cpb-aacip_37-010p2nvv).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
 ### Casey E. Davis
-#### Project Manager
-#### WGBH
+#### Project Manager, WGBH
 Casey manages the day-to-day activities of the AAPB, including outreach, 
 access, overseeing web development, coordinating with the Library of Congress 
 on policy and strategy, and assisting with sustainability. She established the 
@@ -62,8 +59,7 @@ Casey's current favorite AAPB collection item is ["Press And The People, The: An
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
 ### Sadie Roosa
-#### Metadata Specialist
-#### WGBH
+#### Metadata Specialist, WGBH
 Sadie focuses her attention on metadata management and cataloging for the AAPB. 
 She has worked at WGBH since 2012, engaged in digitization and digital library 
 projects including Boston TV News Digital Library and WGBH's Open Vault. She 
@@ -103,6 +99,9 @@ Sadie's current favorite AAPB collection item is an ["Melvin King on the Ten O'C
 
 ### Andrew Myers
 #### Supervising Developer
+
+### Nick Pollard
+#### Coordinating Producer
 
 ## Library of Congress Supporting Staff
 
