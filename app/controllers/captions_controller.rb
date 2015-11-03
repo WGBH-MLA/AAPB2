@@ -9,7 +9,7 @@ class CaptionsController < ApplicationController
 # CAPTIONS CONTROLLER!!!
 
     _response, document = fetch(params['id'])
-    captions = document.instance_variable_get('@_source')['captions']
+    captions = document['captions']
     if captions
       render text: captions
     else
