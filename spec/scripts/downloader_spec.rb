@@ -29,8 +29,8 @@ describe Downloader, not_on_travis: true do
   it 'downloads by id' do
     dir = Downloader.download_to_directory_and_link(ids: ['cpb-aacip/17-00000qrv'], is_same_mount: true)
     expect(dir).to match(/\d{4}-\d{2}-\d{2}.*_by_ids_1/)
-    files = Dir["#{dir}/*.pbcore"]
-    expect(files.map { |f| f.sub(/.*\//, '') }).to eq(['17-00000qrv.pbcore'])
-    expect(File.read(files.first)).to match(/<pbcoreIdentifier source="http:\/\/americanarchiveinventory.org">cpb-aacip\/17-00000qrv/)
+    files = Dir["#{dir}/*.pbcore.zip"]
+    expect(files.map { |f| f.sub(/.*\//, '') }).to eq(['17-00000qrv.pbcore.zip'])
+    expect(Zipper.read(files.first)).to match(/<pbcoreIdentifier source="http:\/\/americanarchiveinventory.org">cpb-aacip\/17-00000qrv/)
   end
 end

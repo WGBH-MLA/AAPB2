@@ -1,7 +1,7 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
   <pbcoreAssetType>Raw Footage</pbcoreAssetType>
   <pbcoreIdentifier source='Maryland Public Television'>18037</pbcoreIdentifier>
-  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/394-62f7m6kq</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip_394-62f7m6kq</pbcoreIdentifier>
   <pbcoreTitle titleType='Raw Footage'>MSOM Field Tape - BUG 12</pbcoreTitle>
   <pbcoreDescription>MSOM Field Tape - BUG 11 C. Miller part 2</pbcoreDescription>
   <pbcoreGenre annotation='genre'>Magazine</pbcoreGenre>

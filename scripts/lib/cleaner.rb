@@ -52,7 +52,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     end
     
     match(doc, '/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]') do |node|
-      node.text = node.text.gsub(/cpb-aacip./, 'cpb-aacip/')
+      node.text = node.text.gsub(/cpb-aacip./, 'cpb-aacip_')
       # Particularly for records from Mississippi that have a '-' instead of '/'
     end
 

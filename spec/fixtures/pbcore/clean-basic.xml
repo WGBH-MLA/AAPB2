@@ -1,7 +1,7 @@
 <pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
   <!-- Root attributes are screwy in AMS export. -->
   <pbcoreIdentifier source='WERU Prog List'>WRF028</pbcoreIdentifier>
-  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/301-60cvdtx8</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip_301-60cvdtx8</pbcoreIdentifier>
   <pbcoreTitle titleType='Series'>Writers Forum</pbcoreTitle>
   <pbcoreTitle titleType='Program'>WRF-09/13/07</pbcoreTitle>
   <pbcoreDescription descriptionType='Description'>Writers Forum</pbcoreDescription>
