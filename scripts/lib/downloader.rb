@@ -46,6 +46,7 @@ class Downloader
       dirname ||= "#{now}_by_ids_#{opts[:ids].size}"
       mkdir_and_cd(dirname, opts[:is_same_mount])
       opts[:ids].each do |id|
+        id = id.gsub(/[^[:ascii:]]/,'').gsub(/[^[:print:]]/,'')
         short_id = id.sub(/.*[_\/]/, '')
         content = if opts[:is_just_reindex]
                     $LOG.info("Query solr for #{id}")

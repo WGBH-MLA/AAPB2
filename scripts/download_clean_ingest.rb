@@ -78,7 +78,7 @@ class DownloadCleanIngest
 
       when ID_FILES
         fail ParamsError.new unless args.count >= 1
-        ids = args.map { |id_file| File.readlines(id_file).map { |line| line.strip } }.flatten
+        ids = args.map { |id_file| File.readlines(id_file) }.flatten
         target_dirs = download(ids: ids)
 
       when DIRS
