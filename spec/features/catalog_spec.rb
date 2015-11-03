@@ -343,8 +343,7 @@ describe 'Catalog' do
       target = PBCore.new(File.read('spec/fixtures/pbcore/'+fixture_name))
       # #text is only used for #to_solr, so it's private...
       # so we need the #send to get at it.
-      target.send(:text).map { |s| s.gsub('_', '/') }.each do |field|
-        # The ID is on the page, but it has a slash, not underscore.
+      target.send(:text).each do |field|
         expect(page).to have_text(field)
       end
     end
