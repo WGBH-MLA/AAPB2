@@ -339,8 +339,6 @@ describe 'Catalog' do
   end
 
   describe '#show' do
-    AGREE = 'I agree'
-
     def expect_all_the_text(fixture_name)
       target = PBCore.new(File.read('spec/fixtures/pbcore/'+fixture_name))
       # #text is only used for #to_solr, so it's private...
@@ -396,6 +394,14 @@ describe 'Catalog' do
         expect_all_the_text('clean-exhibit.xml')
         expect(page).to have_text('only available at WGBH and the Library of Congress. ')
         expect_no_media()
+      end
+      
+      it 'requires click-thru for ORR items' do
+        ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
+        visit 'catalog/cpb-aacip_37-16c2fsnr'
+        click_button('I agree')
+        ENV.delete('RAILS_TEST_IP_ADDRESS')
+        expect_poster('cpb-aacip_37-16c2fsnr')
       end
     end
   end
