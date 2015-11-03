@@ -9,7 +9,7 @@ class ThumbnailsController < ApplicationController
     id = params['id']
     CACHE[id] ||= begin
       _response, document = fetch(id)
-      xml = document.instance_variable_get('@_source')['xml']
+      xml = document['xml']
       PBCore.new(xml).img_src
     end
     redirect_to CACHE[id]

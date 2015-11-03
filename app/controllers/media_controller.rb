@@ -3,7 +3,7 @@ class MediaController < ApplicationController
 
   def show
     _response, document = fetch(params['id'])
-    xml = document.instance_variable_get('@_source')['xml']
+    xml = document['xml']
     pbcore = PBCore.new(xml)
 
     if can?(:play, pbcore) && (current_user.aapb_referer? || current_user.embed?)
