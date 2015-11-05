@@ -47,12 +47,9 @@
 
 - [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
 - [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
--	[A Happy Day in Birmingham, May 10, 1963 (2 of 2)](/catalog/cpb-aacip_500-m9023j32)
--	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
--	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (2 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
--	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
--	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
+-	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [2 of 2](/catalog/cpb-aacip_500-m9023j32)
+-	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [2 of 2](/catalog/cpb-aacip_500-cj87n27n)
+-	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [2 of 2](/catalog/cpb-aacip_500-z60c1503)
 - [Report from the South - James Bevel](/catalog/cpb-aacip_28-j09w08ws94)
 - [Long, Hot Summer '64: Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
 
