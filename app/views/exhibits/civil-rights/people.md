@@ -11,12 +11,9 @@ and a host of direct action campaigns to confront segregation and discrimination
 ### Ralph Abernathy
 
 -	[On Freedom Road with Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
--	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
--	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
--	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
--	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
+-	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
+-	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
+-	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 ### Ella Baker
 
@@ -24,7 +21,7 @@ and a host of direct action campaigns to confront segregation and discrimination
 
 ### James Bevel
 
-- [Report from the South: James Bevel Speech](/catalog/cpb-aacip_28-j09w08ws94)
+- [Report from the South - James Bevel](/catalog/cpb-aacip_28-j09w08ws94)
 
 ### Anne Braden
 
@@ -39,13 +36,17 @@ and a host of direct action campaigns to confront segregation and discrimination
 - [Stokely Carmichael Interview](/catalog/cpb-aacip_28-zw18k75h85)
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
 
+### Leroy Clark
+
+- [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
+
 ### Annie Devine
 
-- [Black Power Surveyed; Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+- [Black Power Surveyed; Handful That We Are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 
 ### James Farmer
 
-- [The Long, Hot Summer 64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
+- [Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
 
 ### David Gelfand
 
@@ -65,21 +66,21 @@ and a host of direct action campaigns to confront segregation and discrimination
 
 ### Dorothy Height
 
--	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
--	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
+-	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 
 ### Myles Horton
 
 - [Thirty Years of Civil Rights Education in the South / Myles Horton](/catalog/cpb-aacip_28-xp6tx35q0h)
 
+### Charles Jones
+
+- [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
+
 ### Martin Luther King, Jr.
 
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
--	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
--	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
--	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
--	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
+-	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
+-	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
+-	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 ### John Lowery
 
@@ -91,12 +92,11 @@ and a host of direct action campaigns to confront segregation and discrimination
 
 ### Ronnie Moore
 
-- [The Battle is not yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
+- [The Battle Is Not Yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
 
 ### Constance Baker Motley
 
--	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
--	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
+-	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 ### Karen Mulloy
 
@@ -108,7 +108,7 @@ and a host of direct action campaigns to confront segregation and discrimination
 
 ### Mary Peabody
 
-- [Dateline St. Augustine; Part 8: A Day of Arrests](/catalog/cpb-aacip_15-87brvgz0)
+- [Dateline St. Augustine; Episode 8: A Day of Arrests](/catalog/cpb-aacip_15-87brvgz0)
 
 ### Joe Pfister
 
@@ -125,7 +125,7 @@ and a host of direct action campaigns to confront segregation and discrimination
 
 ### Ellen Siegel
 
-- [The Long, Hot Summer 64; Episode 11](/catalog/cpb-aacip_15-1615f47p)
+- [Long, Hot Summer '64; Episode 11](/catalog/cpb-aacip_15-1615f47p)
 
 ### Priscilla Stephens
 
@@ -138,6 +138,10 @@ and a host of direct action campaigns to confront segregation and discrimination
 ### James R. Walker, Jr.
 
 -  [The Negro Lawyer in the South](/catalog/cpb-aacip_28-4t6f18sn70)
+
+### Melvyn Zarr
+
+- [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
 
 ### Robert Zellner
 
