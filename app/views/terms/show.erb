@@ -1,5 +1,10 @@
 <% @page_title = @terms.title %>
 
+<div class="alert alert-info">
+  Before proceeding to the Online Reading Room, please review
+  and acknowledge the Online Reading Room Rules of Use.
+</div>
+
 <%= @terms.body_html.html_safe %>
 
 <%= form_tag(url_for(action: :create, only_path: true)) do %>
