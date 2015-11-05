@@ -10,12 +10,9 @@ Locales discussed in this exhibit range across nine states:
 ### Alabama
 #### Birmingham 
 
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p)
--	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-m9023j32)
--	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m)
--	[Mother’s Day, May 12; Birmingham: Testament of Nonviolence, Part 3 (1 of 2)](/catalog/cpb-aacip_500-cj87n27n) 
--	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h)
--	[Back to School in Birmingham; Birmingham: Testament of Nonviolence, Part 4 (2 of 2)](/catalog/cpb-aacip_500-z60c1503)
+-	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
+-	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
+-	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 #### Lowndes County
 
@@ -31,7 +28,7 @@ Locales discussed in this exhibit range across nine states:
 
 #### Tuskegee
 
-- [The Long, Hot Summer 64; Episode 10](/catalog/cpb-aacip_15-87brvgm3 )
+- [The Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-87brvgm3 )
 
 #### Tuscaloosa
 
@@ -43,9 +40,9 @@ Locales discussed in this exhibit range across nine states:
 - [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
 - [Dateline St. Augustine; Episode 1](/catalog/cpb-aacip_15-289gj6vg)
 - [Dateline St. Augustine; Episode 2](/catalog/cpb-aacip_15-23612tg4)
-- [Dateline St. Augustine; Part 8: A Day of Arrests](/catalog/cpb-aacip_15-87brvgz0)
-- [Long, Hot Summer 64; Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
-- [Long, Hot Summer 64; Episode 2](/catalog/cpb-aacip_15-02c86fs0)
+- [Dateline St. Augustine; Episode 8: A Day of Arrests](/catalog/cpb-aacip_15-87brvgz0)
+- [Long, Hot Summer '64; Episode 1](/catalog/cpb-aacip_15-50tqk2fw)
+- [Long, Hot Summer '64; Episode 2](/catalog/cpb-aacip_15-02c86fs0)
 
 #### Tallahassee
 
@@ -59,7 +56,7 @@ Locales discussed in this exhibit range across nine states:
 
 #### Savannah
 
-- [Report from the South: James Bevel Speech](/catalog/cpb-aacip_28-j09w08ws94)
+- [Report from the South - James Bevel](/catalog/cpb-aacip_28-j09w08ws94)
 
 #### Southwest Georgia
 
@@ -73,16 +70,16 @@ Locales discussed in this exhibit range across nine states:
 ### Louisiana
 #### Baton Rouge
 
-- [The Battle is not yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
+- [The Battle Is Not Yet Won](/catalog/cpb-aacip_28-2z12n4zs1w)
 
 ### Mississippi
 #### Canton
 
-- [Handful that We are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
+- [Handful That We Are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 
 #### Drew
 
-- [The Long, Hot Summer 64; Episode 11](/catalog/cpb-aacip_15-1615f47p)
+- [Long, Hot Summer '64; Episode 11](/catalog/cpb-aacip_15-1615f47p)
 
 #### Greenwood
 
@@ -121,7 +118,7 @@ Locales discussed in this exhibit range across nine states:
 ### South Carolina
 #### Charleston
 
-- [Five Sat Down](/catalog/cpb-aacip_500-5q4rp59q)
+- [Coming of Age: Five Sat Down](/catalog/cpb-aacip_500-5q4rp59q)
 
 ### Tennessee
 #### Knoxville
