@@ -33,10 +33,10 @@ Public Broadcasting (1979)</footer>
 
 In August 2013, the Library and WGBH received a grant from the Corporation for 
 Public Broadcasting to engage in the first phase of a long-term project to 
-preserve public media. During this first phase, scheduled to end in March 2016, 
+preserve public media. During this first phase, scheduled to end in September 2016, 
 the Library and WGBH are overseeing the digitization of approximately 40,000 
 hours of programs selected by more than 100 public broadcasting stations 
-throughout the nation. Dating from the 1950s to the 21st century and emanating 
+throughout the nation. Dating from the 1940s to the 21st century and emanating 
 from all regions of the nation, these programs will be available to scholars, 
 researchers, educators, students, and the general public at the Library’s 
 audiovisual research centers and at WGBH.
@@ -50,9 +50,10 @@ broadcasters.
 <footer>The Information Needs of Communities (FCC Report, July 2011)</footer>
 
 
-During the initial phase, the American Archive will launch a website to give 
+During the initial phase, the American Archive has launched a website to give 
 the public online access to thousands of hours of programming – as much 
-material as legally possible to include. In addition, the website will provide 
+material as legally possible to include. More than 7,000 historic public radio and television programs 
+are now available for streaming and more content will be added periodically. In addition, the website provides
 data records for approximately 2.5 million items inventoried by public 
 broadcasting stations for this project. 
 
@@ -177,7 +178,7 @@ publicly accessible digitally reformatted audiovisual materials will ensure
 that future operations of the American Archive are performed according to 
 highest standards and best practices.
 WGBH and the Library believe that the legacy of American public broadcasting 
-must be preserved for future generations. We look forward to maintaing a 
+must be preserved for future generations. We look forward to maintaining a 
 central role in keeping, organizing and providing access to the cultural 
 treasures created by the public media system to enhance education and knowledge 
 of the American public.
