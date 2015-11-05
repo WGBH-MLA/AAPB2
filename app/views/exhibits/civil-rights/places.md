@@ -5,6 +5,9 @@
 ## Summary
 
 ![Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Places.jpg "Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.")
+
+## Extended
+
 Locales discussed in this exhibit range across nine states:
 
 ### Alabama

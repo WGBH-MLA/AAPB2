@@ -6,6 +6,7 @@ class Exhibit < Cmless
   ROOT = (Rails.root + 'app/views/exhibits').to_s
 
   attr_reader :summary_html
+  attr_reader :extended_html
   attr_reader :author_html
   attr_reader :main_html
   attr_reader :resources_html
@@ -53,9 +54,8 @@ class Exhibit < Cmless
   end
 
   def items
-    # TODO: Add the items of the children.
     @items ||= begin
-      doc = Nokogiri::HTML(summary_html + main_html + head_html)
+      doc = Nokogiri::HTML(summary_html + extended_html + main_html + head_html)
       hash = Hash[
         doc.xpath('//a').select do |el|
           el.attribute('href').to_s.match('^/catalog/.+')
