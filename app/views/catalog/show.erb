@@ -108,7 +108,7 @@
       
   <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
     <h4>
-      <% exhibit_caption = "This record is featured in “#{exhibit.title}”." %>
+      <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
       <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>">
         <span class="glyphicon glyphicon-star"></span>
         <strong><%= exhibit_caption %></strong>
