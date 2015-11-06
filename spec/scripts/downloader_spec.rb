@@ -1,9 +1,10 @@
 require 'tmpdir'
 require_relative '../../scripts/lib/downloader'
 
-describe Downloader, not_on_travis: true do
-  # Could be run on Travis, but very slow, and it depends on an outside service.
-  it 'can download the past 7 days' do
+describe Downloader do
+  it 'can download the past 7 days', not_on_travis: true do
+    # I really don't think it's a good idea to make the tests dependent
+    # on the activity of the catalogers, though this is a good test otherwise.
     Dir.mktmpdir do |tmpdir|
       Dir.chdir(tmpdir) do |dir|
         count_before = Dir.entries(dir).count
