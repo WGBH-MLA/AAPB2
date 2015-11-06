@@ -15,7 +15,7 @@ television content has been digitized and preserved. The AAPB Online Reading Roo
 
 The AAPB website provides three layers of searching and browsing:
 
-- Users can access the [AAPB Online Reading Room](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=online), which provides online access to some of the digitized collectionfor private research, educational and informational purposes. 
+- Users can access the [AAPB Online Reading Room](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=online), which provides online access to some of the digitized collection for private research, educational and informational purposes. 
 - Users can [search metadata records for all 40,000 hours of digitized content](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized), including content that is available in the Online Reading Room and content that is only available for viewing and listening [on location](/on-location) at WGBH and the Library of Congress. 
 - Users can search search and browse the [2.5 million million metadata records](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=all) that document public radio and television assets existing at more than 120 public media stations and archives across the country. Most of these assets have not been digitized. 
 
