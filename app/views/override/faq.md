@@ -57,7 +57,7 @@ determinations.
 
 ## What is the Online Reading Room?
 
-The AAPB Online Reading Room provide accesss to digitized video and audio archival materials in the 
+The AAPB Online Reading Room provides accesss to digitized video and audio archival materials in the 
 collection for private research, educational, and informational purposes. Patron 
 uses will be restricted to those permitted under copyright law. 
 
