@@ -5,6 +5,8 @@
 ![Early WGBH Control Room](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg "Early WGBH Control Room")
 Every public broadcasting station starts their history with a first broadcast, but these first moments on the air are only the beginning in terms of important milestones in a station’s history. Public broadcasting stations have continued to grow and evolve through out the twentieth and twenty-first centuries, implementing new technologies, building new facilities, and working tirelessly to address the expanding needs of their audiences. Many stations were able to record and preserve these moments, some of which we are fortunate enough to have in the AAPB, and which we want to share with you in this exhibit. 
 
+## Extended
+
 ## Author
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>

@@ -21,6 +21,7 @@ of conversations on climate change—its causes, impacts, and proposed
 solutions—from 1970, the first year that Earth Day was celebrated, to the
 present.
 
+## Extended
 
 ## Author
 

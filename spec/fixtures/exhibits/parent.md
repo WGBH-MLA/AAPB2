@@ -5,6 +5,10 @@
 ![alt text](http://example.org/image)
 Summary goes here.
 
+## Extended
+
+This section won't show up on search results.
+
 ## Author
 
 Author goes here.
