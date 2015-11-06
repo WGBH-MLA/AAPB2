@@ -35,16 +35,18 @@ heritage institutions and projects.
 (ARSC)](http://www.arsc-audio.org/index.php)
 - [Association of Moving Image Archivists (AMIA)](http://www.amianet.org/)
   - [AMIA Education Committee](https://amiaeducomm.wordpress.com/)
+- [Association of Tribal Archives, Libraries, and Museums](http://www.atalm.org)
 - [National Digital Stewardship Alliance 
 (NDSA)](http://www.digitalpreservation.gov/ndsa/)
 - [Society of American Archivists (SAA)](http://www2.archivists.org/)
   - [SAA, Recorded Sound 
 Roundtable](http://www2.archivists.org/groups/recorded-sound-roundtable)
-  - [SAA, Visual Materials Section](http://archivesinaction.com/VMS/)
+  - [SAA, Visual Materials Section](http://saavms.org)
 - [Visual Resources Association](http://vraweb.org/)
 
 ### Regional:
 
+- [Conference of Inter-Mountain Archivists](http://cimarchivists.org/)
 - [Mid-Atlantic Regional Archives Conference (MARAC)](http://www.marac.info/)
 - [Midwest Archives Conference (MAC)](http://www.midwestarchives.org/)
 - [New England Archivists (NEA)](http://www.newenglandarchivists.org/)
@@ -70,9 +72,6 @@ XML schema for video and audio metadata.
 
 - [PBCore website](http://pbcore.org/)
 - [PBCore webinar](http://vimeo.com/109940772)
-- PBCore Advisory Subcommittee
-- Spreadsheet template from CIP
-- Content Management Systems (CMS) with PBCore Profiles
 
 ## Guides
 
@@ -91,17 +90,10 @@ Edition)](https://archive.org/details/AMIM2)
 WITNESS](http://archiveguide.witness.org/)
 - [Bay Area Video Coalition (BAVC) AV Artifact 
 Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas)
-- [Video Identification and Assessment Guide (2004), Texas Commission on the 
-Arts](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
+- [Preservation Self-Assessment Program's Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
 
 
 ## Preservation
-
-### Digital Repository Solutions
-
-- [Archivematica](http://www.archivematica.org/en/)
-- [Hydra](http://projecthydra.org/)
-
 
 ### Reports
 
@@ -109,11 +101,12 @@ Arts](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
 (2014)](http://www.iasa-web.org/notice_board/iasa-publishes-authoritative-guide-handling-and-storage-sound-and-video-recordings)
 - [NDSA Levels of 
 Preservation](http://www.digitalpreservation.gov/ndsa/activities/levels.html)
+- [Preserving Digital Public Television](http://www.digitalpreservation.gov/partners/pdpt.html)
 
  
-### Other tools
+### Other Tools
 
-- [Tools developed by 
+- [Audiovisual Preservation Tools developed by 
 AVPreserve](http://www.avpreserve.com/avpsresources/tools/)
 - [NEDCC dPlan Online Disaster-Planning 
 Tool](https://www.nedcc.org/free-resources/dplan-the-online-disaster-planning-tool)
