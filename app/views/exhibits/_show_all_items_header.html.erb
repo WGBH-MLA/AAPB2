@@ -1,2 +1,3 @@
-<%= link_to(exhibit.title, "/exhibits/#{exhibit.path}") %>
+<h4><%= link_to(exhibit.title, "/exhibits/#{exhibit.path}") %></h4>
+
 <%= sanitize(exhibit.summary_html, tags: []) %>
