@@ -65,7 +65,7 @@
       <div class="panel-body">
         <div class="row">
           <div class="col-sm-9"><h3><%= @exhibit.title %></h3></div>
-          <div class="col-sm-3"><a class="btn btn-primary" href="<%= '/catalog?view=gallery&f[exhibits][]=' + @exhibit.path %>">Show All Items</a></div>
+          <div class="col-sm-3"><a class="btn btn-primary" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>">Show All Items</a></div>
         </div>
       </div>
     </div>
