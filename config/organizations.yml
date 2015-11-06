@@ -442,9 +442,8 @@
     social media. Through our use of streaming technology, we now have a global broadcast
     audience of viewers and listeners throughout the United States and 17 countries.
 
-    As
-    a Central New York’s public media voice and a dual licensee public broadcaster
-    (now five television and three radio channels), serves 1.8 million households
+    As Central New York's public media voice and a dual licensee public broadcaster
+    (now five television and three radio channels), WCNY serves 1.8 million households
     over an area that comprises about one-third of New York.  This audience relies
     on WCNY for local television and radio production, educational outreach, and educational
     web content and services.  We are an innovator in local and national programming,
@@ -473,17 +472,20 @@
     content-rich programming, is what we do.  The archives provide WCNY with a way
     to ensure that our programming history is recorded, and that productions we have
     created are accessible for future generations.
-  productions_md: 'From a television perspective, Artic Air, The Barn, Central New
+  productions_md: |
+    Television: Artic Air, The Barn, Central New
     York in the 40s, William Henry Seward: Lincoln’s Right Hand, The Performers: Taking
     Center Stage in NYS Agriculture, Dream Destinations: New York’s Contemporary Canals,
     Losing Ground: The Battle to Preserve War of 1812 Battlefields in New York State,
     and annual Bluegrass Ramble Picnics and Barn Dances are examples of significant
-    local history, arts, and public affairs programming our staff has created.  The
+    local history, arts, and public affairs programming our staff has created.  
+    
+    Radio:The
     radio recordings of the now-defunct Syracuse Symphony, Live at Noon specials,
     and Bluegrass Ramble shows hosted by Bill Knowlton, the recipient of a Distinguished
     Achievement Award from the International Bluegrass Music Association for his pioneering
     work in the field of bluegrass music, are examples of significant radio productions
-    created by WCNY.'
+    created by WCNY.
 
 - pbcore_name: Iowa Public Television
   id: 1770
