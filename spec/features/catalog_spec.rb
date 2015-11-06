@@ -220,14 +220,9 @@ describe 'Catalog' do
 
       describe 'exhibit facet' do
         describe 'in gallery' do
-          it 'has exhibition description' do
+          it 'has exhibit description' do
             visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCore::ALL_ACCESS
             expect(page).to have_text('Every public broadcasting station')
-          end
-
-          it 'has individual descriptions' do
-            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCore::ALL_ACCESS
-            expect(page).to have_text('Dedication ceremony of Arkansas’ new Educational Broadcasting Facility')
           end
         end
 
@@ -235,11 +230,6 @@ describe 'Catalog' do
           it 'has exhibit description' do
             visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
             expect(page).to have_text('Every public broadcasting station')
-          end
-
-          it 'has individual descriptions' do
-            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
-            expect(page).to have_text('dedication ceremony of the new Educational Television facility')
           end
         end
       end
