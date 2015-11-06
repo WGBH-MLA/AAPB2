@@ -118,3 +118,15 @@ module Blacklight::FacetsHelperBehavior
       # END patch
   end
 end
+
+module Blacklight::FacetsHelperBehavior
+  def should_collapse_facet? facet_field
+    # Before:
+    #   !facet_field_in_params?(facet_field.field) && facet_field.collapse
+    # BEGIN patch
+    facet_field.collapse == :force || (
+      !facet_field_in_params?(facet_field.field) && facet_field.collapse
+    )
+    # END patch
+  end
+end
