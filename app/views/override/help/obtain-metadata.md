@@ -1,15 +1,12 @@
 # Obtaining Your Organization's Metadata
 
-To obtain a copy of the records that describe the moving image and sound assets 
-submitted to the AAPB by your organization, you may easily do so through the 
-[Archival Management System (AMS)](https://ams.americanarchive.org). There are 
+You may easily obtain a copy of the records that describe the moving image and sound assets submitted to the AAPB by your organization through the [Archival Management System (AMS)](https://ams.americanarchive.org). There are 
 two formats available for record export: a limited CSV or PBCore XML.
 
 ## Limited CSVs
 
 A limited CSV exported from the AMS provides a basic inventory list of your 
-records that you can open as an Excel spreadsheet or another application that 
-supports CSV such as OpenOffice or GoogleDocs. 
+records. You can also open this in another application that supports CSV, such as OpenOffice, or upload it into GoogleDocs.
 
 The inventory list includes the following six columns:
 
