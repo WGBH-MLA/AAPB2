@@ -9,7 +9,7 @@ public broadcasting radio and television programming, ensuring its collection,
 management, preservation, and access. In August 2013, the Corporation for 
 Public Broadcasting selected WGBH and the Library of Congress as the permanent 
 stewards of the AAPB collection. To date, almost 40,000 hours of historic public broadcasting radio and
-television content has been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection is available for research [on location](/on-location) at WGBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not yet been digitized.
+television content has been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection, consisting of 68,000 items (40,000 hours) is available for research [on location](/on-location) at WGBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not yet been digitized.
 
 ## What is available on the AAPB website?
 
@@ -27,8 +27,7 @@ After you conduct a search on the AAPB website, click the ["All Digitized"](/cat
 
 ## I want to conduct research using the entire AAPB collection. How can I do so?
 
-The entire AAPB collection, consisting of 40,000 hours of historic public 
-television and radio programming and 68,000 items, is available for research at 
+The entire AAPB collection, consisting of 68,000 items (40,000 hours), is available for research at 
 WGBH in Boston and the Library of Congress in 
 Washington, D.C. More information about on-location research policies and 
 scheduling an appointment is available [here](/on-location). 
@@ -62,12 +61,12 @@ The AAPB Online Reading Room provide accesss to digitized video and audio archiv
 collection for private research, educational, and informational purposes. Patron 
 uses will be restricted to those permitted under copyright law. 
 
-## If I would like to license or reuse content in the archive, who do I contact?
+## If I would like to license or reuse content in the archive, whom do I contact?
 
 It is your responsibility to determine and satisfy all copyright and other use 
 restrictions before using content in the AAPB. If you have selected an item or 
 items that you want to license for reuse, you should contact the contributing 
-organization that is listed in the metadata record. 
+organization that is listed in the metadata record. All organizations have a website URL provided in their [organizations'](/participating-orgs) page.
 
 ## If I found an item on the AAPB website that I would like to view/listen to that wasn't digitized, how can I gain access to it?
 
@@ -82,7 +81,7 @@ organizations; producers for public media (e.g. PRI, ITVS); and repositories
 holding public media content are all eligible to contribute to the AAPB 
 collection.
 
-## How can my organization get involved in the American Archive initiative?
+## How can my organization get involved in the AAPB?
 
 AAPB Project Staff are currently working on a collection development policy 
 to guide the growth of the collection and the workflows to add new metadata 
