@@ -16,8 +16,15 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="nav-column">
         <ul class="nav navbar-nav">
-          <% links.each do |name,link| %>
+          <% links.each do |name,link,subs=nil| %>
             <li><a href="<%= link %>" ><%= name %></a></li>
+            <% if subs %><%# This could be recursive... %>
+              <ul>
+                <% subs.each do |name,link| %>
+                  <li><a href="<%= link %>" ><%= name %></a></li>
+                <% end %>
+              </ul>
+            <% end %>
           <% end %>
         </ul>
       </div><!-- /.navbar-collapse -->
