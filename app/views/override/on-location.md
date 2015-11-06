@@ -3,7 +3,7 @@
 ![banner](/page-banners/banner2.jpg)
 
 
-Members of the general public may access the American Archive of Public Broadcasting metadata records and proxy files within the WGBH Media Library and Archives offices and at the Library of Congress Moving Image and Recorded Sound Research Centers. Users accessing AAPB materials at the on-site research locations must agree to abide by AAPB Access Policies. 
+Approximately 10% of the American Archive of Public Broadcasting (AAPB) collection is accessible anywhere in the United States through the Online Reading Room on the AAPB website. Members of the general public may access the entire collection within the WGBH Media Library and Archives offices and at the Library of Congress Moving Image and Recorded Sound Research Centers. Content is accessible as proxy files, or low-resolution viewing/listening copies provided through the AAPB website. Users accessing AAPB materials at the on-site research locations must agree to abide by AAPB Access Policies. 
 
 ## Visiting WGBH
 
@@ -18,9 +18,9 @@ Boston, MA 02135<br/>
 
 Researchers must first schedule a research appointment with the WGBH AAPB Project Manager, Casey Davis, who can be contacted at casey_davis@wgbh.org. Researchers may visit anytime during normal business hours. Directions to WGBH and additional information will be provided after a research appointment is scheduled. Researchers also will be asked to read, complete, and sign the WGBH AAPB Access Policy. 
 
-The Media Library and Archives will provide appropriate reference services and research space. All research and access to proxy files will be conducted in the Media Library and Archives. Researchers will use pencils or pens; no cameras or other recording devices are permitted. Downloading proxy files will only be allowed if the rights holder(s) have previously granted the researcher permission. Copies of materials for scholarly use will be granted in accordance with the fair use provisions of the Copyright Act. The scholar must give a list of their copy requests to the AAPB Project Manager, and copies will be made by the Media Library and Archives staff. Scholars must provide their own storage device.
+The Media Library and Archives will provide appropriate reference services and research space. All research and access to proxy files will be conducted in the Media Library and Archives. Researchers will use pencils or pens; no cameras or other recording devices are permitted. Copies of materials for scholarly use will be granted in accordance with the fair use provisions of the Copyright Act. The scholar must give a list of their copy requests to the AAPB Project Manager, and copies will be made by the Media Library and Archives staff. Scholars must provide their own storage device.
 
-The AAPB Collection must be acknowledged in publications as follows: [name of Contributing Organization], American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC. The Media Library and Archives will receive free of charge, one copy of any paper, book, thesis, or article drawing substantially on materials from the AAPB. 
+The AAPB Collection must be acknowledged in publications as follows: [name of Contributing Organization], American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC. The Media Library and Archives will receive, free of charge, one copy of any paper, book, thesis, or article drawing substantially on materials from the AAPB. 
 
 ## Visiting the Library of Congress
 
