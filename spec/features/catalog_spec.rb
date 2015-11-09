@@ -301,7 +301,7 @@ describe 'Catalog' do
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH'],
                 ['Title: Scheewe Art Workshop', 'Organization: Detroit Public Televi'],
                 ['Program: The Sorting Test: 1', 'Organization: WUSF'],
-                ['Program: SORTING Test: 2', 'Organization: Detroit Public Televi'],
+                ['Program: # "SORTING" Test: 2', 'Organization: Detroit Public Televi'],
                 ['Program: A Sorting Test: 100', 'Organization: WNYC'],
                 ['Episode: Touchstone 108', 'Organization: Iowa Public Televisio'],
                 ['Program: Unknown', 'Organization: WIAA'],
