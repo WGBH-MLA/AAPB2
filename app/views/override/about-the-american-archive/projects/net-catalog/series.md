@@ -1,5 +1,7 @@
 #The NET Collection
 
+![banner](/page-banners/banner4.jpg)
+
 ##Series Titles
 
 **Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH, originally shot on videotape in black and white.</br>
