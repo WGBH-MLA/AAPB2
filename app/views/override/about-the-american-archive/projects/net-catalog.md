@@ -9,3 +9,9 @@ The NET Collection is an invaluable record of non-commercial TV programming from
 Of the 8,000-10,000 NET titles, few are known to scholars because, to date, they have been stored in unprocessed collections. With the NET Collection accessible, television studies scholars can embark on in-depth studies of the network, access its innovative series, compare commercial and noncommercial television, and examine programs that offer diverse perspectives on topics such as bias in newscasts, the effects of television on politics and on children, and federal involvement in public broadcasting.
 
 The centralized catalog will enable institutions holding NET materials to catalog their NET materials more efficiently. Collection managers will be able to make informed preservation decisions. Researchers, teachers, students, and audiovisual producers will be able to search the catalog for programs relating to a large variety of interests and then access programs onsite at the most appropriate archival institution. 
+
+While we're still working on the gathering the information for the catalog, we are eager to share the title lists we've been able to compile so far. If you have any more information about these titles, please contact Sadie Roosa at sadie_roosa@wgbh.org.
+
+[Individual Program Titles](/net-catalog/programs)
+
+[Series Titles](net-catalog/series)
