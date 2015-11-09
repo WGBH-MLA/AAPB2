@@ -1,5 +1,7 @@
 #The NET Collection
 
+![banner](/page-banners/banner4.jpg)
+
 ##Program Titles
 
 **15th National Debate Tournament at West Point**: 30 minute program</br>
