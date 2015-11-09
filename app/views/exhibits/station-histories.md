@@ -28,7 +28,7 @@ AAPB Metadata Specialist
 
 Public broadcasting began at the local level. Each station’s history is unique and tied closely to the community it serves. 
 
-Many early educational stations started out when broadcast technology, whether radio or television, was new and largely untested, especially at large universities that used the new means of communication to extend their mission beyond classrooms and campuses. A University of Illinois professor remembers that one radio station on campus [“was in somebody’s laboratory, and then pretty soon its operations got too big for that laboratory, and they had to provide a bigger space for them.”](http://americanarchive.org/catalog/cpb-aacip_16-79v15q57)
+Many early educational stations started out when broadcast technology, whether radio or television, was new and largely untested, especially at large universities that used the new means of communication to extend their mission beyond classrooms and campuses. A University of Illinois professor remembers that one radio station on campus ["was in somebody’s laboratory, and then pretty soon its operations got too big for that laboratory, and they had to provide a bigger space for them."](http://americanarchive.org/catalog/cpb-aacip_16-79v15q57)
 
 In other cases, people decided that public broadcasting was the best way to address needs in larger communities. In Arkansas, this occurred at the state level, with the establishment of the Arkansas Educational Television Network, championed by state politicians. Radio Bilingue, created in Fresno, California, to provide better information to the local Spanish-speaking community, eventually extended its reach to the larger Latino community throughout the nation. 
 
