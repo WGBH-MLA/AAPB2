@@ -226,6 +226,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
   end
 
   def self.clean_title(title)
+    title = title.gsub(/^(.*), (a|an|the)$/i, '\2 \1')
     if title =~ /[A-Z]/ && title =~ /[a-z]/
       title # No change, if mix of upper and lower.
     else

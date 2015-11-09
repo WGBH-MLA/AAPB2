@@ -51,6 +51,7 @@ describe Cleaner do
 
   describe '#clean_title' do
     {
+      'The redundant trailing article, A' => 'A The redundant trailing article',
       'No change if a mix of UPPER and lower' => 'No change if a mix of UPPER and lower',
       'guesses some: xkcd, cnn, rdf, wgbh, dc' => 'Guesses Some: XKCD, CNN, RDF, WGBH, DC',
       'HARD CODED: CEO, LA, MIT, UC-DAVIS, WETA' => 'Hard Coded: CEO, LA, MIT, UC-Davis, WETA',
