@@ -44,7 +44,7 @@ describe 'Catalog' do
   describe '#index' do
     it 'has facet messages' do
       visit '/catalog'
-      expect(page).to have_text('Cataloging in progress: Only 1/3 of AAPB records are currently dated.')
+      expect(page).to have_text('Cataloging in progress: less than half of records for digitized assets are currently dated.')
     end
 
     it 'can find one item' do
