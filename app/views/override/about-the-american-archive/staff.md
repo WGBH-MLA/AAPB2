@@ -106,7 +106,7 @@ Sadie's current favorite AAPB collection item is an ["Melvin King on the Ten O'C
 ## Library of Congress Supporting Staff
 
 ### Christopher Barr
-#### Systems Programmer, Information Technology Service
+#### Systems Programmer, Office of the Chief Information Officer
 
 ### Jason Butler
 #### Robotics Operator, National Audio-Visual Conservation Center
@@ -169,7 +169,7 @@ Sadie's current favorite AAPB collection item is an ["Melvin King on the Ten O'C
 #### Chief Technology Officer, National Audio-Visual Conservation Center
 
 ### Scott Rife
-#### Senior System Administrator, Information Technology Service
+#### Senior System Administrator, Office of the Chief Information Officer
 
 ### Sue Siegel
 #### Director of Development, Development Office
