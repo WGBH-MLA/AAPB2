@@ -78,7 +78,7 @@ class CatalogController < ApplicationController
                                            collapse: :force
                            # Display all, even when one is selected.
     config.add_facet_field 'year', sort: 'index', range: true,
-                                   message: 'Cataloging in progress: Only 1/3 of AAPB records are currently dated.'
+                                   message: 'Cataloging in progress: less than half of records for digitized assets are currently dated.'
     config.add_facet_field 'access_types', label: 'Access', partial: 'access_facet',
                                            tag: 'access', ex: 'access', collapse: false
 
