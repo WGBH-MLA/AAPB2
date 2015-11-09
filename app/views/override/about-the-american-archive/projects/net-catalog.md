@@ -14,4 +14,4 @@ While we're still working on the gathering the information for the catalog, we a
 
 [Individual Program Titles](/net-catalog/programs)
 
-[Series Titles](net-catalog/series)
+[Series Titles](/net-catalog/series)
