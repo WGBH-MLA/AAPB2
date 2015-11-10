@@ -13,78 +13,64 @@
     <div class="well footer-links">
       <!-- Row Two: List Links -->
       <div class="row two">
-
-        <!-- Grid Cell -->
-        <div class="col-md-6 clearfix">
-
-          <div class="panel panel-default naked-panel">
-
-
-            <div class="panel-body">
-              <ul class="list-group">
-                <li class="list-group-item"><a href="/about-the-american-archive">About the AAPB</a></li>
-                <li class="list-group-item"><a href="/about-the-american-archive/vision-and-mission">Vision &amp; Mission</a></li>
-                <li class="list-group-item"><a href="/about-the-american-archive/history">History</a></li>
-                <li class="list-group-item"><a href="/about-the-american-archive/staff">Staff</a></li>
-                <li class="list-group-item"><a href="/about-the-american-archive/funding">Funding</a></li>
-                <li class="list-group-item"><a href="/about-the-american-archive/projects">Projects</a></li>
-                <li class="list-group-item"><a href="/about-the-american-archive/executive-advisory-council">Executive Advisory Council</a></li>
-                <li class="list-group-item"><a href="/about-the-american-archive/acknowledgments">Acknowledgments</a></li>
-              </ul>
-            </div>
+        <% 
+          [
+            [
+              {
+                '/about-the-american-archive' => 'About the AAPB',
+                '/about-the-american-archive/vision-and-mission' => 'Vision & Mission',
+                '/about-the-american-archive/history' => 'History',
+                '/exhibits' => 'Exhibits',
+                '/about-the-american-archive/staff' => 'Staff',
+                '/about-the-american-archive/funding' => 'Funding',
+                '/about-the-american-archive/projects' => 'Projects',
+                '/about-the-american-archive/executive-advisory-council' => 'Executive Advisory Council',
+                '/about-the-american-archive/acknowledgments' => 'Acknowledgments',
+                },
+              {
+                '/contact-us' => 'Contact Us',
+                '/search' => 'Searching the Website',
+                '/on-location' => 'On Location Research',
+                '/faq' => 'FAQ'
+                },
+              ],
+            [
+              {
+                '/help/using-the-ams' => 'Using the AMS',
+                '/help/obtain-metadata' => 'Obtaining Metadata',
+                '/help/submit-metadata' => 'Submitting Metadata',
+                '/resources' => 'Resources',
+                'http://ndsr.americanarchive.org/'=> 'NDSR'
+                },
+              {
+                '/legal/orr-rules' => 'ORR Rules of Use',
+                '/legal/tou' => 'Terms of Use',
+                '/legal/privacy' => 'Privacy Policy'
+              }
+            ]
+          ].each_with_index do |pairs, i| %>
+          <div class="col-md-6 clearfix">
+            <% pairs.each_with_index do |links, j| %>
+              <div class="panel panel-default naked-panel">
+                <div class="panel-body">
+                  <ul class="list-group">
+                    <% links.each do |href, name| %>
+                      <li class="list-group-item"><%= link_to(name, href) %></li>
+                    <% end %>
+                  </ul>
+                  <% if i == 1 && j == 1 %>
+                    <ul class="social list-unstyled">
+                      <li class="blog"><a class="blog" href="https://americanarchivepb.wordpress.com/" target="_blank" title="Read the AAPB Blog">Read Our Blog</a></li>
+                      <li class="twitter"><a href="https://twitter.com/amarchivepub" target="_blank" title="Follow us on Twitter">Follow us on Twitter</a></li>
+                      <li class="facebook"><a href="https://www.facebook.com/amarchivepub" target="_blank" title="Like us on Facebook">Like us on Facebook</a></li>
+                    </ul>
+                  <% end %>
+                </div>
+              </div>
+            <% end %>
           </div>
-
-          <div class="panel panel-default naked-panel">
-           
-            <div class="panel-body">
-              <ul class="list-group">
-                <li class="list-group-item"><a href="/contact-us">Contact Us</a></li>
-                <li class="list-group-item"><a href="/search">Searching the Website</a></li>
-                <li class="list-group-item"><a href="/on-location">On Location Research</a></li>
-                <li class="list-group-item"><a href="/faq">FAQ</a></li>
-              </ul>
-            </div>
-          </div>
-          
-        </div>
-        <!-- END Grid Cell -->
-
-        
-
-        <!-- Grid Cell -->
-        <div class="col-md-6 clearfix">
-          
-          <div class="panel panel-default naked-panel">
-            <div class="panel-body">
-              <ul class="list-group">
-                <li class="list-group-item"><a href="/help/using-the-ams">Using the AMS</a></li>
-                <li class="list-group-item"><a href="/help/obtain-metadata">Obtaining Metadata</a></li>
-                <li class="list-group-item"><a href="/help/submit-metadata">Submitting Metadata</a></li>
-                <li class="list-group-item"><a href="/resources">Resources</a></li>
-                <li class="list-group-item"><a href="http://ndsr.americanarchive.org/" target="_blank">NDSR</a></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="panel panel-default naked-panel">
-            <div class="panel-body">
-              <ul class="list-group">
-                <li class="list-group-item"><a href="/legal/orr-rules">ORR Rules of Use</a></li>
-                <li class="list-group-item"><a href="/legal/tou">Terms of Use</a></li>
-                <li class="list-group-item"><a href="/legal/privacy">Privacy Policy</a></li>
-              </ul>
-              <ul class="social list-unstyled">
-                <li class="blog"><a class="blog" href="https://americanarchivepb.wordpress.com/" target="_blank" title="Read the AAPB Blog">Read Our Blog</a></li>
-                <li class="twitter"><a href="https://twitter.com/amarchivepub" target="_blank" title="Follow us on Twitter">Follow us on Twitter</a></li>
-                <li class="facebook"><a href="https://www.facebook.com/amarchivepub" target="_blank" title="Like us on Facebook">Like us on Facebook</a></li>
-              </ul>
-            </div>
-          </div>
-
-        </div>
-        <!-- END Grid Cell -->
-
-      </div> <!-- END Row Two -->
+        <% end %>
+      </div>
     </div><!-- END Footer Links Well -->
 
     <hr>
