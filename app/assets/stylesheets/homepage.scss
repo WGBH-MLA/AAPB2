@@ -2,6 +2,9 @@
  * HOMEPAGE STYLES
  */
 
+// TODO: I see at least one place where styles can be consolidated.
+// Go through and DRY up selector declarations.
+
 /* sets width for Homepage Container */
 .blacklight-home {
     #main-container {
@@ -46,7 +49,7 @@
         width: 100%;
         z-index: 10;
 
-        .affix {
+        &.affix {
             background: url(/site-ui/aapb-site-sprite.png) repeat-x 0 0;
             background-color:rgba(24,18,40,.8);
             left:0;
@@ -157,7 +160,10 @@
             width:100%;
             z-index:1;
         }
-    
+
+        &:first-of-type {
+          padding: 2em 1em;
+        }
     }
 
     /* Home Jumbotron - Welcome */
@@ -233,7 +239,7 @@
         .jumbotron {
             padding:5em 1em 2em 1em;
             #welcome {
-                padding:2em 1em;
+                padding: 2em 1em;
             }
         }
 
