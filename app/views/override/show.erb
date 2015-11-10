@@ -21,13 +21,13 @@
 
 
 <% content_for :override_main do %>
-<div class="override-main">
-  <%= @override.body_html.html_safe %>
-</div>
+  <div class="override-main">
+    <%= @override.body_html.html_safe %>
+  </div>
 <% end %>
 
 <%= render partial: 'shared/title_sidebar_main', 
            locals: {
              sidebar: yield(:sidebar),
-             main: content_for(:override_main)
+             main: yield(:override_main)
            } %>
