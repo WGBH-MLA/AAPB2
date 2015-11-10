@@ -238,7 +238,7 @@ describe 'Catalog' do
         describe 'relevance sorting' do
           assertions = [
             ['Iowa', ['Touchstone 108', 'Musical Encounter; 116; Music for Fun', 'Dr. Norman Borlaug; B-Roll']],
-            ['art', ['Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
+            ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
             ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll']]
           ]
           assertions.each do |query, titles|
@@ -299,7 +299,7 @@ describe 'Catalog' do
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH'],
                 ['Title: Podcast Release Form', 'Organization: KXCI Community Radio'],
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH'],
-                ['Title: Scheewe Art Workshop', 'Organization: Detroit Public Televi'],
+                ['Title: The Scheewe Art Works', 'Organization: Detroit Public Televi'],
                 ['Program: The Sorting Test: 1', 'Organization: WUSF'],
                 ['Program: # "SORTING" Test: 2', 'Organization: Detroit Public Televi'],
                 ['Program: A Sorting Test: 100', 'Organization: WNYC'],
