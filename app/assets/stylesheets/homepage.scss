@@ -162,6 +162,9 @@
         }
 
         &:first-of-type {
+          /* The non-first ones are given extra padding above to make space for the 
+          floating menu. This is an override, because the first jumbotron just has 
+          an in-place menu: It's only in the lower sections that this matters. */
           padding: 2em 1em;
         }
     }
