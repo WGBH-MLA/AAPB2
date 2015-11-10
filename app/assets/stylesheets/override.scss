@@ -1,0 +1,22 @@
+
+
+.override-main {
+  p:first-child {
+    // Special handling for the banner image.
+    margin: 0px;
+    display: inline-block;
+    
+    &:after {
+      content: "";
+      clear: both;
+      height: 0;
+      visibility: hidden;
+      display: block;
+    }
+  }
+
+  img {
+    float: left;
+    margin-right: 10px;
+  }
+}
