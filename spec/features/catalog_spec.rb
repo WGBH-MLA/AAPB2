@@ -334,6 +334,7 @@ describe 'Catalog' do
       # #text is only used for #to_solr, so it's private...
       # so we need the #send to get at it.
       target.send(:text).each do |field|
+        field.gsub!("cpb-aacip_", 'cpb-aacip/') if field =~ /^cpb-aacip/
         expect(page).to have_text(field)
       end
     end
@@ -353,7 +354,7 @@ describe 'Catalog' do
     end
     
     it 'apologizes if no access' do
-      visit '/catalog/cpb-aacip_80-12893j6c'
+      visit '/catalog/cpb-aacip-80-12893j6c'
       # No need to click through
       expect_all_the_text('clean-bad-essence-track.xml')
       expect(page).to have_text('This content has not been digitized.')
