@@ -73,7 +73,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @exhibits ||= Exhibit.find_all_by_item_id(id)
   end
   def id
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
+    # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
+    # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
+    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub("cpb-aacip/", 'cpb-aacip_')
   end
   SONY_CI = 'Sony Ci'
   def ids
@@ -101,7 +103,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @img_src ||=
       case [media_type, digitized?]
       when [MOVING_IMAGE, true]
-        "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
+        # Mississipie IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
+        "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, "cpb-aacip_")}.jpg"
       when [MOVING_IMAGE, false]
         '/thumbs/video-not-digitized.jpg'
       when [SOUND, true]

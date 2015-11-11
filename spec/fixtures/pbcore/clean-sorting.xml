@@ -1,6 +1,6 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
   <pbcoreIdentifier source='WTVS DATABASE ID'>WTVS009483</pbcoreIdentifier>
-  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip_240-07tmpw1x</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/240-07tmpw1x</pbcoreIdentifier>
   <pbcoreTitle titleType='Program'># &quot;SORTING&quot; Test: 2</pbcoreTitle>
   <pbcoreDescription>#5+7</pbcoreDescription>
   <pbcoreInstantiation>

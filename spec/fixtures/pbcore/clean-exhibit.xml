@@ -2,7 +2,7 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
   <pbcoreAssetType>Program</pbcoreAssetType>
   <pbcoreAssetDate dateType='Created'>1981-12-05</pbcoreAssetDate>
-  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip_111-21ghx7d6</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/111-21ghx7d6</pbcoreIdentifier>
   <pbcoreIdentifier source='Arkansas Educational Television Network (AETN) Production Video Library (PVL)'>534</pbcoreIdentifier>
   <pbcoreIdentifier source='Sony Ci'>4d09bc902a5b45f1a9ead4fce04c807e</pbcoreIdentifier>
   <pbcoreTitle titleType='Program'>15th Anniversary Show</pbcoreTitle>
