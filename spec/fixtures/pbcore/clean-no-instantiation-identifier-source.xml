@@ -1,7 +1,7 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
   <pbcoreAssetType>Segment</pbcoreAssetType>
   <pbcoreIdentifier source='WXPN Barcode'>Howard Kramer</pbcoreIdentifier>
-  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip_155-451g1rsx</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/155-451g1rsx</pbcoreIdentifier>
   <pbcoreTitle titleType='Program'>World Cafe</pbcoreTitle>
   <pbcoreTitle titleType='Segment'>Howard Kramer 2004</pbcoreTitle>
   <pbcoreSubject>Interview</pbcoreSubject>

@@ -1,7 +1,7 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
   <pbcoreAssetType>Program</pbcoreAssetType>
   <pbcoreIdentifier source='WPBS-TV'>Four Decades of Dedication: The 40th Anniversary Special</pbcoreIdentifier>
-  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip_254-92g79p08</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/254-92g79p08</pbcoreIdentifier>
   <pbcoreTitle titleType='Program'>Four Decades of Dedication: The 40th Anniversary Special</pbcoreTitle>
   <pbcoreTitle titleType='Title'>Handles missing titleTypes, too.</pbcoreTitle>
   <pbcoreSubject>WPBS 40 years</pbcoreSubject>

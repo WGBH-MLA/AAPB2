@@ -1,7 +1,7 @@
 <pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
   <pbcoreIdentifier source='Asset ID'>1018184</pbcoreIdentifier>
   <pbcoreIdentifier source='Interlochen Center for the Arts'>43825000002120</pbcoreIdentifier>
-  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip_300-23vt4h5m</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/300-23vt4h5m</pbcoreIdentifier>
   <pbcoreTitle titleType='Program'>unknown</pbcoreTitle>
   <pbcoreDescription>Location: Interlochen Public Radio Archives</pbcoreDescription>
   <pbcoreDescription>National Music Camp | program file no. 95</pbcoreDescription>
