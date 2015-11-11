@@ -334,7 +334,7 @@ describe 'Catalog' do
       # #text is only used for #to_solr, so it's private...
       # so we need the #send to get at it.
       target.send(:text).each do |field|
-        field.gsub!("cpb-aacip_", 'cpb-aacip/') if field =~ /^cpb-aacip/
+        field.gsub!("cpb-aacip_", 'cpb-aacip/') if field =~ /^cpb-aacip/ # TODO: Remove when we sort out ID handling.
         expect(page).to have_text(field)
       end
     end
