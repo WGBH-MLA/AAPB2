@@ -11,8 +11,8 @@
 // about supported directives.
 //
 //= require jquery
+//= require jquery.turbolinks
 //= require jquery_ujs
-//= require turbolinks
 //
 // Required by Blacklight
 //= require blacklight/blacklight
@@ -22,3 +22,4 @@
 // this:
 //= require 'blacklight_range_limit'
 
+//= require turbolinks
