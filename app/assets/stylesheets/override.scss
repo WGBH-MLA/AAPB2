@@ -1,11 +1,10 @@
 
 
 .override-main {
+  margin-top: -15px;
   p:first-child {
     // Special handling for the banner image.
     margin: 0px;
-    display: inline-block;
-    
     &:after {
       content: "";
       clear: both;
