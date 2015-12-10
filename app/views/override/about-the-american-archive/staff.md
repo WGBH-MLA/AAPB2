@@ -174,11 +174,11 @@ Sadie's current favorite AAPB collection item is an ["Melvin King on the Ten O'C
 ### Sue Siegel
 #### Director of Development, Development Office
 
-### Lauren Sorensen
-#### Former Digital Conversion Specialist, National Audio-Visual Conservation Center
-
 ### James Snyder
 #### Senior Systems Administrator, National Audio-Visual Conservation Center
+
+### Lauren Sorensen
+#### Former Digital Conversion Specialist, National Audio-Visual Conservation Center
 
 ### Mark Sweeney
 #### Associate Librarian for Library Services
