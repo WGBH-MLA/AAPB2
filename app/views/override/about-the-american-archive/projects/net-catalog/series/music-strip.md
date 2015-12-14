@@ -6,6 +6,7 @@ Music Strip is an anthology series that focuses on music topics.  The episodes c
 ###Episodes
 1. The Evil Queen, broadcast in 1963, produced by Swedish TV. and Canterbury Choir Boy, broadcast on 1963-09-20, produced by Associated British-Pathe Limited, England.
 2. La Traviata, broadcast on 1963-09-27, produced by Radio-Televisione Italiana.
+3. *epsiode title not known*
 4. A Masked Ball, broadcast on 1963-10-11, produced by Radio-Televisione Italiana.
 5. La Scala di Seta, broadcast on 1963-10-18, produced by Cine Lirica Italiana.
 6. A Concert for Strings and Woodwinds, broadcast on 1963-10-25, produced by WTTW.
