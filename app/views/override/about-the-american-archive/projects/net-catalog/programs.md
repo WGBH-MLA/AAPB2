@@ -1766,3 +1766,25 @@ All of the individual programs that we know were distributed by NET are listed h
 **Young People's Film Festival**: 1 hour program<br />
 **Youth Dances**: 15 minute program, produced by the Dance in Education Fund.<br />
 **Yugoslavia: Education Builds a Nation**: 30 minute program<br />
+A Concert for Stings and Winds *see* **A Concert for Strings and Woodwinds**<br/>
+A Word on Rome *see* **A Word About Rome**<br/>
+Guests of the Planet/Any Resemblances *see* **Any Resemblances**<br/>
+Basic Russisan Language: TV Schoolhouse *see* **Basic Russian Language: TV Schooltime**<br/>
+Public Schools of England *see* **British Public Schools**<br/>
+Conversation with Saul Alinsky: Radical *see* **Conversation with Saul Alinsky**<br/>
+D-Day 25th Anniversary *see* **D-Day and 25**<br/>
+Eastern Europe '69 *see* **Dateline: Eastern Europe**<br/>
+Dwight David Eisenhower: 34th President of the United States *see* **Dwight David Eisenhower**<br/>
+Dennis Mitchell Films: Grassroots *see* **Grassroots**<br/>
+The Queen's Christmas Message *see* **Her Majesty, Queen Elizabeth Christmas Message to the Commonwealth **<br/>
+Coleman Hawkins In Memorium *see* **In Memorium: Coleman Hawkins**<br/>
+The Insect Play *see* **Insect Comedy**<br/>
+A Summer of Music: June 1968 *see* **June 1968: A Summer of Music**<br/>
+Kennedy from WTTW *see* **Kennedy**<br/>
+Leinsdorf Rehearses *see* **Leinsdorf Recreates**<br/>
+Message from Violet Drive *see* **Messenger from Violet Drive**<br/>
+Middle East: US Disaster *see* **Middle East: UN Disaster**<br/>
+The Barbershoppers *see* **Music Men: A Look at Barber Shopping**<br/>
+Innsbruck /Tokyo 1964  *see* **Olympics in Innsbruck and Tokyo 1964**<br/>
+Onion Johnnie *see* **Onion Johnny**<br/>
+Education Builds a Nation *see* **Yugoslavia: Education Builds a Nation**<br/>
