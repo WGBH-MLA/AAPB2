@@ -3,6 +3,8 @@
 ![banner](/page-banners/banner4.jpg)
 
 ##Series Titles
+All of the series that we know were distributed by NET are listed here, with as much information about their production as we have gathered so far, including episode titles when known. If you have any additional information about these series, have copies of these series in your collection, or know of any other series distrbuted by NET, please contact Sadie Roosa at sadie_roosa@wgbh.org.
+
 
 **Aaron Copland: Music in the Twenties**: produced by WGBH in 1965 and originally shot on videotape in black and white. This series consists of 12 half-hour episodes: *Background 1910-1919*; *Paris: Les Six*; *Jazz and Jazz Influence*; *Neo-Classicism*; *Central Europe: 12-Tone Revolution*; *New Movements in Opera*; *Nationalism: European Style*; *Nationalism: New World Style*; *New Faces*; *American Music in the 20s*; *Experimental Attitudes. Part 1*; *Experimental Attitudes. Part 2*.<br/>
 **About Ceramics**: produced by WGTV in 1962 and originally shot on videotape in color. This series consists of 6 half-hour episodes: *Clay: Fountainhead of the Potter's Art*; *Forms: Product of Man and Material*; *Forms: Need They Be Round*; *Ornament: Clothing for Ceramic Forms*; *Glass: Sister Material of Clay*; *The World of Today's Potter*.<br/>
