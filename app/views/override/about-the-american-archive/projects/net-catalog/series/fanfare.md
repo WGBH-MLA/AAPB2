@@ -16,9 +16,9 @@ Fanfare is an anthology series that focuses on music and performing arts.  The e
 9. San Francisco Rock: Go Ride the Music
 10. San Francisco Rock at the Family Dog
 11. Gertrude Stein: When You See This, Remember Me
-12. Hansel and Gretel, broadcast on 1970-12-27, produced by Canadian Broadcasting Corporation, NET, and British Broadcasting Corporation. <br/>
+12. Hansel and Gretel, broadcast on 1970-12-27 by Canadian Broadcasting Corporation, NET, and British Broadcasting Corporation. <br/>
 13. Happy New Yves
-14. Earl Scruggs: His Family and Friends, broadcast on 1971-01-10, produced by Amram Nowak Associates. <br/>
+14. Earl Scruggs: His Family and Friends, broadcast on 1971-01-10 by Amram Nowak Associates. <br/>
 15. Cash!
 16. And Now All the Way from Bakersfield California, Merle Haggard
 17. Orpheus Then and Now
@@ -26,12 +26,12 @@ Fanfare is an anthology series that focuses on music and performing arts.  The e
 19. An Evening with the Vienna Philharmonic
 20. World of Nicolai Gedda
 21. Queen of Spades
-22. Mingus, broadcast on 1971-03-07, produced by Thomas Reichman. <br/>
-23. Melina Mecouri: I Was Born Greek, broadcast on 1970-03-10 and 1971-03-14, produced by Allan King Associates. <br/>
+22. Mingus, broadcast on 1971-03-07 by Thomas Reichman. <br/>
+23. Melina Mecouri: I Was Born Greek, broadcast on 1970-03-10 by Allan King Associates. <br/>
 24. Quartet
 25. Cinderella
 26. Peter, Paul and Mary: The Song is Love
-27. Jazz at Tanglewood: Judy Collins and Don Ellis, broadcast on 1969-10-07 and 1971-04-11, produced by WGBH. <br/>
+27. Jazz at Tanglewood: Judy Collins and Don Ellis, broadcast on 1969-10-07 by WGBH. <br/>
 28. Eurovision Song Contest
 29. Arlo Guthrie
 30. Silverbird: The Birth of a Navajo Rock Group
@@ -46,13 +46,13 @@ Fanfare is an anthology series that focuses on music and performing arts.  The e
 39. The March King: John Philip Sousa
 40. American Odyssey: Off to the Sea Again, broadcast in 1971. <br/>
 41. *episode title not known*
-42. American Odyssey: The Midnight Special, broadcast on 1971-07-25, produced by WTIF. <br/>
+42. American Odyssey: The Midnight Special, broadcast on 1971-07-25 by WTIF. <br/>
 43. *episode title not known*
-44. Leopold Stokowski, broadcast on 1970-04-28 and 1971-08-08, produced by NET. <br/>
-45. Stokowski Rehearses, broadcast on 1971-08-15, produced by NET Division, Educational Broadcasting Corporation. <br/>
+44. Leopold Stokowski, broadcast on 1970-04-28 by NET. <br/>
+45. Stokowski Rehearses, broadcast on 1971-08-15 by NET Division, Educational Broadcasting Corporation. <br/>
 46. San Francisco Rock at the Family Dog (repeat of Episode 10)
 47. *episode title not known*
-48. Jazz at Tanglewood: Moden Jazz Quartet, broadcast on 1969-07-08 and 1971-06-27, produced by WGBH. <br/>
+48. Jazz at Tanglewood: Moden Jazz Quartet, broadcast on 1969-07-08 by WGBH. <br/>
 49. *episode title not known*
 50. Well Tempered Listener
 51. Roberta Peters
