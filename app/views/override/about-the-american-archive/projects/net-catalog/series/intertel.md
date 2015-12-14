@@ -1,7 +1,7 @@
 #The NET Collection
 
 ##Intertel
-
+Intertel is an anthology series that features documentaries on world issues.  The episodes come from many producers, and some aired as individual programs before airing on Intertel.
 
 ###Episodes
 1. The Quiet War, broadcast on 1961-06-04, produced by Associated-Rediffusion.
