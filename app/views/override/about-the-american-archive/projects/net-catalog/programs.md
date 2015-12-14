@@ -1776,7 +1776,7 @@ D-Day 25th Anniversary *see* **D-Day and 25**<br/>
 Eastern Europe '69 *see* **Dateline: Eastern Europe**<br/>
 Dwight David Eisenhower: 34th President of the United States *see* **Dwight David Eisenhower**<br/>
 Dennis Mitchell Films: Grassroots *see* **Grassroots**<br/>
-The Queen's Christmas Message *see* **Her Majesty, Queen Elizabeth Christmas Message to the Commonwealth **<br/>
+The Queen's Christmas Message *see* **Her Majesty, Queen Elizabeth Christmas Message to the Commonwealth**<br/>
 Coleman Hawkins In Memorium *see* **In Memorium: Coleman Hawkins**<br/>
 The Insect Play *see* **Insect Comedy**<br/>
 A Summer of Music: June 1968 *see* **June 1968: A Summer of Music**<br/>
