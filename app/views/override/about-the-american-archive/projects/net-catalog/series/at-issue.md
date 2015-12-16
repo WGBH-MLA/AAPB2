@@ -2,7 +2,7 @@
 
 ##At Issue
 
-At Issue is an anthology series that focuses on news and public affairs topics.  The episodes come from many producers, and some aired as individual programs before airing on At Issue.
+At Issue is a monthly public affairs series covering a variety of topics.
 
 ###Episodes
 1. Slowdown in Congress, broadcast on 1963-10-07.
