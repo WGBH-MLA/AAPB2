@@ -1,4 +1,4 @@
-#The NET Collection
+#National Educational Television (NET) Collection Catalog Project
 
 ![banner](/page-banners/banner4.jpg)
 
@@ -1582,3 +1582,6 @@ A Word on Rome *see* **A Word About Rome**<br/>
 **Young People's Film Festival**: 1 hour program.<br />
 **Youth Dances**: 15 minute program, produced by the Dance in Education Fund.<br />
 **Yugoslavia: Education Builds a Nation**: 30 minute program.<br />
+
+Return to [NET Collection Catalog Project Page](/net-catalog)
+Go to the [List of Series Title](/net-catalog/series)
