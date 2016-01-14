@@ -1,4 +1,4 @@
-#The NET Collection
+#National Educational Television (NET) Collection Catalog Project
 
 ![banner](/page-banners/banner4.jpg)
 
@@ -613,3 +613,6 @@ World's Fair in America *see* **As Fairs Go**<br/>
 **Your Dollar's Worth**: This series consists of 36 half-hour episodes: *Calorie Counters*; *TV Repairs*; *Shopping for Money*; *Vitamins*; *Used Cars*; *Life Insurance*; *On Face Value*; *Discount and Mail Order*; *The Big Tin Cup*; *Auto Safety*; *Auto Insurance: The Crashing Point*; *Push-button Living*; *Wall Street: Place Your Bets*; *Prescription Drugs*; *Income Tax*; *Auto Repairs*; *What Price Paradise*; *Mr. Luckett*; *Credit Card in American Life*; *April*.<br/>
 **Your Marriage**: produced by KUON in 1962. This series consists of 13 half-hour episodes: *Working at Marriage*; *Resolving Your Marital Deadlocks*; *Woman, Wife, or What?*; *Modern Man's Dilemma*; *But We're Different*; *Accommodate or Assimilate*; *We Can't Communicate*; *Bridging Romance and Routine*; *Communion of Mind and Body*; *Moods in Marriage*; *Sensible Management*; *Meeting the Bumps*; *A Couples Community*.<br/>
 **Youth Forum**: This series consists of 2 episodes: *Why Underwater Research? Part 1 and 2*.<br/>
+
+Return to the [NET Collection Catalog Project Page](/net-catalog)
+Go to the [List of Individual Program Titles](/net-catalog/programs)
