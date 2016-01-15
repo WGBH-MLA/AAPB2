@@ -1,4 +1,4 @@
-# Voices of Democracy: Public Media and Presidential Collections
+# Voices of Democracy: Public Media and Presidential Elections
 
 ## Summary
 
