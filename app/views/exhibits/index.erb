@@ -1,22 +1,8 @@
 <% content_for :sidebar do %>
   <%= render 'shared/sidebar_search' %>
   <%= render partial: 'shared/sidebar_nav', 
-             locals: { 
-              title: 'Exhibits', # TODO: Would make more sense if this were one of the pages listed.
-              links: [ # TODO: If we really want the same thing as the about pages, 
-                       # find a place to share: Maybe const on controller?
-                        ['About the AAPB', '/about-the-american-archive'],
-                        ['Vision and Mission', '/about-the-american-archive/vision-and-mission'],
-                        ['On Location Research', '/on-location'],
-                        ['History', '/about-the-american-archive/history'],
-                        ['Projects', '/about-the-american-archive/projects'],
-                        ['Staff', '/about-the-american-archive/staff'],
-                        ['Funding', '/about-the-american-archive/funding'],
-                        ['Acknowledgments', '/about-the-american-archive/acknowledgments'],
-                        ['FAQ', '/faq'],
-                        ['Contact Us', '/contact-us']
-                      ]
-            } %>
+             locals: { title: 'Exhibits' } # TODO: Would make more sense if this were one of the pages listed.
+  %>
 <% end %>
   
 <% content_for :main do %>

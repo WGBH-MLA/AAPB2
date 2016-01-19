@@ -1,36 +1,55 @@
-<% if !links.empty? %>
-  <nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-column">
-          <span class="sr-only">Toggle navigation</span>
-          <!-- Expando button for narrow views -->
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <h4><%= title %></h4>
-      </div>
+<%
+  links ||= [
+    ['About the AAPB', '/about-the-american-archive'],
+    ['Vision and Mission', '/about-the-american-archive/vision-and-mission'],
+    ['On Location Research', '/on-location'],
+    ['History', '/about-the-american-archive/history'],
+    ['Exhibits', '/exhibits'],
+    ['Projects', nil, [
+      ['Permanent Entity Grant', '/about-the-american-archive/projects/permanent-entity'],
+      ['National Educational Television', '/about-the-american-archive/projects/net-catalog'],
+      ['National Digital Stewardship Residency', '/about-the-american-archive/projects/ndsr'],
+      ['Transcript Project', '/about-the-american-archive/projects/transcript-project']
+    ]],
+    ['Staff', '/about-the-american-archive/staff'],
+    ['Funding', '/about-the-american-archive/funding'],
+    ['Executive Advisory Council', '/about-the-american-archive/executive-advisory-council'],
+    ['Acknowledgments', '/about-the-american-archive/acknowledgments'],
+    ['FAQ', '/faq'],
+    ['Contact Us', '/contact-us']
+  ]
+%>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-column">
+        <span class="sr-only">Toggle navigation</span>
+        <!-- Expando button for narrow views -->
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <h4><%= title %></h4>
+    </div>
 
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="nav-column">
-        <ul class="nav navbar-nav">
-          <% links.each do |name,link,subs=nil| %>
-            <li>
-              <%= link ? link_to(name, link) : content_tag('a', name) %>
-              <%# <a> in either case for consistent style. %>
-            </li>
-            <% if subs %><%# This could be recursive... %>
-              <ul>
-                <% subs.each do |name,link| %>
-                  <li>&bull; <%= link_to(name, link) %></li>
-                <% end %>
-              </ul>
-            <% end %>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="nav-column">
+      <ul class="nav navbar-nav">
+        <% links.each do |name,link,subs=nil| %>
+          <li>
+            <%= link ? link_to(name, link) : content_tag('a', name) %>
+            <%# <a> in either case for consistent style. %>
+          </li>
+          <% if subs %><%# This could be recursive... %>
+            <ul>
+              <% subs.each do |name,link| %>
+                <li>&bull; <%= link_to(name, link) %></li>
+              <% end %>
+            </ul>
           <% end %>
-        </ul>
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
-  </nav>
-<% end %>
+        <% end %>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
