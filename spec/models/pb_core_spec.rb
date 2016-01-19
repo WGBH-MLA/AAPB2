@@ -58,7 +58,7 @@ describe 'Validated and plain PBCore' do
 
       it 'rejects undigitized w/ "Level of User Access"' do
         invalid_pbcore = pbc_xml.gsub(
-          /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
+          /<pbcoreIdentifier source='Sony Ci'[^<]+<[^>]+>/,
           '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Should not have "Level of User Access" annotation if not digitized/))
@@ -66,7 +66,7 @@ describe 'Validated and plain PBCore' do
 
       it 'rejects "Outside URL" if not explicitly ORR' do
         invalid_pbcore = pbc_xml.gsub( # First make it un-digitized
-          /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
+          /<pbcoreIdentifier source='Sony Ci'[^<]+<[^>]+>/,
           '').gsub( # Then remove access
             /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
             '')
@@ -183,6 +183,10 @@ describe 'Validated and plain PBCore' do
 
       it 'tests everthing' do
         expect(assertions.keys.sort).to eq(PBCore.instance_methods(false).sort)
+      end
+      
+      it 'has extra info on ci_ids' do
+        expect(pbc.ci_ids.map { |ci_id| ci_id.protected? }).to eq([false, true])
       end
     end
   end

@@ -4,7 +4,7 @@
   <pbcoreIdentifier source='http://americanarchiveinventory.org'>1234</pbcoreIdentifier>
   <pbcoreIdentifier source='somewhere else'>5678</pbcoreIdentifier>
   <pbcoreIdentifier source='Sony Ci'>a-32-digit-hex</pbcoreIdentifier>
-  <pbcoreIdentifier source='Sony Ci'>another-32-digit-hex</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci' annotation='protected'>another-32-digit-hex</pbcoreIdentifier>
   <pbcoreTitle titleType='Series'>Nova</pbcoreTitle>
   <pbcoreTitle titleType='Program'>Gratuitous Explosions</pbcoreTitle>
   <pbcoreTitle titleType='Episode Number'>3-2-1</pbcoreTitle>

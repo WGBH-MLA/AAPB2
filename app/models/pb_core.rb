@@ -89,7 +89,27 @@ class PBCore # rubocop:disable Metrics/ClassLength
     end
   end
   def ci_ids
-    @ci_ids ||= xpaths("/*/pbcoreIdentifier[@source='#{SONY_CI}']")
+    @ci_ids ||= REXML::XPath.match(@doc, "/*/pbcoreIdentifier[@source='#{SONY_CI}']").map do|rexml|
+      rexml.text.tap do |ci_id|
+        annotations = REXML::XPath.match(rexml, '@annotation').map { |rexml_a| rexml_a.value }
+        case annotations
+        when []
+          class << ci_id
+            def protected?
+              false
+            end
+          end
+        when ['protected']
+          class << ci_id
+            def protected?
+              true
+            end
+          end
+        else
+          fail("Unexpected annotation value: #{annotations}")
+        end
+      end
+    end
   end
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
