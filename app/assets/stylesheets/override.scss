@@ -4,7 +4,6 @@
   p:first-child {
     // Special handling for the banner image.
     margin: 0px;
-    display: inline-block;
     
     &:after {
       content: "";
