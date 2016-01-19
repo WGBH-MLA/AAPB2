@@ -14,10 +14,6 @@ describe GeoIPCountry do
     expect(country_for_domain('umass.edu')).to eq 'US'
   end
 
-  it 'puts BBC in GB' do
-    expect(country_for_domain('bbc.co.uk')).to eq 'GB'
-  end
-
   it 'puts canada.ca in CA' do
     expect(country_for_domain('canada.ca')).to eq 'CA'
   end
