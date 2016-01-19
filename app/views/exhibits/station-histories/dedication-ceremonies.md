@@ -16,7 +16,7 @@ Dedication ceremonies of new buildings and facilities signify that a station is 
 
 Much as communities come together to celebrate achievements, they also come together to mourn losses. That is why this section also includes the announcement made by WGBH executives David Ives and Hartford Gunn after the massive fire that destroyed their studios in 1961.
 
-[Next: Retrospective Anniversary Specials](exhibits/station-histories/restrospective-anniversaries)
+[Next: Retrospective Anniversary Specials](/exhibits/station-histories/restrospective-anniversaries)
 
 ## Resources
 
