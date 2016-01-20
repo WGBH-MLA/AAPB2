@@ -1,0 +1,5 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html'>
+  <!-- Realistically, there would be another Ci they do have access to. -->
+  <pbcoreIdentifier source='Sony Ci' annotation='protected'>this-makes-it-digitized</pbcoreIdentifier>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
