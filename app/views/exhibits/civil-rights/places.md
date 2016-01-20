@@ -102,7 +102,7 @@ Locales discussed in this exhibit range across nine states:
 
 #### Natchez
 
-- [One Year Later in Mississippi](catalog/cpb-aacip_15-88qc028z)
+- [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 #### Winona
 
