@@ -120,7 +120,7 @@ Movement activists include:
 
 ### Ed Pincus
 
-- [One Year Later in Mississippi](catalog/cpb-aacip_15-88qc028z)
+- [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 ### Charles Sherrod
 
