@@ -1,0 +1,114 @@
+#The NET Collection
+
+##NET Journal
+NET Journal is an anthology series that focuses on news and public affairs topics.  The episodes come from many producers, and some aired as individual programs before airing on NET Journal.
+
+###Episodes
+- The 6th Paul, broadcast in 1969, produced by Rediffusion Television.
+- Asian Prayer, Asian Sword, broadcast on 1967-08-20, produced by BBC.
+- Battered Child, broadcast on 1969-08-18, produced by WTTW.
+- Beginning of Life, broadcast on 1968-03-18, produced by NET.
+- Black Natchez, broadcast on 1967-03-27, produced by Edward Pincus and David Neuman.
+- Burma/Korea: Uneasy Peace, broadcast on 1969-06-16, produced by Norddeutscher Rundfunk.
+- Children in the Balance, broadcast on 1969-01-06, produced by NET.
+- China in the 70s, broadcast on 1970-08-10, produced by University of Minnesota in cooperation with KTCA.
+- Color Us Black, broadcast on 1968-05-06, produced by NET.
+- Conservative Mr. Buckley, broadcast on 1969-11-03, produced by NET.
+- Conversation with Richard Nixon, broadcast on 1967-11-27, produced by NET.
+- Conversation with Svetlana Allilu, broadcast in 1967, produced by WGBH.
+- Czechoslovakia: The Wayward Satellite, broadcast on 1968-09-09, produced by NET.
+- D-Day and 25, broadcast on 1969-06-02, produced by NCRV, Dutch Television.
+- Darwin, broadcast on 1968-07-08, produced by Canadian Broadcasting Corporation.
+- Diary of a Student Revolution, broadcast in 1969, produced by NET.
+- The Disordered Mind, broadcast on 1967-08-07, produced by Canadian Broadcasting Corporation.
+- The Drinking American
+- The Enclosure, broadcast in 1970, produced by NET.
+- Eton, broadcast in 1967, produced by BBC.
+- Face to Face with China, broadcast in 1970, produced by German TV.
+- Farewell to Arabia, broadcast in 1967, produced by INTERTEL.
+- Fasten Your Seat Belts: A Report on the Crisis in the Air, broadcast in 1968, produced by Canadian Broadcasting Corporation.
+- Father Berrigan: The Holy Outlaw, broadcast on 1970-09-07, produced by NET.
+- A Few Castles in Spain, broadcast on 1967-07-10, produced by BBC.
+- Fidel, broadcast in 1969, produced by KQED.
+- Flowers on a One Way Street
+- France is Dead, Long Live France
+- Freedom and Famine, broadcast in 1968, produced by Rediffusion Television.
+- Freud: Man and His Mind
+- From Protest to Resistance
+- George Wallace on his Politics and the Presidency, broadcast on 1968-08-12, produced by APT (Alabama PTV).
+- Germany After the Fall, broadcast in 1969.
+- Ghandi's India, broadcast in 1969, produced by BBC.
+- A Glimpse of China, broadcast on 1970-01-19, produced by Canadian Broadcasting Corporation.
+- H. L. Hunt: The Richest and the Rightest
+- Hard Times in the Country
+- Headstart in Mississippi, broadcast in 1966, produced by NET.
+- Hiroshima-Nagasaki
+- Homefront 1967, broadcast in 1967, produced by NET.
+- Hospital, broadcast in 1969, produced by NET.
+- A House in the Jungle, broadcast in 1970, produced by Australian TV.
+- How to Be First, broadcast in 1966, produced by BBC.
+- Hubert Humphrey on Government and the Presidency, broadcast in 1968, produced by KCET.
+- Huelga, broadcast in 1968, produced by KING.
+- Human Cargo
+- If I Don't Agree Must I Go Away
+- In The Company of Men
+- Indonesia: The New Order, broadcast in 1967, produced by NET.
+- Justice and the Poor, broadcast on 1967-10-16, produced by NET.
+- Kaddish, broadcast on 1969-12-15, produced by Radio Bremen.
+- Kuwait, broadcast on 1968-06-24, produced by BBC.
+- The Last Campaign of Robert Kennedy, broadcast on 1969-05-19, produced by TV Fernsehen.
+- The Last Chance, broadcast on 1966-12-19.
+- Lay My Burden Down, broadcast on 1966-11-21, produced by NET.
+- Life Style, broadcast on 1969-10-13, produced by NET.
+- Light of Asia, broadcast on 1967-09-25, produced by Associated Television, London.
+- The Long Walk, broadcast on 1970-04-20, produced by KQED.
+- Losing Just the Same, broadcast on 1966-11-28, produced by KQED.
+- LSD: Lettvin vs Leary, broadcast on 1967-11-20, produced by WGBH.
+- Matador, broadcast on 1969-10-20, produced by BBC.
+- A Matter of Time, broadcast on 1969-08-04, produced by Canadian Broadcasting Corporation.
+- McCarthy and the Presidency
+- Men Against Cancer, broadcast on 1968-04-01, produced by Rediffusion Television.
+- Midsummer 1967, broadcast on 1967-04-06, produced by NET.
+- Modern Women: The Uneasy Life, broadcast on 1966-12-12, produced by NET.
+- Must I Serve, broadcast on 1968-01-15, produced by NET.
+- My Name is Children, broadcast on 1967-06-05, produced by Quest Production.
+- New Leader in Canada, broadcast in 1968.
+- Nixon Inauguration
+- North Vietnam, broadcast in 1967, produced by NET.
+- Opium Trail, broadcast in 1966, produced by ITC.
+- The People Question Vice President Humphrey
+- The Philippines: Guns Before Bread
+- A Plague on Your Children, broadcast in 1968, produced by BBC.
+- Plumes for My Rich Aunt, broadcast in 1968, produced by BBC.
+- Politics '68, broadcast in 1968, produced by NET.
+- The Question of Violence, broadcast in 1968, produced by NET.
+- Report from Saigon, broadcast in 1970, produced by NET.
+- Rockefeller and the Presidency, broadcast in 1968.
+- Russia
+- Schizophrenia: The Shattered Mirror, broadcast in 1966, produced by Harold Mayer Productions.
+- Seantors' Dissent on Vietnam: Anti-war Senators
+- Search for the Lost Self, broadcast in 1966, produced by NET.
+- The Smoking Spiral, broadcast in 1967, produced by NET.
+- Spring in Ethiopia
+- Staggerlee: A Conversation with Bobby Seale, broadcast in 1970, produced by KQED.
+- Thailand, broadcast in 1967, produced by German TV.
+- That Was the Election That Was
+- To Calm a Troubled Campus, broadcast in 1969, produced by NET.
+- To Save Tomorrow, broadcast in 1969, produced by WTTW.
+- The Transition: Richard Nixon
+- TV and the White House
+- Two Views
+- University of Pennsylvania
+- University Power, broadcast in 1967, produced by WGBH.
+- The Unknown War, broadcast in 1967, produced by Associated Television, London.
+- Warfront '68
+- The Warren Years, produced by NET.
+- The Way it is
+- The Welfare Revolt, broadcast in 1967, produced by NET.
+- What Happened Up There, broadcast in 1967, produced by NET.
+- What Harvest for the Reaper, broadcast in 1968, produced by NET.
+- Where They Stand
+- Who Invited Us, broadcast in 1970, produced by NET.
+- Who Needs an Upper Crust, broadcast in 1967, produced by German TV.
+- Who Speaks for Man
+- World of Piri Thomas

@@ -1,0 +1,112 @@
+#The NET Collection
+
+##NET Festival
+
+NET Festival is an anthology series that features performing arts contant.  The episodes come from many producers, and some aired as individual programs before airing on NET Festival.
+
+###Episodes
+- About the White Bus, broadcast on 1970-08-25, produced by Dateline Productions Limited.
+- Act Now, broadcast on 1969-10-28, produced by KQED.
+- An Hour with Joan Sutherland, broadcast on 1965-10-29, produced by NET at WGBH.
+- Anna Karenina
+- Apollo and Igor Stravinsky, broadcast on 1968-10-13, produced by National Film Board of Canada and Studio Hamburg, Germany.
+- Bartok at Tanglewood, broadcast on 1969-04-15, produced by WGBH and NET.
+- Beethoven the Emperor, broadcast on 1970-09-22, produced by WGBH.
+- The Biber Sonata, broadcast in 1965, produced by Telepool-Munich.
+- Bluebeard's Castle, broadcast on 1968-08-11, produced by British Home Entertainment.
+- Boston Pops
+- Boston Pops III , broadcast on 1968-03-17, produced by WGBH.
+- Boston Symphony at Tanglewood, broadcast in 1968, produced by WGBH.
+- Carl Sandburg Remembered, broadcast on 1968-07-21, produced by NET.
+- Carlos Chavez, broadcast on 1968-03-10, produced by NET by KQED.
+- Carmina Burana, broadcast on 1968-07-28, produced by NET.
+- Charles Ives: Symphony No. 4, broadcast on 1965-12-17, produced by .
+- Chicago Double Bill, broadcast in 1968, produced by WTTW.
+- Chicago Picasso: Greatness in the Making, broadcast on 1967-12-17, produced by NET.
+- Chopin: A Question of Stature, broadcast in 1968, produced by BBC.
+- Coppelia, broadcast on 1969-11-25, produced by BBC.
+- Cranko's Castle, broadcast on 1969-06-03, produced by BBC.
+- Dance Theatre of Jose Limon, broadcast on 1965-01-21, produced by WGBH.
+- Don Giovanni, broadcast on 1966-02-04, produced by Harmomy Films Ltd..
+- Double Concerto, broadcast on 1968-01-28, produced by BBC.
+- Duke Ellington at the Cote D'Azur
+- Duke Ellington: A Concert of Sacred Music, broadcast on 1967-06-16, produced by KQED.
+- Duke Ellington: Love You Madly, broadcast on 1967-06-11, produced by KQED.
+- Dylan Thomas: The World I Breathe, broadcast on 1968-10-20, produced by NET.
+- Elizabeth Schwarzkopf
+- Encore Paris, broadcast on 1969-09-16, produced by Frederic Rossif.
+- Eroica, broadcast on 1968-08-18, produced by WCET.
+- Eternal Tramp: Charlie Chaplin, broadcast on 1969-09-23, produced by Harry Hurwitz.
+- Eugene Onegin
+- The Fanatics, broadcast on 1968-11-24, produced by Granada TV.
+- Fes and the Koran
+- Festival Dubrovnik
+- Festival Orchestra of New York, broadcast on 1965-10-01, produced by NET.
+- Fischer-Dieskau Recital
+- Five Faces of Jazz: Newport 1967
+- George Cukor, broadcast on 1970-08-18, produced by Darry Moore Productions.
+- George Szell: One Man's Triumph, broadcast on 1970-09-29, produced by Henry Jaffe Enterprises.
+- Ghost Sonata, broadcast on 1965-11-26, produced by BBC.
+- Ghosts, broadcast on 1966-07-01, produced by BBC.
+- Glyndebourne Journal 1967, broadcast on 1967-12-03, produced by NET by Filmline Ltd..
+- Hamlet Revisited
+- History of Frivolity, broadcast on 1969-09-09, produced by Television Espanola.
+- Igor Stravinsky, broadcast on 1966-02-18, produced by National Film Board of Canada and WGBH.
+- In Memorium: Coleman Hawkins, broadcast on 1969-07-08, produced by WTTW.
+- In Search of Rembrandt, broadcast in 1969, produced by NET.
+- In the Name of Allah, broadcast in 1970, produced by NET-BBC-Bavarian TV.
+- Intolleranza, broadcast on 1966-03-11, produced by WGBH.
+- Is Somebody There?, broadcast on 1970-01-06, produced by WITF.
+- The Julliard Quartet, broadcast in 1965, produced by WNDT.
+- June 1968: A Summer of Music
+- Laudes Evangelli, broadcast on 1968-04-07, produced by Rediffusion Television.
+- Leinsdorf Recreates, broadcast on 1968-02-11, produced by WGBH.
+- The Life and Times of John Huston, broadcast on 1967-02-21, produced by Allan King Associates.
+- Lincoln Center Day
+- Lizzie Borden, broadcast on 1967-01-22, produced by WGBH.
+- The Man Shakespeare, broadcast on 1964-04-17, produced by BBC.
+- Margaret Mead's New Guinea Journal, broadcast on 1968-11-17, produced by NET Division, Educational Broadcasting Corporation.
+- Mason Williams: A Gift of Song, broadcast on 1970-05-12, produced by Creative Film Associates.
+- The Master of Santiago, broadcast on 1965-12-31, produced by BBC.
+- Merely Players, broadcast on 1968-03-03, produced by WGBH.
+- Messiah, broadcast on 1964-12-25, produced by WGBH.
+- Mikado, broadcast on 1963-12-03, produced by BBC.
+- Mozart Concertos: Lili Kraus, broadcast on 1967-01-21, produced by WNDT/NET.
+- Music Makers of Blue Ridge, broadcast on 1966-07-08, produced by NET.
+- Music on the River, broadcast on 1962-09-14, produced by Nathan Kroll.
+- A Musical Visit to Prague, broadcast on 1968-10-27, produced by NET.
+- My Heart's in the Highland, broadcast on 1970-03-17, produced by WGBH.
+- NET Present NY Festival Orchestra
+- Newport Jazz Festival 1967
+- Nina Simone: The Sound of Soul
+- The Old Glory: Benito Cereno, broadcast in 1965, produced by NET.
+- Olympiad. Part 1, broadcast in 1968, produced by NET.
+- Olympiad. Part 2, broadcast in 1968, produced by NET.
+- Olympiad. Part 3, broadcast in 1968, produced by NET.
+- Olympiad. Part 4, broadcast in 1968, produced by NET.
+- Orfeo
+- The Play of Daniel
+- Rise and Fall of Wolfgang Amadeus Mozart, broadcast in 1969, produced by BBC.
+- Rite of Spring, broadcast in 1968, produced by KCET.
+- The Rivals, broadcast in 1965, produced by BBC.
+- School for Scandal
+- Sibelius 1865-1995
+- Sibelius: A Symphony of Finland
+- Speak Out on Drugs, broadcast in 1969, produced by WGBH.
+- The Tenth Annual Monterey Jazz Festival. Part 1, broadcast on 1968-05-19, produced by KQED.
+- The Tenth Annual Monterey Jazz Festival. Part 2, broadcast on 1968-05-26, produced by KQED.
+- The Tenth Annual Monterey Jazz Festival. Part 3, broadcast on 1968-06-02, produced by KQED.
+- The Tenth Annual Monterey Jazz Festival. Part 4, broadcast on 1968-06-09, produced by KQED.
+- Three by Martha Graham
+- Train to Calcutta
+- Ustinov on the Ustinovs, broadcast in 1967, produced by BBC.
+- Venice 34
+- White House Red Carpet with Julia Child, broadcast in 1968, produced by WGBH.
+- Why Save Florence
+- Will the Real Norman Mailer Please Stand Up, broadcast in 1968, produced by NET.
+- A Winter's Tale
+- The World of Carl Sandburg, broadcast in 1967, produced by Nathan Kroll.
+- The World of James Buswell
+- The World of William Blake
+- Wuthering Heights, broadcast in 1965, produced by BBC.
+- Yale Drama in Rehearsal: Trio for the Living
