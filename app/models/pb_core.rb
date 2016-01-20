@@ -112,7 +112,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
     end
   end
   def media_srcs
-    @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
+    @media_srcs ||= ci_ids.each_with_index.map do |ci_id, zero_index|
+      "/media/#{id}?part=#{zero_index+1}"
+      # TODO: read 'protected?' on ci_id and set a similar attribute here,
+      # so it can be read downstream.
+    end
   end
   CAPTIONS_ANNOTATION = 'Captions URL'
   def captions_src

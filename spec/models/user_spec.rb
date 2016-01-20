@@ -82,6 +82,7 @@ describe User do
     
     examples = {
       public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),
+      pub_pro:   PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public-protected-media.xml')),
       protected: PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')),
       private:   PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')),
       all:       PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml'))
@@ -89,12 +90,14 @@ describe User do
     
     onsite_access = {
       public:     { play: true,  skip_tos: true},
+      pub_pro:    { play: true,  skip_tos: true},
       protected:  { play: true,  skip_tos: true},
       private:    { play: false, skip_tos: true},
       all:        { play: false, skip_tos: true},
     }
     no_access = {
       public:     { play: false, skip_tos: true},
+      pub_pro:    { play: false, skip_tos: true},
       protected:  { play: false, skip_tos: true},
       private:    { play: false, skip_tos: true},
       all:        { play: false, skip_tos: true},
@@ -123,6 +126,7 @@ describe User do
       OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: false) =>
         {
           public:     { play: false, skip_tos: false},
+          pub_pro:    { play: false, skip_tos: false},
           protected:  { play: false, skip_tos: true},
           private:    { play: false, skip_tos: true},
           all:        { play: false, skip_tos: true},
@@ -130,6 +134,7 @@ describe User do
       OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: true, bot?: false) =>
         {
           public:     { play: true,  skip_tos: true},
+          pub_pro:    { play: true,  skip_tos: true},
           protected:  { play: false, skip_tos: true},
           private:    { play: false, skip_tos: true},
           all:        { play: false, skip_tos: true},
