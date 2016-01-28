@@ -55,7 +55,14 @@ on the AAPB, Casey worked for the PBS history documentary series American
 Experience and earned her MLIS with a concentration in Archives Management from 
 Louisiana State University.
 
-Casey's current favorite AAPB collection item is ["Press And The People, The: An Inquiry Into The Work Of The American Press In Informing The American People" from WGBH](/catalog/cpb-aacip_15-719kdknm).
+Casey's current favorite AAPB collection item is ["Mississippi Roads: Delta Blues Museum from Mississippi Public Broadcasting](/catalog/cpb-aacip_60-203xsm0f).
+
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Curtis.jpg"/>
+### Rachel Curtis
+#### Project Coordinator / Digital Conversion Specialist, Library of Congress
+Rachel works as the project coordinator for AAPB at the Library of Congress. She has been with the Library of Congress since 2015. She previously worked at the Harley-Davidson Archives, where she was a project manager for the digitization of audiovisual materials. She is a member of SAA and AMIA. She is passionate about providing access to archives and utilizing linked data. Rachel received her MLIS degree from the University of Wisconsin-Milwaukee with a concentration in Archives Management. In her free time, she enjoys reading, visiting museums, playing video games, and bike riding.
+
+Rachel's current favorite AAPB collection item is ["Pius Moss, Arapaho Language, Culture and History Teacher" from Wyoming PBS](/catalog/cpb-aacip_260-8380gm69).
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
 ### Sadie Roosa
