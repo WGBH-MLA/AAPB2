@@ -13,7 +13,7 @@ The founding fathers devised the presidential electoral process in the United St
  
 The founders left the details to future legislatures, however, and likely unaware of the development of partisan politics would come to rule U.S presidential elections. States began holding primaries in the first decade of the 20th century, but it was not until Teddy Roosevelt sought the Republican nomination via primary elections (and lost) in 1912, and the subsequent establishment of the Progressive Party, that the primary system began to develop into its contemporary, yet ever-evolving, form.[<sup>5</sup>](/exhibits/presidential-elections/notes#5) 
 
-Over the past 60 years, public media stations have developed programming intended to help explain the electoral and primary history and process to their audiences, including discussions on campaign finance reform, states’ debates on primary procedures, and analysis of the media’s role in the election process. The AAPB includes the 1976 Iowa Public Television (IPTV) special See How They Run, examining the press’s relationship to that year’s presidential primary, and The Best Elections Money Can Buy, a 1998 documentary on campaign finance and political reform, presented by WGBY. Public media has also produced content addressing election controversy--with pieces such as WGBY’s Who Counts: Election Reform in America, covering the 2000 Gore-Bush recount and WILL’s interview with political commentator Steven Hill after the publication of his book Fixing Elections: The Failure of Americas Winner-Take-All Politics. 
+Over the past 60 years, public media stations have developed programming intended to help explain the electoral and primary history and process to their audiences, including discussions on campaign finance reform, states’ debates on primary procedures, and analysis of the media’s role in the election process. The AAPB includes the 1976 Iowa Public Television (IPTV) special *See How They Run*, examining the press’s relationship to that year’s presidential primary, and *The Best Elections Money Can Buy*, a 1998 documentary on campaign finance and political reform, presented by WGBY. Public media has also produced content addressing election controversy--with pieces such as WGBY’s *Who Counts: Election Reform in America*, covering the 2000 Gore-Bush recount and WILL’s interview with political commentator Steven Hill after the publication of his book *Fixing Elections: The Failure of Americas Winner-Take-All Politics*. 
 
 ## Extended
 
@@ -46,6 +46,7 @@ Over the past 60 years, public media stations have developed programming intende
 (/catalog/cpb-aacip_15-fq9q23r539)
 (/catalog/cpb-aacip_43-719kdh2w)
 (/catalog/cpb-aacip_15-n58cf9jh22)
+(/catalog/cpb-aacip_257-06sxkvx3)
 
 ### Media, Commentary and Analysis
 
@@ -58,7 +59,8 @@ Over the past 60 years, public media stations have developed programming intende
 (/catalog/cpb-aacip_16-hx15m62p52)
 (/catalog/cpb-aacip_15-jw86h4d154)
 (/catalog/cpb-aacip_37-74cnpfdj)
-
+(/catalog/cpb-aacip_17-042rcftw)
+(/catalog/cpb-aacip_17-23hx47rs)
 
 Next: [The Candidates](candidates)
 
