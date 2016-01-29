@@ -61,6 +61,7 @@ Over the past 60 years, public media stations have developed programming intende
 (/catalog/cpb-aacip_37-74cnpfdj)
 (/catalog/cpb-aacip_17-042rcftw)
 (/catalog/cpb-aacip_17-23hx47rs)
+- [Lecture on the Life and Rise of Barack Obama by New Yorker editor David Renmick](/catalog/cpb-aacip_15-jw86h4d154)
 
 Next: [The Candidates](candidates)
 
