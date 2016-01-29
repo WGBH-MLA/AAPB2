@@ -62,6 +62,7 @@ Over the past 60 years, public media stations have developed programming intende
 (/catalog/cpb-aacip_17-042rcftw)
 (/catalog/cpb-aacip_17-23hx47rs)
 - [Lecture on the Life and Rise of Barack Obama by New Yorker editor David Renmick](/catalog/cpb-aacip_15-jw86h4d154)
+- [Reverend Jesse Jackson Calls for Running an African American in the 1972 Election](/catalog/cpb-aacip_27-rb6vx06j48)
 
 Next: [The Candidates](candidates)
 
