@@ -19,9 +19,118 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 
 ## Extended
 
+### Debates
 
+#### 1960
+
+- [Presidential Debate: John F. Kennedy, Richard Nixon: 50th Anniversary Special](/catalog/cpb-aacip_15-9s1kh0f17h)
+
+#### 1964
+
+- [Presidential Debate: Lyndon B. Johnson, Barry Goldwater](/catalog/cpb-aacip_500-5m628x08)
+(this is On Location only!)
+
+#### 1988
+
+- [Democrat First Ladies Debate: Jill Biden, Kitty Dukakis, Jane Gephardt](/catalog/cpb-aacip_37-203xsnh6)
+- [Democratic Presidential Debate: Joe Biden, Michael Dukakis, Jesse Jackson, Al Gore, Dick Gephardt, Paul Simon, Bruce Babbitt: Part 1](/catalog/cpb-aacip_37-94hmh306)
+- [Democratic Presidential Debate: Joe Biden, Michael Dukakis, Jesse Jackson, Al Gore, Dick Gephardt, Paul Simon, Bruce Babbitt: Part 2](/catalog/cpb-aacip_37-87brvbvw)
+- [New Hampshire Presidential Forums on Long-term Care](/catalog/cpb-aacip_187-29b5mp8t)
+
+#### 2000
+
+- [The Presidential Electoral Debacle](/catalog/cpb-aacip_16-c824b2xj9j)
+(This is not actually a presidential debate, but commentary on the recount controversy after the election -- don't think this belongs in this section)
+
+#### 2008
+
+- [Democratic Health Policy Debate: David Cutler for Barack Obama, Gail Wilensky for John McCain](/catalog/cpb-aacip_15-513tt4fr48)
 
 ### Interviews and Town Halls
+
+#### 1976
+
+##### Democrats
+
+- [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-ht2g737g85)
+- [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-x921c1v30v)
+- [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-pv6b27q71h)
+- [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-m61bk1740f)
+- [Governor George Wallace](/catalog/cpb-aacip_15-9fj29c7n)
+- [Senator Hubert Humphrey](/catalog/cpb-aacip_43-83xsjnpc) (Humphrey ultimately decided not to run.)
+
+#### 1984
+
+##### Democrats
+
+- [Senator John Glenn](/catalog/cpb-aacip_37-741rnk5z)
+- [Former Senator George McGovern](/catalog/cpb-aacip_37-741rnk5z)
+
+#### 1988
+
+##### Democrats
+
+- [Former Governor Bruce Babbitt](/catalog/cpb-aacip_37-70msbntp)
+- [Governor Bill Clinton](/catalog/cpb-aacip_41-881jxfq8) (Clinton ultimately decided not to run.)
+- [Governor Michael Dukakis](/catalog/cpb-aacip_37-0322835w)
+- [Congressman Richard Gephardt](/catalog/cpb-aacip_37-182jmb6n)
+- [Reverend Jesse Jackson](/catalog/cpb-aacip_37-97kps40n)
+- [Senator Paul Simon, Parts 1](/catalog/cpb-aacip_61-902z3h4n) and [2](/catalog/cpb-aacip_61-56zw40wz)
+
+##### Republicans
+
+- [Former Secretary of State Alexander Haig](/catalog/cpb-aacip_37-77sn0d0c)
+
+#### 1996
+
+##### Democrats
+
+- [President Bill Clinton](/catalog/cpb-aacip_503-j96057dh5p)
+- [President Bill Clinton](/catalog/cpb-aacip_503-s17sn01t72)
+
+##### Republicans
+
+- [Businessman Steve Forbes](/catalog/cpb-aacip_503-vm42r3ps1p)
+- [Speaker of the House Newt Gingrich](/catalog/cpb-aacip_503-862b85428p) (Newt Gingrich was not campaigning for president at this time.)
+
+#### 2000
+
+##### Democrats
+
+- [Former Senator Bill Bradley](/catalog/cpb-aacip_503-ws8hd7pk96)
+- [Vice President Al Gore](/catalog/cpb-aacip_503-4f1mg7g966)
+
+##### Republicans
+
+- [Former Undersecretary of Education Gary Bauer](/catalog/cpb-aacip_503-6w96689369)
+- [Businessman Steve Forbes](/catalog/cpb-aacip_503-zp3vt1hg5g)
+- [Senator Orrin Hatch](/catalog/cpb-aacip_503-348gf0nb58)
+- [Congressman John Kasich](/catalog/cpb-aacip_503-zc7rn31144)
+- [Senator John McCain](/catalog/cpb-aacip_503-9s1kh0fh1h)
+- [Senator Bob Smith](/catalog/cpb-aacip_503-cn6xw48c7g)
+
+##### Reform Party
+
+- [Television Personality Pat Buchanan](/catalog/cpb-aacip_77-62s4p0vt)
+- [Physicist John Hagelin](/catalog/cpb-aacip_16-pn8x921z98)
+- [Businessman Donald Trump](/catalog/cpb-aacip_77-62s4p0vt)
+
+##### Taxpayers Party
+
+- [Senator Bob Smith](/catalog/cpb-aacip_503-cn6xw48c7g)
+
+#### 2004
+
+##### Democrats
+
+- [Former Senator Carol Moseley Braun](/catalog/cpb-aacip_293-8s4jm23q7p)
+- [Former Senator Carol Moseley Braun](/catalog/cpb-aacip_503-q814m92362)
+- [Governor Howard Dean](/catalog/cpb-aacip_503-k93125r155)
+- [Senator Chris Dodd](/catalog/cpb-aacip_503-tm71v5c81f)
+- [Congressman Dennis Kucinich](/catalog/cpb-aacip_16-wh2d795x52)
+- [Senator Joe Lieberman](/catalog/cpb-aacip_503-p26pz5287x)
+- [Senator Joe Lieberman](/catalog/cpb-aacip_503-1g0ht2gr49)
+- [Reverence Al Sharpton](/catalog/cpb-aacip_293-8s4jm23q7p)
 
 #### 2008
 
@@ -49,143 +158,109 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 - [Former Governor Mitt Romney](/catalog/cpb-aacip_503-0k26970c91)
 - [Congressman Tom Tancredo](/catalog/cpb-aacip_503-pz51g0jn41)
 
-#### 2004
+### Speeches and Rallies
+
+#### 1960
 
 ##### Democrats
 
-- [Former Senator Carol Moseley Braun](/catalog/cpb-aacip_293-8s4jm23q7p)
-- [Former Senator Carol Moseley Braun](/catalog/cpb-aacip_503-q814m92362)
-- [Governor Howard Dean](/catalog/cpb-aacip_503-k93125r155)
-- [Senator Chris Dodd](/catalog/cpb-aacip_503-tm71v5c81f)
-- [Congressman Dennis Kucinich](/catalog/cpb-aacip_16-wh2d795x52)
-- [Senator Joe Lieberman](/catalog/cpb-aacip_503-p26pz5287x)
-- [Senator Joe Lieberman](/catalog/cpb-aacip_503-1g0ht2gr49)
-- [Reverence Al Sharpton](/catalog/cpb-aacip_293-8s4jm23q7p)
+- [Senator John F. Kennedy](/catalog/cpb-aacip_500-1834599b)
 
-#### 2000
+#### 1968
 
 ##### Democrats
 
-- [Former Senator Bill Bradley](/catalog/cpb-aacip_503-ws8hd7pk96)
-- [Vice President Al Gore](/catalog/cpb-aacip_503-4f1mg7g966)
-
-##### Republicans
-
-- [Former Undersecretary of Education Gary Bauer](/catalog/cpb-aacip_503-6w96689369)
-- [Businessman Steve Forbes](/catalog/cpb-aacip_503-zp3vt1hg5g)
-- [Senator Orrin Hatch](/catalog/cpb-aacip_503-348gf0nb58)
-- [Congressman John Kasich](/catalog/cpb-aacip_503-zc7rn31144)
-- [Senator John McCain](/catalog/cpb-aacip_503-9s1kh0fh1h)
-- [Senator Bob Smith](/catalog/cpb-aacip_503-cn6xw48c7g)
+- [Senator Robert F. Kennedy](/catalog/cpb-aacip_15-sn00z71b4m)
 
 ##### Third Party Candidates
 
-- [Pundit Pat Buchanan](/catalog/cpb-aacip_77-62s4p0vt)
-- [Businessman Donald Trump](/catalog/cpb-aacip_77-62s4p0vt)
+- [Eldridge Cleaver](/catalog/cpb-aacip_28-gh9b56dh9r)
 
-#### 1996
-
-##### Democrats
-
-- [President Bill Clinton](/catalog/cpb-aacip_503-j96057dh5p)
-- [President Bill Clinton](/catalog/cpb-aacip_503-s17sn01t72)
-
-##### Republicans
-
-- [Businessman Steve Forbes](/catalog/cpb-aacip_503-vm42r3ps1p)
-- [Speaker of the House Newt Gingrich](/catalog/cpb-aacip_503-862b85428p) (Newt Gingrich was not campaigning for president at this time.)
-
-#### 1988
+#### 1972
 
 ##### Democrats
 
-- [Former Governor Bruce Babbitt](/catalog/cpb-aacip_37-70msbntp)
-- [Governor Bill Clinton](/catalog/cpb-aacip_41-881jxfq8) (Clinton ultimately decided not to run.)
-- [Governor Michael Dukakis](/catalog/cpb-aacip_37-0322835w)
-- [Congressman Richard Gephardt](/catalog/cpb-aacip_37-182jmb6n)
-- [Reverend Jesse Jackson](/catalog/cpb-aacip_37-97kps40n)
-- [Senator Paul Simon, Parts 1](/catalog/cpb-aacip_61-902z3h4n) and [2](/catalog/cpb-aacip_61-56zw40wz)
-
-##### Republicans
-
-- [Former Secretary of State Alexander Haig](/catalog/cpb-aacip_37-77sn0d0c)
-
-#### 1984
-
-##### Democrats
-
-- [Senator John Glenn](/catalog/cpb-aacip_37-741rnk5z)
-- [Former Senator George McGovern](/catalog/cpb-aacip_37-741rnk5z)
+- [Senator George McGovern](/catalog/cpb-aacip_27-41mgqs96)
+- [Senator George McGovern](/catalog/cpb-aacip_43-j38kd1qx6k)
 
 #### 1976
 
 ##### Democrats
 
-- [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-ht2g737g85)
-- [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-x921c1v30v)
-- [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-pv6b27q71h)
-- [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-m61bk1740f)
-- [Governor George Wallace](/catalog/cpb-aacip_15-9fj29c7n)
-- [Senator Hubert Humphrey](/catalog/cpb-aacip_43-83xsjnpc) (Humphrey ultimately decided not to run.)
+- [Senator Fred Harris](/catalog/cpb-aacip_43-jd4pk07d0g)
 
+#### 1980
 
+##### Democrats
 
-- [Interview with John Hagelin](/catalog/cpb-aacip_16-pn8x921z98)
-- [Smith, Bob](/catalog/cpb-aacip_503-cn6xw48c7g)
+- [Senator Ted Kennedy](/catalog/cpb-aacip_15-416sx6467p)
 
-##### Candidates before they ran for president
+#### 1984
 
-- [State Senator Barack Obama](/catalog/cpb-aacip_16-st7dr2pt8z)
+##### Democrats
 
-### Speeches and Rallies
+- [Reverend Jesse Jackson](/catalog/cpb-aacip_15-h707w67d10)
 
-(/catalog/cpb-aacip_500-1834599b)
-(/catalog/cpb-aacip_28-gh9b56dh9r)
-(/catalog/cpb-aacip_27-41mgqs96)
-(/catalog/cpb-aacip_43-j38kd1qx6k)
-(/catalog/cpb-aacip_27-rb6vx06j48)
-(/catalog/cpb-aacip_43-jd4pk07d0g)
-(/catalog/cpb-aacip_15-89d51vxs)
-(/catalog/cpb-aacip_15-h707w67d10)
-(/catalog/cpb-aacip_15-hd7np1wp4c)
-(/catalog/cpb-aacip_27-rb6vx06j48)
-(/catalog/cpb-aacip_15-416sx6467p)
-(/catalog/cpb-aacip_46-79h44ssq)
-(/catalog/cpb-aacip_15-sn00z71b4m)
-(/catalog/cpb-aacip_503-k649p2ww2k)
-(/catalog/cpb-aacip_503-zc7rn31144)
-(/catalog/cpb-aacip_503-m61bk17d1z)
-(/catalog/cpb-aacip_503-0c4sj1b325)
-(/catalog/cpb-aacip_503-445h98zv43)
-(/catalog/cpb-aacip_503-7w6736mm6j)
-(/catalog/cpb-aacip_503-n29p26qr8p)
-(/catalog/cpb-aacip_503-wm13n2192p)
-(/catalog/cpb-aacip_503-qv3bz6209g)
-(/catalog/cpb-aacip_503-8w3804z44d)
-(/catalog/cpb-aacip_503-dj58c9rr36)
-(/catalog/cpb-aacip_503-st7dr2q195)
-(/catalog/cpb-aacip_503-fj2988383w)
-(/catalog/cpb-aacip_503-3b5w669n0k)
-(/catalog/cpb-aacip_503-707wm14787)
-(/catalog/cpb-aacip_503-tt4fn11j9m)
-(/catalog/cpb-aacip_503-gh9b56ds4d)
-(/catalog/cpb-aacip_503-804xg9fr8c)
-(/catalog/cpb-aacip_503-hh6c24r93k)
-(/catalog/cpb-aacip_503-5717m04h6s)
-(/catalog/cpb-aacip_503-901zc7s90n)
-(/catalog/cpb-aacip_503-jh3cz32t3w)
-(/catalog/cpb-aacip_503-t14th8cb7f)
-(/catalog/cpb-aacip_503-6688g8g18r)
-(/catalog/cpb-aacip_503-9z90863t04)
-(/catalog/cpb-aacip_503-fq9q23rk29)
-(/catalog/cpb-aacip_503-tx3513vq37)
-(/catalog/cpb-aacip_503-gq6qz2332v)
-(/catalog/cpb-aacip_503-mg7fq9qv4s)
-(/catalog/cpb-aacip_503-r49g44jg1f)
-(/catalog/cpb-aacip_503-vx05x2673s)
-(/catalog/cpb-aacip_503-0p0wp9tj4q)
-(/catalog/cpb-aacip_503-cz3222rt9c)
-(/catalog/cpb-aacip_503-nc5s75770z)
+#### 1988
+
+##### Democrats
+
+- [Governor Michael Dukakis](/catalog/cpb-aacip_15-hd7np1wp4c)
+
+#### 1996
+
+##### Democrats
+
+- [First Lady Hillary Clinton* and Senator Bob Dole](/catalog/cpb-aacip_503-wm13n2192p)
+- [President Bill Clinton](/catalog/cpb-aacip_503-3b5w669n0k)
+- [President Bill Clinton](/catalog/cpb-aacip_503-6688g8g18r)
+- [President Bill Clinton](/catalog/cpb-aacip_503-tx3513vq37)
+
+##### Republicans
+
+- [Dan Quayle](/catalog/cpb-aacip_503-k649p2ww2k)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-m61bk17d1z)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-445h98zv43)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-7w6736mm6j)
+- [Hillary Clinton and Senator Bob Dole](/catalog/cpb-aacip_503-wm13n2192p)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-qv3bz6209g)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-8w3804z44d)
+- [Senator Phil Gramm](/catalog/cpb-aacip_503-st7dr2q195)
+- [Lamar Alexander](/catalog/cpb-aacip_503-tt4fn11j9m)
+- [Businessman Steve Forbes](/catalog/cpb-aacip_503-804xg9fr8c)
+- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-hh6c24r93k)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-901zc7s90n)
+- [Alan Keyes](/catalog/cpb-aacip_503-t14th8cb7f)
+- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-9z90863t04)
+- [Businessman Steve Forbes](/catalog/cpb-aacip_503-mg7fq9qv4s)
+- [Businessman Steve Forbes](/catalog/cpb-aacip_503-vx05x2673s)
+- [Lamar Alexander](/catalog/cpb-aacip_503-cz3222rt9c)
+- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-nc5s75770z)
+
+#### 2000
+
+##### Democrats
+
+- [Vice-President Al Gore](/catalog/cpb-aacip_503-n29p26qr8p)
+- [Vice-President Al Gore](/catalog/cpb-aacip_503-dj58c9rr36)
+- [Vice-President Al Gore](/catalog/cpb-aacip_503-707wm14787)
+- [Senator John Kerry](/catalog/cpb-aacip_503-fq9q23rk29)
+- [Vice-President Al Gore](/catalog/cpb-aacip_503-r49g44jg1f)
+
+##### Republicans
+
+- [Congressman John Kasich](/catalog/cpb-aacip_503-zc7rn31144)
+- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-0c4sj1b325)
+- [Dan Quayle](/catalog/cpb-aacip_503-fj2988383w)
+- [Lamar Alexander](/catalog/cpb-aacip_503-gh9b56ds4d)
+- [Senator Bob Smith](/catalog/cpb-aacip_503-gq6qz2332v)
+- [Elizabeth Dole](/catalog/cpb-aacip_503-0p0wp9tj4q)
+
+#### 2004
+
+##### Democrats
+
+- [Governor Howard Dean](/catalog/cpb-aacip_46-79h44ssq)
 
 ### Endorsements
 
