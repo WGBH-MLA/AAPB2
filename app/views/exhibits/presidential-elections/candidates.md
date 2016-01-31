@@ -172,9 +172,9 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 
 - [Senator Robert F. Kennedy](/catalog/cpb-aacip_15-sn00z71b4m)
 
-##### Third Party Candidates
+##### Peace and Freedom Party
 
-- [Eldridge Cleaver](/catalog/cpb-aacip_28-gh9b56dh9r)
+- [Political Activist Eldridge Cleaver](/catalog/cpb-aacip_28-gh9b56dh9r)
 
 #### 1972
 
@@ -211,31 +211,31 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 
 ##### Democrats
 
-- [First Lady Hillary Clinton* and Senator Bob Dole](/catalog/cpb-aacip_503-wm13n2192p)
 - [President Bill Clinton](/catalog/cpb-aacip_503-3b5w669n0k)
 - [President Bill Clinton](/catalog/cpb-aacip_503-6688g8g18r)
 - [President Bill Clinton](/catalog/cpb-aacip_503-tx3513vq37)
+- [First Lady Hillary Clinton](/catalog/cpb-aacip_503-wm13n2192p)
 
 ##### Republicans
 
-- [Dan Quayle](/catalog/cpb-aacip_503-k649p2ww2k)
-- [Senator Bob Dole](/catalog/cpb-aacip_503-m61bk17d1z)
-- [Senator Bob Dole](/catalog/cpb-aacip_503-445h98zv43)
-- [Senator Bob Dole](/catalog/cpb-aacip_503-7w6736mm6j)
-- [Hillary Clinton and Senator Bob Dole](/catalog/cpb-aacip_503-wm13n2192p)
+- [Former Governer and Secretary of Education Lamar Alexander](/catalog/cpb-aacip_503-tt4fn11j9m)
+- [Former Governer and Secretary of Education Lamar Alexander](/catalog/cpb-aacip_503-cz3222rt9c)
+- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-hh6c24r93k)
+- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-9z90863t04)
+- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-nc5s75770z)
 - [Senator Bob Dole](/catalog/cpb-aacip_503-qv3bz6209g)
 - [Senator Bob Dole](/catalog/cpb-aacip_503-8w3804z44d)
-- [Senator Phil Gramm](/catalog/cpb-aacip_503-st7dr2q195)
-- [Lamar Alexander](/catalog/cpb-aacip_503-tt4fn11j9m)
-- [Businessman Steve Forbes](/catalog/cpb-aacip_503-804xg9fr8c)
-- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-hh6c24r93k)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-m61bk17d1z)
 - [Senator Bob Dole](/catalog/cpb-aacip_503-901zc7s90n)
-- [Alan Keyes](/catalog/cpb-aacip_503-t14th8cb7f)
-- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-9z90863t04)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-445h98zv43)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-7w6736mm6j)
+- [Senator Bob Dole](/catalog/cpb-aacip_503-wm13n2192p)
+- [Businessman Steve Forbes](/catalog/cpb-aacip_503-804xg9fr8c)
 - [Businessman Steve Forbes](/catalog/cpb-aacip_503-mg7fq9qv4s)
 - [Businessman Steve Forbes](/catalog/cpb-aacip_503-vx05x2673s)
-- [Lamar Alexander](/catalog/cpb-aacip_503-cz3222rt9c)
-- [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-nc5s75770z)
+- [Senator Phil Gramm](/catalog/cpb-aacip_503-st7dr2q195)
+- [Former Diplomat Alan Keyes](/catalog/cpb-aacip_503-t14th8cb7f)
+- [Former Vice President Dan Quayle](/catalog/cpb-aacip_503-k649p2ww2k)
 
 #### 2000
 
@@ -244,17 +244,17 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 - [Vice-President Al Gore](/catalog/cpb-aacip_503-n29p26qr8p)
 - [Vice-President Al Gore](/catalog/cpb-aacip_503-dj58c9rr36)
 - [Vice-President Al Gore](/catalog/cpb-aacip_503-707wm14787)
-- [Senator John Kerry](/catalog/cpb-aacip_503-fq9q23rk29)
 - [Vice-President Al Gore](/catalog/cpb-aacip_503-r49g44jg1f)
+- [Senator John Kerry](/catalog/cpb-aacip_503-fq9q23rk29)
 
 ##### Republicans
 
-- [Congressman John Kasich](/catalog/cpb-aacip_503-zc7rn31144)
+- [Former Governer and Secretary of Education Lamar Alexander](/catalog/cpb-aacip_503-gh9b56ds4d)
 - [Television Personality Pat Buchanan](/catalog/cpb-aacip_503-0c4sj1b325)
-- [Dan Quayle](/catalog/cpb-aacip_503-fj2988383w)
-- [Lamar Alexander](/catalog/cpb-aacip_503-gh9b56ds4d)
+- [Former Secretary of Labor Elizabeth Dole](/catalog/cpb-aacip_503-0p0wp9tj4q)
+- [Congressman John Kasich](/catalog/cpb-aacip_503-zc7rn31144)
+- [Former Vice President Dan Quayle](/catalog/cpb-aacip_503-fj2988383w)
 - [Senator Bob Smith](/catalog/cpb-aacip_503-gq6qz2332v)
-- [Elizabeth Dole](/catalog/cpb-aacip_503-0p0wp9tj4q)
 
 #### 2004
 
@@ -264,21 +264,15 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 
 ### Endorsements
 
-(/catalog/cpb-aacip_43-tm71v5c02j)
-(/catalog/cpb-aacip_15-vm42r3p93f)
-(/catalog/cpb-aacip_328-52j6qb23)
-(/catalog/cpb-aacip_15-94x54g63)
-
+- [Jeno Paulucci, Duluth Entrepreneur, Supports Richard Nixon Re-election](/catalog/cpb-aacip_43-tm71v5c02j)
+- [Michael Connolly, Massachusetts Secretary of State, Endorses Democratic Candidate Walter Mondale for President](/catalog/cpb-aacip_15-vm42r3p93f)
+- [Musician Carole King Endorses Democratic Candidate Gary Hart For President](/catalog/cpb-aacip_328-52j6qb23)
+- [Julian Bond, Georgia State Senator, Campaigns for Democratic Candidate Walter Mondale](/catalog/cpb-aacip_15-94x54g63)
 
 Next: [The Voters and the Issues](voters-issues)
 
 ## Main
 
 ## Resources
-
-- [NASA. Causes of Climate Change.](http://climate.nasa.gov/causes/)
-- [Environmental Protection Agency. Causes of Climate Change.](http://www.epa.gov/climatechange/science/causes.html)
-- [Naomi Klein. This Changes Everything: Capitalism vs. the Climate.](http://thischangeseverything.org/)
-
 
 
