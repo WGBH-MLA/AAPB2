@@ -15,8 +15,8 @@ Public media has had an especially strong role in modern presidential campaigns 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Intern_Troia.jpg"/>
 
 ### Lily Troia
-AAPB Exhibits Intern
-WGBH
+Digital Exhibits Intern
+American Archive of Public Broadcasting
 
 ## Resources
 
