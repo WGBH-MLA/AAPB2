@@ -18,7 +18,7 @@ Organizations profiled include:
 
 ### Council of Federated Organizations (COFO)
 
-- [Long, Hot Summer '64: Episode 3](/catalog/cpb-aacip_15-02c86fs0)
+- [Long, Hot Summer '64: Episode Two](/catalog/cpb-aacip_15-02c86fs0)
 - [A Dialogue on Mississippi](/catalog/cpb-aacip_15-945qgb91)
 - [Black Power Surveyed; Handful That We Are in Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 
@@ -35,12 +35,13 @@ Organizations profiled include:
 - [Fannie Lou Hamer Interview](/catalog/cpb-aacip_28-bg2h70895r)
 - [Black Power Surveyed; Handful That We Are In Mississippi: A Spectrum of Opinion in Mississippi](/catalog/cpb-aacip_15-9cj87k60)
 - [Long, Hot Summer '64; Episode 9](/catalog/cpb-aacip_15-12m646qz)
-- [Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-12m646qz)
+- [Long, Hot Summer '64; Episode 10](/catalog/cpb-aacip_15-87brvgm3)
 
 ### National Association for the Advancement of Colored People (NAACP)
 
 - [Commentary of a Black Southern Bus Rider / Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45)
 - [Kidnapping in North Carolina](/catalog/cpb-aacip_28-h707w67k6x)
+- [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 ### NAACP Legal and Educational Defense Fund
 
