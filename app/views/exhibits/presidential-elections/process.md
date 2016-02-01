@@ -19,60 +19,42 @@ Over the past 60 years, public media stations have developed programming intende
 
 ### History
 
-(/catalog/cpb-aacip_15-8380gst7)
-(/catalog/cpb-aacip_15-610vq2s96n)
-(/catalog/cpb-aacip_500-f18sgd0d0)
-(/catalog/cpb-aacip_15-jw86h4d15)
-(/catalog/cpb-aacip_15-9s1kh0f17h)
-(/catalog/cpb-aacip_15-513tt4fq87)
-(/catalog/cpb-aacip_500-pv6b6z6p)
+- [Panel on Presidential Cartoonists](/catalog/cpb-aacip_15-610vq2s96n)
+- [50th Anniversary of the Kennedy / Nixon Debates](/catalog/cpb-aacip_15-9s1kh0f17h)
+- [Robert Kennedy and the 1968 Campaign](/catalog/cpb-aacip_15-513tt4fq87)
+- [The Nation Chooses its President](/catalog/cpb-aacip_500-pv6b6z6p)
 
 ### Primaries and Caucuses
 
-(/catalog/cpb-aacip_61-56zw40wz)
-(/catalog/cpb-aacip_61-902z3h4n)
-(/catalog/cpb-aacip_15-77sn0h9z)
-(/catalog/cpb-aacip_15-vm42r3p93f)
-(/catalog/cpb-aacip_43-p843r0q95z)
-(/catalog/cpb-aacip_43-54xgxqfg)
-(/catalog/cpb-aacip_503-1g0ht2gr49)
-(/catalog/cpb-aacip_37-74cnpfdj)
+- [See How They Run](/catalog/cpb-aacip_37-74cnpfdj)
+- [Minnesota Legislature Debates: Caucus or Primary Method to Elect a President?](/catalog/cpb-aacip_43-p843r0q95z)
+- [The Voting Patterns of Super Tuesday](/catalog/cpb-aacip_43-54xgxqfg)
+- [Senator Paul Simon on the Iowa Primary Campaign Part 1](/catalog/cpb-aacip_61-902z3h4n) [and 2](/catalog/cpb-aacip_61-56zw40wz)
+- [Presidential Election Ballot Order Determined](/catalog/cpb-aacip_15-vm42r3p93f)
 
 ### Election Procedure and Reform
 
-(/catalog/cpb-aacip_15-7m03x83r3x)
-(/catalog/cpb-aacip_16-z892805n7q)
-(/catalog/cpb-aacip_114-09j3tzcf)
-(/catalog/cpb-aacip_15-fq9q23r539)
-(/catalog/cpb-aacip_43-719kdh2w)
-(/catalog/cpb-aacip_15-n58cf9jh22)
-(/catalog/cpb-aacip_257-06sxkvx3)
+- [Rhetoric of Elections: A History of Presidential Eloquence](/catalog/cpb-aacip_15-7m03x83r3x)
+- [Fixing Elections: The Failure of America's Winner-Take-All Politics](/catalog/cpb-aacip_16-z892805n7q)
+- [The Best Elections Money Can Buy](/catalog/cpb-aacip_114-09j3tzcf)
+- [The Advocates: Should The Federal Government Subsidize Political Campaigns and Limit Individual Contributions?](/catalog/cpb-aacip_15-fq9q23r539)
+- [The Process of the Electoral College in the Presidential Election](/catalog/cpb-aacip_43-719kdh2w)
+- [Presidential Candidates in New Hampshire Before the Primary](/catalog/cpb-aacip_15-n58cf9jh22)
 
 ### Media, Commentary and Analysis
 
-(/catalog/cpb-aacip_15-dn3zs2kf46)
-(/catalog/cpb-aacip_15-610vq2sb8j)
-(/catalog/cpb-aacip_15-63stqz7h)
-(/catalog/cpb-aacip_15-h12v40k24t)
-(/catalog/cpb-aacip_15-5717m0420b)
-(/catalog/cpb-aacip_15-s46h12vm2z)
-(/catalog/cpb-aacip_16-hx15m62p52)
-(/catalog/cpb-aacip_15-jw86h4d154)
-(/catalog/cpb-aacip_37-74cnpfdj)
-(/catalog/cpb-aacip_17-042rcftw)
-(/catalog/cpb-aacip_17-23hx47rs)
-- [Lecture on the Life and Rise of Barack Obama by New Yorker editor David Renmick](/catalog/cpb-aacip_15-jw86h4d154)
+- [Feminist Blogging: From Journalism to Activism](/catalog/cpb-aacip_15-dn3zs2kf46)
+- [Media and Movements](/catalog/cpb-aacip_15-610vq2sb8j)
+- [Issues in Media and News](/catalog/cpb-aacip_16-hx15m62p52)
+- [See How They Run](/catalog/cpb-aacip_37-74cnpfdj)
 - [Reverend Jesse Jackson Calls for Running an African American in the 1972 Election](/catalog/cpb-aacip_27-rb6vx06j48)
+- [Louisiana: The State We're In; Presidential Politics in Louisiana](/catalog/cpb-aacip_17-042rcftw)
+- [Louisiana: The State We're In; Carter vs. Reagan Presidential Race](/catalog/cpb-aacip_17-23hx47rs)
+- [Lecture on the Life and Rise of Barack Obama by New Yorker editor David Renmick](/catalog/cpb-aacip_15-jw86h4d154)
 
 Next: [The Candidates](candidates)
 
 ## Main
 
 ## Resources
-
-- [NASA. Causes of Climate Change.](http://climate.nasa.gov/causes/)
-- [Environmental Protection Agency. Causes of Climate Change.](http://www.epa.gov/climatechange/science/causes.html)
-- [Naomi Klein. This Changes Everything: Capitalism vs. the Climate.](http://thischangeseverything.org/)
-
-
 
