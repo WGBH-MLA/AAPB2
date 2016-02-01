@@ -54,7 +54,7 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 - [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-pv6b27q71h)
 - [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-m61bk1740f)
 - [Governor George Wallace](/catalog/cpb-aacip_15-9fj29c7n)
-- [Senator Hubert Humphrey](/catalog/cpb-aacip_43-83xsjnpc) (Humphrey ultimately decided not to run.)
+- [Senator Hubert Humphrey](/catalog/cpb-aacip_43-83xsjnpc)
 
 #### 1984
 
@@ -68,7 +68,7 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 ##### Democrats
 
 - [Former Governor Bruce Babbitt](/catalog/cpb-aacip_37-70msbntp)
-- [Governor Bill Clinton](/catalog/cpb-aacip_41-881jxfq8) (Clinton ultimately decided not to run.)
+- [Governor Bill Clinton](/catalog/cpb-aacip_41-881jxfq8)
 - [Governor Michael Dukakis](/catalog/cpb-aacip_37-0322835w)
 - [Congressman Richard Gephardt](/catalog/cpb-aacip_37-182jmb6n)
 - [Reverend Jesse Jackson](/catalog/cpb-aacip_37-97kps40n)
@@ -147,7 +147,7 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 
 ##### Republicans
 
-- [Senator Sam Brownback](/catalog/cpb-aacip_503-rv0cv4cj06) (Brownback ultimately decided not to run.)
+- [Senator Sam Brownback](/catalog/cpb-aacip_503-rv0cv4cj06)
 - [Former Governor Mike Huckabee](/catalog/cpb-aacip_503-bz6154fb0m)
 - [Congressman Duncan Hunter](/catalog/cpb-aacip_503-r20rr1q98z)
 - [Senator John McCain](/catalog/cpb-aacip_503-bn9x05xv87)
