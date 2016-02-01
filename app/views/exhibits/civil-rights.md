@@ -3,7 +3,6 @@
 ## Summary
 
 ![Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg "Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.")
-
 "Voices from the Southern Civil Rights Movement" presents educational and noncommercial radio programs from the 1950s and 1960s that offer historic testimonies – in interviews, speeches, and on-the-spot news reports – from many movement participants, both well-known and unknown. National leaders, local leaders, community organizers, students, clergy, lawyers, educators, academics, writers, and even a comedian and a documentary filmmaker relate often riveting stories that document a range of individual and group experiences and perspectives. The exhibit presents accounts from a variety of locales, each a distinct piece of the complex history of the struggle to integrate the segregated South and achieve full citizenship rights for African Americans.
 
 ## Extended

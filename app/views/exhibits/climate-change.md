@@ -3,8 +3,6 @@
 ## Summary
 
 ![The Blue Marble; Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg "The Blue Marble; Source: NASA")
-
-
 Climate scientists and activists have used the venue of public broadcasting to
 discuss climate change for more than a quarter of a century. They have
 repeatedly communicated the science of human-driven climate change and its

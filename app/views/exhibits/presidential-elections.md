@@ -3,7 +3,6 @@
 ## Summary
 
 ![RFK and LBJ on the Campaign Trail](https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Signature.jpg "RFK and LBJ on the Campaign Trail")
-
 Long before the advent of broadcast media, the press has played an integral role in the democratic process in American political elections, insuring transparency, enabling timely reporting of results, and providing candidates a forum via which they can share their varied visions for our collective future. As we approach November 2016 amidst an era of cable network spin-cycles, and non-traditional, blogosphere journalism, media coverage of presidential campaign politics promises to be even more central to the election process and outcome
 
 Public media has had an especially strong role in modern presidential campaigns and elections in the United States, consistently offering media access to third party and minority [candidates](/exhibits/presidential-elections/candidates) often ignored by mainstream outlets, giving a voice to disenfranchised voters and marginalized populations, and examining the [electoral system](/exhibits/presidential-elections/process) and the media’s influence. This exhibit documents the relationship between public media and presidential elections in the United States, from 1961 through 2008, charting candidates and voters changing perspectives on [topics](/exhibits/presidential-elections/voters-issues) like the economy, foreign policy, education, and equal rights, and illustrating stations’ informative and reflective role in promoting a functioning democracy.  
