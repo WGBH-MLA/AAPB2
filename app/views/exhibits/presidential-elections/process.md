@@ -19,7 +19,6 @@ Over the past 60 years, public media stations have developed programming intende
 
 ### History
 
-- [Panel on Presidential Cartoonists](/catalog/cpb-aacip_15-610vq2s96n)
 - [50th Anniversary of the Kennedy / Nixon Debates](/catalog/cpb-aacip_15-9s1kh0f17h)
 - [Robert Kennedy and the 1968 Campaign](/catalog/cpb-aacip_15-513tt4fq87)
 - [The Nation Chooses its President](/catalog/cpb-aacip_500-pv6b6z6p)
