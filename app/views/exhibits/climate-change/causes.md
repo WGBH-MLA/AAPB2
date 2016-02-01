@@ -9,7 +9,6 @@
 ## Summary
 
 ![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section3_Causes.jpg "Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)")
-
 Throughout this exhibit, scientists and activists, each of whom talk about the
 various facets of climate change—from a policy perspective to activism to
 specific research on impacts and solutions—spend a portion of their
