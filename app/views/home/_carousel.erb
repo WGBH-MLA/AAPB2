@@ -1,9 +1,20 @@
+<%
+
+items.shuffle!
+# Ensure items fill an array that is a multiple of 3,
+# because the carousel is 3 across. Otherwise, you have
+# empty items in the carousel.
+items = items * 3 unless items.length % 3 == 0
+
+%>
+
+
 <div id="<%= id %>" class="carousel slide featured-carousel" data-ride="carousel">
   <%# TODO: The "featured-carousel" class should probably be renamed to something more generic,
             with corresponding changes in the CSS. On the homepage there is also id="featured-carousel".%>
   
   <div class="carousel-inner" role="listbox">
-    <% items.shuffle.each_slice(3).each_with_index do |chunk, index| %>
+    <% items.each_slice(3).each_with_index do |chunk, index| %>
       <div class="item <%= 'active' if index == 0%>">
         <div class="panel panel-default naked-panel">
           <div class="panel-body">

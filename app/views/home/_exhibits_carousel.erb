@@ -1,17 +1,8 @@
-<%
-# Ensure items fill an array that is a multiple of 3,
-# because the carousel is 3 across. Otherwise, you have
-# empty items in the carousel.
-items = Exhibit.all_top_level
-items = items * 3 unless items.length % 3 == 0
-%>
-
-
 <%= 
     render layout: 'home/carousel', 
            locals: {
                     id: 'exhibits-carousel', 
-                    items: items,
+                    items: Exhibit.all_top_level,
                     view_all: 'View All Exhibits',
                     view_all_href: '/exhibits'
                    } do |item| %>
