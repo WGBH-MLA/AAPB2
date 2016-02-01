@@ -20,6 +20,7 @@ WGBH
 
 ## Resources
 
+[*American Experience*: The Presidents Collection](http://www.pbs.org/wgbh/americanexperience/collections/presidents/)
 
 ## Main
 
