@@ -4,8 +4,8 @@
 
 ## Summary
 
-![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/
-ClimateChange_Section3_Causes.jpg "Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)")
+![Women and the Vote](https://s3.amazonaws.com/americanarchive.org/exhibits/
+Elections_Voters-Issues.jpg "Women and the Vote")
 
 Other integral components to the presidential process that cannot be ignored are the collective (and often disparate) voices of 
 the American voting public. While the Electoral College system structurally decides on our nation’s leader, the U.S. voters are 
