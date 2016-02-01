@@ -27,7 +27,6 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 #### 1964
 
 - [Presidential Debate: Lyndon B. Johnson, Barry Goldwater](/catalog/cpb-aacip_500-5m628x08)
-(this is On Location only!)
 
 #### 1988
 
@@ -39,7 +38,6 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 #### 2000
 
 - [The Presidential Electoral Debacle](/catalog/cpb-aacip_16-c824b2xj9j)
-(This is not actually a presidential debate, but commentary on the recount controversy after the election -- don't think this belongs in this section)
 
 #### 2008
 
