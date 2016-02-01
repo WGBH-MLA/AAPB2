@@ -11,16 +11,12 @@ the American voting public. While the Electoral College system structurally deci
 ultimately tasked with the primary role of determining who ends up in the Oval Office. 
 
 Public media has historically focused considerable attention to addressing the concerns of voters themselves--from KEET’s 2000 
-feature examining the voting trends of teens (link), or WGBH’s look at issues most vital to the working poor (hyperlink) in 1984, 
-to Marcella Gastan’s 1975 speech on Chicana women as an active voting block at the Women's Political Caucus broadcast on MPR. 
-Our nation’s history includes instances of the disenfranchised organizing to make their voice heard, like Pacifica Radio’s 1964 
-broadcast of the San Francisco Human Rights March outside the Republican National Convention, drawing over 35,000 to hear William 
-Chester of the International Longshoremen’s and Warehousemen’s Union, and A. Philip Randolph of the Negro American Labor Council 
-and president of the Sleeping Car Porters of America, John Lewis, National Chairman of the Student Non-Violent Coordinating Committee 
-and others speaking on the plight of racial inequality in the U.S. 
+feature examining the [voting trends of teens](/catalog/cpb-aacip_426-70zpcgm1), or WGBH’s look at [issues most vital to the working poor](/catalog/cpb-aacip_15-513tt4fs37) in 1984, to Marcella Gastan’s [1975 speech on Chicana women](/catalog/cpb-aacip_43-5t3fx7451p) as an active voting block at the Women's Political Caucus broadcast on MPR. 
 
-Other national issues addressed in AAPB materials include discussions on agriculture, like McGovern’s rally in Duluth in 1972 
-(link) on MPR, and Jeb Bush’s 2013 press conference to commemorate the signing of sweeping education reform in Florida as he looks ahead to a future presidential bid. Just like the politicians running for president, voters have used the airwaves of public media to voice their opinions on issues ranging from religion to foreign policy with town halls, call-in shows, coverage of rallies and forums, and programming aimed to highlight voices of marginalized groups. 
+Our nation’s history includes instances of the disenfranchised organizing to make their voice heard, like Pacifica Radio’s 1964 
+broadcast of the [San Francisco Human Rights March(/catalog/cpb-aacip_28-s46h12vq7b) outside the Republican National Convention, drawing over 35,000 to hear William Chester of the International Longshoremen’s and Warehousemen’s Union, and A. Philip Randolph of the Negro American Labor Council and president of the Sleeping Car Porters of America, John Lewis, National Chairman of the Student Non-Violent Coordinating Committee and others speaking on the plight of racial inequality in the U.S. 
+
+Other national issues addressed in AAPB materials include discussions on agriculture, like [McGovern](/catalog/cpb-aacip_43-j38kd1qx6k)’s rally in Duluth in 1972 on MPR, and [Jeb Bush](/catalog/cpb-aacip_304-66j0zwgs)’s 2013 press conference to commemorate the signing of sweeping education reform in Florida as he looks ahead to a future presidential bid. Just like the politicians running for president, voters have used the airwaves of public media to voice their opinions on issues ranging from religion to foreign policy with town halls, call-in shows, coverage of rallies and forums, and programming aimed to highlight voices of marginalized groups. 
 
 ## Extended
 
