@@ -43,7 +43,6 @@ Over the past 60 years, public media stations have developed programming intende
 ### Media, Commentary and Analysis
 
 - [Feminist Blogging: From Journalism to Activism](/catalog/cpb-aacip_15-dn3zs2kf46)
-- [Media and Movements](/catalog/cpb-aacip_15-610vq2sb8j)
 - [Issues in Media and News](/catalog/cpb-aacip_16-hx15m62p52)
 - [See How They Run](/catalog/cpb-aacip_37-74cnpfdj)
 - [Reverend Jesse Jackson Calls for Running an African American in the 1972 Election](/catalog/cpb-aacip_27-rb6vx06j48)
