@@ -41,6 +41,7 @@ Organizations profiled include:
 
 - [Commentary of a Black Southern Bus Rider / Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45)
 - [Kidnapping in North Carolina](/catalog/cpb-aacip_28-h707w67k6x)
+- [One Year Later in Mississippi](/catalog/cpb-aacip_15-88qc028z)
 
 ### NAACP Legal and Educational Defense Fund
 
