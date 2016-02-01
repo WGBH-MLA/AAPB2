@@ -28,3 +28,7 @@ Rufus King in the Senate of the United States. [http://memory.loc.gov/cgi-bin/qu
 
 <a name="9"></a><sup>9</sup>Krogstad, Jens Manuel, “114th Congress Most Diverse Ever,” Pew Research Center Fact Tank, 
 2015 January 12, [http://www.pewresearch.org/fact-tank/2015/01/12/114th-congress-is-most-diverse-ever/](http://www.pewresearch.org/fact-tank/2015/01/12/114th-congress-is-most-diverse-ever/)
+
+## Resources
+
+## Main
