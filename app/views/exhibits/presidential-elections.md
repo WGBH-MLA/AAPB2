@@ -2,7 +2,7 @@
 
 ## Summary
 
-![The Blue Marble; Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg "The Blue Marble; Source: NASA")
+![RFK and LBJ on the Campaign Trail](https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Signature.jpg "RFK and LBJ on the Campaign Trail")
 
 Long before the advent of broadcast media, the press has played an integral role in the democratic process in American political elections, insuring transparency, enabling timely reporting of results, and providing candidates a forum via which they can share their varied visions for our collective future. As we approach November 2016 amidst an era of cable network spin-cycles, and non-traditional, blogosphere journalism, media coverage of presidential campaign politics promises to be even more central to the election process and outcome
 
