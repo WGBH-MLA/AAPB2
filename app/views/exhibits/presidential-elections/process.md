@@ -4,7 +4,7 @@
 
 ## Summary
 
-![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section3_Causes.jpg "Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)")
+![The Advocates: Should the Federal Government subsidize political campaigns and limit individual contributions?](https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Process.jpg "The Advocates: Should the Federal Government subsidize political campaigns and limit individual contributions?")
 
 The founding fathers devised the presidential electoral process in the United States with the intention of establishing a representative democracy in which citizens cast votes for a slate of electors, rather than having the popular vote determine the election outcome. Presented in the Records of the Federal Convention of 1787, Congress asserted that by
 
