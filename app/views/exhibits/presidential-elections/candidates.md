@@ -4,8 +4,7 @@
 
 ## Summary
 
-![Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)](https://s3.amazonaws.com/americanarchive.org/exhibits/
-ClimateChange_Section3_Causes.jpg "Image of Coal Fired Power Plant (CC-BY-SA 3.0 Image by Arnold Paul)")
+![Reagan Campaigns in Louisiana](https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Candidates.jpg "Reagan Campaigns in Louisiana")
 
 A list of the 44 presidents of the United States hardly begins to tell the story of the rich history of personalities, activists, politicians, and outsiders who have entered the national stage as presidential candidates. Despite the domination of our current two-party system, the structure of our representative democracy is designed to support voices and input from across the political spectrum, with a Constitution that intentionally grants no authority to partisan interests.[<sup>6</sup>](/exhibits/presidential-elections/notes#6)  
 
