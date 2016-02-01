@@ -13,7 +13,6 @@
 ## Summary
 
 ![Bill McKibben, Founder of 350.org](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg "Bill McKibben, Founder of 350.org")
-
 In addition to the recording of interviews and lectures with climate scientists, public broadcasting has served as a venue for journalists, students, and activists to advocate for action on climate change.
 
 In 2005, [Elizabeth Kolbert](/catalog/cpb-aacip_16-9c6rx93p51), journalist and staff writer at The New Yorker, wrote a three-part series titles "The Climate of Man," which examined the science and politics of climate change. The series won the 2006 National Magazine Award for Public Interest, the 2005 American Association for the Advancement of Science Journalism Award, and the 2006 National Academies Communication Award. After the series was published, WILL interviewed Kolbert and provided the opportunity for listeners to call in with questions. One listener asked about how scientists can compete with those "whose motives who are out to either deny or discredit the scientists?" Kolbert replied, "That's the job of people like me, and it isn't easy . . . ."
