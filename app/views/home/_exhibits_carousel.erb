@@ -3,7 +3,7 @@
 # because the carousel is 3 across. Otherwise, you have
 # empty items in the carousel.
 items = Exhibit.all_top_level
-items = items * 3 unless items % 3 == 0
+items = items * 3 unless items.length % 3 == 0
 %>
 
 
