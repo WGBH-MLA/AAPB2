@@ -5,6 +5,8 @@
 ## Summary
 
 ![Women and the Vote](https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Voters-Issues.jpg "Women and the Vote")
+
+## Extended
 Other integral components to the presidential process that cannot be ignored are the collective (and often disparate) voices of 
 the American voting public. While the Electoral College system structurally decides on our nation’s leader, the U.S. voters are 
 ultimately tasked with the primary role of determining who ends up in the Oval Office. 
@@ -16,8 +18,6 @@ Our nation’s history includes instances of the disenfranchised organizing to m
 broadcast of the [San Francisco Human Rights March(/catalog/cpb-aacip_28-s46h12vq7b) outside the Republican National Convention, drawing over 35,000 to hear William Chester of the International Longshoremen’s and Warehousemen’s Union, and A. Philip Randolph of the Negro American Labor Council and president of the Sleeping Car Porters of America, John Lewis, National Chairman of the Student Non-Violent Coordinating Committee and others speaking on the plight of racial inequality in the U.S. 
 
 Other national issues addressed in AAPB materials include discussions on agriculture, like [McGovern](/catalog/cpb-aacip_43-j38kd1qx6k)’s rally in Duluth in 1972 on MPR, and [Jeb Bush](/catalog/cpb-aacip_304-66j0zwgs)’s 2013 press conference to commemorate the signing of sweeping education reform in Florida as he looks ahead to a future presidential bid. Just like the politicians running for president, voters have used the airwaves of public media to voice their opinions on issues ranging from religion to foreign policy with town halls, call-in shows, coverage of rallies and forums, and programming aimed to highlight voices of marginalized groups. 
-
-## Extended
 
 ### Disenfranchised Voters and Marginalized Groups
 
