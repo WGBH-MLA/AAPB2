@@ -2,6 +2,10 @@
 
 4
 
+## Summary
+
+## Extended
+
 <a name="1"></a><sup>1</sup>ACE Electoral Knowledge Network, *The Ace Encyclopedia: Media and the Elections.* 1998-2013. 
 [www.aceproject.org](http://www.aceproject.org/). p. 9.
 
@@ -10,7 +14,7 @@
 <a name="3"></a><sup>3</sup>*The Ace Encyclopedia: Media and the Elections.* p. 22
 
 <a name="4"></a><sup>4</sup>*The Records of the Federal Convention of 1787* [Farrand's Records, Volume 3] CCCXLVIII. 
-Rufus King in the Senate of the United States. [http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(fr003371))](http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(fr003371)
+Rufus King in the Senate of the United States. [http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(fr003371))](http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(fr003371)))
 
 <a name="5"></a><sup>5</sup>[http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/elections/elecprocess2.html](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/elections/elecprocess2.html)
 
