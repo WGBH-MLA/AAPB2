@@ -44,7 +44,7 @@ class User
 
   def affirmed_tos?
     @session[:affirm_terms] || 
-      URI.parse(@referer).host =~ POPUP_HOST_RE 
+      (!@referer.nil? && URI.parse(@referer).host =~ POPUP_HOST_RE)
     # Casey confirms that Popup counts as affirming ToS.
   end
 
