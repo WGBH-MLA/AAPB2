@@ -29,7 +29,11 @@ class User
   end
 
   def aapb_referer?
-    [/^(.+\.)?americanarchive\.org$/, /^54\.198\.43\.192$/].any? do |allowed|
+    [
+      /^(.+\.)?americanarchive\.org$/,
+      POPUP_HOST_RE,
+      /^54\.198\.43\.192$/
+    ].any? do |allowed|
       URI.parse(@referer).host =~ allowed
     end
   end
@@ -39,6 +43,10 @@ class User
   end
 
   def affirmed_tos?
-    @session[:affirm_terms]
+    @session[:affirm_terms] || 
+      (!@referer.nil? && URI.parse(@referer).host =~ POPUP_HOST_RE)
+    # Casey confirms that Popup counts as affirming ToS.
   end
+
+  POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
 end
