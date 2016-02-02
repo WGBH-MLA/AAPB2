@@ -58,3 +58,8 @@ Other national issues addressed in AAPB materials include discussions on agricul
 ## Main
 
 ## Resources
+
+- [Presidential Elections Data](http://www.presidency.ucsb.edu/elections.php)
+- [Presidential Elections](http://www.historycentral.com/elections/)
+- [American National Election Studies](http://www.electionstudies.org/)
+- [The Living Room Candidate: Presidential Campaign Commercials, 1952 - 2012](http://www.livingroomcandidate.org/)
