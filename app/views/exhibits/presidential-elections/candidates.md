@@ -271,4 +271,8 @@ Next: [The Voters and the Issues](voters-issues)
 
 ## Resources
 
+- [Presidential Elections Data](http://www.presidency.ucsb.edu/elections.php)
+- [Presidential Elections](http://www.historycentral.com/elections/)
+- [The Living Room Candidate: Presidential Campaign Commercials, 1952 - 2012](http://www.livingroomcandidate.org/)
+- [America Votes: Presidential Campaign Memorabilia](http://library.duke.edu/rubenstein/scriptorium/americavotes/)
 
