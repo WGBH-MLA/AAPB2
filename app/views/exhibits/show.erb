@@ -15,11 +15,11 @@
     </div>
   </div>
 
-  <%= render partial: 'shared/sidebar_nav', 
+  <%= render(partial: 'shared/sidebar_nav', 
              locals: { 
                 title: 'Resources',
                 links: @exhibit.resources
-              } %>
+              }) if !@exhibit.resources.empty? %>
     
 <% end %>
   
