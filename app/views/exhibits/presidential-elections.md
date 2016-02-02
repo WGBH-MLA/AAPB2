@@ -19,10 +19,10 @@ American Archive of Public Broadcasting
 
 ## Resources
 
-[*American Experience*: The Presidents Collection](http://www.pbs.org/wgbh/americanexperience/collections/presidents/)
-[Presidential Elections Data](http://www.presidency.ucsb.edu/elections.php)
-[History Central: Presidential Elections](http://www.historycentral.com/elections/)
-[U.S. Electoral College](http://www.archives.gov/federal-register/electoral-college/index.html)
+- [*American Experience*: The Presidents Collection](http://www.pbs.org/wgbh/americanexperience/collections/presidents/)
+- [Presidential Elections Data](http://www.presidency.ucsb.edu/elections.php)
+- [History Central: Presidential Elections](http://www.historycentral.com/elections/)
+- [U.S. Electoral College](http://www.archives.gov/federal-register/electoral-college/index.html)
 
 ## Main
 
