@@ -14,9 +14,9 @@ describe 'OAI-PMH' do
       '<OAI-PMH', # Followed by NS
       '<request verb="ListRecords" metadataPrefix="pbcore">http://openvault.wgbh.org/oai.xml</request>',
       '<ListRecords>',
-      '<identifier>A_00000000_MOCK</identifier>',
+      '<identifier>cpb-aacip_37-16c2fsnr</identifier>',
       '<pbcoreDescriptionDocument', # Followed by NS
-      '<pbcoreIdentifier source="Open Vault UID">A_00000000_MOCK</pbcoreIdentifier>'
+      "<pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/37-16c2fsnr</pbcoreIdentifier>"
     ].each do |s|
       expect(page.body).to match s
     end
