@@ -79,7 +79,7 @@ describe DownloadCleanIngest do
       /Updated solr record cpb-aacip_111-21ghx7d6/,
       /\d+ \(100.0%\) succeeded/
     ],
-    "#{default_flags} --just-reindex --query 'f[asset_type][]=Episode&q=promise'" => [
+    "#{default_flags} --just-reindex --query 'f[asset_type][]=Program&q=promise'" => [
       /Query solr for/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
