@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+         http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate><%= @response_date %></responseDate> 
+    <request verb="<%= @verb %>" metadataPrefix="<%= @metadata_prefix %>">http://openvault.wgbh.org/oai.xml</request>
+    <ListRecords>
+        <% @records.each do |record| %>
+            <record>
+                <header>
+                    <identifier><%= record.id %></identifier>
+                    <datestamp><%= record.date %></datestamp>
+                </header>
+                <metadata>
+                    <%= record.pbcore.html_safe %>
+                </metadata>
+            </record>
+        <% end %>
+        <% if @next_resumption_token %>
+            <resumptionToken><%= @next_resumption_token %></resumptionToken>
+        <% end %>
+    </ListRecords>
+</OAI-PMH>
