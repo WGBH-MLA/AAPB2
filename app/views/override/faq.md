@@ -9,7 +9,7 @@ public broadcasting radio and television programming, ensuring its collection,
 management, preservation, and access. In August 2013, the Corporation for 
 Public Broadcasting selected WGBH and the Library of Congress as the permanent 
 stewards of the AAPB collection. To date, almost 40,000 hours of historic public broadcasting radio and
-television content has been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection, consisting of 68,000 items (40,000 hours) is available for research [on location](/on-location) at WGBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not yet been digitized.
+television content has been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection, consisting of 68,000 items (40,000 hours) is available for research [on location](/on-location) at WGBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not been digitized.
 
 ## What is available on the AAPB website?
 
