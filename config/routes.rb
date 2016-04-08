@@ -28,6 +28,9 @@ Rails.application.routes.draw do
           
   resources 'api',
             only: [:index]
+          
+  resources 'oai',
+            only: [:index]
 
   ['404', '500'].each do |status_code|
     get status_code, to: 'errors#show', status_code: status_code
