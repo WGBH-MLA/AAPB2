@@ -18,7 +18,7 @@
                     pb = record.pbcore
                     Nokogiri::XML::Builder.new do |x|
                       x.mods(xmlns: 'http://www.loc.gov/mods/v3') {
-                        x.identifier(pb.uri, type: 'uri')
+                        x.identifier('http://americanarchive.org/catalog/' + pb.id, type: 'uri')
                         x.titleInfo(usage: 'primary') {
                           x.title(pb.title)
                         }

@@ -78,9 +78,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # TODO: https://github.com/WGBH/AAPB2/issues/870
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub("cpb-aacip/", 'cpb-aacip_')
   end
-  def uri
-    @uri ||= 'http://americanarchive.org/catalog/' + id
-  end
   SONY_CI = 'Sony Ci'
   def ids
     @ids ||= begin
