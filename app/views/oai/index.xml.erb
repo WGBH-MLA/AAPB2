@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+         xmlns:mods="http://www.loc.gov/mods/v3"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
          http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
@@ -13,7 +14,31 @@
                     <datestamp><%= record.date %></datestamp>
                 </header>
                 <metadata>
-                    <%= record.pbcore.html_safe %>
+                    <%=
+                    pb = record.pbcore
+                    Nokogiri::XML::Builder.new do |x|
+                      x.mods(xmlns: 'http://www.loc.gov/mods/v3') {
+                        x.identifier(pb.uri, type: 'uri')
+                        x.titleInfo(usage: 'primary') {
+                          x.title(pb.title)
+                        }
+                        pb.creators.each do |creator|
+                          x.name(creator.name) {
+                            x.role {
+                              x.roleTerm(creator.role)
+                            }
+                          }
+                        end
+                        pb.contributors.each do |contributor|
+                          x.name(contributor.name) {
+                            x.role {
+                              x.roleTerm(contributor.role)
+                            }
+                          }
+                        end
+                      }
+                    end.to_xml.sub('<?xml version="1.0"?>','').html_safe
+                    %>
                 </metadata>
             </record>
         <% end %>
