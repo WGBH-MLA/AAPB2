@@ -71,7 +71,7 @@ Sadie focuses her attention on metadata management and cataloging for the AAPB.
 She has worked at WGBH since 2012, engaged in digitization and digital library 
 projects including Boston TV News Digital Library and WGBH's Open Vault. She 
 co-chairs the Digital Commonwealth Outreach Committee and the AMIA News, 
-Documentary and Television Committee. In her free time, she enjoys learning to cook new things, reading, watching way too much TV, and going on walks. Sadie earned her MLIS from the University of Pittsburgh. 
+Documentary and Television Committee. In her free time she enjoys learning to cook new things, reading, watching way too much TV, and going on walks. Sadie earned her MLIS from the University of Pittsburgh. 
 
 Sadie's current favorite AAPB collection item is ["Ten O'Clock News: Sharks at Nantasket Beach" from WGBH](catalog/cpb-aacip_15-1j97659g8m).
 
