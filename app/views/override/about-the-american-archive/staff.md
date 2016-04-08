@@ -73,7 +73,7 @@ projects including Boston TV News Digital Library and WGBH's Open Vault. She
 co-chairs the Digital Commonwealth Outreach Committee and the AMIA News, 
 Documentary and Television Committee. In her free time, she enjoys learning to cook new things, reading, watching way too much TV, and going on walks. Sadie earned her MLIS from the University of Pittsburgh. 
 
-Sadie's current favorite AAPB collection item is an ["Melvin King on the Ten O'Clock News" from WGBH](catalog/cpb-aacip_15-7940r9m823).
+Sadie's current favorite AAPB collection item is ["Ten O'Clock News: Sharks at Nantasket Beach" from WGBH](catalog/cpb-aacip_15-1j97659g8m).
 
 ## WGBH Supporting Staff
 
