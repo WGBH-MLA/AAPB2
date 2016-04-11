@@ -265,7 +265,7 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 - [Musician Carole King Endorses Democratic Candidate Gary Hart For President](/catalog/cpb-aacip_328-52j6qb23)
 - [Julian Bond, Georgia State Senator, Campaigns for Democratic Candidate Walter Mondale](/catalog/cpb-aacip_15-94x54g63)
 
-Next: [The Voters and the Issues](voters-issues)
+Next: [The Voters and the Issues](/exhibits/presidential-elections/voters-issues)
 
 ## Main
 

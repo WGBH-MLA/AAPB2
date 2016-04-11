@@ -49,7 +49,7 @@ Over the past 60 years, public media stations have developed programming intende
 - [Louisiana: The State We're In; Carter vs. Reagan Presidential Race](/catalog/cpb-aacip_17-23hx47rs)
 - [Lecture on the Life and Rise of Barack Obama by New Yorker editor David Renmick](/catalog/cpb-aacip_15-jw86h4d154)
 
-Next: [The Candidates](candidates)
+Next: [The Candidates](/exhibits/presidential-elections/candidates)
 
 ## Main
 

@@ -20,9 +20,9 @@ Scientists report that since the beginning of the Industrial Revolution, human
 activities have been the main source of greenhouse gas emissions, which has
 taken place primarily through the burning of fossil fuels.
 
-In a call-in show about climate change and public policy, [Stephen Schneider](impacts), Professor of Environmental Biology and Global Change at Stanford University, asserts that causes of climate change are global in nature. After discussing how the United States has historically been the primary source of emissions, he contends that with the spread of industrialization, "we need a global process...where we can work with developing countries and say 'you have a right to develop, but don't do it the way we did it, but since we got rich doing it . . . we'll help you with these alternatives.'" If we don't help them, he continues, "we going to end up doubling, tripling, or worse CO2 [concentrations in Earth’s atmosphere]." 
+In a call-in show about climate change and public policy, [Stephen Schneider](/exhibits/climate-change/impacts), Professor of Environmental Biology and Global Change at Stanford University, asserts that causes of climate change are global in nature. After discussing how the United States has historically been the primary source of emissions, he contends that with the spread of industrialization, "we need a global process...where we can work with developing countries and say 'you have a right to develop, but don't do it the way we did it, but since we got rich doing it . . . we'll help you with these alternatives.'" If we don't help them, he continues, "we going to end up doubling, tripling, or worse CO2 [concentrations in Earth’s atmosphere]." 
 
-Scientists also contend that the process of climate change itself is a cause of further global warming. Once the climate begins to change, argues [Dr. Ronald Prinn](impacts), Professor of Atmospheric Science in MIT's Department of Earth, Atmospheric, and Planetary science, in a public talk recorded by WGBH in 2010, positive feedback loops begin "and that's bad news." He explains, "if we increase greenhouse gases leading to warming, the warming itself will induce natural emissions of greenhouse gases," which further warm the planet. He discussed the melting of Arctic sea ice as an example of a positive feedback loop. The ice reflects the sun's radiation back into space and reduces the heat added to the atmosphere. When ice melts due to greenhouse gases that have increased global temperature, then it leaves a dark colored surface behind, which absorbs the sun's radiation and leads to more warming. 
+Scientists also contend that the process of climate change itself is a cause of further global warming. Once the climate begins to change, argues [Dr. Ronald Prinn](/exhibits/climate-change/impacts), Professor of Atmospheric Science in MIT's Department of Earth, Atmospheric, and Planetary science, in a public talk recorded by WGBH in 2010, positive feedback loops begin "and that's bad news." He explains, "if we increase greenhouse gases leading to warming, the warming itself will induce natural emissions of greenhouse gases," which further warm the planet. He discussed the melting of Arctic sea ice as an example of a positive feedback loop. The ice reflects the sun's radiation back into space and reduces the heat added to the atmosphere. When ice melts due to greenhouse gases that have increased global temperature, then it leaves a dark colored surface behind, which absorbs the sun's radiation and leads to more warming. 
 
 The three items in this section of the exhibit are unique in their focus on drivers of climate change. 
 
@@ -33,7 +33,7 @@ The second, another program from Maryland Public Television, is a [debate about 
 The third item in this section is a public lecture by [Anna Lappé](/catalog/cpb-aacip_15-930ns0m03c), focuses on what she found are often overlooked causes of climate change—our food and agricultural industries. 
 
 
-Next: [Impacts and Consequences of Climate Change](impacts)
+Next: [Impacts and Consequences of Climate Change](/exhibits/climate-change/impacts)
 
 ## Main
 
