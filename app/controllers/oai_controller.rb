@@ -6,8 +6,8 @@ class OaiController < ApplicationController
     @verb = params.delete(:verb)
     fail("Unsupported verb: #{@verb}") unless @verb == 'ListRecords'
 
-    @metadata_prefix = params.delete(:metadataPrefix) || 'pbcore'
-    fail("Unsupported metadataPrefix: #{@metadata_prefix}") unless @metadata_prefix == 'pbcore'
+    @metadata_prefix = params.delete(:metadataPrefix) || 'mods'
+    fail("Unsupported metadataPrefix: #{@metadata_prefix}") unless @metadata_prefix == 'mods'
 
     resumption_token = params.delete(:resumptionToken) || '0'
     fail("Unsupported resumptionToken: #{resumption_token}") unless resumption_token =~ /^\d*$/
@@ -29,7 +29,8 @@ class OaiController < ApplicationController
         Record.new(
           d['id'],
           d['timestamp'],
-          d['xml'].gsub('<?xml version="1.0" encoding="UTF-8"?>', '').strip)
+          PBCore.new(d['xml'])
+        )
       end
 
     # Not ideal: they'll need to go past the end.

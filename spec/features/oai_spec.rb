@@ -12,11 +12,9 @@ describe 'OAI-PMH' do
     expect { REXML::Document.new(page.body) }.not_to raise_error
     [
       '<OAI-PMH', # Followed by NS
-      '<request verb="ListRecords" metadataPrefix="pbcore">http://openvault.wgbh.org/oai.xml</request>',
+      '<request verb="ListRecords" metadataPrefix="mods">http://openvault.wgbh.org/oai.xml</request>',
       '<ListRecords>',
-      '<identifier>cpb-aacip_37-16c2fsnr</identifier>',
-      '<pbcoreDescriptionDocument', # Followed by NS
-      "<pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/37-16c2fsnr</pbcoreIdentifier>"
+      '<identifier type="uri">http://americanarchive.org/catalog/1234</identifier>'
     ].each do |s|
       expect(page.body).to match s
     end

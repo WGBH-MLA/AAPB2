@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+         xmlns:mods="http://www.loc.gov/mods/v3"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
          http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
@@ -13,7 +14,53 @@
                     <datestamp><%= record.date %></datestamp>
                 </header>
                 <metadata>
-                    <%= record.pbcore.html_safe %>
+                    <%=
+                    pb = record.pbcore
+                    Nokogiri::XML::Builder.new do |x|
+                      x.mods(xmlns: 'http://www.loc.gov/mods/v3') {
+                        x.identifier('http://americanarchive.org/catalog/' + pb.id, type: 'uri')
+                        x.titleInfo(usage: 'primary') {
+                          x.title(pb.title)
+                        }
+                        (pb.creators + pb.contributors).each do |person|
+                          x.name(person.name) {
+                            x.role {
+                              x.roleTerm(person.role)
+                            }
+                          }
+                        end
+                        x.typeOfResource(
+                          pb.video? ? 'moving image' : 'sound recording'
+                        )
+                        x.physicalDescription('digitized other analog')
+                        (pb.genres + pb.topics).each do |term|
+                          x.genre(term)
+                        end
+                        x.originInfo {
+                          pb.publishers.each do |publisher|
+                            x.publisher(publisher.name)
+                          end
+                          x.dateCreated(pb.asset_date)
+                        }
+                        x.physicalDescription {
+                          x.extent(pb.duration)
+                        }
+                        x.abstract(pb.descriptions.join("\n"))
+                        pb.subjects.each do |subj|
+                          x.subject(subj)
+                        end
+                        x.relatedItem(type: 'host') {
+                          x.titleInfo {
+                            x.title('American Archive of Public Broadcasting')
+                          }  
+                        }
+                        x.location {
+                          x.physicalLocation(pb.organization.short_name)
+                        }
+                        x.accessCondition('Contact host institution for more information.', type: 'use and reproduction')
+                      }
+                    end.to_xml.sub('<?xml version="1.0"?>','').html_safe
+                    %>
                 </metadata>
             </record>
         <% end %>
