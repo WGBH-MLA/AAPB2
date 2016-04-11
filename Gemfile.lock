@@ -89,7 +89,6 @@ GEM
     deprecation (0.2.2)
       activesupport
     diff-lcs (1.2.5)
-    docile (1.1.5)
     erubis (2.7.0)
     execjs (2.4.0)
     faraday (0.9.1)
@@ -201,11 +200,6 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
-    simplecov (0.9.1)
-      docile (~> 1.1.0)
-      multi_json (~> 1.0)
-      simplecov-html (~> 0.8.0)
-    simplecov-html (0.8.0)
     slop (3.6.0)
     solrizer (3.3.0)
       activesupport
@@ -287,7 +281,6 @@ DEPENDENCIES
   rubyzip
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
-  simplecov
   solrizer
   sony-ci-api
   spring
