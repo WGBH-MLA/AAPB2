@@ -99,7 +99,8 @@
 
  #footer {
  	background:#eeeeee url(/site-ui/footer-bg.gif) repeat 0 0;
- 	padding:2em 0;
+ 	padding: 0;
+        margin: 0;
  	text-align:center;
  }
 
