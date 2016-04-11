@@ -45,7 +45,10 @@ END
 
     fail 'Text should not contain raw <p>' if page.text && page.text.include?('<p>')
 
-    page.all('a').map { |element| element['href'] }.each { |url| LinkChecker.instance.check(url) }
+    bad_urls = page.all('a').map { |element| element['href'] }.reject do |url|
+      LinkChecker.instance.check?(url)
+    end
+    fail "Bad URLS: #{bad_urls}" unless bad_urls.empty?
   rescue => e
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
     raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n#{numbered}"
