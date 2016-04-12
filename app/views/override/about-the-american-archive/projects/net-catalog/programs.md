@@ -228,7 +228,7 @@ Basic Russisan Language: TV Schoolhouse *see* **Basic Russian Language: TV Schoo
 **Ceremony of Innocence**: 90 minute program, initially distributed by NET in 1970. It was originally shot on videotape in color.<br />
 **Challenge and Response**: *Aired as an episode of [Perspectives](series/perspectives).*<br/>
 **Challenge of Change: Case for Counseling**: 30 minute program, produced by Louis de Rochemont and initially distributed by NET in 1962. It was originally shot on film.<br />
-**The Chamizal Story**: produced in 1964 by KUHT. *Aired as an episode of [Local Issue](series/local-issue) and [What's New](series/whats-new).*<br />
+**The Chamizal Story**: produced in 1964 by KUHT. *Aired as an episode of [Local Issue](series/local-issue) and What's New.*<br />
 **Changing the Weather**: *Aired as an episode of [Spectrum](series/spectrum).*<br/>
 **Changing UN**: 30 minute program.<br />
 **Charles Ives: Symphony No. 4**: 1 hour program, initially distributed by NET in 1965. It was originally shot on videotape.  *Aired as an episode of [NET Festival](series/net-festival).*<br/>
