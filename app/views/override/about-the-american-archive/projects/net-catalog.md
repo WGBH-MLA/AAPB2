@@ -12,6 +12,6 @@ The centralized catalog will enable institutions holding NET materials to catalo
 
 While we're still working on the gathering the information for the catalog, we are eager to share the title lists we've been able to compile so far. If you have any more information about these titles, please contact Sadie Roosa at sadie_roosa@wgbh.org.
 
-[Individual Program Titles](net-catalog/programs)
+[Individual Program Titles](/about-the-american-archive/projects/net-catalog/programs)
 
-[Series Titles](net-catalog/series)
+[Series Titles](/about-the-american-archive/projects/net-catalog/series)
