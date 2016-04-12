@@ -1,13 +1,3 @@
-http://americanarchive.org/
-http://americanarchive.org/about-the-american-archive/projects/ndsr
-http://americanarchive.org/about-the-american-archive/projects/net-catalog
-http://americanarchive.org/about-the-american-archive/projects/newshour
-http://americanarchive.org/about-the-american-archive/projects/permanent-entity
-http://americanarchive.org/about-the-american-archive/projects/transcript-project
-http://americanarchive.org/catalog/cpb-aacip_16-79v15q57
-http://americanarchive.org/catalog/cpb-aacip_37-95j9krh1.pbcore
-http://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Borganization%5D%5B%5D=New+Hampshire+Public+Radio+%28NH%29&q=-perspectives
-http://americanarchive.org/participating-orgs
 http://americanarchivepb.wordpress.com/
 http://americanarchivist.org/doi/abs/10.17723/aarc.63.1.242683617n40849g
 http://archive.mprnews.org/
@@ -34,13 +24,6 @@ http://kuow.org/
 http://libcdm1.uncg.edu/cdm/landingpage/collection/CivilRights
 http://library.duke.edu/rubenstein/scriptorium/americavotes/
 http://library.wustl.edu/spec/filmandmedia/about/
-http://localhost:3000/net-catalog instead of 200: /net-catalog
-http://localhost:3000/net-catalog/programs instead of 200: /net-catalog/programs
-http://localhost:3000/net-catalog/series instead of 200: /net-catalog/series
-http://localhost:3000/net-collection/series/special-of-the-week instead of 200: /net-collection/series/special-of-the-week
-http://localhost:3000/net-collection/series/spectrum instead of 200: /net-collection/series/spectrum
-http://localhost:3000/net-collection/series/whats-new instead of 200: /net-collection/series/whats-new
-http://localhost:3000/projects instead of 200: /projects
 http://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(fr003371))
 http://nca2014.globalchange.gov/downloads
 http://ndsr.americanarchive.org/
@@ -136,7 +119,7 @@ http://www.presidency.ucsb.edu/elections.php
 http://www.rmpbs.org/volunteer/sam/about-stations-archived-memories-sam/
 http://www.sierraclub.org
 http://www.srmarchivists.org/
-http://www.statearchivists.org/connections/archivalassns.htm
+http://www.statearchivists.org
 http://www.thirteen.org/about/archives/
 http://www.ucsusa.org/
 http://www.wgbh.org/
