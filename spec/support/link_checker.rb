@@ -5,35 +5,26 @@ require 'singleton'
 class LinkChecker
   include Singleton
 
-  FILENAME = File.dirname(__FILE__) + '/.link-check.txt'
+  REPORT_FILE = __dir__ + '/link-check-report.txt'
+  IGNORE_FILE = __dir__ + '/link-check-ignore.txt'
   RE_IGNORES = [
     /^\/catalog\?/, # too many combos
     /^\/catalog\//, # redundant: other tests load each fixture
-    /#/, # TODO: anchors
-    /^mailto:/,
-    /^\/participating-orgs/ # skip for now because it is slow and low benefit
+    /^#/, # TODO: anchors
+    /^mailto:/
   ]
 
   def initialize
-    @checked = Set[]
-    @needs_recheck = LinkChecker.needs_recheck?
+    @checked = Set.new(File.readlines(IGNORE_FILE).map(&:strip))
+    File.unlink(REPORT_FILE) if File.exist?(REPORT_FILE)
   end
 
-  def self.needs_recheck?
-    return true unless File.exist?(FILENAME)
-    if (Time.now - File.mtime(FILENAME)) / (60 * 60 * 24 * 7) > 1
-      File.unlink(FILENAME)
-      return true
-    end
-    false
-  end
-
-  def check(url)
-    return if url.nil? # Calling code might forget a special case for <a name='foo'>
-    return if ENV['CI'] # don't run on Travis
-    return unless @needs_recheck
-    return if @checked.include?(url)
-    return if RE_IGNORES.map { |ignore| ignore.match(url) }.any?
+  def check?(url)
+    return true if url.nil?
+    url.gsub!(/#.*/, '') # Checking page content for anchor is a hassle.
+    return true if url.empty?
+    return true if @checked.include?(url)
+    return true if RE_IGNORES.map { |ignore| ignore.match(url) }.any?
     @checked << url
 
     full_url = case url
@@ -54,11 +45,15 @@ class LinkChecker
     code = curl.response_code
     fail("Got #{code} from #{full_url} instead of 200") unless code == 200
 
-    puts "[PASS: #{url}]"
-    File.open(FILENAME, 'a') { |f| f.write("PASS: #{url}\n") }
+    report('PASS', url)
+    true
   rescue => e
-    puts "[FAIL: #{url}]"
-    File.open(FILENAME, 'a') { |f| f.write("FAIL: #{url}\n") }
-    throw(e)
+    report("FAIL #{e}", url)
+    false
+  end
+
+  def report(status, url)
+    puts "[#{status} #{url}]" # This gives context which is missing in the report.
+    File.open(REPORT_FILE, 'a') { |f| f.write("#{status}: #{url}\n") }
   end
 end

@@ -20,7 +20,7 @@ The first Earth Day, celebrated on April 22, 1970, launched what is known as the
 
 As [Gus Speth](/catalog/cpb-aacip_16-4j09w0978j) argued in an interview with WILL in 2004, environmental problems in the 1970s, including air and water pollution, were local, visible, and issues that personally impacted many American citizens. This has created a much more difficult challenge "in the effort to mobilize our country to give the kind of leadership on the global scale issues that we should be giving, like climate change," he stated.
 
-Next: [Causes](causes)
+Next: [Causes](/exhibits/climate-change/causes)
 
 ## Main
 

@@ -57,7 +57,7 @@ Roundtable](http://www2.archivists.org/groups/recorded-sound-roundtable)
 
 The [Council 
 of State 
-Archivists](http://www.statearchivists.org/connections/archivalassns.htm) and the [Society of American 
+Archivists](https://www.statearchivists.org) and the [Society of American 
 Archivists](http://www2.archivists.org/assoc-orgs/directory) provide useful lists of state and local professional organizations.
 
 
