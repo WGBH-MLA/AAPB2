@@ -1,4 +1,4 @@
-http://localhost:3000/catalog
+/catalog
 http://americanarchivepb.wordpress.com/
 http://americanarchivist.org/doi/abs/10.17723/aarc.63.1.242683617n40849g
 http://archive.mprnews.org/
