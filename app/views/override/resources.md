@@ -31,8 +31,7 @@ heritage institutions and projects.
 
 ### National:
 
-- [Association for Recorded Sound Collections 
-(ARSC)](http://www.arsc-audio.org/index.php)
+- [Association for Recorded Sound Collections (ARSC)](http://www.arsc-audio.org/index.php)
 - [Association of Moving Image Archivists (AMIA)](http://www.amianet.org/)
   - [AMIA Education Committee](https://amiaeducomm.wordpress.com/)
 - [Association of Tribal Archives, Libraries, and Museums](http://www.atalm.org)
@@ -86,8 +85,7 @@ Edition)](https://archive.org/details/AMIM2)
 
 ### Video Guides
 
-- [Activists' Guide to Archiving Video (2014) by 
-WITNESS](http://archiveguide.witness.org/)
+- [Activists' Guide to Archiving Video (2014) by WITNESS](http://archiveguide.witness.org/)
 - [Bay Area Video Coalition (BAVC) AV Artifact 
 Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas)
 - [Preservation Self-Assessment Program's Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
@@ -97,10 +95,9 @@ Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas)
 
 ### Reports
 
-- [Handling and Storage of Audio and Video Carriers (IASA-TC-05) 
-(2014)](http://www.iasa-web.org/notice_board/iasa-publishes-authoritative-guide-handling-and-storage-sound-and-video-recordings)
-- [NDSA Levels of 
-Preservation](http://www.digitalpreservation.gov/ndsa/activities/levels.html)
+- [ARSC Guide to Audio Preservation](http://www.clir.org/pubs/reports/pub164/pub164.pdf)
+- [Handling and Storage of Audio and Video Carriers (IASA-TC-05) (2014)](http://www.iasa-web.org/notice_board/iasa-publishes-authoritative-guide-handling-and-storage-sound-and-video-recordings)
+- [NDSA Levels of Preservation](http://www.digitalpreservation.gov/ndsa/activities/levels.html)
 - [Preserving Digital Public Television](http://www.digitalpreservation.gov/partners/pdpt.html)
 
  
@@ -122,8 +119,6 @@ Tool](https://www.nedcc.org/free-resources/dplan-the-online-disaster-planning-to
 Plan](http://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/)
 - [Radio Preservation Task 
 Force](http://www.loc.gov/programs/national-recording-preservation-plan/about-this-program/radio-preservation-task-force/)
-- National Digital Infrastructure and Preservation Program (NDIIPP)
-  - [home](http://www.digitalpreservation.gov/)
-  - [blog](http://blogs.loc.gov/digitalpreservation/)
-- [Digital Preservation Outreach & Education 
-(DPOE)](http://www.digitalpreservation.gov/education/)
+- [Digital Preservation](http://www.digitalpreservation.gov/)
+- [The Signal (blog)](http://blogs.loc.gov/digitalpreservation/)
+- [Digital Preservation Outreach & Education (DPOE)](http://www.digitalpreservation.gov/education/)
