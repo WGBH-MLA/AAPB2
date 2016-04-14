@@ -5,6 +5,15 @@ class CatalogController < ApplicationController
 
   include Blacklight::Catalog
 
+  rescue_from Blacklight::Exceptions::RecordNotFound, with: :render_404
+  rescue_from Blacklight::Exceptions::InvalidRequest, with: :render_404
+  
+  # Callback for Blacklight Catalog controller. Acts as a passthru to
+  # ApplicationController#render_404, which is the common 404 method.
+  def record_not_found(_exception)
+    render_404
+  end
+  
   configure_blacklight do |config|
     config.view.gallery.partials = [:index_header, :index]
 

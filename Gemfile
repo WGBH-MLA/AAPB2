@@ -47,7 +47,7 @@ gem 'capistrano-passenger', :group => :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'cmless', '0.0.8'
+gem 'cmless', '1.0.0'
 
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
