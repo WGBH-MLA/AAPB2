@@ -193,13 +193,13 @@ class CatalogController < ApplicationController
 
   private
 
-  # Returns exactly 1 Exhibit object given a path to the exhibit in the params
+  # Style/GuardClause
   def exhibit_from_url
     # Despite 'exhibit' field being multi-valued in solrconfig.xml, we're only
     # returning the first exhibit from the URL we currently only allow users to
     # select 1 exhibit in the UI, via the 'Show all items' link on the exhibit
     # pages are Cmless pages.
-    if params['f'] && params['f']['exhibits'] && !params['f']['exhibits'].empty?
+    if params['f'] && params['f']['exhibits'] && !params['f']['exhibits'].empty? # rubocop:disable Style/GuardClause
       path = params['f']['exhibits'].first
       begin
         return Exhibit.find_by_path(path)

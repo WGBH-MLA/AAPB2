@@ -38,7 +38,6 @@ describe User do
   end
 
   describe '#usa?' do
-
     require 'socket'
 
     it 'returns true for US IP addresses' do
@@ -53,7 +52,6 @@ describe User do
       expect(user.usa?).to eq false
     end
   end
-
 
   describe '#aapb_referrer?' do
     it 'returns true when referrer is the production website' do
@@ -75,7 +73,6 @@ describe User do
   end
 
   describe 'abilities' do
-
     examples = {
       public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),
       protected: PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')),
@@ -151,7 +148,7 @@ describe User do
       context "User #{user.onsite? ? 'on-site' : 'off-site'} and " \
               "TOS #{user.affirmed_tos? ? 'affirmed' : 'not affirmed'} and " \
               "#{user.usa? ? 'domestic' : 'international'} " \
-              (user.bot? ? 'bot' : 'human').to_s do
+              "#{user.bot? ? 'bot' : 'human'}" do
         ability = Ability.new(user)
         doc_types.each do |access_level, privs|
           describe access_level do

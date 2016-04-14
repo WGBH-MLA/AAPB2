@@ -6,7 +6,7 @@ module XmlBacked
 
   def xpath(xpath)
     REXML::XPath.match(@doc, xpath).tap do |matches|
-      if matches.length != 1
+      if matches.length != 1 # rubocop:disable Style/GuardClause
         raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
         return XmlBacked.text_from(matches.first)
