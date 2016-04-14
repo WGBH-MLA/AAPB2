@@ -2,14 +2,11 @@ require 'rails_helper'
 require 'ostruct'
 
 describe User do
-
   let(:user) { User.new(fake_request) }
   let(:fake_request) { double(user_agent: nil, referer: nil, session: nil, remote_ip: nil) }
 
   describe '#onsite?' do
-
     context "when remote IP is within the WGBH and LOC IP ranges (i.e. 'on-site')" do
-
       # Lists of all on-site IPs from WGBH and LOC
       let(:wgbh_ips) { IPAddr.new('198.147.175.0/24').to_range.minmax.map(&:to_s) }
       let(:loc_ips) { IPAddr.new('140.147.0.0/16').to_range.minmax.map(&:to_s) }
@@ -27,7 +24,6 @@ describe User do
     end
 
     context "when remote IP is *not* within the WGBH + LOC IP ranges (i.e. 'off-site')" do
-
       let(:test_these_offsite_ips) do
         ['198.147.174.0', '198.147.176.0', '140.146.0.0', '140.148.0.0']
       end
@@ -42,7 +38,7 @@ describe User do
   end
 
   describe '#usa?' do
-    
+
     require 'socket'
 
     it 'returns true for US IP addresses' do
@@ -57,8 +53,8 @@ describe User do
       expect(user.usa?).to eq false
     end
   end
-  
-  
+
+
   describe '#aapb_referrer?' do
     it 'returns true when referrer is the production website' do
       allow(fake_request).to receive(:referer) { 'http://americanarchive.org' }
@@ -79,30 +75,30 @@ describe User do
   end
 
   describe 'abilities' do
-    
+
     examples = {
       public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),
       protected: PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')),
       private:   PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')),
       all:       PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml'))
     }
-    
+
     onsite_access = {
-      public:     { play: true,  skip_tos: true},
-      protected:  { play: true,  skip_tos: true},
-      private:    { play: false, skip_tos: true},
-      all:        { play: false, skip_tos: true},
+      public:     { play: true,  skip_tos: true },
+      protected:  { play: true,  skip_tos: true },
+      private:    { play: false, skip_tos: true },
+      all:        { play: false, skip_tos: true }
     }
     no_access = {
-      public:     { play: false, skip_tos: true},
-      protected:  { play: false, skip_tos: true},
-      private:    { play: false, skip_tos: true},
-      all:        { play: false, skip_tos: true},
+      public:     { play: false, skip_tos: true },
+      protected:  { play: false, skip_tos: true },
+      private:    { play: false, skip_tos: true },
+      all:        { play: false, skip_tos: true }
     }
-    
+
     {
       # on-site possibilities:
-      
+
       OpenStruct.new(onsite?: true, affirmed_tos?: false, usa?: true, bot?: false) =>
         onsite_access,
       OpenStruct.new(onsite?: true, affirmed_tos?: false, usa?: false, bot?: false) =>
@@ -117,45 +113,45 @@ describe User do
         # usa?: false / affirmed_tos?: true
         # two weird cases together.
         onsite_access,
-      
+
       # off-site:
-      
+
       OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: false) =>
         {
-          public:     { play: false, skip_tos: false},
-          protected:  { play: false, skip_tos: true},
-          private:    { play: false, skip_tos: true},
-          all:        { play: false, skip_tos: true},
+          public:     { play: false, skip_tos: false },
+          protected:  { play: false, skip_tos: true },
+          private:    { play: false, skip_tos: true },
+          all:        { play: false, skip_tos: true }
         },
       OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: true, bot?: false) =>
         {
-          public:     { play: true,  skip_tos: true},
-          protected:  { play: false, skip_tos: true},
-          private:    { play: false, skip_tos: true},
-          all:        { play: false, skip_tos: true},
+          public:     { play: true,  skip_tos: true },
+          protected:  { play: false, skip_tos: true },
+          private:    { play: false, skip_tos: true },
+          all:        { play: false, skip_tos: true }
         },
-        
+
       # international:
-      
+
       OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: false, bot?: false) =>
         no_access,
       OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: false, bot?: false) =>
         # Maybe you got the TOS domestically, but we still deny access.
         no_access,
-        
+
       # bot:
-      
+
       OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: true) =>
         no_access,
       OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: false, bot?: true) =>
         # international bot the same
-        no_access,
-      
+        no_access
+
     }.each do |user, doc_types|
-      context "User #{user.onsite? ? 'on-site' : 'off-site'} and " +
-              "TOS #{user.affirmed_tos? ? 'affirmed' : 'not affirmed'} and " +
-              "#{user.usa? ? 'domestic' : 'international'} " +
-              "#{user.bot? ? 'bot' : 'human'}" do
+      context "User #{user.onsite? ? 'on-site' : 'off-site'} and " \
+              "TOS #{user.affirmed_tos? ? 'affirmed' : 'not affirmed'} and " \
+              "#{user.usa? ? 'domestic' : 'international'} " \
+              (user.bot? ? 'bot' : 'human').to_s do
         ability = Ability.new(user)
         doc_types.each do |access_level, privs|
           describe access_level do
@@ -170,5 +166,4 @@ describe User do
       end
     end
   end
-
 end

@@ -4,28 +4,28 @@ class OaiController < ApplicationController
 
   def index
     @verb = params.delete(:verb)
-    fail("Unsupported verb: #{@verb}") unless @verb == 'ListRecords'
+    raise("Unsupported verb: #{@verb}") unless @verb == 'ListRecords'
 
     @metadata_prefix = params.delete(:metadataPrefix) || 'mods'
-    fail("Unsupported metadataPrefix: #{@metadata_prefix}") unless @metadata_prefix == 'mods'
+    raise("Unsupported metadataPrefix: #{@metadata_prefix}") unless @metadata_prefix == 'mods'
 
     resumption_token = params.delete(:resumptionToken) || '0'
-    fail("Unsupported resumptionToken: #{resumption_token}") unless resumption_token =~ /^\d*$/
+    raise("Unsupported resumptionToken: #{resumption_token}") unless resumption_token =~ /^\d*$/
     start = resumption_token.to_i
 
     unsupported = params.keys - %w(action controller format)
-    fail("Unsupported params: #{unsupported}") unless unsupported.empty?
+    raise("Unsupported params: #{unsupported}") unless unsupported.empty?
 
     @response_date = Time.now.strftime('%FT%T')
 
     @records =
       RSolr.connect(url: 'http://localhost:8983/solr/')
-      .get('select', params: {
-             'q' => 'access_types:"' + PBCore::PUBLIC_ACCESS + '"',
-             'fl' => 'id,timestamp,xml',
-             'rows' => ROWS,
-             'start' => start
-           })['response']['docs'].map do |d|
+           .get('select', params: {
+                  'q' => 'access_types:"' + PBCore::PUBLIC_ACCESS + '"',
+                  'fl' => 'id,timestamp,xml',
+                  'rows' => ROWS,
+                  'start' => start
+                })['response']['docs'].map do |d|
         Record.new(
           d['id'],
           d['timestamp'],

@@ -2,7 +2,6 @@ require 'rails_helper'
 require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'Embed' do
-  
   before(:all) do
     PBCoreIngester.load_fixtures
   end
@@ -16,5 +15,4 @@ describe 'Embed' do
     expect(page).to have_css('video')
     expect(page.current_url).to match('/embed/')
   end
-      
 end

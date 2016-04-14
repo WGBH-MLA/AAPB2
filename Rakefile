@@ -5,5 +5,5 @@ require File.expand_path('../config/application', __FILE__)
 
 Rails.application.load_tasks
 
-ZIP_URL = 'https://github.com/projectblacklight/blacklight-jetty/archive/v4.9.0.zip'
+ZIP_URL = 'https://github.com/projectblacklight/blacklight-jetty/archive/v4.9.0.zip'.freeze
 require 'jettywrapper'

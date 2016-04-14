@@ -20,12 +20,12 @@ class Organization
   private
 
   def pop(hash, key)
-    hash.delete(key) || fail("#{key} required")
+    hash.delete(key) || raise("#{key} required")
   end
 
   def initialize(hash)
     @pbcore_name = pop(hash, 'pbcore_name')
-    @id = (pop(hash, 'id')).to_s
+    @id = pop(hash, 'id').to_s
     @short_name = pop(hash, 'short_name')
     @state = pop(hash, 'state')
     @state_abbreviation = State.find_by_name(@state).abbreviation
@@ -36,13 +36,13 @@ class Organization
     @summary_html = Markdowner.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
     @productions_html = Markdowner.render(hash.delete('productions_md'))
     @logo_src = "#{AAPB::S3_BASE}/org-logos/#{hash.delete('logo_filename')}" if hash['logo_filename']
-    fail("unexpected #{hash}") unless hash == {}
+    raise("unexpected #{hash}") unless hash == {}
   end
 
   orgs = YAML.load_file(Rails.root + 'config/organizations.yml').map { |hash| Organization.new(hash) }
   @orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
   @orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
-  @orgs_by_state       = Hash[orgs.group_by { |org| org.state }]
+  @orgs_by_state       = Hash[orgs.group_by(&:state)]
 
   public
 
@@ -53,13 +53,13 @@ class Organization
   def self.find_by_id(id)
     @orgs_by_id[id]
   end
-  
+
   def self.find_by_state(state)
     @orgs_by_state[state]
   end
 
   def self.all
-    @orgs_by_id.values.sort_by { |org| org.state }
+    @orgs_by_id.values.sort_by(&:state)
   end
 
   def to_a

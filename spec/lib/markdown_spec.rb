@@ -1,10 +1,10 @@
 require_relative '../../lib/markdowner'
 
 describe Markdowner do
-#  it 'creates named and numeric character entities and p tags' do
-#    html = Markdowner.render("<A>\r\n• “B”\r\n\t\u2603")
-#    expect(html).to eq('<p>&lt;A&gt;</p><p>&bull; &ldquo;B&rdquo;</p><p>&#9731;</p>')
-#  end
+  #  it 'creates named and numeric character entities and p tags' do
+  #    html = Markdowner.render("<A>\r\n• “B”\r\n\t\u2603")
+  #    expect(html).to eq('<p>&lt;A&gt;</p><p>&bull; &ldquo;B&rdquo;</p><p>&#9731;</p>')
+  #  end
 
   describe 'link maker' do
     it 'nil for nil' do

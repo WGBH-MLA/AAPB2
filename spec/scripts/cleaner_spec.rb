@@ -37,7 +37,7 @@ describe Cleaner do
         # Error could occur either in cleaning or validation; We don't care.
         begin
           ValidatedPBCore.new(cleaner.clean(dirty, name))
-          fail('Expected an error')
+          raise('Expected an error')
         rescue => e
           expect(e.message.split("\n").first)
             .to eq expected_first_line

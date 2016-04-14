@@ -80,13 +80,13 @@ describe 'Validated and plain PBCore' do
     it 'SRT on S3 matches fixture' do
       # Rather than mocking more of it up, the ingest test really pulls an SRT from S3.
       # ... but we still want to make sure that that SRT before it is cleaned has the data we expect.
-      
+
       # Ruby defaults to read files as UTF-8,
       # but the file delivered over the network is seen as ASCII: not sure what determines that.
       expect(File.open(Rails.root + 'spec/fixtures/srt/1234.srt1.srt', 'r:' + Encoding::ASCII_8BIT.to_s).read)
-        .to eq(''+Net::HTTP.get_response(URI.parse('https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt')).body)
+        .to eq('' + Net::HTTP.get_response(URI.parse('https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt')).body)
     end
-    
+
     describe 'empty' do
       empty_pbc = PBCore.new('<pbcoreDescriptionDocument/>')
 
@@ -132,14 +132,14 @@ describe 'Validated and plain PBCore' do
           'organization' => 'WGBH (MA)',
           'state' => 'Massachusetts',
           'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
-            # TODO: UI will transform internal representation.
+          # TODO: UI will transform internal representation.
         },
         access_types: [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
         access_level: 'Online Reading Room',
         asset_type: 'Album',
         asset_date: '2000-01-01',
         asset_dates: [['Date', '2000-01-01']],
-        titles: [['Series', 'Nova'], ['Program', 'Gratuitous Explosions'], #
+        titles: [%w(Series Nova), ['Program', 'Gratuitous Explosions'], #
                  ['Episode Number', '3-2-1'], ['Episode', 'Kaboom!']],
         title: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
         exhibits: [],

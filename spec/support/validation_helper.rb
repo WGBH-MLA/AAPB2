@@ -20,7 +20,7 @@ END
     (?!=)
   /x
 
-  def expect_fuzzy_xml(options={})
+  def expect_fuzzy_xml(options = {})
     allow_default_title = options.delete(:allow_default_title)
 
     # Kludge valid HTML5 to make it into valid XML.
@@ -38,17 +38,17 @@ END
     doc = REXML::Document.new(xhtml)
 
     title_node = REXML::XPath.match(doc, '/html/head/title').first
-    fail 'Page should have title' unless title_node && !title_node.text.empty?
+    raise 'Page should have title' unless title_node && !title_node.text.empty?
     if !allow_default_title && title_node.text == 'American Archive of Public Broadcasting'
-      fail 'Page title should be distinctive'
+      raise 'Page title should be distinctive'
     end
 
-    fail 'Text should not contain raw <p>' if page.text && page.text.include?('<p>')
+    raise 'Text should not contain raw <p>' if page.text && page.text.include?('<p>')
 
     bad_urls = page.all('a').map { |element| element['href'] }.reject do |url|
       LinkChecker.instance.check?(url)
     end
-    fail "Bad URLS: #{bad_urls}" unless bad_urls.empty?
+    raise "Bad URLS: #{bad_urls}" unless bad_urls.empty?
   rescue => e
     numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
     raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n#{numbered}"

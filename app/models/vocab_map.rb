@@ -8,15 +8,15 @@ class VocabMap
 
   def initialize(path)
     @map = YAML.load_file(path)
-    fail "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
+    raise "Unexpected datatype (#{@map.class}) in #{path}" unless @map.class == Psych::Omap
 
     @case_map = Hash[@map.values.uniq.map { |value| [value.downcase, value] }]
-    fail "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
+    raise "Case discrepancy on RHS in #{path}" if @case_map.count != @map.values.uniq.count
 
     hidden_keys = @map.select { |key, value| map_string(key) != value }.keys
-    fail "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
+    raise "Hidden keys #{hidden_keys} in #{path}" unless hidden_keys.empty?
 
-    fail "No default mapping in #{path}" unless @map['']
+    raise "No default mapping in #{path}" unless @map['']
   end
 
   def authorized_names
@@ -27,7 +27,7 @@ class VocabMap
     return nil unless s
     @case_map[s.downcase] ||
       @map.select { |key| s.downcase.include? key.downcase }.values.first ||
-      fail("No match found for '#{s}'")
+      raise("No match found for '#{s}'")
   end
 
   def map_node(node)
@@ -37,6 +37,7 @@ class VocabMap
         element.attributes[name]
         # self.value doesn't change when the value is reset. Agh.
       end
+
       def node.text=(s)
         element.attributes[name] = s
       end
@@ -63,8 +64,8 @@ class VocabMap
     map_nodes(nodes)
     attribute_name = nodes.first.name
     nodes.each do |node|
-      fail "Must be attribute: #{node}" unless node.node_type == :attribute
-      fail "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
+      raise "Must be attribute: #{node}" unless node.node_type == :attribute
+      raise "Attribute name must be '#{name}': #{node}" unless node.name == attribute_name
     end
 
     ordering = Hash[@map.values.uniq.each_with_index.map { |e, i| [e, i] }]

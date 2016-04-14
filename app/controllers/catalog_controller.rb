@@ -33,10 +33,10 @@ class CatalogController < ApplicationController
     #  # :q => '{!raw f=id v=$id}'
     # }
 
-#    Unused:
-#    # solr field configuration for search results/index views
-#    config.index.title_field = 'title_display'
-#    config.index.display_type_field = 'format'
+    #    Unused:
+    #    # solr field configuration for search results/index views
+    #    config.index.title_field = 'title_display'
+    #    config.index.display_type_field = 'format'
 
     # solr field configuration for document/show views
     # config.show.title_field = 'title_display'
@@ -72,35 +72,35 @@ class CatalogController < ApplicationController
     config.add_facet_field 'state', solr_params: { 'facet.limit' => -1 },
                                     show: false, tag: 'state'
     config.add_facet_field 'organization', sort: 'index', solr_params: { 'facet.limit' => -1 },
-                           # Default is 100, but we have more orgs than that. -1 means no limit.
+                                           # Default is 100, but we have more orgs than that. -1 means no limit.
                                            tag: 'org', ex: 'org,state',
                                            partial: 'organization_facet',
                                            collapse: :force
-                           # Display all, even when one is selected.
+    # Display all, even when one is selected.
     config.add_facet_field 'year', sort: 'index', range: true,
                                    message: 'Cataloging in progress: less than half of records for digitized assets are currently dated.'
     config.add_facet_field 'access_types', label: 'Access', partial: 'access_facet',
                                            tag: 'access', ex: 'access', collapse: false
 
-    VocabMap.for('title').authorized_names.each do|name|
+    VocabMap.for('title').authorized_names.each do |name|
       config.add_facet_field "#{name.downcase.gsub(/\s/, '_')}_titles", show: false, label: name
     end
 
-#    config.add_facet_field 'format', :label => 'Format'
-#    config.add_facet_field 'pub_date', :label => 'Publication Year', :single => true
-#    config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
-#    config.add_facet_field 'language_facet', :label => 'Language', :limit => true
-#    config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
-#    config.add_facet_field 'subject_geo_facet', :label => 'Region'
-#    config.add_facet_field 'subject_era_facet', :label => 'Era'
-#
-#    config.add_facet_field 'example_pivot_field', :label => 'Pivot Field', :pivot => ['format', 'language_facet']
-#
-#    config.add_facet_field 'example_query_facet_field', :label => 'Publish Date', :query => {
-#       :years_5 => { :label => 'within 5 Years', :fq => "pub_date:[#{Time.now.year - 5 } TO *]" },
-#       :years_10 => { :label => 'within 10 Years', :fq => "pub_date:[#{Time.now.year - 10 } TO *]" },
-#       :years_25 => { :label => 'within 25 Years', :fq => "pub_date:[#{Time.now.year - 25 } TO *]" }
-#    }
+    #    config.add_facet_field 'format', :label => 'Format'
+    #    config.add_facet_field 'pub_date', :label => 'Publication Year', :single => true
+    #    config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
+    #    config.add_facet_field 'language_facet', :label => 'Language', :limit => true
+    #    config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
+    #    config.add_facet_field 'subject_geo_facet', :label => 'Region'
+    #    config.add_facet_field 'subject_era_facet', :label => 'Era'
+    #
+    #    config.add_facet_field 'example_pivot_field', :label => 'Pivot Field', :pivot => ['format', 'language_facet']
+    #
+    #    config.add_facet_field 'example_query_facet_field', :label => 'Publish Date', :query => {
+    #       :years_5 => { :label => 'within 5 Years', :fq => "pub_date:[#{Time.now.year - 5 } TO *]" },
+    #       :years_10 => { :label => 'within 10 Years', :fq => "pub_date:[#{Time.now.year - 10 } TO *]" },
+    #       :years_25 => { :label => 'within 25 Years', :fq => "pub_date:[#{Time.now.year - 25 } TO *]" }
+    #    }
 
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
@@ -150,7 +150,6 @@ class CatalogController < ApplicationController
   end
 
   def index
-
     # If we are looking at search results for a particular exhibit, then fetch
     # the exhibit for additional display logic.
     @exhibit = exhibit_from_url
@@ -158,10 +157,10 @@ class CatalogController < ApplicationController
     if !params[:f] || !params[:f][:access_types]
       base_query = params.except(:action, :controller).to_query
       access = if current_user.onsite?
-        PBCore::DIGITIZED_ACCESS
-      else
-        PBCore::PUBLIC_ACCESS
-      end 
+                 PBCore::DIGITIZED_ACCESS
+               else
+                 PBCore::PUBLIC_ACCESS
+      end
       redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
     else
       super
@@ -187,7 +186,7 @@ class CatalogController < ApplicationController
       end
     end
   end
-  
+
   def terms_target
     '/terms/'
   end
@@ -202,7 +201,11 @@ class CatalogController < ApplicationController
     # pages are Cmless pages.
     if params['f'] && params['f']['exhibits'] && !params['f']['exhibits'].empty?
       path = params['f']['exhibits'].first
-      return Exhibit.find_by_path(path) rescue nil
+      begin
+        return Exhibit.find_by_path(path)
+      rescue
+        nil
+      end
     end
   end
 end

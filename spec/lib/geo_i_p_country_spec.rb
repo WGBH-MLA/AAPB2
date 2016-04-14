@@ -29,11 +29,11 @@ describe GeoIPCountry do
 
   # but...
 
-#  it 'puts WGBH in US' do # currently '--'
-#    expect(country_for_domain('wgbh.org')).to eq 'US'
-#  end
-#
-#  it 'puts english.gov.cn in CN' do # response varies
-#    expect(country_for_domain('english.gov.cn')).to eq 'US'
-#  end
+  #  it 'puts WGBH in US' do # currently '--'
+  #    expect(country_for_domain('wgbh.org')).to eq 'US'
+  #  end
+  #
+  #  it 'puts english.gov.cn in CN' do # response varies
+  #    expect(country_for_domain('english.gov.cn')).to eq 'US'
+  #  end
 end

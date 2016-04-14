@@ -31,13 +31,13 @@ describe 'Catalog' do
     url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
     expect(page).to have_css("video[poster='#{url}']")
   end
-  
-  def expect_no_media()
-    expect(page).not_to have_css("video")
-    expect(page).not_to have_css("audio")
+
+  def expect_no_media
+    expect(page).not_to have_css('video')
+    expect(page).not_to have_css('audio')
   end
-  
-  def expect_external_reference()
+
+  def expect_external_reference
     expect(page).to have_text('More information on this record is available.')
   end
 
@@ -65,14 +65,14 @@ describe 'Catalog' do
       expect_thumbnail(1234)
       expect_fuzzy_xml
     end
-    
+
     it 'offers to broaden search' do
       visit '/catalog?q=nothing-matches-this&f[access_types][]=' + PBCore::PUBLIC_ACCESS
       expect(page).to have_text('No entries found')
       click_link 'searching all records'
       expect(page).to have_text('Consider using other search terms or removing filters.')
     end
-    
+
     describe 'search constraints' do
       describe 'title facets' do
         assertions = [
@@ -124,7 +124,7 @@ describe 'Catalog' do
             page.all('.panel-heading[data-target]').map do |node|
               node['data-target'].gsub('#facet-', '')
             end
-          ).to eq(assertions.map { |a| a.first }) # coverage
+          ).to eq(assertions.map(&:first)) # coverage
         end
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -176,42 +176,42 @@ describe 'Catalog' do
             end
           end
         end
-        
+
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
           expect_count(2)
           expect(page).to have_text('You searched for: Access online')
-          
+
           click_link('All Records')
           expect_count(24)
           expect(page).to have_text('You searched for: Access all')
-          
+
           click_link('KQED (CA)')
           expect_count(1)
-          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '+
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Organization KQED (CA) Remove constraint Organization: KQED (CA)')
-        
+
           click_link('WGBH (MA)')
           expect_count(3)
-          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '+
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Organization KQED (CA) OR WGBH (MA) Remove constraint Organization: KQED (CA) OR WGBH (MA)')
-        
+
           all(:css, 'a.remove').first.click # KQED
           expect_count(2)
-          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '+
+          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Organization WGBH (MA) Remove constraint Organization: WGBH (MA)')
-        
+
           all(:css, '.constraints-container a.remove').first.click # remove access all
           # If you attempt to remove the access facet, it redirects you to the default,
           # but the default depends on requestor's IP address.
           # TODO: set address in request.
           expect_count(1)
           expect(page).to have_text('You searched for: Organization WGBH (MA) Remove constraint Organization: WGBH (MA) ')
-                                
+
           click_link('Iowa Public Television (IA)')
           # TODO: check count when IP set in request.
           expect(page).to have_text('Organization: WGBH (MA) OR Iowa Public Television (IA)')
-          
+
           # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
           # TODO: check count when IP set in request.
           # expect(page).to have_text('You searched for: Access online Remove constraint Access: online 1 - 2 of 2')
@@ -246,7 +246,7 @@ describe 'Catalog' do
             it "sort=score+desc: #{titles}\t#{url}" do
               visit url
               expect(page.status_code).to eq(200)
-              expect(page.all('.document h2').map { |node| node.text }).to eq(titles)
+              expect(page.all('.document h2').map(&:text)).to eq(titles)
               expect_fuzzy_xml
             end
           end
@@ -268,7 +268,7 @@ describe 'Catalog' do
                 page.all('#sort-dropdown .dropdown-menu a').map do |node|
                   node['href'].gsub(/.*sort=/, '')
                 end - ['score+desc']
-              ).to eq(assertions.map { |a| a.first }) # coverage
+              ).to eq(assertions.map(&:first)) # coverage
               expect(page.status_code).to eq(200)
               expect(page.find('.document[1] h2').text).to eq(title)
               expect_fuzzy_xml
@@ -330,21 +330,21 @@ describe 'Catalog' do
 
   describe '#show' do
     def expect_all_the_text(fixture_name)
-      target = PBCore.new(File.read('spec/fixtures/pbcore/'+fixture_name))
+      target = PBCore.new(File.read('spec/fixtures/pbcore/' + fixture_name))
       # #text is only used for #to_solr, so it's private...
       # so we need the #send to get at it.
       target.send(:text).each do |field|
-        field.gsub!("cpb-aacip_", 'cpb-aacip/') if field =~ /^cpb-aacip/ # TODO: Remove when we sort out ID handling.
+        field.gsub!('cpb-aacip_', 'cpb-aacip/') if field =~ /^cpb-aacip/ # TODO: Remove when we sort out ID handling.
         expect(page).to have_text(field)
       end
     end
-    
+
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
       expect_all_the_text('clean-MOCK.xml')
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
-      expect_no_media()
-      expect_external_reference()
+      expect_no_media
+      expect_external_reference
     end
 
     it 'has poster otherwise if media' do
@@ -352,21 +352,21 @@ describe 'Catalog' do
       expect_all_the_text('clean-every-title-is-episode-number.xml')
       expect_poster('cpb-aacip_37-16c2fsnr')
     end
-    
+
     it 'apologizes if no access' do
       visit '/catalog/cpb-aacip-80-12893j6c'
       # No need to click through
       expect_all_the_text('clean-bad-essence-track.xml')
       expect(page).to have_text('This content has not been digitized.')
-      expect_no_media()
+      expect_no_media
     end
-    
+
     it 'links to collection' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
       expect(page).to have_text('This record is featured in')
       expect_poster('cpb-aacip_111-21ghx7d6')
     end
-    
+
     describe 'access control' do
       it 'has warning for non-us access' do
         ENV['RAILS_TEST_IP_ADDRESS'] = '0.0.0.0'
@@ -374,18 +374,18 @@ describe 'Catalog' do
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-every-title-is-episode-number.xml')
         expect(page).to have_text('not available at your location.')
-        expect_no_media()
+        expect_no_media
       end
-      
+
       it 'has warning for off-site access' do
         ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
         visit 'catalog/cpb-aacip_111-21ghx7d6'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-exhibit.xml')
         expect(page).to have_text('only available at WGBH and the Library of Congress. ')
-        expect_no_media()
+        expect_no_media
       end
-      
+
       it 'requires click-thru for ORR items' do
         ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
         visit 'catalog/cpb-aacip_37-16c2fsnr'

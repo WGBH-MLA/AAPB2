@@ -8,7 +8,7 @@ class TermsController < ApplicationController
     session[:affirm_terms] = true
     redirect_to(target + CGI.escape(params['id']))
   end
-  
+
   def target
     '/catalog/'
   end

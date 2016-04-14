@@ -5,7 +5,7 @@ require 'rsolr'
 class Solr
   include Singleton
 
-  DEFAULT = 'development'
+  DEFAULT = 'development'.freeze
 
   def initialize
     environment = ENV['RAILS_ENV'] || DEFAULT

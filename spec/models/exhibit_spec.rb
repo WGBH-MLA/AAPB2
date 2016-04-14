@@ -41,7 +41,11 @@ describe Exhibit do
 
     assertions.each do |method, value|
       it "\##{method} method works" do
-        expect(exhibit.send(method)).to eq((value.strip rescue value))
+        expect(exhibit.send(method)).to eq((begin
+                                              value.strip
+                                            rescue
+                                              value
+                                            end))
       end
     end
 

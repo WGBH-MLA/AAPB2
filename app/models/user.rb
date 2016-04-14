@@ -37,13 +37,13 @@ class User
       URI.parse(@referer).host =~ allowed
     end
   end
-  
+
   def embed?
     URI.parse(@referer).path =~ /embed/
   end
 
   def affirmed_tos?
-    @session[:affirm_terms] || 
+    @session[:affirm_terms] ||
       (!@referer.nil? && URI.parse(@referer).host =~ POPUP_HOST_RE)
     # Casey confirms that Popup counts as affirming ToS.
   end

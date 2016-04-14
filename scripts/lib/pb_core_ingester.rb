@@ -16,7 +16,7 @@ class PBCoreIngester
   def initialize(opts)
     # TODO: hostname and corename from config?
     @solr = Solr.instance.connect
-    @solr.get('../admin/cores')['status']['blacklight-core']['dataDir'].tap do|data_dir|
+    @solr.get('../admin/cores')['status']['blacklight-core']['dataDir'].tap do |data_dir|
       MountValidator.validate_mount("#{data_dir}index", 'solr index') unless opts[:is_same_mount]
     end
     $LOG ||= NullLogger.new
@@ -86,7 +86,7 @@ class PBCoreIngester
     commit unless is_batch_commit
   end
 
-  def record_error(e, path, id_extracts='')
+  def record_error(e, path, id_extracts = '')
     message = "#{path} #{id_extracts}: #{e.message}"
     $LOG.warn(message)
     @errors["#{e.class}: #{e.message.split(/\n/).first}"] += [message]
