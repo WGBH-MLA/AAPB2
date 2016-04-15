@@ -13,4 +13,8 @@ class ApplicationController < ActionController::Base
   def current_user
     User.new(request)
   end
+  
+  def render_404
+    render file: 'public/404.html', status: :not_found
+  end
 end
