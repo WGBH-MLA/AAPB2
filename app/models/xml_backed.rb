@@ -6,8 +6,8 @@ module XmlBacked
 
   def xpath(xpath)
     REXML::XPath.match(@doc, xpath).tap do |matches|
-      if matches.length != 1
-        fail NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
+      if matches.length != 1 # rubocop:disable Style/GuardClause
+        raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
         return XmlBacked.text_from(matches.first)
       end
@@ -36,15 +36,15 @@ module XmlBacked
     Hash[pairs_by_type(element_xpath, attribute_xpath)]
   end
 
-# TODO: If we can just iterate over pairs, we don't need either of these.
-#
-#  def multi_hash_by_type(element_xpath, attribute_xpath) # Not tested
-#    Hash[
-#      pairs_by_type(element_xpath, attribute_xpath).group_by{|(key,value)| key}.map{|key,pair_list|
-#        [key, pair_list.map{|(key,value)| value}]
-#      }
-#    ]
-#  end
+  # TODO: If we can just iterate over pairs, we don't need either of these.
+  #
+  #  def multi_hash_by_type(element_xpath, attribute_xpath) # Not tested
+  #    Hash[
+  #      pairs_by_type(element_xpath, attribute_xpath).group_by{|(key,value)| key}.map{|key,pair_list|
+  #        [key, pair_list.map{|(key,value)| value}]
+  #      }
+  #    ]
+  #  end
 
   class NoMatchError < StandardError
   end

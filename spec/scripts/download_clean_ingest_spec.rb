@@ -49,10 +49,10 @@ describe DownloadCleanIngest do
 
     # Modes expected to succeed:
     # (--back can be slow)
-#    '--stdout-log --same-mount --back 1' => [
-#      /Trying .*\/page\/1/,
-#      /\d+ succeeded/
-#    ],
+    #    '--stdout-log --same-mount --back 1' => [
+    #      /Trying .*\/page\/1/,
+    #      /\d+ succeeded/
+    #    ],
     "#{default_flags} --ids 37-010p2nvv" => [
       /Downloading .*guid\/37-010p2nvv/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
@@ -101,9 +101,9 @@ describe DownloadCleanIngest do
   }.each do |args, patterns|
     describe "download_clean_ingest.rb #{args}" do
       let(:output) do
-        dci_output(*args.split(/\s+/).map do|arg|
+        dci_output(*args.split(/\s+/).map do |arg|
           arg.sub(/(^['"])|(['"]$)/, '')
-            # There might be quotes around args if pasted from commandline.
+          # There might be quotes around args if pasted from commandline.
         end) end
       patterns.each do |pattern|
         it "matches /#{pattern.source}/" do

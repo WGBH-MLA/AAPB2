@@ -3,8 +3,7 @@
 require 'rails_helper'
 describe CatalogController do
   describe 'redirection' do
-    
-    ACCESS = "&f[access_types][]=#{PBCore::PUBLIC_ACCESS}"
+    ACCESS = "&f[access_types][]=#{PBCore::PUBLIC_ACCESS}".freeze
     it 'redirects if no params' do
       get 'index'
       expect(response).to redirect_to '/catalog?' + ACCESS
@@ -24,7 +23,7 @@ describe CatalogController do
       get 'index', q: '', f: {}
       expect(response).to redirect_to '/catalog?q=' + ACCESS
     end
-    
+
     it 'redirects if sort filled in' do
       get 'index', sort: 'year asc'
       expect(response).to redirect_to '/catalog?sort=year+asc' + ACCESS

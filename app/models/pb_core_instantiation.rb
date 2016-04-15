@@ -1,5 +1,5 @@
 class PBCoreInstantiation
-  def initialize(rexml_or_media_type, duration=nil)
+  def initialize(rexml_or_media_type, duration = nil)
     if duration
       @media_type = rexml_or_media_type
       @duration = duration

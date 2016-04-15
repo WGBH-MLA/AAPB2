@@ -43,7 +43,7 @@ describe HtmlScrubber do
       alt=watchbutton2 width=75 height=26 / /??/
       EOF
     )).to eq [
-          # TODO: Want this to be cleaner.
+      # TODO: Want this to be cleaner.
       'em',
       'Earth Edition /em focuses on diverse and',
       'unique natural world of Southwest Florida. ... Produced from 2003 to 2006,',
@@ -116,7 +116,7 @@ describe HtmlScrubber do
   it 'handles more nmap weirdness' do
     expect(HtmlScrubber.scrub(
              '{nmap}popup|250|40|images/stories/audio/gulfcoastlive/GL012612.mp3|1||||1|{/nmap} ; ; a http://firesigntheatre.com/media/media.php?member=all target=_blank;Nick Danger: Third Eye"/ a parody of the 1940s radio detective shows originally written and performed by a http://firesigntheatre.com/index.php target=_blank;The Firesign Theatre/ in 1969 comes to Sarasota. This bit of theatrical history is the first ever fully dramatized presentation of Nick Danger. It will be performed at the a http://www.annamariaisland-longboatkey.com/crosley-estate/ target=_blank;Powel Crosley Estate/ .'
-    )).to eq "a http://firesigntheatre.com/media/media.php? Danger: Third Eye\"/ a parody of the 1940s radio detective shows originally written and performed by a http://firesigntheatre.com/index.php Firesign Theatre/ in 1969 comes to Sarasota. This bit of theatrical history is the first ever fully dramatized presentation of Nick Danger. It will be performed at the a http://www.annamariaisland-longboatkey.com/crosley-estate/ Crosley Estate/ ."
+    )).to eq 'a http://firesigntheatre.com/media/media.php? Danger: Third Eye"/ a parody of the 1940s radio detective shows originally written and performed by a http://firesigntheatre.com/index.php Firesign Theatre/ in 1969 comes to Sarasota. This bit of theatrical history is the first ever fully dramatized presentation of Nick Danger. It will be performed at the a http://www.annamariaisland-longboatkey.com/crosley-estate/ Crosley Estate/ .'
   end
   it 'handles "??" weirdness' do
     expect(HtmlScrubber.scrub(

@@ -3,12 +3,12 @@ require 'sony-ci-api'
 require 'tmpdir'
 
 describe 'Media', not_on_travis: true do
-  TARGET = 'lorem ipsum'
+  TARGET = 'lorem ipsum'.freeze
 
   def safe_ci
     credentials_path = Rails.root + 'config/ci.yml'
     ci = SonyCiAdmin.new(credentials_path: credentials_path)
-    fail 'Workspace must be empty' unless ci.list_names.empty?
+    raise 'Workspace must be empty' unless ci.list_names.empty?
     ci
   end
 

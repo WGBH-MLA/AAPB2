@@ -16,7 +16,7 @@ class ValidatedPBCore < PBCore
     document = Nokogiri::XML(xml)
     errors = SCHEMA.validate(document)
     return if errors.empty?
-    fail 'Schema validation errors: ' + errors.join("\n")
+    raise 'Schema validation errors: ' + errors.join("\n")
   end
 
   def method_validate
@@ -30,6 +30,6 @@ class ValidatedPBCore < PBCore
       end
     end
     return if errors.empty?
-    fail 'Method validation errors: ' + errors.join("\n")
+    raise 'Method validation errors: ' + errors.join("\n")
   end
 end

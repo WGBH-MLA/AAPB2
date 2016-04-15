@@ -4,3 +4,4 @@ cache: bundler
 script:
   - bundle exec rails server &
   - bundle exec rake ci
+  - bundle exec rubocop -D

@@ -12,7 +12,7 @@ class LinkChecker
     /^\/catalog\//, # redundant: other tests load each fixture
     /^#/, # TODO: anchors
     /^mailto:/
-  ]
+  ].freeze
 
   def initialize
     @checked = Set.new(File.readlines(IGNORE_FILE).map(&:strip))
@@ -31,7 +31,7 @@ class LinkChecker
                when /^https?:/
                  url
                when /^[^\/]/
-                 fail("relative links are trouble: #{url}")
+                 raise("relative links are trouble: #{url}")
                else
                  'http://localhost:3000' + url
                end
@@ -43,7 +43,7 @@ class LinkChecker
     curl.http_get
 
     code = curl.response_code
-    fail("Got #{code} from #{full_url} instead of 200") unless code == 200
+    raise("Got #{code} from #{full_url} instead of 200") unless code == 200
 
     report('PASS', url)
     true

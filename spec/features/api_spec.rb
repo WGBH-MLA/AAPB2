@@ -3,7 +3,6 @@ require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'API' do
-
   before(:all) do
     PBCoreIngester.load_fixtures
   end
@@ -18,8 +17,8 @@ describe 'API' do
     end
 
     xit 'supports facets for statistics / explicit callback' do
-      visit '/api.js?callback=my_callback&facet=true&facet.field=year&' + 
-        'facet.query[]=year:1988+AND+iowa'
+      visit '/api.js?callback=my_callback&facet=true&facet.field=year&' \
+            'facet.query[]=year:1988+AND+iowa'
       expect(page.status_code).to eq 200
       expect(page).to have_text('my_callback({ "responseHeader"')
       expect(page).to have_text('"rows": "0"')
@@ -27,7 +26,7 @@ describe 'API' do
       expect(page).to have_text('"numFound": 24')
       expect(page).to have_text('"1981", 1, "1988", 1, "1990", 1, "2000", 1')
     end
-    
+
     xit 'searches documents / json, not jsonp' do
       visit '/api.json?rows=10&q=iowa'
       expect(page.status_code).to eq 200
@@ -38,7 +37,7 @@ describe 'API' do
       # have_text runs the source through a regex that removes "tags",
       # even in non-xml documents.
     end
-    
+
     xit 'supports xml, too' do
       visit '/api.xml?rows=10&q=iowa'
       expect(page.status_code).to eq 200
@@ -47,14 +46,14 @@ describe 'API' do
       expect(page.source).to match('<xml>&lt;pbcoreDescriptionDocument')
     end
   end
-  
+
   describe 'error handling' do
     it 'has helpful error messages in json' do
       visit '/api.json?facet=error'
       expect(page.status_code).to eq 500
       expect(page).to have_text('"msg": "invalid boolean value: error"')
     end
-    
+
     it 'has helpful error messages in xml' do
       visit '/api.xml?facet=error'
       expect(page.status_code).to eq 500

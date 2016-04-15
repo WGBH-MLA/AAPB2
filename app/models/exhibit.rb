@@ -21,19 +21,19 @@ class Exhibit < Cmless
   def self.exhibits_by_item_id
     @exhibits_by_item_id ||=
       Hash[
-        Exhibit.map { |exhibit| exhibit.ids }.flatten.uniq.map do |id|
+        Exhibit.map(&:ids).flatten.uniq.map do |id|
           [
             id,
             Exhibit.select { |exhibit| exhibit.ids.include?(id) }
           ]
         end
       ]
-  end  
-  
+  end
+
   def self.find_all_by_item_id(id)
     exhibits_by_item_id[id] || []
   end
-  
+
   def self.find_top_by_item_id(id)
     all_top_level.select { |ex| ex.ids.include?(id) }
   end
@@ -46,7 +46,7 @@ class Exhibit < Cmless
   def ids
     items.keys
   end
-  
+
   def summary_html
     doc = Nokogiri::HTML::DocumentFragment.parse(@summary_html)
     doc.at_css('img').tap { |img| img['class'] = 'pull-right' if img }
@@ -62,7 +62,11 @@ class Exhibit < Cmless
         end.map do |el|
           [
             el.attribute('href').to_s.gsub('/catalog/', ''),
-            (el.attribute('title').text rescue el.text)
+            (begin
+               el.attribute('title').text
+             rescue
+               el.text
+             end)
           ]
         end
       ]

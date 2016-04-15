@@ -11,7 +11,7 @@ require_relative 'query_maker'
 
 class Downloader
   MAX_ROWS = 10_000
-  KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'
+  KEY = 'b5f3288f3c6b6274c3455ec16a2bb67a'.freeze
   # From docs at https://github.com/avpreserve/AMS/blob/master/documentation/ams-web-services.md
   # ie, this not sensitive.
   $LOG ||= NullLogger.new
@@ -19,7 +19,7 @@ class Downloader
   def initialize(since)
     @since = since
     since.match(/(\d{4})(\d{2})(\d{2})/).tap do |match|
-      fail("Expected YYYYMMDD, not '#{since}'") unless
+      raise("Expected YYYYMMDD, not '#{since}'") unless
         match &&
         match[1].to_i < 3000 &&
         match[2].to_i.instance_eval { |m| (1 <= m) && (m <= 12) } &&
@@ -27,8 +27,8 @@ class Downloader
     end
   end
 
-  def self.download_to_directory_and_link(opts={})
-    fail("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(
+  def self.download_to_directory_and_link(opts = {})
+    raise("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(
       Set[
         :days, :page, :ids, :query, # modes
         :is_same_mount, :is_just_reindex # flags
@@ -40,21 +40,21 @@ class Downloader
       $LOG.info("Query solr for #{opts[:query]}")
       opts[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
                                                                            q: q, fl: 'id', rows: MAX_ROWS })['response']['docs'].map { |doc| doc['id'] }
-      fail("Got back more than #{MAX_ROWS} from query") if opts[:ids].size > MAX_ROWS
+      raise("Got back more than #{MAX_ROWS} from query") if opts[:ids].size > MAX_ROWS
     end
     if opts[:ids]
       dirname ||= "#{now}_by_ids_#{opts[:ids].size}"
       mkdir_and_cd(dirname, opts[:is_same_mount])
       opts[:ids].each do |id|
-        id = id.gsub(/[^[:ascii:]]/,'').gsub(/[^[:print:]]/,'')
+        id = id.gsub(/[^[:ascii:]]/, '').gsub(/[^[:print:]]/, '')
         short_id = id.sub(/.*[_\/]/, '')
         content = if opts[:is_just_reindex]
                     $LOG.info("Query solr for #{id}")
-          # TODO: hostname and corename from config?
+                    # TODO: hostname and corename from config?
                     Solr.instance.connect
-                    .get('select', params: {
-                           qt: 'document', id: id
-                         })['response']['docs'][0]['xml']
+                        .get('select', params: {
+                               qt: 'document', id: id
+                             })['response']['docs'][0]['xml']
                   else
                     url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
                     $LOG.info("Downloading #{url}")
@@ -86,7 +86,7 @@ class Downloader
     Dir.chdir('..')
     link_name = 'LATEST'
     File.unlink(link_name) if File.symlink?(link_name)
-    fail "Did not expect '#{link_name}'" if File.exist?(link_name)
+    raise "Did not expect '#{link_name}'" if File.exist?(link_name)
     File.symlink(name, link_name)
 
     Dir.chdir(link_name)

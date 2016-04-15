@@ -28,7 +28,7 @@ describe Downloader do
   end
 
   it 'downloads by id' do
-    dir = Downloader.download_to_directory_and_link(ids: [0.chr+'cpb-aacip/17-00000qrv'+160.chr], is_same_mount: true)
+    dir = Downloader.download_to_directory_and_link(ids: [0.chr + 'cpb-aacip/17-00000qrv' + 160.chr], is_same_mount: true)
     # 0.chr and 160.chr to make sure we strip weird characters.
     expect(dir).to match(/\d{4}-\d{2}-\d{2}.*_by_ids_1/)
     files = Dir["#{dir}/*.pbcore.zip"]

@@ -29,6 +29,6 @@ if Rails && !Rails.env.production?
       task.rspec_opts = '--tag ~not_on_travis'
       task.run_task(true)
     end
-    fail "test failures: #{error}" if error
+    raise "test failures: #{error}" if error
   end
 end

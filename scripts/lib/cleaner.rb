@@ -15,7 +15,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     @topic_type_map = VocabMap.for('topic')
   end
 
-  def clean(dirty_xml, name='not specified')
+  def clean(dirty_xml, name = 'not specified')
     dirty_xml.gsub!("xsi:xmlns='http://www.w3.org/2001/XMLSchema-instance'",
                     "xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'")
     dirty_xml.gsub!("xmlns:xsi='xsi'", '')
@@ -97,13 +97,13 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       elsif !genre.empty? && !topic.empty?
         genre_node = node
         topic_node = node.clone
-        
+
         genre_node.text = genre
         genre_node.add_attribute('annotation', 'genre')
-        
+
         topic_node.text = topic
         topic_node.add_attribute('annotation', 'topic')
-        
+
         genre_node.next_sibling = topic_node
       else
         Cleaner.delete(node)
@@ -203,7 +203,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     end
 
     match(doc, '[not(pbcoreDescription)]') do
-      fail 'No pbcoreDescription remains after removal of duplicate values'
+      raise 'No pbcoreDescription remains after removal of duplicate values'
     end
 
     # formatting:
@@ -226,11 +226,8 @@ class Cleaner # rubocop:disable Metrics/ClassLength
       title # No change, if mix of upper and lower.
     else
       title.downcase
-        .gsub(/\b\w/) do |match|
-          # First letters
-          match.upcase
-        end
-        .gsub(/\b(
+           .gsub(/\b\w/, &:upcase)
+           .gsub(/\b(
             AFN|AG|ASMW|BSO|CEO|CMU|CO|CTE|DCA
             |ETV|HBCU|HIKI|ICC|II|IPR|ITV|KAKM|KBDI|KCAW|KCMU
             |KDNA|KEET|KET|KETC|KEXP|KEZI|KFME|KGNU|KLPA|KMED|KMOS
@@ -244,23 +241,10 @@ class Cleaner # rubocop:disable Metrics/ClassLength
             |WGUC|WGVU|WHA|WHRO|WHUR|WHUT|WHYY|WIAA|WKAR|WLAE
             |WMEB|WNED|WNET|WNYC|WOJB|WOSU|WQED|WQEJ|WRFA|WRNI|WSIU
             |WTIP|WTIU|WUFT|WUMB|WUNC|WUSF|WVIA|WVIZ|WWOZ|WXXI|WYCC
-            |WYSO|WYSU|YSU)\b/xi) do |match|
-          # Based on:
-          #   ruby -ne '$_.match(/[A-Z]{2,}/){|m| puts m}' config/organizations.yml \
-          #     | grep '[AEIOUY]' | sort | uniq | ruby -ne 'print $_.chop; print "|"'
-          # Removed: AM, AMBER, COLORES, COSI, FETCH, NET, RISE, SAM, STEM, TOLD, WILL
-        match.upcase
-      end
-        .gsub(/\b[^AEIOUY]+\b/i) do |match|
-          # Unknown acronyms
-          match.upcase
-        end
-        .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i) do |match|
-          match.downcase
-        end
-        .gsub(/^./) do |match|
-          match.upcase
-        end
+            |WYSO|WYSU|YSU)\b/xi, &:upcase)
+           .gsub(/\b[^AEIOUY]+\b/i, &:upcase)
+           .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i, &:downcase)
+           .gsub(/^./, &:upcase)
     end
   end
 

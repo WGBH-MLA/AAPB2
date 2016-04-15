@@ -1,5 +1,5 @@
 class RobotsController < ApplicationController
-  REAL_HOST = 'americanarchive.org'
+  REAL_HOST = 'americanarchive.org'.freeze
   def show
     respond_to do |format|
       format.txt do

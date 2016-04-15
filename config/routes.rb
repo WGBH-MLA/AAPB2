@@ -5,7 +5,7 @@ Rails.application.routes.draw do
 
   resources 'terms',
             only: [:show, :create]
-          
+
   resources 'embed', only: [:index, :show] # BL requires that there be an index.
   resources 'embed_terms', only: [:show, :create]
 
@@ -25,14 +25,14 @@ Rails.application.routes.draw do
 
   resources 'captions',
             only: [:show]
-          
+
   resources 'api',
             only: [:index]
-          
+
   resources 'oai',
             only: [:index]
 
-  ['404', '500'].each do |status_code|
+  %w(404 500).each do |status_code|
     get status_code, to: 'errors#show', status_code: status_code
   end
 

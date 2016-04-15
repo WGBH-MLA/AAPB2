@@ -50,7 +50,7 @@ class DownloadCleanIngest
     mode = argv.shift
     args = argv
 
-    fail("#{JUST_REINDEX} should only be used with #{IDS} or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, QUERY].include?(mode)
+    raise("#{JUST_REINDEX} should only be used with #{IDS} or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, QUERY].include?(mode)
 
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{__FILE__} #{orig.join(' ')}")
@@ -61,41 +61,41 @@ class DownloadCleanIngest
       case mode
 
       when ALL
-        fail ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
+        raise ParamsError.new unless args.count < 2 && (!args.first || args.first.to_i > 0)
         target_dirs = download(page: args.first.to_i)
 
       when BACK
-        fail ParamsError.new unless args.count == 1 && args.first.to_i > 0
+        raise ParamsError.new unless args.count == 1 && args.first.to_i > 0
         target_dirs = download(days: args.first.to_i)
 
       when QUERY
-        fail ParamsError.new unless args.count == 1
+        raise ParamsError.new unless args.count == 1
         target_dirs = download(query: args.first)
 
       when IDS
-        fail ParamsError.new unless args.count >= 1
+        raise ParamsError.new unless args.count >= 1
         target_dirs = download(ids: args)
 
       when ID_FILES
-        fail ParamsError.new unless args.count >= 1
+        raise ParamsError.new unless args.count >= 1
         ids = args.map { |id_file| File.readlines(id_file) }.flatten
         target_dirs = download(ids: ids)
 
       when DIRS
-        fail ParamsError.new if args.empty? || args.map { |dir| !File.directory?(dir) }.any?
+        raise ParamsError.new if args.empty? || args.map { |dir| !File.directory?(dir) }.any?
         target_dirs = args
 
       when FILES
-        fail ParamsError.new if args.empty?
+        raise ParamsError.new if args.empty?
         @files = args
 
       when EXHIBITS
-        fail ParamsError.new unless args.count >= 1
+        raise ParamsError.new unless args.count >= 1
         ids = args.map { |exhibit_path| Exhibit.find_by_path(exhibit_path).ids }.flatten
         target_dirs = download(ids: ids)
 
       else
-        fail ParamsError.new
+        raise ParamsError.new
       end
     rescue ParamsError
       abort usage_message
@@ -103,8 +103,8 @@ class DownloadCleanIngest
 
     @files ||= target_dirs.map do |target_dir|
       Dir.entries(target_dir)
-      .reject { |file_name| ['.', '..'].include?(file_name) }
-      .map { |file_name| "#{target_dir}/#{file_name}" }
+         .reject { |file_name| ['.', '..'].include?(file_name) }
+         .map { |file_name| "#{target_dir}/#{file_name}" }
     end.flatten.sort
   end
 
@@ -194,25 +194,25 @@ class DownloadCleanIngest
     # ingester.optimize
 
     errors = ingester.errors.sort # So related errors are together
-    error_count = errors.map{|pair| pair[1]}.flatten.count
+    error_count = errors.map { |pair| pair[1] }.flatten.count
     success_count = ingester.success_count
     total_count = error_count + success_count
 
     $LOG.info('SUMMARY: DETAIL')
-    errors.each {|type, list|
+    errors.each do |type, list|
       $LOG.warn("#{list.count} #{type} errors:\n#{list.join("\n")}")
-    }
+    end
 
     $LOG.info('SUMMARY: STATS')
     $LOG.info('(Look just above for details on each error.)')
-    errors.each {|type, list|
+    errors.each do |type, list|
       $LOG.warn("#{list.count} (#{percent(list.count, total_count)}%) #{type}")
-    }
+    end
     $LOG.info("#{success_count} (#{percent(success_count, total_count)}%) succeeded")
 
     $LOG.info('DONE')
   end
-  
+
   def percent(part, whole)
     (100.0 * part / whole).round(1)
   end

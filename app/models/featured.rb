@@ -10,11 +10,11 @@ class Featured
   private
 
   def initialize(hash)
-    @id = hash.delete('id') || fail('expected id')
-    @org_name = hash.delete('org_name') || fail('expected org_name')
-    @name = hash.delete('name') || fail('expected org_name')
+    @id = hash.delete('id') || raise('expected id')
+    @org_name = hash.delete('org_name') || raise('expected org_name')
+    @name = hash.delete('name') || raise('expected org_name')
     @thumbnail_url = hash.delete('thumbnail_url') || "#{AAPB::S3_BASE}/featured/#{@id}_gallery.jpg"
-    fail("unexpected #{hash}") unless hash == {}
+    raise("unexpected #{hash}") unless hash == {}
   end
 
   @galleries = Hash[

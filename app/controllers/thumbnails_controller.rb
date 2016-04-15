@@ -3,8 +3,8 @@
 class ThumbnailsController < ApplicationController
   include Blacklight::Catalog
 
-  CACHE = {}
-  
+  CACHE = {}.freeze
+
   def show
     id = params['id']
     CACHE[id] ||= begin

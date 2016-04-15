@@ -1,5 +1,5 @@
 class PBCoreNameRoleAffiliation
-  def initialize(rexml_or_stem, name=nil, role=nil, affiliation=nil)
+  def initialize(rexml_or_stem, name = nil, role = nil, affiliation = nil)
     if name
       # for testing only
       @stem = rexml_or_stem
