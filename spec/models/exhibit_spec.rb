@@ -52,7 +52,7 @@ describe Exhibit do
 
     describe 'error handling' do
       it 'raises an error for bad paths' do
-        expect { MockExhibit.find_by_path('no/such/path') }.to raise_error(IndexError)
+        expect { MockExhibit.find_by_path('no/such/path') }.to raise_error(Cmless::Cmless::Error)
       end
     end
   end
