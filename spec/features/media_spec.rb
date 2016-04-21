@@ -1,9 +1,10 @@
 require_relative '../../scripts/lib/pb_core_ingester'
+require 'rails_helper'
 require 'sony-ci-api'
 require 'tmpdir'
 
-describe 'Media', not_on_travis: true do
-  TARGET = 'lorem ipsum'.freeze
+describe 'Media URLs', not_on_travis: true do
+  let(:file_content) { 'lorem ipsum' }
 
   def safe_ci
     credentials_path = Rails.root + 'config/ci.yml'
@@ -16,7 +17,7 @@ describe 'Media', not_on_travis: true do
     Dir.mktmpdir do |dir|
       log_path = "#{dir}/log.txt"
       path = "#{dir}/small-file.txt"
-      File.write(path, TARGET)
+      File.write(path, file_content)
       ci_id = ci.upload(path, log_path)
 
       pbcore = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
@@ -31,22 +32,36 @@ describe 'Media', not_on_travis: true do
     end
   end
 
-  it 'redirects as expected' do
-    ci = safe_ci
-    ci_id = setup(ci)
+  before do
+    @ci = safe_ci
+    @ci_id = setup(@ci)
+  end
 
-    # Capybara won't let us follow remote redirects:
-    # It tries to look for a route based on the remote path.
-    #
-    # visit '/media/1234'
-    # expect(page).to have_text(TARGET)
+  after do
+    @ci.delete(@ci_id)
+  end
 
-    curl = Curl::Easy.http_get('http://localhost:3000/media/1234')
-    curl.headers['Referer'] = 'http://americanarchive.org/'
+  def response_body_for_http_get(url, opts = {})
+    curl = Curl::Easy.http_get(url)
+    curl.headers['Referer'] = opts[:referer] if opts[:referer]
     curl.follow_location = true
     curl.perform
-    expect(curl.body_str).to eq(TARGET)
+    curl.body_str
+  end
 
-    ci.delete(ci_id)
+  let(:media_url) { 'http://localhost:3000/media/1234' }
+
+  context 'when referer is http://americanarchive.org' do
+    it 'returns the media object from Sony Ci' do
+      response_body = response_body_for_http_get(media_url, referer: 'http://americanarchive.org/')
+      expect(response_body).to eq(file_content)
+    end
+  end
+
+  context 'when referer is http://popuparchive.com' do
+    it 'returns the media object from Sony Ci' do
+      response_body = response_body_for_http_get(media_url, referer: 'http://popuparchive.com/')
+      expect(response_body).to eq(file_content)
+    end
   end
 end

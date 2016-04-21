@@ -329,6 +329,10 @@ describe 'Catalog' do
   end
 
   describe '#show' do
+    before do
+      page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }
+    end
+
     def expect_all_the_text(fixture_name)
       target = PBCore.new(File.read('spec/fixtures/pbcore/' + fixture_name))
       # #text is only used for #to_solr, so it's private...

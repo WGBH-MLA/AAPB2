@@ -3,50 +3,62 @@ require 'ipaddr'
 require_relative '../../lib/geo_i_p_country'
 
 class User
+  POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
+  AAPB_HOST_RE = /^(.+\.)?americanarchive\.org$/
+  WGBH_IP_RANGE = IPAddr.new('198.147.175.0/24')
+  LOC_IP_RANGE = IPAddr.new('140.147.0.0/16')
+
+  attr_reader :request
+
   def initialize(request)
-    @ua = request.user_agent
-    @ip = request.remote_ip
-    @referer = request.referer
-    @session = request.session
+    @request = request
   end
 
-  ONSITE_RANGES = Set[
-    IPAddr.new('198.147.175.0/24'), # WGBH
-    IPAddr.new('140.147.0.0/16') # LoC
-  ] + (Rails.env.production? ? [] : [IPAddr.new('127.0.0.1')])
-
   def onsite?
-    ONSITE_RANGES.map { |range| range.include?(@ip) }.any?
+    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
   end
 
   def usa?
-    GeoIPCountry.instance.country_code(@ip) == 'US' || onsite?
+    ::GeoIPCountry.instance.country_code(request.remote_ip) == 'US' || onsite?
     # WGBH doesn't actually geocode to USA. No idea why.
   end
 
   def bot?
-    /bot|spider/i =~ @ua
+    !(/bot|spider/i =~ request.user_agent).nil?
+  end
+
+  def referer_host
+    URI.parse(request.referer).host
+  rescue URI::InvalidURIError
+    nil
   end
 
   def aapb_referer?
-    [
-      /^(.+\.)?americanarchive\.org$/,
-      POPUP_HOST_RE,
-      /^54\.198\.43\.192$/
-    ].any? do |allowed|
-      URI.parse(@referer).host =~ allowed
+    aapb_referer_regexes.any? do |aapb_referer_regex|
+      referer_host =~ aapb_referer_regex
     end
   end
 
   def embed?
-    URI.parse(@referer).path =~ /embed/
+    URI.parse(request.referer).path =~ /embed/
   end
 
   def affirmed_tos?
-    @session[:affirm_terms] ||
-      (!@referer.nil? && URI.parse(@referer).host =~ POPUP_HOST_RE)
-    # Casey confirms that Popup counts as affirming ToS.
+    # Referer's from popuparchive.com get a pass on TOS
+    request.session[:affirm_terms] || !(referer_host =~ POPUP_HOST_RE).nil?
   end
 
-  POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
+  private
+
+  def aapb_referer_regexes
+    [AAPB_HOST_RE, POPUP_HOST_RE]
+  end
+
+  def onsite_ip_ranges
+    @onsite_ip_ranges ||= begin
+      ranges = [WGBH_IP_RANGE, LOC_IP_RANGE]
+      ranges << IPAddr.new('127.0.0.1') if Rails.env.development?
+      ranges
+    end
+  end
 end
