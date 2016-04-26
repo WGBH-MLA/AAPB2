@@ -2,21 +2,23 @@ require 'rails_helper'
 require 'ostruct'
 
 describe User do
+  # Creat a User instance for testing using a mocked request object.
   let(:user) { User.new(fake_request) }
-  let(:fake_request) { double(user_agent: nil, referer: nil, session: nil, remote_ip: nil) }
+
+  # Normally the remote_ip would be 127.0.0.1 in our test environment, but
+  # since we're mocking the request object, we need to explicitly set it here.
+  let(:fake_request) { double(user_agent: nil, referer: nil, session: nil, remote_ip: '127.0.0.1') }
 
   describe '#onsite?' do
     context "when remote IP is within the WGBH and LOC IP ranges (i.e. 'on-site')" do
-      # Lists of all on-site IPs from WGBH and LOC
-      let(:wgbh_ips) { IPAddr.new('198.147.175.0/24').to_range.minmax.map(&:to_s) }
-      let(:loc_ips) { IPAddr.new('140.147.0.0/16').to_range.minmax.map(&:to_s) }
-
-      let(:test_these_onsite_ips) do
-        wgbh_ips + loc_ips
+      let(:onsite_ips) do
+        # Get onsite IP ranges from private User method, and convert it to a
+        # flattened array of strings.
+        user.send(:onsite_ip_ranges).map(&:to_range).map(&:minmax).flatten.map(&:to_s)
       end
 
       it 'returns true' do
-        test_these_onsite_ips.each do |onsite_ip|
+        onsite_ips.each do |onsite_ip|
           allow(fake_request).to receive(:remote_ip).and_return(onsite_ip)
           expect(user.onsite?).to eq true
         end
@@ -24,15 +26,22 @@ describe User do
     end
 
     context "when remote IP is *not* within the WGBH + LOC IP ranges (i.e. 'off-site')" do
-      let(:test_these_offsite_ips) do
+      let(:offsite_ips) do
         ['198.147.174.0', '198.147.176.0', '140.146.0.0', '140.148.0.0']
       end
 
       it 'returns false' do
-        test_these_offsite_ips.each do |offsite_ip|
+        offsite_ips.each do |offsite_ip|
           allow(fake_request).to receive(:remote_ip).and_return(offsite_ip)
           expect(user.onsite?).to eq false
         end
+      end
+    end
+
+    context 'when Rails environment is NOT development (i.e. when it is testing), and the remote IP is 127.0.0.1' do
+      it 'returns false' do
+        # note default remote_ip of the fake request is 127.0.0.1 (see above)
+        expect(user.onsite?).to eq false
       end
     end
   end
@@ -53,22 +62,41 @@ describe User do
     end
   end
 
-  describe '#aapb_referrer?' do
-    it 'returns true when referrer is the production website' do
-      allow(fake_request).to receive(:referer) { 'http://americanarchive.org' }
-      expect(user.aapb_referer?).to eq true
+  describe '#aapb_referer?' do
+    @aapb_referers = [
+      'http://americanarchive.org',
+      'http://demo.americanarchive.org',
+      'http://popuparchive.com',
+      'http://www.popuparchive.com'
+    ]
+
+    @aapb_referers.each do |aapb_referer|
+      context "when the referer is '#{aapb_referer}'" do
+        # Stub the fake request to return the referer we're trying to test.
+        before { allow(fake_request).to receive(:referer) { aapb_referer } }
+
+        it 'returns true' do
+          expect(user.aapb_referer?).to eq true
+        end
+      end
     end
 
-    it 'returns true when the referrer is the demo site' do
-      # mock the remote IP to be the demo machine's IP
-      allow(fake_request).to receive(:referer).and_return('http://54.198.43.192')
-      expect(user.aapb_referer?).to eq true
-    end
+    @non_aapb_referers = [
+      'http://example.com',
+      'http://123.123.123.123',
+      'this is not even a URI',
+      nil
+    ]
 
-    it 'returns false when the referrer is example.com' do
-      # mock an arbitrary non-AAPB IP
-      allow(fake_request).to receive(:referer).and_return('http://example.com')
-      expect(user.aapb_referer?).to eq false
+    @non_aapb_referers.each do |non_aapb_referer|
+      context "when the referer is '#{non_aapb_referer}'" do
+        # Stub the fake request to return the referer we're trying to test.
+        before { allow(fake_request).to receive(:referer) { non_aapb_referer } }
+
+        it 'returns false' do
+          expect(user.aapb_referer?).to eq false
+        end
+      end
     end
   end
 
