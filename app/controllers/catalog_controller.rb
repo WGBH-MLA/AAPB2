@@ -6,7 +6,7 @@ class CatalogController < ApplicationController
   include Blacklight::Catalog
 
   configure_blacklight do |config|
-    config.view.gallery.partials = [:index_header, :index]
+    # TODO: reenable. config.view.gallery.partials = [:index_header, :index]
 
     ## Default parameters to send to solr for all search-like requests.
     ## See also SolrHelper#solr_search_params
