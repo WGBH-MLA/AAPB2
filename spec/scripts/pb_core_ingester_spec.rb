@@ -15,7 +15,7 @@ describe PBCoreIngester do
 
   it 'whines about non-existent file' do
     @ingester.ingest(path: '/non-existent.xml')
-    expect(@ingester.errors.keys).to eq ['Errno::ENOENT: No such file or directory - /non-existent.xml']
+    expect(@ingester.errors.keys).to eq ['Errno::ENOENT: No such file or directory @ rb_sysopen - /non-existent.xml']
   end
 
   it 'whines about invalid file' do

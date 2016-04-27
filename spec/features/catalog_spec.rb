@@ -266,7 +266,11 @@ describe 'Catalog' do
             expect(
               page.all('#documents/div').map do |doc|
                 doc.all('dl').map do |dl|
-                  "#{dl.find('dt').text}: #{dl.find('dd').text[0..20].strip}" rescue nil
+                  begin
+                    "#{dl.find('dt').text}: #{dl.find('dd').text[0..20].strip}"
+                  rescue
+                    nil
+                  end
                 end.select { |x| x } # TODO: Why are we getting elements which aren't in the source?
                    .join('; ')
               end.join("\n")).to eq([
