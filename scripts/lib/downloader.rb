@@ -58,7 +58,7 @@ class Downloader
                   else
                     url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
                     $LOG.info("Downloading #{url}")
-                    URI.parse(url).read(read_timeout: 240)
+                    URI.parse(url).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
         end
         Zipper.write("#{short_id}.pbcore", content)
       end
