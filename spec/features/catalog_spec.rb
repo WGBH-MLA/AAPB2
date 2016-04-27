@@ -90,24 +90,6 @@ describe 'Catalog' do
         end
       end
 
-      describe 'views' do
-        assertions = [
-          # Better if we actually looked for something in the results?
-          ['&q=smith', '.view-type-list.active'],
-          ['&q=smith&view=list', '.view-type-list.active'],
-          ['&q=smith&view=gallery', '.view-type-gallery.active']
-        ]
-        assertions.each do |(params, css)|
-          url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&#{params}"
-          it "view params=#{params}: #{css}\t#{url}" do
-            visit url
-            expect(page.status_code).to eq(200)
-            expect(page.all(css).count).to eq(1)
-            expect_fuzzy_xml
-          end
-        end
-      end
-
       describe 'facets' do
         assertions = [
           ['media_type', 1, 'Sound', 8],

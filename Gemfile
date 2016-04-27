@@ -54,7 +54,6 @@ gem 'curb' # curl
 gem 'wordpress-client'
 
 gem 'blacklight'
-gem 'blacklight-gallery'
 gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper', '~> 1.7'

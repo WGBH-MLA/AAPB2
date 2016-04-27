@@ -1,13 +1,9 @@
 require_relative '../../lib/aapb'
 
 class CatalogController < ApplicationController
-  helper Openseadragon::OpenseadragonHelper
-
   include Blacklight::Catalog
 
   configure_blacklight do |config|
-    # TODO: reenable. config.view.gallery.partials = [:index_header, :index]
-
     ## Default parameters to send to solr for all search-like requests.
     ## See also SolrHelper#solr_search_params
     config.default_solr_params = {
