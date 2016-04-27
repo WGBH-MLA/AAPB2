@@ -108,18 +108,7 @@ describe 'Validated and plain PBCore' do
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
           'series_titles' => ['Nova'],
-          'text' => [ #
-            'Best episode ever!', 'Call-in', 'Music', #
-            'explosions -- gratuitious', 'musicals -- horror', #
-            'Curly', 'bald', 'Stooges', 'Larry', 'balding', 'Moe', 'hair', #
-            'Copy Left: All rights reversed.', #
-            'Album', 'Date', '2000-01-01', #
-            'Series', 'Nova', 'Program', 'Gratuitous Explosions', #
-            'Episode Number', '3-2-1', 'Episode', 'Kaboom!', #
-            '1234', 'AAPB ID', 'somewhere else', '5678', #
-            'WGBH', 'Boston', 'Massachusetts', #
-            'Moving Image', '1:23:45',
-            "1\n00:00:00,000 --> 00:00:20,000\nRaw bytes 0-255 follow:\n \n !\"\#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
+          'text' => ["1234", "AAPB ID", "somewhere else", "5678", "1:23:45", "Moving Image", "Album", "2000-01-01", "Date", "Series", "Nova", "Program", "Gratuitous Explosions", "Episode Number", "3-2-1", "Episode", "Kaboom!", "Best episode ever!", "Copy Left: All rights reversed.", "Call-in", "Music", "WGBH", "Boston", "Massachusetts", "explosions -- gratuitious", "musicals -- horror", "Larry", "balding", "Stooges", "Curly", "bald", "Moe", "hair", "1\n00:00:00,000 --> 00:00:20,000\nRaw bytes 0-255 follow:\n \n !\"\#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
           'contribs' => %w(Larry Stooges Curly Stooges Moe Stooges),
