@@ -269,10 +269,9 @@ describe 'Catalog' do
                   begin
                     "#{dl.find('dt').text}: #{dl.find('dd').text[0..20].strip}"
                   rescue
-                    nil
+                    nil # TODO: Why are we getting elements which aren't in the source?
                   end
-                end.select { |x| x } # TODO: Why are we getting elements which aren't in the source?
-                   .join('; ')
+                end.select { |x| x }.join('; ')
               end.join("\n")).to eq([
                 ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ'],
                 ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT'],
