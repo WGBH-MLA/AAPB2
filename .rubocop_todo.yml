@@ -109,6 +109,7 @@ Style/MultilineBlockChain:
   Exclude:
     - 'app/models/exhibit.rb'
     - 'app/models/vocab_map.rb'
+    - 'spec/features/catalog_spec.rb'
 
 # Offense count: 12
 # Configuration parameters: EnforcedStyle, SupportedStyles.
