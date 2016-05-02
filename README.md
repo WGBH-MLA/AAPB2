@@ -49,10 +49,15 @@ Wordpress sets a default TTL of 300s, which should be fine for now.
 
 ### Deploying to production
 
-Code and documentation are hosted in the private repository,
-[`aapb_deployment`](https://atlas.wgbh.org/stash/projects/MLA/repos/aapb_deployment/browse).
-To access it, you must have an account in WGBH's Atlassian system. Ask a
-project manager in Digital for more details.
+There are four steps to get the site up from scratch:
+- Request servers and everything else from AWS.
+- Use Ansible for a basic configuration of the servers.
+- Deploy the site with Capistrano.
+- Ingest the PBCore.
+
+On an on-going basis there will be:
+- Capistrano redeploys to the demo server
+- and swaps of the production and demo servers.
 
 ### AMS Ingest
 
