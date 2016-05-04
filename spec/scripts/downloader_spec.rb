@@ -2,7 +2,7 @@ require 'tmpdir'
 require_relative '../../scripts/lib/downloader'
 
 describe Downloader do
-  it 'can download the past 7 days', not_on_travis: true do
+  it 'can download the past 7 days' do
     # I really don't think it's a good idea to make the tests dependent
     # on the activity of the catalogers, though this is a good test otherwise.
     Dir.mktmpdir do |tmpdir|
