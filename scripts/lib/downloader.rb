@@ -58,7 +58,7 @@ class Downloader
                   else
                     url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
                     $LOG.info("Downloading #{url}")
-                    URI.parse(url).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
+                    Downloader.http_get(url)
         end
         Zipper.write("#{short_id}.pbcore", content)
       end
@@ -74,6 +74,10 @@ class Downloader
       downloader.download_to_directory(opts[:page])
     end
     Dir.pwd
+  end
+
+  def self.http_get(url)
+    URI.parse(url).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
   end
 
   def self.mkdir_and_cd(name, is_same_mount)
@@ -107,7 +111,7 @@ class Downloader
       until content
         begin
           $LOG.info("Trying #{url}")
-          content = URI.parse(url).read(read_timeout: 240)
+          content = Downloader.http_get(url)
         rescue Net::ReadTimeout
           $LOG.warn('Timeout. Retrying in 10...')
           sleep 10
