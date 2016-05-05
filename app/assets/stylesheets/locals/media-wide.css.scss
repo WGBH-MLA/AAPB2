@@ -1,0 +1,19 @@
+
+
+/* Wide Desktop ---------- */
+@media (min-width: 1200px) {
+
+	/* INNER */
+	.region {
+		padding:0;
+		width:1170px;
+	}
+
+	/*Logo*/
+	#header-navbar .navbar-brand {
+		height: 61px;
+		margin-top: -29px;
+  	width: 380px;
+	}
+
+}/* END: Wide Desktop ---------- */
