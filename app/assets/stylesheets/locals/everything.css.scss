@@ -1,74 +1,9 @@
-/* Google Fonts: Roboto --------- */
-@import url(http://fonts.googleapis.com/css?family=Roboto:100,400,300,400italic,700,700italic,500,500italic);
-
-
-/*
- * CHEATING
- */
-
- * {
- 	-webkit-border-radius:0!important; 
-  -moz-border-radius:0!important; 
- 	border-radius:0!important;
-
- 	-webkit-box-shadow: none!important;
-  box-shadow: none!important;
- }
-
-
-
-/*
- * HEADER STYLES
- */
-#main-container {
-	padding-bottom:3em;
-}
 
 
 
 
-/* --------- */
-/* NAVIGATION STYLES --------- */
-/* --------- */
 
-.header .navbar {
-	background-color:#FFF;
-	border:none;
-	border-radius: 0;
-}
 
-/*Main Nav*/
- .main-nav {
- 	margin-bottom:0;
- }
-
-/*Secondary Nav*/
-.secondary-navbar {
-	background-color:#ececec;
-	min-height:32px !important;
-}
-
-	#header-navbar .secondary-nav .navbar-nav > li > a {
-		color:#999;
-		font-size:0.875em;
-		font-weight:400;
-		line-height:50px;
-		padding-bottom:0;
-		padding-top:0;
-	}
-
-/*Logo*/
-#header-navbar .navbar-brand {
-	background: transparent url(/site-ui/logo.png) no-repeat 0 0;
-	width: 225px;
-	height: 40px;
-	background-size: 100% auto;
-	margin-left:1em;
-	margin-right: 0;
-	margin-top:7px;
-	padding:0;
-	text-indent:-9999em;
-}
 
 
 
@@ -1159,20 +1094,3 @@ hr {
 
 }/* END: Wide Desktop ---------- */
 
-/* Video Player ---------------- */
-.video-js {
-    margin-left: auto;
-    margin-right: auto;
-}
-/* END: Video Player ----------- */
-
-	.clearfix:after {
-		visibility: hidden;
-		display: block;
-		font-size: 0;
-		content: " ";
-		clear: both;
-		height: 0;
-	}
-* html .clearfix             { zoom: 1; } /* IE6 */
-*:first-child+html .clearfix { zoom: 1; } /* IE7 */
