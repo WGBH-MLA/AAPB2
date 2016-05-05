@@ -903,12 +903,6 @@ hr {
 
 /* Desktop ---------- */
 @media (min-width: 992px) {
-    
-        .sticky {
-            position: fixed;
-            top: 10px; /* Needs to match JS. */
-            z-index: -1000; /* Slides behind footer. */
-        }
 
 	/* INNER */
 	.region {
