@@ -21,7 +21,9 @@
     <digitalOrigin>digitized other analog</digitalOrigin>
   </physicalDescription>
   <genre>Call-in</genre>
-  <genre>Music</genre>
+  <subject>
+    <topic>Music</topic>
+  </subject>
   <originInfo>
     <publisher>Moe</publisher>
     <dateCreated>2000-01-01</dateCreated>

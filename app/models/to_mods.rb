@@ -25,8 +25,13 @@ module ToMods
           x.digitalOrigin('digitized other analog')
         end
 
-        (genres + topics).each do |term|
+        genres.each do |term|
           x.genre(term)
+        end
+        topics.each do |topic|
+          x.subject do
+            x.topic(topic)
+          end
         end
 
         x.originInfo do
