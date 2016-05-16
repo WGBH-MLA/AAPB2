@@ -4,8 +4,18 @@
   <titleInfo usage="primary">
     <title>Nova; Gratuitous Explosions; 3-2-1; Kaboom!</title>
   </titleInfo>
-  <name>Larry<role><roleTerm>balding</roleTerm></role></name>
-  <name>Curly<role><roleTerm>bald</roleTerm></role></name>
+  <name>
+    <namePart>Larry</namePart>
+    <role>
+      <roleTerm>balding</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Curly</namePart>
+    <role>
+      <roleTerm>bald</roleTerm>
+    </role>
+  </name>
   <typeOfResource>moving image</typeOfResource>
   <physicalDescription>
     <digitalOrigin>digitized other analog</digitalOrigin>

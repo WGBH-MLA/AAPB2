@@ -9,7 +9,8 @@ module ToMods
         end
 
         (creators + contributors).each do |person|
-          x.name(person.name) do
+          x.name do
+            x.namePart(person.name)
             x.role do
               x.roleTerm(person.role)
             end
