@@ -20,7 +20,10 @@ module ToMods
           video? ? 'moving image' : 'sound recording'
         )
 
-        x.physicalDescription('digitized other analog')
+        x.physicalDescription do
+          x.digitalOrigin('digitized other analog')
+        end
+
         (genres + topics).each do |term|
           x.genre(term)
         end

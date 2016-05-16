@@ -7,7 +7,9 @@
   <name>Larry<role><roleTerm>balding</roleTerm></role></name>
   <name>Curly<role><roleTerm>bald</roleTerm></role></name>
   <typeOfResource>moving image</typeOfResource>
-  <physicalDescription>digitized other analog</physicalDescription>
+  <physicalDescription>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
   <genre>Call-in</genre>
   <genre>Music</genre>
   <originInfo>
