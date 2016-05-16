@@ -66,6 +66,6 @@ module ToMods
 
         x.accessCondition('Contact host institution for more information.', type: 'use and reproduction')
       end
-    end.to_xml.sub('<?xml version="1.0"?>', '')
+    end.to_xml.sub('<?xml version="1.0"?>', '').strip
   end
 end
