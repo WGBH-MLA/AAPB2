@@ -1,0 +1,46 @@
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="uri">http://americanarchive.org/catalog/1234</identifier>
+  <titleInfo usage="primary">
+    <title>Nova; Gratuitous Explosions; 3-2-1; Kaboom!</title>
+  </titleInfo>
+  <name>
+    <namePart>Larry</namePart>
+    <role>
+      <roleTerm>balding</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Curly</namePart>
+    <role>
+      <roleTerm>bald</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>moving image</typeOfResource>
+  <physicalDescription>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <genre>Call-in</genre>
+  <subject>
+    <topic>Music</topic>
+  </subject>
+  <originInfo>
+    <publisher>Moe</publisher>
+    <dateCreated>2000-01-01</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>1:23:45</extent>
+  </physicalDescription>
+  <abstract>Best episode ever!</abstract>
+  <subject>explosions -- gratuitious</subject>
+  <subject>musicals -- horror</subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>American Archive of Public Broadcasting</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>WGBH</physicalLocation>
+    <url access="object in context" usage="primary">http://www.wgbh.org/</url>
+  </location>
+  <accessCondition type="use and reproduction">Contact host institution for more information.</accessCondition>
+</mods>

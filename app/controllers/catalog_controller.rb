@@ -180,6 +180,9 @@ class CatalogController < ApplicationController
       format.pbcore do
         render text: xml
       end
+      format.mods do
+        render text: PBCore.new(xml).to_mods
+      end
     end
   end
 
