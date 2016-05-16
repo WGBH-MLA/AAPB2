@@ -27,6 +27,7 @@
   </relatedItem>
   <location>
     <physicalLocation>WGBH</physicalLocation>
+    <url access="object in context" usage="primary">http://www.wgbh.org/</url>
   </location>
   <accessCondition type="use and reproduction">Contact host institution for more information.</accessCondition>
 </mods>
