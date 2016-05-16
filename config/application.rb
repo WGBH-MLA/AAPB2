@@ -25,5 +25,7 @@ module Xyz
     config.middleware.use('RedirectMiddleware')
 
     config.exceptions_app = routes
+
+    config.cache_store = :memory_store
   end
 end
