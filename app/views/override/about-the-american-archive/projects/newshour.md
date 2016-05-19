@@ -2,7 +2,7 @@
 
 ![banner](/page-banners/banner4.jpg)
 
-<img src="https://s3.amazonaws.com/americanarchive.org/org-logos/newshour_project_logos.png" class="pull-left col-sm-4"></img>The PBS NewsHour Digitization Project, funded by the Council on Library and Information Resources (CLIR), is an unprecedented 
+The PBS NewsHour Digitization Project, funded by the Council on Library and Information Resources (CLIR), is an unprecedented 
 effort in collaboration between WGBH, the Library of Congress, Washington Educational Television Association (WETA), and NewsHour 
 Productions, LLC. This project will digitize, preserve, and allow public access to 32 years of *PBS NewsHour*’s predecessor programs, 
 including *The Robert MacNeil Report*, *The MacNeil/Lehrer Report*, *The MacNeil/Lehrer NewsHour*, and *The NewsHour with Jim Lehrer*. 

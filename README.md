@@ -152,9 +152,9 @@ the item URL to get [PBCore XML](http://pbcore.org/):
 - PBCore: [`/catalog/cpb-aacip_305-7312jttj.pbcore`](http://americanarchive.org/catalog/cpb-aacip_305-7312jttj.pbcore)
 
 If you want all of our records, the best approach is OAI-PMH. We don't support
-all the verbs, or any formats beyond PBCore, but this is enough to get the records:
+all the verbs, or any formats beyond MODS, but this is enough to get the records:
 
-- OAI-PMH (returning PBCore): [`/oai.xml?verb=ListRecords`](http://americanarchive.org/oai.xml?verb=ListRecords)
+- OAI-PMH: [`/oai.xml?verb=ListRecords`](http://americanarchive.org/oai.xml?verb=ListRecords)
 
 If you are interested in summary statistics across the collection,
 an advanced API provides limited access to the underlying Solr index. XML, JSON, and JSONP

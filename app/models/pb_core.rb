@@ -13,6 +13,7 @@ require_relative '../../lib/formatter'
 class PBCore # rubocop:disable Metrics/ClassLength
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
+  include ToMods
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end

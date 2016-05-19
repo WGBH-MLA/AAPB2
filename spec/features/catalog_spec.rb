@@ -314,6 +314,15 @@ describe 'Catalog' do
     end
   end
 
+  describe '.mods' do
+    it 'works' do
+      visit '/catalog/1234.mods'
+      expect(page.status_code).to eq(200)
+      expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.mods'))
+      expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
+    end
+  end
+
   describe '#show' do
     before do
       page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }

@@ -1,0 +1,44 @@
+/* ---------- */
+/* PAGE BANNERS ---------- */
+/* ---------- */
+
+.page-banner {
+	height:auto;
+	margin:0 0 1em;
+	width:100%;
+}
+
+	.view-all-gallery {
+		background: #454ea1 url(/site-ui/aapb-site-sprite.png) no-repeat -240px -675px;
+		text-align:center;
+	}
+
+	.view-all-gallery h3 {
+                color:#FFF;
+                padding: 0;
+	}
+
+
+	/* Featured Exhibit BUtton */
+	.btn-featured-record:link,
+	.btn-featured-record:visited,
+	.btn-featured-record:active {
+            background: url(/site-ui/aapb-site-sprite.png) no-repeat -240px -675px;
+            background-color: #2b2a72;
+            color: #FFFFFF;
+            display: block;
+            line-height: 1.6em;
+            padding: 1em;
+        }
+
+        .btn-featured-record:hover {
+            background-color: #454ea0;
+        }
+
+        .btn-featured-record .glyphicon {
+          float:left;
+          font-size:1.4em;
+          margin-right:.4em;
+          text-shadow: 0 1px 1px #000;
+        }
+
