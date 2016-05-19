@@ -62,6 +62,9 @@ module ToMods
           if outside_url
             x.url(outside_url, access: 'object in context', usage: 'primary')
           end
+          if img_src !~ /^\//
+            x.url(img_src, access: 'preview')
+          end
         end
 
         x.accessCondition('Contact host institution for more information.', type: 'use and reproduction')

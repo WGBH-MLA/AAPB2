@@ -105,8 +105,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @img_src ||=
       case [media_type, digitized?]
       when [MOVING_IMAGE, true]
-        # TODO: https://github.com/WGBH/AAPB2/issues/870
-        # Mississipie IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
+        # TODO: Move ID cleaning into Cleaner: https://github.com/WGBH/AAPB2/issues/870
+        # Mississippi IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
         "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
       when [MOVING_IMAGE, false]
         '/thumbs/video-not-digitized.jpg'
@@ -119,6 +119,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
       when [OTHER, false]
         '/thumbs/other.jpg'
       end
+      # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
+      # If these got moved to S3, that would need to change.
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
