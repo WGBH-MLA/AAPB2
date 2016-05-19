@@ -1,8 +1,19 @@
 <mods xmlns="http://www.loc.gov/mods/v3">
   <identifier type="uri">http://americanarchive.org/catalog/1234</identifier>
   <titleInfo usage="primary">
-    <title>Nova; Gratuitous Explosions; 3-2-1; Kaboom!</title>
+    <title>Kaboom!</title>
   </titleInfo>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Nova</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="program">
+    <titleInfo>
+      <title>Gratuitous Explosions</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Episode Number: 3-2-1</note>
   <name>
     <namePart>Larry</namePart>
     <role>
