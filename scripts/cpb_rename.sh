@@ -1,4 +1,5 @@
 #!/bin/sh
+# batch rename script for AAPB files
 
 echo "drag and drop the spreadsheet containing CPB GUIDs"
 read ref
