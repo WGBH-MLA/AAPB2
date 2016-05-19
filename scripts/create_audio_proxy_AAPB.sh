@@ -1,4 +1,5 @@
 #!/bin/bash
+# script to create audio file proxies to AAPB specs
 # run with two args:  first is input directory path and second is output directory path
 function usage()
 {
