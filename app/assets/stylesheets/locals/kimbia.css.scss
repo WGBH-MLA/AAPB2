@@ -1,0 +1,21 @@
+.blacklight-override .k_jquery-ui {
+    .ui-widget {
+        font-family: "Roboto",Verdana,Tahoma,"DejaVu Sans",sans-serif;
+        border: none;
+        label {
+            font-weight: 400;
+        }
+        .ui-tabs-nav {
+            li {
+                a::before { font-size: 130% }
+                a::before { content: '\2610 ' } // Empty checkbox
+                &.ui-state-active a::before { content: '\2611 ' } // Checked checkbox
+                border: 1px solid #CCC; /* To match input boxes */
+            }
+        }
+        .ui-tabs-panel {
+            padding-top: 0;
+            border: 1px solid #CCC;
+        }
+    }
+}
