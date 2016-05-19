@@ -119,8 +119,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
       when [OTHER, false]
         '/thumbs/other.jpg'
       end
-      # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
-      # If these got moved to S3, that would need to change.
+    # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
+    # If these got moved to S3, that would need to change.
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')

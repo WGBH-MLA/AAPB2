@@ -59,12 +59,8 @@ module ToMods
 
         x.location do
           x.physicalLocation(organization.short_name)
-          if outside_url
-            x.url(outside_url, access: 'object in context', usage: 'primary')
-          end
-          if img_src !~ /^\//
-            x.url(img_src, access: 'preview')
-          end
+          x.url(outside_url, access: 'object in context', usage: 'primary') if outside_url
+          x.url(img_src, access: 'preview') if img_src !~ %r{^/}
         end
 
         x.accessCondition('Contact host institution for more information.', type: 'use and reproduction')
