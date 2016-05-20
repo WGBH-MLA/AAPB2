@@ -60,6 +60,8 @@ gem 'jettywrapper', '~> 1.7'
 
 gem 'blacklight_range_limit'
 
+gem 'actionpack-page_caching'
+
 gem 'sys-filesystem' # just for checking mount points at ingest
 
 gem 'sony-ci-api'

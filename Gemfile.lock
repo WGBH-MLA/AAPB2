@@ -10,6 +10,8 @@ GEM
       activesupport (= 4.1.2)
       rack (~> 1.5.2)
       rack-test (~> 0.6.2)
+    actionpack-page_caching (1.0.2)
+      actionpack (>= 4.0.0, < 5)
     actionview (4.1.2)
       activesupport (= 4.1.2)
       builder (~> 3.1)
@@ -260,6 +262,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actionpack-page_caching
   blacklight
   blacklight_range_limit
   cancan
