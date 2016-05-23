@@ -12,7 +12,10 @@ class Transcripter
             'data-timecodebegin' => Transcripter.as_timestamp(line.start_time),
             'data-timecodeend' => Transcripter.as_timestamp(line.end_time)
           ) do
-            x.span(' ', class: 'play-from-here', 'data-timecodebegin' => line.start_time)
+            x.span(' ',
+                   class: 'play-from-here',
+                  # 'data-timecodebegin' => Transcripter.as_timestamp(line.start_time)
+                  )
             # Text content is just to prevent element collapse and keep valid HTML.
             x.text(line.text.join("\n"))
           end

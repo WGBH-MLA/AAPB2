@@ -10,7 +10,8 @@
 <%= 
   @pbcore.media_srcs.map do |media_src|
     media = @pbcore.video? ? 'video' : 'audio'
-    content_tag(media, 'class' => 'video-js vjs-default-skin', 
+    content_tag(media, 'class' => 'video-js vjs-default-skin',
+                id: 'player-media',
                 controls: true,
                 oncontextmenu: 'return false;', 
                 preload: 'none', width: AAPB::PLAYER_WIDTH, height: AAPB::PLAYER_HEIGHT,
@@ -35,7 +36,8 @@
 
 <%= 
   tag('iframe', 
-    src: "/transcripts/#{@pbcore.id}", 
+    src: "/transcripts/#{@pbcore.id}",
+    id: 'transcript',
     width: AAPB::PLAYER_WIDTH,
     height: AAPB::PLAYER_HEIGHT.to_i / 2,
     frameBorder: 0
