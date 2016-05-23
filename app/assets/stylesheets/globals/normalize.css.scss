@@ -516,7 +516,7 @@ figure {
 
 /* Correct margin displayed oddly in IE 6/7. */
 form {
-  margin: 0;
+  margin: 0 -15px; // Outdent to fill column.
 }
 
 /* Define consistent border, margin, and padding. */
