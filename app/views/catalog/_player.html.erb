@@ -32,3 +32,11 @@
     end
   end.join().html_safe()
 %>
+
+<%= 
+  tag('iframe', 
+    src: "/transcripts/#{@pbcore.id}", 
+    style: "width: #{AAPB::PLAYER_WIDTH}px; ",
+    height: AAPB::PLAYER_HEIGHT.to_i / 2
+  ) if params[:transcript]
+%>
