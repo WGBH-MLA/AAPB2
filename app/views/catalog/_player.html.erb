@@ -1,34 +1,19 @@
-<%# TODO: Move this up when we know it works. %>
-<link href="/video-js/video-js.css" rel="stylesheet" type="text/css">
-<!-- video.js must be in the <head> for older IEs to work. -->
-<script src="/video-js/video.js"></script>
-
-<script>
-  videojs.options.flash.swf = "/video-js/video-js.swf";
-</script>
-
 <%= 
   @pbcore.media_srcs.map do |media_src|
     media = @pbcore.video? ? 'video' : 'audio'
-    content_tag(media, 'class' => 'video-js vjs-default-skin',
+    content_tag(media,
                 id: 'player-media',
                 controls: true,
                 oncontextmenu: 'return false;', 
                 preload: 'none', width: AAPB::PLAYER_WIDTH, height: AAPB::PLAYER_HEIGHT,
-                poster: @pbcore.img_src, 'data-setup' => '{}') do %>
+                poster: @pbcore.img_src) do %>
 
       <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
       <% if @pbcore.captions_src %>    
         <track kind="captions" src="<%= @pbcore.captions_src %>" srclang="en" label="English" default></track>
       <% end %>
-
-      <p class="vjs-no-js">
-        To play this <%= media %> please enable JavaScript, and consider upgrading to a web browser that 
-        <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 <%= media %></a>.
-      </p>
-
-
+        
       <%
     end
   end.join().html_safe()
