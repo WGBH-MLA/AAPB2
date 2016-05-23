@@ -36,7 +36,8 @@
 <%= 
   tag('iframe', 
     src: "/transcripts/#{@pbcore.id}", 
-    style: "width: #{AAPB::PLAYER_WIDTH}px; ",
-    height: AAPB::PLAYER_HEIGHT.to_i / 2
+    width: AAPB::PLAYER_WIDTH,
+    height: AAPB::PLAYER_HEIGHT.to_i / 2,
+    frameBorder: 0
   ) if params[:transcript]
 %>
