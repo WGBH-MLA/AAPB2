@@ -11,9 +11,9 @@ class TranscriptsController < ApplicationController
         @transcript_html = Transcripter.from_srt(curl.body_str)
         render
       end
-      format.srt do # TODO: make the live code reference this, instead of going through PBCore?
-        render text: curl.body_str
-      end
+#      format.srt do # TODO: make the live code reference this, instead of going through PBCore?
+#        render text: curl.body_str
+#      end
     end
   end
 end
