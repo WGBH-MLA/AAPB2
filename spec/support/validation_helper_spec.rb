@@ -91,11 +91,9 @@ describe ValidationHelper do
       # "-" in attribute name was tripping us up.
       def page
         Fake.new(<<END
-          <video class="video-js vjs-default-skin" controls preload="none" width="400" height="300"
-              poster="/poster.jpg"
-              data-setup="{}">
+          <video controls preload="none" width="400" height="300"
+              poster="/poster.jpg">
             <source src="/media.mp4" type='video/mp4' />
-            <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
           </video>
 END
                 )
