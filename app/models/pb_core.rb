@@ -210,7 +210,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
 
   # rubocop:enable Style/EmptyLineBetweenDefs
-  
+
   def self.srt_url(id)
     # Class method because it doesn't depend on object state,
     # and we want to get at it without a full instantiation.
@@ -228,7 +228,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
     doc_with_caption_flag = @doc.deep_clone
     # perhaps paranoid, but I don't want this method to have side effects.
 
-    
     caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
     if caption_response.code == '200'
       pre_existing = REXML::XPath.match(doc_with_caption_flag, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first

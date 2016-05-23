@@ -25,7 +25,7 @@ Rails.application.routes.draw do
 
   resources 'captions',
             only: [:show]
-          
+
   resources 'transcripts',
             only: [:show]
 

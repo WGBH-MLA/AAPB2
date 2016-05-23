@@ -16,5 +16,4 @@ class TranscriptsController < ApplicationController
       end
     end
   end
-  
 end
