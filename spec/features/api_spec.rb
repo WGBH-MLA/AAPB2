@@ -8,6 +8,12 @@ describe 'API' do
   end
 
   describe 'good queries' do
+    it 'retrieves single pbcore docs' do
+      visit '/api/1234.xml'
+      expect(page.status_code).to eq 200
+      expect(page.body).to match('<pbcoreDescriptionDocument')
+    end
+
     it 'retrieves individual documents / default callback' do
       visit '/api.js?rows=1&q=id:1234&fl=id,title'
       expect(page.status_code).to eq 200
@@ -16,7 +22,7 @@ describe 'API' do
       expect(page).to have_text('Gratuitous Explosions')
     end
 
-    xit 'supports facets for statistics / explicit callback' do
+    it 'supports facets for statistics / explicit callback' do
       visit '/api.js?callback=my_callback&facet=true&facet.field=year&' \
             'facet.query[]=year:1988+AND+iowa'
       expect(page.status_code).to eq 200
@@ -27,7 +33,7 @@ describe 'API' do
       expect(page).to have_text('"1981", 1, "1988", 1, "1990", 1, "2000", 1')
     end
 
-    xit 'searches documents / json, not jsonp' do
+    it 'searches documents / json, not jsonp' do
       visit '/api.json?rows=10&q=iowa'
       expect(page.status_code).to eq 200
       expect(page.source).to match(/^\{/s)
@@ -38,7 +44,7 @@ describe 'API' do
       # even in non-xml documents.
     end
 
-    xit 'supports xml, too' do
+    it 'supports xml, too' do
       visit '/api.xml?rows=10&q=iowa'
       expect(page.status_code).to eq 200
       expect(page.source).to match('<numFound type="integer">3</numFound>')

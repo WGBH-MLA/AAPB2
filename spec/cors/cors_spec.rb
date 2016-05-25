@@ -21,8 +21,8 @@ describe 'CORS' do
       get_http = Curl.get('http://localhost:3000' + path) { |c| c.headers['Origin'] = '*' }
       expect(get_http.header_str).to match('Access-Control-Allow-Origin: *')
     end
-    it 'supports CORS on .pbcore' do
-      expect_cors('/catalog/1234.pbcore')
+    it 'supports CORS for single records' do
+      expect_cors('/api/1234.xml')
     end
     %w(js xml).each do |format|
       it "supports CORS on .#{format}" do

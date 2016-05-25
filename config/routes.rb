@@ -26,11 +26,12 @@ Rails.application.routes.draw do
   resources 'captions',
             only: [:show]
 
-  resources 'api',
-            only: [:index]
-
   resources 'oai',
             only: [:index]
+
+  match 'api', to: 'api#index', via: [:get, :options]
+  match 'api/:id', to: 'api#show', via: [:get, :options]
+  # 'via' only makes a difference when server is in production or test modes.
 
   %w(404 500).each do |status_code|
     get status_code, to: 'errors#show', status_code: status_code

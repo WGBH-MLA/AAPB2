@@ -31,4 +31,15 @@ class ApiController < ApplicationController
       end
     end
   end
+
+  def show
+    @solr = Solr.instance.connect
+    data = @solr.get('select', params: { q: "id:#{params[:id]}", fl: 'xml' })
+    xml = data['response']['docs'][0]['xml']
+    respond_to do |format|
+      format.xml do
+        render text: xml
+      end
+    end
+  end
 end

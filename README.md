@@ -145,20 +145,20 @@ in how data is pulled from PBCore for display, it does not require a re-index.
 # API
 
 Data from the AAPB is available via an API. At this moment the API is experimental:
-No key is required, but we also do not guarantee continued availability. If you just
-need one or a small number of records in machine-readable form, append `.pbcore` to 
-the item URL to get [PBCore XML](http://pbcore.org/):
-
-- PBCore: [`/catalog/cpb-aacip_305-7312jttj.pbcore`](http://americanarchive.org/catalog/cpb-aacip_305-7312jttj.pbcore)
-
+No key is required, but we also do not guarantee continued availability. 
 If you want all of our records, the best approach is OAI-PMH. We don't support
 all the verbs, or any formats beyond MODS, but this is enough to get the records:
 
 - OAI-PMH: [`/oai.xml?verb=ListRecords`](http://americanarchive.org/oai.xml?verb=ListRecords)
 
+If you just need one or a small number of records in machine-readable form, 
+use the single-item API to get [PBCore XML](http://pbcore.org/):
+
+- XML: [`/api/cpb-aacip_305-7312jttj.xml`](http://americanarchive.org/api/cpb-aacip_305-7312jttj.xml)
+
 If you are interested in summary statistics across the collection,
 an advanced API provides limited access to the underlying Solr index. XML, JSON, and JSONP
-are available.
+are available. All have CORS turned on for consumption by 3rd party sites.
 
 - XML: [`/api.xml?q=asimov&fl=id,title,xml&rows=3`](http://americanarchive.org/api.xml?q=asimov&fl=id,title,xml&rows=3)
 - JSON: [`/api.json?q=asimov&fl=id,title&rows=3`](http://americanarchive.org/api.json?q=asimov&fl=id,title&rows=3)

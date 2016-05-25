@@ -26,11 +26,11 @@ module Xyz
     config.middleware.insert_before(0, 'Rack::Cors') do
       allow do
         origins '*'
-        resource '/catalog/*.pbcore', headers: :any, methods: [:get, :options]
+        resource '/api.*', headers: :any, methods: [:get, :options]
       end
       allow do
         origins '*'
-        resource '/api.*', headers: :any, methods: [:get, :options]
+        resource '/api/*', headers: :any, methods: [:get, :options]
       end
     end
 
