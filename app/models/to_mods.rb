@@ -5,7 +5,18 @@ module ToMods
         x.identifier('http://americanarchive.org/catalog/' + id, type: 'uri')
 
         x.titleInfo(usage: 'primary') do
-          x.title(title)
+          x.title(titles.last.last)
+        end
+        titles[0..-2].each do |type, title|
+          if ['Label', 'Episode Number', 'Raw Footage', 'Title'].include?(type)
+            x.note("#{type}: #{title}")
+          else
+            x.relatedItem(type: type.downcase) do
+              x.titleInfo do
+                x.title(title)
+              end
+            end
+          end
         end
 
         (creators + contributors).each do |person|
@@ -59,9 +70,8 @@ module ToMods
 
         x.location do
           x.physicalLocation(organization.short_name)
-          if outside_url
-            x.url(outside_url, access: 'object in context', usage: 'primary')
-          end
+          x.url(outside_url, access: 'object in context', usage: 'primary') if outside_url
+          x.url(img_src, access: 'preview') if img_src !~ %r{^/}
         end
 
         x.accessCondition('Contact host institution for more information.', type: 'use and reproduction')
