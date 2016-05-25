@@ -158,7 +158,7 @@ all the verbs, or any formats beyond MODS, but this is enough to get the records
 
 If you are interested in summary statistics across the collection,
 an advanced API provides limited access to the underlying Solr index. XML, JSON, and JSONP
-are available. (CORS has not yet been enabled for XML and JSON).
+are available.
 
 - XML: [`/api.xml?q=asimov&fl=id,title,xml&rows=3`](http://americanarchive.org/api.xml?q=asimov&fl=id,title,xml&rows=3)
 - JSON: [`/api.json?q=asimov&fl=id,title&rows=3`](http://americanarchive.org/api.json?q=asimov&fl=id,title&rows=3)

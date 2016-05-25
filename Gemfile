@@ -68,6 +68,7 @@ gem 'rubyzip'
 
 gem 'cancan'
 gem 'geoip'
+gem 'rack-cors', :require => 'rack/cors'
 
 gem 'libv8', '~> 3.16.14.13' # Chuck had problems with older version.
 

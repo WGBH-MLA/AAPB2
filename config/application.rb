@@ -23,6 +23,16 @@ module Xyz
     config.autoload_paths << Rails.root.join('lib')
     config.autoload_paths << Rails.root.join('lib', 'middleware')
     config.middleware.use('RedirectMiddleware')
+    config.middleware.insert_before(0, 'Rack::Cors') do
+      allow do
+        origins '*'
+        resource '/catalog/*.pbcore', headers: :any, methods: [:get, :options]
+      end
+      allow do
+        origins '*'
+        resource '/api.*', headers: :any, methods: [:get, :options]
+      end
+    end
 
     config.exceptions_app = routes
 
