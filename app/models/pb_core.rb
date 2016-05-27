@@ -213,6 +213,14 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
   # rubocop:enable Style/EmptyLineBetweenDefs
 
+  def self.srt_url(id)
+    # Class method because it doesn't depend on object state,
+    # and we want to get at it without a full instantiation.
+    caption_id = id.tr('_', '-')
+    caption_base = 'https://s3.amazonaws.com/americanarchive.org/captions'
+    "#{caption_base}/#{caption_id}/#{caption_id}.srt1.srt"
+  end
+
   def to_solr
     # Only just before indexing do we check for the existence of captions:
     # We don't want to ping S3 multiple times, and we don't want to store all
@@ -222,10 +230,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     doc_with_caption_flag = @doc.deep_clone
     # perhaps paranoid, but I don't want this method to have side effects.
 
-    caption_id = id.tr('_', '-')
-    caption_base = 'https://s3.amazonaws.com/americanarchive.org/captions'
-    caption_url = "#{caption_base}/#{caption_id}/#{caption_id}.srt1.srt"
-    caption_response = Net::HTTP.get_response(URI.parse(caption_url))
+    caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
     if caption_response.code == '200'
       pre_existing = REXML::XPath.match(doc_with_caption_flag, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
@@ -236,7 +241,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|
           el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-          el.add_text(caption_url)
+          el.add_text(PBCore.srt_url(id))
         end
     end
 
