@@ -11,6 +11,7 @@ describe Exhibit do
     assertions = {
       title: 'Grandchild!',
       title_html: 'Grandchild!',
+      toc_html: '',
       path: 'parent/child/grandchild',
       ancestors: [
         MockExhibit.find_by_path('parent'),
@@ -56,7 +57,7 @@ describe Exhibit do
 
     describe 'error handling' do
       it 'raises an error for bad paths' do
-        expect { MockExhibit.find_by_path('no/such/path') }.to raise_error(IndexError)
+        expect { MockExhibit.find_by_path('no/such/path') }.to raise_error(Cmless::Error)
       end
     end
   end
