@@ -3,48 +3,44 @@ require_relative '../../lib/aapb'
 require_relative 'state'
 require 'yaml'
 
-class Organization
-  attr_reader :pbcore_name
-  attr_reader :id
-  attr_reader :short_name
-  attr_reader :facet
-  attr_reader :state
-  attr_reader :state_abbreviation
-  attr_reader :city
-  attr_reader :url
+class Organization < Cmless
+  ROOT = (Rails.root + 'app/views/organizations/md').to_s
+  
+  attr_reader :short_name_html
+  attr_reader :state_html
+  attr_reader :city_html
+  attr_reader :url_html
   attr_reader :history_html
   attr_reader :productions_html
-  attr_reader :logo_src
-  attr_reader :summary_html
+  attr_reader :logo_html
 
-  private
-
-  def pop(hash, key)
-    hash.delete(key) || raise("#{key} required")
+  def id
+    @id ||= path
+  end
+  
+  def pbcore_name
+    @pbcore_name ||= title
+  end
+  
+  def summary
+    @summary ||= history_html.sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1')
+  end
+  
+  def logo_src
+    "#{AAPB::S3_BASE}/org-logos/#{logo_html}" if logo_html
   end
 
-  def initialize(hash)
-    @pbcore_name = pop(hash, 'pbcore_name')
-    @id = pop(hash, 'id').to_s
-    @short_name = pop(hash, 'short_name')
-    @state = pop(hash, 'state')
-    @state_abbreviation = State.find_by_name(@state).abbreviation
-    @city = pop(hash, 'city')
-    @url = pop(hash, 'url')
-    @facet = "#{@short_name} (#{@state_abbreviation})"
-    @history_html = Markdowner.render(hash['history_md'])
-    @summary_html = Markdowner.render((hash.delete('history_md') || '').sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1'))
-    @productions_html = Markdowner.render(hash.delete('productions_md'))
-    @logo_src = "#{AAPB::S3_BASE}/org-logos/#{hash.delete('logo_filename')}" if hash['logo_filename']
-    raise("unexpected #{hash}") unless hash == {}
+  def facet
+    @facet ||= "#{short_name_html} (#{state_abbreviation_html})"
   end
-
-  orgs = YAML.load_file(Rails.root + 'config/organizations.yml').map { |hash| Organization.new(hash) }
-  @orgs_by_pbcore_name = Hash[orgs.map { |org| [org.pbcore_name, org] }]
-  @orgs_by_id          = Hash[orgs.map { |org| [org.id, org] }]
-  @orgs_by_state       = Hash[orgs.group_by(&:state)]
-
-  public
+  
+  def state_abbreviation
+    @state_abbreviation = State.find_by_name(state_html).abbreviation
+  end
+  
+  @orgs_by_pbcore_name = Hash[Organization.map { |org| [org.pbcore_name, org] }]
+  @orgs_by_id          = Hash[Organization.map { |org| [org.id, org] }]
+  @orgs_by_state       = Hash[Organization.group_by(&:state_html)]
 
   def self.find_by_pbcore_name(pbcore_name)
     @orgs_by_pbcore_name[pbcore_name]
@@ -56,10 +52,6 @@ class Organization
 
   def self.find_by_state(state)
     @orgs_by_state[state]
-  end
-
-  def self.all
-    @orgs_by_id.values.sort_by(&:state)
   end
 
   def to_a
