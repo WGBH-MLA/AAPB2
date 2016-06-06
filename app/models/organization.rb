@@ -31,16 +31,28 @@ class Organization < Cmless
   end
 
   def facet
-    @facet ||= "#{short_name_html} (#{state_abbreviation_html})"
+    @facet ||= "#{short_name_html} (#{state_abbreviation})"
   end
   
   def state_abbreviation
-    @state_abbreviation = State.find_by_name(state_html).abbreviation
+    @state_abbreviation = State.find_by_name(state).abbreviation
+  end
+  
+  def state
+    @state ||= state_html.gsub(/<[^>]+>/, '')
+  end
+  
+  def city
+    @city ||= city_html.gsub(/<[^>]+>/, '')
+  end
+  
+  def short_name
+    @short_name ||= short_name_html.gsub(/<[^>]+>/, '')
   end
   
   @orgs_by_pbcore_name = Hash[Organization.map { |org| [org.pbcore_name, org] }]
   @orgs_by_id          = Hash[Organization.map { |org| [org.id, org] }]
-  @orgs_by_state       = Hash[Organization.group_by(&:state_html)]
+  @orgs_by_state       = Hash[Organization.group_by(&:state)]
 
   def self.find_by_pbcore_name(pbcore_name)
     @orgs_by_pbcore_name[pbcore_name]
