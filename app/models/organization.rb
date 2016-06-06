@@ -5,7 +5,7 @@ require 'yaml'
 
 class Organization < Cmless
   ROOT = (Rails.root + 'app/views/organizations/md').to_s
-  
+
   attr_reader :short_name_html
   attr_reader :state_html
   attr_reader :city_html
@@ -17,39 +17,43 @@ class Organization < Cmless
   def id
     @id ||= path
   end
-  
+
   def pbcore_name
     @pbcore_name ||= title
   end
-  
+
   def summary
     @summary ||= history_html.sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1')
   end
-  
+
   def logo_src
     "#{AAPB::S3_BASE}/org-logos/#{logo_html}" if logo_html
   end
 
   def facet
-    @facet ||= "#{short_name_html} (#{state_abbreviation})"
+    @facet ||= "#{short_name} (#{state_abbreviation})"
   end
-  
+
   def state_abbreviation
     @state_abbreviation = State.find_by_name(state).abbreviation
   end
-  
+
   def state
     @state ||= state_html.gsub(/<[^>]+>/, '')
   end
-  
+
   def city
     @city ||= city_html.gsub(/<[^>]+>/, '')
   end
-  
+
   def short_name
     @short_name ||= short_name_html.gsub(/<[^>]+>/, '')
   end
-  
+
+  def url
+    @url ||= url_html.gsub(/<[^>]+>/, '')
+  end
+
   @orgs_by_pbcore_name = Hash[Organization.map { |org| [org.pbcore_name, org] }]
   @orgs_by_id          = Hash[Organization.map { |org| [org.id, org] }]
   @orgs_by_state       = Hash[Organization.group_by(&:state)]
