@@ -73,6 +73,8 @@ gem 'cancan'
 gem 'geoip'
 gem 'rack-cors', :require => 'rack/cors'
 
+gem 'aws-sdk', '~> 2', :group => :development # Unless we want the AWS credentials on Travis for tests...
+
 gem 'libv8', '~> 3.16.14.13' # Chuck had problems with older version.
 
 gem 'rspec', :group => :test
