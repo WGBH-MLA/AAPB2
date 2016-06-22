@@ -32,7 +32,8 @@ class Organization < Cmless
   end
 
   def logo_src
-    "#{AAPB::S3_BASE}/org-logos/#{Organization.clean(logo_html)}" if logo_html
+    clean = Organization.clean(logo_html)
+    clean.empty? ? '' : "#{AAPB::S3_BASE}/org-logos/#{Organization.clean(logo_html)}"
   end
 
   def facet

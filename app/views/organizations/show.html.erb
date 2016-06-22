@@ -15,8 +15,8 @@
                locals: { 
                   title: 'About',
                   links:
-                    (@org.history_html ? [['History', '#history']] : []) +
-                    (@org.productions_html ? [['Productions', '#productions']] : [])
+                    (@org.history_html.empty? ? [] : [['History', '#history']]) +
+                    (@org.productions_html.empty? ? [] : [['Productions', '#productions']])
                } %>
   </div>
   <!-- END Column -->
@@ -32,7 +32,7 @@
 
         <p><%= @org.city %>, <%= @org.state %></p>
         
-        <% if @org.logo_src %>
+        <% unless @org.logo_src.empty? %>
           <img src="<%= @org.logo_src %>" alt="<%= @org.short_name %> logo" class="org-logo"/>
         <% end %>
 
@@ -45,7 +45,7 @@
     </div>
     <!-- END Org-o-tron -->
 
-    <% if @org.history_html %>
+    <% unless @org.history_html.empty? %>
       <a name="history"></a>
       <div class="panel panel-default">
         <div class="panel-heading">
@@ -57,7 +57,7 @@
       </div>
     <% end %>
 
-    <% if @org.productions_html %>
+    <% unless @org.productions_html.empty? %>
       <a name="productions"></a>
       <div class="panel panel-default">
         <div class="panel-heading">
