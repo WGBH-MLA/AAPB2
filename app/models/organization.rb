@@ -2,6 +2,7 @@ require_relative '../../lib/markdowner'
 require_relative '../../lib/aapb'
 require_relative 'state'
 require 'yaml'
+require 'cgi'
 
 class Organization < Cmless
   ROOT = (Rails.root + 'app/views/organizations/md').to_s
@@ -13,6 +14,10 @@ class Organization < Cmless
   attr_reader :history_html
   attr_reader :productions_html
   attr_reader :logo_html
+
+  def self.clean(html)
+    CGI.unescape(html.gsub(/<[^>]+>/, ''))
+  end
 
   def id
     @id ||= path
@@ -27,7 +32,7 @@ class Organization < Cmless
   end
 
   def logo_src
-    "#{AAPB::S3_BASE}/org-logos/#{logo_html}" if logo_html
+    "#{AAPB::S3_BASE}/org-logos/#{Organization.clean(logo_html)}" if logo_html
   end
 
   def facet
@@ -39,19 +44,19 @@ class Organization < Cmless
   end
 
   def state
-    @state ||= state_html.gsub(/<[^>]+>/, '')
+    @state ||= Organization.clean(state_html)
   end
 
   def city
-    @city ||= city_html.gsub(/<[^>]+>/, '')
+    @city ||= Organization.clean(city_html)
   end
 
   def short_name
-    @short_name ||= short_name_html.gsub(/<[^>]+>/, '')
+    @short_name ||= Organization.clean(short_name_html)
   end
 
   def url
-    @url ||= url_html.gsub(/<[^>]+>/, '')
+    @url ||= Organization.clean(url_html)
   end
 
   @orgs_by_pbcore_name = Hash[Organization.map { |org| [org.pbcore_name, org] }]
