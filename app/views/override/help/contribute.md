@@ -155,8 +155,6 @@ If you have production contracts or appearance releases for the material you are
 
 ### 10. Summary
 
-9. Summary
-
 - **Preservation file:**	to WGBH and the Library of Congress
 - **Original file:** to	WGBH and the Library, if no preservation file is available
 - **Proxy file:** toWGBH only
