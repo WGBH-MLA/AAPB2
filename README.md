@@ -29,6 +29,153 @@ We are using [Rubocop's](https://github.com/bbatsov/rubocop) defaults, for the m
 For simple stuff, like whitespace correction, `rubocop --auto-correct` will make the necessary edits.
 
 # Deployment and Management
+## Deploy, Server Swap and Ingest Requirements
+In order to deploy code to the website, swap servers from demo to live and/or ingest PBCore xml you'll need two additional repositories.
+
+- [aapb2_deploy](https://github.com/WGBH/aapb2_deploy)
+- [aws-wrapper](https://github.com/WGBH/aws-wrapper)
+
+Make sure you first check out these two repositories and pull the latest code.
+
+For WGBH AAPB server resources such as ssh keys, urls, AWS site names, please see [Server Resources](https://wiki.wgbh.org/display/MLA/Server+Resources) documentation on the internal wiki.
+
+If you have all the required applications and dependencies, a good first test would be to see if you can obtain the ip addresses for the current live and demo AAPB servers.
+
+Open your Terminal application.
+```
+$ cd aws-wrapper
+$ ruby scripts/ssh_opt.rb
+```
+
+This will give you the list of arguments.  For this initial interaction, you are trying to show the ip address of the demo and live servers.
+```
+$ ruby scripts/ssh_opt.rb --name aapb.wgbh-mla.org --ips_by_dns
+```
+
+The returned result should be the ip address of the live AAPB site.
+
+To do the same for the demo site, change the `—-name` argument to `demo.aapb.wgbh-mla.org`
+```
+$ ruby scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns
+```
+
+The returned result should be the demo server ip address, different from the previous one.
+
+If those commands completed successfully, you can proceed to deploy Github code to the demo server.
+
+## Deploy Code to Demo Server
+Because we don't want to immediately deploy new code changes to the live AAPB server, we first deploy them to the demo site where you can verify before swapping the server from live to demo so the live site should always be the most up to date version of the code.
+
+
+# Deploy code to the demo site
+```
+$ cd aapb2_deploy
+```
+
+The next command you'll enter uses the `ssh_opt.rb` script from aws-wrapper to determine and use the demo ip address.  That's why it's important you verify the aws-wrapper is working.
+```
+$ AAPB_HOST=`cd ../aws-wrapper && ruby scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns` \
+AAPB_SSH_KEY=~/.ssh/aapb.wgbh-mla.org.pem bundle exec cap aws deploy
+```
+Currently when AAPB code is getting deployed, it's wiping out the symlink-ed `jetty` and `log` folders causing search on the site to be broken.  Also, it's not adding the `ci.yml` file causing media files to not playback.
+Before you swap demo and live you need to:
+- Make sure `Jetty` and `log` folders are symlinked from `/shared`
+- Make sure the AAPB `ci.yml` file is in the `/config` folder as well
+- Restart Jetty if it's not currently running
+
+# Verify Symlink
+```
+$ cd /var/www/aapb/current
+```
+See if there is are symlinked `jetty` and `log` directories there.
+If not, do these steps.
+```
+$ ln -s /var/www/aapb/shared/jetty/ /var/www/aapb/current/
+$ ln -s /var/www/aapb/shared/log/ /var/www/aapb/current/
+```
+
+# Restarting Jetty If It's Not Running
+If on the demo site you can't do a search, it probably means Jetty isn't running.
+Also in the `/current` directory, first make sure the Jetty process is actually stopped.
+`$ RAILS_ENV=production bundle exec rake jetty:stop`
+Then start it again, this time it should start the symlink-ed one.
+`$ RAILS_ENV=production bundle exec rake jetty:start`
+
+# Check for ci.yml file
+There should be a file called `ci.yml` in the `/current/config` directory.
+```
+$ cd /var/www/aapb/current/config
+$ ls
+```
+If you don't see it there you need to get a version of the file from the live site, or from Chuck or Mike.
+Copy it to `/var/www/aapb/current/config`.
+
+
+When complete, [go to the demo site](http://demo.aapb.wgbh-mla.org) and verify the code changes that were just deployed are what you desire and the search is working correctly, and media playback is working.
+
+If so, now you'll want to swap the servers so the demo site becomes the public, live site.
+
+## Swap Servers
+This will switch which server is the demo and which one is the live.
+```
+$ cd aws-wrapper
+$ ruby scripts/swap.rb --name aapb.wgbh-mla.org
+```
+
+When that process completes, you can go to the [live AAPB](http://americanarchive.org) and verify that the new code came deploy that had previously been on the demo site is now live.  You can also visit the demo url if you wish to see if the non-updated code is still in place.
+
+## Ingest to AAPB
+	TO DO CURRENTLY HANDLED IN `guids2AAPB.app`
+	
+	
+## Verify Successful Ingest
+To verify ingest completed successfully you can view the most recent ingest log files on both the demo and live servers.
+View the most recent log file.  At the end of the log there should be a % complete number.  If it's `(100%) succeeded` then the ingest was successful.
+
+Verify log file on live site:
+```
+$ cd aws-wrapper
+$ ssh -i ~/.ssh/aapb.wgbh-mla.org.pem ec2-user@`ruby scripts/ssh_opt.rb --name aapb.wgbh-mla.org --ips_by_dns`
+$ cd /var/www/aapb/current/log
+$ ls -l
+$ less ingest.2016-03-28_190938.log
+```
+
+Verify log file on demo site:
+```
+$ cd aws-wrapper
+$ ssh -i ~/.ssh/aapb.wgbh-mla.org.pem ec2-user@`ruby scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns`
+$ cd /var/www/aapb/current/log
+$ ls -l
+$ less ingest.2016-03-28_190938.log
+```
+
+If the ingest was not 100% on either server then you need to review the log file and determine why the failing records are failing, correct the data, then re-import those records.
+
+There may be instances where the ingest is successful on the live site but not the demo.  This could be because code changes that are currently deployed to the live site that would allow xml to be valid have not yet been deployed to the now demo site.  In those cases, follow the Deploy Code to Demo Server instructions and re-ingest the same xml.
+
+Once you've verified the ingest was 100% successful, you should spot check the records themselves on the live and sites.
+
+
+### Stopping and Starting Demo
+There may be cases where you need to stop and start the demo EC2 instance. We don't recommend this because AAPB gets it's index updated so frequently it may be confusing to manage.
+But, should you need to start or stop, follow these instructions.
+
+To stop
+```
+$ cd aws-wrapper
+$ ruby scripts/stop.rb --name demo.aapb.wgbh-mla.org
+```
+To start
+```
+$ cd aws-wrapper
+$ ruby scripts/start.rb --name demo.aapb.wgbh-mla.org
+```
+
+After starting and deploying you may need to:
+- Make sure `Jetty` and `log` folders are symlinked from `/shared`
+- Make sure the AAPB `ci.yml` file is in the `/config` folder as well
+- Restart Jetty
 
 ### Blog
 
