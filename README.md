@@ -146,10 +146,13 @@ in how data is pulled from PBCore for display, it does not require a re-index.
 
 Data from the AAPB is available via an API. At this moment the API is experimental:
 No key is required, but we also do not guarantee continued availability. 
-If you want all of our records, the best approach is OAI-PMH. We don't support
-all the verbs, or any formats beyond MODS, but this is enough to get the records:
+
+The OAI-PMH feed can be used to harvest records for items available in the Online Reading Room. Please note that **only records for items in the Online Reading Room** can be harvested this way. We don't support
+all the verbs, or any formats beyond MODS.
 
 - OAI-PMH: [`/oai.xml?verb=ListRecords`](http://americanarchive.org/oai.xml?verb=ListRecords)
+
+All AAPB metadata records, including records for all digitized content and content not digitized can be harvested using the PBCore API. 
 
 If you just need one or a small number of records in machine-readable form, 
 use the single-item API to get [PBCore XML](http://pbcore.org/):
