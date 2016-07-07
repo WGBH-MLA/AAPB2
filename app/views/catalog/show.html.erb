@@ -219,13 +219,13 @@
     <dt>Citation</dt>
     <dd><em>Chicago</em>: 
       &ldquo;<%= @pbcore.title %>,&rdquo;
-      <%= @pbcore.date + ',' if @pbcore.asset_date %> 
+      <%= @pbcore.asset_date + ',' if @pbcore.asset_date %> 
       <%= org %>, 
       accessed <%= today %>, 
       <%= url %>.</dd>
     <dd><em>MLA</em>:
       &ldquo;<%= @pbcore.title %>.&rdquo;
-      <%= @pbcore.date + '.' if @pbcore.asset_date %>
+      <%= @pbcore.asset_date + '.' if @pbcore.asset_date %>
       <%= org %>.
       Web. <%= today %>. 
       &lt;<%= url %>&gt;.</dd>
