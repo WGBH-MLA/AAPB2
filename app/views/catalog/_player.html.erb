@@ -6,6 +6,7 @@
                 controls: true,
                 oncontextmenu: 'return false;', 
                 preload: 'none', width: AAPB::PLAYER_WIDTH, height: AAPB::PLAYER_HEIGHT,
+                crossorigin: 'anonymous',
                 poster: @pbcore.img_src) do %>
 
       <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
