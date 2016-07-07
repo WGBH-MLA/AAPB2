@@ -63,8 +63,6 @@ gem 'blacklight_range_limit'
 gem 'actionpack-page_caching'
 gem 'srt'
 
-gem 'sys-filesystem' # just for checking mount points at ingest
-
 gem 'sony-ci-api'
 
 gem 'rubyzip'

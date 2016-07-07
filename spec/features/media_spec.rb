@@ -24,7 +24,7 @@ describe 'Media URLs', not_on_travis: true do
       pbcore.gsub!('1234</pbcoreIdentifier>',
                    "1234</pbcoreIdentifier><pbcoreIdentifier source='Sony Ci'>#{ci_id}</pbcoreIdentifier>")
 
-      ingester = PBCoreIngester.new(is_same_mount: true)
+      ingester = PBCoreIngester.new
       ingester.delete_all
       ingester.ingest_xml_no_commit(pbcore)
       ingester.commit
