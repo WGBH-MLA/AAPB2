@@ -212,6 +212,29 @@
     </dl>
   <% end %>
 
+  <dl>
+    <% url = "http://americanarchive.org/catalog/#{@pbcore.id}" %>
+    <% today = Date.today.to_formatted_s(:long) %>
+    <% org = @pbcore.organization.short_name_html.gsub(/<[^>]*>/, '').html_safe + ', American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
+    <dt>Citation</dt>
+    <dd><em>Chicago</em>: 
+      &ldquo;<%= @pbcore.title %>,&rdquo;
+      <%= @pbcore.asset_date + ',' if @pbcore.asset_date %> 
+      <%= org %>, 
+      accessed <%= today %>, 
+      <%= url %>.</dd>
+    <dd><em>MLA</em>:
+      &ldquo;<%= @pbcore.title %>.&rdquo;
+      <%= @pbcore.asset_date + '.' if @pbcore.asset_date %>
+      <%= org %>.
+      Web. <%= today %>. 
+      &lt;<%= url %>&gt;.</dd>
+    <dd><em>APA</em>:
+      <%= @pbcore.title %>.
+      Boston, MA: <%= org %>.
+      Retrieved from <%= url %></dd>
+  </dl>
+      
 <% end %>
   
 <%= render partial: 'shared/title_sidebar_main', 
