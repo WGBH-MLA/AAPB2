@@ -12,7 +12,7 @@ class PBCoreIngester
   attr_reader :errors
   attr_reader :success_count
 
-  def initialize()
+  def initialize
     # TODO: hostname and corename from config?
     @solr = Solr.instance.connect
     $LOG ||= NullLogger.new
