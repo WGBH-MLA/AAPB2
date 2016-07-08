@@ -46,7 +46,7 @@ describe DownloadCleanIngest do
     "--just-reindex #{default_flags} #{default_mode}" => [
       /should only be used with/
     ],
-    '--this-is-not-valid -neither-is-this' => [
+    "#{default_mode} #{default_flags} --this-is-not-valid -neither-is-this" => [
       /Unrecognized flags: --this-is-not-valid, -neither-is-this/
     ],
 
