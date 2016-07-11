@@ -310,9 +310,11 @@ If you are interested in summary statistics across the collection,
 an advanced API provides limited access to the underlying Solr index. XML, JSON, and JSONP
 are available. All have CORS turned on for consumption by 3rd party sites.
 
-- XML: [`/api.xml?q=asimov&fl=id,title,xml&rows=3`](http://americanarchive.org/api.xml?q=asimov&fl=id,title,xml&rows=3)
-- JSON: [`/api.json?q=asimov&fl=id,title&rows=3`](http://americanarchive.org/api.json?q=asimov&fl=id,title&rows=3)
-- JSONP: [`/api.js?callback=my_callback&q=asimov&fl=id,title&rows=3`](http://americanarchive.org/api.js?callback=my_callback&q=asimov&fl=id,title&rows=3)
+- XML: [`/api.xml?q=asimov&fl=id,title,xml&rows=3&start=5`](http://americanarchive.org/api.xml?q=asimov&fl=id,title,xml&rows=3)
+- JSON: [`/api.json?q=asimov&fl=id,title&rows=3&start=5`](http://americanarchive.org/api.json?q=asimov&fl=id,title&rows=3)
+- JSONP: [`/api.js?callback=my_callback&q=asimov&fl=id,title&rows=3&start=5`](http://americanarchive.org/api.js?callback=my_callback&q=asimov&fl=id,title&rows=3)
+
+The `rows` parameter can be set as high as 100, and a result set can be paged through with `start`.
 
 Note that while the PBCore XML is available through this API, it is simply represented
 as a string within the container: Even with the XML response type a first parse would
