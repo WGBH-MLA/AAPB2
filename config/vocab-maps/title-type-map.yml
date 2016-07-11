@@ -6,7 +6,6 @@
 # Final line is a fall-through.
 
 !omap
-  label: Label
   collection: Collection
   series: Series
   program: Program
@@ -24,4 +23,5 @@
   b-roll: Raw Footage
   b roll: Raw Footage
   album: Album
+  label: Label
   '': Title
