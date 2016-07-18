@@ -1,6 +1,6 @@
 # Contribute content to the AAPB!
 
-**Last Modified: June 14, 2016**
+**Last Modified: July 18, 2016**
 
 The AAPB seeks to become a centralized web portal of discovery where researchers, educators, students – really anyone – can find 
 relevant public broadcasting programs existing either on our own site or on sites belonging to other archives and stations. 
@@ -68,13 +68,20 @@ If your plan to contribute files for preservation in the AAPB, we would prefer t
 
 **Video preservation file specification details**
 Image essence coding: 10 bit JPEG2000 reversible 5/3 (aka “mathematically lossless”)<br/>
+
 Interlace frame coding: 2 fields per frame, 1 KLV per frame<br/> 
 JPEG2000 Tile: single tile<br/>
+
 Color space: YCbCr (If source is analog NTSC (YIQ), PAL or SECAM (YUV), it shall be converted to YPbPr for digitization, which converts to YCbCr in digital)<br/>
+
 Video color channel bit depth: 10 bits per channel<br/>
+
 Native raster: archive file shall match analog original, which maps to 486 x 720 for 525-line (NTSC) sourced material, and 576 x 720 for 625 line (PAL & SECAM) sourced material.<br/>
+
 Aspect ratio: AFD (Automatic Format Description) values shall be provided. 4:3 material shall use the AFD 4:3 code; 16:9 materials shall use the 16:9 code.<br/>
+
 Native frame rate: the frame rate of the original shall be preserved in the file with no conversion (29.97 shall remain 29.97, 25 as 25, etc.)<br/>
+
 Native color space: If the material is analog sourced, YIQ shall be converted to YPbPr before digitization, YUV (PAL & SECAM) to YPbPr before digitization. YPbPr material shall be maintained. RGB analog material shall be maintained as RGB.
 
 #### b. Audio preservation file
@@ -110,7 +117,7 @@ Codec ID: 0x55<br/>
 Channels: 2<br/>
 Wrapper: mp3<br/>
 
-### 4. Delivery method
+### 5. Delivery method
 
 Ideally, preservation files would be delivered to the Library of Congress and access files would be delivered separately to WGBH; however, we are open to simplifying the process when possible, such as having the donor deliver only one copy of the files (preservation and proxy or preservation only) to WGBH, which WGBH would then process and deliver on to the Library of Congress.
 
@@ -125,7 +132,7 @@ If possible, all files should be written to the chosen media using the [BagIt sp
 
 WGBH can provide a USB3 drive(s) to the donor. The donor would then place files into a single directory.
 
-### 5. Intellectual Unit List
+### 6. Intellectual Unit List
 
 Upon delivery of media files, the donor or vendor will need to provide a complete list of filenames. We call this the "Intellectual Unit List." Please provide this list via email when you ship the files.
 
@@ -135,29 +142,29 @@ The list of file names should be in CSV format, semicolon delimited and must hav
 
 *For delivery on LTO tape:* A comprehensive list of each GUID on the tape with tape label and filemark (the location of the file on the tape). If you do plan to deliver your files to the Library on LTO tape, please contact us to discuss this requirement.
 
-### 6. File naming conventions
+### 7. File naming conventions
 
 The only requirement is that the file names are unique, are included in the metadata spreadsheet delivered to WGBH, and the file names do not include any spaces or special characters other than underscores and hyphens.
 
-### 7. Checksums
+### 8. Checksums
 
 A checksum is used to verify that the files were copied to the storage media without any errors or loss of data. AAPB would like to receive md5 checksums when possible. If you are providing  checksums, we would prefer you include it on both the hard drive and in the intellectual file unit list. At the very least, checksums should be provided on the intellectual file unit list.
 
-### 8. Transcripts
+### 9. Transcripts
 
 If you have transcripts of the material you are contributing to the AAPB, we would love to have copies. We would prefer to have time-stamped transcripts in .txt, JSON, XML, SRT or WEBVTT, but if you don't have these formats, plain text without timestamps or PDFs would also be useful to have.
 
 Please send copies of the transcripts to WGBH on the hard drive using the same file name as the video/audio files with "_transcript" appended to the filename. The transcripts can be placed in the same directory as the files or in a separate "Transcripts" folder.
 
-### 9. Contracts/Releases
+### 10. Contracts/Releases
 
 If you have production contracts or appearance releases for the material you are contributing to the AAPB, we would love to have copies to help us determine what we can make available online. Please send copies to WGBH on the hard drive using the same file name as the video/audio files themselves with "_contract" appended to the filename. The contracts can be placed in the same directory as the files or in a separate "Contracts" folder.
 
-### 10. Summary
+### 11. Summary
 
 - **Preservation file:**	to WGBH and the Library of Congress
 - **Original file:** to	WGBH and the Library, if no preservation file is available
-- **Proxy file:** toWGBH only
+- **Proxy file:** to WGBH only
 - **Transcripts:**	to WGBH, if available
 - **Contracts/Releases:**	to WGBH, if available
 - **Checksums:**	strongly preferred (md5) by both WGBH and the Library
