@@ -75,7 +75,7 @@ $ cd aapb2_deploy
 The next command you'll enter uses the `ssh_opt.rb` script from aws-wrapper to determine and use the demo ip address.  That's why it's important you verify the aws-wrapper is working.
 ```
 $ AAPB_HOST=`cd ../aws-wrapper && ruby scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns` \
-AAPB_SSH_KEY=~/.ssh/aapb.wgbh-mla.org.pem bundle exec cap aws deploy
+AAPB_SSH_KEY=~/.ssh/aapb.wgbh-mla.org.pem bundle exec cap demo deploy
 ```
 Currently when AAPB code is getting deployed, it's wiping out the symlink-ed `jetty` and `log` folders causing search on the site to be broken.  Also, it's not adding the `ci.yml` file causing media files to not playback.
 Before you swap demo and live you need to:
