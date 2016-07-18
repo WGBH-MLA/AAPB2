@@ -5,7 +5,6 @@ require 'set'
 require 'fileutils'
 require_relative 'zipper'
 require_relative 'null_logger'
-require_relative 'mount_validator'
 require_relative '../../lib/solr'
 require_relative 'query_maker'
 
@@ -31,7 +30,7 @@ class Downloader
     raise("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(
       Set[
         :days, :page, :ids, :query, # modes
-        :is_same_mount, :is_just_reindex # flags
+        :is_just_reindex # flags
       ])
     now = Time.now.strftime('%F_%T.%6N')
     if opts[:query]
@@ -44,7 +43,7 @@ class Downloader
     end
     if opts[:ids]
       dirname ||= "#{now}_by_ids_#{opts[:ids].size}"
-      mkdir_and_cd(dirname, opts[:is_same_mount])
+      mkdir_and_cd(dirname)
       opts[:ids].each do |id|
         id = id.gsub(/[^[:ascii:]]/, '').gsub(/[^[:print:]]/, '')
         short_id = id.sub(/.*[_\/]/, '')
@@ -69,7 +68,7 @@ class Downloader
               else
                 '20000101' # ie, beginning of time.
               end
-      mkdir_and_cd("#{now}_since_#{since}_starting_page_#{opts[:page]}", opts[:is_same_mount])
+      mkdir_and_cd("#{now}_since_#{since}_starting_page_#{opts[:page]}")
       downloader = Downloader.new(since)
       downloader.download_to_directory(opts[:page])
     end
@@ -80,12 +79,11 @@ class Downloader
     URI.parse(url).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
   end
 
-  def self.mkdir_and_cd(name, is_same_mount)
+  def self.mkdir_and_cd(name)
     Dir.chdir(Rails.root)
     path = "tmp/downloads/#{name}"
     FileUtils.mkdir_p(path)
     Dir.chdir(path)
-    MountValidator.validate_mount(Dir.pwd, 'pbcore downloads') unless is_same_mount
 
     Dir.chdir('..')
     link_name = 'LATEST'

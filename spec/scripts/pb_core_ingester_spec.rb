@@ -5,12 +5,8 @@ describe PBCoreIngester do
   let(:path) { Rails.root + 'spec/fixtures/pbcore/clean-MOCK.xml' }
 
   before(:each) do
-    @ingester = PBCoreIngester.new(is_same_mount: true)
+    @ingester = PBCoreIngester.new
     @ingester.delete_all
-  end
-
-  it 'fails without same_mount' do
-    expect { PBCoreIngester.new(is_same_mount: false) }.to raise_error
   end
 
   it 'whines about non-existent file' do

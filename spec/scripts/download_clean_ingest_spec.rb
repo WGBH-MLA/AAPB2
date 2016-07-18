@@ -23,7 +23,7 @@ describe DownloadCleanIngest do
     end
   end
 
-  default_flags = '--stdout-log --same-mount'
+  default_flags = '--stdout-log'
   default_mode = "--files #{Rails.root + 'spec/fixtures/dci/pbcore-dir/pbcore.xml'}"
   {
     # Expected to fail:
@@ -32,9 +32,6 @@ describe DownloadCleanIngest do
     ],
     'random args here' => [
       /USAGE:/
-    ],
-    '--stdout-log --ids fake-id' => [
-      /add --same-mount to ignore/
     ],
     "#{default_flags} --files /this/path/is/no/good" => [
       /1 \(100.0%\) Errno::ENOENT/

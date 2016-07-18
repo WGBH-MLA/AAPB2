@@ -29,7 +29,7 @@ class DownloadCleanIngest
 
   def download(opts)
     [Downloader.download_to_directory_and_link(
-      { is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex }.merge(opts)
+      { is_just_reindex: @is_just_reindex }.merge(opts)
     )]
   end
 
@@ -40,7 +40,7 @@ class DownloadCleanIngest
       const_init(name)
     end
 
-    %w(batch-commit same-mount stdout-log just-reindex).each do |name|
+    %w(batch-commit stdout-log just-reindex).each do |name|
       flag_name = const_init(name)
       variable_name = "@is_#{name.tr('-', '_')}"
       instance_variable_set(variable_name, argv.include?(flag_name))
@@ -57,7 +57,7 @@ class DownloadCleanIngest
     log_init(orig)
     $LOG.info("START: Process ##{Process.pid}: #{__FILE__} #{orig.join(' ')}")
 
-    @flags = { is_same_mount: @is_same_mount, is_just_reindex: @is_just_reindex }
+    @flags = { is_just_reindex: @is_just_reindex }
 
     begin
       case mode
@@ -127,8 +127,7 @@ class DownloadCleanIngest
   def usage_message
     <<-EOF.gsub(/^ {4}/, '')
       USAGE: #{File.basename(__FILE__)}
-               [#{BATCH_COMMIT}] [#{SAME_MOUNT}]
-               [#{STDOUT_LOG}] [#{JUST_REINDEX}]
+               [#{BATCH_COMMIT}] [#{STDOUT_LOG}] [#{JUST_REINDEX}]
                ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ...
                  | #{FILES} FILE ... | #{DIRS} DIR ...
@@ -137,9 +136,6 @@ class DownloadCleanIngest
       boolean flags:
         #{BATCH_COMMIT}: Optionally, make just one commit at the end, rather than
           one commit per file.
-        #{SAME_MOUNT}: Optionally, allow same mount point for the script and the
-          solr index. This is what you want in development, but the default, to
-          disallow this, would have stopped me from running out of disk many times.
         #{STDOUT_LOG}: Optionally, log to stdout, rather than a log file.
         #{JUST_REINDEX}: Rather than querying the AMS, query the local solr. This
           is typically used when the indexing strategy has changed, but the AMS
@@ -170,7 +166,7 @@ class DownloadCleanIngest
   end
 
   def process
-    ingester = PBCoreIngester.new(is_same_mount: @is_same_mount)
+    ingester = PBCoreIngester.new
 
     @files.each do |path|
       begin
