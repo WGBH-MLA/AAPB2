@@ -50,6 +50,8 @@ class DownloadCleanIngest
     mode = argv.shift
     args = argv
 
+    unrecognized_flags = args.select { |arg| arg =~ /^-/ }
+    raise("Unrecognized flags: #{unrecognized_flags.join(', ')}") unless unrecognized_flags.empty?
     raise("#{JUST_REINDEX} should only be used with #{IDS} or #{QUERY} modes") if @is_just_reindex && ![IDS, ID_FILES, QUERY].include?(mode)
 
     log_init(orig)
