@@ -251,7 +251,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional },
-      # Unused at the moment, but let's continue to index so it could be re-enabled.
       'titles' => titles.map(&:last),
       'contribs' => contribs,
 
