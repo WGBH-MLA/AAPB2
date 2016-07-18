@@ -67,20 +67,22 @@ If your plan to contribute files for preservation in the AAPB, we would prefer t
 - **Acceptable:** Original file format
 
 **Video preservation file specification details**
-Image essence coding: 10 bit JPEG2000 reversible 5/3 (aka “mathematically lossless”)<br/>
 
-Interlace frame coding: 2 fields per frame, 1 KLV per frame<br/> 
-JPEG2000 Tile: single tile<br/>
+Image essence coding: 10 bit JPEG2000 reversible 5/3 (aka “mathematically lossless”)
 
-Color space: YCbCr (If source is analog NTSC (YIQ), PAL or SECAM (YUV), it shall be converted to YPbPr for digitization, which converts to YCbCr in digital)<br/>
+Interlace frame coding: 2 fields per frame, 1 KLV per frame
 
-Video color channel bit depth: 10 bits per channel<br/>
+JPEG2000 Tile: single tile
 
-Native raster: archive file shall match analog original, which maps to 486 x 720 for 525-line (NTSC) sourced material, and 576 x 720 for 625 line (PAL & SECAM) sourced material.<br/>
+Color space: YCbCr (If source is analog NTSC (YIQ), PAL or SECAM (YUV), it shall be converted to YPbPr for digitization, which converts to YCbCr in digital)
 
-Aspect ratio: AFD (Automatic Format Description) values shall be provided. 4:3 material shall use the AFD 4:3 code; 16:9 materials shall use the 16:9 code.<br/>
+Video color channel bit depth: 10 bits per channel
 
-Native frame rate: the frame rate of the original shall be preserved in the file with no conversion (29.97 shall remain 29.97, 25 as 25, etc.)<br/>
+Native raster: archive file shall match analog original, which maps to 486 x 720 for 525-line (NTSC) sourced material, and 576 x 720 for 625 line (PAL & SECAM) sourced material.
+
+Aspect ratio: AFD (Automatic Format Description) values shall be provided. 4:3 material shall use the AFD 4:3 code; 16:9 materials shall use the 16:9 code.
+
+Native frame rate: the frame rate of the original shall be preserved in the file with no conversion (29.97 shall remain 29.97, 25 as 25, etc.)
 
 Native color space: If the material is analog sourced, YIQ shall be converted to YPbPr before digitization, YUV (PAL & SECAM) to YPbPr before digitization. YPbPr material shall be maintained. RGB analog material shall be maintained as RGB.
 
@@ -90,32 +92,52 @@ Native color space: If the material is analog sourced, YIQ shall be converted to
 - **Acceptable:** Original file format
 
 **Audio preservation file specification details**
-PCM coding, BWF (Broadcast WAV) RF64 format<br/>
+
+PCM coding, BWF (Broadcast WAV) RF64 format
+
 48 kHz, 24 bit sampling
 
 #### c. Video proxy file
 
-Video Codec: h.264/AVC<br/>
-Codec ID: avcl<br/>
-Alternate Name: Advanced Video Codec<br/>
-Format profile: Main@L3.0<br/>
-Format settings, GOP: M=1, N=30 Bit rate: 711 Kbps<br/>
-Width: 480 pixels<br/>
-Height: 360 pixels<br/>
-Display aspect ratio: 4:3 Color: YUV, 4:2:0, 8 bits Scan type: Progressive<br/>
-Audio Codec: AAC 48.0 KHz / 128 Kbps<br/>
-Codec ID: 40<br/>
-Other Name: Advanced Audio Codec Format profile: LC<br/>
-Channel(s): 2 channels<br/>
-Wrapper: MPEG-4 (.mp4) wrapper<br/>
+Video Codec: h.264/AVC
+
+Codec ID: avcl
+
+Alternate Name: Advanced Video Codec
+
+Format profile: Main@L3.0
+
+Format settings, GOP: M=1, N=30 Bit rate: 711 Kbps
+
+Width: 480 pixels
+
+Height: 360 pixels
+
+Display aspect ratio: 4:3 Color: YUV, 4:2:0, 8 bits Scan type: Progressive
+
+Audio Codec: AAC 48.0 KHz / 128 Kbps
+
+Codec ID: 40
+
+Other Name: Advanced Audio Codec Format profile: LC
+
+Channel(s): 2 channels
+
+Wrapper: MPEG-4 (.mp4) wrapper
+
 
 #### d. Audio proxy file
 
-192 kbps MPEG-1<br/>
-Audio Layer 3 (48 kHz / 16 bits)<br/>
-Codec ID: 0x55<br/>
-Channels: 2<br/>
-Wrapper: mp3<br/>
+192 kbps MPEG-1
+
+Audio Layer 3 (48 kHz / 16 bits)
+
+Codec ID: 0x55
+
+Channels: 2
+
+Wrapper: mp3
+
 
 ### 5. Delivery method
 
