@@ -5,6 +5,7 @@ require_relative '../../lib/geo_i_p_country'
 class User
   POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
   AAPB_HOST_RE = /^(.+\.)?americanarchive\.org$/
+  AWS_HOST_RE = /^(.+\.)?wgbh-mla\.org$/
   WGBH_IP_RANGE = IPAddr.new('198.147.175.0/24')
   LOC_IP_RANGE = IPAddr.new('140.147.0.0/16')
 
@@ -51,7 +52,7 @@ class User
   private
 
   def aapb_referer_regexes
-    [AAPB_HOST_RE, POPUP_HOST_RE]
+    [AAPB_HOST_RE, POPUP_HOST_RE, AWS_HOST_RE]
   end
 
   def onsite_ip_ranges
