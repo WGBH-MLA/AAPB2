@@ -107,7 +107,7 @@ There should be a file called `ci.yml` in the `/current/config` directory.
 $ cd /var/www/aapb/current/config
 $ ls
 ```
-If you don't see it there you need to get a version of the file from the live site, or from Chuck or Mike.
+If you don't see it there you need to get a version of the file from the live site, or from Kevin or Mike.
 Copy it to `/var/www/aapb/current/config`.
 
 
