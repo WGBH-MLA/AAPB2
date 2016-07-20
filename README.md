@@ -69,7 +69,7 @@ Because we don't want to immediately deploy new code changes to the live AAPB se
 
 # Deploy code to the demo site
 ```
-$ cd aapb2_deploy
+$ cd AAPB2_deploy
 ```
 
 The next command you'll enter uses the `ssh_opt.rb` script from aws-wrapper to determine and use the demo ip address.  That's why it's important you verify the aws-wrapper is working.
