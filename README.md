@@ -108,7 +108,11 @@ $ cd /var/www/aapb/current/config
 $ ls
 ```
 If you don't see it there you need to get a version of the file from the live site, or from Kevin or Mike.
-Copy it to `/var/www/aapb/current/config`.
+Copy it to `/var/www/aapb/current/config` by doing:
+
+```
+scp -i ~/.ssh/aapb.wgbh-mla.org.pem ~/ci.yml ec2-user@DEMO-IP-ADDRESS:/var/www/aapb/current/config/ci.yml
+```
 
 
 When complete, [go to the demo site](http://demo.aapb.wgbh-mla.org) and verify the code changes that were just deployed are what you desire and the search is working correctly, and media playback is working.
