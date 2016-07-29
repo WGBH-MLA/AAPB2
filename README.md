@@ -194,7 +194,24 @@ Wordpress sets a default TTL of 300s, which should be fine for now.
 
 ### Media hosting
 
-- Thumbnails are served from the WGBH media server. This has a config `/wgbh/http/streaming/conf/allow-referrer.conf` which prevents unrecognized hosts from leeching from us.
+- Thumbnails are served from a Amazon S3 server. 
+To ingest thumbnails:
+You can use the AWS web interface to upload small batches of thumbnails but for uploading hundreds of files you should use the Amazon CLI tool.  The transfer speed is a lot faster and large transfers shouldn't time out.
+
+[Follow the documentation](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html) to set up CLI with your Access Key, Secret Access Key, and Default region name.
+
+- /thumbnail/ is for image thumbnails for all the digitized video assets
+
+Copy Directory of Files to S3:
+```
+aws s3 cp /local/folder/of/thumbnails s3://americanarchive.org/thumbnail -- recursive
+```
+
+Double Check Files Were Uploaded:
+```
+aws s3 ls s3://americanarchive.org/thumbnail --recursive >> /Users/logs/s3_proxies.csv
+```
+
 - Videos are served from Sony Ci. We need to hit their API to generate temporary download URLs, which we then redirect to.
 
 
