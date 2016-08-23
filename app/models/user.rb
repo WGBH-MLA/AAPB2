@@ -16,7 +16,7 @@ class User
   end
 
   def onsite?
-    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
+    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any? || aapb_referer?
   end
 
   def usa?
@@ -45,8 +45,7 @@ class User
   end
 
   def affirmed_tos?
-    # Referer's from popuparchive.com get a pass on TOS
-    request.session[:affirm_terms] || !(referer_host =~ POPUP_HOST_RE).nil?
+    request.session[:affirm_terms]
   end
 
   private
