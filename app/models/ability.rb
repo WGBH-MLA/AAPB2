@@ -13,5 +13,9 @@ class Ability
       !user.onsite? && # Comment out for developing TOS features.
         !user.affirmed_tos? && user.usa? && !user.bot? && pbcore.public?
     end
+
+    can :access_media_url, PBCore do
+      user.onsite? || user.aapb_referer? || user.embed?
+    end
   end
 end

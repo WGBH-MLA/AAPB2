@@ -16,7 +16,7 @@ class User
   end
 
   def onsite?
-    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any? || aapb_referer?
+    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
   end
 
   def usa?
