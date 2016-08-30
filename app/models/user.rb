@@ -8,6 +8,7 @@ class User
   AWS_HOST_RE = /^(.+\.)?wgbh-mla\.org$/
   WGBH_IP_RANGE = IPAddr.new('198.147.175.0/24')
   LOC_IP_RANGE = IPAddr.new('140.147.0.0/16')
+  DIGITAL_OCEAN_IP_RANGE = IPAddr.new('162.243.123.117/32')
 
   attr_reader :request
 
@@ -16,7 +17,7 @@ class User
   end
 
   def onsite?
-    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any? || aapb_referer?
+    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
   end
 
   def usa?

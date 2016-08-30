@@ -5,7 +5,7 @@ describe Cleaner do
   describe 'clean-MOCK.xml' do
     it 'is in fact clean' do
       hopefully_clean = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
-      clean = Cleaner.instance.clean(hopefully_clean, 'hopefully')
+      clean = Cleaner.instance.clean(hopefully_clean)
       expect(clean).to eq hopefully_clean
       expect { ValidatedPBCore.new(clean) }.not_to raise_error
     end
@@ -20,7 +20,7 @@ describe Cleaner do
         dirty = File.read(path_dirty)
         clean = File.read(path_clean)
 
-        expect(cleaner.clean(dirty, name)).to eq(clean)
+        expect(cleaner.clean(dirty)).to eq(clean)
         expect { ValidatedPBCore.new(clean) }.not_to raise_error
       end
     end
@@ -36,7 +36,7 @@ describe Cleaner do
 
         # Error could occur either in cleaning or validation; We don't care.
         begin
-          ValidatedPBCore.new(cleaner.clean(dirty, name))
+          ValidatedPBCore.new(cleaner.clean(dirty))
           raise('Expected an error')
         rescue => e
           expect(e.message.split("\n").first)
@@ -44,7 +44,7 @@ describe Cleaner do
           # Full paths need to be cleaned up so that they match on Travis.
         end
         # This could be shorter, but the eq matcher gives us a diff that we don't get from
-        #   expect { ValidatedPBCore.new(cleaner.clean(dirty, name)) }.to raise_error(expected)
+        #   expect { ValidatedPBCore.new(cleaner.clean(dirty)) }.to raise_error(expected)
       end
     end
   end

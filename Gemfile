@@ -4,6 +4,9 @@
 
 source 'https://rubygems.org'
 
+# Specify specific version of ruby with which the app is compatible.
+ruby '2.2.2'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.2'
 # Use sqlite3 as the database for Active Record
