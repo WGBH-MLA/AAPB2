@@ -5,7 +5,7 @@ describe Ability do
   # The 'user' is set with let(:user) in the contexts below.
   subject(:ability) { Ability.new(user) }
 
-  context "for public PBCore records" do
+  context 'for public PBCore records' do
     # NOTE: CanCan will only work if we use actual PBCore instance. It won't
     # work if you try to use a mock object, e.g. RSpec instance_double.
     let(:public_pbcore_record) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
