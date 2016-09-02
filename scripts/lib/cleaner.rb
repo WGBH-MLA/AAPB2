@@ -15,12 +15,11 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     @topic_type_map = VocabMap.for('topic')
   end
 
-  def clean(dirty_xml, name = 'not specified')
+  def clean(dirty_xml)
     dirty_xml.gsub!("xsi:xmlns='http://www.w3.org/2001/XMLSchema-instance'",
                     "xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'")
     dirty_xml.gsub!("xmlns:xsi='xsi'", '')
     doc = REXML::Document.new(dirty_xml)
-    @current_name = name # A little bit icky, but makes the match calls simpler, rather than passing another parameter.
 
     # pbcoreAssetType:
 
