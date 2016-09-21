@@ -32,7 +32,7 @@ For simple stuff, like whitespace correction, `rubocop --auto-correct` will make
 ## Deploy, Server Swap and Ingest Requirements
 In order to deploy code to the website, swap servers from demo to live and/or ingest PBCore xml you'll need two additional repositories.
 
-- [aapb2_deploy](https://github.com/WGBH/aapb2_deploy)
+- aapb2_deployment- Found on the internal, WGBH Stash repository
 - [aws-wrapper](https://github.com/WGBH/aws-wrapper)
 
 Make sure you first check out these two repositories and pull the latest code.
@@ -69,16 +69,16 @@ Because we don't want to immediately deploy new code changes to the live AAPB se
 
 # Deploy code to the demo site
 ```
-$ cd AAPB2_deploy
+$ cd aapb_deployment
 ```
 
 The next command you'll enter uses the `ssh_opt.rb` script from aws-wrapper to determine and use the demo ip address.  That's why it's important you verify the aws-wrapper is working.
 ```
 $ AAPB_HOST=`cd ../aws-wrapper && ruby scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns` \
-AAPB_SSH_KEY=~/.ssh/aapb.wgbh-mla.org.pem bundle exec cap demo deploy
+AAPB_SSH_KEY=~/.ssh/aapb.wgbh-mla.org.pem bundle exec cap aws deploy
 ```
-Currently when AAPB code is getting deployed, it's wiping out the symlink-ed `jetty` and `log` folders causing search on the site to be broken.  Also, it's not adding the `ci.yml` file causing media files to not playback.
-Before you swap demo and live you need to:
+Previously when AAPB code was getting deployed, it was wiping out the symlink-ed `jetty` and `log` folders causing search on the site to be broken.  Also, it was omitting the `ci.yml` file causing media files to not playback.
+Before you swap demo and live server you may want to:
 - Make sure `Jetty` and `log` folders are symlinked from `/shared`
 - Make sure the AAPB `ci.yml` file is in the `/config` folder as well
 - Restart Jetty if it's not currently running
@@ -114,6 +114,7 @@ Copy it to `/var/www/aapb/current/config` by doing:
 scp -i ~/.ssh/aapb.wgbh-mla.org.pem ~/ci.yml ec2-user@DEMO-IP-ADDRESS:/var/www/aapb/current/config/ci.yml
 ```
 
+NOTE- If you had to do any of those steps, there may be a problem with the aapb_deployment code and you should file a new ticket.  
 
 When complete, [go to the demo site](http://demo.aapb.wgbh-mla.org) and verify the code changes that were just deployed are what you desire and the search is working correctly, and media playback is working.
 
