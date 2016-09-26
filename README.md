@@ -44,19 +44,19 @@ If you have all the required applications and dependencies, a good first test wo
 Open your Terminal application.
 ```
 $ cd aws-wrapper
-$ ruby scripts/ssh_opt.rb
+$ bundle exec scripts/ssh_opt.rb
 ```
 
 This will give you the list of arguments.  For this initial interaction, you are trying to show the ip address of the demo and live servers.
 ```
-$ ruby scripts/ssh_opt.rb --name aapb.wgbh-mla.org --ips_by_dns
+$ bundle exec scripts/ssh_opt.rb --name aapb.wgbh-mla.org --ips_by_dns
 ```
 
 The returned result should be the ip address of the live AAPB site.
 
 To do the same for the demo site, change the `—-name` argument to `demo.aapb.wgbh-mla.org`
 ```
-$ ruby scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns
+$ bundle exec scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns
 ```
 
 The returned result should be the demo server ip address, different from the previous one.
@@ -74,7 +74,7 @@ $ cd aapb_deployment
 
 The next command you'll enter uses the `ssh_opt.rb` script from aws-wrapper to determine and use the demo ip address.  That's why it's important you verify the aws-wrapper is working.
 ```
-$ AAPB_HOST=`cd ../aws-wrapper && ruby scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns` \
+$ AAPB_HOST=`cd ../aws-wrapper && bundle exec scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns` \
 AAPB_SSH_KEY=~/.ssh/aapb.wgbh-mla.org.pem bundle exec cap aws deploy
 ```
 Previously when AAPB code was getting deployed, it was wiping out the symlink-ed `jetty` and `log` folders causing search on the site to be broken.  Also, it was omitting the `ci.yml` file causing media files to not playback.
@@ -124,7 +124,7 @@ If so, now you'll want to swap the servers so the demo site becomes the public, 
 This will switch which server is the demo and which one is the live.
 ```
 $ cd aws-wrapper
-$ ruby scripts/swap.rb --name aapb.wgbh-mla.org
+$ bundle exec scripts/swap.rb --name aapb.wgbh-mla.org
 ```
 
 When that process completes, you can go to the [live AAPB](http://americanarchive.org) and verify that the new code came deploy that had previously been on the demo site is now live.  You can also visit the demo url if you wish to see if the non-updated code is still in place.
@@ -140,7 +140,7 @@ View the most recent log file.  At the end of the log there should be a % comple
 Verify log file on live site:
 ```
 $ cd aws-wrapper
-$ ssh -i ~/.ssh/aapb.wgbh-mla.org.pem ec2-user@`ruby scripts/ssh_opt.rb --name aapb.wgbh-mla.org --ips_by_dns`
+$ ssh -i ~/.ssh/aapb.wgbh-mla.org.pem ec2-user@`bundle exec scripts/ssh_opt.rb --name aapb.wgbh-mla.org --ips_by_dns`
 $ cd /var/www/aapb/current/log
 $ ls -l
 $ less ingest.2016-03-28_190938.log
@@ -149,7 +149,7 @@ $ less ingest.2016-03-28_190938.log
 Verify log file on demo site:
 ```
 $ cd aws-wrapper
-$ ssh -i ~/.ssh/aapb.wgbh-mla.org.pem ec2-user@`ruby scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns`
+$ ssh -i ~/.ssh/aapb.wgbh-mla.org.pem ec2-user@`bundle exec scripts/ssh_opt.rb --name demo.aapb.wgbh-mla.org --ips_by_dns`
 $ cd /var/www/aapb/current/log
 $ ls -l
 $ less ingest.2016-03-28_190938.log
@@ -169,12 +169,12 @@ But, should you need to start or stop, follow these instructions.
 To stop
 ```
 $ cd aws-wrapper
-$ ruby scripts/stop.rb --name demo.aapb.wgbh-mla.org
+$ bundle exec scripts/stop.rb --name demo.aapb.wgbh-mla.org
 ```
 To start
 ```
 $ cd aws-wrapper
-$ ruby scripts/start.rb --name demo.aapb.wgbh-mla.org
+$ bundle exec scripts/start.rb --name demo.aapb.wgbh-mla.org
 ```
 
 After starting and deploying you may need to:
