@@ -4,4 +4,7 @@
 
 Mime::Type.register 'text/xml', :pbcore
 Mime::Type.register 'text/xml', :mods
+Mime::Type.register 'text/xml', :xml
 Mime::Type.register 'text/plain', :txt
+Mime::Type.register 'text/plain', :srt
+Mime::Type.register 'text/vtt', :vtt

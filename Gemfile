@@ -81,6 +81,7 @@ gem 'libv8', '~> 3.16.14.13' # Chuck had problems with older version.
 gem 'rspec', :group => :test
 gem 'rspec-rails', :group => :test
 gem 'capybara', :group => :test
+gem 'webmock', :group => :test
 
 gem 'rubocop', :group => :development
 gem 'pry', :group => :development

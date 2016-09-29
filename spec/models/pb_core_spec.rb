@@ -83,7 +83,7 @@ describe 'Validated and plain PBCore' do
 
       # Ruby defaults to read files as UTF-8,
       # but the file delivered over the network is seen as ASCII: not sure what determines that.
-      expect(File.open(Rails.root + 'spec/fixtures/srt/1234.srt1.srt', 'r:' + Encoding::ASCII_8BIT.to_s).read)
+      expect(File.open(Rails.root + 'spec/fixtures/captions/srt/1234.srt1.srt', 'r:' + Encoding::ASCII_8BIT.to_s).read)
         .to eq('' + Net::HTTP.get_response(URI.parse('https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt')).body)
     end
 
