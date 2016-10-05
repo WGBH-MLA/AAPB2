@@ -22,6 +22,7 @@
   Magazine: Magazine
   Mini: Miniseries
   News Report: News Report
+  News: News
   Performance: Performance
   Promo: Promo
   Public Service Announcement: Public Service Announcement
@@ -32,4 +33,5 @@
   Talk: Talk Show
   Unedited: Unedited
   Raw Footage: Unedited
+  Spanish Language: Spanish Language
   '': ''
