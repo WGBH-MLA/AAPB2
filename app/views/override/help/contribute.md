@@ -1,6 +1,6 @@
 # Contribute content to the AAPB!
 
-**Last Modified: July 18, 2016**
+**Last Modified: October 18, 2016**
 
 The AAPB seeks to become a centralized web portal of discovery where researchers, educators, students – really anyone – can find 
 relevant public broadcasting programs existing either on our own site or on sites belonging to other archives and stations. 
@@ -95,7 +95,7 @@ Native color space: If the material is analog sourced, YIQ shall be converted to
 
 PCM coding, BWF (Broadcast WAV) RF64 format
 
-48 kHz, 24 bit sampling
+96 kHz, 24 bit sampling
 
 #### c. Video proxy file
 
