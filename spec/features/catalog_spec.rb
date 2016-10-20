@@ -27,9 +27,21 @@ describe 'Catalog' do
     expect(page).to have_css("img[src='#{url}']")
   end
 
-  def expect_poster(id)
-    url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
-    expect(page).to have_css("video[poster='#{url}']")
+  # Calls an expectation for a <audio> element
+  def expect_audio(opts = {})
+    poster = opts[:poster]
+    expect(page).to have_selector('audio')
+    expect(page).to have_css("audio[poster='#{poster}']") if poster
+  end
+
+  def expect_video(opts = {})
+    poster = opts[:poster]
+    expect(page).to have_selector 'video'
+    expect(page).to(have_css("video[poster='#{poster}']")) if poster
+  end
+
+  def s3_thumb(id)
+    "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
   end
 
   def expect_no_media
@@ -92,13 +104,13 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 1, 'Sound', 8],
+          ['media_type', 1, 'Sound', 9],
           ['genres', 2, 'Interview', 3],
-          ['topics', 1, 'Music', 1],
+          ['topics', 1, 'Music', 2],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 31, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
+          ['organization', 32, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 24]
+          ['access_types', 3, PBCore::ALL_ACCESS, 25]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -142,9 +154,9 @@ describe 'Catalog' do
         describe 'URL support' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
-            ['media_type', 'Sound', 8],
-            ['media_type', 'Sound+OR+Moving+Image', 20],
-            ['media_type', 'Moving+Image+OR+Sound', 20],
+            ['media_type', 'Sound', 9],
+            ['media_type', 'Sound+OR+Moving+Image', 21],
+            ['media_type', 'Moving+Image+OR+Sound', 21],
             ['media_type', 'Moving+Image', 12]
           ]
           assertions.each do |facet, value, value_count|
@@ -165,7 +177,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(24)
+          expect_count(25)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -219,7 +231,7 @@ describe 'Catalog' do
       describe 'sorting' do
         describe 'relevance sorting' do
           assertions = [
-            ['Iowa', ['Touchstone 108', 'Musical Encounter; 116; Music for Fun', 'Dr. Norman Borlaug; B-Roll']],
+            ['Iowa', ['Bob Brozman', 'Touchstone 108', 'Musical Encounter; 116; Music for Fun', 'Dr. Norman Borlaug; B-Roll']],
             ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
             ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll']]
           ]
@@ -275,6 +287,7 @@ describe 'Catalog' do
               end.join("\n")).to eq([
                 ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ'],
                 ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT'],
+                ['Program: Bob Brozman; Organization: Iowa Public Radio'],
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio'],
                 ['Title: Dry Spell', 'Organization: KQED'],
                 ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS'],
@@ -349,7 +362,13 @@ describe 'Catalog' do
     it 'has poster otherwise if media' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
       expect_all_the_text('clean-every-title-is-episode-number.xml')
-      expect_poster('cpb-aacip_37-16c2fsnr')
+      expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
+    end
+
+    it 'has default poster for audio that ' do
+      visit 'catalog/cpb-aacip_169-9351chfc'
+      expect_all_the_text('clean-audio-digitized.xml')
+      expect_audio(poster: '/thumbs/audio-digitized.jpg')
     end
 
     it 'apologizes if no access' do
@@ -363,7 +382,7 @@ describe 'Catalog' do
     it 'links to collection' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
       expect(page).to have_text('This record is featured in')
-      expect_poster('cpb-aacip_111-21ghx7d6')
+      expect_video(poster: s3_thumb('cpb-aacip_111-21ghx7d6'))
     end
 
     describe 'access control' do
@@ -390,7 +409,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_37-16c2fsnr'
         click_button('I agree')
         ENV.delete('RAILS_TEST_IP_ADDRESS')
-        expect_poster('cpb-aacip_37-16c2fsnr')
+        expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
       end
     end
   end

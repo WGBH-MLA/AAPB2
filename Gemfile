@@ -82,6 +82,7 @@ gem 'rspec', :group => :test
 gem 'rspec-rails', :group => :test
 gem 'capybara', :group => :test
 gem 'webmock', :group => :test
+gem 'launchy', :group => :test
 
 gem 'rubocop', :group => :development
 gem 'pry', :group => :development

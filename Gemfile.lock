@@ -127,6 +127,8 @@ GEM
     kaminari (0.16.3)
       actionpack (>= 3.0.0)
       activesupport (>= 3.0.0)
+    launchy (2.4.3)
+      addressable (~> 2.3)
     libv8 (3.16.14.13)
     logger (1.2.8)
     mail (2.5.4)
@@ -296,6 +298,7 @@ DEPENDENCIES
   jettywrapper (~> 1.7)
   jquery-rails
   jquery-turbolinks
+  launchy
   libv8 (~> 3.16.14.13)
   passenger
   pry
