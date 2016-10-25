@@ -36,12 +36,9 @@ scheduling an appointment is available [here](/on-location).
 
 AAPB staff are continuing to review the digitized content and add more material to the Online Reading Room. If you find something that is digitized but not available in the Online Reading Room, and you would like access to it, contact us and we will try to prioritize the review of this content.
 
-## Are all 68,000 items / 40,000 hours available in the Online Reading Room?
+## Can I access collection material that is not available in the Online Reading Room?
  
-No, the entire collection is not available in the Online Reading Room due to rights and other 
-legal restrictions; however, the AAPB Project Team has developed a strategy to 
-clear rights and analyze content in the collection in order to make as much 
-accessible in the Online Reading Room as possible. 
+The entire collection is not available in the Online Reading Room due to rights and other legal restrictions; however, the entire collection is available on location at WGBH and the Library of Congress. In addition, you may request limited remote research access to materials that are not available in the Online Reading Room provided that such access is only for bona fide research and scholarly purposes. To request limited research access, please contact us at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org). Please be aware that while AAPB staff will attempt to respond to your request(s) within three (3) business days, it may take longer, and that not all AAPB materials are eligible for Limited Research Access. If your request(s) are approved, you will receive an email response providing unique URL(s) and password(s) to the content you have requested.
 
 ## Since it's public media, isn't it in the public domain?
 
