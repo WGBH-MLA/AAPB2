@@ -10,8 +10,11 @@
   Biography: Biography
   Business: Business
   Consumer Affairs: Consumer Affairs and Advocacy
-  Cooking: Cooking
+  Cooking: Food and Cooking
+  Food: Food and Cooking
   Crafts: Crafts
+  Crime: Law Enforcement and Crime
+  Law Enforcement: Law Enforcement and Crime
   Dance: Dance
   Economics: Economics
   Education: Education
@@ -25,8 +28,8 @@
   Geography: Geography
   Global Affairs: Global Affairs
   World Affairs: Global Affairs
-  Politics: Politics
-  Government: Government
+  Politics: Politics and Government
+  Government: Politics and Government
   Health: Health
   History: History
   Holiday: Holiday
@@ -35,6 +38,7 @@
   Journalism: Journalism
   LGBT: LGBTQ
   Literature: Literature
+  Poetry: Literature
   Local Communities: Local Communities
   Recorded Music: Recorded Music
   Music: Music
@@ -48,6 +52,7 @@
   Religion: Religion
   Science: Science
   Social Issues: Social Issues
+  Spanish Language: Spanish Language
   Sports: Sports
   Technology: Technology
   Theater: Theater
@@ -56,4 +61,8 @@
   War : War and Conflict
   Weather: Weather
   Women: Women
+  Military Forces and Armaments: Military Forces and Armaments
+  Psychology: Psychology
+  Architecture: Architecture
+  Transportation: Transportation
   '': ''
