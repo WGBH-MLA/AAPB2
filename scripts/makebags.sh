@@ -40,3 +40,5 @@ for d in $(find $ingest -type d -maxdepth 1 -mindepth 1); do
 	find . -type d -maxdepth 1 -mindepth 1 -not -name "*.zip" -exec rm -R {} \;	
 
 done
+
+IFS=$SAVEIFS
