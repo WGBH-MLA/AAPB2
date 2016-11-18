@@ -1,6 +1,6 @@
 # Contribute content to the AAPB!
 
-**Last Modified: October 18, 2016**
+**Last Modified: November 7, 2016**
 
 The AAPB seeks to become a centralized web portal of discovery where researchers, educators, students – really anyone – can find 
 relevant public broadcasting programs existing either on our own site or on sites belonging to other archives and stations. 
@@ -107,13 +107,19 @@ Alternate Name: Advanced Video Codec
 
 Format profile: Main@L3.0
 
-Format settings, GOP: M=1, N=30 Bit rate: 711 Kbps
+Format settings, GOP: M=1, N=30 
 
-Width: 480 pixels
+Bit rate: 711 Kbps for SD; 1.5 mbps for HD
+
+Width: 480 pixels for SD; 640 pixels for HD
 
 Height: 360 pixels
 
-Display aspect ratio: 4:3 Color: YUV, 4:2:0, 8 bits Scan type: Progressive
+Display aspect ratio: 4:3 for SD; 16:9 for HD
+
+Color: YUV, 4:2:0, 8 bits 
+
+Scan type: Progressive
 
 Audio Codec: AAC 48.0 KHz / 128 Kbps
 
