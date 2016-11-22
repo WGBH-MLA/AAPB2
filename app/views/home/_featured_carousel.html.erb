@@ -3,7 +3,7 @@
                     id: 'featured-carousel', 
                     items: Featured.from_gallery(gallery)
                    } do |item| %>
-  <a href="<%= "/catalog/#{item.id}" %>" class="list-group-item" >
+  <a href="<%= "/catalog/#{item.id}" %>" data-no-turbolink="true" class="list-group-item" >
     <img src="<%= item.thumbnail_url %>" title="<%= item.name %>" alt="<%= item.name %>" />
     <span class="carousel-caption">
       <h3 class="list-group-item-heading"><%= item.name %></h3>
