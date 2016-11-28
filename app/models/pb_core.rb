@@ -102,6 +102,15 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
+  
+  def transcript(query)
+    caption = CaptionFile.new(id).srt
+
+    if caption.downcase.include?(query.downcase)
+      return "..." + query.to_s
+    end
+  end
+
   def img_src
     @img_src ||=
       case [media_type, digitized?]
