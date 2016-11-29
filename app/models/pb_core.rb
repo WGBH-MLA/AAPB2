@@ -103,7 +103,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     nil
   end
 
-  def transcript_from_query(query)
+  def captions_from_query(query)
     caption = Nokogiri::HTML(
       CaptionConverter.srt_to_html(CaptionFile.new(id).srt)).text
 

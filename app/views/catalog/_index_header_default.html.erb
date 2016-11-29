@@ -50,9 +50,9 @@
             <% if pbcore.captions_src != nil %>
 
               <dl class="clearfix">
-                <dt>Transcript</dt>
+                <dt>Captions</dt>
                 <dd><%= highlight(
-                          truncate(pbcore.transcript_from_query(params[:q]), length: 400, separator: '.'), 
+                          truncate(pbcore.captions_from_query(params[:q]), length: 400, separator: '.'), 
                         params[:q].split) %></dd>
               </dl>
 
