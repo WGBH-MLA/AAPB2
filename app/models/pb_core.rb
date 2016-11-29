@@ -102,12 +102,25 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
-  
-  def transcript(query)
-    caption = CaptionFile.new(id).srt
 
-    if caption.downcase.include?(query.downcase)
-      return "..." + query.to_s
+  def transcript_from_query(query)
+    caption = Nokogiri::HTML(
+      CaptionConverter.srt_to_html(CaptionFile.new(id).srt)).text
+
+    caption_dictionary = caption.upcase.split
+    query_dictionary = query.upcase.split
+
+    query_dictionary.each do |term|
+      if caption_dictionary.include?(term)
+        start = if (caption.index(term) - 200) > 0
+          then caption.index(term) - 200
+        else
+          0
+        end
+        return '...' + caption[start..-1] + '...'
+      else
+        return caption
+      end
     end
   end
 

@@ -47,6 +47,18 @@
               <dd><%= pbcore.organization.short_name %></dd>
             </dl>
 
+            <% if pbcore.captions_src != nil %>
+
+              <dl class="clearfix">
+                <dt>Transcript</dt>
+                <dd><%= highlight(
+                          truncate(pbcore.transcript_from_query(params[:q]), length: 400, separator: '.'), 
+                        params[:q].split) %></dd>
+              </dl>
+
+            <% end %>
+
+
           </div>
           <!-- END Column -->
         </div>
