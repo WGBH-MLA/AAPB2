@@ -3,19 +3,19 @@
   <% # header bar for doc items in index view -%>
   <div class="documentHeader media"><!-- Document Header -->
 
-        
+
         <!-- Start Grid -->
         <div class="row">
 
           <!-- START Column -->
           <div class="col-md-3">
-            
+
             <%= link_to(url_for_document(document))  do %>
-              <img src="<%= pbcore.img_src %>" 
-                   class="media-object" 
+              <img src="<%= pbcore.img_src %>"
+                   class="media-object"
                    alt="thumbnail of <%= pbcore.title %>" />
             <% end %>
-            
+
           </div>
           <!-- END Column -->
 
@@ -41,7 +41,7 @@
                 <dd><%= date %></dd>
               </dl>
             <% end %>
-              
+
             <dl class="clearfix">
               <dt>Organization</dt>
               <dd><%= pbcore.organization.short_name %></dd>
@@ -51,9 +51,11 @@
 
               <dl class="clearfix">
                 <dt>Captions</dt>
-                <dd><%= highlight(
-                          truncate(pbcore.captions_from_query(params[:q]), length: 400, separator: '.'), 
-                        params[:q].split) %></dd>
+                <dd>
+                  <%= highlight(
+                    truncate(pbcore.captions_from_query(params[:q]), length: 400, separator: '.'),
+                    params[:q].gsub(/[[:punct:]]/, '').split) %>
+                </dd>
               </dl>
 
             <% end %>

@@ -104,22 +104,22 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
 
   def captions_from_query(query)
-    caption = Nokogiri::HTML(
+    captions = Nokogiri::HTML(
       CaptionConverter.srt_to_html(CaptionFile.new(id).srt)).text
 
-    caption_dictionary = caption.upcase.split
+    captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
     query_dictionary = query.upcase.split
 
     query_dictionary.each do |term|
-      if caption_dictionary.include?(term)
-        start = if (caption.index(term) - 200) > 0
-          then caption.index(term) - 200
+      if captions_dictionary.include?(term)
+        start = if (captions.index(term) - 200) > 0
+          captions.index(term) - 200
         else
           0
         end
-        return '...' + caption[start..-1] + '...'
+        return '...' + captions[start..-1].to_s + '...'
       else
-        return caption
+        return captions
       end
     end
   end
