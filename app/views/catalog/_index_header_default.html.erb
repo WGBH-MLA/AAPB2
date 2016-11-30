@@ -53,8 +53,8 @@
                 <dt>Captions</dt>
                 <dd>
                   <%= highlight(
-                    truncate(pbcore.captions_from_query(params[:q]), length: 400, separator: '.'),
-                    params[:q].gsub(/[[:punct:]]/, '').split) %>
+                    truncate(pbcore.captions_from_query(@query_for_captions), length: 400, separator: '.'),
+                    @query_for_captions) %>
                 </dd>
               </dl>
 
