@@ -58,7 +58,7 @@ describe CaptionFile do
   describe 'catalog index displays highlighted captions in results' do
 
     let(:pb_core_document) {PBCore.new(File.read('spec/fixtures/pbcore/clean-has-captions.xml'))}
-    let(:srt_example) {File.read('./spec/fixtures/captions/srt/5678.srt1.srt')}
+    let(:srt_example) {File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt')}
 
     let(:query_with_punctuation) {'president, eisenhower: .;'}
     let(:query_with_stopwords) {'the president eisenhower stopworda '}
