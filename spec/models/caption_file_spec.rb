@@ -57,6 +57,7 @@ describe CaptionFile do
 
   describe 'catalog index displays highlighted captions in results' do
     let(:pb_core_document) { PBCore.new(File.read('spec/fixtures/pbcore/clean-has-captions.xml')) }
+    let(:caption_file) { CaptionFile.new(pb_core_document.id) }
     let(:srt_example) { File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt') }
 
     let(:query_with_punctuation) { 'president, eisenhower: .;' }
@@ -82,14 +83,14 @@ describe CaptionFile do
     end
 
     it 'returns the caption from the beginning if query word is within first 200 characters' do
-      caption = pb_core_document.captions_from_query(caption_query_one)
+      caption = caption_file.captions_from_query(caption_query_one)
 
       # .first returns the preceding '...'
       expect(caption.split[1]).to eq('male')
     end
 
-    xit 'truncates the begging of the caption if keyord is not within first 200 characters' do
-      caption = pb_core_document.captions_from_query(caption_query_two)
+    it 'truncates the begining of the caption if keyord is not within first 200 characters' do
+      caption = caption_file.captions_from_query(caption_query_two)
 
       # .first returns the preceding '...'
       expect(caption.split[1]).to eq('PUZZLING')
