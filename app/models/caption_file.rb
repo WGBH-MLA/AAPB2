@@ -29,16 +29,14 @@ class CaptionFile
     captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
 
     query.each do |term|
-      if captions_dictionary.include?(term)
-        start = if (captions.index(term) - 200) > 0
-          captions.index(term) - 200
-        else
-          0
-        end
-        return '...' + captions[start..-1].to_s + '...'
+      return captions if !captions_dictionary.include?(term)
+
+      start = if (captions.index(term) - 200) > 0
+        captions.index(term) - 200
       else
-        return captions
+          0
       end
+      return '...' + captions[start..-1].to_s + '...'
     end
   end
 

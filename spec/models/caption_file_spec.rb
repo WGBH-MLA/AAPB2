@@ -57,15 +57,15 @@ describe CaptionFile do
 
   describe 'catalog index displays highlighted captions in results' do
 
-    let(:pb_core_document) {PBCore.new(File.read('spec/fixtures/pbcore/clean-has-captions.xml'))}
-    let(:srt_example) {File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt')}
+    let(:pb_core_document) { PBCore.new(File.read('spec/fixtures/pbcore/clean-has-captions.xml')) }
+    let(:srt_example) { File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt') }
 
-    let(:query_with_punctuation) {'president, eisenhower: .;'}
-    let(:query_with_stopwords) {'the president eisenhower stopworda '}
-    let(:test_array) {['PRESIDENT', 'EISENHOWER']}
+    let(:query_with_punctuation) { 'president, eisenhower: .;' }
+    let(:query_with_stopwords) { 'the president eisenhower stopworda ' }
+    let(:test_array) { ['PRESIDENT', 'EISENHOWER'] }
 
-    let(:caption_query_one) {['LITTLE','ROCK']}
-    let(:caption_query_two) {['101ST', 'AIRBORNE']}
+    let(:caption_query_one) { ['LITTLE','ROCK'] }
+    let(:caption_query_two) { ['101ST', 'AIRBORNE'] }
 
     before do
       # Stub requests so we don't actually have to fetch them remotely. But note
