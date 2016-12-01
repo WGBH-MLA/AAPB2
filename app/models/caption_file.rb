@@ -29,13 +29,14 @@ class CaptionFile
     captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
 
     query.each do |term|
-      return captions if !captions_dictionary.include?(term)
+      return captions unless captions_dictionary.include?(term)
 
-      start = if (captions.index(term) - 200) > 0
-        captions.index(term) - 200
+      if (captions.index(term) - 200) > 0
+        start = captions.index(term) - 200
       else
-          0
+        start = 0
       end
+
       return '...' + captions[start..-1].to_s + '...'
     end
   end
@@ -47,7 +48,7 @@ class CaptionFile
       stopwords << line.upcase.strip
     end
 
-    query.upcase.gsub(/[[:punct:]]/, '').split.delete_if{|term| stopwords.include?(term)}
+    query.upcase.gsub(/[[:punct:]]/, '').split.delete_if { |term| stopwords.include?(term) }
   end
 
   def self.srt_url(id)

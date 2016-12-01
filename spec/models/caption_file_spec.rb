@@ -56,16 +56,15 @@ describe CaptionFile do
   end
 
   describe 'catalog index displays highlighted captions in results' do
-
     let(:pb_core_document) { PBCore.new(File.read('spec/fixtures/pbcore/clean-has-captions.xml')) }
     let(:srt_example) { File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt') }
 
     let(:query_with_punctuation) { 'president, eisenhower: .;' }
     let(:query_with_stopwords) { 'the president eisenhower stopworda ' }
-    let(:test_array) { ['PRESIDENT', 'EISENHOWER'] }
+    let(:test_array) { %w(PRESIDENT EISENHOWER) }
 
-    let(:caption_query_one) { ['LITTLE','ROCK'] }
-    let(:caption_query_two) { ['101ST', 'AIRBORNE'] }
+    let(:caption_query_one) { %w(LITTLE ROCK) }
+    let(:caption_query_two) { %w(101ST AIRBORNE) }
 
     before do
       # Stub requests so we don't actually have to fetch them remotely. But note
@@ -74,15 +73,15 @@ describe CaptionFile do
       WebMock.stub_request(:get, CaptionFile.srt_url(pb_core_document.id)).to_return(body: srt_example)
     end
 
-    xit 'removes punctuation from and capitalizes the user query' do
-      expect(PBCore.clean_query_for_captions(query_with_punctuation)).to eq(test_array)
+    it 'removes punctuation from and capitalizes the user query' do
+      expect(CaptionFile.clean_query_for_captions(query_with_punctuation)).to eq(test_array)
     end
 
-    xit 'uses stopwords.txt to remove words not used in actual search' do
-      expect(PBCore.clean_query_for_captions(query_with_stopwords)).to eq(test_array)
+    it 'uses stopwords.txt to remove words not used in actual search' do
+      expect(CaptionFile.clean_query_for_captions(query_with_stopwords)).to eq(test_array)
     end
 
-    xit 'returns the caption from the beginning if query word is within first 200 characters' do
+    it 'returns the caption from the beginning if query word is within first 200 characters' do
       caption = pb_core_document.captions_from_query(caption_query_one)
 
       # .first returns the preceding '...'
@@ -96,7 +95,6 @@ describe CaptionFile do
       expect(caption.split[1]).to eq('PUZZLING')
     end
   end
-
 
   after(:all) do
     # Re-disable WebMock so other tests can use actual connections.
