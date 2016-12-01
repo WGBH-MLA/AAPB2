@@ -1,7 +1,7 @@
 <pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
 <pbcoreIdentifier source="NOLA Code">LOYE 000000 [SDBA]</pbcoreIdentifier>
-<pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/111-02c8693q</pbcoreIdentifier>
-<pbcoreIdentifier source="Sony Ci">ca0532e2e15b400fa44bc93ca2a03035</pbcoreIdentifier>
+<pbcoreIdentifier source="http://americanarchiveinventory.org">5678</pbcoreIdentifier>
+<pbcoreIdentifier source="Sony Ci">a-32-digit-hex</pbcoreIdentifier>
 <pbcoreTitle titleType="Series">The Lost Year</pbcoreTitle>
 <pbcoreDescription>
 The "Lost Year" of 1958-59, is lesser known than the story that preceded it. But the Lost Year is a separate, equally significant historical episode. This documentary tells the untold story of the year following the 1957 crisis at Central High School.
@@ -28,149 +28,8 @@ The "Lost Year" of 1958-59, is lesser known than the story that preceded it. But
 </extensionWrap>
 </instantiationExtension>
 </pbcoreInstantiation>
-<pbcoreInstantiation>
-<instantiationIdentifier source="mediainfo">cpb-aacip-111-02c8693q.h264.mov</instantiationIdentifier>
-<instantiationDate dateType="encoded">2014-05-15</instantiationDate>
-<instantiationDigital>video/mp4</instantiationDigital>
-<instantiationStandard>QuickTime</instantiationStandard>
-<instantiationLocation>N/A</instantiationLocation>
-<instantiationMediaType>Moving Image</instantiationMediaType>
-<instantiationGenerations>Proxy</instantiationGenerations>
-<instantiationFileSize unitsOfMeasure="MiB">405</instantiationFileSize>
-<instantiationDataRate unitsOfMeasure="Kbps">854</instantiationDataRate>
-<instantiationTracks>1 video, 1 audio</instantiationTracks>
-<instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
-<instantiationEssenceTrack>
-<essenceTrackType>video</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="Kbps">719</essenceTrackDataRate>
-<essenceTrackFrameRate>29.970</essenceTrackFrameRate>
-<essenceTrackBitDepth>8</essenceTrackBitDepth>
-<essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
-<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
-<essenceTrackDuration>01:06:21</essenceTrackDuration>
-<essenceTrackLanguage>eng</essenceTrackLanguage>
-<essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
-<essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>audio</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="Kbps">128</essenceTrackDataRate>
-<essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
-<essenceTrackDuration>01:06:21</essenceTrackDuration>
-<essenceTrackLanguage>eng</essenceTrackLanguage>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>other</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">3</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">QuickTime TC</essenceTrackEncoding>
-<essenceTrackDuration>01:06:21</essenceTrackDuration>
-<essenceTrackLanguage>eng</essenceTrackLanguage>
-</instantiationEssenceTrack>
-<instantiationAnnotation annotationType="encoded by">Apple QuickTime</instantiationAnnotation>
-</pbcoreInstantiation>
-<pbcoreInstantiation>
-<instantiationIdentifier source="mediainfo">cpb-aacip-111-02c8693q.j2k.mxf</instantiationIdentifier>
-<instantiationDate dateType="encoded">2014-05-15</instantiationDate>
-<instantiationDigital>application/mxf</instantiationDigital>
-<instantiationStandard>OP-1a</instantiationStandard>
-<instantiationLocation>N/A</instantiationLocation>
-<instantiationMediaType>Moving Image</instantiationMediaType>
-<instantiationGenerations>Preservation Master</instantiationGenerations>
-<instantiationFileSize unitsOfMeasure="GiB">23</instantiationFileSize>
-<instantiationDataRate unitsOfMeasure="Mbps">50</instantiationDataRate>
-<instantiationTracks>1 video, 1 audio</instantiationTracks>
-<instantiationChannelConfiguration>4 channel</instantiationChannelConfiguration>
-<instantiationEssenceTrack>
-<essenceTrackType>video</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-<essenceTrackStandard>NTSC</essenceTrackStandard>
-<essenceTrackEncoding source="mediainfo" ref="http://www.morgan-multimedia.com/JPEG 2000/">JPEG 2000</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="Mbps">47</essenceTrackDataRate>
-<essenceTrackFrameRate>59.940</essenceTrackFrameRate>
-<essenceTrackBitDepth>8</essenceTrackBitDepth>
-<essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
-<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
-<essenceTrackDuration>01:06:20</essenceTrackDuration>
-<essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
-<essenceTrackAnnotation annotationType="subsampling">4:2:2</essenceTrackAnnotation>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>audio</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">PCM</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="Kbps">3072</essenceTrackDataRate>
-<essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
-<essenceTrackBitDepth>16</essenceTrackBitDepth>
-<essenceTrackDuration>01:06:20</essenceTrackDuration>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>other</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">0</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">SMPTE TC</essenceTrackEncoding>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>other</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">SMPTE TC</essenceTrackEncoding>
-<essenceTrackDuration>01:06:20</essenceTrackDuration>
-</instantiationEssenceTrack>
-<instantiationAnnotation annotationType="encoded by">
-Front Porch Digital J2K MXF Wrapper Based on MXFLib 1.0.1(13)-Beta
-</instantiationAnnotation>
-</pbcoreInstantiation>
-<pbcoreInstantiation>
-<instantiationIdentifier source="mediainfo">cpb-aacip-111-02c8693q.mpeg2.mxf</instantiationIdentifier>
-<instantiationDate dateType="encoded">2014-05-15</instantiationDate>
-<instantiationDigital>application/mxf</instantiationDigital>
-<instantiationStandard>OP-1a</instantiationStandard>
-<instantiationLocation>N/A</instantiationLocation>
-<instantiationMediaType>Moving Image</instantiationMediaType>
-<instantiationGenerations>Mezzanine</instantiationGenerations>
-<instantiationFileSize unitsOfMeasure="GiB">29</instantiationFileSize>
-<instantiationDataRate unitsOfMeasure="Mbps">63</instantiationDataRate>
-<instantiationTracks>1 video, 1 audio</instantiationTracks>
-<instantiationChannelConfiguration>4 channel</instantiationChannelConfiguration>
-<instantiationEssenceTrack>
-<essenceTrackType>video</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
-<essenceTrackStandard>NTSC</essenceTrackStandard>
-<essenceTrackEncoding source="mediainfo">MPEG-2 Video</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="Mbps">50</essenceTrackDataRate>
-<essenceTrackFrameRate>29.970</essenceTrackFrameRate>
-<essenceTrackBitDepth>8</essenceTrackBitDepth>
-<essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
-<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
-<essenceTrackDuration>01:06:21</essenceTrackDuration>
-<essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
-<essenceTrackAnnotation annotationType="subsampling">4:2:2</essenceTrackAnnotation>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>audio</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">3</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">PCM</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="Mbps">12</essenceTrackDataRate>
-<essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
-<essenceTrackBitDepth>16</essenceTrackBitDepth>
-<essenceTrackDuration>01:06:21</essenceTrackDuration>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>other</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">MXF TC</essenceTrackEncoding>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>other</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">SMPTE TC</essenceTrackEncoding>
-</instantiationEssenceTrack>
-<instantiationAnnotation annotationType="encoded by">OC OCTk 2.1</instantiationAnnotation>
-</pbcoreInstantiation>
 <pbcoreAnnotation annotationType="Captions URL">
-https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-111-02c8693q/cpb-aacip-111-02c8693q.srt1.srt
+https://s3.amazonaws.com/americanarchive.org/captions/5678/5678.srt1.srt
 </pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Level of User Access">On Location</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="last_modified">2013-06-01 16:19:40</pbcoreAnnotation>

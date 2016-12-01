@@ -29,7 +29,7 @@ describe 'API' do
       expect(page).to have_text('my_callback({ "responseHeader"')
       expect(page).to have_text('"rows": "0"')
       expect(page).to have_text('"year:1988 AND iowa": 1')
-      expect(page).to have_text('"numFound": 25')
+      expect(page).to have_text('"numFound": 26')
       expect(page).to have_text('"1981", 1, "1988", 1, "1990", 1, "2000", 1')
     end
 

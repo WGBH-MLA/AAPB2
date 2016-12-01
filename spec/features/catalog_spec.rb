@@ -110,7 +110,7 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 5],
           ['organization', 32, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 25]
+          ['access_types', 3, PBCore::ALL_ACCESS, 26]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
