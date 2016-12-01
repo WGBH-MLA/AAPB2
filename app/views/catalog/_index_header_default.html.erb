@@ -47,13 +47,13 @@
               <dd><%= pbcore.organization.short_name %></dd>
             </dl>
 
-            <% if pbcore.captions_src != nil %>
+            <% if params[:q] && pbcore.captions_src != nil %>
 
               <dl class="clearfix">
                 <dt>Captions</dt>
                 <dd>
                   <%= highlight(
-                    truncate(pbcore.captions_from_query(@query_for_captions), length: 400, separator: '.'),
+                    truncate(CaptionFile.new(pbcore.id).captions_from_query(@query_for_captions), length: 400, separator: '.'),
                     @query_for_captions) %>
                 </dd>
               </dl>
