@@ -31,11 +31,11 @@ class CaptionFile
     query.each do |term|
       return captions unless captions_dictionary.include?(term)
 
-      if (captions.index(term) - 200) > 0
-        start = captions.index(term) - 200
-      else
-        start = 0
-      end
+      start = if (captions.index(term) - 200) > 0
+                captions.index(term) - 200
+              else
+                0
+              end
 
       return '...' + captions[start..-1].to_s + '...'
     end
