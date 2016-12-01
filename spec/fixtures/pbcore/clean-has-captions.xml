@@ -1,6 +1,6 @@
 <pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
 <pbcoreIdentifier source="NOLA Code">LOYE 000000 [SDBA]</pbcoreIdentifier>
-<pbcoreIdentifier source="http://americanarchiveinventory.org">5678</pbcoreIdentifier>
+<pbcoreIdentifier source="http://americanarchiveinventory.org">1a2b</pbcoreIdentifier>
 <pbcoreIdentifier source="Sony Ci">a-32-digit-hex</pbcoreIdentifier>
 <pbcoreTitle titleType="Series">The Lost Year</pbcoreTitle>
 <pbcoreDescription>
@@ -29,7 +29,7 @@ The "Lost Year" of 1958-59, is lesser known than the story that preceded it. But
 </instantiationExtension>
 </pbcoreInstantiation>
 <pbcoreAnnotation annotationType="Captions URL">
-https://s3.amazonaws.com/americanarchive.org/captions/5678/5678.srt1.srt
+https://s3.amazonaws.com/americanarchive.org/captions/1a2b/1a2b.srt1.srt
 </pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Level of User Access">On Location</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="last_modified">2013-06-01 16:19:40</pbcoreAnnotation>
