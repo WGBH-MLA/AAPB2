@@ -23,7 +23,7 @@ class CaptionFile
   end
 
   def captions_from_query(query)
-    captions = Nokogiri::HTML(self.html).text
+    captions = Nokogiri::HTML(html).text
 
     captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
 
