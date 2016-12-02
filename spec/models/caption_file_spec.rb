@@ -53,7 +53,6 @@ describe CaptionFile do
   end
 
   describe '#captions_from_query' do
-
     it 'returns the caption from the beginning if query word is within first 200 characters' do
       caption = caption_file_2.captions_from_query(caption_query_one)
 
