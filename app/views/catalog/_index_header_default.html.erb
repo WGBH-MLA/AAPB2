@@ -47,7 +47,7 @@
               <dd><%= pbcore.organization.short_name %></dd>
             </dl>
 
-            <% if params[:q] && pbcore.captions_src != nil %>
+            <% if params[:q].present? && pbcore.captions_src != nil %>
               <% CaptionFile.new(pbcore.id).captions_from_query(@query_for_captions).tap do |caption| %>
 
                 <% if caption != nil %>
