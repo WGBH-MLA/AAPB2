@@ -150,6 +150,11 @@ class CatalogController < ApplicationController
     # the exhibit for additional display logic.
     @exhibit = exhibit_from_url
 
+    # Cleans up user query for manipulation of caption text in the view.
+    if params[:q]
+      @query_for_captions = CaptionFile.clean_query_for_captions(params[:q])
+    end
+
     if !params[:f] || !params[:f][:access_types]
       base_query = params.except(:action, :controller).to_query
       access = if current_user.onsite?

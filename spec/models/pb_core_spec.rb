@@ -1,5 +1,6 @@
 require_relative '../../lib/aapb'
 require_relative '../../app/models/validated_pb_core'
+require_relative '../../app/models/caption_file'
 
 describe 'Validated and plain PBCore' do
   pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')

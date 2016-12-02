@@ -102,6 +102,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
+
   def img_src
     @img_src ||=
       case [media_type, digitized?]

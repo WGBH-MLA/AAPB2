@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreIdentifier source="NOLA Code">LOYE 000000 [SDBA]</pbcoreIdentifier>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">1a2b</pbcoreIdentifier>
+  <pbcoreIdentifier source="Sony Ci">a-32-digit-hex</pbcoreIdentifier>
+  <pbcoreTitle titleType="Series">The Lost Year</pbcoreTitle>
+  <pbcoreDescription>
+    The "Lost Year" of 1958-59, is lesser known than the story that preceded it. But the Lost Year is a separate, equally significant historical episode. This documentary tells the untold story of the year following the 1957 crisis at Central High School.
+  </pbcoreDescription>
+  <pbcoreGenre source="AAPB Topical Genre" annotation="topic">Social Issues</pbcoreGenre>
+  <pbcoreGenre source="AAPB Topical Genre" annotation="topic">History</pbcoreGenre>
+  <pbcorePublisher>
+    <publisher>AETN</publisher>
+    <publisherRole>Distributor</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="Arkansas Ed. TV"/>
+    <instantiationLocation>AETN Room 63</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationTimeStart>00:00:00:00</instantiationTimeStart>
+    <instantiationDuration>00:59:34:00</instantiationDuration>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/2nd Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="Captions URL">
+    https://s3.amazonaws.com/americanarchive.org/captions/1a2b/1a2b.srt1.srt
+  </pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Level of User Access">On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="last_modified">2013-06-01 16:19:40</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Arkansas Educational TV Network (AETN)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

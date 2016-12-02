@@ -110,7 +110,7 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 5],
           ['organization', 32, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 25]
+          ['access_types', 3, PBCore::ALL_ACCESS, 26]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -155,9 +155,9 @@ describe 'Catalog' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
             ['media_type', 'Sound', 9],
-            ['media_type', 'Sound+OR+Moving+Image', 21],
-            ['media_type', 'Moving+Image+OR+Sound', 21],
-            ['media_type', 'Moving+Image', 12]
+            ['media_type', 'Sound+OR+Moving+Image', 22],
+            ['media_type', 'Moving+Image+OR+Sound', 22],
+            ['media_type', 'Moving+Image', 13]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -177,7 +177,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(25)
+          expect_count(26)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -293,6 +293,7 @@ describe 'Catalog' do
                 ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS'],
                 ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv'],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra'],
+                ['Series: The Lost Year', 'Organization: Arkansas Educational'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev'],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio'],
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH'],
