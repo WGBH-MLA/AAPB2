@@ -23,13 +23,12 @@ class CaptionFile
   end
 
   def captions_from_query(query)
-    captions = Nokogiri::HTML(
-      CaptionConverter.srt_to_html(CaptionFile.new(id).srt)).text
+    captions = Nokogiri::HTML(self.html).text
 
     captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
 
     query.each do |term|
-      return captions unless captions_dictionary.include?(term)
+      return nil unless captions_dictionary.include?(term)
 
       start = if (captions.index(term) - 200) > 0
                 captions.index(term) - 200

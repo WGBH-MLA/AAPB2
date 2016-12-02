@@ -48,18 +48,20 @@
             </dl>
 
             <% if params[:q] && pbcore.captions_src != nil %>
+              <% CaptionFile.new(pbcore.id).captions_from_query(@query_for_captions).tap do |caption| %>
 
-              <dl class="clearfix">
-                <dt>Captions</dt>
-                <dd>
-                  <%= highlight(
-                    truncate(CaptionFile.new(pbcore.id).captions_from_query(@query_for_captions), length: 400, separator: '.'),
-                    @query_for_captions) %>
-                </dd>
-              </dl>
-
+                <% if caption != nil %>
+                  <dl class="clearfix">
+                    <dt>Captions</dt>
+                    <dd>
+                      <%= highlight(
+                        truncate(caption, length: 400, separator: '.'),
+                        @query_for_captions) %>
+                    </dd>
+                  </dl>
+                <% end %>
+              <% end %>
             <% end %>
-
 
           </div>
           <!-- END Column -->
