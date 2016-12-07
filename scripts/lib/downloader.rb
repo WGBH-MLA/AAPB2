@@ -35,8 +35,9 @@ class Downloader
         :is_just_reindex # flags
       ])
     now = Time.now.strftime('%F_%T.%6N')
+    dirname ||= "#{now}"
+
     if opts[:query]
-      dirname = "#{now}"
       q = QueryMaker.translate(opts[:query])
       $LOG.info("Query solr for #{opts[:query]}")
       opts[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
@@ -44,7 +45,6 @@ class Downloader
       raise("Got back more than #{MAX_ROWS} from query") if opts[:ids].size > MAX_ROWS
     end
     if opts[:ids]
-      dirname ||= "#{now}"
       mkdir_and_cd(dirname)
       opts[:ids].each do |id|
         id = id.gsub(/[^[:ascii:]]/, '').gsub(/[^[:print:]]/, '')
@@ -63,9 +63,6 @@ class Downloader
         end
 
         Zipper.write("#{short_id}.pbcore", content)
-
-        # calls rm_rf on old download directories
-        clean_downloads_directory(dirname)
       end
     else
       opts[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
@@ -75,10 +72,13 @@ class Downloader
                 '20000101' # ie, beginning of time.
               end
 
-      mkdir_and_cd("#{now}")
+      mkdir_and_cd(dirname)
       downloader = Downloader.new(since)
       downloader.download_to_directory(opts[:page])
     end
+    # calls rm_rf on old download directories
+    clean_downloads_directory(dirname)
+
     Dir.pwd
   end
 
