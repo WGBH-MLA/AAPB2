@@ -7,6 +7,7 @@ require_relative 'zipper'
 require_relative 'null_logger'
 require_relative '../../lib/solr'
 require_relative 'query_maker'
+require 'pry'
 
 class Downloader
   MAX_ROWS = 10_000
@@ -27,6 +28,7 @@ class Downloader
   end
 
   def self.download_to_directory_and_link(opts = {})
+
     raise("Unexpected keys: #{opts}") unless Set.new(opts.keys).subset?(
       Set[
         :days, :page, :ids, :query, # modes
@@ -34,7 +36,7 @@ class Downloader
       ])
     now = Time.now.strftime('%F_%T.%6N')
     if opts[:query]
-      dirname = "#{now}_by_query_#{opts[:query].gsub(/\W+/, '-')}"
+      dirname = "#{now}"
       q = QueryMaker.translate(opts[:query])
       $LOG.info("Query solr for #{opts[:query]}")
       opts[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
@@ -42,7 +44,7 @@ class Downloader
       raise("Got back more than #{MAX_ROWS} from query") if opts[:ids].size > MAX_ROWS
     end
     if opts[:ids]
-      dirname ||= "#{now}_by_ids_#{opts[:ids].size}"
+      dirname ||= "#{now}"
       mkdir_and_cd(dirname)
       opts[:ids].each do |id|
         id = id.gsub(/[^[:ascii:]]/, '').gsub(/[^[:print:]]/, '')
@@ -59,7 +61,11 @@ class Downloader
                     $LOG.info("Downloading #{url}")
                     Downloader.http_get(url)
         end
+
         Zipper.write("#{short_id}.pbcore", content)
+
+        # calls rm_rf on old download directories
+        clean_downloads_directory(dirname)
       end
     else
       opts[:page] ||= 1 # API is 1-indexed, but also returns page 1 results for page 0.
@@ -68,7 +74,8 @@ class Downloader
               else
                 '20000101' # ie, beginning of time.
               end
-      mkdir_and_cd("#{now}_since_#{since}_starting_page_#{opts[:page]}")
+
+      mkdir_and_cd("#{now}")
       downloader = Downloader.new(since)
       downloader.download_to_directory(opts[:page])
     end
@@ -97,6 +104,9 @@ class Downloader
   def download_to_directory(start_page)
     download(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
+
+      # Need code to clean out directory
+
       Zipper.write(name, collection)
       $LOG.info("Wrote #{File.join([Dir.pwd, name])}")
     end
@@ -124,5 +134,16 @@ class Downloader
         page += 1
       end
     end
+  end
+
+  def self.clean_downloads_directory(dirname)
+    old_dirs = []
+    path = "#{Rails.root}/tmp/downloads"
+
+    Dir.glob("#{path}/**").each do |dir|
+      old_dirs << dir unless dir == "#{path}/#{dirname}" || dir == "#{path}/LATEST"
+    end
+
+    FileUtils.rm_rf(old_dirs)
   end
 end
