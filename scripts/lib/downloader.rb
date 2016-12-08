@@ -101,6 +101,17 @@ class Downloader
     Dir.chdir(link_name)
   end
 
+  def self.clean_downloads_directory(dirname)
+    old_dirs = []
+    path = "#{Rails.root}/tmp/downloads"
+
+    Dir.glob("#{path}/**").each do |dir|
+      old_dirs << dir unless dir == "#{path}/#{dirname}" || dir == "#{path}/LATEST"
+    end
+
+    FileUtils.rm_rf(old_dirs)
+  end
+
   def download_to_directory(start_page)
     download(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
@@ -111,6 +122,8 @@ class Downloader
       $LOG.info("Wrote #{File.join([Dir.pwd, name])}")
     end
   end
+
+  private
 
   def download(page)
     loop do
@@ -134,16 +147,5 @@ class Downloader
         page += 1
       end
     end
-  end
-
-  def self.clean_downloads_directory(dirname)
-    old_dirs = []
-    path = "#{Rails.root}/tmp/downloads"
-
-    Dir.glob("#{path}/**").each do |dir|
-      old_dirs << dir unless dir == "#{path}/#{dirname}" || dir == "#{path}/LATEST"
-    end
-
-    FileUtils.rm_rf(old_dirs)
   end
 end
