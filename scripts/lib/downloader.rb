@@ -7,7 +7,6 @@ require_relative 'zipper'
 require_relative 'null_logger'
 require_relative '../../lib/solr'
 require_relative 'query_maker'
-require 'pry'
 
 class Downloader
   MAX_ROWS = 10_000
@@ -22,7 +21,7 @@ class Downloader
     since = if opts.key?(:days)
               (Time.now - opts[:days] * 24 * 60 * 60).strftime('%Y%m%d')
             else
-              '20000101' #ie, beginning of time.
+              '20000101' # ie, beginning of time.
             end
     check_since(since)
 
@@ -34,9 +33,7 @@ class Downloader
   def run
     mkdir_and_cd(@options[:dirname])
 
-    if @options[:query]
-      process_query(@options[:query])
-    end
+    process_query(@options[:query]) if @options[:query]
 
     if @options[:ids]
       download_ids_to_directory(@options[:ids])
@@ -85,8 +82,6 @@ class Downloader
     download_by_page(start_page) do |collection, page|
       name = "page-#{page}.pbcore"
 
-      # Need code to clean out directory
-
       Zipper.write(name, collection)
       $LOG.info("Wrote #{File.join([Dir.pwd, name])}")
     end
@@ -114,8 +109,11 @@ class Downloader
     q = QueryMaker.translate(query)
     $LOG.info("Query solr for #{query}")
 
-    @options[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params: {
-                                                                         q: q, fl: 'id', rows: MAX_ROWS })['response']['docs'].map { |doc| doc['id'] }
+    @options[:ids] = RSolr.connect(url: 'http://localhost:8983/solr/')
+                          .get('select',
+                               params: { q: q, fl: 'id', rows: MAX_ROWS }
+                              )['response']['docs'].map { |doc| doc['id'] }
+
     raise("Got back more than #{MAX_ROWS} from query") if @options[:ids].size > MAX_ROWS
   end
 

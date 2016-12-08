@@ -8,8 +8,7 @@ describe Downloader do
     Dir.mktmpdir do |tmpdir|
       Dir.chdir(tmpdir) do |dir|
         count_before = Dir.entries(dir).count
-        days = 7 # There should be some new records in the past week.
-        Downloader.new({ :days => 7}).run
+        Downloader.new(days: 7).run # There should be some new records in the past week.
         count_after = Dir.entries(dir).count
 
         expect(count_before).to eq(2) # . and ..
