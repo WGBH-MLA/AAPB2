@@ -41,7 +41,6 @@ class LinkChecker
     curl.follow_location = true
     curl.max_redirects = 1
     curl.useragent = 'Ruby/Curb'
-    curl.ssl_verify_peer = false
     curl.http_get
 
     code = curl.response_code
