@@ -8,12 +8,11 @@ describe Downloader do
     Dir.mktmpdir do |tmpdir|
       Dir.chdir(tmpdir) do |dir|
         count_before = Dir.entries(dir).count
-        days = 7 # There should be some new records in the past week.
-        Downloader.new((Time.now - days * 24 * 60 * 60).strftime('%Y%m%d')).download_to_directory(1)
+        Downloader.new(days: 7).run # There should be some new records in the past week.
         count_after = Dir.entries(dir).count
 
         expect(count_before).to eq(2) # . and ..
-        expect(count_after).to be > 2
+        expect(count_after).to eq(2)
       end
     end
   end
@@ -28,9 +27,9 @@ describe Downloader do
   end
 
   it 'downloads by id' do
-    dir = Downloader.download_to_directory_and_link(ids: [0.chr + 'cpb-aacip/17-00000qrv' + 160.chr])
+    dir = Downloader.new(ids: [0.chr + 'cpb-aacip/17-00000qrv' + 160.chr]).run
     # 0.chr and 160.chr to make sure we strip weird characters.
-    expect(dir).to match(/\d{4}-\d{2}-\d{2}.*_by_ids_1/)
+    expect(dir).to match(/\d{4}-\d{2}-\d{2}/)
     files = Dir["#{dir}/*.pbcore.zip"]
     expect(files.map { |f| f.sub(/.*\//, '') }).to eq(['17-00000qrv.pbcore.zip'])
     expect(Zipper.read(files.first)).to match(/<pbcoreIdentifier source="http:\/\/americanarchiveinventory.org">cpb-aacip\/17-00000qrv/)

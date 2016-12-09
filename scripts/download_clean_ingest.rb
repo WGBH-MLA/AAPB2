@@ -28,9 +28,9 @@ class DownloadCleanIngest
   end
 
   def download(opts)
-    [Downloader.download_to_directory_and_link(
+    [Downloader.new(
       { is_just_reindex: @is_just_reindex }.merge(opts)
-    )]
+    ).run]
   end
 
   def initialize(argv)
