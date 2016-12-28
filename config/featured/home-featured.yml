@@ -2,23 +2,26 @@
 # If the image is sitting in the expected place on the media server,
 # "thumbnail_url" can be omitted.
 
-- id: cpb-aacip_15-4947dkg7
-  org_name: WGBH
-  name: "Discussion of Silent Spring by Rachel Carson"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-  
 - id: cpb-aacip_221-0322853m
   org_name: PBS SoCal
   name: "Equal Rights Amendment: Is it Necessary?"
   
+- id: cpb-aacip_298-01bk3p15
+  org_name: New Hampshire Public Television
+  name: "Ken Burns and the Making of His Documentary 'The Civil War'"
+  
 - id: cpb-aacip_28-3n20c4st80
   org_name: Pacifica Radio Archives
-  name: "Homosexual in our Society"
+  name: "Homosexual in our Society (1958)"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
-- id: cpb-aacip_375-375tb7ch
-  org_name: Radio Bilingue
-  name: "Primera Transmision de Radio Bilingue"
+- id: cpb-aacip_304-579s52r5
+  org_name: WUSF
+  name: "Superbugs: The Killer Viruses"
+  
+- id: cpb-aacip_28-3n20c4st80
+  org_name: Pacifica Radio Archives
+  name: "Homosexual in our Society (1958)"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
 - id: cpb-aacip_322-04dnck6t
@@ -59,42 +62,49 @@
   name: "Interview with Margaret Chase Smith"
   
 - id: cpb-aacip_500-804xms5g
-  org_name: University of Maryland
+  org_name: WDET for the National Association of Educational Broadcasters
   name: "Portrait of the American: Who Are We As Americans?"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
 - id: cpb-aacip_500-9z90dj38
-  org_name: University of Maryland 
+  org_name: WUOM for the National Association of Educational Broadcasters 
   name: "The American Town: A Self-Portrait; Lancaster County, Pennsylvania"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
 - id: cpb-aacip_500-dz03342k
-  org_name: University of Maryland
-  name: "Public Broadcasting Act of 1967"
+  org_name: National Association of Educational Broadcasters
+  name: "Panel Discussion on the Public Broadcasting Act of 1967"
   thumbnail_url: /thumbs/audio-digitized.jpg
+  
+- id: cpb-aacip_15-qn5z60c97r
+  org_name: WGBH
+  name: "Harvard Law Student Barack Obama Defends Professor at Rally"
   
 - id: cpb-aacip_305-36tx99jd
   org_name: New England Public Radio
   name: "Lecture by Professor Howard Zinn on 'The New Student Radicalism'"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
+  - id: cpb-aacip_15-b853f4kv16 
+  org_name: WGBH
+  name: "Interview with Nguyen Cao Ky"
+  
 - id: cpb-aacip_81-48sbchx0
   org_name: WNED
   name: "Woman; Women's Health Care: A History"
+  
+- id: cpb-aacip_15-9fj29c7n
+  org_name: WGBH
+  name: "Interview with Presidential Candidate George Wallace"
   
 - id: cpb-aacip_153-44bp0159
   org_name: Oregon Public Broadcasting
   name: "Henry Kissinger on Foreign Affairs"
   thumbnail_url: /thumbs/audio-digitized.jpg
   
-- id: cpb-aacip_283-52j6qc43
-  org_name: KCTS 9
-  name: "National Parks: Northwest Stories; Big Dam Deal"
-  
-- id: cpb-aacip_506-7p8tb0zb8g
-  org_name: James F. Voegeli
-  name: "Remembering Aldo Leopold"
-  thumbnail_url: /thumbs/audio-digitized.jpg
+- id: cpb-aacip_16-322bvw0h
+  org_name: WILL Illinois Public Media
+  name: "Access to Life: Perspectives on the Americans with Disabilities Act"
   
 - id: cpb-aacip_507-gf0ms3kn9k
   org_name: NewsHour Productions
@@ -102,13 +112,25 @@
   
 - id: cpb-aacip_15-03qv9zz4
   org_name: WGBH
-  name: "William F. Buckley and Rev. William Sloan Coffin Debate"
+  name: "Debate on the Women's Liberation Movement Between Germaine Greer and William F. Buckley"
   thumbnail_url: /thumbs/audio-digitized.jpg
+  
+- id: cpb-aacip_153-472v749x
+  org_name: Oregon Public Broadcasting
+  name: "Speech by President George W. Bush in Portland, Oregon"
   
 - id: cpb-aacip_80-3976j2zq
   org_name: WNYC
   name: "Works Progress Administration: The Big Blow"
   thumbnail_url: /thumbs/audio-digitized.jpg
+  
+- id: cpb-aacip_88-23vt4dfp
+  org_name: KRCB
+  name: "En Camino: Latino Artists"
+  
+- id: cpb-aacip_37-20sqvcx0
+  org_name: Iowa Public Television
+  name: "President Nixon's Visit to Iowa in 1971"
   
 - id: cpb-aacip_260-42n5tgf3
   org_name: Wyoming PBS
@@ -118,7 +140,14 @@
   org_name: Mississippi Public Broadcasting
   name: "Conversations: International Museum of Muslim Cultures"
   
-- id: cpb-aacip_28-3x83j39907
-  org_name: Pacifica Radio Archives
-  name: "Women Speak Out Against Fascism"
-  thumbnail_url: /thumbs/audio-digitized.jpg
+ - id: cpb-aacip_41-881jxfq8
+  org_name: South Carolina ETV
+  name: "Interview with Governor Bill Clinton of Arkansas"
+  
+- id: cpb-aacip_37-97kps40n
+  org_name: Iowa Public Television
+  name: "Interview with Presidential Candidate Rev. Jesse Jackson"
+  
+- id: cpb-aacip_15-hd7np1wp4c
+  org_name: WGBH
+  name: "Michael Dukakis Declares Presidential Candidacy"
