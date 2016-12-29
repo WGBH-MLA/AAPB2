@@ -6,10 +6,6 @@
   org_name: PBS SoCal
   name: "Equal Rights Amendment: Is it Necessary?"
   
-- id: cpb-aacip_298-01bk3p15
-  org_name: New Hampshire Public Television
-  name: "Ken Burns and the Making of His Documentary 'The Civil War'"
-  
 - id: cpb-aacip_28-3n20c4st80
   org_name: Pacifica Radio Archives
   name: "Homosexual in our Society (1958)"
@@ -108,15 +104,6 @@
 - id: cpb-aacip_153-472v749x
   org_name: Oregon Public Broadcasting
   name: "Speech by President George W. Bush in Portland, Oregon"
-  
-- id: cpb-aacip_80-3976j2zq
-  org_name: WNYC
-  name: "Works Progress Administration: The Big Blow"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-  
-- id: cpb-aacip_88-23vt4dfp
-  org_name: KRCB
-  name: "En Camino: Latino Artists"
   
 - id: cpb-aacip_37-20sqvcx0
   org_name: Iowa Public Television
