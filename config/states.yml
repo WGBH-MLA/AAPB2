@@ -47,9 +47,15 @@
   abbreviation: AR
 
 - state: California
+  blurb_fill:
+    naeb_station: KPPC
+  blurb_md: *naeb_blurb
   abbreviation: CA
 
 - state: Colorado
+  blurb_fill:
+    naeb_station: University of Denver
+  blurb_md: *naeb_blurb
   abbreviation: CO
 
 - state: Connecticut
@@ -59,6 +65,9 @@
   abbreviation: DE
 
 - state: Florida
+  blurb_fill:
+    naeb_station: University of Florida
+  blurb_md: *naeb_blurb
   abbreviation: FL
 
 - state: Georgia
@@ -71,12 +80,21 @@
   abbreviation: ID
 
 - state: Illinois
+  blurb_fill:
+    naeb_station: U. of Chicago
+  blurb_md: *naeb_blurb
   abbreviation: IL
 
 - state: Indiana
+  blurb_fill:
+    naeb_station: WBAA
+  blurb_md: *naeb_blurb
   abbreviation: IN
 
 - state: Iowa
+  blurb_fill:
+    naeb_station: WSUI
+  blurb_md: *naeb_blurb
   abbreviation: IA
 
 - state: Kentucky
@@ -95,6 +113,9 @@
   abbreviation: MA
 
 - state: Michigan
+  blurb_fill:
+    naeb_station: WUOM
+  blurb_md: *naeb_blurb
   abbreviation: MI
 
 - state: Minnesota
@@ -125,12 +146,18 @@
   abbreviation: NM
 
 - state: New York
+  blurb_fill:
+    naeb_station: WRVR
+  blurb_md: *naeb_blurb
   abbreviation: NY
 
 - state: North Carolina
   abbreviation: NC
 
 - state: Ohio
+  blurb_fill:
+    naeb_station: WMUB
+  blurb_md: *naeb_blurb
   abbreviation: OH
 
 - state: Oklahoma
@@ -140,6 +167,9 @@
   abbreviation: OR
 
 - state: Pennsylvania
+  blurb_fill:
+    naeb_station: WDUQ
+  blurb_md: *naeb_blurb
   abbreviation: PA
 
 - state: Rhode Island
@@ -176,6 +206,9 @@
   abbreviation: WY
 
 - state: DC
+  blurb_fill:
+    naeb_station: Georgetown Forum
+  blurb_md: *naeb_blurb
   abbreviation: DC
 
 - state: Guam
