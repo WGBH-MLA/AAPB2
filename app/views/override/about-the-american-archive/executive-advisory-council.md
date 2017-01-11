@@ -44,18 +44,6 @@ Ms. Courtney started her career in broadcasting as a capitol correspondent, repo
 
 Ms. Courtney is married to Bob Courtney, President of Courtney Communications. She is the proud mother of one daughter, Julia who is an attorney and mother of Andrew and Virginia.
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Gwen_Ifill.jpg"/>
-### Gwen Ifill
-Gwen Ifill is moderator and managing editor of "Washington Week" and co-anchor and managing editor of the "PBS NewsHour."  
-
-She is also the best-selling author of "The Breakthrough: Politics and Race in the Age of Obama." She has covered seven Presidential campaigns and moderated the vice presidential debates in 2004 and 2008.
-
-Before joining PBS in 1999, Gwen was chief congressional and political correspondent for NBC News, White House correspondent for The New York Times, and a local and national political reporter for The Washington Post. She also reported for the Baltimore Evening Sun and the Boston Herald American. 
-
-A native of New York City and a graduate of Simmons College in Boston, Ifill has received more than twenty honorary doctorates. She has also been honored for her work by the Radio and Television News Directors Association, Harvard's Joan Shorenstein Center, The National Association of Black Journalists, Ohio University, and was included in Ebony Magazine's list of 150 Most Influential African Americans. She most recently received the Al Neuharth Award for Excellence in Journalism.
-
-She also serves on the board of the News Literacy Project, on the advisory board of the Committee to Protect Journalists and is a fellow of the American Academy of Arts and Sciences.
-
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Norman_Lear.jpg"/>
 ### Norman Lear
 Norman Lear has enjoyed a long career in television and film, and as a political and social activist and philanthropist.
