@@ -11,7 +11,7 @@
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/>
 
-### [Alan Gevinson](/about-the-american-archive/staff#alan-gevinson)
+### Alan Gevinson
 AAPB Project Director, Library of Congress
 
 ## Resources
