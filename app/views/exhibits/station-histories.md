@@ -11,7 +11,7 @@ Every public broadcasting station starts their history with a first broadcast, b
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
 
-### [Sadie Roosa](/about-the-american-archive/staff#sadie-roosa)
+### Sadie Roosa
 AAPB Metadata Specialist
 
 ## Resources
