@@ -53,6 +53,14 @@ class Exhibit < Cmless
     doc.inner_html
   end
 
+  def extended_html
+    doc = Nokogiri::HTML::DocumentFragment.parse(@extended_html)
+    doc.search('img').each do |image|
+     image['class'] = 'pull-right'
+    end
+    doc.inner_html
+  end
+
   def items
     @items ||= begin
       doc = Nokogiri::HTML(summary_html + extended_html + main_html + head_html)
