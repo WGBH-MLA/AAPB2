@@ -1,16 +1,16 @@
-# Notes 
+# Notes
 
 3
 
 ## Summary
 
-<a name="1"></a><sup>1</sup> Carnegie Commission on Educational Television, *Public television, a program for action: the report and recommendations of the Carnegie Commission on Educational Television*, (New York: Harper & Row, 1967), 92. 
+<a name="1"></a><sup>1</sup> Carnegie Commission on Educational Television, *Public television, a program for action: the report and recommendations of the Carnegie Commission on Educational Television*, (New York: Harper & Row, 1967), 92.
 
-<a name="2"></a><sup>2</sup> Edwards v. South Carolina, 372 U.S. 237 (1963). 
+<a name="2"></a><sup>2</sup> Edwards v. South Carolina, 372 U.S. 237 (1963).
 
 <a name ="3"></a><sup>3</sup> “The Sit-ins and the New South,” 1960-09-12, Pacifica Radio Archives, American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC, accessed December 1, 2016, http://americanarchive.org/catalog/cpb-aacip_28-br8mc8rr6z.
 
-<a name="4"></a><sup>4</sup> Hamilton, Neil A., ed., “Postwar United States,” in *Rebels and Renegades: A Chronology of Social and Political Dissent in the United States*, (New York: Routledge, 2002), 232. 
+<a name="4"></a><sup>4</sup> Hamilton, Neil A., ed., “Postwar United States,” in *Rebels and Renegades: A Chronology of Social and Political Dissent in the United States*, (New York: Routledge, 2002), 232.
 
 <a name="5"></a><sup>5</sup> Maurice Isserman and Michael Kazin, *America Divided: The Civil War of the 1960s*, (New York: Oxford University Press, 2000), 172.
 
@@ -22,4 +22,6 @@
 
 <a name="9"></a><sup>9</sup> Lauren F. Winner, “Reaganizing Religion: Changing Political and Cultural Norms Among Evangelicals in Ronald Reagan’s America,” in *Living in the Eighties*, ed. Gil Troy and Vincent J. Cannato, (New York: Oxford University Press, 2009), 181-198.
 
-<a name="10"></a><sup>10</sup> Benjamin Kline, *First Along the River: A Brief History of the U.S. Environmental Movement,* (New York: Rowman and Littlefield Publishers, 2011), 122. 
+<a name="10"></a><sup>10</sup> Benjamin Kline, *First Along the River: A Brief History of the U.S. Environmental Movement,* (New York: Rowman and Littlefield Publishers, 2011), 122.
+
+## Main

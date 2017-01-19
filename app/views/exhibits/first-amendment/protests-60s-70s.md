@@ -2,20 +2,15 @@
 
 1
 
-## Table of Contents
-  * [The Fight Against Racism and Injustice](#chapter-1)
-  * [The New Left: Student Protests, Vietnam, and Women’s Liberation](#chapter-2)
-  
 ## Summary
 
 When discussing the role of protests in America, it seems fitting to begin in the 1960s— one of the most contentious decades in living memory. The decade that began with the protests of the civil rights movement would end in a wave of activism by students, marginalized communities, and women that continued into the mid 1970s. As one historian put it,
 
+> **"In the 1960s, dissents shook the very foundation of U.S. civil society." [<sup>4</sup>](/exhibits/first-amendment/notes#4)**
 
-> **"In the 1960s, dissents shook the very foundation of U.S. civil society." [<sup>4</sup>](/exhibits/first-amendment/notes#4)** 
 
+### The Fight Against Racism and Injustice <a id="chapter-1"></a>
 
-### The Fight Against Racism and Injustice <a id="chapter-1"></a> 
- 
 Jump to [Top of Page](#beginning)
 
 Jump to [The New Left: Student Protests, Vietnam, and Women’s Liberation](#chapter-2)
@@ -45,9 +40,9 @@ The Red Power movement and the Chicano movement also fought against racism and s
 - 1966—[Cesar Chavez speaks on the Delano Grape Strike](/catalog/cpb-aacip_28-j09w08ws8t)
 - 1968—[Rally for the Oakland Seven](/catalog/cpb-aacip_28-ft8df6kf9j)
 - 1969—[Radio Free Alcatraz](/catalog/cpb-aacip_28-q23qv3cj2p)
-- 1970—[The Chicano moratorium](/catalog/cpb-aacip_28-6t0gt5fp55) 
+- 1970—[The Chicano moratorium](/catalog/cpb-aacip_28-6t0gt5fp55)
 - 1972—[Cecil Williams and Angela Davis Speak](/catalog/cpb-aacip_28-833mw28n8t)
-- 1973—[The road to Wounded Knee I: conditions at Pine Ridge (Part 1 of 5)](/catalog/cpb-aacip_28-bz6154f24n)   
+- 1973—[The road to Wounded Knee I: conditions at Pine Ridge (Part 1 of 5)](/catalog/cpb-aacip_28-bz6154f24n)
 - 1978—[The Longest Walk](/catalog/cpb-aacip_43-84zgn7fb)
 
 
@@ -56,7 +51,7 @@ The Red Power movement and the Chicano movement also fought against racism and s
 
 - [The Civil Rights Act of 1964: A Long Struggle for Freedom](http://www.loc.gov/exhibits/civil-rights-act/): This exhibit by the Library of Congress “explores the events that shaped the civil rights movement, as well as the far-reaching impact the act had on a changing society.” The exhibition includes “archival footage of the era, as well as contemporary interviews with civil rights leaders and activists reflecting on the civil rights era.”
 
-- [The Civil Rights Movement in The Bay Area](https://www.google.com/culturalinstitute/beta/exhibit/ARtzEd5p): This exhibit from the Bancroft Library at the University of California, Berkeley documents the civil rights movement within California “through photographs and news stories from the News-Call Bulletin Newspaper during the period 1960-1965." 
+- [The Civil Rights Movement in The Bay Area](https://www.google.com/culturalinstitute/beta/exhibit/ARtzEd5p): This exhibit from the Bancroft Library at the University of California, Berkeley documents the civil rights movement within California “through photographs and news stories from the News-Call Bulletin Newspaper during the period 1960-1965."
 
 - [Voices of Civil Rights](https://www.loc.gov/exhibits/civilrights/index.html): Through images and quotes, this exhibit by the Library of Congress provides insight into the individual voices of the civil rights movement.
 
@@ -78,7 +73,7 @@ The growth of the New Left and student radicalism began in the early 1960s and r
 
 The women’s liberation movement also gained renewed energy and force in the late 1960s and early 1970s as women fought for equal pay, equal treatment, and new opportunities. A vivid piece of this history is found in this recording of a [1973 celebration](/catalog/cpb-aacip_27-j678s4k46n) of International Women’s Day, in speeches by [Equal Rights Amendment supporters](/catalog/cpb-aacip_43-4m91834b61) and in this recording of 1970s rally by women fighting to gain [child care support](/catalog/cpb-aacip_43-hx15m62n07).
 
-During the late 1960s and the 1970s, gay and lesbian activism also flourished in the form of parades and demonstrations as activists and supporters protested the stigmatization of the gay community, demanded equal rights, and celebrated their identities. 1969 would prove especially momentous, as the Stonewall uprising in New York City propelled activists around the United States into action and prompted annual pride parades. Be sure to check out this resource, from the New York Public Library, to learn more: [1969: The Year of Gay Liberation](/catalog/http://web-static.nypl.org/exhibitions/1969/year.html). 
+During the late 1960s and the 1970s, gay and lesbian activism also flourished in the form of parades and demonstrations as activists and supporters protested the stigmatization of the gay community, demanded equal rights, and celebrated their identities. 1969 would prove especially momentous, as the Stonewall uprising in New York City propelled activists around the United States into action and prompted annual pride parades. Be sure to check out this resource, from the New York Public Library, to learn more: [1969: The Year of Gay Liberation](/catalog/http://web-static.nypl.org/exhibitions/1969/year.html).
 
 Protests against the war in Vietnam loomed large in New Left activities, drawing crowds of students, non-students, radicals, and moderates who agreed that the conflict should end. Protests against the Vietnam War began to gain prominence in 1965 on college campuses and around the United States, eventually garnering national attention in the following two years. Some civil rights leaders, such as Martin Luther King Jr. and James Bevel, also joined the antiwar movement. In an anti-war protest in April of 1967, King and other members of a broad coalition called Spring Mobilization Committee to End the War in Vietnam helped to lead [a march of 300,000](/catalog/cpb-aacip_15-hd7np1wp9x) anti-war protesters in New York City. Hispanic community leaders, in events like the [Chicano Moratorium](/catalog/cpb-aacip_28-6t0gt5fp55), and black community leaders also protested that the war had a greater impact in terms of deaths and suffering on their communities.
 
