@@ -47,7 +47,7 @@ In the past two decades, new technology has revolutionized the revolutionaries, 
 ##### New Technology and Activism
 - 2009—[Center for New Words; Media and Movements](/catalog/cpb-aacip_15-1z41r6n33w)
 - 2009—[Feminist Blogging: From Journalism to Activism](/catalog/cpb-aacip_15-st7dr2pn78)
-- 2010—[Center for New Words; Leveraging Social Media to Create Social Change](cpb-aacip_15-tx3513v769)
+- 2010—[Center for New Words; Leveraging Social Media to Create Social Change](/catalog/cpb-aacip_15-tx3513v769)
 
 #### Keep Exploring— More Online Exhibits:
 

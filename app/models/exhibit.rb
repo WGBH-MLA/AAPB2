@@ -56,7 +56,7 @@ class Exhibit < Cmless
   def extended_html
     doc = Nokogiri::HTML::DocumentFragment.parse(@extended_html)
     doc.search('img').each do |image|
-     image['class'] = 'pull-right'
+      image['class'] = 'pull-right'
     end
     doc.inner_html
   end

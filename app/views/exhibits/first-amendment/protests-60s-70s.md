@@ -111,7 +111,7 @@ From 1968 to 1970, protests continued in force as events like the Tet Offensive,
 ##### Women’s Movement
 - 1970s—[U of M Child Care Rally](/catalog/cpb-aacip_43-hx15m62n07)
 - 1973—[International Woman’s Day](/catalog/cpb-aacip_27-j678s4k46n)
-- 1975—[Supporters of ERA Outline the Benefits of the Amendment](cpb-aacip_15-mg7fq9qc0p)
+- 1975—[Supporters of ERA Outline the Benefits of the Amendment](/catalog/cpb-aacip_15-mg7fq9qc0p)
 
 ##### Disability Rights
 - 1974—[Skyway protest focuses on accessibility for handicapped](/catalog/cpb-aacip_43-js9h41k04c)
