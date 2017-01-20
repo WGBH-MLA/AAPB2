@@ -26,7 +26,7 @@ In the past two decades, new technology has revolutionized the revolutionaries, 
 #### Tour our resources:
 
 ##### Politics
-- 1980—[Debate 1980, ERA (Equal Rights Amendment); Phyllis Schafly and Peg Anderson](/catalog/cpb-aacip_37-60qrfs38)
+- 1980—[Debate 1980, ERA (Equal Rights Amendment); Phyllis Schlafly and Peg Anderson](/catalog/cpb-aacip_37-60qrfs38)
 - 1985—[Crisis In Agriculture, Farm Rally in Ames](/catalog/cpb-aacip_37-870vtg28)
 - 1986—[Front Street Removal; (Anti-abortion protest) Weekly 522](/catalog/cpb-aacip_153-375tb6kp)
 - 1990—[Ten O'Clock News; Viewers' opinions of Mapplethorpe](/catalog/cpb-aacip_15-086348gg8n)
