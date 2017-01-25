@@ -30,8 +30,8 @@ class CaptionFile
     query.each do |term|
       return nil unless captions_dictionary.include?(term)
 
-      start = if (captions.index(term) - 200) > 0
-                captions.index(term) - 200
+      start = if (captions.upcase.index(term) - 200) > 0
+                captions.upcase.index(term) - 200
               else
                 0
               end
