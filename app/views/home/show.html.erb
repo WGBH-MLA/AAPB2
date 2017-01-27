@@ -1,116 +1,118 @@
 <% content_for :head do %>
   <meta name="description" content="A collaboration between WGBH and the Library of Congress with a long-term vision to preserve and make accessible significant historical content created by public media.">
 <% end %>
-  
-<!-- Welcome -->
-<div class="jumbotron home-jumbotron" id="welcome">
-  <div class="container">
-    <div class="well intro-text">
-      <h1>Discover historic programs of publicly funded radio and television across America. Watch and listen.</h1>
-    </div>
 
-    <!-- Panel - Search -->
-
-    <div class="panel panel-default search-panel naked-panel" id="home-search">
-
-      <div class="panel-body">
-          <%= render partial: 'catalog/search_form_big'  %>
+<main role="main">
+  <!-- Welcome -->
+  <div class="jumbotron home-jumbotron" id="welcome">
+    <div class="container">
+      <div class="well intro-text">
+        <h1>Discover historic programs of publicly funded radio and television across America. Watch and listen.</h1>
       </div>
-    </div>
-    
-    <%= render partial: 'home/featured_carousel', locals: { gallery: 'home' } %>
+
+      <!-- Panel - Search -->
+
+      <div class="panel panel-default search-panel naked-panel" id="home-search">
+
+        <div class="panel-body">
+            <%= render partial: 'catalog/search_form_big'  %>
+        </div>
+      </div>
+
+      <%= render partial: 'home/featured_carousel', locals: { gallery: 'home' } %>
 
 
-    <!-- Panel - Welcome Text Blocks -->
+      <!-- Panel - Welcome Text Blocks -->
 
-    <div class="row" id="welcome-panel">
-      <div class="col-md-6 column">
+      <div class="row" id="welcome-panel">
+        <div class="col-md-6 column">
 
-        <h6>About the AAPB</h6>
+          <h6>About the AAPB</h6>
 
-        <h3 class="list-group-item-heading">A Collaboration with a Long-Term Vision</h3>
-        <p class="list-group-item-text">We are a collaboration between WGBH and the Library of Congress with a long-term vision to preserve and make accessible significant historical content created by public media, and to coordinate a national effort to save at-risk public media before its content is lost to posterity.</p>
-        
+          <h3 class="list-group-item-heading">A Collaboration with a Long-Term Vision</h3>
+          <p class="list-group-item-text">We are a collaboration between WGBH and the Library of Congress with a long-term vision to preserve and make accessible significant historical content created by public media, and to coordinate a national effort to save at-risk public media before its content is lost to posterity.</p>
 
-        <div class="btn-group" role="group" aria-label="...">
-          <a href="/about-the-american-archive" title="Learn More About the AAPB" class="btn btn-link btn-sm">Learn More</a>
-          <a href="/contact-us" title="Learn More About the AAPB" class="btn btn-link btn-sm">Contact the AAPB</a>
+
+          <div class="btn-group" role="group" aria-label="...">
+            <a href="/about-the-american-archive" title="Learn More About the AAPB" class="btn btn-link btn-sm">Learn More</a>
+            <a href="/contact-us" title="Learn More About the AAPB" class="btn btn-link btn-sm">Contact the AAPB</a>
+          </div>
+
+
         </div>
 
-
+        <div class="col-md-6 column">
+          <%= render partial: 'home/blog'  %>
+        </div>
       </div>
-     
-      <div class="col-md-6 column">
-        <%= render partial: 'home/blog'  %>
+
+    </div>
+  </div>
+  <!-- END Welcome -->
+
+  <!-- Contributing Stations -->
+  <div class="jumbotron home-jumbotron hidden-xs" id="stations">
+    <div class="container">
+
+      <%= render partial: 'home/orgs_map'  %>
+
+    </div>
+  </div>
+  <!-- END Contributing Stations -->
+
+  <!-- Exhibits -->
+  <div class="jumbotron home-jumbotron" id="exhibits">
+    <div class="container">
+
+      <div class="well intro-text">
+        <h1>Curated Exhibits</h1>
+        <p>
+          Explore in depth selected topics of historical
+          significance as covered by public radio and television.
+        </p>
       </div>
+
+      <%= render partial: 'home/exhibits_carousel' %>
+
     </div>
-    
   </div>
-</div>
-<!-- END Welcome -->
+  <!-- END Exhibits -->
 
-<!-- Contributing Stations -->
-<div class="jumbotron home-jumbotron hidden-xs" id="stations">
-  <div class="container">
-    
-    <%= render partial: 'home/orgs_map'  %>
+  <!-- Browse -->
+  <div class="jumbotron home-jumbotron" id="browse">
+    <div class="container">
 
-  </div>
-</div>
-<!-- END Contributing Stations -->
+      <%= render partial: 'home/browse_list'  %>
 
-<!-- Exhibits -->
-<div class="jumbotron home-jumbotron" id="exhibits">
-  <div class="container">
-    
-    <div class="well intro-text">
-      <h1>Curated Exhibits</h1>
-      <p>
-        Explore in depth selected topics of historical 
-        significance as covered by public radio and television.
-      </p>
     </div>
-    
-    <%= render partial: 'home/exhibits_carousel' %>
-
   </div>
-</div>
-<!-- END Exhibits -->
+  <!-- END Browse -->
 
-<!-- Browse -->
-<div class="jumbotron home-jumbotron" id="browse">
-  <div class="container">
-    
-    <%= render partial: 'home/browse_list'  %>
+  <!-- Video -->
+  <div class="jumbotron home-jumbotron" id="video">
+    <div class="container">
 
-  </div>
-</div>
-<!-- END Browse -->
+      <div class="well intro-text">
+        <h1>Every Picture Tells a Story</h1>
+        <p>Watch a five minute introduction to the treasures of public broadcasting, written and produced by Elizabeth Deane.</p>
+      </div>
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe src="https://player.vimeo.com/video/108272934" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
 
-<!-- Video -->
-<div class="jumbotron home-jumbotron" id="video">
-  <div class="container">
-    
-    <div class="well intro-text">
-      <h1>Every Picture Tells a Story</h1>
-      <p>Watch a five minute introduction to the treasures of public broadcasting, written and produced by Elizabeth Deane.</p>
     </div>
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe src="https://player.vimeo.com/video/108272934" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    </div>
-
   </div>
-</div>
-<!-- END Video -->
+  <!-- END Video -->
 
 
-<!-- Sticky Nav -->
-<div id="homenav" class="well well-sm affix-top hidden-xs" data-spy="affix" data-offset-top="250">
-  <ul class="nav nav-pills">
-    <li role="presentation" class="aa-link"><a href="#top">American Archive</a></li>
-    <li role="presentation"><a href="#stations">Participating Organizations</a></li>
-    <li role="presentation"><a href="#exhibits">Curated Exhibits</a></li>
-    <li role="presentation"><a href="#browse">Browse The Collection</a></li>
-    <li role="presentation"><a href="#video">Telling Our Story</a></li>
-  </ul>
-</div>
+  <!-- Sticky Nav -->
+  <div id="homenav" class="well well-sm affix-top hidden-xs" data-spy="affix" data-offset-top="250">
+    <ul class="nav nav-pills">
+      <li role="presentation" class="aa-link"><a href="#top">American Archive</a></li>
+      <li role="presentation"><a href="#stations">Participating Organizations</a></li>
+      <li role="presentation"><a href="#exhibits">Curated Exhibits</a></li>
+      <li role="presentation"><a href="#browse">Browse The Collection</a></li>
+      <li role="presentation"><a href="#video">Telling Our Story</a></li>
+    </ul>
+  </div>
+</main>
