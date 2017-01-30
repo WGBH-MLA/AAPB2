@@ -134,6 +134,14 @@
         width:100%;
     }
 
+    /* Homepage Welcome Header */
+    #welcome h2 {
+        text-align: center;
+        color: #fff;
+        font-size:1.8em;
+        font-weight: 300;
+        margin: 0 auto 3em;
+    }
 
 
     /* Home One - Welcome */
@@ -162,8 +170,8 @@
         }
 
         &:first-of-type {
-          /* The non-first ones are given extra padding above to make space for the 
-          floating menu. This is an override, because the first jumbotron just has 
+          /* The non-first ones are given extra padding above to make space for the
+          floating menu. This is an override, because the first jumbotron just has
           an in-place menu: It's only in the lower sections that this matters. */
           padding: 2em 1em;
         }
@@ -197,7 +205,7 @@
         background-image:none;
         &:after { background-color:rgba(144,41,142,.85); }
     }
-    
+
     /* Home Jumbotron - Video */
     #video {
         background-color:rgb(158,32,100);
@@ -319,7 +327,7 @@
 
         /* Home Jumbotron - Curated Exhibits */
         #exhibits {
-            background-image:url(/home-bg/home-three.jpg); 
+            background-image:url(/home-bg/home-three.jpg);
         }
 
         /* FLoating Navigation on Homepage */
