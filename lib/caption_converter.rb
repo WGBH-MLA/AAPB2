@@ -36,7 +36,7 @@ class CaptionConverter
 
   def self.as_timestamp(s)
     if s.nil?
-      Rails.warn("Timestamp cannot be nil")
+      Rails.warn('Timestamp cannot be nil')
     else
       Time.at(s).utc.strftime('%H:%M:%S.%L')
     end
