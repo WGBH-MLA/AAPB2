@@ -35,7 +35,11 @@ class CaptionConverter
   end
 
   def self.as_timestamp(s)
-    Time.at(s).utc.strftime('%H:%M:%S.%L')
+    if s.nil?
+      Rails.warn('Timestamp cannot be nil')
+    else
+      Time.at(s).utc.strftime('%H:%M:%S.%L')
+    end
   end
 
   def self.parse_srt(srt)
