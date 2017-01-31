@@ -35,7 +35,7 @@ class CaptionConverter
   end
 
   def self.as_timestamp(s)
-    Time.at(s).utc.strftime('%H:%M:%S.%L')
+    Time.at(s.to_i).utc.strftime('%H:%M:%S.%L')
   end
 
   def self.parse_srt(srt)
