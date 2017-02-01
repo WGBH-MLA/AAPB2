@@ -1,8 +1,8 @@
-<%= form_tag '/advanced', 
-  method: :post, 
+<%= form_tag '/advanced',
+  method: :post,
   class: 'search-query-form clearfix' do %>
 
-  <% { 
+  <% {
         all: 'All these words',
         title: 'This title',
         exact: 'This exact word or phrase',
@@ -11,7 +11,7 @@
       }.each do |name,label| %>
     <div class="form-group">
       <label for="<%= name %>"><%= label %></label>
-      <input class="form-control input-group input-group-lg" name="<%= name %>"/>
+      <input class="form-control input-group input-group-lg" name="<%= name %>" id="<%= name %>"/>
     </div>
   <% end %>
 
