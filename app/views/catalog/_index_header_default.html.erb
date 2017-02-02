@@ -13,6 +13,7 @@
             <%= link_to(url_for_document(document))  do %>
               <img src="<%= pbcore.img_src %>"
                    class="media-object"
+                   aria-hidden="true"
                    alt="thumbnail of <%= pbcore.title %>" />
             <% end %>
 
