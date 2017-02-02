@@ -345,8 +345,11 @@ h4 {
   }
 
   /* Catalog Thumb title */
-  .thumbnail h4.index_title {
+  .thumbnail h2.index_title {
     margin:1em 0;
+    font-size: 1.125em;
+    font-weight: 700;
+    line-height: 1.2em;
   }
 
 
