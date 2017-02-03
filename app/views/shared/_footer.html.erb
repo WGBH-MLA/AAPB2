@@ -1,4 +1,4 @@
-<div class="jumbotron" id="footer">
+<footer class="jumbotron" id="footer" role="contentinfo">
   <div class="container">
 
     <!-- Row One: Logo -->
@@ -10,10 +10,10 @@
     <hr>
 
     <!-- Well: Footer Links -->
-    <div class="well footer-links">
+    <nav class="well footer-links" role="navigation">
       <!-- Row Two: List Links -->
       <div class="row two">
-        <% 
+        <%
           [
             [
               {
@@ -72,7 +72,7 @@
           </div>
         <% end %>
       </div>
-    </div><!-- END Footer Links Well -->
+    </nav><!-- END Footer Links Well -->
 
     <hr>
 
@@ -90,6 +90,6 @@
 
 
   </div><!-- END Container -->
-</div><!-- END Jumbotron -->
+</footer><!-- END Jumbotron -->
 
 <%= render partial: 'shared/analytics' %>
