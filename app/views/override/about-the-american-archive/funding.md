@@ -23,3 +23,9 @@ The Council on Library and Information Resources (CLIR) awarded WGBH in collabor
 The Institute of Museum and Library Services is the primary source of federal support for the nation’s 123,000 libraries and 35,000 museums. Our mission is to inspire libraries and museums to advance innovation, lifelong learning, and cultural and civic engagement. Our grant making, policy development, and research help libraries and museums deliver valuable services that make it possible for communities and individuals to thrive.
 
 The Laura Bush 21st Century Librarian Program supports projects to recruit and educate the next generation of librarians, faculty, and library leaders; and to support early career research. It also assists in the professional development of librarians and library staff.
+
+## National Endowment for the Humanities
+
+![NEH Logo Image](http://mlamedia01.wgbh.org/aapb/org-logos/neh_logo.jpg)
+
+Created in 1965 as an independent federal agency, the National Endowment for the Humanities supports research and learning in history, literature, philosophy, and other areas of the humanities by funding selected, peer-reviewed proposals from around the nation. Additional information about the National Endowment for the Humanities and its grant programs is available at: www.neh.gov.
