@@ -242,7 +242,7 @@ h1 {
   }
 
     /* Homepage Welcome Header */
-    #welcome h1 {
+    #welcome h2 {
       font-size:1.4em;
       margin: 0 auto;
     }
@@ -306,7 +306,7 @@ h2 {
   }
 
   /*Org State listing panel head*/
-  .org-state h2.panel-title {
+  .org-state h3.panel-title {
     font-size:1.25em;
   }
 
@@ -345,8 +345,11 @@ h4 {
   }
 
   /* Catalog Thumb title */
-  .thumbnail h4.index_title {
+  .thumbnail h2.index_title {
     margin:1em 0;
+    font-size: 1.125em;
+    font-weight: 700;
+    line-height: 1.2em;
   }
 
 
@@ -365,6 +368,17 @@ h6 {
   margin-top:0;
   text-transform:uppercase;
 }
+
+  /* Sidebar Nav */
+  .column .navbar h2.states{
+    font-size: 1.143em;
+    color: #fff;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 0;
+    float: left;
+    line-height: 50px;
+  }
 
 /* Address styling not present in IE 8/9, Safari 5, and Chrome. */
 abbr[title] {
@@ -716,7 +730,7 @@ table {
   }
 
     /* Homepage Welcome Header */
-    #welcome h1 {
+    #welcome h2 {
       font-size:1.4em;
       margin: 0 auto 3em;
     }
@@ -742,6 +756,7 @@ table {
     font-size:1.6em;
   }
 
+
 }/* END: Tablet ---------- */
 
 
@@ -750,7 +765,7 @@ table {
 @media (min-width: 992px) {
 
   /* Homepage Welcome Header */
-  #welcome h1 {
+  #welcome h2 {
     font-size:1.8em;
   }
 
@@ -764,6 +779,12 @@ table {
     font-size: 1em;
     font-weight: 400;
     line-height:40px;
+  }
+
+  .column .navbar-header h2.states {
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 40px;
   }
 
 }/* END: Desktop ---------- */

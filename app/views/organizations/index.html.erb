@@ -1,6 +1,6 @@
 <% content_for :sidebar do %>
-  <%= render partial: 'shared/sidebar_nav', 
-             locals: { 
+  <%= render partial: 'shared/sidebar_nav',
+             locals: {
                 title: 'States',
                 links: @states.map{ |state| [state.name, "\##{state.name}"] }
               } %>
@@ -11,7 +11,7 @@
   <div class="hidden-xs">
     <%= render file: "#{Rails.root}/app/views/organizations/usa.svg" %>
   </div>
-    
+
   <br/>
   <br/>
 
@@ -20,17 +20,17 @@
     <a name="<%= state.name %>"></a>
     <div class="panel panel-default org-state">
       <div class="panel-heading">
-        <h2 class="panel-title">
+        <h3 class="panel-title">
           <%= state.name %>
           <% if state.organizations %>
             <a href="/catalog?f[organization][]=<%= state.organizations.map { |org| org.facet}.join(AAPB::QUERY_OR) %>" class="btn btn-sm btn-link pull-right">
               All records from <%= state.name %>
             </a>
           <% end %>
-        </h2>
+        </h3>
       </div>
       <div class="panel-body">
-        
+
         <% if state.blurb_html %>
           <p>
             <%= state.blurb_html.html_safe %>
@@ -51,7 +51,7 @@
   <% end %>
 <% end %>
 
-<%= render partial: 'shared/title_sidebar_main', 
+<%= render partial: 'shared/title_sidebar_main',
            locals: {
              sidebar: yield(:sidebar),
              main: yield(:main)
