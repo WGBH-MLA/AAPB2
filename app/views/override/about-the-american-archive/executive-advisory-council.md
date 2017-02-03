@@ -1,6 +1,6 @@
 # Executive Advisory Council
 
-![banner](/page-banners/banner3.jpg)
+![Control Panel](/page-banners/banner3.jpg)
 
 <style>
   h3, h4 {margin-bottom: 0;}

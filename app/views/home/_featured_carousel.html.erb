@@ -1,14 +1,14 @@
-<%= render layout: 'home/carousel', 
+<%= render layout: 'home/carousel',
            locals: {
-                    id: 'featured-carousel', 
+                    id: 'featured-carousel',
                     items: Featured.from_gallery(gallery)
                    } do |item| %>
   <a href="<%= "/catalog/#{item.id}" %>" data-no-turbolink="true" class="list-group-item" >
-    <img src="<%= item.thumbnail_url %>" title="<%= item.name %>" alt="<%= item.name %>" />
+    <img src="<%= item.thumbnail_url %>" title="<%= item.name %>" alt="<%= item.name %>" aria-hidden="true" />
     <span class="carousel-caption">
       <h3 class="list-group-item-heading"><%= item.name %></h3>
       <p class="list-group-item-text"><%= item.org_name %></p>
     </span>
   </a>
 <% end %>
-  
+

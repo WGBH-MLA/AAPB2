@@ -1,6 +1,6 @@
 # Funding
 
-![banner](/page-banners/banner6.jpg)
+![Television Program Set](/page-banners/banner6.jpg)
 
 The American Archive of Public Broadcasting is generously supported by the following organizations:
 

@@ -1,11 +1,11 @@
 # Acknowledgments
 
-![banner](/page-banners/banner7.jpg)
+![Television Program Set](/page-banners/banner7.jpg)
 
-The American Archive of Public Broadcasting (AAPB) project staff would like to 
-sincerely thank our colleagues at WGBH and the Library of Congress; the permanent 
-stewardship of the AAPB will not be possible without their participation and 
-encouragement. The AAPB also appreciates vital contributions by the following 
+The American Archive of Public Broadcasting (AAPB) project staff would like to
+sincerely thank our colleagues at WGBH and the Library of Congress; the permanent
+stewardship of the AAPB will not be possible without their participation and
+encouragement. The AAPB also appreciates vital contributions by the following
 organizations:
 
 - <a href="/participating-orgs" target="_blank">Participating stations and organizations involved in the AAPB and project representatives</a>
