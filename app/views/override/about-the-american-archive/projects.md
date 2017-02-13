@@ -1,6 +1,6 @@
 # Projects
 
-![Television Program Set](/page-banners/banner5.jpg)
+![Keith Page](/page-banners/banner5.jpg)
 
 Our vision is to to preserve and make accessible significant historical content created by public media,
 and to coordinate a national effort to save at-risk public media before its content is lost to posterity. We're fulfilling our vision through

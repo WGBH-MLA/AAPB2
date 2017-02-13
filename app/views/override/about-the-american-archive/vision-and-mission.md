@@ -1,6 +1,6 @@
 # Vision and Mission Statements
 
-![Television Control Room](/page-banners/banner1.jpg)
+![Control Room](/page-banners/banner1.jpg)
 
 ## Vision Statement
 
