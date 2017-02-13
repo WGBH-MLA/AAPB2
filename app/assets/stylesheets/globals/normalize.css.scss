@@ -89,7 +89,7 @@ body {
   font-family: 'Roboto', Verdana, Tahoma, "DejaVu Sans", sans-serif; /* 1 */
 
   /* Use a 16px base font size. */
-  font-size: 95%; 
+  font-size: 95%;
   line-height: 1.5em;
 }
 
@@ -138,7 +138,7 @@ a:visited {
   color:#5D60AB;
 }
 a#startOverLink {
-  color: #3C439B; 
+  color: #3C439B;
 }
 
   /* Links as buttons */
@@ -210,7 +210,7 @@ blockquote {
   .facet-values li .selected {
     color:#9F2064;
   }
-  
+
   .facet-values .facet-label {
     word-break: normal; /* BL default has character breaking. */
   }
@@ -242,7 +242,7 @@ h1 {
   }
 
     /* Homepage Welcome Header */
-    #welcome h1 {
+    #welcome h2 {
       font-size:1.4em;
       margin: 0 auto;
     }
@@ -298,7 +298,7 @@ h2 {
   margin-top:0;
   font-weight:400;
 }
-  
+
   /* Media HEading - Title for record in a search result */
   h2.media-heading {
     font-size:1.5em;
@@ -306,7 +306,7 @@ h2 {
   }
 
   /*Org State listing panel head*/
-  .org-state h2.panel-title {
+  .org-state h3.panel-title {
     font-size:1.25em;
   }
 
@@ -327,7 +327,7 @@ h4 {
   margin-bottom: 1.5em;
   margin-top:0;
 }
-  
+
   /* Facet Panel Title */
   .facets .top-panel-heading h4,
   .column .navbar-header h4 {
@@ -345,8 +345,11 @@ h4 {
   }
 
   /* Catalog Thumb title */
-  .thumbnail h4.index_title {
+  .thumbnail h2.index_title {
     margin:1em 0;
+    font-size: 1.125em;
+    font-weight: 700;
+    line-height: 1.2em;
   }
 
 
@@ -365,6 +368,17 @@ h6 {
   margin-top:0;
   text-transform:uppercase;
 }
+
+  /* Sidebar Nav */
+  .column .navbar h2.states{
+    font-size: 1.143em;
+    color: #fff;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 0;
+    float: left;
+    line-height: 50px;
+  }
 
 /* Address styling not present in IE 8/9, Safari 5, and Chrome. */
 abbr[title] {
@@ -628,9 +642,9 @@ input[type="radio"] {
  */
 input[type="search"] {
   -webkit-appearance: textfield; /* 1 */
-  -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box; /* 2 */
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; /* 2 */
 }
 
 /**
@@ -701,7 +715,7 @@ table {
   html,
   body {
     /* Use a 16px base font size. */
-    font-size: 100%; 
+    font-size: 100%;
   }
 
   /* H1 --------- */
@@ -716,7 +730,7 @@ table {
   }
 
     /* Homepage Welcome Header */
-    #welcome h1 {
+    #welcome h2 {
       font-size:1.4em;
       margin: 0 auto 3em;
     }
@@ -742,6 +756,7 @@ table {
     font-size:1.6em;
   }
 
+
 }/* END: Tablet ---------- */
 
 
@@ -750,10 +765,10 @@ table {
 @media (min-width: 992px) {
 
   /* Homepage Welcome Header */
-  #welcome h1 {
+  #welcome h2 {
     font-size:1.8em;
   }
-  
+
   /* Record Title */
   .record-title {
     font-size:2em;
@@ -764,6 +779,12 @@ table {
     font-size: 1em;
     font-weight: 400;
     line-height:40px;
+  }
+
+  .column .navbar-header h2.states {
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 40px;
   }
 
 }/* END: Desktop ---------- */

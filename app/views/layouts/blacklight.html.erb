@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js" prefix="og: http://ogp.me/ns#">
-  <!-- 
-  
+  <!--
+
     NOTE: html@prefix is the only thing we've added here for AAPB.
-  
+
   -->
   <head>
     <meta charset="utf-8">
@@ -12,7 +12,7 @@
     <!-- Mobile viewport optimization h5bp.com/ad -->
     <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    
+
     <!-- Internet Explorer use the highest version available -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -40,15 +40,14 @@
 
   <%= render partial: 'shared/ajax_modal' %>
 
-  <div id="main-container" class="container">
-    <%= content_tag :h1, application_name, class: 'sr-only application-heading' %>
+  <main id="main-container" class="container" role="main">
 
     <%= render :partial=>'/flash_msg', layout: 'shared/flash_messages' %>
 
     <div class="row">
       <%= yield %>
     </div>
-  </div>
+  </main>
 
   <%= render :partial => 'shared/footer' %>
   </body>

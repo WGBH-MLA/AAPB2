@@ -36,6 +36,14 @@
         width:98%;
     }
 
+    .intro-text h2 {
+        color: #fff;
+        font-weight: 300;
+        margin: 0;
+        text-align: center;
+        font-size: 3.75em;
+    }
+
 
     /* Sticky Nav on the Homepage --------- */
     #homenav {
@@ -119,7 +127,7 @@
             margin:0 0 1em;
         }
 
-        h3 {
+        h2 {
             font-size:1.5em;
         }
 
@@ -133,8 +141,6 @@
         border-top:1px solid #FFF;
         width:100%;
     }
-
-
 
     /* Home One - Welcome */
     .home-jumbotron {
@@ -162,8 +168,8 @@
         }
 
         &:first-of-type {
-          /* The non-first ones are given extra padding above to make space for the 
-          floating menu. This is an override, because the first jumbotron just has 
+          /* The non-first ones are given extra padding above to make space for the
+          floating menu. This is an override, because the first jumbotron just has
           an in-place menu: It's only in the lower sections that this matters. */
           padding: 2em 1em;
         }
@@ -197,7 +203,7 @@
         background-image:none;
         &:after { background-color:rgba(144,41,142,.85); }
     }
-    
+
     /* Home Jumbotron - Video */
     #video {
         background-color:rgb(158,32,100);
@@ -246,6 +252,12 @@
             }
         }
 
+        /*Reduce tagline font-size on smaller devices*/
+        #welcome h2.tagline {
+            font-size: 1.4em;
+            line-height: 1.5em;
+        }
+
         /*Set .container width on Homepage Jumbotron*/
         .home-jumbotron .container {
             width:960px;
@@ -278,6 +290,13 @@
             }
         }
 
+        #welcome-panel h4 {
+            font-size: .95em;
+            font-weight: 500;
+            line-height: 1.4em;
+            margin-bottom: 1em;
+            text-transform: uppercase;
+        }
 
 
     }/* END: Tablet ---------- */
@@ -287,6 +306,15 @@
         /* Home Jumbotron - Welcome */
         #welcome {
             background-image:url(/home-bg/home-one.jpg);
+        }
+
+        /* Homepage Welcome Header */
+        #welcome h2.tagline {
+            text-align: center;
+            color: #fff;
+            font-size:1.8em;
+            font-weight: 300;
+            margin: 0 auto 3em;
         }
 
         /* Home Jumbotron - Contributing Stations */
@@ -319,7 +347,7 @@
 
         /* Home Jumbotron - Curated Exhibits */
         #exhibits {
-            background-image:url(/home-bg/home-three.jpg); 
+            background-image:url(/home-bg/home-three.jpg);
         }
 
         /* FLoating Navigation on Homepage */
