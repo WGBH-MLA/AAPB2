@@ -8,7 +8,6 @@ items = items * 3 unless items.length % 3 == 0
 
 %>
 
-
 <div id="<%= id %>" class="carousel slide featured-carousel" data-ride="carousel">
   <%# TODO: The "featured-carousel" class should probably be renamed to something more generic,
             with corresponding changes in the CSS. On the homepage there is also id="featured-carousel".%>
@@ -46,3 +45,17 @@ items = items * 3 unless items.length % 3 == 0
   </a>
 
 </div>
+
+<button id="playButton">Play</button>
+<button id="pauseButton">Pause</button>
+
+<script>
+  $(function () {
+      $('#playButton').click(function () {
+          $('.featured-carousel').carousel('cycle');
+      });
+      $('#pauseButton').click(function () {
+          $('.featured-carousel').carousel('pause');
+      });
+  });
+</script>
