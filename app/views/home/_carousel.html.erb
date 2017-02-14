@@ -45,17 +45,20 @@ items = items * 3 unless items.length % 3 == 0
   </a>
 
 </div>
-
-<button id="playButton">Play</button>
-<button id="pauseButton">Pause</button>
-
+<div aria-label="carousel pause/play control" class="carousel-pause">
+  <button id="playButton" class="playButton" title="Play Carousel" aria-label="Play Carousel" style="display:none;"><span class="glyphicon glyphicon-play" aria-hidden="true"></span></button>
+  <button id="pauseButton" class="pauseButton" title="Pause Carousel" aria-label="Pause Carousel"><span class="glyphicon glyphicon-pause" aria-hidden="true"></span></button>
+</div>
 <script>
-  $(function () {
-      $('#playButton').click(function () {
-          $('.featured-carousel').carousel('cycle');
-      });
-      $('#pauseButton').click(function () {
-          $('.featured-carousel').carousel('pause');
-      });
+  var btn = $('#playButton,#pauseButton').on('click', function() {
+    if($(this).hasClass("playButton")){
+      $('.featured-carousel').carousel('cycle');
+      $(this).hide();
+      btn.not(this).show();
+    } else if ($(this).hasClass("pauseButton"))  {
+      $('.featured-carousel').carousel('pause');
+      $(this).hide();
+      btn.not(this).show();
+    }
   });
 </script>
