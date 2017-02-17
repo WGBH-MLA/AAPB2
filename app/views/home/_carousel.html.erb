@@ -39,26 +39,30 @@ items = items * 3 unless items.length % 3 == 0
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#<%= id %>" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
 
-</div>
-<div aria-label="carousel pause/play control" class="carousel-pause">
-  <button id="playButton" class="playButton" title="Play Carousel" aria-label="Play Carousel" style="display:none;"><span class="glyphicon glyphicon-play" aria-hidden="true"></span></button>
-  <button id="pauseButton" class="pauseButton" title="Pause Carousel" aria-label="Pause Carousel"><span class="glyphicon glyphicon-pause" aria-hidden="true"></span></button>
+  <div class="right carousel-control with-pause">
+    <a href="#<%= id %>" role="button" data-slide="next">
+      <div id="control-holder-right-top">
+        <span class="glyphicon glyphicon-chevron-right white" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </div>
+    </a>
+    <div id="control-holder-right-bottom">
+      <button id="playButton-<%= id %>" class="playButton" title="Play Carousel" aria-label="Play Carousel" style="display:none;"><span class="glyphicon glyphicon-play white" aria-hidden="true"></span></button>
+      <button id="pauseButton-<%= id %>" class="pauseButton" title="Pause Carousel" aria-label="Pause Carousel"><span class="glyphicon glyphicon-pause white" aria-hidden="true"></span></button>
+    </div>
+  </div>
 </div>
 <script>
-  var btn = $('#playButton,#pauseButton').on('click', function() {
+  var btn = $('#playButton-<%= id %>,#pauseButton-<%= id %>').on('click', function() {
     if($(this).hasClass("playButton")){
-      $('.featured-carousel').carousel('cycle');
-      $(this).hide();
-      btn.not(this).show();
+      $('#<%= id %>').carousel('cycle');
+      $('#playButton-<%= id %>').hide();
+      $('#pauseButton-<%= id %>').show()
     } else if ($(this).hasClass("pauseButton"))  {
-      $('.featured-carousel').carousel('pause');
-      $(this).hide();
-      btn.not(this).show();
+      $('#<%= id %>').carousel('pause');
+      $('#pauseButton-<%= id %>').hide();
+      $('#playButton-<%= id %>').show()
     }
   });
 </script>

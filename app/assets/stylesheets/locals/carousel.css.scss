@@ -31,9 +31,12 @@
   filter: alpha(opacity=100);
 }
 
-.carousel-pause {
-	margin: 0 auto;
-	text-align: center;
+.carousel-control button {
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  outline:none;
 }
 
 	/*HOmepage*/
@@ -115,3 +118,38 @@
 			background-color:rgba(255,255,255,.2);
 		}
 
+		.right.carousel-control.with-pause {
+		  left: auto;
+		  right: 0;
+		  bottom: 0;
+		  height: 100%;
+		  background-image: none;
+			position: absolute;
+		}
+
+		#control-holder-right-top {
+			position: relative;
+			height: 60%;
+			width: 100%;
+		}
+
+		#control-holder-right-bottom {
+			position: relative;
+			height: 40%;
+			width: 100%;
+		}
+
+		span.glyphicon.glyphicon-chevron-right.white {
+		  position: absolute;
+		  top: 83%;
+		}
+
+		.white {
+			color: #fff;
+		}
+
+		.pauseButton, .playButton {
+			top: 0;
+			background-color: transparent;
+			border: none;
+		}
