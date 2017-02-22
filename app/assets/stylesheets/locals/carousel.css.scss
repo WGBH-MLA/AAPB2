@@ -56,7 +56,6 @@
 		background-color:transparent;
 	}
 
-
 /* THe Caption */
 .featured-carousel .list-group-item .carousel-caption {
 	display:block;
@@ -153,3 +152,14 @@
 			background-color: transparent;
 			border: none;
 		}
+
+	.blacklight-home .list-group-item {
+		a:focus {
+	      outline-color: #fff;
+	      outline-style: solid;
+	      outline-width: 1px;
+	  }
+	  a:link {
+	  	color: #fff
+	  }
+	}

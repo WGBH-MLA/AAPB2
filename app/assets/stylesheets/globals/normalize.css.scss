@@ -165,7 +165,11 @@ a:active {
 
 /* Address `outline` inconsistency between Chrome and other browsers. */
 a:focus {
-  outline: thin dotted;
+  border-color: rgba(82,168,236,.8);
+  outline: 1;
+  outline: thin dotted \9;
+  -moz-box-shadow: 0 0 8px rgba(82,168,236,.6);
+  box-shadow: 0 0 8px rgba(82,168,236,.6) !important;
 }
 
 /* Improve readability when focused and also mouse hovered in all browsers. */
