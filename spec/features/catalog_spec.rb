@@ -296,7 +296,7 @@ describe 'Catalog' do
                 ['Series: The Lost Year', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
-                  'Access: Online Reading Room'],
+                 'Access: Online Reading Room'],
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH', 'Media Type: Sound', 'Access: '],
