@@ -167,6 +167,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def private? # AKA not even on site
     access_level == 'Private' # TODO: Confirm that this is the right string.
   end
+  def access_level_description
+    return "Online Reading Room" if public?
+    return "Accessible on location at WGBH and the Library of Congress. " if protected?
+  end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
   OTHER = 'other'.freeze
