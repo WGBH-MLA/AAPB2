@@ -113,7 +113,7 @@ describe 'Validated and plain PBCore' do
                      'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.',
                      'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions',
                      'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music',
-                     'Nova', 'Online Reading Room', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious',
+                     'Nova', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious',
                      'hair', 'musicals -- horror', 'somewhere else',
                      "1\n00:00:00,000 --> 00:00:20,000\nRaw bytes 0-255 follow:\n \n !\"\#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
