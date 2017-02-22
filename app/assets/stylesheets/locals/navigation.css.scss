@@ -8,6 +8,8 @@
 	border-radius: 0;
 }
 
+
+
 /*Main Nav*/
  .main-nav {
  	margin-bottom:0;
@@ -39,4 +41,51 @@
 	margin-top:7px;
 	padding:0;
 	text-indent:-9999em;
+}
+
+a:focus.navbar-brand {
+  border-color: rgba(82,168,236,.8);
+  outline: 1;
+  outline: thin dotted \9;
+  -moz-box-shadow: 0 0 8px rgba(82,168,236,.6);
+  box-shadow: 0 0 8px rgba(82,168,236,.6) !important;
+}
+
+.primary-nav {
+	a:focus {
+	  border-color: rgba(82,168,236,.8);
+	  outline: 1;
+	  outline: thin dotted \9;
+	  -moz-box-shadow: 0 0 8px rgba(82,168,236,.6);
+	  box-shadow: 0 0 8px rgba(82,168,236,.6) !important;
+	}
+}
+
+a:focus.dropdown-toggle {
+  border-color: rgba(82,168,236,.8);
+  outline: 1;
+  outline: thin dotted \9;
+  -moz-box-shadow: 0 0 8px rgba(82,168,236,.6);
+  box-shadow: 0 0 8px rgba(82,168,236,.6) !important;
+}
+
+.secondary-nav {
+	a:focus {
+	  border-color: rgba(82,168,236,.8);
+	  outline: 1;
+	  outline: thin dotted \9;
+	  -moz-box-shadow: 0 0 8px rgba(82,168,236,.6);
+	  box-shadow: 0 0 8px rgba(82,168,236,.6) !important;
+	}
+}
+
+.nav-pills {
+	li {
+		a:focus {
+		  background-color: rgba(24, 18, 40, 0.8);
+		  outline-color: #fff;
+			outline-style: solid;
+			outline-width: 2px;
+		}
+	}
 }

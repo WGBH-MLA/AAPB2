@@ -19,6 +19,14 @@
         padding:3em 0;
     }
 
+    .jumbotron {
+        a:focus {
+          outline-color: #fff;
+            outline-style: solid;
+            outline-width: 1px;
+        }
+    }
+
     /*Set .container width on Homepage Jumbotron*/
     .home-jumbotron .container {
         width:100%;

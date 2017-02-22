@@ -30,7 +30,7 @@
   opacity: 1;
   filter: alpha(opacity=100);
 }
-		
+
 	/*HOmepage*/
 	.blacklight-home .featured-carousel .carousel-control {
 		color:#FFF;
@@ -47,7 +47,6 @@
 	.blacklight-home .list-group-item:hover {
 		background-color:transparent;
 	}
-
 
 /* THe Caption */
 .featured-carousel .list-group-item .carousel-caption {
@@ -110,3 +109,13 @@
 			background-color:rgba(255,255,255,.2);
 		}
 
+	.blacklight-home .list-group-item {
+		a:focus {
+	      outline-color: #fff;
+	      outline-style: solid;
+	      outline-width: 1px;
+	  }
+	  a:link {
+	  	color: #fff
+	  }
+	}
