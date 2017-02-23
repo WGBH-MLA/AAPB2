@@ -23,6 +23,13 @@
 		padding:0;
 	}
 
+  #footer a:focus {
+    background-color: transparent;
+    outline: -webkit-focus-ring-color auto 5px;
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+  }
+
 
 	/* Row One --------- */
 
@@ -71,7 +78,7 @@
 
 
 	/* LIST GROUP */
-		
+
 
 		/*the list*/
 		.row.two .list-group {
@@ -85,9 +92,9 @@
 				.row.two .list-group-item a:hover {
 					color:#9f2064;
 				}
-                                
+
                 /*Social Links in the Footer */
-                
+
                 ul.social {
                         display:inline-block;
                         margin:0 auto;
@@ -187,7 +194,7 @@
 	}
 
 /* MISC Elements */
-		
+
 hr {
     border: 0;
     height: 1px;
