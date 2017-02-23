@@ -8,30 +8,30 @@
 /* -------------------- */
 
 /* Button Overrides */
-.btn, 
+.btn,
 .facets-toggle {
 	border:none;
 	border-radius:0;
 	text-transform:uppercase;
 }
 
-.btn-default, 
+.btn-default,
 .facets-toggle,
-#sort-dropdown .dropdown-toggle, 
+#sort-dropdown .dropdown-toggle,
 #per_page-dropdown .dropdown-toggle ,
 #sort-dropdown .dropdown-toggle .caret,
 #per_page-dropdown .dropdown-toggle .caret{
 	color: #FFF;
 	background-color: #90298E;
 }
-	
+
 	/* an Active button */
 	.view-type .btn-default.active {
 		background-color: #9F2064;
 	}
 
 	.facets-toggle .icon-bar {
-		  background-color: #FFF;	
+		  background-color: #FFF;
 	}
 
 
@@ -57,30 +57,30 @@
 
 
 
-.btn-danger, 
-.appliedFilter .remove:hover, 
+.btn-danger,
+.appliedFilter .remove:hover,
 .appliedFilter .remove:active {
 	color: white;
 	background-color: #BF202F;
 }
 
-.btn-default:hover, 
-.facets-toggle:hover, 
-.btn-default:focus, 
-.facets-toggle:focus, 
-.btn-default.focus, 
-.focus.facets-toggle, 
-.btn-default:active, 
-.facets-toggle:active, 
-.btn-default.active, 
+.btn-default:hover,
+.facets-toggle:hover,
+.btn-default:focus,
+.facets-toggle:focus,
+.btn-default.focus,
+.focus.facets-toggle,
+.btn-default:active,
+.facets-toggle:active,
+.btn-default.active,
 .active.facets-toggle,
-.btn-default:visited, 
+.btn-default:visited,
 .facets-toggle:visited,
-#sort-dropdown .dropdown-toggle, 
+#sort-dropdown .dropdown-toggle,
 #per_page-dropdown .dropdown-toggle,
-.open > .btn-default.dropdown-toggle, 
+.open > .btn-default.dropdown-toggle,
 .open > .dropdown-toggle.facets-toggle,
-#sort-dropdown .dropdown-toggle .caret, 
+#sort-dropdown .dropdown-toggle .caret,
 #per_page-dropdown .dropdown-toggle .caret {
   color: #FFF;
   background-color: #653090;
@@ -187,7 +187,7 @@
 	margin:0;
 }
 
-.panel-group .panel-heading + .panel-collapse > .panel-body, 
+.panel-group .panel-heading + .panel-collapse > .panel-body,
 .panel-group .panel-heading + .panel-collapse > .list-group {
 	border-top: none;
 }
@@ -251,6 +251,7 @@
 	border:none;
 	border-radius:0;
 	padding:0;
+	margin:5px;
 }
 	/* heading/body */
 	.naked-panel .panel-heading,
@@ -265,7 +266,7 @@
 
 
 
-			
+
 
 /* -------------------- */
 /* BREAKPOINTS ---------- */
@@ -277,7 +278,7 @@
 	/* -------------------- */
 	/* LOGO/BRAND ---------- */
 	/* -------------------- */
-	.navbar > .container .navbar-brand, 
+	.navbar > .container .navbar-brand,
 	.navbar > .container-fluid .navbar-brand {
 	  margin-left: 0;
 	}
@@ -329,7 +330,7 @@
 @media (min-width: 992px) {
 
 	/* Special NavBar - Collapses early --------- */
-	
+
     .column .navbar-toggle {
         display: none;
     }
@@ -337,13 +338,13 @@
         border-top: 1px solid transparent;
         box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
     }
-    
+
 	    .column .navbar-collapse.collapse {
 	        display: block!important;
 	    }
-	   
 
-	
+
+
 }/* END: Desktop ---------- */
 
 /* Wide Desktop ---------- */

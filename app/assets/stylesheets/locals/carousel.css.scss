@@ -22,6 +22,12 @@
 			background-color:rgba(23,16,40,.25);
 		}
 
+		.blacklight-home .featured-carousel .list-group a:focus {
+			outline: -webkit-focus-ring-color auto 10px;
+			outline-color: #fff;
+
+		}
+
 
 /*THe Controls*/
 .featured-carousel .carousel-control {
@@ -108,14 +114,3 @@
 		#orgs-carousel.featured-carousel .list-group-item {
 			background-color:rgba(255,255,255,.2);
 		}
-
-	.blacklight-home .list-group-item {
-		a:focus {
-	      outline-color: #fff;
-	      outline-style: solid;
-	      outline-width: 1px;
-	  }
-	  a:link {
-	  	color: #fff
-	  }
-	}
