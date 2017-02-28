@@ -152,6 +152,11 @@
         width:100%;
     }
 
+    #welcome .btn-group a:focus {
+        outline: #fff 3px solid;
+        padding: 3px;
+    }
+
     /* Home One - Welcome */
     .home-jumbotron {
         background-image:none;
