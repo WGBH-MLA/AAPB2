@@ -8,20 +8,20 @@
       'video.other'
     else
       'website'
-    end 
+    end
   %>" />
   <meta property="og:image" content="<%=
     # I believe that protocol and host are required here.
     if @pbcore.img_src =~ /^\//
       "http://americanarchive.org#{@pbcore.img_src}"
-    else 
+    else
       @pbcore.img_src
     end
   %>" />
-  
+
   <meta property="og:site_name" content="American Archive of Public Broadcasting"/>
   <meta property="og:description" content="<%= @pbcore.descriptions.join("\n") %>" />
-  
+
   <!-- TODO: Doubt that these will be effective because we check the referer. -->
   <% if @pbcore.digitized? %>
     <% if @pbcore.video? %>
@@ -31,7 +31,7 @@
       <meta property="og:audio" content="http://americanarchive.org/media/<%= @pbcore.id %>" />
     <% end %>
   <% end %>
-  
+
 <% end %>
 
 <% content_for :sidebar do %>
@@ -39,17 +39,17 @@
   <div class="alert alert-info">
     <% @pbcore.ids.first[1].tap do |id| %>
       If you have more information about this item than what is given here, we want to know!
-      <a href="mailto:sadie_roosa@wgbh.org">Contact us</a>, 
+      <a href="mailto:sadie_roosa@wgbh.org">Contact us</a>,
       indicating the AAPB ID (<%= id %>).
     <% end %>
   </div>
-  
+
   <% @pbcore.titles.each do |type,title| %>
     <dl>
       <dt><%= type %></dt>
-      <dd><a href="/catalog?f[<%= 
-          type.downcase.gsub(/\s/,'_') 
-        %>_titles][]=<%= 
+      <dd><a href="/catalog?f[<%=
+          type.downcase.gsub(/\s/,'_')
+        %>_titles][]=<%=
           CGI::escape(title.gsub(/(["\\])/, '\\\\\1')) # escape Solr meta-characters
         %>"><%= title %></a></dd>
     </dl>
@@ -60,7 +60,7 @@
     <dd><a href='/participating-orgs/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
       (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)</dd>
   </dl>
-  
+
   <% @pbcore.ids.each do |type,id| %>
     <dl>
       <dt><%= type %></dt>
@@ -74,8 +74,12 @@
 
   <div class="well well-sm media-thumb">
 
+    <% if @skip_orr_terms == false %>
+        <%= render partial: 'password_modal' %>
+    <% end %>
+
     <a name="player"></a>
-    <% if !@pbcore.media_srcs.empty? && 
+    <% if !@pbcore.media_srcs.empty? &&
         !@pbcore.outside_url &&
         can?(:play, @pbcore) %>
       <%= render partial: 'catalog/player' %>
@@ -91,25 +95,25 @@
         <% elsif @pbcore.public? && !current_user.usa? %>
           Please note: This content is currently not available at your location.
         <% elsif @pbcore.protected? %>
-          Please note: This content is only available at WGBH and 
-          the Library of Congress. For information about on location research, 
+          Please note: This content is only available at WGBH and
+          the Library of Congress. For information about on location research,
           <a href="/on-location">click here</a>.
         <% elsif @pbcore.private? %>
-          Please note: This content is only available at 
-          the Library of Congress. For information about on location research, 
+          Please note: This content is only available at
+          the Library of Congress. For information about on location research,
           <a href="/on-location">click here</a>.
         <% elsif !@pbcore.digitized? %>
-          Please note: This content has not been digitized. For inquiries regarding access, 
+          Please note: This content has not been digitized. For inquiries regarding access,
           please contact <%= link_to @pbcore.organization.short_name, @pbcore.organization.url %>.
         <% end %>
-          
+
         <% @pbcore.reference_urls.each do |url| %>
           <%= link_to 'More information on this record is available.', url %>
-        <% end %> 
+        <% end %>
       </div>
     <% end %>
   </div>
-      
+
   <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
     <h4>
       <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
@@ -136,12 +140,12 @@
     </dl>
   <% end %>
 
-  
+
   <% if @pbcore.asset_type %>
     <dl>
       <dt>Asset type</dt>
       <dd><%= @pbcore.asset_type %></dd>
-    </dl> 
+    </dl>
   <% end %>
 
   <% unless @pbcore.genres.empty? %>
@@ -152,7 +156,7 @@
       <% end %>
     </dl>
   <% end %>
-  
+
   <% unless @pbcore.topics.empty? %>
     <dl>
       <dt>Topics</dt>
@@ -198,15 +202,15 @@
       <dd><%= @pbcore.duration %></dd>
     </dl>
   <% end %>
-      
+
   <% if @pbcore.public? %>
      <dl style="display:none;"><%# TODO: remove style when ready to go. %>
       <dt>Embed Code</dt>
       <dd>
-        <input style="width: 100%; font-family: monospace;" 
-                 value="&lt;iframe src='<%= 
+        <input style="width: 100%; font-family: monospace;"
+                 value="&lt;iframe src='<%=
                     url_for(controller: 'embed', action: 'show', id: params[:id], only_path: false)
-                 %>' width='<%= AAPB::PLAYER_WIDTH %>' height='<%= AAPB::PLAYER_HEIGHT %>' 
+                 %>' width='<%= AAPB::PLAYER_WIDTH %>' height='<%= AAPB::PLAYER_HEIGHT %>'
                  style='border: 0;'&gt;&lt;/iframe&gt;"
                  onclick="this.select();" />
         <div class="well well-sm"><small>
@@ -221,28 +225,28 @@
     <% today = Date.today.to_formatted_s(:long) %>
     <% org = @pbcore.organization.short_name_html.gsub(/<[^>]*>/, '').html_safe + ', American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
     <dt>Citation</dt>
-    <dd><em>Chicago</em>: 
+    <dd><em>Chicago</em>:
       &ldquo;<%= @pbcore.title %>,&rdquo;
-      <%= @pbcore.asset_date + ',' if @pbcore.asset_date %> 
-      <%= org %>, 
-      accessed <%= today %>, 
+      <%= @pbcore.asset_date + ',' if @pbcore.asset_date %>
+      <%= org %>,
+      accessed <%= today %>,
       <%= url %>.</dd>
     <dd><em>MLA</em>:
       &ldquo;<%= @pbcore.title %>.&rdquo;
       <%= @pbcore.asset_date + '.' if @pbcore.asset_date %>
       <%= org %>.
-      Web. <%= today %>. 
+      Web. <%= today %>.
       &lt;<%= url %>&gt;.</dd>
     <dd><em>APA</em>:
       <%= @pbcore.title %>.
       Boston, MA: <%= org %>.
       Retrieved from <%= url %></dd>
   </dl>
-      
+
 <% end %>
-  
-<%= render partial: 'shared/title_sidebar_main', 
-     locals: { 
+
+<%= render partial: 'shared/title_sidebar_main',
+     locals: {
        title: 'Records',
        sidebar: yield(:sidebar),
        main: yield(:main)
