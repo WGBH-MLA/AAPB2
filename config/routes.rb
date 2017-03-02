@@ -51,8 +51,6 @@ Rails.application.routes.draw do
   get '/exhibits', to: 'exhibits#index'
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
 
-  get '/*path', to: 'override#show', constraints: override_constraints
-
   get '/plain/*path', to: 'plain_override#show', constraints: override_constraints
   get '/*path', to: 'override#show', constraints: override_constraints
 end
