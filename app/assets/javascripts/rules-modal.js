@@ -1,6 +1,6 @@
 $(document).ready(
         function() {
-            $('#password-modal').modal({
+            $('#rules-modal').modal({
                 keyboard: false
             });
         }

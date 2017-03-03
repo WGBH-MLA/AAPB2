@@ -1,0 +1,25 @@
+<% 'orr_rules_of_use'.tap do |cookie_name| %>
+  <% if !cookies[cookie_name] %>
+    <div class="modal fade" id="rules-modal" tabindex="-1" role="dialog" aria-labelledby="rules-modal-title" data-backdrop="static" data-keyboard="false">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="rules-modal-title">Online Reading Room Rules of Use</h4>
+          </div>
+          <div class="modal-body">
+            <p>
+              Welcome to the American Archive of Public Broadcasting Online Reading Room (ORR). To access media in the ORR, please review and agree to the ORR Rules of Use.
+            </p>
+            <iframe src="/plain_override/rules-of-use" style="width: 100%;"></iframe>
+          </div>
+          <div class="modal-footer">
+            I have read and agree to the terms and conditions.
+            <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="
+              document.cookie = '<%= cookie_name %>=y;max-age=<%= 60*60 %>'"
+            >Submit</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  <% end %>
+<% end %>
