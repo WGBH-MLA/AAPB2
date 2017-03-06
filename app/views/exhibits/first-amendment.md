@@ -39,7 +39,7 @@ Today, protests remain relevant—providing essential ways to speak out on polit
 When reporting on the role of public television in 1967, the Carnegie Commission advocated for public programming that captured the voices and protests of ordinary citizens, writing that:
 
 
-"[Public television] should be a forum for debate and controversy. It should bring into home meetings, now generally untelevised, where major public decisions are hammered out, and occasions where people of the community express their hopes, their protests, their enthusiasm, and their will. It should provide a voice for groups in the community that may otherwise be unheard."[<sup>1</sup>](/exhibits/first-amendment/notes#1)
+"[Public television] should be a forum for debate and controversy. It should bring into the home meetings, now generally untelevised, where major public decisions are hammered out, and occasions where people of the community express their hopes, their protests, their enthusiasm, and their will. It should provide a voice for groups in the community that may otherwise be unheard."[<sup>1</sup>](/exhibits/first-amendment/notes#1)
 
 
 Reflecting this early commitment to capturing debates and protests, the American Archive of Public Broadcasting (AAPB) holds a rich array of films, documentaries, radio interviews, and news programs highlighting the protests and movements that have shaped American policy and opinion. From the contentious 1960s and 1970s to the current day, the AAPB preserves the voices of concerned citizens captured through the vivid mediums of radio and television.
