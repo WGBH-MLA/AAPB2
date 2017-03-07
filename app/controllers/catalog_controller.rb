@@ -178,12 +178,10 @@ class CatalogController < ApplicationController
         @pbcore = PBCore.new(xml)
         if can? :skip_tos, @pbcore
           @skip_orr_terms = true
-          render
         else
           @skip_orr_terms = false
-          render
-          # redirect_to(terms_target + CGI.escape(params['id']))
         end
+        render
       end
       format.pbcore do
         render text: xml
