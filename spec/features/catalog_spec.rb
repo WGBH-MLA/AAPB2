@@ -408,9 +408,8 @@ describe 'Catalog' do
       it 'requires click-thru for ORR items' do
         ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
         visit 'catalog/cpb-aacip_37-16c2fsnr'
-        click_button('I agree')
         ENV.delete('RAILS_TEST_IP_ADDRESS')
-        expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
+        expect(page).to have_text('Online Reading Room Rules of Use')
       end
     end
   end
