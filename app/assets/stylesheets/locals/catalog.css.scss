@@ -23,7 +23,7 @@
 		-webkit-box-shadow: 2px 2px 5px 2px rgba(0,0,0,.15);
 		box-shadow: 2px 2px 5px 2px rgba(0,0,0,.15);
 	}
-	
+
 	/* Image:hover; */
 	.blacklight-catalog .document .media-left a:hover img {
 		opacity:.8;
@@ -36,7 +36,7 @@
 		margin:0 0 1em;
 	}
 
-	
+
 		dt {
 			color:#9f2064;
 			margin:0 0 .75em;
@@ -77,7 +77,7 @@
 /*---------*/
 
 
-/*universal*/ 
+/*universal*/
 .search-panel {
 	margin:0 auto 2em;
 }
@@ -98,11 +98,11 @@
 	.search-query-form .input-group-lg .input-group-addon {
 		width:20%;
 	}
-        
+
 	.search-query-form .input-group-lg option {
 		background-color:#292A72;
 	}
-	
+
 	/*select list*/
 	.search-query-form .input-group .input-group-addon .search_field {
 		background-color: transparent;
@@ -126,7 +126,7 @@
 
 
 
-/* SMALL */ 
+/* SMALL */
 .search-query-form .input-group-sm,
 .search-query-form .input-group-sm .input-group-addon
 .search-query-form .input-group-sm .search_field,
@@ -134,7 +134,7 @@
 .search-query-form .input-group-sm .search-btn {
 	height:30px;
 }
-	
+
 	/*the button*/
 	.search-query-form .input-group-sm .input-group-btn {
 		width:30px;
@@ -146,7 +146,7 @@
 			width:300px;
 		}
 
-/* Large */ 
+/* Large */
 .search-query-form .input-group-lg,
 .search-query-form .input-group-lg .input-group-addon
 .search-query-form .input-group-lg .search_field,
@@ -154,7 +154,7 @@
 .search-query-form .input-group-lg .search-btn {
 	height:50px;
 }
-	
+
 	/*the button*/
 	.search-query-form .input-group-lg .input-group-btn {
 		width:50px;
@@ -248,19 +248,19 @@
 
 
 /* Navbar Toggle */
-.column .navbar-default .navbar-toggle, 
+.column .navbar-default .navbar-toggle,
 .column .navbar-default .facets- {
 	border:none;
 }
 
-	.column .navbar-default .navbar-toggle .icon-bar, 
+	.column .navbar-default .navbar-toggle .icon-bar,
 	.column .navbar-default .facets-toggle .icon-bar {
 		background-color:#FFF;
 	}
 
-	.navbar-default .navbar-toggle:hover, 
-	.navbar-default .facets-toggle:hover, 
-	.navbar-default .navbar-toggle:focus, 
+	.navbar-default .navbar-toggle:hover,
+	.navbar-default .facets-toggle:hover,
+	.navbar-default .navbar-toggle:focus,
 	.navbar-default .facets-toggle:focus {
 	  background-color: transparent;
 	}
@@ -288,19 +288,19 @@
 
 
 /* Navbar Toggle */
-.column .navbar-default .navbar-toggle, 
+.column .navbar-default .navbar-toggle,
 .column .navbar-default .facets- {
 	border:none;
 }
 
-	.column .navbar-default .navbar-toggle .icon-bar, 
+	.column .navbar-default .navbar-toggle .icon-bar,
 	.column .navbar-default .facets-toggle .icon-bar {
 		background-color:#FFF;
 	}
 
-	.navbar-default .navbar-toggle:hover, 
-	.navbar-default .facets-toggle:hover, 
-	.navbar-default .navbar-toggle:focus, 
+	.navbar-default .navbar-toggle:hover,
+	.navbar-default .facets-toggle:hover,
+	.navbar-default .navbar-toggle:focus,
 	.navbar-default .facets-toggle:focus {
 	  background-color: transparent;
 	}

@@ -37,10 +37,10 @@
 			display:inline-block;
 			margin:0 auto;
 		}
-                
+
 .img-circle {
-  -webkit-border-radius:50%!important; 
-  -moz-border-radius:50%!important; 
+  -webkit-border-radius:50%!important;
+  -moz-border-radius:50%!important;
   border-radius:50%!important;
   width: 10em;
   padding-right: 1em;
@@ -120,7 +120,7 @@
 /* -------------------- */
 /* CATALOG ---------- */
 /* -------------------- */
-	
+
 	/* Image container */
 	.blacklight-catalog .document .media-left {
 		width:25%;
@@ -149,14 +149,14 @@
 	color: #FFF;
 }
 
-	
+
 	/* The Title/Attribution */
 	.featured-carousel .list-group-item .carousel-caption h3,
 	.featured-carousel .list-group-item .carousel-caption h4,
 	.featured-carousel .list-group-item .carousel-caption p {
 		color: #FFF;
 	}
-	
+
 	/*Orgs caroiusel*/
 	#orgs-carousel.featured-carousel .list-group-item {
 		min-height:300px;
@@ -198,7 +198,7 @@
 	width:100%;
 	z-index:1;
 }
-		
+
 	/* THe Caption - Stations */
 	#orgs-carousel.featured-carousel .list-group-item .carousel-caption {
 		background-color:transparent;
@@ -250,8 +250,13 @@
 			font-size: 1em;
 		}
 
+/* Banner Tagline */
 
-	
+#banner-text {
+  font-size: 0.80em;
+}
+
+
 
 
 }/* END: Desktop ---------- */

@@ -13,8 +13,11 @@
             <span class="icon-bar"></span>
           </button>
 
-          <header role="banner">
-            <%= link_to application_name, root_path, class: "navbar-brand"  %>
+          <header role="banner" class="banner-assets">
+            <%= link_to application_name, root_path, class: "navbar-brand banner" %>
+            <div class="banner-text">
+              <p id="banner-text" class="hidden-xs"><em>a collaboration between WGBH and the Library of Congress</em></p>
+            </div>
           </header>
         </div>
 
@@ -24,10 +27,19 @@
 
           <ul class="nav navbar-nav navbar-right primary-nav">
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Research <span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="/search">Searching the Website</a></li>
+                <li><a href="/about-the-american-archive">About the AAPB</a></li>
+                <li><a href="/about-the-american-archive/vision-and-mission">Vision and Mission</a></li>
+                <li><a href="/about-the-american-archive/history">History</a></li>
+                <li><a href="/participating-orgs">Participating Organizations</a></li>
                 <li><a href="/on-location">On Location Research</a></li>
+                <li><a href="/search">Searching the Website</a></li>
+                <li><a href="/exhibits">Exhibits</a></li>
+                <li><a href="/about-the-american-archive/projects">Projects</a></li>
+                <li><a href="/about-the-american-archive/executive-advisory-council">Executive Advisory Council</a></li>
+                <li><a href="/faq">FAQ</a></li>
+                <li><a href="/contact-us">Contact Us</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -46,11 +58,7 @@
           <nav class="navbar-right secondary-nav" role="navigation">
             <ul class="nav navbar-nav">
               <!-- Nav Search -->
-              <li><%= render_search_bar  %></li>
-              <li><a href="/advanced">Advanced Search...</a></li>
-              <li><a href="/about-the-american-archive">About</a></li>
-              <li><a href="/participating-orgs">Organizations</a></li>
-              <li><a href="/contact-us">Contact</a></li>
+              <li><%= render_search_bar %></li>
             </ul>
           </nav>
 

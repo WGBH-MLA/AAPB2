@@ -15,7 +15,7 @@
 	.header {
 		background:url(/site-ui/aapb-site-sprite.png) repeat-x 0 0;
 		position:relative;
-		padding:70px 0 10px;
+		padding:65px 0 10px;
 	}
 
 	/* Primary Nav */
@@ -40,10 +40,15 @@
 
 		.secondary-nav .navbar-nav {
 			display:inline-block;
-			float:none;
+			float:right;
 			margin:0 auto;
 		}
 
+		/* Banner Tagline */
+
+		#banner-text {
+		  font-size: 0.60em;
+		}
 
 /* --------- */
 /* FOOTER STYLES --------- */
@@ -63,7 +68,7 @@
 /* -------------------- */
 /* CATALOG ---------- */
 /* -------------------- */
-	
+
 	/* Image container */
 	.blacklight-catalog .document .media-left {
 		width:35%;
@@ -103,13 +108,13 @@
   border:none;
 }
 
-.column .facets .top-panel-heading, 
+.column .facets .top-panel-heading,
 .column .navbar-header {
 	float:none;
 }
 
-.column .navbar-default .navbar-collapse, 
-.column .navbar-default #facet-panel-collapse, 
+.column .navbar-default .navbar-collapse,
+.column .navbar-default #facet-panel-collapse,
 .column .navbar-default .navbar-form {
 	padding-left:0;
 	padding-right:0;
@@ -122,7 +127,7 @@
 	.column .navbar-nav > li {
 	  float: none;
 	}
-        
+
 .view-all-gallery {
         text-align:left;
 }
