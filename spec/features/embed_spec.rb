@@ -6,6 +6,8 @@ describe 'Embed' do
     PBCoreIngester.load_fixtures
   end
 
+  # xit-ing since we changed this redirection to a
+  # modal on catalog#show
   xit 'requires click-thru for ORR items' do
     ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
     visit 'embed/cpb-aacip_37-16c2fsnr'

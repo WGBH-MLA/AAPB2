@@ -366,7 +366,6 @@ describe 'Catalog' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
       expect_all_the_text('clean-every-title-is-episode-number.xml')
       expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
-
     end
 
     it 'has default poster for audio that ' do
