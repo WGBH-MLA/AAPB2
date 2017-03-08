@@ -10,5 +10,4 @@ class PlainOverrideController < ApplicationController
   rescue IndexError
     raise ActionController::RoutingError.new('404')
   end
-
 end
