@@ -30,12 +30,14 @@ describe 'Catalog' do
   # Calls an expectation for a <audio> element
   def expect_audio(opts = {})
     poster = opts[:poster]
+    expect(page).not_to have_text('Online Reading Room Rules of Use')
     expect(page).to have_selector('audio')
     expect(page).to have_css("audio[poster='#{poster}']") if poster
   end
 
   def expect_video(opts = {})
     poster = opts[:poster]
+    expect(page).not_to have_text('Online Reading Room Rules of Use')
     expect(page).to have_selector 'video'
     expect(page).to(have_css("video[poster='#{poster}']")) if poster
   end
@@ -364,6 +366,7 @@ describe 'Catalog' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
       expect_all_the_text('clean-every-title-is-episode-number.xml')
       expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
+
     end
 
     it 'has default poster for audio that ' do
