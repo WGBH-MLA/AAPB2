@@ -158,6 +158,7 @@ describe 'Validated and plain PBCore' do
         private?: false,
         protected?: false,
         public?: true,
+        access_level_description: 'Online Reading Room',
         media_type: 'Moving Image',
         video?: true,
         audio?: false,

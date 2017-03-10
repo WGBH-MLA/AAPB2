@@ -167,6 +167,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def private? # AKA not even on site
     access_level == 'Private' # TODO: Confirm that this is the right string.
   end
+  def access_level_description
+    return 'Online Reading Room' if public?
+    return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
+  end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
   OTHER = 'other'.freeze
@@ -288,7 +292,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
                :title, :ci_ids, :instantiations,
-               :outside_url, :reference_urls, :exhibits]
+               :outside_url, :reference_urls, :exhibits, :access_level_description]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
