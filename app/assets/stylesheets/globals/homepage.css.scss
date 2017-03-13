@@ -19,6 +19,13 @@
         padding:3em 0;
     }
 
+    .jumbotron {
+        a:focus {
+          background-color: transparent;
+          outline: #fff 3px solid;
+        }
+    }
+
     /*Set .container width on Homepage Jumbotron*/
     .home-jumbotron .container {
         width:100%;
@@ -143,6 +150,11 @@
     #welcome .btn-group {
         border-top:1px solid #FFF;
         width:100%;
+    }
+
+    #welcome .btn-group a:focus {
+        outline: #fff 3px solid;
+        padding: 3px;
     }
 
     /* Home One - Welcome */

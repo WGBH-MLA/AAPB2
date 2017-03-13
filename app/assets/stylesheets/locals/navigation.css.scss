@@ -8,6 +8,8 @@
 	border-radius: 0;
 }
 
+
+
 /*Main Nav*/
  .main-nav {
  	margin-bottom:0;
@@ -39,4 +41,22 @@
 	margin-top:7px;
 	padding:0;
 	text-indent:-9999em;
+}
+
+.navbar-default .navbar-nav > li > a:focus {
+  background-color: transparent;
+  outline: -webkit-focus-ring-color auto 5px;
+  outline-color: -webkit-focus-ring-color;
+  outline-style: auto;
+}
+
+.nav-pills {
+	li {
+		a:focus {
+		  background-color: rgba(24, 18, 40, 0.8);
+		  outline-color: #fff;
+			outline-style: solid;
+			outline-width: 2px;
+		}
+	}
 }
