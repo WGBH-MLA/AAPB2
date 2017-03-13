@@ -63,6 +63,16 @@
               <% end %>
             <% end %>
 
+            <dl class="clearfix sr-only">
+              <dt>Media Type</dt>
+              <dd><%= pbcore.media_type %></dd>
+            </dl>
+
+            <dl class="clearfix sr-only">
+              <dt>Access</dt>
+              <dd><%= pbcore.access_level_description %> <%= link_to "More information", "/on-location" if pbcore.protected? %></dd>
+            </dl>
+
           </article>
           <!-- END Column -->
         </div>

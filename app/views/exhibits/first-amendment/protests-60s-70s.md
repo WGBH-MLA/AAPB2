@@ -6,7 +6,7 @@
 
 When discussing the role of protests in America, it seems fitting to begin in the 1960s— one of the most contentious decades in living memory. The decade that began with the protests of the civil rights movement would end in a wave of activism by students, marginalized communities, and women that continued into the mid 1970s. As one historian put it,
 
-> **"In the 1960s, dissents shook the very foundation of U.S. civil society." [<sup>4</sup>](/exhibits/first-amendment/notes#4)**
+> **"In the 1960s, dissidents shook the very foundation of U.S. civil society." [<sup>4</sup>](/exhibits/first-amendment/notes#4)**
 
 
 ### The Fight Against Racism and Injustice <a id="chapter-1"></a>
@@ -18,12 +18,12 @@ Jump to [The New Left: Student Protests, Vietnam, and Women’s Liberation](#cha
 The AAPB holds notable audio and video from the civil rights movement, which reached the peak of its activism in the mid-1960s. Commentary from [Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45), audio from members of the [Congress of Racial Equality (CORE)](/catalog/cpb-aacip_28-br8mc8rr6z) and [Student Nonviolent Coordinating Committee (SNCC)](/catalog/cpb-aacip_28-sj19k46b34), interviews with members of [Southern Christian Leadership Conference](/catalog/cpb-aacip_15-95q4rk9v), and radio programs describing [stay-outs](/catalog/cpb-aacip_15-9v698c0j) vividly show the organized resistance to discrimination and the use of protest during the civil rights movement. Another AAPB exhibit, [Voices from the Southern Civil Rights Movement](http://americanarchive.org/exhibits/civil-rights), provides an in-depth examination of the movement in the American south.
 
 
-During the mid-1960s, a new strategy and philosophy to improve black lives grew out of the civil rights movement. The Black Power movement, espoused by organizations like SNCC and the Black Panther Party, began to advocate and rally in favor of black pride, black liberation, and revolutionary determinism. Pieces like [Sproul Hall sit-in documentation (1968)](/catalog/cpb-aacip_28-kw57d2qp5g), [Rally for the Oakland Seven (1968)](/catalog/cpb-aacip_28-ft8df6kf9j), and [Cecil Williams and Angela Davis Speaks (1972)](/catalog/cpb-aacip_28-833mw28n8t) document these protests as well as show their intersection with the rise of the “New Left” and student radicalism.
+During the mid-1960s, a new strategy and philosophy to improve black lives grew out of the civil rights movement. The Black Power Movement, espoused by organizations like SNCC and the Black Panther Party, began to advocate and rally in favor of black pride, black liberation, and revolutionary determinism. Pieces like [Sproul Hall sit-in documentation (1968)](/catalog/cpb-aacip_28-kw57d2qp5g), [Rally for the Oakland Seven (1968)](/catalog/cpb-aacip_28-ft8df6kf9j), and [Cecil Williams and Angela Davis Speaks (1972)](/catalog/cpb-aacip_28-833mw28n8t) document these protests as well as show their intersection with the rise of the “New Left” and student radicalism.
 
 ![Image of Angela Davis at protest](https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section2_1.jpg "Angela Davis at protest")
 
 
-The Red Power movement and the Chicano movement also fought against racism and sought to renew ethnic pride during the turbulent decades of the 1960s and 1970s. The Red Power movement was an inter-tribal movement by Americans Indians that fought for self-determination, sovereignty, and better reservation conditions during the late 1960s and the 1970s. The AAPB contains three pivotal moments of the Red Power movement in its archives: programs covering the occupation of [Alcatraz Island in 1969](/catalog/cpb-aacip_28-q23qv3cj2p), [the Siege of Wounded Knee in 1973](/catalog/cpb-aacip_28-bz6154f24n), and [the Longest Walk in 1978](/catalog/cpb-aacip_43-84zgn7fb). These three protests highlighted the concerns of American Indians to the public through acts of civil disobedience and mass protest. The Chicano movement also began in this period, fighting for better [labor conditions](/catalog/cpb-aacip_28-j09w08ws8t), [against racism](/catalog/cpb-aacip_28-6t0gt5fp55), and seeking to celebrate Mexican-American heritage.
+The Red Power Movement and the Chicano Movement also fought against racism and sought to renew ethnic pride during the turbulent decades of the 1960s and 1970s. The Red Power movement was an inter-tribal movement by Americans Indians that fought for self-determination, sovereignty, and better reservation conditions during the late 1960s and the 1970s. The AAPB contains three pivotal moments of the Red Power movement in its archives: programs covering the occupation of [Alcatraz Island in 1969](/catalog/cpb-aacip_28-q23qv3cj2p), [the Siege of Wounded Knee in 1973](/catalog/cpb-aacip_28-bz6154f24n), and [the Longest Walk in 1978](/catalog/cpb-aacip_43-84zgn7fb). These three protests highlighted the concerns of American Indians to the public through acts of civil disobedience and mass protest. The Chicano Movement also began in this period, fighting for better [labor conditions](/catalog/cpb-aacip_28-j09w08ws8t), [against racism](/catalog/cpb-aacip_28-6t0gt5fp55), and seeking to celebrate Mexican-American heritage.
 
 
 
@@ -109,7 +109,7 @@ From 1968 to 1970, protests continued in force as events like the Tet Offensive,
 - 1982—[Interview with William Sloane Coffin](/catalog/cpb-aacip_15-9k45q4rs29)
 
 ##### Women’s Movement
-- 1970s—[U of M Child Care Rally](/catalog/cpb-aacip_43-hx15m62n07)
+- 1970s—[University of Minnesota Child Care Rally](/catalog/cpb-aacip_43-hx15m62n07)
 - 1973—[International Woman’s Day](/catalog/cpb-aacip_27-j678s4k46n)
 - 1975—[Supporters of ERA Outline the Benefits of the Amendment](/catalog/cpb-aacip_15-mg7fq9qc0p)
 
