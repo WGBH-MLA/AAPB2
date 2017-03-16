@@ -122,8 +122,7 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 9],
           ['contributing_organizations', 38, 'WGBH+(MA)', 6],
           ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1],
-          ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 43]
+          ['year', 1, '2000', 1]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -154,6 +153,20 @@ describe 'Catalog' do
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
+            it "#{facet}=#{value}: #{value_count}\t#{url}" do
+              visit url
+              expect_count(value_count)
+              expect_fuzzy_xml
+            end
+          end
+        end
+
+        describe 'access facet' do
+          assertions = [
+            ['access_types', PBCore::ALL_ACCESS, 43]
+          ]
+          assertions.each do |facet, value, value_count|
+            url = "/catalog?f[#{facet}][]=#{value}"
             it "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
               expect_count(value_count)
