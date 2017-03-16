@@ -30,6 +30,9 @@ END
     # Escape "&" used in Google Analytics tracking code
     xhtml.gsub!('&', '&amp;')
 
+    # Remove falsely flagged tooltip html for access facet on catalog#index
+    xhtml.gsub!(/data-original-title="(.*)"/, '')
+
     # give values to attributes
     while xhtml.gsub!(MISSING_VAL_RE, '\1="FILLER" ')
       # Plain gsub doesn't work because that moves the cursor after each replace.

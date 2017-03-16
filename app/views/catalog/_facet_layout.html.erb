@@ -1,9 +1,11 @@
 <nav class="panel panel-default facet_limit blacklight-<%= facet_field.key.parameterize %> <%= 'facet_limit-active' if facet_field_in_params?(facet_field.key) %>">
-  <div class="<%= "collapsed" if should_collapse_facet?(facet_field) %> collapse-toggle panel-heading" data-toggle="collapse" data-target="#<%= facet_field_id(facet_field) %>">
-    <li><h4 class="panel-title facet-field-heading" id="facetheading">
-      <%= link_to facet_field_label(facet_field.key), "#", :"data-no-turbolink" => true %>
-    </h4></li>
-  </div>
+  <% unless facet_field.field == SolrDocument::ACCESS_FACET_FIELD %>
+    <div class="<%= "collapsed" if should_collapse_facet?(facet_field) %> collapse-toggle panel-heading" data-toggle="collapse" data-target="#<%= facet_field_id(facet_field) %>">
+      <li><h4 class="panel-title facet-field-heading" id="facetheading">
+        <%= link_to facet_field_label(facet_field.key), "#", :"data-no-turbolink" => true %>
+      </h4></li>
+    </div>
+  <% end %>
   <div id="<%= facet_field_id(facet_field) %>" class="panel-collapse facet-content <%= should_collapse_facet?(facet_field) ? 'collapse' : 'in' %>">
     <div class="panel-body">
       <% if facet_field.message %>
