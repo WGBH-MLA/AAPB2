@@ -102,7 +102,12 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
-
+  TRANSCRIPT_ANNOTATION = 'Transcript URL'.freeze
+  def transcript_src
+    @transcript_src ||= xpath("/*/pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']")
+  rescue NoMatchError
+    nil
+  end
   def img_src
     @img_src ||=
       case [media_type, digitized?]
@@ -226,12 +231,17 @@ class PBCore # rubocop:disable Metrics/ClassLength
     "#{caption_base}/#{caption_id}/#{caption_id}.srt1.srt"
   end
 
+  def self.transcript_url(id)
+    transcript_id = id.tr('_', '-')
+    transcript_base = 'https://s3.amazonaws.com/americanarchive.org/transcripts'
+    "#{transcript_base}/#{transcript_id}/#{transcript_id}-transcript.json"
+  end
+
   def to_solr
     # Only just before indexing do we check for the existence of captions:
     # We don't want to ping S3 multiple times, and we don't want to store all
     # of a captions/transcript file in solr (much less in the pbcore).
     # --> We only want to say that it exists, and we want to index the words.
-
     doc_with_caption_flag = @doc.deep_clone
     # perhaps paranoid, but I don't want this method to have side effects.
 
@@ -243,6 +253,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       # "\n" is not in the [:print:] class, but it should be preserved.
       # "&&" is intersection: we also want to match " ",
       # so that control-chars + spaces collapse to a single space.
+
       REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|
           el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
@@ -250,12 +261,27 @@ class PBCore # rubocop:disable Metrics/ClassLength
         end
     end
 
+    doc_with_transcript_flag = doc_with_caption_flag
+
+    transcript_response = Net::HTTP.get_response(URI.parse(PBCore.transcript_url(id)))
+    if transcript_response.code == '200'
+      pre_existing = REXML::XPath.match(doc_with_transcript_flag, "//pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']").first
+      pre_existing.parent.elements.delete(pre_existing) if pre_existing
+      transcript_body = JSON.parse(transcript_response.body)["parts"].map{ |part| part["text"] }.flatten
+
+      REXML::XPath.match(doc_with_transcript_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
+        REXML::Element.new('pbcoreAnnotation').tap do |el|
+          el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
+          el.add_text(PBCore.transcript_url(id))
+        end
+    end
+
     {
       'id' => id,
-      'xml' => Formatter.instance.format(doc_with_caption_flag),
+      'xml' => Formatter.instance.format(doc_with_transcript_flag),
 
       # constrained searches:
-      'text' => text + [caption_body].select { |optional| optional },
+      'text' => text + [caption_body].select { |optional| optional } + transcript_body,
       'titles' => titles.map(&:last),
       'contribs' => contribs,
 
