@@ -79,7 +79,7 @@ describe 'Catalog' do
     end
 
     it 'offers to broaden search' do
-      visit '/catalog?q=nothing-matches-this&f[access_types][]=' + PBCore::PUBLIC_ACCESS
+      visit '/catalog?q=xkcd&f[access_types][]=' + PBCore::PUBLIC_ACCESS
       expect(page).to have_text('No entries found')
       click_link 'searching all records'
       expect(page).to have_text('Consider using other search terms or removing filters.')
@@ -104,13 +104,13 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 1, 'Sound', 9],
+          ['media_type', 1, 'Sound', 10],
           ['genres', 2, 'Interview', 3],
-          ['topics', 1, 'Music', 2],
+          ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 32, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
+          ['organization', 34, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 26]
+          ['access_types', 3, PBCore::ALL_ACCESS, 27]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -154,9 +154,9 @@ describe 'Catalog' do
         describe 'URL support' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
-            ['media_type', 'Sound', 9],
-            ['media_type', 'Sound+OR+Moving+Image', 22],
-            ['media_type', 'Moving+Image+OR+Sound', 22],
+            ['media_type', 'Sound', 10],
+            ['media_type', 'Sound+OR+Moving+Image', 23],
+            ['media_type', 'Moving+Image+OR+Sound', 23],
             ['media_type', 'Moving+Image', 13]
           ]
           assertions.each do |facet, value, value_count|
@@ -177,7 +177,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(26)
+          expect_count(27)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
