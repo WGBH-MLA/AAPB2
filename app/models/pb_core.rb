@@ -247,12 +247,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
     caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
     if caption_response.code == '200'
-      pre_existing = REXML::XPath.match(doc_with_caption_flag, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first
+      pre_existing = pre_existing_caption_annotation(doc_with_caption_flag)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      caption_body = caption_response.body.gsub(/[^[:print:][\n]&&[^ ]]+/, ' ')
-      # "\n" is not in the [:print:] class, but it should be preserved.
-      # "&&" is intersection: we also want to match " ",
-      # so that control-chars + spaces collapse to a single space.
+
+      caption_body = parse_caption_body(caption_response.body)
 
       REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|
@@ -265,9 +263,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
     transcript_response = Net::HTTP.get_response(URI.parse(PBCore.transcript_url(id)))
     if transcript_response.code == '200'
-      pre_existing = REXML::XPath.match(doc_with_transcript_flag, "//pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']").first
+      pre_existing = pre_existing_transcript_annotation(doc_with_transcript_flag)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      transcript_body = JSON.parse(transcript_response.body)["parts"].map{ |part| part["text"] }.flatten
+
+      transcript_body = parse_transcript_body(transcript_response.body)
 
       REXML::XPath.match(doc_with_transcript_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|
@@ -281,7 +280,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'xml' => Formatter.instance.format(doc_with_transcript_flag),
 
       # constrained searches:
-      'text' => text + [caption_body].select { |optional| optional } + transcript_body,
+      'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
       'titles' => titles.map(&:last),
       'contribs' => contribs,
 
@@ -341,5 +340,24 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+  end
+
+  def pre_existing_caption_annotation(doc)
+    REXML::XPath.match(doc, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first
+  end
+
+  def pre_existing_transcript_annotation(doc)
+    REXML::XPath.match(doc, "//pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']").first
+  end
+
+  def parse_caption_body(caption_body)
+    # "\n" is not in the [:print:] class, but it should be preserved.
+    # "&&" is intersection: we also want to match " ",
+    # so that control-chars + spaces collapse to a single space.
+    caption_body.gsub(/[^[:print:][\n]&&[^ ]]+/, ' ')
+  end
+
+  def parse_transcript_body(transcript_body)
+    JSON.parse(transcript_body)["parts"].map{ |part| part["text"] }.flatten
   end
 end
