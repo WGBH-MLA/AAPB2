@@ -313,7 +313,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src,
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, :transcript_src,
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
                :title, :ci_ids, :instantiations,
@@ -358,6 +358,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
 
   def parse_transcript_body(transcript_body)
-    JSON.parse(transcript_body)["parts"].map{ |part| part["text"] }.flatten
+    JSON.parse(transcript_body)['parts'].map { |part| part['text'] }.flatten
   end
 end
