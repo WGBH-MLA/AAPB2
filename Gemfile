@@ -72,6 +72,7 @@ gem 'rubyzip'
 
 gem 'cancan'
 gem 'geoip'
+gem 'fastimage'
 gem 'rack-cors', :require => 'rack/cors'
 
 gem 'aws-sdk', '~> 2', :group => :development # Unless we want the AWS credentials on Travis for tests...
