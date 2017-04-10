@@ -10,16 +10,14 @@ to the needs to audiovisual archives, especially in terms of preservation and
 access.
 
 - [Council on Library and Information Resources (CLIR)](http://www.clir.org/)
-- [Ford Foundation](http://www.fordfoundation.org/Grants)
 - [Grammy Foundation](http://www.grammy.org/grammy-foundation/grants)
 - [Institute of Museum and Library Services (IMLS)](http://www.imls.gov/)
 - [Knight Foundation](http://www.knightfoundation.org/apply/funding-options/)
+- [National Endowment for the Arts (NEA)](https://www.arts.gov/)
 - [National Endowment for the Humanities (NEH)](http://www.neh.gov/grants)
 - [National Film Preservation Foundation](http://www.filmpreservation.org/)
-- [National Historical Publications & Records Commission 
-(NHPRC)](http://www.archives.gov/nhprc/announcement/)
-- [National Recording Preservation 
-Foundation](http://recordingpreservation.org/)
+- [National Historical Publications and Records Commission (NHPRC)](http://www.archives.gov/nhprc/announcement/)
+- [National Recording Preservation Foundation](http://recordingpreservation.org/)
 
  
 ## Professional Organizations
@@ -35,11 +33,9 @@ heritage institutions and projects.
 - [Association of Moving Image Archivists (AMIA)](http://www.amianet.org/)
   - [AMIA Education Committee](https://amiaeducomm.wordpress.com/)
 - [Association of Tribal Archives, Libraries, and Museums](http://www.atalm.org)
-- [National Digital Stewardship Alliance 
-(NDSA)](http://www.digitalpreservation.gov/ndsa/)
+- [National Digital Stewardship Alliance (NDSA)](http://ndsa.org/)
 - [Society of American Archivists (SAA)](http://www2.archivists.org/)
-  - [SAA, Recorded Sound 
-Roundtable](http://www2.archivists.org/groups/recorded-sound-roundtable)
+  - [SAA, Recorded Sound Roundtable](http://www2.archivists.org/groups/recorded-sound-roundtable)
   - [SAA, Visual Materials Section](http://saavms.org)
 - [Visual Resources Association](http://vraweb.org/)
 
@@ -55,11 +51,7 @@ Roundtable](http://www2.archivists.org/groups/recorded-sound-roundtable)
 
 ### State and Local:
 
-The [Council 
-of State 
-Archivists](https://www.statearchivists.org) and the [Society of American 
-Archivists](http://www2.archivists.org/assoc-orgs/directory) provide useful lists of state and local professional organizations.
-
+The [Council of State Archivists](https://www.statearchivists.org) and the [Society of American Archivists](http://www2.archivists.org/assoc-orgs/directory) provide useful lists of state and local professional organizations.
 
 ## Public Broadcasting Core (PBCore) Metadata Dictionary project
 
@@ -70,44 +62,33 @@ organizations managing video and audio collections with a simple data model and
 XML schema for video and audio metadata.
 
 - [PBCore website](http://pbcore.org/)
-- [PBCore webinar](http://vimeo.com/109940772)
 
-## Guides
-
-### Cataloging
+## Cataloging Guides
 
 - [American Archive of Public Broadcasting (AAPB) Listening and Viewing Guidelines](https://docs.google.com/document/d/1DV6Foz-X0ID8IxmM8QlR2n10479Pmq-WmzpDk7RCzcQ/edit?usp=sharing)
 - [American Archive of Public Broadcasting (AAPB) Cataloging Guidelines](https://docs.google.com/document/d/1-i3p1TvAMcAhqNxCAkvAQ7xUYUpgsMvUcJgP0PJfg2o/edit?usp=sharing)
-- [Archival Moving Image Materials: A Cataloging Manual (2nd 
-Edition)](https://archive.org/details/AMIM2)
-- [FIAF Moving Image Cataloguing Manual (Draft, March 
-2014)](http://www.filmstandards.org/fiaf/wiki/doku.php)
-
-### Video Guides
-
-- [Activists' Guide to Archiving Video (2014) by WITNESS](http://archiveguide.witness.org/)
-- [Bay Area Video Coalition (BAVC) AV Artifact 
-Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas)
-- [Preservation Self-Assessment Program's Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
-
+- [Archival Moving Image Materials: A Cataloging Manual (2nd Edition)](https://archive.org/details/AMIM2)
+- [FIAF Moving Image Cataloguing Manual (Draft, March 2014)](http://www.filmstandards.org/fiaf/wiki/doku.php)
 
 ## Preservation
 
-### Reports
+### Analog Preservation
+
+- [Bay Area Video Coalition (BAVC) AV Artifact Atlas](https://bavc.org/preserve-media/preservation-tools/av-artifact-atlas)
+- [Preservation Self-Assessment Program's Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
+- [Handling and Storage of Audio and Video Carriers (IASA-TC-05) (2014)](http://www.iasa-web.org/notice_board/iasa-publishes-authoritative-guide-handling-and-storage-sound-and-video-recordings)
+
+### Digital Preservation
 
 - [ARSC Guide to Audio Preservation](http://www.clir.org/pubs/reports/pub164/pub164.pdf)
-- [Handling and Storage of Audio and Video Carriers (IASA-TC-05) (2014)](http://www.iasa-web.org/notice_board/iasa-publishes-authoritative-guide-handling-and-storage-sound-and-video-recordings)
 - [NDSA Levels of Preservation](http://www.digitalpreservation.gov/ndsa/activities/levels.html)
 - [Preserving Digital Public Television](http://www.digitalpreservation.gov/partners/pdpt.html)
+- [Activists' Guide to Archiving Video (2014) by WITNESS](http://archiveguide.witness.org/)
 
- 
-### Other Tools
+### Tools
 
-- [Audiovisual Preservation Tools developed by 
-AVPreserve](http://www.avpreserve.com/avpsresources/tools/)
-- [NEDCC dPlan Online Disaster-Planning 
-Tool](https://www.nedcc.org/free-resources/dplan-the-online-disaster-planning-tool)
-
+- [Audiovisual Preservation Tools developed by AVPreserve](http://www.avpreserve.com/avpsresources/tools/)
+- [NEDCC dPlan Online Disaster-Planning Tool](https://www.nedcc.org/free-resources/dplan-the-online-disaster-planning-tool)
 
 ## Library of Congress Initiatives
 
