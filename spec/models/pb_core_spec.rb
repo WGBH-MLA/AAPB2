@@ -151,6 +151,7 @@ describe 'Validated and plain PBCore' do
         media_srcs: ['/media/1234?part=1', '/media/1234?part=2'],
         img_src: "#{AAPB::S3_BASE}/thumbnail/1234.jpg",
         captions_src: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt',
+        transcript_src: nil,
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
         outside_url: 'http://www.wgbh.org/',

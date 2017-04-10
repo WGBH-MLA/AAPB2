@@ -81,7 +81,7 @@ describe 'Catalog' do
     end
 
     it 'offers to broaden search' do
-      visit '/catalog?q=nothing-matches-this&f[access_types][]=' + PBCore::PUBLIC_ACCESS
+      visit '/catalog?q=xkcd&f[access_types][]=' + PBCore::PUBLIC_ACCESS
       expect(page).to have_text('No entries found')
       click_link 'searching all records'
       expect(page).to have_text('Consider using other search terms or removing filters.')
@@ -106,13 +106,13 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 1, 'Sound', 9],
+          ['media_type', 1, 'Sound', 10],
           ['genres', 2, 'Interview', 3],
-          ['topics', 1, 'Music', 2],
+          ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 32, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
+          ['organization', 34, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 26]
+          ['access_types', 3, PBCore::ALL_ACCESS, 27]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -156,9 +156,9 @@ describe 'Catalog' do
         describe 'URL support' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
-            ['media_type', 'Sound', 9],
-            ['media_type', 'Sound+OR+Moving+Image', 22],
-            ['media_type', 'Moving+Image+OR+Sound', 22],
+            ['media_type', 'Sound', 10],
+            ['media_type', 'Sound+OR+Moving+Image', 23],
+            ['media_type', 'Moving+Image+OR+Sound', 23],
             ['media_type', 'Moving+Image', 13]
           ]
           assertions.each do |facet, value, value_count|
@@ -179,7 +179,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(26)
+          expect_count(27)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -233,9 +233,9 @@ describe 'Catalog' do
       describe 'sorting' do
         describe 'relevance sorting' do
           assertions = [
-            ['Iowa', ['Bob Brozman', 'Touchstone 108', 'Musical Encounter; 116; Music for Fun', 'Dr. Norman Borlaug; B-Roll']],
-            ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
-            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll']]
+            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman']],
+            ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
+            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
           ]
           assertions.each do |query, titles|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=#{query}"
@@ -299,6 +299,7 @@ describe 'Catalog' do
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
                  'Access: Online Reading Room'],
+                ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH', 'Media Type: Sound', 'Access: '],
