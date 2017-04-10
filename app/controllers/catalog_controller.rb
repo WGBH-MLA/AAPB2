@@ -176,11 +176,7 @@ class CatalogController < ApplicationController
     respond_to do |format|
       format.html do
         @pbcore = PBCore.new(xml)
-        @skip_orr_terms = if can? :skip_tos, @pbcore
-                            true
-                          else
-                            false
-                          end
+        @skip_orr_terms = can? :skip_tos, @pbcore
         render
       end
       format.pbcore do
