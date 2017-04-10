@@ -30,12 +30,14 @@ describe 'Catalog' do
   # Calls an expectation for a <audio> element
   def expect_audio(opts = {})
     poster = opts[:poster]
+    expect(page).not_to have_text('Online Reading Room Rules of Use')
     expect(page).to have_selector('audio')
     expect(page).to have_css("audio[poster='#{poster}']") if poster
   end
 
   def expect_video(opts = {})
     poster = opts[:poster]
+    expect(page).not_to have_text('Online Reading Room Rules of Use')
     expect(page).to have_selector 'video'
     expect(page).to(have_css("video[poster='#{poster}']")) if poster
   end
@@ -409,9 +411,8 @@ describe 'Catalog' do
       it 'requires click-thru for ORR items' do
         ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
         visit 'catalog/cpb-aacip_37-16c2fsnr'
-        click_button('I agree')
         ENV.delete('RAILS_TEST_IP_ADDRESS')
-        expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
+        expect(page).to have_text('Online Reading Room Rules of Use')
       end
     end
   end
