@@ -1,6 +1,7 @@
 require 'rexml/document'
 require 'rexml/xpath'
 require 'solrizer'
+require 'fastimage'
 require_relative '../../lib/aapb'
 require_relative 'exhibit'
 require_relative '../../lib/html_scrubber'
@@ -128,6 +129,13 @@ class PBCore # rubocop:disable Metrics/ClassLength
       end
     # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
     # If these got moved to S3, that would need to change.
+  end
+  def img_height
+    @img_height = FastImage.size(img_src)[1]
+  end
+
+  def img_width
+    @img_width = FastImage.size(img_src)[0]
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
