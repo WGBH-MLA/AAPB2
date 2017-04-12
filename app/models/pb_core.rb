@@ -130,19 +130,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # If these got moved to S3, that would need to change.
   end
   def img_height
-    @img_height = if FastImage.size(@img_src).nil?
-                    '225'
-                  else
-                    FastImage.size(@img_src)[1]
-                  end
+    @img_height = img_dimensions[1]
   end
-
   def img_width
-    @img_width = if FastImage.size(@img_src).nil?
-                   '300'
-                 else
-                   FastImage.size(@img_src)[0]
-                 end
+    @img_width = img_dimensions[0]
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
@@ -374,5 +365,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
   def parse_transcript_body(transcript_body)
     JSON.parse(transcript_body)['parts'].map { |part| part['text'] }.flatten
+  end
+
+  def img_dimensions
+    return [ 300, 225 ] if FastImage.size(@img_src).nil?
+    FastImage.size(@img_src)
   end
 end
