@@ -131,13 +131,19 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # If these got moved to S3, that would need to change.
   end
   def img_height
-    return '225' if FastImage.size(@img_src).nil?
-    @img_height = FastImage.size(@img_src)[1]
+    @img_height = if FastImage.size(@img_src).nil?
+                    '225'
+                  else
+                    FastImage.size(@img_src)[1]
+                  end
   end
 
   def img_width
-    return '300' if FastImage.size(@img_src).nil?
-    @img_width = FastImage.size(@img_src)[0]
+    @img_width = if FastImage.size(@img_src).nil?
+                    '300'
+                  else
+                    FastImage.size(@img_src)[0]
+                  end
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
@@ -327,7 +333,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
                :title, :ci_ids, :instantiations,
-               :outside_url, :reference_urls, :exhibits, :access_level_description]
+               :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
