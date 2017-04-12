@@ -1,7 +1,6 @@
 require 'rexml/document'
 require 'rexml/xpath'
 require 'solrizer'
-require 'fastimage'
 require_relative '../../lib/aapb'
 require_relative 'exhibit'
 require_relative '../../lib/html_scrubber'
