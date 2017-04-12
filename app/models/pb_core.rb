@@ -140,10 +140,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
   def img_width
     @img_width = if FastImage.size(@img_src).nil?
-                    '300'
-                  else
-                    FastImage.size(@img_src)[0]
-                  end
+                   '300'
+                 else
+                   FastImage.size(@img_src)[0]
+                 end
   end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
