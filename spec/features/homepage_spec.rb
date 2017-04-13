@@ -10,5 +10,6 @@ describe 'Homepage' do
     expect(page.status_code).to eq(200)
     expect(page).to have_text('Discover historic programs')
     expect_fuzzy_xml(allow_default_title: true)
+    expect(page).not_to have_css('input_search_q.q')
   end
 end
