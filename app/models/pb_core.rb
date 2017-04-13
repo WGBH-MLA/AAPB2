@@ -129,6 +129,12 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
     # If these got moved to S3, that would need to change.
   end
+  def img_height
+    @img_height = img_dimensions[1]
+  end
+  def img_width
+    @img_width = img_dimensions[0]
+  end
   def organization_pbcore_name
     @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
   end
@@ -317,7 +323,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
                :title, :ci_ids, :instantiations,
-               :outside_url, :reference_urls, :exhibits, :access_level_description]
+               :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
@@ -359,5 +365,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
   def parse_transcript_body(transcript_body)
     JSON.parse(transcript_body)['parts'].map { |part| part['text'] }.flatten
+  end
+
+  def img_dimensions
+    @img_dimensions ||= (FastImage.size(@img_src) || [300, 225])
   end
 end
