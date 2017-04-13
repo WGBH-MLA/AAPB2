@@ -368,7 +368,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
 
   def img_dimensions
-    return [300, 225] if FastImage.size(@img_src).nil?
-    FastImage.size(@img_src)
+    @img_dimensions ||= (FastImage.size(@img_src) || [300, 225])
   end
 end
