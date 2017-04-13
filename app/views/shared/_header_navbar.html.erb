@@ -56,9 +56,12 @@
 
           <!-- Secondary Nav Links -->
           <nav class="navbar-right secondary-nav" role="navigation">
+
             <ul class="nav navbar-nav">
               <!-- Nav Search -->
-              <li><%= render_search_bar %></li>
+              <% unless current_page?(controller: 'home', action: 'show' ) %>
+                <li><%= render_search_bar %></li>
+              <% end %>
             </ul>
           </nav>
 
