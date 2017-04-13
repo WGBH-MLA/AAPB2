@@ -1,8 +1,10 @@
 #!/bin/sh
-# batch rename script for AAPB files
+SAVEIFS=$IFS
+IFS=$'\n'
 
-echo "drag and drop the spreadsheet containing CPB GUIDs"
-read ref
+read -p "drag and drop the spreadsheet containing CPB GUIDs:	
+" p1;
+ref=$(echo $p1 | tr -d ' ')
 
 file=$( find . \( ! -regex '.*/\..*' \) ! -path . -type f )
 for file in $file; do

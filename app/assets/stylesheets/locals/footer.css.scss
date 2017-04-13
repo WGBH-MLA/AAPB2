@@ -23,6 +23,11 @@
 		padding:0;
 	}
 
+  #footer a:focus {
+    outline: #fff 3px solid;
+    padding: 3px;
+  }
+
 
 	/* Row One --------- */
 
@@ -71,7 +76,7 @@
 
 
 	/* LIST GROUP */
-		
+
 
 		/*the list*/
 		.row.two .list-group {
@@ -85,9 +90,9 @@
 				.row.two .list-group-item a:hover {
 					color:#9f2064;
 				}
-                                
+
                 /*Social Links in the Footer */
-                
+
                 ul.social {
                         display:inline-block;
                         margin:0 auto;
@@ -187,7 +192,7 @@
 	}
 
 /* MISC Elements */
-		
+
 hr {
     border: 0;
     height: 1px;

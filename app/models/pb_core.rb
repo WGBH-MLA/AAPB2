@@ -102,7 +102,12 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
-
+  TRANSCRIPT_ANNOTATION = 'Transcript URL'.freeze
+  def transcript_src
+    @transcript_src ||= xpath("/*/pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']")
+  rescue NoMatchError
+    nil
+  end
   def img_src
     @img_src ||=
       case [media_type, digitized?]
@@ -167,6 +172,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def private? # AKA not even on site
     access_level == 'Private' # TODO: Confirm that this is the right string.
   end
+  def access_level_description
+    return 'Online Reading Room' if public?
+    return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
+  end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
   OTHER = 'other'.freeze
@@ -222,23 +231,27 @@ class PBCore # rubocop:disable Metrics/ClassLength
     "#{caption_base}/#{caption_id}/#{caption_id}.srt1.srt"
   end
 
+  def self.transcript_url(id)
+    transcript_id = id.tr('_', '-')
+    transcript_base = 'https://s3.amazonaws.com/americanarchive.org/transcripts'
+    "#{transcript_base}/#{transcript_id}/#{transcript_id}-transcript.json"
+  end
+
   def to_solr
     # Only just before indexing do we check for the existence of captions:
     # We don't want to ping S3 multiple times, and we don't want to store all
     # of a captions/transcript file in solr (much less in the pbcore).
     # --> We only want to say that it exists, and we want to index the words.
-
     doc_with_caption_flag = @doc.deep_clone
     # perhaps paranoid, but I don't want this method to have side effects.
 
     caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
     if caption_response.code == '200'
-      pre_existing = REXML::XPath.match(doc_with_caption_flag, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first
+      pre_existing = pre_existing_caption_annotation(doc_with_caption_flag)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      caption_body = caption_response.body.gsub(/[^[:print:][\n]&&[^ ]]+/, ' ')
-      # "\n" is not in the [:print:] class, but it should be preserved.
-      # "&&" is intersection: we also want to match " ",
-      # so that control-chars + spaces collapse to a single space.
+
+      caption_body = parse_caption_body(caption_response.body)
+
       REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|
           el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
@@ -246,12 +259,28 @@ class PBCore # rubocop:disable Metrics/ClassLength
         end
     end
 
+    doc_with_transcript_flag = doc_with_caption_flag
+
+    transcript_response = Net::HTTP.get_response(URI.parse(PBCore.transcript_url(id)))
+    if transcript_response.code == '200'
+      pre_existing = pre_existing_transcript_annotation(doc_with_transcript_flag)
+      pre_existing.parent.elements.delete(pre_existing) if pre_existing
+
+      transcript_body = parse_transcript_body(transcript_response.body)
+
+      REXML::XPath.match(doc_with_transcript_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
+        REXML::Element.new('pbcoreAnnotation').tap do |el|
+          el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
+          el.add_text(PBCore.transcript_url(id))
+        end
+    end
+
     {
       'id' => id,
-      'xml' => Formatter.instance.format(doc_with_caption_flag),
+      'xml' => Formatter.instance.format(doc_with_transcript_flag),
 
       # constrained searches:
-      'text' => text + [caption_body].select { |optional| optional },
+      'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
       'titles' => titles.map(&:last),
       'contribs' => contribs,
 
@@ -284,11 +313,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
   # These methods are only used by to_solr.
 
   def text
-    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src,
+    ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, :transcript_src,
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
                :title, :ci_ids, :instantiations,
-               :outside_url, :reference_urls, :exhibits]
+               :outside_url, :reference_urls, :exhibits, :access_level_description]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
@@ -311,5 +340,24 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+  end
+
+  def pre_existing_caption_annotation(doc)
+    REXML::XPath.match(doc, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first
+  end
+
+  def pre_existing_transcript_annotation(doc)
+    REXML::XPath.match(doc, "//pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']").first
+  end
+
+  def parse_caption_body(caption_body)
+    # "\n" is not in the [:print:] class, but it should be preserved.
+    # "&&" is intersection: we also want to match " ",
+    # so that control-chars + spaces collapse to a single space.
+    caption_body.gsub(/[^[:print:][\n]&&[^ ]]+/, ' ')
+  end
+
+  def parse_transcript_body(transcript_body)
+    JSON.parse(transcript_body)['parts'].map { |part| part['text'] }.flatten
   end
 end

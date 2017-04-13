@@ -30,12 +30,14 @@ describe 'Catalog' do
   # Calls an expectation for a <audio> element
   def expect_audio(opts = {})
     poster = opts[:poster]
+    expect(page).not_to have_text('Online Reading Room Rules of Use')
     expect(page).to have_selector('audio')
     expect(page).to have_css("audio[poster='#{poster}']") if poster
   end
 
   def expect_video(opts = {})
     poster = opts[:poster]
+    expect(page).not_to have_text('Online Reading Room Rules of Use')
     expect(page).to have_selector 'video'
     expect(page).to(have_css("video[poster='#{poster}']")) if poster
   end
@@ -79,7 +81,7 @@ describe 'Catalog' do
     end
 
     it 'offers to broaden search' do
-      visit '/catalog?q=nothing-matches-this&f[access_types][]=' + PBCore::PUBLIC_ACCESS
+      visit '/catalog?q=xkcd&f[access_types][]=' + PBCore::PUBLIC_ACCESS
       expect(page).to have_text('No entries found')
       click_link 'searching all records'
       expect(page).to have_text('Consider using other search terms or removing filters.')
@@ -104,13 +106,13 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 1, 'Sound', 9],
+          ['media_type', 1, 'Sound', 10],
           ['genres', 2, 'Interview', 3],
-          ['topics', 1, 'Music', 2],
+          ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 32, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
+          ['organization', 34, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 26]
+          ['access_types', 3, PBCore::ALL_ACCESS, 27]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -154,9 +156,9 @@ describe 'Catalog' do
         describe 'URL support' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
-            ['media_type', 'Sound', 9],
-            ['media_type', 'Sound+OR+Moving+Image', 22],
-            ['media_type', 'Moving+Image+OR+Sound', 22],
+            ['media_type', 'Sound', 10],
+            ['media_type', 'Sound+OR+Moving+Image', 23],
+            ['media_type', 'Moving+Image+OR+Sound', 23],
             ['media_type', 'Moving+Image', 13]
           ]
           assertions.each do |facet, value, value_count|
@@ -177,7 +179,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(26)
+          expect_count(27)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -231,9 +233,9 @@ describe 'Catalog' do
       describe 'sorting' do
         describe 'relevance sorting' do
           assertions = [
-            ['Iowa', ['Bob Brozman', 'Touchstone 108', 'Musical Encounter; 116; Music for Fun', 'Dr. Norman Borlaug; B-Roll']],
-            ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100']],
-            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll']]
+            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman']],
+            ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
+            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
           ]
           assertions.each do |query, titles|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=#{query}"
@@ -285,32 +287,34 @@ describe 'Catalog' do
                   end
                 end.select { |x| x }.join('; ')
               end.join("\n")).to eq([
-                ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ'],
-                ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT'],
-                ['Program: Bob Brozman; Organization: Iowa Public Radio'],
-                ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio'],
-                ['Title: Dry Spell', 'Organization: KQED'],
-                ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS'],
-                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv'],
-                ['Series: Gvsports', 'Organization: WGVU Public TV and Ra'],
-                ['Series: The Lost Year', 'Organization: Arkansas Educational'],
-                ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev'],
-                ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio'],
-                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH'],
-                ['Title: Podcast Release Form', 'Organization: KXCI Community Radio'],
-                ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH'],
-                ['Title: The Scheewe Art Works', 'Organization: Detroit Public Televi'],
-                ['Program: The Sorting Test: 1', 'Organization: WUSF'],
-                ['Program: # "SORTING" Test: 2', 'Organization: Detroit Public Televi'],
-                ['Program: A Sorting Test: 100', 'Organization: WNYC'],
-                ['Episode: Touchstone 108', 'Organization: Iowa Public Televisio'],
-                ['Program: Unknown', 'Organization: WIAA'],
-                ['Program: World Cafe', 'Segment: Howard Kramer 2004', 'Organization: WXPN'],
-                ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN'],
-                ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN'],
-                ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC'],
-                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Organization: WERU Community Radio'],
-                ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational']
+                ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ', 'Media Type: Sound', 'Access: '],
+                ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT', 'Media Type: other', 'Access: '],
+                ['Program: Bob Brozman; Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
+                ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
+                ['Title: Dry Spell', 'Organization: KQED', 'Media Type: Moving Image', 'Access: '],
+                ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS', 'Media Type: Moving Image', 'Access: '],
+                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv', 'Media Type: Moving Image', 'Access: '],
+                ['Series: Gvsports', 'Organization: WGVU Public TV and Ra', 'Media Type: other', 'Access: '],
+                ['Series: The Lost Year', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
+                ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
+                ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
+                 'Access: Online Reading Room'],
+                ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
+                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
+                ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH', 'Media Type: Sound', 'Access: '],
+                ['Title: The Scheewe Art Works', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
+                ['Program: The Sorting Test: 1', 'Organization: WUSF', 'Media Type: other', 'Access: '],
+                ['Program: # "SORTING" Test: 2', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
+                ['Program: A Sorting Test: 100', 'Organization: WNYC', 'Media Type: Moving Image', 'Access: '],
+                ['Episode: Touchstone 108', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
+                ['Program: Unknown', 'Organization: WIAA', 'Media Type: Sound', 'Access: '],
+                ['Program: World Cafe', 'Segment: Howard Kramer 2004', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
+                ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio']
               ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml
           end
@@ -408,9 +412,8 @@ describe 'Catalog' do
       it 'requires click-thru for ORR items' do
         ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
         visit 'catalog/cpb-aacip_37-16c2fsnr'
-        click_button('I agree')
         ENV.delete('RAILS_TEST_IP_ADDRESS')
-        expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
+        expect(page).to have_text('Online Reading Room Rules of Use')
       end
     end
   end

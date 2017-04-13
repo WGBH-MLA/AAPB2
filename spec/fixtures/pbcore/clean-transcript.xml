@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreAssetDate dateType="created">1992-06-05</pbcoreAssetDate>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/138-74cnpdc8</pbcoreIdentifier>
+  <pbcoreIdentifier source="Appalshop Barcode">12766.0</pbcoreIdentifier>
+  <pbcoreIdentifier source="Sony Ci">a-32-digit-hex</pbcoreIdentifier>
+  <pbcoreTitle titleType="Raw Footage">Musical Performance of Appalachian Folk Music in Kentucky</pbcoreTitle>
+  <pbcoreDescription descriptionType="Raw Footage Description">This recording is from the Seedtime Music Festival, a festival that celebrates Appalachian heritage and culture in Kentucky. The first two performers are Melvin Wine and Gerry Miles, who play the banjo and the fiddle. The second performers are James Still and Randy Wilson; they mix poetry and prose with bluegrass music.</pbcoreDescription>
+  <pbcoreGenre source="AAPB Format Genre">Unedited</pbcoreGenre>
+  <pbcoreGenre source="AAPB Topical Genre">Music</pbcoreGenre>
+  <pbcoreGenre source="AAPB Format Genre">Performance for a Live Audience</pbcoreGenre>
+  <pbcoreContributor>
+    <contributor>Wine, Melvine</contributor>
+    <contributorRole>Performer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Milnes, Gerry</contributor>
+    <contributorRole>Performer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Still, James</contributor>
+    <contributorRole>Performer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Wilson, Randy</contributor>
+    <contributorRole>Performer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreRightsSummary>
+    <rightsSummary>No copyright statement in content</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="Appalshop Barcode">12766.0</instantiationIdentifier>
+    <instantiationDate dateType="created">2013-06-02</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Appalshop Archive</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>01:00:00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="mediainfo">cpb-aacip-138-74cnpdc8.wav</instantiationIdentifier>
+    <instantiationDate dateType="encoded">2014-04-23</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure="GiB">2</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure="Kbps">4777</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source="mediainfo">0</essenceTrackIdentifier>
+      <essenceTrackEncoding source="mediainfo" ref="http://www.microsoft.com/windows/">PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure="Kbps">4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>01:06:14</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="mediainfo">cpb-aacip-138-74cnpdc8.mp3</instantiationIdentifier>
+    <instantiationDate dateType="encoded">2014-04-23</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure="MiB">91</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure="Kbps">192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source="mediainfo">0</essenceTrackIdentifier>
+      <essenceTrackEncoding source="mediainfo">MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure="Kbps">192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:06:15</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType="encoded by">Fraunhofer IIS MP3 v04.01.02 (high quality)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="Level of User Access">On Location</pbcoreAnnotation>
+  <pbcoreAnnotation>Seedtime 6/5/92, 7 1/2 ips, 2-track, stereo</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="cataloging status">Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Transcript Status">Indexing Only Transcript</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="last_modified">2016-06-07 13:18:04</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Appalshop, Inc. (WMMT and Appalshop Films)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

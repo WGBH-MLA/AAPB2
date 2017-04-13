@@ -155,20 +155,10 @@ a#startOverLink {
     color: #3C439B;
   }
 
-a:visited {
-}
-a:hover,
-a:focus {
-}
-a:active {
-}
-
-/* Address `outline` inconsistency between Chrome and other browsers. */
-a:focus {
-  outline: thin dotted;
-}
-
 /* Improve readability when focused and also mouse hovered in all browsers. */
+
+a:focus
+a:visited,
 a:active,
 a:hover {
   outline: 0;
@@ -295,7 +285,7 @@ h2 {
   font-size:2em;
   line-height:1.2em;
   margin-bottom:1em;
-  margin-top:0;
+  margin: 3px;
   font-weight:400;
 }
 
@@ -501,6 +491,7 @@ nav ol {
 img {
   /* Remove border when inside `a` element in IE 8/9. */
   border: 0;
+  margin: 2px;
   /* Improve image quality when scaled in IE 7. */
   -ms-interpolation-mode: bicubic;
 

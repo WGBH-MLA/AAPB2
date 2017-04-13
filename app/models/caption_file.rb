@@ -27,17 +27,16 @@ class CaptionFile
 
     captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
 
-    query.each do |term|
-      return nil unless captions_dictionary.include?(term)
+    intersection = query & captions_dictionary
+    return nil if intersection.empty?
 
-      start = if (captions.upcase.index(term) - 200) > 0
-                captions.upcase.index(term) - 200
-              else
-                0
-              end
+    start = if (captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 200) > 0
+              captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 200
+            else
+              0
+            end
 
-      return '...' + captions[start..-1].to_s + '...'
-    end
+    '...' + captions[start..-1].to_s + '...'
   end
 
   def self.clean_query_for_captions(query)

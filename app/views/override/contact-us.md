@@ -1,9 +1,9 @@
 # Contact Us
 
-![banner](/page-banners/banner8.jpg)
+![Eleanor Roosevelt](/page-banners/banner8.jpg)
 
 We would love to hear from you! If you have general questions or comments about the website and
-collection, or want to share information on the stories you find in the 
+collection, or want to share information on the stories you find in the
 collection, you can reach us at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) or by mail.
 
 ### Library of Congress Mailing Address:
