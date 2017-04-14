@@ -257,7 +257,7 @@
   blurb_fill:
     naeb_station: KWSC
   blurb_md: *naeb_blurb
-  abbreviation: SD
+  abbreviation: WA
 
 - state: West Virginia
   abbreviation: WV
