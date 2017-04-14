@@ -15,7 +15,7 @@
 	.header {
 		background:url(/site-ui/aapb-site-sprite.png) repeat-x 0 0;
 		position:relative;
-		padding:70px 0 10px;
+		padding:65px 0 10px;
 	}
 
 	/* Primary Nav */
@@ -40,10 +40,15 @@
 
 		.secondary-nav .navbar-nav {
 			display:inline-block;
-			float:none;
+			float:right;
 			margin:0 auto;
 		}
 
+		/* Banner Tagline */
+
+		#banner-text {
+		  font-size: 0.60em;
+		}
 
 /* --------- */
 /* FOOTER STYLES --------- */

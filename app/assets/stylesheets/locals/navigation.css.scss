@@ -8,7 +8,9 @@
 	border-radius: 0;
 }
 
-
+.navbar-right {
+	margin-top: 1.5em;
+}
 
 /*Main Nav*/
  .main-nav {
@@ -39,6 +41,7 @@
 	margin-left:1em;
 	margin-right: 0;
 	margin-top:7px;
+	margin-bottom:7px;
 	padding:0;
 	text-indent:-9999em;
 }
@@ -59,4 +62,17 @@
 			outline-width: 2px;
 		}
 	}
+}
+
+.header-fixit {
+	background: transparent url(https://s3.amazonaws.com/americanarchive.org/org-logos/fixit_logo_sml.jpg) no-repeat 0 0;
+	width: 253px;
+	height: 51px;
+	background-size: 100% auto;
+	margin-left:1em;
+	margin-right: 0;
+	margin-top:7px;
+	margin-bottom:7px;
+	padding:0;
+	text-indent:-9999em;
 }

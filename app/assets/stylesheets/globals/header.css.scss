@@ -7,8 +7,8 @@
  */
 
  * {
- 	-webkit-border-radius:0!important; 
-  -moz-border-radius:0!important; 
+ 	-webkit-border-radius:0!important;
+  -moz-border-radius:0!important;
  	border-radius:0!important;
 
  	-webkit-box-shadow: none!important;
@@ -25,5 +25,18 @@
 }
 
 #donate {
-    color: #EF3F37;
+  color: #EF3F37;
 }
+
+.banner {
+  display: block;
+}
+
+#banner-text {
+  color: #777;
+  padding: 0;
+  margin: 5px auto;
+  white-space: nowrap;
+  float: left;
+}
+
