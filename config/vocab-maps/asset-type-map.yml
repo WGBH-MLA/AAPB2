@@ -1,7 +1,6 @@
 # Case-insensitive substring on the left,
 # replacement on the right.
 # Final line is a fall-through.
-
 !omap
   Album: Album
   Clip: Clip
@@ -20,8 +19,6 @@
   Stock Footage: Raw Footage
   Stock shot: Raw Footage
   unedited footage: Raw Footage
-  Episode: Episode
-  Program: Program
   Porgram: Program
   Television special: Program
   Promo: Promo
