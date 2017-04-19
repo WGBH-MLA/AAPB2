@@ -46,7 +46,7 @@ class User
   end
 
   def affirmed_tos?
-    request.session[:affirm_terms]
+    request.cookies['orr_rules_of_use'] == 'y'
   end
 
   private
