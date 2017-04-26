@@ -205,6 +205,102 @@
         &:after { background-color:rgba(239,63,55,.85); }
     }
 
+    /* Home Jumbotron - Fix It */
+    #fixit {
+        background-color: #221e1f;
+        background-image:none;
+    }
+
+    .fixit-box {
+        background-color: #097675;
+        text-align: center;
+        padding: 2% 15%;
+        -webkit-border-radius: 12px !important;
+        -moz-border-radius: 12px !important;
+        -o-border-radius: 12px !important;
+        border-radius: 12px !important;
+        border: 0px;
+        width: 100%;
+    }
+
+    /*fixit text box for each section*/
+    .fixit-text {
+        background-color:transparent;
+        border:0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        margin:1em auto 2em;
+        padding:0;
+        width:100%;
+        h2 {
+            color: #fff;
+            font-weight: 300;
+            margin: 0;
+            text-align: center;
+            font-size: 3.75em;
+        }
+        p {
+            font-family: 'Roboto', sans-serif;
+            font-size: 18px;
+            font-weight: lighter;
+            line-height: 30px;
+            color: #fff;
+        }
+        a, a:hover {
+            color: #fff;
+        }
+    }
+
+    .fixit-promo {
+        background-color: #000;
+        display:inline-block;
+        /* reset the text-align */
+        text-align:center;
+        /* inline-block space fix */
+        -webkit-border-radius: 12px !important;
+        -moz-border-radius: 12px !important;
+        -o-border-radius: 12px !important;
+        border-radius: 12px !important;
+        margin: 2em 0;
+        width: 32%;
+        h3 {
+            font-family: "Open Sans Condensed", sans-serif;
+            font-size: 24px;
+            color: #ccc;
+            font-weight: bold;
+        }
+    }
+
+    .fixit-row {
+        text-align: center;
+        padding: 13px;
+    }
+
+    .fixit-first {
+        float: left;
+    }
+
+    .fixit-second {
+        float: none;
+    }
+
+    .fixit-third {
+        float: right;
+    }
+
+    .fixit-circle {
+      width: 48px;
+      line-height: 48px;
+      border-radius: 50% !important;
+      font-size: 32px;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      color: #000;
+      background: #ccc;
+      text-align: center;
+      margin: 1em auto;
+    }
+
     /* Home Jumbotron - Featured Collections */
     #collections {
         background-color:rgb(159,32,100);
@@ -270,6 +366,11 @@
         /*Reduce tagline font-size on smaller devices*/
         #welcome h2.tagline {
             font-size: 1.4em;
+        }
+
+        /*Reduce Fix It promo text on smaller devices*/
+        .fixit-promo h3 {
+            font-size: 32px;
         }
 
         /*Set .container width on Homepage Jumbotron*/
