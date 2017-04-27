@@ -227,12 +227,25 @@
     }
 
     /*fixit text box for each section*/
+
+    .fixit-logo {
+        background: transparent url(https://s3.amazonaws.com/americanarchive.org/org-logos/fixit_logo_lg.png) no-repeat 0 0;
+        display:inline-block;
+        float: none;
+        width: 347px;
+        height: 75px;
+        background-size: 100% auto;
+        margin: 0 0 4em 0;
+        padding: 10px;
+        text-indent:-9999em;
+    }
+
     .fixit-text {
         background-color:transparent;
         border:0;
         -webkit-box-shadow: none;
         box-shadow: none;
-        margin:1em auto 2em;
+        margin: 0 auto 2em auto;
         padding:0;
         width:100%;
         h2 {
