@@ -27,6 +27,8 @@ END
     xhtml = page.body
     # self-close tags
     xhtml.gsub!(/<((meta|link|img|hr|br)([^>]+[^\/])?)>/, '<\2/>')
+    # Escape "&" used in Google Analytics tracking code
+    xhtml.gsub!('&', '&amp;')
 
     # give values to attributes
     while xhtml.gsub!(MISSING_VAL_RE, '\1="FILLER" ')
