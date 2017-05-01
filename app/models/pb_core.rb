@@ -183,6 +183,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
     return 'Online Reading Room' if public?
     return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
   end
+  def transcript_status
+    @transcript_status ||= xpath('/*/pbcoreAnnotation[@annotationType="Transcript Status"]')
+  rescue NoMatchError
+    nil
+  end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
   OTHER = 'other'.freeze

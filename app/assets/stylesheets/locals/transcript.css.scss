@@ -1,3 +1,38 @@
 .plain {
-    background: transparent;
+    background: transparent !important;
+    #player {
+        #transcript,#find-help {
+            // Don't include the transcript when
+            // the whole player is in an iframe.
+            display: none;
+        }
+    }
+    .transcript {
+        .speaker {
+            display: table-cell;
+            vertical-align: bottom;
+            height: 2.5em;
+        }
+        .incident,h3 {
+            display: none;
+            // Title at top of transcript isn't necessary: We know what we're looking at.
+        }
+        .play-from-here::before {
+            content: '\25B6'; // right-pointing triangle
+            cursor: pointer;
+            background: #5D73B1;
+            color: #FFF;
+            padding: 0 4px;
+            border-radius: 3px;
+            margin-right: 4px;
+        }
+        .para {
+            border: 2px solid transparent;
+            border-radius: 8px;
+            padding: 0 2px;
+        }
+        .para.current {
+            border-color: #939598;
+        }
+    }
 }

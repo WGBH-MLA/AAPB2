@@ -11,7 +11,7 @@
     content_tag(media,
                 controls: true,
                 "class" => "video-js",
-                oncontextmenu: 'return false;', 
+                oncontextmenu: 'return false;',
                 preload: 'auto', width: AAPB::PLAYER_WIDTH, height: AAPB::PLAYER_HEIGHT,
                 crossorigin: 'with-credentials',
                 :"data-setup" => '{}',
@@ -20,19 +20,18 @@
       <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
       <% if @pbcore.captions_src %>
-        <track kind="captions" src="/transcripts/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+        <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
       <% end %>
       <%
     end
   end.join().html_safe()
 %>
-
-<%=
-  tag('iframe',
+<% if TranscriptFile.file_present?(@pbcore.id) %>
+  <%= tag('iframe',
     src: "/transcripts/#{@pbcore.id}",
     id: 'transcript',
     width: AAPB::PLAYER_WIDTH,
     height: AAPB::PLAYER_HEIGHT.to_i / 2,
     frameBorder: 0
-  ) if params[:transcript]
-%>
+  ) %></iframe>
+<% end %>
