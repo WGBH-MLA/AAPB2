@@ -7,18 +7,26 @@ class TranscriptConverter
   def self.json_to_html(json)
     Nokogiri::XML::Builder.new do |x|
       x.div(class: 'transcript') do
+        para_counter = 1
         aggregate_transcript_parts(JSON.parse(json)).each do |part|
           x.div(
-            'data-timecodebegin' => as_timestamp(part["start_time"]),
-            'data-timecodeend' => as_timestamp(part["end_time"])
+            class: 'row transcript-row',
           ) do
             x.span(' ',
-                   class: 'play-from-here',
-                   'data-timecodebegin' => as_timestamp(part["start_time"])
-                  )
-            # Text content is just to prevent element collapse and keep valid HTML.
-            x.text(part["text"])
+             class: 'play-from-here col-md-1',
+             'data-timecode' => as_timestamp(part["start_time"])
+            )
+            x.div(
+              id: "para#{para_counter}",
+              class: 'para col-md-11',
+              'data-timecodebegin' => as_timestamp(part["start_time"]),
+              'data-timecodeend' => as_timestamp(part["end_time"])
+            ) do
+              # Text content is just to prevent element collapse and keep valid HTML.
+              x.text(part["text"])
+            end
           end
+          para_counter += 1
         end
       end
     end.to_xml.gsub("<?xml version=\"1.0\"?>\n", '')

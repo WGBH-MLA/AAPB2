@@ -177,6 +177,7 @@ class CatalogController < ApplicationController
       format.html do
         @pbcore = PBCore.new(xml)
         @skip_orr_terms = can? :skip_tos, @pbcore
+        @transcript_html = TranscriptFile.new(params['id']).html
         render
       end
       format.pbcore do

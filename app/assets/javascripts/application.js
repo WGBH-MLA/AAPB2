@@ -13,6 +13,7 @@
 //= require jquery
 //= require jquery.turbolinks
 //= require jquery_ujs
+//= require jquery-ui/effect.all
 //
 // Required by Blacklight
 //= require blacklight/blacklight

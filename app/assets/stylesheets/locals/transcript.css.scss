@@ -18,21 +18,30 @@
             // Title at top of transcript isn't necessary: We know what we're looking at.
         }
         .play-from-here::before {
-            content: '\25B6'; // right-pointing triangle
-            cursor: pointer;
-            background: #5D73B1;
-            color: #FFF;
-            padding: 0 4px;
-            border-radius: 3px;
-            margin-right: 4px;
+          color: #fff;
+          content: '\25B6'; // right-pointing triangle
+          background-color: #5f5bae;
+          height: 26px;
+          border-radius: 50% !important;
+          -moz-border-radius: 50%;
+          -webkit-border-radius: 50%;
+          width: 28px;
+          font-size: 14px;
+          margin: 0 auto;
+          display: inline-table;
+          padding: 3px 3px 3px 5px;
+          text-align: center;
         }
         .para {
-            border: 2px solid transparent;
-            border-radius: 8px;
+            border: none;
             padding: 0 2px;
+            margin: 0;
         }
         .para.current {
-            border-color: #939598;
+            background-color: #e9e3fb;
         }
+    }
+    .transcript-row {
+        margin: 10px 0;
     }
 }
