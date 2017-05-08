@@ -183,6 +183,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
     return 'Online Reading Room' if public?
     return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
   end
+  ORR_TRANSCRIPT = 'Online Reading Room Transcript'.freeze
+  ON_LOCATION_TRANSCRIP = 'On Location Transcript'.freeze
+  INDEXING_TRANSCRIPT = 'Indexing Only Transcript'.freeze
   def transcript_status
     @transcript_status ||= xpath('/*/pbcoreAnnotation[@annotationType="Transcript Status"]')
   rescue NoMatchError

@@ -177,7 +177,13 @@ class CatalogController < ApplicationController
       format.html do
         @pbcore = PBCore.new(xml)
         @skip_orr_terms = can? :skip_tos, @pbcore
-        @transcript_html = TranscriptFile.new(params['id']).html
+        # Uncomment when ready to launch
+        if @pbcore.transcript_status == PBCore::ORR_TRANSCRIPT
+          @transcript_html = TranscriptFile.new(params['id']).html
+          @show_transcript = true
+        else
+          @show_transcript = false
+        end
         render
       end
       format.pbcore do

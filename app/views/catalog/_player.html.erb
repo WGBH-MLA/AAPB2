@@ -41,7 +41,7 @@
   </div>
   <!-- Need to add @pbcore.transcript_status == 'Online Reading Room Transcript' to conditional below -->
   <div class="col-sm-12 col-md-2 transcript-div">
-    <% if TranscriptFile.file_present?(@pbcore.id) %>
+    <% if @show_transcript %>
       <div class="transcript-header">
           <p>Transcript</p>
           <div class="input-group input-group-sm transcript-search" role="search">
@@ -64,7 +64,14 @@
         <div id="transcript", class="transcript-frame plain">
           <%= raw @transcript_html %>
         </div>
-      <% end %>
+    <% else %>
+      <div class="transcript-header">
+        <p>Transcript</p>
+        <div class="no-transcript">
+          Not Available
+        </div>
+      </div>
+    <% end %>
     </div>
   </div>
 </div>
@@ -117,6 +124,11 @@
       updateExhibitSpecs();
     }
 
+    function clearTranscriptSearch() {
+      var src_str = document.getElementById("transcript").innerHTML.replace(/(<mark>|<\/mark>)/igm, "");
+      document.getElementById("transcript").innerHTML = src_str;
+    }
+
     $('div.show-transcript').click(function(){
       var $this = $(this)
       updatePlayerGrid();
@@ -134,12 +146,14 @@
 
     $(searchButton).click(function(){
       var term = $('#transcript-q').val().replace(/(\s+)/,"(<[^>]+>)*$1(<[^>]+>)*");
-      var pattern = new RegExp("("+term+")", "gi");
-      var src_str = document.getElementById("transcript").innerHTML;
-      var new_src_str = src_str.replace(/(<mark>|<\/mark>)/igm, "");
-      document.getElementById("transcript").innerHTML = new_src_str;
-      var src_str_new = new_src_str.replace(pattern, "<mark>$1</mark>");
-      document.getElementById("transcript").innerHTML = src_str_new;
+      if (/\S+/.test(term) == true ) {
+        clearTranscriptSearch();
+        var pattern = new RegExp("("+term+")", "gi");
+        var src_str_new = document.getElementById("transcript").innerHTML.replace(pattern, "<mark>$1</mark>");
+        document.getElementById("transcript").innerHTML = src_str_new;
+      } else {
+        clearTranscriptSearch();
+      };
     });
 
   });

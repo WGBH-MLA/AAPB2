@@ -63,6 +63,7 @@
     </instantiationExtension>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Transcript Status'>Online Reading Room Transcript</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='last_modified'>2015-04-27 12:11:52</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>Arkansas Educational TV Network (AETN)</pbcoreAnnotation>

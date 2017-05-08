@@ -25,6 +25,7 @@
 		margin: 0;
 		padding: 0;
 		font-weight: 300;
+		font-size: 28px;
 	}
 }
 
@@ -355,6 +356,14 @@
 	right: 5px;
 }
 
+.no-transcript{
+	display: inline-flex;
+	float: right;
+	color: #999;
+	font-size: 14px;
+	padding: 7px 7px;
+}
+
 .player {
 	padding: 0;
 	text-align: center;
@@ -415,7 +424,7 @@
 }
 
 .alert-info {
-	margin: 2em 0 0.5em 0;
+	margin: 2em 0;
 }
 
 /* Navbar Toggle */
