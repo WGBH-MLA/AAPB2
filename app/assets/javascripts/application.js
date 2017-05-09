@@ -18,6 +18,7 @@
 // Required by Blacklight
 //= require blacklight/blacklight
 //= require_tree .
+//= stub player
 
 // For blacklight_range_limit built-in JS, if you don't want it you don't need
 // this:

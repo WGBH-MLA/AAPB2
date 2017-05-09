@@ -3,6 +3,8 @@
   <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
   <!-- video-js support for IE 8 -->
   <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+  <!-- Need VideoJS for our player.js file -->
+  <script src="/assets/player.js"></script>
 <% end %>
 
 <div class="row">
@@ -16,8 +18,8 @@
                     "id" => "player_media",
                     oncontextmenu: 'return false;',
                     preload: 'auto',
-                    width: AAPB::PLAYER_WIDTH_NO_TRANSCRIPT,
-                    height: AAPB::PLAYER_HEIGHT_NO_TRANSCRIPT,
+                    width: @pbcore.player_specs[0],
+                    height: @pbcore.player_specs[1],
                     crossorigin: 'with-credentials',
                     :"data-setup" => '{}',
                     poster: @pbcore.img_src) do %>
@@ -39,26 +41,24 @@
       </a>
     <% end %>
   </div>
-  <!-- Need to add @pbcore.transcript_status == 'Online Reading Room Transcript' to conditional below -->
   <div class="col-sm-12 col-md-2 transcript-div">
     <% if @show_transcript %>
       <div class="transcript-header">
-          <p>Transcript</p>
-          <div class="input-group input-group-sm transcript-search" role="search">
+        <p>Transcript</p>
+        <div class="input-group input-group-sm transcript-search" role="search">
+          <label for="q" class="sr-only">Search Transcript...</label>
+          <input aria-label="Search" class="search_q q form-control transcript-search-input" id="transcript-q" name="q" placeholder="Search..." type="search" />
 
-            <label for="q" class="sr-only">Search Transcript...</label>
-            <input aria-label="Search" class="search_q q form-control transcript-search-input" id="transcript-q" name="q" placeholder="Search..." type="search" />
-
-            <span class="input-group-btn transcript-search-btn-group">
-              <button type="submit" class="btn btn-primary search-btn transcript-search-btn" id="transcript-search-btn">
-                <span class="submit-search-text sr-only">Search</span>
-                <span class="glyphicon glyphicon-search"></span>
-              </button>
-            </span>
-          </div>
-          <div class="show-transcript transcript-slide" style="cursor: pointer;">
-            Show<div class="transcript-circle">+</div>
-          </div>
+          <span class="input-group-btn transcript-search-btn-group">
+            <button type="submit" class="btn btn-primary search-btn transcript-search-btn" id="transcript-search-btn">
+              <span class="submit-search-text sr-only">Search</span>
+              <span class="glyphicon glyphicon-search"></span>
+            </button>
+          </span>
+        </div>
+        <div class="show-transcript transcript-slide" style="cursor: pointer;">
+          Show<div class="transcript-circle">+</div>
+        </div>
       </div>
       <div class="transcript-view transcript-view-small">
         <div id="transcript", class="transcript-frame plain">
@@ -75,181 +75,3 @@
     </div>
   </div>
 </div>
-
-<script>
-  $(document).ready(function() {
-    var $divTranscript = $('div.transcript-div');
-    var $divTranscriptView = $('div.transcript-view');
-    var $divPlayer = $('div.player');
-    var exhibit = $('#exhibit-banner');
-    var player = $('#player_media');
-    var search = $('div.transcript-search');
-    var searchButton = $('#transcript-search-btn');
-
-    function updateTranscriptGrid() {
-      if ($divTranscript.hasClass('transcript-div') && $divTranscript.hasClass('col-md-2')) {
-        $($divTranscript.addClass('col-md-6').removeClass('col-md-2'));
-      } else if ($divTranscript.hasClass('transcript-div') && $divTranscript.hasClass('col-md-6'))  {
-        $($divTranscript.addClass('col-md-2').removeClass('col-md-6'));
-      }
-      showTranscript();
-    }
-    function showTranscript() {
-      if ($divTranscriptView.hasClass('transcript-view-small')) {
-        $($divTranscriptView.addClass('transcript-view-large').removeClass('transcript-view-small'));
-      } else if ($divTranscriptView.hasClass('transcript-view-large')) {
-        $($divTranscriptView.addClass('transcript-view-small').removeClass('transcript-view-large'));
-      }
-    }
-    function updatePlayerSpecs() {
-      $(player).toggleClass('small-player-specs video-js-fix-small');
-    }
-    function updateExhibitSpecs() {
-      if (exhibit.hasClass('btn-featured-record')) {
-        $(exhibit).addClass('btn-featured-record-small').removeClass('btn-featured-record');
-      } else if (exhibit.hasClass('btn-featured-record-small')){
-        $(exhibit).addClass('btn-featured-record').removeClass('btn-featured-record-small');
-      }
-    }
-
-    function updatePlayerGrid() {
-      if ($divPlayer.hasClass('col-md-8') && $divPlayer.hasClass('player')) {
-        $($divPlayer.addClass('col-md-6'));
-        $($divPlayer.removeClass('col-md-offset-2').removeClass('col-md-8'));
-      } else if ($divPlayer.hasClass('col-md-6') && $divPlayer.hasClass('player'))  {
-        $($divPlayer.addClass('col-md-offset-2').addClass('col-md-8'));
-        $($divPlayer.removeClass('col-md-6'));
-      }
-      updatePlayerSpecs();
-      updateExhibitSpecs();
-    }
-
-    function clearTranscriptSearch() {
-      var src_str = document.getElementById("transcript").innerHTML.replace(/(<mark>|<\/mark>)/igm, "");
-      document.getElementById("transcript").innerHTML = src_str;
-    }
-
-    $('div.show-transcript').click(function(){
-      var $this = $(this)
-      updatePlayerGrid();
-      updateTranscriptGrid();
-      $this.toggleClass('show-transcript');
-
-      if ($this.hasClass('show-transcript')) {
-        $this.html('Show<div class="transcript-circle">+</div>');
-        search.removeClass('show-transcript-search');
-      } else {
-        $this.html('Hide<div class="transcript-circle">-</div>');
-        search.addClass('show-transcript-search');
-      }
-    });
-
-    $(searchButton).click(function(){
-      var term = $('#transcript-q').val().replace(/(\s+)/,"(<[^>]+>)*$1(<[^>]+>)*");
-      if (/\S+/.test(term) == true ) {
-        clearTranscriptSearch();
-        var pattern = new RegExp("("+term+")", "gi");
-        var src_str_new = document.getElementById("transcript").innerHTML.replace(pattern, "<mark>$1</mark>");
-        document.getElementById("transcript").innerHTML = src_str_new;
-      } else {
-        clearTranscriptSearch();
-      };
-    });
-
-  });
-
-  $(function(){
-    function parse_timecode(hms) {
-        var arr = hms.split(':');
-        return parseFloat(arr[2]) +
-               60 * parseFloat(arr[1]) +
-               60*60 * parseFloat(arr[0]);
-    }
-
-    var $transcript = $('#transcript');
-
-    $(document).ready(function() {
-      var lines = {};
-      $transcript.contents().find('[data-timecodebegin]').each(function(i,el){
-          var $el = $(el);
-          lines[parse_timecode($el.data('timecodebegin'))] = $el;
-      });
-      var sorted = Object.keys(lines).sort(function(a,b){return a - b;});
-      // Browser seems to preserve key order, but don't rely on that.
-      // JS default sort is lexicographic.
-      function greatest_less_than_or_equal_to(t) {
-          var last = 0;
-          for (var i=0; i < sorted.length; i++) {
-              if (sorted[i] <= t) {
-                  last = sorted[i];
-              } else {
-                  return last;
-              }
-          }
-      };
-
-      var $player = $('#player_media_html5_api');
-
-      function set_user_scroll(state) {
-          $player.data('user-scroll', state);
-      }
-
-      function is_user_scroll() {
-          return $player.data('user-scroll');
-      }
-
-      $player.on('timeupdate', function(){
-          var current = $player[0].currentTime;
-          var key = greatest_less_than_or_equal_to(current);
-          var $line = lines[key];
-          var class_name = 'current';
-          if (!$line.hasClass(class_name)) {
-              $transcript.contents().find('[data-timecodebegin]').removeClass(class_name);
-              $line.addClass(class_name);
-          };
-          if (!is_user_scroll()) {
-              $('iframe').contents().scrollTop($line.position().top-30);
-              // "-30" to get the speaker's name at the top;
-              // ... but when a single monologue is broken into
-              // parts this doesn't look as good: we get a line
-              // of the previous section just above.
-              // TODO: tweak xslt to move time attributes
-              // up to the containing element.
-              window.setTimeout(function() {
-                  set_user_scroll(false);
-              }, 100); // 0.1 seconds
-              // The scrollTop triggers a scroll event,
-              // but the handler has no way to distinguish
-              // a scroll generated by JS and one that
-              // actually comes from a user...
-              // so wait a bit and then set to the
-              // correct (false) user_scroll state.
-          }
-      });
-
-      $player.on('mouseenter play', function(){
-          set_user_scroll(false);
-      });
-
-      $transcript.contents().find('.play-from-here').click(function(){
-          var time = parse_timecode($(this).data('timecode'));
-          location.hash = '#at_' + time + '_s';
-          $player[0].currentTime = time;
-          $player[0].play();
-          set_user_scroll(false);
-      });
-
-      $transcript.contents().scroll(function(){
-          set_user_scroll(true);
-      });
-
-      var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
-      if (url_hash) {
-          $player[0].currentTime = url_hash[1];
-          // Autoplay generally a bad idea, but we could do it...
-          // $player[0].play();
-      }
-  });
-});
-
-</script>
