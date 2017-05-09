@@ -217,6 +217,17 @@ class PBCore # rubocop:disable Metrics/ClassLength
       xpaths('/*/pbcoreInstantiation/instantiationDuration').first
     end
   end
+  def player_aspect_ratio
+    @player_aspect_ratio ||= instantiations.find{ |i| i.aspect_ratio != nil }.aspect_ratio || '4:3'
+  end
+  def player_specs
+    case player_aspect_ratio
+    when '16:9'
+      [AAPB::PLAYER_WIDTH_NO_TRANSCRIPT_16_9, AAPB::PLAYER_HEIGHT_NO_TRANSCRIPT_16_9]
+    else
+      [AAPB::PLAYER_WIDTH_NO_TRANSCRIPT_4_3, AAPB::PLAYER_HEIGHT_NO_TRANSCRIPT_4_3]
+    end
+  end
   def digitized?
     @digitized ||= !ci_ids.empty?
     # TODO: not confident about this. We ought to be able to rely on this:

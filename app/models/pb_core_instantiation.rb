@@ -22,6 +22,10 @@ class PBCoreInstantiation
     @duration ||= optional('instantiationDuration')
   end
 
+  def aspect_ratio
+    @aspect_ratio ||= optional('instantiationEssenceTrack/essenceTrackAspectRatio')
+  end
+
   private
 
   def optional(xpath)
