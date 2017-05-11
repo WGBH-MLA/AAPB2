@@ -27,6 +27,10 @@
 		font-weight:700;
 	}
 
+  #homenav {
+    margin-top: 0;
+  }
+
 	/* Secondary NAvigation */
 	.secondary-nav {
 		background-color:transparent;
@@ -117,15 +121,18 @@
 			padding:0;
 		}
 
+		.navbar-header {
+			margin-top: 0;
+		}
 
 /* -------------------- */
 /* CATALOG ---------- */
 /* -------------------- */
 
-	/* Image container */
-	.blacklight-catalog .document .media-left {
-		width:25%;
-	}
+/* Image container */
+.blacklight-catalog .document .media-left {
+	width:25%;
+}
 
 
 /* -------------------- */
@@ -255,6 +262,19 @@
 
 #banner-text {
   font-size: 0.80em;
+}
+
+.video-js-fix-small {
+  margin: 0;
+}
+
+/* Catalog Transcript */
+.transcript-div {
+  margin-top: 0em;
+}
+
+.transcript-div-bootstrap {
+	margin-top: 1em;
 }
 
 }/* END: Desktop ---------- */

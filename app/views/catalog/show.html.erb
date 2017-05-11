@@ -32,17 +32,9 @@
       <meta property="og:audio" content="http://americanarchive.org/media/<%= @pbcore.id %>" />
     <% end %>
   <% end %>
-
 <% end %>
 
-<%= render partial: 'catalog_title_sidebar_main',
-     locals: {
-       title: "#{@pbcore.title}",
-       sidebar: yield(:sidebar),
-       main: yield(:main)
-     } %>
-
-<div class="col-md-12">
+<% content_for :main do %>
   <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
   <div class="well well-sm media-thumb">
@@ -87,16 +79,14 @@
     <% end %>
   </div>
 
-    <div class="alert alert-info col-md-12">
-      <% @pbcore.ids.first[1].tap do |id| %>
-        If you have more information about this item than what is given here, we want to know!
-        <a href="mailto:sadie_roosa@wgbh.org">Contact us</a>,
-        indicating the AAPB ID (<%= id %>).
-      <% end %>
-    </div>
+  <div class="alert alert-info col-md-12">
+    <% @pbcore.ids.first[1].tap do |id| %>
+      If you have more information about this item than what is given here, we want to know!
+      <a href="mailto:sadie_roosa@wgbh.org">Contact us</a>,
+      indicating the AAPB ID (<%= id %>).
+    <% end %>
   </div>
 </div>
-
 
 <div class="col-md-4">
   <% @pbcore.titles.each do |type,title| %>
@@ -212,7 +202,7 @@
         <input style="width: 100%; font-family: monospace;"
                  value="&lt;iframe src='<%=
                     url_for(controller: 'embed', action: 'show', id: params[:id], only_path: false)
-                 %>' width='<%= AAPB::PLAYER_WIDTH_TRANSCRIPT %>' height='<%= AAPB::PLAYER_HEIGHT_TRANSCRIPT %>'
+                 %>' width='<%= @pbcore.player_specs[0] %>' height='<%= @pbcore.player_specs[1] %>'
                  style='border: 0;'&gt;&lt;/iframe&gt;"
                  onclick="this.select();" />
         <div class="well well-sm"><small>
@@ -244,4 +234,10 @@
       Boston, MA: <%= org %>.
       Retrieved from <%= url %></dd>
   </dl>
-</div>
+<% end %>
+
+<%= render partial: 'catalog_title_sidebar_main',
+     locals: {
+       title: "#{@pbcore.title}",
+       main: yield(:main),
+     } %>

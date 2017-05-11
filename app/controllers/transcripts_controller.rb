@@ -10,9 +10,6 @@ class TranscriptsController < ApplicationController
         @transcript_html = transcript_file.html
         render
       end
-      format.json do
-        puts "Woooooo!"
-      end
     end
   end
 end

@@ -95,16 +95,15 @@ $(function(){
     var $divTranscript = $('div.transcript-div');
     var $divTranscriptView = $('div.transcript-view');
     var $divPlayer = $('div.player');
-    var $divVideoJs = $('div.video-js')
     var player = videojs('#player_media_html5_api');
     var exhibit = $('#exhibit-banner');
     var search = $('div.transcript-search');
     var searchButton = $('#transcript-search-btn');
 
-    function updateTranscriptGrid() {
-      if ($divTranscript.hasClass('transcript-div') && $divTranscript.hasClass('col-md-2')) {
+     function updateTranscriptGrid() {
+      if ($divTranscript.hasClass('col-md-2')) {
         $divTranscript.addClass('col-md-6').removeClass('col-md-2');
-      } else if ($divTranscript.hasClass('transcript-div') && $divTranscript.hasClass('col-md-6'))  {
+      } else if ($divTranscript.hasClass('col-md-6'))  {
         $divTranscript.addClass('col-md-2').removeClass('col-md-6');
       }
       showTranscript();
@@ -114,44 +113,6 @@ $(function(){
         $divTranscriptView.addClass('transcript-view-large').removeClass('transcript-view-small');
       } else if ($divTranscriptView.hasClass('transcript-view-large')) {
         $divTranscriptView.addClass('transcript-view-small').removeClass('transcript-view-large');
-      }
-    }
-    function updatePlayerSpecs(playerHeight, playerWidth) {
-      switch (playerHeight) {
-        case 383:
-          player.height(316);
-          break;
-        case 316:
-          player.height(383);
-          break;
-        case 422:
-          player.height(510);
-          break;
-        case 510:
-          player.height(422);
-          break;
-      };
-      switch (playerWidth) {
-        case 562:
-          player.width(680);
-          break;
-        case 680:
-          player.width(562);
-          break;
-      };
-
-      if ($divVideoJs.hasClass('video-js-fix-large')) {
-        $divVideoJs.addClass('video-js-fix-small').removeClass('video-js-fix-large');
-      } else if ($divVideoJs.hasClass('video-js-fix-small')){
-        $divVideoJs.addClass('video-js-fix-large').removeClass('video-js-fix-small');
-      }
-    }
-
-    function updateExhibitSpecs() {
-      if (exhibit.hasClass('btn-featured-record')) {
-        exhibit.addClass('btn-featured-record-small').removeClass('btn-featured-record');
-      } else if (exhibit.hasClass('btn-featured-record-small')){
-        exhibit.addClass('btn-featured-record').removeClass('btn-featured-record-small');
       }
     }
 
@@ -166,8 +127,6 @@ $(function(){
         $divPlayer.addClass('col-md-offset-2').addClass('col-md-8');
         $divPlayer.removeClass('col-md-6');
       }
-      updatePlayerSpecs(playerHeight, playerWidth);
-      updateExhibitSpecs();
     }
 
     function clearTranscriptSearch() {

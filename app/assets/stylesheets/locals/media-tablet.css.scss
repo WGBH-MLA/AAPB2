@@ -26,6 +26,13 @@
 		font-weight:700;
 	}
 
+  .navbar-header {
+    margin-top: 1em;
+  }
+
+  #homenav {
+    margin-top: 1.5em;
+  }
 
 	/* Secondary NAvigation */
 	.secondary-nav {
@@ -129,11 +136,21 @@
 	}
 
 .view-all-gallery {
-        text-align:left;
+	text-align:left;
 }
-        .view-all-gallery h3 {
-                margin: 0;
-        }
 
+.view-all-gallery h3 {
+	margin: 0;
+}
+
+.video-js-fix-small {
+  margin: 0 auto;
+  float: none;
+}
+
+/* Catalog Transcript */
+.transcript-div {
+  margin-top: 1em;
+}
 
 }/* END: Tablet ---------- */

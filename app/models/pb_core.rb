@@ -184,7 +184,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
   end
   ORR_TRANSCRIPT = 'Online Reading Room Transcript'.freeze
-  ON_LOCATION_TRANSCRIP = 'On Location Transcript'.freeze
+  ON_LOCATION_TRANSCRIPT = 'On Location Transcript'.freeze
   INDEXING_TRANSCRIPT = 'Indexing Only Transcript'.freeze
   def transcript_status
     @transcript_status ||= xpath('/*/pbcoreAnnotation[@annotationType="Transcript Status"]')
@@ -218,7 +218,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
     end
   end
   def player_aspect_ratio
-    @player_aspect_ratio ||= instantiations.find{ |i| i.aspect_ratio != nil }.aspect_ratio || '4:3'
+    @player_aspect_ratio ||= begin
+      instantiations.find{ |i| i.aspect_ratio != nil }.aspect_ratio
+    rescue
+      '4:3'
+    end
   end
   def player_specs
     case player_aspect_ratio
@@ -343,7 +347,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
                :title, :ci_ids, :instantiations,
-               :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width]
+               :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width, :player_aspect_ratio, :transcript_status ]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
