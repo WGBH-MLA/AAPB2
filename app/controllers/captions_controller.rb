@@ -1,5 +1,4 @@
 class CaptionsController < ApplicationController
-
   def show
     caption_file = CaptionFile.new(params[:id])
 

@@ -1,0 +1,5656 @@
+{
+  "language": "en-US",
+  "id": 137731,
+  "parts": [
+    {
+      "id": 25260990,
+      "text": "It",
+      "start_time": "0.0",
+      "end_time": "38.53",
+      "speaker_id": 977779
+    },
+    {
+      "id": 25260991,
+      "text": "was",
+      "start_time": "38.53",
+      "end_time": "38.63",
+      "speaker_id": 977779
+    },
+    {
+      "id": 25260992,
+      "text": "your",
+      "start_time": "38.63",
+      "end_time": "45.37",
+      "speaker_id": 977779
+    },
+    {
+      "id": 25260993,
+      "text": "host for this 15th anniversary celebration and dedication ceremony is",
+      "start_time": "45.37",
+      "end_time": "50.24",
+      "speaker_id": 977779
+    },
+    {
+      "id": 25260994,
+      "text": "Mr. George Campbell chairman of the Arkansas Educational Television",
+      "start_time": "50.24",
+      "end_time": "55.14",
+      "speaker_id": 977779
+    },
+    {
+      "id": 25260995,
+      "text": "Commission.",
+      "start_time": "55.14",
+      "end_time": "55.69",
+      "speaker_id": 977779
+    },
+    {
+      "id": 25260999,
+      "text": "Good afternoon distinguished",
+      "start_time": "58.27",
+      "end_time": "63.13",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261001,
+      "text": "guests ladies and gentlemen welcome to the dedication of our expanded",
+      "start_time": "63.13",
+      "end_time": "67.68",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261004,
+      "text": "facilities for Educational Television here in Conway Arkansas.",
+      "start_time": "67.68",
+      "end_time": "73.26",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261005,
+      "text": "As chairman of the commission I'm pleased to welcome you on behalf of",
+      "start_time": "73.26",
+      "end_time": "78.03",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261006,
+      "text": "all of the commission. And I'm also pleased to tell you of action",
+      "start_time": "78.03",
+      "end_time": "82.87",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261007,
+      "text": "taken by the Commission this morning in its meeting",
+      "start_time": "82.87",
+      "end_time": "85.71",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261008,
+      "text": "at which time a resolution was adopted by the commission",
+      "start_time": "85.71",
+      "end_time": "90.66",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261009,
+      "text": "naming our expanded facility the arly Reeves Center for",
+      "start_time": "90.66",
+      "end_time": "95.65",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261010,
+      "text": "Educational telecommunications. This recognizes the",
+      "start_time": "95.65",
+      "end_time": "100.25",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261015,
+      "text": "predominant influence and leadership that Lee Reeves has had as",
+      "start_time": "100.25",
+      "end_time": "104.63",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261018,
+      "text": "director of the work of this commission since its inception.",
+      "start_time": "104.63",
+      "end_time": "109.76",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261020,
+      "text": "And while these 15 years represent we hope only a",
+      "start_time": "109.76",
+      "end_time": "114.53",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261023,
+      "text": "mild post in the continued growth and progress of educational",
+      "start_time": "114.53",
+      "end_time": "119.34",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261025,
+      "text": "television in this state. It gave us the opportunity to",
+      "start_time": "119.34",
+      "end_time": "124.22",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261027,
+      "text": "recognize the significant contributions which this man has made",
+      "start_time": "124.22",
+      "end_time": "129.2",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261028,
+      "text": "with the cooperation of the other agencies of the state government",
+      "start_time": "129.2",
+      "end_time": "133.89",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261031,
+      "text": "and with the cooperation of thousands of citizens of the state who have",
+      "start_time": "133.89",
+      "end_time": "138.72",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261033,
+      "text": "contributed their time and effort in the support of this particular",
+      "start_time": "138.72",
+      "end_time": "143.16",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261036,
+      "text": "activity. It is appropriate that on",
+      "start_time": "143.16",
+      "end_time": "148.02",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261038,
+      "text": "this occasion of this dedication we have with us",
+      "start_time": "148.02",
+      "end_time": "152.36",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261040,
+      "text": "a spokesman for public broadcasting of",
+      "start_time": "152.36",
+      "end_time": "157.21",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261042,
+      "text": "national stature and I am particularly pleased to note one",
+      "start_time": "157.21",
+      "end_time": "162.18",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261044,
+      "text": "who has experience in public broadcasting. Our",
+      "start_time": "162.18",
+      "end_time": "167.03",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261045,
+      "text": "speaker today is Mr. Edward J Feister who has recently been",
+      "start_time": "167.03",
+      "end_time": "172.0",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261046,
+      "text": "elected president of the Corporation for Public Broadcasting.",
+      "start_time": "172.0",
+      "end_time": "176.82",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261048,
+      "text": "Prior to going to Washington this fall to assume that position must",
+      "start_time": "176.82",
+      "end_time": "181.38",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261051,
+      "text": "Feister served as the director of the educational",
+      "start_time": "181.38",
+      "end_time": "185.95",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261054,
+      "text": "facilities in the educational television facilities in the Dallas-Fort Worth area.",
+      "start_time": "185.95",
+      "end_time": "191.81",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261057,
+      "text": "He brings to his position of responsibility with the Corporation for Public",
+      "start_time": "191.81",
+      "end_time": "196.33",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261060,
+      "text": "Broadcasting. A broad career of activities as a",
+      "start_time": "196.33",
+      "end_time": "201.17",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261063,
+      "text": "journalist as an educator are as one familiar with the",
+      "start_time": "201.17",
+      "end_time": "206.05",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261066,
+      "text": "work of the Corporation for Public Broadcasting. And as a practicing",
+      "start_time": "206.05",
+      "end_time": "210.63",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261068,
+      "text": "broadcaster in the educational television field I'm pleased to",
+      "start_time": "210.63",
+      "end_time": "215.49",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261073,
+      "text": "welcome him to Arkansas and to introduce him to you for the",
+      "start_time": "215.49",
+      "end_time": "220.0",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261078,
+      "text": "dedicatory address. Mr. Feist.",
+      "start_time": "220.0",
+      "end_time": "223.25",
+      "speaker_id": 977780
+    },
+    {
+      "id": 25261081,
+      "text": "Thank you.",
+      "start_time": "223.25",
+      "end_time": "224.3",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25261083,
+      "text": "Thank you.",
+      "start_time": "227.47",
+      "end_time": "231.89",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25261085,
+      "text": "Thank you very much Mr. Campbell and thank you ladies and gentlemen for permitting me",
+      "start_time": "231.89",
+      "end_time": "236.76",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261088,
+      "text": "to be a part of this day. There are a couple of people in the",
+      "start_time": "236.76",
+      "end_time": "241.1",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261090,
+      "text": "audience who know very well and understand how ready I am at",
+      "start_time": "241.1",
+      "end_time": "246.03",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261092,
+      "text": "almost any time to discuss educational public broadcasting in this country.",
+      "start_time": "246.03",
+      "end_time": "253.12",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261097,
+      "text": "However today is a most significant honor and I'm doubly pleased to be able to",
+      "start_time": "253.12",
+      "end_time": "257.47",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261101,
+      "text": "participate because of the extraordinary man we are thanking.",
+      "start_time": "257.47",
+      "end_time": "263.79",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261102,
+      "text": "Special for more reasons than we have time to recycle this afternoon.",
+      "start_time": "263.79",
+      "end_time": "269.99",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261106,
+      "text": "He is committed and tireless. He is a man of vision.",
+      "start_time": "269.99",
+      "end_time": "275.13",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261109,
+      "text": "He is a man who understands only too well that in this democracy vision",
+      "start_time": "275.13",
+      "end_time": "279.95",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261111,
+      "text": "can be and is accomplished only one and if someone rolls up his",
+      "start_time": "279.95",
+      "end_time": "284.78",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261113,
+      "text": "sleeves and goes to work. Lee on behalf",
+      "start_time": "284.78",
+      "end_time": "289.67",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261116,
+      "text": "of all of your colleagues across the United States I want to thank you for being one",
+      "start_time": "289.67",
+      "end_time": "294.67",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261118,
+      "text": "of us for giving us the gift of your talents so",
+      "start_time": "294.67",
+      "end_time": "298.94",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261121,
+      "text": "unselfishly just as you have given those talents to this state and",
+      "start_time": "298.94",
+      "end_time": "303.94",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261124,
+      "text": "to its people. What educational television is here and",
+      "start_time": "303.94",
+      "end_time": "308.79",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261128,
+      "text": "often saw is due in great part to what many who are",
+      "start_time": "308.79",
+      "end_time": "313.72",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261130,
+      "text": "here in the studio may not realize is that what educational and public",
+      "start_time": "313.72",
+      "end_time": "318.55",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261132,
+      "text": "television is today across the south and indeed across the nation is",
+      "start_time": "318.55",
+      "end_time": "323.44",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261133,
+      "text": "also due in great part to you. So we do want to thank you.",
+      "start_time": "323.44",
+      "end_time": "329.1",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261135,
+      "text": "There's a second point I should like to make about Lee. I would like",
+      "start_time": "329.1",
+      "end_time": "333.78",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261137,
+      "text": "just to point up what I think is his extraordinary courage.",
+      "start_time": "333.78",
+      "end_time": "339.9",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261139,
+      "text": "Imagine the courage of a man from the state whose name is Lee Reeves",
+      "start_time": "339.9",
+      "end_time": "344.82",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261140,
+      "text": "who permits one of his two children to emigrate to Texas",
+      "start_time": "344.82",
+      "end_time": "348.67",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261142,
+      "text": "and is able to stay here",
+      "start_time": "348.67",
+      "end_time": "353.31",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261143,
+      "text": "and continue his own life.",
+      "start_time": "353.31",
+      "end_time": "356.89",
+      "speaker_id": 977782
+    },
+    {
+      "id": 25261146,
+      "text": "That is an extraordinary act of courage. Rare indeed in",
+      "start_time": "356.89",
+      "end_time": "361.55",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261147,
+      "text": "today's world. I should like ladies and gentleman",
+      "start_time": "361.55",
+      "end_time": "366.18",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261149,
+      "text": "to pose one or two questions at this point",
+      "start_time": "366.18",
+      "end_time": "371.15",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261151,
+      "text": "in the history of public broadcasting.",
+      "start_time": "371.15",
+      "end_time": "374.24",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261156,
+      "text": "What is Public Broadcasting and what is it that it does.",
+      "start_time": "374.24",
+      "end_time": "380.01",
+      "speaker_id": 977784
+    },
+    {
+      "id": 25261158,
+      "text": "We sometimes indeed often have disagree about our fundamental",
+      "start_time": "380.01",
+      "end_time": "384.68",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261160,
+      "text": "mission. Even among ourselves some of us see our",
+      "start_time": "384.68",
+      "end_time": "389.44",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261162,
+      "text": "role as strictly educational. Others want to provide only",
+      "start_time": "389.44",
+      "end_time": "394.37",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261165,
+      "text": "local community services. Some emphasize services for the",
+      "start_time": "394.37",
+      "end_time": "399.24",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261168,
+      "text": "unrepresented and the under-represented and accordingly want to use public",
+      "start_time": "399.24",
+      "end_time": "403.94",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261171,
+      "text": "broadcasting as a tool for social dialogue. Others dream of",
+      "start_time": "403.94",
+      "end_time": "408.8",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261173,
+      "text": "bringing the finest in the arts drama music and civilization itself",
+      "start_time": "408.8",
+      "end_time": "413.71",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261175,
+      "text": "to as many Americans as possible. Some want public",
+      "start_time": "413.71",
+      "end_time": "418.11",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261177,
+      "text": "broadcasting to be the vehicle through which unconventional ideas and issues can be",
+      "start_time": "418.11",
+      "end_time": "422.81",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261181,
+      "text": "voiced and debated. And of course everyone in this",
+      "start_time": "422.81",
+      "end_time": "427.63",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261183,
+      "text": "room understands that public broadcasting is and must continue to",
+      "start_time": "427.63",
+      "end_time": "432.48",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261186,
+      "text": "be. All of this.",
+      "start_time": "432.48",
+      "end_time": "435.09",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261188,
+      "text": "Clearly we agree. Public broadcasting in this",
+      "start_time": "435.09",
+      "end_time": "439.72",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261191,
+      "text": "society must survive to continue to provide the",
+      "start_time": "439.72",
+      "end_time": "444.31",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261194,
+      "text": "opportunity for its listeners and in radio and",
+      "start_time": "444.31",
+      "end_time": "449.02",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261197,
+      "text": "radio and its viewers in television to see America in all of its",
+      "start_time": "449.02",
+      "end_time": "453.36",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261198,
+      "text": "diversity and complexity to reveal to explain to",
+      "start_time": "453.36",
+      "end_time": "458.15",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261200,
+      "text": "explore to chide and to goad our fellow Americans",
+      "start_time": "458.15",
+      "end_time": "463.06",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261203,
+      "text": "when necessary. Public broadcasting is that institution",
+      "start_time": "463.06",
+      "end_time": "467.75",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261205,
+      "text": "which must remind us of our past illuminates our present and",
+      "start_time": "467.75",
+      "end_time": "472.53",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261207,
+      "text": "yes even occasionally help us to chart a better future.",
+      "start_time": "472.53",
+      "end_time": "477.46",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261210,
+      "text": "Public broadcasting must serve as a mirror for all Americans as well as other",
+      "start_time": "477.46",
+      "end_time": "482.18",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261212,
+      "text": "societies and cultures. We must provide the means of expression for",
+      "start_time": "482.18",
+      "end_time": "486.95",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261214,
+      "text": "creative and talented people as we do today including those",
+      "start_time": "486.95",
+      "end_time": "491.84",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261216,
+      "text": "whose abilities and gifts might otherwise never be known. The",
+      "start_time": "491.84",
+      "end_time": "496.76",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261220,
+      "text": "dream and the challenge to inform inspire and educate. This",
+      "start_time": "496.76",
+      "end_time": "501.58",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261222,
+      "text": "vision of public broadcasting in the United States from its first has never",
+      "start_time": "501.58",
+      "end_time": "506.55",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261225,
+      "text": "changed. That's what we provide and that's what we do.",
+      "start_time": "506.55",
+      "end_time": "512.37",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261229,
+      "text": "It's equally important in my view that we not forget who we are. We",
+      "start_time": "512.37",
+      "end_time": "517.31",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261232,
+      "text": "are educational and public.",
+      "start_time": "517.31",
+      "end_time": "519.19",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261233,
+      "text": "We are not commercial and we must be wary even as we are",
+      "start_time": "519.19",
+      "end_time": "523.97",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261237,
+      "text": "being permitted to develop new relationships with the commercial marketplace that we",
+      "start_time": "523.97",
+      "end_time": "528.8",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261240,
+      "text": "not permit the loss of a service space public institution and the",
+      "start_time": "528.8",
+      "end_time": "533.65",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261243,
+      "text": "establishment of yet another commercial profit based broadcasting entity.",
+      "start_time": "533.65",
+      "end_time": "539.52",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261244,
+      "text": "Please understand this is not intended to diminish the value of our",
+      "start_time": "539.52",
+      "end_time": "544.23",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261245,
+      "text": "nation's commercial enterprise.",
+      "start_time": "544.23",
+      "end_time": "546.96",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261246,
+      "text": "Indeed that marketplace is extraordinarily important to what we are.",
+      "start_time": "546.96",
+      "end_time": "551.87",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261247,
+      "text": "It is to insist that public broadcasting as initiated and as developed",
+      "start_time": "551.87",
+      "end_time": "556.4",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261249,
+      "text": "is not of that marketplace a commentary made at the",
+      "start_time": "556.4",
+      "end_time": "561.4",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261252,
+      "text": "time of the first Carnegie report on public television. More than 15 years ago",
+      "start_time": "561.4",
+      "end_time": "566.1",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261254,
+      "text": "is more eloquent than I can be and it bears repetition",
+      "start_time": "566.1",
+      "end_time": "570.91",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261256,
+      "text": "and repetition and repetition.",
+      "start_time": "570.91",
+      "end_time": "573.54",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261258,
+      "text": "Non-commercial television should address itself to the ideal of",
+      "start_time": "574.37",
+      "end_time": "579.3",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261261,
+      "text": "excellence not the idea of acceptability which is what",
+      "start_time": "579.3",
+      "end_time": "584.23",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261263,
+      "text": "keeps commercial television from climbing the staircase.",
+      "start_time": "584.23",
+      "end_time": "589.34",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261266,
+      "text": "Non-commercial television should be the visual counterpart of the literary essay",
+      "start_time": "589.34",
+      "end_time": "593.75",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261268,
+      "text": "should arouse our dreams satisfy our hunger for beauty",
+      "start_time": "593.75",
+      "end_time": "598.42",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261272,
+      "text": "take us on journeys and enable us to participate in events",
+      "start_time": "598.42",
+      "end_time": "603.07",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261275,
+      "text": "present great drama in music explore the sea in the sky in the woods",
+      "start_time": "603.07",
+      "end_time": "608.04",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261279,
+      "text": "in the hills. It should be our hour to talk with",
+      "start_time": "608.04",
+      "end_time": "612.59",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261281,
+      "text": "our Minsky's and our Camelot. It should restate and",
+      "start_time": "612.59",
+      "end_time": "617.07",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261284,
+      "text": "clarify our social dilemma and our political pickle. Once in a while",
+      "start_time": "617.07",
+      "end_time": "622.02",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261289,
+      "text": "it does that and once in a while you get a quick glimpse of its potential.",
+      "start_time": "622.02",
+      "end_time": "628.07",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261293,
+      "text": "Remember my friends. That is what we really are. We are",
+      "start_time": "628.07",
+      "end_time": "632.96",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261296,
+      "text": "noncommercial educational occasionally visionary.",
+      "start_time": "632.96",
+      "end_time": "637.99",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261298,
+      "text": "Our purpose is to serve in ways which must be always different.",
+      "start_time": "637.99",
+      "end_time": "644.01",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261301,
+      "text": "There is a difference between commercial broadcasting and public broadcasting.",
+      "start_time": "644.01",
+      "end_time": "648.06",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261303,
+      "text": "Turn on your set. You'll see the difference.",
+      "start_time": "649.04",
+      "end_time": "655.13",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261306,
+      "text": "Public broadcasting is now part of the bedrock of this society and",
+      "start_time": "655.13",
+      "end_time": "659.97",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261309,
+      "text": "should not be numbered among its endangered species.",
+      "start_time": "659.97",
+      "end_time": "665.44",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261311,
+      "text": "Yes we should experiment. Yes we should seek new sources of revenue",
+      "start_time": "665.44",
+      "end_time": "670.01",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261313,
+      "text": "but never at the risk of losing what we have.",
+      "start_time": "670.01",
+      "end_time": "674.94",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261315,
+      "text": "We must not tamper with the ideals and the principles of public broadcasting.",
+      "start_time": "674.94",
+      "end_time": "680.63",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261318,
+      "text": "We simply must not compromise this institution. Public",
+      "start_time": "680.63",
+      "end_time": "685.23",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261320,
+      "text": "broadcasting is no longer an experiment. It works",
+      "start_time": "685.23",
+      "end_time": "689.53",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261322,
+      "text": "and it can continue to work its fundamental mission is",
+      "start_time": "689.53",
+      "end_time": "694.53",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261324,
+      "text": "to bring programs of excellence to the public programmes of high quality",
+      "start_time": "694.53",
+      "end_time": "699.14",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261327,
+      "text": "unavailable anywhere else. Programmes which entertain",
+      "start_time": "699.14",
+      "end_time": "703.73",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261330,
+      "text": "educate and stimulate us and hopefully our children and",
+      "start_time": "703.73",
+      "end_time": "708.24",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261334,
+      "text": "hopefully their children. Excellence is its lodestar its",
+      "start_time": "708.24",
+      "end_time": "712.89",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261337,
+      "text": "constant guide. It can't always hit that mark it shouldn't be expected",
+      "start_time": "712.89",
+      "end_time": "717.75",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261342,
+      "text": "to. But we who know it and who support it can",
+      "start_time": "717.75",
+      "end_time": "722.55",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261347,
+      "text": "never lose sight of that goal. How",
+      "start_time": "722.55",
+      "end_time": "727.13",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261350,
+      "text": "then in these economically troubled times do we sustain these",
+      "start_time": "727.13",
+      "end_time": "731.63",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261355,
+      "text": "important activities. There are essentially two sources of income",
+      "start_time": "731.63",
+      "end_time": "736.56",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261359,
+      "text": "for Public Broadcasting in this nation.",
+      "start_time": "736.56",
+      "end_time": "739.76",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261360,
+      "text": "The first which provides about three quarters of all funding is",
+      "start_time": "739.76",
+      "end_time": "744.71",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261363,
+      "text": "the community of television and radio licensees. People like you",
+      "start_time": "744.71",
+      "end_time": "749.41",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261365,
+      "text": "who make it work within regulatory limits",
+      "start_time": "749.41",
+      "end_time": "753.56",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261368,
+      "text": "those licensees turn to the private sector to the foundation",
+      "start_time": "753.56",
+      "end_time": "758.07",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261371,
+      "text": "world to state and local government to educational institutions and to",
+      "start_time": "758.07",
+      "end_time": "762.95",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261378,
+      "text": "their audiences. The licensees engage in auctions",
+      "start_time": "762.95",
+      "end_time": "767.42",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261381,
+      "text": "benefits and a host of other enterprising activities to sustain their",
+      "start_time": "767.42",
+      "end_time": "771.58",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261384,
+      "text": "services. Without you and without others like you",
+      "start_time": "771.58",
+      "end_time": "776.29",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261387,
+      "text": "across this nation we would literally be without a noncommercial",
+      "start_time": "776.29",
+      "end_time": "780.98",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261389,
+      "text": "broadcasting service in this country. The other sources of",
+      "start_time": "780.98",
+      "end_time": "785.36",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261392,
+      "text": "income or the other source of income pardon me is the",
+      "start_time": "785.36",
+      "end_time": "789.73",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261394,
+      "text": "Corporation for Public Broadcasting whose duty as an independent entity",
+      "start_time": "789.73",
+      "end_time": "794.54",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261397,
+      "text": "is to nurture guide and invigorated Public Broadcasting.",
+      "start_time": "794.54",
+      "end_time": "799.55",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261399,
+      "text": "The federal commitment CPB receives and invests in public broadcasting has",
+      "start_time": "799.55",
+      "end_time": "804.33",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261403,
+      "text": "enabled our services to move from adequacy with which we must never be",
+      "start_time": "804.33",
+      "end_time": "808.77",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261408,
+      "text": "content to a general level of excellence to which we must always",
+      "start_time": "808.77",
+      "end_time": "813.51",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261411,
+      "text": "aspire. Accordingly the federal commitment in my view",
+      "start_time": "813.51",
+      "end_time": "818.0",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261412,
+      "text": "is and will always be of singular importance.",
+      "start_time": "818.0",
+      "end_time": "822.64",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261415,
+      "text": "In fact I believe that the federal commitment to public broadcasting has been and",
+      "start_time": "822.64",
+      "end_time": "827.64",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261417,
+      "text": "will be one of the soundest uses of our national treasury",
+      "start_time": "827.64",
+      "end_time": "832.01",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261421,
+      "text": "both in terms of purpose and accomplishment. We are the",
+      "start_time": "832.01",
+      "end_time": "836.95",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261422,
+      "text": "only industrialized nation on the face of this globe",
+      "start_time": "836.95",
+      "end_time": "841.75",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261426,
+      "text": "which supports most of its efforts in noncommercial public",
+      "start_time": "841.75",
+      "end_time": "845.99",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261431,
+      "text": "broadcasting through local activity. All the other",
+      "start_time": "845.99",
+      "end_time": "850.51",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261434,
+      "text": "nations who are our allies support similar activities",
+      "start_time": "850.51",
+      "end_time": "854.96",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261437,
+      "text": "entirely through their national governments.",
+      "start_time": "854.96",
+      "end_time": "857.6",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261439,
+      "text": "We do not and in my view we should never.",
+      "start_time": "857.6",
+      "end_time": "860.24",
+      "speaker_id": 977784
+    },
+    {
+      "id": 25261442,
+      "text": "Our accomplishments as you know are about to be sorely tested.",
+      "start_time": "861.51",
+      "end_time": "867.4",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261444,
+      "text": "Federal support is falling off our long range goal",
+      "start_time": "867.4",
+      "end_time": "871.82",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261446,
+      "text": "must be to strengthen that federal foundation and thereby strengthen",
+      "start_time": "871.82",
+      "end_time": "876.8",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261449,
+      "text": "our stations and our national operating institutions. Our",
+      "start_time": "876.8",
+      "end_time": "881.39",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261452,
+      "text": "immediate goal however must be to sustain ourselves. This",
+      "start_time": "881.39",
+      "end_time": "886.37",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261455,
+      "text": "year the one hundred seventy two million dollar federal appropriation the largest in our history",
+      "start_time": "886.37",
+      "end_time": "891.29",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261461,
+      "text": "is a benchmark in the history of public broadcasting. The nearly",
+      "start_time": "891.29",
+      "end_time": "895.79",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261465,
+      "text": "devastating irony is that were we more stable this",
+      "start_time": "895.79",
+      "end_time": "900.56",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261469,
+      "text": "benchmark could serve as a point of fulfillment in terms of the services we",
+      "start_time": "900.56",
+      "end_time": "905.5",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261472,
+      "text": "are now able to provide. And as a signal to the public of what is still to come",
+      "start_time": "905.5",
+      "end_time": "910.29",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261474,
+      "text": "instead. And unfortunately it",
+      "start_time": "910.29",
+      "end_time": "915.18",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261476,
+      "text": "is a benchmark which must serve as a resource to be used to get through these next",
+      "start_time": "915.18",
+      "end_time": "919.91",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261478,
+      "text": "years. For 1983 PBS",
+      "start_time": "919.91",
+      "end_time": "924.76",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261481,
+      "text": "appropriation drops to one hundred thirty seven million dollars for",
+      "start_time": "924.76",
+      "end_time": "929.06",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261483,
+      "text": "1984 85 and 86. The congressional",
+      "start_time": "929.06",
+      "end_time": "933.41",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261486,
+      "text": "authorization level is one hundred thirty million dollars. And as you know",
+      "start_time": "933.41",
+      "end_time": "937.9",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261489,
+      "text": "we shall have to fight to maintain that level. In",
+      "start_time": "937.9",
+      "end_time": "942.78",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261491,
+      "text": "my view funding levels below one hundred thirty million dollars will severely jeopardize",
+      "start_time": "942.78",
+      "end_time": "947.73",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261493,
+      "text": "our ability to maintain current services. We have the",
+      "start_time": "947.73",
+      "end_time": "952.63",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261495,
+      "text": "cooperation will have enormous difficulty at that level in meeting costs",
+      "start_time": "952.63",
+      "end_time": "957.46",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261496,
+      "text": "associated with critical system support activities. Even",
+      "start_time": "957.46",
+      "end_time": "962.26",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261498,
+      "text": "at that level the maximum we can hope to achieve CPB is direct",
+      "start_time": "962.26",
+      "end_time": "967.21",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261499,
+      "text": "support to our stations will slip to one acceptably low levels and a",
+      "start_time": "967.21",
+      "end_time": "972.04",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261501,
+      "text": "commitment to high quality national programming will fall alarmingly below",
+      "start_time": "972.04",
+      "end_time": "976.9",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261503,
+      "text": "amounts needed to maintain and sustain those efforts.",
+      "start_time": "976.9",
+      "end_time": "982.33",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261505,
+      "text": "The American people have invested many many millions of dollars in public",
+      "start_time": "982.33",
+      "end_time": "986.68",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261507,
+      "text": "broadcasting to much I believe for them to see the dividends from that",
+      "start_time": "986.68",
+      "end_time": "991.37",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261509,
+      "text": "investment dwindle and perhaps vanish. We must assure all",
+      "start_time": "991.37",
+      "end_time": "996.0",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261513,
+      "text": "Americans that there is was and continues to be one of the wisest",
+      "start_time": "996.0",
+      "end_time": "1000.97",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261514,
+      "text": "and most thoughtful investments they have ever made. We have already",
+      "start_time": "1000.97",
+      "end_time": "1005.95",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261517,
+      "text": "started to plan for long range financing solutions together.",
+      "start_time": "1005.95",
+      "end_time": "1011.08",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261518,
+      "text": "All of us across the nation must agree on the principles. Work together with the",
+      "start_time": "1011.08",
+      "end_time": "1015.95",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261522,
+      "text": "Congress provide information to those who still need to be convinced",
+      "start_time": "1015.95",
+      "end_time": "1020.49",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261524,
+      "text": "and inform everyone in Public Broadcasting's growing and vast family",
+      "start_time": "1020.49",
+      "end_time": "1025.3",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261527,
+      "text": "of what is needed and why it is needed. And most",
+      "start_time": "1025.3",
+      "end_time": "1029.93",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261529,
+      "text": "important you must intensify your efforts here",
+      "start_time": "1029.93",
+      "end_time": "1034.27",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261531,
+      "text": "at the community level as a first step in this",
+      "start_time": "1034.27",
+      "end_time": "1038.94",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261532,
+      "text": "process. We have established a new long range financing taskforce at the",
+      "start_time": "1038.94",
+      "end_time": "1043.32",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261533,
+      "text": "corporation with representatives from the public broadcasting community and the",
+      "start_time": "1043.32",
+      "end_time": "1048.15",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261534,
+      "text": "public like its highly successful counterparts several years ago.",
+      "start_time": "1048.15",
+      "end_time": "1053.35",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261535,
+      "text": "This task force will conduct a comprehensive analysis and evaluation of financing",
+      "start_time": "1053.35",
+      "end_time": "1058.08",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261536,
+      "text": "alternatives and funding sources for Public Broadcasting. Our early",
+      "start_time": "1058.08",
+      "end_time": "1063.08",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261537,
+      "text": "year long range financing taskforce provided public broadcasting and the Congress",
+      "start_time": "1063.08",
+      "end_time": "1067.83",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261538,
+      "text": "with guidance which led to long range advance funding and matching federal",
+      "start_time": "1067.83",
+      "end_time": "1072.46",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261539,
+      "text": "support. Both very important ingredients in what must be a",
+      "start_time": "1072.46",
+      "end_time": "1077.22",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261540,
+      "text": "constant effort to insulate our enterprise from the federal government itself.",
+      "start_time": "1077.22",
+      "end_time": "1081.71",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261541,
+      "text": "This new task force represents an equally important undertaking",
+      "start_time": "1082.48",
+      "end_time": "1086.91",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261542,
+      "text": "within the next eight months a congressionally created temporary",
+      "start_time": "1086.91",
+      "end_time": "1091.77",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261543,
+      "text": "commission on alternative financing for public broadcasting must present to the Congress",
+      "start_time": "1091.77",
+      "end_time": "1096.76",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261544,
+      "text": "a plan for the financing of this institution. Frankly I am heartened",
+      "start_time": "1096.76",
+      "end_time": "1101.75",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261545,
+      "text": "by the very idea that the Congress for the first time wants to help us",
+      "start_time": "1101.75",
+      "end_time": "1106.6",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261546,
+      "text": "resolve our financial problems. If we too care we will be",
+      "start_time": "1106.6",
+      "end_time": "1111.56",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261547,
+      "text": "absolutely certain that a plan which puts in place a long range policy",
+      "start_time": "1111.56",
+      "end_time": "1116.48",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261548,
+      "text": "for the continuation of public broadcasting and a revenue base to support it",
+      "start_time": "1116.48",
+      "end_time": "1120.76",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261549,
+      "text": "is properly delivered by the temporary commission in mid",
+      "start_time": "1120.76",
+      "end_time": "1125.04",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261550,
+      "text": "1982. To do that our own long range",
+      "start_time": "1125.04",
+      "end_time": "1129.92",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261551,
+      "text": "financing taskforce will begin its own work next month.",
+      "start_time": "1129.92",
+      "end_time": "1134.92",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261552,
+      "text": "We cannot at any cost negate the federal role while under",
+      "start_time": "1134.92",
+      "end_time": "1139.87",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261553,
+      "text": "30 percent of the total cost it has been and will continue to be",
+      "start_time": "1139.87",
+      "end_time": "1144.73",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261554,
+      "text": "one of the two fundamental foundations of our resources. It is",
+      "start_time": "1144.73",
+      "end_time": "1149.58",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261555,
+      "text": "part of our pact with the American people. However the hard fact",
+      "start_time": "1149.58",
+      "end_time": "1154.13",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261556,
+      "text": "remains that for the next few years this source of support will be less",
+      "start_time": "1154.13",
+      "end_time": "1159.11",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261557,
+      "text": "than it should being. Accordingly we must begin to",
+      "start_time": "1159.11",
+      "end_time": "1163.57",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261558,
+      "text": "provide ways to seek alternative forms of financing.",
+      "start_time": "1163.57",
+      "end_time": "1168.62",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261559,
+      "text": "We have to look for other avenues to secure our income.",
+      "start_time": "1168.62",
+      "end_time": "1171.76",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261560,
+      "text": "And we must begin as we have begun across the",
+      "start_time": "1172.48",
+      "end_time": "1177.23",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261561,
+      "text": "country as part of its work the congressionally created",
+      "start_time": "1177.23",
+      "end_time": "1181.73",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261562,
+      "text": "temporary commission is examining an 18 month long experiment with",
+      "start_time": "1181.73",
+      "end_time": "1186.72",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261563,
+      "text": "cluster advertising for broadcast use on our air on our television",
+      "start_time": "1186.72",
+      "end_time": "1191.35",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261564,
+      "text": "stations and our radio stations. The public broadcasting",
+      "start_time": "1191.35",
+      "end_time": "1195.92",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261565,
+      "text": "community is a good faith participant in this advertising demonstration project.",
+      "start_time": "1195.92",
+      "end_time": "1201.34",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261566,
+      "text": "And of course we'll support the efforts of the temporary commission.",
+      "start_time": "1201.34",
+      "end_time": "1206.67",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261567,
+      "text": "I believe that the results of these investigations will prove invaluable to us",
+      "start_time": "1206.67",
+      "end_time": "1211.05",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261568,
+      "text": "to the Congress and to all the people of this land",
+      "start_time": "1211.05",
+      "end_time": "1214.45",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261569,
+      "text": "on air advertising however again in",
+      "start_time": "1214.45",
+      "end_time": "1219.39",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261570,
+      "text": "my view is not the answer for Public Broadcasting. Not now",
+      "start_time": "1219.39",
+      "end_time": "1223.94",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261571,
+      "text": "and probably not in the future. We have a unique service to",
+      "start_time": "1223.94",
+      "end_time": "1228.88",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261572,
+      "text": "offer to the American public a service which more and more people each year",
+      "start_time": "1228.88",
+      "end_time": "1233.64",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261573,
+      "text": "recognize and support and public broadcasting from its very first",
+      "start_time": "1233.64",
+      "end_time": "1238.47",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261574,
+      "text": "days developed and grew as a commercial free undertaking.",
+      "start_time": "1238.47",
+      "end_time": "1242.24",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261575,
+      "text": "The limited advertising experiment authorized by the Congress",
+      "start_time": "1242.97",
+      "end_time": "1247.45",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261576,
+      "text": "should be thoroughly explored because our needs are great",
+      "start_time": "1247.45",
+      "end_time": "1251.5",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261577,
+      "text": "but we must be very cautious. This experiment should not",
+      "start_time": "1251.5",
+      "end_time": "1256.46",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261578,
+      "text": "divert or delay us nor should it tire us from the actions we",
+      "start_time": "1256.46",
+      "end_time": "1261.31",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261579,
+      "text": "must take to be certain that this institution survives and",
+      "start_time": "1261.31",
+      "end_time": "1265.61",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261581,
+      "text": "prospers.",
+      "start_time": "1265.61",
+      "end_time": "1267.44",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261584,
+      "text": "We must never forget what public broadcasting is and why our fellow",
+      "start_time": "1267.44",
+      "end_time": "1272.15",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261586,
+      "text": "citizens permitted us to bring it into existence 30 years ago.",
+      "start_time": "1272.15",
+      "end_time": "1278.21",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261588,
+      "text": "Let's assume that we are very successful with all of these efforts to learn",
+      "start_time": "1278.21",
+      "end_time": "1282.49",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261590,
+      "text": "and to establish openings to the commercial marketplace. Let's",
+      "start_time": "1282.49",
+      "end_time": "1287.28",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261592,
+      "text": "assume for a moment that we accomplish these ventures without damage to our public and our",
+      "start_time": "1287.28",
+      "end_time": "1292.06",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261594,
+      "text": "independent status without damage to our more traditional sources of",
+      "start_time": "1292.06",
+      "end_time": "1296.98",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261597,
+      "text": "support. The net proceeds as far as we can tell",
+      "start_time": "1296.98",
+      "end_time": "1301.83",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261599,
+      "text": "would very likely not add up to 10 percent of our current",
+      "start_time": "1301.83",
+      "end_time": "1306.45",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261601,
+      "text": "system operating budgets across the nation and they would probably not",
+      "start_time": "1306.45",
+      "end_time": "1311.16",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261605,
+      "text": "even equal 30 percent of the greatly reduced federal commitment.",
+      "start_time": "1311.16",
+      "end_time": "1316.77",
+      "speaker_id": 977783
+    },
+    {
+      "id": 25261608,
+      "text": "So is it worth it.",
+      "start_time": "1316.77",
+      "end_time": "1318.87",
+      "speaker_id": 977784
+    },
+    {
+      "id": 25261609,
+      "text": "And what is it that we want to continue to build our",
+      "start_time": "1318.87",
+      "end_time": "1323.42",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261611,
+      "text": "financial ills will simply not be resolved by the commercialization of public",
+      "start_time": "1323.42",
+      "end_time": "1328.15",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261613,
+      "text": "broadcasting. Not unless the millions who watch and listen. Want a",
+      "start_time": "1328.15",
+      "end_time": "1332.97",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261616,
+      "text": "completely different institution.",
+      "start_time": "1332.97",
+      "end_time": "1336.79",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261622,
+      "text": "Many people believe in us and they give us",
+      "start_time": "1336.79",
+      "end_time": "1341.65",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261626,
+      "text": "their support. Many more are willing to help us and we you",
+      "start_time": "1341.65",
+      "end_time": "1346.53",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261629,
+      "text": "for our part must work for stronger understanding greater appreciation",
+      "start_time": "1346.53",
+      "end_time": "1351.09",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261632,
+      "text": "and increased support from all Americans. All the possible",
+      "start_time": "1351.09",
+      "end_time": "1355.79",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261635,
+      "text": "resources and energies of the corporation over the next 12 months will be bent to",
+      "start_time": "1355.79",
+      "end_time": "1360.66",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261637,
+      "text": "that end. Without the people we are nothing. We",
+      "start_time": "1360.66",
+      "end_time": "1365.52",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261640,
+      "text": "must deal with the whole question of a viable and enduring public policy for",
+      "start_time": "1365.52",
+      "end_time": "1370.23",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261642,
+      "text": "Public Broadcasting. We must speak with one voice a voice",
+      "start_time": "1370.23",
+      "end_time": "1375.06",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261644,
+      "text": "which is clear and understandable. A voice which is heard and a voice which",
+      "start_time": "1375.06",
+      "end_time": "1379.94",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261646,
+      "text": "is heeded. With such a unity in place Public Broadcasting",
+      "start_time": "1379.94",
+      "end_time": "1384.9",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261647,
+      "text": "can have an enduring congressional commitment a stable national",
+      "start_time": "1384.9",
+      "end_time": "1389.29",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261650,
+      "text": "policy which will enable continuing progress as",
+      "start_time": "1389.29",
+      "end_time": "1394.23",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261652,
+      "text": "you know both television and radio have increased listener and viewer support by significant",
+      "start_time": "1394.23",
+      "end_time": "1399.09",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261653,
+      "text": "numbers over the past 10 years. But we must have an even",
+      "start_time": "1399.09",
+      "end_time": "1404.04",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261655,
+      "text": "greater groundswell of support. The people here in Little Rock in Denver",
+      "start_time": "1404.04",
+      "end_time": "1409.03",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261657,
+      "text": "in St. Louis and in New York the people in communities across the country",
+      "start_time": "1409.03",
+      "end_time": "1413.88",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261659,
+      "text": "who want the kind of system which delivers the kind of service they want",
+      "start_time": "1413.88",
+      "end_time": "1418.71",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261661,
+      "text": "must join with us to get the kind of congressional commitment we simply",
+      "start_time": "1418.71",
+      "end_time": "1423.5",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261662,
+      "text": "must have. Then my friends and only then will be will be",
+      "start_time": "1423.5",
+      "end_time": "1428.29",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261664,
+      "text": "able with any certainty to experiment with new ways including commercial",
+      "start_time": "1428.29",
+      "end_time": "1433.13",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261666,
+      "text": "ways to strengthen our base. The",
+      "start_time": "1433.13",
+      "end_time": "1437.73",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261668,
+      "text": "message which goes to the policymakers in Washington. Let's go from you.",
+      "start_time": "1437.73",
+      "end_time": "1443.84",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261669,
+      "text": "We must begin to play and now for Long-Range financing which might be introduced two",
+      "start_time": "1443.84",
+      "end_time": "1448.8",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261671,
+      "text": "years from now. We must agree on the principles do the necessary work",
+      "start_time": "1448.8",
+      "end_time": "1453.75",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261673,
+      "text": "with our friends in Washington go out and do whatever missionary work is",
+      "start_time": "1453.75",
+      "end_time": "1458.25",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261675,
+      "text": "necessary to persuade others and to inform everyone and Public",
+      "start_time": "1458.25",
+      "end_time": "1462.87",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261676,
+      "text": "Broadcasting's of vast community of where it is we're going.",
+      "start_time": "1462.87",
+      "end_time": "1467.91",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261678,
+      "text": "I can't give you a timetable but to obtain the kind of long range",
+      "start_time": "1467.91",
+      "end_time": "1472.58",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261681,
+      "text": "funding we need at the national level to sustain what we are we must",
+      "start_time": "1472.58",
+      "end_time": "1477.23",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261682,
+      "text": "begin to work together now. I believe we can respond to",
+      "start_time": "1477.23",
+      "end_time": "1482.13",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261683,
+      "text": "that challenge together the stations in the cooperation can forge the",
+      "start_time": "1482.13",
+      "end_time": "1486.82",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261684,
+      "text": "institution. We have been charged to put in place then we can",
+      "start_time": "1486.82",
+      "end_time": "1491.61",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261685,
+      "text": "have an understandable public presence and identification. Then",
+      "start_time": "1491.61",
+      "end_time": "1496.48",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261686,
+      "text": "we can put in place once and forever a viable and continuing public",
+      "start_time": "1496.48",
+      "end_time": "1501.47",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261687,
+      "text": "policy which says this is an essential institution in this",
+      "start_time": "1501.47",
+      "end_time": "1506.35",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261688,
+      "text": "democracy. And this period of austerity and",
+      "start_time": "1506.35",
+      "end_time": "1510.56",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261689,
+      "text": "uncertainty there can be no place for equivocation or for dissembling.",
+      "start_time": "1510.56",
+      "end_time": "1516.27",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261690,
+      "text": "We must build an institution on trust on understanding and on",
+      "start_time": "1516.27",
+      "end_time": "1520.77",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261691,
+      "text": "commitment. There is no longer in my view a choice",
+      "start_time": "1520.77",
+      "end_time": "1525.02",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261692,
+      "text": "I should like to suggest three paths.",
+      "start_time": "1525.02",
+      "end_time": "1530.1",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261693,
+      "text": "The first is to strengthen the support of the American people. We must involve people",
+      "start_time": "1530.1",
+      "end_time": "1534.86",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261694,
+      "text": "more people in the listening and viewing public. The public who supports",
+      "start_time": "1534.86",
+      "end_time": "1539.71",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261695,
+      "text": "us with voluntary dollars through their states through their communities",
+      "start_time": "1539.71",
+      "end_time": "1544.4",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261696,
+      "text": "through wanting our membership drives that public must grow by at least one million",
+      "start_time": "1544.4",
+      "end_time": "1549.21",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261697,
+      "text": "people for television and 200000 people for radio. And those",
+      "start_time": "1549.21",
+      "end_time": "1553.89",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261698,
+      "text": "people must be in place by January 1984. We",
+      "start_time": "1553.89",
+      "end_time": "1558.55",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261699,
+      "text": "must persuade our nation that we are genuinely the people's business.",
+      "start_time": "1558.55",
+      "end_time": "1563.94",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261700,
+      "text": "Second we simply must have a longer range commitment from the United States",
+      "start_time": "1563.94",
+      "end_time": "1568.31",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261701,
+      "text": "Congress at least a 10 year commitment with the current forward funding",
+      "start_time": "1568.31",
+      "end_time": "1572.75",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261702,
+      "text": "principles in place. No longer can this institution have the",
+      "start_time": "1572.75",
+      "end_time": "1577.73",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261703,
+      "text": "need for public broadcasting questioned every two to four years. The",
+      "start_time": "1577.73",
+      "end_time": "1582.73",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261704,
+      "text": "mandate should be constant and enduring pact with our fellow",
+      "start_time": "1582.73",
+      "end_time": "1586.96",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261705,
+      "text": "citizens. Third we must probe because we",
+      "start_time": "1586.96",
+      "end_time": "1591.9",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261706,
+      "text": "have obligations and responsibilities and put in place certain openings to the",
+      "start_time": "1591.9",
+      "end_time": "1596.41",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261707,
+      "text": "commercial marketplace. But we must be careful not to endanger the",
+      "start_time": "1596.41",
+      "end_time": "1601.11",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261708,
+      "text": "noncommercial base of what we are and what we do.",
+      "start_time": "1601.11",
+      "end_time": "1604.41",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261709,
+      "text": "So we seek one in a quarter million new voluntary subscribers",
+      "start_time": "1605.23",
+      "end_time": "1610.14",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261710,
+      "text": "to public television and radio. We seek a firmer federal commitment",
+      "start_time": "1610.14",
+      "end_time": "1614.76",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261711,
+      "text": "and we are willing to test careful openings to possible commercial",
+      "start_time": "1614.76",
+      "end_time": "1619.33",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261712,
+      "text": "revenues. It can be done if we are together.",
+      "start_time": "1619.33",
+      "end_time": "1624.6",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261713,
+      "text": "Fifteen years ago when you began this great experiment here in",
+      "start_time": "1624.6",
+      "end_time": "1629.54",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261714,
+      "text": "Arkansas or would you have thought that you could have developed this kind",
+      "start_time": "1629.54",
+      "end_time": "1634.48",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261715,
+      "text": "of an enterprise with these kinds of services with these kinds of",
+      "start_time": "1634.48",
+      "end_time": "1638.81",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261716,
+      "text": "facilities. Fifteen years ago we were not even a trolley car.",
+      "start_time": "1638.81",
+      "end_time": "1644.82",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261717,
+      "text": "We were a horse and buggy and a jet age. Today the satellite system we",
+      "start_time": "1644.82",
+      "end_time": "1649.76",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261718,
+      "text": "have put in place is one of the wonders technological wonders of this nation's",
+      "start_time": "1649.76",
+      "end_time": "1654.23",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261719,
+      "text": "entire technological environment. We led the way into the",
+      "start_time": "1654.23",
+      "end_time": "1658.7",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261720,
+      "text": "satellite world. We didn't follow the commercial world is",
+      "start_time": "1658.7",
+      "end_time": "1663.32",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261721,
+      "text": "following us 15 years ago we dreamed about color",
+      "start_time": "1663.32",
+      "end_time": "1667.47",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261722,
+      "text": "transmission and about covering great cultural and public events across the world",
+      "start_time": "1667.47",
+      "end_time": "1672.07",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261723,
+      "text": "instantaneously.",
+      "start_time": "1672.07",
+      "end_time": "1674.36",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261724,
+      "text": "Today we do that and we do it very very very well.",
+      "start_time": "1674.36",
+      "end_time": "1677.87",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261725,
+      "text": "I like to compare the development of public broadcasting in the United",
+      "start_time": "1678.77",
+      "end_time": "1683.38",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261726,
+      "text": "States to the development of the great continental medieval cathedrals",
+      "start_time": "1683.38",
+      "end_time": "1688.18",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261727,
+      "text": "never finished never intended to be finished",
+      "start_time": "1688.18",
+      "end_time": "1693.16",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261728,
+      "text": "always changing always representing the aspirations and the",
+      "start_time": "1693.16",
+      "end_time": "1697.99",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261729,
+      "text": "dreams of each generation that puts a new stone in place. A",
+      "start_time": "1697.99",
+      "end_time": "1702.94",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261730,
+      "text": "remarkable remarkable piece of artistic beauty supported",
+      "start_time": "1702.94",
+      "end_time": "1707.93",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261731,
+      "text": "by the people of every possible community.",
+      "start_time": "1707.93",
+      "end_time": "1713.5",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261732,
+      "text": "Is this going to be the generation that stops the construction of this cathedral",
+      "start_time": "1713.5",
+      "end_time": "1718.09",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261733,
+      "text": "as a father as a citizen and as a public",
+      "start_time": "1718.09",
+      "end_time": "1722.63",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261734,
+      "text": "broadcaster. I hope I do not have to carry that with me.",
+      "start_time": "1722.63",
+      "end_time": "1729.34",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261735,
+      "text": "The building here. Ladies and gentleman. It's not",
+      "start_time": "1729.34",
+      "end_time": "1734.05",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261736,
+      "text": "the only story of what Lee Reeves",
+      "start_time": "1734.05",
+      "end_time": "1738.89",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261737,
+      "text": "has done what Lee Reeves has done.",
+      "start_time": "1738.89",
+      "end_time": "1743.88",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261738,
+      "text": "It's going to be reflected by the next generation of AUK and sons who",
+      "start_time": "1743.88",
+      "end_time": "1748.78",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261739,
+      "text": "are in school rooms today and who are using this facility",
+      "start_time": "1748.78",
+      "end_time": "1753.65",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261740,
+      "text": "and its program services to improve their minds and their spirits.",
+      "start_time": "1753.65",
+      "end_time": "1760.23",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261741,
+      "text": "It's being used by adults across the community to enjoy and",
+      "start_time": "1760.23",
+      "end_time": "1764.55",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261742,
+      "text": "understand the treasures of this century and the treasures of centuries",
+      "start_time": "1764.55",
+      "end_time": "1769.11",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261743,
+      "text": "past and to gauge the kind of a world they want to leave for those to come.",
+      "start_time": "1769.11",
+      "end_time": "1775.75",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261744,
+      "text": "That is what Lee Reeves has done. That is what public broadcasting has done",
+      "start_time": "1775.75",
+      "end_time": "1780.67",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261745,
+      "text": "and must continue to do.",
+      "start_time": "1780.67",
+      "end_time": "1783.35",
+      "speaker_id": 977786
+    },
+    {
+      "id": 25261746,
+      "text": "I'm absolutely persuaded that we can with people like you",
+      "start_time": "1783.35",
+      "end_time": "1788.0",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261747,
+      "text": "and with public spirited leaders like Lee Reeves. It is entirely possible",
+      "start_time": "1788.0",
+      "end_time": "1792.98",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261748,
+      "text": "Lee on behalf of all of us I thank you for these",
+      "start_time": "1792.98",
+      "end_time": "1797.83",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261749,
+      "text": "15 years of your life and I insist on many many more.",
+      "start_time": "1797.83",
+      "end_time": "1802.17",
+      "speaker_id": 977785
+    },
+    {
+      "id": 25261750,
+      "text": "Thank you so",
+      "start_time": "1802.17",
+      "end_time": "1803.16",
+      "speaker_id": 977787
+    },
+    {
+      "id": 25261751,
+      "text": "much.",
+      "start_time": "1803.16",
+      "end_time": "1807.45",
+      "speaker_id": 977787
+    },
+    {
+      "id": 25261752,
+      "text": "Ed",
+      "start_time": "1813.11",
+      "end_time": "1822.38",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261753,
+      "text": "thank you again for your presence and your remarks to us you not only",
+      "start_time": "1822.38",
+      "end_time": "1827.37",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261754,
+      "text": "on our leave but all of us by your presidents by your presence",
+      "start_time": "1827.37",
+      "end_time": "1831.41",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261755,
+      "text": "and our confidence is certainly enhanced",
+      "start_time": "1831.41",
+      "end_time": "1835.95",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261756,
+      "text": "in hearing your remarks and knowing that you're in a position of leadership with",
+      "start_time": "1835.95",
+      "end_time": "1840.73",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261757,
+      "text": "the corporation gives us a larger view of our own",
+      "start_time": "1840.73",
+      "end_time": "1845.44",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261758,
+      "text": "functions. When we hear the challenges that are ahead sometimes we spend",
+      "start_time": "1845.44",
+      "end_time": "1850.35",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261759,
+      "text": "our time thinking about how we can keep the transmitter in Fayetteville on the air and losing",
+      "start_time": "1850.35",
+      "end_time": "1855.03",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261760,
+      "text": "sight of some of the larger problems. I would next",
+      "start_time": "1855.03",
+      "end_time": "1859.88",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261761,
+      "text": "like to introduce to you Senator Stanley Russ",
+      "start_time": "1859.88",
+      "end_time": "1864.68",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261762,
+      "text": "who represents District 21 which includes Faulkner. Van Buren",
+      "start_time": "1864.68",
+      "end_time": "1869.65",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261763,
+      "text": "and Conway counties. Senator Russ has been a member of the",
+      "start_time": "1869.65",
+      "end_time": "1874.35",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261764,
+      "text": "General Assembly since 1975 and brings us greetings on",
+      "start_time": "1874.35",
+      "end_time": "1879.16",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261765,
+      "text": "behalf of the General Assembly and the citizens of Arkansas.",
+      "start_time": "1879.16",
+      "end_time": "1883.2",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261766,
+      "text": "I.",
+      "start_time": "1883.2",
+      "end_time": "1884.23",
+      "speaker_id": 977787
+    },
+    {
+      "id": 25261767,
+      "text": "Senator",
+      "start_time": "1887.23",
+      "end_time": "1892.3",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261768,
+      "text": "Reeves Mrs. Reeves Reeves girls the",
+      "start_time": "1892.3",
+      "end_time": "1897.08",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261769,
+      "text": "sons in law and I believe how many grandchildren five grandchildren",
+      "start_time": "1897.08",
+      "end_time": "1902.06",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261770,
+      "text": "and two chairman Campbell.",
+      "start_time": "1902.06",
+      "end_time": "1906.96",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261771,
+      "text": "Mr. Speaker Mr. former governor of all of us",
+      "start_time": "1906.96",
+      "end_time": "1911.79",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261772,
+      "text": "distinguished members of the audience and friends",
+      "start_time": "1911.79",
+      "end_time": "1916.79",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261773,
+      "text": "of the TV friends of Lee Reeves. And that's the anonymous.",
+      "start_time": "1916.79",
+      "end_time": "1921.7",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261774,
+      "text": "And now in conclusion seriously it gives me a great",
+      "start_time": "1921.7",
+      "end_time": "1926.53",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261775,
+      "text": "deal of pleasure to have this opportunity to have a small part on this program today the thing that we're",
+      "start_time": "1926.53",
+      "end_time": "1931.46",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261776,
+      "text": "honoring here today.",
+      "start_time": "1931.46",
+      "end_time": "1933.67",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261777,
+      "text": "And Dorce and I'm pleased to be a part of it.",
+      "start_time": "1933.67",
+      "end_time": "1936.77",
+      "speaker_id": 977790
+    },
+    {
+      "id": 25261778,
+      "text": "Now at least you're able staff and",
+      "start_time": "1937.64",
+      "end_time": "1941.84",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261779,
+      "text": "assistants gave me what they called a biography.",
+      "start_time": "1941.84",
+      "end_time": "1947.22",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261780,
+      "text": "It was so well done I believe it would qualify actually as a patah",
+      "start_time": "1947.22",
+      "end_time": "1951.82",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261781,
+      "text": "Jeric whatever that is. In fact if it were",
+      "start_time": "1951.82",
+      "end_time": "1956.72",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261782,
+      "text": "put to song it would be a peon.",
+      "start_time": "1956.72",
+      "end_time": "1960.36",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261783,
+      "text": "But Mr. Minister this is no reflection on the excellent remarks that you",
+      "start_time": "1960.36",
+      "end_time": "1965.32",
+      "speaker_id": 977791
+    },
+    {
+      "id": 25261784,
+      "text": "brought us today and I'm not even sure what it means but it seems to say what I want to do right now and I",
+      "start_time": "1965.32",
+      "end_time": "1970.32",
+      "speaker_id": 977791
+    },
+    {
+      "id": 25261785,
+      "text": "heard a speaker say this once that he wanted to say a few words before he",
+      "start_time": "1970.32",
+      "end_time": "1975.31",
+      "speaker_id": 977791
+    },
+    {
+      "id": 25261786,
+      "text": "spoke.",
+      "start_time": "1975.31",
+      "end_time": "1976.37",
+      "speaker_id": 977791
+    },
+    {
+      "id": 25261787,
+      "text": "Now you know at first blush you'll accept it when you think about it. That has a",
+      "start_time": "1976.37",
+      "end_time": "1980.55",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261788,
+      "text": "little bit deeper meaning but anyway whatever it means. They gave",
+      "start_time": "1980.55",
+      "end_time": "1985.35",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261789,
+      "text": "me the Braga Dave saying what I wanted to do but did suggest that I",
+      "start_time": "1985.35",
+      "end_time": "1990.29",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261790,
+      "text": "use what they gave me and I'm sure that would be better but as price suggested before we went",
+      "start_time": "1990.29",
+      "end_time": "1995.28",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261791,
+      "text": "on here he didn't know what we were going to do.",
+      "start_time": "1995.28",
+      "end_time": "1997.03",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261792,
+      "text": "We got up so I'm going to I'm going to exercise that Prokofiev.",
+      "start_time": "1997.03",
+      "end_time": "2001.32",
+      "speaker_id": 977791
+    },
+    {
+      "id": 25261793,
+      "text": "Besides that it's very very rare that a mayor state",
+      "start_time": "2001.32",
+      "end_time": "2005.92",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261794,
+      "text": "senator gets to speak to a United States senator where he",
+      "start_time": "2005.92",
+      "end_time": "2010.74",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261795,
+      "text": "has to listen respectfully for a few minutes so I won't take advantage of it.",
+      "start_time": "2010.74",
+      "end_time": "2014.93",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261796,
+      "text": "And Les just let me speak from my",
+      "start_time": "2015.88",
+      "end_time": "2020.82",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261797,
+      "text": "heart rather than notes if I may for a few minutes",
+      "start_time": "2020.82",
+      "end_time": "2024.57",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261798,
+      "text": "and hope that I won't get maudlin or emotional because Lee",
+      "start_time": "2024.57",
+      "end_time": "2029.5",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261799,
+      "text": "Reeves is a mortal man and he's flesh and blood.",
+      "start_time": "2029.5",
+      "end_time": "2034.81",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261800,
+      "text": "He has a personality that attracts you to him.",
+      "start_time": "2034.81",
+      "end_time": "2039.77",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261801,
+      "text": "And what's attracted to him.",
+      "start_time": "2039.77",
+      "end_time": "2042.76",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261802,
+      "text": "You feel a candid spirit with you.",
+      "start_time": "2042.76",
+      "end_time": "2047.37",
+      "speaker_id": 977792
+    },
+    {
+      "id": 25261803,
+      "text": "And I think that's why Lee Reeves has been able to accomplish with the TV",
+      "start_time": "2047.37",
+      "end_time": "2052.12",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261804,
+      "text": "what he has through the years. Now I make",
+      "start_time": "2052.12",
+      "end_time": "2057.04",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261805,
+      "text": "no apologies for stories I may or may not tale can certainly raise but I",
+      "start_time": "2057.04",
+      "end_time": "2061.79",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261806,
+      "text": "just can't think. Senator Pryor all talking about",
+      "start_time": "2061.79",
+      "end_time": "2065.48",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261807,
+      "text": "Lee Reeves from a particularly governmental and state",
+      "start_time": "2065.48",
+      "end_time": "2070.11",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261808,
+      "text": "government standpoint without interjecting a story.",
+      "start_time": "2070.11",
+      "end_time": "2074.1",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261809,
+      "text": "So I think of want to immediately that",
+      "start_time": "2075.0",
+      "end_time": "2078.49",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261810,
+      "text": "is 180 degrees out from what we're doing here today but using",
+      "start_time": "2078.49",
+      "end_time": "2083.32",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261811,
+      "text": "it as an irony I'd like to relate the story to you about this",
+      "start_time": "2083.32",
+      "end_time": "2088.08",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261812,
+      "text": "lady that I met a gentleman on Saturday evening they",
+      "start_time": "2088.08",
+      "end_time": "2092.99",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261813,
+      "text": "spent the evening together got married later that same evening",
+      "start_time": "2092.99",
+      "end_time": "2096.7",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261814,
+      "text": "had their honeymoon and on Monday morning she was in the divorce",
+      "start_time": "2096.7",
+      "end_time": "2101.55",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261815,
+      "text": "court before the judge. Playing for a divorce and the",
+      "start_time": "2101.55",
+      "end_time": "2106.26",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261816,
+      "text": "judge says ah can't this be on me so I can understand if I have the facts right you",
+      "start_time": "2106.26",
+      "end_time": "2111.09",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261817,
+      "text": "met this this your husband on Saturday evening you married",
+      "start_time": "2111.09",
+      "end_time": "2115.86",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261818,
+      "text": "later that evening you've just come off your honeymoon it's Monday and you want a divorce.",
+      "start_time": "2115.86",
+      "end_time": "2121.56",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261819,
+      "text": "She says yes the judge asked Ryan about the quickest way I know to splain that",
+      "start_time": "2121.56",
+      "end_time": "2125.77",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261820,
+      "text": "is that he was the most over introduced man I ever met.",
+      "start_time": "2125.77",
+      "end_time": "2131.91",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261821,
+      "text": "Now I'm going to have to confess to you that in my capacity as a",
+      "start_time": "2131.91",
+      "end_time": "2136.68",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261822,
+      "text": "public official I do sometimes have to not story but I have to",
+      "start_time": "2136.68",
+      "end_time": "2141.13",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261823,
+      "text": "embellish the truth a little bit to give the kind of introduction to a person that that he wants",
+      "start_time": "2141.13",
+      "end_time": "2146.11",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261824,
+      "text": "to hear and I want to give or maybe write a letter of recommendation for a job some of that",
+      "start_time": "2146.11",
+      "end_time": "2151.01",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261825,
+      "text": "nature. But I will not regardless of what I might say today I will not be able",
+      "start_time": "2151.01",
+      "end_time": "2155.99",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261826,
+      "text": "to over introducer over a grand",
+      "start_time": "2155.99",
+      "end_time": "2158.45",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261827,
+      "text": "today.",
+      "start_time": "2158.45",
+      "end_time": "2161.64",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261828,
+      "text": "And the fact Linda he",
+      "start_time": "2163.37",
+      "end_time": "2168.04",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261829,
+      "text": "reminds me of another story and you know hey I can do this in all good conscience because Lee Reeves",
+      "start_time": "2168.04",
+      "end_time": "2172.91",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261830,
+      "text": "is a master storyteller. Those of you that have known him at all you know laugh.",
+      "start_time": "2172.91",
+      "end_time": "2176.72",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261831,
+      "text": "And he is somewhat like the husband of the wife that",
+      "start_time": "2176.72",
+      "end_time": "2181.11",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261832,
+      "text": "limited you never tell me you love me anymore. And he said",
+      "start_time": "2181.11",
+      "end_time": "2185.97",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261833,
+      "text": "look I told you that a lot of you when we got married if anything changes I'll let you know.",
+      "start_time": "2185.97",
+      "end_time": "2190.94",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261834,
+      "text": "Well those all of us in the audience would have had to run for office know the you know",
+      "start_time": "2190.94",
+      "end_time": "2195.65",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261835,
+      "text": "the feeling and camaraderie that we have with a man that doesn't have",
+      "start_time": "2195.65",
+      "end_time": "2200.64",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261836,
+      "text": "to keep proving to you that he's where he said he was and that's the kind of man that Lee Reeves is when",
+      "start_time": "2200.64",
+      "end_time": "2205.55",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261837,
+      "text": "he tells you something. That's the way it's got to be. In other words he's dependable",
+      "start_time": "2205.55",
+      "end_time": "2209.68",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261838,
+      "text": "if he tells you he's for you you don't have to go back the next day and say leave your still",
+      "start_time": "2209.68",
+      "end_time": "2214.46",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261839,
+      "text": "for make his pitch changes he'll tell you. And I appreciate that about him.",
+      "start_time": "2214.46",
+      "end_time": "2219.04",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261840,
+      "text": "Well I'm going to move on and not take up more time than I've been",
+      "start_time": "2219.04",
+      "end_time": "2223.79",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261841,
+      "text": "given. But I think that perhaps in",
+      "start_time": "2223.79",
+      "end_time": "2228.79",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261842,
+      "text": "a concrete way even more than the brick and mortar",
+      "start_time": "2228.79",
+      "end_time": "2232.66",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261843,
+      "text": "that we dedicate here today",
+      "start_time": "2232.66",
+      "end_time": "2236.17",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261844,
+      "text": "as a tribute to lead is",
+      "start_time": "2236.17",
+      "end_time": "2241.06",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261845,
+      "text": "the stat that Lee has compiled is put together.",
+      "start_time": "2241.06",
+      "end_time": "2245.77",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261846,
+      "text": "That runs our educational television programs.",
+      "start_time": "2247.06",
+      "end_time": "2252.56",
+      "speaker_id": 977793
+    },
+    {
+      "id": 25261847,
+      "text": "You know we hear today so much on TV. Take it when we're listening",
+      "start_time": "2252.56",
+      "end_time": "2257.52",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261848,
+      "text": "to coaches sports commentators about skill positions on the",
+      "start_time": "2257.52",
+      "end_time": "2262.01",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261849,
+      "text": "team. Well every position on this team that",
+      "start_time": "2262.01",
+      "end_time": "2266.68",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261850,
+      "text": "operates educational television as far as I'm concerned is a skill position and",
+      "start_time": "2266.68",
+      "end_time": "2271.59",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261851,
+      "text": "I've been privileged to watch them. And this requires quite an",
+      "start_time": "2271.59",
+      "end_time": "2276.41",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261852,
+      "text": "ability to attract some times",
+      "start_time": "2276.41",
+      "end_time": "2279.63",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261853,
+      "text": "with salaries that are not quite up to market standards the type of",
+      "start_time": "2279.63",
+      "end_time": "2284.59",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261854,
+      "text": "people that do the quality job that's done here in Arkansas educational",
+      "start_time": "2284.59",
+      "end_time": "2289.45",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261855,
+      "text": "television and those knobby in the audience can take a bow on that point too",
+      "start_time": "2289.45",
+      "end_time": "2294.21",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261856,
+      "text": "because truly numerous contacts and",
+      "start_time": "2294.21",
+      "end_time": "2298.71",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261857,
+      "text": "friends all over the state. He has enlisted your support and",
+      "start_time": "2298.71",
+      "end_time": "2303.63",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261858,
+      "text": "you have come forward and offered in a grand way.",
+      "start_time": "2303.63",
+      "end_time": "2306.2",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261859,
+      "text": "And helped keep the programming up to the quality",
+      "start_time": "2307.19",
+      "end_time": "2311.89",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261860,
+      "text": "that it is.",
+      "start_time": "2311.89",
+      "end_time": "2313.53",
+      "speaker_id": 977789
+    },
+    {
+      "id": 25261861,
+      "text": "Plus the fact Lee has the ability to do Mr.",
+      "start_time": "2313.53",
+      "end_time": "2318.27",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261862,
+      "text": "fester as much or more with a public dollar than any",
+      "start_time": "2318.27",
+      "end_time": "2322.24",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261863,
+      "text": "public official that I know and believe you me as a person that",
+      "start_time": "2322.24",
+      "end_time": "2327.03",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261864,
+      "text": "has to do with the appropriation of state revenues. I know that here again when Lee",
+      "start_time": "2327.03",
+      "end_time": "2331.78",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261865,
+      "text": "comes to us and tells us he needs 50000 supplemental appropriation or his initial",
+      "start_time": "2331.78",
+      "end_time": "2336.37",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261866,
+      "text": "appropriation we know that he needs it.",
+      "start_time": "2336.37",
+      "end_time": "2338.65",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261867,
+      "text": "We don't have to check when",
+      "start_time": "2338.65",
+      "end_time": "2343.54",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261868,
+      "text": "to the everlasting credit of the initial",
+      "start_time": "2343.54",
+      "end_time": "2346.94",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261869,
+      "text": "Education Television Commission and",
+      "start_time": "2346.94",
+      "end_time": "2351.66",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261870,
+      "text": "Governor Faubus who is then governor of the state of Arkansas.",
+      "start_time": "2351.66",
+      "end_time": "2354.71",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261871,
+      "text": "They found an Arkansan",
+      "start_time": "2356.09",
+      "end_time": "2359.25",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261872,
+      "text": "with a repertoire of skills and abilities",
+      "start_time": "2359.25",
+      "end_time": "2364.11",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261873,
+      "text": "to put this package together as a set of men to go attract",
+      "start_time": "2364.11",
+      "end_time": "2369.08",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261874,
+      "text": "the people necessary to operate it and then build upon it as he's done over the",
+      "start_time": "2369.08",
+      "end_time": "2373.53",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261875,
+      "text": "years and it's a rare individual that has all of those",
+      "start_time": "2373.53",
+      "end_time": "2378.49",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261876,
+      "text": "scales and those abilities particularly in a state where we had no",
+      "start_time": "2378.49",
+      "end_time": "2382.99",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261877,
+      "text": "past experience to draw",
+      "start_time": "2382.99",
+      "end_time": "2387.83",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261878,
+      "text": "from or no past skills to draw from in this particular type of operation.",
+      "start_time": "2387.83",
+      "end_time": "2393.71",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261879,
+      "text": "But they found it and as I said it's to their everlasting credit and yours",
+      "start_time": "2393.71",
+      "end_time": "2398.54",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261880,
+      "text": "governor that they found Lee Reeves at that time",
+      "start_time": "2398.54",
+      "end_time": "2403.54",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261881,
+      "text": "he was a college vice president.",
+      "start_time": "2403.54",
+      "end_time": "2405.46",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261882,
+      "text": "He was a former state senator. Educate or",
+      "start_time": "2407.14",
+      "end_time": "2412.09",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261883,
+      "text": "administrator and broadcaster. And on July 1st",
+      "start_time": "2412.09",
+      "end_time": "2415.93",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261884,
+      "text": "1963 he happened to become the director",
+      "start_time": "2415.93",
+      "end_time": "2419.59",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261885,
+      "text": "of educational television network.",
+      "start_time": "2419.59",
+      "end_time": "2423.17",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261886,
+      "text": "The position that he holds today he is a Navy evolve. Bradley",
+      "start_time": "2423.17",
+      "end_time": "2428.04",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261887,
+      "text": "County Governor Purcell knows that. And here",
+      "start_time": "2428.04",
+      "end_time": "2432.89",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261888,
+      "text": "again with all the stories he tells I don't know how they have time to pick tomatoes in Bradley County if",
+      "start_time": "2432.89",
+      "end_time": "2437.54",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261889,
+      "text": "you kind of get the idea that sometimes all it is sit around and tell stories.",
+      "start_time": "2437.54",
+      "end_time": "2443.76",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261890,
+      "text": "But he was born in Moore and where he graduated from high school he later received an AB degree from",
+      "start_time": "2443.76",
+      "end_time": "2448.61",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261891,
+      "text": "any college modest. Now of course the University of Arkansas at",
+      "start_time": "2448.61",
+      "end_time": "2453.07",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261892,
+      "text": "Monticello and he was serving as vice pres of that institution at the time and",
+      "start_time": "2453.07",
+      "end_time": "2458.02",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261893,
+      "text": "he was tapped to become director of the TV. He later",
+      "start_time": "2458.02",
+      "end_time": "2462.91",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261894,
+      "text": "got an MIT degree the University of Arkansas Law graduate school fan. And in recent",
+      "start_time": "2462.91",
+      "end_time": "2467.65",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261895,
+      "text": "years received an honorary operated Greek Empire college",
+      "start_time": "2467.65",
+      "end_time": "2472.57",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261896,
+      "text": "least career as educator began with his appointment to the faculty of the",
+      "start_time": "2472.57",
+      "end_time": "2477.28",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261897,
+      "text": "Arkansas school for the blind. Later he served as supernovae schools at",
+      "start_time": "2477.28",
+      "end_time": "2482.24",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261898,
+      "text": "Hermitage Arkansas.",
+      "start_time": "2482.24",
+      "end_time": "2483.48",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261899,
+      "text": "And during that time in that school system he",
+      "start_time": "2484.75",
+      "end_time": "2489.07",
+      "speaker_id": 977797
+    },
+    {
+      "id": 25261900,
+      "text": "became one of the largest and most academically progressive school",
+      "start_time": "2489.07",
+      "end_time": "2493.82",
+      "speaker_id": 977797
+    },
+    {
+      "id": 25261901,
+      "text": "districts in the state. Also in his role as educator he served on the",
+      "start_time": "2493.82",
+      "end_time": "2498.44",
+      "speaker_id": 977797
+    },
+    {
+      "id": 25261902,
+      "text": "Warren and Bradley County Board of Education.",
+      "start_time": "2498.44",
+      "end_time": "2502.62",
+      "speaker_id": 977797
+    },
+    {
+      "id": 25261903,
+      "text": "He is a charter member of the board of directors of the board of the Southern educational communication",
+      "start_time": "2502.62",
+      "end_time": "2507.38",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261904,
+      "text": "Association and has served as its chairman and secretary treasurer.",
+      "start_time": "2507.38",
+      "end_time": "2512.62",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261905,
+      "text": "He has been profiled for the past several years in who's who for the South",
+      "start_time": "2512.62",
+      "end_time": "2517.44",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261906,
+      "text": "and Southwest because of his outstanding service to the region.",
+      "start_time": "2517.44",
+      "end_time": "2522.97",
+      "speaker_id": 977796
+    },
+    {
+      "id": 25261907,
+      "text": "And nationally Lee has served as chairman of the state legislative committee",
+      "start_time": "2522.97",
+      "end_time": "2527.65",
+      "speaker_id": 977797
+    },
+    {
+      "id": 25261908,
+      "text": "and about this land.",
+      "start_time": "2527.65",
+      "end_time": "2532.6",
+      "speaker_id": 977797
+    },
+    {
+      "id": 25261909,
+      "text": "You must be feeling somewhat like the bereaved at her",
+      "start_time": "2532.6",
+      "end_time": "2537.55",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261910,
+      "text": "husband's funeral where the minister had gotten carried away with the eulogy and just",
+      "start_time": "2537.55",
+      "end_time": "2542.52",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261911,
+      "text": "really did lay it on. And he just kept on a little bit she",
+      "start_time": "2542.52",
+      "end_time": "2547.31",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261912,
+      "text": "pushed her son sitting next to her and said son right up there and looking at box to see if that's your daddy.",
+      "start_time": "2547.31",
+      "end_time": "2551.59",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261913,
+      "text": "But please God I'm going to wind up Fairlie's governmentally",
+      "start_time": "2553.25",
+      "end_time": "2557.96",
+      "speaker_id": 977798
+    },
+    {
+      "id": 25261914,
+      "text": "experience in a span more than a quarter century of service in the state legislature. He served",
+      "start_time": "2557.96",
+      "end_time": "2562.88",
+      "speaker_id": 977798
+    },
+    {
+      "id": 25261915,
+      "text": "for 16 years as a state senator and then following that he has",
+      "start_time": "2562.88",
+      "end_time": "2567.37",
+      "speaker_id": 977798
+    },
+    {
+      "id": 25261916,
+      "text": "served and this is without additional compensation he has served free gratis in the Senate.",
+      "start_time": "2567.37",
+      "end_time": "2572.06",
+      "speaker_id": 977798
+    },
+    {
+      "id": 25261917,
+      "text": "As our secretary and parliamentarian which gets to be a pretty hot seat",
+      "start_time": "2572.06",
+      "end_time": "2576.62",
+      "speaker_id": 977798
+    },
+    {
+      "id": 25261918,
+      "text": "sometimes done it wants them.",
+      "start_time": "2576.62",
+      "end_time": "2579.24",
+      "speaker_id": 977798
+    },
+    {
+      "id": 25261919,
+      "text": "And he's done it he's done it you know gracious manner. And he's also",
+      "start_time": "2579.24",
+      "end_time": "2584.02",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261920,
+      "text": "held several important local civic positions. And I won't even list all of those.",
+      "start_time": "2584.02",
+      "end_time": "2589.61",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261921,
+      "text": "But in 1951 Lee opened the Bradley County Memorial",
+      "start_time": "2589.61",
+      "end_time": "2594.44",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261922,
+      "text": "Hospital. So you see that this is not the first time he had been called on to be a",
+      "start_time": "2594.44",
+      "end_time": "2598.91",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261923,
+      "text": "starter and a continuer of a program. And he also built around that",
+      "start_time": "2598.91",
+      "end_time": "2603.88",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261924,
+      "text": "time and operated radio station at Warren. Now a",
+      "start_time": "2603.88",
+      "end_time": "2608.78",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261925,
+      "text": "man that has done made all these accomplishments and done all these things has to have",
+      "start_time": "2608.78",
+      "end_time": "2613.68",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261926,
+      "text": "some buy some power behind the throne.",
+      "start_time": "2613.68",
+      "end_time": "2617.96",
+      "speaker_id": 977794
+    },
+    {
+      "id": 25261927,
+      "text": "And that happens to be his lovely wife Glenda. And she's here today and we're proud of her",
+      "start_time": "2617.96",
+      "end_time": "2622.9",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261928,
+      "text": "and we thank you for the support that you and your family have given as",
+      "start_time": "2622.9",
+      "end_time": "2627.75",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261929,
+      "text": "unable to devote and contributes so much to the betterment",
+      "start_time": "2627.75",
+      "end_time": "2632.74",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261930,
+      "text": "of the state of Arkansas. Thank you very much.",
+      "start_time": "2632.74",
+      "end_time": "2635.4",
+      "speaker_id": 977795
+    },
+    {
+      "id": 25261931,
+      "text": "Thank you Senator",
+      "start_time": "2639.46",
+      "end_time": "2644.44",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25261932,
+      "text": "Russ.",
+      "start_time": "2644.44",
+      "end_time": "2645.82",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25261933,
+      "text": "It's never been any secret to me why I have never run for any political office.",
+      "start_time": "2645.82",
+      "end_time": "2651.08",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261934,
+      "text": "Greater than justice of peace of Plaskett County which I might add I",
+      "start_time": "2651.08",
+      "end_time": "2655.95",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261935,
+      "text": "won without opposition only because there were four hundred eighty five positions",
+      "start_time": "2655.95",
+      "end_time": "2660.59",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261936,
+      "text": "available at the time.",
+      "start_time": "2660.59",
+      "end_time": "2663.46",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261937,
+      "text": "It is a pleasure for me to recognize a number of special guests that we",
+      "start_time": "2663.46",
+      "end_time": "2668.34",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261938,
+      "text": "have today. Before we leave.",
+      "start_time": "2668.34",
+      "end_time": "2673.54",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261939,
+      "text": "Have a few words let us recognize some other people who have been important to him through his",
+      "start_time": "2673.54",
+      "end_time": "2678.24",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261940,
+      "text": "life. I'd like to alert our floor crew that I would like to ask",
+      "start_time": "2678.24",
+      "end_time": "2683.16",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261941,
+      "text": "some of our distinguished guests in the audience to stand up a minute and be recognized.",
+      "start_time": "2683.16",
+      "end_time": "2688.77",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261942,
+      "text": "And if there is a camera which is going to pick these people up then they'll have to be very alert and we",
+      "start_time": "2688.77",
+      "end_time": "2693.75",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261943,
+      "text": "need to bring the lights up. And I hope somebody is in the booth that is awake and",
+      "start_time": "2693.75",
+      "end_time": "2698.7",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261944,
+      "text": "is listening to me and will be in a position to respond.",
+      "start_time": "2698.7",
+      "end_time": "2703.07",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261945,
+      "text": "I want to recognize the",
+      "start_time": "2704.48",
+      "end_time": "2708.65",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261946,
+      "text": "presence of a number of public officials who've previously been",
+      "start_time": "2708.65",
+      "end_time": "2713.46",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261947,
+      "text": "mentioned or recognized and I suspect have been around to shake hands with a few of you while we were",
+      "start_time": "2713.46",
+      "end_time": "2718.28",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261948,
+      "text": "getting ready to start. First my good friend",
+      "start_time": "2718.28",
+      "end_time": "2723.08",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261949,
+      "text": "and benefactor are I suppose in that he appointed me to a position on this commission",
+      "start_time": "2723.08",
+      "end_time": "2728.07",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261950,
+      "text": "Senator David Pryor.",
+      "start_time": "2728.07",
+      "end_time": "2730.42",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261951,
+      "text": "Senator Pryor please stand up for me.",
+      "start_time": "2730.42",
+      "end_time": "2736.0",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25261952,
+      "text": "We have a number of",
+      "start_time": "2736.0",
+      "end_time": "2740.22",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261953,
+      "text": "people here who have served in various capacities.",
+      "start_time": "2740.22",
+      "end_time": "2745.17",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261954,
+      "text": "With Levy in his years as secretary of the Senate and of course",
+      "start_time": "2745.17",
+      "end_time": "2750.12",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261955,
+      "text": "one of the functions which he has performed in that position is to be of",
+      "start_time": "2750.12",
+      "end_time": "2754.63",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261956,
+      "text": "assistance to the persons who have served as providing officers of the Senate.",
+      "start_time": "2754.63",
+      "end_time": "2759.41",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261957,
+      "text": "Currently the lieutenant governor of the state and presiding officer of the Senate. To Lieutenant",
+      "start_time": "2759.41",
+      "end_time": "2764.26",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261958,
+      "text": "Governor Weston Bryant A.",
+      "start_time": "2764.26",
+      "end_time": "2766.63",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261959,
+      "text": "And former",
+      "start_time": "2769.44",
+      "end_time": "2773.76",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261960,
+      "text": "lieutenant governor Joe Purcell.",
+      "start_time": "2773.76",
+      "end_time": "2776.97",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261961,
+      "text": "I'm",
+      "start_time": "2776.97",
+      "end_time": "2781.64",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261962,
+      "text": "only mentioning the last offices held by each of these people since they have other offices and",
+      "start_time": "2781.64",
+      "end_time": "2786.58",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261963,
+      "text": "indeed may be candidates again but where where we're not",
+      "start_time": "2786.58",
+      "end_time": "2791.39",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261964,
+      "text": "endorsing anybody for anything at the moment unless of course intend to announce something at the end of the",
+      "start_time": "2791.39",
+      "end_time": "2796.1",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261965,
+      "text": "meeting here.",
+      "start_time": "2796.1",
+      "end_time": "2797.3",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25261966,
+      "text": "But also we're honored today by the presence of",
+      "start_time": "2797.3",
+      "end_time": "2802.15",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261967,
+      "text": "friends from educational television stations in adjoining",
+      "start_time": "2802.15",
+      "end_time": "2807.13",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261968,
+      "text": "states. I would like to recognize Mr. Lee Maris the director of",
+      "start_time": "2807.13",
+      "end_time": "2811.85",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261969,
+      "text": "educational television in Mississippi.",
+      "start_time": "2811.85",
+      "end_time": "2815.29",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261970,
+      "text": "Oh. And to",
+      "start_time": "2815.29",
+      "end_time": "2820.27",
+      "speaker_id": 977787
+    },
+    {
+      "id": 25261971,
+      "text": "Mr..",
+      "start_time": "2820.27",
+      "end_time": "2821.18",
+      "speaker_id": 977787
+    },
+    {
+      "id": 25261972,
+      "text": "And to the general manager of the Memphis facility Mr. Howard host.",
+      "start_time": "2821.18",
+      "end_time": "2826.21",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261973,
+      "text": "It",
+      "start_time": "2826.21",
+      "end_time": "2831.71",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261974,
+      "text": "was my gracious host at a dinner in Cincinnati at the meeting of the PBS",
+      "start_time": "2831.71",
+      "end_time": "2836.69",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261975,
+      "text": "back in the fall and lighted to have him here with us.",
+      "start_time": "2836.69",
+      "end_time": "2842.16",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261976,
+      "text": "I also want to recognize our",
+      "start_time": "2842.16",
+      "end_time": "2845.4",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261977,
+      "text": "supervisor because of the particular structure of the",
+      "start_time": "2845.4",
+      "end_time": "2850.17",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261978,
+      "text": "state government. He has the wisdom to administer his",
+      "start_time": "2850.17",
+      "end_time": "2854.78",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261979,
+      "text": "department and leave us to administer our department. But we are very much",
+      "start_time": "2854.78",
+      "end_time": "2859.52",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261980,
+      "text": "cognizant of this support and",
+      "start_time": "2859.52",
+      "end_time": "2863.67",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261981,
+      "text": "assistance which we have received from the State Department of Education and Dr. John Roberts",
+      "start_time": "2863.67",
+      "end_time": "2868.64",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261982,
+      "text": "is here with us Commissioner of Education.",
+      "start_time": "2868.64",
+      "end_time": "2871.82",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261983,
+      "text": "I want to recognize",
+      "start_time": "2874.3",
+      "end_time": "2879.25",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261984,
+      "text": "two other people who have been important to us in constructing this facility",
+      "start_time": "2879.25",
+      "end_time": "2884.17",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261985,
+      "text": "and making it available. First of all from the",
+      "start_time": "2884.17",
+      "end_time": "2889.05",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261986,
+      "text": "architectural firm of Anderson Baker and MARTIN Mr. Joe Baker who was our principal architect.",
+      "start_time": "2889.05",
+      "end_time": "2895.36",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261987,
+      "text": "And the president of",
+      "start_time": "2895.36",
+      "end_time": "2900.34",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261988,
+      "text": "con Ark builders the contractor for the construction Mr. Bob Tyler.",
+      "start_time": "2900.34",
+      "end_time": "2906.49",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261989,
+      "text": "If he is here he may be checking the bricks are looking at the roof.",
+      "start_time": "2906.49",
+      "end_time": "2912.19",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261990,
+      "text": "One of the standing jokes that we have on the commission is one coach goes back long before I",
+      "start_time": "2912.19",
+      "end_time": "2917.01",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261991,
+      "text": "became a member. It seems that we had in this facility",
+      "start_time": "2917.01",
+      "end_time": "2921.82",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261992,
+      "text": "Dr. Smith is the primary responsible party for this he reports on it at",
+      "start_time": "2921.82",
+      "end_time": "2926.64",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261993,
+      "text": "every commission meeting. We had a leaky rough. I say Miss Hammond",
+      "start_time": "2926.64",
+      "end_time": "2931.4",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261994,
+      "text": "smiling about that. And that is a standing order of business on our agenda is that we",
+      "start_time": "2931.4",
+      "end_time": "2936.35",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261995,
+      "text": "always get a report on the roof. I'm pleased to say that our present contractor and",
+      "start_time": "2936.35",
+      "end_time": "2940.98",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261996,
+      "text": "architect have that sort of thing under control. And Senator Russ we'll only",
+      "start_time": "2940.98",
+      "end_time": "2945.88",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261997,
+      "text": "be back for about $150000 to help with a rough next year.",
+      "start_time": "2945.88",
+      "end_time": "2950.84",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261998,
+      "text": "We have come now to a part of the program which.",
+      "start_time": "2951.83",
+      "end_time": "2956.49",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25261999,
+      "text": "Is of extreme personal privilege to me.",
+      "start_time": "2956.49",
+      "end_time": "2961.35",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262000,
+      "text": "I have served or will soon serve the general of allotted two years of",
+      "start_time": "2961.35",
+      "end_time": "2966.35",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262001,
+      "text": "chairmanship of this commission and it has been an",
+      "start_time": "2966.35",
+      "end_time": "2971.3",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262002,
+      "text": "extreme pleasure in so many ways that in the remaining 20 minutes",
+      "start_time": "2971.3",
+      "end_time": "2976.29",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262003,
+      "text": "or so that we have available for our programs but I can't tell you of all of them",
+      "start_time": "2976.29",
+      "end_time": "2981.09",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262004,
+      "text": "but working with starting from a position of not",
+      "start_time": "2981.09",
+      "end_time": "2985.9",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262005,
+      "text": "knowing too much about what educational television was about but anticipating somewhat the",
+      "start_time": "2985.9",
+      "end_time": "2990.81",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262006,
+      "text": "opportunities which it presented and indeed the challenges presented. I",
+      "start_time": "2990.81",
+      "end_time": "2995.7",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262007,
+      "text": "was pleased to be appointed to this commission and serve on it and work with",
+      "start_time": "2995.7",
+      "end_time": "2999.42",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262008,
+      "text": "Senator Russ alluded to the fact that he is a most responsive and",
+      "start_time": "2999.42",
+      "end_time": "3004.05",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262009,
+      "text": "responsible public servant. When we decided",
+      "start_time": "3004.05",
+      "end_time": "3008.89",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262010,
+      "text": "to dedicate the facility today to Lee and selected the title",
+      "start_time": "3008.89",
+      "end_time": "3013.87",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262011,
+      "text": "for it we had some concern because we know Lee's concerned",
+      "start_time": "3013.87",
+      "end_time": "3018.78",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262012,
+      "text": "with the expenditure of public monies. We selected a",
+      "start_time": "3018.78",
+      "end_time": "3023.0",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262013,
+      "text": "title which has several words in it among which are",
+      "start_time": "3023.0",
+      "end_time": "3027.23",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262014,
+      "text": "educational and telecommunications all of which are fairly long and when you start",
+      "start_time": "3027.23",
+      "end_time": "3032.17",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262015,
+      "text": "buying cast bronze or aluminum letters or so forth we",
+      "start_time": "3032.17",
+      "end_time": "3036.32",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262016,
+      "text": "recognize that getting Lee to agree to spend the money to put a",
+      "start_time": "3036.32",
+      "end_time": "3040.94",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262017,
+      "text": "sign on the building as he had been directed to by the commission may be a problem.",
+      "start_time": "3040.94",
+      "end_time": "3046.34",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262018,
+      "text": "Well temporarily only we have alleviated that problem by",
+      "start_time": "3046.34",
+      "end_time": "3050.74",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262019,
+      "text": "preparing a plaque which I want to present to Lee and I want his solemn",
+      "start_time": "3050.74",
+      "end_time": "3055.31",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262020,
+      "text": "assurance that it will be displayed publicly in a prominent place until we",
+      "start_time": "3055.31",
+      "end_time": "3060.26",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262021,
+      "text": "can get together and decide where we can get the money to do it in a more permanent and",
+      "start_time": "3060.26",
+      "end_time": "3065.04",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262022,
+      "text": "publicly recognizable way.",
+      "start_time": "3065.04",
+      "end_time": "3067.06",
+      "speaker_id": 977788
+    },
+    {
+      "id": 25262023,
+      "text": "Lee would you please step up here please.",
+      "start_time": "3067.06",
+      "end_time": "3070.94",
+      "speaker_id": 977787
+    },
+    {
+      "id": 25262024,
+      "text": "Again reminding you that this is only",
+      "start_time": "3074.47",
+      "end_time": "3079.36",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25262025,
+      "text": "temporary.",
+      "start_time": "3079.36",
+      "end_time": "3080.09",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25262026,
+      "text": "You are charged by the commission along with the architect and contractor putting in a",
+      "start_time": "3080.09",
+      "end_time": "3084.98",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25262027,
+      "text": "much more permanent and recognizable position. I'm pleased to present you",
+      "start_time": "3084.98",
+      "end_time": "3089.77",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25262028,
+      "text": "with the initial dedicatory plaque for the Center for",
+      "start_time": "3089.77",
+      "end_time": "3094.4",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25262029,
+      "text": "Educational Television educational telecommunications dedicated December",
+      "start_time": "3094.4",
+      "end_time": "3099.13",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25262030,
+      "text": "5 1981 and the podium is yours.",
+      "start_time": "3099.13",
+      "end_time": "3102.84",
+      "speaker_id": 977799
+    },
+    {
+      "id": 25262031,
+      "text": "Thank you.",
+      "start_time": "3102.84",
+      "end_time": "3109.92",
+      "speaker_id": 977787
+    },
+    {
+      "id": 25262032,
+      "text": "I think you fail and should quit mile because I don't think I could ever",
+      "start_time": "3109.92",
+      "end_time": "3114.7",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262033,
+      "text": "live up to trying to contain yours.",
+      "start_time": "3114.7",
+      "end_time": "3118.39",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262034,
+      "text": "Add to that one reason far. I have my belt of over pictures where",
+      "start_time": "3118.39",
+      "end_time": "3123.24",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262035,
+      "text": "you hear an Arkansas car like from go out learn to break bring it back to",
+      "start_time": "3123.24",
+      "end_time": "3128.17",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262036,
+      "text": "Arkansas where they have something to brag about.",
+      "start_time": "3128.17",
+      "end_time": "3130.46",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262037,
+      "text": "I'm on",
+      "start_time": "3134.7",
+      "end_time": "3139.45",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262038,
+      "text": "like I'm on like the young man it was receiving a similar honor one",
+      "start_time": "3139.45",
+      "end_time": "3144.24",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262039,
+      "text": "day and he was scared as I am and he says I",
+      "start_time": "3144.24",
+      "end_time": "3148.89",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262040,
+      "text": "don't appreciate it but I certainly deserve it",
+      "start_time": "3148.89",
+      "end_time": "3151.43",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262041,
+      "text": "back.",
+      "start_time": "3151.43",
+      "end_time": "3157.64",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262042,
+      "text": "There are few people there few people that I would like to",
+      "start_time": "3157.64",
+      "end_time": "3161.53",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262043,
+      "text": "point out that I have made possible some of the",
+      "start_time": "3161.53",
+      "end_time": "3165.92",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262044,
+      "text": "things that we've been able to do.",
+      "start_time": "3165.92",
+      "end_time": "3168.24",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262045,
+      "text": "We have there for people in black and 61",
+      "start_time": "3168.24",
+      "end_time": "3173.08",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262046,
+      "text": "and 63 that set up educational television was Opie how much they've",
+      "start_time": "3173.08",
+      "end_time": "3178.01",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262047,
+      "text": "been here today. Senator Mike Jones Santa mailed Earnhart and",
+      "start_time": "3178.01",
+      "end_time": "3182.58",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262048,
+      "text": "Senator Mike how we want to give them credit.",
+      "start_time": "3182.58",
+      "end_time": "3186.3",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262049,
+      "text": "Back in 1963 when I was first contacted by",
+      "start_time": "3186.3",
+      "end_time": "3190.44",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262050,
+      "text": "a commission to come for an interview",
+      "start_time": "3190.44",
+      "end_time": "3193.49",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262051,
+      "text": "I didn't want a political job.",
+      "start_time": "3193.49",
+      "end_time": "3198.69",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262052,
+      "text": "So I called of then Governor Orval Faubus and ask him how political this job was",
+      "start_time": "3198.69",
+      "end_time": "3203.59",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262053,
+      "text": "and I never will forget it. He probably remembers the call even but",
+      "start_time": "3203.59",
+      "end_time": "3208.58",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262054,
+      "text": "I ask him and he said Well to me it's not any more political than the presence of one of the",
+      "start_time": "3208.58",
+      "end_time": "3213.51",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262055,
+      "text": "groups.",
+      "start_time": "3213.51",
+      "end_time": "3215.05",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262056,
+      "text": "I got interested in the position then.",
+      "start_time": "3215.05",
+      "end_time": "3219.25",
+      "speaker_id": 977800
+    },
+    {
+      "id": 25262057,
+      "text": "Whens excepted we thought",
+      "start_time": "3221.92",
+      "end_time": "3226.79",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262058,
+      "text": "we had money appropriated to begin and 63 we found out that the money was not going to be",
+      "start_time": "3226.79",
+      "end_time": "3231.6",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262059,
+      "text": "available I went to the governor at that time and said now it looks like that we're",
+      "start_time": "3231.6",
+      "end_time": "3236.45",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262060,
+      "text": "going to have to mark time for a couple of years do you want me to get off the state payroll.",
+      "start_time": "3236.45",
+      "end_time": "3241.46",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262061,
+      "text": "And he reminded me that it probably take two years to require to go",
+      "start_time": "3241.46",
+      "end_time": "3246.27",
+      "speaker_id": 977803
+    },
+    {
+      "id": 25262062,
+      "text": "on the air.",
+      "start_time": "3246.27",
+      "end_time": "3248.13",
+      "speaker_id": 977803
+    },
+    {
+      "id": 25262063,
+      "text": "And he would suggest that I get busy and",
+      "start_time": "3248.13",
+      "end_time": "3252.98",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262064,
+      "text": "spend my time getting ready to go on. I think it was probably the best two",
+      "start_time": "3252.98",
+      "end_time": "3257.89",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262065,
+      "text": "years we have ahead Governor because we couldn't have gotten ready much quicker.",
+      "start_time": "3257.89",
+      "end_time": "3263.62",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262066,
+      "text": "And if I would have had in the last it's been from an",
+      "start_time": "3263.62",
+      "end_time": "3267.61",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262067,
+      "text": "understanding family an excellent commission and I",
+      "start_time": "3267.61",
+      "end_time": "3271.94",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262068,
+      "text": "thought out the words of the then governor. He",
+      "start_time": "3271.94",
+      "end_time": "3276.9",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262069,
+      "text": "told me on that occasion that part of the best commission I could fine.",
+      "start_time": "3276.9",
+      "end_time": "3282.8",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262070,
+      "text": "And if you get it's going to be up to you and a commission I will not interfere with the",
+      "start_time": "3282.8",
+      "end_time": "3287.06",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262071,
+      "text": "outstanding employees to put on the payroll that are not capable. And Stanley never did",
+      "start_time": "3287.06",
+      "end_time": "3292.01",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262072,
+      "text": "send any. He said if you fail it's going to be your fault not",
+      "start_time": "3292.01",
+      "end_time": "3296.65",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262073,
+      "text": "mine. That kind of support has",
+      "start_time": "3296.65",
+      "end_time": "3301.58",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262074,
+      "text": "caused us to be able to work with some of the greatest commission and I've worked far",
+      "start_time": "3301.58",
+      "end_time": "3306.53",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262075,
+      "text": "a commission or board ever since I have 21 years old and the people that I've worked",
+      "start_time": "3306.53",
+      "end_time": "3311.32",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262076,
+      "text": "with on Educational Television Commission have been the most outstanding that I have ever",
+      "start_time": "3311.32",
+      "end_time": "3316.23",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262077,
+      "text": "been associated with.",
+      "start_time": "3316.23",
+      "end_time": "3318.12",
+      "speaker_id": 977801
+    },
+    {
+      "id": 25262078,
+      "text": "We had a good commission. We had a great staff. And if they any honor",
+      "start_time": "3318.12",
+      "end_time": "3322.99",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262079,
+      "text": "is due it's Putin my family my commission and my state.",
+      "start_time": "3322.99",
+      "end_time": "3328.0",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262080,
+      "text": "And without taking any more of your time I'd like to present to you at this time",
+      "start_time": "3328.0",
+      "end_time": "3332.24",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262081,
+      "text": "the farmer governor our belief obvious.",
+      "start_time": "3332.24",
+      "end_time": "3336.79",
+      "speaker_id": 977802
+    },
+    {
+      "id": 25262082,
+      "text": "Well",
+      "start_time": "3336.79",
+      "end_time": "3347.25",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25262083,
+      "text": "I'm not scared I'm not getting any award and I've already been beaten",
+      "start_time": "3347.25",
+      "end_time": "3350.69",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25262084,
+      "text": "up.",
+      "start_time": "3350.69",
+      "end_time": "3355.2",
+      "speaker_id": 977781
+    },
+    {
+      "id": 25262085,
+      "text": "Lee Reeves and Mrs. Reeves and your relatives",
+      "start_time": "3364.46",
+      "end_time": "3367.23",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262086,
+      "text": "Senator Pryor are lieutenant governor's bride and",
+      "start_time": "3367.23",
+      "end_time": "3372.23",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262087,
+      "text": "for sale Senator Russ our distinguished visitor from",
+      "start_time": "3372.23",
+      "end_time": "3376.66",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262088,
+      "text": "Washington are the visitors. We're glad to have you. The TV",
+      "start_time": "3376.66",
+      "end_time": "3381.09",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262089,
+      "text": "personnel members of the Board ladies and gentlemen",
+      "start_time": "3381.09",
+      "end_time": "3385.04",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262090,
+      "text": "it's a privilege for me to be here and I appreciate the invitation to be a",
+      "start_time": "3385.04",
+      "end_time": "3389.82",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262091,
+      "text": "part of this program today. But Lee it's",
+      "start_time": "3389.82",
+      "end_time": "3394.55",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262092,
+      "text": "very evident that you have a good record.",
+      "start_time": "3394.55",
+      "end_time": "3399.49",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262093,
+      "text": "Remind me the story of the lady who was keeping a set of records to play on her",
+      "start_time": "3399.49",
+      "end_time": "3403.54",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262094,
+      "text": "stereo and phonograph. She heard of a new record she wanted so",
+      "start_time": "3403.54",
+      "end_time": "3408.51",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262095,
+      "text": "he'd rush to the telephone and dial the number and called in to get this",
+      "start_time": "3408.51",
+      "end_time": "3413.37",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262096,
+      "text": "new record by mistake she got the plumber without waiting for him to identify himself Susie answered",
+      "start_time": "3413.37",
+      "end_time": "3418.16",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262097,
+      "text": "phone she said Do you have eyes a blue and a heart that's true. He said no",
+      "start_time": "3418.16",
+      "end_time": "3423.09",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262098,
+      "text": "lady but I've got a wife and eight kids and she said is that a",
+      "start_time": "3423.09",
+      "end_time": "3427.91",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262099,
+      "text": "record. He said I don't know if it's a record or not but it's way above the average.",
+      "start_time": "3427.91",
+      "end_time": "3433.57",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262100,
+      "text": "But.",
+      "start_time": "3433.57",
+      "end_time": "3435.27",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262101,
+      "text": "My first contact with Lee razor when he was a prominent",
+      "start_time": "3437.87",
+      "end_time": "3442.81",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262102,
+      "text": "state senator in 1956",
+      "start_time": "3442.81",
+      "end_time": "3447.61",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262103,
+      "text": "he announced his retirement from the Senate and that was the year I ran for governor the",
+      "start_time": "3447.61",
+      "end_time": "3452.37",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262104,
+      "text": "first time in 1954 and 1956",
+      "start_time": "3452.37",
+      "end_time": "3457.17",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262105,
+      "text": "Leader Reid was urged by a lot of people to run for governor. He had been running against",
+      "start_time": "3457.17",
+      "end_time": "3462.13",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262106,
+      "text": "me of course time. He declined. And I'm glad he",
+      "start_time": "3462.13",
+      "end_time": "3466.9",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262107,
+      "text": "did because if he had I might have been another one of those one term",
+      "start_time": "3466.9",
+      "end_time": "3471.33",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262108,
+      "text": "fellowship. But in 1957 to",
+      "start_time": "3471.33",
+      "end_time": "3476.28",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262109,
+      "text": "beginning of my second term he became secretary of the state Senate.",
+      "start_time": "3476.28",
+      "end_time": "3481.52",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262110,
+      "text": "And I had a chance to observe him in the months and the years that followed.",
+      "start_time": "3481.52",
+      "end_time": "3486.97",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262111,
+      "text": "And as the months and years went by I became more and more impressed with his sound American",
+      "start_time": "3486.97",
+      "end_time": "3491.94",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262112,
+      "text": "philosophy his practical common sense and his",
+      "start_time": "3491.94",
+      "end_time": "3496.54",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262113,
+      "text": "administrative ability. Also his extensive",
+      "start_time": "3496.54",
+      "end_time": "3501.25",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262114,
+      "text": "knowledge of government gained through academic training as well as",
+      "start_time": "3501.25",
+      "end_time": "3506.03",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262115,
+      "text": "actual experience in that field. Then in seeking to",
+      "start_time": "3506.03",
+      "end_time": "3510.95",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262116,
+      "text": "promote the progress of Arkansas in all fields I became impressed",
+      "start_time": "3510.95",
+      "end_time": "3515.52",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262117,
+      "text": "with the great potential of a network of television for use in our schools",
+      "start_time": "3515.52",
+      "end_time": "3520.52",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262118,
+      "text": "and for education generally with the help of others of like mind.",
+      "start_time": "3520.52",
+      "end_time": "3525.54",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262119,
+      "text": "I began to push for the authorization and funding by the legislature. Such a",
+      "start_time": "3525.54",
+      "end_time": "3530.42",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262120,
+      "text": "system. Far the state we were to begin with one station",
+      "start_time": "3530.42",
+      "end_time": "3535.39",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262121,
+      "text": "and then expanded until the broadcast would reach every school",
+      "start_time": "3535.39",
+      "end_time": "3540.2",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262122,
+      "text": "and every home in every corner of the state.",
+      "start_time": "3540.2",
+      "end_time": "3546.37",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262123,
+      "text": "The beginning was perhaps the most difficult. It was a new untried field",
+      "start_time": "3546.37",
+      "end_time": "3550.55",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262124,
+      "text": "the legislature generally was reluctant because they could look down the",
+      "start_time": "3550.55",
+      "end_time": "3555.4",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262125,
+      "text": "road and see perhaps a great expansion of the costs",
+      "start_time": "3555.4",
+      "end_time": "3559.2",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262126,
+      "text": "that might be incurred. Not only in the establishment of",
+      "start_time": "3559.2",
+      "end_time": "3564.19",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262127,
+      "text": "such a system but in maintaining it. The school forces at the",
+      "start_time": "3564.19",
+      "end_time": "3568.7",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262128,
+      "text": "time both secondary and institutions of higher learning gave us no",
+      "start_time": "3568.7",
+      "end_time": "3573.61",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262129,
+      "text": "help. There was even some opposition because they were looking at it",
+      "start_time": "3573.61",
+      "end_time": "3578.48",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262130,
+      "text": "from their viewpoint that the more money in the field of education that was channeled",
+      "start_time": "3578.48",
+      "end_time": "3583.41",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262131,
+      "text": "into other areas their last there would be far Souray so far.",
+      "start_time": "3583.41",
+      "end_time": "3588.5",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262132,
+      "text": "The teachers in the secondary schools as well as in the institutions of higher learning.",
+      "start_time": "3588.5",
+      "end_time": "3593.52",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262133,
+      "text": "It was a matter of self interest. Our",
+      "start_time": "3593.52",
+      "end_time": "3597.96",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262134,
+      "text": "education commissioner time arch Ford always a very practical",
+      "start_time": "3597.96",
+      "end_time": "3602.53",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262135,
+      "text": "individual who viewed events Realistically of course did",
+      "start_time": "3602.53",
+      "end_time": "3607.51",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262136,
+      "text": "not oppose. And so we have him to thank for his attitude at the",
+      "start_time": "3607.51",
+      "end_time": "3612.25",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262137,
+      "text": "time in the legislature there were a few proponents Mr Reaves",
+      "start_time": "3612.25",
+      "end_time": "3617.13",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262138,
+      "text": "has already named some of them. Remember that Opie Hammond's was the man you see here",
+      "start_time": "3617.13",
+      "end_time": "3621.83",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262139,
+      "text": "today. I served on the commission. His wife served on the commission and he was",
+      "start_time": "3621.83",
+      "end_time": "3626.82",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262140,
+      "text": "one of the leaders in the house that kept me informed of sentiment",
+      "start_time": "3626.82",
+      "end_time": "3631.66",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262141,
+      "text": "and helped in guiding the measure through. There was a",
+      "start_time": "3631.66",
+      "end_time": "3636.59",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262142,
+      "text": "representative from Polaski County who was very interested and worked very diligently.",
+      "start_time": "3636.59",
+      "end_time": "3641.3",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262143,
+      "text": "Tom Tyler who is now deceased and we need to thank him and remember",
+      "start_time": "3641.3",
+      "end_time": "3646.27",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262144,
+      "text": "his efforts all of us who appreciate this educational television system",
+      "start_time": "3646.27",
+      "end_time": "3651.23",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262145,
+      "text": "in the Senate we had among other center guy Jones from this",
+      "start_time": "3651.23",
+      "end_time": "3656.15",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262146,
+      "text": "area and of course his support in the legislature. Our political",
+      "start_time": "3656.15",
+      "end_time": "3660.76",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262147,
+      "text": "system being what it is had a little bit to do with it being located in Conway after everything",
+      "start_time": "3660.76",
+      "end_time": "3665.71",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262148,
+      "text": "was established. Still it was one of those",
+      "start_time": "3665.71",
+      "end_time": "3670.64",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262149,
+      "text": "measures that the governor more or less",
+      "start_time": "3670.64",
+      "end_time": "3674.44",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262150,
+      "text": "had to muscle through the General Assembly and I'm sure",
+      "start_time": "3674.44",
+      "end_time": "3679.42",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262151,
+      "text": "there's a jam here today who understands that quite well. Former governor now",
+      "start_time": "3679.42",
+      "end_time": "3684.04",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262152,
+      "text": "Senator Pryor. But once it was approved and the",
+      "start_time": "3684.04",
+      "end_time": "3689.04",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262153,
+      "text": "appropriations were secured and then we look for a man to head and",
+      "start_time": "3689.04",
+      "end_time": "3693.55",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262154,
+      "text": "direct the program. Lee Reeves was chosen",
+      "start_time": "3693.55",
+      "end_time": "3697.7",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262155,
+      "text": "and his selection met with general approval.",
+      "start_time": "3697.7",
+      "end_time": "3703.68",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262156,
+      "text": "We have course expected help from the National ATV",
+      "start_time": "3703.68",
+      "end_time": "3708.64",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262157,
+      "text": "programs had already been established and there was a great deal of",
+      "start_time": "3708.64",
+      "end_time": "3713.28",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262158,
+      "text": "help and still remains much help. There were",
+      "start_time": "3713.28",
+      "end_time": "3717.96",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262159,
+      "text": "also some difficulties some of the programs some people felt",
+      "start_time": "3717.96",
+      "end_time": "3722.75",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262160,
+      "text": "were too much propaganda not in keeping with the",
+      "start_time": "3722.75",
+      "end_time": "3727.22",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262161,
+      "text": "precepts always of what we considered as American ism.",
+      "start_time": "3727.22",
+      "end_time": "3731.85",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262162,
+      "text": "And in that respect I would remark",
+      "start_time": "3731.85",
+      "end_time": "3735.95",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262163,
+      "text": "that any controversy on viewpoint whether mine",
+      "start_time": "3735.95",
+      "end_time": "3740.71",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262164,
+      "text": "are some other should not be presented as fact or as Holy",
+      "start_time": "3740.71",
+      "end_time": "3745.57",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262165,
+      "text": "Writ. If such a subject must be dealt with then it should be",
+      "start_time": "3745.57",
+      "end_time": "3750.55",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262166,
+      "text": "as much as humanly possible objective and balanced. In",
+      "start_time": "3750.55",
+      "end_time": "3755.53",
+      "speaker_id": 977804
+    },
+    {
+      "id": 25262167,
+      "text": "other words public TV must be so Hannah.",
+      "start_time": "3755.53",
+      "end_time": "3759.2",
+      "speaker_id": 977804
+    }
+  ],
+  "speakers": [
+    {
+      "id": 977804,
+      "name": "M21"
+    },
+    {
+      "id": 977803,
+      "name": "M20"
+    },
+    {
+      "id": 977802,
+      "name": "M19"
+    },
+    {
+      "id": 977801,
+      "name": "M18"
+    },
+    {
+      "id": 977800,
+      "name": "M17"
+    },
+    {
+      "id": 977799,
+      "name": "M15"
+    },
+    {
+      "id": 977798,
+      "name": "M14"
+    },
+    {
+      "id": 977797,
+      "name": "M13"
+    },
+    {
+      "id": 977796,
+      "name": "M12"
+    },
+    {
+      "id": 977795,
+      "name": "M11"
+    },
+    {
+      "id": 977794,
+      "name": "M6"
+    },
+    {
+      "id": 977793,
+      "name": "M7"
+    },
+    {
+      "id": 977792,
+      "name": "M10"
+    },
+    {
+      "id": 977791,
+      "name": "M9"
+    },
+    {
+      "id": 977790,
+      "name": "M5"
+    },
+    {
+      "id": 977789,
+      "name": "M4"
+    },
+    {
+      "id": 977788,
+      "name": "M3"
+    },
+    {
+      "id": 977787,
+      "name": "F6"
+    },
+    {
+      "id": 977786,
+      "name": "F4"
+    },
+    {
+      "id": 977785,
+      "name": "F3"
+    },
+    {
+      "id": 977784,
+      "name": "F2"
+    },
+    {
+      "id": 977783,
+      "name": "F5"
+    },
+    {
+      "id": 977782,
+      "name": "F10"
+    },
+    {
+      "id": 977781,
+      "name": "F9"
+    },
+    {
+      "id": 977780,
+      "name": "M1"
+    },
+    {
+      "id": 977779,
+      "name": "F1"
+    }
+  ]
+}

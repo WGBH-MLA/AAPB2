@@ -1,9 +1,13 @@
+require 'json'
 require_relative '../../lib/aapb'
 require_relative '../../app/models/validated_pb_core'
 require_relative '../../app/models/caption_file'
 
 describe 'Validated and plain PBCore' do
   pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
+
+  let(:pbc_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
+  let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
 
   describe ValidatedPBCore do
     describe 'valid docs' do
@@ -154,9 +158,12 @@ describe 'Validated and plain PBCore' do
         img_width: 300,
         captions_src: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt',
         transcript_src: nil,
+        transcript_status: nil,
         organization_pbcore_name: 'WGBH',
         organization: Organization.find_by_pbcore_name('WGBH'),
         outside_url: 'http://www.wgbh.org/',
+        player_aspect_ratio: '4:3',
+        player_specs: %w(680 510),
         reference_urls: ['http://www.wgbh.org/'],
         private?: false,
         protected?: false,
@@ -183,6 +190,45 @@ describe 'Validated and plain PBCore' do
 
       it 'tests everthing' do
         expect(assertions.keys.sort).to eq(PBCore.instance_methods(false).sort)
+      end
+    end
+
+    describe 'PB Core document with transcript' do
+      it 'has expected transcript attributes' do
+        pbc = PBCore.new(pbc_transcript)
+        expected_attrs = {
+          'id' => 'cpb-aacip_111-21ghx7d6',
+          'player_aspect_ratio' => '4:3',
+          'player_specs' => %w(680 510),
+          'transcript_status' => 'Online Reading Room Transcript'
+        }
+        attrs = {
+          'id' => pbc.id,
+          'player_aspect_ratio' => pbc.player_aspect_ratio,
+          'player_specs' => pbc.player_specs,
+          'transcript_status' => pbc.transcript_status
+        }
+
+        expect(expected_attrs).to eq(attrs)
+      end
+    end
+
+    describe 'PB Core document with 16:9 video' do
+      it 'has expected 16:9 attributes' do
+        pbc = PBCore.new(pbc_16_9)
+        expected_attrs = {
+          'id' => 'cpb-aacip_508-g44hm5390k',
+          'player_aspect_ratio' => '16:9',
+          'player_specs' => %w(680 383)
+        }
+
+        attrs = {
+          'id' => pbc.id,
+          'player_aspect_ratio' => pbc.player_aspect_ratio,
+          'player_specs' => pbc.player_specs
+        }
+
+        expect(expected_attrs).to eq(attrs)
       end
     end
   end

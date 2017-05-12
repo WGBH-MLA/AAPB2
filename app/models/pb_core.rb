@@ -219,7 +219,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
   def player_aspect_ratio
     @player_aspect_ratio ||= begin
-      instantiations.find{ |i| i.aspect_ratio != nil }.aspect_ratio
+      instantiations.find { |i| !i.aspect_ratio.nil? }.aspect_ratio
     rescue
       '4:3'
     end
@@ -346,8 +346,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, :transcript_src,
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
-               :title, :ci_ids, :instantiations,
-               :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width, :player_aspect_ratio, :transcript_status ]
+               :title, :ci_ids, :instantiations, :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width, :player_aspect_ratio, :player_specs, :transcript_status]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value

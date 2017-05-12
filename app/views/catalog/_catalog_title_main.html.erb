@@ -3,14 +3,16 @@
     <p>Record</p>
   </div>
   <div class="col-md-10 col-sm-10 col-xs-12 catalog-title">
-    <h1><%=
+    <h1>
+    <%=
       # "title || @page_title" doesn't work
       if defined? title
         title
       else
         @page_title
-      end %></h1>
-    </div>
+      end %>
+    </h1>
+  </div>
 </div>
 
 <div class="row">

@@ -24,10 +24,6 @@ class TranscriptFile
     "#{TranscriptFile::URL_BASE}/#{transcript_id}/#{transcript_id}-transcript.json"
   end
 
-  def self.json_filename(id)
-    "#{id}-transcript.json"
-  end
-
   def self.file_present?(id)
     return true if Net::HTTP.get_response(URI.parse(TranscriptFile.json_url(id))).code == '200'
     false

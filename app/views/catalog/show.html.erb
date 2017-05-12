@@ -86,157 +86,156 @@
       indicating the AAPB ID (<%= id %>).
     <% end %>
   </div>
-</div>
 
-<div class="col-md-4">
-  <% @pbcore.titles.each do |type,title| %>
-    <dl>
-      <dt><%= type %></dt>
-      <dd><a href="/catalog?f[<%=
-          type.downcase.gsub(/\s/,'_')
-        %>_titles][]=<%=
-          CGI::escape(title.gsub(/(["\\])/, '\\\\\1')) # escape Solr meta-characters
-        %>"><%= title %></a></dd>
-    </dl>
-  <% end %>
-
-  <dl>
-    <dt>Contributing Organization</dt>
-    <dd><a href='/participating-orgs/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
-      (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)</dd>
-  </dl>
-
-  <% @pbcore.ids.each do |type,id| %>
-    <dl>
-      <dt><%= type %></dt>
-      <dd><%= id %></dd>
-    </dl>
-  <% end %>
-</div>
-
-<div class="col-md-8">
-
-  <dl>
-    <dt>Description</dt>
-    <% @pbcore.descriptions.each do |description| %>
-      <dd><%= description %></dd>
-    <% end %>
-  </dl>
-
-  <% unless @pbcore.asset_dates.empty? %>
-    <dl>
-      <% @pbcore.asset_dates.each do |type,date| %>
+  <div class="col-md-4">
+    <% @pbcore.titles.each do |type,title| %>
+      <dl>
         <dt><%= type %></dt>
-        <dd><%= date %></dd>
+        <dd><a href="/catalog?f[<%=
+            type.downcase.gsub(/\s/,'_')
+          %>_titles][]=<%=
+            CGI::escape(title.gsub(/(["\\])/, '\\\\\1')) # escape Solr meta-characters
+          %>"><%= title %></a></dd>
+      </dl>
+    <% end %>
+
+    <dl>
+      <dt>Contributing Organization</dt>
+      <dd><a href='/participating-orgs/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
+        (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)</dd>
+    </dl>
+
+    <% @pbcore.ids.each do |type,id| %>
+      <dl>
+        <dt><%= type %></dt>
+        <dd><%= id %></dd>
+      </dl>
+    <% end %>
+  </div>
+
+  <div class="col-md-8">
+
+    <dl>
+      <dt>Description</dt>
+      <% @pbcore.descriptions.each do |description| %>
+        <dd><%= description %></dd>
       <% end %>
     </dl>
-  <% end %>
 
+    <% unless @pbcore.asset_dates.empty? %>
+      <dl>
+        <% @pbcore.asset_dates.each do |type,date| %>
+          <dt><%= type %></dt>
+          <dd><%= date %></dd>
+        <% end %>
+      </dl>
+    <% end %>
 
-  <% if @pbcore.asset_type %>
+    <% if @pbcore.asset_type %>
+      <dl>
+        <dt>Asset type</dt>
+        <dd><%= @pbcore.asset_type %></dd>
+      </dl>
+    <% end %>
+
+    <% unless @pbcore.genres.empty? %>
+      <dl>
+        <dt>Genres</dt>
+        <% @pbcore.genres.each do |genre| %>
+          <dd><a href="/catalog?f[genres][]=<%= CGI::escape(genre) %>"><%= genre %></a></dd>
+        <% end %>
+      </dl>
+    <% end %>
+
+    <% unless @pbcore.topics.empty? %>
+      <dl>
+        <dt>Topics</dt>
+        <% @pbcore.topics.each do |topic| %>
+          <dd><a href="/catalog?f[topics][]=<%= CGI::escape(topic) %>"><%= topic %></a></dd>
+        <% end %>
+      </dl>
+    <% end %>
+
+    <% unless @pbcore.subjects.empty? %>
+      <dl>
+        <dt>Subjects</dt>
+        <dd><%= @pbcore.subjects.join('; ') %></dd>
+      </dl>
+    <% end %>
+
+    <% {
+      'Creator'=> @pbcore.creators,
+      'Contributor'=> @pbcore.contributors,
+      'Publisher'=> @pbcore.publishers
+      }.select{|label,list| !list.empty?}.each do |label,list| %>
+      <dl>
+        <dt><%= label %></dt>
+        <% list.each do |c| %>
+          <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+        <% end %>
+      </dl>
+    <% end %>
+
+    <% if @pbcore.rights_summary %>
+      <dl>
+        <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
+      </dl>
+    <% end %>
+
     <dl>
-      <dt>Asset type</dt>
-      <dd><%= @pbcore.asset_type %></dd>
+      <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
     </dl>
-  <% end %>
 
-  <% unless @pbcore.genres.empty? %>
+    <% if @pbcore.duration %>
+      <dl>
+        <dt>Duration</dt>
+        <dd><%= @pbcore.duration %></dd>
+      </dl>
+    <% end %>
+
+    <% if @pbcore.public? %>
+       <dl style="display:none;"><%# TODO: remove style when ready to go. %>
+        <dt>Embed Code</dt>
+        <dd>
+          <input style="width: 100%; font-family: monospace;"
+                   value="&lt;iframe src='<%=
+                      url_for(controller: 'embed', action: 'show', id: params[:id], only_path: false)
+                   %>' width='<%= @pbcore.player_specs[0] %>' height='<%= @pbcore.player_specs[1] %>'
+                   style='border: 0;'&gt;&lt;/iframe&gt;"
+                   onclick="this.select();" />
+          <div class="well well-sm">
+            <small>Copy and paste this HTML to include AAPB content on your blog or webpage.</small>
+          </div>
+        </dd>
+      </dl>
+    <% end %>
+
     <dl>
-      <dt>Genres</dt>
-      <% @pbcore.genres.each do |genre| %>
-        <dd><a href="/catalog?f[genres][]=<%= CGI::escape(genre) %>"><%= genre %></a></dd>
-      <% end %>
+      <% url = "http://americanarchive.org/catalog/#{@pbcore.id}" %>
+      <% today = Date.today.to_formatted_s(:long) %>
+      <% org = @pbcore.organization.short_name_html.gsub(/<[^>]*>/, '').html_safe + ', American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
+      <dt>Citation</dt>
+      <dd><em>Chicago</em>:
+        &ldquo;<%= @pbcore.title %>,&rdquo;
+        <%= @pbcore.asset_date + ',' if @pbcore.asset_date %>
+        <%= org %>,
+        accessed <%= today %>,
+        <%= url %>.</dd>
+      <dd><em>MLA</em>:
+        &ldquo;<%= @pbcore.title %>.&rdquo;
+        <%= @pbcore.asset_date + '.' if @pbcore.asset_date %>
+        <%= org %>.
+        Web. <%= today %>.
+        &lt;<%= url %>&gt;.</dd>
+      <dd><em>APA</em>:
+        <%= @pbcore.title %>.
+        Boston, MA: <%= org %>.
+        Retrieved from <%= url %></dd>
     </dl>
-  <% end %>
-
-  <% unless @pbcore.topics.empty? %>
-    <dl>
-      <dt>Topics</dt>
-      <% @pbcore.topics.each do |topic| %>
-        <dd><a href="/catalog?f[topics][]=<%= CGI::escape(topic) %>"><%= topic %></a></dd>
-      <% end %>
-    </dl>
-  <% end %>
-
-  <% unless @pbcore.subjects.empty? %>
-    <dl>
-      <dt>Subjects</dt>
-      <dd><%= @pbcore.subjects.join('; ') %></dd>
-    </dl>
-  <% end %>
-
-  <% {
-    'Creator'=> @pbcore.creators,
-    'Contributor'=> @pbcore.contributors,
-    'Publisher'=> @pbcore.publishers
-    }.select{|label,list| !list.empty?}.each do |label,list| %>
-    <dl>
-      <dt><%= label %></dt>
-      <% list.each do |c| %>
-        <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
-      <% end %>
-    </dl>
-  <% end %>
-
-  <% if @pbcore.rights_summary %>
-    <dl>
-      <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
-    </dl>
-  <% end %>
-
-  <dl>
-    <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
-  </dl>
-
-  <% if @pbcore.duration %>
-    <dl>
-      <dt>Duration</dt>
-      <dd><%= @pbcore.duration %></dd>
-    </dl>
-  <% end %>
-
-  <% if @pbcore.public? %>
-     <dl style="display:none;"><%# TODO: remove style when ready to go. %>
-      <dt>Embed Code</dt>
-      <dd>
-        <input style="width: 100%; font-family: monospace;"
-                 value="&lt;iframe src='<%=
-                    url_for(controller: 'embed', action: 'show', id: params[:id], only_path: false)
-                 %>' width='<%= @pbcore.player_specs[0] %>' height='<%= @pbcore.player_specs[1] %>'
-                 style='border: 0;'&gt;&lt;/iframe&gt;"
-                 onclick="this.select();" />
-        <div class="well well-sm"><small>
-          Copy and paste this HTML to include AAPB content on your blog or webpage.
-        </small></div>
-      </dd>
-    </dl>
-  <% end %>
-
-  <dl>
-    <% url = "http://americanarchive.org/catalog/#{@pbcore.id}" %>
-    <% today = Date.today.to_formatted_s(:long) %>
-    <% org = @pbcore.organization.short_name_html.gsub(/<[^>]*>/, '').html_safe + ', American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
-    <dt>Citation</dt>
-    <dd><em>Chicago</em>:
-      &ldquo;<%= @pbcore.title %>,&rdquo;
-      <%= @pbcore.asset_date + ',' if @pbcore.asset_date %>
-      <%= org %>,
-      accessed <%= today %>,
-      <%= url %>.</dd>
-    <dd><em>MLA</em>:
-      &ldquo;<%= @pbcore.title %>.&rdquo;
-      <%= @pbcore.asset_date + '.' if @pbcore.asset_date %>
-      <%= org %>.
-      Web. <%= today %>.
-      &lt;<%= url %>&gt;.</dd>
-    <dd><em>APA</em>:
-      <%= @pbcore.title %>.
-      Boston, MA: <%= org %>.
-      Retrieved from <%= url %></dd>
-  </dl>
+  </div>
 <% end %>
 
-<%= render partial: 'catalog_title_sidebar_main',
+<%= render partial: 'catalog_title_main',
      locals: {
        title: "#{@pbcore.title}",
        main: yield(:main),

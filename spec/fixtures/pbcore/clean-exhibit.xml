@@ -75,34 +75,34 @@
     <instantiationTracks>1 video, 1 audio</instantiationTracks>
     <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
     <instantiationEssenceTrack>
-    <essenceTrackType>video</essenceTrackType>
-    <essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-    <essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
-    <essenceTrackDataRate unitsOfMeasure="Kbps">718</essenceTrackDataRate>
-    <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
-    <essenceTrackBitDepth>8</essenceTrackBitDepth>
-    <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
-    <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
-    <essenceTrackDuration>01:02:39</essenceTrackDuration>
-    <essenceTrackLanguage>eng</essenceTrackLanguage>
-    <essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
-    <essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
+      <essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure="Kbps">718</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:02:39</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
     </instantiationEssenceTrack>
     <instantiationEssenceTrack>
-    <essenceTrackType>audio</essenceTrackType>
-    <essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
-    <essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
-    <essenceTrackDataRate unitsOfMeasure="Kbps">128</essenceTrackDataRate>
-    <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
-    <essenceTrackDuration>01:02:39</essenceTrackDuration>
-    <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
+      <essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure="Kbps">128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:02:39</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
     </instantiationEssenceTrack>
     <instantiationEssenceTrack>
-    <essenceTrackType>other</essenceTrackType>
-    <essenceTrackIdentifier source="mediainfo">3</essenceTrackIdentifier>
-    <essenceTrackEncoding source="mediainfo">QuickTime TC</essenceTrackEncoding>
-    <essenceTrackDuration>01:02:39</essenceTrackDuration>
-    <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source="mediainfo">3</essenceTrackIdentifier>
+      <essenceTrackEncoding source="mediainfo">QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>01:02:39</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType="encoded by">Apple QuickTime</instantiationAnnotation>
   </pbcoreInstantiation>
