@@ -6,6 +6,7 @@ describe CaptionConverter do
   let(:invalid_srt) { File.read('./spec/fixtures/captions/srt/invalid_1.srt') }
   let(:vtt) { File.read('./spec/fixtures/captions/web_vtt/example_1.vtt') }
   let(:html) { File.read('./spec/fixtures/captions/html/example_1.html') }
+  let(:text) { File.read('./spec/fixtures/captions/text/example_1.txt') }
 
   describe '.parse_srt' do
     it 'returns an instance of SRT::File with parsed SRT, and no errors' do
@@ -28,6 +29,12 @@ describe CaptionConverter do
   describe '.srt_to_vtt' do
     it 'converts a caption in SRT format to HTML' do
       expect(CaptionConverter.srt_to_html(srt)).to eq html
+    end
+  end
+
+  describe '.srt_to_text' do
+    it 'converts the text from a caption to text' do
+      expect(CaptionConverter.srt_to_text(srt)).to eq text
     end
   end
 end
