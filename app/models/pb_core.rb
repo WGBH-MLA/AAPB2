@@ -192,6 +192,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
+  def transcript_ready?
+    return true if transcript_status == PBCore::ORR_TRANSCRIPT || transcript_status == PBCore::ON_LOCATION_TRANSCRIPT
+    false
+  end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
   OTHER = 'other'.freeze

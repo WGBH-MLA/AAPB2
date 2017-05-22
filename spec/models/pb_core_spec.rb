@@ -157,6 +157,7 @@ describe 'Validated and plain PBCore' do
         img_src: "#{AAPB::S3_BASE}/thumbnail/1234.jpg",
         img_width: 300,
         captions_src: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt',
+        transcript_ready?: false,
         transcript_src: nil,
         transcript_status: nil,
         organization_pbcore_name: 'WGBH',
@@ -200,13 +201,15 @@ describe 'Validated and plain PBCore' do
           'id' => 'cpb-aacip_111-21ghx7d6',
           'player_aspect_ratio' => '4:3',
           'player_specs' => %w(680 510),
-          'transcript_status' => 'Online Reading Room Transcript'
+          'transcript_status' => 'Online Reading Room Transcript',
+          'transcript_ready?' => true
         }
         attrs = {
           'id' => pbc.id,
           'player_aspect_ratio' => pbc.player_aspect_ratio,
           'player_specs' => pbc.player_specs,
-          'transcript_status' => pbc.transcript_status
+          'transcript_status' => pbc.transcript_status,
+          'transcript_ready?' => pbc.transcript_ready?
         }
 
         expect(expected_attrs).to eq(attrs)

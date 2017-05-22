@@ -4,6 +4,8 @@ class ApiController < ApplicationController
   skip_before_action :verify_authenticity_token
   # TODO: There is nothing we have that is worth a CSRF, but CORS is a better way to do this.
 
+  http_basic_authenticate_with name: ENV['API_USER'], password: ENV['API_PASSWORD'], only: [:transcript]
+
   def index
     @solr = Solr.instance.connect
     callback = params.delete('callback') || 'callback'
@@ -41,5 +43,31 @@ class ApiController < ApplicationController
         render text: xml
       end
     end
+  end
+
+  def transcript
+    @solr = Solr.instance.connect
+    data = @solr.get('select', params: { q: "id:#{params[:id]}", fl: 'xml' })
+    xml = data['response']['docs'][0]['xml']
+    @pbcore = PBCore.new(xml)
+
+    if can? :play, @pbcore
+      content = if @pbcore.transcript_ready? && TranscriptFile.file_present?(@pbcore.id)
+                  TranscriptFile.new(@pbcore.id)
+                elsif CaptionFile.file_present?(@pbcore.id)
+                  CaptionFile.new(@pbcore.id)
+                end
+      if content != nil
+        render json: content.json
+      else
+        render_no_transcript_content
+      end
+    else
+      render_no_transcript_content
+    end
+  end
+
+  def render_no_transcript_content
+    render :json => { :status => '404 Not Found', :code => '404', :message => 'This transcript is not currently available' }, :status => :not_found
   end
 end

@@ -1,5 +1,6 @@
 require 'srt'
 require 'nokogiri'
+require 'json'
 
 class CaptionConverter
   def self.srt_to_vtt(srt)
@@ -46,6 +47,23 @@ class CaptionConverter
     end
 
     caption_text.join(' ').tr('>>', '')
+  end
+
+  def self.srt_to_json(srt)
+    parsed_srt = parse_srt(srt)
+    json = {
+      'language'  => 'en-US',
+      'parts'     => []
+    }
+
+    parsed_srt.lines.each do |line|
+      json['parts'] << {
+        'text'        => line.text.join(' '),
+        'start_time'  => line.start_time.to_s,
+        'end_time'    => line.end_time.to_s
+      }
+    end
+    JSON.generate(json)
   end
 
   def self.as_timestamp(s)

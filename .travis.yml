@@ -1,9 +1,13 @@
 language: ruby
 rvm:
-  - 2.2.2
+- 2.2.2
 sudo: false
 cache: bundler
 script:
-  - bundle exec rails server &
-  - bundle exec rake ci
-  - bundle exec rubocop -D
+- bundle exec rails server &
+- bundle exec rake ci
+- bundle exec rubocop -D
+env:
+  matrix:
+  - secure: wKuz/R9drdFSDREtXgzbFEZ2ybssXyhC5Nt6jQzyrRvKvESQteVkBG7F8h583CYOybvAF4AO3cd0wBB2OPZBNuoJLO+WcO9NvXc+MlScf60nw7NTLo2ctakT26GYpuDJ+zNbiQKwdm7RyPFql5cEehRCGIrSdTpTQwgvXlXvHUE=
+  - secure: JwXZh9MBPT8dBEBhjWsgFUPqGOG0Q5pjhvN64Ny7OhYEbnSfR9vKACLcmIZc9PCKfe8bMckmZOk6xRNPdh4P2yT0U4h6XRJPiISgkvf2avokfZn5DHrhe27zocBXixeqRay7BpWw4uUOqVJirH2D8iB3C9egRfM1QpmRydVgJHY=

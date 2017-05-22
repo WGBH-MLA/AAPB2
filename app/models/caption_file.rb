@@ -26,6 +26,10 @@ class CaptionFile
     @text ||= CaptionConverter.srt_to_text(srt)
   end
 
+  def json
+    @json ||= CaptionConverter.srt_to_json(srt)
+  end
+
   def captions_from_query(query)
     captions = Nokogiri::HTML(html).text
 
@@ -59,5 +63,10 @@ class CaptionFile
 
   def self.srt_filename(id)
     "#{id}.srt1.srt"
+  end
+
+  def self.file_present?(id)
+    return true if Net::HTTP.get_response(URI.parse(CaptionFile.srt_url(id))).code == '200'
+    false
   end
 end
