@@ -1,5 +1,5 @@
 require 'open-uri'
-require 'caption_converter'
+require_relative '../../lib/caption_converter'
 
 class CaptionFile
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze

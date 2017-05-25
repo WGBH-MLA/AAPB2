@@ -1,5 +1,4 @@
 require 'rails_helper'
-require 'curl'
 require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
 
@@ -66,32 +65,5 @@ describe 'API' do
       expect(page.status_code).to eq 500
       expect(page.source).to match('<msg>invalid boolean value: error</msg>')
     end
-  end
-
-  describe 'transcript API' do
-    it 'returns 401 without credentials' do
-      curl = Curl::Easy.http_get('http://localhost:3000/api/cpb-aacip_111-21ghx7d6/transcript')
-      curl.perform
-      expect(curl.status).to eq('401 Unauthorized')
-    end
-
-    it 'returns 200 with credentials' do
-      curl = Curl::Easy.http_get('http://localhost:3000/api/cpb-aacip_111-21ghx7d6/transcript')
-      curl.username = ENV['API_USER']
-      curl.password = ENV['API_PASSWORD']
-      curl.perform
-
-      expect(curl.status).to eq('200 OK')
-    end
-
-    it 'returns 404 when no transcript content is available' do
-      curl = Curl::Easy.http_get('http://localhost:3000/api/cpb-aacip_37-16c2fsnr/transcript')
-      curl.username = ENV['API_USER']
-      curl.password = ENV['API_PASSWORD']
-      curl.perform
-
-      expect(curl.status).to eq('404 Not Found')
-    end
-
   end
 end

@@ -8,6 +8,6 @@ script:
 - bundle exec rake ci
 - bundle exec rubocop -D
 env:
-  matrix:
-  - secure: wKuz/R9drdFSDREtXgzbFEZ2ybssXyhC5Nt6jQzyrRvKvESQteVkBG7F8h583CYOybvAF4AO3cd0wBB2OPZBNuoJLO+WcO9NvXc+MlScf60nw7NTLo2ctakT26GYpuDJ+zNbiQKwdm7RyPFql5cEehRCGIrSdTpTQwgvXlXvHUE=
-  - secure: JwXZh9MBPT8dBEBhjWsgFUPqGOG0Q5pjhvN64Ny7OhYEbnSfR9vKACLcmIZc9PCKfe8bMckmZOk6xRNPdh4P2yT0U4h6XRJPiISgkvf2avokfZn5DHrhe27zocBXixeqRay7BpWw4uUOqVJirH2D8iB3C9egRfM1QpmRydVgJHY=
+  global:
+  - secure: wwyb5IUpAkydU6eQbgVJ/+oshedAOdiCARMYvhC14zBlie8FvQrY3kGINSQ1jWNGcz3Gbo23VNLXSSUjk9jbuO4SSri1w28xvoe3Wjqz+r0+zWETRKh3mZ83PxAu7x0565cfNwdGaw788Wvvo34/Bl5j18zEinn6UL9ICBW6UDg=
+  - secure: JqYu9MWtYlV6u+gjl7DthI7MKyLoLANYMhSM11hWgyQsZcXIanYTmBsdpvKC0GPXUmfy4TvwQMKYrixxoSW65W+4P8FwU7e4TirjLV1FDl1zFiBT/L1wyl+8qmW9Ot9b68Q0phXH0UhG31Qif4na+dhdrHRvPUgowh8/NawIJwg=

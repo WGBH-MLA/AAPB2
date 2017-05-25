@@ -12,6 +12,8 @@ require_relative 'pb_core_name_role_affiliation'
 require_relative 'organization'
 require_relative '../../lib/formatter'
 require_relative '../../lib/caption_converter'
+require_relative 'transcript_file'
+require_relative 'caption_file'
 
 class PBCore # rubocop:disable Metrics/ClassLength
   # rubocop:disable Style/EmptyLineBetweenDefs
@@ -196,6 +198,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
     return true if transcript_status == PBCore::ORR_TRANSCRIPT || transcript_status == PBCore::ON_LOCATION_TRANSCRIPT
     false
   end
+  def transcript_content
+    return TranscriptFile.new(id).json if transcript_ready? && TranscriptFile.file_present?(id)
+    return CaptionFile.new(id).json if CaptionFile.file_present?(id)
+    nil
+  end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
   OTHER = 'other'.freeze
@@ -351,7 +358,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, :transcript_src,
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
-               :title, :ci_ids, :instantiations, :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width, :player_aspect_ratio, :player_specs, :transcript_status]
+               :title, :ci_ids, :instantiations, :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width, :player_aspect_ratio, :player_specs, :transcript_status, :transcript_content]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value

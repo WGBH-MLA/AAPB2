@@ -56,13 +56,15 @@ class CaptionConverter
       'parts'     => []
     }
 
+    # Forces encoding to UTF-8 to catch when SRT gem returns ASCII-8BIT
     parsed_srt.lines.each do |line|
       json['parts'] << {
-        'text'        => line.text.join(' '),
-        'start_time'  => line.start_time.to_s,
-        'end_time'    => line.end_time.to_s
+        'text'        => line.text.join(' ').to_s.force_encoding('ISO-8859-1').encode('UTF-8'),
+        'start_time'  => line.start_time.to_s.force_encoding('ISO-8859-1').encode('UTF-8'),
+        'end_time'    => line.end_time.to_s.force_encoding('ISO-8859-1').encode('UTF-8')
       }
     end
+
     JSON.generate(json)
   end
 

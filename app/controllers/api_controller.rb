@@ -50,24 +50,16 @@ class ApiController < ApplicationController
     data = @solr.get('select', params: { q: "id:#{params[:id]}", fl: 'xml' })
     xml = data['response']['docs'][0]['xml']
     @pbcore = PBCore.new(xml)
+    content = @pbcore.transcript_content
 
-    if can? :play, @pbcore
-      content = if @pbcore.transcript_ready? && TranscriptFile.file_present?(@pbcore.id)
-                  TranscriptFile.new(@pbcore.id)
-                elsif CaptionFile.file_present?(@pbcore.id)
-                  CaptionFile.new(@pbcore.id)
-                end
-      if content != nil
-        render json: content.json
-      else
-        render_no_transcript_content
-      end
+    if can?(:play, @pbcore) && !content.nil?
+      render json: content, status: :ok
     else
       render_no_transcript_content
     end
   end
 
   def render_no_transcript_content
-    render :json => { :status => '404 Not Found', :code => '404', :message => 'This transcript is not currently available' }, :status => :not_found
+    render json: { status: '404 Not Found', code: '404', message: 'This transcript is not currently available' }, status: :not_found
   end
 end
