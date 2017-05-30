@@ -1,4 +1,4 @@
-# Speaking and Protesting in America
+# Exhibit Title: Newsmagazines on Public Media
 
 1
 
@@ -6,7 +6,7 @@
 
 ![Anti-Vietnam Protest at Pentagon](https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Cover.jpg "Anti-Vietnam Protest at Pentagon")
 
-“Speaking and Protesting in America,” presents a diverse range of public radio and television content including radio programs, local news, raw footage, and interviews that reveal the profound impact of the First Amendment on American life. Focusing on our right to speak, assemble, and petition, this exhibit explores the role of dissent in American life in its protected and unprotected expressions ranging from peaceful marches to acts of civil disobedience. 
+What’s a newsmagazine? Though the term may seem unfamiliar, newsmagazines number among the most successful television and radio programs in recent history. Taking a cue from both commercial and noncommercial precedents, independent public broadcasting stations began to adopt the format during the 1970s. The newsmagazine has since persisted on public media as an alternative approach to mainstream, profit-driven news production. TITLE OF EXHIBIT examines both the content and structure of newsmagazines, and situates the format within the context of how our public broadcasting system has evolved since the Public Broadcasting Act was signed into law in 1967.
 
 ## Extended
 
@@ -14,49 +14,33 @@
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Janowiecki.jpg"/>
 
-### Michelle L. Janowiecki
+### Alejandra Dean
 Digital Exhibits Intern, American Archive of Public Broadcasting
 
 
 ## Resources
 
-- [Freedom of Assembly Overview](http://www.newseuminstitute.org/first-amendment-center/topics/freedom-of-assembly/freedom-of-assembly-overview/)
-- [Summary of Edwards v. South Carolina, 372 U.S. 237 (1963).](https://www.oyez.org/cases/1962/86)
+- [The Public Broadcasting Act of 1967](http://www.cpb.org/aboutpb/act)
 
 ## Main 
 
-### Freedom to Assemble and Petition
+### An Introduction to Newsmagazines
 
-Protests have long been an essential part of American life, employed to draw attention to critical issues, events, and injustices. Ranging from peaceful marches to powerful acts of civil disobedience, protests can be found in nearly every political and social movement of the past century from the Civil Rights Movement of the 1950s and 1960s to anti-war protests of the 2000s.
+Newsmagazines, often recognizable through their alliterative monikers like “NewsNight Minnesota” or “North Carolina Now,” share a unique narrative structure. The word ‘newsmagazine’ is a portmanteau used to describe programming that combines a magazine-style format, or a show consisting of sequential, unrelated features (to the same effect of flipping through a print magazine), with a focus on news content. Mainstream examples include NPR’s *All Things Considered* and ABC’s *20/20*, but the paradigm of the genre is generally considered to be CBS’s *60 Minutes*. With the rise of *60 Minutes*, the newsmagazine gained traction as a distinct method for presenting news that was more appealing to audiences than traditional newscasts. 
 
-Today, protests remain relevant—providing essential ways to speak out on political issues and injustices. In the past five years, movements including Black Lives Matter, Occupy Wall Street, the Tea Party, and opposition to the Dakota Access Pipeline, commonly known as NoDAPL, have used protests as a way to make their voices heard. By learning about our right to protest and the historic protests of the past, we can gain insight into how the freedom to speak out and challenge popular viewpoints has and will continue to shape American political life. 
+
+The history of the independently-produced newsmagazine is woven into the history of our country’s public broadcasting system, which has continuously distinguished itself from commercial media through its core values and principles. These values include a commitment to providing free access to high-quality programming that informs, educates, and enlightens its viewers,[<sup>1</sup>](/exhibits/newsmagazines/notes#1) programming that is unaffected by political influence or financial gain,[<sup>2</sup>](/exhibits/newsmagazines/notes#2) and programming specifically created for and about underserved communities.[<sup>3</sup>](/exhibits/newsmagazines/notes#3) With respect to news, public broadcasting addresses a need for “accuracy and integrity in the pursuit of facts about events, issues, and important matters that affect communities and people’s lives” and “transparency in news gathering, reporting, and other content creation [that shares] the reasons for important editorial and programming choices.”[<sup>4</sup>](/exhibits/newsmagazines/notes#4) TITLE OF EXHIBIT features programs from across the country that reflect these choices. 
+
+
+Most of the newsmagazines featured in this exhibit were originally broadcast locally and are available through the American Archive of Public Broadcasting for the first time together as a unified collection. Covering issues from [labor strikes](/catalog/cpb_aacip/29_79h44svk) to [prisoner rights](/catalog/cpb_aacip/153_48ffbpfc), these programs emphasize conversations and voices often overlooked by network news shows. This inherently local perspective not only relates to the type of content valued by the public broadcasting community, but also derives from the way the public broadcasting system is structured within the United States--a structure made possible by the Public Broadcasting Act of 1967.  
+
+
+Though previous legislation and regulatory actions beginning in the 1920s recognized the importance of educational and public service programming, it wasn’t until the [Public Broadcasting Act of 1967](http://www.cpb.org/aboutpb/act) that the public broadcasting infrastructure as we know it today was fully realized. The act established the Corporation for Public Broadcasting to distribute for the first time federal funds to thousands of local radio and television stations, sustaining public broadcasting services nationwide. As we approach the 50th anniversary of President Lyndon B. Johnson signing the act on November 7, 1967, TITLE OF EXHIBIT looks back at the legacy of this gesture as it relates to the development of public news programs. This new system, envisioned to “belong to all of our people,”[<sup>5</sup>](/exhibits/newsmagazines/notes#5) paved the way for some of the most treasured programs in American culture to reach viewers and listeners in diverse communities throughout the nation, including local newsmagazines. 
+
+Noncommercial broadcast content, especially programming distributed by PBS and NPR, is often associated with storytelling; *Frontline* and even WNYC’s *Radiolab* often profile important issues using long-form narrative strategies, which have become a signature of public media journalism. Newsmagazines, by extension, exist somewhere between documentary storytelling and soft news, fulfilling two public broadcasting missions at once: to keep the public informed of both local and national issues and to do so in a thoughtful, creative, and engaging way.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1nFxvLuqaeMgqi_97zgjHaJgsKx4" width="640" height="480"></iframe>
-
-### Protests and Public Programming
-
-
-When reporting on the role of public television in 1967, the Carnegie Commission advocated for public programming that captured the voices and protests of ordinary citizens, writing that:
-
-
-"[Public television] should be a forum for debate and controversy. It should bring into the home meetings, now generally untelevised, where major public decisions are hammered out, and occasions where people of the community express their hopes, their protests, their enthusiasm, and their will. It should provide a voice for groups in the community that may otherwise be unheard."[<sup>1</sup>](/exhibits/first-amendment/notes#1)
-
-
-Reflecting this early commitment to capturing debates and protests, the American Archive of Public Broadcasting (AAPB) holds a rich array of films, documentaries, radio interviews, and news programs highlighting the protests and movements that have shaped American policy and opinion. From the contentious 1960s and 1970s to the current day, the AAPB preserves the voices of concerned citizens captured through the vivid mediums of radio and television.
-
-### Protests and Disobedience 
-
-The First Amendment of the United States Constitution provides protection for many acts of protest by protecting the right to conduct a peaceful public assembly and the right to free speech. Our right to free speech and assembly encompasses a wide scope of protest activities ranging from flag burning to picketing. In the United States, individuals and groups that wish to protest can make their voices heard in public spaces like parks and sidewalks. Some cities, however, require local permits to protest and have local ordinances determining the size, volume, and location of protesters. Throughout history, this permit system has been misused by some local governments in order to block unpopular protests. During the civil rights movement, many black activists found their peaceful protests blocked by white town governments who refused to issue permits or arrested peaceful protesters. In 1961, 187 black students were convicted of “disturbing the peace” for protesting in front of the South Carolina courthouse. The Supreme Court later overturned the discriminatory convictions, citing the importance of freedom of speech and quoting Justice William Douglas, who wrote: “Speech is often provocative and challenging. It may strike at prejudices and preconceptions, and have profound unsettling effects as it presses for acceptance of an idea. That is why freedom of speech is protected against censorship or punishment...”
 	
 > **“That is why freedom of speech is protected.” [<sup>2</sup>](/exhibits/first-amendment/notes#2)** 
 
-
-Protesters and activists have also advocated for change through acts of civil disobedience, or deliberate disregard of laws. Acts of civil disobedience came to the forefront during the civil rights movement of the 1950s and 1960s. By employing nonviolent civil disobedience in the form of sit-ins, occupations, and boycotts, civil rights activists powerfully displayed their strong opposition to segregation laws, voter discrimination, and violence against black individuals. In the <a href="/catalog/cpb-aacip/28-br8mc8rr6z">Sit-ins and the New South</a>, Priscilla Stephens recalls how she and other civil rights activists had to choose between bail or jail time for participating in a sit-in. In her words, “everybody wanted to go to jail” to demonstrate their steadfast opposition to unjust segregation laws and customs. Stephens and seven others would spend 49 days in jail for their protest. 
-
-
 > **“Everybody wanted to go to jail.” [<sup>3</sup>](/exhibits/first-amendment/notes#3)**
-
-
-The potent combination of civil disobedience and legal protesting employed during the civil rights movement helped black activists achieve positive changes in the struggle for equality and justice. Following the civil rights movement, American activists have continued to employ both lawful protest and nonviolent resistance to advance their causes. This exhibit will provide an overview of protests during the 1960s and 1970s, as well explore protests from 1980 and beyond to show the impact of these political acts on American life. 
-
-
