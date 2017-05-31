@@ -16,7 +16,7 @@
 
 <a name="6"></a><sup>6</sup> Charles L. Ponce de Leon, *That's the Way It Is: A History of Television News in America* (Chicago: University of Chicago Press, 2015), 20.
 
-<a name="7"></a><sup>7</sup> PBL Advertisement. New York Times. 5 Nov. 1967: E12.
+<a name="7"></a><sup>7</sup> PBL Advertisement. New York Times. 5 Nov. 1967: E12 (pg. 287).
 
 <a name="8"></a><sup>8</sup> Al Perlmutter, "The Origin of Black Journal". *Thirteen.org*. http://www.thirteen.org/broadcastingwhileblack/uncategorized/debut-episode-of-black-journal-1968/.
 
