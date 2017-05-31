@@ -8,7 +8,7 @@
 The American Archive of Public Broadcasting holds significant material related to the pioneers responsible for shaping the newsmagazine format during the 1960s and 70s. The people and programs highlighted here reveal the origins of the newsmagazine in documentary news reporting, the development of a program structure combining multiple features, and the impact specific producers had on popularizing this unique form of news presentation. These precedents, when brought together through AAPB, establish a newsmagazine genealogy that begins with American broadcasting icon Edward R. Murrow and his producer Fred Friendly, who later became an important force in public television.
 
 ### *See It Now* and *Public Broadcast Laboratory* 
-In December of 1950, both Murrow and Friendly were employed at CBS and together launched a radio program envisioned as a “*Life* magazine of the air.”[<sup>6</sup>](/exhibits/newsmagazines/notes#6) Entitled *Hear It Now*, the weekly news show transitioned to television the following year. Its new iteration, *See It Now*, blended investigative journalism with lighter human interest topics, often featuring multiple segments per episode. The show became highly influential for its documentary-style coverage and is equally notable for Murrow and Friendly’s partnership. Both figures would eventually leave CBS and critique the commercial television system for its perceived lack of informational programming. Murrow expressed these views in a 1959 episode of WGBH’s [The Press and the People](/catalog/cpb-aacip_15-80ht7n4v), while Friendly later [spoke on behalf of the Ford Foundation](/catalog/cpb-aacip_500-g44hrj88) (an early public broadcasting supporter) in the [Senate hearings](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act of 1967. That year Friendly conceived of a new weekly proto-magazine show called *Public Broadcast Laboratory* (PBL) to be broadcast live over National Educational Television (NET), the precursor to PBS.
+In December of 1950, both Murrow and Friendly were employed at CBS and together launched a radio program envisioned as a “*Life* magazine of the air.”[<sup>6</sup>](/exhibits/newsmagazines/notes#6) Entitled *Hear It Now*, the weekly news show transitioned to television the following year. Its new iteration, *See It Now*, blended investigative journalism with lighter human interest topics, often featuring multiple segments per episode. The show became highly influential for its documentary-style coverage and is equally notable for Murrow and Friendly’s partnership. Both figures would eventually leave CBS and critique the commercial television system for its perceived lack of informational programming. Murrow expressed these views in a 1959 episode of WGBH’s [The Press and the People](/catalog/cpb-aacip_15-80ht7n4v), while Friendly later spoke on behalf of the Ford Foundation (an early public broadcasting supporter) in the [Senate hearings](/catalog/cpb-aacip_500-g44hrj88) on the [Public Broadcasting Act of 1967](/catalog/cpb-aacip_500-dz03342k). That year Friendly conceived of a new weekly proto-magazine show called *Public Broadcast Laboratory* (PBL) to be broadcast live over National Educational Television (NET), the precursor to PBS.
 
 AAPB contains footage from the very first PBL program, which premiered on November 5, 1967, just two days before President Lyndon B. Johnson signed the Public Broadcasting Act. The segment, [a profile](/catalog/cpb-aacip_15-9zg6g70c) of Boston politician and desegregation-opponent Louise Day Hicks, underscores PBL’s mission to “offer two hours (maybe more) of incisive reporting, examinations of the arts and sciences, live dramas, strong opinion and probing comment.”[<sup>7</sup>](/exhibits/newsmagazines/notes#7) A [second](/catalog/cpb-aacip_15-94hmh6vt) PBL segment, in which then-governor of California Ronald Reagan visits Yale University amidst student protests [link to asset], further exemplifies the tradition of television documentary reporting made popular by Murrow and Friendly. Both programs expose PBL’s magazine-like design and presage later popular newsmagazines like *60 Minutes*.
 
@@ -28,21 +28,19 @@ If there’s one thread that weaves these various strands together, it’s PBS�
 #### Tour Our Resources:
 
 
-- 1956—[Commentary of a Black Southern Bus Rider / Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45)
-- 1960—[Sit-ins and the New South, Florida](/catalog/cpb-aacip_28-br8mc8rr6z)
-- 1961—[Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
-- 1963—[Stay Out For Freedom; Boycott Report](/catalog/cpb-aacip_15-9v698c0j)
-- 1963—[March on Washington; George Geesey Introduction; Part 1 of 17](/catalog/cpb-aacip_15-9xp6v356)
-- 1964—[New England Scene; St. Augustine](/catalog/cpb-aacip_15-7634v366)
-- 1964—[Mississippi Project; Andrew Young Interview / Ted Mascott](/catalog/cpb-aacip_15-95q4rk9v)
-- 1966—[Cesar Chavez speaks on the Delano Grape Strike](/catalog/cpb-aacip_28-j09w08ws8t)
-- 1968—[Rally for the Oakland Seven](/catalog/cpb-aacip_28-ft8df6kf9j)
-- 1969—[Radio Free Alcatraz](/catalog/cpb-aacip_28-q23qv3cj2p)
-- 1970—[The Chicano moratorium](/catalog/cpb-aacip_28-6t0gt5fp55)
-- 1972—[Cecil Williams and Angela Davis Speak](/catalog/cpb-aacip_28-833mw28n8t)
-- 1973—[The road to Wounded Knee I: conditions at Pine Ridge (Part 1 of 5)](/catalog/cpb-aacip_28-bz6154f24n)
-- 1978—[The Longest Walk](/catalog/cpb-aacip_43-84zgn7fb)
-
+- 1959—The Press and the People Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
+- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
+- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
+- 1967—Public Broadcast Laboratory series premiere: documentary on [Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
+- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
+- 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
+- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
+- 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
+- 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
+- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
+- 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
+- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
+- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
 
 #### Keep Exploring— More Online Exhibits:
 
@@ -59,4 +57,5 @@ If there’s one thread that weaves these various strands together, it’s PBS�
 
 - [New Mexico Navajo Protest, 1974](https://exhibits.stanford.edu/fitch/browse/new-mexico-navajo-protest-1974): This collection from Stanford University provides images from 1974 Navajo protests. These protests were sparked after white teenagers, who attacked and killed three Navajo individuals, only had to attend reform school for their crimes.
 
-Next: [Quintessential Newsmagazines](/exhibits/newsmagazines/definitive-newsmags)
+
+#### Next: [Quintessential Newsmagazines](/exhibits/newsmagazines/definitive-newsmags)
