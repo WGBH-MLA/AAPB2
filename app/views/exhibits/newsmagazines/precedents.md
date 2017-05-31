@@ -28,10 +28,10 @@ If there’s one thread that weaves these various strands together, it’s PBS�
 #### Tour Our Resources:
 
 
-- 1959—The Press and the People Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
+- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
 - 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
 - 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
-- 1967—Public Broadcast Laboratory series premiere: documentary on [Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
+- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
 - 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
 - 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
 - 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
