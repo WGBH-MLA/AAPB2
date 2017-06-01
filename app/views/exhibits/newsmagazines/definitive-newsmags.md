@@ -1,6 +1,6 @@
 # Quintessential Newsmagazines
 
-1
+2
 
 ## Summary
 
