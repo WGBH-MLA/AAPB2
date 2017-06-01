@@ -10,7 +10,7 @@ By the 1980s, newsmagazines had become a staple of American television news broa
 
 ## Extended
 ### Soft News and Newsmagazines
-Newsmagazines increasingly favored soft news reporting during the 1980s and 1990s. “Soft news” is characterized as “coverage which focuses on individuals, personalities and feature content more than ‘hard news,’ which is straight reporting of events.”[<sup>11</sup>](/exhibits/newsmagazines/notes#11) Many of the shows in the archive followed this trend. For example, *Grassroots Journal*, a local interest magazine based out of Pullman, Washington, was dedicated to covering vernacular topics in Eastern Washington and Idaho. [This edition](/catalog/cpb-aacip_296-41mgqsfq) from 1984 covers model trains, dog obedience training, and a craftsman specializing in Irish folk harps. A [*Gulf Coast Journal*](/catalog/cpb-aacip_322-515mkrv5), an Emmy award-winning series aired monthly by WEDU in Tampa, continued this trend into the 2000s, highlighting West Florida culture through stories on local cuisine, artisans, and businesses. Jack Perkins, the host and creator of *A Gulf Coast Journal*, gives a nod to the magazine format in [this 2009 episode](/catalog/cpb-aacip_322-515mkrv5), stating, “*A Gulf Coast Journal* has variety. In this edition, for example, we have...a man who does magic with wood, we have a wild animal act, and we have some very good food.” [*Assignment Iowa*](/catalog/cpb-aacip_37-375tb64g), an early newsmagazine begun in the late 1970s, similarly profiled various communities in the state and explored one topic per episode, such as the [Greene County Fair in Jefferson](/catalog/cpb-aacip_37-13zs7jg4), from multiple local perspectives.
+Newsmagazines increasingly favored soft news reporting during the 1980s and 1990s. “Soft news” is characterized as “coverage which focuses on individuals, personalities and feature content more than ‘hard news,’ which is straight reporting of events.”[<sup>11</sup>](/exhibits/newsmagazines/notes#11) Many of the shows in the archive followed this trend. For example, *Grass Roots Journal*, a local interest magazine based out of Pullman, Washington, was dedicated to covering vernacular topics in Eastern Washington and Idaho. [This edition](/catalog/cpb-aacip_296-41mgqsfq) from 1984 covers model trains, dog obedience training, and a craftsman specializing in Irish folk harps. A [*Gulf Coast Journal*](/catalog/cpb-aacip_322-515mkrv5), an Emmy award-winning series aired monthly by WEDU in Tampa, continued this trend into the 2000s, highlighting West Florida culture through stories on local cuisine, artisans, and businesses. Jack Perkins, the host and creator of *A Gulf Coast Journal*, gives a nod to the magazine format in [this 2009 episode](/catalog/cpb-aacip_322-515mkrv5), stating, “*A Gulf Coast Journal* has variety. In this edition, for example, we have...a man who does magic with wood, we have a wild animal act, and we have some very good food.” [*Assignment Iowa*](/catalog/cpb-aacip_37-375tb64g), an early newsmagazine begun in the late 1970s, similarly profiled various communities in the state and explored one topic per episode, such as the [Greene County Fair in Jefferson](/catalog/cpb-aacip_37-13zs7jg4), from multiple local perspectives.
 
 The decision to structure broadcast magazines around one particular topic can be seen in themed magazine shows found in the archive. The Connecticut Broadcasting Network ran the [*Fairfield County Business Report*](/catalog/cpb-aacip_398-0322815q), a newsmagazine about the state’s economy, in the early 1980s. Maryland Public Television developed [*Motorweek*](/catalog/cpb-aacip_394-36547hkt), “television’s original automotive magazine,” in 1981, a series still broadcast on the majority of PBS stations today.[<sup>12</sup>](/exhibits/newsmagazines/notes#12) Newsmagazines with a specific focus on the arts and entertainment were another popular choice for delivering community content, as demonstrated by episodes of Thirteen WNET’s [*City Arts*](/catalog/cpb-aacip_75-01pg4hg3) in New York, PBS Hawaii’s [*Spectrum*](/catalog/cpb-aacip_225-0966t2p8) in Honolulu, and [*Marquee*](/catalog/cpb-aacip_384-44pk0v59), produced by KCPT in Kansas City.  
 
@@ -42,6 +42,7 @@ The newsmagazines in the AAPB embody these principles and challenge the critique
 
 #### Newsmagazines in the 1980s:
 
+- 1980—[Louisiana: The State We're In](/catalog/cpb-aacip_17-03cz9qtv)
 - 1981—The Wisconsin Magazine: [Episode 818](/catalog/cpb-aacip_29-322bvtsp)
 - 1983—Front Street Weekly: [Episode 308](/catalog/cpb-aacip_153-48ffbpfc)
 - 1984—[Grass Roots Journal](/catalog/cpb-aacip_296-41mgqsfq)
@@ -54,19 +55,19 @@ The newsmagazines in the AAPB embody these principles and challenge the critique
 
 #### Newsmagazines in the 1990s:
 
-- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
-- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
-- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
-- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
-- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
-- 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
-- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
-- 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
-- 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
-- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
-- 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
-- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
-- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
+- 1990—[Louisiana Conservationist Television](/catalog/cpb-aacip/17-90rr5zt9)
+- 1991—[Connecticut Newsweek](/catalog/cpb-aacip_398-77sn0b3x)
+- 1991—National Native News Special Features: Episodes [I](/catalog/cpb-aacip_206-37hqc3ck) and [II](/catalog/cpb-aacip_206-20sqvcvq)
+- 1993—[Marquee](/catalog/cpb-aacip_384-44pk0v59)
+- 1993—[Motorweek](/catalog/cpb-aacip_394-36547hkt)
+- 1993—[Upper Cumberland Camera](/catalog/cpb-aacip_23-17qnkbzw)
+- 1994—[Warm Springs Program](/catalog/cpb-aacip_204-913n635k)
+- 1994—[Our People and Mother Earth](/catalog/cpb-aacip_204-6986710z)
+- 1995—[NewsNight Minnesota](/catalog/cpb-aacip_77-03qvbr4c)
+- 1995—North Carolina Now: [First Anniversary Broadcast](/catalog/cpb-aacip_129-19s1rtd4), [Interview with Dr. Charles Van Der Horst](/catalog/cpb-aacip_129-31cjt50j) and [Episodes 253](/catalog/cpb-aacip_129-02c86bqf) 
+- 1996—[City Arts](/catalog/cpb-aacip_75-01pg4hg3)
+- 1997—North Carolina Now: [Episode 294](/catalog/cpb-aacip_129-60cvdz6g)
+- 1999—[NewsNight Maryland](/catalog/cpb-aacip_394-67jq2kng)
 
 #### Newsmagazines of the 2000s:
 
