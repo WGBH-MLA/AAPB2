@@ -19,7 +19,7 @@ AAPB contains footage from the very first PBL program, which premiered on Novemb
 
 Another first found in the archive is the [premiere](/catalog/cpb-aacip_62-5m6251fv96) of *Black Journal*, an early NET newsmagazine series hosted by Lou House. *Black Journal* aimed “to report and review the events, the dreams, the dilemmas of black America and black Americans” and was created in response to the relegation of African Americans as only appearing on television through breaking news coverage. *Black Journal* instead addressed “everyday issues, from health to family and culture to politics,” and its magazine structure enabled producers to tie-in different stories into one hour-long installment each month.[<sup>8</sup>](/exhibits/newsmagazines/notes#8) 
 
-AAPB also includes an episode of KQED’s [*Newspaper of the Air*](/catalog/cpb-aacip_55-8605rchq), “a unique experiment in television news presentation” that aired during a San Francisco newspaper strike and mimicked thumbing through the various sections of a newspaper. The success of the short-lived *Newspaper of the Air* led Fred Friendly and the Ford Foundation to award grants to KQED for continued news programming and to WJCT, Jacksonville, Florida, KETC St. Louis, and New Hampshire Network to develop newsmagazines in 1968.[<sup>9</sup>](/exhibits/newsmagazines/notes#9) KQED came up with [*Newsroom*](/catalog/cpb-aacip_55-06sxmj0w), which prompted other stations to follow suit. The KERA-TV *Newsroom* in Texas hired newspaper reporter Jim Lehrer in 1970, whose later show, the [*MacNeil/Lehrer NewsHour*](/catalog/LINK), would explore the newsmagazine format in the 1980s.[<sup>10</sup>](/exhibits/newsmagazines/notes#10)
+AAPB also includes an episode of KQED’s [*Newspaper of the Air*](/catalog/cpb-aacip_55-8605rchq), “a unique experiment in television news presentation” that aired during a San Francisco newspaper strike and mimicked thumbing through the various sections of a newspaper. The success of the short-lived *Newspaper of the Air* led Fred Friendly and the Ford Foundation to award grants to KQED for continued news programming and to WJCT, Jacksonville, Florida, KETC St. Louis, and New Hampshire Network to develop newsmagazines in 1968.[<sup>9</sup>](/exhibits/newsmagazines/notes#9) KQED came up with [*Newsroom*](/catalog/cpb-aacip_55-06sxmj0w), which prompted other stations to follow suit. The KERA-TV *Newsroom* in Texas hired newspaper reporter Jim Lehrer in 1970, whose later show, the [*MacNeil/Lehrer NewsHour*](/catalog/cpb-aacip_507-1g0ht2gv3t), would explore the newsmagazine format in the 1980s.[<sup>10</sup>](/exhibits/newsmagazines/notes#10)
 
 ### *The Great American Dream Machine* and *The 51st State* 
 If there’s one thread that weaves these various strands together, it’s PBS’s first magazine show, *The Great American Dream Machine*. David Silver, of *What’s Happening, Mr. Silver?*, and Alvin Perlmutter, who initially produced *Black Journal*, both collaborated on *Dream Machine*. Likewise, James Day, general manager at KQED during the *Newspaper of the Air* days (and afterwards the president of NET), greenlit the show. A two-part [WNET seminar](/catalog/cpb-aacip_75-79h44rz7) in AAPB features Day, alongside Perlmutter and another newsmag pioneer, Jack Willis, reminiscing about the format’s development. Coming full circle, Willis ended up producing a later series entitled [*The 51st State*](/catalog/cpb-aacip_75-18dfn4vw) from 1972-1976. The program is a perfect example of the fusion between the probing documentary journalism of Murrow and Friendly and the short, successive segments of shows like *The Great American Dream Machine*. All of these experimental programs would precipitate later mainstream production of newsmagazines into the 1980s, 1990s, and 2000s.
@@ -40,22 +40,6 @@ If there’s one thread that weaves these various strands together, it’s PBS�
 - 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
 - 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
 - 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
-- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
-
-#### Keep Exploring— More Online Exhibits:
-
-
-- [The Civil Rights Act of 1964: A Long Struggle for Freedom](http://www.loc.gov/exhibits/civil-rights-act/): This exhibit by the Library of Congress “explores the events that shaped the civil rights movement, as well as the far-reaching impact the act had on a changing society.” The exhibition includes “archival footage of the era, as well as contemporary interviews with civil rights leaders and activists reflecting on the civil rights era.”
-
-- [The Civil Rights Movement in The Bay Area](https://www.google.com/culturalinstitute/beta/exhibit/ARtzEd5p): This exhibit from the Bancroft Library at the University of California, Berkeley documents the civil rights movement within California “through photographs and news stories from the News-Call Bulletin Newspaper during the period 1960-1965."
-
-- [Voices of Civil Rights](https://www.loc.gov/exhibits/civilrights/index.html): Through images and quotes, this exhibit by the Library of Congress provides insight into the individual voices of the civil rights movement.
-
-- [Hispanic Americans: Politics and Community, 1970s-Present](https://calisphere.org/exhibitions/61/hispanic-americans-politics/): This 2005 exhibit from the University of California features the artwork, images, and moments from the Chicano and the La Raza movements.
-
-- [Black Power! The Movement, The Legacy](https://www.google.com/culturalinstitute/beta/exhibit/hwIiQS8vVfQiLQ): This exhibit from the Schomburg Center for Research in Black Culture explores the Black Power movement's impact on American life through photography.
-
-- [New Mexico Navajo Protest, 1974](https://exhibits.stanford.edu/fitch/browse/new-mexico-navajo-protest-1974): This collection from Stanford University provides images from 1974 Navajo protests. These protests were sparked after white teenagers, who attacked and killed three Navajo individuals, only had to attend reform school for their crimes.
-
+- 1984—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-1g0ht2gv3t)
 
 #### Next: [Quintessential Newsmagazines](/exhibits/newsmagazines/definitive-newsmags)
