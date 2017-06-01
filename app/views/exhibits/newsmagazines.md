@@ -4,7 +4,7 @@
 
 ## Summary
 
-![Anti-Vietnam Protest at Pentagon](https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Cover.jpg "Anti-Vietnam Protest at Pentagon")
+![Front Street Weekly news anchors preparing behind the scenes](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "Front Street Weekly news anchors preparing behind the scenes")
 
 What’s a newsmagazine? Though the term may seem unfamiliar, newsmagazines number among the most successful television and radio programs in recent history. Taking a cue from both commercial and noncommercial precedents, independent public broadcasting stations began to adopt the format during the 1970s. The newsmagazine has since persisted on public media as an alternative approach to mainstream, profit-driven news production. TITLE OF EXHIBIT examines both the content and structure of newsmagazines, and situates the format within the context of how our public broadcasting system has evolved since the Public Broadcasting Act was signed into law in 1967.
 
