@@ -41,17 +41,50 @@ The newsmagazines in the AAPB embody these tenets and challenge the critique tha
 - 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
 - 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
 
-#### Keep Exploring— More Online Exhibits:
+#### Newsmagazines of the 1980s:
 
+- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
+- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
+- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
+- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
+- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
+- 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
+- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
+- 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
+- 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
+- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
+- 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
+- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
+- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
 
-- [The Civil Rights Act of 1964: A Long Struggle for Freedom](http://www.loc.gov/exhibits/civil-rights-act/): This exhibit by the Library of Congress “explores the events that shaped the civil rights movement, as well as the far-reaching impact the act had on a changing society.” The exhibition includes “archival footage of the era, as well as contemporary interviews with civil rights leaders and activists reflecting on the civil rights era.”
+#### Newsmagazines of the 1990s:
 
-- [The Civil Rights Movement in The Bay Area](https://www.google.com/culturalinstitute/beta/exhibit/ARtzEd5p): This exhibit from the Bancroft Library at the University of California, Berkeley documents the civil rights movement within California “through photographs and news stories from the News-Call Bulletin Newspaper during the period 1960-1965."
+- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
+- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
+- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
+- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
+- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
+- 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
+- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
+- 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
+- 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
+- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
+- 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
+- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
+- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
 
-- [Voices of Civil Rights](https://www.loc.gov/exhibits/civilrights/index.html): Through images and quotes, this exhibit by the Library of Congress provides insight into the individual voices of the civil rights movement.
+#### Newsmagazines of the 2000s:
 
-- [Hispanic Americans: Politics and Community, 1970s-Present](https://calisphere.org/exhibitions/61/hispanic-americans-politics/): This 2005 exhibit from the University of California features the artwork, images, and moments from the Chicano and the La Raza movements.
-
-- [Black Power! The Movement, The Legacy](https://www.google.com/culturalinstitute/beta/exhibit/hwIiQS8vVfQiLQ): This exhibit from the Schomburg Center for Research in Black Culture explores the Black Power movement's impact on American life through photography.
-
-- [New Mexico Navajo Protest, 1974](https://exhibits.stanford.edu/fitch/browse/new-mexico-navajo-protest-1974): This collection from Stanford University provides images from 1974 Navajo protests. These protests were sparked after white teenagers, who attacked and killed three Navajo individuals, only had to attend reform school for their crimes.
+- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
+- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
+- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
+- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
+- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
+- 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
+- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
+- 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
+- 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
+- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
+- 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
+- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
+- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
