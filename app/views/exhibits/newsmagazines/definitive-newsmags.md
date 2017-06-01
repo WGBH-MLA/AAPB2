@@ -19,6 +19,8 @@ While many programs treaded soft news territory, other series collapsed both ent
 
 Likewise, [*Louisiana: The State We’re In*](/catalog/cpb-aacip/_17-03cz9qtv), the longest running statewide newsmagazine in Louisiana, was initially designed to provide coverage of the state’s legislature. Beth Courtney, the show’s creator and eventual Executive Producer, decided on a magazine format to accommodate soft features, which she thought would assist in attracting new viewers and punctuate the show’s in-depth reporting about government law-making and policy.[<sup>15</sup>](/exhibits/newsmagazines/notes#15) AAPB holds many episodes of this 40-year-old program, including its [pilot episode](/catalog/cpb-aacip_17-58pc94tq), as well as a more recent episode from 2016 that [reviews the top stories from the previous year](/catalog/cpb-aacip_509-f18sb3xn1x).
 
+![Louisiana: The State We're In, pilot episode, 1976](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image4.jpg "Louisiana: The State We're In, pilot episode, 1976") ![Louisiana: The State We're In, 2016](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg "Louisiana: The State We're In, 2016")
+
 Despite differences across topics and themes, all of the newsmagazines in [title of exhibit] demonstrate an interest in prioritizing local news and communities. This local emphasis is representative of the broader public broadcasting ethos established by the Public Broadcasting Act of 1967. The act states, “public television and radio stations...constitute valuable local community resources for utilizing electronic media to address national concerns and solve local problems through community programs” and that,
 
 > **“it furthers the general welfare to encourage public telecommunications services which will be responsive to the interests of people both in particular localities and throughout the United States.”**[<sup>16</sup>](/exhibits/newsmagazines/notes#16)
@@ -29,19 +31,13 @@ The newsmagazines in the AAPB embody these tenets and challenge the critique tha
 
 #### Newsmagazines of the 1970s:
 
-- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
-- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
-- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
-- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
-- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
-- 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
-- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
-- 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
-- 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
-- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
-- 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
-- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
-- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
+- 1970s—WGBH Journal: [Interview with Bobby Seale, Skilled Jobs For Women, and Unconventional Teaching Aids](/catalog/cpb-aacip_15-50gtj5fg) and [The Portuguese Community in Cambridge and Somerville, Interview with Victor Sidel, and News of the Day with Louis Lyons](/catalog/cpb-aacip_15-13zs7rgg)
+- 1976—[WGBH's Pantechnicon](/catalog/cpb-aacip_15-000005vm)
+- 1976—Louisiana: The State We’re In: [pilot episode](/catalog/cpb-aacip_17-58pc94tq)
+- 1977—Assignment Iowa: [Episode 309: Northeast Iowa](/catalog/cpb-aacip_37-375tb64g) 
+- 1978—Assignment Iowa: [Episode 407: Greene County Fair](/catalog/cpb-aacip_37-13zs7jg4)
+- 1978—[57 Reports](/catalog/cpb-aacip_114-02c8673p)
+- 1979—Louisiana: The State We’re In: [East Baton Rouge Parish Teachers' Strike](/catalog/cpb-aacip_17-97xktqjf)
 
 #### Newsmagazines of the 1980s:
 
