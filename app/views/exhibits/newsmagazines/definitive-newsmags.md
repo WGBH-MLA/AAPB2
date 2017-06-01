@@ -57,6 +57,7 @@ The newsmagazines in the AAPB embody these principles and challenge the critique
 
 - 1990—[Louisiana Conservationist Television](/catalog/cpb-aacip/17-90rr5zt9)
 - 1991—[Connecticut Newsweek](/catalog/cpb-aacip_398-77sn0b3x)
+- 1991—[OnTV](/catalog/cpb-aacip_29-01bk3jzs)
 - 1991—National Native News Special Features: Episodes [I](/catalog/cpb-aacip_206-37hqc3ck) and [II](/catalog/cpb-aacip_206-20sqvcvq)
 - 1993—[Marquee](/catalog/cpb-aacip_384-44pk0v59)
 - 1993—[Motorweek](/catalog/cpb-aacip_394-36547hkt)
@@ -69,18 +70,13 @@ The newsmagazines in the AAPB embody these principles and challenge the critique
 - 1997—North Carolina Now: [Episode 294](/catalog/cpb-aacip_129-60cvdz6g)
 - 1999—[NewsNight Maryland](/catalog/cpb-aacip_394-67jq2kng)
 
-#### Newsmagazines of the 2000s:
+#### Newsmagazines in the 2000s:
 
-- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
-- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
-- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
-- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
-- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
-- 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
-- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
-- 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
-- 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
-- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
-- 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
-- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
-- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
+- 2002—New York Voices: [Episode 202](/catalog/cpb-aacip_75-93gxddpx)
+- 2003—New York Voices: [Episode 317](/catalog/cpb-aacip_75-20sqvg65)
+- 2004—A Gulf Coast Journal: [Episode 208](/catalog/cpb-aacip_322-085hqd1x)
+- 2008—[Across Indiana](/catalog/cpb-aacip/200-225b008g)
+- 2009—A Gulf Coast Journal: [Episode 601](/catalog/cpb-aacip_322-515mkrv5)
+- 2009—[New York Now](/catalog/cpb-aacip_131-12893358)
+- 2016—Louisiana: The State We're In: [2015 Year in Review](/catalog/cpb-aacip_509-f18sb3xn1x)
+
