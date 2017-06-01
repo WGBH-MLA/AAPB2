@@ -1,4 +1,4 @@
-# The Process
+# Quintessential Newsmagazines
 
 1
 
