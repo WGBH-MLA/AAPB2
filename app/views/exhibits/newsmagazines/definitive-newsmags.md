@@ -29,9 +29,10 @@ The newsmagazines in the AAPB embody these tenets and challenge the critique tha
 
 #### Tour Our Resources:
 
-#### Newsmagazines of the 1970s:
+#### Newsmagazines in the 1970s:
 
-- 1970s—WGBH Journal: [Interview with Bobby Seale, Skilled Jobs For Women, and Unconventional Teaching Aids](/catalog/cpb-aacip_15-50gtj5fg) and [The Portuguese Community in Cambridge and Somerville, Interview with Victor Sidel, and News of the Day with Louis Lyons](/catalog/cpb-aacip_15-13zs7rgg)
+- 1970s—WGBH Journal: [Interview with Bobby Seale, Skilled Jobs For Women, and Unconventional Teaching Aids](/catalog/cpb-aacip_15-50gtj5fg)
+- 1970s—WGBH Journal: [The Portuguese Community in Cambridge and Somerville, Interview with Victor Sidel, and News of the Day with Louis Lyons](/catalog/cpb-aacip_15-13zs7rgg)
 - 1976—[WGBH's Pantechnicon](/catalog/cpb-aacip_15-000005vm)
 - 1976—Louisiana: The State We’re In: [pilot episode](/catalog/cpb-aacip_17-58pc94tq)
 - 1977—Assignment Iowa: [Episode 309: Northeast Iowa](/catalog/cpb-aacip_37-375tb64g) 
@@ -39,23 +40,19 @@ The newsmagazines in the AAPB embody these tenets and challenge the critique tha
 - 1978—[57 Reports](/catalog/cpb-aacip_114-02c8673p)
 - 1979—Louisiana: The State We’re In: [East Baton Rouge Parish Teachers' Strike](/catalog/cpb-aacip_17-97xktqjf)
 
-#### Newsmagazines of the 1980s:
+#### Newsmagazines in the 1980s:
 
-- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
-- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
-- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
-- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
-- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
-- 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
-- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
-- 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
-- 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
-- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
-- 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
-- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
-- 1980s—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-125q815737)
+- 1981—The Wisconsin Magazine: [Episode 818](/catalog/cpb-aacip_29-322bvtsp)
+- 1983—Front Street Weekly: [Episode 308](/catalog/cpb-aacip_153-48ffbpfc)
+- 1984—[Grass Roots Journal](/catalog/cpb-aacip_296-41mgqsfq)
+- 1984—[Kansas City Illustrated](/catalog/cpb-aacip_384-97xkszkg)
+- 1984—[Where We Are: News on Current Events in Unalaska](/catalog/cpb-aacip_59-40xpp1fv)
+- 1985—[Carolina Journal](/catalog/cpb-aacip_41-17qnkc9c)
+- 1987—The Wisconsin Magazine: [Episode 1323](/catalog/cpb-aacip_29-79h44svk)
+- 1988—[The Fairfield County Business Report](/catalog/cpb-aacip_398-0322815q)
+- 1988—Front Street Weekly: [Raw Footage of Studio Production](/catalog/cpb-aacip_153-1615f088)
 
-#### Newsmagazines of the 1990s:
+#### Newsmagazines in the 1990s:
 
 - 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
 - 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
