@@ -37,6 +37,7 @@ If there’s one thread that weaves these various strands together, it’s PBS�
 - 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
 - 1968—[Newspaper of the Air](/catalog/cpb-aacip_55-8605rchq)
 - 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
+- 1971—[Black Journal](/catalog/cpb-aacip_62-qf8jd4q486)
 - 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
 - 1975—[Newsroom](/catalog/cpb-aacip_55-06sxmj0w)
 - 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
