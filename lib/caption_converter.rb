@@ -44,7 +44,7 @@ class CaptionConverter
 
   def self.parse_srt(srt)
     SRT::File.parse(srt).tap do |parsed|
-      raise InvalidSRT.new(parsed.errors) unless parsed.errors.empty?
+      Rails.logger.warn(InvalidSRT.new(parsed.errors)) if parsed.errors.any?
     end
   end
 
