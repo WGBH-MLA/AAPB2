@@ -14,8 +14,8 @@ describe CaptionConverter do
       expect(parsed_srt.errors).to be_empty
     end
 
-    it 'raises an CaptionConverter::InvalidSRT error when given an invalid SRT string' do
-      expect { CaptionConverter.parse_srt(invalid_srt) }.to raise_error CaptionConverter::InvalidSRT
+    it 'returns nil when given an invalid SRT string' do
+      expect(CaptionConverter.parse_srt(invalid_srt)).to be_nil
     end
   end
 
