@@ -25,6 +25,25 @@ class TranscriptConverter
     end.to_xml.gsub("<?xml version=\"1.0\"?>\n", '')
   end
 
+  def self.text_to_html(text)
+    Nokogiri::XML::Builder.new do |x|
+      x.div(class: 'transcript') do
+        para_counter = 1
+        text.readlines.each do |line|
+          x.div(class: 'transcript-row') do
+            x.div(
+              id: "para#{para_counter}",
+              class: 'para'
+            ) do
+              x.text(line)
+            end
+          end
+          para_counter += 1
+        end
+      end
+    end.to_xml.gsub("<?xml version=\"1.0\"?>\n", '')
+  end
+
   def self.as_timestamp(s)
     if s.nil?
       Rails.logger.warn('Timestamp cannot be nil')
