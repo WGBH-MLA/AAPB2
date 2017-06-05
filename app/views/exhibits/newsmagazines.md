@@ -21,8 +21,9 @@ Digital Exhibits Intern, American Archive of Public Broadcasting
 ## Resources
 
 - [The Public Broadcasting Act of 1967](http://www.cpb.org/aboutpb/act)
-- [President Lyndon B. Johnson's Remarks on the Public Broadcasting Act](http://www.cpb.org/aboutpb/act/remarks)
+- President Lyndon B. Johnson's [Remarks on the Public Broadcasting Act](http://www.cpb.org/aboutpb/act/remarks)
 - [National Public Broadcasting Archives](http://www.lib.umd.edu/special/collections/massmedia/publicandeducationalbroadcasting), University of Maryland
+- NET (National Educational Television) [Collection](http://www.loc.gov/acq/devpol/colloverviews/television.html), Library of Congress 
 
 ## Main 
 
