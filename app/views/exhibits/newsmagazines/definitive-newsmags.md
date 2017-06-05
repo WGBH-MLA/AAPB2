@@ -4,7 +4,7 @@
 
 ## Summary
 
-![The Wisconsin Magazine, 1987](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibits_Newsmagazines_image3.jpg "The Wisconsin Magazine, 1987")
+![The Wisconsin Magazine, 1987](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg "The Wisconsin Magazine, 1987")
 
 By the 1980s, newsmagazines had become a staple of American television news broadcasting. The undercurrents set into motion by public broadcasting and the mass appeal of commercial bellwether *60 Minutes* contributed to the widespread production of magazine shows across the country. Independent stations from the [Aleutian islands](/catalog/cpb-aacip_59-40xpp1fv) to [New York City](/catalog/cpb-aacip_75-20sqvg65) began adopting the format, and both larger production centers like [WGBH](/catalog/cpb-aacip_15-15p8d7tg) in Boston and smaller, regional studios like [WCTE](/catalog/cpb-aacip_23-17qnkbzw) in Cookeville, Tennessee, were airing their own newsmags on a regular basis. Hundreds of magazine shows are represented in the AAPB, 38 of which are showcased here. These definitive programs illustrate how public broadcasting stations adapted the format to address different newsworthy topics, audiences, and themes in the decades following early newsmagazine experimentation. 
 
