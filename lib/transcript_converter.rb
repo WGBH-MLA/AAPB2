@@ -1,5 +1,6 @@
 require 'json'
 require 'nokogiri'
+require 'stringio'
 
 class TranscriptConverter
   def self.json_to_html(json)
@@ -29,7 +30,10 @@ class TranscriptConverter
     Nokogiri::XML::Builder.new do |x|
       x.div(class: 'transcript') do
         para_counter = 1
-        text.readlines.each do |line|
+        text.each_line do |line|
+          line = line.tr("\n", '')
+          next if line.nil? || line.empty?
+
           x.div(class: 'transcript-row') do
             x.div(
               id: "para#{para_counter}",

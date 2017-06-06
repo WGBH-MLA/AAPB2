@@ -1,10 +1,10 @@
 require 'open-uri'
-require 'transcript_converter'
+require_relative '../../lib/transcript_converter'
 
 class TranscriptFile
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/transcripts'.freeze
-  JSON_FILE = 'json'
-  TEXT_FILE = 'text'
+  JSON_FILE = 'json'.freeze
+  TEXT_FILE = 'text'.freeze
 
   attr_reader :id
 
@@ -17,11 +17,11 @@ class TranscriptFile
   end
 
   def text
-    @text ||= open(TranscriptFile.text_url(id))
+    @text ||= open(TranscriptFile.text_url(id)).read
   end
 
   def html
-    @html ||= get_html
+    @html ||= build_html
   end
 
   def file_present?
@@ -29,7 +29,7 @@ class TranscriptFile
   end
 
   def file_type
-    @file_type ||= get_file_type
+    @file_type ||= determine_file_type
   end
 
   def self.json_url(id)
@@ -46,6 +46,7 @@ class TranscriptFile
 
   def self.json_file_present?(id)
     return true if Net::HTTP.get_response(URI.parse(TranscriptFile.json_url(id))).code == '200'
+    false
   end
 
   def self.text_file_present?(id)
@@ -55,24 +56,19 @@ class TranscriptFile
 
   private
 
-  def get_file_type
-    if TranscriptFile.json_file_present?(id)
-      return TranscriptFile::JSON_FILE
-    elsif TranscriptFile.text_file_present?(id)
-      return TranscriptFile::TEXT_FILE
-    else
-      return nil
-    end
+  def determine_file_type
+    return TranscriptFile::JSON_FILE if TranscriptFile.json_file_present?(id)
+    return TranscriptFile::TEXT_FILE if TranscriptFile.text_file_present?(id)
+    nil
   end
 
-  def get_html
+  def build_html
     case file_type
     when TranscriptFile::JSON_FILE
-      TranscriptConverter.json_to_html(json)
+      return TranscriptConverter.json_to_html(json)
     when TranscriptFile::TEXT_FILE
-      TranscriptConverter.text_to_html(text)
-    else
-      nil
+      return TranscriptConverter.text_to_html(text)
     end
+    nil
   end
 end

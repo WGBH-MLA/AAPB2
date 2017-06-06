@@ -118,9 +118,9 @@ describe 'Catalog' do
           ['genres', 2, 'Interview', 3],
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 36, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
+          ['organization', 37, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 28]
+          ['access_types', 3, PBCore::ALL_ACCESS, 29]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -165,9 +165,9 @@ describe 'Catalog' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
             ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 24],
-            ['media_type', 'Moving+Image+OR+Sound', 24],
-            ['media_type', 'Moving+Image', 14]
+            ['media_type', 'Sound+OR+Moving+Image', 25],
+            ['media_type', 'Moving+Image+OR+Sound', 25],
+            ['media_type', 'Moving+Image', 15]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -183,11 +183,11 @@ describe 'Catalog' do
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
-          expect_count(2)
+          expect_count(3)
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(28)
+          expect_count(29)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -304,6 +304,7 @@ describe 'Catalog' do
                 ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv', 'Media Type: Moving Image', 'Access: '],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra', 'Media Type: other', 'Access: '],
                 ['Series: The Lost Year', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
+                ['Series: The MacNeil/Lehrer Ne', 'Date: 1983-10-13', 'Organization: NewsHour Productions', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
                  'Access: Online Reading Room'],
