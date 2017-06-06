@@ -6,7 +6,8 @@ require_relative '../../app/models/caption_file'
 describe 'Validated and plain PBCore' do
   pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
 
-  let(:pbc_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
+  let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
+  let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
   let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
 
   describe ValidatedPBCore do
@@ -200,7 +201,7 @@ describe 'Validated and plain PBCore' do
 
     describe 'PB Core document with transcript' do
       it 'has expected transcript attributes' do
-        pbc = PBCore.new(pbc_transcript)
+        pbc = PBCore.new(pbc_json_transcript)
         expected_attrs = {
           'id' => 'cpb-aacip_111-21ghx7d6',
           'player_aspect_ratio' => '4:3',
@@ -217,6 +218,16 @@ describe 'Validated and plain PBCore' do
         }
 
         expect(expected_attrs).to eq(attrs)
+      end
+
+      it 'returns the expected transcript_content for text transcript' do
+        pbc = PBCore.new(pbc_text_transcript)
+        expect(pbc.transcript_content).to include(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-507-0000000j8w-transcript.txt')))
+      end
+
+      it 'returns the expected transcript_content for json transcript' do
+        pbc = PBCore.new(pbc_json_transcript)
+        expect(JSON.parse(pbc.transcript_content)).to include(JSON.parse(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-111-21ghx7d6-transcript.json'))))
       end
     end
 
