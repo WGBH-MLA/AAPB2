@@ -199,7 +199,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     false
   end
   def transcript_content
-    return TranscriptFile.new(id).json if transcript_ready? && TranscriptFile.file_present?(id)
+    return TranscriptFile.new(id).json if transcript_ready? && TranscriptFile.json_file_present?(id)
+    return TranscriptFile.new(id).text if transcript_ready? && TranscriptFile.text_file_present?(id)
     return CaptionFile.new(id).json if CaptionFile.file_present?(id)
     nil
   end

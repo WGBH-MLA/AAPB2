@@ -1,6 +1,5 @@
 require 'json'
 require 'nokogiri'
-require 'stringio'
 
 class TranscriptConverter
   def self.json_to_html(json)
