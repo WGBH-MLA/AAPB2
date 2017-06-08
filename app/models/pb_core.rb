@@ -11,6 +11,7 @@ require_relative 'pb_core_instantiation'
 require_relative 'pb_core_name_role_affiliation'
 require_relative 'organization'
 require_relative '../../lib/formatter'
+require_relative '../../lib/caption_converter'
 
 class PBCore # rubocop:disable Metrics/ClassLength
   # rubocop:disable Style/EmptyLineBetweenDefs
@@ -280,7 +281,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       pre_existing = pre_existing_caption_annotation(doc_with_caption_flag)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
 
-      caption_body = parse_caption_body(caption_response.body)
+      caption_body = parse_caption_body(CaptionConverter.srt_to_text(caption_response.body))
 
       REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|

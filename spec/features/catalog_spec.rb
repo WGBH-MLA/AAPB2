@@ -118,9 +118,9 @@ describe 'Catalog' do
           ['genres', 2, 'Interview', 3],
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 37, 'WGBH+(MA)', 2], # tag ex and states mean lots of facet values.
+          ['organization', 37, 'WGBH+(MA)', 3], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 29]
+          ['access_types', 3, PBCore::ALL_ACCESS, 30]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -165,9 +165,9 @@ describe 'Catalog' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
             ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 25],
-            ['media_type', 'Moving+Image+OR+Sound', 25],
-            ['media_type', 'Moving+Image', 15]
+            ['media_type', 'Sound+OR+Moving+Image', 26],
+            ['media_type', 'Moving+Image+OR+Sound', 26],
+            ['media_type', 'Moving+Image', 16]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -187,7 +187,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(29)
+          expect_count(30)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -196,12 +196,12 @@ describe 'Catalog' do
                                     'Organization KQED (CA) Remove constraint Organization: KQED (CA)')
 
           click_link('WGBH (MA)')
-          expect_count(3)
+          expect_count(4)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Organization KQED (CA) OR WGBH (MA) Remove constraint Organization: KQED (CA) OR WGBH (MA)')
 
           all(:css, 'a.remove').first.click # KQED
-          expect_count(2)
+          expect_count(3)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Organization WGBH (MA) Remove constraint Organization: WGBH (MA)')
 
@@ -298,6 +298,7 @@ describe 'Catalog' do
                 ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ', 'Media Type: Sound', 'Access: '],
                 ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT', 'Media Type: other', 'Access: '],
                 ['Program: Bob Brozman; Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
+                ['Series: Dance for Camera; Program: Tzaddik; Episode Number: 102; Organization: WGBH; Media Type: Moving Image; Access: Accessible on locatio'],
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
                 ['Title: Dry Spell', 'Organization: KQED', 'Media Type: Moving Image', 'Access: '],
                 ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS', 'Media Type: Moving Image', 'Access: '],

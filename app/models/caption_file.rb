@@ -22,6 +22,10 @@ class CaptionFile
     @html ||= CaptionConverter.srt_to_html(srt)
   end
 
+  def text
+    @text ||= CaptionConverter.srt_to_text(srt)
+  end
+
   def captions_from_query(query)
     captions = Nokogiri::HTML(html).text
 

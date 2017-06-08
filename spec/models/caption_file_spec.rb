@@ -52,6 +52,13 @@ describe CaptionFile do
     end
   end
 
+  describe '#text' do
+    it 'returns caption text without timecodes' do
+      expect(caption_file_1.text).to include('male narrator: IN THE SUMMER OF 1957,')
+      expect(caption_file_1.text).not_to include('00:00:38,167 --> 00:00:40,033')
+    end
+  end
+
   describe '#captions_from_query' do
     it 'returns the caption from the beginning if query word is within first 200 characters' do
       caption = caption_file_2.captions_from_query(caption_query_one)

@@ -49,7 +49,7 @@ describe PBCoreIngester do
     Dir[glob].each do |fixture_path|
       expect { @ingester.ingest(path: fixture_path) }.not_to raise_error
     end
-    expect_results(29)
+    expect_results(30)
   end
 
   def expect_results(count)
