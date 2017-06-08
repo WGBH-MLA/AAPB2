@@ -37,6 +37,17 @@ class CaptionConverter
     end
   end
 
+  def self.srt_to_text(srt)
+    caption_text = []
+    parsed_srt = parse_srt(srt)
+
+    parsed_srt.lines.each do |line|
+      caption_text << line.text
+    end
+
+    caption_text.join(' ').tr('>>', '')
+  end
+
   def self.as_timestamp(s)
     if s.nil?
       Rails.logger.warn('Timestamp cannot be nil')
