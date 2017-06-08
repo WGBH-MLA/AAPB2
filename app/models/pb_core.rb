@@ -359,6 +359,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
                :title, :ci_ids, :instantiations, :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width, :player_aspect_ratio, :player_specs, :transcript_status, :transcript_content]
+
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
