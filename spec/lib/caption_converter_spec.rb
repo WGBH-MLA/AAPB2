@@ -33,15 +33,15 @@ describe CaptionConverter do
     end
   end
 
-<<<<<<< 767c2e8d65335dc5db93e95de0c4d02b9bf61348
   describe '.srt_to_text' do
     it 'converts the text from a caption to text' do
       expect(CaptionConverter.srt_to_text(srt)).to eq text
-=======
+    end
+  end
+
   describe '.srt_to_json' do
     it 'converts a caption in SRT format to JSON' do
       expect(JSON.parse(CaptionConverter.srt_to_json(srt))).to eq json
->>>>>>> Adds transcript to API controller
     end
   end
 end
