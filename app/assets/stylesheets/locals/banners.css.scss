@@ -23,22 +23,37 @@
 	.btn-featured-record:link,
 	.btn-featured-record:visited,
 	.btn-featured-record:active {
-            background: url(/site-ui/aapb-site-sprite.png) no-repeat -240px -675px;
-            background-color: #2b2a72;
-            color: #FFFFFF;
-            display: block;
-            line-height: 1.6em;
-            padding: 1em;
-        }
+      background: url(/site-ui/aapb-site-sprite.png) no-repeat -240px -675px;
+      background-color: #2b2a72;
+      color: #FFFFFF;
+      display: block;
+      line-height: 1.6em;
+      padding: 1em;
+      margin: 2em auto 0 auto;
+      max-width: 680px;
+  }
 
-        .btn-featured-record:hover {
-            background-color: #454ea0;
-        }
+  .btn-featured-record-small:link,
+  .btn-featured-record-small:visited,
+  .btn-featured-record-small:active {
+      background: url(/site-ui/aapb-site-sprite.png) no-repeat -240px -675px;
+      background-color: #2b2a72;
+      color: #FFFFFF;
+      display: block;
+      line-height: 1.6em;
+      padding: 1em;
+      margin: 2em auto 0 auto;
+      max-width: 680px;
+  }
 
-        .btn-featured-record .glyphicon {
-          float:left;
-          font-size:1.4em;
-          margin-right:.4em;
-          text-shadow: 0 1px 1px #000;
-        }
+  .btn-featured-record:hover {
+      background-color: #454ea0;
+  }
+
+  .btn-featured-record .glyphicon {
+    float:left;
+    font-size:1.4em;
+    margin-right:.4em;
+    text-shadow: 0 1px 1px #000;
+  }
 

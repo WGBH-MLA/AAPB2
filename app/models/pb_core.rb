@@ -184,6 +184,14 @@ class PBCore # rubocop:disable Metrics/ClassLength
     return 'Online Reading Room' if public?
     return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
   end
+  ORR_TRANSCRIPT = 'Online Reading Room Transcript'.freeze
+  ON_LOCATION_TRANSCRIPT = 'On Location Transcript'.freeze
+  INDEXING_TRANSCRIPT = 'Indexing Only Transcript'.freeze
+  def transcript_status
+    @transcript_status ||= xpath('/*/pbcoreAnnotation[@annotationType="Transcript Status"]')
+  rescue NoMatchError
+    nil
+  end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
   OTHER = 'other'.freeze
@@ -208,6 +216,21 @@ class PBCore # rubocop:disable Metrics/ClassLength
       xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
     rescue
       xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+    end
+  end
+  def player_aspect_ratio
+    @player_aspect_ratio ||= begin
+      instantiations.find { |i| !i.aspect_ratio.nil? }.aspect_ratio
+    rescue
+      '4:3'
+    end
+  end
+  def player_specs
+    case player_aspect_ratio
+    when '16:9'
+      [AAPB::PLAYER_WIDTH_NO_TRANSCRIPT_16_9, AAPB::PLAYER_HEIGHT_NO_TRANSCRIPT_16_9]
+    else
+      [AAPB::PLAYER_WIDTH_NO_TRANSCRIPT_4_3, AAPB::PLAYER_HEIGHT_NO_TRANSCRIPT_4_3]
     end
   end
   def digitized?
@@ -324,8 +347,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     ignores = [:text, :to_solr, :contribs, :img_src, :media_srcs, :captions_src, :transcript_src,
                :rights_code, :access_level, :access_types,
                :organization_pbcore_name, # internal string; not in UI
-               :title, :ci_ids, :instantiations,
-               :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width]
+               :title, :ci_ids, :instantiations, :outside_url, :reference_urls, :exhibits, :access_level_description, :img_height, :img_width, :player_aspect_ratio, :player_specs, :transcript_status]
     @text ||= (PBCore.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value

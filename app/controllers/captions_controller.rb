@@ -1,19 +1,18 @@
 class CaptionsController < ApplicationController
-  include Blacklight::Catalog
-
   def show
-    # For debugging:
-    #    render text: <<END
-    # 1
-    # 00:00:01,000 --> 00:00:03,000
-    # CAPTIONS CONTROLLER!!!
+    caption_file = CaptionFile.new(params[:id])
 
-    _response, document = fetch(params['id'])
-    captions = document['captions']
-    if captions
-      render text: captions
-    else
-      render nothing: true, status: :unauthorized
+    respond_to do |format|
+      format.html do
+        @captions_html = caption_file.html
+        render
+      end
+      format.vtt do
+        render text: caption_file.vtt
+      end
+      format.srt do
+        render text: caption_file.srt
+      end
     end
   end
 end

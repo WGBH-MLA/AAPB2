@@ -55,6 +55,14 @@ describe 'Catalog' do
     expect(page).to have_text('More information on this record is available.')
   end
 
+  def expect_transcript
+    expect(page).to have_css('.play-from-here')
+  end
+
+  def expect_no_transcript
+    expect(page).not_to have_css('.play-from-here')
+  end
+
   describe '#index' do
     it 'has facet messages' do
       visit '/catalog'
@@ -110,9 +118,9 @@ describe 'Catalog' do
           ['genres', 2, 'Interview', 3],
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 5],
-          ['organization', 34, 'WGBH+(MA)', 3], # tag ex and states mean lots of facet values.
+          ['organization', 37, 'WGBH+(MA)', 3], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 28]
+          ['access_types', 3, PBCore::ALL_ACCESS, 30]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -157,9 +165,9 @@ describe 'Catalog' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
             ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 24],
-            ['media_type', 'Moving+Image+OR+Sound', 24],
-            ['media_type', 'Moving+Image', 14]
+            ['media_type', 'Sound+OR+Moving+Image', 26],
+            ['media_type', 'Moving+Image+OR+Sound', 26],
+            ['media_type', 'Moving+Image', 16]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -175,11 +183,11 @@ describe 'Catalog' do
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
-          expect_count(2)
+          expect_count(3)
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(28)
+          expect_count(30)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -297,12 +305,14 @@ describe 'Catalog' do
                 ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv', 'Media Type: Moving Image', 'Access: '],
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra', 'Media Type: other', 'Access: '],
                 ['Series: The Lost Year', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
+                ['Series: The MacNeil/Lehrer Ne', 'Date: 1983-10-13', 'Organization: NewsHour Productions', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
                  'Access: Online Reading Room'],
                 ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
+                ['Title: Racing the Rez', 'Organization: Vision Maker Media', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH', 'Media Type: Sound', 'Access: '],
                 ['Title: The Scheewe Art Works', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
                 ['Program: The Sorting Test: 1', 'Organization: WUSF', 'Media Type: other', 'Access: '],
@@ -389,6 +399,16 @@ describe 'Catalog' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
       expect(page).to have_text('This record is featured in')
       expect_video(poster: s3_thumb('cpb-aacip_111-21ghx7d6'))
+    end
+
+    it 'has a transcript if expected' do
+      visit '/catalog/cpb-aacip_111-21ghx7d6'
+      expect_transcript
+    end
+
+    it 'has a transcript if expected' do
+      visit '/catalog/ccpb-aacip_508-g44hm5390k'
+      expect_no_transcript
     end
 
     describe 'access control' do

@@ -1,0 +1,160 @@
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+<pbcoreAssetDate dateType="Date">1983-10-13</pbcoreAssetDate>
+<pbcoreIdentifier source="AAPB Inventory ID">NH-WETA-4798</pbcoreIdentifier>
+<pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/507-0000000j8w</pbcoreIdentifier>
+<pbcoreIdentifier source="Sony Ci">53afea8c4e5e457ca289c6560fc67307</pbcoreIdentifier>
+<pbcoreTitle titleType="Series">The MacNeil/Lehrer NewsHour</pbcoreTitle>
+<pbcoreDescription descriptionType="Episode">
+This episode's headline: Clark at interior; Israeli ""Dollarization""; Nicaraguan Economy; Teen Suicide. The guests include DAN HALPERIN, Israeli Embassy; WILLIAM LEOGRANDE, American University; ROBERT DORNAN, Central American Freedom Alliance; In Philadelphia (Facilities: WHYY-TV): PAULETTE LOOMIS, Mother of Suicide Victim; In Boston (Facilities: WGBH-TV): HOLLY HICKLER, High School Teacher; In New York: Dr. CYNTHIA PFEFFER, Child Psychiatrist. Byline: In New York: ROBERT MacNEIL, Executive Editor; CHARLAYNE HUNTER-GAULT, National Correspondent; In Washington: JIM LEHRER, Associate Editor; JUDY WOODRUFF, Correspondent; Reports from NewsHour Correspondents: DON LANG, Viznews, in Jerusalem; KWAME HOLMAN, in Plano, Texas
+</pbcoreDescription>
+<pbcoreGenre source="AAPB Topical Genre" annotation="topic">Economics</pbcoreGenre>
+<pbcoreGenre source="AAPB Topical Genre" annotation="topic">Religion</pbcoreGenre>
+<pbcoreGenre source="AAPB Topical Genre" annotation="topic">Politics and Government</pbcoreGenre>
+<pbcoreInstantiation>
+<instantiationIdentifier source="NH Show Code">NH-0029</instantiationIdentifier>
+<instantiationPhysical>1 inch videotape</instantiationPhysical>
+<instantiationLocation>NH Storage Unit 370, Box NH-1983-1003-1025</instantiationLocation>
+<instantiationMediaType>Moving Image</instantiationMediaType>
+<instantiationGenerations>Master: preservation</instantiationGenerations>
+<instantiationDuration>01:00:00;00</instantiationDuration>
+<instantiationChannelConfiguration>Ch1: Mono; Ch2: None</instantiationChannelConfiguration>
+<instantiationAlternativeModes>n</instantiationAlternativeModes>
+</pbcoreInstantiation>
+<pbcoreInstantiation>
+<instantiationIdentifier source="NH Air Date">NH-19831013</instantiationIdentifier>
+<instantiationPhysical>3/4 inch videotape: U-matic</instantiationPhysical>
+<instantiationLocation>NH Storage Unit 370, Box NH-1983-0901-1001</instantiationLocation>
+<instantiationMediaType>Moving Image</instantiationMediaType>
+<instantiationGenerations>Copy: preservation</instantiationGenerations>
+<instantiationDuration>01:00:00;00</instantiationDuration>
+</pbcoreInstantiation>
+<pbcoreInstantiation>
+<instantiationIdentifier source="mediainfo">cpb-aacip-507-0000000j8w.mov</instantiationIdentifier>
+<instantiationDate dateType="encoded">2016-11-19</instantiationDate>
+<instantiationDigital>video/mp4</instantiationDigital>
+<instantiationStandard>QuickTime</instantiationStandard>
+<instantiationLocation>N/A</instantiationLocation>
+<instantiationMediaType>Moving Image</instantiationMediaType>
+<instantiationFileSize unitsOfMeasure="MiB">416</instantiationFileSize>
+<instantiationDataRate unitsOfMeasure="Kbps">970</instantiationDataRate>
+<instantiationTracks>1 video, 1 audio</instantiationTracks>
+<instantiationEssenceTrack>
+<essenceTrackType>video</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
+<essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
+<essenceTrackDataRate unitsOfMeasure="Kbps">800</essenceTrackDataRate>
+<essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+<essenceTrackBitDepth>8</essenceTrackBitDepth>
+<essenceTrackFrameSize>640 x 480</essenceTrackFrameSize>
+<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+<essenceTrackDuration>00:59:58</essenceTrackDuration>
+<essenceTrackLanguage>eng</essenceTrackLanguage>
+<essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
+<essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
+</instantiationEssenceTrack>
+<instantiationEssenceTrack>
+<essenceTrackType>audio</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
+<essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
+<essenceTrackDataRate unitsOfMeasure="Kbps">192</essenceTrackDataRate>
+<essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+<essenceTrackDuration>00:59:58</essenceTrackDuration>
+<essenceTrackLanguage>eng</essenceTrackLanguage>
+</instantiationEssenceTrack>
+<instantiationEssenceTrack>
+<essenceTrackType>other</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">3</essenceTrackIdentifier>
+<essenceTrackEncoding source="mediainfo">QuickTime TC</essenceTrackEncoding>
+<essenceTrackDuration>00:59:58</essenceTrackDuration>
+<essenceTrackLanguage>eng</essenceTrackLanguage>
+</instantiationEssenceTrack>
+<instantiationAnnotation annotationType="encoded by">Lavf56.4.101</instantiationAnnotation>
+</pbcoreInstantiation>
+<pbcoreInstantiation>
+<instantiationIdentifier source="mediainfo">cpb-aacip-507-0000000j8w.mp4</instantiationIdentifier>
+<instantiationIdentifier source="Sony Ci">53afea8c4e5e457ca289c6560fc67307</instantiationIdentifier>
+<instantiationIdentifier source="MD5 checksum">8b8e3a79f87bde2a520bd0f7d625576a</instantiationIdentifier>
+<instantiationDate dateType="encoded">2016-11-19</instantiationDate>
+<instantiationDigital>video/mp4</instantiationDigital>
+<instantiationStandard>Base Media</instantiationStandard>
+<instantiationLocation>N/A</instantiationLocation>
+<instantiationMediaType>Moving Image</instantiationMediaType>
+<instantiationFileSize unitsOfMeasure="MiB">362</instantiationFileSize>
+<instantiationDataRate unitsOfMeasure="Kbps">844</instantiationDataRate>
+<instantiationTracks>1 video, 1 audio</instantiationTracks>
+<instantiationEssenceTrack>
+<essenceTrackType>video</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
+<essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
+<essenceTrackDataRate unitsOfMeasure="Kbps">711</essenceTrackDataRate>
+<essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+<essenceTrackBitDepth>8</essenceTrackBitDepth>
+<essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+<essenceTrackDuration>00:59:58</essenceTrackDuration>
+<essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
+<essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
+</instantiationEssenceTrack>
+<instantiationEssenceTrack>
+<essenceTrackType>audio</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
+<essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
+<essenceTrackDataRate unitsOfMeasure="Kbps">129</essenceTrackDataRate>
+<essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+<essenceTrackDuration>00:59:58</essenceTrackDuration>
+</instantiationEssenceTrack>
+<instantiationAnnotation annotationType="encoded by">Lavf56.4.101</instantiationAnnotation>
+<instantiationAnnotation annotationType="Preservation LTO">WN0001</instantiationAnnotation>
+<instantiationAnnotation annotationType="Preservation Disk">ABDISK0002</instantiationAnnotation>
+</pbcoreInstantiation>
+<pbcoreInstantiation>
+<instantiationIdentifier source="mediainfo">cpb-aacip-507-0000000j8w.mxf</instantiationIdentifier>
+<instantiationDate dateType="encoded">2016-11-18</instantiationDate>
+<instantiationDigital>application/mxf</instantiationDigital>
+<instantiationStandard>OP-1a</instantiationStandard>
+<instantiationLocation>N/A</instantiationLocation>
+<instantiationMediaType>Moving Image</instantiationMediaType>
+<instantiationFileSize unitsOfMeasure="GiB">40</instantiationFileSize>
+<instantiationDataRate unitsOfMeasure="Mbps">95</instantiationDataRate>
+<instantiationTracks>1 video, 1 audio</instantiationTracks>
+<instantiationEssenceTrack>
+<essenceTrackType>video</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
+<essenceTrackStandard>NTSC</essenceTrackStandard>
+<essenceTrackEncoding source="mediainfo" ref="http://www.morgan-multimedia.com/JPEG 2000/">JPEG 2000</essenceTrackEncoding>
+<essenceTrackDataRate unitsOfMeasure="Mbps">90</essenceTrackDataRate>
+<essenceTrackFrameRate>59.940</essenceTrackFrameRate>
+<essenceTrackBitDepth>10</essenceTrackBitDepth>
+<essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+<essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+<essenceTrackDuration>00:59:58</essenceTrackDuration>
+<essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
+<essenceTrackAnnotation annotationType="subsampling">4:2:2</essenceTrackAnnotation>
+</instantiationEssenceTrack>
+<instantiationEssenceTrack>
+<essenceTrackType>audio</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">3</essenceTrackIdentifier>
+<essenceTrackEncoding source="mediainfo">PCM</essenceTrackEncoding>
+<essenceTrackDataRate unitsOfMeasure="608">4</essenceTrackDataRate>
+<essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+<essenceTrackBitDepth>24</essenceTrackBitDepth>
+<essenceTrackDuration>00:59:58</essenceTrackDuration>
+</instantiationEssenceTrack>
+<instantiationEssenceTrack>
+<essenceTrackType>other</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
+<essenceTrackEncoding source="mediainfo">MXF TC</essenceTrackEncoding>
+</instantiationEssenceTrack>
+<instantiationEssenceTrack>
+<essenceTrackType>other</essenceTrackType>
+<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
+<essenceTrackEncoding source="mediainfo">SMPTE TC</essenceTrackEncoding>
+</instantiationEssenceTrack>
+<instantiationAnnotation annotationType="encoded by">OpenCube MXFTk Advanced 2.6.4.0.1</instantiationAnnotation>
+</pbcoreInstantiation>
+<pbcoreAnnotation annotationType="Project Code">WN0001</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="Transcript Status">Online Reading Room Transcript</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="last_modified">2016-06-01 15:08:53</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="organization">NewsHour Productions</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

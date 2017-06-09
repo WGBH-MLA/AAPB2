@@ -3,36 +3,44 @@
   <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
   <!-- video-js support for IE 8 -->
   <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+  <!-- Need VideoJS for our player.js file -->
+  <script src="/assets/player.js"></script>
 <% end %>
 
-<%=
-  @pbcore.media_srcs.map do |media_src|
-    media = @pbcore.video? ? 'video' : 'audio'
-    content_tag(media,
-                controls: true,
-                "class" => "video-js",
-                oncontextmenu: 'return false;', 
-                preload: 'auto', width: AAPB::PLAYER_WIDTH, height: AAPB::PLAYER_HEIGHT,
-                crossorigin: 'with-credentials',
-                :"data-setup" => '{}',
-                poster: @pbcore.img_src) do %>
+<div class="row">
+  <div class="col-sm-12 col-md-8 player col-md-offset-2">
+    <section class="videocontent">
+    <%=
+      @pbcore.media_srcs.map do |media_src|
+        media = @pbcore.video? ? 'video' : 'audio'
+        content_tag(media,
+                    controls: true,
+                    "class" => "video-js vjs-default-skin vjs-fluid",
+                    "id" => "player_media",
+                    "aria-label" => "video player",
+                    oncontextmenu: 'return false;',
+                    preload: 'auto',
+                    crossorigin: 'with-credentials',
+                    :"data-setup" => '{}',
+                    poster: @pbcore.img_src) do %>
 
-      <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+          <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
-      <% if @pbcore.captions_src %>
-        <track kind="captions" src="/transcripts/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
-      <% end %>
-      <%
-    end
-  end.join().html_safe()
-%>
-
-<%=
-  tag('iframe',
-    src: "/transcripts/#{@pbcore.id}",
-    id: 'transcript',
-    width: AAPB::PLAYER_WIDTH,
-    height: AAPB::PLAYER_HEIGHT.to_i / 2,
-    frameBorder: 0
-  ) if params[:transcript]
-%>
+          <% if @pbcore.captions_src %>
+            <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+          <% end %>
+          <%
+        end
+      end.join().html_safe()
+    %>
+    </section>
+    <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
+      <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
+      <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
+        <span class="glyphicon glyphicon-star"></span>
+        <strong><%= exhibit_caption %></strong>
+      </a>
+    <% end %>
+  </div>
+  <%= render partial: 'transcript' %>
+</div>

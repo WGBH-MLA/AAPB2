@@ -1,0 +1,28 @@
+<div class="page-header catalog-page-header row">
+  <div class="col-md-2 col-sm-2 hidden-xs record-title">
+    <p>Record</p>
+  </div>
+  <div class="col-md-10 col-sm-10 col-xs-12 catalog-title">
+    <h1>
+    <%=
+      # "title || @page_title" doesn't work
+      if defined? title
+        title
+      else
+        @page_title
+      end %>
+    </h1>
+  </div>
+</div>
+
+<div class="row">
+  <div class="region clearfix">
+
+    <!-- START: Main Column -->
+    <div class="col-md-12">
+      <%= main %>
+    </div>
+    <!-- END: Main Column -->
+
+  </div>
+</div>
