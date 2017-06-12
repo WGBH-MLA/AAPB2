@@ -1,5 +1,5 @@
 require 'open-uri'
-require 'caption_converter'
+require_relative '../../lib/caption_converter'
 
 class CaptionFile
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze
@@ -24,6 +24,10 @@ class CaptionFile
 
   def text
     @text ||= CaptionConverter.srt_to_text(srt)
+  end
+
+  def json
+    @json ||= CaptionConverter.srt_to_json(srt)
   end
 
   def captions_from_query(query)
@@ -59,5 +63,10 @@ class CaptionFile
 
   def self.srt_filename(id)
     "#{id}.srt1.srt"
+  end
+
+  def self.file_present?(id)
+    return true if Net::HTTP.get_response(URI.parse(CaptionFile.srt_url(id))).code == '200'
+    false
   end
 end

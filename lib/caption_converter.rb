@@ -1,5 +1,6 @@
 require 'srt'
 require 'nokogiri'
+require 'json'
 
 class CaptionConverter
   def self.srt_to_vtt(srt)
@@ -46,6 +47,25 @@ class CaptionConverter
     end
 
     caption_text.join(' ').tr('>>', '')
+  end
+
+  def self.srt_to_json(srt)
+    parsed_srt = parse_srt(srt)
+    json = {
+      'language'  => 'en-US',
+      'parts'     => []
+    }
+
+    # Forces encoding to UTF-8 to catch when SRT gem returns ASCII-8BIT
+    parsed_srt.lines.each do |line|
+      json['parts'] << {
+        'text'        => line.text.join(' ').to_s.force_encoding('ISO-8859-1').encode('UTF-8'),
+        'start_time'  => line.start_time.to_s.force_encoding('ISO-8859-1').encode('UTF-8'),
+        'end_time'    => line.end_time.to_s.force_encoding('ISO-8859-1').encode('UTF-8')
+      }
+    end
+
+    JSON.generate(json)
   end
 
   def self.as_timestamp(s)

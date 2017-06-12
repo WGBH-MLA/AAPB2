@@ -12,11 +12,14 @@ describe CaptionFile do
   let(:srt_example_1) { File.read('./spec/fixtures/captions/srt/example_1.srt') }
   let(:vtt_example_1) { File.read('./spec/fixtures/captions/web_vtt/example_1.vtt') }
   let(:html_example_1) { File.read('./spec/fixtures/captions/html/example_1.html') }
+  let(:json_example_1) { JSON.parse(File.read('./spec/fixtures/captions/json/example_1.json')) }
   let(:caption_file_1) { CaptionFile.new(id_1) }
 
   let(:id_2) { '1a2b' }
   let(:caption_file_2) { CaptionFile.new(id_2) }
   let(:srt_example_2) { File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt') }
+
+  let(:id_3) { 'invalid123' }
 
   let(:query_with_punctuation) { 'president, eisenhower: .;' }
   let(:query_with_stopwords) { 'the president eisenhower stopworda ' }
@@ -32,6 +35,7 @@ describe CaptionFile do
     # ./spec/fixtures/srt/ with the same filename they have in S3.
     WebMock.stub_request(:get, CaptionFile.srt_url(id_1)).to_return(body: srt_example_1)
     WebMock.stub_request(:get, CaptionFile.srt_url(id_2)).to_return(body: srt_example_2)
+    WebMock.stub_request(:get, CaptionFile.srt_url(id_3)).to_return(status: [500, 'Internal Server Error'])
   end
 
   describe '#srt' do
@@ -56,6 +60,12 @@ describe CaptionFile do
     it 'returns caption text without timecodes' do
       expect(caption_file_1.text).to include('male narrator: IN THE SUMMER OF 1957,')
       expect(caption_file_1.text).not_to include('00:00:38,167 --> 00:00:40,033')
+    end
+  end
+
+  describe '#json' do
+    it 'returns the captions formatted as JSON' do
+      expect(JSON.parse(caption_file_1.json)).to eq(json_example_1)
     end
   end
 
@@ -104,6 +114,16 @@ describe CaptionFile do
 
     it 'uses stopwords.txt to remove words not used in actual search' do
       expect(CaptionFile.clean_query_for_captions(query_with_stopwords)).to eq(test_array)
+    end
+  end
+
+  describe '.file_present?' do
+    it 'returns true for an id with a file on S3' do
+      expect(CaptionFile.file_present?(id_2)).to eq(true)
+    end
+
+    it 'returns false for an id without a file on S3' do
+      expect(CaptionFile.file_present?(id_3)).to eq(false)
     end
   end
 

@@ -36,6 +36,12 @@ describe TranscriptFile do
     end
   end
 
+  describe '#text' do
+    it 'returns a text transcript retrieved from S3' do
+      expect(text_transcript.text).to include(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-507-0000000j8w-transcript.txt')))
+    end
+  end
+
   describe '#html' do
     it 'returns HTML transcript created from JSON file' do
       expect(Nokogiri::XML(json_transcript.html).errors.empty?).to eq(true)

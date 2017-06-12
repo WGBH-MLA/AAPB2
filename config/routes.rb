@@ -34,6 +34,7 @@ Rails.application.routes.draw do
 
   match 'api', to: 'api#index', via: [:get, :options]
   match 'api/:id', to: 'api#show', via: [:get, :options]
+  match 'api/:id/transcript', to: 'api#transcript', via: [:get, :options], defaults: { format: :json }
   # 'via' only makes a difference when server is in production or test modes.
 
   %w(404 500).each do |status_code|
