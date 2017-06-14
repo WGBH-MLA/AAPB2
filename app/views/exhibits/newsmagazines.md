@@ -12,7 +12,7 @@ What’s a newsmagazine? Though the term may seem unfamiliar, newsmagazines numb
 
 ## Author
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Janowiecki.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/adeanheadshot.jpg"/>
 
 ### Alejandra Dean
 Digital Exhibits Intern, American Archive of Public Broadcasting
@@ -25,7 +25,6 @@ Digital Exhibits Intern, American Archive of Public Broadcasting
 - [National Public Broadcasting Archives](http://www.lib.umd.edu/special/collections/massmedia/publicandeducationalbroadcasting), University of Maryland
 - NET (National Educational Television) [Collection](http://www.loc.gov/rr/mopic/tvcoll.html#tele), Library of Congress 
 - [NET Collection Catalog Project](http://americanarchive.org/about-the-american-archive/projects/net-catalog), AAPB
-- The Television Academy Foundation "The Interviews" series: [*The Great American Dream Machine*](http://www.emmys.com/foundation/interviews/shows/great-american-dream-machine)  
 
 ## Main 
 
