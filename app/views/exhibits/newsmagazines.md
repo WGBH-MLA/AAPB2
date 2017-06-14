@@ -23,7 +23,9 @@ Digital Exhibits Intern, American Archive of Public Broadcasting
 - [The Public Broadcasting Act of 1967](http://www.cpb.org/aboutpb/act)
 - President Lyndon B. Johnson's [Remarks on the Public Broadcasting Act](http://www.cpb.org/aboutpb/act/remarks)
 - [National Public Broadcasting Archives](http://www.lib.umd.edu/special/collections/massmedia/publicandeducationalbroadcasting), University of Maryland
-- NET (National Educational Television) [Collection](http://www.loc.gov/acq/devpol/colloverviews/television.html), Library of Congress 
+- NET (National Educational Television) [Collection](http://www.loc.gov/rr/mopic/tvcoll.html#tele), Library of Congress 
+- [NET Collection Catalog Project](http://americanarchive.org/about-the-american-archive/projects/net-catalog), AAPB
+- The Television Academy Foundation "The Interviews" series: [*The Great American Dream Machine*](http://www.emmys.com/foundation/interviews/shows/great-american-dream-machine)  
 
 ## Main 
 
