@@ -36,6 +36,8 @@
 
 <a name="16"></a><sup>16</sup> "About CPB."
 
-<a name="17"></a><sup>17</sup> Steve Behrens, "KTCA's NewsNight Minnesota: Under This Newscast's Slick Surface, Producers Removed the Pathology of TV News," *Current*, December 18, 1995, https://current.org/wp-content/uploads/archive-site/prog/prog523n.html.
+<a name="17"></a><sup>17</sup> "Where Public Television Means More Than a Political Football," *New York Times*. April 17, 1995, C9.
+
+<a name="18"></a><sup>18</sup> Steve Behrens, "KTCA's NewsNight Minnesota: Under This Newscast's Slick Surface, Producers Removed the Pathology of TV News," *Current*, December 18, 1995, https://current.org/wp-content/uploads/archive-site/prog/prog523n.html.
 
 ## Main
