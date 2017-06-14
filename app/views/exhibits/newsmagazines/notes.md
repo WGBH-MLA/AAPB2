@@ -20,7 +20,7 @@
 
 <a name="8"></a><sup>8</sup> Al Perlmutter, "The Origin of Black Journal," WNET, accessed June 12, 2017, http://www.thirteen.org/broadcastingwhileblack/uncategorized/debut-episode-of-black-journal-1968/.
 
-<a name="9"></a><sup>9</sup> “Ford Fund Grants $5-Million to Encourage New TV Shows,” *New York Times*. June 11, 1968, 76.
+<a name="9"></a><sup>9</sup> "Ford Fund Grants $5-Million to Encourage New TV Shows," *New York Times*. June 11, 1968, 76.
 
 <a name="10"></a><sup>10</sup> "'MacNeil-Lehrer Report' to Expand?" *Los Angeles Times*, December 28, 1981. 
 
