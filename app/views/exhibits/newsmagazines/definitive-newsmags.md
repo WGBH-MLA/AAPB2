@@ -59,7 +59,6 @@ The newsmagazines in the AAPB embody these principles and challenge the critique
 - 1990—[Louisiana Conservationist Television](/catalog/cpb-aacip/17-90rr5zt9)
 - 1991—[Connecticut Newsweek](/catalog/cpb-aacip_398-77sn0b3x)
 - 1991—[OnTV](/catalog/cpb-aacip_29-01bk3jzs)
-- 1991—National Native News Special Features: Episodes [I](/catalog/cpb-aacip_206-37hqc3ck) and [II](/catalog/cpb-aacip_206-20sqvcvq)
 - 1993—[Marquee](/catalog/cpb-aacip_384-44pk0v59)
 - 1993—[MotorWeek](/catalog/cpb-aacip_394-36547hkt)
 - 1993—[Upper Cumberland Camera](/catalog/cpb-aacip_23-17qnkbzw)
