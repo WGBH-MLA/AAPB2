@@ -44,21 +44,23 @@ The newsmagazines in the AAPB embody these principles and challenge the critique
 #### Newsmagazines in the 1980s:
 
 - 1980—[Louisiana: The State We're In](/catalog/cpb-aacip_17-03cz9qtv)
+- 1980—[Nighttimes Magazine](/catalog/cpb-aacip_77-053fg9dx)
 - 1981—The Wisconsin Magazine: [Episode 818](/catalog/cpb-aacip_29-322bvtsp)
 - 1983—Front Street Weekly: [Episode 308](/catalog/cpb-aacip_153-48ffbpfc)
+- 1983—[Spectrum](/catalog/cpb-aacip_225-0966t2p8)
 - 1984—[Grass Roots Journal](/catalog/cpb-aacip_296-41mgqsfq)
 - 1984—[Kansas City Illustrated](/catalog/cpb-aacip_384-97xkszkg)
 - 1984—[Where We Are: News on Current Events in Unalaska](/catalog/cpb-aacip_59-40xpp1fv)
 - 1985—[Carolina Journal](/catalog/cpb-aacip_41-17qnkc9c)
 - 1987—The Wisconsin Magazine: [Episode 1323](/catalog/cpb-aacip_29-79h44svk)
 - 1988—[The Fairfield County Business Report](/catalog/cpb-aacip_398-0322815q)
-- 1988—Front Street Weekly: [Raw Footage of Studio Production](/catalog/cpb-aacip_153-1615f088)
 
 #### Newsmagazines in the 1990s:
 
 - 1990—[Louisiana Conservationist Television](/catalog/cpb-aacip/17-90rr5zt9)
 - 1991—[Connecticut Newsweek](/catalog/cpb-aacip_398-77sn0b3x)
 - 1991—[OnTV](/catalog/cpb-aacip_29-01bk3jzs)
+- 1992—[Mountain News & World Report](/catalog/cpb-aacip_138-50gthzqw)
 - 1993—[Marquee](/catalog/cpb-aacip_384-44pk0v59)
 - 1993—[MotorWeek](/catalog/cpb-aacip_394-36547hkt)
 - 1993—[Upper Cumberland Camera](/catalog/cpb-aacip_23-17qnkbzw)
