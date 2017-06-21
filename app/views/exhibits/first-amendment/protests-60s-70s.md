@@ -8,12 +8,8 @@ When discussing the role of protests in America, it seems fitting to begin in th
 
 > **"In the 1960s, dissidents shook the very foundation of U.S. civil society." [<sup>4</sup>](/exhibits/first-amendment/notes#4)**
 
-
+## Extended
 ### The Fight Against Racism and Injustice <a id="chapter-1"></a>
-
-Jump to [Top of Page](#beginning)
-
-Jump to [The New Left: Student Protests, Vietnam, and Women’s Liberation](#chapter-2)
 
 The AAPB holds notable audio and video from the civil rights movement, which reached the peak of its activism in the mid-1960s. Commentary from [Rosa Parks](/catalog/cpb-aacip_28-kw57d2qp45), audio from members of the [Congress of Racial Equality (CORE)](/catalog/cpb-aacip_28-br8mc8rr6z) and [Student Nonviolent Coordinating Committee (SNCC)](/catalog/cpb-aacip_28-sj19k46b34), interviews with members of [Southern Christian Leadership Conference](/catalog/cpb-aacip_15-95q4rk9v), and radio programs describing [stay-outs](/catalog/cpb-aacip_15-9v698c0j) vividly show the organized resistance to discrimination and the use of protest during the civil rights movement. Another AAPB exhibit, [Voices from the Southern Civil Rights Movement](http://americanarchive.org/exhibits/civil-rights), provides an in-depth examination of the movement in the American south.
 
@@ -63,11 +59,6 @@ The Red Power Movement and the Chicano Movement also fought against racism and s
 
 
 ### The New Left: Student Protests, Vietnam, and Women’s Liberation <a id="chapter-2"></a>
-
-Jump to [Top of Page](#beginning)
-
-Jump to [The Fight Against Racism and Injustice](#chapter-1)
-
 
 The growth of the New Left and student radicalism began in the early 1960s and reached its height during 1968. This new political movement sprouted protests on college campuses from the [East Coast](/catalog/cpb-aacip_305-89r22j6z) to the [West Coast](/catalog/cpb-aacip_28-kw57d2qp5g) on issues including the Vietnam War, free speech, the environment, and racism. Including student groups like Students for a Democratic Society and the Free Speech Movement in Berkeley, the New Left rallied for the “common struggle with the liberation movements of the world.”[<sup>5</sup>](/exhibits/first-amendment/notes#5)
 
