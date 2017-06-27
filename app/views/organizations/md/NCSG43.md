@@ -14,7 +14,7 @@ North Hollywood
 
 ## Logo
 
-pacifica_logo.png
+pacifica\_logo.png
 
 ## Url
 
