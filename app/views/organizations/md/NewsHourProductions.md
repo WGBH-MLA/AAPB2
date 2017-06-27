@@ -14,7 +14,7 @@ Washington
 
 ## Logo
 
-newshour_logo.png
+newshour\_logo.png
 
 ## Url
 
