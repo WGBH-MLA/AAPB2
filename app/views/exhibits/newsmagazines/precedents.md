@@ -33,18 +33,19 @@ If there’s one thread that weaves these narrative strands together, it’s PBS
 #### Tour Our Resources:
 
 
-- 1959—The Press and the People: The Responsibilities of Television, Parts [I](/catalog/cpb-aacip_15-80ht7n4v) and [II](/catalog/cpb-aacip_15-32r4xv5n)
-- 1967—[Panel Discussion](/catalog/cpb-aacip_500-dz03342k) on the Public Broadcasting Act
-- 1967—[Senate Hearings](/catalog/cpb-aacip_500-g44hrj88) on the Public Broadcasting Act
-- 1967—Public Broadcast Laboratory series premiere: [documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
-- 1967—Public Broadcast Laboratory: [segment on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
+- 1959—The Press and the People: The Responsibilities of Television, [Interview with Ed Murrow, Part I](/catalog/cpb-aacip_15-80ht7n4v) and [Part II](/catalog/cpb-aacip_15-32r4xv5n)
+- 1967—[Panel Discussion on the Public Broadcasting Act](/catalog/cpb-aacip_500-dz03342k)
+- 1967—[Senate Hearings on the Public Broadcasting Act](/catalog/cpb-aacip_500-g44hrj88)
+- 1967—Public Broadcast Laboratory series premiere: [Documentary on Louise Day Hicks](/catalog/cpb-aacip_15-9zg6g70c) 
+- 1967—Public Broadcast Laboratory: [Documentary on Ronald Reagan’s visit to Yale](/catalog/cpb-aacip_15-94hmh6vt)
 - 1968—What’s Happening, Mr. Silver?: [Magazine Show](/catalog/cpb-aacip_15-36547r0h) and [Reaction to Magazine Show](/catalog/cpb-aacip_15-56n03749)
-- 1968—Black Journal [series premiere](/catalog/cpb-aacip_62-5m6251fv96)
+- 1968—[Black Journal: series premiere](/catalog/cpb-aacip_62-5m6251fv96)
 - 1971—The Great American Dream Machine (discussed in WNET seminar, Parts [I](/catalog/cpb-aacip_75-79h44rz7) and [II](/catalog/cpb-aacip_75-19s1rq4z))
-- 1971—[Black Journal](/catalog/cpb-aacip_62-qf8jd4q486)
-- 1974—The 51st State: [Episode 285](/catalog/cpb-aacip_75-18dfn4vw) and [Episode 295](/catalog/cpb-aacip_75-19f4qt89)
-- 1975—The 51st State: [American Labor](/catalog/cpb-aacip_75-84zgn1s8)
-- 1984—[The MacNeil/Lehrer NewsHour](/catalog/cpb-aacip_507-1g0ht2gv3t)
+- 1971—Black Journal: [Karate and identity, racism in movie-making, and the Organization of African Unity](/catalog/cpb-aacip_62-qf8jd4q486)
+- 1974—The 51st State: [Episode 285: The New York and New Jersey Juvenile Justice System](/catalog/cpb-aacip_75-18dfn4vw)
+- 1974—The 51st State: [Episode 295: New York Politics](/catalog/cpb-aacip_75-19f4qt89)
+- 1975—The 51st State: [Episode 332: American Labor](/catalog/cpb-aacip_75-84zgn1s8)
+- 1984—The MacNeil/Lehrer NewsHour: [Libya vs. Britain, Crime Statistics, and Old Pros](/catalog/cpb-aacip_507-1g0ht2gv3t)
 
 #### Next: [Quintessential Newsmagazines](/exhibits/newsmagazines/definitive-newsmags)
 
