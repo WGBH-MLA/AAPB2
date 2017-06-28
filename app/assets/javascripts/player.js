@@ -85,10 +85,11 @@ $(function(){
     });
 
     var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+
+    // If timecode included in URL, play from that start time.
     if (url_hash) {
         $player[0].currentTime = url_hash[1];
-        // Autoplay generally a bad idea, but we could do it...
-        // $player[0].play();
+        $player[0].play();
     }
 
     // New for AAPB.
@@ -100,7 +101,7 @@ $(function(){
     var search = $('div.transcript-search');
     var searchButton = $('#transcript-search-btn');
 
-     function updateTranscriptGrid() {
+    function updateTranscriptGrid() {
       if ($divTranscript.hasClass('col-md-2')) {
         $divTranscript.addClass('col-md-6').removeClass('col-md-2');
       } else if ($divTranscript.hasClass('col-md-6'))  {
