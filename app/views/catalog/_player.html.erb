@@ -29,6 +29,9 @@
           <% if @pbcore.captions_src %>
             <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
           <% end %>
+          <% if ChapterFile.file_present?(@pbcore.id) %>
+            <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
+          <% end %>
           <%
         end
       end.join().html_safe()
