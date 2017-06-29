@@ -86,10 +86,12 @@ $(function(){
 
     var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
 
-    // If timecode included in URL, play from that start time.
+    // If timecode included in URL, play to pass thumbnail,
+    // then pause at that timecode.
     if (url_hash) {
-        $player[0].currentTime = url_hash[1];
         $player[0].play();
+        $player[0].currentTime = url_hash[1];
+        $player[0].pause();
     }
 
     // New for AAPB.
