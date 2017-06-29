@@ -43,3 +43,5 @@ Though previous legislation and regulatory actions beginning in the 1920s recogn
 > **"It will be free, and it will be independent--and it will belong to all of our people.”** - *President Lyndon B. Johnson on establishing the Corporation for Public Broadcasting, 1967.* 
 
 Noncommercial broadcast content, especially programming shared by PBS and NPR, is often associated with storytelling; *Frontline* and even WNYC’s *Radiolab* profile important issues using long-form narrative strategies, which have become a signature of public media journalism. Newsmagazines, by extension, exist somewhere between documentary storytelling and soft news, fulfilling two public broadcasting missions at once: to keep the public informed of both local and national issues, and to do so in a thoughtful, creative, and engaging way.
+
+#### Next: [Precedents: Newsmagazine Firsts](/exhibits/newsmagazines/precedents)
