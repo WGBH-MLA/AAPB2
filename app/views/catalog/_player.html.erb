@@ -33,6 +33,16 @@
         end
       end.join().html_safe()
     %>
+      <% if @pbcore.playlist_group %>
+        <div id="playlist">
+          <% if @pbcore.playlist_prev_id %>
+            <a href="/catalog/<%= @pbcore.playlist_prev_id %>" class="pull-left" data-no-turbolink='true'>&#x25c0; Part <%= @pbcore.playlist_order - 1 %></a>
+          <% end %>
+          <% if @pbcore.playlist_next_id %>
+            <a href="/catalog/<%= @pbcore.playlist_next_id %>" class="pull-right" data-no-turbolink='true'>Part <%= @pbcore.playlist_order + 1 %> &#x25b6;</a>
+          <% end %>
+        </div>
+      <% end %>
     </section>
     <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
       <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>

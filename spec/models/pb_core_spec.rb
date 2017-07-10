@@ -131,6 +131,8 @@ describe 'Validated and plain PBCore' do
           'topics' => ['Music'],
           'asset_type' => 'Album',
           'organization' => 'WGBH (MA)',
+          'playlist_group' => nil,
+          'playlist_order' => 0,
           'state' => 'Massachusetts',
           'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
           # TODO: UI will transform internal representation.
@@ -170,6 +172,11 @@ describe 'Validated and plain PBCore' do
         outside_url: 'http://www.wgbh.org/',
         player_aspect_ratio: '4:3',
         player_specs: %w(680 510),
+        playlist_group: nil,
+        playlist_map: nil,
+        playlist_next_id: nil,
+        playlist_order: 0,
+        playlist_prev_id: nil,
         reference_urls: ['http://www.wgbh.org/'],
         private?: false,
         protected?: false,
