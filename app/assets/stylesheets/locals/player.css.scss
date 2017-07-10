@@ -1,0 +1,18 @@
+/* -------------------- */
+/* Player ------------- */
+/* -------------------- */
+
+.vjs-chapters-button {
+  .vjs-menu {
+    .vjs-menu-content {
+      width: 175px !important;
+      margin-left: -70px;
+      .vjs-menu-item {
+        text-transform: none;
+      }
+    }
+    li.vjs-menu-title {
+        font-size: 1.2em;
+    }
+  }
+}
