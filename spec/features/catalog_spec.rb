@@ -119,10 +119,10 @@ describe 'Catalog' do
           ['media_type', 1, 'Sound', 10],
           ['genres', 2, 'Interview', 3],
           ['topics', 1, 'Music', 3],
-          ['asset_type', 1, 'Segment', 5],
-          ['organization', 38, 'WGBH+(MA)', 3], # tag ex and states mean lots of facet values.
+          ['asset_type', 1, 'Segment', 8],
+          ['organization', 38, 'WGBH+(MA)', 6], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 31]
+          ['access_types', 3, PBCore::ALL_ACCESS, 34]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -167,9 +167,9 @@ describe 'Catalog' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
             ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 27],
-            ['media_type', 'Moving+Image+OR+Sound', 27],
-            ['media_type', 'Moving+Image', 17]
+            ['media_type', 'Sound+OR+Moving+Image', 30],
+            ['media_type', 'Moving+Image+OR+Sound', 30],
+            ['media_type', 'Moving+Image', 20]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -185,11 +185,11 @@ describe 'Catalog' do
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
-          expect_count(4)
+          expect_count(7)
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(31)
+          expect_count(34)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -198,12 +198,12 @@ describe 'Catalog' do
                                     'Organization KQED (CA) Remove constraint Organization: KQED (CA)')
 
           click_link('WGBH (MA)')
-          expect_count(4)
+          expect_count(7)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Organization KQED (CA) OR WGBH (MA) Remove constraint Organization: KQED (CA) OR WGBH (MA)')
 
           all(:css, 'a.remove').first.click # KQED
-          expect_count(3)
+          expect_count(6)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Organization WGBH (MA) Remove constraint Organization: WGBH (MA)')
 
@@ -211,7 +211,7 @@ describe 'Catalog' do
           # If you attempt to remove the access facet, it redirects you to the default,
           # but the default depends on requestor's IP address.
           # TODO: set address in request.
-          expect_count(1)
+          expect_count(4)
           expect(page).to have_text('You searched for: Organization WGBH (MA) Remove constraint Organization: WGBH (MA) ')
 
           click_link('Iowa Public Television (IA)')
@@ -261,7 +261,7 @@ describe 'Catalog' do
         describe 'field sorting' do
           assertions = [
             ['year+desc', 'Making It Here; 105; Sweets'],
-            ['year+asc', '15th Anniversary Show'],
+            ['year+asc', 'Nixon Impeachment Hearings; Part 1 of 3; 2; 1974-07-24'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
           assertions.each do |sort, title|
@@ -313,6 +313,9 @@ describe 'Catalog' do
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
                  'Access: Online Reading Room'],
                 ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
+                ['Series: Nixon Impeachment Hea', 'Segment: Part 1 of 3', 'Episode Number: 2', 'Episode: 1974-07-24', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Nixon Impeachment Hea', 'Segment: Part 2 of 3', 'Episode Number: 2', 'Episode: 1974-07-24', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Nixon Impeachment Hea', 'Segment: Part 3 of 3', 'Episode Number: 2', 'Episode: 1974-07-24', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
                 ['Title: Racing the Rez', 'Organization: Vision Maker Media', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
@@ -438,6 +441,32 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_37-16c2fsnr'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect(page).to have_text('Online Reading Room Rules of Use')
+      end
+
+      it 'has both playlist navigation options when applicable' do
+        visit 'catalog/cpb-aacip_512-0r9m32nw1x'
+        expect(page).to have_css('div#playlist')
+        expect(page).to have_text('Part 1')
+        expect(page).to have_text('Part 1')
+      end
+
+      it 'has next playlist navigation option when first item in playlist' do
+        visit 'catalog/cpb-aacip_512-gx44q7rk20'
+        expect(page).to have_css('div#playlist')
+        expect(page).not_to have_text('Part 0')
+        expect(page).to have_text('Part 2')
+      end
+
+      it 'has previous playlist navigation option when last item in playlist' do
+        visit 'catalog/cpb-aacip_512-w66930pv96'
+        expect(page).to have_css('div#playlist')
+        expect(page).to have_text('Part 2')
+        expect(page).not_to have_text('Part 4')
+      end
+
+      it 'should not have #playlist when not in playlist' do
+        visit 'catalog/cpb-aacip_111-21ghx7d6'
+        expect(page).not_to have_css('div#playlist')
       end
     end
   end
