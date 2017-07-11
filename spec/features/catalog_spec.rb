@@ -7,6 +7,8 @@ require_relative '../support/validation_helper'
 describe 'Catalog' do
   include ValidationHelper
 
+  IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
+
   before(:all) do
     PBCoreIngester.load_fixtures
   end
@@ -118,9 +120,9 @@ describe 'Catalog' do
           ['genres', 2, 'Interview', 3],
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 8],
-          ['organization', 37, 'WGBH+(MA)', 6], # tag ex and states mean lots of facet values.
+          ['organization', 38, 'WGBH+(MA)', 6], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 33]
+          ['access_types', 3, PBCore::ALL_ACCESS, 34]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -165,9 +167,9 @@ describe 'Catalog' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
             ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 29],
-            ['media_type', 'Moving+Image+OR+Sound', 29],
-            ['media_type', 'Moving+Image', 19]
+            ['media_type', 'Sound+OR+Moving+Image', 30],
+            ['media_type', 'Moving+Image+OR+Sound', 30],
+            ['media_type', 'Moving+Image', 20]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -183,11 +185,11 @@ describe 'Catalog' do
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
-          expect_count(6)
+          expect_count(7)
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(33)
+          expect_count(34)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -258,7 +260,7 @@ describe 'Catalog' do
 
         describe 'field sorting' do
           assertions = [
-            ['year+desc', 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!'],
+            ['year+desc', 'Making It Here; 105; Sweets'],
             ['year+asc', 'Nixon Impeachment Hearings; Part 1 of 3; 2; 1974-07-24'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
@@ -306,6 +308,7 @@ describe 'Catalog' do
                 ['Series: Gvsports', 'Organization: WGVU Public TV and Ra', 'Media Type: other', 'Access: '],
                 ['Series: The Lost Year', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
                 ['Series: The MacNeil/Lehrer Ne', 'Date: 1983-10-13', 'Organization: NewsHour Productions', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Making It Here; Episode Number: 105; Episode: Sweets', 'Date: 2003-01-22', 'Organization: WGBY', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
                  'Access: Online Reading Room'],
@@ -470,6 +473,11 @@ describe 'Catalog' do
 
   describe 'all fixtures' do
     Dir['spec/fixtures/pbcore/clean-*.xml'].each do |file_name|
+      # Used to skip XML validation for false errors.
+      # Should consider better HTML validation in ValidationHelper.
+      ignores = Set.new(File.readlines(IGNORE_FILE).map(&:strip))
+      next if ignores.include?(file_name)
+
       pbcore = PBCore.new(File.read(file_name))
       id = pbcore.id
       describe id do
