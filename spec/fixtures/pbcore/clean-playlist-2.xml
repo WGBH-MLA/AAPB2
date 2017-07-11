@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Segment</pbcoreAssetType>
+  <pbcoreAssetDate dateType="broadcast">1974-07-24</pbcoreAssetDate>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/512-0r9m32nw1x</pbcoreIdentifier>
+  <pbcoreIdentifier source="Library of Congress Control Number">92506812</pbcoreIdentifier>
+  <pbcoreIdentifier source="MAVIS Title Number">1957611</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>249daf2f92d74a468e098c6b6d1fe6cf</pbcoreIdentifier>
+  <pbcoreTitle titleType="Segment">Part 2 of 3</pbcoreTitle>
+  <pbcoreTitle titleType="Episode">1974-07-24</pbcoreTitle>
+  <pbcoreTitle titleType="Episode Number">2</pbcoreTitle>
+  <pbcoreTitle titleType="Series">Nixon Impeachment Hearings</pbcoreTitle>
+  <pbcoreSubject source="Library of Congress Name Authority">Nixon, Richard M.</pbcoreSubject>
+  <pbcoreSubject subjectType="Subject Heading">Watergate Affair, 1972-1974</pbcoreSubject>
+  <pbcoreDescription descriptionType="Episode Description">Live coverage of the beginning of formal public debate of the House Committee on the Judiciary, chaired by Peter Rodino, Jr., on the articles of impeachment against President Richard Nixon.</pbcoreDescription>
+  <pbcoreCreator>
+    <creator>National Public Affairs Center for Television</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreCreator>
+    <creator>WETA-TV</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Rodino, Peter W.</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Lehrer, James</contributor>
+    <contributorRole>Reporter</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor affiliation="  National Public Radio ">Duke, Paul</contributor>
+    <contributorRole>Reporter</contributorRole>
+  </pbcoreContributor>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="MAVIS Item ID">1957611-1-2</instantiationIdentifier>
+    <instantiationPhysical>2 inch videotape</instantiationPhysical>
+    <instantiationStandard>NTSC</instantiationStandard>
+    <instantiationLocation>Vault Site: Culpeper; RackNo: VUA 0392</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Preservation Material</instantiationGenerations>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation>Source used: ILS record, LCCN 92506812. Titles listed in M/B/RS Acquisition file (WETA): Impeachment hearings--House, Impeachment hearings--Judiciary Committee, Rodino hearings. Copyright notice on tape: Greater Washington Educational Telecommunications Association, Inc. ; 1974. Subjects from ILS record: Nixon, Richard M. (Richard Milhous), 1913-1994--Impeachment; Watergate Affair, 1972-1974</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Playlist Group">nixonimpeachmentday2</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Playlist Order">2</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="last_modified">2017-06-29 10:58:59</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

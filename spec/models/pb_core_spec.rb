@@ -9,6 +9,9 @@ describe 'Validated and plain PBCore' do
   let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
   let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
   let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
+  let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
+  let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
+  let(:playlist_3) { File.read('spec/fixtures/pbcore/clean-playlist-3.xml') }
 
   describe ValidatedPBCore do
     describe 'valid docs' do
@@ -251,6 +254,67 @@ describe 'Validated and plain PBCore' do
           'id' => pbc.id,
           'player_aspect_ratio' => pbc.player_aspect_ratio,
           'player_specs' => pbc.player_specs
+        }
+
+        expect(expected_attrs).to eq(attrs)
+      end
+    end
+
+    describe 'PB Core records in playlists' do
+      it 'first record has expected attributes' do
+        pbc = PBCore.new(playlist_1)
+        expected_attrs = {
+          'id' => 'cpb-aacip_512-gx44q7rk20',
+          'playlist_group' => 'nixonimpeachmentday2',
+          'playlist_order' => 1,
+          'playlist_next_id' => 'cpb-aacip_512-0r9m32nw1x',
+          'playlist_prev_id' => nil
+        }
+
+        attrs = {
+          'id' => pbc.id,
+          'playlist_group' => pbc.playlist_group,
+          'playlist_order' => pbc.playlist_order,
+          'playlist_next_id' => pbc.playlist_next_id,
+          'playlist_prev_id' => pbc.playlist_prev_id
+        }
+
+        expect(expected_attrs).to eq(attrs)
+      end
+
+      it 'middle record has expected attributes' do
+        pbc = PBCore.new(playlist_2)
+        expected_attrs = {
+          'playlist_group' => 'nixonimpeachmentday2',
+          'playlist_order' => 2,
+          'playlist_next_id' => 'cpb-aacip_512-w66930pv96',
+          'playlist_prev_id' => 'cpb-aacip_512-gx44q7rk20'
+        }
+
+        attrs = {
+          'playlist_group' => pbc.playlist_group,
+          'playlist_order' => pbc.playlist_order,
+          'playlist_next_id' => pbc.playlist_next_id,
+          'playlist_prev_id' => pbc.playlist_prev_id
+        }
+
+        expect(expected_attrs).to eq(attrs)
+      end
+
+      it 'last record has expected attributes' do
+        pbc = PBCore.new(playlist_3)
+        expected_attrs = {
+          'playlist_group' => 'nixonimpeachmentday2',
+          'playlist_order' => 3,
+          'playlist_next_id' => nil,
+          'playlist_prev_id' => 'cpb-aacip_512-0r9m32nw1x'
+        }
+
+        attrs = {
+          'playlist_group' => pbc.playlist_group,
+          'playlist_order' => pbc.playlist_order,
+          'playlist_next_id' => pbc.playlist_next_id,
+          'playlist_prev_id' => pbc.playlist_prev_id
         }
 
         expect(expected_attrs).to eq(attrs)
