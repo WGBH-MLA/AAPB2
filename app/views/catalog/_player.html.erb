@@ -8,52 +8,56 @@
 <% end %>
 
 <div class="row">
-  <div class="col-sm-12 col-md-8 player col-md-offset-2">
-    <section class="videocontent">
-    <%=
-      @pbcore.media_srcs.map do |media_src|
-        media = @pbcore.video? ? 'video' : 'audio'
-        content_tag(media,
-                    controls: true,
-                    "class" => "video-js vjs-default-skin vjs-fluid",
-                    "id" => "player_media",
-                    "aria-label" => "video player",
-                    oncontextmenu: 'return false;',
-                    preload: 'auto',
-                    crossorigin: 'with-credentials',
-                    :"data-setup" => '{}',
-                    poster: @pbcore.img_src) do %>
+  <% if @show_transcript %>
+    <div class="col-sm-12 col-md-6 player">
+  <% else %>
+    <div class="col-sm-12 col-md-8 player col-md-offset-2">
+  <% end %>
+      <section class="videocontent">
+      <%=
+        @pbcore.media_srcs.map do |media_src|
+          media = @pbcore.video? ? 'video' : 'audio'
+          content_tag(media,
+                      controls: true,
+                      "class" => "video-js vjs-default-skin vjs-fluid",
+                      "id" => "player_media",
+                      "aria-label" => "video player",
+                      oncontextmenu: 'return false;',
+                      preload: 'auto',
+                      crossorigin: 'with-credentials',
+                      :"data-setup" => '{}',
+                      poster: @pbcore.img_src) do %>
 
-          <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+            <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
-          <% if @pbcore.captions_src %>
-            <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
-          <% end %>
-          <% if ChapterFile.file_present?(@pbcore.id) %>
-            <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
-          <% end %>
-          <%
-        end
-      end.join().html_safe()
-    %>
-      <% if @pbcore.playlist_group %>
-        <div id="playlist">
-          <% if @pbcore.playlist_prev_id %>
-            <a href="/catalog/<%= @pbcore.playlist_prev_id %>" class="pull-left" data-no-turbolink='true'>&#x25c0; Part <%= @pbcore.playlist_order - 1 %></a>
-          <% end %>
-          <% if @pbcore.playlist_next_id %>
-            <a href="/catalog/<%= @pbcore.playlist_next_id %>" class="pull-right" data-no-turbolink='true'>Part <%= @pbcore.playlist_order + 1 %> &#x25b6;</a>
-          <% end %>
-        </div>
+            <% if @pbcore.captions_src %>
+              <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+            <% end %>
+            <% if ChapterFile.file_present?(@pbcore.id) %>
+              <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
+            <% end %>
+            <%
+          end
+        end.join().html_safe()
+      %>
+        <% if @pbcore.playlist_group %>
+          <div id="playlist">
+            <% if @pbcore.playlist_prev_id %>
+              <a href="/catalog/<%= @pbcore.playlist_prev_id %>" class="pull-left" data-no-turbolink='true'>&#x25c0; Part <%= @pbcore.playlist_order - 1 %></a>
+            <% end %>
+            <% if @pbcore.playlist_next_id %>
+              <a href="/catalog/<%= @pbcore.playlist_next_id %>" class="pull-right" data-no-turbolink='true'>Part <%= @pbcore.playlist_order + 1 %> &#x25b6;</a>
+            <% end %>
+          </div>
+        <% end %>
+      </section>
+      <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
+        <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
+        <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
+          <span class="glyphicon glyphicon-star"></span>
+          <strong><%= exhibit_caption %></strong>
+        </a>
       <% end %>
-    </section>
-    <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
-      <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
-      <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
-        <span class="glyphicon glyphicon-star"></span>
-        <strong><%= exhibit_caption %></strong>
-      </a>
-    <% end %>
-  </div>
+    </div>
   <%= render partial: 'transcript' %>
 </div>
