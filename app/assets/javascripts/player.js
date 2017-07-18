@@ -134,11 +134,6 @@ $(function(){
       }
     }
 
-    function clearTranscriptSearch() {
-      var src_str = document.getElementById("transcript").innerHTML.replace(/(<mark>|<\/mark>)/igm, "");
-      document.getElementById("transcript").innerHTML = src_str;
-    }
-
     $('div.show-transcript').on("click", function(){
       var $this = $(this)
       updatePlayerGrid();
@@ -155,42 +150,93 @@ $(function(){
       }
     });
 
-    function searchTranscript() {
-      var term = $('#transcript-q').val().replace(/(\s+)/,"(<[^>]+>)*$1(<[^>]+>)*");
-      if (/\S+/.test(term) == true ) {
-        clearTranscriptSearch();
-        var pattern = new RegExp("\\b(" + term + ")\\b", "gi");
-        var src_str = document.getElementById("transcript").innerHTML;
-        var patternTotal = (src_str.match(pattern) || []).length;
+    // Mark.js & jQuery scrollTo for Transcript search
+    $(function() {
+      // the input field
+      var $input = $("input[type='search']"),
+        // clear button
+        $clearBtn = $("button[data-search='clear']"),
+        // prev button
+        $prevBtn = $("button[data-search='prev']"),
+        // next button
+        $nextBtn = $("button[data-search='next']"),
+        // the context where to search
+        $content = $(".content"),
+        // jQuery object to save <mark> elements
+        $results,
+        // the class that will be appended to the current
+        // focused element
+        currentClass = "current",
+        // ID used for Jquery scrolling and will be appended to
+        // the current focused element
+        currentId = "current",
+        // top offset for the jump (the search bar)
+        offsetTop = 15,
+        // the current index of the focused element
+        currentIndex = 0;
 
-        document.getElementById("transcript").innerHTML = src_str.replace(pattern, "<mark>$1</mark>");
-        addSearchTotal(patternTotal);
-      } else {
-        clearTranscriptSearch();
-        addSearchTotal(0);
+      /**
+       * Jumps to the element matching the currentIndex
+       */
+      function jumpTo() {
+        if ($results.length) {
+          var position,
+            $current = $results.eq(currentIndex);
+          $results.removeClass(currentClass);
+          $results.removeAttr("id");
+          if ($current.length) {
+            $current.addClass(currentClass);
+            $current.attr("id", currentId)
+            position = $current.offset().top - offsetTop;
+            $("div.content").scrollTo(document.getElementById("current"));
+          }
+        }
       }
-    }
 
-    function addSearchTotal(total) {
-      searchTotalElem.removeClass('hidden');
+      /**
+       * Searches for the entered keyword in the
+       * specified context on input
+       */
+      $input.on("input", function() {
+        var searchVal = this.value;
+        $content.unmark({
+          done: function() {
+            var regex = new RegExp("\\b(" + searchVal + ")\\b", "gi");
+            $content.markRegExp(
+              regex, {
+              done: function() {
+                $results = $content.find("mark");
+                currentIndex = 0;
+                jumpTo();
+              }
+            });
+          }
+        });
+      });
 
-      if(total == 0) {
-        searchTotalElem.text("No results");
-      } else if(total == 1) {
-        searchTotalElem.text("1 result");
-      } else {
-        searchTotalElem.text(total.toString() + " results");
-      }
-    }
+      /**
+       * Clears the search
+       */
+      $clearBtn.on("click", function() {
+        $content.unmark();
+        $input.val("").focus();
+      });
 
-    searchButton.on("click", function(){
-      searchTranscript();
-    });
-
-    searchInput.keypress(function (e) {
-      if(e.which == 13) {
-        searchTranscript();
-      }
+      /**
+       * Next and previous search jump to
+       */
+      $nextBtn.add($prevBtn).on("click", function() {
+        if ($results.length) {
+          currentIndex += $(this).is($prevBtn) ? -1 : 1;
+          if (currentIndex < 0) {
+            currentIndex = $results.length - 1;
+          }
+          if (currentIndex > $results.length - 1) {
+            currentIndex = 0;
+          }
+          jumpTo();
+        }
+      });
     });
   });
 });

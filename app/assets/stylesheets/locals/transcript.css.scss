@@ -1,15 +1,15 @@
 .transcript-div {
-  padding: 0;
+  padding: 0 5px;
 }
 
 .transcript-frame {
   padding: 10px 0 0 0;
   width: 100%;
-  height: 360px;
-  overflow-y: scroll;
   text-align: left;
   background: transparent !important;
   .transcript {
+    max-height: 360px;
+    overflow-y: scroll;
     .speaker {
         display: table-cell;
         vertical-align: bottom;
@@ -103,7 +103,6 @@
 .transcript-view-large {
   overflow: hidden;
   float: right;
-  height: 100%;
   width: 100%;
   color: #666;
   background-color: #fff;
@@ -114,7 +113,7 @@
   text-align: right;
   color: #999;
   font-size: 14px;
-  padding: 7px 0;
+  padding: 7px 5px;
   position: absolute;
   right: 5px;
 }
@@ -132,44 +131,28 @@
   font-size: 14px;
   color: #999;
   text-align: left;
-  width: 225px;
+  width: 245px;
   display: none;
-  padding: 5px 0;
+  padding: 8px 0;
+  button {
+    margin: 0 2px;
+    width: 25px;
+  }
+  button:active {
+    border: 1px;
+    background-color: buttonface;
+  }
 }
 
 .show-transcript-search {
   display: inline-flex;
+  padding-left: 5px;
 }
 
-.transcript-search-btn-group {
-  width: 15%;
+mark {
+  background: yellow;
 }
 
-.transcript-search-btn {
-  background-color: #FFF;
-  color: #292A72;
-  margin-left: 0;
-}
-
-.transcript-search-btn:hover{
-  background-color: #fff;
-  color: #292A72;
-}
-
-.transcript-search-btn:focus{
-  background-color: #fff;
-  color: #292A72;
-}
-
-.transcript-search-input {
-  border: none;
-}
-
-.transcript-search-results {
-  display: inline-block;
-  text-align: left;
-  color: #999;
-  font-size: 14px;
-  padding: 7px 5px;
-  position: absolute;
+mark.current {
+  background: orange;
 }
