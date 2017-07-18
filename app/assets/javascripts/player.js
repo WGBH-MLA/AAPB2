@@ -101,6 +101,8 @@ $(function(){
     var player = videojs('#player_media_html5_api');
     var exhibit = $('#exhibit-banner');
     var search = $('div.transcript-search');
+    var searchInput = $('.transcript-search-input')
+    var searchTotalElem = $('div.transcript-search-results');
     var searchButton = $('#transcript-search-btn');
 
     function updateTranscriptGrid() {
@@ -146,22 +148,49 @@ $(function(){
       if ($this.hasClass('show-transcript')) {
         $this.html('Show<div class="transcript-circle">+</div>');
         search.removeClass('show-transcript-search');
+        searchTotalElem.addClass('hidden');
       } else {
         $this.html('Hide<div class="transcript-circle">-</div>');
         search.addClass('show-transcript-search');
       }
     });
 
-    $(searchButton).on("click", function(){
+    function searchTranscript() {
       var term = $('#transcript-q').val().replace(/(\s+)/,"(<[^>]+>)*$1(<[^>]+>)*");
       if (/\S+/.test(term) == true ) {
         clearTranscriptSearch();
-        var pattern = new RegExp("("+term+")", "gi");
-        var src_str_new = document.getElementById("transcript").innerHTML.replace(pattern, "<mark>$1</mark>");
-        document.getElementById("transcript").innerHTML = src_str_new;
+        var pattern = new RegExp("\\b(" + term + ")\\b", "gi");
+        var src_str = document.getElementById("transcript").innerHTML;
+        var patternTotal = (src_str.match(pattern) || []).length;
+
+        document.getElementById("transcript").innerHTML = src_str.replace(pattern, "<mark>$1</mark>");
+        addSearchTotal(patternTotal);
       } else {
         clearTranscriptSearch();
-      };
+        addSearchTotal(0);
+      }
+    }
+
+    function addSearchTotal(total) {
+      searchTotalElem.removeClass('hidden');
+
+      if(total == 0) {
+        searchTotalElem.text("No results");
+      } else if(total == 1) {
+        searchTotalElem.text("1 result");
+      } else {
+        searchTotalElem.text(total.toString() + " results");
+      }
+    }
+
+    searchButton.on("click", function(){
+      searchTranscript();
+    });
+
+    searchInput.keypress(function (e) {
+      if(e.which == 13) {
+        searchTranscript();
+      }
     });
   });
 });

@@ -4,8 +4,7 @@
     <p>Transcript</p>
     <div class="input-group input-group-sm transcript-search" role="search">
       <label for="q" class="sr-only">Search Transcript...</label>
-      <input aria-label="Search" class="search_q q form-control transcript-search-input" id="transcript-q" name="q" placeholder="Search..." type="search" />
-
+      <input aria-label="Search" class="search_q q form-control transcript-search-input" id="transcript-q" name="q" placeholder="Search..." type="search" method="post" />
       <span class="input-group-btn transcript-search-btn-group">
         <button type="submit" class="btn btn-primary search-btn transcript-search-btn" id="transcript-search-btn">
           <span class="submit-search-text sr-only">Search</span>
@@ -13,6 +12,7 @@
         </button>
       </span>
     </div>
+    <div class="transcript-search-results hidden" id="search-results-total">Search Results</div>
     <div class="show-transcript transcript-slide" style="cursor: pointer;">
       Show<span class="transcript-circle">+</span>
     </div>
