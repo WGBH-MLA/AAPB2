@@ -27,7 +27,7 @@ Junior Fellow, Library of Congress
 - [The Richard Nixon Presidential Library](https://www.nixonlibrary.gov/index.php)
 - [*Broadcasting Magazine* Digital Archives](http://www.americanradiohistory.com/Broadcasting_Individual_Issues_Guide.htm)
 
-## Main 
+## Main
 
 ### The Coverage Explained
 
@@ -41,7 +41,7 @@ The Senate Watergate Committee conducted its investigation in three phases: Wate
 To view the full “gavel to gavel” coverage, click on The Watergate Coverage in the side bar. There you will find guides to each episode, links to transcripts, and highlights to peruse. To help identify people in the videos, the Cast of Characters page includes photos and titles for the important figures in the hearings. [The Watergate Scandal, 1972-1974] page gives an explanation of the who, what, when, where, and why of Watergate to help guide you through the coverage. If you would like a more in depth essay on the significant role that Watergate played in the history of public broadcasting, please click on the [Watergate and Public Broadcasting] link.
 
 
-## Clip Reel
+### Clip Reel
 Click play below to see highlights from NPACT's coverage of the Senate Watergate hearings.
 
 <iframe src="https://player.vimeo.com/video/226909199" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
