@@ -381,7 +381,7 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 <tr>
 <td style="text-align:center"><a href="/catalog/cpb-aacip_512-v69862cb8n#at_323.00_s">10/4/73</a></td>
 <td style="text-align:center"><a href="/catalog/cpb-aacip_512-tm71v5cf4r#at_2340.00_s">10/4/73</a></td>
-<td style="text-align:center"><a href="(/catalog/cpb-aacip_512-4m91834s7x#at_770.00_s)">6/5/73</a></td>
+<td style="text-align:center"><a href="/catalog/cpb-aacip_512-4m91834s7x#at_770.00_s">6/5/73</a></td>
 </tr>
 <tr>
 <td style="text-align:center"></td>

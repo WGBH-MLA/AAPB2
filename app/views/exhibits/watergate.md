@@ -20,7 +20,7 @@ Junior Fellow, Library of Congress
 
 ## Resources
 
-- [The final report of the Select Committee on Presidential Campaign Activities](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15)
+- [The final report of the Select Committee on Presidential Campaign Activities](http://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15)
 - [Bill Moyers' *Essay on Watergate*](https://vimeo.com/44242486)
 - ["Covering Watergate: 40 Years Later With MacNeil And Lehrer"](http://www.pbs.org/newshour/bb/politics-jan-june13-watergate_05-17/)
 - ["The Watergate Files," online exhibit at the Gerald R. Ford Library & Museum](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html)

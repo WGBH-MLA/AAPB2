@@ -4,12 +4,12 @@
 
 ## Summary
 
-[![Senator Sam Ervin](https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing-s.jpg)](https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing)
+[![Senator Sam Ervin](https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing-s.jpg)]
 
-If you simply can’t get enough of Watergate, there is even more content to watch and read. For the interested visitor, this author recommends the following documentaries and video content: Summer of Judgment (1983), “Covering Watergate: 40 Years Later with MacNeil and Lehrer” (2013), Bill Moyers’s Essay on Watergate (1973), and Dick Cavett’s Watergate (2014). If you, like MacNeil and Lehrer, prefer to draw your own conclusions, both the Nixon Presidential Library and the Ford Presidential Library have extensive online primary source collections including scans of key documents and recordings of the Oval Office tapes. You can also access the full report produced by the Senate Select Committee here. 
+If you simply can’t get enough of Watergate, there is even more content to watch and read. For the interested visitor, this author recommends the following documentaries and video content: Summer of Judgment (1983), “Covering Watergate: 40 Years Later with MacNeil and Lehrer” (2013), Bill Moyers’s Essay on Watergate (1973), and Dick Cavett’s Watergate (2014). If you, like MacNeil and Lehrer, prefer to draw your own conclusions, both the Nixon Presidential Library and the Ford Presidential Library have extensive online primary source collections including scans of key documents and recordings of the Oval Office tapes. You can also access the full report produced by the Senate Select Committee here.
 
 For scholars looking for more in-depth resources, especially on the history of Watergate and public broadcasting please see the listed content below.
- 
+
 
 ## Extended
 ### Other Online Exhibits
@@ -28,7 +28,7 @@ Transcript can be found at: http://billmoyers.com/content/essay-watergate/
 "How Nixon Tested the U.S. Government and Changed its Relationship to the American people." Video file, 17:41. *PBS NewsHour*. August 7, 2014. Accessed June 19, 2017. http://www.pbs.org/newshour/bb/nixon-tested-u-s-government-changed-relationship-american-people/.
 
 Scuiletti, Justin. "A Look Back at the Senate Watergate Hearings." Video file, 16:33. *PBS NewsHour*. May 17, 2013. Accessed June 9, 2017. http://www.pbs.org/newshour/rundown/a-look-back-at-the-senate-watergate-hearings/.
- 
+
 *Secrets of the Dead*. "Dick Cavett's Watergate." PBS, Thirteen/WNET New York. August 8, 2014. Accessed June 26, 2017. http://www.pbs.org/wnet/secrets/dick-cavetts-watergate-full-episode/1880/.
 
 
@@ -44,12 +44,12 @@ Presidential Campaign Activities of 1972, Senate Resolution 60; Hearings before 
 
 *Public Television: A Program for Action*. New York: Harper & Row, 1967.
 
-Select Committee on Presidential Campaign Activities, The Final Report of the Select Committee on Presidential Campaign Activities, United States Senate, pursuant to S. Res. 60, February 7, 1973: A Resolution to Establish a Select Committee of the Senate to Investigate and Study Illegal or Improper Campaign Activities in the Presidential Election of 1972., S. Rep. No. 93-93-981, 2d Sess., at 1250 (1974). Accessed June 15, 2017. https://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15.
+Select Committee on Presidential Campaign Activities, The Final Report of the Select Committee on Presidential Campaign Activities, United States Senate, pursuant to S. Res. 60, February 7, 1973: A Resolution to Establish a Select Committee of the Senate to Investigate and Study Illegal or Improper Campaign Activities in the Presidential Election of 1972., S. Rep. No. 93-93-981, 2d Sess., at 1250 (1974). Accessed June 15, 2017. http://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15.
 
 *Watergate: Chronology of a Crisis. Vol. 1*. Washington, DC: Congressional Quarterly, 1973.
- 
+
 *Watergate: Chronology of a Crisis*. Vol. 2. Washington, DC: Congressional Quarterly, 1974.
- 
+
 *Watergate: Chronology of a Crisis*. Washington, DC: Congressional Quarterly, 1975.
 
 "Watergate Trial Conversations." Richard M. Nixon Presidential Library and Museum. Accessed June 15, 2017. https://www.nixonlibrary.gov/forresearchers/find/tapes/watergate/trial/transcripts.php.
