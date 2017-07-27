@@ -26,7 +26,7 @@ END
     # Kludge valid HTML5 to make it into valid XML.
     xhtml = page.body
     # self-close tags
-    xhtml.gsub!(/<((meta|link|img|hr|br)([^>]+[^\/])?)>/, '<\2/>')
+    xhtml.gsub!(/<((meta|link|img|hr|br|input)([^>]+[^\/])?)>/, '<\2/>')
     # Escape "&" used in Google Analytics tracking code
     xhtml.gsub!('&', '&amp;')
 

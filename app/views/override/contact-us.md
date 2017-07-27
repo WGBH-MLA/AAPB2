@@ -6,6 +6,8 @@ We would love to hear from you! If you have general questions or comments about 
 collection, or want to share information on the stories you find in the
 collection, you can reach us at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) or by mail.
 
+[Stay up to date with the AAPB by subscribing to our mailing list](/about-the-american-archive/newsletter).
+
 ### Library of Congress Mailing Address:
 Alan Gevinson<br/>
 Library of Congress<br/>
