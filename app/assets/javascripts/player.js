@@ -137,18 +137,19 @@ $(function(){
       document.getElementById("transcript").innerHTML = src_str;
     }
 
-    $('div.show-transcript').on("click", function(){
+    $('div.transcript-slide').on("click", function(){
       var $this = $(this)
       updatePlayerGrid();
       updateTranscriptGrid();
-      $this.toggleClass('show-transcript');
 
       if ($this.hasClass('show-transcript')) {
-        $this.html('Show<div class="transcript-circle">+</div>');
-        search.removeClass('show-transcript-search');
-      } else {
         $this.html('Hide<div class="transcript-circle">-</div>');
+        $this.removeClass('show-transcript');
         search.addClass('show-transcript-search');
+      } else {
+        $this.html('Show<div class="transcript-circle">+</div>');
+        $this.addClass('show-transcript');
+        search.removeClass('show-transcript-search');
       }
     });
 
