@@ -58,7 +58,7 @@
                 <div class="panel-body">
                   <ul class="list-group">
                     <% links.each do |href, name| %>
-                      <li class="list-group-item"><%= link_to(name, href) %></li>
+                      <li class="list-group-item"><%= link_to name, href, target: ('_blank' if href =~ /\A(http)/) %></li>
                     <% end %>
                   </ul>
                   <% if i == 1 && j == 1 %>
