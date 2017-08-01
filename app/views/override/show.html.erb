@@ -1,6 +1,5 @@
 <% content_for :sidebar do %>
-  <%= render 'shared/sidebar_search' %>
-  <%= render partial: 'shared/sidebar_nav', 
+  <%= render partial: 'shared/sidebar_nav',
              locals: { title: @override.title } %>
 <% end %>
 
@@ -11,7 +10,7 @@
   </div>
 <% end %>
 
-<%= render partial: 'shared/title_sidebar_main', 
+<%= render partial: 'shared/title_sidebar_main',
            locals: {
              sidebar: yield(:sidebar),
              main: yield(:override_main)

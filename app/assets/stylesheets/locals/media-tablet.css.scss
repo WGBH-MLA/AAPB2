@@ -153,4 +153,16 @@
   margin-top: 1em;
 }
 
+@media (max-width: 1200px) {
+	.no-transcript {
+		font-size: 12px !important;
+	}
+
+	.transcript-header {
+		p {
+			font-size: 12px !important;
+		}
+	}
+}
+
 }/* END: Tablet ---------- */

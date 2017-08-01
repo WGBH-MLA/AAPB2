@@ -10,6 +10,7 @@
     ['Executive Advisory Council', '/about-the-american-archive/executive-advisory-council'],
     ['Acknowledgments', '/about-the-american-archive/acknowledgments'],
     ['FAQ', '/faq'],
+    ['Newsletter', '/about-the-american-archive/newsletter'],
     ['Contact Us', '/contact-us']
   ]
 %>
@@ -24,7 +25,6 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <h2 class="states"><%= title %></h2>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -32,7 +32,7 @@
       <ul class="nav navbar-nav">
         <% links.each do |name,link,subs=nil| %>
           <li>
-            <%= link ? link_to(name, link) : content_tag('a', name) %>
+            <%= link ? link_to(name, link, class: current_page(link)) : content_tag('a', name) %>
             <%# <a> in either case for consistent style. %>
           </li>
           <% if subs %><%# This could be recursive... %>

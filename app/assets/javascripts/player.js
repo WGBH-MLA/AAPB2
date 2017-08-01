@@ -138,7 +138,6 @@ $(function(){
       var $this = $(this)
       updatePlayerGrid();
       updateTranscriptGrid();
-      $this.toggleClass('show-transcript');
 
       if ($this.hasClass('show-transcript')) {
         $this.html('Show<div class="transcript-circle">+</div>');

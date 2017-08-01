@@ -1,5 +1,5 @@
 <% if @show_transcript %>
-<div class="col-sm-12 col-md-2 transcript-div">
+<div class="col-sm-12 col-md-6 transcript-div">
   <div class="transcript-header">
     <p>Transcript</p>
     <div class="input-group input-group-sm transcript-search" role="search">
@@ -8,11 +8,11 @@
       <button data-search="prev">&uarr;</button>
       <button data-search="clear">✖</button>
     </div>
-    <div class="show-transcript transcript-slide" style="cursor: pointer;">
-      Show<span class="transcript-circle">+</span>
+    <div class="transcript-slide" style="cursor: pointer;">
+      Hide<span class="transcript-circle">-</span>
     </div>
   </div>
-  <div class="transcript-view transcript-view-small">
+  <div class="transcript-view transcript-view-large">
     <div id="transcript" class="transcript-frame">
       <%= raw @transcript_html %>
     </div>
