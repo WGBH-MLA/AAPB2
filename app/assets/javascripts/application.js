@@ -20,6 +20,10 @@
 //= require_tree .
 //= stub player
 
+// Mark.js and ScrollTo for Transcript Search
+//= require mark.js/jquery.mark.min.js
+//= require jquery.scrollTo-2.1.2/jquery.scrollTo.min.js
+
 // For blacklight_range_limit built-in JS, if you don't want it you don't need
 // this:
 //= require 'blacklight_range_limit'
