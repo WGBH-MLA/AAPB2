@@ -261,7 +261,7 @@ describe 'Catalog' do
         describe 'field sorting' do
           assertions = [
             ['year+desc', 'Making It Here; 105; Sweets'],
-            ['year+asc', 'Nixon Impeachment Hearings; Part 1 of 3; 2; 1974-07-24'],
+            ['year+asc', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
           assertions.each do |sort, title|
@@ -313,9 +313,9 @@ describe 'Catalog' do
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
                  'Access: Online Reading Room'],
                 ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
-                ['Series: Nixon Impeachment Hea', 'Segment: Part 1 of 3', 'Episode Number: 2', 'Episode: 1974-07-24', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nixon Impeachment Hea', 'Segment: Part 2 of 3', 'Episode Number: 2', 'Episode: 1974-07-24', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nixon Impeachment Hea', 'Segment: Part 3 of 3', 'Episode Number: 2', 'Episode: 1974-07-24', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 1 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 2 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 3 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
                 ['Title: Racing the Rez', 'Organization: Vision Maker Media', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
