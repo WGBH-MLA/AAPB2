@@ -60,12 +60,12 @@
           <!-- Secondary Nav Links -->
           <nav class="navbar-right secondary-nav" role="navigation">
 
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav row">
               <!-- Nav Search -->
               <% unless current_page?(controller: 'home', action: 'show' ) %>
-                <li><%= render_search_bar %></li>
+                <li class="col-md-6 sec-nav-item"><%= render_search_bar %></li>
               <% end %>
-              <li><%= link_to "FIX IT: A TRANSCRIPT GAME", "http://fixit.americanarchive.org/?utm_source=aapb_fixit_header&utm_medium=website&utm_campaign=fixit_from_website", class: "header-fixit", target: "_blank" %></li>
+              <li class="col-md-6 sec-nav-item"><%= link_to "FIX IT: A TRANSCRIPT GAME", "http://fixit.americanarchive.org/?utm_source=aapb_fixit_header&utm_medium=website&utm_campaign=fixit_from_website", class: "header-fixit", target: "_blank" %></li>
             </ul>
           </nav>
 
