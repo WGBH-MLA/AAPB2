@@ -9,7 +9,6 @@
   collection: Collection
   series: Series
   program: Program
-  segment: Segment
   number: Episode Number
   epospde: Episode
   episode: Episode
@@ -24,4 +23,5 @@
   b roll: Raw Footage
   album: Album
   label: Label
+  segment: Segment
   '': Title
