@@ -12,7 +12,7 @@ In February 1973, James Karayn, the president of the National Public Affairs Cen
 
 ## Author
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/amandaheadshot.JPG"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/amandaheadshot.jpg"/>
 
 ### Amanda Reichenbach
 Junior Fellow, Library of Congress
