@@ -19,6 +19,7 @@
 //= require blacklight/blacklight
 //= require_tree .
 //= stub player
+//= stub catalog-index
 
 // Mark.js and ScrollTo for Transcript Search
 //= require mark.js/jquery.mark.min.js
