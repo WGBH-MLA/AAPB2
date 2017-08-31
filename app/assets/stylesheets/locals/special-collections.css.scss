@@ -1,0 +1,399 @@
+/* Special Collections */
+
+/* Title */
+
+.collections-header {
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_banner.jpg");
+  max-width: 1172px;
+  height: 60px;
+  h1 {
+    padding-left: 22px;
+    font-size: 36px;
+    font-weight: lighter;
+    line-height: 60px;
+    color: #fff;
+    margin: 0;
+  }
+}
+
+/* Index */
+
+.collection-thumbnail {
+  border: none;
+  a {
+    color: #fff;
+    display: table-cell;
+    vertical-align: middle;
+    img {
+      margin: 0 auto;
+      height: 346px;
+      max-width: 346px;
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+  }
+  h2 {
+    position: absolute;
+    top: 244px;
+    width: 346px;
+    height: 102px;
+    font-size: 32px;
+    text-align: center;
+    display: table;
+    margin: 0;
+    padding: 3px;
+  }
+}
+
+.bg-color-purple {
+  background: rgba(48,31,113,.5);
+}
+
+.bg-color-pink {
+  background: rgba(137,27,140,.5);
+}
+
+.bg-color-red {
+  background: rgba(123,41,37,.5);
+}
+
+.collections-intro {
+  p {
+    text-align: center;
+  }
+}
+
+/* Show */
+
+.breadcrumb-row {
+  padding: 0;
+}
+
+.collection-about-col {
+  .collection-about {
+    border-bottom: rgb(209,205,224) solid 1px;
+  }
+  .producer {
+    padding-top: 25px;
+  }
+}
+
+.funders-row {
+  border-bottom: rgb(209,205,224) solid 1px;
+}
+
+.collection-resources {
+  border-top: 1px;
+  ul {
+    list-style-type: none;
+  }
+}
+
+.collection-breadcrumb {
+  padding: 15px 0;
+  list-style: none;
+  margin: 0;
+  li {
+    display: inline-block;
+    color: rgb(48,31,114);
+  }
+  li:before {
+    content: "\25C2";
+    color: rgb(48,31,114);
+    padding: 0 5px;
+  }
+}
+
+.collection-image {
+  padding: 0;
+  img {
+    width: 100%;
+    margin: 0;
+    padding: 0 0 25px 0;
+  }
+}
+
+.collection-search {
+  margin: 0;
+  .search-body {
+    background: rgb(48,31,114);
+    background: -webkit-linear-gradient(rgb(139,23,139), rgb(48,31,114)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgb(139,23,139), rgb(48,31,114)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgb(139,23,139), rgb(48,31,114)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgb(139,23,139), rgb(48,31,114)); /* Standard syntax */
+    form {
+      width: 95%;
+      margin: 0 auto;
+      .input-group {
+        input[type="search"] {
+          font-size: 18px;
+          padding: 18px;
+        }
+        .search_q {
+          height: 51px;
+        }
+        .input-group-btn {
+          height: 51px;
+          padding: 0;
+          button {
+            height: 51px;
+          }
+        }
+      }
+    }
+  }
+  .search-help {
+    font-size: 18px;
+    text-align: center;
+    padding: 16px 0;
+    a {
+      color: #fff;
+      a:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  .suggested-topics {
+    font-size: 18px;
+    font-weight: normal;
+    padding: 0 0 27px 0;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+    .topics-text {
+      padding: 0;
+      a {
+        color: #fff;
+        font-style: italic;
+        a:hover {
+          text-decoration: underline;
+        }
+      }
+      .suggested {
+        text-align: center;
+      }
+    }
+  }
+  .collection-all-btn {
+    text-align: center;
+    max-height: 75px;
+    .btn-primary {
+      background-color: rgb(184,30,45);
+      font-size: 24px;
+      font-weight: bold;
+      line-height: 58px;
+      text-transform: none;
+      width: 65%;
+      margin-bottom: 27px;
+    }
+    .view-all-shadow {
+      -webkit-box-shadow: -5px 5px 0 0 rgb(109,1,16) !important;
+      box-shadow: -5px 5px 0 0 rgb(109,1,16) !important;
+    }
+  }
+}
+
+.funders-row {
+  padding: 25px 0 0 0;
+  p {
+    font-size: 14px;
+    margin: 0;
+  }
+  .funder {
+    padding: 25px 0;
+    img {
+      padding: 5px;
+    }
+  }
+}
+
+.resources-row {
+  padding-top: 25px;
+  h2 {
+    margin: 0;
+  }
+}
+
+.collection-resources {
+  padding: 0;
+  font-size: 18px;
+  ul {
+    padding: 0;
+    margin: 21px 0;
+    li {
+      padding-bottom: 21px;
+    }
+  }
+}
+
+.collection-features {
+  padding: 25px 18px;
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 25px 0 0 0;
+  }
+  .featured-item {
+    padding: 0 17px 17px 0;
+    a {
+      color: #fff;
+      display: table-cell;
+      img {
+        margin: 0 auto;
+        height: 180px;
+        max-width: 180px;
+        position: relative;
+        top: 0;
+        left: 0;
+      }
+    }
+    h3 {
+      position: absolute;
+      top: 122px;
+      width: 180px;
+      height: 58px;
+      font-size: 24px;
+      text-align: center;
+      display: table;
+      margin: 0;
+    }
+  }
+}
+
+/* Search Index */
+
+.special-collections-search {
+  padding: 0 15px;
+}
+
+.collection-search-index {
+  padding: 0;
+}
+
+.collection-search-panel {
+  margin: 0 0 28px 0;
+  .search-body {
+    background: rgb(48,31,114);
+    background: -webkit-linear-gradient(rgb(139,23,139), rgb(48,31,114)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgb(139,23,139), rgb(48,31,114)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgb(139,23,139), rgb(48,31,114)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgb(139,23,139), rgb(48,31,114)); /* Standard syntax */
+    form {
+      width: 70%;
+      margin: 0 auto;
+      .input-group {
+        input[type="search"] {
+          font-size: 18px;
+          padding: 18px;
+        }
+        .search_q {
+          height: 51px;
+        }
+        .input-group-btn {
+          height: 51px;
+          padding: 0;
+          button {
+            height: 51px;
+          }
+        }
+      }
+    }
+  }
+  .collection-search-help-div {
+    padding: 16px 15% 23px 15%;
+    font-size: 18px;
+    color: #fff;
+    a {
+        color: #fff;
+    }
+  }
+  .suggested-topics {
+    font-size: 18px;
+    font-weight: normal;
+    padding: 0 0 27px 0;
+    color: #fff;
+    margin: 0 auto;
+    .topics-text {
+      padding: 0;
+      a {
+        color: #fff;
+        font-style: italic;
+        a:hover {
+          text-decoration: underline;
+        }
+      }
+      .suggested {
+        text-align: center;
+      }
+    }
+  }
+}
+
+/* Search Modal */
+
+.search-modal-content{
+
+  .search-modal-title {
+    color: #fff;
+    border: none;
+    font-size: 36px;
+    font-weight: lighter;
+    line-height: 58px;
+    padding: 0 0 0 63px;
+    margin: 0;
+    width: 90%;
+    float: left;
+  }
+
+  .search-modal-close {
+    color: #fff;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    font-size: 36px;
+    line-height: 58px;
+    text-align: center;
+    opacity: 1;
+    width: 10%;
+    float: right;
+    padding: 0 20px 0 0;
+    .search-modal-close:hover, .search-modal-close:focus{
+      color: #fff;
+    }
+  }
+
+  .search-modal-header {
+    margin-top: 20px;
+    height: 58px;
+    padding: 0;
+    background: rgb(48,31,114);
+    background: -webkit-linear-gradient(rgb(139,23,139), rgb(48,31,114)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgb(139,23,139), rgb(48,31,114)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgb(139,23,139), rgb(48,31,114)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgb(139,23,139), rgb(48,31,114)); /* Standard syntax */
+  }
+
+  .search-modal-body {
+    padding: 43px 63px;
+  }
+}
+
+.search-modal {
+  text-align: center;
+  padding: 0!important;
+}
+
+.search-modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.search-modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}

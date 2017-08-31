@@ -1,0 +1,27 @@
+<% content_for :main do %>
+  <div class="row">
+    <div class="col-md-12 collections-intro">
+      <p>Lorizzle ipsum dolizzle fizzle pot, fo shizzle adipiscing elit. Nullizzle sapien velit, aliquet volutpat, shit quizzle, dope vizzle, arcu. Fizzle crunk tortizzle. Sizzle eros. Dizzle at dolizzle we gonna chung turpis tempizzle shizzlin dizzle. Mauris pellentesque nibh izzle crackalackin. Yo mamma izzle da bomb. That's the shizzle eleifend rhoncizzle nizzle. In hac that's the shizzle dictumst. Dizzle dapibizzle. Sure gizzle urna, pretizzle crackalackin, phat shizzlin dizzle, eleifend vitae, nunc. Own yo' suscipit. Shizzle my nizzle crocodizzle check it out velit sizzle ass.</p>
+    </div>
+  </div>
+  <div class="row collection-index" id="documents">
+    <% @top_level_special_collections.each do |coll| %>
+      <div class="collection col-xs-12 col-sm-6 col-md-4">
+        <div class="collection-thumbnail">
+          <a href="/special_collections/<%= coll.path %>">
+            <img src="<%= coll.thumbnail_url %>" alt="<%= coll.title %>" aria-hidden="true">
+            <h2 class="index-title bg-color-<%= ['purple','pink','red'].sample %>">
+              <a href="/special_collections/<%= coll.path %>"><%= coll.title %></a>
+            </h2>
+          </a>
+        </div>
+      </div>
+    <% end %>
+  </div>
+<% end %>
+
+<%= render partial: 'title',
+           locals: {
+            title: 'Special Collections',
+            main: yield(:main)
+           } %>

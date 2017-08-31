@@ -1,24 +1,24 @@
 ---
 - state: Kansas
-  abbreviation: KS 
+  abbreviation: KS
   blurb_fill:
     naeb_station: U. of Kansas
   blurb_md: &naeb_blurb >
     [Additional audio content from %{naeb_station} in %{state}]
     (/catalog?&f[access_types][]=all&q="%{naeb_station}")
-    is part of the National Association of Educational Broadcasters (NAEB) collection, 
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
-    The NAEB was established in 1934 from a precursor organization that formed in 1925. 
-    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where 
-    programs produced by university radio stations across the country were copied and 
-    distributed to member stations, an early networking scheme that influenced the 
-    history of later public radio and television systems. The more than 5,500 NAEB 
-    programs available in the AAPB come from the 1950s and 1960s, and include radio 
-    documentaries, coverage of events (hearings, meetings, conferences, and seminars), 
-    interviews, debates, and lectures on public affairs topics such as civil rights, 
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
-    
+
 - state: South Dakota
   blurb_fill:
     naeb_station: KFJM
@@ -50,17 +50,17 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [KPPC](/catalog?f[access_types][]=all&q=kppc), [KEBS](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=kebs), and [San Bernardino Valley College](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="San Bernardino Valley") in California is part of the National Association of Educational Broadcasters (NAEB) collection, 
+    Additional audio content from [KPPC](/catalog?f[access_types][]=all&q=kppc), [KEBS](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=kebs), and [San Bernardino Valley College](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="San Bernardino Valley") in California is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
-    The NAEB was established in 1934 from a precursor organization that formed in 1925. 
-    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where 
-    programs produced by university radio stations across the country were copied and 
-    distributed to member stations, an early networking scheme that influenced the 
-    history of later public radio and television systems. The more than 5,500 NAEB 
-    programs available in the AAPB come from the 1950s and 1960s, and include radio 
-    documentaries, coverage of events (hearings, meetings, conferences, and seminars), 
-    interviews, debates, and lectures on public affairs topics such as civil rights, 
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
   abbreviation: CA
 
@@ -95,17 +95,17 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [University of Chicago](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="u. of chicago") and [WMBI](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmbi) in Illinois is part of the National Association of Educational Broadcasters (NAEB) collection, 
+    Additional audio content from [University of Chicago](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="u. of chicago") and [WMBI](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmbi) in Illinois is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
-    The NAEB was established in 1934 from a precursor organization that formed in 1925. 
-    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where 
-    programs produced by university radio stations across the country were copied and 
-    distributed to member stations, an early networking scheme that influenced the 
-    history of later public radio and television systems. The more than 5,500 NAEB 
-    programs available in the AAPB come from the 1950s and 1960s, and include radio 
-    documentaries, coverage of events (hearings, meetings, conferences, and seminars), 
-    interviews, debates, and lectures on public affairs topics such as civil rights, 
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
   abbreviation: IL
 
@@ -140,17 +140,17 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [WUOM](/catalog?utf8=✓&f[access_types][]=all&q=wuom), [WDET](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wdet), and [WMUK](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmuk) in Michigan is part of the National Association of Educational Broadcasters (NAEB) collection, 
+    Additional audio content from [WUOM](/catalog?utf8=✓&f[access_types][]=all&q=wuom), [WDET](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wdet), and [WMUK](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmuk) in Michigan is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
-    The NAEB was established in 1934 from a precursor organization that formed in 1925. 
-    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where 
-    programs produced by university radio stations across the country were copied and 
-    distributed to member stations, an early networking scheme that influenced the 
-    history of later public radio and television systems. The more than 5,500 NAEB 
-    programs available in the AAPB come from the 1950s and 1960s, and include radio 
-    documentaries, coverage of events (hearings, meetings, conferences, and seminars), 
-    interviews, debates, and lectures on public affairs topics such as civil rights, 
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
   abbreviation: MI
 
@@ -185,17 +185,17 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [WRVR](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wrvr), [Union Theological Seminary](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="union theological seminary"), and [WBFO] (/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wbfo) in New York is part of the National Association of Educational Broadcasters (NAEB) collection, 
+    Additional audio content from [WRVR](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wrvr), [Union Theological Seminary](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="union theological seminary"), and [WBFO] (/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wbfo) in New York is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
-    The NAEB was established in 1934 from a precursor organization that formed in 1925. 
-    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where 
-    programs produced by university radio stations across the country were copied and 
-    distributed to member stations, an early networking scheme that influenced the 
-    history of later public radio and television systems. The more than 5,500 NAEB 
-    programs available in the AAPB come from the 1950s and 1960s, and include radio 
-    documentaries, coverage of events (hearings, meetings, conferences, and seminars), 
-    interviews, debates, and lectures on public affairs topics such as civil rights, 
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
   abbreviation: NY
 
@@ -206,17 +206,17 @@
   blurb_fill:
     naeb_station: WMUB
   blurb_md: >
-    Additional audio content from [WMUB](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmub) and [WGUC](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wguc) in Ohio is part of the National Association of Educational Broadcasters (NAEB) collection, 
+    Additional audio content from [WMUB](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmub) and [WGUC](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wguc) in Ohio is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
-    The NAEB was established in 1934 from a precursor organization that formed in 1925. 
-    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where 
-    programs produced by university radio stations across the country were copied and 
-    distributed to member stations, an early networking scheme that influenced the 
-    history of later public radio and television systems. The more than 5,500 NAEB 
-    programs available in the AAPB come from the 1950s and 1960s, and include radio 
-    documentaries, coverage of events (hearings, meetings, conferences, and seminars), 
-    interviews, debates, and lectures on public affairs topics such as civil rights, 
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
   abbreviation: OH
 
@@ -276,3 +276,6 @@
 
 - state: Guam
   abbreviation: GU
+
+- state: Washington, DC
+  abbreviation: DC

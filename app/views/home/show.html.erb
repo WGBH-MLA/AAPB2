@@ -50,6 +50,30 @@
 </div>
 <!-- END Welcome -->
 
+<!-- Special Collections -->
+
+<div class="video-background-container" id="special-collections">
+  <video class="background-video" preload="preload" id="video-background" autoplay="autoplay" loop="loop" muted plays-inline poster="https://s3.amazonaws.com/americanarchive.org/special-collections/special-collections-poster.png" src="https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_background_video.mp4" type="video/mp4">
+    <source src="https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_background_video.mp4" type="video/mp4"></source>
+    <source src="https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_background_video.webm" type="video/webm"></source>
+  </video>
+  <div class="special-collections-content">
+    <div class="container">
+      <div class="well intro-text">
+        <h2>Special Collections</h2>
+        <p>
+          Explore in depth selected topics of historical
+          significance as covered by public radio and television.
+        </p>
+        <%= render partial: 'home/special_collections_carousel' %>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- END Special Collections -->
+
 <!-- Exhibits -->
 <div class="jumbotron home-jumbotron" id="exhibits">
   <div class="container">
@@ -61,9 +85,7 @@
         significance as covered by public radio and television.
       </p>
     </div>
-
     <%= render partial: 'home/exhibits_carousel' %>
-
   </div>
 </div>
 <!-- END Exhibits -->

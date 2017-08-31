@@ -1,0 +1,21 @@
+<div class="collections-header">
+  <h1><%=
+    # "title || @page_title" doesn't work
+    if defined? title
+      title
+    else
+      @page_title
+    end %></h1>
+</div>
+
+<div class="row">
+  <div class="region clearfix">
+
+    <!-- START: Main Column -->
+    <div class="col-md-12">
+      <%= main %>
+    </div>
+    <!-- END: Main Column -->
+
+  </div>
+</div>

@@ -1,6 +1,17 @@
-<div class="page-header">
-  <h1>Search Results</h1>
-</div>
+<% if @special_collection %>
+  <div class="collections-header">
+    <h1><%= @special_collection.title %></h1>
+  </div>
+  <div class="special-collections-search">
+    <%= render partial: 'special_collections/search_results', locals: {special_collection: @special_collection } %>
+  </div>
+
+  <%= render partial: 'special_collections/search_help_modal' %>
+<% else %>
+  <div class="page-header">
+    <h1>Search Results</h1>
+  </div>
+<% end %>
 
 <div id="sidebar" class="col-md-3 col-sm-4">
   <%= render 'search_sidebar' %>
