@@ -1,32 +1,27 @@
-<% content_for :sidebar do %>
-  <%= render partial: 'shared/sidebar_nav',
-             locals: { title: 'Exhibits' } # TODO: Would make more sense if this were one of the pages listed.
-  %>
-<% end %>
-
 <% content_for :main do %>
-  <div class="row exhibit-index" id="documents">
-    <% @top_level_exhibits.each do |exhibit| %>
-      <div class="document col-xs-12 col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <div class="caption">
-            <div class="documentHeader">
-              <a href="/exhibits/<%= exhibit.path %>">
-                <img src="<%= exhibit.thumbnail_url %>" alt="<%= exhibit.title %>" aria-hidden="true">
-              </a>
-              <h2 class="index_title">
-                <a href="/exhibits/<%= exhibit.path %>"><%= exhibit.title %></a>
-              </h2>
-            </div>
-          </div>
+  <div class="row">
+    <div class="col-md-12 gallery-intro">
+      <p>Lorizzle ipsum dolizzle fizzle pot, fo shizzle adipiscing elit. Nullizzle sapien velit, aliquet volutpat, shit quizzle, dope vizzle, arcu. Fizzle crunk tortizzle. Sizzle eros. Dizzle at dolizzle we gonna chung turpis tempizzle shizzlin dizzle. Mauris pellentesque nibh izzle crackalackin. Yo mamma izzle da bomb. That's the shizzle eleifend rhoncizzle nizzle. In hac that's the shizzle dictumst. Dizzle dapibizzle. Sure gizzle urna, pretizzle crackalackin, phat shizzlin dizzle, eleifend vitae, nunc. Own yo' suscipit. Shizzle my nizzle crocodizzle check it out velit sizzle ass.</p>
+    </div>
+  </div>
+  <div class="row gallery-index" id="documents">
+    <% @top_level_exhibits.each do |ex| %>
+      <div class="gallery col-xs-12 col-sm-6 col-md-4">
+        <div class="gallery-thumbnail">
+          <a href="/exhibits/<%= ex.path %>">
+            <img src="<%= ex.thumbnail_url %>" alt="<%= ex.title %>" aria-hidden="true">
+            <h2 class="exhibit-index-title bg-color-<%= ['purple','pink','red'].sample %>">
+              <a href="/exhibits/<%= ex.path %>"><%= ex.title %></a>
+            </h2>
+          </a>
         </div>
       </div>
     <% end %>
   </div>
 <% end %>
 
-<%= render partial: 'shared/title_sidebar_main',
+<%= render partial: 'shared/gallery_title',
            locals: {
-             sidebar: yield(:sidebar),
-             main: yield(:main)
+            title: 'Exhibits',
+            main: yield(:main)
            } %>
