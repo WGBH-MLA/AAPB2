@@ -6,8 +6,8 @@ class SpecialCollection < Cmless
   ROOT = (Rails.root + 'app/views/special_collections').to_s
 
   attr_reader :thumbnail_html
-  attr_reader :collection_html
-  attr_reader :producer_html
+  attr_reader :summary_html
+  attr_reader :background_html
   attr_reader :resources_html
   attr_reader :featured_html
   attr_reader :funders_html
@@ -25,13 +25,13 @@ class SpecialCollection < Cmless
       Nokogiri::HTML(thumbnail_html).xpath('//img[1]/@src').first.text
   end
 
-  def collection_html
-    doc = Nokogiri::HTML::DocumentFragment.parse(@collection_html)
+  def summary_html
+    doc = Nokogiri::HTML::DocumentFragment.parse(@summary_html)
     doc.inner_html
   end
 
-  def producer_html
-    doc = Nokogiri::HTML::DocumentFragment.parse(@producer_html)
+  def background_html
+    doc = Nokogiri::HTML::DocumentFragment.parse(@background_html)
     doc.search('img').each do |image|
       image['class'] = 'pull-right'
     end

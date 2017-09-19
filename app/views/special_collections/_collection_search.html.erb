@@ -16,16 +16,6 @@
       <div class="search-help">
         <%= link_to "Need Help Searching?", "#", data: { toggle: "modal", target: "#searchHelpModal" }  %>
       </div>
-      <div class="row suggested-topics">
-        <div class="col-md-6 topics-text">
-          <div class="suggested">Suggested Searches:</div>
-        </div>
-        <div class="col-md-6 topics-text">
-          <%= link_to "Video", "/catalog?sort=year+asc&f[special_collection][]=#{@special_collection.path}&f%5Bmedia_type%5D%5B%5D=Moving+Image" %>, <%= link_to "Audio", "/catalog?sort=year+asc&f[special_collection][]=#{@special_collection.path}&f%5Bmedia_type%5D%5B%5D=Sound" %>,
-            <%= link_to "Online", "/catalog?sort=year+asc&f[special_collection][]=#{@special_collection.path}&f[access_types][]=online" %>,
-            <%= link_to "Digitized", "/catalog?sort=year+asc&f[special_collection][]=#{@special_collection.path}&f[access_types][]=digitized" %>
-        </div>
-      </div>
       <div class="collection-all-btn">
         <a class="btn btn-primary view-all-shadow" href="<%= '/catalog?sort=year+asc&f[special_collection][]=' + @special_collection.path %>">View the collection</a>
       </div>

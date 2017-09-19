@@ -32,8 +32,8 @@ describe SpecialCollection do
                  'The National Endowment for the Humanities funds stuff like this!']],
       title: 'Test Collection',
       title_html: 'Test Collection',
-      collection_html: '<p>Test Collection Description</p>',
-      producer_html: '<p>Test Producer Description</p>',
+      summary_html: '<p>Test Collection Description</p>',
+      background_html: '<p>Test Producer Description</p>',
       # rubocop:disable LineLength
       featured_html: "<p><a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-2r3nv99t98.jpg\" alt=\"Test Featured Item\"></a>\n<a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg\" alt=\"Test Featured Item 2\"></a></p>",
       resources_html: "<ul>\n<li><a href=\"http://www.pbs.org/kenburns/civil-war/\"><em>The Civil War</em> on PBS.org</a></li>\n<li><a href=\"http://www.pbs.org/kenburns/civil-war/restoring-film/\">Restoring <em>The Civil War</em> film</a></li>\n</ul>",

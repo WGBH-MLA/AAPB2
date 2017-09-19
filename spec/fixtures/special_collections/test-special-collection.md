@@ -4,11 +4,11 @@
 
 ![Test Thumbnail](https://s3.amazonaws.com/americanarchive.org/special-collections/CivilWarKenBurns.jpg "Test Thumbnail")
 
-## Collection
+## Summary
 
 Test Collection Description
 
-## Producer
+## Background
 
 Test Producer Description
 
