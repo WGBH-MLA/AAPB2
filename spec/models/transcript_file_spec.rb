@@ -6,6 +6,7 @@ describe TranscriptFile do
   let(:json_id) { 'cpb-aacip_111-21ghx7d6' }
   let(:text_id) { 'cpb-aacip_507-0000000j8w' }
   let(:fake_id) { '867-5309' }
+  let(:no_transcript) { TranscriptFile.new(fake_id) }
   let(:json_transcript) { TranscriptFile.new(json_id) }
   let(:invalid_json) { "['simple string', ['invalid_json'" }
   let(:valid_json) { '{ "start":{"one":"two", "three":"four" }}' }
@@ -81,6 +82,20 @@ describe TranscriptFile do
 
     it 'returns text for a record with a text transcript' do
       expect(text_transcript.file_type).to eq(TranscriptFile::TEXT_FILE)
+    end
+  end
+
+  describe '#url' do
+    it 'returns a text url when text transcript is on S3' do
+      expect(text_transcript.url).to eq('https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.txt')
+    end
+
+    it 'returns a json url when json transcript is on S3' do
+      expect(json_transcript.url).to eq('https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json')
+    end
+
+    it 'returns nil when no transcript in on S3' do
+      expect(no_transcript.url).to eq(nil)
     end
   end
 

@@ -1,5 +1,6 @@
 require 'rexml/document'
 require 'rexml/xpath'
+require 'nokogiri'
 require 'solrizer'
 require 'fastimage'
 require_relative '../../lib/aapb'
@@ -302,12 +303,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
     "#{caption_base}/#{caption_id}/#{caption_id}.srt1.srt"
   end
 
-  def self.transcript_url(id)
-    transcript_id = id.tr('_', '-')
-    transcript_base = 'https://s3.amazonaws.com/americanarchive.org/transcripts'
-    "#{transcript_base}/#{transcript_id}/#{transcript_id}-transcript.json"
-  end
-
   def to_solr
     # Only just before indexing do we check for the existence of captions:
     # We don't want to ping S3 multiple times, and we don't want to store all
@@ -331,18 +326,18 @@ class PBCore # rubocop:disable Metrics/ClassLength
     end
 
     doc_with_transcript_flag = doc_with_caption_flag
+    transcript = TranscriptFile.new(id)
 
-    transcript_response = Net::HTTP.get_response(URI.parse(PBCore.transcript_url(id)))
-    if transcript_response.code == '200'
+    if transcript.file_present?
       pre_existing = pre_existing_transcript_annotation(doc_with_transcript_flag)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
 
-      transcript_body = parse_transcript_body(transcript_response.body)
+      transcript_body = Nokogiri::HTML(transcript.html).text.tr("\n", ' ')
 
       REXML::XPath.match(doc_with_transcript_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|
           el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
-          el.add_text(PBCore.transcript_url(id))
+          el.add_text(transcript.url)
         end
     end
 
@@ -438,10 +433,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
     # "&&" is intersection: we also want to match " ",
     # so that control-chars + spaces collapse to a single space.
     caption_body.gsub(/[^[:print:][\n]&&[^ ]]+/, ' ')
-  end
-
-  def parse_transcript_body(transcript_body)
-    JSON.parse(transcript_body)['parts'].map { |part| part['text'] }.flatten
   end
 
   def img_dimensions
