@@ -291,6 +291,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
       playlist_map[playlist_map.keys.select { |k| k < playlist_order }.max]
     end if playlist_map
   end
+  def supplemental_content
+    @supplemental_content ||= begin
+      REXML::XPath.match(@doc, '/*/pbcoreAnnotation[@annotationType="Supplemental Material"]').map { |mat| [mat.attributes['ref'], mat.text] }
+    end
+  end
 
   # rubocop:enable Style/EmptyLineBetweenDefs
 
@@ -398,7 +403,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
-      :playlist_next_id, :playlist_prev_id
+      :playlist_next_id, :playlist_prev_id, :supplemental_content
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)
