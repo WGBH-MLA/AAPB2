@@ -68,7 +68,7 @@ gem 'blacklight_range_limit'
 gem 'actionpack-page_caching'
 gem 'srt'
 
-gem 'sony-ci-api'
+gem 'sony_ci_api', '~> 0.2.1'
 
 gem 'rubyzip'
 

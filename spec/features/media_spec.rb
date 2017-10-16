@@ -1,6 +1,6 @@
 require_relative '../../scripts/lib/pb_core_ingester'
 require 'rails_helper'
-require 'sony-ci-api'
+require 'sony_ci_api'
 require 'tmpdir'
 
 describe 'Media URLs', not_on_travis: true do

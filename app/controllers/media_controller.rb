@@ -1,3 +1,5 @@
+require 'sony_ci_api'
+
 class MediaController < ApplicationController
   include Blacklight::Catalog
 
