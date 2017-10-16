@@ -3,7 +3,11 @@
 ![Keith Page](/page-banners/banner5.jpg)
 
 Our vision is to to preserve and make accessible significant historical content created by public media,
-and to coordinate a national effort to save at-risk public media before its content is lost to posterity. We're fulfilling our vision through several exciting grant projects.
+and to coordinate a national effort to save at-risk public media before its content is lost to posterity. We're fulfilling our vision through several exciting grant projects. 
+
+### The Public Broadcasting Preservation Fellowship
+
+The Public Broadcasting Preservation Fellowship (PBPF), funded by the Institute of Museum and Library Services, supports ten graduate student fellows at University of North Carolina, San Jose State University, Clayton State University, University of Missouri, and University of Oklahoma in digitizing at-risk materials at public media organizations around the country. Host sites include the Center for Asian American Media, Georgia Public Broadcasting, WUNC, the Oklahoma Educational Television Authority, and KOPN Community Radio. Contents digitized by the fellows will be preserved in the American Archive of Public Broadcasting. The grant also supports participating universities in developing long-term programs around audiovisual preservation and ongoing partnerships with their local public media stations. [Read more about the PBPF project](/about-the-american-archive/projects/pbpf).
 
 ### The American Archive of Public Broadcasting
 
