@@ -32,6 +32,10 @@ class TranscriptFile
     @file_type ||= determine_file_type
   end
 
+  def url
+    @url ||= determine_url
+  end
+
   def self.json_url(id)
     transcript_id = id.tr('_', '-')
 
@@ -68,6 +72,16 @@ class TranscriptFile
       return TranscriptConverter.json_to_html(json)
     when TranscriptFile::TEXT_FILE
       return TranscriptConverter.text_to_html(text)
+    end
+    nil
+  end
+
+  def determine_url
+    case file_type
+    when TranscriptFile::JSON_FILE
+      return TranscriptFile.json_url(id)
+    when TranscriptFile::TEXT_FILE
+      return TranscriptFile.text_url(id)
     end
     nil
   end
