@@ -8,6 +8,7 @@ describe 'Validated and plain PBCore' do
 
   let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
   let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
+  let(:pbc_supplemental_materials) { File.read('spec/fixtures/pbcore/clean-supplemental-materials.xml') }
   let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
   let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
   let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
@@ -191,6 +192,7 @@ describe 'Validated and plain PBCore' do
         duration: '1:23:45',
         digitized?: true,
         subjects: ['explosions -- gratuitious', 'musicals -- horror'],
+        supplemental_content: [],
         creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
         contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
         publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
@@ -238,6 +240,13 @@ describe 'Validated and plain PBCore' do
       it 'returns the expected transcript_content for json transcript' do
         pbc = PBCore.new(pbc_json_transcript)
         expect(JSON.parse(pbc.transcript_content)).to include(JSON.parse(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-111-21ghx7d6-transcript.json'))))
+      end
+    end
+
+    describe 'PB Core document with supplemental materials' do
+      it 'returns an array of supplemental materials' do
+        pbc = PBCore.new(pbc_supplemental_materials)
+        expect(pbc.supplemental_content).to eq([['https://s3.amazonaws.com/americanarchive.org/supplemental-materials/cpb-aacip-509-6h4cn6zm21.pdf', 'Production Transcript']])
       end
     end
 

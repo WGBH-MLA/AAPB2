@@ -111,6 +111,14 @@
         <dd><%= id %></dd>
       </dl>
     <% end %>
+
+    <% if @pbcore.supplemental_content.present? %>
+      <h4 class="supplemental-content">Supplemental Materials</h4>
+
+      <% @pbcore.supplemental_content.each do |content| %>
+        <li class="supplemental-link"><a href='<%= content[0] %>' target="_blank"><%= content[1] %></a></li>
+      <% end %>
+    <% end %>
   </div>
 
   <div class="col-md-8">
