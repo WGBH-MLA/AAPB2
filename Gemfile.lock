@@ -233,7 +233,7 @@ GEM
       nokogiri
       stomp
       xml-simple
-    sony-ci-api (0.0.2)
+    sony_ci_api (0.2.1)
     spring (1.3.3)
     sprockets (2.12.3)
       hike (~> 1.2)
@@ -318,7 +318,7 @@ DEPENDENCIES
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   solrizer
-  sony-ci-api
+  sony_ci_api (~> 0.2.1)
   spring
   sqlite3
   srt
