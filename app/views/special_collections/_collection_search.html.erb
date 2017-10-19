@@ -16,6 +16,17 @@
       <div class="search-help">
         <%= link_to "Need Help Searching?", "#", data: { toggle: "modal", target: "#searchHelpModal" }  %>
       </div>
+      <% if !@special_collection.terms.empty? %>
+        <div class="row suggested-topics">
+          <div class="col-md-6 topics-text">
+            <div class="suggested">Suggested Searches:</div>
+          </div>
+          <div class="col-md-6 topics-text">
+            <%= @special_collection.terms.map{ |term| link_to(term[0], term[1]) }.join(', ').html_safe %>
+          </div>
+        </div>
+
+      <% end %>
       <div class="collection-all-btn">
         <a class="btn btn-primary view-all-shadow" href="<%= '/catalog?sort=year+asc&f[special_collection][]=' + @special_collection.path %>">View the collection</a>
       </div>

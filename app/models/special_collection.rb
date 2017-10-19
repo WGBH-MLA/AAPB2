@@ -12,6 +12,7 @@ class SpecialCollection < Cmless
   attr_reader :featured_html
   attr_reader :funders_html
   attr_reader :help_html
+  attr_reader :terms_html
 
   attr_reader :head_html
 
@@ -74,5 +75,15 @@ class SpecialCollection < Cmless
   def help_html
     doc = Nokogiri::HTML::DocumentFragment.parse(@help_html)
     doc.inner_html
+  end
+
+  def terms
+    @terms ||=
+      Nokogiri::HTML(terms_html).xpath('//a').map do |el|
+        [
+          el.text,
+          el.attribute('href').to_s
+        ]
+      end
   end
 end

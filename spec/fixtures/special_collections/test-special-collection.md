@@ -29,3 +29,9 @@ Test Producer Description
 ## Help
 
 This is the search help text.
+
+## Terms
+
+- [Term 1](https://www.google.com/)
+- [Term 2](https://www.google.com/)
+
