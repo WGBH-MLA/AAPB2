@@ -1,8 +1,8 @@
-# Eyes on the Prize I Interviews
+# Eyes on the Prize Interviews
 
 ## Thumbnail
 
-![Ken Burns' The Civil War](https://s3.amazonaws.com/americanarchive.org/special-collections/CivilWarKenBurns.jpg "Ken Burns' The Civil War")
+![Eyes on the Prize](https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg "Eyes on the Prize Interviews")
 
 ## Summary
 
@@ -14,13 +14,12 @@ Founded in 1968 by filmmaker Henry Hampton (1940-1998), Blackside, Inc. has prod
 
 ## Featured
 
-[![Barbara Fields](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-2r3nv99t98.jpg)](/catalog/cpb-aacip_509-2r3nv99t98)
-[![Daisy Turner](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-6h4cn6zm21.jpg)](/catalog/cpb-aacip_509-6h4cn6zm21)
-[![Robert Penn Warren](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-f18sb3xm7h.jpg)](/catalog/pb-aacip_509-f18sb3xm7h)
-[![William Safire](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-js9h41kc8n.jpg)](/catalog/cpb-aacip_509-js9h41kc8n)
-[![Ed Bearss](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-pk06w9749m.jpg)](/catalog/cpb-aacip_509-pk06w9749m)
-[![Stephen Oates](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-t727941r7b.jpg)](/catalog/cpb-aacip_509-t727941r7b)
-
+[![John Lewis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-8k74t6fv60.jpg)](/catalog/cpb-aacip_151-8k74t6fv60)
+[![Coretta Scott King](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-542j679j5g.jpg)](/catalog/cpb-aacip_151-542j679j5g)
+[![Rosa Parks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-610vq2sx12.jpg)](/catalog/cpb-aacip_151-610vq2sx12)
+[![Stokely Carmichael](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-7659c6sr1g.jpg)](/catalog/cpb-aacip_151-7659c6sr1g)
+[![Melba Beals](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-z02z31p977.jpg)](/catalog/cpb-aacip_151-z02z31p977)
+[![Bayard Rustin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-rr1pg1jj76.jpg)](/catalog/cpb-aacip_151-rr1pg1jj76)
 
 ## Resources
 
@@ -34,6 +33,6 @@ Founded in 1968 by filmmaker Henry Hampton (1940-1998), Blackside, Inc. has prod
 
 ## Help
 
-Records are described at an item level, and all records contain brief descriptions of topics discussed during the interview. Complete text transcripts exist for all of the interviews, available to view alongside the media record. Timestamp links within the transcripts allow users to navigate to the corresponding section in the media record. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
+Records are described at an item level, and all records contain brief descriptions of topics discussed during the interview. Complete text transcripts exist for all of the interviews, available to view alongside the media record. Users may navigate from the transcript to the corresponding section in the media record by clicking on the small purple ‘play’ buttons that appear on the left side of the text. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
 
 ## Terms

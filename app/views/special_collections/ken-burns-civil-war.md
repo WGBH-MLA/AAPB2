@@ -16,7 +16,7 @@ Ken Burns has been making films for almost forty years. Since the Academy Award 
 
 [![Barbara Fields](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-2r3nv99t98.jpg)](/catalog/cpb-aacip_509-2r3nv99t98)
 [![Daisy Turner](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-6h4cn6zm21.jpg)](/catalog/cpb-aacip_509-6h4cn6zm21)
-[![Robert Penn Warren](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-f18sb3xm7h.jpg)](/catalog/pb-aacip_509-f18sb3xm7h)
+[![Robert Penn Warren](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-f18sb3xm7h.jpg)](/catalog/cpb-aacip_509-f18sb3xm7h)
 [![William Safire](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-js9h41kc8n.jpg)](/catalog/cpb-aacip_509-js9h41kc8n)
 [![Ed Bearss](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-pk06w9749m.jpg)](/catalog/cpb-aacip_509-pk06w9749m)
 [![Stephen Oates](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-t727941r7b.jpg)](/catalog/cpb-aacip_509-t727941r7b)

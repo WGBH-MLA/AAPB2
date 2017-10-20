@@ -249,11 +249,13 @@ describe 'Catalog' do
 
       describe 'sorting' do
         describe 'relevance sorting' do
+          # rubocop:disable LineLength
           assertions = [
             ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman']],
             ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
-            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
+            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
           ]
+          # rubocop:enabable LineLength
           assertions.each do |query, titles|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=#{query}"
             it "sort=score+desc: #{titles}\t#{url}" do
