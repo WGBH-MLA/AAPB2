@@ -117,12 +117,12 @@ describe 'Catalog' do
       describe 'facets' do
         assertions = [
           ['media_type', 1, 'Sound', 10],
-          ['genres', 2, 'Interview', 4],
+          ['genres', 2, 'Interview', 5],
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 8],
           ['organization', 40, 'WGBH+(MA)', 6], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 35]
+          ['access_types', 3, PBCore::ALL_ACCESS, 36]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -167,9 +167,9 @@ describe 'Catalog' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
             ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 31],
-            ['media_type', 'Moving+Image+OR+Sound', 31],
-            ['media_type', 'Moving+Image', 21]
+            ['media_type', 'Sound+OR+Moving+Image', 32],
+            ['media_type', 'Moving+Image+OR+Sound', 32],
+            ['media_type', 'Moving+Image', 22]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -185,11 +185,11 @@ describe 'Catalog' do
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
-          expect_count(8)
+          expect_count(9)
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(35)
+          expect_count(36)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -251,9 +251,9 @@ describe 'Catalog' do
         describe 'relevance sorting' do
           # rubocop:disable LineLength
           assertions = [
-            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman']],
+            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'The Civil War; Interviews with Barbara Fields']],
             ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
-            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
+            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', 'The Civil War; Interviews with Barbara Fields', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
           ]
           # rubocop:enable LineLength
           assertions.each do |query, titles|
@@ -310,6 +310,7 @@ describe 'Catalog' do
                 ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT', 'Media Type: other', 'Access: '],
                 ['Program: Bob Brozman; Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
                 ['Series: The Civil War; Raw Footage: Interview with Daisy', 'Created: 1987-05-21', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: The Civil War; Raw Footage: Interviews with Barba', 'Created: 1987-01-14', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: Dance for Camera; Program: Tzaddik; Episode Number: 102; Organization: WGBH; Media Type: Moving Image; Access: Accessible on locatio'],
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
                 ['Title: Dry Spell', 'Organization: KQED', 'Media Type: Moving Image', 'Access: '],

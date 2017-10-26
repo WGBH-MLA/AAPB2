@@ -81,7 +81,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @exhibits ||= Exhibit.find_all_by_item_id(id)
   end
   def special_collection
-    @special_collection ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="Special Collection"]')
+    @special_collection ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
   def id
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
