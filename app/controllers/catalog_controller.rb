@@ -146,9 +146,10 @@ class CatalogController < ApplicationController
   end
 
   def index
-    # If we are looking at search results for a particular exhibit, then fetch
-    # the exhibit for additional display logic.
+    # If we are looking at search results for a particular exhibit or special collection, then fetch
+    # the exhibit or special collection for additional display logic.
     @exhibit = exhibit_from_url
+    @special_collection = special_collection_from_url
 
     # Cleans up user query for manipulation of caption text in the view.
     if params[:q]
@@ -215,6 +216,17 @@ class CatalogController < ApplicationController
       path = params['f']['exhibits'].first
       begin
         return Exhibit.find_by_path(path)
+      rescue
+        nil
+      end
+    end
+  end
+
+  def special_collection_from_url
+    if params['f'] && params['f']['special_collection'] && !params['f']['special_collection'].empty?
+      path = params['f']['special_collection'].first
+      begin
+        return SpecialCollection.find_by_path(path)
       rescue
         nil
       end

@@ -1,0 +1,62 @@
+/* Index View for Special Collections + Exhibits */
+
+.gallery-header {
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_banner.jpg");
+  max-width: 1172px;
+  height: 60px;
+  h1 {
+    padding-left: 22px;
+    font-size: 36px;
+    font-weight: lighter;
+    line-height: 60px;
+    color: #fff;
+    margin: 0;
+  }
+}
+
+.gallery-intro {
+  p {
+    text-align: center;
+  }
+}
+
+.gallery-thumbnail {
+  border: none;
+  margin: 17px 0;
+  a {
+    color: #fff;
+    display: table-cell;
+    vertical-align: middle;
+    img {
+      margin: 0 auto;
+      height: 346px;
+      max-width: 346px;
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+  }
+  h2 {
+    position: absolute;
+    top: 261px;
+    width: 346px;
+    height: 102px;
+    font-size: 32px;
+    text-align: center;
+    display: table;
+    margin: 0;
+    padding: 3px;
+  }
+}
+
+.bg-color-purple {
+  background: rgba(48,31,113,.5);
+}
+
+.bg-color-pink {
+  background: rgba(137,27,140,.5);
+}
+
+.bg-color-red {
+  background: rgba(123,41,37,.5);
+}

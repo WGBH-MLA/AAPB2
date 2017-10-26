@@ -488,6 +488,38 @@
     }/* END: Desktop ---------- */
 }
 
+/* Special Collections */
 
+.background-video {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  object-fit: fill;
+}
 
+.video-background-container {
+  position: relative;
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/special-collections/special-collections-poster.png");
+  background-size: cover;
+  overflow: hidden;
+  .special-collections-content {
+    position: relative;
+    text-align: center;
+    padding: 5em 1em 2em 1em;
+    h2 {
+      color: #fff;
+      font-weight: 300;
+      margin: 0;
+      text-align: center;
+      font-size: 3.75em;
+    }
+  }
+}
 
+@media (max-width: 991px) {
+  .video-background-container {
+    video {
+      display: none;
+    }
+  }
+}

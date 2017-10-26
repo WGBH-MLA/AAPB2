@@ -1,32 +1,27 @@
-<% content_for :sidebar do %>
-  <%= render partial: 'shared/sidebar_nav',
-             locals: { title: 'Exhibits' } # TODO: Would make more sense if this were one of the pages listed.
-  %>
-<% end %>
-
 <% content_for :main do %>
-  <div class="row exhibit-index" id="documents">
-    <% @top_level_exhibits.each do |exhibit| %>
-      <div class="document col-xs-12 col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <div class="caption">
-            <div class="documentHeader">
-              <a href="/exhibits/<%= exhibit.path %>">
-                <img src="<%= exhibit.thumbnail_url %>" alt="<%= exhibit.title %>" aria-hidden="true">
-              </a>
-              <h2 class="index_title">
-                <a href="/exhibits/<%= exhibit.path %>"><%= exhibit.title %></a>
-              </h2>
-            </div>
-          </div>
+  <div class="row">
+    <div class="col-md-12 gallery-intro">
+      <p>‪American Archive of Public Broadcasting staff and guest curators create exhibits of selected recordings that focus on themes, topics, and events of cultural and historical significance. In the exhibits, curators contextualize digitized primary and secondary source public television and radio materials. Each curated set of selected recordings present a diversity of perspectives concerning the exhibit's focus. As a result, AAPB exhibits often illuminate how public broadcasting stations and producers have covered the exhibit's theme.</p>
+    </div>
+  </div>
+  <div class="row gallery-index" id="documents">
+    <% @top_level_exhibits.each do |ex| %>
+      <div class="gallery col-xs-12 col-sm-6 col-md-4">
+        <div class="gallery-thumbnail">
+          <a href="/exhibits/<%= ex.path %>">
+            <img src="<%= ex.thumbnail_url %>" alt="<%= ex.title %>" aria-hidden="true">
+            <h2 class="exhibit-index-title bg-color-<%= ['purple','pink','red'].sample %>">
+              <a href="/exhibits/<%= ex.path %>"><%= ex.title %></a>
+            </h2>
+          </a>
         </div>
       </div>
     <% end %>
   </div>
 <% end %>
 
-<%= render partial: 'shared/title_sidebar_main',
+<%= render partial: 'shared/gallery_title',
            locals: {
-             sidebar: yield(:sidebar),
-             main: yield(:main)
+            title: 'Exhibits',
+            main: yield(:main)
            } %>

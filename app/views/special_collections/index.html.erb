@@ -1,0 +1,27 @@
+<% content_for :main do %>
+  <div class="row">
+    <div class="col-md-12 gallery-intro">
+      <p>The American Archive of Public Broadcasting contains more than 50,000 hours of digitized public broadcasting programs and original materials. Some notable collections are featured here in Special Collections. Each Special Collection finding aid provides detailed information about the content, such as its creator, recommended search strategies, and related resources. Most of the materials described in the Special Collections are available online. If not, particular materials of interest can be accessed on location at WGBH and the Library of Congress. Please <a href="/contact-us">contact us</a> to make a research appointment or to learn more about the collections.</p>
+    </div>
+  </div>
+  <div class="row gallery-index" id="documents">
+    <% @top_level_special_collections.each do |coll| %>
+      <div class="gallery col-xs-12 col-sm-6 col-md-4">
+        <div class="gallery-thumbnail">
+          <a href="/special_collections/<%= coll.path %>">
+            <img src="<%= coll.thumbnail_url %>" alt="<%= coll.title %>" aria-hidden="true">
+            <h2 class="index-title bg-color-<%= ['purple','pink','red'].sample %>">
+              <a href="/special_collections/<%= coll.path %>"><%= coll.title %></a>
+            </h2>
+          </a>
+        </div>
+      </div>
+    <% end %>
+  </div>
+<% end %>
+
+<%= render partial: 'shared/gallery_title',
+           locals: {
+            title: 'Special Collections',
+            main: yield(:main)
+           } %>

@@ -240,6 +240,13 @@ describe 'Catalog' do
         end
       end
 
+      describe 'special collection facet search' do
+        it 'has collection specific search panel' do
+          visit '/catalog?f[special_collection][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
+          expect(page).to have_text('Need Help Searching?')
+        end
+      end
+
       describe 'sorting' do
         describe 'relevance sorting' do
           # rubocop:disable LineLength
@@ -302,8 +309,8 @@ describe 'Catalog' do
                 ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ', 'Media Type: Sound', 'Access: '],
                 ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT', 'Media Type: other', 'Access: '],
                 ['Program: Bob Brozman; Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
-                ['Series: The Civil War', 'Raw Footage: Interview with Daisy', 'Created: 1987-05-21', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Dance for Camera', 'Program: Tzaddik', 'Episode Number: 102', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
+                ['Series: The Civil War; Raw Footage: Interview with Daisy', 'Created: 1987-05-21', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Dance for Camera; Program: Tzaddik; Episode Number: 102; Organization: WGBH; Media Type: Moving Image; Access: Accessible on locatio'],
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
                 ['Title: Dry Spell', 'Organization: KQED', 'Media Type: Moving Image', 'Access: '],
                 ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS', 'Media Type: Moving Image', 'Access: '],

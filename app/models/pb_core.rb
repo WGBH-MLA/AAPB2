@@ -5,6 +5,7 @@ require 'solrizer'
 require 'fastimage'
 require_relative '../../lib/aapb'
 require_relative 'exhibit'
+require_relative 'special_collection'
 require_relative '../../lib/html_scrubber'
 require_relative 'xml_backed'
 require_relative 'to_mods'
@@ -78,6 +79,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
   end
   def exhibits
     @exhibits ||= Exhibit.find_all_by_item_id(id)
+  end
+  def special_collection
+    @special_collection ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="Special Collection"]')
   end
   def id
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
@@ -363,6 +367,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
       # facets:
       'exhibits' => exhibits.map(&:path),
+      'special_collection' => special_collection,
       'media_type' => media_type == OTHER ? nil : media_type,
       'genres' => genres,
       'topics' => topics,
@@ -394,7 +399,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :access_level, :access_types,
       :organization_pbcore_name, # internal string; not in UI
       :title, :ci_ids, :instantiations, :outside_url,
-      :reference_urls, :exhibits, :access_level_description,
+      :reference_urls, :exhibits, :special_collection, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,

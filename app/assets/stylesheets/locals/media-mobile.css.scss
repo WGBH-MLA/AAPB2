@@ -14,4 +14,65 @@
       margin: 0 1px !important;
     }
   }
+
+  .collection-features {
+    .featured-item{
+      a {
+        img {
+          height: 135px;
+          max-width: 135px;
+        }
+      }
+      h3 {
+        width: 135px;
+        height: 43px;
+        font-size: 16px;
+        top: 91px;
+      }
+    }
+  }
+
+  .collection-search-panel {
+    .collection-search-help-div {
+      font-size: 14px;
+      .collection-search-help {
+        padding: 0 15px 15px 15px;
+      }
+    }
+    .collection-suggested-search {
+      padding: 0 15px;
+    }
+  }
+
+  .collection-search-panel {
+    .search-body {
+      form {
+        .input-group {
+          input[type="search"] {
+            font-size: 16px;
+          }
+        }
+      }
+    }
+  }
+
+  .gallery-header {
+    h1 {
+      font-size: 22px;
+    }
+  }
+
+  .funders-row {
+    padding: 25px 0 0 0;
+    margin: 0 15px;
+  }
+
+  .resources-row {
+    padding: 25px 0 0 0;
+    margin: 0 15px;
+  }
+
+  .video-background-container {
+    background-image: url("https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_bg_mobile.jpg");
+  }
 }

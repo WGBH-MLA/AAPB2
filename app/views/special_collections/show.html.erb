@@ -1,0 +1,80 @@
+<% content_for :main do %>
+  <div class="row">
+    <div class="col-md-12 breadcrumb-row">
+      <ol class="collection-breadcrumb hidden-xs" style="margin-top: 0px;">
+        <li><a href="/special_collections">Back to Special Collections</a></li>
+      </ol>
+    </div>
+    <div class="col-md-6 collection-image">
+      <img src="<%= @special_collection.thumbnail_url %>" alt="<%= @special_collection.title %>" aria-hidden="true">
+      <%= render partial: 'collection_search' %>
+    </div>
+    <div class="col-md-6 collection-about-col">
+      <div class="collection-about">
+        <h2>Collection Summary</h2>
+        <%= @special_collection.summary_html.html_safe %>
+      </div>
+      <div class="collection-about producer">
+        <h2>Collection Background</h2>
+        <%= @special_collection.background_html.html_safe %>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 col-md-push-6">
+      <div class="row">
+        <div class="col-md-12 collection-features">
+          <h2>Featured Items</h2>
+          <ul>
+            <% @special_collection.featured_items.each do |feature| %>
+              <div class="col-md-4 col-sm-3 col-xs-6 featured-item">
+                <li>
+                  <a href="<%= feature[1] %>">
+                    <img src="<%= feature[2] %>" alt="<%= feature[0] %>" aria-hidden="true">
+                    <h3 class="index-title bg-color-<%= ['purple','pink','red'].sample %>">
+                      <%= feature[0] %>
+                    </h3>
+                  </a>
+                </li>
+              </div>
+            <% end %>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 col-md-pull-6 funders-resources-col">
+      <% if !@special_collection.funders.empty? %>
+        <% @special_collection.funders.each do |funder| %>
+          <div class="row funders-row">
+            <h2>Funders</h2>
+            <div class="col-md-12 col-sm-12 col-xs-12 funder">
+              <%= link_to image_tag(funder[0], alt: funder[1]), funder[2], target: "_blank", class: "funder-logo" %>
+              <p><%= funder[3] %></p>
+            </div>
+          </div>
+        <% end %>
+      <% end %>
+
+      <% if !@special_collection.resources.empty? %>
+        <div class="row resources-row">
+          <h2>Other Resources</h2>
+          <div class="col-md-12 collection-resources">
+            <ul>
+              <% @special_collection.resources.each do |resource| %>
+                  <li><%= link_to resource[0], resource[1], target: "_blank" %></li>
+              <% end %>
+            </ul>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+<% end %>
+
+<%= render partial: 'shared/gallery_title',
+           locals: {
+             main: yield(:main)
+           } %>
+
+<%= render partial: 'search_help_modal' %>
+

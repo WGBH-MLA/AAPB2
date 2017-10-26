@@ -163,6 +163,39 @@
 			font-size: 12px !important;
 		}
 	}
+
+  .collection-features {
+    .featured-item{
+      a {
+        img {
+          height: 135px;
+          max-width: 135px;
+        }
+      }
+      h3 {
+        width: 135px;
+        height: 43px;
+        font-size: 16px;
+        top: 91px;
+      }
+    }
+  }
+
+  .collection-search-panel {
+    .collection-search-help-div {
+	  	font-size: 14px;
+      .collection-search-help {
+        padding: 0 15px;
+      }
+    }
+    .collection-suggested-search {
+    	padding: 0 15px;
+    }
+  }
+
+  .video-background-container {
+    background-image: url("https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_bg-tablet.jpg");
+  }
 }
 
 }/* END: Tablet ---------- */

@@ -1,0 +1,15 @@
+<%=
+    render layout: 'home/carousel',
+           locals: {
+                    id: 'special_collections-carousel',
+                    items: SpecialCollection.all_top_level,
+                    view_all: 'View All Special Collections',
+                    view_all_href: '/special_collections'
+                   } do |item| %>
+  <a href="<%= "/special_collections/#{item.path}" %>" class="list-group-item" >
+    <img src="<%= item.thumbnail_url %>" title="<%= item.title %>" alt="<%= item.title %>" aria-hidden="true" />
+    <span class="carousel-caption">
+      <h3 class="list-group-item-heading"><%= item.title %></h3>
+    </span>
+  </a>
+<% end %>
