@@ -188,4 +188,8 @@ http://hdl.handle.net/2027/mdp.39015078682559
 http://hdl.handle.net/2027/mdp.39015077926270
 http://hdl.handle.net/2027/mdp.39015077926262
 http://hdl.handle.net/2027/mdp.39015010331760
-
+/events/pba-celebration
+/exhibits/watergate
+/special_collections/american-masters-interviews
+/special_collections/eotp-i-interviews
+/special_collections/ken-burns-civil-war
