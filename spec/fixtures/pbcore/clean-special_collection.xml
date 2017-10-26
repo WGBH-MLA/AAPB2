@@ -1,30 +1,27 @@
 <pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
 <pbcoreAssetType>Raw Footage</pbcoreAssetType>
-<pbcoreAssetDate dateType="Created">1987-05-21</pbcoreAssetDate>
-<pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/509-6h4cn6zm21</pbcoreIdentifier>
-<pbcoreIdentifier source="AAPB Inventory ID">Daisy_Turner_master</pbcoreIdentifier>
-<pbcoreIdentifier source="Sony Ci">3ad991ac7d084436b733e56924397aa4</pbcoreIdentifier>
+<pbcoreAssetDate dateType="Created">1987-01-14</pbcoreAssetDate>
+<pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/509-2r3nv99t98</pbcoreIdentifier>
+<pbcoreIdentifier source="AAPB Inventory ID">Barbara_Fields_master</pbcoreIdentifier>
+<pbcoreIdentifier source="Sony Ci">787c01c71cf24c3886c9cb5203c1e719</pbcoreIdentifier>
 <pbcoreTitle titleType="Series">The Civil War</pbcoreTitle>
-<pbcoreTitle titleType="Raw Footage">Interview with Daisy Turner</pbcoreTitle>
-<pbcoreDescription descriptionType="Raw Footage">
-This is raw footage of an interview that Ken Burns conducted with Daisy Turner, the daughter of a man who had been a slave. The interview takes place in Springfield, VT on May 21, 1987. Throughout the interview, Turner explains that she believes the Civil War necessarily had to take place in order for slaves to secure their freedom. Daisy recounts her family history as well, relating several times to family stories that have a connection with the events of the Civil War. Notably, she is able to recite from memory several poems and hymns, such as the anonymous poem ?Dear Madam.?
-</pbcoreDescription>
+<pbcoreTitle titleType="Raw Footage">Interviews with Barbara Fields</pbcoreTitle>
 <pbcoreDescription descriptionType="Description">
-Editor's note: Content given off the record was edited out of this footage.
+This is raw footage of an interview that Ken Burns conducted with professor Barbara Fields for his film, The Civil War. The interview is in two parts. The first takes place on January 14, 1987 at the Smithsonian Institute and the second takes place on April 13, 1988 at the Columbia University Low Memorial Library. Throughout these two interviews, Fields discusses how slavery brought the nation to Civil War. She details the many ways in which slaves took political action to gain emancipation and to fight for their equality, rejecting the notion that white politicians and soldiers were the main definers of the Civil War. Fields provides historical background and context about many looming historical figures such as Abraham Lincoln, Robert E. Lee, and Frederick Douglass. She also returns to the narrative of minor figures, often overlooked, such as Spottswood Rice, Hannah Johnson, and John Boston. She makes the argument that the civil war was less about the cohesion of the Union and more about the fight for hum
 </pbcoreDescription>
 <pbcoreGenre source="AAPB Topical Genre" annotation="topic">History</pbcoreGenre>
-<pbcoreGenre source="AAPB Topical Genre" annotation="topic">War and Conflict</pbcoreGenre>
+<pbcoreGenre source="AAPB Topical Genre" annotation="topic">Race and Ethnicity</pbcoreGenre>
 <pbcoreGenre source="AAPB Format Genre" annotation="genre">Interview</pbcoreGenre>
 <pbcoreCreator>
 <creator>Ken Burns</creator>
 <creatorRole>Director</creatorRole>
 </pbcoreCreator>
 <pbcoreCreator>
-<creator>Florentine Films/American Documentary, Inc.</creator>
+<creator>Florentine Films</creator>
 <creatorRole>Producer</creatorRole>
 </pbcoreCreator>
 <pbcoreContributor>
-<contributor>Daisy Turner</contributor>
+<contributor>Fields, Barbara</contributor>
 <contributorRole>Interviewee</contributorRole>
 </pbcoreContributor>
 <pbcorePublisher>
@@ -37,41 +34,41 @@ Copyright 1989, Kenneth Lauren Burns All Rights Reserved
 </rightsSummary>
 </pbcoreRightsSummary>
 <pbcoreInstantiation>
-<instantiationIdentifier source="AAPB Inventory ID">Daisy_Turner_master</instantiationIdentifier>
+<instantiationIdentifier source="AAPB Inventory ID">Barbara_Fields_master</instantiationIdentifier>
 <instantiationDigital>image/x-dpx</instantiationDigital>
 <instantiationStandard>DPX</instantiationStandard>
-<instantiationLocation>KB0002</instantiationLocation>
+<instantiationLocation>KB0001</instantiationLocation>
 <instantiationMediaType>Moving Image</instantiationMediaType>
 <instantiationGenerations>Preservation Master</instantiationGenerations>
-<instantiationFileSize>1</instantiationFileSize>
-<instantiationDuration>0:38:24</instantiationDuration>
+<instantiationFileSize>2</instantiationFileSize>
+<instantiationDuration>1:38:31</instantiationDuration>
 <instantiationLanguage>eng</instantiationLanguage>
 <instantiationAnnotation>
 DPX master is a folder of DPX images that has an associated WAV file containing the film's audio track.
 </instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
-<instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21.mov</instantiationIdentifier>
-<instantiationDate dateType="encoded">2016-07-07</instantiationDate>
+<instantiationIdentifier source="mediainfo">cpb-aacip-509-2r3nv99t98.mov</instantiationIdentifier>
+<instantiationDate dateType="encoded">2016-08-23</instantiationDate>
 <instantiationDigital>video/mp4</instantiationDigital>
 <instantiationStandard>QuickTime</instantiationStandard>
 <instantiationLocation>N/A</instantiationLocation>
 <instantiationMediaType>Moving Image</instantiationMediaType>
 <instantiationGenerations>Mezzanine</instantiationGenerations>
-<instantiationFileSize unitsOfMeasure="MiB">428</instantiationFileSize>
-<instantiationDataRate unitsOfMeasure="560">1</instantiationDataRate>
+<instantiationFileSize unitsOfMeasure="GiB">6</instantiationFileSize>
+<instantiationDataRate unitsOfMeasure="972">8</instantiationDataRate>
 <instantiationTracks>1 video, 1 audio</instantiationTracks>
-<instantiationChannelConfiguration>1 channe</instantiationChannelConfiguration>
+<instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
 <instantiationEssenceTrack>
 <essenceTrackType>video</essenceTrackType>
 <essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
 <essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="427">1</essenceTrackDataRate>
+<essenceTrackDataRate unitsOfMeasure="861">8</essenceTrackDataRate>
 <essenceTrackFrameRate>24.000</essenceTrackFrameRate>
 <essenceTrackBitDepth>8</essenceTrackBitDepth>
-<essenceTrackFrameSize>1920 x 1080</essenceTrackFrameSize>
+<essenceTrackFrameSize>1280 x 720</essenceTrackFrameSize>
 <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
-<essenceTrackDuration>00:38:24</essenceTrackDuration>
+<essenceTrackDuration>01:38:31</essenceTrackDuration>
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 <essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
 <essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
@@ -79,33 +76,33 @@ DPX master is a folder of DPX images that has an associated WAV file containing 
 <instantiationEssenceTrack>
 <essenceTrackType>audio</essenceTrackType>
 <essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="kb/s">128</essenceTrackDataRate>
-<essenceTrackSamplingRate>44.1 kHz</essenceTrackSamplingRate>
-<essenceTrackDuration>00:38:24</essenceTrackDuration>
+<essenceTrackEncoding source="mediainfo">ER AAC ELD</essenceTrackEncoding>
+<essenceTrackDataRate unitsOfMeasure="kb/s">92</essenceTrackDataRate>
+<essenceTrackSamplingRate>48.0 kHz</essenceTrackSamplingRate>
+<essenceTrackDuration>01:38:31</essenceTrackDuration>
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 </instantiationEssenceTrack>
 <instantiationEssenceTrack>
 <essenceTrackType>other</essenceTrackType>
 <essenceTrackIdentifier source="mediainfo">3</essenceTrackIdentifier>
 <essenceTrackEncoding source="mediainfo">QuickTime TC</essenceTrackEncoding>
-<essenceTrackDuration>00:38:24</essenceTrackDuration>
+<essenceTrackDuration>01:38:31</essenceTrackDuration>
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 </instantiationEssenceTrack>
 <instantiationAnnotation annotationType="encoded by">Apple QuickTime</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
-<instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21.mp4</instantiationIdentifier>
-<instantiationIdentifier source="Sony Ci">3b9334570fc54115b2bfb17852d19c9c</instantiationIdentifier>
-<instantiationIdentifier source="MD5 checksum">9e6769c16cc58c30fb84588263671c9a</instantiationIdentifier>
+<instantiationIdentifier source="mediainfo">cpb-aacip-509-2r3nv99t98.mp4</instantiationIdentifier>
+<instantiationIdentifier source="Sony Ci">787c01c71cf24c3886c9cb5203c1e719</instantiationIdentifier>
+<instantiationIdentifier source="MD5 checksum">d025924881102ea58843a9528441c462</instantiationIdentifier>
 <instantiationDate dateType="encoded">1903-12-31</instantiationDate>
 <instantiationDigital>video/mp4</instantiationDigital>
 <instantiationStandard>Base Media</instantiationStandard>
 <instantiationLocation>N/A</instantiationLocation>
 <instantiationMediaType>Moving Image</instantiationMediaType>
 <instantiationGenerations>Proxy</instantiationGenerations>
-<instantiationFileSize unitsOfMeasure="MiB">216</instantiationFileSize>
-<instantiationDataRate unitsOfMeasure="kb/s">785</instantiationDataRate>
+<instantiationFileSize unitsOfMeasure="MiB">590</instantiationFileSize>
+<instantiationDataRate unitsOfMeasure="kb/s">838</instantiationDataRate>
 <instantiationTracks>1 video, 1 audio</instantiationTracks>
 <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
 <instantiationEssenceTrack>
@@ -117,7 +114,7 @@ DPX master is a folder of DPX images that has an associated WAV file containing 
 <essenceTrackBitDepth>8</essenceTrackBitDepth>
 <essenceTrackFrameSize>640 x 400</essenceTrackFrameSize>
 <essenceTrackAspectRatio>16:10</essenceTrackAspectRatio>
-<essenceTrackDuration>00:38:24</essenceTrackDuration>
+<essenceTrackDuration>01:38:31</essenceTrackDuration>
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 <essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
 <essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
@@ -126,57 +123,27 @@ DPX master is a folder of DPX images that has an associated WAV file containing 
 <essenceTrackType>audio</essenceTrackType>
 <essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
 <essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="kb/s">69</essenceTrackDataRate>
-<essenceTrackSamplingRate>44.1 kHz</essenceTrackSamplingRate>
-<essenceTrackDuration>00:38:24</essenceTrackDuration>
+<essenceTrackDataRate unitsOfMeasure="kb/s">127</essenceTrackDataRate>
+<essenceTrackSamplingRate>48.0 kHz</essenceTrackSamplingRate>
+<essenceTrackDuration>01:38:31</essenceTrackDuration>
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 </instantiationEssenceTrack>
 <instantiationEssenceTrack>
 <essenceTrackType>other</essenceTrackType>
 <essenceTrackIdentifier source="mediainfo">3</essenceTrackIdentifier>
 <essenceTrackEncoding source="mediainfo">QuickTime TC</essenceTrackEncoding>
-<essenceTrackDuration>00:38:24</essenceTrackDuration>
+<essenceTrackDuration>01:38:31</essenceTrackDuration>
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 </instantiationEssenceTrack>
 <instantiationAnnotation annotationType="encoded by">Lavf57.41.100</instantiationAnnotation>
 <instantiationAnnotation annotationType="Preservation LTO">AB0001</instantiationAnnotation>
 <instantiationAnnotation annotationType="Preservation Disk">ABDISK0002</instantiationAnnotation>
 </pbcoreInstantiation>
-<pbcoreInstantiation>
-<instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21_REDACT.mp4</instantiationIdentifier>
-<instantiationDate dateType="encoded">1903-12-31</instantiationDate>
-<instantiationDigital>video/mp4</instantiationDigital>
-<instantiationLocation>N/A</instantiationLocation>
-<instantiationMediaType>other</instantiationMediaType>
-<instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
-<instantiationEssenceTrack>
-<essenceTrackType>video</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="kb/s">236</essenceTrackDataRate>
-<essenceTrackFrameRate>24.000</essenceTrackFrameRate>
-<essenceTrackBitDepth>8</essenceTrackBitDepth>
-<essenceTrackFrameSize>640 x 400</essenceTrackFrameSize>
-<essenceTrackAspectRatio>16:10</essenceTrackAspectRatio>
-<essenceTrackDuration>00:38:24</essenceTrackDuration>
-<essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
-<essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
-</instantiationEssenceTrack>
-<instantiationEssenceTrack>
-<essenceTrackType>audio</essenceTrackType>
-<essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
-<essenceTrackDataRate unitsOfMeasure="kb/s">68</essenceTrackDataRate>
-<essenceTrackSamplingRate>44.1 kHz</essenceTrackSamplingRate>
-<essenceTrackDuration>00:38:24</essenceTrackDuration>
-<essenceTrackLanguage>eng</essenceTrackLanguage>
-</instantiationEssenceTrack>
-<instantiationAnnotation annotationType="encoded by">Lavf57.71.100</instantiationAnnotation>
-</pbcoreInstantiation>
-<pbcoreAnnotation annotationType="Project Code">KB0002</pbcoreAnnotation>
-<pbcoreAnnotation annotationType="Special Collection">ken-burns-civil-war</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="Project Code">KB0001</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="cataloging status">Minimally Cataloged</pbcoreAnnotation>
-<pbcoreAnnotation annotationType="last_modified">2017-08-28 15:04:41</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="special_collections">ken-burns-civil-war</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="Transcript Status">Online Reading Room Transcript</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="last_modified">2017-10-25 10:46:22</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="organization">Ken Burns - Florentine Films</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

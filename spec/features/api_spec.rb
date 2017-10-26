@@ -29,15 +29,15 @@ describe 'API' do
       expect(page).to have_text('my_callback({ "responseHeader"')
       expect(page).to have_text('"rows": "0"')
       expect(page).to have_text('"year:1988 AND iowa": 1')
-      expect(page).to have_text('"numFound": 35')
-      expect(page).to have_text('"1974", 3, "1981", 1, "1983", 1, "1987", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1')
+      expect(page).to have_text('"numFound": 36')
+      expect(page).to have_text('"1974", 3, "1987", 2, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1')
     end
 
     it 'searches documents / json, not jsonp' do
       visit '/api.json?rows=10&q=iowa'
       expect(page.status_code).to eq 200
       expect(page.source).to match(/^\{/s)
-      expect(page).to have_text('"numFound": 4')
+      expect(page).to have_text('"numFound": 5')
       expect(page).to have_text('Norman Borlaug')
       expect(page.source).to match('"xml": "<pbcoreDescriptionDocument')
       # have_text runs the source through a regex that removes "tags",
@@ -47,7 +47,7 @@ describe 'API' do
     it 'supports xml, too' do
       visit '/api.xml?rows=10&q=iowa'
       expect(page.status_code).to eq 200
-      expect(page.source).to match('<numFound type="integer">4</numFound>')
+      expect(page.source).to match('<numFound type="integer">5</numFound>')
       expect(page.source).to match('Norman Borlaug')
       expect(page.source).to match('<xml>&lt;pbcoreDescriptionDocument')
     end
