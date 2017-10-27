@@ -9,14 +9,14 @@ The Watergate scandal unfolded over the course of two complicated years, between
 ## Extended
 
 ### Jump to:
-[**Introduction**](#Introduction)
-[**What Caused Watergate?**](#What-Caused-Watergate)
-[**From the Break-in to the Investigation**](#From-Break-in-to-Investigation)
-[**The Senate Watergate Committee**](#The-Senate-Watergate-Committee)
-[**Phase One: Watergate**](#Phase-One)
-[**Phase Two: “Dirty Tricks”**](#Phase-Two)
-[**Phase Three: Campaign Finance**](#Phase-Three)
-[**The Road to Resignation: Nixon’s Last Months**](#The-Road-to-Resignation)
+[**Introduction**](#Introduction)<br>
+[**What Caused Watergate?**](#What-Caused-Watergate)<br>
+[**From the Break-in to the Investigation**](#From-Break-in-to-Investigation)<br>
+[**The Senate Watergate Committee**](#The-Senate-Watergate-Committee)<br>
+[**Phase One: Watergate**](#Phase-One)<br>
+[**Phase Two: “Dirty Tricks”**](#Phase-Two)<br>
+[**Phase Three: Campaign Finance**](#Phase-Three)<br>
+[**The Road to Resignation: Nixon’s Last Months**](#The-Road-to-Resignation)<br>
 [**Conclusion: Watergate’s Aftermath**](#Conclusion)
 
 <a id="Introduction"></a>
