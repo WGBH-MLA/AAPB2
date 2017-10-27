@@ -927,7 +927,7 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 
 
 
-#### Next: [Quintessential Newsmagazines](/exhibits/newsmagazines/definitive-newsmags)
+#### Next: [Watergate Coverage](/exhibits/watergate/the-watergate/coverage)
 
 ## Main
 
