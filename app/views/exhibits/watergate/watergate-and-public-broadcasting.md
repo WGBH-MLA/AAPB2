@@ -12,14 +12,14 @@ The broadcasts were so successful that public broadcasting continued to use the 
 
 ## Extended
 ### Jump to:
-[**Introduction**](#Introduction)
-[**Background: The Carnegie Commission, CPB, and PBS**](#Background)
-[**The Office of Telecommunication Policy (OTP) and the Problem of Funding**](#OTP-and-Funding)
-[**“Us” versus “Them”: Antagonism Grows**](#Us-vs-Them)
-[**“Gavel-to-Gavel”: The Senate Hearings Open on Public Television**](#Gavel-to-Gavel)
-[**“Watergate Junkies”: The Appeal of NPACT’s Coverage**](#Watergate-Junkies)
-[**Not with a Bang but a Whimper: the Senate Watergate Committee Signs Off**](#Sign-Off)
-[**Aftermath: Public Television Secures Its Place**](#Aftermath)
+[**Introduction**](#Introduction)<br>
+[**Background: The Carnegie Commission, CPB, and PBS**](#Background)<br>
+[**The Office of Telecommunication Policy (OTP) and the Problem of Funding**](#OTP-and-Funding)<br>
+[**“Us” versus “Them”: Antagonism Grows**](#Us-vs-Them)<br>
+[**“Gavel-to-Gavel”: The Senate Hearings Open on Public Television**](#Gavel-to-Gavel)<br>
+[**“Watergate Junkies”: The Appeal of NPACT’s Coverage**](#Watergate-Junkies)<br>
+[**Not with a Bang but a Whimper: the Senate Watergate Committee Signs Off**](#Sign-Off)<br>
+[**Aftermath: Public Television Secures Its Place**](#Aftermath)<br>
 [**Conclusion**](#Conclusion)
 
 >*The people of the United States were caught up in all this to a degree that might seem unlikely to anyone who didn’t experience it. Day after day, week after week, we watched the drama play out in one disclosure after another. It was all on television and through television the people became a part of the process of judgment in the summer of 1973.* --[Charles McDowell, Summer of Judgment](/catalog/cpb-aacip_512-mc8rb6ww1z#at_195.00_s) (1983 WETA Documentary)
