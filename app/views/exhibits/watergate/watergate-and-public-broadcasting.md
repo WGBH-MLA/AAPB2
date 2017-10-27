@@ -4,7 +4,7 @@
 
 ## Summary
 
-[![Joseph Papin Sketch](https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras-Thumbnail.jpg "Joseph Papin (1931-1992). Television cameras at Senate Watergate hearings, 1973. Prints and Photographs Division, Library of Congress.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras.jpg)
+[![Joseph Papin Sketch. Joseph Papin (1931-1992). Television cameras at Senate Watergate hearings, 1973. Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras-Thumbnail.jpg "Joseph Papin (1931-1992). Television cameras at Senate Watergate hearings, 1973. Prints and Photographs Division, Library of Congress.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras.jpg)
 
 The Watergate coverage is significant, not only insofar as the hearings themselves are significant, but also as a great moment in public television history. In the years preceding the coverage, pressure from the Nixon Administration had put in question whether public television should carry public affairs programs at all. The Watergate coverage answered that question with a definitive ‘yes’. In the years before C-SPAN, no network had ever broadcast full hearings “gavel-to-gavel” in prime time before. This format, which allowed viewers to draw their own conclusions from the evidence, expanded public television’s viewership by orders of magnitude. For a summer, viewers were glued to their screens, often past midnight, watching such personalities as Sam Ervin, Howard Baker, John Dean, and John Ehrlichman discuss what increasingly became a constitutional crisis.
 
@@ -13,27 +13,18 @@ The broadcasts were so successful that public broadcasting continued to use the 
 ## Extended
 ### Jump to:
 [**Introduction**](#Introduction)
-
 [**Background: The Carnegie Commission, CPB, and PBS**](#Background)
-
 [**The Office of Telecommunication Policy (OTP) and the Problem of Funding**](#OTP-and-Funding)
-
 [**“Us” versus “Them”: Antagonism Grows**](#Us-vs-Them)
-
 [**“Gavel-to-Gavel”: The Senate Hearings Open on Public Television**](#Gavel-to-Gavel)
-
 [**“Watergate Junkies”: The Appeal of NPACT’s Coverage**](#Watergate-Junkies)
-
 [**Not with a Bang but a Whimper: the Senate Watergate Committee Signs Off**](#Sign-Off)
-
 [**Aftermath: Public Television Secures Its Place**](#Aftermath)
-
 [**Conclusion**](#Conclusion)
 
+>*The people of the United States were caught up in all this to a degree that might seem unlikely to anyone who didn’t experience it. Day after day, week after week, we watched the drama play out in one disclosure after another. It was all on television and through television the people became a part of the process of judgment in the summer of 1973.* --[Charles McDowell, Summer of Judgment](/catalog/cpb-aacip_512-mc8rb6ww1z#at_195.00_s) (1983 WETA Documentary)
 
->*The people of the United States were caught up in all this to a degree that might seem unlikely to anyone who didn’t experience it. Day after day, week after week, we watched the drama play out in one disclosure after another. It was all on television and through television the people became a part of the process of judgment in the summer of 1973.* --[Charles McDowell, Summer of Judgment](/catalog/cpb-aacip_512-mc8rb6ww1z#at_195.00_s) (1983 WETA Documentary)>
-
->*The Nixon administration and public television began at virtually the same turbulent moment in our history. Their relationship proved mutually disadvantageous at almost every turn. Richard Nixon was not good for public television. His administration very nearly succeeded in strangling it at birth. And public television, ironically, was not good for Richard Nixon, either….The broadcasts [of the Senate Watergate Hearings] undoubtedly helped bring about his downfall.*[<sup>1</sup>](/exhibits/watergate/notes#31)  --David M. Stone, Nixon and the Politics of Public Television>
+>*The Nixon administration and public television began at virtually the same turbulent moment in our history. Their relationship proved mutually disadvantageous at almost every turn. Richard Nixon was not good for public television. His administration very nearly succeeded in strangling it at birth. And public television, ironically, was not good for Richard Nixon, either….The broadcasts [of the Senate Watergate Hearings] undoubtedly helped bring about his downfall.*[<sup>1</sup>](/exhibits/watergate/notes#31)  --David M. Stone, Nixon and the Politics of Public Television
 
 <a id="Introduction"></a>
 
@@ -84,7 +75,7 @@ One of the ugliest episodes was, in Day’s words, “The Great Salary Dustup of
 
 The trick had its desired effect and the resulting pressure put NPACT on its heels, with programs erring on the side of blandness out of fear for what controversy might bring.[<sup>47</sup>](/exhibits/watergate/notes#77)
 
-[!["I'll tell you everything you need to know" Herblock Cartoon](https://s3.amazonaws.com/americanarchive.org/exhibits/Ill-tell-you-everything-s.jpg "A 1972 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08002.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Ill-tell-you-everything.jpg)
+[!["I'll tell you everything you need to know." A 1972 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08002.](https://s3.amazonaws.com/americanarchive.org/exhibits/Ill-tell-you-everything-s.jpg "A 1972 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08002.")(https://s3.amazonaws.com/americanarchive.org/exhibits/Ill-tell-you-everything.jpg)
 
 In early 1972, the CPB board, now with a majority of Nixon appointees, decided to limit funding to public affairs programs. As a result of the cuts, NPACT had to scrap grand plans to cover the 1972 election.[<sup>48</sup>](/exhibits/watergate/notes#78)  On February 20, 1972, the ACLU released a report that accused the Administration of trying to “intimidate” and “starve” public broadcasting.[<sup>49</sup>](/exhibits/watergate/notes#79)  In an implicit rebuttal, Whitehead sent a letter to Congressman Robert Michel on April 28 indicating that the Administration would support a $45 million bill, a modest increase in funding from $35 million in the previous year. He stated that OTP would not add more until public broadcasting restructured itself and the overall budget looked more favorable.
 
@@ -92,7 +83,7 @@ Meanwhile, unwilling to wait for the White House to act, Congressman Torbert Mac
 
 Nixon’s veto left CPB President John Macy so dispirited that he resigned, leaving the opening the Administration had long awaited. Their chosen replacement shows the Administration’s increasing boldness as they realized how much they could get away with. The new president, former director of the Voice of America, Henry Loomis, was elected unanimously after a hasty board meeting.[<sup>55</sup>](/exhibits/watergate/notes#85)  He boasted of never having seen public television and that he had never heard of CPB, the organization he now headed.[<sup>56</sup>](/exhibits/watergate/notes#86)  Now that the White House had gained control through the board, Nixon no longer needed the divide and conquer strategy Whitehead had proposed. Change could be affected more directly. In October, Whitehead emphasized that when the President met with Loomis he should impress on him “the necessity of dumping NPACT and withdrawing CPB support for news and public affairs programs.”[<sup>57</sup>](/exhibits/watergate/notes#87)  The CPB Board met on January 10, 1973, and carried out a purge of public affairs shows including *Bill Moyers’ Journal*, Elizabeth Drew’s *Thirty Minutes With…*, *Washington Week in Review*, *World Press Review*, and even William F. Buckley’s *Firing Line*.[<sup>58</sup>](/exhibits/watergate/notes#88)
 
-[!["Violence on Television" Herblock Cartoon](https://s3.amazonaws.com/americanarchive.org/exhibits/Violence-on-Television.jpg "A 1973 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08205.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Violence-on-Television.jpg)
+[!["Violence on Television." A 1973 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08205.](https://s3.amazonaws.com/americanarchive.org/exhibits/Violence-on-Television-s.jpg "A 1973 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08205.")(https://s3.amazonaws.com/americanarchive.org/exhibits/Violence-on-Television.jpg)
 
 If Whitehead’s speech to NAEB had alarmed public broadcasters and the veto had made the small viewership scratch their heads, the purge of public TV’s most popular programming brought the attack on public media to popular attention. In the words of David Stone, “The first six months of 1973 saw the administration’s battle against public television turn into something of a wintertime Russian campaign for Richard Nixon, on his way to Waterloo.”[<sup>59</sup>](/exhibits/watergate/notes#89)  Newspapers picked up the story, linking the partisan board appointments and the purge with the growing narrative of Nixon’s “assault on the media.”[<sup>60</sup>](/exhibits/watergate/notes#90)  Editorials struck out against the cuts as thinly veiled attempts to silence political enemies.[<sup>61</sup>](/exhibits/watergate/notes#91)  Ron Powers of the *Los Angeles Times* wrote, “The Nixon Administration's continuing efforts at lobotomizing this country's broadcast media—to say nothing of the print media—constitute a horror story without end.”[<sup>62</sup>](/exhibits/watergate/notes#92)  Robert MacNeil, himself a victim of the cuts, denied bias as legitimate grounds for censoring public broadcasting in a January 1973 speech asserting, “Bias in their minds is apparently any attitude which does not indicate permanent genuflection before the wisdom and purity of Richard Milhous Nixon.”[<sup>63</sup>](/exhibits/watergate/notes#93)
 
@@ -113,10 +104,7 @@ Karayn entrusted this message to his anchor team of Robert MacNeil and Jim Lehre
 
 Throughout April and May, public television laid plans for the upcoming hearings. The networks, on the other hand, did not even decide to air the hearings until the week before.[<sup84></sup>](/exhibits/watergate/notes#114)  During this time, the member stations voted on whether they would prefer live or delayed coverage. The result of the poll set the start time at 8 p.m. Eastern time.[<sup>85</sup>](/exhibits/watergate/notes#115)  On May 10, PBS was persuaded to offer a “live feed” during the day to the 46-station Eastern Educational Network at additional cost.[<sup>86</sup>](/exhibits/watergate/notes#116)  Funding was a constant issue for NPACT.[<sup>87</sup>](/exhibits/watergate/notes#117)  Even after it started airing the shows, Karayn did not have the capital to air more than 15 episodes.[<sup>88</sup>](/exhibits/watergate/notes#118)  After the end of June, NPACT would be spending funds earmarked for productions in the fall. It proceeded with the confidence that the money would come from somewhere, hopefully grants from CPB.[<sup>89</sup>](/exhibits/watergate/notes#119)
 
-<figure>
-<a href="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns-l.jpg"><img src='https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns-m.jpg' alt='Late Returns Herblock Cartoon'/></a>
-<figcationtoin>Herb Block (1909-2001). Herb Block (1909-2001). “Late Returns,” May, 18, 1973. Prints and Photographs Division, Library of Congress. © The Herb Block Foundation"</figcaption>
-</figure>
+[!["Late Returns." A 1973 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08225.](https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns-s.jpg "A 1973 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08225.")(https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns-l.jpg)
 
 On May 17, 1973, the Watergate hearings began. The broadcast, as on subsequent nights, [opened with Robert MacNeil reading the Committee’s resolution](/catalog/cpb-aacip_512-6688g8g717#at_42.00_s):
 
