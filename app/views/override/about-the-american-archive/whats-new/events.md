@@ -1,5 +1,7 @@
 # Upcoming Events
 
+![Control Panel](/page-banners/banner3.jpg)
+
 Click below for more information about upcoming AAPB events.
 
 #### [Celebrating the 50th Anniversary of the Public Broadcasting Act](/events/pba-celebration)
