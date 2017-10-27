@@ -9,22 +9,13 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 ## Extended
 
 ### Jump to:
-[**NPACT**](#NPACT)
-
-[**The Senate Watergate Committee**](#The-Senate-Watergate-Committee)
-
-[**The Nixon Administration**](#The-Nixon-Administration)
-
-[**The Committee to Reelect the President**](#CREEP)
-
-[**The Burglars**](#The-Burglars)
-
-[**Other Witnesses**](#Other-Witnesses)
-
-[**Expert Commentators**](#Experts)
-
-
-
+[**NPACT**](#NPACT)<br>
+[**The Senate Watergate Committee**](#The-Senate-Watergate-Committee)<br>
+[**The Nixon Administration**](#The-Nixon-Administration)<br>
+[**The Committee to Reelect the President**](#CREEP)<br>
+[**The Burglars**](#The-Burglars)<br>
+[**Other Witnesses**](#Other-Witnesses)<br>
+[**Expert Commentators**](#Experts)<br>
 
 <a id="NPACT"></a>
 
