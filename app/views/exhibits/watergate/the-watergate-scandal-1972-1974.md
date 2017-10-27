@@ -10,25 +10,14 @@ The Watergate scandal unfolded over the course of two complicated years, between
 
 ### Jump to:
 [**Introduction**](#Introduction)
-
 [**What Caused Watergate?**](#What-Caused-Watergate)
-
 [**From the Break-in to the Investigation**](#From-Break-in-to-Investigation)
-
 [**The Senate Watergate Committee**](#The-Senate-Watergate-Committee)
-
-   [**Phase One: Watergate**](#Phase-One)
-
-   [**Phase Two: “Dirty Tricks”**](#Phase-Two)
-
-   [**Phase Three: Campaign Finance**](#Phase-Three)
-
+[**Phase One: Watergate**](#Phase-One)
+[**Phase Two: “Dirty Tricks”**](#Phase-Two)
+[**Phase Three: Campaign Finance**](#Phase-Three)
 [**The Road to Resignation: Nixon’s Last Months**](#The-Road-to-Resignation)
-
 [**Conclusion: Watergate’s Aftermath**](#Conclusion)
-
-
-
 
 <a id="Introduction"></a>
 
@@ -55,12 +44,11 @@ To this day, it is not clear whether Nixon knew about the break-in before it occ
 ### From the Break-in to the Investigation
 After police apprehended the burglars in the Watergate complex, the story went dormant for a number of months. Throughout the summer and fall of 1972, Washington Post reporters Bob Woodward and Carl Bernstein famously kept on the trail, discovering facts that pointed at a larger scheme of covert activities.[<sup>6</sup>](/exhibits/watergate/notes#6)  The McGovern campaign attempted to link the White House to the affair, but few found the accusation compelling.[<sup>7</sup>](/exhibits/watergate/notes#7)  Although Nixon maintained that he first learned of the Watergate cover-up from White House Counsel John Dean in March 1973, the tapes of Nixon’s conversations in the Oval Office prove that he was directing the cover-up from the White House just days after the failed break-in.[<sup>8</sup>](/exhibits/watergate/notes#8) Nixon provided suggestions as to how the conspirators would testify and the ways in which money could be raised to keep the burglars quiet. It was Nixon's approval on tape of a recommendation from John Dean and apparently John Mitchell that the CIA get the FBI to call off the investigation, that would be Nixon’s “fatal error.”[<sup>9</sup>](/exhibits/watergate/notes#9)  But for a while, the cover-up worked well enough, and in November, Nixon won in a landslide, losing only Massachusetts and the District of Columbia.[<sup>10</sup>](/exhibits/watergate/notes#10)
 
-[![Joseph Papin Sketch](https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch-s.jpg "Joseph Papin (1931-1992). Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee, 1973. Prints and Photographs Division, Library of Congress.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch.jpg)
+[![Joseph Papin Sketch. Joseph Papin (1931-1992). Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee, 1973. Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch-s.jpg "Joseph Papin (1931-1992). Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee, 1973. Prints and Photographs Division, Library of Congress.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch.jpg)
 
 In January, federal district judge John Sirica found the five burglars, Hunt, and Liddy guilty. Sirica believed that others were involved and hoping that he might be able to force one of the burglars to talk, handed out very stiff sentences. Similarly, suspicions about the illegality of CREEP’s reelection efforts circulated on Capitol Hill, largely because of the power of Woodward and Bernstein's reporting. On February 7, 1973, the Senate voted unanimously to form the Senate Select Committee on Presidential Campaign Activities.  The Committee was given one year and a $500,000 budget to “conduct an investigation and study of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any persons, acting individually or in combination with others, in the presidential election of 1972, or any campaign, canvass, or other activity related to it.”[<sup>11</sup>](/exhibits/watergate/notes#11) The senators selected for the Committee were chosen for their obscurity, their lack of ambition for higher office, or their non-partisan reputations. It included four Democrats, Chairman Sam Ervin (D-N.C.), Daniel Inouye (D-Hawaii), Joseph Montoya (D-N.M.), and Herman Talmadge (D-Ga.), and three Republicans, Howard Baker (R-Tenn.), Edward Gurney (R-Fla.), and Lowell Weicker (R-Conn.). The Committee also had a team of attorneys and assistants, including chief majority counsel Samuel Dash and chief minority counsel Fred Thompson.
 
 The pressure building behind the Watergate dam resulted in a first crack on March 19 when Watergate burglar James McCord wrote to Judge Sirica claiming that the White House had bribed him to keep quiet.[<sup>12</sup>](/exhibits/watergate/notes#12)  The letter prompted Dean to lay out in excruciating detail to Nixon the extent of White House involvement. It was at this point that Dean recommended that Nixon attempt to eliminate the [“cancer on the presidency”](/catalog/cpb-aacip_512-251fj2b06r#at_512.00_s) before it spread.[<sup>13</sup>](/exhibits/watergate/notes#13)  Members of the White House ran to protect themselves, and as time went on, Nixon himself began to fear being connected with the cover-up.[<sup>14</sup>](/exhibits/watergate/notes#14)  On April 30, three members of Nixon’s inner circle, Chief of Staff H. R. Haldeman, Chief Advisor for Domestic Affairs John Ehrlichman, and Attorney General Richard Kleindienst resigned, and John Dean was fired. That night, Nixon gave a speech on television claiming that he would personally investigate the matter.[<sup>15</sup>](/exhibits/watergate/notes#15)
-
 
 
 <a id="The-Senate-Watergate-Committee"></a>
@@ -71,7 +59,7 @@ The pressure building behind the Watergate dam resulted in a first crack on Marc
 
 #### Phase One: Watergate
 
-[![Joseph Papin Sketch](https://s3.amazonaws.com/americanarchive.org/exhibits/Senators-Drawing-s.jpg "Joseph Papin (1931-1992). Senate Select Committee, 1973. Prints and Photographs Division, Library of Congress.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Senators-Drawing.jpg)
+[![Joseph Papin Sketch. Joseph Papin (1931-1992). Senate Select Committee, 1973. Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/Senators-Drawing-s.jpg "Joseph Papin (1931-1992). Senate Select Committee, 1973. Prints and Photographs Division, Library of Congress.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Senators-Drawing.jpg)
 
 The public hearings began on May 17, 1973, with [opening statements](/catalog/cpb-aacip_512-6688g8g717#at_385.00_s) from the senators and the testimony of one [Robert Odle](/catalog/cpb-aacip_512-6688g8g717#at_2398.00_s). Sam Dash, a law professor from Georgetown, was adamant that the Committee build its investigation with “small fish” before moving on to the “star witnesses” of Nixon’s inner circle. As a result, the two witnesses on the first day, Robert Odle and [Bruce Kehrli](/catalog/cpb-aacip_512-5d8nc5t09z#at_3538.00_s), were low-rankers who explained the chains of command at CREEP and the White House, respectively. The next witnesses, [Sergeant Paul Leeper](/catalog/cpb-aacip_512-pr7mp4wh9w#at_3530.00_s), [Officer Carl Shoffler](/catalog/cpb-aacip_512-d795718g4z#at_720.00_s), [James McCord](/catalog/cpb-aacip_512-445h99017v#at_770.00_s), [Bernard Barker](/catalog/cpb-aacip_512-6w96689903#at_4956.00_s), and [Alfred Baldwin](/catalog/cpb-aacip_512-1v5bc3tj5x#at_1310.00_s), reported on the events of the break-in at the Watergate and CREEP bugging operations. With [James Caulfield](/catalog/cpb-aacip_512-xk84j0c06r#at_820.00_s), [Anthony Ulasewicz](/catalog/cpb-aacip_512-p55db7wm55#at_1620.00_s), [Sally Harmony](/catalog/cpb-aacip_512-4m91834s7x#at_770.00_s), and [Robert Reisner](/catalog/cpb-aacip_512-6q1sf2n01g#at_3196.00_), the Committee moved into investigating the cover-up including offers of executive clemency, destroyed files, and cash payments. [Hugh Sloan](/catalog/cpb-aacip_512-x921c1vj3c#at_913.00_s), [Herbert Porter](/catalog/cpb-aacip_512-s17sn0210s#at_3494.00_s), and [Maurice Stans](/catalog/cpb-aacip_512-qb9v11wf48#at_434.00_s) then described their roles in securing and distributing money for the burglars and their families. The first witness on a higher tier of importance was [Jeb Stuart Magruder](/catalog/cpb-aacip_512-bz6154fh47#at_508.00_s), the former deputy director of CREEP, who implicated many more people, including his boss, John Mitchell, and admitted to developing a considerable portion of the cover-up.
 
@@ -89,7 +77,7 @@ With the problem of the tapes continuing to hang over the Committee room, the se
 
 #### Phase Two: "Dirty Tricks"
 
-[![Joseph Papin Sketch](https://s3.amazonaws.com/americanarchive.org/exhibits/Hearing-Room-Sketch-s.jpg "Joseph Papin, Watergate hearings, dirty tricks inquiry, Senate Caucus Room, Washington, D.C., October 4, 1973. Prints and Photographs Division, Library of Congress.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Hearing-Room-Sketch.jpg)
+[![Joseph Papin Sketch. Joseph Papin, Watergate hearings, dirty tricks inquiry, Senate Caucus Room, Washington, D.C., October 4, 1973. Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/Hearing-Room-Sketch-s.jpg "Joseph Papin, Watergate hearings, dirty tricks inquiry, Senate Caucus Room, Washington, D.C., October 4, 1973. Prints and Photographs Division, Library of Congress.")](https://s3.amazonaws.com/americanarchive.org/exhibits/Hearing-Room-Sketch.jpg)
 
 The Committee reopened its doors to the public on September 24, but in a manner that left many, including a few senators, feeling that the Committee had lost its purpose. The intended topic of investigation, improper campaign practices, or so-called “dirty tricks” seemed like small potatoes compared to the ongoing constitutional crisis precipitated by the tapes. Despite these concerns, the Committee plowed on. The first witness upon their return was [E. Howard Hunt](/catalog/cpb-aacip_512-hh6c24rg76#at_690.00_s), who rounded out phase one before the Committee moved on to phase two with [Pat Buchanan](/catalog/cpb-aacip_512-kk94747p23#at_420.00_s), Nixon’s speechwriter and ideological advisor. The main witness, [Donald Segretti](/catalog/cpb-aacip_512-k93125r708#at_360.00_s), who along with Charles Colson had planned CREEP’s tricks against the Democrats, described and apologized for many of his actions. Two of his assistants, [Martin Douglas Kelly](/catalog/cpb-aacip_512-v69862cb8n#at_323.00_s) and [Robert Benz](/catalog/cpb-aacip_512-tm71v5cf4r#at_2340.00_s), corroborated his testimony. The next two men to testify, [John Buckley](/catalog/cpb-aacip_512-b27pn8z459#at_855.00_s) and [Michael McMinoway](/catalog/cpb-aacip_512-xs5j96193p#at_420.00_s), were undercover operatives in the Muskie and McGovern campaigns, respectively. The following several witnesses, [Frederick Taugher](/catalog/cpb-aacip_512-fq9q23rr49#at_1938.00_s), [Kenneth Hickman](/catalog/cpb-aacip_512-ks6j09wz71#at_2625.00_s), [Richard Stearns](/catalog/cpb-aacip_512-zw18k75z7f#at_589.00_s), and [Frank Mankiewicz](/catalog/cpb-aacip_512-959c53fs02#at_656.00_s), testified about possible malfeasance by the McGovern campaign, including a violent demonstration. November 6 included five more testimonies in public session and 30 affidavits introduced into the record detailing various other campaign pranks.
 
@@ -116,11 +104,11 @@ Nixon’s late compliance could not stop the momentum that after so many months 
 #### Conclusion: Watergate’s Aftermath
 There are a number of ways of viewing the Watergate story. It could be seen as a story of the success of American democracy. [Jim Lehrer later commented](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer),
 
->The way I would sum it up is that it’s good news, bad news situation. It showed the government of the United States at its absolute worst and then it showed it at its absolute best. It corrected a wrongdoing, a series of wrongdoings, that was unprecedented. But the way it corrected was also a series of unprecedented doings.[<sup>29</sup>](/exhibits/watergate/notes#29)>
+>The way I would sum it up is that it’s good news, bad news situation. It showed the government of the United States at its absolute worst and then it showed it at its absolute best. It corrected a wrongdoing, a series of wrongdoings, that was unprecedented. But the way it corrected was also a series of unprecedented doings.[<sup>29</sup>](/exhibits/watergate/notes#29)
 
 Certainly Congress and the Supreme Court, in the method dictated by the Constitution, tried to correct the excesses of an Imperial Presidency and an election system that had gone off the rails, strengthening the Fourth Amendment and privacy protections, reforming campaign financing and giving the Freedom of Information Act real teeth. As Patterson reminds us, “it required a good deal of luck for the ‘system’ to bring him down.”[<sup>30</sup>](/exhibits/watergate/notes#30) Watergate strongly contributed to a wave of American distrust in government and a wave of conspiracy thinking, leaving the lingering question of whether the crimes were simply business as usual. One teacher lamented,
 
->After Watergate, it’s crazy to have trust in politicians. I’m totally cynical, skeptical. Whether it’s a question of power or influence, it’s who you know at all levels. Nixon said he was the sovereign! Can you believe that? I was indignant. Someone should have told him that this is a democracy, not a monarchy.[<sup>31</sup>](/exhibits/watergate/notes#31)>
+>After Watergate, it’s crazy to have trust in politicians. I’m totally cynical, skeptical. Whether it’s a question of power or influence, it’s who you know at all levels. Nixon said he was the sovereign! Can you believe that? I was indignant. Someone should have told him that this is a democracy, not a monarchy.[<sup>31</sup>](/exhibits/watergate/notes#31)
 
 Watergate was a crucial inflection point in American political history that remains a standard by which to judge presidential corruption and abuse of power.
 
