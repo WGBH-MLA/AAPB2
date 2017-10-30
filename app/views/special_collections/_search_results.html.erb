@@ -27,14 +27,14 @@
             <div class="collection-search-help col-md-3 col-sm-4 col-xs-12">
               <%= link_to "Need Help Searching?", "#", data: { toggle: "modal", target: "#searchHelpModal" }  %>
             </div>
-            <div class="col-md-3 col-md-offset-2 col-sm-4 col-xs-12 collection-suggested-search">
-              Suggested Searches:
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12 collection-suggested-search">
-              <%= link_to "Video", "/catalog?sort=year+asc&f[special_collection][]=#{@special_collection.path}&f%5Bmedia_type%5D%5B%5D=Moving+Image" %>, <%= link_to "Audio", "/catalog?sort=year+asc&f[special_collection][]=#{@special_collection.path}&f%5Bmedia_type%5D%5B%5D=Sound" %>,
-                <%= link_to "Online", "/catalog?sort=year+asc&f[special_collection][]=#{@special_collection.path}&f[access_types][]=online" %>,
-                <%= link_to "Digitized", "/catalog?sort=year+asc&f[special_collection][]=#{@special_collection.path}&f[access_types][]=digitized" %>
-            </div>
+            <% if !@special_collection.terms.empty? %>
+              <div class="col-md-3 col-md-offset-2 col-sm-4 col-xs-12 collection-suggested-search">
+                Suggested Searches:
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12 collection-suggested-search">
+                <%= special_collection.terms.map{ |term| link_to(term[0], term[1]) }.join(', ').html_safe %>
+              </div>
+            <% end %>
           </div>
         </div>
       </div>
