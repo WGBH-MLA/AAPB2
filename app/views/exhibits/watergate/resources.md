@@ -18,7 +18,7 @@ For scholars looking for more in-depth resources, especially on the history of W
 ### Other Online Exhibits
 "The Watergate Files." The Gerald R. Ford Library & Museum. Accessed June 30, 2017. https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html.
 
-"Watergate: The Final Campaign." The Richard Nixon Presidential Library & Museum. Accessed August 2, 2017. https://www.nixonlibrary.gov/themuseum/exhibits/oldwatergatetour.php
+“Watergate Exhibit Evidence.” Richard Nixon Presidential Library and Museum. Accessed October 24, 2017. https://www.nixonlibrary.gov/themuseum/exhibits/2010/watergateExhibitBackground/watergateexhibitbackground.php.
 
 
 ### Public Television Documentaries and Interviews

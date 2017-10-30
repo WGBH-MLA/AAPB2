@@ -25,7 +25,8 @@ Junior Fellow, Library of Congress
 
 - [The final report of the Select Committee on Presidential Campaign Activities](http://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15)
 - [Bill Moyers' *Essay on Watergate*](https://vimeo.com/44242486)
-- ["Covering Watergate: 40 Years Later With MacNeil And Lehrer"](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer)
+- ["Covering Watergate: 40 Years Later With MacNeil And Lehrer (Video)"](https://www.youtube.com/watch?v=YxCASPRMZb8)
+- ["Covering Watergate: 40 Years Later With MacNeil And Lehrer (Transcript)"](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer)
 - ["The Watergate Files," online exhibit at the Gerald R. Ford Library & Museum](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html)
 - [The Richard Nixon Presidential Library](https://www.nixonlibrary.gov/index.php)
 
@@ -37,9 +38,9 @@ The broadcasts of the Senate Watergate hearings cover 51 days of “gavel-to-gav
 
 The Senate Watergate Committee conducted its investigation in three phases: Watergate (May 17 - September 25), Campaign Practices or “Dirty Tricks” (September 26 - November 6), and Campaign Finance (November 7 - November 15). Due to Majority Counsel Sam Dash’s strategy of building a case before moving on to the “star witnesses,” the hearings begin with comparatively small fish before moving up the food chain to Nixon’s inner circle in July. After the Committee returned from recess in September, they questioned less powerful witnesses and had fewer viewers tune in as a result.
 
-The House Impeachment hearings took place over 7 days of public hearings, the first on May 9, 1974 during which the Committee entered executive session and ejected the television cameras. The Committee reopened its doors to TV on July 24 to debate articles of impeachment, which they concluded after 6 sessions on July 30. The hearings were anchored by Jim Lehrer and Paul Duke and continued in the format developed for the Watergate hearings. Since some of the House sessions took place at night, the broadcasts are a combination of live and taped coverage.
+The House impeachment hearings took place over seven days of public hearings, the first on May 9, 1974, during which the Committee entered executive session and ejected the television cameras. The Committee reopened its doors to TV on July 24 to debate articles of impeachment, which they concluded after six sessions on July 30. The hearings were anchored by Jim Lehrer and Paul Duke and continued in the format developed for the Watergate hearings. Since some of the House sessions took place at night, the broadcasts are a combination of live and taped coverage.
 
-### How to Use This Website
+### How to Use This Exhibit
 
 To view the full “gavel to gavel” coverage, click on [The Watergate Coverage](/exhibits/watergate/the-watergate-coverage) or [The Impeachment Coverage](/exhibits/watergate/the-impeachment-coverage) in the side bar. There you will find guides to each episode, links to transcripts, and highlights to peruse. To help identify people in the videos, the Cast of Characters page includes photos and titles for the important figures in the hearings. [The Watergate Scandal, 1972-1974](/exhibits/watergate/the-watergate-scandal-1972-1974) page gives an explanation of the who, what, when, where, and why of Watergate to help guide you through the coverage. If you would like a more in depth essay on the significant role that Watergate played in the history of public broadcasting, please click on the [Watergate and Public Broadcasting](/exhibits/watergate/watergate-and-public-broadcasting) link.
 

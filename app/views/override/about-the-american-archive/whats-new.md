@@ -34,5 +34,3 @@ AAPB has launched a new exhibit titled “Gavel-to-Gavel”: The Watergate Scand
 
 ### Public Broadcasting Preservation Fellowship
 In September 2017, WGBH on behalf of the AAPB was awarded a grant by the Institute of Museum and Library Services (IMLS) to fund the Public Broadcasting Preservation Fellowship. The project supports students enrolled in non-specialized graduate programs to pursue digital preservation projects at public broadcasting organizations around the country. The Fellowship is designed to provide graduate students with the opportunity to gain hands-on experiences in the practices of audiovisual preservation; address the need for digitization of at-risk public media materials in underserved areas; and increase audiovisual preservation education capacity in Library and Information Science graduate programs around the country. More information is available at our PBPF project website [pbpf.americanarchive.org](http://pbpf.americanarchive.org).
-
-
