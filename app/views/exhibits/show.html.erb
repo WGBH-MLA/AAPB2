@@ -1,11 +1,11 @@
 <% content_for :sidebar do %>
-  
-  <%= render partial: 'shared/sidebar_nav', 
-             locals: { 
+
+  <%= render partial: 'shared/sidebar_nav',
+             locals: {
                 title: 'Sections',
                 links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
               } %>
-  
+
   <div class="panel panel-primary">
     <div class="panel-heading">
       <h3 class="panel-title">Curator</h3>
@@ -15,16 +15,16 @@
     </div>
   </div>
 
-  <%= render(partial: 'shared/sidebar_nav', 
-             locals: { 
+  <%= render(partial: 'shared/sidebar_nav',
+             locals: {
                 title: 'Resources',
                 links: @exhibit.resources
               }) if !@exhibit.resources.empty? %>
-    
+
 <% end %>
-  
+
 <% content_for :main do %>
-  
+
   <ol class="breadcrumb hidden-xs" style="margin-top: 0px;">
     <li><a href="/exhibits">Exhibits</a></li>
     <% @exhibit.ancestors.map do |ancestor| %>
@@ -36,31 +36,8 @@
   <%= @exhibit.summary_html.html_safe %>
 
   <%= @exhibit.extended_html.html_safe %>
-  
-  <% gallery_size = 9 %>
-  
-  <% if @exhibit.children.empty? %>
-    <% @exhibit.items.to_a.slice(0, gallery_size).in_groups_of(3,false).each do |group| %>
-      <div class="row">
-      <% group.each do |id, title| %>
-        <div class="document col-md-4">
-          <div class="thumbnail">
-            <div class="caption">
-              <div class="documentHeader">
-                <img src="/thumbnails/<%= id %>">
-                <h4 class="index_title">
-                  <%= link_to(title, '/catalog/'+id) %>
-                </h4>
-              </div>
-            </div>
-          </div>
-        </div>
-      <% end %>
-      </div>
-    <% end %>
-  <% end %>
-    
-  <% if @exhibit.items.count > gallery_size %>
+
+  <% if @exhibit.items.count > 0 %>
     <div class="panel panel-primary view-all-gallery">
       <div class="panel-body">
         <div class="row">
@@ -71,13 +48,13 @@
     </div>
   <% end %>
   <br/>
-  
+
   <%= @exhibit.main_formatted.html_safe %>
-  
+
 <% end %>
-    
-<%= render partial: 'shared/title_sidebar_main', 
+
+<%= render partial: 'shared/title_sidebar_main',
            locals: {
              sidebar: yield(:sidebar),
              main: yield(:main)
-           } %> 
+           } %>
