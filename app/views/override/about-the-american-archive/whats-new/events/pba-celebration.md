@@ -10,7 +10,7 @@ Signed by President Lyndon Johnson, the act established public broadcasting as i
 
 A Library report on television and video preservation in 1997 cited the importance of public broadcasting:
 
->“[I]t is still not easy to overstate the immense cultural value of this unique audiovisual legacy, whose loss would symbolize one of the great conflagrations of our age, tantamount to the burning of Alexandria’s library in the age of antiquity.”>
+>“[I]t is still not easy to overstate the immense cultural value of this unique audiovisual legacy, whose loss would symbolize one of the great conflagrations of our age, tantamount to the burning of Alexandria’s library in the age of antiquity.”
 
 The initial AAPB archive, donated by more than 100 public broadcasting stations, contained more than 40,000 hours of content from the early 1950s to the present.  The full collection, now more than 50,000 hours of preserved content, is available on-site to researchers at the Library in Washington, D.C., and WGBH in Boston, Massachusetts.  Nearly a third of the files, however, are now available online for research, educational and informational purposes at [http://americanarchive.org](http://americanarchive.org).
 

@@ -5,8 +5,8 @@
 ## Summary
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption"><em>"Joseph Papin (1931-1992). Senator Sam Ervin points his finger. 1973. Prints and Photographs Division, Library of Congress."</em></caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing-s.jpg" alt="Senator Sam Ervin"/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Joseph Papin. <em>[Senator Sam Ervin points his finger]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53335.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing-s.jpg" alt="Joseph Papin. [Senator Sam Ervin points his finger], 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53335."/></a></td></tr>
 </table>
 
 If you simply can’t get enough of Watergate, there is even more content to watch and read. For the interested visitor, this author recommends the following public television documentaries and video content: Bill Moyers’s [Essay on Watergate](https://vimeo.com/44242486) (1973), [*Summer of Judgment: The Watergate Hearings*](/catalog/cpb-aacip_512-mc8rb6ww1z) (1983), [“Covering Watergate: 40 Years Later with MacNeil and Lehrer”](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer) (2013), and [Dick Cavett’s Watergate](http://www.pbs.org/wnet/secrets/dick-cavetts-watergate-full-episode/1880/) (2014). If you, like MacNeil and Lehrer, prefer to draw your own conclusions, both the [Nixon Presidential Library](https://www.nixonlibrary.gov/index.php) and the [Ford Presidential Library](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html) have extensive online primary source collections including scans of key documents and [recordings of the Oval Office tapes](https://www.nixonlibrary.gov/forresearchers/find/tapes/watergate/trial/transcripts.php). You can also access the full report produced by the Senate Select Committee [here](http://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15).
@@ -16,10 +16,9 @@ For scholars looking for more in-depth resources, especially on the history of W
 
 ## Extended
 ### Other Online Exhibits
-"The Watergate Files." The Gerald R. Ford Library & Museum. Accessed June 30, 2017. https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html.
-
 “Watergate Exhibit Evidence.” Richard Nixon Presidential Library and Museum. Accessed October 24, 2017. https://www.nixonlibrary.gov/themuseum/exhibits/2010/watergateExhibitBackground/watergateexhibitbackground.php.
 
+"The Watergate Files." The Gerald R. Ford Library & Museum. Accessed June 30, 2017. https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html.
 
 ### Public Television Documentaries and Interviews
 *Bill Moyers Journal*. "Essay on Watergate." WNET, Written by Bill Moyers. Produced by Jerome Toobin and Martin Clancy. Directed by Jack Sameth, first broadcast October 31, 1973. Accessed June 12, 2017. https://vimeo.com/44242486.
