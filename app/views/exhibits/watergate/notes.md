@@ -113,7 +113,7 @@
 
 <a name="52"></a><sup>22</sup> Stone, *Nixon and Public Television*, 55; Cecil Smith, “Ratings Soar for Watergate on PBS,” *Los Angeles Times*, June 20, 1973, https://search.proquest.com/docview/157283983?accountid=12084.
 
-<a name="53"></a><sup>23</sup> Clay T. Whitehead, interview, December 16, 1992, Clay Thomas Whitehead Papers, Manuscript Division, Library of Congress, Washington, D.C. While the Whitehead collection is mostly within the Manuscript Division, the interview and transcript can be found in the Recorded Sound division.  The interviewer is not identified, but it appears to be Laurence Jarvik conducting an interview for his book *PBS, Behind the Screen*.
+<a name="53"></a><sup>23</sup> Clay T. Whitehead, interview, December 16, 1992, Clay Thomas Whitehead Papers, Manuscript Division, Library of Congress, Washington, D.C. The interviewer is not identified, but it appears to be Laurence Jarvik conducting an interview for his book *PBS, Behind the Screen*.
 
 <a name="54"></a><sup>24</sup> Whitehead, interview. Whitehead discussed this mid-range problem solving perspective with William F. Buckley, Jr. in an interview on Firing Line. The two discussed the problem of having only three networks and the prospect of the free market competition that would come from cable. Whitehead argued, “Until that [the three network monopoly] is corrected, you're never going to fulfill the richness and the variety of the potential of television in this country. But until cable comes, until we do have the opportunity for enough channels, we've got an awful lot of people who watch an awful lot of television. We think that we have a responsibility to make that system as best we can until maybe a new system comes along.” *Firing Line*, “The White House and the Media,” first broadcast February 1, 1973, hosted by William F. Buckley, Jr., accessed June 13, 2017, http://digitalcollections.hoover.org/objects/6259.
 
@@ -143,7 +143,7 @@
 
 <a name="67"></a><sup>37</sup> “Memorandum for the President,” redrafted October 4, 1971, in *Nixon Papers*, NAEB, 37.
 
-<a name="68"></a><sup>38</sup> One particularly “liberal” program offensive to the Nixon Administration was *Banks and the Poor*, a program distributed for broadcast by NET in November 1970. Stone, *Nixon and Public Television*, 28-35. The financial support of the Ford Foundation was critical to public television in the early years. By the late 1970s, it had invested over $300 million in public media. During this time, the Foundation became synonymous in the Administration for the perceived New York liberal predominance in public television. As a result, Nixon wanted to eliminate its influence. Stone, *Nixon and the Politics*, 5, 24; Memorandum from Albert L. Cole to Richard Nixon, October 27, 1969, in *Nixon Papers*, NAEB, 7.
+<a name="68"></a><sup>38</sup> One particularly “liberal” program offensive to the Nixon Administration was *Banks and the Poor*, a program distributed for broadcast by NET in November 1970. Stone, *Nixon and Public Television*, 28-35. The financial support of the Ford Foundation was critical to public television in the early years. By the late 1970s, it had invested over $300 million in public media. During this time, the Foundation became synonymous in the Administration for the perceived New York liberal predominance in public television. As a result, Nixon wanted to eliminate its influence. Stone, *Nixon and Public Television*, 5, 24; Memorandum from Albert L. Cole to Richard Nixon, October 27, 1969, in *Nixon Papers*, NAEB, 7.
 
 <a name="69"></a><sup>39</sup> Engelman, *Public Radio and Television*, 168; Day, *Vanishing Vision*, 218. Many, including John Witherspoon, Macy’s lieutenant, were nonplussed by the charge of centralism. Day writes, “They were baffled by his charge that public television had abandoned localism when the charge was clearly contradicted by the facts. If the White House felt the system had not moved far enough, or fast enough, let them find fault within themselves for failing to provide adequate funding.”
 
@@ -195,7 +195,7 @@
 
 <a name="93"></a><sup>63</sup> MacNeil, *Right Place*, 286.
 
-<a name="94"></a><sup>64</sup> James Day found this logic particularly infuriating. In *The Vanishing Vision*, he wrote, “When Nixon charged PBS with becoming the “center of power and the focal point of control,” as he did in his veto message, he effectively defined 'centralization' as control of programming by 150 independent local stations. In this Alice in Wonderland world, 'decentralization' came to mean the monolithic control of programming by the Corporation and its White House minions. But inconsistency was no problem for Tom Whitehead; he brushed it aside explaining that 'you have to take power in order to disperse it.' His logic would have delighted the Red Queen. However, Henry Greenburg, his own general counsel, warned the OTP head that the inconsistency was so apparent 'out motives become suspect and the continued restatement of the localism goal is discounted as simply not being credible.'” Day, *Vanishing Vision*, 235.
+<a name="94"></a><sup>64</sup> James Day found this logic particularly infuriating. In *Vanishing Vision*, he wrote, “When Nixon charged PBS with becoming the 'center of power and the focal point of control,' as he did in his veto message, he effectively defined 'centralization' as control of programming by 150 independent local stations. In this Alice in Wonderland world, 'decentralization' came to mean the monolithic control of programming by the Corporation and its White House minions. But inconsistency was no problem for Tom Whitehead; he brushed it aside explaining that 'you have to take power in order to disperse it.' His logic would have delighted the Red Queen. However, Henry Greenburg, his own general counsel, warned the OTP head that the inconsistency was so apparent 'our motives become suspect and the continued restatement of the localism goal is discounted as simply not being credible.'” Day, *Vanishing Vision*, 235.
 
 <a name="95"></a><sup>65</sup> Bill Moyers, “Public TV.” 
 
@@ -247,9 +247,9 @@
 
 <a name="119"></a><sup>89</sup> Robert A. McLean, “Watergate Good for Public TV,” *Boston Globe*, June 22, 1973, https://search.proquest.com/docview/612855197?accountid=12084.
 
-<a name="120"></a><sup>90</sup> LeRoy and Florida State Univ., Tallahassee. Communication Research Center., *Public Television Viewer*, 6.
+<a name="120"></a><sup>90</sup> LeRoy and Florida State Univ., Tallahassee. Communication Research Center, *Public Television Viewer*, 6.
 
-<a name="121"></a><sup>91</sup> LeRoy and Florida State Univ., Tallahassee. Communication Research Center., *Public Television Viewer*, 7.
+<a name="121"></a><sup>91</sup> LeRoy and Florida State Univ., Tallahassee. Communication Research Center, *Public Television Viewer*, 7.
 
 <a name="122"></a><sup>92</sup> Scott Armstrong, a Committee staff member called the cameras “a circus that we hadn’t expected.” Chief Counsel Sam Dash was more positive. He later said, “I wanted every American citizen to be able to hear and see the witnesses for themselves and make their own judgments and not have the judgment of someone else. And the only way to do that, if they couldn’t come to the caucus room and see and hear the witness themselves, was to watch it, and the only thing we have today and God bless it that we have it is through television. And it was that and not because we wanted publicity for the Committee, but in order to be able to bring all of America into a democratic process which is the working of their Congress, and it worked, I think.”
 
@@ -257,7 +257,7 @@
 
 <a name="124"></a><sup>94</sup> Cecil Smith, “A Windfall Out of Watergate,” *Los Angeles Times*, June 4, 1973,  https://search.proquest.com/docview/157189437?accountid=12084.
 
-<a name="125"></a><sup>95</sup>  Lucinda Smith, “TV Wiewers Want Less Watergate,” *Boston Globe*, June 3, 1973,  https://search.proquest.com/docview/612857989?accountid=12084.
+<a name="125"></a><sup>95</sup>  Lucinda Smith, “TV Viewers Want Less Watergate,” *Boston Globe*, June 3, 1973,  https://search.proquest.com/docview/612857989?accountid=12084.
 
 <a name="126"></a><sup>96</sup> Cecil Smith, “A Windfall.”
 
@@ -293,7 +293,7 @@
 
 <a name="139"></a><sup>109</sup> Charles Allen, head of programming for Los Angeles’ KCET, commented, the fall shows are “all lined up at the dock and Watergate is blocking the harbor.” He went on to note that KCET would not support cutting down the hearings or pushing them into the extreme late night slots because gavel-to-gavel coverage “is what public television is all about.” Allen’s stance reflected the opinions of many station managers across the country. Smith, “A Boon.”
 
-<a name="140"></a><sup>110</sup> Tom Shales, “Watergate: Gavel-to-Gavel on PBS,” *The Washington Post*, September 17, 1973, https://search.proquest.com/docview/148416565?accountid=12084. NPACT had broadcast reruns during the senate’s August recess if stations wanted to air them.
+<a name="140"></a><sup>110</sup> Tom Shales, “Watergate: Gavel-to-Gavel on PBS,” *Washington Post*, September 17, 1973, https://search.proquest.com/docview/148416565?accountid=12084. NPACT had broadcast reruns during the senate’s August recess if stations wanted to air them.
 
 <a name="141"></a><sup>111</sup> Memorandum from George Page to Cal Watson, October 16, 1973, Series 2:2, Box 6, Jim Karayn Papers.
 
@@ -301,7 +301,7 @@
 
 <a name="143"></a><sup>113</sup> “Hours Fed on Watergate,” March 6, 1974, Series 2:2, Box 6, Jim Karayn Papers.
 
-<a name="144"></a><sup>114</sup> *Bill Moyers Journal*, “Essay on Watergate,” WNET, first broadcast October 31, 1973, written by Bill Moyers, produced by Jerome Toobin and Martin Clancy, directed by Jack Sameth, first broadcast October 31, 1973, accessed June 12, 2017, https://vimeo.com/44242486. The show was a damning indictment of the Nixon White House, with quotes such as “Government was supposed to protect society against lawlessness; now it became a lawbreaker, violating the Constitution, in effect, in order to save it.” Author Laurence Jarvik wrote of the episode, “Unlike MacNeil and Lehrer Moyers hit Nixon when he was down for the count.” Jarvik, *PBS, Behind the Screen*, 114.
+<a name="144"></a><sup>114</sup> *Bill Moyers Journal*, “Essay on Watergate,” WNET, written by Bill Moyers, produced by Jerome Toobin and Martin Clancy, directed by Jack Sameth, first broadcast October 31, 1973, accessed June 12, 2017, https://vimeo.com/44242486. The show was a damning indictment of the Nixon White House, with quotes such as “Government was supposed to protect society against lawlessness; now it became a lawbreaker, violating the Constitution, in effect, in order to save it.” Author Laurence Jarvik wrote of the episode, “Unlike MacNeil and Lehrer Moyers hit Nixon when he was down for the count.” Jarvik, *PBS, Behind the Screen*, 114.
 
 <a name="145"></a><sup>115</sup> The founder of C-SPAN, Brian Lamb, was a young assistant in the Office of Telecommunications Policy under Whitehead.
 
@@ -319,9 +319,9 @@
 
 <a name="152"></a><sup>122</sup> Stone, *Nixon and Public Television*, 339.
 
-<a name="153"></a><sup>123</sup> Clarence Petersen, “Public TV Compromise Offers Slim Hope,” *The Chicago Tribune*, May 16, 1973, https://search.proquest.com/docview/170393242?accountid=12084.
+<a name="153"></a><sup>123</sup> Clarence Petersen, “Public TV Compromise Offers Slim Hope,” *Chicago Tribune*, May 16, 1973, https://search.proquest.com/docview/170393242?accountid=12084.
 
-<a name="154"></a><sup>124</sup> Whitehead to Office of Management and Budget, letter sent July 2, 1973, in *Nixon Papers*, NAEB, 110; Stone, *Nixon and Public Television*, 301.
+<a name="154"></a><sup>124</sup> Whitehead to Office of Management and Budget, July 2, 1973, in *Nixon Papers*, NAEB, 110; Stone, *Nixon and Public Television*, 301.
 
 <a name="155"></a><sup>125</sup> Day, *Vanishing Vision*, 245.
 
