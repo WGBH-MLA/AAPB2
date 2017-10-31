@@ -2,7 +2,7 @@
 
 ![banner](/page-banners/banner4.jpg)
 
-The Public Broadcasting Preservation Fellowship, funded by the Institute of Museum and Library Services, supports students 
+The [Public Broadcasting Preservation Fellowship](http://pbpf.americanarchive.org), funded by the Institute of Museum and Library Services, supports students 
 enrolled in non-specialized graduate programs to pursue digital preservation projects at public broadcasting organizations 
 around the country. The Fellowship is designed to provide graduate students with the opportunity to gain hands-on experiences 
 in the practices of audiovisual preservation; address the need for digitization of at-risk public media materials in 
@@ -21,3 +21,5 @@ media; generate technical and preservation metadata; and process the digital fil
 of Public Broadcasting. The fellows will collaborate with a faculty advisor at their university to document their work 
 in a 3-5 page handbook and video demo. The fellowship will also support a digitization station at each university for 
 the use by the fellows and future students enrolled at the universities.
+
+Stay up-to-date with the PBPF project by visiting http://pbpf.americanarchive.org.
