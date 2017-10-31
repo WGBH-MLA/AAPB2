@@ -27,8 +27,8 @@ AAPB has preserved more than 800 full-length interviews filmed by *American Mast
 
 ### "Gavel-to-Gavel": The Watergate Scandal and Public Television
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption"><em>"Late Returns. Herb Block (1909-2001). “Late Returns,” May, 18, 1973. Prints and Photographs Division, Library of Congress. © The Herb Block Foundation"</em></caption>
-<tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg" alt="Late Returns. Herb Block (1909-2001). “Late Returns,” May, 18, 1973. Prints and Photographs Division, Library of Congress. © The Herb Block Foundation"/></td></tr>
+<caption align="bottom" class="exhibit-caption"><em>"A 1973 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08225."</em></caption>
+<tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg" alt="A 1973 Herblock Cartoon, © The Herb Block Foundation. Herbert L. Block Collection, Prints and Photographs Division, Library of Congress; LC-DIG-hlb-08225."/></td></tr>
 </table>
 AAPB has launched a new exhibit titled “Gavel-to-Gavel”: The Watergate Scandal and Public Television. Curated by Library of Congress Junior Fellow Amanda Reichenbach, the exhibit provides, for the first time, complete online access to video coverage of the 51 days of the Senate Watergate hearings and 7 days of the House Impeachment hearings, recorded by the National Public Affairs Center for Television (NPACT) with commentary by Robert MacNeil, Jim Lehrer, and Paul Duke. The exhibit includes essays on the Watergate Scandal, the subsequent Senate Watergate hearings and House Impeachment hearings, a Cast of Characters page to help identify people in the videos, an essay on the significant role that Watergate played in the history of Public Broadcasting, and a page providing information about other resources. Explore the Watergate exhibit at [americanarchive.org/exhibits/watergate](/exhibits/watergate).
 
