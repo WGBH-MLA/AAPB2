@@ -11,7 +11,7 @@ The Public Broadcasting Preservation Fellowship (PBPF), funded by the Institute 
 
 ### The American Archive of Public Broadcasting
 
-In June 2017, the Andrew W. Mellon Foundation awarded WGBH a grant to support the American Archive of Public Broadcasting. WGBH is using these grant funds to build technical capacity for the intake of new content, develop collaborative initiatives, build training and support services for AAPB contributors, and foster scholarly use and enhanced public access for the collection.[Read more about the Mellon project](/about-the-american-archive/projects/mellon).
+In June 2017, the Andrew W. Mellon Foundation awarded WGBH a grant to support the American Archive of Public Broadcasting. WGBH is using these grant funds to build technical capacity for the intake of new content, develop collaborative initiatives, build training and support services for AAPB contributors, and foster scholarly use and enhanced public access for the collection. [Read more about the Mellon project](/about-the-american-archive/projects/mellon).
 
 ### PBCore Development and Training Project
 

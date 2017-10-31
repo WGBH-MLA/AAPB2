@@ -25,13 +25,13 @@ The program schedule is subject to change, but confirmed participants include:
 - Carla Hayden, Librarian of Congress
 - Jon Abbott, President and CEO, WGBH
 - Patricia Harrison, President and CEO, CPB
-- Sen. Ed Markey, AAPB adviser
 
 #### 2:15 p.m. – Origins
 
 - Nicholas Johnson, FCC commissioner, 1966-73
 - Bill Siemering, NPR co-founder, creator of *All Things Considered*
 - Newton Minow, FCC chairman, 1961-63, via video
+- Ervin Duggan, FCC commissioner (1990-93); President of PBS (1993-99)
 - Cokie Roberts, NPR and MacNeil/Lehrer contributor; AAPB adviser (moderator)
 
 #### 3:10 p.m. –  News and Public Affairs Talk Shows
@@ -55,5 +55,6 @@ The program schedule is subject to change, but confirmed participants include:
 
 - Lloyd Morrisett, co-creator, *Sesame Street*
 - Paula Apsell, executive producer of *NOVA*
+- Debra Sanchez, Senior Vice President for Education and Children's Content Operations, Corporation for Public Broadcasting
 - Kathryn Ostrofsky, instructor, Angelo State University, Department of History
 - Jennifer Lawson, founding chief programming executive, PBS (moderator)
