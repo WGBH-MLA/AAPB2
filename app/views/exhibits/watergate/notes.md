@@ -69,27 +69,27 @@
 
 ### Notes to Watergate and Public Broadcasting
 
-<a name="31"></a><sup>1</sup> David M. Stone, Nixon and the Politics of Public Television (New York, NY: Garland Pub., 1985), xviii.
+<a name="31"></a><sup>1</sup> David M. Stone, *Nixon and the Politics of Public Television* (New York, NY: Garland Pub., 1985), xviii.
 
-<a name="32"></a><sup>2</sup> Stone, *Nixon and Public Broadcasting*, viii; Laurence Ariel Jarvik, *PBS, Behind the Screen* (Rocklin, CA: Forum, 1997), 112; James MacGregor, “Blessing in Disguise: Watergate Is a Boon to Public-Television,” *Wall Street Journal*, June 15, 1973, https://search.proquest.com/docview/133802747?accountid=12084.
+<a name="32"></a><sup>2</sup> Ibid., viii; Laurence Ariel Jarvik, *PBS, Behind the Screen* (Rocklin, CA: Forum, 1997), 112; James MacGregor, “Blessing in Disguise: Watergate Is a Boon to Public-Television,” Wall Street Journal, June 15, 1973, https://search.proquest.com/docview/133802747?accountid=12084.
 
-<a name="33"></a><sup>3</sup> James Day, *The Vanishing Vision: The Inside Story of Public Television* (Berkeley, CA: University of California Press, 1995), 249.
+<a name="33"></a><sup>3</sup> Stone, *Nixon and Public Television*, 293; James Day, *The Vanishing Vision: The Inside Story of Public Television* (Berkeley, CA: University of California Press, 1995), 249, 378. The Educational Television Facilities Act of May 1962 provided federal funds “for the construction of television broadcasting facilities to be used for educational purposes.” The Public Broadcasting Act of 1967 authorized federal funds for the Corporation for Public Broadcasting to “make grants to production entities, individuals, and selected noncommercial educational broadcast stations for the production of, and otherwise to procure, educational television or radio programs for national or regional distribution to noncommercial educational broadcast stations.” Public Broadcasting Act of 1967, Pub. L. No. 90-129, 81 Stat. 1160, http://uscode.house.gov/statutes/pl/90/129.pdf.
 
-<a name="34"></a><sup>4</sup> Stone, *Nixon and Public Broadcasting*, 339-41.
+<a name="34"></a><sup>4</sup> Stone, *Nixon and Public Television*, 339-41.
 
 <a name="35"></a><sup>5</sup> Ralph Engelman, *Public Radio and Television in America: A Political History* (Thousand Oaks, CA: Sage Publications, 1996), 172.
 
 <a name="36"></a><sup>6</sup> John Witherspoon and Roselle Kovitz, *The History of Public Broadcasting* (Washington, DC: Current, 1987), 13. The language of the Commission is truly utopian. In a letter to the Commission published at the beginning of the final report, E. B. White wrote, “Noncommercial television should address itself to the idea of excellence, not the idea of acceptability—which is what keeps commercial television from climbing the staircase. I think television should be the visual counterpart of the literary essay, should arouse our dreams, satisfy our hunger for beauty, take us on journeys, enable us to participate in events, present great drama and music, explore the sea and the sky and the woods and the hills. It should be our Lyceum, our Chautauqua, our Minsky’s, and our Camelot. It should restate and clarify the social dilemma and the political pickle. Once in a while it does, and you get a quick glimpse of its potential.” Carnegie Commission on Educational Television. *Public Television: A Program for Action: The Report and Recommendations of the Carnegie Commission on Educational Television* (New York: Harper & Row, 1967), 14.
 
-<a name="37"></a><sup>7</sup> Stone, *Nixon and Public Broadcasting*, 9; Day, *Vanishing Vision*, 230.
+<a name="37"></a><sup>7</sup> Stone, *Nixon and Public Television*, 9; Day, *Vanishing Vision*, 230.
 
 <a name="38"></a><sup>8</sup> Allison Perlman, *Public Interests: Media Advocacy and Struggles over U.S. Television* (New Brunswick, NJ: Rutgers University Press, 2016), 55.
 
-<a name="39"></a><sup>9</sup> Robert K. Avery and Robert Pepper, “An Institutional History of Public Broadcasting,” *Journal of Communications* 30, no. 3 (Summer 1980): 129; Day, *Vanishing Vision*, 213; Stone, *Nixon and Public Broadcasting*, 23.
+<a name="39"></a><sup>9</sup> Robert K. Avery and Robert Pepper, “An Institutional History of Public Broadcasting,” *Journal of Communications* 30, no. 3 (Summer 1980): 129; Day, *Vanishing Vision*, 213; Stone, *Nixon and Public Television*, 23.
 
 <a name="40"></a><sup>10</sup> Nina McCain, “Pubic Television in the U.S.: A Fuzzy Picture,” *Boston Globe*, June 10, 1973, https://search.proquest.com/docview/612870335?accountid=12084.
 
-<a name="41"></a><sup>11</sup> Stone, *Nixon and Public Broadcasting*, 10; Patricia Aufderheide, “Public Television and the Public Sphere,” *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 173, http://web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?sid=bba7cf64-61d9-4d04-bdf8-67137a7f0851%40sessionmgr102&vid=2&hid=129.
+<a name="41"></a><sup>11</sup> Stone, *Nixon and Public Television*, 10; Patricia Aufderheide, “Public Television and the Public Sphere,” *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 173, http://web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?sid=bba7cf64-61d9-4d04-bdf8-67137a7f0851%40sessionmgr102&vid=2&hid=129.
 
 <a name="42"></a><sup>12</sup> Day, *Vanishing Vision*, 213.
 
@@ -97,7 +97,7 @@
 
 <a name="44"></a><sup>14</sup> Ibid., 130-31.
 
-<a name="45"></a><sup>15</sup> Stone, *Nixon and Public Broadcasting*, viii.
+<a name="45"></a><sup>15</sup> Stone, *Nixon and Public Television*, viii.
 
 <a name="46"></a><sup>16</sup> Ibid., 42-56.
 
@@ -109,9 +109,9 @@
 
 <a name="50"></a><sup>20</sup> Jarvik, *PBS, Behind the Screen*, 24. Indeed, at the outset of Nixon’s first term, on May 6, 1969, Nixon's Assistant Clay T. Whitehead suggested that the President congratulate the University of Wisconsin for their 50th year of educational radio broadcasting. Whitehead: “I think it is desirable for the President to be associated in an affirmative way with public broadcasting.” Memorandum from Clay T. Whitehead to Dwight Chapin, May 6, 1969, in *The Nixon Administration Public Broadcasting Papers: A Summary 1969-1974*, by the National Association of Educational Broadcasters (NAEB) (Washington, D.C., 1979), 1. This text, henceforth abbreviated as *Nixon Papers*, can be found in the Robert Schenkkan collection, Motion Picture, Broadcasting and Recorded Sound Division (MBRS), Library of Congress, Washington, D.C.
 
-<a name="51"></a><sup>21</sup> Day, *Vanishing Vision*, 213. The Nixon Administration’s plans for public broadcasting were guessed at, but not publically known at the time. The majority of the information regarding its plans has been revealed through a Freedom of Information Act request by the Carnegie Commission on the Future of Public Broadcasting in 1979. Stone, *Nixon and Public Broadcasting*, xx-xxi. Robert MacNeil notes in his memoir, “Their true motives are more brazenly documented than any other part of the Watergate saga; even while cautioning each other to be discreet, because disclosure would be embarrassing, they wrote it all down.” MacNeil, *Right Place*, 265.
+<a name="51"></a><sup>21</sup> Day, *Vanishing Vision*, 213. The Nixon Administration’s plans for public broadcasting were guessed at, but not publically known at the time. The majority of the information regarding its plans has been revealed through a Freedom of Information Act request by the Carnegie Commission on the Future of Public Broadcasting in 1979. Stone, *Nixon and Public Television*, xx-xxi. Robert MacNeil notes in his memoir, “Their true motives are more brazenly documented than any other part of the Watergate saga; even while cautioning each other to be discreet, because disclosure would be embarrassing, they wrote it all down.” MacNeil, *Right Place*, 265.
 
-<a name="52"></a><sup>22</sup> Stone, *Nixon and Public Broadcasting*, 55; Cecil Smith, “Ratings Soar for Watergate on PBS,” *Los Angeles Times*, June 20, 1973, https://search.proquest.com/docview/157283983?accountid=12084.
+<a name="52"></a><sup>22</sup> Stone, *Nixon and Public Television*, 55; Cecil Smith, “Ratings Soar for Watergate on PBS,” *Los Angeles Times*, June 20, 1973, https://search.proquest.com/docview/157283983?accountid=12084.
 
 <a name="53"></a><sup>23</sup> Clay T. Whitehead, interview, December 16, 1992, Clay Thomas Whitehead Papers, Manuscript Division, Library of Congress, Washington, D.C. While the Whitehead collection is mostly within the Manuscript Division, the interview and transcript can be found in the Recorded Sound division.  The interviewer is not identified, but it appears to be Laurence Jarvik conducting an interview for his book *PBS, Behind the Screen*.
 
@@ -135,7 +135,7 @@
 
 <a name="63"></a><sup>33</sup> “Memorandum for the President,” draft, June 18, 1971, in *Nixon Papers*, NAEB, 30-32. Another memo sent July 9 advised that the Administration must work hard “to avoid the appearance of hostility to public broadcasting, both because it is a sacred cow in many quarters and because the President’s opponents are already trying to tar him with antagonism towards ‘free and independent’ media.” “Action Memorandum,” sent July 9, 1971, in *Nixon Papers*, NAEB, 32.
 
-<a name="64"></a><sup>34</sup> “Confidential Eyes Only Memorandum,” sent by Jon M. Huntsman to Peter Flanigan, in *Nixon Papers*, NAEB, 36. John Macy later commented that he was baffled by the strength of the President’s response to anything aired on public television. “They viewed us as much more important a force on the American scene than we really were. They had magnified a mouse into a lion. I can’t help but be amused at how exaggerated their estimate of what our strength and influence really was. After all, there weren’t that many people watching.” Stone, *Nixon and Public Broadcasting*, 326.
+<a name="64"></a><sup>34</sup> “Confidential Eyes Only Memorandum,” sent by Jon M. Huntsman to Peter Flanigan, in *Nixon Papers*, NAEB, 36. John Macy later commented that he was baffled by the strength of the President’s response to anything aired on public television. “They viewed us as much more important a force on the American scene than we really were. They had magnified a mouse into a lion. I can’t help but be amused at how exaggerated their estimate of what our strength and influence really was. After all, there weren’t that many people watching.” Stone, *Nixon and Public Television*, 326.
 
 <a name="65"></a><sup>35</sup> Day, *Vanishing Vision*, 213-215. MacNeil later wrote on Vanocur, “I didn't realize until later that he was a lightning rod--a lightning rod that nearly burned down the barn.” MacNeil, *Right Place*, 265.
 
@@ -143,7 +143,7 @@
 
 <a name="67"></a><sup>37</sup> “Memorandum for the President,” redrafted October 4, 1971, in *Nixon Papers*, NAEB, 37.
 
-<a name="68"></a><sup>38</sup> One particularly “liberal” program offensive to the Nixon Administration was *Banks and the Poor*, a program distributed for broadcast by NET in November 1970. Stone, *Nixon and Public Broadcasting*, 28-35. The financial support of the Ford Foundation was critical to public television in the early years. By the late 1970s, it had invested over $300 million in public media. During this time, the Foundation became synonymous in the Administration for the perceived New York liberal predominance in public television. As a result, Nixon wanted to eliminate its influence. Stone, *Nixon and the Politics*, 5, 24; Memorandum from Albert L. Cole to Richard Nixon, October 27, 1969, in *Nixon Papers*, NAEB, 7.
+<a name="68"></a><sup>38</sup> One particularly “liberal” program offensive to the Nixon Administration was *Banks and the Poor*, a program distributed for broadcast by NET in November 1970. Stone, *Nixon and Public Television*, 28-35. The financial support of the Ford Foundation was critical to public television in the early years. By the late 1970s, it had invested over $300 million in public media. During this time, the Foundation became synonymous in the Administration for the perceived New York liberal predominance in public television. As a result, Nixon wanted to eliminate its influence. Stone, *Nixon and the Politics*, 5, 24; Memorandum from Albert L. Cole to Richard Nixon, October 27, 1969, in *Nixon Papers*, NAEB, 7.
 
 <a name="69"></a><sup>39</sup> Engelman, *Public Radio and Television*, 168; Day, *Vanishing Vision*, 218. Many, including John Witherspoon, Macy’s lieutenant, were nonplussed by the charge of centralism. Day writes, “They were baffled by his charge that public television had abandoned localism when the charge was clearly contradicted by the facts. If the White House felt the system had not moved far enough, or fast enough, let them find fault within themselves for failing to provide adequate funding.”
 
@@ -185,7 +185,7 @@
 
 <a name="88"></a><sup>58</sup> Day, *Vanishing Vision*, 235.
 
-<a name="89"></a><sup>59</sup> Stone, *Nixon and Public Broadcasting*, 226.
+<a name="89"></a><sup>59</sup> Stone, *Nixon and Public Television*, 226.
 
 <a name="90"></a><sup>60</sup> Porter, *Assault on the Media*.
 
@@ -201,29 +201,29 @@
 
 <a name="96"></a><sup>66</sup> Memorandum from Goldberg to Whitehead, April 20, 1973, in *Nixon Papers*, NAEB, 102.
 
-<a name="97"></a><sup>67</sup> Stone, *Nixon and Public Broadcasting*, 242. Stone writes, “By the middle of February it was becoming clear that public television viewers were not only vast in numbers, but deeply concerned about the future of news and public affairs programming. This concern was reflected in an unprecedented outpouring of financial support from the viewing audience. In many major cities memberships climbed fifty percent over the previous year. Donations from the public in New York, Boston, Chicago, Los Angeles, and Dallas reached record sums.”
+<a name="97"></a><sup>67</sup> Stone, *Nixon and Public Television*, 242. Stone writes, “By the middle of February it was becoming clear that public television viewers were not only vast in numbers, but deeply concerned about the future of news and public affairs programming. This concern was reflected in an unprecedented outpouring of financial support from the viewing audience. In many major cities memberships climbed fifty percent over the previous year. Donations from the public in New York, Boston, Chicago, Los Angeles, and Dallas reached record sums.”
 
 <a name="98"></a><sup>68</sup> McCandlish Phillips, “Killian Sees Watergate as Helping Public TV,” *New York Times*, May 28, 1973, https://search.proquest.com/docview/119877372?accountid=12084
 
 <a name="99"></a><sup>69</sup> Ibid.
 
-<a name="100"></a><sup>70</sup> Stone, *Nixon and Public Broadcasting*, 266.
+<a name="100"></a><sup>70</sup> Stone, *Nixon and Public Television*, 266.
 
 <a name="101"></a><sup>71</sup> Ibid.
 
 <a name="102"></a><sup>72</sup> Day, *Vanishing Vision*, 232.
 
-<a name="103"></a><sup>73</sup> Many observers have noted Nixon’s proclivity for being his own worst enemy. John Dean said many years later, “I couldn't figure out how Richard Nixon, as savvy a politician and highly intelligent person could get himself into the problems he got into. There is no simple answer, you literally have to watch it. It’s…kind of like watching a train wreck, if you will to see how he makes one bad decision on top of another bad decision.” “Dick Cavett's Watergate,” Thirteen/WNET New York, August 8, 2014, accessed June 26, 2017, http://www.pbs.org/wnet/secrets/dick-cavetts-watergate-full-episode/1880/. Herb Klein, Nixon’s press aide, praised Nixon’s brilliance while also noting “there is a sadistic side, one which derives satisfaction from the thought of vengeance.” He called it Nixon’s “Jekyll and Hyde streak.” Stone, *Nixon and Public Broadcasting*, 311. Historian James Patterson argues that Nixon’s “desperate passion for control,” and “siege mentality,” meant that “something like Watergate was probably an excess waiting to happen.” James T. Patterson, *Grand Expectations: United States, 1945-74* (New York, NY: Oxford University Press, 1998), 773-78.
+<a name="103"></a><sup>73</sup> Many observers have noted Nixon’s proclivity for being his own worst enemy. John Dean said many years later, “I couldn't figure out how Richard Nixon, as savvy a politician and highly intelligent person could get himself into the problems he got into. There is no simple answer, you literally have to watch it. It’s…kind of like watching a train wreck, if you will to see how he makes one bad decision on top of another bad decision.” “Dick Cavett's Watergate,” Thirteen/WNET New York, August 8, 2014, accessed June 26, 2017, http://www.pbs.org/wnet/secrets/dick-cavetts-watergate-full-episode/1880/. Herb Klein, Nixon’s press aide, praised Nixon’s brilliance while also noting “there is a sadistic side, one which derives satisfaction from the thought of vengeance.” He called it Nixon’s “Jekyll and Hyde streak.” Stone, *Nixon and Public Television*, 311. Historian James Patterson argues that Nixon’s “desperate passion for control,” and “siege mentality,” meant that “something like Watergate was probably an excess waiting to happen.” James T. Patterson, *Grand Expectations: United States, 1945-74* (New York, NY: Oxford University Press, 1998), 773-78.
 
 <a name="104"></a><sup>74</sup> Erik Barnouw, *Tube of Plenty: The Evolution of American Television*, 2nd ed. (New York: Oxford University Press, 1990), 455. More recently the Knapp Commission, which investigated police corruption in 1970, was a successful TV spectacle. MacGregor, “Blessing in Disguise.”
 
 <a name="105"></a><sup>75</sup> Day, *Vanishing Vision*, 247.
 
-<a name="106"></a><sup>76</sup> Stone, *Nixon and Public Broadcasting*, 290.
+<a name="106"></a><sup>76</sup> Stone, *Nixon and Public Television*, 290.
 
 <a name="107"></a><sup>77</sup> With the help of Texas industrialist Ralph B. Rogers, PBS and CPB came to a “partnership agreement” on May 31, 1973, which delineated rights and responsibilities between the two organizations. Avery and Pepper, “An Institutional History,” 130-31.
 
-<a name="108"></a><sup>78</sup> Stone, *Nixon and Public Broadcasting*, 291.
+<a name="108"></a><sup>78</sup> Stone, *Nixon and Public Television*, 291.
 
 <a name="109"></a><sup>79</sup> Ibid., 291.
 
@@ -317,11 +317,11 @@
 
 <a name="151"></a><sup>121</sup> Jarvik, *PBS, Behind the Screen*, ix.
 
-<a name="152"></a><sup>122</sup> Stone, *Nixon and Public Broadcasting*, 339.
+<a name="152"></a><sup>122</sup> Stone, *Nixon and Public Television*, 339.
 
 <a name="153"></a><sup>123</sup> Clarence Petersen, “Public TV Compromise Offers Slim Hope,” *The Chicago Tribune*, May 16, 1973, https://search.proquest.com/docview/170393242?accountid=12084.
 
-<a name="154"></a><sup>124</sup> Whitehead to Office of Management and Budget, letter sent July 2, 1973, in *Nixon Papers*, NAEB, 110; Stone, *Nixon and Public Broadcasting*, 301.
+<a name="154"></a><sup>124</sup> Whitehead to Office of Management and Budget, letter sent July 2, 1973, in *Nixon Papers*, NAEB, 110; Stone, *Nixon and Public Television*, 301.
 
 <a name="155"></a><sup>125</sup> Day, *Vanishing Vision*, 245.
 
@@ -329,7 +329,7 @@
 
 <a name="157"></a><sup>127</sup> Louis Liebovich, *Richard Nixon, Watergate, and the Press: A Historical Retrospective* (Westport, CT: Praeger, 2003), 101.
 
-<a name="158"></a><sup>128</sup> Stone, *Nixon and Public Broadcasting*, 305-06.
+<a name="158"></a><sup>128</sup> Stone, *Nixon and Public Television*, 305-06.
 
 <a name="159"></a><sup>129</sup> Ibid.
 
@@ -352,7 +352,7 @@
 
 <a name="167"></a><sup>137</sup> On July 12, Clarence Petersen of the *Chicago Tribune* wrote, “Great strides for public television have always been measured in inches. When that is no longer the case, public television will have sold out. Or else the world will have become a very strange place, no longer populated by humans.” The concern that PBS sold out was an enduring question in its period of success. Clarence Petersen, “‘The Avalanche’ Is Favorable at NPACT,” *Chicago Tribune*, July 12, 1973, https://search.proquest.com/docview/170405096?accountid=12084.
 
-<a name="168"></a><sup>138</sup> Stone, *Nixon and Public Broadcasting*, 321.
+<a name="168"></a><sup>138</sup> Stone, *Nixon and Public Television*, 321.
 
 <a name="169"></a><sup>139</sup> Engelman, *Public Radio and Television*, 173.
 
