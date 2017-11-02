@@ -226,16 +226,16 @@ describe 'Catalog' do
 
       describe 'exhibit facet' do
         describe 'in gallery' do
-          it 'has exhibit description' do
+          it 'has exhibit breadcrumb' do
             visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCore::ALL_ACCESS
-            expect(page).to have_text('Every public broadcasting station')
+            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories')
           end
         end
 
         describe 'in list' do
-          it 'has exhibit description' do
+          it 'has exhibit breadcrumb' do
             visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
-            expect(page).to have_text('Every public broadcasting station')
+            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories')
           end
         end
       end
