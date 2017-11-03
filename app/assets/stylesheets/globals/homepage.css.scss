@@ -505,7 +505,7 @@
   .special-collections-content {
     position: relative;
     text-align: center;
-    padding: 5em 1em 2em 1em;
+    padding: 1em;
     h2 {
       color: #fff;
       font-weight: 300;
@@ -514,6 +514,27 @@
       font-size: 3.75em;
     }
   }
+  a:focus {
+    background-color: transparent;
+    outline: #fff 3px solid;
+  }
+}
+
+.special-collections-bg-control {
+  position: relative;
+  text-align: right;
+}
+
+#video-bg-control {
+  position: relative;
+  background-color: rgba(255,255,255,0.3);
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  color: #fff;
+  margin-top: 15px;
+  border: #fff 3px solid;
+  width: 125px;
 }
 
 @media (max-width: 991px) {

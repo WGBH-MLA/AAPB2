@@ -25,6 +25,9 @@
 //= require mark.js/jquery.mark.min.js
 //= require jquery.scrollTo-2.1.2/jquery.scrollTo.min.js
 
+// Play|Pause for Homepage Background Video
+//= stub background-video
+
 // For blacklight_range_limit built-in JS, if you don't want it you don't need
 // this:
 //= require 'blacklight_range_limit'
