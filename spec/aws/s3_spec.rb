@@ -18,7 +18,7 @@ describe 'S3' do
   end
   describe 'policy effect' do
     it 'allows thumbnail without referer' do
-      curl = Curl::Easy.http_get('https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip-41-644qrtnj.jpg')
+      curl = Curl::Easy.http_get('https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_41-644qrtnj.jpg')
       curl.perform
       expect(curl.status).to eq('200 OK')
     end

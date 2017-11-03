@@ -1,3 +1,9 @@
-<h4><%= link_to(exhibit.title, "/exhibits/#{exhibit.path}") %></h4>
-
-<%= sanitize(exhibit.summary_html, tags: []) %>
+<div class="row">
+  <div class="col-md-12 breadcrumb-row exhibit-breadcrumb">
+    <ol class="collection-breadcrumb hidden-xs" style="margin-top: 0px;">
+      <li><a href="/exhibits">Exhibits</a></li>
+      <li><a href="/exhibits/<%= exhibit.path %>"><%= exhibit.title %></a></li>
+      <li>Search</li>
+    </ol>
+  </div>
+</div>

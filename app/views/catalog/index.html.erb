@@ -11,6 +11,9 @@
   <div class="page-header">
     <h1>Search Results</h1>
   </div>
+  <% if @exhibit %>
+    <%= render partial: 'exhibits/show_all_items_header', locals: {exhibit: @exhibit } %>
+  <% end %>
 <% end %>
 
 <div id="sidebar" class="col-md-3 col-sm-4">
