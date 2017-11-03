@@ -1,5 +1,7 @@
 <% content_for :head do %>
   <meta name="description" content="A collaboration between WGBH and the Library of Congress with a long-term vision to preserve and make accessible significant historical content created by public media.">
+
+  <%= javascript_include_tag 'background-video' %>
 <% end %>
 
 <!-- Welcome -->
@@ -58,6 +60,9 @@
     <source src="https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_background_video.webm" type="video/webm"></source>
   </video>
   <div class="special-collections-content">
+    <div class="special-collections-bg-control hidden-sm hidden-xs">
+      <button id="video-bg-control" class="video-bg-play" aria-label="Pause Video">Pause Video</button>
+    </div>
     <div class="container">
       <div class="well intro-text">
         <h2>Special Collections</h2>
