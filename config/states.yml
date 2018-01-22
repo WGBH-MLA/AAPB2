@@ -21,19 +21,19 @@
 
 - state: South Dakota
   blurb_fill:
-    naeb_station: KFJM
+    naeb_station: University of South Dakota
   blurb_md: *naeb_blurb
   abbreviation: SD
 
 - state: North Dakota
   blurb_fill:
-    naeb_station: KUSD
+    naeb_station: KFJM
   blurb_md: *naeb_blurb
   abbreviation: ND
 
 - state: Alabama
   blurb_fill:
-    naeb_station: WUOA
+    naeb_station: University of Alabama
   blurb_md: *naeb_blurb
   abbreviation: AL
 
@@ -50,7 +50,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [KPPC](/catalog?f[access_types][]=all&q=kppc), [KEBS](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=kebs), and [San Bernardino Valley College](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="San Bernardino Valley") in California is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [KPcC](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=kpcc), [KEBS](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=kebs), and [San Bernardino Valley College](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="San Bernardino Valley") in California is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -95,7 +95,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [University of Chicago](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="u. of chicago") and [WMBI](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmbi) in Illinois is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [University of Chicago](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="u. of chicago") and [Moody Bible Institute](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q="moody bible institute") in Illinois is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -140,7 +140,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [WUOM](/catalog?utf8=✓&f[access_types][]=all&q=wuom), [WDET](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wdet), and [WMUK](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmuk) in Michigan is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [WUOM](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=wuom), [WDET](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wdet), and [University of Michigan](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=wdet) in Michigan is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -254,9 +254,6 @@
   abbreviation: VA
 
 - state: Washington
-  blurb_fill:
-    naeb_station: KWSC
-  blurb_md: *naeb_blurb
   abbreviation: WA
 
 - state: West Virginia
