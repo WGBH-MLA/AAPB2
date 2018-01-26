@@ -53,7 +53,12 @@ class Organization < Cmless
   end
 
   def short_name
-    @short_name ||= Organization.clean(short_name_html)
+    # this is really hacky, but the redcarpet gem for in cmless
+    # for interpreting md was not recognizing the escaped ampersand
+    # and a literal ampersand would display as a '&amp;'
+    # fix should probably be in cmless with an update of redcarpet
+    # but we're punting that for now.
+    @short_name ||= Organization.clean(short_name_html).gsub('&amp;', '&')
   end
 
   def url
