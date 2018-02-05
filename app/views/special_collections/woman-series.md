@@ -19,7 +19,7 @@ The <em>Woman</em> Series was contributed to the American Archive of Public Broa
 [![Dorothy Pittman Hughes and Julia Van Metre](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-59c5b5nr.jpg)](/catalog/cpb-aacip_81-59c5b5nr)
 [![Nora Ephron](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-988gttr0.jpg)](/catalog/cpb-aacip_81-988gttr0)
 [![Marcia Ann Gillespie](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-69z08t6x.jpg)](/catalog/cpb-aacip_81-69z08t6x)
-[![Jeanne Moreau](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-47rn8v5q.jpg)](/catalog/cpb-aacip_81-47rn8v5q)
+[![Margaret Sloan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-47rn8v5q.jpg)](/catalog/cpb-aacip_81-47rn8v5q)
 
 ## Resources
 
