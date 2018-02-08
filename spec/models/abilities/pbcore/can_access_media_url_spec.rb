@@ -96,11 +96,23 @@ describe Ability do
         end
       end
 
-      context 'when User is not on-site; User is not an AAPB referer; User is not embedding the media' do
-        let(:user) { instance_double(User, 'onsite?' => false, 'aapb_referer?' => false, 'embed?' => false) }
+      context 'when User is not on-site; User is not an AAPB referer; User is not embedding the media; User is not an authorized referer' do
+        let(:user) { instance_double(User, 'onsite?' => false, 'aapb_referer?' => false, 'embed?' => false, 'authorized_referer?' => false) }
 
         it 'returns false for public PBCore records' do
           expect(ability).to_not be_able_to(:access_media_url, public_pbcore_record)
+        end
+
+        it 'returns false for protected PBCore records' do
+          expect(ability).to_not be_able_to(:access_media_url, protected_pbcore_record)
+        end
+      end
+
+      context 'when User is not on-site; User is not an AAPB referer; User is not embedding the media; User is an authorized referer' do
+        let(:user) { instance_double(User, 'onsite?' => false, 'aapb_referer?' => false, 'embed?' => false, 'authorized_referer?' => true) }
+
+        it 'returns true for public PBCore records' do
+          expect(ability).to be_able_to(:access_media_url, public_pbcore_record)
         end
 
         it 'returns false for protected PBCore records' do
