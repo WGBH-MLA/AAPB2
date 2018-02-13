@@ -100,6 +100,41 @@ describe User do
     end
   end
 
+  describe '#authorized_referer?' do
+    @authorized_referers = [
+      'http://meptest.dartmouth.edu'
+    ]
+
+    @authorized_referers.each do |auth_referer|
+      context "when the referer is '#{auth_referer}'" do
+        # Stub the fake request to return the referer we're trying to test.
+        before { allow(fake_request).to receive(:referer) { auth_referer } }
+
+        it 'returns true' do
+          expect(user.authorized_referer?).to eq true
+        end
+      end
+    end
+
+    @non_authorized_referers = [
+      'http://example.com',
+      'http://123.123.123.123',
+      'this is not even a URI',
+      nil
+    ]
+
+    @non_authorized_referers.each do |non_auth_referer|
+      context "when the referer is '#{non_auth_referer}'" do
+        # Stub the fake request to return the referer we're trying to test.
+        before { allow(fake_request).to receive(:referer) { non_auth_referer } }
+
+        it 'returns false' do
+          expect(user.authorized_referer?).to eq false
+        end
+      end
+    end
+  end
+
   describe 'abilities' do
     examples = {
       public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),

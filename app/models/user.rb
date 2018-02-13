@@ -3,6 +3,7 @@ require 'ipaddr'
 require_relative '../../lib/geo_i_p_country'
 
 class User
+  DARTMOUTH_HOST_RE = /^(.+\.)?meptest\.dartmouth\.edu$/
   POPUP_HOST_RE = /^(.+\.)?popuparchive\.com$/
   AAPB_HOST_RE = /^(.+\.)?americanarchive\.org$/
   AWS_HOST_RE = /^(.+\.)?wgbh-mla\.org$/
@@ -41,6 +42,12 @@ class User
     end
   end
 
+  def authorized_referer?
+    authorized_referer_regexes.any? do |authorized_referer_regex|
+      referer_host =~ authorized_referer_regex
+    end
+  end
+
   def embed?
     URI.parse(request.referer).path =~ /embed/
   end
@@ -53,6 +60,10 @@ class User
 
   def aapb_referer_regexes
     [AAPB_HOST_RE, POPUP_HOST_RE, AWS_HOST_RE]
+  end
+
+  def authorized_referer_regexes
+    [DARTMOUTH_HOST_RE]
   end
 
   def onsite_ip_ranges
