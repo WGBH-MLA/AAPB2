@@ -224,7 +224,7 @@
       <circle id='dot' class='city' cx='3' cy='3' r='7' />
     </defs>
 
-    <a xlink:href='/participating-orgs#Alabama' tabindex="-1"><title>Tuscaloosa, AL: WUOA, University of Alabama</title><use x='643' y='400' xlink:href='#dot'/></a>
+    <a xlink:href='/participating-orgs#Alabama' tabindex="-1"><title>Tuscaloosa, AL: University of Alabama</title><use x='643' y='400' xlink:href='#dot'/></a>
     <a xlink:href='/participating-orgs#Alaska' tabindex="-1"><title>Dillingham, AK: KDLG</title><use x='75' y='535' xlink:href='#dot'/></a>
     <a xlink:href='/participating-orgs#Alaska' tabindex="-1"><title>Bethel, AK: KYUK</title><use xlink:href='#dot' x='63' y='517'/></a>
     <a xlink:href='/participating-orgs#Alaska' tabindex="-1"><title>Anchorage, AK: KAKM Alaska Public Media + Koahnic Broadcast Corporation</title><use xlink:href='#dot' x='113' y='530'/></a>
@@ -234,7 +234,7 @@
     <a xlink:href='/participating-orgs#Arkansas' tabindex="-1"><title>Conway, AR: Arkansas Educational TV Network</title><use xlink:href='#dot' x='546' y='357'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Eureka, CA: KEET</title><use xlink:href='#dot' x='28' y='174'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>San Bernardino, CA: KVCR</title><use xlink:href='#dot' x='102' y='344'/></a>
-    <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Pasadena, CA: KPPC + KPCC</title><use xlink:href='#dot' x='86' y='342'/></a>
+    <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Pasadena, CA: KPCC</title><use xlink:href='#dot' x='86' y='342'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Costa Mesa, CA: PBS SoCaL</title><use xlink:href='#dot' x='90' y='352'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Los Angeles, CA: KUSC</title><use xlink:href='#dot' x='83' y='340'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>North Hollywood, CA: Pacifica Radio Archives</title><use xlink:href='#dot' x='84' y='339'/></a>
@@ -258,7 +258,7 @@
     <a xlink:href='/participating-orgs#Idaho' tabindex="-1"><title>Boise, ID: Idaho Public Television</title><use xlink:href='#dot' x='169' y='139'/></a>
     <a xlink:href='/participating-orgs#Illinois' tabindex="-1"><title>Carbondale, IL: WSIU</title><use xlink:href='#dot' x='598' y='295'/></a>
     <a xlink:href='/participating-orgs#Illinois' tabindex="-1"><title>Urbana, IL: WILL Illinois Public Media</title><use xlink:href='#dot' x='611' y='240'/></a>
-    <a xlink:href='/participating-orgs#Illinois' tabindex="-1"><title>Chicago, IL: WYCC PBS Chicago + WBEZ + University of Chicago</title><use xlink:href='#dot' x='616' y='200'/></a>
+    <a xlink:href='/participating-orgs#Illinois' tabindex="-1"><title>Chicago, IL: WYCC PBS Chicago + WBEZ + University of Chicago + Moody Bible Institute</title><use xlink:href='#dot' x='616' y='200'/></a>
     <a xlink:href='/participating-orgs#Indiana' tabindex="-1"><title>Indianapolis, IN: WFYI</title><use xlink:href='#dot' x='646' y='246'/></a>
     <a xlink:href='/participating-orgs#Indiana' tabindex="-1"><title>West Lafayette, IN: WBAA</title><use xlink:href='#dot' x='628' y='237'/></a>
     <a xlink:href='/participating-orgs#Indiana' tabindex="-1"><title>Bloomington, IN: WTIU + WFIU</title><use xlink:href='#dot' x='640' y='259'/></a>
