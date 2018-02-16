@@ -16,12 +16,12 @@ The NAEB Collection was contributed to the AAPB by the University of Maryland’
 
 ## Featured
 
-[![The American People; The Good Old Days: A Study in Nostalgia, Part One  (WRVR)](http://americanarchive.org/thumbs/audio-digitized.jpg)](/catalog/cpb-aacip_500-gb1xj31m)
-[![Portrait of the American; Who are we as Americans? (WDET)](http://americanarchive.org/thumbs/audio-digitized.jpg)](/catalog/cpb-aacip_500-804xms5g)
-[![Hold Your Breath: Pollution in your Backyard (WKAR)](http://americanarchive.org/thumbs/audio-digitized.jpg)](/catalog/cpb-aacip_500-2b8vff6d)
-[![As We See It: Vietnam ’68; Dr. Howard Zinn (WMUB)](http://americanarchive.org/thumbs/audio-digitized.jpg)](/catalog/cpb-aacip_500-862bdc1v)
-[![The Truth About Radio; Edwin G. Burrows (WNEW)](http://americanarchive.org/thumbs/audio-digitized.jpg)](/catalog/cpb-aacip_500-nz80qf1z)
-[![Ideas and the Theatre; Tennesse Williams (KUOM)](http://americanarchive.org/thumbs/audio-digitized.jpg)](/catalog/cpb-aacip_500-4m91d23n)
+[![A Study in Nostalgia](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-gb1xj31m)
+[![Who are we as Americans?](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-804xms5g)
+[![Pollution in your Backyard](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-2b8vff6d)
+[![Dr. Howard Zinn](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-862bdc1v)
+[![Edwin G. Burrows](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-nz80qf1z)
+[![Tennessee Williams](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-4m91d23n)
 
 ## Resources
 
@@ -36,6 +36,6 @@ The NAEB Collection was contributed to the AAPB by the University of Maryland’
 
 ## Help
 
-The National Association of Educational Broadcasters Collection consists of 5,566 digitized radio programs. The entire collection is accessible on location at WGBH and the Library of Congress. As of January 2018, 835 programs are available in the AAPB Online Reading Room. Each metadata record contains information about the producing or creating station. If you identify a creator of interest, type the creator’s name or call letters into the search box to narrow your search down to that creator. To explore more episodes of a series, find a record of interest and click the hyperlinked series title to view all episodes from that series. To expand your search to include metadata records for all digitized programs (including those not accessible in the Online Reading Room), select the “All Digitized” facet on the search results page.  
+The National Association of Educational Broadcasters Collection consists of 5,566 digitized radio programs. The entire collection is accessible on location at WGBH and the Library of Congress. As of January 2018, 835 programs are available in the AAPB Online Reading Room. Each metadata record contains information about the producing or creating station. If you identify a creator of interest, type the creator’s name or call letters into the search box to narrow your search down to that creator. To explore more episodes of a series, find a record of interest and click the hyperlinked series title to view all episodes from that series. To expand your search to include metadata records for all digitized programs (including those not accessible in the Online Reading Room), select the “All Digitized” facet on the search results page.
 
 ## Terms
