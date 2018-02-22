@@ -1,26 +1,20 @@
 # Old Buildings for a New Economy
-1
+
+4
 
 ## Summary
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Historic American Buildings Survey, Creator. <em>Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY.</em> New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/pennstationcrop.jpg" alt="Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."/></td></tr>
-</table>
 
 ## Extended
-After the mid-century decades of urban renewal, citizens and government officials alike started to invest economically and emotionally in the existing built environment. In the 1970s and 1980s, the nation’s business and real estate communities began to view preservation in a new way: as a tool for urban revitalization and as a boost to the tourist economy. President Reagan’s 1981 historic tax credit incentive transformed preservation into a more profitable activity, and in 1985, [*The MacNeil/Lehrer NewsHour*](/catalog/cpb-aacip_507-gt5fb4xb36) covered President Reagan touting his tax credit reform in front of Colonial Williamsburg, the largest living history museum in the world.
-
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"><em>The MacNeil/Lehrer NewsHour</em> from NewsHour Productions.
-  http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/taxcut.jpg" alt="The MacNeil/Lehrer NewsHour from NewsHour Productions. http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36."/></td></tr>
+  <caption align="bottom" class="exhibit-caption"><a href="http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36">The MacNeil/Lehrer NewsHour from NewsHour Productions</a>.</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/taxcut_sm.png" alt="The MacNeil/Lehrer NewsHour from NewsHour Productions." /></td></tr>
 </table>
+After the mid-century decades of urban renewal, citizens and government officials alike started to invest economically and emotionally in the existing built environment. In the 1970s and 1980s, the nation’s business and real estate communities began to view preservation in a new way: as a tool for urban revitalization and as a boost to the tourist economy. President Reagan’s 1981 historic tax credit incentive transformed preservation into a more profitable activity, and in 1985, [*The MacNeil/Lehrer NewsHour*](/catalog/cpb-aacip_507-gt5fb4xb36) covered President Reagan touting his tax credit reform in front of Colonial Williamsburg, the largest living history museum in the world.
 
 The economic benefits of preserving historic districts were discussed on public broadcasting even before urban renewal, as in this 1950s WUOA (University of Alabama) broadcast of [*Document: Deep South*](/catalog/cpb-aacip_500-6688mm89), when Southerners were imagining how to rebuild the local economy without sacrificing “Southern character." But the trend gained traction in the 1980s. Through public broadcasting, local communities across the nation declared that historic preservation could be used to define local identities and create new economic opportunities. Oregon Public Broadcasting’s [*Front Street Weekly*](/catalog/cpb-aacip_153-93ttf7zb), Alaska’s Koahnic Broadcast Corporation’s [*National Native News*](/catalog/cpb-aacip_206-2259zzbn),  Florida’s WEDU [*Gulf Coast Journal*](/catalog/cpb-aacip_322-40ksn4b8), and New Jersey Network’s [*Nightly News*](/catalog/cpb-aacip_259-tm71zg7b) all dedicate time to exploring what economic benefits can be found in their unique landscapes and touch on how historic built environments are important to their communal identity.
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"><em>The State We're In</em> from Louisiana Public Broadcasting.
-  http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36</caption>.
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/tourism.jpg" alt="The State We're In</em> from Louisiana Public Broadcasting. http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36."/></td></tr>
+  <caption align="bottom" class="exhibit-caption">[The State We're In from Louisiana Public Broadcasting](http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36).</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/tourism.jpg" alt="The State We're In from Louisiana Public Broadcasting." /></td></tr>
 </table>
 
 Adaptive reuse—repurposing of an existing structure for a new use—is an increasingly popular historic preservation strategy. This can mean turning commercial buildings into residential structures or vice versa, in order to retrofit historical buildings for the current needs of a local community.[<sup>20</sup>](/exhibits/historic-preservation/notes#20) Adaptive reuse was used to save St. Mark’s Church in Brookline, Massachusetts and is discussed in a [1977 episode](/catalog/cpb-aacip_15-6663z5xf) of *Pantechnicon* from WGBH. Abandoned in 1968, the church was placed on the National Register of Historic Places in 1976. At the time of the recording, the church was being evaluated by the National Trust for Historic Preservation and was part of a broader segment on the adaptive reuse of historic churches in the Boston area. The church now houses condominiums.[<sup>21</sup>](/exhibits/historic-preservation/notes#21) Adaptive reuse continues to be a popular alternative in plenty of communities, and drives considerable profit for developers who retrofit historic places. According to President and CEO of the National Trust for Historic Preservation Stephanie Meeks, “through 2014, the tax credit has created 2.5 million jobs, leveraged $117 billion in private investment, resulted in more than 260,000 renovated housing units, and transformed more than 40,000 unused or underused buildings for new and productive uses.”[<sup>22</sup>](/exhibits/historic-preservation/notes#22)
