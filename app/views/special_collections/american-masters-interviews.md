@@ -18,7 +18,7 @@ The *American Masters* Interviews Collection consists of 2,191 digital files o
 
 [![Twyla Tharp](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_504-zc7rn3121g.jpg)](/catalog/cpb-aacip_504-zc7rn3121g)
 [![Herbie Hancock](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_504-v11vd6pw3q.jpg)](/catalog/cpb-aacip_504-v11vd6pw3q)
-[![Tracy Ullman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_504-9w08w38n51.jpg)](/catalog/cpb-aacip_504-9w08w38n51)
+[![Tracey Ullman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_504-9w08w38n51.jpg)](/catalog/cpb-aacip_504-9w08w38n51)
 [![Marvin Hamlisch](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-504-4x54fln256.jpg)](/catalog/cpb-aacip_504-4x54f1n256)
 [![Barbara Walters](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-504-td9n29pz6t.jpg)](/catalog/cpb-aacip_504-td9n29pz6t)
 [![James Earl Jones](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_504-w08w951d4p.jpg)](/catalog/cpb-aacip_504-w08w951d4p)
