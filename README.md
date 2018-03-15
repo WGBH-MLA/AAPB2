@@ -8,7 +8,7 @@ This is the public-facing website of the [*American Archive of Public Broadcasti
 - Start a new terminal to make the `rvm` command available.
 - Clone this repository.
 - `cd` to your copy of the repo.
-- You may see a message from RVM stating that the required Ruby version is not available. 
+- You may see a message from RVM stating that the required Ruby version is not available.
 Install it as instructed.
 - Get dependencies: `bundle install`
 - Download Solr, configure, and start: `rake jetty:clean && rake jetty:config && rake jetty:start`
@@ -114,7 +114,7 @@ Copy it to `/var/www/aapb/current/config` by doing:
 scp -i ~/.ssh/aapb.wgbh-mla.org.pem ~/ci.yml ec2-user@DEMO-IP-ADDRESS:/var/www/aapb/current/config/ci.yml
 ```
 
-NOTE- If you had to do any of those steps, there may be a problem with the aapb_deployment code and you should file a new ticket.  
+NOTE- If you had to do any of those steps, there may be a problem with the aapb_deployment code and you should file a new ticket.
 
 When complete, [go to the demo site](http://demo.aapb.wgbh-mla.org) and verify the code changes that were just deployed are what you desire and the search is working correctly, and media playback is working.
 
@@ -131,8 +131,8 @@ When that process completes, you can go to the [live AAPB](http://americanarchiv
 
 ## Ingest to AAPB
 	TO DO CURRENTLY HANDLED IN `guids2AAPB.app`
-	
-	
+
+
 ## Verify Successful Ingest
 To verify ingest completed successfully you can view the most recent ingest log files on both the demo and live servers.
 View the most recent log file.  At the end of the log there should be a % complete number.  If it's `(100%) succeeded` then the ingest was successful.
@@ -195,7 +195,7 @@ Wordpress sets a default TTL of 300s, which should be fine for now.
 
 ### Media hosting
 
-- Thumbnails are served from a Amazon S3 server. 
+- Thumbnails are served from a Amazon S3 server.
 To ingest thumbnails:
 You can use the AWS web interface to upload small batches of thumbnails but for uploading hundreds of files you should use the Amazon CLI tool.  The transfer speed is a lot faster and large transfers shouldn't time out.
 
@@ -253,7 +253,7 @@ $ nohup bundle exec ruby scripts/download_clean_ingest.rb --all &
 
 We are using [Sony Ci](http://developers.cimediacloud.com) to host the video and audio files.
 In the office we are using the Ci API to upload content, and on the server the API
-is used to generate transient download URLs. On either end, an additional 
+is used to generate transient download URLs. On either end, an additional
 git-ignored configuration file (`config/ci.yml`) is necessary.
 
 ```yaml
@@ -264,7 +264,7 @@ client_secret: [32 character hexadecimal client secret]
 workspace_id: [32 character hexadecimal workspace ID]
 ```
 
-Use your personal workspace ID if you are working on the Ci code itself, or the 
+Use your personal workspace ID if you are working on the Ci code itself, or the
 AAPB workspace ID if you want to view media that is stored.
 
 To actually ingest:
@@ -291,7 +291,7 @@ The descriptions and histories respect paragraph breaks and have a notation for 
 If we need more, we should investigate markdown.
 
 **Views**: All the ERBs under `app/views` as well as the CSS under `app/assets/stylesheets`
-are tweakable. We have good test coverage, so if something is simply invalid, 
+are tweakable. We have good test coverage, so if something is simply invalid,
 it should cause Travis to fail.
 
 **Solr**: It is unlikely that non-devs would touch Solr, but it bears mentioning here.
@@ -303,7 +303,7 @@ occurrences throughout the codebase.
 - We minimize the dependence of the view code on the Solr definitions by always
 pulling data to render from a `PBCore` object, rather than a Solr field.
 This does mean the search results page is a little slower, (about 0.1s when I timed it,)
-but it means that access is consistent in all contexts, and if we do want to make a change 
+but it means that access is consistent in all contexts, and if we do want to make a change
 in how data is pulled from PBCore for display, it does not require a re-index.
 
 
@@ -314,19 +314,23 @@ in how data is pulled from PBCore for display, it does not require a re-index.
 # API
 
 Data from the AAPB is available via an API. At this moment the API is experimental:
-No key is required, but we also do not guarantee continued availability. 
+No key is required, but we also do not guarantee continued availability.
 
 The OAI-PMH feed can be used to harvest records for items available in the Online Reading Room. Please note that **only records for items in the Online Reading Room** can be harvested this way. We don't support
 all the verbs, or any formats beyond MODS.
 
 - OAI-PMH: [`/oai.xml?verb=ListRecords`](http://americanarchive.org/oai.xml?verb=ListRecords)
 
-All AAPB metadata records, including records for all digitized content and content not digitized can be harvested using the PBCore API. 
+All AAPB metadata records, including records for all digitized content and content not digitized can be harvested using the PBCore API.
 
-If you just need one or a small number of records in machine-readable form, 
+If you just need one or a small number of records in machine-readable form,
 use the single-item API to get [PBCore XML](http://pbcore.org/):
 
 - XML: [`/api/cpb-aacip_305-7312jttj.xml`](http://americanarchive.org/api/cpb-aacip_305-7312jttj.xml)
+
+If a record in the AAPB Online Reading Room has an associated JSON transcript you can use our single-item transcript API to retrieve it. Transcripts Research Access (TRA) credentials are required to access the full transcript and can be obtained by contacting us at aapb_notifications@wgbh.org.
+
+- [`/api/cpb-aacip_111-21ghx7d6/transcript`](http://americanarchive.org/api/cpb-aacip_111-21ghx7d6/transcript)
 
 If you are interested in summary statistics across the collection,
 an advanced API provides limited access to the underlying Solr index. XML, JSON, and JSONP
@@ -342,16 +346,16 @@ Note that while the PBCore XML is available through this API, it is simply repre
 as a string within the container: Even with the XML response type a first parse would
 be necessary to extract the PBCore, which could then in its turn be parsed.
 
-Solr query syntax is beyond the scope of this document, but 
+Solr query syntax is beyond the scope of this document, but
 [extensive documentation](http://wiki.apache.org/solr/CommonQueryParameters) is available.
 **NOTE**: Repeated parameters must be followed by `[]` when using the API. This is different
 from native Solr syntax. For example:
 [`facet.field[]=state&facet.field[]=year`](http://americanarchive.org/api.json?facet=true&q=asimov&facet.field[]=state&facet.field[]=year)
 
 The available facets correspond closely to what is available through the UI,
-but check the [schema](https://raw.githubusercontent.com/WGBH/AAPB2/master/solr_conf/schema.xml) 
+but check the [schema](https://raw.githubusercontent.com/WGBH/AAPB2/master/solr_conf/schema.xml)
 in this repo if you are curious.
 
-We've made a few simple D3 [visualizations](http://mccalluc.github.io/alt-aapb/) 
-of the AAPB collection that suggest some of the possibilities. If you build anything interesting, 
+We've made a few simple D3 [visualizations](http://mccalluc.github.io/alt-aapb/)
+of the AAPB collection that suggest some of the possibilities. If you build anything interesting,
 we'd love to hear about it, and if we have your email, we'll try to notify you about changes to the API.
