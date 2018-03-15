@@ -24,7 +24,6 @@
 
     .jumbotron {
         a:focus {
-          background-color: transparent;
           outline: #fff 3px solid;
         }
     }
@@ -44,6 +43,9 @@
         margin:1em auto 2em;
         padding:0;
         width:98%;
+        p {
+            text-align: center;
+        }
     }
 
     .intro-text h2 {
@@ -208,13 +210,13 @@
         &:after { background-color:rgba(144,41,142,.85); }
     }
 
-    /* Home Jumbotron - Fix It */
-    #fixit {
+    /* Home Jumbotron - Help Us */
+    #help-us {
         background-color: #221e1f;
         background-image:none;
     }
 
-    .fixit-box {
+    .help-us-box {
         background-color: #097675;
         text-align: center;
         padding: 2% 15%;
@@ -223,24 +225,22 @@
         -o-border-radius: 12px !important;
         border-radius: 12px !important;
         border: 0px;
-        width: 100%;
     }
 
-    /*fixit text box for each section*/
+    /*help-us text box for each section*/
 
-    .fixit-logo {
+    .help-us-logo {
         background: transparent url(https://s3.amazonaws.com/americanarchive.org/org-logos/fixit_logo_lg.png) no-repeat 0 0;
-        display:inline-block;
         float: none;
-        width: 347px;
-        height: 75px;
+        width: 80%;
+        height: 50px;
         background-size: 100% auto;
-        margin: 0 0 4em 0;
+        margin: 2em auto 1em auto;
         padding: 10px;
         text-indent:-9999em;
     }
 
-    .fixit-text {
+    .help-us-text {
         background-color:transparent;
         border:0;
         -webkit-box-shadow: none;
@@ -267,9 +267,8 @@
         }
     }
 
-    .fixit-promo {
-        background-color: #000;
-        display:inline-block;
+    .help-us-promo {
+        background-color: #097675;
         /* reset the text-align */
         text-align:center;
         /* inline-block space fix */
@@ -278,33 +277,51 @@
         -o-border-radius: 12px !important;
         border-radius: 12px !important;
         margin: 2em 0;
-        width: 32%;
+        padding: 5px;
         h3 {
             font-family: "Open Sans Condensed", sans-serif;
-            font-size: 24px;
+            font-size: 32px;
             color: #ccc;
             font-weight: bold;
+            margin: 1em auto 1em auto;
+        }
+        img {
+            width: 80%;
+            max-width: 375px;
+            margin: 32px 0 0 0;
         }
     }
 
-    .fixit-row {
+    .help-us-row {
         text-align: center;
         padding: 13px;
     }
 
-    .fixit-first {
-        float: left;
+    @media (max-width: 767px) {
+        .help-us-first {
+            padding: 0;
+        }
+
+        .help-us-second {
+            padding: 0;
+        }
+
+        .help-us-third {
+            padding: 0;
+        }
     }
 
-    .fixit-second {
-        float: none;
+    @media (min-width: 768px) {
+        .help-us-first {
+            padding: 0 10px 0 0;
+        }
+
+        .help-us-third {
+            padding: 0 0 0 10px;
+        }
     }
 
-    .fixit-third {
-        float: right;
-    }
-
-    .fixit-circle {
+    .help-us-circle {
       width: 48px;
       line-height: 48px;
       border-radius: 50% !important;
@@ -382,11 +399,6 @@
         /*Reduce tagline font-size on smaller devices*/
         #welcome h2.tagline {
             font-size: 1.4em;
-        }
-
-        /*Reduce Fix It promo text on smaller devices*/
-        .fixit-promo h3 {
-            font-size: 32px;
         }
 
         /*Set .container width on Homepage Jumbotron*/
