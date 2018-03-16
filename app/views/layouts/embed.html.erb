@@ -2,8 +2,22 @@
 <html>
   <head>
     <title><%= render_page_title %></title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <%= stylesheet_link_tag "application", media: "all" %>
+    <%= javascript_include_tag "application" %>
+    <%= csrf_meta_tags %>
+    <link href="http://vjs.zencdn.net/5.11.7/video-js.css" rel="stylesheet" data-turbolinks-track>
+    <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
+    <!-- video-js support for IE 8 -->
+    <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <!-- Need VideoJS for our player.js file -->
+    <%= javascript_include_tag 'player' %>
   </head>
   <body class="<%= render_body_class %>" style="margin: 0px;">
-    <%= yield %>
+    <div class="embed-row row">
+      <%= yield %>
+    </div>
   </body>
 </html>
+
