@@ -2,7 +2,7 @@
 
 ## Short name
 
-Hoover Institution Library &amp; Archives, Stanford Universityname
+Hoover Institution Library &amp; Archives, Stanford University
 
 ## State
 
