@@ -40,21 +40,30 @@
           end
         end.join().html_safe()
       %>
-        <% if @pbcore.playlist_group %>
-          <div id="playlist" class="row">
-            <div class="col-md-6 col-xs-6 playlist-pull-left">
-              <% if @pbcore.playlist_prev_id %>
-                <a href="/catalog/<%= @pbcore.playlist_prev_id %>" data-no-turbolink='true'>&#x25c0; Part <%= @pbcore.playlist_order - 1 %></a>
-              <% end %>
-            </div>
-            <div class="col-md-6 col-xs-6 playlist-pull-right">
-              <% if @pbcore.playlist_next_id %>
-                <a href="/catalog/<%= @pbcore.playlist_next_id %>" data-no-turbolink='true'>Part <%= @pbcore.playlist_order + 1 %> &#x25b6;</a>
-              <% end %>
-            </div>
-          </div>
-        <% end %>
       </section>
+    </div>
+  <%= render partial: 'transcript' %>
+</div>
+<div class="row">
+  <% if @show_transcript %>
+    <div class="col-sm-12 col-md-6">
+  <% else %>
+    <div class="col-sm-12 col-md-8 col-md-offset-2">
+  <% end %>
+      <% if @pbcore.playlist_group %>
+        <div id="playlist" class="row">
+          <div class="col-md-6 col-xs-6 playlist-pull-left">
+            <% if @pbcore.playlist_prev_id %>
+              <a href="/catalog/<%= @pbcore.playlist_prev_id %>" data-no-turbolink='true'>&#x25c0; Part <%= @pbcore.playlist_order - 1 %></a>
+            <% end %>
+          </div>
+          <div class="col-md-6 col-xs-6 playlist-pull-right">
+            <% if @pbcore.playlist_next_id %>
+              <a href="/catalog/<%= @pbcore.playlist_next_id %>" data-no-turbolink='true'>Part <%= @pbcore.playlist_order + 1 %> &#x25b6;</a>
+            <% end %>
+          </div>
+        </div>
+      <% end %>
       <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
         <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
         <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
@@ -71,5 +80,4 @@
         </a>
       <% end %>
     </div>
-  <%= render partial: 'transcript' %>
 </div>
