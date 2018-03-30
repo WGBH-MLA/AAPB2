@@ -6,7 +6,7 @@ NewsHour Productions
 
 ## State
 
-DC
+District of Columbia
 
 ## City
 
