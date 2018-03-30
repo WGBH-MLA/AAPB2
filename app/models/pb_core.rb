@@ -199,13 +199,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
-  def transcript_ready?
-    return true if transcript_status == PBCore::ORR_TRANSCRIPT || transcript_status == PBCore::ON_LOCATION_TRANSCRIPT
-    false
-  end
   def transcript_content
-    return TranscriptFile.new(id).json if transcript_ready? && TranscriptFile.json_file_present?(id)
-    return TranscriptFile.new(id).text if transcript_ready? && TranscriptFile.text_file_present?(id)
+    return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
+    return TranscriptFile.new(id).text if TranscriptFile.text_file_present?(id)
     return CaptionFile.new(id).json if CaptionFile.file_present?(id)
     nil
   end
