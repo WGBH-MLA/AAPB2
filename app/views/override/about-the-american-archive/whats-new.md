@@ -4,6 +4,10 @@
 
 Read about about AAPB's new collections, exhibits and projects below. Information about upcoming AAPB events can be found on the [Events](/about-the-american-archive/whats-new/events) page, and information about upcoming grant deadlines can be found on the [Funding Opportunities](/about-the-american-archive/whats-new/funding-opportunities) page.
 
+## November 2017
+### New Col
+![Eyes on the Prize](https://s3.amazonaws.com/americanarchive.org/exhibits/historicpreservation.jpeg "Historic Preservation")
+
 ## October 2017
 
 
