@@ -1,4 +1,4 @@
-# Eyes on the Prize Interviews
+# Feminist Community Radio at KOPN
 
 ## Thumbnail
 
