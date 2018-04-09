@@ -1,33 +1,34 @@
-# Eyes on the Prize Interviews
+# WUNC-North Carolina Public Radio 
 
 ## Thumbnail
 
-![Eyes on the Prize](https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg "Eyes on the Prize Interviews")
+![WUNC_North Carolina Public Radio](https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg "WUNC-North Carolina Public Radio")
 
 ## Summary
 
-The <em>Eyes on the Prize I</em> Interviews Collection consists of 127 raw interviews conducted with participants in the American Civil Rights movement, covering the years from the mid-1950s through to 1965. The interviews were recorded by Henry Hampton and the Blackside production company as part of the acclaimed documentary series <em>Eyes on the Prize: America’s Civil Rights Years, 1954-1965</em>. The series originally aired on PBS in 1987, and was followed by a second series in 1990, <em>Eyes on the Prize: II: America at the Racial Crossroads 1965-1985</em>. The series garnered several Emmy awards, a Peabody, and an Academy Award nomination, and is considered the definitive documentary on the Civil Rights Movement. The recordings include cuts, incidental conversation, production notes, and segments with sound but not film; some interviews are sound only. The questions asked of interviewees are usually audible, and interviews range in length from ten minutes to two hours. The interviews were reconstructed and digitized from the original film materials by the Film & Media Archive at Washington University.
+The <em> WUNC-North Carolina Public Radio </em> Collection consists of a variety of series and special programs that highlight North Carolina and its people. Shows and programs include The Linda Belans Show, the State of Things, North Carolina Voices, Gary Shivers on Jazz, and news clips. This collection also contains special interviews and recordings that highlight specific events or people of North Carolina, availible no where else. The Linda Belans show was a weekly talk show hosted by Linda Belans that premiered in 1996 and focused on issues, ideas and people that affect North Carolina. This show grew into WUNC's staple show, The State of Things, that continues till this day. It is a weekly live talk show that brings the issues, personalities and places of North Carolina to its listeners. North Carolina Voices was a special program that tackled specific North Carolina issues in depth. Topcis represented in this collection include the civil war and poverty. Gary Shivers on Jazz was a weekly program from the 1970s and 80s that showcased and commented on jazz music, hosted by jazz scholar Gary Shivers. Other highlights of the collection include a speech by Carl Kassel, the dedication of WUNC's building and short stories by Lee Smith and Haven Kimmel.
 
 ## Background
 
-Founded in 1968 by filmmaker Henry Hampton (1940-1998), Blackside, Inc. has produced more than sixty major film and media public television projects with a focus on social justice. In addition to <em>Eyes on the Prize</em>, other award-winning productions from Hampton and Blackside include <em>The Great Depression</em>, <em>Malcolm X: Make It Plain</em>, <em>America’s War on Poverty</em>, <em>This Far by Faith</em>, and <em>I’ll Make Me a World</em>. Over the course of his career, Hampton was the recipient of over ten honorary degrees and several lifetime achievement awards. His papers and film archive are held by the Washington University Film and Media Archive in St. Louis, Missouri.
+WUNC aired in its current instance starting in 1976 and is associated with the University of North Carolina at Chapel Hill and National Public Radio.
+This collection was digitized through the American Archvie of Public Broadcasting Preservation Fellowship. 
 
 ## Featured
 
-[![John Lewis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-8k74t6fv60.jpg)](/catalog/cpb-aacip_151-8k74t6fv60)
-[![Coretta Scott King](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-542j679j5g.jpg)](/catalog/cpb-aacip_151-542j679j5g)
-[![Rosa Parks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-610vq2sx12.jpg)](/catalog/cpb-aacip_151-610vq2sx12)
-[![Stokely Carmichael](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-7659c6sr1g.jpg)](/catalog/cpb-aacip_151-7659c6sr1g)
-[![Melba Beals](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-z02z31p977.jpg)](/catalog/cpb-aacip_151-z02z31p977)
-[![Bayard Rustin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-rr1pg1jj76.jpg)](/catalog/cpb-aacip_151-rr1pg1jj76)
+[![Ray Bradbury](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip/515-fx73t9f485.jpg)](/catalog/cpb-aacip/515-fx73t9f485)
+[![Lee Smith](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip/515-td9n29q721.jpg)](/catalog/cpb-aacip/515-td9n29q721)
+[![The North Carolina Fund](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip/515-833mw29619.jpg)](/catalog/cpb-aacip/515-833mw29619)
+[![Public Funding in the Arts](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip/515-gt5fb4xh4w.jpg)](/catalog/cpb-aacip/515-gt5fb4xh4w)
+[![The Avett Brothers](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip/515-sn00z7208b.jpg)](/catalog/cpb-aacip/515-sn00z7208b)
+[![Carl Kassel](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip/515-862b854b5z.jpg)](/catalog/cpb-aacip/515-862b854b5z)
 
 ## Resources
 
-- [Eyes on the Prize at Washington University Digital Gateway](http://digital.wustl.edu/eyesontheprize/)
-- [Eyes on the Prize at World Channel](http://worldchannel.org/programs/eyes-on-the-prize/)
-- ['Eyes On The Prize' Producer On Making A Civil Rights Documentary Before Its Time, by Lakshmi Singh at NPR](http://www.npr.org/2017/03/12/519925253/eyes-on-the-prize-producer-on-making-a-civil-rights-documentary-before-its-time)
-- [Civil Rights Digital Library at University of Georgia](http://crdl.usg.edu/?Welcome)
-- [AAPB Exhibit: Voices from the Southern Civil Rights Movement](http://americanarchive.org/exhibits/civil-rights)
+- [WUNC Website](http://wunc.org/)
+- [WUNC on Facebook](https://www.facebook.com/915wunc)
+- [WUNC on Twitter](https://twitter.com/wunc)
+- [National Public Radio](https://www.npr.org/)
+- [AAPBF](https://pbpf.americanarchive.org/)
 
 ## Funders
 
