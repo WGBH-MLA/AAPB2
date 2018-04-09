@@ -10,7 +10,7 @@ The <em> WUNC-North Carolina Public Radio </em> Collection consists of a variety
 
 ## Background
 
-WUNC aired in its current instance starting in 1976 and is associated with the University of North Carolina at Chapel Hill and National Public Radio. WUNC broadcasts to teh Research Triangle and Eastern North Carolina but is also availible for online streaming. It hosts local news and music programs as well as programs from NPR, American Public Media, Public Radio International and BBC. This collection was digitized through the American Archvie of Public Broadcasting Preservation Fellowship. 
+WUNC aired in its current instance starting in 1976 and is associated with the University of North Carolina at Chapel Hill and National Public Radio. WUNC broadcasts to teh Research Triangle and Eastern North Carolina but is also availible for online streaming. It hosts local news and music programs as well as programs from NPR, American Public Media, Public Radio International and BBC. This collection contains only a sample of shows and recordings produced by WUNC. This collection was digitized through the American Archvie of Public Broadcasting Preservation Fellowship. 
 
 ## Featured
 
