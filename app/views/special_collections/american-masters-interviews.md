@@ -11,7 +11,7 @@ The *American Masters* Interviews Collection consists of 2,191 digital files o
 
 ## Background
 
-*American Masters*, an award-winning biography series nationally broadcast by PBS, is produced by THIRTEEN Productions LLC for WNET in New York City. *American Masters* debuted in 1986 and has produced more than 200 episodes, presented over 30+ seasons. WNET is New York’s flagship PBS station and parent company of THIRTEEN and WLIW21, New York’s public television stations. WNET also operates NJTV, the statewide public media network in New Jersey. Through its broadcast channels, three cable services (THIRTEEN PBSKids, Create and World) and online streaming sites, WNET brings quality arts, education and public affairs programming to more than five million viewers each week. WNET is one of the oldest public broadcasting stations in the nation. It began broadcasting and producing educational content in 1962 as WNDT. 
+*American Masters*, an award-winning biography series nationally broadcast by PBS, is produced by THIRTEEN Productions LLC for WNET in New York City. *American Masters* debuted in 1986 and has produced more than 200 episodes, presented over 30+ seasons. WNET is New York’s flagship PBS station and parent company of THIRTEEN and WLIW21, New York’s public television stations. WNET also operates NJTV, the statewide public media network in New Jersey. Through its broadcast channels, three cable services (THIRTEEN PBSKids, Create and World) and online streaming sites, WNET brings quality arts, education and public affairs programming to more than five million viewers each week. WNET is one of the oldest public broadcasting stations in the nation. It began broadcasting and producing educational content in 1962 as WNDT.
 
 
 ## Featured
