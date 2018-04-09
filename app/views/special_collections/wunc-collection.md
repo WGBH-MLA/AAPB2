@@ -6,7 +6,7 @@
 
 ## Summary
 
-The <em> WUNC-North Carolina Public Radio </em> Collection consists of a variety of series and special programs that highlight North Carolina and its people. Shows and programs include The Linda Belans Show, the State of Things, North Carolina Voices, Gary Shivers on Jazz, and news clips. This collection also contains special interviews and recordings that highlight specific events or people of North Carolina, availible no where else. The Linda Belans show was a weekly talk show hosted by Linda Belans that premiered in 1996 and focused on issues, ideas and people that affect North Carolina. This show grew into WUNC's staple show, The State of Things, that continues till this day. It is a weekly live talk show that brings the issues, personalities and places of North Carolina to its listeners. North Carolina Voices was a special program that tackled specific North Carolina issues in depth. Topcis represented in this collection include the civil war and poverty. Gary Shivers on Jazz was a weekly program from the 1970s and 80s that showcased and commented on jazz music, hosted by jazz scholar Gary Shivers. Other highlights of the collection include a speech by Carl Kassel, the dedication of WUNC's building and short stories by Lee Smith and Haven Kimmel.
+The <em> WUNC-North Carolina Public Radio </em> Collection consists of a variety of series and special programs that highlight North Carolina and its people. Shows and programs include The Linda Belans Show, the State of Things, North Carolina Voices, Gary Shivers on Jazz, and news clips. This collection also contains special interviews and recordings that highlight specific events or people of North Carolina, availible no where else. The Linda Belans show was a weekly talk show hosted by Linda Belans that premiered in 1996 and focused on issues, ideas and people that affect North Carolina. This show grew into WUNC's staple show, The State of Things, that continues till this day. It is a weekly live talk show that brings the issues, personalities and places of North Carolina to its listeners. North Carolina Voices was a special program that tackled specific North Carolina issues in depth. Topics represented in this collection include the civil war and poverty. Gary Shivers on Jazz was a weekly program from the 1970s and 80s that showcased and commented on jazz music, hosted by jazz scholar Gary Shivers. This collection highlights all of these shows and more. Other highlights of the collection include a speech by Carl Kassel, the dedication of WUNC's building and short stories by Lee Smith and Haven Kimmel. 
 
 ## Background
 
@@ -34,7 +34,7 @@ This collection was digitized through the American Archvie of Public Broadcastin
 
 ## Help
 
-Records are described at an item level, and all records contain a brief summary of recordings. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
+Records are described at an item level, and all records contain a brief summary of asset. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
 
 ## Terms
 
