@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![WUNC_North Carolina Public Radio](https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg "WUNC-North Carolina Public Radio")
+![WUNC_North Carolina Public Radio](https://s3.amazonaws.com/americanarchive.org/special-collections/wunc-facebook.jpg "WUNC-North Carolina Public Radio")
 
 ## Summary
 
@@ -10,7 +10,7 @@ The <em> WUNC-North Carolina Public Radio </em> Collection consists of a variety
 
 ## Background
 
-WUNC aired in its current instance starting in 1976 and is associated with the University of North Carolina at Chapel Hill and National Public Radio.
+WUNC aired in its current instance starting in 1976 and is associated with the University of North Carolina at Chapel Hill and National Public Radio. 
 This collection was digitized through the American Archvie of Public Broadcasting Preservation Fellowship. 
 
 ## Featured
@@ -34,7 +34,7 @@ This collection was digitized through the American Archvie of Public Broadcastin
 
 ## Help
 
-Records are described at an item level, and all records contain brief descriptions of topics discussed during the interview. Complete text transcripts exist for all of the interviews, available to view alongside the media record. Users may navigate from the transcript to the corresponding section in the media record by clicking on the small purple ‘play’ buttons that appear on the left side of the text. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
+Records are described at an item level, and all records contain a brief summary of recordings. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
 
 ## Terms
 
