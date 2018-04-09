@@ -30,8 +30,6 @@ This collection was digitized through the American Archvie of Public Broadcastin
 - [National Public Radio](https://www.npr.org/)
 - [AAPBF](https://pbpf.americanarchive.org/)
 
-## Funders
-
 ## Help
 
 Records are described at an item level, and all records contain a brief summary of asset. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
