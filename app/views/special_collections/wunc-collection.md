@@ -31,7 +31,8 @@ WUNC aired in its current instance starting in 1976 and is associated with the U
 
 ## Help
 
-Records are described at an item level, and all records contain a brief summary of asset. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
+Records are described at an item level, and all records contain a brief summary of asset. Each record is identified by corresponding series and episode title. Many recordings contain keywords discussed during the recording.  To identify persons or topics of interest within the collection, users can search by name or by possible keywords. 
+
 
 ## Terms
 
