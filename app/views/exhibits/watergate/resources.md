@@ -104,7 +104,7 @@ Witherspoon, John, and Roselle Kovitz. *The History of Public Broadcasting*. Was
 
 
 ### Journal Articles
-Aufderheide, Patricia. "Public Television and the Public Sphere." *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 168-83. http://web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?sid=bba7cf64-61d9-4d04-bdf8-67137a7f0851%40sessionmgr102&vid=2&hid=129.
+Aufderheide, Patricia. "Public Television and the Public Sphere." *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 168-83. https://www.tandfonline.com/doi/abs/10.1080/15295039109366789.
 
 Avery, Robert K. "PBS's Station Program Cooperative: A Political Experiment." Paper presented at the annual meeting of the International Communication Association, Chicago, IL, April 1975. http://files.eric.ed.gov/fulltext/ED111037.pdf.
 
