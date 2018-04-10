@@ -265,7 +265,7 @@
 - state: Wyoming
   abbreviation: WY
 
-- state: DC
+- state: District of Columbia
   blurb_fill:
     naeb_station: Georgetown Forum
   blurb_md: *naeb_blurb
@@ -273,6 +273,3 @@
 
 - state: Guam
   abbreviation: GU
-
-- state: Washington, DC
-  abbreviation: DC

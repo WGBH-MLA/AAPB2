@@ -12,7 +12,7 @@ The National Association of Educational Broadcasters (NAEB) Collection consists 
 
 The NAEB was established in 1934 from a precursor organization, the Association of College and University Broadcasting Stations, that formed in 1925. The mission of the NAEB was to use communications technology for education and social purposes. It was an extremely successful and effective trade organization that, throughout its 60 years of existence, ushered in or helped to enable major changes in early educational broadcasting policy. In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where programs produced by university radio stations across the country were copied and distributed to member stations, an early networking scheme that influenced the history of later public radio and television systems. The forerunner of CPB and its arms, NPR and PBS, the NAEB served as the primary organizer, developer, and distributor for noncommercial broadcast production and analysis between 1925 and 1981.
 
-The NAEB Collection was contributed to the AAPB by the University of Maryland’s National Public Broadcasting Archives. The paper records of the NAEB are housed at University of Maryland and additional related materals are located at the Wisconsin Historical Society.
+The NAEB Collection was contributed to the AAPB by the University of Maryland’s National Public Broadcasting Archives. The paper records of the NAEB are housed at University of Maryland and additional related materials are located at the Wisconsin Historical Society.
 
 *Special thanks to Stephanie Sapienza for her contributions to the curation of this collection.*
 
