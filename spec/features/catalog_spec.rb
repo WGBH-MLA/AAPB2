@@ -269,7 +269,7 @@ describe 'Catalog' do
 
         describe 'field sorting' do
           assertions = [
-            ['year+desc', 'Making It Here; 105; Sweets'],
+            ['year+desc', 'Writers Forum; WRF-09/13/07'],
             ['year+asc', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
@@ -341,7 +341,7 @@ describe 'Catalog' do
                 ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
                 ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
                 ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC', 'Media Type: Sound', 'Access: '],
-                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
                 ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio']
               ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml
