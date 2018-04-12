@@ -10,7 +10,6 @@
   <pbcoreDescription descriptionType="Raw Footage Description">This is raw footage of an interview that Ken Burns conducted with Daisy Turner, the daughter of a man who had been a slave. The interview takes place in Springfield, VT on May 21, 1987.
 
 Throughout the interview, Turner explains that she believes the Civil War necessarily had to take place in order for slaves to secure their freedom. Daisy recounts her family history as well, relating several times to family stories that have a connection with the events of the Civil War. Notably, she is able to recite from memory several poems and hymns, such as the anonymous poem ?Dear Madam.?</pbcoreDescription>
-  <pbcoreDescription descriptionType="Anecdotal Comments &amp;amp; Reflections">Editor's note: Content given off the record was edited out of this footage.</pbcoreDescription>
   <pbcoreGenre source="AAPB Topical Genre">History</pbcoreGenre>
   <pbcoreGenre source="AAPB Topical Genre">War and Conflict</pbcoreGenre>
   <pbcoreGenre source="AAPB Format Genre">Interview</pbcoreGenre>
@@ -32,6 +31,9 @@ Throughout the interview, Turner explains that she believes the Civil War necess
   </pbcorePublisher>
   <pbcoreRightsSummary>
     <rightsSummary>Copyright 1989, Kenneth Lauren Burns All Rights Reserved</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>Content given off the record was edited out of this footage.</rightsSummary>
   </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source="AAPB Inventory ID">Daisy_Turner_master</instantiationIdentifier>

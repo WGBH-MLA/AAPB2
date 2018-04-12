@@ -29,6 +29,9 @@
   <pbcoreRightsSummary>
     <rightsSummary>Copy Left: All rights reversed.</rightsSummary>
   </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>Copy Right: Reverse all rights.</rightsSummary>
+  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='foo'>ABC</instantiationIdentifier>
     <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>
