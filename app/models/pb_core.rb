@@ -53,8 +53,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
       PBCoreInstantiation.new(rexml)
     end
   end
-  def rights_summary
-    @rights_summary ||= xpath('/*/pbcoreRightsSummary/rightsSummary')
+  def rights_summaries
+    @rights_summaries ||= xpaths('/*/pbcoreRightsSummary/rightsSummary')
   rescue NoMatchError
     nil
   end

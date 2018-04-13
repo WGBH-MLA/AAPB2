@@ -184,9 +184,12 @@
       </dl>
     <% end %>
 
-    <% if @pbcore.rights_summary %>
+    <% unless @pbcore.rights_summaries.nil? || @pbcore.rights_summaries.empty?  %>
       <dl>
-        <dt>Rights</dt><dd><%= @pbcore.rights_summary %></dd>
+        <dt>Rights</dt>
+        <% @pbcore.rights_summaries.each do |right| %>
+          <dd><%= right %></dd>
+        <% end %>
       </dl>
     <% end %>
 

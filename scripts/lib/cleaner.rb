@@ -189,7 +189,7 @@ class Cleaner # rubocop:disable Metrics/ClassLength
     # duplicate value removal
 
     seen_values = Set.new
-    ['/pbcoreTitle', '/pbcoreDescription', '/pbcoreRightsSummary/rightsSummary'].each do |xpath|
+    ['/pbcoreTitle', '/pbcoreDescription'].each do |xpath|
       match(doc, xpath) do |node|
         # This is really just to keep us from deleting the last description
         next if REXML::XPath.match(doc, '/pbcoreDescriptionDocument' + xpath).size == 1
