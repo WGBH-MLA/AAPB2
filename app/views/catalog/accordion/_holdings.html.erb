@@ -1,0 +1,8 @@
+<% @pbcore.instantiations.each do |instantiation| %>
+  <dd>
+    <strong><%= instantiation.organization %></strong><br>
+    <% instantiation.display_text_fields.each do |field, text| %>
+      <%= field.to_s.capitalize %>: <%= text %><br>
+    <% end %>
+  </dd>
+<% end %>

@@ -188,7 +188,6 @@ class CatalogController < ApplicationController
 
         if can? :play, @pbcore
           if @pbcore.transcript_status == PBCore::ORR_TRANSCRIPT || @pbcore.transcript_status == PBCore::ON_LOCATION_TRANSCRIPT
-
             @transcript_html = TranscriptFile.new(params['id']).html
             @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
             @show_transcript = true

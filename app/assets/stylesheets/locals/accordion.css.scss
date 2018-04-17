@@ -1,0 +1,38 @@
+/* --------------------- */
+/* - CATALOG ACCORDION - */
+/* --------------------- */
+
+.panel {
+  margin-bottom: 10px;
+  padding: 0;
+  text-align: left;
+  .panel-heading {
+    background: #d2d5e2;
+    border: none;
+    display: block;
+    overflow: auto;
+    padding: 5px 0;
+    dt {
+      color: #282b72;
+      margin: 0;
+      font-size: 16px;
+      width: 100%;
+      .glyphicon {
+        margin: 0 15px;
+        height: 5px;
+        width: 10px;
+      }
+    }
+  }
+  .panel-body {
+    padding: 21px 0 25px 0;
+    dl {
+      padding: 18px 0 18px 15px;
+      margin: 0;
+    }
+  }
+}
+
+.transcript-panel {
+  margin: 0;
+}

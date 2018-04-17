@@ -45,11 +45,11 @@ describe TranscriptFile do
 
   describe '#html' do
     it 'returns HTML transcript created from JSON file' do
-      expect(Nokogiri::XML(json_transcript.html).errors.empty?).to eq(true)
+      expect(Nokogiri::HTML(json_transcript.html).errors.empty?).to eq(true)
     end
 
     it 'returns HTML transcript created from text file' do
-      expect(Nokogiri::XML(text_transcript.html).errors.empty?).to eq(true)
+      expect(Nokogiri::HTML(text_transcript.html).errors.empty?).to eq(true)
     end
 
     it 'returns HTML with expected classes from JSON file' do
