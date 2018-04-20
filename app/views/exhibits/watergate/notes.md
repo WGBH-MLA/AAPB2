@@ -14,7 +14,7 @@
 
 <a name="4"></a><sup>4</sup> Ibid., 763.
 
-<a name="5"></a><sup>5</sup> Ibid., 773. In his televised *Essay on Watergate*, Bill Moyers said, “I spent four and a half years in the White House and can testify as to how tempting it is to put the President's interests above all others. You begin to confuse the office with the man and the man with the country. Life inside those iron gates takes on an existential quality. ‘I think with the president's mind; therefore I am.’” 
+<a name="5"></a><sup>5</sup> Ibid., 773. In his televised *Essay on Watergate*, Bill Moyers said, “I spent four and a half years in the White House and can testify as to how tempting it is to put the President's interests above all others. You begin to confuse the office with the man and the man with the country. Life inside those iron gates takes on an existential quality. ‘I think with the president's mind; therefore I am.’”
 
 <a name="6"></a><sup>6</sup> Carl Bernstein and Bob Woodward, *All the President's Men* (New York: Simon & Schuster Paperbacks, 2006).
 
@@ -28,7 +28,7 @@
 
 <a name="11"></a><sup>11</sup> U.S. Senate, "Select Committee on Presidential Campaign Activities," accessed July 17, 2017, https://www.senate.gov/artandhistory/history/common/investigations/Watergate.htm.
 
-<a name="12"></a><sup>12</sup> Dash later mused on why McCord decided to break his silence. He said that McCord couldn’t stomach the notion of going down in history as a common criminal. He had acted out of a sense of loyalty to an Administration that had broken his trust by refusing to stand by him. He also had great loyalty to the CIA and resented that it had been dragged into the affair. See *Summer of Judgment – The Watergate Hearings*, WETA, produced by Ricki Green, directed by Mary Frances Sirianne, first broadcast July 27, 1983, http://americanarchive.org/catalog/cpb-aacip_512-mc8rb6ww1z; http://americanarchive.org/catalog/cpb-aacip_512-gm81j9840b. 
+<a name="12"></a><sup>12</sup> Dash later mused on why McCord decided to break his silence. He said that McCord couldn’t stomach the notion of going down in history as a common criminal. He had acted out of a sense of loyalty to an Administration that had broken his trust by refusing to stand by him. He also had great loyalty to the CIA and resented that it had been dragged into the affair. See *Summer of Judgment – The Watergate Hearings*, WETA, produced by Ricki Green, directed by Mary Frances Sirianne, first broadcast July 27, 1983, http://americanarchive.org/catalog/cpb-aacip_512-mc8rb6ww1z; http://americanarchive.org/catalog/cpb-aacip_512-gm81j9840b.
 
 <a name="13"></a><sup>13</sup> Liebovich, *Richard Nixon*, 76.
 
@@ -89,7 +89,7 @@
 
 <a name="40"></a><sup>10</sup> Nina McCain, “Pubic Television in the U.S.: A Fuzzy Picture,” *Boston Globe*, June 10, 1973, https://search.proquest.com/docview/612870335?accountid=12084.
 
-<a name="41"></a><sup>11</sup> Stone, *Nixon and Public Television*, 10; Patricia Aufderheide, “Public Television and the Public Sphere,” *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 173, http://web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?sid=bba7cf64-61d9-4d04-bdf8-67137a7f0851%40sessionmgr102&vid=2&hid=129.
+<a name="41"></a><sup>11</sup> Stone, *Nixon and Public Television*, 10; Patricia Aufderheide, “Public Television and the Public Sphere,” *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 173, https://www.tandfonline.com/doi/abs/10.1080/15295039109366789.
 
 <a name="42"></a><sup>12</sup> Day, *Vanishing Vision*, 213.
 
@@ -197,7 +197,7 @@
 
 <a name="94"></a><sup>64</sup> James Day found this logic particularly infuriating. In *Vanishing Vision*, he wrote, “When Nixon charged PBS with becoming the 'center of power and the focal point of control,' as he did in his veto message, he effectively defined 'centralization' as control of programming by 150 independent local stations. In this Alice in Wonderland world, 'decentralization' came to mean the monolithic control of programming by the Corporation and its White House minions. But inconsistency was no problem for Tom Whitehead; he brushed it aside explaining that 'you have to take power in order to disperse it.' His logic would have delighted the Red Queen. However, Henry Greenburg, his own general counsel, warned the OTP head that the inconsistency was so apparent 'our motives become suspect and the continued restatement of the localism goal is discounted as simply not being credible.'” Day, *Vanishing Vision*, 235.
 
-<a name="95"></a><sup>65</sup> Bill Moyers, “Public TV.” 
+<a name="95"></a><sup>65</sup> Bill Moyers, “Public TV.”
 
 <a name="96"></a><sup>66</sup> Memorandum from Goldberg to Whitehead, April 20, 1973, in *Nixon Papers*, NAEB, 102.
 
@@ -235,7 +235,7 @@
 
 <a name="113"></a><sup>83</sup> “Watergate Hearing Meeting 19 April 73” and “Watergate Meeting—24 April 73” Notes, Series 2:2, Box 6, Jim Karayn Papers. Karayn wrote in his notes on April 19, the “Bulk of information can’t be gathered by NPACT research staff and correspondents” due to funding limitations.
 
-<a name="114"></a><sup>84</sup> “WNET To Add Live Watergate-Hearing Coverage,” *New York Times*, May 11, 1973, https://search.proquest.com/docview/119901815?accountid=12084. 
+<a name="114"></a><sup>84</sup> “WNET To Add Live Watergate-Hearing Coverage,” *New York Times*, May 11, 1973, https://search.proquest.com/docview/119901815?accountid=12084.
 
 <a name="115"></a><sup>85</sup> David J. LeRoy and Florida State Univ., Tallahassee. Communication Research Center, *Public Television Viewer and Watergate Hearings*, comp. Corporation for Public Broadcasting, Washington, DC (Tallahassee, FL, 1974), 4, http://files.eric.ed.gov/fulltext/ED101705 (Search for "ED101705" in the search box).
 
@@ -356,7 +356,7 @@
 
 <a name="169"></a><sup>139</sup> Engelman, *Public Radio and Television*, 173.
 
-<a name="170"></a><sup>140</sup> One policy blamed for the prevalence of bland programming was the Station Program Cooperative (SPC) born in April, 1974. The SPC put more power in the hands of local stations, who voted for the national programs that CPB would fund from budget grants. It was created to combat three problems, according to media historian Robert K. Avery: “1. an increasing scarcity of funds for national programming; 2. a need for long-range financing for public broadcasting; and 3. political opposition to a centrally administered public television system.” Robert K. Avery, "PBS's Station Program Cooperative: A Political Experiment." (paper presented at the annual meeting of the International Communication Association, Chicago, IL, April 1975), 1, http://files.eric.ed.gov/fulltext/ED111037.pdf. The advent of the SPC resulted in less daring and more timid programming. That public television produces bland content is a persistent gripe of those on all points of the political compass. Some examples include: Engelman, *Public Radio and Television*, 172-87; Stuart Alan Shorenstein, “Does Public Television Have a Future?,” *Wilson Quarterly* 5, no. 1 (Winter 1981): 66-71, http://www.jstor.org/stable/40256043; Patricia Aufderheide, “Public Television and the Public Sphere,” *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 171-75, http://web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?sid=bba7cf64-61d9-4d04-bdf8-67137a7f0851%40sessionmgr102&vid=2&hid=129; Laurie Ouellette, *Viewers like You?: How Public TV Failed the People* (New York, NY: Columbia University Press, 2002); Jarvik, *PBS, Behind the Screen*.
+<a name="170"></a><sup>140</sup> One policy blamed for the prevalence of bland programming was the Station Program Cooperative (SPC) born in April, 1974. The SPC put more power in the hands of local stations, who voted for the national programs that CPB would fund from budget grants. It was created to combat three problems, according to media historian Robert K. Avery: “1. an increasing scarcity of funds for national programming; 2. a need for long-range financing for public broadcasting; and 3. political opposition to a centrally administered public television system.” Robert K. Avery, "PBS's Station Program Cooperative: A Political Experiment." (paper presented at the annual meeting of the International Communication Association, Chicago, IL, April 1975), 1, http://files.eric.ed.gov/fulltext/ED111037.pdf. The advent of the SPC resulted in less daring and more timid programming. That public television produces bland content is a persistent gripe of those on all points of the political compass. Some examples include: Engelman, *Public Radio and Television*, 172-87; Stuart Alan Shorenstein, “Does Public Television Have a Future?,” *Wilson Quarterly* 5, no. 1 (Winter 1981): 66-71, http://www.jstor.org/stable/40256043; Patricia Aufderheide, “Public Television and the Public Sphere,” *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 171-75, https://www.tandfonline.com/doi/abs/10.1080/15295039109366789; Laurie Ouellette, *Viewers like You?: How Public TV Failed the People* (New York, NY: Columbia University Press, 2002); Jarvik, *PBS, Behind the Screen*.
 
 <a name="171"></a><sup>141</sup> Jarvik, *PBS, Behind the Screen*, 119.
 
