@@ -6,7 +6,7 @@
 
 ## Summary
 
-The <em> North Carolina Voices </em> series was a number of special programs that focused on specific North Carolina issues in depth. Two of the specific topics are included here, featuring poverty and the Civil War.
+The <em> North Carolina Voices </em> series was a number of special programs that focused on specific North Carolina issues in depth. Two of the specific topics included here are poverty and the Civil War.
 
 <em> North Carolina Voices: Civil War </em> examined how the Civil War affects people in North Carolina  150 years after the start of the war. It looked at the legacy of the war and how it is remembered and how it shapes the identity of Southerners. The series included a series of reports during Morning Edition and a series of discussions on The State of Things. The series aired the weeks of June 13th and June 20th, 2011. Additionally, as part of the series: short “family stories" to placed throughout the program schedule those weeks. Those included personal stories of the war handed down through families or historians answering listener questions.
 
