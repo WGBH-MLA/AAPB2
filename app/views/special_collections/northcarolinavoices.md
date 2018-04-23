@@ -1,4 +1,4 @@
-# WUNC-North Carolina Public Radio 
+# North Carolina Voices 
 
 ## Thumbnail
 
