@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Freedom Riders](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0004_FreedomRiders.jpg "Freedom Riders")
+![Freedom Riders](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0004_Freedom_Riders.jpg "Freedom Riders")
 
 ## Summary
 
