@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![The Murder of Emmett Till](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0007_Emmett_Till.jpg "The Murder of Emmett Till")
+![The Murder of Emmett Till](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0007_EmmettTill.jpg "The Murder of Emmett Till")
 
 ## Summary
 
