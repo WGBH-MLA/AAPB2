@@ -14,12 +14,12 @@ The <em>Jubilee Singers</em> interviews were conducted in 2000 for the <em>Ameri
 
 ## Featured
 
-[![Bobby L. Lovett](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-4b2x34nj31.jpg)](/catalog/cpb-aacip_15-4b2x34nj31)
-[![Toni Anderson](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-930ns0mt5m.jpg)](/catalog/cpb-aacip_15-930ns0mt5m)
-[![Horace Clarence Boyer](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-gm81j98986.jpg)](/catalog/cpb-aacip_15-gm81j98986)
-[![Katherine Preston](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-hm52f7kt8f.jpg)](/catalog/cpb-aacip_15-hm52f7kt8f)
-[![Reavis Mitchell](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-vx05x26m5f.jpg)](/catalog/cpb-aacip_15-vx05x26m5f)
-[![John Hope Franklin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-ws8hd7q018.jpg)](/catalog/cpb-aacip_15-ws8hd7q018)
+[![Bobby L. Lovett](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-4b2x34nj31.mov.jpg)](/catalog/cpb-aacip_15-4b2x34nj31)
+[![Toni Anderson](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-930ns0mt5m.mov.jpg)](/catalog/cpb-aacip_15-930ns0mt5m)
+[![Horace Clarence Boyer](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-gm81j98986.mov.jpg)](/catalog/cpb-aacip_15-gm81j98986)
+[![Katherine Preston](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-hm52f7kt8f.mov.jpg)](/catalog/cpb-aacip_15-hm52f7kt8f)
+[![Reavis Mitchell](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-vx05x26m5f.mov.jpg)](/catalog/cpb-aacip_15-vx05x26m5f)
+[![John Hope Franklin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-ws8hd7q018.mov.jpg)](/catalog/cpb-aacip_15-ws8hd7q018)
 
 ## Resources
 
