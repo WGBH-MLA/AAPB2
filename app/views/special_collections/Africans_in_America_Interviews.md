@@ -15,11 +15,11 @@ The <em>Africans in America</em> interviews were conducted in 1998 for the four-
 ## Featured
 
 [![Catherine Acholonu](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-f76639m612.jpg)](/catalog/cpb-aacip_15-f76639m612)
-[![Colin Powell](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0001_AfricansInAmerica/cpb-aacip_15-qj77s7jx63.jpg)](/catalog/cpb-aacip_15-qj77s7jx63)
-[![Margaret Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-c824b2z52k.jpg)](/catalog/cpb-aacip_15-c824b2z52k)
-[![Douglas Egerton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-d795718p1p.jpg)](/catalog/cpb-aacip_15-d795718p1p)
-[![Karen Hughes White](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-7m03x84j26.jpg)](/catalog/cpb-aacip_15-7m03x84j26)
-[![Jeffrey Leath](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-w950g3j70v.jpg)](/catalog/cpb-aacip_15-w950g3j70v)
+[![Colin Powell](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-qj77s7jx63_1.jpg)](/catalog/cpb-aacip_15-qj77s7jx63)
+[![Margaret Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-c824b2z52k_1.jpg)](/catalog/cpb-aacip_15-c824b2z52k)
+[![Douglas Egerton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-d795718p1p_1.jpg)](/catalog/cpb-aacip_15-d795718p1p)
+[![Karen Hughes White](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-7m03x84j26_1.jpg)](/catalog/cpb-aacip_15-7m03x84j26)
+[![Jeffrey Leath](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-w950g3j70v_1.jpg)](/catalog/cpb-aacip_15-w950g3j70v)
 
 ## Resources
 
