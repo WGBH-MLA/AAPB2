@@ -6,7 +6,7 @@
 
 ## Summary
 
-*The Center for Asian American Media* Collection consists of 23 digital files that contains films that speak to the Asian experience though the lens of history. The collection includes early broadcasts by the ground-break Asian American anthology series *Silk Screen* (1982-1987), which explores identity and treatment of Asian Americans in the San Francisco Bay Area. Although the subjects, history, and geography are diverse, the collection as a whole speaks to the diversity of Asian American life, culture, and experiences; evoking the universal struggle and resilience of the human condition. This collection was digitized as part of the American Archive of Public Broadcasting, Public Broadcasting Preservation Fellowship with a partnership of Bay Area Video Coalition and San Jose State University. 
+*The Center for Asian American Media* CCollection consists of 23 digital files, containing films that speak to the Asian experience though the lens of history. The collection includes early broadcasts by the ground-breaking Asian American anthology series Silk Screen (1982-1987); which explores the subject of identity and treatment of Asian Americans in the San Francisco Bay Area. Although the subjects, history, and geography are diverse, the collection as a whole speaks to the diversity of Asian American life, culture, and experiences; evoking the universal struggle and resilience of the human condition. This collection was digitized as part of the American Archive of Public Broadcasting, Public Broadcasting Preservation Fellowship with a partnership of Bay Area Video Coalition and San Jose State University.
 
 ## Background
 
