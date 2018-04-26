@@ -1,4 +1,4 @@
-# Center for Asian America Media Video Collection
+# Center for Asian America Media Collection
 
 ## Thumbnail
 
