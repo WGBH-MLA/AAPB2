@@ -144,12 +144,22 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def img_width
     @img_width = img_dimensions[0]
   end
-  def organization_pbcore_name
-    @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
+  def organization_names
+    @organization_names ||= xpaths('/*/pbcoreAnnotation[@annotationType="organization"]')
   end
-  def organization
-    @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name) ||
-                      raise("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
+  def organizations_facet
+    @organizations_facet ||= Organization.organizations(organization_names).map(&:facet)
+  end
+  def organization_objects
+    @organization_objects ||= Organization.organizations(organization_names)
+  end
+  def organization_names_display
+    @organization_names_display ||= organization_names.join(', ')
+  end
+  def states
+    @states ||= @organization_objects.map(&:state)
+  rescue NoMatchError
+    nil
   end
   def outside_url
     @outside_url ||= begin
@@ -368,8 +378,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'genres' => genres,
       'topics' => topics,
       'asset_type' => asset_type,
-      'organization' => organization.facet,
-      'state' => organization.state,
+      'organizations' => organizations_facet,
+      'states' => states,
       'access_types' => access_types,
 
       # playlist
@@ -392,14 +402,13 @@ class PBCore # rubocop:disable Metrics/ClassLength
     ignores = [
       :text, :to_solr, :contribs, :img_src, :media_srcs,
       :captions_src, :transcript_src, :rights_code,
-      :access_level, :access_types,
-      :organization_pbcore_name, # internal string; not in UI
-      :title, :ci_ids, :instantiations, :outside_url,
+      :access_level, :access_types, :title, :ci_ids,
+      :instantiations, :outside_url,
       :reference_urls, :exhibits, :special_collection, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
-      :playlist_next_id, :playlist_prev_id, :supplemental_content
+      :playlist_next_id, :playlist_prev_id, :supplemental_content, :organization_names, :organizations_facet, :organization_names_display
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)

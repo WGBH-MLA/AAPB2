@@ -52,11 +52,13 @@
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
       <div style="margin-top: 1em;">
         <% if @pbcore.outside_url %>
-          <%= link_to(
-            "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.organization.short_name}.",
-            @pbcore.outside_url,
-            {target: '_blank'}
-          ) %>
+          <% @pbcore.organization_objects.each do |org| %>
+            <%= link_to(
+              "#{@pbcore.video? ? 'View' : 'Listen'} online at #{org.short_name}.",
+              @pbcore.outside_url,
+              {target: '_blank'}
+            ) %>
+        <% end %>
         <% elsif @pbcore.public? && !current_user.usa? %>
           Please note: This content is currently not available at your location.
         <% elsif @pbcore.protected? %>
@@ -68,8 +70,7 @@
           the Library of Congress. For information about on location research,
           <a href="/on-location">click here</a>.
         <% elsif !@pbcore.digitized? %>
-          Please note: This content has not been digitized. For inquiries regarding access,
-          please contact <%= link_to @pbcore.organization.short_name, @pbcore.organization.url %>.
+          This content has not been digitized. Please contact the contributing organization(s) listed below.
         <% end %>
 
         <% @pbcore.reference_urls.each do |url| %>
@@ -101,8 +102,10 @@
 
     <dl>
       <dt>Contributing Organization</dt>
-      <dd><a href='/participating-orgs/<%= url_encode(@pbcore.organization.id) %>'><%= @pbcore.organization.short_name %></a>
-        (<%= @pbcore.organization.city %>, <%= @pbcore.organization.state %>)</dd>
+      <% @pbcore.organization_objects.each do |org|%>
+        <dd><a href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
+        (<%= org.city %>, <%= org.state %>)</dd>
+      <% end %>
     </dl>
 
     <% @pbcore.ids.each do |type,id| %>
@@ -224,7 +227,7 @@
     <dl>
       <% url = "http://americanarchive.org/catalog/#{@pbcore.id}" %>
       <% today = Date.today.to_formatted_s(:long) %>
-      <% org = @pbcore.organization.short_name_html.gsub(/<[^>]*>/, '').html_safe + ', American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
+      <% org = @pbcore.organization_objects.first.short_name_html.gsub(/<[^>]*>/, '').html_safe + ', American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
       <dt>Citation</dt>
       <dd><em>Chicago</em>:
         &ldquo;<%= @pbcore.title %>,&rdquo;

@@ -51,6 +51,8 @@
   </relatedItem>
   <location>
     <physicalLocation>WGBH</physicalLocation>
+  </location>
+  <location>
     <url access="object in context" usage="primary">http://www.wgbh.org/</url>
     <url access="preview">http://americanarchive.org.s3.amazonaws.com/thumbnail/1234.jpg</url>
   </location>

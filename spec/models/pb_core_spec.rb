@@ -10,6 +10,7 @@ describe 'Validated and plain PBCore' do
   let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
   let(:pbc_supplemental_materials) { File.read('spec/fixtures/pbcore/clean-supplemental-materials.xml') }
   let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
+  let(:pbc_multi_org) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
   let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
   let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
   let(:playlist_3) { File.read('spec/fixtures/pbcore/clean-playlist-3.xml') }
@@ -135,10 +136,10 @@ describe 'Validated and plain PBCore' do
           'genres' => ['Call-in'],
           'topics' => ['Music'],
           'asset_type' => 'Album',
-          'organization' => 'WGBH (MA)',
+          'organizations' => ['WGBH (MA)'],
           'playlist_group' => nil,
           'playlist_order' => 0,
-          'state' => 'Massachusetts',
+          'states' => ['Massachusetts'],
           'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
           # TODO: UI will transform internal representation.
         },
@@ -172,8 +173,6 @@ describe 'Validated and plain PBCore' do
         # rubocop:enable LineLength
         transcript_src: nil,
         transcript_status: nil,
-        organization_pbcore_name: 'WGBH',
-        organization: Organization.find_by_pbcore_name('WGBH'),
         outside_url: 'http://www.wgbh.org/',
         player_aspect_ratio: '4:3',
         player_specs: %w(680 510),
@@ -196,7 +195,12 @@ describe 'Validated and plain PBCore' do
         supplemental_content: [],
         creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
         contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
-        publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
+        publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')],
+        organization_names: ['WGBH'],
+        organizations_facet: ['WGBH (MA)'],
+        organization_names_display: 'WGBH',
+        organization_objects: [Organization.find_by_pbcore_name('WGBH')],
+        states: ['Massachusetts']
       }
 
       pbc = PBCore.new(pbc_xml)
@@ -323,6 +327,28 @@ describe 'Validated and plain PBCore' do
           'playlist_order' => pbc.playlist_order,
           'playlist_next_id' => pbc.playlist_next_id,
           'playlist_prev_id' => pbc.playlist_prev_id
+        }
+
+        expect(expected_attrs).to eq(attrs)
+      end
+    end
+
+    describe 'pbcore object with multiple organizations and states' do
+      it 'returns multiple organizations and states' do
+        pbc = PBCore.new(pbc_multi_org)
+
+        expected_attrs = {
+          'organization_names' => ['Library of Congress', 'KQED'],
+          'organizations_facet' => ['Library of Congress (DC)', 'KQED (CA)'],
+          'organization_objects' => [Organization.find_by_pbcore_name('Library of Congress'), Organization.find_by_pbcore_name('KQED')],
+          'states' => ['District of Columbia', 'California']
+        }
+
+        attrs = {
+          'organization_names' => pbc.organization_names,
+          'organizations_facet' => pbc.organizations_facet,
+          'organization_objects' => pbc.organization_objects,
+          'states' => pbc.states
         }
 
         expect(expected_attrs).to eq(attrs)
