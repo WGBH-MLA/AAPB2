@@ -1,4 +1,4 @@
-# Center for Asian America Media 
+# The Center for Asian American Media 
 
 ## Thumbnail
 
@@ -6,12 +6,17 @@
 
 ## Summary
 
-The *American Masters* Interviews Collection consists of 2,191 digital files of interviews conducted with luminaries discussing America’s most enduring artistic and cultural giants. The interviews were recorded on videotape by THIRTEEN and associated producers between 1993 and 2012 for episodes of the award-winning PBS biography series *American Masters*. An interview may span more than one digital file, or a file may contain multiple interviews. Episode topics focus on a significant artist, work, or organization, and an interview will primarily concern the associated episode’s featured topic. The questions asked of interviewees are usually audible. Recordings typically range between 30 minutes and an hour in length. Researchers can access the full collection only on location at the Library of Congress and WGBH. WNET’s digitization of this collection was supported in part by a grant from the National Endowment for the Arts.
-
+*The Center for Asian American Media* Collection consists of 23 digital files that contains films that speak to the Asian experience though the lens of history. The collection includes early broadcasts by the ground-break Asian American anthology series *Silk Screen* (1982-1987), which explores identity and treatment of Asian Americans in the San Francisco Bay Area. Although the subjects, history, and geography are diverse, the collection as a whole speaks to the diversity of Asian American life, culture, and experiences; evoking the universal struggle and resilience of the human condition. This collection was digitized as part of the American Archive of Public Broadcasting, Public Broadcasting Preservation Fellowship with a partnership of Bay Area Video Coalition and San Jose State University. 
 
 ## Background
 
-*American Masters*, an award-winning biography series nationally broadcast by PBS, is produced by THIRTEEN Productions LLC for WNET in New York City. *American Masters* debuted in 1986 and has produced more than 200 episodes, presented over 30+ seasons. WNET is New York’s flagship PBS station and parent company of THIRTEEN and WLIW21, New York’s public television stations. WNET also operates NJTV, the statewide public media network in New Jersey. Through its broadcast channels, three cable services (THIRTEEN PBSKids, Create and World) and online streaming sites, WNET brings quality arts, education and public affairs programming to more than five million viewers each week. WNET is one of the oldest public broadcasting stations in the nation. It began broadcasting and producing educational content in 1962 as WNDT. 
+*The Center for Asian American Media (CAAM)*, is a nonprofit organization dedicated to
+presenting stories that convey the richness and diversity of Asian American experiences
+to the broadest audience possible. We do this by funding, producing, distributing and
+exhibiting works in film, television and digital media. For 37 years, CAAM has exposed
+audiences to new voices and communities, advancing our collective understanding of
+the American experience through programs specifically designed to engage the Asian
+American community and the public at large. 
 
 
 ## Featured
