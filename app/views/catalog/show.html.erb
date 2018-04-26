@@ -69,8 +69,10 @@
           Please note: This content is only available at
           the Library of Congress. For information about on location research,
           <a href="/on-location">click here</a>.
-        <% elsif !@pbcore.digitized? %>
+        <% elsif !@pbcore.digitized? && !@pbcore.organization_objects.empty? %>
           This content has not been digitized. Please contact the contributing organization(s) listed below.
+        <% elsif !@pbcore.digitized? && @pbcore.organization_objects.empty? %>
+          This content has not been digitized.
         <% end %>
 
         <% @pbcore.reference_urls.each do |url| %>
@@ -100,13 +102,15 @@
       </dl>
     <% end %>
 
-    <dl>
-      <dt>Contributing Organization</dt>
-      <% @pbcore.organization_objects.each do |org|%>
-        <dd><a href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
-        (<%= org.city %>, <%= org.state %>)</dd>
-      <% end %>
-    </dl>
+    <% unless @pbcore.organization_objects.empty? %>
+      <dl>
+        <dt>Contributing Organization</dt>
+        <% @pbcore.organization_objects.each do |org|%>
+          <dd><a href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
+          (<%= org.city %>, <%= org.state %>)</dd>
+        <% end %>
+      </dl>
+    <% end %>
 
     <% @pbcore.ids.each do |type,id| %>
       <dl>
@@ -224,10 +228,12 @@
       </dl>
     <% end %>
 
+
     <dl>
       <% url = "http://americanarchive.org/catalog/#{@pbcore.id}" %>
       <% today = Date.today.to_formatted_s(:long) %>
-      <% org = @pbcore.organization_objects.first.short_name_html.gsub(/<[^>]*>/, '').html_safe + ', American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
+      <% org = ( @pbcore.organization_names_display.first.nil? ? '' : @pbcore.organization_names_display.first + ', ' ) + 'American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
+
       <dt>Citation</dt>
       <dd><em>Chicago</em>:
         &ldquo;<%= @pbcore.title %>,&rdquo;

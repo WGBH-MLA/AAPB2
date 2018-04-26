@@ -198,7 +198,7 @@ describe 'Validated and plain PBCore' do
         publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')],
         organization_names: ['WGBH'],
         organizations_facet: ['WGBH (MA)'],
-        organization_names_display: 'WGBH',
+        organization_names_display: ['WGBH'],
         organization_objects: [Organization.find_by_pbcore_name('WGBH')],
         states: ['Massachusetts']
       }
