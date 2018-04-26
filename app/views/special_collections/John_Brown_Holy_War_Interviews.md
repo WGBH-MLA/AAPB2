@@ -14,12 +14,12 @@ The <em>John Brown's Holy War</em> interviews were conducted in 2000 for the <em
 
 ## Featured
 
-[![Paul Finkelman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-mg7fq9r73r.mov.jpg)](/catalog/cpb-aacip_15-mg7fq9r73r)
-[![James Horton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-cz3222s68b.mov.jpg)](/catalog/cpb-aacip_15-cz3222s68b)
-[![Margaret Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-fx73t9f80s.mov.jpg)](/catalog/cpb-aacip_15-fx73t9f80s)
-[![Russell Banks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-kp7tm7311v.mov.jpg)](/catalog/cpb-aacip_15-kp7tm7311v)
-[![Bruce Olds](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-v69862cj42.mov.jpg)](/catalog/cpb-aacip_15-v69862cj42)
-[![Dennis Frye](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-3n20c4tg2m.mov.jpg)](/catalog/cpb-aacip_15-3n20c4tg2m)
+[![Paul Finkelman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-mg7fq9r73r.jpg)](/catalog/cpb-aacip_15-mg7fq9r73r)
+[![James Horton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-cz3222s68b.jpg)](/catalog/cpb-aacip_15-cz3222s68b)
+[![Margaret Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-fx73t9f80s.jpg)](/catalog/cpb-aacip_15-fx73t9f80s)
+[![Russell Banks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-kp7tm7311v.jpg)](/catalog/cpb-aacip_15-kp7tm7311v)
+[![Bruce Olds](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-v69862cj42.jpg)](/catalog/cpb-aacip_15-v69862cj42)
+[![Dennis Frye](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-3n20c4tg2m.jpg)](/catalog/cpb-aacip_15-3n20c4tg2m)
 
 ## Resources
 
