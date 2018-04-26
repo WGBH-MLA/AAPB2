@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![John Brown's Holy War](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0002_JBHolyWar.jpg "John Brown's Holy War")
+![John Brown's Holy War](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0002_John_Browns_Holy_War.jpg "John Brown's Holy War")
 
 ## Summary
 
