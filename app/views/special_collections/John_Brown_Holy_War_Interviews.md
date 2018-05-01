@@ -23,11 +23,11 @@ The <em>John Brown's Holy War</em> interviews were conducted in 2000 for the <em
 
 ## Resources
 
-- [<em>Africans in America</em> Documentary Website](http://www.pbs.org/wgbh/aia/home.html) 
-- [African American Archive at the National Archives](https://www.archives.gov/research/african-americans)
-- [African American History Digital Collections, Library of Congress](https://www.loc.gov/collections/?fa=subject%3Aafrican+american+history)
-- [Hutchins Center for African & African American Research](http://dubois.fas.harvard.edu/)
-- [African American History, American Memory Project, Library of Congress](https://memory.loc.gov/ammem/browse/ListSome.php?category=African%20American%20History)
+- [John Brown Exhibit, Oberlin College Archives](http://www2.oberlin.edu/archive/exhibits/john_brown_new/intro_bust.html) 
+- [West Virginia Division of Culture and History Exhibit](http://www.wvculture.org/history/jbexhibit/jbintroduction.html)
+- [John Brown/Boyd B. Stutler Collection Database, West Virginia Memory Project](http://www.wvculture.org/history/wvmemory/imlsintro.html)
+- [Black Abolitionist Archive at University of Detroit Mercy](http://libraries.udmercy.edu/archives/special-collections/index.php?collectionCode=baa)
+- [Timeline of the Pre-Civil War period](http://www.digitalhistory.uh.edu/era.cfm?eraID=5&smtID=4)
 
 ## Funders
 
@@ -35,7 +35,7 @@ The <em>John Brown's Holy War</em> interviews were conducted in 2000 for the <em
 
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
 
-Seven of the recordings in the collection are multi-part conversations with a single interviewee.
+Several of the recordings in the collection are multi-part conversations with a single interviewee.
 
 ## Terms
 
