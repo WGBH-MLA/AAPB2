@@ -102,6 +102,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def ci_ids
     @ci_ids ||= xpaths("/*/pbcoreIdentifier[@source='#{SONY_CI}']")
   end
+  def display_ids
+    @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
+  end
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
@@ -402,7 +405,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     ignores = [
       :text, :to_solr, :contribs, :img_src, :media_srcs,
       :captions_src, :transcript_src, :rights_code,
-      :access_level, :access_types, :title, :ci_ids,
+      :access_level, :access_types, :title, :ci_ids, :display_ids,
       :instantiations, :outside_url,
       :reference_urls, :exhibits, :special_collection, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio,

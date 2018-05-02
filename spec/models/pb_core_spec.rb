@@ -161,6 +161,7 @@ describe 'Validated and plain PBCore' do
         topics: ['Music'],
         id: '1234',
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
+        display_ids: [['AAPB ID', '1234']],
         ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],
         media_srcs: ['/media/1234?part=1', '/media/1234?part=2'],
         img_height: 225,

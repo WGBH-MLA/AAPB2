@@ -378,10 +378,16 @@ describe 'Catalog' do
 
     def expect_all_the_text(fixture_name)
       target = PBCore.new(File.read('spec/fixtures/pbcore/' + fixture_name))
+
+      # This text from the PBCore model is included in to_solr for
+      # search purposes, but excluded from view.
+      text_ignores = [target.ids].flatten
+
       # #text is only used for #to_solr, so it's private...
       # so we need the #send to get at it.
       target.send(:text).each do |field|
         field.gsub!('cpb-aacip_', 'cpb-aacip/') if field =~ /^cpb-aacip/ # TODO: Remove when we sort out ID handling.
+        next if text_ignores.include?(field)
         expect(page).to have_text(field)
       end
     end
