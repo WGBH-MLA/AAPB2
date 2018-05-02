@@ -23,11 +23,10 @@ The <em>Reconstruction</em> interviews were conducted in 2000 for the <em>Americ
 
 ## Resources
 
-- [Fisk Jubilee Singers Website](http://fiskjubileesingers.org/)
-- [Jubilee Singers Archives (1858-1924) finding aid, Fisk University (pdf)](https://www.fisk.edu/assets/files/cs/jubilee-singersarchivesoriginal1858-1924.pdf)
-- [Archives of African American Music and Culture, Indiana University](https://aaamc.indiana.edu/)
-- [<em>Tell Them We Are Rising</em> Documentary Website](http://www.hbcurising.com/)
-- [African American History, American Memory Project, Library of Congress](https://memory.loc.gov/ammem/browse/ListSome.php?category=African%20American%20History)
+- [<em>The African American Odyssey: A Quest for Full Citizenship</em>, Exhibit, Library of Congress](https://www.loc.gov/exhibits/african-american-odyssey/reconstruction.html)
+- [<em>From Slavery to Freedom: The African-American Pamphlet Collection 1822-1909</em>, Library of Congress](http://memory.loc.gov/ammem/aapchtml/aapchome.html)
+- [<em>First-Person Narratives of the American South, 1860-1920/em>, University of North Carolina at Chapel Hill](http://docsouth.unc.edu/fpn/)
+- [Reconstruction Timeline](http://www.digitalhistory.uh.edu/exhibits/reconstruction/timeline.html)
 
 ## Funders
 
@@ -35,7 +34,7 @@ The <em>Reconstruction</em> interviews were conducted in 2000 for the <em>Americ
 
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
 
-Recordings in the collection are multi-part conversations with single interviewees.
+Several recordings in the collection are multi-part conversations with single interviewees.
 
 ## Terms
 
