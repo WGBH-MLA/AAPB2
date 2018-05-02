@@ -25,7 +25,7 @@ The <em>Reconstruction</em> interviews were conducted in 2000 for the <em>Americ
 
 - [<em>The African American Odyssey: A Quest for Full Citizenship</em>, Exhibit, Library of Congress](https://www.loc.gov/exhibits/african-american-odyssey/reconstruction.html)
 - [<em>From Slavery to Freedom: The African-American Pamphlet Collection 1822-1909</em>, Library of Congress](http://memory.loc.gov/ammem/aapchtml/aapchome.html)
-- [<em>First-Person Narratives of the American South, 1860-1920/em>, University of North Carolina at Chapel Hill](http://docsouth.unc.edu/fpn/)
+- [<em>First-Person Narratives of the American South, 1860-1920</em>, University of North Carolina at Chapel Hill](http://docsouth.unc.edu/fpn/)
 - [Reconstruction Timeline](http://www.digitalhistory.uh.edu/exhibits/reconstruction/timeline.html)
 
 ## Funders
