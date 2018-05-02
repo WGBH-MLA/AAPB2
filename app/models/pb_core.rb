@@ -148,13 +148,13 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @organization_names ||= xpaths('/*/pbcoreAnnotation[@annotationType="organization"]')
   end
   def organizations_facet
-    @organizations_facet ||= Organization.organizations(organization_names).map(&:facet)
+    @organizations_facet ||= organization_objects.map(&:facet) unless organization_objects.empty?
   end
   def organization_objects
     @organization_objects ||= Organization.organizations(organization_names)
   end
   def organization_names_display
-    @organization_names_display ||= organization_names.join(', ')
+    @organization_names_display ||= Organization.build_organization_names_display(organization_objects)
   end
   def states
     @states ||= @organization_objects.map(&:state)

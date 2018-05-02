@@ -42,10 +42,12 @@
               </dl>
             <% end %>
 
-            <dl class="clearfix">
-              <dt>Organization</dt>
-              <dd><%= pbcore.organization_names_display %></dd>
-            </dl>
+            <% unless pbcore.organization_names_display.empty? %>
+              <dl class="clearfix">
+                <dt>Organization</dt>
+                <dd><%= pbcore.organization_names_display.join(', ') %></dd>
+              </dl>
+            <% end %>
 
             <% if params[:q].present? && pbcore.captions_src != nil %>
               <% CaptionFile.new(pbcore.id).captions_from_query(@query_for_captions).tap do |caption| %>

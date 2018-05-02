@@ -122,7 +122,7 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 8],
           ['organizations', 41, 'WGBH+(MA)', 6], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 37]
+          ['access_types', 3, PBCore::ALL_ACCESS, 38]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -189,7 +189,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(37)
+          expect_count(38)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -252,7 +252,7 @@ describe 'Catalog' do
           # rubocop:disable LineLength
           assertions = [
             ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'The Civil War; Interviews with Barbara Fields']],
-            ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
+            ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
             ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', 'The Civil War; Interviews with Barbara Fields', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
           ]
           # rubocop:enable LineLength
@@ -307,7 +307,7 @@ describe 'Catalog' do
                 end.select { |x| x }.join('; ')
               end.join("\n")).to eq([
                 ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ', 'Media Type: Sound', 'Access: '],
-                ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT-TV (Howard Unive', 'Media Type: other', 'Access: '],
+                ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT', 'Media Type: other', 'Access: '],
                 ['Program: Bob Brozman; Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
                 ['Series: The Civil War; Raw Footage: Interview with Daisy', 'Created: 1987-05-21', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: The Civil War; Raw Footage: Interviews with Barba', 'Created: 1987-01-14', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
@@ -315,34 +315,35 @@ describe 'Catalog' do
                 ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
                 ['Title: Dry Spell', 'Organization: KQED', 'Media Type: Moving Image', 'Access: '],
                 ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS', 'Media Type: Moving Image', 'Access: '],
-                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film & Media Archive,', 'Media Type: Moving Image', 'Access: '],
-                ['Series: Gvsports', 'Organization: WGVU Public TV & Radi', 'Media Type: other', 'Access: '],
+                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv', 'Media Type: Moving Image', 'Access: '],
+                ['Series: Gvsports', 'Organization: WGVU Public TV and Ra', 'Media Type: other', 'Access: '],
                 ['Series: The Lost Year', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
                 ['Series: The MacNeil/Lehrer Ne', 'Date: 1983-10-13', 'Organization: NewsHour Productions', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: Making It Here; Episode Number: 105; Episode: Sweets', 'Date: 2003-01-22', 'Organization: WGBY', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
                 ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
                  'Access: Online Reading Room'],
-                ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc. (WMMT', 'Media Type: Sound', 'Access: Accessible on locatio'],
+                ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
                 ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 1 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 2 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 3 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Origami; Episode Number: 7', 'Episode: Paper Ball', 'Broadcast: 1961-00-00', 'Media Type: other', 'Access: '],
                 ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
                 ['Title: Racing the Rez', 'Organization: Vision Maker Media', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
                 ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH', 'Media Type: Sound', 'Access: '],
                 ['Title: The Scheewe Art Works', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
                 ['Program: The Sorting Test: 1', 'Organization: WUSF', 'Media Type: other', 'Access: '],
                 ['Program: # "SORTING" Test: 2', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
-                ['Program: A Sorting Test: 100', 'Organization: WNYC-FM', 'Media Type: Moving Image', 'Access: '],
+                ['Program: A Sorting Test: 100', 'Organization: WNYC', 'Media Type: Moving Image', 'Access: '],
                 ['Episode: Touchstone 108', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
-                ['Program: Unknown', 'Organization: WIAA-FM', 'Media Type: Sound', 'Access: '],
+                ['Program: Unknown', 'Organization: WIAA', 'Media Type: Sound', 'Access: '],
                 ['Program: Winston Churchill Obi', 'Broadcast: 1958-00-00', 'Organization: Library of Congress,', 'Media Type: Moving Image', 'Access: '],
-                ['Program: World Cafe', 'Segment: Howard Kramer 2004', 'Organization: WXPN-FM', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN-FM', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN-FM', 'Media Type: Sound', 'Access: '],
-                ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC-FM', 'Media Type: Sound', 'Access: '],
-                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Organization: WERU-FM (WERU Communi', 'Media Type: Sound', 'Access: '],
+                ['Program: World Cafe', 'Segment: Howard Kramer 2004', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
                 ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio']
               ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml

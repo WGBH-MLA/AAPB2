@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Episode</pbcoreAssetType>
+  <pbcoreAssetDate dateType="broadcast">1961-00-00</pbcoreAssetDate>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/516-h98z893992</pbcoreIdentifier>
+  <pbcoreIdentifier source="NOLA Code">ORIG</pbcoreIdentifier>
+  <pbcoreIdentifier source="NET_CATALOG">FMP_3182512</pbcoreIdentifier>
+  <pbcoreTitle titleType="Episode">Paper Ball</pbcoreTitle>
+  <pbcoreTitle titleType="Episode Number">7</pbcoreTitle>
+  <pbcoreTitle titleType="Series">Origami</pbcoreTitle>
+  <pbcoreDescription descriptionType="Episode Description">One of the more difficult origami subjects is the paper ball, and it is to this that Mr. Mikami devotes the episode. After demonstrating its construction a number of times, he inflates the ones he has made. They can be used, he says, for decorations or games of catch (or, NET comments, Japanese Easter eggs). Running time: 29:00. (Description adapted from documents in the NET Microfiche)</pbcoreDescription>
+  <pbcoreDescription descriptionType="Series Description">With Americas increasing interest in the Orient, and particularly in Japan, it is appropriate for National Educational Television to bring to its viewers another series devoted to traditional Japanese art forms - in this case, origami, the art of paper folding. The host on this series is Takahiko Mikami, who turns from brush painting to another delicate, sparse and subtle form of art, origami. The basis for this art is a square piece of paper, which, without scissors or glue, can be folded into all sorts of shapes, suggesting birds, fish, animals and toys -- easy to make and fun to play with. Mr. Mikami devotes each episode to one of the traditional subjects  boats, fox, crane, balloon -- and demonstrates carefully how each is made. He also describes, whenever it is appropriate, Japanese history, art and civilization. At the beginning and end of each episode, the theme music, a traditional Japanese air, is played on the koto, a stringed instrument, by Miss Akiko Hirabayashi of Palo Alto, California. Artist Takahiko Mikami has been seen by NET audiences across the country in three different series: Japanese Brush Painting, Once Upon a Japanese Time, and Whats New. Besides being a star performer for National Educational Television, he was the director of the Japanese Art Center in San Francisco. He graduated from Meiji University in Tokyo and the National Academy School of Fine Arts in New York City. He taught art in Japan and in the United States and had several one-man shows in New York, San Francisco and St. Louis. The 10 half-hour episodes that comprise this series were originally recorded on videotape. (Description adapted from documents in the NET Microfiche)</pbcoreDescription>
+  <pbcoreGenre source="AAPB Topical Genre">Fine Arts</pbcoreGenre>
+  <pbcoreGenre source="AAPB Topical Genre">Race and Ethnicity</pbcoreGenre>
+  <pbcoreGenre>Instructional</pbcoreGenre>
+  <pbcoreCreator>
+    <creator affiliation=" http://id.loc.gov/authorities/names/n50059291">KQED-TV (Television station : San Francisco, Calif.)</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Mikami, Takahiko</contributor>
+    <contributorRole>Host</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Hirabayashi, Akiko</contributor>
+    <contributorRole>Performer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreAnnotation annotationType="MAVIS Number">2459438</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="MAVIS Number">2459439</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="last_modified">2018-04-10 16:05:11</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">No AAPB Contributor</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
