@@ -16,12 +16,12 @@ The <em>Georgia Gazette</em> Series was contributed to the American Archive of P
 
 ## Featured
 
-[![Affirmative Action]<a href=""><img src="https://thumb.ibb.co/mEyuJn/1.png"></a> ](/catalog/cpb-aacip/519-m901z42x74)
-[![Fort Benning]<a href="/catalog/cpb-aacip/519-v40js9jd38"><img src="https://thumb.ibb.co/mEyuJn/1.png"/></a>(/catalog/cpb-aacip/519-v40js9jd38)
-[![Chinese New Year](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-59c5b5nr.jpg)](/catalog/cpb-aacip/519-vt1gh9cg1t)
-[![Clinton Trial](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-988gttr0.jpg)](/catalog/cpb-aacip_81-988gttr0)
-[![Floyd Adams](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-69z08t6x.jpg)](/catalog/cpb-aacip/519-ww76t0j45w)
-[![Bosnian Peace Talks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-67wm3fxh.jpg)](/catalog/cpb-aacip/519-862b854f91)
+[![Affirmative Action](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip/519-m901z42x74) 
+[![Fort Benning](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip/519-v40js9jd38) 
+[![Chinese New Year](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip/519-vt1gh9cg1t)
+[![Clinton Trial](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_81-988gttr0)
+[![Floyd Adams](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip/519-ww76t0j45w)
+[![Bosnian Peace Talks](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip/519-862b854f91)
 
 ## Resources
 
