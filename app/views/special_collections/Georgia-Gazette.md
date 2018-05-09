@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Georgia Gazette]()
+![Georgia Gazette](https://thumb.ibb.co/kitByn/about_gpb_building_front_0.jpg)
 
 ## Summary
 
