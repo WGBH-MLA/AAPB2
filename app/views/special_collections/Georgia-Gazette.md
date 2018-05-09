@@ -17,7 +17,7 @@ The <em>Georgia Gazette</em> Series was contributed to the American Archive of P
 ## Featured
 
 [![Affirmative Action](https://ibb.co/jjYar7)](/catalog/cpb-aacip_81-9995xhm0)
-[![Fort Benning]("https://ibb.co/jjYar7"img src="https://thumb.ibb.co/jjYar7/1.png" )](/catalog/cpb-aacip_81-57np5qgv)
+[![Fort Benning]( https://www.dropbox.com/home?preview=1.png )](/catalog/cpb-aacip_81-57np5qgv)
 [![Chinese New Year](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-59c5b5nr.jpg)](/catalog/cpb-aacip_81-59c5b5nr)
 [![Clinton Trial](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-988gttr0.jpg)](/catalog/cpb-aacip_81-988gttr0)
 [![Floyd Adams](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-69z08t6x.jpg)](/catalog/cpb-aacip_81-69z08t6x)
