@@ -16,12 +16,12 @@ The <em>Georgia Gazette</em> Series was contributed to the American Archive of P
 
 ## Featured
 
-[![Affirmative Action](<a href="https://ibb.co/mEyuJn"><img src="https://thumb.ibb.co/mEyuJn/1.png"></a>)](/catalog/cpb-aacip_81-9995xhm0)
-[![Fort Benning](https://www.dropbox.com/s/jzu6s8cvx1fv92y/1.png?dl=0)](/catalog/cpb-aacip_81-57np5qgv)
-[![Chinese New Year](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-59c5b5nr.jpg)](/catalog/cpb-aacip_81-59c5b5nr)
+[![Affirmative Action]<a href=""><img src="https://thumb.ibb.co/mEyuJn/1.png"></a> ](/catalog/cpb-aacip/519-m901z42x74)
+[![Fort Benning]<a href="/catalog/cpb-aacip/519-v40js9jd38"><img src="https://thumb.ibb.co/mEyuJn/1.png"/></a>(/catalog/cpb-aacip/519-v40js9jd38)
+[![Chinese New Year](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-59c5b5nr.jpg)](/catalog/cpb-aacip/519-vt1gh9cg1t)
 [![Clinton Trial](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-988gttr0.jpg)](/catalog/cpb-aacip_81-988gttr0)
-[![Floyd Adams](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-69z08t6x.jpg)](/catalog/cpb-aacip_81-69z08t6x)
-[![Bosnian Peace Talks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-67wm3fxh.jpg)](/catalog/cpb-aacip_81-67wm3fxh)
+[![Floyd Adams](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-69z08t6x.jpg)](/catalog/cpb-aacip/519-ww76t0j45w)
+[![Bosnian Peace Talks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_81-67wm3fxh.jpg)](/catalog/cpb-aacip/519-862b854f91)
 
 ## Resources
 
