@@ -23,11 +23,11 @@ The <em>John Brown's Holy War</em> interviews were conducted in 2000 for the <em
 
 ## Resources
 
+- [<em>The Abolitionists</em> from <em>American Experience</em>](http://www.pbs.org/wgbh/americanexperience/films/abolitionists/)
 - [John Brown Exhibit, Oberlin College Archives](http://www2.oberlin.edu/archive/exhibits/john_brown_new/intro_bust.html) 
 - [West Virginia Division of Culture and History Exhibit](http://www.wvculture.org/history/jbexhibit/jbintroduction.html)
 - [John Brown/Boyd B. Stutler Collection Database, West Virginia Memory Project](http://www.wvculture.org/history/wvmemory/imlsintro.html)
 - [Black Abolitionist Archive at University of Detroit Mercy](http://libraries.udmercy.edu/archives/special-collections/index.php?collectionCode=baa)
-- [Timeline of the Pre-Civil War period](http://www.digitalhistory.uh.edu/era.cfm?eraID=5&smtID=4)
 
 ## Funders
 
