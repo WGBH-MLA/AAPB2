@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Reconstruction](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0005_Reconstruction.jpg "Reconstruction")
+![Reconstruction](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0005Reconstruction.jpg "Reconstruction")
 
 ## Summary
 
