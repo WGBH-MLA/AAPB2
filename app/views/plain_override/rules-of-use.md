@@ -24,8 +24,7 @@ authorization to use the ORR in our sole discretion at any time.
 
 **2.a.** The ORR is providing access to materials from the AAPB for research,
 educational, and informational purposes only. Use of the ORR content for any
-other purpose is unauthorized. You are authorized to use audiovisual content in
-the ORR for private viewing on a streaming, non-downloadable basis. We make no
+other purpose is unauthorized. You are authorized to use audiovisual content in the ORR for private viewing only on a streaming, non-downloadable basis unless the item is specifically designated as downloadable. We make no
 warranty with regard to the use of the ORR content for these or other purposes.
 
 **2.b.** You are solely responsible for legal assessments regarding your use of any
