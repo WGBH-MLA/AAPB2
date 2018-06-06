@@ -19,7 +19,7 @@ The <em>Freedom Riders</em> interviews were conducted in 2011 for the <em>Americ
 [![Moses Newson](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-b27pn8zb5z.jpg)](/catalog/cpb-aacip_15-b27pn8zb5z)
 [![John Siegenthaler](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-mc8rb6x31v.jpg)](/catalog/cpb-aacip_15-mc8rb6x31v)
 [![Pauline Edythe Knight-Ofuso](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-gt5fb4xm7n.jpg)](/catalog/cpb-aacip_15-gt5fb4xm7n)
-[![Genevieve Hughes-Houghton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-jd4pk08218.jpg)](/catalog/cpb-aacip_15-jd4pk08218)
+[![Genevieve Hughes](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-jd4pk08218.jpg)](/catalog/cpb-aacip_15-jd4pk08218)
 
 ## Resources
 
