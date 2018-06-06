@@ -17,5 +17,10 @@ class Ability
     can :access_media_url, PBCore do |pbcore|
       user.onsite? || user.aapb_referer? || user.embed? || (user.authorized_referer? && pbcore.public?)
     end
+
+    can :access_transcript, PBCore do |pbcore|
+      user.onsite? || # Comment out for developing TOS features.
+        (pbcore.transcript_status == PBCore::ORR_TRANSCRIPT || (pbcore.transcript_status == PBCore::INDEXING_TRANSCRIPT && pbcore.public?))
+    end
   end
 end
