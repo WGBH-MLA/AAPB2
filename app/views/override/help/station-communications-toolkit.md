@@ -10,7 +10,7 @@ We encourage sharing and promoting your organization’s contributions in the ar
 
 - Dedicate a page on your website about your history and participation in the Archive
 	
->Example social post: “We’re committed to preserving our local history with the @amarchivepub! Learn more about this 	collaboration to preserve and make accessible our #pubmedia archive at [<insert your organization's AAPB landing page>]” (http://americanarchive.org/participating-orgs)
+>Example social post: “We’re committed to preserving our local history with the @amarchivepub! Learn more about this 	collaboration to preserve and make accessible our #pubmedia archive at <insert your organization's AAPB landing page>”. Find your landing page here: (http://americanarchive.org/participating-orgs)
 	
 - Write a blog post about what’s preserved and made available in the AAPB, with links to your organization’s page or specific digitized programs
 
