@@ -67,11 +67,11 @@ AAPB with regard to outreach and use of the AAPB, particularly within higher edu
 and scholarly communities.
 
 The SAC provides guidance to the Project Team in the following ways:
-- Collaborate on developing ways to engage with scholars and students
-- Discuss how AAPB can better support scholars
-- Provide website feedback on usability and accessibility
-- Provide advice and recommendations on collections significant for preservation
-- Assist in outreach to their networks and communities (other scholars, undergraduate and graduate students) and beyond.
+- Collaborate on developing ways to engage with scholars and students <br/>
+- Discuss how AAPB can better support scholars <br/>
+- Provide website feedback on usability and accessibility <br/>
+- Provide advice and recommendations on collections significant for preservation <br/>
+- Assist in outreach to their networks and communities (other scholars, undergraduate and graduate students) and beyond <br/>
 
 ### Current Scholar Advisory Committee Members 
 
@@ -129,14 +129,14 @@ outreach within public media communities, especially with regard to preserving a
 making public media content more accessible.
 
 The SPAC provides guidance to the Project Team in the following ways:
-- Gather input on how the AAPB can support stations and producers of public broadcasting with preserving and making public media more accessible
-- Help develop ideas on what types of services we can offer
-- Address the needs of stations in regard to archiving
-- Provide advice and recommendations on significant collections for preservation
-- Collaborate on developing ways to engage with various user groups
-- Get website feedback
-- Assist in outreach to their networks and communities (other public media
-organizations, producers and leaders) and beyond.
+- Gather input on how the AAPB can support stations and producers of public broadcasting with preserving and making public media more accessible <br/>
+- Help develop ideas on what types of services we can offer <br/>
+- Address the needs of stations in regard to archiving <br/>
+- Provide advice and recommendations on significant collections for preservation <br/>
+- Collaborate on developing ways to engage with various user groups <br/>
+- Get website feedback <br/>
+- Assist in outreach to their networks and communities (other public media <br/>
+organizations, producers and leaders) and beyond <br/>
 
 ### Current Stations and Producers Advisory Committee Members
 
