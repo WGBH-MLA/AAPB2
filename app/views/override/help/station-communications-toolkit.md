@@ -6,26 +6,26 @@ If you have any questions, please contact Ryn Marchese, AAPB Engagement and Use 
 
 ### Promoting your organization: 
 
-We recommend sharing and promoting your organization’s content in the archive in the following ways:
+We encourage sharing and promoting your organization’s contributions in the archive in the following ways:
 
-- dedicating a page on your website about your history and participation in the Archive
+- Dedicate a page on your website about your history and participation in the Archive
 	
->Example post: “We’re committed to preserving our local history with the @amarchivepub! Learn more about this 	collaboration to preserve and make accessible our #pubmedia archive <insert site URL>”
+>Example social post: “We’re committed to preserving our local history with the @amarchivepub! Learn more about this 	collaboration to preserve and make accessible our #pubmedia archive at [<insert your organization's AAPB landing page>]” (http://americanarchive.org/participating-orgs)
 	
-- writing a blog post about what’s preserved and made available in the AAPB, with links to your organization’s page or specific digitized programs
+- Write a blog post about what’s preserved and made available in the AAPB, with links to your organization’s page or specific digitized programs
 
 >[Louisiana Public Broadcasting talks about their contributions to the AAPB on the Louisiana Digital Media Archive website.](http://ladigitalmedia.org/about-ldma/)
 
 >[KYUK in Bethel, Alaska shared a great article about their participation in the AAPB.](https://www.alaskapublic.org/2017/10/11/worlds-largest-collection-of-yupik-and-cupik-videos-now-available-online/)
 	
-- including information about your AAPB participation in print materials, anniversary booklets, newsletters, etc.
-- incorporating your digitized assets into your social media calendars, such as anniversary or on-this-day type posts
+- Include information about your AAPB participation in print materials, anniversary booklets, newsletters, etc.
+- Incorporate your digitized assets into your social media calendars, such as anniversary or on-this-day type posts
 
 >Example: “#OTD in 1975, Mayor Jane Doe cut the ribbon on Lexington’s hometown statute! <insert AAPB URL to record>”
 
 >Example: “Happy #GroundhogDay! From Punxsutawney, PA, this weather lore is a trandtion of the #PennsylvaniaDutch. Found in the archive of @HornbakeLibrary from 1967, The American Town series interviews the PA Dutch of Lancaster County! #radiodocs #pubmedia <insert AAPB URL to record page>”
 	
-- going on-the-air to talk about your station’s history and the archival programming preserved and made available in the AAPB
+- Go on-the-air to talk about your station’s history and the archival programming preserved and made available in the AAPB
 
 ### AAPB boilerplate language:
 
