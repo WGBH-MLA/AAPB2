@@ -9,11 +9,11 @@ is to guide and assist the AAPB with regard to outreach and use of the AAPB,
 particularly within k-12 and community college environments.
 
 The EduAC provides guidance to the Project Team in the following ways:
-- Provide advice and recommendations for online educational tools
-- Collaborate on developing ways to engage with students K-12
-- Discuss how we can better support educators; K-12
-- Get website feedback for K-12
-- Assist in outreach to their networks and communities (other educators, students, school librarians, and leaders) and beyond
+- Provide advice and recommendations for online educational tools <br/>
+- Collaborate on developing ways to engage with students K-12 <br/>
+- Discuss how we can better support educators; K-12 <br/>
+- Get website feedback for K-12 <br/>
+- Assist in outreach to their networks and communities (other educators, students, school librarians, and leaders) and beyond <br/>
 
 ### Current Education Advisory Committee Members 
 
