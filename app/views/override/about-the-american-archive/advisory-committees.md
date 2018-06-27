@@ -1,5 +1,7 @@
 # Advisory Committees
 
+### In 2018, the American Archive of Public Broadcasting established three advisory committees to help guide and direct the AAPB in the areas of education, scholarly, and station services and outreach. The committees and their members are listed below.
+
 ## Education Advisory Committee (EduAC)
 
 ### Purpose and Mission
@@ -48,7 +50,7 @@ The EduAC provides guidance to the Project Team in the following ways:
 <br>Director of Educational Outreach, Library of Congress
 
 **Nate Sleeter**
-<br>Digital Teaching and Learning Specialist, Roy Rosenzweig Center for History and New Media, VA
+<br>Digital Teaching and Learning Specialist, Roy Rosenzweig Center for History and New Media, George Mason University, VA
 
 **Ted Sicker**
 <br>Executive Producer, Education, WGBH
@@ -85,7 +87,7 @@ The SAC provides guidance to the Project Team in the following ways:
 <br>Associate Professor of Digital & Public History, University of Central Florida
 
 **Peter B. Kaufman**
-<br>Research Affiliate, MIT Office of Digital Learning; Executive Producer, Intelligent Television, Massachusetts Institute of Technology
+<br>Research Affiliate, Massachusetts Institute of Technology Office of Digital Learning; Executive Producer, Intelligent Television
 
 **Dimitrios Latsis**
 <br>Assistant Professor, Ryerson University, Toronto, ON
@@ -94,7 +96,7 @@ The SAC provides guidance to the Project Team in the following ways:
 <br>Chief of Staff and Professor of History and American Studies, University of Mary Washington, VA
 
 **Trevor Muñoz**
-<br>Interim Director, Maryland Institute for Technology in the Humanities (MITH); Assistant Dean for Digital Humanities Research, University Libraries University of Maryland
+<br>Interim Director, Maryland Institute for Technology in the Humanities (MITH); Assistant Dean for Digital Humanities Research, University Libraries, University of Maryland
 
 **Ingrid Ockert (SAC Co-Chair)**
 <br>Post-Doctoral Fellow, Philadelphia Science History Institute
@@ -109,7 +111,10 @@ The SAC provides guidance to the Project Team in the following ways:
 <br>Professor of Cinema Studies, New York University
 
 **Bernard F. Reilly**
-<br>President, Center for Research Libraries, Steven V. Roberts, J.B. and M.C. Shapiro Professor of Media and Public Affairs, School of Media and Public Affairs, George Washington University, D.C.
+<br>President, Center for Research Libraries 
+
+**Steven V. Roberts**
+<br>J.B. and M.C. Shapiro Professor of Media and Public Affairs, School of Media and Public Affairs, George Washington University, D.C.
 
 **Roger C. Schonfeld**
 <br>Director, Libraries and Scholarly Communication Program, Ithaka S+R, NY
@@ -180,7 +185,7 @@ organizations, producers and leaders) and beyond.
 <br>Archivist, Thirteen/WNET 
 
 **Shirley Sneve**
-<br>Executive Director,Vision Maker Media
+<br>Executive Director, Vision Maker Media
 
 **Ann Wilkens**
 <br>Archivist, Wisconsin Public Television
