@@ -7,7 +7,7 @@ Read about about AAPB's new collections, exhibits and projects below. Informatio
 ## June 2018
 
 ### New Special Collections
-![SpecialCollectionsTiles](https://s3.amazonaws.com/americanarchive.org/override/SpecialCollectionsTiles.jpg "SpecialCollectionsTiles") The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at [http://americanarchive.org/special_collections].
+![SpecialCollectionsTiles](https://s3.amazonaws.com/americanarchive.org/override/SpecialCollectionsTiles.png "SpecialCollectionsTiles") The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at [http://americanarchive.org/special_collections].
 
 ## March 2018
 
