@@ -4,6 +4,11 @@
 
 Read about about AAPB's new collections, exhibits and projects below. Information about upcoming AAPB events can be found on the [Events](/about-the-american-archive/whats-new/events) page, and information about upcoming grant deadlines can be found on the [Funding Opportunities](/about-the-american-archive/whats-new/funding-opportunities) page.
 
+## June 2018
+
+### New Special Collections
+![SpecialCollectionsTiles](https://s3.amazonaws.com/americanarchive.org/override/SpecialCollectionsTiles.jpg "SpecialCollectionsTiles") The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at [http://americanarchive.org/special_collections].
+
 ## March 2018
 
 ### New Exhibit 
