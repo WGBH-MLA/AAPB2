@@ -21,9 +21,9 @@ We recommend sharing and promoting your organization’s content in the archive 
 - including information about your AAPB participation in print materials, anniversary booklets, newsletters, etc.
 - incorporating your digitized assets into your social media calendars, such as anniversary or on-this-day type posts
 
->Example: “#OTD in 1975, Mayor Jane Doe cut the ribbon on Lexington’s hometown statute! <insert AAPB URL to record>”
+>Example: “#OTD in 1975, Mayor Jane Doe cut the ribbon on Lexington’s hometown! [link to item in AAPB]”
 
->Example: “Happy #GroundhogDay! From Punxsutawney, PA, this weather lore is a trandtion of the #PennsylvaniaDutch. Found in the archive of @HornbakeLibrary from 1967, The American Town series interviews the PA Dutch of Lancaster County! #radiodocs #pubmedia <insert AAPB URL to record page>”
+>Example: “Happy #GroundhogDay! From Punxsutawney, PA, this weather lore is a trandtion of the #PennsylvaniaDutch. Found in the archive of @HornbakeLibrary from 1967, The American Town series interviews the PA Dutch of Lancaster County! #radiodocs #pubmedia [link to item in AAPB]”
 	
 - going on-the-air to talk about your station’s history and the archival programming preserved and made available in the AAPB
 
@@ -35,14 +35,18 @@ The American Archive of Public Broadcasting (AAPB) is a collaboration between th
 
 ### AAPB logos:
 
-AAPB logos (https://wgbh.box.com/v/aapb-logos) are available in color and black and white, in a variety of designs (square letters, stacked – two versions, and wide), and in different formats (JPG, PNG, and EPS).
+AAPB logos (https://wgbh.box.com/v/aapb-logos) are available in color and black and white, in a variety of designs (square letters, stacked (two versions), and wide), and in different formats (JPG, PNG, and EPS).
 
 Please do:
+
 - Post the logo on your websites, blogs, print materials and social media, along with information about your participation in the AAPB, with links to your digitized content and/or organization page. 
+
 - When posted on the website, feel free to hyperlink the logo to your organization’s page on the AAPB website.
 
 Please do not:
+
 - Alter the color of the logo
+
 - Change the size proportion of the logo
 
 ### Social media:
