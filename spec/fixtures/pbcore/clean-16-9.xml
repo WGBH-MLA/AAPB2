@@ -18,6 +18,7 @@ In the rugged canyon lands of Northern Arizona, Navajo and Hopi cross-country ru
 <instantiationMediaType>Moving Image</instantiationMediaType>
 <instantiationGenerations>Master: program</instantiationGenerations>
 <instantiationDuration>0:58:22</instantiationDuration>
+<instantiationAnnotation annotationType="organization">Vision Maker Media</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
 <instantiationIdentifier source="mediainfo">cpb-aacip-508-g44hm5390k.mp4</instantiationIdentifier>
@@ -59,6 +60,7 @@ In the rugged canyon lands of Northern Arizona, Navajo and Hopi cross-country ru
 </instantiationEssenceTrack>
 <instantiationAnnotation annotationType="Preservation LTO">AB0001</instantiationAnnotation>
 <instantiationAnnotation annotationType="Preservation Disk">ABDISK0002</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">Vision Maker Media</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreAnnotation annotationType="Project Code">VM0001</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Level of User Access">On Location</pbcoreAnnotation>

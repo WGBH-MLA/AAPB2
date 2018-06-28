@@ -30,7 +30,8 @@
     <instantiationGenerations>Master</instantiationGenerations>
     <instantiationDuration>00:26:28</instantiationDuration>
     <instantiationAnnotation>Dub Master</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">WPBS</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-01 16:21:33</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>WPBS</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WPBS</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

@@ -38,6 +38,12 @@ class PBCore # rubocop:disable Metrics/ClassLength
       PBCoreNameRoleAffiliation.new(rexml)
     end
   end
+  def producing_organizations
+    @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }
+  end
+  def producing_organizations_facet
+    @producing_organizations_facet ||= producing_organizations.map(&:name) unless producing_organizations.empty?
+  end
   def creators
     @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map do |rexml|
       PBCoreNameRoleAffiliation.new(rexml)
@@ -147,20 +153,20 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def img_width
     @img_width = img_dimensions[0]
   end
-  def organization_names
-    @organization_names ||= xpaths('/*/pbcoreAnnotation[@annotationType="organization"]')
+  def contributing_organization_names
+    @contributing_organization_names ||= xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq
   end
-  def organizations_facet
-    @organizations_facet ||= organization_objects.map(&:facet) unless organization_objects.empty?
+  def contributing_organizations_facet
+    @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?
   end
-  def organization_objects
-    @organization_objects ||= Organization.organizations(organization_names)
+  def contributing_organization_objects
+    @contributing_organization_objects ||= Organization.organizations(contributing_organization_names)
   end
-  def organization_names_display
-    @organization_names_display ||= Organization.build_organization_names_display(organization_objects)
+  def contributing_organization_names_display
+    @contributing_organization_names_display ||= Organization.build_organization_names_display(contributing_organization_objects)
   end
   def states
-    @states ||= @organization_objects.map(&:state)
+    @states ||= @contributing_organization_objects.map(&:state)
   rescue NoMatchError
     nil
   end
@@ -381,7 +387,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'genres' => genres,
       'topics' => topics,
       'asset_type' => asset_type,
-      'organizations' => organizations_facet,
+      'contributing_organizations' => contributing_organizations_facet,
+      'producing_organizations' => producing_organizations_facet,
       'states' => states,
       'access_types' => access_types,
 
@@ -411,7 +418,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
-      :playlist_next_id, :playlist_prev_id, :supplemental_content, :organization_names, :organizations_facet, :organization_names_display
+      :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
+      :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
+      :producing_organizations_facet
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)

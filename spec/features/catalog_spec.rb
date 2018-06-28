@@ -119,10 +119,11 @@ describe 'Catalog' do
           ['media_type', 1, 'Sound', 10],
           ['genres', 2, 'Interview', 5],
           ['topics', 1, 'Music', 3],
-          ['asset_type', 1, 'Segment', 8],
-          ['organizations', 41, 'WGBH+(MA)', 6], # tag ex and states mean lots of facet values.
+          ['asset_type', 1, 'Segment', 9],
+          ['contributing_organizations', 38, 'WGBH+(MA)', 6],
+          ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1],
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 38]
+          ['access_types', 3, PBCore::ALL_ACCESS, 40]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -149,7 +150,7 @@ describe 'Catalog' do
       describe 'facets not in sidebar' do
         describe 'states facet' do
           assertions = [
-            ['states', 'Michigan', 4]
+            ['states', 'Michigan', 3]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -167,9 +168,9 @@ describe 'Catalog' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
             ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 33],
-            ['media_type', 'Moving+Image+OR+Sound', 33],
-            ['media_type', 'Moving+Image', 23]
+            ['media_type', 'Sound+OR+Moving+Image', 35],
+            ['media_type', 'Moving+Image+OR+Sound', 35],
+            ['media_type', 'Moving+Image', 25]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -185,38 +186,38 @@ describe 'Catalog' do
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
-          expect_count(9)
+          expect_count(10)
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(38)
+          expect_count(40)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
-          expect_count(2)
+          expect_count(3)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Organizations KQED (CA) Remove constraint Organizations: KQED (CA)')
+                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)')
 
           click_link('WGBH (MA)')
-          expect_count(8)
+          expect_count(9)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Organizations KQED (CA) OR WGBH (MA) Remove constraint Organizations: KQED (CA) OR WGBH (MA)')
+                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)')
 
           all(:css, 'a.remove').first.click # KQED
           expect_count(6)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Organizations WGBH (MA) Remove constraint Organizations: WGBH (MA)')
+                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)')
 
           all(:css, '.constraints-container a.remove').first.click # remove access all
           # If you attempt to remove the access facet, it redirects you to the default,
           # but the default depends on requestor's IP address.
           # TODO: set address in request.
           expect_count(4)
-          expect(page).to have_text('You searched for: Organizations WGBH (MA) Remove constraint Organizations: WGBH (MA) ')
+          expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ')
 
           click_link('Iowa Public Television (IA)')
           # TODO: check count when IP set in request.
-          expect(page).to have_text('Organizations: WGBH (MA) OR Iowa Public Television (IA)')
+          expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)')
 
           # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
           # TODO: check count when IP set in request.
@@ -252,7 +253,7 @@ describe 'Catalog' do
           # rubocop:disable LineLength
           assertions = [
             ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'The Civil War; Interviews with Barbara Fields']],
-            ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
+            ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'Japanese Brush Painting; 2; Fish', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
             ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', 'The Civil War; Interviews with Barbara Fields', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
           ]
           # rubocop:enable LineLength
@@ -292,6 +293,7 @@ describe 'Catalog' do
         end
 
         describe 'sorting, title edge cases' do
+          # rubocop:disable LineLength
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&sort=title+asc&per_page=50"
           it 'works' do
             visit url
@@ -306,48 +308,51 @@ describe 'Catalog' do
                   end
                 end.select { |x| x }.join('; ')
               end.join("\n")).to eq([
-                ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ', 'Media Type: Sound', 'Access: '],
-                ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT', 'Media Type: other', 'Access: '],
-                ['Program: Bob Brozman; Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
-                ['Series: The Civil War; Raw Footage: Interview with Daisy', 'Created: 1987-05-21', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: The Civil War; Raw Footage: Interviews with Barba', 'Created: 1987-01-14', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Dance for Camera; Program: Tzaddik; Episode Number: 102; Organization: WGBH; Media Type: Moving Image; Access: Accessible on locatio'],
-                ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
-                ['Title: Dry Spell', 'Organization: KQED', 'Media Type: Moving Image', 'Access: '],
-                ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS', 'Media Type: Moving Image', 'Access: '],
-                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv', 'Media Type: Moving Image', 'Access: '],
-                ['Series: Gvsports', 'Organization: WGVU Public TV and Ra', 'Media Type: other', 'Access: '],
-                ['Series: The Lost Year', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
-                ['Series: The MacNeil/Lehrer Ne', 'Date: 1983-10-13', 'Organization: NewsHour Productions', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Making It Here; Episode Number: 105; Episode: Sweets', 'Date: 2003-01-22', 'Organization: WGBY', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
-                ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
+                ['Program: Ask Governor Chris Gr', 'Contributing Organization: KUOW Puget Sound Publ', 'Media Type: Sound', 'Access: '],
+                ['Series: Askc: Ask Congress', 'Episode: #508', 'Contributing Organization: WHUT', 'Media Type: other', 'Access: '],
+                ['Program: Bob Brozman; Contributing Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
+                ['Series: The Civil War; Raw Footage: Interview with Daisy', 'Created: 1987-05-21', 'Contributing Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: The Civil War; Raw Footage: Interviews with Barba', 'Created: 1987-01-14', 'Contributing Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Dance for Camera; Program: Tzaddik; Episode Number: 102; Contributing Organization: WGBH; Media Type: Moving Image; Access: Accessible on locatio'],
+                ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Contributing Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
+                ['Title: Dry Spell', 'Contributing Organization: KQED', 'Media Type: Moving Image', 'Access: '],
+                ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Contributing Organization: WPBS', 'Media Type: Moving Image', 'Access: '],
+                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Contributing Organization: Film and Media Archiv', 'Media Type: Moving Image', 'Access: '],
+                ['Series: Gvsports', 'Media Type: other', 'Access: '],
+                ['Series: Japanese Brush Painti', 'Episode Number: 2', 'Episode: Fish', 'Broadcast: 1958-00-00', 'Producing Organization: KQED-TV (Television s', 'Contributing Organization: KQED', 'Media Type: Moving Image', 'Access: '],
+                ['Series: The Lost Year', 'Contributing Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
+                ['Series: The MacNeil/Lehrer Ne', 'Date: 1983-10-13', 'Contributing Organization: NewsHour Productions', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Making It Here; Episode Number: 105; Episode: Sweets', 'Date: 2003-01-22', 'Contributing Organization: WGBY', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Raw Footage: MSOM Field Tape - BUG', 'Contributing Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
+                ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Contributing Organization: Iowa Public Televisio', 'Media Type: Moving Image',
                  'Access: Online Reading Room'],
-                ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 1 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 2 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 3 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Contributing Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
+                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 1 of 3', 'Broadcast: 1974-07-24', 'Contributing Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 2 of 3', 'Broadcast: 1974-07-24', 'Contributing Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 3 of 3', 'Broadcast: 1974-07-24', 'Contributing Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
+                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Producing Organization: WGBH', 'Contributing Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
                 ['Series: Origami; Episode Number: 7', 'Episode: Paper Ball', 'Broadcast: 1961-00-00', 'Media Type: other', 'Access: '],
-                ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
-                ['Title: Racing the Rez', 'Organization: Vision Maker Media', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
-                ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH', 'Media Type: Sound', 'Access: '],
-                ['Title: The Scheewe Art Works', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
-                ['Program: The Sorting Test: 1', 'Organization: WUSF', 'Media Type: other', 'Access: '],
-                ['Program: # "SORTING" Test: 2', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
-                ['Program: A Sorting Test: 100', 'Organization: WNYC', 'Media Type: Moving Image', 'Access: '],
-                ['Episode: Touchstone 108', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
-                ['Program: Unknown', 'Organization: WIAA', 'Media Type: Sound', 'Access: '],
-                ['Program: Winston Churchill Obi', 'Broadcast: 1958-00-00', 'Organization: Library of Congress,', 'Media Type: Moving Image', 'Access: '],
-                ['Program: World Cafe', 'Segment: Howard Kramer 2004', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC', 'Media Type: Sound', 'Access: '],
-                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
-                ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio']
+                ['Title: Podcast Release Form', 'Contributing Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
+                ['Title: Racing the Rez', 'Contributing Organization: Vision Maker Media', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
+                ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Contributing Organization: WGBH', 'Media Type: Sound', 'Access: '],
+                ['Title: The Scheewe Art Works', 'Contributing Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
+                ['Program: The Sorting Test: 1', 'Media Type: other', 'Access: '],
+                ['Program: # "SORTING" Test: 2', 'Contributing Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
+                ['Program: A Sorting Test: 100', 'Contributing Organization: WNYC', 'Media Type: Moving Image', 'Access: '],
+                ['Episode: Touchstone 108', 'Contributing Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
+                ['Program: Unknown', 'Contributing Organization: WIAA', 'Media Type: Sound', 'Access: '],
+                ['Program: Winston Churchill Obi', 'Broadcast: 1958-00-00', 'Contributing Organization: KQED, Library of Cong', 'Media Type: Moving Image', 'Access: '],
+                ['Program: World Cafe', 'Segment: Howard Kramer 2004', 'Contributing Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Contributing Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Contributing Organization: WXPN', 'Media Type: Sound', 'Access: '],
+                ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Contributing Organization: WNYC', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Contributing Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
+                ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Contributing Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
+                ['Series: 1974 Nixon Impeachmen', 'Episode: 1974-07-26', 'Segment: Part 3 of 6', 'Broadcast: 1974-07-26', 'Producing Organization: National Public Affai', 'Contributing Organization: Library of Congress', 'Media Type: Moving Image', 'Access: Online Reading Room']
               ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml
           end
+          # rubocop:enable LineLength
         end
       end
     end

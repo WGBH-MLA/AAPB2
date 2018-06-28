@@ -42,10 +42,17 @@
               </dl>
             <% end %>
 
-            <% unless pbcore.organization_names_display.empty? %>
+            <% unless pbcore.producing_organizations_facet.nil? %>
               <dl class="clearfix">
-                <dt>Organization</dt>
-                <dd><%= pbcore.organization_names_display.join(', ') %></dd>
+                <dt>Producing Organization</dt>
+                <dd><%= pbcore.producing_organizations_facet.join(', ') %></dd>
+              </dl>
+            <% end %>
+
+            <% unless pbcore.contributing_organization_names_display.empty? %>
+              <dl class="clearfix">
+                <dt>Contributing Organization</dt>
+                <dd><%= pbcore.contributing_organization_names_display.join(', ') %></dd>
               </dl>
             <% end %>
 

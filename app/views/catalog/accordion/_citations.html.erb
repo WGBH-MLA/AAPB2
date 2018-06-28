@@ -1,6 +1,6 @@
 <% url = "http://americanarchive.org/catalog/#{@pbcore.id}" %>
 <% today = Date.today.to_formatted_s(:long) %>
-<% org = ( @pbcore.organization_names_display.empty? ? '' : @pbcore.organization_names_display.join(', ') + ', ' ) + 'American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
+<% org = ( @pbcore.contributing_organization_names_display.empty? ? '' : @pbcore.contributing_organization_names_display.join(', ') + ', ' ) + 'American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
 
 <dd><em>Chicago</em>:
   &ldquo;<%= @pbcore.title %>,&rdquo;

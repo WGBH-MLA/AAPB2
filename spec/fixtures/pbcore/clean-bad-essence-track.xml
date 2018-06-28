@@ -44,6 +44,7 @@
     <instantiationAnnotation annotationType='duration approximate'>n</instantiationAnnotation>
     <instantiationAnnotation annotationType='date approximate'>n</instantiationAnnotation>
     <instantiationAnnotation annotationType='Alternate Generation'>Audio/Master mix</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">WNYC-FM</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source='WNYC Media Archive Label'>72208.2</instantiationIdentifier>
@@ -66,7 +67,8 @@
         96k\PB7-ARCH-DAWA_E25C9590F422410DA9EE5076F83416DD.WAV
       </essenceTrackAnnotation>
     </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType="organization">WNYC-FM</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-03 03:00:54</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>WNYC-FM</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WNYC-FM</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

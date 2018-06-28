@@ -19,6 +19,7 @@ This episode's headline: Clark at interior; Israeli ""Dollarization""; Nicaragua
 <instantiationDuration>01:00:00;00</instantiationDuration>
 <instantiationChannelConfiguration>Ch1: Mono; Ch2: None</instantiationChannelConfiguration>
 <instantiationAlternativeModes>n</instantiationAlternativeModes>
+<instantiationAnnotation annotationType="organization">NewsHour Productions</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
 <instantiationIdentifier source="NH Air Date">NH-19831013</instantiationIdentifier>
@@ -27,6 +28,7 @@ This episode's headline: Clark at interior; Israeli ""Dollarization""; Nicaragua
 <instantiationMediaType>Moving Image</instantiationMediaType>
 <instantiationGenerations>Copy: preservation</instantiationGenerations>
 <instantiationDuration>01:00:00;00</instantiationDuration>
+<instantiationAnnotation annotationType="organization">NewsHour Productions</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
 <instantiationIdentifier source="mediainfo">cpb-aacip-507-0000000j8w.mov</instantiationIdentifier>
@@ -69,6 +71,7 @@ This episode's headline: Clark at interior; Israeli ""Dollarization""; Nicaragua
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 </instantiationEssenceTrack>
 <instantiationAnnotation annotationType="encoded by">Lavf56.4.101</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">NewsHour Productions</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
 <instantiationIdentifier source="mediainfo">cpb-aacip-507-0000000j8w.mp4</instantiationIdentifier>
@@ -106,6 +109,7 @@ This episode's headline: Clark at interior; Israeli ""Dollarization""; Nicaragua
 <instantiationAnnotation annotationType="encoded by">Lavf56.4.101</instantiationAnnotation>
 <instantiationAnnotation annotationType="Preservation LTO">WN0001</instantiationAnnotation>
 <instantiationAnnotation annotationType="Preservation Disk">ABDISK0002</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">NewsHour Productions</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
 <instantiationIdentifier source="mediainfo">cpb-aacip-507-0000000j8w.mxf</instantiationIdentifier>
@@ -151,6 +155,7 @@ This episode's headline: Clark at interior; Israeli ""Dollarization""; Nicaragua
 <essenceTrackEncoding source="mediainfo">SMPTE TC</essenceTrackEncoding>
 </instantiationEssenceTrack>
 <instantiationAnnotation annotationType="encoded by">OpenCube MXFTk Advanced 2.6.4.0.1</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">NewsHour Productions</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreAnnotation annotationType="Project Code">WN0001</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>

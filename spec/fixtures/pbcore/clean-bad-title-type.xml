@@ -13,7 +13,8 @@
     <instantiationGenerations>ISO reel</instantiationGenerations>
     <instantiationDuration>01:06:00</instantiationDuration>
     <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType="organization">Detroit Public Television (aka DPTV and WTVS)</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-02 17:41:26</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>Detroit Public Television (aka DPTV and WTVS)</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Detroit Public Television (aka DPTV and WTVS)</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

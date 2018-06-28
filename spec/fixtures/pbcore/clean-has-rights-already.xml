@@ -42,7 +42,8 @@
       <essenceTrackEncoding source='WAV'>WAV</essenceTrackEncoding>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType='Alternate Format'>Hard Drive</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">KUOW Puget Sound Public Radio</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-17 17:41:40</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>KUOW Puget Sound Public Radio</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">KUOW Puget Sound Public Radio</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

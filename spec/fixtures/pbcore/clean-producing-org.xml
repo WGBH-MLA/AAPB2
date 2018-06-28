@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Episode</pbcoreAssetType>
+  <pbcoreAssetDate dateType="broadcast">1958-00-00</pbcoreAssetDate>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/55-91sf8j8r</pbcoreIdentifier>
+  <pbcoreIdentifier source="NET_CATALOG">FMP_3180357</pbcoreIdentifier>
+  <pbcoreTitle titleType="Series">Japanese Brush Painting</pbcoreTitle>
+  <pbcoreTitle titleType="Episode">Fish</pbcoreTitle>
+  <pbcoreTitle titleType="Episode Number">2</pbcoreTitle>
+  <pbcoreDescription descriptionType="Episode Description">With a few deft strokes of the brush, T. Mikami teaches the techniques of drawing fish-first, a fish swimming; then a fish jumping out of the water. He also stresses the Japanese approach to the composition, using the placement of the fish as an example. (Description adapted from documents in the NET Microfiche)</pbcoreDescription>
+  <pbcoreDescription descriptionType="Series Description">In this series, artist T. Mikami illustrates the artistry of Japanese Brush Painting. Makami, who claims that everyone is a potential artist, intends to prove this during his 13 classes. Kits were originally made available and viewers could paint along with the outstanding artist. T. Mikami is an outstanding Japanese artist who is the founder and director of the Japanese Art Center in San Francisco. He is well known for art exhibits in the Far East, New York and San Francisco. He taught classes in California and was director of the International Education Center in Tokyo starting in 1953. He had several one-man shows and received the governors prize in Japan in 1950. The 13 half-hour episodes that comprise this series were originally recorded on videotape. (Description adapted from documents in the NET Microfiche)</pbcoreDescription>
+  <pbcoreGenre source="AAPB Topical Genre">Fine Arts</pbcoreGenre>
+  <pbcoreGenre source="AAPB Format Genre">Instructional</pbcoreGenre>
+  <pbcoreCreator>
+    <creator ref="http://id.loc.gov/authorities/names/n50059291">KQED-TV (Television station : San Francisco, Calif.)</creator>
+    <creatorRole>Producing Organization</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Mikami, T.</contributor>
+    <contributorRole>Host</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>KQED</publisher>
+    <publisherRole source="  ">Release Agent</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>Published Work: This work was offered for sale and/or rent in 1960.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="KQED AAP">KQ203_20601;20601</instantiationIdentifier>
+    <instantiationPhysical>Film: 16mm</instantiationPhysical>
+    <instantiationLocation>SF State: SFSU</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Copy</instantiationGenerations>
+    <instantiationDuration>00:11:00</instantiationDuration>
+    <instantiationAnnotation annotationType="organization">KQED</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="special_collections">net-catalog</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="MAVIS Number">2334807</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="last_modified">2018-03-30 10:19:06</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">KQED</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
