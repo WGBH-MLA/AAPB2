@@ -36,7 +36,7 @@ Each catalog record identifies holdings information from various institutions th
 
 ## Funders
 
-- [![IMLS](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png "IMLS Logo")](https://www.imls.gov/)
+- [![CLIR](https://s3.amazonaws.com/americanarchive.org/org-logos/clir_logo.png "CLIR Logo")](https://www.clir.org/)
 
 ## Help
 
