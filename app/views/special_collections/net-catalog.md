@@ -35,7 +35,8 @@ Each catalog record identifies holdings information from various institutions th
 - [Further Reading on NET from the Museum of Broadcast Communications](http://www.museum.tv/eotv/nationaleduc.htm)
 
 ## Funders
-![IMLS](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png "IMLS Logo")
+
+- [![IMLS](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png "IMLS Logo")](https://www.imls.gov/)
 
 ## Help
 
