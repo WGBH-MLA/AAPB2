@@ -21,11 +21,9 @@ The American Archive of Public Broadcasting, a collaboration between the Library
 ## Resources
 
 - [Explore the archive by state or participating station](http://americanarchive.org/participating-orgs)
-- Follow the AAPB Road Trip on our social media accounts:
-- [Facebook](https://www.facebook.com/amarchivepub/)
+- [Follow the AAPB Road Trip and tag content you enjoy with #AAPBRoadTrip on Facebook](https://www.facebook.com/amarchivepub/)
 - [Twitter](https://twitter.com/amarchivepub)
 - [Instagram](https://www.instagram.com/amarchivepub/)
-- Tag content you enjoyed by using #AAPBRoadTrip
 
 ## Funders
 
