@@ -14,12 +14,12 @@ The <em>1964</em> interviews were conducted in 2014 for the <em>American Experie
 
 ## Featured
 
-[![Catherine Acholonu](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-f76639m612.jpg)](/catalog/cpb-aacip_15-f76639m612)
-[![Colin Powell](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-qj77s7jx63_1.jpg)](/catalog/cpb-aacip_15-qj77s7jx63)
-[![Margaret Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-c824b2z52k_1.jpg)](/catalog/cpb-aacip_15-c824b2z52k)
-[![Douglas Egerton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-d795718p1p_1.jpg)](/catalog/cpb-aacip_15-d795718p1p)
-[![Karen Hughes White](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-7m03x84j26_1.jpg)](/catalog/cpb-aacip_15-7m03x84j26)
-[![Jeffrey Leath](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-w950g3j70v_1.jpg)](/catalog/cpb-aacip_15-w950g3j70v)
+[![Leah Wright](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-rv0cv4cx1j.jpg)](/catalog/cpb-aacip_15-rv0cv4cx1j)
+[![Hodding Carter III](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-319s17tj9w.jpg)](/catalog/cpb-aacip_15-319s17tj9w)
+[![Claire Bond Potter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-kw57d2rb21.jpg)](/catalog/cpb-aacip_15-kw57d2rb21)
+[![Stephanie Coontz](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-qn5z60d34d.jpg)](/catalog/cpb-aacip_15-qn5z60d34d)
+[![Dave Dennis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-sq8qb9w86w.jpg)](/catalog/cpb-aacip_15-sq8qb9w86w)
+[![Bob Moses](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-wd3pv6cc48.jpg)](/catalog/cpb-aacip_15-wd3pv6cc48)
 
 ## Resources
 
