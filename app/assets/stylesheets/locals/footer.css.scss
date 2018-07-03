@@ -127,6 +127,10 @@
                         background-position:-40px -350px;
                 }
 
+                ul.social .instagram a {
+                        background-position:-180px -350px;
+                }
+
                 ul.social a:hover {
                         opacity:1;
                 }
@@ -204,5 +208,15 @@ hr {
 .region {
 	margin:0 auto;
 	padding:0 10px;
+}
+
+@media (max-width: 480px) {
+  .footer-links {
+    .panel {
+      float: none;
+      margin: 0;
+      width: 100%;
+    }
+  }
 }
 
