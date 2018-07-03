@@ -16,16 +16,7 @@ To highlight the breadth of material available to the public, content for this c
 
 The American Archive of Public Broadcasting, a collaboration between the Library of Congress and WGBH Education Foundation in Boston, preserves and makes accessible historic public radio and television created over the past 70+ years.
 
-
-
 ## Featured
-
-![USA Map Part 1](https://s3.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip_Featured_first.png)
-![USA Map Part 2](https://s3.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip_Featured_second.png)
-![USA Map Part 3](https://s3.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip_Featured_third.png)
-![USA Map Part 4](https://s3.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip_Featured_fourth.png)
-![USA Map Part 5](https://s3.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip_Featured_fifth.png)
-![USA Map Part 6](https://s3.amazonaws.com/americanarchive.org/special-collections/AAPB_Road_Trip_Featured_sixth.png)
 
 ## Resources
 
