@@ -40,7 +40,10 @@ for i in `find . -type f | grep -i '\(mp4\|mov\|mts\|vob\|mpg\|webm\|mkv\|mxf\|m
 do 
 	newDir=`dirname "$i"`; # modify this if you want to include the basename of the input argument directory
 	mkdir -p "$outDir/$newDir";
-
-	ffmpeg -i "$i" -vcodec libx264 -pix_fmt yuv420p -b:v 711k -s 480:360 -acodec libfdk_aac -b:a 128k "$outDir/$newDir/$(basename $i)".mp4;
+	if mediainfo "$i" | grep '16:9'; then
+		ffmpeg -i "$i" -vcodec libx264 -pix_fmt yuv420p -b:v 711k -s 640:360 -acodec libfdk_aac -b:a 128k "$outDir/$newDir/$(basename $i)".mp4;
+	else 
+		ffmpeg -i "$i" -vcodec libx264 -pix_fmt yuv420p -b:v 711k -s 480:360 -acodec libfdk_aac -b:a 128k "$outDir/$newDir/$(basename $i)".mp4;
+	fi
 done ;
 IFS=$OLDIFS
