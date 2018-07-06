@@ -31,6 +31,6 @@ The American Archive of Public Broadcasting, a collaboration between the Library
 ## Help
 The search box in this collection can be used to search full programs described at the item level. These programs have chapter headings to make it easier to navigate between different segments of the program. You can select from the chapter headings by hovering over the bullet-pointed list icon on the bottom right of the media player.
 
-For this special collection, AAPB staff created short clips, which can be seen on an [interactive map](https://americanarchivepb.wordpress.com/2018/07/02/aapb-road-trip). The clips themselves are not assets in the AAPB catalog, so they can not be searched.
+For this special collection, AAPB staff created short clips, which are linked to in the interactive map in this special collection. The clips themselves are not assets in the AAPB catalog, so they can not be searched.
 
 ## Terms
