@@ -75,7 +75,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
   def title
-    @title ||= titles.map(&:last).join('; ')
+    @title ||= build_display_title
   end
   def exhibits
     @exhibits ||= Exhibit.find_all_by_item_id(id)
@@ -411,7 +411,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
-      :playlist_next_id, :playlist_prev_id, :supplemental_content, :organization_names, :organizations_facet, :organization_names_display
+      :playlist_next_id, :playlist_prev_id, :supplemental_content, :organization_names, :organizations_facet,
+      :organization_names_display, :build_display_title
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)
@@ -421,6 +422,18 @@ class PBCore # rubocop:disable Metrics/ClassLength
               .flatten # flattens list accessors
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
               .flatten.uniq.sort
+  end
+
+  def build_display_title
+    if titles.map(&:first).count('Series') > 1 && titles.map(&:first).count('Episode Number') > 0 && titles.map(&:first).count('Episode') > 0
+      titles.select { |title_pair| title_pair.first == 'Episode' }.map(&:last).join('; ')
+    elsif titles.map(&:first).count('Episode Number') > 1 && titles.map(&:first).count('Series') == 1 && titles.map(&:first).count('Episode') > 0
+      titles.select { |title_pair| title_pair.first == 'Series' || title_pair.first == 'Episode' }.map(&:last).join('; ')
+    elsif titles.map(&:first).count('Alternative') > 0 && titles.map(&:first).count == titles.map(&:first).count('Alternative')
+      titles.select { |title_pair| title_pair.first == 'Alternative' }.map(&:last).join('; ')
+    else
+      titles.select { |title_pair| title_pair.first != 'Alternative' }.map(&:last).join('; ')
+    end
   end
 
   def contribs

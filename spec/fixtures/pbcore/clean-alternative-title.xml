@@ -1,0 +1,31 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <!-- Root attributes are screwy in AMS export. -->
+  <pbcoreAssetDate dateType="Copyright">2006-10-23</pbcoreAssetDate>
+  <pbcoreIdentifier source='WERU Prog List'>WRF031</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/xxx-zxcvbnmq</pbcoreIdentifier>
+  <pbcoreTitle titleType='Alternative'>This Title is Alternative</pbcoreTitle>
+  <pbcoreDescription descriptionType='Description'>Writers Forum with readers.</pbcoreDescription>
+  <pbcoreCoverage>
+    <coverage>mock value which should be preserved</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCoverage>
+    <coverage>mock value which should be preserved</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcoreRightsSummary>
+    <rightsSummary>There should be only one.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WERU Prog List'>WRF031</instantiationIdentifier>
+    <instantiationIdentifier source='duplicate not to be removed'>Writers Forum</instantiationIdentifier>
+    <instantiationPhysical>CD</instantiationPhysical>
+    <instantiationLocation>WERU Archives - CD Shelves</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>00:49:49</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2018-06-06 01:50:55</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WERU-FM (WERU Community Radio)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
