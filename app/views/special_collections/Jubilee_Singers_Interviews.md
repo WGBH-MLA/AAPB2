@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Jubilee Singers](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0006_JubileeSingers.jpg "Jubilee Singers")
+![Jubilee Singers](https://s3.amazonaws.com/openvault.wgbh.org/special_collections/jubilee-singers/AX0006_Jubilee.jpg "Jubilee Singers")
 
 ## Summary
 
