@@ -6,15 +6,9 @@ describe 'Embed' do
     PBCoreIngester.load_fixtures
   end
 
-  # xit-ing since we changed this redirection to a
-  # modal on catalog#show
-  xit 'requires click-thru for ORR items' do
-    ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
-    visit 'embed/cpb-aacip_37-16c2fsnr'
-    expect(page.current_url).to match('/embed_terms/')
-    click_button('I agree')
-    ENV.delete('RAILS_TEST_IP_ADDRESS')
+  it '/embed/[id] works' do
+    visit 'embed/cpb-aacip_111-21ghx7d6'
+    expect(page.status_code).to eq(200)
     expect(page).to have_css('video')
-    expect(page.current_url).to match('/embed/')
   end
 end
