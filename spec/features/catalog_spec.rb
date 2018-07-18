@@ -116,13 +116,13 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 1, 'Sound', 10],
+          ['media_type', 1, 'Sound', 13],
           ['genres', 2, 'Interview', 5],
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 8],
           ['organizations', 41, 'WGBH+(MA)', 6], # tag ex and states mean lots of facet values.
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 38]
+          ['access_types', 3, PBCore::ALL_ACCESS, 41]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -166,9 +166,9 @@ describe 'Catalog' do
         describe 'URL support' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
-            ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 33],
-            ['media_type', 'Moving+Image+OR+Sound', 33],
+            ['media_type', 'Sound', 13],
+            ['media_type', 'Sound+OR+Moving+Image', 36],
+            ['media_type', 'Moving+Image+OR+Sound', 36],
             ['media_type', 'Moving+Image', 23]
           ]
           assertions.each do |facet, value, value_count|
@@ -189,7 +189,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(38)
+          expect_count(41)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -294,6 +294,7 @@ describe 'Catalog' do
         describe 'sorting, title edge cases' do
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&sort=title+asc&per_page=50"
           it 'works' do
+            # rubocop:disable LineLength
             visit url
             expect(page.status_code).to eq(200)
             expect(
@@ -336,6 +337,7 @@ describe 'Catalog' do
                 ['Program: The Sorting Test: 1', 'Organization: WUSF', 'Media Type: other', 'Access: '],
                 ['Program: # "SORTING" Test: 2', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
                 ['Program: A Sorting Test: 100', 'Organization: WNYC', 'Media Type: Moving Image', 'Access: '],
+                ['Title: This Title is Alterna', 'Copyright Date: 2006-10-23', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
                 ['Episode: Touchstone 108', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
                 ['Program: Unknown', 'Organization: WIAA', 'Media Type: Sound', 'Access: '],
                 ['Program: Winston Churchill Obi', 'Broadcast: 1958-00-00', 'Organization: Library of Congress,', 'Media Type: Moving Image', 'Access: '],
@@ -343,10 +345,13 @@ describe 'Catalog' do
                 ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
                 ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
                 ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum II', 'Episode Number: 43', 'Episode Number: 25', 'Episode: Writers Writing Again', 'Episode: Readers Reading Again', 'Copyright Date: 2007-10-15', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
                 ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum II', 'Series: Readers Forum', 'Episode Number: 42', 'Episode Number: 24', 'Episode: Writers Writing', 'Episode: Readers Reading', 'Copyright Date: 2007-10-13', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
                 ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio']
               ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml
+            # rubocop:enable LineLength
           end
         end
       end
