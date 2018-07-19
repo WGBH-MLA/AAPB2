@@ -1,0 +1,36 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <!-- Root attributes are screwy in AMS export. -->
+  <pbcoreAssetDate dateType="Copyright">2007-10-13</pbcoreAssetDate>
+  <pbcoreIdentifier source='WERU Prog List'>WRF029</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/xxx-zxcvbnml</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Writers Forum II</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>Readers Forum</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Writers Writing</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Readers Reading</pbcoreTitle>
+  <pbcoreTitle titleType='Episode Number'>42</pbcoreTitle>
+  <pbcoreTitle titleType='Episode Number'>24</pbcoreTitle>
+  <pbcoreDescription descriptionType='Description'>Writers Forum with readers.</pbcoreDescription>
+  <pbcoreCoverage>
+    <coverage>mock value which should be preserved</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCoverage>
+    <coverage>mock value which should be preserved</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcoreRightsSummary>
+    <rightsSummary>There should be only one.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WERU Prog List'>WRF028</instantiationIdentifier>
+    <instantiationIdentifier source='duplicate not to be removed'>Writers Forum</instantiationIdentifier>
+    <instantiationPhysical>CD</instantiationPhysical>
+    <instantiationLocation>WERU Archives - CD Shelves</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>00:58:49</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-03 01:50:55</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WERU-FM (WERU Community Radio)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

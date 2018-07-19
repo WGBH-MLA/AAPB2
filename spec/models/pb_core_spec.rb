@@ -14,6 +14,9 @@ describe 'Validated and plain PBCore' do
   let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
   let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
   let(:playlist_3) { File.read('spec/fixtures/pbcore/clean-playlist-3.xml') }
+  let(:pbc_multiple_series_with_episodes) { File.read('spec/fixtures/pbcore/clean-multiple-series-with-episode-titles.xml') }
+  let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
+  let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
 
   describe ValidatedPBCore do
     describe 'valid docs' do
@@ -356,6 +359,20 @@ describe 'Validated and plain PBCore' do
         }
 
         expect(expected_attrs).to eq(attrs)
+      end
+    end
+
+    describe '.build_display_title' do
+      it 'uses only episode titles if there are more than one series title' do
+        expect(PBCore.new(pbc_multiple_series_with_episodes).title).to eq('Writers Writing; Readers Reading')
+      end
+
+      it 'uses only the series and episode titles if there are multiple episode numbers and only one series title' do
+        expect(PBCore.new(pbc_multiple_episodes_one_series).title).to eq('Writers Forum II; Writers Writing Again; Readers Reading Again')
+      end
+
+      it 'uses Alternative title if no other titles are present' do
+        expect(PBCore.new(pbc_alternative_title).title).to eq('This Title is Alternative')
       end
     end
   end

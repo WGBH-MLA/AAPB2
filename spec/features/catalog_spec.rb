@@ -116,14 +116,14 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 1, 'Sound', 10],
+          ['media_type', 1, 'Sound', 13],
           ['genres', 2, 'Interview', 5],
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 9],
           ['contributing_organizations', 38, 'WGBH+(MA)', 6],
           ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1],
           ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 40]
+          ['access_types', 3, PBCore::ALL_ACCESS, 41]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -171,6 +171,10 @@ describe 'Catalog' do
             ['media_type', 'Sound+OR+Moving+Image', 35],
             ['media_type', 'Moving+Image+OR+Sound', 35],
             ['media_type', 'Moving+Image', 25]
+            ['media_type', 'Sound', 13],
+            ['media_type', 'Sound+OR+Moving+Image', 36],
+            ['media_type', 'Moving+Image+OR+Sound', 36],
+            ['media_type', 'Moving+Image', 25]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -190,7 +194,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(40)
+          expect_count(41)
           expect(page).to have_text('You searched for: Access all')
 
           click_link('KQED (CA)')
@@ -296,6 +300,7 @@ describe 'Catalog' do
           # rubocop:disable LineLength
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&sort=title+asc&per_page=50"
           it 'works' do
+            # rubocop:disable LineLength
             visit url
             expect(page.status_code).to eq(200)
             expect(
@@ -339,6 +344,7 @@ describe 'Catalog' do
                 ['Program: The Sorting Test: 1', 'Media Type: other', 'Access: '],
                 ['Program: # "SORTING" Test: 2', 'Contributing Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
                 ['Program: A Sorting Test: 100', 'Contributing Organization: WNYC', 'Media Type: Moving Image', 'Access: '],
+                ['Title: This Title is Alterna', 'Copyright Date: 2006-10-23', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],                
                 ['Episode: Touchstone 108', 'Contributing Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
                 ['Program: Unknown', 'Contributing Organization: WIAA', 'Media Type: Sound', 'Access: '],
                 ['Program: Winston Churchill Obi', 'Broadcast: 1958-00-00', 'Contributing Organization: KQED, Library of Cong', 'Media Type: Moving Image', 'Access: '],
@@ -346,11 +352,14 @@ describe 'Catalog' do
                 ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Contributing Organization: WXPN', 'Media Type: Sound', 'Access: '],
                 ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Contributing Organization: WXPN', 'Media Type: Sound', 'Access: '],
                 ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Contributing Organization: WNYC', 'Media Type: Sound', 'Access: '],
-                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Contributing Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum II', 'Episode Number: 43', 'Episode Number: 25', 'Episode: Writers Writing Again', 'Episode: Readers Reading Again', 'Copyright Date: 2007-10-15', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
+                ['Series: Writers Forum II', 'Series: Readers Forum', 'Episode Number: 42', 'Episode Number: 24', 'Episode: Writers Writing', 'Episode: Readers Reading', 'Copyright Date: 2007-10-13', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
                 ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Contributing Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
                 ['Series: 1974 Nixon Impeachmen', 'Episode: 1974-07-26', 'Segment: Part 3 of 6', 'Broadcast: 1974-07-26', 'Producing Organization: National Public Affai', 'Contributing Organization: Library of Congress', 'Media Type: Moving Image', 'Access: Online Reading Room']
               ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml
+            # rubocop:enable LineLength
           end
           # rubocop:enable LineLength
         end

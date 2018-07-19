@@ -29,8 +29,8 @@ describe 'API' do
       expect(page).to have_text('my_callback({ "responseHeader"')
       expect(page).to have_text('"rows": "0"')
       expect(page).to have_text('"year:1988 AND iowa": 1')
-      expect(page).to have_text('"numFound": 40')
-      expect(page).to have_text('"1974", 4, "1958", 2, "1987", 2, "1961", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2007", 1')
+      expect(page).to have_text('"numFound": 41')
+      expect(page).to have_text('"1974", 3, "2007", 3, "1987", 2, "1958", 1, "1961", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2006", 1')
     end
 
     it 'searches documents / json, not jsonp' do
