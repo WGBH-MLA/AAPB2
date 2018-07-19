@@ -22,7 +22,8 @@
     <instantiationDuration>00:28:50</instantiationDuration>
     <instantiationTracks>Audio: tracks</instantiationTracks>
     <instantiationAnnotation annotationType='Alternate Generation'>Radio program (Master)</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">WGBH</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-22 16:27:47</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WGBH</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

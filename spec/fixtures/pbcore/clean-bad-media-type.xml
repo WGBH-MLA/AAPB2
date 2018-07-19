@@ -18,7 +18,8 @@
       <essenceTrackEncoding source='pdf'>pdf</essenceTrackEncoding>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType='Alternate Format'>Hard Drive: USB</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">KXCI Community Radio</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-17 17:28:33</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>KXCI Community Radio</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">KXCI Community Radio</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

@@ -544,7 +544,9 @@
           type="string" indexed="true" stored="false" multiValued="false"/>
    <field name="asset_type"
           type="string" indexed="true" stored="false" multiValued="false"/>
-   <field name="organizations"
+   <field name="contributing_organizations"
+          type="string" indexed="true" stored="false" multiValued="true"/>
+   <field name="producing_organizations"
           type="string" indexed="true" stored="false" multiValued="true"/>
    <field name="genres"
           type="string" indexed="true" stored="false" multiValued="true"/>

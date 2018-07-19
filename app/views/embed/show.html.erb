@@ -30,22 +30,19 @@
     </section>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-6 embed-data">
-    <dt>Title</dt>
-      <dl>
-        <dd>
-          <a data-no-turbolink="true" href="/catalog/<%= @pbcore.id %>"><%= @pbcore.title %></a>
-        </dd>
-      </dl>
-    <% unless @pbcore.organization_objects.empty? %>
-      <dl>
-        <dt>Contributing Organization</dt>
-        <% @pbcore.organization_objects.each do |org|%>
+    <dl>
+      <dt>Title</dt>
+      <dd>
+        <a data-no-turbolink="true" href="/catalog/<%= @pbcore.id %>"><%= @pbcore.title %></a>
+      </dd>
+    </dl>
+    <dl>
+      <dt>Contributing Organization</dt>
+        <% @pbcore.contributing_organization_objects.each do |org| %>
           <dd><a href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
-          (<%= org.city %>, <%= org.state %>)</dd>
+            (<%= org.city %>, <%= org.state %>)</dd>
         <% end %>
-      </dl>
-    <% end %>
-
+    </dl>
     <% unless @pbcore.asset_dates.empty? %>
       <dl>
         <% @pbcore.asset_dates.each do |type,date| %>

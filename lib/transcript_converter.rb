@@ -4,7 +4,7 @@ require 'nokogiri'
 class TranscriptConverter
   def self.json_to_html(json)
     Nokogiri::XML::Builder.new do |x|
-      x.div(class: 'transcript content') do
+      x.div(class: 'root') do
         para_counter = 1
         aggregate_transcript_parts(JSON.parse(json)).each do |part|
           x.div(class: 'transcript-row') do
@@ -22,12 +22,12 @@ class TranscriptConverter
           para_counter += 1
         end
       end
-    end.to_xml.gsub("<?xml version=\"1.0\"?>\n", '')
+    end.doc.root.children.to_html
   end
 
   def self.text_to_html(text)
     Nokogiri::XML::Builder.new do |x|
-      x.div(class: 'transcript content') do
+      x.div(class: 'root') do
         para_counter = 1
         text.each_line do |line|
           line = line.tr("\n", '')
@@ -44,7 +44,7 @@ class TranscriptConverter
           para_counter += 1
         end
       end
-    end.to_xml.gsub("<?xml version=\"1.0\"?>\n", '')
+    end.doc.root.children.to_html
   end
 
   def self.as_timestamp(s)

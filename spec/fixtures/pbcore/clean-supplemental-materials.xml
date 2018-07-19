@@ -46,6 +46,7 @@ Throughout the interview, Turner explains that she believes the Civil War necess
     <instantiationDuration>0:38:24</instantiationDuration>
     <instantiationLanguage>eng</instantiationLanguage>
     <instantiationAnnotation>DPX master is a folder of DPX images that has an associated WAV file containing the film's audio track.</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21.mov</instantiationIdentifier>
@@ -90,6 +91,7 @@ Throughout the interview, Turner explains that she believes the Civil War necess
       <essenceTrackLanguage>eng</essenceTrackLanguage>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType="encoded by">Apple QuickTime</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21.mp4</instantiationIdentifier>
@@ -138,6 +140,7 @@ Throughout the interview, Turner explains that she believes the Civil War necess
     <instantiationAnnotation annotationType="encoded by">Lavf57.41.100</instantiationAnnotation>
     <instantiationAnnotation annotationType="Preservation LTO">AB0001</instantiationAnnotation>
     <instantiationAnnotation annotationType="Preservation Disk">ABDISK0002</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21_REDACT.mp4</instantiationIdentifier>
@@ -168,6 +171,7 @@ Throughout the interview, Turner explains that she believes the Civil War necess
       <essenceTrackLanguage>eng</essenceTrackLanguage>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType="encoded by">Lavf57.71.100</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType="Project Code">KB0002</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>

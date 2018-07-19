@@ -27,7 +27,8 @@
     <instantiationLocation>mini</instantiationLocation>
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations/>
+    <instantiationAnnotation annotationType="organization">WNYC-FM</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-18 12:07:13</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>WNYC-FM</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WNYC-FM</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

@@ -26,7 +26,8 @@
     <instantiationMediaType>Sound</instantiationMediaType>
     <instantiationGenerations>Original</instantiationGenerations>
     <instantiationDuration>00:55:49</instantiationDuration>
+    <instantiationAnnotation annotationType="organization">WERU-FM (WERU Community Radio)</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-03 01:50:55</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>WERU-FM (WERU Community Radio)</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WERU-FM (WERU Community Radio)</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

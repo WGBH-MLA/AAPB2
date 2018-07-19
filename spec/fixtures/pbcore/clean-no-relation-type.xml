@@ -31,6 +31,7 @@
     <instantiationDuration>00:28:50</instantiationDuration>
     <instantiationLanguage>eng</instantiationLanguage>
     <instantiationAnnotation annotationType='issued'>12-25-1982</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Iowa Public Television</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source='American Archive Pilot Project'>iptvtst_19821225_108_DV25</instantiationIdentifier>
@@ -38,6 +39,7 @@
     <instantiationLocation>Iowa Public Television</instantiationLocation>
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType="organization">Iowa Public Television</instantiationAnnotation>
     <instantiationExtension>
       <extensionWrap>
         <extensionElement>AACIP Record Nomination Status</extensionElement>
@@ -47,5 +49,5 @@
     </instantiationExtension>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2014-07-31 19:53:13</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>Iowa Public Television</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Iowa Public Television</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

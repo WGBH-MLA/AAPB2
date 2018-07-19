@@ -31,7 +31,8 @@
     <instantiationDuration>00:30:00?</instantiationDuration>
     <instantiationLanguage>eng</instantiationLanguage>
     <instantiationAnnotation annotationType='date created'>11/1999</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Maryland Public Television</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-17 14:09:28</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>Maryland Public Television</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Maryland Public Television</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

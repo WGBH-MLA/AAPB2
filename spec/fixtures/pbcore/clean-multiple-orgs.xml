@@ -40,7 +40,6 @@
   </pbcoreInstantiation>
     <pbcoreInstantiation>
     <instantiationIdentifier source="MAVIS Title Number">2316780</instantiationIdentifier>
-    <instantiationPhysical>Film: 16mm</instantiationPhysical>
     <instantiationLocation>Culpepper</instantiationLocation>
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Access Copy</instantiationGenerations>
@@ -49,9 +48,9 @@
     <instantiationAnnotation>Copy 1</instantiationAnnotation>
     <instantiationAnnotation annotationType="organization">Library of Congress</instantiationAnnotation>
   </pbcoreInstantiation>
-      <pbcoreInstantiation>
+  <pbcoreInstantiation>
     <instantiationIdentifier source="MAVIS Title Number">2316780</instantiationIdentifier>
-    <instantiationPhysical>Film: 16mm</instantiationPhysical>
+    <instantiationDigital>mp4</instantiationDigital>
     <instantiationLocation>Culpepper</instantiationLocation>
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Access Copy</instantiationGenerations>

@@ -1,0 +1,28 @@
+<!-- TO DO: Think of a better way to do this. -->
+<% dt_id = dt.gsub(' ','-') %>
+<dl class="panel">
+  <div class="panel-heading">
+    <dt data-toggle="collapse" data-parent="#accordion" href="#collapse<%= dt_id %>"><span class="glyphicon glyphicon-chevron-down glyph-<%= dt_id %>"></span><%= "#{dt}" %></dt>
+  </div>
+  <div id="collapse<%= dt_id %>" class="panel-collapse collapse <% if collapse == false %>in<% end %>">
+    <div class="panel-body">
+      <%= body %>
+    </div>
+  </div>
+</dl>
+
+<script>
+  $(document).ready(function(){
+    // Add up icon for collapse element which is open by default
+    $(".collapse.in").each(function(){
+      $(this).siblings(".panel-heading").find(".glyph-<%= dt_id %>").addClass("glyphicon-chevron-up").removeClass("glyphicon-chevron-down");
+    });
+
+    // Toggle up/down icon on show hide of collapse element
+    $(".collapse").on('show.bs.collapse', function(){
+      $(this).parent().find(".glyph-<%= dt_id %>").removeClass("glyphicon-chevron-down").addClass("glyphicon-chevron-up");
+    }).on('hide.bs.collapse', function(){
+      $(this).parent().find(".glyph-<%= dt_id %>").removeClass("glyphicon-chevron-up").addClass("glyphicon-chevron-down");
+    });
+  });
+</script>

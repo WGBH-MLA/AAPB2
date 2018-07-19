@@ -68,7 +68,7 @@ module ToMods
           end
         end
 
-        organization_names.each do |org_name|
+        contributing_organization_names.each do |org_name|
           x.location do
             x.physicalLocation(org_name)
           end

@@ -127,21 +127,22 @@ describe 'Validated and plain PBCore' do
                      'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.',
                      'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions',
                      'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music',
-                     'Nova', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious',
+                     'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious',
                      'hair', 'musicals -- horror', 'somewhere else',
                      "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
-          'contribs' => %w(Larry Stooges Curly Stooges Moe Stooges),
+          'contribs' => %w(Larry WGBH Stooges Stooges Curly Stooges Moe Stooges),
           'year' => '2000',
           'exhibits' => [],
           'media_type' => 'Moving Image',
           'genres' => ['Call-in'],
           'topics' => ['Music'],
           'asset_type' => 'Album',
-          'organizations' => ['WGBH (MA)'],
+          'contributing_organizations' => ['WGBH (MA)'],
           'playlist_group' => nil,
           'playlist_order' => 0,
+          'producing_organizations' => ['WGBH'],
           'states' => ['Massachusetts'],
           'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
           # TODO: UI will transform internal representation.
@@ -187,6 +188,8 @@ describe 'Validated and plain PBCore' do
         playlist_prev_id: nil,
         reference_urls: ['http://www.wgbh.org/'],
         private?: false,
+        producing_organizations: [PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')],
+        producing_organizations_facet: ['WGBH'],
         protected?: false,
         public?: true,
         access_level_description: 'Online Reading Room',
@@ -197,13 +200,13 @@ describe 'Validated and plain PBCore' do
         digitized?: true,
         subjects: ['explosions -- gratuitious', 'musicals -- horror'],
         supplemental_content: [],
-        creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
+        creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'), PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')],
         contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
         publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')],
-        organization_names: ['WGBH'],
-        organizations_facet: ['WGBH (MA)'],
-        organization_names_display: ['WGBH'],
-        organization_objects: [Organization.find_by_pbcore_name('WGBH')],
+        contributing_organization_names: ['WGBH'],
+        contributing_organizations_facet: ['WGBH (MA)'],
+        contributing_organization_names_display: ['WGBH'],
+        contributing_organization_objects: [Organization.find_by_pbcore_name('WGBH')],
         states: ['Massachusetts']
       }
 
@@ -337,21 +340,21 @@ describe 'Validated and plain PBCore' do
       end
     end
 
-    describe 'pbcore object with multiple organizations and states' do
+    describe 'pbcore object with multiple contributing organizations and states' do
       it 'returns multiple organizations and states' do
         pbc = PBCore.new(pbc_multi_org)
 
         expected_attrs = {
-          'organization_names' => ['Library of Congress', 'KQED'],
-          'organizations_facet' => ['Library of Congress (DC)', 'KQED (CA)'],
-          'organization_objects' => [Organization.find_by_pbcore_name('Library of Congress'), Organization.find_by_pbcore_name('KQED')],
-          'states' => ['District of Columbia', 'California']
+          'contributing_organization_names' => ['KQED', 'Library of Congress'],
+          'contributing_organizations_facet' => ['KQED (CA)', 'Library of Congress (DC)'],
+          'contributing_organization_objects' => [Organization.find_by_pbcore_name('KQED'), Organization.find_by_pbcore_name('Library of Congress')],
+          'states' => ['California', 'District of Columbia']
         }
 
         attrs = {
-          'organization_names' => pbc.organization_names,
-          'organizations_facet' => pbc.organizations_facet,
-          'organization_objects' => pbc.organization_objects,
+          'contributing_organization_names' => pbc.contributing_organization_names,
+          'contributing_organizations_facet' => pbc.contributing_organizations_facet,
+          'contributing_organization_objects' => pbc.contributing_organization_objects,
           'states' => pbc.states
         }
 

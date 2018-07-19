@@ -1,0 +1,96 @@
+<dl>
+  <% @pbcore.descriptions.each do |description| %>
+    <dd><%= description %></dd>
+  <% end %>
+</dl>
+
+<% unless @pbcore.asset_dates.empty? %>
+  <dl>
+    <% @pbcore.asset_dates.each do |type,date| %>
+      <dt><%= type %></dt>
+      <dd><%= date %></dd>
+    <% end %>
+  </dl>
+<% end %>
+
+<% if @pbcore.asset_type %>
+  <dl>
+    <dt>Asset type</dt>
+    <dd><%= @pbcore.asset_type %></dd>
+  </dl>
+<% end %>
+
+<% unless @pbcore.genres.empty? %>
+  <dl>
+    <dt>Genres</dt>
+    <% @pbcore.genres.each do |genre| %>
+      <dd><a href="/catalog?f[genres][]=<%= CGI::escape(genre) %>"><%= genre %></a></dd>
+    <% end %>
+  </dl>
+<% end %>
+
+<% unless @pbcore.topics.empty? %>
+  <dl>
+    <dt>Topics</dt>
+    <% @pbcore.topics.each do |topic| %>
+      <dd><a href="/catalog?f[topics][]=<%= CGI::escape(topic) %>"><%= topic %></a></dd>
+    <% end %>
+  </dl>
+<% end %>
+
+<% unless @pbcore.subjects.empty? %>
+  <dl>
+    <dt>Subjects</dt>
+    <dd><%= @pbcore.subjects.join('; ') %></dd>
+  </dl>
+<% end %>
+
+<% {
+  'Creator'=> @pbcore.creators,
+  'Contributor'=> @pbcore.contributors,
+  'Publisher'=> @pbcore.publishers
+  }.select{|label,list| !list.empty?}.each do |label,list| %>
+  <dl>
+    <dt><%= label %></dt>
+    <% list.each do |c| %>
+      <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+    <% end %>
+  </dl>
+<% end %>
+
+<% unless @pbcore.rights_summaries.nil? || @pbcore.rights_summaries.empty?  %>
+  <dl>
+    <dt>Rights</dt>
+    <% @pbcore.rights_summaries.each do |right| %>
+      <dd><%= right %></dd>
+    <% end %>
+  </dl>
+<% end %>
+
+<dl>
+  <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
+</dl>
+
+<% if @pbcore.duration %>
+  <dl>
+    <dt>Duration</dt>
+    <dd><%= @pbcore.duration %></dd>
+  </dl>
+<% end %>
+
+<% if @pbcore.public? %>
+   <dl style="display:none;"><%# TODO: remove style when ready to go. %>
+    <dt>Embed Code</dt>
+    <dd>
+      <input style="width: 100%; font-family: monospace;"
+               value="&lt;iframe src='<%=
+                  url_for(controller: 'embed', action: 'show', id: params[:id], only_path: false)
+               %>' width='<%= @pbcore.player_specs[0] %>' height='<%= @pbcore.player_specs[1] %>'
+               style='border: 0;'&gt;&lt;/iframe&gt;"
+               onclick="this.select();" />
+      <div class="well well-sm">
+        <small>Copy and paste this HTML to include AAPB content on your blog or webpage.</small>
+      </div>
+    </dd>
+  </dl>
+<% end %>

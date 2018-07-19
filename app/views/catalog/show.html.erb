@@ -1,4 +1,7 @@
 <% content_for :head do %>
+  <%= javascript_include_tag 'transcript' %>
+  <%= javascript_include_tag 'mobile-transcript' %>
+
   <meta property="og:title" content="<%= @pbcore.title %>" />
   <meta property="og:url" content="http://americanarchive.org/catalog/<%= @pbcore.id %>" />
   <meta property="og:type" content="<%=
@@ -50,9 +53,9 @@
       <%= render partial: 'catalog/player' %>
     <% else %>
       <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
-      <div style="margin-top: 1em;">
+      <div style="margin-top: 1em;" class="content-text">
         <% if @pbcore.outside_url %>
-          <% @pbcore.organization_objects.each do |org| %>
+          <% @pbcore.contributing_organization_objects.each do |org| %>
             <%= link_to(
               "#{@pbcore.video? ? 'View' : 'Listen'} online at #{org.short_name}.",
               @pbcore.outside_url,
@@ -69,9 +72,9 @@
           Please note: This content is only available at
           the Library of Congress. For information about on location research,
           <a href="/on-location">click here</a>.
-        <% elsif !@pbcore.digitized? && !@pbcore.organization_objects.empty? %>
+        <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
           This content has not been digitized. Please contact the contributing organization(s) listed below.
-        <% elsif !@pbcore.digitized? && @pbcore.organization_objects.empty? %>
+        <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
           This content has not been digitized.
         <% end %>
 
@@ -82,15 +85,19 @@
     <% end %>
   </div>
 
-  <div class="alert alert-info col-md-12">
-    <% @pbcore.ids.first[1].tap do |id| %>
-      If you have more information about this item than what is given here, we want to know!
-      <a href="mailto:sadie_roosa@wgbh.org">Contact us</a>,
-      indicating the AAPB ID (<%= id %>).
+  <div class="col-md-4 catalog-show-left-col">
+    <% if @show_transcript %>
+      <dl class="panel hidden-sm hidden-xs">
+        <div class="transcript-panel-heading">
+          <dt>Transcript</dt>
+          <div class="transcript-slide show-transcript" style="cursor: pointer;">
+            Hide<span class="transcript-circle">-</span>
+          </div>
+        </div>
+      </dl>
+      <%= render partial: 'mobile_transcript' %>
     <% end %>
-  </div>
 
-  <div class="col-md-4">
     <% @pbcore.titles.each do |type,title| %>
       <dl>
         <dt><%= type %></dt>
@@ -102,10 +109,19 @@
       </dl>
     <% end %>
 
-    <% unless @pbcore.organization_objects.empty? %>
+    <% unless @pbcore.producing_organizations_facet.nil? %>
+      <dl>
+        <dt>Producing Organization</dt>
+        <% @pbcore.producing_organizations_facet.each do |org|%>
+          <dd><%= org %></dd>
+        <% end %>
+      </dl>
+    <% end %>
+
+    <% unless @pbcore.contributing_organization_objects.empty? %>
       <dl>
         <dt>Contributing Organization</dt>
-        <% @pbcore.organization_objects.each do |org|%>
+        <% @pbcore.contributing_organization_objects.each do |org|%>
           <dd><a href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
           (<%= org.city %>, <%= org.state %>)</dd>
         <% end %>
@@ -126,132 +142,22 @@
         <li class="supplemental-link"><a href='<%= content[0] %>' target="_blank"><%= content[1] %></a></li>
       <% end %>
     <% end %>
+
+    <div class="catalog-alert">
+      <div class="catalog-alert-text">
+        <% @pbcore.ids.first[1].tap do |id| %>
+          If you have more information about this item than what is given here, we want to know! <a href="mailto:sadie_roosa@wgbh.org">Contact us</a>, indicating the AAPB ID (<%= id %>).
+        <% end %>
+      </div>
+    </div>
   </div>
 
   <div class="col-md-8">
+    <%= render partial: "catalog/accordion/accordion", locals: { dt: "Description", body: render(partial: 'catalog/accordion/description'), collapse: false } %>
 
-    <dl>
-      <dt>Description</dt>
-      <% @pbcore.descriptions.each do |description| %>
-        <dd><%= description %></dd>
-      <% end %>
-    </dl>
+    <%= render partial: "catalog/accordion/accordion", locals: { dt: "AAPB Contributor Holdings", body: render(partial: 'catalog/accordion/holdings'), collapse: true } %>
 
-    <% unless @pbcore.asset_dates.empty? %>
-      <dl>
-        <% @pbcore.asset_dates.each do |type,date| %>
-          <dt><%= type %></dt>
-          <dd><%= date %></dd>
-        <% end %>
-      </dl>
-    <% end %>
-
-    <% if @pbcore.asset_type %>
-      <dl>
-        <dt>Asset type</dt>
-        <dd><%= @pbcore.asset_type %></dd>
-      </dl>
-    <% end %>
-
-    <% unless @pbcore.genres.empty? %>
-      <dl>
-        <dt>Genres</dt>
-        <% @pbcore.genres.each do |genre| %>
-          <dd><a href="/catalog?f[genres][]=<%= CGI::escape(genre) %>"><%= genre %></a></dd>
-        <% end %>
-      </dl>
-    <% end %>
-
-    <% unless @pbcore.topics.empty? %>
-      <dl>
-        <dt>Topics</dt>
-        <% @pbcore.topics.each do |topic| %>
-          <dd><a href="/catalog?f[topics][]=<%= CGI::escape(topic) %>"><%= topic %></a></dd>
-        <% end %>
-      </dl>
-    <% end %>
-
-    <% unless @pbcore.subjects.empty? %>
-      <dl>
-        <dt>Subjects</dt>
-        <dd><%= @pbcore.subjects.join('; ') %></dd>
-      </dl>
-    <% end %>
-
-    <% {
-      'Creator'=> @pbcore.creators,
-      'Contributor'=> @pbcore.contributors,
-      'Publisher'=> @pbcore.publishers
-      }.select{|label,list| !list.empty?}.each do |label,list| %>
-      <dl>
-        <dt><%= label %></dt>
-        <% list.each do |c| %>
-          <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
-        <% end %>
-      </dl>
-    <% end %>
-
-    <% unless @pbcore.rights_summaries.nil? || @pbcore.rights_summaries.empty?  %>
-      <dl>
-        <dt>Rights</dt>
-        <% @pbcore.rights_summaries.each do |right| %>
-          <dd><%= right %></dd>
-        <% end %>
-      </dl>
-    <% end %>
-
-    <dl>
-      <dt>Media type</dt><dd><%= @pbcore.media_type %></dd>
-    </dl>
-
-    <% if @pbcore.duration %>
-      <dl>
-        <dt>Duration</dt>
-        <dd><%= @pbcore.duration %></dd>
-      </dl>
-    <% end %>
-
-    <% if @pbcore.public? %>
-       <dl style="display:none;"><%# TODO: remove style when ready to go. %>
-        <dt>Embed Code</dt>
-        <dd>
-          <input style="width: 100%; font-family: monospace;"
-                   value="&lt;iframe src='<%=
-                      url_for(controller: 'embed', action: 'show', id: params[:id], only_path: false)
-                   %>' width='<%= @pbcore.player_specs[0] %>' height='<%= @pbcore.player_specs[1] %>'
-                   style='border: 0;'&gt;&lt;/iframe&gt;"
-                   onclick="this.select();" />
-          <div class="well well-sm">
-            <small>Copy and paste this HTML to include AAPB content on your blog or webpage.</small>
-          </div>
-        </dd>
-      </dl>
-    <% end %>
-
-
-    <dl>
-      <% url = "http://americanarchive.org/catalog/#{@pbcore.id}" %>
-      <% today = Date.today.to_formatted_s(:long) %>
-      <% org = ( @pbcore.organization_names_display.empty? ? '' : @pbcore.organization_names_display.join(', ') + ', ' ) + 'American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
-
-      <dt>Citation</dt>
-      <dd><em>Chicago</em>:
-        &ldquo;<%= @pbcore.title %>,&rdquo;
-        <%= @pbcore.asset_date + ',' if @pbcore.asset_date %>
-        <%= org %>,
-        accessed <%= today %>,
-        <%= url %>.</dd>
-      <dd><em>MLA</em>:
-        &ldquo;<%= @pbcore.title %>.&rdquo;
-        <%= @pbcore.asset_date + '.' if @pbcore.asset_date %>
-        <%= org %>.
-        Web. <%= today %>.
-        &lt;<%= url %>&gt;.</dd>
-      <dd><em>APA</em>:
-        <%= @pbcore.title %>.
-        Boston, MA: <%= org %>.
-        Retrieved from <%= url %></dd>
-    </dl>
+    <%= render partial: "catalog/accordion/accordion", locals: { dt: "Citations", body: render(partial: 'catalog/accordion/citations'), collapse: true } %>
   </div>
 <% end %>
 

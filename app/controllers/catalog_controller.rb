@@ -69,16 +69,23 @@ class CatalogController < ApplicationController
     config.add_facet_field 'states',  solr_params: { 'facet.limit' => -1 },
                                       show: false,
                                       tag: 'state'
-    config.add_facet_field 'organizations', sort: 'index',
-                                            solr_params: { 'facet.limit' => -1 },
-                                            # Default is 100, but we have more orgs than that. -1 means no limit.
-                                            tag: 'org',
-                                            ex: 'org,state',
-                                            partial: 'organizations_facet',
-                                            collapse: :force
+    config.add_facet_field 'contributing_organizations', sort: 'index',
+                                                         solr_params: { 'facet.limit' => -1 },
+                                                         # Default is 100, but we have more orgs than that. -1 means no limit.
+                                                         tag: 'org',
+                                                         ex: 'org,state',
+                                                         partial: 'contributing_organizations_facet',
+                                                         collapse: :force
+    config.add_facet_field 'producing_organizations', sort: 'index',
+                                                      solr_params: { 'facet.limit' => -1 },
+                                                      tag: 'producing_org',
+                                                      ex: 'producing_org',
+                                                      partial: 'producing_organizations_facet',
+                                                      collapse: :force
     # Display all, even when one is selected.
     config.add_facet_field 'year',  sort: 'index',
-                                    range: true, message: 'Cataloging in progress: only half of the records for digitized assets are currently dated.'
+                                    range: true,
+                                    message: 'Cataloging in progress: only half of the records for digitized assets are currently dated.'
     config.add_facet_field 'access_types',  label: 'Access',
                                             partial: 'access_facet',
                                             tag: 'access',
@@ -188,7 +195,6 @@ class CatalogController < ApplicationController
 
         if can? :play, @pbcore
           if @pbcore.transcript_status == PBCore::ORR_TRANSCRIPT || @pbcore.transcript_status == PBCore::ON_LOCATION_TRANSCRIPT
-
             @transcript_html = TranscriptFile.new(params['id']).html
             @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
             @show_transcript = true

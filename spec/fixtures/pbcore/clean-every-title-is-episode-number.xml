@@ -22,6 +22,7 @@
     <instantiationChannelConfiguration>Ch 1 MOS; Ch 2 Full Mix</instantiationChannelConfiguration>
     <instantiationLanguage>eng</instantiationLanguage>
     <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationAnnotation annotationType="organization">Iowa Public Television</instantiationAnnotation>
     <instantiationExtension>
       <extensionWrap>
         <extensionElement>AACIP Record Nomination Status</extensionElement>
@@ -66,6 +67,7 @@
       <essenceTrackDuration>00:29:04</essenceTrackDuration>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType='encoded by'>OpenCube MXFTk Advanced 2.4.6.0.1</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Iowa Public Television</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source='mediainfo'>cpb-aacip-37-16c2fsnr.h264.mov</instantiationIdentifier>
@@ -110,6 +112,7 @@
       <essenceTrackLanguage>eng</essenceTrackLanguage>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Iowa Public Television</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source='mediainfo'>cpb-aacip-37-16c2fsnr.mpeg2.mxf</instantiationIdentifier>
@@ -152,8 +155,9 @@
       <essenceTrackEncoding source='mediainfo'>EIA-708</essenceTrackEncoding>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType='encoded by'>OC OCTk 2.4</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Iowa Public Television</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-02 06:33:17</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>Iowa Public Television</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Iowa Public Television</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

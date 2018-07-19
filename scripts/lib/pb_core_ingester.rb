@@ -45,7 +45,6 @@ class PBCoreIngester
       record_error(e, path)
       return
     end
-
     @md5s_seen = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.

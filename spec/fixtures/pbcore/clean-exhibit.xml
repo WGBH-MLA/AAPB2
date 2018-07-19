@@ -54,6 +54,7 @@
     <instantiationDuration>01:00:00?</instantiationDuration>
     <instantiationChannelConfiguration>Ch 1 MOS; Ch 2 Full Mix</instantiationChannelConfiguration>
     <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationAnnotation annotationType="organization">Arkansas Educational TV Network (AETN)</instantiationAnnotation>
     <instantiationExtension>
       <extensionWrap>
         <extensionElement>AACIP Record Nomination Status</extensionElement>
@@ -105,10 +106,11 @@
       <essenceTrackLanguage>eng</essenceTrackLanguage>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType="encoded by">Apple QuickTime</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Arkansas Educational TV Network (AETN)</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='Transcript Status'>Online Reading Room Transcript</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='last_modified'>2015-04-27 12:11:52</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>Arkansas Educational TV Network (AETN)</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Arkansas Educational TV Network (AETN)</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

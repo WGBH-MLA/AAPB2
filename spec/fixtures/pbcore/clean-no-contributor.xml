@@ -21,7 +21,8 @@
     <instantiationGenerations>Original recording</instantiationGenerations>
     <instantiationAnnotation>1977-13-08</instantiationAnnotation>
     <instantiationAnnotation annotationType='Alternate Generation'>master, original recording</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">WIAA-FM</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-07-11 14:42:15</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>WIAA-FM</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WIAA-FM</pbcoreAnnotation>
 </pbcoreDescriptionDocument>
