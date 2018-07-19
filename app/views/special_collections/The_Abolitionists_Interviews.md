@@ -7,18 +7,19 @@
 ## Summary
 
 <em>The Abolitionists</em> Interview Collection is comprised of 51 raw interviews from the three-part series of the same name, which aired on PBS in 2013. The series follows the lives of prominent abolitionists like Frederick Douglass, John Brown, and Harriet Beecher Stowe, and explores differing and often conflicting approaches to abolishing slavery in the United States. <em>The Abolitionists</em> interviews examine the historical contexts of the subjects and their lasting legacy on American history and law. Interviews were conducted with authors, educators, and historians, including Manisha Sinha, Professor of Afro-American Studies at the University of Massachusetts, Amherst; James Brewer Stewart, Professor of History at Macalester College, and Founder of Historians Against Slavery; John Stauffer, author and Professor of English and African and African American Studies at Harvard University; and Lois Brown, Professor of African American Studies at Wesleyan University. Subjects discussed include abolition, slavery, racism, the Constitution, Christianity, civil rights, and the American Civil War. 
+
 ## Background
 
 <em>The Abolitionists</em> interviews were conducted in 2013 for the three-part series of the same name. Nominated for a Primetime Emmy for Outstanding Documentary or Nonfiction Series, Rob Rapley served as the director. In 2017, the WGBH Media Library and Archives digitized <em>The Abolitionists</em> interviews and in 2018 submitted them to the American Archive of Public Broadcasting.
 
 ## Featured
 
-[![Catherine Acholonu](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-f76639m612.jpg)](/catalog/cpb-aacip_15-f76639m612)
-[![Colin Powell](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-qj77s7jx63_1.jpg)](/catalog/cpb-aacip_15-qj77s7jx63)
-[![Margaret Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-c824b2z52k_1.jpg)](/catalog/cpb-aacip_15-c824b2z52k)
-[![Douglas Egerton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-d795718p1p_1.jpg)](/catalog/cpb-aacip_15-d795718p1p)
-[![Karen Hughes White](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-7m03x84j26_1.jpg)](/catalog/cpb-aacip_15-7m03x84j26)
-[![Jeffrey Leath](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-w950g3j70v_1.jpg)](/catalog/cpb-aacip_15-w950g3j70v)
+[![Manisha Sinha](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-0000000v9p.jpg)](/catalog/cpb-aacip_15-0000000v9p)
+[![James Brewer Stewart](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-3r0pr7nn3c.jpg)](/catalog/cpb-aacip_15-3r0pr7nn3c)
+[![Lois Brown](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-rj48p5wg3x.jpg)](/catalog/cpb-aacip_15-rj48p5wg3x)
+[![Erica Armstrong Dunbar](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-8c9r20sr9r.jpg)](/catalog/cpb-aacip_15-8c9r20sr9r)
+[![Carol Berkin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-jq0sq8rh44.jpg)](/catalog/cpb-aacip_15-jq0sq8rh44)
+[![John Stauffer](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-4q7qn6052q.jpg)](/catalog/cpb-aacip_15-4q7qn6052q)
 
 ## Resources
 
