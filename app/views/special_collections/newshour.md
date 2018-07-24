@@ -14,12 +14,12 @@ The *PBS NewsHour* Collection includes more than 8,000 episodes of *PBS NewsHour
 
 ## Featured
 
-[![The MacNeil/Lehrer Report Final Episode](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-6h4cn6zk79 .jpg)](/catalog/cpb-aacip_507-6h4cn6zk79)
 [![Vegetarian Thanksgiving](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-v40js9j21w.jpg)](/catalog/cpb-aacip_507-v40js9j21w)
-[![The MacNeil/Lehrer NewsHour First Episode](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-kp7tm72q9m.jpg)](/catalog/cpb-aacip_507-kp7tm72q9m)
 [![Carl Sagan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-5m6251g61q.jpg)](/catalog/cpb-aacip_507-5m6251g61q)
+[![Mikhail Gorbachev](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-kh0dv1dd19.jpg)](/catalog/cpb-aacip_507-kh0dv1dd19)
+[![Rap Music](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-bg2h708m29.jpg)](/catalog/cpb-aacip_507-bg2h708m29)
 [![Fidel Castro](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-348gf0nd1k.jpg)](/catalog/cpb-aacip_507-348gf0nd1k)
-[![Steve Jobs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-7m03x8471d.jpg)](/catalog/cpb-aacip_507-7m03x8471d)
+[![Library of Congress](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-610vq2ss0n.jpg)](/catalog/cpb-aacip_507-610vq2ss0n)
 
 ## Resources
 
