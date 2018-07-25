@@ -424,7 +424,7 @@ describe 'Catalog' do
       visit '/catalog/cpb-aacip-80-12893j6c'
       # No need to click through
       expect_all_the_text('clean-bad-essence-track.xml')
-      expect(page).to have_text('This content has not been digitized.')
+      expect(page).to have_text('Please note: This content is not currently available in the Online Reading Room.')
       expect_no_media
     end
 
@@ -459,7 +459,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_111-21ghx7d6'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-exhibit.xml')
-        expect(page).to have_text('only available at WGBH and the Library of Congress. ')
+        expect(page).to have_text('Please note: This content is currently not available at your location.')
         expect_no_media
       end
 
