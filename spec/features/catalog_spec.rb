@@ -76,12 +76,9 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       expect_count(1)
       [
-        '3-2-1',
-        'Kaboom!',
-        'Gratuitous Explosions',
-        'Series Nova',
-        'Date 2000-01-01',
-        '2000-01-01',
+        'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
+        'Date: 2000-01-01',
+        'Producing Organization: WGBH',
         'Best episode ever!'
       ].each do |field|
         expect(page).to have_text(field)
@@ -293,69 +290,66 @@ describe 'Catalog' do
         end
 
         describe 'sorting, title edge cases' do
-          # rubocop:disable LineLength
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&sort=title+asc&per_page=50"
           it 'works' do
             visit url
             expect(page.status_code).to eq(200)
             expect(
-              page.all('#documents/div').map do |doc|
-                doc.all('dl').map do |dl|
+              page.all('article').map do |art|
+                art.all('h2').map do |h|
                   begin
-                    "#{dl.find('dt').text}: #{dl.find('dd').text[0..20].strip}"
+                    h.text.to_s.strip
                   rescue
                     nil # TODO: Why are we getting elements which aren't in the source?
                   end
-                end.select { |x| x }.join('; ')
+                end
               end.join("\n")).to eq([
-                ['Program: Ask Governor Chris Gr', 'Contributing Organization: KUOW Puget Sound Publ', 'Media Type: Sound', 'Access: '],
-                ['Series: Askc: Ask Congress', 'Episode: #508', 'Contributing Organization: WHUT', 'Media Type: other', 'Access: '],
-                ['Program: Bob Brozman; Contributing Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
-                ['Series: The Civil War; Raw Footage: Interview with Daisy', 'Created: 1987-05-21', 'Contributing Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: The Civil War; Raw Footage: Interviews with Barba', 'Created: 1987-01-14', 'Contributing Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Dance for Camera; Program: Tzaddik; Episode Number: 102; Contributing Organization: WGBH; Media Type: Moving Image; Access: Accessible on locatio'],
-                ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Contributing Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
-                ['Title: Dry Spell', 'Contributing Organization: KQED', 'Media Type: Moving Image', 'Access: '],
-                ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Contributing Organization: WPBS', 'Media Type: Moving Image', 'Access: '],
-                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Contributing Organization: Film and Media Archiv', 'Media Type: Moving Image', 'Access: '],
-                ['Series: Gvsports', 'Media Type: other', 'Access: '],
-                ['Series: Japanese Brush Painti', 'Episode Number: 2', 'Episode: Fish', 'Broadcast: 1958-00-00', 'Producing Organization: KQED-TV (Television s', 'Contributing Organization: KQED', 'Media Type: Moving Image', 'Access: '],
-                ['Series: The Lost Year', 'Contributing Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
-                ['Series: The MacNeil/Lehrer Ne', 'Date: 1983-10-13', 'Contributing Organization: NewsHour Productions', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Making It Here; Episode Number: 105; Episode: Sweets', 'Date: 2003-01-22', 'Contributing Organization: WGBY', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Raw Footage: MSOM Field Tape - BUG', 'Contributing Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
-                ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Contributing Organization: Iowa Public Televisio', 'Media Type: Moving Image',
-                 'Access: Online Reading Room'],
-                ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Contributing Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 1 of 3', 'Broadcast: 1974-07-24', 'Contributing Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 2 of 3', 'Broadcast: 1974-07-24', 'Contributing Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 3 of 3', 'Broadcast: 1974-07-24', 'Contributing Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Producing Organization: WGBH', 'Contributing Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Origami; Episode Number: 7', 'Episode: Paper Ball', 'Broadcast: 1961-00-00', 'Media Type: other', 'Access: '],
-                ['Title: Podcast Release Form', 'Contributing Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
-                ['Title: Racing the Rez', 'Contributing Organization: Vision Maker Media', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
-                ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Contributing Organization: WGBH', 'Media Type: Sound', 'Access: '],
-                ['Title: The Scheewe Art Works', 'Contributing Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
-                ['Program: The Sorting Test: 1', 'Media Type: other', 'Access: '],
-                ['Program: # "SORTING" Test: 2', 'Contributing Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
-                ['Program: A Sorting Test: 100', 'Contributing Organization: WNYC', 'Media Type: Moving Image', 'Access: '],
-                ['Title: This Title is Alterna', 'Copyright Date: 2006-10-23', 'Media Type: Sound', 'Access: '],
-                ['Episode: Touchstone 108', 'Contributing Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
-                ['Program: Unknown', 'Contributing Organization: WIAA', 'Media Type: Sound', 'Access: '],
-                ['Program: Winston Churchill Obi', 'Broadcast: 1958-00-00', 'Contributing Organization: KQED, Library of Cong', 'Media Type: Moving Image', 'Access: '],
-                ['Program: World Cafe', 'Segment: Howard Kramer 2004', 'Contributing Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Contributing Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Contributing Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Contributing Organization: WNYC', 'Media Type: Sound', 'Access: '],
-                ['Series: Writers Forum II', 'Episode Number: 43', 'Episode Number: 25', 'Episode: Writers Writing Again', 'Episode: Readers Reading Again', 'Copyright Date: 2007-10-15', 'Media Type: Sound', 'Access: '],
-                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Copyright Date: 2007-09-13', 'Contributing Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
-                ['Series: Writers Forum II', 'Series: Readers Forum', 'Episode Number: 42', 'Episode Number: 24', 'Episode: Writers Writing', 'Episode: Readers Reading', 'Copyright Date: 2007-10-13', 'Media Type: Sound', 'Access: '],
-                ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Contributing Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
-                ['Series: 1974 Nixon Impeachmen', 'Episode: 1974-07-26', 'Segment: Part 3 of 6', 'Broadcast: 1974-07-26', 'Producing Organization: National Public Affai', 'Contributing Organization: Library of Congress', 'Media Type: Moving Image', 'Access: Online Reading Room']
+                ['Ask Governor Chris Gregoire'],
+                ['Askc: Ask Congress; #508'],
+                ['Bob Brozman'],
+                ['The Civil War; Interview with Daisy Turner'],
+                ['The Civil War; Interviews with Barbara Fields'],
+                ['Dance for Camera; Tzaddik; 102'],
+                ['Dr. Norman Borlaug; B-Roll'],
+                ['Dry Spell'],
+                ['Four Decades of Dedication: The 40th Anniversary Special; Handles missing titleTypes, too.'],
+                ['From Bessie Smith to Bruce Springsteen'],
+                ['Gvsports'],
+                ['Japanese Brush Painting; 2; Fish'],
+                ['The Lost Year'],
+                ['The MacNeil/Lehrer NewsHour'],
+                ['Making It Here; 105; Sweets'],
+                ['MSOM Field Tape - BUG 12'],
+                ['Musical Encounter; 116; Music for Fun'],
+                ['Musical Performance of Appalachian Folk Music in Kentucky'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3'],
+                ['Nova; Gratuitous Explosions; 3-2-1; Kaboom!'],
+                ['Origami; 7; Paper Ball'],
+                ['Podcast Release Form'],
+                ['Racing the Rez'],
+                ['Reading Aloud; MacLeod: The Palace Guard'],
+                ['The Scheewe Art Workshop'],
+                ['The Sorting Test: 1'],
+                ['# "SORTING" Test: 2'],
+                ['A Sorting Test: 100'],
+                ['This Title is Alternative'],
+                ['Touchstone 108'],
+                ['Unknown'],
+                ['Winston Churchill Obituary'],
+                ['World Cafe; Howard Kramer 2004'],
+                ['World Cafe; Larry Kane On John Lennon 2005'],
+                ['World Cafe; 1997-01-20 Sat/Mon; Martin Luther King, Jr. 1997'],
+                ['WQXR; This is My Music; Judd Hirsch'],
+                ['Writers Forum II; Writers Writing Again; Readers Reading Again'],
+                ['Writers Forum; WRF-09/13/07'],
+                ['Writers Writing; Readers Reading'],
+                ['15th Anniversary Show'],
+                ['1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']
               ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml
           end
-          # rubocop:enable LineLength
         end
       end
     end
@@ -417,7 +411,7 @@ describe 'Catalog' do
     it 'has default poster for audio that ' do
       visit 'catalog/cpb-aacip_169-9351chfc'
       expect_all_the_text('clean-audio-digitized.xml')
-      expect_audio(poster: '/thumbs/audio-digitized.jpg')
+      expect_audio(poster: '/thumbs/AUDIO.png')
     end
 
     it 'apologizes if no access' do

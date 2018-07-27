@@ -40,6 +40,17 @@
 	}
 }
 
+.index-thumb {
+	margin: 0 2px;
+}
+
+
+
+.index-data-title {
+	color: #8a1051;
+	font-weight: bold;
+}
+
 /* Image container */
 .blacklight-catalog .document .media-left {
 	padding-right:3%;
@@ -402,6 +413,19 @@ dl:after {
 @media (min-width: 700px) {
 	.videocontent {
 		min-height: 335px
+	}
+}
+
+
+@media (max-width: 767px) {
+	.thumbnail-col {
+		padding: 0 275px 0 0;
+	}
+}
+
+@media (max-width: 512px) {
+	.thumbnail-col {
+		padding: 0;
 	}
 }
 

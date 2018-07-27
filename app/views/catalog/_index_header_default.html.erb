@@ -8,13 +8,22 @@
         <div class="row">
 
           <!-- START Column -->
-          <div class="col-md-3">
-
-            <%= link_to(url_for_document(document))  do %>
-              <img src="<%= pbcore.img_src %>"
-                   class="media-object"
-                   aria-hidden="true"
-                   alt="thumbnail of <%= pbcore.title %>" />
+          <div class="col-md-3 thumbnail-col">
+            <%= link_to(url_for_document(document)) do %>
+              <div>
+                <img src="<%= pbcore.img_src %>"
+                     class="media-object index-thumb"
+                     aria-hidden="true"
+                     alt="thumbnail of <%= pbcore.title %>" />
+                <% if pbcore.media_type == PBCore::MOVING_IMAGE && pbcore.digitized? == true %>
+                  <div>
+                    <img src="/thumbs/VIDEO.png"
+                         class="index-thumb"
+                         aria-hidden="true"
+                         alt="play" />
+                  </div>
+                <% end %>
+              </div>
             <% end %>
 
           </div>
@@ -24,64 +33,16 @@
           <article class="col-md-9">
             <h2><%= link_to_document(document, pbcore.title) %></h2>
 
-            <% pbcore.descriptions.each do |description| %>
-              <p><%= truncate(description, length: 300, separator: '.') %></p>
-            <% end %>
-
-            <% pbcore.titles.each do |type,title| %>
-              <dl class="clearfix">
-                <dt><%= type %></dt>
-                <dd><%= title %></dd>
-              </dl>
-            <% end %>
-
-            <% pbcore.asset_dates.each do |type,date| %>
-              <dl class="clearfix">
-                <dt><%= type %></dt>
-                <dd><%= date %></dd>
-              </dl>
-            <% end %>
-
-            <% unless pbcore.producing_organizations_facet.nil? %>
-              <dl class="clearfix">
-                <dt>Producing Organization</dt>
-                <dd><%= pbcore.producing_organizations_facet.join(', ') %></dd>
-              </dl>
-            <% end %>
-
-            <% unless pbcore.contributing_organization_names_display.empty? %>
-              <dl class="clearfix">
-                <dt>Contributing Organization</dt>
-                <dd><%= pbcore.contributing_organization_names_display.join(', ') %></dd>
-              </dl>
-            <% end %>
-
-            <% if params[:q].present? && pbcore.captions_src != nil %>
-              <% CaptionFile.new(pbcore.id).captions_from_query(@query_for_captions).tap do |caption| %>
-
-                <% if caption != nil %>
-                  <dl class="clearfix">
-                    <dt>Captions</dt>
-                    <dd>
-                      <%= highlight(
-                        truncate(caption, length: 400, separator: '.'),
-                        @query_for_captions) %>
-                    </dd>
-                  </dl>
-                <% end %>
+              <% unless pbcore.asset_date.nil? %>
+                <span class="index-data-title">Date</span>: <%= pbcore.asset_dates.map{ |date| date[1] }.join(', ') %>
               <% end %>
-            <% end %>
 
-            <dl class="clearfix sr-only">
-              <dt>Media Type</dt>
-              <dd><%= pbcore.media_type %></dd>
-            </dl>
 
-            <dl class="clearfix sr-only">
-              <dt>Access</dt>
-              <dd><%= pbcore.access_level_description %> <%= link_to "More information", "/on-location" if pbcore.protected? %></dd>
-            </dl>
+              <% unless pbcore.producing_organizations_facet.nil? %>
+                <span class="index-data-title">Producing Organization</span>: <%= pbcore.producing_organizations_facet.join(', ') %>
+              <% end %>
 
+            <p><%= truncate(pbcore.descriptions[0], length: 500) + ( "..." if pbcore.descriptions[0].length > 500) %></p>
           </article>
           <!-- END Column -->
         </div>

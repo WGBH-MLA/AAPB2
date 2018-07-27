@@ -134,15 +134,15 @@ class PBCore # rubocop:disable Metrics/ClassLength
         # Mississippi IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
         "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
       when [MOVING_IMAGE, false]
-        '/thumbs/video-not-digitized.jpg'
+        '/thumbs/VIDEO_NOT_DIG.png'
       when [SOUND, true]
-        '/thumbs/audio-digitized.jpg'
+        '/thumbs/AUDIO.png'
       when [SOUND, false]
-        '/thumbs/audio-not-digitized.jpg'
+        '/thumbs/AUDIO_NOT_DIG.png'
       when [OTHER, true]
-        '/thumbs/other.jpg'
+        '/thumbs/OTHER.png'
       when [OTHER, false]
-        '/thumbs/other.jpg'
+        '/thumbs/OTHER.png'
       end
     # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
     # If these got moved to S3, that would need to change.
