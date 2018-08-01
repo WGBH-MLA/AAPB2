@@ -7,7 +7,7 @@
     end.sort.each do |state, options|
   %>
     <li>
-      <b><%= render_facet_value(display_facet.name,
+      <b><%= render_super_facet_value(display_facet.name,
                 OpenStruct.new(
                   label: state,
                   value: options.map { |o| o.value }.join(AAPB::QUERY_OR)

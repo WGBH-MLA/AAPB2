@@ -1,1 +1,4 @@
 inherit_from: .rubocop_todo.yml
+AllCops:
+  Exclude:
+    - 'app/helpers/blacklight/facets_helper_behavior.rb'
