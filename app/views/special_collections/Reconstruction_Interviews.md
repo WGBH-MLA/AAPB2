@@ -15,11 +15,11 @@ The <em>Reconstruction</em> interviews were conducted in 2004 for the <em>Americ
 ## Featured
 
 [![Clarence E. Walker](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-x05x63c885_1.jpg)](/catalog/cpb-aacip_15-x05x63c885)
-[![David W. Blight](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-2r3nv9b373.jpg)](/catalog/cpb-aacip_15-2r3nv9b373)
-[![Nell Irvin Painter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-cz3222s704.jpg)](/catalog/cpb-aacip_15-cz3222s704)
-[![Drew Gilpin Faust](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-5h7br8nc0c.jpg)](/catalog/cpb-aacip_15-5h7br8nc0c)
-[![Russell Duncan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-b56d21sg8d.jpg)](/catalog/cpb-aacip_15-b56d21sg8d)
-[![Eric Foner](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-ft8df6m363.jpg)](/catalog/cpb-aacip_15-ft8df6m363)
+[![David W. Blight](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-2r3nv9b373_1.jpg)](/catalog/cpb-aacip_15-2r3nv9b373)
+[![Nell Irvin Painter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-cz3222s704_1.jpg)](/catalog/cpb-aacip_15-cz3222s704)
+[![Drew Gilpin Faust](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-5h7br8nc0c_1.jpg)](/catalog/cpb-aacip_15-5h7br8nc0c)
+[![Russell Duncan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-b56d21sg8d_1.jpg)](/catalog/cpb-aacip_15-b56d21sg8d)
+[![Eric Foner](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-ft8df6m363_1.jpg)](/catalog/cpb-aacip_15-ft8df6m363)
 
 ## Resources
 
