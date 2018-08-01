@@ -128,19 +128,38 @@ input[type=checkbox].access-checkbox.checked + label.access-label {
   }
 }
 
-.facet_select {
-  padding: 0;
-  label:hover {
-    text-decoration: underline;
+li {
+  .facet_select {
+    padding: 0;
+    font-size: 14px;
+    font-weight: normal;
+    color: #3b509d;
+    label:hover {
+      text-decoration: underline;
+    }
+    .facet-count {
+      color: #999;
+      text-decoration: none;
+      display: inline-block;
+    }
+    a:link, a:visited {
+      color: #3b509d;
+      text-decoration: none;
+    }
+    input[type="radio"] {
+      margin-right: 10px;
+    }
   }
-  .facet-count {
+  .super_facet_select {
     font-weight: bold;
-    text-decoration: none;
-    display: inline-block;
+    font-size: 16px;
+    line-height: 18px;
   }
-  a {
-    text-decoration: none;
-  }
+}
+
+.facet-values .facet-count {
+  color: #999;
+  font-size: 14px;
 }
 
 .tooltip.in {

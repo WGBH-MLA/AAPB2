@@ -9,11 +9,10 @@
 }
 
 #facets h3 {
-  color: #fff;
+  color: #292d70;
   margin: 0;
-  font-size: 1.125em;
-  font-weight: 700;
-  line-height: 1.2em
+  font-size: 22px;
+  font-weight: bold;
 }
 
 ul.facet-list {
@@ -23,7 +22,11 @@ ul.facet-list {
 }
 
 .facet-values {
-  margin-top: 1.5em;
+  padding: 0px 15px;
+}
+
+.facet-values .facet-label {
+  padding: 6px 15px;
 }
 
 .panel {

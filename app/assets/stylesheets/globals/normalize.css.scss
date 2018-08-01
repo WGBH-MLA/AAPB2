@@ -211,7 +211,8 @@ blockquote {
  */
 h1 {
   /* Set the font-size and line-height while keeping a proper vertical rhythm. */
-  font-size: 2em;
+  font-size: 24px;
+  font-weight: lighter;
   line-height: 1.5em; /* 3rem / 2em = 1.5em */
   /* Set 1 unit of vertical rhythm on the top and bottom margins. */
   margin-top: 0.75em; /* 1.5rem / 2em = .75em */
@@ -241,17 +242,14 @@ h1 {
   .page-header {
     border:none;
     margin: 0 0 18px 0;
-    padding: 0;
   }
 
   .page-header h1 {
     background-color:#292A72; /* This is the default background color */
     color:#FFF;
-    font-size:1.5em;
-    font-weight:100;
-    line-height:40px;
+    font-size:24px;
     margin: 0;
-    padding: 0 1em;
+    padding: 18px 22px;
 
   }
 
@@ -723,8 +721,7 @@ table {
 
   /*Page HEader*/
   .page-header h1 {
-    font-size: 2em;
-    line-height:60px;
+    font-size: 24px;
   }
 
   /*Organization Title*/
