@@ -20,15 +20,16 @@ Moore Strong cpb-aacip-521-k06ww77z5p
 
 ## Resources
 
-[![Back In Time]( https://videos.oeta.tv/show/back-time/)
-[![Oklahoma City Bombing]( http://www.okhistory.org/publications/enc/entry.php?entry=OK026) 
-[![OETA Story on Oklahoma Statehood]( https://www.youtube.com/watch?v=riv41-1hBiE)
-[![Stateline Excerpt: Oklahoma Outlaws]( https://www.youtube.com/watch?v=Gr6V1MJeLjc)
-[! [Native Peoples of Oklahoma - Protecting Native American Communities - 4.2.4 OETA: White Man's Road]( https://www.youtube.com/watch?v=3IVDmeF1Lxc)
-[1921 Tulsa Race Riots](https://tulsahistory.org/learn/online-exhibits/the-tulsa-race-riot/)
-[![Storyboards] (https://npnweb.org/site/annualmeeting2014/wp-content/uploads/Reconciliation-Park-Story)
-[!Top Ten Deadliest Oklahoma Tornadoes (1882-Present)]( https://www.weather.gov/oun/tornadodata-ok-deadliest)
-[![Gateway to Women’s History] (http://twudigital.contentdm.oclc.org/cdm/landingpage/collection/p214coll2)
+- [Back In Time]( https://videos.oeta.tv/show/back-time/)
+- [Oklahoma City Bombing]( http://www.okhistory.org/publications/enc/entry.php?entry=OK026) 
+- [OETA Story on Oklahoma Statehood]( https://www.youtube.com/watch?v=riv41-1hBiE)
+- [Stateline Excerpt: Oklahoma Outlaws]( https://www.youtube.com/watch?v=Gr6V1MJeLjc)
+- [Native Peoples of Oklahoma - Protecting Native American Communities - 4.2.4 OETA: White Man's Road]( https://www.youtube.com/watch?v=3IVDmeF1Lxc)
+- [1921 Tulsa Race Riots](https://tulsahistory.org/learn/online-exhibits/the-tulsa-race-riot/)
+- [Storyboards](https://npnweb.org/site/annualmeeting2014/wp-content/uploads/Reconciliation-Park-Story)
+- [Top Ten Deadliest Oklahoma Tornadoes (1882-Present)]( https://www.weather.gov/oun/tornadodata-ok-deadliest)
+- [Gateway to Women’s History](http://twudigital.contentdm.oclc.org/cdm/landingpage/collection/p214coll2)
+
 
 ## Funders
 
