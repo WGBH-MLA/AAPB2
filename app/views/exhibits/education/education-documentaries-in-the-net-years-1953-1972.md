@@ -38,8 +38,9 @@ Much of the content distributed to local stations fell under the category of “
 
 In November 1964, the White Administration released the *N.E.T. Program Philosophy and Purpose*, which declared these goals for their public affairs programming,
 
-<blockquote>- To induce people to think critically about the important national and international issues confronting our society and, having thought, to act intelligently and democratically toward the resolution of these issues.
-- To help develop an informed, alert, active citizenry, jealous of its freedoms and conscious of its responsibilities.
+<blockquote>To induce people to think critically about the important national and international issues confronting our society and, having thought, to act intelligently and democratically toward the resolution of these issues.
+
+To help develop an informed, alert, active citizenry, jealous of its freedoms and conscious of its responsibilities.
 </blockquote>
 
 These ambitious goals led to a collection of compelling documentaries in the latter half of the 1960s.
