@@ -40,6 +40,7 @@ In November 1964, the White Administration released the *N.E.T. Program Philosop
 
 <blockquote>To induce people to think critically about the important national and international issues confronting our society and, having thought, to act intelligently and democratically toward the resolution of these issues.
 
+
 To help develop an informed, alert, active citizenry, jealous of its freedoms and conscious of its responsibilities.
 </blockquote>
 
