@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![OETA](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_SPECCOLL_THUMBNAILS/OETA_square_logo.jpg "OETA")
+![OETA](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/OETA_square_logo.jpg "OETA")
 
 ## Summary
 
@@ -12,12 +12,12 @@ The <em> OETA News and Cultural Programming (1980-Present) </em> Collection incl
 The Oklahoma Educational Television Authority (OETA) is Oklahoma's only statewide coordinated instructional and public television network. In 1951 the state legislature pioneered the growth of noncommercial educational television in the United States by unanimously approving House Concurrent Resolution Number 5, urging the Federal Communications Commission (FCC) to reserve television channels for educational purposes. In addition to offering television programs supplied by PBS and acquired from various independent distributors, the network produces news, public affairs, cultural, and documentary programming; the OETA also distributes online education programs for classroom use and teacher professional development, and maintains the state's Warning, Alert and Response Network (WARN) infrastructure. The OETA network's main offices and production facilities are located at the intersection of Kelley Avenue and Britton Road in northeastern Oklahoma City. The collection was digitized in 2018 by Evelyn Cox and Laura Haygood, Public Broadcasting Preservation Fellows, in collaboration with Oklahoma Educational Television Authority, through a project funded by the Institute of Museum and Library Services.
 
 ## Featured
-Duck and Fletcher cpb-aacip-521-251fj2b653
-Tomb of the Unknown Soldier | Military - Women Airforce Service Pilots – Oklahoma Tomb of the Unknown Soldier cpb-aacip-521-416sx65317
-Oklahoma Heritage Film “The Run” cpb-aacip-521-zk55d8pq3m
-Oklahoma Yesterday, Today & Tomorrow – Will Rogers and Wiley Post cpb-aacip-521-445h99075w
-Oklahoma City Bombing cpb-aacip-521-nz80k27h4t
-Moore Strong cpb-aacip-521-k06ww77z5p
+
+[![Women Airforce Pilots](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-416sx65317.jpg)](/catalog/cpb-aacip_15-416sx65317)
+[!["The Run"](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-zk55d8pq3m.jpg)](/catalog/cpb-aacip_15-zk55d8pq3m)
+[![Will Rogers, Wiley Post](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-445h99075w.jpg)](/catalog/cpb-aacip_15-445h99075w)
+[![Oklahoma City Bombing](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-nz80k27h4t.jpg)](/catalog/cpb-aacip_15-nz80k27h4t)
+[![Moore Strong](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-k06ww77z5p.jpg)](/catalog/cpb-aacip_15-k06ww77z5p)
 
 ## Resources
 
