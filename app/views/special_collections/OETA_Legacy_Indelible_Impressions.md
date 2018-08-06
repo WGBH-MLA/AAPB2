@@ -2,6 +2,7 @@
 
 ## Thumbnail
 
+![OETA](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_SPECCOLL_THUMBNAILS/OETA_square_logo.jpg "OETA")
 
 ## Summary
 
