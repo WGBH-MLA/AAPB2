@@ -3,7 +3,7 @@
 3
 
 ## Summary
-![Pat Bonner-Lyons, on *Say Brother*](https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG "Pat Bonner-Lyons, on Say Brother")
+![Pat Bonner-Lyons on *Say Brother*](https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG "Pat Bonner-Lyons on Say Brother")
 
 ### Featured Program: Say Brother, [Episode 401, School Desegregation](/catalog/cpb-aacip_15-9gq6r236)
 “Why is desegregation of schools important to black children?” “Why? Because it is educationally right and because segregation on the basis of race is unconstitutional and immoral.” So declared Ellen Jackson, director of the Freedom House Institute on Schools and Education, in an interview segment played over shots of books, desks, and school posters. On October 1, 1974, two weeks after school opened in Boston on September 12, 1974, *Say Brother* devoted its hour-long program to the topic of desegregation. WGBH’s program “by, for, and about the black community,” begins with an interpretive mime piece about school busing.  Then, an opening voiceover, states, “Like everyone else, *Say Brother* has been caught up in the drama surrounding the schools this year.” Sitting in a chemistry classroom, two students are interviewed by the show’s producer. They appear ambivalent about the process of busing, but are certain that a good education is crucial. Standing on the steps of a high school, Pat Bonner Lyons of the Community Task Force on Education declares that the fears of white parents are “a form of madness, which has been encouraged and perpetrated on us by politicians who’ve used this issue to gain their political strength.” A group of local leaders discuss the problem in the library. And in closing, the show’s producer, Marita Rivero, states, “One of the ugly facts which came to light this past year was the racist nature of this city, do I need to say any more about that?” Still, she is certain that the quest for equal education is vital. AAPB’s collection of *Say Brother* programs offer insight into the experience of black Bostonians throughout the busing crisis.
@@ -15,7 +15,7 @@
 [**Introduction**](#Introduction)<br>
 [**Spotlight on Education, 1972-1980**](#Spotlight-on-Education)<br>
 [**Public Television Covers the Busing Crisis, 1974-1979**](#Public-Television-Covers-the-Busing-Crisis)<br>
-[**Educational Topics on Talk Shows**](#Educational-Topics-on-Talk Shows)<br>
+[**Educational Topics on Talk Shows**](#Educational-Topics-on-Talk-Shows)<br>
 [**Alternative Education Documentaries**](#Alternative-Education-Documentaries)<br>
 [**Education Topics on Newsmagazines**](#Education-Topics-on-Newsmagazines)<br>
 [**Conclusion**](#Conclusion)
@@ -39,6 +39,9 @@ The years of painful conflict around desegregation, community control, and busin
 <a id="Public-Television-Covers-the-Busing-Crisis"></a>
 
 ### Public Television Covers the Busing Crisis, 1974-1979
+
+![Buses arriving in South Boston with police escort on the *Ten O’Clock News*](https://s3.amazonaws.com/americanarchive.org/exhibits/SchoolBusPoliceCar.jpg "Buses arriving in South Boston with police escort on the Ten O’Clock News")
+
 Throughout the Boston busing crisis, WGBH covered the issue across many of its programs. In the 1970s, WGBH broadcast a series of nightly news programs that focused on “neighborhood, local, and state issues.”  The first, *The Reporters*, ran from 1970 to 1973 before it was replaced by *Evening Compass*, which ran from 1973 to 1975. During the busing crisis, the audience of *Evening Compass* grew substantially, allowing WGBH to air the program twice a night during the most fraught days. *Compass* reporters covered press conferences with city politicians, met with local activists, and conducted interviews with students, parents, and community residents. See, for example, their coverage of [1974 Racial Imbalance Hearings](/catalog/cpb-aacip_15-03cz93dz), a [press conference at Boston City Hall during the second week of Phase I desegregation](/catalog/cpb-aacip_15-9ft8dj6m), and a program called [*A Delicate Balance*](/catalog/cpb-aacip_15-9p843w16) that looks back on the first six months of busing.
 
 On January 15, 1976, the nightly news program rebranded again to become [*The Ten O’Clock News*](/catalog/cpb-aacip_), which covered national as well as local issues. Particularly after journalist Christopher Lyndon became an anchor the following year, the show began to develop a reputation for in-depth coverage and high quality reporting.  Picking up where *Evening Compass* left off, *The Ten O’Clock News* covered the [first day of school in September 1976](/catalog/cpb-aacip_15-9js9h76h) and offered a [“Boston School Desegregation View”](/catalog/cpb-aacip_15-vd6nz81056), which focused on the effects of the policy in South Boston High School and the Joseph Lee School. In 1976, WGBH paired with WETA to produce a special called [“Is School Desegregation Working?”](/catalog/cpb-aacip_15-9nv9998s), hosted by Jim Lehrer. The debate, filmed in Washington, D.C., focused on desegregation nationwide and was delivered to affiliates by PBS.
@@ -62,6 +65,9 @@ As in the NET years, during the 1970s public television stations aired a number 
 <a id="Education-Topics-on-Newsmagazines"></a>
 
 ### Education Topics on Newsmagazines
+
+![*51st State* anchor reports on School District 1](https://s3.amazonaws.com/americanarchive.org/exhibits/51stStateDistrict1.JPG "51st State anchor reports on School District 1")
+
 [Before newsmagazines became a ubiquitous format in the 1980s](/exhibits/newsmagazines/definitive-newsmags), a few vanguard stations got a regular weekly news program up and running in the 1970s. The newly merged WNET began airing *The 51st State* (/catalog/cpb-aacip_) in 1972, which ran until 1976. The show reported on New York issues such as [racial segregation in the Canarsie neighborhood and school system](/catalog/cpb-aacip_75-79h44s2z) and the [conditions in School District 1, where the teachers union was set to battle the neighborhood picks in an upcoming election](/catalog/cpb-aacip_75-09w0vvf7). In 1976, *Louisiana: The State We’re In* (link) began as a magazine show devoted primarily to state capitol politics, but also covering local news and current events. The show featured legislative debates over [Teachers Pay](/catalog/cpb-aacip_17-870vv6zt), [School Buses](/catalog/cpb-aacip_17-93gxf41r), and [Sex Education](/catalog/cpb-aacip_17-902z46b3). They also brought attention to issues such as the [National Teacher Examination](/catalog/cpb-aacip_17-278sg53f) and teachers’ strikes in [East Baton Rouge Parish](/catalog/cpb-aacip_17-97xktqjf) and [Jefferson Parish](/catalog/cpb-aacip_17-14nkb5dp). WNED in Buffalo began [*Channel 17 Reports*](/catalog/cpb-aacip_), featuring segments on [Magnet Schools](/catalog/cpb-aacip_cpb-aacip/81-08v9s6q0) and [Catholic Schools](/catalog/cpb-aacip_81-45cc2mqn).
 
 One of the few nightly newsmagazines on public television, *New Jersey Nightly News* (link), began in 1978. The show, which still is on the air, frequently features educational reporting, including an early feature called [“A Closer Look: Education—Graduation Standards”](/catalog/cpb-aacip_259-p843vk2c). The New Jersey Network also featured public affairs specials, including a panel discussion on [“The State of the Arts in New Jersey”](/catalog/cpb-aacip_259-qb9v3v5p) on arts education and a [broadcast of the case Smith v. Ricci](/catalog/cpb-aacip_259-222r7s4c), argued before the State Supreme Court in 1982 on the rules governing Sex Education.
