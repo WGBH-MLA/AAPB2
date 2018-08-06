@@ -74,6 +74,6 @@ During this time, WGBH began producing the investigative documentary series *Fro
 ### Conclusion
 While a few of these programs fit the mold of the “at risk youth” headline story, the majority did not. Many local stories attempted to show what was going well in an area’s public schools. Those programs that revealed problems in the system did so not to shock, but to attempt to build community investment to fix local public institutions. Some of these programs, including *Idaho Reports* and *Iowa Press*, continue to this day. After his stint on *MacNeil/Lehrer*, John Merrow continued to set the standard for education reporting as he went on to produce stand-alone programs for public television, collectively called “The Merrow Reports.” 
 
-#### Next: [National Education Reforms on Local Television, 1990-Today](/exhibits/education/national-education-reforms-on-Local-television, 1990-Today)
+#### Next: [National Education Reforms on Local Television, 1990-Today](/exhibits/education/national-education-reforms-on-Local-television-1990-Today)
 
 ## Main
