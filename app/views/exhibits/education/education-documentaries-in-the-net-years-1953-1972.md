@@ -102,6 +102,6 @@ In 1969, the Corporation for Public Broadcasting created PBS to replace NET as t
 
 This strategy could not last long, especially with Congress working on a bill to fund CPB for the next two years. The 1971-1972 series contained fewer documentaries, instead featuring two new series: *The Great American Dream Machine* and *Realities*. While the satirical *Dream Machine* was meant to be more crowd-pleasing, *Realities*, like its predecessor, NET Journal, aired hard-hitting long-form documentaries. The first hour-long episode of Realities, titled [*the three r’s…and sex education*](/catalog/cpb-aacip_), discusses the question of whether schools should teach sex education.
 
-#### Next: [Watergate and Public Broadcasting](/exhibits/watergate/watergate-and-public-broadcasting)
+#### Next: [Capturing Education Battles on Television, 1972-1980](/exhibits/education/capturing-education-battles-on-television-1972-1980.md)
 
 ## Main
