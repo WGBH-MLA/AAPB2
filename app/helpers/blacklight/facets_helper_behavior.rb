@@ -1,3 +1,8 @@
+# Disabling Rubocop because this file overwrites only 3 methods from Blacklight &
+# it is probably better to keep this file as similar to the original as possible.
+# Also, Travis CI did not like the exclude from .rubocop.yml.
+# rubocop:disable all
+
 module Blacklight::FacetsHelperBehavior
 
   include Blacklight::Facet
@@ -228,3 +233,4 @@ module Blacklight::FacetsHelperBehavior
   end
 
 end
+# rubocop:enable all
