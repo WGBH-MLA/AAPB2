@@ -43,4 +43,4 @@ The exhibit proceeds chronologically with four sections: 1953 to 1972, 1972 to 1
 
 
 
-#### Next: [Education Documentaries in the NET Years, 1953-1972](/exhibits/watergate/the-watergate-scandal-1972-1974)
+#### Next: [Education Documentaries in the NET Years, 1953-1972](/exhibits/education/education-documentaries-in-the-net-years-1953-1972.md)
