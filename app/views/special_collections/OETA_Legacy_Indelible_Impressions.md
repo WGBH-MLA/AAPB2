@@ -13,6 +13,7 @@ The Oklahoma Educational Television Authority (OETA) is Oklahoma's only statewid
 
 ## Featured
 
+[![Duck and Fletcher](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-251fj2b653.jpg)](/catalog/cpb-aacip_15-251fj2b653)
 [![Women Airforce Pilots](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-416sx65317.jpg)](/catalog/cpb-aacip_15-416sx65317)
 [!["The Run"](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-zk55d8pq3m.jpg)](/catalog/cpb-aacip_15-zk55d8pq3m)
 [![Will Rogers, Wiley Post](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-445h99075w.jpg)](/catalog/cpb-aacip_15-445h99075w)
