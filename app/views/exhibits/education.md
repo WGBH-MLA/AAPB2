@@ -28,23 +28,19 @@ Intern, Library of Congress
 
 ## Main
 
-### The Coverage Explained
+### Public Schools and Public Television
 
-The broadcasts of the Senate Watergate hearings cover 51 days of “gavel-to-gavel” coverage. Each episode begins with about five minutes of commentary from anchors Robert MacNeil and Jim Lehrer, including an “hour by hour line-up” of what happened in that day’s hearings. The hearings range from two to seven hours in length, with breaks only for station identification during pauses in the hearings. At the end of each broadcast, MacNeil and Lehrer close with 10-20 minutes of commentary with experts and interviews conducted by correspondent Peter Kaye.
+As idealized institutions, public education and public television have much in common. Indeed, “public” television as we know it began as “educational television,” independent local stations providing edifying broadcasts to their communities. As public education and public television have grown, both have done so by appealing to the demands of democratic citizenship. As one early educational reformer put it, public schools must offer the “necessary knowledge” for an American to “discharge his duties as an individual, as a member of society, and as a citizen of a free state.”  Similarly, the Ford Foundation, whose Fund for Adult Education (FAE) provided nearly all the funds for public television in its early years, desired content that would develop “mature, wise, and responsible citizens.”  In this collection, we see one public institution commenting on another.
 
-The Senate Watergate Committee conducted its investigation in three phases: Watergate (May 17 - September 25), Campaign Practices or “Dirty Tricks” (September 26 - November 6), and Campaign Finance (November 7 - November 15). Due to Majority Counsel Sam Dash’s strategy of building a case before moving on to the “star witnesses,” the hearings begin with comparatively small fish before moving up the food chain to Nixon’s inner circle in July. After the Committee returned from recess in September, they questioned less powerful witnesses and had fewer viewers tune in as a result.
-
-The House impeachment hearings took place over seven days of public hearings, the first on May 9, 1974, during which the Committee entered executive session and ejected the television cameras. The Committee reopened its doors to TV on July 24 to debate articles of impeachment, which they concluded after six sessions on July 30. The hearings were anchored by Jim Lehrer and Paul Duke and continued in the format developed for the Watergate hearings. Since some of the House sessions took place at night, the broadcasts are a combination of live and taped coverage.
-
-### How to Use This Exhibit
-
-To view the full “gavel to gavel” coverage, click on [The Watergate Coverage](/exhibits/watergate/the-watergate-coverage) or [The Impeachment Coverage](/exhibits/watergate/the-impeachment-coverage) in the side bar. There you will find guides to each episode, links to transcripts, and highlights to peruse. To help identify people in the videos, the Cast of Characters page includes photos and titles for the important figures in the hearings. [The Watergate Scandal, 1972-1974](/exhibits/watergate/the-watergate-scandal-1972-1974) page gives an explanation of the who, what, when, where, and why of Watergate to help guide you through the coverage. If you would like a more in depth essay on the significant role that Watergate played in the history of public broadcasting, please click on the [Watergate and Public Broadcasting](/exhibits/watergate/watergate-and-public-broadcasting) link.
+Furthermore, for the last half-century, both public media and public education have experienced a centripetal pull toward centralization, yet both remain fundamentally local institutions. This tension between local and national indicates a strength in public television’s capacity to cover this topic. Neighborhood schools, once only subject to the dictates of their town administration, have been called to bring racial justice, to be a “passport from poverty,” to staunch the “rising tide of mediocrity,” to leave no child behind, and to race to the top. Still, even as the dialogue about the problems with public schools have become more national, implementation remains local. For example, Boston and New York City did not desegregate their schools in the same way, and both methods differed substantially from the integration plans of two adjacent small towns in Texas or Illinois. Local public television stations, intent on educating responsible citizens, covered these regional stories for their audiences, while national programming like the *PBS NewsHour* brought national trends into focus.
 
 
-### Highlights from the Watergate Coverage
-Click play below to see highlights from NPACT's coverage of the Senate Watergate hearings. To read the transcript of the compilation, click [here](https://s3.amazonaws.com/americanarchive.org/exhibits/Highlights_Reel_Transcript.pdf).
+### About This Exhibit
 
-<iframe src="https://player.vimeo.com/video/226909199" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Since education is a vast topic, this exhibit provides a representative sample of AAPB’s collection, rather than an exhaustive list. Many documentaries and other one-off programs are highlighted. For series, such as talk shows or newsmagazines, a handful of representative episodes is profiled.
+
+The exhibit proceeds chronologically with four sections: 1953 to 1972, 1972 to 1980, 1981 to 1989, and 1990 to the present. Each section includes a “Featured Program,” an introduction to the educational issues at the fore during that era, and a narrative highlighting ways that public television covered these issues and descriptions of representative public television programs.
 
 
-#### Next: [The Watergate Scandal, 1972-1974](/exhibits/watergate/the-watergate-scandal-1972-1974)
+
+#### Next: [Education Documentaries in the NET Years, 1953-1972](/exhibits/watergate/the-watergate-scandal-1972-1974)
