@@ -120,33 +120,40 @@
 
 <a name="54"></a><sup>54</sup> Dana Goldstein, *Teacher Wars*, 114.
 
-<a name="55"></a><sup>55</sup> Clarence Petersen, “Public TV Compromise Offers Slim Hope,” *Chicago Tribune*, May 16, 1973, https://search.proquest.com/docview/170393242?accountid=12084.
 
-<a name="56"></a><sup>26</sup> Whitehead, interview. Whitehead claimed, though, that while Colson and Haldeman saw public broadcasting “as the enemy politically and were always viscerally prepared” to cut its funding entirely “they never persevered with the political intent to do that.”
 
-<a name="57"></a><sup>57</sup> Whitehead, interview.
+### Covering Education in the Reagan Years, 1981-1989
 
-<a name="58"></a><sup>58</sup> Memorandum from Whitehead to Peter Flanigan, November, 4, 1969, in *Nixon Papers*, NAEB, 10.
+<a name="55"></a><sup>55</sup> United States. National Commission on Excellence in Education, *A Nation at Risk: The Imperative for Educational Reform* (Washington, DC: The Commission, 1983), 1.
 
-<a name="59"></a><sup>59</sup> Letter from Whitehead to FCC Chairman Dean Burch, November 27, 1970, in *Nixon Papers*, NAEB, 22.
+<a name="56"></a><sup>26</sup> Ibid., 5.
 
-<a name="60"></a><sup>60</sup> Day, *Vanishing Vision*, 216.
+<a name="57"></a><sup>57</sup> Ibid., 8.
 
-<a name="61"></a><sup>61</sup> That Nixon’s advisors were concerned about The Advocates struck some as absurd. One Variety commentator quipped that on The Advocates, “viewers are likely to get two sides of the Adolf Hitler stories and the pros and cons of drug abuse.” Day, *Vanishing Vision*, 216.
+<a name="58"></a><sup>58</sup> Katznelson and Weir, *Schooling for All*, 211.
 
-<a name="62"></a><sup>62</sup> *Nixon Papers*, NAEB, 25. One aspect of the Nixon Administration’s manipulation of public television that this essay does not highlight because it did not become the central point of controversy is the potential use of the fairness doctrine to make content presented on television more favorable to the Administration. For a discussion of the use of the fairness doctrine to dictate content, among other topics, see Whitehead’s conversation with William F. Buckley on *Firing Line*. In it, Buckley criticizes what he sees as Whitehead’s desire for the government to dictate content. He at one point quips, “You know, that's a little sophistical. It seems to me if you say the speed limit is 50 miles an hour, then you therefore expect people to regulate their speed to 50 miles an hour. But if they don't, you zing them. Right? Now if you say, ‘We don't think that you should countenance elitist gossip,’ are you acting as moralists or are you acting as potential disciplinarians? It would seem to me the latter because you say, ‘What's more, if you don't do as we say, we'll take away your station…People haven't been brought up to take moral injunctions from the Office of Telecommunications.’”  *Firing Line*, “The White House and the Media.”
+<a name="59"></a><sup>59</sup> For summaries of these texts, see Joseph L. DeVitis, ed., Popular Educational Classics: A Reader (New York: Peter Lang, 2016). The Carnegie Foundation for the Advancement of Teaching also funded the public television documentary *High Schools* (1983), available for viewing at the Library of Congress Moving Image Research Center, to complement the report by Boyer.
 
-<a name="63"></a><sup>63</sup> “Memorandum for the President,” draft, June 18, 1971, in *Nixon Papers*, NAEB, 30-32. Another memo sent July 9 advised that the Administration must work hard “to avoid the appearance of hostility to public broadcasting, both because it is a sacred cow in many quarters and because the President’s opponents are already trying to tar him with antagonism towards ‘free and independent’ media.” “Action Memorandum,” sent July 9, 1971, in *Nixon Papers*, NAEB, 32.
+<a name="60"></a><sup>60</sup> Terrel H. Bell, “Education Policy Development in the Reagan Administration,” *Phi Delta Kappa International* 67, no. 7 (March 1986): 488, http://www.jstor.org/stable/20403138.
 
-<a name="64"></a><sup>64</sup> “Confidential Eyes Only Memorandum,” sent by Jon M. Huntsman to Peter Flanigan, in *Nixon Papers*, NAEB, 36. John Macy later commented that he was baffled by the strength of the President’s response to anything aired on public television. “They viewed us as much more important a force on the American scene than we really were. They had magnified a mouse into a lion. I can’t help but be amused at how exaggerated their estimate of what our strength and influence really was. After all, there weren’t that many people watching.” Stone, *Nixon and Public Television*, 326.
+<a name="61"></a><sup>61</sup> Goldstein, *Teacher Wars*, 168, 174.
 
-<a name="65"></a><sup>65</sup> Day, *Vanishing Vision*, 213-215. MacNeil later wrote on Vanocur, “I didn't realize until later that he was a lightning rod--a lightning rod that nearly burned down the barn.” MacNeil, *Right Place*, 265.
+<a name="62"></a><sup>62</sup> Mary Ellen Schoonmaker, “The Beat Nobody Wants,” *Columbia Journalism Review* 23, no. 5 (January/February 1985): 38.
 
-<a name="66"></a><sup>66</sup> Memorandum from Jon Rose to Larry Higby, October 15, 1971, in *Nixon Papers*, NAEB, 41.
+<a name="63"></a><sup>63</sup> E. Patrick McQuaid, “A Story at Risk: The Rising Tide of Mediocre Education Coverage,” *The Phi Delta Kappan* 70, no. 5 (January 1989): K4, http://www.jstor.org/stable/20403906.
 
-<a name="67"></a><sup>67</sup> “Memorandum for the President,” redrafted October 4, 1971, in *Nixon Papers*, NAEB, 37.
+<a name="64"></a><sup>64</sup> Ari L. Goldman, “Covering Education: What's Our Grade?” *Columbia Journalism Review* 39, no. 3 (September/October 2000): 34, ProQuest Central.
 
-<a name="68"></a><sup>68</sup> One particularly “liberal” program offensive to the Nixon Administration was *Banks and the Poor*, a program distributed for broadcast by NET in November 1970. Stone, *Nixon and Public Television*, 28-35. The financial support of the Ford Foundation was critical to public television in the early years. By the late 1970s, it had invested over $300 million in public media. During this time, the Foundation became synonymous in the Administration for the perceived New York liberal predominance in public television. As a result, Nixon wanted to eliminate its influence. Stone, *Nixon and Public Television*, 5, 24; Memorandum from Albert L. Cole to Richard Nixon, October 27, 1969, in *Nixon Papers*, NAEB, 7.
+<a name="65"></a><sup>65</sup> George R. Kaplan, “TV’s Version of Education (And What to Do about It),” *Phi Delta Kappa International* 71, no. 5 (January 1990): K2, http://www.jstor.org/stable/20404158.
+
+<a name="66"></a><sup>66</sup> George R. Kaplan, “A Gentleman’s C for TV's Education Coverage,” in *Imaging Education: The Media and Schools in America*, ed. Gene I. Maeroff (New York: Teachers College Press, 1998), 200.
+
+<a name="67"></a><sup>67</sup> John Merrow, *The Politics of Competence: A Review of Competency-Based Teacher Education* (Washington: Basic Skills Program on Teaching, National Institute of Education, 1974).
+
+<a name="68"></a><sup>68</sup> Kaplan, “Gentleman’s C,” 201.
+
+
+### National Education Reforms on Local Television, 1990-Today
 
 <a name="69"></a><sup>69</sup> Engelman, *Public Radio and Television*, 168; Day, *Vanishing Vision*, 218. Many, including John Witherspoon, Macy’s lieutenant, were nonplussed by the charge of centralism. Day writes, “They were baffled by his charge that public television had abandoned localism when the charge was clearly contradicted by the facts. If the White House felt the system had not moved far enough, or fast enough, let them find fault within themselves for failing to provide adequate funding.”
 
