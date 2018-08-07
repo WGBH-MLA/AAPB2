@@ -4,11 +4,13 @@
 
 ## Summary
 
-### Notes to The Watergate Scandal, 1972-1974
+### Notes to Front Page
 
-<a name="1"></a><sup>1</sup> Most notably from a contemporary source, Arthur M. Schlesinger, Jr., *The Imperial Presidency* (Boston: Houghton Mifflin, 1973)
+<a name="1"></a><sup>1</sup> James Henry Jr., *An Address upon Education and Common Schools* (Albany, 1843), quoted in Johann N. Neem, *Democracy’s Schools: The Rise of Public Education in America* (Baltimore, MD: John Hopkins University Press, 2017), 31.
 
-<a name="2"></a><sup>2</sup> A contemporary source includes, *Bill Moyers Journal*, “Essay on Watergate,” WNET, written by Bill Moyers, produced by Jerome Toobin and Martin Clancy, directed by Jack Sameth, first broadcast October 31, 1973, accessed June 12, 2017, https://vimeo.com/44242486
+<a name="2"></a><sup>2</sup> Robert J. Blakely, *To Serve the Public Interest: Educational Broadcasting in the United States* (Syracuse, NY: Syracuse University Press, 1979), 84, quoted in Carolyn Norah Brooks, “Documentary Programming and the Emergence of the National Educational Television Center as a Network, 1958-1972” (PhD diss., The University of Wisconsin - Madison, 1994), 43.
+
+### Notes to Education Documentaries in the NET Years, 1953-1972
 
 <a name ="3"></a><sup>3</sup> James T. Patterson, *Grand Expectations: United States, 1945-74* (New York, NY: Oxford University Press, 1998), 757-72.
 
