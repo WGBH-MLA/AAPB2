@@ -12,19 +12,19 @@
 
 ### Notes to Education Documentaries in the NET Years, 1953-1972
 
-<a name ="3"></a><sup>3</sup> James T. Patterson, *Grand Expectations: United States, 1945-74* (New York, NY: Oxford University Press, 1998), 757-72.
+<a name ="3"></a><sup>3</sup> James Day, The Vanishing Vision: The Inside Story of Public Television (Berkeley, CA: University of California Press, 1995), 65.
 
-<a name="4"></a><sup>4</sup> Ibid., 763.
+<a name="4"></a><sup>4</sup> Day, Vanishing Vision, 62, Brooks, “Documentary Programming,” 87.
 
-<a name="5"></a><sup>5</sup> Ibid., 773. In his televised *Essay on Watergate*, Bill Moyers said, “I spent four and a half years in the White House and can testify as to how tempting it is to put the President's interests above all others. You begin to confuse the office with the man and the man with the country. Life inside those iron gates takes on an existential quality. ‘I think with the president's mind; therefore I am.’”
+<a name="5"></a><sup>5</sup> Brooks, “Documentary Programming,” 47-60.
 
-<a name="6"></a><sup>6</sup> Carl Bernstein and Bob Woodward, *All the President's Men* (New York: Simon & Schuster Paperbacks, 2006).
+<a name="6"></a><sup>6</sup> Ibid., 20.
 
-<a name="7"></a><sup>7</sup> Louis Liebovich, *Richard Nixon, Watergate, and the Press: A Historical Retrospective* (Westport, CT: Praeger, 2003), 54.
+<a name="7"></a><sup>7</sup> Ibid., 100.
 
-<a name="8"></a><sup>8</sup> Liebovich, *Richard Nixon*, 76.
+<a name="8"></a><sup>8</sup> Ibid., 78.
 
-<a name="9"></a><sup>9</sup> Patterson, *Grand Expectations*, 774. Stephen Ambrose concurs that Nixon's real crime was ordering the cover-up, that he specifically commanded Haldeman on June 23 to tell CIA director Richard Helms to “call the FBI in and say that we [the CIA] wish for the country, don’t go any further into this case, period!” Indeed, Nixon himself wrote in his diary, “It is the cover up, not the deed, that is really bad here.” Stephen E. Ambrose, *Nixon: Ruin and Recovery* (New York, NY: Simon and Schuster, 1992), 27, 67.
+<a name="9"></a><sup>9</sup> Ibid., 97.
 
 <a name="10"></a><sup>10</sup> Ibid, 764.
 
