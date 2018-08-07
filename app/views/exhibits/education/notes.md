@@ -92,33 +92,33 @@
 
 ### Notes to Capturing Education Battles on Television, 1972-1980
 
-<a name="41"></a><sup>41</sup> Stone, *Nixon and Public Television*, 10; Patricia Aufderheide, “Public Television and the Public Sphere,” *Critical Studies in Mass Communication* 8, no. 2 (June 1991): 173, https://www.tandfonline.com/doi/abs/10.1080/15295039109366789.
+<a name="41"></a><sup>41</sup> Sarah-Ann Shaw, “The History of *Say Brother*,” The *Say Brother* Collection, last modified 2001, http://main.wgbh.org/saybrother/history.html.
 
-<a name="42"></a><sup>42</sup> Day, *Vanishing Vision*, 213.
+<a name="42"></a><sup>42</sup> For more on how public television covered the Civil Rights Movement, see the AAPB exhibit Voices From the Southern Civil Rights Movement.
 
-<a name="43"></a><sup>43</sup> Avery and Pepper, “An Institutional History,” 130.
+<a name="43"></a><sup>43</sup> Katznelson and Weir, *Schooling for All*, 186, 209.
 
-<a name="44"></a><sup>44</sup> Ibid., 130-31.
+<a name="44"></a><sup>44</sup> Moakley Archive and Institute, “Busing in Boston: A Research Guide,” Suffolk University in Boston, last modified 2015, https://www.suffolk.edu/documents/MoakleyArchive/BusingInBostonResearchGuide_2015.pdf, 1.
 
-<a name="45"></a><sup>45</sup> Stone, *Nixon and Public Television*, viii.
+<a name="45"></a><sup>45</sup> Bruce Gellerman, “‘It Was Like a War Zone’: Busing in Boston,” WBUR News, last modified September 5, 2014, http://www.wbur.org/news/2014/09/05/boston-busing-anniversary.
 
-<a name="46"></a><sup>46</sup> Ibid., 42-56.
+<a name="46"></a><sup>46</sup> *Eyes on the Prize: America's Civil Rights Movement*, “The Keys to the Kingdom (1974-80),” episode 7, PBS, first broadcast February 26, 1990, directed by Jacqueline Shearer and Paul Stekler, written by Steve Fayer.
 
-<a name="47"></a><sup>47</sup> Nixon’s fears were perhaps not entirely unfounded. In his memoirs, Robert MacNeil describes his first meeting with Nixon in 1966 thus: “This was my first meeting with Nixon and I carried to it the standard liberal journalist's baggage. It was like obligatory field equipment for the political reporter, this prefabricated set of attitudes about Richard Nixon--standard issue, like my battered Olivetti and grubby trench coat.” He continues, “From his personal to his political style, there was never a lack of disparaging material. Positive material took more finding. He was the classic villain in the melodrama of liberal politics.” Robert MacNeil, *The Right Place at the Right Time* (Boston, MA: Little, Brown, 1982), 265.
+<a name="47"></a><sup>47</sup> Gellerman, “It Was Like a War Zone.”
 
-<a name="48"></a><sup>48</sup> Day, *Vanishing Vision*, 213; William Earl Porter, *Assault on the Media: The Nixon Years* (Ann Arbor, MI: University of Michigan Press, 1976), 255-262.
+<a name="48"></a><sup>48</sup> Moakley Archive and Institute, “Busing in Boston.”
 
-<a name="49"></a><sup>49</sup> Day, *Vanishing Vision*, 232.
+<a name="49"></a><sup>49</sup> Dana Goldstein, *Teacher Wars*, 167-68.
 
-<a name="50"></a><sup>50</sup> Jarvik, *PBS, Behind the Screen*, 24. Indeed, at the outset of Nixon’s first term, on May 6, 1969, Nixon's Assistant Clay T. Whitehead suggested that the President congratulate the University of Wisconsin for their 50th year of educational radio broadcasting. Whitehead: “I think it is desirable for the President to be associated in an affirmative way with public broadcasting.” Memorandum from Clay T. Whitehead to Dwight Chapin, May 6, 1969, in *The Nixon Administration Public Broadcasting Papers: A Summary 1969-1974*, by the National Association of Educational Broadcasters (NAEB) (Washington, D.C., 1979), 1. This text, henceforth abbreviated as *Nixon Papers*, can be found in the Robert Schenkkan collection, Motion Picture, Broadcasting and Recorded Sound Division (MBRS), Library of Congress, Washington, D.C.
+<a name="50"></a><sup>50</sup> Katznelson and Weir, *Schooling for All*, 206.
 
-<a name="51"></a><sup>51</sup> Day, *Vanishing Vision*, 213. The Nixon Administration’s plans for public broadcasting were guessed at, but not publically known at the time. The majority of the information regarding its plans has been revealed through a Freedom of Information Act request by the Carnegie Commission on the Future of Public Broadcasting in 1979. Stone, *Nixon and Public Television*, xx-xxi. Robert MacNeil notes in his memoir, “Their true motives are more brazenly documented than any other part of the Watergate saga; even while cautioning each other to be discreet, because disclosure would be embarrassing, they wrote it all down.” MacNeil, *Right Place*, 265.
+<a name="51"></a><sup>51</sup> WGBH Archives, “History,” *The Ten O'Clock News*, last modified 2003, http://main.wgbh.org/ton/collection_history.html.
 
-<a name="52"></a><sup>52</sup> Stone, *Nixon and Public Television*, 55; Cecil Smith, “Ratings Soar for Watergate on PBS,” *Los Angeles Times*, June 20, 1973, https://search.proquest.com/docview/157283983?accountid=12084.
+<a name="52"></a><sup>52</sup> WGBH Archives, “History,” *The Ten O'Clock News*.
 
-<a name="53"></a><sup>53</sup> Clay T. Whitehead, interview, December 16, 1992, Clay Thomas Whitehead Papers, Manuscript Division, Library of Congress, Washington, D.C. The interviewer is not identified, but it appears to be Laurence Jarvik conducting an interview for his book *PBS, Behind the Screen*.
+<a name="53"></a><sup>53</sup> Shaw, “History of *Say Brother*.”
 
-<a name="54"></a><sup>54</sup> Whitehead, interview. Whitehead discussed this mid-range problem solving perspective with William F. Buckley, Jr. in an interview on Firing Line. The two discussed the problem of having only three networks and the prospect of the free market competition that would come from cable. Whitehead argued, “Until that [the three network monopoly] is corrected, you're never going to fulfill the richness and the variety of the potential of television in this country. But until cable comes, until we do have the opportunity for enough channels, we've got an awful lot of people who watch an awful lot of television. We think that we have a responsibility to make that system as best we can until maybe a new system comes along.” *Firing Line*, “The White House and the Media,” first broadcast February 1, 1973, hosted by William F. Buckley, Jr., accessed June 13, 2017, http://digitalcollections.hoover.org/objects/6259.
+<a name="54"></a><sup>54</sup> Dana Goldstein, *Teacher Wars*, 114.
 
 <a name="55"></a><sup>55</sup> Clarence Petersen, “Public TV Compromise Offers Slim Hope,” *Chicago Tribune*, May 16, 1973, https://search.proquest.com/docview/170393242?accountid=12084.
 
