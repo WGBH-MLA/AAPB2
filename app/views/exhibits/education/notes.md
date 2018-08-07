@@ -10,6 +10,8 @@
 
 <a name="2"></a><sup>2</sup> Robert J. Blakely, *To Serve the Public Interest: Educational Broadcasting in the United States* (Syracuse, NY: Syracuse University Press, 1979), 84, quoted in Carolyn Norah Brooks, “Documentary Programming and the Emergence of the National Educational Television Center as a Network, 1958-1972” (PhD diss., The University of Wisconsin - Madison, 1994), 43.
 
+
+
 ### Notes to Education Documentaries in the NET Years, 1953-1972
 
 <a name ="3"></a><sup>3</sup> James Day, The Vanishing Vision: The Inside Story of Public Television (Berkeley, CA: University of California Press, 1995), 65.
