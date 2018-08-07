@@ -155,29 +155,29 @@
 
 ### National Education Reforms on Local Television, 1990-Today
 
-<a name="69"></a><sup>69</sup> Engelman, *Public Radio and Television*, 168; Day, *Vanishing Vision*, 218. Many, including John Witherspoon, Macy’s lieutenant, were nonplussed by the charge of centralism. Day writes, “They were baffled by his charge that public television had abandoned localism when the charge was clearly contradicted by the facts. If the White House felt the system had not moved far enough, or fast enough, let them find fault within themselves for failing to provide adequate funding.”
+<a name="69"></a><sup>69</sup> Wayne J. Urban and Jennings L. Wagner, *American Education: A History*, 5th ed. (New York: Routledge, 2014), 325.
 
-<a name="70"></a><sup>70</sup> “Collision of Politics and Public Broadcasting,” *Broadcasting Magazine*, October 25, 1971, 14.
+<a name="70"></a><sup>70</sup> Urban and Wagner, *American Education*, 330.
 
-<a name="71"></a><sup>71</sup> Day, *Vanishing Vision*, 216-17. Whitehead later denied that he meant to threaten public broadcasting, but realized the effect it had. “In retrospect, I think it was an ultimatum and I can understand why it was perceived that way.” Whitehead, interview.
+<a name="71"></a><sup>71</sup> See, for example, David C. Berliner and Bruce J. Biddle, *The Manufactured Crisis: Myths, Fraud, and the Attack on America's Public Schools* (Reading, MA: Addison-Wesley, 1995). For summaries of these books, see Urban and Wagner, *American Education*, 361-67.
 
-<a name="72"></a><sup>72</sup> Letter from Jim Karayn to Whitehead, sent November 4, 1971, in *Nixon Papers*, NAEB, 45.
+<a name="72"></a><sup>72</sup> Alyson Klein, “No Child Left Behind: An Overview,” *Education Week*, April 10, 2015, https://www.edweek.org/ew/section/multimedia/no-child-left-behind-overview-definition-summary.html.
 
-<a name="73"></a><sup>73</sup> Engelman, *Public Radio and Television*, 168. MacNeil described his experience of censorship from the Nixon Administration in this way: “The mounting political troubles were like distant thunder. We were too busy to pay close attention. Yet we were affected; at the very least I know I was determined not to give the Nixon people any ammunition. That editorial sensitivity was inhibiting but not paralyzing.” MacNeil, *Right Place*, 281.
+<a name="73"></a><sup>73</sup> “Race to the Top,” https://obamawhitehouse.archives.gov/issues/education/k-12/race-to-the-top.
 
-<a name="74"></a><sup>74</sup> Day, *Vanishing Vision*, 220.
+<a name="74"></a><sup>74</sup> Urban and Wagner, *American Education*, 353.
 
-<a name="75"></a><sup>75</sup> Ibid., 222.
+<a name="75"></a><sup>75</sup> “Who We Are,” Annenberg Foundation, last modified 2018, https://annenberg.org/who-we-are/.
 
-<a name="76"></a><sup>76</sup> Memorandum from Whitehead to H. R. Haldeman, November 24, 1972, in *Nixon Papers*, NAEB, 48-49.
+<a name="76"></a><sup>76</sup> PBS, “Longtime NewsHour Education Correspondent John Merrow Retires,” PBS NewsHour, last modified August 5, 2015, https://www.pbs.org/newshour/education/longtime-newshour-education-correspondent-john-merrow-retires.
 
-<a name="77"></a><sup>77</sup> Day, *Vanishing Vision*, 223.
+<a name="77"></a><sup>77</sup> “Charter Schools Make Gains, According to 26-State Study,” news release, June 25, 2013, https://credo.stanford.edu/documents/UNEMBARGOED%20National%20Charter%20Study%20Press%20Release.pdf.
 
-<a name="78"></a><sup>78</sup> “NAEB Newsletter,” May 10, 1972, in *Nixon Papers*, NAEB, 63-64; Letter from Jim Karayn to Sidney L. James, “RE: NPACT—Where We Stand”, 13 January 1972, Series 2:1, Box 4, Jim Karayn Papers, Special Collections, University of Maryland Libraries. NPACT intended to broacast substantive coverage of the 1972 election that did not come to fruition when its funds were cut. Karayn wrote of his plans in a letter to NPACT’s board: “The weekly series, “A PUBLIC AFFAIR/Election ’72,” which will inevitably be the NPACT showcase, is designed to provide the public with the clearest view yet of the American political process in a Presidential election year. This is NPACT’s most important project. Our success will be reckoned by the extent of its success as a new entry in the 1972 media mix.” He intended the project to have strong pedagogical value that would “look a bit deeper into developing the election issues and the meaningful mechanics of the election process,” rather than just following candidates around the country.
+<a name="78"></a><sup>78</sup> Jack W. Mitchell, *Wisconsin on the Air: 100 Years of Public Broadcasting in the State That Invented It* (Madison, WI: Wisconsin Historical Society Press, 2016), 154.
 
-<a name="79"></a><sup>79</sup> ACLU Report, issued February 20, 1972, in *Nixon Papers*, NAEB, 56-62.
+<a name="79"></a><sup>79</sup> Ibid., 160.
 
-<a name="80"></a><sup>80</sup> Day, *Vanishing Vision*, 228.
+<a name="80"></a><sup>80</sup> E. B. White, quoted in Day, *Vanishing Vision*, 10.
 
 
 ## Main
