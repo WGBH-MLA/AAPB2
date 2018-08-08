@@ -99,6 +99,8 @@ According to Donald Dixon, whereas student groups like SDS frequently refused to
 
 Once a month starting in mid-1968, *NET Journal* became *Black Journal*. “On those nights,” according to James Day, “one could almost hear the collective sucking in of breath along the network as the more timorous among the affiliates waited to see what provocations the show’s black producers would thrust upon the stations’ predominately white audiences.”[<sup>36</sup>](/exhibits/education/notes#36)  [Episode #12](/catalog/cpb-aacip_) of *Black Journal* reported on black student movements at both Duke University and Cornell. On a regular episode of *NET Journal*, [*Color Us Black!*](/catalog/cpb-aacip_) shows the conflict between militant black students at Howard University and what they considered to be the “bourgeois” administration. 
 
+![Banner reading Malcolm X University in *Black Power on University Campuses*](https://s3.amazonaws.com/americanarchive.org/exhibits/MalcolmXUniversity.JPG "Banner reading Malcolm X University in Black Power on University Campuses")
+
 WGBH, in broadcasts for the local Boston community, also followed student unrest. An episode of its series *Say Brother* called [“Black Power on University Campuses”](/catalog/cpb-aacip_15-99p2w600) (1968) follows the student takeover at Ford Hall at Brandeis University. In [*Harvard: Where Do We Go from Here?*](/catalog/cpb-aacip_15-j678s4jx9p) (1969), the station provided a forum where representatives of various factions could debate the protests in Cambridge.
 
 
