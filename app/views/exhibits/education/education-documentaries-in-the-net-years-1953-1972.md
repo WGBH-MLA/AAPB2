@@ -27,6 +27,8 @@ So begins the [*Diary of a Student Revolution*](/catalog/cpb-aacip_), produced a
 
 ### Introduction
 
+![NET logo](https://s3.amazonaws.com/americanarchive.org/exhibits/netlogo.jpg "NET logo")
+
 In the years before the Corporation for Public Broadcasting (CPB) and the Public Broadcasting Service (PBS) were created, public television was dominated by NET, or National Educational Television. NET began as the Educational Television and Radio Center (ETRC), a non-profit corporation organized to execute the administrative task of sharing content produced by educational broadcasters across the country. After 1958, however, NET increasingly sought to make itself into a “Fourth Network,” one that could join the ranks of ABC, NBC, and CBS. NET’s leaders believed that they could eke out a niche by producing and airing public affairs content, especially documentaries. Over the course of the 1960s, NET dove into hot-button education-related issues confronting local communities, such as desegregation in urban schools and unrest on college campuses.
 
 <a id="A-University-on-the-Air"></a>
