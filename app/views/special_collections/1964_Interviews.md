@@ -28,7 +28,7 @@ The <em>1964</em> interviews were conducted in 2014 for the <em>American Experie
 - [Freedom Summer Image Gallery](https://www.pbs.org/wgbh/americanexperience/features/freedomsummer-project/)
 - [<em>All The Way</em> Archival Resources, Lyndon B. Johnson Presidential Library](http://www.lbjlibrary.org/all-the-way-archival-resources)
 - [The Schlesinger Library at Harvard University's Radcliffe Institute](https://www.radcliffe.harvard.edu/schlesinger-library)
-- [<em>Eyes on the Prize</em> Collection](http://americanarchive.org/special_collections/eotp-i-interviews)
+- [<em>Eyes on the Prize</em> Special Collection](http://americanarchive.org/special_collections/eotp-i-interviews)
 
 ## Funders
 
