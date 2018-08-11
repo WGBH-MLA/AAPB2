@@ -19,6 +19,7 @@ KOPN was founded in Columbia, Missouri in 1973, as an alternative to the first l
 ## Resources
 
 - [KOPN](http://www.kopn.org)
+- [Collection Description of KOPN donation to the State Historical Society of Missouri](https://shsmo.org/manuscripts/columbia/ca5984.pdf)
 
 ## Help
 
