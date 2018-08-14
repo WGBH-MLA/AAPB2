@@ -4,6 +4,20 @@ class CatalogController < ApplicationController
   include Blacklight::Catalog
 
   configure_blacklight do |config|
+    # 'list' is the name of blacklight's default search result view style
+    config.view.gallery.partials = [:index]
+
+    config.view.short_list.partials = [:index]
+    config.view.short_list.icon_class = 'view-icon-short_list'
+
+    # config.view.masonry.partials = [:index]
+    # config.view.masonry.icon_class = 'view-icon-masonry'
+
+    # config.view.slideshow.partials = [:index]
+
+    config.show.tile_source_field = :content_metadata_image_iiif_info_ssm
+    config.show.partials.insert(1, :openseadragon)
+
     ## Default parameters to send to solr for all search-like requests.
     ## See also SolrHelper#solr_search_params
     config.default_solr_params = {

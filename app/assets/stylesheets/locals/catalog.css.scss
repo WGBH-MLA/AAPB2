@@ -4,11 +4,15 @@
 
 /* This is a record display in a search result*/
 
-#documents .document {
+#documents .default-document {
 	margin-top:0;
 	padding-top:0;
 	margin-bottom:2em;
 	padding-bottom:2em;
+}
+
+.document:after {
+	background-color: #FF66FF;
 }
 
 .catalog-title {
@@ -39,12 +43,6 @@
 		font-weight: 100;
 	}
 }
-
-.index-thumb {
-	margin: 0 2px;
-}
-
-
 
 .index-data-title {
 	color: #8a1051;

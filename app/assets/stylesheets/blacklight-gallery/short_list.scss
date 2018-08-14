@@ -1,0 +1,40 @@
+
+#documents {
+  .short_list {
+    &.document {
+      padding: 0;
+      margin: 0 $padding-xs-horizontal $padding-large-vertical 0;
+      border-bottom: 0;
+      background-color: $gray-lighter;
+      min-height: 70px;
+
+      .thumbnail {
+        border: 0;
+        padding: 0;
+        margin-bottom: 0;
+      }
+      .caption {
+        &:first-child { display: block; } // To display captions when there is no image
+        a {
+          color: $gray-lighter;
+          text-shadow: $carousel-text-shadow;
+        }
+        line-height: 17px;
+        background-color: rgba(0,0,0,0.3);
+        text-align: center;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        width: 100%;
+        padding: 5px 7px;
+        display: none;
+      }
+      &:hover {
+        .caption {
+          display: block;
+        }
+      }
+    }
+  }
+}
