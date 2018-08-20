@@ -16,8 +16,6 @@ For scholars looking for more in-depth resources, especially on the history of W
 
 ## Extended
 ### Other Online Exhibits
-“Watergate Exhibit Evidence.” Richard Nixon Presidential Library and Museum. Accessed October 24, 2017. https://www.nixonlibrary.gov/themuseum/exhibits/2010/watergateExhibitBackground/watergateexhibitbackground.php.
-
 "The Watergate Files." The Gerald R. Ford Library & Museum. Accessed June 30, 2017. https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html.
 
 ### Public Television Documentaries and Interviews
@@ -64,9 +62,7 @@ Select Committee on Presidential Campaign Activities, The Final Report of the Se
 
 *Watergate: Chronology of a Crisis*. Washington, DC: Congressional Quarterly, 1975.
 
-"Watergate Exhibit Evidence." Richard M. Nixon Presidential Library and Museum. Accessed August 2, 2017. https://www.nixonlibrary.gov/themuseum/exhibits/2010/watergateExhibitBackground/watergateexhibitbackground.php
-
-"Watergate Trial Conversations." Richard M. Nixon Presidential Library and Museum. Accessed June 15, 2017. https://www.nixonlibrary.gov/forresearchers/find/tapes/watergate/trial/transcripts.php.
+"Watergate Trial Conversations." Richard M. Nixon Presidential Library and Museum. Accessed August, 20 2018. https://www.nixonlibrary.gov/watergate-trial-tapes.
 
 [The Clay Thomas Whitehead Papers](http://hdl.loc.gov/loc.mss/eadmss.ms013083), Manuscript Division, Library of Congress, Washington, D.C. These papers have also been digitized and are available online at: http://www.claytwhitehead.com/
 
