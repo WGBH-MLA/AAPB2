@@ -70,12 +70,12 @@ gem 'srt'
 
 gem 'sony_ci_api', '~> 0.2.1'
 
-gem 'rubyzip'
+gem 'rubyzip', '~> 1.2.1'
 
 gem 'cancan'
 gem 'geoip'
 gem 'fastimage'
-gem 'rack-cors', :require => 'rack/cors'
+gem 'rack-cors', '~> 1.0.2', :require => 'rack/cors'
 
 gem 'aws-sdk', '~> 2', :group => :development # Unless we want the AWS credentials on Travis for tests...
 
@@ -92,3 +92,6 @@ gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
 
 gem 'passenger', :group => :production
+
+
+gem 'nokogiri', '~> 1.8.4'

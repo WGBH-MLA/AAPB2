@@ -310,16 +310,17 @@ DEPENDENCIES
   jquery-ui-rails
   launchy
   libv8 (~> 3.16.14.13)
+  nokogiri (~> 1.8.4)
   passenger
   pry
   pry-nav
-  rack-cors
+  rack-cors (~> 1.0.2)
   rails (= 4.1.11)
   rsolr
   rspec
   rspec-rails
   rubocop
-  rubyzip
+  rubyzip (~> 1.2.1)
   sass-rails (~> 5.0.7)
   sdoc (~> 0.4.0)
   solrizer
