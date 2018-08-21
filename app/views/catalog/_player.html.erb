@@ -7,79 +7,97 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
-<div class="row">
-  <% if @show_transcript %>
-    <div class="col-sm-12 col-md-6 player">
-  <% else %>
-    <div class="col-sm-12 col-md-8 player col-md-offset-2">
-  <% end %>
-      <section class="videocontent">
-      <%=
-        @pbcore.media_srcs.map do |media_src|
-          media = @pbcore.video? ? 'video' : 'audio'
-          content_tag(media,
-                      controls: true,
-                      "class" => "video-js vjs-default-skin vjs-fluid",
-                      "id" => "player_media",
-                      "aria-label" => "video player",
-                      oncontextmenu: 'return false;',
-                      preload: 'auto',
-                      crossorigin: 'with-credentials',
-                      :"data-setup" => '{}',
-                      poster: @pbcore.img_src) do %>
+<!-- player or thumbnail or message -->
+<% if @available_and_playable %>
 
-            <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+  <div class="row">
+    <% if @show_transcript %>
+      <div class="col-sm-12 col-md-6 player">
+    <% else %>
+      <div class="col-sm-12 col-md-8 player col-md-offset-2">
+    <% end %>
+        <section class="videocontent">
+        <%=
+          @pbcore.media_srcs.map do |media_src|
+            media = @pbcore.video? ? 'video' : 'audio'
+            content_tag(media,
+                        controls: true,
+                        "class" => "video-js vjs-default-skin vjs-fluid",
+                        "id" => "player_media",
+                        "aria-label" => "video player",
+                        oncontextmenu: 'return false;',
+                        preload: 'auto',
+                        crossorigin: 'with-credentials',
+                        :"data-setup" => '{}',
+                        poster: @pbcore.img_src) do %>
 
-            <% if @pbcore.captions_src %>
-              <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
-            <% end %>
-            <% if ChapterFile.file_present?(@pbcore.id) %>
-              <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
-            <% end %>
-            <%
-          end
-        end.join().html_safe()
-      %>
-      </section>
+              <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+
+              <% if @pbcore.captions_src %>
+                <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+              <% end %>
+              <% if ChapterFile.file_present?(@pbcore.id) %>
+                <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
+              <% end %>
+              <%
+            end
+          end.join().html_safe()
+        %>
+        </section>
+      </div>
+    <div class="hidden-sm hidden-xs">
+      <%= render partial: 'transcript' %>
     </div>
-  <div class="hidden-sm hidden-xs">
-    <%= render partial: 'transcript' %>
   </div>
-</div>
-<div class="row">
-  <% if @show_transcript %>
-    <div class="col-sm-12 col-md-6 exhibit-promo">
-  <% else %>
-    <div class="col-sm-12 col-md-8 col-md-offset-2 exhibit-promo">
+
+<% else %>
+  <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
+  <div style="margin-top: 1em;" class="content-text">
+    <% if @pbcore.outside_url %>
+      <% @pbcore.contributing_organization_objects.each do |org| %>
+        <%= link_to(
+          "#{@pbcore.video? ? 'View' : 'Listen'} online at #{org.short_name}.",
+          @pbcore.outside_url,
+          {target: '_blank'}
+        ) %>
+      <% end %>
+    <% end %>
+  </div> 
+<% end %>
+
+  <!-- special collections/exhibit banner -->
+  <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
+    <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
+    <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
+      <span class="glyphicon glyphicon-star"></span>
+      <strong><%= exhibit_caption %></strong>
+    </a>
   <% end %>
-      <% if @pbcore.playlist_group %>
-        <div id="playlist" class="row">
-          <div class="col-md-6 col-xs-6 playlist-pull-left">
-            <% if @pbcore.playlist_prev_id %>
-              <a href="/catalog/<%= @pbcore.playlist_prev_id %>" data-no-turbolink='true'>&#x25c0; Part <%= @pbcore.playlist_order - 1 %></a>
-            <% end %>
-          </div>
-          <div class="col-md-6 col-xs-6 playlist-pull-right">
-            <% if @pbcore.playlist_next_id %>
-              <a href="/catalog/<%= @pbcore.playlist_next_id %>" data-no-turbolink='true'>Part <%= @pbcore.playlist_order + 1 %> &#x25b6;</a>
-            <% end %>
-          </div>
-        </div>
-      <% end %>
-      <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
-        <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
-        <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
-          <span class="glyphicon glyphicon-star"></span>
-          <strong><%= exhibit_caption %></strong>
-        </a>
-      <% end %>
-      <% if @pbcore.special_collection %>
-        <% coll = SpecialCollection.find_by_path(@pbcore.special_collection) %>
-        <% coll_caption = "This record is featured in “#{coll.title}.”" %>
-        <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
-          <span class="glyphicon glyphicon-star"></span>
-          <strong><%= coll_caption %></strong>
-        </a>
-      <% end %>
-    </div>
-</div>
+  <% if @pbcore.special_collection %>
+    <% coll = SpecialCollection.find_by_path(@pbcore.special_collection) %>
+    <% coll_caption = "This record is featured in “#{coll.title}.”" %>
+    <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
+      <span class="glyphicon glyphicon-star"></span>
+      <strong><%= coll_caption %></strong>
+    </a>
+  <% end %>
+
+
+  <% unless @available_and_playable %>
+
+    <% if (@pbcore.public? && !current_user.usa?) || @pbcore.protected? %>
+      Please note: This content is currently not available at your location. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+    <% elsif @pbcore.private? %>
+      Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+    <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
+      Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+    <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
+      This content has not been digitized. Please contact the contributing organization(s) listed below.
+    <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
+      This content has not been digitized.
+    <% end %>
+  <% end %>
+
+  <% @pbcore.reference_urls.each do |url| %>
+    <%= link_to 'More information on this record is available.', url %>
+  <% end %>
