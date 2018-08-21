@@ -31,7 +31,7 @@ American community and the public at large. This collection was digitized as par
 
 - [*The Center for Asian American Media* Website](https://www.caamedia.org/)
 - [Bay Area Video Coalition Website](https://www.bavc.org/)
-- [About the Public Broadcasting Fellowship](https://www.pbpf.americanarchive.org/about-the-fellowships/)
+- [About the Public Broadcasting Fellowship](https://pbpf.americanarchive.org/about-the-fellowships/)
 
 ## Help
 
