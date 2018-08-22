@@ -15,7 +15,7 @@ In April 2000, the WGBH Media Library and Archives in Boston was awarded a Natio
 ## Featured
 
 [![School Desegregation](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-9gq6r236.jpg)](/catalog/cpb-aacip_15-9gq6r236)
-[![Health Care](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-t727941687.jpg)](/catalog/cpb-aacip_15-t727941687)
+[![Black Politics](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-1z41r6n13b.jpg)](/catalog/cpb-aacip_15-1z41r6n13b)
 [![Black Power at Universities](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-99p2w600.jpg)](/catalog/cpb-aacip_15-99p2w600)
 [![Mel King](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-182jmgnn.jpg)](/catalog/cpb-aacip_15-182jmgnn)
 [![Equal Rights Amendment](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-9nc5sc3d.jpg)](/catalog/cpb-aacip_15-9nc5sc3d)
