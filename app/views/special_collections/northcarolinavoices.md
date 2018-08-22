@@ -2,21 +2,22 @@
 
 ## Thumbnail
 
-![WUNC_North Carolina Public Radio](https://s3.amazonaws.com/americanarchive.org/special-collections/wunc-facebook.jpg "WUNC-North Carolina Public Radio")
+![WUNC North Carolina Voices](https://s3.amazonaws.com/americanarchive.org/special-collections/WUNC_North_Carolina_Voices_thumbnail.png "WUNC North Carolina Voices")
 
 ## Summary
 
-The <em> North Carolina Voices </em> series was a number of special programs that focused on specific North Carolina issues in depth. Two of the specific topics included here are poverty and the Civil War.
+The <em> North Carolina Voices </em> Series Collection contains special radio programs produced by North Carolina Public Radio-WUNC that focused on North Carolina issues in depth. Two of the specific topics included here are the Civil War and poverty.
 
-<em> North Carolina Voices: Civil War </em> examined how the Civil War affects people in North Carolina  150 years after the start of the war. It looked at the legacy of the war and how it is remembered and how it shapes the identity of Southerners. The series included a series of reports during Morning Edition and a series of discussions on The State of Things. The series aired the weeks of June 13th and June 20th, 2011. Additionally, as part of the series: short “family stories" to placed throughout the program schedule those weeks. Those included personal stories of the war handed down through families or historians answering listener questions.
+The collection includes sixteen “family stories” recorded for <em> North Carolina Voices: Civil War </em>, which examined how the Civil War affects people in North Carolina 150 years after the start of the war. The series aired the weeks of June 13th and June 20th, 2011 and looked at the legacy of the war, how it is remembered, and how it shapes the identity of Southerners.
 
-<em> North Carolina Voices: Understanding Poverty </em> is a series of reports, documentaries, and call-in programs that aired on North Carolina Public Radio-WUNC in April 2005. The series contains two documentaries, three State of Things programs, twenty features and audio portraits broadcast on Morning Edition,  twenty-two “What is Poverty?” audio shorts, photographs from the exhibit “North Carolina Voices: Picturing Poverty Past and Present.” 
-The series asks: What is poverty? And how has poverty changed since the 1960s? The series looks back to the 1960s because of the North Carolina Fund, a five year initiative to fight poverty launched in 1963 by Governor Terry Sanford. At the time, half of the people living in the state were poor by some estimates. More than 40% of students did not graduate from 8th grade. And factory workers earned some of the lowest industrial wages in the nation. The North Carolina Fund created the experimental projects in education, health, job training, housing, and community development. The Fund served as a model for the national “War on Poverty” and broke ground by facing head-on the links between poverty and race, challenging the economic and political power structure of the Old South and creating ways for poor-people to help themselves. The goals and strategies of the North Carolina Fund were very much a product of the era. <em> North Carolina Voices: Understanding Poverty </em> examines how times have changed. The series uses a variety of narrative forms to give listeners access to competing perspectives about what poverty is today and how and why poverty is changing. 
+<em> North Carolina Voices: Understanding Poverty </em> is a series of reports, documentaries, and call-in programs that aired in April 2005. The series contains two documentaries, three <em>The State of Things</em> programs, twenty features and audio portraits broadcast on <em>Morning Edition</em>, and twenty-two “What is Poverty?” audio shorts.
+
+The series asks: What is poverty? And how has poverty changed since the 1960s? The series looks back to the 1960s, beginning with the North Carolina Fund. <em> North Carolina Voices: Understanding Poverty </em> examines how times have changed. The series uses a variety of narrative forms to give listeners access to competing perspectives about what poverty is today and how and why poverty is changing. 
 
 
 ## Background
 
-WUNC began as a FM station staffed by UNC-Chapel Hill  students in 1952 and continued to operate until the early 1970s when the station shut down due to failing equipment and lack of operating funds. WUNC aired in its current instance starting in 1976 and is associated with the University of North Carolina at Chapel Hill and National Public Radio. WUNC broadcasts to the Research Triangle and Piedmont area of North Carolina and Eastern North Carolina and since 1998 has been available globally as an online stream. Its programming consists primarily of news with music and entertainment programs airing on the weekend,  as well as programs from NPR, American Public Media, Public Radio International and BBC. This collection contains only a small sample of shows and recordings produced by WUNC. This collection was digitized through the American Archive of Public Broadcasting Preservation Fellowship.
+WUNC began as a FM station staffed by student at the University of North Carolina at Chapel Hill in 1952 and continued to operate until the early 1970s, when the station shut down due to failing equipment and lack of funds. WUNC aired in its current instance starting in 1976 and is associated with UNC-Chapel Hill and National Public Radio. WUNC broadcasts to the Research Triangle and Piedmont area of North Carolina and Eastern North Carolina and since 1998 has been available globally as an online stream. Its programming consists primarily of news with music and entertainment programs airing on the weekend,  as well as programs from NPR, American Public Media, Public Radio International and BBC. This collection was digitized through the American Archive of Public Broadcasting Preservation Fellowship, funded by the Institute of Museum and Library Services. The fellows involved in the realization of this project were Dena Schultz and Steven Wilcer.
 
 ## Featured
 
@@ -30,12 +31,15 @@ WUNC began as a FM station staffed by UNC-Chapel Hill  students in 1952 and cont
 ## Resources
 
 - [WUNC Website](http://wunc.org/)
-- [North Carolina Voices](http://wunc.org/tags/north-carolina-voices#stream/0)
 - [WUNC on Twitter](https://twitter.com/wunc)
 - [WUNC on Facebook](https://www.facebook.com/915wunc)
+- [North Carolina Voices](http://wunc.org/tags/north-carolina-voices#stream/0)
+- [Understanding Poverty]( http://storyweb.wuncfm.unc.edu/dfd/poverty/) 
+- [University of North Carolina at Chapel Hill, Wilson Library Special Collections](https://library.unc.edu/wilson/)
+- [Wilson Library WUNC collection: WUNC Records, 1929-2004 (bulk 1970-1995)](https://finding-aids.lib.unc.edu/40278/)
 - [AAPBF](https://pbpf.americanarchive.org/)
 
 ## Help
 
-Records are described at an item level, and all records contain a brief summary of asset. Each record is identified by corresponding series and episode title. Many recordings contain keywords from the recording, however full transcripts are not availible.  To identify persons or topics of interest within the collection, users can search by name or by possible keywords and subjects. 
+Records are described at an item level, and all records contain a brief summary of asset. Each record is identified by corresponding series and episode title. Many recordings contain keywords from the recording, however full transcripts are not available.  To identify persons or topics of interest within the collection, users can search by name or by possible keywords and subjects. 
 
