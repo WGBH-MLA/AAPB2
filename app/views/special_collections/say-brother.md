@@ -6,33 +6,34 @@
 
 ## Summary
 
-Ken Burns’ <em>The Civil War</em> Interviews Collection consists of eight full interviews conducted by Burns with historians, writers, and commentators concerning the history and politics of the American Civil War. The interviews were recorded on film by Ken Burns and associates between 1986 and 1988 as part of Ken Burns’ award winning documentary, <em>The Civil War</em>, which originally aired on PBS stations from September 23rd to September 27th, 1990. The recordings include cuts, incidental conversation, production notes, and segments with sound but not film, and vary in length between 30 minutes and 1.5 hours. The questions asked of interviewees are usually audible. The interviews were digitized as part of the 25th anniversary restoration of the original film and provided to the AAPB in fall 2016.
+The *Say Brother* Collection includes [number] programs and original interviews created for *Say Brother* (1968 – 1997), WGBH's longest running public affairs television program by, for and about African Americans now known as [*Basic Black*](https://www.wgbh.org/basic-black) (1998 – present). The entire digitized collection is available on location at WGBH and the Library of Congress, and [number] are available in the AAPB Online Reading Room. Since its inception in 1968, *Say Brother* has featured the voices of both locally and nationally known African American artists, athletes, performers, politicians, professionals, and writers including: Muhammad Ali, Maya Angelou, Thomas Atkins, Amiri Baraka, Doris Bunte, Julian Bond, Stokely Carmichael, Louis Farrakhan, Nikki Giovanni, Odetta Gordon, Benjamin Hooks, Jesse Jackson, Hubie Jones, Mel King, Eartha Kitt, Elma Lewis, Haki Madhubuti, Wallace D. Muhammad, Charles Ogletree, Babatunde Olatunji, Byron Rushing, Owusu Sadaukai, and Sonia Sanchez. Topics covered by the collection include Black Power, healthcare, international affairs, human rights, police relations, prisons, religion, desegregation, Native American rights, politics, education, community and national organizations, affirmative action, business, the Equal Rights Amendment, Africa, and activism.
 
 ## Background
 
-Ken Burns has been making films for almost forty years. Since the Academy Award nominated Brooklyn Bridge in 1981, Burns has gone on to direct and produce some of the most acclaimed historical documentaries ever made. Ken’s films have won fifteen Emmy Awards and two Oscar nominations, and in 2008, Ken was honored by the Academy of Television Arts & Sciences with a Lifetime Achievement Award.
+In April 2000, the WGBH Media Library and Archives in Boston was awarded a National Endowment for the Humanities Archives and Special Collections Preservation and Access grant to arrange, describe, and reformat the master tapes dating from 1968 to 1982 to keep the *Say Brother* collection accessible. Recently added to the American Archive of Public Broadcasting, the collection is now preserved for posterity at the Library of Congress.
 
 ## Featured
 
-[![Barbara Fields](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-2r3nv99t98.jpg)](/catalog/cpb-aacip_509-2r3nv99t98)
-[![Daisy Turner](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-6h4cn6zm21.jpg)](/catalog/cpb-aacip_509-6h4cn6zm21)
-[![Robert Penn Warren](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-f18sb3xm7h.jpg)](/catalog/cpb-aacip_509-f18sb3xm7h)
-[![William Safire](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-js9h41kc8n.jpg)](/catalog/cpb-aacip_509-js9h41kc8n)
-[![Ed Bearss](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-pk06w9749m.jpg)](/catalog/cpb-aacip_509-pk06w9749m)
-[![Stephen Oates](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_509-t727941r7b.jpg)](/catalog/cpb-aacip_509-t727941r7b)
+[![School Desegregation](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-9gq6r236.jpg)](/catalog/cpb-aacip_15-9gq6r236)
+[![Health Care](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-t727941687.jpg)](/catalog/cpb-aacip_15-t727941687)
+[![Black Power at Universities](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-99p2w600.jpg)](/catalog/cpb-aacip_15-99p2w600)
+[![Mel King](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-182jmgnn.jpg)](/catalog/cpb-aacip_15-182jmgnn)
+[![Equal Rights Amendment](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-9nc5sc3d.jpg)](/catalog/cpb-aacip_15-9nc5sc3d)
+[![Ella Collins](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-9h98zd0p.jpg)](/catalog/cpb-aacip_15-9h98zd0p)
 
 ## Resources
 
-- [<em>The Civil War</em> on PBS.org](http://www.pbs.org/kenburns/civil-war/)
-- [Restoring <em>The Civil War</em> film](http://www.pbs.org/kenburns/civil-war/restoring-film/)
+- [*Eyes on the Prize* Special Collection](http://americanarchive.org/special_collections/eotp-i-interviews)
+- [*Freedom Riders* Special Collection ](http://americanarchive.org/special_collections/freedom-riders-interviews)
 - [<em>The Civil War</em> on Ken Burns’ website](http://www.wnyc.org/series/archives-and-preservation/)
-- [Civil War Resources at the Library of Congress](https://www.loc.gov/rr/main/uscw_rec_links/civilwarlinks.html)
-- [Article on the 25th Anniversary of Ken Burns’ The Civil War](https://www.neh.gov/humanities/2015/septemberoctober/feature/the-civil-war-ken-burns-reinvented-the-television-history-d)
+- [Amistad Digital Resource for Teaching African American History, Columbia University](http://www.amistadresource.org/)
+- [Black Power, The King Center](http://www.thekingcenter.org/archive/theme/7461)
+- [Boston TV News Digital Library](http://bostonlocaltv.org)
 
 ## Funders
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. All records have complete text transcripts. Complete original PDF transcripts exist for three of the eight interviews: Ed Bearss, Stephen Oates, and Robert Penn Warren. Incomplete original PDF transcripts exist for the interviews with Daisy Turner, C. Vann Woodward, and William Safire. Additionally, the PDF transcripts do not always include text of questions asked of interviewees (but the questions are typically audible in the video). Some of the PDF versions of transcripts contain more information, such as handwritten notes and timestamps, than is contained in the cleaned up transcript text displayed in the website transcript viewer. Chapter headings in the video player allow for the user to navigate recording by the topics that are discussed.
+Records are described at an item level, and searches by date, year or topic will yield useful results. The entire collection is available on location at WGBH and the Library of Congress, and [number] are available in the AAPB Online Reading Room.
 
 ## Terms
