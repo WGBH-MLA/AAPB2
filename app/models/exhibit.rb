@@ -13,6 +13,10 @@ class Exhibit < Cmless
 
   attr_reader :head_html
 
+  attr_reader :gallery_html
+  attr_reader :records_html
+
+  # Cmless grabs all of these *_htmls upon initialization
   def self.all_top_level
     @all_top_level ||=
       Exhibit.select { |exhibit| !exhibit.path.match(/\//) }
@@ -59,6 +63,15 @@ class Exhibit < Cmless
       image['class'] = 'pull-right'
     end
     doc.inner_html
+  end
+
+  def gallery_html
+    
+
+  end
+
+  def records_html
+
   end
 
   def items
