@@ -122,8 +122,7 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 9],
           ['contributing_organizations', 38, 'WGBH+(MA)', 6],
           ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1],
-          ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 43]
+          ['year', 1, '2000', 1]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -154,6 +153,20 @@ describe 'Catalog' do
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
+            it "#{facet}=#{value}: #{value_count}\t#{url}" do
+              visit url
+              expect_count(value_count)
+              expect_fuzzy_xml
+            end
+          end
+        end
+
+        describe 'access facet' do
+          assertions = [
+            ['access_types', PBCore::ALL_ACCESS, 43]
+          ]
+          assertions.each do |facet, value, value_count|
+            url = "/catalog?f[#{facet}][]=#{value}"
             it "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
               expect_count(value_count)
@@ -193,7 +206,9 @@ describe 'Catalog' do
           expect_count(43)
           expect(page).to have_text('You searched for: Access all')
 
+          expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
           click_link('KQED (CA)')
+          expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
           expect_count(3)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)')
@@ -203,7 +218,7 @@ describe 'Catalog' do
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)')
 
-          all(:css, 'a.remove').first.click # KQED
+          click_link('KQED (CA)')
           expect_count(6)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)')
@@ -218,6 +233,10 @@ describe 'Catalog' do
           click_link('Iowa Public Television (IA)')
           # TODO: check count when IP set in request.
           expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)')
+
+          expect(page).to have_css('a', text: 'District of Columbia')
+          click_link('District of Columbia')
+          expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)')
 
           # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
           # TODO: check count when IP set in request.
