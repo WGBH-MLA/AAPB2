@@ -13,8 +13,8 @@ class Exhibit < Cmless
 
   attr_reader :head_html
 
-  attr_reader :gallery_html
-  attr_reader :records_html
+  # attr_reader :gallery_html
+  # attr_reader :records_html
 
   # Cmless grabs all of these *_htmls upon initialization
   def self.all_top_level
@@ -65,14 +65,14 @@ class Exhibit < Cmless
     doc.inner_html
   end
 
-  def gallery_html
+  # def gallery_html
     
 
-  end
+  # end
 
-  def records_html
+  # def records_html
 
-  end
+  # end
 
   def items
     @items ||= begin
