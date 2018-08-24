@@ -6,7 +6,7 @@
     link: http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=university+of+kansas&utf8=%E2%9C%93&f[access_types][]=digitized
   blurb_md: &naeb_blurb >
     [Additional audio content from %{naeb_station} in %{state}]
-    (%{link}")
+    (%{link})
     is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
