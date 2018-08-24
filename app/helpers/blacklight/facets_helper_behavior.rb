@@ -127,6 +127,8 @@ module Blacklight::FacetsHelperBehavior
   # @param [Hash] options
   # @option options [Boolean] :suppress_link display the facet, but don't link to it
   # @return [String]
+
+  # Overriding blacklight's standard facet display to use radio buttons
   def render_facet_value(facet_field, item, options ={})
     path = search_action_path(add_facet_params_and_redirect(facet_field, item))
     link_to_unless(options[:suppress_link], radio_button_tag(facet_display_value(facet_field, item), facet_display_value(facet_field, item), false) + facet_display_value(facet_field, item), path, :class => "facet_select") + render_facet_count(item.hits)
@@ -138,10 +140,13 @@ module Blacklight::FacetsHelperBehavior
   ##
   # Standard display of a SELECTED facet value (e.g. without a link and with a remove button)
   # @params (see #render_facet_value)
+
+  # Overriding blacklight's standard facet display to use radio buttons
   def render_selected_facet_value(facet_field, item)
     link_to(radio_button_tag(facet_display_value(facet_field, item), facet_display_value(facet_field, item), true) + facet_display_value(facet_field, item), search_action_path(remove_facet_params(facet_field, item, params)), :class=>"facet_select") + render_facet_count(item.hits)
   end
 
+  # New method, to not use radio buttons for organization states
   def render_super_facet_value(facet_field, item, options ={})
     path = search_action_path(add_facet_params_and_redirect(facet_field, item))
 
