@@ -11,27 +11,23 @@ module Zipper
     filename = path.to_s
 
     str = if filename =~ /\.zip$/
-
-      # zipper
-      Zip::File.open(filename, Zip::File::CREATE) do |z|
-        str = z.read( File.basename( filename.gsub(/\.zip$/, '') ) )
-        z.close
-      end
-
-      str
-    else
-      # not zip
-      f = File.open(filename)
-      str = f.read
-      f.close
-      str
-    end
+            # zipper
+            Zip::File.open(filename, Zip::File::CREATE) do |z|
+              s = z.read(File.basename(filename.gsub(/\.zip$/, '')))
+              z.close
+              s
+            end
+          else
+            # not zip
+            f = File.open(filename)
+            s = f.read
+            f.close
+            s
+          end
 
     unless filename.include?('spec/fixtures') || filename.include?('spec/scripts')
       File.delete(filename)
     end
-
     str
   end
-
 end
