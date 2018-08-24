@@ -199,6 +199,10 @@ class CatalogController < ApplicationController
             @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
             @show_transcript = true
           end
+
+          # can? play because we're inside this block
+          @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
+
         else
           @show_transcript = false
         end
