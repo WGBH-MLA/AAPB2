@@ -89,9 +89,7 @@ $(function(){
     // If timecode included in URL, play to pass thumbnail,
     // then pause at that timecode.
     if (url_hash) {
-        $player[0].play();
-        $player[0].currentTime = url_hash[1];
-        $player[0].pause();
+      $player[0].currentTime = url_hash[1];
     }
 
     // New for AAPB.
