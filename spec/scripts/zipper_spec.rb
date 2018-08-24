@@ -10,6 +10,6 @@ describe Zipper do
     path = "/tmp/redundant-#{rand(10_000_000).to_s(36)}.txt"
     Zipper.write(path, content)
     expect(File.read(path + '.zip').length).to be < content.length / 5
-    expect(Zipper.read(path)).to eq(content)
+    expect(Zipper.read(path+'.zip')).to eq(content)
   end
 end
