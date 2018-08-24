@@ -10,7 +10,7 @@ The *Say Brother* Collection includes programs and original interviews created f
 
 ## Background
 
-In April 2000, the WGBH Media Library and Archives in Boston was awarded a National Endowment for the Humanities Archives and Special Collections Preservation and Access grant to arrange, describe, and reformat the master tapes dating from 1968 to 1982 to keep the *Say Brother* collection accessible. Recently added to the American Archive of Public Broadcasting, the collection is now preserved for posterity at the Library of Congress.
+In April 2000, the WGBH Media Library and Archives in Boston was awarded a National Endowment for the Humanities Archives and Special Collections Preservation and Access grant to arrange, describe, and reformat the master *Say Brother* tapes dating from 1968 to 1982 to keep the collection accessible. Recently added to the American Archive of Public Broadcasting, the collection is now preserved for posterity at the Library of Congress.
 
 ## Featured
 
@@ -25,7 +25,6 @@ In April 2000, the WGBH Media Library and Archives in Boston was awarded a Natio
 
 - [*Eyes on the Prize* Special Collection](http://americanarchive.org/special_collections/eotp-i-interviews)
 - [*Freedom Riders* Special Collection ](http://americanarchive.org/special_collections/freedom-riders-interviews)
-- [<em>The Civil War</em> on Ken Burns’ website](http://www.wnyc.org/series/archives-and-preservation/)
 - [Amistad Digital Resource for Teaching African American History, Columbia University](http://www.amistadresource.org/)
 - [Black Power, The King Center](http://www.thekingcenter.org/archive/theme/7461)
 - [Boston TV News Digital Library](http://bostonlocaltv.org)
@@ -34,6 +33,6 @@ In April 2000, the WGBH Media Library and Archives in Boston was awarded a Natio
 
 ## Help
 
-Records are described at an item level, and searches by date, year or topic will yield useful results. The entire collection is available on location at WGBH and the Library of Congress, and 95 are available in the AAPB Online Reading Room. Access to certain programs is limited for copyright reasons. Contact the AAPB at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) for more information.
+Records are described at an item level, and searches by date, year or topic will yield useful results. The entire collection is available on location at WGBH and the Library of Congress, and 95 programs and interviews are available in the AAPB Online Reading Room. Access to certain programs is limited for copyright reasons. Contact the AAPB at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org) for more information.
 
 ## Terms
