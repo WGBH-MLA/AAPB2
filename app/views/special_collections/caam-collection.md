@@ -31,12 +31,13 @@ American community and the public at large. This collection was digitized as par
 
 - [*The Center for Asian American Media* Website](https://www.caamedia.org/)
 - [Bay Area Video Coalition Website](https://www.bavc.org/)
-- [About the Public Broadcasting Fellowship](https://www.pbpf.americanarchive.org/about-the-fellowships/)
+- [About the Public Broadcasting Fellowship](https://pbpf.americanarchive.org/about-the-fellowships/)
 
-## Search Strategies
+## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword, or title, or browse all episodes by clicking “Explore the Collection” below the search box.
+- Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword, or title, or browse all episodes by clicking “Explore the Collection” below the search box.
+- The Center for Asian American Media’s collection has 23 digitized titles, 22 of which are accessible online at the AAPB website. Materials not visible online are available by visiting in person to the Library of Congress, WGBH, or CAAM.
 
-The Center for Asian American Media’s collection has 23 digitized titles, 22 of which are accessible online at the AAPB website. Materials not visible online are available by visiting in person to the Library of Congress, WGBH, or CAAM.
+## Funders
 
-
+## Terms

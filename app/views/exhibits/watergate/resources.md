@@ -9,15 +9,13 @@
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin-Drawing-s.jpg" alt="Joseph Papin. [Senator Sam Ervin points his finger], 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53335."/></a></td></tr>
 </table>
 
-If you simply can’t get enough of Watergate, there is even more content to watch and read. For the interested visitor, this author recommends the following public television documentaries and video content: Bill Moyers’s [Essay on Watergate](https://vimeo.com/44242486) (1973), [*Summer of Judgment: The Watergate Hearings*](/catalog/cpb-aacip_512-mc8rb6ww1z) (1983), [“Covering Watergate: 40 Years Later with MacNeil and Lehrer”](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer) (2013), and [Dick Cavett’s Watergate](http://www.pbs.org/wnet/secrets/dick-cavetts-watergate-full-episode/1880/) (2014). If you, like MacNeil and Lehrer, prefer to draw your own conclusions, both the [Nixon Presidential Library](https://www.nixonlibrary.gov/index.php) and the [Ford Presidential Library](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html) have extensive online primary source collections including scans of key documents and [recordings of the Oval Office tapes](https://www.nixonlibrary.gov/forresearchers/find/tapes/watergate/trial/transcripts.php). You can also access the full report produced by the Senate Select Committee [here](http://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15).
+If you simply can’t get enough of Watergate, there is even more content to watch and read. For the interested visitor, this author recommends the following public television documentaries and video content: Bill Moyers’s [Essay on Watergate](https://vimeo.com/44242486) (1973), [*Summer of Judgment: The Watergate Hearings*](/catalog/cpb-aacip_512-mc8rb6ww1z) (1983), [“Covering Watergate: 40 Years Later with MacNeil and Lehrer”](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer) (2013), and [Dick Cavett’s Watergate](http://www.pbs.org/wnet/secrets/dick-cavetts-watergate-full-episode/1880/) (2014). If you, like MacNeil and Lehrer, prefer to draw your own conclusions, both the [Nixon Presidential Library](https://www.nixonlibrary.gov/index.php) and the [Ford Presidential Library](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html) have extensive online primary source collections including scans of key documents and [recordings of the Oval Office tapes](https://www.nixonlibrary.gov/watergate-trial-tapes). You can also access the full report produced by the Senate Select Committee [here](http://babel.hathitrust.org/cgi/pt?id=mdp.39015011697870;view=1up;seq=15).
 
 For scholars looking for more in-depth resources, especially on the history of Watergate and public broadcasting, please see the listed content below.
 
 
 ## Extended
 ### Other Online Exhibits
-“Watergate Exhibit Evidence.” Richard Nixon Presidential Library and Museum. Accessed October 24, 2017. https://www.nixonlibrary.gov/themuseum/exhibits/2010/watergateExhibitBackground/watergateexhibitbackground.php.
-
 "The Watergate Files." The Gerald R. Ford Library & Museum. Accessed June 30, 2017. https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html.
 
 ### Public Television Documentaries and Interviews
@@ -64,9 +62,7 @@ Select Committee on Presidential Campaign Activities, The Final Report of the Se
 
 *Watergate: Chronology of a Crisis*. Washington, DC: Congressional Quarterly, 1975.
 
-"Watergate Exhibit Evidence." Richard M. Nixon Presidential Library and Museum. Accessed August 2, 2017. https://www.nixonlibrary.gov/themuseum/exhibits/2010/watergateExhibitBackground/watergateexhibitbackground.php
-
-"Watergate Trial Conversations." Richard M. Nixon Presidential Library and Museum. Accessed June 15, 2017. https://www.nixonlibrary.gov/forresearchers/find/tapes/watergate/trial/transcripts.php.
+"Watergate Trial Conversations." Richard M. Nixon Presidential Library and Museum. Accessed August, 20 2018. https://www.nixonlibrary.gov/watergate-trial-tapes.
 
 [The Clay Thomas Whitehead Papers](http://hdl.loc.gov/loc.mss/eadmss.ms013083), Manuscript Division, Library of Congress, Washington, D.C. These papers have also been digitized and are available online at: http://www.claytwhitehead.com/
 
