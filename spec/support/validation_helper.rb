@@ -55,8 +55,9 @@ END
     end
     raise "Bad URLS: #{bad_urls}" unless bad_urls.empty?
   rescue => e
-    numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
-    raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n#{numbered}"
+    # numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
+    # raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n#{numbered}"
+    raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n"
   end
 end
 
