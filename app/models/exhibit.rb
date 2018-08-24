@@ -3,10 +3,11 @@ require 'nokogiri'
 require 'cmless'
 
 class Exhibit < Cmless
-  # ROOT = (Rails.root + 'app/views/exhibits').to_s
+  ROOT = (Rails.root + 'app/views/exhibits').to_s
 
   def initialize( exhibit_name )
-    @root = %(#{Rails.root}app/views/exhibits/#{exhibit_name})
+    @calling_class = self
+    @record_root = %(#{ROOT}/#{exhibit_name})
     super
   end
 

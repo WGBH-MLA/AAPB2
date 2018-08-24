@@ -1,4 +1,5 @@
 require_relative '../models/exhibit'
+Rails.backtrace_cleaner.remove_silencers!
 
 class ExhibitsController < OverrideController
   def index
@@ -7,7 +8,7 @@ class ExhibitsController < OverrideController
   end
 
   def show
-    @exhibit = Exhibit.find_by_path(params[:path])
+    @exhibit = Exhibit.new(params[:path])
     @page_title = @exhibit.title
     params[:path] = nil
   end
