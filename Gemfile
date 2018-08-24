@@ -87,7 +87,7 @@ gem 'capybara', :group => :test
 gem 'webmock', :group => :test
 gem 'launchy', :group => :test
 
-gem 'rubocop', :group => :development
+gem 'rubocop', '0.39.0', :group => :development
 gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
 
