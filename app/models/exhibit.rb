@@ -3,7 +3,12 @@ require 'nokogiri'
 require 'cmless'
 
 class Exhibit < Cmless
-  ROOT = (Rails.root + 'app/views/exhibits').to_s
+  # ROOT = (Rails.root + 'app/views/exhibits').to_s
+
+  def initialize( exhibit_name )
+    @root = %(#{Rails.root}app/views/exhibits/#{exhibit_name})
+    super
+  end
 
   attr_reader :summary_html
   attr_reader :extended_html
