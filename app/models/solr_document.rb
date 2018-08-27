@@ -1,7 +1,6 @@
 # -*- encoding : utf-8 -*-
 class SolrDocument
   include Blacklight::Solr::Document
-  include Blacklight::Gallery::OpenseadragonSolrDocument
 
   ACCESS_FACET_FIELD = 'access_types'.freeze
   # self.unique_key = 'id'
