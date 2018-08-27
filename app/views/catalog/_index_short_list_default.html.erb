@@ -7,21 +7,13 @@
         <div class="row">
 
           <!-- START Column -->
-          <div class="col-md-3 thumbnail-col">
-            <%= link_to(url_for_document(document)) do %>
-              <div>
-                <img src="<%= pbcore.img_src %>"
-                     class="media-object index-item"
-                     aria-hidden="true"
-                     alt="thumbnail of <%= pbcore.title %>" />
-                <% if pbcore.media_type == PBCore::MOVING_IMAGE && pbcore.digitized? == true %>
-                  <div>
-                    <img src="/thumbs/VIDEO.png"
-                         class="index-item"
-                         aria-hidden="true"
-                         alt="play" />
-                  </div>
-                <% end %>
+          <div class="col-md-1 col-1">
+            <%= link_to(url_for_document(document), {class: 'short_list-image-height'}) do %>
+
+              <div class="">
+                <img class="index-item" src="<%= pbcore.img_src(icon=true) %>"
+                 aria-hidden="true"
+                 alt="thumbnail of <%= pbcore.title %>" />
               </div>
             <% end %>
 
@@ -29,9 +21,11 @@
           <!-- END Column -->
 
           <!-- START Column -->
-          <article class="col-md-9">
-            <h2><%= link_to_document(document, pbcore.title) %></h2>
+          <article class="col-md-11 col-11 list-item-height">
+            <h2 class="list-view-title"><%= link_to_document(document, pbcore.title, {class: ''}) %></h2>
 
+            <span class="short_list-margin">
+              
               <% unless pbcore.asset_date.nil? %>
                 <span class="index-data-title">Date</span>: <%= pbcore.asset_dates.map{ |date| date[1] }.join(', ') %>
               <% end %>
@@ -40,17 +34,21 @@
                 <span class="index-data-title">Producing Organization</span>: <%= pbcore.producing_organizations_facet.join(', ') %>
               <% end %>
 
-            <p><%= truncate(pbcore.descriptions[0], length: 500) + ( "..." if pbcore.descriptions[0].length > 500) %></p>
+            </span>
+
           </article>
+
+
+          <!-- END Column --> 
           <!-- END Column -->
         </div>
           <!-- END Grid -->
-
-
 
     <% # bookmark functions for items/docs -%>
     <%#= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>
 
   </div><!-- END Document Header -->
+
+  <hr class="list-hr">
 
 <% end %>

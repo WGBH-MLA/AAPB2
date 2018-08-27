@@ -52,6 +52,11 @@ GEM
       nokogiri (~> 1.6)
       rails (>= 3.2.6, < 5)
       rsolr (~> 1.0.11)
+    blacklight-gallery (0.3.0)
+      blacklight (~> 5.0)
+      bootstrap-sass (~> 3.0)
+      openseadragon (>= 0.2.0)
+      rails
     blacklight_range_limit (5.1.0)
       blacklight (>= 5.0.0.pre4, < 6)
       jquery-rails
@@ -150,6 +155,8 @@ GEM
     net-ssh (5.0.2)
     nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
+    openseadragon (0.5.0)
+      rails (> 3.2.0)
     parser (2.5.1.2)
       ast (~> 2.4.0)
     passenger (5.3.4)
@@ -288,7 +295,8 @@ PLATFORMS
 DEPENDENCIES
   actionpack-page_caching
   aws-sdk (~> 2)
-  blacklight (= 5.11.1)
+  blacklight
+  blacklight-gallery
   blacklight_range_limit
   cancan
   capistrano-passenger

@@ -18,6 +18,208 @@ $grid-item-height: 250px;
   }
 }
 
+$gallery-height: 10em;
+
+.gallery-thumb {
+
+  height: $gallery-height;
+  min-height: $gallery-height;
+  max-height: $gallery-height;
+
+  width: $gallery-height;
+  min-width: $gallery-height;
+  max-width: $gallery-height;
+
+
+  overflow: hidden;
+}
+
+.index-item {
+  margin: 0;
+}
+
+.index-thumb {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: $gallery-height;
+}
+
+@media (max-width: 767px) {
+  .gallery-thumb {
+
+    height: 100%;
+    min-height: 100%;
+    max-height: 100%;
+
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+
+
+    overflow: hidden;
+  }
+
+  div.gallery-title {
+    font-size: 28px;
+  }
+
+  div.gallery-title h4 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .index-thumb {
+    background-size: cover;
+    background-position: 0 0;
+    /*background-repeat: no-repeat;*/
+    height: 10em;
+  }
+
+}
+
+.gallery-title {
+  font-weight: bold;
+  margin-top: 12px;
+  margin-bottom: 18px;
+}
+
+.short_list-margin {
+  margin-left: 6px;
+}
+
+.short_list-image-height {
+  display: block;
+  height: 3.2em;
+  width: 3.2em;
+}
+
+.four-four-box {
+  float: left;
+  background-color: black;
+  width: 100%;
+  /*height: 75%;*/
+  height: 00;
+
+  margin: 0;
+  overflow: hidden;
+
+  /*force square proportion*/
+  padding-bottom: 100%;
+}
+
+.four-three-box {
+  float: left;
+  background-color: black;
+  width: 100%;
+  /*height: 75%;*/
+  height: 00;
+
+  margin: 0;
+  overflow: hidden;
+
+  /*force square proportion*/
+  padding-bottom: 75%;
+}
+
+$icon-side: 18px;
+
+.view-icon-short_list {
+  top: 2px;
+  width: $icon-side;
+  min-width: $icon-side;
+  max-width: $icon-side;
+
+  height: $icon-side;
+  min-height: $icon-side;
+  max-height: $icon-side;  
+  background: image_url("/thumbs/view-icon-short_list.png");
+  background-size: contain;
+
+}
+
+.view-icon-gallery {
+  top: 2px;
+  width: $icon-side;
+  min-width: $icon-side;
+  max-width: $icon-side;
+
+  height: $icon-side;
+  min-height: $icon-side;
+  max-height: $icon-side;  
+  background: image_url("/thumbs/view-icon-gallery.png");
+  background-size: contain;
+
+}
+
+.view-icon-masonry {
+  top: 2px;
+  width: $icon-side;
+  min-width: $icon-side;
+  max-width: $icon-side;
+
+  height: $icon-side;
+  min-height: $icon-side;
+  max-height: $icon-side;  
+  background: image_url("/thumbs/view-icon-masonry.png");
+  background-size: contain;
+
+}
+
+.view-icon-list {
+  top: 2px;
+  width: $icon-side;
+  min-width: $icon-side;
+  max-width: $icon-side;
+
+  height: $icon-side;
+  min-height: $icon-side;
+  max-height: $icon-side;  
+  background: image_url("/thumbs/view-icon-list.png");
+  background-size: contain;
+}
+
+$icon-back-color: #FFFFFF;
+$icon-active-color: #DDDDDD;
+
+.view-type-short_list {
+  background-color: $icon-back-color;
+}
+.view-type-gallery {
+  background-color: $icon-back-color;
+}
+.view-type-masonry {
+  background-color: $icon-back-color;
+}
+.view-type-list {
+  background-color: $icon-back-color;
+}
+
+.btn-default.view-type-short_list, .btn-default.view-type-gallery, .btn-default.view-type-masonry, .btn-default.view-type-list {
+  padding: 6px;
+  background-color: $icon-back-color;
+}
+
+.btn-default.view-type-short_list.active, .btn-default.view-type-gallery.active, .btn-default.view-type-masonry.active, .btn-default.view-type-list.active {
+  background-color: $icon-active-color;
+}
+
+.list-hr {
+  background-color: #ddd;
+  color: #ddd;
+  border-color: #ddd;
+  margin-top: .4em;
+  margin-bottom: .8em;
+}
+
+.glyphicon {
+  background-color: white;
+}
+
+.glyphicon-list::before {
+  content: "";
+}
+
 #facet-access_types {
   .panel-body {
     padding: 10px 0;

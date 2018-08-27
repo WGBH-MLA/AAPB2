@@ -1,8 +1,20 @@
-<div class="document col-xs-6 col-md-4">
-  <div class="thumbnail">
-    <%= render_thumbnail_tag(document, {}, :counter => document_counter_with_offset(document_counter)) %>
-    <div class="caption">
-      <%= render_document_partials document, blacklight_config.view_config(:gallery).partials, :document_counter => document_counter %>
-    </div>
-  </div>
+<div class="document col-xs-12 col-sm-6 col-md-3 ">
+  <% PBCore.new(document['xml']).tap do |pbcore| %>
+    <%= link_to(url_for_document(document)) do %>
+      <div class="gallery-thumb">
+        <div style="background-image: url('<%= pbcore.img_src %>');" class="index-thumb index-item <%= pbcore.img? ? 'four-three-box' : 'four-four-box' %>" aria-hidden="true" alt="thumbnail of <%= pbcore.title %>" ></div>
+        <% if pbcore.media_type == PBCore::MOVING_IMAGE && pbcore.digitized? == true %>
+          <div>
+            <img src="/thumbs/VIDEO.png?v2"
+                  class="index-item"
+                  aria-hidden="true"
+                  alt="play" />
+          </div>
+        <% end %>
+      </div>
+      <div class="gallery-title">
+        <h4 class=""><%= pbcore.title %></h4>
+      </div>
+    <% end %>
+  <% end %>
 </div>

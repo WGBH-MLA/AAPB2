@@ -126,24 +126,37 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
-  def img_src
-    @img_src ||=
-      case [media_type, digitized?]
-      when [MOVING_IMAGE, true]
-        # TODO: Move ID cleaning into Cleaner: https://github.com/WGBH/AAPB2/issues/870
-        # Mississippi IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
-        "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
-      when [MOVING_IMAGE, false]
-        '/thumbs/video-not-digitized.jpg'
-      when [SOUND, true]
-        '/thumbs/audio-digitized.jpg'
-      when [SOUND, false]
-        '/thumbs/audio-not-digitized.jpg'
-      when [OTHER, true]
-        '/thumbs/other.jpg'
-      when [OTHER, false]
-        '/thumbs/other.jpg'
+
+  def img?
+    media_type == MOVING_IMAGE && digitized?
+  end
+
+  def img_src(icon_only = false)
+    @img_src ||= begin
+      url = nil
+      if media_type == MOVING_IMAGE && digitized? && !icon_only
+        url = "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
       end
+
+      unless url
+        url = case [media_type, digitized?]
+              # when [MOVING_IMAGE, true]
+              # TODO: Move ID cleaning into Cleaner: https://github.com/WGBH/AAPB2/issues/870
+              # Mississippi IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
+              # "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/,'cpb-aacip_')}.jpg"
+              when [MOVING_IMAGE, false]
+                '/thumbs/VIDEO_NOT_DIG.png'
+              when [SOUND, true]
+                '/thumbs/AUDIO.png'
+              when [SOUND, false]
+                '/thumbs/AUDIO_NOT_DIG.png'
+              else
+                '/thumbs/OTHER.png'
+              end
+      end
+
+      url
+    end
     # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
     # If these got moved to S3, that would need to change.
   end
