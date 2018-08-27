@@ -14,13 +14,13 @@
 ActiveRecord::Schema.define(version: 20141106192110) do
 
   create_table "bookmarks", force: :cascade do |t|
-    t.integer  "user_id",                   null: false
-    t.string   "user_type",     limit: 255
-    t.string   "document_id",   limit: 255
-    t.string   "title",         limit: 255
+    t.integer  "user_id",       null: false
+    t.string   "user_type"
+    t.string   "document_id"
+    t.string   "title"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "document_type", limit: 255
+    t.string   "document_type"
   end
 
   add_index "bookmarks", ["user_id"], name: "index_bookmarks_on_user_id"
@@ -28,7 +28,7 @@ ActiveRecord::Schema.define(version: 20141106192110) do
   create_table "searches", force: :cascade do |t|
     t.text     "query_params"
     t.integer  "user_id"
-    t.string   "user_type",    limit: 255
+    t.string   "user_type"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
