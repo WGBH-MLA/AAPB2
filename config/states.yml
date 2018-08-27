@@ -2,10 +2,10 @@
 - state: Kansas
   abbreviation: KS
   blurb_fill:
-    naeb_station: U. of Kansas
-  blurb_md: &naeb_blurb >
-    [Additional audio content from %{naeb_station} in %{state}]
-    (/catalog?&f[access_types][]=all&q="%{naeb_station}")
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from University of Kansas in Kansas]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=university+of+kansas&utf8=%E2%9C%93&f[access_types][]=digitized)
     is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
@@ -20,22 +20,65 @@
     foreign affairs, health, politics, education, and broadcasting.
 
 - state: South Dakota
-  blurb_fill:
-    naeb_station: University of South Dakota
-  blurb_md: *naeb_blurb
   abbreviation: SD
+  blurb_fill:
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from University of South Dakota in South Dakota]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=university+of+south+dakota&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
 
 - state: North Dakota
-  blurb_fill:
-    naeb_station: KFJM
-  blurb_md: *naeb_blurb
   abbreviation: ND
+  blurb_fill:
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from KFJM in North Dakota]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22kfjm%22&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
 
 - state: Alabama
-  blurb_fill:
-    naeb_station: University of Alabama
-  blurb_md: *naeb_blurb
   abbreviation: AL
+  blurb_fill:
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from University of Alabama in Alabama]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22University+of+Alabama%22&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
+
 
 - state: Alaska
   abbreviation: AK
@@ -50,7 +93,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [KPcC](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=kpcc), [KEBS](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=kebs), and [San Bernardino Valley College](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="San Bernardino Valley") in California is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [KPCC](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22kpcc%22&utf8=%E2%9C%93&f[access_types][]=digitized), [KEBS](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22KEBS%22&utf8=%E2%9C%93&f[access_types][]=digitized), and [San Bernardino Valley College](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22San+bernardino+valley+college%22&utf8=%E2%9C%93&f[access_types][]=digitized) in California is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -65,10 +108,24 @@
   abbreviation: CA
 
 - state: Colorado
-  blurb_fill:
-    naeb_station: University of Denver
-  blurb_md: *naeb_blurb
   abbreviation: CO
+  blurb_fill:
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from University of Denver in Colorado]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22university+of+denver%22&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
 
 - state: Connecticut
   abbreviation: CT
@@ -77,10 +134,25 @@
   abbreviation: DE
 
 - state: Florida
-  blurb_fill:
-    naeb_station: University of Florida
-  blurb_md: *naeb_blurb
   abbreviation: FL
+  blurb_fill:
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from University of Florida in Florida]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22university+of+florida%22&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
+
 
 - state: Georgia
   abbreviation: GA
@@ -95,7 +167,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [University of Chicago](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="u. of chicago") and [Moody Bible Institute](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q="moody bible institute") in Illinois is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [University of Chicago](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22university+of+chicago%22&utf8=%E2%9C%93&f[access_types][]=digitized) and [Moody Bible Institute](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22moody+bible+institute%22&utf8=%E2%9C%93&f[access_types][]=digitized) in Illinois is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -110,16 +182,44 @@
   abbreviation: IL
 
 - state: Indiana
-  blurb_fill:
-    naeb_station: WBAA
-  blurb_md: *naeb_blurb
   abbreviation: IN
+  blurb_fill:
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from WBAA in Indiana]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22wbaa%22&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
 
 - state: Iowa
-  blurb_fill:
-    naeb_station: WSUI
-  blurb_md: *naeb_blurb
   abbreviation: IA
+  blurb_fill:
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from WSUI in Iowa]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22WSUI%22&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
 
 - state: Kentucky
   abbreviation: KY
@@ -137,10 +237,11 @@
   abbreviation: MA
 
 - state: Michigan
+  abbreviation: MI
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [WUOM](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=wuom), [WDET](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wdet), and [University of Michigan](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=wdet) in Michigan is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [WUOM](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22wuom%22&utf8=%E2%9C%93&f[access_types][]=digitized), [WDET](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22wdet%22&utf8=%E2%9C%93&f[access_types][]=digitized), and [University of Michigan](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22university+of+michigan%22&utf8=%E2%9C%93&f[access_types][]=digitized) in Michigan is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -152,7 +253,7 @@
     documentaries, coverage of events (hearings, meetings, conferences, and seminars),
     interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
-  abbreviation: MI
+
 
 - state: Minnesota
   abbreviation: MN
@@ -182,10 +283,11 @@
   abbreviation: NM
 
 - state: New York
+  abbreviation: NY
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [WRVR](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wrvr), [Union Theological Seminary](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="union theological seminary"), and [WBFO] (/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wbfo) in New York is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [WRVR](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22wrvr%22&utf8=%E2%9C%93&f[access_types][]=digitized), [Union Theological Seminary](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22union+theological+seminary%22&utf8=%E2%9C%93&f[access_types][]=digitized), and [WBFO] (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22union+theological+seminary%22&utf8=%E2%9C%93&f[access_types][]=digitized) in New York is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -197,16 +299,16 @@
     documentaries, coverage of events (hearings, meetings, conferences, and seminars),
     interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
-  abbreviation: NY
 
 - state: North Carolina
   abbreviation: NC
 
 - state: Ohio
+  abbreviation: OH
   blurb_fill:
-    naeb_station: WMUB
+    naeb_station:
   blurb_md: >
-    Additional audio content from [WMUB](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmub) and [WGUC](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wguc) in Ohio is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [WMUB](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22WMUB%22&utf8=%E2%9C%93&f[access_types][]=digitized) and [WGUC](http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22WGUC%22&utf8=%E2%9C%93&f[access_types][]=digitized) in Ohio is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -218,7 +320,6 @@
     documentaries, coverage of events (hearings, meetings, conferences, and seminars),
     interviews, debates, and lectures on public affairs topics such as civil rights,
     foreign affairs, health, politics, education, and broadcasting.
-  abbreviation: OH
 
 - state: Oklahoma
   abbreviation: OK
@@ -227,10 +328,24 @@
   abbreviation: OR
 
 - state: Pennsylvania
-  blurb_fill:
-    naeb_station: WDUQ
-  blurb_md: *naeb_blurb
   abbreviation: PA
+  blurb_fill:
+    naeb_station:
+  blurb_md: >
+    [Additional audio content from WDUQ in Indiana]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22WDUQ%22&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
 
 - state: Rhode Island
   abbreviation: RI
@@ -266,10 +381,25 @@
   abbreviation: WY
 
 - state: District of Columbia
+  abbreviation: DC
   blurb_fill:
     naeb_station: Georgetown Forum
-  blurb_md: *naeb_blurb
-  abbreviation: DC
+    link: http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22georgetown+forum%22&utf8=%E2%9C%93&f[access_types][]=digitized
+  blurb_md: >
+    [Additional audio content from Georgetown Forum in District of Columbia]
+    (http://americanarchive.org/catalog?f%5Bspecial_collection%5D%5B%5D=naeb&q=%22georgetown+forum%22&utf8=%E2%9C%93&f[access_types][]=digitized)
+    is part of the National Association of Educational Broadcasters (NAEB) collection,
+    contributed by the University of Maryland to the AAPB.
+
+    The NAEB was established in 1934 from a precursor organization that formed in 1925.
+    In 1951, NAEB established a tape duplication exchange system in Urbana, IL, where
+    programs produced by university radio stations across the country were copied and
+    distributed to member stations, an early networking scheme that influenced the
+    history of later public radio and television systems. The more than 5,500 NAEB
+    programs available in the AAPB come from the 1950s and 1960s, and include radio
+    documentaries, coverage of events (hearings, meetings, conferences, and seminars),
+    interviews, debates, and lectures on public affairs topics such as civil rights,
+    foreign affairs, health, politics, education, and broadcasting.
 
 - state: Guam
   abbreviation: GU
