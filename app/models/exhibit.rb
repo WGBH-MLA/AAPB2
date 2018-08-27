@@ -7,6 +7,7 @@ class Exhibit < Cmless
 
   def initialize( exhibit_name )
     @calling_class = self
+    # this is how we know which folder to load every .md from
     @record_root = %(#{ROOT}/#{exhibit_name})
     super
   end
