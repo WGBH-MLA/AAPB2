@@ -4,11 +4,15 @@
 
 /* This is a record display in a search result*/
 
-#documents .document {
+#documents .default-document {
 	margin-top:0;
 	padding-top:0;
 	margin-bottom:2em;
 	padding-bottom:2em;
+}
+
+.document:after {
+	background-color: #FF66FF;
 }
 
 .catalog-title {
@@ -38,6 +42,11 @@
 		font-size: 24px;
 		font-weight: 100;
 	}
+}
+
+.index-data-title {
+	color: #8a1051;
+	font-weight: bold;
 }
 
 /* Image container */
@@ -402,6 +411,19 @@ dl:after {
 @media (min-width: 700px) {
 	.videocontent {
 		min-height: 335px
+	}
+}
+
+
+@media (max-width: 767px) {
+	.thumbnail-col {
+		padding: 0 275px 0 0;
+	}
+}
+
+@media (max-width: 512px) {
+	.thumbnail-col {
+		padding: 0;
 	}
 }
 

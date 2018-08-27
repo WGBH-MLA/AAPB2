@@ -58,7 +58,9 @@ gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
 gem 'wordpress-client'
 
-gem 'blacklight', '5.11.1'
+gem 'blacklight'
+gem 'blacklight-gallery'
+
 gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper', '~> 1.7'
@@ -90,6 +92,7 @@ gem 'launchy', :group => :test
 gem 'rubocop', '0.39.0', :group => :development
 gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
+# gem 'xray-rails', :group => :development
 
 gem 'passenger', :group => :production
 
