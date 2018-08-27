@@ -55,8 +55,6 @@
 	background-color: #9F2064;
 }
 
-
-
 .btn-danger,
 .appliedFilter .remove:hover,
 .appliedFilter .remove:active {
@@ -99,8 +97,8 @@
 
 /* Facet Button dropdown on search page - "Limit Your Search" */
 .facets-toggle {
-	background-color:transparent;
-	margin: -7px 0 0;
+	background-color:#292A72;
+	margin: -4px 0 0;
 }
 
 
@@ -160,27 +158,28 @@
 
 .facets .top-panel-heading,
 .column .navbar-header {
-	background-color:#3c439b;
 	border-radius:0;
 }
 
 
 .facets .panel {
-	margin-bottom: 0;
+	padding: 3.5px 0;
 	border:none;
-	border-bottom: 1px solid #CCC;
 	border-radius: 0;
 	-webkit-box-shadow: none;
 	box-shadow: none;
 }
 
-	.facets .panel-body {
-		padding: 0 15px;
-	}
+.facets .panel-body {
+	margin-top: 15px;
+  padding: 0 !important;
+	max-height: 350px;
+	overflow: auto;
+}
 
 .facets .panel-default > .panel-heading {
-	color: #333333;
-	background-color: #FFF;
+	color: #292d70;
+	background-color: #dfe0ea;
 }
 
 .facets .panel-group .panel + .panel {
@@ -199,12 +198,20 @@
 
 /* The Link */
 .facets .panel-title a {
-	color:#292a72;
+	color: #292a72;
+	padding: 5px 2.5px 5px 15px;
+	font-size: 14px;
+}
+
+.panel-heading.collapse-toggle.collapsed .panel-title:after {
+	content: "\e114";
 }
 
 /* The Arrow */
 .panel-heading.collapse-toggle .panel-title:after {
-	color: #ef3f37;
+	content: "\e113";
+	color: #292a72;
+	padding: 0 10px 0 2.5px;
 }
 
 /* COntratinst Container */

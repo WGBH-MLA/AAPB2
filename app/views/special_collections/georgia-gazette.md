@@ -17,8 +17,8 @@ The <em>Georgia Gazette</em> Series was contributed to the American Archive of P
 
 ## Featured
 
-[![Affirmative Action](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-m901z42x74) 
-[![Fort Benning](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-v40js9jd38) 
+[![Affirmative Action](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-m901z42x74)
+[![Fort Benning](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-v40js9jd38)
 [![Chinese New Year](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-vt1gh9cg1t)
 [![Clinton Trial](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_81-988gttr0)
 [![Floyd Adams](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-ww76t0j45w)
@@ -35,9 +35,8 @@ The <em>Georgia Gazette</em> Series was contributed to the American Archive of P
 
 ## Help
 
-Digitization is ongoing, and episodes are continually being preserved. The programs currently in the AAPB do not represent the complete <em>Georgia Gazette</em> series. Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Digitization is ongoing, and episodes are continually being preserved. The programs currently in the AAPB do not represent the complete <em>Georgia Gazette</em> series. Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
-A few of the recordings in the collection consist of segments from multiple programs and also may contain pre-show setup audio. 
+A few of the recordings in the collection consist of segments from multiple programs and also may contain pre-show setup audio.
 
 ## Terms
-

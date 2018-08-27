@@ -1,5 +1,5 @@
-<ul class="facet-values list-unstyled">
-  <% 
+<ul class="access-facet-values list-unstyled row">
+  <%
     base_uri = '/catalog?' + (
       {f: (params['f'].except('access_types') rescue {})}.merge(
         params.except('action', 'controller', 'f')
@@ -9,33 +9,54 @@
       {
         value: PBCore::PUBLIC_ACCESS,
         title: 'Available Online',
-        info_html: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.'},
+        info_text: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.',
+        order_class: 'first-access-facet' },
       {
         value: PBCore::DIGITIZED_ACCESS,
         title: 'All Digitized',
-        info_html: 'All video and audio, available either online, or on location at WGBH or the Library of Congress. <a href="/on-location">More information</a>.'},
+        info_text: 'All video and audio, available either online, or on location at WGBH or the Library of Congress.',
+        order_class: 'second-access-facet' },
       {
         value: PBCore::ALL_ACCESS,
         title: 'All Records',
-        info_html: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not been digitized.'}
+        info_text: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not been digitized.',
+        order_class: 'third-access-facet' }
     ].each do |option|
   %>
-    <li>
-      <span class="facet-label">
-        <% if params.try(:[],'f').try(:[],'access_types') == [option[:value]] %>
-          <span class="selected"><%= option[:title] %></span>
-          <a class="remove">
-            <span class="glyphicon glyphicon-ok"></span>
-            <span class="sr-only">[checked]</span>
-          </a>
-        <% else %>
-          <span class="selected"><a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>" class="facet_select"><%= option[:title] %></a></span>
-        <% end %>
-      </span>
-      <span class="facet-count"><%= facet_counts[option[:value]] || 0 %></span>
+    <li class="access-input col-md-4 col-sm-12 col-xs-12 <%= option[:order_class] %>">
+      <% if params.try(:[],'f').try(:[],'access_types') == [option[:value]] %>
+        <a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>" class="facet_select">
+          <label for="#{option[:value]}-checkbox" class="access-label">
+            <%= option[:title] %>
+          </label>
+          <span class="facet-count">(<%= facet_counts[option[:value]] || 0 %>)</span>
+        </a>
+        <a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>">
+          <input type="checkbox" name="#{option[:value]}-checkbox" id="#{option[:value]}-checkbox" class="access-checkbox" checked="checked" />
+        </a>
+        <span class="access-info">
+          <a class="access-help-tooltip" href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" data-original-title="<h3><%= option[:title].upcase %></h3><p><%= option[:info_text] %></p>">?</a>
+        </span>
+      <% else %>
+        <a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>" class="facet_select">
+          <label for="#{option[:value]}-checkbox" class="access-label">
+            <%= option[:title] %>
+          </label>
+          <span class="facet-count">(<%= facet_counts[option[:value]] || 0 %>)</span>
+        </a>
+        <a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>">
+          <input type="checkbox" name="#{option[:value]}-checkbox" id="#{option[:value]}-checkbox" class="access-checkbox" />
+        </a>
+        <span class="access-info">
+          <a class="access-help-tooltip" id="" href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" data-original-title="<h3><%= option[:title].upcase %></h3><p><%= option[:info_text] %></p>">?</a>
+        </span>
+      <% end %>
     </li>
-    <li><div class="well well-sm"><small>
-      <%= option[:info_html].html_safe %>
-    </small></div></li>
   <% end %>
 </ul>
+
+<script>
+  $(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+  });
+</script>

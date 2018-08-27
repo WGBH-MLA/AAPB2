@@ -1,3 +1,6 @@
 en:
   blacklight:
     application_name: 'American Archive of Public Broadcasting'
+    search:
+      facets:
+        title: Filter Results

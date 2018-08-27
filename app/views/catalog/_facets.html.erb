@@ -2,7 +2,7 @@
 <% if has_facet_values?  %>
 <div id="facets" class="facets sidenav">
 
-  <div class="top-panel-heading panel-heading">
+  <div class="top-panel-heading panel-heading facets-panel">
     <button type="button" class="facets-toggle" data-toggle="collapse" data-target="#facet-panel-collapse">
       <span class="sr-only">Toggle facets</span>
       <span class="icon-bar"></span>
@@ -10,14 +10,14 @@
       <span class="icon-bar"></span>
     </button>
 
-  <h3 class='facets-heading'>
-    <%= t('blacklight.search.facets.title') %>
-  </h3>
-    </div>
+    <h3 class='facets-heading'>
+      <%= t('blacklight.search.facets.title') %>
+    </h3>
+  </div>
 
   <div id="facet-panel-collapse" class="collapse panel-group">
     <ul class="facet-list">
-      <%= render_facet_partials %>
+      <%= render_facet_partials(fields = facet_field_names.delete_if { |facet| facet == SolrDocument::ACCESS_FACET_FIELD }) %>
     </ul>
 </div>
 </div>
