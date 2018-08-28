@@ -94,7 +94,3 @@ gem 'pry-nav', :group => :development
 gem 'passenger', :group => :production
 
 gem 'nokogiri', '~> 1.8.4'
-
-
-gem 'rest-client'
-gem 'parallel_tests', group: [:development, :test]
