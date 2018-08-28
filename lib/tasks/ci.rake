@@ -28,9 +28,9 @@ if Rails && !Rails.env.production?
 
 
 
-      # task = RSpec::Core::RakeTask.new(:spec)
-      # task.rspec_opts = '--tag ~not_on_travis'
-      # task.run_task(true)
+      task = RSpec::Core::RakeTask.new(:spec)
+      task.rspec_opts = '--tag ~not_on_travis'
+      task.run_task(true)
 
   
     end
