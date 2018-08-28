@@ -70,34 +70,38 @@ class LinkChecker
   end
 end
 
-results = {}
+CSV.open('linkcheckresult.csv', 'w') do |csv|
 
-CSV.foreach('scripts/csvlanks.csv') do |row|
-	this_url = row.first
+	CSV.foreach('scripts/link_directory.csv') do |row|
+		this_url = row.first
 
-	doc = Nokogiri::HTML( RestClient.get( %(http://localhost:3000#{this_url}) ).body )
-	links = doc.css('a')
-	all_urls = links.map {|link| link.attribute('href').to_s}.uniq.sort.delete_if {|href| href.empty?}
-  bad_urls = all_urls.reject do |url|
-    LinkChecker.instance.check?(url)
-  end
-	
-	if bad_urls && bad_urls.count > 0
-		puts %(Found BADLINSK: #{bad_urls})
-		results[this_url] = bad_urls
+		full_url = if this_url.start_with?('/')
+			%(http://localhost:3000#{this_url})
+		else
+			this_url
+		end
+
+		puts this_url
+		add = [full_url]
+		puts full_url
+
+		doc = Nokogiri::HTML( RestClient.get( full_url ).body )
+		links = doc.css('a')
+		all_urls = links.map {|link| link.attribute('href').to_s}.uniq.sort.delete_if {|href| href.empty?}
+	  bad_urls = all_urls.reject do |url|
+	    LinkChecker.instance.check?(url)
+	  end
+		
+		if bad_urls && bad_urls.count > 0
+			puts %(Found BADLINSK: #{bad_urls})
+
+			add += bad_urls
+		end
+
+		csv << add
+		puts "added #{add.count - 1}"
 	end
 
-end
-
-CSV.open('linkcheckresult.csv', 'wb') do |csv|
-
-	csv << ['Tested URL']
-
-	results.each do |tested_url,bad_urls|
-		result_row = [tested_url]
-		result_row += bad_urls
-		csv << result_row
-	end
 end
 
 puts "Wrote results."

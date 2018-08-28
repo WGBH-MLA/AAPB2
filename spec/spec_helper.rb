@@ -29,4 +29,20 @@ RSpec.configure do |config|
     # Disable WebMock by default, and be sure to re-enable it before using it.
     WebMock.disable!
   end
+
+  config.after(:suite) do
+
+    require('csv')
+    CSV.open('link_checker_result_#{Time.now.strftime("%m.%d.%Y")}.csv', 'w') do |csv|
+      # k,v
+      $lc_fails.each do |url, failed_urls|
+        row = [url]
+        row += failed_urls
+        csv << row
+      end
+    end
+
+
+    # EMAIL ddat files!
+  end
 end

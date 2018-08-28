@@ -6,6 +6,9 @@ cache: bundler
 script:
 - bundle exec rails server &
 - bundle exec rake ci
+- export TEST_ENV_NUMBER=3
+- bundle exec rake parallel:setup
+- bundle exec rake parallel:spec
 - bundle exec rubocop -D
 env:
   global:

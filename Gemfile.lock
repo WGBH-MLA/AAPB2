@@ -158,6 +158,9 @@ GEM
     netrc (0.11.0)
     nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
+    parallel (1.12.1)
+    parallel_tests (2.22.0)
+      parallel
     parser (2.5.1.2)
       ast (~> 2.4.0)
     passenger (5.3.4)
@@ -323,6 +326,7 @@ DEPENDENCIES
   launchy
   libv8 (~> 3.16.14.13)
   nokogiri (~> 1.8.4)
+  parallel_tests
   passenger
   pry
   pry-nav
