@@ -1,1 +1,7 @@
 inherit_from: .rubocop_todo.yml
+
+AllCops:
+  DisplayCopNames: true
+  Exclude:
+    - 'db/**/*.rb'
+    - 'vendor/**/*'
