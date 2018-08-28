@@ -57,9 +57,8 @@ END
     end
     # dont raise, collect!
     # raise "Bad URLS: #{bad_urls}" unless bad_urls.empty?
-    if bad_urls.count > 0
-      $lc_fails[url] << bad_urls
-    end
+    
+    $lc_fails[url] << bad_urls if bad_urls.count > 0
 
     # if defined?(current_url)
     #   CSV.open("link_directory.csv", "a") do |csv|

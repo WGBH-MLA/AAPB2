@@ -38,13 +38,13 @@ Rails.application.configure do
   # config.action_view.raise_on_missing_translations = true
 
   # Amazon SES settings
-   config.action_mailer.smtp_settings = {
-    :address => "email-smtp.us-east-1.amazonaws.com",
-    :port => 587,
-    :user_name => ENV["AMAZON_SMTP_USER"],
-    :password => ENV["AMAZON_SMTP_PASS"],
-    :authentication => :login,
-    :enable_starttls_auto => true
+  config.action_mailer.smtp_settings = {
+    address: "email-smtp.us-east-1.amazonaws.com",
+    port: 587,
+    user_name: ENV['AMAZON_SMTP_USER'],
+    password: ENV['AMAZON_SMTP_PASS'],
+    authentication: :login,
+    enable_starttls_auto: true
   }
 
 end
