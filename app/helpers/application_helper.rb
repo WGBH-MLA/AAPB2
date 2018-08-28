@@ -6,4 +6,18 @@ module ApplicationHelper
   def current_page(path)
     return 'current-page' if current_page?(path)
   end
+
+  class AAPBMailer < ActionMailer::Base
+
+    # default from: WgbhStocksales::EMAIL
+
+    def send_link_checker_report(params)
+      attachments['report_file'] = report_file
+      mail(to: 'henry_neels@wgbh.org', subject: 'Link Checka', from: 'nobody@wgbh.org', template_name: 'link_checker_report' )
+    end
+  end
+
+
+
+
 end

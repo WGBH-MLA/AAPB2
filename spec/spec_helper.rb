@@ -33,7 +33,8 @@ RSpec.configure do |config|
   config.after(:suite) do
 
     require('csv')
-    CSV.open('link_checker_result_#{Time.now.strftime("%m.%d.%Y")}.csv', 'w') do |csv|
+    filename = "link_checker_result_#{Time.now.strftime("%m.%d.%Y")}.csv"
+    CSV.open(filename, 'w') do |csv|
       # k,v
       $lc_fails.each do |url, failed_urls|
         row = [url]
@@ -43,6 +44,10 @@ RSpec.configure do |config|
     end
 
 
+
+
     # EMAIL ddat files!
+    AAPBMailer.send_link_checker_report(File.open(filename, 'r'))
+
   end
 end
