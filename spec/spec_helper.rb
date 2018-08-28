@@ -31,6 +31,7 @@ RSpec.configure do |config|
   end
 
   config.after(:suite) do
+    require('pry');binding.pry
     require('csv')
     filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
     CSV.open(filename, 'w') do |csv|
@@ -42,6 +43,6 @@ RSpec.configure do |config|
       end
     end
     # EMAIL ddat files!
-    AAPBMailer.send_link_checker_report(File.open(filename, 'r'))
+    AAPBMailer.send_link_checker_report(%(#{Rails.root}/tmp/downloads/LATEST/#{filename}))
   end
 end
