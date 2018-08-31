@@ -132,7 +132,7 @@ $icon-side: 18px;
 
   height: $icon-side;
   min-height: $icon-side;
-  max-height: $icon-side;  
+  max-height: $icon-side;
   background: image_url("/thumbs/view-icon-short_list.png");
   background-size: contain;
 
@@ -146,7 +146,7 @@ $icon-side: 18px;
 
   height: $icon-side;
   min-height: $icon-side;
-  max-height: $icon-side;  
+  max-height: $icon-side;
   background: image_url("/thumbs/view-icon-gallery.png");
   background-size: contain;
 
@@ -160,7 +160,7 @@ $icon-side: 18px;
 
   height: $icon-side;
   min-height: $icon-side;
-  max-height: $icon-side;  
+  max-height: $icon-side;
   background: image_url("/thumbs/view-icon-masonry.png");
   background-size: contain;
 
@@ -174,7 +174,7 @@ $icon-side: 18px;
 
   height: $icon-side;
   min-height: $icon-side;
-  max-height: $icon-side;  
+  max-height: $icon-side;
   background: image_url("/thumbs/view-icon-list.png");
   background-size: contain;
 }
@@ -210,10 +210,6 @@ $icon-active-color: #DDDDDD;
   border-color: #ddd;
   margin-top: .4em;
   margin-bottom: .8em;
-}
-
-.glyphicon {
-  background-color: white;
 }
 
 .glyphicon-list::before {

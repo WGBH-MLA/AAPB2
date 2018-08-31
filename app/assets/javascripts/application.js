@@ -19,7 +19,6 @@
 //= require blacklight/blacklight
 //= require_tree .
 //= stub player
-//= stub catalog-index
 //= stub transcript
 //= stub mobile-transcript
 
