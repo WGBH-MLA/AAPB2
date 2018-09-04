@@ -1,41 +1,40 @@
-# Africans in America Interviews
+# Firing Line
 
 ## Thumbnail
 
-![Africans in America](https://s3.amazonaws.com/americanarchive.org/special-collections/africans-in-america.jpg "Africans in America")
+![Firing Line](https://s3.amazonaws.com/americanarchive.org/special-collections/firing-line.jpg "Firing Line")
 
 ## Summary
 
-The <em>Africans in America</em> Interviews Collection is made up of 53 raw interviews from the award-winning, four-part documentary of the same name, which aired on PBS in 1998. The documentary, the first to fully examine the history of slavery in the United States, focused on the experiences of African people and their transformation of America, beginning with 16th-century enslavement on Africa's Gold Coast and ending on the eve of the American Civil War in 1861. The interviews offer an in-depth examination of the social, economic, and intellectual foundations of slavery and the ways in which African people changed the United States. Guests include descendants of slaves and slave-owners, authors, professors, historians, and statesmen, including Colin Powell, retired four-star general and the first African American on the Joint Chiefs of Staff; Karen Hughes White, a descendant of Thomas Jefferson and founder of the Afro-American Historical Association of Fauquier County; Catherine Acholonu, a Nigerian author and Associate Professor of English Literature, Awuku College of Education; and Jeffrey Leath, Pastor of Mother Bethel A.M.E. Church, Philadelphia. Topics covered include Christianity and English Protestantism, George Washington, Toussaint Louverture, the American Revolution, Nat Turner's Rebellion, gender conventions, racism, violence, economics, family, and enslavement.
+The *Firing Line* Collection includes 1,505 records of digitized audiovisual recordings and transcripts of *Firing Line with William F. Buckley Jr.* from its time as a public television program between 1971 and 1999. In April 1966, *Firing Line with William F. Buckley Jr.* began as an hour-long public affairs television program on commercial television. From 1971 to 1999, the program was produced by South Carolina Educational Television (SCETV) and distributed by PBS. With 1,505 episodes over 33 years, *Firing Line* is the longest-running public-affairs show in television history with a single host. *Firing Line* garnered an Emmy Award in 1969.
+
+*Firing Line* serves as a prototype for point-counterpoint shows with its focus on the exchange of ideas through respectful debate. Viewers of different political backgrounds tuned-in for Buckley's distinctive mannerism, ecumenical tendencies, and formidable debates. Buckley interviewed notable figures in the latter half of the twentieth century including future U.S. presidents such as Ronald Reagan and George H.W. Bush, comedians such as Groucho Marx, political intellectuals such as Margaret Thatcher, celebrities such as Muhammad Ali, and religious figures such as Mother Theresa. Topics covered in the collection range, but are not limited to, urban development, sociopolitical movements, and global affairs.
 
 ## Background
 
-The <em>Africans in America</em> interviews were conducted in 1998 for the four-part documentary of the same name. Winner of a Peabody Award in 1998 and the News & Documentary Emmy Award for Outstanding Research in 1999, Orlando Bagwell served as the documentary's Executive Producer. In 2017, the WGBH Media Library and Archives digitized the <em>Africans in America</em> interviews and in 2018 submitted them to the American Archive of Public Broadcasting.
+In 2018, The Hoover Institution Library and Archives at Stanford University added 1,505 records of digitized audiovisual recordings and transcripts to the American Archive of Public Broadcasting’s (AAPB) Online Reading Room via external links. Prior to the production of *Firing Line*, William F. Buckley Jr. founded the *National Review*, a magazine of conservative opinion in 1955. To preserve the *Firing Line* materials, the *National Review* agreed to donate all the tapes, photographs, transcripts, correspondence and copyright for the Firing Line materials to the Hoover Institution in 1980. 
 
 ## Featured
 
-[![Catherine Acholonu](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-f76639m612.jpg)](/catalog/cpb-aacip_15-f76639m612)
-[![Colin Powell](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-qj77s7jx63_1.jpg)](/catalog/cpb-aacip_15-qj77s7jx63)
-[![Margaret Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-c824b2z52k_1.jpg)](/catalog/cpb-aacip_15-c824b2z52k)
-[![Douglas Egerton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-d795718p1p_1.jpg)](/catalog/cpb-aacip_15-d795718p1p)
-[![Karen Hughes White](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-7m03x84j26_1.jpg)](/catalog/cpb-aacip_15-7m03x84j26)
-[![Jeffrey Leath](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-w950g3j70v_1.jpg)](/catalog/cpb-aacip_15-w950g3j70v)
+[![The Hippies](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_514-9882j68x8t.jpg)](/catalog/cpb-aacip_514-9882j68x8t)
+[![Muhammad Ali](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_514-4j09w09n67.jpg)](/catalog/cpb-aacip_514-4j09w09n67)
+[![Mother Teresa](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_514-mg7fq9r24p.jpg)](/catalog/cpb-aacip_514-mg7fq9r24p)
+[![Ronald Reagan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_514-9s1kh0fp9c.jpg)](/catalog/cpb-aacip_514-9s1kh0fp9c)
+[![The Avant Garde](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_514-gf0ms3kt7b.jpg)](/catalog/cpb-aacip_514-gf0ms3kt7b)
+[![Is the World Funny?](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_514-pn8x922d1m.jpg)](/catalog/cpb-aacip_514-pn8x922d1m)
 
 ## Resources
 
-- [<em>Africans in America</em> Documentary Website](http://www.pbs.org/wgbh/aia/home.html)
-- [African American Archive at the National Archives](https://www.archives.gov/research/african-americans)
-- [African American History Digital Collections, Library of Congress](https://www.loc.gov/collections/?fa=subject%3Aafrican+american+history)
-- [Hutchins Center for African & African American Research](http://dubois.fas.harvard.edu/)
-- [African American History, American Memory Project, Library of Congress](https://memory.loc.gov/ammem/browse/ListSome.php?category=African%20American%20History)
+- [YouTube *Firing Line* Subscription Page](https://www.youtube.com/channel/UC9lqW3pQDcUuugXLIpzcUdA)
+- [*Firing Line* Collection at the Hoover Institution](https://www.hoover.org/library-archives/collections/firing-line)
+- [*Firing Line* Finding Aid](http://www.oac.cdlib.org/findaid/ark:/13030/kt6m3nc88c/)
+- [*Firing Line* broadcasts on Hoover's Digital Collections site](https://digitalcollections.hoover.org/advancedsearch/Objects/archiveType%3AItem%3BcollectionId%3A21)
 
 ## Funders
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
-
-Seven of the recordings in the collection are multi-part conversations with a single interviewee.
+Records are described at the episode level and all records have brief descriptions and lists of the guests on the specific episode. 396 episodes have digitized videos, while the rest only have digitized transcripts available. Episodes where only digitized transcripts are available are marked as such in the description. The media is provided by the Hoover Institution Library & Archives at Stanford University, which can be accessed by clicking the link under the thumbnail that says “View online at Hoover Institution Library & Archives, Stanford University.” 
 
 ## Terms
 
