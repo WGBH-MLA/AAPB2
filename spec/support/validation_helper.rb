@@ -58,14 +58,17 @@ END
     # dont raise, collect!
     # raise "Bad URLS: #{bad_urls}" unless bad_urls.empty?
     
-    $lc_fails[url] << bad_urls if bad_urls.count > 0
+    # $lc_fails[url] << bad_urls if bad_urls.count > 0
 
-    # if defined?(current_url)
-    #   CSV.open("link_directory.csv", "a") do |csv|
-    #     puts "Added #{URI.parse(current_url)} to link directory"
-    #     csv << [current_url]
-    #   end
-    # end
+    if bad_urls.count > 0
+      filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
+      CSV.open(filename, 'a') do |csv|
+        row = [current_path]
+        row += bad_urls
+        puts row
+        csv << row
+      end
+    end
 
     true
   rescue => e

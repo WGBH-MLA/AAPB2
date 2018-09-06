@@ -31,18 +31,17 @@ RSpec.configure do |config|
   end
 
   config.after(:suite) do
-    require('pry');binding.pry
     require('csv')
     filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
-    CSV.open(filename, 'w') do |csv|
-      # k,v
-      $lc_fails.each do |url, failed_urls|
-        row = [url]
-        row += failed_urls
-        csv << row
-      end
+
+    if File.exists?(filename)
+    # if File.exists?(%(#{Rails.root}/tmp/downloads/LATEST/#{filename}))
+
+      # EMAIL ddat files!
+      Notifier.send_link_checker_report(filename)
+    else
+      Notifier.send_link_checker_clear
     end
-    # EMAIL ddat files!
-    AAPBMailer.send_link_checker_report(%(#{Rails.root}/tmp/downloads/LATEST/#{filename}))
+
   end
 end
