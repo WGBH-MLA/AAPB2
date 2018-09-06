@@ -38,7 +38,8 @@ Rails.application.configure do
   config.action_mailer.delivery_method = :smtp
   config.action_mailer.perform_deliveries = true
   
-  email_creds = YAML.load_file(Rails.root + 'config/aws_ses.yml')
+  # email_creds = YAML.load_file(Rails.root + 'config/aws_ses.yml')
+  email_creds = YAML.load(ERB.new(File.new(Rails.root + 'config/aws_ses.yml').read).result)
   
   config.action_mailer.smtp_settings = {
     address: "email-smtp.us-east-1.amazonaws.com",
