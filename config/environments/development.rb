@@ -32,19 +32,17 @@ Rails.application.configure do
   # Raises helpful error messages.
   config.assets.raise_runtime_errors = true
 
-  config.action_mailer.delivery_method = :smtp
-  config.action_mailer.perform_deliveries = true
-  
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
 
+  config.action_mailer.delivery_method = :smtp
+  config.action_mailer.perform_deliveries = true
+  
   email_creds = YAML.load_file(Rails.root + 'config/aws_ses.yml')
   
   config.action_mailer.smtp_settings = {
     address: "email-smtp.us-east-1.amazonaws.com",
     port: 587,
-    # user_name: 'AKIAJ43DEOZW7633JPZQ',
-    # password: 'AkSlBLFiGd8rYLK5v+W0IgNpO5GUvDkze5lT2THFA3TP',
     user_name: email_creds['user_name'],
     password: email_creds['password'],
 
