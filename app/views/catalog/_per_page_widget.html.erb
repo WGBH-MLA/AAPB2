@@ -1,3 +1,7 @@
+<% content_for(:head) do %>
+  <%= javascript_include_tag 'catalog-index' %>
+<% end %>
+
 <% if show_sort_and_per_page? and !blacklight_config.per_page.blank? %>
 
   <span class="sr-only"><%= t('blacklight.search.per_page.title') %></span>
@@ -12,3 +16,12 @@
   </ul>
 </div>
 <% end %>
+<span class="glyphicon glyphicon-refresh glyphicon-refresh-animate hidden" id="loading-icon"></span>
+
+<script>
+  $(document).ready( function(){
+    $("body").on('click', '.dropdown-menu li a', function() {
+      $("#loading-icon").removeClass('hidden');
+    });
+  });
+</script>
