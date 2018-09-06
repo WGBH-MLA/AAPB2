@@ -179,7 +179,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @contributing_organization_names_display ||= Organization.build_organization_names_display(contributing_organization_objects)
   end
   def states
-    @states ||= @contributing_organization_objects.map(&:state)
+    @states ||= contributing_organization_objects.map(&:state)
   rescue NoMatchError
     nil
   end
