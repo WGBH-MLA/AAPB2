@@ -31,7 +31,6 @@ RSpec.configure do |config|
   end
 
   config.after(:suite) do
-
     # only run this where the mailer class is available
     if Object.const_defined?('Notifier')
 
