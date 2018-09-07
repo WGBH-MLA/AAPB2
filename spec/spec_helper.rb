@@ -31,15 +31,20 @@ RSpec.configure do |config|
   end
 
   config.after(:suite) do
-    require('csv')
-    filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
-    if File.exist?(filename)
-      # EMAIL that files!
-      num_links = CSV.read(Rails.root + filename).length
-      Notifier.send_link_checker_report(Rails.root + filename, num_links).deliver
-      File.delete(filename)
-    else
-      Notifier.send_link_checker_clear.deliver
+
+    # only run this where the mailer class is available
+    if Object.const_defined?('Notifier')
+
+      filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
+      if File.exist?(filename)
+        # EMAIL that files!
+        num_links = CSV.read(Rails.root + filename).length
+        Notifier.send_link_checker_report(Rails.root + filename, num_links).deliver
+        File.delete(filename)
+      else
+        Notifier.send_link_checker_clear.deliver
+      end
+
     end
   end
 end
