@@ -4,3 +4,14 @@ en:
     search:
       facets:
         title: Filter Results
+      view:
+        gallery: "Gallery"
+        slideshow: "Slideshow"
+        masonry: "Masonry"
+        short_list: "Short List"
+  blacklight_gallery:
+    catalog:
+      document_slideshow:
+        header: "Select an image to start the slideshow"
+      modal_slideshow:
+        counter: "%{counter} of %{count}"
