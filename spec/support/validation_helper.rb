@@ -55,10 +55,6 @@ END
     bad_urls = page.all('a').map { |element| element['href'] }.reject do |url|
       LinkChecker.instance.check?(url)
     end
-    # dont raise, collect!
-    # raise "Bad URLS: #{bad_urls}" unless bad_urls.empty?
-    
-    # $lc_fails[url] << bad_urls if bad_urls.count > 0
 
     if bad_urls.count > 0
       filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"

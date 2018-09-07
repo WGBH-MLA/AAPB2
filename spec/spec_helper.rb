@@ -33,14 +33,13 @@ RSpec.configure do |config|
   config.after(:suite) do
     require('csv')
     filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
-    if File.exists?(filename)
+    if File.exist?(filename)
       # EMAIL that files!
       num_links = CSV.read(filename).length
-      email = Notifier.send_link_checker_report(Rails.root+filename, num_links).deliver
+      Notifier.send_link_checker_report(Rails.root + filename, num_links).deliver
       File.delete(filename)
     else
       Notifier.send_link_checker_clear.deliver
     end
-
   end
 end
