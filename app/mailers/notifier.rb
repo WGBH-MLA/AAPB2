@@ -1,5 +1,5 @@
 class Notifier < ActionMailer::Base
-  default from: "jason_corum@wgbh.org"
+  default from: 'jason_corum@wgbh.org'
 
   def send_link_checker_report(report_file_path, num_links)
     @today = Time.now.strftime('%m.%d.%Y')
@@ -11,8 +11,7 @@ class Notifier < ActionMailer::Base
 
   def send_link_checker_clear
     @today = Time.now.strftime('%m.%d.%Y')
-    @message = "No bad links were detected."
+    @message = 'No bad links were detected.'
     mail(to: 'henry_neels@wgbh.org', subject: %(Link Checker Report (#{@today})), template_name: 'link_checker_report')
   end
-  
 end
