@@ -4,14 +4,6 @@ require 'cmless'
 
 class SpecialCollection < Cmless
   ROOT = (Rails.root + 'app/views/special_collections').to_s
-  
-  def initialize( speccon_name )
-    @calling_class = self
-    # this is how we know which folder to load every .md from
-    @record_root = speccon_name
-    # @root = (Rails.root + 'app/views/special_collections').to_s
-    super
-  end
 
   attr_reader :thumbnail_html
   attr_reader :summary_html
@@ -26,7 +18,7 @@ class SpecialCollection < Cmless
 
   def self.all_top_level
     @all_top_level ||=
-      SpecialCollection.all
+      SpecialCollection.select { |collection| !collection.path.match(%r{\//}) }
   end
 
   def thumbnail_url
