@@ -23,7 +23,6 @@ The <em>Jubilee Singers</em> interviews were conducted in 2000 for the <em>Ameri
 
 ## Resources
 
-- [Fisk Jubilee Singers Website](http://fiskjubileesingers.org/)
 - [Jubilee Singers Archives (1858-1924) finding aid, Fisk University (pdf)](https://www.fisk.edu/assets/files/cs/jubilee-singersarchivesoriginal1858-1924.pdf)
 - [Archives of African American Music and Culture, Indiana University](https://aaamc.indiana.edu/)
 - [<em>Tell Them We Are Rising</em> Documentary Website](http://www.hbcurising.com/)
