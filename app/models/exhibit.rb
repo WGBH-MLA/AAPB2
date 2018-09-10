@@ -5,14 +5,6 @@ require 'cmless'
 class Exhibit < Cmless
   ROOT = (Rails.root + 'app/views/exhibits').to_s
 
-  def initialize( exhibit_name=nil )
-    @calling_class = self
-    # this is how we know which folder to load every .md from
-    @record_root = exhibit_name
-    # @root = (Rails.root + 'app/views/exhibits').to_s
-    super
-  end
-
   attr_reader :summary_html
   attr_reader :extended_html
   attr_reader :author_html
@@ -21,13 +13,9 @@ class Exhibit < Cmless
 
   attr_reader :head_html
 
-  # attr_reader :gallery_html
-  # attr_reader :records_html
-
-  # Cmless grabs all of these *_htmls upon initialization
   def self.all_top_level
     @all_top_level ||=
-      Exhibit.all
+      Exhibit.select { |exhibit| !exhibit.path.match(/\//) }
   end
 
   def self.exhibits_by_item_id
@@ -72,15 +60,6 @@ class Exhibit < Cmless
     end
     doc.inner_html
   end
-
-  # def gallery_html
-    
-
-  # end
-
-  # def records_html
-
-  # end
 
   def items
     @items ||= begin
