@@ -5,10 +5,11 @@ require 'cmless'
 class Exhibit < Cmless
   ROOT = (Rails.root + 'app/views/exhibits').to_s
 
-  def initialize( exhibit_name )
+  def initialize( exhibit_name=nil )
     @calling_class = self
     # this is how we know which folder to load every .md from
-    @record_root = %(#{ROOT}/#{exhibit_name})
+    @record_root = exhibit_name
+    # @root = (Rails.root + 'app/views/exhibits').to_s
     super
   end
 
@@ -26,7 +27,7 @@ class Exhibit < Cmless
   # Cmless grabs all of these *_htmls upon initialization
   def self.all_top_level
     @all_top_level ||=
-      Exhibit.select { |exhibit| !exhibit.path.match(/\//) }
+      Exhibit.all
   end
 
   def self.exhibits_by_item_id
