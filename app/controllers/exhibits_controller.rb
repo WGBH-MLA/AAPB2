@@ -1,5 +1,4 @@
 require_relative '../models/exhibit'
-Rails.backtrace_cleaner.remove_silencers!
 
 class ExhibitsController < OverrideController
   def index
