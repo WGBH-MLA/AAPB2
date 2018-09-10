@@ -11,6 +11,9 @@ class Exhibit < Cmless
   attr_reader :main_html
   attr_reader :resources_html
 
+  attr_reader :gallery_html
+  attr_reader :records_html
+
   attr_reader :head_html
 
   def self.all_top_level
@@ -98,6 +101,17 @@ class Exhibit < Cmless
   def resources
     @resources ||=
       Nokogiri::HTML(resources_html).xpath('//a').map do |el|
+        [
+          el.text,
+          el.attribute('href').to_s
+        ]
+      end
+  end
+
+  def gallery
+    require('pry');binding.pry
+    @gallery ||=
+      Nokogiri::HTML(gallery_html).xpath('//a').map do |el|
         [
           el.text,
           el.attribute('href').to_s
