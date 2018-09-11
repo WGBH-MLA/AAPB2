@@ -108,14 +108,40 @@ class Exhibit < Cmless
       end
   end
 
+  def media_player(element, type='image')
+    if type == 'audio'
+
+    elsif type == 'video'
+
+    else #image
+
+    end
+      
+  end
+
   def gallery
-    require('pry');binding.pry
     @gallery ||=
-      Nokogiri::HTML(gallery_html).xpath('//a').map do |el|
-        [
-          el.text,
-          el.attribute('href').to_s
-        ]
+    begin
+
+      Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
+        record_link = gallery_item.xpath('./a').first
+        gallery_img = gallery_item.xpath('./img').first
+        caption = gallery_item.xpath('./p').first
+
+        {
+          record_url: record_link['href'],
+          record_text: record_link.text,
+          caption: caption.text,
+          gallery_img_url: gallery_img['src'],
+        
+
+        #   text: el.text,
+        #   url: el.attribute('href').to_s,
+
+
+        }
+          
       end
+    end
   end
 end
