@@ -40,9 +40,9 @@ ooh - wee
 
 ## Gallery
 
-![BLORK 1](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "Lookit dis!  1")
-![BLORK 2](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg "Lookit dis!  2")
-![BLORK 3](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg "Lookit dis!  3")
+- [this is where the bio text goes 1](http://www.cpb.org/aboutpb/act)![BLORK 1](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  1")<p>This is where the caption text goes 1</p>
+- [this is where the bio text goes 2](http://www.cpb.org/aboutpb/act)![BLORK 2](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  2")<p>This is where the caption text goes 2</p>
+- [this is where the bio text goes 3](http://www.cpb.org/aboutpb/act)![BLORK 3](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  3")<p>This is where the caption text goes 3</p>
 
 ## Records
 

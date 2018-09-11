@@ -1,1 +1,19 @@
-<%= @exhibit.gallery_html.html_safe %>
+<% @exhibit.gallery.each do |gal| %>
+
+  <!-- each gallery item container -->
+  <div class="exgal-container">
+
+    <img src="<%= gal[:gallery_img_url] %>">
+
+    <a class="exgal-record" href="<%= gal[:record_url] %>"><%= gal[:record_text] %></a>
+
+    <span class="exgal-caption">
+      <%= gal[:caption] %>
+    </span>
+  </div>
+
+
+
+<% end %>
+
+
