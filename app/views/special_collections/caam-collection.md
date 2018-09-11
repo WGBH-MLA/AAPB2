@@ -1,4 +1,4 @@
-# The Center for Asian American Media 
+# The Center for Asian American Media
 
 ## Thumbnail
 
@@ -6,7 +6,7 @@
 
 ## Summary
 
-The *Center for Asian American Media (CAAM)* Collection contains 23 films that speak to the Asian experience through the lens of history. The collection includes early broadcasts by the ground-breaking Asian American anthology series *Silk Screen* (1982-1987), which explores the subject of identity and treatment of Asian Americans in the San Francisco Bay Area. The CAAM collection contains a diverse array of subjects from a variety of geogaphic locations, such as: *A World Beneath the War* (1997) about the Cu Chi tunnels built during the Vietnam War, *Survivors* (1982) which interviews survivors of the atomic bomb which dropped on Hiroshima and Nagasaki, and *The Last Ghosts of War* (2008) which interviews victims from the use of herbicides (agent orange) during the Vietnam War. The collection also contains biographies that show a glimpse into the life of young Asian Americans who struggle with identity, adversity, and overcoming complex obstacles in order to achieve their goals, and even the smallest wins in life, these films include:  *Maya Lin: A Strong Clear Vision* (1994), *Raymond's Portrait* (1997), *A.K.A. Don Bonus* (1995), and *Yours Truly Miss Chinatown* (2008). The collection as a whole speaks to the complexities of Asian American life, culture, and experiences, evoking the universal struggle and resilience of the human condition. 
+The *Center for Asian American Media (CAAM)* Collection contains 23 films that speak to the Asian experience through the lens of history. The collection includes early broadcasts by the ground-breaking Asian American anthology series *Silk Screen* (1982-1987), which explores the subject of identity and treatment of Asian Americans in the San Francisco Bay Area. The CAAM collection contains a diverse array of subjects from a variety of geogaphic locations, such as: *A World Beneath the War* (1997) about the Cu Chi tunnels built during the Vietnam War, *Survivors* (1982) which interviews survivors of the atomic bomb which dropped on Hiroshima and Nagasaki, and *The Last Ghosts of War* (2008) which interviews victims from the use of herbicides (agent orange) during the Vietnam War. The collection also contains biographies that show a glimpse into the life of young Asian Americans who struggle with identity, adversity, and overcoming complex obstacles in order to achieve their goals, and even the smallest wins in life, these films include:  *Maya Lin: A Strong Clear Vision* (1994), *Raymond's Portrait* (1997), *A.K.A. Don Bonus* (1995), and *Yours Truly Miss Chinatown* (2008). The collection as a whole speaks to the complexities of Asian American life, culture, and experiences, evoking the universal struggle and resilience of the human condition.
 
 ## Background
 
@@ -33,11 +33,13 @@ American community and the public at large. This collection was digitized as par
 - [Bay Area Video Coalition Website](https://www.bavc.org/)
 - [About the Public Broadcasting Fellowship](https://pbpf.americanarchive.org/about-the-fellowships/)
 
+## Funders
+
+- [![IMLS](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png "IMLS Logo")](https://www.imls.gov/)
+
 ## Help
 
 - Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword, or title, or browse all episodes by clicking “Explore the Collection” below the search box.
 - The Center for Asian American Media’s collection has 23 digitized titles, 22 of which are accessible online at the AAPB website. Materials not visible online are available by visiting in person to the Library of Congress, WGBH, or CAAM.
-
-## Funders
 
 ## Terms
