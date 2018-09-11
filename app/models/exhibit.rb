@@ -7,12 +7,17 @@ class Exhibit < Cmless
 
   attr_reader :summary_html
   attr_reader :extended_html
+  
+  
+  # TODO remove once exhibits are edited to new format
   attr_reader :author_html
+  
   attr_reader :main_html
   attr_reader :resources_html
 
   attr_reader :gallery_html
   attr_reader :records_html
+  attr_reader :authors_html
 
   attr_reader :head_html
 
@@ -143,6 +148,13 @@ class Exhibit < Cmless
         }
           
       end
+    end
+  end
+
+  def authors
+    @authors ||=
+    begin
+      Nokogiri::HTML(authors_html).xpath('//li').map { |li| {img_url: li.xpath('./img').first['src'], title: li.css('a.title').first.text, name: li.css('a.name').first.text } }
     end
   end
 end
