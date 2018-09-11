@@ -1,3 +1,68 @@
+<% content_for :main do %>
+
+  <ol class="breadcrumb hidden-xs" style="margin-top: 0px;">
+    <li><a href="/exhibits">Exhibits</a></li>
+    <% @exhibit.ancestors.map do |ancestor| %>
+      <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
+    <% end %>
+    <li><%= @exhibit.title %></li>
+  </ol>
+
+  <div class="row">
+      
+    <div class="col-md-8">
+      <h3 class="exhibit-title">Overview</h3>
+      
+      <span class="exhibit-main">
+        <%= @exhibit.summary_html.html_safe %>
+      </span>
+
+      <hr>
+
+      <span class="exhibit-main">
+        <%= @exhibit.main_formatted.html_safe %>
+        <%= @exhibit.extended_html.html_safe %>
+      </span>
+
+    </div>
+
+    <div class="col-md-4">
+
+      <!-- whole gallery -->
+      <%= render(partial: 'exhibits/gallery',
+                  locals: {
+                    gallery_info: @exhibit.gallery 
+                  }) %>
+    </div>
+
+  </div>
+
+  <!-- records -->
+  <%= render(partial: 'exhibits/records',
+              locals: {
+                records: @exhibit.records 
+              }) %>
+
+  <% if @exhibit.items.count > 0 %>
+    <div class="panel panel-primary view-all-gallery">
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-sm-9"><h3><%= @exhibit.title %></h3></div>
+          <div class="col-sm-3"><a class="btn btn-primary" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>" data-no-turbolink='true'>Show All Items</a></div>
+        </div>
+      </div>
+    </div>
+  <% end %>
+  <br/>
+
+
+<% end %>
+
+<%= render partial: 'shared/title_sidebar_main',
+           locals: {
+             main: yield(:main)
+           } %>
+
 <% content_for :sidebar do %>
 
   <%= render partial: 'sidebar_nav',
@@ -32,51 +97,3 @@
               }) if !@exhibit.resources.empty? %>
 
 <% end %>
-
-<% content_for :main do %>
-
-  <ol class="breadcrumb hidden-xs" style="margin-top: 0px;">
-    <li><a href="/exhibits">Exhibits</a></li>
-    <% @exhibit.ancestors.map do |ancestor| %>
-      <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
-    <% end %>
-    <li><%= @exhibit.title %></li>
-  </ol>
-
-  <%= @exhibit.summary_html.html_safe %>
-
-  <%= @exhibit.extended_html.html_safe %>
-
-  <!-- whole gallery -->
-  <%= render(partial: 'exhibits/gallery',
-              locals: {
-                gallery_info: @exhibit.gallery 
-              }) %>
-  
-  <!-- records -->
-  <%= render(partial: 'exhibits/records',
-              locals: {
-                records: @exhibit.records 
-              }) %>
-
-  <% if @exhibit.items.count > 0 %>
-    <div class="panel panel-primary view-all-gallery">
-      <div class="panel-body">
-        <div class="row">
-          <div class="col-sm-9"><h3><%= @exhibit.title %></h3></div>
-          <div class="col-sm-3"><a class="btn btn-primary" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>" data-no-turbolink='true'>Show All Items</a></div>
-        </div>
-      </div>
-    </div>
-  <% end %>
-  <br/>
-
-  <%= @exhibit.main_formatted.html_safe %>
-
-<% end %>
-
-<%= render partial: 'shared/title_sidebar_main',
-           locals: {
-             sidebar: yield(:sidebar),
-             main: yield(:main)
-           } %>

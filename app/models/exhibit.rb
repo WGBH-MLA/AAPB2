@@ -113,7 +113,7 @@ class Exhibit < Cmless
       end
   end
 
-  def media_player(element, type='image')
+  def media_player(media_url, type='image')
     if type == 'audio'
 
     elsif type == 'video'
@@ -127,7 +127,7 @@ class Exhibit < Cmless
   def records
     @records ||=
     begin
-      Nokogiri::HTML(records_html).xpath('//li').map { |li| a_ele = li.xpath('./a').first; {guid: a_ele['href'], text: a_ele.text } }
+      Nokogiri::HTML(records_html).xpath('//li').map { |li| li.text }
     end
   end
 
