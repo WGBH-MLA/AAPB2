@@ -1,0 +1,9 @@
+<div class="exrec-container">
+  <ul>
+    <% records.each do |record_info| %>
+      <li>
+        <a class="exrec-record" href="http://americanarchive.org/catalog/<%= record_info[:guid] %>"><%= record_info[:text] %></a>
+      </li>
+    <% end %>
+  </ul>
+</div>

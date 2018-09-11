@@ -40,12 +40,13 @@ ooh - wee
 
 ## Gallery
 
-- [this is where the bio text goes 1](http://www.cpb.org/aboutpb/act)![BLORK 1](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  1")<p>This is where the caption text goes 1</p>
-- [this is where the bio text goes 2](http://www.cpb.org/aboutpb/act)![BLORK 2](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  2")<p>This is where the caption text goes 2</p>
-- [this is where the bio text goes 3](http://www.cpb.org/aboutpb/act)![BLORK 3](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  3")<p>This is where the caption text goes 3</p>
+- [this is where the link text goes 1](http://www.cpb.org/aboutpb/act)![BLORK 1](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  1")<p>This is where the caption text goes 1</p>
+- [this is where the link text goes 2](http://www.cpb.org/aboutpb/act)![BLORK 2](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  2")<p>This is where the caption text goes 2</p>
+- [this is where the link text goes 3](http://www.cpb.org/aboutpb/act)![BLORK 3](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  3")<p>This is where the caption text goes 3</p>
 
 ## Records
 
-- cpb-aacip_60-70msbm1d
-- cpb-aacip_15-9fj29c7n
-- cpb-aacip_500-9z90dj38
+- [this is where the record text goes 1](cpb-aacip_60-70msbm1d)
+- [this is where the record text goes 2](cpb-aacip_15-9fj29c7n)
+- [this is where the record text goes 3](cpb-aacip_500-9z90dj38)
+

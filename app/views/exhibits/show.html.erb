@@ -37,12 +37,19 @@
 
   <%= @exhibit.extended_html.html_safe %>
 
+
+  <!-- whole gallery -->
   <%= render(partial: 'exhibits/gallery',
               locals: {
                 gallery_info: @exhibit.gallery 
               }) %>
   
-
+  <!-- records -->
+  <%= render(partial: 'exhibits/records',
+              locals: {
+                records: @exhibit.records 
+              }) %>
+  
   <% if @exhibit.items.count > 0 %>
     <div class="panel panel-primary view-all-gallery">
       <div class="panel-body">

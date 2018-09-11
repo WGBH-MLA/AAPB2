@@ -119,6 +119,13 @@ class Exhibit < Cmless
       
   end
 
+  def records
+    @records ||=
+    begin
+      Nokogiri::HTML(records_html).xpath('//li').map { |li| a_ele = li.xpath('./a').first; {guid: a_ele['href'], text: a_ele.text } }
+    end
+  end
+
   def gallery
     @gallery ||=
     begin
@@ -133,12 +140,6 @@ class Exhibit < Cmless
           record_text: record_link.text,
           caption: caption.text,
           gallery_img_url: gallery_img['src'],
-        
-
-        #   text: el.text,
-        #   url: el.attribute('href').to_s,
-
-
         }
           
       end
