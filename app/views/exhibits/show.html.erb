@@ -6,12 +6,22 @@
                 links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
               } %>
 
+
+  <% authors = @exhibit.authors %>
+
   <div class="panel panel-primary">
     <div class="panel-heading">
-      <h3 class="panel-title">Curator</h3>
+      <h3 class="panel-title">Curator<%= authors.count > 1 ? 's' : '' %></h3>
     </div>
     <div class="panel-body">
-      <%= @exhibit.author_html.html_safe %>
+
+
+      <!-- multiple authors where available -->
+      <%= render(partial: 'exhibits/authors',
+        locals: {
+          authors: authors
+        }) %>
+
     </div>
   </div>
 

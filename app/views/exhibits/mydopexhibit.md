@@ -10,12 +10,12 @@ Holy Hell!
 
 ## Extended
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/adeanheadshot.jpg"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/adeanheadshot.jpg"/>
+  <a class="name">Alejandra Dean</a>
+  <a class="title">Curator Extraordinaire</a>
 
-### Alejandra Dean
-Whoa There, American Archive of Public Broadcasting!
 
 
 ## Resources
