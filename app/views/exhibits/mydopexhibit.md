@@ -10,13 +10,16 @@ Holy Hell!
 
 ## Extended
 
+NOTHING
+
+## Author
+lest we forget
+
 ## Authors
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/adeanheadshot.jpg"/>
   <a class="name">Alejandra Dean</a>
   <a class="title">Curator Extraordinaire</a>
-
-
 
 ## Resources
 
@@ -30,9 +33,7 @@ Holy Hell!
 
 ### An Introduction to Newsmagazines
 
-Baka Shinji!
-
-ooh - wee
+Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1NJ7ZWitSg9maX_ootO-zmTf2Pq8&hl=en" width="640" height="480"></iframe>
 
@@ -40,13 +41,21 @@ ooh - wee
 
 ## Gallery
 
-- [this is where the link text goes 1](http://www.cpb.org/aboutpb/act)![BLORK 1](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  1")<p>This is where the caption text goes 1</p>
-- [this is where the link text goes 2](http://www.cpb.org/aboutpb/act)![BLORK 2](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  2")<p>This is where the caption text goes 2</p>
-- [this is where the link text goes 3](http://www.cpb.org/aboutpb/act)![BLORK 3](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "This is where the image goes!  3")<p>This is where the caption text goes 3</p>
+- <a class="link" href="http://www.cpb.org/link1">this is where the link text goes 1</a>
+  <img title="img title 1" alt="Alt text 1" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg">
+  <a class="caption-title">This is the caption title</a>
+  <a class="caption-text">This is where the caption text goes 1</a>
+- <a class="link" href="http://www.cpb.org/link1">this is where the link text goes 1</a>
+  <img title="img title 1" alt="Alt text 1" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg">
+  <a class="caption-title">This is the caption title</a>
+  <a class="caption-text">This is where the caption text goes 1</a>
+- <a class="link" href="http://www.cpb.org/link1">this is where the link text goes 1</a>
+  <img title="img title 1" alt="Alt text 1" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg">
+  <a class="caption-title">This is the caption title</a>
+  <a class="caption-text">This is where the caption text goes 1</a>
 
 ## Records
 
 - [this is where the record text goes 1](cpb-aacip_60-70msbm1d)
 - [this is where the record text goes 2](cpb-aacip_15-9fj29c7n)
 - [this is where the record text goes 3](cpb-aacip_500-9z90dj38)
-

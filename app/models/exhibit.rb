@@ -7,8 +7,7 @@ class Exhibit < Cmless
 
   attr_reader :summary_html
   attr_reader :extended_html
-  
-  
+    
   # TODO remove once exhibits are edited to new format
   attr_reader :author_html
   
@@ -71,6 +70,7 @@ class Exhibit < Cmless
 
   def items
     @items ||= begin
+
       doc = Nokogiri::HTML(summary_html + extended_html + main_html + head_html)
       hash = Hash[
         doc.xpath('//a').select do |el|
@@ -136,15 +136,19 @@ class Exhibit < Cmless
     begin
 
       Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
-        record_link = gallery_item.xpath('./a').first
+        record_link = gallery_item.css('a.link').first
         gallery_img = gallery_item.xpath('./img').first
-        caption = gallery_item.xpath('./p').first
+        caption = gallery_item.css('a.caption-text').first
+        title = gallery_item.css('a.caption-title').first
 
         {
           record_url: record_link['href'],
           record_text: record_link.text,
+          title: title.text,
           caption: caption.text,
           gallery_img_url: gallery_img['src'],
+          gallery_img_title: gallery_img['title'],
+          gallery_img_alt: gallery_img['alt'],
         }
           
       end
