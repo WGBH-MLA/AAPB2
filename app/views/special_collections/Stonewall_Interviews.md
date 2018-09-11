@@ -23,10 +23,11 @@ The <em>Stonewall Uprising</em> interviews were conducted in 2011 for the <em>Am
 
 ## Resources
 
-- [<em>The African American Odyssey: A Quest for Full Citizenship</em>, Exhibit, Library of Congress](https://www.loc.gov/exhibits/african-american-odyssey/reconstruction.html)
-- [<em>From Slavery to Freedom: The African-American Pamphlet Collection 1822-1909</em>, Library of Congress](http://memory.loc.gov/ammem/aapchtml/aapchome.html)
-- [<em>First-Person Narratives of the American South, 1860-1920</em>, University of North Carolina at Chapel Hill](http://docsouth.unc.edu/fpn/)
-- [Reconstruction Timeline](http://www.digitalhistory.uh.edu/exhibits/reconstruction/timeline.html)
+- [<em>Stonewall Uprising</em> Documentary Website](https://www.pbs.org/wgbh/americanexperience/films/stonewall/)
+- [Stonewall National Museum & Archives](https://www.stonewall-museum.org/)
+- [NYC LGBT Historic Sites Project](https://www.nyclgbtsites.org/theme/activism-before-stonewall/)
+- [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/)
+- [LGBTQ+ Studies Research Guide](https://www.loc.gov/rr/main/lgbtq/lgbtqgeneralguide/digitalcollections.html)
 
 ## Funders
 
