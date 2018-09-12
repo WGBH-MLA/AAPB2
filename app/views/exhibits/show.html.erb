@@ -1,6 +1,6 @@
 <% content_for :main do %>
 
-  <ol class="breadcrumb hidden-xs" style="margin-top: 0px;">
+  <ol class="breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px;">
     <li><a href="/exhibits">Exhibits</a></li>
     <% @exhibit.ancestors.map do |ancestor| %>
       <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
@@ -11,6 +11,24 @@
   <div class="row">
       
     <div class="col-md-8">
+
+
+  <div class="row">
+    <div class="col-md-8"></div>
+
+
+
+      <div class="col-md-7"></div>
+      <div class="col-md-5">
+          <%= render partial: 'sidebar_nav',
+                     locals: {
+                        title: 'Select from exhibit themes',
+                        links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
+                      } %>
+      </div>
+    </div>
+
+
       <h3 class="exhibit-title">Overview</h3>
       
       <span class="exhibit-main">
@@ -64,13 +82,6 @@
            } %>
 
 <% content_for :sidebar do %>
-
-  <%= render partial: 'sidebar_nav',
-             locals: {
-                title: 'Sections',
-                links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
-              } %>
-
 
   <% authors = @exhibit.authors %>
 
