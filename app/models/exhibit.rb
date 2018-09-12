@@ -103,6 +103,13 @@ class Exhibit < Cmless
     end
   end
 
+  def main_abbrev
+    @main_abbrev ||= begin
+      @main_html.gsub(/<img[^>]*>/, '')[0..300]
+    end
+  end
+
+
   def resources
     @resources ||=
       Nokogiri::HTML(resources_html).xpath('//a').map do |el|

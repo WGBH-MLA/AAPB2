@@ -2,12 +2,12 @@
   <div class="panel-body">
     <% if links.present? %>
 
-      <div id="exhibit-section-menu">
-        <span><%= title %></span>
+      <div  id="exhibit-section-menu">
+        <li id="exhibit-section-head" style="margin-left: 8%;"><%= title %></li>
 
         <ul class="hide" id="exhibit-sections">
 
-
+          <li class="exhibit-section-disabled" value="<%= @exhibit.parent ? @exhibit.parent.path : @exhibit.path %>">Overview</li>
 
           <% links.each do |name,link,subs=nil| %>
             <li value="<%= link %>">
@@ -34,7 +34,7 @@
   
 
   $(document).ready(function() {
-    $('#exhibit-section-menu').click(function(e) {
+    $('#exhibit-section-head').click(function(e) {
       e.preventDefault();
       $('#exhibit-sections').slideToggle().removeClass('hide');
     });

@@ -28,7 +28,12 @@
   margin-top: -18px;
 }
 
-.exhibit-title {
+#main-toggle {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.exhibit-color {
   color: #CC5555;
 }
 
@@ -91,14 +96,14 @@
 
 /*section menu*/
 #exhibit-section-menu {
-  width: 15%;
+  width: 90%;
   background-color: #fff !important;
-  position: fixed;
+  position: absolute;
   border: 1px solid #ccc;
 
   ul {
-    list-style: none;  
-
+    list-style: none;
+    margin: 0;
   }
 }
 
@@ -110,6 +115,15 @@
 
   }
 }
+
+#exhibit-section-head {
+
+}
+
+.exhibit-section-disabled {
+  background-color: #ddd;
+}
+
 .hide {
   display: none;
 }
