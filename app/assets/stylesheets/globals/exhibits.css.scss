@@ -60,3 +60,56 @@
 .exrec-record {
   background-color: #0F0;
 }
+
+.exhibit-show-breadcrumb {
+
+  background-color: #FFF;
+  color: #CC5555; 
+  font-size: 12px;
+}
+
+.exhibit-show-breadcrumb  a, .exhibit-show-breadcrumb  a:hover, .exhibit-show-breadcrumb a:visited {
+
+  background-color: #FFF;
+  color: #CC5555; 
+  font-size: 12px;
+}
+
+.exhibit-header {
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/exhibits/exhibits_banner.jpg");
+  max-width: 1172px;
+  height: 60px;
+  h1 {
+    padding-left: 22px;
+    font-size: 36px;
+    font-weight: lighter;
+    line-height: 60px;
+    color: #fff;
+    margin: 0;
+  }
+}
+
+/*section menu*/
+#exhibit-section-menu {
+  width: 15%;
+  background-color: #fff !important;
+  position: fixed;
+  border: 1px solid #ccc;
+
+  ul {
+    list-style: none;  
+
+  }
+}
+
+.exhibit-sections {
+  border: 1px solid #ccc;
+
+  ul {
+    list-style: none;  
+
+  }
+}
+.hide {
+  display: none;
+}
