@@ -1,11 +1,4 @@
-<% content_for(:head) do %>
-  <link href="http://vjs.zencdn.net/5.11.7/video-js.css" rel="stylesheet" data-turbolinks-track>
-  <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
-  <!-- video-js support for IE 8 -->
-  <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
-  <!-- Need VideoJS for our player.js file -->
-  <%= javascript_include_tag 'player' %>
-<% end %>
+
 <% content_for(:head) do %>
   <link href="http://vjs.zencdn.net/5.11.7/video-js.css" rel="stylesheet" data-turbolinks-track>
   <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
@@ -16,7 +9,7 @@
 <% end %>
 
 
-<div class="exgal-container">
+<div id="exgal-main" data-total-items=<%= gallery_info.count %> data-current-item=1 class="exgal-container">
   <div class="row">
 
     <div class="col-md-12">
@@ -24,11 +17,10 @@
       <% gallery_info.each_with_index do |gal,i| %>
 
         <!-- each gallery item container -->
-        <div id="exgal-<%= i %>" class=" <%= i != 0 ? 'hide' : '' %>">
+        <div id="exgal-<%= i+1 %>" class="exgals <%= i != 0 ? 'hide' : '' %>">
           <div class="row">
             <div class="col-md-12">
 
-            
               <!-- whole gallery -->
               <%= render(partial: 'exhibits/gallery_player',
                           locals: {
@@ -55,15 +47,16 @@
       <% end %>
 
       <div class="row">
+        
         <div class="col-md-12">
 
-          <span id="exgal-back" class="">< Previous</span>
+          <span class="exgal-button" id="exgal-back" class="">< Previous</span>
           <span id="exgal-count">
             <span>1</span>
             of
             <span>3</span>
           </span>
-          <span id="exgal-forward">Next ></span>
+          <span class="exgal-button" id="exgal-forward">Next ></span>
 
         </div>
       </div>
@@ -78,10 +71,38 @@
   
   $(document).ready(function() {
 
-    $('#exgal-forward, #exgal-back').click(function() {
+    $('.exgal-button').click(function() {
 
 
+      var main = $('#exgal-main');
+      var total_items = parseFloat(main.attr("data-total-items"));
+      var current_item = parseFloat(main.attr("data-current-item"));
 
+      if($(this).attr('id') == 'exgal-forward') {
+        
+        var next_item = current_item + 1;
+
+        if(next_item == total_items){
+          $(this).addClass('hide');
+        } else {
+          $('#exgal-back').removeClass('hide');;
+        }
+
+      } else {
+
+        var next_item = current_item - 1;
+
+        if(next_item == 1){
+          $(this).addClass('hide');
+        } else {
+          $('#exgal-forward').removeClass('hide');;
+        }
+      }
+
+      $('.exgals').addClass('hide');
+      console.log('#exgal-' + next_item)
+      $('#exgal-' + next_item).removeClass('hide');
+      main.attr("data-current-item", next_item);
 
     });
   });

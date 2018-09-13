@@ -50,11 +50,9 @@
 
       <div class="row">
 
-
         <span id="main-toggle" class="exhibit-color" style="float: right;">
           Expand to read more 
         </span>
-
 
       </div>
     </div>
@@ -69,6 +67,33 @@
     </div>
 
   </div>
+
+  <div class="row">
+
+    <div class="exhibit-sections-bar">
+
+      <h3 style="margin-left: 1em;" id="exhibit-sections-bar-title" class="exhibit-color">Exhibit Sections</h3>
+
+
+      <div class="">
+
+        <% exes = @exhibit.parent ? @exhibit.parent.children : @exhibit.children %>
+
+        <% exes.each do |exhibit| %>
+
+          <a style="background-image: url(<%= exhibit.thumbnail_url %>)" href="<%= exhibit.path %>">
+            
+
+          </a>
+
+        <% end %>
+      </div>
+
+    </div>
+
+  </div>
+
+
 
   <!-- records -->
   <%= render(partial: 'exhibits/records',

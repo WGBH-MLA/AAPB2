@@ -145,8 +145,7 @@ class Exhibit < Cmless
         else #image
 
           img = gallery_item.xpath('./img').first
-
-          {type: 'image', img_src: img['src'], img_alt: img['alt'], img_title: img['title']}
+          {type: 'image', url: img[:src], alt: img[:alt], title: img[:title]}
         end
 
         {
