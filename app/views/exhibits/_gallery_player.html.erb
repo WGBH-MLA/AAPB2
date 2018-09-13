@@ -1,0 +1,36 @@
+<% if media_info[:type] == 'video' || media_info[:type] == 'audio' %>
+
+  <div class="player">
+    <section class="videocontent">
+      <%=
+        
+        content_tag(media_info[:type],
+                    controls: true,
+                    "class" => "video-js vjs-default-skin vjs-fluid",
+                    "id" => "player_media",
+                    "aria-label" => "video player",
+                    oncontextmenu: 'return false;',
+                    preload: 'auto',
+                    crossorigin: 'with-credentials',
+                    :"data-setup" => '{}',
+                    poster: media_info[:thumb_src]) do %>
+
+          <source src="<%= media_info[:url] %>" type='<%= media_info[:type] == 'video' ? 'video/mp4' : 'audio/mp3' %>' />
+
+          <% if false %>
+            <% if @pbcore.captions_src %>
+              <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+            <% end %>
+            <% if ChapterFile.file_present?(@pbcore.id) %>
+              <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
+            <% end %>
+          <% end %>
+      <% end.html_safe() %>
+    </section>
+  </div>
+
+<% elsif media_info[:type] == 'image' %>
+  <img src="<%= media_info[:src] %>" alt="<%= media_info[:alt] %>" title="<%= media_info[:title] %>">
+<% elsif media_info[:type] == 'iframe' %>
+  <iframe src="<%= media_info[:url] %>"></iframe>
+<% end %>

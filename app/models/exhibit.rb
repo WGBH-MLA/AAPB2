@@ -119,18 +119,7 @@ class Exhibit < Cmless
         ]
       end
   end
-
-  def media_player(media_url, type='image')
-    if type == 'audio'
-
-    elsif type == 'video'
-
-    else #image
-
-    end
-      
-  end
-
+  
   def records
     @records ||=
     begin
@@ -143,19 +132,29 @@ class Exhibit < Cmless
     begin
 
       Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
+ 
+        type = gallery_item.css('a.type').first.text
         record_link = gallery_item.css('a.link').first
-        gallery_img = gallery_item.xpath('./img').first
         caption = gallery_item.css('a.caption-text').first
         title = gallery_item.css('a.caption-title').first
+
+        media_info = if type == 'audio' || type == 'video' || type == 'iframe'
+
+          url = gallery_item.css('a.media_url').first.text
+          {type: type, url: url}
+        else #image
+
+          img = gallery_item.xpath('./img').first
+
+          {type: 'image', img_src: img['src'], img_alt: img['alt'], img_title: img['title']}
+        end
 
         {
           record_url: record_link['href'],
           record_text: record_link.text,
           title: title.text,
           caption: caption.text,
-          gallery_img_url: gallery_img['src'],
-          gallery_img_title: gallery_img['title'],
-          gallery_img_alt: gallery_img['alt'],
+          media_info: media_info          
         }
           
       end
