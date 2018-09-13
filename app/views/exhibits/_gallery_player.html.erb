@@ -30,7 +30,7 @@
   </div>
 
 <% elsif media_info[:type] == 'image' %>
-  <img src="<%= media_info[:src] %>" alt="<%= media_info[:alt] %>" title="<%= media_info[:title] %>">
+  <img src="<%= media_info[:url] %>" alt="<%= media_info[:alt] %>" title="<%= media_info[:title] %>">
 <% elsif media_info[:type] == 'iframe' %>
   <iframe src="<%= media_info[:url] %>"></iframe>
 <% end %>
