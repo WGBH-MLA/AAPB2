@@ -3,7 +3,7 @@
     <h1><%= @special_collection.title %></h1>
   </div>
   <div class="special-collections-search">
-    <%= render partial: 'special_collections/search_results', locals: {special_collection: @special_collection } %>
+    <%= render partial: 'special_collections/search_results', locals: { special_collection: @special_collection } %>
   </div>
 
   <%= render partial: 'special_collections/search_help_modal' %>
@@ -12,7 +12,7 @@
     <h1>Search Results</h1>
   </div>
   <% if @exhibit %>
-    <%= render partial: 'exhibits/show_all_items_header', locals: {exhibit: @exhibit } %>
+    <%= render partial: 'exhibits/show_all_items_header', locals: { exhibit: @exhibit } %>
   <% end %>
 <% end %>
 
@@ -21,6 +21,9 @@
 </div>
 
 <div id="content" class="col-md-9 col-sm-8">
+  <div class="search-header">
+    <%= render_facet_partials(fields = [ SolrDocument::ACCESS_FACET_FIELD ]) %>
+  </div>
   <% unless has_search_parameters? %>
     <%# if there are no input/search related params, display the "home" partial -%>
     <%= render 'home' %>

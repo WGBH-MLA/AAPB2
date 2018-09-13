@@ -1,0 +1,398 @@
+$grid-item-height: 250px;
+
+.documents-grid-view {
+  .document {
+    border-bottom: none;
+    height: $grid-item-height;
+  }
+
+  .thumbnail {
+    height: $grid-item-height;
+    overflow: hidden;
+    img {
+      height: 168px;
+      // (250 - 13*2) * (3/4)
+      // -- Grid cells are square, so width == height.
+      // -- 13 is the padding+margin on each side, coming from a couple different rules.
+    }
+  }
+}
+
+$gallery-height: 10em;
+
+.gallery-thumb {
+
+  height: $gallery-height;
+  min-height: $gallery-height;
+  max-height: $gallery-height;
+
+  width: $gallery-height;
+  min-width: $gallery-height;
+  max-width: $gallery-height;
+
+
+  overflow: hidden;
+}
+
+.index-item {
+  margin: 0;
+}
+
+.index-thumb {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: $gallery-height;
+}
+
+@media (max-width: 767px) {
+  .gallery-thumb {
+
+    height: 100%;
+    min-height: 100%;
+    max-height: 100%;
+
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+
+
+    overflow: hidden;
+  }
+
+  div.gallery-title {
+    font-size: 28px;
+  }
+
+  div.gallery-title h4 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .index-thumb {
+    background-size: cover;
+    background-position: 0 0;
+    /*background-repeat: no-repeat;*/
+    height: 10em;
+  }
+
+}
+
+.gallery-title {
+  font-weight: bold;
+  margin-top: 12px;
+  margin-bottom: 18px;
+}
+
+.short_list-margin {
+  margin-left: 6px;
+}
+
+.short_list-image-height {
+  display: block;
+  height: 3.2em;
+  width: 3.2em;
+}
+
+.four-four-box {
+  float: left;
+  background-color: black;
+  width: 100%;
+  /*height: 75%;*/
+  height: 00;
+
+  margin: 0;
+  overflow: hidden;
+
+  /*force square proportion*/
+  padding-bottom: 100%;
+}
+
+.four-three-box {
+  float: left;
+  background-color: black;
+  width: 100%;
+  /*height: 75%;*/
+  height: 00;
+
+  margin: 0;
+  overflow: hidden;
+
+  /*force square proportion*/
+  padding-bottom: 75%;
+}
+
+$icon-side: 18px;
+
+.view-icon-short_list {
+  top: 2px;
+  width: $icon-side;
+  min-width: $icon-side;
+  max-width: $icon-side;
+
+  height: $icon-side;
+  min-height: $icon-side;
+  max-height: $icon-side;
+  background: image_url("/thumbs/view-icon-short_list.png");
+  background-size: contain;
+
+}
+
+.view-icon-gallery {
+  top: 2px;
+  width: $icon-side;
+  min-width: $icon-side;
+  max-width: $icon-side;
+
+  height: $icon-side;
+  min-height: $icon-side;
+  max-height: $icon-side;
+  background: image_url("/thumbs/view-icon-gallery.png");
+  background-size: contain;
+
+}
+
+.view-icon-masonry {
+  top: 2px;
+  width: $icon-side;
+  min-width: $icon-side;
+  max-width: $icon-side;
+
+  height: $icon-side;
+  min-height: $icon-side;
+  max-height: $icon-side;
+  background: image_url("/thumbs/view-icon-masonry.png");
+  background-size: contain;
+
+}
+
+.view-icon-list {
+  top: 2px;
+  width: $icon-side;
+  min-width: $icon-side;
+  max-width: $icon-side;
+
+  height: $icon-side;
+  min-height: $icon-side;
+  max-height: $icon-side;
+  background: image_url("/thumbs/view-icon-list.png");
+  background-size: contain;
+}
+
+$icon-back-color: #FFFFFF;
+$icon-active-color: #DDDDDD;
+
+.view-type-short_list {
+  background-color: $icon-back-color;
+}
+.view-type-gallery {
+  background-color: $icon-back-color;
+}
+.view-type-masonry {
+  background-color: $icon-back-color;
+}
+.view-type-list {
+  background-color: $icon-back-color;
+}
+
+.btn-default.view-type-short_list, .btn-default.view-type-gallery, .btn-default.view-type-masonry, .btn-default.view-type-list {
+  padding: 6px;
+  background-color: $icon-back-color;
+}
+
+.btn-default.view-type-short_list.active, .btn-default.view-type-gallery.active, .btn-default.view-type-masonry.active, .btn-default.view-type-list.active {
+  background-color: $icon-active-color;
+}
+
+.list-hr {
+  background-color: #ddd;
+  color: #ddd;
+  border-color: #ddd;
+  margin-top: .4em;
+  margin-bottom: .8em;
+}
+
+.glyphicon-list::before {
+  content: "";
+}
+
+#facet-access_types {
+  .panel-body {
+    padding: 10px 0;
+  }
+}
+
+.access-label {
+  display: inline-block;
+  margin: 0;
+}
+
+input[type="checkbox"].access-checkbox {
+  margin: 0 11px;
+}
+
+input[type=checkbox].access-checkbox + label.access-label {
+  color: #292d70;
+  display: inline-block;
+}
+
+input[type=checkbox].access-checkbox.checked + label.access-label {
+  color: #292d70;
+}
+
+.access-input {
+  background-color: #dfe0ea;
+  text-align: center;
+  h1 {
+    color: #292d70;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 0 1em;
+  }
+  a {
+    text-decoration: none;
+    cursor: default;
+  }
+}
+
+.access-info {
+  .access-help-tooltip {
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    width: 18px;
+    height: 18px;
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 18px !important;
+    color: #292d70;
+    background: #bbbdd2;
+    text-decoration: none;
+    padding: 0 2px 2px 3px;
+  }
+
+  .access-help-tooltip:hover {
+    background: #bbbdd2;
+    border: 1px solid #292d70;
+    text-decoration: none;
+  }
+
+  .access-help-tooltip + .tooltip > .tooltip-inner {
+    background-color: #f2f2f2;
+    color: #666;
+    margin-top: 6px;
+    width: 244px;
+    text-align: left;
+    padding: 15px;
+    h3 {
+      font-weight: bold;
+      color: #292d70;
+      font-size: 13px;
+      margin: 0;
+    }
+    p {
+      font-weight: normal;
+      color: #666;
+      margin: 12px 0;
+    }
+  }
+
+  .access-help-tooltip + .tooltip > .tooltip-arrow {
+    display: none;
+  }
+}
+
+.search-header {
+  background-color: #dfe0ea;
+  margin-bottom: 1em;
+}
+
+.access-facet-values {
+  margin: 0;
+  padding: 0;
+  li {
+    display: inline;
+    list-style-type: none;
+    padding: 0;
+  }
+  .first-access-facet {
+    text-align: right;
+  }
+  .second-access-facet {
+    text-align: center;
+  }
+  .third-access-facet {
+    text-align: left;
+  }
+}
+
+li {
+  .facet_select {
+    padding: 0;
+    font-size: 14px;
+    font-weight: normal;
+    color: #3b509d;
+    label:hover {
+      text-decoration: underline;
+    }
+    .facet-count {
+      color: #999;
+      text-decoration: none;
+      display: inline-block;
+    }
+    a:link, a:visited {
+      color: #3b509d;
+      text-decoration: none;
+    }
+    input[type="radio"] {
+      margin-right: 10px;
+    }
+  }
+  .super_facet_select {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 18px;
+  }
+}
+
+.facet-values .facet-count {
+  color: #999;
+  font-size: 14px;
+}
+
+.tooltip.in {
+  opacity: 1;
+}
+
+@media screen and (max-width: 990px) {
+  .search-header {
+    text-align: center;
+  }
+  input[type=checkbox].access-checkbox + label.access-label {
+    font-size: 14px;
+    line-height: 14px;
+    height: 16px;
+  }
+
+  .access-facet-values {
+    .first-access-facet {
+      text-align: center;
+    }
+    .third-access-facet {
+      text-align: center;
+    }
+  }
+
+  input[type="checkbox"].access-checkbox {
+    margin: 0;
+    padding: 10px;
+  }
+
+  .access-input {
+    padding: 10px;
+  }
+
+  .access-help-tooltip + .tooltip > .tooltip-inner {
+    margin-top: 0px;
+  }
+}

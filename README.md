@@ -240,9 +240,9 @@ $ ssh -i ~/.ssh/aapb.pem ec2-user@americanarchive.org
 $ cd /srv/www/aapb/current/
 ```
 
-To download and ingest everything on the server (which will take a while):
+To download and ingest everything on the production server (which will take a while):
 ```bash
-$ nohup bundle exec ruby scripts/download_clean_ingest.rb --all &
+$ RAILS_ENV=production nohup bundle exec ruby scripts/download_clean_ingest.rb --all --batch-commit &
 ```
 
 (The script can be run in several modes. Run it without arguments for more details:

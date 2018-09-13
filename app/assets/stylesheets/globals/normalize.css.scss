@@ -135,7 +135,7 @@ body {
  */
 a:link,
 a:visited {
-  color:#5D60AB;
+  color:#5d62a9;
 }
 a#startOverLink {
   color: #3C439B;
@@ -211,7 +211,8 @@ blockquote {
  */
 h1 {
   /* Set the font-size and line-height while keeping a proper vertical rhythm. */
-  font-size: 2em;
+  font-size: 24px;
+  font-weight: lighter;
   line-height: 1.5em; /* 3rem / 2em = 1.5em */
   /* Set 1 unit of vertical rhythm on the top and bottom margins. */
   margin-top: 0.75em; /* 1.5rem / 2em = .75em */
@@ -241,17 +242,14 @@ h1 {
   .page-header {
     border:none;
     margin: 0 0 18px 0;
-    padding: 0;
   }
 
   .page-header h1 {
     background-color:#292A72; /* This is the default background color */
     color:#FFF;
-    font-size:1.5em;
-    font-weight:100;
-    line-height:40px;
+    font-size:24px;
     margin: 0;
-    padding: 0 1em;
+    padding: 18px 22px;
 
   }
 
@@ -282,11 +280,11 @@ h1 {
 
 
 h2 {
-  font-size:2em;
+  font-size:28px;
   line-height:1.2em;
   margin-bottom:1em;
   margin: 3px;
-  font-weight:400;
+  font-weight:bold;
 }
 
   /* Media HEading - Title for record in a search result */
@@ -372,7 +370,7 @@ h6 {
 
 /* Address styling not present in IE 8/9, Safari 5, and Chrome. */
 abbr[title] {
-  border-bottom: 1px dotted;
+  border-bottom: 1px solid;
 }
 
 /* Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome. */
@@ -723,8 +721,7 @@ table {
 
   /*Page HEader*/
   .page-header h1 {
-    font-size: 2em;
-    line-height:60px;
+    font-size: 24px;
   }
 
   /*Organization Title*/

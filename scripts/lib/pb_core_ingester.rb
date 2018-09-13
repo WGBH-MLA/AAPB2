@@ -78,6 +78,7 @@ class PBCoreIngester
       e = ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{xml_top}")
       record_error(e, path)
     end
+
     commit unless is_batch_commit
   end
 

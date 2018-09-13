@@ -1,5 +1,19 @@
 /* Mobile ---------- */
 @media (max-width: 767px) {
+
+  /* search results list */
+
+  .list-item-height {
+    clear: both;
+    height: 100%;
+    /*
+    height: $list-item-height;
+    max-height: $list-item-height;
+    min-height: $list-item-height;*/
+  }
+
+
+
   .catalog-show-left-col {
     padding: 0;
   }

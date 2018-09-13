@@ -9,14 +9,27 @@ module Zipper
 
   def self.read(path)
     filename = path.to_s
-    plain_name = filename.gsub(/\.zip$/, '')
-    zip_name = filename =~ /\.zip$/ ? filename : filename + '.zip'
-    if File.exist?(zip_name)
-      Zip::File.open(zip_name, Zip::File::CREATE) do |z|
-        z.read(File.basename(plain_name))
-      end
-    else
-      File.read(filename)
+
+    str = if filename =~ /\.zip$/
+
+            # zipper
+            Zip::File.open(filename, Zip::File::CREATE) do |z|
+              s = z.read(File.basename(filename.gsub(/\.zip$/, '')))
+              z.close
+              s
+            end
+          else
+            # not zip
+            f = File.open(filename)
+            s = f.read
+            f.close
+            s
+          end
+
+    unless filename.include?('spec/fixtures') || filename.include?('spec/scripts')
+      File.delete(filename)
     end
+
+    str
   end
 end

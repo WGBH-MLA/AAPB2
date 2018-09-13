@@ -30,6 +30,9 @@ END
     # Escape "&" used in Google Analytics tracking code
     xhtml.gsub!('&', '&amp;')
 
+    # Remove falsely flagged tooltip html for access facet on catalog#index
+    xhtml.gsub!(/data-original-title="(.*)"/, '')
+
     # give values to attributes
     while xhtml.gsub!(MISSING_VAL_RE, '\1="FILLER" ')
       # Plain gsub doesn't work because that moves the cursor after each replace.
@@ -52,8 +55,9 @@ END
     end
     raise "Bad URLS: #{bad_urls}" unless bad_urls.empty?
   rescue => e
-    numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
-    raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n#{numbered}"
+    # numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
+    # raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n#{numbered}"
+    raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n"
   end
 end
 
