@@ -81,10 +81,7 @@
 
         <% exes.each do |exhibit| %>
 
-          <a style="background-image: url(<%= exhibit.thumbnail_url %>)" href="<%= exhibit.path %>">
-            
-
-          </a>
+          <%= exhibit.cover %>
 
         <% end %>
       </div>

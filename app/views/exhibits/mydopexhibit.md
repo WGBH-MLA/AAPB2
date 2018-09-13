@@ -102,6 +102,9 @@ Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Ba
 
 #### Next: [Precedents: Newsmagazine Firsts](/exhibits/newsmagazines/precedents)
 
+## Cover
+  <img title="cover title 2" alt="Alt cover 2" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg">
+
 ## Gallery
 
 - <a class="type">video</a>

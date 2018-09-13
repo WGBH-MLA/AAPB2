@@ -14,6 +14,7 @@ class Exhibit < Cmless
   attr_reader :main_html
   attr_reader :resources_html
 
+  attr_reader :cover_html
   attr_reader :gallery_html
   attr_reader :records_html
   attr_reader :authors_html
@@ -158,6 +159,10 @@ class Exhibit < Cmless
           
       end
     end
+  end
+
+  def cover
+    Nokogiri::HTML(cover_html)
   end
 
   def authors
