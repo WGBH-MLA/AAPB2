@@ -2,10 +2,10 @@
 - state: Kansas
   abbreviation: KS
   blurb_fill:
-    naeb_station: U. of Kansas
+    naeb_station: University of Kansas
   blurb_md: &naeb_blurb >
     [Additional audio content from %{naeb_station} in %{state}]
-    (/catalog?&f[access_types][]=all&q="%{naeb_station}")
+    (/catalog?f[special_collection][]=naeb&f[access_types][]=all&q="%{naeb_station}")
     is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
@@ -50,7 +50,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [KPcC](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=kpcc), [KEBS](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=kebs), and [San Bernardino Valley College](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="San Bernardino Valley") in California is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [KPCC](/catalog?f[special_collection][]=naeb&q=%22KPCC%22&utf8=%E2%9C%93&f[access_types][]=all), [KEBS](/catalog?f[special_collection][]=naeb&q="KEBS"&utf8=✓&f[access_types][]=all), and [San Bernardino Valley College](/catalog?f[special_collection][]=naeb&q="San+Bernardino+Valley+College"&utf8=✓&f[access_types][]=all) in California is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -95,7 +95,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [University of Chicago](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="u. of chicago") and [Moody Bible Institute](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q="moody bible institute") in Illinois is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [University of Chicago](/catalog?f[special_collection][]=naeb&q="University+of+Chicago"&utf8=✓&f[access_types][]=all) and [Moody Bible Institute](/catalog?f[special_collection][]=naeb&q="Moody+Bible+Institute"&utf8=✓&f[access_types][]=all) in Illinois is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -140,7 +140,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [WUOM](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=wuom), [WDET](/catalog?f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wdet), and [University of Michigan](/catalog?utf8=✓&f[access_types][]=online&f[organization][]=University of Maryland (MD)&q=wdet) in Michigan is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [WUOM](/catalog?f[special_collection][]=naeb&q="WUOM"&utf8=✓&f[access_types][]=all), [WDET](/catalog?f[special_collection][]=naeb&q="WDET"&utf8=✓&f[access_types][]=all), and [University of Michigan](/catalog?f[special_collection][]=naeb&q="University+of+Michigan"&utf8=✓&f[access_types][]=all) in Michigan is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -185,7 +185,7 @@
   blurb_fill:
     naeb_station:
   blurb_md: >
-    Additional audio content from [WRVR](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wrvr), [Union Theological Seminary](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q="union theological seminary"), and [WBFO] (/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wbfo) in New York is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [WRVR](/catalog?f[special_collection][]=naeb&q="WRVR"&utf8=✓&f[access_types][]=all), [Union Theological Seminary](/catalog?f[special_collection][]=naeb&q="Union+Theological+Seminary"&utf8=✓&f[access_types][]=all), and [WBFO] (/catalog?f[special_collection][]=naeb&q="WBFO"&utf8=✓&f[access_types][]=all) in New York is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
@@ -204,9 +204,9 @@
 
 - state: Ohio
   blurb_fill:
-    naeb_station: WMUB
+    naeb_station:
   blurb_md: >
-    Additional audio content from [WMUB](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wmub) and [WGUC](/catalog?utf8=✓&f[access_types][]=all&f[organization][]=University of Maryland (MD)&q=wguc) in Ohio is part of the National Association of Educational Broadcasters (NAEB) collection,
+    Additional audio content from [WMUB](/catalog?f[special_collection][]=naeb&q="WMUB"&utf8=✓&f[access_types][]=all) and [WGUC](/catalog?f[special_collection][]=naeb&q="WGUC"&utf8=✓&f[access_types][]=all) in Ohio is part of the National Association of Educational Broadcasters (NAEB) collection,
     contributed by the University of Maryland to the AAPB.
 
     The NAEB was established in 1934 from a precursor organization that formed in 1925.
