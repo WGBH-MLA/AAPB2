@@ -1,4 +1,4 @@
-# North Carolina Voices 
+# North Carolina Voices
 
 ## Thumbnail
 
@@ -12,7 +12,7 @@ The collection includes sixteen “family stories” recorded for <em>North Caro
 
 <em>North Carolina Voices: Understanding Poverty</em> is a series of reports, documentaries, and call-in programs that aired in April 2005. The series contains two documentaries, three <em>The State of Things</em> programs, twenty features and audio portraits broadcast on <em>Morning Edition</em>, and twenty-two “What is Poverty?” audio shorts.
 
-The series asks: What is poverty? And how has poverty changed since the 1960s? The series looks back to the 1960s, beginning with the North Carolina Fund. <em>North Carolina Voices: Understanding Poverty</em> examines how times have changed. The series uses a variety of narrative forms to give listeners access to competing perspectives about what poverty is today and how and why poverty is changing. 
+The series asks: What is poverty? And how has poverty changed since the 1960s? The series looks back to the 1960s, beginning with the North Carolina Fund. <em>North Carolina Voices: Understanding Poverty</em> examines how times have changed. The series uses a variety of narrative forms to give listeners access to competing perspectives about what poverty is today and how and why poverty is changing.
 
 
 ## Background
@@ -34,12 +34,13 @@ WUNC began as a FM station staffed by students at the University of North Caroli
 - [WUNC on Twitter](https://twitter.com/wunc)
 - [WUNC on Facebook](https://www.facebook.com/915wunc)
 - [North Carolina Voices](http://wunc.org/tags/north-carolina-voices#stream/0)
-- [Understanding Poverty]( http://storyweb.wuncfm.unc.edu/dfd/poverty/) 
+- [Understanding Poverty]( http://storyweb.wuncfm.unc.edu/dfd/poverty/)
 - [University of North Carolina at Chapel Hill, Wilson Library Special Collections](https://library.unc.edu/wilson/)
 - [Wilson Library WUNC collection: WUNC Records, 1929-2004 (bulk 1970-1995)](https://finding-aids.lib.unc.edu/40278/)
 - [AAPBF](https://pbpf.americanarchive.org/)
 
+## Funders
+
 ## Help
 
-Records are described at an item level, and all records contain a brief summary of asset. Each record is identified by corresponding series and episode title. Many recordings contain keywords from the recording, however full transcripts are not available. To identify persons or topics of interest within the collection, users can search by name or by possible keywords and subjects. 
-
+Records are described at an item level, and all records contain a brief summary of asset. Each record is identified by corresponding series and episode title. Many recordings contain keywords from the recording, however full transcripts are not available. To identify persons or topics of interest within the collection, users can search by name or by possible keywords and subjects.
