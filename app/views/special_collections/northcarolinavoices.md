@@ -44,3 +44,5 @@ WUNC began as a FM station staffed by students at the University of North Caroli
 ## Help
 
 Records are described at an item level, and all records contain a brief summary of asset. Each record is identified by corresponding series and episode title. Many recordings contain keywords from the recording, however full transcripts are not available. To identify persons or topics of interest within the collection, users can search by name or by possible keywords and subjects.
+
+## Terms
