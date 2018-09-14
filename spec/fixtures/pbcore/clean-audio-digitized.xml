@@ -21,6 +21,7 @@
     <instantiationGenerations>Master</instantiationGenerations>
     <instantiationDuration>01:00:00?</instantiationDuration>
     <instantiationChannelConfiguration>Half Track Stereo</instantiationChannelConfiguration>
+    <instantiationAnnotation annotationType="organization">Iowa Public Radio</instantiationAnnotation>
     <instantiationExtension>
       <extensionWrap>
         <extensionElement>AACIP Record Nomination Status</extensionElement>
@@ -50,6 +51,7 @@
       <essenceTrackDuration>00:40:48</essenceTrackDuration>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType='encoded by'>Fraunhofer IIS MP3 v04.01.02 (fast)</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Iowa Public Radio</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source='mediainfo'>cpb-aacip-169-9351chfc.wav</instantiationIdentifier>
@@ -72,9 +74,10 @@
       <essenceTrackBitDepth>24</essenceTrackBitDepth>
       <essenceTrackDuration>00:40:48</essenceTrackDuration>
     </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType="organization">Iowa Public Radio</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='last_modified'>2015-03-19 16:35:46</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>Iowa Public Radio</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Iowa Public Radio</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

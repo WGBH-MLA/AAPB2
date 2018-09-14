@@ -1,0 +1,8 @@
+<ul class="facet-values list-unstyled">
+  <% display_facet.items.uniq.each do |option| %>
+    <li>
+      <%= render_facet_item(display_facet.name, OpenStruct.new(value: option.value)) %>
+    </li>
+  <% end %>
+</ul>
+

@@ -76,12 +76,9 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       expect_count(1)
       [
-        '3-2-1',
-        'Kaboom!',
-        'Gratuitous Explosions',
-        'Series Nova',
-        'Date 2000-01-01',
-        '2000-01-01',
+        'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
+        'Date: 2000-01-01',
+        'Producing Organization: WGBH',
         'Best episode ever!'
       ].each do |field|
         expect(page).to have_text(field)
@@ -116,13 +113,13 @@ describe 'Catalog' do
 
       describe 'facets' do
         assertions = [
-          ['media_type', 1, 'Sound', 10],
+          ['media_type', 1, 'Sound', 13],
           ['genres', 2, 'Interview', 5],
           ['topics', 1, 'Music', 3],
-          ['asset_type', 1, 'Segment', 8],
-          ['organization', 40, 'WGBH+(MA)', 6], # tag ex and states mean lots of facet values.
-          ['year', 1, '2000', 1],
-          ['access_types', 3, PBCore::ALL_ACCESS, 36]
+          ['asset_type', 1, 'Segment', 9],
+          ['contributing_organizations', 38, 'WGBH+(MA)', 6],
+          ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1],
+          ['year', 1, '2000', 1]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -147,12 +144,26 @@ describe 'Catalog' do
       end
 
       describe 'facets not in sidebar' do
-        describe 'state facet' do
+        describe 'states facet' do
           assertions = [
-            ['state', 'Michigan', 4]
+            ['states', 'Michigan', 3]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
+            it "#{facet}=#{value}: #{value_count}\t#{url}" do
+              visit url
+              expect_count(value_count)
+              expect_fuzzy_xml
+            end
+          end
+        end
+
+        describe 'access facet' do
+          assertions = [
+            ['access_types', PBCore::ALL_ACCESS, 43]
+          ]
+          assertions.each do |facet, value, value_count|
+            url = "/catalog?f[#{facet}][]=#{value}"
             it "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
               expect_count(value_count)
@@ -166,10 +177,10 @@ describe 'Catalog' do
         describe 'URL support' do
           # OR is supported on all facets, even if not in the UI.
           assertions = [
-            ['media_type', 'Sound', 10],
-            ['media_type', 'Sound+OR+Moving+Image', 32],
-            ['media_type', 'Moving+Image+OR+Sound', 32],
-            ['media_type', 'Moving+Image', 22]
+            ['media_type', 'Sound', 13],
+            ['media_type', 'Sound+OR+Moving+Image', 38],
+            ['media_type', 'Moving+Image+OR+Sound', 38],
+            ['media_type', 'Moving+Image', 25]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
@@ -185,38 +196,44 @@ describe 'Catalog' do
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
-          expect_count(9)
+          expect_count(10)
           expect(page).to have_text('You searched for: Access online')
 
           click_link('All Records')
-          expect_count(36)
+          expect_count(43)
           expect(page).to have_text('You searched for: Access all')
 
+          expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
           click_link('KQED (CA)')
-          expect_count(1)
+          expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
+          expect_count(3)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Organization KQED (CA) Remove constraint Organization: KQED (CA)')
+                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)')
 
           click_link('WGBH (MA)')
-          expect_count(7)
+          expect_count(9)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Organization KQED (CA) OR WGBH (MA) Remove constraint Organization: KQED (CA) OR WGBH (MA)')
+                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)')
 
-          all(:css, 'a.remove').first.click # KQED
+          click_link('KQED (CA)')
           expect_count(6)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Organization WGBH (MA) Remove constraint Organization: WGBH (MA)')
+                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)')
 
           all(:css, '.constraints-container a.remove').first.click # remove access all
           # If you attempt to remove the access facet, it redirects you to the default,
           # but the default depends on requestor's IP address.
           # TODO: set address in request.
           expect_count(4)
-          expect(page).to have_text('You searched for: Organization WGBH (MA) Remove constraint Organization: WGBH (MA) ')
+          expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ')
 
           click_link('Iowa Public Television (IA)')
           # TODO: check count when IP set in request.
-          expect(page).to have_text('Organization: WGBH (MA) OR Iowa Public Television (IA)')
+          expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)')
+
+          expect(page).to have_css('a', text: 'District of Columbia')
+          click_link('District of Columbia')
+          expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)')
 
           # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
           # TODO: check count when IP set in request.
@@ -252,7 +269,7 @@ describe 'Catalog' do
           # rubocop:disable LineLength
           assertions = [
             ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'The Civil War; Interviews with Barbara Fields']],
-            ['art', ['The Scheewe Art Workshop', 'Unknown', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
+            ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'Japanese Brush Painting; 2; Fish', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
             ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', 'The Civil War; Interviews with Barbara Fields', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
           ]
           # rubocop:enable LineLength
@@ -269,8 +286,8 @@ describe 'Catalog' do
 
         describe 'field sorting' do
           assertions = [
-            ['year+desc', 'Making It Here; 105; Sweets'],
-            ['year+asc', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3'],
+            ['year+desc', 'Writers Forum; WRF-09/13/07'],
+            ['year+asc', 'Winston Churchill Obituary'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
           assertions.each do |sort, title|
@@ -297,52 +314,58 @@ describe 'Catalog' do
             visit url
             expect(page.status_code).to eq(200)
             expect(
-              page.all('#documents/div').map do |doc|
-                doc.all('dl').map do |dl|
+              page.all('article').map do |art|
+                art.all('h2').map do |h|
                   begin
-                    "#{dl.find('dt').text}: #{dl.find('dd').text[0..20].strip}"
+                    h.text.to_s.strip
                   rescue
                     nil # TODO: Why are we getting elements which aren't in the source?
                   end
-                end.select { |x| x }.join('; ')
+                end
               end.join("\n")).to eq([
-                ['Program: Ask Governor Chris Gr', 'Organization: KUOW Puget Sound Publ', 'Media Type: Sound', 'Access: '],
-                ['Series: Askc: Ask Congress', 'Episode: #508', 'Organization: WHUT', 'Media Type: other', 'Access: '],
-                ['Program: Bob Brozman; Organization: Iowa Public Radio', 'Media Type: Sound', 'Access: Accessible on locatio'],
-                ['Series: The Civil War; Raw Footage: Interview with Daisy', 'Created: 1987-05-21', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: The Civil War; Raw Footage: Interviews with Barba', 'Created: 1987-01-14', 'Organization: Ken Burns - Florentin', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Dance for Camera; Program: Tzaddik; Episode Number: 102; Organization: WGBH; Media Type: Moving Image; Access: Accessible on locatio'],
-                ['Raw Footage: Dr. Norman Borlaug', 'Raw Footage: B-Roll', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
-                ['Title: Dry Spell', 'Organization: KQED', 'Media Type: Moving Image', 'Access: '],
-                ['Program: Four Decades of Dedic', 'Title: Handles missing title', 'Organization: WPBS', 'Media Type: Moving Image', 'Access: '],
-                ['Title: From Bessie Smith to', 'Created: 1990-07-27', 'Date: 1991-07-27', 'Organization: Film and Media Archiv', 'Media Type: Moving Image', 'Access: '],
-                ['Series: Gvsports', 'Organization: WGVU Public TV and Ra', 'Media Type: other', 'Access: '],
-                ['Series: The Lost Year', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
-                ['Series: The MacNeil/Lehrer Ne', 'Date: 1983-10-13', 'Organization: NewsHour Productions', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Making It Here; Episode Number: 105; Episode: Sweets', 'Date: 2003-01-22', 'Organization: WGBY', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Raw Footage: MSOM Field Tape - BUG', 'Organization: Maryland Public Telev', 'Media Type: Moving Image', 'Access: '],
-                ['Episode Number: Musical Encounter', 'Episode Number: 116', 'Episode Number: Music for Fun', 'Created: 1988-05-12', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image',
-                 'Access: Online Reading Room'],
-                ['Raw Footage: Musical Performance o', 'Created: 1992-06-05', 'Organization: Appalshop, Inc.', 'Media Type: Sound', 'Access: Accessible on locatio'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 1 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 2 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nixon Impeachment Hea', 'Episode Number: 2', 'Episode: 1974-07-24', 'Segment: Part 3 of 3', 'Broadcast: 1974-07-24', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Series: Nova', 'Program: Gratuitous Explosions', 'Episode Number: 3-2-1', 'Episode: Kaboom!', 'Date: 2000-01-01', 'Organization: WGBH', 'Media Type: Moving Image', 'Access: Online Reading Room'],
-                ['Title: Podcast Release Form', 'Organization: KXCI Community Radio', 'Media Type: other', 'Access: '],
-                ['Title: Racing the Rez', 'Organization: Vision Maker Media', 'Media Type: Moving Image', 'Access: Accessible on locatio'],
-                ['Series: Reading Aloud', 'Program: MacLeod: The Palace G', 'Organization: WGBH', 'Media Type: Sound', 'Access: '],
-                ['Title: The Scheewe Art Works', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
-                ['Program: The Sorting Test: 1', 'Organization: WUSF', 'Media Type: other', 'Access: '],
-                ['Program: # "SORTING" Test: 2', 'Organization: Detroit Public Televi', 'Media Type: Moving Image', 'Access: '],
-                ['Program: A Sorting Test: 100', 'Organization: WNYC', 'Media Type: Moving Image', 'Access: '],
-                ['Episode: Touchstone 108', 'Organization: Iowa Public Televisio', 'Media Type: Moving Image', 'Access: '],
-                ['Program: Unknown', 'Organization: WIAA', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: Howard Kramer 2004', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: Larry Kane On John Le', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Program: World Cafe', 'Segment: 1997-01-20 Sat/Mon', 'Segment: Martin Luther King, J', 'Organization: WXPN', 'Media Type: Sound', 'Access: '],
-                ['Collection: WQXR', 'Series: This is My Music', 'Episode: Judd Hirsch', 'Organization: WNYC', 'Media Type: Sound', 'Access: '],
-                ['Series: Writers Forum', 'Program: WRF-09/13/07', 'Organization: WERU Community Radio', 'Media Type: Sound', 'Access: '],
-                ['Program: 15th Anniversary Show', 'Created: 1981-12-05', 'Organization: Arkansas Educational', 'Media Type: Moving Image', 'Access: Accessible on locatio']
+                ['Ask Governor Chris Gregoire'],
+                ['Askc: Ask Congress; #508'],
+                ['Bob Brozman'],
+                ['The Civil War; Interview with Daisy Turner'],
+                ['The Civil War; Interviews with Barbara Fields'],
+                ['Dance for Camera; Tzaddik; 102'],
+                ['Dr. Norman Borlaug; B-Roll'],
+                ['Dry Spell'],
+                ['Four Decades of Dedication: The 40th Anniversary Special; Handles missing titleTypes, too.'],
+                ['From Bessie Smith to Bruce Springsteen'],
+                ['Gvsports'],
+                ['Japanese Brush Painting; 2; Fish'],
+                ['The Lost Year'],
+                ['The MacNeil/Lehrer NewsHour'],
+                ['Making It Here; 105; Sweets'],
+                ['MSOM Field Tape - BUG 12'],
+                ['Musical Encounter; 116; Music for Fun'],
+                ['Musical Performance of Appalachian Folk Music in Kentucky'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3'],
+                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3'],
+                ['Nova; Gratuitous Explosions; 3-2-1; Kaboom!'],
+                ['Origami; 7; Paper Ball'],
+                ['Podcast Release Form'],
+                ['Racing the Rez'],
+                ['Reading Aloud; MacLeod: The Palace Guard'],
+                ['The Scheewe Art Workshop'],
+                ['The Sorting Test: 1'],
+                ['# "SORTING" Test: 2'],
+                ['A Sorting Test: 100'],
+                ['This Title is Alternative'],
+                ['Touchstone 108'],
+                ['Unknown'],
+                ['Winston Churchill Obituary'],
+                ['World Cafe; Howard Kramer 2004'],
+                ['World Cafe; Larry Kane On John Lennon 2005'],
+                ['World Cafe; 1997-01-20 Sat/Mon; Martin Luther King, Jr. 1997'],
+                ['WQXR; This is My Music; Judd Hirsch'],
+                ['Writers Forum II; Writers Writing Again; Readers Reading Again'],
+                ['Writers Forum; WRF-09/13/07'],
+                ['Writers Writing; Readers Reading'],
+                ['15th Anniversary Show'],
+                ['1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']
               ].map { |x| x.join('; ') }.join("\n"))
             expect_fuzzy_xml
           end
@@ -376,10 +399,16 @@ describe 'Catalog' do
 
     def expect_all_the_text(fixture_name)
       target = PBCore.new(File.read('spec/fixtures/pbcore/' + fixture_name))
+
+      # This text from the PBCore model is included in to_solr for
+      # search purposes, but excluded from view.
+      text_ignores = [target.ids].flatten
+
       # #text is only used for #to_solr, so it's private...
       # so we need the #send to get at it.
       target.send(:text).each do |field|
         field.gsub!('cpb-aacip_', 'cpb-aacip/') if field =~ /^cpb-aacip/ # TODO: Remove when we sort out ID handling.
+        next if text_ignores.include?(field)
         expect(page).to have_text(field)
       end
     end
@@ -401,14 +430,14 @@ describe 'Catalog' do
     it 'has default poster for audio that ' do
       visit 'catalog/cpb-aacip_169-9351chfc'
       expect_all_the_text('clean-audio-digitized.xml')
-      expect_audio(poster: '/thumbs/audio-digitized.jpg')
+      expect_audio(poster: '/thumbs/AUDIO.png')
     end
 
     it 'apologizes if no access' do
       visit '/catalog/cpb-aacip-80-12893j6c'
       # No need to click through
       expect_all_the_text('clean-bad-essence-track.xml')
-      expect(page).to have_text('This content has not been digitized.')
+      expect(page).to have_text('Please note: This content is not currently available in the Online Reading Room.')
       expect_no_media
     end
 
@@ -423,7 +452,7 @@ describe 'Catalog' do
       expect_transcript
     end
 
-    it 'has a transcript if expected' do
+    it 'has no transcript if expected' do
       visit '/catalog/ccpb-aacip_508-g44hm5390k'
       expect_no_transcript
     end
@@ -443,7 +472,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_111-21ghx7d6'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-exhibit.xml')
-        expect(page).to have_text('only available at WGBH and the Library of Congress. ')
+        expect(page).to have_text('Please note: This content is currently not available at your location.')
         expect_no_media
       end
 

@@ -20,7 +20,8 @@
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Master</instantiationGenerations>
     <instantiationDuration>00:12:49</instantiationDuration>
+    <instantiationAnnotation annotationType="organization">KQED</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-02 06:39:31</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>KQED</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">KQED</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

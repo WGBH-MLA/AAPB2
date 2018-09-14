@@ -24,7 +24,8 @@
     <instantiationMediaType>Sound</instantiationMediaType>
     <instantiationGenerations>Master: edited</instantiationGenerations>
     <instantiationDuration>00:13:35</instantiationDuration>
+    <instantiationAnnotation annotationType="organization">WXPN-FM</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-18 00:33:34</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>WXPN-FM</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WXPN-FM</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

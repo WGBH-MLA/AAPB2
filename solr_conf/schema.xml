@@ -544,16 +544,18 @@
           type="string" indexed="true" stored="false" multiValued="false"/>
    <field name="asset_type"
           type="string" indexed="true" stored="false" multiValued="false"/>
-   <field name="organization"
-          type="string" indexed="true" stored="false" multiValued="false"/>
+   <field name="contributing_organizations"
+          type="string" indexed="true" stored="false" multiValued="true"/>
+   <field name="producing_organizations"
+          type="string" indexed="true" stored="false" multiValued="true"/>
    <field name="genres"
           type="string" indexed="true" stored="false" multiValued="true"/>
    <field name="topics"
           type="string" indexed="true" stored="false" multiValued="true"/>
    <field name="access_types"
           type="string" indexed="true" stored="false" multiValued="true"/>
-   <field name="state"
-          type="string" indexed="true" stored="false" multiValued="false"/>
+   <field name="states"
+          type="string" indexed="true" stored="false" multiValued="true"/>
 
    <dynamicField name="*_titles"
           type="string" indexed="true" stored="false" multiValued="true"/>

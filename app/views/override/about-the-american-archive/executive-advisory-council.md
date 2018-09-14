@@ -137,6 +137,20 @@ Alan Brinkley is the Allan Nevins Professor of American History at Columbia Univ
 ### Karen Cator
 Karen Cator is President and CEO of Digital Promise and a leading voice for transforming American education through technology, innovation and research. From 2009-2013, Karen was Director of the Office of Educational Technology at the U.S. Department of Education, where she led the development of the 2010 National Education Technology Plan and focused the Office’s efforts on teacher and leader support. Prior to joining the department, Cator directed Apple’s leadership and advocacy efforts in education. In this role, she focused on the intersection of education policy and research, emerging technologies, and the reality faced by teachers, students and administrators. She began her education career in Alaska as a teacher, ultimately leading technology planning and implementation. She also served as Special Assistant for Telecommunications for the Governor of Alaska. Cator holds a master’s in school administration from the University of Oregon and recently received the 2014 College of Education Distinguished Alumni award. The American Association of Publishers has awarded Cator with the 2014 Visionary Award. She received her bachelor’s in early childhood education from Springfield College, and she is a member of the Aspen Pahara Fellows. She is a past chair for the Partnership for 21st Century Skills and has served on boards including the Software & Information Industry Association-Education.
 
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Gwen_Ifill.jpg" alt="Gwen Ifill" aria-hidden="true"/>
+### Gwen Ifill
+Gwen Ifill, veteran journalist and newsanchor, served on the AAPB Executive Advisory Council from 2015 – 2016. She passed away on November 14, 2016, after battling cancer. 
+
+During her extensive career, Gwen was moderator and managing editor of "Washington Week" and co-anchor and managing editor of the "PBS NewsHour."
+
+She was also the best-selling author of "The Breakthrough: Politics and Race in the Age of Obama." She covered seven Presidential campaigns and moderated the vice presidential debates in 2004 and 2008.
+
+Before joining PBS in 1999, Gwen was chief congressional and political correspondent for NBC News, White House correspondent for The New York Times, and a local and national political reporter for The Washington Post. She also reported for the Baltimore Evening Sun and the Boston Herald American.
+
+A native of New York City and a graduate of Simmons College in Boston, Ifill received more than twenty honorary doctorates. She was also honored for her work by the Radio and Television News Directors Association, Harvard's Joan Shorenstein Center, The National Association of Black Journalists, Ohio University, and was included in Ebony Magazine's list of 150 Most Influential African Americans. She received the Al Neuharth Award for Excellence in Journalism.
+
+She also served on the board of the News Literacy Project, on the advisory board of the Committee to Protect Journalists and was a fellow of the American Academy of Arts and Sciences.
+
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Norman_Lear.jpg" alt="Norman Lear" aria-hidden="true"/>
 ### Norman Lear
 Norman Lear has enjoyed a long career in television and film, and as a political and social activist and philanthropist.

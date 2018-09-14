@@ -4,8 +4,50 @@
 
 Read about about AAPB's new collections, exhibits and projects below. Information about upcoming AAPB events can be found on the [Events](/about-the-american-archive/whats-new/events) page, and information about upcoming grant deadlines can be found on the [Funding Opportunities](/about-the-american-archive/whats-new/funding-opportunities) page.
 
-## October 2017
+## June 2018
 
+### New Special Collections
+![SpecialCollectionsTiles](https://s3.amazonaws.com/americanarchive.org/override/SpecialCollectionsTiles.png "SpecialCollectionsTiles") The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at [http://americanarchive.org/special_collections].
+
+## March 2018
+
+### New Exhibit 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption"><em>"Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."</em></caption>
+<tr><td><img src="https://s3.amazonaws.com/americanarchive.org/override/pennstationcrop.jpg" alt="Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."/></td></tr>
+</table>
+Curated by AAPB Digital Exhibits Intern Kara Zelasko, “Protecting Places: Historic Preservation and Public Broadcasting” uses a diverse range of public radio and television content from 1950 – 2012 to highlight how people have used public broadcasting to advocate, negotiate, or protest historic preservation efforts across America.  More than 100 digitized, historic public broadcasting programs, local news reports, radio call-in shows, and interviews document the important relationship historic structures have fostered between people and their neighborhoods. These visual and audio records, digitized and preserved by the AAPB, reveal the ways people have used or rejected preservation in the ever-changing American landscape to share local and national histories, illuminating the ways Americans have envisioned their communities through buildings and sites that connect past to present. “Protecting Places: Historic Preservation and Public Broadcasting” is available online at [http://americanarchive.org/exhibits/historic-preservation](/exhibits/historic-preservation).
+
+### New Special Collections
+
+#### WNED’s *Woman* Series Collection
+
+![Woman](https://s3.amazonaws.com/americanarchive.org/override/Woman.jpg "Woman Logo") The *Woman* Series Collection consists of 197 episodes of the Woman series produced by WNED in Buffalo, New York from 1972-1977. *Woman* was a half-hour public affairs talk show covering issues of interest to women. Guests included well-known and lesser-known activists, journalists, writers, scholars, lawyers, artists, psychologists, doctors and others such as Gloria Steinem, editor and co-founder of Ms. Magazine; Dorothy Pitman Hughes, African American activist and co-founder of Ms. Magazine; Betty Friedan, author of *The Feminine Mystique*; Florynce Kennedy, founder of the National Feminist Party; Margaret Sloan, co-founder of the National Black Feminist Organization; Karen DeCrow, then president of the National Organization for Women; Margaret Dunkle of the Project on the Status of Women for the Association of American Colleges; and Ruth Miller of the Buffalo Planned Parenthood Association. 
+
+Topics discussed on *Woman* includes women in sports, the Equal Rights Amendment, sexuality, marriage, women’s health, divorce, the Women’s Liberation Movement, motherhood, and ageism, among others available online at [http://americanarchive.org/special_collections/woman-series](/special_collections/woman-series).
+
+#### National Association of Educational Broadcasters Programs
+![NAEB](https://s3.amazonaws.com/americanarchive.org/override/naeb-image.jpg "NAEB Logo") The National Association of Educational Broadcasters (NAEB) Programs Collection consists of more than 5,500 radio programs from the 1950s and 1960s, created by over 100 NAEB member stations from university and public school-run radio stations providing an in-depth look at the engagements and events of American history in the twentieth century.
+
+The NAEB collection includes radio documentaries, coverage of events (hearings, meetings, conferences, and seminars), interviews, debates, and lectures on public affairs topics such as civil rights, foreign affairs, health, politics, education, and broadcasting. Interview subjects and/or program participants feature public figures including Hubert Humphrey, Betty Shabazz, Robert Frost, Frank Lloyd Wright, Alistair Cooke, Dr. Benjamin Spock, Margaret Mead, Studs Terkel, Dr. Albert Schweitzer, Marshall McLuhan, and Aldous Huxley. The collection also contains a notably large percentage of local content and voices, from a WDET Detroit series about local civil defense plans and policies called “*Prepare for Survival*,” to a series entitled “*Document: Deep South*," a documentary series produced by WOUA at the University of Alabama depicting the increasing importance of the South in the economic development of the United States, to a show entitled "* Search for Mental Health*," a series of talks about advances in psychiatry from the University of Chicago. The NAEB Programs Collection is available online at [http://americanarchive.org/special_collections/naeb](/special_collections/naeb).
+
+### Introducing FIX IT+
+![FIX IT+](https://s3.amazonaws.com/americanarchive.org/override/fix-it-plus.png "FIX IT+ Logo")
+The American Archive of Public Broadcasting launched FIX IT's sister-site, FIX IT+. Initially developed by the New York Public Library, this transcript-editing platform allows users to choose a specific AAPB recording of interest and edit the transcript from start to finish. Start editing today at [fixitplus.americanarchive.org](http://fixitplus.americanarchive.org).
+
+## December 2017
+
+### New Grant Project
+#### Public Radio as a Tool for Cultural Engagement in New York in the 60s and early 70s: Digitizing the Broadcasts of WRVR-FM Public Radio
+![Riverside Church](https://s3.amazonaws.com/americanarchive.org/override/RiverSide.png "Riverside Logo")
+The Council on Library and Information Resources has awarded a grant to The Riverside Church in the City of New York and the American Archive of Public Broadcasting to digitize, preserve, and make publicly accessible previously unavailable archives of the Peabody Award winning radio station WRVR. The collection includes culturally significant non-commercial programming, including interviews, speeches, and musical interpretations on matters such as civil rights, war, and fine arts, from laypersons to famed scholars, including Martin Luther King, Jr., Malcolm X, and Pete Seeger.
+
+Preservation of WRVR materials will enhance study in many disciplines, including theology/religion, political science, and communications, especially related to American Christianity, homiletics, progressive responses to the Civil Rights movement, contemporary issues of race and sexuality, the cultural impact of the 1960s, and public radio as a tool for cultural engagement and social media precursor.
+
+### ROLL THE CREDITS: Classifying and Transcribing Text with Zooniverse
+In December 2017, the American Archive of Public Broadcasting launched ROLL THE CREDITS, a new Zooniverse project to engage the public in helping catalog credits for digitized public television programs in the AAPB. Volunteers are helping the AAPB by classifying and transcribing the text from extracted frames of uncataloged public television programs, providing the AAPB with information that can be plugged directly into the catalog for improved search and discovery. Access ROLL THE CREDITS at [zooniverse.org/projects/sroosa/roll-the-credits]( https://www.zooniverse.org/projects/sroosa/roll-the-credits)
+
+## October 2017
 
 ### New Collections
 The AAPB recently acquired three collections of original, full-length interviews from groundbreaking public television documentaries: Ken Burns’ *The Civil War*, *Eyes on the Prize* and *American Masters*. Only excerpts of these interviews were included in previously released, edited programs. Now, the full-length interviews from these landmark series will be available to view online at americanarchive.org or in person at the Library of Congress and at WGBH, preserved for future generations to learn about our nation’s history.

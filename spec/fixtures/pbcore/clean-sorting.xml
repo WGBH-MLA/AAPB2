@@ -10,7 +10,8 @@
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Master</instantiationGenerations>
     <instantiationDuration>00:10:00</instantiationDuration>
+    <instantiationAnnotation annotationType="organization">Detroit Public Television (aka DPTV and WTVS)</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-02 17:41:21</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>Detroit Public Television (aka DPTV and WTVS)</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Detroit Public Television (aka DPTV and WTVS)</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

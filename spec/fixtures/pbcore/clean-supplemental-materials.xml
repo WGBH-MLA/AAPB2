@@ -10,7 +10,6 @@
   <pbcoreDescription descriptionType="Raw Footage Description">This is raw footage of an interview that Ken Burns conducted with Daisy Turner, the daughter of a man who had been a slave. The interview takes place in Springfield, VT on May 21, 1987.
 
 Throughout the interview, Turner explains that she believes the Civil War necessarily had to take place in order for slaves to secure their freedom. Daisy recounts her family history as well, relating several times to family stories that have a connection with the events of the Civil War. Notably, she is able to recite from memory several poems and hymns, such as the anonymous poem ?Dear Madam.?</pbcoreDescription>
-  <pbcoreDescription descriptionType="Anecdotal Comments &amp;amp; Reflections">Editor's note: Content given off the record was edited out of this footage.</pbcoreDescription>
   <pbcoreGenre source="AAPB Topical Genre">History</pbcoreGenre>
   <pbcoreGenre source="AAPB Topical Genre">War and Conflict</pbcoreGenre>
   <pbcoreGenre source="AAPB Format Genre">Interview</pbcoreGenre>
@@ -33,6 +32,9 @@ Throughout the interview, Turner explains that she believes the Civil War necess
   <pbcoreRightsSummary>
     <rightsSummary>Copyright 1989, Kenneth Lauren Burns All Rights Reserved</rightsSummary>
   </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>Content given off the record was edited out of this footage.</rightsSummary>
+  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source="AAPB Inventory ID">Daisy_Turner_master</instantiationIdentifier>
     <instantiationDigital>image/x-dpx</instantiationDigital>
@@ -44,6 +46,7 @@ Throughout the interview, Turner explains that she believes the Civil War necess
     <instantiationDuration>0:38:24</instantiationDuration>
     <instantiationLanguage>eng</instantiationLanguage>
     <instantiationAnnotation>DPX master is a folder of DPX images that has an associated WAV file containing the film's audio track.</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21.mov</instantiationIdentifier>
@@ -88,6 +91,7 @@ Throughout the interview, Turner explains that she believes the Civil War necess
       <essenceTrackLanguage>eng</essenceTrackLanguage>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType="encoded by">Apple QuickTime</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21.mp4</instantiationIdentifier>
@@ -136,6 +140,7 @@ Throughout the interview, Turner explains that she believes the Civil War necess
     <instantiationAnnotation annotationType="encoded by">Lavf57.41.100</instantiationAnnotation>
     <instantiationAnnotation annotationType="Preservation LTO">AB0001</instantiationAnnotation>
     <instantiationAnnotation annotationType="Preservation Disk">ABDISK0002</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source="mediainfo">cpb-aacip-509-6h4cn6zm21_REDACT.mp4</instantiationIdentifier>
@@ -166,6 +171,7 @@ Throughout the interview, Turner explains that she believes the Civil War necess
       <essenceTrackLanguage>eng</essenceTrackLanguage>
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType="encoded by">Lavf57.71.100</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType="Project Code">KB0002</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>

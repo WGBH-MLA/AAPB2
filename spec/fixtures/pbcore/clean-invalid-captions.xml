@@ -24,6 +24,7 @@ Ch 1 Full Mix; Ch 2 Full Mix; Ch 3 Full Mix; Ch 4 Full Mix
 </instantiationChannelConfiguration>
 <instantiationAlternativeModes>N</instantiationAlternativeModes>
 <instantiationAnnotation annotationType="Alternate Generation">Preservation Master</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">WGBH</instantiationAnnotation>
 <instantiationExtension>
 <extensionWrap>
 <extensionElement>AACIP Record Nomination Status</extensionElement>

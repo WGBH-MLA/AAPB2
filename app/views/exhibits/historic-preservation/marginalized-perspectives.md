@@ -54,7 +54,7 @@ Native American tribes, too, have struggled to preserve built and natural spaces
 #### Additional Resources:
 
 - [Cultural Resource Management Guide: <em>Placing Women in the Past</em>](http://npshistory.com/newsletters/crm/crm-v20n3.pdf)
-- [National Trust for Hisotric Preservation's Primer *Preserving African American Historic Places*](http://forum.savingplaces.org/connect/community-home/librarydocuments/viewdocument?DocumentKey=05e18aad-7c97-4def-aa42-744dc2344714&_ga=2.265282831.1220488720.1519311144-582294249.1516284058)
+- [National Trust for Hisotric Preservation's Primer *Preserving African American Historic Places*](https://forum.savingplaces.org/connect/community-home/librarydocuments/viewdocument?DocumentKey=05e18aad-7c97-4def-aa42-744dc2344714)
 
 #### Next: [*To Plan or Preserve?* Historic Preservation in the Wake of Urban Renewal](/exhibits/historic-preservation/urban-renewal)
 

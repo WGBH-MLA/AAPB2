@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreAssetDate dateType="broadcast">1958-00-00</pbcoreAssetDate>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/55-09j3vs0f</pbcoreIdentifier>
+  <pbcoreIdentifier source="NET_CATALOG">FMP_3185327</pbcoreIdentifier>
+  <pbcoreIdentifier source="NOLA Code">CHOT</pbcoreIdentifier>
+  <pbcoreTitle titleType="Program">Winston Churchill Obituary</pbcoreTitle>
+  <pbcoreDescription descriptionType="Program Description">The British Broadcasting Corporation film traces the life and career of Winston Churchill through the use of film and newsreel footage, narration, and interviews with some of Churchill's friends.  The film opens on a portrait of Churchill and then shows interior and exterior views of his home. In an interview with Harold Middleton, Sir Winston's early years are discussed - from his childhood and prosperous, Victorian family background through his school years at Harrow and Sandhurst and his early military service in Cuba. L.S. Emery, a life-long friend, tells of the statesman's years as a war correspondent, describes his first published book, and tells of his marriage. The film then surveys Churchill's emergence as a politician and statesman: his appointment by Lloyd George as Minister of Munitions; his activities as a member of Baldwin's conservative government during the general strike in 1926; his first retirement from public life in the late 20's; and his warning, in the early 1930's, of Germany's potential danger as a resurgent power. His subsequent positions as First Lord of the Admiralty and his ascension to Prime Minster of the coalition government after the fall of the Chamberlain government are traced as the film leads into Churchill's leadership during the years of World War II. Newsreel footage shows some of Churchill's great moments during the war, including meetings among Churchill, Roosevelt, and Stalin. The footage also covers his post-war Potsdam meeting with Truman and Stalin.  In 1945, the Conservative Party suffered defeat, and Churchill was out of office. During the next five years he took an intense interest in European unification. He spent a good deal of time at his home in Kent where he wrote his massive World War II memoirs. The general election of October, 1951, resulted in Churchill's return to 10 Downing Street where he remained until his retirement in 1955. It was during this period that Queen Elizabeth appointed him Sir Winston Churchill, Knight of the Royal Order of the Garter. The film ends with Churchill tendering his resignation, in April 1955, to Queen Elizabeth. Churchill Obituary is a production of the British Broadcasting Corporation. (Description adapted from documents in the NET Microfiche)</pbcoreDescription>
+  <pbcoreGenre source="AAPB Topical Genre">Biography</pbcoreGenre>
+  <pbcoreGenre source="AAPB Format Genre">Documentary</pbcoreGenre>
+  <pbcoreGenre source="AAPB Format Genre">Special</pbcoreGenre>
+  <pbcoreGenre source="AAPB Topical Genre">Global Affairs</pbcoreGenre>
+  <pbcoreGenre source="AAPB Topical Genre">War and Conflict</pbcoreGenre>
+  <pbcoreCreator>
+    <creator ref="http://id.loc.gov/authorities/names/n79074359">British Broadcasting Corporation</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Emery, L. S.</contributor>
+    <contributorRole>Interviewee</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Middleton, Harold</contributor>
+    <contributorRole>Interviewee</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>unknown</publisher>
+    <publisherRole source="    ">Release Agent</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="KQED AAP">KQ61_20253;20253</instantiationIdentifier>
+    <instantiationDate dateType="issued">1965-06-02</instantiationDate>
+    <instantiationPhysical>Film: 16mm</instantiationPhysical>
+    <instantiationLocation>SF State: SFSU</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Copy</instantiationGenerations>
+    <instantiationDuration>00:11:00?</instantiationDuration>
+    <instantiationAnnotation annotationType="organization">KQED</instantiationAnnotation>
+  </pbcoreInstantiation>
+    <pbcoreInstantiation>
+    <instantiationIdentifier source="MAVIS Title Number">2316780</instantiationIdentifier>
+    <instantiationLocation>Culpepper</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Access Copy</instantiationGenerations>
+    <instantiationDuration>00:11:03</instantiationDuration>
+    <instantiationColors>black and white</instantiationColors>
+    <instantiationAnnotation>Copy 1</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Library of Congress</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="MAVIS Title Number">2316780</instantiationIdentifier>
+    <instantiationDigital>mp4</instantiationDigital>
+    <instantiationLocation>Culpepper</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Access Copy</instantiationGenerations>
+    <instantiationDuration>00:11:02</instantiationDuration>
+    <instantiationColors>black and white</instantiationColors>
+    <instantiationAnnotation>Copy 2</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Library of Congress</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="MAVIS Number">2316780</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Library of Congress</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="last_modified">2018-04-11 12:07:28</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">KQED</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

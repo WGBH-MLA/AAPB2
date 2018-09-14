@@ -81,6 +81,14 @@ class Organization < Cmless
     @orgs_by_state[state]
   end
 
+  def self.organizations(organization_names)
+    organization_names.map { |org| Organization.find_by_pbcore_name(org) }.compact
+  end
+
+  def self.build_organization_names_display(organizations)
+    organizations.map { |org| org.short_name_html.gsub(/<[^>]*>/, '') }
+  end
+
   def to_a
     [short_name, city, state]
   end

@@ -89,15 +89,13 @@ $(function(){
     // If timecode included in URL, play to pass thumbnail,
     // then pause at that timecode.
     if (url_hash) {
-        $player[0].play();
-        $player[0].currentTime = url_hash[1];
-        $player[0].pause();
+      $player[0].currentTime = url_hash[1];
     }
 
     // New for AAPB.
     var $divTranscript = $('div.transcript-div');
-    var $divTranscriptView = $('div.transcript-view');
     var $divPlayer = $('div.player');
+    var $divExhibitPromo = $('div.exhibit-promo');
     var player = videojs('#player_media_html5_api');
     var exhibit = $('#exhibit-banner');
     var search = $('div.transcript-search');
@@ -114,10 +112,10 @@ $(function(){
       showTranscript();
     }
     function showTranscript() {
-      if ($divTranscriptView.hasClass('transcript-view-small')) {
-        $divTranscriptView.addClass('transcript-view-large').removeClass('transcript-view-small');
-      } else if ($divTranscriptView.hasClass('transcript-view-large')) {
-        $divTranscriptView.addClass('transcript-view-small').removeClass('transcript-view-large');
+      if ($divTranscript.hasClass('transcript-view-hidden')) {
+        $divTranscript.addClass('transcript-view-show').removeClass('transcript-view-hidden');
+      } else if ($divTranscript.hasClass('transcript-view-show')) {
+        $divTranscript.addClass('transcript-view-hidden').removeClass('transcript-view-show');
       }
     }
 
@@ -128,115 +126,33 @@ $(function(){
       if ($divPlayer.hasClass('col-md-8') && $divPlayer.hasClass('player')) {
         $divPlayer.addClass('col-md-6');
         $divPlayer.removeClass('col-md-offset-2').removeClass('col-md-8');
+        $divExhibitPromo.addClass('col-md-6');
+        $divExhibitPromo.removeClass('col-md-offset-2').removeClass('col-md-8');
       } else if ($divPlayer.hasClass('col-md-6') && $divPlayer.hasClass('player'))  {
         $divPlayer.addClass('col-md-offset-2').addClass('col-md-8');
         $divPlayer.removeClass('col-md-6');
+        $divExhibitPromo.addClass('col-md-offset-2').addClass('col-md-8');
+        $divExhibitPromo.removeClass('col-md-6');
       }
     }
 
     $('div.transcript-slide').on("click", function(){
-      var $this = $(this)
+      var sliders = document.getElementsByClassName("transcript-slide")
       updatePlayerGrid();
       updateTranscriptGrid();
 
-      if ($this.hasClass('show-transcript')) {
-        $this.html('Show<div class="transcript-circle">+</div>');
-        $this.removeClass('show-transcript');
-        search.removeClass('show-transcript-search');
-      } else if (!$this.hasClass('show-transcript')) {
-        $this.html('Hide<div class="transcript-circle">-</div>');
-        $this.addClass('show-transcript');
-        search.addClass('show-transcript-search');
+      for(var i = 0; i < sliders.length; ++i){
+        var slide = sliders[i];
+        if (slide.classList.contains('show-transcript')) {
+          slide.innerHTML = 'Show<div class="transcript-circle">+</div>';
+          slide.classList.remove('show-transcript');
+          search.removeClass('show-transcript-search');
+        } else if (!slide.classList.contains('show-transcript')) {
+          slide.innerHTML = 'Hide<div class="transcript-circle">-</div>';
+          slide.classList.add('show-transcript');
+          search.addClass('show-transcript-search');
+        };
       }
-    });
-
-    // Mark.js & jQuery scrollTo for Transcript search
-    $(function() {
-      // the input field
-      var $input = $("input[type='search']"),
-        // clear button
-        $clearBtn = $("button[data-search='clear']"),
-        // prev button
-        $prevBtn = $("button[data-search='prev']"),
-        // next button
-        $nextBtn = $("button[data-search='next']"),
-        // the context where to search
-        $content = $(".content"),
-        // jQuery object to save <mark> elements
-        $results,
-        // the class that will be appended to the current
-        // focused element
-        currentClass = "current",
-        // ID used for Jquery scrolling and will be appended to
-        // the current focused element
-        currentId = "current",
-        // top offset for the jump (the search bar)
-        offsetTop = 15,
-        // the current index of the focused element
-        currentIndex = 0;
-
-      /**
-       * Jumps to the element matching the currentIndex
-       */
-      function jumpTo() {
-        if ($results.length) {
-          var position,
-            $current = $results.eq(currentIndex);
-          $results.removeClass(currentClass);
-          $results.removeAttr("id");
-          if ($current.length) {
-            $current.addClass(currentClass);
-            $current.attr("id", currentId)
-            position = $current.offset().top - offsetTop;
-            $("div.content").scrollTo(document.getElementById("current"));
-          }
-        }
-      }
-
-      /**
-       * Searches for the entered keyword in the
-       * specified context on input
-       */
-      $input.on("input", function() {
-        var searchVal = this.value;
-        $content.unmark({
-          done: function() {
-            var regex = new RegExp("\\b(" + searchVal + ")\\b", "gi");
-            $content.markRegExp(
-              regex, {
-              done: function() {
-                $results = $content.find("mark");
-                currentIndex = 0;
-                jumpTo();
-              }
-            });
-          }
-        });
-      });
-
-      /**
-       * Clears the search
-       */
-      $clearBtn.on("click", function() {
-        $content.unmark();
-        $input.val("").focus();
-      });
-
-      /**
-       * Next and previous search jump to
-       */
-      $nextBtn.add($prevBtn).on("click", function() {
-        if ($results.length) {
-          currentIndex += $(this).is($prevBtn) ? -1 : 1;
-          if (currentIndex < 0) {
-            currentIndex = $results.length - 1;
-          }
-          if (currentIndex > $results.length - 1) {
-            currentIndex = 0;
-          }
-          jumpTo();
-        }
-      });
     });
   });
 });

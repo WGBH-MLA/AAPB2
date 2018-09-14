@@ -36,20 +36,20 @@ items = items * 3 unless items.length % 3 == 0
   </div>
 
   <a class="left carousel-control" href="#<%= id %>" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="glyphicon glyphicon-chevron-left glyphicon-no-bg" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
 
   <div class="right carousel-control with-pause">
     <div id="control-holder-right-top">
       <a href="#<%= id %>" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right white" aria-hidden="true"></span>
+        <span class="glyphicon glyphicon-chevron-right white glyphicon-no-bg" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
     </div>
     <div id="control-holder-right-bottom">
-      <button id="playButton-<%= id %>" class="playButton" title="Play Carousel" aria-label="Play Carousel" style="display:none;"><span class="glyphicon glyphicon-play white" aria-hidden="true"></span></button>
-      <button id="pauseButton-<%= id %>" class="pauseButton" title="Pause Carousel" aria-label="Pause Carousel"><span class="glyphicon glyphicon-pause white" aria-hidden="true"></span></button>
+      <button id="playButton-<%= id %>" class="playButton" title="Play Carousel" aria-label="Play Carousel" style="display:none;"><span class="glyphicon glyphicon-play white glyphicon-no-bg" aria-hidden="true"></span></button>
+      <button id="pauseButton-<%= id %>" class="pauseButton glyphicon-no-bg" title="Pause Carousel" aria-label="Pause Carousel"><span class="glyphicon glyphicon-pause white glyphicon-no-bg" aria-hidden="true"></span></button>
     </div>
   </div>
 </div>

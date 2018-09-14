@@ -18,6 +18,10 @@
     <creator affiliation='Stooges'>Larry</creator>
     <creatorRole>balding</creatorRole>
   </pbcoreCreator>
+  <pbcoreCreator>
+    <creator affiliation='Stooges'>WGBH</creator>
+    <creatorRole>Producing Organization</creatorRole>
+  </pbcoreCreator>
   <pbcoreContributor>
     <contributor affiliation='Stooges'>Curly</contributor>
     <contributorRole>bald</contributorRole>
@@ -29,6 +33,9 @@
   <pbcoreRightsSummary>
     <rightsSummary>Copy Left: All rights reversed.</rightsSummary>
   </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>Copy Right: Reverse all rights.</rightsSummary>
+  </pbcoreRightsSummary>
   <pbcoreInstantiation>
     <instantiationIdentifier source='foo'>ABC</instantiationIdentifier>
     <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>
@@ -36,6 +43,7 @@
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
     <instantiationDuration>should be ignored!</instantiationDuration>
+    <instantiationAnnotation annotationType='organization'>WGBH</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
     <instantiationIdentifier source='foo'>XYZ</instantiationIdentifier>
@@ -44,6 +52,7 @@
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Proxy</instantiationGenerations>
     <instantiationDuration>1:23:45</instantiationDuration>
+    <instantiationAnnotation annotationType='organization'>WGBH</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='Captions URL'>https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>

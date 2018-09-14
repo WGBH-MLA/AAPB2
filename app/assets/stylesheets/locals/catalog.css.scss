@@ -4,11 +4,15 @@
 
 /* This is a record display in a search result*/
 
-#documents .document {
+#documents .default-document {
 	margin-top:0;
 	padding-top:0;
 	margin-bottom:2em;
 	padding-bottom:2em;
+}
+
+.document:after {
+	background-color: #FF66FF;
 }
 
 .catalog-title {
@@ -40,6 +44,11 @@
 	}
 }
 
+.index-data-title {
+	color: #8a1051;
+	font-weight: bold;
+}
+
 /* Image container */
 .blacklight-catalog .document .media-left {
 	padding-right:3%;
@@ -57,20 +66,56 @@
 }
 
 /* Media Body */
+
 dl {
+  padding: 18px 0 18px 15px;
+  margin: 0;
 	border-bottom:1px solid #e4e4e4;
-	font-size:0.875em;
-	margin:0 0 1em;
+	.panel {
+		border: none;
+	}
+	.bottom {
+		border: none;
+	}
 }
 
 dt {
+	font-size: 16px;
 	color:#9f2064;
-	margin:0 0 .75em;
+	margin: 0;
+	width: 25%;
 }
 
 dd {
-	margin:0 0 .75em;
+	font-size: 16px;
+	margin: 0;
   word-wrap: break-word;
+}
+
+.holding {
+	margin: 0 0 35px 0;
+}
+
+.holding-alert {
+	width: 68%;
+	float: right;
+	padding: 0 !important;
+}
+
+.catalog-show-left-col {
+	padding: 0;
+}
+
+.content-text {
+	font-size: 16px;
+}
+
+.catalog-alert {
+	padding: 34px 0;
+	.catalog-alert-text {
+		padding: 19px;
+		background-color: #f2f2f2;
+	}
 }
 
 .media-body dl {
@@ -256,7 +301,6 @@ dl:after {
 }
 
 .player {
-	padding: 0 15px 0.5em 0;
 	text-align: center;
 }
 
@@ -265,11 +309,17 @@ dl:after {
   position: relative;
   text-align: center;
   max-width: 680px;
+  background-color: #e9e9e9;
+  padding: 10px;
 }
 
 #player_media {
 	margin: 0 auto;
 	width: 100%;
+}
+
+#playlist {
+	margin: 0 20px;
 }
 
 .alert-info {
@@ -356,4 +406,35 @@ dl:after {
 
 .special-collections-search {
 	padding: 0 15px;
+}
+
+@media (min-width: 700px) {
+	.videocontent {
+		min-height: 335px
+	}
+}
+
+
+@media (max-width: 767px) {
+	.thumbnail-col {
+		padding: 0 275px 0 0;
+	}
+}
+
+@media (max-width: 512px) {
+	.thumbnail-col {
+		padding: 0;
+	}
+}
+
+@media (max-width: 699px) {
+	.videocontent {
+		min-height: 194px;
+	}
+}
+
+@media (max-width: 991px) {
+	.catalog-show-left-col {
+	  padding: 0 25px 25px 25px;
+	}
 }

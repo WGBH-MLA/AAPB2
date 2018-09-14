@@ -27,6 +27,7 @@
                 '/about-the-american-archive/funding' => 'Funding',
                 '/about-the-american-archive/projects' => 'Projects',
                 '/about-the-american-archive/executive-advisory-council' => 'Executive Advisory Council',
+                '/about-the-american-archive/advisory-committees' => 'Advisory Committees',
                 '/about-the-american-archive/whats-new/events' => 'Events',
                 '/about-the-american-archive/acknowledgments' => 'Acknowledgments',
                 },
@@ -47,7 +48,7 @@
                 '/help/obtain-metadata' => 'Obtain Metadata',
                 '/resources' => 'Resources',
                 '/about-the-american-archive/whats-new/funding-opportunities' => 'Funding Opportunities',
-                'http://ndsr.americanarchive.org/'=> 'NDSR',
+                '/help/station-communications-toolkit' => 'Communications Toolkit',
                 'http://americanarchivepb.wordpress.com/'=> 'Blog',
                 'http://wiki.americanarchive.org/'=> 'Wiki'
                 },
@@ -58,9 +59,9 @@
               }
             ]
           ].each_with_index do |pairs, i| %>
-          <div class="col-md-6 clearfix">
+          <div class="col-md-6 col-xs-12 clearfix">
             <% pairs.each_with_index do |links, j| %>
-              <div class="panel panel-default naked-panel">
+              <div class="panel panel-default naked-panel col-xs-12">
                 <div class="panel-body">
                   <ul class="list-group">
                     <% links.each do |href, name| %>
@@ -72,6 +73,7 @@
                       <li class="blog"><a class="blog" href="https://americanarchivepb.wordpress.com/" target="_blank" title="Read the AAPB Blog">Read Our Blog</a></li>
                       <li class="twitter"><a href="https://twitter.com/amarchivepub" target="_blank" title="Follow us on Twitter">Follow us on Twitter</a></li>
                       <li class="facebook"><a href="https://www.facebook.com/amarchivepub" target="_blank" title="Like us on Facebook">Like us on Facebook</a></li>
+                      <li class="instagram"><a href="https://www.instagram.com/amarchivepub/" target="_blank" title="Follow us on Instagram">Follow us on Instagram</a></li>
                     </ul>
                   <% end %>
                 </div>

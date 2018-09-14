@@ -5,15 +5,15 @@
 source 'https://rubygems.org'
 
 # Specify specific version of ruby with which the app is compatible.
-ruby '2.2.4'
+ruby '2.4.4'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.2'
+gem 'rails', '4.2.8'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # gem 'mysql2', :group => :production
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.3'
+gem 'sass-rails', '~> 5.0.7'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
@@ -58,7 +58,9 @@ gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
 gem 'wordpress-client'
 
-gem 'blacklight'
+gem 'blacklight', '5.19.2'
+gem 'blacklight-gallery', '0.4.1'
+
 gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper', '~> 1.7'
@@ -70,12 +72,12 @@ gem 'srt'
 
 gem 'sony_ci_api', '~> 0.2.1'
 
-gem 'rubyzip'
+gem 'rubyzip', '~> 1.2.1'
 
 gem 'cancan'
 gem 'geoip'
 gem 'fastimage'
-gem 'rack-cors', :require => 'rack/cors'
+gem 'rack-cors', '~> 1.0.2', :require => 'rack/cors'
 
 gem 'aws-sdk', '~> 2', :group => :development # Unless we want the AWS credentials on Travis for tests...
 
@@ -87,8 +89,11 @@ gem 'capybara', :group => :test
 gem 'webmock', :group => :test
 gem 'launchy', :group => :test
 
-gem 'rubocop', :group => :development
+gem 'rubocop', '0.39.0', :group => :development
 gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
+# gem 'xray-rails', :group => :development
 
 gem 'passenger', :group => :production
+
+gem 'nokogiri', '~> 1.8.4'

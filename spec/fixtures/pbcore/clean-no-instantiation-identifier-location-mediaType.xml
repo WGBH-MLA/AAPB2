@@ -12,7 +12,8 @@
     <instantiationLocation/>
     <instantiationMediaType>other</instantiationMediaType>
     <instantiationDuration>00:26:46*</instantiationDuration>
+    <instantiationAnnotation annotationType="organization">WHUT-TV (Howard University Television)</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='last_modified'>2013-06-02 16:41:49</pbcoreAnnotation>
-  <pbcoreAnnotation annotationType='organization'>WHUT-TV (Howard University Television)</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">WHUT-TV (Howard University Television)</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

@@ -1,0 +1,23 @@
+<% if @show_transcript %>
+  <div class="hidden-md hidden-lg col-sm-12 mobile-transcript-col">
+      <dl class="panel transcript-panel mobile-transcript">
+        <div class="transcript-panel-heading">
+          <dt class="dt-left">Transcript</dt>
+          <div class="input-group input-group-sm transcript-search show-transcript-search" role="search">
+              <input type="mobile-search" placeholder="Search..."/>
+              <button data-search="mobile-next" class="transcript-search-btn"><span class="glyphicon glyphicon-chevron-down glyphicon-transcript-icon" aria-hidden="true"></span></button>
+              <button data-search="mobile-prev" class="transcript-search-btn"><span class="glyphicon glyphicon-chevron-up glyphicon-transcript-icon" aria-hidden="true"></span></button>
+              <button data-search="mobile-clear" class="transcript-search-btn glyphicon-transcript-icon">✖</button>
+          </div>
+          <div class="transcript-slide show-transcript" style="cursor: pointer;">Hide
+            <span class="transcript-circle">-</span>
+          </div>
+        </div>
+        <div id="transcript" class="transcript-frame transcript-div transcript-view-show">
+          <div class="mobile-transcript-content">
+            <%= raw @transcript_html %>
+          </div>
+        </div>
+      </dl>
+  </div>
+<% end %>

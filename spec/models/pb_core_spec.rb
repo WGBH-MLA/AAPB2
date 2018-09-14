@@ -10,9 +10,13 @@ describe 'Validated and plain PBCore' do
   let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
   let(:pbc_supplemental_materials) { File.read('spec/fixtures/pbcore/clean-supplemental-materials.xml') }
   let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
+  let(:pbc_multi_org) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
   let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
   let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
   let(:playlist_3) { File.read('spec/fixtures/pbcore/clean-playlist-3.xml') }
+  let(:pbc_multiple_series_with_episodes) { File.read('spec/fixtures/pbcore/clean-multiple-series-with-episode-titles.xml') }
+  let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
+  let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
 
   describe ValidatedPBCore do
     describe 'valid docs' do
@@ -120,25 +124,26 @@ describe 'Validated and plain PBCore' do
           'series_titles' => ['Nova'],
           'special_collection' => nil,
           'text' => ['1234', '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID',
-                     'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.',
+                     'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.',
                      'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions',
                      'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music',
-                     'Nova', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious',
+                     'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious',
                      'hair', 'musicals -- horror', 'somewhere else',
                      "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
-          'contribs' => %w(Larry Stooges Curly Stooges Moe Stooges),
+          'contribs' => %w(Larry WGBH Stooges Stooges Curly Stooges Moe Stooges),
           'year' => '2000',
           'exhibits' => [],
           'media_type' => 'Moving Image',
           'genres' => ['Call-in'],
           'topics' => ['Music'],
           'asset_type' => 'Album',
-          'organization' => 'WGBH (MA)',
+          'contributing_organizations' => ['WGBH (MA)'],
           'playlist_group' => nil,
           'playlist_order' => 0,
-          'state' => 'Massachusetts',
+          'producing_organizations' => ['WGBH'],
+          'states' => ['Massachusetts'],
           'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
           # TODO: UI will transform internal representation.
         },
@@ -155,11 +160,12 @@ describe 'Validated and plain PBCore' do
         descriptions: ['Best episode ever!'],
         instantiations: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
                          PBCoreInstantiation.new('Moving Image', '1:23:45')],
-        rights_summary: 'Copy Left: All rights reversed.',
+        rights_summaries: ['Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.'],
         genres: ['Call-in'],
         topics: ['Music'],
         id: '1234',
         ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
+        display_ids: [['AAPB ID', '1234']],
         ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],
         media_srcs: ['/media/1234?part=1', '/media/1234?part=2'],
         img_height: 225,
@@ -172,8 +178,6 @@ describe 'Validated and plain PBCore' do
         # rubocop:enable LineLength
         transcript_src: nil,
         transcript_status: nil,
-        organization_pbcore_name: 'WGBH',
-        organization: Organization.find_by_pbcore_name('WGBH'),
         outside_url: 'http://www.wgbh.org/',
         player_aspect_ratio: '4:3',
         player_specs: %w(680 510),
@@ -184,6 +188,8 @@ describe 'Validated and plain PBCore' do
         playlist_prev_id: nil,
         reference_urls: ['http://www.wgbh.org/'],
         private?: false,
+        producing_organizations: [PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')],
+        producing_organizations_facet: ['WGBH'],
         protected?: false,
         public?: true,
         access_level_description: 'Online Reading Room',
@@ -194,9 +200,15 @@ describe 'Validated and plain PBCore' do
         digitized?: true,
         subjects: ['explosions -- gratuitious', 'musicals -- horror'],
         supplemental_content: [],
-        creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges')],
+        creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'), PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')],
         contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
-        publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
+        publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')],
+        contributing_organization_names: ['WGBH'],
+        contributing_organizations_facet: ['WGBH (MA)'],
+        contributing_organization_names_display: ['WGBH'],
+        contributing_organization_objects: [Organization.find_by_pbcore_name('WGBH')],
+        states: ['Massachusetts'],
+        img?: true
       }
 
       pbc = PBCore.new(pbc_xml)
@@ -326,6 +338,42 @@ describe 'Validated and plain PBCore' do
         }
 
         expect(expected_attrs).to eq(attrs)
+      end
+    end
+
+    describe 'pbcore object with multiple contributing organizations and states' do
+      it 'returns multiple organizations and states' do
+        pbc = PBCore.new(pbc_multi_org)
+
+        expected_attrs = {
+          'contributing_organization_names' => ['KQED', 'Library of Congress'],
+          'contributing_organizations_facet' => ['KQED (CA)', 'Library of Congress (DC)'],
+          'contributing_organization_objects' => [Organization.find_by_pbcore_name('KQED'), Organization.find_by_pbcore_name('Library of Congress')],
+          'states' => ['California', 'District of Columbia']
+        }
+
+        attrs = {
+          'contributing_organization_names' => pbc.contributing_organization_names,
+          'contributing_organizations_facet' => pbc.contributing_organizations_facet,
+          'contributing_organization_objects' => pbc.contributing_organization_objects,
+          'states' => pbc.states
+        }
+
+        expect(expected_attrs).to eq(attrs)
+      end
+    end
+
+    describe '.build_display_title' do
+      it 'uses only episode titles if there are more than one series title' do
+        expect(PBCore.new(pbc_multiple_series_with_episodes).title).to eq('Writers Writing; Readers Reading')
+      end
+
+      it 'uses only the series and episode titles if there are multiple episode numbers and only one series title' do
+        expect(PBCore.new(pbc_multiple_episodes_one_series).title).to eq('Writers Forum II; Writers Writing Again; Readers Reading Again')
+      end
+
+      it 'uses Alternative title if no other titles are present' do
+        expect(PBCore.new(pbc_alternative_title).title).to eq('This Title is Alternative')
       end
     end
   end

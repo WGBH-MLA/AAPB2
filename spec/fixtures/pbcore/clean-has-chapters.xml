@@ -75,6 +75,7 @@ A production of WGBY a division of the WGBH Educational Foundation Copyright 200
 <instantiationDuration>00:25:20</instantiationDuration>
 <instantiationChannelConfiguration>Ch 1 Full Mix; Ch 2 Full Mix</instantiationChannelConfiguration>
 <instantiationAlternativeModes>N</instantiationAlternativeModes>
+<instantiationAnnotation annotationType="organization">WGBY</instantiationAnnotation>
 <instantiationExtension>
 <extensionWrap>
 <extensionElement>AACIP Record Nomination Status</extensionElement>
@@ -129,6 +130,7 @@ A production of WGBY a division of the WGBH Educational Foundation Copyright 200
 <essenceTrackEncoding source="mediainfo">SMPTE TC</essenceTrackEncoding>
 </instantiationEssenceTrack>
 <instantiationAnnotation annotationType="encoded by">OC OCTk 2.1</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">WGBY</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
 <instantiationIdentifier source="mediainfo">cpb-aacip-114-90dv49m9.j2k.mxf</instantiationIdentifier>
@@ -179,6 +181,7 @@ A production of WGBY a division of the WGBH Educational Foundation Copyright 200
 <instantiationAnnotation annotationType="encoded by">
 Front Porch Digital J2K MXF Wrapper Based on MXFLib 1.0.1(13)-Beta
 </instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">WGBY</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
 <instantiationIdentifier source="mediainfo">cpb-aacip-114-90dv49m9.h264.mov</instantiationIdentifier>
@@ -223,6 +226,7 @@ Front Porch Digital J2K MXF Wrapper Based on MXFLib 1.0.1(13)-Beta
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 </instantiationEssenceTrack>
 <instantiationAnnotation annotationType="encoded by">Apple QuickTime</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">WGBY</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="cataloging status">Minimally Cataloged</pbcoreAnnotation>

@@ -4,6 +4,20 @@ class CatalogController < ApplicationController
   include Blacklight::Catalog
 
   configure_blacklight do |config|
+    # 'list' is the name of blacklight's default search result view style
+    config.view.gallery.partials = [:index]
+
+    config.view.short_list.partials = [:index]
+    config.view.short_list.icon_class = 'view-icon-short_list'
+
+    # config.view.masonry.partials = [:index]
+    # config.view.masonry.icon_class = 'view-icon-masonry'
+
+    # config.view.slideshow.partials = [:index]
+
+    # config.show.tile_source_field = :content_metadata_image_iiif_info_ssm
+    # config.show.partials.insert(1, :openseadragon)
+
     ## Default parameters to send to solr for all search-like requests.
     ## See also SolrHelper#solr_search_params
     config.default_solr_params = {
@@ -62,21 +76,35 @@ class CatalogController < ApplicationController
     config.add_facet_field 'media_type'
     config.add_facet_field 'genres', label: 'Genre', solr_params: { 'facet.limit' => -1 },
                                      message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
-    config.add_facet_field 'topics', label: 'Topic', solr_params: { 'facet.limit' => -1 },
-                                     message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
+    config.add_facet_field 'topics',  label: 'Topic',
+                                      solr_params: { 'facet.limit' => -1 },
+                                      message: 'Cataloging in progress: These tags do not reflect all AAPB content.'
     config.add_facet_field 'asset_type'
-    config.add_facet_field 'state', solr_params: { 'facet.limit' => -1 },
-                                    show: false, tag: 'state'
-    config.add_facet_field 'organization', sort: 'index', solr_params: { 'facet.limit' => -1 },
-                                           # Default is 100, but we have more orgs than that. -1 means no limit.
-                                           tag: 'org', ex: 'org,state',
-                                           partial: 'organization_facet',
-                                           collapse: :force
+    config.add_facet_field 'states',  solr_params: { 'facet.limit' => -1 },
+                                      show: false,
+                                      tag: 'state'
+    config.add_facet_field 'contributing_organizations', sort: 'index',
+                                                         solr_params: { 'facet.limit' => -1 },
+                                                         # Default is 100, but we have more orgs than that. -1 means no limit.
+                                                         tag: 'org',
+                                                         ex: 'org,state',
+                                                         partial: 'contributing_organizations_facet',
+                                                         collapse: :force
+    config.add_facet_field 'producing_organizations', sort: 'index',
+                                                      solr_params: { 'facet.limit' => -1 },
+                                                      tag: 'producing_org',
+                                                      ex: 'producing_org',
+                                                      partial: 'producing_organizations_facet',
+                                                      collapse: :force
     # Display all, even when one is selected.
-    config.add_facet_field 'year', sort: 'index', range: true,
-                                   message: 'Cataloging in progress: only half of the records for digitized assets are currently dated.'
-    config.add_facet_field 'access_types', label: 'Access', partial: 'access_facet',
-                                           tag: 'access', ex: 'access', collapse: false
+    config.add_facet_field 'year',  sort: 'index',
+                                    range: true,
+                                    message: 'Cataloging in progress: only half of the records for digitized assets are currently dated.'
+    config.add_facet_field 'access_types',  label: 'Access',
+                                            partial: 'access_facet',
+                                            tag: 'access',
+                                            ex: 'access',
+                                            collapse: false
 
     VocabMap.for('title').authorized_names.each do |name|
       config.add_facet_field "#{name.downcase.gsub(/\s/, '_')}_titles", show: false, label: name
@@ -181,11 +209,14 @@ class CatalogController < ApplicationController
 
         if can? :play, @pbcore
           if @pbcore.transcript_status == PBCore::ORR_TRANSCRIPT || @pbcore.transcript_status == PBCore::ON_LOCATION_TRANSCRIPT
-
             @transcript_html = TranscriptFile.new(params['id']).html
             @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
             @show_transcript = true
           end
+
+          # can? play because we're inside this block
+          @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
+
         else
           @show_transcript = false
         end

@@ -38,6 +38,12 @@ class PBCore # rubocop:disable Metrics/ClassLength
       PBCoreNameRoleAffiliation.new(rexml)
     end
   end
+  def producing_organizations
+    @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }
+  end
+  def producing_organizations_facet
+    @producing_organizations_facet ||= producing_organizations.map(&:name) unless producing_organizations.empty?
+  end
   def creators
     @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map do |rexml|
       PBCoreNameRoleAffiliation.new(rexml)
@@ -53,8 +59,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
       PBCoreInstantiation.new(rexml)
     end
   end
-  def rights_summary
-    @rights_summary ||= xpath('/*/pbcoreRightsSummary/rightsSummary')
+  def rights_summaries
+    @rights_summaries ||= xpaths('/*/pbcoreRightsSummary/rightsSummary')
   rescue NoMatchError
     nil
   end
@@ -75,7 +81,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
   end
   def title
-    @title ||= titles.map(&:last).join('; ')
+    @title ||= build_display_title
   end
   def exhibits
     @exhibits ||= Exhibit.find_all_by_item_id(id)
@@ -102,6 +108,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def ci_ids
     @ci_ids ||= xpaths("/*/pbcoreIdentifier[@source='#{SONY_CI}']")
   end
+  def display_ids
+    @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
+  end
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
@@ -117,24 +126,37 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
-  def img_src
-    @img_src ||=
-      case [media_type, digitized?]
-      when [MOVING_IMAGE, true]
-        # TODO: Move ID cleaning into Cleaner: https://github.com/WGBH/AAPB2/issues/870
-        # Mississippi IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
-        "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
-      when [MOVING_IMAGE, false]
-        '/thumbs/video-not-digitized.jpg'
-      when [SOUND, true]
-        '/thumbs/audio-digitized.jpg'
-      when [SOUND, false]
-        '/thumbs/audio-not-digitized.jpg'
-      when [OTHER, true]
-        '/thumbs/other.jpg'
-      when [OTHER, false]
-        '/thumbs/other.jpg'
+
+  def img?
+    media_type == MOVING_IMAGE && digitized?
+  end
+
+  def img_src(icon_only = false)
+    @img_src ||= begin
+      url = nil
+      if media_type == MOVING_IMAGE && digitized? && !icon_only
+        url = "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
       end
+
+      unless url
+        url = case [media_type, digitized?]
+              # when [MOVING_IMAGE, true]
+              # TODO: Move ID cleaning into Cleaner: https://github.com/WGBH/AAPB2/issues/870
+              # Mississippi IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
+              # "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/,'cpb-aacip_')}.jpg"
+              when [MOVING_IMAGE, false]
+                '/thumbs/VIDEO_NOT_DIG.png'
+              when [SOUND, true]
+                '/thumbs/AUDIO.png'
+              when [SOUND, false]
+                '/thumbs/AUDIO_NOT_DIG.png'
+              else
+                '/thumbs/OTHER.png'
+              end
+      end
+
+      url
+    end
     # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
     # If these got moved to S3, that would need to change.
   end
@@ -144,12 +166,22 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def img_width
     @img_width = img_dimensions[0]
   end
-  def organization_pbcore_name
-    @organization_pbcore_name ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
+  def contributing_organization_names
+    @contributing_organization_names ||= xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq
   end
-  def organization
-    @organization ||= Organization.find_by_pbcore_name(organization_pbcore_name) ||
-                      raise("Unrecognized organization_pbcore_name '#{organization_pbcore_name}'")
+  def contributing_organizations_facet
+    @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?
+  end
+  def contributing_organization_objects
+    @contributing_organization_objects ||= Organization.organizations(contributing_organization_names)
+  end
+  def contributing_organization_names_display
+    @contributing_organization_names_display ||= Organization.build_organization_names_display(contributing_organization_objects)
+  end
+  def states
+    @states ||= contributing_organization_objects.map(&:state)
+  rescue NoMatchError
+    nil
   end
   def outside_url
     @outside_url ||= begin
@@ -368,8 +400,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
       'genres' => genres,
       'topics' => topics,
       'asset_type' => asset_type,
-      'organization' => organization.facet,
-      'state' => organization.state,
+      'contributing_organizations' => contributing_organizations_facet,
+      'producing_organizations' => producing_organizations_facet,
+      'states' => states,
       'access_types' => access_types,
 
       # playlist
@@ -392,14 +425,15 @@ class PBCore # rubocop:disable Metrics/ClassLength
     ignores = [
       :text, :to_solr, :contribs, :img_src, :media_srcs,
       :captions_src, :transcript_src, :rights_code,
-      :access_level, :access_types,
-      :organization_pbcore_name, # internal string; not in UI
-      :title, :ci_ids, :instantiations, :outside_url,
+      :access_level, :access_types, :title, :ci_ids, :display_ids,
+      :instantiations, :outside_url,
       :reference_urls, :exhibits, :special_collection, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
-      :playlist_next_id, :playlist_prev_id, :supplemental_content
+      :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
+      :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
+      :producing_organizations_facet, :build_display_title
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)
@@ -409,6 +443,18 @@ class PBCore # rubocop:disable Metrics/ClassLength
               .flatten # flattens list accessors
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
               .flatten.uniq.sort
+  end
+
+  def build_display_title
+    if titles.map(&:first).count('Series') > 1 && titles.map(&:first).count('Episode Number') > 0 && titles.map(&:first).count('Episode') > 0
+      titles.select { |title_pair| title_pair.first == 'Episode' }.map(&:last).join('; ')
+    elsif titles.map(&:first).count('Episode Number') > 1 && titles.map(&:first).count('Series') == 1 && titles.map(&:first).count('Episode') > 0
+      titles.select { |title_pair| title_pair.first == 'Series' || title_pair.first == 'Episode' }.map(&:last).join('; ')
+    elsif titles.map(&:first).count('Alternative') > 0 && titles.map(&:first).count == titles.map(&:first).count('Alternative')
+      titles.select { |title_pair| title_pair.first == 'Alternative' }.map(&:last).join('; ')
+    else
+      titles.select { |title_pair| title_pair.first != 'Alternative' }.map(&:last).join('; ')
+    end
   end
 
   def contribs

@@ -8,16 +8,15 @@ describe ThumbnailsController do
   end
 
   describe 'redirection' do
-    it 'speeds up redirects' do
-      start_1 = Time.now
+    it 'speeds up redirects (cached response returns in <20ms)' do
       get 'show', id: '1234'
-      length_1 = Time.now - start_1
       expect(response.redirect_url).to eq('http://americanarchive.org.s3.amazonaws.com/thumbnail/1234.jpg')
 
       start_2 = Time.now
       get 'show', id: '1234'
       length_2 = Time.now - start_2
-      expect(length_1 > length_2 * 5).to be(true)
+
+      expect(length_2).to be < 0.02
     end
   end
 end

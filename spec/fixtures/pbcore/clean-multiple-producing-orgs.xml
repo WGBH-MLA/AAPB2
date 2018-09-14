@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
+  <pbcoreAssetType>Segment</pbcoreAssetType>
+  <pbcoreAssetDate dateType="broadcast">1974-07-26</pbcoreAssetDate>
+  <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/512-3r0pr7nf2d</pbcoreIdentifier>
+  <pbcoreIdentifier source="EIDR Episode">10.5240/5193-4717-7523-E3C9-F96F-4</pbcoreIdentifier>
+  <pbcoreIdentifier source="EIDR Series">10.5240/108F-D9AD-EB68-F086-9D8F-W</pbcoreIdentifier>
+  <pbcoreIdentifier source="Library of Congress Control Number">92507229</pbcoreIdentifier>
+  <pbcoreIdentifier source="MAVIS Title Number">2403168</pbcoreIdentifier>
+  <pbcoreIdentifier source="Sony Ci">0db8c89e233f4c89994f9cab03f9a0d6</pbcoreIdentifier>
+  <pbcoreTitle titleType="Segment">Part 3 of 6</pbcoreTitle>
+  <pbcoreTitle titleType="Episode">1974-07-26</pbcoreTitle>
+  <pbcoreTitle titleType="Series">1974 Nixon Impeachment Hearings</pbcoreTitle>
+  <pbcoreSubject source="Library of Congress Name Authority">Nixon, Richard M.</pbcoreSubject>
+  <pbcoreSubject subjectType="Subject Heading">Watergate Affair, 1972-1974</pbcoreSubject>
+  <pbcoreDescription descriptionType="Episode Description">Live and videotaped debate of the House Committee on the Judiciary, chaired by Peter Rodino, Jr., on the articles of impeachment against President Richard Nixon. This is day 4 of the Nixon impeachment hearings.</pbcoreDescription>
+  <pbcoreGenre source="AAPB Format Genre">Event Coverage</pbcoreGenre>
+  <pbcoreGenre source="AAPB Topical Genre">Politics and Government</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>National Public Affairs Center for Television</creator>
+    <creatorRole>Producing Organization</creatorRole>
+  </pbcoreCreator>
+  <pbcoreCreator>
+    <creator>WETA-TV</creator>
+    <creatorRole>Producing Organization</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Rodino, Peter W.</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Lehrer, James</contributor>
+    <contributorRole>Reporter</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor affiliation="  National Public Radio ">Duke, Paul</contributor>
+    <contributorRole>Reporter</contributorRole>
+  </pbcoreContributor>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="MAVIS Item ID">2403168-1-3</instantiationIdentifier>
+    <instantiationPhysical>2 inch videotape</instantiationPhysical>
+    <instantiationStandard>NTSC</instantiationStandard>
+    <instantiationLocation>Vault Site: Culpeper; RackNo: VUA 0402</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Preservation Material</instantiationGenerations>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType="organization">Library of Congress</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source="mediainfo">cpb-aacip-512-3r0pr7nf2d__1181570_11.mp4.mov</instantiationIdentifier>
+    <instantiationIdentifier source="Sony Ci">0db8c89e233f4c89994f9cab03f9a0d6</instantiationIdentifier>
+    <instantiationIdentifier source="MD5 checksum">e3a0f592fcbcd3999e526badf15fd844</instantiationIdentifier>
+    <instantiationDate dateType="encoded">1903-12-31</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure="MiB">576</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure="kb/s">839</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>4 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
+      <essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure="kb/s">711</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:35:59</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType="colorspace">YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType="subsampling">4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
+      <essenceTrackEncoding source="mediainfo">AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure="kb/s">128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 kHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:36:00</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType="encoded by">Lavf57.72.101</instantiationAnnotation>
+    <instantiationAnnotation annotationType="Preservation LTO">AB0001</instantiationAnnotation>
+    <instantiationAnnotation annotationType="Preservation Disk">ABDISK0001</instantiationAnnotation>
+    <instantiationAnnotation annotationType="organization">Library of Congress</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation>Source used: ILS record, LCCN 92507229. Note: Order of cassette and reel numbers does not conform to most logical viewing order. The videotaped coverage is the first three tapes, followed by the live coverage. Titles listed in M/B/RS Acquisition file (WETA): Impeachment hearings--House, Impeachment hearings--Judiciary Committee, Rodino hearings. Copyright notice on tape: Greater Washington Educational Telecommunications Association, Inc. ; 1974. Subjects from ILS record: Nixon, Richard M. (Richard Milhous), 1913-1994--Impeachment; Watergate Affair, 1972-1974</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Playlist Group">nixonimpeachmentday4</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Playlist Order">3</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Project Code">WG0002</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="last_modified">2018-07-06 11:24:27</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType="organization">Library of Congress</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

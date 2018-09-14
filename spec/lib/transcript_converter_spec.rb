@@ -10,7 +10,7 @@ describe TranscriptConverter do
 
   describe '.json_to_html' do
     it 'returns formatted HTML from JSON file' do
-      expect(Nokogiri::XML(TranscriptConverter.json_to_html(json)).errors.empty?).to be true
+      expect(Nokogiri::HTML(TranscriptConverter.json_to_html(json)).errors.empty?).to be true
     end
 
     it 'returns the expected html' do
@@ -20,7 +20,7 @@ describe TranscriptConverter do
 
   describe '.text_to_html' do
     it 'returns formatted HTML from text file' do
-      expect(Nokogiri::XML(TranscriptConverter.text_to_html(text)).errors.empty?).to be(true)
+      expect(Nokogiri::HTML(TranscriptConverter.text_to_html(text)).errors.empty?).to be(true)
     end
   end
 end

@@ -1,29 +1,22 @@
 <% if @show_transcript %>
-<div class="col-sm-12 col-md-6 transcript-div">
-  <div class="transcript-header">
-    <p>Transcript</p>
-    <div class="input-group input-group-sm transcript-search show-transcript-search" role="search">
-      <input type="search" placeholder="Search..."/>
-      <button data-search="next">&darr;</button>
-      <button data-search="prev">&uarr;</button>
-      <button data-search="clear">✖</button>
+<div class="col-sm-12 col-md-6 transcript-div transcript-view-show">
+  <dl class="panel transcript-panel">
+    <div class="transcript-panel-heading">
+      <dt class="dt-left">Transcript</dt>
+      <div class="input-group input-group-sm transcript-search show-transcript-search" role="search">
+          <input type="search" placeholder="Search..."/>
+          <button data-search="next" class="transcript-search-btn"><span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></button>
+          <button data-search="prev" class="transcript-search-btn"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></button>
+          <button data-search="clear" class="transcript-search-btn">✖</button>
+      </div>
+      <div class="transcript-slide show-transcript" style="cursor: pointer;">Hide
+        <span class="transcript-circle">-</span>
+      </div>
     </div>
-    <div class="transcript-slide show-transcript" style="cursor: pointer;">
-      Hide<span class="transcript-circle">-</span>
-    </div>
-  </div>
-  <div class="transcript-view transcript-view-large">
-    <div id="transcript" class="transcript-frame">
+  </dl>
+  <div id="transcript" class="transcript-frame">
+    <div class="transcript transcript-content">
       <%= raw @transcript_html %>
-    </div>
-  </div>
-</div>
-<% else %>
-<div class="hidden-sm hidden-xs col-md-2 transcript-div">
-  <div class="transcript-header">
-    <p>Transcript</p>
-    <div class="no-transcript">
-      Not Available
     </div>
   </div>
 </div>
