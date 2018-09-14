@@ -1,10 +1,14 @@
 <% content_for :main do %>
 
   <ol class="breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px;">
-    <li><a href="/exhibits">Exhibits</a></li>
+    <li>◄ <a href="/exhibits">Exhibits</a></li>
+    
     <% @exhibit.ancestors.map do |ancestor| %>
-      <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
+    
+      <li>◄ <%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
+    
     <% end %>
+    
     <li><%= @exhibit.title %></li>
   </ol>
 
@@ -14,7 +18,7 @@
 
 
       <div class="row">
-
+ 
         <div class="col-md-7"></div>
 
         <div class="col-md-5">
@@ -57,7 +61,7 @@
       </div>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-md-4" style="padding-right: 0;">
 
       <!-- whole gallery -->
       <%= render(partial: 'exhibits/gallery',
@@ -72,7 +76,7 @@
 
     <div class="exhibit-sections-bar">
 
-      <h3 style="margin-left: 1em;" id="exhibit-sections-bar-title" class="exhibit-color">Exhibit Sections</h3>
+      <h3 id="exhibit-sections-bar-title" class="exhibit-color">Exhibit Sections</h3>
 
 
       <div class="">
@@ -81,7 +85,9 @@
 
         <% exes.each do |exhibit| %>
 
-          <%= exhibit.cover %>
+          <div class="exhibit-section-container">
+            <%= exhibit.cover.to_s.html_safe %>
+          </div>
 
         <% end %>
       </div>

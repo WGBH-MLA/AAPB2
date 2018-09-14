@@ -8,12 +8,10 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
-
 <div id="exgal-main" data-total-items=<%= gallery_info.count %> data-current-item=1 class="exgal-container">
   <div class="row">
 
     <div class="col-md-12">
-
 
       <% gallery_info.each_with_index do |gal,i| %>
 
@@ -25,14 +23,11 @@
 
               <div class="four-three-box">
 
-
                 <!-- whole gallery -->
                 <%= render(partial: 'exhibits/gallery_player',
                             locals: {
                               media_info: gal[:media_info]
                             }) %>
-                
-              
               </div>
             </div>
           </div>
@@ -52,7 +47,7 @@
           <div class="row">
             <div class="col-md-12">
 
-              <a class="exgal-record" href="<%= gal[:record_url] %>"><%= gal[:record_text] %></a>
+              <a class="exhibit-color exgal-record" href="<%= gal[:record_url] %>"><%= gal[:record_text] %></a>
             </div>          
           </div>          
         </div>
@@ -64,7 +59,7 @@
         
         <div class="col-md-12">
 
-          <div id="exgal-nav" style="width: 42%; margin: 0 auto;">
+          <div id="exgal-nav" style="float:right; margin-right: 4%; margin-bottom: 4%; margin-top: 2%;">
             <span class="exgal-button" id="exgal-back" class="">< Previous | </span>
 
             <span id="exgal-count">

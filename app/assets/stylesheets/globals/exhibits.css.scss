@@ -37,6 +37,15 @@
   color: #CC5555;
 }
 
+a.exhibit-color:link, a.exhibit-color:visited {
+  color: #CC5555 !important;
+}
+
+a.exhibit-color:hover {
+  color: #999;
+  text-decoration: none;
+}
+
 .exhibit-main h3 {
   color: #CC5555; 
   font-size: 20px;
@@ -44,6 +53,11 @@
 
 .exhibit-main p {
   font-size: 14px;
+}
+
+#exgal-main  {
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .exgal-title {
@@ -75,16 +89,12 @@
   background-color: #ddd;
 }
 
-.exgal-record {
-  background-color: #4f4;
-}
-
 .exrec-container {
  background-color: #F0F; 
 }
 
-.exrec-record {
-  background-color: #0F0;
+.exgal-record {
+  margin: 4%;
 }
 
 .exgal-image {
@@ -126,9 +136,13 @@
   position: absolute;
   border: 1px solid #ccc;
 
-  ul {
+  ul, li {
     list-style: none;
     margin: 0;
+  }
+
+  li.item:hover {
+    background-color: #ddd;
   }
 }
 
@@ -154,9 +168,19 @@
 }
 
 #exhibit-sections-bar-title {
+  margin-left: 1em;
   padding-top: 1em;
 }
 
 .exhibit-sections-bar {
   background-color: #ddd;
+}
+
+.exhibit-section-container {
+  width: 20%;
+}
+
+.exhibit-section {
+  width: 100%;
+  padding-bottom: 100%;
 }
