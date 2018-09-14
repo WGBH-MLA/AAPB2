@@ -5,10 +5,10 @@
 source 'https://rubygems.org'
 
 # Specify specific version of ruby with which the app is compatible.
-ruby '2.2.6'
+ruby '2.4.4'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.11'
+gem 'rails', '4.2.8'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # gem 'mysql2', :group => :production
@@ -58,7 +58,9 @@ gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
 gem 'wordpress-client'
 
-gem 'blacklight', '5.11.1'
+gem 'blacklight', '5.19.2'
+gem 'blacklight-gallery', '0.4.1'
+
 gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper', '~> 1.7'
@@ -90,6 +92,7 @@ gem 'launchy', :group => :test
 gem 'rubocop', '0.39.0', :group => :development
 gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
+# gem 'xray-rails', :group => :development
 
 gem 'passenger', :group => :production
 

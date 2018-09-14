@@ -207,7 +207,8 @@ describe 'Validated and plain PBCore' do
         contributing_organizations_facet: ['WGBH (MA)'],
         contributing_organization_names_display: ['WGBH'],
         contributing_organization_objects: [Organization.find_by_pbcore_name('WGBH')],
-        states: ['Massachusetts']
+        states: ['Massachusetts'],
+        img?: true
       }
 
       pbc = PBCore.new(pbc_xml)

@@ -1,0 +1,54 @@
+<% PBCore.new(document['xml']).tap do |pbcore| %>
+
+  <% # header bar for doc items in index view -%>
+  <div class="documentHeader media"><!-- Document Header -->
+
+        <!-- Start Grid -->
+        <div class="row">
+
+          <!-- START Column -->
+          <div class="col-md-1 col-1">
+            <%= link_to(url_for_document(document), {class: 'short_list-image-height'}) do %>
+
+              <div class="">
+                <img class="index-item" src="<%= pbcore.img_src(icon=true) %>"
+                 aria-hidden="true"
+                 alt="thumbnail of <%= pbcore.title %>" />
+              </div>
+            <% end %>
+
+          </div>
+          <!-- END Column -->
+
+          <!-- START Column -->
+          <article class="col-md-11 col-11 list-item-height">
+            <h2 class="list-view-title"><%= link_to_document(document, pbcore.title, {class: ''}) %></h2>
+
+            <span class="short_list-margin">
+              
+              <% unless pbcore.asset_date.nil? %>
+                <span class="index-data-title">Date</span>: <%= pbcore.asset_dates.map{ |date| date[1] }.join(', ') %>
+              <% end %>
+
+              <% unless pbcore.producing_organizations_facet.nil? %>
+                <span class="index-data-title">Producing Organization</span>: <%= pbcore.producing_organizations_facet.join(', ') %>
+              <% end %>
+
+            </span>
+
+          </article>
+
+
+          <!-- END Column --> 
+          <!-- END Column -->
+        </div>
+          <!-- END Grid -->
+
+    <% # bookmark functions for items/docs -%>
+    <%#= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>
+
+  </div><!-- END Document Header -->
+
+  <hr class="list-hr">
+
+<% end %>

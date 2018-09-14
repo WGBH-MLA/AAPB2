@@ -5,6 +5,6 @@ describe 'robots.txt' do
   it 'has a Disallow' do
     visit '/robots.txt'
     expect(page.status_code).to eq(200)
-    expect(page).to have_text("Disallow: /\n")
+    expect(page).to have_text('Disallow: ')
   end
 end
