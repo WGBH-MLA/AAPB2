@@ -33,6 +33,8 @@ The <em>Georgia Gazette</em> Series was contributed to the American Archive of P
 
 ## Funders
 
+- [![IMLS](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png "IMLS Logo")](https://www.imls.gov/)
+
 ## Help
 
 Digitization is ongoing, and episodes are continually being preserved. The programs currently in the AAPB do not represent the complete <em>Georgia Gazette</em> series. Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
