@@ -14,20 +14,38 @@
 
     <div class="col-md-12">
 
+
       <% gallery_info.each_with_index do |gal,i| %>
 
         <!-- each gallery item container -->
         <div id="exgal-<%= i+1 %>" class="exgals <%= i != 0 ? 'hide' : '' %>">
           <div class="row">
+      
             <div class="col-md-12">
 
-              <!-- whole gallery -->
-              <%= render(partial: 'exhibits/gallery_player',
-                          locals: {
-                            media_info: gal[:media_info]
-                          }) %>
+              <div class="four-three-box">
+
+
+                <!-- whole gallery -->
+                <%= render(partial: 'exhibits/gallery_player',
+                            locals: {
+                              media_info: gal[:media_info]
+                            }) %>
+                
               
-            
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-12">
+
+              <h4 class="exhibit-color exgal-title"><%= gal[:title] %></h3>
+
+              <div class="exgal-caption">
+                <%= gal[:caption] %>
+              </div> 
+              
             </div>
           </div>
 
@@ -35,28 +53,27 @@
             <div class="col-md-12">
 
               <a class="exgal-record" href="<%= gal[:record_url] %>"><%= gal[:record_text] %></a>
-
-              <span class="exgal-caption">
-                <%= gal[:caption] %>
-              </span>
-              
-            </div>
-          </div>
+            </div>          
+          </div>          
         </div>
 
       <% end %>
+
 
       <div class="row">
         
         <div class="col-md-12">
 
-          <span class="exgal-button" id="exgal-back" class="">< Previous</span>
-          <span id="exgal-count">
-            <span>1</span>
-            of
-            <span>3</span>
-          </span>
-          <span class="exgal-button" id="exgal-forward">Next ></span>
+          <div id="exgal-nav" style="width: 42%; margin: 0 auto;">
+            <span class="exgal-button" id="exgal-back" class="">< Previous | </span>
+
+            <span id="exgal-count">
+              <span id="current-item">1</span>
+              of
+              <span><%= gallery_info.count %></span>
+            </span>
+            <span class="exgal-button" id="exgal-forward"> | Next ></span>
+          </div>
 
         </div>
       </div>
@@ -72,7 +89,6 @@
   $(document).ready(function() {
 
     $('.exgal-button').click(function() {
-
 
       var main = $('#exgal-main');
       var total_items = parseFloat(main.attr("data-total-items"));
@@ -100,10 +116,9 @@
       }
 
       $('.exgals').addClass('hide');
-      console.log('#exgal-' + next_item)
       $('#exgal-' + next_item).removeClass('hide');
       main.attr("data-current-item", next_item);
-
+      $('#current-item').text(next_item);
     });
   });
 
