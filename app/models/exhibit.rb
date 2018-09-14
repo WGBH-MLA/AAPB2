@@ -163,9 +163,17 @@ class Exhibit < Cmless
 
   def cover
     if path.end_with?('notes')
-      # nnooootes
+      # learning goals nnooootes
+      %(<a href="#{path}"><div class="exhibit-notes">
+        <div class="exhibit-color">Resource:</div>
+        <div class="">Learning Goals</div>
+      </div></a>)
     elsif path.end_with?('resources')
-      # reeeeses
+      # reeeeses notes
+      %(<a href="#{path}"><div class="exhibit-notes">
+        <div class="exhibit-color">Resource:</div>
+        <div class="">Research Notes</div>
+      </div></a>)
     else
       img = Nokogiri::HTML(cover_html).css('img').first
     %(<img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' class='exhibit-section'>)

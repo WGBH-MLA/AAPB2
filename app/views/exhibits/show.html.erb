@@ -81,11 +81,21 @@
 
       <div class="row">
 
-        <% exes = @exhibit.parent ? @exhibit.parent.children : @exhibit.children %>
+        <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('resources') || ex.path.end_with?('notes')) } %>
 
-        <% exes.each do |exhibit| %>
+        <!-- exhibits -->
+        <% exes.first.each do |exhibit| %>
 
-          <div style="margin-left: 0; margin-right: 0;" class="exhibit-section-container col-md-3">
+          <div class="exhibit-section-container col-md-3">
+            <%= exhibit.cover.to_s.html_safe %>
+          </div>
+
+        <% end %>
+
+        <!-- notez and resourcys -->
+        <% exes.last.each do |exhibit| %>
+
+          <div class="exhibit-section-container col-md-3">
             <%= exhibit.cover.to_s.html_safe %>
           </div>
 
