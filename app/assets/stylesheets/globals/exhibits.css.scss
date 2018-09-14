@@ -46,6 +46,30 @@
   font-size: 14px;
 }
 
+.exgal-title {
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.exgal-caption {
+  font-size: 0.8rem;
+  margin: 4%;
+  margin-top: 1%;
+  line-height: 1.6em;
+}
+
+.exgal-button:hover {
+  color: #999;
+}
+
+#exgal-nav {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #000;
+}
+
 .exgal-container {
   overflow: contain;
   background-color: #ddd;
@@ -55,16 +79,16 @@
   background-color: #4f4;
 }
 
-.exgal-caption {
-  background-color: #d2d;
-}
-
 .exrec-container {
  background-color: #F0F; 
 }
 
 .exrec-record {
   background-color: #0F0;
+}
+
+.exgal-image {
+  object-fit: cover;
 }
 
 .exhibit-show-breadcrumb {
