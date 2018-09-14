@@ -146,6 +146,12 @@ a.exhibit-color:hover {
   }
 }
 
+.exhibit-notes {
+  padding: 4%;
+  background-color: #eee;
+  border: 1px solid #bbb;
+}
+
 .exhibit-sections {
   border: 1px solid #ccc;
 
@@ -157,6 +163,11 @@ a.exhibit-color:hover {
 
 #exhibit-section-head {
 
+}
+
+.exhibit-section-container {
+  margin-left: 2%;
+  margin-right: 2%;
 }
 
 .exhibit-section-disabled {
