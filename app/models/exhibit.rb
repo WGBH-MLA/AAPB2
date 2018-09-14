@@ -162,9 +162,14 @@ class Exhibit < Cmless
   end
 
   def cover
-    img = Nokogiri::HTML(cover_html).css('img').first
-
+    if path.end_with?('notes')
+      # nnooootes
+    elsif path.end_with?('resources')
+      # reeeeses
+    else
+      img = Nokogiri::HTML(cover_html).css('img').first
     %(<img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' class='exhibit-section'>)
+    end
   end
 
   def authors

@@ -79,13 +79,13 @@
       <h3 id="exhibit-sections-bar-title" class="exhibit-color">Exhibit Sections</h3>
 
 
-      <div class="">
+      <div class="row">
 
         <% exes = @exhibit.parent ? @exhibit.parent.children : @exhibit.children %>
 
         <% exes.each do |exhibit| %>
 
-          <div class="exhibit-section-container">
+          <div style="margin-left: 0; margin-right: 0;" class="exhibit-section-container col-md-3">
             <%= exhibit.cover.to_s.html_safe %>
           </div>
 
