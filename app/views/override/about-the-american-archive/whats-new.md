@@ -2,7 +2,7 @@
 
 ![Control Panel](/page-banners/banner3.jpg)
 
-Read about about AAPB's new collections, exhibits and projects below. Information about upcoming AAPB events can be found on the [Events](/about-the-american-archive/whats-new/events) page, and information about upcoming grant deadlines can be found on the [Funding Opportunities](/about-the-american-archive/whats-new/funding-opportunities) page.
+Read about about AAPB's new collections, exhibits and projects below.
 
 ## June 2018
 
@@ -11,7 +11,7 @@ Read about about AAPB's new collections, exhibits and projects below. Informatio
 
 ## March 2018
 
-### New Exhibit 
+### New Exhibit
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption"><em>"Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."</em></caption>
 <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/override/pennstationcrop.jpg" alt="Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."/></td></tr>
@@ -22,7 +22,7 @@ Curated by AAPB Digital Exhibits Intern Kara Zelasko, “Protecting Places: Hist
 
 #### WNED’s *Woman* Series Collection
 
-![Woman](https://s3.amazonaws.com/americanarchive.org/override/Woman.jpg "Woman Logo") The *Woman* Series Collection consists of 197 episodes of the Woman series produced by WNED in Buffalo, New York from 1972-1977. *Woman* was a half-hour public affairs talk show covering issues of interest to women. Guests included well-known and lesser-known activists, journalists, writers, scholars, lawyers, artists, psychologists, doctors and others such as Gloria Steinem, editor and co-founder of Ms. Magazine; Dorothy Pitman Hughes, African American activist and co-founder of Ms. Magazine; Betty Friedan, author of *The Feminine Mystique*; Florynce Kennedy, founder of the National Feminist Party; Margaret Sloan, co-founder of the National Black Feminist Organization; Karen DeCrow, then president of the National Organization for Women; Margaret Dunkle of the Project on the Status of Women for the Association of American Colleges; and Ruth Miller of the Buffalo Planned Parenthood Association. 
+![Woman](https://s3.amazonaws.com/americanarchive.org/override/Woman.jpg "Woman Logo") The *Woman* Series Collection consists of 197 episodes of the Woman series produced by WNED in Buffalo, New York from 1972-1977. *Woman* was a half-hour public affairs talk show covering issues of interest to women. Guests included well-known and lesser-known activists, journalists, writers, scholars, lawyers, artists, psychologists, doctors and others such as Gloria Steinem, editor and co-founder of Ms. Magazine; Dorothy Pitman Hughes, African American activist and co-founder of Ms. Magazine; Betty Friedan, author of *The Feminine Mystique*; Florynce Kennedy, founder of the National Feminist Party; Margaret Sloan, co-founder of the National Black Feminist Organization; Karen DeCrow, then president of the National Organization for Women; Margaret Dunkle of the Project on the Status of Women for the Association of American Colleges; and Ruth Miller of the Buffalo Planned Parenthood Association.
 
 Topics discussed on *Woman* includes women in sports, the Equal Rights Amendment, sexuality, marriage, women’s health, divorce, the Women’s Liberation Movement, motherhood, and ageism, among others available online at [http://americanarchive.org/special_collections/woman-series](/special_collections/woman-series).
 
