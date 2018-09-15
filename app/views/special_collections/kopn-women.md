@@ -14,6 +14,8 @@ KOPN was founded in Columbia, Missouri in 1973, as an alternative to the first l
 
 ## Featured
 
+[![Thumbnail Image for Audio Files](https://drive.google.com/open?id=1hlxHCbTmQC0_1eUkVP5qtt0utee17EJQ)]
+
 - [Paule Marshall at Columbia College, 1984](/catalog/cpb-aacip/518-m61bk17s29)
 - [Working Class Women](/catalog/cpb-aacip/518-8p5v69968t)
 - [The Crystal Set Feminists](/catalog/cpb-aacip/518-h707w68725)
