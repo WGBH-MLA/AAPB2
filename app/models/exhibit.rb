@@ -176,8 +176,9 @@ class Exhibit < Cmless
       </div></a>)
     else
       img = Nokogiri::HTML(cover_html).css('img').first
+      # <img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' > 
     %(<a href="#{path}">
-        <img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' class='exhibit-section'>
+        <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'></div>
       </a>)
     end
   end
