@@ -10,12 +10,12 @@ about public media and its long-term preservation and access. The purpose of the
 is to guide and assist the AAPB with regard to outreach and use of the AAPB,
 particularly within k-12 and community college environments.
 
-The EduAC provides guidance to the Project Team in the following ways: </br>
-- Provide advice and recommendations for online educational tools <br/>
-- Collaborate on developing ways to engage with students K-12 <br/>
-- Discuss how we can better support educators; K-12 <br/>
-- Provide website feedback for K-12 use <br/>
-- Assist in outreach to their networks and communities (other educators, students, school librarians, and leaders) and beyond <br/>
+The EduAC provides guidance to the Project Team in the following ways: <br>
+- Provide advice and recommendations for online educational tools <br>
+- Collaborate on developing ways to engage with students K-12 <br>
+- Discuss how we can better support educators; K-12 <br>
+- Provide website feedback for K-12 use <br>
+- Assist in outreach to their networks and communities (other educators, students, school librarians, and leaders) and beyond <br>
 
 ### Current Education Advisory Committee Members 
 
@@ -68,12 +68,12 @@ long-term preservation and access. The purpose of the SAC is to guide and assist
 AAPB with regard to outreach and use of the AAPB, particularly within higher education
 and scholarly communities.
 
-The SAC provides guidance to the Project Team in the following ways: </br>
-- Collaborate on developing ways to engage with scholars and students <br/>
-- Discuss how AAPB can better support scholars <br/>
-- Provide website feedback on usability and accessibility <br/>
-- Provide advice and recommendations on collections significant for preservation <br/>
-- Assist in outreach to their networks and communities (other scholars, undergraduate and graduate students) and beyond <br/>
+The SAC provides guidance to the Project Team in the following ways: <br>
+- Collaborate on developing ways to engage with scholars and students <br>
+- Discuss how AAPB can better support scholars <br>
+- Provide website feedback on usability and accessibility <br>
+- Provide advice and recommendations on collections significant for preservation <br>
+- Assist in outreach to their networks and communities (other scholars, undergraduate and graduate students) and beyond <br>
 
 ### Current Scholar Advisory Committee Members 
 
@@ -133,15 +133,15 @@ public broadcasting. The purpose of the SPAC is to guide and assist the AAPB wit
 outreach within public media communities, especially with regard to preserving and
 making public media content more accessible.
 
-The SPAC provides guidance to the Project Team in the following ways: </br>
-- Gather input on how the AAPB can support stations and producers of public broadcasting with preserving and making public media more accessible <br/>
-- Help develop ideas on what types of services we can offer <br/>
-- Address the needs of stations in regard to archiving <br/>
-- Provide advice and recommendations on significant collections for preservation <br/>
-- Collaborate on developing ways to engage with various user groups <br/>
-- Provide website feedback <br/>
-- Assist in outreach to their networks and communities (other public media <br/>
-organizations, producers and leaders) and beyond <br/>
+The SPAC provides guidance to the Project Team in the following ways: <br>
+- Gather input on how the AAPB can support stations and producers of public broadcasting with preserving and making public media more accessible <br>
+- Help develop ideas on what types of services we can offer <br>
+- Address the needs of stations in regard to archiving <br>
+- Provide advice and recommendations on significant collections for preservation <br>
+- Collaborate on developing ways to engage with various user groups <br>
+- Provide website feedback <br>
+- Assist in outreach to their networks and communities (other public media <br>
+organizations, producers and leaders) and beyond <br>
 
 ### Current Stations and Producers Advisory Committee Members
 

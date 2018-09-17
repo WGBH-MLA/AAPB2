@@ -25,7 +25,7 @@ Edward Ayers  has been named National Professor of the Year, received the Nat
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Henry_Becton.jpg" alt="Henry Becton"/>
 ### Henry Becton
-#### Acting Chair
+#### Immediate Past Chair
 Henry Becton served as president of WGBH Educational Foundation from 1984 until October 2007, when he was named Vice Chairman. He served as WGBH's general manager from 1978 until 1999.  He is a Director of Public Radio International, the Public Radio Exchange (PRX) and American Documentary Inc. (POV). Henry is a former chairman of the Association of Public Television Stations and a former member of the boards of directors of PBS, the PBS Foundation and The Belo Corporation where he served as lead director. He is a director of Becton Dickinson and Company where he has served as its lead director, and is a trustee or director of various Deutsche mutual funds. He is a former President of the Board of Concord Academy and a former Trustee of Connecticut College, the Boston Museum of Science, the New England Aquarium and the North Bennett Street School.
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Beth_Courtney.jpg" alt="Beth Courtney" aria-hidden="true"/>
@@ -44,6 +44,7 @@ Ms. Courtney is married to Bob Courtney, President of Courtney Communications. S
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/lawson_photo.jpg" alt="Jennifer Lawson"/>
 ### Jennifer Lawson
+#### Vice Chair
 Jennifer Lawson is a media consultant based in Washington, DC.  In 2016, she became the most recent recipient of the Ralph Lowell Award, public television’s highest honor.  The Lowell Award is issued by the Corporation for Public Broadcasting (CPB) for outstanding achievement.  Lawson, who retired from CPB in that year, was also presented with lifetime achievement awards from American Public Television and the Public Television Programmers’ Association.  She is currently an advisor to a civil rights oral history archival project under the auspices of Duke University and the SNCC Legacy Project. 
 
 From 2011 – 2016, Lawson was Senior Vice President, Television and Digital Video Content at the CPB.  She was general manager of WHUT-TV, Washington DC from 2004 -2011 and during that time she co-produced, “Security vs. Liberty: The Other War”, for a 2007 PBS series, “American at the Crossroads.”  During the same time period, she served as Vice Chair of the PBS Board, Chair of the American Public Television Board and was a member of the Advisory Board of Washington Women in Film and Video.  
@@ -98,6 +99,7 @@ Ramer is a graduate of Princeton University and Harvard Law School. He is marrie
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Cokie_Roberts.jpg" alt="Cokie Roberts" aria-hidden="true"/>
 ### Cokie Roberts
+#### Vice Chair
 Cokie Roberts is a political commentator for ABC News, providing analysis for all network news programming. From 1996-2002, she and Sam Donaldson co-anchored the weekly ABC interview program This Week. Roberts also serves as Senior News Analyst for National Public Radio. In her more than 40 years in broadcasting, she has won countless awards, including three Emmys. She has been inducted into the Broadcasting and Cable Hall of Fame, and was cited by the American Women in Radio and Television as one of the 50 greatest women in the history of broadcasting.
 
 In addition to her appearances on the airwaves, Roberts, along with her husband, Steven V. Roberts, writes a weekly column syndicated in newspapers around the country by United Media. The Roberts also are contributing editors to USA Weekend Magazine, and in 2011 they published Our Haggadah, Uniting Traditions for Interfaith Families. Their earlier collaboration, From This Day Forward, an account of their more than 40 year marriage and other marriages in American history, immediately went onto The New York Times bestseller list. All of Cokie Roberts’s other books have also been best-sellers, including the number one bestseller, We Are Our Mothers’ Daughters, an account of women’s roles and relationships throughout American history. Her other bestselling books — Founding Mothers, published in 2004 and Ladies of Liberty in 2008 — are histories of women in America’s founding era. In 2014, Cokie Robert’s published a children’s version of Founding Mothers. Based on the original book, this version introduces young readers to the brave, brilliant, and enterprising women whose influence on the founding of our country was as instrumental as that of the men whose names are inked in history.
@@ -110,6 +112,7 @@ As a founding member of the NPR Board of Directors, Bill Siemering wrote NPR's o
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/woodruff_photo.jpg" alt="Judy Woodruff" aria-hidden="true"/>
 ### Judy Woodruff
+#### Chair
 Broadcast journalist Judy Woodruff is the Anchor and Managing Editor of the PBS NewsHour. She has covered politics and other news for more than four decades at CNN, NBC and PBS.
 
 For 12 years, Woodruff served as anchor and senior correspondent for CNN, where her duties included anchoring the weekday program, "Inside Politics." At PBS from 1983 to 1993, she was the chief Washington correspondent for The MacNeil/Lehrer NewsHour. From 1984-1990, she also anchored PBS' award-winning weekly documentary series, "Frontline with Judy Woodruff."
