@@ -176,7 +176,9 @@ class Exhibit < Cmless
       </div></a>)
     else
       img = Nokogiri::HTML(cover_html).css('img').first
-    %(<img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' class='exhibit-section'>)
+    %(<a href="#{path}">
+        <img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' class='exhibit-section'>
+      </a>)
     end
   end
 
