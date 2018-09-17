@@ -147,6 +147,7 @@ a.exhibit-color:hover {
 }
 
 .exhibit-notes {
+  margin-top: 8%;
   padding: 4%;
   background-color: #eee;
   border: 1px solid #bbb;
@@ -166,8 +167,10 @@ a.exhibit-color:hover {
 }
 
 .exhibit-section-container {
-  margin-left: 2%;
-  margin-right: 2%;
+  width: 100%;
+  /*padding-bottom: 25%;*/
+  /*margin-left: 2%;
+  margin-right: 2%;*/
 }
 
 .exhibit-section-disabled {
@@ -184,10 +187,12 @@ a.exhibit-color:hover {
 }
 
 .exhibit-sections-bar {
+  padding-bottom: 4%;
   background-color: #ddd;
 }
 
 .exhibit-section {
+  background-size: cover;
   width: 100%;
   padding-bottom: 25%;
 }

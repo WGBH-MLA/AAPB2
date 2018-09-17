@@ -16,7 +16,6 @@
       
     <div class="col-md-8">
 
-
       <div class="row">
  
         <div class="col-md-7"></div>
@@ -74,32 +73,38 @@
 
   <div class="row">
 
-    <div class="exhibit-sections-bar">
+    <div class="exhibit-sections-bar" style="">
 
       <h3 id="exhibit-sections-bar-title" class="exhibit-color">Exhibit Sections</h3>
 
-
-      <div class="row">
+      <div class="row" style="margin:0;">
 
         <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('resources') || ex.path.end_with?('notes')) } %>
 
         <!-- exhibits -->
         <% exes.first.each do |exhibit| %>
 
-          <div class="exhibit-section-container col-md-3">
-            <%= exhibit.cover.to_s.html_safe %>
+          <div class="col-md-3">
+            <div class="exhibit-section-container">
+              <%= exhibit.cover.to_s.html_safe %>
+            </div>
           </div>
 
         <% end %>
 
-        <!-- notez and resourcys -->
-        <% exes.last.each do |exhibit| %>
+        <div class="col-md-3">
+          <div class="exhibit-section-container">
 
-          <div class="exhibit-section-container col-md-3">
-            <%= exhibit.cover.to_s.html_safe %>
+            <!-- notez and resourcys -->
+            <% exes.last.each do |exhibit| %>
+
+              <%= exhibit.cover.to_s.html_safe %>
+                
+            <% end %>
+
           </div>
+        </div>
 
-        <% end %>
       </div>
     </div>
   </div>
