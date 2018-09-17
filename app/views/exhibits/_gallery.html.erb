@@ -8,12 +8,54 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
+
+
+<div id="exgal-popup-container" class="modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document" style="width: 90%; padding-bottom: 25%;">
+    <div class="modal-content">
+      <div id="exgal-popup">
+
+      </div>
+    </div>
+  </div>
+</div>
+
 <div id="exgal-main" data-total-items=<%= gallery_info.count %> data-current-item=1 class="exgal-container">
   <div class="row">
 
     <div class="col-md-12">
 
       <% gallery_info.each_with_index do |gal,i| %>
+
+        <!-- one modal container -->
+        <div class="exgal-popups <%= i != 0 ? 'hide' : '' %>">
+
+          <div class="row">
+            
+            <div class="col-md-9">
+              <div class="four-three-box">
+
+                <%= render(partial: 'exhibits/gallery_player',
+                            locals: {
+                              media_info: gal[:media_info]
+                            }) %>
+              </div>
+            </div>
+
+            <div class="col-md-3">
+
+              <h4 class="exhibit-color exgal-title"><%= gal[:title] %></h3>
+
+              <div class="exgal-caption">
+                <%= gal[:caption] %>
+              </div> 
+
+            </div>
+
+          </div>
+        </div>
+
+
 
         <!-- each gallery item container -->
         <div id="exgal-<%= i+1 %>" class="exgals <%= i != 0 ? 'hide' : '' %>">
@@ -54,7 +96,6 @@
 
       <% end %>
 
-
       <div class="row">
         
         <div class="col-md-12">
@@ -82,7 +123,6 @@
 <script type="text/javascript">
   
   $(document).ready(function() {
-
     $('.exgal-button').click(function() {
 
       var main = $('#exgal-main');
@@ -115,6 +155,12 @@
       main.attr("data-current-item", next_item);
       $('#current-item').text(next_item);
     });
+
+    // move modal gallery slides into modal
+    $('#exgal-popup').append( $('.exgal-popups') ); 
+
+    $('#exgal-popup-container').modal('show')
+
   });
 
 
