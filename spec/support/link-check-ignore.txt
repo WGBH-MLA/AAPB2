@@ -232,3 +232,9 @@ https://www.nps.gov/subjects/culturallandscapes/understand-cl.htm
 https://search.proquest.com/docview/133802747?accountid=12084
 http://www.pbs.org/wnet/americanmasters/
 http://www.pbs.org/wgbh/americanexperience/films/till/
+<<<<<<< HEAD
+=======
+https://mass.pbslearningmedia.org/collection/abolitionists
+https://docsouth.unc.edu/fpn/
+http://docsouth.unc.edu/fpn/
+>>>>>>> 895a9095c95ffe9bd23eb605a9dea21fc4d354b6

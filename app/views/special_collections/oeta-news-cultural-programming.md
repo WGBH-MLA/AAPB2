@@ -23,7 +23,11 @@ The Oklahoma Educational Television Authority (OETA) is Oklahoma's only statewid
 ## Resources
 
 - [Back In Time]( https://videos.oeta.tv/show/back-time/)
+<<<<<<< HEAD
 - [Oklahoma City Bombing]( http://www.okhistory.org/publications/enc/entry.php?entry=OK026) 
+=======
+- [Oklahoma City Bombing]( http://www.okhistory.org/publications/enc/entry.php?entry=OK026)
+>>>>>>> 895a9095c95ffe9bd23eb605a9dea21fc4d354b6
 - [OETA Story on Oklahoma Statehood]( https://www.youtube.com/watch?v=riv41-1hBiE)
 - [Stateline Excerpt: Oklahoma Outlaws]( https://www.youtube.com/watch?v=Gr6V1MJeLjc)
 - [Native Peoples of Oklahoma - Protecting Native American Communities - 4.2.4 OETA: White Man's Road]( https://www.youtube.com/watch?v=3IVDmeF1Lxc)
@@ -35,8 +39,16 @@ The Oklahoma Educational Television Authority (OETA) is Oklahoma's only statewid
 
 ## Funders
 
+<<<<<<< HEAD
 ## Help
 
 Records are described at an item level and all records contain brief descriptions. 
+=======
+- [![IMLS](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png "IMLS Logo")](https://www.imls.gov/)
+
+## Help
+
+Records are described at an item level and all records contain brief descriptions.
+>>>>>>> 895a9095c95ffe9bd23eb605a9dea21fc4d354b6
 
 ## Terms
