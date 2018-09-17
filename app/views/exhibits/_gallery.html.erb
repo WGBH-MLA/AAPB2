@@ -8,12 +8,30 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
-
-
 <div id="exgal-popup-container" class="modal" tabindex="-1" role="dialog">
-  <div class="modal-dialog" role="document" style="width: 90%; padding-bottom: 25%;">
-    <div class="modal-content">
-      <div id="exgal-popup">
+  <div class="modal-dialog" role="document" style="width: 90%;">
+    <div class="modal-content" style=" height: 50vh !important;">
+      <div id="exgal-popup"> 
+ 
+      </div>
+
+      <div class="row">
+        
+        <div class="col-md-9"></div>
+
+
+        <div class="col-md-3">
+          <div class="exgal-nav" style="float: left;">
+            <span class="exgal-button exgal-back">< Previous | </span>
+
+            <span class="exgal-count">
+              <span class="current-item">1</span>
+              of
+              <span><%= gallery_info.count %></span>
+            </span>
+            <span class="exgal-button exgal-forward"> | Next ></span>
+          </div>
+        </div>
 
       </div>
     </div>
@@ -28,12 +46,12 @@
       <% gallery_info.each_with_index do |gal,i| %>
 
         <!-- one modal container -->
-        <div class="exgal-popups <%= i != 0 ? 'hide' : '' %>">
+        <div class="exgal-popups exgals <%= i != 0 ? 'hide' : '' %>">
 
           <div class="row">
             
-            <div class="col-md-9">
-              <div class="four-three-box">
+            <div class="col-md-8">
+              <div class="">
 
                 <%= render(partial: 'exhibits/gallery_player',
                             locals: {
@@ -42,7 +60,7 @@
               </div>
             </div>
 
-            <div class="col-md-3">
+            <div class="col-md-4">
 
               <h4 class="exhibit-color exgal-title"><%= gal[:title] %></h3>
 
@@ -58,7 +76,7 @@
 
 
         <!-- each gallery item container -->
-        <div id="exgal-<%= i+1 %>" class="exgals <%= i != 0 ? 'hide' : '' %>">
+        <div class="exgal-<%= i+1 %> exgals <%= i != 0 ? 'hide' : '' %>">
           <div class="row">
       
             <div class="col-md-12">
@@ -100,15 +118,15 @@
         
         <div class="col-md-12">
 
-          <div id="exgal-nav" style="float:right; margin-right: 4%; margin-bottom: 4%; margin-top: 2%;">
-            <span class="exgal-button" id="exgal-back" class="">< Previous | </span>
+          <div class="exgal-nav" style="float:right;">
+            <span class="exgal-button exgal-back">< Previous | </span>
 
-            <span id="exgal-count">
-              <span id="current-item">1</span>
+            <span class="exgal-count">
+              <span class="current-item">1</span>
               of
               <span><%= gallery_info.count %></span>
             </span>
-            <span class="exgal-button" id="exgal-forward"> | Next ></span>
+            <span class="exgal-button exgal-forward"> | Next ></span>
           </div>
 
         </div>
@@ -129,14 +147,14 @@
       var total_items = parseFloat(main.attr("data-total-items"));
       var current_item = parseFloat(main.attr("data-current-item"));
 
-      if($(this).attr('id') == 'exgal-forward') {
+      if($(this).hasClass('exgal-forward')) {
         
         var next_item = current_item + 1;
 
         if(next_item == total_items){
           $(this).addClass('hide');
         } else {
-          $('#exgal-back').removeClass('hide');;
+          $('.exgal-back').removeClass('hide');;
         }
 
       } else {
@@ -146,19 +164,18 @@
         if(next_item == 1){
           $(this).addClass('hide');
         } else {
-          $('#exgal-forward').removeClass('hide');;
+          $('.exgal-forward').removeClass('hide');;
         }
       }
 
       $('.exgals').addClass('hide');
-      $('#exgal-' + next_item).removeClass('hide');
+      $('.exgal-' + next_item).removeClass('hide');
       main.attr("data-current-item", next_item);
-      $('#current-item').text(next_item);
+      $('.current-item').text(next_item);
     });
 
     // move modal gallery slides into modal
-    $('#exgal-popup').append( $('.exgal-popups') ); 
-
+    $('#exgal-popup').prepend( $('.exgal-popups') ); 
     $('#exgal-popup-container').modal('show')
 
   });
