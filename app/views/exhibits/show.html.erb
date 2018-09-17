@@ -12,7 +12,7 @@
     <li><%= @exhibit.title %></li>
   </ol>
 
-  <div class="row">
+  <div class="row" style="margin-bottom: 4%;">
       
     <div class="col-md-8">
 
@@ -106,6 +106,51 @@
         </div>
 
       </div>
+
+    </div>
+  </div>
+
+  <div class="row" style="">
+
+    <div class="col-md-4">
+
+      <% authors = @exhibit.authors %>
+
+      <div class="row" style="margin:0;">
+        
+        <h3 class="curator-title">Curator<%= authors.count > 1 ? 's' : '' %></h3>
+      </div>
+      
+      <div class="row">
+        <div class="col-md-12" style="margin-left: 4%;">
+
+          <!-- multiple authors where available -->
+          <%= render(partial: 'exhibits/authors',
+            locals: {
+              authors: authors
+            }) %>
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-md-8">
+      
+      <div class="row" style="">
+        
+        <h3 class="curator-title">Additional Resources</h3>
+      </div>
+      
+      <div class="row">
+        <div class="col-md-6">
+
+        </div>
+        <div class="col-md-6">
+
+        </div>
+      </div>
+
     </div>
   </div>
 
@@ -147,23 +192,6 @@
 
 <% content_for :sidebar do %>
 
-  <% authors = @exhibit.authors %>
-
-  <div class="panel panel-primary">
-    <div class="panel-heading">
-      <h3 class="panel-title">Curator<%= authors.count > 1 ? 's' : '' %></h3>
-    </div>
-    <div class="panel-body">
-
-
-      <!-- multiple authors where available -->
-      <%= render(partial: 'exhibits/authors',
-        locals: {
-          authors: authors
-        }) %>
-
-    </div>
-  </div>
 
   <%= render(partial: 'sidebar_nav',
              locals: {
