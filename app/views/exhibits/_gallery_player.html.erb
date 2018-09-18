@@ -1,7 +1,7 @@
 <% if media_info[:type] == 'video' || media_info[:type] == 'audio' %>
 
-  <div class="player">
-    <section class="videocontent">
+  <div class="player exgal-modal-height">
+    <section class="videocontent exhibit-player">
       <%=
         
         content_tag(media_info[:type],
@@ -30,7 +30,9 @@
   </div>
 
 <% elsif media_info[:type] == 'image' %>
-  <img src="<%= media_info[:url] %>" alt="<%= media_info[:alt] %>" title="<%= media_info[:title] %>">
+  <div class="exgal-modal-height" style="background-color: #000; background-image: url('<%= media_info[:url] %>'); background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
 <% elsif media_info[:type] == 'iframe' %>
-  <iframe src="<%= media_info[:url] %>"></iframe>
+  <div class="exgal-modal-height">
+    <iframe src="<%= media_info[:url] %>"></iframe>
+  </div>
 <% end %>
