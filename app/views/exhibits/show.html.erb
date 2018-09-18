@@ -61,6 +61,19 @@
 
     <div class="col-md-4" style="padding-right: 0;">
 
+          
+      <% if @exhibit.items.count > 0 %>
+        <div class="panel panel-primary view-all-gallery">
+          <div class="panel-body">
+            <div class="row">
+              <div class="col-sm-9"><h3><%= @exhibit.title %></h3></div>
+              <div class="col-sm-3"><a class="btn btn-primary" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>" data-no-turbolink='true'>Show All Items</a></div>
+            </div>
+          </div>
+        </div>
+      <% end %>
+
+
       <!-- whole gallery -->
       <%= render(partial: 'exhibits/gallery',
                   locals: {
