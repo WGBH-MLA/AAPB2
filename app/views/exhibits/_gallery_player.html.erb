@@ -30,7 +30,8 @@
   </div>
 
 <% elsif media_info[:type] == 'image' %>
-  <div class="exgal-modal-height" style="background-color: #000; background-image: url('<%= media_info[:url] %>'); background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+  <div class="exgal-modal-height <%= modal ? '' : 'four-three-box' %>" style="height: 100%; background-color: #000; background-image: url('<%= media_info[:url] %>'); background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+
 <% elsif media_info[:type] == 'iframe' %>
   <div class="exgal-modal-height">
     <iframe src="<%= media_info[:url] %>"></iframe>

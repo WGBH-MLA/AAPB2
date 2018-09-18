@@ -9,7 +9,7 @@
 
 <div id="exgal-popup-container" class="modal" tabindex="-1" role="dialog">
   <div class="modal-dialog" role="document" style="width: 90%;">
-    <div class="modal-content" style="margin-top: 20vh; height: 40vh !important;">
+    <div class="modal-content" style="margin-top: 20vh; height: 50vh !important;">
       <div id="exgal-popup" class="exgal-modal-height"> 
  
 
@@ -33,6 +33,10 @@
 
     <div class="col-md-12">
 
+      <div id="exgal-fullscreen-button">
+        you bozos
+      </div>
+
       <% gallery_info.each_with_index do |gal,i| %>
 
         <!-- one modal container -->
@@ -40,15 +44,16 @@
 
           <div class="row exgal-modal-height">
             
-            <div class="col-md-8">
+            <div class="col-sm-8 col-md-8">
 
               <%= render(partial: 'exhibits/gallery_player',
                           locals: {
+                            modal: true,
                             media_info: gal[:media_info]
                           }) %>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-sm-4 col-md-4">
 
               <h4 class="exhibit-color exgal-title"><%= gal[:title] %></h3>
 
@@ -72,6 +77,7 @@
                 <!-- whole gallery -->
                 <%= render(partial: 'exhibits/gallery_player',
                             locals: {
+                              modal: false,
                               media_info: gal[:media_info]
                             }) %>
               </div>
