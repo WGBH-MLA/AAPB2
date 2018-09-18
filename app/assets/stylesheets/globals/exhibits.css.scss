@@ -60,6 +60,11 @@ a.exhibit-color:hover {
   margin-right: 0;
 }
 
+#exgal-popup div.player section {
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+}
+
 .exgal-title {
   margin-left: 4%;
   margin-right: 4%;
@@ -218,4 +223,26 @@ a.exhibit-color:hover {
   font-weight: bold; 
   padding: 0.8em; 
   margin-bottom: 0%;
+}
+
+.exhibit-player {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  min-width: 100%;
+}
+
+.exgal-modal-height {
+  min-height: 100%;
+  height: 100%;
+  display: flex;
+}
+
+#exgal-modal-nav {
+  position: absolute;
+  right: 10%;
+  bottom: 0;
+  width: 200px;
+  height: 10px;
+ 
 }

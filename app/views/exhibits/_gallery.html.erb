@@ -10,30 +10,23 @@
 
 <div id="exgal-popup-container" class="modal" tabindex="-1" role="dialog">
   <div class="modal-dialog" role="document" style="width: 90%;">
-    <div class="modal-content" style=" height: 50vh !important;">
-      <div id="exgal-popup"> 
+    <div class="modal-content" style="margin-top: 20vh; height: 40vh !important;">
+      <div id="exgal-popup" class="exgal-modal-height"> 
  
-      </div>
 
-      <div class="row">
-        
-        <div class="col-md-9"></div>
+        <div id="exgal-modal-nav" class="exgal-nav">
+          <span class="exgal-button exgal-back">< Previous | </span>
 
-
-        <div class="col-md-3">
-          <div class="exgal-nav" style="float: left;">
-            <span class="exgal-button exgal-back">< Previous | </span>
-
-            <span class="exgal-count">
-              <span class="current-item">1</span>
-              of
-              <span><%= gallery_info.count %></span>
-            </span>
-            <span class="exgal-button exgal-forward"> | Next ></span>
-          </div>
+          <span class="exgal-count">
+            <span class="current-item">1</span>
+            of
+            <span><%= gallery_info.count %></span>
+          </span>
+          <span class="exgal-button exgal-forward"> | Next ></span>
         </div>
 
       </div>
+
     </div>
   </div>
 </div>
@@ -46,18 +39,16 @@
       <% gallery_info.each_with_index do |gal,i| %>
 
         <!-- one modal container -->
-        <div class="exgal-popups exgals <%= i != 0 ? 'hide' : '' %>">
+        <div class="exgal-<%= i+1 %> exgal-popups exgals <%= i != 0 ? 'hide' : '' %>">
 
-          <div class="row">
+          <div class="row exgal-modal-height">
             
             <div class="col-md-8">
-              <div class="">
 
-                <%= render(partial: 'exhibits/gallery_player',
-                            locals: {
-                              media_info: gal[:media_info]
-                            }) %>
-              </div>
+              <%= render(partial: 'exhibits/gallery_player',
+                          locals: {
+                            media_info: gal[:media_info]
+                          }) %>
             </div>
 
             <div class="col-md-4">
@@ -177,6 +168,21 @@
     // move modal gallery slides into modal
     $('#exgal-popup').prepend( $('.exgal-popups') ); 
     $('#exgal-popup-container').modal('show')
+
+
+    $(document).on('keypress', function(e) {
+      console.log(e.which)
+      var tag = e.target.tagName.toLowerCase();
+      if ( e.which === 37 || e.which == 39 && tag != 'input' && tag != 'textarea') {
+        if(e.which == 37) {
+          $('.exgal-back').click();
+        } else if(e.which == 39) {
+          $('.exgal-forward').click();
+        }
+      }
+    });
+
+
 
   });
 
