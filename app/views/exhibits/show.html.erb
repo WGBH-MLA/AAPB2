@@ -1,7 +1,7 @@
 <% content_for :main do %>
 
   <ol class="breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px;">
-    <li>◄ <a href="/exhibits">Exhibits</a></li>
+    <li> <span style="margin-right: 5px;">◄</span> <a href="/exhibits">Exhibits</a></li>
     
     <% @exhibit.ancestors.map do |ancestor| %>
     
@@ -30,7 +30,6 @@
       </div>
 
       <div class="row">
-
 
         <h3 class="exhibit-color">Overview</h3>
         
@@ -134,7 +133,6 @@
       </div>
     </div>
 
-
     <div class="col-md-8">
       
       <div class="row" style="">
@@ -142,12 +140,23 @@
         <h3 class="curator-title">Additional Resources</h3>
       </div>
       
-      <div class="row">
+      <div class="row" style="margin-left: 0;">
+        <% res = @exhibit.resources; left, right = res.each_slice( (res.size/2.0).round ).to_a %>
         <div class="col-md-6">
+          <% left.each do |r| %>
 
+            <div class="">
+              <a class="exhibit-color resource-link" href="<%= r[1] %>"><%= r[0] %></a>
+            </div>
+          <% end %>
         </div>
         <div class="col-md-6">
+          <% right.each do |r| %>
 
+            <div class="">
+              <a class="exhibit-color resource-link" href="<%= r[1] %>"><%= r[0] %></a>
+            </div>
+          <% end %>
         </div>
       </div>
 
