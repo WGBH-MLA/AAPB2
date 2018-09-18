@@ -1,4 +1,3 @@
-
 <% content_for(:head) do %>
   <link href="http://vjs.zencdn.net/5.11.7/video-js.css" rel="stylesheet" data-turbolinks-track>
   <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
@@ -24,9 +23,7 @@
           </span>
           <span class="exgal-button exgal-forward"> | Next ></span>
         </div>
-
       </div>
-
     </div>
   </div>
 </div>
@@ -63,8 +60,6 @@
 
           </div>
         </div>
-
-
 
         <!-- each gallery item container -->
         <div class="exgal-<%= i+1 %> exgals <%= i != 0 ? 'hide' : '' %>">
@@ -128,10 +123,11 @@
   </div>
 </div>
 
-
 <script type="text/javascript">
   
   $(document).ready(function() {
+
+    // handle gallery buttons
     $('.exgal-button').click(function() {
 
       var main = $('#exgal-main');
@@ -142,6 +138,10 @@
         
         var next_item = current_item + 1;
 
+        if(next_item == total_items+1){
+          return false
+        }
+
         if(next_item == total_items){
           $(this).addClass('hide');
         } else {
@@ -151,6 +151,9 @@
       } else {
 
         var next_item = current_item - 1;
+        if(next_item == 0){
+          return false;
+        }
 
         if(next_item == 1){
           $(this).addClass('hide');
@@ -169,22 +172,16 @@
     $('#exgal-popup').prepend( $('.exgal-popups') ); 
     $('#exgal-popup-container').modal('show')
 
-
-    $(document).on('keypress', function(e) {
-      console.log(e.which)
+    // nav with keyboard
+    $(document).keydown(function(e) {
       var tag = e.target.tagName.toLowerCase();
       if ( e.which === 37 || e.which == 39 && tag != 'input' && tag != 'textarea') {
         if(e.which == 37) {
-          $('.exgal-back').click();
+          $('.exgal-back')[0].click();
         } else if(e.which == 39) {
-          $('.exgal-forward').click();
+          $('.exgal-forward')[0].click();
         }
       }
     });
-
-
-
   });
-
-
 </script>
