@@ -106,10 +106,9 @@ class Exhibit < Cmless
 
   def main_abbrev
     @main_abbrev ||= begin
-      @main_html.gsub(/<img[^>]*>/, '')[0..300]
+      %(#{@main_html.gsub(/<img[^>]*>/, '')[0..300]}...)
     end
   end
-
 
   def resources
     @resources ||=
