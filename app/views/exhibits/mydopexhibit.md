@@ -108,7 +108,7 @@ Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Ba
 ## Gallery
 
 - <a class="type">video</a>
-  <a class="media_url">http://americanarchive.org/media/cpb-aacip_37-20sqvcx0?part=1</a>
+  <a class="media_url">/media/cpb-aacip_151-b56d21s06x</a>
   <a class="link" href="http://www.cpb.org/link1">this is where the link text goes 1</a>
   <a class="caption-title">This is the caption title 1</a>
   <a class="caption-text">This is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption text goes 2</a>

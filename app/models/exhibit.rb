@@ -175,10 +175,21 @@ class Exhibit < Cmless
         <div class="">Research Notes</div>
       </div></a>)
     else
+
+      bckcolor = "%06x" % (rand(0.2..0.4) * 0xffffff)
+
+
       img = Nokogiri::HTML(cover_html).css('img').first
       # <img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' > 
-    %(<a href="#{path}">
-        <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'></div>
+      %(<a style="" href="#{path}">
+        <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'>
+
+          <div style="position: absolute; bottom: 0; text-align: center; width: 90%; height:33%; padding: 5%; color: #fff; background-color: ##{bckcolor}; opacity: 0.3;"></div>
+
+          <div style="position: absolute; bottom: 0; text-align: center; width: 90%; height:33%; padding: 5%; color: #fff;">
+            #{title}
+          </div>
+        </div>
       </a>)
     end
   end

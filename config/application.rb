@@ -38,12 +38,12 @@ module Xyz
 
     config.cache_store = :memory_store
 
-    if Rails.env.development?
-      reload_gems = %w(cmless) # names of gems which should autoreload
-      config.autoload_paths += Gem.loaded_specs.values.inject([]){ |a,gem| a += gem.load_paths if reload_gems.include? gem.name; a }
-      require 'active_support/dependencies'
-      ActiveSupport::Dependencies.explicitly_unloadable_constants += reload_gems.map { |gem| gem.classify }
-    end
+    # if Rails.env.development?
+    #   reload_gems = %w(cmless) # names of gems which should autoreload
+    #   config.autoload_paths += Gem.loaded_specs.values.inject([]){ |a,gem| a += gem.load_paths if reload_gems.include? gem.name; a }
+    #   require 'active_support/dependencies'
+    #   ActiveSupport::Dependencies.explicitly_unloadable_constants += reload_gems.map { |gem| gem.classify }
+    # end
 
 
   end

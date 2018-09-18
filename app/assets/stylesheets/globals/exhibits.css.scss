@@ -248,10 +248,23 @@ a.exhibit-color:hover {
 
 #exgal-fullscreen-button {
   background-image: url('/assets/images/fullscreen.png');
+  background-size: cover;
+  background-repeat: no-repeat;
   position: absolute;
   right: 0;
   top: 0;
   width: 30px;
   height: 30px;
  
+}
+
+.breadcrumb > li + li:before {
+    color: #c55;
+    content: "◄ ";
+    padding: 0 5px;
+}
+
+.resource-link {
+  font-size: 14px;
+  /*line-height: 12px;*/
 }
