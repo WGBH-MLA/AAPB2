@@ -160,18 +160,20 @@ class Exhibit < Cmless
   end
 
   def cover
-    if path.end_with?('notes')
+    section_uri = %(/exhibits/#{path})
+
+    if section_uri.end_with?('notes')
       # learning goals nnooootes
-      %(<a href="#{path}"><div class="exhibit-notes">
+      %(<a href="#{section_uri}"><div class="exhibit-notes">
         <div class="exhibit-color">Resource:</div>
         <div class="">
           <img src="/assets/learning_goals.png" class="icon-med" style="top: -2px; position: relative;">
           Learning Goals
         </div>
       </div></a>)
-    elsif path.end_with?('resources')
+    elsif section_uri.end_with?('resources')
       # reeeeses notes
-      %(<a href="#{path}"><div class="exhibit-notes">
+      %(<a href="#{section_uri}"><div class="exhibit-notes">
         <div class="exhibit-color">Resource:</div>
 
         <div class="">
@@ -185,7 +187,7 @@ class Exhibit < Cmless
 
       img = Nokogiri::HTML(cover_html).css('img').first
       # <img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' > 
-      %(<a style="" href="#{path}">
+      %(<a style="" href="#{section_uri}">
         <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'>
 
           <div style="position: absolute; bottom: 0; text-align: center; width: 90%; height:33%; padding: 5%; color: #fff; background-color: ##{bckcolor}; opacity: 0.3;"></div>

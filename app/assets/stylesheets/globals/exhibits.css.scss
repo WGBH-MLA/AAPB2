@@ -179,10 +179,13 @@ a.exhibit-color:hover {
 
   li {
     top: -20px;
+    text-align: right;
+    margin-right: 8%;
   }
 
   li.item:hover {
     background-color: #ddd !important;
+    color: #9d2064;
   }
 }
 
