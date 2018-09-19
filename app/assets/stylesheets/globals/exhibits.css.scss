@@ -160,6 +160,10 @@ a.exhibit-color:hover {
     margin: 0;
   }
 
+  li {
+    top: -20px;
+  }
+
   li.item:hover {
     background-color: #ddd !important;
   }
@@ -289,4 +293,13 @@ a.exhibit-color:hover {
 
 a.exhibit-records:link, a.exhibit-records:visited {
   color: #fff !important;
+}
+
+.icon-size {
+  max-height: 0.5em;
+  height: 0.5em;
+  min-height: 0.5em;
+  max-width: 0.5em;
+  width: 0.5em;
+  min-width: 0.5em;  
 }
