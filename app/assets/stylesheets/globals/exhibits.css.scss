@@ -66,15 +66,23 @@ a.exhibit-color:hover {
 }
 
 .exgal-title {
-  margin-left: 4%;
-  margin-right: 4%;
   margin-top: 4%;
   margin-bottom: 1%;
+}
+
+.exgal-font {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .exgal-caption {
   font-size: 0.8rem;
   margin: 4%;
+  margin-left: 0%;
   margin-top: 1%;
   line-height: 1.6em;
 }
@@ -253,6 +261,7 @@ a.exhibit-color:hover {
 }
 
 #exgal-modal-nav {
+  margin-left: 6%;
   position: absolute;
   bottom: 20px;
   width: 160px;

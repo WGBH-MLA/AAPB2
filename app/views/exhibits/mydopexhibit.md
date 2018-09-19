@@ -106,21 +106,18 @@ Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Ba
 ## Gallery
 
 - <a class="type">video</a>
-  <a class="media_url">/media/cpb-aacip_151-b56d21s06x</a>
-  <a class="link" href="http://www.cpb.org/link1">this is where the link text goes 1</a>
-  <a class="caption-title">This is the caption title 1</a>
+  <a class="media-url">/media/cpb-aacip_151-b56d21s06x</a>
+  <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
   <a class="caption-text">This is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption text goes 2</a>
 - <a class="type">image</a>
-  <a class="link" href="http://www.cpb.org/link2">this is where the link text goes 2</a>
-  <img title="img title 2" alt="Alt text 2" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
-  <a class="caption-title">This is the caption title 2</a>
+  <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
   <a class="caption-text">This is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption text goes 2</a>
+  <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
 - <a class="type">image</a>
-  <a class="link" href="http://www.cpb.org/link3">this is where the link text goes 3</a>
-  <img title="img title 3" alt="Alt text 3" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg">
-  <a class="caption-title">This is the caption title 3</a>
-  <a class="caption-text">This is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption text goes 3</a>
-
+  <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
+  <a class="caption-text">This is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption text goes 2</a>
+  <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
+    
 ## Records
 
 - cpb-aacip_60-70msbm1d

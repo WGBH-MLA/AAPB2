@@ -134,13 +134,12 @@ class Exhibit < Cmless
       Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
  
         type = gallery_item.css('a.type').first.text
-        record_link = gallery_item.css('a.link').first
+        record_link = gallery_item.css('a.record-link').first
         caption = gallery_item.css('a.caption-text').first
-        title = gallery_item.css('a.caption-title').first
 
         media_info = if type == 'audio' || type == 'video' || type == 'iframe'
 
-          url = gallery_item.css('a.media_url').first.text
+          url = gallery_item.css('a.media-url').first.text
           {type: type, url: url}
         else #image
 
@@ -150,8 +149,8 @@ class Exhibit < Cmless
 
         {
           record_url: record_link['href'],
-          record_text: record_link.text,
-          title: title.text,
+          source_name: record_link.text,
+          # title: title.text,
           caption: caption.text,
           media_info: media_info          
         }

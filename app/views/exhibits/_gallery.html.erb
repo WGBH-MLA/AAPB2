@@ -10,8 +10,8 @@
 <div id="exgal-popup-container" class="modal" tabindex="-1" role="dialog">
   <div class="modal-dialog" role="document" style="width: 90%;">
     <div class="modal-content" style="margin-top: 20vh; height: 50vh !important;">
-      <div id="exgal-popup" class="exgal-modal-height"> 
- 
+      
+      <div id="exgal-popup" class="exgal-modal-height">  
         <!-- here goeth thee modal sliides -->
       </div>
 
@@ -42,8 +42,8 @@
               <img src="/assets/close.png" style="max-height: 0.9em; margin-bottom: 2%; padding-right: 24%;">
             </a>
           </div>
-
         </div>
+
       </div>
 
     </div>
@@ -77,12 +77,13 @@
 
             <div class="col-sm-4 col-md-4">
 
-              <h4 class="exgal-title"><a style="font-size: 14px;font-weight: normal; " class="exhibit-color" href="<%= gal[:link] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
+              <h4 class="exgal-title exgal-font"><a class="exhibit-color" href="<%= gal[:link] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
 
               <div class="exgal-caption">
                 <%= gal[:caption] %>
               </div> 
 
+              <h4 class="exgal-title exhibit-color exgal-font italic">Courtesy: <%= gal[:source_name] %></h4>
             </div>
 
           </div>
