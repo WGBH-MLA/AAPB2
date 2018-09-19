@@ -1,9 +1,11 @@
 <% if links.present? %>
 
-  <div  id="exhibit-section-menu" style="height: 2em;">
-    <li id="exhibit-section-head" style="margin-left: 8%;"><%= title %></li>
+  <div  id="exhibit-section-menu" >
+    <li id="exhibit-section-head" class="exhibit-color">Select from exhibit sections
+      <img src="/assets/read_more.png" class="icon-size">
+    </li>
 
-    <ul class="hide" id="exhibit-sections">
+    <ul  class="hide" id="exhibit-sections">
 
       <li class="exhibit-section-disabled" value="<%= @exhibit.parent ? @exhibit.parent.path : @exhibit.path %>">Overview</li>
 
