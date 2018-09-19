@@ -80,6 +80,14 @@ a.exhibit-color:hover {
 }
 
 .exgal-caption {
+  word-break: break-word;
+  font-size: 0.8rem;
+  margin: 4%;
+  margin-top: 1%;
+  line-height: 1.6em;
+}
+
+.exgal-modal-caption {
   font-size: 0.8rem;
   margin: 4%;
   margin-left: 0%;
@@ -136,7 +144,8 @@ a.exhibit-color:hover {
 }
 
 .exhibit-header {
-  background-image: url("https://s3.amazonaws.com/americanarchive.org/exhibits/exhibits_banner.jpg");
+  background-size: cover;
+  background-image: url("/assets/exhibits_red_bar.png");
   max-width: 1172px;
   height: 60px;
   h1 {
@@ -305,10 +314,19 @@ a.exhibit-records:link, a.exhibit-records:visited {
 }
 
 .icon-size {
-  max-height: 0.5em;
-  height: 0.5em;
-  min-height: 0.5em;
-  max-width: 0.5em;
-  width: 0.5em;
-  min-width: 0.5em;  
+  max-height: 0.7em;
+  height: 0.7em;
+  min-height: 0.7em;
+  max-width: 0.7em;
+  width: 0.7em;
+  min-width: 0.7em;  
+}
+
+.icon-big {
+  max-height: 1.4em;
+  height: 1.4em;
+  min-height: 1.4em;
+  max-width: 1.4em;
+  width: 1.4em;
+  min-width: 1.4em;  
 }

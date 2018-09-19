@@ -1,7 +1,7 @@
 <% content_for :main do %>
 
   <ol class="breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
-    <li> <span style="margin-right: 5px;">◄</span> <a href="/exhibits">Exhibits</a></li>
+    <li> <img src="/assets/breadcrumb.png" class="icon-size"> <a href="/exhibits">Exhibits</a></li>
     
     <% @exhibit.ancestors.map do |ancestor| %>
     
@@ -52,8 +52,14 @@
 
       <div class="row">
 
-        <span id="main-toggle" class="exhibit-color" style="float: right;">
-          Expand to read more 
+        <span class="exhibit-color" style="float: right;">
+          <span id="more">
+            Expand to read more <img src="/assets/read_more.png" class="icon-size">
+          </span>
+
+          <span id="less" class="hide">
+            Read less <img src="/assets/read_less.png" class="icon-size">
+          </span>
         </span>
 
       </div>
@@ -62,7 +68,11 @@
     <div class="col-md-4" style="padding-right: 0; ">
           
       <% if @exhibit.items.count > 0 %>
-        <div class="exhibit-records exhibit-records-link"><a class="exhibit-records" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>">View records from exhibit section</a></div>
+        <div class="exhibit-records exhibit-records-link">
+          <img src="/assets/eye2.png" class="icon-big" style="top: -1px; position: relative;">
+          <a class="exhibit-records" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>">View records from exhibit section</a>
+
+        </div>
       <% end %>
 
       <!-- whole gallery -->
@@ -150,7 +160,11 @@
           <% left.each do |r| %>
 
             <div class="">
-              <a class="exhibit-color resource-link" href="<%= r[1] %>"><%= r[0] %></a>
+              <a class="exhibit-color resource-link" href="<%= r[1] %>">
+                <img src="/assets/external_link.png" class="icon-size">
+                <%= r[0] %>
+                  
+              </a>
             </div>
           <% end %>
         </div>
@@ -158,7 +172,11 @@
           <% right.each do |r| %>
 
             <div class="">
-              <a class="exhibit-color resource-link" href="<%= r[1] %>"><%= r[0] %></a>
+              <a class="exhibit-color resource-link" href="<%= r[1] %>">
+                <img src="/assets/external_link.png" class="icon-size">
+                <%= r[0] %>
+                  
+              </a>
             </div>
           <% end %>
         </div>
@@ -176,8 +194,9 @@
   <script type="text/javascript">
     
     $(document).ready(function() {
-      $('#main-toggle').click(function() {
+      $('#more, #less').click(function() {
         $('#exhibit-main, #exhibit-abbrev').slideToggle().toggleClass('hide');
+        $('#more, #less').toggleClass('hide');
       })
     });
 
