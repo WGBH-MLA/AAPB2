@@ -164,18 +164,24 @@ class Exhibit < Cmless
       # learning goals nnooootes
       %(<a href="#{path}"><div class="exhibit-notes">
         <div class="exhibit-color">Resource:</div>
-        <div class="">Learning Goals</div>
+        <div class="">
+          <img src="/assets/learning_goals.png" class="icon-med" style="top: -2px; position: relative;">
+          Learning Goals
+        </div>
       </div></a>)
     elsif path.end_with?('resources')
       # reeeeses notes
       %(<a href="#{path}"><div class="exhibit-notes">
         <div class="exhibit-color">Resource:</div>
-        <div class="">Research Notes</div>
+
+        <div class="">
+          <img src="/assets/research_notes.png" class="icon-med" style="top: -2px; position: relative;">
+          Research Notes
+        </div>
       </div></a>)
     else
 
       bckcolor = "%06x" % (rand(0.2..0.4) * 0xffffff)
-
 
       img = Nokogiri::HTML(cover_html).css('img').first
       # <img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' > 

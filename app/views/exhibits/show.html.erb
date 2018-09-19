@@ -186,10 +186,13 @@
   </div>
 
   <!-- records -->
-  <%= render(partial: 'exhibits/records',
-              locals: {
-                records: @exhibit.records 
-              }) %>
+
+  <div class="hide">
+    <%= render(partial: 'exhibits/records',
+                locals: {
+                  records: @exhibit.records 
+                }) %>
+  </div>
 
   <script type="text/javascript">
     
@@ -209,14 +212,3 @@
            locals: {
              main: yield(:main)
            } %>
-
-<% content_for :sidebar do %>
-
-
-  <%= render(partial: 'sidebar_nav',
-             locals: {
-                title: 'Resources',
-                links: @exhibit.resources
-              }) if !@exhibit.resources.empty? %>
-
-<% end %>
