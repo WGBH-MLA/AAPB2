@@ -83,11 +83,14 @@ a.exhibit-color:hover {
   color: #999;
 }
 
-.exgal-nav {
 
+.exgal-nav-font {
   font-size: 0.8rem;
   font-weight: bold;
   color: #000;
+}
+
+.exgal-nav {
   margin-right: 4%;
   margin-bottom: 4%;
   margin-top: 2%;
@@ -240,9 +243,8 @@ a.exhibit-color:hover {
 
 #exgal-modal-nav {
   position: absolute;
-  right: 12%;
-  bottom: 0;
-  width: 200px;
+  bottom: 20px;
+  width: 160px;
   height: 10px;
 }
 
@@ -267,4 +269,17 @@ a.exhibit-color:hover {
 .resource-link {
   font-size: 14px;
   /*line-height: 12px;*/
+}
+
+.exhibit-records-link {
+  padding: 2%;
+  margin-bottom: 5%;
+}
+
+.exhibit-records {
+  background-color: #7D0000;
+}
+
+a.exhibit-records:link, a.exhibit-records:visited {
+  color: #fff !important;
 }

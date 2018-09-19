@@ -1,6 +1,6 @@
 <% content_for :main do %>
 
-  <ol class="breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px;">
+  <ol class="breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
     <li> <span style="margin-right: 5px;">◄</span> <a href="/exhibits">Exhibits</a></li>
     
     <% @exhibit.ancestors.map do |ancestor| %>
@@ -18,14 +18,14 @@
 
       <div class="row">
  
-        <div class="col-md-7"></div>
+        <div class="col-md-7">&nbsp;</div>
 
         <div class="col-md-5">
-            <%= render partial: 'sidebar_nav',
-                       locals: {
-                          title: 'Select from exhibit themes',
-                          links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
-                        } %>
+          <%= render partial: 'sidebar_nav',
+                     locals: {
+                        title: 'Select from exhibit themes',
+                        links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
+                      } %>
         </div>
       </div>
 
@@ -59,20 +59,11 @@
       </div>
     </div>
 
-    <div class="col-md-4" style="padding-right: 0;">
-
+    <div class="col-md-4" style="padding-right: 0; ">
           
       <% if @exhibit.items.count > 0 %>
-        <div class="panel panel-primary view-all-gallery">
-          <div class="panel-body">
-            <div class="row">
-              <div class="col-sm-9"><h3><%= @exhibit.title %></h3></div>
-              <div class="col-sm-3"><a class="btn btn-primary" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>" data-no-turbolink='true'>Show All Items</a></div>
-            </div>
-          </div>
-        </div>
+        <div class="exhibit-records exhibit-records-link"><a class="exhibit-records" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>">View records from exhibit theme</a></div>
       <% end %>
-
 
       <!-- whole gallery -->
       <%= render(partial: 'exhibits/gallery',

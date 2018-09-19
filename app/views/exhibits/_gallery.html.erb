@@ -12,18 +12,38 @@
     <div class="modal-content" style="margin-top: 20vh; height: 50vh !important;">
       <div id="exgal-popup" class="exgal-modal-height"> 
  
+        <!-- here goeth thee modal sliides -->
+      </div>
 
-        <div id="exgal-modal-nav" class="exgal-nav">
-          <span class="exgal-button exgal-back">< Previous | </span>
+      <div class="row">
+        <div class="col-md-8">
+        </div>
 
-          <span class="exgal-count">
-            <span class="current-item">1</span>
-            of
-            <span><%= gallery_info.count %></span>
-          </span>
-          <span class="exgal-button exgal-forward"> | Next ></span>
+        <div class="col-md-3">
+
+          <div id="exgal-modal-nav" class="exgal-nav exgal-nav-font">
+
+            <span class="exgal-button exgal-back">< Previous | </span>
+
+            <span class="exgal-count">
+              <span class="current-item">1</span>
+              of
+              <span><%= gallery_info.count %></span>
+            </span>
+            <span class="exgal-button exgal-forward"> | Next ></span>
+          </div>
+
+        </div>
+
+        <div class="col-md-1">
+          <div style="position: absolute; bottom: 20px;">
+
+ close the ting
+          </div>
+
         </div>
       </div>
+
     </div>
   </div>
 </div>
@@ -34,7 +54,7 @@
     <div class="col-md-12">
 
       <div id="exgal-fullscreen-button">
-        you bozos
+        full screeny
       </div>
 
       <% gallery_info.each_with_index do |gal,i| %>
@@ -110,7 +130,7 @@
         
         <div class="col-md-12">
 
-          <div class="exgal-nav" style="float:right;">
+          <div class="exgal-nav exgal-nav-font" style="float:right;">
             <span class="exgal-button exgal-back">< Previous | </span>
 
             <span class="exgal-count">
@@ -176,7 +196,7 @@
 
     // move modal gallery slides into modal
     $('#exgal-popup').prepend( $('.exgal-popups') ); 
-    // $('#exgal-popup-container').modal('show')
+    $('#exgal-popup-container').modal('show')
 
     // nav with keyboard
     $(document).keydown(function(e) {

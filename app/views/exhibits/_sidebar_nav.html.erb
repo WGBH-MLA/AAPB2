@@ -1,33 +1,29 @@
-<div class="panel panel-primary">
-  <div class="panel-body">
-    <% if links.present? %>
+<% if links.present? %>
 
-      <div  id="exhibit-section-menu">
-        <li id="exhibit-section-head" style="margin-left: 8%;"><%= title %></li>
+  <div  id="exhibit-section-menu" style="height: 2em;">
+    <li id="exhibit-section-head" style="margin-left: 8%;"><%= title %></li>
 
-        <ul class="hide" id="exhibit-sections">
+    <ul class="hide" id="exhibit-sections">
 
-          <li class="exhibit-section-disabled" value="<%= @exhibit.parent ? @exhibit.parent.path : @exhibit.path %>">Overview</li>
+      <li class="exhibit-section-disabled" value="<%= @exhibit.parent ? @exhibit.parent.path : @exhibit.path %>">Overview</li>
 
-          <% links.each do |name,link,subs=nil| %>
-            <li class="item" value="<%= link %>">
-              <%= link ? link_to(name, link, class: current_page(link)) : content_tag('a', name) if false %>
-              <%= name %>
-              <%# <a> in either case for consistent style. %>
-            </li>
-            <% if subs %><%# This could be recursive... %>
-              <ul>
-                <% subs.each do |name,link| %>
-                  <li>&bull; <%= link_to(name, link) %></li>
-                <% end %>
-              </ul>
+      <% links.each do |name,link,subs=nil| %>
+        <li class="item" value="<%= link %>">
+          <%= link ? link_to(name, link, class: current_page(link)) : content_tag('a', name) if false %>
+          <%= name %>
+          <%# <a> in either case for consistent style. %>
+        </li>
+        <% if subs %><%# This could be recursive... %>
+          <ul>
+            <% subs.each do |name,link| %>
+              <li>&bull; <%= link_to(name, link) %></li>
             <% end %>
-          <% end %>
-        </ul>
-      </div>
-    <% end %>
+          </ul>
+        <% end %>
+      <% end %>
+    </ul>
   </div>
-</div>
+<% end %>
 
 
 <script type="text/javascript">
