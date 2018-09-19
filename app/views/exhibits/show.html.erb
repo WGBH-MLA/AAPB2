@@ -23,7 +23,6 @@
         <div class="col-md-5">
           <%= render partial: 'sidebar_nav',
                      locals: {
-                        title: 'Select from exhibit sections',
                         links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
                       } %>
         </div>

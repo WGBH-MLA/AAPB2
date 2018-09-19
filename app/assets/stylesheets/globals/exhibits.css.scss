@@ -160,16 +160,11 @@ a.exhibit-color:hover {
 
 /*section menu*/
 #exhibit-section-menu {
+  padding: 2%;
   width: 90%;
   background-color: #fff !important;
   position: absolute;
   border: 1px solid #ccc;
-
-  ul {
-    border-left: 1px solid #ccc;
-    border-right: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
-  }
 
   ul, li {
     background-color: #fff !important;
@@ -181,6 +176,7 @@ a.exhibit-color:hover {
     top: -20px;
     text-align: right;
     margin-right: 8%;
+    /*padding: 2%;*/
   }
 
   li.item:hover {
@@ -206,7 +202,8 @@ a.exhibit-color:hover {
 }
 
 #exhibit-section-head {
-
+  margin-left: 8%;
+  font-weight: bold;
 }
 
 .exhibit-section-container {
