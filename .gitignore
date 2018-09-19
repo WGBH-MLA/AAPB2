@@ -15,7 +15,7 @@
 /log/*
 /tmp/*
 !/tmp/restart.txt
-/aapb-remote-storage/log/*
+/aapb-remote-storage/*
 
 # Ignore jetty instance
 jetty
