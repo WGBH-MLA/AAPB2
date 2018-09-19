@@ -14,7 +14,7 @@ KOPN was founded in Columbia, Missouri in 1973, as an alternative to the first l
 
 ## Featured
 
-[Thumbnail Image for Audio Files](https://drive.google.com/open?id=1hlxHCbTmQC0_1eUkVP5qtt0utee17EJQ "Thumbnail Image for Audio Files")
+[Thumbnail Image for Audio Files](https://drive.google.com/open?id=1D44QH6CZk0Q-gbDBkOU-EzycvSaDBRSM "Thumbnail Image for Audio Files")
 
 
 - [Paule Marshall at Columbia College, 1984](/catalog/cpb-aacip/518-m61bk17s29)
