@@ -23,7 +23,7 @@
         <div class="col-md-5">
           <%= render partial: 'sidebar_nav',
                      locals: {
-                        title: 'Select from exhibit themes',
+                        title: 'Select from exhibit sections',
                         links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
                       } %>
         </div>
@@ -62,7 +62,7 @@
     <div class="col-md-4" style="padding-right: 0; ">
           
       <% if @exhibit.items.count > 0 %>
-        <div class="exhibit-records exhibit-records-link"><a class="exhibit-records" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>">View records from exhibit theme</a></div>
+        <div class="exhibit-records exhibit-records-link"><a class="exhibit-records" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>">View records from exhibit section</a></div>
       <% end %>
 
       <!-- whole gallery -->
