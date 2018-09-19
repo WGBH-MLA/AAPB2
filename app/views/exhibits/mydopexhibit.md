@@ -108,7 +108,7 @@ Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Baka Shinji! Ba
 - <a class="type">video</a>
   <a class="media-url">/media/cpb-aacip_151-b56d21s06x</a>
   <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
-  <a class="caption-text">This is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption text goes 2</a>
+  <a class="caption-text">Soulja Boy up in this Watch me lean then watch me rock Superman dat Yeah, watch me crank that Robocop Super fresh, now watch me jock Jocking on them haters, man When I do that Soulja Boy I lean to the left then crank that thang, now (yuuuuuu) I'm jocking on yo' (I'm jocking on yo') And if we get to fightin' then I'm cocking on yo' (then I'm cocking on yo') You catch me at yo' local party Yes, I crank it everyday Haters gettin' mad 'cause "I got me some Bathin' Ape"</a>
 - <a class="type">image</a>
   <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
   <a class="caption-text">This is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption textThis is where the caption text goes 2</a>

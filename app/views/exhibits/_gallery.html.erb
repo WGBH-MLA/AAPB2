@@ -79,7 +79,7 @@
 
               <h4 class="exgal-title exgal-font"><a class="exhibit-color" href="<%= gal[:link] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
 
-              <div class="exgal-caption">
+              <div class="exgal-modal-caption">
                 <%= gal[:caption] %>
               </div> 
 
@@ -199,7 +199,7 @@
 
     // move modal gallery slides into modal
     $('#exgal-popup').prepend( $('.exgal-popups') ); 
-    $('#exgal-popup-container').modal('show')
+    // $('#exgal-popup-container').modal('show')
 
     // nav with keyboard
     $(document).keydown(function(e) {
