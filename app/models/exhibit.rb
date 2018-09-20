@@ -173,6 +173,8 @@ class Exhibit < Cmless
   def cover
     section_uri = %(/exhibits/#{path})
 
+    puts path
+
     if section_uri.end_with?('notes')
       # learning goals nnooootes
       %(<a href="#{section_uri}"><div class="exhibit-notes">
