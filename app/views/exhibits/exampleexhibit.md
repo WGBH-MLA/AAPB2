@@ -6,6 +6,8 @@ This is where the Summary text goes. This is where the Summary text goes. This i
 
 ## Extended 
 
+Extended content goes here.
+
 ## Authors
 
 - <img class="img-circle pull-left" src="/assets/author2.png"/>
