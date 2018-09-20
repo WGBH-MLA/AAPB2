@@ -60,6 +60,10 @@ a.exhibit-color:hover {
   margin-right: 0;
 }
 
+.exgal-main-margin {
+  margin-left: 4%;
+}
+
 #exgal-popup div.player section {
   margin-left: 0 auto;
   margin-right: 0 auto;
@@ -278,14 +282,15 @@ a.exhibit-color:hover {
 }
 
 #exgal-fullscreen-button {
-  background-image: url('/assets/images/fullscreen.png');
+  z-index: 20;
+  background-image: url('/assets/fullscreen.png');
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
-  right: 0;
-  top: 0;
-  width: 30px;
-  height: 30px;
+  right: 1.5em;
+  top: 0.5em;
+  width: 2em;
+  height: 2em;
  
 }
 
