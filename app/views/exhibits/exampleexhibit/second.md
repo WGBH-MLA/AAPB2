@@ -4,12 +4,12 @@
 
 ## Summary
 
-![The 51st State, 1974](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg "The 51st State, 1974")
+![The 51st State, 1974](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg "The 51st State, 1974")
 
 The American Archive of Public Broadcasting holds significant material related to the pioneers responsible for shaping the newsmagazine format during the 1960s and 70s. The people and programs highlighted here reveal the origins of the newsmagazine in documentary news reporting, the development of a program structure combining multiple features, and the impact specific producers had on popularizing this unique form of news presentation. These precedents, when brought together through AAPB, establish a newsmagazine genealogy that begins with American broadcasting icon Edward R. Murrow and his producer Fred Friendly, who later became an important force in public television.
 
 ## Cover
-  <img title="cover title 2" alt="Alt cover 2" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg">
+  <img title="cover title 2" alt="Alt cover 2" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
 
 ## Gallery
 
