@@ -7,16 +7,16 @@
 
     <ul  class="hide" id="exhibit-sections">
 
-      <li class="exhibit-section-disabled" value="<%= @exhibit.parent ? @exhibit.parent.path : @exhibit.path %>">Overview</li>
-
+      <li class="exhibit-section-disabled item" value="<%= @exhibit.parent ? @exhibit.parent.path : @exhibit.path %>">
+        <a class="exhibit-color" href="/exhibits/<%= @exhibit.path %>">Overview</a>      
+      </li>
 
       <% sortedlinks = links.partition {|l| !(l[0] == 'Resources' || l[0] == 'Notes') } %>
 
       <% sortedlinks.first.each do |name,link,subs=nil| %>
 
-        <li class="item" value="<%= link %>">
-          <%= link ? link_to(name, link, class: current_page(link)) : content_tag('a', name) if false %>
-          <%= name %>
+        <li class="item" value="<%= link %>" class="<%= current_page(link)  %>">
+          <%= link ? link_to(name, link, class: %(exhibit-color)) : content_tag('a', name)%>
           <%# <a> in either case for consistent style. %>
         </li>
 
@@ -29,7 +29,6 @@
         <% end %>
 
       <% end %>
-
 
       <% sortedlinks.last.each do |name,link,subs=nil| %>
 
