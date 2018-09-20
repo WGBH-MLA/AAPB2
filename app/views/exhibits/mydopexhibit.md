@@ -4,6 +4,8 @@
 
 ## Summary
 
+![Front Street Weekly news anchors preparing behind the scenes](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "Front Street Weekly news anchors preparing behind the scenes")
+
 Like a cruel angel Young man, become a legend  Even if the blue wind knocks on the door of your chest now You’re still looking only at me and smiling Absorbed in yearning for things that you gently touch Your childish eyes still don’t even know destiny  But will you notice someday? That on your back There are wings for aiming for the faraway future  A cruel angel’s these will take off from the windowsill before long On a surging, hot pathos, if you betray your memories Embracing this universe and shining Young man, become a legend  You’re forever sleeping in my cradle of love Only you are the coming morning called upon by the messenger of dreams The moonlight is reflecting your slender nape You want to stop all the time in the world and shut them in, but-  If there’s a meaning in the fact that we were able meet Then that’s right, it’s the bible for me to know freedom  In a cruel angel’s these, the sadness will then start The shape of the life that you embraced is the moment when you woke from your dream Shining more light than anyone else Young man, become a legend  While people weave love, they create history I still can’t become a goddess, yet I’ll live  A cruel angel’s these will take off from the windowsill before long On a surging, hot pathos, if you betray your memories Embracing this universe and shining Young man, become a legend 
 
 ## Extended 
