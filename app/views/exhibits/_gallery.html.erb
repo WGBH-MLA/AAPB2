@@ -65,7 +65,7 @@
 
           <div class="row exgal-modal-height">
             
-            <div class="col-sm-8 col-md-8">
+            <div class="col-sm-8 col-md-8 col-lg-8">
 
               <%= render(partial: 'exhibits/gallery_player',
                           locals: {
@@ -74,9 +74,9 @@
                           }) %>
             </div>
 
-            <div class="col-sm-4 col-md-4">
+            <div class="col-sm-4 col-md-4 col-lg-4">
 
-              <h4 class="exgal-title exgal-font"><a class="exhibit-color" href="<%= gal[:link] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
+              <h4 class="exgal-modal-title exgal-font"><a class="exhibit-color" href="<%= gal[:link] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
 
               <div class="exgal-modal-caption">
                 <%= gal[:caption] %>
