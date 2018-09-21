@@ -51,14 +51,8 @@ class Exhibit < Cmless
     begin
 
       img = Nokogiri::HTML(summary_html).xpath('//img[1]/@src').first
-
-      unless img
-        Nokogiri::HTML(gallery_html).xpath('//img').first
-      end
-
-      unless img
-        Nokogiri::HTML(main_html).xpath('//img').first
-      end
+      img = Nokogiri::HTML(gallery_html).xpath('//img').first unless img
+      img = Nokogiri::HTML(main_html).xpath('//img').first unless img
 
       img.try(:text) || '<img src="" alt="" title="">'
     end
@@ -138,7 +132,7 @@ class Exhibit < Cmless
   def records
     @records ||=
     begin
-      Nokogiri::HTML(records_html).xpath('//li').map { |li| li.text }
+      Nokogiri::HTML(records_html).xpath('//li').map(&:text)
     end
   end
 
@@ -155,11 +149,11 @@ class Exhibit < Cmless
         media_info = if type == 'audio' || type == 'video' || type == 'iframe'
 
           url = gallery_item.css('a.media-url').first.text
-          {type: type, url: url}
-        else #image
+          { type: type, url: url }
+        else # image
 
           img = gallery_item.css('img').first
-          {type: 'image', url: img[:src], alt: img[:alt], title: img[:title]}
+          { type: 'image', url: img[:src], alt: img[:alt], title: img[:title] }
         end
 
         {
@@ -169,7 +163,7 @@ class Exhibit < Cmless
           caption: caption.text,
           media_info: media_info
         }
-          
+
       end
     end
   end
@@ -201,7 +195,6 @@ class Exhibit < Cmless
       bckcolor = "%06x" % (rand(0.2..0.4) * 0xffffff)
 
       img = Nokogiri::HTML(cover_html).css('img').first
-      # <img src='#{img['src']}' alt='#{img['alt']}' title='#{img['title']}' > 
       %(<a style="" href="#{section_uri}">
         <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'>
 
@@ -217,8 +210,8 @@ class Exhibit < Cmless
 
   def authors
     @authors ||=
-    begin
-      Nokogiri::HTML(authors_html).xpath('//li').map { |li| {img_url: li.xpath('./img').first['src'], title: li.css('a.title').first.text, name: li.css('a.name').first.text } }
-    end
+      begin
+        Nokogiri::HTML(authors_html).xpath('//li').map { |li| { img_url: li.xpath('./img').first['src'], title: li.css('a.title').first.text, name: li.css('a.name').first.text } }
+      end
   end
 end
