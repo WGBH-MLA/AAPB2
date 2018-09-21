@@ -7,10 +7,10 @@ class Exhibit < Cmless
 
   attr_reader :summary_html
   attr_reader :extended_html
-    
-  # TODO remove once exhibits are edited to new format
+
+  # TODO: remove once exhibits are edited to new format
   # attr_reader :author_html
-  
+
   attr_reader :main_html
   attr_reader :resources_html
 
@@ -48,6 +48,7 @@ class Exhibit < Cmless
 
   def thumbnail_url
     @thumbnail_url ||=
+    begin
 
       img = Nokogiri::HTML(summary_html).xpath('//img[1]/@src').first
 
@@ -60,6 +61,7 @@ class Exhibit < Cmless
       end
 
       img.try(:text) || '<img src="" alt="" title="">'
+    end
   end
 
   def ids
@@ -123,12 +125,14 @@ class Exhibit < Cmless
 
   def resources
     @resources ||=
+    begin
       Nokogiri::HTML(resources_html).xpath('//a').map do |el|
         [
           el.text,
           el.attribute('href').to_s
         ]
       end
+    end
   end
   
   def records
@@ -163,7 +167,7 @@ class Exhibit < Cmless
           source_name: record_link.text,
           # title: title.text,
           caption: caption.text,
-          media_info: media_info          
+          media_info: media_info
         }
           
       end
