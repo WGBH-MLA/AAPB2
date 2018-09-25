@@ -34,11 +34,15 @@
 
         <li class="item" value="<%= link %>">
           <% if name == 'Resources' %>
-            <img src="/assets/research_notes.png" class="icon-size">
-            Research Notes
+            <a href="<%= link %>">
+              <img src="/assets/research_notes.png" class="icon-size">
+              Research Notes
+            </a>
           <% elsif name == "Notes" %>
-            <img src="/assets/learning_goals.png" class="icon-size">
-            Learning Goals
+            <a href="<%= link %>">
+              <img src="/assets/learning_goals.png" class="icon-size">
+              Learning Goals
+            </a>
           <% end %>
           <%# <a> in either case for consistent style. %>
         </li>
