@@ -56,6 +56,6 @@ The Main Section is a section where the main content will be displayed. No other
     
 ## Records
 
-- cpb-aacip_60-70msbm1d
-- cpb-aacip_15-9fj29c7n
-- cpb-aacip_500-9z90dj38
+- /catalog/cpb-aacip_60-70msbm1d
+- /catalog/cpb-aacip_15-9fj29c7n
+- /catalog/cpb-aacip_500-9z90dj38
