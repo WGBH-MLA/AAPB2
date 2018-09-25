@@ -34,16 +34,11 @@ RSpec.configure do |config|
     # only run this where the mailer class is available
     if Object.const_defined?('Notifier')
 
-      filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
-      if File.exist?(filename)
-        # EMAIL that files!
-        num_links = CSV.read(Rails.root + filename).length
-        Notifier.send_link_checker_report(Rails.root + filename, num_links).deliver
-        File.delete(filename)
-      else
-        Notifier.send_link_checker_clear.deliver
+      run_linkchecker = YAML.load(ERB.new(File.new(Rails.root + 'config/aws_ses.yml').read).result)['run_linkchecker']
+      
+      if run_linkchecker
+        Notifier.link_checker_report
       end
-
     end
   end
 end
