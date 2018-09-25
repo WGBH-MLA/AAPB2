@@ -5,7 +5,7 @@ class Notifier < ActionMailer::Base
     @today = Time.now.strftime('%m.%d.%Y')
     filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
 
-    found_file = File.exists?(filename)
+    found_file = File.exist?(filename)
 
     if found_file
       num_links = CSV.read(Rails.root + filename).length
