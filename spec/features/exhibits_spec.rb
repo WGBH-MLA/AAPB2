@@ -16,4 +16,11 @@ describe 'Exhibits' do
       expect_fuzzy_xml
     end
   end
+
+  it 'gets all components of a gallery item' do
+
+    visit '/exhibits/exampleexhibit'
+    expect page.find(:css, 'div.exgal1 div.exgal-caption').to have_content "This is the caption text for the first gallery item."
+  end
+
 end
