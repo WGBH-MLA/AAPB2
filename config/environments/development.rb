@@ -34,4 +34,6 @@ Rails.application.configure do
 
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
+  config.serve_static_assets = false
+  config.reload_classes_only_on_change = false
 end
