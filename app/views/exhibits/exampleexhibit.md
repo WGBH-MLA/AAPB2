@@ -51,7 +51,7 @@ The Main Section is a section where the main content will be displayed. No other
 
 - <a class="type">image</a>
   <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
-  <a class="caption-text">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>
+  <a class="caption-text">This is the caption text for the third gallery item. This is the caption text for the third gallery item. This is the caption text for the third gallery item. This is the caption text for the third gallery item. This is the caption text for the third gallery item. </a>
   <img title="cover title 3" alt="Alt cover 3" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
     
 ## Records

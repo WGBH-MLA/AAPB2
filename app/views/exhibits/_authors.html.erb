@@ -3,7 +3,7 @@
   <% authors.each do |author| %>
 
     <div class="author-txt">
-      <h4 class="exhibit-color"><%= author[:name] %></h4>
+      <h4 class="<%= @exhibit_color %>"><%= author[:name] %></h4>
       <span><%= author[:title] %></span>
     </div>
 

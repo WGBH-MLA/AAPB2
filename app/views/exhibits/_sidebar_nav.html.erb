@@ -1,14 +1,14 @@
 <% if links.present? %>
 
   <div  id="exhibit-section-menu" >
-    <li id="exhibit-section-head" class="exhibit-color">Select from exhibit sections
+    <li id="exhibit-section-head" class=<%= @exhibit_color %>">Select from exhibit sections
       <img src="/assets/read_more.png" class="icon-size">
     </li>
 
     <ul  class="hide" id="exhibit-sections">
 
       <li class="exhibit-section-disabled item" value="<%= @exhibit.parent ? @exhibit.parent.path : @exhibit.path %>">
-        <a class="exhibit-color" href="/exhibits/<%= @exhibit.path %>">Overview</a>      
+        <a class=<%= @exhibit_color %>" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>      
       </li>
 
       <% sortedlinks = links.partition {|l| !(l[0] == 'Resources' || l[0] == 'Notes') } %>
