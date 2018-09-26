@@ -199,9 +199,9 @@ class Exhibit < Cmless
       %(<a style="" href="#{section_uri}">
         <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'>
 
-          <div style="position: absolute; bottom: 0; text-align: center; width: 90%; height:33%; padding: 5%; color: #fff; background-color: ##{bckcolor}; opacity: 0.3;"></div>
+          <div class="exhibit-cover-overlay" style="background-color: ##{bckcolor};"></div>
 
-          <div style="position: absolute; bottom: 0; text-align: center; width: 90%; height:33%; padding: 5%; color: #fff;">
+          <div class="exhibit-cover-text" style="">
             #{title}
           </div>
         </div>
