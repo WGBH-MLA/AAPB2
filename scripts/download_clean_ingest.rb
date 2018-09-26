@@ -115,7 +115,7 @@ class DownloadCleanIngest
     log_file_name = if @is_stdout_log
                       $stdout
                     else
-                      Rails.root + "aapb-remote-storage/log/ingest-#{sanitized_argv}.log"
+                      Rails.root + "log/ingest-#{sanitized_argv}.log"
     end
     $LOG = Logger.new(log_file_name, 'daily')
     $LOG.formatter = proc do |severity, datetime, _progname, msg|
