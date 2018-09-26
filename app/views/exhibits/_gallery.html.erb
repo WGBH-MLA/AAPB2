@@ -82,7 +82,7 @@
                 <%= gal[:caption] %>
               </div> 
 
-              <h4 id="exgal-modal-source" class="exgal-title <%= @exhibit_color %> exgal-font italic">Courtesy: <%= gal[:source_name] %></h4>
+              <h4 class="exgal-modal-source exgal-title <%= @exhibit_color %> exgal-font italic">Courtesy: <%= gal[:source_name] %></h4>
             </div>
 
           </div>
@@ -106,26 +106,28 @@
             </div>
           </div>
 
-          <div class="row">
-            <div class="col-md-12">
+          <% if gallery_info.present? %>
+            <div class="row">
+              <div class="col-md-12">
 
-              <h4 class="<%= @exhibit_color %> exgal-title"><%= gal[:title] %></h3>
+                <h4 class="<%= @exhibit_color %> exgal-title"><%= gal[:title] %></h3>
 
-              <div class="exgal-caption">
-                <%= gal[:caption] %>
-              </div> 
+                <div class="exgal-caption">
+                  <%= gal[:caption] %>
+                </div> 
 
-              <h4 class="exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin">Courtesy: <%= gal[:source_name] %></h4>
-              
+                <h4 class="exgal-source exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin">Courtesy: <%= gal[:source_name] %></h4>
+                
+              </div>
             </div>
-          </div>
 
-          <div class="row">
-            <div class="col-md-12">
+            <div class="row">
+              <div class="col-md-12">
 
-              <a class="<%= @exhibit_color %> exgal-record" href="<%= gal[:record_url] %>"><%= gal[:record_text] %></a>
-            </div>          
-          </div>          
+                <a class="<%= @exhibit_color %> exgal-record" href="<%= gal[:record_url] %>"><%= gal[:record_text] %></a>
+              </div>          
+            </div>
+          <% end %>
         </div>
 
       <% end %>
