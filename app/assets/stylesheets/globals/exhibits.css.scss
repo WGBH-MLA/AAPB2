@@ -34,20 +34,29 @@
 }
 
 .exhibit-color {
-  color: #CC5555;
+  color: #c01d28;
+}
+
+.exhibit-color-section {
+  color: #9d2064;
 }
 
 a.exhibit-color:link, a.exhibit-color:visited {
-  color: #CC5555 !important;
+  color: #c01d28 !important;
 }
 
 a.exhibit-color:hover {
-  color: #999;
+  color: #9d2064;
+  text-decoration: none;
+}
+
+.exhibit-hover {
+  color: #9d2064;
   text-decoration: none;
 }
 
 .exhibit-main h3 {
-  color: #CC5555; 
+  color: #c01d28; 
   font-size: 20px;
 }
 
@@ -138,14 +147,12 @@ a.exhibit-color:hover {
 .exhibit-show-breadcrumb {
 
   background-color: #FFF;
-  color: #CC5555; 
   font-size: 12px;
 }
 
 .exhibit-show-breadcrumb  a, .exhibit-show-breadcrumb  a:hover, .exhibit-show-breadcrumb a:visited {
 
   background-color: #FFF;
-  color: #CC5555; 
   font-size: 12px;
 }
 
@@ -305,6 +312,12 @@ a.exhibit-color:hover {
     padding: 0 5px;
 }
 
+.breadcrumb a {
+    color: #c55;
+    /*content: "◄ ";*/
+    /*padding: 0 5px;*/
+}
+
 .resource-link {
   font-size: 14px;
   /*line-height: 12px;*/
@@ -316,10 +329,14 @@ a.exhibit-color:hover {
 }
 
 .exhibit-records {
-  background-color: #7D0000;
+  background-color: #c01d28;
 }
 
-a.exhibit-records:link, a.exhibit-records:visited {
+.exhibit-records-section {
+  background-color: #9d2064;
+}
+
+a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:link, a.exhibit-records-section:visited {
   color: #fff !important;
 }
 

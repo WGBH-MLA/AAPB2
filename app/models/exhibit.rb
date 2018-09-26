@@ -174,7 +174,7 @@ class Exhibit < Cmless
     if section_uri.end_with?('notes')
       # learning goals nnooootes
       %(<a href="#{section_uri}"><div class="exhibit-notes">
-        <div class="exhibit-color">Resource:</div>
+        <div class="#{is_subsection? ? 'exhibit-records-section' : 'exhibit-records'}">Resource:</div>
         <div class="">
           <img src="/assets/learning_goals.png" class="icon-med" style="top: -2px; position: relative;">
           Learning Goals
@@ -183,7 +183,7 @@ class Exhibit < Cmless
     elsif section_uri.end_with?('resources')
       # reeeeses notes
       %(<a href="#{section_uri}"><div class="exhibit-notes">
-        <div class="exhibit-color">Resource:</div>
+        <div class="#{is_subsection? ? 'exhibit-records-section' : 'exhibit-records'}">Resource:</div>
 
         <div class="">
           <img src="/assets/research_notes.png" class="icon-med" style="top: -2px; position: relative;">
@@ -214,5 +214,17 @@ class Exhibit < Cmless
       begin
         Nokogiri::HTML(authors_html).xpath('//li').map { |li| { img_url: li.xpath('./img').first['src'], title: li.css('a.title').first.text, name: li.css('a.name').first.text } }
       end
+  end
+
+  def top_title
+    ancestors.present? ? ancestors.first.title : title
+  end
+
+  def top_path
+    ancestors.present? ? ancestors.first.path : path
+  end
+
+  def is_subsection?
+    parent ? true : false
   end
 end
