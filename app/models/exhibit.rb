@@ -54,7 +54,7 @@ class Exhibit < Cmless
       img = Nokogiri::HTML(gallery_html).xpath('//img').first unless img
       img = Nokogiri::HTML(main_html).xpath('//img').first unless img
 
-      img.try(:text) || '<img src="" alt="" title="">'
+      img.text || '<img src="" alt="" title="">'
     end
   end
 
@@ -193,6 +193,7 @@ class Exhibit < Cmless
     else
 
       bckcolor = "%06x" % (rand(0.2..0.4) * 0xffffff)
+      bckcolor = "fff" if ENV['RACK_ENV'] == 'test'
 
       img = Nokogiri::HTML(cover_html).css('img').first
       %(<a style="" href="#{section_uri}">
