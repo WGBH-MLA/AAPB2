@@ -1,4 +1,4 @@
-# Stonewall Interviews
+# Stonewall Uprising
 
 ## Thumbnail
 
@@ -6,7 +6,7 @@
 
 ## Summary
 
-The <em>Stonewall Uprising</em> Interview Collection is made up of 48 raw interviews from the <em>American Experience</em> documentary of the same name. The documentary discusses the Stonewall riots, a six-day period beginning on June 28, 1969, during which the LGBTQIA community protested against a police raid on a gay bar called the Stonewall Inn. <em>Stonewall Uprising</em> discusses societal attitudes towards the gay community and early activism for gay rights prior to the riots, as well as the riots’ legacy, which includes the creation of a movement for gay rights, greater cohesion among the LGBTQIA community, and the establishment of the first gay pride parades. Interviews took place with community leaders, activists, artists, and authors, including Martha Shelley, an activist for gay and lesbian rights, and one of the first four members of the Gay Liberation Front; Thomas Lanigan-Schmidt, an artist and veteran of the Stonewall Riots; Ed Koch, former mayor of New York City; Virginia Apuzzo, a gay rights activist and former Executive Director of the National LGBTQ Task Force; and Dick Leitsch, an activist and the first gay reporter to write about the Stonewall riots. 
+The <em>Stonewall Uprising</em> Interview Collection is comprised of 48 raw interviews from the <em>American Experience</em> documentary of the same name. The documentary discusses the Stonewall riots, a six-day period beginning on June 28, 1969, during which the LGBTQIA community protested against a police raid on a gay bar called the Stonewall Inn. <em>Stonewall Uprising</em> discusses societal attitudes towards the gay community and early activism for gay rights prior to the riots, as well as the riots’ legacy, which includes the creation of a movement for gay rights, greater cohesion among the LGBTQIA community, and the establishment of the first gay pride parades. Interviews took place with community leaders, activists, and authors, including Martha Shelley, a Stonewall veteran, activist for gay and lesbian rights, and one of the first four members of the Gay Liberation Front; Ed Koch, former mayor of New York City; Virginia Apuzzo, a gay rights activist and former Executive Director of the National LGBTQ Task Force; Seymour Pine, Deputy Inspector of the NYPD Morals Division; and Dick Leitsch, an activist and the first gay reporter to write about the Stonewall riots. 
 
 ## Background
 
@@ -15,7 +15,7 @@ The <em>Stonewall Uprising</em> interviews were conducted in 2011 for the <em>Am
 ## Featured
 
 [![Martha Shelley](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-46d26pz2.jpg)](/catalog/cpb-aacip_15-46d26pz2)
-[![Thomas Lanigan-Schmidt](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-72b8jkz3.jpg)](/catalog/cpb-aacip_15-72b8jkz3)
+[![Seymour Pine](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-64thvx10.jpg)](/catalog/cpb-aacip_15-64thvx10)
 [![Ed Koch](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-52w3sqwm.jpg)](/catalog/cpb-aacip_15-52w3sqwm)
 [![Virginia Apuzzo](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-27zkk0g9.jpg)](/catalog/cpb-aacip_15-27zkk0g9)
 [![Dick Leitsch](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-pr7mp4wr01.jpg)](/catalog/cpb-aacip_15-pr7mp4wr01)
