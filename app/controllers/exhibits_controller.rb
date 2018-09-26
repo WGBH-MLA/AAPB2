@@ -7,7 +7,6 @@ class ExhibitsController < OverrideController
   end
 
   def show
-    require('pry');binding.pry
     @exhibit = Exhibit.find_by_path(params[:path])
     @page_title = @exhibit.title
     params[:path] = nil
