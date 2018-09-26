@@ -59,42 +59,44 @@ describe Exhibit do
       cover: "<a style=\"\" href=\"/exhibits/parent/child/grandchild\">\n" +
 "        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n" +
 "\n" +
-"          <div style=\"position: absolute; bottom: 0; text-align: center; width: 90%; height:33%; padding: 5%; color: #fff; background-color: #fff; opacity: 0.3;\"></div>\n" +
+"          <div class=\"exhibit-cover-overlay\" style=\"background-color: #fff;\"></div>\n" +
 "\n" +
-"          <div style=\"position: absolute; bottom: 0; text-align: center; width: 90%; height:33%; padding: 5%; color: #fff;\">\n" +
+"          <div class=\"exhibit-cover-text\" style=\"\">\n" +
 "            Grandchild!\n" +
 "          </div>\n" +
 "        </div>\n" +
 "      </a>",
       cover_html: %(<p><img title=\"cover title 2\" alt=\"Alt cover 2\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg\"></p>),
       gallery: [{:record_url=>"http://www.cpb.org/link1",
-  :source_name=>"First Source name",
-  :caption=>
-   "This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. ",
-  :media_info=>{:type=>"video", :url=>"/media/cpb-aacip_151-b56d21s06x"}},
- {:record_url=>"http://www.cpb.org/link1",
-  :source_name=>"Second Source name",
-  :caption=>
-   "This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. ",
-  :media_info=>
-   {:type=>"image",
-    :url=>
-     "https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg",
-    :alt=>"Alt cover 2",
-    :title=>"cover title 2"}},
- {:record_url=>"http://www.cpb.org/link1",
-  :source_name=>"Source name",
-  :caption=>
-   "This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. ",
-  :media_info=>
-   {:type=>"image",
-    :url=>
-     "https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg",
-    :alt=>"Alt cover 3",
-    :title=>"cover title 3"}}],
-      authors: [{:img_url=>"/assets/author2.png", :title=>"Curator Extraordinaire", :name=>"First Author"},
- {:img_url=>"/assets/author.png", :title=>"Second Banana", :name=>"Second Author"}],
-
+                :source_name=>"First Source name",
+                :caption=>
+                 "This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. ",
+                :media_info=>{:type=>"video", :url=>"/media/cpb-aacip_151-b56d21s06x"}},
+               {:record_url=>"http://www.cpb.org/link1",
+                :source_name=>"Second Source name",
+                :caption=>
+                 "This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. ",
+                :media_info=>
+                 {:type=>"image",
+                  :url=>
+                   "https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg",
+                  :alt=>"Alt cover 2",
+                  :title=>"cover title 2"}},
+               {:record_url=>"http://www.cpb.org/link1",
+                :source_name=>"Source name",
+                :caption=>
+                 "This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. ",
+                :media_info=>
+                 {:type=>"image",
+                  :url=>
+                   "https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg",
+                  :alt=>"Alt cover 3",
+                  :title=>"cover title 3"}}],
+                    authors: [{:img_url=>"/assets/author2.png", :title=>"Curator Extraordinaire", :name=>"First Author"},
+               {:img_url=>"/assets/author.png", :title=>"Second Banana", :name=>"Second Author"}],
+      is_subsection?: true,
+      top_title: 'Parent!',
+      top_path: 'parent',    
       
     }
 
