@@ -51,10 +51,9 @@ class Exhibit < Cmless
     begin
 
       img = Nokogiri::HTML(summary_html).xpath('//img[1]/@src').first
-      img = Nokogiri::HTML(gallery_html).xpath('//img').first unless img
-      img = Nokogiri::HTML(main_html).xpath('//img').first unless img
-
-      img.text || '<img src="" alt="" title="">'
+      img = Nokogiri::HTML(gallery_html).xpath('//img[1]/@src').first unless img
+      img = Nokogiri::HTML(main_html).xpath('//img[1]/@src').first unless img
+      img.text
     end
   end
 
