@@ -4,7 +4,7 @@
     <li id="exhibit-section-head" class="<%= @exhibit_color %>">
       <img style="top: -1px; position: relative;" src="/assets/explore_exhibit<%= @exhibit.is_subsection? ? '_section' : '' %>.png" class="icon-med">
       Explore the exhibit
-      <img src="/assets/read_more.png" class="icon-size">
+      <img src="/assets/read_more<%= @exhibit.is_subsection? ? '_section' : '' %>.png" class="icon-size">
     </li>
 
     <ul  class="hide" id="exhibit-sections">
