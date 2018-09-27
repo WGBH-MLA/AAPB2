@@ -7,8 +7,6 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
-    <%= @pbcore.media_srcs.inspect %>
-
 <!-- player or thumbnail or message -->
 <% if @available_and_playable %>
 
@@ -85,19 +83,23 @@
     </a>
   <% end %>
 
-
   <% unless @available_and_playable %>
 
     <% if (@pbcore.public? && !current_user.usa?) || @pbcore.protected? %>
-      Please note: This content is currently not available at your location. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+      <%= @pbcore.public? %>
+      <%= !current_user.usa? %>
+      <%= @pbcore.protected? %>
+
+
+      1Please note: This content is currently not available at your location. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
     <% elsif @pbcore.private? %>
-      Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+      2Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
     <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
-      Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+      3Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
     <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
-      This content has not been digitized. Please contact the contributing organization(s) listed below.
+      4This content has not been digitized. Please contact the contributing organization(s) listed below.
     <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
-      This content has not been digitized.
+      5This content has not been digitized.
     <% end %>
   <% end %>
 
