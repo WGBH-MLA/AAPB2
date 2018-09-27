@@ -113,7 +113,10 @@ class Exhibit < Cmless
 
   def main_abbrev
     @main_abbrev ||= begin
-      %(#{@main_html.gsub(/<img[^>]*>/, '')[0..600]}...)
+
+      total_text = @main_html + @extended_html
+
+      %(#{total_text.gsub(/<img[^>]*>/, '')[0..600]}...)
     end
   end
 

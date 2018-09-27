@@ -35,7 +35,7 @@
           <%= @exhibit.is_subsection? ? @exhibit.title : 'Overview' %>
         </h3>
         
-        <span class="exhibit-main">
+        <span class="exhibit-main <%= @exhibit_color %>">
           <%= @exhibit.summary_html.html_safe %>
         </span>
 
@@ -56,11 +56,11 @@
 
         <span class="<%= @exhibit_color %>" style="float: right;">
           <span id="more">
-            Expand to read more <img src="/assets/read_more.png" class="icon-size">
+            Expand to read more <img src="/assets/read_more<%= @exhibit.is_subsection? ? '_section' : '' %>.png" class="icon-size">
           </span>
 
           <span id="less" class="hide">
-            Read less <img src="/assets/read_less.png" class="icon-size">
+            Read less <img src="/assets/read_less<%= @exhibit.is_subsection? ? '_section' : '' %>.png" class="icon-size">
           </span>
         </span>
 
