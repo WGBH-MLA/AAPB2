@@ -19,9 +19,9 @@
 
       <div class="row">
  
-        <div class="col-md-7">&nbsp;</div>
+        <div class="col-md-8">&nbsp;</div>
 
-        <div class="col-md-5">
+        <div class="col-md-4">
           <%= render partial: 'sidebar_nav',
                      locals: {
                         links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }

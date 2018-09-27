@@ -23,6 +23,7 @@ describe 'Exhibits' do
     visit '/exhibits/exampleexhibit'
     expect page.find(:css, 'div.exgal-1 div.exgal-caption').to have_content "This is the caption text for the first gallery item."
     expect page.find(:css, 'div.exgal-1 div.exgal-source').to have_content "Courtesy: First Source name"
+    
   end
 
 end
