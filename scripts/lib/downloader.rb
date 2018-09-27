@@ -80,7 +80,10 @@ class Downloader
 
   def download_pages_to_directory(start_page)
     download_by_page(start_page) do |collection, page|
-      name = "page-#{page}.pbcore"
+      # Uses sprintf to add 0 padding on the page so that
+      # lexigraphical sorting for file processing in
+      # DownloadCleanIngest#initialize goes in page order.
+      name = "page-#{format('%010d', page)}.pbcore"
 
       Zipper.write(name, collection)
       $LOG.info("Wrote #{File.join([Dir.pwd, name])}")

@@ -51,7 +51,7 @@ Rails.application.configure do
   # config.logger = ActiveSupport::TaggedLogging.new(SyslogLogger.new)
 
   # Only keep up to 10 log files of ~ 1MB each.
-  config.logger = ActiveSupport::Logger.new('log/production.log', 10, 1.megabytes)
+  config.logger = ActiveSupport::Logger.new('aapb-remote-storage/log/production.log', 10, 1.megabytes)
 
   # Use a different cache store in production.
   # config.cache_store = :mem_cache_store
