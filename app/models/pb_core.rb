@@ -33,11 +33,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def subjects
     @subjects ||= xpaths('/*/pbcoreSubject')
   end
-  def contributors
-    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do |rexml|
-      PBCoreNameRoleAffiliation.new(rexml)
-    end
-  end
   def producing_organizations
     @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }
   end
@@ -49,11 +44,19 @@ class PBCore # rubocop:disable Metrics/ClassLength
       PBCoreNameRoleAffiliation.new(rexml)
     end
   end
+  def contributors
+    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do |rexml|
+      PBCoreNameRoleAffiliation.new(rexml)
+    end
+  end
   def publishers
     @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map do |rexml|
       PBCoreNameRoleAffiliation.new(rexml)
     end
   end
+  def all_parties
+    (publishers + contributors + publishers).uniq.sort_by {|p| p.stem }
+  end  
   def instantiations
     @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do |rexml|
       PBCoreInstantiation.new(rexml)
