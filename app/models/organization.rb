@@ -92,4 +92,9 @@ class Organization < Cmless
   def to_a
     [short_name, city, state]
   end
+
+  def outside_baseurl
+    full_url = ( outside_url.start_with?('http://') || outside_url.start_with?('https://') ) ? outside_url : %(http://#{outside_url})
+    URI(full_url).host
+  end
 end
