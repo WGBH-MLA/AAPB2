@@ -145,7 +145,7 @@ class Exhibit < Cmless
       Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
  
         type = gallery_item.css('a.type').first.text
-        record_link = gallery_item.css('a.record-link').first
+        credit_link = gallery_item.css('a.credit-link').first
         caption = gallery_item.css('a.caption-text').first
 
         media_info = if type == 'audio' || type == 'video' || type == 'iframe'
@@ -159,9 +159,8 @@ class Exhibit < Cmless
         end
 
         {
-          record_url: record_link['href'],
-          source_name: record_link.text,
-          # title: title.text,
+          credit_url: credit_link['href'],
+          source_text: credit_link.text,
           caption: caption.text,
           media_info: media_info
         }

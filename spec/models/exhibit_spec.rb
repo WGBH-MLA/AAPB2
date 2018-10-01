@@ -67,12 +67,12 @@ describe Exhibit do
 "        </div>\n" +
 "      </a>",
       cover_html: %(<p><img title=\"cover title 2\" alt=\"Alt cover 2\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg\"></p>),
-      gallery: [{:record_url=>"http://www.cpb.org/link1",
+      gallery: [{:credit_url=>"http://www.cpb.org/link1",
                 :source_name=>"First Source name",
                 :caption=>
                  "This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. ",
                 :media_info=>{:type=>"video", :url=>"/media/cpb-aacip_151-b56d21s06x"}},
-               {:record_url=>"http://www.cpb.org/link1",
+               {:credit_url=>"http://www.cpb.org/link1",
                 :source_name=>"Second Source name",
                 :caption=>
                  "This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. ",
@@ -82,7 +82,7 @@ describe Exhibit do
                    "https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg",
                   :alt=>"Alt cover 2",
                   :title=>"cover title 2"}},
-               {:record_url=>"http://www.cpb.org/link1",
+               {:credit_url=>"http://www.cpb.org/link1",
                 :source_name=>"Source name",
                 :caption=>
                  "This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. ",
