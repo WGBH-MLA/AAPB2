@@ -145,6 +145,7 @@ describe 'Validated and plain PBCore' do
           'producing_organizations' => ['WGBH'],
           'states' => ['Massachusetts'],
           'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
+
           # TODO: UI will transform internal representation.
         },
         access_types: [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
@@ -208,11 +209,11 @@ describe 'Validated and plain PBCore' do
         contributing_organization_names_display: ['WGBH'],
         contributing_organization_objects: [Organization.find_by_pbcore_name('WGBH')],
         states: ['Massachusetts'],
-        img?: true
+        img?: true,
+        all_parties: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'), PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges'),PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')]
       }
 
       pbc = PBCore.new(pbc_xml)
-
       assertions.each do |method, value|
         it "\##{method} method works" do
           expect(pbc.send(method)).to eq(value)
