@@ -1,0 +1,3 @@
+run_linkchecker: <%= ENV['RUN_LINKCHECKER'] || false %>
+user_name: <%= ENV['AMAZON_SMTP_USER'] || 'wrong ses username' %>
+password: <%= ENV['AMAZON_SMTP_PASS'] || 'wrong ses password' %>
