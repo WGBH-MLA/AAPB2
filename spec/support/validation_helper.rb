@@ -1,5 +1,7 @@
 require 'rexml/document'
 require_relative 'link_checker'
+require 'csv'
+require 'uri'
 
 module ValidationHelper
   # http://www.w3.org/TR/REC-xml/#NT-NameStartChar
@@ -53,7 +55,18 @@ END
     bad_urls = page.all('a').map { |element| element['href'] }.reject do |url|
       LinkChecker.instance.check?(url)
     end
-    raise "Bad URLS: #{bad_urls}" unless bad_urls.empty?
+
+    if bad_urls.count > 0
+      filename = "link_checker_result_#{Time.now.strftime('%m.%d.%Y')}.csv"
+      CSV.open(filename, 'a') do |csv|
+        row = [current_path]
+        row += bad_urls
+        puts row
+        csv << row
+      end
+    end
+
+    true
   rescue => e
     # numbered = xhtml.split(/\n/).each_with_index.map { |line, i| "#{i}:\t#{line}" }.join("\n")
     # raise "XML validation failed: #{e}\n#{e.backtrace.join("\n")}\n#{numbered}"

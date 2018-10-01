@@ -14,7 +14,7 @@ Rails.application.configure do
   config.action_controller.perform_caching = false
 
   # Don't care if the mailer can't send.
-  config.action_mailer.raise_delivery_errors = false
+  config.action_mailer.raise_delivery_errors = true
 
   # Print deprecation notices to the Rails logger.
   config.active_support.deprecation = :log
@@ -34,4 +34,21 @@ Rails.application.configure do
 
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
+
+  config.action_mailer.delivery_method = :smtp
+  config.action_mailer.perform_deliveries = true
+
+  # email_creds = YAML.load_file(Rails.root + 'config/aws_ses.yml')
+  email_creds = YAML.load(ERB.new(File.new(Rails.root + 'config/aws_ses.yml').read).result)
+
+  config.action_mailer.smtp_settings = {
+    address: 'email-smtp.us-east-1.amazonaws.com',
+    port: 587,
+    user_name: email_creds['user_name'],
+    password: email_creds['password'],
+
+    authentication: :login,
+    enable_starttls_auto: true,
+    domain: 'wgbh.org'
+  }
 end
