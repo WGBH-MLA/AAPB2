@@ -55,8 +55,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
     end
   end
   def all_parties
-    (publishers + contributors + publishers).uniq.sort_by {|p| p.stem }
-  end  
+    (publishers + contributors + publishers).uniq.sort_by(&:stem)
+  end
   def instantiations
     @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do |rexml|
       PBCoreInstantiation.new(rexml)
