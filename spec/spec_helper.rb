@@ -29,4 +29,12 @@ RSpec.configure do |config|
     # Disable WebMock by default, and be sure to re-enable it before using it.
     WebMock.disable!
   end
+
+  config.after(:suite) do
+    # only run this where the mailer class is available
+    if Object.const_defined?('Notifier')
+      run_linkchecker = YAML.load(ERB.new(File.new(Rails.root + 'config/aws_ses.yml').read).result)['run_linkchecker']
+      Notifier.link_checker_report if run_linkchecker
+    end
+  end
 end
