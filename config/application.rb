@@ -35,7 +35,6 @@ module Xyz
     end
 
     config.exceptions_app = routes
-
     config.cache_store = :memory_store
 
     # if Rails.env.development?
