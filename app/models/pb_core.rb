@@ -196,9 +196,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
     nil
   end
   def outside_baseurl
-    full_url = ( outside_url.start_with?('http://') || outside_url.start_with?('https://') ) ? outside_url : %(http://#{outside_url})
+    full_url = outside_url.start_with?('http://', 'https://') ? outside_url : %(http://#{outside_url})
     URI(full_url).host
-  end  
+  end
   def reference_urls
     # These only provide extra information. We aren't saying there is media on the far side,
     # so this has no interaction with access_level, unlike outside_url.
