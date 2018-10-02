@@ -7,7 +7,7 @@
         content_tag(media_info[:type],
                     controls: true,
                     "style" => "#{modal ? 'height: 50vh;width: 100%;' : ''}",
-                    "class" => "exhibit-player-obj video-js vjs-default-skin #{modal ? '' : 'vjs-4-3'}",
+                    "class" => "exhibit-player-obj video-js vjs-default-skin #{modal ? 'exhibit-player-modal' : 'vjs-4-3'}",
                     # "id" => "player_media",
                     "aria-label" => "video player",
                     oncontextmenu: 'return false;',
@@ -44,23 +44,23 @@
   <script type="text/javascript">
 
     function fixFullscreen() {
-      console.log('wow!')
-      var vid = $(this);
+      var vid = $('div.exhibit-player-modal video');
       // if( vid.isFullscreen() ) {
-        vid.css('height', '100%').css('width', '100%');
+        vid.each(function() {
+          console.log(this)
+          $(this).css('height', '100%').css('width', '100%');
+        });
       // }
-
     }
 
-    $(document).ready(function () {
-      var vid = $('.exhibit-player-obj');
-      console.log(vid)
-      vid.on('fullscreenchange', function() {
-        fixFullscreen()
-      });
+    // $(document).ready(function () {
+      // document.addEventListener("webkitfullscreenchange", function() {
 
+        $(document).on('fullscreenchange mozfullscreenchange msfullscreenchange webkitfullscreenchange', function() {
+          fixFullscreen()
+        });
 
-    });
+    // });
   </script>
 
 <% end %>
