@@ -196,10 +196,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     nil
   end
   def outside_baseurl
-    if outside_url
-      full_url = outside_url.start_with?('http://', 'https://') ? outside_url : %(http://#{outside_url})
-      URI(full_url).host
-    end
+    URI(outside_url.start_with?('http://', 'https://') ? outside_url : %(http://#{outside_url})).host if outside_url
   end
   def reference_urls
     # These only provide extra information. We aren't saying there is media on the far side,
