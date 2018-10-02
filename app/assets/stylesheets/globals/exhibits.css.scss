@@ -1,3 +1,7 @@
+.videocontent {
+  padding: 20px !important;
+}
+
 .exhibit-index {
 
   .thumbnail {
@@ -272,12 +276,20 @@ a.exhibit-color:hover {
   margin-right: 0;
   width: 100%;
   min-width: 100%;
+  padding: 0 !important;
 }
 
 .exgal-modal-height {
-  min-height: 100%;
-  height: 100%;
-  display: flex;
+  /*min-height: 100%;
+  max-height: 100%;
+  height: 100%;*/
+
+  min-height: 50vh;
+  max-height: 50vh;
+  height: 50vh;
+
+
+  /*display: flex;*/
 }
 
 .modal-content {
@@ -304,7 +316,6 @@ a.exhibit-color:hover {
   top: 0.5em;
   width: 2em;
   height: 2em;
- 
 }
 
 .breadcrumb > li + li:before {

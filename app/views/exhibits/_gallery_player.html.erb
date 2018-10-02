@@ -1,13 +1,14 @@
 <% if media_info[:type] == 'video' || media_info[:type] == 'audio' %>
 
-  <div class="player exgal-modal-height">
-    <section class="videocontent exhibit-player">
+  <div class="player exgal-modal-height" <%= modal ? 'style="height: 50vh;"' : '' %>>
+    <section class="videocontent exhibit-player" <%= modal ? 'style="height: 50vh;"' : '' %>>
       <%=
         
         content_tag(media_info[:type],
                     controls: true,
-                    "class" => "video-js vjs-default-skin vjs-fluid",
-                    "id" => "player_media",
+                    "style" => "#{modal ? 'height: 50vh;width: 100%;' : ''}",
+                    "class" => "exhibit-player-obj video-js vjs-default-skin #{modal ? '' : 'vjs-4-3'}",
+                    # "id" => "player_media",
                     "aria-label" => "video player",
                     oncontextmenu: 'return false;',
                     preload: 'auto',
@@ -27,8 +28,8 @@
           <% end %>
       <% end.html_safe() %>
     </section>
-  </div>
 
+  </div>
 <% elsif media_info[:type] == 'image' %>
   <div class="exgal-modal-height <%= modal ? '' : 'four-three-box' %>" style="height: 100%; background-color: #000; background-image: url('<%= media_info[:url] %>'); background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
 
@@ -36,4 +37,30 @@
   <div class="exgal-modal-height">
     <iframe src="<%= media_info[:url] %>"></iframe>
   </div>
+<% end %>
+
+
+<% if modal %>
+  <script type="text/javascript">
+
+    function fixFullscreen() {
+      console.log('wow!')
+      var vid = $(this);
+      // if( vid.isFullscreen() ) {
+        vid.css('height', '100%').css('width', '100%');
+      // }
+
+    }
+
+    $(document).ready(function () {
+      var vid = $('.exhibit-player-obj');
+      console.log(vid)
+      vid.on('fullscreenchange', function() {
+        fixFullscreen()
+      });
+
+
+    });
+  </script>
+
 <% end %>

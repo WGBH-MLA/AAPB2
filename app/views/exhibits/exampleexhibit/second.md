@@ -14,21 +14,21 @@ The American Archive of Public Broadcasting holds significant material related t
 ## Gallery
 
 - <a class="type">video</a>
-  <!-- media-url for video or audio v -->
-  <a class="media-url">/media/cpb-aacip_151-b56d21s06x</a>
-  <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
-  <a class="caption-text">Soulja Boy up in this Watch me lean then watch me rock Superman dat Yeah, watch me crank that Robocop Super fresh, now watch me jock Jocking on them haters, man When I do that Soulja Boy I lean to the left then crank that thang, now (yuuuuuu) I'm jocking on yo' (I'm jocking on yo') And if we get to fightin' then I'm cocking on yo' (then I'm cocking on yo') You catch me at yo' local party Yes, I crank it everyday Haters gettin' mad 'cause "I got me some Bathin' Ape"</a>
+  <!-- media-url for video or audio or iframe v -->
+  <a class="media-url">/media//cpb-aacip_114-90dv49m9?part=1</a>
+  <a class="credit-link" href="http://www.cpb.org/link1">First Source name/message</a>
+  <a class="caption-text">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>
 
 - <a class="type">image</a>
-  <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
-  <a class="caption-text">This is the second caption text This is the second caption text This is the second caption text This is the second caption text This is the second caption text This is the second caption text This is the second caption text </a>
-  <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg">
-  
+  <a class="credit-link">Second Source name/message</a>
+  <a class="caption-text">This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. </a>
+  <img title="cover title 2" alt="Alt cover 2" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg">
+
 - <a class="type">image</a>
-  <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
-  <a class="caption-text">This is the third caption text This is the third caption text This is the third caption text This is the third caption text This is the third caption text This is the third caption text This is the third caption text </a>
-  <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image.jpg">
-    
+  <a class="credit-link" href="http://www.cpb.org/link3">Third Source name/message</a>
+  <a class="caption-text">This is the caption text for the third gallery item. This is the caption text for the third gallery item. This is the caption text for the third gallery item. This is the caption text for the third gallery item. This is the caption text for the third gallery item. </a>
+  <img title="cover title 3" alt="Alt cover 3" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
+     
 ## Records
 
 - cpb-aacip_60-70msbm1d
