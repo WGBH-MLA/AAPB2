@@ -1,20 +1,8 @@
-<dl>
-  <% @pbcore.all_parties.each do |party| %>
-    <b><%= party.role %>:</b> <%= party.name %><br>
-  <% end %>
-</dl>
+<dd class="contributors">
 
-<% {
-  'Creator'=> @pbcore.creators,
-  'Contributor'=> @pbcore.contributors,
-  'Publisher'=> @pbcore.publishers
-  }.reject {|label,list| list.empty?}.each do |label,list| %>
   <dl>
-    <dt><%= label %></dt>
-    <% list.each do |c| %>
-      <dd><%= [c.name, c.affiliation, c.role].select{|c| c}.join(', ') %></dd>
+    <% @pbcore.all_parties.each do |party| %>
+      <b><%= party.role %>:</b> <%= party.name %><br>
     <% end %>
   </dl>
-<% end %>
-
-
+</dd>
