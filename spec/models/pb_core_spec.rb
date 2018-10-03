@@ -211,11 +211,11 @@ describe 'Validated and plain PBCore' do
         states: ['Massachusetts'],
         img?: true,
         all_parties: [
-                      PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges'),
-                      PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),
-                      PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'),
-                      PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges'),
-                    ]
+          PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges'),
+          PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),
+          PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'),
+          PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')
+        ]
       }
 
       pbc = PBCore.new(pbc_xml)
