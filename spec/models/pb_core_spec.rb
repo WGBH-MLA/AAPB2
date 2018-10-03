@@ -211,8 +211,7 @@ describe 'Validated and plain PBCore' do
         contributing_organization_objects: [Organization.find_by_pbcore_name('WGBH')],
         states: ['Massachusetts'],
         img?: true,
-        all_parties: [
-                      PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),
+        all_parties: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),
                       PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'),
                       PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges'),
                       PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')
