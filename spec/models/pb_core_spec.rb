@@ -180,7 +180,6 @@ describe 'Validated and plain PBCore' do
         transcript_src: nil,
         transcript_status: nil,
         outside_url: 'http://www.wgbh.org/',
-        outside_baseurl: 'www.wgbh.org',
         player_aspect_ratio: '4:3',
         player_specs: %w(680 510),
         playlist_group: nil,
@@ -211,10 +210,11 @@ describe 'Validated and plain PBCore' do
         contributing_organization_objects: [Organization.find_by_pbcore_name('WGBH')],
         states: ['Massachusetts'],
         img?: true,
-        all_parties: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),
+        all_parties: [
+                      PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges'),
+                      PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),
                       PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'),
                       PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges'),
-                      PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')
                     ]
       }
 
