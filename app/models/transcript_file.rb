@@ -31,10 +31,11 @@ class TranscriptFile
     transcript_dictionary = transcript.upcase.gsub(/[[:punct:]]/, '').split
 
     intersection = query & transcript_dictionary
-    return nil if intersection.empty?
 
-    start = if (transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 100) > 0
-              transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 100
+    return nil if intersection.empty?
+    require('pry');binding.pry
+    start = if (transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200) > 0
+              transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200
             else
               0
             end

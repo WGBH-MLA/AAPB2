@@ -5,6 +5,7 @@ require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 require 'logger'
 require 'rake'
+require 'action_view'
 
 class Exception
   def short
@@ -16,6 +17,8 @@ class ParamsError < StandardError
 end
 
 class DownloadCleanIngest
+  include ActionView
+
   def const_init(name)
     const_name = name.upcase.tr('-', '_')
     flag_name = "--#{name}"

@@ -39,8 +39,8 @@ class CaptionFile
     intersection = query & captions_dictionary
     return nil if intersection.empty?
 
-    start = if (captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 125) > 0
-              captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 125
+    start = if (captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 250) > 0
+              captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 250
             else
               0
             end

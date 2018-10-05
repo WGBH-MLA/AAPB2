@@ -15,8 +15,8 @@ describe TranscriptFile do
   let(:text_html_tags) { ['transcript-row', 'para', 'data-timecodebegin', 'transcript-row'] }
 
 
-  let(:transcript_query_one) { %w(LITTLE ROCK) }
-  let(:transcript_query_two) { %w(101ST AIRBORNE) }
+  let(:transcript_query_one) { %w(EVENING) }
+  let(:transcript_query_two) { %w(NICARAGUAN ECONOMY) }
   let(:transcript_query_three) { %w(LOYE 000000 [SDBA]) }
 
 
@@ -132,24 +132,22 @@ describe TranscriptFile do
   end
 
   describe '#snippet_from_query' do
-    it 'returns the caption from the beginning if query word is within first 200 characters' do
-      caption = text_transcript.snippet_from_query(transcript_query_one)
-
+    it 'returns the transcript from the beginning if query word is within first 200 characters' do
+      transcript = text_transcript.snippet_from_query(transcript_query_one)
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('male')
+      expect(transcript.split[1]).to eq('JIM')
     end
 
-    it 'truncates the begining of the caption if keyord is not within first 200 characters' do
-      caption = text_transcript.snippet_from_query(transcript_query_two)
-
+    it 'truncates the begining of the transcript if keyord is not within first 200 characters' do
+      transcript = text_transcript.snippet_from_query(transcript_query_two)
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('THE')
+      expect(transcript.split[1]).to eq('THE')
     end
 
-    it 'returns nil captions when query not in params' do
-      caption = text_transcript.snippet_from_query(transcript_query_three)
+    it 'returns nil transcripts when query not in params' do
+      transcript = text_transcript.snippet_from_query(transcript_query_three)
 
-      expect(caption).to eq(nil)
+      expect(transcript).to eq(nil)
     end
   end
 
