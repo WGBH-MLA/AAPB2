@@ -2,6 +2,7 @@ require 'open-uri'
 require_relative '../../lib/caption_converter'
 
 class CaptionFile
+  include ActionView::Helpers::TextHelper
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze
 
   attr_reader :id
@@ -38,13 +39,14 @@ class CaptionFile
     intersection = query & captions_dictionary
     return nil if intersection.empty?
 
-    start = if (captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 200) > 0
-              captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 200
+    start = if (captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 125) > 0
+              captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 125
             else
               0
             end
 
-    '...' + captions[start..-1].to_s + '...'
+    body = '...' + captions[start..-1].to_s + '...'
+    highlight(body.truncate(250, separator: '.'), query)
   end
 
   def self.srt_url(id)

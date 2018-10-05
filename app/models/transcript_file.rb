@@ -2,6 +2,7 @@ require 'open-uri'
 require_relative '../../lib/transcript_converter'
 
 class TranscriptFile
+  include ActionView::Helpers::TextHelper
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/transcripts'.freeze
   JSON_FILE = 'json'.freeze
   TEXT_FILE = 'text'.freeze
@@ -25,20 +26,21 @@ class TranscriptFile
   end
 
   def snippet_from_query(query)
-    transcript = Nokogiri::HTML(html).text
+    transcript = Nokogiri::HTML(html).text.gsub(/\n/, '')
 
     transcript_dictionary = transcript.upcase.gsub(/[[:punct:]]/, '').split
 
     intersection = query & transcript_dictionary
     return nil if intersection.empty?
 
-    start = if (transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200) > 0
-              transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200
+    start = if (transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 100) > 0
+              transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 100
             else
               0
             end
-
-    '...' + transcript[start..-1].to_s + '...'
+    
+    body = '...' + transcript[start..-1].to_s + '...'
+    highlight(body.truncate(200, separator: '.'), query)
   end
 
   def file_present?
