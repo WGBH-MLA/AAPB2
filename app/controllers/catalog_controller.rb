@@ -2,6 +2,7 @@ require_relative '../../lib/aapb'
 
 class CatalogController < ApplicationController
   include Blacklight::Catalog
+  include ApplicationHelper
 
   configure_blacklight do |config|
     # 'list' is the name of blacklight's default search result view style
@@ -22,7 +23,12 @@ class CatalogController < ApplicationController
     ## See also SolrHelper#solr_search_params
     config.default_solr_params = {
       qt: 'search',
-      rows: 10
+      rows: 10,
+
+      # enable hit highlighting for 'text' field for transcript/caption hit compilation
+      hl: true,
+      :"hl.fl" => 'text'
+
     }
 
     # solr path which will be added to solr base url before the other solr params.
@@ -181,7 +187,7 @@ class CatalogController < ApplicationController
 
     # Cleans up user query for manipulation of caption text in the view.
     if params[:q]
-      @query_for_captions = CaptionFile.clean_query_for_captions(params[:q])
+      @query_for_captions = clean_query_for_snippet(params[:q])
     end
 
     if !params[:f] || !params[:f][:access_types]
@@ -190,10 +196,41 @@ class CatalogController < ApplicationController
                  PBCore::DIGITIZED_ACCESS
                else
                  PBCore::PUBLIC_ACCESS
-      end
+               end
       redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
     else
       super
+    end
+
+    # mark results for captions and transcripts
+    matched_in_text_field = @document_list.first.response['highlighting']
+    
+    # we got some dang highlit matches
+    if matched_in_text_field.try(:keys).try(:present?)
+
+      @snippets = {}
+
+      @document_list.each do |solr_doc|
+
+        # only respond if highlighting set has this guid
+        if matched_in_text_field[solr_doc[:id]]
+
+          @snippets[solr_doc[:id]] = {}
+
+          # check for caption anno
+          if solr_doc.has_caption?
+            @snippets[solr_doc[:id]][:caption] = CaptionFile.new(solr_doc[:id]).snippet_from_query(@query_for_captions)
+          end
+          
+          # check for transcript anno
+          if solr_doc.has_transcript?
+            @snippets[solr_doc[:id]][:transcript] = TranscriptFile.new(solr_doc[:id])
+          end
+
+        end
+      end
+
+
     end
   end
 

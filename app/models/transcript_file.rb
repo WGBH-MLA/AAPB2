@@ -24,6 +24,23 @@ class TranscriptFile
     @html ||= build_html
   end
 
+  def snippet_from_query(query)
+    transcript = Nokogiri::HTML(html).text
+
+    transcript_dictionary = transcript.upcase.gsub(/[[:punct:]]/, '').split
+
+    intersection = query & transcript_dictionary
+    return nil if intersection.empty?
+
+    start = if (transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200) > 0
+              transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200
+            else
+              0
+            end
+
+    '...' + transcript[start..-1].to_s + '...'
+  end
+
   def file_present?
     @file_present ||= TranscriptFile.json_file_present?(id) || TranscriptFile.text_file_present?(id) ? true : false
   end

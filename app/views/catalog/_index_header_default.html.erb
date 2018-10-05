@@ -41,6 +41,10 @@
               <% end %>
 
             <p><%= truncate(pbcore.descriptions[0], length: 500) + ( "..." if pbcore.descriptions[0].length > 500) %></p>
+            
+            <% if @snippets[pbcore.id][:caption] %>
+              <p><%= @snippets[pbcore.id][:caption] %></p>
+            <% end %>
           </article>
           <!-- END Column -->
         </div>

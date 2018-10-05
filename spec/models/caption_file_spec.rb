@@ -69,23 +69,23 @@ describe CaptionFile do
     end
   end
 
-  describe '#captions_from_query' do
+  describe '#snippet_from_query' do
     it 'returns the caption from the beginning if query word is within first 200 characters' do
-      caption = caption_file_2.captions_from_query(caption_query_one)
+      caption = caption_file_2.snippet_from_query(caption_query_one)
 
       # .first returns the preceding '...'
       expect(caption.split[1]).to eq('male')
     end
 
     it 'truncates the begining of the caption if keyord is not within first 200 characters' do
-      caption = caption_file_2.captions_from_query(caption_query_two)
+      caption = caption_file_2.snippet_from_query(caption_query_two)
 
       # .first returns the preceding '...'
       expect(caption.split[1]).to eq('PUZZLING')
     end
 
     it 'returns nil captions when query not in params' do
-      caption = caption_file_2.captions_from_query(caption_query_three)
+      caption = caption_file_2.snippet_from_query(caption_query_three)
 
       expect(caption).to eq(nil)
     end

@@ -30,7 +30,7 @@ class CaptionFile
     @json ||= CaptionConverter.srt_to_json(srt)
   end
 
-  def captions_from_query(query)
+  def snippet_from_query(query)
     captions = Nokogiri::HTML(html).text
 
     captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
@@ -45,16 +45,6 @@ class CaptionFile
             end
 
     '...' + captions[start..-1].to_s + '...'
-  end
-
-  def self.clean_query_for_captions(query)
-    stopwords = []
-    File.read(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt')).each_line do |line|
-      next if line.start_with?('#') || line.empty?
-      stopwords << line.upcase.strip
-    end
-
-    query.upcase.gsub(/[[:punct:]]/, '').split.delete_if { |term| stopwords.include?(term) }
   end
 
   def self.srt_url(id)
