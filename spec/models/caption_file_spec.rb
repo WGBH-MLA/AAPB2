@@ -2,6 +2,8 @@ require 'rails_helper'
 require 'webmock'
 
 describe CaptionFile do
+  include ApplicationHelper
+  
   before :all do
     # WebMock is disabled by defafult, but we use it for these tests.
     # Note that it is re-disable in an :after hook below.
@@ -81,7 +83,7 @@ describe CaptionFile do
       caption = caption_file_2.snippet_from_query(caption_query_two)
 
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('PUZZLING')
+      expect(caption.split[1]).to eq('THE')
     end
 
     it 'returns nil captions when query not in params' do
@@ -107,13 +109,13 @@ describe CaptionFile do
     end
   end
 
-  describe '.clean_query_for_captions' do
+  describe '.clean_query_for_snippet' do
     it 'removes punctuation from and capitalizes the user query' do
-      expect(CaptionFile.clean_query_for_captions(query_with_punctuation)).to eq(test_array)
+      expect(clean_query_for_snippet(query_with_punctuation)).to eq(test_array)
     end
 
     it 'uses stopwords.txt to remove words not used in actual search' do
-      expect(CaptionFile.clean_query_for_captions(query_with_stopwords)).to eq(test_array)
+      expect(clean_query_for_snippet(query_with_stopwords)).to eq(test_array)
     end
   end
 
