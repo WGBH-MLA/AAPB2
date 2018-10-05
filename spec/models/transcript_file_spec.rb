@@ -14,6 +14,12 @@ describe TranscriptFile do
   let(:json_html_tags) { ['play-from-here', 'transcript-row', 'para', 'data-timecodebegin', 'data-timecodeend', 'transcript-row'] }
   let(:text_html_tags) { ['transcript-row', 'para', 'data-timecodebegin', 'transcript-row'] }
 
+
+  let(:transcript_query_one) { %w(LITTLE ROCK) }
+  let(:transcript_query_two) { %w(101ST AIRBORNE) }
+  let(:transcript_query_three) { %w(LOYE 000000 [SDBA]) }
+
+
   def valid_json?(json)
     JSON.parse(json)
     return true
@@ -124,4 +130,27 @@ describe TranscriptFile do
       expect(TranscriptFile.text_file_present?(fake_id)).to eq(false)
     end
   end
+
+  describe '#snippet_from_query' do
+    it 'returns the caption from the beginning if query word is within first 200 characters' do
+      caption = text_transcript.snippet_from_query(transcript_query_one)
+
+      # .first returns the preceding '...'
+      expect(caption.split[1]).to eq('male')
+    end
+
+    it 'truncates the begining of the caption if keyord is not within first 200 characters' do
+      caption = text_transcript.snippet_from_query(transcript_query_two)
+
+      # .first returns the preceding '...'
+      expect(caption.split[1]).to eq('THE')
+    end
+
+    it 'returns nil captions when query not in params' do
+      caption = text_transcript.snippet_from_query(transcript_query_three)
+
+      expect(caption).to eq(nil)
+    end
+  end
+
 end
