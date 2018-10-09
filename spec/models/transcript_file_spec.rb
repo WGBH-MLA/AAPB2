@@ -141,7 +141,7 @@ describe TranscriptFile do
     it 'truncates the begining of the transcript if keyord is not within first 200 characters' do
       transcript = text_transcript.snippet_from_query(transcript_query_two)
       # .first returns the preceding '...'
-      expect(transcript.split[1]).to eq('THE')
+      expect(transcript.split[1]).to eq('dollar')
     end
 
     it 'returns nil transcripts when query not in params' do
