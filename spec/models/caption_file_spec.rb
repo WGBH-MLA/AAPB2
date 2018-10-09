@@ -3,7 +3,7 @@ require 'webmock'
 
 describe CaptionFile do
   include ApplicationHelper
-  
+
   before :all do
     # WebMock is disabled by defafult, but we use it for these tests.
     # Note that it is re-disable in an :after hook below.

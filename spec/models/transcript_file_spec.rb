@@ -14,11 +14,9 @@ describe TranscriptFile do
   let(:json_html_tags) { ['play-from-here', 'transcript-row', 'para', 'data-timecodebegin', 'data-timecodeend', 'transcript-row'] }
   let(:text_html_tags) { ['transcript-row', 'para', 'data-timecodebegin', 'transcript-row'] }
 
-
   let(:transcript_query_one) { %w(EVENING) }
   let(:transcript_query_two) { %w(NICARAGUAN ECONOMY) }
   let(:transcript_query_three) { %w(LOYE 000000 [SDBA]) }
-
 
   def valid_json?(json)
     JSON.parse(json)
@@ -150,5 +148,4 @@ describe TranscriptFile do
       expect(transcript).to eq(nil)
     end
   end
-
 end

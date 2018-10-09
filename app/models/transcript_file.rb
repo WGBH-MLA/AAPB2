@@ -26,7 +26,7 @@ class TranscriptFile
   end
 
   def snippet_from_query(query)
-    transcript = Nokogiri::HTML(html).text.gsub(/\n/, '')
+    transcript = Nokogiri::HTML(html).text.delete(/\n/)
 
     transcript_dictionary = transcript.upcase.gsub(/[[:punct:]]/, '').split
 
@@ -37,7 +37,7 @@ class TranscriptFile
             else
               0
             end
-    
+
     body = '...' + transcript[start..-1].to_s + '...'
     highlight(body.truncate(200, separator: ' '), query)
   end

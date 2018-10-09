@@ -186,9 +186,7 @@ class CatalogController < ApplicationController
     @special_collection = special_collection_from_url
 
     # Cleans up user query for manipulation of caption text in the view.
-    if params[:q]
-      @query_for_captions = clean_query_for_snippet(params[:q])
-    end
+    @query_for_captions = clean_query_for_snippet(params[:q]) if params[:q]
 
     if !params[:f] || !params[:f][:access_types]
       base_query = params.except(:action, :controller).to_query
@@ -204,31 +202,26 @@ class CatalogController < ApplicationController
 
     # mark results for captions and transcripts
     matched_in_text_field = @document_list.first.response['highlighting']
-    
+
     # we got some dang highlit matches
     if matched_in_text_field.try(:keys).try(:present?)
 
       @snippets = {}
 
       @document_list.each do |solr_doc|
-
         # only respond if highlighting set has this guid
-        if matched_in_text_field[solr_doc[:id]]
+        next unless matched_in_text_field[solr_doc[:id]]
 
-          @snippets[solr_doc[:id]] = {}
+        @snippets[solr_doc[:id]] = {}
 
-          
-          # check for transcript anno
-          if solr_doc.has_transcript?
-            @snippets[solr_doc[:id]][:transcript] = TranscriptFile.new(solr_doc[:id]).snippet_from_query(@query_for_captions)
-          end
+        # check for transcript anno
+        if solr_doc.transcript?
+          @snippets[solr_doc[:id]][:transcript] = TranscriptFile.new(solr_doc[:id]).snippet_from_query(@query_for_captions)
+        end
 
-          # check for caption anno
-          if !@snippets[solr_doc[:id]][:transcript] && solr_doc.has_caption?
-            @snippets[solr_doc[:id]][:caption] = CaptionFile.new(solr_doc[:id]).snippet_from_query(@query_for_captions)
-          end
-
-
+        # check for caption anno
+        if !@snippets[solr_doc[:id]][:transcript] && solr_doc.caption?
+          @snippets[solr_doc[:id]][:caption] = CaptionFile.new(solr_doc[:id]).snippet_from_query(@query_for_captions)
         end
       end
 

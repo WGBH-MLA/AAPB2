@@ -19,13 +19,13 @@ class SolrDocument
   # Recommendation: Use field names from Dublin Core
   # use_extension(Blacklight::Solr::Document::DublinCore)
 
-  def has_caption?
+  def caption?
     # self[:xml].include?('Captions URL')
     # Nokogiri::XML(self[:xml]).xpath('//pbcoreAnnotation[@annotationType="Captions URL"]').first
     Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Captions URL"]').first
   end
 
-  def has_transcript?
+  def transcript?
     # self[:xml].include?('Captions URL')
     # Nokogiri::XML(self[:xml]).xpath('//pbcoreAnnotation[@annotationType="Captions URL"]').first
     Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first
