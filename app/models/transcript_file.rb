@@ -26,12 +26,12 @@ class TranscriptFile
   end
 
   def snippet_from_query(query)
-    transcript = Nokogiri::HTML(html).text.delete(/\n/)
+    transcript = Nokogiri::HTML(html).text.delete("\n")
 
     transcript_dictionary = transcript.upcase.gsub(/[[:punct:]]/, '').split
 
     intersection = query & transcript_dictionary
-    return nil if intersection.empty?
+    return nil unless intersection && intersection.present?
     start = if (transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200) > 0
               transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200
             else

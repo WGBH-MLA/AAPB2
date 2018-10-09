@@ -201,7 +201,7 @@ class CatalogController < ApplicationController
     end
 
     # mark results for captions and transcripts
-    matched_in_text_field = @document_list.first.response['highlighting'] if @document_list.first
+    matched_in_text_field = @document_list.first.response['highlighting'] if @document_list.try(:first)
 
     # we got some dang highlit matches
     if matched_in_text_field.try(:keys).try(:present?)

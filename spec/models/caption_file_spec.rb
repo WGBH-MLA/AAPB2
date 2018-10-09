@@ -83,7 +83,7 @@ describe CaptionFile do
       caption = caption_file_2.snippet_from_query(caption_query_two)
 
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('THE')
+      expect(caption.split[1]).to eq('HAD')
     end
 
     it 'returns nil captions when query not in params' do

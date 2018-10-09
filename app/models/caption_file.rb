@@ -37,7 +37,7 @@ class CaptionFile
     captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
 
     intersection = query & captions_dictionary
-    return nil if intersection.empty?
+    return nil unless intersection && intersection.present?
 
     start = if (captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 250) > 0
               captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 250
