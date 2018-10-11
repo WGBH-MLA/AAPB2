@@ -52,7 +52,7 @@ class ApiController < ApplicationController
     @pbcore = PBCore.new(xml)
     content = @pbcore.transcript_content
 
-    if can?(:access_transcript, @pbcore) && !content.nil?
+    if can?(:api_access_transcript, @pbcore) && !content.nil?
       render json: content, status: :ok
     else
       render_no_transcript_content

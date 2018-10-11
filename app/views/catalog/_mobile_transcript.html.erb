@@ -1,4 +1,6 @@
 <% if @show_transcript %>
+            <%= @transcript_open ? 'show' : 'hidden' %>
+
   <div class="hidden-md hidden-lg col-sm-12 mobile-transcript-col">
       <dl class="panel transcript-panel mobile-transcript">
         <div class="transcript-panel-heading">
@@ -13,9 +15,15 @@
             <span class="transcript-circle">-</span>
           </div>
         </div>
-        <div id="transcript" class="transcript-frame transcript-div transcript-view-show">
+        <div id="transcript" class="transcript-frame transcript-div transcript-view-<%= @transcript_open ? 'show' : 'hidden' %>">
           <div class="mobile-transcript-content">
             <%= raw @transcript_html %>
+          </div>
+        </div>
+
+        <div id="transcript-message" class="">
+          <div class="mobile-transcript-content">
+            <%= @transcript_message %>
           </div>
         </div>
       </dl>
