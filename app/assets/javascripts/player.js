@@ -136,11 +136,8 @@ $(function(){
       }
     }
 
-    $('div.transcript-slide').on("click", function(){
-      var sliders = document.getElementsByClassName("transcript-slide")
-      updatePlayerGrid();
-      updateTranscriptGrid();
-
+    function updateTranscriptButton() {
+      var sliders = document.getElementsByClassName("transcript-slide");
       for(var i = 0; i < sliders.length; ++i){
         var slide = sliders[i];
         if (slide.classList.contains('show-transcript')) {
@@ -152,7 +149,20 @@ $(function(){
           slide.classList.add('show-transcript');
           search.addClass('show-transcript-search');
         };
-      }
+      } 
+    }
+
+    $('div.transcript-slide').on("click", function(){
+      updatePlayerGrid();
+      updateTranscriptGrid();
+      updateTranscriptButton();
     });
+
+    if($('#transcript-state').hasClass('closed')) {
+      updatePlayerGrid()
+      updateTranscriptGrid();
+      updateTranscriptButton();
+    }
+
   });
 });
