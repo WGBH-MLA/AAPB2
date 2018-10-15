@@ -9,7 +9,7 @@ $(function(){
 
   var $transcript = $('#transcript');
 
-  $(window).load(function() {
+  $(document).ready(function() {
     var lines = {};
     $transcript.contents().find('[data-timecodebegin]').each(function(i,el){
         var $el = $(el);

@@ -208,11 +208,9 @@ class CatalogController < ApplicationController
         @skip_orr_terms = can? :skip_tos, @pbcore
 
         if can? :play, @pbcore
-
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
         end
-
         if can? :access_transcript, @pbcore
           @show_transcript = true
 
@@ -222,12 +220,12 @@ class CatalogController < ApplicationController
             @transcript_message = "This transcript is machine-generated and has not been corrected. It is likely there will 
             be errors."
             @transcript_open = false
-          end
-
+          end 
+ 
           @transcript_html = TranscriptFile.new(params['id']).html
           @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
         end
-          
+
         render
       end
       format.pbcore do
