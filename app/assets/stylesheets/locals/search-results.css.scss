@@ -366,6 +366,12 @@ li {
   opacity: 1;
 }
 
+.profile {
+  .subsection {
+    font-size: 14px
+  }
+}
+
 @media screen and (max-width: 990px) {
   .search-header {
     text-align: center;
