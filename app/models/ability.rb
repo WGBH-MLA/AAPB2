@@ -26,6 +26,6 @@ class Ability
 
     can :access_transcript, PBCore do |pbcore|
       user.onsite? && pbcore.public?
-    end    
+    end
   end
 end
