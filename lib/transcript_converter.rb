@@ -8,7 +8,7 @@ class TranscriptConverter
         para_counter = 1
         aggregate_transcript_parts(JSON.parse(json)).each do |part|
           x.div(class: 'transcript-row') do
-            x.span(' ', class: 'play-from-here', 'data-timecode' => as_timestamp(part['start_time']))
+            x.span(' ', style: "background-color: #0f0;", class: 'play-from-here', 'data-timecode' => as_timestamp(part['start_time']))
             x.div(
               id: "para#{para_counter}",
               class: 'para',
