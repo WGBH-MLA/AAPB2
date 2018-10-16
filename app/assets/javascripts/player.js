@@ -159,11 +159,11 @@ $(function(){
 
     });
 
-    // if($('#transcript-state').hasClass('closed')) {
-    //   updatePlayerGrid()
-    //   updateTranscriptGrid();
-    //   updateTranscriptButton();
-    // }
+    if($('#transcript-state').hasClass('closed')) {
+      updatePlayerGrid()
+      updateTranscriptGrid();
+      updateTranscriptButton();
+    }
 
     $('#transcript-message-close').on("click", function() {
       $('#transcript-message').slideUp(500);
