@@ -220,6 +220,11 @@ class CatalogController < ApplicationController
         else
           @show_transcript = false
         end
+
+        if @pbcore.has_transcript? && @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
+          @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
+        end
+
         render
       end
       format.pbcore do
