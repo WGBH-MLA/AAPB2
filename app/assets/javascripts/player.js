@@ -1,7 +1,6 @@
 // Imported from OpenVault with minor adjustments.
 $(function(){
   function parse_timecode(hms) {
-    console.log('tried to parse timecode')
       var arr = hms.split(':');
       return parseFloat(arr[2]) +
              60 * parseFloat(arr[1]) +
@@ -10,11 +9,10 @@ $(function(){
 
   var $transcript = $('#transcript');
 
-  $(window).load(function() {
+  $(document).ready(function() {
     var lines = {};
     $transcript.contents().find('[data-timecodebegin]').each(function(i,el){
         var $el = $(el);
-        console.log('about to parse timecode' + i)
         lines[parse_timecode($el.data('timecodebegin'))] = $el;
     });
     var sorted = Object.keys(lines).sort(function(a,b){return a - b;});
@@ -158,14 +156,18 @@ $(function(){
       updatePlayerGrid();
       updateTranscriptGrid();
       updateTranscriptButton();
+
     });
 
-    if($('#transcript-state').hasClass('closed')) {
-      console.log('tried to close player')
-      updatePlayerGrid()
-      updateTranscriptGrid();
-      updateTranscriptButton();
-    }
+    // if($('#transcript-state').hasClass('closed')) {
+    //   updatePlayerGrid()
+    //   updateTranscriptGrid();
+    //   updateTranscriptButton();
+    // }
+
+    $('#transcript-message-close').on("click", function() {
+      $('#transcript-message').slideUp(500);
+    });
 
   });
 });

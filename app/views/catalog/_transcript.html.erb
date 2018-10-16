@@ -2,7 +2,10 @@
   <div id="transcript-state" style="display: none;" class="hidden <%= @transcript_open ? 'open' : 'closed' %>"></div>
 
   <div class="col-sm-12 col-md-6 transcript-div transcript-view-show">
+
     <dl class="panel transcript-panel">
+
+
       <div class="transcript-panel-heading">
         <dt class="dt-left">Transcript</dt>
         <div class="input-group input-group-sm transcript-search show-transcript-search" role="search">
@@ -15,16 +18,22 @@
           <span class="transcript-circle">-</span>
         </div>
       </div>
-    </dl>
-    <div id="transcript" class="transcript-frame transcript-div transcript-view-show">
-      <div class="transcript-content">
-        <%= raw @transcript_html %>
-      </div>
-    </div>
+      
+      <div style="background-color: #fceab2;" id="transcript-message" class="">
+        
+        <div class="transcript-message-bar">
+          <button id="transcript-message-close" class="transcript-message-btn">✖</button>
+        </div>
 
-    <div id="transcript-message" class="transcript-div">
-      <div class="transcript-content">
-        <%= @transcript_message %>
+        <div class="transcript-message-content">
+          <%= @transcript_message %>
+        </div>
+      </div>
+
+    </dl>
+    <div id="transcript" class="transcript-frame">
+      <div class="transcript transcript-content">
+        <%= raw @transcript_html %>
       </div>
     </div>
   </div>

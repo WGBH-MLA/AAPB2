@@ -211,6 +211,7 @@ class CatalogController < ApplicationController
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
         end
+        
         if can? :access_transcript, @pbcore
           @show_transcript = true
 

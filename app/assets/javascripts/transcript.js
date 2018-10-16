@@ -1,5 +1,5 @@
 $(function(){
-  $(window).load(function() {
+  $(document).ready(function() {
     // Mark.js & jQuery scrollTo for Transcript search
     $(function() {
       // the input field
