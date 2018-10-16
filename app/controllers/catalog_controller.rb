@@ -221,7 +221,8 @@ class CatalogController < ApplicationController
           @show_transcript = false
         end
 
-        if @pbcore.has_transcript? && @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
+        # TODO: needs to be combined with work from 1499
+        if @document.transcript? && @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
           @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
         end
 
