@@ -218,10 +218,10 @@ class CatalogController < ApplicationController
         # check for transcript/caption anno
         if solr_doc.transcript?
           text = TranscriptFile.new(solr_doc[:id]).plaintext
-          @snippets[solr_doc[:id]][:transcript] = snippet_from_query(@query_for_captions, text, 200)
+          @snippets[solr_doc[:id]][:transcript] = snippet_from_query(@query_for_captions, text, 200, ' ')
         elsif solr_doc.caption?
           text = CaptionFile.new(solr_doc[:id]).text
-          @snippets[solr_doc[:id]][:caption] = snippet_from_query(@query_for_captions, text, 250)
+          @snippets[solr_doc[:id]][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
         end
       end
 
