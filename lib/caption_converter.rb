@@ -41,7 +41,7 @@ class CaptionConverter
   def self.srt_to_text(srt)
     caption_text = []
     parsed_srt = parse_srt(srt)
-
+    return nil unless parsed_srt
     parsed_srt.lines.each do |line|
       caption_text << line.text
     end

@@ -2,7 +2,6 @@ require 'open-uri'
 require_relative '../../lib/transcript_converter'
 
 class TranscriptFile
-  include ActionView::Helpers::TextHelper
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/transcripts'.freeze
   JSON_FILE = 'json'.freeze
   TEXT_FILE = 'text'.freeze
@@ -22,24 +21,11 @@ class TranscriptFile
   end
 
   def html
-    @html ||= build_html
+    @html ||= build_content.to_html if build_content
   end
 
-  def snippet_from_query(query)
-    transcript = Nokogiri::HTML(html).text.delete("\n")
-
-    transcript_dictionary = transcript.upcase.gsub(/[[:punct:]]/, '').split
-
-    intersection = query & transcript_dictionary
-    return nil unless intersection && intersection.present?
-    start = if (transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200) > 0
-              transcript.upcase.index(/\b(?:#{intersection[0]})\b/) - 200
-            else
-              0
-            end
-
-    body = '...' + transcript[start..-1].to_s + '...'
-    highlight(body.truncate(200, separator: ' '), query)
+  def plaintext
+    @plaintext ||= build_content.text if build_content
   end
 
   def file_present?
@@ -84,14 +70,15 @@ class TranscriptFile
     nil
   end
 
-  def build_html
-    case file_type
+  def build_content
+    @content ||= case file_type
     when TranscriptFile::JSON_FILE
-      return TranscriptConverter.json_to_html(json)
+      TranscriptConverter.get_json_parts(json)
     when TranscriptFile::TEXT_FILE
-      return TranscriptConverter.text_to_html(text)
+      TranscriptConverter.get_text_parts(text)
+    else
+      nil
     end
-    nil
   end
 
   def determine_url

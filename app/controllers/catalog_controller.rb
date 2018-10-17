@@ -3,6 +3,7 @@ require_relative '../../lib/aapb'
 class CatalogController < ApplicationController
   include Blacklight::Catalog
   include ApplicationHelper
+  include SnippetHelper
 
   configure_blacklight do |config|
     # 'list' is the name of blacklight's default search result view style
@@ -214,14 +215,13 @@ class CatalogController < ApplicationController
 
         @snippets[solr_doc[:id]] = {}
 
-        # check for transcript anno
+        # check for transcript/caption anno
         if solr_doc.transcript?
-          @snippets[solr_doc[:id]][:transcript] = TranscriptFile.new(solr_doc[:id]).snippet_from_query(@query_for_captions)
-        end
-
-        # check for caption anno
-        if !@snippets[solr_doc[:id]][:transcript] && solr_doc.caption?
-          @snippets[solr_doc[:id]][:caption] = CaptionFile.new(solr_doc[:id]).snippet_from_query(@query_for_captions)
+          text = TranscriptFile.new(solr_doc[:id]).plaintext
+          @snippets[solr_doc[:id]][:transcript] = snippet_from_query(@query_for_captions, text, 200)
+        elsif solr_doc.caption?
+          text = CaptionFile.new(solr_doc[:id]).text
+          @snippets[solr_doc[:id]][:caption] = snippet_from_query(@query_for_captions, text, 250)
         end
       end
 

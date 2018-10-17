@@ -2,7 +2,6 @@ require 'open-uri'
 require_relative '../../lib/caption_converter'
 
 class CaptionFile
-  include ActionView::Helpers::TextHelper
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze
 
   attr_reader :id
@@ -29,24 +28,6 @@ class CaptionFile
 
   def json
     @json ||= CaptionConverter.srt_to_json(srt)
-  end
-
-  def snippet_from_query(query)
-    captions = Nokogiri::HTML(html).text
-
-    captions_dictionary = captions.upcase.gsub(/[[:punct:]]/, '').split
-
-    intersection = query & captions_dictionary
-    return nil unless intersection && intersection.present?
-
-    start = if (captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 250) > 0
-              captions.upcase.index(/\b(?:#{intersection[0]})\b/) - 250
-            else
-              0
-            end
-
-    body = '...' + captions[start..-1].to_s + '...'
-    highlight(body.truncate(250, separator: '.'), query)
   end
 
   def self.srt_url(id)
