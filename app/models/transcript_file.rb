@@ -25,7 +25,7 @@ class TranscriptFile
   end
 
   def plaintext
-    @plaintext ||= build_content.text if build_content
+    @plaintext ||= build_content.text.gsub("\n", "") if build_content
   end
 
   def file_present?

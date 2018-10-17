@@ -1,8 +1,6 @@
 module SnippetHelper
-  require 'action_view/helpers/text_helper'
   
   def snippet_from_query(query, text, snippet_length)
-    include ActionView::TextHelper
     return nil unless text
     text_dictionary = text.upcase.gsub(/[[:punct:]]/, '').split
 
@@ -15,6 +13,6 @@ module SnippetHelper
             end
 
     body = '...' + text[start..-1].to_s + '...'
-    highlight(body.truncate(snippet_length, separator: ' '), query)
+    ActionController::Base.helpers.highlight(body.truncate(snippet_length, separator: ' '), query)
   end
 end
