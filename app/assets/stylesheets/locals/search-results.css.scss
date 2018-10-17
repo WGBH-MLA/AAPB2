@@ -62,6 +62,7 @@ $gallery-height: 10em;
 
   div.gallery-title {
     font-size: 28px;
+    max-width: 100%;
   }
 
   div.gallery-title h4 {
@@ -82,6 +83,7 @@ $gallery-height: 10em;
   font-weight: bold;
   margin-top: 12px;
   margin-bottom: 18px;
+  max-width: 10em;
 }
 
 .short_list-margin {
@@ -362,6 +364,12 @@ li {
 
 .tooltip.in {
   opacity: 1;
+}
+
+.profile {
+  .subsection {
+    font-size: 14px
+  }
 }
 
 @media screen and (max-width: 990px) {

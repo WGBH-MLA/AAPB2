@@ -65,6 +65,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
       PBCoreInstantiation.new(rexml)
     end
   end
+  def instantiations_display
+    @instantiations_display ||= instantiations.reject { |ins| ins.organization == 'American Archive of Public Broadcasting' }
+  end
   def rights_summaries
     @rights_summaries ||= xpaths('/*/pbcoreRightsSummary/rightsSummary')
   rescue NoMatchError
@@ -439,7 +442,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title
+      :producing_organizations_facet, :build_display_title, :instantiations_display
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)
