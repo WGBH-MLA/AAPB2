@@ -1,0 +1,8 @@
+<dd class="contributors">
+
+  <dl>
+    <% @pbcore.all_parties.each do |party| %>
+      <b><%= party.role %>:</b> <%= party.name %><br>
+    <% end %>
+  </dl>
+</dd>
