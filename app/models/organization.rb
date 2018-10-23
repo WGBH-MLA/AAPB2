@@ -65,6 +65,10 @@ class Organization < Cmless
     @url ||= Organization.clean(url_html)
   end
 
+  def urls
+    @urls ||= Nokogiri::HTML(url_html).xpath('//a').map {|a| a['href']}
+  end
+
   @orgs_by_pbcore_name = Hash[Organization.map { |org| [org.pbcore_name, org] }]
   @orgs_by_id          = Hash[Organization.map { |org| [org.id, org] }]
   @orgs_by_state       = Hash[Organization.group_by(&:state)]

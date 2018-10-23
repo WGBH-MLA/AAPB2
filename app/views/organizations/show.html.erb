@@ -2,8 +2,6 @@
   <h1>Participating Organizations</h1>
 </div>
 
-
-
 <br />
 
 <div class="row">
@@ -23,7 +21,10 @@
         <% end %>
 
         <%# TODO: better link idiom %>
-        <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
+
+        <% @org.urls.each do |url| %>
+          <p><a href="<%= url %>"><%= url %></a></p>
+        <% end %>
 
         <a href="/catalog?f[contributing_organizations][]=<%= CGI::escape(@org.facet)%>" class="btn btn-default btn-sm">View All Records</a>
 
