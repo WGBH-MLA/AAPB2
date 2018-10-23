@@ -61,10 +61,6 @@ class Organization < Cmless
     @short_name ||= Organization.clean(short_name_html).gsub('&amp;', '&')
   end
 
-  def url
-    @url ||= Organization.clean(url_html)
-  end
-
   def urls
     @urls ||= Nokogiri::HTML(url_html).xpath('//a').map {|a| a['href']}
   end
