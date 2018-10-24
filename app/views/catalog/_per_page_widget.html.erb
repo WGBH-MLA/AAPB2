@@ -1,7 +1,3 @@
-<% content_for(:head) do %>
-  <%= javascript_include_tag 'catalog-index' %>
-<% end %>
-
 <% if show_sort_and_per_page? and !blacklight_config.per_page.blank? %>
 
   <span class="sr-only"><%= t('blacklight.search.per_page.title') %></span>

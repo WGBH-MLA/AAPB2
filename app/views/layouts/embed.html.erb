@@ -7,10 +7,10 @@
     <%= stylesheet_link_tag "application", media: "all" %>
     <%= javascript_include_tag "application" %>
     <%= csrf_meta_tags %>
-    <link href="http://vjs.zencdn.net/5.11.7/video-js.css" rel="stylesheet" data-turbolinks-track>
-    <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
-    <!-- video-js support for IE 8 -->
-    <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+    <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+    <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
     <!-- Need VideoJS for our player.js file -->
     <%= javascript_include_tag 'player' %>
   </head>

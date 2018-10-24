@@ -145,6 +145,7 @@ describe 'Validated and plain PBCore' do
           'producing_organizations' => ['WGBH'],
           'states' => ['Massachusetts'],
           'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
+
           # TODO: UI will transform internal representation.
         },
         access_types: [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
@@ -159,8 +160,12 @@ describe 'Validated and plain PBCore' do
         exhibits: [],
         descriptions: ['Best episode ever!'],
         instantiations: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
-                         PBCoreInstantiation.new('Moving Image', '1:23:45')],
+                         PBCoreInstantiation.new('Moving Image', '1:23:45'),
+                         PBCoreInstantiation.new('Moving Image', 'should be ignored!')],
+        instantiations_display: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
+                                 PBCoreInstantiation.new('Moving Image', '1:23:45')],
         rights_summaries: ['Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.'],
+        licensing_info: 'You totally want to license this.',
         genres: ['Call-in'],
         topics: ['Music'],
         id: '1234',
@@ -203,16 +208,21 @@ describe 'Validated and plain PBCore' do
         creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'), PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')],
         contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
         publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')],
-        contributing_organization_names: ['WGBH'],
+        contributing_organization_names: ['WGBH', 'American Archive of Public Broadcasting'],
         contributing_organizations_facet: ['WGBH (MA)'],
         contributing_organization_names_display: ['WGBH'],
         contributing_organization_objects: [Organization.find_by_pbcore_name('WGBH')],
         states: ['Massachusetts'],
-        img?: true
+        img?: true,
+        all_parties: [
+          PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges'),
+          PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),
+          PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'),
+          PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')
+        ]
       }
 
       pbc = PBCore.new(pbc_xml)
-
       assertions.each do |method, value|
         it "\##{method} method works" do
           expect(pbc.send(method)).to eq(value)
