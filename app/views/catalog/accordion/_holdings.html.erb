@@ -1,4 +1,4 @@
-<% @pbcore.instantiations.each do |instantiation| %>
+<% @pbcore.instantiations_display.each do |instantiation| %>
   <dd class="holding">
     <strong><%= instantiation.organization %></strong><br>
     <% instantiation.display_text_fields.each do |field, text| %>
@@ -8,6 +8,6 @@
 <% end %>
 <div class="catalog-alert holding-alert">
   <div class="catalog-alert-text">
-    If you have a copy of this asset and would like us to add it to our catalog, please <%= link_to 'contact us', '/contact-us' %>
+    If you have a copy of this asset and would like us to add it to our catalog, please <%= link_to 'contact us', '/contact-us' %>.
   </div>
 </div>

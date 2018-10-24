@@ -33,11 +33,6 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def subjects
     @subjects ||= xpaths('/*/pbcoreSubject')
   end
-  def contributors
-    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do |rexml|
-      PBCoreNameRoleAffiliation.new(rexml)
-    end
-  end
   def producing_organizations
     @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }
   end
@@ -49,15 +44,29 @@ class PBCore # rubocop:disable Metrics/ClassLength
       PBCoreNameRoleAffiliation.new(rexml)
     end
   end
+  def contributors
+    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do |rexml|
+      PBCoreNameRoleAffiliation.new(rexml)
+    end
+  end
   def publishers
     @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map do |rexml|
       PBCoreNameRoleAffiliation.new(rexml)
     end
   end
+  def all_parties
+    cre = creators || []
+    con = contributors || []
+    pub = publishers || []
+    (cre + con + pub).uniq.sort_by { |p| p.role ? p.role : '' }
+  end
   def instantiations
     @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do |rexml|
       PBCoreInstantiation.new(rexml)
     end
+  end
+  def instantiations_display
+    @instantiations_display ||= instantiations.reject { |ins| ins.organization == 'American Archive of Public Broadcasting' }
   end
   def rights_summaries
     @rights_summaries ||= xpaths('/*/pbcoreRightsSummary/rightsSummary')
