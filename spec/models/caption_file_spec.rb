@@ -1,8 +1,9 @@
 require 'rails_helper'
 require 'webmock'
+include ApplicationHelper
+include SnippetHelper
 
 describe CaptionFile do
-  include ApplicationHelper
 
   before :all do
     # WebMock is disabled by defafult, but we use it for these tests.
@@ -73,21 +74,21 @@ describe CaptionFile do
 
   describe '#snippet_from_query' do
     it 'returns the caption from the beginning if query word is within first 200 characters' do
-      caption = caption_file_2.snippet_from_query(caption_query_one)
+      caption = snippet_from_query(caption_query_one, caption_file_2.text, 200, '.')
 
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('male')
+      expect(caption.split[1]).to eq('narrator:')
     end
 
     it 'truncates the begining of the caption if keyord is not within first 200 characters' do
-      caption = caption_file_2.snippet_from_query(caption_query_two)
+      caption = snippet_from_query(caption_query_two, caption_file_2.text, 200, '.')
 
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('HAD')
+      expect(caption.split[1]).to eq('<mark>AIRBORNE</mark>.')
     end
 
     it 'returns nil captions when query not in params' do
-      caption = caption_file_2.snippet_from_query(caption_query_three)
+      caption = snippet_from_query(caption_query_three, caption_file_2.text, 200, '.')
 
       expect(caption).to eq(nil)
     end
