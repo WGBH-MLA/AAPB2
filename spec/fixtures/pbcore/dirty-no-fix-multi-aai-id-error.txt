@@ -1,1 +1,1 @@
-Method validation errors: '#exhibits' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
+Method validation errors: '#id' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
