@@ -2,19 +2,19 @@
 <% today = Date.today.to_formatted_s(:long) %>
 <% org = ( @pbcore.contributing_organization_names_display.empty? ? '' : @pbcore.contributing_organization_names_display.join(', ') + ', ' ) + 'American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC' %>
 
-<dd><em>Chicago</em>:
+<dd class="citation"><strong>Chicago</strong>:
   &ldquo;<%= @pbcore.title %>,&rdquo;
   <%= @pbcore.asset_date + ',' if @pbcore.asset_date %>
   <%= org %>,
   accessed <%= today %>,
   <%= url %>.</dd>
-<dd><em>MLA</em>:
+<dd class="citation"><strong>MLA</strong>:
   &ldquo;<%= @pbcore.title %>.&rdquo;
   <%= @pbcore.asset_date + '.' if @pbcore.asset_date %>
   <%= org %>.
   Web. <%= today %>.
   &lt;<%= url %>&gt;.</dd>
-<dd><em>APA</em>:
+<dd class="citation"><strong>APA</strong>:
   <%= @pbcore.title %>.
   Boston, MA: <%= org %>.
   Retrieved from <%= url %></dd>
