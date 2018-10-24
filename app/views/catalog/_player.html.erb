@@ -3,7 +3,7 @@
   <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
   <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
-  
+
   <!-- Need VideoJS for our player.js file -->
   <%= javascript_include_tag 'player' %>
 <% end %>
@@ -35,7 +35,7 @@
               <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
               <% if @pbcore.captions_src %>
-                <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+                <track kind="captions" src="/captions/<%= @pbcore.get_caption_filename" srclang="en" label="English" default="default" />
               <% end %>
               <% if ChapterFile.file_present?(@pbcore.id) %>
                 <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
@@ -63,7 +63,7 @@
         ) %>
       <% end %>
     <% end %>
-  </div> 
+  </div>
 <% end %>
 
   <!-- special collections/exhibit banner -->
