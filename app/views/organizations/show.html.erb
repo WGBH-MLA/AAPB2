@@ -2,26 +2,11 @@
   <h1>Participating Organizations</h1>
 </div>
 
-
-
 <br />
 
 <div class="row">
-  <!-- Column -->
-  <div class="col-md-4  column">
-
-    <%= render partial: 'shared/sidebar_nav',
-               locals: {
-                  title: 'About',
-                  links:
-                    (@org.history_html.empty? ? [] : [['History', '#history']]) +
-                    (@org.productions_html.empty? ? [] : [['Productions', '#productions']])
-               } %>
-  </div>
-  <!-- END Column -->
-
   <!-- START: Main Column -->
-  <div class="col-md-8">
+  <div class="col-md-12">
 
     <!-- Org-o-tron -->
     <div class="jumbotron org-o-tron">
@@ -36,7 +21,10 @@
         <% end %>
 
         <%# TODO: better link idiom %>
-        <p><a href="<%= @org.url %>"><%= @org.url %></a></p>
+
+        <% @org.urls.each do |url| %>
+          <p><a href="<%= url %>"><%= url %></a></p>
+        <% end %>
 
         <a href="/catalog?f[contributing_organizations][]=<%= CGI::escape(@org.facet)%>" class="btn btn-default btn-sm">View All Records</a>
 
@@ -44,30 +32,17 @@
     </div>
     <!-- END Org-o-tron -->
 
-    <% unless @org.history_html.empty? %>
-      <a name="history"></a>
+    <% unless @org.about_html.empty? %>
+      <a name="about"></a>
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h2 class="panel-title">History</h2>
+          <h2 class="panel-title">About</h2>
         </div>
         <div class="panel-body">
-          <%= @org.history_html.html_safe %>
+          <%= @org.about_html.html_safe %>
         </div>
       </div>
     <% end %>
-
-    <% unless @org.productions_html.empty? %>
-      <a name="productions"></a>
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h2 class="panel-title">Productions</h2>
-        </div>
-        <div class="panel-body">
-          <%= @org.productions_html.html_safe %>
-        </div>
-      </div>
-    <% end %>
-
 
   </div>
   <!-- END: Main Column -->
