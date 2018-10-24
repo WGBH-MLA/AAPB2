@@ -1,6 +1,5 @@
 require 'open-uri'
 require_relative '../../lib/transcript_converter'
-include SnippetHelper
 
 class TranscriptFile
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/transcripts'.freeze

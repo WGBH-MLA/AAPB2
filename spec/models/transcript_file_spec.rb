@@ -1,6 +1,8 @@
 require 'rails_helper'
 require 'webmock'
 require 'json'
+include ApplicationHelper
+include SnippetHelper
 
 describe TranscriptFile do
   let(:json_id) { 'cpb-aacip_111-21ghx7d6' }
