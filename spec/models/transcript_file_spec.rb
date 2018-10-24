@@ -131,20 +131,19 @@ describe TranscriptFile do
 
   describe '#snippet_from_query' do
     it 'returns the transcript from the beginning if query word is within first 200 characters' do
-      transcript = text_transcript.snippet_from_query(transcript_query_one)
+      transcript = snippet_from_query(transcript_query_one, text_transcript.plaintext, 200, ' ')
       # .first returns the preceding '...'
       expect(transcript.split[1]).to eq('JIM')
     end
 
     it 'truncates the begining of the transcript if keyord is not within first 200 characters' do
-      transcript = text_transcript.snippet_from_query(transcript_query_two)
+      transcript = snippet_from_query(transcript_query_two, text_transcript.plaintext, 200, ' ')
       # .first returns the preceding '...'
-      expect(transcript.split[1]).to eq('dollar')
+      expect(transcript.split[1]).to eq('<mark>economy</mark>.')
     end
 
     it 'returns nil transcripts when query not in params' do
-      transcript = text_transcript.snippet_from_query(transcript_query_three)
-
+      transcript = snippet_from_query(transcript_query_three, text_transcript.plaintext, 200, ' ')
       expect(transcript).to eq(nil)
     end
   end

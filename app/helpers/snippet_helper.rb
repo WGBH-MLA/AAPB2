@@ -1,5 +1,4 @@
-module SnippetHelper
-  
+module SnippetHelper  
   def snippet_from_query(query, text, snippet_length, separator)
     return nil unless text
     text_dictionary = text.upcase.gsub(/[[:punct:]]/, '').split

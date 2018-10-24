@@ -3,7 +3,6 @@ require_relative '../../lib/aapb'
 class CatalogController < ApplicationController
   include Blacklight::Catalog
   include ApplicationHelper
-  include SnippetHelper
 
   configure_blacklight do |config|
     # 'list' is the name of blacklight's default search result view style
