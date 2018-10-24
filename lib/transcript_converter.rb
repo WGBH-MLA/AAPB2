@@ -2,7 +2,6 @@ require 'json'
 require 'nokogiri'
 
 class TranscriptConverter
-
   def self.get_json_parts(json)
     Nokogiri::XML::Builder.new do |x|
       x.div(class: 'root') do

@@ -16,7 +16,6 @@ class ParamsError < StandardError
 end
 
 class DownloadCleanIngest
-
   def const_init(name)
     const_name = name.upcase.tr('-', '_')
     flag_name = "--#{name}"

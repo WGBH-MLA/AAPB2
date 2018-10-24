@@ -25,7 +25,7 @@ class TranscriptFile
   end
 
   def plaintext
-    @plaintext ||= build_content.text.gsub("\n", "") if build_content
+    @plaintext ||= build_content.text.delete("\n") if build_content
   end
 
   def file_present?
@@ -71,14 +71,12 @@ class TranscriptFile
   end
 
   def build_content
-    @content ||= case file_type
-    when TranscriptFile::JSON_FILE
-      TranscriptConverter.get_json_parts(json)
-    when TranscriptFile::TEXT_FILE
-      TranscriptConverter.get_text_parts(text)
-    else
-      nil
-    end
+    @content ||=  case file_type
+                  when TranscriptFile::JSON_FILE
+                    TranscriptConverter.get_json_parts(json)
+                  when TranscriptFile::TEXT_FILE
+                    TranscriptConverter.get_text_parts(text)
+                  end
   end
 
   def determine_url
