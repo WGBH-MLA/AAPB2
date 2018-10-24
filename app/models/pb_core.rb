@@ -73,6 +73,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
+  def licensing_info
+    @licensing_info ||= xpath('/*/pbcoreAnnotation[@annotationType="Licensing Info"]')
+  rescue NoMatchError
+    nil
+  end
   def asset_type
     @asset_type ||= xpath('/*/pbcoreAssetType')
   rescue NoMatchError
@@ -442,7 +447,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :instantiations_display
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)

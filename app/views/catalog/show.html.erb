@@ -133,6 +133,17 @@
       <% end %>
     <% end %>
 
+    <% unless @pbcore.licensing_info.nil? %>
+      <!-- Small button group -->
+      <div class="btn-group licensing-btn-group">
+        <button class="btn btn-default btn-lg licensing-btn" type="button" data-toggle="modal" data-target="#licensingModal" aria-haspopup="true" aria-expanded="false">
+          Licensing Information
+        </button>
+      </div>
+
+      <%= render partial: 'shared/basic_modal', locals: { modal_id: "licensingModal", title: "License Content", body: @pbcore.licensing_info.html_safe } %>
+    <% end %>
+
     <div class="catalog-alert">
       <div class="catalog-alert-text">
         <% @pbcore.ids.first[1].tap do |id| %>
