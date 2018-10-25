@@ -216,12 +216,9 @@ class CatalogController < ApplicationController
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
 
-
-          if caption_url = @document.caption?
-            # get the extension of our caption file here while we have the information loaded
-            @capfile_ext = File.extname(caption_url).downcase.delete('.')
+          if caption_url = @pbcore.captions_src
+            @capfile_ext = caption_fileext
           end
-
         else
           @show_transcript = false
         end

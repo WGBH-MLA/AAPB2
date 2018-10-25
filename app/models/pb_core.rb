@@ -141,6 +141,10 @@ class PBCore # rubocop:disable Metrics/ClassLength
     nil
   end
 
+  def captions_fileext
+    File.extname(captions_src).downcase.delete('.') if captions_src
+  end
+
   def img?
     media_type == MOVING_IMAGE && digitized?
   end
@@ -249,7 +253,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
     return TranscriptFile.new(id).text if TranscriptFile.text_file_present?(id)
     # TODO: do we need to check for vtt vs srt captions here?
-    caption_file = CaptionFile.new(id)
+    caption_file = CaptionFile.new(id, captions_fileext)
     return caption_file.json if caption_file
     nil
   end
