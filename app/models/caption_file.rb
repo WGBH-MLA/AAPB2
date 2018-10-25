@@ -35,15 +35,15 @@ class CaptionFile
   end
 
   def html
-    @html ||= CaptionConverter.srt_to_html(get_srt)
+    @html ||= CaptionConverter.srt_to_html(get_source)
   end
 
   def text
-    @text ||= CaptionConverter.srt_to_text(get_srt)
+    @text ||= CaptionConverter.srt_to_text(get_source)
   end
 
   def json
-    @json ||= CaptionConverter.srt_to_json(get_srt)
+    @json ||= CaptionConverter.srt_to_json(get_source)
   end
 
   def captions_from_query(query)
