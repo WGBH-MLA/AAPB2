@@ -3,31 +3,47 @@ require_relative '../../lib/caption_converter'
 
 class CaptionFile
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze
-
   attr_reader :id
 
-  def initialize(id)
+  def initialize(id, sourcetype='srt')
+    return nil unless id
     @id = id
+    @sourcetype = sourcetype
   end
 
-  def srt
-    @srt ||= open(CaptionFile.srt_url(id)).read
+  def get_source
+    @source ||= open(source_url).read
+  end
+
+  def source_url
+    "#{CaptionFile::URL_BASE}/#{@id}/#{source_filename}".gsub('cpb-aacip_', 'cpb-aacip-')
+  end
+
+  def source_filename
+    case @sourcetype
+    when 'srt'
+      "#{id}.srt1.srt"
+    when 'vtt'
+      "#{id}.vtt"
+    else
+    end
   end
 
   def vtt
-    @vtt ||= CaptionConverter.srt_to_vtt(srt)
+    # return the unmodified vtt where applicable, otherwise convert
+    @vtt ||= @sourcetype == 'vtt' ? get_source : CaptionConverter.srt_to_vtt(get_source)
   end
 
   def html
-    @html ||= CaptionConverter.srt_to_html(srt)
+    @html ||= CaptionConverter.srt_to_html(get_srt)
   end
 
   def text
-    @text ||= CaptionConverter.srt_to_text(srt)
+    @text ||= CaptionConverter.srt_to_text(get_srt)
   end
 
   def json
-    @json ||= CaptionConverter.srt_to_json(srt)
+    @json ||= CaptionConverter.srt_to_json(get_srt)
   end
 
   def captions_from_query(query)
@@ -57,16 +73,9 @@ class CaptionFile
     query.upcase.gsub(/[[:punct:]]/, '').split.delete_if { |term| stopwords.include?(term) }
   end
 
-  def self.srt_url(id)
-    "#{CaptionFile::URL_BASE}/#{id}/#{srt_filename(id)}".gsub('cpb-aacip_', 'cpb-aacip-')
-  end
-
-  def self.srt_filename(id)
-    "#{id}.srt1.srt"
-  end
-
-  def self.file_present?(id)
-    return true if Net::HTTP.get_response(URI.parse(CaptionFile.srt_url(id))).code == '200'
-    false
-  end
+  # TODO: think this can be removed since its really just doing the work of getting the caption twice
+  # def self.file_present?(id)
+  #   return true if Net::HTTP.get_response(URI.parse(CaptionFile.source_url(id))).code == '200'
+  #   false
+  # end
 end
