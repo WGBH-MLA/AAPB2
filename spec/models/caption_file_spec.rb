@@ -40,7 +40,6 @@ describe CaptionFile do
 
   describe '#srt' do
     it 'returns the SRT formatted caption retrieved from remote_url' do
-      require('pry');binding.pry
       expect(caption_file_1.srt).to eq srt_example_1
     end
   end
@@ -98,13 +97,13 @@ describe CaptionFile do
 
   describe '.srt_filename' do
     it 'returns the filename based on the ID' do
-      expect(CaptionFile.srt_filename('foo')).to eq 'foo.srt1.srt'
+      expect(CaptionFile.new('foo').source_filename).to eq 'foo.srt1.srt'
     end
   end
 
   describe '.srt_url' do
     it 'returns the URL to the remote SRT caption file' do
-      expect(CaptionFile.srt_url('foo')).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt'
+      expect(CaptionFile.new('foo').source_url).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt'
     end
   end
 
@@ -120,12 +119,15 @@ describe CaptionFile do
 
   describe '.file_present?' do
     it 'returns true for an id with a file on S3' do
-      expect(CaptionFile.file_present?(id_2)).to eq(true)
+      expect(CaptionFile.new(id_2)).to be_truthy
     end
 
     it 'returns false for an id without a file on S3' do
-      expect(CaptionFile.file_present?(id_3)).to eq(false)
+      expect(CaptionFile.new(id_3)).to be_falsy
     end
+
+
+    # TODO: add vtt-source-file tests once we gets a vtt caption file
   end
 
   after(:all) do

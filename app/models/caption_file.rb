@@ -9,6 +9,7 @@ class CaptionFile
     return nil unless id
     @id = id
     @sourcetype = sourcetype
+    return nil unless get_source
   end
 
   def get_source
@@ -27,6 +28,12 @@ class CaptionFile
       "#{id}.vtt"
     else
     end
+  end
+
+  def srt
+    # TODO: write vtt convert method, if thats worth covering
+    # @srt ||= @sourcetype == 'srt' ? get_source : CaptionConverter.vtt_to_srt(get_source)
+    @srt ||= @sourcetype == 'srt' ? get_source : ''
   end
 
   def vtt
