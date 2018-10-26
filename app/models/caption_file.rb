@@ -13,7 +13,12 @@ class CaptionFile
   end
 
   def get_source
-    @source ||= open(source_url).read
+    @source ||= begin
+                  open(source_url).read
+                rescue OpenURI::HTTPError
+                  # 500 bad!
+                  nil
+                end
   end
 
   def source_url

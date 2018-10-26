@@ -33,9 +33,14 @@ describe CaptionFile do
     # Stub requests so we don't actually have to fetch them remotely. But note
     # that this requires that the files have been pulled down and saved in
     # ./spec/fixtures/srt/ with the same filename they have in S3.
-    WebMock.stub_request(:get, CaptionFile.new(id_1).source_url).to_return(body: srt_example_1)
-    WebMock.stub_request(:get, CaptionFile.new(id_2).source_url).to_return(body: srt_example_2)
-    WebMock.stub_request(:get, CaptionFile.new(id_3).source_url).to_return(status: [500, 'Internal Server Error'])
+    WebMock.stub_request(:get, "https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-111-02c8693q/cpb-aacip-111-02c8693q.srt1.srt").to_return(body: srt_example_1)
+    WebMock.stub_request(:get, "https://s3.amazonaws.com/americanarchive.org/captions/1a2b/1a2b.srt1.srt").to_return(body: srt_example_2)
+    WebMock.stub_request(:get, "https://s3.amazonaws.com/americanarchive.org/captions/invalid123/invalid123.srt1.srt").to_return(status: [500, 'Internal Server Error'])
+    # dont need response, just getting through the cap file init
+    WebMock.stub_request(:get, "https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt").to_return(body: '')
+
+
+
   end
 
   describe '#srt' do
@@ -95,7 +100,7 @@ describe CaptionFile do
   # Class method tests
   ###
 
-  describe '.srt_filename' do
+  describe '.source_filename' do
     it 'returns the filename based on the ID' do
       expect(CaptionFile.new('foo').source_filename).to eq 'foo.srt1.srt'
     end
@@ -119,11 +124,11 @@ describe CaptionFile do
 
   describe '.file_present?' do
     it 'returns true for an id with a file on S3' do
-      expect(CaptionFile.new(id_2)).to be_truthy
+      expect(CaptionFile.new(id_2).get_source).to be_truthy
     end
 
     it 'returns false for an id without a file on S3' do
-      expect(CaptionFile.new(id_3)).to be_falsy
+      expect(CaptionFile.new(id_3).get_source).to be_falsy
     end
 
 
