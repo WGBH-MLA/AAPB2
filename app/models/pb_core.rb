@@ -252,9 +252,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def transcript_content
     return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
     return TranscriptFile.new(id).text if TranscriptFile.text_file_present?(id)
-    # TODO: do we need to check for vtt vs srt captions here?
     caption_file = CaptionFile.new(id, captions_fileext)
-    return caption_file.json if caption_file
+    return caption_file.json if caption_file.try(:get_source)
     nil
   end
   MOVING_IMAGE = 'Moving Image'.freeze

@@ -84,10 +84,4 @@ class CaptionFile
 
     query.upcase.gsub(/[[:punct:]]/, '').split.delete_if { |term| stopwords.include?(term) }
   end
-
-  # TODO: think this can be removed since its really just doing the work of getting the caption twice
-  # def self.file_present?(id)
-  #   return true if Net::HTTP.get_response(URI.parse(CaptionFile.source_url(id))).code == '200'
-  #   false
-  # end
 end
