@@ -106,7 +106,7 @@ describe CaptionFile do
     end
   end
 
-  describe '.srt_url' do
+  describe '.source_url' do
     it 'returns the URL to the remote SRT caption file' do
       expect(CaptionFile.new('foo').source_url).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt'
     end
