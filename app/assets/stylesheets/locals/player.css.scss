@@ -26,3 +26,26 @@
   text-align: right;
   line-height: 36px;
 }
+
+.skip-button {
+  background-color: rgb(101, 48, 144);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  font-family: Roboto, Verdana, Tahoma, "DejaVu Sans", sans-serif;
+  font-size: 10px;
+  height: 2.4vh;
+  // line-height: 20px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  width: 3.4vw;
+
+}

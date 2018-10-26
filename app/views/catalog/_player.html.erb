@@ -6,7 +6,6 @@
   <%= javascript_include_tag 'transcript', 'data-turbolinks-track': 'false' %>
   <%= javascript_include_tag 'mobile-transcript', 'data-turbolinks-track': 'false' %>
   <%= javascript_include_tag 'player', 'data-turbolinks-track': 'false' %>
-
 <% end %>
 
 <!-- player or thumbnail or message -->
@@ -49,6 +48,13 @@
       </div>
     <div class="hidden-sm hidden-xs">
       <%= render partial: 'transcript' %>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <button id="skip-back" class="skip-button">< 10</button>
+      <button id="skip-forward" class="skip-button">10 ></button>
     </div>
   </div>
 
