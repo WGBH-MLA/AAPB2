@@ -33,13 +33,14 @@ describe CaptionFile do
     # Stub requests so we don't actually have to fetch them remotely. But note
     # that this requires that the files have been pulled down and saved in
     # ./spec/fixtures/srt/ with the same filename they have in S3.
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_1)).to_return(body: srt_example_1)
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_2)).to_return(body: srt_example_2)
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_3)).to_return(status: [500, 'Internal Server Error'])
+    WebMock.stub_request(:get, CaptionFile.new(id_1).source_url).to_return(body: srt_example_1)
+    WebMock.stub_request(:get, CaptionFile.new(id_2).source_url).to_return(body: srt_example_2)
+    WebMock.stub_request(:get, CaptionFile.new(id_3).source_url).to_return(status: [500, 'Internal Server Error'])
   end
 
   describe '#srt' do
     it 'returns the SRT formatted caption retrieved from remote_url' do
+      require('pry');binding.pry
       expect(caption_file_1.srt).to eq srt_example_1
     end
   end
