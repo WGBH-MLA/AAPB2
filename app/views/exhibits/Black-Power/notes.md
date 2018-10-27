@@ -6,7 +6,7 @@
 
 ### Notes to Televising Black Politics in the Black Power Era
 
-<a name="1"></a><sup>1</sup> Kerner Commission, 1
+<a name="1"></a><sup>1</sup> Kerner Commission, 1.
 
 <a name="2"></a><sup>2</sup> A contemporary source includes, *Bill Moyers Journal*, “Essay on Watergate,” WNET, written by Bill Moyers, produced by Jerome Toobin and Martin Clancy, directed by Jack Sameth, first broadcast October 31, 1973, accessed June 12, 2017, https://vimeo.com/44242486
 
