@@ -12,22 +12,13 @@ Abstract here...
 
 
 
-
-## Resources
-
-- [National Trust for Historic Preservation](https://savingplaces.org/)
-- [National Park Service: What is Historic Preservation?](https://www.nps.gov/subjects/historicpreservation/what-is-historic-preservation.htm)
-- [National Register of Historic Places](https://www.nps.gov/nr/)
-- [Historic American Building Surveys at the Library of Congress](https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/)
-
-
 ## Main
 
-### An Introduction to Historic Preservation
+### Televising Black Politics in the Black Power Era
 
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Historic American Buildings Survey, Creator. <em>Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY.</em> New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/pennstationhabs_sm.png" alt="Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."/></td></tr>
+<table class="a_haizlip_and_hillie.png">
+  <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/a_haizlip_and_hillie.png" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
 </table>
 The destruction of New York's Penn Station in 1963 is often cited as the catalyst for the contemporary architectural preservation movement in America. The station’s demolition revealed consequences of postwar development and helped to popularize historic preservation in American cities.[<sup>1</sup>](/exhibits/historic-preservation/notes#1) Yet Penn Station is only one anecdote in a the long history of historic preservation in the United States. Historic preservationists work to protect the natural, cultural, or built landscape. They work at local, state, and federal levels. They work to preserve places with important physical structures or natural resources, as well as places that reflect the ideas, values, or politics of a particular location. Preservationists and anti-preservationists alike have used public media as a forum that allows for discussion of the ideas, values, or politics embedded in the construction of our landscape. As a result, the American Archive of Public Broadcasting is a rich resource for understanding how Americans have viewed their environments over time, and how they have sought to keep or change the places they live and play, work and worship.
 
@@ -48,6 +39,14 @@ Urban renewal also catalyzed preservation in the United States in the 1960s and 
 However, historic preservation was never restricted to the built landscape. Environmental preservationists and conservationists also sought to save natural landscapes with historic and cultural significance.[<sup>6</sup>](/exhibits/historic-preservation/notes#6) Public broadcasting has provided a venue for differing views on environmental conservation, drawing attention to local environmental issues with national and global implications. Shows and documentaries on the National Park Service, instrumental in the stewardship of the natural landscape, and the politics surrounding environmental legislation reveal different stories of American values and the importance of nature in our national imagination. The exploration of environmental preservation through public media typically occurs in local programming, as with Southern California’s KPCC in the 2000s. By combining these isolated, region-specific programs in this exhibit, we can piece together a larger picture of what Americans value in their natural environment.
 
 This exhibit will explore how historic preservation has been discussed, challenged, and negotiated through public broadcasting. Public media has long presented compelling images of changes in the nation’s built and natural environments and provided forums for citizens to debate preservation issues of local and national concern. By using public broadcasting to explore the history of historic preservation, we can understand better what local communities and our country have chosen to preserve and why they have done so.
+
+## Resources
+
+- [National Trust for Historic Preservation](https://savingplaces.org/)
+- [National Park Service: What is Historic Preservation?](https://www.nps.gov/subjects/historicpreservation/what-is-historic-preservation.htm)
+- [National Register of Historic Places](https://www.nps.gov/nr/)
+- [Historic American Building Surveys at the Library of Congress](https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/)
+
 
 ## Author
 
