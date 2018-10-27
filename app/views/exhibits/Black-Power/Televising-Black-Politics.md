@@ -20,7 +20,8 @@ Abstract here...
   <caption align="bottom" class="exhibit-caption">Selma, Alabama; Police attack protesters 1965. Source: FBI</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_bloody_sunday.jpg" alt="Selma, Alabama; Police attack protesters 1965. Source: FBI"/></td></tr>
 </table>
-“Our Nation is moving toward two societies, one black, one white- separate and unequal.”[<sup>1</sup>](/exhibits/black-power/notes#1)
+“Our Nation is moving toward two societies, one black, one white- separate and unequal."
+[<sup>1</sup>](/exhibits/black-power/notes#1)
 
 
 Televised images of the Civil Rights Movement have been ingrained into the US collective memory. Black people attacked by dogs, protestors assaulted at lunch counters, fire hoses turned on children -- non-violent protest and repressive violence garnered the sympathy of much of the nation. The fight for Southern Civil Rights, a response to the oppressive conditions of Jim Crow, was seen by the majority of US citizens as a regional issue and not of concern to the nation at large.[<sup>2</sup>](/exhibits/black-power/notes#2) However, televised images helped to turn the tide on the Civil Rights Movement and garnered the support of Americans across the country.[<sup>3</sup>](/exhibits/black-power/notes#3) 
@@ -38,7 +39,7 @@ On the other hand, the rising Black Power Movement--in its many forms, interpret
 
 
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection.</caption>
+  <caption align="bottom" class="exhibit-caption">President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4_kerner_commission.jpg" alt="President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection."/></td></tr>
 </table>
 In 1967, President Lyndon B. Johnson established the National Advisory Committee on Civil Disorders, often referred to as the Kerner Commission, to explore the cause of the riots and determine what could be done to prevent them from happening again.  The commission was specifically asked to explore the effects of the mass media on the riots. It judged riot reporting to be sensationalized and indicated that it “failed to analyze and report adequately on racial problems in the United States.”[<sup>6</sup>](/exhibits/black-power/notes#6) They further argued that “media report and write from the standpoint of a white man’s world.”[<sup>7</sup>](/exhibits/black-power/notes#7) The commission stated that the media did not explore the problems that Blacks faced in the country or even acknowledge Black history and culture. In considering the media’s role in contributing “to the black-white schism in this country,” the commission suggested the need for increased hiring of Blacks not only as news reporters, but also in positions of influence such as writers and editors.[<sup>8</sup>](/exhibits/black-power/notes#8) 
