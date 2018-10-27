@@ -54,8 +54,8 @@ This exhibit will explore how historic preservation has been discussed, challeng
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/karaheadshot.jpg"/>
 
 ### Christine Acham
-Assistant Dean of Diversity and Inclusion 
-Associate Professor of the Practice of Cinematic Arts
+#### Assistant Dean of Diversity and Inclusion 
+#### Associate Professor of the Practice of Cinematic Arts
 Division of Cinema and Media Studies
 School of Cinematic Arts
 
