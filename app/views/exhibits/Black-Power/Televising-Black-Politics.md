@@ -20,6 +20,8 @@ Abstract here...
   <caption align="bottom" class="exhibit-caption">Selma, Alabama; Police attack protesters 1965. Source: FBI</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_bloody_sunday.jpg" alt="Selma, Alabama; Police attack protesters 1965. Source: FBI"/></td></tr>
 </table>
+
+
 “Our Nation is moving toward two societies, one black, one white- separate and unequal."[<sup>1</sup>](/exhibits/black-power/notes#1)
 
 
@@ -29,6 +31,8 @@ Televised images of the Civil Rights Movement have been ingrained into the US co
   <caption align="bottom" class="exhibit-caption">Martin Luther King Jr. Source: Creative Commons</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/2_martin_luther_king.jpg" alt="Martin Luther King Jr. Source: Creative Commons"/></td></tr>
 </table>
+
+
 For example, Martin Luther King Jr. was well aware of the power of television and used cameras within his protest strategy at times cancelling events if he knew that the press would not be there.[<sup>4</sup>](/exhibits/black-power/notes#4) These images compelled both the Kennedy and Johnson administrations to intercede on behalf of the African American population and the violence and repression they experienced on a daily basis.[<sup>5</sup>](/exhibits/black-power/notes#5)
 
 On the other hand, the rising Black Power Movement--in its many forms, interpretations and practices-- a direct result of the protracted change in the US racial landscape, was generally met with fear from the mainstream public and misunderstanding from the majority of television news outlets. <table class="exhibit-image">
