@@ -1,4 +1,4 @@
-# *Protecting Places*: Historic Preservation and Public Broadcasting
+# Televising Black Power Politics in the Black Power Era *Black Journal* and *Soul*
 
 ## Summary
 <table class="exhibit-image">
