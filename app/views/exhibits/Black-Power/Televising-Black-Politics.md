@@ -1,7 +1,7 @@
 # Televising Black Power Politics in the Black Power Era *Black Journal* and *Soul!*
 
 ## Summary
-<table class="a_haizlip_and_hillie.png">
+<table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/a_haizlip_and_hillie.png" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
 </table>
@@ -16,19 +16,18 @@ Abstract here...
 
 ### Televising Black Politics in the Black Power Era
 
-<table class="1_bloody_sunday.jpg">
+<table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Selma, Alabama; Police attack protesters 1965. Source: FBI</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_bloody_sunday.jpg" alt="Selma, Alabama; Police attack protesters 1965. Source: FBI"/></td></tr>
 </table>
 “Our Nation is moving toward two societies, one black, one white- separate and unequal.”[<sup>1</sup>](/exhibits/black-power/notes#1)
 
 
-
 Televised images of the Civil Rights Movement have been ingrained into the US collective memory. Black people attacked by dogs, protestors assaulted at lunch counters, fire hoses turned on children -- non-violent protest and repressive violence garnered the sympathy of much of the nation. The fight for Southern Civil Rights, a response to the oppressive conditions of Jim Crow, was seen by the majority of US citizens as a regional issue and not of concern to the nation at large.[<sup>2</sup>](/exhibits/black-power/notes#2) However, televised images helped to turn the tide on the Civil Rights Movement and garnered the support of Americans across the country.[<sup>3</sup>](/exhibits/black-power/notes#3) For example, Martin Luther King Jr. was well aware of the power of television and used cameras within his protest strategy at times cancelling events if he knew that the press would not be there.[<sup>4</sup>](/exhibits/black-power/notes#4) These images compelled both the Kennedy and Johnson administrations to intercede on behalf of the African American population and the violence and repression they experienced on a daily basis.[<sup>5</sup>](/exhibits/black-power/notes#5)
 
 On the other hand, the rising Black Power Movement--in its many forms, interpretations and practices-- a direct result of the protracted change in the US racial landscape, was generally met with fear from the mainstream public and misunderstanding from the majority of television news outlets. The concurrent revolts that sparked in major cities across the US in the mid to late 1960s, for example, Watts (1965), Chicago (1966), and the uprisings during the “long hot summer” of 1967, only added to this climate of misunderstanding.  Yet the riots were the direct result of the racism, police brutality, limited opportunities and general lack of change that many organizations in both the Civil Rights and Black Power Movement sought to address. 
 
-In 1967, President Lyndon B. Johnson established the National Advisory Committee on Civil Disorders, often referred to as the Kerner Commission, to explore the cause of the riots and determine what could be done to prevent them from happening again.  The commission was specifically asked to explore the effects of the mass media on the riots. It judged riot reporting to be sensationalized and indicated that it “failed to analyze and report adequately on racial problems in the United States.”  They further argued that “media report and write from the standpoint of a white man’s world.”  The commission stated that the media did not explore the problems that Blacks faced in the country or even acknowledge Black history and culture.  In considering the media’s role in contributing “to the black-white schism in this country,” the commission suggested the need for increased hiring of Blacks not only as news reporters, but also in positions of influence such as writers and editors. 
+In 1967, President Lyndon B. Johnson established the National Advisory Committee on Civil Disorders, often referred to as the Kerner Commission, to explore the cause of the riots and determine what could be done to prevent them from happening again.  The commission was specifically asked to explore the effects of the mass media on the riots. It judged riot reporting to be sensationalized and indicated that it “failed to analyze and report adequately on racial problems in the United States.”[<sup>6</sup>](/exhibits/black-power/notes#6) They further argued that “media report and write from the standpoint of a white man’s world.”[<sup>7</sup>](/exhibits/black-power/notes#7) The commission stated that the media did not explore the problems that Blacks faced in the country or even acknowledge Black history and culture. In considering the media’s role in contributing “to the black-white schism in this country,” the commission suggested the need for increased hiring of Blacks not only as news reporters, but also in positions of influence such as writers and editors. 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Johnston, Frances Benjamin, photographer. <em>Rosedown Plantation, St. Francisville, W. Feliciana Parish, Louisiana.</em> Louisiana St. Francisville W. Feliciana Parish, 1938. Photograph. Retrieved from the Library of Congress.</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/rosedownplantation_sm.png" alt="Johnston, Frances Benjamin, photographer. Rosedown Plantation, St. Francisville, W. Feliciana Parish, Louisiana. Louisiana St. Francisville W. Feliciana Parish, 1938. Photograph. Retrieved from the Library of Congress."/></td></tr>
