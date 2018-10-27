@@ -1,6 +1,6 @@
 # Notes
 
-8
+4
 
 ## Summary
 
@@ -31,6 +31,8 @@
 <a name="12"></a><sup>12</sup> WNDT, New Jersey was later renamed WNET, New York.
 
 <a name="13"></a><sup>13</sup> Acham, 32-41.
+
+
 
 
 ### Notes to *Black Journal*
@@ -98,6 +100,8 @@
 <a name="44"></a><sup>44</sup> *Black Journal* returned to public television in 1981.
 
 
+
+
 ### Notes to *Soul!*
 
 <a name="45"></a><sup>45</sup> Wald, 1.
@@ -116,7 +120,7 @@
 
 <a name="52"></a><sup>52</sup> Although Stokley Carmichael changed his name to Kwame Ture in 1969, he is referred to as Carmichael during the episode.
 
-<a name="53"></a><sup>23</sup> Heitner,*Black Power TV*, 22.
+<a name="53"></a><sup>23</sup> Heitner, *Black Power TV*, 22.
 
 <a name="54"></a><sup>54</sup> Ibid., 144.
 
