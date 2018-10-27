@@ -71,4 +71,4 @@ University of Southern California
 
 Cinema and Media Studies
 
-#### Next: [Black Journal](/exhibits/Televising-Black-Politics/Black-Journal)
+#### Next: [Black Journal](/exhibits/Black-Power/Televising-Black-Politics/Black-Journal)
