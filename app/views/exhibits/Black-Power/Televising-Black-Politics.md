@@ -16,10 +16,12 @@ Abstract here...
 
 ### Televising Black Politics in the Black Power Era
 
-<table class="a_haizlip_and_hillie.png">
-  <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/a_haizlip_and_hillie.png" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
+<table class="1_bloody_sunday.jpg">
+  <caption align="bottom" class="exhibit-caption">Selma, Alabama; Police attack protesters 1965. Source: FBI</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_bloody_sunday.jpg" alt="Selma, Alabama; Police attack protesters 1965. Source: FBI"/></td></tr>
 </table>
+“Our Nation is moving toward two societies, one black, one white- separate and unequal.”[<sup>1</sup>](/exhibits/Black-Power/notes#1)
+
 The destruction of New York's Penn Station in 1963 is often cited as the catalyst for the contemporary architectural preservation movement in America. The station’s demolition revealed consequences of postwar development and helped to popularize historic preservation in American cities.[<sup>1</sup>](/exhibits/historic-preservation/notes#1) Yet Penn Station is only one anecdote in a the long history of historic preservation in the United States. Historic preservationists work to protect the natural, cultural, or built landscape. They work at local, state, and federal levels. They work to preserve places with important physical structures or natural resources, as well as places that reflect the ideas, values, or politics of a particular location. Preservationists and anti-preservationists alike have used public media as a forum that allows for discussion of the ideas, values, or politics embedded in the construction of our landscape. As a result, the American Archive of Public Broadcasting is a rich resource for understanding how Americans have viewed their environments over time, and how they have sought to keep or change the places they live and play, work and worship.
 
 Since 1853, when Southerner Ann Pamela Cunningham announced her intention to purchase and restore a decaying Mount Vernon, historic preservationists have worked to save our nation’s historical sites.[<sup>2</sup>](/exhibits/historic-preservation/notes#2) Early preservationists often raised money to preserve the homes of prominent politicians and generals, hoping these places would inspire visitors to embrace American heritage.[<sup>3</sup>](/exhibits/historic-preservation/notes#3)  Early preservationists defined American heritage narrowly, however, and by the mid-twentieth century, many citizens began to debate what American heritage encompassed, and which places and stories best reflected American values. Public broadcasting offers a forum in which American history and heritage is explored through the discussion of preservation. News segments, radio call-ins, panel discussions, and programming like Louisiana Public Broadcasting's *Plantation Celebration* devote time to exploring what the preservation of these sites contributes to our understanding of our nation’s history.
