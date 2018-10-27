@@ -71,4 +71,4 @@ University of Southern California
 
 Cinema and Media Studies
 
-#### Next: [Traditional Historic Preservation](/exhibits/historic-preservation/traditional-preservation)
+#### Next: [Black Journal](/exhibits/Televising-Black-Politics/Black-Journal)
