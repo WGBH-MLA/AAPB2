@@ -1,21 +1,16 @@
-# Televising Black Power Politics in the Black Power Era *Black Journal* and *Soul*
+# Televising Black Power Politics in the Black Power Era *Black Journal* and *Soul!*
 
 ## Summary
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Historic American Buildings Survey, Creator. <em>Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY.</em> New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/pennstationcrop.jpg" alt="Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."/></td></tr>
+<table class="a_haizlip_and_hillie.png">
+  <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/a_haizlip_and_hillie.png" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
 </table>
-Historic preservation is more than just saving old buildings from the bulldozer. Histories can be shared or silenced depending upon the preservation of places that represent a larger story. Historic preservationists have long used public broadcasting to make history tangible through buildings and landscapes across America. National programs, local news and magazine shows, radio call-ins, and interviews reveal the remarkable and ordinary places Americans have used to share stories about their communities. Looking at broad themes in historic preservation, this exhibit will explore the many ways Americans have created a dialogue through public media about these places that embody local and national histories.
+Abstract here...
 <p>&nbsp;</p>
 
 ## Extended
 
-## Author
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/karaheadshot.jpg"/>
-
-### Kara Zelasko
-Digital Exhibits Intern, American Archive of Public Broadcasting
 
 
 ## Resources
@@ -54,6 +49,19 @@ However, historic preservation was never restricted to the built landscape. Envi
 
 This exhibit will explore how historic preservation has been discussed, challenged, and negotiated through public broadcasting. Public media has long presented compelling images of changes in the nation’s built and natural environments and provided forums for citizens to debate preservation issues of local and national concern. By using public broadcasting to explore the history of historic preservation, we can understand better what local communities and our country have chosen to preserve and why they have done so.
 
-*A special thank you to Dr. Victoria Cain for reviewing and editing this exhibit.*
+## Author
+
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/karaheadshot.jpg"/>
+
+### Christine Acham
+Assistant Dean of Diversity and Inclusion 
+Associate Professor of the Practice of Cinematic Arts
+Division of Cinema and Media Studies
+School of Cinematic Arts
+
+### Ashley Young
+Ph.D. Candidate
+University of Southern California
+Cinema and Media Studies
 
 #### Next: [Traditional Historic Preservation](/exhibits/historic-preservation/traditional-preservation)
