@@ -85,6 +85,32 @@ $(document).on('turbolinks:load', function() {
       set_user_scroll(true);
   });
 
+  function skipPlayer(forward) {
+    var now = player.currentTime();
+    if(forward){
+      player.currentTime(now+10);
+
+    } else {
+      player.currentTime(now-10);
+    }
+  }
+
+  $(document).keypress(function(e) {
+    if(e.keyCode == 37) {
+      $('button#skip-back').trigger('click');
+    } else if (e.keyCode == 39) {
+      $('button#skip-forward').trigger('click');
+    }
+  });
+
+  $('button#skip-back').click(function() {
+    skipPlayer(false);
+  });
+
+  $('button#skip-forward').click(function() {
+    skipPlayer(true);
+  });
+
   var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
 
   // If timecode included in URL, play to pass thumbnail,
