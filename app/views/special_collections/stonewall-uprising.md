@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Stonewall](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0005Reconstruction.jpg "Reconstruction")
+![Stonewall](https://s3.amazonaws.com/americanarchive.org/special-collections/StonewallUprisingMainImage.jpg "Stonewall Uprising")
 
 ## Summary
 
