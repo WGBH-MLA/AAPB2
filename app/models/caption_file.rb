@@ -5,14 +5,14 @@ class CaptionFile
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze
   attr_reader :id
 
-  def initialize(id, sourcetype='srt')
+  def initialize(id, sourcetype = 'srt')
     return nil unless id
     @id = id
     @sourcetype = sourcetype
-    return nil unless get_source
+    return nil unless source
   end
 
-  def get_source
+  def source
     @source ||= begin
                   open(source_url).read
                 rescue OpenURI::HTTPError
@@ -31,31 +31,28 @@ class CaptionFile
       "#{id}.srt1.srt"
     when 'vtt'
       "#{id}.vtt"
-    else
     end
   end
 
   def srt
-    # TODO: write vtt convert method, if thats worth covering
-    # @srt ||= @sourcetype == 'srt' ? get_source : CaptionConverter.vtt_to_srt(get_source)
-    @srt ||= @sourcetype == 'srt' ? get_source : ''
+    @srt ||= @sourcetype == 'srt' ? source : ''
   end
 
   def vtt
     # return the unmodified vtt where applicable, otherwise convert
-    @vtt ||= @sourcetype == 'vtt' ? get_source : CaptionConverter.srt_to_vtt(get_source)
+    @vtt ||= @sourcetype == 'vtt' ? source : CaptionConverter.srt_to_vtt(source)
   end
 
   def html
-    @html ||= CaptionConverter.srt_to_html(get_source)
+    @html ||= CaptionConverter.srt_to_html(source)
   end
 
   def text
-    @text ||= CaptionConverter.srt_to_text(get_source)
+    @text ||= CaptionConverter.srt_to_text(source)
   end
 
   def json
-    @json ||= CaptionConverter.srt_to_json(get_source)
+    @json ||= CaptionConverter.srt_to_json(source)
   end
 
   def captions_from_query(query)
