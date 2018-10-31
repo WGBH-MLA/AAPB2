@@ -145,7 +145,8 @@
   // AFFIX DATA-API
   // ==============
 
-  $(document).ready(function () {
+  // MODIFIED for AAPB to use turbolinks:load instead of $(document).ready
+  $(document).on('turbolinks:load',  function() {
     $('[data-spy="affix"]').each(function () {
       var $spy = $(this)
       var data = $spy.data()

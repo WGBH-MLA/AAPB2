@@ -1,4 +1,4 @@
-$(function(){
+$(document).on('turbolinks:load', function() {
   var bgVideo = $("#video-background")[0];
   var bgButton = $("#video-bg-control");
 
