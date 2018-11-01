@@ -94,7 +94,6 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 
 
-
 ## Resources
 
  
