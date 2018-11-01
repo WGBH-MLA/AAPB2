@@ -32,19 +32,19 @@ Televised images of the Civil Rights Movement have been ingrained into the US co
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Martin Luther King Jr. Source: Creative Commons</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/2_martin_luther_king.jpg" alt="Martin Luther King Jr. Source: Creative Commons"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2_martin_luther_king.jpg" alt="Martin Luther King Jr. Source: Creative Commons"/></td></tr>
 </table>
 
 
 For example, Martin Luther King Jr. was well aware of the power of television and used cameras within his protest strategy at times cancelling events if he knew that the press would not be there.[<sup>4</sup>](/exhibits/black-power/notes#4) These images compelled both the Kennedy and Johnson administrations to intercede on behalf of the African American population and the violence and repression they experienced on a daily basis.[<sup>5</sup>](/exhibits/black-power/notes#5) On the other hand, the rising Black Power Movement--in its many forms, interpretations and practices-- a direct result of the protracted change in the US racial landscape, was generally met with fear from the mainstream public and misunderstanding from the majority of television news outlets. <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Building Burning during Watts Riots. Source: New York World-Telegram</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/3_watts_riots.jpg" alt="Building Burning during Watts Riots. Source: New York World-Telegram"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/3_watts_riots.jpg" alt="Building Burning during Watts Riots. Source: New York World-Telegram"/></td></tr>
 </table>The concurrent revolts that sparked in major cities across the US in the mid to late 1960s, for example, Watts (1965), Chicago (1966), and the uprisings during the “long hot summer” of 1967, only added to this climate of misunderstanding.  Yet the riots were the direct result of the racism, police brutality, limited opportunities and general lack of change that many organizations in both the Civil Rights and Black Power Movement sought to address. 
 
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4_kerner_commission.jpg" alt="President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/4_kerner_commission.jpg" alt="President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection."/></td></tr>
 </table>
 
 
@@ -53,18 +53,17 @@ In 1967, President Lyndon B. Johnson established the National Advisory Committee
 Commercial network television producers largely ignored the recommendations of the Kerner Commission; in fact, many embraced the very tokenism that the report rejected.[<sup>9</sup>](/exhibits/black-power/notes#9) In 1968, there were approximately 200 public television stations in the U.S.; yet African American subject matter was not a primary focus of their programming. However, the civil unrest that resulted from the assassination of Martin Luther King Jr. on April 4, 1968, prompted many television organizations to revisit the recommendations of the Kerner Commission. An interesting example of the impact of the King assassination occurred with PBS affiliate WGBH in Boston. In an attempt to prevent possible disorder, Boston city officials negotiated with WGBH to televise a previously scheduled James Brown concert live on the day after Martin Luther King was assassinated. 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">James Brown concert at Boston Garden on April 5, 1968. Source: YouTube</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/5_james_brown_1.mp4" alt="James Brown concert at Boston Garden on April 5, 1968. Source: YouTube"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/5_james_brown_1.mp4" alt="James Brown concert at Boston Garden on April 5, 1968. Source: YouTube"/></td></tr>
 </table>
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">James Brown concert at Boston Garden on April 5, 1968. Source: YouTube</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/6_james_brown_2.mp4" alt="James Brown concert at Boston Garden on April 5, 1968. Source: YouTube"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/6_james_brown_2.mp4" alt="James Brown concert at Boston Garden on April 5, 1968. Source: YouTube"/></td></tr>
 </table>
 
 
 Fans were encouraged to stay at home and watch the concert instead of attending the live event and city officials credit this decision with keeping peace in the city after the King assassination.[<sup>10</sup>](/exhibits/black-power/notes#10) Soon thereafter, WGBH recognizing the impact of the Brown concert on the Black community, began the production of the Black public affairs program, *Say Brother* in a continued attempt to engage with the Black audience.
 
-At the time of the uprisings in 1968, National Educational Television (NET) was more willing and more prepared than network television to distribute content that engaged with issues pertaining to Black America.  Under the banner of NET Journal, it had already aired “Midsummer 1967” (8/1967), an on location moderated conversation between the white and Black citizens of Newark, NJ about the conditions which led to the uprisings. [*NET Journal*](/catalog/cpb-aacip_512-k35m90306x) concluded with an in-studio summary of the event. *NET Journal* also released “Where is Prejudice?” (11/12/1967) a multi-ethnic and multi-religious experiment which brought together African American, Asian American, Jewish, Catholic and Protestant students to discuss the question of prejudice in the country. The experiment elicited honest and sometimes disturbing responses from the participants. [INSERT EPISODE]  NET also had several other documentaries in production and released them in the weeks following King’s assassination.
-
+At the time of the uprisings in 1968, National Educational Television (NET) was more willing and more prepared than network television to distribute content that engaged with issues pertaining to Black America.  Under the banner of NET Journal, it had already aired “Midsummer 1967” (8/1967), an on location moderated conversation between the white and Black citizens of Newark, NJ about the conditions which led to the uprisings. [*NET Journal*](/catalog/cpb-aacip_512-k35m90306x) concluded with an in-studio summary of the event. *NET Journal* also released “Where is Prejudice?” (11/12/1967) a multi-ethnic and multi-religious experiment which brought together African American, Asian American, Jewish, Catholic and Protestant students to discuss the question of prejudice in the country. [The experiment](http://americanarchive.org/catalog/cpb-aacip_75-70zpcht4) elicited honest and sometimes disturbing responses from the participants.  NET also had several other documentaries in production and released them in the weeks following King’s assassination.
 
 *Civil Rights: What Next?* (4/11/68) was a moderated panel discussion between African American political leaders James Forman of the Student Non Violent Coordinating Committee (SNCC), Hosea Williams of the Southern Christian Leadership Conference (SCLC) and Floyd McKissick of the Congress of Racial Equality (CORE) who were located in New York and white conservatives John Field of US Conference of Mayors, James Kilpatrick, a journalist from Virginia and Charles Mathias a Republican Congressman from Maryland located in Washington DC. The contentious conversation is an attempt to show different points of view on the causes of racism in the United States; however, the conversation is so argumentative that indeed at one point the producers cut off the microphones on the New York panel.  The discussion leads to no concrete solutions and the moderator concludes by saying, “I’m afraid the lesson of this hour is strongly that to expose racial problems in the United States in 1968 is to exacerbate them rather than to help solve them.” [*Civil Rights: What Next?*](/catalog/cpb-aacip_15-741rq0bx)
 
@@ -81,7 +80,7 @@ A few of these programs such as *Black Journal* (NET, New York) and *Soul!* (WND
 </table>
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">SNCC's Stokely Carmichael calls for Black Power in Greenwood, Mississippi. Source: Bob Fitch Photography Archive Stanford University.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/7_stokley_carmichael.jpg" alt="SNCC's Stokely Carmichael calls for Black Power in Greenwood, Mississippi. Source: Bob Fitch Photography Archive Stanford University."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/7_stokley_carmichael.jpg" alt="SNCC's Stokely Carmichael calls for Black Power in Greenwood, Mississippi. Source: Bob Fitch Photography Archive Stanford University."/></td></tr>
 </table>
 
 
