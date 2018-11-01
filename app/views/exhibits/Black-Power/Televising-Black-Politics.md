@@ -3,7 +3,7 @@
 ## Summary
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
-  <tr><td><img src="https://https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/[a_haizlip_and_hillie].png" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/[a_haizlip_and_hillie].png" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
 </table>
 Abstract here...
 <p>&nbsp;</p>
@@ -20,8 +20,9 @@ Abstract here...
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Selma, Alabama; Police attack protesters 1965. Source: FBI</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_bloody_sunday.jpg" alt="Selma, Alabama; Police attack protesters 1965. Source: FBI"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1_bloody_sunday.jpg" alt="Selma, Alabama; Police attack protesters 1965. Source: FBI"/></td></tr>
 </table>
+
 
 
 “Our Nation is moving toward two societies, one black, one white- separate and unequal."[<sup>1</sup>](/exhibits/black-power/notes#1)
