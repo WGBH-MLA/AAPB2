@@ -7,7 +7,7 @@
 ## Extended
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">William Greaves and Lou House on the set of *Black Journal*. Source: William Greaves</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/b_greaves_and_house.png" alt="William Greaves and Lou House on the set of *Black Journal*. Source: William Greaves"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house.png" alt="William Greaves and Lou House on the set of *Black Journal*. Source: William Greaves"/></td></tr>
 </table>
 
 
@@ -15,7 +15,7 @@ Prior to the publication of the Kerner Commission report, in 1965 the Carnegie C
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> Black Panthers. Source:FBI.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/10_black_panthers.jpg" alt="Black Panthers. Source:FBI."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/10_black_panthers.jpg" alt="Black Panthers. Source:FBI."/></td></tr>
 </table>
 
 
@@ -30,7 +30,7 @@ Initially, production for *Black Journal* was under the direction of executive p
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> William Greaves. Source: *Black Journal*.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/11_greaves.png" alt="William Greaves. Source: *Black Journal*."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/11_greaves.png" alt="William Greaves. Source: *Black Journal*."/></td></tr>
 </table>
 
 
@@ -39,7 +39,7 @@ Greaves had extensive experience in documentary and nonfiction filmmaking. Due t
 After the walkout, *Black Journal* not only boasted “a 75 percent black technical crew and a 95 percent black production crew,” but the show also trained minority staff members behind the scenes in production procedures.[<sup>23</sup>](/exhibits/black-power/notes#23) The *Black Journal* Workshop was a free, hands-on, eight-week intensive program that was developed by director Peggy Pinn to train African Americans in production. Pinn hired well known industry professionals both white and black to run the workshops. Admission to the program was very competitive and students had to submit an essay on their career goals as part of the application process. The program was unable to accept all applicants, and many were denied entry into the program. Due to inconsistent funding and meager resources—for instance relying on borrowed equipment and facilities—the workshop had to shut down operations several times between 1968 and 1969. However, with an expanded $20,000 endowment from the CPB, the workshop was developed into a longer program that was able to teach students scriptwriting, cinematography, editing and directing.  The *Black Journal* Workshop graduated a pool of trained Black and Latinx students that were capable of being hired for *Black Journal*, as well as the film and television industry at large.[<sup>24</sup>](/exhibits/black-power/notes#24) The *Black Journal* Workshop eventually moved under the management of the Public Broadcasting System ultimately becoming the National Educational Television Training School.[<sup>25</sup>](/exhibits/black-power/notes#25) The workshop fulfilled one of the directives of the Kerner Commission report, the creation of educational and training opportunities for people of color to promote access into the media industry.[<sup>26</sup>](/exhibits/black-power/notes#26) As a result of the *Black Journal* Workshop, the series had the largest number of trained, Black media professionals working in television.
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> *Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at NOI grocery store in Chicago. Source: St. Clair Bourne.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/12_st_clair_bourne.jpg" alt="*Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at NOI grocery store in Chicago. Source: St. Clair Bourne."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_st_clair_bourne.jpg" alt="*Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at NOI grocery store in Chicago. Source: St. Clair Bourne."/></td></tr>
 </table>
 
 The transfer of power from Al Perlmutter to William Greaves was immediately addressed in episode five of *Black Journal*, where host Lou House discusses the walkout and change of leadership. In producing *Black Journal*, Greaves compared the show to the “communal space of the black barbershop.”[<sup>27</sup>](/exhibits/black-power/notes#27) During the weekly production meetings, he would perform a litmus test of sorts, where the proposed segments for the show had to be issues that directly addressed Black audiences. The imagined Black community was the basis of Greaves’ barbershop metaphor and his attempt to create a separate, distinct and communal space for African American viewers.[<sup>28</sup>](/exhibits/black-power/notes#28) Greaves’ work as an accomplished and experienced filmmaker, allowed him to produce segments of *Black Journal* as experimental documentary. [Episodes](/catalog/cpb-aacip_62-x05x63bn23) would feature both long and short-form documentary segments, usually shot abroad or on location, and observational pieces, where the camera slowly panned across locations or documented people in different locales without excessive editing. Not only is [*Black Journal*](/catalog/cpb-aacip_512-jw86h4dq8k) a part of the history of public television, but the show should also be considered a part of the history of experimental documentary film.[<sup>29</sup>](/exhibits/black-power/notes#29) Under William Greaves, *Black Journal* earned an Emmy Award in 1969 for excellence in public affairs programming.
@@ -49,7 +49,7 @@ The transfer of power from Al Perlmutter to William Greaves was immediately addr
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> Screenshot of *Black Journal* title card.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/12_0_black_journal_logo.png" alt="Screenshot of *Black Journal* title card."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_0_black_journal_logo.png" alt="Screenshot of *Black Journal* title card."/></td></tr>
 </table>
 
 *Black Journal* aimed to provide audiences with a collective image of a national and international Black community that transcended regional, political, and generational differences.[<sup>30</sup>](/exhibits/black-power/notes#30) At a national level, the series set the stage for the imagining of a Black nation and Black consciousness. In the pilot episode, host Lou House states in his introduction, “This is *Black Journal*, program number 1. It is our aim in the next hour, and in the coming months, to report and review the events, the dreams, the dilemmas of Black America and Black Americans.” The early years of *Black Journal* are noticeably inspired by the aesthetics of the Black Power era.  For example, the desire to connect with one’s African roots is reflected in the map of Africa in the background of the set, which is decorated with indigenous relics. As hosts, House and Greaves sport Afros and are dressed in dashiki shirts. They introduced their audiences to culturally specific clothing of the time such as kente cloth, as well as the hairstyles, and terminology of the period.  Lou House would even greet viewers with a Black Power fist and a variation of the greeting, “Good evening. Jambo, A Salaam Alaikum brothers and sisters and welcome to *Black Journal*,” House’s [greeting](/catalog/cpb-aacip_62-0000000717) not only addressed Black Americans, but also Black Muslims internationally.
@@ -65,14 +65,14 @@ The show aimed to present multi-faceted and varied perspectives on the issues an
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> J. Edgard Hoover in the Oval Office in 1967. Photograph public domain. </caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/13_j_edgar_hoover.jpg" alt="J. Edgard Hoover in the Oval Office in 1967. Photograph public domain."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_j_edgar_hoover.jpg" alt="J. Edgard Hoover in the Oval Office in 1967. Photograph public domain."/></td></tr>
 </table>
 
 Members of the Black Panther Party, as well as segments about the organization, were a regular feature on early episodes of *Black Journal*. In concert with stories on the NOI, Malcolm X and Amiri Baraka for example, this type of coverage is evidence of the political nature of the reporting and the rejection of the naïve concept of objectivity set forth by the Fairness Doctrine. [Episode seven](/catalog/cpb-aacip_512-rb6vx0718m), which aired in December 1968, *Black Journal* brought together a diverse panel of Black public figures, including Kathleen Cleaver, Andrew Young (SCLC), Alexander Allen (Urban League) and Dan Watts, editor *Liberator* magazine, to reflect on 1968 and offer their thoughts on the future of African Americans in the political arena. 
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> Screenshot of Lou House and Kathleen Cleaver. Source: *Black Journal* </caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/13_0_house_and_cleaver.png" alt="Screenshot of Lou House and Kathleen Cleaver. Source: *Black Journal*"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_0_house_and_cleaver.png" alt="Screenshot of Lou House and Kathleen Cleaver. Source: *Black Journal*"/></td></tr>
 </table>
  
 The series also provided favorable and in-depth coverage of the NOI. Episode seven in particular features NOI leader Elijah Muhammad, in his first extensive interview on television.[<sup>37</sup>](/exhibits/black-power/notes#37)  Prior to [*Black Journal*’s coverage](/catalog/cpb-aacip_62-x05x63bn23), the most well-known footage of NOI came from *The Hate That Hate Produced* (1959), a five-part television documentary produced by news journalists Mike Wallace and Louis Lomax, of WNTA-TV-New York.  As evident in the very title of the series the journalists presented one-sided and inflammatory assertions about the NOI and Black Nationalism  In April 1970, in [episode twenty-three](/catalog/cpb-aacip_62-x05x63bn23), *Black Journal* traveled to Chicago to do a segment on the NOI’s various community-building initiatives such as an elementary school and the NOI newspaper *Muhammad Speaks*. *Black Journal*’s coverage of the NOI directly opposes some of the misinformation and myths about the organization.
@@ -85,7 +85,7 @@ Shortly after *Black Journal* received an Emmy, William Greaves left the show to
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> Tony Brown and Diahann Carroll. Source: WNET New York.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/14_brown_and_carroll.jpg" alt="Tony Brown and Diahann Carroll. Source: WNET New York."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/14_brown_and_carroll.jpg" alt="Tony Brown and Diahann Carroll. Source: WNET New York."/></td></tr>
 </table>
 
 
