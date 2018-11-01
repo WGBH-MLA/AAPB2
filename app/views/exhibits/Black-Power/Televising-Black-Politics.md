@@ -1,10 +1,14 @@
 # Televising Black Power Politics in the Black Power Era *Black Journal* and *Soul!*
 
 ## Summary
+
+
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_haizlip_and_hillie.png" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
 </table>
+
+
 Abstract here...
 <p>&nbsp;</p>
 
