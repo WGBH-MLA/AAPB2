@@ -33,7 +33,7 @@ Towards the end of the series, activist Stokely Carmichael appears on the episod
 
 
 
-### *Soul! As a Black Public Sphere 
+### *Soul! As a Black Public Sphere* 
 
 
 Soul! was also a cultural space centered on Black artists, poets, musicians, athletes and activists who discussed their varying positions on Black liberation and Black identity, helping to decenter the common misconception of a monolithic Black community. Soul! positioned itself as an open forum, where opinions were both heard and valued. [INSERT CLIP] Episodes were informative, encompassing discussions on issues impacting African Americans in the United States and abroad. Topics included: The Black Panthers, Black Power, the assassination of Malcolm X, Black love, homosexuality and the decimation of the Black community from drugs.  Some Soul! episodes were focused specifically on one topic, others segmented to cover a range of topics; however, they frequently blended art and politics showing the necessary interconnectedness of the two espoused by the Black Arts Movement at the time. For example, the episode “Ain’t Supposed to Die a Natural Death,” (December, 1971), features two interviews, one with Kathleen Cleaver about her international work with the Revolutionary People’s Communications Network, and another with playwright and director Melvin Van Peebles, both of which are intercut with performances from Van Peebles’ play Ain’t Supposed to Die a Natural Death. The interview with Cleaver is very serious in tone, however the inclusion of Van Peebles’ play is an example of what made Soul! both entertaining and informative. [INSERT CLIP] 
@@ -46,7 +46,7 @@ Soul! seamlessly blended performance and politics, demonstrating to the audience
 
 
 
-### *Soul! Gender and Sexuality
+### *Soul!* Gender and Sexuality
 
 Although, he never openly outed himself on camera, Haizlip’s sexuality would have been known to many of his guests and at times he questioned them about the contentious issue of homosexuality in the Black community. One memorable example is the previously mentioned interview with Minister Louis Farrakhan, where Haizlip frankly asks him about the Nation’s views towards homosexuality. [INSERT CLIP] Haizlip also straightforwardly asks Amiri Baraka about polygamy and the rumor that black revolutionaries have relationships with multiple women. 
 	
@@ -58,7 +58,7 @@ The visibility of Black women on Soul! was not a coincidence, as Haizlip hired n
 
 
 
-### *Soul! and the Black Audience
+### *Soul! and the Black Audience*
 
 Soul! broadened the role and function of both the studio and television audience. The show aimed to relate the actual experiences of Black people to a Black audience, as such each episode was recorded in front of a live studio audience. Similar to other talk shows, Soul! used direct address to speak to the audience, which represented the intimate feel of the show and worked to make the show a communal experience. However, Haizlip also encouraged audiences at home to participate in the experience of Soul! by writing in on particular topics of interests or on any aspect of the show. The acknowledgement of the at home audience was significant in Soul!’s attempt to reach a broad African American audience. For example, in “Farrakhan the Minister,” Haizlip directs the TV audience to send letters and contribute to the conversation. Towards the end of the episode, Haizlip looking directly into the camera and states, “We are trying to create programs of Black love, of Black strength, of Black encouragement, and we hope that you agree with what’s going down and if you do agree write us and if you don’t agree, write us; we just need to hear from you.” [INSERT CLIP] 
 
@@ -68,7 +68,7 @@ Soul! also understood the importance of their audience as a vocal advocate for t
 
 
 
-### The End of *Soul!
+### The End of *Soul!*
 
 
 Under its Project for New Television, the Ford Foundation was a significant donor and represented the majority of Soul!’s budget. As the mid-1970’s approached, a shift in funding for noncommercial public-affairs television resulted in the demise of several television shows with an African American focus including Black Omnibus (1972-3) and Black Arts (1970-2).  The new focus for cultural programming and public affairs television was “cross-cultural,” television shows that encompassed both a white and Black perspective.  The last episode of Soul! aired on March 7, 1973 “To the People, Thank You,” “a live, hour-long episode devoted to staff reminiscences and the reading of poems and tributes from viewers.”  Haizlip explained to the audience that after five seasons it was necessary for Soul! to shut down its operations as the Corporation for Public Broadcasting (CPB) did not renew the show’s funding. This meant that Soul! was without corporate or federal funding, and Channel 13 did not have room in the studio’s budget for the series.  The CPB instead chose to focus its efforts and funding on Interface, a show with a more interracial focus, produced by television journalist and Black Journal alum Tony Batten.
