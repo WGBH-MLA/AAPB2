@@ -6,7 +6,7 @@
 
 ## Extended
 <table class="exhibit-image">
-<caption align="top" class="exhibit-caption">*Soul!* Production Staff. Source: Bill Whiting.</caption>
+<caption align="center" class="exhibit-caption">*Soul!* Production Staff. Source: Bill Whiting.</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/c_soul_production_staff.jpg" alt="*Soul!* Production Staff. Source: Bill Whiting."/></td></tr>
 </table>
 
