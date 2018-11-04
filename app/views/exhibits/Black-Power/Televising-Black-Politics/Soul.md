@@ -33,6 +33,8 @@ Ellis Haizlip, a theater and television producer, joined *Soul!* as its producer
 </table>
 
 *Soul!* was also aesthetically different from public affairs programming of the time, especially under the direction of Stan Lathan.  Lathan, whose resume at the time included shows such as *Black Journal* and *Say Brother*, directed the episode “Ain’t Supposed to Die a Natural Death” in 1971 and subsequently became the permanent director of the series. *Soul!* was technologically and artistically innovative. The production team used wipes, double exposures, and other innovative special effects to give the series a distinct look and feel, further distinguishing the show from other public-affairs television. A clear example of the distinct aesthetic choices of the series is evident in the episode “Black Woman,” (January, 1971) where dancer and choreographer Carmen de Lavallade performs an original modern dance.  As she performs, her image is projected behind her and tripled, giving the appearance that three dancers are performing in unison. [INSERT CLIP]
+
+
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> Screenshot of dancer Carmen de Lavallade. Source: *Soul!* </caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/15_carmen.jpg" alt="Screenshot of dancer Carmen de Lavallade. Source: *Soul!*"/></td></tr>
