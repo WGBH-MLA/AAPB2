@@ -3,7 +3,6 @@
 4
 
 ## Summary
-![*Their School? Your School!*](https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG "Their School? Your School!")
 
 ### Featured Program: [Their School? Your School!](/catalog/cpb-aacip_259-qn5z9h58) (1981)
 “This program is about your children and about my children,” says New Jersey Education Commissioner Fred Burke standing outside the graffitied doors of Public School #34 in Jersey City. He continues, “Our laws and Constitution require reasonably equitable educational opportunity. Yet the great contrast which exists in school facilities suggests inequality.” Burke asks the viewer to follow him on a tour through some of the school buildings, good and poor, across the state. As the camera pans across a decrepit basement stairway, a narrator asks, “How would your child feel walking through this hallway?” We see that Public School #2 in Jersey City has no cafeteria, no auditorium, and an unusable library. Special education classes are offered in a converted coat closet. The assistant superintendent insists the school is a good one, though he argues that improved facilities would make it better. Downstate in Atlantic City, Burke presents the Westside School Complex as a successful local institution, with extensive facilities and services for both students and community members. Officials in Jersey City believe renovations to their facilities would create an environment that would make parents want to get involved. Summing up, the narrator comments, “We might well say that’s not our town, that’s not our school.” But, she corrects, the consequences of the quality of urban schools “influences our communities whether we like it or not.” The commissioner beseeches residents of New Jersey, “We must somehow regain personal contact with our schools—give them a sense of identity, a sense of importance.” The program, funded by the New Jersey State Department of Education, attempts to build parent and community involvement in the state’s public schools.
@@ -37,22 +36,16 @@ Although the Commission advocated an increased federal role in the nation’s ed
 ### Covering the Crisis: Education Reporting in the 1980s
 The growing focus on education in most states prompted the media to increase coverage of educational issues. Many contemporary commentators, however, noted the poor quality of this coverage in both print journalism and on television. E. Patrick McQuaid, writing in *The Phi Delta Kappan*, noted that after the publication of *A Nation at Risk*, “every entry-level graduate of journalism school who would ordinarily have been pounding out obits was assigned to the education beat.”[<sup>63</sup>](/exhibits/education/notes#63)  Once these green journalists showed any promise, they would be promoted to other desks.[<sup>64</sup>](/exhibits/education/notes#64)  Where education stories did make the front page, they mostly appeared each year in September with the flavor of “youth at risk” sensationalism.[<sup>65</sup>](/exhibits/education/notes#65)
 
-George R. Kaplan, a frequent media commentator on education policy, pointed out one shining exception to this slurry of mediocre coverage. This was John Merrow, in Kaplan’s words, “the Michael Jordan of electronic media coverage of education.”[<sup>66</sup>](/exhibits/education/notes#66)  After graduating with a doctorate from the Harvard Graduate School of Education in 1973, John Merrow began his broadcast journalism career at NPR. In 1975, he produced a report for the National Institute of Education on the competency movement, an early 1970s reformist trend that required teachers to demonstrate aptitude in specific “competencies.”[<sup>67</sup>](/exhibits/education/notes#67)  In 1984, Merrow produced a seven-part series on KTCA in Saint Paul and Minneapolis, Minnesota, called *Your Children, Our Children*, which PBS distributed nationally. Merrow joined [*The MacNeil/Lehrer NewsHour*](/catalog?f%5Bseries_titles%5D%5B%5D=The+MacNeil%2FLehrer+NewsHour) in 1985, where he produced more than 100 reports on education. 
+George R. Kaplan, a frequent media commentator on education policy, pointed out one shining exception to this slurry of mediocre coverage. This was John Merrow, in Kaplan’s words, “the Michael Jordan of electronic media coverage of education.”[<sup>66</sup>](/exhibits/education/notes#66)  After graduating with a doctorate from the Harvard Graduate School of Education in 1973, John Merrow began his broadcast journalism career at NPR. In 1975, he produced a report for the National Institute of Education on the competency movement, an early 1970s reformist trend that required teachers to demonstrate aptitude in specific “competencies.”[<sup>67</sup>](/exhibits/education/notes#67)  In 1984, Merrow produced a seven-part series on KTCA in Saint Paul and Minneapolis, Minnesota, called *Your Children, Our Children*, which PBS distributed nationally. Merrow joined [*The MacNeil/Lehrer NewsHour*] (http://americanarchive.org/special_collections/newshour) in 1985, where he produced more than 100 reports on education. 
 
-![John Merrow asks two teachers a question in *The Education of a Teacher*](https://s3.amazonaws.com/americanarchive.org/exhibits/Merrow.JPG "John Merrow asks two teachers a question in The Education of a Teacher")
-
-Merrow’s work distinguished itself through, among other things, his commitment to multipart stories.[<sup>68</sup>](/exhibits/education/notes#68)  For example, in a four-part series titled “The Education of a Teacher,” Merrow followed two rookie teachers, Susan Holst and Lynn Robin, in their first year of teaching ([Part 1](cpb-aacip/507-t727941q5f), [Part 2](cpb-aacip/507-222r49gs0q), [Part 3](cpb-aacip/507-9c6rx93x7k), [Part 4](cpb-aacip/507-bg2h708m57)). He asked difficult questions, drawing out the successes and failures of the new teachers and the school system in which they work. The stories did not sensationalize, but they did instruct.
+Merrow’s work distinguished itself through, among other things, his commitment to multipart stories.[<sup>68</sup>](/exhibits/education/notes#68)  For example, in a four-part series titled “The Education of a Teacher,” Merrow followed two rookie teachers, Susan Holst and Lynn Robin, in their first year of teaching ([Part 1](/catalog/cpb-aacip_507-t727941q5f), [Part 2](/catalog/cpb-aacip_507-222r49gs0q), [Part 3](/catalog/cpb-aacip_507-9c6rx93x7k), [Part 4](/catalog/cpb-aacip_507-bg2h708m57)). He asked difficult questions, drawing out the successes and failures of the new teachers and the school system in which they work. The stories did not sensationalize, but they did instruct.
 
 
 <a id="Local-Education-Coverage"></a>
 
 ### Local Education Coverage
 
-![*Prime Time*](https://s3.amazonaws.com/americanarchive.org/exhibits/PrimeTime.JPG "Prime Time")
-
 While John Merrow covered education at a national level for public television, numerous news teams reported on similar stories at the local level. Several stations started regular series specifically devoted to education. In 1980, Louisiana Public Broadcasting began airing [*Education Update*](/catalog?f%5Bseries_titles%5D%5B%5D=Education+Update), a weekly magazine designed to inform teachers about education-related news. See the pilot episode [here](/catalog/cpb-aacip_17-08v9sxtn). As with *Their School? Your School!*, the program was jointly produced with the state Department of Education. As public television grew as an institution, many state education boards realized they could use the medium to build parent and community investment in their schools. [*Prime Time*](/catalog?f%5Bseries_titles%5D%5B%5D=Prime+Time), a program [begun by Rocky Mountain PBS in 1981](/catalog/cpb-aacip_52-91fj7068), was designed, the series host stated, to give viewers the “opportunity to learn about the Denver Public Schools and become involved in the activities of the school, home, and community, which will help Denver school children to achieve educational excellence.” WCTE in Cookeville, Tennessee, produced *Issues in Education*, focusing on “innovative educational opportunities” created by the state’s recent “Better Schools” legislation, including an episode titled [“Science Bowl, Computer Skills, Centers of Excellence.”](/catalog/cpb-aacip_23-17crjgjv) Southern Oregon Public Television’s [*Focus on Education*](/catalog/cpb-aacip_378-5370s3gw) partnered with the Jackson Education Service District to produce a talk show discussing issues in local public schools.
-
-![Students leave South Boston High School in *From Busing to Books: A Portrait of South Boston High School*](https://s3.amazonaws.com/americanarchive.org/exhibits/BusingtoBooks.JPG "Students leave South Boston High School in From Busing to Books: A Portrait of South Boston High School")
 
 Stations that did not produce weekly updates often aired stand-alone documentaries, panel discussions, and interviews designed to raise awareness of local educational issues. In [*Nowhere to Go but Up*](/catalog/cpb-aacip_111-623bkcgx), Arkansas Educational Television examined the poor state of education in the state, with interviewees discussing needed improvements. In 1987, the station produced [*3 Teachers*](/catalog/cpb-aacip_111-79v15qj3), which followed three teachers from around the state through their days of work, revealing the difficulties and rewards of the profession. That same year, the station aired an [interview with then-governor Bill Clinton](/catalog/cpb-aacip_111-53wstzp5) in which he discussed education reform. In 1984, Connecticut Public Broadcasting Network aired [*At Issue: Public Education*](/catalog/cpb-aacip_398-65h9w6n8), a panel discussion responding to *A Nation at Risk* that evaluated Connecticut’s public school system. WGBH’s [*From Busing to Books: A Portrait of South Boston High*](/catalog/cpb-aacip_15-99z90b99) revisited the school that was the site of much conflict just years before. Rather than focus on past violence, it took a hard look at whether the school was providing the quality education that reformers had hoped for years before.
 
@@ -74,6 +67,31 @@ During this time, WGBH began producing the investigative documentary series [*Fr
 ### Conclusion
 While a few of these programs fit the mold of the “at-risk youth” headline story, the majority did not. Many local stories attempted to show what was going well in an area’s public schools. Those programs that revealed problems in the system did so not to shock, but to attempt to build community investment to fix local public institutions. Some of these programs, including *Idaho Reports* and *Iowa Press*, continue to this day. After his stint on *MacNeil/Lehrer*, John Merrow continued to set the standard for education reporting as he went on to produce stand-alone programs for public television, collectively called “The Merrow Reports.” 
 
+## Main
+
 #### Next: [National Education Reforms on Local Television, 1990-Today](/exhibits/education/national-education-reforms-on-Local-television-1990-Today)
 
-## Main
+## Cover
+![*Their School? Your School!*](https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG "Their School? Your School!")
+
+## Gallery
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_259-qn5z9h58">Their School? Your School! (New Jersey Network)</a>
+  <a class="caption-text">In this 1981 program, New Jersey Education Commissioner Fred G. Burke took a look at critical look at school facilities, their problems, and how New Jersey was dealing with them.</a>
+  <img title="cover title 3" alt="Their School? Your School! (New Jersey Network)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">
+  
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_507-t727941q5f">The MacNeil/Lehrer NewsHour; The Education of a Teacher (1987)</a>
+  <a class="caption-text">John Merrow asks two teachers a question in The Education of a Teacher.</a>
+  <img title="cover title 3" alt="The MacNeil/Lehrer NewsHour; The Education of a Teacher (1987)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Merrow.JPG">
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_52-91fj7068">Prime Time (Rocky Mountain PBS)</a>
+  <a class="caption-text">Prime Time from Rocky Mountain PBS was a weekly series to create public awareness of the educational opportunities in the Denver Public Schools and to encourage the cooperative efforts of home and community to achieve excellence in education." src="https://s3.amazonaws.com/americanarchive.org/exhibits/PrimeTime.JPG">
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-99z90b99">From Busing to Books: A Portrait of South Boston High School (WGBH)</a>
+  <a class="caption-text">Students leave South Boston High School in WGBH's From Busing to Books: A Portrait of South Boston High School (1984)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/BusingtoBooks.JPG">
+
+## Records
