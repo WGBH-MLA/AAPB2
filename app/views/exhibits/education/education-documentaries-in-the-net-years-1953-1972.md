@@ -176,7 +176,7 @@ While NET did not succeed in convincing all the local stations of the wisdom of 
 <img title="Public Broadcast Laboratory; University in Society; Do the Ties Bind? (1969)" alt="Public Broadcast Laboratory; University in Society; Do the Ties Bind? (1969)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ReformBeforeRevolution2.JPG">
 
 - <a class="type">image</a>
-  <a class="credit-link" href="hhttp://americanarchive.org/catalog/cpb-aacip_15-99p2w600">Say Brother; Black Power on University Campuses (1968)</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-99p2w600">Say Brother; Black Power on University Campuses (1968)</a>
   <a class="caption-text">Banner reading Malcolm X University in "Black Power on University Campuses," a 1969 episode of WGBH's Say Brother which examines the student takeover of Ford Hall at Brandeis University."</a>
 <img title="Say Brother; Black Power on University Campuses (1968)" alt="Say Brother; Black Power on University Campuses (1968)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/MalcolmXUniversity.JPG">
 
