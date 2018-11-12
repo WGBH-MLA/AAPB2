@@ -3,8 +3,7 @@
 3
 
 ## Summary
-![Pat Bonner-Lyons on *Say Brother*](https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG "Pat Bonner-Lyons on Say Brother")
-
+<a id="Featured-Program"></a>
 ### Featured Program: Say Brother, [Episode 401, School Desegregation](/catalog/cpb-aacip_15-9gq6r236)
 “Why is desegregation of schools important to black children?” “Why? Because it is educationally right and because segregation on the basis of race is unconstitutional and immoral.” So declared Ellen Jackson, director of the Freedom House Institute on Schools and Education, in an interview segment played over shots of books, desks, and school posters. On October 1, 1974, two weeks after school opened in Boston on September 12, 1974, *Say Brother* devoted its hour-long program to the topic of desegregation. WGBH’s program “by, for, and about the black community,” begins with an interpretive mime piece about school busing.[<sup>41</sup>](/exhibits/education/notes#41)  Then, an opening voiceover, states, “Like everyone else, *Say Brother* has been caught up in the drama surrounding the schools this year.” Sitting in a chemistry classroom, two students are interviewed by the show’s producer. They appear ambivalent about the process of busing, but are certain that a good education is crucial. Standing on the steps of a high school, Pat Bonner Lyons of the Community Task Force on Education declares that the fears of white parents are “a form of madness, which has been encouraged and perpetrated on us by politicians who’ve used this issue to gain their political strength.” A group of local leaders discuss the problem in the library. And in closing, the show’s producer, Marita Rivero, states, “One of the ugly facts which came to light this past year was the racist nature of this city, do I need to say any more about that?” Still, she is certain that the quest for equal education is vital. AAPB’s collection of *Say Brother* programs offer insight into the experience of black Bostonians throughout the busing crisis.
 
@@ -40,18 +39,18 @@ The years of painful conflict around desegregation, community control, and busin
 
 ### Public Television Covers the Busing Crisis, 1974-1979
 
-![Buses arriving in South Boston with police escort on the *Ten O’Clock News*](https://s3.amazonaws.com/americanarchive.org/exhibits/SchoolBusPoliceCar.jpg "Buses arriving in South Boston with police escort on the Ten O’Clock News")
-
 Throughout the Boston busing crisis, WGBH covered the issue across many of its programs. In the 1970s, WGBH broadcast a series of nightly news programs that focused on “neighborhood, local, and state issues.”[<sup>51</sup>](/exhibits/education/notes#51)  The first, *The Reporters*, ran from 1970 to 1973 before it was replaced by [*Evening Compass*](/catalog?f%5Bseries_titles%5D%5B%5D=The+Evening+Compass), broadcast from 1973 to 1975. During the busing crisis, the audience of *Evening Compass* grew substantially, allowing WGBH to air the program twice a night during the most fraught days. *Compass* reporters covered press conferences with city politicians, met with local activists, and conducted interviews with students, parents, and community residents. See, for example, their coverage of the [1974 Racial Imbalance Hearings](/catalog/cpb-aacip_15-03cz93dz), a [press conference at Boston City Hall during the second week of Phase I desegregation](/catalog/cpb-aacip_15-9ft8dj6m), and a program called [*A Delicate Balance*](/catalog/cpb-aacip_15-9p843w16) that looks back on the first six months of busing.
 
 On January 15, 1976, the nightly news program rebranded again to become [*The Ten O’Clock News*](/catalog?f%5Bseries_titles%5D%5B%5D=Ten+O%27Clock+News), now covering national as well as local issues. Particularly after journalist Christopher Lyndon became an anchor the following year, the show began to develop a reputation for in-depth coverage and high quality reporting.[<sup>52</sup>](/exhibits/education/notes#52)  Picking up where *Evening Compass* left off, *The Ten O’Clock News* covered the [first day of school in September 1976](/catalog/cpb-aacip_15-9js9h76h) and offered a [“Boston School Desegregation View”](/catalog/cpb-aacip_15-vd6nz81056), which focused on the effects of the policy in South Boston High School and the Joseph Lee School in the neighborhood of Dorchester. In 1976, WGBH paired with WETA to produce a special called [“Is School Desegregation Working?”](/catalog/cpb-aacip_15-9nv9998s), hosted by Jim Lehrer. The debate, filmed in Washington, D.C., focused on desegregation nationwide and was delivered to affiliates by PBS.
 
-As discussed in the “Featured Program,” section, WGBH’s [*Say Brother*](/catalog?f%5Bseries_titles%5D%5B%5D=Say+Brother) also provided frequent reflections on school desegregation and education in general during its run from 1968 to 1982.[<sup>53</sup>](/exhibits/education/notes#53)  In 1968, *Say Brother* hosted a panel discussion called [“Black Youth and Education”](/catalog/cpb-aacip_15-9bz6180j). In April 1974, [“The School Issue”](/catalog/cpb-aacip_15-94f1mj2z) covered the upcoming referendum vote on restructuring the Boston School Committee. Host Barbara Barrow discussed the distance between educators and community members and the need for increased communication in the two-part special, “Education, [Parts One](/catalog/cpb-aacip_15-pk06w96j3t) and [Part Two](/catalog/cpb-aacip_15-pg1hh6cg61).” Later that year, [“Modification of Phase Two: What Does It Really Mean?”](/catalog/cpb-aacip_15-9s756k13) explained the next steps of the busing plan. In [“Paige Academy: An Alternative Education”](/catalog/cpb-aacip_15-6w96688p3t) and [“Bilingual Education”](/catalog/cpb-aacip_15-2r3nv9976n), *Say Brother* covered two experiments in alternative education. [“Another Conversation with the Next Generation”](/catalog/cpb-aacip_15-91r6n09x) brought together a group of teenagers to discuss race relations in Boston schools. Finally, [“Boston School Committee Live Pre-Election Special”](/catalog/cpb-aacip_15-251fj29d3w) showed the candidates for the contested 1981 race. In general, *Say Brother’s* coverage provided a stronger point of view than was found in self-consciously neutral newsmagazines.
+
+As discussed in the “[Featured Program](#Featured-Program)” section, WGBH’s [*Say Brother*](/catalog?f%5Bseries_titles%5D%5B%5D=Say+Brother) also provided frequent reflections on school desegregation and education in general during its run from 1968 to 1982.[<sup>53</sup>](/exhibits/education/notes#53)  In 1968, *Say Brother* hosted a panel discussion called [“Black Youth and Education”](/catalog/cpb-aacip_15-9bz6180j). In April 1974, [“The School Issue”](/catalog/cpb-aacip_15-94f1mj2z) covered the upcoming referendum vote on restructuring the Boston School Committee. Host Barbara Barrow discussed the distance between educators and community members and the need for increased communication in the two-part special, “Education, [Parts One](/catalog/cpb-aacip_15-pk06w96j3t) and [Part Two](/catalog/cpb-aacip_15-pg1hh6cg61).” Later that year, [“Modification of Phase Two: What Does It Really Mean?”](/catalog/cpb-aacip_15-9s756k13) explained the next steps of the busing plan. In [“Paige Academy: An Alternative Education”](/catalog/cpb-aacip_15-6w96688p3t) and [“Bilingual Education”](/catalog/cpb-aacip_15-2r3nv9976n), *Say Brother* covered two experiments in alternative education. [“Another Conversation with the Next Generation”](/catalog/cpb-aacip_15-91r6n09x) brought together a group of teenagers to discuss race relations in Boston schools. Finally, [“Boston School Committee Live Pre-Election Special”](/catalog/cpb-aacip_15-251fj29d3w) showed the candidates for the contested 1981 race. In general, *Say Brother’s* coverage provided a stronger point of view than was found in self-consciously neutral newsmagazines.
 
 
 <a id="Educational-Topics-on-Talk-Shows"></a>
 
 ### Educational Topics on Talk Shows
+
 In the early 1970s, talk shows such as [*Firing Line*](/catalog/cpb-aacip_/catalog?f%5Bseries_titles%5D%5B%5D=Firing+Line+with+William+F.+Buckley+Jr.) and [*Woman*](/special_collections/woman-series) covered educational topics for a national audience. William F. Buckley Jr.’s talk show had been syndicated for commercial television since its debut in 1966, but in 1971 it moved to public television, produced by South Carolina Educational Television’s Southern Educational Communications Association. Buckley frequently debated educational topics, including a program in 1972 on [Sex Education](/catalog/cpb-aacip_514-jw86h4dm8r). *Woman* was a half-hour talk show produced by WNED in Buffalo from 1972-1977 covering issues relevant to women. The show featured episodes on [Sex Education](/catalog/cpb-aacip_81-90dv4bd1), Sex Bias in Education ([Part 1](/catalog/cpb-aacip_81-37hqc39r) and [Part 2](/catalog/cpb-aacip_81-46254cws)), [Title IX](/catalog/cpb-aacip_81-23hx3j2f), and [Women’s Studies](/catalog/cpb-aacip_81-51hhmnq6).
 
 
@@ -66,9 +65,7 @@ As in the NET years, during the 1970s public television stations aired a number 
 
 ### Education Topics on Newsmagazines
 
-![*51st State* anchor reports on School District 1](https://s3.amazonaws.com/americanarchive.org/exhibits/51stStateDistrict1.JPG "51st State anchor reports on School District 1")
-
-[Before newsmagazines became a ubiquitous format in the 1980s](/exhibits/newsmagazines/definitive-newsmags), a few vanguard stations got a regular weekly news program up and running in the 1970s. The newly merged WNET began airing [*The 51st State*](/catalog?f%5Bseries_titles%5D%5B%5D=The+51st+State) in 1972, which ran until 1976. The show reported on New York issues such as [racial segregation in the Canarsie neighborhood and school system](/catalog/cpb-aacip_75-79h44s2z) and the [conditions in School District 1, where the teachers union was set to battle the neighborhood picks in an upcoming election](/catalog/cpb-aacip_75-09w0vvf7). In 1976, Louisiana Public Broadcasting's [*Louisiana: The State We’re In*](/catalog?f%5Bseries_titles%5D%5B%5D=Louisiana%3A+The+State+We%27re+In) began as a magazine show devoted primarily to state capitol politics, but also covered local news and current events. The show featured legislative debates over [Teachers Pay](/catalog/cpb-aacip_17-870vv6zt), [School Buses](/catalog/cpb-aacip_17-93gxf41r), and [Sex Education](/catalog/cpb-aacip_17-902z46b3). It also brought attention to issues such as the [National Teacher Examination](/catalog/cpb-aacip_17-278sg53f) and teachers’ strikes in [East Baton Rouge Parish](/catalog/cpb-aacip_17-97xktqjf) and [Jefferson Parish](/catalog/cpb-aacip_17-14nkb5dp). WNED in Buffalo began [*Channel 17 Reports*](/catalog/cpb-aacip_), featuring segments on [Magnet Schools](/catalog/cpb-aacip_cpb-aacip/81-08v9s6q0) and [Catholic Schools](/catalog/cpb-aacip_81-45cc2mqn).
+[Before newsmagazines became a ubiquitous format in the 1980s](/exhibits/newsmagazines/definitive-newsmags), a few vanguard stations got a regular weekly news program up and running in the 1970s. The newly merged WNET began airing [*The 51st State*](/catalog?f%5Bseries_titles%5D%5B%5D=The+51st+State) in 1972, which ran until 1976. The show reported on New York issues such as [racial segregation in the Canarsie neighborhood and school system](/catalog/cpb-aacip_75-79h44s2z) and the [conditions in School District 1, where the teachers union was set to battle the neighborhood picks in an upcoming election](/catalog/cpb-aacip_75-09w0vvf7). In 1976, Louisiana Public Broadcasting's [*Louisiana: The State We’re In*](/catalog?f%5Bseries_titles%5D%5B%5D=Louisiana%3A+The+State+We%27re+In) began as a magazine show devoted primarily to state capitol politics, but also covered local news and current events. The show featured legislative debates over [Teachers Pay](/catalog/cpb-aacip_17-870vv6zt), [School Buses](/catalog/cpb-aacip_17-93gxf41r), and [Sex Education](/catalog/cpb-aacip_17-902z46b3). It also brought attention to issues such as the [National Teacher Examination](/catalog/cpb-aacip_17-278sg53f) and teachers’ strikes in [East Baton Rouge Parish](/catalog/cpb-aacip_17-97xktqjf) and [Jefferson Parish](/catalog/cpb-aacip_17-14nkb5dp). WNED in Buffalo began [*Channel 17 Reports*](http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Ch+17+Reports&f[access_types][]=online), featuring segments on [Magnet Schools](/catalog/cpb-aacip_cpb-aacip/81-08v9s6q0) and [Catholic Schools](/catalog/cpb-aacip_81-45cc2mqn).
 
 One of the few nightly newsmagazines on public television, [*New Jersey Nightly News*](/catalog?f%5Bseries_titles%5D%5B%5D=New+Jersey+Nightly+News), began in 1978. The show, which still is on the air, frequently features educational reporting, including an early feature called [“A Closer Look: Education—Graduation Standards”](/catalog/cpb-aacip_259-p843vk2c). The New Jersey Network also featured public affairs specials, including a panel discussion on [“The State of the Arts in New Jersey”](/catalog/cpb-aacip_259-qb9v3v5p) on arts education and a [broadcast of the case Smith v. Ricci](/catalog/cpb-aacip_259-222r7s4c), argued before the State Supreme Court in 1982 on the rules governing sex education in public schools.
 
@@ -78,6 +75,41 @@ One of the few nightly newsmagazines on public television, [*New Jersey Nightly 
 #### Conclusion
 Over the course of the 1970s, faith in the power of American education to become a “passport from poverty,” as Lyndon Johnson famously proclaimed, was waning.[<sup>54</sup>](/exhibits/education/notes#54)  By the end of the decade, hope and anger about the potentials and risks of mandated integration had shifted toward concern about the quality of education in general. As public affairs shows gained traction on public television, many turned their eye to this problem in the last years of the decade. In the 1980s, this type of coverage would only increase.
 
-#### Next: [Covering Education in the 1980s](/exhibits/education/covering-education-in-the-reagan-years-1981-1989.md)
+## Author
+
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
+<a clas="name">Amanda Reichenbach</a>
+<a class="title">John W. Kluge Center Intern, Library of Congress</a>
+
+## Resources
+
+- [U.S. Department of Education](https://www.ed.gov/)
+- [*A Nation at Risk*](https://www2.ed.gov/pubs/NatAtRisk/risk.html)
+- [National Educational Television (NET) Collection Catalog Project](http://americanarchive.org/about-the-american-archive/projects/net-catalog)
+- [*Say Brother* Archive Website](http://main.wgbh.org/saybrother/index.html)
+- [Louisiana Digital Media Archive](http://www.ladigitalmedia.org/)
 
 ## Main
+
+#### Next: [Covering Education in the 1980s](/exhibits/education/covering-education-in-the-reagan-years-1981-1989.md)
+
+## Cover
+![Pat Bonner-Lyons on *Say Brother*](https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG "Pat Bonner-Lyons on Say Brother")
+
+## Gallery
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-9gq6r236">Pat Bonner-Lyons on Say Brother</a>
+  <a class="caption-text">This 1974 episode focused on school desegregation and the quality of education in Boston.</a>
+  <img title="cover title 3" alt="Pat Bonner-Lyons on Say Brother" src="https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG">
+  
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-9mc8rg36">Ten O'Clock News (WGBH)</a>
+  <a class="caption-text">In this episode of Ten O'Clock News, buses arrived in South Boston with police escort.</a>
+  <img title="cover title 3" alt="Pat Bonner-Lyons on Say Brother" src="https://s3.amazonaws.com/americanarchive.org/exhibits/SchoolBusPoliceCar.jpg">
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-09w0vvf7">The 51st State (WNET)</a>
+  <a class="caption-text">WNET's The 51st State anchor reports on School District 1." src="https://s3.amazonaws.com/americanarchive.org/exhibits/51stStateDistrict1.JPG">
+
+
