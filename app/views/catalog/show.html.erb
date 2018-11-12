@@ -41,7 +41,6 @@
   <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
   <div class="well well-sm media-thumb">
-
     <% if @skip_orr_terms == false %>
         <%= render partial: 'rules_of_use_modal' %>
     <% end %>
@@ -155,6 +154,8 @@
 
   <div class="col-md-8">
     <%= render partial: "catalog/accordion/accordion", locals: { dt: "Description", body: render(partial: 'catalog/accordion/description'), collapse: false } %>
+
+    <%= render partial: "catalog/accordion/accordion", locals: { dt: "Credits", body: render(partial: 'catalog/accordion/contributors'), collapse: true } %>
 
     <%= render partial: "catalog/accordion/accordion", locals: { dt: "AAPB Contributor Holdings", body: render(partial: 'catalog/accordion/holdings'), collapse: true } %>
 

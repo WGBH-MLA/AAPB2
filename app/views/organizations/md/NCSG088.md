@@ -21,7 +21,7 @@ stanford\_logo.png
 
 https://www.hoover.org/library-archives
 
-## History
+## About
 
 Founded by Herbert Hoover in 1919, the Hoover Institution Library & Archives are dedicated to documenting war, revolution, and peace in the twentieth and twenty-first centuries. With nearly one million volumes and more than six thousand archival collections from 171 countries, Hoover supports a vibrant community of scholars and a broad public interested in the meaning and role of history.
 

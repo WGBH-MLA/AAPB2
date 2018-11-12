@@ -415,7 +415,7 @@ describe 'Catalog' do
 
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
-      expect_all_the_text('clean-MOCK.xml')
+      # expect_all_the_text('clean-MOCK.xml')
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
       expect_no_media
       expect_external_reference

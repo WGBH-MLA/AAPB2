@@ -54,6 +54,15 @@
     <instantiationDuration>1:23:45</instantiationDuration>
     <instantiationAnnotation annotationType='organization'>WGBH</instantiationAnnotation>
   </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='foo'>PQR</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2001-02-03</instantiationDate>
+    <instantiationLocation>my basement</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Not-a-Proxy</instantiationGenerations>
+    <instantiationDuration>should be ignored!</instantiationDuration>
+    <instantiationAnnotation annotationType='organization'>American Archive of Public Broadcasting</instantiationAnnotation>
+  </pbcoreInstantiation>
   <pbcoreAnnotation annotationType='Captions URL'>https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='Licensing Info'>You totally want to license this.</pbcoreAnnotation>
