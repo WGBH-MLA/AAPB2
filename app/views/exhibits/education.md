@@ -4,8 +4,6 @@
 
 ## Summary
 
-![*School Days*](https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG "School Days")
-
 From black-and-white documentaries, carrying demands for school desegregation in New York City to the nation, to full-color newscasts about the rollout of No Child Left Behind in Guam, public television has had a long history of covering education stories. This online exhibit highlights documentaries, news magazines, talk shows, and special reports in the AAPB collection dedicated to learning in America.
 
 ## Extended
@@ -13,11 +11,8 @@ From black-and-white documentaries, carrying demands for school desegregation in
 ## Author
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
-
-### Amanda Reichenbach
-John W. Kluge Center Intern
-Library of Congress
-
+<a clas="name">Amanda Reichenbach</a>
+<a class="title">John W. Kluge Center Intern, Library of Congress</a>
 
 ## Resources
 
@@ -35,13 +30,21 @@ As idealized institutions, public education and public television have much in c
 
 Furthermore, for the last half-century, both public media and public education have experienced a centripetal pull toward centralization, yet both remain fundamentally local institutions. This tension between local and national indicates a strength in public television’s capacity to cover this topic. Neighborhood schools, once only subject to the dictates of their town administration, have been called to bring racial justice, to be a “passport from poverty,” to staunch the “rising tide of mediocrity,” to "leave no child behind," and to "race to the top." Still, even as the dialogue about the problems with public schools has become more national, implementation remains local. For example, Boston and New York City did not desegregate their schools in the same way, and urban approaches differed significantly from the integration plans of two adjacent small towns in places like Texas and Illinois. Local public television stations, intent on educating responsible citizens, covered these regional stories for their audiences, while national programming like the *PBS NewsHour* brought national trends into focus.
 
-
 ### About This Exhibit
 
 Since education is a vast topic, this exhibit provides a representative sample of AAPB’s collection, rather than an exhaustive list. Many documentaries and other types of one-off programs are highlighted. For series, such as talk shows or newsmagazines, a handful of representative episodes are profiled.
 
 The exhibit proceeds chronologically in four sections: 1953 to 1972, 1972 to 1980, 1981 to 1989, and 1990 to the present. Each section includes a “Featured Program,” an introduction to the educational issues at the fore during that era, and a narrative highlighting ways that public television covered these issues and descriptions of representative public television programs.
 
-
-
 #### Next: [Education Documentaries in the NET Years, 1953-1972](/exhibits/education/education-documentaries-in-the-net-years-1953-1972.md)
+
+## Cover
+<img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG">
+
+## Gallery
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0">School Days (1999); WXXI Public Broadcasting</a>
+  <a class="caption0text">Image from School Days (1999), a documentary about education from WXXI Public Broadcasting. View the program online: http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0</a>
+<img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG">
+
+## Records
