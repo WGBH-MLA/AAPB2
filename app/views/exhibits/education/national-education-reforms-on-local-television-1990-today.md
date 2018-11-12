@@ -100,17 +100,12 @@ In New Jersey, [*Classroom Close-up*](http://classroomcloseup.org/), a program s
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-84zgnfk0">Chancellor Joel Klein in "A Year of Change" (WNET)</a>
   <a class="caption-text">In this 2003 episode of New York Voices, host Rafael Pi Roman examines leadership in schools, visiting principals-in-training at New York City schools.</a>
-  <img title="Chancellor Joel Klein in "A Year of Change" (WNET)" alt="Chancellor Joel Klein in "A Year of Change" (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">
+  <img title="Chancellor Joel Klein in A Year of Change (WNET)" alt="Chancellor Joel Klein in "A Year of Change" (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/URL">TFA founder Wendy Kopp in Who Will Teach for America?</a>
   <a class="caption-text">This 1991 program was a collaboration between Drew/Fairchild, Inc. and Connecticut Public Television, which profiled Teach for America, the then-new national teacher service corps designed to bring recent college graduates into the most underserved classrooms in the nation.</a>
   <img title="TFA founder Wendy Kopp in Who Will Teach for America?" alt="TFA founder Wendy Kopp in Who Will Teach for America?" src="https://s3.amazonaws.com/americanarchive.org/exhibits/teachforamerica.JPG">
-  
-- <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg">Grade A: Leave No Child Behind in Wyoming (Wyoming PBS)</a>
-  <a class="caption-text">This 2003 episode of Grade A follows students on the first day of school at Andrew S. Jessup Elementary and Carey Junior High. Topics covered include student performance, parental involvement and providing additional services for at-risk students. Grade A is a news series following Wyoming public schools throughout the year, as they retool their education efforts following the passing of the No Child Left Behind Act.</a>
-  <img title="Grade A: Leave No Child Behind in Wyoming" alt="Grade A: Leave No Child Behind in Wyoming" src="https://s3.amazonaws.com/americanarchive.org/exhibits/GradeA.JPG">
   
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg">Grade A: Leave No Child Behind in Wyoming (Wyoming PBS)</a>
