@@ -41,7 +41,6 @@
   <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
   <div class="well well-sm media-thumb">
-
     <% if @skip_orr_terms == false %>
         <%= render partial: 'rules_of_use_modal' %>
     <% end %>
@@ -151,6 +150,17 @@
       <% @pbcore.supplemental_content.each do |content| %>
         <li class="supplemental-link"><a href='<%= content[0] %>' target="_blank"><%= content[1] %></a></li>
       <% end %>
+    <% end %>
+
+    <% unless @pbcore.licensing_info.nil? %>
+      <!-- Small button group -->
+      <div class="btn-group licensing-btn-group">
+        <button class="btn btn-default btn-lg licensing-btn" type="button" data-toggle="modal" data-target="#licensingModal" aria-haspopup="true" aria-expanded="false">
+          Licensing Information
+        </button>
+      </div>
+
+      <%= render partial: 'shared/basic_modal', locals: { modal_id: "licensingModal", title: "License Content", body: @pbcore.licensing_info.html_safe } %>
     <% end %>
 
     <div class="catalog-alert">

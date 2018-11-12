@@ -165,6 +165,7 @@ describe 'Validated and plain PBCore' do
         instantiations_display: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
                                  PBCoreInstantiation.new('Moving Image', '1:23:45')],
         rights_summaries: ['Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.'],
+        licensing_info: 'You totally want to license this.',
         genres: ['Call-in'],
         topics: ['Music'],
         id: '1234',
