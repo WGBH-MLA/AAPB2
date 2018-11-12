@@ -111,6 +111,6 @@ Over the course of the 1970s, faith in the power of American education to become
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-09w0vvf7">The 51st State (WNET)</a>
   <a class="caption-text">WNET's The 51st State anchor reports on School District 1."</a> 
-  <img title="The 51st State (WNET) alt="The 51st State (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/51stStateDistrict1.JPG">
+  <img title="The 51st State (WNET)" alt="The 51st State (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/51stStateDistrict1.JPG">
 
 
