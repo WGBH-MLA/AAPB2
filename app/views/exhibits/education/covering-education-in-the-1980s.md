@@ -88,10 +88,12 @@ While a few of these programs fit the mold of the “at-risk youth” headline s
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_52-91fj7068">Prime Time (Rocky Mountain PBS)</a>
-  <a class="caption-text">Prime Time from Rocky Mountain PBS was a weekly series to create public awareness of the educational opportunities in the Denver Public Schools and to encourage the cooperative efforts of home and community to achieve excellence in education." src="https://s3.amazonaws.com/americanarchive.org/exhibits/PrimeTime.JPG">
+  <a class="caption-text">Prime Time from Rocky Mountain PBS was a weekly series to create public awareness of the educational opportunities in the Denver Public Schools and to encourage the cooperative efforts of home and community to achieve excellence in education."</a> 
+  <img title="Prime Time (Rocky Mountain PBS)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/PrimeTime.JPG">
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-99z90b99">From Busing to Books: A Portrait of South Boston High School (WGBH)</a>
-  <a class="caption-text">Students leave South Boston High School in WGBH's From Busing to Books: A Portrait of South Boston High School (1984)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/BusingtoBooks.JPG">
+  <a class="caption-text">Students leave South Boston High School in WGBH's From Busing to Books: A Portrait of South Boston High School (1984)."</a> 
+ <img title="From Busing to Books: A Portrait of South Boston High School (WGBH)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/BusingtoBooks.JPG">
 
 ## Records
