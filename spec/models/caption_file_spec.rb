@@ -121,11 +121,11 @@ describe CaptionFile do
 
   describe '.file_present?' do
     it 'returns true for an id with a file on S3' do
-      expect(CaptionFile.new(id_2).get_source).to be_truthy
+      expect(CaptionFile.new(id_2).source).to be_truthy
     end
 
     it 'returns false for an id without a file on S3' do
-      expect(CaptionFile.new(id_3).get_source).to be_falsy
+      expect(CaptionFile.new(id_3).source).to be_falsy
     end
     # TODO: add vtt-source-file tests once we gets a vtt caption file?
   end
