@@ -89,7 +89,6 @@ $(document).on('turbolinks:load', function() {
     var now = player.currentTime();
     if(forward){
       player.currentTime(now+10);
-
     } else {
       player.currentTime(now-10);
     }
