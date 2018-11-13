@@ -135,7 +135,6 @@ $(document).on('turbolinks:load', function() {
     }
   }
 
-<<<<<<< HEAD
     function updateTranscriptButton() {
       var sliders = document.getElementsByClassName("transcript-slide");
       for(var i = 0; i < sliders.length; ++i){
@@ -169,7 +168,6 @@ $(document).on('turbolinks:load', function() {
       $('#transcript-message').slideUp(500);
     });
 
-=======
   $('div.transcript-slide').on("click", function(){
     var sliders = document.getElementsByClassName("transcript-slide")
     updatePlayerGrid();
@@ -187,6 +185,5 @@ $(document).on('turbolinks:load', function() {
         search.addClass('show-transcript-search');
       };
     }
->>>>>>> master
   });
 });
