@@ -40,6 +40,25 @@ $(document).on('turbolinks:load', function() {
       return $player.data('user-scroll');
   }
 
+  function skipPlayer(forward) {
+    var now = player.currentTime();
+    if(forward){
+      player.currentTime(now+10);
+
+    } else {
+      player.currentTime(now-10);
+    }
+  }
+
+  $('button#skip-back').click(function() {
+    skipPlayer(false);
+  });
+
+  $('button#skip-forward').click(function() {
+    skipPlayer(true);
+  });
+
+
   $player.on('timeupdate', function(){
       var current = $player[0].currentTime;
       var key = greatest_less_than_or_equal_to(current);
