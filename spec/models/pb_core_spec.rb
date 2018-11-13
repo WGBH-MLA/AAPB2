@@ -144,7 +144,7 @@ describe 'Validated and plain PBCore' do
           'playlist_order' => 0,
           'producing_organizations' => ['WGBH'],
           'states' => ['Massachusetts'],
-          'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS]
+          'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
 
           # TODO: UI will transform internal representation.
         },

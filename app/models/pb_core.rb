@@ -253,7 +253,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
     return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
     return TranscriptFile.new(id).text if TranscriptFile.text_file_present?(id)
     caption_file = CaptionFile.new(id, captions_fileext)
-    return caption_file.json if caption_file.try(:get_source)
+    return caption_file.json if caption_file && caption_file.source
     nil
   end
   MOVING_IMAGE = 'Moving Image'.freeze
@@ -453,7 +453,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :captions_fileext
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)
