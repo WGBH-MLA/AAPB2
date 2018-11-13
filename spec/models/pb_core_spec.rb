@@ -225,6 +225,10 @@ describe 'Validated and plain PBCore' do
       pbc = PBCore.new(pbc_xml)
       assertions.each do |method, value|
         it "\##{method} method works" do
+          if method == :transcript_content
+            require('pry');binding.pry
+          end
+
           expect(pbc.send(method)).to eq(value)
         end
       end
