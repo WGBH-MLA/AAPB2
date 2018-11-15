@@ -215,9 +215,6 @@ class CatalogController < ApplicationController
 
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
-
-          # nil if no captions present
-          @capfile_ext = @pbcore.captions_fileext
         else
           @show_transcript = false
         end

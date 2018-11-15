@@ -35,7 +35,7 @@
               <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
               <% if @pbcore.captions_src %>
-                <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt?ext=<%= @capfile_ext %>" srclang="en" label="English" default="default" />
+                <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
               <% end %>
               <% if ChapterFile.file_present?(@pbcore.id) %>
                 <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />

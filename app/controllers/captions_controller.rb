@@ -1,7 +1,6 @@
 class CaptionsController < ApplicationController
   def show
-    source_filetype = params[:ext]
-    caption_file = CaptionFile.new(params[:id], source_filetype)
+    caption_file = CaptionFile.new(params[:id])
 
     respond_to do |format|
       format.html do

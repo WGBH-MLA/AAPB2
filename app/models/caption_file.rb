@@ -3,56 +3,39 @@ require_relative '../../lib/caption_converter'
 
 class CaptionFile
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze
+
   attr_reader :id
 
-  def initialize(id, sourcetype = 'srt')
-    return nil unless id
+  def initialize(id)
     @id = id
-    @sourcetype = sourcetype
-    return nil unless source
-  end
-
-  def source
-    @source ||= begin
-                  open(source_url).read
-                rescue OpenURI::HTTPError
-                  # 500 bad!
-                  nil
-                end
-  end
-
-  def source_url
-    "#{CaptionFile::URL_BASE}/#{@id}/#{source_filename}".gsub('cpb-aacip_', 'cpb-aacip-')
-  end
-
-  def source_filename
-    case @sourcetype
-    when 'srt'
-      "#{id}.srt1.srt"
-    when 'vtt'
-      "#{id}.vtt"
-    end
   end
 
   def srt
-    @srt ||= @sourcetype == 'srt' ? source : ''
+    @srt ||= open(srt_url).read
   end
 
   def vtt
-    # return the unmodified vtt where applicable, otherwise convert
-    @vtt ||= @sourcetype == 'vtt' ? source : CaptionConverter.srt_to_vtt(source)
+    @vtt ||= open(vtt_url).read || CaptionConverter.srt_to_vtt(srt)
   end
 
   def html
-    @html ||= CaptionConverter.srt_to_html(source)
+    @html ||= CaptionConverter.srt_to_html(srt)
   end
 
   def text
-    @text ||= CaptionConverter.srt_to_text(source)
+    @text ||= CaptionConverter.srt_to_text(srt)
   end
 
   def json
-    @json ||= CaptionConverter.srt_to_json(source)
+    @json ||= CaptionConverter.srt_to_json(srt)
+  end
+
+  def srt_url
+    @srt_url ||= "#{CaptionFile::URL_BASE}/#{id}/#{id}.srt1.srt".gsub('cpb-aacip_', 'cpb-aacip-')
+  end
+
+  def vtt_url
+    @vtt_url ||= "#{CaptionFile::URL_BASE}/#{id}/#{id}.vtt".gsub('cpb-aacip_', 'cpb-aacip-')
   end
 
   def captions_from_query(query)

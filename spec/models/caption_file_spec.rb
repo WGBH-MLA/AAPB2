@@ -34,6 +34,7 @@ describe CaptionFile do
     # that this requires that the files have been pulled down and saved in
     # ./spec/fixtures/srt/ with the same filename they have in S3.
     WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-111-02c8693q/cpb-aacip-111-02c8693q.srt1.srt').to_return(body: srt_example_1)
+    WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-111-02c8693q/cpb-aacip-111-02c8693q.vtt').to_return(body: vtt_example_1)
     WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/1a2b/1a2b.srt1.srt').to_return(body: srt_example_2)
     WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/invalid123/invalid123.srt1.srt').to_return(status: [500, 'Internal Server Error'])
     # dont need response, just getting through the cap file init
@@ -93,21 +94,22 @@ describe CaptionFile do
     end
   end
 
+  describe '#srt_url' do
+    it 'returns the URL to the remote SRT caption file' do
+      expect(CaptionFile.new('foo').srt_url).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt'
+    end
+  end
+
+  describe '#vtt_url' do
+    it 'returns the URL to the remote VTT caption file' do
+      expect(CaptionFile.new('foo').vtt_url).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.vtt'
+    end
+  end
+
+
   ###
   # Class method tests
   ###
-
-  describe '.source_filename' do
-    it 'returns the filename based on the ID' do
-      expect(CaptionFile.new('foo').source_filename).to eq 'foo.srt1.srt'
-    end
-  end
-
-  describe '.source_url' do
-    it 'returns the URL to the remote SRT caption file' do
-      expect(CaptionFile.new('foo').source_url).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt'
-    end
-  end
 
   describe '.clean_query_for_captions' do
     it 'removes punctuation from and capitalizes the user query' do
@@ -117,17 +119,6 @@ describe CaptionFile do
     it 'uses stopwords.txt to remove words not used in actual search' do
       expect(CaptionFile.clean_query_for_captions(query_with_stopwords)).to eq(test_array)
     end
-  end
-
-  describe '.file_present?' do
-    it 'returns true for an id with a file on S3' do
-      expect(CaptionFile.new(id_2).source).to be_truthy
-    end
-
-    it 'returns false for an id without a file on S3' do
-      expect(CaptionFile.new(id_3).source).to be_falsy
-    end
-    # TODO: add vtt-source-file tests once we gets a vtt caption file?
   end
 
   after(:all) do
