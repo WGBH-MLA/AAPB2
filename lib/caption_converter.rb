@@ -41,7 +41,7 @@ class CaptionConverter
   def self.srt_to_text(srt)
     caption_text = []
     parsed_srt = parse_srt(srt)
-
+    return nil unless parsed_srt
     parsed_srt.lines.each do |line|
       caption_text << line.text
     end
@@ -79,7 +79,7 @@ class CaptionConverter
   def self.parse_srt(srt)
     SRT::File.parse(srt).tap do |parsed|
       if parsed.errors.any?
-        Rails.logger.warn('Warning: ' + parsed.errors.join(' '))
+        # Rails.logger.warn('Warning: ' + parsed.errors.join(' '))
         return nil
       end
     end

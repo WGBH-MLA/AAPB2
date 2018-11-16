@@ -40,7 +40,19 @@
                 <span class="index-data-title">Producing Organization</span>: <%= pbcore.producing_organizations_facet.join(', ') %>
               <% end %>
 
-            <p><%= truncate(pbcore.descriptions[0], length: 500) + ( "..." if pbcore.descriptions[0].length > 500) %></p>
+            <p style="margin-bottom: 2%;"><%= truncate(pbcore.descriptions[0], length: 500) + ( "..." if pbcore.descriptions[0].length > 500) %></p>
+
+            <!-- only one of these will show up v -->
+            <% if @snippets[pbcore.id][:caption] %>
+              <span class="index-data-title">From Closed Caption</span>:
+              <p><%= @snippets[pbcore.id][:caption] %></p>
+            <% end %>
+
+            <% if @snippets[pbcore.id][:transcript] %>
+              <span class="index-data-title">From Transcript</span>:
+              <p style="margin-top: 0;"><%= @snippets[pbcore.id][:transcript] %></p>
+            <% end %>
+
           </article>
           <!-- END Column -->
         </div>

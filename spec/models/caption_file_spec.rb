@@ -1,5 +1,7 @@
 require 'rails_helper'
 require 'webmock'
+include ApplicationHelper
+include SnippetHelper
 
 describe CaptionFile do
   before :all do
@@ -69,23 +71,23 @@ describe CaptionFile do
     end
   end
 
-  describe '#captions_from_query' do
+  describe '#snippet_from_query' do
     it 'returns the caption from the beginning if query word is within first 200 characters' do
-      caption = caption_file_2.captions_from_query(caption_query_one)
+      caption = snippet_from_query(caption_query_one, caption_file_2.text, 200, '.')
 
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('male')
+      expect(caption.split[1]).to eq('narrator:')
     end
 
     it 'truncates the begining of the caption if keyord is not within first 200 characters' do
-      caption = caption_file_2.captions_from_query(caption_query_two)
+      caption = snippet_from_query(caption_query_two, caption_file_2.text, 200, '.')
 
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('PUZZLING')
+      expect(caption.split[1]).to eq('<mark>AIRBORNE</mark>.')
     end
 
     it 'returns nil captions when query not in params' do
-      caption = caption_file_2.captions_from_query(caption_query_three)
+      caption = snippet_from_query(caption_query_three, caption_file_2.text, 200, '.')
 
       expect(caption).to eq(nil)
     end
@@ -107,13 +109,13 @@ describe CaptionFile do
     end
   end
 
-  describe '.clean_query_for_captions' do
+  describe '.clean_query_for_snippet' do
     it 'removes punctuation from and capitalizes the user query' do
-      expect(CaptionFile.clean_query_for_captions(query_with_punctuation)).to eq(test_array)
+      expect(clean_query_for_snippet(query_with_punctuation)).to eq(test_array)
     end
 
     it 'uses stopwords.txt to remove words not used in actual search' do
-      expect(CaptionFile.clean_query_for_captions(query_with_stopwords)).to eq(test_array)
+      expect(clean_query_for_snippet(query_with_stopwords)).to eq(test_array)
     end
   end
 
