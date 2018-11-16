@@ -49,6 +49,8 @@ For example, Martin Luther King Jr. was well aware of the power of television an
 </table>The concurrent revolts that sparked in major cities across the US in the mid to late 1960s, for example, Watts (1965), Chicago (1966), and the uprisings during the “long hot summer” of 1967, only added to this climate of misunderstanding.  Yet the riots were the direct result of the racism, police brutality, limited opportunities and general lack of change that many organizations in both the Civil Rights and Black Power Movement sought to address. 
 
 
+
+
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection.</caption><tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/4_kerner_commission.jpg" alt="President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection."/></td></tr>
 </table>
@@ -106,8 +108,8 @@ School of Cinematic Arts
 
 ### Ashley Young
 
-Ph.D. Candidate
-University of Southern California
+Ph.D. Candidate,
+University of Southern California,
 Cinema and Media Studies
 
 #### Next: [Black Journal](/exhibits/Black-Power/Televising-Black-Politics/Black-Journal)
