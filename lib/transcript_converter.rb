@@ -58,9 +58,9 @@ class TranscriptConverter
   def self.aggregate_transcript_parts(json)
     working_parts = []
     aggregated_parts = []
-    speaker_id = json['words'][0]['speaker_id']
+    speaker_id = json['parts'][0]['speaker_id']
 
-    json['words'].each do |part|
+    json['parts'].each do |part|
       if part['speaker_id'] == speaker_id
         working_parts << part
       else
