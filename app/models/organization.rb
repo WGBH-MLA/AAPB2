@@ -11,7 +11,7 @@ class Organization < Cmless
   attr_reader :state_html
   attr_reader :city_html
   attr_reader :url_html
-  attr_reader :history_html
+  attr_reader :about_html
   attr_reader :productions_html
   attr_reader :logo_html
 
@@ -28,7 +28,7 @@ class Organization < Cmless
   end
 
   def summary
-    @summary ||= history_html.sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1')
+    @summary ||= about_html.sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1')
   end
 
   def logo_src
@@ -61,8 +61,8 @@ class Organization < Cmless
     @short_name ||= Organization.clean(short_name_html).gsub('&amp;', '&')
   end
 
-  def url
-    @url ||= Organization.clean(url_html)
+  def urls
+    @urls ||= Nokogiri::HTML(url_html).xpath('//a').map { |a| a['href'] }
   end
 
   @orgs_by_pbcore_name = Hash[Organization.map { |org| [org.pbcore_name, org] }]

@@ -45,7 +45,7 @@
 }
 
 .index-data-title {
-	color: #8a1051;
+	color: #7f1777;
 	font-weight: bold;
 }
 
@@ -81,7 +81,7 @@ dl {
 
 dt {
 	font-size: 16px;
-	color:#9f2064;
+	color:#7f1777;
 	margin: 0;
 	width: 25%;
 }
@@ -90,6 +90,14 @@ dd {
 	font-size: 16px;
 	margin: 0;
   word-wrap: break-word;
+}
+
+.citation {
+	margin: 5px 0;
+}
+
+.contributors {
+	line-height: 1.7em;
 }
 
 .holding {
@@ -111,7 +119,7 @@ dd {
 }
 
 .catalog-alert {
-	padding: 34px 0;
+	padding: 17px 0;
 	.catalog-alert-text {
 		padding: 19px;
 		background-color: #f2f2f2;
@@ -222,6 +230,18 @@ dl:after {
 /*the button*/
 .search-query-form .input-group-lg .input-group-btn {
 	width:50px;
+}
+
+
+/* Licensing Button */
+.licensing-btn-group {
+	.licensing-btn {
+		background-color: #9f2064;
+	}
+	display: flex;
+	justify-content: center;
+  align-items: center;
+  padding: 34px 0 17px 0;
 }
 
 /*on the homepage*/

@@ -20,7 +20,7 @@ pacifica\_logo.png
 
 http://www.pacificaradioarchives.org/
 
-## History
+## About
 
 The Pacifica Foundation, founded by Lewis Hill in 1947, was given
 the mission to create a new kind of radio, supported by listeners, owing nothing

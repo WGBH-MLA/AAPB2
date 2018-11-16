@@ -55,15 +55,26 @@ class PBCore # rubocop:disable Metrics/ClassLength
     end
   end
   def all_parties
-    (creators + contributors + publishers).uniq.sort_by(&:stem)
+    cre = creators || []
+    con = contributors || []
+    pub = publishers || []
+    (cre + con + pub).uniq.sort_by { |p| p.role ? p.role : '' }
   end
   def instantiations
     @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do |rexml|
       PBCoreInstantiation.new(rexml)
     end
   end
+  def instantiations_display
+    @instantiations_display ||= instantiations.reject { |ins| ins.organization == 'American Archive of Public Broadcasting' }
+  end
   def rights_summaries
     @rights_summaries ||= xpaths('/*/pbcoreRightsSummary/rightsSummary')
+  rescue NoMatchError
+    nil
+  end
+  def licensing_info
+    @licensing_info ||= xpath('/*/pbcoreAnnotation[@annotationType="Licensing Info"]')
   rescue NoMatchError
     nil
   end
@@ -231,9 +242,9 @@ class PBCore # rubocop:disable Metrics/ClassLength
     return 'Online Reading Room' if public?
     return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
   end
-  ORR_TRANSCRIPT = 'Online Reading Room Transcript'.freeze
-  ON_LOCATION_TRANSCRIPT = 'On Location Transcript'.freeze
-  INDEXING_TRANSCRIPT = 'Indexing Only Transcript'.freeze
+  CORRECT_TRANSCRIPT = 'Correct'.freeze
+  CORRECTING_TRANSCRIPT = 'Correcting'.freeze
+  UNCORRECTED_TRANSCRIPT = 'Uncorrected'.freeze
   def transcript_status
     @transcript_status ||= xpath('/*/pbcoreAnnotation[@annotationType="Transcript Status"]')
   rescue NoMatchError
@@ -441,7 +452,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :outside_baseurl
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)

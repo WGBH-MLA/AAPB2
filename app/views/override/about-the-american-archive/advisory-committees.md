@@ -172,9 +172,6 @@ organizations, producers and leaders) and beyond <br>
 **Maureen Harlow**
 <br>Senior Digital Librarian, PBS
 
-**Kristen Reid**
-<br>Archivist, Chicago Public Media
-
 **Julie Rogers** 
 <br>Public Historian, NPR’s Research, Archives, and Data Strategy Team
 
@@ -184,8 +181,8 @@ organizations, producers and leaders) and beyond <br>
 **Winter Shanck**
 <br>Archivist, Thirteen/WNET 
 
-**Shirley Sneve**
-<br>Executive Director, Vision Maker Media
+**Alana Stone**
+<br>Project Coordinator, Vision Maker Media
 
 **Ann Wilkens**
 <br>Archivist, Wisconsin Public Television
