@@ -57,20 +57,7 @@ For example, Martin Luther King Jr. was well aware of the power of television an
 
 In 1967, President Lyndon B. Johnson established the National Advisory Committee on Civil Disorders, often referred to as the Kerner Commission, to explore the cause of the riots and determine what could be done to prevent them from happening again. The commission was specifically asked to explore the effects of the mass media on the riots. It judged riot reporting to be sensationalized and indicated that it “failed to analyze and report adequately on racial problems in the United States.”[<sup>6</sup>](/exhibits/black-power/notes#6) They further argued that “media report and write from the standpoint of a white man’s world.”[<sup>7</sup>](/exhibits/black-power/notes#7) The commission stated that the media did not explore the problems that Blacks faced in the country or even acknowledge Black history and culture. In considering the media’s role in contributing “to the black-white schism in this country,” the commission suggested the need for increased hiring of Blacks not only as news reporters, but also in positions of influence such as writers and editors.[<sup>8</sup>](/exhibits/black-power/notes#8) 
 
-Commercial network television producers largely ignored the recommendations of the Kerner Commission; in fact, many embraced the very tokenism that the report rejected.[<sup>9</sup>](/exhibits/black-power/notes#9) In 1968, there were approximately 200 public television stations in the U.S.; yet African American subject matter was not a primary focus of their programming. However, the civil unrest that resulted from the assassination of Martin Luther King Jr. on April 4, 1968, prompted many television organizations to revisit the recommendations of the Kerner Commission. An interesting example of the impact of the King assassination occurred with PBS affiliate WGBH in Boston. In an attempt to prevent possible disorder, Boston city officials negotiated with WGBH to televise a previously scheduled James Brown concert live on the day after Martin Luther King was assassinated. 
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">James Brown concert at Boston Garden on April 5, 1968. Source: YouTube</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/5_james_brown_1.mp4" alt="James Brown concert at Boston Garden on April 5, 1968. Source: YouTube"/></td></tr>
-</table>
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">James Brown concert at Boston Garden on April 5, 1968. Source: YouTube</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/6_james_brown_2.mp4" alt="James Brown concert at Boston Garden on April 5, 1968. Source: YouTube"/></td></tr>
-</table>
-
-
-[James Brown clip](https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/6_james_brown_2.mp4)
-
-Fans were encouraged to stay at home and watch the concert instead of attending the live event and city officials credit this decision with keeping peace in the city after the King assassination.[<sup>10</sup>](/exhibits/black-power/notes#10) Soon thereafter, WGBH recognizing the impact of the Brown concert on the Black community, began the production of the Black public affairs program, *Say Brother* in a continued attempt to engage with the Black audience.
+Commercial network television producers largely ignored the recommendations of the Kerner Commission; in fact, many embraced the very tokenism that the report rejected.[<sup>9</sup>](/exhibits/black-power/notes#9) In 1968, there were approximately 200 public television stations in the U.S.; yet African American subject matter was not a primary focus of their programming. However, the civil unrest that resulted from the assassination of Martin Luther King Jr. on April 4, 1968, prompted many television organizations to revisit the recommendations of the Kerner Commission. An interesting example of the impact of the King assassination occurred with PBS affiliate WGBH in Boston. In an attempt to prevent possible disorder, Boston city officials negotiated with WGBH to televise a previously scheduled [James Brown](https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/5_james_brown_1.mp4) concert live on the day after Martin Luther King was assassinated. Fans were encouraged to stay at home and watch the [concert](https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/6_james_brown_2.mp4) instead of attending the live event and city officials credit this decision with keeping peace in the city after the King assassination.[<sup>10</sup>](/exhibits/black-power/notes#10) Soon thereafter, WGBH recognizing the impact of the Brown concert on the Black community, began the production of the Black public affairs program, *Say Brother* in a continued attempt to engage with the Black audience.
 
 At the time of the uprisings in 1968, National Educational Television (NET) was more willing and more prepared than network television to distribute content that engaged with issues pertaining to Black America.  Under the banner of NET Journal, it had already aired “Midsummer 1967” (8/1967), an on location moderated conversation between the white and Black citizens of Newark, NJ about the conditions which led to the uprisings. [*NET Journal*](http://americanarchive.org/catalog/cpb-aacip_512-k35m90306x) concluded with an in-studio summary of the event. *NET Journal* also released “Where is Prejudice?” (11/12/1967) a multi-ethnic and multi-religious experiment which brought together African American, Asian American, Jewish, Catholic and Protestant students to discuss the question of prejudice in the country. [The experiment](http://americanarchive.org/catalog/cpb-aacip_75-70zpcht4) elicited honest and sometimes disturbing responses from the participants.  NET also had several other documentaries in production and released them in the weeks following King’s assassination.
 
@@ -121,9 +108,7 @@ School of Cinematic Arts
 ### Ashley Young
 
 Ph.D. Candidate
-
 University of Southern California
-
 Cinema and Media Studies
 
 #### Next: [Black Journal](/exhibits/Black-Power/Televising-Black-Politics/Black-Journal)
