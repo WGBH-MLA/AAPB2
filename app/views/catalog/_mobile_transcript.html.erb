@@ -19,11 +19,13 @@
           </div>
         </div>
 
-        <div id="transcript-message" class="">
-          <div class="mobile-transcript-content">
-            <%= @transcript_message %>
+        <% if @transcript_message %>
+          <div id="transcript-message" class="">
+            <div class="mobile-transcript-content">
+              <%= @transcript_message %>
+            </div>
           </div>
-        </div>
+        <% end %>
       </dl>
   </div>
 <% end %>

@@ -2,8 +2,6 @@
 class SolrDocument
   include Blacklight::Solr::Document
   ACCESS_FACET_FIELD = 'access_types'.freeze
-  attr_accessor :caption_snippet
-  attr_accessor :transcript_snippet
   # self.unique_key = 'id'
 
   # Email uses the semantic field mappings below to generate the body of an email.
@@ -20,14 +18,10 @@ class SolrDocument
   # use_extension(Blacklight::Solr::Document::DublinCore)
 
   def caption?
-    # self[:xml].include?('Captions URL')
-    # Nokogiri::XML(self[:xml]).xpath('//pbcoreAnnotation[@annotationType="Captions URL"]').first
     Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Captions URL"]').first
   end
 
   def transcript?
-    # self[:xml].include?('Captions URL')
-    # Nokogiri::XML(self[:xml]).xpath('//pbcoreAnnotation[@annotationType="Captions URL"]').first
     Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first
   end
 end
