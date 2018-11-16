@@ -184,6 +184,7 @@ describe 'Validated and plain PBCore' do
         transcript_src: nil,
         transcript_status: nil,
         outside_url: 'http://www.wgbh.org/',
+        outside_baseurl: 'wgbh.org',
         player_aspect_ratio: '4:3',
         player_specs: %w(680 510),
         playlist_group: nil,

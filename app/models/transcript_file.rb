@@ -21,7 +21,11 @@ class TranscriptFile
   end
 
   def html
-    @html ||= build_html
+    @html ||= content.to_html if content
+  end
+
+  def plaintext
+    @plaintext ||= content.text.delete("\n") if content
   end
 
   def file_present?
@@ -66,14 +70,13 @@ class TranscriptFile
     nil
   end
 
-  def build_html
-    case file_type
-    when TranscriptFile::JSON_FILE
-      return TranscriptConverter.json_to_html(json)
-    when TranscriptFile::TEXT_FILE
-      return TranscriptConverter.text_to_html(text)
-    end
-    nil
+  def content
+    @content ||=  case file_type
+                  when TranscriptFile::JSON_FILE
+                    TranscriptConverter.json_parts(json)
+                  when TranscriptFile::TEXT_FILE
+                    TranscriptConverter.text_parts(text)
+                  end
   end
 
   def determine_url
