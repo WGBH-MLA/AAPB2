@@ -73,9 +73,9 @@ class TranscriptFile
   def content
     @content ||=  case file_type
                   when TranscriptFile::JSON_FILE
-                    TranscriptConverter.get_json_parts(json)
+                    TranscriptConverter.json_parts(json)
                   when TranscriptFile::TEXT_FILE
-                    TranscriptConverter.get_text_parts(text)
+                    TranscriptConverter.text_parts(text)
                   end
   end
 

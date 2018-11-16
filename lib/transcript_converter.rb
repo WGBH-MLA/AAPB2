@@ -2,7 +2,7 @@ require 'json'
 require 'nokogiri'
 
 class TranscriptConverter
-  def self.get_json_parts(json)
+  def self.json_parts(json)
     Nokogiri::XML::Builder.new do |x|
       x.div(class: 'root') do
         para_counter = 1
@@ -25,7 +25,7 @@ class TranscriptConverter
     end.doc.root.children
   end
 
-  def self.get_text_parts(text)
+  def self.text_parts(text)
     Nokogiri::XML::Builder.new do |x|
       x.div(class: 'root') do
         para_counter = 1
