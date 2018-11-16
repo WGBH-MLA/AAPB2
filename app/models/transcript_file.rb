@@ -21,11 +21,11 @@ class TranscriptFile
   end
 
   def html
-    @html ||= build_content.to_html if build_content
+    @html ||= content.to_html if content
   end
 
   def plaintext
-    @plaintext ||= build_content.text.delete("\n") if build_content
+    @plaintext ||= content.text.delete("\n") if content
   end
 
   def file_present?
@@ -70,7 +70,7 @@ class TranscriptFile
     nil
   end
 
-  def build_content
+  def content
     @content ||=  case file_type
                   when TranscriptFile::JSON_FILE
                     TranscriptConverter.get_json_parts(json)
