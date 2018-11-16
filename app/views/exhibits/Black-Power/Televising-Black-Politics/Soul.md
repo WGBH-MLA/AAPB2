@@ -204,7 +204,7 @@ Influenced heavily by the work of Ellis Haizlip, Nikki Giovanni, and the primary
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152889_ 1_whitesnow.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152889_%201_whitesnow.mp4</a>
   
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h">View the full program record</a>
   
