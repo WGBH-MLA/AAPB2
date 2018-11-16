@@ -68,6 +68,8 @@ Commercial network television producers largely ignored the recommendations of t
 </table>
 
 
+[James Brown clip](https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/6_james_brown_2.mp4)
+
 Fans were encouraged to stay at home and watch the concert instead of attending the live event and city officials credit this decision with keeping peace in the city after the King assassination.[<sup>10</sup>](/exhibits/black-power/notes#10) Soon thereafter, WGBH recognizing the impact of the Brown concert on the Black community, began the production of the Black public affairs program, *Say Brother* in a continued attempt to engage with the Black audience.
 
 At the time of the uprisings in 1968, National Educational Television (NET) was more willing and more prepared than network television to distribute content that engaged with issues pertaining to Black America.  Under the banner of NET Journal, it had already aired “Midsummer 1967” (8/1967), an on location moderated conversation between the white and Black citizens of Newark, NJ about the conditions which led to the uprisings. [*NET Journal*](http://americanarchive.org/catalog/cpb-aacip_512-k35m90306x) concluded with an in-studio summary of the event. *NET Journal* also released “Where is Prejudice?” (11/12/1967) a multi-ethnic and multi-religious experiment which brought together African American, Asian American, Jewish, Catholic and Protestant students to discuss the question of prejudice in the country. [The experiment](http://americanarchive.org/catalog/cpb-aacip_75-70zpcht4) elicited honest and sometimes disturbing responses from the participants.  NET also had several other documentaries in production and released them in the weeks following King’s assassination.
