@@ -135,16 +135,40 @@ Despite the conservative political shift and changes in funding distribution on 
   <a class="caption-text">This is a clip from *Black Journal* episode sixteen featuring footage from the Pan-African Cultural Festival in Algiers. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_documentary_1.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode twenty-three. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_ElijahMuhammad_2.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode twenty-three featuring Nation of Islam leader Elijah Muhammad. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_NOI.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode twenty-three featuring a segment on the Nation of Islam. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
 
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2083923.mp4</a>
 
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-b56d21sd0c">View the full program record</a>
 
-
+  <a class="caption-text">This is a clip from *Black Journal* episode twenty-five. Courtesy WNET.</a>
 
 
 
