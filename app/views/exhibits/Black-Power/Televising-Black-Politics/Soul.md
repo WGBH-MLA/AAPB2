@@ -150,7 +150,7 @@ Influenced heavily by the work of Ellis Haizlip, Nikki Giovanni, and the primary
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_2_Soul_curse.mp4</a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
-  <a class="caption-text">This is a clip from *SOUL!" episode "Ain't Supposed to Die a Natural Death". Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death". Courtesy WNET.</a>
 
 
 
