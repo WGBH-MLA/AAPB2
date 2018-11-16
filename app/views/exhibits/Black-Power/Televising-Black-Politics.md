@@ -50,8 +50,7 @@ For example, Martin Luther King Jr. was well aware of the power of television an
 
 
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/4_kerner_commission.jpg" alt="President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection."/></td></tr>
+  <caption align="bottom" class="exhibit-caption">President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection.</caption><tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/4_kerner_commission.jpg" alt="President Lyndon B. Johnson with members of the National Advisory Committee on Civil Disorders (Kerner Commission) on July 29, 1967 at the White House. Source: Library of Congress Rights and Photgraphs Division. US News and World Report Magazine Collection."/></td></tr>
 </table>
 
 
