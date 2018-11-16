@@ -25,6 +25,7 @@ class ValidatedPBCore < PBCore
     errors = []
     (PBCore.instance_methods(false) - [:to_solr, :transcript_content, :exhibits]).each do |method|
       begin
+
         send(method)
       rescue => e
         errors << (["'##{method}' failed: #{e.message}"] + e.backtrace[0..2]).join("\n")

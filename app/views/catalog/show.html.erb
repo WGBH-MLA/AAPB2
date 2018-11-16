@@ -71,7 +71,6 @@
 
         </div>
     </div>
-
   </div>
 
   <div class="col-md-4 catalog-show-left-col">
@@ -85,6 +84,27 @@
         </div>
       </dl>
       <%= render partial: 'mobile_transcript' %>
+    <% end %>
+
+    <% if @fixit_link %>
+      <dl class="panel">
+        <a href="<%= @fixit_link %>">
+          <div class="row">
+            <dt class="col-md-12">
+              
+              <div style="width: 60%; margin-left: auto; margin-right: auto;">
+                <img style="width: 100%; display: block; text-align: center;" src="https://s3.amazonaws.com/americanarchive.org/org-logos/fixit_logo_lg.png" alt="FIX IT">
+              </div>
+            </dt>
+          </div>
+
+          <div class="row" style="margin: 0; text-align: center;">
+            <dt class="col-md-12" style="font-size: 12px;">
+              Want to help make this content more accessible? Correct our machine-generated transcript.
+            </dt>
+          </div>
+        </a>
+      </dl>
     <% end %>
 
     <% @pbcore.titles.each do |type,title| %>

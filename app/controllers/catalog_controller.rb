@@ -256,6 +256,10 @@ class CatalogController < ApplicationController
           @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
         end
 
+        if @document.transcript? && @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
+          @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
+        end
+
         render
       end
       format.pbcore do

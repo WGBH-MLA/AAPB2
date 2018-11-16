@@ -18,18 +18,20 @@
           <span class="transcript-circle">-</span>
         </div>
       </div>
-      
-      <div style="background-color: #fceab2;" id="transcript-message" class="">
-        
-        <div class="transcript-message-bar">
-          <button id="transcript-message-close" class="transcript-message-btn">✖</button>
-        </div>
 
-        <div class="transcript-message-content">
-          <%= @transcript_message %>
-        </div>
-      </div>
 
+      <% if @transcript_message %>
+        <div style="background-color: #fceab2;" id="transcript-message" class="">
+
+          <div class="transcript-message-bar">
+            <button id="transcript-message-close" class="transcript-message-btn">✖</button>
+          </div>
+
+          <div class="transcript-message-content">
+            <%= @transcript_message %>
+          </div>
+        </div>
+      <% end %>
     </dl>
     <div id="transcript" class="transcript-frame">
       <div class="transcript transcript-content">
