@@ -37,7 +37,7 @@ Ellis Haizlip, a theater and television producer, joined *Soul!* as its producer
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> Screenshot of dancer Carmen de Lavallade. Source: *Soul!* </caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/15_carmen.jpg" alt="Screenshot of dancer Carmen de Lavallade. Source: *Soul!*"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/15_carmen.png" alt="Screenshot of dancer Carmen de Lavallade. Source: *Soul!*"/></td></tr>
 </table>
 
 
