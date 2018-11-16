@@ -206,6 +206,11 @@ class PBCore # rubocop:disable Metrics/ClassLength
   rescue NoMatchError
     nil
   end
+  def outside_baseurl
+    return nil unless outside_url
+    baseurl = URI(outside_url.start_with?('http://', 'https://') ? outside_url : %(http://#{outside_url})).host
+    baseurl.to_s.start_with?('www.') ? baseurl.gsub('www.', '') : baseurl
+  end
   def reference_urls
     # These only provide extra information. We aren't saying there is media on the far side,
     # so this has no interaction with access_level, unlike outside_url.
@@ -447,7 +452,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
     ]
 
     @text ||= (PBCore.instance_methods(false) - ignores)
