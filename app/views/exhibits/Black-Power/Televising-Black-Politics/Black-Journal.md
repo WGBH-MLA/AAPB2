@@ -105,6 +105,57 @@ Despite the conservative political shift and changes in funding distribution on 
 
 
 
+## Gallery
+
+
+ - <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Ethiopia.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode twenty-one. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Jambo_Greeting.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode twenty-one featuring host Lou House. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832319_Algiers_FilmFest.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-5h7br8n792">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode sixteen featuring footage from the Pan-African Cultural Festival in Algiers. Courtesy WNET.</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
