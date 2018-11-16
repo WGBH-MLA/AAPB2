@@ -138,6 +138,108 @@ Influenced heavily by the work of Ellis Haizlip, Nikki Giovanni, and the primary
 
 ## Gallery
 
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_Farrakhan_1.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_Farrakhan_2.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_NOI_Homosexuality.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_WriteUs.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring host Ellis Haizlip. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152692_1_Sidney.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Belafonte, Nelson, Poitier" featuring actor/director Sidney Poitier. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152692_2_Belafonte.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Belafonte, Nelson, Poitier" featuring actor Harry Belafonte. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152692_3_Belafonte.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Belafonte, Nelson, Poitier" featuring actor Harry Belafonte. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152889_1_whitesnow.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Black Woman" featuring poet Jackie Earley. Courtesy WNET.</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - <a class="type">video</a>
 
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_Soul_Cleaver.mp4</a>
@@ -148,9 +250,12 @@ Influenced heavily by the work of Ellis Haizlip, Nikki Giovanni, and the primary
 
 
 - <a class="type">video</a>
+
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_2_Soul_curse.mp4</a>
+  
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
-  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death". Courtesy WNET.</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death." Courtesy WNET.</a>
 
 
 
