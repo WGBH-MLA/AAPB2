@@ -141,40 +141,60 @@ Influenced heavily by the work of Ellis Haizlip, Nikki Giovanni, and the primary
 ## Gallery
 
 
-- <a class="type">video</a>
-
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_Farrakhan_1.mp4</a>
-  
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
-  
-  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_Farrakhan_2.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_1_Soul_feet.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_NOI_Homosexuality.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_2_Soul_curse.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_WriteUs.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_3_Soul_money.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring host Ellis Haizlip. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_Soul_Cleaver.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring Kathleen Cleaver. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152952_Baraka_1.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-dr2p55ff6c">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Baraka the Artist " featuring activist/author/poet Amiri Baraka. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152952_Baraka_2.mp4</a>
+  
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-dr2p55ff6c">View the full program record</a>
+  
+  <a class="caption-text">This is a clip from *SOUL!* episode "Baraka the Artist " featuring activist/author/poet Amiri Baraka. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
@@ -242,74 +262,56 @@ Influenced heavily by the work of Ellis Haizlip, Nikki Giovanni, and the primary
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152943_BlackPowerPhrase.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_Farrakhan_1.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jd4pk0823w">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Wherever We May Be" featuring activist Stokely Carmichael. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152943_SNCC_SCLC.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_Farrakhan_2.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jd4pk0823w">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Wherever We May Be" featuring activist Stokely Carmichael. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152952_Baraka_1.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_NOI_Homosexuality.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-dr2p55ff6c">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Baraka the Artist " featuring activist/author/poet Amiri Baraka. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152952_Baraka_2.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_WriteUs.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-dr2p55ff6c">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Baraka the Artist " featuring activist/author/poet Amiri Baraka. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Farrakhan: The Minister" featuring host Ellis Haizlip. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_1_Soul_feet.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829281_1_MiriamMakeba.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m9b">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Makeba/Delfonics" featuring South African singer Miriam Makeba. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_2_Soul_curse.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829281_2_MiriamMakeba.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m9b">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
-
-
-- <a class="type">video</a>
-
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_3_Soul_money.mp4</a>
-  
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
-  
-  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
-
-
-- <a class="type">video</a>
-
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_Soul_Cleaver.mp4</a>
-  
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
-  
-  <a class="caption-text">This is a clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring Kathleen Cleaver. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Makeba/Delfonics" featuring South African singer Miriam Makeba. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
@@ -328,7 +330,6 @@ Influenced heavily by the work of Ellis Haizlip, Nikki Giovanni, and the primary
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_75-881jx8qs">View the full program record</a>
   
   <a class="caption-text">This is a clip from *SOUL!* two-part episode "Nikki Giovanni and James Baldwin" featuring guest host Nikki Giovanni and author James Baldwin. Courtesy WNET.</a>
-
 
 
 - <a class="type">video</a>
@@ -351,20 +352,24 @@ Influenced heavily by the work of Ellis Haizlip, Nikki Giovanni, and the primary
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829281_1_MiriamMakeba.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152943_BlackPowerPhrase.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m9b">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jd4pk0823w">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Makeba/Delfonics" featuring South African singer Miriam Makeba. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Wherever We May Be" featuring activist Stokely Carmichael. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
 
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829281_2_MiriamMakeba.mp4</a>
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152943_SNCC_SCLC.mp4</a>
   
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m9b">View the full program record</a>
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jd4pk0823w">View the full program record</a>
   
-  <a class="caption-text">This is a clip from *SOUL!* episode "Makeba/Delfonics" featuring South African singer Miriam Makeba. Courtesy WNET.</a>
+  <a class="caption-text">This is a clip from *SOUL!* episode "Wherever We May Be" featuring activist Stokely Carmichael. Courtesy WNET.</a>
+
+
+
+
 
 
 
