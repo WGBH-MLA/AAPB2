@@ -135,14 +135,14 @@ Despite the conservative political shift and changes in funding distribution on 
   <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a> 
   
   
-  - <a class="type">video</a>
+- <a class="type">video</a>
 
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-pn8x921x8p">View the full program record</a>
 
   <a class="caption-text">This is a clip from *Black Journal* episode eight. Courtesy WNET.</a>
  
  
-  - <a class="type">video</a>
+- <a class="type">video</a>
 
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-4f1mg7gm89">View the full program record</a>
 
@@ -165,6 +165,13 @@ Despite the conservative political shift and changes in funding distribution on 
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jw86h4dq8k">View the full program record</a>
 
   <a class="caption-text">This is a clip from *Black Journal* episode nineteen. Courtesy WNET.</a>
+ 
+ 
+ - <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_75-70zpct5x">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode twenty. Courtesy WNET.</a>
  
  
  - <a class="type">video</a>
@@ -223,6 +230,97 @@ Despite the conservative political shift and changes in funding distribution on 
 
 - <a class="type">video</a>
 
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-dz02z1335r">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode twenty-eight. Courtesy WNET.</a>
+  
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-gb1xd0rs11">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode thirty-two. Courtesy WNET.</a>
+  
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0z70v89r15">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode thirty-five. Courtesy WNET.</a>
+
+
+ - <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-901zc7sm4c">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode thirty-seven. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-bz6154fm6p">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode forty-two. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-2r3nv99g3n">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode fourty-three. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-pg1hh6cm8r">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode fourty-four. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-n29p26r22j">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode fifty-two. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-k93125rb4b">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode fifty-five. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-b853f4mk73">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode fifty-six. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rr1pg1jn8b">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode fifty-nine. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-154dn40k35">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode sixty. Courtesy WNET.</a>
+  
+  
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-1v5bc3tn06">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode sixty-seven. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2278348.mp4</a>
 
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-wp9t14vt8n">View the full program record</a>
@@ -230,25 +328,53 @@ Despite the conservative political shift and changes in funding distribution on 
   <a class="caption-text">This is a clip from *Black Journal* episode 312. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-hh6c24rp7v">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode 315. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-cr5n873x76">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode 332. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rx9377726q">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode 408. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-901zc7sp57">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode 501. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-n58cf9k96w">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode 507. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-1g0ht2h48t">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode 512. Courtesy WNET.</a>
 
 
+- <a class="type">video</a>
 
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-2f7jq0tp0t">View the full program record</a>
 
-
-
-
-
-
+  <a class="caption-text">This is a clip from *Black Journal* episode 604. Courtesy WNET.</a>
 
 
 
