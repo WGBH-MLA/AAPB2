@@ -150,7 +150,7 @@ Despite the conservative political shift and changes in funding distribution on 
   
  
  - <a class="type">video</a>
-
+ 
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832319_Algiers_FilmFest.mp4</a>
 
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-5h7br8n792">View the full program record</a>
