@@ -21,7 +21,9 @@ Producer Christopher Lukas, the director of cultural programming for New York’
   <caption align="bottom" class="exhibit-caption"> Screenshot of Ellis Haizlip. Source: *Soul!* </caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/16_haizlip.png" alt="Screenshot of Ellis Haizlip. Source: *Soul!*"/></td></tr>
 </table>
+
 Ellis Haizlip, a theater and television producer, joined *Soul!* as its producer but eventually became the regular host. Haizlip was initially resistant to hosting due to a minor speech impediment and his concerns that his homosexuality, which was known in television, theatre and arts circles would impact the show.[<sup>49</sup>](/exhibits/black-power/notes#49) However, with the support and encouragement from friends such as Nikki Giovanni, he eventually flourished in the role. Haizlip used his connections, contacts, and leadership to make *Soul!* his own. He not only booked guests but also hired staff members. Haizlip’s friendly and casual interview style created a space that was interactive and intimate, giving African American artists such as Sidney Poitier, Harry Belafonte, Nikki Giovanni and Cicely Tyson amongst many others the chance to speak openly and honestly about the state of Black America. 
+
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption"> Cicely Tyson on *Soul!*. Source: *Soul!* </caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/17_cicely_tyson.png" alt="Cicely Tyson on *Soul!*. Source: *Soul!*"/></td></tr>
