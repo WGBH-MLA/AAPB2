@@ -108,6 +108,65 @@ Despite the conservative political shift and changes in funding distribution on 
 ## Gallery
 
 
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_1.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a>
+  
+  
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_2.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a>
+
+
+- <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_ElijahMuhammad.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a> 
+  
+  
+  - <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-pn8x921x8p">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode eight. Courtesy WNET.</a>
+ 
+ 
+  - <a class="type">video</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-4f1mg7gm89">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode nine. Courtesy WNET.</a>
+  
+ 
+ - <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832319_Algiers_FilmFest.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-5h7br8n792">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode sixteen featuring footage from the Pan-African Cultural Festival in Algiers. Courtesy WNET.</a>
+ 
+ 
+ - <a class="type">video</a>
+
+  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2279602_documentary_2.mp4</a>
+
+  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jw86h4dq8k">View the full program record</a>
+
+  <a class="caption-text">This is a clip from *Black Journal* episode nineteen. Courtesy WNET.</a>
+ 
+ 
  - <a class="type">video</a>
 
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Ethiopia.mp4</a>
@@ -124,15 +183,6 @@ Despite the conservative political shift and changes in funding distribution on 
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
 
   <a class="caption-text">This is a clip from *Black Journal* episode twenty-one featuring host Lou House. Courtesy WNET.</a>
-
-
-- <a class="type">video</a>
-
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832319_Algiers_FilmFest.mp4</a>
-
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-5h7br8n792">View the full program record</a>
-
-  <a class="caption-text">This is a clip from *Black Journal* episode sixteen featuring footage from the Pan-African Cultural Festival in Algiers. Courtesy WNET.</a>
 
 
 - <a class="type">video</a>
@@ -180,40 +230,10 @@ Despite the conservative political shift and changes in funding distribution on 
   <a class="caption-text">This is a clip from *Black Journal* episode 312. Courtesy WNET.</a>
 
 
-- <a class="type">video</a>
-
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2279602_documentary_2.mp4</a>
-
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jw86h4dq8k">View the full program record</a>
-
-  <a class="caption-text">This is a clip from *Black Journal* episode nineteen. Courtesy WNET.</a>
 
 
-- <a class="type">video</a>
-
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_1.mp4</a>
-
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
-
-  <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a>
 
 
-- <a class="type">video</a>
-
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_2.mp4</a>
-
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
-
-  <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a>
-
-
-- <a class="type">video</a>
-
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_ElijahMuhammad.mp4</a>
-
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
-
-  <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a>
 
 
 
