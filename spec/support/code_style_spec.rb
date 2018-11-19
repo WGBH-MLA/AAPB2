@@ -6,7 +6,7 @@ describe 'code style' do
 
     all_paths = Dir[Rails.root + '{app,config,scripts,spec}/**/*']
     paths_to_check = all_paths.reject do |path|
-      path =~ /\.(jar|ico|png|gif|jpg|dat|srt)$/ ||
+      path =~ /\.(jar|ico|png|gif|jpg|dat|srt|mmdb)$/ ||
         File.directory?(path) ||
         path == __FILE__
     end

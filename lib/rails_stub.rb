@@ -12,4 +12,11 @@ module Rails
       OpenStruct.new(production?: false)
     end
   end
+
+  # for geoip
+  unless Rails.respond_to?(:cache)
+    def self.cache
+      OpenStruct.new(fetch: MaxMindDB.new(Rails.root + 'config/GeoLite2-Country.mmdb'))
+    end
+  end
 end

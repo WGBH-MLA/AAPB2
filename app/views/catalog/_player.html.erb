@@ -6,7 +6,6 @@
   <%= javascript_include_tag 'transcript', 'data-turbolinks-track': 'false' %>
   <%= javascript_include_tag 'mobile-transcript', 'data-turbolinks-track': 'false' %>
   <%= javascript_include_tag 'player', 'data-turbolinks-track': 'false' %>
-
 <% end %>
 
 <!-- player or thumbnail or message -->
@@ -101,3 +100,5 @@
 <% @pbcore.reference_urls.each do |url| %>
   <%= link_to 'More information on this record is available.', url %>
 <% end %>
+
+<%= yield :video %>

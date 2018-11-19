@@ -74,7 +74,7 @@ gem 'sony_ci_api', '~> 0.2.1'
 gem 'rubyzip', '~> 1.2.1'
 
 gem 'cancan'
-gem 'geoip'
+gem 'maxminddb'
 gem 'fastimage'
 gem 'rack-cors', '~> 1.0.2', :require => 'rack/cors'
 

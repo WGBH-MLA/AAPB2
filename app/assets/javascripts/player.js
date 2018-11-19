@@ -7,7 +7,6 @@
 
 
 $(document).on('turbolinks:load', function() {
-
   function parse_timecode(hms) {
       var arr = hms.split(':');
       return parseFloat(arr[2]) +

@@ -1,14 +1,15 @@
 require 'singleton'
-require 'geoip'
 
 class GeoIPCountry
   include Singleton
 
   def initialize
-    @geo_ip = GeoIP.new(Rails.root + 'config/GeoIP.dat')
+    @mmdb = Rails.cache.fetch('maxmind_db')
+    @mmdb = Rails.cache.fetch('maxmind_db')
   end
 
   def country_code(ip)
-    @geo_ip.country(ip).country_code2
+    look = @mmdb.lookup(ip)
+    look.found? && look.country.iso_code
   end
 end
