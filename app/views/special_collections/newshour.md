@@ -25,9 +25,9 @@ The *PBS NewsHour* Collection includes more than 8,000 episodes of *PBS NewsHour
 
 - [*PBS NewsHour* website](https://www.pbs.org/newshour/)
 - [History of *PBS NewsHour*](https://www.pbs.org/newshour/about/history)
-- [<em>Freedom Riders</em> Documentary Website](http://www.pbs.org/wgbh/americanexperience/films/freedomriders/) 
-- [“Gavel-to-Gavel: The Watergate Scandal and Public Television Exhibit”](http://americanarchive.org/exhibits/watergate)
-- [Preserving Public Broadcasting at 50 Years – Event at the Library of Congress (Recording)](https://www.youtube.com/watch?v=cHsceZqsH2M&t=)
+- [<em>Freedom Riders</em> Documentary website](http://www.pbs.org/wgbh/americanexperience/films/freedomriders/) 
+- [“Gavel-to-Gavel": The Watergate Scandal and Public Television exhibit](http://americanarchive.org/exhibits/watergate)
+- [Preserving Public Broadcasting at 50 Years – Event at the Library of Congress (video recording)](https://www.youtube.com/watch?v=cHsceZqsH2M&t=)
 
 ## Funders
 

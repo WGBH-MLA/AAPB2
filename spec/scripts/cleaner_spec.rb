@@ -41,8 +41,8 @@ describe Cleaner do
           ValidatedPBCore.new(cleaner.clean(dirty))
           raise('Expected an error')
         rescue => e
-          expect(e.message.split("\n").first)
-            .to eq expected_first_line
+          expect(e.message)
+            .to include expected_first_line
           # Full paths need to be cleaned up so that they match on Travis.
         end
         # This could be shorter, but the eq matcher gives us a diff that we don't get from

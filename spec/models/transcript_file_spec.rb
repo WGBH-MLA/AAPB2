@@ -1,6 +1,8 @@
 require 'rails_helper'
 require 'webmock'
 require 'json'
+include ApplicationHelper
+include SnippetHelper
 
 describe TranscriptFile do
   let(:json_id) { 'cpb-aacip_111-21ghx7d6' }
@@ -13,6 +15,10 @@ describe TranscriptFile do
   let(:text_transcript) { TranscriptFile.new(text_id) }
   let(:json_html_tags) { ['play-from-here', 'transcript-row', 'para', 'data-timecodebegin', 'data-timecodeend', 'transcript-row'] }
   let(:text_html_tags) { ['transcript-row', 'para', 'data-timecodebegin', 'transcript-row'] }
+
+  let(:transcript_query_one) { %w(EVENING) }
+  let(:transcript_query_two) { %w(NICARAGUAN ECONOMY) }
+  let(:transcript_query_three) { %w(LOYE 000000 [SDBA]) }
 
   def valid_json?(json)
     JSON.parse(json)
@@ -122,6 +128,25 @@ describe TranscriptFile do
 
     it 'returns false for a text file not present on S3' do
       expect(TranscriptFile.text_file_present?(fake_id)).to eq(false)
+    end
+  end
+
+  describe '#snippet_from_query' do
+    it 'returns the transcript from the beginning if query word is within first 200 characters' do
+      transcript = snippet_from_query(transcript_query_one, text_transcript.plaintext, 200, ' ')
+      # .first returns the preceding '...'
+      expect(transcript.split[1]).to eq('JIM')
+    end
+
+    it 'truncates the begining of the transcript if keyord is not within first 200 characters' do
+      transcript = snippet_from_query(transcript_query_two, text_transcript.plaintext, 200, ' ')
+      # .first returns the preceding '...'
+      expect(transcript.split[1]).to eq('<mark>economy</mark>.')
+    end
+
+    it 'returns nil transcripts when query not in params' do
+      transcript = snippet_from_query(transcript_query_three, text_transcript.plaintext, 200, ' ')
+      expect(transcript).to eq(nil)
     end
   end
 end

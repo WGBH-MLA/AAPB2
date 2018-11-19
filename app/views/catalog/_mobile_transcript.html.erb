@@ -18,6 +18,14 @@
             <%= raw @transcript_html %>
           </div>
         </div>
+
+        <% if @transcript_message %>
+          <div id="transcript-message" class="">
+            <div class="mobile-transcript-content">
+              <%= @transcript_message %>
+            </div>
+          </div>
+        <% end %>
       </dl>
   </div>
 <% end %>
