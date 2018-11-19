@@ -253,7 +253,8 @@ class PBCore # rubocop:disable Metrics/ClassLength
   def transcript_content
     return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
     return TranscriptFile.new(id).text if TranscriptFile.text_file_present?(id)
-    return CaptionFile.new(id).json if CaptionFile.file_present?(id)
+    caption_file = CaptionFile.new(id)
+    return caption_file.json if caption_file && caption_file.json
     nil
   end
   MOVING_IMAGE = 'Moving Image'.freeze
@@ -351,6 +352,7 @@ class PBCore # rubocop:disable Metrics/ClassLength
 
   # rubocop:enable Style/EmptyLineBetweenDefs
 
+  # TODO: modify this for captions for vtt source file change?
   def self.srt_url(id)
     # Class method because it doesn't depend on object state,
     # and we want to get at it without a full instantiation.

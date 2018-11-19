@@ -35,9 +35,12 @@ describe CaptionFile do
     # Stub requests so we don't actually have to fetch them remotely. But note
     # that this requires that the files have been pulled down and saved in
     # ./spec/fixtures/srt/ with the same filename they have in S3.
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_1)).to_return(body: srt_example_1)
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_2)).to_return(body: srt_example_2)
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_3)).to_return(status: [500, 'Internal Server Error'])
+    WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-111-02c8693q/cpb-aacip-111-02c8693q.srt1.srt').to_return(body: srt_example_1)
+    WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-111-02c8693q/cpb-aacip-111-02c8693q.vtt').to_return(body: vtt_example_1)
+    WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/1a2b/1a2b.srt1.srt').to_return(body: srt_example_2)
+    WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/invalid123/invalid123.srt1.srt').to_return(status: [500, 'Internal Server Error'])
+    # dont need response, just getting through the cap file init
+    WebMock.stub_request(:get, 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt').to_return(body: '')
   end
 
   describe '#srt' do
@@ -93,19 +96,15 @@ describe CaptionFile do
     end
   end
 
-  ###
-  # Class method tests
-  ###
-
-  describe '.srt_filename' do
-    it 'returns the filename based on the ID' do
-      expect(CaptionFile.srt_filename('foo')).to eq 'foo.srt1.srt'
+  describe '#srt_url' do
+    it 'returns the URL to the remote SRT caption file' do
+      expect(CaptionFile.new('foo').srt_url).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt'
     end
   end
 
-  describe '.srt_url' do
-    it 'returns the URL to the remote SRT caption file' do
-      expect(CaptionFile.srt_url('foo')).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt'
+  describe '#vtt_url' do
+    it 'returns the URL to the remote VTT caption file' do
+      expect(CaptionFile.new('foo').vtt_url).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.vtt'
     end
   end
 
@@ -116,16 +115,6 @@ describe CaptionFile do
 
     it 'uses stopwords.txt to remove words not used in actual search' do
       expect(clean_query_for_snippet(query_with_stopwords)).to eq(test_array)
-    end
-  end
-
-  describe '.file_present?' do
-    it 'returns true for an id with a file on S3' do
-      expect(CaptionFile.file_present?(id_2)).to eq(true)
-    end
-
-    it 'returns false for an id without a file on S3' do
-      expect(CaptionFile.file_present?(id_3)).to eq(false)
     end
   end
 
