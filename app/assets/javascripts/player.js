@@ -1,4 +1,11 @@
 // Imported from OpenVault with minor adjustments.
+
+// -document rady for initial t viewer state check
+// -define viewer functions outside of listeners
+// other behavior on
+
+
+
 $(document).on('turbolinks:load', function() {
 
   function parse_timecode(hms) {
