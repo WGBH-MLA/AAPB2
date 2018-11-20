@@ -1,9 +1,5 @@
 // Imported from OpenVault with minor adjustments.
 $(document).on('turbolinks:load', function() {
-  console.log("literally anything")
-  $('#player_media_html5_api').on('loadeddata', function() {
-    console.log('Live at ' + window.location);
-  });
 
   function parse_timecode(hms) {
       var arr = hms.split(':');
@@ -157,7 +153,6 @@ $(document).on('turbolinks:load', function() {
   }
 
   $('div.transcript-slide').unbind('click').on('click', function(){
-    console.log('tried to hide')
     updatePlayerGrid();
     updateTranscriptGrid();
     updateTranscriptButton();
@@ -166,7 +161,6 @@ $(document).on('turbolinks:load', function() {
   // hide player once (thanks turbolinks!)
   var tstate = $('#transcript-state');
   if(tstate.hasClass('closed') && tstate.hasClass('initial')) {
-    console.log('did initial')
     tstate.removeClass('initial');
     updatePlayerGrid()
     updateTranscriptGrid();
@@ -174,7 +168,6 @@ $(document).on('turbolinks:load', function() {
   }
 
   $('#transcript-message-close').unbind('click').on('click', function() {
-    console.log('tried to close message')
     $('#transcript-message').slideUp(500);
   });
 });
