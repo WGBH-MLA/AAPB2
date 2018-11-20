@@ -3,12 +3,9 @@
   <script src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
   <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
-
   <%= javascript_include_tag 'transcript' %>
   <%= javascript_include_tag 'mobile-transcript' %>  <!-- Need VideoJS for our player.js file -->
   <%= javascript_include_tag 'player' %>
-
-
 <% end %>
 
 <% content_for :main do %>
@@ -71,44 +68,40 @@
     </div>
   <% end %>
 
-    <!-- special collections/exhibit banner -->
-    <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
-      <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
-      <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
-        <span class="glyphicon glyphicon-star"></span>
-        <strong><%= exhibit_caption %></strong>
-      </a>
+  <!-- special collections/exhibit banner -->
+  <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
+    <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
+    <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
+      <span class="glyphicon glyphicon-star"></span>
+      <strong><%= exhibit_caption %></strong>
+    </a>
+  <% end %>
+  <% if @pbcore.special_collection %>
+    <% coll = SpecialCollection.find_by_path(@pbcore.special_collection) %>
+    <% coll_caption = "This record is featured in “#{coll.title}.”" %>
+    <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
+      <span class="glyphicon glyphicon-star"></span>
+      <strong><%= coll_caption %></strong>
+    </a>
+  <% end %>
+
+
+  <% unless @available_and_playable %>
+
+    <% if (@pbcore.public? && !current_user.usa?) || @pbcore.protected? %>
+      Please note: This content is currently not available at your location. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+    <% elsif @pbcore.private? %>
+      Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+    <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
+      Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+    <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
+      This content has not been digitized. Please contact the contributing organization(s) listed below.
+    <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
+      This content has not been digitized.
     <% end %>
-    <% if @pbcore.special_collection %>
-      <% coll = SpecialCollection.find_by_path(@pbcore.special_collection) %>
-      <% coll_caption = "This record is featured in “#{coll.title}.”" %>
-      <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
-        <span class="glyphicon glyphicon-star"></span>
-        <strong><%= coll_caption %></strong>
-      </a>
-    <% end %>
+  <% end %>
 
-
-    <% unless @available_and_playable %>
-
-      <% if (@pbcore.public? && !current_user.usa?) || @pbcore.protected? %>
-        Please note: This content is currently not available at your location. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
-      <% elsif @pbcore.private? %>
-        Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
-      <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
-        Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
-      <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
-        This content has not been digitized. Please contact the contributing organization(s) listed below.
-      <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
-        This content has not been digitized.
-      <% end %>
-    <% end %>
-
-    <% @pbcore.reference_urls.each do |url| %>
-      <%= link_to 'More information on this record is available.', url %>
-    <% end %>
-
-
+  <% @pbcore.reference_urls.each do |url| %>
+    <%= link_to 'More information on this record is available.', url %>
+  <% end %>
 <% end %>
-
-<%= yield :video %>
