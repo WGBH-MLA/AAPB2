@@ -1,10 +1,9 @@
 <% if @show_transcript %>
-  <div id="transcript-state" style="display: none;" class="hidden <%= @transcript_open ? 'open' : 'closed' %>"></div>
+  <div id="transcript-state" style="display: none;" class="hidden initial <%= @transcript_open ? 'open' : 'closed' %>"></div>
 
   <div class="col-sm-12 col-md-6 transcript-div transcript-view-show">
 
     <dl class="panel transcript-panel">
-
 
       <div class="transcript-panel-heading">
         <dt class="dt-left">Transcript</dt>
@@ -18,7 +17,6 @@
           <span class="transcript-circle">-</span>
         </div>
       </div>
-
 
       <% if @transcript_message %>
         <div style="background-color: #fceab2;" id="transcript-message" class="">

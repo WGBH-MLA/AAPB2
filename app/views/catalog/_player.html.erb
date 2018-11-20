@@ -3,105 +3,102 @@
   <script src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
   <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
-  <%= javascript_include_tag 'transcript' %>
-  <%= javascript_include_tag 'mobile-transcript' %>  <!-- Need VideoJS for our player.js file -->
-  <%= javascript_include_tag 'player' %>
+  <script src="/assets/transcript.js" type="text/javascript"></script>
+  <script src="/assets/mobile-transcript.js" type="text/javascript"></script>
+  <script src="/assets/player.js" type="text/javascript"></script>
 <% end %>
 
-<% content_for :main do %>
+<!-- player or thumbnail or message -->
+<% if @available_and_playable %>
 
-  <!-- player or thumbnail or message -->
-  <% if @available_and_playable %>
-
-    <div class="row">
-      <% if @show_transcript %>
-        <div class="col-sm-12 col-md-6 player">
-      <% else %>
-        <div class="col-sm-12 col-md-8 player col-md-offset-2">
-      <% end %>
-          <section class="videocontent">
-          <%=
-            @pbcore.media_srcs.map do |media_src|
-              media = @pbcore.video? ? 'video' : 'audio'
-              content_tag(media,
-                          controls: true,
-                          "class" => "video-js vjs-default-skin vjs-fluid",
-                          "id" => "player_media",
-                          "aria-label" => "video player",
-                          oncontextmenu: 'return false;',
-                          preload: 'auto',
-                          crossorigin: 'with-credentials',
-                          :"data-setup" => '{}',
-                          poster: @pbcore.img_src) do %>
-
-                <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
-
-                <% if @pbcore.captions_src %>
-                  <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
-                <% end %>
-                <% if ChapterFile.file_present?(@pbcore.id) %>
-                  <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
-                <% end %>
-                <%
-              end
-            end.join().html_safe()
-          %>
-          </section>
-        </div>
-      <div class="hidden-sm hidden-xs">
-        <%= render partial: 'transcript' %>
-      </div>
-    </div>
-
-  <% else %>
-    <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
-    <div style="margin-top: 1em;" class="content-text">
-      <% if @pbcore.outside_url %>
-        <% @pbcore.contributing_organization_objects.each do |org| %>
-          <%= link_to(
-            "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.outside_baseurl}",
-            @pbcore.outside_url,
-            {target: '_blank'}
-          ) %>
-        <% end %>
-      <% end %>
-    </div>
-  <% end %>
-
-  <!-- special collections/exhibit banner -->
-  <% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
-    <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
-    <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
-      <span class="glyphicon glyphicon-star"></span>
-      <strong><%= exhibit_caption %></strong>
-    </a>
-  <% end %>
-  <% if @pbcore.special_collection %>
-    <% coll = SpecialCollection.find_by_path(@pbcore.special_collection) %>
-    <% coll_caption = "This record is featured in “#{coll.title}.”" %>
-    <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
-      <span class="glyphicon glyphicon-star"></span>
-      <strong><%= coll_caption %></strong>
-    </a>
-  <% end %>
-
-
-  <% unless @available_and_playable %>
-
-    <% if (@pbcore.public? && !current_user.usa?) || @pbcore.protected? %>
-      Please note: This content is currently not available at your location. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
-    <% elsif @pbcore.private? %>
-      Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
-    <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
-      Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
-    <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
-      This content has not been digitized. Please contact the contributing organization(s) listed below.
-    <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
-      This content has not been digitized.
+  <div class="row">
+    <% if @show_transcript %>
+      <div class="col-sm-12 col-md-6 player">
+    <% else %>
+      <div class="col-sm-12 col-md-8 player col-md-offset-2">
     <% end %>
-  <% end %>
+        <section class="videocontent">
+        <%=
+          @pbcore.media_srcs.map do |media_src|
+            media = @pbcore.video? ? 'video' : 'audio'
+            content_tag(media,
+                        controls: true,
+                        "class" => "video-js vjs-default-skin vjs-fluid",
+                        "id" => "player_media",
+                        "aria-label" => "video player",
+                        oncontextmenu: 'return false;',
+                        preload: 'auto',
+                        crossorigin: 'with-credentials',
+                        :"data-setup" => '{}',
+                        poster: @pbcore.img_src) do %>
 
-  <% @pbcore.reference_urls.each do |url| %>
-    <%= link_to 'More information on this record is available.', url %>
+              <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+
+              <% if @pbcore.captions_src %>
+                <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+              <% end %>
+              <% if ChapterFile.file_present?(@pbcore.id) %>
+                <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
+              <% end %>
+              <%
+            end
+          end.join().html_safe()
+        %>
+        </section>
+      </div>
+    <div class="hidden-sm hidden-xs">
+      <%= render partial: 'transcript' %>
+    </div>
+  </div>
+
+<% else %>
+  <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
+  <div style="margin-top: 1em;" class="content-text">
+    <% if @pbcore.outside_url %>
+      <% @pbcore.contributing_organization_objects.each do |org| %>
+        <%= link_to(
+          "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.outside_baseurl}",
+          @pbcore.outside_url,
+          {target: '_blank'}
+        ) %>
+      <% end %>
+    <% end %>
+  </div>
+<% end %>
+
+<!-- special collections/exhibit banner -->
+<% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
+  <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
+  <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
+    <span class="glyphicon glyphicon-star"></span>
+    <strong><%= exhibit_caption %></strong>
+  </a>
+<% end %>
+<% if @pbcore.special_collection %>
+  <% coll = SpecialCollection.find_by_path(@pbcore.special_collection) %>
+  <% coll_caption = "This record is featured in “#{coll.title}.”" %>
+  <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
+    <span class="glyphicon glyphicon-star"></span>
+    <strong><%= coll_caption %></strong>
+  </a>
+<% end %>
+
+
+<% unless @available_and_playable %>
+
+  <% if (@pbcore.public? && !current_user.usa?) || @pbcore.protected? %>
+    Please note: This content is currently not available at your location. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+  <% elsif @pbcore.private? %>
+    Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+  <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
+    Please note: This content is not currently available in the Online Reading Room. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+  <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
+    This content has not been digitized. Please contact the contributing organization(s) listed below.
+  <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
+    This content has not been digitized.
   <% end %>
+<% end %>
+
+<% @pbcore.reference_urls.each do |url| %>
+  <%= link_to 'More information on this record is available.', url %>
 <% end %>

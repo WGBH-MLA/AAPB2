@@ -76,7 +76,7 @@ $(document).on('turbolinks:load', function() {
       set_user_scroll(false);
   });
 
-  $(document).on("click", '.play-from-here', function(){
+  $('.play-from-here').unbind('click').on('click', function(){
     var time = parse_timecode($(this).data('timecode'));
     location.hash = '#at_' + time + '_s';
     $player[0].currentTime = time;
@@ -156,21 +156,24 @@ $(document).on('turbolinks:load', function() {
     }
   }
 
-  $('div.transcript-slide').on("click", function(){
+  $('div.transcript-slide').unbind('click').on('click', function(){
     console.log('tried to hide')
     updatePlayerGrid();
     updateTranscriptGrid();
     updateTranscriptButton();
-
   });
 
-  if($('#transcript-state').hasClass('closed')) {
+  // hide player once (thanks turbolinks!)
+  var tstate = $('#transcript-state');
+  if(tstate.hasClass('closed') && tstate.hasClass('initial')) {
+    console.log('did initial')
+    tstate.removeClass('initial');
     updatePlayerGrid()
     updateTranscriptGrid();
     updateTranscriptButton();
   }
 
-  $('#transcript-message-close').on("click", function() {
+  $('#transcript-message-close').unbind('click').on('click', function() {
     console.log('tried to close message')
     $('#transcript-message').slideUp(500);
   });
