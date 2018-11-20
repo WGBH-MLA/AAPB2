@@ -1,7 +1,4 @@
 <% content_for :head do %>
-  <%= javascript_include_tag 'transcript' %>
-  <%= javascript_include_tag 'mobile-transcript' %>
-
   <meta property="og:title" content="<%= @pbcore.title %>" />
   <meta property="og:url" content="http://americanarchive.org/catalog/<%= @pbcore.id %>" />
   <meta property="og:type" content="<%=
@@ -91,7 +88,7 @@
         <a href="<%= @fixit_link %>">
           <div class="row">
             <dt class="col-md-12">
-              
+
               <div style="width: 60%; margin-left: auto; margin-right: auto;">
                 <img style="width: 100%; display: block; text-align: center;" src="https://s3.amazonaws.com/americanarchive.org/org-logos/fixit_logo_lg.png" alt="FIX IT">
               </div>

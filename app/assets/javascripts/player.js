@@ -1,7 +1,5 @@
 // Imported from OpenVault with minor adjustments.
 $(document).on('turbolinks:load', function() {
-
-  // Turbolinks.clearCache();
   console.log("literally anything")
   $('#player_media_html5_api').on('loadeddata', function() {
     console.log('Live at ' + window.location);
