@@ -593,18 +593,8 @@
    <!-- Not used by AAPB -->
    <!--<field name="format" type="string" indexed="true" stored="true"/>-->
 
-   <copyField source="xml" destination="xml_unstemmed" />
-   <field name="xml_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
-
    <copyField source="captions" destination="captions_unstemmed" />
    <field name="captions_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
-
-   <!-- not sure what the content is -->
-   <copyField source="exhibits" destination="exhibits_unstemmed" />
-   <field name="exhibits_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
-
-   <copyField source="special_collection" destination="special_collection_unstemmed" />
-   <field name="special_collection_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
 
    <copyField source="text" destination="text_unstemmed" />
    <field name="text_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
