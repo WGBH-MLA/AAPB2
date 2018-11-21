@@ -477,6 +477,29 @@
                     pattern="0*([0-9]{6,})" replacement="$1" replace="all"/>
         </analyzer>
     </fieldType>
+
+    <!-- unstemmed fieldtype -->
+    <fieldtype name="textNoStem" class="solr.TextField" positionIncrementGap="100">
+      <analyzer type="index">
+        <tokenizer class="solr.WhitespaceTokenizerFactory" />
+        <filter class="schema.UnicodeNormalizationFilterFactory" version="icu4j" composed="false" remove_diacritics="true" remove_modifiers="true" fold="true" />
+
+        <filter class="solr.WordDelimiterFilterFactory" generateWordParts="1" generateNumberParts="1" catenateWords="1" catenateNumbers="1" catenateAll="0" splitOnCaseChange="1" />
+        <filter class="solr.LowerCaseFilterFactory" />
+        <!-- dont double include identical terms -->
+        <filter class="solr.RemoveDuplicatesTokenFilterFactory" />
+      </analyzer>
+      <analyzer type="query">
+        <tokenizer class="solr.WhitespaceTokenizerFactory" />
+        <filter class="schema.UnicodeNormalizationFilterFactory" version="icu4j" composed="false" remove_diacritics="true" remove_modifiers="true" fold="true" />
+
+        <filter class="solr.WordDelimiterFilterFactory" generateWordParts="1" generateNumberParts="1" catenateWords="0" catenateNumbers="0" catenateAll="0" splitOnCaseChange="1" />
+        <filter class="solr.LowerCaseFilterFactory" />
+        <!-- dont double include identical terms -->
+        <filter class="solr.RemoveDuplicatesTokenFilterFactory" />
+      </analyzer>
+    </fieldtype>
+
  </types>
 
 
@@ -569,6 +592,43 @@
    <!-- format is used for facet, display, and choosing which partial to use for the show view, so it must be stored and indexed -->
    <!-- Not used by AAPB -->
    <!--<field name="format" type="string" indexed="true" stored="true"/>-->
+
+   <copyField source="xml" destination="xml_unstemmed" />
+   <field name="xml_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
+
+   <copyField source="captions" destination="captions_unstemmed" />
+   <field name="captions_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
+
+   <!-- not sure what the content is -->
+   <copyField source="exhibits" destination="exhibits_unstemmed" />
+   <field name="exhibits_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+
+   <copyField source="special_collection" destination="special_collection_unstemmed" />
+   <field name="special_collection_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
+
+   <copyField source="text" destination="text_unstemmed" />
+   <field name="text_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+   <!-- Available as search constraints -->
+   <copyField source="titles" destination="titles_unstemmed" />
+   <field name="titles_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+
+   <copyField source="contribs" destination="contribs_unstemmed" />
+   <field name="contribs_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+
+   <copyField source="title" destination="title_unstemmed" />
+   <field name="title_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
+
+   <copyField source="contributing_organizations" destination="contributing_organizations_unstemmed" />
+   <field name="contributing_organizations_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+
+   <copyField source="producing_organizations" destination="producing_organizations_unstemmed" />
+   <field name="producing_organizations_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+
+   <copyField source="genres" destination="genres_unstemmed" />
+   <field name="genres_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+
+   <copyField source="topics" destination="topics_unstemmed" />
+   <field name="topics_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
 
  </fields>
 
