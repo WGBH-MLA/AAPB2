@@ -594,33 +594,33 @@
    <!-- format is used for facet, display, and choosing which partial to use for the show view, so it must be stored and indexed -->
    <!-- Not used by AAPB -->
    <!--<field name="format" type="string" indexed="true" stored="true"/>-->
-
-   <copyField source="captions" destination="captions_unstemmed" />
    <field name="captions_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
+   <copyField source="captions" destination="captions_unstemmed" />
 
-   <copyField source="text" destination="text_unstemmed" />
    <field name="text_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
-   <!-- Available as search constraints -->
-   <copyField source="titles" destination="titles_unstemmed" />
+   <copyField source="text" destination="text_unstemmed" />
+
    <field name="titles_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+   <copyField source="titles" destination="titles_unstemmed" />
 
-   <copyField source="contribs" destination="contribs_unstemmed" />
    <field name="contribs_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+   <copyField source="contribs" destination="contribs_unstemmed" />
 
-   <copyField source="title" destination="title_unstemmed" />
    <field name="title_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="false" />
+   <copyField source="title" destination="title_unstemmed" />
 
-   <copyField source="contributing_organizations" destination="contributing_organizations_unstemmed" />
    <field name="contributing_organizations_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+   <copyField source="contributing_organizations" destination="contributing_organizations_unstemmed" />
 
-   <copyField source="producing_organizations" destination="producing_organizations_unstemmed" />
    <field name="producing_organizations_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+   <copyField source="producing_organizations" destination="producing_organizations_unstemmed" />
 
-   <copyField source="genres" destination="genres_unstemmed" />
    <field name="genres_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+   <copyField source="genres" destination="genres_unstemmed" />
 
-   <copyField source="topics" destination="topics_unstemmed" />
    <field name="topics_unstemmed" type="textNoStem" indexed="true" stored="false" multiValued="true" />
+   <copyField source="topics" destination="topics_unstemmed" />
+
 
  </fields>
 
