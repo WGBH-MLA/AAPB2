@@ -188,18 +188,18 @@ class CatalogController < ApplicationController
 
     # Cleans up user query for manipulation of caption text in the view.
     @query_for_captions = clean_query_for_snippet(params[:q]) if params[:q]
-
-    if !params[:f] || !params[:f][:access_types]
-      base_query = params.except(:action, :controller).to_query
-      access = if current_user.onsite?
-                 PBCore::DIGITIZED_ACCESS
-               else
-                 PBCore::PUBLIC_ACCESS
-               end
-      redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
-    else
+    #
+    # if !params[:f] || !params[:f][:access_types]
+    #   base_query = params.except(:action, :controller).to_query
+    #   access = if current_user.onsite?
+    #              PBCore::DIGITIZED_ACCESS
+    #            else
+    #              PBCore::PUBLIC_ACCESS
+    #            end
+    #   redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
+    # else
       super
-    end
+    # end
 
     # mark results for captions and transcripts
     matched_in_text_field = @document_list.first.response['highlighting'] if @document_list.try(:first)

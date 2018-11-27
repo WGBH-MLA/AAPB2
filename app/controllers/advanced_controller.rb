@@ -23,7 +23,7 @@ class AdvancedController < ApplicationController
         "+titles:\"#{params[:title]}\"",
 
       !params[:exact].empty? &&
-        fieldnames.map.with_index {|fieldname, i| %(#{fieldname}:+"#{params[:exact]}"#{i != (fieldnames.count-1) ? ' OR ' : nil})}.join,
+        fieldnames.map.with_index {|fieldname, i| CGI.escape(%(#{fieldname}:+'#{params[:exact]}'#{i != (fieldnames.count-1) ? ' OR ' : nil}))}.join,
 
       !params[:any].empty? &&
         self.class.prefix(params[:any], '', ' OR '),
