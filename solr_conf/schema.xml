@@ -527,6 +527,7 @@
        when adding a document.
    -->
 
+
    <field name="id"
           type="string" indexed="true" stored="true" required="true" />
    <field name="timestamp"
@@ -588,6 +589,7 @@
           type="string" indexed="true" stored="true" multiValued="false"/>
    <field name="playlist_order"
           type="string" indexed="true" stored="true" multiValued="false"/>
+
 
    <!-- format is used for facet, display, and choosing which partial to use for the show view, so it must be stored and indexed -->
    <!-- Not used by AAPB -->
