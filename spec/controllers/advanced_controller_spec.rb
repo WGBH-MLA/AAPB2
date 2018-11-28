@@ -1,4 +1,5 @@
 require 'rails_helper'
+
 describe AdvancedController do
   describe 'redirection' do
     assertions = [
