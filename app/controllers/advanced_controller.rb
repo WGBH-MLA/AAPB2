@@ -6,16 +6,17 @@ class AdvancedController < ApplicationController
     if params[:exact].empty?
       qoo = "#{query}"
     else
-      qoo = "#{exactquery}"
+      # separate exact clause from rest of query
+      qoo = "#{exactquery} #{query}"
     end
-    # qoo = "q=#{CGI.escape(query)}"
-    # qoo = %(q=+title_unstemmed:"racing")
-    redirect_to "/catalog?q=#{qoo}"
+    redirect_to "/catalog?q=#{CGI.escape(qoo)}"
   end
 
   def exactquery
+    # mandatory OR query for each unstemmed field
     fieldnames = ['captions_unstemmed','text_unstemmed','titles_unstemmed','contribs_unstemmed','title_unstemmed','contributing_organizations_unstemmed','producing_organizations_unstemmed','genres_unstemmed','topics_unstemmed']
-    fieldnames.map.with_index {|fieldname, i| %(+#{fieldname}:"#{params[:exact]}"#{i != (fieldnames.count-1) ? ' OR ' : nil})}.join
+    eq=fieldnames.map.with_index {|fieldname, i| %(#{fieldname}:"#{params[:exact]}"#{i != (fieldnames.count-1) ? ' OR ' : nil})}.join
+    %(+(#{eq}))
   end
 
   def query
