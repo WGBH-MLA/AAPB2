@@ -2,28 +2,29 @@ require 'cgi'
 
 class AdvancedController < ApplicationController
   def create
-    # fqoo = if !params[:exact].empty?
-    #   # "&fq=" + CGI.escape(%((captions_unstemmed:+"#{params[:exact]}" OR text_unstemmed:+"#{params[:exact]}" OR titles_unstemmed:+"#{params[:exact]}" OR contribs_unstemmed:+"#{params[:exact]}" OR title_unstemmed:+"#{params[:exact]}" OR contributing_organizations_unstemmed:+"#{params[:exact]}" OR producing_organizations_unstemmed:+"#{params[:exact]}" OR genres_unstemmed:+"#{params[:exact]}" OR topics_unstemmed:+"#{params[:exact]}")))
-    # else
-    #   ""
-    # end
+
+    if params[:exact].empty?
+      qoo = "#{query}"
+    else
+      qoo = "#{exactquery}"
+    end
     # qoo = "q=#{CGI.escape(query)}"
-    qoo = "q=#{query}"
-    redirect_to "/catalog?#{qoo}"
+    # qoo = %(q=+title_unstemmed:"racing")
+    redirect_to "/catalog?q=#{qoo}"
+  end
+
+  def exactquery
+    fieldnames = ['captions_unstemmed','text_unstemmed','titles_unstemmed','contribs_unstemmed','title_unstemmed','contributing_organizations_unstemmed','producing_organizations_unstemmed','genres_unstemmed','topics_unstemmed']
+    fieldnames.map.with_index {|fieldname, i| %(+#{fieldname}:"#{params[:exact]}"#{i != (fieldnames.count-1) ? ' OR ' : nil})}.join
   end
 
   def query
-    fieldnames = ['captions_unstemmed','text_unstemmed','titles_unstemmed','contribs_unstemmed','title_unstemmed','contributing_organizations_unstemmed','producing_organizations_unstemmed','genres_unstemmed','topics_unstemmed']
-
-    qooqoo = [
+    [
       !params[:all].empty? &&
         self.class.prefix(params[:all], '+'),
 
       !params[:title].empty? &&
         "+titles:\"#{params[:title]}\"",
-
-      !params[:exact].empty? &&
-        fieldnames.map.with_index {|fieldname, i| CGI.escape(%(#{fieldname}:+'#{params[:exact]}'#{i != (fieldnames.count-1) ? ' OR ' : nil}))}.join,
 
       !params[:any].empty? &&
         self.class.prefix(params[:any], '', ' OR '),
@@ -32,8 +33,6 @@ class AdvancedController < ApplicationController
         self.class.prefix(params[:none], '-')
 
     ].select { |clause| clause }.join(' ')
-
-    %((#{qooqoo}))
   end
 
   def self.prefix(terms, prefix, joint = ' ')
