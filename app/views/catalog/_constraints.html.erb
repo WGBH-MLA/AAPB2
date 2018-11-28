@@ -5,9 +5,11 @@
     </div>
     <span class="constraints-label"><%= t('blacklight.search.filters.title') %></span>
 
-    <% #TODO: maybe less crazy? %>
     <% c=render_constraints(params) %>
-    <% z= "!+" + c.scan(/_unstemmed:&quot(.*?&quot)/).flatten.first.chomp(%(&quot)) %>
-    <%= c.include?('_unstemmed') ? c.gsub(/\+\(.*?\)/, z).delete(';').html_safe : c.html_safe %>
+    <% if c.include?('_unstemmed') %>
+      <%= z= "!!" + c.scan(/_unstemmed:&quot(.*?&quot)/).flatten.first.chomp(%(&quot)); c.gsub(/\+\(.*?\)/, z).delete(';').html_safe %>
+    <% else %>
+      <%= c.html_safe %>
+    <% end %>
   </div>
 <% end %>
