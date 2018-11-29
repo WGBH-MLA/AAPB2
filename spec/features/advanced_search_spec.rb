@@ -8,20 +8,18 @@ describe "Advanced Search Integration" do
   end
 
   before(:each) do
-    visit '/advanced'
+    visit "/advanced?f[access_types][]=#{PBCore::ALL_ACCESS}"
   end
 
   it 'can do an exact search' do
 
     fill_in('exact', with: 'Rez')
     find('#advanced-search').click
-
-    require('pry');binding.pry
-    expect some shit
+    # records dont come up as they do when searching from client?
+    expect(page).to have_text("Racing the Rez")
   end
 
   it 'can do a hybrid search' do
-
   end
 
   it 'can do an all these words search' do
