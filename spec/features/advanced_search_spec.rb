@@ -30,7 +30,7 @@ describe 'Advanced Search Integration' do
     expect(page).to have_text('Racing the Rez')
   end
 
-  it 'enforces none of these words searches' do
+  it 'enforces "none of these words" searches' do
     fill_in('all', with: 'rez')
     fill_in('exact', with: 'runners')
     fill_in('any', with: 'vision')
