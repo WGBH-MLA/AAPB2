@@ -6,19 +6,26 @@ class AdvancedController < ApplicationController
   end
 
   def create
-    if params[:exact].empty?
-      qoo = "#{query}"
-    else
+    if params[:exact].present?
       # separate exact clause from rest of query
       qoo = "#{exactquery} #{query}"
     end
-    redirect_to "/catalog?q=#{CGI.escape(qoo)}#{pass_constraints}"
+    redirect_to "/catalog?q=#{CGI.escape(qoo || query)}#{pass_constraints}"
   end
 
   def exactquery
     # mandatory OR query for each unstemmed field
-    fieldnames = ['captions_unstemmed','text_unstemmed','titles_unstemmed','contribs_unstemmed','title_unstemmed','contributing_organizations_unstemmed','producing_organizations_unstemmed','genres_unstemmed','topics_unstemmed']
-    %(+(#{fieldnames.map {|fieldname| %(#{fieldname}:"#{params[:exact]}")}.join(' OR ')}))
+    fieldnames = %w(captions_unstemmed
+                    text_unstemmed
+                    titles_unstemmed
+                    contribs_unstemmed
+                    title_unstemmed
+                    contributing_organizations_unstemmed
+                    producing_organizations_unstemmed
+                    genres_unstemmed
+                    topics_unstemmed
+                  )
+    %(+(#{fieldnames.map { |fieldname| %(#{fieldname}:"#{params[:exact]}") }.join(' OR ')}))
   end
 
   def query
@@ -50,7 +57,6 @@ class AdvancedController < ApplicationController
 
   def pass_constraints
     # TODO: whitelist other parameters that we want to carry through advanced search to cat controller
-    params[:f].map {|k,v| %(&f[#{k}][]=#{v})}.join if params[:f]
+    params[:f].map { |k, v| %(&f[#{k}][]=#{v}) }.join if params[:f]
   end
-
 end
