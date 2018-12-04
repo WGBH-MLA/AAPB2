@@ -1,5 +1,5 @@
 <%= form_tag search_action_url, :method => :get, :class => 'search-query-form clearfix' do %>
-<%= render_hash_as_hidden_fields(params_for_search().except(:q, :search_field, :qt, :page, :utf8)) %>
+  <%= render_hash_as_hidden_fields(params_for_search().except(:q, :search_field, :qt, :page, :utf8)) %>
   <div class="input-group input-group-lg search-group" role="search">
     <!-- Selector removed: they can use advanced search. -->
     <label for="q" class="sr-only"><%= t('blacklight.search.form.q') %></label>

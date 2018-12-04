@@ -2,6 +2,7 @@
 ENV['RAILS_ENV'] ||= 'test'
 require File.expand_path('../../config/environment', __FILE__)
 require 'rspec/rails'
+
 # Add additional requires below this line. Rails is not loaded until this point!
 require_relative 'support/remote_ip_monkey_patch'
 
