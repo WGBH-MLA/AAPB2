@@ -8,7 +8,7 @@ From black-and-white documentaries, carrying demands for school desegregation in
 
 ## Extended
 
-## Author
+## Authors
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
 <a clas="name">Amanda Reichenbach</a>
