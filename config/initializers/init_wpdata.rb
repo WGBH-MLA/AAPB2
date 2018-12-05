@@ -1,0 +1,1 @@
+require 'wp_data'
