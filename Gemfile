@@ -56,14 +56,13 @@ gem 'cmless', '1.0.0'
 
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
-gem 'wordpress-client'
 
 gem 'blacklight', '5.19.2'
 gem 'blacklight-gallery', '0.4.1'
 
 gem 'solrizer'
 gem 'rsolr'
-gem 'jettywrapper', '~> 1.7'
+gem 'jettywrapper'
 
 gem 'blacklight_range_limit'
 

@@ -38,5 +38,3 @@ jetty
 # ignore DS_Store files
 .DS_Store
 *.csv
-
-no thanks
