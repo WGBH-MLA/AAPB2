@@ -14,12 +14,12 @@ The *PBS NewsHour* Collection includes more than 8,000 episodes of *PBS NewsHour
 
 ## Featured
 
-[![Vegetarian Thanksgiving](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-v40js9j21w.jpg)](/catalog/cpb-aacip_507-v40js9j21w)
-[![Carl Sagan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-5m6251g61q.jpg)](/catalog/cpb-aacip_507-5m6251g61q)
-[![Mikhail Gorbachev](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-kh0dv1dd19.jpg)](/catalog/cpb-aacip_507-kh0dv1dd19)
-[![Rap Music](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-bg2h708m29.jpg)](/catalog/cpb-aacip_507-bg2h708m29)
-[![Fidel Castro](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-348gf0nd1k.jpg)](/catalog/cpb-aacip_507-348gf0nd1k)
-[![Steve Jobs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-7m03x8471d.jpg)](/catalog/cpb-aacip_507-7m03x8471d)
+[![Equal Rights Amendment](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-gb1xd0rh4r.jpg)](/catalog/cpb-aacip_507-gb1xd0rh4r)
+[![AIDS Crisis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-154dn40c26.jpg)](/catalog/cpb-aacip_507-154dn40c26)
+[![Challenger Explosion](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-3775t3gk14.jpg)](/catalog/cpb-aacip_507-3775t3gk14)
+[![Library of Congress](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-610vq2ss0n.jpg)](/catalog/cpb-aacip_507-610vq2ss0n)
+[![Information Highway](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-nk3610wp6s.jpg)](/catalog/cpb-aacip_507-nk3610wp6s)
+[![Tomatoes](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-z31ng4hp5t.jpg)](/catalog/cpb-aacip_507-z31ng4hp5t)
 
 ## Resources
 

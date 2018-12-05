@@ -95,7 +95,7 @@ Readers may find more information about applying to be a Reader at the Library o
 
 Though on-site registration is required, pre-registration may occur online, by following this URL: [https://wwws.loc.gov/readerreg/remote/](https://wwws.loc.gov/readerreg/remote/)
 
-Researchers seeking access to the collection on-site may use this system to pre-register for a Library of Congress Reader Identification Card. In order to complete your registration and receive your card, researchers must come to the Library of Congress in person and present a valid form of identification at the Reader Registration Station located in the Madison Building, Room LM 140.
+Researchers seeking access to the collection on-site may use this system to pre-register for a Library of Congress Reader Identification Card. In order to complete your registration and receive your card, researchers must come to the Library of Congress in person and present a valid form of identification at the Reader Registration Station located in the Madison Building, Room LM 133 (in the Newspaper & Current Periodicals Reading Room) or the Jefferson Building, Room LJ 139 (in the Microform and Electronic Resources Center).
 
 #### Maps and Floor Plans:
 To facilitate applying for a card and reaching the reading room, please navigate to this URL: [http://www.loc.gov/visit/maps-and-floor-plans/](http://www.loc.gov/visit/maps-and-floor-plans/)

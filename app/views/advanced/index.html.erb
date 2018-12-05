@@ -15,7 +15,21 @@
     </div>
   <% end %>
 
+  <% if @hidden_constraints %>
+    <% @hidden_constraints.each do |param_name, param_val| %>
+      <% if param_val.is_a? Array %>
+        <% param_val.each do |p| %>
+          <%=  %(<input type="hidden" name="f[#{param_name}][]" value="#{p}">).html_safe %>
+        <% end %>
+      <% else %>
+        <input type="hidden" name="f[<%= param_name %>]" value="<%= param_val %>">
+      <% end %>
+
+    <% end %>
+
+  <% end %>
+
   <div class="form-group">
-    <input type="submit" class="btn btn-primary" value="Search"/>
+    <input id="advanced-search" type="submit" class="btn btn-primary" value="Search"/>
   </div>
 <% end %>

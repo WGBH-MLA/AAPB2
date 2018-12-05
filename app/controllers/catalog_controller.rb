@@ -29,7 +29,6 @@ class CatalogController < ApplicationController
       # enable hit highlighting for 'text' field for transcript/caption hit compilation
       hl: true,
       :"hl.fl" => 'text'
-
     }
 
     # solr path which will be added to solr base url before the other solr params.
