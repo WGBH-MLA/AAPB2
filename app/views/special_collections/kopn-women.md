@@ -14,21 +14,12 @@ KOPN was founded in Columbia, Missouri in 1973, as an alternative to the first l
 
 ## Featured
 
-[Thumbnail Image for Audio Files](https://drive.google.com/open?id=1D44QH6CZk0Q-gbDBkOU-EzycvSaDBRSM "Thumbnail Image for Audio Files")
-
-
-- [Paule Marshall at Columbia College, 1984](/catalog/cpb-aacip/518-m61bk17s29)
-- [Working Class Women](/catalog/cpb-aacip/518-8p5v69968t)
-- [The Crystal Set Feminists](/catalog/cpb-aacip/518-h707w68725)
-- Angela Davis in Columbia
-- Program on Lesbian Separatism
-- Consciousness Across the Void
-- Echoes – Folklore & Folklife in Missouri
-- Strength of Femininity
-
-
-
-
+[![Working Class Women](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-8p5v69968t)
+[![Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-901zc7sp10)
+[![Strength of Femininity](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-3b5w66b115)
+[![Lesbian Separatism](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-z31ng4hz4q)
+[![Consciousness Across the Void](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-9g5gb1zf3x)
+[![Paule Marshall](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_Thumbnail.jpg)](/catalog/cpb-aacip_518-m61bk17s29)
 
 ## Resources
 
