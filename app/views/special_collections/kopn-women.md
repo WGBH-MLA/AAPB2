@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-[KOPN SC title image](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_mainimage.jpg)
+![KOPN](https://s3.amazonaws.com/americanarchive.org/special-collections/KOPN_mainimage.jpg)
 
 ## Summary
 
