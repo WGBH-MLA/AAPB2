@@ -6,12 +6,12 @@ describe 'Homepage' do
   before :all do
     WebMock.stub_request(:get, 'https://public-api.wordpress.com/wp/v2/sites/americanarchivepb.wordpress.com/posts').to_return(body: File.read('spec/data/wpdatamock'))
 
-    WebMock.stub_request(:get, "http://wiki.americanarchive.org/").to_return(status: 200, body: "", headers: {})
-    WebMock.stub_request(:get, "http://fixit.americanarchive.org/?utm_campaign=fixit_from_website&utm_medium=website&utm_source=aapb_fixit_header").to_return(status: 200, body: "", headers: {})
-    WebMock.stub_request(:get, "http://fixit.americanarchive.org/?utm_campaign=help-us_from_website&utm_medium=website&utm_source=aapb_help-us_promo1").to_return(status: 200, body: "", headers: {})
-    WebMock.stub_request(:get, "http://fixitplus.americanarchive.org/?utm_campaign=help-us_from_website&utm_medium=website&utm_source=aapb_help-us_promo2").to_return(status: 200, body: "", headers: {})
-    WebMock.stub_request(:get, "https://www.zooniverse.org/projects/sroosa/roll-the-credits/?utm_campaign=help-us_from_website&utm_medium=website&utm_source=aapb_help-us_promo3").to_return(status: 200, body: "", headers: {})
-     WebMock.stub_request(:get, "https://www.instagram.com/amarchivepub/").to_return(status: 200, body: "", headers: {})
+    WebMock.stub_request(:get, 'http://wiki.americanarchive.org/').to_return(status: 200, body: '', headers: {})
+    WebMock.stub_request(:get, 'http://fixit.americanarchive.org/?utm_campaign=fixit_from_website&utm_medium=website&utm_source=aapb_fixit_header').to_return(status: 200, body: '', headers: {})
+    WebMock.stub_request(:get, 'http://fixit.americanarchive.org/?utm_campaign=help-us_from_website&utm_medium=website&utm_source=aapb_help-us_promo1').to_return(status: 200, body: '', headers: {})
+    WebMock.stub_request(:get, 'http://fixitplus.americanarchive.org/?utm_campaign=help-us_from_website&utm_medium=website&utm_source=aapb_help-us_promo2').to_return(status: 200, body: '', headers: {})
+    WebMock.stub_request(:get, 'https://www.zooniverse.org/projects/sroosa/roll-the-credits/?utm_campaign=help-us_from_website&utm_medium=website&utm_source=aapb_help-us_promo3').to_return(status: 200, body: '', headers: {})
+    WebMock.stub_request(:get, 'https://www.instagram.com/amarchivepub/').to_return(status: 200, body: '', headers: {})
 
     WebMock.enable!
     WebMock.disable_net_connect!(allow_localhost: true)
