@@ -41,6 +41,7 @@ class PBCoreIngester
 
     begin
       xml = Zipper.read(path)
+      xml = convert_non_utf8_characters(xml)
     rescue => e
       record_error(e, path)
       return
@@ -109,6 +110,13 @@ class PBCoreIngester
 
     pbcore
   end
+
+  private
+
+    def convert_non_utf8_characters(str)
+      # Convert vertical tabs to newline + tab
+      str.gsub!("\v", "\n\t")
+    end
 
   class ChainedError < StandardError
     # Sorry, this is more java-ish than ruby-ish,
