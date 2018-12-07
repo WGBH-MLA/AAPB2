@@ -46,6 +46,7 @@ class PBCoreIngester
       record_error(e, path)
       return
     end
+
     @md5s_seen = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.
@@ -115,7 +116,7 @@ class PBCoreIngester
 
     def convert_non_utf8_characters(str)
       # Convert vertical tabs to newline + tab
-      str.gsub!("\v", "\n\t")
+      str.gsub("\v", "\n\t")
     end
 
   class ChainedError < StandardError
