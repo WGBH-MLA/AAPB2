@@ -3,7 +3,8 @@ require 'webmock'
 require_relative '../support/validation_helper'
 
 describe 'Homepage' do
-  before :all do
+  it 'has expected content' do
+    WebMock.enable!
     WebMock.stub_request(:get, 'https://public-api.wordpress.com/wp/v2/sites/americanarchivepb.wordpress.com/posts').to_return(body: File.read('spec/data/wpdatamock'))
 
     WebMock.stub_request(:get, 'http://wiki.americanarchive.org/').to_return(status: 200, body: '', headers: {})
@@ -13,11 +14,7 @@ describe 'Homepage' do
     WebMock.stub_request(:get, 'https://www.zooniverse.org/projects/sroosa/roll-the-credits/?utm_campaign=help-us_from_website&utm_medium=website&utm_source=aapb_help-us_promo3').to_return(status: 200, body: '', headers: {})
     WebMock.stub_request(:get, 'https://www.instagram.com/amarchivepub/').to_return(status: 200, body: '', headers: {})
 
-    WebMock.enable!
     WebMock.disable_net_connect!(allow_localhost: true)
-  end
-
-  it 'has expected content' do
     # WP-client gem must have hard coded reference to STDOUT or STDERR:
     # swapping $stdout and $stderr didn't quiet it.
     visit '/'
