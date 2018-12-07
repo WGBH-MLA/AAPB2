@@ -1,5 +1,6 @@
 require 'rails_helper'
 require 'webmock'
+require ''
 require_relative '../support/validation_helper'
 
 describe 'Homepage' do
@@ -25,5 +26,6 @@ describe 'Homepage' do
     expect(page).to have_text('Discover historic programs')
     expect_fuzzy_xml(allow_default_title: true)
     expect(page).not_to have_css('input_search_q.q')
+    WebMock.disable!
   end
 end
