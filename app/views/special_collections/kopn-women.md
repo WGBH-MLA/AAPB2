@@ -10,7 +10,7 @@ The <em>Feminist Community Radio at KOPN</em> Collection includes 93 audio recor
 
 ## Background
 
-KOPN was founded in Columbia, Missouri in 1973, as an alternative to the first local radio station in town, which the founders of KOPN felt was not responsive enough to the community. Its mission from the beginning was to amplify the voices of marginalized groups in the area, as signified by the call sign they chose: K-OPN, a station open to the community at large. A diverse array of programming has always been a feature of the station, with a particularly strong and continuous history in feminist broadcasting. The inaugural Women's Day radio program took place in 1977, and by the second, in March 1978, it was already becoming an institution. In addition to, and preceding, the annual Women's Day tradition, several weekly programs covered women's issues in politics, health, and society.
+KOPN was founded in Columbia, Missouri in 1973, as an alternative to the first local radio station in town, which the founders of KOPN felt was not responsive enough to the community. Its mission from the beginning was to amplify the voices of marginalized groups in the area, as signified by the call sign they chose: K-OPN, a station open to the community at large. A diverse array of programming has always been a feature of the station, with a particularly strong and continuous history in feminist broadcasting. The inaugural Women's Day radio program took place in 1977, and by the second, in March 1978, it was already becoming an institution. In addition to, and preceding, the annual Women's Day tradition, several weekly programs covered women's issues in politics, health, and society. 
 
 ## Featured
 
