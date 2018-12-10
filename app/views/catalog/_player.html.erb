@@ -86,8 +86,10 @@
 
   <% unless @available_and_playable %>
 
-    <% if (@pbcore.public? && !current_user.usa?) || @pbcore.protected? %>
-      Please note: This content is currently not available at your location. If you are a scholar engaged in research, please <a href="/contact-us">contact us</a> for more information.
+    <% if @pbcore.public? && !current_user.usa? %>
+      Please note: This content is currently not available at your location.
+    <% elsif @pbcore.protected? %>
+      Please note: This content is only available at WGBH and the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
     <% elsif @pbcore.private? %>
       Please note: This content is only available at the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
     <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
