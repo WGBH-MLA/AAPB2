@@ -18,7 +18,6 @@ describe 'Homepage' do
   end
 
   it 'has expected content' do
-
     # WP-client gem must have hard coded reference to STDOUT or STDERR:
     # swapping $stdout and $stderr didn't quiet it.
     visit '/'
