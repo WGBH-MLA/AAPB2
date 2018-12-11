@@ -7,4 +7,4 @@ Rails.application.config.assets.version = '1.0'
 # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
 # Rails.application.config.assets.precompile += %w( search.js )
 
-Rails.application.config.assets.precompile += %w( player.js background-video.js transcript.js mobile-transcript.js )
+Rails.application.config.assets.precompile += %w( background-video.js player.js transcript.js mobile-transcript.js )
