@@ -1,5 +1,13 @@
 // Imported from OpenVault with minor adjustments.
+
+// -document rady for initial t viewer state check
+// -define viewer functions outside of listeners
+// other behavior on
+
+
+
 $(document).on('turbolinks:load', function() {
+
   function parse_timecode(hms) {
       var arr = hms.split(':');
       return parseFloat(arr[2]) +
@@ -71,7 +79,7 @@ $(document).on('turbolinks:load', function() {
       set_user_scroll(false);
   });
 
-  $(document).on("click", '.play-from-here', function(){
+  $('.play-from-here').unbind('click').on('click', function(){
     var time = parse_timecode($(this).data('timecode'));
     location.hash = '#at_' + time + '_s';
     $player[0].currentTime = time;
@@ -135,44 +143,8 @@ $(document).on('turbolinks:load', function() {
     }
   }
 
-    function updateTranscriptButton() {
-      var sliders = document.getElementsByClassName("transcript-slide");
-      for(var i = 0; i < sliders.length; ++i){
-        var slide = sliders[i];
-        if (slide.classList.contains('show-transcript')) {
-          slide.innerHTML = 'Show<div class="transcript-circle">+</div>';
-          slide.classList.remove('show-transcript');
-          search.removeClass('show-transcript-search');
-        } else if (!slide.classList.contains('show-transcript')) {
-          slide.innerHTML = 'Hide<div class="transcript-circle">-</div>';
-          slide.classList.add('show-transcript');
-          search.addClass('show-transcript-search');
-        };
-      }
-    }
-
-    $('div.transcript-slide').on("click", function(){
-      updatePlayerGrid();
-      updateTranscriptGrid();
-      updateTranscriptButton();
-
-    });
-
-    if($('#transcript-state').hasClass('closed')) {
-      updatePlayerGrid()
-      updateTranscriptGrid();
-      updateTranscriptButton();
-    }
-
-    $('#transcript-message-close').on("click", function() {
-      $('#transcript-message').slideUp(500);
-    });
-
-  $('div.transcript-slide').on("click", function(){
-    var sliders = document.getElementsByClassName("transcript-slide")
-    updatePlayerGrid();
-    updateTranscriptGrid();
-
+  function updateTranscriptButton() {
+    var sliders = document.getElementsByClassName("transcript-slide");
     for(var i = 0; i < sliders.length; ++i){
       var slide = sliders[i];
       if (slide.classList.contains('show-transcript')) {
@@ -185,5 +157,24 @@ $(document).on('turbolinks:load', function() {
         search.addClass('show-transcript-search');
       };
     }
+  }
+
+  $('div.transcript-slide').unbind('click').on('click', function(){
+    updatePlayerGrid();
+    updateTranscriptGrid();
+    updateTranscriptButton();
+  });
+
+  // hide player once (thanks turbolinks!)
+  var tstate = $('#transcript-state');
+  if(tstate.hasClass('closed') && tstate.hasClass('initial')) {
+    tstate.removeClass('initial');
+    updatePlayerGrid()
+    updateTranscriptGrid();
+    updateTranscriptButton();
+  }
+
+  $('#transcript-message-close').unbind('click').on('click', function() {
+    $('#transcript-message').slideUp(500);
   });
 });

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js" prefix="og: http://ogp.me/ns#">
-  <!--
+<!--
 
     NOTE: html@prefix is the only thing we've added here for AAPB.
 
@@ -15,7 +15,6 @@
 
     <!-- Internet Explorer use the highest version available -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
     <!--[if IEMobile]>
       <meta http-equiv="cleartype" content="on">
@@ -40,23 +39,25 @@
       #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
       /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-
+    </style>
   </head>
   <body class="<%= render_body_class %>">
-  <%= render :partial => 'shared/header_navbar' %>
 
-  <%= render partial: 'shared/ajax_modal' %>
+    <%= render :partial => 'shared/header_navbar' %>
 
-  <main id="main-container" class="container" role="main">
+    <%= render partial: 'shared/ajax_modal' %>
 
-    <%= render :partial=>'/flash_msg', layout: 'shared/flash_messages' %>
+    <main id="main-container" class="container" role="main">
 
-    <div class="row main-row">
-      <%= yield %>
-    </div>
-  </main>
+      <%= render :partial=>'/flash_msg', layout: 'shared/flash_messages' %>
 
-  <%= render :partial => 'shared/footer' %>
+      <div class="row main-row">
+        <%= yield %>
+      </div>
+    </main>
+
+    <%= render :partial => 'shared/footer' %>
   </body>
+
+  <%= yield :video %>
 </html>
