@@ -5,7 +5,6 @@ class GeoIPCountry
 
   def initialize
     @mmdb = Rails.cache.fetch('maxmind_db')
-    @mmdb = Rails.cache.fetch('maxmind_db')
   end
 
   def country_code(ip)
