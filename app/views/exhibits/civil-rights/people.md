@@ -4,8 +4,7 @@
 
 ## Summary
 
-![Thomas J. O’Halloran, photographer. Alabama State College students speak with a reporter the day of a demonstration against segregation following the arrest of nine student sit-in leaders, Montgomery, Alabama, March 10, 1960. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_People.jpg "Thomas J. O’Halloran, photographer. Alabama State College students speak with a reporter the day of a demonstration against segregation following the arrest of nine student sit-in leaders, Montgomery, Alabama, March 10, 1960. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.")
-Actions described include boycotts, sit-ins, voter registration drives, freedom rides, marches, 
+Actions described include boycotts, sit-ins, voter registration drives, freedom rides, marches,
 and a host of direct action campaigns to confront segregation and discrimination.
 
 ## Extended
@@ -155,12 +154,23 @@ Movement activists include:
 
 - [Tribute to Ella Baker](/catalog/cpb-aacip_28-125q814w5v)
 
-
-## Main
-
 ## Resources
 
 - [Civil Rights Movement Veterans](http://www.crmvet.org/index.htm)
 - [Historical Thinking Matters: Rosa Parks](http://historicalthinkingmatters.org/rosaparks/)
 - [Martin Luther King, Jr. Papers Project](https://kinginstitute.stanford.edu/king-papers/about-papers-project)
 
+## Main
+
+## Cover
+
+  <img title="Cover Image" alt="Black and white photograph" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_People.jpg">
+
+## Gallery
+
+- <a class="type">image</a>
+  <img alt="Black and white photograph" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_People.jpg">
+  <a class="caption-text">Thomas J. O’Halloran, photographer. Alabama State College students speak with a reporter the day of a demonstration against segregation following the arrest of nine student sit-in leaders, Montgomery, Alabama, March 10, 1960.</a>
+  <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
+
+## Records

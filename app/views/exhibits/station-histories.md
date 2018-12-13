@@ -2,17 +2,15 @@
 
 ## Summary
 
-![Early WGBH Control Room](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg "Early WGBH Control Room")
 Every public broadcasting station starts their history with a first broadcast, but these first moments on the air are only the beginning in terms of important milestones in a station’s history. Public broadcasting stations have continued to grow and evolve through out the twentieth and twenty-first centuries, implementing new technologies, building new facilities, and working tirelessly to address the expanding needs of their audiences. Many stations were able to record and preserve these moments, some of which we are fortunate enough to have in the AAPB, and which we want to share with you in this exhibit.
 
 ## Extended
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
-
-### Sadie Roosa
-AAPB Metadata Specialist
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Roosa.jpg"/>
+  <a class="name">Sadie Roosa</a>
+  <a class="title">AAPB Metadata Specialist</a>
 
 ## Resources
 
@@ -36,3 +34,13 @@ Because of their varied histories and communities, each station’s mission is d
 
 Many of the stations participating in the AAPB have well-documented histories available on their websites. (Links to each station’s website can be found in our [Participating Organizations](http://americanarchive.org/participating-orgs) page.) This exhibit is intended to highlight pieces of audiovisual content that serve both as documents about and artifacts of specific station’s histories. Each item in the exhibit has captured a moment in time. We’re lucky that in the midst of producing so much engaging, educational, public-focused, and audience-driven content, these stations also took the time and the pride in their work to document their own histories, so that we can better remember them now.
 
+## Cover
+  <img title="Cover Image" alt="Early WGBH broadcast control room" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg">
+    <a class="caption-text">Early WGBH Broadcast Control Room</a>
+    <a class="credit-link">Courtesy of WGBH</a>
+
+## Records

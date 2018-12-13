@@ -2,17 +2,15 @@
 
 ## Summary
 
-![Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg "Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.")
 "Voices from the Southern Civil Rights Movement" presents educational and noncommercial radio programs from the 1950s and 1960s that offer historic testimonies – in interviews, speeches, and on-the-spot news reports – from many movement participants, both well-known and unknown. National leaders, local leaders, community organizers, students, clergy, lawyers, educators, academics, writers, and even a comedian and a documentary filmmaker relate often riveting stories that document a range of individual and group experiences and perspectives. The exhibit presents accounts from a variety of locales, each a distinct piece of the complex history of the struggle to integrate the segregated South and achieve full citizenship rights for African Americans.
 
 ## Extended
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/>
-
-### Alan Gevinson
-AAPB Project Director, Library of Congress
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/>
+  <a class="name">Alan Gevinson</a>
+  <a class="title">AAPB Project Director, Library of Congress</a>
 
 ## Resources
 
@@ -45,3 +43,15 @@ NAEB began operations in 1934 from a precursor organization that had been formed
 <a name="2"></a><sup>2</sup>Brian Ward, *Radio and the Struggle for Civil Rights in the South* (Gainsville, FL: University Press of Florida, 2004), 132.
 
 <a name="3"></a><sup>3</sup>Jack Gould, “Radio: Aural Picture of Racial Crisis,” *New York Times*, June 10, 1963.
+
+## Cover
+  <img title="Cover Image" alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
+    <a class="caption-text">Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963.</a>
+    <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
+
+
+## Records

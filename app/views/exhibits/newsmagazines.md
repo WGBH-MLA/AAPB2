@@ -4,19 +4,15 @@
 
 ## Summary
 
-![Front Street Weekly news anchors preparing behind the scenes](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg "Front Street Weekly news anchors preparing behind the scenes")
-
 What’s a newsmagazine? Though the term may seem unfamiliar, newsmagazines number among the most successful television and radio programs in recent history. Taking a cue from both commercial and experimental precedents, independent public broadcasting stations began to adopt the format during the 1970s. The newsmagazine has since persisted on public media as an alternative and localized approach to nightly news shows common on mainstream networks and larger public television stations. "Structuring the News: The Magazine Format in Public Media" examines both the content and structure of newsmagazines, and situates the format within the context of how our public broadcasting system has evolved since the Public Broadcasting Act was signed into law in 1967.
 
 ## Extended
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/adeanheadshot.jpg"/>
-
-### Alejandra Dean
-Digital Exhibits Intern, American Archive of Public Broadcasting
-
+- img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/adeanheadshot.jpg"/>
+  <a class="name">Alejandra Dean</a>
+  <a class="title">Digital Exhibits Intern, American Archive of Public Broadcasting</a>
 
 ## Resources
 
@@ -45,3 +41,14 @@ Though previous legislation and regulatory actions beginning in the 1920s recogn
 Noncommercial broadcast content, especially programming shared by PBS and NPR, is often associated with storytelling; *Frontline* and even WNYC’s *Radiolab* profile important issues using long-form narrative strategies, which have become a signature of public media journalism. Newsmagazines, by extension, exist somewhere between documentary storytelling and soft news, fulfilling two public broadcasting missions at once: to keep the public informed of both local and national issues, and to do so in a thoughtful, creative, and engaging way.
 
 #### Next: [Precedents: Newsmagazine Firsts](/exhibits/newsmagazines/precedents)
+
+## Cover
+  <img title="Cover Image" alt="Front Street Weekly news anchors preparing behind the scenes" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg">
+    <a class="caption-text">Front Street Weekly news anchors preparing behind the scenes</a>
+    <a class="credit-link">Courtesy of Oregon Public Broadcasting</a>
+
+## Records
