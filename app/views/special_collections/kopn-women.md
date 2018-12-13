@@ -30,3 +30,4 @@ KOPN was founded in Columbia, Missouri in 1973, as an alternative to the first l
 
 Records are described at an item level, and all processed tapes contain brief descriptions. 
 
+## Funders
