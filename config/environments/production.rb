@@ -47,9 +47,6 @@ Rails.application.configure do
   # Prepend all log lines with the following tags.
   # config.log_tags = [ :subdomain, :uuid ]
 
-  # Use a different logger for distributed setups.
-  # config.logger = ActiveSupport::TaggedLogging.new(SyslogLogger.new)
-
   # Only keep up to 10 log files of ~ 1MB each.
   config.logger = ActiveSupport::Logger.new('aapb-remote-storage/log/production.log', 10, 1.megabytes)
 

@@ -18,9 +18,6 @@
 //= require blacklight/blacklight
 //= require turbolinks
 //= require_tree .
-//= stub player
-//= stub transcript
-//= stub mobile-transcript
 
 // Mark.js and ScrollTo for Transcript Search
 //= require mark.js/jquery.mark.min.js
