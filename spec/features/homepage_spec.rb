@@ -1,6 +1,6 @@
 require 'rails_helper'
 require 'webmock'
-require_relative '../lib/rails_stub'
+require 'wp_data'
 require_relative '../support/validation_helper'
 
 describe 'Homepage' do
