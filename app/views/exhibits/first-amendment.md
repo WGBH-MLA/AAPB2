@@ -1,22 +1,16 @@
 # Speaking and Protesting in America
 
-1
-
 ## Summary
-
-![Anti-Vietnam Protest at Pentagon](https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Cover.jpg "Anti-Vietnam Protest at Pentagon")
 
 “Speaking and Protesting in America,” presents a diverse range of public radio and television content including radio programs, local news, raw footage, and interviews that reveal the profound impact of the First Amendment on American life. Focusing on our right to speak, assemble, and petition, this exhibit explores the role of dissent in American life in its protected and unprotected expressions ranging from peaceful marches to acts of civil disobedience.
 
 ## Extended
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Janowiecki.jpg"/>
-
-### Michelle L. Janowiecki
-Digital Exhibits Intern, American Archive of Public Broadcasting
-
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Janowiecki.jpg"/>
+  <a class="name">Michelle L. Janowiecki</a>
+  <a class"title">Digital Exhibits Intern, American Archive of Public Broadcasting</a>
 
 ## Resources
 
@@ -59,3 +53,13 @@ Protesters and activists have also advocated for change through acts of civil di
 
 The potent combination of civil disobedience and legal protesting employed during the civil rights movement helped black activists achieve positive changes in the struggle for equality and justice. Following the civil rights movement, American activists have continued to employ both lawful protest and nonviolent resistance to advance their causes. This exhibit will provide an overview of protests during the 1960s and 1970s, as well explore protests from 1980 and beyond to show the impact of these political acts on American life.
 
+## Cover
+  <img title="Cover Image" alt="Anti-Vietnam Protest at Pentagon" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Cover.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Cover.jpg">
+    <a class="caption-text">Anti-Vietnam Protest at Pentagon</a>
+
+
+## Records

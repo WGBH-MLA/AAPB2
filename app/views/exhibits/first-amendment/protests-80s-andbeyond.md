@@ -6,8 +6,6 @@
 
 ## Extended
 
-![Earth First! group protests logging in 1990.](https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section3.png "Earth First! group protests logging in 1990.")
-
 While not as ubiquitous as in the decades of the 1960s and 1970s, protesting in the 1980s and beyond has continued to shape American politics and culture. In the 1980s and 1990s, organized protests from the political right—along with counter protests from the left—transformed and polarized political discourse. These decades also saw continued protests in the struggle against racism and discrimination, whether in response to xenophobic sentiment after 9/11 or in the fight over how to represent our past. While new technology has transformed protesting by allowing everyday citizens to digitally capture and share everyday protests and marches, many of the political issues inherited from the 1980s and 1990s, and our right to freely assemble and speak on them, remain as pertinent as ever.
 
 AAPB holds a strong collection of resources showing the protests and rallies undertaken by the Christian Right in the late 1970s and early 1980s to protest the many cultural changes of the previous two decades. While evangelical and conservative organizations had protested against these changes throughout the twentieth century, the 1980s and 1990s saw the growth of widespread political activism by evangelicals and conservatives against the secularization of society, changing sexual and cultural norms, and the legalization of abortion.[<sup>9</sup>](/exhibits/first-amendment/notes#9) After the passage of Roe v. Wade in 1974, conservative activists—arguing that abortions take a human life—began to demonstrate and organize on a national level against abortion access throughout 1980s and 1990s.  Anti-abortion activists, protesting [directly at facilities](/catalog/cpb-aacip_153-375tb6kp) that perform abortions or conducting an annual march in Washington D.C. to protest legalized abortions, often have been met by [counter-protests](/catalog/cpb-aacip_15-mg7fq9qc0p) and continued commitment to easily available abortion access by women on the left.
@@ -57,5 +55,17 @@ In the past two decades, new technology has revolutionized the revolutionaries, 
 
 - [American Agricultural Movement: Tractorcade!](https://southwestcollection.wordpress.com/2014/03/28/american-agricultural-movement-tractorcade/): This blogpost from the Special Colections Library at Texas Tech University provides insight on the push for agricultural reform during the late 1970s and 1980s by exploring the famous Tractorcade into D.C.
 
+## Resources
+
 ## Main
 
+## Cover
+  <img title="Cover Image" alt="Earth First! group protests logging in 1990" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section3.png">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section3.png">
+    <a class="caption-text">Earth First! group protests logging in 1990</a>
+
+
+## Records

@@ -924,15 +924,12 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 </table>
 
 
-
-
-
 #### Next: [Watergate Coverage](/exhibits/watergate/the-watergate-coverage)
 
 ## Main
 
+## Cover
 
+## Gallery
 
-
-
-
+## Records

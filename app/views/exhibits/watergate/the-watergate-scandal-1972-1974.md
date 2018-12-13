@@ -126,3 +126,9 @@ Watergate was a crucial inflection point in American political history that rema
 #### Next: [Watergate and Public Broadcasting](/exhibits/watergate/watergate-and-public-broadcasting)
 
 ## Main
+
+## Cover
+
+## Gallery
+
+## Records
