@@ -45,18 +45,19 @@
           end.join().html_safe()
         %>
         </section>
+
+        <div class="row">
+          <div class="col-md-12">
+            <button id="skip-back" class="skip-button">Rewind 10 Seconds</button>
+            <button id="skip-forward" class="skip-button">Forward 10 Seconds</button>
+          </div>
+        </div>
       </div>
     <div class="hidden-sm hidden-xs">
       <%= render partial: 'transcript' %>
     </div>
   </div>
 
-  <div class="row">
-    <div class="col-md-12">
-      <button id="skip-back" class="skip-button">Rewind 10 Seconds</button>
-      <button id="skip-forward" class="skip-button">Forward 10 Seconds</button>
-    </div>
-  </div>
 
 <% else %>
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
