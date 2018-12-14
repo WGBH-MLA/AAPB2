@@ -1,11 +1,10 @@
-
 <% if gallery_info.present? %>
 
   <div id="exgal-popup-container" class="modal" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document" style="width: 90%;">
       <div class="modal-content">
-        
-        <div id="exgal-popup" class="exgal-modal-height">  
+
+        <div id="exgal-popup" class="exgal-modal-height">
           <!-- here goeth thee modal sliides -->
         </div>
 
@@ -59,7 +58,7 @@
           <div class="exgal-<%= i+1 %> exgal-popups exgals <%= i != 0 ? 'hide' : '' %>">
 
             <div class="row exgal-modal-height">
-              
+
               <div style="position: relative;" id="exgal-modal-leftpane" class="col-sm-8 col-md-8 col-lg-8 col-xs-12">
 
                 <%= render(partial: 'exhibits/gallery_player',
@@ -75,7 +74,7 @@
 
                 <div class="exgal-modal-caption">
                   <%= gal[:caption] %>
-                </div> 
+                </div>
 
                 <h4 class="exgal-modal-source exgal-title <%= @exhibit_color %> exgal-font italic"><%= gal[:source_text] %></h4>
               </div>
@@ -86,7 +85,7 @@
           <!-- each gallery item container -->
           <div class="exgal-<%= i+1 %> exgals <%= i != 0 ? 'hide' : '' %>">
             <div class="row">
-        
+
               <div class="col-md-12">
 
                 <div class="four-three-box">
@@ -109,7 +108,7 @@
 
                   <div class="exgal-caption">
                     <%= gal[:caption] %>
-                  </div> 
+                  </div>
 
                   <% if gal[:credit_url] %>
                     <a href="<%= gal[:credit_url] %>">
@@ -118,7 +117,7 @@
                   <% else %>
                     <h4 class="exgal-source exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin"><%= gal[:source_text] %></h4>
                   <% end %>
-                  
+
                 </div>
               </div>
 
@@ -128,7 +127,7 @@
         <% end %>
 
         <div class="row">
-          
+
           <div class="col-md-12">
 
             <div class="exgal-nav exgal-nav-font" style="float:right;">
@@ -161,7 +160,7 @@
 
 
   <script type="text/javascript">
-    
+
     $(document).ready(function() {
 
       // handle gallery buttons
@@ -172,7 +171,7 @@
         var current_item = parseFloat(main.attr("data-current-item"));
 
         if($(this).hasClass('exgal-forward')) {
-          
+
           var next_item = current_item + 1;
 
           if(next_item == total_items+1){
@@ -206,8 +205,7 @@
       });
 
       // move modal gallery slides into modal
-      $('#exgal-popup').prepend( $('.exgal-popups') ); 
-      $('#exgal-popup-container').modal('show')
+      $('#exgal-popup').prepend( $('.exgal-popups') );
 
       // nav with keyboard
       $(document).keydown(function(e) {
@@ -235,5 +233,4 @@
       });
     });
   </script>
-
 <% end %>

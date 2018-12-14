@@ -9,8 +9,8 @@
 ## Authors
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Janowiecki.jpg"/>
-  <a class="name">Michelle L. Janowiecki</a>
-  <a class"title">Digital Exhibits Intern, American Archive of Public Broadcasting</a>
+  <a class="name">Michelle L Janowiecki</a>
+  <a class="title">Digital Exhibits Intern American Archive of Public Broadcasting</a>
 
 ## Resources
 
@@ -60,6 +60,7 @@ The potent combination of civil disobedience and legal protesting employed durin
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Cover.jpg">
     <a class="caption-text">Anti-Vietnam Protest at Pentagon</a>
-
+    <a class="credit-link"></a>
 
 ## Records
+
