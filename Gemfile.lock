@@ -121,7 +121,6 @@ GEM
     execjs (2.7.0)
     fastimage (2.1.5)
     ffi (1.9.25)
-    geoip (1.6.4)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     hashdiff (0.3.7)
@@ -167,6 +166,7 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.7.1)
       mini_mime (>= 0.1.1)
+    maxminddb (0.1.22)
     method_source (0.8.2)
     mini_mime (1.0.1)
     mini_portile2 (2.3.0)
@@ -336,7 +336,6 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   curb
   fastimage
-  geoip
   htmlentities (~> 4.3.2)
   jbuilder (~> 2.0)
   jettywrapper
@@ -345,6 +344,7 @@ DEPENDENCIES
   jquery-ui-rails
   launchy
   libv8 (~> 3.16.14.13)
+  maxminddb
   nokogiri (~> 1.8.4)
   passenger
   pry
