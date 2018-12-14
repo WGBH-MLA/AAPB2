@@ -1,11 +1,5 @@
 // Imported from OpenVault with minor adjustments.
 
-// -document rady for initial t viewer state check
-// -define viewer functions outside of listeners
-// other behavior on
-
-
-
 $(document).on('turbolinks:load', function() {
 
   function parse_timecode(hms) {
@@ -45,6 +39,25 @@ $(document).on('turbolinks:load', function() {
   function is_user_scroll() {
       return $player.data('user-scroll');
   }
+
+  function skipPlayer(forward) {
+    var now = player.currentTime();
+    if(forward){
+      player.currentTime(now+10);
+
+    } else {
+      player.currentTime(now-10);
+    }
+  }
+
+  $('button#skip-back').click(function() {
+    skipPlayer(false);
+  });
+
+  $('button#skip-forward').click(function() {
+    skipPlayer(true);
+  });
+
 
   $player.on('timeupdate', function(){
       var current = $player[0].currentTime;
@@ -89,6 +102,31 @@ $(document).on('turbolinks:load', function() {
 
   $transcript.contents().scroll(function(){
       set_user_scroll(true);
+  });
+
+  function skipPlayer(forward) {
+    var now = player.currentTime();
+    if(forward){
+      player.currentTime(now+10);
+    } else {
+      player.currentTime(now-10);
+    }
+  }
+
+  $(document).keypress(function(e) {
+    if(e.keyCode == 37) {
+      $('button#skip-back').trigger('click');
+    } else if (e.keyCode == 39) {
+      $('button#skip-forward').trigger('click');
+    }
+  });
+
+  $('button#skip-back').click(function() {
+    skipPlayer(false);
+  });
+
+  $('button#skip-forward').click(function() {
+    skipPlayer(true);
   });
 
   var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);

@@ -6,7 +6,6 @@
   <%= javascript_include_tag 'transcript', 'data-turbolinks-track': 'false' %>
   <%= javascript_include_tag 'mobile-transcript', 'data-turbolinks-track': 'false' %>
   <%= javascript_include_tag 'player', 'data-turbolinks-track': 'false' %>
-
 <% end %>
 
 <!-- player or thumbnail or message -->
@@ -46,11 +45,19 @@
           end.join().html_safe()
         %>
         </section>
+
+        <div class="row">
+          <div class="col-md-12">
+            <button id="skip-back" class="skip-button">◀◀ 10s</button>
+            <button id="skip-forward" class="skip-button">10s ▶▶</button>
+          </div>
+        </div>
       </div>
     <div class="hidden-sm hidden-xs">
       <%= render partial: 'transcript' %>
     </div>
   </div>
+
 
 <% else %>
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
