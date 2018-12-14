@@ -73,11 +73,11 @@ Local public television stations also took opportunities to present extended spe
 ### Conclusion
 In New Jersey, [*Classroom Close-up*](http://classroomcloseup.org/), a program started in 1994, still airs half-hour specials every Sunday on the state’s public schools. Across the country, local stations like New Jersey Network continue to educate their viewers on how national education initiatives and discourses affect their local communities. To complement these views, programs distributed throughout the public television system like the [*PBS NewsHour*](https://www.pbs.org/newshour/), [*Frontline*](https://www.pbs.org/wgbh/frontline/), and [*POV*](http://www.pbs.org/pov/) provide national perspectives on topics such as for-profit universities, dropout rates, inner-city educational challenges, and prison schools. At their best, both public schools and public broadcasting engage and support local communities, becoming a source of pride to their regions. By providing thoughtful, in-depth coverage of public education, public television stations bolster the notion of democratic citizenship central to the mission of these public institutions.
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
-<a clas="name">Amanda Reichenbach</a>
-<a class="title">John W. Kluge Center Intern, Library of Congress</a>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
+  <a clas="name">Amanda Reichenbach</a>
+  <a class="title">John W. Kluge Center Intern, Library of Congress</a>
 
 ## Resources
 
@@ -93,7 +93,8 @@ In New Jersey, [*Classroom Close-up*](http://classroomcloseup.org/), a program s
 
 ## Cover
 
-![Chancellor Joel Klein in *A Year of Change*](https://s3.amazonaws.com/americanarchive.org/exhibits/YearofChange.JPG "Chancellor Joel Klein in A Year of Change")
+<img title="Cover Image" alt="Chancellor Joel Klein in A Year of Change" src="https://s3.amazonaws.com/americanarchive.org/exhibits/YearofChange.JPG">
+
 
 ## Gallery
 
@@ -115,10 +116,11 @@ In New Jersey, [*Classroom Close-up*](http://classroomcloseup.org/), a program s
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0">School Days (1999); WXXI Public Broadcasting</a>
   <a class="caption0text">Image from School Days (1999), a documentary about education from WXXI Public Broadcasting.</a>
-<img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG">
+s<img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG">
   
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=We+the+People">We the People; WXXI Public Broadcasting</a>
-  <a class="caption0text">Jerry Huffman and Susan Simon host town hall debate for We the People" alt="Jerry Huffman and Susan Simon host town hall debate for We the People."</a> <img title="We the People; WXXI Public Broadcasting" alt="We the People; WXXI Public Broadcasting" src="https://s3.amazonaws.com/americanarchive.org/exhibits/WethePeople.JPG">
+  <a class="caption0text">Jerry Huffman and Susan Simon host town hall debate for We the People" alt="Jerry Huffman and Susan Simon host town hall debate for We the People."</a> 
+  <img title="We the People; WXXI Public Broadcasting" alt="We the People; WXXI Public Broadcasting" src="https://s3.amazonaws.com/americanarchive.org/exhibits/WethePeople.JPG">
 
 ## Records
