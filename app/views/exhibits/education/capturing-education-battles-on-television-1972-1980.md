@@ -75,11 +75,11 @@ One of the few nightly newsmagazines on public television, [*New Jersey Nightly 
 #### Conclusion
 Over the course of the 1970s, faith in the power of American education to become a “passport from poverty,” as Lyndon Johnson famously proclaimed, was waning.[<sup>54</sup>](/exhibits/education/notes#54)  By the end of the decade, hope and anger about the potentials and risks of mandated integration had shifted toward concern about the quality of education in general. As public affairs shows gained traction on public television, many turned their eye to this problem in the last years of the decade. In the 1980s, this type of coverage would only increase.
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
-<a clas="name">Amanda Reichenbach</a>
-<a class="title">John W. Kluge Center Intern, Library of Congress</a>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
+  <a clas="name">Amanda Reichenbach</a>
+  <a class="title">John W. Kluge Center Intern, Library of Congress</a>
 
 ## Resources
 
@@ -94,7 +94,7 @@ Over the course of the 1970s, faith in the power of American education to become
 #### Next: [Covering Education in the 1980s](/exhibits/education/covering-education-in-the-reagan-years-1981-1989.md)
 
 ## Cover
-![Pat Bonner-Lyons on *Say Brother*](https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG "Pat Bonner-Lyons on Say Brother")
+<img title="Cover Image" alt="Pat Bonner-Lyons on Say Brothert" src="https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG">
 
 ## Gallery
 
