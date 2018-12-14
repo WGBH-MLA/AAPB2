@@ -130,7 +130,7 @@ class Exhibit < Cmless
       end
     end
   end
-  
+
   def records
     @records ||=
     begin
@@ -143,7 +143,7 @@ class Exhibit < Cmless
     begin
 
       Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
- 
+
         type = gallery_item.css('a.type').first.text
         credit_link = gallery_item.css('a.credit-link').first
         caption = gallery_item.css('a.caption-text').first
