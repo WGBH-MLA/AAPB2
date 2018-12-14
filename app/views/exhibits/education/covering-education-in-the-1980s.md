@@ -67,11 +67,11 @@ During this time, WGBH began producing the investigative documentary series [*Fr
 ### Conclusion
 While a few of these programs fit the mold of the “at-risk youth” headline story, the majority did not. Many local stories attempted to show what was going well in an area’s public schools. Those programs that revealed problems in the system did so not to shock, but to attempt to build community investment to fix local public institutions. Some of these programs, including *Idaho Reports* and *Iowa Press*, continue to this day. After his stint on *MacNeil/Lehrer*, John Merrow continued to set the standard for education reporting as he went on to produce stand-alone programs for public television, collectively called “The Merrow Reports.” 
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
-<a clas="name">Amanda Reichenbach</a>
-<a class="title">John W. Kluge Center Intern, Library of Congress</a>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
+  <a clas="name">Amanda Reichenbach</a>
+  <a class="title">John W. Kluge Center Intern, Library of Congress</a>
 
 ## Resources
 
@@ -86,7 +86,7 @@ While a few of these programs fit the mold of the “at-risk youth” headline s
 #### Next: [National Education Reforms on Local Television, 1990-Today](/exhibits/education/national-education-reforms-on-Local-television-1990-Today)
 
 ## Cover
-![*Their School? Your School!*](https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG "Their School? Your School!")
+<img title="Cover Image" alt="Their School? Your School!" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">
 
 ## Gallery
 
@@ -108,6 +108,6 @@ While a few of these programs fit the mold of the “at-risk youth” headline s
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-99z90b99">From Busing to Books: A Portrait of South Boston High School (WGBH)</a>
   <a class="caption-text">Students leave South Boston High School in WGBH's From Busing to Books: A Portrait of South Boston High School (1984)."</a> 
- <img title="From Busing to Books: A Portrait of South Boston High School (WGBH)" alt="From Busing to Books: A Portrait of South Boston High School (WGBH)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/BusingtoBooks.JPG">
+  <img title="From Busing to Books: A Portrait of South Boston High School (WGBH)" alt="From Busing to Books: A Portrait of South Boston High School (WGBH)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/BusingtoBooks.JPG">
 
 ## Records
