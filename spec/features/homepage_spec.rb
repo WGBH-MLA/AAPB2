@@ -1,6 +1,5 @@
 require 'rails_helper'
 require 'webmock'
-require 'wp_data'
 require_relative '../support/validation_helper'
 
 describe 'Homepage' do
