@@ -78,6 +78,6 @@ Growing disillusionment with urban renewal’s modernist urban planning can be s
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/bostonurbanrenewal_sm.png">
     <a class="caption-text">Boston Redevelopment Authority photographs, Collection # 4010.001, City of Boston Archives, Boston.</a>
-    <a class="credit-link" href="">Courtesy of the City of Boston Archives</a>
+    <a class="credit-link" href="https://www.boston.gov/departments/archives-and-records-management">Courtesy of the City of Boston Archives</a>
 
 ## Records

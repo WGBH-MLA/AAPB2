@@ -57,6 +57,6 @@ If there’s one thread that weaves these narrative strands together, it’s PBS
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
     <a class="caption-text">The 51st State, 1974</a>
-    <a class="credit-link">Courtesy of Thirteen WNET</a>
+    <a class="credit-link" href>Courtesy of Thirteen WNET</a>
 
 ## Records
