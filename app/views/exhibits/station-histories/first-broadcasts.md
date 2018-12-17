@@ -19,7 +19,7 @@ The first time a station goes on the air, they have no idea who's listening or w
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image4.jpg">
     <a class="caption-text">Children listening to radio at home</a>
-    <a class="credit-link"></a>
+    <a class="credit-link" href="http://www.fdrlibrary.marist.edu/archives/collections/photographs.html">Public domain image courtesy of Franklin D. Roosevelt Presidential Library and Museum</a>
 
 ## Records
 
