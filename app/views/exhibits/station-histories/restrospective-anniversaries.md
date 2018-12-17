@@ -19,7 +19,7 @@ Birthdays and anniversaries are natural occasions on which to look back at how y
   - <a class="type">image</a>
     <img alt="" src="hhttps://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image2.jpg">
     <a class="caption-text">Anniversary Specials</a>
-    <a class="credit-link"></a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_245-214mwb7d">Courtesy of Maine Public Broadcasting Network</a>
 
 ## Records
 

@@ -21,7 +21,7 @@ Much as communities come together to celebrate achievements, they also come toge
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image1.jpg">
     <a class="caption-text">Dedication of New Facilities</a>
-    <a class="credit-link"></a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_189-56n0319k">WXXI Public Broadcasting</a>
 
 
 ![Dedicating New Facilities](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image1.jpg "Dedicating New Facilities")

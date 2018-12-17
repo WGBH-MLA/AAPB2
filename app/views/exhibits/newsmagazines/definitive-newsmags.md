@@ -91,7 +91,7 @@ The newsmagazines in the AAPB embody these principles and challenge the critique
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg">
     <a class="caption-text">The Wisconsin Magazine, 1987</a>
-    <a class="credit-link">Courtesy of Wisconsin Public Television</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_394-67jq2kng">Courtesy of Maryland Public Television</a>
 
 ## Records
 

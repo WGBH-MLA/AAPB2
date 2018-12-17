@@ -41,6 +41,6 @@ Many of the stations participating in the AAPB have well-documented histories av
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg">
     <a class="caption-text">Early WGBH Broadcast Control Room</a>
-    <a class="credit-link">Courtesy of WGBH</a>
+    <a class="credit-link" href="https://www.wgbh.org/">Courtesy of WGBH</a>
 
 ## Records

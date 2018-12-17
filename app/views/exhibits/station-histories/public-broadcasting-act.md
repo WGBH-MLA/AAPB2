@@ -17,7 +17,7 @@ The Public Broadcasting Act of 1967 marked a significant moment in the history o
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image3.jpg">
     <a class="caption-text">Lyndon B. Johnson signing the Public Broadcasting Act</a>
-    <a class="credit-link"></a>
+    <a class="credit-link" href="http://www.lbjlibrary.org/">Public domain image courtesy of LBJ Presidential Library</a>
 
 ## Records
 

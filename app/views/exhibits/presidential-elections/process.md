@@ -67,6 +67,6 @@ Over the past 60 years, public media stations have developed programming intende
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Process.jpg">
     <a class="caption-text">From The Advocates: Should the Federal Government subsidize political campaigns and limit individual contributions?</a>
-    <a class="credit-link">Courtesy of WGBH</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-fq9q23r539">Courtesy of WGBH Educational Foundation</a>
 
 ## Records
