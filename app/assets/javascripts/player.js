@@ -57,18 +57,19 @@ $(document).on('turbolinks:load', function() {
     skipPlayer(true);
   });
 
-
   $player.on('timeupdate', function(){
       var current = $player[0].currentTime;
       var key = greatest_less_than_or_equal_to(current);
       var $line = lines[key];
       var class_name = 'current';
-      if (!$line.hasClass(class_name)) {
+      if ($line && !$line.hasClass(class_name)) {
           $transcript.contents().find('[data-timecodebegin]').removeClass(class_name);
           $line.addClass(class_name);
       };
       if (!is_user_scroll()) {
-          $('iframe').contents().scrollTop($line.position().top-30);
+          if($line){
+            $('iframe').contents().scrollTop($line.position().top-30);
+          }
           // "-30" to get the speaker's name at the top;
           // ... but when a single monologue is broken into
           // parts this doesn't look as good: we get a line
@@ -140,7 +141,11 @@ $(document).on('turbolinks:load', function() {
   var $divTranscript = $('div.transcript-div');
   var $divPlayer = $('div.player');
   var $divExhibitPromo = $('div.exhibit-promo');
-  var player = videojs('#player_media_html5_api');
+
+  if($('#player_media').length != 0){
+    var player = videojs('#player_media');
+  }
+
   var exhibit = $('#exhibit-banner');
   var search = $('div.transcript-search');
   var searchInput = $('.transcript-search-input')
