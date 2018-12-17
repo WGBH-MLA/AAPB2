@@ -129,6 +129,6 @@ In addition to NPACT's coverage of the Senate Watergate hearings, AAPB has recor
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/House-hearing-room.jpg">
     <a class="caption-text">U.S. House of Representatives Hearing Room</a>
-    <a class="credit-link"></a>
+    <a class="credit-link" href="http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=1973+Watergate+Hearings&f[access_types][]=digitized">Courtesy of WETA and the Library of Congress</a>
 
 ## Records
