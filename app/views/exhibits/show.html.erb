@@ -10,7 +10,7 @@
     
     <% end %>
     
-    <li><%= @exhibit.top_title %></li>
+    <li><%= @exhibit.title %></li>
   </ol>
 
   <div class="row" style="margin-bottom: 4%;">
@@ -159,31 +159,36 @@
       </div>
       
       <div class="row" style="margin-left: 0;">
-        <% res = @exhibit.resources; left, right = res.each_slice( (res.size/2.0).round ).to_a %>
-        <div class="col-md-6">
-          <% left.each do |r| %>
+        <% res = @exhibit.resources; left, right = res.each_slice( (res.size/2.0).round ).to_a if res.count > 0 %>
 
-            <div class="" style="margin-bottom: 4%;">
-              <a class="exhibit-color resource-link" href="<%= r[1] %>">
-                <img src="/assets/external_link.png" class="icon-size">
-                <%= r[0] %>
-                  
-              </a>
-            </div>
-          <% end %>
-        </div>
-        <div class="col-md-6">
-          <% right.each do |r| %>
+        <% if left %>
+          <div class="col-md-6">
+            <% left.each do |r| %>
 
-            <div class="" style="margin-bottom: 4%;">
-              <a class="exhibit-color resource-link" href="<%= r[1] %>">
-                <img src="/assets/external_link.png" class="icon-size">
-                <%= r[0] %>
-                  
-              </a>
-            </div>
-          <% end %>
-        </div>
+              <div class="" style="margin-bottom: 4%;">
+                <a class="exhibit-color resource-link" href="<%= r[1] %>">
+                  <img src="/assets/external_link.png" class="icon-size">
+                  <%= r[0] %>
+                    
+                </a>
+              </div>
+            <% end %>
+          </div>
+        <% end %>
+        <% if right %>
+          <div class="col-md-6">
+            <% right.each do |r| %>
+
+              <div class="" style="margin-bottom: 4%;">
+                <a class="exhibit-color resource-link" href="<%= r[1] %>">
+                  <img src="/assets/external_link.png" class="icon-size">
+                  <%= r[0] %>
+                    
+                </a>
+              </div>
+            <% end %>
+          </div>
+        <% end %>
       </div>
 
     </div>

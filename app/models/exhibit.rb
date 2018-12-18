@@ -147,6 +147,12 @@ class Exhibit < Cmless
         type = gallery_item.css('a.type').first.text
         credit_link = gallery_item.css('a.credit-link').first
         caption = gallery_item.css('a.caption-text').first
+        
+
+        asset_link = gallery_item.css('a.asset-url').first
+        if asset_link && asset_link.text
+          asset_url = asset_link.text
+        end
 
         media_info = if type == 'audio' || type == 'video' || type == 'iframe'
 
@@ -162,9 +168,9 @@ class Exhibit < Cmless
           credit_url: credit_link['href'],
           source_text: credit_link.text,
           caption: caption.text,
-          media_info: media_info
+          media_info: media_info,
+          asset_url: asset_url
         }
-
       end
     end
   end
@@ -172,7 +178,7 @@ class Exhibit < Cmless
   def cover
     section_uri = %(/exhibits/#{path})
 
-    if section_uri.end_with?('notes')
+    if section_uri.end_with?('resources')
       # learning goals nnooootes
       %(<a href="#{section_uri}"><div class="exhibit-notes">
         <div class="#{is_subsection? ? 'exhibit-color-section' : 'exhibit-color'}">Resource:</div>
@@ -181,7 +187,7 @@ class Exhibit < Cmless
           Learning Goals
         </div>
       </div></a>)
-    elsif section_uri.end_with?('resources')
+    elsif section_uri.end_with?('notes')
       # reeeeses notes
       %(<a href="#{section_uri}"><div class="exhibit-notes">
         <div class="#{is_subsection? ? 'exhibit-color-section' : 'exhibit-color'}">Resource:</div>
