@@ -109,7 +109,7 @@ While NET did not succeed in convincing all the local stations of the wisdom of 
 ## Authors
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
-  <a clas="name">Amanda Reichenbach</a>
+  <a class="name">Amanda Reichenbach</a>
   <a class="title">John W. Kluge Center Intern, Library of Congress</a>
 
 ## Resources
