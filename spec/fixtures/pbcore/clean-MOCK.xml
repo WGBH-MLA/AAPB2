@@ -69,4 +69,5 @@
   <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='Outside URL'>http://www.wgbh.org/</pbcoreAnnotation>
   <pbcoreAnnotation annotationType='External Reference URL'>http://www.wgbh.org/</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Transcript URL'>notarealurl</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

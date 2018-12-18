@@ -5,3 +5,4 @@ AllCops:
   Exclude:
     - 'db/**/*.rb'
     - 'vendor/**/*'
+    - 'lib/wp_data.rb'
