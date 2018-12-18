@@ -18,7 +18,7 @@
       <% sortedlinks.first.each do |name,link,subs=nil| %>
 
         <li class="item" value="<%= link %>" class="<%= current_page(link)  %>">
-          <%= link ? link_to(name, link, class: %(exhibit-color)) : content_tag('a', name)%>
+          <%= link ? link_to(name, link, class: %(exhibit-color left-justify)) : content_tag('a', name)%>
           <%# <a> in either case for consistent style. %>
         </li>
 
