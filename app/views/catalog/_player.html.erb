@@ -1,11 +1,17 @@
 <% content_for :video do %>
   <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
-  <script src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
+  <script data-turbolinks-tracks="false" src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
-  <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
-  <%= javascript_include_tag 'transcript', 'data-turbolinks-track': 'false' %>
-  <%= javascript_include_tag 'mobile-transcript', 'data-turbolinks-track': 'false' %>
-  <%= javascript_include_tag 'player', 'data-turbolinks-track': 'false' %>
+  <script data-turbolinks-tracks="false" src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
+  <%= javascript_include_tag 'transcript' %>
+  <%= javascript_include_tag 'mobile-transcript' %>
+  <%= javascript_include_tag 'player' %>
+<% end %>
+
+
+<% content_for :head do %>
+  <!-- without this, record page will fail to *initially* load/execute player.js -->
+  <meta name="turbolinks-visit-control" content="reload">
 <% end %>
 
 <!-- player or thumbnail or message -->
@@ -108,5 +114,3 @@
 <% @pbcore.reference_urls.each do |url| %>
   <%= link_to 'More information on this record is available.', url %>
 <% end %>
-
-<%= yield :video %>
