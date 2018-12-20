@@ -115,12 +115,12 @@ In New Jersey, [*Classroom Close-up*](http://classroomcloseup.org/), a program s
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0">School Days (1999); WXXI Public Broadcasting</a>
-  <a class="caption0text">Image from School Days (1999), a documentary about education from WXXI Public Broadcasting.</a>
+  <a class="caption-text">Image from School Days (1999), a documentary about education from WXXI Public Broadcasting.</a>
 s<img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG">
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=We+the+People">We the People; WXXI Public Broadcasting</a>
-  <a class="caption0text">Jerry Huffman and Susan Simon host town hall debate for We the People" alt="Jerry Huffman and Susan Simon host town hall debate for We the People."</a>
+  <a class="caption-text">Jerry Huffman and Susan Simon host town hall debate for We the People" alt="Jerry Huffman and Susan Simon host town hall debate for We the People."</a>
   <img title="We the People; WXXI Public Broadcasting" alt="We the People; WXXI Public Broadcasting" src="https://s3.amazonaws.com/americanarchive.org/exhibits/WethePeople.JPG">
 
 ## Records
