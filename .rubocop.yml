@@ -5,3 +5,6 @@ AllCops:
   Exclude:
     - 'db/**/*.rb'
     - 'vendor/**/*'
+
+Metrics/ClassLength:
+  Enabled: false
