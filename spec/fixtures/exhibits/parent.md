@@ -9,10 +9,6 @@ Summary goes here.
 
 This section won't show up on search results.
 
-## Author
-
-Author goes here.
-
 ## Resources
 
 - [LoC](http://loc.gov)
