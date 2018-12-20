@@ -90,9 +90,20 @@ The newsmagazines in the AAPB embody these principles and challenge the critique
 ## Gallery
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg">
-    <a class="caption-text">The Wisconsin Magazine, 1987</a>
+    <a class="caption-text">NewsNight Maryland</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_394-67jq2kng">Courtesy of Maryland Public Television</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_394-67jq2kng</a>
+    
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image4.jpg">
+    <a class="caption-text">Louisiana: The State We're In, pilot episode, 1976</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_17-58pc94tq">Courtesy of Louisiana Public Broadcasting</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_17-58pc94tq</a>
+    
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image4.jpg">
+    <a class="caption-text">Louisiana: The State We're In, 2016</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_509-f18sb3xn1x">Courtesy of Louisiana Public Broadcasting</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_509-f18sb3xn1x</a>
 
 ## Records
-
-![The Wisconsin Magazine, 1987](https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg "The Wisconsin Magazine, 1987")
