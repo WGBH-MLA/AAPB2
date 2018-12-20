@@ -70,7 +70,7 @@ describe Exhibit do
                                 { img_url: '/assets/author.png',
                                   title: 'Second Banana',
                                   name: 'Second Author' }],
-      is_subsection?: true,
+      subsection?: true,
       top_title: 'Parent!',
       top_path: 'parent'
     }

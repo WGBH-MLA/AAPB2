@@ -1,5 +1,5 @@
 <% content_for :main do %>
-  <% @exhibit_color = @exhibit.is_subsection? ? 'exhibit-color-section' : 'exhibit-color' %>
+  <% @exhibit_color = @exhibit.subsection? ? 'exhibit-color-section' : 'exhibit-color' %>
 
   <ol class="<%= @exhibit_color %> breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
     <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Exhibits</a></li>
@@ -32,7 +32,7 @@
       <div class="row" style="margin: 0;">
 
         <h3 id="exhibit-overview-title" class="<%= @exhibit_color %>">
-          <%= @exhibit.is_subsection? ? @exhibit.title : 'Overview' %>
+          <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
         </h3>
 
         <span class="exhibit-main">
@@ -56,11 +56,11 @@
 
         <span class="<%= @exhibit_color %>" style="float: right;">
           <span id="more">
-            Expand to read more <img src="/assets/read_more<%= @exhibit.is_subsection? ? '_section' : '' %>.png" class="icon-size">
+            Expand to read more <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
           </span>
 
           <span id="less" class="hide">
-            Read less <img src="/assets/read_less<%= @exhibit.is_subsection? ? '_section' : '' %>.png" class="icon-size">
+            Read less <img src="/assets/read_less<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
           </span>
         </span>
 
@@ -70,7 +70,7 @@
     <div class="col-md-4" style="padding-right: 0; ">
 
       <% if @exhibit.items.count > 0 %>
-        <% color_class = @exhibit.is_subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
+        <% color_class = @exhibit.subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
 
         <div class="<%= color_class %> exhibit-records-link">
           <img src="/assets/eye2.png" class="icon-big" style="top: -1px; position: relative;">
