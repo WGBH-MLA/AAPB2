@@ -50,5 +50,6 @@ Noncommercial broadcast content, especially programming shared by PBS and NPR, i
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg">
     <a class="caption-text">Front Street Weekly news anchors preparing behind the scenes</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_29-79h44svk">Courtesy of Wisconsin Public Television</a>
+     <a class="asset-url>http://americanarchive.org/catalog/cpb-aacip_29-79h44svk</a>
 
 ## Records
