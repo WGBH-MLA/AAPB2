@@ -56,7 +56,7 @@ While many government agencies actively preserve the natural landscape protected
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/nationalparks_sm.png">
     <a class="caption-text">From episode 312 of The Advocates</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-862b853n6h">Courtesy of WGBH</a>
-    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-862b853n6h</a>
+    <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_15-862b853n6h"></a>
     
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/giantsequoia.jpg">

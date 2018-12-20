@@ -150,8 +150,8 @@ class Exhibit < Cmless
         
 
         asset_link = gallery_item.css('a.asset-url').first
-        if asset_link && asset_link.text
-          asset_url = asset_link.text
+        if asset_link && asset_link['href']
+          asset_url = asset_link['href']
         end
 
         media_info = if type == 'audio' || type == 'video' || type == 'iframe'

@@ -65,13 +65,13 @@ In the past two decades, new technology has revolutionized the revolutionaries, 
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section3.png">
     <a class="caption-text">Earth First! group protests logging in 1990</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_426-322bvt58">Courtesy of KEET</a>
-    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_426-322bvt58</a>
+    <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_426-322bvt58"></a>
     
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section3_Option_2.png">
     <a class="caption-text">2006 Protest against Immigration Laws.</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_86-12z34x02">Courtesy of KVIE</a>
-    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_86-12z34x02</a>
+    <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_86-12z34x02"></a>
 
 
 ## Records
