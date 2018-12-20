@@ -282,5 +282,6 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Candidates.jpg">
     <a class="caption-text">Ronald Reagan campaigning in Louisiana</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_17-23hx47rs">Courtesy of Louisiana Public Broadcasting</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_17-23hx47rs</a>
 
 ## Records
