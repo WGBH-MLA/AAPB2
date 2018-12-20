@@ -60,7 +60,7 @@ The potent combination of civil disobedience and legal protesting employed durin
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Cover.jpg">
     <a class="caption-text">Anti-Vietnam Protest at Pentagon</a>
-    <a class="credit-link"></a>
+    <a class="credit-link" href="https://en.wikipedia.org/wiki/Flower_Power_(photograph)#/media/File:Vietnamprotestors.jpg">Public domain images courtesy of Wikimedia Commons.</a>
 
 ## Records
 
