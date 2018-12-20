@@ -51,11 +51,11 @@ Yet there are downsides to urban preservation as well. The cultural “cool” f
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/taxcut_sm.png">
     <a class="caption-text">From the MacNeil/Lehrer NewsHour</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36"> Courtesy of NewsHour Productions</a>
-    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36</a>
+    <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36"></a>
   - <a class="type">image</a>
     <img alt="Reporter at a desk with graphics from a news story on tourism" src="https://s3.amazonaws.com/americanarchive.org/exhibits/tourism.jpg">
     <a class="caption-text">From Louisiana: The State We're In</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36">Courtesy of Louisiana Public Broadcasting</a>
-    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36</a>
+    <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_507-gt5fb4xb36"></a>
 
 ## Records

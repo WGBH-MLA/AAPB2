@@ -51,7 +51,7 @@ Main main go away, come again another day! Main main go away, come again another
   <a class="media-url">/media//cpb-aacip_114-90dv49m9?part=1</a>
   <a class="credit-link" href="http://www.cpb.org/link1">First Source name/message</a>
   <a class="caption-text">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>
-  <a class="asset-url">bunt cake</a>
+  <a class="asset-url" href="bunt cake"></a>
 
 - <a class="type">image</a>
   <a class="credit-link">Second Source name/message</a>
