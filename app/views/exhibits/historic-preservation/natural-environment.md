@@ -56,10 +56,13 @@ While many government agencies actively preserve the natural landscape protected
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/nationalparks_sm.png">
     <a class="caption-text">From episode 312 of The Advocates</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-862b853n6h">Courtesy of WGBH</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-862b853n6h</a>
+    
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/giantsequoia.jpg">
     <a class="caption-text">Price, Albert M, photographer. Yosemite, "Grizzly Giant" sequoia. None. [Between 1914 and 1929] Photograph. Retrieved from the Library of Congress.</a>
     <a class="credit-link" href="http://www.loc.gov">Courtesy of the Library of Congress</a>
+    
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/wpanpsposter_sm.png">
     <a class="caption-text">Nicholson, Frank S., Artist, and Sponsor United States National Park Service. Wild life The national parks preserve all life. None. [Nyc: nyc art project, works projects administration, between 1936 and 1940] Photograph. Retrieved from the Library of Congress.</a>
