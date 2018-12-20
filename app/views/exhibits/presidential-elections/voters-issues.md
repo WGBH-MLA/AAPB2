@@ -70,5 +70,6 @@ Other national issues addressed in AAPB materials include discussions on agricul
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Voters-Issues.jpg">
     <a class="caption-text">Women and the Vote"</a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-6q1sf2md07">Courtesy of WGBH Educational Foundation</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-6q1sf2md07</a>
 
 ## Records
