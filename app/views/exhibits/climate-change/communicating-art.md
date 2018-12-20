@@ -25,5 +25,6 @@ Some artists have taken to addressing the issue of climate change through their 
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section7_Art.jpg">
     <a class="caption-text">Image of melting Arctic glaciers from <i>After the Warming</i></a>
     <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_394-65h9wd4r">Courtesy of Maryland Public Television</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_394-65h9wd4r</a>
 
 ## Records
