@@ -99,17 +99,20 @@ Over the course of the 1970s, faith in the power of American education to become
 ## Gallery
 
 - <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-9gq6r236">Pat Bonner-Lyons on Say Brother</a>
-  <a class="caption-text">This 1974 episode focused on school desegregation and the quality of education in Boston.</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-9gq6r236">Courtesy of WGBH</a>
+  <a class="caption-text">An image of Pat Bonner-Lyons on Say Brother. This 1974 episode focused on school desegregation and the quality of education in Boston.</a>
   <img title="Pat Bonner-Lyons on Say Brother" alt="Pat Bonner-Lyons on Say Brother" src="https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-9gq6r236</a>
 
 - <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-9mc8rg36">Ten O'Clock News (WGBH)</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-9mc8rg36">Courtesy of WGBH</a>
   <a class="caption-text">In this episode of Ten O'Clock News, buses arrived in South Boston with police escort.</a>
   <img title="Ten O'Clock News (WGBH)" alt="Ten O'Clock News (WGBH)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/SchoolBusPoliceCar.jpg">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-9mc8rg36</a>
 
 - <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-09w0vvf7">The 51st State (WNET)</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-09w0vvf7">Courtesy of Thirteen/WNET</a>
   <a class="caption-text">WNET's The 51st State anchor reports on School District 1."</a>
   <img title="The 51st State (WNET)" alt="The 51st State (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/51stStateDistrict1.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_75-09w0vvf7</a>
 
