@@ -10,7 +10,7 @@ What’s a newsmagazine? Though the term may seem unfamiliar, newsmagazines numb
 
 ## Authors
 
-- img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/adeanheadshot.jpg"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/adeanheadshot.jpg"/>
   <a class="name">Alejandra Dean</a>
   <a class="title">Digital Exhibits Intern, American Archive of Public Broadcasting</a>
 
