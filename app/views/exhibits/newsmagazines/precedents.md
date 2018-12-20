@@ -51,7 +51,7 @@ If there’s one thread that weaves these narrative strands together, it’s PBS
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt="The 51st State, 1974" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image1.jpg">
+  <img title="Cover Image" alt="The 51st State, 1974" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
 
 ## Gallery
   - <a class="type">image</a>
