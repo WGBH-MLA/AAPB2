@@ -16,7 +16,7 @@ This section won't show up on search results.
 
 ## Main
 
-Description goes here.
+Description goes here. 
 
 ## Authors
 
@@ -33,18 +33,17 @@ Description goes here.
 ## Gallery
 
 - <a class="type">video</a>
-  <!-- media-url for video or audio v -->
+  <a class="credit-link" href="http://www.schooly.com1">School Days 1997</a>
   <a class="media-url">/media/cpb-aacip_151-b56d21s06x</a>
-  <a class="record-link" href="http://www.cpb.org/link1">First Source name</a>
   <a class="caption-text">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>
 
 - <a class="type">image</a>
-  <a class="record-link" href="http://www.cpb.org/link1">Second Source name</a>
+  <a class="credit-link" href="http://www.schooly.com2">School Days 1998</a>
   <a class="caption-text">This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. </a>
   <img title="cover title 2" alt="Alt cover 2" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg">
 
 - <a class="type">image</a>
-  <a class="record-link" href="http://www.cpb.org/link1">Source name</a>
+  <a class="credit-link" href="http://www.schooly.com3">School Days 1999</a>
   <a class="caption-text">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>
   <img title="cover title 3" alt="Alt cover 3" src="https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg">
     

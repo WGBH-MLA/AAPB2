@@ -159,7 +159,6 @@ class Exhibit < Cmless
                          img = gallery_item.css('img').first
                          { type: 'image', url: img[:src], alt: img[:alt], title: img[:title] }
                        end
-
           {
             credit_url: credit_link['href'],
             source_text: credit_link.text,
@@ -176,20 +175,20 @@ class Exhibit < Cmless
 
     if section_uri.end_with?('resources')
       # learning goals nnooootes
-      %(<a href="#{section_uri}"><div class="exhibit-notes">
-        <div class="#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}">Resource:</div>
-        <div class="">
-          <img src="/assets/learning_goals.png" class="icon-med" style="top: -2px; position: relative;">
+      %(<a href='#{section_uri}'><div class='exhibit-notes'>
+        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}'>Resource:</div>
+        <div class='>
+          <img src='/assets/learning_goals.png' class='icon-med' style='top: -2px; position: relative;'>
           Learning Goals
         </div>
       </div></a>)
     elsif section_uri.end_with?('notes')
       # reeeeses notes
-      %(<a href="#{section_uri}"><div class="exhibit-notes">
-        <div class="#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}">Resource:</div>
+      %(<a href='#{section_uri}'><div class='exhibit-notes'>
+        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}'>Resource:</div>
 
-        <div class="">
-          <img src="/assets/research_notes.png" class="icon-med" style="top: -2px; position: relative;">
+        <div class='>
+          <img src='/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
           Research Notes
         </div>
       </div></a>)
@@ -199,12 +198,12 @@ class Exhibit < Cmless
       bckcolor = 'fff' if ENV['RACK_ENV'] == 'test'
 
       img = Nokogiri::HTML(cover_html).css('img').first
-      %(<a style="" href="#{section_uri}">
+      %(<a href='#{section_uri}'>
         <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'>
 
-          <div class="exhibit-cover-overlay" style="background-color: ##{bckcolor};"></div>
+          <div class='exhibit-cover-overlay' style='background-color: ##{bckcolor};'></div>
 
-          <div class="exhibit-cover-text" style="">
+          <div class='exhibit-cover-text'>
             #{title}
           </div>
         </div>
