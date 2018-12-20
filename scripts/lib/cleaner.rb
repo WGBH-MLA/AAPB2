@@ -3,7 +3,7 @@ require 'set'
 require_relative '../../app/models/vocab_map'
 require_relative '../../lib/formatter'
 
-class Cleaner # rubocop:disable Metrics/ClassLength
+class Cleaner
   include Singleton
 
   def initialize
