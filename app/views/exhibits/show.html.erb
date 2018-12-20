@@ -3,23 +3,23 @@
 
   <ol class="<%= @exhibit_color %> breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
     <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Exhibits</a></li>
-    
+
     <% @exhibit.ancestors.map do |ancestor| %>
-    
+
       <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
-    
+
     <% end %>
-    
+
     <li><%= @exhibit.title %></li>
   </ol>
 
   <div class="row" style="margin-bottom: 4%;">
-      
+
     <div class="col-md-8">
 
-      <div class="row">
- 
-        <div class="col-md-8">&nbsp;</div>
+      <div id="exhibit-sidebar-row" class="row">
+
+        <div class="col-md-8"></div>
 
         <div class="col-md-4">
           <%= render partial: 'sidebar_nav',
@@ -34,7 +34,7 @@
         <h3 id="exhibit-overview-title" class="<%= @exhibit_color %>">
           <%= @exhibit.is_subsection? ? @exhibit.title : 'Overview' %>
         </h3>
-        
+
         <span class="exhibit-main">
           <%= @exhibit.summary_html.html_safe %>
         </span>
@@ -68,7 +68,7 @@
     </div>
 
     <div class="col-md-4" style="padding-right: 0; ">
-          
+
       <% if @exhibit.items.count > 0 %>
         <% color_class = @exhibit.is_subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
 
@@ -82,7 +82,7 @@
       <!-- whole gallery -->
       <%= render(partial: 'exhibits/gallery',
                   locals: {
-                    gallery_info: @exhibit.gallery 
+                    gallery_info: @exhibit.gallery
                   }) %>
     </div>
 
@@ -116,7 +116,7 @@
             <% exes.last.each do |exhibit| %>
 
               <%= exhibit.cover.to_s.html_safe %>
-                
+
             <% end %>
 
           </div>
@@ -134,10 +134,10 @@
       <% authors = @exhibit.authors %>
 
       <div class="row" style="margin:0;">
-        
+
         <h3 class="curator-title">Curator<%= authors.count > 1 ? 's' : '' %></h3>
       </div>
-      
+
       <div class="row">
         <div class="col-md-12" style="margin-left: 4%;">
 
@@ -152,12 +152,12 @@
     </div>
 
     <div class="col-md-8">
-      
+
       <div class="row" style="">
-        
+
         <h3 class="curator-title">Additional Resources</h3>
       </div>
-      
+
       <div class="row" style="margin-left: 0;">
         <% res = @exhibit.resources; left, right = res.each_slice( (res.size/2.0).round ).to_a if res.count > 0 %>
 
@@ -169,7 +169,7 @@
                 <a class="exhibit-color resource-link" href="<%= r[1] %>">
                   <img src="/assets/external_link.png" class="icon-size">
                   <%= r[0] %>
-                    
+
                 </a>
               </div>
             <% end %>
@@ -183,7 +183,7 @@
                 <a class="exhibit-color resource-link" href="<%= r[1] %>">
                   <img src="/assets/external_link.png" class="icon-size">
                   <%= r[0] %>
-                    
+
                 </a>
               </div>
             <% end %>
@@ -199,12 +199,12 @@
   <div class="hide">
     <%= render(partial: 'exhibits/records',
                 locals: {
-                  records: @exhibit.records 
+                  records: @exhibit.records
                 }) %>
   </div>
 
   <script type="text/javascript">
-    
+
     $(document).ready(function() {
       $('#more, #less').click(function() {
         $('#exhibit-main, #exhibit-abbrev').slideToggle().toggleClass('hide');
