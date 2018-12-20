@@ -48,13 +48,13 @@ class Exhibit < Cmless
 
   def thumbnail_url
     @thumbnail_url ||=
-    begin
+      begin
 
-      img = Nokogiri::HTML(summary_html).xpath('//img[1]/@src').first
-      img = Nokogiri::HTML(gallery_html).xpath('//img[1]/@src').first unless img
-      img = Nokogiri::HTML(main_html).xpath('//img[1]/@src').first unless img
-      img.text
-    end
+        img = Nokogiri::HTML(summary_html).xpath('//img[1]/@src').first
+        img = Nokogiri::HTML(gallery_html).xpath('//img[1]/@src').first unless img
+        img = Nokogiri::HTML(main_html).xpath('//img[1]/@src').first unless img
+        img.text
+      end
   end
 
   def ids
@@ -121,58 +121,54 @@ class Exhibit < Cmless
 
   def resources
     @resources ||=
-    begin
-      Nokogiri::HTML(resources_html).xpath('//a').map do |el|
-        [
-          el.text,
-          el.attribute('href').to_s
-        ]
+      begin
+        Nokogiri::HTML(resources_html).xpath('//a').map do |el|
+          [
+            el.text,
+            el.attribute('href').to_s
+          ]
+        end
       end
-    end
   end
 
   def records
     @records ||=
-    begin
-      Nokogiri::HTML(records_html).xpath('//li').map(&:text)
-    end
+      begin
+        Nokogiri::HTML(records_html).xpath('//li').map(&:text)
+      end
   end
 
   def gallery
     @gallery ||=
-    begin
+      begin
 
-      Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
+        Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
+          type = gallery_item.css('a.type').first.text
+          credit_link = gallery_item.css('a.credit-link').first
+          caption = gallery_item.css('a.caption-text').first
 
-        type = gallery_item.css('a.type').first.text
-        credit_link = gallery_item.css('a.credit-link').first
-        caption = gallery_item.css('a.caption-text').first
-        
+          asset_link = gallery_item.css('a.asset-url').first
+          asset_url = asset_link['href'] if asset_link && asset_link['href']
 
-        asset_link = gallery_item.css('a.asset-url').first
-        if asset_link && asset_link['href']
-          asset_url = asset_link['href']
+          media_info = if type == 'audio' || type == 'video' || type == 'iframe'
+
+                         url = gallery_item.css('a.media-url').first.text
+                         { type: type, url: url }
+                       else # image
+
+                         img = gallery_item.css('img').first
+                         { type: 'image', url: img[:src], alt: img[:alt], title: img[:title] }
+                       end
+
+          {
+            credit_url: credit_link['href'],
+            source_text: credit_link.text,
+            caption: caption.text,
+            media_info: media_info,
+            asset_url: asset_url
+          }
         end
-
-        media_info = if type == 'audio' || type == 'video' || type == 'iframe'
-
-          url = gallery_item.css('a.media-url').first.text
-          { type: type, url: url }
-        else # image
-
-          img = gallery_item.css('img').first
-          { type: 'image', url: img[:src], alt: img[:alt], title: img[:title] }
-        end
-
-        {
-          credit_url: credit_link['href'],
-          source_text: credit_link.text,
-          caption: caption.text,
-          media_info: media_info,
-          asset_url: asset_url
-        }
       end
-    end
   end
 
   def cover
@@ -181,7 +177,7 @@ class Exhibit < Cmless
     if section_uri.end_with?('resources')
       # learning goals nnooootes
       %(<a href="#{section_uri}"><div class="exhibit-notes">
-        <div class="#{is_subsection? ? 'exhibit-color-section' : 'exhibit-color'}">Resource:</div>
+        <div class="#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}">Resource:</div>
         <div class="">
           <img src="/assets/learning_goals.png" class="icon-med" style="top: -2px; position: relative;">
           Learning Goals
@@ -190,7 +186,7 @@ class Exhibit < Cmless
     elsif section_uri.end_with?('notes')
       # reeeeses notes
       %(<a href="#{section_uri}"><div class="exhibit-notes">
-        <div class="#{is_subsection? ? 'exhibit-color-section' : 'exhibit-color'}">Resource:</div>
+        <div class="#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}">Resource:</div>
 
         <div class="">
           <img src="/assets/research_notes.png" class="icon-med" style="top: -2px; position: relative;">
@@ -199,8 +195,8 @@ class Exhibit < Cmless
       </div></a>)
     else
 
-      bckcolor = "%06x" % (rand(0.2..0.4) * 0xffffff)
-      bckcolor = "fff" if ENV['RACK_ENV'] == 'test'
+      bckcolor = '%06x' % (rand(0.2..0.4) * 0xffffff)
+      bckcolor = 'fff' if ENV['RACK_ENV'] == 'test'
 
       img = Nokogiri::HTML(cover_html).css('img').first
       %(<a style="" href="#{section_uri}">
@@ -231,7 +227,7 @@ class Exhibit < Cmless
     ancestors.count > 0 ? ancestors.first.path : path
   end
 
-  def is_subsection?
+  def subsection?
     parent ? true : false
   end
 end
