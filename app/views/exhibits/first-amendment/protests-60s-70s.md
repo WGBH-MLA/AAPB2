@@ -130,6 +130,7 @@ From 1968 to 1970, protests continued in force as events like the Tet Offensive,
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section2_1.jpg">
     <a class="caption-text">Angela Davis at protest</a>
+    <a class="credit-link" href="https://dl.library.ucla.edu/islandora/object/edu.ucla.library.specialCollections.latimes:3210">Courtesy of Los Angeles Times Photographs Collection</a>
 
 
 ## Records
