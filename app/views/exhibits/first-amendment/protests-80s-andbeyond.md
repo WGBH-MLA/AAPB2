@@ -14,8 +14,6 @@ Opposition to the Equal Rights Amendment (ERA) in the 1970s and early 1980s also
 
 The AAPB also documents public face-offs between the right and left on other topics where divergent views on ethics and policy have caused demonstrations and protests: showing dissenting views and clashing debates on issues ranging from [government funding of controversial artworks](/catalog/cpb-aacip_15-086348gg8n) to [gun control](/catalog/cpb-aacip_398-85n8pwxp) to [environmental regulations](/catalog/cpb-aacip_426-322bvt58). On this last issue, the AAPB holds footage that captures two strains of the environmental movement of the 1980s and the 1990s. While gaining in popularity and mainstream support throughout the 1980s and 1990s, the environmental movement was still fertile ground for direct-action and dramatic protests during these two decades.[<sup>10</sup>](/exhibits/first-amendment/notes#10) In this footage of an Earth First! protest against [logging](/catalog/cpb-aacip_426-78gf23fs) we see the more radical, direct-action arm of the movement, while in this radio coverage of a Hispanic community’s protest against [trash incinerators](/catalog/cpb-aacip_375-28ncjz41) we hear the fight for environmental justice by concerned community members.
 
-![2006 Protest against Immigration Laws.](https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section3_Option_2.png "2006 Protest against Immigration Laws.")
-
 The AAPB also holds footage of protests against racism and injustice from 1980 and beyond. Watch as [devoted New Yorkers](/catalog/cpb-aacip_75-171vhp1s) protest on behalf of Muslim immigrants held without charges in the aftermath of 9/11. See raw footage of a [2006 march for immigrant rights](/catalog/cpb-aacip_86-12z34x02), where participants advocated for better immigration policies and treatment. Or check out a future president rallying for increased representation—see if you can spot a young [Barack Obama speaking out](/catalog/cpb-aacip_15-qn5z60c97r) against the underrepresentation of female professors of color at Harvard Law School at this rally.
 
 In the past two decades, new technology has revolutionized the revolutionaries, social activists, and concerned citizens among us. In this panel on “[Social Media and Social Change](/catalog/cpb-aacip_15-tx3513v769),” LGBTQ advocates discuss how they employ social media to grow their movements and further social change. Likewise, new technology in the form of smartphone cameras has given almost anyone the ability to document protests and activism, making protests increasingly present in American life.
@@ -66,6 +64,14 @@ In the past two decades, new technology has revolutionized the revolutionaries, 
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section3.png">
     <a class="caption-text">Earth First! group protests logging in 1990</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_426-322bvt58">Courtesy of KEET</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_426-322bvt58</a>
+    
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section3_Option_2.png">
+    <a class="caption-text">2006 Protest against Immigration Laws.</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_86-12z34x02">Courtesy of KVIE</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_86-12z34x02</a>
 
 
 ## Records
