@@ -70,13 +70,24 @@
 
               <div id="exgal-modal-rightpane" class="col-sm-4 col-md-4 col-lg-4 col-xs-12">
 
-                <h4 class="exgal-modal-title exgal-font"><a class="<%= @exhibit_color %>" href="<%= gal[:asset_url] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
 
-                <div class="exgal-modal-caption">
-                  <%= gal[:caption] %>
+                <div class="exgal-modal-title">
+                  <% if gal[:asset_url] %>
+                    <h4 class="exgal-font"><a class="<%= @exhibit_color %>" href="<%= gal[:asset_url] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
+                  <% end %>
+
+                  <div class="exgal-modal-caption">
+                    <%= gal[:caption] %>
+                  </div>
                 </div>
 
-                <h4 class="exgal-modal-source exgal-title <%= @exhibit_color %> exgal-font italic"><%= gal[:source_text] %></h4>
+                <% if gal[:credit_url] %>
+                  <a href="<%= gal[:credit_url] %>">
+                    <h4 class="exgal-modal-source exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin"><%= gal[:source_text] %></h4>
+                  </a>
+                <% else %>
+                  <h4 class="exgal-modal-source exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin"><%= gal[:source_text] %></h4>
+                <% end %>
               </div>
 
             </div>
