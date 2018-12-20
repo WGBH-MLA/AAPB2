@@ -30,6 +30,6 @@ Yet other proposed solutions focus on specific technologies. "The bad news is th
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section5_Solutions.jpg">
     <a class="caption-text">Wind Turbines</a>
-    <a class="credit-link" href="https://creativecommons.org/licenses/by-sa/3.0/us/"CC-BY-SA 3.0 Image by Fred J, userpage: commons.wikimedia.org/wiki/User:Fred_J)</a>
+    <a class="credit-link" href="https://creativecommons.org/licenses/by-sa/3.0/us/">CC-BY-SA 3.0 Image by Fred J, userpage: commons.wikimedia.org/wiki/User:Fred_J)</a>
 
 ## Records

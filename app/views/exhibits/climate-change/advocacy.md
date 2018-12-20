@@ -31,5 +31,7 @@ Since the late 1980s, writer and climate change activist Bill McKibben has been 
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_Section2_Activism.jpg">
     <a class="caption-text">Bill McKibben, Founder of 350.org</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-8s4jm23h6q">Courtesy of WGBH</a>
+    <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-8s4jm23h6q</a>
 
 ## Records
