@@ -134,50 +134,60 @@ While NET did not succeed in convincing all the local stations of the wisdom of 
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-558czg1g">NET Journal; Diary of a Student Revolution (1969)</a>
   <a class="caption-text">A student protestor interrupts a lecture at University of Connecticut.</a>
   <img title="Student protestor interrupts a lecture at UConn" alt="Student protestor interrupts a lecture at UConn" src="https://s3.amazonaws.com/americanarchive.org/exhibits/DiaryofaStudentRevolution.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_75-558czg1g</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/special_collections/net-catalog">Logo for National Educational Television</a>
   <a class="caption-text">The National Educational Television (NET) Collection consists of more than 10,000 television programs from non-commercial TV stations and producers from 1952-1972 on public affairs, social issues, arts, culture, the humanities, science, and education. The collection includes public affairs documentaries and discussions covering the black freedom struggle, the Vietnam War, the Cuban Missile Crisis, and issues such as poverty, student activism, radicalism, privacy, the environment, the elderly, and welfare.</a>
   <img title="Logo for National Educational Television" alt="Logo for National Educational Television" src="https://s3.amazonaws.com/americanarchive.org/exhibits/netlogo.jpg">
+  
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-tm71v5ck55">Local Issue; A House Divided (1964)</a>
   <a class="caption-text">Salt Lake City teacher on strike in A House Divided, an episode of Local Issue from 1964 that looked at 1953 a special session of the state legislature called in 1953 to appropriate additional funds for the schools. As program host and commentator Neal Maxwell, Dean of Students at the University of Utah, talked with people on both sides of the stormy controversy, viewers were brought up to date on the crisis.</a>
   <img title="Local Issue; A House Divided (1964)" alt="Local Issue; A House Divided (1964)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/UtahTeacher.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_516-tm71v5ck55</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-tm71v5ck55">Local Issue; A House Divided (1964)</a>
   <a class="caption-text">Salt Lake City teacher on strike in A House Divided, an episode of Local Issue from 1964 that looked at 1953 a special session of the state legislature called in 1953 to appropriate additional funds for the schools. As program host and commentator Neal Maxwell, Dean of Students at the University of Utah, talked with people on both sides of the stormy controversy, viewers were brought up to date on the crisis.</a>
   <img title="Local Issue; A House Divided (1964)" alt="Local Issue; A House Divided (1964)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/UtahTeacher.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_516-tm71v5ck55</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-qf8jd4qp2r">At Issue; The Battle for School Integration (1964)</a>
   <a class="caption-text">Students in Boston protest de facto segregation in The Battle for School Integration, a program that examined the spreading civil rights boycotts of northern schools. It surveyed the positive and negative effectiveness of the boycotts, what these boycotts did to the political and asocial structure of a city, and probed whether this method for promoting school integration was a valid use of the boycott.</a>
   <img title="At Issue; The Battle for School Integration (1964)" alt="At Issue; The Battle for School Integration (1964)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheBattleforSchoolIntegration2.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_512-qf8jd4qp2r</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q">NET Journal; The Way it Is (1966)</a>
   <a class="caption-text">Boredom and distraction at Junior High School 57 in The Way it Is, a 1966 documentary study of what was referred to as the "ghetto school."</a>
   <img title="NET Journal; The Way it Is (1966)" alt="NET Journal; The Way it Is (1966)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheWayitIs2.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q">NET Journal; The Way it Is (1966)</a>
   <a class="caption-text">Boredom and distraction at Junior High School 57 in The Way it Is, a 1966 documentary study of what was referred to as the "ghetto school."</a>
   <img title="NET Journal; The Way it Is (1966)" alt="NET Journal; The Way it Is (1966)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheWayitIs2.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-12z3534n">Public Broadcast Laboratory; Hear Us, O Lord (1968)</a>
   <a class="caption-text">The Lang Family discusses over dinner in Hear Us, O Lord, a Public Broadcast Laboratory report on the response of an all-white suburb  in South Holland, Illinois to a federal school desegregation order."</a>
   <img title="Public Broadcast Laboratory; Hear Us, O Lord (1968)" alt="Public Broadcast Laboratory; Hear Us, O Lord (1968)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/hearusolord.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-12z3534n</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-g44hm53h63">Public Broadcast Laboratory; University in Society; Do the Ties Bind? (1969)</a>
   <a class="caption-text">Stanford administrators meet in Reform Before Revolution, the first part of a Public Broadcast Laboratory episode titled "University in Society: Do the Ties Bind?.""</a>
   <img title="Public Broadcast Laboratory; University in Society; Do the Ties Bind? (1969)" alt="Public Broadcast Laboratory; University in Society; Do the Ties Bind? (1969)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ReformBeforeRevolution2.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_516-g44hm53h63</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-99p2w600">Say Brother; Black Power on University Campuses (1968)</a>
   <a class="caption-text">Banner reading Malcolm X University in "Black Power on University Campuses," a 1969 episode of WGBH's Say Brother which examines the student takeover of Ford Hall at Brandeis University."</a>
   <img title="Say Brother; Black Power on University Campuses (1968)" alt="Say Brother; Black Power on University Campuses (1968)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/MalcolmXUniversity.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-99p2w600</a>
 
 ## Records
