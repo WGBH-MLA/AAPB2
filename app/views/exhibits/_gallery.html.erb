@@ -36,7 +36,6 @@
               </a>
             </div>
           </div>
-
         </div>
 
       </div>
@@ -70,8 +69,7 @@
 
               <div id="exgal-modal-rightpane" class="col-sm-4 col-md-4 col-lg-4 col-xs-12">
 
-
-                <div class="exgal-modal-title">
+                <div class="exgal-modal-title white-back">
                   <% if gal[:asset_url] %>
                     <h4 class="exgal-font"><a class="<%= @exhibit_color %>" href="<%= gal[:asset_url] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
                   <% end %>
@@ -160,8 +158,6 @@
     </div>
   </div>
 
-
-
   <link href="http://vjs.zencdn.net/5.11.7/video-js.css" rel="stylesheet" data-turbolinks-track>
   <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
   <!-- video-js support for IE 8 -->
@@ -173,7 +169,6 @@
   <script type="text/javascript">
 
     $(document).ready(function() {
-
       // handle gallery buttons
       $('.exgal-button').click(function() {
 
@@ -223,9 +218,9 @@
         var tag = e.target.tagName.toLowerCase();
         if ( e.which === 37 || e.which == 39 && tag != 'input' && tag != 'textarea') {
           if(e.which == 37) {
-            $('.exgal-back')[0].click();
+            $('.exgal-back:visible')[0].click();
           } else if(e.which == 39) {
-            $('.exgal-forward')[0].click();
+            $('.exgal-forward:visible')[0].click();
           }
         }
       });
