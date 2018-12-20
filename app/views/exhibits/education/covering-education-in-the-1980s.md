@@ -94,20 +94,24 @@ While a few of these programs fit the mold of the “at-risk youth” headline s
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_259-qn5z9h58">Their School? Your School! (New Jersey Network)</a>
   <a class="caption-text">In this 1981 program, New Jersey Education Commissioner Fred G. Burke took a look at critical look at school facilities, their problems, and how New Jersey was dealing with them.</a>
   <img title="Their School? Your School! (New Jersey Network)" alt="Their School? Your School! (New Jersey Network)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_259-qn5z9h58</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_507-t727941q5f">The MacNeil/Lehrer NewsHour; The Education of a Teacher (1987)</a>
   <a class="caption-text">John Merrow asks two teachers a question in The Education of a Teacher.</a>
   <img title="The MacNeil/Lehrer NewsHour; The Education of a Teacher (1987)" alt="The MacNeil/Lehrer NewsHour; The Education of a Teacher (1987)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Merrow.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_507-t727941q5f</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_52-91fj7068">Prime Time (Rocky Mountain PBS)</a>
   <a class="caption-text">Prime Time from Rocky Mountain PBS was a weekly series to create public awareness of the educational opportunities in the Denver Public Schools and to encourage the cooperative efforts of home and community to achieve excellence in education."</a>
   <img title="Prime Time (Rocky Mountain PBS)" alt="Prime Time (Rocky Mountain PBS)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/PrimeTime.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_52-91fj7068</a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_15-99z90b99">From Busing to Books: A Portrait of South Boston High School (WGBH)</a>
   <a class="caption-text">Students leave South Boston High School in WGBH's From Busing to Books: A Portrait of South Boston High School (1984)."</a>
   <img title="From Busing to Books: A Portrait of South Boston High School (WGBH)" alt="From Busing to Books: A Portrait of South Boston High School (WGBH)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/BusingtoBooks.JPG">
+  <a class="asset-url">http://americanarchive.org/catalog/cpb-aacip_15-99z90b99</a>
 
 ## Records
