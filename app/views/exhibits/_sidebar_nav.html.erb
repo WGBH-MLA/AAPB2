@@ -1,23 +1,22 @@
 <% if links.present? %>
 
-  <div  id="exhibit-section-menu" style="display:block;" >
-    <li id="exhibit-section-head" class="<%= @exhibit_color %>">
-      <img style="top: -1px; position: relative;" src="/assets/explore_exhibit<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-med">
-      Explore the exhibit
-      <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
-    </li>
+  <div id="exhibit-section-menu" style="display:block;" >
+    <ul class="hide" id="exhibit-sections">
+      <li id="exhibit-section-head" class="<%= @exhibit_color %>">
+        <img style="top: -1px; position: relative;" src="/assets/explore_exhibit<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-med">
+        Explore the exhibit
+        <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+      </li>
 
-    <ul  class="hide" id="exhibit-sections">
-
-      <li class="exhibit-section-disabled item" value="<%= @exhibit.parent ? @exhibit.parent.path : @exhibit.path %>">
-        <a class=<%= @exhibit_color %>" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>
+      <li class="exhibit-section-disabled item">
+        <a class="<%= @exhibit_color %>" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>
       </li>
 
       <% sortedlinks = links.partition {|l| !(l[0] == 'Resources' || l[0] == 'Notes') } %>
 
       <% sortedlinks.first.each do |name,link,subs=nil| %>
 
-        <li class="item" value="<%= link %>" class="<%= current_page(link)  %>">
+        <li class="item <%= current_page(link)  %>">
           <%= link ? link_to(name, link, class: %(exhibit-color left-justify)) : content_tag('a', name)%>
           <%# <a> in either case for consistent style. %>
         </li>
@@ -31,34 +30,6 @@
         <% end %>
 
       <% end %>
-
-      <% sortedlinks.last.each do |name,link,subs=nil| %>
-
-        <li class="item" value="<%= link %>">
-          <% if name == 'Resources' %>
-            <a href="<%= link %>">
-              <img src="/assets/research_notes.png" class="icon-size">
-              Research Notes
-            </a>
-          <% elsif name == "Notes" %>
-            <a href="<%= link %>">
-              <img src="/assets/learning_goals.png" class="icon-size">
-              Learning Goals
-            </a>
-          <% end %>
-          <%# <a> in either case for consistent style. %>
-        </li>
-
-        <% if subs %><%# This could be recursive... %>
-          <ul>
-            <% subs.each do |name,link| %>
-              <li>&bull; <%= link_to(name, link) %></li>
-            <% end %>
-          </ul>
-        <% end %>
-
-      <% end %>
-
     </ul>
   </div>
 <% end %>

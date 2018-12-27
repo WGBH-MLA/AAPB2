@@ -19,7 +19,7 @@ describe 'Exhibits' do
 
   it 'gets all components of a gallery item' do
     # TODO: change this to a real exhibit once they're all reformatted
-    visit '/exhibits/exampleexhibit'
+    visit '/exhibits/civil-rights'
     expect page.find(:css, 'div.exgal-1 div.exgal-caption').to have_content 'This is the caption text for the first gallery item.'
     expect page.find(:css, 'div.exgal-1 div.exgal-source').to have_content 'Courtesy: First Source name'
   end

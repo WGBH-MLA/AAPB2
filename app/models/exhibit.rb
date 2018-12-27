@@ -177,7 +177,7 @@ class Exhibit < Cmless
       # learning goals nnooootes
       %(<a href='#{section_uri}'><div class='exhibit-notes'>
         <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}'>Resource:</div>
-        <div class='>
+        <div class=''>
           <img src='/assets/learning_goals.png' class='icon-med' style='top: -2px; position: relative;'>
           Learning Goals
         </div>
@@ -187,7 +187,7 @@ class Exhibit < Cmless
       %(<a href='#{section_uri}'><div class='exhibit-notes'>
         <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}'>Resource:</div>
 
-        <div class='>
+        <div class=''>
           <img src='/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
           Research Notes
         </div>

@@ -16,14 +16,14 @@
 
             <div id="exgal-modal-nav" class="exgal-nav exgal-nav-font">
 
-              <span class="exgal-button exgal-back">< Previous | </span>
+              <span class="exgal-button exgal-back">Previous | </span>
 
               <span class="exgal-count">
                 <span class="current-item">1</span>
                 of
                 <span><%= gallery_info.count %></span>
               </span>
-              <span class="exgal-button exgal-forward"> | Next ></span>
+              <span class="exgal-button exgal-forward"> | Next</span>
             </div>
 
           </div>
@@ -42,7 +42,8 @@
     </div>
   </div>
 
-  <div id="exgal-main" data-total-items=<%= gallery_info.count %> data-current-item=1 class="exgal-container">
+
+  <div id="exgal-main" data-total-items="<%= gallery_info.count %>" data-current-item="1" class="exgal-container">
 
     <div class="row">
 
@@ -71,7 +72,7 @@
 
                 <div class="exgal-modal-title white-back">
                   <% if gal[:asset_url] %>
-                    <h4 class="exgal-font"><a class="<%= @exhibit_color %>" href="<%= gal[:asset_url] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h3>
+                    <h4 class="exgal-font"><a class="<%= @exhibit_color %>" href="<%= gal[:asset_url] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h4>
                   <% end %>
 
                   <div class="exgal-modal-caption">
@@ -113,7 +114,7 @@
               <div class="row">
                 <div class="col-md-12">
 
-                  <h4 class="<%= @exhibit_color %> exgal-title"><%= gal[:title] %></h3>
+                  <h4 class="<%= @exhibit_color %> exgal-title"><%= gal[:title] %></h4>
 
                   <div class="exgal-caption">
                     <%= gal[:caption] %>
@@ -140,14 +141,14 @@
           <div class="col-md-12">
 
             <div class="exgal-nav exgal-nav-font" style="float:right;">
-              <span class="exgal-button exgal-back">< Previous | </span>
+              <span class="exgal-button exgal-back">Previous | </span>
 
               <span class="exgal-count">
                 <span class="current-item">1</span>
                 of
                 <span><%= gallery_info.count %></span>
               </span>
-              <span class="exgal-button exgal-forward"> | Next ></span>
+              <span class="exgal-button exgal-forward"> | Next</span>
             </div>
 
           </div>
@@ -164,7 +165,6 @@
   <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
   <!-- Need VideoJS for our player.js file -->
   <%= javascript_include_tag 'player' %>
-
 
   <script type="text/javascript">
 
