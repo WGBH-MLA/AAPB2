@@ -185,7 +185,10 @@ class Exhibit < Cmless
       </div></a>)
     else
 
+      # rubocop:disable Style/FormatString
       bckcolor = '%06x' % (rand(0.2..0.4) * 0xffffff)
+      # rubocop:enable Style/FormatString
+
       bckcolor = 'fff' if ENV['RACK_ENV'] == 'test'
 
       img = Nokogiri::HTML(cover_html).css('img').first

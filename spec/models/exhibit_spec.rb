@@ -65,12 +65,16 @@ describe Exhibit do
                       url: 'https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg',
                       alt: 'Alt cover 3',
                       title: 'cover title 3' } }],
+
+                      # rubocop:disable Style/AlignHash
+                      # cant make this happy v
                       authors: [{ img_url: '/assets/author2.png',
                                   title: 'Curator Extraordinaire',
                                   name: 'First Author' },
                                 { img_url: '/assets/author.png',
                                   title: 'Second Banana',
                                   name: 'Second Author' }],
+      # rubocop:enable Style/AlignHash
       subsection?: true,
       top_title: 'Parent!',
       top_path: 'parent'
