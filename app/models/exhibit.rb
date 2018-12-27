@@ -199,7 +199,7 @@ class Exhibit < Cmless
 
       img = Nokogiri::HTML(cover_html).css('img').first
       %(<a href='#{section_uri}'>
-        <div style="background-image: url('#{img['src']}');" class='four-four-box exhibit-section'>
+        <div style="background-image: url('#{img['src'] if img}');" class='four-four-box exhibit-section'>
 
           <div class='exhibit-cover-overlay' style='background-color: ##{bckcolor};'></div>
 
