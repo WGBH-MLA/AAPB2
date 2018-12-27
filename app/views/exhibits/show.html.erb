@@ -41,13 +41,9 @@
 
         <hr>
 
-        <span id="exhibit-main" class="exhibit-main hide">
+        <span id="exhibit-main" class="exhibit-main exhibit-abbreviate">
           <%= @exhibit.main_formatted.html_safe %>
           <%= @exhibit.extended_html.html_safe %>
-        </span>
-
-        <span id="exhibit-abbrev" class="exhibit-main">
-          <%= @exhibit.main_abbrev.html_safe %>
         </span>
 
       </div>
@@ -207,7 +203,7 @@
 
     $(document).ready(function() {
       $('#more, #less').click(function() {
-        $('#exhibit-main, #exhibit-abbrev').slideToggle().toggleClass('hide');
+        $('#exhibit-main').toggleClass('exhibit-abbreviate');
         $('#more, #less').toggleClass('hide');
       })
     });

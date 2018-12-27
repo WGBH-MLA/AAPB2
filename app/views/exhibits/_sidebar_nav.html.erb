@@ -1,12 +1,13 @@
 <% if links.present? %>
 
   <div id="exhibit-section-menu" style="display:block;" >
+    <li id="exhibit-section-head" class="<%= @exhibit_color %>">
+      <img style="top: -1px; position: relative;" src="/assets/explore_exhibit<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-med">
+      Explore the exhibit
+      <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+    </li>
+
     <ul class="hide" id="exhibit-sections">
-      <li id="exhibit-section-head" class="<%= @exhibit_color %>">
-        <img style="top: -1px; position: relative;" src="/assets/explore_exhibit<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-med">
-        Explore the exhibit
-        <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
-      </li>
 
       <li class="exhibit-section-disabled item">
         <a class="<%= @exhibit_color %>" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>

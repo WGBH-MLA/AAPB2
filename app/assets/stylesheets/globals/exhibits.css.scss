@@ -69,6 +69,23 @@ a.exhibit-color:hover {
   font-size: 14px;
 }
 
+#exhibit-main {
+  display: block;
+}
+
+.exhibit-abbreviate {
+  min-height: 150px;
+  max-height: 150px;
+  height: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.exhibit-abbreviate p {
+  margin: 0;
+  display: inline;
+}
+
 #exgal-main  {
   margin-left: 0;
   margin-right: 0;
