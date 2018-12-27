@@ -84,7 +84,7 @@ class Exhibit < Cmless
           el.attribute('href').to_s.match('^/catalog/.+')
         end.map do |el|
           [
-            el.attribute('href').to_s.gsub('.*/catalog/', ''),
+            el.attribute('href').to_s.gsub('/catalog/', ''),
             (begin
                el.attribute('title').text
              rescue
