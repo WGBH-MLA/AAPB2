@@ -20,7 +20,7 @@ The <em>Georgia Gazette</em> Series was contributed to the American Archive of P
 [![Affirmative Action](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-m901z42x74)
 [![Fort Benning](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-v40js9jd38)
 [![Chinese New Year](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-vt1gh9cg1t)
-[![Clinton Trial](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_81-988gttr0)
+[![Clinton Trial](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-0k26970s1v)
 [![Floyd Adams](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-ww76t0j45w)
 [![Bosnian Peace Talks](https://thumb.ibb.co/mEyuJn/1.png)](/catalog/cpb-aacip_519-862b854f91)
 

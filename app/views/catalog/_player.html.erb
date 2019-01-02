@@ -8,7 +8,6 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
-
 <% content_for :head do %>
   <!-- without this, record page will fail to *initially* load/execute player.js -->
   <meta name="turbolinks-visit-control" content="reload">
@@ -23,6 +22,7 @@
     <% else %>
       <div class="col-sm-12 col-md-8 player col-md-offset-2">
     <% end %>
+
         <section class="videocontent">
         <%=
           @pbcore.media_srcs.map do |media_src|
@@ -108,6 +108,7 @@
     This content has not been digitized. Please contact the contributing organization(s) listed below.
   <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
     This content has not been digitized.
+
   <% end %>
 <% end %>
 

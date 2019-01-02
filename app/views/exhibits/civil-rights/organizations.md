@@ -1,15 +1,12 @@
 # Organizations
 
-2
+2                                        
 
 ## Summary
 
-![Marion S. Trikosko, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Organizations.jpg "Marion S. Trikosko, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963. U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.") 
-
 ## Extended
 
-Organizations profiled include: 
-
+Organizations profiled include:
 
 ### Congress of Racial Equality (CORE)
 
@@ -47,7 +44,7 @@ Organizations profiled include:
 
 - [The Civil Rights Lawyer in the South](/catalog/cpb-aacip_28-1g0ht2gg9n)
 
-### Southern Christian Leadership Conference (SCLC) 
+### Southern Christian Leadership Conference (SCLC)
 
 - [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
 - [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
@@ -70,10 +67,25 @@ Organizations profiled include:
 - [Walk to Freedom](/catalog/cpb-aacip_28-m61bk17469)
 - [Children of McComb](/catalog/cpb-aacip_28-sj19k46b34)
 
-Next: [People](/exhibits/civil-rights/people)
-
-## Main
+#### Next: [People](/exhibits/civil-rights/people)
 
 ## Resources
 
 - [Dynamics for Idealism: Volunteers for Civil RIghts, 1965-1982](http://www.disc.wisc.edu/archive/idealism/)
+
+## Main
+
+
+## Cover
+
+  <img title="Cover Image" alt="Black and white photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Organizations.jpg">
+
+
+## Gallery
+
+- <a class="type">image</a>
+  <img alt="Black and white photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Organizations.jpg">
+  <a class="caption-text">Marion S. Trikosko, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963.</a>
+  <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
+
+## Records

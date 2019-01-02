@@ -1,3 +1,7 @@
+.videocontent {
+  padding: 20px !important;
+}
+
 .exhibit-index {
 
   .thumbnail {
@@ -26,4 +30,532 @@
 
 .exhibit-breadcrumb {
   margin-top: -18px;
+}
+
+/* new */
+#main-toggle {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.exhibit-color {
+  color: #c01d28;
+}
+
+.exhibit-color-section {
+  color: #9d2064;
+}
+
+a.exhibit-color:link, a.exhibit-color:visited {
+  color: #c01d28 !important;
+}
+
+a.exhibit-color:hover {
+  color: #9d2064;
+  text-decoration: none;
+}
+
+.exhibit-hover {
+  color: #9d2064;
+  text-decoration: none;
+}
+
+.exhibit-main h3 {
+  color: #c01d28;
+  font-size: 20px;
+}
+
+.exhibit-main p {
+  font-size: 14px;
+}
+
+#exhibit-main {
+  display: block;
+}
+
+.exhibit-abbreviate {
+  min-height: 150px;
+  max-height: 150px;
+  height: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.exhibit-abbreviate p {
+  margin: 0;
+  display: inline;
+}
+
+#exgal-main  {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.exgal-main-margin {
+  margin-left: 4%;
+}
+
+#exgal-popup div.player section {
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+}
+
+.exgal-popups {
+  width: 100%;
+}
+
+.exgal-font {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.exgal-caption {
+  word-break: break-word;
+  font-size: 0.8rem;
+  margin: 4%;
+  margin-top: 1%;
+  line-height: 1.6em;
+}
+.exgal-modal-title {
+  margin-top: 4%;
+}
+
+.exgal-modal-caption {
+  font-size: 0.8rem;
+  margin: 4%;
+  margin-left: 0%;
+  margin-top: 1%;
+  line-height: 1.6em;
+}
+
+.exgal-button:hover {
+  color: #999;
+}
+
+
+.exgal-nav-font {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #000;
+}
+
+.exgal-nav {
+  margin-right: 4%;
+  margin-bottom: 4%;
+  margin-top: 2%;
+}
+
+.exgal-container {
+  overflow: contain;
+  background-color: #ddd;
+}
+
+.exrec-container {
+ background-color: #F0F;
+}
+
+.exgal-record {
+  margin: 4%;
+}
+
+.exgal-image {
+  object-fit: cover;
+}
+
+.exhibit-show-breadcrumb {
+
+  background-color: #FFF;
+  font-size: 14px;
+}
+
+.exhibit-show-breadcrumb  a, .exhibit-show-breadcrumb  a:hover, .exhibit-show-breadcrumb a:visited {
+
+  background-color: #FFF;
+  font-size: 14px;
+}
+
+#exhibit-sidebar-row {
+  margin-top: 1.2%;
+  min-height: 3.1em;
+}
+
+.exhibit-header {
+  background-size: cover;
+  background-image: url("/assets/exhibits_red_bar.png");
+  max-width: 1172px;
+  height: 60px;
+  h1 {
+    padding-left: 22px;
+    font-size: 36px;
+    font-weight: lighter;
+    line-height: 60px;
+    color: #fff;
+    margin: 0;
+  }
+}
+
+/*section menu*/
+#exhibit-section-menu {
+  font-size: 16px;
+  padding: 2%;
+  width: 90%;
+  background-color: #fff;
+  position: absolute;
+  border: 1px solid #ccc;
+
+  ul, li {
+    background-color: #fff !important;
+    list-style: none;
+    margin: 0;
+  }
+
+  li {
+    top: -20px;
+    text-align: left;
+    margin-right: 8%;
+    /*padding: 2%;*/
+  }
+
+  li.item:hover {
+    background-color: #ddd !important;
+    color: #9d2064;
+  }
+}
+
+.exhibit-notes {
+  margin-top: 8%;
+  padding: 4%;
+  background-color: #eee;
+  border: 1px solid #bbb;
+}
+
+.exhibit-sections {
+  border: 1px solid #ccc;
+
+  ul {
+    list-style: none;
+
+  }
+}
+
+#exhibit-section-head {
+  /*margin-left: 8%;*/
+  font-weight: bold;
+}
+
+.exhibit-section-container {
+  width: 100%;
+}
+
+.exhibit-section-disabled {
+  background-color: #ddd;
+}
+
+.hide {
+  display: none;
+}
+
+#exhibit-sections-bar-title {
+  margin-left: 1em;
+  padding-top: 1em;
+}
+
+.exhibit-sections-bar {
+  padding-bottom: 4%;
+  background-color: #ddd;
+}
+
+.exhibit-section {
+  background-size: cover;
+  width: 100%;
+  padding-bottom: 25%;
+}
+
+.author-img {
+  border-radius: 50% !important;
+}
+
+.author-txt h4 {
+  margin-bottom: 0;
+}
+
+.author-imgcon {
+  width: 33%;
+}
+
+.curator-title {
+  font-size: 28px;
+  font-weight: bold;
+  padding: 0.8em;
+  margin-bottom: 0%;
+}
+
+.exhibit-player {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  min-width: 100%;
+  padding: 0 !important;
+}
+
+.exgal-modal-height {
+  /*min-height: 100%;
+  max-height: 100%;
+  height: 100%;*/
+
+  min-height: 50vh;
+  max-height: 50vh;
+  height: 50vh;
+
+
+  /*display: flex;*/
+}
+
+.modal-content {
+  margin-top: 20vh;
+  min-height: 50vh !important;
+  height: 50vh !important;
+}
+
+#exgal-modal-nav {
+  margin-left: 6%;
+  position: absolute;
+  bottom: 1.6em;
+  width: 160px;
+  height: 10px;
+}
+
+#exgal-fullscreen-button {
+  z-index: 20;
+  background-image: url('/assets/fullscreen.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 1.5em;
+  top: 0.5em;
+  width: 2em;
+  height: 2em;
+}
+
+.breadcrumb > li + li:before {
+    color: #c55;
+    content: "◄ ";
+    padding: 0 5px;
+}
+
+.breadcrumb a {
+    color: #c55;
+    /*content: "◄ ";*/
+    /*padding: 0 5px;*/
+}
+
+.resource-link {
+  font-size: 18px;
+  /*line-height: 12px;*/
+}
+
+.exhibit-records-link {
+  padding: 2%;
+  margin-bottom: 5%;
+}
+
+.exhibit-records {
+  background-color: #c01d28;
+}
+
+.exhibit-records-section {
+  background-color: #9d2064;
+}
+
+a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:link, a.exhibit-records-section:visited {
+  color: #fff !important;
+}
+
+.icon-size {
+  max-height: 0.7em;
+  height: 0.7em;
+  min-height: 0.7em;
+  max-width: 0.7em;
+  width: 0.7em;
+  min-width: 0.7em;
+}
+
+.icon-med {
+  max-height: 1em;
+  height: 1em;
+  min-height: 1em;
+  max-width: 1em;
+  width: 1em;
+  min-width: 1em;
+}
+
+.icon-big {
+  max-height: 1.4em;
+  height: 1.4em;
+  min-height: 1.4em;
+  max-width: 1.4em;
+  width: 1.4em;
+  min-width: 1.4em;
+}
+
+#exgal-modal-close-con {
+  position: absolute;
+  bottom: 20px;
+  padding-right: 24%;
+  margin-bottom: 2%;
+  right: 0.6em;
+
+
+}
+
+#exgal-close-modal {
+}
+
+#exgal-close-modal img {
+  max-width: 3em;
+}
+
+.exhibit-cover-overlay {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 90%;
+  height:33%;
+  padding: 5%;
+  color: #fff;
+  opacity: 0.3;
+
+}
+
+.exhibit-cover-text {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 90%;
+  height:33%;
+  padding: 5%;
+  color: #fff;
+}
+
+.white-back {
+  background-color: #fff;
+}
+
+@media only screen and (max-width: 991px) {
+  #exhibit-section-menu {
+    margin-left: 58%;
+    width: 40%;
+  }
+
+  #exhibit-overview-title {
+    margin-top: 8%;
+  }
+
+  #exgal-modal-leftpane {
+    width: 100%;
+    display: block;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  #exgal-modal-rightpane {
+    width: 100%;
+    display: block;
+    padding-bottom: 10%;
+    background-color: #fff;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .exgal-modal-height {
+    display: inherit;
+  }
+
+  .exgal-modal-title {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 2%;
+  }
+
+  .exgal-modal-caption {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 2%;
+    /*margin-bottom: 6%;*/
+  }
+
+  .exgal-modal-source {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 2%;
+  }
+
+  #exgal-modal-spacer {
+  }
+
+  #exgal-modal-nav {
+    margin-left: 6%;
+    /*position: absolute;*/
+    /*bottom: 20px;*/
+    /*width: 160px;*/
+    /*height: 10px;*/
+  }
+
+  #exgal-modal-close {
+    width: 100%;
+    height: 10em;
+  }
+
+  #exgal-modal-close-con {
+
+    width: 3em;
+    position: absolute;
+    right: 2.6em;
+    bottom: 1.8em;
+  }
+
+  .modal-content {
+    margin-top: 20vh;
+    min-height: 55vh !important;
+  }
+
+  .exhibit-cover-overlay {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    height:33%;
+    padding: 5%;
+    color: #fff;
+    opacity: 0.3;
+
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .modal-content {
+    margin-top: 20vh;
+    min-height: 40vh !important;
+  }
+
+  #exgal-modal-close-con {
+
+    width: 3em;
+    position: absolute;
+    right: 2.6em;
+    bottom: -13.8em;
+  }
+  #exgal-modal-nav {
+    margin-left: 6%;
+
+    position: absolute;
+    bottom: -16.3em;
+    // width: 160px;
+    // height: 10px;
+  }
+
 }

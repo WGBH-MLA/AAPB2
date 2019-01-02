@@ -76,7 +76,7 @@ describe DownloadCleanIngest do
     "#{default_flags} --exhibits station-histories/dedication-ceremonies" => [
       # Choose the smallest exhibit we have, since the test will be hitting the AMS.
       # Perhaps it should be skipped?
-      /Updated solr record cpb-aacip_111-21ghx7d6/,
+      /Updated solr record cpb-aacip_221-76f1vwh1/,
       /\d+ \(100.0%\) succeeded/
     ],
     "#{default_flags} --just-reindex --query 'f[asset_type][]=Program&q=promise'" => [

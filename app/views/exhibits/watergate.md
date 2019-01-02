@@ -4,22 +4,15 @@
 
 ## Summary
 
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Herbert Block. <em>Late Returns.</em> Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225. A 1973 Herblock Cartoon, © The Herb Block Foundation.</caption>
-<tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg" alt="Herbert Block. Late Returns. Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225. A 1973 Herblock Cartoon, © The Herb Block Foundation."/></td></tr>
-</table>
-
 In February 1973, James Karayn, the president of the National Public Affairs Center for Television (NPACT), public broadcasting’s unit in Washington responsible for producing national news-related programming, had the daring idea of broadcasting the Senate Watergate hearings in full, or “gavel-to-gavel,” rebroadcasting each day’s complete proceedings in the evening for those unable to watch during the day. The result was one of the most popular series in public broadcasting history. From May 17 to November 15, Americans all over the country tuned in for the 8 PM ET taped coverage, catapulting a public television system in its infancy into the national consciousness. Viewers were captivated by the memorable personalities behind the senators’ table, the stories—equal parts fantastical, banal, and horrifying—told by the witnesses before the Committee, and the revelations that threatened to force President Richard Nixon out of office. And through it all, they had the steady, balanced commentary of anchors Robert MacNeil and Jim Lehrer, who stowed their editorializing to allow viewers to come to their own conclusions. This online exhibit presenting the evening rebroadcasts (as well as the subsequent broadcasts of the House Impeachment hearings) will allow contemporary viewers to experience the hearings as so many did in 1973, in full, “gavel-to-gavel.”
 
 ## Extended
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
-
-### Amanda Reichenbach
-Junior Fellow, Library of Congress
-
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
+  <a class="name">Amanda Reichenbach</a>
+  <a class="title">Junior Fellow, Library of Congress</a>
 
 ## Resources
 
@@ -52,3 +45,14 @@ Click play below to see highlights from NPACT's coverage of the Senate Watergate
 
 
 #### Next: [The Watergate Scandal, 1972-1974](/exhibits/watergate/the-watergate-scandal-1972-1974)
+
+## Cover
+  <img title="Cover Image" alt="Late Returns, a comic by Herbert Block" src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/latereturns.jpg">
+    <a class="caption-text">Herbert Block. <em>Late Returns.</em> Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225. A 1973 Herblock Cartoon, © The Herb Block Foundation.</a>
+    <a class="credit-link" href="https://www.loc.gov">Courtesy of the Library of Congress</a>
+
+## Records

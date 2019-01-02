@@ -1,0 +1,242 @@
+<% if gallery_info.present? %>
+
+  <div id="exgal-popup-container" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document" style="width: 90%;">
+      <div class="modal-content">
+
+        <div id="exgal-popup" class="exgal-modal-height">
+          <!-- here goeth thee modal sliides -->
+        </div>
+
+        <div class="row">
+          <div id="exgal-modal-spacer" class="col-md-8">
+          </div>
+
+          <div class="col-md-3 col-sm-8">
+
+            <div id="exgal-modal-nav" class="exgal-nav exgal-nav-font">
+
+              <span class="exgal-button exgal-back">Previous | </span>
+
+              <span class="exgal-count">
+                <span class="current-item">1</span>
+                of
+                <span><%= gallery_info.count %></span>
+              </span>
+              <span class="exgal-button exgal-forward"> | Next</span>
+            </div>
+
+          </div>
+
+          <div class="col-md-1 col-sm-4">
+            <div id="exgal-modal-close-con">
+
+              <a id="exgal-close-modal">
+                <img src="/assets/close.png">
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <div id="exgal-main" data-total-items="<%= gallery_info.count %>" data-current-item="1" class="exgal-container">
+
+    <div class="row">
+
+      <div class="col-md-12">
+
+        <div id="exgal-fullscreen-button">
+        </div>
+
+        <% gallery_info.each_with_index do |gal,i| %>
+
+          <!-- one modal container -->
+          <div class="exgal-<%= i+1 %> exgal-popups exgals <%= i != 0 ? 'hide' : '' %>">
+
+            <div class="row exgal-modal-height">
+
+              <div style="position: relative;" id="exgal-modal-leftpane" class="col-sm-8 col-md-8 col-lg-8 col-xs-12">
+
+                <%= render(partial: 'exhibits/gallery_player',
+                            locals: {
+                              modal: true,
+                              media_info: gal[:media_info]
+                            }) %>
+              </div>
+
+              <div id="exgal-modal-rightpane" class="col-sm-4 col-md-4 col-lg-4 col-xs-12">
+
+                <div class="exgal-modal-title white-back">
+                  <% if gal[:asset_url] %>
+                    <h4 class="exgal-font"><a class="<%= @exhibit_color %>" href="<%= gal[:asset_url] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h4>
+                  <% end %>
+
+                  <div class="exgal-modal-caption">
+                    <%= gal[:caption] %>
+                  </div>
+                </div>
+
+                <% if gal[:credit_url] %>
+                  <a href="<%= gal[:credit_url] %>">
+                    <h4 class="exgal-modal-source exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin"><%= gal[:source_text] %></h4>
+                  </a>
+                <% else %>
+                  <h4 class="exgal-modal-source exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin"><%= gal[:source_text] %></h4>
+                <% end %>
+              </div>
+
+            </div>
+          </div>
+
+          <!-- each gallery item container -->
+          <div class="exgal-<%= i+1 %> exgals <%= i != 0 ? 'hide' : '' %>">
+            <div class="row">
+
+              <div class="col-md-12">
+
+                <div class="four-three-box">
+
+                  <!-- whole gallery -->
+                  <%= render(partial: 'exhibits/gallery_player',
+                              locals: {
+                                modal: false,
+                                media_info: gal[:media_info]
+                              }) %>
+                </div>
+              </div>
+            </div>
+
+            <% if gallery_info.present? %>
+              <div class="row">
+                <div class="col-md-12">
+
+                  <h4 class="<%= @exhibit_color %> exgal-title"><%= gal[:title] %></h4>
+
+                  <div class="exgal-caption">
+                    <%= gal[:caption] %>
+                  </div>
+
+                  <% if gal[:credit_url] %>
+                    <a href="<%= gal[:credit_url] %>">
+                      <h4 class="exgal-source exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin"><%= gal[:source_text] %></h4>
+                    </a>
+                  <% else %>
+                    <h4 class="exgal-source exgal-title <%= @exhibit_color %> exgal-font italic exgal-main-margin"><%= gal[:source_text] %></h4>
+                  <% end %>
+
+                </div>
+              </div>
+
+            <% end %>
+          </div>
+
+        <% end %>
+
+        <div class="row">
+
+          <div class="col-md-12">
+
+            <div class="exgal-nav exgal-nav-font" style="float:right;">
+              <span class="exgal-button exgal-back">Previous | </span>
+
+              <span class="exgal-count">
+                <span class="current-item">1</span>
+                of
+                <span><%= gallery_info.count %></span>
+              </span>
+              <span class="exgal-button exgal-forward"> | Next</span>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <link href="http://vjs.zencdn.net/5.11.7/video-js.css" rel="stylesheet" data-turbolinks-track>
+  <script src="http://vjs.zencdn.net/5.11.7/video.js"></script>
+  <!-- video-js support for IE 8 -->
+  <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+  <!-- Need VideoJS for our player.js file -->
+  <%= javascript_include_tag 'player' %>
+
+  <script type="text/javascript">
+
+    $(document).ready(function() {
+      // handle gallery buttons
+      $('.exgal-button').click(function() {
+
+        var main = $('#exgal-main');
+        var total_items = parseFloat(main.attr("data-total-items"));
+        var current_item = parseFloat(main.attr("data-current-item"));
+
+        if($(this).hasClass('exgal-forward')) {
+
+          var next_item = current_item + 1;
+
+          if(next_item == total_items+1){
+            return false
+          }
+
+          if(next_item == total_items){
+            $(this).addClass('hide');
+          } else {
+            $('.exgal-back').removeClass('hide');;
+          }
+
+        } else {
+
+          var next_item = current_item - 1;
+          if(next_item == 0){
+            return false;
+          }
+
+          if(next_item == 1){
+            $(this).addClass('hide');
+          } else {
+            $('.exgal-forward').removeClass('hide');;
+          }
+        }
+
+        $('.exgals').addClass('hide');
+        $('.exgal-' + next_item).removeClass('hide');
+        main.attr("data-current-item", next_item);
+        $('.current-item').text(next_item);
+      });
+
+      // move modal gallery slides into modal
+      $('#exgal-popup').prepend( $('.exgal-popups') );
+
+      // nav with keyboard
+      $(document).keydown(function(e) {
+        var tag = e.target.tagName.toLowerCase();
+        if ( e.which === 37 || e.which == 39 && tag != 'input' && tag != 'textarea') {
+          if(e.which == 37) {
+            $('.exgal-back:visible')[0].click();
+          } else if(e.which == 39) {
+            $('.exgal-forward:visible')[0].click();
+          }
+        }
+      });
+
+      $('#exgal-close-modal').click(function() {
+        $('#exgal-popup-container').modal('hide')
+      }).hover(function() {
+        $(this).find('img').attr('src', '/assets/close2.png').addClass('exhibit-hover').removeClass('<%= @exhibit_color %>');
+      }, function() {
+        $(this).find('img').attr('src', '/assets/close.png').removeClass('exhibit-hover').addClass('<%= @exhibit_color %>');
+      });
+
+      $('#exgal-fullscreen-button').click(function() {
+        $('#exgal-popup-container').modal('show');
+
+      });
+    });
+  </script>
+<% end %>

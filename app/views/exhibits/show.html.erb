@@ -1,60 +1,218 @@
-<% content_for :sidebar do %>
-
-  <%= render partial: 'sidebar_nav',
-             locals: {
-                title: 'Sections',
-                links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
-              } %>
-
-  <div class="panel panel-primary">
-    <div class="panel-heading">
-      <h3 class="panel-title">Curator</h3>
-    </div>
-    <div class="panel-body">
-      <%= @exhibit.author_html.html_safe %>
-    </div>
-  </div>
-
-  <%= render(partial: 'sidebar_nav',
-             locals: {
-                title: 'Resources',
-                links: @exhibit.resources
-              }) if !@exhibit.resources.empty? %>
-
-<% end %>
-
 <% content_for :main do %>
+  <% @exhibit_color = @exhibit.subsection? ? 'exhibit-color-section' : 'exhibit-color' %>
 
-  <ol class="breadcrumb hidden-xs" style="margin-top: 0px;">
-    <li><a href="/exhibits">Exhibits</a></li>
+  <ol class="<%= @exhibit_color %> breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
+    <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Exhibits</a></li>
+
     <% @exhibit.ancestors.map do |ancestor| %>
+
       <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
+
     <% end %>
+
     <li><%= @exhibit.title %></li>
   </ol>
 
-  <%= @exhibit.summary_html.html_safe %>
+  <div class="row" style="margin-bottom: 4%;">
 
-  <%= @exhibit.extended_html.html_safe %>
+    <div class="col-md-8">
 
-  <% if @exhibit.items.count > 0 %>
-    <div class="panel panel-primary view-all-gallery">
-      <div class="panel-body">
-        <div class="row">
-          <div class="col-sm-9"><h3><%= @exhibit.title %></h3></div>
-          <div class="col-sm-3"><a class="btn btn-primary" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>" data-no-turbolink='true'>Show All Items</a></div>
+      <div id="exhibit-sidebar-row" class="row">
+
+        <div class="col-md-8"></div>
+
+        <div class="col-md-4">
+          <%= render partial: 'sidebar_nav',
+                     locals: {
+                        links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
+                      } %>
+        </div>
+      </div>
+
+      <div class="row" style="margin: 0;">
+
+        <h3 id="exhibit-overview-title" class="<%= @exhibit_color %>">
+          <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
+        </h3>
+
+        <span class="exhibit-main">
+          <%= @exhibit.summary_html.html_safe %>
+        </span>
+
+        <hr>
+
+        <span id="exhibit-main" class="exhibit-main exhibit-abbreviate">
+          <%= @exhibit.main_formatted.html_safe %>
+          <%= @exhibit.extended_html.html_safe %>
+        </span>
+
+      </div>
+
+      <div class="row">
+
+        <span class="<%= @exhibit_color %>" style="float: right;">
+          <span id="more">
+            Expand to read more <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+          </span>
+
+          <span id="less" class="hide">
+            Read less <img src="/assets/read_less<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+          </span>
+        </span>
+
+      </div>
+    </div>
+
+    <div class="col-md-4" style="padding-right: 0; ">
+
+      <% if @exhibit.items.count > 0 %>
+        <% color_class = @exhibit.subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
+
+        <div class="<%= color_class %> exhibit-records-link">
+          <img src="/assets/eye2.png" class="icon-big" style="top: -1px; position: relative;">
+          <a class="<%= color_class %>" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>">View records from exhibit section</a>
+
+        </div>
+      <% end %>
+
+      <!-- whole gallery -->
+      <%= render(partial: 'exhibits/gallery',
+                  locals: {
+                    gallery_info: @exhibit.gallery
+                  }) %>
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="exhibit-sections-bar" style="">
+
+      <h3 id="exhibit-sections-bar-title" class="<%= @exhibit_color %>">Exhibit Sections</h3>
+
+      <div class="row" style="margin:0;">
+
+        <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('resources') || ex.path.end_with?('notes')) } %>
+
+        <!-- exhibits -->
+        <% exes.first.each do |exhibit| %>
+
+          <div class="col-md-3">
+            <div class="exhibit-section-container">
+              <%= exhibit.cover.to_s.html_safe %>
+            </div>
+          </div>
+
+        <% end %>
+
+        <div class="col-md-3">
+          <div class="exhibit-section-container">
+
+            <!-- notez and resourcys -->
+            <% exes.last.each do |exhibit| %>
+
+              <%= exhibit.cover.to_s.html_safe %>
+
+            <% end %>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <div class="row" style="">
+
+    <div class="col-md-4">
+
+      <% authors = @exhibit.authors %>
+
+      <div class="row" style="margin:0;">
+
+        <h3 class="curator-title">Curator<%= authors.count > 1 ? 's' : '' %></h3>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12" style="margin-left: 4%;">
+
+          <!-- multiple authors where available -->
+          <%= render(partial: 'exhibits/authors',
+            locals: {
+              authors: authors
+            }) %>
+
         </div>
       </div>
     </div>
-  <% end %>
-  <br/>
 
-  <%= @exhibit.main_formatted.html_safe %>
+    <div class="col-md-8">
+
+      <div class="row" style="">
+
+        <h3 class="curator-title">Additional Resources</h3>
+      </div>
+
+      <div class="row" style="margin-left: 0;">
+        <% res = @exhibit.resources; left, right = res.each_slice( (res.size/2.0).round ).to_a if res.count > 0 %>
+
+        <% if left %>
+          <div class="col-md-6">
+            <% left.each do |r| %>
+
+              <div class="" style="margin-bottom: 4%;">
+                <a class="exhibit-color resource-link" href="<%= r[1] %>">
+                  <img src="/assets/external_link.png" class="icon-size">
+                  <%= r[0] %>
+
+                </a>
+              </div>
+            <% end %>
+          </div>
+        <% end %>
+        <% if right %>
+          <div class="col-md-6">
+            <% right.each do |r| %>
+
+              <div class="" style="margin-bottom: 4%;">
+                <a class="exhibit-color resource-link" href="<%= r[1] %>">
+                  <img src="/assets/external_link.png" class="icon-size">
+                  <%= r[0] %>
+
+                </a>
+              </div>
+            <% end %>
+          </div>
+        <% end %>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- records -->
+
+  <div class="hide">
+    <%= render(partial: 'exhibits/records',
+                locals: {
+                  records: @exhibit.records
+                }) %>
+  </div>
+
+  <script type="text/javascript">
+
+    $(document).ready(function() {
+      $('#more, #less').click(function() {
+        $('#exhibit-main').toggleClass('exhibit-abbreviate');
+        $('#more, #less').toggleClass('hide');
+      })
+    });
+
+  </script>
 
 <% end %>
 
 <%= render partial: 'shared/title_sidebar_main',
            locals: {
-             sidebar: yield(:sidebar),
              main: yield(:main)
            } %>

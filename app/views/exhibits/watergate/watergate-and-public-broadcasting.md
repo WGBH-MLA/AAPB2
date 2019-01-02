@@ -4,11 +4,6 @@
 
 ## Summary
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Joseph Papin. <em>[Television cameras at Senate Watergate hearings]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53333.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras-Thumbnail.jpg" alt="Joseph Papin Sketch. Joseph Papin (1931-1992). Television cameras at Senate Watergate hearings, 1973. Prints and Photographs Division, Library of Congress."/></a></td></tr>
-</table>
-
 The Watergate coverage is significant, not only insofar as the hearings themselves are significant, but also as a great moment in public television history. In the years preceding the coverage, pressure from the Nixon Administration had put in question whether public television should carry public affairs programs at all. The Watergate coverage answered that question with a definitive ‘yes’. In the years before C-SPAN, no network had ever broadcast full hearings “gavel-to-gavel” in prime time before. This format, which allowed viewers to draw their own conclusions from the evidence, expanded public television’s viewership by orders of magnitude. For a summer, viewers were glued to their screens, often past midnight, watching such personalities as Sam Ervin, Howard Baker, John Dean, and John Ehrlichman discuss what increasingly became a constitutional crisis.
 
 The broadcasts were so successful that public broadcasting continued to use the format for future political events, including the House impeachment inquiry a few months later. They also launched the partnership of anchors Robert MacNeil and Jim Lehrer who would go on to host the program that today is called the *PBS NewsHour*. To learn more about the substantial impact Watergate had on the history of public broadcasting, please see the following essay. To jump past the background to a discussion of the coverage itself, click “Gavel-to-Gavel”: The Senate Hearings Open on Public Television in the “jump to” section.
@@ -224,3 +219,14 @@ What better way to learn from a tragedy than to watch, gavel-to-gavel, how Ameri
 #### Next: [Cast of Characters](/exhibits/watergate/cast-of-characters)
 
 ## Main
+
+## Cover
+  <img title="Cover Image" alt="Television cameras at Senate Watergate hearings, a cartoon by Joseph Papin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras-Thumbnail.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras.jpg">
+    <a class="caption-text">Joseph Papin. <em>[Television cameras at Senate Watergate hearings]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53333.</a>
+    <a class="credit-link" href="https://www.loc.gov">Courtesy of the Library of Congress</a>
+
+## Records

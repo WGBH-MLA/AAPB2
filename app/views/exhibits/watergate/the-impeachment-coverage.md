@@ -4,8 +4,6 @@
 
 ## Summary
 
-![House hearing room](https://s3.amazonaws.com/americanarchive.org/exhibits/House-hearing-room.jpg "House hearing room")
-
 In addition to NPACT's coverage of the Senate Watergate hearings, AAPB has recordings of the 7 days of public hearings of the House Judiciary Committee's impeachment proceedings. Each day is divided into 1-7 parts that can be accessed by clicking on the hyperlinked numbers. Transcripts from the hearings (although not of the commentary before and after) are available through HathiTrust Digital Library (http://www.hathitrust.org/) and ProQuest Congressional (https://congressional.proquest.com)  by clicking on the transcript link. For a PDF of the full episode guide, click [here].
 
 ## Extended
@@ -124,7 +122,13 @@ In addition to NPACT's coverage of the Senate Watergate hearings, AAPB has recor
 
 ## Main
 
+## Cover
+  <img title="Cover Image" alt="U.S. House of Representatives Hearing Room" src="https://s3.amazonaws.com/americanarchive.org/exhibits/House-hearing-room.jpg">
 
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/House-hearing-room.jpg">
+    <a class="caption-text">U.S. House of Representatives Hearing Room</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=1973+Watergate+Hearings&f[access_types][]=digitized">Courtesy of WETA and the Library of Congress</a>
 
-
-
+## Records

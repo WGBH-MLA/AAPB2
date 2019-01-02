@@ -17,7 +17,7 @@ require_relative '../../lib/caption_converter'
 require_relative 'transcript_file'
 require_relative 'caption_file'
 
-class PBCore # rubocop:disable Metrics/ClassLength
+class PBCore
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods

@@ -4,14 +4,12 @@
 
 ## Summary
 
-![Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.](https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Places.jpg "Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965. Prints and Photographs Division, Library of Congress.")
-
 ## Extended
 
 Locales discussed in this exhibit range across nine states:
 
 ### Alabama
-#### Birmingham 
+#### Birmingham
 
 -	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
 -	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
@@ -132,12 +130,26 @@ Locales discussed in this exhibit range across nine states:
 
 - [On Freedom Road by Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
 
-Next: [Organizations](/exhibits/civil-rights/organizations)
-
-## Main
+#### Next: [Organizations](/exhibits/civil-rights/organizations)
 
 ## Resources
 
 - [Civil Rights Greenboro](http://libcdm1.uncg.edu/cdm/landingpage/collection/CivilRights)
 - [Civil Rights in Mississippi Digital Archive](http://digilib.usm.edu/crmda.php)
 - [Freedom Now!](http://cds.library.brown.edu/projects/FreedomNow/)
+
+## Main
+
+
+## Cover
+
+  <img title="Cover Image" alt="Black and white photograph" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Places.jpg">
+
+## Gallery
+
+- <a class="type">image</a>
+  <img alt="Black and white photograph" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_Places.jpg">
+  <a class="caption-text">Peter Pettus, photographer. Civil rights march from Selma to Montgomery, Alabama, 1965.</a>
+  <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of Prints and Photographs Division, Library of Congress.</a>
+
+## Records

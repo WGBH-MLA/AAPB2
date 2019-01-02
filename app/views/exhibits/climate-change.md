@@ -2,7 +2,6 @@
 
 ## Summary
 
-![The Blue Marble; Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg "The Blue Marble; Source: NASA")
 Climate scientists and activists have used the venue of public broadcasting to
 discuss climate change for more than a quarter of a century. They have
 repeatedly communicated the science of human-driven climate change and its
@@ -21,13 +20,11 @@ present.
 
 ## Extended
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
-
-### Casey E. Davis Kaufman
-AAPB Project Manager
-WGBH
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg">
+  <a class="name">Casey E. Davis Kaufman</a>
+  <a class="title">AAPB Project Manager - WGBH</a>
 
 ## Resources
 
@@ -48,3 +45,15 @@ In the thirty-four years since the first Earth Day, environmentalists have strug
 In 1989, one year after [Dr. James Hansen](/catalog/cpb-aacip_15-rj48p5vm8b), Director of the NASA Goddard Institute for Space Studies, became the first person to testify before Congress about the potential threat of global warning, Minnesota Public Radio interviewed [Dean Abrahamson](/catalog/cpb-aacip_43-4947ds3w), Professor of Public Affairs and Director of the Global Environmental Policy Project at Humphrey Institute. When asked about scientific views on the potential for climate change, Professor Abrahamson replied, "There is a scientific consensus and has been for a number of years that the greenhouse effect is real, that it is coming now, that we're reaching a very critical stage and unless something is done, there will be climatic change within the next few decades, greater than the Earth has experienced for hundreds of thousands of years."
 
 In this exhibit, programming and recordings focused on climate change have been organized in six sections to highlight the various conversations and topics covered by public broadcasting, from as early as 1970, the beginning of what is often considered the “environmental decade,” through today.
+
+## Cover
+  <img title="Cover Image" alt="Earth from Outer Space" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="Earth from Outer Space" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg">
+    <a class="caption-text">The Blue Marble</a>
+    <a class="credit-link" href="https://www.nasa.gov/">Courtesy of NASA.</a>
+
+
+## Records

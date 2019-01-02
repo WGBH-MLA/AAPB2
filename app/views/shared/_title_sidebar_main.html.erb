@@ -1,4 +1,4 @@
-<div class="page-header">
+<div class="exhibit-header">
   <h1><%= 
     # "title || @page_title" doesn't work
     if defined? title 
@@ -11,14 +11,8 @@
 <div class="row">
   <div class="region clearfix">
 
-    <!-- START: Left Column -->
-    <div class="col-md-4 column">
-      <%= sidebar %>
-    </div>
-    <!-- END: Left Column -->
-
     <!-- START: Main Column -->
-    <div class="col-md-8">
+    <div class="col-md-12">
       <%= main %>
     </div>
     <!-- END: Main Column -->

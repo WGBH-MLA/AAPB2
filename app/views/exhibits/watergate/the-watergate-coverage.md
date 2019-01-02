@@ -4,8 +4,6 @@
 
 ## Summary
 
-![The Committee](https://s3.amazonaws.com/americanarchive.org/exhibits/Commmittee.jpg "The Committee")
-
 The American Archive of Public Broadcasting holds the full run of NPACT's coverage of the Senate Watergate hearings. Each day is divided into 2-7 parts that can be accessed by clicking on the hyperlinked numbers. To watch a specific person testify, click on their name. Transcripts from the hearings (although not of the commentary before and after) are available through HathiTrust Digital Library (http://www.hathitrust.org/)  by clicking on the volume and book number listed. For a PDF of the full episode guide, click [here](https://s3.amazonaws.com/americanarchive.org/exhibits/Watergate_Episode_Guide.pdf).
 
 ## Extended
@@ -811,6 +809,13 @@ The American Archive of Public Broadcasting holds the full run of NPACT's covera
 
 ## Main
 
+## Cover
+  <img title="Cover Image" alt="The Committee for the Watergate Hearings" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Commmittee.jpg">
 
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Commmittee.jpg">
+    <a class="caption-text">The Committee for the Watergate Hearings</a>
+    <a class="credit-link"></a>
 
-
+## Records
