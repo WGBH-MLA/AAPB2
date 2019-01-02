@@ -78,13 +78,13 @@ class Exhibit < Cmless
   def items
     @items ||= begin
 
-      doc = Nokogiri::HTML(summary_html + extended_html + main_html + head_html)
+      doc = Nokogiri::HTML(summary_html + extended_html + main_html + head_html + records_html)
       hash = Hash[
         doc.xpath('//a').select do |el|
-          el.attribute('href').to_s.match('^/catalog/.+')
+          el.attribute('href').to_s.match('^/catalog/.+') || el.attribute('href').to_s.match('^http://americanarchive.org/catalog/.+')
         end.map do |el|
           [
-            el.attribute('href').to_s.gsub('/catalog/', ''),
+            el.attribute('href').to_s.gsub('http://americanarchive.org', '').gsub('/catalog/', ''),
             (begin
                el.attribute('title').text
              rescue
