@@ -85,7 +85,7 @@ describe DownloadCleanIngest do
       /Processed .*221-76f1vwh1.pbcore/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
-      /13 \(100.0%\) succeeded/
+      /2 \(100.0%\) succeeded/
     ],
 
     # Flags expected to succeed:
