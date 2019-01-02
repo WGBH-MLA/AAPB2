@@ -73,10 +73,10 @@ describe DownloadCleanIngest do
       /Updated solr record 1234/,
       /1 \(100.0%\) succeeded/
     ],
-    "#{default_flags} --exhibits historic-preservation/marginalized-perspectives" => [
+    "#{default_flags} --exhibits station-histories/dedication-ceremonies" => [
       # Choose the smallest exhibit we have, since the test will be hitting the AMS.
       # Perhaps it should be skipped?
-      /Updated solr record cpb-aacip_80-87pnwmp2/,
+      /Updated solr record cpb-aacip_221-76f1vwh1/,
       /\d+ \(100.0%\) succeeded/
     ],
     "#{default_flags} --just-reindex --query 'f[asset_type][]=Program&q=promise'" => [
