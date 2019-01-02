@@ -251,6 +251,7 @@ class PBCore
     nil
   end
   def transcript_content
+    return nil unless transcript_src
     return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
     return TranscriptFile.new(id).text if TranscriptFile.text_file_present?(id)
     caption_file = CaptionFile.new(id)

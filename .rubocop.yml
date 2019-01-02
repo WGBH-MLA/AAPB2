@@ -5,6 +5,7 @@ AllCops:
   Exclude:
     - 'db/**/*.rb'
     - 'vendor/**/*'
+    - 'lib/wp_data.rb'
 
 Metrics/ClassLength:
   Enabled: false

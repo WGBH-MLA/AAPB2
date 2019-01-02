@@ -3,10 +3,11 @@ require 'nokogiri'
 
 class TranscriptConverter
   def self.json_parts(json)
+    parsed_json = JSON.parse(json)
     Nokogiri::XML::Builder.new do |x|
       x.div(class: 'root') do
         para_counter = 1
-        aggregate_transcript_parts(JSON.parse(json)).each do |part|
+        aggregate_transcript_parts(parsed_json).each do |part|
           x.div(class: 'transcript-row') do
             x.span(' ', class: 'play-from-here', 'data-timecode' => as_timestamp(part['start_time']))
             x.div(
@@ -58,6 +59,7 @@ class TranscriptConverter
   def self.aggregate_transcript_parts(json)
     working_parts = []
     aggregated_parts = []
+    return working_parts unless json['parts']
     speaker_id = json['parts'][0]['speaker_id']
 
     json['parts'].each do |part|

@@ -4,17 +4,24 @@ class WPData
   end
 
   def fetch
-    return Curl.get('https://public-api.wordpress.com/wp/v2/sites/americanarchivepb.wordpress.com/posts').body
-  rescue Curl::Err => e
-    puts e.inspect
-    logger.error "failed to receive wp data. dangit! #{e.backtrace}"
-    ''
+    Curl.get('https://public-api.wordpress.com/wp/v2/sites/americanarchivepb.wordpress.com/posts').body
+  rescue Curl::Err::GotNothingError => e
+    default_post
   end
 
   def format_posts(resp_body, num)
-    posts = JSON.parse(resp_body)
+    begin
+      posts = JSON.parse(resp_body)
+    rescue JSON::ParserError
+      posts = JSON.parse(default_post)
+    end
+    
     Array.new(num) do |n|
       { link: posts[n]['link'], title: posts[n]['title']['rendered'], content: posts[n]['content']['rendered'] }
     end
+  end
+
+  def default_post
+    File.read('spec/data/wpdatamock')
   end
 end
