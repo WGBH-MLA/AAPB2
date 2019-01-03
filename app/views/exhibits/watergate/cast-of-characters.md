@@ -929,7 +929,12 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 ## Main
 
 ## Cover
+  <img title="Cover Image" alt="Sam J. Ervin Jr." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin.jpg">
 
 ## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Ervin.jpg">
+    <a class="caption-text">Sam J. Ervin Jr., Committee chairman. See below for the rest of the people involved.</a>
+    <a class="credit-link" href="http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=1973+Watergate+Hearings&f[access_types][]=digitized">Courtesy of WETA and the Library of Congress</a>
 
 ## Records

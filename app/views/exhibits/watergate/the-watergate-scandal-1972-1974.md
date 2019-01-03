@@ -128,6 +128,7 @@ Watergate was a crucial inflection point in American political history that rema
 ## Main
 
 ## Cover
+  <img title="Cover Image" alt="Cropped from a Joseph Papin cartoon of the Senate Select Committee" src="https://s3.amazonaws.com/americanarchive.org/exhibits/watergate-scandal-cover.png">
 
 ## Gallery
 

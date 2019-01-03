@@ -1,4 +1,4 @@
-# Resources
+# Additional Resources
 
 7
 
@@ -127,5 +127,3 @@ Zimmer, Troy A. "The Impact of Watergate on the Public's Trust in People and Con
 ## Main
 
 ## Gallery
-
-
