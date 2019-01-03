@@ -37,7 +37,16 @@ describe Exhibit do
       resources_html: %(<ul>\n<li><a href=\"http://loc.gov\">LoC</a></li>\n<li><a href=\"http://wgbh.org\">WGBH</a></li>\n</ul>),
       resources: [['LoC', 'http://loc.gov'], ['WGBH', 'http://wgbh.org']],
       main_html: %(<p>Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. \n<a href=\"/catalog/cpb-aacip_80-12893j6c\">item 1</a>\n<a href=\"/catalog/cpb-aacip_37-31cjt2qs\">item 2</a>\n<a href=\"/catalog/cpb-aacip_192-1937pxnq\" title=\"fuller description\">item 3</a></p>),
-      cover: %(<a href='/exhibits/parent/child/grandchild'>\n        <div style=\"background-image: url('https://s3... class='exhibit-cover-text'>\n            Grandchild!\n          </div>\n        </div>\n      </a>),
+      cover: %(<a href='/exhibits/parent/child/grandchild'>
+        <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
+
+          <div class='exhibit-cover-overlay bg-color-red'></div>
+
+          <div class='exhibit-cover-text'>
+            Grandchild!
+          </div>
+        </div>
+      </a>),
 
       cover_html: %(<p><img title=\"cover title 2\" alt=\"Alt cover 2\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg\"></p>),
       gallery: [{ credit_url: 'http://www.cpb.org/link1',

@@ -191,7 +191,7 @@ class Exhibit < Cmless
       %(<a href='#{section_uri}'>
         <div style="background-image: url('#{img['src'] if img}');" class='four-four-box exhibit-section'>
 
-          <div class='exhibit-cover-overlay bg-color-#{['purple','pink','red'].sample}'></div>
+          <div class='exhibit-cover-overlay bg-color-#{%w(purple pink red).sample}'></div>
 
           <div class='exhibit-cover-text'>
             #{title}
