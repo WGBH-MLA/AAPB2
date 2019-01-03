@@ -38,6 +38,14 @@
   font-weight: bold;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.right-justify {
+  text-align: right;
+}
+
 .exhibit-color {
   color: #c01d28;
 }
@@ -50,6 +58,10 @@ a.exhibit-color:link, a.exhibit-color:visited {
   color: #c01d28 !important;
 }
 
+a.exhibit-color-section:link, a.exhibit-color-section:visited {
+  color: #9d2064 !important;
+}
+
 a.exhibit-color:hover {
   color: #9d2064;
   text-decoration: none;
@@ -58,6 +70,10 @@ a.exhibit-color:hover {
 .exhibit-hover {
   color: #9d2064;
   text-decoration: none;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 .exhibit-main h3 {
@@ -235,15 +251,6 @@ a.exhibit-color:hover {
   border: 1px solid #bbb;
 }
 
-.exhibit-sections {
-  border: 1px solid #ccc;
-
-  ul {
-    list-style: none;
-
-  }
-}
-
 #exhibit-section-head {
   /*margin-left: 8%;*/
   font-weight: bold;
@@ -259,6 +266,17 @@ a.exhibit-color:hover {
 
 .hide {
   display: none;
+}
+
+
+#exhibit-sections {
+  a.section {
+    float: right;
+    text-decoration: none;
+  }
+  a.section-black {
+    color: #000;
+  }
 }
 
 #exhibit-sections-bar-title {

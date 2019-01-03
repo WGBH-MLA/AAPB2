@@ -51,11 +51,11 @@
       <div class="row">
 
         <span class="<%= @exhibit_color %>" style="float: right;">
-          <span id="more">
+          <span id="more" class="bold">
             Expand to read more <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
           </span>
 
-          <span id="less" class="hide">
+          <span id="less" class="hide bold">
             Read less <img src="/assets/read_less<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
           </span>
         </span>
@@ -69,8 +69,8 @@
         <% color_class = @exhibit.subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
 
         <div class="<%= color_class %> exhibit-records-link">
-          <img src="/assets/eye2.png" class="icon-big" style="top: -1px; position: relative;">
-          <a class="<%= color_class %>" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>">View records from exhibit section</a>
+          <img src="/assets/eye2.png" class="icon-big" style="top: 6px; position: absolute;">
+          <a style="display: block;" class="<%= color_class %> text-center" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>"><%= @exhibit.subsection? ? 'View records from exhibit section' : 'View all exhibit records' %></a>
 
         </div>
       <% end %>
@@ -92,7 +92,7 @@
 
       <div class="row" style="margin:0;">
 
-        <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('resources') || ex.path.end_with?('notes')) } %>
+        <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('learning-goals') || ex.path.end_with?('notes')) } %>
 
         <!-- exhibits -->
         <% exes.first.each do |exhibit| %>

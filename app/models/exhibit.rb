@@ -164,7 +164,7 @@ class Exhibit < Cmless
   def cover
     section_uri = %(/exhibits/#{path})
 
-    if section_uri.end_with?('resources')
+    if section_uri.end_with?('learning-goals')
       # learning goals nnooootes
       %(<a href='#{section_uri}'><div class='exhibit-notes'>
         <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}'>Resource:</div>

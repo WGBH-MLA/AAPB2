@@ -1,31 +1,33 @@
 <% if links.present? %>
 
   <div id="exhibit-section-menu" style="display:block;" >
-    <li id="exhibit-section-head" class="<%= @exhibit_color %>">
-      <img style="top: -1px; position: relative;" src="/assets/explore_exhibit<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-med">
-      Explore the exhibit
-      <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+    <li style="text-align:center;" id="exhibit-section-head" class="exhibit-color-section">
+      <img style="top: -1px; position: relative;" src="/assets/explore_exhibit_section.png" class="icon-med">
+      <div style="display: inline-block;">
+        Explore the exhibit
+        <img src="/assets/read_more_section.png" class="icon-size">
+      </div>
     </li>
 
     <ul class="hide" id="exhibit-sections">
 
       <li class="exhibit-section-disabled item">
-        <a class="<%= @exhibit_color %>" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>
+        <a class="<%= @exhibit_color %> section" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>
       </li>
 
       <% sortedlinks = links.partition {|l| !(l[0] == 'Resources' || l[0] == 'Notes') } %>
 
       <% sortedlinks.first.each do |name,link,subs=nil| %>
 
-        <li class="item <%= current_page(link)  %>">
-          <%= link ? link_to(name, link, class: %(exhibit-color left-justify)) : content_tag('a', name)%>
+        <li style="float:right; display: block; width: 100%;" class="item <%= current_page(link)  %>">
+          <%= link ? link_to(name, link, class: %(right-justify section-black section)) : content_tag('a', name)%>
           <%# <a> in either case for consistent style. %>
         </li>
 
         <% if subs %><%# This could be recursive... %>
-          <ul>
+          <ul style="float:right;">
             <% subs.each do |name,link| %>
-              <li>&bull; <%= link_to(name, link) %></li>
+              <li class="right-justify">&bull; <%= link_to(name, link, class: %(section-black)) %></li>
             <% end %>
           </ul>
         <% end %>
