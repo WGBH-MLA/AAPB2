@@ -242,7 +242,7 @@ class CatalogController < ApplicationController
         end
 
         if can? :access_transcript, @pbcore
-          @show_transcript = true
+          @show_transcript = @pbcore.transcript_status.nil? ? false : true
 
           if @pbcore.transcript_status == PBCore::CORRECT_TRANSCRIPT
             @transcript_open = true

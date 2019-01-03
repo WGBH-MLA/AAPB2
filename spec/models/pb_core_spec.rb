@@ -241,7 +241,7 @@ describe 'Validated and plain PBCore' do
           'id' => 'cpb-aacip_111-21ghx7d6',
           'player_aspect_ratio' => '4:3',
           'player_specs' => %w(680 510),
-          'transcript_status' => 'Online Reading Room Transcript'
+          'transcript_status' => 'Corrected'
         }
         attrs = {
           'id' => pbc.id,
