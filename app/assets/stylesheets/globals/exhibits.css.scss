@@ -77,8 +77,8 @@ a.exhibit-color:hover {
 }
 
 .exhibit-main h3 {
-  color: #c01d28;
   font-size: 20px;
+  margin-bottom: 0.5em;
 }
 
 .exhibit-main p {
@@ -89,10 +89,27 @@ a.exhibit-color:hover {
   display: block;
 }
 
+.exhibit-interior-color a, .exhibit-interior-color a:link, .exhibit-interior-color a:visited, .exhibit-interior-color h3 {
+  color: #c01d28;
+}
+
+.exhibit-interior-color-section a, .exhibit-interior-color-section a:link, .exhibit-interior-color-section a:visited, .exhibit-interior-color-section h3 {
+  color: #9d2064;
+}
+
+#exhibit-text-container.exhibit-abbreviate {
+  min-height: 20vw;
+  max-height: 20vw;
+  height: 20vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*noooooo*/
 .exhibit-abbreviate {
-  min-height: 150px;
-  max-height: 150px;
-  height: 150px;
+  min-height: 4vw;
+  max-height: 4vw;
+  height: 4vw;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -155,7 +172,6 @@ a.exhibit-color:hover {
 
 .exgal-nav-font {
   font-size: 0.8rem;
-  font-weight: bold;
   color: #000;
 }
 
@@ -214,6 +230,10 @@ a.exhibit-color:hover {
   }
 }
 
+h3.exhibit-title {
+  margin-bottom: 0;
+}
+
 /*section menu*/
 #exhibit-section-menu {
   font-size: 16px;
@@ -251,6 +271,11 @@ a.exhibit-color:hover {
   border: 1px solid #bbb;
 }
 
+.exhibit-notes a, .exhibit-notes a:link, .exhibit-notes a:visited {
+  color: #58595B;
+  text-decoration: none;
+}
+
 #exhibit-section-head {
   /*margin-left: 8%;*/
   font-weight: bold;
@@ -281,11 +306,11 @@ a.exhibit-color:hover {
 
 #exhibit-sections-bar-title {
   margin-left: 1em;
+  margin-bottom: 0.5em;
   padding-top: 1em;
 }
 
 .exhibit-sections-bar {
-  padding-bottom: 4%;
   background-color: #ddd;
 }
 

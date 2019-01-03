@@ -166,36 +166,32 @@ class Exhibit < Cmless
 
     if section_uri.end_with?('learning-goals')
       # learning goals nnooootes
-      %(<a href='#{section_uri}'><div class='exhibit-notes'>
-        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}'>Resource:</div>
-        <div class=''>
-          <img src='/assets/learning_goals.png' class='icon-med' style='top: -2px; position: relative;'>
-          Learning Goals
+      %(<div class='exhibit-notes'>
+        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
+          <a href='#{section_uri}'><div class=''>
+            <img src='/assets/learning_goals.png' class='icon-med' style='top: -2px; position: relative;'>
+            Learning Goals
+          </a>
         </div>
-      </div></a>)
+      </div>)
     elsif section_uri.end_with?('notes')
       # reeeeses notes
-      %(<a href='#{section_uri}'><div class='exhibit-notes'>
-        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'}'>Resource:</div>
+      %(<div class='exhibit-notes'>
+        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
 
         <div class=''>
-          <img src='/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
-          Research Notes
+          <a href='#{section_uri}'>
+            <img src='/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
+            Research Notes
+          </a>
         </div>
-      </div></a>)
+      </div>)
     else
-
-      # rubocop:disable Style/FormatString
-      bckcolor = '%06x' % (rand(0.2..0.4) * 0xffffff)
-      # rubocop:enable Style/FormatString
-
-      bckcolor = 'fff' if ENV['RACK_ENV'] == 'test'
-
       img = Nokogiri::HTML(cover_html).css('img').first
       %(<a href='#{section_uri}'>
         <div style="background-image: url('#{img['src'] if img}');" class='four-four-box exhibit-section'>
 
-          <div class='exhibit-cover-overlay' style='background-color: ##{bckcolor};'></div>
+          <div class='exhibit-cover-overlay bg-color-#{['purple','pink','red'].sample}'></div>
 
           <div class='exhibit-cover-text'>
             #{title}

@@ -1,7 +1,7 @@
 <% content_for :main do %>
-  <% @exhibit_color = @exhibit.subsection? ? 'exhibit-color-section' : 'exhibit-color' %>
+  <% @exhibit_color_suffix = @exhibit.subsection? ? '-section' : '' %>
 
-  <ol class="<%= @exhibit_color %> breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
+  <ol class="exhibit-color<%= @exhibit_color_suffix %> breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
     <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Exhibits</a></li>
 
     <% @exhibit.ancestors.map do |ancestor| %>
@@ -29,35 +29,41 @@
         </div>
       </div>
 
-      <div class="row" style="margin: 0;">
+      <div id="exhibit-text-container" class="row exhibit-abbreviate" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
 
-        <h3 id="exhibit-overview-title" class="<%= @exhibit_color %>">
+        <h3 id="exhibit-overview-title" class="exhibit-title exhibit-color<%= @exhibit_color_suffix %>">
           <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
         </h3>
 
-        <span class="exhibit-main">
+        <span id="exhibit-summary" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
           <%= @exhibit.summary_html.html_safe %>
         </span>
 
-        <hr>
+        <% if @exhibit.main_html.length > 0 || @exhibit.extended_html.length > 0  %>
+          <hr>
 
-        <span id="exhibit-main" class="exhibit-main exhibit-abbreviate">
-          <%= @exhibit.main_formatted.html_safe %>
-          <%= @exhibit.extended_html.html_safe %>
-        </span>
-
+          <span id="exhibit-main" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
+            <%= @exhibit.main_formatted.html_safe %>
+            <%= @exhibit.extended_html.html_safe %>
+          </span>
+        <% end %>
       </div>
 
       <div class="row">
 
-        <span class="<%= @exhibit_color %>" style="float: right;">
-          <span id="more" class="bold">
-            Expand to read more <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
-          </span>
+        <span class="exhibit-color<%= @exhibit_color_suffix %>" style="float: right;">
+          
+          <% if @exhibit.main_html.length > 0 || @exhibit.extended_html.length > 0  %>
 
-          <span id="less" class="hide bold">
-            Read less <img src="/assets/read_less<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
-          </span>
+            <span id="more" class="bold">
+              Expand to read more <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+            </span>
+
+            <span id="less" class="hide bold">
+              Read less <img src="/assets/read_less<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+            </span>
+          <% end %>
+
         </span>
 
       </div>
@@ -88,17 +94,17 @@
 
     <div class="exhibit-sections-bar" style="">
 
-      <h3 id="exhibit-sections-bar-title" class="<%= @exhibit_color %>">Exhibit Sections</h3>
+      <h3 id="exhibit-sections-bar-title" class="exhibit-color<%= @exhibit_color_suffix %>">Exhibit Sections</h3>
 
-      <div class="row" style="margin:0;">
+      <div class="row" style="margin:0; margin-left: 2%; margin-right: 2%;">
 
         <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('learning-goals') || ex.path.end_with?('notes')) } %>
 
         <!-- exhibits -->
-        <% exes.first.each do |exhibit| %>
+        <% exes.first.sort_by(&:head_html).each do |exhibit| %>
 
-          <div class="col-md-3">
-            <div class="exhibit-section-container">
+          <div class="col-md-3" style="margin-bottom: 4%;">
+            <div class="exhibit-section-container"> 
               <%= exhibit.cover.to_s.html_safe %>
             </div>
           </div>
@@ -212,7 +218,7 @@
 
     $(document).ready(function() {
       $('#more, #less').click(function() {
-        $('#exhibit-main').toggleClass('exhibit-abbreviate');
+        $('#exhibit-text-container').toggleClass('exhibit-abbreviate');
         $('#more, #less').toggleClass('hide');
       })
     });
