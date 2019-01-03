@@ -217,7 +217,7 @@ a.exhibit-color:hover {
 
 .exhibit-header {
   background-size: cover;
-  background-image: url("/assets/exhibits_red_bar.png");
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/exhibits/assets/exhibits_red_bar.png");
   max-width: 1172px;
   height: 60px;
   h1 {
@@ -376,7 +376,7 @@ h3.exhibit-title {
 
 #exgal-fullscreen-button {
   z-index: 20;
-  background-image: url('/assets/fullscreen.png');
+  background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/assets/fullscreen.png');
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;

@@ -169,7 +169,7 @@ class Exhibit < Cmless
       %(<div class='exhibit-notes'>
         <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
           <a href='#{section_uri}'><div class=''>
-            <img src='/assets/learning_goals.png' class='icon-med' style='top: -2px; position: relative;'>
+            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/learning_goals.png' class='icon-med' style='top: -2px; position: relative;'>
             Learning Goals
           </a>
         </div>
@@ -181,7 +181,7 @@ class Exhibit < Cmless
 
         <div class=''>
           <a href='#{section_uri}'>
-            <img src='/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
+            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
             Research Notes
           </a>
         </div>

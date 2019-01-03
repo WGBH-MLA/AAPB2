@@ -56,11 +56,11 @@
           <% if @exhibit.main_html.length > 0 || @exhibit.extended_html.length > 0  %>
 
             <span id="more" class="bold">
-              Expand to read more <img src="/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+              Expand to read more <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
             </span>
 
             <span id="less" class="hide bold">
-              Read less <img src="/assets/read_less<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
+              Read less <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/read_less<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
             </span>
           <% end %>
 
@@ -75,7 +75,7 @@
         <% color_class = @exhibit.subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
 
         <div class="<%= color_class %> exhibit-records-link">
-          <img src="/assets/eye2.png" class="icon-big" style="top: 6px; position: absolute;">
+          <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/eye2.png" class="icon-big" style="top: 6px; position: absolute;">
           <a style="display: block;" class="<%= color_class %> text-center" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>"><%= @exhibit.subsection? ? 'View records from exhibit section' : 'View all exhibit records' %></a>
 
         </div>
@@ -171,7 +171,7 @@
                        breakpoints and why 1 and 11 cols are going
                        to 2 lines -->
                   <div class="col-md-1 col-sm-1 col-xs-1">
-                    <img src="/assets/external_link.png" class="icon-size">
+                    <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/external_link.png" class="icon-size">
                   </div>
                   <div class="col-md-10 col-sm-10 col-xs-10">
                     <%= r[0] %>
@@ -190,7 +190,7 @@
                        breakpoints and why 1 and 11 cols are going
                        to 2 lines -->
                   <div class="col-md-1 col-sm-1 col-xs-1">
-                    <img src="/assets/external_link.png" class="icon-size">
+                    <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/external_link.png" class="icon-size">
                   </div>
                   <div class="col-md-10 col-sm-10 col-xs-10">
                     <%= r[0] %>

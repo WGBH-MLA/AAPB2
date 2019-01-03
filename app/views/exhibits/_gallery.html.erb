@@ -34,7 +34,7 @@
             <div id="exgal-modal-close-con">
 
               <a id="exgal-close-modal">
-                <img src="/assets/close.png">
+                <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/close.png">
               </a>
             </div>
           </div>
@@ -73,7 +73,7 @@
 
                 <div class="exgal-modal-title white-back">
                   <% if gal[:asset_url] %>
-                    <h4 class="exgal-font"><a class="exhibit-color<%= @exhibit_color_suffix %>" href="<%= gal[:asset_url] %>">Go to asset's full record <img class="icon-size" src="/assets/assets_full_record.png"></a></h4>
+                    <h4 class="exgal-font"><a class="exhibit-color<%= @exhibit_color_suffix %>" href="<%= gal[:asset_url] %>">Go to asset's full record <img class="icon-size" src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/assets_full_record.png"></a></h4>
                   <% end %>
 
                   <div class="exgal-modal-caption">
@@ -230,9 +230,9 @@
       $('#exgal-close-modal').click(function() {
         $('#exgal-popup-container').modal('hide')
       }).hover(function() {
-        $(this).find('img').attr('src', '/assets/close2.png').addClass('exhibit-hover').removeClass('exhibit-color<%= @exhibit_color_suffix %>');
+        $(this).find('img').attr('src', 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/close2.png').addClass('exhibit-hover').removeClass('exhibit-color<%= @exhibit_color_suffix %>');
       }, function() {
-        $(this).find('img').attr('src', '/assets/close.png').removeClass('exhibit-hover').addClass('exhibit-color<%= @exhibit_color_suffix %>');
+        $(this).find('img').attr('src', 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/close.png').removeClass('exhibit-hover').addClass('exhibit-color<%= @exhibit_color_suffix %>');
       });
 
       $('#exgal-fullscreen-button').click(function() {
