@@ -150,7 +150,6 @@
     <div class="col-md-8">
 
       <div class="row" style="">
-
         <h3 class="curator-title">Additional Resources</h3>
       </div>
 
@@ -160,12 +159,17 @@
         <% if left %>
           <div class="col-md-6">
             <% left.each do |r| %>
-
-              <div class="" style="margin-bottom: 4%;">
+              <div class="row" style="margin-bottom: 4%;">
                 <a class="exhibit-color resource-link" href="<%= r[1] %>">
-                  <img src="/assets/external_link.png" class="icon-size">
-                  <%= r[0] %>
-
+                  <!-- Not sure why we need to specify smaller
+                       breakpoints and why 1 and 11 cols are going
+                       to 2 lines -->
+                  <div class="col-md-1 col-sm-1 col-xs-1">
+                    <img src="/assets/external_link.png" class="icon-size">
+                  </div>
+                  <div class="col-md-10 col-sm-10 col-xs-10">
+                    <%= r[0] %>
+                  </div>
                 </a>
               </div>
             <% end %>
@@ -174,12 +178,17 @@
         <% if right %>
           <div class="col-md-6">
             <% right.each do |r| %>
-
-              <div class="" style="margin-bottom: 4%;">
+              <div class="row" style="margin-bottom: 4%;">
                 <a class="exhibit-color resource-link" href="<%= r[1] %>">
-                  <img src="/assets/external_link.png" class="icon-size">
-                  <%= r[0] %>
-
+                  <!-- Not sure why we need to specify smaller
+                       breakpoints and why 1 and 11 cols are going
+                       to 2 lines -->
+                  <div class="col-md-1 col-sm-1 col-xs-1">
+                    <img src="/assets/external_link.png" class="icon-size">
+                  </div>
+                  <div class="col-md-10 col-sm-10 col-xs-10">
+                    <%= r[0] %>
+                  </div>
                 </a>
               </div>
             <% end %>
