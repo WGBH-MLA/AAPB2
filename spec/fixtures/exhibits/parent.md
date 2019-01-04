@@ -20,10 +20,10 @@ Description goes here.
 
 ## Authors
 
-- <img class="img-circle pull-left" src="/assets/author2.png"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author2.png"/>
   <a class="name">First Author</a>
   <a class="title">Curator Extraordinaire</a>
-- <img class="img-circle pull-left" src="/assets/author.png"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author.png"/>
   <a class="name">Second Author</a>
   <a class="title">Second Banana</a>
 

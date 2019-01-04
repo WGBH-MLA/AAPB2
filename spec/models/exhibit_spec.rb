@@ -28,7 +28,7 @@ describe Exhibit do
       summary_html: %(<p><img src=\"http://example.org/image\" alt=\"alt text\" class=\"pull-right\">\nSummary goes here.</p>),
       extended_html: %(<p>This section won't show up on search results.</p>),
       thumbnail_url: %(https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg),
-      authors_html: %(<ul>\n<li>\n<img class=\"img-circle pull-left\" src=\"/assets/author2.png\">\n<a class=\"name\">First Author</a>\n<a class=\"title\">Curator Extraordinaire</a>\n</li>\n<li>\n<img class=\"img-circle pull-left\" src=\"/assets/author.png\">\n<a class=\"name\">Second Author</a>\n<a class=\"title\">Second Banana</a>\n</li>\n</ul>),
+      authors_html: %(<ul>\n<li>\n<img class=\"img-circle pull-left\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author2.png\">\n<a class=\"name\">First Author</a>\n<a class=\"title\">Curator Extraordinaire</a>\n</li>\n<li>\n<img class=\"img-circle pull-left\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author.png\">\n<a class=\"name\">Second Author</a>\n<a class=\"title\">Second Banana</a>\n</li>\n</ul>),
       gallery_html: %(<ul>\n<li><p><a class=\"type\">video</a>\n&lt;!-- media-url for video or audio v --&gt;\n<a class=\"media-url\">/media/cpb-aacip_151-b56d21s06x</a>\n<a class=\"credit-link\" href=\"http://www.cpb.org/link1\">First Source name</a>\n<a class=\"caption-text\">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>\n<a class=\"asset-url\" href=\"http://americanarchive.org/whoo1\"></a></p></li>\n<li><p><a class=\"type\">image</a>\n<a class=\"credit-link\" href=\"http://www.cpb.org/link2\">Second Source name</a>\n<a class=\"caption-text\">This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. This is the caption text for the second gallery item. </a>\n<a class=\"asset-url\" href=\"http://americanarchive.org/whoo2\"></a>\n<img title=\"cover title 2\" alt=\"Alt cover 2\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image3.jpg\"></p></li>\n<li><p><a class=\"type\">image</a>\n<a class=\"credit-link\" href=\"http://www.cpb.org/link3\">Source name</a>\n<a class=\"caption-text\">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>\n<a class=\"asset-url\" href=\"http://americanarchive.org/whoo3\"></a>\n<img title=\"cover title 3\" alt=\"Alt cover 3\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image2.jpg\"></p></li>\n</ul>),
       records_html: %(<ul>\n<li>/catalog/cpb-aacip_60-70msbm1d</li>\n<li>/catalog/cpb-aacip_15-9fj29c7n</li>\n<li>/catalog/cpb-aacip_500-9z90dj38</li>\n</ul>),
       records: ['/catalog/cpb-aacip_60-70msbm1d', '/catalog/cpb-aacip_15-9fj29c7n', '/catalog/cpb-aacip_500-9z90dj38'],
@@ -37,9 +37,8 @@ describe Exhibit do
       resources_html: %(<ul>\n<li><a href=\"http://loc.gov\">LoC</a></li>\n<li><a href=\"http://wgbh.org\">WGBH</a></li>\n</ul>),
       resources: [['LoC', 'http://loc.gov'], ['WGBH', 'http://wgbh.org']],
       main_html: %(<p>Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. \n<a href=\"/catalog/cpb-aacip_80-12893j6c\">item 1</a>\n<a href=\"/catalog/cpb-aacip_37-31cjt2qs\">item 2</a>\n<a href=\"/catalog/cpb-aacip_192-1937pxnq\" title=\"fuller description\">item 3</a></p>),
-      cover: %(<a href='/exhibits/parent/child/grandchild'>\n        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n\n          <div class='exhibit-cover-overlay' style='background-color: #fff;'></div>\n\n          <div class='exhibit-cover-text'>\n            Grandchild!\n          </div>\n        </div>\n      </a>),
-
       cover_html: %(<p><img title=\"cover title 2\" alt=\"Alt cover 2\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg\"></p>),
+      cover: nil, # needs to account for random bgcolor
       gallery: [{ credit_url: 'http://www.cpb.org/link1',
                   asset_url: 'http://americanarchive.org/whoo1',
                   source_text: 'First Source name',
@@ -68,10 +67,10 @@ describe Exhibit do
 
                       # rubocop:disable Style/AlignHash
                       # cant make this happy v
-                      authors: [{ img_url: '/assets/author2.png',
+                      authors: [{ img_url: 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author2.png',
                                   title: 'Curator Extraordinaire',
                                   name: 'First Author' },
-                                { img_url: '/assets/author.png',
+                                { img_url: 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author.png',
                                   title: 'Second Banana',
                                   name: 'Second Author' }],
       # rubocop:enable Style/AlignHash
@@ -82,11 +81,51 @@ describe Exhibit do
 
     assertions.each do |method, value|
       it "\##{method} method works" do
-        expect(exhibit.send(method)).to eq((begin
-                                              value.strip
-                                            rescue
-                                              value
-                                            end))
+        if method == :cover
+
+          # rubocop:disable Style/LineEndConcatenation,Style/StringLiterals,Style/IndentArray
+          expect([
+                  ("<a href='/exhibits/parent/child/grandchild'>\n" +
+                  "        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-overlay bg-color-red'></div>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-text'>\n" +
+                  "            Grandchild!\n" +
+                  "          </div>\n" +
+                  "        </div>\n" +
+                  "      </a>"),
+                  ("<a href='/exhibits/parent/child/grandchild'>\n" +
+                  "        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-overlay bg-color-pink'></div>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-text'>\n" +
+                  "            Grandchild!\n" +
+                  "          </div>\n" +
+                  "        </div>\n" +
+                  "      </a>"),
+                  ("<a href='/exhibits/parent/child/grandchild'>\n" +
+                  "        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-overlay bg-color-purple'></div>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-text'>\n" +
+                  "            Grandchild!\n" +
+                  "          </div>\n" +
+                  "        </div>\n" +
+                  "      </a>")
+                ].include?(exhibit.send(method))).to eq(true)
+          # rubocop:enable Style/LineEndConcatenation,Style/StringLiterals,Style/IndentArray
+
+        else
+
+          expect(exhibit.send(method)).to eq((begin
+                                                value.strip
+                                              rescue
+                                                value
+                                              end))
+        end
       end
     end
 

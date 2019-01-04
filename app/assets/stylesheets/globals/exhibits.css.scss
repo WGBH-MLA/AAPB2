@@ -38,6 +38,14 @@
   font-weight: bold;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.right-justify {
+  text-align: right;
+}
+
 .exhibit-color {
   color: #c01d28;
 }
@@ -50,6 +58,10 @@ a.exhibit-color:link, a.exhibit-color:visited {
   color: #c01d28 !important;
 }
 
+a.exhibit-color-section:link, a.exhibit-color-section:visited {
+  color: #9d2064 !important;
+}
+
 a.exhibit-color:hover {
   color: #9d2064;
   text-decoration: none;
@@ -60,9 +72,13 @@ a.exhibit-color:hover {
   text-decoration: none;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .exhibit-main h3 {
-  color: #c01d28;
   font-size: 20px;
+  margin-bottom: 0.5em;
 }
 
 .exhibit-main p {
@@ -73,10 +89,18 @@ a.exhibit-color:hover {
   display: block;
 }
 
-.exhibit-abbreviate {
-  min-height: 150px;
-  max-height: 150px;
-  height: 150px;
+.exhibit-interior-color a, .exhibit-interior-color a:link, .exhibit-interior-color a:visited, .exhibit-interior-color h3 {
+  color: #c01d28;
+}
+
+.exhibit-interior-color-section a, .exhibit-interior-color-section a:link, .exhibit-interior-color-section a:visited, .exhibit-interior-color-section h3 {
+  color: #9d2064;
+}
+
+#exhibit-text-container.exhibit-abbreviate {
+  min-height: 20vw;
+  max-height: 20vw;
+  height: 20vw;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -139,7 +163,6 @@ a.exhibit-color:hover {
 
 .exgal-nav-font {
   font-size: 0.8rem;
-  font-weight: bold;
   color: #000;
 }
 
@@ -185,7 +208,7 @@ a.exhibit-color:hover {
 
 .exhibit-header {
   background-size: cover;
-  background-image: url("/assets/exhibits_red_bar.png");
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/exhibits/assets/exhibits_red_bar.png");
   max-width: 1172px;
   height: 60px;
   h1 {
@@ -196,6 +219,10 @@ a.exhibit-color:hover {
     color: #fff;
     margin: 0;
   }
+}
+
+h3.exhibit-title {
+  margin-bottom: 0;
 }
 
 /*section menu*/
@@ -235,13 +262,9 @@ a.exhibit-color:hover {
   border: 1px solid #bbb;
 }
 
-.exhibit-sections {
-  border: 1px solid #ccc;
-
-  ul {
-    list-style: none;
-
-  }
+.exhibit-notes a, .exhibit-notes a:link, .exhibit-notes a:visited {
+  color: #58595B;
+  text-decoration: none;
 }
 
 #exhibit-section-head {
@@ -261,13 +284,24 @@ a.exhibit-color:hover {
   display: none;
 }
 
+
+#exhibit-sections {
+  a.section {
+    float: right;
+    text-decoration: none;
+  }
+  a.section-black {
+    color: #000;
+  }
+}
+
 #exhibit-sections-bar-title {
   margin-left: 1em;
+  margin-bottom: 0.5em;
   padding-top: 1em;
 }
 
 .exhibit-sections-bar {
-  padding-bottom: 4%;
   background-color: #ddd;
 }
 
@@ -333,7 +367,7 @@ a.exhibit-color:hover {
 
 #exgal-fullscreen-button {
   z-index: 20;
-  background-image: url('/assets/fullscreen.png');
+  background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/assets/fullscreen.png');
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -448,9 +482,14 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
 }
 
 @media only screen and (max-width: 991px) {
-  #exhibit-section-menu {
-    margin-left: 58%;
-    width: 40%;
+
+
+  #exhibit-text-container.exhibit-abbreviate {
+    min-height: 60vw;
+    max-height: 60vw;
+    height: 60vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   #exhibit-overview-title {
