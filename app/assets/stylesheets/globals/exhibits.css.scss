@@ -105,15 +105,6 @@ a.exhibit-color:hover {
   text-overflow: ellipsis;
 }
 
-/*noooooo*/
-.exhibit-abbreviate {
-  min-height: 4vw;
-  max-height: 4vw;
-  height: 4vw;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
 .exhibit-abbreviate p {
   margin: 0;
   display: inline;
@@ -491,9 +482,14 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
 }
 
 @media only screen and (max-width: 991px) {
-  #exhibit-section-menu {
-    margin-left: 58%;
-    width: 40%;
+
+
+  #exhibit-text-container.exhibit-abbreviate {
+    min-height: 60vw;
+    max-height: 60vw;
+    height: 60vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   #exhibit-overview-title {
