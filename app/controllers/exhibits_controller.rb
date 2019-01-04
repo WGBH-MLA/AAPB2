@@ -8,7 +8,7 @@ class ExhibitsController < OverrideController
 
   def show
     @exhibit = Exhibit.find_by_path(params[:path])
-    @page_title = @exhibit.title
+    @page_title = @exhibit.top_title
     params[:path] = nil
   end
 end

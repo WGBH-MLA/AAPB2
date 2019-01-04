@@ -206,11 +206,13 @@ a.exhibit-color:hover {
   background-color: #fff;
   position: absolute;
   border: 1px solid #ccc;
+  z-index: 1;
 
   ul, li {
     background-color: #fff !important;
     list-style: none;
     margin: 0;
+    z-index: 1;
   }
 
   li {
