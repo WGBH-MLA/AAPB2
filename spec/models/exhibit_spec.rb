@@ -38,7 +38,7 @@ describe Exhibit do
       resources: [['LoC', 'http://loc.gov'], ['WGBH', 'http://wgbh.org']],
       main_html: %(<p>Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. \n<a href=\"/catalog/cpb-aacip_80-12893j6c\">item 1</a>\n<a href=\"/catalog/cpb-aacip_37-31cjt2qs\">item 2</a>\n<a href=\"/catalog/cpb-aacip_192-1937pxnq\" title=\"fuller description\">item 3</a></p>),
       cover_html: %(<p><img title=\"cover title 2\" alt=\"Alt cover 2\" src=\"https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg\"></p>),
-      cover: nil, #needs to account for random bgcolor
+      cover: nil, # needs to account for random bgcolor
       gallery: [{ credit_url: 'http://www.cpb.org/link1',
                   asset_url: 'http://americanarchive.org/whoo1',
                   source_text: 'First Source name',
@@ -81,40 +81,38 @@ describe Exhibit do
 
     assertions.each do |method, value|
       it "\##{method} method works" do
-
-        # method uses random bgcolor, 
         if method == :cover
 
           expect([%(<a href='/exhibits/parent/child/grandchild'>
-        <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
+                      <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
 
-          <div class='exhibit-cover-overlay bg-color-red'></div>
+                        <div class='exhibit-cover-overlay bg-color-red'></div>
 
-          <div class='exhibit-cover-text'>
-            Grandchild!
-          </div>
-        </div>
-      </a>),
-          %(<a href='/exhibits/parent/child/grandchild'>
-        <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
+                        <div class='exhibit-cover-text'>
+                          Grandchild!
+                        </div>
+                      </div>
+                    </a>),
+                  %(<a href='/exhibits/parent/child/grandchild'>
+                      <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
 
-          <div class='exhibit-cover-overlay bg-color-pink'></div>
+                        <div class='exhibit-cover-overlay bg-color-pink'></div>
 
-          <div class='exhibit-cover-text'>
-            Grandchild!
-          </div>
-        </div>
-      </a>),
-          %(<a href='/exhibits/parent/child/grandchild'>
-        <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
+                        <div class='exhibit-cover-text'>
+                          Grandchild!
+                        </div>
+                      </div>
+                    </a>),
+                  %(<a href='/exhibits/parent/child/grandchild'>
+                      <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
 
-          <div class='exhibit-cover-overlay bg-color-purple'></div>
+                        <div class='exhibit-cover-overlay bg-color-purple'></div>
 
-          <div class='exhibit-cover-text'>
-            Grandchild!
-          </div>
-        </div>
-      </a>)].include?(exhibit.send(method))).to eq(true)
+                        <div class='exhibit-cover-text'>
+                          Grandchild!
+                        </div>
+                      </div>
+                  </a>)].include?(exhibit.send(method))).to eq(true)
 
         else
 
@@ -122,7 +120,7 @@ describe Exhibit do
                                                 value.strip
                                               rescue
                                                 value
-                                              end))          
+                                              end))
         end
       end
     end
