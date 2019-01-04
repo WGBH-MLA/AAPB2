@@ -83,36 +83,40 @@ describe Exhibit do
       it "\##{method} method works" do
         if method == :cover
 
-          expect([%(<a href='/exhibits/parent/child/grandchild'>
-                      <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
-
-                        <div class='exhibit-cover-overlay bg-color-red'></div>
-
-                        <div class='exhibit-cover-text'>
-                          Grandchild!
-                        </div>
-                      </div>
-                    </a>),
-                  %(<a href='/exhibits/parent/child/grandchild'>
-                      <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
-
-                        <div class='exhibit-cover-overlay bg-color-pink'></div>
-
-                        <div class='exhibit-cover-text'>
-                          Grandchild!
-                        </div>
-                      </div>
-                    </a>),
-                  %(<a href='/exhibits/parent/child/grandchild'>
-                      <div style="background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');" class='four-four-box exhibit-section'>
-
-                        <div class='exhibit-cover-overlay bg-color-purple'></div>
-
-                        <div class='exhibit-cover-text'>
-                          Grandchild!
-                        </div>
-                      </div>
-                  </a>)].include?(exhibit.send(method))).to eq(true)
+          # rubocop:disable Style/LineEndConcatenation,Style/StringLiterals,Style/IndentArray
+          expect([
+                  ("<a href='/exhibits/parent/child/grandchild'>\n" +
+                  "        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-overlay bg-color-red'></div>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-text'>\n" +
+                  "            Grandchild!\n" +
+                  "          </div>\n" +
+                  "        </div>\n" +
+                  "      </a>"),
+                  ("<a href='/exhibits/parent/child/grandchild'>\n" +
+                  "        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-overlay bg-color-pink'></div>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-text'>\n" +
+                  "            Grandchild!\n" +
+                  "          </div>\n" +
+                  "        </div>\n" +
+                  "      </a>"),
+                  ("<a href='/exhibits/parent/child/grandchild'>\n" +
+                  "        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-overlay bg-color-purple'></div>\n" +
+                  "\n" +
+                  "          <div class='exhibit-cover-text'>\n" +
+                  "            Grandchild!\n" +
+                  "          </div>\n" +
+                  "        </div>\n" +
+                  "      </a>")
+                ].include?(exhibit.send(method))).to eq(true)
+          # rubocop:enable Style/LineEndConcatenation,Style/StringLiterals,Style/IndentArray
 
         else
 
