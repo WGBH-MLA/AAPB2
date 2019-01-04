@@ -4,6 +4,8 @@
 
 ## Summary
 
+## Extended
+
 Throughout this exhibit, scientists and activists, each of whom talk about the
 various facets of climate change—from a policy perspective to activism to
 specific research on impacts and solutions—spend a portion of their
