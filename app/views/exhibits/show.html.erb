@@ -1,4 +1,6 @@
 <% content_for :main do %>
+  
+  <% has_main_text = @exhibit.main_html.length > 0 || @exhibit.extended_html.length > 0 %>
   <% @exhibit_color_suffix = @exhibit.subsection? ? '-section' : '' %>
 
   <ol class="exhibit-color<%= @exhibit_color_suffix %> breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
@@ -29,7 +31,7 @@
         </div>
       </div>
 
-      <div id="exhibit-text-container" class="row exhibit-abbreviate" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
+      <div id="exhibit-text-container" class="row <%= has_main_text ? 'exhibit-abbreviate' : '' %>" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
 
         <h3 id="exhibit-overview-title" class="exhibit-title exhibit-color<%= @exhibit_color_suffix %>">
           <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
@@ -39,7 +41,7 @@
           <%= @exhibit.summary_html.html_safe %>
         </span>
 
-        <% if @exhibit.main_html.length > 0 || @exhibit.extended_html.length > 0  %>
+        <% if has_main_text  %>
           <hr>
 
           <span id="exhibit-main" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
@@ -53,7 +55,7 @@
 
         <span class="exhibit-color<%= @exhibit_color_suffix %>" style="float: right;">
           
-          <% if @exhibit.main_html.length > 0 || @exhibit.extended_html.length > 0  %>
+          <% if has_main_text  %>
 
             <span id="more" class="bold">
               Expand to read more <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
