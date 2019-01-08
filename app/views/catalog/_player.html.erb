@@ -69,13 +69,11 @@
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
   <div style="margin-top: 1em;" class="content-text">
     <% if @pbcore.outside_url %>
-      <% @pbcore.contributing_organization_objects.each do |org| %>
-        <%= link_to(
-          "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.outside_baseurl}",
-          @pbcore.outside_url,
-          {target: '_blank'}
-        ) %>
-      <% end %>
+      <%= link_to(
+        "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.outside_baseurl}",
+        @pbcore.outside_url,
+        {target: '_blank'}
+      ) %>
     <% end %>
   </div>
 <% end %>
