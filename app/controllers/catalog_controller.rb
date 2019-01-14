@@ -261,11 +261,17 @@ class CatalogController < ApplicationController
           if @pbcore.transcript_status == PBCore::CORRECT_TRANSCRIPT
             @transcript_open = true
           else
-            @transcript_message = 'This transcript is machine-generated and has not been corrected. It is likely there will be errors.'
+            @transcript_message = 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org>FIX IT+</a>'
             @transcript_open = false
           end
 
-          @transcript_html = TranscriptFile.new(params['id']).html
+          if @document.transcript?
+            @transcript_html = TranscriptFile.new(params['id']).html
+            require('pry');binding.pry
+          elsif @document.caption?
+            # use SRT when VTT not available
+            @transcript_html = CaptionFile.new(params['id']).vtt
+          end
           @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
         end
 
