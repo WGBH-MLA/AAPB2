@@ -25,7 +25,7 @@ class CaptionConverter
             ) do
               x.span(' ',
                      class: 'play-from-here',
-                     'data-timecodebegin' => as_timestamp(line.start_time)
+                     'data-timecode' => as_timestamp(line.start_time)
                     )
               # Text content is just to prevent element collapse and keep valid HTML.
               x.text(line.text.join("\n"))
