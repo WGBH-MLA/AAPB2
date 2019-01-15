@@ -17,7 +17,7 @@ class CaptionFile
   def vtt
     @vtt ||= begin
       open(vtt_url).read
-    rescue OpenURI::HTTPError => e
+    rescue OpenURI::HTTPError
       # no vtt found, use srt
       CaptionConverter.srt_to_vtt(srt)
     end

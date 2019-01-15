@@ -200,15 +200,15 @@ class CatalogController < ApplicationController
       super
     end
 
-    #check whether we have enough search results to get to the page specified, if not, go to page 1
+    # check whether we have enough search results to get to the page specified, if not, go to page 1
     if params[:page]
       per_page = params[:per_page] ? params[:per_page].to_i : 10
-      
+
       # ensure we have enough records to fill to previous page + 1
       page = params[:page].to_i - 1
-      num_for_newpage = (page*per_page) + 1
+      num_for_newpage = (page * per_page) + 1
 
-      if  @response['response']['numFound'] < num_for_newpage
+      if @response['response']['numFound'] < num_for_newpage
         params[:page] = 1
         super
       end
@@ -269,13 +269,15 @@ class CatalogController < ApplicationController
             # use SRT when transcript not available
             @transcript_html = CaptionFile.new(params['id']).html
           end
-          
+
           # how shown are we talkin here?
           if @transcript_html
             if @pbcore.transcript_status == PBCore::CORRECT_TRANSCRIPT
               @transcript_open = true
             else
+              # rubocop:disable LineLength
               @transcript_message = 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>'
+              # rubocop:enable LineLength
               @transcript_open = false
             end
           end
