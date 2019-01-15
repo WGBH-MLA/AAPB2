@@ -281,7 +281,13 @@ class PBCore
     @duration ||= begin
       xpath('/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration')
     rescue
-      xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+
+      # old cases
+      begin
+        xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
+      rescue
+        xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+      end
     end
   end
   def player_aspect_ratio
