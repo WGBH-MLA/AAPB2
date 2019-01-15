@@ -279,7 +279,7 @@ class PBCore
   end
   def duration
     @duration ||= begin
-      xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
+      xpath('/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration')
     rescue
       xpaths('/*/pbcoreInstantiation/instantiationDuration').first
     end
