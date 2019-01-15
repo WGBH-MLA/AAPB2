@@ -79,7 +79,7 @@ describe CaptionFile do
       caption = snippet_from_query(caption_query_one, caption_file_2.text, 200, '.')
 
       # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('narrator:')
+      expect(caption.split[1]).to eq('NARRATOR:')
     end
 
     it 'truncates the begining of the caption if keyord is not within first 200 characters' do

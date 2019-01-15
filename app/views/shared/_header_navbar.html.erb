@@ -70,7 +70,7 @@
               <% if !current_page?(controller: 'home', action: 'show') && !(current_page?(controller: 'catalog', action: 'index') && params.to_h['f'].try(:has_key?,'special_collection'))  %>
                   <li class="col-md-6 sec-nav-item"><%= render_search_bar %></li>
               <% end %>
-              <li class="col-md-6 sec-nav-item"><%= link_to "FIX IT: A TRANSCRIPT GAME", "http://fixit.americanarchive.org/?utm_source=aapb_fixit_header&utm_medium=website&utm_campaign=fixit_from_website", class: "header-fixit", target: "_blank" %></li>
+              <li class="col-md-6 sec-nav-item"><%= link_to "FIX IT: A TRANSCRIPT GAME", "http://fixitplus.americanarchive.org/", class: "header-fixit", target: "_blank" %></li>
             </ul>
           </nav>
 
