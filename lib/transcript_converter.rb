@@ -6,21 +6,44 @@ class TranscriptConverter
     parsed_json = JSON.parse(json)
     Nokogiri::XML::Builder.new do |x|
       x.div(class: 'root') do
+        
         para_counter = 1
-        aggregate_transcript_parts(parsed_json).each do |part|
-          x.div(class: 'transcript-row') do
-            x.span(' ', class: 'play-from-here', 'data-timecode' => as_timestamp(part['start_time']))
-            x.div(
-              id: "para#{para_counter}",
-              class: 'para',
-              'data-timecodebegin' => as_timestamp(part['start_time']),
-              'data-timecodeend' => as_timestamp(part['end_time'])
-            ) do
-              # Text content is just to prevent element collapse and keep valid HTML.
-              x.text(part['text'])
+
+        part_data = aggregate_transcript_parts(parsed_json)
+        # get our 0 point
+        previous_timestamp = part_data.first['start_time'].to_f
+        buffer = ''
+
+        part_data.each do |part|
+          this_timestamp = part['start_time'].to_f
+
+          unless (this_timestamp - previous_timestamp) > 60
+            # add to buffer
+
+            buffer += part['text'].gsub("\n", " ")
+            puts "buffer up! #{buffer}"
+          else
+
+            # write paragraph
+            x.div(class: 'transcript-row') do
+              x.span(' ', class: 'play-from-here', 'data-timecode' => as_timestamp(part['start_time']))
+              x.div(
+                id: "para#{para_counter}",
+                class: 'para',
+                'data-timecodebegin' => as_timestamp(part['start_time']),
+                'data-timecodeend' => as_timestamp(part['end_time'])
+              ) do
+                # Text content is just to prevent element collapse and keep valid HTML.
+
+                buffer += part['text']
+                x.text(buffer)
+                puts "FINSIH HIM #{buffer}"
+                buffer = ''
+                previous_timestamp = this_timestamp
+              end
             end
+            para_counter += 1
           end
-          para_counter += 1
         end
       end
     end.doc.root.children
