@@ -1,8 +1,11 @@
 require 'srt'
 require 'nokogiri'
 require 'json'
+require_relative 'transcript_viewer_helper'
 
 class CaptionConverter
+  extend TranscriptViewerHelper
+
   def self.srt_to_vtt(srt)
     parse_srt(srt)
     vtt = srt
@@ -13,29 +16,9 @@ class CaptionConverter
     "WEBVTT\n\n#{vtt}".strip
   end
 
-  def self.srt_to_html(srt)
-    parsed_srt = parse_srt(srt)
-    begin
-      Nokogiri::XML::Builder.new do |x|
-        x.div(class: 'transcript') do
-          parsed_srt.lines.each do |line|
-            x.div(
-              'data-timecodebegin' => as_timestamp(line.start_time),
-              'data-timecodeend' => as_timestamp(line.end_time)
-            ) do
-              x.span(' ',
-                     class: 'play-from-here',
-                     'data-timecode' => as_timestamp(line.start_time)
-                    )
-              # Text content is just to prevent element collapse and keep valid HTML.
-              x.text(line.text.join("\n"))
-            end
-          end
-        end
-      end.to_xml.gsub("<?xml version=\"1.0\"?>\n", '')
-    rescue
-      nil
-    end
+  def self.srt_to_transcript(srt)
+    parsed_srt = parse_srt(srt).lines
+    build_transcript(parsed_srt, 'caption')
   end
 
   def self.srt_to_text(srt)

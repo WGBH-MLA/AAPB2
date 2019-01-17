@@ -24,7 +24,7 @@ class CaptionFile
   end
 
   def html
-    @html ||= CaptionConverter.srt_to_html(srt)
+    @html ||= CaptionConverter.srt_to_transcript(srt).to_html
   end
 
   def text

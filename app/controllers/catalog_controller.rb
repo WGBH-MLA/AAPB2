@@ -257,17 +257,17 @@ class CatalogController < ApplicationController
 
         if can? :access_transcript, @pbcore
           
-          # something to show?
-          if @document.transcript?
-            @transcript_content = TranscriptFile.new(params['id']).html
+          # # something to show?
+          # if @document.transcript?
+          #   @transcript_content = TranscriptFile.new(params['id']).html
 
-            if @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
-              @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
-            end
-          elsif @document.caption?
+          #   if @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
+          #     @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
+          #   end
+          # elsif @document.caption?
             # use SRT when transcript not available
             @transcript_content = CaptionFile.new(params['id']).html
-          end
+          # end
 
           # how shown are we talkin here?
           if @transcript_content

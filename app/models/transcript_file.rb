@@ -77,7 +77,6 @@ class TranscriptFile
                   when TranscriptFile::TEXT_FILE
                     TranscriptConverter.text_parts(text)
                   end
-                  require('pry');binding.pry
   end
 
   def determine_url
