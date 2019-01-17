@@ -22,14 +22,11 @@ module TranscriptViewerHelper
           if (new_end_time - last_end_time) > 60
             @buffer += text
             build_transcript_row(doc_root, last_end_time, new_end_time, text)
-            puts "Set new end time #{new_end_time}"
-            puts "buffered #{@buffer}"
             last_end_time = new_end_time
             @buffer = ''
             @para_counter += 1
           else
             @buffer += text.gsub("\n", " ")
-            # puts "@buffer up! #{@buffer}"
           end
         end
       end
