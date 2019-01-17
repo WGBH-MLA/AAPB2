@@ -11,7 +11,11 @@ class CaptionFile
   end
 
   def srt
-    @srt ||= open(srt_url).read
+    @srt ||= begin
+      open(srt_url).read
+    rescue OpenURI::HTTPError
+      nil
+    end
   end
 
   def vtt
