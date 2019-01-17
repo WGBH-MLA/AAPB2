@@ -5,13 +5,9 @@ module TranscriptViewerHelper
     @buffer = ''
     @para_counter = 1
 
-    case source_type
-    when 'transcript'
-      last_end_time = transcript_parts.first['start_time'].to_f
-    when 'caption'
-      last_end_time = transcript_parts.first.start_time.to_f
-    else
-    end
+    # make sure new_end_time is in this scope in case of < 60 case
+    new_end_time, text = timecode_parts(transcript_parts.first, source_type)
+    last_end_time = new_end_time
 
     Nokogiri::XML::Builder.new do |doc_root|
       doc_root.div(class: 'root') do
@@ -29,6 +25,12 @@ module TranscriptViewerHelper
             @buffer += text.gsub("\n", " ")
           end
         end
+
+        # never wrote a row due to <60s, write one here
+        if @para_counter == 1
+          build_transcript_row(doc_root, last_end_time, new_end_time, text)
+        end
+
       end
     end.doc.root.children
   end
