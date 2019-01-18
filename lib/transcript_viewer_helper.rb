@@ -1,7 +1,5 @@
 module TranscriptViewerHelper
-
   def build_transcript(transcript_parts, source_type)
-
     @buffer = ''
     @para_counter = 1
 
@@ -11,9 +9,7 @@ module TranscriptViewerHelper
 
     Nokogiri::XML::Builder.new do |doc_root|
       doc_root.div(class: 'root') do
-        
         transcript_parts.each do |part|
-
           new_end_time, text = timecode_parts(part, source_type)
           if (new_end_time - last_end_time) > 60
             @buffer += text
@@ -22,7 +18,7 @@ module TranscriptViewerHelper
             @buffer = ''
             @para_counter += 1
           else
-            @buffer += text.gsub("\n", " ")
+            @buffer += text.tr("\n", ' ')
           end
         end
 
@@ -30,12 +26,11 @@ module TranscriptViewerHelper
         if @para_counter == 1
           build_transcript_row(doc_root, last_end_time, new_end_time, text)
         end
-
       end
     end.doc.root.children
   end
 
-  def build_transcript_row(root, start_time, end_time, text)
+  def build_transcript_row(root, start_time, end_time)
     root.div(class: 'transcript-row') do
       root.span(' ', class: 'play-from-here', 'data-timecode' => as_timestamp(start_time))
       root.div(
@@ -57,7 +52,6 @@ module TranscriptViewerHelper
       return part['start_time'].to_f, part['text']
     when 'caption'
       return part.start_time.to_f, part.text.first
-    else
     end
   end
 end

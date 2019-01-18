@@ -256,7 +256,7 @@ class CatalogController < ApplicationController
         end
 
         if can? :access_transcript, @pbcore
-          
+
           # # something to show?
           if @document.transcript?
             @transcript_content = TranscriptFile.new(params['id']).html
