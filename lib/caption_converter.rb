@@ -17,8 +17,9 @@ class CaptionConverter
   end
 
   def self.srt_to_transcript(srt)
-    parsed_srt = parse_srt(srt).lines
-    build_transcript(parsed_srt, 'caption')
+    parsed_srt = parse_srt(srt)
+    return nil unless parsed_srt
+    build_transcript(parsed_srt.lines, 'caption')
   end
 
   def self.srt_to_text(srt)
