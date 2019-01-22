@@ -13,7 +13,7 @@ module TranscriptViewerHelper
           new_end_time, text = timecode_parts(part, source_type)
           if (new_end_time - last_end_time) > 60
             @buffer += text
-            build_transcript_row(doc_root, last_end_time, new_end_time, text)
+            build_transcript_row(doc_root, last_end_time, new_end_time)
             last_end_time = new_end_time
             @buffer = ''
             @para_counter += 1
@@ -24,7 +24,7 @@ module TranscriptViewerHelper
 
         # never wrote a row due to <60s, write one here
         if @para_counter == 1
-          build_transcript_row(doc_root, last_end_time, new_end_time, text)
+          build_transcript_row(doc_root, last_end_time, new_end_time)
         end
       end
     end.doc.root.children
