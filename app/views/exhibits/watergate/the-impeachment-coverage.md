@@ -118,7 +118,7 @@ In addition to NPACT's coverage of the Senate Watergate hearings, AAPB has recor
 
 
 
-#### Next: [Resources](/exhibits/watergate/resources)
+#### Next: [Resources](/exhibits/watergate/additional-resources)
 
 ## Main
 
