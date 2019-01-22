@@ -28,9 +28,9 @@ class CaptionFile
   end
 
   def html
-      transcript_data = CaptionConverter.srt_to_transcript(srt)
-      return nil unless transcript_data
-      transcript_data.to_html
+    transcript_data = CaptionConverter.srt_to_transcript(srt)
+    return nil unless transcript_data
+    transcript_data.to_html
   end
 
   def text
