@@ -43,7 +43,7 @@ The exhibit proceeds chronologically in four sections: 1953 to 1972, 1972 to 198
 
 ## Gallery
 - <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0">School Days 1999</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0">School Days (1999)</a>
   <a class="caption-text">Image from School Days (1999), a documentary about education from WXXI Public Broadcasting.</a>
   <img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG">
   <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0"></a>
