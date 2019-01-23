@@ -383,6 +383,8 @@ class PBCore
 
       caption_body = parse_caption_body(CaptionConverter.srt_to_text(caption_response.body))
 
+
+      require('pry');binding.pry
       REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|
           el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
