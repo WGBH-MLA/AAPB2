@@ -155,9 +155,9 @@ While NET did not succeed in convincing all the local stations of the wisdom of 
   <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-qf8jd4qp2r"></a>
 
 - <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q">NET Journal; The Way it Is (1966)</a>
-  <a class="caption-text">Boredom and distraction at Junior High School 57 in The Way it Is, a 1966 documentary study of what was referred to as the "ghetto school."</a>
-  <img title="NET Journal; The Way it Is (1966)" alt="NET Journal; The Way it Is (1966)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheWayitIs2.JPG">
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q">NET Journal; The Way It Is (1966)</a>
+  <a class="caption-text">Boredom and distraction at Junior High School 57 in The Way It Is, a 1966 documentary study of what was referred to as the "ghetto school."</a>
+  <img title="NET Journal; The Way It Is (1966)" alt="NET Journal; The Way It Is (1966)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheWayitIs2.JPG">
   <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q"></a>
 
 - <a class="type">image</a>
