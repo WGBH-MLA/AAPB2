@@ -401,6 +401,9 @@ class PBCore
 
       transcript_body = Nokogiri::HTML(transcript.html).text.tr("\n", ' ')
 
+      require('pry');binding.pry
+      
+
       REXML::XPath.match(doc_with_transcript_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
         REXML::Element.new('pbcoreAnnotation').tap do |el|
           el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
