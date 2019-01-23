@@ -105,7 +105,7 @@
         <!-- exhibits -->
         <% exes.first.sort_by(&:head_html).each do |exhibit| %>
 
-          <div class="col-md-3" style="margin-bottom: 4%;">
+          <div class="col-md-3 exhibit-section-margin">
             <div class="exhibit-section-container"> 
               <%= exhibit.cover.to_s.html_safe %>
             </div>
@@ -113,8 +113,8 @@
 
         <% end %>
 
-        <div class="col-md-3">
-          <div class="exhibit-section-container">
+        <div class="col-md-3 exhibit-section-margin">
+          <div class="exhibit-section-container ">
 
             <!-- notez and resourcys -->
             <% exes.last.each do |exhibit| %>

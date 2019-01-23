@@ -91,7 +91,7 @@ Over the course of the 1970s, faith in the power of American education to become
 
 ## Main
 
-#### Next: [Covering Education in the 1980s](/exhibits/education/covering-education-in-the-reagan-years-1981-1989.md)
+#### Next: [Covering Education in the 1980s](/exhibits/education/covering-education-in-the-1980s.md)
 
 ## Cover
 <img title="Cover Image" alt="Pat Bonner-Lyons on Say Brothert" src="https://s3.amazonaws.com/americanarchive.org/exhibits/SayBrother.JPG">
