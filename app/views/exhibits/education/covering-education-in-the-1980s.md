@@ -83,7 +83,7 @@ While a few of these programs fit the mold of the “at-risk youth” headline s
 
 ## Main
 
-#### Next: [National Education Reforms on Local Television, 1990-Today](/exhibits/education/national-education-reforms-on-Local-television-1990-Today)
+#### Next: [National Education Reforms on Local Television, 1990-Today](/exhibits/education/national-education-reforms-on-local-television-1990-today)
 
 ## Cover
 <img title="Cover Image" alt="Their School? Your School!" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">
