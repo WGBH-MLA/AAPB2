@@ -149,12 +149,6 @@ While NET did not succeed in convincing all the local stations of the wisdom of 
   <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-tm71v5ck55"></a>
 
 - <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-tm71v5ck55">Local Issue; A House Divided (1964)</a>
-  <a class="caption-text">Salt Lake City teacher on strike in A House Divided, an episode of Local Issue from 1964 that looked at 1953 a special session of the state legislature called in 1953 to appropriate additional funds for the schools. As program host and commentator Neal Maxwell, Dean of Students at the University of Utah, talked with people on both sides of the stormy controversy, viewers were brought up to date on the crisis.</a>
-  <img title="Local Issue; A House Divided (1964)" alt="Local Issue; A House Divided (1964)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/UtahTeacher.JPG">
-  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-tm71v5ck55"></a>
-
-- <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-qf8jd4qp2r">At Issue; The Battle for School Integration (1964)</a>
   <a class="caption-text">Students in Boston protest de facto segregation in The Battle for School Integration, a program that examined the spreading civil rights boycotts of northern schools. It surveyed the positive and negative effectiveness of the boycotts, what these boycotts did to the political and asocial structure of a city, and probed whether this method for promoting school integration was a valid use of the boycott.</a>
   <img title="At Issue; The Battle for School Integration (1964)" alt="At Issue; The Battle for School Integration (1964)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheBattleforSchoolIntegration2.JPG">
@@ -163,7 +157,7 @@ While NET did not succeed in convincing all the local stations of the wisdom of 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q">NET Journal; The Way it Is (1966)</a>
   <a class="caption-text">Boredom and distraction at Junior High School 57 in The Way it Is, a 1966 documentary study of what was referred to as the "ghetto school."</a>
-  <img title="NET Journal; The Way It Is (1966)" alt="NET Journal; The Way it Is (1966)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheWayitIs2.JPG">
+  <img title="NET Journal; The Way it Is (1966)" alt="NET Journal; The Way it Is (1966)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheWayitIs2.JPG">
   <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m7q"></a>
 
 - <a class="type">image</a>
