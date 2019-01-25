@@ -92,7 +92,7 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 ## Author
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/christineheadshot.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/christine_headshot.jpg"/>
 
 ### Christine Acham
 
@@ -106,7 +106,7 @@ School of Cinematic Arts
 
 
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ashleyheadshot.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ashley_headshot.jpg"/>
 
 ### Ashley Young
 
