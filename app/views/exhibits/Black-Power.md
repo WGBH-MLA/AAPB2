@@ -5,8 +5,8 @@
 
 
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
+  <caption align="bottom" class="exhibit-caption">Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png" alt="Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver"/></td></tr>
 </table>
 
 
