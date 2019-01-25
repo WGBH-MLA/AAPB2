@@ -6,8 +6,8 @@
 
 ## Extended
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">*Soul!* Production Staff. Source: Bill Whiting.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/c_soul_production_staff.jpg" alt="*Soul!* Production Staff. Source: Bill Whiting."/></td></tr>
+<caption align="bottom" class="exhibit-caption">*Soul!* host Ellis Haizlip interviewing artist and activist Amiri Baraka. Source: *Soul!*.</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/c_option_2_baraka.png" alt="*Soul!* host Ellis Haizlip interviewing artist and activist Amiri Baraka. Source: *Soul!*."/></td></tr>
 </table>
 
 Created for and by African Americans, *Soul!* (1968-73) a variety, talk show featured the era’s most prominent Black political and cultural figures, musicians, writers, and poets. Lasting five seasons, *Soul!* was public television’s national platform for Black arts and entertainment, while simultaneously a public forum for internal debates within the Black community. Similar to *Black Journal*, *Soul!* presented some of the first fully realized and multidimensional coverage of Black nationalists and other radical Black organizations at the time, articulating their ideologies, ideals, and philosophies. The series is representative of the Black Power era (1965-1974), and the era of public broadcasting, which sought to compete with commercial television and provide a more encompassing televisual landscape. One of the first black-produced shows on television, both network and public television, *Soul!* was dedicated to the cultural, political, and artistic expressions of African Americans. Weekly, *Soul!* offered viewers a space filled with music, politics, art, dance, poetry, theatre, and fashion. Other public affairs programming such as *Black Journal* or *Black Perspectives on the News* relied on traditional news formats or documentary style reporting, *Soul!* instead featured politics and culture as seen through the eyes of artists, political leaders, and cultural figures. 
