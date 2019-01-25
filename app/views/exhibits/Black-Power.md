@@ -6,7 +6,7 @@
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_haizlip_and_hillie.jpg" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.jpg" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
 </table>
 
 
@@ -92,7 +92,7 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 ## Author
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/christine_headshot.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/christine_headshot.jpg"/>
 
 ### Christine Acham
 
@@ -106,7 +106,7 @@ School of Cinematic Arts
 
 
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ashley_headshot.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/ashley_headshot.jpg"/>
 
 ### Ashley Young
 
