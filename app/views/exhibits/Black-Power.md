@@ -106,7 +106,7 @@ School of Cinematic Arts
 
 
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ashley_headshot.jpg"/>
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/ashley_headshot.jpg"/>
 
 ### Ashley Young
 
