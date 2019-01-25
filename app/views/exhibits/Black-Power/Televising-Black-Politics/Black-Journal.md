@@ -6,8 +6,8 @@
 
 ## Extended
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">William Greaves and Lou House on the set of *Black Journal*. Source: William Greaves</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" alt="William Greaves and Lou House on the set of *Black Journal*. Source: William Greaves"/></td></tr>
+  <caption align="bottom" class="exhibit-caption">Screenshot of William Greaves and Lou House on the set of *Black Journal*. Source: William Greaves</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" alt="Screenshot of William Greaves and Lou House on the set of *Black Journal*. Source: William Greaves"/></td></tr>
 </table>
 
 
