@@ -1,5 +1,6 @@
 # Advisory Committees
 
+
 In 2018, the American Archive of Public Broadcasting established three advisory committees to help guide and direct the AAPB in the areas of education, scholarly, and station services and outreach. The committees and their members are listed below.
 
 ## Education Advisory Committee (EduAC)
@@ -104,7 +105,7 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Kathryn Ostrofsky**
 <br>Instructor, Department of History, Angelo State University, TX
 
-**Allison Perlman (Co-Chair)**
+**Allison Perlman (SAC Co-Chair)**
 <br>Associate Professor of Film and Media Studies and History, University of California, Irvine 
 
 **Dana Polan**
@@ -127,7 +128,7 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 ## Stations and Producers Advisory Committee (SPAC)
 
 ### Purpose and Mission
-The AAPB SPAC will be a group of individuals working in the public media
+The AAPB SPAC is a group of individuals working in the public media
 community who are passionate about the long-term preservation and access of historic
 public broadcasting. The purpose of the SPAC is to guide and assist the AAPB with
 outreach within public media communities, especially with regard to preserving and
