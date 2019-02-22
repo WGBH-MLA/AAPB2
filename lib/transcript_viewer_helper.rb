@@ -11,8 +11,6 @@ module TranscriptViewerHelper
       doc_root.div(class: 'root') do
         transcript_parts.each do |part|
 
-          # (next unless part['start_time']) if source_type == 'transcript'
-
           new_end_time, text = timecode_parts(part, source_type)
           if (new_end_time - last_end_time) > 60
             @buffer += text
