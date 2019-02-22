@@ -22,7 +22,7 @@
         <% if @transcript_message %>
           <div id="transcript-message" class="">
             <div class="mobile-transcript-content">
-              <%= @transcript_message %>
+              <%= @transcript_message.html_safe %>
             </div>
           </div>
         <% end %>

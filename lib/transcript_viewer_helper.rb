@@ -10,7 +10,6 @@ module TranscriptViewerHelper
     Nokogiri::XML::Builder.new do |doc_root|
       doc_root.div(class: 'root') do
         transcript_parts.each do |part|
-
           new_end_time, text = timecode_parts(part, source_type)
           if (new_end_time - last_end_time) > 60
             @buffer += text
