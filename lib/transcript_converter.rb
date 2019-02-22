@@ -8,7 +8,7 @@ class TranscriptConverter
   def self.json_parts(json)
     # parsed_json = aggregate_transcript_parts(JSON.parse(json))
     parsed_json = JSON.parse(json)
-    parts = parsed_json['parts'].drop(1) if parsed_json['parts'] && parsed_json['parts'][0]
+    parts = parsed_json['parts'] if parsed_json['parts']
     build_transcript(parts, 'transcript')
   end
 
