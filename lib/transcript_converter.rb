@@ -6,8 +6,10 @@ class TranscriptConverter
   extend TranscriptViewerHelper
 
   def self.json_parts(json)
-    parsed_json = aggregate_transcript_parts(JSON.parse(json))
-    build_transcript(parsed_json, 'transcript')
+    # parsed_json = aggregate_transcript_parts(JSON.parse(json))
+    parsed_json = JSON.parse(json)
+    parts = parsed_json['parts'].drop(1) if parsed_json['parts'] && parsed_json['parts'].present?
+    build_transcript(parts, 'transcript')
   end
 
   def self.text_parts(text)
