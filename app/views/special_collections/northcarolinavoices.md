@@ -21,12 +21,12 @@ WUNC began as a FM station staffed by students at the University of North Caroli
 
 ## Featured
 
-[![What is Poverty?](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/515-p843r0qv2f)
-[![Paths out of Poverty](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/515-901zc7sj82)
-[![The North Carolina Fund](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/515-833mw29619)
-[![The Trouble with Teeth](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/515-s17sn0234k)
-[![A Civil War Story](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/515-9w08w38x4x)
-[![A Civil War Story](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/515-bv79s1mf32)
+[![What is Poverty?](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_515-p843r0qv2f)
+[![Paths out of Poverty](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_515-901zc7sj82)
+[![The North Carolina Fund](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_515-833mw29619)
+[![The Trouble with Teeth](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_515-s17sn0234k)
+[![A Civil War Story](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_515-9w08w38x4x)
+[![A Civil War Story](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_515-bv79s1mf32)
 
 ## Resources
 
