@@ -33,3 +33,7 @@ The <em>Recordings at Risk</em> grant program is made possible by funding from t
 
 ## Funders
 - [![Council on Library and Information Resources](https://s3.amazonaws.com/americanarchive.org/org-logos/clir_logo.png "CLIR Logo")](https://www.clir.org/)
+
+## Help
+
+## Terms
