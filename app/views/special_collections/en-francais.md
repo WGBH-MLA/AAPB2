@@ -17,12 +17,12 @@ The <em>Recordings at Risk</em> grant program is made possible by funding from t
 
 ## Featured
 
-[![Le Charivari](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_17-01bk4bz8.jpg)](/catalog/cpb-aacip_17-01bk4bz8)
-[![Michael Doucet](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_17-83kwjb46.jpg)](/catalog/cpb-aacip_17-83kwjb46)
-[![Festivals Acadiens](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_17-440rztqd.jpg)](/catalog/cpb-aacip_17-440rztqd)
-[![Sam Broussard](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_17-580k7bmr.jpg)](/catalog/cpb-aacip_17-580k7bmr)
-[![Atchafalaya Basin Tour](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_17-78gf2t9z.jpg)](/catalog/cpb-aacip_17-78gf2t9z)
-[![An Acadian Odyssey](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_17-4302w3m3.jpg)](/catalog/cpb-aacip_17-4302w3m3)
+[![Le Charivari](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_17-01bk4bz8.jpg)](/catalog/cpb-aacip_17-01bk4bz8)
+[![Michael Doucet](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_17-83kwjb46.jpg)](/catalog/cpb-aacip_17-83kwjb46)
+[![Festivals Acadiens](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_17-440rztqd.jpg)](/catalog/cpb-aacip_17-440rztqd)
+[![Sam Broussard](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_17-580k7bmr.jpg)](/catalog/cpb-aacip_17-580k7bmr)
+[![Atchafalaya Basin Tour](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_17-78gf2t9z.jpg)](/catalog/cpb-aacip_17-78gf2t9z)
+[![An Acadian Odyssey](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_17-4302w3m3.jpg)](/catalog/cpb-aacip_17-4302w3m3)
 
 ## Resources
 
