@@ -26,7 +26,7 @@
 - [Ella Fitzgerald Collection, Smithsonian Archives of American Art](https://www.aaa.si.edu/collection-features/ella-fitzgerald)
 - [Hogan Jazz Archive, Tulane University](https://jazz.tulane.edu/)
 - [Chicago Jazz Archive, University of Chicago](https://www.lib.uchicago.edu/collex/collections/chicago-jazz-archive/)
--[Brubeck Collection, University of the Pacific](https://www.pacific.edu/university-libraries/find/holt-atherton-special-collections/brubeck-collection.html)
+- [Brubeck Collection, University of the Pacific](https://www.pacific.edu/university-libraries/find/holt-atherton-special-collections/brubeck-collection.html)
 
 ## Funders
 
