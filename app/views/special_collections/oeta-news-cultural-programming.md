@@ -1,4 +1,4 @@
-# OETA News and Cultural Programming (1980-Present)
+# Oklahoma Educational Television Authority Programming
 
 ## Thumbnail
 

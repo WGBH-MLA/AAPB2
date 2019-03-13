@@ -41,9 +41,9 @@ do
 	newDir=`dirname "$i"`; # modify this if you want to include the basename of the input argument directory
 	mkdir -p "$outDir/$newDir";
 	if mediainfo "$i" | grep '16:9'; then
-		ffmpeg -i "$i" -vcodec libx264 -pix_fmt yuv420p -b:v 711k -s 640:360 -acodec libfdk_aac -ac 2 -b:a 128k "$outDir/$newDir/$(basename $i)".mp4;
+		ffmpeg -i "$i" -vcodec libx264 -pix_fmt yuv420p -b:v 711k -s 640:360 -acodec aac -ac 2 -b:a 128k -metadata creation_time=now "$outDir/$newDir/$(basename $i)".mp4;
 	else 
-		ffmpeg -i "$i" -vcodec libx264 -pix_fmt yuv420p -b:v 711k -s 480:360 -acodec libfdk_aac -ac 2 -b:a 128k "$outDir/$newDir/$(basename $i)".mp4;
+		ffmpeg -i "$i" -vcodec libx264 -pix_fmt yuv420p -b:v 711k -s 480:360 -acodec aac -ac 2 -b:a 128k -metadata creation_time=now "$outDir/$newDir/$(basename $i)".mp4;
 	fi
 done ;
 IFS=$OLDIFS

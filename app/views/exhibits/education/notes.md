@@ -71,7 +71,7 @@
 
 <a name="31"></a><sup>31</sup> Ibid., 252.
 
-<a name="32"></a><sup>32</sup> Day, *Vanishing Vision*, 104.
+<a name="32"></a><sup>32</sup> Day, *Vanishing Vision*, 104. Created to provide the first live weekly program to the interconnected stations in the NET network, in the first year, *PBL* offered a [“proto-magazine show”](/exhibits/newsmagazines) with different segments in each episode. By year two, *PBL* segments extended in length, often featuring a single long-form documentary for the entire program.
 
 <a name="33"></a><sup>33</sup> Zipporah Films, Inc., http://www.zipporah.com/.
 
