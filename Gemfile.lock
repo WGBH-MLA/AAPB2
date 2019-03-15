@@ -66,10 +66,11 @@ GEM
       bootstrap-sass (~> 3.0)
       openseadragon (>= 0.2.0)
       rails
-    blacklight_range_limit (5.2.0)
-      blacklight (~> 5.15)
+    blacklight_range_limit (7.0.0)
+      blacklight
       jquery-rails
-      rails (>= 3.0, < 5.0)
+      rails (>= 3.0)
+      tether-rails
     bootstrap-sass (3.3.7)
       autoprefixer-rails (>= 5.2.1)
       sass (>= 3.3.4)
@@ -296,6 +297,8 @@ GEM
     sshkit (1.18.0)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
+    tether-rails (1.4.0)
+      rails (>= 3.1)
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
       ref
