@@ -4,6 +4,7 @@ class SearchBuilder < Blacklight::SearchBuilder
   # self.default_processor_chain += [:quote_handler]
   
   def quote_handler(solr_parameters)
+
     # require('pry');binding.pry
     # raise "FUCK!"
     # pull out quoted queries
@@ -12,7 +13,8 @@ class SearchBuilder < Blacklight::SearchBuilder
     query = solr_parameters[:q]
     exact_clauses = query.scan(/"[^"]*"/).map { |clause| exactquery(clause.gsub(%("), '')) }
     clean_query = query.gsub(/"[^"]*"/, '')
-    solr_parameters[:q] = %(#{exact_clauses} #{clean_query})
+    solr_parameters[:q] = %(#{exact_clauses.join(' ')}#{clean_query}) #.gsub(%(\\),'')
+    puts solr_parameters[:q]
   end
 
   def exactquery(string)
