@@ -4,6 +4,7 @@ class SearchBuilder < Blacklight::SearchBuilder
   # self.default_processor_chain += [:quote_handler]
   
   def quote_handler(solr_parameters)
+    # turns "quoted" clauses into exact phrase match clauses
     query = solr_parameters[:q]
     exact_clauses = query.scan(/"[^"]*"/).map { |clause| exactquery(clause.gsub(%("), '')) }
     clean_query = query.gsub(/"[^"]*"/, '')
