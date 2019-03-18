@@ -8,7 +8,7 @@ describe 'Advanced Search Integration' do
   end
 
   before(:each) do
-    visit "/advanced?f[access_types][]=#{PBCore::ALL_ACCESS}"
+    visit "/advanced"
   end
 
   it 'matches entire phrase for exact search' do
