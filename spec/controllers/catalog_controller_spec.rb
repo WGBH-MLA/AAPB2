@@ -45,6 +45,11 @@ describe CatalogController do
     end
 
     it 'errors if f is gibberish' do
+
+      # TODO: Decide if this is useful!
+
+
+
       expect { get 'index', f: { gibberish: 'data', access_types: PBCore::ALL_ACCESS } }.to raise_error
       # TODO: This is the current behavior: do we want something different?
     end
