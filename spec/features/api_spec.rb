@@ -47,7 +47,7 @@ describe 'API' do
     it 'supports xml, too' do
       visit '/api.xml?rows=10&q=iowa'
       expect(page.status_code).to eq 200
-      expect(page.source).to match('<numFound type="integer">5</numFound>')
+      expect(page.source).to match('<numFound type="integer">7</numFound>')
       expect(page.source).to match('Norman Borlaug')
       expect(page.source).to match('<xml>&lt;pbcoreDescriptionDocument')
     end
