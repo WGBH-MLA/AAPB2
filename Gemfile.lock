@@ -66,11 +66,10 @@ GEM
       bootstrap-sass (~> 3.0)
       openseadragon (>= 0.2.0)
       rails
-    blacklight_range_limit (7.0.0)
-      blacklight
+    blacklight_range_limit (5.2.0)
+      blacklight (~> 5.15)
       jquery-rails
-      rails (>= 3.0)
-      tether-rails
+      rails (>= 3.0, < 5.0)
     bootstrap-sass (3.3.7)
       autoprefixer-rails (>= 5.2.1)
       sass (>= 3.3.4)
@@ -297,8 +296,6 @@ GEM
     sshkit (1.18.0)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
-    tether-rails (1.4.0)
-      rails (>= 3.1)
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
       ref
@@ -330,7 +327,7 @@ DEPENDENCIES
   bigdecimal
   blacklight (= 5.19.2)
   blacklight-gallery (= 0.4.1)
-  blacklight_range_limit
+  blacklight_range_limit (= 5.2.0)
   cancan
   capistrano-passenger
   capistrano-rails

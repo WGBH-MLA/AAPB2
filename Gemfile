@@ -64,7 +64,7 @@ gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper'
 
-gem 'blacklight_range_limit'
+gem 'blacklight_range_limit', '5.2.0'
 
 gem 'actionpack-page_caching'
 gem 'srt'
