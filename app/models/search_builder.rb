@@ -2,6 +2,9 @@ class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
   # handled in catalog_controller instead
   # self.default_processor_chain += [:quote_handler]
+
+    require('pry');binding.pry
+
   def quote_handler(solr_parameters)
     # turns "quoted" clauses into exact phrase match clauses
     query = solr_parameters[:q]
