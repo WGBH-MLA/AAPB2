@@ -10,7 +10,7 @@ class SearchBuilder < Blacklight::SearchBuilder
     exact_clauses = query.scan(/"[^"]*"/).map { |clause| exactquery(clause.delete(%("))) }
     clean_query = query.gsub(/"[^"]*"/, '')
     solr_parameters[:q] = %(#{exact_clauses.join(' ')}#{clean_query})
-    solr_parameters[:fq] = %(contributing_organizations: "KQED (CA) OR WGBH (MA)")
+    solr_parameters
   end
 
   def exactquery(string)
