@@ -3,8 +3,6 @@ class SearchBuilder < Blacklight::SearchBuilder
   # handled in catalog_controller instead
   # self.default_processor_chain += [:quote_handler]
 
-    require('pry');binding.pry
-
   def quote_handler(solr_parameters)
     # turns "quoted" clauses into exact phrase match clauses
     query = solr_parameters[:q]
@@ -12,8 +10,6 @@ class SearchBuilder < Blacklight::SearchBuilder
     exact_clauses = query.scan(/"[^"]*"/).map { |clause| exactquery(clause.delete(%("))) }
     clean_query = query.gsub(/"[^"]*"/, '')
     solr_parameters[:q] = %(#{exact_clauses.join(' ')}#{clean_query})
-
-    require('pry');binding.pry
   end
 
   def exactquery(string)
