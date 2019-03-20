@@ -5,13 +5,9 @@ class CatalogController < ApplicationController
   include ApplicationHelper
   include SnippetHelper
 
-  # SearchBuilder -> 'default_processor_chain' doesnt work as documented in blacklight 5, have to infer that searchbuilder implementation wasnt solidified at our version
-  # right_place = search_params_logic.index(:add_query_to_solr)+1
-  # self.search_params_logic.insert(right_place, :quote_handler)
-
-  # duh
-  self.search_params_logic = true
-  # self.search_params_logic += [:quote_handler]
+  # allows usage of default_processor_chain v
+  # self.search_params_logic = true
+  self.search_params_logic += [:quote_handler]
 
   configure_blacklight do |config|
     # 'list' is the name of blacklight's default search result view style
