@@ -136,9 +136,13 @@ describe 'Catalog' do
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
           it "#{facet}=#{value}: #{value_count}\t#{url}" do
             visit url
-            expect(
-              page.all("#facet-#{facet} li a.remove, #facet-#{facet} li a.facet_select").count
-            ).to eq facet_count # expected number of values for each facet
+
+            # range_limit facet for year does not produce these elements, skip
+            if facet != 'year'
+              expect(
+                page.all("#facet-#{facet} li a.facet_select").count
+              ).to eq facet_count # expected number of values for each facet
+            end
             expect(page.status_code).to eq(200)
             expect_count(value_count)
             expect_fuzzy_xml
