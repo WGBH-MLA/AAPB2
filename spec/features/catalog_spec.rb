@@ -20,9 +20,6 @@ describe 'Catalog' do
     when 1
       expect(page).to have_text('1 entry found')
     else
-
-      # (require('pry');binding.pry) if (page.text.exclude?("1 - #{[count, 10].min} of #{count}"))
-
       expect(page).to have_text("1 - #{[count, 10].min} of #{count}")
     end
   end

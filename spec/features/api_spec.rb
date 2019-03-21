@@ -37,7 +37,7 @@ describe 'API' do
       visit '/api.json?rows=10&q=iowa'
       expect(page.status_code).to eq 200
       expect(page.source).to match(/^\{/s)
-      expect(page).to have_text('"numFound": 5')
+      expect(page).to have_text('"numFound": 7')
       expect(page).to have_text('Norman Borlaug')
       expect(page.source).to match('"xml": "<pbcoreDescriptionDocument')
       # have_text runs the source through a regex that removes "tags",
