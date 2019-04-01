@@ -133,9 +133,13 @@ describe 'Catalog' do
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
           it "#{facet}=#{value}: #{value_count}\t#{url}" do
             visit url
-            expect(
-              page.all("#facet-#{facet} li a.remove, #facet-#{facet} li a.facet_select").count
-            ).to eq facet_count # expected number of values for each facet
+
+            # range_limit facet for year does not produce these elements, skip
+            if facet != 'year'
+              expect(
+                page.all("#facet-#{facet} li a.facet_select").count
+              ).to eq facet_count # expected number of values for each facet
+            end
             expect(page.status_code).to eq(200)
             expect_count(value_count)
             expect_fuzzy_xml
@@ -268,9 +272,9 @@ describe 'Catalog' do
         describe 'relevance sorting' do
           # rubocop:disable LineLength
           assertions = [
-            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'The Civil War; Interviews with Barbara Fields']],
-            ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'Japanese Brush Painting; 2; Fish', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']],
-            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', 'The Civil War; Interviews with Barbara Fields', 'Musical Performance of Appalachian Folk Music in Kentucky', '15th Anniversary Show']]
+            ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'The Civil War; Interviews with Barbara Fields', '1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']],
+            ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'Japanese Brush Painting; 2; Fish', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3', '15th Anniversary Show']],
+            ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3', '1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6', 'The Civil War; Interviews with Barbara Fields', 'Racing the Rez', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'Musical Performance of Appalachian Folk Music in Kentucky']]
           ]
           # rubocop:enable LineLength
           assertions.each do |query, titles|
