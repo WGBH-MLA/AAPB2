@@ -108,8 +108,6 @@ The effect of legislation and cultural changes pushed by feminists was transform
 
 ## Main
 
-#### Next: [Education and Work](/exhibits/women-politics/education-work)
-
 ## Cover
   <img title="shirley-chisholm" alt="Image of US Representative Shirley Chisholm announcing her 1972 run for the Democratic nomination for President at a long desk with US Representatives Parren Mitchell, Charles B. Rangel, and Bella Abzug." src="https://s3.amazonaws.com/americanarchive.org/exhibits/thumbnail_Shirley_Chisholm.jpg">
 
