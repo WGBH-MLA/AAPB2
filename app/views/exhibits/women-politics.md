@@ -49,3 +49,5 @@ This exhibit contains four sections for users to explore: Legislation & Movement
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/thumbnail_women-politics-collage.jpg">
   <a class="caption-text">A collage of 10 women: Maria Sanchez, Connie Uri, Marcia Ann Gillespie, Karen DeCrow, Dorothy Pitman Hughes, Betty Freidan, Phyllis Schlafly, Gloria Steinem, Bella Abzufg, and Carol Burris.</a>
   <a class="credit-link" href="/special_collections/woman-series">Courtesy of WNED</a>
+
+## Records
