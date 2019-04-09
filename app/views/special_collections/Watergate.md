@@ -3,6 +3,7 @@
 ## Thumbnail
 
 ![Watergate Hearings](https://s3.amazonaws.com/americanarchive.org/special-collections/Herblock_latereturns-l.jpg "Watergate Hearings")
+<a class="caption-text">Herbert Block. <em>Late Returns.</em> Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225. A 1973 Herblock Cartoon, © The Herb Block Foundation.</a>
 
 ## Summary
 
