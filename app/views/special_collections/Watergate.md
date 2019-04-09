@@ -2,8 +2,7 @@
 
 ## Thumbnail
 
-![The Watergate Hearings]
- <img alt="" src="https://s3.amazonaws.com/americanarchive.org/special-collections/latereturns-l.jpg">
+[The Watergate Hearings]<img alt="" src="https://s3.amazonaws.com/americanarchive.org/special-collections/latereturns-l.jpg">
     <a class="caption-text">Herbert Block. <em>Late Returns.</em> Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225. A 1973 Herblock Cartoon, © The Herb Block Foundation.</a>
 
 ## Summary
@@ -28,7 +27,7 @@ The Watergate hearings were produced by PBS’ National Public Affairs Center fo
 
 - [“Gavel-to-Gavel”: The Watergate Scandal and Public Television](http://americanarchive.org/exhibits/watergate)
 - [The Watergate Files Exhibit, Ford Library Museum](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html)
-- [“Covering Watergate:40 Years Later with MacNeil and Lehrer”, PBS](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer)
+- [“Covering Watergate: 40 Years Later with MacNeil and Lehrer”, PBS](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer)
 - [Watergate Trial Tapes, Nixon Library](https://www.nixonlibrary.gov/watergate-trial-tapes)
 
 ## Funders
