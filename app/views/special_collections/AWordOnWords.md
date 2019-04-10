@@ -1,4 +1,4 @@
-# A Word on Words Interviews
+# A Word on Words
 
 ## Thumbnail
 
@@ -6,7 +6,7 @@
 
 ## Summary
 
-The <em>A Word on Words</em> Interview Collection contains 901 episodes from the acclaimed long-running series produced by Nashville Public Television featuring thoughtful and surprising discussions about literature and the lives of authors. The collection includes episodes from 1972 through 2013 with host John Seigenthaler, a native Nashvillian and longtime journalist, publisher, and editor with the <em>Tennessean</em>, and chair of the selection committee for the Robert F. Kennedy Book Award. Episodes feature nationally known authors, including Al Gore, Janet Leigh, Robert K. Massie, Rep. John Lewis, Alice Randall, songwriter and author; and Wally Amos, Jr., entrepreneur and founder of Famous Amos cookies; in addition to local authors and historians of importance to Tennessee history and literature. Subjects include Nashville, American History, the American South, cooking, and the United States government. 
+The <em>A Word on Words</em> Collection contains 901 episodes from the acclaimed long-running series produced by Nashville Public Television featuring thoughtful and surprising discussions about literature and the lives of authors. The collection includes episodes from 1972 through 2013 with host John Seigenthaler, a native Nashvillian and longtime journalist, publisher, and editor with the <em>Tennessean</em>, and chair of the selection committee for the Robert F. Kennedy Book Award. Episodes feature nationally known authors, including Al Gore, Janet Leigh, Robert K. Massie, Rep. John Lewis, Alice Randall, songwriter and author; and Wally Amos, Jr., entrepreneur and founder of Famous Amos cookies; in addition to local authors and historians of importance to Tennessee history and literature. Subjects include Nashville, American History, the American South, cooking, and the United States government. 
 
 ## Background
 
