@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![A Word on Words](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_524-2n4zg6h00x.jpg "A Word on Words") [Searching for main image]
+![A Word on Words](https://s3.amazonaws.com/americanarchive.org/special-collections/John+Seigenthaler.cmky.jpg "A Word on Words")
 
 ## Summary
 
@@ -10,7 +10,7 @@ The <em>A Word on Words</em> Interview Collection contains 901 episodes from the
 
 ## Background
 
-<em>A Word on Words</em> is produced by Nashville Public Television. Nashville Public Television digitized the collection and contributed copies to the American Archive of Public Broadcasting (AAPB) in 2018.
+<em>A Word on Words</em> is produced by Nashville Public Television and made possible by the financial support of Judy and Steve Turner. Nashville Public Television digitized the collection and contributed copies to the American Archive of Public Broadcasting (AAPB) in 2018.
 
 ## Featured
 
