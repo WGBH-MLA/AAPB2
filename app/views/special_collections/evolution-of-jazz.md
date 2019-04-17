@@ -13,12 +13,12 @@
 
 ## Featured 
 
-[![Duke Ellington](https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-9z90dg82)
-[![West African Influences](https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-c824g66s)
-[![Dave Brubeck](https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-kd1qkz43)
-[![Ella Fitzgerald](https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-bz619c4t)
-[![Ragtime](https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-tt4fsd6k)
-[![New Orleans Jazz](https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-fj29dt01)
+[![Duke Ellington](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-9z90dg82)
+[![West African Influences](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-c824g66s)
+[![Dave Brubeck](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-kd1qkz43)
+[![Ella Fitzgerald](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-bz619c4t)
+[![Ragtime](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-tt4fsd6k)
+[![New Orleans Jazz](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-fj29dt01)
 
 ## Resources
 
