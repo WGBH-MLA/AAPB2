@@ -271,6 +271,7 @@ describe 'Catalog' do
       describe 'sorting' do
         describe 'relevance sorting' do
           # rubocop:disable LineLength
+          # all 10 because we're only looking at first page results
           assertions = [
             ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'The Civil War; Interviews with Barbara Fields', '1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']],
             ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'Japanese Brush Painting; 2; Fish', 'A Sorting Test: 100', 'Musical Performance of Appalachian Folk Music in Kentucky', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3', '15th Anniversary Show']],

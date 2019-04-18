@@ -34,7 +34,7 @@ Although the Commission advocated an increased federal role in the nation’s ed
 <a id="Covering-the-Crisis"></a>
 
 ### Covering the Crisis: Education Reporting in the 1980s
-The growing focus on education in most states prompted the media to increase coverage of educational issues. Many contemporary commentators, however, noted the poor quality of this coverage in both print journalism and on television. E. Patrick McQuaid, writing in *The Phi Delta Kappan*, noted that after the publication of *A Nation at Risk*, “every entry-level graduate of journalism school who would ordinarily have been pounding out obits was assigned to the education beat.”[<sup>63</sup>](/exhibits/education/notes#63)  Once these green journalists showed any promise, they would be promoted to other desks.[<sup>64</sup>](/exhibits/education/notes#64)  Where education stories did make the front page, they mostly appeared each year in September with the flavor of “youth at risk” sensationalism.[<sup>65</sup>](/exhibits/education/notes#65)
+The growing focus on education in most states prompted the media to increase coverage of educational issues. Many contemporary commentators, however, noted the poor quality of this coverage in both print journalism and on television. E. Patrick McQuaid, writing in *The Phi Delta Kappan*, noted that after the publication of *A Nation at Risk*, “every entry-level graduate of journalism school who would ordinarily have been pounding out obits was assigned to the education beat.”[<sup>63</sup>](/exhibits/education/notes#63)  Once these green journalists showed any promise, they would be promoted to other desks.[<sup>64</sup>](/exhibits/education/notes#64)  When education stories did make the front page, they mostly appeared each year in September with the flavor of “youth at risk” sensationalism.[<sup>65</sup>](/exhibits/education/notes#65)
 
 George R. Kaplan, a frequent media commentator on education policy, pointed out one shining exception to this slurry of mediocre coverage. This was John Merrow, in Kaplan’s words, “the Michael Jordan of electronic media coverage of education.”[<sup>66</sup>](/exhibits/education/notes#66)  After graduating with a doctorate from the Harvard Graduate School of Education in 1973, John Merrow began his broadcast journalism career at NPR. In 1975, he produced a report for the National Institute of Education on the competency movement, an early 1970s reformist trend that required teachers to demonstrate aptitude in specific “competencies.”[<sup>67</sup>](/exhibits/education/notes#67)  In 1984, Merrow produced a seven-part series on KTCA in Saint Paul and Minneapolis, Minnesota, called *Your Children, Our Children*, which PBS distributed nationally. Merrow joined [*The MacNeil/Lehrer NewsHour*] (http://americanarchive.org/special_collections/newshour) in 1985, where he produced more than 100 reports on education.
 
@@ -83,7 +83,7 @@ While a few of these programs fit the mold of the “at-risk youth” headline s
 
 ## Main
 
-#### Next: [National Education Reforms on Local Television, 1990-Today](/exhibits/education/national-education-reforms-on-Local-television-1990-Today)
+#### Next: [National Education Reforms on Local Television, 1990-Today](/exhibits/education/national-education-reforms-on-local-television-1990-today)
 
 ## Cover
 <img title="Cover Image" alt="Their School? Your School!" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">

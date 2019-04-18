@@ -1,13 +1,19 @@
 # What's New at the AAPB
 
-![Control Panel](/page-banners/banner3.jpg)
-
 Read about about AAPB's new collections, exhibits and projects below.
+
+## April 2019
+
+### New Special Collections
+Latest Special Collections to launch include *Vision Maker Media Documentaries*, *PBS NewsHour* collection, *North Carolina Voices*, *Firing Line*, *The Abolitionists Interviews*, *1964 Interviews*, *The Center for Asian American Media* collection, *Feminist Community Radio at KOPN*, *En Français*, *Say Brother*, *Oklahoma Educational Television Authority Programming*, *National Educational Television* collection, *Georgia Gazette*, *Stonewall Uprising Interviews*, *The Evolution of Jazz*, and *Reconstruction Interviews*. View the collections at http://americanarchive.org/special_collections.
+
+### New Exhibit
+Curated by Amanda Reichenbach, the AAPB launched a new exhibit titled "Education Reporting on Public Television." From black-and-white footage of protests against segregated schools in New York City, to full-color newscasts about the rollout of No Child Left Behind in Guam, public television has had a long history of covering education stories. This online exhibit highlights documentaries, news magazines, talk shows, and special reports in the AAPB collection dedicated to learning in America. The exhibit is available at http://americanarchive.org/exhibits/education.
 
 ## June 2018
 
 ### New Special Collections
-![SpecialCollectionsTiles](https://s3.amazonaws.com/americanarchive.org/override/SpecialCollectionsTiles.png "SpecialCollectionsTiles") The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at [http://americanarchive.org/special_collections].
+The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at http://americanarchive.org/special_collections.
 
 ## March 2018
 
