@@ -151,6 +151,9 @@ $(document).on('turbolinks:load', function() {
   }
 
   function updatePlayerGrid() {
+    if(!player){
+      return;
+    }
     var playerHeight = player.height();
     var playerWidth = player.width();
 

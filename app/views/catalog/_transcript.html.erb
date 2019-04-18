@@ -1,7 +1,8 @@
 <% if @transcript_content %>
   <div id="transcript-state" style="display: none;" class="hidden initial <%= @transcript_open ? 'open' : 'closed' %>"></div>
 
-  <div class="col-sm-12 col-md-6 transcript-div transcript-view-show">
+                        <!-- this refers to the video -  full width transcript viewer if no wideo -->
+  <div class="col-sm-12 <%= @available_and_playable ? 'col-md-6 col-lg-6' : 'col-md-12 col-lg-12' %> transcript-div transcript-view-show">
 
     <dl class="panel transcript-panel">
 
