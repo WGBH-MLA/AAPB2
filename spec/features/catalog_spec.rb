@@ -283,7 +283,6 @@ describe 'Catalog' do
             it "sort=score+desc: #{titles}\t#{url}" do
               visit url
               expect(page.status_code).to eq(200)
-              (require('pry');binding.pry) if query == 'John'
               expect(page.all('.document h2').map(&:text)).to eq(titles)
 
               # expect_fuzzy_xml
