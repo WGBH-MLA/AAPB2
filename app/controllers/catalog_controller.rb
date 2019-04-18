@@ -256,21 +256,32 @@ class CatalogController < ApplicationController
         end
 
         if can? :access_transcript, @pbcore
-          @show_transcript = @pbcore.transcript_status.nil? ? false : true
 
-          if @pbcore.transcript_status == PBCore::CORRECT_TRANSCRIPT
-            @transcript_open = true
-          else
-            @transcript_message = 'This transcript is machine-generated and has not been corrected. It is likely there will be errors.'
-            @transcript_open = false
+          # # something to show?
+          if @document.transcript?
+            @transcript_content = TranscriptFile.new(params['id']).html
+
+            if @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
+              @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
+            end
+          elsif @document.caption?
+            # use SRT when transcript not available
+            @transcript_content = CaptionFile.new(params['id']).html
           end
 
-          @transcript_html = TranscriptFile.new(params['id']).html
-          @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
-        end
+          # how shown are we talkin here?
+          if @transcript_content
+            if @pbcore.transcript_status == PBCore::CORRECT_TRANSCRIPT
+              @transcript_open = true
+            else
+              # rubocop:disable LineLength
+              @transcript_message = 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>'
+              # rubocop:enable LineLength
+              @transcript_open = false
+            end
+          end
 
-        if @document.transcript? && @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
-          @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
+          @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
         end
 
         render

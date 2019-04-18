@@ -279,9 +279,15 @@ class PBCore
   end
   def duration
     @duration ||= begin
-      xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
+      xpath('/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration')
     rescue
-      xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+
+      # old cases
+      begin
+        xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
+      rescue
+        xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+      end
     end
   end
   def player_aspect_ratio
@@ -367,42 +373,43 @@ class PBCore
     # We don't want to ping S3 multiple times, and we don't want to store all
     # of a captions/transcript file in solr (much less in the pbcore).
     # --> We only want to say that it exists, and we want to index the words.
-    doc_with_caption_flag = @doc.deep_clone
-    # perhaps paranoid, but I don't want this method to have side effects.
+
+    # REXML::Document
+    full_doc = @doc.deep_clone
+    # spot_for_annotations = REXML::XPath.match(full_doc, '//pbcoreInstantiation[last()]').first
+    spot_for_annotations = '//pbcoreInstantiation[last()]'
 
     caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
     if caption_response.code == '200'
-      pre_existing = pre_existing_caption_annotation(doc_with_caption_flag)
+      pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-
       caption_body = parse_caption_body(CaptionConverter.srt_to_text(caption_response.body))
 
-      REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
-        REXML::Element.new('pbcoreAnnotation').tap do |el|
-          el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-          el.add_text(PBCore.srt_url(id))
-        end
+      cap_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
+        el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
+        el.add_text(PBCore.srt_url(id))
+      end
+
+      full_doc.insert_after(spot_for_annotations, cap_anno)
     end
 
-    doc_with_transcript_flag = doc_with_caption_flag
     transcript = TranscriptFile.new(id)
-
     if transcript.file_present?
-      pre_existing = pre_existing_transcript_annotation(doc_with_transcript_flag)
+      pre_existing = pre_existing_transcript_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-
       transcript_body = Nokogiri::HTML(transcript.html).text.tr("\n", ' ')
 
-      REXML::XPath.match(doc_with_transcript_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
-        REXML::Element.new('pbcoreAnnotation').tap do |el|
-          el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
-          el.add_text(transcript.url)
-        end
+      trans_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
+        el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
+        el.add_text(transcript.url)
+      end
+
+      full_doc.insert_after(spot_for_annotations, trans_anno)
     end
 
     {
       'id' => id,
-      'xml' => Formatter.instance.format(doc_with_transcript_flag),
+      'xml' => Formatter.instance.format(full_doc),
 
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },

@@ -1,29 +1,15 @@
 require 'json'
 require 'nokogiri'
+require_relative 'transcript_viewer_helper'
 
 class TranscriptConverter
+  extend TranscriptViewerHelper
+
   def self.json_parts(json)
+    # parsed_json = aggregate_transcript_parts(JSON.parse(json))
     parsed_json = JSON.parse(json)
-    Nokogiri::XML::Builder.new do |x|
-      x.div(class: 'root') do
-        para_counter = 1
-        aggregate_transcript_parts(parsed_json).each do |part|
-          x.div(class: 'transcript-row') do
-            x.span(' ', class: 'play-from-here', 'data-timecode' => as_timestamp(part['start_time']))
-            x.div(
-              id: "para#{para_counter}",
-              class: 'para',
-              'data-timecodebegin' => as_timestamp(part['start_time']),
-              'data-timecodeend' => as_timestamp(part['end_time'])
-            ) do
-              # Text content is just to prevent element collapse and keep valid HTML.
-              x.text(part['text'])
-            end
-          end
-          para_counter += 1
-        end
-      end
-    end.doc.root.children
+    parts = parsed_json['parts'] if parsed_json['parts']
+    build_transcript(parts, 'transcript')
   end
 
   def self.text_parts(text)
