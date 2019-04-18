@@ -376,7 +376,15 @@ class PBCore
 
     # REXML::Document
     full_doc = @doc.deep_clone
-    spot_for_annotations = ['//pbcoreInstantiation[last()]','//pbcoreRightsSummary[last()]','//pbcorePublisher[last()]','//pbcoreContributor[last()]','//pbcoreCreator[last()]','//pbcoreCoverage[last()]','//pbcoreGenre[last()]','//pbcoreDescription[last()]',].detect {|xp| xpaths(xp).count > 0 }
+    spot_for_annotations = ['//pbcoreInstantiation[last()]',
+                            '//pbcoreRightsSummary[last()]',
+                            '//pbcorePublisher[last()]',
+                            '//pbcoreContributor[last()]',
+                            '//pbcoreCreator[last()]',
+                            '//pbcoreCoverage[last()]',
+                            '//pbcoreGenre[last()]',
+                            '//pbcoreDescription[last()]'
+                          ].detect { |xp| xpaths(xp).count > 0 }
 
     caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
     if caption_response.code == '200'
