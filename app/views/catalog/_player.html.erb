@@ -64,7 +64,10 @@
     </div>
   </div>
 
-
+<% elsif @transcript_content %>
+  <div class="row">
+    <%= render partial: 'transcript' %>
+  </div>
 <% else %>
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
   <div style="margin-top: 1em;" class="content-text">
