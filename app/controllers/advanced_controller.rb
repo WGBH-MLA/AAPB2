@@ -6,26 +6,7 @@ class AdvancedController < ApplicationController
   end
 
   def create
-    if params[:exact].present?
-      # separate exact clause from rest of query
-      qoo = "#{exactquery} #{query}"
-    end
-    redirect_to "/catalog?q=#{CGI.escape(qoo || query)}#{pass_constraints}"
-  end
-
-  def exactquery
-    # mandatory OR query for each unstemmed field
-    fieldnames = %w(captions_unstemmed
-                    text_unstemmed
-                    titles_unstemmed
-                    contribs_unstemmed
-                    title_unstemmed
-                    contributing_organizations_unstemmed
-                    producing_organizations_unstemmed
-                    genres_unstemmed
-                    topics_unstemmed
-                  )
-    %(+(#{fieldnames.map { |fieldname| %(#{fieldname}:"#{params[:exact]}") }.join(' OR ')}))
+    redirect_to "/catalog?q=#{CGI.escape(query)}#{pass_constraints}"
   end
 
   def query
@@ -40,7 +21,11 @@ class AdvancedController < ApplicationController
         self.class.prefix(params[:any], '', ' OR '),
 
       !params[:none].empty? &&
-        self.class.prefix(params[:none], '-')
+        self.class.prefix(params[:none], '-'),
+
+      !params[:exact].empty? &&
+        # do quotes in search_builder now
+        %("#{params[:exact]}")
 
     ].select { |clause| clause }.join(' ')
   end

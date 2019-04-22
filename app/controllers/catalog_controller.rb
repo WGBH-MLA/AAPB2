@@ -5,12 +5,19 @@ class CatalogController < ApplicationController
   include ApplicationHelper
   include SnippetHelper
 
+  # allows usage of default_processor_chain v
+  # self.search_params_logic = true
+  self.search_params_logic += [:quote_handler]
+
   configure_blacklight do |config|
     # 'list' is the name of blacklight's default search result view style
     config.view.gallery.partials = [:index]
 
     config.view.short_list.partials = [:index]
     config.view.short_list.icon_class = 'view-icon-short_list'
+
+    # SearchBuilder contains logic for adding search params to Solr
+    config.search_builder_class = SearchBuilder
 
     # config.view.masonry.partials = [:index]
     # config.view.masonry.icon_class = 'view-icon-masonry'
