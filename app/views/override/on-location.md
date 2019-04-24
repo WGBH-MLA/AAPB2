@@ -1,8 +1,5 @@
 # On Location Research
 
-![Television Camera](/page-banners/banner2.jpg)
-
-
 Approximately 30% of the American Archive of Public Broadcasting (AAPB) collection is accessible anywhere in the United States through the Online Reading Room on the AAPB website. Members of the general public may access the entire collection within the WGBH Media Library and Archives offices and at the Library of Congress Moving Image and Recorded Sound Research Centers. Content is accessible as proxy files, or low-resolution viewing/listening copies provided through the AAPB website. Users accessing AAPB materials at the on-site research locations must agree to abide by AAPB Access Policies.
 
 ## Visiting WGBH

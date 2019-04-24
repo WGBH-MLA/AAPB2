@@ -1,7 +1,5 @@
 # About the AAPB
 
-![Eleanor Roosevelt](/page-banners/banner8.jpg)
-
 >
 Public television has been responsible for the production, broadcast, and
 dissemination of some of the most important programs which in aggregate form

@@ -1,7 +1,5 @@
 # American Archive of Public Broadcasting National Digital Stewardship Residency Project
 
-![banner](/page-banners/banner4.jpg)
-
 In June 2017, the Andrew W. Mellon Foundation awarded WGBH a grant to support the American Archive of Public Broadcasting. WGBH is using these grant funds to build technical capacity for the intake of new content, develop collaborative initiatives, build training and support services for AAPB contributors, and foster scholarly use and enhanced public access for the collection. Over the course of the project, AAPB’s activities include:
 
 - Collaborating with AVPreserve and Indiana University to develop new core and custom features of the Avalon Media System (developed by the libraries of Indiana University and Northwestern University) to replace AAPB’s current Archival Management System (AMS)

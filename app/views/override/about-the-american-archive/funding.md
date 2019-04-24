@@ -1,7 +1,5 @@
 # Funding
 
-![Television Studio](/page-banners/banner6.jpg)
-
 The American Archive of Public Broadcasting is generously supported by the following organizations:
 
 ### Corporation for Public Broadcasting
