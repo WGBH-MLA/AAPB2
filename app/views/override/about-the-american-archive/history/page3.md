@@ -1,7 +1,5 @@
 # A Brief History of the AAPB
 
-![Control Panel](/page-banners/banner3.jpg)
-
 ## Notes
 
 <a name="1"></a><sup>1</sup>Departments of Labor, Health and Human Services, Education, and

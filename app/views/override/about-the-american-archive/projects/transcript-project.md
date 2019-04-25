@@ -1,5 +1,3 @@
 # Improving Access to Time-Based Media through Crowdsourcing and Machine Learning
 
-![banner](/page-banners/banner4.jpg)
-
 WGBH, on behalf of the American Archive of Public Broadcasting, and Pop Up Archive plan to address the challenges faced by many libraries and archives trying to provide better access to their media collections through online discoverability. This project combines technological and social approaches for metadata creation by leveraging scalable computation and engaging the public to improve access through crowdsourcing games for time-based media. The project supports several related areas of research and testing, including: speech-to-text and audio analysis tools to transcribe and analyze approximately 40,000 hours of digital audio from the AAPB; open source web-based tools to improve transcripts and descriptive data by engaging the public in a crowdsourced, participatory cataloging project; and creating and distributing data sets to provide a public database of audiovisual metadata for use by other projects. This project is generously funded by the Institute of Museum and Library Services.

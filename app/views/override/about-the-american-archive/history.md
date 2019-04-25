@@ -1,7 +1,5 @@
 # A Brief History of the AAPB
 
-![Control Panel](/page-banners/banner3.jpg)
-
 By Alan Gevinson, Ph.D., Project Director for the American Archive of Public Broadcasting at the Library of Congress
 
 >
