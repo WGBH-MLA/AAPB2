@@ -89,13 +89,15 @@
     <strong><%= exhibit_caption %></strong>
   </a>
 <% end %>
-<% if @pbcore.special_collection %>
-  <% coll = SpecialCollection.find_by_path(@pbcore.special_collection) %>
-  <% coll_caption = "This record is featured in “#{coll.title}.”" %>
-  <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
-    <span class="glyphicon glyphicon-star"></span>
-    <strong><%= coll_caption %></strong>
-  </a>
+<% if @pbcore.special_collections %>
+  <% @pbcore.special_collections.each do |collection| %>
+    <% coll = SpecialCollection.find_by_path(collection) %>
+    <% coll_caption = "This record is featured in “#{coll.title}.”" %>
+    <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
+      <span class="glyphicon glyphicon-star"></span>
+      <strong><%= coll_caption %></strong>
+    </a>
+  <% end %>
 <% end %>
 
 <% unless @available_and_playable %>

@@ -325,8 +325,8 @@ class CatalogController < ApplicationController
   end
 
   def special_collection_from_url
-    if params['f'] && params['f']['special_collection'] && !params['f']['special_collection'].empty?
-      path = params['f']['special_collection'].first
+    if params['f'] && params['f']['special_collections'] && !params['f']['special_collections'].empty?
+      path = params['f']['special_collections'].first
       begin
         return SpecialCollection.find_by_path(path)
       rescue
