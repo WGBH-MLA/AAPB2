@@ -428,6 +428,7 @@ class PBCore
 
       # sort and facet:
       'year' => year,
+      'asset_date' => asset_date,
 
       # facets:
       'exhibits' => exhibits.map(&:path),
@@ -505,6 +506,20 @@ class PBCore
   end
 
   def year
+    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+  end
+
+  def date_for_assetdate_field
+    date_val = asset_date
+
+    proper_val = if date_val.match(/\A\d{4}\-\d{1,2}\-\d{1,2}\z/)
+
+    elsif date_val.match (/\A\d{4}\-\d{1,2}\z/)
+
+    elsif date_val.match (/\A\d{4}\z/)
+
+    end
+
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
   end
 
