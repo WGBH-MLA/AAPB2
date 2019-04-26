@@ -177,8 +177,8 @@ class CatalogController < ApplicationController
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
     config.add_sort_field 'score desc', label: 'relevance'
-    config.add_sort_field 'timestamp desc', label: 'year (newest)'
-    config.add_sort_field 'timestamp asc', label: 'year (oldest)'
+    config.add_sort_field 'asset_date desc', label: 'date (newest)'
+    config.add_sort_field 'asset_date asc', label: 'date (oldest)'
     config.add_sort_field 'title asc', label: 'title'
 
     # If there are more than this many search results, no spelling ("did you
