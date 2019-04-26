@@ -428,7 +428,7 @@ class PBCore
 
       # sort and facet:
       'year' => year,
-      'asset_date' => asset_date,
+      'asset_date' => date_for_assetdate_field,
 
       # facets:
       'exhibits' => exhibits.map(&:path),
@@ -511,16 +511,42 @@ class PBCore
 
   def date_for_assetdate_field
     date_val = asset_date
+    return unless date_val
 
-    proper_val = if date_val.match(/\A\d{4}\-\d{1,2}\-\d{1,2}\z/)
+    # 0000-00-00
+    if date_val.match(/\A\d{4}\-\d{1,2}\-\d{1,2}\z/)
 
+      year, month, day = date_val.scan(/\A(\d{4})\-(\d{1,2})\-(\d{1,2})\z/).flatten
+
+    # 0000-00
     elsif date_val.match (/\A\d{4}\-\d{1,2}\z/)
 
-    elsif date_val.match (/\A\d{4}\z/)
+      year, month = date_val.scan(/\A(\d{4})\-(\d{1,2})\z/).flatten
 
+    # 0000
+    elsif date_val.match (/\A\d{4}\z/)
+      year = date_val
+      month = '12'
+      day = '31'
     end
 
-    @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+    if month == '00'
+      month = 12
+    end
+
+    # if we somehow got a 1999-00-31 or something, toss the day, cause that ain't real!
+    if !day || day == '00'
+      day = if ['04','06','09','11'].include?(month)
+        '30'
+      elsif month == '02'
+        '28'
+      else
+        '31'
+      end
+    end
+
+    proper_val = %(#{year}-#{month}-#{day})
+    proper_val.to_time.strftime('%Y-%m-%eT%H:%M:%SZ')
   end
 
   def pre_existing_caption_annotation(doc)

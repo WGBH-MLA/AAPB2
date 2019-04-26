@@ -6,6 +6,8 @@ require_relative 'lib/pb_core_ingester'
 require 'logger'
 require 'rake'
 
+require 'active_support/core_ext/string'
+
 class Exception
   def short
     message + "\n" + backtrace[0..2].join("\n")
@@ -16,6 +18,7 @@ class ParamsError < StandardError
 end
 
 class DownloadCleanIngest
+
   def const_init(name)
     const_name = name.upcase.tr('-', '_')
     flag_name = "--#{name}"
