@@ -1,10 +1,9 @@
 class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
   # handled in catalog_controller instead
-
   # self.default_processor_chain << :quote_handler
 
-  def quote_handler(solr_parameters)
+  def apply_quote_handler(solr_parameters)
     # turns "quoted" clauses into exact phrase match clauses
     query = solr_parameters[:q]
     return unless query
@@ -14,6 +13,54 @@ class SearchBuilder < Blacklight::SearchBuilder
     solr_parameters
   end
 
+  # Adds date filters to the :fq of the solr params.
+  def apply_date_filter(solr_params)
+    if date_filters
+      solr_params[:fq] ||= []
+      solr_params[:fq] << date_filter
+    end
+    solr_params
+  end
+
+  # Date Filter
+  # Returns the array of date filters, which are joined with ' OR ' as part
+  # of a 'fq' parameter. See apply_date_filter above.
+  def date_filters
+    @date_filters ||= begin
+      if date_range
+        %(asset_date: #{date_range})
+      end
+    end
+  end
+
+  # Returns the 'before' date time formatted for a Solr query.
+  def before_date
+    @before_date ||= blacklight_params['before_date'].to_time.strftime('%Y-%m-%dT%H:%M:%SZ') if blacklight_params['before_date']&.present?
+  end
+
+  # Returns the 'after' date time formatted for a Solr query.
+  def after_date
+    @after_date ||= blacklight_params['after_date'].to_time.strftime('%Y-%m-%dT%H:%M:%SZ') if blacklight_params['after_date']&.present?
+  end
+
+  # Returns the date inputs in the form of a queryable range.
+  def date_range
+    @date_range ||= if filter_exact_date?
+      if after_date
+        "[#{after_date} TO #{after_date}]"
+      end
+    else
+      if before_date || after_date
+        "[#{after_date || '*'} TO #{before_date || '*'}]"
+      end
+    end
+  end
+
+  def filter_exact_date?
+    blacklight_params['exact_or_range'] == 'exact'
+  end
+
+  # Quote Handler
   def exactquery(string)
     # mandatory OR query for each unstemmed field
     fieldnames = %w(captions_unstemmed
@@ -29,7 +76,8 @@ class SearchBuilder < Blacklight::SearchBuilder
     %(+(#{fieldnames.map { |fieldname| %(#{fieldname}:"#{string}") }.join(' OR ')}))
   end
 
-  # monkeypatch copy
+
+  # Ye old monkeypatch copy from elsewhere. Now seen here!
   def facet_value_to_fq_string(facet_field, value)
     facet_config = blacklight_config.facet_fields[facet_field]
 

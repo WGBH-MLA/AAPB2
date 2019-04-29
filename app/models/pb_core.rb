@@ -525,17 +525,20 @@ class PBCore
 
     # 0000
     elsif date_val.match (/\A\d{4}\z/)
+      date_was_reset = true
       year = date_val
       month = '12'
       day = '31'
     end
 
     if month == '00'
+      date_was_reset = true
       month = 12
     end
 
     # if we somehow got a 1999-00-31 or something, toss the day, cause that ain't real!
     if !day || day == '00'
+      date_was_reset = true
       day = if ['04','06','09','11'].include?(month)
         '30'
       elsif month == '02'
@@ -546,7 +549,9 @@ class PBCore
     end
 
     proper_val = %(#{year}-#{month}-#{day})
-    proper_val.to_time.strftime('%Y-%m-%eT%H:%M:%SZ')
+    # ensure this record sorts after a real 12/31 record
+    proper_val += " 23:59" if date_was_reset
+    proper_val.to_time.strftime('%Y-%m-%dT%H:%M:%SZ')
   end
 
   def pre_existing_caption_annotation(doc)
