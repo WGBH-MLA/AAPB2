@@ -16,6 +16,10 @@ describe TranscriptConverter do
     it 'returns the expected html' do
       expect(TranscriptConverter.json_parts(json).to_html).to eq(json_html)
     end
+
+    it 'returns nil when json_parts is empty' do
+      expect(TranscriptConverter.json_parts({parts: []}.to_json)).to eq(nil)
+    end
   end
 
   describe '.text_to_html' do
