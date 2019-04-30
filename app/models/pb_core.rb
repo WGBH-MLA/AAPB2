@@ -20,7 +20,8 @@ require_relative 'caption_file'
 class PBCore
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
-  include ToMods
+  include ToMods  
+  include ApplicationHelper
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
@@ -512,46 +513,7 @@ class PBCore
   def date_for_assetdate_field
     date_val = asset_date
     return unless date_val
-
-    # 0000-00-00
-    if date_val.match(/\A\d{4}\-\d{1,2}\-\d{1,2}\z/)
-
-      year, month, day = date_val.scan(/\A(\d{4})\-(\d{1,2})\-(\d{1,2})\z/).flatten
-
-    # 0000-00
-    elsif date_val.match (/\A\d{4}\-\d{1,2}\z/)
-
-      year, month = date_val.scan(/\A(\d{4})\-(\d{1,2})\z/).flatten
-
-    # 0000
-    elsif date_val.match (/\A\d{4}\z/)
-      date_was_reset = true
-      year = date_val
-      month = '12'
-      day = '31'
-    end
-
-    if month == '00'
-      date_was_reset = true
-      month = 12
-    end
-
-    # if we somehow got a 1999-00-31 or something, toss the day, cause that ain't real!
-    if !day || day == '00'
-      date_was_reset = true
-      day = if ['04','06','09','11'].include?(month)
-        '30'
-      elsif month == '02'
-        '28'
-      else
-        '31'
-      end
-    end
-
-    proper_val = %(#{year}-#{month}-#{day})
-    # ensure this record sorts after a real 12/31 record
-    proper_val += " 23:59" if date_was_reset
-    proper_val.to_time.strftime('%Y-%m-%dT%H:%M:%SZ')
+    handle_date_string(date_val, 'index')
   end
 
   def pre_existing_caption_annotation(doc)

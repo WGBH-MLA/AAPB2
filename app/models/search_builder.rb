@@ -1,5 +1,6 @@
 class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
+  include ApplicationHelper
   # handled in catalog_controller instead
   # self.default_processor_chain << :quote_handler
 
@@ -35,12 +36,12 @@ class SearchBuilder < Blacklight::SearchBuilder
 
   # Returns the 'before' date time formatted for a Solr query.
   def before_date
-    @before_date ||= blacklight_params['before_date'].to_time.strftime('%Y-%m-%dT%H:%M:%SZ') if blacklight_params['before_date']&.present?
+    @before_date ||= handle_date_string(blacklight_params['before_date'], 'before') if blacklight_params['before_date']&.present?
   end
 
   # Returns the 'after' date time formatted for a Solr query.
   def after_date
-    @after_date ||= blacklight_params['after_date'].to_time.strftime('%Y-%m-%dT%H:%M:%SZ') if blacklight_params['after_date']&.present?
+    @after_date ||= handle_date_string(blacklight_params['after_date'], 'after') if blacklight_params['after_date']&.present?
   end
 
   # Returns the date inputs in the form of a queryable range.
@@ -59,6 +60,7 @@ class SearchBuilder < Blacklight::SearchBuilder
   def filter_exact_date?
     blacklight_params['exact_or_range'] == 'exact'
   end
+
 
   # Quote Handler
   def exactquery(string)
