@@ -16,7 +16,7 @@ class SearchBuilder < Blacklight::SearchBuilder
 
   # Adds date filters to the :fq of the solr params.
   def apply_date_filter(solr_params)
-    if date_filters
+    if date_filter
       solr_params[:fq] ||= []
       solr_params[:fq] << date_filter
     end
@@ -26,7 +26,7 @@ class SearchBuilder < Blacklight::SearchBuilder
   # Date Filter
   # Returns the array of date filters, which are joined with ' OR ' as part
   # of a 'fq' parameter. See apply_date_filter above.
-  def date_filters
+  def date_filter
     @date_filters ||= begin
       if date_range
         %(asset_date: #{date_range})
