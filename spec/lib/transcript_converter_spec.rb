@@ -18,7 +18,7 @@ describe TranscriptConverter do
     end
 
     it 'returns nil when json_parts is empty' do
-      expect(TranscriptConverter.json_parts({parts: []}.to_json)).to eq(nil)
+      expect(TranscriptConverter.json_parts({ parts: [] }.to_json)).to eq(nil)
     end
   end
 
