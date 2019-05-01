@@ -7,7 +7,7 @@ class CatalogController < ApplicationController
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
-  self.search_params_logic += [:apply_quote_handler,:apply_date_filter]
+  self.search_params_logic += [:apply_quote_handler, :apply_date_filter]
 
   configure_blacklight do |config|
     # 'list' is the name of blacklight's default search result view style

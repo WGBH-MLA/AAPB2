@@ -20,7 +20,7 @@ require_relative 'caption_file'
 class PBCore
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
-  include ToMods  
+  include ToMods
   include ApplicationHelper
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
