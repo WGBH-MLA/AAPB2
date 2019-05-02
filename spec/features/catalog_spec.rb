@@ -263,7 +263,7 @@ describe 'Catalog' do
 
       describe 'special collection facet search' do
         it 'has collection specific search panel' do
-          visit '/catalog?f[special_collection][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
+          visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
           expect(page).to have_text('Need Help Searching?')
         end
       end

@@ -146,6 +146,7 @@ DPX master is a folder of DPX images that has an associated WAV file containing 
 <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="cataloging status">Minimally Cataloged</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="special_collections">ken-burns-civil-war</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="special_collections">naeb</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Transcript Status">Online Reading Room Transcript</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="last_modified">2017-10-25 10:46:22</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="organization">Ken Burns - Florentine Films</pbcoreAnnotation>
