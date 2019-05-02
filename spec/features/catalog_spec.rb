@@ -118,7 +118,7 @@ describe 'Catalog' do
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 9],
           ['contributing_organizations', 38, 'WGBH+(MA)', 6],
-          ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1],
+          ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
