@@ -1,5 +1,7 @@
 <div id="date_range-facet-panel-collapse" class="panel facet_limit ">
+  
   <div class="panel panel-default facet_limit blacklight-date_drsim <% if(!params['exact_or_range'].blank?) %>facet_limit-active <% end %>">
+
     <div class="<% if(params['exact_or_range'].blank?) %>collapsed <% end %> collapse-toggle panel-heading" data-toggle="collapse" data-target="#facet-date_drsim" aria-expanded="true">
       <h4 class="panel-title facet-field-heading">
         <a style="text-decoration: none; padding-left: 15px; padding-bottom: 5px; font-size: 14px; font-weight: 700; color: #292a72;" data-turbolinks="false" data-no-turbolink="true" href="#">Date</a>
@@ -7,6 +9,13 @@
     </div>
     <div id="facet-date_drsim" class="panel-collapse facet-content <% if(params['exact_or_range'].blank?) %>collapse <% end %>" aria-expanded="true" style="">
       <div class="panel-body">
+
+        <div class="well well-sm">
+          <small>
+            Cataloging in progress: only half of the records for digitized assets are currently dated.
+          </small>
+        </div>
+
         <%= form_tag search_action_path, :method => :get, id:"date_range_filter_form" do %>
 
           <%= render_hash_as_hidden_fields(params_for_search.except(:page, :exact_or_range, :after_date, :before_date)) %>

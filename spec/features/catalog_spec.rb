@@ -119,7 +119,6 @@ describe 'Catalog' do
           ['asset_type', 1, 'Segment', 9],
           ['contributing_organizations', 38, 'WGBH+(MA)', 6],
           ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1],
-          ['year', 1, '2000', 1]
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -228,7 +227,7 @@ describe 'Catalog' do
           # If you attempt to remove the access facet, it redirects you to the default,
           # but the default depends on requestor's IP address.
           # TODO: set address in request.
-          expect_count(4)
+          expect_count(5)
           expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ')
 
           click_link('Iowa Public Television (IA)')
@@ -291,8 +290,8 @@ describe 'Catalog' do
 
         describe 'field sorting' do
           assertions = [
-            ['year+desc', 'Writers Forum; WRF-09/13/07'],
-            ['year+asc', 'Winston Churchill Obituary'],
+            ['asset_date+desc', 'Writers Forum II; Writers Writing Again; Readers Reading Again'],
+            ['asset_date+asc', 'Winston Churchill Obituary'],
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
           assertions.each do |sort, title|
