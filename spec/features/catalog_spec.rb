@@ -118,7 +118,7 @@ describe 'Catalog' do
           ['topics', 1, 'Music', 3],
           ['asset_type', 1, 'Segment', 9],
           ['contributing_organizations', 38, 'WGBH+(MA)', 6],
-          ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1]
+          ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1],
         ]
         it 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
@@ -134,11 +134,9 @@ describe 'Catalog' do
             visit url
 
             # range_limit facet for year does not produce these elements, skip
-            if facet != 'year'
-              expect(
-                page.all("#facet-#{facet} li a.facet_select").count
-              ).to eq facet_count # expected number of values for each facet
-            end
+            expect(
+              page.all("#facet-#{facet} li a.facet_select").count
+            ).to eq facet_count # expected number of values for each facet
             expect(page.status_code).to eq(200)
             expect_count(value_count)
             expect_fuzzy_xml
