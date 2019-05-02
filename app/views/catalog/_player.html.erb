@@ -68,7 +68,9 @@
   <div class="row">
     <%= render partial: 'transcript' %>
   </div>
-<% else %>
+<% end %>
+
+<% if !@available_and_playable  %>
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
   <div style="margin-top: 1em;" class="content-text">
     <% if @pbcore.outside_url %>
