@@ -282,12 +282,9 @@ describe 'Catalog' do
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=#{query}"
             it "sort=score+desc: #{titles}\t#{url}" do
               visit url
-
-
-              (require('pry');binding.pry) unless page.all('.document h2').map(&:text) == (titles)
               expect(page.status_code).to eq(200)
               expect(page.all('.document h2').map(&:text)).to eq(titles)
-              # expect_fuzzy_xml
+              expect_fuzzy_xml
             end
           end
         end
