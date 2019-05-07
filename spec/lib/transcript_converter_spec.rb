@@ -14,8 +14,6 @@ describe TranscriptConverter do
     end
 
     it 'returns the expected html' do
-      require('pry');binding.pry
-      
       expect(TranscriptConverter.json_parts(json).to_html).to eq(json_html)
     end
 
