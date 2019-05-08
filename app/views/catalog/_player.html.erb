@@ -13,6 +13,20 @@
   <meta name="turbolinks-visit-control" content="reload">
 <% end %>
 
+
+<% if !@available_and_playable  %>
+  <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
+  <div style="margin-top: 1em;" class="content-text">
+    <% if @pbcore.outside_url %>
+      <%= link_to(
+        "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.outside_baseurl}",
+        @pbcore.outside_url,
+        {target: '_blank'}
+      ) %>
+    <% end %>
+  </div>
+<% end %>
+
 <!-- player or thumbnail or message -->
 <% if @available_and_playable %>
 
@@ -67,19 +81,6 @@
 <% elsif @transcript_content %>
   <div class="row">
     <%= render partial: 'transcript' %>
-  </div>
-<% end %>
-
-<% if !@available_and_playable  %>
-  <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
-  <div style="margin-top: 1em;" class="content-text">
-    <% if @pbcore.outside_url %>
-      <%= link_to(
-        "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.outside_baseurl}",
-        @pbcore.outside_url,
-        {target: '_blank'}
-      ) %>
-    <% end %>
   </div>
 <% end %>
 
