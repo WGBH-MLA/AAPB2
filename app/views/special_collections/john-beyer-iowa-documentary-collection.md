@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![John Beyer Iowa Documentary Collection (https://s3.amazonaws.com/americanarchive.org/special-collections/JB3.jpg "John Beyer")
+![John Beyer Iowa Documentary Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/JB3.jpg "John Beyer")
 
 ## Summary
 
