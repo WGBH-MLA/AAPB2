@@ -5,7 +5,7 @@ class WPData
 
   def fetch
     Curl.get('https://public-api.wordpress.com/wp/v2/sites/americanarchivepb.wordpress.com/posts').body
-  rescue Curl::Err::GotNothingError => e
+  rescue Curl::Err::GotNothingError, Curl::Err::RecvError => e
     default_post
   end
 

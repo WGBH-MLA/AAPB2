@@ -59,16 +59,15 @@
           </div>
         </div>
       </div>
+
     <div class="hidden-sm hidden-xs">
       <%= render partial: 'transcript' %>
     </div>
+
   </div>
 
-<% elsif @transcript_content %>
-  <div class="row">
-    <%= render partial: 'transcript' %>
-  </div>
 <% else %>
+  <!-- no media thumbnail -->
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
   <div style="margin-top: 1em;" class="content-text">
     <% if @pbcore.outside_url %>
@@ -79,6 +78,12 @@
       ) %>
     <% end %>
   </div>
+
+  <% if @transcript_content %>
+    <div class="row">
+      <%= render partial: 'transcript' %>
+    </div>
+  <% end %>
 <% end %>
 
 <!-- special collections/exhibit banner -->

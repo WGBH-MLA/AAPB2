@@ -18,7 +18,7 @@ module TranscriptViewerHelper
             @buffer = ''
             @para_counter += 1
           else
-            @buffer += text.tr("\n", ' ')
+            @buffer += %(#{text.tr("\n", ' ')} )
           end
         end
 
