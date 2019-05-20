@@ -204,4 +204,14 @@ $(document).on('turbolinks:load', function() {
   $('#transcript-message-close').unbind('click').on('click', function() {
     $('#transcript-message').slideUp(500);
   });
+
+  $('#timecode-embed-button').click(function() {
+
+    var tc = $player[0].currentTime
+    var html = "<iframe src='http://americanarchive.org/embed/<%= @pbcore.id %>?tc=\"" + tc + "\"></iframe>".replace(/&/g, '&amp;').replace(/</g, '&lt;');
+
+    console.log(html)
+    $('#timecode-embed').html(html);
+  });
+
 });
