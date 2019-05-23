@@ -224,7 +224,6 @@
       <circle id='dot' class='city' cx='3' cy='3' r='7' />
     </defs>
 
-    <a xlink:href='/participating-orgs#Alabama' tabindex="-1"><title>Tuscaloosa, AL: University of Alabama</title><use x='643' y='400' xlink:href='#dot'/></a>
     <a xlink:href='/participating-orgs#Alaska' tabindex="-1"><title>Dillingham, AK: KDLG</title><use x='75' y='535' xlink:href='#dot'/></a>
     <a xlink:href='/participating-orgs#Alaska' tabindex="-1"><title>Bethel, AK: KYUK</title><use xlink:href='#dot' x='63' y='517'/></a>
     <a xlink:href='/participating-orgs#Alaska' tabindex="-1"><title>Anchorage, AK: KAKM Alaska Public Media + Koahnic Broadcast Corporation</title><use xlink:href='#dot' x='113' y='530'/></a>
@@ -233,8 +232,6 @@
     <a xlink:href='/participating-orgs#Arizona' tabindex="-1"><title>Tucson, AZ: KXCI Community Radio</title><use xlink:href='#dot' x='212' y='404'/></a>
     <a xlink:href='/participating-orgs#Arkansas' tabindex="-1"><title>Conway, AR: Arkansas Educational TV Network</title><use xlink:href='#dot' x='546' y='357'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Eureka, CA: KEET</title><use xlink:href='#dot' x='28' y='174'/></a>
-    <a xlink:href='/participating-orgs#California' tabindex="-1"><title>San Bernardino, CA: KVCR</title><use xlink:href='#dot' x='102' y='344'/></a>
-    <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Pasadena, CA: KPCC</title><use xlink:href='#dot' x='86' y='342'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Costa Mesa, CA: PBS SoCaL</title><use xlink:href='#dot' x='90' y='352'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Los Angeles, CA: KUSC</title><use xlink:href='#dot' x='83' y='340'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>North Hollywood, CA: Pacifica Radio Archives</title><use xlink:href='#dot' x='84' y='339'/></a>
@@ -244,28 +241,25 @@
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>Rohnert Park, CA: KRCB</title><use xlink:href='#dot' x='35' y='232'/></a>
     <a xlink:href='/participating-orgs#California' tabindex="-1"><title>San Francisco, CA: KQED + CAAM</title><use xlink:href='#dot' x='36' y='247'/></a>
     <a xlink:href='/participating-orgs#Colorado' tabindex="-1"><title>Boulder, CO: KGNU</title><use xlink:href='#dot' x='329' y='241'/></a>
-    <a xlink:href='/participating-orgs#Colorado' tabindex="-1"><title>Denver, CO: Rocky Mountain PBS + KUVO + Colorado Public Television + University of Denver</title><use xlink:href='#dot' x='337' y='247'/></a>
+    <a xlink:href='/participating-orgs#Colorado' tabindex="-1"><title>Denver, CO: Rocky Mountain PBS + KUVO + Colorado Public Television</title><use xlink:href='#dot' x='337' y='247'/></a>
     <a xlink:href='/participating-orgs#Connecticut' tabindex="-1"><title>Hartford, CT: Connecticut Public Broadcasting Network</title><use xlink:href='#dot' x='854' y='169'/></a>
-    <a xlink:href='/participating-orgs#DC' tabindex="-1"><title>Washington, DC: WHUT + NewsHour Productions + Library of Congress + Georgetown Forum</title><use xlink:href='#dot' x='800' y='247'/></a>
+    <a xlink:href='/participating-orgs#DC' tabindex="-1"><title>Washington, DC: WHUT + NewsHour Productions + Library of Congress</title><use xlink:href='#dot' x='800' y='247'/></a>
     <a xlink:href='/participating-orgs#Florida' tabindex="-1"><title>Tampa, FL: WUSF + WEDU</title><use xlink:href='#dot' x='745' y='499'/></a>
     <a xlink:href='/participating-orgs#Florida' tabindex="-1"><title>Jacksonville, FL: WJCT</title><use xlink:href='#dot' x='753' y='453'/></a>
     <a xlink:href='/participating-orgs#Florida' tabindex="-1"><title>Fort Myers, FL: WGCU Public Media</title><use xlink:href='#dot' x='759' y='529'/></a>
     <a xlink:href='/participating-orgs#Florida' tabindex="-1"><title>Miami, FL: WPBT2</title><use xlink:href='#dot' x='789' y='548'/></a>
-    <a xlink:href='/participating-orgs#Florida' tabindex="-1"><title>Gainesville, FL: WUFT + University of Florida</title><use xlink:href='#dot' x='741' y='464'/></a>
+    <a xlink:href='/participating-orgs#Florida' tabindex="-1"><title>Gainesville, FL: WUFT</title><use xlink:href='#dot' x='741' y='464'/></a>
     <a xlink:href='/participating-orgs#Georgia' tabindex="-1"><title>Atlanta, GA: Georgia Public Broadcasting + Public Broadcasting Atlanta</title><use xlink:href='#dot' x='693' y='373'/></a>
     <a xlink:href='/participating-orgs#Guam' tabindex="-1"><title>Mangilao, GU: PBS Guam</title><use xlink:href='#dot' x='240' y='470'/></a>
     <a xlink:href='/participating-orgs#Hawaii' tabindex="-1"><title>Honolulu, HI: PBS Hawaii</title><use xlink:href='#dot' x='285' y='525'/></a>
     <a xlink:href='/participating-orgs#Idaho' tabindex="-1"><title>Boise, ID: Idaho Public Television</title><use xlink:href='#dot' x='169' y='139'/></a>
     <a xlink:href='/participating-orgs#Illinois' tabindex="-1"><title>Carbondale, IL: WSIU</title><use xlink:href='#dot' x='598' y='295'/></a>
     <a xlink:href='/participating-orgs#Illinois' tabindex="-1"><title>Urbana, IL: WILL Illinois Public Media</title><use xlink:href='#dot' x='611' y='240'/></a>
-    <a xlink:href='/participating-orgs#Illinois' tabindex="-1"><title>Chicago, IL: WYCC PBS Chicago + WBEZ + University of Chicago + Moody Bible Institute</title><use xlink:href='#dot' x='616' y='200'/></a>
+    <a xlink:href='/participating-orgs#Illinois' tabindex="-1"><title>Chicago, IL: WYCC PBS Chicago + WBEZ</title><use xlink:href='#dot' x='616' y='200'/></a>
     <a xlink:href='/participating-orgs#Indiana' tabindex="-1"><title>Indianapolis, IN: WFYI</title><use xlink:href='#dot' x='646' y='246'/></a>
-    <a xlink:href='/participating-orgs#Indiana' tabindex="-1"><title>West Lafayette, IN: WBAA</title><use xlink:href='#dot' x='628' y='237'/></a>
     <a xlink:href='/participating-orgs#Indiana' tabindex="-1"><title>Bloomington, IN: WTIU + WFIU</title><use xlink:href='#dot' x='640' y='259'/></a>
     <a xlink:href='/participating-orgs#Iowa' tabindex="-1"><title>Johnston, IA: Iowa Public Television</title><use xlink:href='#dot' x='519' y='209'/></a>
-    <a xlink:href='/participating-orgs#Iowa' tabindex="-1"><title>Iowa City, IA: WSUI</title><use xlink:href='#dot' x='556' y='209'/></a>
     <a xlink:href='/participating-orgs#Iowa' tabindex="-1"><title>Des Moines, IA: Iowa Public Radio</title><use xlink:href='#dot' x='520' y='212'/></a>
-    <a xlink:href='/participating-orgs#Kansas' tabindex="-1"><title>Lawrence, KS: KANU, University of Kansas</title><use xlink:href='#dot' x='490' y='275'/></a>
     <a xlink:href='/participating-orgs#Kentucky' tabindex="-1"><title>Lexington, KY: KET - Kentucky Educational Television</title><use xlink:href='#dot' x='678' y='283'/></a>
     <a xlink:href='/participating-orgs#Kentucky' tabindex="-1"><title>Whitesburg, KY: Appalshop, Inc.</title><use xlink:href='#dot' x='724' y='300'/></a>
     <a xlink:href='/participating-orgs#Louisiana' tabindex="-1"><title>Baton Rouge, LA: Louisiana Public Broadcasting</title><use xlink:href='#dot' x='573' y='462'/></a>
@@ -280,7 +274,6 @@
     <a xlink:href='/participating-orgs#Michigan' tabindex="-1"><title>Twin Lake, MI: Blue Lake Public Radio</title><use xlink:href='#dot' x='636' y='165'/></a>
     <a xlink:href='/participating-orgs#Michigan' tabindex="-1"><title>Grand Rapids, MI: WGVU Public TV and Radio</title><use xlink:href='#dot' x='647' y='174'/></a>
     <a xlink:href='/participating-orgs#Michigan' tabindex="-1"><title>Interlochen, MI: WIAA</title><use xlink:href='#dot' x='638' y='136'/></a>
-    <a xlink:href='/participating-orgs#Michigan' tabindex="-1"><title>Ann Arbor, MI: WUOM</title><use xlink:href='#dot' x='675' y='189'/></a>
     <a xlink:href='/participating-orgs#Michigan' tabindex="-1"><title>East Lansing, MI: WKAR</title><use xlink:href='#dot' x='664' y='176'/></a>
     <a xlink:href='/participating-orgs#Michigan' tabindex="-1"><title>Wixom, MI: Detroit Public Television</title><use xlink:href='#dot' x='680' y='179'/></a>
     <a xlink:href='/participating-orgs#Minnesota' tabindex="-1"><title>Appleton, MN: Pioneer Public Television</title><use xlink:href='#dot' x='482' y='130'/></a>
@@ -304,20 +297,18 @@
     <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>Vestal, NY: WSKG Public Broadcasting</title><use xlink:href='#dot' x='800' y='173'/></a>
     <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>Watertown, NY: WPBS</title><use xlink:href='#dot' x='792' y='131'/></a>
     <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>Buffalo, NY: WNED</title><use xlink:href='#dot' x='752' y='160'/></a>
-    <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>New York, NY: Thirteen WNET + WNYC + WRVR + CUNY TV</title><use xlink:href='#dot' x='839' y='197'/></a>
+    <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>New York, NY: Thirteen WNET + WNYC + CUNY TV</title><use xlink:href='#dot' x='839' y='197'/></a>
     <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>Rochester, NY: WXXI Public Broadcasting</title><use xlink:href='#dot' x='768' y='152'/></a>
     <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>Plattsburgh, NY: Mountain Lake PBS</title><use xlink:href='#dot' x='824' y='108'/></a>
     <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>Troy, NY: WMHT</title><use xlink:href='#dot' x='833' y='150'/></a>
     <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>Jamestown, NY: WRFA</title><use xlink:href='#dot' x='749' y='180'/></a>
     <a xlink:href='/participating-orgs#New York' tabindex="-1"><title>Liverpool, NY: WCNY</title><use xlink:href='#dot' x='792' y='150'/></a>
     <a xlink:href='/participating-orgs#North Carolina' tabindex="-1"><title>Research Triangle Park, NC: UNC-TV</title><use xlink:href='#dot' x='795' y='325'/></a>
-   <a xlink:href='/participating-orgs#North Carolina' tabindex="-1"><title>Chapel Hill, NC: WUNC</title><use xlink:href='#dot' x='780' y='320'/></a>
+    <a xlink:href='/participating-orgs#North Carolina' tabindex="-1"><title>Chapel Hill, NC: WUNC</title><use xlink:href='#dot' x='780' y='320'/></a>
     <a xlink:href='/participating-orgs#North Dakota' tabindex="-1"><title>Fargo, ND: Prairie Public Broadcasting</title><use xlink:href='#dot' x='470' y='93'/></a>
-    <a xlink:href='/participating-orgs#North Dakota' tabindex="-1"><title>Grand Forks, ND: KFJM, University of North Dakota</title><use xlink:href='#dot' x='467' y='78'/></a>
     <a xlink:href='/participating-orgs#Ohio' tabindex="-1"><title>Columbus, OH: WOSU Public Media</title><use xlink:href='#dot' x='699' y='236'/></a>
     <a xlink:href='/participating-orgs#Ohio' tabindex="-1"><title>Cleveland, OH: ideastream</title><use xlink:href='#dot' x='711' y='201'/></a>
     <a xlink:href='/participating-orgs#Ohio' tabindex="-1"><title>Yellow Springs, OH: WYSO</title><use xlink:href='#dot' x='683' y='241'/></a>
-    <a xlink:href='/participating-orgs#Ohio' tabindex="-1"><title>Oxford, OH: WMUB</title><use xlink:href='#dot' x='669' y='246'/></a>
     <a xlink:href='/participating-orgs#Ohio' tabindex="-1"><title>Youngstown, OH: WYSU</title><use xlink:href='#dot' x='730' y='206'/></a>
     <a xlink:href='/participating-orgs#Ohio' tabindex="-1"><title>Cincinnati, OH: Cincinnati Public Radio</title><use xlink:href='#dot' x='672' y='254'/></a>
     <a xlink:href='/participating-orgs#Oklahoma' tabindex="-1"><title>Oklahoma City, OK</title><use xlink:href='#dot' x='450' y='350'/></a>
@@ -326,11 +317,10 @@
     <a xlink:href='/participating-orgs#Oregon' tabindex="-1"><title>Warm Springs, OR: KWSO</title><use xlink:href='#dot' x='99' y='99'/></a>
     <a xlink:href='/participating-orgs#Pennsylvania' tabindex="-1"><title>Bethlehem, PA: WDIY + PBS39</title><use xlink:href='#dot' x='817' y='203'/></a>
     <a xlink:href='/participating-orgs#Pennsylvania' tabindex="-1"><title>Philadelphia, PA: WHYY + WXPN</title><use xlink:href='#dot' x='827' y='213'/></a>
-    <a xlink:href='/participating-orgs#Pennsylvania' tabindex="-1"><title>Pittsburgh, PA: WQED + WDUQ</title><use xlink:href='#dot' x='744' y='218'/></a>
+    <a xlink:href='/participating-orgs#Pennsylvania' tabindex="-1"><title>Pittsburgh, PA: WQED</title><use xlink:href='#dot' x='744' y='218'/></a>
     <a xlink:href='/participating-orgs#Pennsylvania' tabindex="-1"><title>Pittston, PA: WVIA Public Media</title><use xlink:href='#dot' x='807' y='189'/></a>
     <a xlink:href='/participating-orgs#Rhode Island' tabindex="-1"><title>Providence, RI: Rhode Island Public Radio</title><use xlink:href='#dot' x='873' y='164'/></a>
     <a xlink:href='/participating-orgs#South Carolina' tabindex="-1"><title>Columbia, SC: South Carolina ETV</title><use xlink:href='#dot' x='752' y='362'/></a>
-    <a xlink:href='/participating-orgs#South Dakota' tabindex="-1"><title>Vermillion, SD: KUSD, University of South Dakota</title><use xlink:href='#dot' x='467' y='190'/></a>
     <a xlink:href='/participating-orgs#Tennessee' tabindex="-1"><title>Cookeville, TN: WCTE</title><use xlink:href='#dot' x='670' y='329'/></a>
     <a xlink:href='/participating-orgs#Tennessee' tabindex="-1"><title>Knoxville, TN: WDVX</title><use xlink:href='#dot' x='693' y='324'/></a>
     <a xlink:href='/participating-orgs#Texas' tabindex="-1"><title>Houston, TX: KUHF-FM</title><use xlink:href='#dot' x='490' y='480'/></a>
