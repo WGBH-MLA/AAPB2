@@ -27,7 +27,7 @@ Items in the John Beyer Iowa Documentaries Collection were produced by the Iowa 
 
 - [Iowa Public Television](http://www.iptv.org/)
 - [Iowa State Archives](https://iowaculture.gov/history/research/collections/state-archives)
-- [<em>Life in the Box: Humor and Humanity</em>, Nancy Heather Brown, Escape into Life](https://www.escapeintolife.com/television/life-in-the-box-humor-and-humanity/)
+- [<em>Life in the Box: Humor and Humanity</em>, Escape into Life](https://www.escapeintolife.com/television/life-in-the-box-humor-and-humanity/)
 - [President Richard Nixon in Iowa, Des Moines Register](https://www.desmoinesregister.com/picture-gallery/news/2015/06/10/8-historical-photos-former-president-richard-nixon-in-iowa/71024158/)
 
 ## Funders
