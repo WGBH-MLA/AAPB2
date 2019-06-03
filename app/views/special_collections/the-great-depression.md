@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![The Great Depression](https://s3.amazonaws.com/americanarchive.org/special-collections/Screenshot_GreatDepression_Breadline.jpg "The Great Depression") 
+![The Great Depression](https://s3.amazonaws.com/americanarchive.org/special-collections/Farmer.jpg "The Great Depression") 
 
 ## Summary
 
