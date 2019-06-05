@@ -6,7 +6,7 @@
 
 ## Summary
 
-The LGBT+ Collection includes 2314 public radio and televisions programs and original materials contributed to the American Archive of Public Broadcasting (AAPB) by 58 stations and organizations from across the United States. The recordings date from the late 1950s to 2018. The collection documents the representation of the LGBT+ community in public media, including conversations, social and political reactions, and cultural movements associated with LGBT+ history. These topics are presented through interviews, newscasts, lectures, and more.
+The LGBT+ Collection includes 2313 public radio and televisions programs and original materials contributed to the American Archive of Public Broadcasting (AAPB) by 58 stations and organizations from across the United States. The recordings date from the late 1950s to 2018. The collection documents the representation of the LGBT+ community in public media, including conversations, social and political reactions, and cultural movements associated with LGBT+ history. These topics are presented through interviews, newscasts, lectures, and more.
 
 ## Background
 
@@ -15,7 +15,7 @@ The LGBT+ Collection includes public radio and televisions programs contributed 
 ## Featured
 
 [![Portrait of Elaine Noble](https://s3.amazonaws.com/americanarchive.org/special-collections/elaine-noble.jpg)](/catalog/cpb-aacip_15-33rv1gdz)
-[![Homosexual Rights In the Military](https://s3.amazonaws.com/americanarchive.org/special-collections/rainbow-audio.jpg)](/catalog/cpb-aacip_15-9mk6580n)
+[![Homosexual Rights: Military](https://s3.amazonaws.com/americanarchive.org/special-collections/rainbow-audio.jpg)](/catalog/cpb-aacip_15-9mk6580n)
 [![Living with AIDS](https://s3.amazonaws.com/americanarchive.org/special-collections/aids.jpg)](/catalog/cpb-aacip_513-mp4vh5db5p)
 [![Homosexual in Our Society](https://s3.amazonaws.com/americanarchive.org/special-collections/rainbow-audio.jpg)](/catalog/cpb-aacip_28-3n20c4st80)
 [![Transexuality and Sports](https://s3.amazonaws.com/americanarchive.org/special-collections/dr-richards.jpg)](/catalog/cpb-aacip_507-cc0tq5s22t)
