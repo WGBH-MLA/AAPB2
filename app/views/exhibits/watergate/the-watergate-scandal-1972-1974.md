@@ -71,7 +71,7 @@ The public hearings began on May 17, 1973, with [opening statements](/catalog/cp
 
 The first moment of substantial drama came with the testimony of [John Dean](/catalog/cpb-aacip_512-125q815b4c#at_18.00_s), which subsequently became the standard against which all other testimony was judged.[<sup>16</sup>](/exhibits/watergate/notes#16)  In a calm, steady manner that belied the shocking information he revealed, Dean claimed that the President of the United States was involved in the cover-up as early as September 1972.[<sup>17</sup>](/exhibits/watergate/notes#17)  Senator Inouye later [commented](/catalog/cpb-aacip_512-mc8rb6ww1z#at_2977.00_s) that he thought that no one believed Dean at first as “it was too fantastic.” As his testimony went on, Dean revealed more and more information about White House practices, including improper use of the IRS and campaign funds, the “enemies list,” and surveillance of politicians. But after five days of questioning, the Committee had done little to crack his opening statement regarding the President.[<sup>18</sup>](/exhibits/watergate/notes#18)
 
-The next two witnesses, former Attorney General and director of CREEP [John Mitchell](/catalog/cpb-aacip_q23qv3d02h) and special counsel [Richard Moore](/catalog/cpb-aacip_512-4j09w09n39#at_460.00_s), both contradicted Dean’s testimony, unequivocally stating that the President had no knowledge of Watergate until late March 1973. The two left the Committee in an apparent state of gridlock. [At the end of the July 13 broadcast, Lehrer asked](/catalog/cpb-aacip_512-jh3cz33054#at_1687.00_s),
+The next two witnesses, former Attorney General and director of CREEP [John Mitchell](/catalog/cpb-aacip_512-q23qv3d02h) and special counsel [Richard Moore](/catalog/cpb-aacip_512-4j09w09n39#at_460.00_s), both contradicted Dean’s testimony, unequivocally stating that the President had no knowledge of Watergate until late March 1973. The two left the Committee in an apparent state of gridlock. [At the end of the July 13 broadcast, Lehrer asked](/catalog/cpb-aacip_512-jh3cz33054#at_1687.00_s),
 
 <blockquote> Isn’t the Committee walking itself out onto a plank? How are they ever really going to resolve the question (of Nixon’s guilt) when you continue to have witnesses like Mitchell and Moore, compared to Dean and Magruder, and all of these many, many things, where there’s no way to resolve them!</blockquote>
 
@@ -100,7 +100,7 @@ The last phase of the hearings covered donations to the Nixon campaign that migh
 ### The Road to Resignation: Nixon’s Last Months
 While the Senate Committee had been diligently detailing the crimes and misdemeanors of campaign men, the case against Nixon had been rapidly building. On October 20, 1973, Nixon’s orders to fire the special prosecutor, Archibald Cox, resulted in the resignation of the Attorney General Elliot Richardson and his deputy William Ruckelshaus, who refused to carry out the action. Cox was eventually fired as well. This “Saturday Night Massacre,” as it came to be called turned public opinion further against the President.[<sup>21</sup>](/exhibits/watergate/notes#21)  It also prompted Congress to authorize the House Judiciary Committee to investigate Nixon’s crimes.
 
-Reacting to the public uproar for firing Cox, Nixon chose to hand over the tapes that Cox had requested to Judge Sirica. This led to yet another scandal. On November 26, personal secretary to the President Rose Mary Woods testified to causing some of a mysterious 18 ½ minute gap [no one admited to causing the rest of it] on the recording of a key Watergate conversation between Nixon and Haldeman. On December 6, Congress confirmed Gerald Ford as Vice President to replace Spiro Agnew, who had resigned in October after charges of corruption.[<sup>22</sup>](/exhibits/watergate/notes#22)
+Reacting to the public uproar for firing Cox, Nixon chose to hand over the tapes that Cox had requested to Judge Sirica. This led to yet another scandal. On November 26, personal secretary to the President Rose Mary Woods testified to causing some of a mysterious 18 ½ minute gap [no one admitted to causing the rest of it] on the recording of a key Watergate conversation between Nixon and Haldeman. On December 6, Congress confirmed Gerald Ford as Vice President to replace Spiro Agnew, who had resigned in October after charges of corruption.[<sup>22</sup>](/exhibits/watergate/notes#22)
 
 Nixon had hoped that by handing over the relatively few tapes that Cox had requested, the desire for tapes would stop. Instead there were three bodies, the Senate Watergate Committee, the new Special Prosecutor, Leon Jaworski, and the House Judiciary Committee, interested in the tapes and they all wanted more. On November 27, the leaders of the Senate Watergate investigation committee decided to delay further hearings until after the Christmas break. On January 4, 1974, the President again refused to give the Committee tapes or honor their subpoenas. After two more sets of delays, on February 19, the Committee voted unanimously to hold no more hearings, allowing the country to focus on the special prosecutor.[<sup>23</sup>](/exhibits/watergate/notes#23)
 
@@ -133,3 +133,61 @@ Watergate was a crucial inflection point in American political history that rema
 ## Gallery
 
 ## Records
+/catalog/cpb-aacip_512-125q815b4c
+/catalog/cpb-aacip_512-xk84j0c06r
+/catalog/cpb-aacip_512-pv6b27qp13
+/catalog/cpb-aacip_512-zp3vt1hn93
+/catalog/cpb-aacip_512-w37kp7vq44
+/catalog/cpb-aacip_512-4746q1t604
+/catalog/cpb-aacip_512-251fj2b06r
+/catalog/cpb-aacip_512-6688g8g717
+/catalog/cpb-aacip_512-5d8nc5t09z
+/catalog/cpb-aacip_512-pr7mp4wh9w
+/catalog/cpb-aacip_512-d795718g4z
+/catalog/cpb-aacip_512-445h99017v
+/catalog/cpb-aacip_512-6w96689903
+/catalog/cpb-aacip_512-1v5bc3tj5x
+/catalog/cpb-aacip_512-p55db7wm55
+/catalog/cpb-aacip_512-4m91834s7x
+/catalog/cpb-aacip_512-6q1sf2n01g
+/catalog/cpb-aacip_512-x921c1vj3c
+/catalog/cpb-aacip_512-s17sn0210s
+/catalog/cpb-aacip_512-qb9v11wf48
+/catalog/cpb-aacip_512-bz6154fh47
+/catalog/cpb-aacip_512-mc8rb6ww1z
+/catalog/cpb-aacip_512-q23qv3d02h
+/catalog/cpb-aacip_512-4j09w09n39
+/catalog/cpb-aacip_512-jh3cz33054
+/catalog/cpb-aacip_512-jm23b5x51c
+/catalog/cpb-aacip_512-df6k06xs20
+/catalog/cpb-aacip_512-8p5v699118
+/catalog/cpb-aacip_512-rx93776v6t
+/catalog/cpb-aacip_512-qf8jd4qk7g
+/catalog/cpb-aacip_512-t43hx16p65
+/catalog/cpb-aacip_512-4f1mg7gg9h
+/catalog/cpb-aacip_512-gm81j9840b
+/catalog/cpb-aacip_512-930ns0mm7k
+/catalog/cpb-aacip_512-m03xs5k89r
+/catalog/cpb-aacip_512-sj19k46s2d
+/catalog/cpb-aacip_512-qv3bz6261n
+/catalog/cpb-aacip_512-3n20c4t866
+/catalog/cpb-aacip_512-vh5cc0vt0g
+/catalog/cpb-aacip_512-hh6c24rg76
+/catalog/cpb-aacip_512-kk94747p23
+/catalog/cpb-aacip_512-k93125r708
+/catalog/cpb-aacip_512-v69862cb8n
+/catalog/cpb-aacip_512-tm71v5cf4r
+/catalog/cpb-aacip_512-b27pn8z459
+/catalog/cpb-aacip_512-xs5j96193p
+/catalog/cpb-aacip_512-fq9q23rr49
+/catalog/cpb-aacip_512-ks6j09wz71
+/catalog/cpb-aacip_512-zw18k75z7f
+/catalog/cpb-aacip_512-959c53fs02
+/catalog/cpb-aacip_512-zk55d8ph3z
+/catalog/cpb-aacip_512-cv4bn9xv8x
+/catalog/cpb-aacip_512-1g0ht2gx69
+/catalog/cpb-aacip_512-7p8tb0zh1p
+/catalog/cpb-aacip_512-nk3610wq1h
+/catalog/cpb-aacip_512-gx44q7rk20
+/catalog/cpb-aacip_512-f18sb3xp72
+/catalog/cpb-aacip_512-x05x63c309
