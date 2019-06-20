@@ -12,7 +12,7 @@ The <em>To The Moon</em> Interview Collection contains 145 raw interviews from <
 
 The <em>To The Moon</em> interviews were conducted by NOVA in 1998 for the two-hour documentary of the same name, which aired in 1999. Materials were digitized and contributed to the American Archive of Public Broadcasting (AAPB) in 2019. 
 
-## Featured (will change the GUIDs and links when we get GUIDs)
+## Featured
 
 [![Buzz Aldrin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-2804x55k2c.jpg)](/catalog/cpb-aacip_15-2804x55k2c)
 [![Robin Canup](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-0r9m32p92s.jpg)](/catalog/cpb-aacip_15-0r9m32p92s)
