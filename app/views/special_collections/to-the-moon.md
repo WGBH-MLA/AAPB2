@@ -15,11 +15,11 @@ The <em>To The Moon</em> interviews were conducted by NOVA in 1998 for the two-h
 ## Featured (will change the GUIDs and links when we get GUIDs)
 
 [![Buzz Aldrin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-2804x55k2c.jpg)](/catalog/cpb-aacip_15-2804x55k2c)
-[![Robin Canup](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-kd1qf8k66x.jpg)](/catalog/cpb-aacip_151-kd1qf8k66x)
-[![Gordon Swann](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-1n7xk85321.jpg)](/catalog/cpb-aacip_15-st7dr2qn5w)
-[![Farouk El-Baz](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-cz3222rv8b.jpg)](/catalog/cpb-aacip_151-cz3222rv8b)
+[![Robin Canup](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-0r9m32p92s.jpg)](/catalog/cpb-aacip_15-0r9m32p92s)
+[![Gordon Swann](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-st7dr2qn5w.jpg)](/catalog/cpb-aacip_15-st7dr2qn5w)
+[![Farouk El-Baz](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-3j39020j4t.jpg)](/catalog/cpb-aacip_15-3j39020j4t)
 [![Gene Kranz](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-p55db7x161.jpg)](/catalog/cpb-aacip_15-p55db7x161)
-[![Jim Lovell](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-1c1td9nm9g.jpg)](/catalog/cpb-aacip_151-1c1td9nm9g)
+[![Jim Lovell](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-hh6c24rw94.jpg)](/catalog/cpb-aacip_15-hh6c24rw94)
 
 ## Resources
 
