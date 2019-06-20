@@ -57,7 +57,10 @@ Rails.application.routes.draw do
 
   # NET Catalog is now a SpecialCollection, so redirecting there.
   # This need to be above the '/*path' route below, otherwise it won't work.
-  get '/about-the-american-archive/projects/net-catalog*path', to: redirect('/special_collections/net-catalog', status: 301)
+  net_catalog_constraint = lambda do |req|
+    req.params['path'].start_with?('about-the-american-archive/projects/net-catalog')
+  end
+  get '/*path', to: redirect('/special_collections/net-catalog', status: 301), constraints: net_catalog_constraint
 
   get '/*path', to: 'override#show', constraints: override_constraints
 end
