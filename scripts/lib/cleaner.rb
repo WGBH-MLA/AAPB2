@@ -224,26 +224,16 @@ class Cleaner
     if title =~ /[A-Z]/ && title =~ /[a-z]/
       title # No change, if mix of upper and lower.
     else
-      title.downcase
-           .gsub(/\b\w/, &:upcase)
-           .gsub(/\b(
-            AFN|AG|ASMW|BSO|CEO|CMU|CO|CTE|DCA
-            |ETV|HBCU|HIKI|ICC|II|IPR|ITV|KAKM|KBDI|KCAW|KCMU
-            |KDNA|KEET|KET|KETC|KEXP|KEZI|KFME|KGNU|KLPA|KMED|KMOS
-            |KNBA|KNME|KOAC|KOCE|KODE|KOZJ|KOZK|KPFA|KQED|KRMA|KSYS
-            |KTCA|KUCB|KUED|KUHF|KUNM|KUOW|KUSC|KUSP|KUT|KUVO|KVIE
-            |KWSO|KWSU|KXCI|KYUK|LA|LICBC|LSU|LYMI|MA|MELE|MIT|MSU
-            |NAC|NAEB|NE|NEA|NETA|NJPBA|NY|NYS|OEB|OPB|OPTV|ORC
-            |PSA|RAETA|SCETV|SOEC|TIU|UC|UCB|UCTV
-            |UHF|UM|UNC|US|USA|UVM|UW|WBAI|WBEZ|WBRA|WCNY|WCTE|WDIY
-            |WEDH|WEDU|WEOS|WERU|WETA|WEXT|WFIU|WFMU|WFYI|WGBY|WGCU
-            |WGUC|WGVU|WHA|WHRO|WHUR|WHUT|WHYY|WIAA|WKAR|WLAE
-            |WMEB|WNED|WNET|WNYC|WOJB|WOSU|WQED|WQEJ|WRFA|WRNI|WSIU
-            |WTIP|WTIU|WUFT|WUMB|WUNC|WUSF|WVIA|WVIZ|WWOZ|WXXI|WYCC
-            |WYSO|WYSU|YSU)\b/xi, &:upcase)
-           .gsub(/\b[^AEIOUY]+\b/i, &:upcase)
-           .gsub(/\b(a|an|the|and|but|or|for|nor|yet|as|at|by|for|in|of|on|to|from)\b/i, &:downcase)
-           .gsub(/^./, &:upcase)
+      # add any terms here that you want to keep in ALL CAPS or to downcase completely
+      allcaps = w%(NOVA FRONTLINE AFN AG ASMW BSO CEO CMU CO CTE DCA ETV HBCU HIKI ICC II IPR ITV KAKM KBDI KCAW KCMU KDNA KEET KET KETC KEXP KEZI KFME KGNU KLPA KMED KMOS KNBA KNME KOAC KOCE KODE KOZJ KOZK KPFA KQED KRMA KSYS KTCA KUCB KUED KUHF KUNM KUOW KUSC KUSP KUT KUVO KVIE KWSO KWSU KXCI KYUK LA LICBC LSU LYMI MA MELE MIT MSU NAC NAEB NE NEA NETA NJPBA NY NYS OEB OPB OPTV ORC PSA RAETA SCETV SOEC TIU UC UCB UCTV UHF UM UNC US USA UVM UW WBAI WBEZ WBRA WCNY WCTE WDIY WEDH WEDU WEOS WERU WETA WEXT WFIU WFMU WFYI WGBH WGBY WGCU WGUC WGVU WHA WHRO WHUR WHUT WHYY WIAA WKAR WLAE WMEB WNED WNET WNYC WOJB WOSU WQED WQEJ WRFA WRNI WSIU WTIP WTIU WUFT WUMB WUNC WUSF WVIA WVIZ WWOZ WXXI WYCC WYSO WYSU YSU)
+      nocaps = w%(AND THE AND BUT OR FOR NOR YET AS AT BY FOR IN OF ON TO FROM)
+      words = title.split(" ")
+      # The first word should never be downcased
+      first_word = words.shift
+      first_word.map { |word| allcaps.include?(word) ? word : words.titleize }
+      formatted_words = words.map { |word| allcaps.include?(word) ? word : nocaps.include?(word) ? word.downcase : words.titleize }
+      formatted_words.unshift(first_word)
+      formatted_title = formatted_words.join(' ')
     end
   end
 
