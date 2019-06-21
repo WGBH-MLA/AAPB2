@@ -6,9 +6,10 @@ class TranscriptConverter
   extend TranscriptViewerHelper
 
   def self.json_parts(json)
-    # parsed_json = aggregate_transcript_parts(JSON.parse(json))
     parsed_json = JSON.parse(json)
-    parts = parsed_json['parts'] if parsed_json['parts']
+    parts = parsed_json['parts'] if parsed_json['parts'] && parsed_json['parts'].first
+    # just in case of empty 'parts' key in otherwise valid json
+    return nil unless parts
     build_transcript(parts, 'transcript')
   end
 
@@ -40,30 +41,5 @@ class TranscriptConverter
     else
       Time.at(s.to_f).utc.strftime('%H:%M:%S.%L')
     end
-  end
-
-  def self.aggregate_transcript_parts(json)
-    working_parts = []
-    aggregated_parts = []
-    return working_parts unless json['parts']
-    speaker_id = json['parts'][0]['speaker_id']
-
-    json['parts'].each do |part|
-      if part['speaker_id'] == speaker_id
-        working_parts << part
-      else
-        parsed_part = {}
-        parsed_part['start_time'] = working_parts[0]['start_time']
-        parsed_part['end_time'] = working_parts[-1]['end_time']
-        parsed_part['text'] = working_parts.map { |p| p['text'] }.join(' ') + "\n"
-
-        aggregated_parts << parsed_part
-        working_parts.clear
-
-        working_parts << part
-        speaker_id = part['speaker_id']
-      end
-    end
-    aggregated_parts
   end
 end

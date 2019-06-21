@@ -27,6 +27,7 @@ The NAEB Collection was contributed to the AAPB by the University of Maryland’
 
 ## Resources
 
+- [University of Maryland finding aid for the National Association of Educational Broadcasters (NAEB) audio tapes](https://hdl.handle.net/1903.1/43845)
 - [Wisconsin Historical Society finding aid for the National Association of Educational Broadcasters Records (1925-1977)](http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;view=reslist;subview=standard;didno=uw-whs-us0076af)
 - [Public and Educational Broadcasting Collections at the University of Maryland](https://www.lib.umd.edu/special/collections/massmedia/publicandeducationalbroadcasting)
 - [The National Association of Educational Broadcasters: A History (book)](http://www.worldcat.org/title/national-association-of-educational-broadcasters-a-history/oclc/930652)

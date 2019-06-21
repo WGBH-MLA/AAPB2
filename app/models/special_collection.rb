@@ -86,4 +86,11 @@ class SpecialCollection < Cmless
         ]
       end
   end
+
+  def self.valid_collection?(collection_name)
+    SpecialCollection.find_by_path(collection_name)
+    true
+  rescue Cmless::Error
+    false
+  end
 end

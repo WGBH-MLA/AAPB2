@@ -121,7 +121,7 @@ describe 'Validated and plain PBCore' do
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
           'series_titles' => ['Nova'],
-          'special_collection' => nil,
+          'special_collections' => [],
           'text' => ['1234', '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID',
                      'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.',
                      'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions',
@@ -155,7 +155,7 @@ describe 'Validated and plain PBCore' do
         titles: [%w(Series Nova), ['Program', 'Gratuitous Explosions'], #
                  ['Episode Number', '3-2-1'], ['Episode', 'Kaboom!']],
         title: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
-        special_collection: nil,
+        special_collections: [],
         exhibits: [],
         descriptions: ['Best episode ever!'],
         instantiations: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),

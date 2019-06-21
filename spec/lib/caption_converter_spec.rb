@@ -28,7 +28,7 @@ describe CaptionConverter do
   end
 
   describe '.srt_to_vtt' do
-    it 'converts a caption in SRT format to ' do
+    it 'converts a caption in SRT format to html' do
       expect(CaptionConverter.srt_to_transcript(srt).to_html).to eq html
     end
   end

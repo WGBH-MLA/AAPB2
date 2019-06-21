@@ -101,8 +101,8 @@ class PBCore
   def exhibits
     @exhibits ||= Exhibit.find_all_by_item_id(id)
   end
-  def special_collection
-    @special_collection ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="special_collections"]')
+  def special_collections
+    @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
   def id
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
@@ -433,7 +433,7 @@ class PBCore
 
       # facets:
       'exhibits' => exhibits.map(&:path),
-      'special_collection' => special_collection,
+      'special_collections' => special_collections,
       'media_type' => media_type == OTHER ? nil : media_type,
       'genres' => genres,
       'topics' => topics,
@@ -465,7 +465,7 @@ class PBCore
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
       :instantiations, :outside_url,
-      :reference_urls, :exhibits, :special_collection, :access_level_description,
+      :reference_urls, :exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
