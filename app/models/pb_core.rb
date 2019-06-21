@@ -16,12 +16,12 @@ require_relative '../../lib/formatter'
 require_relative '../../lib/caption_converter'
 require_relative 'transcript_file'
 require_relative 'caption_file'
+require_relative '../helpers/application_helper'
 
 class PBCore
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods
-  include ApplicationHelper
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
