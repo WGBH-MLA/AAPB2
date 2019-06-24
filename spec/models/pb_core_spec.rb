@@ -144,7 +144,7 @@ describe 'Validated and plain PBCore' do
           'producing_organizations' => ['WGBH'],
           'states' => ['Massachusetts'],
           'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
-          'asset_date' => "2000-01-01T00:00:00Z",
+          'asset_date' => '2000-01-01T00:00:00Z',
 
           # TODO: UI will transform internal representation.
         },
