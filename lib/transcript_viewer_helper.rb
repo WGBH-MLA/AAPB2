@@ -9,8 +9,7 @@ module TranscriptViewerHelper
 
     Nokogiri::XML::Builder.new do |doc_root|
       doc_root.div(class: 'root') do
-        transcript_parts.each_with_index do |part,i|
-
+        transcript_parts.each_with_index do |part, i|
           new_end_time, text = timecode_parts(part, source_type)
           if (new_end_time - last_end_time) > 60
             build_transcript_row(doc_root, last_end_time, new_end_time)
@@ -18,10 +17,11 @@ module TranscriptViewerHelper
             @buffer = ''
 
             # text for this step is actually first chunk of next paragraph
-            @buffer += %( #{text})
+            @buffer += text
             @para_counter += 1
           else
-            @buffer += %(#{text.tr("\n", ' ')})
+            @buffer += ' ' unless i == 0
+            @buffer += text.tr("\n", ' ')
           end
         end
 
