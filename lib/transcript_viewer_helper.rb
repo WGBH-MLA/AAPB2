@@ -16,7 +16,7 @@ module TranscriptViewerHelper
 
             # text for this step is actually first chunk of next paragraph
             buffer = text
-            para_counter += 1
+            @para_counter += 1
           else
             buffer += ' ' unless i == 0
             buffer += text.tr("\n", ' ')
