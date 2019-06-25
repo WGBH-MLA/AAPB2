@@ -18,10 +18,10 @@ module TranscriptViewerHelper
             @buffer = ''
 
             # text for this step is actually first chunk of next paragraph
-            @buffer += text
+            @buffer += %( #{text})
             @para_counter += 1
           else
-            @buffer += %( #{text.tr("\n", ' ')})
+            @buffer += %(#{text.tr("\n", ' ')})
           end
         end
 
