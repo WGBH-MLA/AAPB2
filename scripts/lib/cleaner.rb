@@ -226,15 +226,15 @@ class Cleaner
     else
       # add any terms here that you want to keep in ALL CAPS or to downcase completely
       # rubocop:disable LineLength
-      allcaps = %w(NOVA FRONTLINE AFN AG ASMW BSO CEO CMU CO CTE DCA ETV HBCU HIKI ICC II IPR ITV KAKM KBDI KCAW KCMU KDNA KEET KET KETC KEXP KEZI KFME KGNU KLPA KMED KMOS KNBA KNME KOAC KOCE KODE KOZJ KOZK KPFA KQED KRMA KSYS KTCA KUCB KUED KUHF KUNM KUOW KUSC KUSP KUT KUVO KVIE KWSO KWSU KXCI KYUK LA LICBC LSU LYMI MA MELE MIT MSU NAC NAEB NE NEA NETA NJPBA NY NYS OEB OPB OPTV ORC PSA RAETA SCETV SOEC TIU UC UCB UCTV UHF UM UNC US USA UVM UW WBAI WBEZ WBRA WCNY WCTE WDIY WEDH WEDU WEOS WERU WETA WEXT WFIU WFMU WFYI WGBH WGBY WGCU WGUC WGVU WHA WHRO WHUR WHUT WHYY WIAA WKAR WLAE WMEB WNED WNET WNYC WOJB WOSU WQED WQEJ WRFA WRNI WSIU WTIP WTIU WUFT WUMB WUNC WUSF WVIA WVIZ WWOZ WXXI WYCC WYSO WYSU YSU)
+      allcaps = %w(USA NASA NAACP NOVA FRONTLINE AFN AG ASMW BSO CEO CMU CO CTE DCA ETV HBCU HIKI ICC II IPR ITV KAKM KBDI KCAW KCMU KDNA KEET KET KETC KEXP KEZI KFME KGNU KLPA KMED KMOS KNBA KNME KOAC KOCE KODE KOZJ KOZK KPFA KQED KRMA KSYS KTCA KUCB KUED KUHF KUNM KUOW KUSC KUSP KUT KUVO KVIE KWSO KWSU KXCI KYUK LA LICBC LSU LYMI MA MELE MIT MSU NAC NAEB NE NEA NETA NJPBA NY NYS OEB OPB OPTV ORC PSA RAETA SCETV SOEC TIU UC UCB UCTV UHF UM UNC US USA UVM UW WBAI WBEZ WBRA WCNY WCTE WDIY WEDH WEDU WEOS WERU WETA WEXT WFIU WFMU WFYI WGBH WGBY WGCU WGUC WGVU WHA WHRO WHUR WHUT WHYY WIAA WKAR WLAE WMEB WNED WNET WNYC WOJB WOSU WQED WQEJ WRFA WRNI WSIU WTIP WTIU WUFT WUMB WUNC WUSF WVIA WVIZ WWOZ WXXI WYCC WYSO WYSU YSU)
       nocaps = %w(AND THE AND BUT OR FOR NOR YET AS AT BY FOR IN OF ON TO FROM)
       # rubocop:enable LineLength
       words = title.split(' ')
       # The first word should never be downcased
       first_word = words.shift
-      first_word = allcaps.include?(first_word) ? first_word : first_word.titleize
+      first_word = allcaps.include?(first_word) ? first_word : first_word.capitalize
       # rubocop:disable Style/NestedTernaryOperator
-      formatted_words = words.map { |word| allcaps.include?(word) ? word : nocaps.include?(word) ? word.downcase : word.titleize }
+      formatted_words = words.map { |word| allcaps.include?(word) ? word : nocaps.include?(word) ? word.downcase : word.capitalize }
       # rubocop:enable Style/NestedTernaryOperator
       formatted_words.unshift(first_word).join(' ')
     end
