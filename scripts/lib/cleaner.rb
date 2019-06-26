@@ -225,10 +225,9 @@ class Cleaner
     # check for match here so we can group the 'no words' case into the same if below
     unless title =~ /[A-Z]/ && title =~ /[a-z]/
       words = title.split(' ')
+      # expanding split characters to handle hypenated titles
+      # words = title.split(/?<=\s|?<=-/)
     end
-
-      require('pry');binding.pry if (title.include?('WRF') || title.include?('Wrf'))
-
 
     if words && words.present?
           # add any terms here that you want to keep in ALL CAPS or to downcase completely
