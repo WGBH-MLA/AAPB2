@@ -3,7 +3,7 @@ module TranscriptViewerHelper
     @para_counter = 1
 
     # make sure new_end_time is in this scope in case of < 60 case
-    new_end_time, discard = timecode_parts(transcript_parts.first, source_type)
+    new_end_time, _discard = timecode_parts(transcript_parts.first, source_type)
     last_end_time = new_end_time
     # initialize so we can += below
     buffer = ''
