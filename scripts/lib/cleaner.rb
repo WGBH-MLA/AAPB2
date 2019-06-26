@@ -239,13 +239,13 @@ class Cleaner
 
       # The first word should never be downcased
       first_word = words.shift
-      first_word = allcaps.include?(first_word) ? first_word : first_word.capitalize
+      first_word = first_word.capitalize unless (allcaps.include?(first_word) || allcaps.any? { |capword| /(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)/ =~ first_word  })
       # rubocop:disable Style/NestedTernaryOperator
 
       # formatted_words = words.map { |word| allcaps.include?(word) ? word : nocaps.include?(word) ? word.downcase : word.capitalize }
       formatted_words = words.map do |word|
         # does allcaps include exact capword, OR does capword appear in word surrounded by word boundary or hyphen
-        if allcaps.include?(word) || allcaps.any?( |capword| /(\b|-)#{capword}(\b|-)/ =~ word )
+        if allcaps.include?(word) || allcaps.any? { |capword| /(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)/ =~ word  }
           word
         elsif nocaps.include?(word)
           word.downcase
