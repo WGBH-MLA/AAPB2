@@ -225,11 +225,9 @@ class Cleaner
     # check for match here so we can group the 'no words' case into the same if below
     unless title =~ /[A-Z]/ && title =~ /[a-z]/
       words = title.split(' ')
-      # expanding split characters to handle hypenated titles
-      # words = title.split(/?<=\s|?<=-/)
     end
 
-    if words && words.present?
+    if words && words.first
       # add any terms here that you want to keep in ALL CAPS or to downcase completely
       # rubocop:disable LineLength
       allcaps = %w(USA NASA NAACP NOVA FRONTLINE AFN AG ASMW BSO CEO CMU CO CTE DCA ETV HBCU HIKI ICC II IPR ITV KAKM KBDI KCAW KCMU KDNA KEET KET KETC KEXP KEZI KFME KGNU KLPA KMED KMOS KNBA KNME KOAC KOCE KODE KOZJ KOZK KPFA KQED KRMA KSYS KTCA KUCB KUED KUHF KUNM KUOW KUSC KUSP KUT KUVO KVIE KWSO KWSU KXCI KYUK LA LICBC LSU LYMI MA MELE MIT MSU NAC NAEB NE NEA NETA NJPBA NY NYS OEB OPB OPTV ORC PSA RAETA SCETV SOEC TIU UC UCB UCTV UHF UM UNC US USA UVM UW WBAI WBEZ WBRA WCNY WCTE WDIY WEDH WEDU WEOS WERU WETA WEXT WFIU WFMU WFYI WGBH WGBY WGCU WGUC WGVU WHA WHRO WHUR WHUT WHYY WIAA WKAR WLAE WMEB WNED WNET WNYC WOJB WOSU WQED WQEJ WRFA WRNI WSIU WTIP WTIU WUFT WUMB WUNC WUSF WVIA WVIZ WWOZ WXXI WYCC WYSO WYSU YSU WQXR WRF)
@@ -241,8 +239,8 @@ class Cleaner
       first_word = first_word.capitalize unless allcaps.include?(first_word) || allcaps.any? { |capword| %r{(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)} =~ first_word }
 
       formatted_words = words.map do |word|
-        # does allcaps include exact capword, OR does capword appear in word surrounded by word boundary or hyphen
-        if allcaps.include?(word) || allcaps.any? { |capword| %r{(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)} =~ word }
+        # does allcaps include exact capword, OR does capword appear in word surrounded by word boundary or hyphen OR has no consonants
+        if allcaps.include?(word) || allcaps.any? { |capword| %r{(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)} =~ word } || %r{\b[^AEIOUY]+\b}i =~ word
           word
         elsif nocaps.include?(word)
           word.downcase
