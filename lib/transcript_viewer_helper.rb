@@ -3,9 +3,10 @@ module TranscriptViewerHelper
     @para_counter = 1
 
     # make sure new_end_time is in this scope in case of < 60 case
-    new_end_time, buffer = timecode_parts(transcript_parts.first, source_type)
+    new_end_time, discard = timecode_parts(transcript_parts.first, source_type)
     last_end_time = new_end_time
-
+    # initialize so we can += below
+    buffer = ''
     Nokogiri::XML::Builder.new do |doc_root|
       doc_root.div(class: 'root') do
         transcript_parts.each_with_index do |part, i|
