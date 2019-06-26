@@ -223,6 +223,7 @@ class Cleaner
     title = title.gsub(/^(.*), (a|an|the)$/i, '\2 \1')
       
     # check for match here so we can group the 'no words' case into the same if below
+
     unless title =~ /[A-Z]/ && title =~ /[a-z]/
       words = title.split(' ')
       # expanding split characters to handle hypenated titles
@@ -241,8 +242,18 @@ class Cleaner
       first_word = allcaps.include?(first_word) ? first_word : first_word.capitalize
       # rubocop:disable Style/NestedTernaryOperator
 
+      # formatted_words = words.map { |word| allcaps.include?(word) ? word : nocaps.include?(word) ? word.downcase : word.capitalize }
+      formatted_words = words.map do |word|
+        # does allcaps include exact capword, OR does capword appear in word surrounded by word boundary or hyphen
+        if allcaps.include?(word) || allcaps.any?( |capword| /(\b|-)#{capword}(\b|-)/ =~ word )
+          word
+        elsif nocaps.include?(word)
+          word.downcase
+        else
+          word.capitalize
+        end
+      end
 
-      formatted_words = words.map { |word| allcaps.include?(word) ? word : nocaps.include?(word) ? word.downcase : word.capitalize }
       # rubocop:enable Style/NestedTernaryOperator
       formatted_words.unshift(first_word).join(' ')
     else
