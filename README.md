@@ -127,7 +127,68 @@ $ cd aws-wrapper
 $ bundle exec scripts/swap.rb --name aapb.wgbh-mla.org
 ```
 
+*** To configure SSL for demo/production servers, follow the SSL Certificate instructions below ***
+
 When that process completes, you can go to the [live AAPB](http://americanarchive.org) and verify that the new code came deploy that had previously been on the demo site is now live.  You can also visit the demo url if you wish to see if the non-updated code is still in place.
+
+## SSL Certificate Configuration
+Both the Demo and Production AAPB instances use an SSL certificate generated through via the Let's Encrypt project (letsencrypt.org) and Certbot.
+
+For a fresh install, follow these steps:
+
+```
+### Download Certbot, and set permissions
+wget https://dl.eff.org/certbot-auto
+sudo mv certbot-auto /usr/local/bin/certbot-auto
+sudo chown root /usr/local/bin/certbot-auto
+sudo chmod 0755 /usr/local/bin/certbot-auto
+
+### Ensure Python 2.7/git are installed
+sudo yum install python27-devel git
+
+### Clone letsencrypt repo
+sudo git clone https://github.com/letsencrypt/letsencrypt /opt/letsencrypt
+
+### Edit this file (to adapt RHEL 6 install for Amazon Linux):
+sudo vi /opt/letsencrypt/certbot-auto
+
+  find line with
+    elif [ -f /etc/redhat-release ]; then
+  replace with
+    elif [ -f /etc/redhat-release ] || grep 'cpe:.*:amazon_linux:2' /etc/os-release > /dev/null 2>&1; then
+
+### Get dependencies
+/opt/letsencrypt/certbot-auto --debug --os-packages-only
+
+### Create directory used for challenge file
+sudo mkdir /var/www/aapb/current/.well-known
+
+### Add LetsEncrypt config file to instance
+Copy `config/letsencrypt/config.ini` to `/etc/letsencrypt` on the instance
+
+### Get the cert!
+sudo /opt/letsencrypt/certbot-auto certonly --debug --apache -w /var/www/aapb/current -d americanarchive.org -d www.americanarchive.org --config /etc/letsencrypt/config.ini --agree-tos 
+
+```
+
+To swap servers:
+
+Go to the AWS Console, and navigate to EC2 > Elastic IPs
+Take note of the instance IDs associated with the 'aapb-production' and 'aapb-demo' IPs
+Right-click on each IP and 'Disassociate address'
+Right-click on each IP and click 'Associate Address', then select the new correct instances for production/demo
+
+SSH into each of the two instances and follow these steps to swap SSL certs in the respective httpd configs and then restart apache:
+
+```
+sudo su
+sudo vi /etc/httpd/conf/httd.conf
+
+Replace the file's content with the corresponding httpd config file (config/letsencrypt/aapb-httpd-config-for-... files), save and exit
+exit (from root user)
+
+sudo systemctl restart httpd
+```
 
 ## Ingest to AAPB
 	TO DO CURRENTLY HANDLED IN `guids2AAPB.app`
