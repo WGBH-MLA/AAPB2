@@ -5,6 +5,7 @@ require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 require 'logger'
 require 'rake'
+require 'active_support/core_ext/string'
 
 class Exception
   def short
