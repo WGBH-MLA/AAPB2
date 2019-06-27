@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![The Great Depression](https://s3.amazonaws.com/americanarchive.org/special-collections/GreatDepressionblackborder2.png "The Great Depression") 
+![The Great Depression](https://s3.amazonaws.com/americanarchive.org/special-collections/GreatDepressionblackborder.png "The Great Depression") 
 
 ## Summary
 
