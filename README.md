@@ -132,7 +132,7 @@ $ bundle exec scripts/swap.rb --name aapb.wgbh-mla.org
 When that process completes, you can go to the [live AAPB](http://americanarchive.org) and verify that the new code came deploy that had previously been on the demo site is now live.  You can also visit the demo url if you wish to see if the non-updated code is still in place.
 
 ## SSL Certificate Configuration
-Both the Demo and Production AAPB instances use an SSL certificate generated through via the Let's Encrypt project (letsencrypt.org) and Certbot.
+Both the Demo and Production AAPB instances use an SSL certificate generated via the Let's Encrypt project (letsencrypt.org) and Certbot.
 
 For a fresh install, follow these steps:
 
@@ -167,7 +167,7 @@ sudo mkdir /var/www/aapb/current/.well-known
 Copy `config/letsencrypt/config.ini` to `/etc/letsencrypt` on the instance
 
 ### Get the cert!
-sudo /opt/letsencrypt/certbot-auto certonly --debug --apache -w /var/www/aapb/current -d americanarchive.org -d www.americanarchive.org --config /etc/letsencrypt/config.ini --agree-tos 
+sudo /opt/letsencrypt/certbot-auto certonly --debug --apache -w /var/www/aapb/current -d americanarchive.org -d www.americanarchive.org --config /etc/letsencrypt/config.ini --agree-tos
 
 ```
 
