@@ -7,7 +7,7 @@ class CatalogController < ApplicationController
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
-  self.search_params_logic += [:quote_handler]
+  self.search_params_logic += [:apply_quote_handler, :apply_date_filter]
 
   configure_blacklight do |config|
     # 'list' is the name of blacklight's default search result view style
@@ -110,9 +110,6 @@ class CatalogController < ApplicationController
                                                       partial: 'producing_organizations_facet',
                                                       collapse: :force
     # Display all, even when one is selected.
-    config.add_facet_field 'year',  sort: 'index',
-                                    range: true,
-                                    message: 'Cataloging in progress: only half of the records for digitized assets are currently dated.'
     config.add_facet_field 'access_types',  label: 'Access',
                                             partial: 'access_facet',
                                             tag: 'access',
@@ -177,8 +174,8 @@ class CatalogController < ApplicationController
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
     config.add_sort_field 'score desc', label: 'relevance'
-    config.add_sort_field 'year desc', label: 'year (newest)'
-    config.add_sort_field 'year asc', label: 'year (oldest)'
+    config.add_sort_field 'asset_date desc', label: 'date (newest)'
+    config.add_sort_field 'asset_date asc', label: 'date (oldest)'
     config.add_sort_field 'title asc', label: 'title'
 
     # If there are more than this many search results, no spelling ("did you

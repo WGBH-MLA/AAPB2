@@ -538,6 +538,10 @@
 
   <!-- sorting and facet -->
   <field name="year" type="string" indexed="true" stored="false" multiValued="false"/>
+  
+
+  <!-- for granular date sorting -->
+  <field name="asset_date" type="tdate" indexed="true" stored="true" multiValued="false"/>
 
   <!-- facet -->
   <field name="media_type" type="string" indexed="true" stored="false" multiValued="false"/>

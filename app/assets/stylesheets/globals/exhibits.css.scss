@@ -97,19 +97,6 @@ a.exhibit-color:hover {
   color: #9d2064;
 }
 
-#exhibit-text-container.exhibit-abbreviate {
-  min-height: 20vw;
-  max-height: 20vw;
-  height: 20vw;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.exhibit-abbreviate p {
-  margin: 0;
-  display: inline;
-}
-
 #exgal-main  {
   margin-left: 0;
   margin-right: 0;
@@ -486,15 +473,6 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
 }
 
 @media only screen and (max-width: 991px) {
-
-
-  #exhibit-text-container.exhibit-abbreviate {
-    min-height: 60vw;
-    max-height: 60vw;
-    height: 60vw;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
 
   #exhibit-overview-title {
     margin-top: 8%;

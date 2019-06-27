@@ -16,6 +16,7 @@ require_relative '../../lib/formatter'
 require_relative '../../lib/caption_converter'
 require_relative 'transcript_file'
 require_relative 'caption_file'
+require_relative '../helpers/application_helper'
 
 class PBCore
   # rubocop:disable Style/EmptyLineBetweenDefs
@@ -428,6 +429,7 @@ class PBCore
 
       # sort and facet:
       'year' => year,
+      'asset_date' => date_for_assetdate_field,
 
       # facets:
       'exhibits' => exhibits.map(&:path),
@@ -506,6 +508,12 @@ class PBCore
 
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+  end
+
+  def date_for_assetdate_field
+    date_val = asset_date
+    return unless date_val
+    handle_date_string(date_val, 'index')
   end
 
   def pre_existing_caption_annotation(doc)
