@@ -56,7 +56,7 @@ describe Cleaner do
       'The redundant trailing article, A' => 'A The redundant trailing article',
       'No change if a mix of UPPER and lower' => 'No change if a mix of UPPER and lower',
       'GUESSES SOME: XKCD, CNN, RDF, WGBH, DC' => 'Guesses Some: XKCD, CNN, RDF, WGBH, DC',
-      'HARD CODED: CEO, LA, MIT, UC-DAVIS, WETA' => 'Hard Coded: CEO, LA, MIT, UC-Davis, WETA',
+      'HARD CODED: CEO, LA, MIT, WETA' => 'Hard Coded: CEO, LA, MIT, WETA',
       'not all-knowing: ussr, cia, ianal' => 'Not all-knowing: Ussr, Cia, Ianal',
       'AND NOTICE THE CAPITALIZATION OF "AND"' => 'And Notice the Capitalization of "and"',
     }.each do |dirty, clean|
