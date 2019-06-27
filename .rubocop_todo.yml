@@ -134,3 +134,4 @@ Style/RegexpLiteral:
     - 'spec/scripts/downloader_spec.rb'
     - 'spec/support/link_checker.rb'
     - 'spec/support/validation_helper.rb'
+    - 'scripts/lib/cleaner.rb'
