@@ -223,9 +223,7 @@ class Cleaner
     title = title.gsub(/^(.*), (a|an|the)$/i, '\2 \1')
 
     # check for match here so we can group the 'no words' case into the same if below
-    unless title =~ /[A-Z]/ && title =~ /[a-z]/
-      words = title.split(' ')
-    end
+    words = title.split(' ') unless title =~ /[A-Z]/ && title =~ /[a-z]/
 
     if words && words.first
       # add any terms here that you want to keep in ALL CAPS or to downcase completely
@@ -236,11 +234,11 @@ class Cleaner
 
       # The first word should never be downcased
       first_word = words.shift
-      first_word = first_word.capitalize unless allcaps.include?(first_word) || allcaps.any? { |capword| %r{(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)} =~ first_word }
+      first_word = first_word.capitalize unless allcaps.include?(first_word) || allcaps.any? { |capword| /(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)/ =~ first_word }
 
       formatted_words = words.map do |word|
         # does allcaps include exact capword, OR does capword appear in word surrounded by word boundary or hyphen OR has no consonants
-        if allcaps.include?(word) || allcaps.any? { |capword| %r{(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)} =~ word } || %r{\b[^AEIOUY]+\b}i =~ word
+        if allcaps.include?(word) || allcaps.any? { |capword| /(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)/ =~ word } || /\b[^AEIOUY]+\b/i =~ word
           word
         elsif nocaps.include?(word)
           word.downcase

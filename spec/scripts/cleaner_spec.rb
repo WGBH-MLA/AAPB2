@@ -58,7 +58,7 @@ describe Cleaner do
       'GUESSES SOME: XKCD, CNN, RDF, WGBH, DC' => 'Guesses Some: XKCD, CNN, RDF, WGBH, DC',
       'HARD CODED: CEO, LA, MIT, WETA' => 'Hard Coded: CEO, LA, MIT, WETA',
       'not all-knowing: ussr, cia, ianal' => 'Not all-knowing: Ussr, Cia, Ianal',
-      'AND NOTICE THE CAPITALIZATION OF "AND"' => 'And Notice the Capitalization of "and"',
+      'AND NOTICE THE CAPITALIZATION OF "AND"' => 'And Notice the Capitalization of "and"'
     }.each do |dirty, clean|
       it "cleans '#{clean}'" do
         expect(Cleaner.clean_title(dirty)).to eq(clean)
