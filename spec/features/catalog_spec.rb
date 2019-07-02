@@ -3,6 +3,7 @@ require 'resolv'
 require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/validation_helper'
+require_relative '../support/feature_test_helper'
 
 describe 'Catalog' do
   include ValidationHelper
@@ -16,11 +17,11 @@ describe 'Catalog' do
   def expect_count(count)
     case count
     when 0
-      expect(page).to have_text('No entries found')
+      expect(page).to have_text('No entriess found'), missing_page_text_custom_error('No entriess found', page.current_path)
     when 1
-      expect(page).to have_text('1 entry found')
+      expect(page).to have_text('1 entryy found'), missing_page_text_custom_error('1 entryy found', page.current_path)
     else
-      expect(page).to have_text("1 - #{[count, 10].min} of #{count}")
+      expect(page).to have_text("1 - #{[count, 10].min} off #{count}"), missing_page_text_custom_error("1 - #{[count, 10].min} off #{count}", page.current_path)
     end
   end
 
@@ -32,7 +33,7 @@ describe 'Catalog' do
   # Calls an expectation for a <audio> element
   def expect_audio(opts = {})
     poster = opts[:poster]
-    expect(page).not_to have_text('Online Reading Room Rules of Use')
+    expect(page).not_to have_text('Online Reading Room Rules of Use'), missing_page_text_custom_error('Online Reading Room Rules of Use', page.current_path)
     expect(page).to have_selector('audio')
     expect(page).to have_css("audio[poster='#{poster}']") if poster
   end
@@ -54,7 +55,7 @@ describe 'Catalog' do
   end
 
   def expect_external_reference
-    expect(page).to have_text('More information on this record is available.')
+    expect(page).to have_text('More information on this record is available.'), missing_page_text_custom_error('More information on this record is available.', page.current_path)
   end
 
   def expect_transcript
@@ -68,7 +69,7 @@ describe 'Catalog' do
   describe '#index' do
     it 'has facet messages' do
       visit '/catalog'
-      expect(page).to have_text('Cataloging in progress: only half of the records for digitized assets are currently dated.')
+      expect(page).to have_text('Cataloging in progress: only half of the records for digitized assets are currently dated.'), missing_page_text_custom_error('Cataloging in progress: only half of the records for digitized assets are currently dated.', page.current_path)
     end
 
     it 'can find one item' do
@@ -81,7 +82,7 @@ describe 'Catalog' do
         'Producing Organization: WGBH',
         'Best episode ever!'
       ].each do |field|
-        expect(page).to have_text(field)
+        expect(page).to have_text(field), missing_page_text_custom_error(field, page.current_path)
       end
       expect_thumbnail(1234)
       expect_fuzzy_xml
@@ -89,9 +90,9 @@ describe 'Catalog' do
 
     it 'offers to broaden search' do
       visit '/catalog?q=xkcd&f[access_types][]=' + PBCore::PUBLIC_ACCESS
-      expect(page).to have_text('No entries found')
+      expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
       click_link 'searching all records'
-      expect(page).to have_text('Consider using other search terms or removing filters.')
+      expect(page).to have_text('Consider using other search terms or removing filters.'), missing_page_text_custom_error('Consider using other search terms or removing filters.', page.current_path)
     end
 
     describe 'search constraints' do
@@ -198,43 +199,47 @@ describe 'Catalog' do
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
           expect_count(10)
-          expect(page).to have_text('You searched for: Access online')
+          expect(page).to have_text('You searched for: Access online'),missing_page_text_custom_error('You searched for: Access online',page.current_path)
 
           click_link('All Records')
           expect_count(43)
-          expect(page).to have_text('You searched for: Access all')
+          expect(page).to have_text('You searched for: Access all'),missing_page_text_custom_error('You searched for: Access all', page.current_path)
 
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
           click_link('KQED (CA)')
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
           expect_count(3)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)')
+                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'),missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
 
           click_link('WGBH (MA)')
           expect_count(9)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)')
+                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'),missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
 
           click_link('KQED (CA)')
           expect_count(6)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)')
+                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'),missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
 
           all(:css, '.constraints-container a.remove').first.click # remove access all
           # If you attempt to remove the access facet, it redirects you to the default,
           # but the default depends on requestor's IP address.
           # TODO: set address in request.
           expect_count(4)
-          expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ')
+          expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '),missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
 
           click_link('Iowa Public Television (IA)')
           # TODO: check count when IP set in request.
-          expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)')
+          expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'),missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
 
           expect(page).to have_css('a', text: 'District of Columbia')
           click_link('District of Columbia')
-          expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)')
+          expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'),missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
+
 
           # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
           # TODO: check count when IP set in request.
@@ -246,14 +251,14 @@ describe 'Catalog' do
         describe 'in gallery' do
           it 'has exhibit breadcrumb' do
             visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCore::ALL_ACCESS
-            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories')
+            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
           end
         end
 
         describe 'in list' do
           it 'has exhibit breadcrumb' do
             visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
-            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories')
+            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
           end
         end
       end
@@ -261,7 +266,7 @@ describe 'Catalog' do
       describe 'special collection facet search' do
         it 'has collection specific search panel' do
           visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
-          expect(page).to have_text('Need Help Searching?')
+          expect(page).to have_text('Need Help Searching?'), missing_page_text_custom_error('Need Help Searching?', page.current_path)
         end
       end
 
@@ -438,13 +443,13 @@ describe 'Catalog' do
       visit '/catalog/cpb-aacip-80-12893j6c'
       # No need to click through
       expect_all_the_text('clean-bad-essence-track.xml')
-      expect(page).to have_text('This content has not been digitized.')
+      expect(page).to have_text('This content has not been digitized.'), missing_page_text_custom_error('This content has not been digitized.', page.current_path)
       expect_no_media
     end
 
     it 'links to collection' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
-      expect(page).to have_text('This record is featured in')
+      expect(page).to have_text('This record is featured in'), missing_page_text_custom_error('This record is featured in', page.current_path)
       expect_video(poster: s3_thumb('cpb-aacip_111-21ghx7d6'))
     end
 
@@ -464,7 +469,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_37-16c2fsnr'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-every-title-is-episode-number.xml')
-        expect(page).to have_text('not available at your location.')
+        expect(page).to have_text('not available at your location.'), missing_page_text_custom_error('not available at your location.', page.current_path)
         expect_no_media
       end
 
@@ -473,7 +478,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_111-21ghx7d6'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-exhibit.xml')
-        expect(page).to have_text('only available at WGBH and the Library of Congress. ')
+        expect(page).to have_text('only available at WGBH and the Library of Congress. '), missing_page_text_custom_error('only available at WGBH and the Library of Congress. ', page.current_path)
         expect_no_media
       end
 
@@ -481,14 +486,13 @@ describe 'Catalog' do
         ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
         visit 'catalog/cpb-aacip_37-16c2fsnr'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
-        expect(page).to have_text('Online Reading Room Rules of Use')
+        expect(page).to have_text('Online Reading Room Rules of Use'), missing_page_text_custom_error('Online Reading Room Rules of Use', page.current_path)
       end
 
       it 'has both playlist navigation options when applicable' do
         visit 'catalog/cpb-aacip_512-0r9m32nw1x'
         expect(page).to have_css('div#playlist')
-        expect(page).to have_text('Part 1')
-        expect(page).to have_text('Part 1')
+        expect(page).to have_text('Part 1'), missing_page_text_custom_error('Part 1', page.current_path)
       end
 
       it 'has next playlist navigation option when first item in playlist' do
@@ -501,8 +505,8 @@ describe 'Catalog' do
       it 'has previous playlist navigation option when last item in playlist' do
         visit 'catalog/cpb-aacip_512-w66930pv96'
         expect(page).to have_css('div#playlist')
-        expect(page).to have_text('Part 2')
-        expect(page).not_to have_text('Part 4')
+        expect(page).to have_text('Part 2'), missing_page_text_custom_error('Part 2', page.current_path)
+        expect(page).not_to have_text('Part 4'), missing_page_text_custom_error('Part 4', page.current_path)
       end
 
       it 'should not have #playlist when not in playlist' do
