@@ -6,6 +6,10 @@ class Featured
   attr_reader :org_name
   attr_reader :name
   attr_reader :thumbnail_url
+  
+  def self.from_gallery(gallery_name)
+    @galleries[gallery_name]
+  end
 
   private
 
@@ -26,7 +30,5 @@ class Featured
     end
   ]
 
-  def self.from_gallery(gallery_name)
-    @galleries[gallery_name]
-  end
+  private_class_method :from_gallery
 end

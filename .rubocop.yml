@@ -27,11 +27,7 @@ Style/Documentation:
   Enabled: false
 
 
-
 # New Disables
-
-
-# My code, my length
 Metrics/LineLength:
   Enabled: false
 
@@ -47,16 +43,39 @@ Metrics/MethodLength:
 Metrics/ClassLength:
   Enabled: false
 
-
-# Don't Care
+Style/AlignHash:
+  Enabled: false
 
 Style/HashSyntax:
   Enabled: false
 
+Style/LineEndConcatenation:
+  Enabled: false
+
+Style/StringLiterals:
+  Enabled: false
+
+Style/IndentArray:
+  Enabled: false
+
+Lint/EndAlignment:
+  Enabled: false
+
+# this was set with a gigantic maximum.... so disabling
+Metrics/AbcSize:
+  Enabled: false
+
+# got a lotta these
+Style/GlobalVars:
+  Enabled: false
+
+# too opinionated
+# Offense count: 12
+Metrics/CyclomaticComplexity:
+  Enabled: false
 
 
-
-# Leaving this for now, not sure if this is a problem
+# Leaving these for now, not sure if this is a problem
 # Offense count: 10
 Metrics/PerceivedComplexity:
   Max: 20
@@ -70,3 +89,43 @@ Style/ClassAndModuleChildren:
 Style/GuardClause:
   Exclude:
     - 'spec/support/remote_ip_monkey_patch.rb'
+
+# Offense count: 2
+Lint/ShadowingOuterLocalVariable:
+  Exclude:
+    - 'config/environment.rb'
+
+# assuming theres some reason for this one
+# Offense count: 1
+# Configuration parameters: AllowSafeAssignment.
+Lint/AssignmentInCondition:
+  Exclude:
+    - 'bin/spring'
+
+# good security reason for cop, but apparently useful in this context?
+# Offense count: 1
+Lint/Eval:
+  Exclude:
+    - 'app/controllers/api_controller.rb'
+
+# outta the box
+# Offense count: 2
+Lint/HandleExceptions:
+  Exclude:
+    - 'bin/rails'
+    - 'bin/rake'
+
+# Offense count: 1
+Lint/UselessAssignment:
+  Exclude:
+    - 'config/environment.rb'
+
+Lint/IneffectiveAccessModifier:
+  Exclude:
+    - 'app/models/featured.rb'
+    - 'scripts/lib/cleaner.rb'
+
+# Offense count: 1
+Style/AsciiComments:
+  Exclude:
+    - 'spec/lib/markdown_spec.rb'

@@ -1,5 +1,4 @@
 require_relative '../../app/models/exhibit'
-# rubocop:disable LineLength
 
 describe Exhibit do
   describe 'correctly configured' do
@@ -65,15 +64,12 @@ describe Exhibit do
                       alt: 'Alt cover 3',
                       title: 'cover title 3' } }],
 
-                      # rubocop:disable Style/AlignHash
-                      # cant make this happy v
                       authors: [{ img_url: 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author2.png',
                                   title: 'Curator Extraordinaire',
                                   name: 'First Author' },
                                 { img_url: 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author.png',
                                   title: 'Second Banana',
                                   name: 'Second Author' }],
-      # rubocop:enable Style/AlignHash
       subsection?: true,
       top_title: 'Parent!',
       top_path: 'parent'
@@ -82,8 +78,6 @@ describe Exhibit do
     assertions.each do |method, value|
       it "\##{method} method works" do
         if method == :cover
-
-          # rubocop:disable Style/LineEndConcatenation,Style/StringLiterals,Style/IndentArray
           expect([
                   ("<a href='/exhibits/parent/child/grandchild'>\n" +
                   "        <div style=\"background-image: url('https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_Newsmagazines_image5.jpg');\" class='four-four-box exhibit-section'>\n" +
@@ -116,7 +110,6 @@ describe Exhibit do
                   "        </div>\n" +
                   "      </a>")
                 ].include?(exhibit.send(method))).to eq(true)
-          # rubocop:enable Style/LineEndConcatenation,Style/StringLiterals,Style/IndentArray
 
         else
 
@@ -141,4 +134,3 @@ describe Exhibit do
     end
   end
 end
-# rubocop:enable LineLength

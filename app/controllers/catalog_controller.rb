@@ -278,9 +278,7 @@ class CatalogController < ApplicationController
             if @pbcore.transcript_status == PBCore::CORRECT_TRANSCRIPT
               @transcript_open = true
             else
-              # rubocop:disable LineLength
               @transcript_message = 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>'
-              # rubocop:enable LineLength
               @transcript_open = false
             end
           end
@@ -305,7 +303,6 @@ class CatalogController < ApplicationController
 
   private
 
-  # Style/GuardClause
   def exhibit_from_url
     # Despite 'exhibit' field being multi-valued in solrconfig.xml, we're only
     # returning the first exhibit from the URL we currently only allow users to
