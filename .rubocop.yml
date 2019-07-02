@@ -11,3 +11,62 @@ AllCops:
 
 Metrics/ClassLength:
   Enabled: false
+
+Style/RegexpLiteral:
+  Enabled: false
+
+Style/RaiseArgs:
+  Enabled: false
+
+# method calls on an 'end' after a block
+# we do this a lot, so leaving it
+Style/MultilineBlockChain:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+
+
+# New Disables
+
+
+# My code, my length
+Metrics/LineLength:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+
+# Don't Care
+
+Style/HashSyntax:
+  Enabled: false
+
+
+
+
+# Leaving this for now, not sure if this is a problem
+# Offense count: 10
+Metrics/PerceivedComplexity:
+  Max: 20
+
+Style/ClassAndModuleChildren:
+  Exclude:
+    - 'config/environment.rb'
+
+# Offense count: 1
+# Configuration parameters: MinBodyLength.
+Style/GuardClause:
+  Exclude:
+    - 'spec/support/remote_ip_monkey_patch.rb'

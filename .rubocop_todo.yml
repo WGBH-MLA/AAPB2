@@ -104,34 +104,34 @@ Style/GuardClause:
   Exclude:
     - 'spec/support/remote_ip_monkey_patch.rb'
 
-# Offense count: 3
-Style/MultilineBlockChain:
-  Exclude:
-    - 'app/models/exhibit.rb'
-    - 'app/models/vocab_map.rb'
-    - 'spec/features/catalog_spec.rb'
+# # Offense count: 3
+# Style/MultilineBlockChain:
+#   Exclude:
+#     - 'app/models/exhibit.rb'
+#     - 'app/models/vocab_map.rb'
+#     - 'spec/features/catalog_spec.rb'
 
-# Offense count: 12
-# Configuration parameters: EnforcedStyle, SupportedStyles.
-# SupportedStyles: compact, exploded
-Style/RaiseArgs:
-  Enabled: false
+# # Offense count: 12
+# # Configuration parameters: EnforcedStyle, SupportedStyles.
+# # SupportedStyles: compact, exploded
+# Style/RaiseArgs:
+#   Enabled: false
 
-# Offense count: 20
-# Cop supports --auto-correct.
-# Configuration parameters: EnforcedStyle, SupportedStyles, AllowInnerSlashes.
-# SupportedStyles: slashes, percent_r, mixed
-Style/RegexpLiteral:
-  Exclude:
-    - 'app/models/exhibit.rb'
-    - 'app/models/featured.rb'
-    - 'config/routes.rb'
-    - 'lib/html_scrubber.rb'
-    - 'scripts/lib/downloader.rb'
-    - 'spec/features/override_spec.rb'
-    - 'spec/models/pb_core_spec.rb'
-    - 'spec/scripts/download_clean_ingest_spec.rb'
-    - 'spec/scripts/downloader_spec.rb'
-    - 'spec/support/link_checker.rb'
-    - 'spec/support/validation_helper.rb'
-    - 'scripts/lib/cleaner.rb'
+# # Offense count: 20
+# # Cop supports --auto-correct.
+# # Configuration parameters: EnforcedStyle, SupportedStyles, AllowInnerSlashes.
+# # SupportedStyles: slashes, percent_r, mixed
+# Style/RegexpLiteral:
+#   Exclude:
+#     - 'app/models/exhibit.rb'
+#     - 'app/models/featured.rb'
+#     - 'config/routes.rb'
+#     - 'lib/html_scrubber.rb'
+#     - 'scripts/lib/downloader.rb'
+#     - 'spec/features/override_spec.rb'
+#     - 'spec/models/pb_core_spec.rb'
+#     - 'spec/scripts/download_clean_ingest_spec.rb'
+#     - 'spec/scripts/downloader_spec.rb'
+#     - 'spec/support/link_checker.rb'
+#     - 'spec/support/validation_helper.rb'
+#     - 'scripts/lib/cleaner.rb'
