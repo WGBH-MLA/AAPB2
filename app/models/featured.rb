@@ -29,5 +29,4 @@ class Featured
       ]
     end
   ]
-
 end
