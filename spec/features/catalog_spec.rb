@@ -272,14 +272,12 @@ describe 'Catalog' do
 
       describe 'sorting' do
         describe 'relevance sorting' do
-          # rubocop:disable LineLength
           # all 10 because we're only looking at first page results
           assertions = [
             ['Iowa', ['Touchstone 108', 'Dr. Norman Borlaug; B-Roll', 'Musical Encounter; 116; Music for Fun', 'Bob Brozman', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'The Civil War; Interviews with Barbara Fields', '1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']],
             ['art', ['The Scheewe Art Workshop', 'Unknown', 'Origami; 7; Paper Ball', 'Japanese Brush Painting; 2; Fish', 'A Sorting Test: 100', 'Racing the Rez', 'Musical Performance of Appalachian Folk Music in Kentucky', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3', '15th Anniversary Show']],
             ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', '1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3', 'The Civil War; Interviews with Barbara Fields', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'Racing the Rez', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3', 'Musical Performance of Appalachian Folk Music in Kentucky']]
           ]
-          # rubocop:enable LineLength
           assertions.each do |query, titles|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=#{query}"
             it "sort=score+desc: #{titles}\t#{url}" do

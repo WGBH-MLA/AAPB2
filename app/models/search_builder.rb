@@ -34,7 +34,6 @@ class SearchBuilder < Blacklight::SearchBuilder
     end
   end
 
-  # rubocop:disable AllCops
   # Returns the 'before' date time formatted for a Solr query.
   def before_date
     @before_date ||= handle_date_string(blacklight_params['before_date'], 'before') if blacklight_params['before_date']&.present?
@@ -44,7 +43,6 @@ class SearchBuilder < Blacklight::SearchBuilder
   def after_date
     @after_date ||= handle_date_string(blacklight_params['after_date'], 'after') if blacklight_params['after_date']&.present?
   end
-  # rubocop:enable AllCops
 
   # Returns the date inputs in the form of a queryable range.
   def date_range
