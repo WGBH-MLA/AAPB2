@@ -17,11 +17,11 @@ describe 'Catalog' do
   def expect_count(count)
     case count
     when 0
-      expect(page).to have_text('No entriess found'), missing_page_text_custom_error('No entriess found', page.current_path)
+      expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
     when 1
-      expect(page).to have_text('1 entryy found'), missing_page_text_custom_error('1 entryy found', page.current_path)
+      expect(page).to have_text('1 entry found'), missing_page_text_custom_error('1 entry found', page.current_path)
     else
-      expect(page).to have_text("1 - #{[count, 10].min} off #{count}"), missing_page_text_custom_error("1 - #{[count, 10].min} off #{count}", page.current_path)
+      expect(page).to have_text("1 - #{[count, 10].min} of #{count}"), missing_page_text_custom_error("1 - #{[count, 10].min} of #{count}", page.current_path)
     end
   end
 
