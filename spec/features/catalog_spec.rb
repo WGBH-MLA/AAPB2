@@ -199,30 +199,30 @@ describe 'Catalog' do
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
           expect_count(10)
-          expect(page).to have_text('You searched for: Access online'),missing_page_text_custom_error('You searched for: Access online',page.current_path)
+          expect(page).to have_text('You searched for: Access online'), missing_page_text_custom_error('You searched for: Access online', page.current_path)
 
           click_link('All Records')
           expect_count(43)
-          expect(page).to have_text('You searched for: Access all'),missing_page_text_custom_error('You searched for: Access all', page.current_path)
+          expect(page).to have_text('You searched for: Access all'), missing_page_text_custom_error('You searched for: Access all', page.current_path)
 
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
           click_link('KQED (CA)')
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
           expect_count(3)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'),missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
 
           click_link('WGBH (MA)')
           expect_count(9)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'),missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
 
           click_link('KQED (CA)')
           expect_count(6)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'),missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
 
           all(:css, '.constraints-container a.remove').first.click # remove access all
@@ -230,16 +230,15 @@ describe 'Catalog' do
           # but the default depends on requestor's IP address.
           # TODO: set address in request.
           expect_count(4)
-          expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '),missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
+          expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
 
           click_link('Iowa Public Television (IA)')
           # TODO: check count when IP set in request.
-          expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'),missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
+          expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'), missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
 
           expect(page).to have_css('a', text: 'District of Columbia')
           click_link('District of Columbia')
-          expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'),missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
-
+          expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'), missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
 
           # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
           # TODO: check count when IP set in request.
