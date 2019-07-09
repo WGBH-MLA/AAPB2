@@ -194,7 +194,6 @@ describe 'Catalog' do
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
 
             describe "visiting #{url}" do
-
               # xit-ing as this appears to be standard Blacklight functionality
               xit "has #{value_count} results" do
                 visit url
