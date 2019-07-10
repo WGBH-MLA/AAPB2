@@ -33,7 +33,7 @@ describe 'Catalog' do
   # Calls an expectation for a <audio> element
   def expect_audio(opts = {})
     poster = opts[:poster]
-    expect(page).not_to have_text('Online Reading Room Rules of Use'), missing_page_text_custom_error('Online Reading Room Rules of Use', page.current_path)
+    expect(page).not_to have_text('Online Reading Room Rules of Use'), found_page_text_custom_error('Online Reading Room Rules of Use', page.current_path)
     expect(page).to have_selector('audio')
     expect(page).to have_css("audio[poster='#{poster}']") if poster
   end
@@ -503,7 +503,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_512-w66930pv96'
         expect(page).to have_css('div#playlist')
         expect(page).to have_text('Part 2'), missing_page_text_custom_error('Part 2', page.current_path)
-        expect(page).not_to have_text('Part 4'), missing_page_text_custom_error('Part 4', page.current_path)
+        expect(page).not_to have_text('Part 4'), found_page_text_custom_error('Part 4', page.current_path)
       end
 
       it 'should not have #playlist when not in playlist' do
