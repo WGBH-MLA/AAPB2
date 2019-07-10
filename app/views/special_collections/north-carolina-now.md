@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![North Carolina Now](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0003_Abolitionists.jpg "North Carolina Now") will change image once we get one
+![North Carolina Now](https://s3.amazonaws.com/americanarchive.org/special-collections/NCNow.png "North Carolina Now")
 
 ## Summary
 
