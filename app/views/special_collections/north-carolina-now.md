@@ -16,7 +16,7 @@ UNC-TV first aired in 1955 out of Chapel Hill, and now broadcasts from twelve st
 
 [![Crosby Golf Tournament](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_129-57np5t8h.jpg)](/catalog/cpb-aacip_129-57np5t8h)
 [![NC Museum of Art](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_129-439zwcjg.jpg)](/catalog/cpb-aacip_129-439zwcjg)
-[![Crisis Counselors](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_129-1937q1v1.jpg)](/catalog/cpb-aacip_129-59q2c4xh)
+[![Crisis Counselors](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_129-59q2c4xh.jpg)](/catalog/cpb-aacip_129-59q2c4xh)
 [![North Carolina Zoo](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_129-32r4xp49.jpg)](/catalog/cpb-aacip_129-32r4xp49)
 [![Randleman Dam](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_129-61rfjh2s.jpg)](/catalog/cpb-aacip_129-61rfjh2s)
 [![Gun Violence Education](https://s3.amazonaws.com/americanarchive.org/special-collections/LisaPrice.jpg)](/catalog/cpb-aacip_129-82k6dwt0)
