@@ -26,7 +26,7 @@ UNC-TV first aired in 1955 out of Chapel Hill, and now broadcasts from twelve st
 - [<em>North Carolina Now</em> Website](https://www.pbs.org/show/nc-now/) 
 - [University of North Carolina TV](https://www.unctv.org/)
 - [North Carolina State Archives](https://archives.ncdcr.gov/)
-- [Structuring the News: The Magazine Format in Public Media, digital exhibit](http://americanarchive.org/exhibits/newsmagazines)
+- [<em>Structuring the News: The Magazine Format in Public Media</em>, AAPB digital exhibit](http://americanarchive.org/exhibits/newsmagazines)
 - [State Library of North Carolina](https://statelibrary.ncdcr.gov/)
 
 ## Funders
