@@ -135,95 +135,113 @@ describe User do
     end
   end
 
-  describe 'abilities' do
-    examples = {
-      public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),
-      protected: PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')),
-      private:   PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')),
-      all:       PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml'))
-    }
+  # commenting out as these tests should now be in spec/models/abilities
+  # describe 'abilities' do
+  #   examples = {
+  #     public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),
+  #     protected: PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')),
+  #     private:   PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')),
+  #     all:       PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml'))
+  #   }
 
-    onsite_access = {
-      public:     { play: true,  skip_tos: true },
-      protected:  { play: true,  skip_tos: true },
-      private:    { play: false, skip_tos: true },
-      all:        { play: false, skip_tos: true }
-    }
-    no_access = {
-      public:     { play: false, skip_tos: true },
-      protected:  { play: false, skip_tos: true },
-      private:    { play: false, skip_tos: true },
-      all:        { play: false, skip_tos: true }
-    }
+  #   onsite_access = {
 
-    {
-      # on-site possibilities:
+  #     #this is the access_level
+  #     public:     {
 
-      OpenStruct.new(onsite?: true, affirmed_tos?: false, usa?: true, bot?: false) =>
-        onsite_access,
-      OpenStruct.new(onsite?: true, affirmed_tos?: false, usa?: false, bot?: false) =>
-        # usa?: false
-        # if LoC or GBH IPs get geocoded outside USA, it should make no difference.
-        onsite_access,
-      OpenStruct.new(onsite?: true, affirmed_tos?: true, usa?: false, bot?: false) =>
-        # affirmed_tos?: true
-        # affirming toc (perhaps through a different network) should not break it.
-        onsite_access,
-      OpenStruct.new(onsite?: true, affirmed_tos?: true, usa?: false, bot?: false) =>
-        # usa?: false / affirmed_tos?: true
-        # two weird cases together.
-        onsite_access,
+  #       # these are the privs
+  #       # this is the priv
+  #       play:
+  #       #this is the value
+  #       true,
 
-      # off-site:
+  #       skip_tos: true
+  #     },
 
-      OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: false) =>
-        {
-          public:     { play: false, skip_tos: false },
-          protected:  { play: false, skip_tos: true },
-          private:    { play: false, skip_tos: true },
-          all:        { play: false, skip_tos: true }
-        },
-      OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: true, bot?: false) =>
-        {
-          public:     { play: true,  skip_tos: true },
-          protected:  { play: false, skip_tos: true },
-          private:    { play: false, skip_tos: true },
-          all:        { play: false, skip_tos: true }
-        },
+  #     protected:  { play: true,  skip_tos: true },
+  #     private:    { play: false, skip_tos: true },
+  #     all:        { play: false, skip_tos: true }
+  #   }
+  #   no_access = {
+  #     public:     { play: false, skip_tos: true },
+  #     protected:  { play: false, skip_tos: true },
+  #     private:    { play: false, skip_tos: true },
+  #     all:        { play: false, skip_tos: true }
+  #   }
 
-      # international:
+  #   {
+  #     # on-site possibilities:
 
-      OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: false, bot?: false) =>
-        no_access,
-      OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: false, bot?: false) =>
-        # Maybe you got the TOS domestically, but we still deny access.
-        no_access,
+  #     # this is the user
+  #     OpenStruct.new(onsite?: true, affirmed_tos?: false, usa?: true, bot?: false) =>
+  #     # this is the doc_type
+  #       onsite_access,
 
-      # bot:
+  #     OpenStruct.new(onsite?: true, affirmed_tos?: false, usa?: false, bot?: false) =>
+  #       # usa?: false
+  #       # if LoC or GBH IPs get geocoded outside USA, it should make no difference.
+  #       onsite_access,
+  #     OpenStruct.new(onsite?: true, affirmed_tos?: true, usa?: false, bot?: false) =>
+  #       # affirmed_tos?: true
+  #       # affirming toc (perhaps through a different network) should not break it.
+  #       onsite_access,
+  #     OpenStruct.new(onsite?: true, affirmed_tos?: true, usa?: false, bot?: false) =>
+  #       # usa?: false / affirmed_tos?: true
+  #       # two weird cases together.
+  #       onsite_access,
 
-      OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: true) =>
-        no_access,
-      OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: false, bot?: true) =>
-        # international bot the same
-        no_access
+  #     # off-site:
 
-    }.each do |user, doc_types|
-      context "User #{user.onsite? ? 'on-site' : 'off-site'} and " \
-              "TOS #{user.affirmed_tos? ? 'affirmed' : 'not affirmed'} and " \
-              "#{user.usa? ? 'domestic' : 'international'} " \
-              "#{user.bot? ? 'bot' : 'human'}" do
-        ability = Ability.new(user)
-        doc_types.each do |access_level, privs|
-          describe access_level do
-            example = examples[access_level]
-            privs.each do |priv, t_f|
-              it "can #{t_f ? '' : 'not '}#{priv}" do
-                expect(t_f).to eq ability.can?(priv, example)
-              end
-            end
-          end
-        end
-      end
-    end
-  end
+  #     OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: false) =>
+  #       {
+  #         public:     { play: false, skip_tos: false },
+  #         protected:  { play: false, skip_tos: true },
+  #         private:    { play: false, skip_tos: true },
+  #         all:        { play: false, skip_tos: true }
+  #       },
+  #     OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: true, bot?: false) =>
+  #       {
+  #         public:     { play: true,  skip_tos: true },
+  #         protected:  { play: false, skip_tos: true },
+  #         private:    { play: false, skip_tos: true },
+  #         all:        { play: false, skip_tos: true }
+  #       },
+
+  #     # international:
+
+  #     OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: false, bot?: false) =>
+  #       no_access,
+  #     OpenStruct.new(onsite?: false, affirmed_tos?: true, usa?: false, bot?: false) =>
+  #       # Maybe you got the TOS domestically, but we still deny access.
+  #       no_access,
+
+  #     # bot:
+
+  #     OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: true, bot?: true) =>
+  #       no_access,
+  #     OpenStruct.new(onsite?: false, affirmed_tos?: false, usa?: false, bot?: true) =>
+  #       # international bot the same
+  #       no_access
+
+  #   }.each do |user, doc_types|
+  #     context "User #{user.onsite? ? 'on-site' : 'off-site'} and " \
+  #             "TOS #{user.affirmed_tos? ? 'affirmed' : 'not affirmed'} and " \
+  #             "#{user.usa? ? 'domestic' : 'international'} " \
+  #             "#{user.bot? ? 'bot' : 'human'}" do
+
+  #       ability = Ability.new(user)
+
+  #       doc_types.each do |access_level, privs|
+  #         describe access_level do
+  #           example = examples[access_level]
+  #           privs.each do |priv, t_f|
+  #             it "can #{t_f ? '' : 'not '}#{priv}" do
+  #               expect(t_f).to eq ability.can?(priv, example)
+  #             end
+  #           end
+  #         end
+  #       end
+  #     end
+  #   end
+  # end
 end

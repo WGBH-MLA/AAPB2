@@ -10,6 +10,8 @@ class Ability
     end
 
     cannot :skip_tos, PBCore do |pbcore|
+      # We handle international requests elsewhere and if pbcore is private
+      # we do not need to show TOS because they won't get the media
       !user.onsite? && # Comment out for developing TOS features.
         !user.affirmed_tos? && user.usa? && !user.bot? && pbcore.public?
     end
