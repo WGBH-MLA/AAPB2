@@ -12,11 +12,11 @@ describe Ability do
     context 'when User is offsite' do
       let(:user) { instance_double(User, 'onsite?' => false) }
 
-      it 'skip_tos returns true for a public record' do
+      it 'access_transcript returns true for a public record' do
         expect(ability).to be_able_to(:access_transcript, public_pbcore_record)
       end
 
-      it 'skip_tos returns false for a protected record' do
+      it 'access_transcript returns false for a protected record' do
         expect(ability).to_not be_able_to(:access_transcript, protected_pbcore_record)
       end
     end
@@ -24,11 +24,11 @@ describe Ability do
     context 'when User is onsite' do
       let(:user) { instance_double(User, 'onsite?' => true) }
 
-      it 'skip_tos returns true for a public record' do
+      it 'access_transcript returns true for a public record' do
         expect(ability).to be_able_to(:access_transcript, public_pbcore_record)
       end
 
-      it 'skip_tos returns false for a protected record' do
+      it 'access_transcript returns false for a protected record' do
         expect(ability).to be_able_to(:access_transcript, protected_pbcore_record)
       end
     end
