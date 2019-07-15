@@ -58,10 +58,11 @@ describe 'Media URLs', not_on_travis: true do
     end
   end
 
-  context 'when referer is http://popuparchive.com' do
-    it 'returns the media object from Sony Ci' do
-      response_body = response_body_for_http_get(media_url, referer: 'http://popuparchive.com/')
-      expect(response_body).to eq(file_content)
-    end
-  end
+  # commenting this out since PopUp Archive is no longer in service
+  # context 'when referer is http://popuparchive.com' do
+  #   it 'returns the media object from Sony Ci' do
+  #     response_body = response_body_for_http_get(media_url, referer: 'http://popuparchive.com/')
+  #     expect(response_body).to eq(file_content)
+  #   end
+  # end
 end
