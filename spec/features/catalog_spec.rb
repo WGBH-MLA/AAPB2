@@ -73,7 +73,7 @@ describe 'Catalog' do
     end
 
     it 'can find one item' do
-      visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=1234"
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=1234"
       expect(page.status_code).to eq(200)
       expect_count(1)
       [
@@ -89,7 +89,7 @@ describe 'Catalog' do
     end
 
     it 'offers to broaden search' do
-      visit '/catalog?q=xkcd&f[access_types][]=' + PBCore::PUBLIC_ACCESS
+      visit '/catalog?q=xkcd&f[access_types][]=' + PBCorePresenter::PUBLIC_ACCESS
       expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
       click_link 'searching all records'
       expect(page).to have_text('Consider using other search terms or removing filters.'), missing_page_text_custom_error('Consider using other search terms or removing filters.', page.current_path)
@@ -102,7 +102,7 @@ describe 'Catalog' do
           ['f[program_titles][]=Gratuitous+Explosions', 1]
         ]
         assertions.each do |(param, count)|
-          url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&#{param}"
+          url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&#{param}"
           it "view #{url}" do
             visit url
             expect(page.status_code).to eq(200)
@@ -124,7 +124,7 @@ describe 'Catalog' do
 
         # xit-ing as this appears to be standard Blacklight functionality
         xit 'has them all' do
-          visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
+          visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}"
           expect(
             page.all('.panel-heading[data-target]').map do |node|
               node['data-target'].gsub('#facet-', '')
@@ -132,7 +132,7 @@ describe 'Catalog' do
           ).to eq(assertions.map(&:first)) # coverage
         end
         assertions.each do |facet, facet_count, value, value_count|
-          url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
+          url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
 
           # xit-ing as this appears to be standard Blacklight functionality
           xit "#{facet}=#{value}: #{value_count}\t#{url}" do
@@ -155,7 +155,7 @@ describe 'Catalog' do
             ['states', 'Michigan', 3]
           ]
           assertions.each do |facet, value, value_count|
-            url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
+            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
             it "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
               expect_count(value_count)
@@ -166,7 +166,7 @@ describe 'Catalog' do
 
         describe 'access facet' do
           assertions = [
-            ['access_types', PBCore::ALL_ACCESS, 43]
+            ['access_types', PBCorePresenter::ALL_ACCESS, 43]
           ]
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[#{facet}][]=#{value}"
@@ -191,7 +191,7 @@ describe 'Catalog' do
             ['media_type', 'Moving+Image', 25]
           ]
           assertions.each do |facet, value, value_count|
-            url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
+            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
 
             describe "visiting #{url}" do
               # xit-ing as this appears to be standard Blacklight functionality
@@ -259,14 +259,14 @@ describe 'Catalog' do
       describe 'exhibit facet' do
         describe 'in gallery' do
           it 'has exhibit breadcrumb' do
-            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCore::ALL_ACCESS
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
             expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
           end
         end
 
         describe 'in list' do
           it 'has exhibit breadcrumb' do
-            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
+            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
             expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
           end
         end
@@ -274,7 +274,7 @@ describe 'Catalog' do
 
       describe 'special collection facet search' do
         it 'has collection specific search panel' do
-          visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCore::ALL_ACCESS
+          visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
           expect(page).to have_text('Need Help Searching?'), missing_page_text_custom_error('Need Help Searching?', page.current_path)
         end
       end
@@ -288,7 +288,7 @@ describe 'Catalog' do
             ['John', ['World Cafe; Larry Kane On John Lennon 2005', 'Dr. Norman Borlaug; B-Roll', 'The Civil War; Interview with Daisy Turner', '1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3', 'The Civil War; Interviews with Barbara Fields', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3', 'Racing the Rez', 'Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3', 'Musical Performance of Appalachian Folk Music in Kentucky']]
           ]
           assertions.each do |query, titles|
-            url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=#{query}"
+            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=#{query}"
 
             # xit-ing out as this appears to be standard Blacklight functionality
             xit "sort=score+desc: #{titles}\t#{url}" do
@@ -307,7 +307,7 @@ describe 'Catalog' do
             ['title+asc', 'Ask Governor Chris Gregoire']
           ]
           assertions.each do |sort, title|
-            url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&sort=#{sort}"
+            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&sort=#{sort}"
 
             # xit-ing out as this appears to be standard Blacklight functionality
             xit "sort=#{sort}: '#{title}'\t#{url}" do
@@ -327,7 +327,7 @@ describe 'Catalog' do
         end
 
         describe 'sorting, title edge cases' do
-          url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&sort=title+asc&per_page=50"
+          url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&sort=title+asc&per_page=50"
 
           # xit-ing out as this appears to be standard Blacklight functionality
           xit 'works' do
@@ -418,7 +418,7 @@ describe 'Catalog' do
     end
 
     def expect_all_the_text(fixture_name)
-      target = PBCore.new(File.read('spec/fixtures/pbcore/' + fixture_name))
+      target = PBCorePresenter.new(File.read('spec/fixtures/pbcore/' + fixture_name))
       # This text from the PBCore model is included in to_solr for
       # search purposes, but excluded from view.
       text_ignores = [target.ids].flatten
@@ -536,7 +536,7 @@ describe 'Catalog' do
       ignores = Set.new(File.readlines(IGNORE_FILE).map(&:strip))
       next if ignores.include?(file_name)
 
-      pbcore = PBCore.new(File.read(file_name))
+      pbcore = PBCorePresenter.new(File.read(file_name))
       id = pbcore.id
       describe id do
         details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
@@ -544,7 +544,7 @@ describe 'Catalog' do
           visit details_url
           expect_fuzzy_xml
         end
-        search_url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
+        search_url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
         # because of tokenization, unless we strip the ID down we will get other matches.
 
         # xit-ing out as this appears to be standard Blacklight functionality

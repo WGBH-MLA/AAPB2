@@ -6,8 +6,8 @@ describe Ability do
   subject(:ability) { Ability.new(user) }
 
   context 'for PBCore records with transcripts' do
-    let(:pbcore_orr_transcript) { PBCore.new(File.read('./spec/fixtures/pbcore/clean-text-transcript.xml')) }
-    let(:pbcore_indexing_transcript) { PBCore.new(File.read('./spec/fixtures/pbcore/clean-transcript.xml')) }
+    let(:pbcore_orr_transcript) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/clean-text-transcript.xml')) }
+    let(:pbcore_indexing_transcript) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/clean-transcript.xml')) }
 
     context 'when User is offsite' do
       let(:user) { instance_double(User, 'onsite?' => false) }

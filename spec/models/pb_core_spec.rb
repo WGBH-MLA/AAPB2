@@ -101,7 +101,7 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'empty' do
-      empty_pbc = PBCore.new('<pbcoreDescriptionDocument/>')
+      empty_pbc = PBCorePresenter.new('<pbcoreDescriptionDocument/>')
 
       it '"other" if no media_type' do
         expect(empty_pbc.media_type).to eq('other')
@@ -143,12 +143,12 @@ describe 'Validated and plain PBCore' do
           'playlist_order' => 0,
           'producing_organizations' => ['WGBH'],
           'states' => ['Massachusetts'],
-          'access_types' => [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
+          'access_types' => [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
           'asset_date' => '2000-01-01T00:00:00Z',
 
           # TODO: UI will transform internal representation.
         },
-        access_types: [PBCore::ALL_ACCESS, PBCore::PUBLIC_ACCESS, PBCore::DIGITIZED_ACCESS],
+        access_types: [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
         access_level: 'Online Reading Room',
         asset_type: 'Album',
         asset_date: '2000-01-01',
@@ -221,7 +221,7 @@ describe 'Validated and plain PBCore' do
         ]
       }
 
-      pbc = PBCore.new(pbc_xml)
+      pbc = PBCorePresenter.new(pbc_xml)
       assertions.each do |method, value|
         it "\##{method} method works" do
           expect(pbc.send(method)).to eq(value)
@@ -229,13 +229,13 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'tests everthing' do
-        expect(assertions.keys.sort).to eq(PBCore.instance_methods(false).sort)
+        expect(assertions.keys.sort).to eq(PBCorePresenter.instance_methods(false).sort)
       end
     end
 
     describe 'PB Core document with transcript' do
       it 'has expected transcript attributes' do
-        pbc = PBCore.new(pbc_json_transcript)
+        pbc = PBCorePresenter.new(pbc_json_transcript)
         expected_attrs = {
           'id' => 'cpb-aacip_111-21ghx7d6',
           'player_aspect_ratio' => '4:3',
@@ -253,26 +253,26 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'returns the expected transcript_content for text transcript' do
-        pbc = PBCore.new(pbc_text_transcript)
+        pbc = PBCorePresenter.new(pbc_text_transcript)
         expect(pbc.transcript_content).to include(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-507-0000000j8w-transcript.txt')))
       end
 
       it 'returns the expected transcript_content for json transcript' do
-        pbc = PBCore.new(pbc_json_transcript)
+        pbc = PBCorePresenter.new(pbc_json_transcript)
         expect(JSON.parse(pbc.transcript_content)).to include(JSON.parse(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-111-21ghx7d6-transcript.json'))))
       end
     end
 
     describe 'PB Core document with supplemental materials' do
       it 'returns an array of supplemental materials' do
-        pbc = PBCore.new(pbc_supplemental_materials)
+        pbc = PBCorePresenter.new(pbc_supplemental_materials)
         expect(pbc.supplemental_content).to eq([['https://s3.amazonaws.com/americanarchive.org/supplemental-materials/cpb-aacip-509-6h4cn6zm21.pdf', 'Production Transcript']])
       end
     end
 
     describe 'PB Core document with 16:9 video' do
       it 'has expected 16:9 attributes' do
-        pbc = PBCore.new(pbc_16_9)
+        pbc = PBCorePresenter.new(pbc_16_9)
         expected_attrs = {
           'id' => 'cpb-aacip_508-g44hm5390k',
           'player_aspect_ratio' => '16:9',
@@ -291,7 +291,7 @@ describe 'Validated and plain PBCore' do
 
     describe 'PB Core records in playlists' do
       it 'first record has expected attributes' do
-        pbc = PBCore.new(playlist_1)
+        pbc = PBCorePresenter.new(playlist_1)
         expected_attrs = {
           'id' => 'cpb-aacip_512-gx44q7rk20',
           'playlist_group' => 'nixonimpeachmentday2',
@@ -312,7 +312,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'middle record has expected attributes' do
-        pbc = PBCore.new(playlist_2)
+        pbc = PBCorePresenter.new(playlist_2)
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 2,
@@ -331,7 +331,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'last record has expected attributes' do
-        pbc = PBCore.new(playlist_3)
+        pbc = PBCorePresenter.new(playlist_3)
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 3,
@@ -352,7 +352,7 @@ describe 'Validated and plain PBCore' do
 
     describe 'pbcore object with multiple contributing organizations and states' do
       it 'returns multiple organizations and states' do
-        pbc = PBCore.new(pbc_multi_org)
+        pbc = PBCorePresenter.new(pbc_multi_org)
 
         expected_attrs = {
           'contributing_organization_names' => ['KQED', 'Library of Congress'],
@@ -374,15 +374,15 @@ describe 'Validated and plain PBCore' do
 
     describe '.build_display_title' do
       it 'uses only episode titles if there are more than one series title' do
-        expect(PBCore.new(pbc_multiple_series_with_episodes).title).to eq('Writers Writing; Readers Reading')
+        expect(PBCorePresenter.new(pbc_multiple_series_with_episodes).title).to eq('Writers Writing; Readers Reading')
       end
 
       it 'uses only the series and episode titles if there are multiple episode numbers and only one series title' do
-        expect(PBCore.new(pbc_multiple_episodes_one_series).title).to eq('Writers Forum II; Writers Writing Again; Readers Reading Again')
+        expect(PBCorePresenter.new(pbc_multiple_episodes_one_series).title).to eq('Writers Forum II; Writers Writing Again; Readers Reading Again')
       end
 
       it 'uses Alternative title if no other titles are present' do
-        expect(PBCore.new(pbc_alternative_title).title).to eq('This Title is Alternative')
+        expect(PBCorePresenter.new(pbc_alternative_title).title).to eq('This Title is Alternative')
       end
     end
   end

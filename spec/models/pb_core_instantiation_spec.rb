@@ -3,7 +3,7 @@ require_relative '../../app/models/pb_core'
 
 describe PBCoreInstantiation do
   let(:pbc_xml) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
-  let(:pbc_instantiations) { PBCore.new(pbc_xml).instantiations }
+  let(:pbc_instantiations) { PBCorePresenter.new(pbc_xml).instantiations }
   let(:pbc_instantiation_1) { pbc_instantiations[0] }
   let(:pbc_instantiation_2) { pbc_instantiations[1] }
   let(:pbc_instantiation_3) { pbc_instantiations[2] }
