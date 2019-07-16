@@ -1,5 +1,5 @@
 require 'nokogiri'
-require_relative 'pb_core'
+require_relative 'pb_core_presenter'
 
 class ValidatedPBCore < PBCorePresenter
   include ApplicationHelper
