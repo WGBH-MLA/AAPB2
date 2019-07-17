@@ -21,7 +21,7 @@ The Watergate hearings were produced by PBS’ National Public Affairs Center fo
 [![John Dean](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-125q815b4c.jpg)](/catalog/cpb-aacip_512-125q815b4c)
 [![H.R. Haldeman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-w950g3j14f.jpg)](/catalog/cpb-aacip_512-w950g3j14f)
 [![L. Patrick Gray](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-g73707xh7h.jpg)](/catalog/cpb-aacip_512-g73707xh7h)
-[![Robert Odle](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-6688g8g717.jpg)](/catalog/cpb-aacip_512-6688g8g717)
+[![Rep. Barbara Jordan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-w37kp7vq3t.jpg)](/catalog/cpb-aacip_512-w37kp7vq3t)
 
 ## Resources
 
