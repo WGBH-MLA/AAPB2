@@ -1,5 +1,5 @@
 require_relative '../../app/models/pb_core_instantiation'
-require_relative '../../app/models/pb_core'
+require_relative '../../app/models/pb_core_presenter'
 
 describe PBCoreInstantiation do
   let(:pbc_xml) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
