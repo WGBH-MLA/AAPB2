@@ -22,6 +22,8 @@ class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods
+  include ApplicationHelper
+
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
