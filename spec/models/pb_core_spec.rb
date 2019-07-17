@@ -89,7 +89,7 @@ describe 'Validated and plain PBCore' do
     end
   end
 
-  describe PBCore do
+  describe PBCorePresenter do
     it 'SRT on S3 matches fixture' do
       # Rather than mocking more of it up, the ingest test really pulls an SRT from S3.
       # ... but we still want to make sure that that SRT before it is cleaned has the data we expect.
