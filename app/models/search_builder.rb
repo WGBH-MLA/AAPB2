@@ -48,7 +48,9 @@ class SearchBuilder < Blacklight::SearchBuilder
   def date_range
     @date_range ||= if filter_exact_date?
       if after_date
-        "[#{after_date} TO #{after_date}]"
+        # will deliver the following premium result: a date range that stretches based on the ambiguity of the inputs
+        # eg 2000 becomes 01-01-2000 TO 12-31-2000
+        "[#{ handle_date_string(blacklight_params['after_date'], 'after') } TO #{ handle_date_string(blacklight_params['after_date'], 'before') }]"
       end
     else
       if before_date || after_date
