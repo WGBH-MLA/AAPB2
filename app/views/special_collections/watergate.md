@@ -7,20 +7,19 @@
 
 ## Summary
 
-The Watergate Hearings Collection covers 51 days of broadcasts of the Watergate Hearings from May 17, 1973 to November 15, 1973. The hearings, which aired at 8PM ET, were recorded by the National Public Affairs Center for Television (NPACT) and broadcast in full, or “gavel to gavel”, by PBS, so that viewers unable to watch during the day were able to watch the complete proceedings in the evening. Anchors Robert MacNeil and Jim Lehrer provided summaries, commentary, and interviews to supplement each broadcast. The coverage includes testimony from James McCord, one of the men arrested for breaking into the Watergate complex; John Dean, White House counsel from July 1970 to April 1973; Carl M. Shoffler, a policeman who arrested the burglars in the Watergate complex; H.R. Haldeman, President Nixon’s Chief of Staff; and L. Patrick Gray, Acting Director of the FBI from May 1972 to April 1973. A full cast of characters is available in our [“Gavel-to-Gavel” exhibit](http://americanarchive.org/exhibits/watergate/cast-of-characters).
-
+The Watergate Hearings Collection covers 51 days of broadcasts of the Senate Watergate Hearings from May 17, 1973, to November 15, 1973, and seven sessions of the House impeachment hearings on May 9 and July 24 – 30, 1974. The hearings, recorded by the National Public Affairs Center for Television (NPACT), were broadcast each evening in full, or “gavel to gavel,” by PBS stations across the nation, so that viewers unable to watch during the day could view the complete proceedings at home. Anchors Robert MacNeil and Jim Lehrer provided summaries, commentary, and interviews to supplement each broadcast. The coverage includes testimony from James McCord and E. Howard Hunt, two of the men arrested for breaking into the Watergate complex; John Dean, White House counsel from July 1970 to April 1973, who detailed the extent of the Nixon administration’s involvement in the burglary and subsequent cover-up; Chief of Staff H.R. Haldeman and Chief Advisor for Domestic Affairs John Ehrlichman, two of President Nixon’s closest advisors, who denied there was any White House wrongdoing; Alexander Butterfield, a former minor White House aide who revealed the existence of a secret audio tape-recording system that documented Oval Office conversations; and Rep. Barbara Jordan, a freshman member of the House Judiciary Committee, whose eloquent opening statement at the impeachment proceedings resonated throughout the hearing room and the nation. A full cast of characters is available in our [“Gavel-to-Gavel” exhibit](http://americanarchive.org/exhibits/watergate/cast-of-characters).
 
 ## Background
 
-The Watergate hearings were produced by PBS’ National Public Affairs Center for Television (NPACT). The materials were contributed to the American Archive of Public Broadcasting (AAPB) by the Library of Congress in 2017. 
+The Watergate hearings were produced by the National Public Affairs Center for Television (NPACT), public television’s Washington hub for national news and public affairs programming. The materials were contributed to the American Archive of Public Broadcasting (AAPB) by the Library of Congress in 2017. 
 
 ## Featured
 
-[![Carl M. Shoffler](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-d795718g4z.jpg)](/catalog/cpb-aacip_512-d795718g4z#at_709.25_s)
+[![John Ehrlichman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-t43hx16p65.jpg)](/catalog/cpb-aacip_512-t43hx16p65#at_650.44_s)
 [![James McCord](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-s756d5q992.jpg)](/catalog/cpb-aacip_512-s756d5q992)
 [![John Dean](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-125q815b4c.jpg)](/catalog/cpb-aacip_512-125q815b4c)
 [![H.R. Haldeman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-w950g3j14f.jpg)](/catalog/cpb-aacip_512-w950g3j14f)
-[![L. Patrick Gray](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-g73707xh7h.jpg)](/catalog/cpb-aacip_512-g73707xh7h)
+[![Alexander Butterfield](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-jm23b5x51c.jpg)](/catalog/cpb-aacip_512-jm23b5x51c#at_3060.54_s)
 [![Rep. Barbara Jordan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-w37kp7vq3t.jpg)](/catalog/cpb-aacip_512-w37kp7vq3t#at_310.00_s)
 
 ## Resources
