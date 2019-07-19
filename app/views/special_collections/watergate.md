@@ -16,12 +16,12 @@ The Watergate hearings were produced by PBS’ National Public Affairs Center fo
 
 ## Featured
 
-[![Carl M. Shoffler](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-d795718g4z.jpg)](/catalog/cpb-aacip_512-d795718g4z)
+[![Carl M. Shoffler](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-d795718g4z.jpg)](/catalog/cpb-aacip_512-d795718g4z#at_709.25_s)
 [![James McCord](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-s756d5q992.jpg)](/catalog/cpb-aacip_512-s756d5q992)
 [![John Dean](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-125q815b4c.jpg)](/catalog/cpb-aacip_512-125q815b4c)
 [![H.R. Haldeman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-w950g3j14f.jpg)](/catalog/cpb-aacip_512-w950g3j14f)
 [![L. Patrick Gray](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-g73707xh7h.jpg)](/catalog/cpb-aacip_512-g73707xh7h)
-[![Rep. Barbara Jordan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-w37kp7vq3t.jpg)](/catalog/cpb-aacip_512-w37kp7vq3t#at_194_s)
+[![Rep. Barbara Jordan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-w37kp7vq3t.jpg)](/catalog/cpb-aacip_512-w37kp7vq3t#at_310.00_s)
 
 ## Resources
 
