@@ -138,10 +138,10 @@ describe User do
   # commenting out as these tests should now be in spec/models/abilities
   # describe 'abilities' do
   #   examples = {
-  #     public:    PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),
-  #     protected: PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')),
-  #     private:   PBCore.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')),
-  #     all:       PBCore.new(File.read('./spec/fixtures/pbcore/access-level-all.xml'))
+  #     public:    PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')),
+  #     protected: PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')),
+  #     private:   PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-private.xml')),
+  #     all:       PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-all.xml'))
   #   }
 
   #   onsite_access = {

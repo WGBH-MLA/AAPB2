@@ -8,7 +8,7 @@ class ThumbnailsController < ApplicationController
     img_src = Rails.cache.fetch("thumb/#{id}") do
       _response, document = fetch(id)
       xml = document['xml']
-      PBCore.new(xml).img_src
+      PBCorePresenter.new(xml).img_src
     end
     redirect_to img_src
   end

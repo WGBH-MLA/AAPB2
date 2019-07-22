@@ -18,7 +18,7 @@ require_relative 'transcript_file'
 require_relative 'caption_file'
 require_relative '../helpers/application_helper'
 
-class PBCore
+class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods
@@ -387,7 +387,7 @@ class PBCore
                             '//pbcoreDescription[last()]'
                           ].detect { |xp| xpaths(xp).count > 0 }
 
-    caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
+    caption_response = Net::HTTP.get_response(URI.parse(PBCorePresenter.srt_url(id)))
     if caption_response.code == '200'
       pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
@@ -395,7 +395,7 @@ class PBCore
 
       cap_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
         el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-        el.add_text(PBCore.srt_url(id))
+        el.add_text(PBCorePresenter.srt_url(id))
       end
 
       full_doc.insert_after(spot_for_annotations, cap_anno)
@@ -474,7 +474,7 @@ class PBCore
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
     ]
 
-    @text ||= (PBCore.instance_methods(false) - ignores)
+    @text ||= (PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
               .select { |x| x } # skip nils
