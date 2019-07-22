@@ -96,3 +96,7 @@ gem 'nokogiri', '~> 1.8.4'
 # For upgrade to ruby 2.4
 # Not sure why this is needed
 gem 'bigdecimal'
+
+
+gem 'factory_bot_rails', '~> 4.0'
+gem 'pbcore', git: 'https://github.com/WGBH-MLA/pbcore'

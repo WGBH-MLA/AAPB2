@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/WGBH-MLA/pbcore
+  revision: c62b23a186e5e81420608cf61d5220ceb638de17
+  specs:
+    pbcore (0.1.1)
+      nokogiri
+      sax-machine
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -119,6 +127,11 @@ GEM
     diff-lcs (1.3)
     erubis (2.7.0)
     execjs (2.7.0)
+    factory_bot (4.11.1)
+      activesupport (>= 3.0.0)
+    factory_bot_rails (4.11.1)
+      factory_bot (~> 4.11.1)
+      railties (>= 3.0.0)
     fastimage (2.1.5)
     ffi (1.9.25)
     globalid (0.4.1)
@@ -273,6 +286,7 @@ GEM
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (>= 1.1, < 3)
+    sax-machine (1.3.2)
     sdoc (0.4.2)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
@@ -335,6 +349,7 @@ DEPENDENCIES
   cmless (= 1.0.0)
   coffee-rails (~> 4.0.0)
   curb
+  factory_bot_rails (~> 4.0)
   fastimage
   htmlentities (~> 4.3.2)
   jbuilder (~> 2.0)
@@ -347,6 +362,7 @@ DEPENDENCIES
   maxminddb
   nokogiri (~> 1.8.4)
   passenger
+  pbcore!
   pry
   pry-nav
   rack-cors (~> 1.0.2)
@@ -372,4 +388,4 @@ RUBY VERSION
    ruby 2.4.4p296
 
 BUNDLED WITH
-   1.16.2
+   1.17.3
