@@ -1,7 +1,5 @@
 # FAQ
 
-![Television Cameraman](/page-banners/banner2.jpg)
-
 ## What is the American Archive of Public Broadcasting (AAPB)?
 
 The AAPB is an initiative to digitally preserve and make accessible

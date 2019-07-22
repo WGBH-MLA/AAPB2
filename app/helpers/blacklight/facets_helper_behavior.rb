@@ -146,7 +146,7 @@ module Blacklight::FacetsHelperBehavior
     link_to(radio_button_tag(facet_display_value(facet_field, item), facet_display_value(facet_field, item), true) + facet_display_value(facet_field, item), search_action_path(remove_facet_params(facet_field, item, params)), :class=>"facet_select") + render_facet_count(item.hits)
   end
 
-  # New method, to not use radio buttons for organization states
+  # New method, to not use radio buttons for organization states (joined together org values with " OR " in teh view)
   def render_super_facet_value(facet_field, item, options ={})
     path = search_action_path(add_facet_params_and_redirect(facet_field, item))
 

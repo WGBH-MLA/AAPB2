@@ -327,7 +327,7 @@ DEPENDENCIES
   bigdecimal
   blacklight (= 5.19.2)
   blacklight-gallery (= 0.4.1)
-  blacklight_range_limit
+  blacklight_range_limit (= 5.2.0)
   cancan
   capistrano-passenger
   capistrano-rails

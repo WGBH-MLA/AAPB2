@@ -22,7 +22,7 @@ class User
   end
 
   def usa?
-    ::GeoIPCountry.instance.country_code(request.remote_ip) == 'US' || onsite?
+    %w(US PR WS GU MP VI).include?(::GeoIPCountry.instance.country_code(request.remote_ip)) || onsite?
     # WGBH doesn't actually geocode to USA. No idea why.
   end
 

@@ -1,7 +1,3 @@
-# rubocop:disable Style/HashSyntax
-# Hash rockets are important in deployments, for a reason we don't understand,
-# but rubocop's default is to clear them.
-
 source 'https://rubygems.org'
 
 # Specify specific version of ruby with which the app is compatible.
@@ -64,7 +60,7 @@ gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper'
 
-gem 'blacklight_range_limit'
+gem 'blacklight_range_limit', '5.2.0'
 
 gem 'actionpack-page_caching'
 gem 'srt'

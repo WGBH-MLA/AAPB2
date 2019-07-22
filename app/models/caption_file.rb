@@ -11,15 +11,26 @@ class CaptionFile
   end
 
   def srt
-    @srt ||= open(srt_url).read
+    @srt ||= begin
+      open(srt_url).read
+    rescue OpenURI::HTTPError
+      nil
+    end
   end
 
   def vtt
-    @vtt ||= open(vtt_url).read || CaptionConverter.srt_to_vtt(srt)
+    @vtt ||= begin
+      open(vtt_url).read
+    rescue OpenURI::HTTPError
+      # no vtt found, use srt
+      CaptionConverter.srt_to_vtt(srt)
+    end
   end
 
   def html
-    @html ||= CaptionConverter.srt_to_html(srt)
+    transcript_data = CaptionConverter.srt_to_transcript(srt)
+    return nil unless transcript_data
+    transcript_data.to_html
   end
 
   def text

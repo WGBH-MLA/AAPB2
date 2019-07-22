@@ -16,6 +16,7 @@ require_relative '../../lib/formatter'
 require_relative '../../lib/caption_converter'
 require_relative 'transcript_file'
 require_relative 'caption_file'
+require_relative '../helpers/application_helper'
 
 class PBCore
   # rubocop:disable Style/EmptyLineBetweenDefs
@@ -100,8 +101,8 @@ class PBCore
   def exhibits
     @exhibits ||= Exhibit.find_all_by_item_id(id)
   end
-  def special_collection
-    @special_collection ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="special_collections"]')
+  def special_collections
+    @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
   def id
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
@@ -279,9 +280,15 @@ class PBCore
   end
   def duration
     @duration ||= begin
-      xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
+      xpath('/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration')
     rescue
-      xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+
+      # old cases
+      begin
+        xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
+      rescue
+        xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+      end
     end
   end
   def player_aspect_ratio
@@ -367,42 +374,50 @@ class PBCore
     # We don't want to ping S3 multiple times, and we don't want to store all
     # of a captions/transcript file in solr (much less in the pbcore).
     # --> We only want to say that it exists, and we want to index the words.
-    doc_with_caption_flag = @doc.deep_clone
-    # perhaps paranoid, but I don't want this method to have side effects.
+
+    # REXML::Document
+    full_doc = @doc.deep_clone
+    spot_for_annotations = ['//pbcoreInstantiation[last()]',
+                            '//pbcoreRightsSummary[last()]',
+                            '//pbcorePublisher[last()]',
+                            '//pbcoreContributor[last()]',
+                            '//pbcoreCreator[last()]',
+                            '//pbcoreCoverage[last()]',
+                            '//pbcoreGenre[last()]',
+                            '//pbcoreDescription[last()]'
+                          ].detect { |xp| xpaths(xp).count > 0 }
 
     caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
     if caption_response.code == '200'
-      pre_existing = pre_existing_caption_annotation(doc_with_caption_flag)
+      pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-
       caption_body = parse_caption_body(CaptionConverter.srt_to_text(caption_response.body))
 
-      REXML::XPath.match(doc_with_caption_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
-        REXML::Element.new('pbcoreAnnotation').tap do |el|
-          el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-          el.add_text(PBCore.srt_url(id))
-        end
+      cap_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
+        el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
+        el.add_text(PBCore.srt_url(id))
+      end
+
+      full_doc.insert_after(spot_for_annotations, cap_anno)
     end
 
-    doc_with_transcript_flag = doc_with_caption_flag
     transcript = TranscriptFile.new(id)
-
     if transcript.file_present?
-      pre_existing = pre_existing_transcript_annotation(doc_with_transcript_flag)
+      pre_existing = pre_existing_transcript_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-
       transcript_body = Nokogiri::HTML(transcript.html).text.tr("\n", ' ')
 
-      REXML::XPath.match(doc_with_transcript_flag, '/*/pbcoreInstantiation').last.next_sibling.next_sibling =
-        REXML::Element.new('pbcoreAnnotation').tap do |el|
-          el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
-          el.add_text(transcript.url)
-        end
+      trans_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
+        el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
+        el.add_text(transcript.url)
+      end
+
+      full_doc.insert_after(spot_for_annotations, trans_anno)
     end
 
     {
       'id' => id,
-      'xml' => Formatter.instance.format(doc_with_transcript_flag),
+      'xml' => Formatter.instance.format(full_doc),
 
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
@@ -414,10 +429,11 @@ class PBCore
 
       # sort and facet:
       'year' => year,
+      'asset_date' => date_for_assetdate_field,
 
       # facets:
       'exhibits' => exhibits.map(&:path),
-      'special_collection' => special_collection,
+      'special_collections' => special_collections,
       'media_type' => media_type == OTHER ? nil : media_type,
       'genres' => genres,
       'topics' => topics,
@@ -449,7 +465,7 @@ class PBCore
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
       :instantiations, :outside_url,
-      :reference_urls, :exhibits, :special_collection, :access_level_description,
+      :reference_urls, :exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
@@ -492,6 +508,12 @@ class PBCore
 
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+  end
+
+  def date_for_assetdate_field
+    date_val = asset_date
+    return unless date_val
+    handle_date_string(date_val, 'index')
   end
 
   def pre_existing_caption_annotation(doc)

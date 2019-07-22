@@ -17,7 +17,7 @@
 <% if @available_and_playable %>
 
   <div class="row">
-    <% if @show_transcript %>
+    <% if @transcript_content %>
       <div class="col-sm-12 col-md-6 player">
     <% else %>
       <div class="col-sm-12 col-md-8 player col-md-offset-2">
@@ -59,13 +59,15 @@
           </div>
         </div>
       </div>
+
     <div class="hidden-sm hidden-xs">
       <%= render partial: 'transcript' %>
     </div>
+
   </div>
 
-
 <% else %>
+  <!-- no media thumbnail -->
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
   <div style="margin-top: 1em;" class="content-text">
     <% if @pbcore.outside_url %>
@@ -76,6 +78,12 @@
       ) %>
     <% end %>
   </div>
+
+  <% if @transcript_content %>
+    <div class="row">
+      <%= render partial: 'transcript' %>
+    </div>
+  <% end %>
 <% end %>
 
 <!-- special collections/exhibit banner -->
@@ -86,13 +94,17 @@
     <strong><%= exhibit_caption %></strong>
   </a>
 <% end %>
-<% if @pbcore.special_collection %>
-  <% coll = SpecialCollection.find_by_path(@pbcore.special_collection) %>
-  <% coll_caption = "This record is featured in “#{coll.title}.”" %>
-  <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
-    <span class="glyphicon glyphicon-star"></span>
-    <strong><%= coll_caption %></strong>
-  </a>
+<% if @pbcore.special_collections %>
+  <% @pbcore.special_collections.each do |collection| %>
+    <% if SpecialCollection.valid_collection?(collection) %>
+      <% coll = SpecialCollection.find_by_path(collection) %>
+      <% coll_caption = "This record is featured in “#{coll.title}.”" %>
+      <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
+        <span class="glyphicon glyphicon-star"></span>
+        <strong><%= coll_caption %></strong>
+      </a>
+    <% end %>
+  <% end %>
 <% end %>
 
 <% unless @available_and_playable %>

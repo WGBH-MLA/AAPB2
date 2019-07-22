@@ -81,8 +81,6 @@ describe DownloadCleanIngest do
     ],
     "#{default_flags} --just-reindex --query 'f[asset_type][]=Program&q=promise'" => [
       /Query solr for/,
-      /Updated solr record cpb-aacip_221-76f1vwh1/,
-      /Processed .*221-76f1vwh1.pbcore/,
       /Updated solr record cpb-aacip_37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
       /2 \(100.0%\) succeeded/

@@ -35,18 +35,14 @@ describe SpecialCollection do
       summary_html: '<p>Test Collection Description</p>',
       terms: [['Term 1', 'https://www.google.com/'], ['Term 2', 'https://www.google.com/']],
       background_html: '<p>Test Producer Description</p>',
-      # rubocop:disable LineLength
       featured_html: "<p><a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-2r3nv99t98.jpg\" alt=\"Test Featured Item\"></a>\n<a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg\" alt=\"Test Featured Item 2\"></a></p>",
       resources_html: "<ul>\n<li><a href=\"http://www.pbs.org/kenburns/civil-war/\"><em>The Civil War</em> on PBS.org</a></li>\n<li><a href=\"http://www.pbs.org/kenburns/civil-war/restoring-film/\">Restoring <em>The Civil War</em> film</a></li>\n</ul>",
       funders_html: "<ul>\n<li>\n<a href=\"https://www.neh.gov/\"><img src=\"https://s3.amazonaws.com/americanarchive.org/org-logos/neh_logo.jpg\" alt=\"NEH\"></a> The National Endowment for the Humanities funds stuff like this!</li>\n</ul>",
       terms_html: "<ul>\n<li><a href=\"https://www.google.com/\">Term 1</a></li>\n<li><a href=\"https://www.google.com/\">Term 2</a></li>\n</ul>",
-      # rubocop:disable StringLiterals
       thumbnail_html: "<p><img src=\"https://s3.amazonaws.com/americanarchive.org/special-collections/CivilWarKenBurns.jpg\" alt=\"Test Thumbnail\" title=\"Test Thumbnail\"></p>",
-      # rubocop:enable StringLiterals
       help_html: '<p>This is the search help text.</p>'
     }
 
-    # rubocop:enable LineLength
     assertions.each do |method, value|
       it "#{method} method works" do
         expect(collection.send(method)).to eq((begin

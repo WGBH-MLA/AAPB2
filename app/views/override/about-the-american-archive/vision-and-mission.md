@@ -1,7 +1,5 @@
 # Vision and Mission Statements
 
-![Control Room](/page-banners/banner1.jpg)
-
 ## Vision Statement
 
 The American Archive of Public Broadcasting seeks to preserve and make accessible
