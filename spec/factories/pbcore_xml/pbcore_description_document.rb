@@ -95,15 +95,15 @@ FactoryBot.define do
 
 
 
-    # ITS THE NEW
+    # ITS THE NEWWWW
     trait :access_level_protected do
-      identifiers do 
-        build(:pbcore_identifier, :sony_ci_video)
-        build(:pbcore_annotation, type: 'Level of User Access')
+      identifiers { [build(:pbcore_identifier, :sony_ci_video)] }
+      annotations { [build(:pbcore_annotation, :level_of_user_access, :on_location)] }
+    end 
 
-      end
-
-
+    trait :access_level_public do
+      identifiers { [build(:pbcore_identifier, :sony_ci_video)] }
+      annotations { [build(:pbcore_annotation, :level_of_user_access, :online_reading_room)] }
     end 
 
 

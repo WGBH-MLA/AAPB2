@@ -6,8 +6,14 @@ FactoryBot.define do
     skip_create
     value { Faker::Quote.famous_last_words }
 
-    trait :level_of_user_access_on_location do
-      annotationType { 'Level Of User Access' }
+    trait :level_of_user_access do
+      type { 'Level Of User Access' }
+    end
+    trait :on_location do
+      value { 'On Location' }
+    end
+
+    trait :online_reading_room do
       value { 'On Location' }
     end
 

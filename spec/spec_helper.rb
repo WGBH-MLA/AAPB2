@@ -1,5 +1,8 @@
 require_relative '../lib/rails_stub'
+require_relative 'support/date_time_helpers'
+require_relative 'support/pb_helpers'
 require 'webmock'
+require 'factory_bot'
 
 ENV['RACK_ENV'] = 'test'
 
@@ -29,6 +32,11 @@ RSpec.configure do |config|
     # `true` in RSpec 4.
     mocks.verify_partial_doubles = true
   end
+
+  # Add the DateTimeHelper methods to RSpec tests.
+  config.include DateTimeHelpers
+  config.include FactoryBot::Syntax::Methods
+  config.include PBHelpers
 
   config.before(:suite) do
     # Disable WebMock by default, and be sure to re-enable it before using it.

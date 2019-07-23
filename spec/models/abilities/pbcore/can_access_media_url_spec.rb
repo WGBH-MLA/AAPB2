@@ -1,5 +1,7 @@
 require 'rails_helper'
 require 'cancan/matchers'
+require 'pbcore'
+
 
 describe Ability do
   # The 'user' is set with let(:user) in the contexts below.
@@ -8,8 +10,8 @@ describe Ability do
   context 'for public PBCore records' do
     # NOTE: CanCan will only work if we use actual PBCore instance. It won't
     # work if you try to use a mock object, e.g. RSpec instance_double.
-    let(:public_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
-    let(:protected_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
+    let(:public_pbcore_record) { new_pb(build(:pbcore_description_document, :access_level_public)) }
+    let(:protected_pbcore_record) { new_pb(build(:pbcore_description_document, :access_level_protected)) }
 
     describe 'can? :access_media_url' do
       context 'when User is on-site; User is an AAPB referer; User is embedding the media' do

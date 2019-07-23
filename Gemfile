@@ -100,3 +100,4 @@ gem 'bigdecimal'
 
 gem 'factory_bot_rails', '~> 4.0'
 gem 'pbcore', git: 'https://github.com/WGBH-MLA/pbcore'
+gem 'faker'
