@@ -235,13 +235,13 @@ class Cleaner
       first_word = first_word.capitalize unless allcaps.include?(first_word) || allcaps.any? { |capword| /(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)/ =~ first_word }
 
       formatted_words = words.map do |word|
-        # does allcaps include exact capword, OR does capword appear in word surrounded by word boundary or hyphen OR has no consonants
-        if allcaps.include?(word) || allcaps.any? { |capword| /(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)/ =~ word } || /^[AEIOUY]+$/i =~ word
+        # does allcaps include exact capword, OR does capword appear in word surrounded by word boundary or hyphen OR has no vowels
+        if allcaps.include?(word) || allcaps.any? { |capword| /(\b|-|\\|\/\\)#{capword}(\b|-|\\|\/\\)/ =~ word } || /\b[^AEIOUY]+\b/i =~ word.gsub(/\W/, '')
           word
         elsif nocaps.include?(word)
           word.downcase
         # does the word contain an abbreviation with periods like U.S.? make all caps
-        elsif  /(?:[a-zA-Z]\.){2,}/i =~ word
+        elsif /(?:[a-zA-Z]\.){2,}/i =~ word
           word.upcase
         else
           word.capitalize
