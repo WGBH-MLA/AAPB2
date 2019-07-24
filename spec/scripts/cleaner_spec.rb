@@ -57,8 +57,9 @@ describe Cleaner do
       'No change if a mix of UPPER and lower' => 'No change if a mix of UPPER and lower',
       'GUESSES SOME: XKCD, CNN, RDF, WGBH, DC' => 'Guesses Some: XKCD, CNN, RDF, WGBH, DC',
       'HARD CODED: CEO, LA, MIT, WETA' => 'Hard Coded: CEO, LA, MIT, WETA',
-      'not all-knowing: ussr, cia, ianal' => 'Not all-knowing: Ussr, Cia, Ianal',
-      'AND NOTICE THE CAPITALIZATION OF "AND"' => 'And Notice the Capitalization of "and"'
+      'not all-knowing: ussr, cia, ianal' => 'Not All-knowing: Ussr, Cia, Ianal',
+      'AND NOTICE THE CAPITALIZATION OF "AND"' => 'And Notice the Capitalization of "and"',
+      "THE U.S. WOMEN'S ANTI-COMMUNISM LEAGUE" => "The U.S. Women's Anti-communism League"
     }.each do |dirty, clean|
       it "cleans '#{clean}'" do
         expect(Cleaner.clean_title(dirty)).to eq(clean)
