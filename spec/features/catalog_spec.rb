@@ -11,6 +11,7 @@ describe 'Catalog' do
   IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
   before(:all) do
+    # UHOH create factories and ingest here..
     PBCoreIngester.load_fixtures
   end
 
@@ -471,6 +472,7 @@ describe 'Catalog' do
       expect_transcript
     end
 
+    # UHOH this wont work anymore
     it 'has no transcript if expected' do
       visit '/catalog/ccpb-aacip_508-g44hm5390k'
       expect_no_transcript

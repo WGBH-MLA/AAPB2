@@ -2,7 +2,7 @@ require 'pathname'
 require 'ostruct'
 
 module Rails
-  unless Rails.respond_to?(:root)
+  unless Rails.respond_to?(:root) && Rails.root.present?
     def self.root
       Pathname.new(File.expand_path(File.dirname(File.dirname(__FILE__))))
     end

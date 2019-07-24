@@ -1,7 +1,4 @@
-require 'rails_helper'
 require 'cancan/matchers'
-require 'pbcore'
-
 
 describe Ability do
   # The 'user' is set with let(:user) in the contexts below.

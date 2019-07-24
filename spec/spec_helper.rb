@@ -1,8 +1,11 @@
-require_relative '../lib/rails_stub'
 require_relative 'support/date_time_helpers'
 require_relative 'support/pb_helpers'
 require 'webmock'
-require 'factory_bot'
+require 'factory_bot_rails'
+require_relative '../lib/rails_stub'
+require 'pbcore'
+require 'rails_helper'
+require 'faker'
 
 ENV['RACK_ENV'] = 'test'
 
@@ -35,7 +38,6 @@ RSpec.configure do |config|
 
   # Add the DateTimeHelper methods to RSpec tests.
   config.include DateTimeHelpers
-  config.include FactoryBot::Syntax::Methods
   config.include PBHelpers
 
   config.before(:suite) do

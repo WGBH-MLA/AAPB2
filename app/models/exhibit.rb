@@ -4,6 +4,7 @@ require 'cmless'
 
 class Exhibit < Cmless
   ROOT = (Rails.root + 'app/views/exhibits').to_s
+  
 
   attr_reader :summary_html
   attr_reader :extended_html

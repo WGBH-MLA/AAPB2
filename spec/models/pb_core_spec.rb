@@ -2,22 +2,29 @@ require 'json'
 require_relative '../../lib/aapb'
 require_relative '../../app/models/validated_pb_core'
 require_relative '../../app/models/caption_file'
+require 'rails_helper'
 
 describe 'Validated and plain PBCore' do
   pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
   let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
   let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
+
   let(:pbc_supplemental_materials) { File.read('spec/fixtures/pbcore/clean-supplemental-materials.xml') }
-  let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
+  # let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
   let(:pbc_multi_org) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
   let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
   let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
   let(:playlist_3) { File.read('spec/fixtures/pbcore/clean-playlist-3.xml') }
   let(:pbc_multiple_series_with_episodes) { File.read('spec/fixtures/pbcore/clean-multiple-series-with-episode-titles.xml') }
   let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
-  let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
+  # let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
+
+  let(:pbc_16_9) { new_pb(build(:pbcore_description_document, :clean_16_9)) }
+  let(:pbc_alternative_title) { new_pb(build(:pbcore_description_document, :clean_alternative_title)) }
+
 
   describe ValidatedPBCore do
+
     describe 'valid docs' do
       Dir['spec/fixtures/pbcore/clean-*.xml'].each do |path|
         it "accepts #{File.basename(path)}" do
@@ -272,17 +279,15 @@ describe 'Validated and plain PBCore' do
 
     describe 'PB Core document with 16:9 video' do
       it 'has expected 16:9 attributes' do
-        pbc = PBCorePresenter.new(pbc_16_9)
+
         expected_attrs = {
-          'id' => 'cpb-aacip_508-g44hm5390k',
           'player_aspect_ratio' => '16:9',
           'player_specs' => %w(680 383)
         }
 
         attrs = {
-          'id' => pbc.id,
-          'player_aspect_ratio' => pbc.player_aspect_ratio,
-          'player_specs' => pbc.player_specs
+          'player_aspect_ratio' => pbc_16_9.player_aspect_ratio,
+          'player_specs' => pbc_16_9.player_specs
         }
 
         expect(expected_attrs).to eq(attrs)
@@ -352,7 +357,8 @@ describe 'Validated and plain PBCore' do
 
     describe 'pbcore object with multiple contributing organizations and states' do
       it 'returns multiple organizations and states' do
-        pbc = PBCorePresenter.new(pbc_multi_org)
+        
+        # xpaths("//pbcoreAnnotation[@annotationType='organization']")
 
         expected_attrs = {
           'contributing_organization_names' => ['KQED', 'Library of Congress'],
@@ -362,10 +368,10 @@ describe 'Validated and plain PBCore' do
         }
 
         attrs = {
-          'contributing_organization_names' => pbc.contributing_organization_names,
-          'contributing_organizations_facet' => pbc.contributing_organizations_facet,
-          'contributing_organization_objects' => pbc.contributing_organization_objects,
-          'states' => pbc.states
+          'contributing_organization_names' => pbc_multi_org.contributing_organization_names,
+          'contributing_organizations_facet' => pbc_multi_org.contributing_organizations_facet,
+          'contributing_organization_objects' => pbc_multi_org.contributing_organization_objects,
+          'states' => pbc_multi_org.states
         }
 
         expect(expected_attrs).to eq(attrs)
@@ -382,7 +388,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'uses Alternative title if no other titles are present' do
-        expect(PBCorePresenter.new(pbc_alternative_title).title).to eq('This Title is Alternative')
+        expect(pbc_alternative_title.title).to eq('This Title is Alternative')
       end
     end
   end
