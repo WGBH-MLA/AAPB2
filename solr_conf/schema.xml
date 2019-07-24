@@ -140,6 +140,9 @@
   <!-- A Trie based date field for faster date range queries and date faceting. -->
   <fieldType name="tdate" class="solr.TrieDateField" omitNorms="true" precisionStep="6" positionIncrementGap="0"/>
 
+  <!-- A Trie based date field for faster date range queries and date faceting... that puts them empties last! -->
+  <fieldType name="tdate_emptylast" class="solr.TrieDateField" omitNorms="true" precisionStep="6" positionIncrementGap="0" sortMissingLast="true"/>
+
 
   <!-- The "RandomSortField" is not used to store or search any
      data. You can declare fields of this type it in your schema
@@ -541,7 +544,7 @@
   
 
   <!-- for granular date sorting -->
-  <field name="asset_date" type="tdate" indexed="true" stored="true" multiValued="false"/>
+  <field name="asset_date" type="tdate_emptylast" indexed="true" stored="true" multiValued="false"/>
 
   <!-- facet -->
   <field name="media_type" type="string" indexed="true" stored="false" multiValued="false"/>

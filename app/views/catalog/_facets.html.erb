@@ -18,9 +18,11 @@
   <div id="facet-panel-collapse" class="collapse panel-group">
     <ul class="facet-list">
       <%= render_facet_partials(fields = facet_field_names.delete_if { |facet| facet == SolrDocument::ACCESS_FACET_FIELD }) %>
+
+      <%= render 'catalog/date_range_filter' %>
     </ul>
-</div>
+  </div>
 </div>
 <% end %>
 
-<%= render 'catalog/date_range_filter' %>
+
