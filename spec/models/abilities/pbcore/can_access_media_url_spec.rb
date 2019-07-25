@@ -1,3 +1,4 @@
+require 'rails_helper'
 require 'cancan/matchers'
 
 describe Ability do
@@ -10,13 +11,12 @@ describe Ability do
     let(:public_pbcore_record) { new_pb(build(:pbcore_description_document)) }
     let(:protected_pbcore_record) { new_pb(build(:pbcore_description_document)) }
 
-    require('pry');binding.pry
-
     describe 'can? :access_media_url' do
       context 'when User is on-site; User is an AAPB referer; User is embedding the media' do
         let(:user) { instance_double(User, 'onsite?' => true, 'aapb_referer?' => true, 'embed?' => true) }
-
+        
         it 'is true for public PBCore records' do
+    require('pry');binding.pry
           expect(ability).to be_able_to(:access_media_url, public_pbcore_record)
         end
 

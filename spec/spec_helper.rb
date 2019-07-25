@@ -1,11 +1,12 @@
-require_relative 'support/date_time_helpers'
+# require_relative 'support/date_time_helpers'
 require_relative 'support/pb_helpers'
+require_relative 'support/factory_bot'
 require 'webmock'
 require 'factory_bot_rails'
 require_relative '../lib/rails_stub'
 require 'pbcore'
 require 'rails_helper'
-require 'faker'
+require 'pbcore/factories'
 
 ENV['RACK_ENV'] = 'test'
 
