@@ -38,7 +38,6 @@ RSpec.configure do |config|
   end
 
   # Add the DateTimeHelper methods to RSpec tests.
-  config.include DateTimeHelpers
   config.include PBHelpers
 
   config.before(:suite) do

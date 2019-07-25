@@ -8,15 +8,33 @@ describe Ability do
   context 'for public PBCore records' do
     # NOTE: CanCan will only work if we use actual PBCore instance. It won't
     # work if you try to use a mock object, e.g. RSpec instance_double.
-    let(:public_pbcore_record) { new_pb(build(:pbcore_description_document)) }
-    let(:protected_pbcore_record) { new_pb(build(:pbcore_description_document)) }
+    let(:public_pbcore_record) { new_pb(build(:pbcore_description_document,
+      identifiers: [
+        build(:pbcore_identifier, source: 'Sony Ci', value: 'this-makes-it-digitized')
+      ],
+
+      annotations: [
+        build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
+      ]
+
+    )) }
+    
+    let(:protected_pbcore_record) { new_pb(build(:pbcore_description_document,
+      identifiers: [
+        build(:pbcore_identifier, source: 'Sony Ci', value: 'this-makes-it-digitized')
+      ],
+
+      annotations: [
+        build(:pbcore_annotation, type: 'Level of User Access', value: 'On Location')
+      ]
+
+    )) }
 
     describe 'can? :access_media_url' do
       context 'when User is on-site; User is an AAPB referer; User is embedding the media' do
         let(:user) { instance_double(User, 'onsite?' => true, 'aapb_referer?' => true, 'embed?' => true) }
         
         it 'is true for public PBCore records' do
-    require('pry');binding.pry
           expect(ability).to be_able_to(:access_media_url, public_pbcore_record)
         end
 
