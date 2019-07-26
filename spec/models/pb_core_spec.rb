@@ -1,27 +1,119 @@
 require 'json'
 require_relative '../../lib/aapb'
 require_relative '../../app/models/validated_pb_core'
+require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../../app/models/caption_file'
 require 'rails_helper'
 
 describe 'Validated and plain PBCore' do
   pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
-  let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
-  let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
+  # let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
+  # let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
 
-  let(:pbc_supplemental_materials) { File.read('spec/fixtures/pbcore/clean-supplemental-materials.xml') }
+  # let(:pbc_supplemental_materials) { File.read('spec/fixtures/pbcore/clean-supplemental-materials.xml') }
   # let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
-  let(:pbc_multi_org) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
-  let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
-  let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
-  let(:playlist_3) { File.read('spec/fixtures/pbcore/clean-playlist-3.xml') }
-  let(:pbc_multiple_series_with_episodes) { File.read('spec/fixtures/pbcore/clean-multiple-series-with-episode-titles.xml') }
-  let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
+  # let(:pbc_multi_org) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
+  # let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
+  # let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
+  # let(:playlist_3) { File.read('spec/fixtures/pbcore/clean-playlist-3.xml') }
+  # let(:pbc_multiple_series_with_episodes) { File.read('spec/fixtures/pbcore/clean-multiple-series-with-episode-titles.xml') }
+  # let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
   # let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
 
-  let(:pbc_16_9) { new_pb(build(:pbcore_description_document, :clean_16_9)) }
-  let(:pbc_alternative_title) { new_pb(build(:pbcore_description_document, :clean_alternative_title)) }
 
+  let(:pbc_json_transcript) { new_pb(build(:pbcore_description_document,
+    identifiers: [
+      build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip/111-21ghx7d6')
+    ],
+    instantiations: [
+      build(:pbcore_instantiation,
+        essence_tracks: [ build(:pbcore_instantiation_essence_track,
+            aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '4:3')
+          )
+        ]
+      )
+    ],
+    annotations: [
+      build(:pbcore_annotation, type: 'Transcript Status', value: 'Correct'),
+      build(:pbcore_annotation, type: 'Playlist Order', value: '3')
+    ]
+  )) }
+
+  let(:pbc_text_transcript) { new_pb(build(:pbcore_description_document,
+    identifiers: [
+      build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip/111-21ghx7d6')
+    ],
+    instantiations: [
+      build(:pbcore_instantiation,
+        essence_tracks: [ build(:pbcore_instantiation_essence_track,
+            aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '4:3')
+          )
+        ]
+      )
+    ],
+    annotations: [
+      build(:pbcore_annotation, type: 'Transcript Status', value: 'Correct'),
+      build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.json'),
+      build(:pbcore_annotation, type: 'Playlist Order', value: '3')
+    ]
+  )) }
+
+  let(:pbc_16_9) { new_pb(build(:pbcore_description_document,
+    instantiations: [
+      build(:pbcore_instantiation,
+        essence_tracks: [ build(:pbcore_instantiation_essence_track,
+            aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '16:9')
+          )
+        ]
+      )
+    ]    
+  )) }
+
+  let(:pbc_alternative_title) { new_pb(build(:pbcore_description_document,
+    titles: [
+      build(:pbcore_title, type: 'Alternative', value: 'This Title is Alternative')
+    ]
+  )) }
+
+  let(:pbc_multi_org) { new_pb(build(:pbcore_description_document,
+    instantiations: [
+      build(:pbcore_instantiation,
+        annotations: [
+          build(:pbcore_instantiation_annotation, type: 'organization', value: 'KQED'),
+          build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress')
+        ]
+      )
+    ]    
+  )) }
+
+  let(:pbc_supplemental_materials) { new_pb(build(:pbcore_description_document,
+    annotations: [
+      build(:pbcore_annotation, type: 'Supplemental Material', ref: 'https://s3.amazonaws.com/americanarchive.org/supplemental-materials/cpb-aacip-509-6h4cn6zm21.pdf', value: 'Production Transcript'),
+    ]
+  )) }
+
+  let(:pbc_multiple_series_with_episodes) { new_pb(build(:pbcore_description_document,
+
+    titles: [
+      build(:pbcore_title, type: 'Series', value: 'Writers Forum II'),
+      build(:pbcore_title, type: 'Series', value: 'Readers Forum'),
+      build(:pbcore_title, type: 'Episode', value: 'Writers Writing'),
+      build(:pbcore_title, type: 'Episode', value: 'Readers Reading'),
+      build(:pbcore_title, type: 'Episode Number', value: '42'),
+      build(:pbcore_title, type: 'Episode Number', value: '24'),
+    ],
+  )) }
+
+  let(:pbc_multiple_episodes_one_series) { new_pb(build(:pbcore_description_document,
+
+    titles: [
+      build(:pbcore_title, type: 'Series', value: 'Writers Forum II'),
+      build(:pbcore_title, type: 'Episode', value: 'Writers Writing Again'),
+      build(:pbcore_title, type: 'Episode', value: 'Readers Reading Again'),
+      build(:pbcore_title, type: 'Episode Number', value: '43'),
+      build(:pbcore_title, type: 'Episode Number', value: '25'),
+    ],
+  )) }
 
   describe ValidatedPBCore do
 
@@ -242,7 +334,7 @@ describe 'Validated and plain PBCore' do
 
     describe 'PB Core document with transcript' do
       it 'has expected transcript attributes' do
-        pbc = PBCorePresenter.new(pbc_json_transcript)
+        
         expected_attrs = {
           'id' => 'cpb-aacip_111-21ghx7d6',
           'player_aspect_ratio' => '4:3',
@@ -250,30 +342,28 @@ describe 'Validated and plain PBCore' do
           'transcript_status' => 'Correct'
         }
         attrs = {
-          'id' => pbc.id,
-          'player_aspect_ratio' => pbc.player_aspect_ratio,
-          'player_specs' => pbc.player_specs,
-          'transcript_status' => pbc.transcript_status
+          'id' => pbc_json_transcript.id,
+          'player_aspect_ratio' => pbc_json_transcript.player_aspect_ratio,
+          'player_specs' => pbc_json_transcript.player_specs,
+          'transcript_status' => pbc_json_transcript.transcript_status
         }
 
         expect(expected_attrs).to eq(attrs)
       end
 
       it 'returns the expected transcript_content for text transcript' do
-        pbc = PBCorePresenter.new(pbc_text_transcript)
-        expect(pbc.transcript_content).to include(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-507-0000000j8w-transcript.txt')))
+        expect(pbc_text_transcript.transcript_content).to include(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-507-0000000j8w-transcript.txt')))
       end
 
       it 'returns the expected transcript_content for json transcript' do
-        pbc = PBCorePresenter.new(pbc_json_transcript)
-        expect(JSON.parse(pbc.transcript_content)).to include(JSON.parse(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-111-21ghx7d6-transcript.json'))))
+        expect(JSON.parse(pbc_json_transcript.transcript_content)).to include(JSON.parse(File.read(Rails.root.join('spec', 'fixtures', 'transcripts', 'cpb-aacip-111-21ghx7d6-transcript.json'))))
       end
     end
 
     describe 'PB Core document with supplemental materials' do
       it 'returns an array of supplemental materials' do
-        pbc = PBCorePresenter.new(pbc_supplemental_materials)
-        expect(pbc.supplemental_content).to eq([['https://s3.amazonaws.com/americanarchive.org/supplemental-materials/cpb-aacip-509-6h4cn6zm21.pdf', 'Production Transcript']])
+        
+        expect(pbc_supplemental_materials.supplemental_content).to eq([['https://s3.amazonaws.com/americanarchive.org/supplemental-materials/cpb-aacip-509-6h4cn6zm21.pdf', 'Production Transcript']])
       end
     end
 
@@ -295,60 +385,110 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'PB Core records in playlists' do
+
+      before(:all) do
+
+        PBCoreIngester.new.delete_all
+
+        @playlist_1_xml = just_xml(build(:pbcore_description_document,
+
+          identifiers: [
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you'),
+            build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'first-playlist-guy')
+          ],
+          annotations: [
+            build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
+            build(:pbcore_annotation, type: 'Playlist Order', value: '1')
+          ]
+        ))
+
+        @playlist_2_xml = just_xml(build(:pbcore_description_document,
+
+          identifiers: [
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you'),
+            build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'second-playlist-guy')
+
+          ],
+          annotations: [
+            build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
+            build(:pbcore_annotation, type: 'Playlist Order', value: '2')
+          ]
+        ))
+
+        @playlist_3_xml = just_xml(build(:pbcore_description_document,
+          identifiers: [
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you'),
+            build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'third-playlist-guy')
+          ],
+          annotations: [
+            build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
+            build(:pbcore_annotation, type: 'Playlist Order', value: '3')
+          ]
+        ))
+
+        @playlist_1 =  PBCorePresenter.new(@playlist_1_xml)
+        @playlist_2 = PBCorePresenter.new(@playlist_2_xml)
+        @playlist_3 = PBCorePresenter.new(@playlist_3_xml)
+
+        # ingest em up
+        [@playlist_1_xml, @playlist_2_xml, @playlist_3_xml].each do |xml|
+          PBCoreIngester.ingest_record_from_xmlstring(xml)
+        end
+      end
+
       it 'first record has expected attributes' do
-        pbc = PBCorePresenter.new(playlist_1)
         expected_attrs = {
           'id' => 'cpb-aacip_512-gx44q7rk20',
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 1,
-          'playlist_next_id' => 'cpb-aacip_512-0r9m32nw1x',
+          'playlist_next_id' => 'second-playlist-guy',
           'playlist_prev_id' => nil
         }
 
         attrs = {
-          'id' => pbc.id,
-          'playlist_group' => pbc.playlist_group,
-          'playlist_order' => pbc.playlist_order,
-          'playlist_next_id' => pbc.playlist_next_id,
-          'playlist_prev_id' => pbc.playlist_prev_id
+          'id' => @playlist_1.id,
+          'playlist_group' => @playlist_1.playlist_group,
+          'playlist_order' => @playlist_1.playlist_order,
+          'playlist_next_id' => @playlist_1.playlist_next_id,
+          'playlist_prev_id' => @playlist_1.playlist_prev_id
         }
 
         expect(expected_attrs).to eq(attrs)
       end
 
       it 'middle record has expected attributes' do
-        pbc = PBCorePresenter.new(playlist_2)
+        
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 2,
-          'playlist_next_id' => 'cpb-aacip_512-w66930pv96',
-          'playlist_prev_id' => 'cpb-aacip_512-gx44q7rk20'
+          'playlist_next_id' => 'third-playlist-guy',
+          'playlist_prev_id' => 'first-playlist-guy'
         }
 
         attrs = {
-          'playlist_group' => pbc.playlist_group,
-          'playlist_order' => pbc.playlist_order,
-          'playlist_next_id' => pbc.playlist_next_id,
-          'playlist_prev_id' => pbc.playlist_prev_id
+          'playlist_group' => @playlist_2.playlist_group,
+          'playlist_order' => @playlist_2.playlist_order,
+          'playlist_next_id' => @playlist_2.playlist_next_id,
+          'playlist_prev_id' => @playlist_2.playlist_prev_id
         }
 
         expect(expected_attrs).to eq(attrs)
       end
 
       it 'last record has expected attributes' do
-        pbc = PBCorePresenter.new(playlist_3)
+        
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 3,
           'playlist_next_id' => nil,
-          'playlist_prev_id' => 'cpb-aacip_512-0r9m32nw1x'
+          'playlist_prev_id' => 'second-playlist-guy'
         }
 
         attrs = {
-          'playlist_group' => pbc.playlist_group,
-          'playlist_order' => pbc.playlist_order,
-          'playlist_next_id' => pbc.playlist_next_id,
-          'playlist_prev_id' => pbc.playlist_prev_id
+          'playlist_group' => @playlist_3.playlist_group,
+          'playlist_order' => @playlist_3.playlist_order,
+          'playlist_next_id' => @playlist_3.playlist_next_id,
+          'playlist_prev_id' => @playlist_3.playlist_prev_id
         }
 
         expect(expected_attrs).to eq(attrs)
@@ -358,8 +498,6 @@ describe 'Validated and plain PBCore' do
     describe 'pbcore object with multiple contributing organizations and states' do
       it 'returns multiple organizations and states' do
         
-        # xpaths("//pbcoreAnnotation[@annotationType='organization']")
-
         expected_attrs = {
           'contributing_organization_names' => ['KQED', 'Library of Congress'],
           'contributing_organizations_facet' => ['KQED (CA)', 'Library of Congress (DC)'],
@@ -380,11 +518,11 @@ describe 'Validated and plain PBCore' do
 
     describe '.build_display_title' do
       it 'uses only episode titles if there are more than one series title' do
-        expect(PBCorePresenter.new(pbc_multiple_series_with_episodes).title).to eq('Writers Writing; Readers Reading')
+        expect(pbc_multiple_series_with_episodes.title).to eq('Writers Writing; Readers Reading')
       end
 
       it 'uses only the series and episode titles if there are multiple episode numbers and only one series title' do
-        expect(PBCorePresenter.new(pbc_multiple_episodes_one_series).title).to eq('Writers Forum II; Writers Writing Again; Readers Reading Again')
+        expect(pbc_multiple_episodes_one_series.title).to eq('Writers Forum II; Writers Writing Again; Readers Reading Again')
       end
 
       it 'uses Alternative title if no other titles are present' do

@@ -29,18 +29,27 @@ class PBCoreIngester
     end
   end
 
+  def self.ingest_record_from_xmlstring(xml)
+    PBCoreIngester.new.ingest(xml: xml)
+  end
+
   def delete_all
     @solr.delete_by_query('*:*')
     commit
   end
 
   def ingest(opts)
-    path = opts[:path]
+    path = opts[:path] ? opts[:path] : 'no-path-for-factory'
     is_batch_commit = opts[:is_batch_commit]
     cleaner = Cleaner.instance
 
     begin
-      xml = Zipper.read(path)
+      # allow for non file-backed xml for fac'tries
+      xml = if path
+        Zipper.read(path)
+      else
+        opts[:xml]
+      end
       xml = convert_non_utf8_characters(xml)
     rescue => e
       record_error(e, path)

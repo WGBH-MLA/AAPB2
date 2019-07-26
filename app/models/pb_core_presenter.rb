@@ -333,6 +333,8 @@ class PBCorePresenter
   def playlist_order
     @playlist_order ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="Playlist Order"]').to_i
   end
+
+  # TODO: This could be done with claen, sustainable solr queries to avoid using map here
   def playlist_map
     @playlist_map ||= begin
       response = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params:
