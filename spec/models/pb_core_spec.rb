@@ -393,7 +393,7 @@ describe 'Validated and plain PBCore' do
         @playlist_1_xml = just_xml(build(:pbcore_description_document,
 
           identifiers: [
-            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you'),
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you1'),
             build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'first-playlist-guy')
           ],
           annotations: [
@@ -405,7 +405,7 @@ describe 'Validated and plain PBCore' do
         @playlist_2_xml = just_xml(build(:pbcore_description_document,
 
           identifiers: [
-            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you'),
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you2'),
             build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'second-playlist-guy')
 
           ],
@@ -417,7 +417,7 @@ describe 'Validated and plain PBCore' do
 
         @playlist_3_xml = just_xml(build(:pbcore_description_document,
           identifiers: [
-            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you'),
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you3'),
             build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'third-playlist-guy')
           ],
           annotations: [
