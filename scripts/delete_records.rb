@@ -8,8 +8,8 @@ require 'rake'
 
 args = ARGV
 ingester = PBCoreIngester.new
-# unless args.all? {|id| /\Acpb-aacip[\-_\/][0-9]{1,3}[\-_\/][a-zA-Z0-9]+\z/ =~ id }
-#   puts "Got a non-GUID argument! That's not cool!"
-#   exit 1 
-# end
+unless args.all? { |id| %r{\Acpb-aacip[\-_\/][0-9]{1,3}[\-_\/][a-zA-Z0-9]+\z} =~ id }
+  puts "Got a non-GUID argument! That's not cool!"
+  exit 1
+end
 ingester.delete_records(args)

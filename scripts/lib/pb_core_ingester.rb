@@ -37,17 +37,16 @@ class PBCoreIngester
   def delete_records(guids)
     guids.each do |guid|
       puts "Deleting #{guid}"
-      resp = @solr.get('select', params: {q: "id:#{guid}"})
+      resp = @solr.get('select', params: { q: "id:#{guid}" })
       docs = resp['response']['docs'] if resp['response'] && resp['response']['docs']
 
-      if docs && docs.count == 1
-        puts "Ready to delete #{guid}"
-        resp = @solr.delete_by_query(%(id:#{guid}))
-        commit
-      end
-      docs = nil
+      # can't delete what you can't query
+      next unless docs && docs.count == 1
+      puts "Ready to delete #{guid}"
+      @solr.delete_by_query(%(id:#{guid}))
+      commit
     end
-    puts "Done!"
+    puts 'Done!'
   end
 
   def ingest(opts)
