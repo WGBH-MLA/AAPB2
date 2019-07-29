@@ -1,4 +1,5 @@
 require 'json'
+require 'rails_helper'
 require_relative '../../lib/aapb'
 require_relative '../../app/models/validated_pb_core'
 require_relative '../../app/models/caption_file'
@@ -90,6 +91,8 @@ describe 'Validated and plain PBCore' do
   end
 
   describe PBCorePresenter do
+    let(:pbc) { PBCorePresenter.new(pbc_xml) }
+
     it 'SRT on S3 matches fixture' do
       # Rather than mocking more of it up, the ingest test really pulls an SRT from S3.
       # ... but we still want to make sure that that SRT before it is cleaned has the data we expect.
@@ -112,9 +115,9 @@ describe 'Validated and plain PBCore' do
       end
     end
 
-    describe 'full' do
-      assertions = {
-        to_solr: {
+    describe '.to_solr' do
+      it 'constructs values for solr_document from pbcore xml' do
+        expect(pbc.to_solr).to eq(
           'id' => '1234',
           'xml' => pbc_xml,
           'episode_number_titles' => ['3-2-1'],
@@ -122,13 +125,8 @@ describe 'Validated and plain PBCore' do
           'program_titles' => ['Gratuitous Explosions'],
           'series_titles' => ['Nova'],
           'special_collections' => [],
-          'text' => ['1234', '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID',
-                     'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.',
-                     'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions',
-                     'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music',
-                     'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious',
-                     'hair', 'musicals -- horror', 'somewhere else',
-                     "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
+          'text' => [
+            '1234', '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
           'contribs' => %w(Larry WGBH Stooges Stooges Curly Stooges Moe Stooges),
@@ -144,92 +142,326 @@ describe 'Validated and plain PBCore' do
           'producing_organizations' => ['WGBH'],
           'states' => ['Massachusetts'],
           'access_types' => [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
-          'asset_date' => '2000-01-01T00:00:00Z',
+          'asset_date' => '2000-01-01T00:00:00Z'
+        )
+      end
+    end
 
-          # TODO: UI will transform internal representation.
-        },
-        access_types: [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
-        access_level: 'Online Reading Room',
-        asset_type: 'Album',
-        asset_date: '2000-01-01',
-        asset_dates: [['Date', '2000-01-01']],
-        titles: [%w(Series Nova), ['Program', 'Gratuitous Explosions'], #
-                 ['Episode Number', '3-2-1'], ['Episode', 'Kaboom!']],
-        title: 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
-        special_collections: [],
-        exhibits: [],
-        descriptions: ['Best episode ever!'],
-        instantiations: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
-                         PBCoreInstantiation.new('Moving Image', '1:23:45'),
-                         PBCoreInstantiation.new('Moving Image', 'should be ignored!')],
-        instantiations_display: [PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
-                                 PBCoreInstantiation.new('Moving Image', '1:23:45')],
-        rights_summaries: ['Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.'],
-        licensing_info: 'You totally want to license this.',
-        genres: ['Call-in'],
-        topics: ['Music'],
-        id: '1234',
-        ids: [['AAPB ID', '1234'], ['somewhere else', '5678']],
-        display_ids: [['AAPB ID', '1234']],
-        ci_ids: ['a-32-digit-hex', 'another-32-digit-hex'],
-        media_srcs: ['/media/1234?part=1', '/media/1234?part=2'],
-        img_height: 225,
-        img_src: "#{AAPB::S3_BASE}/thumbnail/1234.jpg",
-        img_width: 300,
-        captions_src: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt',
-        # Doing this because the CaptionFile associated with this PB Core fixture is suspect at best and don't have time to change everywhere it is used.
-        transcript_content: "{\"language\":\"en-US\",\"parts\":[{\"text\":\"Raw bytes 0-255 follow: \\u0000\\u0001\\u0002\\u0003\\u0004\\u0005\\u0006\\u0007\\b \\u000e\\u000f\\u0010\\u0011\\u0012\\u0013\\u0014\\u0015\\u0016\\u0017\\u0018\\u0019\\u001a\\u001b\\u001c\\u001d\\u001e\\u001f !\\\"\#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\u007F\u0080\u0081\u0082\u0083\u0084\u0086\u0087\u0088\u0089\u008A\u008B\u008C\u008D\u008E\u008F\u0090\u0091\u0092\u0093\u0094\u0095\u0096\u0097\u0098\u0099\u009A\u009B\u009C\u009D\u009E\u009F ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ\",\"start_time\":\"0.0\",\"end_time\":\"20.0\"}]}",
-        transcript_src: 'notarealurl',
-        transcript_status: nil,
-        outside_url: 'http://www.wgbh.org/',
-        outside_baseurl: 'wgbh.org',
-        player_aspect_ratio: '4:3',
-        player_specs: %w(680 510),
-        playlist_group: nil,
-        playlist_map: nil,
-        playlist_next_id: nil,
-        playlist_order: 0,
-        playlist_prev_id: nil,
-        reference_urls: ['http://www.wgbh.org/'],
-        private?: false,
-        producing_organizations: [PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')],
-        producing_organizations_facet: ['WGBH'],
-        protected?: false,
-        public?: true,
-        access_level_description: 'Online Reading Room',
-        media_type: 'Moving Image',
-        video?: true,
-        audio?: false,
-        duration: '1:23:45',
-        digitized?: true,
-        subjects: ['explosions -- gratuitious', 'musicals -- horror'],
-        supplemental_content: [],
-        creators: [PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'), PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')],
-        contributors: [PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')],
-        publishers: [PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')],
-        contributing_organization_names: ['WGBH', 'American Archive of Public Broadcasting'],
-        contributing_organizations_facet: ['WGBH (MA)'],
-        contributing_organization_names_display: ['WGBH'],
-        contributing_organization_objects: [Organization.find_by_pbcore_name('WGBH')],
-        states: ['Massachusetts'],
-        img?: true,
-        all_parties: [
+    describe '.access_types' do
+      it 'returns the access_types from pbcore xml' do
+        expect(pbc.access_types).to eq([PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS])
+      end
+    end
+
+    describe '.access_level' do
+      it 'returns the access_level from pbcore xml' do
+        expect(pbc.access_level).to eq('Online Reading Room')
+      end
+    end
+
+    describe '.asset_type' do
+      it 'returns the asset_type from the pbcore xml' do
+        expect(pbc.asset_type).to eq('Album')
+      end
+    end
+
+    describe '.asset_date' do
+      it 'returns the asset_date from the pbcore xml' do
+        expect(pbc.asset_date).to eq('2000-01-01')
+      end
+    end
+
+    describe '.asset_dates' do
+      it 'returns the asset_dates from the pbcore xml' do
+        expect(pbc.asset_dates).to eq([['Date', '2000-01-01']])
+      end
+    end
+
+    describe '.titles' do
+      it 'returns the titles from the pbcore xml' do
+        expect(pbc.titles).to eq([%w(Series Nova), ['Program', 'Gratuitous Explosions'], ['Episode Number', '3-2-1'], ['Episode', 'Kaboom!']])
+      end
+    end
+
+    describe '.title' do
+      it 'returns the title from the pbcore xml' do
+        expect(pbc.title).to eq('Nova; Gratuitous Explosions; 3-2-1; Kaboom!')
+      end
+    end
+
+    describe '.descriptions' do
+      it 'returns the descriptions from the pbcore xml' do
+        expect(pbc.descriptions).to eq(['Best episode ever!'])
+      end
+    end
+
+    describe '.instantiations' do
+      it 'returns the instantiations from the pbcore xml' do
+        expect(pbc.instantiations).to eq([
+          PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
+          PBCoreInstantiation.new('Moving Image', '1:23:45'),
+          PBCoreInstantiation.new('Moving Image', 'should be ignored!')
+        ])
+      end
+    end
+
+    describe '.instantiations_display' do
+      it 'returns the instantiations_display from the pbcore xml' do
+        expect(pbc.instantiations_display).to eq([
+          PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
+          PBCoreInstantiation.new('Moving Image', '1:23:45')
+        ])
+      end
+    end
+
+    describe '.rights_summaries' do
+      it 'returns the rights_summaries from the pbcore xml' do
+        expect(pbc.rights_summaries).to eq(['Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.'])
+      end
+    end
+
+    describe '.licensing_info' do
+      it 'returns the licensing info from the pbcore xml' do
+        expect(pbc.licensing_info).to eq('You totally want to license this.')
+      end
+    end
+
+    describe '.genres' do
+      it 'returns the genres from the pbcore xml' do
+        expect(pbc.genres).to eq(['Call-in'])
+      end
+    end
+
+    describe '.topics' do
+      it 'returns the topics from the pbcore xml' do
+        expect(pbc.topics).to eq(['Music'])
+      end
+    end
+
+    describe '.id' do
+      it 'returns the id from the pbcore xml' do
+        expect(pbc.id).to eq('1234')
+      end
+    end
+
+    describe '.ids' do
+      it 'returns the ids from the pbcore xml' do
+        expect(pbc.ids).to eq([['AAPB ID', '1234'], ['somewhere else', '5678']])
+      end
+    end
+
+    describe '.display_ids' do
+      it 'returns the display ids from the pbcore xml' do
+        expect(pbc.display_ids).to eq([['AAPB ID', '1234']])
+      end
+    end
+
+    describe '.ci_ids' do
+      it 'returns sony ci ids from the pbcore xml' do
+        expect(pbc.ci_ids).to eq(['a-32-digit-hex', 'another-32-digit-hex'])
+      end
+    end
+
+    describe '.media_srcs' do
+      it 'returns the media srcs from the pbcore xml' do
+        expect(pbc.media_srcs).to eq(['/media/1234?part=1', '/media/1234?part=2'])
+      end
+    end
+
+    describe '.img_height' do
+      it 'returns the image height from the pbcore xml' do
+        expect(pbc.img_height).to eq(225)
+      end
+    end
+
+    describe '.img_src' do
+      it 'returns the image src from the pbcore xml' do
+        expect(pbc.img_src).to eq("#{AAPB::S3_BASE}/thumbnail/1234.jpg")
+      end
+    end
+
+    describe '.img_width' do
+      it 'returns the image width from the pbcore xml' do
+        expect(pbc.img_width).to eq(300)
+      end
+    end
+
+    describe '.captions_src' do
+      it 'returns the captions src from the pbcore xml' do
+        expect(pbc.captions_src).to eq('https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt')
+      end
+    end
+
+    describe '.transcript_content' do
+      it 'returns the transcript content from the pbcore xml' do
+        expect(pbc.transcript_content).to eq("{\"language\":\"en-US\",\"parts\":[{\"text\":\"Raw bytes 0-255 follow: \\u0000\\u0001\\u0002\\u0003\\u0004\\u0005\\u0006\\u0007\\b \\u000e\\u000f\\u0010\\u0011\\u0012\\u0013\\u0014\\u0015\\u0016\\u0017\\u0018\\u0019\\u001a\\u001b\\u001c\\u001d\\u001e\\u001f !\\\"\#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\u007F\u0080\u0081\u0082\u0083\u0084\u0086\u0087\u0088\u0089\u008A\u008B\u008C\u008D\u008E\u008F\u0090\u0091\u0092\u0093\u0094\u0095\u0096\u0097\u0098\u0099\u009A\u009B\u009C\u009D\u009E\u009F ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ\",\"start_time\":\"0.0\",\"end_time\":\"20.0\"}]}")
+      end
+    end
+
+    describe '.transcript_src' do
+      it 'returns the transcript src from the pbcore xml' do
+        expect(pbc.transcript_src).to eq('notarealurl')
+      end
+    end
+
+    describe '.outside_url' do
+      it 'returns the outside url from the pbcore xml' do
+        expect(pbc.outside_url).to eq('http://www.wgbh.org/')
+      end
+    end
+
+    describe '.player_aspect_ratio' do
+      it 'returns the player aspect ratio from the pbcore xml' do
+        expect(pbc.player_aspect_ratio).to eq('4:3')
+      end
+    end
+
+    describe '.player_specs' do
+      it 'returns the player specs from the pbcore xml' do
+        expect(pbc.player_specs).to eq(%w(680 510))
+      end
+    end
+
+    describe '.reference_urls' do
+      it 'returns the refernce urls from the pbcore xml' do
+        expect(pbc.reference_urls).to eq(['http://www.wgbh.org/'])
+      end
+    end
+
+    describe '.private?' do
+      it 'returns whether the media is available at all on the site from pbcore xml' do
+        expect(pbc.private?).to eq(false)
+      end
+    end
+
+    describe '.producing_organizations' do
+      it 'returns the producing organizations from the pbcore xml' do
+        expect(pbc.producing_organizations).to eq([PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')])
+      end
+    end
+
+    describe '.prodcing_organizations_facet' do
+      it 'returns the producing organization facet name from the pbcore xml' do
+        expect(pbc.producing_organizations_facet).to eq(['WGBH'])
+      end
+    end
+
+    describe '.protected?' do
+      it 'returns whether the media is available on site from pbcore xml' do
+        expect(pbc.protected?).to eq(false)
+      end
+    end
+
+    describe '.public?' do
+      it 'returns whether the media is always available on the site from pbcore xml' do
+        expect(pbc.public?).to eq(true)
+      end
+    end
+
+    describe '.access_level_description' do
+      it 'returns the access level description from the pbcore xml' do
+        expect(pbc.access_level_description).to eq('Online Reading Room')
+      end
+    end
+
+    describe '.media_type' do
+      it 'returns the media_type from the pbcore xml' do
+        expect(pbc.media_type).to eq('Moving Image')
+      end
+    end
+
+    describe '.video?' do
+      it 'returns whether the pbcore xml represents a video' do
+        expect(pbc.video?).to eq(true)
+      end
+    end
+
+    describe '.audio?' do
+      it 'returns whether the pbcore xml represents audio' do
+        expect(pbc.audio?).to eq(false)
+      end
+    end
+
+    describe '.duration' do
+      it 'returns the duration from the the pbcore xml' do
+        expect(pbc.duration).to eq('1:23:45')
+      end
+    end
+
+    describe '.digitized?' do
+      it 'returns whether the pbcore xml represents a digitized media object' do
+        expect(pbc.digitized?).to eq(true)
+      end
+    end
+
+    describe '.subjects' do
+      it 'returns the subjects from the pbcore xml' do
+        expect(pbc.subjects).to eq(['explosions -- gratuitious', 'musicals -- horror'])
+      end
+    end
+
+    describe '.creators' do
+      it 'returns the creators from the pbcore xml' do
+        expect(pbc.creators).to eq([PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'), PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges')])
+      end
+    end
+
+    describe '.contributors' do
+      it 'returns the contributors from the pbcore xml' do
+        expect(pbc.contributors).to eq([PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges')])
+      end
+    end
+
+    describe '.publishers' do
+      it 'returns the publishers from the pbcore xml' do
+        expect(pbc.publishers).to eq([PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')])
+      end
+    end
+
+    describe '.contributing_organization_names' do
+      it 'returns the contributing_organization_names from the pbcore xml' do
+        expect(pbc.contributing_organization_names).to eq(['WGBH', 'American Archive of Public Broadcasting'])
+      end
+    end
+
+    describe '.contributing_organizations_facet' do
+      it 'returns the contributing organization facet names from the pbcore xml' do
+        expect(pbc.contributing_organizations_facet).to eq(['WGBH (MA)'])
+      end
+    end
+
+    describe '.contributing_organization_names_display' do
+      it 'returns the contributing organization display names from the pbcore xml' do
+        expect(pbc.contributing_organization_names_display).to eq(['WGBH'])
+      end
+    end
+
+    describe '.contributing_organization_objects' do
+      it 'returns the contributing organization object from the pbcore xml' do
+        expect(pbc.contributing_organization_objects).to eq([Organization.find_by_pbcore_name('WGBH')])
+      end
+    end
+
+    describe '.states' do
+      it 'returns the organization states from the pbcore xml' do
+        expect(pbc.states).to eq(['Massachusetts'])
+      end
+    end
+
+    describe '.img?' do
+      it 'returns whether a display image is available for the media from the pbcore xml' do
+        expect(pbc.img?).to eq(true)
+      end
+    end
+
+    describe '.all_parties' do
+      it 'returns all the orgs involved in production from the pbcore xml' do
+        expect(pbc.all_parties).to eq([
           PBCoreNameRoleAffiliation.new('creator', 'WGBH', 'Producing Organization', 'Stooges'),
           PBCoreNameRoleAffiliation.new('contributor', 'Curly', 'bald', 'Stooges'),
           PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'),
           PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')
-        ]
-      }
-
-      pbc = PBCorePresenter.new(pbc_xml)
-      assertions.each do |method, value|
-        it "\##{method} method works" do
-          expect(pbc.send(method)).to eq(value)
-        end
-      end
-
-      it 'tests everthing' do
-        expect(assertions.keys.sort).to eq(PBCorePresenter.instance_methods(false).sort)
+        ])
       end
     end
 
