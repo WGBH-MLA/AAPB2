@@ -48,7 +48,7 @@ Rails.application.configure do
   # config.log_tags = [ :subdomain, :uuid ]
 
   # Only keep up to 10 log files of ~ 1MB each.
-  config.logger = ActiveSupport::Logger.new('aapb-storage/log/production.log', 10, 1.megabytes)
+  config.logger = ActiveSupport::Logger.new('/var/www/aapb/current/log/production.log', 10, 1.megabytes)
 
   # Use a different cache store in production.
   # config.cache_store = :mem_cache_store
