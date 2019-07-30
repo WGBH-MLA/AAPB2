@@ -21,6 +21,55 @@ describe 'Validated and plain PBCore' do
   # let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
 
 
+  @pbc_xml = build(just_xml(build(:pbcore_description_document,
+    asset_type: build(:pbcore_asset_type, value: 'Album'),
+    asset_date: build(:pbcore_asset_date, type: 'Date', value: '2000-01-01'),
+    identifiers: [
+      build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: '1234'),
+      build(:pbcore_identifier, source: 'somewhere else', value: '5678'),
+      build(:pbcore_identifier, source: 'Sony Ci', value: 'a-32-digit-hex'),
+      build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex'),
+    ],
+
+    titles: [
+      build(:pbcore_title, type: 'Series', value: 'Nova'),
+      build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
+      build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
+      build(:pbcore_title, type: 'Episode', value: 'Kaboom'),
+    ],
+
+    subjects: [
+      build(:pbcore_subject, value: 'explosions -- gratuitious'),
+      build(:pbcore_subject, value: 'musicals -- horror'),
+    ],
+
+    descriptions: [
+      build(:pbcore_description, value: '&lt;removed by html scrubber&gt;Best episode ever!')
+    ],
+
+    genres: [
+      build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
+      build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
+    ],
+
+
+    creators: [
+      # should be able to get the subelements by just passing in these props
+      # UHOH  may not get affiliation, but seeing if its relevant to tests
+      build(:pbcore_creator, name: 'Larry', role: 'balding', affiliation: 'Stooges'),
+      build(:pbcore_creator, name: 'WGBH', role: 'Producing Organization', affiliation: 'Stooges'),
+      build(:pbcore_creator, name: 'Curly', role: 'bald', affiliation: 'Stooges'),
+      build(:pbcore_creator, name: 'Moe', role: 'hair', affiliation: 'Stooges'),
+    ],
+
+    publishers: [
+
+    ]
+
+
+  ))
+
+
   let(:pbc_json_transcript) { new_pb(build(:pbcore_description_document,
     identifiers: [
       build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip/111-21ghx7d6')
@@ -126,6 +175,7 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'invalid docs' do
+      # TODO: decide whether or not to keep clean-MOCK.xml fixture for these gsub tests
       it 'rejects missing closing brace' do
         invalid_pbcore = pbc_xml.sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(

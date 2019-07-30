@@ -124,30 +124,30 @@ describe 'Catalog' do
         ]
 
         # xit-ing as this appears to be standard Blacklight functionality
-        xit 'has them all' do
-          visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}"
-          expect(
-            page.all('.panel-heading[data-target]').map do |node|
-              node['data-target'].gsub('#facet-', '')
-            end
-          ).to eq(assertions.map(&:first)) # coverage
-        end
-        assertions.each do |facet, facet_count, value, value_count|
-          url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
+        # xit 'has them all' do
+        #   visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}"
+        #   expect(
+        #     page.all('.panel-heading[data-target]').map do |node|
+        #       node['data-target'].gsub('#facet-', '')
+        #     end
+        #   ).to eq(assertions.map(&:first)) # coverage
+        # end
+        # assertions.each do |facet, facet_count, value, value_count|
+        #   url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
 
-          # xit-ing as this appears to be standard Blacklight functionality
-          xit "#{facet}=#{value}: #{value_count}\t#{url}" do
-            visit url
+        #   # xit-ing as this appears to be standard Blacklight functionality
+        #   xit "#{facet}=#{value}: #{value_count}\t#{url}" do
+        #     visit url
 
-            # range_limit facet for year does not produce these elements, skip
-            expect(
-              page.all("#facet-#{facet} li a.facet_select").count
-            ).to eq facet_count # expected number of values for each facet
-            expect(page.status_code).to eq(200)
-            expect_count(value_count)
-            expect_fuzzy_xml
-          end
-        end
+        #     # range_limit facet for year does not produce these elements, skip
+        #     expect(
+        #       page.all("#facet-#{facet} li a.facet_select").count
+        #     ).to eq facet_count # expected number of values for each facet
+        #     expect(page.status_code).to eq(200)
+        #     expect_count(value_count)
+        #     expect_fuzzy_xml
+        #   end
+        # end
       end
 
       describe 'facets not in sidebar' do
@@ -165,44 +165,44 @@ describe 'Catalog' do
           end
         end
 
-        describe 'access facet' do
-          assertions = [
-            ['access_types', PBCorePresenter::ALL_ACCESS, 43]
-          ]
-          assertions.each do |facet, value, value_count|
-            url = "/catalog?f[#{facet}][]=#{value}"
+        # describe 'access facet' do
+        #   assertions = [
+        #     ['access_types', PBCorePresenter::ALL_ACCESS, 43]
+        #   ]
+        #   assertions.each do |facet, value, value_count|
+        #     url = "/catalog?f[#{facet}][]=#{value}"
 
-            # xit-ing as this appears to be standard Blacklight functionality
-            xit "#{facet}=#{value}: #{value_count}\t#{url}" do
-              visit url
-              expect_count(value_count)
-              expect_fuzzy_xml
-            end
-          end
-        end
+        #     # xit-ing as this appears to be standard Blacklight functionality
+        #     xit "#{facet}=#{value}: #{value_count}\t#{url}" do
+        #       visit url
+        #       expect_count(value_count)
+        #       expect_fuzzy_xml
+        #     end
+        #   end
+        # end
       end
 
       describe 'facet ORs' do
-        describe 'URL support' do
-          # OR is supported on all facets, even if not in the UI.
-          assertions = [
-            ['media_type', 'Sound', 13],
-            ['media_type', 'Sound+OR+Moving+Image', 38],
-            ['media_type', 'Moving+Image+OR+Sound', 38],
-            ['media_type', 'Moving+Image', 25]
-          ]
-          assertions.each do |facet, value, value_count|
-            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
+        # describe 'URL support' do
+        #   # OR is supported on all facets, even if not in the UI.
+        #   assertions = [
+        #     ['media_type', 'Sound', 13],
+        #     ['media_type', 'Sound+OR+Moving+Image', 38],
+        #     ['media_type', 'Moving+Image+OR+Sound', 38],
+        #     ['media_type', 'Moving+Image', 25]
+        #   ]
+        #   assertions.each do |facet, value, value_count|
+        #     url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
 
-            describe "visiting #{url}" do
-              # xit-ing as this appears to be standard Blacklight functionality
-              xit "has #{value_count} results" do
-                visit url
-                expect_count(value_count)
-              end
-            end
-          end
-        end
+        #     describe "visiting #{url}" do
+        #       # xit-ing as this appears to be standard Blacklight functionality
+        #       xit "has #{value_count} results" do
+        #         visit url
+        #         expect_count(value_count)
+        #       end
+        #     end
+        #   end
+        # end
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
@@ -327,70 +327,70 @@ describe 'Catalog' do
           end
         end
 
-        describe 'sorting, title edge cases' do
-          url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&sort=title+asc&per_page=50"
+        # describe 'sorting, title edge cases' do
+        #   url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&sort=title+asc&per_page=50"
 
-          # xit-ing out as this appears to be standard Blacklight functionality
-          xit 'works' do
-            visit url
-            expect(page.status_code).to eq(200)
-            expect(
-              page.all('article').map do |art|
-                art.all('h2').map do |h|
-                  begin
-                    h.text.to_s.strip
-                  rescue
-                    nil # TODO: Why are we getting elements which aren't in the source?
-                  end
-                end
-              end.join("\n")).to eq([
-                ['Ask Governor Chris Gregoire'],
-                ['Askc: Ask Congress; #508'],
-                ['Bob Brozman'],
-                ['The Civil War; Interview with Daisy Turner'],
-                ['The Civil War; Interviews with Barbara Fields'],
-                ['Dance for Camera; Tzaddik; 102'],
-                ['Dr. Norman Borlaug; B-Roll'],
-                ['Dry Spell'],
-                ['Four Decades of Dedication: The 40th Anniversary Special; Handles missing titleTypes, too.'],
-                ['From Bessie Smith to Bruce Springsteen'],
-                ['Gvsports'],
-                ['Japanese Brush Painting; 2; Fish'],
-                ['The Lost Year'],
-                ['The MacNeil/Lehrer NewsHour'],
-                ['Making It Here; 105; Sweets'],
-                ['MSOM Field Tape - BUG 12'],
-                ['Musical Encounter; 116; Music for Fun'],
-                ['Musical Performance of Appalachian Folk Music in Kentucky'],
-                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3'],
-                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3'],
-                ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3'],
-                ['Nova; Gratuitous Explosions; 3-2-1; Kaboom!'],
-                ['Origami; 7; Paper Ball'],
-                ['Podcast Release Form'],
-                ['Racing the Rez'],
-                ['Reading Aloud; MacLeod: The Palace Guard'],
-                ['The Scheewe Art Workshop'],
-                ['The Sorting Test: 1'],
-                ['# "SORTING" Test: 2'],
-                ['A Sorting Test: 100'],
-                ['This Title is Alternative'],
-                ['Touchstone 108'],
-                ['Unknown'],
-                ['Winston Churchill Obituary'],
-                ['World Cafe; Howard Kramer 2004'],
-                ['World Cafe; Larry Kane On John Lennon 2005'],
-                ['World Cafe; 1997-01-20 Sat/Mon; Martin Luther King, Jr. 1997'],
-                ['WQXR; This is My Music; Judd Hirsch'],
-                ['Writers Forum II; Writers Writing Again; Readers Reading Again'],
-                ['Writers Forum; WRF-09/13/07'],
-                ['Writers Writing; Readers Reading'],
-                ['15th Anniversary Show'],
-                ['1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']
-              ].map { |x| x.join('; ') }.join("\n"))
-            expect_fuzzy_xml
-          end
-        end
+        #   # xit-ing out as this appears to be standard Blacklight functionality
+        #   xit 'works' do
+        #     visit url
+        #     expect(page.status_code).to eq(200)
+        #     expect(
+        #       page.all('article').map do |art|
+        #         art.all('h2').map do |h|
+        #           begin
+        #             h.text.to_s.strip
+        #           rescue
+        #             nil # TODO: Why are we getting elements which aren't in the source?
+        #           end
+        #         end
+        #       end.join("\n")).to eq([
+        #         ['Ask Governor Chris Gregoire'],
+        #         ['Askc: Ask Congress; #508'],
+        #         ['Bob Brozman'],
+        #         ['The Civil War; Interview with Daisy Turner'],
+        #         ['The Civil War; Interviews with Barbara Fields'],
+        #         ['Dance for Camera; Tzaddik; 102'],
+        #         ['Dr. Norman Borlaug; B-Roll'],
+        #         ['Dry Spell'],
+        #         ['Four Decades of Dedication: The 40th Anniversary Special; Handles missing titleTypes, too.'],
+        #         ['From Bessie Smith to Bruce Springsteen'],
+        #         ['Gvsports'],
+        #         ['Japanese Brush Painting; 2; Fish'],
+        #         ['The Lost Year'],
+        #         ['The MacNeil/Lehrer NewsHour'],
+        #         ['Making It Here; 105; Sweets'],
+        #         ['MSOM Field Tape - BUG 12'],
+        #         ['Musical Encounter; 116; Music for Fun'],
+        #         ['Musical Performance of Appalachian Folk Music in Kentucky'],
+        #         ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 1 of 3'],
+        #         ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 2 of 3'],
+        #         ['Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3'],
+        #         ['Nova; Gratuitous Explosions; 3-2-1; Kaboom!'],
+        #         ['Origami; 7; Paper Ball'],
+        #         ['Podcast Release Form'],
+        #         ['Racing the Rez'],
+        #         ['Reading Aloud; MacLeod: The Palace Guard'],
+        #         ['The Scheewe Art Workshop'],
+        #         ['The Sorting Test: 1'],
+        #         ['# "SORTING" Test: 2'],
+        #         ['A Sorting Test: 100'],
+        #         ['This Title is Alternative'],
+        #         ['Touchstone 108'],
+        #         ['Unknown'],
+        #         ['Winston Churchill Obituary'],
+        #         ['World Cafe; Howard Kramer 2004'],
+        #         ['World Cafe; Larry Kane On John Lennon 2005'],
+        #         ['World Cafe; 1997-01-20 Sat/Mon; Martin Luther King, Jr. 1997'],
+        #         ['WQXR; This is My Music; Judd Hirsch'],
+        #         ['Writers Forum II; Writers Writing Again; Readers Reading Again'],
+        #         ['Writers Forum; WRF-09/13/07'],
+        #         ['Writers Writing; Readers Reading'],
+        #         ['15th Anniversary Show'],
+        #         ['1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']
+        #       ].map { |x| x.join('; ') }.join("\n"))
+        #     expect_fuzzy_xml
+        #   end
+        # end
       end
     end
   end
