@@ -1,7 +1,5 @@
-GIT
-  remote: https://github.com/WGBH-MLA/pbcore
-  revision: 16a035ca0262c1fb410b06042dba5b54f97754a8
-  branch: pull-in-factories
+PATH
+  remote: /Users/henry_neels/gbh/pbcore
   specs:
     pbcore (0.1.1)
       nokogiri

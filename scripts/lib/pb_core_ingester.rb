@@ -39,7 +39,7 @@ class PBCoreIngester
   end
 
   def ingest(opts)
-    path = opts[:path] ? opts[:path] : 'no-path-for-factory'
+    path = opts[:path] ? opts[:path] : nil
     is_batch_commit = opts[:is_batch_commit]
     cleaner = Cleaner.instance
 

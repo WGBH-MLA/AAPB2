@@ -6,7 +6,7 @@ require_relative '../../app/models/caption_file'
 require 'rails_helper'
 
 describe 'Validated and plain PBCore' do
-  pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
+  # pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
   # let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
   # let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
 
@@ -19,56 +19,6 @@ describe 'Validated and plain PBCore' do
   # let(:pbc_multiple_series_with_episodes) { File.read('spec/fixtures/pbcore/clean-multiple-series-with-episode-titles.xml') }
   # let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
   # let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
-
-
-  @pbc_xml = build(just_xml(build(:pbcore_description_document,
-    asset_type: build(:pbcore_asset_type, value: 'Album'),
-    asset_date: build(:pbcore_asset_date, type: 'Date', value: '2000-01-01'),
-    identifiers: [
-      build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: '1234'),
-      build(:pbcore_identifier, source: 'somewhere else', value: '5678'),
-      build(:pbcore_identifier, source: 'Sony Ci', value: 'a-32-digit-hex'),
-      build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex'),
-    ],
-
-    titles: [
-      build(:pbcore_title, type: 'Series', value: 'Nova'),
-      build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
-      build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
-      build(:pbcore_title, type: 'Episode', value: 'Kaboom'),
-    ],
-
-    subjects: [
-      build(:pbcore_subject, value: 'explosions -- gratuitious'),
-      build(:pbcore_subject, value: 'musicals -- horror'),
-    ],
-
-    descriptions: [
-      build(:pbcore_description, value: '&lt;removed by html scrubber&gt;Best episode ever!')
-    ],
-
-    genres: [
-      build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
-      build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
-    ],
-
-
-    creators: [
-      # should be able to get the subelements by just passing in these props
-      # UHOH  may not get affiliation, but seeing if its relevant to tests
-      build(:pbcore_creator, name: 'Larry', role: 'balding', affiliation: 'Stooges'),
-      build(:pbcore_creator, name: 'WGBH', role: 'Producing Organization', affiliation: 'Stooges'),
-      build(:pbcore_creator, name: 'Curly', role: 'bald', affiliation: 'Stooges'),
-      build(:pbcore_creator, name: 'Moe', role: 'hair', affiliation: 'Stooges'),
-    ],
-
-    publishers: [
-
-    ]
-
-
-  ))
-
 
   let(:pbc_json_transcript) { new_pb(build(:pbcore_description_document,
     identifiers: [
@@ -90,7 +40,7 @@ describe 'Validated and plain PBCore' do
 
   let(:pbc_text_transcript) { new_pb(build(:pbcore_description_document,
     identifiers: [
-      build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip/111-21ghx7d6')
+      build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip-507-0000000j8w')
     ],
     instantiations: [
       build(:pbcore_instantiation,
@@ -175,27 +125,108 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'invalid docs' do
+      before(:all) do
+        @pbc_xml = build(just_xml(build(:pbcore_description_document,
+          asset_type: build(:pbcore_asset_type, value: 'Album'),
+          asset_date: build(:pbcore_asset_date, type: 'Date', value: '2000-01-01'),
+          identifiers: [
+            build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: '1234'),
+            build(:pbcore_identifier, source: 'somewhere else', value: '5678'),
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'a-32-digit-hex'),
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex'),
+          ],
+
+          titles: [
+            build(:pbcore_title, type: 'Series', value: 'Nova'),
+            build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
+            build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
+            build(:pbcore_title, type: 'Episode', value: 'Kaboom'),
+          ],
+
+          descriptions: [
+            build(:pbcore_description, value: '&lt;removed by html scrubber&gt;Best episode ever!')
+          ],
+
+          genres: [
+            build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
+            build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
+          ],
+
+
+          creators: [
+            # should be able to get the subelements by just passing in these props
+            # UHOH  may not get affiliation, but seeing if its relevant to tests
+            build(:pbcore_creator, name: 'Larry', role: 'balding', affiliation: 'Stooges'),
+            build(:pbcore_creator, name: 'WGBH', role: 'Producing Organization', affiliation: 'Stooges'),
+            
+          ],
+
+          contributors: [
+            build(:pbcore_contributor, name: 'Curly', role: 'bald', affiliation: 'Stooges'),
+          ],
+
+          publishers: [
+            build(:pbcore_publisher, name: 'Moe', role: 'hair', affiliation: 'Stooges'),
+          ],
+
+          rights_summaries: [
+            build(:pbcore_rights_summary, value: 'Copy Left: All rights reversed.'),
+            build(:pbcore_rights_summary, value: 'Copy Right: Reverse all rights.'),
+          ],
+
+          instantiations: [
+            build(:pbcore_instantiation, 
+              identifiers: [
+                build(:pbcore_instantiation_identifier, source: 'foo', value: 'ABC')
+              ],
+
+              dates: [
+                build(:pbcore_instantiation_date, type: 'endoded', value: '2001-02-03')
+              ],
+
+              locations: [
+                build(:pbcore_instantiation_location, value: 'my closet')
+              ],
+
+              media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
+
+            )
+          ],
+
+          annotations: [
+            build(:pbcore_annotation, type: 'Captions URL', value: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt'),
+            build(:pbcore_annotation, type: 'organization', value: 'WGBH'),
+            build(:pbcore_annotation, type: 'Licensing Info', value: 'You totally want to license this.'),
+            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+            build(:pbcore_annotation, type: 'Outside URL', value: 'http://www.wgbh.org/'),
+            build(:pbcore_annotation, type: 'External Reference URL', value: 'http://www.wgbh.org/'),
+            build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl'),
+
+          ]
+        )))
+      end
+
       # TODO: decide whether or not to keep clean-MOCK.xml fixture for these gsub tests
       it 'rejects missing closing brace' do
-        invalid_pbcore = pbc_xml.sub(/>\s*$/, '')
+        invalid_pbcore = @pbc_xml.sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/missing tag start/))
       end
 
       it 'rejects missing closing tag' do
-        invalid_pbcore = pbc_xml.sub(/<\/[^>]+>\s*$/, '')
+        invalid_pbcore = @pbc_xml.sub(/<\/[^>]+>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Missing end tag/))
       end
 
       it 'rejects missing namespace' do
-        invalid_pbcore = pbc_xml.sub(/xmlns=['"][^'"]+['"]/, '')
+        invalid_pbcore = @pbc_xml.sub(/xmlns=['"][^'"]+['"]/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/Element 'pbcoreDescriptionDocument': No matching global declaration/))
       end
 
       it 'rejects unknown media types at creation' do
-        invalid_pbcore = pbc_xml.gsub(
+        invalid_pbcore = @pbc_xml.gsub(
           /<instantiationMediaType>[^<]+<\/instantiationMediaType>/,
           '<instantiationMediaType>unexpected</instantiationMediaType>')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
@@ -203,7 +234,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'rejects multi "Level of User Access"' do
-        invalid_pbcore = pbc_xml.sub(
+        invalid_pbcore = @pbc_xml.sub(
           /<pbcoreAnnotation/,
           "<pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation><pbcoreAnnotation")
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
@@ -211,7 +242,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'rejects digitized w/o "Level of User Access"' do
-        invalid_pbcore = pbc_xml.gsub(
+        invalid_pbcore = @pbc_xml.gsub(
           /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
           '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
@@ -219,7 +250,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'rejects undigitized w/ "Level of User Access"' do
-        invalid_pbcore = pbc_xml.gsub(
+        invalid_pbcore = @pbc_xml.gsub(
           /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
           '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
@@ -227,7 +258,7 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'rejects "Outside URL" if not explicitly ORR' do
-        invalid_pbcore = pbc_xml.gsub( # First make it un-digitized
+        invalid_pbcore = @pbc_xml.gsub( # First make it un-digitized
           /<pbcoreIdentifier source='Sony Ci'>[^<]+<[^>]+>/,
           '').gsub( # Then remove access
             /<pbcoreAnnotation annotationType='Level of User Access'>[^<]+<[^>]+>/,
@@ -262,10 +293,92 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'full' do
+      before(:all) do
+        @pbc_xml = build(just_xml(build(:pbcore_description_document,
+          asset_type: build(:pbcore_asset_type, value: 'Album'),
+          asset_date: build(:pbcore_asset_date, type: 'Date', value: '2000-01-01'),
+          identifiers: [
+            build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: '1234'),
+            build(:pbcore_identifier, source: 'somewhere else', value: '5678'),
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'a-32-digit-hex'),
+            build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex'),
+          ],
+
+          titles: [
+            build(:pbcore_title, type: 'Series', value: 'Nova'),
+            build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
+            build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
+            build(:pbcore_title, type: 'Episode', value: 'Kaboom'),
+          ],
+
+          descriptions: [
+            build(:pbcore_description, value: '&lt;removed by html scrubber&gt;Best episode ever!')
+          ],
+
+          genres: [
+            build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
+            build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
+          ],
+
+
+          creators: [
+            # should be able to get the subelements by just passing in these props
+            # UHOH  may not get affiliation, but seeing if its relevant to tests
+            build(:pbcore_creator, name: 'Larry', role: 'balding', affiliation: 'Stooges'),
+            build(:pbcore_creator, name: 'WGBH', role: 'Producing Organization', affiliation: 'Stooges'),
+            
+          ],
+
+          contributors: [
+            build(:pbcore_contributor, name: 'Curly', role: 'bald', affiliation: 'Stooges'),
+          ],
+
+          publishers: [
+            build(:pbcore_publisher, name: 'Moe', role: 'hair', affiliation: 'Stooges'),
+          ],
+
+          rights_summaries: [
+            build(:pbcore_rights_summary, value: 'Copy Left: All rights reversed.'),
+            build(:pbcore_rights_summary, value: 'Copy Right: Reverse all rights.'),
+          ],
+
+          instantiations: [
+            build(:pbcore_instantiation, 
+              identifiers: [
+                build(:pbcore_instantiation_identifier, source: 'foo', value: 'ABC')
+              ],
+
+              dates: [
+                build(:pbcore_instantiation_date, type: 'endoded', value: '2001-02-03')
+              ],
+
+              locations: [
+                build(:pbcore_instantiation_location, value: 'my closet')
+              ],
+
+              media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
+
+            )
+          ],
+
+          annotations: [
+            build(:pbcore_annotation, type: 'Captions URL', value: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt'),
+            build(:pbcore_annotation, type: 'organization', value: 'WGBH'),
+            build(:pbcore_annotation, type: 'Licensing Info', value: 'You totally want to license this.'),
+            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+            build(:pbcore_annotation, type: 'Outside URL', value: 'http://www.wgbh.org/'),
+            build(:pbcore_annotation, type: 'External Reference URL', value: 'http://www.wgbh.org/'),
+            build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl'),
+
+          ]
+        )))      
+      end
+
+
       assertions = {
         to_solr: {
           'id' => '1234',
-          'xml' => pbc_xml,
+          'xml' => @pbc_xml,
           'episode_number_titles' => ['3-2-1'],
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
@@ -370,7 +483,7 @@ describe 'Validated and plain PBCore' do
         ]
       }
 
-      pbc = PBCorePresenter.new(pbc_xml)
+      pbc = PBCorePresenter.new(@pbc_xml)
       assertions.each do |method, value|
         it "\##{method} method works" do
           expect(pbc.send(method)).to eq(value)
@@ -441,6 +554,13 @@ describe 'Validated and plain PBCore' do
         PBCoreIngester.new.delete_all
 
         @playlist_1_xml = just_xml(build(:pbcore_description_document,
+          titles: [
+            build(:pbcore_title, value: 'just-here-for-cleaner')
+          ],
+
+          descriptions: [
+            build(:pbcore_description, value: 'just-here-for-cleaner')
+          ],
 
           identifiers: [
             build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you1'),
@@ -448,11 +568,19 @@ describe 'Validated and plain PBCore' do
           ],
           annotations: [
             build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
-            build(:pbcore_annotation, type: 'Playlist Order', value: '1')
+            build(:pbcore_annotation, type: 'Playlist Order', value: '1'),
+            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
           ]
         ))
 
         @playlist_2_xml = just_xml(build(:pbcore_description_document,
+          titles: [
+            build(:pbcore_title, value: 'just-here-for-cleaner')
+          ],
+
+          descriptions: [
+            build(:pbcore_description, value: 'just-here-for-cleaner')
+          ],
 
           identifiers: [
             build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you2'),
@@ -461,18 +589,29 @@ describe 'Validated and plain PBCore' do
           ],
           annotations: [
             build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
-            build(:pbcore_annotation, type: 'Playlist Order', value: '2')
+            build(:pbcore_annotation, type: 'Playlist Order', value: '2'),
+            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
           ]
         ))
 
         @playlist_3_xml = just_xml(build(:pbcore_description_document,
+          titles: [
+            build(:pbcore_title, value: 'just-here-for-cleaner')
+          ],
+
+          descriptions: [
+            build(:pbcore_description, value: 'just-here-for-cleaner')
+          ],
+
           identifiers: [
             build(:pbcore_identifier, source: 'Sony Ci', value: 'not-real-id-for-you3'),
             build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'third-playlist-guy')
           ],
           annotations: [
             build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
-            build(:pbcore_annotation, type: 'Playlist Order', value: '3')
+            build(:pbcore_annotation, type: 'Playlist Order', value: '3'),
+            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+
           ]
         ))
 
@@ -488,7 +627,7 @@ describe 'Validated and plain PBCore' do
 
       it 'first record has expected attributes' do
         expected_attrs = {
-          'id' => 'cpb-aacip_512-gx44q7rk20',
+          'id' => 'first-playlist-guy',
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 1,
           'playlist_next_id' => 'second-playlist-guy',
@@ -503,7 +642,7 @@ describe 'Validated and plain PBCore' do
           'playlist_prev_id' => @playlist_1.playlist_prev_id
         }
 
-        expect(expected_attrs).to eq(attrs)
+        expect(attrs).to eq(expected_attrs)
       end
 
       it 'middle record has expected attributes' do
@@ -522,7 +661,7 @@ describe 'Validated and plain PBCore' do
           'playlist_prev_id' => @playlist_2.playlist_prev_id
         }
 
-        expect(expected_attrs).to eq(attrs)
+        expect(attrs).to eq(expected_attrs)
       end
 
       it 'last record has expected attributes' do
@@ -541,7 +680,7 @@ describe 'Validated and plain PBCore' do
           'playlist_prev_id' => @playlist_3.playlist_prev_id
         }
 
-        expect(expected_attrs).to eq(attrs)
+        expect(attrs).to eq(expected_attrs)
       end
     end
 
