@@ -20,6 +20,98 @@ describe 'Validated and plain PBCore' do
   # let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
   # let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
 
+  before(:all) do
+    @pbc_xml = build(just_xml(build(:pbcore_description_document,
+      asset_type: build(:pbcore_asset_type, value: 'Album'),
+      asset_date: build(:pbcore_asset_date, type: 'Date', value: '2000-01-01'),
+      identifiers: [
+        build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: '1234'),
+        build(:pbcore_identifier, source: 'somewhere else', value: '5678'),
+        build(:pbcore_identifier, source: 'Sony Ci', value: 'a-32-digit-hex'),
+        build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex'),
+      ],
+
+      titles: [
+        build(:pbcore_title, type: 'Series', value: 'Nova'),
+        build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
+        build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
+        build(:pbcore_title, type: 'Episode', value: 'Kaboom'),
+      ],
+
+      descriptions: [
+        build(:pbcore_description, value: '&lt;removed by html scrubber&gt;Best episode ever!')
+      ],
+
+      genres: [
+        build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
+        build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
+      ],
+
+
+      creators: [
+        # should be able to get the subelements by just passing in these props
+        # UHOH  may not get affiliation, but seeing if its relevant to tests
+        build(:pbcore_creator,
+          creator: build(:pbcore_creator_creator, value: 'Larry'),
+          role: build(:pbcore_creator_role, value: 'balding'),
+        ),
+        build(:pbcore_creator,
+          creator: build(:pbcore_creator_creator, value: 'WGBH'),
+          role: build(:pbcore_creator_role, value: 'Producing Organization'),
+        ),
+      ],
+
+      contributors: [
+        build(:pbcore_contributor,
+          creator: build(:pbcore_creator_creator, value: 'Curly'),
+          role: build(:pbcore_creator_role, value: 'bald'),
+        ),
+      ],
+
+      publishers: [
+        build(:pbcore_publisher,
+          creator: build(:pbcore_creator_creator, value: 'Moe'),
+          role: build(:pbcore_creator_role, value: 'hair'),
+        ),
+      ],
+
+      rights_summaries: [
+        build(:pbcore_rights_summary, value: 'Copy Left: All rights reversed.'),
+        build(:pbcore_rights_summary, value: 'Copy Right: Reverse all rights.'),
+      ],
+
+      instantiations: [
+        build(:pbcore_instantiation, 
+          identifiers: [
+            build(:pbcore_instantiation_identifier, source: 'foo', value: 'ABC')
+          ],
+
+          dates: [
+            build(:pbcore_instantiation_date, type: 'endoded', value: '2001-02-03')
+          ],
+
+          locations: [
+            build(:pbcore_instantiation_location, value: 'my closet')
+          ],
+
+          media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
+
+        )
+      ],
+
+      annotations: [
+        build(:pbcore_annotation, type: 'Captions URL', value: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt'),
+        build(:pbcore_annotation, type: 'organization', value: 'WGBH'),
+        build(:pbcore_annotation, type: 'Licensing Info', value: 'You totally want to license this.'),
+        build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+        build(:pbcore_annotation, type: 'Outside URL', value: 'http://www.wgbh.org/'),
+        build(:pbcore_annotation, type: 'External Reference URL', value: 'http://www.wgbh.org/'),
+        build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl'),
+
+      ]
+    )))
+  end
+
   let(:pbc_json_transcript) { new_pb(build(:pbcore_description_document,
     identifiers: [
       build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip/111-21ghx7d6')
@@ -125,87 +217,7 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'invalid docs' do
-      before(:all) do
-        @pbc_xml = build(just_xml(build(:pbcore_description_document,
-          asset_type: build(:pbcore_asset_type, value: 'Album'),
-          asset_date: build(:pbcore_asset_date, type: 'Date', value: '2000-01-01'),
-          identifiers: [
-            build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: '1234'),
-            build(:pbcore_identifier, source: 'somewhere else', value: '5678'),
-            build(:pbcore_identifier, source: 'Sony Ci', value: 'a-32-digit-hex'),
-            build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex'),
-          ],
-
-          titles: [
-            build(:pbcore_title, type: 'Series', value: 'Nova'),
-            build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
-            build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
-            build(:pbcore_title, type: 'Episode', value: 'Kaboom'),
-          ],
-
-          descriptions: [
-            build(:pbcore_description, value: '&lt;removed by html scrubber&gt;Best episode ever!')
-          ],
-
-          genres: [
-            build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
-            build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
-          ],
-
-
-          creators: [
-            # should be able to get the subelements by just passing in these props
-            # UHOH  may not get affiliation, but seeing if its relevant to tests
-            build(:pbcore_creator, name: 'Larry', role: 'balding', affiliation: 'Stooges'),
-            build(:pbcore_creator, name: 'WGBH', role: 'Producing Organization', affiliation: 'Stooges'),
-            
-          ],
-
-          contributors: [
-            build(:pbcore_contributor, name: 'Curly', role: 'bald', affiliation: 'Stooges'),
-          ],
-
-          publishers: [
-            build(:pbcore_publisher, name: 'Moe', role: 'hair', affiliation: 'Stooges'),
-          ],
-
-          rights_summaries: [
-            build(:pbcore_rights_summary, value: 'Copy Left: All rights reversed.'),
-            build(:pbcore_rights_summary, value: 'Copy Right: Reverse all rights.'),
-          ],
-
-          instantiations: [
-            build(:pbcore_instantiation, 
-              identifiers: [
-                build(:pbcore_instantiation_identifier, source: 'foo', value: 'ABC')
-              ],
-
-              dates: [
-                build(:pbcore_instantiation_date, type: 'endoded', value: '2001-02-03')
-              ],
-
-              locations: [
-                build(:pbcore_instantiation_location, value: 'my closet')
-              ],
-
-              media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
-
-            )
-          ],
-
-          annotations: [
-            build(:pbcore_annotation, type: 'Captions URL', value: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt'),
-            build(:pbcore_annotation, type: 'organization', value: 'WGBH'),
-            build(:pbcore_annotation, type: 'Licensing Info', value: 'You totally want to license this.'),
-            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
-            build(:pbcore_annotation, type: 'Outside URL', value: 'http://www.wgbh.org/'),
-            build(:pbcore_annotation, type: 'External Reference URL', value: 'http://www.wgbh.org/'),
-            build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl'),
-
-          ]
-        )))
-      end
-
+      
       # TODO: decide whether or not to keep clean-MOCK.xml fixture for these gsub tests
       it 'rejects missing closing brace' do
         invalid_pbcore = @pbc_xml.sub(/>\s*$/, '')
@@ -293,87 +305,6 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'full' do
-      before(:all) do
-        @pbc_xml = build(just_xml(build(:pbcore_description_document,
-          asset_type: build(:pbcore_asset_type, value: 'Album'),
-          asset_date: build(:pbcore_asset_date, type: 'Date', value: '2000-01-01'),
-          identifiers: [
-            build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: '1234'),
-            build(:pbcore_identifier, source: 'somewhere else', value: '5678'),
-            build(:pbcore_identifier, source: 'Sony Ci', value: 'a-32-digit-hex'),
-            build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex'),
-          ],
-
-          titles: [
-            build(:pbcore_title, type: 'Series', value: 'Nova'),
-            build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
-            build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
-            build(:pbcore_title, type: 'Episode', value: 'Kaboom'),
-          ],
-
-          descriptions: [
-            build(:pbcore_description, value: '&lt;removed by html scrubber&gt;Best episode ever!')
-          ],
-
-          genres: [
-            build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
-            build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
-          ],
-
-
-          creators: [
-            # should be able to get the subelements by just passing in these props
-            # UHOH  may not get affiliation, but seeing if its relevant to tests
-            build(:pbcore_creator, name: 'Larry', role: 'balding', affiliation: 'Stooges'),
-            build(:pbcore_creator, name: 'WGBH', role: 'Producing Organization', affiliation: 'Stooges'),
-            
-          ],
-
-          contributors: [
-            build(:pbcore_contributor, name: 'Curly', role: 'bald', affiliation: 'Stooges'),
-          ],
-
-          publishers: [
-            build(:pbcore_publisher, name: 'Moe', role: 'hair', affiliation: 'Stooges'),
-          ],
-
-          rights_summaries: [
-            build(:pbcore_rights_summary, value: 'Copy Left: All rights reversed.'),
-            build(:pbcore_rights_summary, value: 'Copy Right: Reverse all rights.'),
-          ],
-
-          instantiations: [
-            build(:pbcore_instantiation, 
-              identifiers: [
-                build(:pbcore_instantiation_identifier, source: 'foo', value: 'ABC')
-              ],
-
-              dates: [
-                build(:pbcore_instantiation_date, type: 'endoded', value: '2001-02-03')
-              ],
-
-              locations: [
-                build(:pbcore_instantiation_location, value: 'my closet')
-              ],
-
-              media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
-
-            )
-          ],
-
-          annotations: [
-            build(:pbcore_annotation, type: 'Captions URL', value: 'https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt'),
-            build(:pbcore_annotation, type: 'organization', value: 'WGBH'),
-            build(:pbcore_annotation, type: 'Licensing Info', value: 'You totally want to license this.'),
-            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
-            build(:pbcore_annotation, type: 'Outside URL', value: 'http://www.wgbh.org/'),
-            build(:pbcore_annotation, type: 'External Reference URL', value: 'http://www.wgbh.org/'),
-            build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl'),
-
-          ]
-        )))      
-      end
-
 
       assertions = {
         to_solr: {
