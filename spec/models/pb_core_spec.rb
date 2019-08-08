@@ -341,6 +341,7 @@ describe 'Validated and plain PBCore' do
 
           # TODO: UI will transform internal representation.
         }
+        require('pry');binding.pry
 
         expect(PBCorePresenter.new(@pbc_xml).to_solr).to eq(to_solr_data)
       end

@@ -143,6 +143,7 @@ class PBCorePresenter
   end
   def titles
     # UHOH pair by type
+    require('pry');binding.pry
     @titles ||= pairs_by_type(@pbcore.titles, :type)
   end
   def title
@@ -524,19 +525,20 @@ class PBCorePresenter
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
+      # helpers
       :pairs_by_type, :annotations_by_type, :one_annotation_by_type, :people_data,
-      :xml, :xml=, :pbcore=, :asset_types,
-      :identifiers, :instantiations, :pbcore,
+      # duh
+      :xml, :xml=, :pbcore=, :asset_types, :identifiers, :pbcore
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/  } # skip booleans
               .map { |method| puts method;send(method) } # method -> value
-              .select { |x| x } # skip nils
               .flatten # flattens list accessors
+              .compact # skip nils
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
               .flatten
-              .map { |x| x.respond_to?(:value) ? x.value : x } # get elements of compounds
+              .map { |x| x.respond_to?(:value) ? x.value : x } # get values from pbcore gem elements
               .uniq.compact.sort
   end
 
