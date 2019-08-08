@@ -22,7 +22,7 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_title, type: 'Series', value: 'Nova'),
         build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
         build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
-        build(:pbcore_title, type: 'Episode', value: 'Kaboom'),
+        build(:pbcore_title, type: 'Episode', value: 'Kaboom!'),
       ],
 
       descriptions: [
@@ -75,10 +75,50 @@ describe 'Validated and plain PBCore' do
             build(:pbcore_instantiation_date, type: 'endoded', value: '2001-02-03')
           ],
 
+          annotations: [
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH'),
+          ],
+
           location: build(:pbcore_instantiation_location, value: 'my closet'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
 
-        )
+        ),
+        
+        build(:pbcore_instantiation, 
+          identifiers: [
+            build(:pbcore_instantiation_identifier, source: 'foo', value: 'XYZ')
+          ],
+
+          dates: [
+            build(:pbcore_instantiation_date, type: 'endoded', value: '2001-02-03')
+          ],
+
+          annotations: [
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH'),
+          ],
+
+          location: build(:pbcore_instantiation_location, value: 'my harddrive'),
+          media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
+
+        ),
+
+        build(:pbcore_instantiation, 
+          identifiers: [
+            build(:pbcore_instantiation_identifier, source: 'foo', value: 'PQR')
+          ],
+
+          dates: [
+            build(:pbcore_instantiation_date, type: 'endoded', value: '2001-02-03')
+          ],
+
+          annotations: [
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'American Archive of Public Broadcasting'),
+          ],
+
+          location: build(:pbcore_instantiation_location, value: 'my closet'),
+          media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
+
+        ),                
       ],
 
       annotations: [

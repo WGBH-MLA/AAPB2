@@ -97,7 +97,7 @@ class PBCorePresenter
     (cre + con + pub).uniq.sort_by { |p| p.role ? p.role : '' }
   end
   def producing_organizations
-    @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }.map(&:name)
+    @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }
   end
   def producing_organizations_facet
     @producing_organizations_facet ||= producing_organizations unless producing_organizations.empty?
@@ -249,7 +249,6 @@ class PBCorePresenter
     @contributing_organization_names_display ||= Organization.build_organization_names_display(contributing_organization_objects)
   end
   def states
-    require('pry');binding.pry
     @states ||= contributing_organization_objects.map(&:state)
   rescue NoMatchError
     nil
