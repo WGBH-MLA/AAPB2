@@ -25,6 +25,11 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_title, type: 'Episode', value: 'Kaboom!'),
       ],
 
+      subjects: [
+        build(:pbcore_subject, value: 'explosions -- gratuitious'),
+        build(:pbcore_subject, value: 'musicals -- horror'),
+      ],
+
       descriptions: [
         build(:pbcore_description, value: '&lt;removed by html scrubber&gt;Best episode ever!')
       ],

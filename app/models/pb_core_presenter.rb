@@ -29,7 +29,6 @@ class PBCorePresenter
   attr_accessor :xml
   attr_accessor :pbcore
 
-  delegate :subjects, to: :pbcore
   delegate :instantiations, to: :pbcore
   delegate :licensing_info, to: :pbcore
   delegate :special_collections, to: :pbcore
@@ -78,9 +77,9 @@ class PBCorePresenter
   def topics
     @topics ||= @pbcore.genres.select {|genre| genre.annotation == 'topic'}.map(&:value)
   end
-  # def subjects
-  #   @subjects ||= xpaths('/*/pbcoreSubject')
-  # end
+  def subjects
+    @subjects ||= @pbcore.subjects.map(&:value)
+  end
   def creators
     @creators ||= people_data(@pbcore.creators, :creator)
   end
