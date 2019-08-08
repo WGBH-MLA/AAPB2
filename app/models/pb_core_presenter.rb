@@ -29,11 +29,8 @@ class PBCorePresenter
   attr_accessor :xml
   attr_accessor :pbcore
 
-  delegate :genres, to: :pbcore
-  delegate :topics, to: :pbcore
   delegate :subjects, to: :pbcore
   delegate :instantiations, to: :pbcore
-  # delegate :rights_summaries, to: :pbcore
   delegate :licensing_info, to: :pbcore
   delegate :special_collections, to: :pbcore
   delegate :instantiations, to: :pbcore
@@ -132,7 +129,6 @@ class PBCorePresenter
   #   nil
   end
   def asset_dates
-    # UHOH pair by type
     @asset_dates ||= pairs_by_type(@pbcore.asset_dates, :type)
   end
   def asset_date
@@ -142,8 +138,6 @@ class PBCorePresenter
   #   nil
   end
   def titles
-    # UHOH pair by type
-    require('pry');binding.pry
     @titles ||= pairs_by_type(@pbcore.titles, :type)
   end
   def title
@@ -176,7 +170,7 @@ class PBCorePresenter
         end
       end.compact
 
-      aapbid ? some_ids.unshift([aapbid.source, aapbid.value]) : some_ids
+      aapbid ? some_ids.unshift(['AAPB ID', aapbid.value]) : some_ids
     end
   end
   def ci_ids
@@ -255,6 +249,7 @@ class PBCorePresenter
     @contributing_organization_names_display ||= Organization.build_organization_names_display(contributing_organization_objects)
   end
   def states
+    require('pry');binding.pry
     @states ||= contributing_organization_objects.map(&:state)
   rescue NoMatchError
     nil

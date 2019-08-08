@@ -14,7 +14,6 @@ class PBCoreNameRoleAffiliation
 
   def ==(other)
     self.class == other.class &&
-      stem == other.stem &&
       name == other.name &&
       role == other.role &&
       affiliation == other.affiliation
