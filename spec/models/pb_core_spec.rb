@@ -66,8 +66,12 @@ describe 'Validated and plain PBCore' do
       ],
 
       rights_summaries: [
-        build(:pbcore_rights_summary, value: 'Copy Left: All rights reversed.'),
-        build(:pbcore_rights_summary, value: 'Copy Right: Reverse all rights.'),
+        build(:pbcore_rights_summary,
+          rights_summary: build(:rights_summary, value: 'Copy Left: All rights reversed.')
+        ),
+        build(:pbcore_rights_summary,
+          rights_summary: build(:rights_summary, value: 'Copy Right: Reverse all rights.')
+        ),
       ],
 
       instantiations: [
@@ -84,6 +88,8 @@ describe 'Validated and plain PBCore' do
             build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH'),
           ],
 
+
+          duration: build(:pbcore_instantiation_duration, value: '1:23:46'),
           location: build(:pbcore_instantiation_location, value: 'my closet'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
 
@@ -102,6 +108,7 @@ describe 'Validated and plain PBCore' do
             build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH'),
           ],
 
+          duration: build(:pbcore_instantiation_duration, value: '4:55:55'),
           location: build(:pbcore_instantiation_location, value: 'my harddrive'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
 
@@ -437,10 +444,10 @@ describe 'Validated and plain PBCore' do
 
       describe '.instantiations_display' do
         it 'returns the instantiations_display from the pbcore xml' do
-          expect(@pbc.instantiations_display).to eq([
-            PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
-            PBCoreInstantiation.new('Moving Image', '1:23:45')
-          ])
+          expect(@pbc.instantiations_display[0].media_type).to eq('Moving Image')
+          expect(@pbc.instantiations_display[0].duration).to eq('1:23:46')
+          expect(@pbc.instantiations_display[1].media_type).to eq('Moving Image')
+          expect(@pbc.instantiations_display[1].duration).to eq('4:55:55')
         end
       end
 

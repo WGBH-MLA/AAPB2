@@ -9,7 +9,6 @@ require_relative 'special_collection'
 require_relative '../../lib/html_scrubber'
 require_relative 'xml_backed'
 require_relative 'to_mods'
-require_relative 'pb_core_instantiation'
 require_relative 'pb_core_name_role_affiliation'
 require_relative 'organization'
 require_relative '../../lib/formatter'
@@ -25,6 +24,8 @@ class PBCorePresenter
     @xml = xml || '<pbcoreDescriptionDocument>nogood</pbcoreDescriptionDocument>'
     @pbcore = PBCore::DescriptionDocument.parse(xml)
   end
+
+  include AnnotationHelper
 
   attr_accessor :xml
   attr_accessor :pbcore
@@ -56,17 +57,6 @@ class PBCorePresenter
   def people_data(people, type)
     people.map {|peep| PBCoreNameRoleAffiliation.new(peep.send(type).value, peep.role.value, peep.send(type).affiliation) }
   end
-
-  def annotations_by_type(annotations, type)
-    annotations.select {|anno| anno.type == type}
-  end
-
-  def one_annotation_by_type(annotations, type)
-    annotation = annotations_by_type(annotations, type).first
-    annotation ? annotation.value : nil
-  end
-
-
   
   def descriptions
     @descriptions ||= @pbcore.descriptions.map { |description| HtmlScrubber.scrub(description.value) }
@@ -102,39 +92,21 @@ class PBCorePresenter
     @producing_organizations_facet ||= producing_organizations unless producing_organizations.empty?
   end
 
-  # def instantiations
-  #   @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do |rexml|
-  #     PBCoreInstantiation.new(rexml)
-  #   end
-  # end
   def instantiations_display
-    @instantiations_display ||= instantiations.reject { |ins| ins.organization == 'American Archive of Public Broadcasting' }
+    # @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? {|a| a.value == 'American Archive of Public Broadcasting'}  }
+    @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? {|a| a.value == 'American Archive of Public Broadcasting'}  }.map { |i| PBCoreInstantiationPresenter.new(i) }
   end
   def rights_summaries
-    # @rights_summaries ||= xpaths('/*/pbcoreRightsSummary/rightsSummary')
     @rights_summaries ||= @pbcore.rights_summaries.map { |rights| rights.rights_summary.value if rights.rights_summary }
-  # rescue NoMatchError
-  #   nil
   end
-  # def licensing_info
-  #   @licensing_info ||= xpath('/*/pbcoreAnnotation[@annotationType="Licensing Info"]')
-  # rescue NoMatchError
-  #   nil
-  # end
   def asset_type
     @asset_type ||= asset_types.first.value if asset_types.first
-  #   @asset_type ||= xpath('/*/pbcoreAssetType')
-  # rescue NoMatchError
-  #   nil
   end
   def asset_dates
     @asset_dates ||= pairs_by_type(@pbcore.asset_dates, :type)
   end
   def asset_date
     @asset_date ||= @pbcore.asset_dates.first.value if @pbcore.asset_dates.first
-  #   @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
-  # rescue NoMatchError
-  #   nil
   end
   def titles
     @titles ||= pairs_by_type(@pbcore.titles, :type)
@@ -146,7 +118,6 @@ class PBCorePresenter
     @exhibits ||= Exhibit.find_all_by_item_id(id)
   end
   def special_collections
-    # @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
     @special_collections ||= annotations_by_type(annotations, 'special_collections')
   end
   def id
@@ -154,7 +125,6 @@ class PBCorePresenter
     # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
     # TODO: https://github.com/WGBH/AAPB2/issues/870
     @id ||= identifiers.select { |id| id.source == 'http://americanarchiveinventory.org' }.first.value.gsub('cpb-aacip/', 'cpb-aacip_')
-    # @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
   end
   SONY_CI = 'Sony Ci'.freeze
   def ids
@@ -184,15 +154,10 @@ class PBCorePresenter
   CAPTIONS_ANNOTATION = 'Captions URL'.freeze
   def captions_src
     @captions_src ||= annotations_by_type(@pbcore.annotations, CAPTIONS_ANNOTATION).first.value
-  # rescue NoMatchError
-  #   nil
   end
   TRANSCRIPT_ANNOTATION = 'Transcript URL'.freeze
   def transcript_src
     @transcript_src ||= one_annotation_by_type(@pbcore.annotations, TRANSCRIPT_ANNOTATION)  
-  #   @transcript_src ||= xpath("/*/pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']")
-  # rescue NoMatchError
-  #   nil
   end
 
   def img?
@@ -236,7 +201,6 @@ class PBCorePresenter
   end
   def contributing_organization_names
     @contributing_organization_names ||= annotations_by_type(instantiations.map { |inst| inst.annotations  }.flatten, 'organization').map(&:value).uniq
-    # @contributing_organization_names ||= xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq
   end
   def contributing_organizations_facet
     @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?
@@ -255,8 +219,8 @@ class PBCorePresenter
   def outside_url
     @outside_url ||= begin
       url_anno = annotations_by_type(@pbcore.annotations, 'Outside URL')
-      url_anno.present? ? url_anno.first.value : nil
       raise('If there is an Outside URL, the record must be explicitly public') unless public?
+      url_anno.present? ? url_anno.first.value : nil
     end
   end
   def outside_baseurl
@@ -267,7 +231,7 @@ class PBCorePresenter
   def reference_urls
     # These only provide extra information. We aren't saying there is media on the far side,
     # so this has no interaction with access_level, unlike outside_url.
-    @reference_urls ||= annotations_by_type(@pbcore.annotations, 'External Reference URL')
+    @reference_urls ||= annotations_by_type(@pbcore.annotations, 'External Reference URL').map(&:value)
   end
   def access_level
     @access_level ||= begin
@@ -311,7 +275,6 @@ class PBCorePresenter
   def media_type
     @media_type ||= begin
       media_types = instantiations.map(&:media_type).map(&:value)
-      # media_types = xpaths('/*/pbcoreInstantiation/instantiationMediaType')
       [MOVING_IMAGE, SOUND, OTHER].each do |type|
         return type if media_types.include? type
       end
@@ -367,7 +330,6 @@ class PBCorePresenter
   # Playlist functionality from OpenVault
   def playlist_group
     @playlist_group ||= one_annotation_by_type(@pbcore.annotations, 'Playlist Group')
-    # @playlist_group ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="Playlist Group"]')
   end
   def playlist_order
     @playlist_order ||= begin
@@ -400,8 +362,6 @@ class PBCorePresenter
   end
   def supplemental_content
     @supplemental_content ||= annotations_by_type(@pbcore.annotations, 'Supplemental Material').map { |mat| [mat.attributes['ref'], mat.text] }
-      # REXML::XPath.match(@doc, '/*/pbcoreAnnotation[@annotationType="Supplemental Material"]').map { |mat| [mat.attributes['ref'], mat.text] }
-    # end
   end
 
   # rubocop:enable Style/EmptyLineBetweenDefs
