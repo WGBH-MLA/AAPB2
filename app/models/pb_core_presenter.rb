@@ -361,7 +361,7 @@ class PBCorePresenter
     end if playlist_map
   end
   def supplemental_content
-    @supplemental_content ||= annotations_by_type(@pbcore.annotations, 'Supplemental Material').map { |mat| [mat.attributes['ref'], mat.text] }
+    @supplemental_content ||= annotations_by_type(@pbcore.annotations, 'Supplemental Material').map { |mat| [mat.ref, mat.value] }
   end
 
   # rubocop:enable Style/EmptyLineBetweenDefs
@@ -509,15 +509,8 @@ class PBCorePresenter
 
   def contribs
     @contribs ||=
-      # TODO: Cleaner xpath syntax?
-      (creators.map { |creator| %(#{creator.name} #{creator.role} #{creator.affiliation}) } + 
-            contributors.map { |contributor| %(#{contributor.name} #{contributor.role} #{contributor.affiliation}) } + publishers.map { |publisher| %(#{publisher.name} #{publisher.role} #{publisher.affiliation}) }).join(' ')
-      # xpaths('/*/pbcoreCreator/creator') +
-      # xpaths('/*/pbcoreCreator/creator/@affiliation') +
-      # xpaths('/*/pbcoreContributor/contributor') +
-      # xpaths('/*/pbcoreContributor/contributor/@affiliation') +
-      # xpaths('/*/pbcorePublisher/publisher') +
-      # xpaths('/*/pbcorePublisher/publisher/@affiliation')
+      (creators.map { |creator| [creator.name,creator.affiliation] } + 
+            contributors.map { |contributor| [contributor.name,contributor.affiliation] } + publishers.map { |publisher| [publisher.name,publisher.affiliation] }).flatten
   end
 
   def year

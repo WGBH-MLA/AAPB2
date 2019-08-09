@@ -5,7 +5,6 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../../app/models/caption_file'
 require 'rails_helper'
 
-
 describe 'Validated and plain PBCore' do
   before(:all) do
     @pbc_xml = just_xml(build(:pbcore_description_document,
@@ -145,19 +144,6 @@ describe 'Validated and plain PBCore' do
       ]
     ))
   end
-  # pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
-  # let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
-  # let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
-
-  # let(:pbc_supplemental_materials) { File.read('spec/fixtures/pbcore/clean-supplemental-materials.xml') }
-  # let(:pbc_16_9) { File.read('spec/fixtures/pbcore/clean-16-9.xml') }
-  # let(:pbc_multi_org) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
-  # let(:playlist_1) { File.read('spec/fixtures/pbcore/clean-playlist-1.xml') }
-  # let(:playlist_2) { File.read('spec/fixtures/pbcore/clean-playlist-2.xml') }
-  # let(:playlist_3) { File.read('spec/fixtures/pbcore/clean-playlist-3.xml') }
-  # let(:pbc_multiple_series_with_episodes) { File.read('spec/fixtures/pbcore/clean-multiple-series-with-episode-titles.xml') }
-  # let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
-  # let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
 
   let(:pbc_json_transcript) { new_pb(build(:pbcore_description_document,
     identifiers: [
@@ -255,11 +241,9 @@ describe 'Validated and plain PBCore' do
 
   describe ValidatedPBCore do
 
-    describe 'valid docs' do
-      Dir['spec/fixtures/pbcore/clean-*.xml'].each do |path|
-        it "accepts #{File.basename(path)}" do
-          expect { ValidatedPBCore.new(File.read(path)) }.not_to raise_error
-        end
+    describe 'accepts clean full record' do
+      it "accepts the good guy" do
+        expect { ValidatedPBCore.new(@pbc_xml) }.not_to raise_error
       end
     end
 
@@ -615,7 +599,7 @@ describe 'Validated and plain PBCore' do
 
       describe '.duration' do
         it 'returns the duration from the the pbcore xml' do
-          expect(@pbc.duration).to eq('1:23:45')
+          expect(@pbc.duration).to eq('1:23:46')
         end
       end
 
@@ -696,57 +680,6 @@ describe 'Validated and plain PBCore' do
         end
       end
     end
-
-
-
-
-
-    # describe 'full' do
-
-    #   # before(:all) do
-    #   #   PBCoreIngester.ingest_record_from_xmlstring(@pbc_xml)
-    #   # end
-
-    #   it 'pulls to_solr data correctly for solr ingest' do
-    #     to_solr_data = {
-    #       'id' => '1234',
-    #       'xml' => @pbc_xml,
-    #       'episode_number_titles' => ['3-2-1'],
-    #       'episode_titles' => ['Kaboom!'],
-    #       'program_titles' => ['Gratuitous Explosions'],
-    #       'series_titles' => ['Nova'],
-    #       # 'special_collections' => [],
-    #       'text' => ['1234', '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID',
-    #                  'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.',
-    #                  'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions',
-    #                  'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music',
-    #                  'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious',
-    #                  'hair', 'musicals -- horror', 'somewhere else',
-    #                  "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
-    #       'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
-    #       'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
-    #       'contribs' => %w(Larry WGBH Stooges Stooges Curly Stooges Moe Stooges),
-    #       'year' => '2000',
-    #       'exhibits' => [],
-    #       # 'media_type' => 'Moving Image',
-    #       # 'genres' => ['Call-in'],
-    #       # 'topics' => ['Music'],
-    #       'asset_type' => 'Album',
-    #       'contributing_organizations' => ['WGBH (MA)'],
-    #       'playlist_group' => nil,
-    #       'playlist_order' => 0,
-    #       'producing_organizations' => ['WGBH'],
-    #       'states' => ['Massachusetts'],
-    #       'access_types' => [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
-    #       'asset_date' => '2000-01-01T00:00:00Z',
-
-    #       # TODO: UI will transform internal representation.
-    #     }
-
-    #     expect(PBCorePresenter.new(@pbc_xml).to_solr).to eq(to_solr_data)
-    #   end
-
-    # end
 
     describe 'PB Core document with transcript' do
       it 'has expected transcript attributes' do
