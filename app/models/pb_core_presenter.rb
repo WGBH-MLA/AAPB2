@@ -486,7 +486,7 @@ class PBCorePresenter
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/  } # skip booleans
-              .map { |method| puts method;send(method) } # method -> value
+              .map { |method| send(method) } # method -> value
               .flatten # flattens list accessors
               .compact # skip nils
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
