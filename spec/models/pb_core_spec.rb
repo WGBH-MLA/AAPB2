@@ -143,6 +143,8 @@ describe 'Validated and plain PBCore' do
 
       ]
     ))
+
+require('pry');binding.pry
   end
 
   let(:pbc_json_transcript) { new_pb(build(:pbcore_description_document,

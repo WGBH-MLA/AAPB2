@@ -205,7 +205,7 @@ class PBCorePresenter
   def contributing_organizations_facet
     @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?
   end
-  def contributing_organization_objects
+  def contributing_organization_objects 
     @contributing_organization_objects ||= Organization.organizations(contributing_organization_names)
   end
   def contributing_organization_names_display
@@ -213,8 +213,6 @@ class PBCorePresenter
   end
   def states
     @states ||= contributing_organization_objects.map(&:state)
-  rescue NoMatchError
-    nil
   end
   def outside_url
     @outside_url ||= begin
@@ -486,7 +484,7 @@ class PBCorePresenter
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/  } # skip booleans
-              .map { |method| send(method) } # method -> value
+              .map { |method| puts method;send(method) } # method -> value
               .flatten # flattens list accessors
               .compact # skip nils
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds

@@ -85,7 +85,7 @@ class PBCoreIngester
       rescue => e
         record_error(e, path)
       end
-    else
+    else      
       e = ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{xml_top}")
       record_error(e, path)
     end

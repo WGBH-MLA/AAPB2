@@ -1,14 +1,10 @@
-require_relative '../../app/models/pb_core_instantiation'
+require_relative '../../app/models/pb_core_instantiation_presenter'
 require_relative '../../app/models/pb_core_presenter'
 
 describe PBCoreInstantiationPresenter do
-  let(:pbc_xml) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
-  let(:pbc_instantiations) { PBCorePresenter.new(pbc_xml).instantiations }
-  let(:pbc_instantiation_1) { PBCoreInstantiationPresenter.new(pbc_instantiations[0]) }
-  let(:pbc_instantiation_2) { PBCoreInstantiationPresenter.new(pbc_instantiations[1]) }
-  let(:pbc_instantiation_3) { PBCoreInstantiationPresenter.new(pbc_instantiations[2]) }
-
-    let(:pbc_xml) { build(:pbcore_description_document,
+  # let(:pbc_xml) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
+  before(:all) do
+    @pbc_xml = build(:pbcore_description_document,
       asset_types: [build(:pbcore_asset_type, value: 'Program')],
       asset_dates: [build(:pbcore_asset_date, type: 'broadcast', value: '1958-00-00')],
       identifiers: [
@@ -31,7 +27,6 @@ describe PBCoreInstantiationPresenter do
         build(:pbcore_genre, annotation: "AAPB Topical Genre", value: "Global Affairs"),
         build(:pbcore_genre, annotation: "AAPB Topical Genre", value: "War and Conflict"),
       ],
-
 
       instantiations: [
         build(:pbcore_instantiation, 
@@ -69,9 +64,7 @@ describe PBCoreInstantiationPresenter do
             build(:pbcore_instantiation_generations, value: 'Access Copy'),
           ],
 
-          colors: [
-            build(:pbcore_instantiation_colors, value: 'black and white'),
-          ],
+          colors: build(:pbcore_instantiation_colors, value: 'black and white'),
 
           location: build(:pbcore_instantiation_location, value: 'my harddrive'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
@@ -102,7 +95,7 @@ describe PBCoreInstantiationPresenter do
           location: build(:pbcore_instantiation_location, value: 'my closet'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
 
-        ),                
+        ),  
       ],
 
       annotations: [
@@ -111,54 +104,59 @@ describe PBCoreInstantiationPresenter do
         build(:pbcore_annotation, type: "last_modified", value: "2018-04-11 12:07:28"),
         build(:pbcore_annotation, type: "organization", value: "KQED"),
       ]
-    )}
+    ).to_xml
 
+    @pbc_instantiations = PBCorePresenter.new(@pbc_xml).instantiations
+    @pbc_instantiation_1 = PBCoreInstantiationPresenter.new(@pbc_instantiations[0].to_xml)
+    @pbc_instantiation_2 = PBCoreInstantiationPresenter.new(@pbc_instantiations[1].to_xml)
+    @pbc_instantiation_3 = PBCoreInstantiationPresenter.new(@pbc_instantiations[2].to_xml)
+  end
 
 
   describe 'PBCore Instantiations' do
     it 'creates the right number of instantiations' do
-      expect(pbc_instantiations.length).to eq(3)
+      expect(@pbc_instantiations.length).to eq(3)
     end
   end
 
   describe 'PBCore Instantiation' do
     it '#organization' do
-      expect(pbc_instantiation_1.organization).to eq('KQED')
-      expect(pbc_instantiation_2.organization).to eq('Library of Congress')
-      expect(pbc_instantiation_3.organization).to eq('Library of Congress')
+      expect(@pbc_instantiation_1.organization).to eq('KQED')
+      expect(@pbc_instantiation_2.organization).to eq('Library of Congress')
+      expect(@pbc_instantiation_3.organization).to eq('Library of Congress')
     end
 
     it '#identifier' do
-      expect(pbc_instantiation_1.identifier).to eq('KQ61_20253;20253')
-      expect(pbc_instantiation_1.identifier_source).to eq('KQED AAP')
-      expect(pbc_instantiation_2.identifier).to eq('2316780')
-      expect(pbc_instantiation_2.identifier_source).to eq('MAVIS Title Number')
-      expect(pbc_instantiation_3.identifier).to eq('2316780')
-      expect(pbc_instantiation_3.identifier_source).to eq('MAVIS Title Number')
+      expect(@pbc_instantiation_1.identifier).to eq('KQ61_20253;20253')
+      expect(@pbc_instantiation_1.identifier_source).to eq('KQED AAP')
+      expect(@pbc_instantiation_2.identifier).to eq('2316780')
+      expect(@pbc_instantiation_2.identifier_source).to eq('MAVIS Title Number')
+      expect(@pbc_instantiation_3.identifier).to eq('2316780')
+      expect(@pbc_instantiation_3.identifier_source).to eq('MAVIS Title Number')
     end
 
     it '#generations' do
-      expect(pbc_instantiation_1.generations).to eq('Copy')
-      expect(pbc_instantiation_2.generations).to eq('Access Copy')
-      expect(pbc_instantiation_3.generations).to eq('Access Copy')
+      expect(@pbc_instantiation_1.generations).to eq('Copy')
+      expect(@pbc_instantiation_2.generations).to eq('Access Copy')
+      expect(@pbc_instantiation_3.generations).to eq('Access Copy')
     end
 
     it '#colors' do
-      expect(pbc_instantiation_1.colors).to eq(nil)
-      expect(pbc_instantiation_2.colors).to eq('black and white')
-      expect(pbc_instantiation_3.colors).to eq('black and white')
+      expect(@pbc_instantiation_1.colors).to eq(nil)
+      expect(@pbc_instantiation_2.colors).to eq('black and white')
+      expect(@pbc_instantiation_3.colors).to eq('black and white')
     end
 
     it '#annotations' do
-      expect(pbc_instantiation_1.annotations).to eq([])
-      expect(pbc_instantiation_2.annotations).to eq(['Copy 1'])
-      expect(pbc_instantiation_3.annotations).to eq(['Copy 2'])
+      expect(@pbc_instantiation_1.annotations).to eq([])
+      expect(@pbc_instantiation_2.annotations).to eq(['Copy 1'])
+      expect(@pbc_instantiation_3.annotations).to eq(['Copy 2'])
     end
 
     it '#format' do
-      expect(pbc_instantiation_1.format).to eq('Film: 16mm')
-      expect(pbc_instantiation_2.format).to eq(nil)
-      expect(pbc_instantiation_3.format).to eq('mp4')
+      expect(@pbc_instantiation_1.format).to eq('Film: 16mm')
+      expect(@pbc_instantiation_2.format).to eq(nil)
+      expect(@pbc_instantiation_3.format).to eq('mp4')
     end
   end
 end
