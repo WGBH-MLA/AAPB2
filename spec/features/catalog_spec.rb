@@ -66,14 +66,13 @@ describe 'Catalog' do
 
   describe '#index' do
 
-
     before(:all) do
       PBCoreIngester.new.delete_all
       cleaner = Cleaner.instance
 
-      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb)),
+      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, :wgbh_org))
       @private_xml = just_xml(build(:pbcore_description_document, :full_aapb, :access_level_protected))
-      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, :access_level_public))
+      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, :access_level_public, :kqed_org))
       @ingested_records = []
       [@full_xml, @private_xml, @public_xml].each do |xml|
         PBCoreIngester.ingest_record_from_xmlstring(xml)
@@ -107,53 +106,22 @@ describe 'Catalog' do
       expect(page).to have_text('Consider using other search terms or removing filters.'), missing_page_text_custom_error('Consider using other search terms or removing filters.', page.current_path)
     end
 
-    describe 'search constraints' do
-      describe 'title facets' do
-        assertions = [
-          ["f[series_titles][]=#{ @full_record.titles['Program'] }", 1],
-          ["f[program_titles][]=#{ @full_record.titles['Series'] }", 1]
-        ]
-        assertions.each do |(param, count)|
-          url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&#{param}"
-          it "view #{url}" do
-            visit url
-            expect(page.status_code).to eq(200)
-            expect_count(count)
-          end
-        end
-      end
+    it 'can facet by series title' do
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[series_titles][]=#{ @full_record.titles['series'] }"
+      expect(page).to have_text(@full_record.title)
+    end
 
-      describe 'facets' do
-        assertions = [
-          ['media_type', 1, 'Sound', 13],
-          ['genres', 2, 'Interview', 5],
-          ['topics', 1, 'Music', 3],
-          ['asset_type', 1, 'Segment', 9],
-          ['contributing_organizations', 38, 'WGBH+(MA)', 6],
-          ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1]
-        ]
+    it 'can facet by program title' do
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[program_titles][]=#{ @full_record.titles['Program'] }"
+      expect(page).to have_text(@full_record.title)
+    end
 
-      end
+    it 'can facet by program title' do
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[states][]=#{@full_record.states.first}"
+      expect(page).to have_text(@full_record.title)
+    end
 
-      describe 'facets not in sidebar' do
-        describe 'states facet' do
-          assertions = [
-            ['states', 'Michigan', 3]
-          ]
-          assertions.each do |facet, value, value_count|
-            url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
-            it "#{facet}=#{value}: #{value_count}\t#{url}" do
-              visit url
-              expect_count(value_count)
-            end
-          end
-        end
-
-      end
-
-      describe 'facet ORs' do
-
-        it 'works in the UI' do
+    it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
 
           click_link('All Records')
@@ -161,7 +129,7 @@ describe 'Catalog' do
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
           click_link('KQED (CA)')
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
-          expect_count(3)
+          expect_count(1)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
@@ -196,8 +164,20 @@ describe 'Catalog' do
           # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
           # TODO: check count when IP set in request.
           # expect(page).to have_text('You searched for: Access online Remove constraint Access: online 1 - 2 of 2')
-        end
-      end
+    end
+
+      # describe 'facets' do
+      #   assertions = [
+      #     ['media_type', 1, 'Sound', 13],
+      #     ['genres', 2, 'Interview', 5],
+      #     ['topics', 1, 'Music', 3],
+      #     ['asset_type', 1, 'Segment', 9],
+      #     ['contributing_organizations', 38, 'WGBH+(MA)', 6],
+      #     ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1]
+      #   ]
+
+      # end
+
 
       describe 'exhibit facet' do
         describe 'in gallery' do
@@ -221,8 +201,6 @@ describe 'Catalog' do
           expect(page).to have_text('Need Help Searching?'), missing_page_text_custom_error('Need Help Searching?', page.current_path)
         end
       end
-   
-    end
   end
 
   describe '.pbcore' do
