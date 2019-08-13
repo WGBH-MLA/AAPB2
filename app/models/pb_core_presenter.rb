@@ -109,7 +109,8 @@ class PBCorePresenter
     @asset_date ||= @pbcore.asset_dates.first.value if @pbcore.asset_dates.first
   end
   def titles
-    @titles ||= pairs_by_type(@pbcore.titles, :type)
+    # give em a hash
+    @titles ||= @pbcore.titles.inject(Hash.new([])) { |h, a| h[a.type] += [a.value]; h }
   end
   def title
     @title ||= build_display_title
@@ -425,7 +426,7 @@ class PBCorePresenter
 
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
-      'titles' => titles.map(&:last),
+      'titles' => titles.values,
       'contribs' => contribs,
 
       # sort:
@@ -450,13 +451,9 @@ class PBCorePresenter
       # playlist
       'playlist_group' => playlist_group,
       'playlist_order' => playlist_order
-    }.merge(
-      Hash[
-        titles.group_by { |pair| pair[0] }.map do |key, pairs|
-          ["#{key.downcase.tr(' ', '_')}_titles", pairs.map { |pair| pair[1] }]
-        end
-      ]
-    )
+
+      # format keys for solr's pleasure
+    }.merge( titles.inject(Hash.new([])) { |h, a| h["#{a.type.downcase.tr(' ', '_')}_titles"] += [a.value]; h } )
   end
 
   private
@@ -494,15 +491,21 @@ class PBCorePresenter
   end
 
   def build_display_title
-    if titles.map(&:first).count('Series') > 1 && titles.map(&:first).count('Episode Number') > 0 && titles.map(&:first).count('Episode') > 0
-      titles.select { |title_pair| title_pair.first == 'Episode' }.map(&:last).join('; ')
-    elsif titles.map(&:first).count('Episode Number') > 1 && titles.map(&:first).count('Series') == 1 && titles.map(&:first).count('Episode') > 0
-      titles.select { |title_pair| title_pair.first == 'Series' || title_pair.first == 'Episode' }.map(&:last).join('; ')
-    elsif titles.map(&:first).count('Alternative') > 0 && titles.map(&:first).count == titles.map(&:first).count('Alternative')
-      titles.select { |title_pair| title_pair.first == 'Alternative' }.map(&:last).join('; ')
+    titles_by_type = titles
+
+    titles_to_join = if titles_by_type['Series'].count > 1 && titles_by_type['Episode Number'] && titles_by_type['Episode']
+      titles_by_type['Episode']
+    elsif titles_by_type['Episode Number'].count > 1 && titles_by_type['Series'].count == 1 && titles_by_type['Episode']
+      (titles_by_type['Series'] + titles_by_type['Episode'])
+    elsif titles_by_type['Alternative'] && titles_by_type.keys.length == 1
+      titles_by_type['Alternative']
     else
-      titles.select { |title_pair| title_pair.first != 'Alternative' }.map(&:last).join('; ')
+      unalternative = []
+      titles_by_type.each {|type, titles| unalternative += titles if type != 'Alternative' }
+      unalternative
     end
+
+    titles_to_join.sort.join('; ')
   end
 
   def contribs
@@ -521,8 +524,7 @@ class PBCorePresenter
     handle_date_string(date_val, 'index')
   end
 
-
-# These can stay, because they are for manipulating the raw xml for to_solr
+  # These can stay, because they are for manipulating the raw xml for to_solr
   def pre_existing_caption_annotation(doc)
     REXML::XPath.match(doc, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first
   end

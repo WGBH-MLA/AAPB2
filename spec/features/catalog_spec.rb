@@ -2,8 +2,10 @@ require 'rails_helper'
 require 'resolv'
 require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
+require_relative '../../scripts/lib/cleaner'
 require_relative '../support/validation_helper'
 require_relative '../support/feature_test_helper'
+
 
 describe 'Catalog' do
   include ValidationHelper
@@ -66,26 +68,32 @@ describe 'Catalog' do
 
 
     before(:all) do
-      # UHOH create factories and ingest here..
-      # PBCoreIngester.load_fixtures
       PBCoreIngester.new.delete_all
+      cleaner = Cleaner.instance
+
+      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb)),
+      @private_xml = just_xml(build(:pbcore_description_document, :full_aapb, :access_level_protected))
+      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, :access_level_public))
       @ingested_records = []
-      3.times do
-        xml = just_xml(build(:pbcore_description_document, :full_aapb))
-        @ingested_records << PBCorePresenter.new(xml)
+      [@full_xml, @private_xml, @public_xml].each do |xml|
         PBCoreIngester.ingest_record_from_xmlstring(xml)
       end
+
+      @full_record = PBCorePresenter.new(cleaner.clean(@full_xml))
+      @private_record = PBCorePresenter.new(cleaner.clean(@private_xml))
+      @public_record = PBCorePresenter.new(cleaner.clean(@public_xml))
     end
-    
+
+    # dont need records
     it 'has facet messages' do
       visit '/catalog'
       expect(page).to have_text('Cataloging in progress: only half of the records for digitized assets are currently dated.'), missing_page_text_custom_error('Cataloging in progress: only half of the records for digitized assets are currently dated.', page.current_path)
     end
 
+    
+    # do need records
     it 'can find one item' do
-      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=#{@ingested_records.first.id}"
-
-      require('pry');binding.pry
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=id:#{@ingested_records.first.id}"
       expect(page.status_code).to eq(200)
       expect_count(1)
       expect(page).to have_text(@ingested_records.first.title), missing_page_text_custom_error(@ingested_records.first.title, page.current_path)
@@ -102,8 +110,8 @@ describe 'Catalog' do
     describe 'search constraints' do
       describe 'title facets' do
         assertions = [
-          ['f[series_titles][]=Nova', 1],
-          ['f[program_titles][]=Gratuitous+Explosions', 1]
+          ["f[series_titles][]=#{ @full_record.titles['Program'] }", 1],
+          ["f[program_titles][]=#{ @full_record.titles['Series'] }", 1]
         ]
         assertions.each do |(param, count)|
           url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&#{param}"
