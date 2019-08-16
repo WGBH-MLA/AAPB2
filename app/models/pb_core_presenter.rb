@@ -31,7 +31,6 @@ class PBCorePresenter
   attr_accessor :pbcore
 
   delegate :instantiations, to: :pbcore
-  delegate :licensing_info, to: :pbcore
   delegate :special_collections, to: :pbcore
   delegate :instantiations, to: :pbcore
   delegate :identifiers, to: :pbcore
@@ -108,6 +107,9 @@ class PBCorePresenter
   def asset_date
     @asset_date ||= @pbcore.asset_dates.first.value if @pbcore.asset_dates.first
   end
+  def licensing_info
+    @licensing_info ||= annotations_by_type(@pbcore.annotations, 'Licensing Info').join(' ')
+  end
   def titles
     # give em a hash
     @titles ||= @pbcore.titles.inject(Hash.new([])) { |h, a| h[a.type] += [a.value]; h }
@@ -154,7 +156,7 @@ class PBCorePresenter
   end
   CAPTIONS_ANNOTATION = 'Captions URL'.freeze
   def captions_src
-    @captions_src ||= annotations_by_type(@pbcore.annotations, CAPTIONS_ANNOTATION).first.value
+    @captions_src ||= one_annotation_by_type(@pbcore.annotations, CAPTIONS_ANNOTATION)
   end
   TRANSCRIPT_ANNOTATION = 'Transcript URL'.freeze
   def transcript_src
@@ -165,11 +167,15 @@ class PBCorePresenter
     media_type == MOVING_IMAGE && digitized?
   end
 
+  def id_for_s3
+    id.gsub(/cpb-aacip-/, 'cpb-aacip_')
+  end
+
   def img_src(icon_only = false)
     @img_src ||= begin
       url = nil
       if media_type == MOVING_IMAGE && digitized? && !icon_only
-        url = "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
+        url = "#{AAPB::S3_BASE}/thumbnail/#{id_for_s3}.jpg"
       end
 
       unless url

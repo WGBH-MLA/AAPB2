@@ -4,7 +4,8 @@ class PBCoreInstantiationPresenter
     # leaving that as-is, but should probably rethink.
     @instantiation = instantiation
   end
-
+  
+  include AnnotationHelper
   attr_accessor :instantiation
 
   def ==(other)
@@ -53,7 +54,10 @@ class PBCoreInstantiationPresenter
   end
 
   def format
-    @format ||= (@instantiation.digital || @instantiation.physical).value
+    @format ||= begin
+      form = @instantiation.digital || @instantiation.physical
+      form.value if form
+    end
   end
 
   def annotations

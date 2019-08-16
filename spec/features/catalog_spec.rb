@@ -74,9 +74,9 @@ describe 'Catalog' do
       PBCoreIngester.new.delete_all
       cleaner = Cleaner.instance
 
-      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, :wgbh_org_inst, :only_episode_num_titles, access_level_public: true))
-      @private_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_protected: true))
-      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, :kqed_org_inst, access_level_public: true, outside_url: true))
+      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, access_level_public: true, outside_url: true, external_reference_url: true, moving_image: true))
+      @private_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_protected: true, wgbh_org: true, audio: true))
+      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true))
       @ingested_records = []
       [@full_xml, @private_xml, @public_xml].each do |xml|
         PBCoreIngester.ingest_record_from_xmlstring(xml)
@@ -133,7 +133,7 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       expect_count(1)
       expect(page).to have_text(@ingested_records.first.title), missing_page_text_custom_error(@ingested_records.first.title, page.current_path)
-        expect_thumbnail(@ingested_records.first.id)
+        expect_thumbnail(@ingested_records.first.id_for_s3)
     end
 
     it 'can facet by series title' do
@@ -238,24 +238,23 @@ describe 'Catalog' do
     end
 
     it 'has thumbnails if outside_url' do
-      visit "/catalog/#{@public_record.id}"
+      visit "/catalog/#{@full_record.id}"
       # expect_all_the_text('clean-MOCK.xml')
-
-require('pry');binding.pry
-      expect_thumbnail(@public_record.id) # has media, but also has outside_url, which overrides.
+      expect_thumbnail(@full_record.id_for_s3) # has media, but also has outside_url, which overrides.
       expect_no_media
+      # this tests external reference url, not outside_url
       expect_external_reference
     end
 
     it 'has poster otherwise if media' do
       visit "catalog/#{@full_record.id}"
       # expect_all_the_text('clean-every-title-is-episode-number.xml')
-      expect_video(poster: s3_thumb(@full_record.id))
+      expect_video(poster: s3_thumb(@full_record.id_for_s3))
     end
 
     it 'has default poster for audio that ' do
-      visit 'catalog/cpb-aacip_169-9351chfc'
-      expect_all_the_text('clean-audio-digitized.xml')
+      visit "catalog/#{@private_record.id}"
+      # expect_all_the_text('clean-audio-digitized.xml')
       expect_audio(poster: '/thumbs/AUDIO.png')
     end
 
