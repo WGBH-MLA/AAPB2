@@ -453,7 +453,7 @@ class PBCorePresenter
       'playlist_order' => playlist_order
 
       # format keys for solr's pleasure
-    }.merge( titles.inject(Hash.new([])) { |h, a| h["#{a.type.downcase.tr(' ', '_')}_titles"] += [a.value]; h } )
+    }.merge( titles.inject(Hash.new([])) { |h, data| h["#{data.first.downcase.tr(' ', '_')}_titles"] += data[1..-1]; h } )
   end
 
   private

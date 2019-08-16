@@ -64,15 +64,19 @@ describe 'Catalog' do
     expect(page).not_to have_css('.play-from-here')
   end
 
-  describe '#index' do
+  describe 'catalog tests #index' do
+
+    before do
+      page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }
+    end
 
     before(:all) do
       PBCoreIngester.new.delete_all
       cleaner = Cleaner.instance
 
-      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, :wgbh_org))
-      @private_xml = just_xml(build(:pbcore_description_document, :full_aapb, :access_level_protected))
-      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, :access_level_public, :kqed_org))
+      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, :wgbh_org_inst, :only_episode_num_titles, access_level_public: true))
+      @private_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_protected: true))
+      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, :kqed_org_inst, access_level_public: true, outside_url: true))
       @ingested_records = []
       [@full_xml, @private_xml, @public_xml].each do |xml|
         PBCoreIngester.ingest_record_from_xmlstring(xml)
@@ -88,6 +92,39 @@ describe 'Catalog' do
       visit '/catalog'
       expect(page).to have_text('Cataloging in progress: only half of the records for digitized assets are currently dated.'), missing_page_text_custom_error('Cataloging in progress: only half of the records for digitized assets are currently dated.', page.current_path)
     end
+    
+    it 'offers to broaden search' do
+      visit '/catalog?q=xkcd&f[access_types][]=' + PBCorePresenter::PUBLIC_ACCESS
+      expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
+      click_link 'searching all records'
+      expect(page).to have_text('Consider using other search terms or removing filters.'), missing_page_text_custom_error('Consider using other search terms or removing filters.', page.current_path)
+    end
+
+    # I think?
+      # describe 'exhibit facet' do
+      #   describe 'in gallery' do
+          it 'has exhibit breadcrumb' do
+            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
+          end
+        # end
+
+        # describe 'in list' do
+          it 'has exhibit breadcrumb' do
+            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
+          end
+      #   end
+      # end
+
+      # describe 'special collection facet search' do
+        it 'has collection specific search panel' do
+          visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+          expect(page).to have_text('Need Help Searching?'), missing_page_text_custom_error('Need Help Searching?', page.current_path)
+        end
+      # end
+
+
 
     
     # do need records
@@ -97,13 +134,6 @@ describe 'Catalog' do
       expect_count(1)
       expect(page).to have_text(@ingested_records.first.title), missing_page_text_custom_error(@ingested_records.first.title, page.current_path)
         expect_thumbnail(@ingested_records.first.id)
-    end
-
-    it 'offers to broaden search' do
-      visit '/catalog?q=xkcd&f[access_types][]=' + PBCorePresenter::PUBLIC_ACCESS
-      expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
-      click_link 'searching all records'
-      expect(page).to have_text('Consider using other search terms or removing filters.'), missing_page_text_custom_error('Consider using other search terms or removing filters.', page.current_path)
     end
 
     it 'can facet by series title' do
@@ -117,53 +147,49 @@ describe 'Catalog' do
     end
 
     it 'can facet by program title' do
-      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[states][]=#{@full_record.states.first}"
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[states][]=#{ @full_record.states.first }"
       expect(page).to have_text(@full_record.title)
     end
 
     it 'works in the UI' do
-          visit '/catalog?f[access_types][]=online'
+      visit '/catalog?f[access_types][]=online'
 
-          click_link('All Records')
+      click_link('All Records')
 
-          expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
-          click_link('KQED (CA)')
-          expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
-          expect_count(1)
-          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
+      expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
+      click_link('KQED (CA)')
+      expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
+      expect_count(1)
+      expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
+                                'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
 
-          click_link('WGBH (MA)')
-          expect_count(9)
-          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
+      click_link('WGBH (MA)')
+      expect_count(9)
+      expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
+                                'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
 
-          click_link('KQED (CA)')
-          expect_count(6)
-          expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
-                                    'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
+      click_link('KQED (CA)')
+      expect_count(6)
+      expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
+                                'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
+                                'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
 
-          all(:css, '.constraints-container a.remove').first.click # remove access all
-          # If you attempt to remove the access facet, it redirects you to the default,
-          # but the default depends on requestor's IP address.
-          # TODO: set address in request.
-          expect_count(4)
-          expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
+      all(:css, '.constraints-container a.remove').first.click # remove access all
+      # If you attempt to remove the access facet, it redirects you to the default,
+      # but the default depends on requestor's IP address.
+      # TODO: set address in request.
+      expect_count(4)
+      expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
 
-          click_link('Iowa Public Television (IA)')
-          # TODO: check count when IP set in request.
-          expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'), missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
+      click_link('Iowa Public Television (IA)')
+      # TODO: check count when IP set in request.
+      expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'), missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
 
-          expect(page).to have_css('a', text: 'District of Columbia')
-          click_link('District of Columbia')
-          expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'), missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
-
-          # all(:css, '.constraints-container a.remove')[1].click # remove 'WGBH OR IPTV'
-          # TODO: check count when IP set in request.
-          # expect(page).to have_text('You searched for: Access online Remove constraint Access: online 1 - 2 of 2')
+      expect(page).to have_css('a', text: 'District of Columbia')
+      click_link('District of Columbia')
+      expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'), missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
     end
 
       # describe 'facets' do
@@ -178,53 +204,23 @@ describe 'Catalog' do
 
       # end
 
-
-      describe 'exhibit facet' do
-        describe 'in gallery' do
-          it 'has exhibit breadcrumb' do
-            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
-            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
-          end
-        end
-
-        describe 'in list' do
-          it 'has exhibit breadcrumb' do
-            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
-            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
-          end
-        end
+      it 'works' do
+        visit "/catalog/#{@public_record.id}.pbcore"
+        expect(page.status_code).to eq(200)
+        expect(page.source).to eq(@public_record.xml)
+        expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
       end
+    # end
 
-      describe 'special collection facet search' do
-        it 'has collection specific search panel' do
-          visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
-          expect(page).to have_text('Need Help Searching?'), missing_page_text_custom_error('Need Help Searching?', page.current_path)
-        end
+    # describe '.mods' do
+      it 'works' do
+        visit '/catalog/1234.mods'
+        expect(page.status_code).to eq(200)
+        expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.mods'))
+        expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
       end
-  end
+    # end
 
-  describe '.pbcore' do
-    it 'works' do
-      visit '/catalog/1234.pbcore'
-      expect(page.status_code).to eq(200)
-      expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.xml'))
-      expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
-    end
-  end
-
-  describe '.mods' do
-    it 'works' do
-      visit '/catalog/1234.mods'
-      expect(page.status_code).to eq(200)
-      expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.mods'))
-      expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
-    end
-  end
-
-  describe '#show' do
-    before do
-      page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }
-    end
 
     def expect_all_the_text(fixture_name)
       target = PBCorePresenter.new(File.read('spec/fixtures/pbcore/' + fixture_name))
@@ -242,17 +238,19 @@ describe 'Catalog' do
     end
 
     it 'has thumbnails if outside_url' do
-      visit '/catalog/1234'
+      visit "/catalog/#{@public_record.id}"
       # expect_all_the_text('clean-MOCK.xml')
-      expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
+
+require('pry');binding.pry
+      expect_thumbnail(@public_record.id) # has media, but also has outside_url, which overrides.
       expect_no_media
       expect_external_reference
     end
 
     it 'has poster otherwise if media' do
-      visit 'catalog/cpb-aacip_37-16c2fsnr'
-      expect_all_the_text('clean-every-title-is-episode-number.xml')
-      expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
+      visit "catalog/#{@full_record.id}"
+      # expect_all_the_text('clean-every-title-is-episode-number.xml')
+      expect_video(poster: s3_thumb(@full_record.id))
     end
 
     it 'has default poster for audio that ' do
