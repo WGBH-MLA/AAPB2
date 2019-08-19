@@ -74,7 +74,7 @@ describe 'Catalog' do
       PBCoreIngester.new.delete_all
       cleaner = Cleaner.instance
 
-      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, access_level_public: true, outside_url: true, external_reference_url: true, moving_image: true))
+      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, access_level_public: true, outside_url: true, external_reference_url: true, moving_image: true, iowa_org: true))
       @private_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_protected: true, wgbh_org: true, audio: true))
       @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true))
       @ingested_records = []
@@ -129,11 +129,11 @@ describe 'Catalog' do
     
     # do need records
     it 'can find one item' do
-      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=id:#{@ingested_records.first.id}"
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=id:#{@full_record.id}"
       expect(page.status_code).to eq(200)
       expect_count(1)
-      expect(page).to have_text(@ingested_records.first.title), missing_page_text_custom_error(@ingested_records.first.title, page.current_path)
-        expect_thumbnail(@ingested_records.first.id_for_s3)
+      expect(page).to have_text(@full_record.title), missing_page_text_custom_error(@full_record.title, page.current_path)
+        expect_thumbnail(@full_record.id_for_s3)
     end
 
     it 'can facet by series title' do
@@ -155,23 +155,26 @@ describe 'Catalog' do
       visit '/catalog?f[access_types][]=online'
 
       click_link('All Records')
-
       expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
       click_link('KQED (CA)')
       expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
+      
+      # just kqed
       expect_count(1)
       expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                 'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                 'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
 
+      # now both
       click_link('WGBH (MA)')
-      expect_count(9)
+      expect_count(2)
       expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                 'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                 'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
 
       click_link('KQED (CA)')
-      expect_count(6)
+      # now just wgbh
+      expect_count(1)
       expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                 'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                 'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
@@ -180,16 +183,17 @@ describe 'Catalog' do
       # If you attempt to remove the access facet, it redirects you to the default,
       # but the default depends on requestor's IP address.
       # TODO: set address in request.
-      expect_count(4)
+      require('pry');binding.pry
+      expect_count(2)
       expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
 
       click_link('Iowa Public Television (IA)')
       # TODO: check count when IP set in request.
       expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'), missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
 
-      expect(page).to have_css('a', text: 'District of Columbia')
-      click_link('District of Columbia')
-      expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)'), missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA) OR Library of Congress (DC) OR NewsHour Productions (DC)', page.current_path)
+      # expect(page).to have_css('a', text: 'District of Columbia')
+      # click_link('District of Columbia')
+      expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA)', missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA)', page.current_path))
     end
 
       # describe 'facets' do
