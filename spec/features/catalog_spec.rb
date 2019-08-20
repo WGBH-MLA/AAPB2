@@ -105,30 +105,21 @@ describe 'Catalog' do
       expect(page).to have_text('Consider using other search terms or removing filters.'), missing_page_text_custom_error('Consider using other search terms or removing filters.', page.current_path)
     end
 
-    # I think?
-      # describe 'exhibit facet' do
-      #   describe 'in gallery' do
-          it 'has exhibit breadcrumb' do
-            visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
-            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
-          end
-        # end
+    it 'has exhibit breadcrumb' do
+      visit '/catalog?f[exhibits][]=station-histories&view=gallery&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+      expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
+    end
 
-        # describe 'in list' do
-          it 'has exhibit breadcrumb' do
-            visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
-            expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
-          end
-      #   end
-      # end
+    it 'has exhibit breadcrumb' do
+      visit '/catalog?f[exhibits][]=station-histories&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+      expect(page).to have_text('Documenting and Celebrating Public Broadcasting Station Histories'), missing_page_text_custom_error('Documenting and Celebrating Public Broadcasting Station Histories', page.current_path)
+    end
 
-      # describe 'special collection facet search' do
-        it 'has collection specific search panel' do
-          visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
-          expect(page).to have_text('Need Help Searching?'), missing_page_text_custom_error('Need Help Searching?', page.current_path)
-        end
-      # end
-    
+    it 'has collection specific search panel' do
+      visit '/catalog?f[special_collections][]=ken-burns-civil-war&view=list&f[access_types][]=' + PBCorePresenter::ALL_ACCESS
+      expect(page).to have_text('Need Help Searching?'), missing_page_text_custom_error('Need Help Searching?', page.current_path)
+    end
+
     # do need records
     it 'can find one item' do
       visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=id:#{@full_record.id}"
@@ -158,10 +149,11 @@ describe 'Catalog' do
 
       click_link('All Records')
       expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
+
+      # just kqed
       click_link('KQED (CA)')
       expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
       
-      # just kqed
       expect_count(1)
       expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                 'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
@@ -191,32 +183,15 @@ describe 'Catalog' do
       click_link('Iowa Public Television (IA)')
       # TODO: check count when IP set in request.
       expect(page).to have_text('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)'), missing_page_text_custom_error('Contributing Organizations: WGBH (MA) OR Iowa Public Television (IA)', page.current_path)
-
-      # expect(page).to have_css('a', text: 'District of Columbia')
-      # click_link('District of Columbia')
       expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA)')
-      # expect(page).to have_text('WGBH (MA) OR Iowa Public Television (IA)', missing_page_text_custom_error('WGBH (MA) OR Iowa Public Television (IA)', page.current_path))
     end
 
-      # describe 'facets' do
-      #   assertions = [
-      #     ['media_type', 1, 'Sound', 13],
-      #     ['genres', 2, 'Interview', 5],
-      #     ['topics', 1, 'Music', 3],
-      #     ['asset_type', 1, 'Segment', 9],
-      #     ['contributing_organizations', 38, 'WGBH+(MA)', 6],
-      #     ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1]
-      #   ]
-
-      # end
-
-      it 'works' do
-        visit "/catalog/#{@public_record.id}.pbcore"
-        expect(page.status_code).to eq(200)
-        expect(page.source).to eq(@public_record.xml)
-        expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
-      end
-    # end
+    it 'works' do
+      visit "/catalog/#{@public_record.id}.pbcore"
+      expect(page.status_code).to eq(200)
+      expect(page.source).to eq(@public_record.xml)
+      expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
+    end
 
     # TODO: need a new fixture for this?
     # describe '.mods' do
@@ -228,9 +203,8 @@ describe 'Catalog' do
       # end
     # end
 
-
-    def expect_all_the_text(fixture_name)
-      target = PBCorePresenter.new(File.read('spec/fixtures/pbcore/' + fixture_name))
+    def expect_all_the_text(target)
+      # target = PBCorePresenter.new(File.read('spec/fixtures/pbcore/' + fixture_name))
       # This text from the PBCore model is included in to_solr for
       # search purposes, but excluded from view.
       text_ignores = [target.ids].flatten
@@ -240,13 +214,15 @@ describe 'Catalog' do
       target.send(:text).each do |field|
         field.gsub!('cpb-aacip_', 'cpb-aacip/') if field =~ /^cpb-aacip/ # TODO: Remove when we sort out ID handling.
         next if text_ignores.include?(field)
-        expect(page).to have_text(field)
+
+        # just for data generated by fixtures
+        expect(page).to have_text(field.gsub(/[\s\n]+/, ' '))
       end
     end
 
     it 'has thumbnails if outside_url' do
       visit "/catalog/#{@full_record.id}"
-      # expect_all_the_text('clean-MOCK.xml')
+      # expect_all_the_text(@full_record)
       expect_thumbnail(@full_record.id_for_s3) # has media, but also has outside_url, which overrides.
       expect_no_media
       # this tests external reference url, not outside_url
@@ -420,9 +396,7 @@ describe 'Catalog' do
       visit "catalog/#{@playlist_3_record.id}"
       expect(page).to have_css('div#playlist')
         expect(page).to have_text('Part 2'), missing_page_text_custom_error('Part 2', page.current_path)
-      # expect(page).not_to have_text('Part 4'), found_page_text_custom_error('Part 4', page.current_path)
     end
-    # end
   end  
 
 end
