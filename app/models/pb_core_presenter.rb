@@ -224,7 +224,7 @@ class PBCorePresenter
   def outside_url
     @outside_url ||= begin
       url_anno = annotations_by_type(@pbcore.annotations, 'Outside URL')
-      raise('If there is an Outside URL, the record must be explicitly public') unless public?
+      raise("If there is an Outside URL, the record must be explicitly public -- #{id} #{access_level}") unless public?
       url_anno.present? ? url_anno.first.value : nil
     end
   end
