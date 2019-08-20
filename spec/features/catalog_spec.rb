@@ -73,10 +73,10 @@ describe 'Catalog' do
       cleaner = Cleaner.instance
 
       @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, outside_url: true, external_reference_url: true, moving_image: true, iowa_org: true))
-      @onloc_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, :in_special_collection, access_level_protected: true, wgbh_org: true, audio: true))
+      @onloc_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, :in_special_collection, access_level_protected: true, wgbh_org: true))
 
       # uses real guid to work with special collections, transcripts, etc
-      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true, has_transcript: true))
+      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, has_transcript: true, audio: true))
       @non_digi_xml = just_xml(build(:pbcore_description_document, :full_aapb, :not_digitized))
       @ingested_records = []
       [@full_xml, @onloc_xml, @public_xml, @non_digi_xml].each do |xml|
@@ -253,12 +253,11 @@ describe 'Catalog' do
     it 'has poster otherwise if media' do
       visit "catalog/#{@onloc_record.id}"
       # expect_all_the_text('clean-every-title-is-episode-number.xml')
-require('pry');binding.pry
       expect_video(poster: s3_thumb(@onloc_record.id_for_s3))
     end
 
-    it 'has default poster for audio that ' do
-      visit "catalog/#{@onloc_record.id}"
+    it 'has default poster for audio only' do
+      visit "catalog/#{@public_record.id}"
       # expect_all_the_text('clean-audio-digitized.xml')
       expect_audio(poster: '/thumbs/AUDIO.png')
     end
@@ -281,6 +280,7 @@ require('pry');binding.pry
     it 'has a transcript if expected' do
       # this ID is set manually in @onloc_record
       visit '/catalog/cpb-aacip_111-21ghx7d6'
+      require('pry');binding.pry
       expect_transcript
     end
 
@@ -315,7 +315,6 @@ require('pry');binding.pry
       ENV.delete('RAILS_TEST_IP_ADDRESS')
       expect(page).to have_text('Online Reading Room Rules of Use'), missing_page_text_custom_error('Online Reading Room Rules of Use', page.current_path)
     end
-
 
     it 'should not have #playlist when not in playlist' do
       visit 'catalog/cpb-aacip_111- '
@@ -402,22 +401,23 @@ require('pry');binding.pry
     end
 
     it 'has both playlist navigation options when applicable' do
-      visit "catalog/#{@playlist_1_record.id}"
+      visit "catalog/#{@playlist_2_record.id}"
       expect(page).to have_css('div#playlist')
-      expect(page).to have_text('Part 2'), missing_page_text_custom_error('Part 2', page.current_path)
+      expect(page).to have_text('Part 3'), missing_page_text_custom_error('Part 3', page.current_path)
+      expect(page).to have_text('Part 1'), missing_page_text_custom_error('Part 1', page.current_path)
     end
 
     it 'has next playlist navigation option when first item in playlist' do
-      visit "catalog/#{@playlist_2_record.id}"
+      visit "catalog/#{@playlist_1_record.id}"
       expect(page).to have_css('div#playlist')
       expect(page).not_to have_text('Part 1')
-      expect(page).to have_text('Part 3')
+      expect(page).to have_text('Part 2')
     end
 
     it 'has previous playlist navigation option when last item in playlist' do
       visit "catalog/#{@playlist_3_record.id}"
       expect(page).to have_css('div#playlist')
-      expect(page).to have_text('Part 3'), missing_page_text_custom_error('Part 3', page.current_path)
+        expect(page).to have_text('Part 2'), missing_page_text_custom_error('Part 2', page.current_path)
       # expect(page).not_to have_text('Part 4'), found_page_text_custom_error('Part 4', page.current_path)
     end
     # end
