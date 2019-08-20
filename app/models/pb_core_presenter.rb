@@ -88,7 +88,7 @@ class PBCorePresenter
     @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }
   end
   def producing_organizations_facet
-    @producing_organizations_facet ||= producing_organizations unless producing_organizations.empty?
+    @producing_organizations_facet ||= producing_organizations.map(&:name) unless producing_organizations.empty?
   end
 
   def instantiations_display
@@ -146,7 +146,7 @@ class PBCorePresenter
     end
   end
   def ci_ids
-    @ci_ids ||= identifiers.select { |id| id.source == SONY_CI }
+    @ci_ids ||= identifiers.select { |id| id.source == SONY_CI }.map(&:value)
   end
   def display_ids
     @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
@@ -296,10 +296,8 @@ class PBCorePresenter
     media_type == SOUND
   end
   def duration
-    @duration ||= begin
-      tracks = instantiations.map(&:essence_tracks).flatten.map(&:duration)
-      tracks.first.value if tracks.first
-    end
+
+    @duration ||= instantiations.find {|i| break i.duration.value if i.duration }
   end
   def player_aspect_ratio
     @player_aspect_ratio ||= begin
@@ -434,7 +432,7 @@ class PBCorePresenter
 
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
-      'titles' => titles.values,
+      'titles' => titles.values.flatten,
       'contribs' => contribs,
 
       # sort:
@@ -461,7 +459,7 @@ class PBCorePresenter
       'playlist_order' => playlist_order
 
       # format keys for solr's pleasure
-    }.merge( titles.inject(Hash.new([])) { |h, data| h["#{data.first.downcase.tr(' ', '_')}_titles"] += data[1..-1]; h } )
+    }.merge( titles.inject(Hash.new([])) { |h, data| h["#{data.first.downcase.tr(' ', '_')}_titles"] += data[1]; h } )
   end
 
   private

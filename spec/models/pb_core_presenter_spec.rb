@@ -253,7 +253,8 @@ describe 'Validated and plain PBCore' do
       
       # TODO: decide whether or not to keep clean-MOCK.xml fixture for these gsub tests
       it 'rejects missing closing brace' do
-        invalid_pbcore = @pbc_xml.sub(/>\s*$/, '')
+        cleaner = Cleaner.instance
+        invalid_pbcore = cleaner.clean(@pbc_xml).sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/missing tag start/))
       end
@@ -341,14 +342,18 @@ describe 'Validated and plain PBCore' do
     context 'PBCorePresenter Methods' do
 
       before(:all) do
-        @pbc = PBCorePresenter.new(@pbc_xml)
+        cleaner = Cleaner.instance
+        @pbc = PBCorePresenter.new(cleaner.clean(@pbc_xml))
       end
 
       describe '.to_solr' do
         it 'constructs values for solr_document from pbcore xml' do
+
+          # allowing this duplication so its clear that this xml needs to be cleaned as part of ingest process, rather than coming straight out of the pbcore gem
+          cleaner = Cleaner.instance
           expect(@pbc.to_solr).to eq(
             'id' => '1234',
-            'xml' => @pbc_xml,
+            'xml' => cleaner.clean(@pbc_xml),
             'episode_number_titles' => ['3-2-1'],
             'episode_titles' => ['Kaboom!'],
             'program_titles' => ['Gratuitous Explosions'],
@@ -357,8 +362,8 @@ describe 'Validated and plain PBCore' do
             'text' => [
               '1234', '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
             'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
-            'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
-            'contribs' => %w(Larry WGBH Stooges Stooges Curly Stooges Moe Stooges),
+            'title' => '3-2-1; Gratuitous Explosions; Kaboom!; Nova',
+            'contribs' => %w(Larry Stooges WGBH Stooges Curly Stooges Moe Stooges),
             'year' => '2000',
             'exhibits' => [],
             'media_type' => 'Moving Image',
@@ -367,7 +372,7 @@ describe 'Validated and plain PBCore' do
             'asset_type' => 'Album',
             'contributing_organizations' => ['WGBH (MA)'],
             'playlist_group' => nil,
-            'playlist_order' => 0,
+            'playlist_order' => nil,
             'producing_organizations' => ['WGBH'],
             'states' => ['Massachusetts'],
             'access_types' => [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
@@ -402,29 +407,19 @@ describe 'Validated and plain PBCore' do
 
       describe '.titles' do
         it 'returns the titles from the pbcore xml' do
-          expect(@pbc.titles).to eq([%w(Series Nova), ['Program', 'Gratuitous Explosions'], ['Episode Number', '3-2-1'], ['Episode', 'Kaboom!']])
+          expect(@pbc.titles).to eq({'Series' => ['Nova'], 'Program' => ['Gratuitous Explosions'], 'Episode Number' => ['3-2-1'], 'Episode' => ['Kaboom!']})
         end
       end
 
       describe '.title' do
         it 'returns the title from the pbcore xml' do
-          expect(@pbc.title).to eq('Nova; Gratuitous Explosions; 3-2-1; Kaboom!')
+          expect(@pbc.title).to eq('3-2-1; Gratuitous Explosions; Kaboom!; Nova')
         end
       end
 
       describe '.descriptions' do
         it 'returns the descriptions from the pbcore xml' do
           expect(@pbc.descriptions).to eq(['Best episode ever!'])
-        end
-      end
-
-      describe '.instantiations' do
-        it 'returns the instantiations from the pbcore xml' do
-          expect(@pbc.instantiations).to eq([
-            PBCoreInstantiation.new('Moving Image', 'should be ignored!'),
-            PBCoreInstantiation.new('Moving Image', '1:23:45'),
-            PBCoreInstantiation.new('Moving Image', 'should be ignored!')
-          ])
         end
       end
 
@@ -895,11 +890,11 @@ describe 'Validated and plain PBCore' do
 
     describe '.build_display_title' do
       it 'uses only episode titles if there are more than one series title' do
-        expect(pbc_multiple_series_with_episodes.title).to eq('Writers Writing; Readers Reading')
+        expect(pbc_multiple_series_with_episodes.title).to eq('Readers Reading; Writers Writing')
       end
 
       it 'uses only the series and episode titles if there are multiple episode numbers and only one series title' do
-        expect(pbc_multiple_episodes_one_series.title).to eq('Writers Forum II; Writers Writing Again; Readers Reading Again')
+        expect(pbc_multiple_episodes_one_series.title).to eq('Readers Reading Again; Writers Forum II; Writers Writing Again')
       end
 
       it 'uses Alternative title if no other titles are present' do
