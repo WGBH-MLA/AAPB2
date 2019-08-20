@@ -253,8 +253,7 @@ describe 'Validated and plain PBCore' do
       
       # TODO: decide whether or not to keep clean-MOCK.xml fixture for these gsub tests
       it 'rejects missing closing brace' do
-        cleaner = Cleaner.instance
-        invalid_pbcore = cleaner.clean(@pbc_xml).sub(/>\s*$/, '')
+        invalid_pbcore = @pbc_xml.sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
           raise_error(/missing tag start/))
       end
