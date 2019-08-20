@@ -10,11 +10,11 @@
         <div class="gallery-thumbnail">
           <a href="/special_collections/<%= coll.path %>">
             <img src="<%= coll.thumbnail_url %>" alt="<%= coll.title %>" aria-hidden="true">
-            <h2 class="index-title bg-color-<%= ['purple','pink','red'].sample %>">
-              <a href="/special_collections/<%= coll.path %>"><%= coll.title %></a>
-            </h2>
           </a>
         </div>
+        <h2 class="index-title">
+          <a href="/special_collections/<%= coll.path %>"><%= coll.title %></a>
+        </h2>
       </div>
     <% end %>
   </div>
