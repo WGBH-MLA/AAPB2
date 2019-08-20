@@ -73,13 +73,15 @@ describe 'Catalog' do
       cleaner = Cleaner.instance
 
       @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, outside_url: true, external_reference_url: true, moving_image: true, iowa_org: true))
-      @onloc_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, :in_special_collection, access_level_protected: true, wgbh_org: true))
 
       # uses real guid to work with special collections, transcripts, etc
-      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, has_transcript: true, audio: true))
+      @onloc_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, :in_special_collection, has_transcript: true, access_level_protected: true, wgbh_org: true))
+
+      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, audio: true))
       @non_digi_xml = just_xml(build(:pbcore_description_document, :full_aapb, :not_digitized))
       @ingested_records = []
-      [@full_xml, @onloc_xml, @public_xml, @non_digi_xml].each do |xml|
+      @audio_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, audio: true))
+      [@full_xml, @onloc_xml, @public_xml, @non_digi_xml, @audio_xml].each do |xml|
         PBCoreIngester.ingest_record_from_xmlstring(xml)
       end
 
@@ -87,6 +89,7 @@ describe 'Catalog' do
       @onloc_record = PBCorePresenter.new(cleaner.clean(@onloc_xml))
       @public_record = PBCorePresenter.new(cleaner.clean(@public_xml))
       @non_digi_record = PBCorePresenter.new(cleaner.clean(@non_digi_xml))
+      @audio_record = PBCorePresenter.new(cleaner.clean(@audio_xml))
     end
 
     # dont need records
@@ -257,7 +260,7 @@ describe 'Catalog' do
     end
 
     it 'has default poster for audio only' do
-      visit "catalog/#{@public_record.id}"
+      visit "catalog/#{@audio_record.id}"
       # expect_all_the_text('clean-audio-digitized.xml')
       expect_audio(poster: '/thumbs/AUDIO.png')
     end
@@ -280,7 +283,6 @@ describe 'Catalog' do
     it 'has a transcript if expected' do
       # this ID is set manually in @onloc_record
       visit '/catalog/cpb-aacip_111-21ghx7d6'
-      require('pry');binding.pry
       expect_transcript
     end
 
@@ -317,7 +319,7 @@ describe 'Catalog' do
     end
 
     it 'should not have #playlist when not in playlist' do
-      visit 'catalog/cpb-aacip_111- '
+      visit "/catalog/#{@public_record.id}"
       expect(page).not_to have_css('div#playlist')
     end
   end
