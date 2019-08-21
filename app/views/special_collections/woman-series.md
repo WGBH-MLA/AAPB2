@@ -32,9 +32,10 @@ The <em>Woman</em> Series was contributed to the American Archive of Public Broa
 
 ## Help
 
-Research is ongoing to determine whether the 197 episodes preserved in the AAPB represent the complete <em>Woman</em> series. Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Research is ongoing to determine whether the 197 episodes preserved in the AAPB represent the complete <em>Woman</em> series. Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
-A few of the recordings in the collection consist of segments from multiple programs, and one recording in the collection is a 1976 proposal video for the next season. Two of the episodes in the collection are not available in the Online Reading Room and are only available for research on location at WGBH and the Library of Congress. 
+A few of the recordings in the collection consist of segments from multiple programs, and one recording in the collection is a 1976 proposal video for the next season. Two of the episodes in the collection are not available in the Online Reading Room and are only available for research on location at WGBH and the Library of Congress.
 
 ## Terms
 
+## Sort
