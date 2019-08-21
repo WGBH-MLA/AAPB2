@@ -54,11 +54,17 @@ class PBCorePresenter
   end
 
   def people_data(people, type)
-    people.map {|peep| PBCoreNameRoleAffiliation.new(peep.send(type).value, peep.role.value, peep.send(type).affiliation) }
+    people.map do |peep|
+      role = peep.role.value if peep.role
+      peep_obj = peep.send(type)
+      name = peep_obj.value if peep_obj
+      affiliation = peep_obj.affiliation if peep_obj
+      PBCoreNameRoleAffiliation.new(name, role, affiliation)
+    end
   end
   
   def descriptions
-    @descriptions ||= @pbcore.descriptions.map { |description| HtmlScrubber.scrub(description.value) }
+    @descriptions ||= @pbcore.descriptions.map { |description| HtmlScrubber.scrub(description.value) if description.value }
   end
   def genres
     @genres ||= @pbcore.genres.select {|genre| genre.annotation == 'genre'}.map(&:value)
