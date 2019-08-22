@@ -491,7 +491,10 @@ class PBCorePresenter
       :xml, :xml=, :pbcore=, :asset_types, :identifiers, :pbcore
     ]
 
-    @text ||= (PBCorePresenter.instance_methods(false) - ignores)
+    @text ||= begin
+      
+      
+ x=(PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/  } # skip booleans
               .map { |method| send(method) } # method -> value
               .flatten # flattens list accessors
@@ -499,7 +502,11 @@ class PBCorePresenter
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
               .flatten
               .map { |x| x.respond_to?(:value) ? x.value : x } # get values from pbcore gem elements
-              .uniq.compact.sort
+              .uniq.compact
+              require('pry');binding.pry if x.any? {|g| g.is_a?(Symbol)}
+
+              x.sort
+            end
   end
 
   def build_display_title
