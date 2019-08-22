@@ -38,3 +38,5 @@ Records are described at an item level and all records contain brief description
 ## Terms
 
 ## Sort
+
+asset_date+asc

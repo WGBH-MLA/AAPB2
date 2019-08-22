@@ -39,3 +39,5 @@ A few of the recordings in the collection consist of segments from multiple prog
 ## Terms
 
 ## Sort
+
+asset_date+asc

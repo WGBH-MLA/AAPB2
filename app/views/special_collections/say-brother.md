@@ -39,3 +39,4 @@ Records are described at an item level, and searches by date, year or topic will
 
 ## Sort
 
+asset_date+asc

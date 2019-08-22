@@ -40,3 +40,5 @@ Records are described at an item level, and most records for digitized items hav
 ## Terms
 
 ## Sort
+
+asset_date+asc
