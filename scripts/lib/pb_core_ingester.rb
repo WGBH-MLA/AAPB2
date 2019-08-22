@@ -83,7 +83,6 @@ class PBCoreIngester
         ingest_xml_no_commit(cleaner.clean(xml))
         @success_count += 1
       rescue => e
-        require('pry');binding.pry
         record_error(e, path)
       end
     else      

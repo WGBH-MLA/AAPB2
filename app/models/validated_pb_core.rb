@@ -8,7 +8,7 @@ class ValidatedPBCore < PBCorePresenter
   def initialize(xml)
     super(xml)
     schema_validate(xml)
-    # method_validate
+    method_validate
   end
 
   private
@@ -21,20 +21,20 @@ class ValidatedPBCore < PBCorePresenter
   end
 
   # Already handled in pb_core_spec... no need to exclude all the special cases/helper methods here a second time
-  # def method_validate
-  #   # Warm the object and check for missing data, beyond what the schema enforces.
-  #   # Don't like excluding :transcript_content here, but Rails.logger isn't available during ingest for CaptionConverter.parse_srt
-  #   errors = []
-  #   (PBCorePresenter.instance_methods(false) - [:to_solr, :transcript_content, :exhibits]).each do |method|
-  #     begin
+  def method_validate
+    # Warm the object and check for missing data, beyond what the schema enforces.
+    # Don't like excluding :transcript_content here, but Rails.logger isn't available during ingest for CaptionConverter.parse_srt
+    errors = []
+    (PBCorePresenter.instance_methods(false) - [:to_solr, :transcript_content, :exhibits]).each do |method|
+      begin
 
-  #       send(method)
-  #     rescue => e
-  #       errors << (["'##{method}' failed: #{e.message}"] + e.backtrace[0..2]).join("\n")
-  #     end
-  #   end
+        send(method)
+      rescue => e
+        errors << (["'##{method}' failed: #{e.message}"] + e.backtrace[0..2]).join("\n")
+      end
+    end
 
-  #   return if errors.empty?
-  #   raise 'Method validation errors: ' + errors.join("\n")
-  # end
+    return if errors.empty?
+    raise 'Method validation errors: ' + errors.join("\n")
+  end
 end
