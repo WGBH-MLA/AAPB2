@@ -482,10 +482,10 @@ class PBCorePresenter
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
-      :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,  :contributing_organization_objects,
+      :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
       # helpers
-      :pairs_by_type, :annotations_by_type, :one_annotation_by_type, :people_data, :title_html, :all_parties, :instantiations, :special_collections, :identifiers, :asset_types, :annotations,
+      :pairs_by_type, :annotations_by_type, :one_annotation_by_type, :people_data, :title_html, :all_parties, :instantiations, :asset_types, :annotations,
       # duh
       :xml, :xml=, :pbcore=, :asset_types, :identifiers, :pbcore
     ]
