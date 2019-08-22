@@ -1,12 +1,13 @@
 class PBCoreInstantiationPresenter
-  def initialize(instantiation)
+  def initialize(instantiation_xml)
     # Not sure why we're using conditional logic on duration, so
     # leaving that as-is, but should probably rethink.
-    @instantiation = instantiation
+    @instantiation = PBCore::Instantiation.parse(instantiation_xml)
   end
   
   include AnnotationHelper
   attr_accessor :instantiation
+
 
   def ==(other)
     self.class == other.class &&
@@ -61,7 +62,7 @@ class PBCoreInstantiationPresenter
   end
 
   def annotations
-    @annotations ||= multiple_optional('instantiationAnnotation').reject { |e| e if e.attributes.values.map(&:value).include?('organization') }.map(&:text)
+    @annotations ||= @instantiation.annotations.select { |e| e.type != 'organization' }.map(&:value)
   end
 
   def display_text_fields

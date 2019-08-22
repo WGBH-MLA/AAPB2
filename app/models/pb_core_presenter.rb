@@ -32,7 +32,6 @@ class PBCorePresenter
 
   delegate :instantiations, to: :pbcore
   delegate :special_collections, to: :pbcore
-  delegate :instantiations, to: :pbcore
   delegate :identifiers, to: :pbcore
   delegate :asset_types, to: :pbcore
   delegate :annotations, to: :pbcore
@@ -99,7 +98,7 @@ class PBCorePresenter
 
   def instantiations_display
     # @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? {|a| a.value == 'American Archive of Public Broadcasting'}  }
-    @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? {|a| a.value == 'American Archive of Public Broadcasting'}  }.map { |i| PBCoreInstantiationPresenter.new(i) }
+    @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? {|a| a.value == 'American Archive of Public Broadcasting'}  }.map { |i| PBCoreInstantiationPresenter.new(i.to_xml) }
   end
   def rights_summaries
     @rights_summaries ||= @pbcore.rights_summaries.map { |rights| rights.rights_summary.value if rights.rights_summary }
@@ -483,18 +482,15 @@ class PBCorePresenter
       :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
-      :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
+      :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,  :contributing_organization_objects,
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
       # helpers
-      :pairs_by_type, :annotations_by_type, :one_annotation_by_type, :people_data,
+      :pairs_by_type, :annotations_by_type, :one_annotation_by_type, :people_data, :title_html, :all_parties, :instantiations, :special_collections, :identifiers, :asset_types, :annotations,
       # duh
       :xml, :xml=, :pbcore=, :asset_types, :identifiers, :pbcore
     ]
 
-    @text ||= begin
-      
-      
- x=(PBCorePresenter.instance_methods(false) - ignores)
+    @text ||= (PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/  } # skip booleans
               .map { |method| send(method) } # method -> value
               .flatten # flattens list accessors
@@ -502,11 +498,7 @@ class PBCorePresenter
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
               .flatten
               .map { |x| x.respond_to?(:value) ? x.value : x } # get values from pbcore gem elements
-              .uniq.compact
-              require('pry');binding.pry if x.any? {|g| g.is_a?(Symbol)}
-
-              x.sort
-            end
+              .uniq.compact.sort
   end
 
   def build_display_title

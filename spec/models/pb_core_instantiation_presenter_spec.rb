@@ -29,9 +29,9 @@ describe PBCoreInstantiationPresenter do
       ],
 
       instantiations: [
-        build(:pbcore_instantiation, 
+        build(:pbcore_instantiation, :physical,
           identifiers: [
-            build(:pbcore_instantiation_identifier, source: 'foo', value: 'ABC')
+            build(:pbcore_instantiation_identifier, source: 'KQED AAP', value: 'KQ61_20253;20253')
           ],
 
           dates: [
@@ -42,14 +42,21 @@ describe PBCoreInstantiationPresenter do
             build(:pbcore_instantiation_generations, value: 'Copy'),
           ],
 
+          annotations: [
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'KQED'),
+          ],
+
+          # explicit because default inst factory adds colors
+          colors: nil,
+
           location: build(:pbcore_instantiation_location, value: 'my closet'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
 
         ),
         
-        build(:pbcore_instantiation, 
+        build(:pbcore_instantiation,
           identifiers: [
-            build(:pbcore_instantiation_identifier, source: 'foo', value: 'XYZ')
+            build(:pbcore_instantiation_identifier, source: 'MAVIS Title Number', value: '2316780')
           ],
 
           dates: [
@@ -57,7 +64,8 @@ describe PBCoreInstantiationPresenter do
           ],
 
           annotations: [
-            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Copy 1'),
+            build(:pbcore_instantiation_annotation, value: 'Copy 1'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress'),
           ],
 
           generations: [
@@ -71,9 +79,9 @@ describe PBCoreInstantiationPresenter do
 
         ),
 
-        build(:pbcore_instantiation, 
+        build(:pbcore_instantiation, :digital,
           identifiers: [
-            build(:pbcore_instantiation_identifier, source: 'foo', value: 'PQR')
+            build(:pbcore_instantiation_identifier, source: 'MAVIS Title Number', value: '2316780')
           ],
 
           dates: [
@@ -81,16 +89,15 @@ describe PBCoreInstantiationPresenter do
           ],
 
           annotations: [
-            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Copy 2'),
+            build(:pbcore_instantiation_annotation, value: 'Copy 2'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress'),
           ],
 
           generations: [
             build(:pbcore_instantiation_generations, value: 'Access Copy'),
           ],
 
-          colors: [
-            build(:pbcore_instantiation_colors, value: 'black and white'),
-          ],
+          colors:build(:pbcore_instantiation_colors, value: 'black and white'),
 
           location: build(:pbcore_instantiation_location, value: 'my closet'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
@@ -100,7 +107,6 @@ describe PBCoreInstantiationPresenter do
 
       annotations: [
         build(:pbcore_annotation, type: "MAVIS Number", value: "2316780"),
-        build(:pbcore_annotation, type: "organization", value: "Library of Congress"),
         build(:pbcore_annotation, type: "last_modified", value: "2018-04-11 12:07:28"),
         build(:pbcore_annotation, type: "organization", value: "KQED"),
       ]
