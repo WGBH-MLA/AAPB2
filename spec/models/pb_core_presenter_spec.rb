@@ -250,6 +250,10 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'invalid docs' do
+
+      before(:all) do
+        @pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
+      end
       
       # TODO: decide whether or not to keep clean-MOCK.xml fixture for these gsub tests
       it 'rejects missing closing brace' do
