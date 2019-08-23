@@ -25,7 +25,7 @@ class ValidatedPBCore < PBCorePresenter
     # Warm the object and check for missing data, beyond what the schema enforces.
     # Don't like excluding :transcript_content here, but Rails.logger isn't available during ingest for CaptionConverter.parse_srt
     errors = []
-    (PBCorePresenter.instance_methods(false) - [:to_solr, :transcript_content, :exhibits]).each do |method|
+    (PBCorePresenter.instance_methods(false) - [:to_solr, :transcript_content, :exhibits, :xml=, :pbcore=, :pairs_by_type, :people_data]).each do |method|
       begin
 
         send(method)

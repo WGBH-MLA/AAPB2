@@ -63,7 +63,7 @@ class PBCorePresenter
   end
   
   def descriptions
-    @descriptions ||= @pbcore.descriptions.map { |description| HtmlScrubber.scrub(description.value) if description.value }
+    @descriptions ||= @pbcore.descriptions.map { |description| HtmlScrubber.scrub(description.value).gsub(/[\s\n]+/, ' ').strip if description.value }
   end
   def genres
     @genres ||= @pbcore.genres.select {|genre| genre.annotation == 'genre'}.map(&:value)
@@ -271,7 +271,7 @@ class PBCorePresenter
   CORRECTING_TRANSCRIPT = 'Correcting'.freeze
   UNCORRECTED_TRANSCRIPT = 'Uncorrected'.freeze
   def transcript_status
-    @transcript_status ||= annotations_by_type(@pbcore.annotations, 'Transcript Status').first.value
+    @transcript_status ||= one_annotation_by_type(@pbcore.annotations, 'Transcript Status')
   end
   def transcript_content
     return nil unless transcript_src

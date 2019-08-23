@@ -1,7 +1,7 @@
 <dd class="contributors">
   <dl>
     <% @pbcore.all_parties.each do |party| %>
-      <b><%= party.role %>:</b> <%= party.name %><br>
+      <b><%= party.role %>:</b> <%= party.name %> (<%= party.affiliation %>)<br>
     <% end %>
   </dl>
 </dd>
