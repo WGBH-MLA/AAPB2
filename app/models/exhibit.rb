@@ -192,7 +192,7 @@ class Exhibit < Cmless
 
         <div class=''>
           <a href='#{section_uri}'>
-            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
+            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/timeline_button_grey.png' class='icon-med' style='top: -2px; position: relative;'>
             Timeline
           </a>
         </div>
