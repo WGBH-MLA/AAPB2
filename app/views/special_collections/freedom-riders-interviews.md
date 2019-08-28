@@ -25,7 +25,7 @@ The <em>Freedom Riders</em> interviews were conducted in 2011 for the <em>Americ
 
 - [<em>Voices from the Southern Civil Rights Movement</em> Exhibit](http://americanarchive.org/exhibits/civil-rights)
 - [<em>Eyes on the Prize</em> Interviews Collection](http://americanarchive.org/special_collections/eotp-i-interviews)
-- [<em>Freedom Riders</em> Documentary Website](http://www.pbs.org/wgbh/americanexperience/films/freedomriders/) 
+- [<em>Freedom Riders</em> Documentary Website](http://www.pbs.org/wgbh/americanexperience/films/freedomriders/)
 - [Freedom Rides, Civil Rights History Project, Library of Congress](https://www.loc.gov/collections/civil-rights-history-project/?fa=subject%3Afreedom+rides)
 - [The Civil Rights Act of 1964: A Long Struggle for Freedom](https://www.loc.gov/exhibits/civil-rights-act/index.html)
 
@@ -33,9 +33,12 @@ The <em>Freedom Riders</em> interviews were conducted in 2011 for the <em>Americ
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
 Several of the recordings in the collection are multi-part conversations with a single interviewee.
 
 ## Terms
+
+## Timeline
+
 

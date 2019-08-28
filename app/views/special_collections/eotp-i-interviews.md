@@ -36,3 +36,6 @@ Founded in 1968 by filmmaker Henry Hampton (1940-1998), Blackside, Inc. has prod
 Records are described at an item level, and all records contain brief descriptions of topics discussed during the interview. Complete text transcripts exist for all of the interviews, available to view alongside the media record. Users may navigate from the transcript to the corresponding section in the media record by clicking on the small purple ‘play’ buttons that appear on the left side of the text. To identify persons or topics of interest within the collection, users can search by interviewee name or by keyword.
 
 ## Terms
+
+## Timeline
+

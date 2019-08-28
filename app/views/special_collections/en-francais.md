@@ -11,7 +11,7 @@ The En Français Collection consists of 223 episodes (1980-1993) of the only ori
 
 ## Background
 
-In 2018, LPB received a <em>Recordings at Risk</em> grant from the Council on Library and Information Resources (CLIR) to preserve the first six seasons of <em>En Français</em>.  LPB had previously digitized the last eight seasons of the series in 2014.  The series is freely available for streaming on LPB’s <em>Louisiana Digital Media Archive</em>.  Updated metadata and links to the LDMA records were submitted to the AAPB Online Reading Room in 2019.  
+In 2018, LPB received a <em>Recordings at Risk</em> grant from the Council on Library and Information Resources (CLIR) to preserve the first six seasons of <em>En Français</em>.  LPB had previously digitized the last eight seasons of the series in 2014.  The series is freely available for streaming on LPB’s <em>Louisiana Digital Media Archive</em>.  Updated metadata and links to the LDMA records were submitted to the AAPB Online Reading Room in 2019.
 
 The <em>Recordings at Risk</em> grant program is made possible by funding from the Andrew W. Mellon Foundation.  It supports the preservation of rare and unique audio and audiovisual content of high scholarly value.
 
@@ -28,13 +28,16 @@ The <em>Recordings at Risk</em> grant program is made possible by funding from t
 
 - [Louisiana Public Broadcasting](https://www.lpb.org/)
 - [Louisiana Digital Media Archive](http://ladigitalmedia.org/)
-- [Council for the Development of French in Louisiana](https://www.crt.state.la.us/cultural-development/codofil/index) 
+- [Council for the Development of French in Louisiana](https://www.crt.state.la.us/cultural-development/codofil/index)
 - [Louisiana Digital Library](http://louisianadigitallibrary.org/)
 
 ## Funders
 - [![Council on Library and Information Resources](https://s3.amazonaws.com/americanarchive.org/org-logos/clir_logo.png "CLIR Logo")](https://www.clir.org/)
 
 ## Help
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
 ## Terms
+
+## Timeline
+

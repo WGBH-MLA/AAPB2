@@ -13,6 +13,7 @@ class SpecialCollection < Cmless
   attr_reader :funders_html
   attr_reader :help_html
   attr_reader :terms_html
+  attr_reader :timeline_html
 
   attr_reader :head_html
 
@@ -85,6 +86,21 @@ class SpecialCollection < Cmless
           el.attribute('href').to_s
         ]
       end
+  end
+
+  def timeline_html
+    doc = Nokogiri::HTML::DocumentFragment.parse(@timeline_html)
+    doc.inner_html
+  end
+
+  def timeline_title
+    @timeline_title ||=
+      Nokogiri::HTML(timeline_html).xpath('//h3').children.first.text
+  end
+
+  def timeline
+    @timeline ||=
+      Nokogiri::HTML(timeline_html).xpath('//iframe').first.to_html
   end
 
   def self.valid_collection?(collection_name)

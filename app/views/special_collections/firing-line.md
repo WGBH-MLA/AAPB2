@@ -12,7 +12,7 @@ The *Firing Line* Collection includes 1,505 records of digitized audiovisual rec
 
 ## Background
 
-In 2018, The Hoover Institution Library and Archives at Stanford University added 1,505 records of digitized audiovisual recordings and transcripts to the American Archive of Public Broadcasting’s (AAPB) Online Reading Room via external links. Prior to the production of *Firing Line*, William F. Buckley Jr. founded the *National Review*, a magazine of conservative opinion in 1955. To preserve the *Firing Line* materials, the *National Review* agreed to donate all the tapes, photographs, transcripts, correspondence and copyright for the Firing Line materials to the Hoover Institution in 1980. 
+In 2018, The Hoover Institution Library and Archives at Stanford University added 1,505 records of digitized audiovisual recordings and transcripts to the American Archive of Public Broadcasting’s (AAPB) Online Reading Room via external links. Prior to the production of *Firing Line*, William F. Buckley Jr. founded the *National Review*, a magazine of conservative opinion in 1955. To preserve the *Firing Line* materials, the *National Review* agreed to donate all the tapes, photographs, transcripts, correspondence and copyright for the Firing Line materials to the Hoover Institution in 1980.
 
 ## Featured
 
@@ -34,7 +34,10 @@ In 2018, The Hoover Institution Library and Archives at Stanford University adde
 
 ## Help
 
-Records are described at the episode level and all records have brief descriptions and lists of the guests on the specific episode. 396 episodes have digitized videos, while the rest only have digitized transcripts available. Episodes where only digitized transcripts are available are marked as such in the description. The media is provided by the Hoover Institution Library & Archives at Stanford University, which can be accessed by clicking the link under the thumbnail that says “View online at Hoover Institution Library & Archives, Stanford University.” 
+Records are described at the episode level and all records have brief descriptions and lists of the guests on the specific episode. 396 episodes have digitized videos, while the rest only have digitized transcripts available. Episodes where only digitized transcripts are available are marked as such in the description. The media is provided by the Hoover Institution Library & Archives at Stanford University, which can be accessed by clicking the link under the thumbnail that says “View online at Hoover Institution Library & Archives, Stanford University.”
 
 ## Terms
+
+## Timeline
+
 
