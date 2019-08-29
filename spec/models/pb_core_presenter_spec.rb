@@ -38,7 +38,6 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
       ],
 
-
       creators: [
         build(:pbcore_creator,
           creator: build(:pbcore_creator_creator, value: 'Larry', affiliation: 'Stooges'),
@@ -86,7 +85,6 @@ describe 'Validated and plain PBCore' do
           annotations: [
             build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH'),
           ],
-
 
           duration: build(:pbcore_instantiation_duration, value: '1:23:46'),
           location: build(:pbcore_instantiation_location, value: 'my closet'),
