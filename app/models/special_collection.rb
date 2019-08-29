@@ -102,6 +102,7 @@ class SpecialCollection < Cmless
   def timeline
     @timeline ||=
       Nokogiri::HTML(timeline_html).xpath('//iframe').first.to_html
+  end
 
   def sort_by
     Nokogiri::HTML::DocumentFragment.parse(@sort_html).text
