@@ -79,6 +79,7 @@ describe 'Catalog' do
       @spec_coll_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, :in_special_collection, has_transcript: true, access_level_public: true, wgbh_org: true))
 
       @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true))
+      @private_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_private: true, moving_image: true))
       @non_digi_xml = just_xml(build(:pbcore_description_document, :full_aapb, :not_digitized))
       @audio_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, audio: true))
 
@@ -282,7 +283,7 @@ describe 'Catalog' do
 
     it 'has warning for off-site access' do
       ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
-      visit 'catalog/cpb-aacip_111-21ghx7d6'
+      visit "catalog/#{@private_record.id}"
       ENV.delete('RAILS_TEST_IP_ADDRESS')
 
       # modal makes some text not visible? not really relevant to this test
