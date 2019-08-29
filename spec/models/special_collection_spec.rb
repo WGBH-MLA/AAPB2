@@ -143,6 +143,18 @@ describe SpecialCollection do
       end
     end
 
+    describe '.sort_by' do
+      it 'returns the sort by for the collection' do
+        expect(collection.sort_by).to eq('asset_date+desc')
+      end
+    end
+
+    describe '.sort_url' do
+      it 'returns the sort url for the collection' do
+        expect(collection.sort_url).to eq('/catalog?sort=asset_date+desc&f[special_collections][]=test-special-collection')
+      end
+    end
+
     describe 'error handling' do
       it 'raises an error for bad paths' do
         expect { MockSpecialCollection.find_by_path('no/such/path') }.to raise_error(Cmless::Error)

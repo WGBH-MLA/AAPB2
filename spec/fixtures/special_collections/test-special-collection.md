@@ -35,3 +35,6 @@ This is the search help text.
 - [Term 1](https://www.google.com/)
 - [Term 2](https://www.google.com/)
 
+## Sort
+
+asset_date+desc

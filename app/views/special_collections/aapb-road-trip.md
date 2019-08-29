@@ -34,3 +34,7 @@ The search box in this collection can be used to search full programs described 
 For this special collection, AAPB staff created short clips, which are linked to in the interactive map in this special collection. The clips themselves are not assets in the AAPB catalog, so they can not be searched.
 
 ## Terms
+
+## Sort
+
+title+asc

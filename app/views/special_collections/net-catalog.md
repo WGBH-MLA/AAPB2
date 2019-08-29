@@ -43,3 +43,7 @@ Each catalog record identifies holdings information from various institutions th
 The NET collection consists of records for digitized and non-digitized content held by many AAPB Contributors and created by numerous public television stations and producers. To select which set of records you would like to search, you can use the Access choices to limit your search to content that’s online, only content that’s digitized, or all of the content. To limit your results to content produced by a specific organization, select that station or producer name from the list in the Producing Organization facet. To limit your results to content held by a specific institution, select that institution from the list in the AAPB Contributor facet. To explore more episodes of a series, find a record of interest and click the hyperlinked series title to view all episodes from that series.
 
 ## Terms
+
+## Sort
+
+title+asc

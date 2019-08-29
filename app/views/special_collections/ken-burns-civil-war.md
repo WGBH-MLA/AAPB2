@@ -36,3 +36,7 @@ Ken Burns has been making films for almost forty years. Since the Academy Award 
 Records are described at an item level and all records contain brief descriptions and subject terms. All records have complete text transcripts. Complete original PDF transcripts exist for three of the eight interviews: Ed Bearss, Stephen Oates, and Robert Penn Warren. Incomplete original PDF transcripts exist for the interviews with Daisy Turner, C. Vann Woodward, and William Safire. Additionally, the PDF transcripts do not always include text of questions asked of interviewees (but the questions are typically audible in the video). Some of the PDF versions of transcripts contain more information, such as handwritten notes and timestamps, than is contained in the cleaned up transcript text displayed in the website transcript viewer. Chapter headings in the video player allow for the user to navigate recording by the topics that are discussed.
 
 ## Terms
+
+## Sort
+
+title+asc

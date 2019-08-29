@@ -40,3 +40,7 @@ The NAEB Collection was contributed to the AAPB by the University of Maryland’
 The National Association of Educational Broadcasters Collection consists of 5,566 digitized radio programs. The entire collection is accessible on location at WGBH and the Library of Congress. As of January 2018, 835 programs are available in the AAPB Online Reading Room. Each metadata record contains information about the producing or creating station. If you identify a creator of interest, type the creator’s name or call letters into the search box to narrow your search down to that creator. To explore more episodes of a series, find a record of interest and click the hyperlinked series title to view all episodes from that series. To expand your search to include metadata records for all digitized programs (including those not accessible in the Online Reading Room), select the “All Digitized” facet on the search results page.
 
 ## Terms
+
+## Sort
+
+title+asc

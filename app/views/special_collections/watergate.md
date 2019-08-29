@@ -11,7 +11,7 @@ The Watergate Hearings Collection covers 51 days of broadcasts of the Senate Wat
 
 ## Background
 
-The Watergate hearings were produced by the National Public Affairs Center for Television (NPACT), public television’s Washington hub for national news and public affairs programming. The materials were contributed to the American Archive of Public Broadcasting (AAPB) by the Library of Congress in 2017. 
+The Watergate hearings were produced by the National Public Affairs Center for Television (NPACT), public television’s Washington hub for national news and public affairs programming. The materials were contributed to the American Archive of Public Broadcasting (AAPB) by the Library of Congress in 2017.
 
 ## Featured
 
@@ -33,9 +33,12 @@ The Watergate hearings were produced by the National Public Affairs Center for T
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
-Each day’s hearings are broken up into multiple parts, which are linked together and named as such. 
+Each day’s hearings are broken up into multiple parts, which are linked together and named as such.
 
 ## Terms
- 
+
+## Sort
+
+title+asc

@@ -10,7 +10,7 @@ The Vision Maker Media Documentaries Collection includes 40 documentary films fe
 
 ## Background
 
-The same year the United States celebrated its bicentennial and President Ford proclaimed a week in October as "Native American Awareness Week," six Native producers in public television met to charter the Native American Public Broadcasting Consortium (NAPBC), later known as Native American Public Telecommunications (NAPT) and now Vision Maker Media. In 1976 these Native producers began to cultivate interest among Native American tribes to participate in developing their own media, which led to the initiation of several tribal media projects. Since its founding, Vision Maker Media and its predecessor organizations have created more than 500 films, awarded $11 million to independent producers and held hundreds of film-screening events across the nation.  
+The same year the United States celebrated its bicentennial and President Ford proclaimed a week in October as "Native American Awareness Week," six Native producers in public television met to charter the Native American Public Broadcasting Consortium (NAPBC), later known as Native American Public Telecommunications (NAPT) and now Vision Maker Media. In 1976 these Native producers began to cultivate interest among Native American tribes to participate in developing their own media, which led to the initiation of several tribal media projects. Since its founding, Vision Maker Media and its predecessor organizations have created more than 500 films, awarded $11 million to independent producers and held hundreds of film-screening events across the nation.
 
 In 2016, Vision Maker Media celebrated its 40th anniversary by collaborating with the American Archive of Public Broadcasting to preserve these films as part of their 40 Years, 40 Films, 40 Weeks campaign. With funding from the Corporation for Public Broadcasting, these 40 films were digitized and preserved in the AAPB. Most of the films are available in the Online Reading Room, and the entire collection is available for research on location at WGBH and the Library of Congress. Vision Maker Media plans to have their whole collection preserved in the AAPB, WGBH and the Library of Congress.
 
@@ -37,3 +37,7 @@ In 2016, Vision Maker Media celebrated its 40th anniversary by collaborating wit
 Most of the films in this collection are available in the Online Reading Room, and the entire collection is accessible on location at the Library of Congress and WGBH. Records are described at an item level and all records contain brief descriptions. Search by keyword or browse all episodes by clicking “Explore the Collection” below the search box.
 
 ## Terms
+
+## Sort
+
+asset_date+asc
