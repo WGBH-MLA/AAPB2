@@ -14,6 +14,7 @@ class SpecialCollection < Cmless
   attr_reader :help_html
   attr_reader :terms_html
   attr_reader :timeline_html
+  attr_reader :sort_html
 
   attr_reader :head_html
 
@@ -101,6 +102,14 @@ class SpecialCollection < Cmless
   def timeline
     @timeline ||=
       Nokogiri::HTML(timeline_html).xpath('//iframe').first.to_html
+
+  def sort_by
+    Nokogiri::HTML::DocumentFragment.parse(@sort_html).text
+  end
+
+  def sort_url
+    @sort_url ||=
+      !@sort_html.empty? ? '/catalog?sort=' + sort_by + '&f[special_collections][]=' + path : '/catalog?sort=asset_date+asc&f[special_collections][]=' + path
   end
 
   def self.valid_collection?(collection_name)
