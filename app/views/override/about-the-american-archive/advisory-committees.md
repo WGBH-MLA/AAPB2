@@ -93,8 +93,8 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Dimitrios Latsis**
 <br>Assistant Professor, Ryerson University, Toronto, ON
 
-**Jeffrey McLurkin**
-<br>Chief of Staff and Professor of History and American Studies, University of Mary Washington, VA
+**Jeffrey W. McClurken**
+<br>Professor of History and American Studies and Chief of Staff to the President at the University of Mary Washington, VA
 
 **Trevor Muñoz**
 <br>Interim Director, Maryland Institute for Technology in the Humanities (MITH); Assistant Dean for Digital Humanities Research, University Libraries, University of Maryland
