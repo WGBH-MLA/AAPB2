@@ -121,6 +121,7 @@ describe 'Validated and plain PBCore' do
           'id' => '1234',
           'xml' => pbc_xml,
           'episode_number_titles' => ['3-2-1'],
+          'episode_number_sort' => '3-2-1',
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
           'series_titles' => ['Nova'],
@@ -186,6 +187,12 @@ describe 'Validated and plain PBCore' do
     describe '.title' do
       it 'returns the title from the pbcore xml' do
         expect(pbc.title).to eq('Nova; Gratuitous Explosions; 3-2-1; Kaboom!')
+      end
+    end
+
+    describe '.episode_number_sort' do
+      it 'returns the episode number from the pbcore xml' do
+        expect(pbc.episode_number_sort).to eq('3-2-1')
       end
     end
 

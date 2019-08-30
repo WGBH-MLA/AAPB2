@@ -177,6 +177,8 @@ class CatalogController < ApplicationController
     config.add_sort_field 'asset_date desc', label: 'date (newest)'
     config.add_sort_field 'asset_date asc', label: 'date (oldest)'
     config.add_sort_field 'title asc', label: 'title'
+    config.add_sort_field 'episode_number_sort asc', label: 'episode number (lowest)'
+    config.add_sort_field 'episode_number_sort desc', label: 'episode number (highest)'
 
     # If there are more than this many search results, no spelling ("did you
     # mean") suggestion is offered.
