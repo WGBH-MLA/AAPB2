@@ -16,11 +16,10 @@ class HtmlScrubber
       .gsub(/float: \w+/, '')
       .gsub(' ;', '')
       .gsub(/\d+(pt|px|em)/, '')
-      
 
 
     # strip at ends of lines, then replace consecutive whitespace w/ 1 space
-    ActionView::Base.full_sanitizer.sanitize(CGI.unescapeHTML(dirtay)).split("\n").map(&:strip).join("\n")
+    ActionView::Base.full_sanitizer.sanitize(CGI.unescapeHTML(dirtay)).split("\n").map(&:strip).join("\n").strip
 
   end
 end
