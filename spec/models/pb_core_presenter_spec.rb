@@ -253,17 +253,17 @@ describe 'Validated and plain PBCore' do
         @pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
       end
       
-      # TODO: decide whether or not to keep clean-MOCK.xml fixture for these gsub tests
       it 'rejects missing closing brace' do
         invalid_pbcore = @pbc_xml.sub(/>\s*$/, '')
-        expect { ValidatedPBCore.new(invalid_pbcore) }.to(
-          raise_error(/missing tag start/))
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to_raise_error
       end
 
       it 'rejects missing closing tag' do
         invalid_pbcore = @pbc_xml.sub(/<\/[^>]+>\s*$/, '')
+
+        # opens the asset type tag up, so schema rejects
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
-          raise_error(/Missing end tag/))
+          raise_error(/Element content is not allowed, because the content type is a simple type definition./))
       end
 
       it 'rejects missing namespace' do

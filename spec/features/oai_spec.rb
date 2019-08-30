@@ -11,10 +11,6 @@ describe 'OAI-PMH' do
     PBCoreIngester.ingest_record_from_xmlstring(@public_xml)
     @public_record = PBCorePresenter.new(cleaner.clean(@public_xml))
   end
-  # commenting this out because we don't appear to be using the fxtures in the test.
-  # before(:all) do
-  #   PBCoreIngester.load_fixtures
-  # end
 
   it 'loads the index page' do
     visit '/oai.xml?verb=ListRecords'
