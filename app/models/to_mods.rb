@@ -5,18 +5,7 @@ module ToMods
         x.identifier('http://americanarchive.org/catalog/' + id, type: 'uri')
 
         x.titleInfo(usage: 'primary') do
-          x.title(titles.last.last)
-        end
-        titles[0..-2].each do |type, title|
-          if ['Label', 'Episode Number', 'Raw Footage', 'Title'].include?(type)
-            x.note("#{type}: #{title}")
-          else
-            x.relatedItem(type: type.downcase) do
-              x.titleInfo do
-                x.title(title)
-              end
-            end
-          end
+          x.title(build_display_title)
         end
 
         (creators + contributors).each do |person|
