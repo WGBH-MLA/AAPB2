@@ -2,6 +2,8 @@ PATH
   remote: /Users/henry_neels/gbh/pbcore
   specs:
     pbcore (0.1.1)
+      factory_bot (~> 4.11.1)
+      faker (~> 1.9.3)
       nokogiri
       sax-machine
 
