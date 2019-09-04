@@ -253,9 +253,6 @@ class PBCorePresenter
   rescue NoMatchError
     nil
   end
-  def has_transcript_status?
-    !transcript_status.nil?
-  end
   def transcript_content
     return nil unless transcript_src
     return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
