@@ -29,7 +29,7 @@ The development of WGBH's Vietnam: A Television History collection was made poss
 
 - [The Vietnam Collection, Open Vault](http://openvault.wgbh.org/collections/vietnam/interviews)
 - [Vietnam War, National Archives](https://www.archives.gov/research/vietnam-war) 
-- [The Virtual Vietnam Archive, The Vietnam Center & Sam Johnson Vietnam Archive, Texas Tech University](http://www.wvculture.org/history/jbexhibit/jbintroduction.html)
+- [The Virtual Vietnam Archive, The Vietnam Center & Sam Johnson Vietnam Archive, Texas Tech University](https://www.vietnam.ttu.edu/virtualarchive/)
 - [The Diem Coup After 50 Years, The National Security Archive](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB444/)
 
 ## Funders
