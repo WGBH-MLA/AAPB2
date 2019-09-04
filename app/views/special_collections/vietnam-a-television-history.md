@@ -3,7 +3,7 @@
 ## Thumbnail
 
 ![<em>Vietnam: A Television History</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/Vietnam_tv_history.jpg "Vietnam")
-Dung, James K.F., SFC. UH-1D helicopters in Vietnam 1966. 1966. Wikimedia. https://en.wikipedia.org/wiki/File:UH-1D_helicopters_in_Vietnam_1966.jpg.
+Dung, James K.F., SFC. <em>UH-1D helicopters in Vietnam 1966</em>. 1966. Wikimedia. https://en.wikipedia.org/wiki/File:UH-1D_helicopters_in_Vietnam_1966.jpg.
 
 ## Summary
 
