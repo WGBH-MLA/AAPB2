@@ -469,7 +469,7 @@ class PBCorePresenter
       :instantiations, :outside_url,
       :reference_urls, :exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio,
-      :player_specs, :transcript_status, :has_transcript_status?, :transcript_content,
+      :player_specs, :transcript_status, :transcript_content,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
