@@ -27,7 +27,7 @@ class Ability
     end
 
     can :access_transcript, PBCorePresenter do |pbcore|
-      user.onsite? || pbcore.public?
+      (user.onsite? || pbcore.public?) && pbcore.has_transcript_status?
     end
   end
 end
