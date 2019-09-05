@@ -1,5 +1,7 @@
-PATH
-  remote: /Users/henry_neels/gbh/pbcore
+GIT
+  remote: https://github.com/WGBH-MLA/pbcore
+  revision: b2e32ae11f742e3c0bd75b9f1b02e9f6ccfea944
+  branch: pull-in-factories
   specs:
     pbcore (0.1.1)
       factory_bot (~> 4.11.1)
