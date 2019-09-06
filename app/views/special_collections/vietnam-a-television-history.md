@@ -1,4 +1,4 @@
-# <em>Vietnam: A Television History</em> Interviews Collection
+# <em>Vietnam: A Television History</em> Interviews Collection 
 
 ## Thumbnail
 
