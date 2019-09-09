@@ -465,7 +465,11 @@ class PBCorePresenter
       'playlist_group' => playlist_group,
       'playlist_order' => playlist_order
       # format keys for solr's pleasure
-    }.merge( titles.inject(Hash.new([])) { |h, data| h["#{data.first.downcase.tr(' ', '_')}_titles"] += data[1]; h } )
+      # rubocop:disable Style/Semicolon
+      # rubocop:disable Style/SingleLineBlockParams
+    }.merge(titles.inject(Hash.new([])) { |h, data| h["#{data.first.downcase.tr(' ', '_')}_titles"] += data[1]; h })
+    # rubocop:enable Style/Semicolon
+    # rubocop:enable Style/SingleLineBlockParams
   end
 
   private
