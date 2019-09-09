@@ -17,7 +17,7 @@ class ValidatedPBCore < PBCorePresenter
     document = Nokogiri::XML(xml)
     errors = SCHEMA.validate(document)
     return if errors.empty?
-    raise 'Schema validation errors: ' + errors.join("\n")  
+    raise 'Schema validation errors: ' + errors.join("\n")
   end
 
   # Already handled in pb_core_spec... no need to exclude all the special cases/helper methods here a second time

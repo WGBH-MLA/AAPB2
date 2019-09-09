@@ -46,10 +46,10 @@ class PBCoreIngester
     begin
       # allow for non file-backed xml for fac'tries
       xml = if path
-        Zipper.read(path)
-      else
-        opts[:xml]
-      end
+              Zipper.read(path)
+            else
+              opts[:xml]
+            end
       xml = convert_non_utf8_characters(xml)
     rescue => e
       record_error(e, path)
@@ -83,10 +83,9 @@ class PBCoreIngester
         ingest_xml_no_commit(cleaner.clean(xml))
         @success_count += 1
       rescue => e
-        require('pry');binding.pry
         record_error(e, path)
       end
-    else      
+    else
       e = ValidationError.new("Neither pbcoreCollection nor pbcoreDocument. #{xml_top}")
       record_error(e, path)
     end

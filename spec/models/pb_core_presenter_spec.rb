@@ -5,6 +5,7 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../../app/models/caption_file'
 require 'rails_helper'
 
+# rubocop:disable Style/AlignParameters
 describe 'Validated and plain PBCore' do
   before(:all) do
     @pbc_xml = build(:pbcore_description_document,
@@ -34,8 +35,8 @@ describe 'Validated and plain PBCore' do
       ],
 
       genres: [
-        build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
-        build(:pbcore_genre, annotation: 'topic', value: 'Music' )
+        build(:pbcore_genre, annotation: 'genre', value: 'Call-in'),
+        build(:pbcore_genre, annotation: 'topic', value: 'Music')
       ],
 
       creators: [
@@ -46,21 +47,21 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_creator,
           creator: build(:pbcore_creator_creator, value: 'WGBH', affiliation: 'Stooges'),
           role: build(:pbcore_creator_role, value: 'Producing Organization')
-        ),
+        )
       ],
 
       contributors: [
         build(:pbcore_contributor,
           contributor: build(:pbcore_contributor_contributor, value: 'Curly', affiliation: 'Stooges'),
           role: build(:pbcore_contributor_role, value: 'bald')
-        ),
+        )
       ],
 
       publishers: [
         build(:pbcore_publisher,
           publisher: build(:pbcore_publisher_publisher, value: 'Moe', affiliation: 'Stooges'),
           role: build(:pbcore_publisher_role, value: 'hair')
-        ),
+        )
       ],
 
       rights_summaries: [
@@ -69,11 +70,11 @@ describe 'Validated and plain PBCore' do
         ),
         build(:pbcore_rights_summary,
           rights_summary: build(:rights_summary, value: 'Copy Right: Reverse all rights.')
-        ),
+        )
       ],
 
       instantiations: [
-        build(:pbcore_instantiation, 
+        build(:pbcore_instantiation,
           identifiers: [
             build(:pbcore_instantiation_identifier, source: 'foo', value: 'ABC')
           ],
@@ -91,8 +92,8 @@ describe 'Validated and plain PBCore' do
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
 
         ),
-        
-        build(:pbcore_instantiation, 
+
+        build(:pbcore_instantiation,
           identifiers: [
             build(:pbcore_instantiation_identifier, source: 'foo', value: 'XYZ')
           ],
@@ -111,7 +112,7 @@ describe 'Validated and plain PBCore' do
 
         ),
 
-        build(:pbcore_instantiation, 
+        build(:pbcore_instantiation,
           identifiers: [
             build(:pbcore_instantiation_identifier, source: 'foo', value: 'PQR')
           ],
@@ -121,13 +122,13 @@ describe 'Validated and plain PBCore' do
           ],
 
           annotations: [
-            build(:pbcore_instantiation_annotation, type: 'organization', value: 'American Archive of Public Broadcasting'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'American Archive of Public Broadcasting')
           ],
 
           location: build(:pbcore_instantiation_location, value: 'my closet'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
 
-        ),                
+        )
       ],
 
       annotations: [
@@ -141,7 +142,6 @@ describe 'Validated and plain PBCore' do
 
       ]
     ).to_xml
-
   end
 
   let(:pbc_json_transcript) do
@@ -151,7 +151,8 @@ describe 'Validated and plain PBCore' do
       ],
       instantiations: [
         build(:pbcore_instantiation,
-          essence_tracks: [ build(:pbcore_instantiation_essence_track,
+          essence_tracks: [
+            build(:pbcore_instantiation_essence_track,
               aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '4:3')
             )
           ]
@@ -172,7 +173,8 @@ describe 'Validated and plain PBCore' do
       ],
       instantiations: [
         build(:pbcore_instantiation,
-          essence_tracks: [ build(:pbcore_instantiation_essence_track,
+          essence_tracks: [
+            build(:pbcore_instantiation_essence_track,
               aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '4:3')
             )
           ]
@@ -190,7 +192,8 @@ describe 'Validated and plain PBCore' do
     new_pb(build(:pbcore_description_document,
       instantiations: [
         build(:pbcore_instantiation,
-          essence_tracks: [ build(:pbcore_instantiation_essence_track,
+          essence_tracks: [
+            build(:pbcore_instantiation_essence_track,
               aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '16:9')
             )
           ]
@@ -216,7 +219,7 @@ describe 'Validated and plain PBCore' do
             build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress')
           ]
         )
-      ]    
+      ]
     ))
   end
 
@@ -238,7 +241,7 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_title, type: 'Episode', value: 'Readers Reading'),
         build(:pbcore_title, type: 'Episode Number', value: '42'),
         build(:pbcore_title, type: 'Episode Number', value: '24')
-      ],
+      ]
     ))
   end
 
@@ -251,7 +254,7 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_title, type: 'Episode', value: 'Readers Reading Again'),
         build(:pbcore_title, type: 'Episode Number', value: '43'),
         build(:pbcore_title, type: 'Episode Number', value: '25')
-      ],
+      ]
     ))
   end
 
@@ -419,7 +422,7 @@ describe 'Validated and plain PBCore' do
 
       describe '.titles' do
         it 'returns the titles from the pbcore xml' do
-          expect(@pbc.titles).to eq({'Series' => ['Nova'], 'Program' => ['Gratuitous Explosions'], 'Episode Number' => ['3-2-1'], 'Episode' => ['Kaboom!']})
+          expect(@pbc.titles).to eq('Series' => ['Nova'], 'Program' => ['Gratuitous Explosions'], 'Episode Number' => ['3-2-1'], 'Episode' => ['Kaboom!'])
         end
       end
 
@@ -692,7 +695,6 @@ describe 'Validated and plain PBCore' do
 
     describe 'PB Core document with transcript' do
       it 'has expected transcript attributes' do
-        
         expected_attrs = {
           'id' => 'cpb-aacip_111-21ghx7d6',
           'player_aspect_ratio' => '4:3',
@@ -720,14 +722,12 @@ describe 'Validated and plain PBCore' do
 
     describe 'PB Core document with supplemental materials' do
       it 'returns an array of supplemental materials' do
-        
         expect(pbc_supplemental_materials.supplemental_content).to eq([['https://s3.amazonaws.com/americanarchive.org/supplemental-materials/cpb-aacip-509-6h4cn6zm21.pdf', 'Production Transcript']])
       end
     end
 
     describe 'PB Core document with 16:9 video' do
       it 'has expected 16:9 attributes' do
-
         expected_attrs = {
           'player_aspect_ratio' => '16:9',
           'player_specs' => %w(680 383)
@@ -737,17 +737,13 @@ describe 'Validated and plain PBCore' do
           'player_aspect_ratio' => pbc_16_9.player_aspect_ratio,
           'player_specs' => pbc_16_9.player_specs
         }
-
         expect(expected_attrs).to eq(attrs)
       end
     end
 
     describe 'PB Core records in playlists' do
-
       before(:all) do
-
         PBCoreIngester.new.delete_all
-
         @playlist_1_xml = build(:pbcore_description_document,
           titles: [
             build(:pbcore_title, value: 'just-here-for-cleaner')
@@ -841,7 +837,6 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'middle record has expected attributes' do
-        
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 2,
@@ -860,7 +855,6 @@ describe 'Validated and plain PBCore' do
       end
 
       it 'last record has expected attributes' do
-        
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 3,
@@ -881,7 +875,6 @@ describe 'Validated and plain PBCore' do
 
     describe 'pbcore object with multiple contributing organizations and states' do
       it 'returns multiple organizations and states' do
-        
         expected_attrs = {
           'contributing_organization_names' => ['KQED', 'Library of Congress'],
           'contributing_organizations_facet' => ['KQED (CA)', 'Library of Congress (DC)'],
@@ -915,3 +908,4 @@ describe 'Validated and plain PBCore' do
     end
   end
 end
+# rubocop:enable Style/AlignParameters

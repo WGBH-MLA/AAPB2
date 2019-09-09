@@ -61,15 +61,15 @@ class PBCorePresenter
       PBCoreNameRoleAffiliation.new(name, role, affiliation)
     end
   end
-  
+
   def descriptions
     @descriptions ||= @pbcore.descriptions.map { |description| HtmlScrubber.scrub(description.value).gsub(/[\s\n]+/, ' ').strip if description.value }
   end
   def genres
-    @genres ||= @pbcore.genres.select {|genre| genre.annotation == 'genre'}.map(&:value)
+    @genres ||= @pbcore.genres.select { |genre| genre.annotation == 'genre' }.map(&:value)
   end
   def topics
-    @topics ||= @pbcore.genres.select {|genre| genre.annotation == 'topic'}.map(&:value)
+    @topics ||= @pbcore.genres.select { |genre| genre.annotation == 'topic' }.map(&:value)
   end
   def subjects
     @subjects ||= @pbcore.subjects.map(&:value)
@@ -98,7 +98,7 @@ class PBCorePresenter
 
   def instantiations_display
     # @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? {|a| a.value == 'American Archive of Public Broadcasting'}  }
-    @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? {|a| a.value == 'American Archive of Public Broadcasting'}  }.map { |i| PBCoreInstantiationPresenter.new(i.to_xml) }
+    @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? { |a| a.value == 'American Archive of Public Broadcasting' } }.map { |i| PBCoreInstantiationPresenter.new(i.to_xml) }
   end
   def rights_summaries
     @rights_summaries ||= @pbcore.rights_summaries.map { |rights| rights.rights_summary.value if rights.rights_summary }
@@ -117,7 +117,10 @@ class PBCorePresenter
   end
   def titles
     # give em a hash
-    @titles ||= @pbcore.titles.inject(Hash.new([])) { |h, a| h[a.type] += [a.value]; h }
+    @titles ||= @pbcore.titles.inject(Hash.new([])) do |h, a|
+      h[a.type] += [a.value]
+      h
+    end
   end
   def title
     @title ||= build_display_title
@@ -137,12 +140,12 @@ class PBCorePresenter
   SONY_CI = 'Sony Ci'.freeze
   def ids
     @ids ||= begin
-      aapbid = nil      
+      aapbid = nil
       some_ids = identifiers.map do |id|
         if id.source == 'http://americanarchiveinventory.org'
           aapbid = id
           next
-        elsif id.source != SONY_CI 
+        elsif id.source != SONY_CI
           [id.source, id.value]
         end
       end.compact
@@ -165,7 +168,7 @@ class PBCorePresenter
   end
   TRANSCRIPT_ANNOTATION = 'Transcript URL'.freeze
   def transcript_src
-    @transcript_src ||= one_annotation_by_type(@pbcore.annotations, TRANSCRIPT_ANNOTATION)  
+    @transcript_src ||= one_annotation_by_type(@pbcore.annotations, TRANSCRIPT_ANNOTATION)
   end
 
   def img?
@@ -212,12 +215,12 @@ class PBCorePresenter
     @img_width = img_dimensions[0]
   end
   def contributing_organization_names
-    @contributing_organization_names ||= annotations_by_type(instantiations.map { |inst| inst.annotations  }.flatten, 'organization').map(&:value).uniq
+    @contributing_organization_names ||= annotations_by_type(instantiations.map(&:annotations).flatten, 'organization').map(&:value).uniq
   end
   def contributing_organizations_facet
     @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?
   end
-  def contributing_organization_objects 
+  def contributing_organization_objects
     @contributing_organization_objects ||= Organization.organizations(contributing_organization_names)
   end
   def contributing_organization_names_display
@@ -301,8 +304,7 @@ class PBCorePresenter
     media_type == SOUND
   end
   def duration
-
-    @duration ||= instantiations.find {|i| break i.duration.value if i.duration }
+    @duration ||= instantiations.find { |i| break i.duration.value if i.duration }
   end
   def player_aspect_ratio
     @player_aspect_ratio ||= begin
@@ -464,7 +466,12 @@ class PBCorePresenter
       'playlist_order' => playlist_order
 
       # format keys for solr's pleasure
-    }.merge( titles.inject(Hash.new([])) { |h, data| h["#{data.first.downcase.tr(' ', '_')}_titles"] += data[1]; h } )
+    }.merge(
+      titles.inject(Hash.new([])) do |h, data|
+        h["#{data.first.downcase.tr(' ', '_')}_titles"] += data[1]
+        return h
+      end
+    )
   end
 
   private
@@ -491,7 +498,7 @@ class PBCorePresenter
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
-              .reject { |method| method =~ /\?$/  } # skip booleans
+              .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
               .flatten # flattens list accessors
               .compact # skip nils
@@ -504,25 +511,25 @@ class PBCorePresenter
   def build_display_title
     titles_by_type = titles
 
-    titles_to_join = if titles_by_type['Series'].count > 1 && titles_by_type['Episode Number'] && titles_by_type['Episode']
-      titles_by_type['Episode']
-    elsif titles_by_type['Episode Number'].count > 1 && titles_by_type['Series'].count == 1 && titles_by_type['Episode']
-      (titles_by_type['Series'] + titles_by_type['Episode'])
-    elsif titles_by_type['Alternative'] && titles_by_type.keys.length == 1
-      titles_by_type['Alternative']
-    else
-      unalternative = []
-      titles_by_type.each {|type, titles| unalternative += titles if type != 'Alternative' }
-      unalternative
-    end
+    titles_to_join =  if titles_by_type['Series'].count > 1 && titles_by_type['Episode Number'] && titles_by_type['Episode']
+                        titles_by_type['Episode']
+                      elsif titles_by_type['Episode Number'].count > 1 && titles_by_type['Series'].count == 1 && titles_by_type['Episode']
+                        (titles_by_type['Series'] + titles_by_type['Episode'])
+                      elsif titles_by_type['Alternative'] && titles_by_type.keys.length == 1
+                        titles_by_type['Alternative']
+                      else
+                        unalternative = []
+                        titles_by_type.each { |type, titles| unalternative += titles if type != 'Alternative' }
+                        unalternative
+                      end
 
     titles_to_join.sort.join('; ')
   end
 
   def contribs
     @contribs ||=
-      (creators.map { |creator| [creator.name,creator.affiliation] } + 
-            contributors.map { |contributor| [contributor.name,contributor.affiliation] } + publishers.map { |publisher| [publisher.name,publisher.affiliation] }).flatten
+      (creators.map { |creator| [creator.name, creator.affiliation] } +
+            contributors.map { |contributor| [contributor.name, contributor.affiliation] } + publishers.map { |publisher| [publisher.name, publisher.affiliation] }).flatten
   end
 
   def year

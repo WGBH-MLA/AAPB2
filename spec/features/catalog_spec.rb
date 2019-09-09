@@ -6,10 +6,9 @@ require_relative '../../scripts/lib/cleaner'
 require_relative '../support/validation_helper'
 require_relative '../support/feature_test_helper'
 
-
+# rubocop:disable Style/AlignParameters
 describe 'Catalog' do
   include ValidationHelper
-
   IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
   def expect_count(count)
@@ -65,7 +64,6 @@ describe 'Catalog' do
   end
 
   describe 'catalog tests #index' do
-
     before(:all) do
       page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }
 
@@ -99,7 +97,7 @@ describe 'Catalog' do
       visit '/catalog'
       expect(page).to have_text('Cataloging in progress: only half of the records for digitized assets are currently dated.'), missing_page_text_custom_error('Cataloging in progress: only half of the records for digitized assets are currently dated.', page.current_path)
     end
-    
+
     it 'offers to broaden search' do
       visit '/catalog?q=xkcd&f[access_types][]=' + PBCorePresenter::PUBLIC_ACCESS
       expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
@@ -128,21 +126,21 @@ describe 'Catalog' do
       expect(page.status_code).to eq(200)
       expect_count(1)
       expect(page).to have_text(@full_record.title), missing_page_text_custom_error(@full_record.title, page.current_path)
-        expect_thumbnail(@full_record.id_for_s3)
+      expect_thumbnail(@full_record.id_for_s3)
     end
 
     it 'can facet by series title' do
-      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[series_titles][]=#{ @full_record.titles['Series'] }"
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[series_titles][]=#{@full_record.titles['Series']}"
       expect(page).to have_text(@full_record.title)
     end
 
     it 'can facet by program title' do
-      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[program_titles][]=#{ @full_record.titles['Program'] }"
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[program_titles][]=#{@full_record.titles['Program']}"
       expect(page).to have_text(@full_record.title)
     end
 
     it 'can facet by program title' do
-      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[states][]=#{ @full_record.states.first }"
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[states][]=#{@full_record.states.first}"
       expect(page).to have_text(@full_record.title)
     end
 
@@ -155,7 +153,7 @@ describe 'Catalog' do
       # just kqed
       click_link('KQED (CA)')
       expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
-      
+
       expect_count(1)
       expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                 'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
@@ -278,7 +276,7 @@ describe 'Catalog' do
       expect_all_the_text(@public_record)
       expect(page).to have_text('not available at your location.'), missing_page_text_custom_error('not available at your location.', page.current_path)
       expect_no_media
-    end 
+    end
 
     it 'has warning for off-site access' do
       ENV['RAILS_TEST_IP_ADDRESS'] = Resolv.getaddress('umass.edu')
@@ -306,7 +304,6 @@ describe 'Catalog' do
 
   describe 'playlist functions' do
     before(:all) do
-
       PBCoreIngester.new.delete_all
       cleaner = Cleaner.instance
 
@@ -326,7 +323,7 @@ describe 'Catalog' do
         annotations: [
           build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
           build(:pbcore_annotation, type: 'Playlist Order', value: '1'),
-          build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+          build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
         ]
       ))
 
@@ -347,7 +344,7 @@ describe 'Catalog' do
         annotations: [
           build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
           build(:pbcore_annotation, type: 'Playlist Order', value: '2'),
-          build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+          build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
         ]
       ))
 
@@ -367,8 +364,7 @@ describe 'Catalog' do
         annotations: [
           build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
           build(:pbcore_annotation, type: 'Playlist Order', value: '3'),
-          build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
-
+          build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
         ]
       ))
 
@@ -399,8 +395,8 @@ describe 'Catalog' do
     it 'has previous playlist navigation option when last item in playlist' do
       visit "catalog/#{@playlist_3_record.id}"
       expect(page).to have_css('div#playlist')
-        expect(page).to have_text('Part 2'), missing_page_text_custom_error('Part 2', page.current_path)
+      expect(page).to have_text('Part 2'), missing_page_text_custom_error('Part 2', page.current_path)
     end
-  end  
-
+  end
 end
+# rubocop:enable Style/AlignParameters

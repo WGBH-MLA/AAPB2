@@ -1,11 +1,10 @@
 class PBCoreNameRoleAffiliation
   def initialize(name = nil, role = nil, affiliation = nil)
-    if name
-      # for testing only
-      @name = name
-      @role = role
-      @affiliation = affiliation
-    end
+    return nil unless name
+    # for testing only
+    @name = name
+    @role = role
+    @affiliation = affiliation
   end
 
   attr_accessor :name

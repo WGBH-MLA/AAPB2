@@ -1,6 +1,7 @@
 require_relative '../../app/models/pb_core_instantiation_presenter'
 require_relative '../../app/models/pb_core_presenter'
 
+# rubocop:disable Style/AlignParameters
 describe PBCoreInstantiationPresenter do
   # let(:pbc_xml) { File.read('spec/fixtures/pbcore/clean-multiple-orgs.xml') }
   before(:all) do
@@ -10,22 +11,22 @@ describe PBCoreInstantiationPresenter do
       identifiers: [
         build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip/55-09j3vs0f'),
         build(:pbcore_identifier, source: 'NET_CATALOG', value: 'FMP_3185327'),
-        build(:pbcore_identifier, source: 'NOLA Code', value: 'CHOT'),
+        build(:pbcore_identifier, source: 'NOLA Code', value: 'CHOT')
       ],
 
       titles: [
-        build(:pbcore_title, type: 'Program', value: 'Winston Churchill Obituary'),
+        build(:pbcore_title, type: 'Program', value: 'Winston Churchill Obituary')
       ],
 
       genres: [
-        build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
-        build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
+        build(:pbcore_genre, annotation: 'genre', value: 'Call-in'),
+        build(:pbcore_genre, annotation: 'topic', value: 'Music'),
 
         build(:pbcore_genre, annotation: "AAPB Topical Genre", value: "Biography"),
         build(:pbcore_genre, annotation: "AAPB Format Genre", value: "Documentary"),
         build(:pbcore_genre, annotation: "AAPB Format Genre", value: "Special"),
         build(:pbcore_genre, annotation: "AAPB Topical Genre", value: "Global Affairs"),
-        build(:pbcore_genre, annotation: "AAPB Topical Genre", value: "War and Conflict"),
+        build(:pbcore_genre, annotation: "AAPB Topical Genre", value: "War and Conflict")
       ],
 
       instantiations: [
@@ -39,11 +40,11 @@ describe PBCoreInstantiationPresenter do
           ],
 
           generations: [
-            build(:pbcore_instantiation_generations, value: 'Copy'),
+            build(:pbcore_instantiation_generations, value: 'Copy')
           ],
 
           annotations: [
-            build(:pbcore_instantiation_annotation, type: 'organization', value: 'KQED'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'KQED')
           ],
 
           # explicit because default inst factory adds colors
@@ -53,7 +54,7 @@ describe PBCoreInstantiationPresenter do
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
 
         ),
-        
+
         build(:pbcore_instantiation,
           identifiers: [
             build(:pbcore_instantiation_identifier, source: 'MAVIS Title Number', value: '2316780')
@@ -65,11 +66,11 @@ describe PBCoreInstantiationPresenter do
 
           annotations: [
             build(:pbcore_instantiation_annotation, value: 'Copy 1'),
-            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress')
           ],
 
           generations: [
-            build(:pbcore_instantiation_generations, value: 'Access Copy'),
+            build(:pbcore_instantiation_generations, value: 'Access Copy')
           ],
 
           colors: build(:pbcore_instantiation_colors, value: 'black and white'),
@@ -90,25 +91,24 @@ describe PBCoreInstantiationPresenter do
 
           annotations: [
             build(:pbcore_instantiation_annotation, value: 'Copy 2'),
-            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress')
           ],
 
           generations: [
-            build(:pbcore_instantiation_generations, value: 'Access Copy'),
+            build(:pbcore_instantiation_generations, value: 'Access Copy')
           ],
 
-          colors:build(:pbcore_instantiation_colors, value: 'black and white'),
+          colors: build(:pbcore_instantiation_colors, value: 'black and white'),
 
           location: build(:pbcore_instantiation_location, value: 'my closet'),
           media_type: build(:pbcore_instantiation_media_type, value: 'Moving Image')
-
-        ),  
+        )
       ],
 
       annotations: [
         build(:pbcore_annotation, type: "MAVIS Number", value: "2316780"),
         build(:pbcore_annotation, type: "last_modified", value: "2018-04-11 12:07:28"),
-        build(:pbcore_annotation, type: "organization", value: "KQED"),
+        build(:pbcore_annotation, type: "organization", value: "KQED")
       ]
     ).to_xml
 
@@ -117,7 +117,6 @@ describe PBCoreInstantiationPresenter do
     @pbc_instantiation_2 = PBCoreInstantiationPresenter.new(@pbc_instantiations[1].to_xml)
     @pbc_instantiation_3 = PBCoreInstantiationPresenter.new(@pbc_instantiations[2].to_xml)
   end
-
 
   describe 'PBCore Instantiations' do
     it 'creates the right number of instantiations' do
@@ -166,3 +165,4 @@ describe PBCoreInstantiationPresenter do
     end
   end
 end
+# rubocop:enable Style/AlignParameters

@@ -4,10 +4,9 @@ class PBCoreInstantiationPresenter
     # leaving that as-is, but should probably rethink.
     @instantiation = PBCore::Instantiation.parse(instantiation_xml)
   end
-  
+
   include AnnotationHelper
   attr_accessor :instantiation
-
 
   def ==(other)
     self.class == other.class &&
@@ -25,8 +24,8 @@ class PBCoreInstantiationPresenter
 
   def aspect_ratio
     @aspect_ratio ||= begin
-      et = @instantiation.essence_tracks.find { |et| et.aspect_ratio }
-      et.aspect_ratio if et
+      track = @instantiation.essence_tracks.find(&:aspect_ratio)
+      track.aspect_ratio if track
     end
   end
 
