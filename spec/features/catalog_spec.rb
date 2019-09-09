@@ -70,15 +70,15 @@ describe 'Catalog' do
       PBCoreIngester.new.delete_all
       cleaner = Cleaner.instance
 
-      @full_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, outside_url: true, external_reference_url: true, moving_image: true, iowa_org: true))
+      @full_xml = build(:pbcore_description_document, :full_aapb, access_level_public: true, outside_url: true, external_reference_url: true, moving_image: true, iowa_org: true).to_xml
 
       # uses real guid to work with special collections, transcripts, etc
-      @onloc_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, has_transcript: true, access_level_protected: true))
-      @spec_coll_xml = just_xml(build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, :in_special_collection, has_transcript: true, access_level_public: true, wgbh_org: true))
+      @onloc_xml = build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, has_transcript: true, access_level_protected: true).to_xml
+      @spec_coll_xml = build(:pbcore_description_document, :full_aapb, :only_episode_num_titles, :in_special_collection, has_transcript: true, access_level_public: true, wgbh_org: true).to_xml
 
-      @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true))
-      @non_digi_xml = just_xml(build(:pbcore_description_document, :full_aapb, :not_digitized))
-      @audio_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, audio: true))
+      @public_xml = build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true).to_xml
+      @non_digi_xml = build(:pbcore_description_document, :full_aapb, :not_digitized).to_xml
+      @audio_xml = build(:pbcore_description_document, :full_aapb, access_level_public: true, audio: true).to_xml
 
       [@full_xml, @onloc_xml, @spec_coll_xml, @public_xml, @non_digi_xml, @audio_xml].each do |xml|
         PBCoreIngester.ingest_record_from_xmlstring(xml)
@@ -307,7 +307,7 @@ describe 'Catalog' do
       PBCoreIngester.new.delete_all
       cleaner = Cleaner.instance
 
-      @playlist_1_xml = just_xml(build(:pbcore_description_document,
+      @playlist_1_xml = build(:pbcore_description_document,
         titles: [
           build(:pbcore_title, value: 'just-here-for-cleaner')
         ],
@@ -325,9 +325,9 @@ describe 'Catalog' do
           build(:pbcore_annotation, type: 'Playlist Order', value: '1'),
           build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
         ]
-      ))
+      ).to_xml
 
-      @playlist_2_xml = just_xml(build(:pbcore_description_document,
+      @playlist_2_xml = build(:pbcore_description_document,
         titles: [
           build(:pbcore_title, value: 'just-here-for-cleaner')
         ],
@@ -346,9 +346,9 @@ describe 'Catalog' do
           build(:pbcore_annotation, type: 'Playlist Order', value: '2'),
           build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
         ]
-      ))
+      ).to_xml
 
-      @playlist_3_xml = just_xml(build(:pbcore_description_document,
+      @playlist_3_xml = build(:pbcore_description_document,
         titles: [
           build(:pbcore_title, value: 'just-here-for-cleaner')
         ],
@@ -366,7 +366,7 @@ describe 'Catalog' do
           build(:pbcore_annotation, type: 'Playlist Order', value: '3'),
           build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
         ]
-      ))
+      ).to_xml
 
       @ingested_records = []
       [@playlist_1_xml, @playlist_2_xml, @playlist_3_xml].each do |xml|
