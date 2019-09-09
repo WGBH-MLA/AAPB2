@@ -7,26 +7,26 @@ require 'rails_helper'
 
 describe 'Validated and plain PBCore' do
   before(:all) do
-    @pbc_xml = just_xml(build(:pbcore_description_document,
+    @pbc_xml = build(:pbcore_description_document,
       asset_types: [build(:pbcore_asset_type, value: 'Album')],
       asset_dates: [build(:pbcore_asset_date, type: 'Date', value: '2000-01-01')],
       identifiers: [
         build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: '1234'),
         build(:pbcore_identifier, source: 'somewhere else', value: '5678'),
         build(:pbcore_identifier, source: 'Sony Ci', value: 'a-32-digit-hex'),
-        build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex'),
+        build(:pbcore_identifier, source: 'Sony Ci', value: 'another-32-digit-hex')
       ],
 
       titles: [
         build(:pbcore_title, type: 'Series', value: 'Nova'),
         build(:pbcore_title, type: 'Program', value: 'Gratuitous Explosions'),
         build(:pbcore_title, type: 'Episode Number', value: '3-2-1'),
-        build(:pbcore_title, type: 'Episode', value: 'Kaboom!'),
+        build(:pbcore_title, type: 'Episode', value: 'Kaboom!')
       ],
 
       subjects: [
         build(:pbcore_subject, value: 'explosions -- gratuitious'),
-        build(:pbcore_subject, value: 'musicals -- horror'),
+        build(:pbcore_subject, value: 'musicals -- horror')
       ],
 
       descriptions: [
@@ -35,31 +35,31 @@ describe 'Validated and plain PBCore' do
 
       genres: [
         build(:pbcore_genre, annotation: 'genre', value: 'Call-in' ),
-        build(:pbcore_genre, annotation: 'topic', value: 'Music' ),
+        build(:pbcore_genre, annotation: 'topic', value: 'Music' )
       ],
 
       creators: [
         build(:pbcore_creator,
           creator: build(:pbcore_creator_creator, value: 'Larry', affiliation: 'Stooges'),
-          role: build(:pbcore_creator_role, value: 'balding'),
+          role: build(:pbcore_creator_role, value: 'balding')
         ),
         build(:pbcore_creator,
           creator: build(:pbcore_creator_creator, value: 'WGBH', affiliation: 'Stooges'),
-          role: build(:pbcore_creator_role, value: 'Producing Organization'),
+          role: build(:pbcore_creator_role, value: 'Producing Organization')
         ),
       ],
 
       contributors: [
         build(:pbcore_contributor,
           contributor: build(:pbcore_contributor_contributor, value: 'Curly', affiliation: 'Stooges'),
-          role: build(:pbcore_contributor_role, value: 'bald'),
+          role: build(:pbcore_contributor_role, value: 'bald')
         ),
       ],
 
       publishers: [
         build(:pbcore_publisher,
           publisher: build(:pbcore_publisher_publisher, value: 'Moe', affiliation: 'Stooges'),
-          role: build(:pbcore_publisher_role, value: 'hair'),
+          role: build(:pbcore_publisher_role, value: 'hair')
         ),
       ],
 
@@ -83,7 +83,7 @@ describe 'Validated and plain PBCore' do
           ],
 
           annotations: [
-            build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH')
           ],
 
           duration: build(:pbcore_instantiation_duration, value: '1:23:46'),
@@ -102,7 +102,7 @@ describe 'Validated and plain PBCore' do
           ],
 
           annotations: [
-            build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'WGBH')
           ],
 
           duration: build(:pbcore_instantiation_duration, value: '4:55:55'),
@@ -137,110 +137,125 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
         build(:pbcore_annotation, type: 'Outside URL', value: 'http://www.wgbh.org/'),
         build(:pbcore_annotation, type: 'External Reference URL', value: 'http://www.wgbh.org/'),
-        build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl'),
+        build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl')
 
       ]
-    ))
+    ).to_xml
 
   end
 
-  let(:pbc_json_transcript) { new_pb(build(:pbcore_description_document,
-    identifiers: [
-      build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip/111-21ghx7d6')
-    ],
-    instantiations: [
-      build(:pbcore_instantiation,
-        essence_tracks: [ build(:pbcore_instantiation_essence_track,
-            aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '4:3')
-          )
-        ]
-      )
-    ],
-    annotations: [
-      build(:pbcore_annotation, type: 'Transcript Status', value: 'Correct'),
-      build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json'),
-      build(:pbcore_annotation, type: 'Playlist Order', value: '3')
-    ]
-  )) }
+  let(:pbc_json_transcript) do
+    new_pb(build(:pbcore_description_document,
+      identifiers: [
+        build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip/111-21ghx7d6')
+      ],
+      instantiations: [
+        build(:pbcore_instantiation,
+          essence_tracks: [ build(:pbcore_instantiation_essence_track,
+              aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '4:3')
+            )
+          ]
+        )
+      ],
+      annotations: [
+        build(:pbcore_annotation, type: 'Transcript Status', value: 'Correct'),
+        build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json'),
+        build(:pbcore_annotation, type: 'Playlist Order', value: '3')
+      ]
+    ))
+  end
 
-  let(:pbc_text_transcript) { new_pb(build(:pbcore_description_document,
-    identifiers: [
-      build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip-507-0000000j8w')
-    ],
-    instantiations: [
-      build(:pbcore_instantiation,
-        essence_tracks: [ build(:pbcore_instantiation_essence_track,
-            aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '4:3')
-          )
-        ]
-      )
-    ],
-    annotations: [
-      build(:pbcore_annotation, type: 'Transcript Status', value: 'Correct'),
-      build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.json'),
-      build(:pbcore_annotation, type: 'Playlist Order', value: '3')
-    ]
-  )) }
+  let(:pbc_text_transcript) do
+    new_pb(build(:pbcore_description_document,
+      identifiers: [
+        build(:pbcore_identifier, source: 'http://americanarchiveinventory.org', value: 'cpb-aacip-507-0000000j8w')
+      ],
+      instantiations: [
+        build(:pbcore_instantiation,
+          essence_tracks: [ build(:pbcore_instantiation_essence_track,
+              aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '4:3')
+            )
+          ]
+        )
+      ],
+      annotations: [
+        build(:pbcore_annotation, type: 'Transcript Status', value: 'Correct'),
+        build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.json'),
+        build(:pbcore_annotation, type: 'Playlist Order', value: '3')
+      ]
+    ))
+  end
 
-  let(:pbc_16_9) { new_pb(build(:pbcore_description_document,
-    instantiations: [
-      build(:pbcore_instantiation,
-        essence_tracks: [ build(:pbcore_instantiation_essence_track,
-            aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '16:9')
-          )
-        ]
-      )
-    ]    
-  )) }
+  let(:pbc_16_9) do
+    new_pb(build(:pbcore_description_document,
+      instantiations: [
+        build(:pbcore_instantiation,
+          essence_tracks: [ build(:pbcore_instantiation_essence_track,
+              aspect_ratio: build(:pbcore_instantiation_essence_track_aspect_ratio, value: '16:9')
+            )
+          ]
+        )
+      ]
+    ))
+  end
 
-  let(:pbc_alternative_title) { new_pb(build(:pbcore_description_document,
-    titles: [
-      build(:pbcore_title, type: 'Alternative', value: 'This Title is Alternative')
-    ]
-  )) }
+  let(:pbc_alternative_title) do
+    new_pb(build(:pbcore_description_document,
+      titles: [
+        build(:pbcore_title, type: 'Alternative', value: 'This Title is Alternative')
+      ]
+    ))
+  end
 
-  let(:pbc_multi_org) { new_pb(build(:pbcore_description_document,
-    instantiations: [
-      build(:pbcore_instantiation,
-        annotations: [
-          build(:pbcore_instantiation_annotation, type: 'organization', value: 'KQED'),
-          build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress')
-        ]
-      )
-    ]    
-  )) }
+  let(:pbc_multi_org) do
+    new_pb(build(:pbcore_description_document,
+      instantiations: [
+        build(:pbcore_instantiation,
+          annotations: [
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'KQED'),
+            build(:pbcore_instantiation_annotation, type: 'organization', value: 'Library of Congress')
+          ]
+        )
+      ]    
+    ))
+  end
 
-  let(:pbc_supplemental_materials) { new_pb(build(:pbcore_description_document,
-    annotations: [
-      build(:pbcore_annotation, type: 'Supplemental Material', ref: 'https://s3.amazonaws.com/americanarchive.org/supplemental-materials/cpb-aacip-509-6h4cn6zm21.pdf', value: 'Production Transcript'),
-    ]
-  )) }
+  let(:pbc_supplemental_materials) do
+    new_pb(build(:pbcore_description_document,
+      annotations: [
+        build(:pbcore_annotation, type: 'Supplemental Material', ref: 'https://s3.amazonaws.com/americanarchive.org/supplemental-materials/cpb-aacip-509-6h4cn6zm21.pdf', value: 'Production Transcript')
+      ]
+    ))
+  end
 
-  let(:pbc_multiple_series_with_episodes) { new_pb(build(:pbcore_description_document,
+  let(:pbc_multiple_series_with_episodes) do
+    new_pb(build(:pbcore_description_document,
 
-    titles: [
-      build(:pbcore_title, type: 'Series', value: 'Writers Forum II'),
-      build(:pbcore_title, type: 'Series', value: 'Readers Forum'),
-      build(:pbcore_title, type: 'Episode', value: 'Writers Writing'),
-      build(:pbcore_title, type: 'Episode', value: 'Readers Reading'),
-      build(:pbcore_title, type: 'Episode Number', value: '42'),
-      build(:pbcore_title, type: 'Episode Number', value: '24'),
-    ],
-  )) }
+      titles: [
+        build(:pbcore_title, type: 'Series', value: 'Writers Forum II'),
+        build(:pbcore_title, type: 'Series', value: 'Readers Forum'),
+        build(:pbcore_title, type: 'Episode', value: 'Writers Writing'),
+        build(:pbcore_title, type: 'Episode', value: 'Readers Reading'),
+        build(:pbcore_title, type: 'Episode Number', value: '42'),
+        build(:pbcore_title, type: 'Episode Number', value: '24')
+      ],
+    ))
+  end
 
-  let(:pbc_multiple_episodes_one_series) { new_pb(build(:pbcore_description_document,
+  let(:pbc_multiple_episodes_one_series) do
+    new_pb(build(:pbcore_description_document,
 
-    titles: [
-      build(:pbcore_title, type: 'Series', value: 'Writers Forum II'),
-      build(:pbcore_title, type: 'Episode', value: 'Writers Writing Again'),
-      build(:pbcore_title, type: 'Episode', value: 'Readers Reading Again'),
-      build(:pbcore_title, type: 'Episode Number', value: '43'),
-      build(:pbcore_title, type: 'Episode Number', value: '25'),
-    ],
-  )) }
+      titles: [
+        build(:pbcore_title, type: 'Series', value: 'Writers Forum II'),
+        build(:pbcore_title, type: 'Episode', value: 'Writers Writing Again'),
+        build(:pbcore_title, type: 'Episode', value: 'Readers Reading Again'),
+        build(:pbcore_title, type: 'Episode Number', value: '43'),
+        build(:pbcore_title, type: 'Episode Number', value: '25')
+      ],
+    ))
+  end
 
   describe ValidatedPBCore do
-
     describe 'accepts clean full record' do
       it "accepts the good guy" do
         expect { ValidatedPBCore.new(@pbc_xml) }.not_to raise_error
@@ -248,11 +263,10 @@ describe 'Validated and plain PBCore' do
     end
 
     describe 'invalid docs' do
-
       before(:all) do
         @pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
       end
-      
+
       it 'rejects missing closing brace' do
         invalid_pbcore = @pbc_xml.sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to_raise_error
@@ -317,7 +331,6 @@ describe 'Validated and plain PBCore' do
   end
 
   describe PBCorePresenter do
-
     it 'SRT on S3 matches fixture' do
       # Rather than mocking more of it up, the ingest test really pulls an SRT from S3.
       # ... but we still want to make sure that that SRT before it is cleaned has the data we expect.
@@ -341,7 +354,6 @@ describe 'Validated and plain PBCore' do
     end
 
     context 'PBCorePresenter Methods' do
-
       before(:all) do
         cleaner = Cleaner.instance
         @pbc = PBCorePresenter.new(cleaner.clean(@pbc_xml))
@@ -349,7 +361,6 @@ describe 'Validated and plain PBCore' do
 
       describe '.to_solr' do
         it 'constructs values for solr_document from pbcore xml' do
-
           # allowing this duplication so its clear that this xml needs to be cleaned as part of ingest process, rather than coming straight out of the pbcore gem
           cleaner = Cleaner.instance
           expect(@pbc.to_solr).to eq(
@@ -737,7 +748,7 @@ describe 'Validated and plain PBCore' do
 
         PBCoreIngester.new.delete_all
 
-        @playlist_1_xml = just_xml(build(:pbcore_description_document,
+        @playlist_1_xml = build(:pbcore_description_document,
           titles: [
             build(:pbcore_title, value: 'just-here-for-cleaner')
           ],
@@ -753,11 +764,11 @@ describe 'Validated and plain PBCore' do
           annotations: [
             build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
             build(:pbcore_annotation, type: 'Playlist Order', value: '1'),
-            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
           ]
-        ))
+        ).to_xml
 
-        @playlist_2_xml = just_xml(build(:pbcore_description_document,
+        @playlist_2_xml = build(:pbcore_description_document,
           titles: [
             build(:pbcore_title, value: 'just-here-for-cleaner')
           ],
@@ -774,11 +785,11 @@ describe 'Validated and plain PBCore' do
           annotations: [
             build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
             build(:pbcore_annotation, type: 'Playlist Order', value: '2'),
-            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
           ]
-        ))
+        ).to_xml
 
-        @playlist_3_xml = just_xml(build(:pbcore_description_document,
+        @playlist_3_xml = build(:pbcore_description_document,
           titles: [
             build(:pbcore_title, value: 'just-here-for-cleaner')
           ],
@@ -794,12 +805,12 @@ describe 'Validated and plain PBCore' do
           annotations: [
             build(:pbcore_annotation, type: 'Playlist Group', value: 'nixonimpeachmentday2'),
             build(:pbcore_annotation, type: 'Playlist Order', value: '3'),
-            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
+            build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room')
 
           ]
-        ))
+        ).to_xml
 
-        @playlist_1 =  PBCorePresenter.new(@playlist_1_xml)
+        @playlist_1 = PBCorePresenter.new(@playlist_1_xml)
         @playlist_2 = PBCorePresenter.new(@playlist_2_xml)
         @playlist_3 = PBCorePresenter.new(@playlist_3_xml)
 
