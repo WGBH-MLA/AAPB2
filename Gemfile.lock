@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/WGBH-MLA/pbcore
-  revision: 9591e1ff114244fc44f6602c6e12e14edde8c740
+  revision: 762c4a965f64d37bb839836813dd30cb2a8b1481
   branch: pull-in-factories
   specs:
     pbcore (0.1.1)
