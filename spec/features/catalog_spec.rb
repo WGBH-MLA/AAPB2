@@ -5,7 +5,6 @@ require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../support/feature_test_helper'
 
 describe 'Catalog' do
-
   IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
   before(:all) do
