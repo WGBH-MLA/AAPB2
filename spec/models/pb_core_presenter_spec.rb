@@ -66,10 +66,10 @@ describe 'Validated and plain PBCore' do
 
       rights_summaries: [
         build(:pbcore_rights_summary,
-          rights_summary: build(:rights_summary, value: 'Copy Left: All rights reversed.')
+          rights_summary: build(:pbcore_rights_summary, value: 'Copy Left: All rights reversed.')
         ),
         build(:pbcore_rights_summary,
-          rights_summary: build(:rights_summary, value: 'Copy Right: Reverse all rights.')
+          rights_summary: build(:pbcore_rights_summary, value: 'Copy Right: Reverse all rights.')
         )
       ],
 
