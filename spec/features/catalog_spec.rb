@@ -195,12 +195,12 @@ describe 'Catalog' do
 
     # TODO: need a new fixture for this?
     # describe '.mods' do
-      # it 'works' do
-      #   visit "/catalog/#{@public_record.id}.mods"
-      #   expect(page.status_code).to eq(200)
-      #   expect(page.source).to eq(@public_record.mods)
-      #   expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
-      # end
+    #   it 'works' do
+    #     visit "/catalog/#{@public_record.id}.mods"
+    #     expect(page.status_code).to eq(200)
+    #     expect(page.source).to eq(@public_record.mods)
+    #     expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
+    #   end
     # end
 
     def expect_all_the_text(target)
