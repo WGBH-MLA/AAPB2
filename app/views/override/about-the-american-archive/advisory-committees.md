@@ -39,7 +39,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>Executive Director, National Council for History Education
 
 **Sherry Levitt**
-<br>Director, Teaching with Primary Sources 
+<br>Executive Director, Teaching with Primary Sources, Virginia 
 
 **Lawrence M. Paska**
 <br>Executive Director, National Council for the Social Studies
@@ -56,8 +56,8 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Ted Sicker**
 <br>Executive Producer, Education, WGBH
 
-**Cynthia Szwajkowski**
-<br>Assistant Director, Teaching with Primary Sources
+**Dr. Cynthia Szwajkowski**
+<br>Assistant Director, Teaching with Primary Sources, Virginia
 
 ---
 
