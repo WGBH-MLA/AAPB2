@@ -31,7 +31,7 @@ The BMA was established in 1995, with the Peabody Awards Collection as the basis
 ## Funders
 Digitization, preservation, and access to this collection was funded by the National Historical Publications and Records Commission in 2017. 
 
-!(https://s3.amazonaws.com/americanarchive.org/special-collections/NHPRC_file.jpg)(https://www.archives.gov/nhprc)
+![NHPRC](https://s3.amazonaws.com/americanarchive.org/special-collections/NHPRC_file.jpg)(https://www.archives.gov/nhprc)
 
 ## Help
 
