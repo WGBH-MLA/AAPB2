@@ -14,11 +14,11 @@ The BMA was established in 1995, with the Peabody Awards Collection as the basis
 
 ## Featured
 
-[![Crocker Snow](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_15-70msbs9c)
+[![Crocker Snow](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_15-70msbs9c)
 [![Zoom](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-89r22rvt.jpg)](/catalog/cpb-aacip_15-89r22rvt)
 [![Dying](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-23612tff.jpg)](/catalog/cpb-aacip_15-23612tff)
-[![Police Safety Program](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_526-959c53g37z)
-[![It’s Your Government](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_526-ng4gm82w5x)
+[![Police Safety Program](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_526-959c53g37z)
+[![It’s Your Government](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_526-ng4gm82w5x)
 [![Agronsky At Large](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_526-bz6154fv12.jpg)](/catalog/cpb-aacip_526-bz6154fv12)
 
 ## Resources
