@@ -21,7 +21,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 ### Current Education Advisory Committee Members 
 
 **Franky Abbott**
-<br>Curation and Education Strategist, Digital Public Library of America
+<br>Independent Education Consultant
 
 **Tom Bober (EduAC Co-Chair)**
 <br>School Librarian, School District of Clayton, MO
@@ -51,7 +51,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>Director of Educational Outreach, Library of Congress
 
 **Nate Sleeter**
-<br>Digital Teaching and Learning Specialist, Roy Rosenzweig Center for History and New Media, George Mason University, VA
+<br>Postdoctoral Fellow in Digital Teaching and Learning, George Mason University, VA
 
 **Ted Sicker**
 <br>Executive Producer, Education, WGBH
@@ -103,7 +103,7 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 <br>Post-Doctoral Fellow, Philadelphia Science History Institute
 
 **Kathryn Ostrofsky**
-<br>Instructor, Department of History, Angelo State University, TX
+<br>Freelance Historian
 
 **Allison Perlman (SAC Co-Chair)**
 <br>Associate Professor of Film and Media Studies and History, University of California, Irvine 
@@ -164,7 +164,7 @@ organizations, producers and leaders) and beyond <br>
 **Robert Chehoski**
 <br>Manager, Media Management and Archives, KQED
 
-**Christophe Holmes**
+**Christopher Holmes**
 <br>Division Director - Production, Alabama Public Television
 
 **Kevin Crane**
