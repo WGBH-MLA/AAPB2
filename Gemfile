@@ -99,7 +99,6 @@ gem 'nokogiri', '~> 1.8.4'
 gem 'bigdecimal'
 
 gem 'factory_bot_rails', '~> 4.0'
-gem 'pbcore', path: '/Users/henry_neels/gbh/pbcore'
-# gem 'pbcore', git: 'https://github.com/WGBH-MLA/pbcore', branch: 'pull-in-factories'
+gem 'pbcore', git: 'https://github.com/WGBH-MLA/pbcore', branch: 'pull-in-factories'
 
 gem 'faker', '1.9.3'
