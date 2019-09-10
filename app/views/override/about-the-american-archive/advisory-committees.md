@@ -41,7 +41,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Sherry Levitt**
 <br>Executive Director, Teaching with Primary Sources, Virginia 
 
-**Lawrence M. Paska**
+**Lawrence Paska**
 <br>Executive Director, National Council for the Social Studies
 
 **Joseph Phelan**
