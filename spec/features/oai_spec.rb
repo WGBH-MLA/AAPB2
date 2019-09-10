@@ -3,7 +3,7 @@ require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'OAI-PMH' do
   before(:all) do
-    @public_xml = just_xml(build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true))
+    @public_xml = build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true).to_xml
 
     PBCoreIngester.new.delete_all
     cleaner = Cleaner.instance
