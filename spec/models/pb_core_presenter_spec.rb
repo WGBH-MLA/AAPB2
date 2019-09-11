@@ -272,7 +272,7 @@ describe 'Validated and plain PBCore' do
 
       it 'rejects missing closing brace' do
         invalid_pbcore = @pbc_xml.sub(/>\s*$/, '')
-        expect { ValidatedPBCore.new(invalid_pbcore) }.to_raise_error
+        expect { ValidatedPBCore.new(invalid_pbcore) }.to raise_error
       end
 
       it 'rejects missing closing tag' do

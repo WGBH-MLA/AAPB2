@@ -26,8 +26,10 @@ class ValidatedPBCore < PBCorePresenter
     # Don't like excluding :transcript_content here, but Rails.logger isn't available during ingest for CaptionConverter.parse_srt
     errors = []
     (PBCorePresenter.instance_methods(false) - [:to_solr, :transcript_content, :exhibits, :xml=, :pbcore=, :pairs_by_type, :people_data]).each do |method|
-      begin
 
+
+      begin
+        require('pry');binding.pry if method == :id
         send(method)
       rescue => e
         errors << (["'##{method}' failed: #{e.message}"] + e.backtrace[0..2]).join("\n")

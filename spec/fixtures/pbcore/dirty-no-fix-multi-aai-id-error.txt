@@ -1,1 +1,1 @@
-Method validation errors: '#id' failed: Expected 1 match for '/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]'; got 2
+Only one AAPB GUID is allowed per record!

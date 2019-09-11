@@ -135,7 +135,11 @@ class PBCorePresenter
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
     # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
     # TODO: https://github.com/WGBH/AAPB2/issues/870
-    @id ||= identifiers.select { |id| id.source == 'http://americanarchiveinventory.org' }.first.value.gsub('cpb-aacip/', 'cpb-aacip_')
+    @id ||= begin
+      ideez = identifiers.select { |id| id.source == 'http://americanarchiveinventory.org' }
+      raise "Only one AAPB GUID is allowed per record!" unless ideez.count == 1
+      ideez.first.value.gsub('cpb-aacip/', 'cpb-aacip_')
+    end
   end
   SONY_CI = 'Sony Ci'.freeze
   def ids
