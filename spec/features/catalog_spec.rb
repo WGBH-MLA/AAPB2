@@ -3,12 +3,10 @@ require 'resolv'
 require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
 require_relative '../../scripts/lib/cleaner'
-require_relative '../support/validation_helper'
 require_relative '../support/feature_test_helper'
 
 # rubocop:disable Style/AlignParameters
 describe 'Catalog' do
-  include ValidationHelper
   IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
   def expect_count(count)
