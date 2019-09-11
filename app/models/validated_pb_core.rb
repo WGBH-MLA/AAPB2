@@ -29,7 +29,6 @@ class ValidatedPBCore < PBCorePresenter
 
 
       begin
-        require('pry');binding.pry if method == :id
         send(method)
       rescue => e
         errors << (["'##{method}' failed: #{e.message}"] + e.backtrace[0..2]).join("\n")
