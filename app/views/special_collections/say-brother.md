@@ -37,6 +37,10 @@ Records are described at an item level, and searches by date, year or topic will
 
 ## Terms
 
+
+## Timeline
+
 ## Sort
 
 asset_date+asc
+

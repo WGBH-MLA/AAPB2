@@ -44,6 +44,8 @@ American community and the public at large. This collection was digitized as par
 
 ## Terms
 
+## Timeline
+
 ## Sort
 
 title+asc
