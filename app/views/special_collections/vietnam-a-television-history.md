@@ -1,4 +1,4 @@
-# <em>Vietnam: A Television History</em> Interviews Collection
+# <em>Vietnam: A Television History</em> Interviews Collection 
 
 ## Thumbnail
 
@@ -43,3 +43,6 @@ Several of the recordings in the collection are multi-part conversations with a 
 
 ## Terms
 
+## Sort
+
+title+asc
