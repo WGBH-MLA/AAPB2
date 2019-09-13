@@ -6,7 +6,7 @@
 
 ## Summary
 
-The LGBT+ Collection includes 2313 public radio and televisions programs and original materials contributed to the American Archive of Public Broadcasting (AAPB) by 58 stations and organizations from across the United States. The recordings date from the late 1950s to 2018. The collection documents the representation of the LGBT+ community in public media, including conversations, social and political reactions, and cultural movements associated with LGBT+ history. These topics are presented through interviews, newscasts, lectures, and more.
+The LGBT+ Collection includes over 500 public radio and televisions programs and original materials contributed to the American Archive of Public Broadcasting (AAPB) by 35 stations and organizations from across the United States. The recordings date from the late 1950s to 2018. The collection documents the representation of the LGBT+ community in public media, including conversations, social and political reactions, and cultural movements associated with LGBT+ history. These topics are presented through interviews, newscasts, lectures, and more.
 
 ## Background
 

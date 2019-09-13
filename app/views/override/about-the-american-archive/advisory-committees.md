@@ -36,7 +36,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>General Manager, C89.5 / KNHC Public Radio
 
 **Justin Jakovac**
-<br>Executive Director, National Council for History Education
+<br>Executive Director, Mountain Plains Museum Association
 
 **Sherry Levitt**
 <br>Executive Director, Teaching with Primary Sources, Virginia 
