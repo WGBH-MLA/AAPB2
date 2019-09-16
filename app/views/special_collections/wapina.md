@@ -3,6 +3,7 @@
 ## Thumbnail
 
 ![War and Peace in the Nuclear Age](https://s3.amazonaws.com/americanarchive.org/special-collections/WAPINA_Poster.jpg "WarandPeace")
+Poster Artwork Courtesy of Jan Sawka, 1988.
 
 ## Summary
 
