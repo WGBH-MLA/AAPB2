@@ -95,15 +95,6 @@ Ramer received the American Jewish Committee Community Service Award in 1987 and
 
 Ramer is a graduate of Princeton University and Harvard Law School. He is married to Madeline Ramer, with whom he has four children and five grandchildren.
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Cokie_Roberts.jpg" alt="Cokie Roberts" aria-hidden="true"/>
-### Cokie Roberts
-#### Vice Chair
-Cokie Roberts is a political commentator for ABC News, providing analysis for all network news programming. From 1996-2002, she and Sam Donaldson co-anchored the weekly ABC interview program This Week. Roberts also serves as Senior News Analyst for National Public Radio. In her more than 40 years in broadcasting, she has won countless awards, including three Emmys. She has been inducted into the Broadcasting and Cable Hall of Fame, and was cited by the American Women in Radio and Television as one of the 50 greatest women in the history of broadcasting.
-
-In addition to her appearances on the airwaves, Roberts, along with her husband, Steven V. Roberts, writes a weekly column syndicated in newspapers around the country by United Media. The Roberts also are contributing editors to USA Weekend Magazine, and in 2011 they published Our Haggadah, Uniting Traditions for Interfaith Families. Their earlier collaboration, From This Day Forward, an account of their more than 40 year marriage and other marriages in American history, immediately went onto The New York Times bestseller list. All of Cokie Roberts’s other books have also been best-sellers, including the number one bestseller, We Are Our Mothers’ Daughters, an account of women’s roles and relationships throughout American history. Her other bestselling books — Founding Mothers, published in 2004 and Ladies of Liberty in 2008 — are histories of women in America’s founding era. In 2014, Cokie Robert’s published a children’s version of Founding Mothers. Based on the original book, this version introduces young readers to the brave, brilliant, and enterprising women whose influence on the founding of our country was as instrumental as that of the men whose names are inked in history.
-
-Cokie Roberts holds more than 25 honorary degrees, serves on the boards of several nonprofit institutions and was on the President Bush’s Commission on Service and Civic Participation. In 2008, the Library of Congress named her a “Living Legend,” one of the very few Americans to have attained that honor. She is the mother of two and grandmother of six.
-
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/siemering_photo.jpg" alt="Bill Siemering" aria-hidden="true"/>
 ### Bill Siemering
 As a founding member of the NPR Board of Directors, Bill Siemering wrote NPR's original mission and goals. He was then hired to implement it as NPR’s first director of programming and led the development of *All Things Considered*. Later, Siemering developed *Fresh Air* with Terry Gross from a local into a national program while vice president for radio at WHYY in Philadelphia. He began working overseas in 1993 as a recipient of a MacArthur Foundation Fellowship. He worked with the Open Society Foundation, (Soros) for ten years, focused on Eastern Europe, Africa and Mongolia. In 2004, he founded Developing Radio Partners (DRP) to enrich the programing of local stations in Africa on climate change and health for women and youth.  He received a Lifetime Achievement Award from National Public Radio and an honorary doctorate from State University of New York at Buffalo and from Arcadia University, Glenside, Pennsylvania. Siemering currently serves as a Senior Fellow at the Wyncote Foundation.
@@ -189,6 +180,18 @@ In addition, he is a former chairman of The RAND Corporation, trustee emeritus o
 Mr. Minow has written five books and numerous magazine articles.
 
 Mr. Minow and his wife, Josephine (Jo) live in Chicago. They have three daughters, Nell, Martha and Mary.
+
+
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Cokie_Roberts.jpg" alt="Cokie Roberts" aria-hidden="true"/>
+### Cokie Roberts
+#### Former Vice Chair
+Cokie Roberts, journalist and political commentator who was recognized by the American Women in Radio and Television as one of the 50 greatest women in the history of broadcasting, served on the AAPB Executive Advisory Council from 2015-2019 and served as Vice Chair from 2018-2019. She passed away on September 17, 2019 at the age of 75 after a battle with breast cancer.
+
+Cokie Roberts was a political commentator for ABC News, providing analysis for all network news programming. From 1996-2002, she and Sam Donaldson co-anchored the weekly ABC interview program This Week. Roberts also served as Senior News Analyst for National Public Radio. In her more than 40 years in broadcasting, she won countless awards, including three Emmys. She was inducted into the Broadcasting and Cable Hall of Fame.
+
+In addition to her appearances on the airwaves, Roberts, along with her husband, Steven V. Roberts, wrote a weekly column syndicated in newspapers around the country by United Media. Roberts was also contributing editor to USA Weekend Magazine, and in 2011 she and her husband Steven V. Roberts published Our Haggadah, Uniting Traditions for Interfaith Families. Their earlier collaboration, From This Day Forward, an account of their more than 40 year marriage and other marriages in American history, immediately went onto The New York Times bestseller list. All of Cokie Roberts’s other books have also been best-sellers, including the number one bestseller, We Are Our Mothers’ Daughters, an account of women’s roles and relationships throughout American history. Her other bestselling books — Founding Mothers, published in 2004 and Ladies of Liberty in 2008 — are histories of women in America’s founding era. In 2014, Cokie Roberts published a children’s version of Founding Mothers. Based on the original book, this version introduces young readers to the brave, brilliant, and enterprising women whose influence on the founding of our country was as instrumental as that of the men whose names are inked in history.
+
+Cokie Roberts held more than 25 honorary degrees, served on the boards of several nonprofit institutions and was on the President Bush’s Commission on Service and Civic Participation. In 2008, the Library of Congress named her a “Living Legend,” one of the very few Americans to have attained that honor. She was the mother of two and grandmother of six.
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Patricia_Steele.jpg" alt="Patricia Steele" aria-hidden="true"/>
 ### Patricia Steele
