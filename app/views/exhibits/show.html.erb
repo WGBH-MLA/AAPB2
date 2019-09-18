@@ -1,5 +1,5 @@
 <% content_for :main do %>
-  
+
   <% has_main_text = @exhibit.main_html.length > 0 || @exhibit.extended_html.length > 0 %>
   <% @exhibit_color_suffix = @exhibit.subsection? ? '-section' : '' %>
 
@@ -31,7 +31,7 @@
         </div>
       </div>
 
-      <div id="exhibit-text-container" class="row <%= has_main_text ? 'exhibit-abbreviate' : '' %>" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
+      <div id="exhibit-text-container" class="row exhibit-text" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
 
         <h3 id="exhibit-overview-title" class="exhibit-title exhibit-color<%= @exhibit_color_suffix %>">
           <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
@@ -49,25 +49,6 @@
             <%= @exhibit.extended_html.html_safe %>
           </span>
         <% end %>
-      </div>
-
-      <div class="row">
-
-        <span class="exhibit-color<%= @exhibit_color_suffix %>" style="float: right;">
-          
-          <% if has_main_text  %>
-
-            <span id="more" class="bold">
-              Expand to read more <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/read_more<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
-            </span>
-
-            <span id="less" class="hide bold">
-              Read less <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/read_less<%= @exhibit.subsection? ? '_section' : '' %>.png" class="icon-size">
-            </span>
-          <% end %>
-
-        </span>
-
       </div>
     </div>
 
@@ -106,7 +87,7 @@
         <% exes.first.sort_by(&:head_html).each do |exhibit| %>
 
           <div class="col-md-3 exhibit-section-margin">
-            <div class="exhibit-section-container"> 
+            <div class="exhibit-section-container">
               <%= exhibit.cover.to_s.html_safe %>
             </div>
           </div>
@@ -215,17 +196,6 @@
                   records: @exhibit.records
                 }) %>
   </div>
-
-  <script type="text/javascript">
-
-    $(document).ready(function() {
-      $('#more, #less').click(function() {
-        $('#exhibit-text-container').toggleClass('exhibit-abbreviate');
-        $('#more, #less').toggleClass('hide');
-      })
-    });
-
-  </script>
 
 <% end %>
 

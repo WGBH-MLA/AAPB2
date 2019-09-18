@@ -7,7 +7,7 @@ class CatalogController < ApplicationController
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
-  self.search_params_logic += [:quote_handler]
+  self.search_params_logic += [:apply_quote_handler, :apply_date_filter]
 
   configure_blacklight do |config|
     # 'list' is the name of blacklight's default search result view style
@@ -110,9 +110,6 @@ class CatalogController < ApplicationController
                                                       partial: 'producing_organizations_facet',
                                                       collapse: :force
     # Display all, even when one is selected.
-    config.add_facet_field 'year',  sort: 'index',
-                                    range: true,
-                                    message: 'Cataloging in progress: only half of the records for digitized assets are currently dated.'
     config.add_facet_field 'access_types',  label: 'Access',
                                             partial: 'access_facet',
                                             tag: 'access',
@@ -177,8 +174,8 @@ class CatalogController < ApplicationController
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
     config.add_sort_field 'score desc', label: 'relevance'
-    config.add_sort_field 'year desc', label: 'year (newest)'
-    config.add_sort_field 'year asc', label: 'year (oldest)'
+    config.add_sort_field 'asset_date desc', label: 'date (newest)'
+    config.add_sort_field 'asset_date asc', label: 'date (oldest)'
     config.add_sort_field 'title asc', label: 'title'
 
     # If there are more than this many search results, no spelling ("did you
@@ -198,9 +195,9 @@ class CatalogController < ApplicationController
     if !params[:f] || !params[:f][:access_types]
       base_query = params.except(:action, :controller).to_query
       access = if current_user.onsite?
-                 PBCore::DIGITIZED_ACCESS
+                 PBCorePresenter::DIGITIZED_ACCESS
                else
-                 PBCore::PUBLIC_ACCESS
+                 PBCorePresenter::PUBLIC_ACCESS
                end
       redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
     else
@@ -255,7 +252,7 @@ class CatalogController < ApplicationController
 
     respond_to do |format|
       format.html do
-        @pbcore = PBCore.new(xml)
+        @pbcore = PBCorePresenter.new(xml)
         @skip_orr_terms = can? :skip_tos, @pbcore
         if can? :play, @pbcore
           # can? play because we're inside this block
@@ -268,7 +265,7 @@ class CatalogController < ApplicationController
           if @document.transcript?
             @transcript_content = TranscriptFile.new(params['id']).html
 
-            if @pbcore.transcript_status == PBCore::CORRECTING_TRANSCRIPT
+            if @pbcore.transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
               @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
             end
           elsif @document.caption?
@@ -278,12 +275,10 @@ class CatalogController < ApplicationController
 
           # how shown are we talkin here?
           if @transcript_content
-            if @pbcore.transcript_status == PBCore::CORRECT_TRANSCRIPT
+            if @pbcore.transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
               @transcript_open = true
             else
-              # rubocop:disable LineLength
               @transcript_message = 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>'
-              # rubocop:enable LineLength
               @transcript_open = false
             end
           end
@@ -291,13 +286,15 @@ class CatalogController < ApplicationController
           @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
         end
 
+        @exhibits = Exhibit.find_top_by_item_id(@pbcore.id)
+
         render
       end
       format.pbcore do
         render text: xml
       end
       format.mods do
-        render text: PBCore.new(xml).to_mods
+        render text: PBCorePresenter.new(xml).to_mods
       end
     end
   end
@@ -308,13 +305,12 @@ class CatalogController < ApplicationController
 
   private
 
-  # Style/GuardClause
   def exhibit_from_url
     # Despite 'exhibit' field being multi-valued in solrconfig.xml, we're only
     # returning the first exhibit from the URL we currently only allow users to
     # select 1 exhibit in the UI, via the 'Show all items' link on the exhibit
     # pages are Cmless pages.
-    if params['f'] && params['f']['exhibits'] && !params['f']['exhibits'].empty? # rubocop:disable Style/GuardClause
+    if params['f'] && params['f']['exhibits'] && !params['f']['exhibits'].empty?
       path = params['f']['exhibits'].first
       begin
         return Exhibit.find_by_path(path)

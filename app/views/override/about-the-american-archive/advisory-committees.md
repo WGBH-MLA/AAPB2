@@ -21,7 +21,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 ### Current Education Advisory Committee Members 
 
 **Franky Abbott**
-<br>Curation and Education Strategist, Digital Public Library of America
+<br>Independent Education Consultant
 
 **Tom Bober (EduAC Co-Chair)**
 <br>School Librarian, School District of Clayton, MO
@@ -36,12 +36,12 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>General Manager, C89.5 / KNHC Public Radio
 
 **Justin Jakovac**
-<br>Executive Director, National Council for History Education
+<br>Executive Director, Mountain Plains Museum Association
 
 **Sherry Levitt**
-<br>Director, Teaching with Primary Sources 
+<br>Executive Director, Teaching with Primary Sources, Virginia 
 
-**Lawrence M. Paska**
+**Lawrence Paska**
 <br>Executive Director, National Council for the Social Studies
 
 **Joseph Phelan**
@@ -51,13 +51,13 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>Director of Educational Outreach, Library of Congress
 
 **Nate Sleeter**
-<br>Digital Teaching and Learning Specialist, Roy Rosenzweig Center for History and New Media, George Mason University, VA
+<br>Postdoctoral Fellow in Digital Teaching and Learning, George Mason University, VA
 
 **Ted Sicker**
 <br>Executive Producer, Education, WGBH
 
-**Cynthia Szwajkowski**
-<br>Assistant Director, Teaching with Primary Sources
+**Dr. Cynthia Szwajkowski**
+<br>Assistant Director, Teaching with Primary Sources, Virginia
 
 ---
 
@@ -93,8 +93,8 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Dimitrios Latsis**
 <br>Assistant Professor, Ryerson University, Toronto, ON
 
-**Jeffrey McLurkin**
-<br>Chief of Staff and Professor of History and American Studies, University of Mary Washington, VA
+**Jeffrey W. McClurken**
+<br>Professor of History and American Studies and Chief of Staff to the President at the University of Mary Washington, VA
 
 **Trevor Muñoz**
 <br>Interim Director, Maryland Institute for Technology in the Humanities (MITH); Assistant Dean for Digital Humanities Research, University Libraries, University of Maryland
@@ -103,7 +103,7 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 <br>Post-Doctoral Fellow, Philadelphia Science History Institute
 
 **Kathryn Ostrofsky**
-<br>Instructor, Department of History, Angelo State University, TX
+<br>Freelance Historian
 
 **Allison Perlman (SAC Co-Chair)**
 <br>Associate Professor of Film and Media Studies and History, University of California, Irvine 
@@ -164,8 +164,8 @@ organizations, producers and leaders) and beyond <br>
 **Robert Chehoski**
 <br>Manager, Media Management and Archives, KQED
 
-**Roy Clem**
-<br>Executive Director, Alabama Public Television
+**Christopher Holmes**
+<br>Division Director - Production, Alabama Public Television
 
 **Kevin Crane**
 <br>President and CEO, Nashville Public Television

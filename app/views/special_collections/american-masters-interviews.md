@@ -6,7 +6,7 @@
 
 ## Summary
 
-The *American Masters* Interviews Collection consists of 2,191 digital files of interviews conducted with luminaries discussing America’s most enduring artistic and cultural giants. The interviews were recorded on videotape by THIRTEEN and associated producers between 1993 and 2012 for episodes of the award-winning PBS biography series *American Masters*. An interview may span more than one digital file, or a file may contain multiple interviews. Episode topics focus on a significant artist, work, or organization, and an interview will primarily concern the associated episode’s featured topic. The questions asked of interviewees are usually audible. Recordings typically range between 30 minutes and an hour in length. Researchers can access the full collection only on location at the Library of Congress and WGBH. WNET’s digitization of this collection was supported in part by a grant from the National Endowment for the Arts.
+The *American Masters* Interviews Collection consists of 2,191 digital files of interviews conducted with luminaries discussing America’s most enduring artistic and cultural giants. The interviews were recorded on videotape by THIRTEEN and associated producers between 1993 and 2012 for episodes of the award-winning PBS biography series *American Masters*. An interview may span more than one digital file, or a file may contain multiple interviews. Episode topics focus on a significant artist, work, or organization, and an interview will primarily concern the associated episode’s featured topic. The questions asked of interviewees are usually audible. Recordings typically range between 30 minutes and an hour in length. Researchers can access the interviews only on location at the Library of Congress and WGBH. WNET’s digitization of this collection was supported in part by a grant from the National Endowment for the Arts.
 
 
 ## Background
@@ -38,3 +38,9 @@ The *American Masters* Interviews Collection consists of 2,191 digital files o
 
 
 ## Terms
+
+## Timeline
+
+## Sort
+
+title+asc

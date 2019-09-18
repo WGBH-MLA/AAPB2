@@ -1,4 +1,4 @@
-<% PBCore.new(document['xml']).tap do |pbcore| %>
+<% PBCorePresenter.new(document['xml']).tap do |pbcore| %>
 
   <% # header bar for doc items in index view -%>
   <div class="documentHeader media"><!-- Document Header -->
@@ -14,7 +14,7 @@
                      class="media-object index-item"
                      aria-hidden="true"
                      alt="thumbnail of <%= pbcore.title %>" />
-                <% if pbcore.media_type == PBCore::MOVING_IMAGE && pbcore.digitized? == true %>
+                <% if pbcore.media_type == PBCorePresenter::MOVING_IMAGE && pbcore.digitized? == true %>
                   <div>
                     <img src="/thumbs/VIDEO.png"
                          class="index-item"

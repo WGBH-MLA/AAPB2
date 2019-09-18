@@ -7,17 +7,17 @@
     facet_counts = Hash[display_facet.items.map{|i| [i.value, i.hits]}]
     [
       {
-        value: PBCore::PUBLIC_ACCESS,
+        value: PBCorePresenter::PUBLIC_ACCESS,
         title: 'Available Online',
         info_text: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.',
         order_class: 'first-access-facet' },
       {
-        value: PBCore::DIGITIZED_ACCESS,
+        value: PBCorePresenter::DIGITIZED_ACCESS,
         title: 'All Digitized',
         info_text: 'All video and audio, available either online, or on location at WGBH or the Library of Congress.',
         order_class: 'second-access-facet' },
       {
-        value: PBCore::ALL_ACCESS,
+        value: PBCorePresenter::ALL_ACCESS,
         title: 'All Records',
         info_text: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not been digitized.',
         order_class: 'third-access-facet' }

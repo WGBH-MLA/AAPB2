@@ -43,6 +43,29 @@ $gallery-height: 10em;
   height: $gallery-height;
 }
 
+/*date range specifics*/
+.date-range-label {
+  display: inline;
+  margin-right: 1em;
+}
+
+.date-range-label-container {
+  margin-bottom: 0.5em;
+  font-size: 14px;
+}
+
+.date-range-title {
+  text-decoration: none;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #292a72;
+}
+
+
+
+
 @media (max-width: 767px) {
   .gallery-thumb {
 

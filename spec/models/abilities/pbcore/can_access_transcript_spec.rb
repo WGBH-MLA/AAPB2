@@ -6,11 +6,11 @@ describe Ability do
   subject(:ability) { Ability.new(user) }
 
   context 'for PBCore records with transcripts' do
-    let(:pbcore_orr_transcript) { PBCore.new(File.read('./spec/fixtures/pbcore/clean-text-transcript.xml')) }
-    let(:pbcore_indexing_transcript) { PBCore.new(File.read('./spec/fixtures/pbcore/clean-transcript.xml')) }
+    let(:pbcore_orr_transcript) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/clean-text-transcript.xml')) }
+    let(:pbcore_indexing_transcript) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/clean-transcript.xml')) }
 
     context 'when User is offsite' do
-      let(:user) { instance_double(User, 'onsite?' => false, 'aapb_referer?' => false, 'embed?' => false, 'authorized_referer?' => true) }
+      let(:user) { instance_double(User, 'onsite?' => false) }
 
       it 'access_transcript returns true for an ORR transcript' do
         expect(ability).to be_able_to(:access_transcript, pbcore_orr_transcript)
@@ -18,6 +18,18 @@ describe Ability do
 
       it 'access_transcript returns false for an Indexing transcript without public access' do
         expect(ability).to_not be_able_to(:access_transcript, pbcore_indexing_transcript)
+      end
+    end
+
+    context 'when User is onsite' do
+      let(:user) { instance_double(User, 'onsite?' => true) }
+
+      it 'access_transcript returns true for an ORR transcript' do
+        expect(ability).to be_able_to(:access_transcript, pbcore_orr_transcript)
+      end
+
+      it 'access_transcript returns false for an Indexing transcript without public access' do
+        expect(ability).to be_able_to(:access_transcript, pbcore_indexing_transcript)
       end
     end
   end

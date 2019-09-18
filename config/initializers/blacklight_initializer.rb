@@ -1,8 +1,8 @@
 module LoadXML
   def method_missing(method, *args, &block)
-    if PBCore.instance_methods(false).include?(method)
+    if PBCorePresenter.instance_methods(false).include?(method)
       # TODO: PBCore was not defined soon enough. Must be a better way?
-      @pbcore = Object.const_get('PBCore').new(self['xml_ssm']) unless @pbcore
+      @pbcore = Object.const_get('PBCorePresenter').new(self['xml_ssm']) unless @pbcore
       @pbcore.send(method)
     else
       super

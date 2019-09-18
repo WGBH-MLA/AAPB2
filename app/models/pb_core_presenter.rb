@@ -16,11 +16,14 @@ require_relative '../../lib/formatter'
 require_relative '../../lib/caption_converter'
 require_relative 'transcript_file'
 require_relative 'caption_file'
+require_relative '../helpers/application_helper'
 
-class PBCore
+class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods
+  include ApplicationHelper
+
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
@@ -386,7 +389,7 @@ class PBCore
                             '//pbcoreDescription[last()]'
                           ].detect { |xp| xpaths(xp).count > 0 }
 
-    caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
+    caption_response = Net::HTTP.get_response(URI.parse(PBCorePresenter.srt_url(id)))
     if caption_response.code == '200'
       pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
@@ -394,7 +397,7 @@ class PBCore
 
       cap_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
         el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-        el.add_text(PBCore.srt_url(id))
+        el.add_text(PBCorePresenter.srt_url(id))
       end
 
       full_doc.insert_after(spot_for_annotations, cap_anno)
@@ -428,6 +431,7 @@ class PBCore
 
       # sort and facet:
       'year' => year,
+      'asset_date' => date_for_assetdate_field,
 
       # facets:
       'exhibits' => exhibits.map(&:path),
@@ -472,7 +476,7 @@ class PBCore
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
     ]
 
-    @text ||= (PBCore.instance_methods(false) - ignores)
+    @text ||= (PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
               .select { |x| x } # skip nils
@@ -506,6 +510,12 @@ class PBCore
 
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+  end
+
+  def date_for_assetdate_field
+    date_val = asset_date
+    return unless date_val
+    handle_date_string(date_val, 'index')
   end
 
   def pre_existing_caption_annotation(doc)

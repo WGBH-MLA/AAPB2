@@ -6,7 +6,7 @@
 
 ## Summary
 
-<em>The Murder of Emmett Till</em> Interviews Collection is made up of 40 raw interviews from the award-winning 2003 <em>American Experience</em> documentary, <em>The Murder of Emmett Till</em>. The film, which chronicles the story of Emmett Till, a 14-year-old who was murdered in 1955 after being accused of whistling at a white woman, follows Till's life and transformation into an icon of the Civil Rights Movement. <em>The Murder of Emmett Till</em> interviews paint a picture of the Jim Crow South, the Mississippi community in which the murder took place, and contain intimate recollections by those who knew Emmett Till. Guests include family and friends of Emmett Till, including Mamie Till Mobley, Emmett Till's mother and Civil Rights activist; and Wheeler Parker, Emmett Till's cousin; as well as journalists, politicians, and witnesses, like Ernest Withers, a photographer known for his photos of the segregated South; Willie Reed, a witness who testified against Emmett Till's murderers; and David Jordan, a Senator from Mississippi. Topics include segregation, Jim Crow, lynching and violence, the American judicial system, journalism, the American South, and the Civil Rights Movement.  
+<em>The Murder of Emmett Till</em> Interviews Collection is made up of 40 raw interviews from the award-winning 2003 <em>American Experience</em> documentary, <em>The Murder of Emmett Till</em>. The film, which chronicles the story of Emmett Till, a 14-year-old who was murdered in 1955 after being accused of whistling at a white woman, follows Till's life and transformation into an icon of the Civil Rights Movement. <em>The Murder of Emmett Till</em> interviews paint a picture of the Jim Crow South, the Mississippi community in which the murder took place, and contain intimate recollections by those who knew Emmett Till. Guests include family and friends of Emmett Till, including Mamie Till Mobley, Emmett Till's mother and Civil Rights activist; and Wheeler Parker, Emmett Till's cousin; as well as journalists, politicians, and witnesses, like Ernest Withers, a photographer known for his photos of the segregated South; Willie Reed, a witness who testified against Emmett Till's murderers; and David Jordan, a Senator from Mississippi. Topics include segregation, Jim Crow, lynching and violence, the American judicial system, journalism, the American South, and the Civil Rights Movement.
 
 ## Background
 
@@ -23,7 +23,7 @@
 
 ## Resources
 
-- [<em>The Murder of Emmett Till</em> Documentary Website](http://www.pbs.org/wgbh/americanexperience/films/till/) 
+- [<em>The Murder of Emmett Till</em> Documentary Website](http://www.pbs.org/wgbh/americanexperience/films/till/)
 - [The Emmett Till Project, Schomburg Center for Research in Black Culture](http://www.emmetttillproject.com/)
 - [Emmett Till FBI Records](https://vault.fbi.gov/Emmett%20Till%20/)
 - [Emmett Till Archives, Florida State University](http://guides.lib.fsu.edu/Till)
@@ -33,9 +33,17 @@
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
 Some of the recordings in the collection are multi-part conversations with a single interviewee.
 
 ## Terms
+
+
+## Timeline
+
+
+## Sort
+
+title+asc
 

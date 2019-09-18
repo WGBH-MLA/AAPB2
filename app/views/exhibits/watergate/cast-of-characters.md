@@ -270,7 +270,7 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 <td style="text-align:center">Aide to Mitchell; Counsel to CREEP</td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="/catalog/cpb-aacip_q23qv3d02h">7/10/73</a>, <a href="/catalog/cpb-aacip_512-3f4kk95012#at_452.00_s">7/11/73</a>, <a href="/catalog/cpb-aacip_512-g15t72866f#at_516.00_s">7/12/73</a></td>
+<td style="text-align:center"><a href="/catalog/cpb-aacip_512-q23qv3d02h">7/10/73</a>, <a href="/catalog/cpb-aacip_512-3f4kk95012#at_452.00_s">7/11/73</a>, <a href="/catalog/cpb-aacip_512-g15t72866f#at_516.00_s">7/12/73</a></td>
 <td style="text-align:center"><a href="/catalog/cpb-aacip_512-8p5v699118#at_3690.00_s">7/18/73</a>, <a href="/catalog/cpb-aacip_512-ws8hd7ps30#at_710.00_s">7/19/73</a></td>
 <td style="text-align:center"><a href="/catalog/cpb-aacip_512-rx93776v6t#at_2286.00_s">7/19/73</a>, <a href="/catalog/cpb-aacip_512-n872v2d787#at_525.00_s">7/20/73</a></td>
 </tr>
@@ -934,3 +934,79 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 ## Gallery
 
 ## Records
+/catalog/cpb-aacip_512-jh3cz33054
+/catalog/cpb-aacip_512-4f1mg7gg9h
+/catalog/cpb-aacip_512-bn9x05z21z
+/catalog/cpb-aacip_512-2n4zg6gr7x
+/catalog/cpb-aacip_512-t43hx16p65
+/catalog/cpb-aacip_512-4746q1t604
+/catalog/cpb-aacip_512-2f7jq0tf8c
+/catalog/cpb-aacip_512-k35m902x08
+/catalog/cpb-aacip_512-vt1gh9c82g
+/catalog/cpb-aacip_512-125q815b4c
+/catalog/cpb-aacip_512-696zw19c5r
+/catalog/cpb-aacip_512-vt1gh9c83s
+/catalog/cpb-aacip_512-b27pn8z46m
+/catalog/cpb-aacip_512-3775t3gp0n
+/catalog/cpb-aacip_512-vh5cc0vt0g
+/catalog/cpb-aacip_512-v40js9j657
+/catalog/cpb-aacip_512-xk84j0c06r
+/catalog/cpb-aacip_512-ww76t0hx8x
+/catalog/cpb-aacip_512-qf8jd4qk7g
+/catalog/cpb-aacip_512-kk94747p23
+/catalog/cpb-aacip_512-jm23b5x51c
+/catalog/cpb-aacip_512-d50ft8fb07
+/catalog/cpb-aacip_512-4j09w09n39
+/catalog/cpb-aacip_512-t727941t86
+/catalog/cpb-aacip_512-cv4bn9xv8x
+/catalog/cpb-aacip_512-q23qv3d02h
+/catalog/cpb-aacip_512-3f4kk95012
+/catalog/cpb-aacip_512-g15t72866f
+/catalog/cpb-aacip_512-8p5v699118
+/catalog/cpb-aacip_512-ws8hd7ps30
+/catalog/cpb-aacip_512-rx93776v6t
+/catalog/cpb-aacip_512-n872v2d787
+/catalog/cpb-aacip_512-x921c1vj3c
+/catalog/cpb-aacip_512-5717m04p93
+/catalog/cpb-aacip_512-6q1sf2n01g
+/catalog/cpb-aacip_512-bz6154fh47
+/catalog/cpb-aacip_512-6688g8g717
+/catalog/cpb-aacip_512-qb9v11wf48
+/catalog/cpb-aacip_512-cf9j38m832
+/catalog/cpb-aacip_512-df6k06xs20
+/catalog/cpb-aacip_512-6d5p844h9d
+/catalog/cpb-aacip_512-s17sn0210s
+/catalog/cpb-aacip_512-599z02zv7t
+/catalog/cpb-aacip_512-1v5bc3tj5x
+/catalog/cpb-aacip_512-k93125r708
+/catalog/cpb-aacip_512-v69862cb8n
+/catalog/cpb-aacip_512-tm71v5cf4r
+/catalog/cpb-aacip_512-4m91834s7x
+/catalog/cpb-aacip_512-7p8tb0zh1p
+/catalog/cpb-aacip_512-hh6c24rg76
+/catalog/cpb-aacip_512-8c9r20sj93
+/catalog/cpb-aacip_512-d795718g4z
+/catalog/cpb-aacip_512-445h99017v
+/catalog/cpb-aacip_512-6w96689903
+/catalog/cpb-aacip_512-5d8nc5t09z
+/catalog/cpb-aacip_512-pr7mp4wh9w
+/catalog/cpb-aacip_512-p55db7wm55
+/catalog/cpb-aacip_512-1r6n010d09
+/catalog/cpb-aacip_512-rb6vx06z38
+/catalog/cpb-aacip_512-br8mc8s645
+/catalog/cpb-aacip_512-930ns0mm7k
+/catalog/cpb-aacip_512-m03xs5k89r
+/catalog/cpb-aacip_512-sj19k46s2d
+/catalog/cpb-aacip_512-qv3bz6261n
+/catalog/cpb-aacip_512-b27pn8z459
+/catalog/cpb-aacip_512-xs5j96193p
+/catalog/cpb-aacip_512-fq9q23rr49
+/catalog/cpb-aacip_512-ks6j09wz71
+/catalog/cpb-aacip_512-zw18k75z7f
+/catalog/cpb-aacip_512-959c53fs02
+/catalog/cpb-aacip_512-1g0ht2gx69
+/catalog/cpb-aacip_512-ng4gm82j83
+/catalog/cpb-aacip_512-v11vd6q221
+/catalog/cpb-aacip_512-p843r0qr75
+/catalog/cpb-aacip_512-cv4bn9xv97
+/catalog/cpb-aacip_512-gt5fb4xd9m

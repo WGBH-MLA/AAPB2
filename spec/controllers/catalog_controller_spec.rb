@@ -3,7 +3,7 @@
 require 'rails_helper'
 describe CatalogController do
   describe 'redirection' do
-    ACCESS = "&f[access_types][]=#{PBCore::PUBLIC_ACCESS}".freeze
+    ACCESS = "&f[access_types][]=#{PBCorePresenter::PUBLIC_ACCESS}".freeze
     it 'redirects if no params' do
       get 'index'
       expect(response).to redirect_to '/catalog?' + ACCESS
@@ -35,17 +35,17 @@ describe CatalogController do
     end
 
     it 'not in effect if q filled in, and access given' do
-      get 'index', q: 'foo', f: { access_types: PBCore::ALL_ACCESS }
+      get 'index', q: 'foo', f: { access_types: PBCorePresenter::ALL_ACCESS }
       expect(response.status).to eq 200
     end
 
     it 'not in effect if f filled in' do
-      get 'index', f: { year: 'data', access_types: PBCore::PUBLIC_ACCESS }
+      get 'index', f: { year: 'data', access_types: PBCorePresenter::PUBLIC_ACCESS }
       expect(response.status).to eq 200
     end
 
     it 'errors if f is gibberish' do
-      expect { get 'index', f: { gibberish: 'data', access_types: PBCore::ALL_ACCESS } }.to raise_error
+      expect { get 'index', f: { gibberish: 'data', access_types: PBCorePresenter::ALL_ACCESS } }.to raise_error
       # TODO: This is the current behavior: do we want something different?
     end
   end

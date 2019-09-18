@@ -68,6 +68,35 @@
 
         </div>
     </div>
+
+    <% if @pbcore.special_collections || @exhibits %>
+      <div class="row">
+        <div class="col-md-12">
+
+          <!-- special collections/exhibit banner -->
+          <% @exhibits.each do |exhibit| %>
+            <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
+            <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
+              <span class="glyphicon glyphicon-star"></span>
+              <strong><%= exhibit_caption %></strong>
+            </a>
+          <% end %>
+          <% if @pbcore.special_collections %>
+            <% @pbcore.special_collections.each do |collection| %>
+              <% if SpecialCollection.valid_collection?(collection) %>
+                <% coll = SpecialCollection.find_by_path(collection) %>
+                <% coll_caption = "This record is featured in “#{coll.title}.”" %>
+                <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
+                  <span class="glyphicon glyphicon-star"></span>
+                  <strong><%= coll_caption %></strong>
+                </a>
+              <% end %>
+            <% end %>
+          <% end %>
+
+        </div>
+      </div>
+    <% end %>
   </div>
 
   <div class="col-md-4 catalog-show-left-col">
@@ -163,7 +192,7 @@
     <div class="catalog-alert">
       <div class="catalog-alert-text">
         <% @pbcore.ids.first[1].tap do |id| %>
-          If you have more information about this item than what is given here, we want to know! <a href="mailto:sadie_roosa@wgbh.org">Contact us</a>, indicating the AAPB ID (<%= id %>).
+          If you have more information about this item than what is given here, we want to know! <a href="mailto:aapb_notifications@wgbh.org">Contact us</a>, indicating the AAPB ID (<%= id %>).
         <% end %>
       </div>
     </div>
