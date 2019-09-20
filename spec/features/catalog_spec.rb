@@ -2,12 +2,9 @@ require 'rails_helper'
 require 'resolv'
 require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
-require_relative '../support/validation_helper'
 require_relative '../support/feature_test_helper'
 
 describe 'Catalog' do
-  include ValidationHelper
-
   IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
   before(:all) do
@@ -85,7 +82,6 @@ describe 'Catalog' do
         expect(page).to have_text(field), missing_page_text_custom_error(field, page.current_path)
       end
       expect_thumbnail(1234)
-      expect_fuzzy_xml
     end
 
     it 'offers to broaden search' do
@@ -107,7 +103,6 @@ describe 'Catalog' do
             visit url
             expect(page.status_code).to eq(200)
             expect_count(count)
-            expect_fuzzy_xml
           end
         end
       end
@@ -144,7 +139,6 @@ describe 'Catalog' do
             ).to eq facet_count # expected number of values for each facet
             expect(page.status_code).to eq(200)
             expect_count(value_count)
-            expect_fuzzy_xml
           end
         end
       end
@@ -159,7 +153,6 @@ describe 'Catalog' do
             it "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
               expect_count(value_count)
-              expect_fuzzy_xml
             end
           end
         end
@@ -175,7 +168,6 @@ describe 'Catalog' do
             xit "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
               expect_count(value_count)
-              expect_fuzzy_xml
             end
           end
         end
@@ -295,7 +287,6 @@ describe 'Catalog' do
               visit url
               expect(page.status_code).to eq(200)
               expect(page.all('.document h2').map(&:text)).to eq(titles)
-              expect_fuzzy_xml
             end
           end
         end
@@ -321,7 +312,6 @@ describe 'Catalog' do
               ).to eq(assertions.map(&:first)) # coverage
               expect(page.status_code).to eq(200)
               expect(page.find('.document[1] h2').text).to eq(title)
-              expect_fuzzy_xml
             end
           end
         end
@@ -387,7 +377,6 @@ describe 'Catalog' do
                 ['15th Anniversary Show'],
                 ['1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']
               ].map { |x| x.join('; ') }.join("\n"))
-            expect_fuzzy_xml
           end
         end
       end
@@ -542,7 +531,6 @@ describe 'Catalog' do
         details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
         it "details: #{details_url}" do
           visit details_url
-          expect_fuzzy_xml
         end
         search_url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
         # because of tokenization, unless we strip the ID down we will get other matches.
@@ -552,7 +540,6 @@ describe 'Catalog' do
           visit search_url
           expect(page.status_code).to eq(200)
           expect_count(1)
-          expect_fuzzy_xml
         end
       end
     end
