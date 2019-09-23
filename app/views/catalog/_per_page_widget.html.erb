@@ -16,7 +16,7 @@
 
 <!--Would much rather this be in a JS file in assets, but wasn't working there due to how search results are loaded -->
 <script>
-  $(document).on('turbolinks:load', function() {
+  $(function() {
     $("body").on('click', '.dropdown-menu li a', function() {
       $("#loading-icon").removeClass('hidden');
     });
