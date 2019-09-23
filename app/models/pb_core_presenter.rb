@@ -100,6 +100,9 @@ class PBCorePresenter
   def title
     @title ||= build_display_title
   end
+  def episode_number_sort
+    @episode_number_sort ||= titles.select { |title| title[0] == "Episode Number" }.map(&:last).sort.first
+  end
   def exhibits
     @exhibits ||= Exhibit.find_all_by_item_id(id)
   end
@@ -424,6 +427,7 @@ class PBCorePresenter
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
       'titles' => titles.map(&:last),
+      'episode_number_sort' => episode_number_sort,
       'contribs' => contribs,
 
       # sort:
