@@ -34,15 +34,15 @@ module XmlBacked
     ((node.respond_to?('text') ? node.text : node.value) || '').strip
   end
 
-  def pairs_by_type(element_xpath, attribute_xpath)
-    REXML::XPath.match(@doc, element_xpath).map do |node|
-      key = REXML::XPath.first(node, attribute_xpath)
-      [
-        key ? key.value : nil,
-        node.text
-      ]
-    end
-  end
+  # def pairs_by_type(element_xpath, attribute_xpath)
+  #   REXML::XPath.match(@doc, element_xpath).map do |node|
+  #     key = REXML::XPath.first(node, attribute_xpath)
+  #     [
+  #       key ? key.value : nil,
+  #       node.text
+  #     ]
+  #   end
+  # end
 
   def hash_by_type(element_xpath, attribute_xpath)
     Hash[pairs_by_type(element_xpath, attribute_xpath)]

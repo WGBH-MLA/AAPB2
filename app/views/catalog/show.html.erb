@@ -133,15 +133,18 @@
       </dl>
     <% end %>
 
-    <% @pbcore.titles.each do |type,title| %>
-      <dl>
-        <dt><%= type %></dt>
-        <dd><a href="/catalog?f[<%=
-            type.downcase.gsub(/\s/,'_')
-          %>_titles][]=<%=
-            CGI::escape(title.gsub(/(["\\])/, '\\\\\1')) # escape Solr meta-characters
-          %>"><%= title %></a></dd>
-      </dl>
+    <% @pbcore.titles.each do |type,titles| %>
+      <% titles.each do |title| %>
+
+        <dl>
+          <dt><%= type %></dt>
+          <dd><a href="/catalog?f[<%=
+              type.downcase.gsub(/\s/,'_')
+            %>_titles][]=<%=
+              CGI::escape(title.gsub(/(["\\])/, '\\\\\1')) # escape Solr meta-characters
+            %>"><%= title %></a></dd>
+        </dl>
+      <% end %>
     <% end %>
 
     <% unless @pbcore.producing_organizations_facet.nil? %>

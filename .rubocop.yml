@@ -66,6 +66,12 @@ Metrics/AbcSize:
 Style/GlobalVars:
   Enabled: false
 
+Style/ClosingParenthesisIndentation:
+  Enabled: false
+
+Style/EachWithObject:
+  Enabled: false
+
 # too opinionated
 # Offense count: 12
 Metrics/CyclomaticComplexity:

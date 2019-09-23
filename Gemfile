@@ -6,7 +6,8 @@ ruby '2.4.4'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.8'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem "sqlite3", "~> 1.3.6"
+
 # gem 'mysql2', :group => :production
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0.7'
@@ -96,3 +97,8 @@ gem 'nokogiri', '~> 1.8.4'
 # For upgrade to ruby 2.4
 # Not sure why this is needed
 gem 'bigdecimal'
+
+gem 'factory_bot_rails', '~> 4.0'
+gem 'pbcore', git: 'https://github.com/WGBH-MLA/pbcore', branch: 'pull-in-factories'
+
+gem 'faker', '1.9.3'

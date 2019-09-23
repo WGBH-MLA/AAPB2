@@ -2,10 +2,14 @@ require 'rails_helper'
 require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'OAI-PMH' do
-  # commenting this out because we don't appear to be using the fxtures in the test.
-  # before(:all) do
-  #   PBCoreIngester.load_fixtures
-  # end
+  before(:all) do
+    @public_xml = build(:pbcore_description_document, :full_aapb, access_level_public: true, kqed_org: true, moving_image: true).to_xml
+
+    PBCoreIngester.new.delete_all
+    cleaner = Cleaner.instance
+    PBCoreIngester.ingest_record_from_xmlstring(@public_xml)
+    @public_record = PBCorePresenter.new(cleaner.clean(@public_xml))
+  end
 
   it 'loads the index page' do
     visit '/oai.xml?verb=ListRecords'
@@ -15,7 +19,7 @@ describe 'OAI-PMH' do
       '<OAI-PMH', # Followed by NS
       '<request verb="ListRecords" metadataPrefix="mods">http://openvault.wgbh.org/oai.xml</request>',
       '<ListRecords>',
-      '<identifier type="uri">http://americanarchive.org/catalog/1234</identifier>'
+      %(<identifier type="uri">http://americanarchive.org/catalog/#{@public_record.id}</identifier>)
     ].each do |s|
       expect(page.body).to match s
     end

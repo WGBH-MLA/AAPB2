@@ -21,7 +21,6 @@ describe 'Organizations' do
 
     expect(page).not_to have_text('WGBY')
     # Has ID "1784": We want to be sure Rails is not ignoring the ".2".
-
     expect(page).to have_xpath('//a[@href="/catalog?f[contributing_organizations][]=WGBH+%28MA%29"]')
   end
 end

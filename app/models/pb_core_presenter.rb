@@ -9,7 +9,6 @@ require_relative 'special_collection'
 require_relative '../../lib/html_scrubber'
 require_relative 'xml_backed'
 require_relative 'to_mods'
-require_relative 'pb_core_instantiation'
 require_relative 'pb_core_name_role_affiliation'
 require_relative 'organization'
 require_relative '../../lib/formatter'
@@ -19,43 +18,70 @@ require_relative 'caption_file'
 require_relative '../helpers/application_helper'
 
 class PBCorePresenter
+  def initialize(xml)
+    # raise 'No XML passed in for new PBCorePresenter... Whats the point?' unless xml
+    # give this meaningless default because some tests pass in nil to pbpresenter?
+    @xml = xml || '<pbcoreDescriptionDocument>nogood</pbcoreDescriptionDocument>'
+    @pbcore = PBCore::DescriptionDocument.parse(xml)
+  end
+
+  include AnnotationHelper
+
+  attr_accessor :xml
+  attr_accessor :pbcore
+
+  delegate :instantiations, to: :pbcore
+  delegate :special_collections, to: :pbcore
+  delegate :identifiers, to: :pbcore
+  delegate :asset_types, to: :pbcore
+  delegate :annotations, to: :pbcore
+
   # rubocop:disable Style/EmptyLineBetweenDefs
-  include XmlBacked
+  # include XmlBacked
   include ToMods
   include ApplicationHelper
 
+  #  access helpers
+  def pairs_by_type(elements, key)
+    elements.map do |ele|
+      [
+        # get attribute value where available
+        (defined? ele.send(key)) ? ele.send(key) : nil,
+        ele.value
+      ]
+    end
+  end
+
+  def people_data(people, type)
+    people.map do |peep|
+      role = peep.role.value if peep.role
+      peep_obj = peep.send(type)
+      name = peep_obj.value if peep_obj
+      affiliation = peep_obj.affiliation if peep_obj
+      PBCoreNameRoleAffiliation.new(name, role, affiliation)
+    end
+  end
+
   def descriptions
-    @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
+    @descriptions ||= @pbcore.descriptions.map { |description| HtmlScrubber.scrub(description.value).gsub(/[\s\n]+/, ' ').strip if description.value }
   end
   def genres
-    @genres ||= xpaths('/*/pbcoreGenre[@annotation="genre"]')
+    @genres ||= @pbcore.genres.select { |genre| genre.annotation == 'genre' }.map(&:value)
   end
   def topics
-    @topics ||= xpaths('/*/pbcoreGenre[@annotation="topic"]')
+    @topics ||= @pbcore.genres.select { |genre| genre.annotation == 'topic' }.map(&:value)
   end
   def subjects
-    @subjects ||= xpaths('/*/pbcoreSubject')
-  end
-  def producing_organizations
-    @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }
-  end
-  def producing_organizations_facet
-    @producing_organizations_facet ||= producing_organizations.map(&:name) unless producing_organizations.empty?
+    @subjects ||= @pbcore.subjects.map(&:value)
   end
   def creators
-    @creators ||= REXML::XPath.match(@doc, '/*/pbcoreCreator').map do |rexml|
-      PBCoreNameRoleAffiliation.new(rexml)
-    end
+    @creators ||= people_data(@pbcore.creators, :creator)
   end
   def contributors
-    @contributors ||= REXML::XPath.match(@doc, '/*/pbcoreContributor').map do |rexml|
-      PBCoreNameRoleAffiliation.new(rexml)
-    end
+    @contributors ||= people_data(@pbcore.contributors, :contributor)
   end
   def publishers
-    @publishers ||= REXML::XPath.match(@doc, '/*/pbcorePublisher').map do |rexml|
-      PBCoreNameRoleAffiliation.new(rexml)
-    end
+    @publishers ||= people_data(@pbcore.publishers, :publisher)
   end
   def all_parties
     cre = creators || []
@@ -63,39 +89,38 @@ class PBCorePresenter
     pub = publishers || []
     (cre + con + pub).uniq.sort_by { |p| p.role ? p.role : '' }
   end
-  def instantiations
-    @instantiations ||= REXML::XPath.match(@doc, '/*/pbcoreInstantiation').map do |rexml|
-      PBCoreInstantiation.new(rexml)
-    end
+  def producing_organizations
+    @producing_organizations ||= creators.select { |org| org.role == 'Producing Organization' }
   end
+  def producing_organizations_facet
+    @producing_organizations_facet ||= producing_organizations.map(&:name) unless producing_organizations.empty?
+  end
+
   def instantiations_display
-    @instantiations_display ||= instantiations.reject { |ins| ins.organization == 'American Archive of Public Broadcasting' }
+    # @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? {|a| a.value == 'American Archive of Public Broadcasting'}  }
+    @instantiations_display ||= instantiations.reject { |i| annotations_by_type(i.annotations, 'organization').any? { |a| a.value == 'American Archive of Public Broadcasting' } }.map { |i| PBCoreInstantiationPresenter.new(i.to_xml) }
   end
   def rights_summaries
-    @rights_summaries ||= xpaths('/*/pbcoreRightsSummary/rightsSummary')
-  rescue NoMatchError
-    nil
-  end
-  def licensing_info
-    @licensing_info ||= xpath('/*/pbcoreAnnotation[@annotationType="Licensing Info"]')
-  rescue NoMatchError
-    nil
+    @rights_summaries ||= @pbcore.rights_summaries.map { |rights| rights.rights_summary.value if rights.rights_summary }
   end
   def asset_type
-    @asset_type ||= xpath('/*/pbcoreAssetType')
-  rescue NoMatchError
-    nil
+    @asset_type ||= asset_types.first.value if asset_types.first
   end
   def asset_dates
-    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType')
+    @asset_dates ||= pairs_by_type(@pbcore.asset_dates, :type)
   end
   def asset_date
-    @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
-  rescue NoMatchError
-    nil
+    @asset_date ||= @pbcore.asset_dates.first.value if @pbcore.asset_dates.first
+  end
+  def licensing_info
+    @licensing_info ||= annotations_by_type(@pbcore.annotations, 'Licensing Info').join(' ')
   end
   def titles
-    @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
+    # give em a hash
+    @titles ||= @pbcore.titles.inject(Hash.new([])) do |h, a|
+      h[a.type] += [a.value]
+      h
+    end
   end
   def title
     @title ||= build_display_title
@@ -104,26 +129,36 @@ class PBCorePresenter
     @exhibits ||= Exhibit.find_all_by_item_id(id)
   end
   def special_collections
-    @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
+    @special_collections ||= annotations_by_type(annotations, 'special_collections')
   end
   def id
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
     # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
     # TODO: https://github.com/WGBH/AAPB2/issues/870
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
+    @id ||= begin
+      ideez = identifiers.select { |id| id.source == 'http://americanarchiveinventory.org' }
+      raise "Only one AAPB GUID is allowed per record!" unless ideez.count == 1
+      ideez.first.value.gsub('cpb-aacip/', 'cpb-aacip_')
+    end
   end
   SONY_CI = 'Sony Ci'.freeze
   def ids
     @ids ||= begin
-      h = hash_by_type('/*/pbcoreIdentifier', '@source') # TODO: confirm multi-hash not necessary.
-      h.delete(SONY_CI) # Handled separately
-      { 'AAPB ID' => h.delete('http://americanarchiveinventory.org') }.merge(h).map { |key, value| [key, value] }
-      # Relabel AND put at front of list.
-      # Map to pairs for consistency... but building the hash and just throwing it away?
+      aapbid = nil
+      some_ids = identifiers.map do |id|
+        if id.source == 'http://americanarchiveinventory.org'
+          aapbid = id
+          next
+        elsif id.source != SONY_CI
+          [id.source, id.value]
+        end
+      end.compact
+
+      aapbid ? some_ids.unshift(['AAPB ID', aapbid.value]) : some_ids
     end
   end
   def ci_ids
-    @ci_ids ||= xpaths("/*/pbcoreIdentifier[@source='#{SONY_CI}']")
+    @ci_ids ||= identifiers.select { |id| id.source == SONY_CI }.map(&:value)
   end
   def display_ids
     @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
@@ -133,26 +168,26 @@ class PBCorePresenter
   end
   CAPTIONS_ANNOTATION = 'Captions URL'.freeze
   def captions_src
-    @captions_src ||= xpath("/*/pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']")
-  rescue NoMatchError
-    nil
+    @captions_src ||= one_annotation_by_type(@pbcore.annotations, CAPTIONS_ANNOTATION)
   end
   TRANSCRIPT_ANNOTATION = 'Transcript URL'.freeze
   def transcript_src
-    @transcript_src ||= xpath("/*/pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']")
-  rescue NoMatchError
-    nil
+    @transcript_src ||= one_annotation_by_type(@pbcore.annotations, TRANSCRIPT_ANNOTATION)
   end
 
   def img?
     media_type == MOVING_IMAGE && digitized?
   end
 
+  def id_for_s3
+    id.gsub(/cpb-aacip-/, 'cpb-aacip_')
+  end
+
   def img_src(icon_only = false)
     @img_src ||= begin
       url = nil
       if media_type == MOVING_IMAGE && digitized? && !icon_only
-        url = "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
+        url = "#{AAPB::S3_BASE}/thumbnail/#{id_for_s3}.jpg"
       end
 
       unless url
@@ -184,7 +219,7 @@ class PBCorePresenter
     @img_width = img_dimensions[0]
   end
   def contributing_organization_names
-    @contributing_organization_names ||= xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq
+    @contributing_organization_names ||= annotations_by_type(instantiations.map(&:annotations).flatten, 'organization').map(&:value).uniq
   end
   def contributing_organizations_facet
     @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?
@@ -197,17 +232,15 @@ class PBCorePresenter
   end
   def states
     @states ||= contributing_organization_objects.map(&:state)
-  rescue NoMatchError
-    nil
   end
   def outside_url
     @outside_url ||= begin
-      xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]').tap do |_url|
-        raise('If there is an Outside URL, the record must be explicitly public') unless public?
+      url_anno = annotations_by_type(@pbcore.annotations, 'Outside URL')
+      if url_anno.present?
+        raise("If there is an Outside URL, the record must be explicitly public -- #{id} #{access_level}") unless public?
+        url_anno.first.value
       end
     end
-  rescue NoMatchError
-    nil
   end
   def outside_baseurl
     return nil unless outside_url
@@ -217,15 +250,11 @@ class PBCorePresenter
   def reference_urls
     # These only provide extra information. We aren't saying there is media on the far side,
     # so this has no interaction with access_level, unlike outside_url.
-    @reference_urls ||= begin
-      xpaths('/*/pbcoreAnnotation[@annotationType="External Reference URL"]')
-    end
-  rescue NoMatchError
-    nil
+    @reference_urls ||= annotations_by_type(@pbcore.annotations, 'External Reference URL').map(&:value)
   end
   def access_level
     @access_level ||= begin
-      access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
+      access_levels = annotations_by_type(@pbcore.annotations, 'Level of User Access').map(&:value)
       raise('Should have at most 1 "Level of User Access" annotation') if access_levels.count > 1
       raise('Should have "Level of User Access" annotation if digitized') if digitized? && access_levels.count == 0
       raise('Should not have "Level of User Access" annotation if not digitized') if !digitized? && access_levels.count != 0
@@ -249,9 +278,7 @@ class PBCorePresenter
   CORRECTING_TRANSCRIPT = 'Correcting'.freeze
   UNCORRECTED_TRANSCRIPT = 'Uncorrected'.freeze
   def transcript_status
-    @transcript_status ||= xpath('/*/pbcoreAnnotation[@annotationType="Transcript Status"]')
-  rescue NoMatchError
-    nil
+    @transcript_status ||= one_annotation_by_type(@pbcore.annotations, 'Transcript Status')
   end
   def transcript_content
     return nil unless transcript_src
@@ -266,7 +293,7 @@ class PBCorePresenter
   OTHER = 'other'.freeze
   def media_type
     @media_type ||= begin
-      media_types = xpaths('/*/pbcoreInstantiation/instantiationMediaType')
+      media_types = instantiations.map(&:media_type).map(&:value)
       [MOVING_IMAGE, SOUND, OTHER].each do |type|
         return type if media_types.include? type
       end
@@ -281,21 +308,11 @@ class PBCorePresenter
     media_type == SOUND
   end
   def duration
-    @duration ||= begin
-      xpath('/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration')
-    rescue
-
-      # old cases
-      begin
-        xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
-      rescue
-        xpaths('/*/pbcoreInstantiation/instantiationDuration').first
-      end
-    end
+    @duration ||= instantiations.find { |i| break i.duration.value if i.duration }
   end
   def player_aspect_ratio
     @player_aspect_ratio ||= begin
-      instantiations.find { |i| !i.aspect_ratio.nil? }.aspect_ratio
+      instantiations.first.essence_tracks.first.aspect_ratio.value
     rescue
       '4:3'
     end
@@ -328,11 +345,16 @@ class PBCorePresenter
   end
   # Playlist functionality from OpenVault
   def playlist_group
-    @playlist_group ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="Playlist Group"]')
+    @playlist_group ||= one_annotation_by_type(@pbcore.annotations, 'Playlist Group')
   end
   def playlist_order
-    @playlist_order ||= xpath_optional('/*/pbcoreAnnotation[@annotationType="Playlist Order"]').to_i
+    @playlist_order ||= begin
+      anno = one_annotation_by_type(@pbcore.annotations, 'Playlist Order')
+      anno ? anno.to_i : nil
+    end
   end
+
+  # TODO: This could be done with claen, sustainable solr queries to avoid using map here
   def playlist_map
     @playlist_map ||= begin
       response = RSolr.connect(url: 'http://localhost:8983/solr/').get('select', params:
@@ -355,9 +377,7 @@ class PBCorePresenter
     end if playlist_map
   end
   def supplemental_content
-    @supplemental_content ||= begin
-      REXML::XPath.match(@doc, '/*/pbcoreAnnotation[@annotationType="Supplemental Material"]').map { |mat| [mat.attributes['ref'], mat.text] }
-    end
+    @supplemental_content ||= annotations_by_type(@pbcore.annotations, 'Supplemental Material').map { |mat| [mat.ref, mat.value] }
   end
 
   # rubocop:enable Style/EmptyLineBetweenDefs
@@ -378,7 +398,7 @@ class PBCorePresenter
     # --> We only want to say that it exists, and we want to index the words.
 
     # REXML::Document
-    full_doc = @doc.deep_clone
+    full_doc = REXML::Document.new(@xml)
     spot_for_annotations = ['//pbcoreInstantiation[last()]',
                             '//pbcoreRightsSummary[last()]',
                             '//pbcorePublisher[last()]',
@@ -387,7 +407,7 @@ class PBCorePresenter
                             '//pbcoreCoverage[last()]',
                             '//pbcoreGenre[last()]',
                             '//pbcoreDescription[last()]'
-                          ].detect { |xp| xpaths(xp).count > 0 }
+                          ].detect { |xp| REXML::XPath.match(full_doc, xp).present? }
 
     caption_response = Net::HTTP.get_response(URI.parse(PBCorePresenter.srt_url(id)))
     if caption_response.code == '200'
@@ -405,7 +425,7 @@ class PBCorePresenter
 
     transcript = TranscriptFile.new(id)
     if transcript.file_present?
-      pre_existing = pre_existing_transcript_annotation(full_doc)
+      pre_existing = pre_existing_transcript_annotation(REXML::Document.new(@xml))
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
       transcript_body = Nokogiri::HTML(transcript.html).text.tr("\n", ' ')
 
@@ -419,11 +439,11 @@ class PBCorePresenter
 
     {
       'id' => id,
-      'xml' => Formatter.instance.format(full_doc),
+      'xml' => @xml,
 
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
-      'titles' => titles.map(&:last),
+      'titles' => titles.values.flatten,
       'contribs' => contribs,
 
       # sort:
@@ -448,13 +468,12 @@ class PBCorePresenter
       # playlist
       'playlist_group' => playlist_group,
       'playlist_order' => playlist_order
-    }.merge(
-      Hash[
-        titles.group_by { |pair| pair[0] }.map do |key, pairs|
-          ["#{key.downcase.tr(' ', '_')}_titles", pairs.map { |pair| pair[1] }]
-        end
-      ]
-    )
+      # format keys for solr's pleasure
+      # rubocop:disable Style/Semicolon
+      # rubocop:disable Style/SingleLineBlockParams
+    }.merge(titles.inject(Hash.new([])) { |h, data| h["#{data.first.downcase.tr(' ', '_')}_titles"] += data[1]; h })
+    # rubocop:enable Style/Semicolon
+    # rubocop:enable Style/SingleLineBlockParams
   end
 
   private
@@ -473,39 +492,46 @@ class PBCorePresenter
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
+      # helpers
+      :pairs_by_type, :annotations_by_type, :one_annotation_by_type, :people_data, :title_html, :all_parties, :instantiations, :asset_types, :annotations,
+      # duh
+      :xml, :xml=, :pbcore=, :asset_types, :identifiers, :pbcore
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
-              .select { |x| x } # skip nils
               .flatten # flattens list accessors
+              .compact # skip nils
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
-              .flatten.uniq.sort
+              .flatten
+              .map { |x| x.respond_to?(:value) ? x.value : x } # get values from pbcore gem elements
+              .uniq.compact.sort
   end
 
   def build_display_title
-    if titles.map(&:first).count('Series') > 1 && titles.map(&:first).count('Episode Number') > 0 && titles.map(&:first).count('Episode') > 0
-      titles.select { |title_pair| title_pair.first == 'Episode' }.map(&:last).join('; ')
-    elsif titles.map(&:first).count('Episode Number') > 1 && titles.map(&:first).count('Series') == 1 && titles.map(&:first).count('Episode') > 0
-      titles.select { |title_pair| title_pair.first == 'Series' || title_pair.first == 'Episode' }.map(&:last).join('; ')
-    elsif titles.map(&:first).count('Alternative') > 0 && titles.map(&:first).count == titles.map(&:first).count('Alternative')
-      titles.select { |title_pair| title_pair.first == 'Alternative' }.map(&:last).join('; ')
-    else
-      titles.select { |title_pair| title_pair.first != 'Alternative' }.map(&:last).join('; ')
-    end
+    titles_by_type = titles
+
+    titles_to_join =  if titles_by_type['Series'].count > 1 && titles_by_type['Episode Number'] && titles_by_type['Episode']
+                        titles_by_type['Episode']
+                      elsif titles_by_type['Episode Number'].count > 1 && titles_by_type['Series'].count == 1 && titles_by_type['Episode']
+                        (titles_by_type['Series'] + titles_by_type['Episode'])
+                      elsif titles_by_type['Alternative'] && titles_by_type.keys.length == 1
+                        titles_by_type['Alternative']
+                      else
+                        unalternative = []
+                        titles_by_type.each { |type, titles| unalternative += titles if type != 'Alternative' }
+                        unalternative
+                      end
+
+    titles_to_join.sort.join('; ')
   end
 
   def contribs
     @contribs ||=
-      # TODO: Cleaner xpath syntax?
-      xpaths('/*/pbcoreCreator/creator') +
-      xpaths('/*/pbcoreCreator/creator/@affiliation') +
-      xpaths('/*/pbcoreContributor/contributor') +
-      xpaths('/*/pbcoreContributor/contributor/@affiliation') +
-      xpaths('/*/pbcorePublisher/publisher') +
-      xpaths('/*/pbcorePublisher/publisher/@affiliation')
+      (creators.map { |creator| [creator.name, creator.affiliation] } +
+            contributors.map { |contributor| [contributor.name, contributor.affiliation] } + publishers.map { |publisher| [publisher.name, publisher.affiliation] }).flatten
   end
 
   def year
@@ -518,6 +544,7 @@ class PBCorePresenter
     handle_date_string(date_val, 'index')
   end
 
+  # These can stay, because they are for manipulating the raw xml for to_solr
   def pre_existing_caption_annotation(doc)
     REXML::XPath.match(doc, "//pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']").first
   end
