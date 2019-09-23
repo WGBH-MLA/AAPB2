@@ -6,6 +6,7 @@ require_relative 'lib/pb_core_ingester'
 require 'logger'
 require 'rake'
 require 'active_support/core_ext/string'
+require 'pbcore'
 
 class Exception
   def short

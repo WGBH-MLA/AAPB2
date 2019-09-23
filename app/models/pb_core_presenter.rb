@@ -17,6 +17,9 @@ require_relative 'transcript_file'
 require_relative 'caption_file'
 require_relative '../helpers/application_helper'
 
+require_relative '../helpers/annotation_helper'
+require 'active_support/core_ext/module/delegation'
+
 class PBCorePresenter
   def initialize(xml)
     # raise 'No XML passed in for new PBCorePresenter... Whats the point?' unless xml
@@ -24,8 +27,6 @@ class PBCorePresenter
     @xml = xml || '<pbcoreDescriptionDocument>nogood</pbcoreDescriptionDocument>'
     @pbcore = PBCore::DescriptionDocument.parse(xml)
   end
-
-  include AnnotationHelper
 
   attr_accessor :xml
   attr_accessor :pbcore
@@ -40,6 +41,7 @@ class PBCorePresenter
   # include XmlBacked
   include ToMods
   include ApplicationHelper
+  include AnnotationHelper
 
   #  access helpers
   def pairs_by_type(elements, key)
