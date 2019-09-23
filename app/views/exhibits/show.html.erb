@@ -17,60 +17,85 @@
 
   <div class="row" style="margin-bottom: 4%;">
 
-    <div class="col-md-8">
+    <% if @exhibit.path.ends_with?('timeline') %>
 
-      <div id="exhibit-sidebar-row" class="row">
+      <div class="col-md-12">
+        <div id="exhibit-text-container" class="row exhibit-text" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
 
-        <div class="col-md-8"></div>
+          <h3 id="exhibit-overview-title" class="exhibit-title exhibit-color<%= @exhibit_color_suffix %>">
+            <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
+          </h3>
 
-        <div class="col-md-4">
-          <%= render partial: 'sidebar_nav',
-                     locals: {
-                        links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
-                      } %>
-        </div>
-      </div>
-
-      <div id="exhibit-text-container" class="row exhibit-text" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
-
-        <h3 id="exhibit-overview-title" class="exhibit-title exhibit-color<%= @exhibit_color_suffix %>">
-          <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
-        </h3>
-
-        <span id="exhibit-summary" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
-          <%= @exhibit.summary_html.html_safe %>
-        </span>
-
-        <% if has_main_text  %>
-          <hr>
-
-          <span id="exhibit-main" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
-            <%= @exhibit.main_formatted.html_safe %>
-            <%= @exhibit.extended_html.html_safe %>
+          <span id="exhibit-summary" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
+            <%= @exhibit.summary_html.html_safe %>
           </span>
-        <% end %>
-      </div>
-    </div>
 
-    <div class="col-md-4" style="padding-right: 0; ">
+          <% if has_main_text  %>
+            <hr>
 
-      <% if @exhibit.items.count > 0 %>
-        <% color_class = @exhibit.subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
-
-        <div class="<%= color_class %> exhibit-records-link">
-          <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/eye2.png" class="icon-big" style="top: 6px; position: absolute;">
-          <a style="display: block;" class="<%= color_class %> text-center" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>"><%= @exhibit.subsection? ? 'View records from exhibit section' : 'View all exhibit records' %></a>
-
+            <span id="exhibit-main" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
+              <%= @exhibit.main_formatted.html_safe %>
+              <%= @exhibit.extended_html.html_safe %>
+            </span>
+          <% end %>
         </div>
-      <% end %>
+      </div>
 
-      <!-- whole gallery -->
-      <%= render(partial: 'exhibits/gallery',
-                  locals: {
-                    gallery_info: @exhibit.gallery
-                  }) %>
-    </div>
+    <% else %>
+      <div class="col-md-8">
 
+        <div id="exhibit-sidebar-row" class="row">
+
+          <div class="col-md-8"></div>
+
+          <div class="col-md-4">
+            <%= render partial: 'sidebar_nav',
+                       locals: {
+                          links: (@exhibit.children.empty? ? @exhibit.ancestors.first.children : @exhibit.children).sort_by(&:head_html).map { |child| [child.title, "/exhibits/#{child.path}"] }
+                        } %>
+          </div>
+        </div>
+
+        <div id="exhibit-text-container" class="row exhibit-text" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
+
+          <h3 id="exhibit-overview-title" class="exhibit-title exhibit-color<%= @exhibit_color_suffix %>">
+            <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
+          </h3>
+
+          <span id="exhibit-summary" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
+            <%= @exhibit.summary_html.html_safe %>
+          </span>
+
+          <% if has_main_text  %>
+            <hr>
+
+            <span id="exhibit-main" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
+              <%= @exhibit.main_formatted.html_safe %>
+              <%= @exhibit.extended_html.html_safe %>
+            </span>
+          <% end %>
+        </div>
+      </div>
+
+      <div class="col-md-4" style="padding-right: 0; ">
+
+        <% if @exhibit.items.count > 0 %>
+          <% color_class = @exhibit.subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
+
+          <div class="<%= color_class %> exhibit-records-link">
+            <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/eye2.png" class="icon-big" style="top: 6px; position: absolute;">
+            <a style="display: block;" class="<%= color_class %> text-center" href="<%= '/catalog?sort=year+asc&f[exhibits][]=' + @exhibit.path %>"><%= @exhibit.subsection? ? 'View records from exhibit section' : 'View all exhibit records' %></a>
+
+          </div>
+        <% end %>
+
+        <!-- whole gallery -->
+        <%= render(partial: 'exhibits/gallery',
+                    locals: {
+                      gallery_info: @exhibit.gallery
+                    }) %>
+      </div>
+    <% end %>
   </div>
 
   <div class="row">
@@ -81,7 +106,7 @@
 
       <div class="row" style="margin:0; margin-left: 2%; margin-right: 2%;">
 
-        <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('learning-goals') || ex.path.end_with?('notes')) } %>
+        <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('learning-goals') || ex.path.end_with?('notes') || ex.path.end_with?('timeline')) } %>
 
         <!-- exhibits -->
         <% exes.first.sort_by(&:head_html).each do |exhibit| %>
