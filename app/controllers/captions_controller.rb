@@ -1,6 +1,10 @@
 class CaptionsController < ApplicationController
+  include Blacklight::Catalog
+
   def show
-    caption_file = CaptionFile.new(params[:id])
+    @response, @document = fetch(params['id'])
+    pbcore = PBCorePresenter.new(@document['xml'])
+    caption_file = CaptionFile.new(pbcore.captions_src)
 
     respond_to do |format|
       format.html do

@@ -2,90 +2,58 @@ require 'open-uri'
 require_relative '../../lib/transcript_converter'
 
 class TranscriptFile
-  URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/transcripts'.freeze
   JSON_FILE = 'json'.freeze
   TEXT_FILE = 'text'.freeze
 
-  attr_reader :id
+  attr_reader :transcript_file_src
 
-  def initialize(id)
-    @id = id
+  def initialize(transcript_file_src)
+    @transcript_file_src = transcript_file_src
   end
 
-  def json
-    @json ||= open(TranscriptFile.json_url(id)).read
-  end
-
-  def text
-    @text ||= open(TranscriptFile.text_url(id)).read
+  def content
+    @content ||= open(transcript_file_src).read
+  # Return an empty string if no content is found
+  rescue
+    ""
   end
 
   def html
-    @html ||= content.to_html if content
+    @html ||= structured_content.to_html if structured_content
   end
 
   def plaintext
-    @plaintext ||= content.text.delete("\n") if content
-  end
-
-  def file_present?
-    @file_present ||= TranscriptFile.json_file_present?(id) || TranscriptFile.text_file_present?(id) ? true : false
+    @plaintext ||= structured_content.text.delete("\n") if structured_content
   end
 
   def file_type
     @file_type ||= determine_file_type
   end
 
-  def url
-    @url ||= determine_url
-  end
-
-  def self.json_url(id)
-    transcript_id = id.tr('_', '-')
-
-    "#{TranscriptFile::URL_BASE}/#{transcript_id}/#{transcript_id}-transcript.json"
-  end
-
-  def self.text_url(id)
-    transcript_id = id.tr('_', '-')
-
-    "#{TranscriptFile::URL_BASE}/#{transcript_id}/#{transcript_id}-transcript.txt"
-  end
-
-  def self.json_file_present?(id)
-    return true if Net::HTTP.get_response(URI.parse(TranscriptFile.json_url(id))).code == '200'
+  def file_present?
+    return true if Net::HTTP.get_response(URI.parse(transcript_file_src)).code == '200'
     false
-  end
-
-  def self.text_file_present?(id)
-    return true if Net::HTTP.get_response(URI.parse(TranscriptFile.text_url(id))).code == '200'
+    # Don't want to fail on no response
+  rescue
     false
   end
 
   private
 
   def determine_file_type
-    return TranscriptFile::JSON_FILE if TranscriptFile.json_file_present?(id)
-    return TranscriptFile::TEXT_FILE if TranscriptFile.text_file_present?(id)
+    return TranscriptFile::JSON_FILE if transcript_file_src.split('.')[-1] == 'json'
+    return TranscriptFile::TEXT_FILE if transcript_file_src.split('.')[-1] == 'txt'
     nil
   end
 
-  def content
-    @content ||=  case file_type
-                  when TranscriptFile::JSON_FILE
-                    TranscriptConverter.json_parts(json)
-                  when TranscriptFile::TEXT_FILE
-                    TranscriptConverter.text_parts(text)
-                  end
-  end
-
-  def determine_url
-    case file_type
-    when TranscriptFile::JSON_FILE
-      return TranscriptFile.json_url(id)
-    when TranscriptFile::TEXT_FILE
-      return TranscriptFile.text_url(id)
-    end
-    nil
+  def structured_content
+    return if !file_present?
+    @structured_content ||=
+      case file_type
+      when TranscriptFile::JSON_FILE
+        TranscriptConverter.json_parts(content)
+      when TranscriptFile::TEXT_FILE
+        TranscriptConverter.text_parts(content)
+      end
   end
 end
