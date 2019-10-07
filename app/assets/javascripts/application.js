@@ -17,7 +17,6 @@
 //
 // Required by Blacklight
 //= require blacklight/blacklight
-//= require turbolinks
 //= require_tree .
 
 // Mark.js and ScrollTo for Transcript Search

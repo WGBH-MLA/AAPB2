@@ -8,11 +8,6 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
-<% content_for :head do %>
-  <!-- without this, record page will fail to *initially* load/execute player.js -->
-  <meta name="turbolinks-visit-control" content="reload">
-<% end %>
-
 <!-- player or thumbnail or message -->
 <% if @available_and_playable %>
 

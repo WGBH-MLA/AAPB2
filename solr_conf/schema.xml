@@ -534,6 +534,8 @@
   <field name="text" type="text" indexed="true" stored="false" multiValued="true"/>
   <!-- Available as search constraints -->
   <field name="titles" type="text" indexed="true" stored="false" multiValued="true"/>
+  <!-- for episode number sorting -->
+  <field name="episode_number_sort" type="string" indexed="true" stored="false" multiValued="false" sortMissingLast="true" />
   <field name="contribs" type="text" indexed="true" stored="false" multiValued="true"/>
 
   <!-- sorting --><!-- TODO: stored=true only for debugging. -->
@@ -541,7 +543,7 @@
 
   <!-- sorting and facet -->
   <field name="year" type="string" indexed="true" stored="false" multiValued="false"/>
-  
+
 
   <!-- for granular date sorting -->
   <field name="asset_date" type="tdate_emptylast" indexed="true" stored="true" multiValued="false"/>
