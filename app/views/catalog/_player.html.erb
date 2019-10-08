@@ -1,8 +1,8 @@
 <% content_for :video do %>
   <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
-  <script data-turbolinks-tracks="false" src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
+  <script src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
-  <script data-turbolinks-tracks="false" src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
+  <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
   <%= javascript_include_tag 'transcript' %>
   <%= javascript_include_tag 'mobile-transcript' %>
   <%= javascript_include_tag 'player' %>
@@ -49,14 +49,14 @@
 
         <div class="row">
           <div class="col-md-12">
-            <button id="skip-back" class="skip-button">◀◀ 10s</button>
-            <button id="skip-forward" class="skip-button">▶▶ 10s</button>
+            <button id="skip-back" class="player-button skip-button">◀◀ 10s</button>
+            <button id="skip-forward" class="player-button skip-button">▶▶ 10s</button>
+            <button class="player-button embed-button" id="timecode-embed-button">Embed At This Time</button>
           </div>
         </div>
 
-        <div class="row">
-          
-          <button class="skip-button" id="timecode-embed-button">Embed At This Time</button>
+        <div class="row">          
+          <span class="hidden" id="pbcore-guid"><%= @pbcore.id %></span>
           <pre id="timecode-embed">
             
           </pre>

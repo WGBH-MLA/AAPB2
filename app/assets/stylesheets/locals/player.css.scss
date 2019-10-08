@@ -27,7 +27,7 @@
   line-height: 36px;
 }
 
-.skip-button {
+.player-button {
   background-color: rgb(101, 48, 144);
   color: rgb(255, 255, 255);
   cursor: pointer;
@@ -45,5 +45,12 @@
   position: relative;
   text-align: center;
   vertical-align: middle;
+}
+
+.skip-button {
   width: 4vw;
+}
+
+.embed-button {
+  width: 6vw;
 }

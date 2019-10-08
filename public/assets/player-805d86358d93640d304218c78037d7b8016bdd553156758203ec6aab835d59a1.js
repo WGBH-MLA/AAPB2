@@ -1,6 +1,6 @@
 // Imported from OpenVault with minor adjustments.
 
-$(function() {
+$(document).ready(function() {
   function parse_timecode(hms) {
       var arr = hms.split(':');
       return parseFloat(arr[2]) +
@@ -30,6 +30,8 @@ $(function() {
   };
 
   var $player = $('#player_media_html5_api');
+  // $player = !$player ? $('#player_media') : $player;
+  console.log($player)
 
   function set_user_scroll(state) {
       $player.data('user-scroll', state);
@@ -77,6 +79,7 @@ $(function() {
   $('.play-from-here').unbind('click').on('click', function(){
     var time = parse_timecode($(this).data('timecode'));
     location.hash = '#at_' + time + '_s';
+    console.log(time)
     $player[0].currentTime = time;
     $player[0].play();
     set_user_scroll(false);
@@ -112,6 +115,7 @@ $(function() {
   });
 
   var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+  console.log(url_hash)
   // If timecode included in URL, play to pass thumbnail,
   // then pause at that timecode.
   if (url_hash) {
@@ -204,25 +208,16 @@ $(function() {
     $('#transcript-message').slideUp(500);
   });
 
-
-  $('#timecode-embed').hide();
   $('#timecode-embed-button').click(function() {
-    $('#timecode-embed').show();
 
-    var uri = window.location.protocol + '//' + window.location.hostname
-    // for dev env
-    uri = window.location.port ? uri + ':' + window.location.port : uri;
-    uri = uri + '/embed/'
-
-    var tc = $player[0].currentTime.toString();
-    tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
+    var tc = $player[0].currentTime;
     if(tc != 0){
       var tc = "#at_" + tc + "_s";
     }
-
     var pbcore_guid = $('#pbcore-guid').text();
-    var html = "<iframe style='width: 100vw; height: 100vh;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
+    var html = "<iframe style='width: 100vw; height: 100vh;' src='https://americanarchive.org/embed/" + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
 
+    console.log(html)
     $('#timecode-embed').text(html);
   });
 
