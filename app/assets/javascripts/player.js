@@ -227,7 +227,7 @@ $(function() {
     }
     
     var pbcore_guid = $('#pbcore-guid').text();
-    var html = "<iframe style='width: 100vw; height: 100vh;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
+    var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
 
     $('#timecode-embed').val(html);
   });
