@@ -75,20 +75,22 @@
 
 #embed-close-btn {
   pointer-events: auto;
-  background-color: buttonface;
   font-weight: bold;
   width: 3vh;
   height: 3vh;
   background-color: rgb(101, 48, 144);
-  color: #fff;
-  margin: 0 2.5px;
-  border: none;
-  /*position: absolute;*/
-  padding: 0;
-  /*right: 0;
-  top: 0;*/
-  /*margin-right: 2.1%;
-  margin-top: 1.4%;*/
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  font-family: Roboto, Verdana, Tahoma, "DejaVu Sans", sans-serif;
+  font-size: 10px;
+  /*height: 5vh;*/
+  padding-bottom: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 6px;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
   z-index: 2;
 }
 
