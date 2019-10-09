@@ -33,7 +33,7 @@
   cursor: pointer;
   font-family: Roboto, Verdana, Tahoma, "DejaVu Sans", sans-serif;
   font-size: 10px;
-  height: 7vh;
+  height: 5vh;
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
@@ -53,4 +53,46 @@
 
 .embed-button {
   width: 6vw;
+}
+
+#timecode-embed {
+  min-width: 20vw;
+  width: 20vw;
+  max-width: 20vw;
+  min-height: 10vh;
+  height: 10vh;
+  max-height: 10vh;
+}
+
+#embed-controls label, input {
+  display: inline;
+  font-size: 10px;
+}
+
+#copy-button {
+  height: 3vh;
+}
+
+#embed-close-btn {
+  pointer-events: auto;
+  background-color: buttonface;
+  font-weight: bold;
+  width: 3vh;
+  height: 3vh;
+  background-color: rgb(101, 48, 144);
+  color: #fff;
+  margin: 0 2.5px;
+  border: none;
+  /*position: absolute;*/
+  padding: 0;
+  /*right: 0;
+  top: 0;*/
+  /*margin-right: 2.1%;
+  margin-top: 1.4%;*/
+  z-index: 2;
+}
+
+#timecode-embed-container {
+  margin-top: 8px;
+  margin-bottom: 10px;
 }

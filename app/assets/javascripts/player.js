@@ -204,26 +204,48 @@ $(function() {
     $('#transcript-message').slideUp(500);
   });
 
+  $('.at-time').change(function() {
+    $('#timecode-embed-button').trigger('click');
+  });
 
-  $('#timecode-embed').hide();
+  $('#timecode-embed-container').hide();
   $('#timecode-embed-button').click(function() {
-    $('#timecode-embed').show();
+    $('#timecode-embed-container').show();
 
     var uri = window.location.protocol + '//' + window.location.hostname
     // for dev env
     uri = window.location.port ? uri + ':' + window.location.port : uri;
     uri = uri + '/embed/'
 
-    var tc = $player[0].currentTime.toString();
-    tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
-    if(tc != 0){
-      var tc = "#at_" + tc + "_s";
-    }
+    var rad_id = $('input.at-time:checked');
+    var tc = '';
+    if(rad_id && rad_id.attr('id') == 'on') {
 
+      tc = $player[0].currentTime.toString();
+      tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
+      tc = "#at_" + tc + "_s";
+    }
+    
     var pbcore_guid = $('#pbcore-guid').text();
     var html = "<iframe style='width: 100vw; height: 100vh;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
 
-    $('#timecode-embed').text(html);
+    $('#timecode-embed').val(html);
+  });
+
+  $('#copy-button').click(function() {
+    /* Get the text field */
+    var copyText = document.getElementById('timecode-embed');
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+    /* Copy the text inside the text field */
+    document.execCommand('copy');
+  });
+
+  $('#embed-close-btn').click(function() {
+    $('#timecode-embed-container').hide();
   });
 
 });
