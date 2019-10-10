@@ -47,7 +47,7 @@ class TranscriptFile
   end
 
   def structured_content
-    return if !file_present?
+    return unless file_present?
     @structured_content ||=
       case file_type
       when TranscriptFile::JSON_FILE
