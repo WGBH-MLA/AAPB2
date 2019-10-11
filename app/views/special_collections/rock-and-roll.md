@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Rock & Roll](https://s3.amazonaws.com/americanarchive.org/special-collections/Herblock_latereturns-l.jpg "Watergate Hearings") change image
+![Rock & Roll](https://s3.amazonaws.com/americanarchive.org/special-collections/RockandRoll.jpg "Rock & Roll")
 
 ## Summary
 
