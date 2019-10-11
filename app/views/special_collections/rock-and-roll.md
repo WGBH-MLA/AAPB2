@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Rock & Roll](https://s3.amazonaws.com/americanarchive.org/special-collections/RockandRoll.jpg "Rock & Roll")
+![Rock & Roll](https://s3.amazonaws.com/americanarchive.org/special-collections/rock.jpg "Rock & Roll")
 
 ## Summary
 
