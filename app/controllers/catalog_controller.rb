@@ -236,10 +236,10 @@ class CatalogController < ApplicationController
 
         # check for transcript/caption anno
         if solr_doc.transcript?
-          text = TranscriptFile.new(solr_doc[:id]).plaintext
+          text = TranscriptFile.new(solr_doc.transcript_src).plaintext
           @snippets[solr_doc[:id]][:transcript] = snippet_from_query(@query_for_captions, text, 200, ' ')
         elsif solr_doc.caption?
-          text = CaptionFile.new(solr_doc[:id]).text
+          text = CaptionFile.new(solr_doc.captions_src).text
           @snippets[solr_doc[:id]][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
         end
       end
@@ -263,16 +263,16 @@ class CatalogController < ApplicationController
 
         if can? :access_transcript, @pbcore
 
-          # # something to show?
+          # something to show?
           if @document.transcript?
-            @transcript_content = TranscriptFile.new(params['id']).html
+            @transcript_content = TranscriptFile.new(@pbcore.transcript_src).html
 
             if @pbcore.transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
               @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
             end
           elsif @document.caption?
             # use SRT when transcript not available
-            @transcript_content = CaptionFile.new(params['id']).html
+            @transcript_content = CaptionFile.new(@document.captions_src).html
           end
 
           # how shown are we talkin here?
