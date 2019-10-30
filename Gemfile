@@ -1,7 +1,3 @@
-# rubocop:disable Style/HashSyntax
-# Hash rockets are important in deployments, for a reason we don't understand,
-# but rubocop's default is to clear them.
-
 source 'https://rubygems.org'
 
 # Specify specific version of ruby with which the app is compatible.
@@ -24,12 +20,6 @@ gem 'therubyracer', :platforms => :ruby
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
-
-# Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-gem 'turbolinks'
-
-# A package that helps fix jquery code that breaks due to turbolinks.
-gem 'jquery-turbolinks'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'

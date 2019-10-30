@@ -47,6 +47,7 @@
     </instantiationEssenceTrack>
     <instantiationAnnotation annotationType="organization">WGBH</instantiationAnnotation>
   </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType="Transcript URL">https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-512-0r9m32nw1x/cpb-aacip-512-0r9m32nw1x-transcript.json</pbcoreAnnotation>
   <pbcoreAnnotation>Source used: ILS record, LCCN 92506812. Titles listed in M/B/RS Acquisition file (WETA): Impeachment hearings--House, Impeachment hearings--Judiciary Committee, Rodino hearings. Copyright notice on tape: Greater Washington Educational Telecommunications Association, Inc. ; 1974. Subjects from ILS record: Nixon, Richard M. (Richard Milhous), 1913-1994--Impeachment; Watergate Affair, 1972-1974</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="Playlist Group">nixonimpeachmentday2</pbcoreAnnotation>

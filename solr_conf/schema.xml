@@ -140,6 +140,9 @@
   <!-- A Trie based date field for faster date range queries and date faceting. -->
   <fieldType name="tdate" class="solr.TrieDateField" omitNorms="true" precisionStep="6" positionIncrementGap="0"/>
 
+  <!-- A Trie based date field for faster date range queries and date faceting... that puts them empties last! -->
+  <fieldType name="tdate_emptylast" class="solr.TrieDateField" omitNorms="true" precisionStep="6" positionIncrementGap="0" sortMissingLast="true"/>
+
 
   <!-- The "RandomSortField" is not used to store or search any
      data. You can declare fields of this type it in your schema
@@ -531,6 +534,8 @@
   <field name="text" type="text" indexed="true" stored="false" multiValued="true"/>
   <!-- Available as search constraints -->
   <field name="titles" type="text" indexed="true" stored="false" multiValued="true"/>
+  <!-- for episode number sorting -->
+  <field name="episode_number_sort" type="string" indexed="true" stored="false" multiValued="false" sortMissingLast="true" />
   <field name="contribs" type="text" indexed="true" stored="false" multiValued="true"/>
 
   <!-- sorting --><!-- TODO: stored=true only for debugging. -->
@@ -538,6 +543,10 @@
 
   <!-- sorting and facet -->
   <field name="year" type="string" indexed="true" stored="false" multiValued="false"/>
+
+
+  <!-- for granular date sorting -->
+  <field name="asset_date" type="tdate_emptylast" indexed="true" stored="true" multiValued="false"/>
 
   <!-- facet -->
   <field name="media_type" type="string" indexed="true" stored="false" multiValued="false"/>

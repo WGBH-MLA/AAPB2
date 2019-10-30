@@ -16,11 +16,14 @@ require_relative '../../lib/formatter'
 require_relative '../../lib/caption_converter'
 require_relative 'transcript_file'
 require_relative 'caption_file'
+require_relative '../helpers/application_helper'
 
-class PBCore
+class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods
+  include ApplicationHelper
+
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
@@ -96,6 +99,9 @@ class PBCore
   end
   def title
     @title ||= build_display_title
+  end
+  def episode_number_sort
+    @episode_number_sort ||= titles.select { |title| title[0] == "Episode Number" }.map(&:last).sort.first
   end
   def exhibits
     @exhibits ||= Exhibit.find_all_by_item_id(id)
@@ -252,9 +258,9 @@ class PBCore
   end
   def transcript_content
     return nil unless transcript_src
-    return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
-    return TranscriptFile.new(id).text if TranscriptFile.text_file_present?(id)
-    caption_file = CaptionFile.new(id)
+    transcript_file = TranscriptFile.new(transcript_src)
+    return transcript_file.content if transcript_file
+    caption_file = CaptionFile.new(captions_src)
     return caption_file.json if caption_file && caption_file.json
     nil
   end
@@ -386,29 +392,29 @@ class PBCore
                             '//pbcoreDescription[last()]'
                           ].detect { |xp| xpaths(xp).count > 0 }
 
-    caption_response = Net::HTTP.get_response(URI.parse(PBCore.srt_url(id)))
-    if caption_response.code == '200'
+    caption_response = !captions_src.nil? ? Net::HTTP.get_response(URI.parse(captions_src)) : nil
+    if !caption_response.nil? && caption_response.code == '200'
       pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
       caption_body = parse_caption_body(CaptionConverter.srt_to_text(caption_response.body))
 
       cap_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
         el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-        el.add_text(PBCore.srt_url(id))
+        el.add_text(captions_src)
       end
 
       full_doc.insert_after(spot_for_annotations, cap_anno)
     end
 
-    transcript = TranscriptFile.new(id)
-    if transcript.file_present?
+    transcript_file = !transcript_src.nil? ? TranscriptFile.new(transcript_src) : nil
+    if !transcript_file.nil? && transcript_file.file_present?
       pre_existing = pre_existing_transcript_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      transcript_body = Nokogiri::HTML(transcript.html).text.tr("\n", ' ')
+      transcript_body = Nokogiri::HTML(transcript_file.html).text.tr("\n", ' ')
 
       trans_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
         el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
-        el.add_text(transcript.url)
+        el.add_text(transcript_src)
       end
 
       full_doc.insert_after(spot_for_annotations, trans_anno)
@@ -421,6 +427,7 @@ class PBCore
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
       'titles' => titles.map(&:last),
+      'episode_number_sort' => episode_number_sort,
       'contribs' => contribs,
 
       # sort:
@@ -428,6 +435,7 @@ class PBCore
 
       # sort and facet:
       'year' => year,
+      'asset_date' => date_for_assetdate_field,
 
       # facets:
       'exhibits' => exhibits.map(&:path),
@@ -472,7 +480,7 @@ class PBCore
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
     ]
 
-    @text ||= (PBCore.instance_methods(false) - ignores)
+    @text ||= (PBCorePresenter.instance_methods(false) - ignores)
               .reject { |method| method =~ /\?$/ } # skip booleans
               .map { |method| send(method) } # method -> value
               .select { |x| x } # skip nils
@@ -506,6 +514,12 @@ class PBCore
 
   def year
     @year ||= asset_date ? asset_date.gsub(/-\d\d-\d\d/, '') : nil
+  end
+
+  def date_for_assetdate_field
+    date_val = asset_date
+    return unless date_val
+    handle_date_string(date_val, 'index')
   end
 
   def pre_existing_caption_annotation(doc)

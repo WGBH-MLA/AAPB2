@@ -6,7 +6,7 @@ class MediaController < ApplicationController
   def show
     _response, document = fetch(params['id'])
     xml = document['xml']
-    pbcore = PBCore.new(xml)
+    pbcore = PBCorePresenter.new(xml)
 
     # if can?(:play, pbcore) && (current_user.aapb_referer? || current_user.embed?)
     if can?(:access_media_url, pbcore)

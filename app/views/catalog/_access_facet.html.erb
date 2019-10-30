@@ -7,17 +7,17 @@
     facet_counts = Hash[display_facet.items.map{|i| [i.value, i.hits]}]
     [
       {
-        value: PBCore::PUBLIC_ACCESS,
+        value: PBCorePresenter::PUBLIC_ACCESS,
         title: 'Available Online',
         info_text: 'The default: All video and audio that can be viewed or listened to in the Online Reading Room.',
         order_class: 'first-access-facet' },
       {
-        value: PBCore::DIGITIZED_ACCESS,
+        value: PBCorePresenter::DIGITIZED_ACCESS,
         title: 'All Digitized',
         info_text: 'All video and audio, available either online, or on location at WGBH or the Library of Congress.',
         order_class: 'second-access-facet' },
       {
-        value: PBCore::ALL_ACCESS,
+        value: PBCorePresenter::ALL_ACCESS,
         title: 'All Records',
         info_text: 'All 2.5 million records, including digitized content (online and on-site only), and content that has not been digitized.',
         order_class: 'third-access-facet' }
@@ -26,26 +26,22 @@
     <li class="access-input col-md-4 col-sm-12 col-xs-12 <%= option[:order_class] %>">
       <% if params.try(:[],'f').try(:[],'access_types') == [option[:value]] %>
         <a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>" class="facet_select">
-          <label for="#{option[:value]}-checkbox" class="access-label">
+          <label for="<%= option[:value] %>-checkbox" class="access-label">
             <%= option[:title] %>
           </label>
           <span class="facet-count">(<%= facet_counts[option[:value]] || 0 %>)</span>
-        </a>
-        <a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>">
-          <input type="checkbox" name="#{option[:value]}-checkbox" id="#{option[:value]}-checkbox" class="access-checkbox" checked="checked" />
+          <input type="checkbox" name="<%= option[:value] %>-checkbox" id="<%= option[:value] %>-checkbox" class="access-checkbox" <%= params[:f][:access_types].include?(option[:value]) ? 'checked' : '' %> />
         </a>
         <span class="access-info">
           <a class="access-help-tooltip" href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" data-original-title="<h3><%= option[:title].upcase %></h3><p><%= option[:info_text] %></p>">?</a>
         </span>
       <% else %>
         <a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>" class="facet_select">
-          <label for="#{option[:value]}-checkbox" class="access-label">
+          <label for="<%= option[:value] %>-checkbox" class="access-label">
             <%= option[:title] %>
           </label>
           <span class="facet-count">(<%= facet_counts[option[:value]] || 0 %>)</span>
-        </a>
-        <a href="<%= base_uri %>&amp;f[access_types][]=<%= option[:value] %>">
-          <input type="checkbox" name="#{option[:value]}-checkbox" id="#{option[:value]}-checkbox" class="access-checkbox" />
+          <input type="checkbox" name="<%= option[:value] %>-checkbox" id="<%= option[:value] %>-checkbox" class="access-checkbox" <%= params[:f][:access_types].include?(option[:value]) ? 'checked' : '' %> />
         </a>
         <span class="access-info">
           <a class="access-help-tooltip" id="" href="#" data-toggle="tooltip" data-html="true" data-placement="bottom" data-original-title="<h3><%= option[:title].upcase %></h3><p><%= option[:info_text] %></p>">?</a>
@@ -56,7 +52,12 @@
 </ul>
 
 <script>
-  $(document).on('turbolinks:load', function() {
+   $(function() {
+    $("input[type='checkbox']").click(function() {
+      // trigger access facet on checkbox toggle -> chrome-specific fix
+      $(this).parent()[0].click();
+    }); 
+
     $('[data-toggle="tooltip"]').tooltip();
   });
 </script>

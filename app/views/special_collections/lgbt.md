@@ -6,11 +6,11 @@
 
 ## Summary
 
-The LGBT+ Collection includes 2313 public radio and televisions programs and original materials contributed to the American Archive of Public Broadcasting (AAPB) by 58 stations and organizations from across the United States. The recordings date from the late 1950s to 2018. The collection documents the representation of the LGBT+ community in public media, including conversations, social and political reactions, and cultural movements associated with LGBT+ history. These topics are presented through interviews, newscasts, lectures, and more.
+The LGBT+ Collection includes over 500 public radio and televisions programs and original materials contributed to the American Archive of Public Broadcasting (AAPB) by 35 stations and organizations from across the United States. The recordings date from the late 1950s to 2018. The collection documents the representation of the LGBT+ community in public media, including conversations, social and political reactions, and cultural movements associated with LGBT+ history. These topics are presented through interviews, newscasts, lectures, and more.
 
 ## Background
 
-The LGBT+ Collection includes public radio and televisions programs contributed to the AAPB by stations and organizations from across the nation. Many of these materials were digitized through a grant from the Corporation for Public Broadcasting. Others, such as PBS NewsHour episodes and Hoover Institution collection materials, were digitized through subsequent grants or were directly contributed to the AAPB as digital files or as metadata records with direct links to archival materials hosted elsewhere. The items included in this collection include only materials that the AAPB has made available in the Online Reading Room. Additional materials related to LGBT+ topics that are not available in the Online Reading Room can be accessed on the premises of the Library of Congress and WGBH. 
+The LGBT+ Collection includes public radio and televisions programs contributed to the AAPB by stations and organizations from across the nation. Many of these materials were digitized through a grant from the Corporation for Public Broadcasting. Others, such as PBS NewsHour episodes and Hoover Institution collection materials, were digitized through subsequent grants or were directly contributed to the AAPB as digital files or as metadata records with direct links to archival materials hosted elsewhere. The items included in this collection include only materials that the AAPB has made available in the Online Reading Room. Additional materials related to LGBT+ topics that are not available in the Online Reading Room can be accessed on the premises of the Library of Congress and WGBH.
 
 ## Featured
 
@@ -37,3 +37,12 @@ The LGBT+ Collection includes public radio and televisions programs contributed 
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
 ## Terms
+
+
+## Timeline
+
+
+## Sort
+
+asset_date+asc
+

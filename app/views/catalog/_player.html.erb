@@ -8,11 +8,6 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
-<% content_for :head do %>
-  <!-- without this, record page will fail to *initially* load/execute player.js -->
-  <meta name="turbolinks-visit-control" content="reload">
-<% end %>
-
 <!-- player or thumbnail or message -->
 <% if @available_and_playable %>
 
@@ -86,24 +81,6 @@
   <% end %>
 <% end %>
 
-<!-- special collections/exhibit banner -->
-<% Exhibit.find_top_by_item_id(@pbcore.id).each do |exhibit| %>
-  <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
-  <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
-    <span class="glyphicon glyphicon-star"></span>
-    <strong><%= exhibit_caption %></strong>
-  </a>
-<% end %>
-<% if @pbcore.special_collections %>
-  <% @pbcore.special_collections.each do |collection| %>
-    <% coll = SpecialCollection.find_by_path(collection) %>
-    <% coll_caption = "This record is featured in “#{coll.title}.”" %>
-    <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
-      <span class="glyphicon glyphicon-star"></span>
-      <strong><%= coll_caption %></strong>
-    </a>
-  <% end %>
-<% end %>
 
 <% unless @available_and_playable %>
   <% if @pbcore.public? && !current_user.usa? %>

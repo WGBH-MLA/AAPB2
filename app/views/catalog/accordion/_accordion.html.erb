@@ -12,7 +12,7 @@
 </dl>
 
 <script>
-  $(document).on('turbolinks:load', function() {
+  $(function() {
     // Add up icon for collapse element which is open by default
     $(".collapse.in").each(function(){
       $(this).siblings(".panel-heading").find(".glyph-<%= dt_id %>").addClass("glyphicon-chevron-up").removeClass("glyphicon-chevron-down");

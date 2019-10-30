@@ -1,6 +1,7 @@
 require 'rails_helper'
 require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
+require_relative '../support/feature_test_helper'
 
 describe 'API' do
   before(:all) do
@@ -17,28 +18,28 @@ describe 'API' do
     it 'retrieves individual documents / default callback' do
       visit '/api.js?rows=1&q=id:1234&fl=id,title'
       expect(page.status_code).to eq 200
-      expect(page).to have_text('callback({ "responseHeader"')
-      expect(page).to have_text('"rows": "1"')
-      expect(page).to have_text('Gratuitous Explosions')
+      expect(page).to have_text('callback({ "responseHeader"'), missing_page_text_custom_error('callback({ "responseHeader"', page.current_path)
+      expect(page).to have_text('"rows": "1"'), missing_page_text_custom_error('"rows": "1"', page.current_path)
+      expect(page).to have_text('Gratuitous Explosions'), missing_page_text_custom_error('Gratuitous Explosions', page.current_path)
     end
 
     it 'supports facets for statistics / explicit callback' do
       visit '/api.js?callback=my_callback&facet=true&facet.field=year&' \
             'facet.query[]=year:1988+AND+iowa'
       expect(page.status_code).to eq 200
-      expect(page).to have_text('my_callback({ "responseHeader"')
-      expect(page).to have_text('"rows": "0"')
-      expect(page).to have_text('"year:1988 AND iowa": 1')
-      expect(page).to have_text('"numFound": 43')
-      expect(page).to have_text('"1974", 4, "2007", 3, "1958", 2, "1987", 2, "1961", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2006", 1')
+      expect(page).to have_text('my_callback({ "responseHeader"'), missing_page_text_custom_error('my_callback({ "responseHeader"', page.current_path)
+      expect(page).to have_text('"rows": "0"'), missing_page_text_custom_error('"rows": "0"', page.current_path)
+      expect(page).to have_text('"year:1988 AND iowa": 1'), missing_page_text_custom_error('"year:1988 AND iowa": 1', page.current_path)
+      expect(page).to have_text('"numFound": 43'), missing_page_text_custom_error('"numFound": 43', page.current_path)
+      expect(page).to have_text('"1974", 4, "2007", 3, "1958", 2, "1987", 2, "1961", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2006", 1'), missing_page_text_custom_error('"1974", 4, "2007", 3, "1958", 2, "1987", 2, "1961", 1, "1981", 1, "1983", 1, "1988", 1, "1990", 1, "1992", 1, "2000", 1, "2003", 1, "2006", 1', page.current_path)
     end
 
     it 'searches documents / json, not jsonp' do
       visit '/api.json?rows=10&q=iowa'
       expect(page.status_code).to eq 200
       expect(page.source).to match(/^\{/s)
-      expect(page).to have_text('"numFound": 7')
-      expect(page).to have_text('Norman Borlaug')
+      expect(page).to have_text('"numFound": 7'), missing_page_text_custom_error('"numFound": 7', page.current_path)
+      expect(page).to have_text('Norman Borlaug'), missing_page_text_custom_error('Norman Borlaug', page.current_path)
       expect(page.source).to match('"xml": "<pbcoreDescriptionDocument')
       # have_text runs the source through a regex that removes "tags",
       # even in non-xml documents.
@@ -57,7 +58,7 @@ describe 'API' do
     it 'has helpful error messages in json' do
       visit '/api.json?facet=error'
       expect(page.status_code).to eq 500
-      expect(page).to have_text('"msg": "invalid boolean value: error"')
+      expect(page).to have_text('"msg": "invalid boolean value: error"'), missing_page_text_custom_error('"msg": "invalid boolean value: error"', page.current_path)
     end
 
     it 'has helpful error messages in xml' do
