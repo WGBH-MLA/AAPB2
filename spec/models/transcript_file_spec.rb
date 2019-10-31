@@ -25,7 +25,7 @@ describe TranscriptFile do
   let(:transcript_query_one) { %w(EVENING) }
   let(:transcript_query_two) { %w(NICARAGUAN ECONOMY) }
   let(:transcript_query_three) { %w(LOYE 000000 [SDBA]) }
-  let(:transcript_query_four) { [ "NICARAGUAN ECONOMY" ] }
+  let(:transcript_query_four) { ["NICARAGUAN ECONOMY"] }
 
   before do
     # Stub requests so we don't actually have to fetch them remotely. But note

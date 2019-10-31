@@ -13,7 +13,7 @@ module ApplicationHelper
 
     if query.include?("\"")
       q = query.split(/"/).collect { |s| s.strip.upcase.gsub(/[[:punct:]]/, '') }
-      return (1..q.length).zip(q).collect { |i,x| (i&1).zero? ? x : x.split }.flatten
+      return (1..q.length).zip(q).collect { |i, x| (i & 1).zero? ? x : x.split }.flatten
     else
       return query.upcase.gsub(/[[:punct:]]/, '').split.delete_if { |term| stopwords.include?(term) }
     end

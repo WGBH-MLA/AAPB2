@@ -6,13 +6,12 @@ module SnippetHelper
     term_hits = []
 
     query.each do |term|
-      if term.split.length > 1
-        body = process_compound_query_terms(term, text, snippet_length)
-        term_hits << body unless body.nil?
-      else
-        body = process_single_query_terms(query, text, snippet_length)
-        term_hits << body unless body.nil?
-      end
+      body = if term.split.length > 1
+               process_compound_query_terms(term, text, snippet_length)
+             else
+               process_single_query_terms(query, text, snippet_length)
+             end
+      term_hits << body unless body.nil?
     end
 
     ActionController::Base.helpers.highlight(term_hits[0].truncate(snippet_length, separator: separator), query) unless term_hits.empty?
