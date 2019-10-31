@@ -25,6 +25,7 @@ describe TranscriptFile do
   let(:transcript_query_one) { %w(EVENING) }
   let(:transcript_query_two) { %w(NICARAGUAN ECONOMY) }
   let(:transcript_query_three) { %w(LOYE 000000 [SDBA]) }
+  let(:transcript_query_four) { [ "NICARAGUAN ECONOMY" ] }
 
   before do
     # Stub requests so we don't actually have to fetch them remotely. But note
@@ -103,6 +104,11 @@ describe TranscriptFile do
       transcript = snippet_from_query(transcript_query_two, text_transcript.plaintext, 200, ' ')
       # .first returns the preceding '...'
       expect(transcript.split[1]).to eq('<mark>ECONOMY</mark>.')
+    end
+
+    it 'marks compound keyword within a transcript text' do
+      transcript = snippet_from_query(transcript_query_four, text_transcript.plaintext, 200, ' ')
+      expect(transcript).to include('<mark>NICARAGUAN ECONOMY</mark>')
     end
 
     it 'returns nil transcripts when query not in params' do

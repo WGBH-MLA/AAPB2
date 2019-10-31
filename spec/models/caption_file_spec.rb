@@ -25,6 +25,7 @@ describe CaptionFile do
   let(:caption_query_one) { %w(LITTLE ROCK) }
   let(:caption_query_two) { %w(101ST AIRBORNE) }
   let(:caption_query_three) { %w(LOYE 000000 [SDBA]) }
+  let(:caption_query_four) { [ "LITTLE ROCK" ] }
 
   srt_url_1 = 'https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-111-02c8693q/cpb-aacip-111-02c8693q.srt1.srt'
   srt_url_2 = 'https://s3.amazonaws.com/americanarchive.org/captions/1a2b/1a2b.srt1.srt'
@@ -103,6 +104,12 @@ describe CaptionFile do
 
       # .first returns the preceding '...'
       expect(caption.split[1]).to eq('<mark>AIRBORNE</mark>.')
+    end
+
+    it 'marks compound keyword within a caption text' do
+      caption = snippet_from_query(caption_query_four, caption_file_2.text, 200, '.')
+
+      expect(caption).to include('<mark>LITTLE ROCK</mark>')
     end
 
     it 'returns nil captions when query not in params' do
