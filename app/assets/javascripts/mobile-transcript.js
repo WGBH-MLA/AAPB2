@@ -1,4 +1,4 @@
-$(document).on('turbolinks:load', function() {
+$(function() {
   // the input field
   var $mobileInput = $("input[type='mobile-search']"),
     // clear button

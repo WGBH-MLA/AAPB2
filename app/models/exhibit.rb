@@ -132,7 +132,6 @@ class Exhibit < Cmless
   def gallery
     @gallery ||=
       begin
-
         Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
           type = gallery_item.css('a.type').first.text
           credit_link = gallery_item.css('a.credit-link').first
@@ -186,6 +185,19 @@ class Exhibit < Cmless
           </a>
         </div>
       </div>)
+    elsif section_uri.end_with?('timeline')
+      # tiiiiiiiime notes
+      %(<div class='exhibit-notes'>
+        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
+
+        <div class=''>
+          <a href='#{section_uri}'>
+            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/timeline_button_grey.png' class='icon-med' style='top: -2px; position: relative;'>
+            Timeline
+          </a>
+        </div>
+      </div>)
+
     else
       img = Nokogiri::HTML(cover_html).css('img').first
       %(<a href='#{section_uri}'>

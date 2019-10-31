@@ -1,5 +1,4 @@
 require 'rails_helper'
-require_relative '../support/validation_helper'
 require_relative '../support/feature_test_helper'
 
 describe 'Organizations' do
@@ -11,8 +10,6 @@ describe 'Organizations' do
     expect(page).to have_text('Boston, Massachusetts'), missing_page_text_custom_error('Boston, Massachusetts', page.current_path)
 
     expect(page).to have_xpath('//a[@href="/participating-orgs/1784.2"]')
-
-    expect_fuzzy_xml
   end
 
   it 'has expected content on #show' do
@@ -26,7 +23,5 @@ describe 'Organizations' do
     # Has ID "1784": We want to be sure Rails is not ignoring the ".2".
 
     expect(page).to have_xpath('//a[@href="/catalog?f[contributing_organizations][]=WGBH+%28MA%29"]')
-
-    expect_fuzzy_xml
   end
 end

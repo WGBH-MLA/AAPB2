@@ -143,6 +143,36 @@ describe SpecialCollection do
       end
     end
 
+    describe '.timeline_html' do
+      it 'returns the timeline html for the collection' do
+        expect(collection.timeline_html).to eq("<h3 id=\"the-title-of-the-timeline\">The Title of the Timeline</h3><iframe src=\"https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ISfXGK8EEuqCGcONWfekjLZhInxFQyFWwBAl2FbkIxs&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&amp;width=100%\" height=\"650\" width=\"100%\" frameborder=\"0\"></iframe>")
+      end
+    end
+
+    describe '.timeline_title' do
+      it 'returns the timeline title for the collection' do
+        expect(collection.timeline_title).to eq('The Title of the Timeline')
+      end
+    end
+
+    describe '.timeline' do
+      it 'returns the timeline for the collection' do
+        expect(collection.timeline).to eq("<iframe src=\"https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ISfXGK8EEuqCGcONWfekjLZhInxFQyFWwBAl2FbkIxs&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&amp;width=100%\" height=\"650\" width=\"100%\" frameborder=\"0\"></iframe>")
+      end
+    end
+
+    describe '.sort_by' do
+      it 'returns the sort by for the collection' do
+        expect(collection.sort_by).to eq('asset_date+desc')
+      end
+    end
+
+    describe '.sort_url' do
+      it 'returns the sort url for the collection' do
+        expect(collection.sort_url).to eq('/catalog?sort=asset_date+desc&f[special_collections][]=test-special-collection')
+      end
+    end
+
     describe 'error handling' do
       it 'raises an error for bad paths' do
         expect { MockSpecialCollection.find_by_path('no/such/path') }.to raise_error(Cmless::Error)

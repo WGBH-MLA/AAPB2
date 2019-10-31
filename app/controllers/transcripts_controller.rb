@@ -1,13 +1,19 @@
 class TranscriptsController < ApplicationController
+  include Blacklight::Catalog
+
   layout 'transcript'
   caches_page :show
 
   def show
-    transcript_file = TranscriptFile.new(params[:id])
+    @response, @document = fetch(params['id'])
+
+    xml = @document['xml']
+    pbcore = PBCorePresenter.new(xml)
+    @transcript_file = TranscriptFile.new(pbcore.transcript_src)
 
     respond_to do |format|
       format.html do
-        @transcript_html = transcript_file.html
+        @transcript_html = @transcript_file.html
         render
       end
     end

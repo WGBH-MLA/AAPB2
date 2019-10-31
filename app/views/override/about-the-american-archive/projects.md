@@ -3,6 +3,10 @@
 Our vision is to to preserve and make accessible significant historical content created by public media,
 and to coordinate a national effort to save at-risk public media before its content is lost to posterity. We're fulfilling our vision through several exciting grant projects. 
 
+### The American Archive of Public Broadcasting: From Repository to Resource
+
+In June 2019, The Andrew W. Mellon Foundation awarded WGBH a grant to enhance usability of the American Archive of Public Broadcasting. The grant will support a two-pronged effort to make the AAPB a better resource for researchers, educators, academics and the public. The AAPB will work with Brandeis University’s Lab for Linguistics and Computation, which uses machine learning and artificial intelligence to develop open-source tools and workflows, to capture detailed metadata from AAPB radio and television programs. [Read more about the Mellon project.](/about-the-american-archive/projects/mellon2)
+
 ### The Public Broadcasting Preservation Fellowship
 
 The Public Broadcasting Preservation Fellowship (PBPF), funded by the Institute of Museum and Library Services, supports ten graduate student fellows at University of North Carolina, San Jose State University, Clayton State University, University of Missouri, and University of Oklahoma in digitizing at-risk materials at public media organizations around the country. Host sites include the Center for Asian American Media, Georgia Public Broadcasting, WUNC, the Oklahoma Educational Television Authority, and KOPN Community Radio. Contents digitized by the fellows will be preserved in the American Archive of Public Broadcasting. The grant also supports participating universities in developing long-term programs around audiovisual preservation and ongoing partnerships with their local public media stations. [Read more about the PBPF project](/about-the-american-archive/projects/pbpf).
