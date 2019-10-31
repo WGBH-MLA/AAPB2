@@ -107,7 +107,7 @@ describe CaptionFile do
     end
 
     it 'marks compound keyword within a caption text' do
-      caption = snippet_from_query(caption_query_four, caption_file_2.text, 200, '.')
+      caption = snippet_from_query(caption_query_four, caption_file_srt_2.text, 200, '.')
 
       expect(caption).to include('<mark>LITTLE ROCK</mark>')
     end
