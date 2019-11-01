@@ -2,6 +2,9 @@
   <% display_facet.items.uniq.each do |option| %>
     <li>
       <%= render_facet_item(display_facet.name, OpenStruct.new(value: option.value)) %>
+      <% if option.hits > 0 %>
+        <span class="facet-count"><%= "#{option.hits}" %></span>
+      <% end %>
     </li>
   <% end %>
 </ul>

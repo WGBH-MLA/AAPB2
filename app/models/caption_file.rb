@@ -1,30 +1,28 @@
 require 'open-uri'
+require 'net/http'
 require_relative '../../lib/caption_converter'
 
 class CaptionFile
-  URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze
+  attr_reader :caption_file_src
 
-  attr_reader :id
-
-  def initialize(id)
-    @id = id
+  def initialize(caption_file_src)
+    @caption_file_src = caption_file_src
   end
 
   def srt
     @srt ||= begin
-      open(srt_url).read
+      open(caption_file_src).read
     rescue OpenURI::HTTPError
       nil
     end
   end
 
   def vtt
-    @vtt ||= begin
-      open(vtt_url).read
-    rescue OpenURI::HTTPError
-      # no vtt found, use srt
-      CaptionConverter.srt_to_vtt(srt)
-    end
+    @vtt ||= vtt? ? open(caption_file_src).read : CaptionConverter.srt_to_vtt(srt)
+  end
+
+  def vtt?
+    caption_file_src.split('.').last == 'vtt' ? true : false
   end
 
   def html
@@ -41,12 +39,9 @@ class CaptionFile
     @json ||= CaptionConverter.srt_to_json(srt)
   end
 
-  def srt_url
-    @srt_url ||= "#{CaptionFile::URL_BASE}/#{id}/#{id}.srt1.srt".gsub('cpb-aacip_', 'cpb-aacip-')
-  end
-
-  def vtt_url
-    @vtt_url ||= "#{CaptionFile::URL_BASE}/#{id}/#{id}.vtt".gsub('cpb-aacip_', 'cpb-aacip-')
+  def caption_file_present?(url)
+    uri = URI.parse(url)
+    Net::HTTP.get_response(uri).code == '200'
   end
 
   def captions_from_query(query)

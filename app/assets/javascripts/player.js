@@ -1,6 +1,6 @@
 // Imported from OpenVault with minor adjustments.
 
-$(document).on('turbolinks:load', function() {
+$(function() {
   function parse_timecode(hms) {
       var arr = hms.split(':');
       return parseFloat(arr[2]) +

@@ -29,4 +29,6 @@ Rufus King in the Senate of the United States. [http://memory.loc.gov/cgi-bin/qu
 
 ## Resources
 
+## Gallery
+
 ## Main

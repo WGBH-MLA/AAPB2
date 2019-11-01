@@ -21,7 +21,15 @@ class SolrDocument
     Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Captions URL"]').first
   end
 
+  def captions_src
+    Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Captions URL"]').first.text.strip
+  end
+
   def transcript?
     Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first
+  end
+
+  def transcript_src
+    Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first.text.strip
   end
 end

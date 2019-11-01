@@ -9,6 +9,15 @@ require_relative '../support/feature_test_helper'
 describe 'Catalog' do
   IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
+  before(:all) do
+    PBCoreIngester.load_fixtures
+  end
+
+  # We're just returning something here since we don't want a call to s3 for a transcript to fail but we don't want to enable webmock since that breaks calls to other external services. We're not testing transcript content here.
+  before(:each) do
+    allow_any_instance_of(TranscriptFile).to receive(:content).and_return(File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json'))
+  end
+
   def expect_count(count)
     case count
     when 0
