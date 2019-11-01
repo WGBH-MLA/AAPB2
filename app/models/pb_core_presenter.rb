@@ -128,7 +128,7 @@ class PBCorePresenter
     @title ||= build_display_title
   end
   def episode_number_sort
-    @episode_number_sort ||= titles.select { |title| title[0] == "Episode Number" }.map(&:last).sort.first
+    @episode_number_sort ||= titles["Episode Number"].sort.first
   end
   def exhibits
     @exhibits ||= Exhibit.find_all_by_item_id(id)
