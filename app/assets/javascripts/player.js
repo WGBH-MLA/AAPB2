@@ -112,7 +112,6 @@ $(function() {
   });
 
   var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
-
   // If timecode included in URL, play to pass thumbnail,
   // then pause at that timecode.
   if (url_hash) {
@@ -204,4 +203,49 @@ $(function() {
   $('#transcript-message-close').unbind('click').on('click', function() {
     $('#transcript-message').slideUp(500);
   });
+
+  $('.at-time').change(function() {
+    $('#timecode-embed-button').trigger('click');
+  });
+
+  $('#timecode-embed-container').hide();
+  $('#timecode-embed-button').click(function() {
+    $('#timecode-embed-container').show();
+
+    var uri = window.location.protocol + '//' + window.location.hostname
+    // for dev env
+    uri = window.location.port ? uri + ':' + window.location.port : uri;
+    uri = uri + '/embed/'
+
+    var rad_id = $('input.at-time:checked');
+    var tc = '';
+    if(rad_id && rad_id.attr('id') == 'on') {
+
+      tc = $player[0].currentTime.toString();
+      tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
+      tc = "#at_" + tc + "_s";
+    }
+    
+    var pbcore_guid = $('#pbcore-guid').text();
+    var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
+
+    $('#timecode-embed').val(html);
+  });
+
+  $('#copy-button').click(function() {
+    /* Get the text field */
+    var copyText = document.getElementById('timecode-embed');
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+    /* Copy the text inside the text field */
+    document.execCommand('copy');
+  });
+
+  $('#embed-close-btn').click(function() {
+    $('#timecode-embed-container').hide();
+  });
+
 });
