@@ -8,7 +8,7 @@ class TranscriptFile
   attr_reader :transcript_file_src
 
   def initialize(transcript_file_src)
-    @transcript_file_src = transcript_file_src
+    @transcript_file_src = transcript_file_src ? transcript_file_src.gsub(/^[ \s]+|[ \s]+$/, '') : nil
   end
 
   def content
