@@ -34,6 +34,21 @@ class PBCoreIngester
     commit
   end
 
+  def delete_records(guids)
+    guids.each do |guid|
+      puts "Deleting #{guid}"
+      resp = @solr.get('select', params: { q: "id:#{guid}" })
+      docs = resp['response']['docs'] if resp['response'] && resp['response']['docs']
+
+      # can't delete what you can't query
+      next unless docs && docs.count == 1
+      puts "Ready to delete #{guid}"
+      @solr.delete_by_query(%(id:#{guid}))
+      commit
+    end
+    puts 'Done!'
+  end
+
   def ingest(opts)
     path = opts[:path]
     is_batch_commit = opts[:is_batch_commit]

@@ -6,11 +6,11 @@
 
 ## Summary
 
-The <em>Traditions: Ohio Heritage Fellows</em> Special Collection features elements from the first three seasons of the ThinkTV series of the same name, which celebrates the arts in Ohio and provides a spotlight for artists engaging in folk and cultural artistic traditions from the US and abroad. The collection includes a total of 223 files, including seven full 30-minute episodes, 139 raw interviews, and 77 performances. Each episode includes brief profiles of various Ohio Heritage Fellows, including samples of the artist’s work, as well as interviews with the artist and with art scholars knowledgeable about the artist’s work and genre. <em>Traditions: Ohio Heritage Fellows</em> has been produced by ThinkTV since 2009 and derives its name from the numerous winners of the Ohio Arts Council’s Ohio Heritage Fellowship Awards who are featured throughout the series. The series is hosted by writer and performer Chiquita Mullins Lee, Arts Learning Coordinator with the Ohio Arts Council. Interviews and performances in the collection include painters, blacksmiths, musicians, dancers, and art historians, including Edwin George, a Cherokee painter; Linda Thomas Jones, also known as Mama Fasi, an African drummer; banjo maker Mark Ward and stringed instrument builder Doug Unger; blacksmith and artist Barry Wheeler;  Roderic Knight, Professor Emeritus of Ethnomusicology at Oberlin College; and Anupa Mirle, a Bharatanatyam dancer and teacher. Subjects include musical instruments, folk art, music, dance, origami, musical theory, and musical history. 
+The <em>Traditions: Ohio Heritage Fellows</em> Special Collection features elements from the first three seasons of the ThinkTV series of the same name, which celebrates the arts in Ohio and provides a spotlight for artists engaging in folk and cultural artistic traditions from the US and abroad. The collection includes a total of 223 files, including seven full 30-minute episodes, 139 raw interviews, and 77 performances. Each episode includes brief profiles of various Ohio Heritage Fellows, including samples of the artist’s work, as well as interviews with the artist and with art scholars knowledgeable about the artist’s work and genre. <em>Traditions: Ohio Heritage Fellows</em> has been produced by ThinkTV since 2009 and derives its name from the numerous winners of the Ohio Arts Council’s Ohio Heritage Fellowship Awards who are featured throughout the series. The series is hosted by writer and performer Chiquita Mullins Lee, Arts Learning Coordinator with the Ohio Arts Council. Interviews and performances in the collection include painters, blacksmiths, musicians, dancers, and art historians, including Edwin George, a Cherokee painter; Linda Thomas Jones, also known as Mama Fasi, an African drummer; banjo maker Mark Ward and stringed instrument builder Doug Unger; blacksmith and artist Barry Wheeler;  Roderic Knight, Professor Emeritus of Ethnomusicology at Oberlin College; and Anupa Mirle, a Bharatanatyam dancer and teacher. Subjects include musical instruments, folk art, music, dance, origami, musical theory, and musical history.
 
 ## Background
 
-The <em>Traditions: Ohio Heritage Fellows</em> episodes were created by ThinkTV. The materials were contributed to the American Archive of Public Broadcasting (AAPB) in 2019. 
+The <em>Traditions: Ohio Heritage Fellows</em> episodes were created by ThinkTV. The materials were contributed to the American Archive of Public Broadcasting (AAPB) in 2019.
 
 ## Featured
 
@@ -32,9 +32,13 @@ The <em>Traditions: Ohio Heritage Fellows</em> episodes were created by ThinkTV.
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
-Interviews and performances are broken up into multiple parts and are linked and named accordingly. 
+Interviews and performances are broken up into multiple parts and are linked and named accordingly.
 
-## Terms 
+## Terms
 
+## Timeline
+
+## Sort
+title+asc
