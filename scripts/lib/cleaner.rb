@@ -19,6 +19,7 @@ class Cleaner
     dirty_xml.gsub!("xsi:xmlns='http://www.w3.org/2001/XMLSchema-instance'",
                     "xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'")
     dirty_xml.gsub!("xmlns:xsi='xsi'", '')
+    dirty_xml.gsub!("&", '&amp;')
     doc = REXML::Document.new(dirty_xml)
 
     # pbcoreAssetType:

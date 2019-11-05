@@ -19,6 +19,10 @@ class Organization < Cmless
     CGI.unescape(html.gsub(/<[^>]+>/, ''))
   end
 
+  def self.clean_organization_names(organization_names)
+    organization_names.map{ |name| name.gsub("\n", "").split.join(" ") if name.include?("\n") }
+  end
+
   def id
     @id ||= path
   end
@@ -52,13 +56,17 @@ class Organization < Cmless
     @city ||= Organization.clean(city_html)
   end
 
+  def facet_url
+    "/catalog?f[contributing_organizations][]=" + CGI::escape(facet)
+  end
+
   def short_name
     # this is really hacky, but the redcarpet gem for in cmless
     # for interpreting md was not recognizing the escaped ampersand
     # and a literal ampersand would display as a '&amp;'
     # fix should probably be in cmless with an update of redcarpet
     # but we're punting that for now.
-    @short_name ||= Organization.clean(short_name_html).gsub('&amp;', '&')
+    @short_name ||= Organization.clean(short_name_html).gsub("&amp;", "&")
   end
 
   def urls
