@@ -40,4 +40,11 @@ describe 'Advanced Search Integration' do
     expect(page).to_not have_text('Racing the Rez')
     expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
   end
+
+  it 'does a title search correctly' do
+    fill_in('title', with: 'explosion')
+    find('#advanced-search').click
+    expect(page).to_not have_text('The MacNeil/Lehrer NewsHour')
+    expect(page).to have_text('Nova; Gratuitous Explosions; 3-2-1; Kaboom!')
+  end
 end
