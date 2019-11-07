@@ -48,7 +48,7 @@ In addition, the NET programs provide a complex view into how public media tried
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">William F. Buckley, Jr., interviewed on What’s Happening Mr. Silver.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/buckleysilverdayan.png" alt="William F. Buckley, Jr., interviewed on What’s Happening Mr. Silver"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/buckleysilverdayan.png" alt="William F. Buckley, Jr., interviewed on What’s Happening Mr. Silver"/></td></tr>
 </table>
 
 ## Gallery
@@ -57,5 +57,10 @@ In addition, the NET programs provide a complex view into how public media tried
     <img alt="William F. Buckley Jr. debates James Baldwin at the Cambridge Union. NET telecast the debate in 1965" src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/BuckleyDebate.png">
     <a class="caption-text">William F. Buckley Jr. debates James Baldwin at the Cambridge Union. NET telecast the debate in 1965.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_151-sn00z71m54">Debate: Baldwin vs. Buckley.</a>
+    
+- <a class="type">image</a>
+    <img alt="Ronald Reagan speaks with students at Yale in a Public Broadcasting Laboratory episode" src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/ReaganPBL1.png">
+    <a class="caption-text">Ronald Reagan speaks with students at Yale in a Public Broadcasting Laboratory episode.</a>
+    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_15-94hmh6vt">Public Broadcast Laboratory; Reagan at Yale.</a>
 
 ## Records
