@@ -36,29 +36,30 @@ The programs in this exhibit thus circulated not only in the context of the incr
 
 #### Sources and Suggested Reading:
 
-Robert K. Avery and Robert Pepper, “An Institutional History of Public Broadcasting,” *Journal 
+- Robert K. Avery and Robert Pepper, “An Institutional History of Public Broadcasting,” *Journal 
 	of Communications* 30.3 (1980): 126-38.
-Robert K. Avery and Robert Pepper, *The Politics of Interconnection: A History of Public 
+- Robert K. Avery and Robert Pepper, *The Politics of Interconnection: A History of Public 
 	Television at the National Level* (Washington, DC: National Association of Educational 
 	Broadcasters, 1979).
-Carolyn N. Brooks, “Documentary Programming and the Emergence of the National Educational 
+- Carolyn N. Brooks, “Documentary Programming and the Emergence of the National Educational 
 	Television Center as a Network, 1958-1972” (PhD diss., University of 
 	Wisconsin-Madison, 1994).
-James Day, *The Vanishing Vision: The Inside Story of Public Television* (Berkeley: University of 
+- James Day, *The Vanishing Vision: The Inside Story of Public Television* (Berkeley: University of 
 	California Press, 1995).
-Ralph Engelman, *Public Radio and Television in America: A Political History* (Thousand Oaks: 
+- Ralph Engelman, *Public Radio and Television in America: A Political History* (Thousand Oaks: 
 	Sage Publications, 1996).
-James Ledbetter, *Made Possible By . . .: The Death of Public Broadcasting in the United States* 
+- James Ledbetter, *Made Possible By . . .: The Death of Public Broadcasting in the United States* 
 	(New York: Verso, 1998).
-Laurie Ouellette, *Viewers Like You?: How Public TV Failed the People* (New York: Columbia 
+- Laurie Ouellette, *Viewers Like You?: How Public TV Failed the People* (New York: Columbia 
 	University Press, 2002).
-Allison Perlman, *Public Interests: Media Advocacy and Struggles over U.S. Television* (New 
+- Allison Perlman, *Public Interests: Media Advocacy and Struggles over U.S. Television* (New 
 	Brunswick: Rutgers University Press, 2016).
-David M. Stone, *Nixon and the Politics of Public Television* (New York: Garland Publishing,
+- David M. Stone, *Nixon and the Politics of Public Television* (New York: Garland Publishing,
  Inc., 1985).
-John Witherspoon, Roselle Kovitz, Robert K. Avery, and Alan G. Stavitsky, *A History of Public 
+
+- John Witherspoon, Roselle Kovitz, Robert K. Avery, and Alan G. Stavitsky, *A History of Public 
 	Broadcasting* (Washington, DC: Current, 2000).
-Donald N. Wood, “The First Fifteen Years of the ‘Fourth Network,’” *Journal of Broadcasting* 
+- Donald N. Wood, “The First Fifteen Years of the ‘Fourth Network,’” *Journal of Broadcasting* 
 	13.2 (1969): 131-144.
 
 #### Next: [Defining Conservatism](/exhibits/conservatism/defining-conservatism)
