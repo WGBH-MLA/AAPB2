@@ -49,7 +49,7 @@
 }
 
 .skip-button {
-  width: 4vw;
+  width: 9vw;
 }
 
 .embed-button {
@@ -98,4 +98,10 @@
 #timecode-embed-container {
   margin-top: 8px;
   margin-bottom: 10px;
+}
+
+@media (max-width: 720px) {
+  .skip-button {
+    width: 17vw;
+  }
 }

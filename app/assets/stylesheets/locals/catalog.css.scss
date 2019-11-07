@@ -4,6 +4,11 @@
 
 /* This is a record display in a search result*/
 
+.catalog-modal-content {
+  margin-top: 20vh;
+  background: #fff;
+}
+
 #documents .default-document {
 	margin-top:0;
 	padding-top:0;
@@ -447,11 +452,15 @@ dl:after {
 	}
 }
 
-
 @media (max-width: 767px) {
 	.thumbnail-col {
 		padding: 0 275px 0 0;
 	}
+
+ .catalog-modal-content {
+    margin-top: 20vh;
+    min-height: 40vh !important;
+  }
 }
 
 @media (max-width: 512px) {
