@@ -20,14 +20,7 @@ class Organization < Cmless
   end
 
   def self.clean_organization_names(organization_names)
-    names = organization_names.each do |name|
-      if name.include?("\n")
-        name.delete!("\n").split.join(" ")
-      else
-        name
-      end
-    end
-    names
+    organization_names.map { |name| name.include?("\n") ? name.delete!("\n").split.join(" ") : name }
   end
 
   def id
