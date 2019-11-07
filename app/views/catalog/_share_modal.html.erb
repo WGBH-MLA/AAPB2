@@ -1,0 +1,31 @@
+<!-- Basic Modal -->
+<div class="share-modal modal fade " id="catalogShareModal" role="dialog">
+  <div class="modal-dialog basic-modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content basic-modal-content">
+      <div class="modal-header basic-modal-header">
+        <h4 class="modal-title basic-modal-title">Share</h4>
+        <button type="button" class="close basic-modal-close" data-dismiss="modal">&#9747;</button>
+      </div>
+      <div class="modal-body basic-modal-body">
+        <div class="row">
+          <div class="col-md-12">
+            <button class="player-button embed-button" id="timecode-embed-button">Embed</button>
+            <button class="player-button embed-button" id="timecode-share-button">Share</button>
+          </div>
+        </div>
+        <div id="timecode-embed-container" class="row">
+          <span class="hidden" id="pbcore-guid"><%= @pbcore.id %></span>
+          <div class="col-md-12" id="embed-controls">
+            <label>At Current Time <input class="at-time" type="radio" checked name="at_time" id="on"></label>
+            <label>At Beginning <input class="at-time" type="radio" name="at_time" id="off"></label>
+            <button class="player-button" id="copy-button">Copy</button>
+            <button id="embed-close-btn" class="">✖</button>
+          </div>
+          <!-- <pre id="timecode-embed"></pre> -->
+          <textarea type="text" id="timecode-embed"></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

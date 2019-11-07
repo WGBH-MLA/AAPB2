@@ -204,15 +204,29 @@ $(function() {
     $('#transcript-message').slideUp(500);
   });
 
+
   $('.at-time').change(function() {
     $('#timecode-embed-button').trigger('click');
   });
+  $('.at-time').change(function() {
+    $('#timecode-share-button').trigger('click');
+  });
 
   $('#timecode-embed-container').hide();
-  $('#timecode-embed-button').click(function() {
-    $('#timecode-embed-container').show();
 
-    var uri = window.location.protocol + '//' + window.location.hostname
+  function getTimecode() {
+    tc = $player[0].currentTime.toString();
+    tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
+    return "#at_" + tc + "_s";
+  };
+
+  var pbcore_guid = $('#pbcore-guid').text();
+
+  $('#timecode-embed-button').click(function() {
+    $('#timecode-embed').val("");
+
+    $('#timecode-embed-container').show();
+    var uri = window.location.protocol + '//' + window.location.hostname;
     // for dev env
     uri = window.location.port ? uri + ':' + window.location.port : uri;
     uri = uri + '/embed/'
@@ -220,14 +234,31 @@ $(function() {
     var rad_id = $('input.at-time:checked');
     var tc = '';
     if(rad_id && rad_id.attr('id') == 'on') {
-
-      tc = $player[0].currentTime.toString();
-      tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
-      tc = "#at_" + tc + "_s";
+      tc = getTimecode();
     }
-    
+
     var pbcore_guid = $('#pbcore-guid').text();
     var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
+
+    $('#timecode-embed').val(html);
+  });
+
+  $('#timecode-share-button').click(function() {
+    $('#timecode-embed').val("");
+
+    $('#timecode-embed-container').show();
+    var uri = window.location.protocol + '//' + window.location.hostname;
+    // for dev env
+    uri = window.location.port ? uri + ':' + window.location.port : uri;
+
+    var rad_id = $('input.at-time:checked');
+    var tc = '';
+    if(rad_id && rad_id.attr('id') == 'on') {
+      tc = getTimecode();
+    }
+
+    var pbcore_guid = $('#pbcore-guid').text();
+    var html = (uri + '/catalog/' + pbcore_guid + tc).replace(/&/g, '&amp;');
 
     $('#timecode-embed').val(html);
   });

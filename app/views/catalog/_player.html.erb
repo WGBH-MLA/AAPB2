@@ -51,21 +51,14 @@
           <div class="col-md-12">
             <button id="skip-back" class="player-button skip-button">◀◀ 10s</button>
             <button id="skip-forward" class="player-button skip-button">▶▶ 10s</button>
-            <button class="player-button embed-button" id="timecode-embed-button">Embed</button>
+
+            <%= link_to "Share", "#", data: { toggle: "modal", target: "#catalogShareModal" }  %>
+
           </div>
         </div>
 
-        <div id="timecode-embed-container" class="row">          
-          <span class="hidden" id="pbcore-guid"><%= @pbcore.id %></span>
-          <div class="col-md-12" id="embed-controls">
-            <label>At Current Time <input class="at-time" type="radio" checked name="at_time" id="on"></label>
-            <label>At Beginning <input class="at-time" type="radio" name="at_time" id="off"></label>
-            <button class="player-button" id="copy-button">Copy</button>
-            <button id="embed-close-btn" class="">✖</button>
-          </div>
-          <!-- <pre id="timecode-embed"></pre> -->
-          <textarea type="text" id="timecode-embed"></textarea>
-        </div>
+        <%= render partial: 'share_modal' %>
+
       </div>
 
     <div class="hidden-sm hidden-xs">
