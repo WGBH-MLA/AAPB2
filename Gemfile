@@ -61,7 +61,7 @@ gem 'srt'
 
 gem 'sony_ci_api', '~> 0.2.1'
 
-gem 'rubyzip', '~> 1.2.1'
+gem 'rubyzip', '~> 1.3.0'
 
 gem 'cancan'
 gem 'maxminddb'
