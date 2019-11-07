@@ -2,6 +2,8 @@
 
 ## Summary
 
+"On the Right: NET and Modern Conservatism" was curated in 2019 by Dr. Allison Perlman, Associate Professor of Film & Media Studies and History at University of California, Irvine, as part of the National Educational Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources. 
+
 ## Extended
 
 ## Authors
