@@ -20,12 +20,11 @@ class Organization < Cmless
   end
 
   def self.clean_organization_names(organization_names)
-    names = []
-    organization_names.each do |name|
-     if name.include?("\n")
-      names << name.gsub!("\n", "").split.join(" ")
+    names = organization_names.each do |name|
+      if name.include?("\n")
+        name.delete!("\n").split.join(" ")
       else
-        names << name
+        name
       end
     end
     names
@@ -65,7 +64,7 @@ class Organization < Cmless
   end
 
   def facet_url
-    "/catalog?f[contributing_organizations][]=" + CGI::escape(facet)
+    "/catalog?f[contributing_organizations][]=" + CGI.escape(facet)
   end
 
   def short_name
