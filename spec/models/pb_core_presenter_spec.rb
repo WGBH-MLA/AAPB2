@@ -370,6 +370,7 @@ describe 'Validated and plain PBCore' do
             'id' => '1234',
             'xml' => cleaner.clean(@pbc_xml),
             'episode_number_titles' => ['3-2-1'],
+            'episode_number_sort' => '3-2-1',
             'episode_titles' => ['Kaboom!'],
             'program_titles' => ['Gratuitous Explosions'],
             'series_titles' => ['Nova'],
