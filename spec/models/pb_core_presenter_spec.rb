@@ -182,7 +182,7 @@ describe 'Validated and plain PBCore' do
       ],
       annotations: [
         build(:pbcore_annotation, type: 'Transcript Status', value: 'Correct'),
-        build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.json'),
+        build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.txt'),
         build(:pbcore_annotation, type: 'Playlist Order', value: '3')
       ]
     ))
