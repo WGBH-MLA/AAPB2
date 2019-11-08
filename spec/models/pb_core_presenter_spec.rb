@@ -138,7 +138,7 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
         build(:pbcore_annotation, type: 'Outside URL', value: 'http://www.wgbh.org/'),
         build(:pbcore_annotation, type: 'External Reference URL', value: 'http://www.wgbh.org/'),
-        build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json')
+        build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl')
 
       ]
     ).to_xml
@@ -366,34 +366,37 @@ describe 'Validated and plain PBCore' do
         it 'constructs values for solr_document from pbcore xml' do
           # allowing this duplication so its clear that this xml needs to be cleaned as part of ingest process, rather than coming straight out of the pbcore gem
           cleaner = Cleaner.instance
-          expect(@pbc.to_solr).to eq(
-            'id' => '1234',
-            'xml' => cleaner.clean(@pbc_xml),
-            'episode_number_titles' => ['3-2-1'],
-            'episode_number_sort' => '3-2-1',
-            'episode_titles' => ['Kaboom!'],
-            'program_titles' => ['Gratuitous Explosions'],
-            'series_titles' => ['Nova'],
-            'special_collections' => [],
-            'text' => [
-              '1234', '1:23:46', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
-            'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
-            'title' => '3-2-1; Gratuitous Explosions; Kaboom!; Nova',
-            'contribs' => %w(Larry Stooges WGBH Stooges Curly Stooges Moe Stooges),
-            'year' => '2000',
-            'exhibits' => [],
-            'media_type' => 'Moving Image',
-            'genres' => ['Call-in'],
-            'topics' => ['Music'],
-            'asset_type' => 'Album',
-            'contributing_organizations' => ['WGBH (MA)'],
-            'playlist_group' => nil,
-            'playlist_order' => nil,
-            'producing_organizations' => ['WGBH'],
-            'states' => ['Massachusetts'],
-            'access_types' => [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
-            'asset_date' => '2000-01-01T00:00:00Z'
-          )
+
+          assertions =
+            {
+              'id' => '1234',
+              'xml' => cleaner.clean(@pbc_xml),
+              'episode_number_titles' => ['3-2-1'],
+              'episode_number_sort' => '3-2-1',
+              'episode_titles' => ['Kaboom!'],
+              'program_titles' => ['Gratuitous Explosions'],
+              'series_titles' => ['Nova'],
+              'special_collections' => [],
+              'text' => [
+                '1234', '1:23:46', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
+              'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
+              'title' => '3-2-1; Gratuitous Explosions; Kaboom!; Nova',
+              'contribs' => %w(Larry Stooges WGBH Stooges Curly Stooges Moe Stooges),
+              'year' => '2000',
+              'exhibits' => [],
+              'media_type' => 'Moving Image',
+              'genres' => ['Call-in'],
+              'topics' => ['Music'],
+              'asset_type' => 'Album',
+              'contributing_organizations' => ['WGBH (MA)'],
+              'playlist_group' => nil,
+              'playlist_order' => nil,
+              'producing_organizations' => ['WGBH'],
+              'states' => ['Massachusetts'],
+              'access_types' => [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
+              'asset_date' => '2000-01-01T00:00:00Z'
+            }
+          expect(@pbc.to_solr).to eq(assertions)
         end
       end
 
@@ -520,15 +523,16 @@ describe 'Validated and plain PBCore' do
         end
       end
 
-      describe '.transcript_content' do
-        it 'returns the transcript content from the pbcore xml' do
-          expect(JSON.parse(@pbc.transcript_content)).to eq(JSON.parse(File.read(Rails.root + 'spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json')))
-        end
-      end
+      # already tested by pbc_json_transcript factory
+      # describe '.transcript_content' do
+      #   it 'returns the transcript content from the pbcore xml' do
+      #     expect(JSON.parse(@pbc.transcript_content)).to eq(JSON.parse(File.read(Rails.root + 'spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json')))
+      #   end
+      # end
 
       describe '.transcript_src' do
         it 'returns the transcript src from the pbcore xml' do
-          expect(@pbc.transcript_src).to eq('https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json')
+          expect(@pbc.transcript_src).to eq('notarealurl')
         end
       end
 
