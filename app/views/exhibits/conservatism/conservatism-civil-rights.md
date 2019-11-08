@@ -82,34 +82,39 @@ When the episodes in this exhibit aired, where the Republican Party would land o
 ## Gallery
 
  - <a class="type">image</a>
+    <img alt="Myrna Bain of Young Americans for Freedom articulates the conservative position on equality in an 1963 telecast, An American Conservative." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/myrnabain1.png">
+    <a class="caption-text">Myrna Bain of Young Americans for Freedom articulates the conservative position on equality in an 1963 telecast, An American Conservative.</a>
+    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-r785h7cx44">Perspectives; The American Conservative.</a>
+
+ - <a class="type">image</a>
     <img alt="James Baldwin and William F. Buckley Jr. debate the American Dream and its relevance to African Americans; the debate was telecast on NET in 1965." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/BuckleyDebate.png">
     <a class="caption-text">James Baldwin and William F. Buckley Jr. debate the American Dream and its relevance to African Americans; the debate was telecast on NET in 1965.</a>
-    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-r785h7cx44">Perspectives; The American Conservative.</a>
+    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_151-sn00z71m54">Debate: Baldwin vs. Buckley.</a>
 
 
 ## Records
 
-/catalog/cpb-aacip-512-5717m04t96
-/catalog/cpb-aacip-512-7659c6sv00
-/catalog/cpb-aacip-512-vh5cc0vx37
-/catalog/cpb-aacip-512-b27pn8z80v
-/catalog/cpb-aacip-512-gf0ms3kz1k
-/catalog/cpb-aacip-151-sn00z71m54
-/catalog/cpb-aacip-512-154dn40k91
-/catalog/cpb-aacip-512-r785h7cx44
-/catalog/cpb-aacip-15-58bg7psp
-/catalog/cpb-aacip-75-35gb5qv3
-/catalog/cpb-aacip-512-vm42r3q34b
-/catalog/cpb-aacip-15-03qvbh5c
-/catalog/cpb-aacip-512-445h990541
-/catalog/cpb-aacip-512-jh3cz33457
-/catalog/cpb-aacip-512-tq5r786p84
-/catalog/cpb-aacip-516-w66930q11b
-/catalog/cpb-aacip/15-94hmh6vt
-/catalog/cpb-aacip-512-j96057dt9d
-/catalog/cpb-aacip-512-ft8df6m068
-/catalog/cpb-aacip-512-8s4jm24805
-/catalog/cpb-aacip-512-6t0gt5g86d
-/catalog/cpb-aacip-512-zk55d8pn04
-/catalog/cpb-aacip-512-j96057ds7h
-/catalog/cpb-aacip/15-27zkhbbv
+/catalog/cpb-aacip_512-5717m04t96
+/catalog/cpb-aacip_512-7659c6sv00
+/catalog/cpb-aacip_512-vh5cc0vx37
+/catalog/cpb-aacip_512-b27pn8z80v
+/catalog/cpb-aacip_512-gf0ms3kz1k
+/catalog/cpb-aacip_151-sn00z71m54
+/catalog/cpb-aacip_512-154dn40k91
+/catalog/cpb-aacip_512-r785h7cx44
+/catalog/cpb-aacip_15-58bg7psp
+/catalog/cpb-aacip_75-35gb5qv3
+/catalog/cpb-aacip_512-vm42r3q34b
+/catalog/cpb-aacip_15-03qvbh5c
+/catalog/cpb-aacip_512-445h990541
+/catalog/cpb-aacip_512-jh3cz33457
+/catalog/cpb-aacip_512-tq5r786p84
+/catalog/cpb-aacip_516-w66930q11b
+/catalog/cpb-aacip_15-94hmh6vt
+/catalog/cpb-aacip_512-j96057dt9d
+/catalog/cpb-aacip_512-ft8df6m068
+/catalog/cpb-aacip_512-8s4jm24805
+/catalog/cpb-aacip_512-6t0gt5g86d
+/catalog/cpb-aacip_512-zk55d8pn04
+/catalog/cpb-aacip_512-j96057ds7h
+/catalog/cpb-aacip_15-27zkhbbv
