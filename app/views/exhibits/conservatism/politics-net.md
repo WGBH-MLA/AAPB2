@@ -76,6 +76,10 @@ The programs in this exhibit thus circulated not only in the context of the incr
 ## Gallery
 
   - <a class="type">image</a>
+    <img alt="NET logo, circa 1965." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/NET.png">
+    <a class="caption-text">NET logo, circa 1965.</a>
+
+- <a class="type">image</a>
     <img alt="Robert Welch, founder of the John Birch Society, gave an extensive interview to WGBH journalist Jim Fleming as part of the Regional Report on the society." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/BuckleyDebate.png">
     <a class="caption-text">Robert Welch, founder of the John Birch Society, gave an extensive interview to WGBH journalist Jim Fleming as part of the Regional Report on the society.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-ft8df6m068">Regional Report; John Birch Society</a>
