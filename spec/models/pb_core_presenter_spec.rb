@@ -138,7 +138,7 @@ describe 'Validated and plain PBCore' do
         build(:pbcore_annotation, type: 'Level of User Access', value: 'Online Reading Room'),
         build(:pbcore_annotation, type: 'Outside URL', value: 'http://www.wgbh.org/'),
         build(:pbcore_annotation, type: 'External Reference URL', value: 'http://www.wgbh.org/'),
-        build(:pbcore_annotation, type: 'Transcript URL', value: 'notarealurl')
+        build(:pbcore_annotation, type: 'Transcript URL', value: 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json')
 
       ]
     ).to_xml
@@ -522,13 +522,13 @@ describe 'Validated and plain PBCore' do
 
       describe '.transcript_content' do
         it 'returns the transcript content from the pbcore xml' do
-          expect(@pbc.transcript_content).to eq("{\"language\":\"en-US\",\"parts\":[{\"text\":\"Raw bytes 0-255 follow: \\u0000\\u0001\\u0002\\u0003\\u0004\\u0005\\u0006\\u0007\\b \\u000e\\u000f\\u0010\\u0011\\u0012\\u0013\\u0014\\u0015\\u0016\\u0017\\u0018\\u0019\\u001a\\u001b\\u001c\\u001d\\u001e\\u001f !\\\"\#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\u007F\u0080\u0081\u0082\u0083\u0084\u0086\u0087\u0088\u0089\u008A\u008B\u008C\u008D\u008E\u008F\u0090\u0091\u0092\u0093\u0094\u0095\u0096\u0097\u0098\u0099\u009A\u009B\u009C\u009D\u009E\u009F ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ\",\"start_time\":\"0.0\",\"end_time\":\"20.0\"}]}")
+          expect(JSON.parse(@pbc.transcript_content)).to eq(JSON.parse(File.read(Rails.root + 'spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json')))
         end
       end
 
       describe '.transcript_src' do
         it 'returns the transcript src from the pbcore xml' do
-          expect(@pbc.transcript_src).to eq('notarealurl')
+          expect(@pbc.transcript_src).to eq('https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json')
         end
       end
 
