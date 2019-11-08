@@ -81,3 +81,28 @@ The programs in this exhibit thus circulated not only in the context of the incr
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-ft8df6m068">Regional Report; John Birch Society</a>
 
 ## Records
+
+/catalog/cpb-aacip-512-5717m04t96
+/catalog/cpb-aacip-512-7659c6sv00
+/catalog/cpb-aacip-512-vh5cc0vx37
+/catalog/cpb-aacip-512-b27pn8z80v
+/catalog/cpb-aacip-512-gf0ms3kz1k
+/catalog/cpb-aacip-151-sn00z71m54
+/catalog/cpb-aacip-512-154dn40k91
+/catalog/cpb-aacip-512-r785h7cx44
+/catalog/cpb-aacip-15-58bg7psp
+/catalog/cpb-aacip-75-35gb5qv3
+/catalog/cpb-aacip-512-vm42r3q34b
+/catalog/cpb-aacip-15-03qvbh5c
+/catalog/cpb-aacip-512-445h990541
+/catalog/cpb-aacip-512-jh3cz33457
+/catalog/cpb-aacip-512-tq5r786p84
+/catalog/cpb-aacip-516-w66930q11b
+/catalog/cpb-aacip/15-94hmh6vt
+/catalog/cpb-aacip-512-j96057dt9d
+/catalog/cpb-aacip-512-ft8df6m068
+/catalog/cpb-aacip-512-8s4jm24805
+/catalog/cpb-aacip-512-6t0gt5g86d
+/catalog/cpb-aacip-512-zk55d8pn04
+/catalog/cpb-aacip-512-j96057ds7h
+/catalog/cpb-aacip/15-27zkhbbv
