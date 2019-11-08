@@ -56,6 +56,11 @@ In addition, the NET programs provide a complex view into how public media tried
 ## Gallery
 
   - <a class="type">image</a>
+    <img alt="William F. Buckley, Jr., interviewed on What’s Happening Mr. Silver." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/buckleysilverdayan.png">
+    <a class="caption-text">William F. Buckley, Jr., interviewed on What’s Happening Mr. Silver.</a>
+    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_15-27zkhbbv">What's Happening Mr. Silver; William F. Buckley, Jr.</a>
+
+- <a class="type">image</a>
     <img alt="William F. Buckley Jr. debates James Baldwin at the Cambridge Union. NET telecast the debate in 1965" src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/BuckleyDebate.png">
     <a class="caption-text">William F. Buckley Jr. debates James Baldwin at the Cambridge Union. NET telecast the debate in 1965.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_151-sn00z71m54">Debate: Baldwin vs. Buckley.</a>
