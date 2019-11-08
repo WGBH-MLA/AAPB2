@@ -75,6 +75,11 @@ To be sure, the episodes in this exhibit drew similar lines between legitimate a
 ## Gallery
 
   - <a class="type">image</a>
+    <img alt="H.L. Hunt, the subject of an NET Journal episode, deployed his fortune to promote conservative views." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/hunttitle.png">
+    <a class="caption-text">H.L. Hunt, the subject of an NET Journal episode, deployed his fortune to promote conservative views.</a>
+    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-j96057dt9d">NET Journal; H.L. Hunt: The Richest and the Rightest</a>
+
+- <a class="type">image</a>
     <img alt="Voices from the Right,” the first episode of The Radical Americans, showcases conservatives’ innovative uses of the media to communicate conservative perspectives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/voicesfromright.png">
     <a class="caption-text">Voices from the Right,” the first episode of The Radical Americans, showcases conservatives’ innovative uses of the media to communicate conservative perspectives.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-445h990541">Radical Americans; Voices from the Right.</a>
