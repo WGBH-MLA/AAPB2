@@ -45,6 +45,6 @@ describe 'Advanced Search Integration' do
     fill_in('title', with: 'explosion')
     find('#advanced-search').click
     expect(page).to_not have_text('The MacNeil/Lehrer NewsHour')
-    expect(page).to have_text('Nova; Gratuitous Explosions; 3-2-1; Kaboom!')
+    expect(page).to have_text('3-2-1; Gratuitous Explosions; Kaboom!; Nova')
   end
 end
