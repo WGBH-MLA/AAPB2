@@ -62,7 +62,7 @@ gem 'srt'
 
 gem 'sony_ci_api', '~> 0.2.1'
 
-gem 'rubyzip', '~> 1.2.1'
+gem 'rubyzip', '~> 1.3.0'
 
 gem 'cancan'
 gem 'maxminddb'
@@ -86,7 +86,7 @@ gem 'pry-nav', :group => :development
 
 gem 'passenger', :group => :production
 
-gem 'nokogiri', '~> 1.8.4'
+gem 'nokogiri', '~> 1.10.4'
 
 # For upgrade to ruby 2.4
 # Not sure why this is needed

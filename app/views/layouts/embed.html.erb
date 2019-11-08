@@ -5,13 +5,14 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <%= stylesheet_link_tag "application", media: "all" %>
-    <%= javascript_include_tag "application" %>
+    <%= javascript_include_tag "application" if false %>
     <%= csrf_meta_tags %>
     <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
     <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
     <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
     <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
     <!-- Need VideoJS for our player.js file -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
     <%= javascript_include_tag 'player' %>
   </head>
   <body class="<%= render_body_class %>" style="margin: 0px;">

@@ -26,6 +26,7 @@ class HtmlScrubber
                    .gsub(/\n( ?\n)+/, "\n")
                    .gsub(/^\s+|\s+$/, '')
 
-    ActionView::Base.full_sanitizer.sanitize(CGI.unescapeHTML(dirtay))
+    # ActionView::Base.full_sanitizer.sanitize(CGI.unescapeHTML(dirtay))
+    CGI.unescapeHTML(dirtay)
   end
 end

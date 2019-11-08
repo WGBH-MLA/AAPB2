@@ -8,9 +8,22 @@ class SearchBuilder < Blacklight::SearchBuilder
     # turns "quoted" clauses into exact phrase match clauses
     query = solr_parameters[:q]
     return unless query
+
+    # try to pull out titles:"exact queries" to separate them from other clauses
+    title_queries = query.scan(/titles:"[^"]*"{1}/)
+    # remove from rest of query
+    query = query.gsub(/titles:"[^"]*"{1}/, '') if title_queries.present?
+
     exact_clauses = query.scan(/"[^"]*"/).map { |clause| exactquery(clause.delete(%("))) }
-    clean_query = query.gsub(/"[^"]*"/, '')
-    solr_parameters[:q] = %(#{exact_clauses.join(' ')}#{clean_query})
+
+    if exact_clauses.present?
+      clean_query = query.gsub(/"[^"]*"/, '')
+      solr_parameters[:q] = %(#{exact_clauses.join(' ')}#{clean_query})
+
+      # readd title queries back in if necessary
+      solr_parameters[:q] += %( #{title_queries.join(' ')}) if title_queries.present?
+    end
+    
     solr_parameters
   end
 

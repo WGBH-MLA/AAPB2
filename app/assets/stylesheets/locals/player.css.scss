@@ -27,13 +27,13 @@
   line-height: 36px;
 }
 
-.skip-button {
+.player-button {
   background-color: rgb(101, 48, 144);
   color: rgb(255, 255, 255);
   cursor: pointer;
   font-family: Roboto, Verdana, Tahoma, "DejaVu Sans", sans-serif;
   font-size: 10px;
-  height: 7vh;
+  height: 5vh;
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
@@ -46,4 +46,56 @@
   text-align: center;
   vertical-align: middle;
   width: 58px;
+}
+
+.skip-button {
+  width: 4vw;
+}
+
+.embed-button {
+  width: 6vw;
+}
+
+#timecode-embed {
+  min-width: 20vw;
+  width: 20vw;
+  max-width: 20vw;
+  min-height: 10vh;
+  height: 10vh;
+  max-height: 10vh;
+}
+
+#embed-controls label, input {
+  display: inline;
+  font-size: 10px;
+}
+
+#copy-button {
+  height: 3vh;
+}
+
+#embed-close-btn {
+  pointer-events: auto;
+  font-weight: bold;
+  width: 3vh;
+  height: 3vh;
+  background-color: rgb(101, 48, 144);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  font-family: Roboto, Verdana, Tahoma, "DejaVu Sans", sans-serif;
+  font-size: 10px;
+  /*height: 5vh;*/
+  padding-bottom: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 6px;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  z-index: 2;
+}
+
+#timecode-embed-container {
+  margin-top: 8px;
+  margin-bottom: 10px;
 }
