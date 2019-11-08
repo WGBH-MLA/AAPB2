@@ -69,6 +69,11 @@ Hopkins University Press, 2001).
 ## Gallery
 
   - <a class="type">image</a>
+    <img alt="Ronald Reagan discusses the future of the Republican Party in a 1966 episode of Regional Report." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/RonaldReaganRR.png">
+    <a class="caption-text">Ronald Reagan discusses the future of the Republican Party in a 1966 episode of Regional Report.</a>
+    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-8s4jm24805">Regional Report; The Republicans</a>
+
+- <a class="type">image</a>
     <img alt="George Christopher, candidate for California Governor in 1966, discusses the future of the Republican Party on Regional Report." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/GeorgeChristopherRR.png">
     <a class="caption-text">George Christopher, candidate for California Governor in 1966, discusses the future of the Republican Party on Regional Report.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-8s4jm24805">Regional Report; The Republicans</a>
