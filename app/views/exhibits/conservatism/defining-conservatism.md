@@ -108,13 +108,18 @@ Yet across many of these histories of conservatism is a recognition that the 196
 ## Cover
 
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Russell Kirk, M. Stanton Evans, Milton Friedman, and William Rusher discuss conservatism with moderator Sidney Hyman on a 1970 episode of NET Journal</caption>
+  <caption align="bottom" class="exhibit-caption">Russell Kirk, M. Stanton Evans, Milton Friedman, and William Rusher discuss conservatism with moderator Sidney Hyman on a 1970 episode of NET Journal.</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/NETJConView.png" alt="Russell Kirk, M. Stanton Evans, Milton Friedman, and William Rusher discuss conservatism with moderator Sidney Hyman on a 1970 episode of NET Journal"/></td></tr>
 </table>
 
 ## Gallery
 
   - <a class="type">image</a>
+    <img alt="Russell Kirk, M. Stanton Evans, Milton Friedman, and William Rusher discuss conservatism with moderator Sidney Hyman on a 1970 episode of NET Journal." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/NETJConView.png">
+    <a class="caption-text">Russell Kirk, M. Stanton Evans, Milton Friedman, and William Rusher discuss conservatism with moderator Sidney Hyman on a 1970 episode of NET Journal.</a>
+    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-gf0ms3kz1k">NET Journal; The Conservative Viewpoint.</a>
+
+- <a class="type">image</a>
     <img alt="Fred Schwarz, founder of the Christian Anti-Communism Crusade, was one of the voices of the Right featured in the first episode of The Radical Americans" src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/fredschwarz.png">
     <a class="caption-text">Fred Schwarz, founder of the Christian Anti-Communism Crusade, was one of the voices of the Right featured in the first episode of The Radical Americans.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-445h990541">The Radical Americans; Voices from the Right.</a>
