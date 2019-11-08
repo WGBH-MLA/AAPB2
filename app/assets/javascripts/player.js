@@ -204,66 +204,58 @@ $(function() {
     $('#transcript-message').slideUp(500);
   });
 
-
-  $('.at-time').change(function() {
-    $('#timecode-embed-button').trigger('click');
-  });
-  $('.at-time').change(function() {
-    $('#timecode-share-button').trigger('click');
-  });
-
-  $('#timecode-embed-container').hide();
+  $('#timecode-embed').val(getEmbedHtml);
+  $('#timecode-share').val(getShareHtml);
 
   function getTimecode() {
     tc = $player[0].currentTime.toString();
     tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
     return "#at_" + tc + "_s";
-  };
+  }
 
-  var pbcore_guid = $('#pbcore-guid').text();
-
-  $('#timecode-embed-button').click(function() {
-    $('#timecode-embed').val("");
-
-    $('#timecode-embed-container').show();
+  function getEmbedHtml() {
     var uri = window.location.protocol + '//' + window.location.hostname;
     // for dev env
     uri = window.location.port ? uri + ':' + window.location.port : uri;
     uri = uri + '/embed/'
-
-    var rad_id = $('input.at-time:checked');
+    var rad_id = $('input.embed-at-time:checked');
     var tc = '';
     if(rad_id && rad_id.attr('id') == 'on') {
       tc = getTimecode();
     }
-
     var pbcore_guid = $('#pbcore-guid').text();
     var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
 
-    $('#timecode-embed').val(html);
-  });
+    return html;
+  };
 
-  $('#timecode-share-button').click(function() {
-    $('#timecode-embed').val("");
-
-    $('#timecode-embed-container').show();
+  function getShareHtml() {
     var uri = window.location.protocol + '//' + window.location.hostname;
     // for dev env
     uri = window.location.port ? uri + ':' + window.location.port : uri;
-
-    var rad_id = $('input.at-time:checked');
+    uri = uri + '/embed/'
+    var rad_id = $('input.share-at-time:checked');
     var tc = '';
     if(rad_id && rad_id.attr('id') == 'on') {
       tc = getTimecode();
     }
-
     var pbcore_guid = $('#pbcore-guid').text();
-    var html = (uri + '/catalog/' + pbcore_guid + tc).replace(/&/g, '&amp;');
+    var html = (uri + 'catalog/' + pbcore_guid + tc).replace(/&/g, '&amp;');
 
-    $('#timecode-embed').val(html);
+    return html;
+  };
+
+  $('.embed-at-time').change(function() {
+    $('#timecode-embed').val("");
+    $('#timecode-embed').val(getEmbedHtml);
   });
 
-  $('#copy-button').click(function() {
+  $('.share-at-time').change(function() {
+    $('#timecode-share').val("");
+    $('#timecode-share').val(getShareHtml);
+  });
+
+  $('#embed-copy-button').click(function() {
     /* Get the text field */
     var copyText = document.getElementById('timecode-embed');
 
@@ -275,8 +267,16 @@ $(function() {
     document.execCommand('copy');
   });
 
-  $('#embed-close-btn').click(function() {
-    $('#timecode-embed-container').hide();
+  $('#share-copy-button').click(function() {
+    /* Get the text field */
+    var copyText = document.getElementById('timecode-share');
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+    /* Copy the text inside the text field */
+    document.execCommand('copy');
   });
 
 });

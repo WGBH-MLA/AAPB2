@@ -7,6 +7,11 @@
 .catalog-modal-content {
   margin-top: 20vh;
   background: #fff;
+  min-width: 40vh;
+}
+
+.catalog-modal-body {
+	text-align: center;
 }
 
 #documents .default-document {
