@@ -204,10 +204,9 @@ $(function() {
     $('#transcript-message').slideUp(500);
   });
 
-
-
   function getTimecode() {
-    tc = $player[0].currentTime.toString();
+    // handle clicking share button when video hasn't been played
+    tc = $player[0] ? $player[0].currentTime.toString() : '0.0';
     tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
     return "#at_" + tc + "_s";
   }
