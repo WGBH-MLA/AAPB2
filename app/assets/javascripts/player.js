@@ -1,7 +1,6 @@
 // Imported from OpenVault with minor adjustments.
 $(function() {
   var $player = $('#player_media_html5_api');
-
   // chrome needs this!!
   if($player[0]){
     var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
@@ -10,13 +9,15 @@ $(function() {
     if (url_hash) {
       $player[0].currentTime = url_hash[1];
     }
+  
   }
 
-  $('#player_media').on('loadeddata', function() {
+  $('#player_media').on('loadstart', function() {
 
     // firefox needs this!
     if(!$player[0]){
       $player = $('#player_media').find('video');
+
     }
 
     function parse_timecode(hms) {
