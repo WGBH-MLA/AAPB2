@@ -187,7 +187,7 @@ class PBCorePresenter
     @img_width = img_dimensions[0]
   end
   def contributing_organization_names
-    @contributing_organization_names ||= xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq
+    @contributing_organization_names ||= Organization.clean_organization_names(xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq)
   end
   def contributing_organizations_facet
     @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?

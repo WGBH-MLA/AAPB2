@@ -2,7 +2,7 @@
   <%
     display_facet.items.group_by do |option|
       State.find_by_abbreviation(
-        option.value.match(/\((..)\)/)[1]
+        CGI.unescape(option.value).match(/\((..)\)/)[1]
       ).name
     end.sort.each do |state, options|
   %>
@@ -18,7 +18,7 @@
       options.each do |option|
     %>
       <li>
-        <%= render_facet_item(display_facet.name, OpenStruct.new(value: option.value)) %>
+        <%= render_facet_item(display_facet.name, OpenStruct.new(value: CGI.unescape(option.value))) %>
         <% if option.hits > 0 %>
           <span class="facet-count"><%= "#{option.hits}" %></span>
         <% end %>
