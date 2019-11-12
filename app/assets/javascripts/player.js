@@ -244,11 +244,11 @@ $(function() {
   };
 
   $('.embed-at-time').change(function() {
-    $('#timecode-embed').val(getEmbedHtml());
+    $('#timecode-embed').val(getEmbedHtml);
   });
 
   $('.share-at-time').change(function() {
-    $('#timecode-share').val(getShareHtml());
+    $('#timecode-share').val(getShareHtml);
   });
 
   $('#embed-copy-button').click(function() {
