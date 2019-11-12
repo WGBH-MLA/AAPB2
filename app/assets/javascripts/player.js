@@ -204,8 +204,7 @@ $(function() {
     $('#transcript-message').slideUp(500);
   });
 
-  $('#timecode-embed').val(getEmbedHtml);
-  $('#timecode-share').val(getShareHtml);
+
 
   function getTimecode() {
     tc = $player[0].currentTime.toString();
@@ -217,10 +216,10 @@ $(function() {
     var uri = window.location.protocol + '//' + window.location.hostname;
     // for dev env
     uri = window.location.port ? uri + ':' + window.location.port : uri;
-    uri = uri + '/embed/'
-    var rad_id = $('input.embed-at-time:checked');
+    uri = uri + '/embed/';
+    var radio = $('input.embed-at-time:checked');
     var tc = '';
-    if(rad_id && rad_id.attr('id') == 'on') {
+    if(radio && radio.attr('id') == 'on') {
       tc = getTimecode();
     }
     var pbcore_guid = $('#pbcore-guid').text();
@@ -233,26 +232,24 @@ $(function() {
     var uri = window.location.protocol + '//' + window.location.hostname;
     // for dev env
     uri = window.location.port ? uri + ':' + window.location.port : uri;
-    uri = uri + '/embed/'
-    var rad_id = $('input.share-at-time:checked');
+    uri = uri + '/catalog/';
+    var radio = $('input.share-at-time:checked');
     var tc = '';
-    if(rad_id && rad_id.attr('id') == 'on') {
+    if(radio && radio.attr('id') == 'on') {
       tc = getTimecode();
     }
     var pbcore_guid = $('#pbcore-guid').text();
-    var html = (uri + 'catalog/' + pbcore_guid + tc).replace(/&/g, '&amp;');
+    var html = (uri + pbcore_guid + tc).replace(/&/g, '&amp;');
 
     return html;
   };
 
   $('.embed-at-time').change(function() {
-    $('#timecode-embed').val("");
-    $('#timecode-embed').val(getEmbedHtml);
+    $('#timecode-embed').val(getEmbedHtml());
   });
 
   $('.share-at-time').change(function() {
-    $('#timecode-share').val("");
-    $('#timecode-share').val(getShareHtml);
+    $('#timecode-share').val(getShareHtml());
   });
 
   $('#embed-copy-button').click(function() {
@@ -277,6 +274,12 @@ $(function() {
 
     /* Copy the text inside the text field */
     document.execCommand('copy');
+  });
+
+  // initialize share modal content when button is clicked, so we getta the current timecode
+  $('#content-share').click(function() {
+    $('#timecode-embed').val(getEmbedHtml());
+    $('#timecode-share').val(getShareHtml());
   });
 
 });
