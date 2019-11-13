@@ -49,53 +49,56 @@
 }
 
 .skip-button {
-  width: 4vw;
+  width: 9vw;
 }
 
 .embed-button {
-  width: 6vw;
+  width: 12vw;
 }
 
-#timecode-embed {
+.timecode-share-text {
   min-width: 20vw;
-  width: 20vw;
-  max-width: 20vw;
-  min-height: 10vh;
-  height: 10vh;
-  max-height: 10vh;
+  width: 30vw;
+  max-width: 30vw;
+  height: 100%;
 }
 
-#embed-controls label, input {
+.timecode-embed-text {
+  min-width: 20vw;
+  width: 30vw;
+  max-width: 30vw;
+  height: 100%;
+  min-height: 8vw;
+}
+
+#share-controls label, input {
   display: inline;
   font-size: 10px;
 }
 
-#copy-button {
-  height: 3vh;
+.share-controls-row {
+  min-height: 2vw;
 }
 
-#embed-close-btn {
-  pointer-events: auto;
-  font-weight: bold;
-  width: 3vh;
-  height: 3vh;
-  background-color: rgb(101, 48, 144);
-  color: rgb(255, 255, 255);
-  cursor: pointer;
-  font-family: Roboto, Verdana, Tahoma, "DejaVu Sans", sans-serif;
-  font-size: 10px;
-  /*height: 5vh;*/
-  padding-bottom: 6px;
-  padding-left: 6px;
-  padding-right: 6px;
-  padding-top: 6px;
-  position: relative;
-  text-align: center;
-  vertical-align: middle;
-  z-index: 2;
-}
-
-#timecode-embed-container {
+#timecode-share-container {
   margin-top: 8px;
   margin-bottom: 10px;
+  h5 {
+    margin-bottom: 0;
+    margin-top: 1vw;
+  }
+  #share-controls {
+    .player-button {
+      height: 3vw;
+    }
+  }
+}
+
+@media (max-width: 720px) {
+  .skip-button {
+    width: 17vw;
+  }
+  #timecode-share-container #share-controls .player-button {
+    height: 5vw;
+  }
 }

@@ -204,35 +204,55 @@ $(function() {
     $('#transcript-message').slideUp(500);
   });
 
-  $('.at-time').change(function() {
-    $('#timecode-embed-button').trigger('click');
-  });
 
-  $('#timecode-embed-container').hide();
-  $('#timecode-embed-button').click(function() {
-    $('#timecode-embed-container').show();
 
-    var uri = window.location.protocol + '//' + window.location.hostname
+  function getTimecode() {
+    tc = $player[0].currentTime.toString();
+    tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
+    return "#at_" + tc + "_s";
+  }
+
+  function getEmbedHtml() {
+    var uri = window.location.protocol + '//' + window.location.hostname;
     // for dev env
     uri = window.location.port ? uri + ':' + window.location.port : uri;
-    uri = uri + '/embed/'
-
-    var rad_id = $('input.at-time:checked');
+    uri = uri + '/embed/';
+    var radio = $('input.embed-at-time:checked');
     var tc = '';
-    if(rad_id && rad_id.attr('id') == 'on') {
-
-      tc = $player[0].currentTime.toString();
-      tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
-      tc = "#at_" + tc + "_s";
+    if(radio && radio.attr('id') == 'on') {
+      tc = getTimecode();
     }
-    
     var pbcore_guid = $('#pbcore-guid').text();
     var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
 
-    $('#timecode-embed').val(html);
+    return html;
+  };
+
+  function getShareHtml() {
+    var uri = window.location.protocol + '//' + window.location.hostname;
+    // for dev env
+    uri = window.location.port ? uri + ':' + window.location.port : uri;
+    uri = uri + '/catalog/';
+    var radio = $('input.share-at-time:checked');
+    var tc = '';
+    if(radio && radio.attr('id') == 'on') {
+      tc = getTimecode();
+    }
+    var pbcore_guid = $('#pbcore-guid').text();
+    var html = (uri + pbcore_guid + tc).replace(/&/g, '&amp;');
+
+    return html;
+  };
+
+  $('.embed-at-time').change(function() {
+    $('#timecode-embed').val(getEmbedHtml());
   });
 
-  $('#copy-button').click(function() {
+  $('.share-at-time').change(function() {
+    $('#timecode-share').val(getShareHtml());
+  });
+
+  $('#embed-copy-button').click(function() {
     /* Get the text field */
     var copyText = document.getElementById('timecode-embed');
 
@@ -244,8 +264,22 @@ $(function() {
     document.execCommand('copy');
   });
 
-  $('#embed-close-btn').click(function() {
-    $('#timecode-embed-container').hide();
+  $('#share-copy-button').click(function() {
+    /* Get the text field */
+    var copyText = document.getElementById('timecode-share');
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+    /* Copy the text inside the text field */
+    document.execCommand('copy');
+  });
+
+  // initialize share modal content when button is clicked, so we getta the current timecode
+  $('#content-share').click(function() {
+    $('#timecode-embed').val(getEmbedHtml());
+    $('#timecode-share').val(getShareHtml());
   });
 
 });

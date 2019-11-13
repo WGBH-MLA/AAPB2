@@ -224,7 +224,7 @@ class PBCorePresenter
     @img_width = img_dimensions[0]
   end
   def contributing_organization_names
-    @contributing_organization_names ||= annotations_by_type(instantiations.map(&:annotations).flatten, 'organization').map(&:value).uniq
+    @contributing_organization_names ||= Organization.clean_organization_names(annotations_by_type(instantiations.map(&:annotations).flatten, 'organization').map(&:value).uniq)
   end
   def contributing_organizations_facet
     @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?

@@ -80,6 +80,7 @@
       <div class="col-md-4" style="padding-right: 0; ">
 
         <% if @exhibit.items.count > 0 %>
+
           <% color_class = @exhibit.subsection? ? 'exhibit-records-section' : 'exhibit-records' %>
 
           <div class="<%= color_class %> exhibit-records-link">
@@ -214,7 +215,6 @@
   </div>
 
   <!-- records -->
-
   <div class="hide">
     <%= render(partial: 'exhibits/records',
                 locals: {
