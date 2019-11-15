@@ -115,6 +115,7 @@ class PBCorePresenter
     # TODO: https://github.com/WGBH/AAPB2/issues/870
     @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
   end
+
   SONY_CI = 'Sony Ci'.freeze
   def ids
     @ids ||= begin
@@ -145,6 +146,13 @@ class PBCorePresenter
     @transcript_src ||= xpath("/*/pbcoreAnnotation[@annotationType='#{TRANSCRIPT_ANNOTATION}']")
   rescue NoMatchError
     nil
+  end
+
+  def constructed_transcript_src
+    @constructed_transcript_url ||= begin
+      trans_id = id.gsub('_', '-')
+      %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{ trans_id }/#{ trans_id }-transcript.json)      
+    end 
   end
 
   def img?
@@ -406,18 +414,22 @@ class PBCorePresenter
       full_doc.insert_after(spot_for_annotations, cap_anno)
     end
 
-    transcript_file = !transcript_src.nil? ? TranscriptFile.new(transcript_src) : nil
-    if !transcript_file.nil? && transcript_file.file_present?
-      pre_existing = pre_existing_transcript_annotation(full_doc)
-      pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      transcript_body = Nokogiri::HTML(transcript_file.html).text.tr("\n", ' ')
+    # if transcript status exists in pbcore, put the transcript url annotation in
+    if transcript_status
+      transcript_file = TranscriptFile.new(constructed_transcript_src)
 
-      trans_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
-        el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
-        el.add_text(transcript_src)
+      if transcript_file.file_present?
+        pre_existing = pre_existing_transcript_annotation(full_doc)
+        pre_existing.parent.elements.delete(pre_existing) if pre_existing
+        transcript_body = Nokogiri::HTML(transcript_file.html).text.tr("\n", ' ')
+
+        trans_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
+          el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
+          el.add_text(constructed_transcript_src)
+        end
+
+        full_doc.insert_after(spot_for_annotations, trans_anno)
       end
-
-      full_doc.insert_after(spot_for_annotations, trans_anno)
     end
 
     {
