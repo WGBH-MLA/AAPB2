@@ -150,9 +150,9 @@ class PBCorePresenter
 
   def constructed_transcript_src
     @constructed_transcript_url ||= begin
-      trans_id = id.gsub('_', '-')
-      %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{ trans_id }/#{ trans_id }-transcript.json)      
-    end 
+      trans_id = id.tr('_', '-')
+      %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.json)
+    end
   end
 
   def img?
