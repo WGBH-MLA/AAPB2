@@ -218,6 +218,7 @@ describe 'Catalog' do
           # expect(page).to have_text('You searched for: Access all'), missing_page_text_custom_error('You searched for: Access all', page.current_path)
 
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
+          # turn on
           click_link('KQED (CA)')
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
           expect_count(3, page.text)
@@ -225,12 +226,14 @@ describe 'Catalog' do
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
 
+          # turn on
           click_link('WGBH (MA)')
           expect_count(9, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
 
+          # turn off
           click_link('KQED (CA)')
           expect_count(6, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
