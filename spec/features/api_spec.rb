@@ -38,7 +38,7 @@ describe 'API' do
       visit '/api.json?rows=10&q=iowa'
       expect(page.status_code).to eq 200
       expect(page.source).to match(/^\{/s)
-      expect(page).to have_text('"numFound": 7'), missing_page_text_custom_error('"numFound": 7', page.current_path)
+      expect(page).to have_text('"numFound": 5'), missing_page_text_custom_error('"numFound": 5', page.current_path)
       expect(page).to have_text('Norman Borlaug'), missing_page_text_custom_error('Norman Borlaug', page.current_path)
       expect(page.source).to match('"xml": "<pbcoreDescriptionDocument')
       # have_text runs the source through a regex that removes "tags",
@@ -48,7 +48,7 @@ describe 'API' do
     it 'supports xml, too' do
       visit '/api.xml?rows=10&q=iowa'
       expect(page.status_code).to eq 200
-      expect(page.source).to match('<numFound type="integer">7</numFound>')
+      expect(page.source).to match('<numFound type="integer">5</numFound>')
       expect(page.source).to match('Norman Borlaug')
       expect(page.source).to match('<xml>&lt;pbcoreDescriptionDocument')
     end
