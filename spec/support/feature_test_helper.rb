@@ -1,5 +1,5 @@
 module FeatureTestHelper
-  def missing_page_text_custom_error(text, page_path, page_text="")
+  def missing_page_text_custom_error(text, page_path, page_text = "")
 
     if page_text.present?
       page_text = %(, instead got: #{page_text})

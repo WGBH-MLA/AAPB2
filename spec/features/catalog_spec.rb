@@ -16,7 +16,7 @@ describe 'Catalog' do
     allow_any_instance_of(TranscriptFile).to receive(:content).and_return(File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json'))
   end
 
-  def expect_count(count, page_text="")
+  def expect_count(count, page_text = "")
     case count
     when 0
       expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
