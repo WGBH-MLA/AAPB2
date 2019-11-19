@@ -216,7 +216,6 @@ describe 'Catalog' do
           # commenting out as this appears to be standard Blacklight functionality
           # expect_count(43, page.text)
           # expect(page).to have_text('You searched for: Access all'), missing_page_text_custom_error('You searched for: Access all', page.current_path)
-
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
           # turn on
           click_link('KQED (CA)')
@@ -240,10 +239,8 @@ describe 'Catalog' do
                                     'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
 
-          all(:css, '.constraints-container a.remove').first.click # remove access all
-          # If you attempt to remove the access facet, it redirects you to the default,
-          # but the default depends on requestor's IP address.
-          # TODO: set address in request.
+          click_link('All Digitized')
+
           expect_count(5, page.text)
           expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
 
