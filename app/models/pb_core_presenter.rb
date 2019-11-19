@@ -17,6 +17,7 @@ require_relative '../../lib/caption_converter'
 require_relative 'transcript_file'
 require_relative 'caption_file'
 require_relative '../helpers/application_helper'
+require_relative 'canonical_url'
 
 class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
@@ -225,6 +226,9 @@ class PBCorePresenter
     end
   rescue NoMatchError
     nil
+  end
+  def canonical_url
+    @canonical_url ||= CanonicalUrl.new(id).url
   end
   def access_level
     @access_level ||= begin
