@@ -1,10 +1,6 @@
 module FeatureTestHelper
   def missing_page_text_custom_error(text, page_path, page_text = "")
-
-    if page_text.present?
-      page_text = %(, instead got: #{page_text})
-    end
-
+    page_text = %(, instead got: #{page_text}) if page_text.present?
     "expected to find \"#{text}\" on: #{page_path}#{page_text}"
   end
 
