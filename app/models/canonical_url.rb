@@ -24,7 +24,9 @@ class CanonicalUrl
 
   # Get all the canonical URLs from config
   def canonical_urls
-    YAML.load_file(Rails.root + 'config/canonical_urls/url_map.yml')
+    Rails.cache.fetch('canonical_urls') do
+      YAML.load_file(Rails.root + 'config/canonical_urls/url_map.yml')
+    end
   end
 
   def ids_with_urls
