@@ -23,6 +23,10 @@
   <meta property="og:site_name" content="American Archive of Public Broadcasting"/>
   <meta property="og:description" content="<%= @pbcore.descriptions.join("\n") %>" />
 
+  <% if @pbcore.canonical_url.present? %>
+    <link rel="canonical" href="<%= @pbcore.canonical_url %>" />
+  <% end %>
+
   <!-- TODO: Doubt that these will be effective because we check the referer. -->
   <% if @pbcore.digitized? %>
     <% if @pbcore.video? %>
