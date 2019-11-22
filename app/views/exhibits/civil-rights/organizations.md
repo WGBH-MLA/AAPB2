@@ -72,6 +72,7 @@ Organizations profiled include:
 ## Resources
 
 - [Dynamics for Idealism: Volunteers for Civil RIghts, 1965-1982](http://www.disc.wisc.edu/archive/idealism/)
+- [SNCC Digital Gateway](https://snccdigital.org/)
 
 ## Main
 
