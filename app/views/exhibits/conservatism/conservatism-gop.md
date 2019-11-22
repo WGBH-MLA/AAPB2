@@ -8,7 +8,7 @@
 
 In 1966, NET dedicated an episode of its [*Regional Report*](/catalog/cpb-aacip_512-8s4jm24805) to the state of the Republican Party across the nation. In 1964, the Republicans had suffered a massive defeat in the presidential election, with conservative Republican nominee Barry Goldwater losing decisively to incumbent President Lyndon Johnson. Goldwater, who had been elected senator from Arizona in 1952, was a staunch critic of the Eisenhower administration, hostile to organized labor, supportive of states’ rights, skeptical of the United Nations, and adamant that the nation’s response to the communist threat was insufficient. His candidacy signaled the party’s move to the right, while his staggering defeat raised questions over the future of the Republican Party as well as the principles that should guide it. The *Regional Report* episode presented a party in flux, divided by ideological commitments, regional pressures, and differing strategies to address civil rights legislation, the Great Society programs inaugurated in 1965, and the increasingly unpopular war in Vietnam. The role of conservatism in the GOP, at the time of the telecast, seemed uncertain.
 
-The history of the Republican Party in the decades after World War II, much like the history of the Democratic Party, is one of conflict and factionalism. Moderate and conservative wings in the party disagreed over both strategy and policy, on how best to recapture political power and shed its minority party status and on what its response should be to the expansion of federal power inaugurated during the New Deal, the Black Freedom Struggle and its demand for full citizenship rights, and the communist threat both domestically and globally. 
+The history of the Republican Party in the decades after World War II, much like the history of the Democratic Party, is one of conflict and factionalism. Moderate and conservative wings in the party disagreed over both strategy and policy, on how best to recapture political power and shed its minority party status and on what its response should be to the expansion of federal power inaugurated during the New Deal, the Black Freedom Struggle and its demand for full citizenship rights, and the communist threat both domestically and globally.
 
 The Republican Party was created in 1854 in response to an impending national crisis over slavery and escalating anxieties over the increasing political power of the slaveholding class. Though members of the newly formed Republican Party were split between those who wanted to abolish slavery everywhere and those who wanted to restore the Missouri Compromise[<sup>31</sup>](/exhibits/conservatism/notes#31), its members in the late 1850s and early 1860s shared a distrust in the efficacy of a political system that allowed for the concentration of wealth in the hands of the few – in this era the slaveholding class – and a belief in the power of government to promote individual economic achievement. Government, as Abraham Lincoln articulated in an 1859 speech, should do the work desired by citizens, but was too large in scale to be accomplished by individuals. The party endorsed tariffs, the federal distribution of land to promote farming, legislation to protect immigrant rights, and the construction of a transcontinental railroad. During the first half of the 1860s, as the Civil War raged, the Republican Party expanded the power of the federal government in a number of arenas, from creating a national currency and forming the Department of Agriculture to spreading knowledge about modern farming practices, supporting the development of public universities, and facilitating the development of a transcontinental railroad.[<sup>32</sup>](/exhibits/conservatism/notes#32)
 
@@ -31,27 +31,27 @@ Though Goldwater’s defeat was decisive, in the words of Goldwater biographer R
 The *Regional Report* episode on Republicans – along with a number of other episodes in this exhibit – provide a remarkable window into the party at this moment of flux, when supporters of Eisenhower’s “modern Republicanism” clashed with movement conservatives, and when members of the Party disagreed over how to navigate the exigent issues of the day, from racial injustice to US foreign policy. They both attest to how conservative ascent in the Republican Party was not certain and to the attending concerns of conservatives in the 1960s over whether the Party that they understood to be their political home would be welcoming to them and their approach to governance.
 
 ### Sources and Suggested Reading
-- William C. Berman, *America’s Right Turn: From Nixon to Clinton* (Baltimore: The Johns 
+- William C. Berman, *America’s Right Turn: From Nixon to Clinton* (Baltimore: The Johns
 Hopkins University Press, 2001).
 
-- Mary C. Brennan, *Turning Right: The Conservative Capture of the GOP* (Chapel Hill: 
+- Mary C. Brennan, *Turning Right: The Conservative Capture of the GOP* (Chapel Hill:
 	University of North Carolina Press, 1995).
 
-- Lewis L. Gould, *The Republicans: A History of the Grand Old Party* (New York: Oxford 
+- Lewis L. Gould, *The Republicans: A History of the Grand Old Party* (New York: Oxford
 	University Press, 2014).
 
 - Robert Mason and Iwan Morgan, eds., *Seeking a New Majority: The Republican Party and American Politics, 1960-1980* (Nashville: Vanderbilt University Press, 2013).
 
-- Rick Perlstein, *Before the Storm: Barry Goldwater and the Unmaking of the American 
+- Rick Perlstein, *Before the Storm: Barry Goldwater and the Unmaking of the American
 	Consensus* (New York: Nation Books, 2009).
 
 - Heather Cox Richardson, *To Make Men Free: A History of the Republican Party* (New York:
  Basic Books, 2014).
 
-- Elizabeth Tandy Shermer, ed., *Barry Goldwater and the Remaking of the American Political 
+- Elizabeth Tandy Shermer, ed., *Barry Goldwater and the Remaking of the American Political
 	Landscape* (Tucson: University of Arizona Press, 2013).
 
-- Leah Wright Rigeur, *The Loneliness of the Black Republican: Pragmatic Politics and the Pursuit 
+- Leah Wright Rigeur, *The Loneliness of the Black Republican: Pragmatic Politics and the Pursuit
 	of Power* (Princeton: Princeton University Press, 2015).
 
 
@@ -77,11 +77,11 @@ Hopkins University Press, 2001).
     <img alt="George Christopher, candidate for California Governor in 1966, discusses the future of the Republican Party on Regional Report." src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/GeorgeChristopherRR.png">
     <a class="caption-text">George Christopher, candidate for California Governor in 1966, discusses the future of the Republican Party on Regional Report.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-8s4jm24805">Regional Report; The Republicans</a>
-    
+
 - <a class="type">image</a>
     <img alt="Congressperson Philip Crane discusses the future of the Republican Party in a 1970 episode of Conservative Viewpoint" src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/PhilipCrane.png">
     <a class="caption-text">Congressperson Philip Crane discusses the future of the Republican Party in a 1970 episode of Conservative Viewpoint.</a>
-    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-b27pn8z80v">Conservative Viewpoint; Politics.</a>
+    <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-b27pn8z80v">Conservative Viewpoint; Politics</a>
 
 ## Records
 
