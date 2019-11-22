@@ -16,14 +16,19 @@ describe 'Catalog' do
     allow_any_instance_of(TranscriptFile).to receive(:content).and_return(File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json'))
   end
 
-  def expect_count(count)
+  def expect_count(count, page_text = "")
     case count
     when 0
       expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
     when 1
       expect(page).to have_text('1 entry found'), missing_page_text_custom_error('1 entry found', page.current_path)
     else
-      expect(page).to have_text("1 - #{[count, 10].min} of #{count}"), missing_page_text_custom_error("1 - #{[count, 10].min} of #{count}", page.current_path)
+
+      if page_text.present?
+        page_text = page_text.scan(/1 - \d{1,5} of \d{1,5}/).first
+      end
+
+      expect(page).to have_text("1 - #{[count, 10].min} of #{count}"), missing_page_text_custom_error("1 - #{[count, 10].min} of #{count}", page.current_path, page_text)
     end
   end
 
@@ -77,7 +82,7 @@ describe 'Catalog' do
     it 'can find one item' do
       visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=1234"
       expect(page.status_code).to eq(200)
-      expect_count(1)
+      expect_count(1, page.text)
       [
         'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
         'Date: 2000-01-01',
@@ -107,7 +112,7 @@ describe 'Catalog' do
           it "view #{url}" do
             visit url
             expect(page.status_code).to eq(200)
-            expect_count(count)
+            expect_count(count, page.text)
           end
         end
       end
@@ -143,7 +148,7 @@ describe 'Catalog' do
               page.all("#facet-#{facet} li a.facet_select").count
             ).to eq facet_count # expected number of values for each facet
             expect(page.status_code).to eq(200)
-            expect_count(value_count)
+            expect_count(value_count, page.text)
           end
         end
       end
@@ -157,7 +162,7 @@ describe 'Catalog' do
             url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
             it "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
-              expect_count(value_count)
+              expect_count(value_count, page.text)
             end
           end
         end
@@ -172,7 +177,7 @@ describe 'Catalog' do
             # xit-ing as this appears to be standard Blacklight functionality
             xit "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
-              expect_count(value_count)
+              expect_count(value_count, page.text)
             end
           end
         end
@@ -194,7 +199,7 @@ describe 'Catalog' do
               # xit-ing as this appears to be standard Blacklight functionality
               xit "has #{value_count} results" do
                 visit url
-                expect_count(value_count)
+                expect_count(value_count, page.text)
               end
             end
           end
@@ -204,39 +209,39 @@ describe 'Catalog' do
           visit '/catalog?f[access_types][]=online'
 
           # commenting out as this appears to be standard Blacklight functionality
-          # expect_count(10)
+          # expect_count(10, page.text)
           # expect(page).to have_text('You searched for: Access online'), missing_page_text_custom_error('You searched for: Access online', page.current_path)
 
           click_link('All Records')
           # commenting out as this appears to be standard Blacklight functionality
-          # expect_count(43)
+          # expect_count(43, page.text)
           # expect(page).to have_text('You searched for: Access all'), missing_page_text_custom_error('You searched for: Access all', page.current_path)
-
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
+          # turn on
           click_link('KQED (CA)')
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
-          expect_count(3)
+          expect_count(3, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
 
+          # turn on
           click_link('WGBH (MA)')
-          expect_count(9)
+          expect_count(9, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
 
+          # turn off
           click_link('KQED (CA)')
-          expect_count(6)
+          expect_count(6, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
 
-          all(:css, '.constraints-container a.remove').first.click # remove access all
-          # If you attempt to remove the access facet, it redirects you to the default,
-          # but the default depends on requestor's IP address.
-          # TODO: set address in request.
-          expect_count(4)
+          click_link('All Digitized')
+
+          expect_count(5, page.text)
           expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
 
           click_link('Iowa Public Television (IA)')
@@ -544,7 +549,7 @@ describe 'Catalog' do
         xit "search: #{search_url}" do
           visit search_url
           expect(page.status_code).to eq(200)
-          expect_count(1)
+          expect_count(1, page.text)
         end
       end
     end
