@@ -27,7 +27,7 @@ If William F. Buckley Jr.’s *National Review* distanced conservatism from extr
 To be sure, the episodes in this exhibit drew similar lines between legitimate and illegitimate expressions of conservatism. But what is perhaps most fascinating about these episodes is, contrary to much of the conservative media that developed in the 1950s and 1960s, they targeted not the like-minded, the potential member, or the future activist, but the NET audience. They illuminate not only the varied ways that NET tried to make sense of conservatism, but how conservatives presented themselves to a variegated audience at a moment when their movement’s impact was uncertain.
 
 
-#### Sources and Suggested Reading:
+### Sources and Suggested Reading:
 
 - Benjamin R. Epstein and Arnold Forster, *The Radical Right: Report on the John Birch Society*
 	and Its Allies (NY: Random House, 1967).
