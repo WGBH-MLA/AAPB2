@@ -31,7 +31,7 @@ As Leah Wright Rigeur has demonstrated, African Americans within the Republican 
 
 When the episodes in this exhibit aired, where the Republican Party would land on the issue of civil rights was uncertain. Yet they clarify the conservative positions, articulated by capable spokespeople like Myrna Bain, who in the 1960s was a contributor to *National Review* and worked in the Minorities Division of the Republican Party. Yet if, in the language of Ralph Bunche, the Republican Party could not “successfully run with both hare and hound,”[<sup>49</sup>](/exhibits/conservatism/notes#49) with white voters hostile to racial justice and African American voters seeking equality, then Wright Rigeur’s history is, despite the best efforts of the figures she profiles, one in which the party decisively swung over to the hound by 1980, abandoning the hare and gaining political advantage by rejecting the use of federal power to address racial inequality. Bain herself would shift political allegiances, as she would become a professor of Black Studies at the City University of New York and would co-found in 1981, along with Audre Lorde, Cherrie Moraga, and Hattie Gosset, Kitchen Table: Women of Color Press.
 
-#### Sources and Suggested Reading
+### Sources and Suggested Reading
 
 - Aniko Bodroghkozy, *Equal Time: Television and the Civil Right Movement* (Urbana: University
 	of Illinois Press, 2012).
