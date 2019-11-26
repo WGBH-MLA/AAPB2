@@ -15,11 +15,10 @@ module Rails
 
   unless Rails.respond_to?(:cache)
     def self.cache
-      return CacheStub.new()
+      CacheStub.new
     end
   end
 end
-
 
 class CacheStub
   def fetch(key)
