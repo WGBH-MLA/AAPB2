@@ -1,7 +1,4 @@
 require 'yaml'
-require_relative '../../lib/aapb'
-require 'active_support'
-require 'active_support/core_ext'
 
 class CanonicalUrl
   # Only a small number of records will have a canonical_url, so they are stored in a YAML file

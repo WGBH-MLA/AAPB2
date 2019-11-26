@@ -13,10 +13,20 @@ module Rails
     end
   end
 
-  # for geoip
   unless Rails.respond_to?(:cache)
     def self.cache
-      OpenStruct.new(fetch: MaxMindDB.new(Rails.root + 'config/GeoLite2-Country.mmdb'))
+      return CacheStub.new()
+    end
+  end
+end
+
+
+class CacheStub
+  def fetch(key)
+    if key == 'maxmind_db'
+      MaxMindDB.new(Rails.root + 'config/GeoLite2-Country.mmdb')
+    elsif key == 'canonical_urls'
+      YAML.load_file(Rails.root + 'config/canonical_urls/url_map.yml')
     end
   end
 end
