@@ -6,7 +6,7 @@
 
 ## Extended
 
-H. L. Hunt, the subject of a 1967 [*NET Journal*](/catalog/cpb-aacip_512-j96057dt9d) profile, was a person of interest to NET for a number of reasons. At the time, one of the wealthiest men in the US – his fortune was comparable to those of princes in the Middle East – Hunt made his fortune in oil in Texas, expanded Hunt Oil Company across the nation, and developed additional businesses, including HLH Products, a food processing subsidiary of Hunt Oil. HLH Products sponsored the Lifeline radio program, carried by over 400 stations, which both promoted Hunt’s conservative ideas and attacked individuals whose perspectives differed. According to William Latelle, president of Wesleyan University and interviewed in the *NET Journal* episode, Lifeline conflated liberalism with communism and suggested that those who advocated for, or were beneficiaries of, social programs were co-conspirators in a socialist plot to undermine the nation. As *NET Journal* makes clear, Lifeline was but one of many outlets Hunt deployed to disseminate his political views, which included films, newspaper columns, pamphlets, and four books.
+H. L. Hunt, the subject of a 1967 [*NET Journal*](/catalog/cpb-aacip_512-j96057dt9d) profile, was a person of interest to NET for a number of reasons. At the time one of the wealthiest men in the US, Hunt made his fortune in oil in Texas, expanded Hunt Oil Company across the nation, and developed additional businesses, including HLH Products, a food processing subsidiary of Hunt Oil. HLH Products sponsored the Lifeline radio program, carried by over 400 stations, which both promoted Hunt’s conservative ideas and attacked individuals whose perspectives differed. According to William Latelle, president of Wesleyan University and interviewed in the *NET Journal* episode, Lifeline conflated liberalism with communism and suggested that those who advocated for, or were beneficiaries of, social programs were co-conspirators in a socialist plot to undermine the nation. As *NET Journal* makes clear, Lifeline was but one of many outlets Hunt deployed to disseminate his political views, which included films, newspaper columns, pamphlets, and four books.
 
 As Heather Hendershot has illustrated, Hunt was one of many conservatives who turned to the airwaves in the 1950s and 1960s to address urgent issues facing Americans during the Cold War. Hunt, for example, also financially supported the telecasts of Dan Smoot, a former member of the FBI and ardent states’ rights advocate who saw any encroachment on them – via the civil rights movement or federal social welfare programs – as a grave threat to liberty. Rev. Billy James Hargis’ sermons were broadcast on radio and television stations, in which he positioned the civil rights movement as a communist conspiracy, as he would the movement for sexual education in the 1960s and 1970s.[<sup>50</sup>](/exhibits/conservatism/notes#50) The first episode of NET’s six-part *The Radical Americans*, [“Voices from the Right,”](/catalog/cpb-aacip_512-445h990541) discussed a number of these figures and covered other creative uses of the media, such as Dr. William Campbell Douglas’ “Let Freedom Ring,” an anti-communist telephone network that recorded weekly messages on answering machines, and the Conservative Society of America’s use of newspapers, radio programs, and informational pamphlets to illuminate what they saw as communist infiltration in myriad spheres of American life.
 
@@ -59,7 +59,11 @@ To be sure, the episodes in this exhibit drew similar lines between legitimate a
 	Nation: The Political History of News in Modern America* (Philadelphia: University of
 	Pennsylvania Press, 2017), 96-113.
 
-#### Additional Resources:
+- Sam Lebovic, "When the 'Mainstream Media' Was Conservative: Media
+  Criticism in the Age of Reform," in Bruce J. Schulman and Julian E.
+  Zelizer, _Media Nation: The Political History of News in Modern
+  America_ (Philadelphia: University of Pennsylvania Press, 2017),
+  63-76.
 
 ## Main
 
