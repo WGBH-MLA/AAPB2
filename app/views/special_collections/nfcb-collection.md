@@ -29,7 +29,6 @@ The contents of the NFCB Special Collection are available through the University
 - [University of Maryland, Hornbake Library, Archival Collections](https://archives.lib.umd.edu/)
 
 ## Funders
-Digitization, preservation, and access to this collection was funded by the Recordings at Risk grant from the Council on Library and Information Resources in 2017.
 
 [![CLIR](https://s3.amazonaws.com/americanarchive.org/special-collections/CLIR_logo.jpg)](https://www.clir.org/)
 
