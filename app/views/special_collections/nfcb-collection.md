@@ -14,12 +14,12 @@ The contents of the NFCB Special Collection are available through the University
 
 ## Featured 
 
-[![Jazz Women]( https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-ww76t0j53j)
-[![Song of the Indian]( https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-k06ww7804w)
-[![Spectrum]( https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-1z41r6nx54)
-[![Mabel Vernon]( https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-v97zk56r0j)
-[![Nikki Giovanni]( https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-pz51g0k238)
-[![Music from Azerbaijan]( https://s3.amazonaws.com/americanarchive.org/special-collections/WGBH-logo.jpg)](/catalog/cpb-aacip_500-wp9t14vv4p)
+[![Jazz Women]( https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-ww76t0j53j)
+[![Song of the Indian]( https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-k06ww7804w)
+[![Spectrum]( https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-1z41r6nx54)
+[![Mabel Vernon]( https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-v97zk56r0j)
+[![Nikki Giovanni]( https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-pz51g0k238)
+[![Music from Azerbaijan]( https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_500-wp9t14vv4p)
 
 ## Resources
 
@@ -29,7 +29,6 @@ The contents of the NFCB Special Collection are available through the University
 - [University of Maryland, Hornbake Library, Archival Collections](https://archives.lib.umd.edu/)
 
 ## Funders
-Digitization, preservation, and access to this collection was funded by the Recordings at Risk grant from the Council on Library and Information Resources in 2017.
 
 [![CLIR](https://s3.amazonaws.com/americanarchive.org/special-collections/CLIR_logo.jpg)](https://www.clir.org/)
 
