@@ -50,7 +50,7 @@ In addition, the NET programs provide a complex view into how public media tried
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">William F. Buckley, Jr., interviewed on What’s Happening Mr. Silver.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/buckleysilverdayan.png" alt="William F. Buckley, Jr., interviewed on What’s Happening Mr. Silver"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/buckleysilverdayan_cropped.png" alt="William F. Buckley, Jr., interviewed on What’s Happening Mr. Silver"/></td></tr>
 </table>
 
 ## Gallery
