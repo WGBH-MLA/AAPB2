@@ -137,6 +137,7 @@ Locales discussed in this exhibit range across nine states:
 - [Civil Rights Greenboro](http://libcdm1.uncg.edu/cdm/landingpage/collection/CivilRights)
 - [Civil Rights in Mississippi Digital Archive](http://digilib.usm.edu/crmda.php)
 - [Freedom Now!](http://cds.library.brown.edu/projects/FreedomNow/)
+- [Freedom Story Map](https://loc.maps.arcgis.com/apps/Cascade/index.html?appid=4d76cf42caf84b069b0e0235b6996efd)
 
 ## Main
 
