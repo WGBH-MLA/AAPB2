@@ -1,4 +1,4 @@
-# In Black America Collection
+# In Black America
 
 ## Thumbnail
 
@@ -6,7 +6,7 @@
 
 ## Summary
 
-The <em>In Black America</em> Collection from KUT in Austin, Texas, is made up of 745 episodes of <em>In Black America</em>, which were preserved and digitized in 2019, thanks to a Recordings at Risk grant from the Council on Library and Information Resources (CLIR). <em>In Black America</em>, which began in 1970 and continues to be broadcast weekly, features hundreds of interviews with influential members of the black community in conversation about issues and topics pertaining to black America, including education, style, economics, social issues, families, culture, literature, and politics. Episodes in the collection are from a batch of recently-rediscovered tapes spanning from 1981-2004, featuring interviews by host and producer John L. Hanson, Jr., who has hosted the series since 1980. Episodes feature speeches by and interviews with artists, athletes, civil rights leaders, teachers, politicians, businesspeople, and social scientists, including comedian and activist Dick Gregory; journalist Susan L. Taylor, who was editor-in-chief of <em>Essence</em> from 1981-2000; writer, photographer, filmmaker, and composer Gordon Parks, Sr.; opera singer Barbara Conrad; the Rev. Jesse Jackson; and poet and educator Nikki Giovanni. Subjects in the collection include race and ethnicity, sports, journalism, activism, education, and black culture and history. 
+The <em>In Black America</em> collection from KUT in Austin, Texas, is made up of 745 episodes of <em>In Black America</em>, which were preserved and digitized in 2019, thanks to a Recordings at Risk grant from the Council on Library and Information Resources (CLIR). <em>In Black America</em>, which began in 1970 and continues to be broadcast weekly, features hundreds of interviews with influential members of the black community in conversation about issues and topics pertaining to black America, including education, style, economics, social issues, families, culture, literature, and politics. Episodes in the collection are from a batch of recently-rediscovered tapes spanning from 1981-2004, featuring interviews by host and producer John L. Hanson, Jr., who has hosted the series since 1980. Episodes feature speeches by and interviews with artists, athletes, civil rights leaders, teachers, politicians, businesspeople, and social scientists, including comedian and activist Dick Gregory; journalist Susan L. Taylor, who was editor-in-chief of <em>Essence</em> from 1981-2000; writer, photographer, filmmaker, and composer Gordon Parks, Sr.; opera singer Barbara Conrad; the Rev. Jesse Jackson; and poet and educator Nikki Giovanni. Subjects in the collection include race and ethnicity, sports, journalism, activism, education, and black culture and history. 
 
 ## Background
 
@@ -32,7 +32,6 @@ In 2019 KUT in collaboration with WGBH and the Library of Congress was awarded a
 - [Civil Rights, National Archives](https://www.archives.gov/research/civil-rights)
 
 ## Funders
-Digitization, preservation, and access to this collection was funded by the Recordings at Risk grant from the Council on Library and Information Resources in 2019.
 
 [![CLIR](https://s3.amazonaws.com/americanarchive.org/special-collections/CLIR_logo.jpg)](https://www.clir.org/)
 
