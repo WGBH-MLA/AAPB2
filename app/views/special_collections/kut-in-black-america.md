@@ -33,7 +33,7 @@ In 2019 KUT in collaboration with WGBH and the Library of Congress was awarded a
 
 ## Funders
 
-[![CLIR](https://s3.amazonaws.com/americanarchive.org/special-collections/CLIR_logo.jpg)](https://www.clir.org/)
+- [![CLIR](https://s3.amazonaws.com/americanarchive.org/org-logos/clir_logo.png "CLIR Logo")](https://www.clir.org/)
 
 ## Help
 
