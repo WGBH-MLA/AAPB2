@@ -28,7 +28,7 @@ The <em>Vegetable Soup</em> Collection contains episodes from the eponymous chil
 - [Vegetable Soup Season 1, New York State Archives](https://archive.org/details/vegetable_soup_season_one)
 - [Vegetable Soup: Parent-Teacher Guide](https://archive.org/details/ERIC_ED126165)
 - [<em>”A Noble Experiment in Human Values”: The Children’s Television Series <em>Vegetable Soup</em> and its Initiative to Change the Environment for Racism in 1970s America</em>, Jeffrey S. Reznick. <strong>While this article is behind a paywall, beginning in January 2020 interested readers can obtain a copy of the author’s manuscript freely from <em>PubMed Central</em>, by searching by the author’s last name and “Vegetable Soup”.</strong>](https://www.tandfonline.com/doi/abs/10.1080/01956051.2018.1467369)
-- [<em>“A Noble Experiment in Human Values”: The Children’s Television Series <em>Vegetable Soup</em> and its Initiative to Change the Environment for Racism in 1970s America</em>, Jeffrey S. Reznick. <strong>Video abstract</strong>] (https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101754553-vid) 
+- [<em>”A Noble Experiment in Human Values”: The Children’s Television Series <em>Vegetable Soup</em> and its Initiative to Change the Environment for Racism in 1970s America</em>, Jeffrey S. Reznick, video abstract.](https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101754553-vid)
 - [New York State Archives](http://www.archives.nysed.gov/)
 
 ## Funders
