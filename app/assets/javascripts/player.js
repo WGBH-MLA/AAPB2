@@ -1,4 +1,5 @@
 // Imported from OpenVault with minor adjustments.
+window.onunload = function(){}; 
 $(function() {
 
   function updateTranscriptGrid() {
