@@ -127,7 +127,7 @@ $(function() {
     }
   }
 
-  var $player = $('#player_media_html5_api');
+  // var $player = $('#player_media_html5_api');
   // chrome needs this!!
   // if($player[0]){
   //   var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
