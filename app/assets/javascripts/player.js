@@ -127,18 +127,17 @@ $(function() {
     }
   }
 
-  var $player = $('#player_media').find('video');
-  // var $player = $('#player_media_html5_api');
+  var $player = $('#player_media_html5_api');
   // chrome needs this!!
-  // if($player[0]){
-  //   var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
-  //   // If timecode included in URL, play to pass thumbnail,
-  //   // then pause at that timecode.
-  //   if (url_hash) {
-  //     $player[0].currentTime = url_hash[1];
-  //   }
+  if($player[0]){
+    var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+    // If timecode included in URL, play to pass thumbnail,
+    // then pause at that timecode.
+    if (url_hash) {
+      $player[0].currentTime = url_hash[1];
+    }
   
-  // }
+  }
 
   $('#player_media').on('loadstart', function() {
     // firefox needs this!
