@@ -1,4 +1,5 @@
 // Imported from OpenVault with minor adjustments.
+window.onunload = function(){}; 
 $(function() {
 
   function updateTranscriptGrid() {
@@ -127,25 +128,39 @@ $(function() {
     }
   }
 
-  var $player;
-
-  $('#player_media').on('loadstart', function() {
-
-    // firefox needs this!
-    if(!$player[0]){
-      $player = $('#player_media').find('video');
-    }
-    
-    // perform this here, after we have $player defined
+  var $player = $('#player_media_html5_api');
+  // chrome needs this!!
+  if($player[0]){
     var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
     // If timecode included in URL, play to pass thumbnail,
     // then pause at that timecode.
     if (url_hash) {
       $player[0].currentTime = url_hash[1];
     }
-  });
   
-  $player = $('#player_media_html5_api');
+  }
+
+  $('#player_media').on('loadstart', function() {
+    // firefox needs this!
+    if(!$player[0]){
+      console.log('fired loadstart')
+      $player = $('#player_media').find('video');
+
+    }
+  });
+
+  $('#player_media').on('durationchange', function() {
+    console.log('fired duration change')
+
+    // firefox needs this!
+    var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+    // If timecode included in URL, play to pass thumbnail,
+    // then pause at that timecode.
+    if ($player[0] && url_hash) {
+      $player[0].currentTime = url_hash[1];
+    }
+
+  });
 
   var $transcript = $('#transcript');
 
