@@ -236,8 +236,9 @@ class CatalogController < ApplicationController
 
         # check for transcript/caption anno
         if solr_doc.transcript? && !@query_for_captions.nil?
-          text = TranscriptFile.new(solr_doc.transcript_src).plaintext
-          @snippets[solr_doc[:id]][:transcript] = snippet_from_query(@query_for_captions, text, 200, ' ')
+          @transcript_snippet = SnippetHelper::TranscriptSnippet.new('transcript' => TranscriptFile.new(solr_doc.transcript_src), 'id' => solr_doc[:id], 'query' => @query_for_captions)
+          @snippets[solr_doc[:id]][:transcript] = @transcript_snippet.highlight_snippet
+          @snippets[solr_doc[:id]][:transcript_timecode_url] = @transcript_snippet.url_at_timecode
         elsif solr_doc.caption? && !@query_for_captions.nil?
           text = CaptionFile.new(solr_doc.captions_src).text
           @snippets[solr_doc[:id]][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')

@@ -26,6 +26,7 @@ $(function() {
    * Jumps to the element matching the currentIndex
    */
   function jumpTo() {
+    console.log("In jumpTo");
     if ($results.length) {
       var position,
         $current = $results.eq(currentIndex);
