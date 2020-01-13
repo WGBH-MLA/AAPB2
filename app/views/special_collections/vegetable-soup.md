@@ -2,15 +2,15 @@
 
 ## Thumbnail
 
-![Vegetable Soup Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Vegetable_Soup.jpg "Vegetable Soup") 
+![Vegetable Soup Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Vegetable_Soup.jpg "Vegetable Soup")
 
 ## Summary
 
-The <em>Vegetable Soup</em> Collection contains episodes from the eponymous children’s educational television series produced by the New York State Education Department (NYSED) with support from a grant from the U.S. Department of Health, Education, and Welfare under the direction of the award-winning producer Yanna Kroyt Brandt. Produced over two seasons and distributed by PBS and NBC from September 22, 1975 to December 14, 1978, the series aimed to oppose racial and cultural stereotypes by exposing children to characters of various backgrounds, ethnicities, races, and cultures. Brandt and her production team geared <em>Vegetable Soup</em> toward children of elementary-school age. Episodes are made up of a mix of live action, cartoon, puppetry, and mixed-media segments. Among the voice actors included in the series are James Earl Jones, who played Long John Spoilsport, and Bette Midler, who played Woody the Spoon. Episodes in the collection are from seasons 1 and 2, and include segments featuring Puerto Rican music and history; “The Big Job Hunt,” a segment in game-show format where two teams of students from schools around the U.S. answer trivia; a puppetry performance of an African folktale; a cartoon rendition of “Kasa-Jizo,” a traditional Japanese folktale; a live-action lesson about girls in sports; and a story about a Hupa girl who educates her non-Indigenous friends about the hurt behind stereotypes. Among the many subjects featured in the collection are race, gender, history, education, folktales, art, music, sports, nature, crafts, and childhood. 
+The <em>Vegetable Soup</em> Collection contains episodes from the eponymous children’s educational television series produced by the New York State Education Department (NYSED) with support from a grant from the U.S. Department of Health, Education, and Welfare under the direction of the award-winning producer Yanna Kroyt Brandt. Produced over two seasons and distributed by PBS and NBC from September 22, 1975 to December 14, 1978, the series aimed to oppose racial and cultural stereotypes by exposing children to characters of various backgrounds, ethnicities, races, and cultures. Brandt and her production team geared <em>Vegetable Soup</em> toward children of elementary-school age. Episodes are made up of a mix of live action, cartoon, puppetry, and mixed-media segments. Among the voice actors included in the series are James Earl Jones, who played Long John Spoilsport, and Bette Midler, who played Woody the Spoon. Episodes in the collection are from seasons 1 and 2, and include segments featuring Puerto Rican music and history; “The Big Job Hunt,” a segment in game-show format where two teams of students from schools around the U.S. answer trivia; a puppetry performance of an African folktale; a cartoon rendition of “Kasa-Jizo,” a traditional Japanese folktale; a live-action lesson about girls in sports; and a story about a Hupa girl who educates her non-Indigenous friends about the hurt behind stereotypes. Among the many subjects featured in the collection are race, gender, history, education, folktales, art, music, sports, nature, crafts, and childhood.  
 
 ## Background
 
-<em>Vegetable Soup</em> was created by the New York State Education Department and distributed by PBS and NBC from 1975 to 1978. Episodes of <em>Vegetable Soup</em> are held by the New York State Archives. Materials were digitized in 2019 and submitted to the American Archive of Public Broadcasting. 
+<em>Vegetable Soup</em> was created by the New York State Education Department and distributed by PBS and NBC from 1975 to 1978. Episodes of <em>Vegetable Soup</em> are held by the New York State Archives. Materials were digitized in 2019 and submitted to the American Archive of Public Broadcasting.
 
 <em>Special thanks to Jeffrey S. Reznick, Ph.D., of the National Library of Medicine, National Institutes of Health, for his many contributions to the research related to this collection. Thanks also to Monica Gray and her colleagues at the New York State Archives for their experience and expertise dedicated to preserving and digitizing this collection, as well as making accessible related archival records, without which the research by Dr. Reznick, and the availability of <em>Vegetable Soup</em> in the AAPB would not have been possible.</em>
 
@@ -35,10 +35,15 @@ The <em>Vegetable Soup</em> Collection contains episodes from the eponymous chil
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
-Most of the records in the collection include two episodes, placed back-to-back. 
+Most of the records in the collection include two episodes, placed back-to-back.
 
 ## Terms
 
 
+## Timeline
+
+## Sort
+
+asset_date+asc
