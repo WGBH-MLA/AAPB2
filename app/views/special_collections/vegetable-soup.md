@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Vegetable Soup Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Vegetable_Soup.jpg "Vegetable Soup") 
+![Vegetable Soup Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Vegetable_Soup.jpg "Vegetable Soup")
 
 ## Summary
 
@@ -10,7 +10,7 @@ The <em>Vegetable Soup</em> Collection contains episodes from the eponymous chil
 
 ## Background
 
-<em>Vegetable Soup</em> was created by the New York State Education Department and distributed by PBS and NBC from 1975 to 1978. Episodes of <em>Vegetable Soup</em> are held by the New York State Archives. Materials were digitized in 2019 and submitted to the American Archive of Public Broadcasting. 
+<em>Vegetable Soup</em> was created by the New York State Education Department and distributed by PBS and NBC from 1975 to 1978. Episodes of <em>Vegetable Soup</em> are held by the New York State Archives. Materials were digitized in 2019 and submitted to the American Archive of Public Broadcasting.
 
 <em>Special thanks to Jeffrey S. Reznick, Ph.D., of the National Library of Medicine, National Institutes of Health, for his many contributions to the research related to this collection. Thanks also to Monica Gray and her colleagues at the New York State Archives for their experience and expertise dedicated to preserving and digitizing this collection, as well as making accessible related archival records, without which the research by Dr. Reznick, and the availability of <em>Vegetable Soup</em> in the AAPB would not have been possible.</em>
 
@@ -35,10 +35,15 @@ The <em>Vegetable Soup</em> Collection contains episodes from the eponymous chil
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
-Most of the records in the collection include two episodes, placed back-to-back. 
+Most of the records in the collection include two episodes, placed back-to-back.
 
 ## Terms
 
 
+## Timeline
+
+## Sort
+
+asset_date+asc
