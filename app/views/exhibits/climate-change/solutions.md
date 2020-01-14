@@ -19,9 +19,8 @@ Yet other proposed solutions focus on specific technologies. "The bad news is th
 ## Resources
 
 - [United Nations Framework Convention on Climate Change](http://unfccc.int/meetings/paris_nov_2015/meeting/8926.php)
-- [United Nations Climate Change Conference](http://www.cop21.gouv.fr/en)
+- [United Nations Climate Change Conference](https://unfccc.int/process-and-meetings/conferences/past-conferences/paris-climate-change-conference-november-2015/cop-21/cop-21-decisions)
 - [Sustainable Innovation Forum 2015](http://www.cop21paris.org/)
-- [Pathways to Deep Decarbonization](http://unsdsn.org/what-we-do/deep-decarbonization-pathways/)
 
 ## Main
 
