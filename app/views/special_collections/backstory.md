@@ -12,9 +12,9 @@ Ed Ayers is President Emeritus at the University of Richmond and member of the A
 
 ## Background
 
-<em>BackStory</em>, produced by Virginia Humanities, began in 2008 as a monthly public radio series and podcast with hosts Ed Ayers, Peter Onuf, and Brian Balogh. By 2012, the series expanded to a weekly, national format, and in 2017 expanded further to include hosts Joanne Freeman and Nathan Connolly, as Peter Onuf transitioned to a contributor role. BackStory wrapped production in July of 2020.
+<em>BackStory</em>, produced by Virginia Humanities, began in 2008 as a monthly public radio series and podcast with hosts Ed Ayers, Peter Onuf, and Brian Balogh. By 2012, the series expanded to a weekly, national format, and in 2017 expanded further to include hosts Joanne Freeman and Nathan Connolly, as Peter Onuf transitioned to a contributor role. <em>BackStory</em> wrapped production in July of 2020.
 
-BackStory contributed episodes to the American Archive of Public Broadcasting (AAPB) in 2019.
+<em>BackStory</em> contributed episodes to the American Archive of Public Broadcasting (AAPB) in 2019.
 
 ## Featured
 
