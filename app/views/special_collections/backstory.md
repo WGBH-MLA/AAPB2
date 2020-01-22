@@ -37,7 +37,7 @@ Peter Onuf is the Thomas Jefferson Foundation Professor of History, Emeritus, at
 
 - [<em>BackStory</em>, Website](https://www.backstoryradio.org/)
 - [<em>BackStory Celebrates Ten Years</em>, Virginia Humanities](https://www.virginiahumanities.org/2018/10/backstory-celebrates-10-years/)
--[<em>BackStory</em>, Episodes](https://www.backstoryradio.org/episodes)
+- [<em>BackStory</em>, Episodes](https://www.backstoryradio.org/episodes)
 - [<em>The American History Guys’ Backstory</em>, <em>Humanities</em> Magazine](https://www.neh.gov/humanities/2009/novemberdecember/feature/the-american-history-guys-backstory) 
 
 ## Funders
