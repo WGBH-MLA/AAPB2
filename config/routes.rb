@@ -42,6 +42,7 @@ Rails.application.routes.draw do
   end
 
   get 'robots', to: 'robots#show'
+  get 'educator_resources', to: redirect('/educator_resources.html')
 
   override_constraints = lambda do |req|
     path = req.params['path']
