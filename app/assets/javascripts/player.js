@@ -157,13 +157,11 @@ $(function() {
   $('#player_media').on('loadstart', function() {
     // firefox needs this!
     if(!$player[0]){
-      console.log('fired loadstart')
       $player = $('#player_media').find('video');
     }
   });
 
   $('#player_media').on('durationchange', function() {
-    console.log('fired duration change')
     // firefox needs this!
     var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
     // If timecode included in URL, play to pass thumbnail,
