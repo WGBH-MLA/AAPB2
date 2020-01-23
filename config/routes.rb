@@ -48,6 +48,8 @@ Rails.application.routes.draw do
     path.match(/^[a-z0-9\/-]+$/) && !path.match(/^rails/)
   end
 
+  get '/a-tribute-to-jim-lehrer', to: 'jims#index'
+
   # TODO: combine these into a resource?
   get '/exhibits', to: 'exhibits#index'
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
