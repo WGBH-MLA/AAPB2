@@ -16,12 +16,12 @@ The <em>Vegetable Soup</em> Collection contains episodes from the eponymous chil
 
 ## Featured
 
-[![Puerto Rican Music](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-4dceb4e6772.jpg)](/catalog/cpb-aacip-4dceb4e6772)
-[![Big Job Hunt](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-99369a98a47.jpg)](/catalog/cpb-aacip-99369a98a47)
-[![African folktale](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-8aae108798a.jpg)](/catalog/cpb-aacip-8aae108798a)
-[![Kasa-Jizo](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-b2ecf4c5a96.jpg)](/catalog/cpb-aacip-b2ecf4c5a96)
-[![Girls in Sports](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-80e402cebc1.jpg)](/catalog/cpb-aacip-80e402cebc1)
-[![Hurtful Stereotypes](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-d95a9e54e23.jpg)](/catalog/cpb-aacip-d95a9e54e23)
+[![Puerto Rican Music](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-4dceb4e6772.jpg)](/catalog/cpb-aacip_4dceb4e6772)
+[![Big Job Hunt](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-99369a98a47.jpg)](/catalog/cpb-aacip_99369a98a47)
+[![African folktale](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-8aae108798a.jpg)](/catalog/cpb-aacip_8aae108798a)
+[![Kasa-Jizo](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-b2ecf4c5a96.jpg)](/catalog/cpb-aacip_b2ecf4c5a96)
+[![Girls in Sports](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-80e402cebc1.jpg)](/catalog/cpb-aacip_80e402cebc1)
+[![Hurtful Stereotypes](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-d95a9e54e23.jpg)](/catalog/cpb-aacip_d95a9e54e23)
 
 ## Resources
 
