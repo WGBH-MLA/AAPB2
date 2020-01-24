@@ -49,6 +49,7 @@ Rails.application.routes.draw do
   end
 
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
+  get '/educator_resources', to: 'educator_resources#index'
 
   # TODO: combine these into a resource?
   get '/exhibits', to: 'exhibits#index'
