@@ -26,7 +26,7 @@ module SnippetHelper
     end
 
     def url_at_timecode
-      "/catalog/#{id}#at_#{timecode}_s"
+      "/catalog/#{id}?term=#{term}&#at_#{timecode}_s"
     end
 
     private
