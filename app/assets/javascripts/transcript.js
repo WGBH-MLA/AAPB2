@@ -23,11 +23,13 @@ $(function() {
     currentIndex = 0;
 
   function getTermUrlParam() {
-      var vars = {};
-      var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
-          vars[key] = value;
-      });
-      return vars["term"];
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      key = decodeURIComponent(key);
+      value = decodeURIComponent(value);
+      vars[key] = value;
+    });
+    return vars["term"];
   }
 
   /**

@@ -266,6 +266,7 @@ class CatalogController < ApplicationController
 
           # something to show?
           if @document.transcript?
+
             @transcript_content = TranscriptFile.new(@pbcore.transcript_src).html
 
             if @pbcore.transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
@@ -278,6 +279,8 @@ class CatalogController < ApplicationController
 
           # how shown are we talkin here?
           if @transcript_content
+            # If @transcript_search_term not in param, it just doesn't get populated on search input
+            @transcript_search_term = params['term']
             if @pbcore.transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
               @transcript_open = true
             else
