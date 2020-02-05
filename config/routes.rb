@@ -51,6 +51,12 @@ Rails.application.routes.draw do
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
 
   get '/about-the-american-archive', to: 'override#show'
+  get '/about-the-american-archive/*path', to: 'override#show'
+  get '/help', to: 'override#show'
+  get '/help/*path', to: 'override#show'
+  get '/legal', to: 'override#show'
+  get '/legal/*path', to: 'override#show'
+
   get '/contact-us', to: 'override#show'
   get '/donate', to: 'override#show'
   get '/faq', to: 'override#show'
