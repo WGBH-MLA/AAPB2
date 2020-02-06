@@ -175,7 +175,7 @@ describe SpecialCollection do
 
     describe 'not found handling' do
       it 'returns nil for bad paths' do
-        expect { MockSpecialCollection.find_by_path('no/such/path') }.to eq(nil)
+        expect(MockSpecialCollection.find_by_path('no/such/path')).to eq(nil)
       end
     end
   end
