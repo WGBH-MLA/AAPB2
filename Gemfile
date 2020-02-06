@@ -44,8 +44,6 @@ gem 'capistrano-passenger', :group => :development
 
 gem 'cmless', git: 'https://github.com/WGBH-MLA/cmless.git'
 
-
-
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
 
