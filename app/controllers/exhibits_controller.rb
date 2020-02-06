@@ -8,6 +8,7 @@ class ExhibitsController < OverrideController
 
   def show
     @exhibit = Exhibit.find_by_path(params[:path])
+    raise ActionController::RoutingError.new('Not Found') unless @exhibit
     @page_title = @exhibit.top_title
     params[:path] = nil
   end
