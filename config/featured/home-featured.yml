@@ -18,7 +18,6 @@
 - id: cpb-aacip_524-d50ft8fj2h
   org_name: Nashville Public Televisionn
   name: "A Word on Words: Julia Child"
-  thumbnail_url: /featured/cpb-aacip_524-d50ft8fj2h.png
 
 - id: cpb-aacip_37-010p2nvv
   org_name: Iowa Public Television
@@ -65,7 +64,6 @@
 - id: cpb-aacip_81-021c5bwq
   org_name: WNED
   name: " Woman; 107; Equal Rights Amendment, Part 2"
-  thumbnail_url: /featured/cpb-aacip_81-021c5bwq.png
 
 - id: cpb-aacip_15-80ht7n4v
   org_name: WGBH
@@ -86,20 +84,18 @@
 - id: cpb-aacip_516-kd1qf8kh4s
   org_name: William Greaves Productios
   name: "NET Journal; Still A Brother: Inside the Negro Middle Class"
-  thumbnail_url: /featured/cpb-aacip_516-kd1qf8kh4s.png
 
 - id: cpb-aacip_516-k93125rc20
   org_name: National Educational Television
   name: "LBJ: An Unposed Profile"
-  thumbnail_url: /featured/cpb-aacip_516-k93125rc20.png
 
 - id: cpb-aacip_15-27zkhbbv
   org_name: WGBH
-  name: " What's Happening Mr. Silver; William F. Buckley, Jr."
+  name: "What's Happening Mr. Silver; William F. Buckley, Jr."
 
 - id: cpb-aacip_151-tq5r786k9m
   org_name: Film and Media Archive, Washington University in St. Louis
-  name: " Eyes on the Prize: Interview with Diane Nash"
+  name: "Eyes on the Prize: Interview with Diane Nash"
 
 - id: cpb-aacip_507-cc0tq5s22t
   org_name: NewsHour Productions
@@ -117,13 +113,11 @@
 - id: cpb-aacip_15-057cr5nc5k
   org_name: WGBH
   name: "Prospects of Mankind with Eleanor Roosevelt; What Status For Women?’"
-  thumbnail_url: /featured/cpb-aacip_15-057cr5nc5k.png
 
 - id: cpb-aacip_83-407wmf7g
   org_name: PBS Utah
   name: "One More Harvest"
-thumbnail_url: /featured/cpb-aacip_83-407wmf7g.png
-
+  
 - id: cpb-aacip_17-440rztqd
   org_name: Louisiana Public Broadcasting
   name: "Festivals Acadiens"
@@ -135,7 +129,6 @@ thumbnail_url: /featured/cpb-aacip_83-407wmf7g.png
 - id: cpb-aacip_512-w37kp7vq3t#at_310.00_s
   org_name: WETA-TV
   name: "1974 Nixon Impeachment Hearings; Rep. Barbara Jordan"
-  thumbnail_url: /featured/cpb-aacip_512-w37kp7vq3t.png
 
 - id: cpb-aacip_516-g44hm53h63
   org_name: National Educational Television and Radio Center
@@ -155,4 +148,4 @@ thumbnail_url: /featured/cpb-aacip_83-407wmf7g.png
 
 - id: cpb-aacip_75-257d807m
   org_name: WNET
-  name: “Assignment America; Sissy Farenthold: A Texas Maverick"
+  name: "Assignment America; Sissy Farenthold: A Texas Maverick"
