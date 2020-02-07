@@ -16,12 +16,12 @@ In 2019 Media for the Public Good, Inc. / OutCasting Media submitted episodes of
 
 ## Featured
 
-[![LGBTQ Youth Fiction](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_fe0b68856a0)
-[![Trans people in sports](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_cb6f8d1d85d)
-[![Stonewall at 50](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_2cd6e4aed30)
-[![“Gay Voice”](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_ee127c55f48)
-[![Ga[y]me Show](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_757b826e53f)
-[![Intersex](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_082d9ec96a2)
+[![LGBTQ Youth Fiction](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-fe0b68856a0)
+[![Trans people in sports](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-cb6f8d1d85d)
+[![Stonewall at 50](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-2cd6e4aed30)
+[![“Gay Voice”](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-ee127c55f48)
+[![Ga[y]me Show](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-757b826e53f)
+[![Intersex](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-082d9ec96a2)
 
 ## Resources
 
