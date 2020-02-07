@@ -1,6 +1,10 @@
-# Quotes are optional, unless the string contains colons.
-# If the image is sitting in the expected place on the media server,
-# "thumbnail_url" can be omitted.
+# - Quotes are optional, unless the string contains colons.
+# - MSWord open/close quotes will make this file and the homepage, fail to load
+# - thumbnail_url must refer to either the full s3 path of the desired image, or a local image on the Society
+# - if you do not enter a thumbnail_url, the server will look for an image in the 'featured' folder in s3
+# - the image must be a .jpg file, located in the 'featured' folder of the americanarchive.org s3 bucket, with a filename that follows the format <guid>_gallery.jpg
+# - all image files must be made public in S3
+# - #at_<time>_s options cannot be appended to the :id property UNLESS a thumbnail_url is also specified for the image. otherwise, the path to the featured image for will be malformed and not load
 
 - id: cpb-aacip_15-2804x55k2c
   org_name: WGBH
@@ -129,6 +133,7 @@
 - id: cpb-aacip_512-w37kp7vq3t#at_310.00_s
   org_name: WETA-TV
   name: "1974 Nixon Impeachment Hearings; Rep. Barbara Jordan"
+  thumbnail_url: http://americanarchive.org.s3.amazonaws.com/featured/cpb-aacip_512-w37kp7vq3t_gallery.jpg
 
 - id: cpb-aacip_516-g44hm53h63
   org_name: National Educational Television and Radio Center
