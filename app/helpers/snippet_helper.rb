@@ -47,8 +47,8 @@ module SnippetHelper
 
     # this should probably be refactored at some point
     def process_query_term_with_timecode(term, transcript)
-      return unless transcript.file_type == TranscriptFile::JSON_FILE
-      return unless full_text.upcase.include?(term.upcase)
+      return unless transcript && transcript.file_type == TranscriptFile::JSON_FILE
+      return unless full_text && full_text.upcase.include?(term.upcase)
 
       json = JSON.parse(transcript.content)
       total_transcript_parts = json["parts"].length
