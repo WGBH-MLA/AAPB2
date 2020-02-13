@@ -159,6 +159,13 @@ $(function() {
     if(!$player[0]){
       $player = $('#player_media').find('video');
     }
+
+
+      $player[0].offset({
+        start: 100,
+        end: 300,
+        restart_beginning: false //Should the video go to the beginning when it ends
+      });
   });
 
   $('#player_media').on('durationchange', function() {
