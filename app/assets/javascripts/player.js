@@ -2,6 +2,7 @@
 window.onunload = function(){};
 $(function() {
 
+
   function updateTranscriptGrid() {
     if ($divTranscript.hasClass('col-md-2')) {
       $divTranscript.addClass('col-md-6').removeClass('col-md-2');
@@ -151,7 +152,6 @@ $(function() {
       var $line = lines[key];
       $transcript.contents().scrollTop($line.position().top-40);
     }
-
   }
 
   $('#player_media').on('loadstart', function() {
@@ -159,13 +159,6 @@ $(function() {
     if(!$player[0]){
       $player = $('#player_media').find('video');
     }
-
-
-      $player[0].offset({
-        start: 100,
-        end: 300,
-        restart_beginning: false //Should the video go to the beginning when it ends
-      });
   });
 
   $('#player_media').on('durationchange', function() {
@@ -219,6 +212,12 @@ $(function() {
 
   if($('#player_media').length != 0){
     var player = videojs('#player_media');
+
+    player.offset({
+      start: 0,
+      end: 99999999999,
+      restart_beginning: false //Should the video go to the beginning when it ends
+    });
   }
 
   var exhibit = $('#exhibit-banner');
