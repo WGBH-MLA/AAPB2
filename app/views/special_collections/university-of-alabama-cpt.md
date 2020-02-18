@@ -2,11 +2,11 @@
 
 ## Thumbnail
 
-![Alabama](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-84b8066dcf3.jpg"Alabama")
+![Alabama](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-7a9d7a8e3ef.jpg "Alabama")
 
 ## Summary
 
-The collection focuses on pieces that bring to life inspiring stories and empowering characters who have helped form Alabama's past and are working to shape its future. There are 51 programs in total covering Alabama’s history from 1982 until 2007. Topics covered in the programs include the life and work of notable people from Alabama like pioneering advocate in Alabama for African American voting rights, [W. C. Patton] (https://americanarchive.org/catalog/cpb-aacip-06419abf84d); Pulitzer Prize-winning publisher and journalist [Buford Boone] (https://americanarchive.org/catalog/cpb-aacip-ed14cdaba25); acclaimed novelist and investigative reporter [William Bradford Huie] (https://americanarchive.org/catalog/cpb-aacip-f69f2d96727); and media and political consultant [Frank Greer] (https://americanarchive.org/catalog/cpb-aacip-43e0b2e52e7). The collection also includes pieces on the Bellingrath Gardens, Ave Maria Grotto, the Sequoyah Caverns, the Birmingham Steeldogs, The Alabama Institute for the Deaf and Blind, and more. 
+The collection focuses on pieces that bring to life inspiring stories and empowering characters who have helped form Alabama's past and are working to shape its future. There are 51 programs in total covering Alabama’s history from 1982 until 2007. Topics covered in the programs include the life and work of notable people from Alabama like pioneering advocate in Alabama for African American voting rights, [W. C. Patton](https://americanarchive.org/catalog/cpb-aacip-06419abf84d); Pulitzer Prize-winning publisher and journalist [Buford Boone](https://americanarchive.org/catalog/cpb-aacip-ed14cdaba25); acclaimed novelist and investigative reporter [William Bradford Huie](https://americanarchive.org/catalog/cpb-aacip-f69f2d96727); and media and political consultant [Frank Greer](https://americanarchive.org/catalog/cpb-aacip-43e0b2e52e7). The collection also includes pieces on the Bellingrath Gardens, Ave Maria Grotto, the Sequoyah Caverns, the Birmingham Steeldogs, The Alabama Institute for the Deaf and Blind, and more. 
 Much of the digitized materials are from a series created by the University of Alabama Center for Public Television and Radio called <em>The Alabama Experience</em>, which ran for two decades. Two of the main producers for the series were Max Shores and Carolyn Hales. 
 Smaller series in the collection <em>Uptown & Country</em>, produced by Max Shores, as well as a number of specials and documentaries created by the University of Alabama’s Center for Public Television and Radio.
 
@@ -20,7 +20,7 @@ This collection of work from CPT&R was digitized in the fall of 2019 by Hannah H
 
 ## Featured
 
-[![Patton Political Revolution](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-06419abf84d.jpg)](/catalog/cpb-aacip-06419abf84d)
+[![Patton Political Revolution](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-06419abf84d.jpg)(/catalog/cpb-aacip-06419abf84d)
  [![Refugees in Alabama] (https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-0cf69f1e0ad.jpg)](/catalog/cpb-aacip-0cf69f1e0ad)
 [![Tide Football, 1925] (https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-0dc4001c0cd.jpg)](/catalog/cpb-aacip-0dc4001c0cd)
 [![Kathryn Windham, Ghostwriter] (https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-4239a016a3c.jpg) (/catalog/cpb-aacip-4239a016a3c)
