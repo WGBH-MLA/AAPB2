@@ -21,7 +21,7 @@ This collection of work from CPT&R was digitized in the fall of 2019 by Hannah H
 ## Featured
 
 [![Patton Political Revolution](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_06419abf84d.jpg)](/catalog/cpb-aacip-06419abf84d)
-[![Refugees in Alabama](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_0cf69f1e0ad.jpg)](/catalog/cpb-aacip-0cf69f1e0ad)
+[![Refugees in Alabama](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_0cf69f1e0ad1.jpg)](/catalog/cpb-aacip-0cf69f1e0ad)
 [![Tide Football, 1925](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_0dc4001c0cd.jpg)](/catalog/cpb-aacip-0dc4001c0cd)
 [![Kathryn Windham, Ghostwriter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_4239a016a3c.jpg)](/catalog/cpb-aacip-4239a016a3c)
 [![Forgotten Farmers](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_93d0bf40df6.jpg)](/catalog/cpb-aacip-93d0bf40df6)
