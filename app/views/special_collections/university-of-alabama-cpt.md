@@ -39,7 +39,7 @@ This collection of work from CPT&R was digitized in the fall of 2019 by Hannah H
 
 Records are described at an item level and all records contain brief descriptions. All records are sorted by their titles but many also include dates, locations, and important people featured in the piece. 
 
-## Terms
+## Terms 
 
 ## Timeline
 
