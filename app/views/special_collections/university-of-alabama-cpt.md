@@ -29,9 +29,9 @@ This collection of work from CPT&R was digitized in the fall of 2019 by Hannah H
 
 ## Resources
 
-- [The Center for Public Television and Radio] (http://www.cptr.org/2016/6/6/k9t4ja7kc178vtdctf7b30vlnt4j4y)
-- [The University of Alabama Special Collections and Archives] (https://www.lib.ua.edu/libraries/hoole/)
-- [The Alabama Department of Archives and History] (https://archives.alabama.gov)
+- [The Center for Public Television and Radio](http://www.cptr.org/2016/6/6/k9t4ja7kc178vtdctf7b30vlnt4j4y)
+- [The University of Alabama Special Collections and Archives](https://www.lib.ua.edu/libraries/hoole/)
+- [The Alabama Department of Archives and History](https://archives.alabama.gov)
 
 ## Funders
 
