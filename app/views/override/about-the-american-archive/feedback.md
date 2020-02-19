@@ -9,11 +9,11 @@
       </div>
       <div class="mc-field-group">
         <label>Email Address<span class="asterisk">*</span></label>
-        <input type="text" name="email" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="Enter your email">
+        <input type="text" name="email" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
       </div>
       <div class="mc-field-group">
         <label>Which of the following best describes your current role?</label>
-        <input type="text" list="role" name="userRole" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="Which of the following best describes your current role?">
+        <input type="text" list="role" name="userRole" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
         <datalist id="role">
           <option>Public Media Professional</option>
           <option>Historian</option>
@@ -29,7 +29,7 @@
       </div>
       <div class="mc-field-group">
         <label>How did you hear about or find the AAPB website?</label>
-        <input type="text" list="source" name="hearAbout" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="How did you hear about or find the AAPB website?">
+        <input type="text" list="source" name="hearAbout" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
         <datalist id="source">
           <option>google search</option>
           <option>conference or meeting event</option>
@@ -40,7 +40,7 @@
       </div>
       <div class="mc-field-group">
         <label>Tell us a little bit about why you came to the AAPB website.</label>
-        <input type="text" list="why" name="whyAAPB" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="Tell us a little bit about why you came to the AAPB website.">
+        <input type="text" list="why" name="whyAAPB" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
         <datalist id="why">
           <option>general curiosity</option>
           <option>looking for something specific</option>
@@ -48,11 +48,11 @@
       </div>
       <div class="mc-field-group">
         <label>If looking for something, tell us a little about what you were looking for.</label>
-        <input type="text" name="lookingFor" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="If looking for something, tell us a little about what you were looking for.">
+        <input type="text" name="lookingFor" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
       </div>
       <div class="mc-field-group">
         <label>Which of these did you use in your search?</label>
-        <input type="text" list="tool" name="searchTool" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="Which of these did you use in your search?">
+        <input type="text" list="tool" name="searchTool" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
         <datalist id="tool">
           <option>Search/Advanced Search</option>
           <option>Browse</option>
@@ -64,7 +64,7 @@
       </div>
       <div class="mc-field-group">
         <label>Were you successful in finding what you were looking for?</label>
-        <input type="text" list="y-n" name="searchTool" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="Were you successful in finding what you were looking for?">
+        <input type="text" list="y-n" name="searchTool" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
         <datalist id="y-n">
           <option>Yes</option>
           <option>No</option>
@@ -72,21 +72,25 @@
       </div>
       <div class="mc-field-group">
         <label>Did you use any of the result filters to modify your search? If so, which were most helpful?</label>
-        <input type="text" name="searchFilter" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="Did you use any of the result filters to modify your search?">
+        <input type="text" name="searchFilter" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
       </div>
       <div class="mc-field-group">
         <label>What were some of the issues you encountered in your search? What went well, what didn’t?</label>
-        <input type="text" name="searchIssues" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="What were some of the issues you encountered in your search?">
+        <input type="text" name="searchIssues" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
       </div>
       <div class="mc-field-group">
         <label>Are there any improvements to our website that you would find helpful?</label>
-        <input type="text" name="improvements" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="Are there any improvements to our website that you would find helpful?">
+        <input type="text" name="improvements" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
       </div>
       <div class="mc-field-group">
         <label>Do you have any additional feedback for us?</label>
-        <input type="text" name="additionalFeedback" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" value="Do you have any additional feedback for us?">
+        <input type="text" name="additionalFeedback" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
       </div>
-      <input type="submit" value="Submit" class="button">
+      <p>
+        <input type="checkbox" id="subscribeNews" name="subscribeNews" value="TRUE">
+        <label for="subscribeNews" class="checkbox-label">Please subscribe me to the AAPB newsletter.</label>
+      </p>
+      <input type="submit">
       <p align="center"><strong>Thank you for taking the time to fill out this survey! If you are interested in further supporting our work, please consider donating at <a href="/donate">americanarchive.org/donate</a></strong>.</p>
     </div>
   </form>
