@@ -308,6 +308,15 @@ class PBCorePresenter
       end
     end
   end
+  def seconds
+    dur = duration
+    return 0 unless dur
+    parts = dur.split(':')
+    hours = parts[0].to_i * 360
+    mins = parts[1].to_i * 60
+    secs = parts[2].to_i
+    hours + mins + secs
+  end
   def player_aspect_ratio
     @player_aspect_ratio ||= begin
       instantiations.find { |i| !i.aspect_ratio.nil? }.aspect_ratio

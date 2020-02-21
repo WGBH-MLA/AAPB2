@@ -14,6 +14,7 @@
 //= require jquery_ujs
 //= require jquery-ui/effect.all
 //= require jquery-ui
+//= require nouislider.min
 //
 // Required by Blacklight
 //= require blacklight/blacklight

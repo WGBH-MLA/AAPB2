@@ -2,6 +2,18 @@
 window.onunload = function(){};
 $(function() {
 
+  $slider_positions = [];
+  $current_handle = null;
+
+  function getParameterByName(name) {
+    var url = window.location.href;
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+  }
 
   function updateTranscriptGrid() {
     if ($divTranscript.hasClass('col-md-2')) {
@@ -55,41 +67,85 @@ $(function() {
     }
   }
 
-  function getTimecode() {
+  function getTimeMarkers() {
+    var start = getParameterByName('start');
+    var end = getParameterByName('end');
+    if(start && end){
+      return [start, end];
+    }
+  }
+
+  function getTimeMarkerQuery() {
     // handle clicking share button when video hasn't been played
-    tc = $player[0] ? $player[0].currentTime.toString() : '0.0';
-    tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
-    return "#at_" + tc + "_s";
+    // tc = $player[0] ? $player[0].currentTime.toString() : '0.0';
+    // tc = tc.match(/\.\d+$/) ? tc : tc + '.0';
+    // return "#at_" + tc + "_s";
+    var start = parseFloat($('#start-time').text());
+    var end = parseFloat($('#end-time').text());
+    return '?start=' + start + '&end=' + end;
+  }
+
+  function convertTimeCodeToSeconds(timeString) {
+
+    var timeArray = timeString.split(":");
+    var hours   = parseInt(timeArray[0]) * 60 * 60;
+    var minutes = parseInt(timeArray[1]) * 60;
+    var seconds = parseInt(timeArray[2]);
+    var frames  = 0;
+    var totalTime = hours + minutes + seconds + frames;
+    return totalTime;
+  }
+
+  function addRangeSlider() {
+    var value = "0,"+$video_duration;
+    
+    noUiSlider.create($con, {
+        start: [0, $video_duration],
+        connect: true,
+        range: {
+            'min': 0,
+            'max': $video_duration
+        }
+    });
+
+
+    // give these thangs a dang id! dang!
+    $('.noUi-touch-area').each(function(index, handle){
+      $(handle).attr('id', 'handle-' + index);
+    });
+  }
+
+  function getHost(){
+    var uri = window.location.protocol + '//' + window.location.hostname;
+    // for dev env
+    return window.location.port ? uri + ':' + window.location.port : uri;
   }
 
   function getEmbedHtml() {
-    var uri = window.location.protocol + '//' + window.location.hostname;
-    // for dev env
-    uri = window.location.port ? uri + ':' + window.location.port : uri;
+    var uri = getHost();
     uri = uri + '/embed/';
     var radio = $('input.embed-at-time:checked');
     var tc = '';
     if(radio && radio.attr('id') == 'on') {
-      tc = getTimecode();
+      tm = getTimeMarkerQuery();
     }
+
     var pbcore_guid = $('#pbcore-guid').text();
-    var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + pbcore_guid + tc + "'></iframe>".replace(/&/g, '&amp;');
+    var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + pbcore_guid + tm + "'></iframe>".replace(/&/g, '&amp;');
 
     return html;
   };
 
   function getShareHtml() {
-    var uri = window.location.protocol + '//' + window.location.hostname;
-    // for dev env
-    uri = window.location.port ? uri + ':' + window.location.port : uri;
+    var uri = getHost();
     uri = uri + '/catalog/';
     var radio = $('input.share-at-time:checked');
     var tc = '';
     if(radio && radio.attr('id') == 'on') {
-      tc = getTimecode();
+      tm = getTimeMarkerQuery();
     }
     var pbcore_guid = $('#pbcore-guid').text();
-    var html = (uri + pbcore_guid + tc).replace(/&/g, '&amp;');
+    var html = (uri + pbcore_guid + tm).replace(/&/g, '&amp;');
 
     return html;
   };
@@ -144,6 +200,7 @@ $(function() {
   // chrome needs this!!
   if($player[0]){
     var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+
     // If timecode included in URL, play to pass thumbnail,
     // then pause at that timecode.
     if (url_hash) {
@@ -154,6 +211,52 @@ $(function() {
     }
   }
 
+  // set time range values
+  $con = $('#time-range')[0];
+  $video_duration = parseInt($('#video-duration').text());
+  
+  // only do it if theres a duration value
+  if($video_duration > 0){
+
+    $('#time-range-switch').click(function() {
+      $('#time-range-container').slideToggle();
+    });
+ 
+    addRangeSlider();
+
+    $con.noUiSlider.on('update', function(e) {
+      var new_slider_positions = $con.noUiSlider.get();
+      $('#start-time').text( new_slider_positions[0] );
+      $('#end-time').text( new_slider_positions[1] );
+
+      if($current_handle == 0 || $current_handle == 1){
+        console.log($player)
+        if(!$player){
+          $player = $('#player_media').find('video');
+        }
+
+        $player[0].currentTime = $slider_positions[$current_handle];
+      }
+
+      // player[0].currentTime()
+      $slider_positions = new_slider_positions;
+    });
+  }
+
+  $('.noUi-touch-area').mousedown(function(e) {
+    // set current_handle to 0 or 1
+    console.log(e)
+    $current_handle = parseInt(e.target.id.slice(-1));
+  });
+
+  $('.noUi-touch-area').on('touchstart', function(e) {
+    // set current_handle to 0 or 1
+    console.log(e)
+    $current_handle = parseInt(e.target.id.slice(-1));
+  });
+
+  // $('.noUi-touch-area').on('touchstart').trigger('mousedown');
+
   $('#player_media').on('loadstart', function() {
     // firefox needs this!
     if(!$player[0]){
@@ -161,15 +264,15 @@ $(function() {
     }
   });
 
-  $('#player_media').on('durationchange', function() {
-    // firefox needs this!
-    var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
-    // If timecode included in URL, play to pass thumbnail,
-    // then pause at that timecode.
-    if ($player[0] && url_hash) {
-      $player[0].currentTime = url_hash[1];
-    }
-  });
+  // $('#player_media').on('durationchange', function() {
+  //   // firefox needs this!
+  //   var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+  //   // If timecode included in URL, play to pass thumbnail,
+  //   // then pause at that timecode.
+  //   if ($player[0] && url_hash) {
+  //     $player[0].currentTime = url_hash[1];
+  //   }
+  // });
 
   $player.on('timeupdate', function(){
     var current = $player[0].currentTime;
@@ -213,11 +316,15 @@ $(function() {
   if($('#player_media').length != 0){
     var player = videojs('#player_media');
 
-    player.offset({
-      start: 0,
-      end: 99999999999,
-      restart_beginning: false //Should the video go to the beginning when it ends
-    });
+    var time_markers = getTimeMarkers();
+    if(time_markers){
+      player.offset({
+        start: time_markers[0],
+        end: time_markers[1],
+        restart_beginning: false //Should the video go to the beginning when it ends
+      });
+    }    
+    
   }
 
   var exhibit = $('#exhibit-banner');
