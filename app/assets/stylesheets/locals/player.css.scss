@@ -171,19 +171,19 @@ input:checked + .slider:before {
   border-radius: 50% !important;
 }
 
+@media (max-width: 992px) {
+  #content-share-container {
+    margin-top: 1.5em;     
+  }
 
+}
 @media (max-width: 720px) {
   .skip-button {
     width: 17vw;
     height: 17vw;
   }
+
   #timecode-share-container #share-controls .player-button {
     height: 5vw;
   }
-
-
-  #content-share-container {
-    margin-top: 1.5em;     
-  }
-
 }
