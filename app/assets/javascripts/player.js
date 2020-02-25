@@ -143,7 +143,9 @@ $(function() {
       tm = getTimeMarkerQuery();
     }
     var pbcore_guid = $('#pbcore-guid').text();
-    var html = (uri + pbcore_guid + tm).replace(/&/g, '&amp;');
+    // messes up getting q params
+    // var html = (uri + pbcore_guid + tm).replace(/&/g, '&amp;');
+    var html = (uri + pbcore_guid + tm);
 
     return html;
   };
@@ -313,13 +315,16 @@ $(function() {
 
     var time_markers = getTimeMarkers();
     if(time_markers){
+      $('#time-range-switch-container, #time-range-container').hide();
+      
       player.offset({
         start: time_markers[0],
         end: time_markers[1],
         restart_beginning: false //Should the video go to the beginning when it ends
       });
-    }    
-    
+    }
+
+    // 
   }
 
   var exhibit = $('#exhibit-banner');
