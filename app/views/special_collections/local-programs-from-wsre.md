@@ -20,7 +20,7 @@ Established in 1967, WSRE broadcasts four free over-the-air channels serving 1.5
 [![Deepwater Horizon](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-eb591df9d04.jpg)](/catalog/cpb-aacip-eb591df9d04)
 [![2008 Presidential Election](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-a1537810650.jpg)](/catalog/cpb-aacip-a1537810650)
 [![Civil Rights Roundtable](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-97258801287.jpg)](/catalog/cpb-aacip-97258801287)
-[![Nasa Pilot Poindexter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-822a8b11e3c.jpg)](/catalog/cpb-aacip-cec5595568e)
+[![Nasa Pilot Poindexter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-822a8b11e3c.jpg)](/catalog/cpb-aacip-822a8b11e3c)
 
 ## Resources
 
@@ -29,6 +29,8 @@ Established in 1967, WSRE broadcasts four free over-the-air channels serving 1.5
 - [September 11th Memorial](https://www.911memorial.org/)
 - [Deepwater Horizon Oil Spill](https://ocean.si.edu/conservation/pollution/gulf-oil-spill)
 - [NASA](https://www.nasa.gov/)
+
+## Funders
 
 ## Help
 
