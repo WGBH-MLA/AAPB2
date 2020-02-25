@@ -185,6 +185,12 @@ $(function() {
     }
   }
 
+  function toTC(int_seconds){
+    var date = new Date(0)
+    date.setSeconds(int_seconds);
+    return date.toISOString().substr(11, 8);
+  }
+
   var $transcript = $('#transcript');
 
   var lines = {};
@@ -228,6 +234,9 @@ $(function() {
       var new_slider_positions = $con.noUiSlider.get();
       $('#start-time').text( new_slider_positions[0] );
       $('#end-time').text( new_slider_positions[1] );
+
+      $('#start-display').text( toTC(new_slider_positions[0]) );
+      $('#end-display').text( toTC(new_slider_positions[1]) );
 
       if($current_handle == 0 || $current_handle == 1){
         if(!$player){
