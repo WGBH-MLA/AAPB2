@@ -323,8 +323,6 @@ $(function() {
         restart_beginning: false //Should the video go to the beginning when it ends
       });
     }
-
-    // 
   }
 
   var exhibit = $('#exhibit-banner');
