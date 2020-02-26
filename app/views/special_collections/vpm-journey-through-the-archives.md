@@ -39,9 +39,5 @@ This collection contains a number of specific topics relating to Virginia. Recor
 
 ## Sort
 
-title+asc
-
-OR
-
 asset_date+asc
  
