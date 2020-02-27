@@ -10,6 +10,14 @@ class FormsController < ApplicationController
     render 'newsletter_thanks'
   end
 
+  def feedback
+    render 'feedback'
+  end
+
+  def feedback_thanks
+    render 'feedback_thanks'
+  end
+
   def validate_recaptcha
     uri = URI.parse('https://www.google.com/recaptcha/api/siteverify')
 
@@ -20,6 +28,8 @@ class FormsController < ApplicationController
 
     response = Net::HTTP.post_form(uri, payload)
     json_response = JSON.parse(response.body) if response.is_a?(Net::HTTPSuccess)
+
+    require 'pry'; binding.pry
 
     if json_response["success"] == true && json_response["success"] >= 0.5 && json_response.present?
       render json: json_response, status: 200
