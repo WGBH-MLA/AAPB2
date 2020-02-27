@@ -1,0 +1,41 @@
+/* --------- */
+/* FORM STYLES --------- */
+/* --------- */
+
+.newsletter-signup {
+  background: #fff;
+  clear: left;
+  font: 14px Helvetica,Arial,sans-serif;
+  text-align: left;
+  h2 {
+    font-weight: bold;
+    padding: 0;
+    margin: 15px 0;
+    font-size: 1.4em;
+  }
+  .indicates-required {
+    text-align: right;
+    font-size: 11px;
+    margin-right: 4%;
+  }
+  .iterable-field-group {
+    clear: left;
+    position: relative;
+    width: 96%;
+    padding-bottom: 3%;
+    min-height: 50px;
+  }
+  .asterisk {
+    color: #e85c41;
+    font-size: 150%;
+    font-weight: normal;
+    position: relative;
+    top: 5px;
+  }
+  form {
+    display: block;
+    position: relative;
+    text-align: left;
+    padding: 10px 0 10px 3%;
+  }
+}

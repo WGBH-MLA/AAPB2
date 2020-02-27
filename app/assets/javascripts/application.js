@@ -28,6 +28,7 @@
 //= stub transcript
 //= stub mobile-transcript
 //= stub player
+//= stub iterable_forms
 
 // For blacklight_range_limit built-in JS, if you don't want it you don't need
 // this:

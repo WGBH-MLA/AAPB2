@@ -32,6 +32,7 @@ Rails.application.routes.draw do
   resources 'oai',
             only: [:index]
 
+
   match 'api', to: 'api#index', via: [:get, :options]
   match 'api/:id', to: 'api#show', via: [:get, :options]
   match 'api/:id/transcript', to: 'api#transcript', via: [:get, :options], defaults: { format: :json }
@@ -47,6 +48,11 @@ Rails.application.routes.draw do
     path = req.params['path']
     path.match(/^[a-z0-9\/-]+$/) && !path.match(/^rails/)
   end
+
+  get 'about-the-american-archive/newsletter', to: 'forms#newsletter'
+  get 'about-the-american-archive/newsletter_thanks', to: 'forms#newsletter_thanks'
+
+  match 'recaptcha', to: 'forms#validate_recaptcha', via: [:post]
 
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
   get '/educator_resources', to: 'educator_resources#index'

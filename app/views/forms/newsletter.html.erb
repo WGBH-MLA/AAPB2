@@ -1,0 +1,46 @@
+<% content_for :head do %>
+  <%= javascript_include_tag 'iterable_forms' %>
+  <script src="https://www.google.com/recaptcha/api.js?render=<%= ENV['RECAPTCHA_SITE_KEY'] %>"></script>';
+  <script>
+    grecaptcha.ready(function () {
+        grecaptcha.execute("<%= ENV['RECAPTCHA_SITE_KEY'] %>", { action: 'subscribe' }).then(function (token) {
+            var recaptchaResponse = document.querySelectorAll('.recaptcha-response');
+            recaptchaResponse.forEach(captcha => { captcha.value = token });
+        });
+    });
+  </script>
+<% end %>
+
+<div class="exhibit-header">
+  <h1>Newsletter</h1>
+</div>
+
+<div class="row" class="newsletter-section">
+  <div class="col-md-12">
+    <div class="region clearfix">
+      <form name="iterable_optin" action="//links.iterable.com/lists/publicAddSubscriberForm?publicIdString=1e1d2c08-4d17-48c2-be2f-15eaaaf25e5f" target="_blank" method="POST" class="newsletter-signup" data-list="general" data-placement-id="footer">
+        <h2>Please take a moment to sign up for our newsletter and provide feedback about your visit to the American Archive of Public Broadcasting (AAPB) website. Your responses will help improve the AAPB.</h2>
+        <input type="hidden" name="recaptcha_response" class="recaptcha-response" />
+        <input class="success-page" type="hidden" name="success_page" value="/about-the-american-archive/newsletter_thanks"
+         />
+          <div class="indicates-required">
+            <span class="asterisk">*</span> indicates required
+          </div>
+          <div class="iterable-field-group">
+            <label>Email Address<span class="asterisk">*</span></label>
+            <input type="text" name="email" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" placeholder="Email Address" required>
+          </div>
+          <div class="iterable-field-group">
+            <label>First Name</label>
+            <input type="text" name="firstName" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" placeholder="First Name">
+          </div>
+          <div class="iterable-field-group">
+            <label>Last Name</label>
+            <input type="text" name="lastName" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" placeholder="Last Name">
+          </div>
+          <input type="submit" value="Sign Up" class="button">
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
