@@ -16,12 +16,12 @@ Operating for more than 50 years, VPM (formally WCVE) brings the best of PBS and
 
 [![Julian Bond](https://s3.amazonaws.com/americanarchive.org/special-collections/FRCM0307_SDBA.jpg)](/catalog/cpb-aacip-7191f62c311)
 [![Highest and Best](https://s3.amazonaws.com/americanarchive.org/special-collections/HIBE0101_SDBA.jpg)](/catalog/cpb-aacip-d0ba4a47b3b)
-[![Choosing Wisdom](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_23a77aabe0d.jpg)](/catalog/cpb-aacip-23a77aabe0d)
+[![The Horse](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_d19e1cf38e1.jpg)](/catalog/cpb-aacip-d19e1cf38e1)
 [![Thomas Jefferson](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_18276caba06.jpg)](/catalog/cpb-aacip-18276caba06)
 [![Richmond Memories](https://s3.amazonaws.com/americanarchive.org/special-collections/MRICMA0000_SDPL_2.jpg)](/catalog/cpb-aacip-aa53ef62afb)
 [![From Our Archives](https://s3.amazonaws.com/americanarchive.org/special-collections/FROA0101_SDBA.jpg)](/catalog/cpb-aacip-3239d43ccd9)
 
-## Resources
+## Resources 
 - [VPM - Virginia's Home for Public Media](https://vpm.org/)
 - [University of Virginia Miller Center](https://millercenter.org/)
 - [Virginia Museum of History and Culture](https://www.virginiahistory.org/)
