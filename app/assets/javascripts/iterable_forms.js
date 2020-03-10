@@ -1,14 +1,26 @@
 $(function() {
-    $("form.form-signup").on("submit", function(e) {
-        e.preventDefault();
-        var _that = $(this);
+    var _that = $(this);
+    var successPage = _that.find(".success-page").val();
+    var $recaptchaResponse = $('#recaptcha_response')
 
-        email         = _that.find("#email").val();
-        firstName     = _that.find("#firstName").val();
-        lastName      = _that.find("#lastName").val();
-        successPage   = _that.find(".success-page").val();
-        captcha       = _that.find(".recaptcha-response").val();
+    function getRecaptchaTokenAndSubmit (){
+        console.log("siteKey is:" + siteKey);
+        grecaptcha.ready(function() {
+            // do request for recaptcha token
+            // response is promise with passed token
+            grecaptcha.execute(siteKey, { action: 'subscribe' }).then(function(token) {
+                // add token to form
+                console.log('token is: ' + token)
+                $recaptchaResponse.value = token;
+                console.log('recaptchaResponse value: ' + $recaptchaResponse.value)
+                submitRecaptcha();
+            });
+        });
+    };
 
+    function submitRecaptcha (){
+        var captcha = $recaptchaResponse.value
+        console.log('success-page: ' + successPage)
         console.log('captcha: ' + captcha)
         // Send the request to verify client side response
         $.ajax({
@@ -38,5 +50,10 @@ $(function() {
                 alert("reCAPTCHA verification failed, please try again later.");
             }
         });
+    }
+
+    $("form.form-signup").on("submit", function(e) {
+        e.preventDefault();
+        getRecaptchaTokenAndSubmit();
     });
 });

@@ -8,8 +8,8 @@
   <div class="col-md-12">
     <div class="region clearfix">
       <form name="iterable_optin" action="//links.iterable.com/lists/publicAddSubscriberForm?publicIdString=1e1d2c08-4d17-48c2-be2f-15eaaaf25e5f" target="_blank" method="POST" class="form-signup" data-list="general" data-placement-id="footer">
-        <h2>Please take a moment to sign up for our newsletter and provide feedback about your visit to the American Archive of Public Broadcasting (AAPB) website. Your responses will help improve the AAPB.</h2>
-        <input type="hidden" name="recaptcha_response" class="recaptcha-response" />
+        <h2>Subscribe to the American Archive of Public Broadcasting mailing list.</h2>
+        <input type="hidden" id="recaptcha_response" name="recaptcha_response" class="recaptcha-response" />
         <input class="success-page" type="hidden" name="success_page" value="/about-the-american-archive/newsletter_thanks"
          />
           <div class="indicates-required">
@@ -26,6 +26,10 @@
           <div class="iterable-field-group">
             <label>Last Name</label>
             <input class="form-input" type="text" name="lastName" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" placeholder="Last Name">
+          </div>
+          <div class="iterable-field-group">
+            <label>How did you hear about the American Archive of Public Broadcasting?</label>
+            <input class="form-input" type="text" name="hearAbout" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}" placeholder="How did you hear about the American Archive of Public Broadcasting?">
           </div>
           <input type="submit" value="Sign Up" class="button">
         </div>
