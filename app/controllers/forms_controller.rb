@@ -27,13 +27,14 @@ class FormsController < ApplicationController
     }
 
     response = Net::HTTP.post_form(uri, payload)
+
     json_response = JSON.parse(response.body) if response.is_a?(Net::HTTPSuccess)
 
-    if json_response["success"] == true && json_response["success"] >= 0.5 && json_response.present?
-      render json: json_response, status: 200
+    if json_response["success"] == true && json_response["score"] >= 0.5 && json_response.present?
+      json_response[:status] = 200
+      render json: json_response
     else
       render json: { "message" => 'Submission method not POST or captcha blank', status: 403 }
     end
-
   end
 end

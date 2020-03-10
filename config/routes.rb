@@ -32,7 +32,6 @@ Rails.application.routes.draw do
   resources 'oai',
             only: [:index]
 
-
   match 'api', to: 'api#index', via: [:get, :options]
   match 'api/:id', to: 'api#show', via: [:get, :options]
   match 'api/:id/transcript', to: 'api#transcript', via: [:get, :options], defaults: { format: :json }
