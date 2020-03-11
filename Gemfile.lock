@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/WGBH-MLA/cmless.git
+  revision: 1a0583ae01a91ba5798b462fcb069bef882ca940
+  specs:
+    cmless (1.0.0)
+      nokogiri (~> 1.6)
+      redcarpet (~> 3.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -46,13 +54,13 @@ GEM
     autoprefixer-rails (9.7.4)
       execjs
     aws-eventstream (1.0.3)
-    aws-sdk (2.11.462)
-      aws-sdk-resources (= 2.11.462)
-    aws-sdk-core (2.11.462)
+    aws-sdk (2.11.463)
+      aws-sdk-resources (= 2.11.463)
+    aws-sdk-core (2.11.463)
       aws-sigv4 (~> 1.0)
       jmespath (~> 1.0)
-    aws-sdk-resources (2.11.462)
-      aws-sdk-core (= 2.11.462)
+    aws-sdk-resources (2.11.463)
+      aws-sdk-core (= 2.11.463)
     aws-sigv4 (1.1.1)
       aws-eventstream (~> 1.0, >= 1.0.2)
     blacklight (5.19.2)
@@ -76,7 +84,7 @@ GEM
       sassc (>= 2.0.0)
     builder (3.2.4)
     cancan (1.6.10)
-    capistrano (3.12.0)
+    capistrano (3.12.1)
       airbrussh (>= 1.0.0)
       i18n
       rake (>= 10.0.0)
@@ -97,9 +105,6 @@ GEM
       regexp_parser (~> 1.5)
       xpath (~> 3.2)
     childprocess (3.0.0)
-    cmless (1.0.0)
-      nokogiri (~> 1.6)
-      redcarpet (~> 3.2)
     coderay (1.1.2)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
@@ -238,7 +243,7 @@ GEM
     rspec-mocks (3.9.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
-    rspec-rails (3.9.0)
+    rspec-rails (3.9.1)
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       railties (>= 3.0)
@@ -322,7 +327,7 @@ DEPENDENCIES
   capistrano-passenger
   capistrano-rails
   capybara
-  cmless (= 1.0.0)
+  cmless!
   coffee-rails (~> 4.0.0)
   curb
   fastimage
@@ -360,4 +365,4 @@ RUBY VERSION
    ruby 2.4.4p296
 
 BUNDLED WITH
-   1.17.1
+   1.17.3

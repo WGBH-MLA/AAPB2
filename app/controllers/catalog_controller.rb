@@ -319,7 +319,9 @@ class CatalogController < ApplicationController
     if params['f'] && params['f']['exhibits'] && !params['f']['exhibits'].empty?
       path = params['f']['exhibits'].first
       begin
-        return Exhibit.find_by_path(path)
+        exhibit = Exhibit.find_by_path(path)
+        raise ActionController::RoutingError.new('Not Found') unless exhibit
+        return exhibit
       rescue
         nil
       end
@@ -330,7 +332,9 @@ class CatalogController < ApplicationController
     if params['f'] && params['f']['special_collections'] && !params['f']['special_collections'].empty?
       path = params['f']['special_collections'].first
       begin
-        return SpecialCollection.find_by_path(path)
+        spec_col = SpecialCollection.find_by_path(path)
+        raise ActionController::RoutingError.new('Not Found') unless spec_col
+        return spec_col
       rescue
         nil
       end

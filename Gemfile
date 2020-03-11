@@ -42,7 +42,7 @@ gem 'capistrano-passenger', :group => :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'cmless', '1.0.0'
+gem 'cmless', git: 'https://github.com/WGBH-MLA/cmless.git'
 
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl

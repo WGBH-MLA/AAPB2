@@ -114,9 +114,7 @@ class SpecialCollection < Cmless
   end
 
   def self.valid_collection?(collection_name)
+    # returns nil if not found
     SpecialCollection.find_by_path(collection_name)
-    true
-  rescue Cmless::Error
-    false
   end
 end
