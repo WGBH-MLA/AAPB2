@@ -9,11 +9,14 @@
       </div>
       <div class="modal-body catalog-modal-body">
         <div class="row">
+          <label>At Beginning <input class="share-at-time" type="radio" name="share_at_time" id="off"></label>
+          <label>Segment Of <%= @pbcore.video? ? 'Video' : 'Audio' %> <input class="share-at-time" type="radio" checked name="share_at_time" id="on"></label>
+        </div>
+
+        <div class="row">
           <div id="timecode-share-container" class="col-md-12">
             <h5>Share</h5>
             <div id="share-controls">
-              <label>At Current Time <input class="share-at-time" type="radio" checked name="share_at_time" id="on"></label>
-              <label>At Beginning <input class="share-at-time" type="radio" name="share_at_time" id="off"></label>
               <button class="player-button" id="share-copy-button">Copy</button>
             </div>
             <!-- <pre id="timecode-embed"></pre> -->
@@ -22,8 +25,6 @@
             <h5>Embed</h5>
             <span class="hidden" id="pbcore-guid"><%= @pbcore.id %></span>
             <div id="share-controls">
-              <label>At Current Time <input class="embed-at-time" type="radio" checked name="embed_at_time" id="on"></label>
-              <label>At Beginning <input class="embed-at-time" type="radio" name="embed_at_time" id="off"></label>
               <button class="player-button" id="embed-copy-button">Copy</button>
             </div>
             <!-- <pre id="timecode-embed"></pre> -->
