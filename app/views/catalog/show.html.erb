@@ -174,14 +174,6 @@
       </dl>
     <% end %>
 
-    <% if @pbcore.supplemental_content.present? %>
-      <h4 class="supplemental-content">Supplemental Materials</h4>
-
-      <% @pbcore.supplemental_content.each do |content| %>
-        <li class="supplemental-link"><a href='<%= content[0] %>' target="_blank"><%= content[1] %></a></li>
-      <% end %>
-    <% end %>
-
     <% unless @pbcore.licensing_info.nil? %>
       <!-- Small button group -->
       <div class="btn-group licensing-btn-group">
@@ -210,6 +202,10 @@
     <%= render partial: "catalog/accordion/accordion", locals: { dt: "AAPB Contributor Holdings", body: render(partial: 'catalog/accordion/holdings'), collapse: true } %>
 
     <%= render partial: "catalog/accordion/accordion", locals: { dt: "Citations", body: render(partial: 'catalog/accordion/citations'), collapse: true } %>
+
+    <% if @pbcore.supplemental_content.present? %>
+      <%= render partial: "catalog/accordion/accordion", locals: { dt: "Supplemental Materials", body: render(partial: 'catalog/accordion/supplemental_materials'), collapse: true } %>
+      <% end %>
   </div>
 <% end %>
 
