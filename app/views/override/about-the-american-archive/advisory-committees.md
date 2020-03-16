@@ -99,10 +99,10 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Trevor Muñoz**
 <br>Interim Director, Maryland Institute for Technology in the Humanities (MITH); Assistant Dean for Digital Humanities Research, University Libraries, University of Maryland
 
-**Ingrid Ockert (SAC Co-Chair)**
+**Ingrid Ockert**
 <br>Post-Doctoral Fellow, Philadelphia Science History Institute
 
-**Kathryn Ostrofsky**
+**Kathryn Ostrofsky (SAC Co-Chair)**
 <br>Freelance Historian
 
 **Allison Perlman (SAC Co-Chair)**
