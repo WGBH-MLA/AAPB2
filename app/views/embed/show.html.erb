@@ -53,5 +53,11 @@
     <% end %>
 
     <p>By accessing this content you agree to the AAPB's <a href="/legal/orr-rules">Online Reading Room Rules of Use</a>.</p>
+
+    <% if @is_clipped %>
+      <p>
+        This is a segment of a program available on the AAPB website. <a href="/catalog/<%= @pbcore.id %>">Access the full-length item.</a>
+      </p>
+    <% end %>
   </div>
 </div>

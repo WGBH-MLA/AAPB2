@@ -173,9 +173,9 @@ describe SpecialCollection do
       end
     end
 
-    describe 'error handling' do
-      it 'raises an error for bad paths' do
-        expect { MockSpecialCollection.find_by_path('no/such/path') }.to raise_error(Cmless::Error)
+    describe 'not found handling' do
+      it 'returns nil for bad paths' do
+        expect(MockSpecialCollection.find_by_path('no/such/path')).to eq(nil)
       end
     end
   end

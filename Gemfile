@@ -6,7 +6,7 @@ ruby '2.4.4'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.8'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'sqlite3', '~> 1.3.13'
 # gem 'mysql2', :group => :production
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0.7'
@@ -42,7 +42,7 @@ gem 'capistrano-passenger', :group => :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'cmless', '1.0.0'
+gem 'cmless', git: 'https://github.com/WGBH-MLA/cmless.git'
 
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
@@ -66,7 +66,7 @@ gem 'rubyzip', '~> 1.3.0'
 gem 'cancan'
 gem 'maxminddb'
 gem 'fastimage'
-gem 'rack-cors', '~> 1.0.2', :require => 'rack/cors'
+gem 'rack-cors', '~> 1.0.5', :require => 'rack/cors'
 
 gem 'aws-sdk', '~> 2', :group => :development # Unless we want the AWS credentials on Travis for tests...
 
@@ -87,6 +87,5 @@ gem 'passenger', :group => :production
 
 gem 'nokogiri', '~> 1.10.4'
 
-# For upgrade to ruby 2.4
-# Not sure why this is needed
+# its back
 gem 'bigdecimal'

@@ -2,6 +2,15 @@
 
 Read about about AAPB's new collections, exhibits and projects below.
 
+## March 2020
+
+### New Special Collections
+Latest Special Collections to launch include *Vegetable Soup*, *In Black America*, *John Beyer Iowa Documentaries*, *National Federation of Community Broadcasters Programs*, *Vietnam: A Television History Interviews*, *War and Peace in the Nuclear Age Interviews*, *OutCasting*, *BackStory*, *A Word on Words*, *To the Moon Interviews*, *Traditions: Ohio Heritage Fellows*, *The Great Depression Interviews*, *Rock and Roll Interviews*, and collections produced by University of Alabama Public Broadcasting Preservation Fellows, including *The Alabama Experience*, *Local Programs from WSRE from Pensacola, Florida*, and *Virginia Public Media: Journey through the Archives.* View the collections at http://americanarchive.org/special_collections.
+
+### New Exhibit
+
+Curated by Dr. Allisoon Perlman, the AAPB released a new online exhibit titled "[On the Right: NET and Modern Conservatism](https://americanarchive.org/exhibits/conservatism)." Created as part of the National Educatioonal Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources, the exhibit explores the growth of the conservative movement in the mid-20th century through the lens of public television. Rescued from deteriorating videotape and film, 21 National Education Television (NET) programs produced between 1956 and 1970 explore multiple perspectives on the modern conservative movement. The programs are now available for online viewing, many for the first time since their original broadcast.
+
 ## April 2019
 
 ### New Special Collections

@@ -3,9 +3,12 @@
   <script src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
   <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
+  
+  <%= javascript_include_tag 'videojs-offset.min' %>
   <%= javascript_include_tag 'transcript' %>
   <%= javascript_include_tag 'mobile-transcript' %>
   <%= javascript_include_tag 'player' %>
+
 <% end %>
 
 <!-- player or thumbnail or message -->
@@ -49,9 +52,26 @@
 
         <div class="row">
           <div class="col-md-12">
+            <%= render partial: 'time_range' %>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12">
+
             <button id="skip-back" class="player-button skip-button">◀◀ 10s</button>
             <button id="skip-forward" class="player-button skip-button">10s ▶▶</button>
-            <button id="content-share" class="player-button" data-toggle="modal" data-target="#catalogShareModal">Share</button>
+
+            <% if @pbcore.seconds > 0 %>
+              <span id="time-range-switch-container">
+                <label class="switch">
+                  <input id="time-range-switch" type="checkbox">
+                  <span class="slider round"></span>
+                </label>
+
+                <span style="font-size: 12px;">Share A Segment</span>  
+              </span>
+            <% end %>
           </div>
         </div>
 

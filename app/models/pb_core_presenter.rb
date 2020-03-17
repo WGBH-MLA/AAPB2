@@ -308,6 +308,15 @@ class PBCorePresenter
       end
     end
   end
+  def seconds
+    dur = duration
+    return 0 unless dur
+    parts = dur.split(':')
+    hours = parts[0].to_i * 360
+    mins = parts[1].to_i * 60
+    secs = parts[2].to_i
+    hours + mins + secs
+  end
   def player_aspect_ratio
     @player_aspect_ratio ||= begin
       instantiations.find { |i| !i.aspect_ratio.nil? }.aspect_ratio
@@ -488,7 +497,7 @@ class PBCorePresenter
       :access_level, :access_types, :title, :ci_ids, :display_ids,
       :instantiations, :outside_url,
       :reference_urls, :exhibits, :special_collections, :access_level_description,
-      :img_height, :img_width, :player_aspect_ratio,
+      :img_height, :img_width, :player_aspect_ratio, :seconds,
       :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
