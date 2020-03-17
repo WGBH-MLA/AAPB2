@@ -1,27 +1,21 @@
 $(function() {
-    var _that = $(this);
-    var successPage = _that.find(".success-page").val();
     var $recaptchaResponse = $('#recaptcha_response')
 
-    function getRecaptchaTokenAndSubmit (){
-        console.log("siteKey is:" + siteKey);
+    function getRecaptchaTokenAndSubmit (_that){
         grecaptcha.ready(function() {
             // do request for recaptcha token
             // response is promise with passed token
             grecaptcha.execute(siteKey, { action: 'subscribe' }).then(function(token) {
                 // add token to form
-                console.log('token is: ' + token)
                 $recaptchaResponse.value = token;
-                console.log('recaptchaResponse value: ' + $recaptchaResponse.value)
-                submitRecaptcha();
+                var successPage = _that.find(".success-page").val();
+                submitRecaptcha(_that, successPage);
             });
         });
     };
 
-    function submitRecaptcha (){
+    function submitRecaptcha (_that, successPage){
         var captcha = $recaptchaResponse.value
-        console.log('success-page: ' + successPage)
-        console.log('captcha: ' + captcha)
         // Send the request to verify client side response
         $.ajax({
             type: "POST",
@@ -31,7 +25,6 @@ $(function() {
                 recaptcha_response: captcha
             }
         }).always(function(captchaResp) {
-            console.log(captchaResp);
             if (captchaResp.success) {
                 // Clean and send
                 $.ajax({
@@ -54,6 +47,7 @@ $(function() {
 
     $("form.form-signup").on("submit", function(e) {
         e.preventDefault();
-        getRecaptchaTokenAndSubmit();
+        var _that = $(this);
+        getRecaptchaTokenAndSubmit(_that);
     });
 });
