@@ -71,14 +71,7 @@ $(function() {
     var start = getParameterByName('start');
     var end = getParameterByName('end');
 
-    // if no end time, try url_hash!
-    var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
-    if(!end && url_hash && url_hash[1]){
-      end = $video_duration;
-    }
-
     if(start && end){
-
       return [start, end];
     }
   }
@@ -267,6 +260,18 @@ $(function() {
       $player = $('#player_media').find('video');
     }
   });
+  
+  $('#player_media').on('durationchange', function() {
+    // firefox needs this!
+    var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+    // If timecode included in URL, play to pass thumbnail,
+    // then pause at that timecode.
+    if ($player[0] && url_hash) {
+      $player[0].currentTime = url_hash[1];
+    }
+  });
+
+
 
   $player.on('timeupdate', function(){
     var current = $player[0].currentTime;
