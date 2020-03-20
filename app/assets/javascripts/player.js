@@ -70,7 +70,15 @@ $(function() {
   function getTimeMarkers() {
     var start = getParameterByName('start');
     var end = getParameterByName('end');
+
+    // if no end time, try url_hash!
+    var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+    if(!end && url_hash && url_hash[1]){
+      end = $video_duration;
+    }
+
     if(start && end){
+
       return [start, end];
     }
   }
