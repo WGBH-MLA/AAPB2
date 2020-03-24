@@ -1,0 +1,113 @@
+<%= render "javascript" %>
+
+<div class="exhibit-header">
+  <h1>Feedback</h1>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="region clearfix">
+      <form id="recaptcha-form" name="iterable_optin" action="//links.iterable.com/lists/publicAddSubscriberForm?publicIdString=50521fd5-60f8-4f8b-b310-9d327eb049b6" target="_blank" method="POST" class="form-signup" data-list="general" data-placement-id="footer">
+      <h2>Please take a moment to provide feedback about your experience with the American Archive of Public Broadcasting (AAPB) website. Your responses will help improve the AAPB.</h2>
+
+      <input type="hidden" name="recaptcha_response" class="recaptcha-response" />
+      <input class="success-page" type="hidden" name="success_page" value="/about-the-american-archive/feedback_thanks"
+         />
+
+      <div class="indicates-required">
+        <span class="asterisk">*</span> indicates required
+      </div>
+
+      <div class="iterable-field-group">
+        <label>Email Address<span class="asterisk">*</span></label>
+        <input class="form-input" type="text" name="email" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
+      </div>
+      <div class="iterable-field-group">
+        <label for="role">Which of the following best describes your current role?</label>
+        <select id="role" style="display:inline;" name="userRole" onchange="if(this.options[this.selectedIndex].value=='otherOption'){ toggleField(this,this.nextSibling); this.selectedIndex='0'; }">
+          <option>N/A</option>
+          <option>Public Media Professional</option>
+          <option>Historian</option>
+          <option>Film and Media Studies Scholar</option>
+          <option>Filmmaker</option>
+          <option>Journalist</option>
+          <option>Educator (K-12)</option>
+          <option>Student (Graduate)</option>
+          <option>Student (Undergraduate)</option>
+          <option>Student (K-12)</option>
+          <option>Lifelong Learner</option>
+          <option value="otherOption">Other</option>
+        </select><input class="form-input" size="24" name="userRole" style="display:none;" disabled="disabled"
+            onblur="if(this.value==''){toggleField(this,this.previousSibling);}">
+      </div>
+      <div class="iterable-field-group">
+        <label for="source">How did you hear about or find the AAPB website?</label>
+        <select id="source" style="display:inline;" name="hearAbout" onchange="if(this.options[this.selectedIndex].value=='otherOption'){ toggleField(this,this.nextSibling); this.selectedIndex='0'; }">
+          <option>N/A</option>
+          <option>Google Search</option>
+          <option>Conference or Meeting Event</option>
+          <option>Published Article/News</option>
+          <option>E-mail</option>
+          <option>From a Colleague</option>
+          <option value="otherOption">Other</option>
+        </select><input class="form-input" size="24" name="hearAbout" style="display:none;" disabled="disabled"
+            onblur="if(this.value==''){toggleField(this,this.previousSibling);}">
+      </div>
+      <div class="iterable-field-group">
+        <label for="why">Tell us a little bit about why you came to the AAPB website.</label>
+        <select id="why" style="display:inline;" name="whyAAPB" onchange="if(this.options[this.selectedIndex].value=='otherOption'){ toggleField(this,this.nextSibling); this.selectedIndex='0'; }">
+          <option>N/A</option>
+          <option>General Curiosity</option>
+          <option>Looking for Something Specific</option>
+          <option value="otherOption">Other</option>
+        </select><input class="form-input" size="24" name="hearAbout" style="display:none;" disabled="disabled"
+            onblur="if(this.value==''){toggleField(this,this.previousSibling);}">
+      </div>
+      <div class="iterable-field-group">
+        <label>If looking for something, tell us a little about what you were looking for.</label>
+        <input class="form-input" type="text" name="lookingFor" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
+      </div>
+      <div class="iterable-field-group">
+        <label for="tool">Which of these did you use in your search?</label>
+        <select id="tool" multiple style="display:inline;" name="searchTool">
+          <option>N/A</option>
+          <option>Search/Advanced Search</option>
+          <option>Browse</option>
+          <option>Exhibits</option>
+          <option>Featured Items</option>
+          <option>Map of Participating Organizations</option>
+          <option>Special Collection</option>
+        </select>
+      </div>
+      <div class="iterable-field-group">
+        <label for="success">Were you successful in finding what you were looking for?</label>
+        <select id="success" style="display:inline;" name="successSearch">
+          <option>N/A</option>
+          <option>Yes</option>
+          <option>No</option>
+        </select>
+      </div>
+      <div class="iterable-field-group">
+        <label>Did you use any of the result filters to modify your search? If so, which were most helpful?</label>
+        <input class="form-input" type="text" name="searchFilter" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
+      </div>
+      <div class="iterable-field-group">
+        <label>What were some of the issues you encountered in your search? What went well, what didn’t?</label>
+        <input class="form-input" type="text" name="searchIssues" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
+      </div>
+      <div class="iterable-field-group">
+        <label>Are there any improvements to our website that you would find helpful?</label>
+        <input class="form-input" type="text" name="improvements" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
+      </div>
+      <div class="iterable-field-group">
+        <label>Do you have any additional feedback for us?</label>
+        <input class="form-input" type="text" name="additionalFeedback" size="24" onfocus="if(this.value===this.defaultValue){this.value='';}" onblur="if(this.value===''){this.value=this.defaultValue;}">
+      </div>
+      <p>
+        <input class="form-input" type="checkbox" id="subscribeNews" name="subscribeNews" value="TRUE">
+        <label for="subscribeNews" class="checkbox-label">Please subscribe me to the AAPB newsletter.</label>
+      </p>
+      <input type="submit" value="Submit" class="button">
+    </div>
+  </form>
+</div>

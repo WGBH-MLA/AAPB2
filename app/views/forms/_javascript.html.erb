@@ -1,0 +1,14 @@
+<% content_for :head do %>
+  <%= javascript_include_tag 'iterable_forms' %>
+  <script src="https://www.google.com/recaptcha/api.js?render=<%= ENV['RECAPTCHA_SITE_KEY'] %>"></script>';
+  <script>
+    var siteKey = "<%= ENV['RECAPTCHA_SITE_KEY'] %>";
+    function toggleField(hideObj, showObj) {
+      hideObj.disabled=true;
+      hideObj.style.display='none';
+      showObj.disabled=false;
+      showObj.style.display='inline';
+      showObj.focus();
+    };
+  </script>
+<% end %>
