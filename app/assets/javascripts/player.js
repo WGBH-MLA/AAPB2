@@ -323,6 +323,8 @@ $(function() {
         end: time_markers[1],
         restart_beginning: false //Should the video go to the beginning when it ends
       });
+      
+      $('#clip-message-container').show();
     }
   }
 
