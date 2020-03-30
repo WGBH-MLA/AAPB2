@@ -11,6 +11,12 @@ class Ability
         (user.usa? && !user.bot? && (user.affirmed_tos? || user.authorized_referer?) && pbcore.public?)
     end
 
+    # Just like :play, only ignoring TOS check (it's in the embedded markup).
+    can :play_embedded, PBCorePresenter do |pbcore|
+      (user.onsite? && (pbcore.public? || pbcore.protected?)) ||
+        (user.usa? && !user.bot? && pbcore.public?)
+    end
+
     cannot :skip_tos, PBCorePresenter do |pbcore|
       # We handle international requests elsewhere and if pbcore is private
       # we do not need to show TOS because they won't get the media
