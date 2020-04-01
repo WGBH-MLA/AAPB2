@@ -297,15 +297,11 @@ class PBCorePresenter
   end
   def duration
     @duration ||= begin
-      xpath('/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration')
-    rescue
-
-      # old cases
-      begin
-        xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
-      rescue
-        xpaths('/*/pbcoreInstantiation/instantiationDuration').first
-      end
+      proxy_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/..').first
+      dur_node = REXML::XPath.match(proxy_node, 'instantiationEssenceTrack/essenceTrackDuration') if proxy_node
+      dur_node.first.text if dur_node
+    rescue NoMatchError => e
+      nil
     end
   end
   def seconds
