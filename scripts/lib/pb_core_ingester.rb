@@ -20,12 +20,16 @@ class PBCoreIngester
     @success_count = 0
   end
 
-  def self.load_fixtures
+  def self.load_fixtures(*globs)
     # This is a test in its own right elsewhere.
     ingester = PBCoreIngester.new
     ingester.delete_all
-    Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
-      ingester.ingest(path: pbcore)
+    # If no globs were passed in, default to all "clean" PBCore fixtures.
+    globs << 'spec/fixtures/pbcore/clean-*.xml' if globs.empty?
+    # Get a list of all file paths from all the globs.
+    all_paths = globs.map { |glob| Dir[glob] }.flatten.uniq
+    all_paths.each do |path|
+      ingester.ingest(path: path)
     end
   end
 
