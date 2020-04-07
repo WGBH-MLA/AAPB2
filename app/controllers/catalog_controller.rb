@@ -4,6 +4,7 @@ class CatalogController < ApplicationController
   include Blacklight::Catalog
   include ApplicationHelper
   include SnippetHelper
+  include IdHelper
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
@@ -226,22 +227,28 @@ class CatalogController < ApplicationController
     # we got some dang highlit matches
     if matched_in_text_field.try(:keys).try(:present?)
 
+      # overrwrite ids from solr with normalized ids
+      fixed_matches = {}
+      matched_in_text_field.map {|k,v| fixed_matches[normalize_guid(k)] = {} }
+
       @snippets = {}
 
       @document_list.each do |solr_doc|
-        # only respond if highlighting set has this guid
-        next unless matched_in_text_field[solr_doc[:id]]
+        this_id = normalize_guid(solr_doc[:id])
 
-        @snippets[solr_doc[:id]] = {}
+        # only respond if highlighting set has this guid
+        next unless fixed_matches[this_id]
+
+        @snippets[this_id] = {}
 
         # check for transcript/caption anno
         if solr_doc.transcript? && !@query_for_captions.nil?
-          @transcript_snippet = SnippetHelper::TranscriptSnippet.new('transcript' => TranscriptFile.new(solr_doc.transcript_src), 'id' => solr_doc[:id], 'query' => @query_for_captions)
-          @snippets[solr_doc[:id]][:transcript] = @transcript_snippet.highlight_snippet
-          @snippets[solr_doc[:id]][:transcript_timecode_url] = @transcript_snippet.url_at_timecode
+          @transcript_snippet = SnippetHelper::TranscriptSnippet.new('transcript' => TranscriptFile.new(solr_doc.transcript_src), 'id' => this_id, 'query' => @query_for_captions)
+          @snippets[this_id][:transcript] = @transcript_snippet.highlight_snippet
+          @snippets[this_id][:transcript_timecode_url] = @transcript_snippet.url_at_timecode
         elsif solr_doc.caption? && !@query_for_captions.nil?
           text = CaptionFile.new(solr_doc.captions_src).text
-          @snippets[solr_doc[:id]][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
+          @snippets[this_id][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
         end
       end
 
@@ -249,10 +256,21 @@ class CatalogController < ApplicationController
   end
 
   def show
-    # TODO: do we need more of the behavior from Blacklight::Catalog?
-    @response, @document = fetch(params['id'])
-    xml = @document['xml']
 
+    begin
+    # try to look up exactly what they gave us...
+      @response, @document = fetch(params['id'])
+
+    # have to do this because blacklight handles its 404s by throwing this exception :/
+    rescue Blacklight::Exceptions::RecordNotFound => e
+
+      # if it wasn't found, run through our other possible URL styles for guids
+      @response, @document = find_from_all_id_styles(params['id'])
+      # manually reraise because we didn't find with any of our id permutations
+      raise Blacklight::Exceptions::RecordNotFound unless @response
+    end
+
+    xml = @document['xml']
     respond_to do |format|
       format.html do
         @pbcore = PBCorePresenter.new(xml)

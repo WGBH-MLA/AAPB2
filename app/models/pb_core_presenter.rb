@@ -110,11 +110,51 @@ class PBCorePresenter
   def special_collections
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
-  def id
+  def original_id
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
     # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
     # TODO: https://github.com/WGBH/AAPB2/issues/870
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
+
+    # .gsub('cpb-aacip-', 'cpb-aacip_')
+
+    # just normalize whats in the xml
+    @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
+  end
+
+  def id
+    original_id.gsub(/cpb-aacip./, 'cpb-aacip-')
+  end
+
+  def solr_matched_id
+    @id ||= begin
+      guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
+
+      # check if xml guid is in database
+      puts "ORIGINAL GUID #{guid_from_xml}"
+      return guid_from_xml if(verify_guid(guid_from_xml))
+      
+      # check if _ or - variant is in database
+      # guid = transform_guid(guid_from_xml)
+      # puts "TRANSFORM GUID #{guid}"
+      # return guid if verify_guid(guid)
+
+      # also check for / guids
+      id_styles.delete(guid_from_xml).each do |style|
+        (puts "I fount it#{style}"; return style) if verify_guid(style)
+      end
+
+      # if neither found, we're ingesting new record OR we're well on our way to a 404, so return original attempt
+      puts "BACK TO THE ORIGINAL #{guid_from_xml}"
+      guid_from_xml
+    end
+  end
+
+  def transform_guid(guid)
+    (guid.match? /cpb-aacip_/) ? guid.gsub('cpb-aacip_', 'cpb-aacip-') : guid.gsub('cpb-aacip-', 'cpb-aacip_')
+  end
+
+  def verify_guid(guid)
+    Solr.instance.connect.get('select', params: { q: "id:#{guid}" })['response']['numFound'] > 0
   end
 
   SONY_CI = 'Sony Ci'.freeze
@@ -446,7 +486,7 @@ class PBCorePresenter
     end
 
     {
-      'id' => id,
+      'id' => solr_matched_id,
       'xml' => Formatter.instance.format(full_doc),
 
       # constrained searches:
@@ -502,7 +542,8 @@ class PBCorePresenter
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
+      :verify_guid, :transform_guid, :original_id, :solr_matched_id
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
