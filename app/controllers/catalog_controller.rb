@@ -310,7 +310,7 @@ class CatalogController < ApplicationController
           @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
         end
 
-        @exhibits = Exhibit.find_top_by_item_id(@pbcore.id)
+        @exhibits = Exhibit.find_top_by_item_id(@pbcore.original_id)
 
         render
       end

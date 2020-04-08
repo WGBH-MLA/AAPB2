@@ -128,29 +128,22 @@ class PBCorePresenter
   def solr_matched_id
     @id ||= begin
       guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
+      # return nil unless guid_from_xml # cant look anything up with nothing! this is necessary for tests
 
       # check if xml guid is in database
-      puts "ORIGINAL GUID #{guid_from_xml}"
+      # puts "ORIGINAL GUID #{guid_from_xml}"
       return guid_from_xml if(verify_guid(guid_from_xml))
       
-      # check if _ or - variant is in database
-      # guid = transform_guid(guid_from_xml)
-      # puts "TRANSFORM GUID #{guid}"
-      # return guid if verify_guid(guid)
-
-      # also check for / guids
-      id_styles.delete(guid_from_xml).each do |style|
-        (puts "I fount it#{style}"; return style) if verify_guid(style)
+      # check if _ or - or / variant is in database
+      id_styles(guid_from_xml).tap{|ids| ids.delete(guid_from_xml) }.each do |style|
+        # puts "I fount it #{style}"
+        return style if verify_guid(style)
       end
 
       # if neither found, we're ingesting new record OR we're well on our way to a 404, so return original attempt
-      puts "BACK TO THE ORIGINAL #{guid_from_xml}"
+      # puts "BACK TO THE ORIGINAL #{guid_from_xml}"
       guid_from_xml
     end
-  end
-
-  def transform_guid(guid)
-    (guid.match? /cpb-aacip_/) ? guid.gsub('cpb-aacip_', 'cpb-aacip-') : guid.gsub('cpb-aacip-', 'cpb-aacip_')
   end
 
   def verify_guid(guid)

@@ -1,8 +1,10 @@
 require 'nokogiri'
 require_relative 'pb_core_presenter'
+require_relative '../helpers/id_helper'
 
 class ValidatedPBCore < PBCorePresenter
   include ApplicationHelper
+  include IdHelper
   SCHEMA = Nokogiri::XML::Schema(File.read('lib/pbcore-2.1.xsd'))
 
   def initialize(xml)

@@ -478,7 +478,7 @@ describe 'Validated and plain PBCore' do
       it 'has expected transcript attributes' do
         pbc = PBCorePresenter.new(pbc_json_transcript)
         expected_attrs = {
-          'id' => 'cpb-aacip_111-21ghx7d6',
+          'id' => 'cpb-aacip-111-21ghx7d6',
           'player_aspect_ratio' => '4:3',
           'player_specs' => %w(680 510),
           'transcript_status' => 'Correct'
@@ -515,7 +515,7 @@ describe 'Validated and plain PBCore' do
       it 'has expected 16:9 attributes' do
         pbc = PBCorePresenter.new(pbc_16_9)
         expected_attrs = {
-          'id' => 'cpb-aacip_508-g44hm5390k',
+          'id' => 'cpb-aacip-508-g44hm5390k',
           'player_aspect_ratio' => '16:9',
           'player_specs' => %w(680 383)
         }
@@ -534,10 +534,10 @@ describe 'Validated and plain PBCore' do
       it 'first record has expected attributes' do
         pbc = PBCorePresenter.new(playlist_1)
         expected_attrs = {
-          'id' => 'cpb-aacip_512-gx44q7rk20',
+          'id' => 'cpb-aacip-512-gx44q7rk20',
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 1,
-          'playlist_next_id' => 'cpb-aacip_512-0r9m32nw1x',
+          'playlist_next_id' => 'cpb-aacip-512-0r9m32nw1x',
           'playlist_prev_id' => nil
         }
 
@@ -557,8 +557,8 @@ describe 'Validated and plain PBCore' do
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 2,
-          'playlist_next_id' => 'cpb-aacip_512-w66930pv96',
-          'playlist_prev_id' => 'cpb-aacip_512-gx44q7rk20'
+          'playlist_next_id' => 'cpb-aacip-512-w66930pv96',
+          'playlist_prev_id' => 'cpb-aacip-512-gx44q7rk20'
         }
 
         attrs = {
@@ -577,7 +577,7 @@ describe 'Validated and plain PBCore' do
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 3,
           'playlist_next_id' => nil,
-          'playlist_prev_id' => 'cpb-aacip_512-0r9m32nw1x'
+          'playlist_prev_id' => 'cpb-aacip-512-0r9m32nw1x'
         }
 
         attrs = {
