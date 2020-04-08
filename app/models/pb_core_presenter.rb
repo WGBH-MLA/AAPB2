@@ -314,7 +314,7 @@ class PBCorePresenter
     dur = duration
     return 0 unless dur
     parts = dur.split(':')
-    hours = parts[0].to_i * 360
+    hours = parts[0].to_i * 3600
     mins = parts[1].to_i * 60
     secs = parts[2].to_i
     hours + mins + secs
