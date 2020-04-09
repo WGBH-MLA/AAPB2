@@ -7,7 +7,6 @@ require_relative '../../app/models/caption_file'
 require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'Validated and plain PBCore' do
-
   before(:all) do
     PBCoreIngester.load_fixtures
   end

@@ -1,7 +1,6 @@
 require 'curl'
 
 describe 'CORS' do
-
   before(:all) do
     PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-MOCK.xml')
   end
