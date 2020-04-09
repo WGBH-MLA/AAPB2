@@ -4,6 +4,10 @@ require 'sony_ci_api'
 require 'tmpdir'
 
 describe 'Media URLs', not_on_travis: true do
+  before(:all) do
+    PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-MOCK.xml')
+  end
+
   let(:file_content) { 'lorem ipsum' }
 
   def safe_ci

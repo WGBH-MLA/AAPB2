@@ -1,6 +1,11 @@
 require 'curl'
 
 describe 'CORS' do
+
+  before(:all) do
+    PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-MOCK.xml')
+  end
+
   # There is advice on how to test this without a full server,
   # but since other tests require it, this is easier, and more robust.
   describe 'CORS disabled (default)' do
