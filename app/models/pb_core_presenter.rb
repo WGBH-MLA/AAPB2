@@ -296,6 +296,10 @@ class PBCorePresenter
     media_type == SOUND
   end
   def duration
+    # for AAPB, the (preferred) machine-generated duration is always expected to be
+    # a) inside a pbcoreInstantiation that has an instantiationGenerations with the text "Proxy"
+    # b) in an instantiationEssenceTrack/essenceTrackDuration
+    # if you cant find that, choose another essenceTrackDuration
     @duration ||= begin
       proxy_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/..').first
       proxy_duration_node = REXML::XPath.match(proxy_node, 'instantiationEssenceTrack/essenceTrackDuration') if proxy_node

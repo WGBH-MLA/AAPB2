@@ -51,7 +51,9 @@
     <instantiationLocation>my harddrive</instantiationLocation>
     <instantiationMediaType>Moving Image</instantiationMediaType>
     <instantiationGenerations>Proxy</instantiationGenerations>
-    <instantiationDuration>1:23:45</instantiationDuration>
+    <instantiationEssenceTrack>
+      <essenceTrackDuration>1:23:45</essenceTrackDuration>
+    </instantiationEssenceTrack>
     <instantiationAnnotation annotationType='organization'>WGBH</instantiationAnnotation>
   </pbcoreInstantiation>
   <pbcoreInstantiation>
