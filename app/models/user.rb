@@ -18,7 +18,6 @@ class User
   end
 
   def onsite?
-    Rails.logger.error "GOOD GRIEF ITS #{request.remote_ip}"
     onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
   end
 
