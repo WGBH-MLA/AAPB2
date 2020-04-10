@@ -18,7 +18,7 @@ class User
   end
 
   def onsite?
-    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
+    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any? unless Rails.env.test?
   end
 
   def usa?
