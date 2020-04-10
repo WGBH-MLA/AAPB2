@@ -13,7 +13,7 @@ class Ability
 
     # Just like :play, only ignoring TOS check (it's in the embedded markup).
     can :play_embedded, PBCorePresenter do |pbcore|
-      Rails.error user.onsite
+      Rails.error user.onsite?
       Rails.error pbcore.public?
       Rails.error pbcore.protected?
       Rails.error user.usa?
