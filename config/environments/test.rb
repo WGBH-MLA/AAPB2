@@ -42,6 +42,8 @@ Rails.application.configure do
 
   email_creds = YAML.load(ERB.new(File.new(Rails.root + 'config/aws_ses.yml').read).result)
 
+  config.logger = ActiveSupport::Logger.new(STDOUT)
+
   config.action_mailer.smtp_settings = {
     address: 'email-smtp.us-east-1.amazonaws.com',
     port: 587,

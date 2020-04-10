@@ -13,8 +13,13 @@ class Ability
 
     # Just like :play, only ignoring TOS check (it's in the embedded markup).
     can :play_embedded, PBCorePresenter do |pbcore|
-      # (user.onsite? && (pbcore.public? || pbcore.protected?)) ||(user.usa? && !user.bot? && pbcore.public?)
-      true
+      Rails.error user.onsite
+      Rails.error pbcore.public?
+      Rails.error pbcore.protected?
+      Rails.error user.usa?
+      Rails.error !user.bot?
+      Rails.error pbcore.public?
+      (user.onsite? && (pbcore.public? || pbcore.protected?)) ||(user.usa? && !user.bot? && pbcore.public?)
     end
 
     cannot :skip_tos, PBCorePresenter do |pbcore|
