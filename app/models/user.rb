@@ -18,7 +18,8 @@ class User
   end
 
   def onsite?
-    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any? unless Rails.env.test?
+    Rails.logger.error "GOOD GRIEF ITS #{request.remote_ip}"
+    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
   end
 
   def usa?

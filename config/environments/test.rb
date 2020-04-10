@@ -43,7 +43,8 @@ Rails.application.configure do
   email_creds = YAML.load(ERB.new(File.new(Rails.root + 'config/aws_ses.yml').read).result)
 
   # turn this on if you need to debug on travis! oy!
-  # config.logger = ActiveSupport::Logger.new(STDOUT)
+  config.logger = ActiveSupport::Logger.new(STDOUT)
+  config.log_level = :error
 
   config.action_mailer.smtp_settings = {
     address: 'email-smtp.us-east-1.amazonaws.com',
