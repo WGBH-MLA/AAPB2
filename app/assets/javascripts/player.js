@@ -116,32 +116,32 @@ $(function() {
     return window.location.port ? uri + ':' + window.location.port : uri;
   }
 
-  function getEmbedHtml() {
-    var uri = getHost();
-    uri = uri + '/embed/';
+  function getShareGuts(uri){
+    var pbcore_guid = $('#pbcore-guid').text();
+
     var radio = $('input.share-at-time:checked');
-    var tm = '';
     if(radio && radio.attr('id') == 'on') {
-      tm = getTimeMarkerQuery();
+      // segment of whatever / slider
+      var tm = getTimeMarkerQuery();
+      return pbcore_guid + tm;
+    } else if(radio && radio.attr('id') == 'current'){
+      // #at_time_s
+      return pbcore_guid + '#at_' + player.currentTime() + '_s';
+    } else {
+      // start at beginning
+      return pbcore_guid;      
     }
 
-    var pbcore_guid = $('#pbcore-guid').text();
-    var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + pbcore_guid + tm + "'></iframe>".replace(/&/g, '&amp;');
+  }
+
+  function getEmbedHtml() {
+    var uri = getHost() + '/embed/' + getShareGuts();
+    var html = "<iframe style='display: flex; flex-direction: column; min-height: 50vh; width: 100%;' src='" + uri + "'></iframe>".replace(/&/g, '&amp;');
     return html;
   };
 
-  function getShareHtml() {
-    var uri = getHost();
-    uri = uri + '/catalog/';
-    var radio = $('input.share-at-time:checked');
-    var tm = '';
-    if(radio && radio.attr('id') == 'on') {
-      tm = getTimeMarkerQuery();
-    }
-    var pbcore_guid = $('#pbcore-guid').text();
-    var html = (uri + pbcore_guid + tm);
-
-    return html;
+  function getShareUrl() {
+    return getHost() + '/catalog/' + getShareGuts();
   };
 
   function parse_timecode(hms) {
@@ -207,7 +207,11 @@ $(function() {
       $player[0].currentTime = url_hash[1];
       var key = greatest_less_than_or_equal_to($player[0].currentTime);
       var $line = lines[key];
-      $transcript.contents().scrollTop($line.position().top-40);
+
+      // only scroll transcript if there actually is a transcript
+      if($line){
+        $transcript.contents().scrollTop($line.position().top-40);
+      }
     }
   }
 
@@ -233,11 +237,7 @@ $(function() {
       $('#end-display').text( toTC(new_slider_positions[1]) );
 
       if($current_handle == 0 || $current_handle == 1){
-        if(!$player){
-          $player = $('#player_media').find('video');
-        }
-
-        $player[0].currentTime = $slider_positions[$current_handle];
+        player.currentTime($slider_positions[$current_handle]);
       }
 
       $slider_positions = new_slider_positions;
@@ -257,7 +257,7 @@ $(function() {
   $('#player_media').on('loadstart', function() {
     // firefox needs this!
     if(!$player[0]){
-      $player = $('#player_media').find('video');
+      $player = $('#player_media').find('video,audio');
     }
   });
   
@@ -355,7 +355,7 @@ $(function() {
 
   $('.share-at-time').change(function() {
     $('#timecode-embed').val(getEmbedHtml());
-    $('#timecode-share').val(getShareHtml());
+    $('#timecode-share').val(getShareUrl());
   });
 
   $('#embed-copy-button').click(function() {
@@ -385,7 +385,7 @@ $(function() {
   // initialize share modal content when button is clicked, so we getta the current timecode
   $('#content-share').click(function() {
     $('#timecode-embed').val(getEmbedHtml());
-    $('#timecode-share').val(getShareHtml());
+    $('#timecode-share').val(getShareUrl());
   });
 
 });

@@ -3,9 +3,9 @@ require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'OAI-PMH' do
   # commenting this out because we don't appear to be using the fxtures in the test.
-  # before(:all) do
-  #   PBCoreIngester.load_fixtures
-  # end
+  before(:all) do
+    PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-MOCK.xml')
+  end
 
   it 'loads the index page' do
     visit '/oai.xml?verb=ListRecords'
