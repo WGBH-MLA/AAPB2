@@ -229,7 +229,8 @@ class CatalogController < ApplicationController
 
       # overrwrite ids from solr with normalized ids
       fixed_matches = {}
-      matched_in_text_field.map {|k,v| fixed_matches[normalize_guid(k)] = {} }
+      # value is unused because the presence of the guid as a key is what indicates the match
+      matched_in_text_field.map { |k, _v| fixed_matches[normalize_guid(k)] = {} }
 
       @snippets = {}
 
@@ -256,13 +257,12 @@ class CatalogController < ApplicationController
   end
 
   def show
-
     begin
-    # try to look up exactly what they gave us...
+      # try to look up exactly what they gave us...
       @response, @document = fetch(params['id'])
 
-    # have to do this because blacklight handles its 404s by throwing this exception :/
-    rescue Blacklight::Exceptions::RecordNotFound => e
+      # have to do this because blacklight handles its 404s by throwing this exception :/
+    rescue Blacklight::Exceptions::RecordNotFound
 
       # if it wasn't found, run through our other possible URL styles for guids
       @response, @document = find_from_all_id_styles(params['id'])

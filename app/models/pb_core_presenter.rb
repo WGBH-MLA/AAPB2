@@ -130,10 +130,10 @@ class PBCorePresenter
       guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
 
       # check if xml guid is in database
-      return guid_from_xml if(verify_guid(guid_from_xml))
-      
+      return guid_from_xml if verify_guid(guid_from_xml)
+
       # check if _ or - or / variant is in database
-      id_styles(guid_from_xml).tap{|ids| ids.delete(guid_from_xml) }.each do |style|
+      id_styles(guid_from_xml).tap { |ids| ids.delete(guid_from_xml) }.each do |style|
         return style if verify_guid(style)
       end
 

@@ -5,7 +5,7 @@ module IdHelper
 
   def id_styles(guid)
     guidstem = guid.gsub(/cpb-aacip./, '')
-    ['cpb-aacip-','cpb-aacip_','cpb-aacip/'].map {|style| style + guidstem }
+    ['cpb-aacip-', 'cpb-aacip_', 'cpb-aacip/'].map { |style| style + guidstem }
   end
 
   def find_from_all_id_styles(guid)
@@ -14,7 +14,7 @@ module IdHelper
         puts style
         resp, docs = fetch(style)
         return [resp, docs] if resp && docs
-      rescue Blacklight::Exceptions::RecordNotFound => e
+      rescue Blacklight::Exceptions::RecordNotFound
         nil
       end
     end
