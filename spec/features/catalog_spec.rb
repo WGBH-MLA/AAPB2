@@ -462,7 +462,6 @@ describe 'Catalog' do
 
     it 'links to collection' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
-      # require('pry');binding.pry
       expect(page).to have_text('This record is featured in'), missing_page_text_custom_error('This record is featured in', page.current_path)
       expect_video(poster: s3_thumb('cpb-aacip_111-21ghx7d6'))
     end
