@@ -24,7 +24,11 @@ class PBCoreInstantiation
   end
 
   def duration
-    @duration ||= optional('instantiationDuration')
+    @duration ||= begin
+      dur = optional('instantiationEssenceTrack/essenceTrackDuration')
+      return dur if dur
+      optional('instantiationDuration')
+    end
   end
 
   def aspect_ratio

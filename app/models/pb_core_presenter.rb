@@ -329,15 +329,21 @@ class PBCorePresenter
     media_type == SOUND
   end
   def duration
+    # for AAPB, the (preferred) machine-generated duration is always expected to be
+    # a) inside a pbcoreInstantiation that has an instantiationGenerations with the text "Proxy"
+    # b) in an instantiationEssenceTrack/essenceTrackDuration
+    # if you cant find that, choose another essenceTrackDuration
     @duration ||= begin
-      xpath('/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration')
-    rescue
+      proxy_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/..').first
+      proxy_duration_node = REXML::XPath.match(proxy_node, 'instantiationEssenceTrack/essenceTrackDuration') if proxy_node
+      proxy_duration_node.first.text if proxy_duration_node.present?
+    rescue NoMatchError
 
-      # old cases
       begin
-        xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
-      rescue
-        xpaths('/*/pbcoreInstantiation/instantiationDuration').first
+        any_duration_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration').first
+        any_duration_node.text if any_duration_node.present?
+      rescue NoMatchError
+        nil
       end
     end
   end
@@ -345,7 +351,7 @@ class PBCorePresenter
     dur = duration
     return 0 unless dur
     parts = dur.split(':')
-    hours = parts[0].to_i * 360
+    hours = parts[0].to_i * 3600
     mins = parts[1].to_i * 60
     secs = parts[2].to_i
     hours + mins + secs

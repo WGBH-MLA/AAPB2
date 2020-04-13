@@ -6,9 +6,9 @@ describe 'Transcripts' do
   #  include ValidationHelper
 
   # commenting this out because we don't appear to be using the fxtures in the test.
-  # before(:all) do
-  #   PBCoreIngester.load_fixtures
-  # end
+  before(:all) do
+    PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-MOCK.xml')
+  end
 
   # xit due to fact we re-organized Captions and Transcripts
   describe '#show' do

@@ -3,6 +3,9 @@ require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'Embed' do
   before do
+    # random indiana IP
+    page.driver.options[:headers] = { 'REMOTE_ADDR' => '168.214.152.244' }
+
     PBCoreIngester.load_fixtures(
       # ID of this record is 'cpb-aacip_moving-image_public'
       'spec/fixtures/pbcore/clean-moving-image-public.xml',

@@ -4,7 +4,13 @@ require_relative '../../lib/aapb'
 require_relative '../../app/models/validated_pb_core'
 require_relative '../../app/models/caption_file'
 
+require_relative '../../scripts/lib/pb_core_ingester'
+
 describe 'Validated and plain PBCore' do
+  before(:all) do
+    PBCoreIngester.load_fixtures
+  end
+
   pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
   let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
   let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }

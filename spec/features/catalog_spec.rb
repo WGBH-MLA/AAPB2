@@ -413,6 +413,7 @@ describe 'Catalog' do
 
   describe '#show' do
     before do
+      # CATALOG SPEC FORCES REMOTE IP TO BE WGBH (ONSITE) - N'ERE SHALL THEE FORGEEEEEEEEEEET
       page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }
     end
 
