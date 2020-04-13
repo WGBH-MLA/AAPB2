@@ -128,20 +128,16 @@ class PBCorePresenter
   def solr_matched_id
     @id ||= begin
       guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
-      # return nil unless guid_from_xml # cant look anything up with nothing! this is necessary for tests
 
       # check if xml guid is in database
-      # puts "ORIGINAL GUID #{guid_from_xml}"
       return guid_from_xml if(verify_guid(guid_from_xml))
       
       # check if _ or - or / variant is in database
       id_styles(guid_from_xml).tap{|ids| ids.delete(guid_from_xml) }.each do |style|
-        # puts "I fount it #{style}"
         return style if verify_guid(style)
       end
 
-      # if neither found, we're ingesting new record OR we're well on our way to a 404, so return original attempt
-      # puts "BACK TO THE ORIGINAL #{guid_from_xml}"
+      # if no id match found, we're ingesting new record, so return original attempt
       guid_from_xml
     end
   end
@@ -485,6 +481,7 @@ class PBCorePresenter
     end
 
     {
+      # use #solr_matched_id to match input guid to any equivalent permutation already stored in solr
       'id' => solr_matched_id,
       'xml' => Formatter.instance.format(full_doc),
 
@@ -542,7 +539,7 @@ class PBCorePresenter
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
-      :verify_guid, :transform_guid, :original_id, :solr_matched_id
+      :verify_guid, :original_id, :solr_matched_id
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
