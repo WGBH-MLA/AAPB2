@@ -472,7 +472,7 @@ describe 'Catalog' do
     end
 
     it 'has no transcript if expected' do
-      visit '/catalog/ccpb-aacip_508-g44hm5390k'
+      visit '/catalog/cpb-aacip_508-g44hm5390k'
       expect_no_transcript
     end
 

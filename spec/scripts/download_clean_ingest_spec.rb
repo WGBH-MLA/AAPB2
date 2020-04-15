@@ -55,13 +55,13 @@ describe DownloadCleanIngest do
     #    ],
     "#{default_flags} --ids 37-010p2nvv" => [
       /Downloading .*guid\/37-010p2nvv/,
-      /Updated solr record cpb-aacip_37-010p2nvv/,
+      /Updated solr record cpb-aacip-37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
       /1 \(100.0%\) succeeded/
     ],
     "#{default_flags} --id-files #{Rails.root + 'spec/fixtures/dci/id-file.txt'}" => [
       /Downloading .*guid\/37-010p2nvv/,
-      /Updated solr record cpb-aacip_37-010p2nvv/,
+      /Updated solr record cpb-aacip-37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
       /1 \(100.0%\) succeeded/
     ],
@@ -76,12 +76,12 @@ describe DownloadCleanIngest do
     "#{default_flags} --exhibits station-histories/dedication-ceremonies" => [
       # Choose the smallest exhibit we have, since the test will be hitting the AMS.
       # Perhaps it should be skipped?
-      /Updated solr record cpb-aacip_221-76f1vwh1/,
+      /Updated solr record cpb-aacip-221-76f1vwh1/,
       /\d+ \(100.0%\) succeeded/
     ],
     "#{default_flags} --just-reindex --query 'f[asset_type][]=Program&q=promise'" => [
       /Query solr for/,
-      /Updated solr record cpb-aacip_37-010p2nvv/,
+      /Updated solr record cpb-aacip-37-010p2nvv/,
       /Processed .*37-010p2nvv.pbcore/,
       /2 \(100.0%\) succeeded/
     ],

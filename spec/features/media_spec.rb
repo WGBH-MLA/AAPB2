@@ -3,6 +3,8 @@ require 'rails_helper'
 require 'sony_ci_api'
 require 'tmpdir'
 
+# TODO: was this test broken when we switche Ci credentials?
+
 describe 'Media URLs', not_on_travis: true do
   before(:all) do
     PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-MOCK.xml')

@@ -110,11 +110,40 @@ class PBCorePresenter
   def special_collections
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
-  def id
+  def original_id
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
     # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
     # TODO: https://github.com/WGBH/AAPB2/issues/870
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
+
+    # .gsub('cpb-aacip-', 'cpb-aacip_')
+
+    # just normalize whats in the xml
+    @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
+  end
+
+  def id
+    original_id.gsub(/cpb-aacip./, 'cpb-aacip-')
+  end
+
+  def solr_matched_id
+    @id ||= begin
+      guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
+
+      # check if xml guid is in database
+      return guid_from_xml if verify_guid(guid_from_xml)
+
+      # check if _ or - or / variant is in database
+      id_styles(guid_from_xml).tap { |ids| ids.delete(guid_from_xml) }.each do |style|
+        return style if verify_guid(style)
+      end
+
+      # if no id match found, we're ingesting new record, so return original attempt
+      guid_from_xml
+    end
+  end
+
+  def verify_guid(guid)
+    Solr.instance.connect.get('select', params: { q: "id:#{guid}" })['response']['numFound'] > 0
   end
 
   SONY_CI = 'Sony Ci'.freeze
@@ -452,7 +481,8 @@ class PBCorePresenter
     end
 
     {
-      'id' => id,
+      # use #solr_matched_id to match input guid to any equivalent permutation already stored in solr
+      'id' => solr_matched_id,
       'xml' => Formatter.instance.format(full_doc),
 
       # constrained searches:
@@ -508,7 +538,8 @@ class PBCorePresenter
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
+      :verify_guid, :original_id, :solr_matched_id
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)

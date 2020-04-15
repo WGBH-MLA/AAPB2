@@ -27,6 +27,7 @@ module Zipper
           end
 
     unless filename.include?('spec/fixtures') || filename.include?('spec/scripts')
+      # leave my files alone!
       File.delete(filename)
     end
 
