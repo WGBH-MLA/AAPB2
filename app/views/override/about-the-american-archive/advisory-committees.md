@@ -81,14 +81,29 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Robert K. Avery**
 <br>Emeritus Professor of Communication, University of Utah
 
+**Kathryn Cramer Brownell**
+<br>Associate Professor fo History, Purdue University
+
+**Dolores Inés Casillas**
+<br>Associate Professor of Chicana and Chicano Studies and a Faculty Affiliate of Film & Media Studies and Applied Linguistics, University of California, Santa Barbara
+
+**Brenda J. Child**
+<br>Northrop Professor of American Studies, University of Minnesota
+
 **Mark Garrett Cooper**
-<br>Professor in the Department of English Language and Literature, University of South Carolina
+<br>Professor of Film and Media Studies, University of South Carolina
+
+**Sherman Dorn**
+<br>Professor of Education, Arizona State University
 
 **Scot French**
 <br>Associate Professor of Digital & Public History, University of Central Florida
 
+**Joshua Glick**
+<br>Assistant Professor of English, Film, and Media Studies, Hendrix College and Fellow at MIT's Open Documentary Lab
+
 **Peter B. Kaufman**
-<br>Research Affiliate, Massachusetts Institute of Technology Office of Digital Learning; Executive Producer, Intelligent Television
+<br>Strategic Initiatives, MIT Open Learning & MIT Knowledge Futures Group; Executive Producer, Intelligent Television
 
 **Dimitrios Latsis**
 <br>Assistant Professor, Ryerson University, Toronto, ON
@@ -96,32 +111,20 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Jeffrey W. McClurken**
 <br>Professor of History and American Studies and Chief of Staff to the President at the University of Mary Washington, VA
 
-**Trevor Muñoz**
-<br>Interim Director, Maryland Institute for Technology in the Humanities (MITH); Assistant Dean for Digital Humanities Research, University Libraries, University of Maryland
-
 **Ingrid Ockert**
 <br>Post-Doctoral Fellow, Philadelphia Science History Institute
 
 **Kathryn Ostrofsky (SAC Co-Chair)**
-<br>Freelance Historian
+<br>Archivist/Librarian, Dedham Historical Society & Museum
 
 **Allison Perlman (SAC Co-Chair)**
 <br>Associate Professor of Film and Media Studies and History, University of California, Irvine 
 
-**Dana Polan**
-<br>Professor of Cinema Studies, New York University
-
 **Bernard F. Reilly**
-<br>President, Center for Research Libraries 
+<br>President Emeritus, Center for Research Libraries
 
-**Steven V. Roberts**
-<br>J.B. and M.C. Shapiro Professor of Media and Public Affairs, School of Media and Public Affairs, George Washington University, D.C.
-
-**Roger C. Schonfeld**
-<br>Director, Libraries and Scholarly Communication Program, Ithaka S+R, NY
-
-**Sonja Williams**
-<br>Professor, Department of Media, Journalism and Film, Howard University, D.C.
+**Neil Verma**
+<br>Assistant Professor of Sound Studies in the Department of Radio/Television/Film, Northwestern University
 
 ---
 
