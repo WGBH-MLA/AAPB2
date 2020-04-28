@@ -29,7 +29,6 @@
 //= stub transcript
 //= stub mobile-transcript
 //= stub player
-//= stub iterable_forms
 //= stub videojs-offset.min
 
 // For blacklight_range_limit built-in JS, if you don't want it you don't need
