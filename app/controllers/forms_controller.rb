@@ -10,14 +10,6 @@ class FormsController < ApplicationController
     render 'newsletter_thanks'
   end
 
-  def feedback
-    render 'feedback'
-  end
-
-  def feedback_thanks
-    render 'feedback_thanks'
-  end
-
   def validate_recaptcha
     uri = URI.parse('https://www.google.com/recaptcha/api/siteverify')
 

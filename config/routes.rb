@@ -50,8 +50,7 @@ Rails.application.routes.draw do
 
   get 'about-the-american-archive/newsletter', to: 'forms#newsletter'
   get 'about-the-american-archive/newsletter_thanks', to: 'forms#newsletter_thanks'
-  get 'about-the-american-archive/feedback', to: 'forms#feedback'
-  get 'about-the-american-archive/feedback_thanks', to: 'forms#feedback_thanks'
+
   match 'recaptcha', to: 'forms#validate_recaptcha', via: [:post]
 
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
