@@ -27,7 +27,7 @@ class ValidatedPBCore < PBCorePresenter
     # Don't like excluding :transcript_content here, but Rails.logger isn't available during ingest for CaptionConverter.parse_srt
     errors = []
     # exclude transcript_src + canonical because dirty multi ID tests fail method validation
-    (PBCorePresenter.instance_methods(false) - [:to_solr, :transcript_content, :exhibits, :constructed_transcript_src, :canonical_url, :solr_matched_id, :verify_guid, :original_id]).each do |method|
+    (PBCorePresenter.instance_methods(false) - [:to_solr, :transcript_content, :exhibits, :constructed_transcript_src, :verify_transcript_src, :canonical_url, :solr_matched_id, :verify_guid, :original_id]).each do |method|
       begin
         send(method)
       rescue => e

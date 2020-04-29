@@ -3,6 +3,7 @@ require 'rexml/xpath'
 require 'nokogiri'
 require 'solrizer'
 require 'fastimage'
+require 'httparty'
 require_relative '../../lib/aapb'
 require_relative 'exhibit'
 require_relative 'special_collection'
@@ -181,8 +182,17 @@ class PBCorePresenter
   def constructed_transcript_src
     @constructed_transcript_url ||= begin
       trans_id = id.tr('_', '-')
-      %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.json)
+
+      # check if s3 transcript is a json or txt
+      ['json','txt'].each do |ext|
+        url = %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.#{ext})
+        url if verify_transcript_src(url)
+      end
     end
+  end
+
+  def verify_transcript_src(url)
+    return HTTParty.head(url).code == 200
   end
 
   def img?
@@ -534,7 +544,7 @@ class PBCorePresenter
       :instantiations, :outside_url,
       :reference_urls, :exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio, :seconds,
-      :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src,
+      :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src, :verify_transcript_src,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,

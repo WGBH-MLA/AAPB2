@@ -89,3 +89,7 @@ gem 'nokogiri', '~> 1.10.4'
 
 # its back
 gem 'bigdecimal'
+
+
+gem 'httparty'
+
