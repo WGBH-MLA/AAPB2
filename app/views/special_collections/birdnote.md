@@ -25,10 +25,16 @@ Most stories feature the natural history of birds, often framed by music, poetry
 ## Resources
 
 - [<em>BirdNote</em> Website](https://www.birdnote.org/) 
-- [Seattle Audubon Website](https://seattleaudubon.org/sas/)
-- [Cornell Lab of Ornithology](https://academy.allaboutbirds.org/)
-- [Mindful Birding](http://mindfulbirding.org/)
+- [Cornell Lab of Ornithology](https://www.allaboutbirds.org/guide/) 
+- [National Audubon](https://www.audubon.org/)
 - [American Bird Conservancy](https://abcbirds.org/)
+- [BirdLife International](https://www.birdlife.org/)
+- [Environment for the Americas](https://www.environmentamericas.org/)
+- [National Environmental Education Foundation](https://www.neefusa.org/)
+- [Endangered Species Coalition](https://endangered.org/)
+- [Partners in Flight](https://partnersinflight.org/)
+- [Ducks Unlimited](https://www.ducks.org/)
+- [Seattle Audubon](https://seattleaudubon.org/sas/)
 
 ## Funders
 
