@@ -30,10 +30,10 @@
   <!-- TODO: Doubt that these will be effective because we check the referer. -->
   <% if @pbcore.digitized? %>
     <% if @pbcore.video? %>
-      <meta property="og:video" content="http://americanarchive.org/media/<%= @pbcore.id %>" />
+      <meta property="og:video" content="http://americanarchive.org/media/<%= @pbcore.original_id %>" />
     <% end %>
     <% if @pbcore.audio? %>
-      <meta property="og:audio" content="http://americanarchive.org/media/<%= @pbcore.id %>" />
+      <meta property="og:audio" content="http://americanarchive.org/media/<%= @pbcore.original_id %>" />
     <% end %>
   <% end %>
 <% end %>

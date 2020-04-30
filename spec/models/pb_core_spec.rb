@@ -545,7 +545,7 @@ describe 'Validated and plain PBCore' do
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 1,
           # this is going to be the original id from the pbcore, because playlists do a bare solr search to look up playlist records
-          'playlist_next_id' => 'cpb-aacip/512-0r9m32nw1x',
+          'playlist_next_id' => 'cpb-aacip_512-0r9m32nw1x',
           'playlist_prev_id' => nil
         }
 
@@ -565,8 +565,8 @@ describe 'Validated and plain PBCore' do
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 2,
-          'playlist_next_id' => 'cpb-aacip/512-w66930pv96',
-          'playlist_prev_id' => 'cpb-aacip/512-gx44q7rk20'
+          'playlist_next_id' => 'cpb-aacip_512-w66930pv96',
+          'playlist_prev_id' => 'cpb-aacip_512-gx44q7rk20'
         }
 
         attrs = {
@@ -585,7 +585,7 @@ describe 'Validated and plain PBCore' do
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 3,
           'playlist_next_id' => nil,
-          'playlist_prev_id' => 'cpb-aacip/512-0r9m32nw1x'
+          'playlist_prev_id' => 'cpb-aacip_512-0r9m32nw1x'
         }
 
         attrs = {

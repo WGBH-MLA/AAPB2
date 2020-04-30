@@ -123,7 +123,8 @@ class PBCorePresenter
 
   def solr_matched_id
     @id ||= begin
-      guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
+      # need to turn '/' into '_' *on ingest* as well, for consistency with #original_id above
+      guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
 
       # check if xml guid is in database
       return guid_from_xml if verify_guid(guid_from_xml)
@@ -159,7 +160,8 @@ class PBCorePresenter
     @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
   end
   def media_srcs
-    @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
+    # need original Id - medicontroller searches solr by id
+    @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{original_id}?part=#{part}" }
   end
   CAPTIONS_ANNOTATION = 'Captions URL'.freeze
   def captions_src
