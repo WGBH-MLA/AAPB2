@@ -19,6 +19,7 @@ require_relative 'transcript_file'
 require_relative 'caption_file'
 require_relative '../helpers/application_helper'
 require_relative 'canonical_url'
+require_relative '../helpers/id_helper'
 
 class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
