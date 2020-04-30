@@ -164,7 +164,7 @@ class PBCorePresenter
     @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
   end
   def media_srcs
-    # need original ID, because MediaController searches solr by id 
+    # need original Id - medicontroller searches solr by id
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{original_id}?part=#{part}" }
   end
   CAPTIONS_ANNOTATION = 'Captions URL'.freeze
