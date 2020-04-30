@@ -25,6 +25,7 @@ class PBCorePresenter
   include XmlBacked
   include ToMods
   include ApplicationHelper
+  include IdHelper
 
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
@@ -112,18 +113,12 @@ class PBCorePresenter
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
   def original_id
-    # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
-    # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
-    # TODO: https://github.com/WGBH/AAPB2/issues/870
-
-    # .gsub('cpb-aacip-', 'cpb-aacip_')
-
-    # just normalize whats in the xml
+    # just normalize guid thats in the xml
     @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
   end
 
   def id
-    original_id.gsub(/cpb-aacip./, 'cpb-aacip-')
+    normalize_guid(original_id)
   end
 
   def solr_matched_id
@@ -181,12 +176,13 @@ class PBCorePresenter
 
   def constructed_transcript_src
     @constructed_transcript_url ||= begin
-      trans_id = id.tr('_', '-')
+      # transcript guids are expected to have -
+      trans_id = normalize_guid(id)
 
       # check if s3 transcript is a json or txt
       %w(json txt).each do |ext|
         url = %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.#{ext})
-        url if verify_transcript_src(url)
+        return url if verify_transcript_src(url)
       end
     end
   end

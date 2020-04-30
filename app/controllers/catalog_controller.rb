@@ -226,7 +226,6 @@ class CatalogController < ApplicationController
 
     # we got some dang highlit matches
     if matched_in_text_field.try(:keys).try(:present?)
-
       # overrwrite ids from solr with normalized ids
       fixed_matches = {}
       # value is unused because the presence of the guid as a key is what indicates the match
