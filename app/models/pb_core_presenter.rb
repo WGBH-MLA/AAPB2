@@ -184,7 +184,7 @@ class PBCorePresenter
       trans_id = id.tr('_', '-')
 
       # check if s3 transcript is a json or txt
-      ['json','txt'].each do |ext|
+      %w(json txt).each do |ext|
         url = %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.#{ext})
         url if verify_transcript_src(url)
       end
@@ -192,7 +192,7 @@ class PBCorePresenter
   end
 
   def verify_transcript_src(url)
-    return HTTParty.head(url).code == 200
+    HTTParty.head(url).code == 200
   end
 
   def img?
