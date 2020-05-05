@@ -15,11 +15,11 @@ Jewish American Heritage Month, instituted in 2006 through a presidential procla
 ## Featured
 
 [![BackStory: Judaism in America](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_532-h41jh3fc4q)
-[![Maryland Generations: The Jewish Experience](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_394-71ngffgx)
+[![Maryland Generations: The Jewish Experience](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-71ngffgx.jpg)](/catalog/cpb-aacip_394-71ngffgx)
 [![Jewish Humor](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_529-br8mc8sn0h)
-[![Ruth Gruber](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_522-7w6736n08f)
+[![Ruth Gruber](https://s3.amazonaws.com/americanarchive.org/special-collections/catalog/cpb-aacip_522-7w6736n08f.jpg)](/catalog/cpb-aacip_522-7w6736n08f)
 [![Anti-Semitism](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_16-js9h41k23m)
-[![Fiddler on the Roof](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_525-154dn40r4v#at_619.23963_s)
+[![Fiddler on the Roof](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_525-154dn40r4v.jpg)](/catalog/cpb-aacip_525-154dn40r4v#at_619.23963_s)
  
 ## Resources
 - [Jewish American Heritage Month](http://www.jewishheritagemonth.gov/)
