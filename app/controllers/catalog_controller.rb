@@ -191,18 +191,12 @@ class CatalogController < ApplicationController
     # the exhibit or special collection for additional display logic.
     @exhibit = exhibit_from_url
     @special_collection = special_collection_from_url
-
     # Cleans up user query for manipulation of caption text in the view.
     @query_for_captions = clean_query_for_snippet(params[:q]) if params[:q]
 
     if !params[:f] || !params[:f][:access_types]
-      base_query = params.except(:action, :controller).to_query
-      access = if current_user.onsite?
-                 PBCorePresenter::DIGITIZED_ACCESS
-               else
-                 PBCorePresenter::PUBLIC_ACCESS
-               end
-      redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
+      # Sets Access Level
+      default_search_access(params)
     else
       super
     end
@@ -230,7 +224,6 @@ class CatalogController < ApplicationController
       fixed_matches = {}
       # value is unused because the presence of the guid as a key is what indicates the match
       matched_in_text_field.map { |k, _v| fixed_matches[normalize_guid(k)] = {} }
-
       @snippets = {}
 
       @document_list.each do |solr_doc|
@@ -243,15 +236,20 @@ class CatalogController < ApplicationController
 
         # check for transcript/caption anno
         if solr_doc.transcript? && !@query_for_captions.nil?
-          @transcript_snippet = SnippetHelper::TranscriptSnippet.new('transcript' => TranscriptFile.new(solr_doc.transcript_src), 'id' => this_id, 'query' => @query_for_captions)
-          @snippets[this_id][:transcript] = @transcript_snippet.highlight_snippet
-          @snippets[this_id][:transcript_timecode_url] = @transcript_snippet.url_at_timecode
+          transcript_file = TranscriptFile.new(solr_doc.transcript_src)
+
+          if transcript_file.file_type == TranscriptFile::JSON_FILE
+            @transcript_snippet = SnippetHelper::TranscriptSnippet.new('transcript' => transcript_file, 'id' => this_id, 'query' => @query_for_captions)
+            @snippets[this_id][:transcript] = @transcript_snippet.highlight_snippet
+            @snippets[this_id][:transcript_timecode_url] = @transcript_snippet.url_at_timecode
+          elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
+            @snippets[this_id][:transcript] = snippet_from_query(@query_for_captions, transcript_file.plaintext, 250, ' ')
+          end
         elsif solr_doc.caption? && !@query_for_captions.nil?
           text = CaptionFile.new(solr_doc.captions_src).text
           @snippets[this_id][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
         end
       end
-
     end
   end
 
@@ -327,6 +325,16 @@ class CatalogController < ApplicationController
   end
 
   private
+
+  def default_search_access(params)
+    base_query = params.except(:action, :controller).to_query
+    access = if current_user.onsite?
+               PBCorePresenter::DIGITIZED_ACCESS
+             else
+               PBCorePresenter::PUBLIC_ACCESS
+             end
+    redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
+  end
 
   def exhibit_from_url
     # Despite 'exhibit' field being multi-valued in solrconfig.xml, we're only
