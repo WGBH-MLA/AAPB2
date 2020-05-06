@@ -28,6 +28,7 @@ The <em>Freedom Riders</em> interviews were conducted in 2011 for the <em>Americ
 - [<em>Freedom Riders</em> Documentary Website](http://www.pbs.org/wgbh/americanexperience/films/freedomriders/)
 - [Freedom Rides, Civil Rights History Project, Library of Congress](https://www.loc.gov/collections/civil-rights-history-project/?fa=subject%3Afreedom+rides)
 - [The Civil Rights Act of 1964: A Long Struggle for Freedom](https://www.loc.gov/exhibits/civil-rights-act/index.html)
+- [<em>Freedom Riders</em> Resources on PBS Learning Media](https://mass.pbslearningmedia.org/collection/frriders/)
 
 ## Funders
 
