@@ -22,8 +22,7 @@ Jewish American Heritage Month, instituted in 2006 through a presidential procla
 [![Fiddler on the Roof](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_525-154dn40r4v.jpg)](/catalog/cpb-aacip_525-154dn40r4v#at_619.23963_s)
 
 ## Resources
-- [Jewish American Heritage Month](http://www.jewishheritagemonth.gov/)
-- [Jewish American Heritage Month](http://www.jahm.us/)
+- [Jewish American Heritage Month](https://jewishheritagemonth.gov/)
 - [National Museum of American Jewish History](https://www.nmajh.org/)
 - [The Jewish Americans](https://www.pbs.org/jewishamericans/)
 - [From Haven to Home: 350 Years of Jewish Life in  America](https://www.loc.gov/exhibits/haventohome/)
