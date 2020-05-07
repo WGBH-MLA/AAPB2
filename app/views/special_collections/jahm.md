@@ -23,7 +23,7 @@ Jewish American Heritage Month, instituted in 2006 through a presidential procla
 
 ## Resources
 - [Jewish American Heritage Month](http://www.jewishheritagemonth.gov/)
-- [Jewish American Heritage Month](https://www.jahm.us/)
+- [Jewish American Heritage Month](http://www.jahm.us/)
 - [National Museum of American Jewish History](https://www.nmajh.org/)
 - [The Jewish Americans](https://www.pbs.org/jewishamericans/)
 - [From Haven to Home: 350 Years of Jewish Life in  America](https://www.loc.gov/exhibits/haventohome/)
