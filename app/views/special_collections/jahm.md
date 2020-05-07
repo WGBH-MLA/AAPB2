@@ -10,7 +10,7 @@ The Jewish American Heritage Month Collection provides nearly 400 public televis
 
 ## Background
 
-Jewish American Heritage Month, instituted in 2006 through a presidential proclamation, recognizes the history of Jews in America and their contributions to American life, culture, and history. During the month of May, cultural institutions throughout the nation call attention to materials in their collections relevant to Jewish life in America. The AAPB’s Jewish American Heritage Month Collection provides public television and radio programs contributed to AAPB by more than 25 stations and organizations from across the nation that are available online. Additional materials can be accessed on the premises of the Library of Congress and WGBH. 
+Jewish American Heritage Month, instituted in 2006 through a presidential proclamation, recognizes the history of Jews in America and their contributions to American life, culture, and history. During the month of May, cultural institutions throughout the nation call attention to materials in their collections relevant to Jewish life in America. The AAPB’s Jewish American Heritage Month Collection provides public television and radio programs contributed to AAPB by more than 25 stations and organizations from across the nation that are available online. Additional materials can be accessed on the premises of the Library of Congress and WGBH.
 
 ## Featured
 
@@ -20,15 +20,15 @@ Jewish American Heritage Month, instituted in 2006 through a presidential procla
 [![Ruth Gruber](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_522-7w6736n08f.jpg)](/catalog/cpb-aacip_522-7w6736n08f)
 [![Anti-Semitism](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_16-js9h41k23m)
 [![Fiddler on the Roof](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_525-154dn40r4v.jpg)](/catalog/cpb-aacip_525-154dn40r4v#at_619.23963_s)
- 
+
 ## Resources
 - [Jewish American Heritage Month](http://www.jewishheritagemonth.gov/)
-- [Jewish American Heritage Month](https://www.jahm.us/) 
+- [Jewish American Heritage Month](https://www.jahm.us/)
 - [National Museum of American Jewish History](https://www.nmajh.org/)
 - [The Jewish Americans](https://www.pbs.org/jewishamericans/)
 - [From Haven to Home: 350 Years of Jewish Life in  America](https://www.loc.gov/exhibits/haventohome/)
 - [American Jewish Historical Society](https://ajhs.org/)
-- [BackStory: Judaism in America Lesson Set](https://www.backstoryradio.org/shows/judaism-in-america/#resources) 
+- [BackStory: Judaism in America Lesson Set](https://www.backstoryradio.org/shows/judaism-in-america/#resources)
 
 ## Funders
 
@@ -41,5 +41,6 @@ The Jewish American Heritage Month Collection includes more than 30 segments fro
 ## Timeline
 
 ## Sort
-Date+asc
+
+asset_date+asc
 
