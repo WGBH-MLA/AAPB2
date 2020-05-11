@@ -41,5 +41,5 @@ The Jewish American Heritage Month Collection includes more than 30 segments fro
 
 ## Sort
 
-asset_date+asc
+title+asc
 
