@@ -13,17 +13,17 @@ class SearchBuilder < Blacklight::SearchBuilder
     title_queries = query.scan(/titles:"[^"]*"{1}/)
     # remove from rest of query
     query = query.gsub(/titles:"[^"]*"{1}/, '') if title_queries.present?
-
     exact_clauses = query.scan(/"[^"]*"/).map { |clause| exactquery(clause.delete(%("))) }
 
     if exact_clauses.present?
       clean_query = query.gsub(/"[^"]*"/, '')
-      solr_parameters[:q] = %(#{exact_clauses.join(' ')}#{clean_query})
+      clean_query = clean_query.split(' OR ').compact.join(' OR ')
+      solr_parameters[:q] = %(#{exact_clauses.join(' ')} #{clean_query})
 
       # readd title queries back in if necessary
       solr_parameters[:q] += %( #{title_queries.join(' ')}) if title_queries.present?
     end
-    
+
     solr_parameters
   end
 
@@ -90,7 +90,7 @@ class SearchBuilder < Blacklight::SearchBuilder
                     genres_unstemmed
                     topics_unstemmed
                   )
-    %(+(#{fieldnames.map { |fieldname| %(#{fieldname}:"#{string}") }.join(' OR ')}))
+    %((#{fieldnames.map { |fieldname| %(#{fieldname}:"#{string}") }.join(' OR ')}))
   end
 
 
