@@ -2,12 +2,12 @@ require 'spec_helper'
 require 'caption_converter'
 
 describe CaptionConverter do
-  let(:srt) { File.read('./spec/fixtures/captions/srt/example_1.srt') }
+  let(:srt) { File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt') }
   let(:invalid_srt) { File.read('./spec/fixtures/captions/srt/invalid_1.srt') }
-  let(:vtt) { File.read('./spec/fixtures/captions/web_vtt/example_1.vtt') }
-  let(:html) { File.read('./spec/fixtures/captions/html/example_1.html') }
-  let(:text) { File.read('./spec/fixtures/captions/text/example_1.txt') }
-  let(:json) { JSON.parse(File.read('./spec/fixtures/captions/json/example_1.json')) }
+  let(:vtt) { File.read('./spec/fixtures/captions/web_vtt/1a2b.vtt') }
+  let(:html) { File.read('./spec/fixtures/captions/html/1a2b.html') }
+  let(:text) { File.read('./spec/fixtures/captions/text/1a2b.txt') }
+  let(:json) { File.read('./spec/fixtures/captions/json/1a2b.json') }
 
   describe '.parse_srt' do
     it 'returns an instance of SRT::File with parsed SRT, and no errors' do
@@ -23,25 +23,25 @@ describe CaptionConverter do
 
   describe '.srt_to_vtt' do
     it 'converts a caption in SRT format to WebVTT format' do
-      expect(CaptionConverter.srt_to_vtt(srt)).to eq vtt
+      expect(CaptionConverter.srt_to_vtt(srt)).to include vtt
     end
   end
 
   describe '.srt_to_vtt' do
     it 'converts a caption in SRT format to html' do
-      expect(CaptionConverter.srt_to_transcript(srt).to_html).to eq html
+      expect(CaptionConverter.srt_to_transcript(srt).to_html).to include html
     end
   end
 
   describe '.srt_to_text' do
     it 'converts the text from a caption to text' do
-      expect(CaptionConverter.srt_to_text(srt)).to eq text
+      expect(CaptionConverter.srt_to_text(srt)).to include text
     end
   end
 
   describe '.srt_to_json' do
     it 'converts a caption in SRT format to JSON' do
-      expect(JSON.parse(CaptionConverter.srt_to_json(srt))).to eq json
+      expect(CaptionConverter.srt_to_json(srt)).to include json
     end
   end
 end

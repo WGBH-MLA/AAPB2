@@ -4,7 +4,7 @@ class CaptionsController < ApplicationController
   def show
     @response, @document = fetch(params['id'])
     pbcore = PBCorePresenter.new(@document['xml'])
-    caption_file = CaptionFile.new(pbcore.captions_src)
+    caption_file = CaptionFile.new(pbcore.id)
 
     respond_to do |format|
       format.html do

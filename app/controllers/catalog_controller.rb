@@ -246,7 +246,7 @@ class CatalogController < ApplicationController
             @snippets[this_id][:transcript] = snippet_from_query(@query_for_captions, transcript_file.plaintext, 250, ' ')
           end
         elsif solr_doc.caption? && !@query_for_captions.nil?
-          text = CaptionFile.new(solr_doc.captions_src).text
+          text = CaptionFile.new(solr_doc.id).text
           @snippets[this_id][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
         end
       end
@@ -289,7 +289,7 @@ class CatalogController < ApplicationController
             end
           elsif @document.caption?
             # use SRT when transcript not available
-            @transcript_content = CaptionFile.new(@document.captions_src).html
+            @transcript_content = CaptionFile.new(@document.id).html
           end
 
           # how shown are we talkin here?
