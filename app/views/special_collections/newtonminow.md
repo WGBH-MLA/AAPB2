@@ -22,9 +22,9 @@ Trained as an attorney, Newton Minow was appointed as FCC Chairman by President 
 
 ## Featured
 
-[![Ethic for Broadcasting](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_TVtile.jpg)](/ (/catalog/cpb-aacip_500-kw57jd6j)
+[![Ethic for Broadcasting](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_TVtile.jpg)] (/catalog/cpb-aacip_500-kw57jd6j)
 [![The Carnegie Commission](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_TVtile.jpg)](/catalog/cpb-aacip_507-707wm14c2g)
-[![North Carolina Now](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_TVtile.jpg)] (/catalog/cpb-aacip_129-09j3v33q#at_1173.159414_s)
+[![North Carolina Now](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_TVtile.jpg)](/catalog/cpb-aacip_129-09j3v33q#at_1173.159414_s)
 [![Public Television Hearings](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_TVtile.jpg)](/catalog/cpb-aacip_15-07tmpp7v)
 [![New Vistas for Television](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_TVtile.jpg)](/catalog/cpb-aacip_15-451g1x4f)
 [![Medal of Freedom, NewsHour](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_TVtile.jpg)](/catalog/cpb-aacip_525-gx44q7rv3h#at_3150.040405_s)
