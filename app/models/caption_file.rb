@@ -10,7 +10,6 @@ class CaptionFile
   def initialize(id)
     @id = id
     @captions_src = captions_src
-    @file_type = parse_src_extension
   end
 
   # Always use vtt for display which will convert srt to vtt
@@ -30,6 +29,15 @@ class CaptionFile
     rescue OpenURI::HTTPError
       nil
     end
+  end
+
+  def file_type
+    @file_type ||= begin
+                     return nil if captions_src.nil?
+                     return "srt" if File.extname(captions_src) == ".srt"
+                     return "vtt" if File.extname(captions_src) == ".vtt"
+                     nil
+                   end
   end
 
   def vtt?

@@ -2,12 +2,12 @@ require 'spec_helper'
 require 'caption_converter'
 
 describe CaptionConverter do
-  let(:srt) { File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt') }
+  let(:srt) { File.read('./spec/fixtures/captions/srt/srt_example.srt') }
   let(:invalid_srt) { File.read('./spec/fixtures/captions/srt/invalid_1.srt') }
-  let(:vtt) { File.read('./spec/fixtures/captions/web_vtt/1a2b.vtt') }
-  let(:html) { File.read('./spec/fixtures/captions/html/1a2b.html') }
-  let(:text) { File.read('./spec/fixtures/captions/text/1a2b.txt') }
-  let(:json) { File.read('./spec/fixtures/captions/json/1a2b.json') }
+  let(:vtt) { File.read('./spec/fixtures/captions/web_vtt/vtt_example.vtt') }
+  let(:html) { File.read('./spec/fixtures/captions/html/html_example.html') }
+  let(:text) { File.read('./spec/fixtures/captions/text/text_example.txt') }
+  let(:json) { File.read('./spec/fixtures/captions/json/json_example.json') }
 
   describe '.parse_srt' do
     it 'returns an instance of SRT::File with parsed SRT, and no errors' do
