@@ -11,7 +11,7 @@ Most stories feature the natural history of birds, often framed by music, poetry
 
 ## Background
 
-<em>BirdNote</em> began in 2004 under the auspices of Seattle Audubon. In February 2005, the first show was broadcast by KPLU 88.5FM (now KNKX 88.5FM), an NPR member station in Seattle/Tacoma. <em>BirdNote</em> quickly achieved success as an independent media producer and distributor, expanding public radio carriage across the U.S. In 2006, <em>BirdNote</em> became a 501(c)(3) nonprofit. <em>BirdNote</em> began submitting episodes to the American Archive of Public Broadcasting in 2019, and materials continue to be added to this collection. 
+<em>BirdNote</em> began in 2004 under the auspices of Seattle Audubon. In February 2005, the first show was broadcast by KPLU 88.5FM (now KNKX 88.5FM), an NPR member station in Seattle/Tacoma. <em>BirdNote</em> quickly achieved success as an independent media producer and distributor, expanding public radio carriage across the U.S. In 2006, <em>BirdNote</em> became a 501(c)(3) nonprofit. <em>BirdNote</em> began submitting episodes to the American Archive of Public Broadcasting in 2019, and materials continue to be added to this collection.  
 
 ## Featured
 
