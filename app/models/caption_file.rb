@@ -65,7 +65,6 @@ class CaptionFile
 
   # THESE METHODS WOULD NEVER WORK FOR A VTT FILE
   # BEGIN
-
   def html
     return nil if vtt?
     transcript_data = CaptionConverter.srt_to_transcript(srt)
@@ -82,7 +81,6 @@ class CaptionFile
     return nil if vtt?
     @json ||= CaptionConverter.srt_to_json(srt)
   end
-
   # END
 
   def captions_from_query(query)
