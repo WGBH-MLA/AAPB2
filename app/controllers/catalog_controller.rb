@@ -232,6 +232,7 @@ class CatalogController < ApplicationController
         # only respond if highlighting set has this guid
         next unless fixed_matches[this_id]
 
+        caption_file = CaptionFile.new(solr_doc.id)
         @snippets[this_id] = {}
 
         # check for transcript/caption anno
@@ -245,8 +246,10 @@ class CatalogController < ApplicationController
           elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
             @snippets[this_id][:transcript] = snippet_from_query(@query_for_captions, transcript_file.plaintext, 250, ' ')
           end
-        elsif solr_doc.caption? && !@query_for_captions.nil?
-          text = CaptionFile.new(solr_doc.captions_src).text
+        end
+
+        if !caption_file.captions_src.nil? && !@query_for_captions.nil?
+          text = caption_file.text
           @snippets[this_id][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
         end
       end
@@ -272,24 +275,23 @@ class CatalogController < ApplicationController
       format.html do
         @pbcore = PBCorePresenter.new(xml)
         @skip_orr_terms = can? :skip_tos, @pbcore
+        @caption_file = CaptionFile.new(@document.id)
+
         if can? :play, @pbcore
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
         end
 
         if can? :access_transcript, @pbcore
-
           # something to show?
           if @document.transcript?
-
             @transcript_content = TranscriptFile.new(@pbcore.transcript_src).html
-
             if @pbcore.transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
               @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
             end
-          elsif @document.caption?
+          elsif !@caption_file.captions_src.nil?
             # use SRT when transcript not available
-            @transcript_content = CaptionFile.new(@document.captions_src).html
+            @transcript_content = @caption_file.html
           end
 
           # how shown are we talkin here?

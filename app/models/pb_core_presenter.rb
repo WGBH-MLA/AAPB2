@@ -310,7 +310,7 @@ class PBCorePresenter
     return nil unless transcript_src
     transcript_file = TranscriptFile.new(transcript_src)
     return transcript_file.content if transcript_file
-    caption_file = CaptionFile.new(captions_src)
+    caption_file = CaptionFile.new(id)
     return caption_file.json if caption_file && caption_file.json
     nil
   end
@@ -457,15 +457,18 @@ class PBCorePresenter
                             '//pbcoreDescription[last()]'
                           ].detect { |xp| xpaths(xp).count > 0 }
 
-    caption_response = !captions_src.nil? ? Net::HTTP.get_response(URI.parse(captions_src)) : nil
-    if !caption_response.nil? && caption_response.code == '200'
+    # This verifies that there is a corresponding file on S3 and adds
+    # a PBCore annotation required for AAPB but not coming from AMS or AMS2
+    captions = CaptionFile.new(id)
+    unless captions.captions_src.nil?
       pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      caption_body = parse_caption_body(CaptionConverter.srt_to_text(caption_response.body))
+
+      caption_body = captions.text
 
       cap_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
         el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-        el.add_text(captions_src)
+        el.add_text(captions.captions_src)
       end
 
       full_doc.insert_after(spot_for_annotations, cap_anno)

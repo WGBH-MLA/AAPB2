@@ -3,7 +3,7 @@
   <script src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
   <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
-  
+
   <%= javascript_include_tag 'videojs-offset.min' %>
   <%= javascript_include_tag 'transcript' %>
   <%= javascript_include_tag 'mobile-transcript' %>
@@ -38,7 +38,7 @@
 
               <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
-              <% if @pbcore.captions_src %>
+              <% unless @caption_file.captions_src.nil? %>
                 <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
               <% end %>
               <% if ChapterFile.file_present?(@pbcore.id) %>
@@ -69,7 +69,7 @@
                   <span class="slider round"></span>
                 </label>
 
-                <span style="font-size: 12px;">Share A Segment</span>  
+                <span style="font-size: 12px;">Share A Segment</span>
               </span>
             <% end %>
           </div>
