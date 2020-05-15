@@ -5,7 +5,7 @@ require_relative '../../lib/caption_converter'
 class CaptionFile
   URL_BASE = 'https://s3.amazonaws.com/americanarchive.org/captions'.freeze
 
-  attr_reader :id, :captions_src, :file_type
+  attr_reader :id, :captions_src
 
   def initialize(id)
     @id = id
@@ -56,13 +56,6 @@ class CaptionFile
   def captions_src
     return vtt_url if caption_file_present?(vtt_url)
     return srt_url if caption_file_present?(srt_url)
-    nil
-  end
-
-  def parse_src_extension
-    return nil if captions_src.nil?
-    return "srt" if File.extname(captions_src) == ".srt"
-    return "vtt" if File.extname(captions_src) == ".vtt"
     nil
   end
 
