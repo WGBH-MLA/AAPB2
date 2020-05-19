@@ -4,7 +4,7 @@ class CatalogController < ApplicationController
   include Blacklight::Catalog
   include ApplicationHelper
   include SnippetHelper
-  include IdHelper
+  include BlacklightGUIDFetcher
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
@@ -257,18 +257,8 @@ class CatalogController < ApplicationController
   end
 
   def show
-    begin
-      # try to look up exactly what they gave us...
-      @response, @document = fetch(params['id'])
-
-      # have to do this because blacklight handles its 404s by throwing this exception :/
-    rescue Blacklight::Exceptions::RecordNotFound
-
-      # if it wasn't found, run through our other possible URL styles for guids
-      @response, @document = find_from_all_id_styles(params['id'])
-      # manually reraise because we didn't find with any of our id permutations
-      raise Blacklight::Exceptions::RecordNotFound unless @response
-    end
+    # From BlacklightGUIDFetcher
+    @response, @document = fetch_from_blacklight(params['id'])
 
     xml = @document['xml']
     respond_to do |format|
