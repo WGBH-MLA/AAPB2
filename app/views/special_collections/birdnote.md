@@ -15,12 +15,12 @@ Most stories feature the natural history of birds, often framed by music, poetry
 
 ## Featured
 
-[![Father Birds](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip_8516504cf53)
-[![Hearing Loss](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip_2211b2154b9)
-[![Birdwatcher Lingo](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb_aacip-143e6c9e31a)
-[![Cuban Giant Owls](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb_aacip-328f88ce4fb)
-[![City Gulls](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip_69957fc5b07)
-[![Auklet’s Whiskers](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb_aacip-e9b3ada95da)
+[![Father Birds](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip-8516504cf53)
+[![Hearing Loss](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip-2211b2154b9)
+[![Birdwatcher Lingo](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip-143e6c9e31a)
+[![Cuban Giant Owls](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip-328f88ce4fb)
+[![City Gulls](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip-69957fc5b07)
+[![Auklet’s Whiskers](https://s3.amazonaws.com/americanarchive.org/special-collections/BirdNoteLOC_tile.jpg)](/catalog/cpb-aacip-e9b3ada95da)
 
 ## Resources
 
