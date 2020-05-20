@@ -7,7 +7,7 @@
 ## Summary
 
 The <em>BirdNote</em> Collection contains audio files and transcripts from <em>BirdNote</em>, a daily public media program that brings joy, inspiration, and hope to people who value birds and the environment. Each episode is approximately two minutes long, immersing listeners in the amazing lives and sounds of birds. Blending art, science, nature, and messages of conservation successes, <em>BirdNote</em> has covered hundreds of species of birds. The program reaches millions of listeners around the world through digital distribution and radio broadcasts. <em>BirdNote</em>’s talented writers have created more than 1,500 stories, rigorously reviewed by a team of science advisors. The stories come alive through the sounds of nature from the Macaulay Library at the Cornell Lab or Ornithology. Each episode is complemented by photographs on the <em>BirdNote</em> website, all contributed by nature photographers. 
-Most stories feature the natural history of birds, often framed by music, poetry, literature, history, culture, or humor. Other stories touch on environmental issues such as habitat loss and climate change, as they relate to birds. All incorporate appropriate bird songs and calls.
+Most stories feature the natural history of birds, often framed by music, poetry, literature, history, culture, or humor. Other stories touch on environmental issues such as habitat loss and climate change, as they relate to birds. All incorporate appropriate bird songs and calls. 
 
 ## Background
 
