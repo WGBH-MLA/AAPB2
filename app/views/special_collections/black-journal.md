@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Black Journal](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_524-2n4zg6h00x.jpg "Black Journal") 
+![Black Journal](https://s3.amazonaws.com/americanarchive.org/special-collections/blackjournal.png "Black Journal") 
 
 ## Summary
 
@@ -39,4 +39,10 @@ The <em>Black Journal</em> Collection contains 69 episodes from the <em>Black Jo
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
 
 ## Terms
+
+## Timeline
+
+## Sort
+
+title+asc
 
