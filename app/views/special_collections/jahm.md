@@ -41,5 +41,4 @@ The Jewish American Heritage Collection includes more than 30 segments from loca
 
 ## Sort
 
-asset_date+asc
-
+title+asc
