@@ -25,12 +25,12 @@ The <em>Black Journal</em> Collection contains 69 episodes from the <em>Black Jo
 
 ## Resources
 
--[Black Power, National Archives](https://www.archives.gov/research/african-americans/black-power)
--[The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
--[Black Diaspora Archive, University of Texas at Austin](https://sites.utexas.edu/bda/collaborators/)
--[The Black Panther Party, National Archives](https://www.archives.gov/research/african-americans/black-power/black-panthers) 
--[The Malcolm X Collection, New York Public Library](http://archives.nypl.org/scm/21896)
--[Black Power Exhibit, AAPB](UPCOMING!)
+- [Black Power, National Archives](https://www.archives.gov/research/african-americans/black-power)
+- [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
+- [Black Diaspora Archive, University of Texas at Austin](https://sites.utexas.edu/bda/collaborators/)
+- [The Black Panther Party, National Archives](https://www.archives.gov/research/african-americans/black-power/black-panthers) 
+- [The Malcolm X Collection, New York Public Library](http://archives.nypl.org/scm/21896)
+- [Black Power Exhibit, AAPB](UPCOMING!)
 
 ## Funders
 
