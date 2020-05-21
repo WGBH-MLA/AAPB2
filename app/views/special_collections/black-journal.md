@@ -30,7 +30,7 @@ The <em>Black Journal</em> Collection features episodes from the <em>Black Journ
 - [Black Diaspora Archive, University of Texas at Austin](https://sites.utexas.edu/bda/collaborators/)
 - [The Black Panther Party, National Archives](https://www.archives.gov/research/african-americans/black-power/black-panthers) 
 - [The Malcolm X Collection, New York Public Library](http://archives.nypl.org/scm/21896)
-- [Black Power Exhibit, AAPB](UPCOMING!)
+- [Black Power Exhibit, AAPB](https://americanarchive.org/exhibits/black-power)
 
 ## Funders
 
