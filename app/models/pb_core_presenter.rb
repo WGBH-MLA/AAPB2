@@ -108,42 +108,22 @@ class PBCorePresenter
     @episode_number_sort ||= titles.select { |title| title[0] == "Episode Number" }.map(&:last).sort.first
   end
   def exhibits
-    @exhibits ||= Exhibit.find_all_by_item_id(id)
+    @exhibits ||= id_styles(id).map { |style| Exhibit.find_all_by_item_id(style) }.flatten
+  end
+  def top_exhibits
+    @top_exhibits ||= id_styles(id).map { |style| Exhibit.find_top_by_item_id(style) }.flatten
   end
   def special_collections
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
   def original_id
     # just normalize guid thats in the xml
-    @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
+    @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
   end
-
+  # Normalizes to dash
   def id
     normalize_guid(original_id)
   end
-
-  def solr_matched_id
-    @id ||= begin
-      # need to turn '/' into '_' *on ingest* as well, for consistency with #original_id above
-      guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
-
-      # check if xml guid is in database
-      return guid_from_xml if verify_guid(guid_from_xml)
-
-      # check if _ or - or / variant is in database
-      id_styles(guid_from_xml).tap { |ids| ids.delete(guid_from_xml) }.each do |style|
-        return style if verify_guid(style)
-      end
-
-      # if no id match found, we're ingesting new record, so return original attempt
-      guid_from_xml
-    end
-  end
-
-  def verify_guid(guid)
-    Solr.instance.connect.get('select', params: { q: "id:#{guid}" })['response']['numFound'] > 0
-  end
-
   SONY_CI = 'Sony Ci'.freeze
   def ids
     @ids ||= begin
@@ -160,9 +140,9 @@ class PBCorePresenter
   def display_ids
     @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
   end
+  # Uses normalized GUID
   def media_srcs
-    # need original Id - medicontroller searches solr by id
-    @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{original_id}?part=#{part}" }
+    @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
   CAPTIONS_ANNOTATION = 'Captions URL'.freeze
   def captions_src
@@ -176,7 +156,6 @@ class PBCorePresenter
   rescue NoMatchError
     nil
   end
-
   def constructed_transcript_src
     @constructed_transcript_url ||= begin
       # transcript guids are expected to have -
@@ -189,15 +168,12 @@ class PBCorePresenter
       end
     end
   end
-
   def verify_transcript_src(url)
     HTTParty.head(url).code == 200
   end
-
   def img?
     media_type == MOVING_IMAGE && digitized?
   end
-
   def img_src(icon_only = false)
     @img_src ||= begin
       url = nil
@@ -487,8 +463,7 @@ class PBCorePresenter
     end
 
     {
-      # use #solr_matched_id to match input guid to any equivalent permutation already stored in solr
-      'id' => solr_matched_id,
+      'id' => id,
       'xml' => Formatter.instance.format(full_doc),
 
       # constrained searches:
@@ -538,14 +513,13 @@ class PBCorePresenter
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
       :instantiations, :outside_url,
-      :reference_urls, :exhibits, :special_collections, :access_level_description,
+      :reference_urls, :exhibits, :top_exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio, :seconds,
       :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src, :verify_transcript_src,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
-      :verify_guid, :original_id, :solr_matched_id
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl, :original_id
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
