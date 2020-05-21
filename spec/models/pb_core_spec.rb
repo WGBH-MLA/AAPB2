@@ -123,9 +123,10 @@ describe 'Validated and plain PBCore' do
 
     describe '.to_solr' do
       it 'constructs values for solr_document from pbcore xml' do
-        expect(pbc.to_solr).to eq(
-          'id' => '1234',
-          'xml' => pbc_xml,
+        pbc_to_solr_hash = pbc.to_solr
+
+        expected_attrs = {
+          'id' => 'cpb-aacip-1234',
           'episode_number_titles' => ['3-2-1'],
           'episode_number_sort' => '3-2-1',
           'episode_titles' => ['Kaboom!'],
@@ -133,7 +134,7 @@ describe 'Validated and plain PBCore' do
           'series_titles' => ['Nova'],
           'special_collections' => [],
           'text' => [
-            '1234', '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "male narrator: IN THE SUMMER OF 1957, LITTLE ROCK, ARKANSAS, WAS CONSIDERED A MODERATE SOUTHERN CITY. THINGS WERE PRETTY NORMAL THERE AS FAMILIES BEGAN TO PREPARE FOR THE COMING SCHOOL YEAR. HOWEVER, THE SHOCKING TRUTH WAS THAT THE CIVIL RIGHTS STRUGGLE HAD COME TO LITTLE ROCK'S CENTRAL HIGH SCHOOL. Captioning byCaptionMax www.captionmax.com"],
+            '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'cpb-aacip-1234', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "male narrator: IN THE SUMMER OF 1957, LITTLE ROCK, ARKANSAS, WAS CONSIDERED A MODERATE SOUTHERN CITY. THINGS WERE PRETTY NORMAL THERE AS FAMILIES BEGAN TO PREPARE FOR THE COMING SCHOOL YEAR. HOWEVER, THE SHOCKING TRUTH WAS THAT THE CIVIL RIGHTS STRUGGLE HAD COME TO LITTLE ROCK'S CENTRAL HIGH SCHOOL. Captioning byCaptionMax www.captionmax.com"],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
           'contribs' => %w(Larry WGBH Stooges Stooges Curly Stooges Moe Stooges),
@@ -150,7 +151,13 @@ describe 'Validated and plain PBCore' do
           'states' => ['Massachusetts'],
           'access_types' => [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
           'asset_date' => '2000-01-01T00:00:00Z'
-        )
+        }
+
+        expected_attrs.each do |attr, value|
+          expect(pbc_to_solr_hash[attr]).to eq(value)
+        end
+
+        expect { ValidatedPBCore.new(pbc_to_solr_hash['xml']) }.not_to raise_error
       end
     end
 
@@ -253,19 +260,19 @@ describe 'Validated and plain PBCore' do
 
     describe '.id' do
       it 'returns the id from the pbcore xml' do
-        expect(pbc.id).to eq('1234')
+        expect(pbc.id).to eq('cpb-aacip-1234')
       end
     end
 
     describe '.ids' do
       it 'returns the ids from the pbcore xml' do
-        expect(pbc.ids).to eq([['AAPB ID', '1234'], ['somewhere else', '5678']])
+        expect(pbc.ids).to eq([['AAPB ID', 'cpb-aacip-1234'], ['somewhere else', '5678']])
       end
     end
 
     describe '.display_ids' do
       it 'returns the display ids from the pbcore xml' do
-        expect(pbc.display_ids).to eq([['AAPB ID', '1234']])
+        expect(pbc.display_ids).to eq([['AAPB ID', 'cpb-aacip-1234']])
       end
     end
 
@@ -277,7 +284,7 @@ describe 'Validated and plain PBCore' do
 
     describe '.media_srcs' do
       it 'returns the media srcs from the pbcore xml' do
-        expect(pbc.media_srcs).to eq(['/media/1234?part=1', '/media/1234?part=2'])
+        expect(pbc.media_srcs).to eq(['/media/cpb-aacip-1234?part=1', '/media/cpb-aacip-1234?part=2'])
       end
     end
 
@@ -289,7 +296,7 @@ describe 'Validated and plain PBCore' do
 
     describe '.img_src' do
       it 'returns the image src from the pbcore xml' do
-        expect(pbc.img_src).to eq("#{AAPB::S3_BASE}/thumbnail/1234.jpg")
+        expect(pbc.img_src).to eq("#{AAPB::S3_BASE}/thumbnail/cpb-aacip_1234.jpg")
       end
     end
 
@@ -301,7 +308,7 @@ describe 'Validated and plain PBCore' do
 
     describe '.captions_src' do
       it 'returns the captions src from the pbcore xml' do
-        expect(pbc.captions_src).to eq('https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt')
+        expect(pbc.captions_src).to eq('https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-1234/cpb-aacip-1234.srt1.srt')
       end
     end
 
@@ -545,7 +552,7 @@ describe 'Validated and plain PBCore' do
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 1,
           # this is going to be the original id from the pbcore, because playlists do a bare solr search to look up playlist records
-          'playlist_next_id' => 'cpb-aacip_512-0r9m32nw1x',
+          'playlist_next_id' => 'cpb-aacip-512-0r9m32nw1x',
           'playlist_prev_id' => nil
         }
 
@@ -565,8 +572,8 @@ describe 'Validated and plain PBCore' do
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 2,
-          'playlist_next_id' => 'cpb-aacip_512-w66930pv96',
-          'playlist_prev_id' => 'cpb-aacip_512-gx44q7rk20'
+          'playlist_next_id' => 'cpb-aacip-512-w66930pv96',
+          'playlist_prev_id' => 'cpb-aacip-512-gx44q7rk20'
         }
 
         attrs = {
@@ -585,7 +592,7 @@ describe 'Validated and plain PBCore' do
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 3,
           'playlist_next_id' => nil,
-          'playlist_prev_id' => 'cpb-aacip_512-0r9m32nw1x'
+          'playlist_prev_id' => 'cpb-aacip-512-0r9m32nw1x'
         }
 
         attrs = {

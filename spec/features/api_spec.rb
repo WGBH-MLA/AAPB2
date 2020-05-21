@@ -10,13 +10,13 @@ describe 'API' do
 
   describe 'good queries' do
     it 'retrieves single pbcore docs' do
-      visit '/api/1234.xml'
+      visit '/api/cpb-aacip-1234.xml'
       expect(page.status_code).to eq 200
       expect(page.body).to match('<pbcoreDescriptionDocument')
     end
 
     it 'retrieves individual documents / default callback' do
-      visit '/api.js?rows=1&q=id:1234&fl=id,title'
+      visit '/api.js?rows=1&q=id:cpb-aacip-1234&fl=id,title'
       expect(page.status_code).to eq 200
       expect(page).to have_text('callback({ "responseHeader"'), missing_page_text_custom_error('callback({ "responseHeader"', page.current_path)
       expect(page).to have_text('"rows": "1"'), missing_page_text_custom_error('"rows": "1"', page.current_path)

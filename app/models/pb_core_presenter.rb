@@ -108,33 +108,22 @@ class PBCorePresenter
     @episode_number_sort ||= titles.select { |title| title[0] == "Episode Number" }.map(&:last).sort.first
   end
   def exhibits
-    @exhibits ||= Exhibit.find_all_by_item_id(id)
+    @exhibits ||= id_styles(id).map { |style| Exhibit.find_all_by_item_id(style) }.flatten
+  end
+  def top_exhibits
+    @top_exhibits ||= id_styles(id).map { |style| Exhibit.find_top_by_item_id(style) }.flatten
   end
   def special_collections
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
-
-
-
-
-
-  # Can we get rid of this? no?
   def original_id
     # just normalize guid thats in the xml
     @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
   end
-
   # Normalizes to dash
   def id
     normalize_guid(original_id)
   end
-
-
-
-  # def verify_guid(guid)
-  #   Solr.instance.connect.get('select', params: { q: "id:#{guid}" })['response']['numFound'] > 0
-  # end
-
   SONY_CI = 'Sony Ci'.freeze
   def ids
     @ids ||= begin
@@ -151,19 +140,10 @@ class PBCorePresenter
   def display_ids
     @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
   end
-
-
-
-
   # Uses normalized GUID
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
-
-
-
-
-
   CAPTIONS_ANNOTATION = 'Captions URL'.freeze
   def captions_src
     @captions_src ||= xpath("/*/pbcoreAnnotation[@annotationType='#{CAPTIONS_ANNOTATION}']")
@@ -176,7 +156,6 @@ class PBCorePresenter
   rescue NoMatchError
     nil
   end
-
   def constructed_transcript_src
     @constructed_transcript_url ||= begin
       # transcript guids are expected to have -
@@ -189,15 +168,12 @@ class PBCorePresenter
       end
     end
   end
-
   def verify_transcript_src(url)
     HTTParty.head(url).code == 200
   end
-
   def img?
     media_type == MOVING_IMAGE && digitized?
   end
-
   def img_src(icon_only = false)
     @img_src ||= begin
       url = nil
@@ -543,7 +519,7 @@ class PBCorePresenter
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
       :instantiations, :outside_url,
-      :reference_urls, :exhibits, :special_collections, :access_level_description,
+      :reference_urls, :exhibits, :top_exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio, :seconds,
       :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src, :verify_transcript_src,
       :playlist_group, :playlist_order, :playlist_map,

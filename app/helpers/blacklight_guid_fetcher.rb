@@ -6,12 +6,12 @@ module BlacklightGUIDFetcher
   def fetch_from_blacklight(guid)
     id_styles(guid).each do |style|
       begin
-        puts style
         resp, docs = fetch(style)
         return [resp, docs] if resp && docs
       rescue Blacklight::Exceptions::RecordNotFound
-        nil
+        next
       end
     end
+    [nil, nil]
   end
 end

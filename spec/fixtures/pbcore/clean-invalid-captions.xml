@@ -1,7 +1,7 @@
 <pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
 <pbcoreIdentifier source="MARS Asset Record ID">A_UO1JCDWLZEXTVY0</pbcoreIdentifier>
 <pbcoreIdentifier source="MARS Source Creation Order">202109</pbcoreIdentifier>
-<pbcoreIdentifier source="http://americanarchiveinventory.org">invalid_1</pbcoreIdentifier>
+<pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip-invalid_1</pbcoreIdentifier>
 <pbcoreIdentifier source="Sony Ci">4ee1a2808f7d43cbb5039b73cb402bd3</pbcoreIdentifier>
 <pbcoreTitle titleType="Series">Dance for Camera</pbcoreTitle>
 <pbcoreTitle titleType="Program">Tzaddik</pbcoreTitle>
@@ -34,7 +34,7 @@ Ch 1 Full Mix; Ch 2 Full Mix; Ch 3 Full Mix; Ch 4 Full Mix
 </instantiationExtension>
 </pbcoreInstantiation>
 <pbcoreAnnotation annotationType="Captions URL">
-  https://s3.amazonaws.com/americanarchive.org/captions/invalid_1.srt/invalid_1.srt1.srt
+  https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-invalid_1.srt/cpb-aacip-invalid_1.srt1.srt
 </pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Level of User Access">On Location</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="last_modified">2013-06-22 16:10:07</pbcoreAnnotation>

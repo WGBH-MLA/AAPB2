@@ -265,7 +265,7 @@ class CatalogController < ApplicationController
       format.html do
         @pbcore = PBCorePresenter.new(xml)
         @skip_orr_terms = can? :skip_tos, @pbcore
-        @caption_file = CaptionFile.new(@document.id)
+        @caption_file = CaptionFile.new(@document["id"])
 
         if can? :play, @pbcore
           # can? play because we're inside this block
@@ -299,7 +299,7 @@ class CatalogController < ApplicationController
           @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
         end
 
-        @exhibits = Exhibit.find_top_by_item_id(@pbcore.original_id)
+        @exhibits = @pbcore.top_exhibits
 
         render
       end

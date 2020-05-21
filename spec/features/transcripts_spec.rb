@@ -13,7 +13,7 @@ describe 'Transcripts' do
   # xit due to fact we re-organized Captions and Transcripts
   describe '#show' do
     xit 'renders SRT as HTML' do
-      visit '/transcripts/1234'
+      visit '/transcripts/cpb-aacip-1234'
       expect(page).to have_text('Raw bytes 0-255 follow'), missing_page_text_custom_error('Raw bytes 0-255 follow', page.current_path)
     end
   end
