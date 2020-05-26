@@ -1,8 +1,8 @@
-# Newton Minow
+# Broadcasting in the Public Interest: The Newton Minow Collection
 
 ## Thumbnail
 
-![Newton Minow](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_mainimage.png "Newton Minow")
+![Broadcasting in the Public Interest: The Newton Minow Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Minow_mainimage.png "Newton Minow")
 
 ## Summary
 
