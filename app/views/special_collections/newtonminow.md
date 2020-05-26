@@ -43,7 +43,7 @@ Trained as an attorney, Newton Minow was appointed as FCC Chairman by President 
  
 ## Help
 
-Records are described at an item level and all records contain brief descriptions. All records are sorted by their titles but many also include dates, locations, and important people featured in the piece. 
+Records are described at an item level and all records contain brief descriptions. All records include titles but many also include dates, locations, and important people featured in the piece. 
 
 ## Terms 
 
