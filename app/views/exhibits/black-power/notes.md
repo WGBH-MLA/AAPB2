@@ -6,11 +6,11 @@
 
 ### Notes to Televising Black Politics in the Black Power Era
 
-<a name="1"></a><sup>1</sup> Kerner Commission, 1.
+<a name="1"></a><sup>1</sup> United States. National Advisory Commission on Civil Disorders, *Report* (Washington, DC: Government Printing Office), 1; https://babel.hathitrust.org/cgi/pt?id=mdp.39015000225410&view=1up&seq=23. 
 
-<a name="2"></a><sup>2</sup> Kennedy, Robert Jr., 171-172.
+<a name="2"></a><sup>2</sup> Aniko Bodroghkozy, *Equal Time: Television and the Civil Rights Movement* (Urbana, IL: University of Illinois Press, 2012); Robert J. Donovan and Ray Scherer, *Unsilent Revolution: Television News and American Public Life, 1948-1991* (Cambridge, UK: Cambridge University Press, 1992), 17; Mary Dudziak, *Cold War Civil Rights: Race and the Image of American Democracy* (Princeton: Princeton University Press, 2000).
 
-<a name ="3"></a><sup>3</sup> Bodroghkozy, 149.
+<a name ="3"></a><sup>3</sup> National Advisory Commission on Civil Disorders, *Report*.
 
 <a name="4"></a><sup>4</sup> Donovan and Scherer, 8.
 
