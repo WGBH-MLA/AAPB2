@@ -1,4 +1,4 @@
-# Televising Black Power Politics in the Black Power Era *Black Journal* and *Soul!*
+# Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*
 
 ## Summary
 
