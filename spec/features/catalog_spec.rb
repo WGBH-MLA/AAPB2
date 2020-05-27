@@ -394,10 +394,27 @@ describe 'Catalog' do
     end
 
     context 'quoted phrases in "OR" search', :focus do
-      let(:query_str) { 'q="Film and Television" OR "Event Coverage"' }
-      before { visit "/catalog?#{query_str}&f[access_types][]=all" }
-      it 'returns only records matching the phrase exactly (no stemming)' do
-        expect_count(2)
+      let(:quoted_phrases) { '"Film and Television" OR "Event Coverage"' }
+
+      context ', with quoted phrase at the beginning' do
+        before { visit "/catalog?q=#{quoted_phrases}+OR+blergifoo&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
+        end
+      end
+
+      context ', with quoted phrase at the end' do
+        before { visit "/catalog?q=blergifoo+OR+#{quoted_phrases}&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
+        end
+      end
+
+      context ', with quoted phrase in the middle' do
+        before { visit "/catalog?q=blergifoo+OR+#{quoted_phrases}+OR+blergifoo&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
+        end
       end
     end
   end
