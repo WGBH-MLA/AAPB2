@@ -1,27 +1,17 @@
-# Televising Black Power Politics in the Black Power Era *Black Journal* and *Soul!*
+# Televising Black Power Politics in the Black Power Era: *Black Journal* and *Soul!*
 
 ## Summary
-
-
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">*Soul!* producers Ellis Haizlip and Alice Hillie</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_haizlip_and_hillie.jpg" alt="*Soul!* producers Ellis Haizlip and Alice Hillie"/></td></tr>
 </table>
 
-
-Abstract here...
-<p>&nbsp;</p>
-
+"Televising Black Power Politics in the Black Power Era: *Black Journal* and *Soul!*" was curated in 2019 by Dr. Christine Acham, Assistant Dean of Diversity and Inclusion and Associate Professor of the Practice of Cinematic Arts at the University of Southern Califoornia, and Ashley Young, Ph.D. Candidate in Cinema and Media Studies at the University of Southern California, as part of the National Educational Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources.
 
 
 ## Extended
 
-
-
-
-
-## Main
 
 ### Televising Black Politics in the Black Power Era
 
@@ -39,7 +29,7 @@ Televised images of the Civil Rights Movement have been ingrained into the US co
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Martin Luther King Jr. Source: Creative Commons</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2_martin_luther_king.jpg" alt="Martin Luther King Jr. Source: Creative Commons"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2_martin_luther_king.jpg" alt="Martin Luther King Jr. Source: New York World-Telegram and Sun collection, Library of Congress"/></td></tr>
 </table>
 
 
@@ -82,17 +72,7 @@ A few of these programs such as *Black Journal* (NET, New York) and *Soul!* (WND
 Since Stokely Carmichael had called for Black Power during his June 16, 1966, speech in Greenwood Mississippi, the concept of Black Power was largely misconstrued by mainstream media as radical and potentially dangerous.[<sup>13</sup>](/exhibits/black-power/notes#13) African American produced public and cultural affairs programming gave voice to the changing political tide evident in the Black Power ethos of the time.  These shows expressed a variety of political viewpoints and were often not tethered to the FCC’s “Fairness Doctrine” that required television shows to exhibit a balanced view on controversial topics.  These producers, such as *Black Journal* 's William Greaves and Ellis Haizlip of *Soul!* believed that for far too long television had excluded Black viewpoints all together.  Black produced public affairs programs allowed for multiple perspectives on strategies for Black empowerment to be seen across national airwaves for the very first time in US history.
 
 
-
-
-
-## Resources
-
- 
-
-
-## Author
-
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/karaheadshot.jpg"/>
+## Authors
 
 ### Christine Acham
 
@@ -104,12 +84,69 @@ Division of Cinema and Media Studies
 
 School of Cinematic Arts
 
+University of Southern California
+
 ### Ashley Young
 
-Ph.D. Candidate
+Ph.D. Candidate, Cinema and Media Studies
 
 University of Southern California
 
-Cinema and Media Studies
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Reichenbach.jpg"/>
+  <a class="name">Amanda Reichenbach</a>
+  <a class="title">John W. Kluge Center Intern, Library of Congress</a>
+
+## Resources
+
+- [U.S. Department of Education](https://www.ed.gov/)
+- [*A Nation at Risk*](https://www2.ed.gov/pubs/NatAtRisk/risk.html)
+- [National Educational Television (NET) Collection Catalog Project](http://americanarchive.org/about-the-american-archive/projects/net-catalog)
+- [*Say Brother* Archive Website](http://main.wgbh.org/saybrother/index.html)
+- [Louisiana Digital Media Archive](http://www.ladigitalmedia.org/)
+
+## Main
 
 #### Next: [Black Journal](/exhibits/Black-Power/Televising-Black-Politics/Black-Journal)
+
+## Cover
+
+<img title="Cover Image" alt="*Soul!* producers Ellis Haizlip and Alice Hillie" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_haizlip_and_hillie.jpg">
+
+
+## Gallery
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-84zgnfk0">Chancellor Joel Klein in "A Year of Change" (WNET)</a>
+  <a class="caption-text">In this 2003 episode of New York Voices, host Rafael Pi Roman examines leadership in schools, visiting principals-in-training at New York City schools.</a>
+  <img title="Chancellor Joel Klein in A Year of Change (WNET)" alt="Chancellor Joel Klein in "A Year of Change" (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_75-84zgnfk0"></a>
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/URL">TFA founder Wendy Kopp in Who Will Teach for America?</a>
+  <a class="caption-text">This 1991 program was a collaboration between Drew/Fairchild, Inc. and Connecticut Public Television, which profiled Teach for America, the then-new national teacher service corps designed to bring recent college graduates into the most underserved classrooms in the nation.</a>
+  <img title="TFA founder Wendy Kopp in Who Will Teach for America?" alt="TFA founder Wendy Kopp in Who Will Teach for America?" src="https://s3.amazonaws.com/americanarchive.org/exhibits/teachforamerica.JPG">
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg">Grade A: Leave No Child Behind in Wyoming (Wyoming PBS)</a>
+  <a class="caption-text">This 2003 episode of Grade A follows students on the first day of school at Andrew S. Jessup Elementary and Carey Junior High. Topics covered include student performance, parental involvement and providing additional services for at-risk students. Grade A is a news series following Wyoming public schools throughout the year, as they retool their education efforts following the passing of the No Child Left Behind Act.</a>
+  <img title="Grade A: Leave No Child Behind in Wyoming" alt="Grade A: Leave No Child Behind in Wyoming" src="https://s3.amazonaws.com/americanarchive.org/exhibits/GradeA.JPG">
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg"></a>
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0">School Days (1999); WXXI Public Broadcasting</a>
+  <a class="caption-text">Image from School Days (1999), a documentary about education from WXXI Public Broadcasting.</a>
+s<img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG">
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0"></a>
+
+- <a class="type">image</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=We+the+People">We the People; WXXI Public Broadcasting</a>
+  <a class="caption-text">Jerry Huffman and Susan Simon host town hall debate for We the People" alt="Jerry Huffman and Susan Simon host town hall debate for We the People."</a>
+  <img title="We the People; WXXI Public Broadcasting" alt="We the People; WXXI Public Broadcasting" src="https://s3.amazonaws.com/americanarchive.org/exhibits/WethePeople.JPG">
+
+## Records
+
+
+
+
+
+
