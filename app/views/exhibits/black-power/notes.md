@@ -82,21 +82,21 @@
 
 <a name="36"></a><sup>36</sup> Gayle Wald, *It’s Been Beautiful: Soul! and Black Power Television* (Durham: Duke University Press, 2015), 182.
 
-<a name="37"></a><sup>37</sup> Heitner, *Black Power TV*, 112.
+<a name="37"></a><sup>37</sup> Wald, *Soul!*, 182.
 
-<a name="38"></a><sup>38</sup> Acham, 50.
+<a name="38"></a><sup>38</sup> Heitner, *Black Power TV*, 7.
 
-<a name="39"></a><sup>39</sup> Heitner,*Black Power TV*, 121.
+<a name="39"></a><sup>39</sup> Wald, *Soul!*, 153.
 
-<a name="40"></a><sup>40</sup> Rhodes, 146.
+<a name="40"></a><sup>40</sup> Heitner, *Black Power TV*, 144.
 
-<a name="41"></a><sup>41</sup> Heitner,*Black Power TV*, 121.
+<a name="41"></a><sup>41</sup> Heitner, *Black Power TV*, 131.
 
-<a name="42"></a><sup>42</sup> Ibid.
+<a name="42"></a><sup>42</sup> Heitner, *Black Power TV*, 151.
 
-<a name="43"></a><sup>43</sup> Heitner, 120.
+<a name="43"></a><sup>43</sup> Wald, *Soul!*, 185.
 
-<a name="44"></a><sup>44</sup> *Black Journal* returned to public television in 1981.
+<a name="44"></a><sup>44</sup> Wald, 182.
 
 
 
