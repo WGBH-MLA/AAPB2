@@ -12,9 +12,9 @@
 
 <a name ="3"></a><sup>3</sup> National Advisory Commission on Civil Disorders, *Report*.
 
-<a name="4"></a><sup>4</sup> Donovan and Scherer, 8.
+<a name="4"></a><sup>4</sup> National Advisory Commission on Civil Disorders, *Report*, 203.
 
-<a name="5"></a><sup>5</sup> Ibid., 17.
+<a name="5"></a><sup>5</sup> National Advisory Commission on Civil Disorders, *Report*, 211.
 
 <a name="6"></a><sup>6</sup> Kerner Commission, 203.
 
