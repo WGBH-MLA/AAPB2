@@ -16,72 +16,71 @@
 
 <a name="5"></a><sup>5</sup> National Advisory Commission on Civil Disorders, *Report*, 211.
 
-<a name="6"></a><sup>6</sup> Kerner Commission, 203.
-
-<a name="7"></a><sup>7</sup> Ibid., 203.
-
-<a name="8"></a><sup>8</sup> Ibid., 211.
-
-<a name="9"></a><sup>9</sup> Heitner, *Black Power TV*, 6.
-
-<a name="10"></a><sup>10</sup> Ibid., 53.
-
-<a name="11"></a><sup>11</sup> Kerner Commission, 211.
-
-<a name="12"></a><sup>12</sup> WNDT, New Jersey was later renamed WNET, New York.
-
-<a name="13"></a><sup>13</sup> Acham, 32-41.
-
+<a name="6"></a><sup>6</sup> Jane Rhodes, “The ‘Electronic Stimulus for a Black Revolution’: *Black Journal* and the 1960s Public Television," *Black Renaissance Noire* 14, no. 2 (Fall 2014): 137.
 
 
 
 ### Notes to *Black Journal*
 
-<a name="14"></a><sup>14</sup> Jane Rhodes “The ‘Electronic Stimulus for a Black Revolution’,” 139.
+<a name="7"></a><sup>7</sup> Christine Acham, *Revolution Televised: Prime Time and the Struggle for Black Power* (Minneapolis: University of Minnesota Press, 2004), 29.
 
-<a name="15"></a><sup>15</sup> Acham, 29.
+<a name="8"></a><sup>8</sup> Rhodes, “*Black Journal*,” 137.
 
-<a name="16"></a><sup>16</sup> Rhodes, 137.
+<a name="9"></a><sup>9</sup> Rhodes, “*Black Journal*,” 138.
 
-<a name="17"></a><sup>17</sup> Ibid., 138.
+<a name="10"></a><sup>10</sup> Devorah Heitner, *Black Power TV* (Durham: Duke University Press, 2013), 87.
 
-<a name="18"></a><sup>18</sup> Heitner, 87.
+<a name="11"></a><sup>11</sup> “NET’s ‘Black Journal’ on View Wed.,” *New York Amsterdam News*, June 8, 1968, 22, https://search.proquest.com/docview/226589470?accountid=12084. 
 
-<a name="19"></a><sup>19</sup> Ibid., 96.
+<a name="12"></a><sup>12</sup> Heitner, *Black Power TV*, 96-98.
 
-<a name="20"></a><sup>20</sup> Griffis, 10.
+<a name="13"></a><sup>13</sup> Noelle Griffis, “‘This Film Is a Rebellion!’: Filmmaker, Actor, *Black Journal* Producer, and Political Activist William Greaves (1926-2014),” *Black Camera* 6, no. 2 (Spring 2015): 10.
 
-<a name="21"></a><sup>21</sup> Acham, 41.
+<a name="14"></a><sup>14</sup> Acham, *Revolution Televised*, 41.
 
-<a name="22"></a><sup>22</sup> Rhodes, 140.
+<a name="15"></a><sup>15</sup> Rhodes, “*Black Journal*,” 140.
 
-<a name="23"></a><sup>23</sup> Acham, 41.
+<a name="16"></a><sup>16</sup> Acham, *Revolution Televised*, 41.
 
-<a name="24"></a><sup>24</sup> Heitner “Training Black Mediamakers,”  206.
+<a name="17"></a><sup>17</sup> Heitner “Training Black Mediamakers after Kerner: The *Black Journal* Workshop,” in *Reinventing Race, Reinventing Racism*, ed. John J. Betancur and Cedric Herring (Leiden: Koninklijke Brill, 2013), 206.
 
-<a name="25"></a><sup>25</sup> Ibid., 201.
+<a name="18"></a><sup>18</sup> Heitner, “The *Black Journal* Workshop,” 201.
 
-<a name="26"></a><sup>26</sup> Rhodes, 144.
+<a name="19"></a><sup>19</sup> Rhodes, “*Black Journal*,” 144.
 
-<a name="27"></a><sup>27</sup> Griffis, 9.
+<a name="20"></a><sup>20</sup> Griffis, “William Greaves,” 9.
 
-<a name="28"></a><sup>28</sup> The Black barbershop metaphor also unintentionally privileges male perspectives and topics. 
+<a name="21"></a><sup>21</sup> Heitner, *Black Power TV*, 20.
 
-<a name="29"></a><sup>29</sup> Heitner, *Black Power TV*, 20.
+<a name="22"></a><sup>22</sup> Heitner, *Black Power TV*, 85.
 
-<a name="30"></a><sup>30</sup> Ibid., 85.
+<a name="23"></a><sup>23</sup> Heitner, *Black Power TV*, 115.
 
-<a name="31"></a><sup>31</sup> Ibid., 115.
+<a name="24"></a><sup>24</sup> Rhodes, “*Black Journal*,” 147.
 
-<a name="32"></a><sup>32</sup> Rhodes, 147.
+<a name="25"></a><sup>25</sup> Heitner, *Black Power TV*, 113.
 
-<a name="33"></a><sup>33</sup> Heitner,*Black Power TV*, 113.
+<a name="26"></a><sup>26</sup> Acham, *Revolution Televised*, 45.
 
-<a name="34"></a><sup>34</sup> Acham, 45.
+<a name="27"></a><sup>27</sup> Clayborne Carson, et al., eds. *The Eyes on the Prize: Civil Rights Reader: Documents, Speeches, and Firsthand Accounts from the Black Freedom Struggle, 1954-1990* (New York: Viking, 1991), 501.
 
-<a name="35"></a><sup>35</sup> NY Times article reprinted in Carson et al. eds., 501.
+<a name="28"></a><sup>28</sup> Heitner, *Black Power TV*, 112.
 
-<a name="36"></a><sup>36</sup> Ibid, 501.
+<a name="29"></a><sup>29</sup> Claude Andrew Clegg, *An Original Man: The Life and Times of Elijah Muhammad* (New York: St. Martin’s Press, 1997), 125; Peniel E. Joseph, *Waiting ’Til the Midnight Hour: A Narrative History of Black Power in America* (New York: Henry Holt, 2006), 24.
+
+<a name="30"></a><sup>30</sup> Acham, *Revolution Televised*, 50; “Blacks Challenge Stations,” *New York Amsterdam News*, May 9, 1970, 21, https://search.proquest.com/docview/226549342?accountid=12084.
+
+<a name="31"></a><sup>31</sup> Heitner, *Black Power TV*, 121.
+
+<a name="32"></a><sup>32</sup> Rhodes, “*Black Journal*,” 146.
+
+<a name="33"></a><sup>33</sup> Heitner, *Black Power TV*, 121.
+
+<a name="34"></a><sup>34</sup> Acham, *Revolution Televised*, 50.
+
+<a name="35"></a><sup>35</sup> Heitner, *Black Power TV*, 120.
+
+<a name="36"></a><sup>36</sup> Gayle Wald, *It’s Been Beautiful: Soul! and Black Power Television* (Durham: Duke University Press, 2015), 182.
 
 <a name="37"></a><sup>37</sup> Heitner, *Black Power TV*, 112.
 
