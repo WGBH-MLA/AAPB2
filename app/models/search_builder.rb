@@ -17,7 +17,9 @@ class SearchBuilder < Blacklight::SearchBuilder
 
     if exact_clauses.present?
       clean_query = query.gsub(/"[^"]*"/, '')
-      clean_query = clean_query.split(' OR ').compact.join(' OR ')
+      clean_query = clean_query.split(' OR ').
+                                select{ |term| term.present? }.
+                                join(' OR ')
       solr_parameters[:q] = %(#{exact_clauses.join(' ')} #{clean_query})
 
       # readd title queries back in if necessary
