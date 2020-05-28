@@ -24,11 +24,6 @@
 
 ### Televising Black Politics in the Black Power Era
 
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Selma, Alabama; Police attack protesters 1965. Source: FBI</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1_bloody_sunday.jpg" alt="Selma, Alabama; Police attack protesters 1965. Source: FBI"/></td></tr>
-</table>
-
 
 
 “Our Nation is moving toward two societies, one black, one white- separate and unequal."[<sup>1</sup>](/exhibits/black-power/notes#1)
@@ -80,22 +75,13 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 #### Next: [Black Journal](/exhibits/Black-Power/Televising-Black-Politics/Black-Journal)
 
-## Cover
-
-<img title="Cover Image" alt="*Soul!* producers Ellis Haizlip and Alice Hillie" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_haizlip_and_hillie.jpg">
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png" alt="Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver"/></td></tr>
-</table>
-
 ## Gallery
 
-- <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-84zgnfk0">Chancellor Joel Klein in "A Year of Change" (WNET)</a>
-  <a class="caption-text">In this 2003 episode of New York Voices, host Rafael Pi Roman examines leadership in schools, visiting principals-in-training at New York City schools.</a>
-  <img title="Chancellor Joel Klein in A Year of Change (WNET)" alt="Chancellor Joel Klein in "A Year of Change" (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TheirSchoolYourSchool.JPG">
-  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_75-84zgnfk0"></a>
+- <a class="type">video</a>
+  <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_15-741rq0bx">"Civil Rights: What Next? (WNET)"</a>
+  <a class="caption-text">An hour-long public-affairs special dealing with the meaning of the newly-passed Civil Rights Bill in the aftermath of national mourning for Dr. Martin Luther King.</a>
+  <img title="Civil Rights: What Next? (WNET)" alt="Panelists in "Civil Rights: What Next?" (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1556037.mp4">
+  <a class="asset-url" href="https://americanarchive.org/catalog/cpb-aacip_15-741rq0bx"></a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/URL">TFA founder Wendy Kopp in Who Will Teach for America?</a>
