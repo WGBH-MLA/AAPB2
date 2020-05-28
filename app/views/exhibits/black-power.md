@@ -2,30 +2,33 @@
 
 ## Summary
 
-
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png" alt="Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver"/></td></tr>
-</table>
-
-
 "Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*" was curated in 2019 by Christine Acham, Associate Professor of the Practice of Cinematic Arts, Division of Cinema and Media Studies, School of Cinematic Arts, University of Southern California; and Ashley Young, Ph.D. Candidate, Cinema and Media Studies, University of Southern California.
-
-
 
 ## Extended
 
+## Authors
 
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/Christine_Headshot.jpg"/>
+  <a class="name">Christine Acham</a>
+  <a class="title">Associate Professor of the Practice of Cinematic Arts, Division of Cinema and Media Studies, School of Cinematic Arts, University of Southern California</a>
+  
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/Ashley_Headshot.jpg"/>
+  <a class="name">Ashley Young</a>
+  <a class="title">Ph.D. Candidate, Cinema and Media Studies, University of Southern California</a>
+
+## Resources
+
+- [Black Journal Special Collection, AAPB](https://americanarchive.org/special_collections/black-journal)
+- [Broadcasting While Black, Thirteen](https://www.thirteen.org/broadcastingwhileblack/)
+- [Black Power, National Archives](https://www.archives.gov/research/african-americans/black-power)
+- [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
+- [*Basic Black* Archive Website](https://www.wgbh.org/basic-black-show)
 
 ## Main
 
 ### Televising Black Politics in the Black Power Era
 
-
-
 “Our Nation is moving toward two societies, one black, one white- separate and unequal."[<sup>1</sup>](/exhibits/black-power/notes#1)
-
 
 Televised images of the Civil Rights Movement have been ingrained into the U.S. collective memory. Black people attacked by dogs, protestors assaulted at lunch counters, fire hoses turned on children — non-violent protest and repressive violence garnered the sympathy of much of the nation. Martin Luther King Jr. was well aware of the power of television and used cameras within his protest strategy, at times cancelling events if he knew that the press would not be there. These images compelled both the Kennedy and Johnson administrations to intercede on behalf of African Americans, confronting the violence and repression they experienced daily.[<sup>2</sup>](/exhibits/black-power/notes#2) 
 
@@ -49,27 +52,13 @@ A few of these programs such as *Black Journal* (NET, New York) and *Soul!* (WND
 
 Since Stokely Carmichael had called for Black Power during his June 16, 1966, speech in Greenwood, Mississippi, the concept of Black Power was largely depicted by mainstream media as radical and potentially dangerous. [<sup>6</sup>](/exhibits/black-power/notes#6) African American produced public and cultural affairs programming, however, gave voice to the changing political tide evident in the Black Power ethos of the time. These shows expressed a variety of political viewpoints and were often not tethered to the FCC’s “Fairness Doctrine” that required television shows to exhibit a balanced view on controversial topics. The producers of these shows, such as *Black Journal* producer William Greaves and Ellis Haizlip of *Soul!*, believed that for far too long television had excluded Black viewpoints all together. Black produced public affairs programs allowed for multiple perspectives on strategies for Black empowerment to be seen across national airwaves for the very first time in US history.
 
-
-## Authors
-
-
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/Christine_Headshot.jpg"/>
-  <a class="name">Christine Acham</a>
-  <a class="title">Associate Professor of the Practice of Cinematic Arts, Division of Cinema and Media Studies, School of Cinematic Arts, University of Southern California</a>
-  
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/Ashley_Headshot.jpg"/>
-  <a class="name">Ashley Young</a>
-  <a class="title">Ph.D. Candidate, Cinema and Media Studies, University of Southern California</a>
-
-## Resources
-
-- [Black Journal Special Collection, AAPB](https://americanarchive.org/special_collections/black-journal)
-- [Broadcasting While Black, Thirteen](https://www.thirteen.org/broadcastingwhileblack/)
-- [Black Power, National Archives](https://www.archives.gov/research/african-americans/black-power)
-- [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
-- [*Basic Black* Archive Website](https://www.wgbh.org/basic-black-show)
-
 #### Next: [Black Journal](/exhibits/Black-Power/Televising-Black-Politics/Black-Journal)
+
+## Cover
+<table class="exhibit-image">
+  <caption align="bottom" class="exhibit-caption">Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png" alt="Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver"/></td></tr>
+</table>
 
 ## Gallery
 
@@ -102,10 +91,3 @@ s<img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americ
   <img title="We the People; WXXI Public Broadcasting" alt="We the People; WXXI Public Broadcasting" src="https://s3.amazonaws.com/americanarchive.org/exhibits/WethePeople.JPG">
 
 ## Records
-
-
-
-
-
-
-
