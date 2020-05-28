@@ -70,11 +70,11 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 ## Resources
 
-- [U.S. Department of Education](https://www.ed.gov/)
-- [*A Nation at Risk*](https://www2.ed.gov/pubs/NatAtRisk/risk.html)
-- [National Educational Television (NET) Collection Catalog Project](http://americanarchive.org/about-the-american-archive/projects/net-catalog)
-- [*Say Brother* Archive Website](http://main.wgbh.org/saybrother/index.html)
-- [Louisiana Digital Media Archive](http://www.ladigitalmedia.org/)
+- [Black Journal Special Collection, AAPB](https://americanarchive.org/special_collections/black-journal)
+- [Broadcasting While Black, Thirteen](https://www.thirteen.org/broadcastingwhileblack/)
+- [Black Power, National Archives](https://www.archives.gov/research/african-americans/black-power)
+- [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
+- [*Basic Black* Archive Website](https://www.wgbh.org/basic-black-show)
 
 ## Main
 
