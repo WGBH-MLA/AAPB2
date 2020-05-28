@@ -18,8 +18,6 @@
 
 
 
-
-
 ## Main
 
 ### Televising Black Politics in the Black Power Era
@@ -39,7 +37,7 @@ At the time of the uprisings in 1968 that followed the assassination of King, Na
 
 [*Civil Rights: What Next?*](/catalog/cpb-aacip_15-741rq0bx) (4/11/68) was a moderated panel discussion between African American political leaders James Forman of the Student Nonviolent Coordinating Committee (SNCC), Hosea Williams of the Southern Christian Leadership Conference (SCLC), and Floyd McKissick of the Congress of Racial Equality (CORE), who were located in New York, and white commentators John Field of the US Conference of Mayors, James Kilpatrick, a journalist from Virginia, and Rep. Charles Mathias (R-MD), located in Washington. The contentious conversation was an attempt to show different points of view on the causes of racism in the United States; however, the conversation became so argumentative that at one point the producers cut off the microphones on the New York panel. The discussion led to no concrete solutions and the moderator concluded by saying, “I’m afraid the lesson of this hour is strongly that to expose racial problems in the United States in 1968 is to exacerbate them rather than to help solve them.”
 
-[*Still a Brother: Inside the Negro Middle Class*](/catalog/cpb-aacip_516-kd1qf8kh4s) (4/29/1968) was produced, edited, and directed by African American filmmaker William Greaves. Narrated by Ossie Davis, the documentary follows the lives of wealthy Black Americans from a variety of occupations — higher education, publishing, and politics — who discuss their lives within primarily white circles. Through imagery and interviews, the film contrasts their lives with those of working class Black people, some engaging in a discussion on the current state of Black affairs. [INSERT CLIP] 
+[*Still a Brother: Inside the Negro Middle Class*](/catalog/cpb-aacip_516-kd1qf8kh4s) (4/29/1968) was produced, edited, and directed by African American filmmaker William Greaves. Narrated by Ossie Davis, the documentary follows the lives of wealthy Black Americans from a variety of occupations — higher education, publishing, and politics — who discuss their lives within primarily white circles. Through imagery and interviews, the film contrasts their lives with those of working class Black people, some engaging in a discussion on the current state of Black affairs.
 
 [*Color Us Black*](/catalog/cpb-aacip_512-f47gq6rz2w) (5/6/1968) interrogates conflicts at Howard University, which led to the four-day occupation of the administration building. The students discuss their dissatisfaction with their education, which they see as molding them to imitate white society or to accept a place as second-class citizens. They also contemplate different ways of achieving Black liberation. The [second half of the documentary](/catalog/cpb-aacip_75-60cvf2cz) is a fictional film created by Howard student Benjamin Land. NET provided the technical equipment to create the film, which explores notions of Black identity in an interracial world.
 
@@ -71,8 +69,6 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 - [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
 - [*Basic Black* Archive Website](https://www.wgbh.org/basic-black-show)
 
-## Main
-
 #### Next: [Black Journal](/exhibits/Black-Power/Televising-Black-Politics/Black-Journal)
 
 ## Gallery
@@ -84,9 +80,9 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
   <a class="asset-url" href="https://americanarchive.org/catalog/cpb-aacip_15-741rq0bx"></a>
 
 - <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/URL">TFA founder Wendy Kopp in Who Will Teach for America?</a>
-  <a class="caption-text">This 1991 program was a collaboration between Drew/Fairchild, Inc. and Connecticut Public Television, which profiled Teach for America, the then-new national teacher service corps designed to bring recent college graduates into the most underserved classrooms in the nation.</a>
-  <img title="TFA founder Wendy Kopp in Who Will Teach for America?" alt="TFA founder Wendy Kopp in Who Will Teach for America?" src="https://s3.amazonaws.com/americanarchive.org/exhibits/teachforamerica.JPG">
+  <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_516-kd1qf8kh4s">Still A Brother: Inside the Negro Middle Class</a>
+  <a class="caption-text">The Negro middle class, torn between white goals and black needs, are examined by producers William Greaves and William Branch in this 90-minute NET Journal documentary.</a>
+  <img title="Still A Brother: Inside the Negro Middle Class" alt="Still A Brother: Inside the Negro Middle Class" src="https://s3.amazonaws.com/americanarchive.org/exhibits/teachforamerica.JPG">
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg">Grade A: Leave No Child Behind in Wyoming (Wyoming PBS)</a>
