@@ -62,6 +62,12 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 ## Gallery
 
+- <a class="type">image</a>
+  <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</a>
+  <a class="caption-text">*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</a>
+  <img title="Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver" alt="Kathleen Cleaver and *Soul!* producer and host Ellis Haizlip" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png">
+  <a class="asset-url" href="https://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w"></a>
+
 - <a class="type">video</a>
   <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_15-741rq0bx">"Civil Rights: What Next? (WNET)"</a>
   <a class="caption-text">An hour-long public-affairs special dealing with the meaning of the newly-passed Civil Rights Bill in the aftermath of national mourning for Dr. Martin Luther King.</a>
@@ -78,12 +84,6 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
   <a class="caption-text">This 2003 episode of Grade A follows students on the first day of school at Andrew S. Jessup Elementary and Carey Junior High. Topics covered include student performance, parental involvement and providing additional services for at-risk students. Grade A is a news series following Wyoming public schools throughout the year, as they retool their education efforts following the passing of the No Child Left Behind Act.</a>
   <img title="Grade A: Leave No Child Behind in Wyoming" alt="Grade A: Leave No Child Behind in Wyoming" src="https://s3.amazonaws.com/americanarchive.org/exhibits/GradeA.JPG">
   <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg"></a>
-
-- <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0">School Days (1999); WXXI Public Broadcasting</a>
-  <a class="caption-text">Image from School Days (1999), a documentary about education from WXXI Public Broadcasting.</a>
-s<img title="School Days" alt="School Days" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Classroom.JPG">
-  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_189-50tqjvq0"></a>
 
 - <a class="type">image</a>
   <a class="credit-link" href="http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=We+the+People">We the People; WXXI Public Broadcasting</a>
