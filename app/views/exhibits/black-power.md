@@ -104,11 +104,4 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
   <a class="caption-text">The Negro middle class, torn between white goals and black needs, are examined by producers William Greaves and William Branch in this 90-minute NET Journal documentary.</a>
   <img title="Still A Brother: Inside the Negro Middle Class" alt="Still A Brother: Inside the Negro Middle Class" src="https://s3.amazonaws.com/americanarchive.org/exhibits/teachforamerica.JPG">
 
-- <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg">Grade A: Leave No Child Behind in Wyoming (Wyoming PBS)</a>
-  <a class="caption-text">This 2003 episode of Grade A follows students on the first day of school at Andrew S. Jessup Elementary and Carey Junior High. Topics covered include student performance, parental involvement and providing additional services for at-risk students. Grade A is a news series following Wyoming public schools throughout the year, as they retool their education efforts following the passing of the No Child Left Behind Act.</a>
-  <img title="Grade A: Leave No Child Behind in Wyoming" alt="Grade A: Leave No Child Behind in Wyoming" src="https://s3.amazonaws.com/americanarchive.org/exhibits/GradeA.JPG">
-  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg"></a>
-
-
 ## Records
