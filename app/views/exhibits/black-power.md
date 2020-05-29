@@ -71,7 +71,7 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 - <a class="type">video</a>
   <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_15-741rq0bx">"Civil Rights: What Next? (WNET)"</a>
   <a class="caption-text">An hour-long public-affairs special dealing with the meaning of the newly-passed Civil Rights Bill in the aftermath of national mourning for Dr. Martin Luther King.</a>
-  <img title="Civil Rights: What Next? (WNET)" alt="Panelists in "Civil Rights: What Next?" (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1556037.mp4">
+  <vid title="Civil Rights: What Next? (WNET)" alt="Panelists in "Civil Rights: What Next?" (WNET)" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1556037.mp4">
   <a class="asset-url" href="https://americanarchive.org/catalog/cpb-aacip_15-741rq0bx"></a>
 
 - <a class="type">image</a>
