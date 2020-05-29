@@ -80,6 +80,11 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
     <a class="credit-link" href="https://www.fbi.gov/">Courtesy of the Federal Bureau of Investigation</a>
 
 - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2_martin_luther_king.jpg">
+    <a class="caption-text">DeMarsico, Dick, photographer. *Gracie Mansion, Rev. Martin Luther King press conference*. New York, NY, July 30, 1964. Photograph. Retrieved from the Library of Congress.</a>
+    <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
+
+- <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/3_watts_riots.jpg">
     <a class="caption-text">Three buildings burn on Avalon Blvd. and a surplus store burns at right as a looting, burning mob ruled the Watts section of Los Angeles. Los Angeles, California, August 1965. Photograph. Retrieved from the Library of Congress.</a>
     <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
@@ -100,9 +105,5 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
   <img title="Grade A: Leave No Child Behind in Wyoming" alt="Grade A: Leave No Child Behind in Wyoming" src="https://s3.amazonaws.com/americanarchive.org/exhibits/GradeA.JPG">
   <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_260-59c5b5pg"></a>
 
-- <a class="type">image</a>
-  <a class="credit-link" href="http://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=We+the+People">We the People; WXXI Public Broadcasting</a>
-  <a class="caption-text">Jerry Huffman and Susan Simon host town hall debate for We the People" alt="Jerry Huffman and Susan Simon host town hall debate for We the People."</a>
-  <img title="We the People; WXXI Public Broadcasting" alt="We the People; WXXI Public Broadcasting" src="https://s3.amazonaws.com/americanarchive.org/exhibits/WethePeople.JPG">
 
 ## Records
