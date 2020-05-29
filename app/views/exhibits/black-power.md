@@ -86,7 +86,7 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/3_watts_riots.jpg">
-    <a class="caption-text">Three buildings burn on Avalon Blvd. and a surplus store burns at right as a looting, burning mob ruled the Watts section of Los Angeles. Los Angeles, California, August 1965. Photograph. Retrieved from the Library of Congress.</a>
+    <a class="caption-text">*Three buildings burn on Avalon Blvd. and a surplus store burns at right as a looting, burning mob ruled the Watts section of Los Angeles*. Los Angeles, California, August 1965. Photograph. Retrieved from the Library of Congress.</a>
     <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
 - <a class="type">image</a>
@@ -94,6 +94,11 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
     <a class="caption-text">Trikosko, Marion S., photographer. *[President Lyndon Baines Johnson with some members of the National Advisory Commission on Civil Disorders (Kerner Commission) in the Cabinet Room of the White House, Washington, D.C.]*. Washington, D.C., July 29, 1967. Photograph. Retrieved from the Library of Congress.</a>
     <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
+- <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/7_stokley_carmichael.jpg">
+    <a class="caption-text">Fitch, Bob, photographer. *Stokely Carmichael Calling for Black Power*. Greenwood, MS, June 5, 1966. Photograph. Retrieved from the University of Georgia.</a>
+    <a class="credit-link" href="https://digilab.libs.uga.edu">Courtesy of the University of Georgia</a>
+    
 - <a class="type">image</a>
   <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_516-kd1qf8kh4s">Still A Brother: Inside the Negro Middle Class</a>
   <a class="caption-text">The Negro middle class, torn between white goals and black needs, are examined by producers William Greaves and William Branch in this 90-minute NET Journal documentary.</a>
