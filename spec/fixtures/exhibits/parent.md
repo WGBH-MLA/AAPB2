@@ -34,7 +34,7 @@ Description goes here.
 
 - <a class="type">video</a>
   <a class="credit-link" href="http://www.schooly.com1">School Days 1997</a>
-  <a class="media-url">/media/cpb-aacip_151-b56d21s06x</a>
+  <a href="/media/cpb-aacip_151-b56d21s06x" class="media-url"></a>
   <a class="caption-text">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>
 
 - <a class="type">image</a>
