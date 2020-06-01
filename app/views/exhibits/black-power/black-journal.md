@@ -54,61 +54,14 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
 
 *Black Journal* as a cultural space was a site of Black resistance to mainstream misunderstandings and misinterpretations of Black cultural expression and political activism. Especially in its first three seasons, *Black Journal* maintained the highest level of cultural, political, and artistic significance. As the first national Black-produced and focused series in a white-dominated televisual landscape, *Black Journal* provided nuanced representations of Black people that extended beyond U.S. borders and connected Black life in America to the African diaspora. Most importantly, *Black Journal* provided a forum that allowed Black people to articulate a nuanced vision of Black society. 
 
+## Main
 
+#### Next: [*Soul!*](/exhibits/black-power/televising-black-politics/soul)
+
+## Cover
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"> Black Panthers. Source:FBI.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/10_black_panthers.jpg" alt="Black Panthers. Source:FBI."/></td></tr>
-</table>
-
-
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"> William Greaves. Source: *Black Journal*.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/11_greaves.png" alt="William Greaves. Source: *Black Journal*."/></td></tr>
-</table>
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"> *Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at NOI grocery store in Chicago. Source: St. Clair Bourne.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_st_clair_bourne.jpg" alt="*Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at NOI grocery store in Chicago. Source: St. Clair Bourne."/></td></tr>
-</table>
-
-
-### *Black Journal: Imaging the Black Community*
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"> Screenshot of *Black Journal* title card.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_0_black_journal_logo.png" alt="Screenshot of *Black Journal* title card."/></td></tr>
-</table>
-
-
-### *Black Journal and Black Power Politics*
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"> J. Edgard Hoover in the Oval Office in 1967. Photograph public domain. </caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_j_edgar_hoover.jpg" alt="J. Edgard Hoover in the Oval Office in 1967. Photograph public domain."/></td></tr>
-</table>
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"> Screenshot of Lou House and Kathleen Cleaver. Source: *Black Journal* </caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_0_house_and_cleaver.png" alt="Screenshot of Lou House and Kathleen Cleaver. Source: *Black Journal*"/></td></tr>
-</table>
-
-
-### *Black Journal: Funding and The Active Black Audience* 
-
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption"> Tony Brown and Diahann Carroll. Source: WNET New York.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/14_brown_and_carroll.jpg" alt="Tony Brown and Diahann Carroll. Source: WNET New York."/></td></tr>
-</table>
-
-
-
-### *Black Journal and Commercial Television*
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Screenshot of William Greaves and Lou House on the set of *Black Journal*. Source:*Black Journal*</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" alt="Screenshot of William Greaves and Lou House on the set of *Black Journal*. Source:*Black Journal*"/></td></tr>
+  <caption align="bottom" class="exhibit-caption">*Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at a Nation of Islam grocery store in Chicago. Photograph.</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_st_clair_bourne.jpg" alt="Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at a Nation of Islam grocery store in Chicago."/></td></tr>
 </table>
 
 ## Gallery
@@ -142,6 +95,12 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_2.mp4</a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a>
+
+- <a class="type">image</a>
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_st_clair_bourne.jpg">
+  <a class="caption-text">*Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at NOI grocery store in Chicago. Photograph.</a>
+  <a class="credit-link" href="https://www.documentary.org/feature/black-journal-personal-look-backward">Courtesy of St. Clair Bourne, International Documentary Association.</a>
 
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_ElijahMuhammad.mp4</a>
@@ -196,15 +155,31 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
   <a class="caption-text">Department of Justice. Federal Bureau of Investigation. 1935- (Most Recent) From: Series: Motion Picture Films and Video Recordings, ca. 1936 - ca. 1985, Record Group 65: Records of the Federal Bureau of Investigation, 1896 - 2008. Black Panthers with flags at the Alameda County Courthouse. Oakland, California. Photograph.</a>
   <a class="credit-link" href="https://www.fbi.gov/">Courtesy of the Department of Justice.</a>
   
+- <a class="type">image</a>
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_j_edgar_hoover.jpg">
+  <a class="caption-text">J. Edgard Hoover in the Oval Office in 1967. Washington, D.C., July 24, 1967. Photograph. Public Domain.</a>
+  
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_NOI.mp4</a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode twenty-three featuring a segment on the Nation of Islam. Courtesy WNET.</a>
 
+- <a class="type">image</a>
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_0_house_and_cleaver.png">
+  <a class="caption-text">Lou House and Kathleen Cleaver on *Black Journal*.</a>
+
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2083923.mp4</a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-b56d21sd0c">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode twenty-five. Courtesy WNET.</a>
+
+- <a class="type">image</a>
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/14_brown_and_carroll.jpg">
+  <a class="caption-text">Tony Brown and Diahann Carroll.</a>
+  <a class="credit-link" href="https://www.wnet.org">Courtesy of WNET New York.</a>
 
 - <a class="type">video</a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-dz02z1335r">View the full program record</a>
@@ -290,9 +265,3 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
 - <a class="type">video</a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-2f7jq0tp0t">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode 604. Courtesy WNET.</a>
-
-
-
-#### Next: [*Soul!*](/exhibits/black-power/televising-black-politics/soul)
-
-## Main
