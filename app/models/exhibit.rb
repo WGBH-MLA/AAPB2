@@ -142,7 +142,7 @@ class Exhibit < Cmless
 
           media_info = if type == 'audio' || type == 'video' || type == 'iframe'
 
-                         url = gallery_item.css('a.media-url').first.text
+                         url = gallery_item.css('a.media-url').first['href']
                          { type: type, url: url }
                        else # image
 
