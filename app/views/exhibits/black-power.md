@@ -103,9 +103,5 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
     <a class="caption-text">Fitch, Bob, photographer. *Stokely Carmichael Calling for Black Power*. Greenwood, MS, June 5, 1966. Photograph. Retrieved from the University of Georgia.</a>
     <a class="credit-link" href="https://digilab.libs.uga.edu">Courtesy of the University of Georgia</a>
     
-- <a class="type">image</a>
-  <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_516-kd1qf8kh4s">Still A Brother: Inside the Negro Middle Class</a>
-  <a class="caption-text">The Negro middle class, torn between white goals and black needs, are examined by producers William Greaves and William Branch in this 90-minute NET Journal documentary.</a>
-  <img title="Still A Brother: Inside the Negro Middle Class" alt="Still A Brother: Inside the Negro Middle Class" src="https://s3.amazonaws.com/americanarchive.org/exhibits/teachforamerica.JPG">
 
 ## Records
