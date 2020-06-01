@@ -69,7 +69,7 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 - <a class="type">video</a>
   <a class="credit-link"></a>
-  <a href="MEDIAURL" class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1556037.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1556037.mp4" class="media-url"></a>
   <a class="record-link" href="https://americanarchive.org/catalog/cpb-aacip_15-741rq0bx">View the full program record</a>
   <a class="caption-text">An hour-long public-affairs special dealing with the meaning of the newly-passed Civil Rights Bill in the aftermath of national mourning for Dr. Martin Luther King.</a> 
 
