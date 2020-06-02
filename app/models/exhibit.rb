@@ -135,6 +135,9 @@ class Exhibit < Cmless
         Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
           type = gallery_item.css('a.type').first.text
           credit_link = gallery_item.css('a.credit-link').first
+          credit_url = credit_link['href'] if credit_link
+          credit_text = credit_link.text if credit_link
+
           caption = gallery_item.css('a.caption-text').first
 
           asset_link = gallery_item.css('a.asset-url').first
@@ -150,8 +153,8 @@ class Exhibit < Cmless
                          { type: 'image', url: img[:src], alt: img[:alt], title: img[:title] }
                        end
           {
-            credit_url: credit_link['href'],
-            source_text: credit_link.text,
+            credit_url: credit_url,
+            source_text: credit_text,
             caption: caption.text,
             media_info: media_info,
             asset_url: asset_url
