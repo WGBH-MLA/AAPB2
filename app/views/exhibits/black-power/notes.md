@@ -4,6 +4,33 @@
 
 ## Summary
 
+### Bibliography
+
+- Acham, Christine. *Revolution Televised: Prime Time and the Struggle for Black Power*. Minneapolis: University of Minnesota Press, 2004.
+
+Bodroghkozy, Aniko. Equal Time: Television and the Civil Rights Movement. Urbana: University of Illinois Press, 2012.
+
+Carson, Clayborne, et al., eds. The Eyes on the Prize: Civil Rights Reader: Documents, Speeches, and Firsthand Accounts from the Black Freedom Struggle, 1954-1990. New York: Viking, 1991. 
+
+Curtin, Michael. Redeeming the Wasteland: Television Documentary and Cold War Politics. New Brunswick: Rutgers University Press, 1995.
+
+Donovan, Robert, and Ray Scherer. Unsilent Revolution: Television News and American Public Life, 1948-1991. New York: Cambridge University Press, 1992.
+
+Griffis, Noelle. “‘This Film Is a Rebellion!’: Filmmaker, Actor, Black Journal Producer, and Political Activist William Greaves (1926-2014).” Black Camera 6, no. 2 (Spring 2015): 7–16.
+
+Heitner, Devorah. Black Power TV. Durham: Duke University Press, 2013.
+
+Heitner, Devorah. “Training Black Mediamakers after Kerner: The Black Journal Workshop.” In Reinventing Race, Reinventing Racism, edited by John J. Betancur and Cedric Herring, 199-208. Leiden: Koninklijke Brill, 2013.
+
+Rhodes, Jane. "The 'Electronic Stimulus for a Black Revolution': Black Journal and the 1960s Public Television." Black Renaissance Noire 14, no. 2 (Fall 2014): 136-51.
+
+United States. National Advisory Commission on Civil Disorders. Report. Washington: Government Printing Office, 1967. https://babel.hathitrust.org/cgi/pt?id=mdp.39015000225410;view=1up;seq=225
+
+Wald, Gayle. It’s Been Beautiful: Soul! and Black Power Television. Durham: Duke University Press, 2015.
+
+WNET. “List of Black-Produced TV Shows Nationwide, from 1968- On,” February 27, 2009; https://www.thirteen.org/broadcastingwhileBlack/uncategorized/list-of-Black-produced-tv-shows-nationwide-from-1968-on/
+
+
 ### Notes to Televising Black Politics in the Black Power Era
 
 <a name="1"></a><sup>1</sup> United States. National Advisory Commission on Civil Disorders, *Report* (Washington, DC: Government Printing Office), 1; https://babel.hathitrust.org/cgi/pt?id=mdp.39015000225410&view=1up&seq=23. 
