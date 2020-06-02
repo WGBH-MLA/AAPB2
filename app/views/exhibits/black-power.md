@@ -68,37 +68,31 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
   <a class="asset-url" href="https://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w"></a>
 
 - <a class="type">video</a>
-  <a class="credit-link"></a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1556037.mp4" class="media-url"></a>
   <a class="record-link" href="https://americanarchive.org/catalog/cpb-aacip_15-741rq0bx">View the full program record</a>
   <a class="caption-text">An hour-long public-affairs special dealing with the meaning of the newly-passed Civil Rights Bill in the aftermath of national mourning for Dr. Martin Luther King.</a>
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1_bloody_sunday.jpg">
     <a class="caption-text">Bloody Sunday - Alabama police attack Selma-to-Montgomery Marchers, 1965. Photograph. Retrieved from the Federal Bureau of Investigation.</a>
     <a class="credit-link" href="https://www.fbi.gov/">Courtesy of the Federal Bureau of Investigation</a>
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2_martin_luther_king.jpg">
     <a class="caption-text">DeMarsico, Dick, photographer. *Gracie Mansion, Rev. Martin Luther King press conference*. New York, NY, July 30, 1964. Photograph. Retrieved from the Library of Congress.</a>
     <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/3_watts_riots.jpg">
     <a class="caption-text">*Three buildings burn on Avalon Blvd. and a surplus store burns at right as a looting, burning mob ruled the Watts section of Los Angeles*. Los Angeles, California, August 1965. Photograph. Retrieved from the Library of Congress.</a>
     <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/4_kerner_commission.jpg">
     <a class="caption-text">Trikosko, Marion S., photographer. *[President Lyndon Baines Johnson with some members of the National Advisory Commission on Civil Disorders (Kerner Commission) in the Cabinet Room of the White House, Washington, D.C.]*. Washington, D.C., July 29, 1967. Photograph. Retrieved from the Library of Congress.</a>
     <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/7_stokley_carmichael.jpg">
     <a class="caption-text">Fitch, Bob, photographer. *Stokely Carmichael Calling for Black Power*. Greenwood, MS, June 5, 1966. Photograph. Retrieved from the University of Georgia.</a>
     <a class="credit-link" href="https://digilab.libs.uga.edu">Courtesy of the University of Georgia</a>
