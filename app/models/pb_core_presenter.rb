@@ -111,7 +111,7 @@ class PBCorePresenter
     @exhibits ||= id_styles(id).map { |style| Exhibit.find_all_by_item_id(style) }.flatten
   end
   def top_exhibits
-    @top_exhibits ||= id_styles(id).map { |style| Exhibit.find_top_by_item_id(style) }.flatten
+    @top_exhibits ||= id_styles(id).map { |style| Exhibit.find_top_by_item_id(style) }.flatten.uniq
   end
   def special_collections
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
