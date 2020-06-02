@@ -6,15 +6,15 @@
 
 ## Extended
 
-Black Power as a political ideology was often criticized and misinterpreted in network television news coverage.[<sup>7</sup>](/exhibits/black-power/notes#7)  Black Power organizations, activists, and ideals generally received unfavorable media coverage that depicted them as “violent, irrational, and threats to national security,” according to media historian Jane Rhodes.[<sup>8</sup>](/exhibits/black-power/notes#8) Prior to the publication of the Kerner Commission report, in 1965 the Carnegie Commission on Educational Television had conducted an extensive study of the role of noncommercial educational television on American airwaves. The Commission’s findings, *Public Television, a Program for Action: The Report and Recommendations of the Carnegie Commission on Educational Television*, listed a dozen recommendations for how to improve public television, which became the impetus for the Public Broadcasting Act of 1967 and the establishment of the Corporation for Public Broadcasting (CPB). The very next year, in 1968, the Kerner Commission published its findings faulting commercial television for its discriminatory reporting on race relations.
+Black Power as a political ideology was often criticized and misinterpreted in network television news coverage.[<sup>7</sup>](/exhibits/black-power/notes#7)  Black Power organizations, activists, and ideals generally received unfavorable media coverage that depicted them as “violent, irrational, and threats to national security,” according to media historian Jane Rhodes.[<sup>8</sup>](/exhibits/black-power/notes#8) Prior to the publication of the Kerner Commission report, in 1965 the Carnegie Commission on Educational Television had conducted an extensive study of the role of noncommercial educational television on American airwaves. The Commission’s findings, *Public Television, a Program for Action: The Report and Recommendations of the Carnegie Commission on Educational Television*, listed a dozen recommendations for how to improve public television, which became the impetus for the Public Broadcasting Act of 1967 and the establishment of the Corporation for Public Broadcasting (CPB). The very next year, in 1968, the Kerner Commission published its findings faulting commercial television for its discriminatory reporting on race relations. 
 
-In 1968, there were approximately 200 public television stations in the U.S.; yet African American subject matter was not a primary focus until after the assassination of Martin Luther King Jr. and the ensuing social unrest.[<sup>9</sup>](/exhibits/black-power/notes#9) Within months of King’s assassination, public television attempted to correct this error, and African Americans had unprecedented access to public television with local public television shows such as Boston’s *Say Brother* [later changed to *Basic Black*] (1968- ), Chicago’s *For Blacks Only* (1968-79), and Detroit’s *Colored People’s Time* [later changed to *Detroit Black Journal* and *American Black Journal*] (1968- ).
+In 1968, there were approximately 200 public television stations in the U.S.; yet African American subject matter was not a primary focus until after the assassination of Martin Luther King Jr. and the ensuing social unrest.[<sup>9</sup>](/exhibits/black-power/notes#9) Within months of King’s assassination, public television attempted to correct this error, and African Americans had unprecedented access to public television with local public television shows such as Boston’s *Say Brother* [later changed to *Basic Black*] (1968- ), Chicago’s *For Blacks Only* (1968-79), and Detroit’s *Colored People’s Time* [later changed to *Detroit Black Journal* and *American Black Journal*] (1968- ). 
 
 *Black Journal*, the first nationally televised public affairs program produced for, about, and (eventually) by African Americans, debuted on June 12, 1968. Produced by NET, the series began as a monthly newsmagazine-styled show on topical issues relevant to African Americans. Alvin (Al) Perlmutter, an established white television producer, initiated the idea for *Black Journal*. He was originally scheduled to make a documentary on the uprisings of 1967 for NET, but instead decided to transfer the funding into the first three episodes of *Black Journal*. With an initial budget of $100,000 per episode, *Black Journal* sought to provide a national audience with a diverse spectrum of African American stories, perspectives, and political views. Believing that for far too long, television excluded African American voices and viewpoints, *Black Journal* offered an opportunity to provide a national audience a much more encompassing perspective on Black Power, Black nationalism, and Black political thought.
 
 ### Black Journal and Shifting Control of Production
 
-Initially, production for *Black Journal* was under the direction of executive producer Al Perlmutter, whose team included eleven African American and nine white staff members.[<sup>10</sup>](/exhibits/black-power/notes#10) While publicity about the program characterized it as “by, for, and about black Americans,”[<sup>11</sup>](/exhibits/black-power/notes#11) white producers held the positions of power and developed the majority of the segments. Frustrated by their lack of editorial control, in August 1968, the majority of the Black staff members went on strike demanding change. NET offered to remove the executive producer position altogether, arguing that an African American executive producer would have been hired, had they been able to find a qualified candidate, and offered to promote African American producer Lou Potter to “executive editor.” The staff initially accepted the offer, but then decided against it and demanded a Black executive producer for the program. They believed the show could only be true to its name and content if segments were actually created and produced by African Americans. Perlmutter was eventually replaced by William Greaves, producer, director, and occasional *Black Journal* cohost.[<sup>12</sup>](/exhibits/black-power/notes#12)
+Initially, production for *Black Journal* was under the direction of executive producer Al Perlmutter, whose team included eleven African American and nine white staff members.[<sup>10</sup>](/exhibits/black-power/notes#10) While publicity about the program characterized it as “by, for, and about black Americans,”[<sup>11</sup>](/exhibits/black-power/notes#11) white producers held the positions of power and developed the majority of the segments. Frustrated by their lack of editorial control, in August 1968, the majority of the Black staff members went on strike demanding change. NET offered to remove the executive producer position altogether, arguing that an African American executive producer would have been hired, had they been able to find a qualified candidate, and offered to promote African American producer Lou Potter to “executive editor.” The staff initially accepted the offer, but then decided against it and demanded a Black executive producer for the program. They believed the show could only be true to its name and content if segments were actually created and produced by African Americans. Perlmutter was eventually replaced by William Greaves, producer, director, and occasional *Black Journal* cohost.[<sup>12</sup>](/exhibits/black-power/notes#12) 
 
 Greaves had extensive experience in documentary and nonfiction filmmaking. Due to limited opportunities for African Americans to learn and gain experience from U.S. film schools, Greaves had worked as a filmmaker in Canada. He spent eight years training and working his way up from apprentice to assistant editor to sound editor, eventually becoming a writer and director for the National Film Board of Canada (NFB).[<sup>13</sup>](/exhibits/black-power/notes#13) While working for the NFB, Greaves learned to utilize documentary as a tool for social change.[<sup>14</sup>](/exhibits/black-power/notes#14) Prior to his work on *Black Journal*, in collaboration with NET, Greaves directed the documentary *Still a Brother* (1968) about the Black middle class.[<sup>15</sup>](/exhibits/black-power/notes#15) Once Greaves became the executive producer of *Black Journal*, he oversaw a predominantly African American production crew, providing the first opportunity for African Americans to produce their own content for a national television audience.
 
@@ -26,13 +26,13 @@ The transfer of power from Al Perlmutter to William Greaves was immediately addr
 
 *Black Journal* aimed to provide audiences with a collective image of a national and international Black community that transcended regional, political, and generational differences.[<sup>22</sup>](/exhibits/black-power/notes#22) At a national level, the series set the stage for the imagining of a Black nation and Black consciousness. In the pilot episode, host Lou House states in his introduction, “This is *Black Journal*, program number 1. It is our aim in the next hour, and in the coming months, to report and review the events, the dreams, the dilemmas of Black America and Black Americans.” The early years of *Black Journal* were noticeably inspired by the aesthetics of the Black Power era. For example, the desire to connect with one’s African roots was reflected in the map of Africa in the background of the set, which was seemingly decorated with indigenous relics. As hosts, House and Greaves sported Afros and were dressed in dashiki shirts. They introduced their audiences to culturally specific clothing of the time such as kente cloth, as well as the hairstyles and terminology of the period. Lou House would even greet viewers with a Black Power fist and a [variation of the greeting](/catalog/cpb-aacip-62-0000000717#at_48.960874_s), “Good evening. Jambo, A Salaam Alaikum, brothers and sisters, and welcome to *Black Journal*.” House’s greeting not only addressed Black Americans, but also Black Muslims internationally.
 
-The show aimed to present multi-faceted and varied perspectives on the issues and concerns of Black Americans. Using short documentaries, in-depth interviews, and panel discussions, the show covered topics common to African Americans around the country, such as Black activism, school busing, police brutality, the Black church, and voting rights. *Black Journal* also traveled outside the studio and to different regions of the country, filming on location in Boston, Chicago, Detroit, and Los Angeles, cities with significant African American populations. Episodes titled [“Black Compton”](/catalog/cpb-aacip_512-wp9t14vt8n) or [“Black Chicago”](/catalog/cpb-aacip_512-hh6c24rp7v) demonstrated the diversity of Black life in America. [“Black Compton,”](/catalog/cpb-aacip_512-wp9t14vt8n) for instance depicts the frustrations of a city whose citizens demanded improved municipal services, insurance for businesses and homeowners, and more economic opportunities. The *Black Journal* coverage of such cities demonstrated to Black audiences that certain racial and economic struggles were not isolated to just one or two cities, but in fact were shared by African Americans around the country. Regional representations of African Americans celebrated the shared characteristics of Black America, while simultaneously underscoring the diversity of Black life.
+The show aimed to present multi-faceted and varied perspectives on the issues and concerns of Black Americans. Using short documentaries, in-depth interviews, and panel discussions, the show covered topics common to African Americans around the country, such as Black activism, school busing, police brutality, the Black church, and voting rights. *Black Journal* also traveled outside the studio and to different regions of the country, filming on location in Boston, Chicago, Detroit, and Los Angeles, cities with significant African American populations. Episodes titled [“Black Compton”](/catalog/cpb-aacip_512-wp9t14vt8n) or [“Black Chicago”](/catalog/cpb-aacip_512-hh6c24rp7v) demonstrated the diversity of Black life in America. [“Black Compton,”](/catalog/cpb-aacip_512-wp9t14vt8n) for instance depicts the frustrations of a city whose citizens demanded improved municipal services, insurance for businesses and homeowners, and more economic opportunities. The *Black Journal* coverage of such cities demonstrated to Black audiences that certain racial and economic struggles were not isolated to just one or two cities, but in fact were shared by African Americans around the country. Regional representations of African Americans celebrated the shared characteristics of Black America, while simultaneously underscoring the diversity of Black life. 
 
 *Black Journal* did not limit its definition of the Black community and a Black nation to U.S. borders. The show also explored diasporic Blackness, relating issues and struggles of Black people in America to the African diaspora. Propelled by William Greaves, *Black Journal*’s coverage of Africa was a response to the Black Power Movement’s embrace of global Blackness, in terms of personal and cultural identification as well as the political influence of Third World liberation movements. The show provided in-depth news reporting on Africa at a time when on location filming was difficult and costly. Segments on African countries provided a broadened context for defining Blackness in terms of culture, politics, and entertainment.[<sup>23</sup>](/exhibits/black-power/notes#23) For example, in [episode sixteen](/catalog/cpb-aacip_512-5h7br8n792), *Black Journal* traveled to the Pan-African Cultural Festival in Algiers, where activists from America and different African countries gathered, including Eldridge Cleaver and Stokely Carmichael. In [episode twenty-one](/catalog/cpb-aacip_62-0000000717), producer Kent Garrett took a film crew to Ethiopia to explore the country’s history, architecture, religion, and culture. The second season of *Black Journal* grew progressively more transnational with several segments on African nations, including a segment on Ethiopian Airlines and African Liberation Day. Diasporic Blackness was important to *Black Journal* producers, who wanted audiences to understand, as scholar Jane Rhodes has written, that “people of African descent should embrace their shared histories of oppression and of liberation struggles.”[<sup>24</sup>](/exhibits/black-power/notes#24) In 1970, Black Journal started a bureau in Addis Ababa, Ethiopia, providing the production team with a base in Africa.[<sup>25</sup>](/exhibits/black-power/notes#25)
 
 ### Black Journal and Black Power Politics
 
-*Black Journal* also directly delved into the meanings of Black Power by featuring known political leaders of the time such as Black Panther Party (BPP) co-founder [Huey P. Newton](/catalog/cpb-aacip-62-5m6251fv96#at_2620.459908_s), author-activist [Stokely Carmichael](/catalog/cpb-aacip_512-cr5n873x76), [Kathleen Cleaver](/catalog/cpb-aacip-512-rb6vx0718m#at_860.227491_s), Communications Secretary of the BPP, artist-activist [Amiri Baraka](/catalog/cpb-aacip_516-tq5r786r4f), and NOI leader [Elijah Muhammad](/catalog/cpb-aacip-512-rb6vx0718m#at_2091.754406_s). Indeed the [pilot episode](/catalog/cpb-aacip_62-5m6251fv96) of *Black Journal*, which includes memorable moments such as recently widowed Coretta Scott King addressing the Harvard graduating class of 1968, also features an interview with Huey P. Newton from jail. The decision to feature Newton — who at the time was facing murder charges — in the pilot episode demonstrates *Black Journal*’s willingness to challenge mainstream definitions and constructions of Black political ideology.[<sup>26</sup>](/exhibits/black-power/notes#26) *Black Journal* provided a national audience of both Black and white viewers with an alternative view of the Black Panther Party and what they stood for, the importance of which cannot be understated given the mainstream depiction of the Black Panther Party as domestic terrorists. In the *New York Times*, Director of the FBI J. Edgar Hoover had deemed the BPP a hate group that represented “the greatest threat to internal security of the country,” and asserted that “[l]eaders and representatives of the Black Panther Party travel extensively all over the United States preaching their gospel of hate and violence.”[<sup>27</sup>](/exhibits/black-power/notes#27)
+*Black Journal* also directly delved into the meanings of Black Power by featuring known political leaders of the time such as Black Panther Party (BPP) co-founder [Huey P. Newton](/catalog/cpb-aacip-62-5m6251fv96#at_2620.459908_s), author-activist [Stokely Carmichael](/catalog/cpb-aacip_512-cr5n873x76), [Kathleen Cleaver](/catalog/cpb-aacip-512-rb6vx0718m#at_860.227491_s), Communications Secretary of the BPP, artist-activist [Amiri Baraka](/catalog/cpb-aacip_516-tq5r786r4f), and NOI leader [Elijah Muhammad](/catalog/cpb-aacip-512-rb6vx0718m#at_2091.754406_s). Indeed the [pilot episode](/catalog/cpb-aacip_62-5m6251fv96) of *Black Journal*, which includes memorable moments such as recently widowed Coretta Scott King addressing the Harvard graduating class of 1968, also features an interview with Huey P. Newton from jail. The decision to feature Newton — who at the time was facing murder charges — in the pilot episode demonstrates *Black Journal*’s willingness to challenge mainstream definitions and constructions of Black political ideology.[<sup>26</sup>](/exhibits/black-power/notes#26) *Black Journal* provided a national audience of both Black and white viewers with an alternative view of the Black Panther Party and what they stood for, the importance of which cannot be understated given the mainstream depiction of the Black Panther Party as domestic terrorists. In the *New York Times*, Director of the FBI J. Edgar Hoover had deemed the BPP a hate group that represented “the greatest threat to internal security of the country,” and asserted that “[l]eaders and representatives of the Black Panther Party travel extensively all over the United States preaching their gospel of hate and violence.”[<sup>27</sup>](/exhibits/black-power/notes#27) 
 
 Members of the Black Panther Party, as well as segments about the organization, were regularly included in early episodes of *Black Journal*. In concert with stories on the NOI, Malcolm X, and Amiri Baraka, this type of coverage is evidence of the political nature of *Black Journal* reporting. For example, in [episode seven](/catalog/cpb-aacip_512-rb6vx0718m), which aired in December 1968, *Black Journal* brought together a diverse panel of Black public figures, including Kathleen Cleaver (BPP), Andrew Young (SCLC), Alexander Allen (National Urban League) and Dan Watts, editor of *Liberator* magazine, to reflect on 1968 and offer their thoughts on the future of African Americans in the political arena.
 
@@ -52,7 +52,7 @@ Producers turned to the Black press to appeal to audiences to support the series
 
 The hard-fought efforts of audiences, Tony Brown, and the program’s staff secured *Black Journal* funding and helped to keep the series on the air a bit longer. However, syndication issues with local affiliate stations and their ability to reject specific episodes or entire seasons made it difficult for *Black Journal* to compete with other less controversial public affairs programming such as *Black Perspective on the News* (1973- ), another Black public affairs show that covered more mainstream news stories. For example, in 1971, an affiliate refused to program a *Black Journal* episode entitled [“Justice”](/catalog/cpb-aacip_512-1v5bc3tn06) that focused on the case of Angela Davis and the lives of Black prisoners.[<sup>34</sup>](/exhibits/black-power/notes#34) Scholar Devorah Heitner writes that “in 1972, only a quarter of PBS’s 139 stations chose to carry *Black Journal*, while the vast majority carried *Black Perspective on the News*.”[<sup>35</sup>](/exhibits/black-power/notes#35) Eventually *Black Journal* left public television, transitioning to *Tony Brown’s Journal* on commercial television in 1977. Under the new title, the series returned to public television in 1982.
 
-*Black Journal* as a cultural space was a site of Black resistance to mainstream misunderstandings and misinterpretations of Black cultural expression and political activism. Especially in its first three seasons, *Black Journal* maintained the highest level of cultural, political, and artistic significance. As the first national Black-produced and focused series in a white-dominated televisual landscape, *Black Journal* provided nuanced representations of Black people that extended beyond U.S. borders and connected Black life in America to the African diaspora. Most importantly, *Black Journal* provided a forum that allowed Black people to articulate a nuanced vision of Black society.
+*Black Journal* as a cultural space was a site of Black resistance to mainstream misunderstandings and misinterpretations of Black cultural expression and political activism. Especially in its first three seasons, *Black Journal* maintained the highest level of cultural, political, and artistic significance. As the first national Black-produced and focused series in a white-dominated televisual landscape, *Black Journal* provided nuanced representations of Black people that extended beyond U.S. borders and connected Black life in America to the African diaspora. Most importantly, *Black Journal* provided a forum that allowed Black people to articulate a nuanced vision of Black society. 
 
 ## Main
 
@@ -67,109 +67,91 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
 ## Gallery
 
 - <a class="type">image</a>
-  <a class="credit-link"></a>
+  <a class=""></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/8_greaves.png">
   <a class="caption-text">William Greaves, producer, director, and occasional co-host of *Black Journal*.</a>
 
 - <a class="type">image</a>
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house.png">
   <a class="caption-text">William Greaves and Lou House on the set of *Black Journal*.</a>
 
 - <a class="type">image</a>
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_0_black_journal_logo.png">
   <a class="caption-text">The *Black Journal* title card.</a>
 
 - <a class="type">image</a>
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/11_greaves.png">
   <a class="caption-text">William Greaves wearing a dashiki.</a>
   
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_documentary_1.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_documentary_1.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
   <a class="caption-text">This is clip from *Black Journal* episode twenty-three shows the documentary style of *Black Journal*. Courtesy WNET.</a> 
   
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2279602_documentary_2.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2279602_documentary_2.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jw86h4dq8k">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode nineteen. Courtesy WNET.</a>
 
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Jambo_Greeting.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Jambo_Greeting.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
   <a class="caption-text">This is clip from *Black Journal* episode twenty-one features host Lou House giving his greeting. Courtesy WNET.</a>
   
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2278348.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2278348.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-wp9t14vt8n">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode 312, titled "Black Compton." Courtesy WNET.</a>
   
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832319_Algiers_FilmFest.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832319_Algiers_FilmFest.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-5h7br8n792">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode sixteen featuring footage from the Pan-African Cultural Festival in Algiers. Courtesy WNET.</a>
   
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Ethiopia.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Ethiopia.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode twenty-one filmed in Ethiopia. Courtesy WNET.</a>
   
 - <a class="type">image</a>
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_0_house_and_cleaver.png">
   <a class="caption-text">Lou House and Kathleen Cleaver on *Black Journal*.</a>
   
 - <a class="type">image</a>
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_j_edgar_hoover.jpg">
   <a class="caption-text">J. Edgard Hoover in the Oval Office in 1967. Washington, D.C., July 24, 1967. Photograph. Public Domain.</a>
   
 - <a class="type">image</a>
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/10_black_panthers.jpg">
   <a class="caption-text">Department of Justice. Federal Bureau of Investigation. 1935- (Most Recent) From: Series: Motion Picture Films and Video Recordings, ca. 1936 - ca. 1985, Record Group 65: Records of the Federal Bureau of Investigation, 1896 - 2008. Black Panthers with flags at the Alameda County Courthouse. Oakland, California. Photograph.</a>
   <a class="credit-link" href="https://www.fbi.gov/">Courtesy of the Department of Justice.</a>
 
 - <a class="type">image</a>
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_st_clair_bourne.jpg">
   <a class="caption-text">*Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at NOI grocery store in Chicago. Photograph.</a>
   <a class="credit-link" href="https://www.documentary.org/feature/black-journal-personal-look-backward">Courtesy of St. Clair Bourne, International Documentary Association.</a>
 
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_ElijahMuhammad.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_ElijahMuhammad.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode seven. Courtesy WNET.</a> 
 
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_ElijahMuhammad_2.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_ElijahMuhammad_2.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode twenty-three featuring Nation of Islam leader Elijah Muhammad. Courtesy WNET.</a>
   
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_NOI.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_NOI.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode twenty-three featuring a segment on the Nation of Islam. Courtesy WNET.</a>
 
 - <a class="type">video</a>
-  <a class="credit-link"></a>
-  <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2083923.mp4</a>
+  <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2083923.mp4" class="media-url"></a>
   <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-b56d21sd0c">View the full program record</a>
   <a class="caption-text">This is a clip from *Black Journal* episode twenty-five. Tony Brown addresses the audience about *Black Journal*'s change of format. Courtesy WNET.</a>
 
 - <a class="type">image</a>
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/14_brown_and_carroll.jpg">
   <a class="caption-text">Tony Brown and Diahann Carroll.</a>
   <a class="credit-link" href="https://www.wnet.org">Courtesy of WNET New York.</a>
