@@ -14,9 +14,9 @@ module ApplicationHelper
     if query.include?("\"")
       # "quoted clauses" are included in the search
       # if any words exactly equal any stopwords, DELET THIS
-      
+
       q = query.split(/"/).collect { |s| s.strip.upcase.gsub(/[[:punct:]]/, '') }
-      return (1..q.length).zip(q).collect { |i, x| (i & 1).zero? ? x : x.split }.flatten.delete_if { |term| stopwords.any? {|stopword| stopword == term } }
+      return (1..q.length).zip(q).collect { |i, x| (i & 1).zero? ? x : x.split }.flatten.delete_if { |term| stopwords.any? { |stopword| stopword == term } }
     else
       # no quoted clauses
       return query.upcase.gsub(/[[:punct:]]/, '').split.delete_if { |term| stopwords.include?(term) }
