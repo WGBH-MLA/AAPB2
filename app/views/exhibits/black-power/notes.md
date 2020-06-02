@@ -8,27 +8,27 @@
 
 - Acham, Christine. *Revolution Televised: Prime Time and the Struggle for Black Power*. Minneapolis: University of Minnesota Press, 2004.
 
-Bodroghkozy, Aniko. Equal Time: Television and the Civil Rights Movement. Urbana: University of Illinois Press, 2012.
+- Bodroghkozy, Aniko. *Equal Time: Television and the Civil Rights Movement*. Urbana: University of Illinois Press, 2012.
 
-Carson, Clayborne, et al., eds. The Eyes on the Prize: Civil Rights Reader: Documents, Speeches, and Firsthand Accounts from the Black Freedom Struggle, 1954-1990. New York: Viking, 1991. 
+- Carson, Clayborne, et al., eds. *The Eyes on the Prize: Civil Rights Reader: Documents, Speeches, and Firsthand Accounts from the Black Freedom Struggle, 1954-1990*. New York: Viking, 1991. 
 
-Curtin, Michael. Redeeming the Wasteland: Television Documentary and Cold War Politics. New Brunswick: Rutgers University Press, 1995.
+- Curtin, Michael. *Redeeming the Wasteland: Television Documentary and Cold War Politics*. New Brunswick: Rutgers University Press, 1995.
 
-Donovan, Robert, and Ray Scherer. Unsilent Revolution: Television News and American Public Life, 1948-1991. New York: Cambridge University Press, 1992.
+- Donovan, Robert, and Ray Scherer. *Unsilent Revolution: Television News and American Public Life, 1948-1991*. New York: Cambridge University Press, 1992.
 
-Griffis, Noelle. “‘This Film Is a Rebellion!’: Filmmaker, Actor, Black Journal Producer, and Political Activist William Greaves (1926-2014).” Black Camera 6, no. 2 (Spring 2015): 7–16.
+- Griffis, Noelle. “‘This Film Is a Rebellion!’: Filmmaker, Actor, *Black Journal* Producer, and Political Activist William Greaves (1926-2014).” *Black Camera* 6, no. 2 (Spring 2015): 7–16.
 
-Heitner, Devorah. Black Power TV. Durham: Duke University Press, 2013.
+- Heitner, Devorah. *Black Power TV*. Durham: Duke University Press, 2013.
 
-Heitner, Devorah. “Training Black Mediamakers after Kerner: The Black Journal Workshop.” In Reinventing Race, Reinventing Racism, edited by John J. Betancur and Cedric Herring, 199-208. Leiden: Koninklijke Brill, 2013.
+- Heitner, Devorah. “Training Black Mediamakers after Kerner: The Black Journal Workshop.” In *Reinventing Race, Reinventing Racism*, edited by John J. Betancur and Cedric Herring, 199-208. Leiden: Koninklijke Brill, 2013.
 
-Rhodes, Jane. "The 'Electronic Stimulus for a Black Revolution': Black Journal and the 1960s Public Television." Black Renaissance Noire 14, no. 2 (Fall 2014): 136-51.
+- Rhodes, Jane. "The 'Electronic Stimulus for a Black Revolution': *Black Journal* and the 1960s Public Television." *Black Renaissance Noire* 14, no. 2 (Fall 2014): 136-51.
 
-United States. National Advisory Commission on Civil Disorders. Report. Washington: Government Printing Office, 1967. https://babel.hathitrust.org/cgi/pt?id=mdp.39015000225410;view=1up;seq=225
+- United States. National Advisory Commission on Civil Disorders. *Report*. Washington: Government Printing Office, 1967. https://babel.hathitrust.org/cgi/pt?id=mdp.39015000225410;view=1up;seq=225
 
-Wald, Gayle. It’s Been Beautiful: Soul! and Black Power Television. Durham: Duke University Press, 2015.
+- Wald, Gayle. *It’s Been Beautiful: Soul! and Black Power Television*. Durham: Duke University Press, 2015.
 
-WNET. “List of Black-Produced TV Shows Nationwide, from 1968- On,” February 27, 2009; https://www.thirteen.org/broadcastingwhileBlack/uncategorized/list-of-Black-produced-tv-shows-nationwide-from-1968-on/
+- WNET. “List of Black-Produced TV Shows Nationwide, from 1968- On,” February 27, 2009; https://www.thirteen.org/broadcastingwhileBlack/uncategorized/list-of-Black-produced-tv-shows-nationwide-from-1968-on/
 
 
 ### Notes to Televising Black Politics in the Black Power Era
@@ -44,8 +44,6 @@ WNET. “List of Black-Produced TV Shows Nationwide, from 1968- On,” February 
 <a name="5"></a><sup>5</sup> National Advisory Commission on Civil Disorders, *Report*, 211.
 
 <a name="6"></a><sup>6</sup> Jane Rhodes, “The ‘Electronic Stimulus for a Black Revolution’: *Black Journal* and the 1960s Public Television," *Black Renaissance Noire* 14, no. 2 (Fall 2014): 137.
-
-
 
 ### Notes to *Black Journal*
 
@@ -107,6 +105,8 @@ WNET. “List of Black-Produced TV Shows Nationwide, from 1968- On,” February 
 
 <a name="35"></a><sup>35</sup> Heitner, *Black Power TV*, 120.
 
+### Notes to *Soul!*
+
 <a name="36"></a><sup>36</sup> Gayle Wald, *It’s Been Beautiful: Soul! and Black Power Television* (Durham: Duke University Press, 2015), 182.
 
 <a name="37"></a><sup>37</sup> Wald, *Soul!*, 182.
@@ -124,53 +124,5 @@ WNET. “List of Black-Produced TV Shows Nationwide, from 1968- On,” February 
 <a name="43"></a><sup>43</sup> Wald, *Soul!*, 185.
 
 <a name="44"></a><sup>44</sup> Wald, 182.
-
-
-
-
-### Notes to *Soul!*
-
-<a name="45"></a><sup>45</sup> Wald, 1.
-
-<a name="46"></a><sup>46</sup> While Christopher Lukas, a white man held the title of executive producer, the creative direction and content of *Soul!* was Black produced.
-
-<a name="47"></a><sup>47</sup> Wald, 182.
-
-<a name="48"></a><sup>48</sup> Ibid. 
-
-<a name="49"></a><sup>49</sup> Nikki Giovanni quoted in Heitner, 128.
-
-<a name="50"></a><sup>50</sup> Heitner, *Black Power TV*, 7
-
-<a name="51"></a><sup>51</sup> Wald, 153.
-
-<a name="52"></a><sup>52</sup> Although Stokley Carmichael changed his name to Kwame Ture in 1969, he is referred to as Carmichael during the episode.
-
-<a name="53"></a><sup>23</sup> Heitner, *Black Power TV*, 22.
-
-<a name="54"></a><sup>54</sup> Ibid., 144.
-
-<a name="55"></a><sup>55</sup> Ibid.
-
-<a name="56"></a><sup>56</sup> Ibid., 131.
-
-<a name="57"></a><sup>57</sup> Ibid., 151.
-
-<a name="58"></a><sup>58</sup> Wald, 185.
-
-<a name="59"></a><sup>59</sup> Ibid, 182.
-
-<a name="60"></a><sup>60</sup> Ibid.
-
-
-
-
-
-
-
-
-
-
-
 
 ## Main
