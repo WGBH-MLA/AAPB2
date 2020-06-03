@@ -72,11 +72,13 @@ Under its Project for New Television, the Ford Foundation contributed the majori
 ## Gallery
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/16_haizlip.png">
   <a class="caption-text">Ellis Haizlip, host of *Soul!*.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/17_cicely_tyson.png">
   <a class="caption-text">Actress Cicely Tyson on *Soul!*.</a>
@@ -92,6 +94,7 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="caption-text">Clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/18_poitier_belafonte_haizlip.png">
   <a class="caption-text">Sidney Poitier and Harry Belafonte on *Soul!*</a>
@@ -107,6 +110,7 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="caption-text">Clip from *SOUL!* episode "Belafonte, Nelson, Poitier" featuring actor Harry Belafonte. Courtesy WNET.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/15_carmen.png">
   <a class="caption-text">Dancer Carmen de Lavallade on *Soul!*.</a>
@@ -117,6 +121,7 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="caption-text">Clip from *SOUL!* episode "Black Woman" featuring choreographer/dancer Carmen De Lavallade. Courtesy WNET.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/19_farrahkan.png">
   <a class="caption-text">Nation of Islam Minister Louis Farrakhan on *Soul!*.</a>
@@ -147,6 +152,7 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="caption-text">Clip from *SOUL!* episode "Wherever We May Be" featuring activist Stokely Carmichael. Courtesy WNET.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/20_haizlip_and_van_peebles.png">
   <a class="caption-text">Ellis Haizlip and Melvin Van Peebles on *Soul!*.</a>
@@ -177,6 +183,7 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="caption-text">Clip from *SOUL!* episode "Makeba/Delfonics" featuring South African singer Miriam Makeba. Courtesy WNET.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/22_baraka.png">
   <a class="caption-text">Amiri Baraka.</a>
@@ -192,11 +199,13 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="caption-text">Clip from *SOUL!* episode "Baraka the Artist " featuring activist/author/poet Amiri Baraka. Courtesy WNET.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/21_nikki_gio_and_ali.png">
   <a class="caption-text">Nikki Giovanni and James Baldwin.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/23_giovanni_and_baldwin.png">
   <a class="caption-text">Guest host Nikki Giovanni interviewing Muhammad Ali.</a>
@@ -237,6 +246,7 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="caption-text">Clip from *SOUL!* episode "Black Woman" featuring poet Novella Nelson and *Soul!* producer and actress Anna Horsford. Courtesy WNET.</a>
   
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/c_soul_production_staff.jpg">
   <a class="caption-text">*Soul!* production staff.</a>
@@ -247,11 +257,13 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="caption-text">Clip from *SOUL!* episode "Farrakhan: The Minister" featuring host Ellis Haizlip. Courtesy WNET.</a>
   
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/26_audience_tables.png">
   <a class="caption-text"><em>Soul!</em>'s audience.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/25_audience_rolle.png">
   <a class="caption-text">Actress Esther Rolle in the studio audience.</a>
