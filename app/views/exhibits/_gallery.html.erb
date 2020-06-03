@@ -8,7 +8,7 @@
           <!-- here goeth thee modal sliides -->
         </div>
 
-        <div class="row">
+        <div style="background-color: #fff; margin:0; " class="row">
           <div id="exgal-modal-spacer" class="col-md-8">
           </div>
 
@@ -60,16 +60,13 @@
 
             <div class="row exgal-modal-height">
 
-              <div style="position: relative;" id="exgal-modal-leftpane" class="col-sm-8 col-md-8 col-lg-8 col-xs-12">
+              <div class="exgal-modal-leftpane col-sm-8 col-md-8 col-lg-8 col-xs-12 exgal-modal-playerhome">
 
-                <%= render(partial: 'exhibits/gallery_player',
-                            locals: {
-                              modal: true,
-                              media_info: gal[:media_info]
-                            }) %>
+                <!-- vjs gets moved to here -->
+
               </div>
 
-              <div id="exgal-modal-rightpane" class="col-sm-4 col-md-4 col-lg-4 col-xs-12">
+              <div class="exgal-modal-rightpane col-sm-4 col-md-4 col-lg-4 col-xs-12">
 
                 <div class="exgal-modal-title white-back">
                   <% if gal[:asset_url] %>
@@ -99,9 +96,9 @@
 
               <div class="col-md-12">
 
-                <div class="four-three-box">
+                <div class="four-three-box exgal-item-playerhome">
 
-                  <!-- whole gallery -->
+                  <!-- whole gallery player -->
                   <%= render(partial: 'exhibits/gallery_player',
                               locals: {
                                 modal: false,
@@ -228,18 +225,77 @@
         }
       });
 
+
+
+
+      // fullscreen, moving vidoe players
       $('#exgal-close-modal').click(function() {
+
+        // close the gallery modal
         $('#exgal-popup-container').modal('hide')
       }).hover(function() {
+
         $(this).find('img').attr('src', 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/close2.png').addClass('exhibit-hover').removeClass('exhibit-color<%= @exhibit_color_suffix %>');
       }, function() {
+
         $(this).find('img').attr('src', 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/close.png').removeClass('exhibit-hover').addClass('exhibit-color<%= @exhibit_color_suffix %>');
       });
 
       $('#exgal-fullscreen-button').click(function() {
+        // open the gallery modal
         $('#exgal-popup-container').modal('show');
-
+        moveVideoElements();
       });
+
+      function moveVideoElements(){
+        let destinations;
+        let resize_height;
+        let resize_width;
+
+        // check where the players are currently
+        if($('.exgal-player-container').parent().hasClass('exgal-item-playerhome')){
+          console.log("got modal dest")
+
+          destinations = $('.exgal-modal-playerhome');
+          // resize_height = $('div.exgal-modal-playerhome:visible').first().height();
+          // resize_width = $('div.exgal-modal-playerhome:visible').first().width();
+
+          // get the height of the video player, to fix the rightpane element's height after move
+          resize_height = $('#exgal-popup').height();
+
+        } else {
+
+          console.log("got item dest")
+          destinations = $('.exgal-item-playerhome');
+          // resize_height = $('div.four-three-box.exgal-item-playerhome:visible').first().height();
+          // resize_width = $('div.four-three-box.exgal-item-playerhome:visible').first().width();
+        }
+        
+        let players = $('.exgal-player-container');
+
+        console.log('got hw ', resize_height, resize_width)
+
+        // each gallery player
+        for(var i=0; i<players.length; i++){
+
+          // move each player to destination
+          let ele = $(players[i]).detach();
+          $(destinations[i]).append(ele);
+
+          if(resize_height){
+            console.log("newmod height ", $('.exgal-modal-rightpane').height())
+
+            $('.exgal-modal-rightpane').height(resize_height);
+          }
+        }
+
+      }
+
+      $('#exgal-popup-container').on('hidden.bs.modal', function () {
+        moveVideoElements();
+      });
+
+
     });
-  </script>
 <% end %>
+  </script>
