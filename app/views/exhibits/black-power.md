@@ -62,6 +62,7 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 ## Gallery
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</a>
   <a class="caption-text">*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</a>
   <img title="Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver" alt="Kathleen Cleaver and *Soul!* producer and host Ellis Haizlip" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png">
@@ -74,27 +75,31 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
   <a class="caption-text">An hour-long public-affairs special dealing with the meaning of the newly-passed Civil Rights Bill in the aftermath of national mourning for Dr. Martin Luther King.</a> 
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1_bloody_sunday.jpg">
-    <a class="caption-text">Bloody Sunday - Alabama police attack Selma-to-Montgomery Marchers, 1965. Photograph. Retrieved from the Federal Bureau of Investigation.</a>
-    <a class="credit-link" href="https://www.fbi.gov/">Courtesy of the Federal Bureau of Investigation</a>
+  <a image align="center">
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1_bloody_sunday.jpg">
+  <a class="caption-text">Bloody Sunday - Alabama police attack Selma-to-Montgomery Marchers, 1965. Photograph. Retrieved from the Federal Bureau of Investigation.</a>
+  <a class="credit-link" href="https://www.fbi.gov/">Courtesy of the Federal Bureau of Investigation</a>
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2_martin_luther_king.jpg">
-    <a class="caption-text">DeMarsico, Dick, photographer. *Gracie Mansion, Rev. Martin Luther King press conference*. New York, NY, July 30, 1964. Photograph. Retrieved from the Library of Congress.</a>
-    <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
+  <a image align="center">
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2_martin_luther_king.jpg">
+  <a class="caption-text">DeMarsico, Dick, photographer. *Gracie Mansion, Rev. Martin Luther King press conference*. New York, NY, July 30, 1964. Photograph. Retrieved from the Library of Congress.</a>
+  <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/3_watts_riots.jpg">
-    <a class="caption-text">*Three buildings burn on Avalon Blvd. and a surplus store burns at right as a looting, burning mob ruled the Watts section of Los Angeles*. Los Angeles, California, August 1965. Photograph. Retrieved from the Library of Congress.</a>
-    <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
+  <a image align="center">
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/3_watts_riots.jpg">
+  <a class="caption-text">*Three buildings burn on Avalon Blvd. and a surplus store burns at right as a looting, burning mob ruled the Watts section of Los Angeles*. Los Angeles, California, August 1965. Photograph. Retrieved from the Library of Congress.</a>
+  <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
 - <a class="type">image</a>
-<a class="credit-link"></a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/4_kerner_commission.jpg">
-    <a class="caption-text">Trikosko, Marion S., photographer. *[President Lyndon Baines Johnson with some members of the National Advisory Commission on Civil Disorders (Kerner Commission) in the Cabinet Room of the White House, Washington, D.C.]*. Washington, D.C., July 29, 1967. Photograph. Retrieved from the Library of Congress.</a>
-    <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
+  <a image align="center">
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/4_kerner_commission.jpg">
+  <a class="caption-text">Trikosko, Marion S., photographer. *[President Lyndon Baines Johnson with some members of the National Advisory Commission on Civil Disorders (Kerner Commission) in the Cabinet Room of the White House, Washington, D.C.]*. Washington, D.C., July 29, 1967. Photograph. Retrieved from the Library of Congress.</a>
+  <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
 ## Records
