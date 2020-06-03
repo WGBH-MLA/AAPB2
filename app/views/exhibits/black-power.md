@@ -55,8 +55,8 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 ## Cover
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png" alt="*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver."/></td></tr>
+  <caption align="bottom" class="exhibit-caption">*Soul!* production staff.</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/c_soul_production_staff.jpg" alt="The production staff of *Soul!*."/></td></tr>
 </table>
 
 ## Gallery
