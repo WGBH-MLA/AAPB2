@@ -56,7 +56,7 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
 
 ## Main
 
-#### Next: [*Soul!*](/exhibits/black-power/televising-black-politics/soul)
+#### Next: [*Soul!*](/exhibits/black-power/soul)
 
 ## Cover
 <table class="exhibit-image">
