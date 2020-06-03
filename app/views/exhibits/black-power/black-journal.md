@@ -60,8 +60,8 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
 
 ## Cover
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">*Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at a Nation of Islam grocery store in Chicago. Photograph.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_st_clair_bourne.jpg" alt="Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at a Nation of Islam grocery store in Chicago."/></td></tr>
+  <caption align="bottom" class="exhibit-caption">William Greaves and Lou House on the set of *Black Journal*. Photograph.</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house.png" alt="*Black Journal* hosts William Greaves and Lou House on the set."/></td></tr>
 </table>
 
 ## Gallery
@@ -131,12 +131,6 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/10_black_panthers.jpg">
   <a class="caption-text">Department of Justice. Federal Bureau of Investigation. 1935- (Most Recent) From: Series: Motion Picture Films and Video Recordings, ca. 1936 - ca. 1985, Record Group 65: Records of the Federal Bureau of Investigation, 1896 - 2008. Black Panthers with flags at the Alameda County Courthouse. Oakland, California. Photograph.</a>
   <a class="credit-link" href="https://www.fbi.gov/">Courtesy of the Department of Justice.</a>
-
-- <a class="type">image</a>
-  <a class="credit-link"></a>
-  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_st_clair_bourne.jpg">
-  <a class="caption-text">*Black Journal* producer St. Clair Bourne and cameraman Ray Lewis on location at NOI grocery store in Chicago. Photograph.</a>
-  <a class="credit-link" href="https://www.documentary.org/feature/black-journal-personal-look-backward">Courtesy of St. Clair Bourne, International Documentary Association.</a>
 
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_ElijahMuhammad.mp4</a>
