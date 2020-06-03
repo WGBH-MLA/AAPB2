@@ -90,32 +90,32 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
   
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_documentary_1.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
   <a class="caption-text">This clip from *Black Journal* episode twenty-three shows the documentary style of *Black Journal*. Courtesy WNET.</a> 
   
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2279602_documentary_2.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jw86h4dq8k">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jw86h4dq8k">View the full program record</a>
   <a class="caption-text">Clip from *Black Journal* episode nineteen. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Jambo_Greeting.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
   <a class="caption-text">Clip from *Black Journal* episode twenty-one features host Lou House giving his greeting. Courtesy WNET.</a>
   
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2278348.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-wp9t14vt8n">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-wp9t14vt8n">View the full program record</a>
   <a class="caption-text">Clip from *Black Journal* episode 312, titled "Black Compton." Courtesy WNET.</a>
   
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832319_Algiers_FilmFest.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-5h7br8n792">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-5h7br8n792">View the full program record</a>
   <a class="caption-text">This clip from *Black Journal* episode sixteen features footage from the Pan-African Cultural Festival in Algiers. Courtesy WNET.</a>
   
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Ethiopia.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717">View the full program record</a>
   <a class="caption-text">Clip from *Black Journal* episode twenty-one filmed in Ethiopia. Courtesy WNET.</a>
   
 - <a class="type">image</a>
@@ -140,22 +140,22 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
 
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2296150_ElijahMuhammad.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-rb6vx0718m">View the full program record</a>
   <a class="caption-text">Clip from *Black Journal* episode seven. Courtesy WNET.</a> 
 
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_ElijahMuhammad_2.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
   <a class="caption-text">Clip from *Black Journal* episode twenty-three featuring Nation of Islam leader Elijah Muhammad. Courtesy WNET.</a>
   
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1833096_NOI.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_62-x05x63bn23">View the full program record</a>
   <a class="caption-text">Clip from *Black Journal* episode twenty-three featuring a segment on the Nation of Islam. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/2083923.mp4</a>
-  <a class="record-link" href="http://americanarchive.org/catalog/cpb-aacip_512-b56d21sd0c">View the full program record</a>
+  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-b56d21sd0c">View the full program record</a>
   <a class="caption-text">Clip from *Black Journal* episode twenty-five. Tony Brown addresses the audience about *Black Journal*'s change of format. Courtesy WNET.</a>
 
 - <a class="type">image</a>
