@@ -97,11 +97,4 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
     <a class="caption-text">Trikosko, Marion S., photographer. *[President Lyndon Baines Johnson with some members of the National Advisory Commission on Civil Disorders (Kerner Commission) in the Cabinet Room of the White House, Washington, D.C.]*. Washington, D.C., July 29, 1967. Photograph. Retrieved from the Library of Congress.</a>
     <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
-- <a class="type">image</a>
-<a class="credit-link"></a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/7_stokley_carmichael.jpg">
-    <a class="caption-text">Fitch, Bob, photographer. *Stokely Carmichael Calling for Black Power*. Greenwood, MS, June 5, 1966. Photograph. Retrieved from the University of Georgia.</a>
-    <a class="credit-link" href="https://digilab.libs.uga.edu">Courtesy of the University of Georgia</a>
-    
-
 ## Records
