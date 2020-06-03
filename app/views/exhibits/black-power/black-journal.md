@@ -65,21 +65,25 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
 ## Gallery
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/8_greaves.png">
   <a class="caption-text">William Greaves, producer, director, and occasional co-host of *Black Journal*.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png">
   <a class="caption-text">William Greaves and Lou House on the set of *Black Journal*.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/12_0_black_journal_logo.png">
   <a class="caption-text">The *Black Journal* title card.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/11_greaves.png">
   <a class="caption-text">William Greaves wearing a dashiki.</a>
@@ -115,17 +119,20 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
   <a class="caption-text">Clip from *Black Journal* episode twenty-one filmed in Ethiopia. Courtesy WNET.</a>
   
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_0_house_and_cleaver.png">
   <a class="caption-text">Lou House and Kathleen Cleaver on *Black Journal*.</a>
   
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_j_edgar_hoover.jpg">
   <a class="caption-text">J. Edgard Hoover in the Oval Office in 1967. Washington, D.C., July 24, 1967. Photograph. Public Domain.</a>
   <a class="credit-link" href="https://www.fbi.gov/">Courtesy of the Department of Justice.</a>
   
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/10_black_panthers.jpg">
   <a class="caption-text">Department of Justice. Federal Bureau of Investigation. 1935- (Most Recent) From: Series: Motion Picture Films and Video Recordings, ca. 1936 - ca. 1985, Record Group 65: Records of the Federal Bureau of Investigation, 1896 - 2008. Black Panthers with flags at the Alameda County Courthouse. Oakland, California. Photograph.</a>
@@ -152,6 +159,7 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
   <a class="caption-text">Clip from *Black Journal* episode twenty-five. Tony Brown addresses the audience about *Black Journal*'s change of format. Courtesy WNET.</a>
 
 - <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/14_brown_and_carroll.jpg">
   <a class="caption-text">Tony Brown and Diahann Carroll.</a>
