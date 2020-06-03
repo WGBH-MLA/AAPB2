@@ -4,8 +4,6 @@
 
 ## Summary
 
-### Bibliography
-
 - Acham, Christine. *Revolution Televised: Prime Time and the Struggle for Black Power*. Minneapolis: University of Minnesota Press, 2004.
 
 - Bodroghkozy, Aniko. *Equal Time: Television and the Civil Rights Movement*. Urbana: University of Illinois Press, 2012.
