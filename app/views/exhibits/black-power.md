@@ -21,7 +21,7 @@
 - [Broadcasting While Black, Thirteen](https://www.thirteen.org/broadcastingwhileblack/)
 - [Black Power, National Archives](https://www.archives.gov/research/african-americans/black-power)
 - [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
-- [*Basic Black* Archive Website](https://www.wgbh.org/basic-black-show)
+- [*Basic Black*, WGBH](https://www.wgbh.org/basic-black-show)
 
 ## Main
 
