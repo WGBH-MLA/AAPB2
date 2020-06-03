@@ -51,7 +51,7 @@ A few of these programs such as *Black Journal* (NET, New York) and *Soul!* (WND
 
 Since Stokely Carmichael had called for Black Power during his June 16, 1966, speech in Greenwood, Mississippi, the concept of Black Power was largely depicted by mainstream media as radical and potentially dangerous. [<sup>6</sup>](/exhibits/black-power/notes#6) African American produced public and cultural affairs programming, however, gave voice to the changing political tide evident in the Black Power ethos of the time. These shows expressed a variety of political viewpoints and were often not tethered to the FCC’s “Fairness Doctrine” that required television shows to exhibit a balanced view on controversial topics. The producers of these shows, such as *Black Journal* producer William Greaves and Ellis Haizlip of *Soul!*, believed that for far too long television had excluded Black viewpoints all together. Black produced public affairs programs allowed for multiple perspectives on strategies for Black empowerment to be seen across national airwaves for the very first time in US history.
 
-#### Next: [Black Journal](/exhibits/Black-Power/Televising-Black-Politics/Black-Journal)
+#### Next: [Black Journal](/exhibits/black-power/black-journal)
 
 ## Cover
 <table class="exhibit-image">
