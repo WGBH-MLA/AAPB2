@@ -32,23 +32,31 @@
 
                 <h4 class="exgal-source exgal-title exhibit-color<%= @exhibit_color_suffix %> exgal-font italic exgal-main-margin"></h4>
 
-                <div id="exgal-modal-nav" class="exgal-nav exgal-nav-font">
 
-                  <span class="exgal-button exgal-back">Previous | </span>
+                <div class="row">
 
-                  <span class="exgal-count">
-                    <span class="current-item">1</span>
-                    of
-                    <span><%= gallery_info.count %></span>
-                  </span>
-                  <span class="exgal-button exgal-forward"> | Next</span>
-                </div>
+                  <div class="col-md-8">
+                    <div id="exgal-modal-nav" class="exgal-nav exgal-nav-font">
 
-                <div id="exgal-modal-close-con">
+                      <span class="exgal-button exgal-back">Previous | </span>
 
-                  <a id="exgal-close-modal">
-                    <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/close.png">
-                  </a>
+                      <span class="exgal-count">
+                        <span class="current-item">1</span>
+                        of
+                        <span><%= gallery_info.count %></span>
+                      </span>
+                      <span class="exgal-button exgal-forward"> | Next</span>
+                    </div>
+                  </div>
+
+                  <div class="col-md-4">
+                    <div id="exgal-modal-close-con">
+
+                      <a id="exgal-close-modal">
+                        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/assets/close.png">
+                      </a>
+                    </div>
+                  </div>
                 </div>
 
               </div>

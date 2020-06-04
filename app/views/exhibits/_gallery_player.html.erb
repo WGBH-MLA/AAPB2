@@ -1,12 +1,12 @@
 <% if media_info[:type] == 'video' || media_info[:type] == 'audio' %>
 
-  <div class="player exgal-player-container exgal-modal-height"  style="overflow: hidden;">
+  <div class="player exgal-player-container exgal-modal-height"  style="position: relative;">
     <section class="videocontent exhibit-player">
       <%=
         
         content_tag(media_info[:type],
                     controls: true,
-                    "class" => "exhibit-player-obj video-js vjs-default-skin vjs-4-3",
+                    "class" => " four-three-box video-js vjs-default-skin vjs-4-3",
                     # "id" => "player_media",
                     "aria-label" => "video player",
                     oncontextmenu: 'return false;',
@@ -30,7 +30,7 @@
 
   </div>
 <% elsif media_info[:type] == 'image' %>
-  <div class="exgal-player-container exgal-modal-height" style="background-color: #000; background-image: url('<%= media_info[:url] %>'); background-size: contain; background-repeat: no-repeat;<%= modal ? 'background-position: center center;' : '' %>"></div>
+  <div class="exgal-player-container exgal-modal-height exgal-image" style="background-color: #000; background-image: url('<%= media_info[:url] %>'); background-size: contain; background-repeat: no-repeat;"></div>
 
 <% elsif media_info[:type] == 'iframe' %>
   <div class="exgal-player-container exgal-modal-height">
