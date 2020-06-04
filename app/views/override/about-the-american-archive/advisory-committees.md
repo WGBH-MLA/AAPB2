@@ -44,7 +44,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Sherry Levitt**
 <br>Executive Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
 
-**Lawrence Paska, Ph.D**
+**Lawrence M. Paska, Ph.D**
 <br>Executive Director, National Council for the Social Studies
 
 **Lee Ann Potter (EduAC Co-Chair)**
