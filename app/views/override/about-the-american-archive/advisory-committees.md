@@ -38,7 +38,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Benjamin Leff**
 <br>Social Studies Teaching Associate, University Laboratory High School, Urbana, IL
 
-**Kristen Lehner**
+**Kristin Lehner**
 <br>Director, Secondary Education Content & Curriculum Strategy, PBS Education
 
 **Sherry Levitt**
