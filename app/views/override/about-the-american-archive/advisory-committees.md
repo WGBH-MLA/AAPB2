@@ -51,7 +51,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>Director of Learning and Innovation Office, Library of Congress
 
 **Jen Reidel**
-Social Studies Teacher 9-12, Bellingham School District, WA
+<br>Social Studies Teacher 9-12, Bellingham School District, WA
 
 **Ted Sicker**
 <br>Executive Producer, Education, WGBH
