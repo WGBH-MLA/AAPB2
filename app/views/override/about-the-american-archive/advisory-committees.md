@@ -5,7 +5,7 @@ In 2018, the American Archive of Public Broadcasting established three advisory 
 
 ## Education Advisory Committee (EduAC)
 
-### Purpose and Mission
+### Purpose and Mission 
 The AAPB EduAC is a group of individuals working in education who are passionate
 about public media and its long-term preservation and access. The purpose of the EduAC
 is to guide and assist the AAPB with regard to outreach and use of the AAPB,
