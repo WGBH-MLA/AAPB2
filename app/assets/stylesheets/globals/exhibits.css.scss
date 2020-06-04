@@ -349,8 +349,9 @@ h3.exhibit-title {
 }
 
 #exgal-modal-nav {
+  border: none;
   margin-left: 6%;
-  position: absolute;
+  /*position: absolute;*/
   bottom: 1.6em;
   width: 160px;
   height: 10px;
@@ -517,11 +518,8 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
     padding: 2%;
   }
 
-  #exgal-modal-spacer {
-  }
-
   #exgal-modal-bottom {
-    background-color: #fff;
+    background-color: #f3f;
   }
 
   #exgal-modal-nav {
