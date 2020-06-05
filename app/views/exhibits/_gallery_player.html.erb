@@ -5,8 +5,9 @@
       <%=
         
         content_tag(media_info[:type],
+                    id: media_info[:index],
                     controls: true,
-                    "class" => " four-three-box video-js vjs-default-skin vjs-4-3",
+                    "class" => "gallery-videoplayer four-three-box video-js vjs-default-skin vjs-4-3",
                     # "id" => "player_media",
                     "aria-label" => "video player",
                     oncontextmenu: 'return false;',

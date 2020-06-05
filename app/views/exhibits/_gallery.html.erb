@@ -132,7 +132,8 @@
                   <%= render(partial: 'exhibits/gallery_player',
                               locals: {
                                 modal: false,
-                                media_info: gal[:media_info]
+                                media_info: gal[:media_info],
+                                index: i
                               }) %>
                 </div>
               </div>
@@ -195,8 +196,15 @@
   <script type="text/javascript">
 
     let is_item=true;
+    let players = [];
 
     $(document).ready(function() {
+        
+      // init a player for each video slide
+      $('.gallery-videoplayer').each(function() {
+        players.push ( videojs( $(this).attr('id') ) );
+      })
+
       viewSlide(1);
 
       // handle gallery buttons
@@ -239,6 +247,11 @@
           }
         }
 
+
+        for(var i=0; i<players.length; i++){
+          console.log('pause puaes ', $(this).attr('id'))
+          players[i].pause();          
+        }
         viewSlide(next_item);
       });
 
