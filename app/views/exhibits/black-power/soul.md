@@ -244,12 +244,6 @@ Under its Project for New Television, the Ford Foundation contributed the majori
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152889_3_MotherofCivilization.mp4</a>
   <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h">View the full program record</a>
   <a class="caption-text">Clip from *SOUL!* episode "Black Woman" featuring poet Novella Nelson and *Soul!* producer and actress Anna Horsford. Courtesy WNET.</a>
-  
-- <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
-  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/c_soul_production_staff.jpg">
-  <a class="caption-text">*Soul!* production staff.</a>
 
 - <a class="type">video</a>
   <a class="media-url">https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_WriteUs.mp4</a>
