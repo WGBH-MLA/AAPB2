@@ -2,15 +2,13 @@
 
 4
 
-## Summary
-
-### Bibliography
+## Summary 
 
 - Acham, Christine. *Revolution Televised: Prime Time and the Struggle for Black Power*. Minneapolis: University of Minnesota Press, 2004.
 
 - Bodroghkozy, Aniko. *Equal Time: Television and the Civil Rights Movement*. Urbana: University of Illinois Press, 2012.
 
-- Carson, Clayborne, et al., eds. *The Eyes on the Prize: Civil Rights Reader: Documents, Speeches, and Firsthand Accounts from the Black Freedom Struggle, 1954-1990*. New York: Viking, 1991.
+- Carson, Clayborne, et al., eds. *The Eyes on the Prize: Civil Rights Reader: Documents, Speeches, and Firsthand Accounts from the Black Freedom Struggle, 1954-1990*. New York: Viking, 1991. 
 
 - Curtin, Michael. *Redeeming the Wasteland: Television Documentary and Cold War Politics*. New Brunswick: Rutgers University Press, 1995.
 
@@ -33,7 +31,7 @@
 
 ### Notes to Televising Black Politics in the Black Power Era
 
-<a name="1"></a><sup>1</sup> United States. National Advisory Commission on Civil Disorders, *Report* (Washington, DC: Government Printing Office), 1; https://babel.hathitrust.org/cgi/pt?id=mdp.39015000225410&view=1up&seq=23.
+<a name="1"></a><sup>1</sup> United States. National Advisory Commission on Civil Disorders, *Report* (Washington, DC: Government Printing Office), 1; https://babel.hathitrust.org/cgi/pt?id=mdp.39015000225410&view=1up&seq=23. 
 
 <a name="2"></a><sup>2</sup> Aniko Bodroghkozy, *Equal Time: Television and the Civil Rights Movement* (Urbana, IL: University of Illinois Press, 2012); Robert J. Donovan and Ray Scherer, *Unsilent Revolution: Television News and American Public Life, 1948-1991* (Cambridge, UK: Cambridge University Press, 1992), 17; Mary Dudziak, *Cold War Civil Rights: Race and the Image of American Democracy* (Princeton: Princeton University Press, 2000).
 
@@ -55,7 +53,7 @@
 
 <a name="10"></a><sup>10</sup> Devorah Heitner, *Black Power TV* (Durham: Duke University Press, 2013), 87.
 
-<a name="11"></a><sup>11</sup> “NET’s ‘Black Journal’ on View Wed.,” *New York Amsterdam News*, June 8, 1968, 22, https://search.proquest.com/docview/226589470?accountid=12084.
+<a name="11"></a><sup>11</sup> “NET’s ‘Black Journal’ on View Wed.,” *New York Amsterdam News*, June 8, 1968, 22, https://search.proquest.com/docview/226589470?accountid=12084. 
 
 <a name="12"></a><sup>12</sup> Heitner, *Black Power TV*, 96-98.
 
