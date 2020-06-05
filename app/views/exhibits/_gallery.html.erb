@@ -247,9 +247,7 @@
           }
         }
 
-
         for(var i=0; i<players.length; i++){
-          console.log('pause puaes ', $(this).attr('id'))
           players[i].pause();          
         }
         viewSlide(next_item);
@@ -261,19 +259,12 @@
           is_item = !is_item;
         }
 
-        console.log("I would like to view ", new_item)
-
         let old_item = $('#exgal-main').attr("data-current-item");
-        console.log('old item is ', old_item)
 
         let destination
         if( is_item ){ 
-          
-          console.log('item destination')
           destination = $('#exgal-item-viewer');
         } else {
-
-          console.log('modal destination')
           destination = $('#exgal-modal-viewer');
         }
 
@@ -294,21 +285,16 @@
 
         let new_item_data = $('.exgal-' + new_item).first();
 
-        console.log(new_item_data)
 
         // source data
         let main_content = new_item_data.find('.exgal-storage-playerhome .exgal-player-container').detach();
-        console.log(main_content)
         destination.find('.exgal-playerhome').first().append(main_content)
-        console.log('moved main_content')
 
         let title = new_item_data.find('.exgal-titletext')
         let caption = new_item_data.find('.exgal-caption')
         let credit_url = new_item_data.find('.exgal-credit_url')
         let source_text = new_item_data.find('h4.exgal-source_text')
         let asset_url =  new_item_data.find('.exgal-asset_url')
-
-        console.log('source data',main_content.text(),title.text(),caption.text(),credit_url.text(),source_text.text(),asset_url.text())
 
         let title_dest;
         let caption_dest;
@@ -326,10 +312,6 @@
         }
 
         if(caption){
-          console.log('caption_dest')
-          console.log(caption_dest.first().html())
-          console.log('cap ele')
-          console.log(caption.first().text())
           caption_dest.text(caption.first().text());
         }
 
@@ -346,7 +328,6 @@
         }
 
         // save index of the new item
-        console.log("NWE ITEM IS ", new_item)
         $('#exgal-main').attr("data-current-item", new_item);
         $('.current-item').text(new_item);
 
