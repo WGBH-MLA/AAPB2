@@ -59,7 +59,7 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" alt="Hosts William Greaves and Lou House of *Black Journal*."/></td></tr>
 </table>
 
-## Gallery
+## Gallery 
 
 - <a class="type">image</a>
   <a image align="center">
