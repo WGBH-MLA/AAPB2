@@ -1,7 +1,5 @@
 # PBS NewsHour Digitization Project
 
-![banner](/page-banners/banner4.jpg)
-
 The PBS NewsHour Digitization Project, funded by the Council on Library and Information Resources (CLIR), is an unprecedented 
 effort in collaboration between WGBH, the Library of Congress, Washington Educational Television Association (WETA), and NewsHour 
 Productions, LLC. This project will digitize, preserve, and allow public access to 32 years of *PBS NewsHour*’s predecessor programs, 

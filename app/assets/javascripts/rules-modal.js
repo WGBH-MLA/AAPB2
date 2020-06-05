@@ -1,7 +1,3 @@
-$(document).ready(
-        function() {
-            $('#rules-modal').modal({
-                keyboard: false
-            });
-        }
-);
+$(function() {
+  $('#rules-modal').modal({keyboard: false});
+});

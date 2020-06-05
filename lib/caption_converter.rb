@@ -1,8 +1,11 @@
 require 'srt'
 require 'nokogiri'
 require 'json'
+require_relative 'transcript_viewer_helper'
 
 class CaptionConverter
+  extend TranscriptViewerHelper
+
   def self.srt_to_vtt(srt)
     parse_srt(srt)
     vtt = srt
@@ -13,35 +16,16 @@ class CaptionConverter
     "WEBVTT\n\n#{vtt}".strip
   end
 
-  def self.srt_to_html(srt)
+  def self.srt_to_transcript(srt)
     parsed_srt = parse_srt(srt)
-    begin
-      Nokogiri::XML::Builder.new do |x|
-        x.div(class: 'transcript') do
-          parsed_srt.lines.each do |line|
-            x.div(
-              'data-timecodebegin' => as_timestamp(line.start_time),
-              'data-timecodeend' => as_timestamp(line.end_time)
-            ) do
-              x.span(' ',
-                     class: 'play-from-here',
-                     'data-timecodebegin' => as_timestamp(line.start_time)
-                    )
-              # Text content is just to prevent element collapse and keep valid HTML.
-              x.text(line.text.join("\n"))
-            end
-          end
-        end
-      end.to_xml.gsub("<?xml version=\"1.0\"?>\n", '')
-    rescue
-      nil
-    end
+    return nil unless parsed_srt
+    build_transcript(parsed_srt.lines, 'caption')
   end
 
   def self.srt_to_text(srt)
     caption_text = []
     parsed_srt = parse_srt(srt)
-
+    return nil unless parsed_srt
     parsed_srt.lines.each do |line|
       caption_text << line.text
     end
@@ -77,9 +61,11 @@ class CaptionConverter
   end
 
   def self.parse_srt(srt)
+    # We don't want an error if srt.nil?. We just don't want to display the caption.
+    return nil if srt.nil?
     SRT::File.parse(srt).tap do |parsed|
       if parsed.errors.any?
-        Rails.logger.warn('Warning: ' + parsed.errors.join(' '))
+        # Rails.logger.warn('Warning: ' + parsed.errors.join(' '))
         return nil
       end
     end

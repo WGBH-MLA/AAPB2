@@ -9,6 +9,15 @@
       },
       "Action": "s3:GetObject",
       "Resource": "arn:aws:s3:::americanarchive.org/*"
+    },
+    {
+      "Sid": "AllowAdminUser",
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "arn:aws:iam::127946490116:user/foo4thought"
+      },
+      "Action": "s3:DeleteObject",
+      "Resource": "arn:aws:s3:::americanarchive.org/*"
     }
   ]
 }

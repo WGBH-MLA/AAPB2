@@ -6,7 +6,7 @@
 
 ## Summary
 
-The <em>Jubilee Singers</em> Interviews Collection includes 19 raw interviews conducted in 2000 for the <em>American Experience</em> documentary <em>Jubilee Singers: Sacrifice and Glory</em>. The film focused on the early years of the Fisk Jubilee Singers, an ensemble of students from Fisk University in Tennessee who created the a cappella group in 1871 in an effort to raise funds for the financially-struggling school. The original Fisk Jubilee Singers, largely made up of former slaves, toured around the United States, and, later, Europe, and were known for their performances of spirituals, which they are partially credited with preserving and introducing to a wider audience. Interviews were conducted with musicologists and historians, including John Hope Franklin, historian and recipient of the Presidential Medal of Freedom; Toni Anderson, Music Historian; Horace Clarence Boyer, musicologist and noted scholar of African-American gospel music; and Reavis L. Mitchell, Professor of History at Fisk University. Topics include spirituals and music, slavery, racism, religion, segregation, the American Civil War, and higher education, particularly historically black colleges and universities (HBCUs), and Fisk University. 
+The <em>Jubilee Singers</em> Interviews Collection includes 19 raw interviews conducted in 2000 for the <em>American Experience</em> documentary <em>Jubilee Singers: Sacrifice and Glory</em>. The film focused on the early years of the Fisk Jubilee Singers, an ensemble of students from Fisk University in Tennessee who created the a cappella group in 1871 in an effort to raise funds for the financially-struggling school. The original Fisk Jubilee Singers, largely made up of former slaves, toured around the United States, and, later, Europe, and were known for their performances of spirituals, which they are partially credited with preserving and introducing to a wider audience. Interviews were conducted with musicologists and historians, including John Hope Franklin, historian and recipient of the Presidential Medal of Freedom; Toni Anderson, Music Historian; Horace Clarence Boyer, musicologist and noted scholar of African-American gospel music; and Reavis L. Mitchell, Professor of History at Fisk University. Topics include spirituals and music, slavery, racism, religion, segregation, the American Civil War, and higher education, particularly historically black colleges and universities (HBCUs), and Fisk University.
 
 ## Background
 
@@ -23,7 +23,6 @@ The <em>Jubilee Singers</em> interviews were conducted in 2000 for the <em>Ameri
 
 ## Resources
 
-- [Fisk Jubilee Singers Website](http://fiskjubileesingers.org/)
 - [Jubilee Singers Archives (1858-1924) finding aid, Fisk University (pdf)](https://www.fisk.edu/assets/files/cs/jubilee-singersarchivesoriginal1858-1924.pdf)
 - [Archives of African American Music and Culture, Indiana University](https://aaamc.indiana.edu/)
 - [<em>Tell Them We Are Rising</em> Documentary Website](http://www.hbcurising.com/)
@@ -33,8 +32,17 @@ The <em>Jubilee Singers</em> interviews were conducted in 2000 for the <em>Ameri
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
 Recordings in the collection are multi-part conversations with single interviewees.
 
 ## Terms
+
+
+## Timeline
+
+
+## Sort
+
+title+asc
+

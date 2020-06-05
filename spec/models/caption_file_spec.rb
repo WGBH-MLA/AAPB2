@@ -1,5 +1,7 @@
 require 'rails_helper'
 require 'webmock'
+include ApplicationHelper
+include SnippetHelper
 
 describe CaptionFile do
   before :all do
@@ -8,18 +10,12 @@ describe CaptionFile do
     WebMock.enable!
   end
 
-  let(:id_1) { 'cpb-aacip-111-02c8693q' }
-  let(:srt_example_1) { File.read('./spec/fixtures/captions/srt/example_1.srt') }
-  let(:vtt_example_1) { File.read('./spec/fixtures/captions/web_vtt/example_1.vtt') }
-  let(:html_example_1) { File.read('./spec/fixtures/captions/html/example_1.html') }
-  let(:json_example_1) { JSON.parse(File.read('./spec/fixtures/captions/json/example_1.json')) }
-  let(:caption_file_1) { CaptionFile.new(id_1) }
+  let(:caption_file) { CaptionFile.new("1a2b") }
 
-  let(:id_2) { '1a2b' }
-  let(:caption_file_2) { CaptionFile.new(id_2) }
-  let(:srt_example_2) { File.read('./spec/fixtures/captions/srt/1a2b.srt1.srt') }
-
-  let(:id_3) { 'invalid123' }
+  let(:vtt_example) { File.read('./spec/fixtures/captions/web_vtt/vtt_example.vtt') }
+  let(:srt_example) { File.read('./spec/fixtures/captions/srt/srt_example.srt') }
+  let(:html_example) { File.read('./spec/fixtures/captions/html/html_example.html') }
+  let(:json_example) { File.read('./spec/fixtures/captions/json/json_example.json') }
 
   let(:query_with_punctuation) { 'president, eisenhower: .;' }
   let(:query_with_stopwords) { 'the president eisenhower stopworda ' }
@@ -28,102 +24,101 @@ describe CaptionFile do
   let(:caption_query_one) { %w(LITTLE ROCK) }
   let(:caption_query_two) { %w(101ST AIRBORNE) }
   let(:caption_query_three) { %w(LOYE 000000 [SDBA]) }
+  let(:caption_query_four) { ["LITTLE ROCK"] }
 
-  before do
-    # Stub requests so we don't actually have to fetch them remotely. But note
-    # that this requires that the files have been pulled down and saved in
-    # ./spec/fixtures/srt/ with the same filename they have in S3.
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_1)).to_return(body: srt_example_1)
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_2)).to_return(body: srt_example_2)
-    WebMock.stub_request(:get, CaptionFile.srt_url(id_3)).to_return(status: [500, 'Internal Server Error'])
-  end
+  context 'with a vtt CaptionFile on s3' do
+    before do
+      CaptionFile.any_instance.stub(:captions_src).and_return('https://s3.amazonaws.com/americanarchive.org/captions/1a2b.vtt')
+      WebMock.stub_request(:get, caption_file.vtt_url).to_return(body: vtt_example)
+    end
 
-  describe '#srt' do
-    it 'returns the SRT formatted caption retrieved from remote_url' do
-      expect(caption_file_1.srt).to eq srt_example_1
+    describe '#vtt?' do
+      it 'returns true for a vtt' do
+        expect(caption_file.vtt?).to eq(true)
+      end
+    end
+
+    describe '#vtt' do
+      context 'with a file present on s3' do
+        it 'returns the captions formatted as WebVTT' do
+          expect(caption_file.vtt).to eq vtt_example
+        end
+      end
     end
   end
 
-  describe '#vtt' do
-    it 'returns the captions formatted as WebVTT' do
-      expect(caption_file_1.vtt).to eq vtt_example_1
+  context 'with a srt CaptionFile on s3' do
+    before do
+      CaptionFile.any_instance.stub(:captions_src).and_return('https://s3.amazonaws.com/americanarchive.org/captions/1a2b.srt')
+      WebMock.stub_request(:get, caption_file.srt_url).to_return(body: srt_example)
+      WebMock.stub_request(:get, caption_file.vtt_url).to_raise(OpenURI::HTTPError.new('', ''))
+    end
+
+    describe '#vtt?' do
+      it 'returns false for a vtt' do
+        expect(caption_file.vtt?).to eq(false)
+      end
+    end
+
+    describe '#vtt' do
+      it 'converts to vtt from srt' do
+        expect(caption_file.vtt).to include vtt_example
+      end
+    end
+
+    describe '#html' do
+      it 'returns the captions formatted as HTML' do
+        expect(caption_file.html).to include html_example
+      end
+    end
+
+    describe '#text' do
+      it 'returns caption text without timecodes' do
+        expect(caption_file.text).to include('male narrator: IN THE SUMMER OF 1957,')
+        expect(caption_file.text).not_to include('00:00:38,167 --> 00:00:40,033')
+      end
+    end
+
+    describe '#json' do
+      it 'returns the captions formatted as JSON string' do
+        expect(caption_file.json).to include(json_example.to_s)
+      end
+    end
+
+    describe '#snippet_from_query' do
+      it 'returns the caption from the beginning if query word is within first 200 characters' do
+        caption = snippet_from_query(caption_query_one, caption_file.text, 200, '.')
+
+        # .first returns the preceding '...'
+        expect(caption.split[1]).to eq('NARRATOR:')
+      end
+
+      it 'truncates the begining of the caption if keyord is not within first 200 characters' do
+        caption = snippet_from_query(caption_query_two, caption_file.text, 200, '.')
+
+        # .first returns the preceding '...'
+        expect(caption.split[1]).to eq('<mark>AIRBORNE</mark>.')
+      end
+
+      it 'returns nil captions when query not in params' do
+        caption = snippet_from_query(caption_query_three, caption_file.text, 200, '.')
+        expect(caption).to eq(nil)
+      end
+
+      it 'marks compound keyword within a caption text' do
+        caption = snippet_from_query(caption_query_four, caption_file.text, 200, '.')
+        expect(caption).to include('<mark>LITTLE ROCK</mark>')
+      end
     end
   end
 
-  describe '#html' do
-    it 'returns the captions formatted as HTML' do
-      expect(caption_file_1.html).to eq html_example_1
-    end
-  end
-
-  describe '#text' do
-    it 'returns caption text without timecodes' do
-      expect(caption_file_1.text).to include('male narrator: IN THE SUMMER OF 1957,')
-      expect(caption_file_1.text).not_to include('00:00:38,167 --> 00:00:40,033')
-    end
-  end
-
-  describe '#json' do
-    it 'returns the captions formatted as JSON' do
-      expect(JSON.parse(caption_file_1.json)).to eq(json_example_1)
-    end
-  end
-
-  describe '#captions_from_query' do
-    it 'returns the caption from the beginning if query word is within first 200 characters' do
-      caption = caption_file_2.captions_from_query(caption_query_one)
-
-      # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('male')
-    end
-
-    it 'truncates the begining of the caption if keyord is not within first 200 characters' do
-      caption = caption_file_2.captions_from_query(caption_query_two)
-
-      # .first returns the preceding '...'
-      expect(caption.split[1]).to eq('PUZZLING')
-    end
-
-    it 'returns nil captions when query not in params' do
-      caption = caption_file_2.captions_from_query(caption_query_three)
-
-      expect(caption).to eq(nil)
-    end
-  end
-
-  ###
-  # Class method tests
-  ###
-
-  describe '.srt_filename' do
-    it 'returns the filename based on the ID' do
-      expect(CaptionFile.srt_filename('foo')).to eq 'foo.srt1.srt'
-    end
-  end
-
-  describe '.srt_url' do
-    it 'returns the URL to the remote SRT caption file' do
-      expect(CaptionFile.srt_url('foo')).to eq 'https://s3.amazonaws.com/americanarchive.org/captions/foo/foo.srt1.srt'
-    end
-  end
-
-  describe '.clean_query_for_captions' do
+  describe '.clean_query_for_snippet' do
     it 'removes punctuation from and capitalizes the user query' do
-      expect(CaptionFile.clean_query_for_captions(query_with_punctuation)).to eq(test_array)
+      expect(clean_query_for_snippet(query_with_punctuation)).to eq(test_array)
     end
 
     it 'uses stopwords.txt to remove words not used in actual search' do
-      expect(CaptionFile.clean_query_for_captions(query_with_stopwords)).to eq(test_array)
-    end
-  end
-
-  describe '.file_present?' do
-    it 'returns true for an id with a file on S3' do
-      expect(CaptionFile.file_present?(id_2)).to eq(true)
-    end
-
-    it 'returns false for an id without a file on S3' do
-      expect(CaptionFile.file_present?(id_3)).to eq(false)
+      expect(clean_query_for_snippet(query_with_stopwords)).to eq(test_array)
     end
   end
 

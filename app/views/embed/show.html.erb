@@ -1,57 +1,77 @@
-<div class="row embed-player-row">
-  <div class="col-xs-12 col-sm-6 col-md-6 embed-player">
-    <section class="videocontent">
-    <%=
-      @pbcore.media_srcs.map do |media_src|
-        media = @pbcore.video? ? 'video' : 'audio'
-        content_tag(media,
-                    controls: true,
-                    "class" => "video-js vjs-default-skin vjs-fluid",
-                    "id" => "player_media",
-                    "aria-label" => "video player",
-                    oncontextmenu: 'return false;',
-                    preload: 'auto',
-                    crossorigin: 'with-credentials',
-                    :"data-setup" => '{}',
-                    poster: @pbcore.img_src) do %>
+<% if can? :play_embedded, @pbcore %>
+  <div class="row embed-player-row">
+    <div class="col-xs-12 col-sm-6 col-md-6 embed-player">
+      <section class="videocontent">
+      <%=
+        @pbcore.media_srcs.map do |media_src|
+          media = @pbcore.video? ? 'video' : 'audio'
+          content_tag(media,
+                      controls: true,
+                      "class" => "video-js vjs-default-skin vjs-fluid",
+                      "id" => "player_media",
+                      "aria-label" => "video player",
+                      oncontextmenu: 'return false;',
+                      preload: 'auto',
+                      crossorigin: 'with-credentials',
+                      :"data-setup" => '{}',
+                      poster: @pbcore.img_src) do %>
 
-          <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+            <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
-          <% if @pbcore.captions_src %>
-            <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
-          <% end %>
-          <% if ChapterFile.file_present?(@pbcore.id) %>
-            <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
-          <% end %>
-          <%
-        end
-      end.join().html_safe()
-    %>
-    </section>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-6 embed-data">
-    <dl>
-      <dt>Title</dt>
-      <dd>
-        <a data-no-turbolink="true" href="/catalog/<%= @pbcore.id %>"><%= @pbcore.title %></a>
-      </dd>
-    </dl>
-    <dl>
-      <dt>Contributing Organization</dt>
-        <% @pbcore.contributing_organization_objects.each do |org| %>
-          <dd><a href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
-            (<%= org.city %>, <%= org.state %>)</dd>
-        <% end %>
-    </dl>
-    <% unless @pbcore.asset_dates.empty? %>
+            <% if @pbcore.captions_src %>
+              <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+            <% end %>
+            <% if ChapterFile.file_present?(@pbcore.id) %>
+              <track kind="chapters" src=<%= ChapterFile.vtt_url(@pbcore.id) %> srclang="en" label="Chapters" />
+            <% end %>
+            <%
+          end
+        end.join().html_safe()
+      %>
+      </section>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 embed-data">
       <dl>
-        <% @pbcore.asset_dates.each do |type,date| %>
-          <dt><%= type %></dt>
-          <dd><%= date %></dd>
-        <% end %>
+        <dt>Title</dt>
+        <dd>
+          <a data-no-turbolink="true" href="/catalog/<%= @pbcore.id %>"><%= @pbcore.title %></a>
+        </dd>
       </dl>
-    <% end %>
+      <dl>
+        <dt>Contributing Organization</dt>
+          <% @pbcore.contributing_organization_objects.each do |org| %>
+            <dd><a href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
+              (<%= org.city %>, <%= org.state %>)</dd>
+          <% end %>
+      </dl>
+      <% unless @pbcore.asset_dates.empty? %>
+        <dl>
+          <% @pbcore.asset_dates.each do |type,date| %>
+            <dt><%= type %></dt>
+            <dd><%= date %></dd>
+          <% end %>
+        </dl>
+      <% end %>
 
-    <p>By accessing this content you agree to the AAPB's <a href="/legal/orr-rules">Online Reading Room Rules of Use</a>.</p>
+      <p>By accessing this content you agree to the AAPB's <a href="/legal/orr-rules">Online Reading Room Rules of Use</a>.</p>
+
+      <% if @is_clipped %>
+        <p>
+          This is a segment of a program available on the AAPB website. <a href="/catalog/<%= @pbcore.id %>">Access the full-length item.</a>
+        </p>
+      <% end %>
+    </div>
   </div>
-</div>
+<% else %>
+  <% if @pbcore.public? && !current_user.usa? %>
+    Please note: This content is currently not available at your location.
+  <% elsif @pbcore.protected? %>
+    Please note: This content is only available at WGBH and the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
+  <% elsif @pbcore.private? %>
+    Please note: This content is only available at the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
+  <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
+    This content has not been digitized. Please contact the contributing organization(s) listed below.
+  <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
+    This content has not been digitized.
+  <% end %>
+<% end %>

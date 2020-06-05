@@ -6,7 +6,7 @@
     <%= render partial: 'special_collections/search_results', locals: { special_collection: @special_collection } %>
   </div>
 
-  <%= render partial: 'special_collections/search_help_modal' %>
+  <%= render partial: 'shared/basic_modal', locals: { modal_id: "searchHelpModal", title: "Need Help Searching?", body: @special_collection.help_html.html_safe } %>
 <% else %>
   <div class="page-header">
     <h1>Search Results</h1>

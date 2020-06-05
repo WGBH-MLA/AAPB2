@@ -1,7 +1,3 @@
-# rubocop:disable Style/HashSyntax
-# Hash rockets are important in deployments, for a reason we don't understand,
-# but rubocop's default is to clear them.
-
 source 'https://rubygems.org'
 
 # Specify specific version of ruby with which the app is compatible.
@@ -10,7 +6,7 @@ ruby '2.4.4'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.8'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'sqlite3', '~> 1.3.13'
 # gem 'mysql2', :group => :production
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0.7'
@@ -24,12 +20,6 @@ gem 'therubyracer', :platforms => :ruby
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
-
-# Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-gem 'turbolinks'
-
-# A package that helps fix jquery code that breaks due to turbolinks.
-gem 'jquery-turbolinks'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
@@ -52,32 +42,31 @@ gem 'capistrano-passenger', :group => :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'cmless', '1.0.0'
+gem 'cmless', git: 'https://github.com/WGBH-MLA/cmless.git'
 
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
-gem 'wordpress-client'
 
 gem 'blacklight', '5.19.2'
 gem 'blacklight-gallery', '0.4.1'
 
 gem 'solrizer'
 gem 'rsolr'
-gem 'jettywrapper', '~> 1.7'
+gem 'jettywrapper'
 
-gem 'blacklight_range_limit'
+gem 'blacklight_range_limit', '5.2.0'
 
 gem 'actionpack-page_caching'
 gem 'srt'
 
 gem 'sony_ci_api', '~> 0.2.1'
 
-gem 'rubyzip', '~> 1.2.1'
+gem 'rubyzip', '~> 1.3.0'
 
 gem 'cancan'
-gem 'geoip'
+gem 'maxminddb'
 gem 'fastimage'
-gem 'rack-cors', '~> 1.0.2', :require => 'rack/cors'
+gem 'rack-cors', '~> 1.0.5', :require => 'rack/cors'
 
 gem 'aws-sdk', '~> 2', :group => :development # Unless we want the AWS credentials on Travis for tests...
 
@@ -96,4 +85,8 @@ gem 'pry-nav', :group => :development
 
 gem 'passenger', :group => :production
 
-gem 'nokogiri', '~> 1.8.4'
+gem 'nokogiri', '~> 1.10.4'
+
+# its back
+gem 'bigdecimal'
+gem 'httparty'

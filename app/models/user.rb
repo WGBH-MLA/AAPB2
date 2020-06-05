@@ -22,7 +22,7 @@ class User
   end
 
   def usa?
-    ::GeoIPCountry.instance.country_code(request.remote_ip) == 'US' || onsite?
+    %w(US PR WS GU MP VI).include?(::GeoIPCountry.instance.country_code(request.remote_ip)) || onsite?
     # WGBH doesn't actually geocode to USA. No idea why.
   end
 
@@ -70,6 +70,7 @@ class User
     @onsite_ip_ranges ||= begin
       ranges = [WGBH_IP_RANGE, LOC_IP_RANGE]
       ranges << IPAddr.new('127.0.0.1') if Rails.env.development?
+      ranges << IPAddr.new('::1') if Rails.env.development?
       ranges
     end
   end

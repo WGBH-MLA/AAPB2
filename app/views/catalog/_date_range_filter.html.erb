@@ -1,0 +1,104 @@
+<nav class="panel panel-default facet_limit blacklight-asset_date ">
+
+
+  <div onClick="{ $(this).toggleClass('collapsed'); $('#facet-asset_date').toggleClass('in')}" class="<% if(params['exact_or_range'].blank?) %>collapsed <% end %> collapse-toggle panel-heading" data-toggle="collapse" aria-expanded="true">
+    <li>
+      <h4 class="panel-title facet-field-heading">
+        <a class="date-range-title" href="#">Date</a>
+      </h4>
+    </li>
+  </div>
+
+  <div id="facet-asset_date" class="panel-collapse facet-content <% if(params['exact_or_range'].blank?) %>collapse <% end %>" aria-expanded="true">
+
+    <div class="panel-body" style="overflow-x: hidden;">
+
+      <div class="well well-sm">
+        <small>
+          Cataloging in progress: only half of the records for digitized assets are currently dated.
+        </small>
+      </div>
+
+      <%= form_tag search_action_path, :method => :get, id:"date_range_filter_form" do %>
+
+        <%= render_hash_as_hidden_fields(params_for_search.except(:page, :exact_or_range, :after_date, :before_date)) %>
+
+        <!-- Inputs and labels for choosing filtering by exact date or date range  -->
+        <div class="row">
+          <div class="col-xs-10 col-xs-offset-2 date-range-label-container">
+
+            <label class="date-range-label" for="exact_date_option">Exact <input type="radio" value="exact" id="exact_date_option" name="exact_or_range" <%= params['exact_or_range'] != 'range' ? 'checked ' : '' %>/></label>
+            <label class="date-range-label" for="range_date_option">Range <input type="radio" value="range" id="date_range_option" name="exact_or_range" <%= params['exact_or_range'] == 'range' ? 'checked ' : '' %>/></label>
+          </div>
+        </div>
+
+        <!-- Input and label for the after date -->
+        <div class="row">
+          <div class="col-xs-2">
+            <!-- Placeholder for "From" label when date range is selected -->
+            <label for="after_date"></label>
+          </div>
+          <div class="col-xs-10">
+            <input class="datepicker" id="after_date" autocomplete="off" name="after_date" value="<%= params['after_date'] %>"/>
+          </div>
+        </div>
+
+        <!-- Input and label for the before date -->
+        <div class="row">
+          <div class="col-xs-2">
+            <label for="before_date">To</label>
+          </div>
+          <div class="col-xs-10">
+            <input class="datepicker" id="before_date" autocomplete="off" name="before_date" value="<%= params['before_date'] %>"/>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-10 col-xs-offset-2" style="padding-top: 0.5em;">
+            <%= submit_tag "Update", class:"btn btn-default" %>
+            <button type="button" onclick="$.date_range_filter.reset_date()" class="btn btn-default">Clear</button>
+          </div>
+        </div>
+      <% end %>
+
+      <script type="application/javascript">
+      $(function() {
+        // Create the event handler to toggle whether the filter is using an
+        // exact date or a date range.
+        var exact_or_range_event_handler = function(_event) {
+          var exact_or_range = $('input:radio[name="exact_or_range"]:checked').val()
+          if(exact_or_range == 'exact') {
+            $('#before_date').prop('disabled', true);
+            $('#before_date').hide();
+            $('label[for="before_date"]').hide();
+            $('label[for="after_date"]').text("")
+          } else {
+            $('label[for="after_date"]').text("From")
+            $('#before_date').prop('disabled', false);
+            $('#before_date').show();
+            $('label[for="before_date"]').show();
+          }
+        };
+
+        // Run the event handler an initial time.
+        exact_or_range_event_handler();
+
+        // Attach the event handler to the change event of the radio buttons.
+        $('input:radio[name="exact_or_range"]').change(exact_or_range_event_handler);
+
+        $.extend({date_range_filter:{
+            reset_date: function() {
+                $("#before_date").val("");
+                $("#after_date").val("");
+                $("#before_date").prop('disabled', true);
+                $("#after_date").prop('disabled', true);
+                $("#exact_date_option").prop('checked', false);
+                $("#date_range_option").prop('checked', false);
+                $("#date_range_filter_form").submit();
+            }
+            }})
+      });
+      </script>
+    </div>
+  </div>
+</nav>

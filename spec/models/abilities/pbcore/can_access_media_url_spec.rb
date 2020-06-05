@@ -8,8 +8,8 @@ describe Ability do
   context 'for public PBCore records' do
     # NOTE: CanCan will only work if we use actual PBCore instance. It won't
     # work if you try to use a mock object, e.g. RSpec instance_double.
-    let(:public_pbcore_record) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
-    let(:protected_pbcore_record) { PBCore.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
+    let(:public_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-public.xml')) }
+    let(:protected_pbcore_record) { PBCorePresenter.new(File.read('./spec/fixtures/pbcore/access-level-protected.xml')) }
 
     describe 'can? :access_media_url' do
       context 'when User is on-site; User is an AAPB referer; User is embedding the media' do

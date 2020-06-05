@@ -7,6 +7,10 @@ class Featured
   attr_reader :name
   attr_reader :thumbnail_url
 
+  def self.from_gallery(gallery_name)
+    @galleries[gallery_name]
+  end
+
   private
 
   def initialize(hash)
@@ -25,8 +29,4 @@ class Featured
       ]
     end
   ]
-
-  def self.from_gallery(gallery_name)
-    @galleries[gallery_name]
-  end
 end

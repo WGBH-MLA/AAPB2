@@ -21,7 +21,7 @@ class OaiController < ApplicationController
     @records =
       RSolr.connect(url: 'http://localhost:8983/solr/')
            .get('select', params: {
-                  'q' => 'access_types:"' + PBCore::PUBLIC_ACCESS + '"',
+                  'q' => 'access_types:"' + PBCorePresenter::PUBLIC_ACCESS + '"',
                   'fl' => 'id,timestamp,xml',
                   'rows' => ROWS,
                   'start' => start
@@ -29,7 +29,7 @@ class OaiController < ApplicationController
         Record.new(
           d['id'],
           d['timestamp'],
-          PBCore.new(d['xml'])
+          PBCorePresenter.new(d['xml'])
         )
       end
 

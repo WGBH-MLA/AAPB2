@@ -20,7 +20,7 @@ St. Louis
 
 http://library.wustl.edu/spec/filmandmedia/about/
 
-## History
+## About
 
 
 

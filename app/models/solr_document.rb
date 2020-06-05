@@ -1,7 +1,6 @@
 # -*- encoding : utf-8 -*-
 class SolrDocument
   include Blacklight::Solr::Document
-
   ACCESS_FACET_FIELD = 'access_types'.freeze
   # self.unique_key = 'id'
 
@@ -17,4 +16,21 @@ class SolrDocument
   # and Blacklight::Solr::Document#to_semantic_values
   # Recommendation: Use field names from Dublin Core
   # use_extension(Blacklight::Solr::Document::DublinCore)
+
+  def caption?
+    return true unless CaptionFile.new(self[:id]).captions_src.nil?
+    false
+  end
+
+  def captions_src
+    CaptionFile.new(self[:id]).captions_src
+  end
+
+  def transcript?
+    Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first
+  end
+
+  def transcript_src
+    Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first.text.strip
+  end
 end

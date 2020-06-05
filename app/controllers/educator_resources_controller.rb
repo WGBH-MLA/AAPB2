@@ -1,0 +1,2 @@
+class EducatorResourcesController < ApplicationController
+end

@@ -20,7 +20,7 @@ Rails.application.configure do
   # config.action_dispatch.rack_cache = true
 
   # Disable Rails's static asset server (Apache or nginx will already do this).
-  config.serve_static_assets = false
+  config.serve_static_files = false
 
   # Compress JavaScripts and CSS.
   config.assets.js_compressor = :uglifier
@@ -47,11 +47,8 @@ Rails.application.configure do
   # Prepend all log lines with the following tags.
   # config.log_tags = [ :subdomain, :uuid ]
 
-  # Use a different logger for distributed setups.
-  # config.logger = ActiveSupport::TaggedLogging.new(SyslogLogger.new)
-
   # Only keep up to 10 log files of ~ 1MB each.
-  config.logger = ActiveSupport::Logger.new('log/production.log', 10, 1.megabytes)
+  config.logger = ActiveSupport::Logger.new('/var/www/aapb/current/log/production.log', 10, 1.megabytes)
 
   # Use a different cache store in production.
   # config.cache_store = :mem_cache_store

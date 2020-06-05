@@ -1,4 +1,4 @@
-# OETA News and Cultural Programming (1980-Present)
+# Oklahoma Educational Television Authority Programming
 
 ## Thumbnail
 
@@ -13,17 +13,17 @@ The Oklahoma Educational Television Authority (OETA) is Oklahoma's only statewid
 
 ## Featured
 
-[![Duck and Fletcher](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-251fj2b653.jpg)](/catalog/cpb-aacip_15-251fj2b653)
-[![Women Airforce Pilots](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-416sx65317.jpg)](/catalog/cpb-aacip_15-416sx65317)
-[!["The Run"](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-zk55d8pq3m.jpg)](/catalog/cpb-aacip_15-zk55d8pq3m)
-[![Will Rogers, Wiley Post](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-445h99075w.jpg)](/catalog/cpb-aacip_15-445h99075w)
-[![Oklahoma City Bombing](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-nz80k27h4t.jpg)](/catalog/cpb-aacip_15-nz80k27h4t)
-[![Moore Strong](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-k06ww77z5p.jpg)](/catalog/cpb-aacip_15-k06ww77z5p)
+[![Duck and Fletcher](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-251fj2b653.jpg)](/catalog/cpb-aacip_521-251fj2b653)
+[![Women Airforce Pilots](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-416sx65317.jpg)](/catalog/cpb-aacip_521-416sx65317)
+[!["The Run"](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-zk55d8pq3m.jpg)](/catalog/cpb-aacip_521-zk55d8pq3m)
+[![Will Rogers, Wiley Post](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-445h99075w.jpg)](/catalog/cpb-aacip_521-445h99075w)
+[![Oklahoma City Bombing](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-nz80k27h4t.jpg)](/catalog/cpb-aacip_521-nz80k27h4t)
+[![Moore Strong](https://s3.amazonaws.com/americanarchive.org/special-collections/OETA_THUMBNAILS/cpb-aacip_521-k06ww77z5p.jpg)](/catalog/cpb-aacip_521-k06ww77z5p)
 
 ## Resources
 
 - [Back In Time]( https://videos.oeta.tv/show/back-time/)
-- [Oklahoma City Bombing]( http://www.okhistory.org/publications/enc/entry.php?entry=OK026) 
+- [Oklahoma City Bombing]( http://www.okhistory.org/publications/enc/entry.php?entry=OK026)
 - [OETA Story on Oklahoma Statehood]( https://www.youtube.com/watch?v=riv41-1hBiE)
 - [Stateline Excerpt: Oklahoma Outlaws]( https://www.youtube.com/watch?v=Gr6V1MJeLjc)
 - [Native Peoples of Oklahoma - Protecting Native American Communities - 4.2.4 OETA: White Man's Road]( https://www.youtube.com/watch?v=3IVDmeF1Lxc)
@@ -35,8 +35,18 @@ The Oklahoma Educational Television Authority (OETA) is Oklahoma's only statewid
 
 ## Funders
 
+- [![IMLS](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png "IMLS Logo")](https://www.imls.gov/)
+
 ## Help
 
-Records are described at an item level and all records contain brief descriptions. 
+Records are described at an item level and all records contain brief descriptions.
 
 ## Terms
+
+
+## Timeline
+
+## Sort
+
+title+asc
+

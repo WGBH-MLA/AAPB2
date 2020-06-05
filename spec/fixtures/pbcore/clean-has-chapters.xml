@@ -229,6 +229,7 @@ Front Porch Digital J2K MXF Wrapper Based on MXFLib 1.0.1(13)-Beta
 <instantiationAnnotation annotationType="organization">WGBY</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="Transcript Status">Uncorrected</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="cataloging status">Minimally Cataloged</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="last_modified">2015-08-27 11:16:26</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="organization">WGBY</pbcoreAnnotation>

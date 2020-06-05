@@ -1,7 +1,4 @@
 <% content_for :head do %>
-  <%= javascript_include_tag 'transcript' %>
-  <%= javascript_include_tag 'mobile-transcript' %>
-
   <meta property="og:title" content="<%= @pbcore.title %>" />
   <meta property="og:url" content="http://americanarchive.org/catalog/<%= @pbcore.id %>" />
   <meta property="og:type" content="<%=
@@ -26,6 +23,10 @@
   <meta property="og:site_name" content="American Archive of Public Broadcasting"/>
   <meta property="og:description" content="<%= @pbcore.descriptions.join("\n") %>" />
 
+  <% if @pbcore.canonical_url.present? %>
+    <link rel="canonical" href="<%= @pbcore.canonical_url %>" />
+  <% end %>
+
   <!-- TODO: Doubt that these will be effective because we check the referer. -->
   <% if @pbcore.digitized? %>
     <% if @pbcore.video? %>
@@ -41,7 +42,6 @@
   <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
   <div class="well well-sm media-thumb">
-
     <% if @skip_orr_terms == false %>
         <%= render partial: 'rules_of_use_modal' %>
     <% end %>
@@ -50,7 +50,7 @@
     <%= render partial: 'catalog/player' %>
 
     <div class="row">
-      <% if @show_transcript %>
+      <% if @transcript_content %>
         <div class="col-sm-12 col-md-6 exhibit-promo">
       <% else %>
         <div class="col-sm-12 col-md-8 col-md-offset-2 exhibit-promo">
@@ -73,10 +73,38 @@
         </div>
     </div>
 
+    <% if @pbcore.special_collections || @exhibits %>
+      <div class="row">
+        <div class="col-md-12">
+
+          <!-- special collections/exhibit banner -->
+          <% @exhibits.each do |exhibit| %>
+            <% exhibit_caption = "This record is featured in “#{exhibit.title}.”" %>
+            <a href="/exhibits/<%= exhibit.path %>" class="btn-featured-record" title="<%= exhibit_caption %>" id="exhibit-banner">
+              <span class="glyphicon glyphicon-star"></span>
+              <strong><%= exhibit_caption %></strong>
+            </a>
+          <% end %>
+          <% if @pbcore.special_collections %>
+            <% @pbcore.special_collections.each do |collection| %>
+              <% if SpecialCollection.valid_collection?(collection) %>
+                <% coll = SpecialCollection.find_by_path(collection) %>
+                <% coll_caption = "This record is featured in “#{coll.title}.”" %>
+                <a href="/special_collections/<%= coll.path %>" class="btn-featured-record" title="<%= coll_caption %>" id="exhibit-banner">
+                  <span class="glyphicon glyphicon-star"></span>
+                  <strong><%= coll_caption %></strong>
+                </a>
+              <% end %>
+            <% end %>
+          <% end %>
+
+        </div>
+      </div>
+    <% end %>
   </div>
 
   <div class="col-md-4 catalog-show-left-col">
-    <% if @show_transcript %>
+    <% if @transcript_content %>
       <dl class="panel hidden-sm hidden-xs">
         <div class="transcript-panel-heading">
           <dt>Transcript</dt>
@@ -86,6 +114,27 @@
         </div>
       </dl>
       <%= render partial: 'mobile_transcript' %>
+    <% end %>
+
+    <% if @fixit_link %>
+      <dl class="panel">
+        <a href="<%= @fixit_link %>">
+          <div class="row">
+            <dt class="col-md-12">
+
+              <div style="width: 60%; margin-left: auto; margin-right: auto;">
+                <img style="width: 100%; display: block; text-align: center;" src="https://s3.amazonaws.com/americanarchive.org/org-logos/fixit_logo_lg.png" alt="FIX IT">
+              </div>
+            </dt>
+          </div>
+
+          <div class="row" style="margin: 0; text-align: center;">
+            <dt class="col-md-12" style="font-size: 12px;">
+              Want to help make this content more accessible? Correct our machine-generated transcript.
+            </dt>
+          </div>
+        </a>
+      </dl>
     <% end %>
 
     <% @pbcore.titles.each do |type,title| %>
@@ -125,18 +174,21 @@
       </dl>
     <% end %>
 
-    <% if @pbcore.supplemental_content.present? %>
-      <h4 class="supplemental-content">Supplemental Materials</h4>
+    <% unless @pbcore.licensing_info.nil? %>
+      <!-- Small button group -->
+      <div class="btn-group licensing-btn-group">
+        <button class="btn btn-default btn-lg licensing-btn" type="button" data-toggle="modal" data-target="#licensingModal" aria-haspopup="true" aria-expanded="false">
+          Licensing Information
+        </button>
+      </div>
 
-      <% @pbcore.supplemental_content.each do |content| %>
-        <li class="supplemental-link"><a href='<%= content[0] %>' target="_blank"><%= content[1] %></a></li>
-      <% end %>
+      <%= render partial: 'shared/basic_modal', locals: { modal_id: "licensingModal", title: "License Content", body: @pbcore.licensing_info.html_safe } %>
     <% end %>
 
     <div class="catalog-alert">
       <div class="catalog-alert-text">
         <% @pbcore.ids.first[1].tap do |id| %>
-          If you have more information about this item than what is given here, we want to know! <a href="mailto:sadie_roosa@wgbh.org">Contact us</a>, indicating the AAPB ID (<%= id %>).
+          If you have more information about this item than what is given here, we want to know! <a href="mailto:aapb_notifications@wgbh.org">Contact us</a>, indicating the AAPB ID (<%= id %>).
         <% end %>
       </div>
     </div>
@@ -145,9 +197,15 @@
   <div class="col-md-8">
     <%= render partial: "catalog/accordion/accordion", locals: { dt: "Description", body: render(partial: 'catalog/accordion/description'), collapse: false } %>
 
+    <%= render partial: "catalog/accordion/accordion", locals: { dt: "Credits", body: render(partial: 'catalog/accordion/contributors'), collapse: true } %>
+
     <%= render partial: "catalog/accordion/accordion", locals: { dt: "AAPB Contributor Holdings", body: render(partial: 'catalog/accordion/holdings'), collapse: true } %>
 
     <%= render partial: "catalog/accordion/accordion", locals: { dt: "Citations", body: render(partial: 'catalog/accordion/citations'), collapse: true } %>
+
+    <% if @pbcore.supplemental_content.present? %>
+      <%= render partial: "catalog/accordion/accordion", locals: { dt: "Supplemental Materials", body: render(partial: 'catalog/accordion/supplemental_materials'), collapse: true } %>
+      <% end %>
   </div>
 <% end %>
 

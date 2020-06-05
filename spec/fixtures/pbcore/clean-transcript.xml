@@ -97,6 +97,7 @@
   <pbcoreAnnotation>Seedtime 6/5/92, 7 1/2 ips, 2-track, stereo</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="cataloging status">Minimally Cataloged</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="Transcript Status">Indexing Only Transcript</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Transcript URL'>https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-138-74cnpdc8/cpb-aacip-138-74cnpdc8-transcript.json</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="last_modified">2016-06-07 13:18:04</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="organization">Appalshop, Inc. (WMMT and Appalshop Films)</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

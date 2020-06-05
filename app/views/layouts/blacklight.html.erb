@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js" prefix="og: http://ogp.me/ns#">
-  <!--
+<!--
 
     NOTE: html@prefix is the only thing we've added here for AAPB.
 
@@ -15,7 +15,6 @@
 
     <!-- Internet Explorer use the highest version available -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
     <!--[if IEMobile]>
       <meta http-equiv="cleartype" content="on">
@@ -34,29 +33,25 @@
       <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <!-- Begin MailChimp Signup Form CSS -->
-    <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-      #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-      /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-
+    <meta name="google-site-verification" content="lwufIwRZoiyiD-_VYLyS-4qW4A90h4DZq-vg7ebsxv0" />
   </head>
   <body class="<%= render_body_class %>">
-  <%= render :partial => 'shared/header_navbar' %>
 
-  <%= render partial: 'shared/ajax_modal' %>
+    <%= render :partial => 'shared/header_navbar' %>
+    <% #what is this v ? is it a real thing? %>
+    <%= render partial: 'shared/ajax_modal' %>
 
-  <main id="main-container" class="container" role="main">
+    <main id="main-container" class="container" role="main">
 
-    <%= render :partial=>'/flash_msg', layout: 'shared/flash_messages' %>
+      <%= render :partial=>'/flash_msg', layout: 'shared/flash_messages' %>
 
-    <div class="row main-row">
-      <%= yield %>
-    </div>
-  </main>
+      <div class="row main-row">
+        <%= yield %>
+      </div>
+    </main>
 
-  <%= render :partial => 'shared/footer' %>
+    <%= render :partial => 'shared/footer' %>
+
+    <%= yield :video %>
   </body>
 </html>

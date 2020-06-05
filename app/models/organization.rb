@@ -11,12 +11,16 @@ class Organization < Cmless
   attr_reader :state_html
   attr_reader :city_html
   attr_reader :url_html
-  attr_reader :history_html
+  attr_reader :about_html
   attr_reader :productions_html
   attr_reader :logo_html
 
   def self.clean(html)
     CGI.unescape(html.gsub(/<[^>]+>/, ''))
+  end
+
+  def self.clean_organization_names(organization_names)
+    organization_names.map { |name| name.include?("\n") ? name.delete!("\n").split.join(" ") : name }
   end
 
   def id
@@ -28,7 +32,7 @@ class Organization < Cmless
   end
 
   def summary
-    @summary ||= history_html.sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1')
+    @summary ||= about_html.sub(/(^.{10,}?\.\s+)([A-Z].*)?/m, '\1')
   end
 
   def logo_src
@@ -52,17 +56,21 @@ class Organization < Cmless
     @city ||= Organization.clean(city_html)
   end
 
+  def facet_url
+    "/catalog?f[contributing_organizations][]=" + CGI.escape(facet)
+  end
+
   def short_name
     # this is really hacky, but the redcarpet gem for in cmless
     # for interpreting md was not recognizing the escaped ampersand
     # and a literal ampersand would display as a '&amp;'
     # fix should probably be in cmless with an update of redcarpet
     # but we're punting that for now.
-    @short_name ||= Organization.clean(short_name_html).gsub('&amp;', '&')
+    @short_name ||= Organization.clean(short_name_html).gsub("&amp;", "&")
   end
 
-  def url
-    @url ||= Organization.clean(url_html)
+  def urls
+    @urls ||= Nokogiri::HTML(url_html).xpath('//a').map { |a| a['href'] }
   end
 
   @orgs_by_pbcore_name = Hash[Organization.map { |org| [org.pbcore_name, org] }]

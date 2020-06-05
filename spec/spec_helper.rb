@@ -1,10 +1,15 @@
 require_relative '../lib/rails_stub'
 require 'webmock'
 
+ENV['RACK_ENV'] = 'test'
+
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
   # assertion/expectation library such as wrong or the stdlib/minitest
   # assertions if you prefer.
+
+  RSpec::Expectations.configuration.on_potential_false_positives = :nothing
+
   config.expect_with :rspec do |expectations|
     # This option will default to `true` in RSpec 4. It makes the `description`
     # and `failure_message` of custom matchers include text for helper methods
@@ -28,5 +33,13 @@ RSpec.configure do |config|
   config.before(:suite) do
     # Disable WebMock by default, and be sure to re-enable it before using it.
     WebMock.disable!
+  end
+
+  config.after(:suite) do
+    # only run this where the mailer class is available
+    if Object.const_defined?('Notifier')
+      run_linkchecker = YAML.load(ERB.new(File.new(Rails.root + 'config/aws_ses.yml').read).result)['run_linkchecker']
+      Notifier.link_checker_report if run_linkchecker
+    end
   end
 end

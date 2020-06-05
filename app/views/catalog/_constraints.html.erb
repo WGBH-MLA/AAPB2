@@ -4,6 +4,12 @@
       <%=link_to "Clear Search", start_over_path, :class => "catalog_startOverLink btn btn-sm btn-text", :id=>"startOverLink" %>
     </div>
     <span class="constraints-label"><%= t('blacklight.search.filters.title') %></span>
-    <%= render_constraints(params) %>
+
+    <% c=render_constraints(params) %>
+    <% if c.include?('_unstemmed') %>
+      <%= z= "!!" + c.scan(/_unstemmed:&quot(.*?&quot)/).flatten.first.chomp(%(&quot)); c.gsub(/\+\(.*?\)/, z).delete(';').html_safe %>
+    <% else %>
+      <%= c.html_safe %>
+    <% end %>
   </div>
 <% end %>

@@ -20,9 +20,14 @@
   }
 }
 
+.index-title {
+  height: 95px;
+  max-width: 346px;
+}
+
 .gallery-thumbnail {
   border: none;
-  margin: 17px 0;
+  margin: 5px 0;
   a {
     color: #fff;
     display: table-cell;

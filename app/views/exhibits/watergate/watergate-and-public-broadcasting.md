@@ -4,11 +4,6 @@
 
 ## Summary
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Joseph Papin. <em>[Television cameras at Senate Watergate hearings]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53333.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras-Thumbnail.jpg" alt="Joseph Papin Sketch. Joseph Papin (1931-1992). Television cameras at Senate Watergate hearings, 1973. Prints and Photographs Division, Library of Congress."/></a></td></tr>
-</table>
-
 The Watergate coverage is significant, not only insofar as the hearings themselves are significant, but also as a great moment in public television history. In the years preceding the coverage, pressure from the Nixon Administration had put in question whether public television should carry public affairs programs at all. The Watergate coverage answered that question with a definitive ‘yes’. In the years before C-SPAN, no network had ever broadcast full hearings “gavel-to-gavel” in prime time before. This format, which allowed viewers to draw their own conclusions from the evidence, expanded public television’s viewership by orders of magnitude. For a summer, viewers were glued to their screens, often past midnight, watching such personalities as Sam Ervin, Howard Baker, John Dean, and John Ehrlichman discuss what increasingly became a constitutional crisis.
 
 The broadcasts were so successful that public broadcasting continued to use the format for future political events, including the House impeachment inquiry a few months later. They also launched the partnership of anchors Robert MacNeil and Jim Lehrer who would go on to host the program that today is called the *PBS NewsHour*. To learn more about the substantial impact Watergate had on the history of public broadcasting, please see the following essay. To jump past the background to a discussion of the coverage itself, click “Gavel-to-Gavel”: The Senate Hearings Open on Public Television in the “jump to” section.
@@ -166,7 +161,7 @@ The senators on the Committee, selected for their relative obscurity, lack of po
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Camera-on-witness-drawing.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Camera-on-witness-drawing-s.jpg" alt="Joseph Papin. [Witness (Reisner?) testifies], 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53339."/></a></td></tr>
 </table>
 
-In addition to the senators, who provided a set of familiar faces and personalities, the hearings delivered daily variation with a parade of aides, burglars, agents, and politicians testifying before the Committee.  Some, like [Jeb Magruder](/catalog/cpb-aacip_512-bz6154fh47#at_508.00_s), the former deputy director of the Committee to Re-elect the President (CREEP), and White House plumber [E. Howard Hunt](/catalog/cpb-aacip_512-hh6c24rg76#at_690.00_s) confessed their crimes in contrition. Others, like [John Mitchell](/catalog/cpb-aacip_q23qv3d02h), the former Attorney General, and [John Ehrlichman](/catalog/cpb-aacip_512-t43hx16p65#at_627.00_s), former advisor on domestic affairs, obstinately did battle with the Committee, fiercely maintaining their own innocence and the innocence of Richard Nixon. Witnesses like former NYPD cop [Anthony Ulasewicz](/catalog/cpb-aacip_512-p55db7wm55#at_1620.00_s) brought welcome levity to the proceedings, leading [Senator Baker to ask](/catalog/cpb-aacip_512-8p5v699118#at_744.00_s) “Who thought you up?”
+In addition to the senators, who provided a set of familiar faces and personalities, the hearings delivered daily variation with a parade of aides, burglars, agents, and politicians testifying before the Committee.  Some, like [Jeb Magruder](/catalog/cpb-aacip_512-bz6154fh47#at_508.00_s), the former deputy director of the Committee to Re-elect the President (CREEP), and White House plumber [E. Howard Hunt](/catalog/cpb-aacip_512-hh6c24rg76#at_690.00_s) confessed their crimes in contrition. Others, like [John Mitchell](/catalog/cpb-aacip_512-q23qv3d02h), the former Attorney General, and [John Ehrlichman](/catalog/cpb-aacip_512-t43hx16p65#at_627.00_s), former advisor on domestic affairs, obstinately did battle with the Committee, fiercely maintaining their own innocence and the innocence of Richard Nixon. Witnesses like former NYPD cop [Anthony Ulasewicz](/catalog/cpb-aacip_512-p55db7wm55#at_1620.00_s) brought welcome levity to the proceedings, leading [Senator Baker to ask](/catalog/cpb-aacip_512-8p5v699118#at_744.00_s) “Who thought you up?”
 
 The proceedings revealed capers that were, as MacNeil and Lehrer were fond of pointing out, the “stuff of spy novels.” On May 22, burglar [James McCord demonstrated how to bug a telephone](/catalog/cpb-aacip_512-x34mk6674t#at_1860.00_s), while on September 25, Hunt showed how to photographically steal documents. The audience could track an ever expanding list of code names, including Gemstone, Ruby, Crystal, Sedan Chair II, and Fat Jack. They heard stories of secret midnight phone calls from mysterious men, cash payments in laundry bags, and any number of “dirty tricks” and “White House horrors.” These stories only continued to expand and multiply as the Committee uncovered the depth and perplexing diversity of the Administration’s crimes.
 
@@ -224,3 +219,36 @@ What better way to learn from a tragedy than to watch, gavel-to-gavel, how Ameri
 #### Next: [Cast of Characters](/exhibits/watergate/cast-of-characters)
 
 ## Main
+
+## Cover
+  <img title="Cover Image" alt="Television cameras at Senate Watergate hearings, a cartoon by Joseph Papin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras-Thumbnail.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Television-Cameras.jpg">
+    <a class="caption-text">Joseph Papin. <em>[Television cameras at Senate Watergate hearings]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53333.</a>
+    <a class="credit-link" href="https://www.loc.gov">Courtesy of the Library of Congress</a>
+
+## Records
+/catalog/cpb-aacip_512-mc8rb6ww1z
+/catalog/cpb-aacip_512-6q1sf2n01g
+/catalog/cpb-aacip_512-4f1mg7gg9h
+/catalog/cpb-aacip_512-kk94747p23
+/catalog/cpb-aacip_512-t43hx16p65
+/catalog/cpb-aacip_512-6688g8g717
+/catalog/cpb-aacip_512-1c1td9ns5m
+/catalog/cpb-aacip_512-930ns0mm8w
+/catalog/cpb-aacip_512-jh3cz33054
+/catalog/cpb-aacip_512-j09w08x77b
+/catalog/cpb-aacip_512-bz6154fh47
+/catalog/cpb-aacip_512-hh6c24rg76
+/catalog/cpb-aacip_512-q23qv3d02h
+/catalog/cpb-aacip_512-p55db7wm55
+/catalog/cpb-aacip_512-8p5v699118
+/catalog/cpb-aacip_512-x34mk6674t
+/catalog/cpb-aacip_512-js9h41kf9h
+/catalog/cpb-aacip_512-125q815b4c
+/catalog/cpb-aacip_512-jm23b5x51c
+/catalog/cpb-aacip_512-hx15m6331c
+/catalog/cpb-aacip_512-9p2w37mj1h
+/catalog/cpb-aacip_512-nk3610wq1h

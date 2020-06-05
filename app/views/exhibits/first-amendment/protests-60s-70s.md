@@ -16,9 +16,6 @@ The AAPB holds notable audio and video from the civil rights movement, which rea
 
 During the mid-1960s, a new strategy and philosophy to improve black lives grew out of the civil rights movement. The Black Power Movement, espoused by organizations like SNCC and the Black Panther Party, began to advocate and rally in favor of black pride, black liberation, and revolutionary determinism. Pieces like [Sproul Hall sit-in documentation (1968)](/catalog/cpb-aacip_28-kw57d2qp5g), [Rally for the Oakland Seven (1968)](/catalog/cpb-aacip_28-ft8df6kf9j), and [Cecil Williams and Angela Davis Speaks (1972)](/catalog/cpb-aacip_28-833mw28n8t) document these protests as well as show their intersection with the rise of the “New Left” and student radicalism.
 
-![Image of Angela Davis at protest](https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section2_1.jpg "Angela Davis at protest")
-
-
 The Red Power Movement and the Chicano Movement also fought against racism and sought to renew ethnic pride during the turbulent decades of the 1960s and 1970s. The Red Power movement was an inter-tribal movement by Americans Indians that fought for self-determination, sovereignty, and better reservation conditions during the late 1960s and the 1970s. The AAPB contains three pivotal moments of the Red Power movement in its archives: programs covering the occupation of [Alcatraz Island in 1969](/catalog/cpb-aacip_28-q23qv3cj2p), [the Siege of Wounded Knee in 1973](/catalog/cpb-aacip_28-bz6154f24n), and [the Longest Walk in 1978](/catalog/cpb-aacip_43-84zgn7fb). These three protests highlighted the concerns of American Indians to the public through acts of civil disobedience and mass protest. The Chicano Movement also began in this period, fighting for better [labor conditions](/catalog/cpb-aacip_28-j09w08ws8t), [against racism](/catalog/cpb-aacip_28-6t0gt5fp55), and seeking to celebrate Mexican-American heritage.
 
 
@@ -120,15 +117,20 @@ From 1968 to 1970, protests continued in force as events like the Tet Offensive,
 
 - [Chicago: Law and Disorder](https://www.google.com/culturalinstitute/beta/exhibit/wRHhmq8J): This exhibit from the Chicago History Museum covers the 1968 Democratic Convention through photographs, documents, and ephemera.
 
-Next: [Protesting in 1980s and Beyond](/exhibits/first-amendment/protests-80s-andbeyond)
-
-## Main
+#### Next: [Protesting in 1980s and Beyond](/exhibits/first-amendment/protests-80s-andbeyond)
 
 ## Resources
 
+## Main
+
+## Cover
+  <img title="Cover Image" alt="Angela Davis at protest" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section2_1.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section2_1.jpg">
+    <a class="caption-text">Angela Davis at protest</a>
+    <a class="credit-link" href="https://dl.library.ucla.edu/islandora/object/edu.ucla.library.specialCollections.latimes:3210">Courtesy of Los Angeles Times Photographs Collection</a>
 
 
-
-
-
-
+## Records

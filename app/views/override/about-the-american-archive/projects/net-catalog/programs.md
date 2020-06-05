@@ -1,7 +1,5 @@
 #National Educational Television (NET) Collection Catalog Project
 
-![banner](/page-banners/banner4.jpg)
-
 ##Program Titles
 All of the individual programs that we know were distributed by NET are listed here, with as much information about their production as we have gathered so far. If you have any additional information about these programs, have copies of these programs in your collection, or know of any other programs distrbuted by NET, please contact Sadie Roosa at sadie_roosa@wgbh.org.
 

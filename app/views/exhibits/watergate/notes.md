@@ -58,7 +58,7 @@
 
 <a name="26"></a><sup>26</sup> Patterson, *Grand Expectations*, 777-78.
 
-<a name="27"></a><sup>27</sup> Ibid., 778. As Patterson commented, “It is a mark of Nixon’s tenacity—indeed his desperate passion for control—that he still tried to stay in office.” To read the articles of impeachment, follow this link: http://www.presidency.ucsb.edu/ws/?pid=76082
+<a name="27"></a><sup>27</sup> Francis X. Clines, “Barbara Jordan Dies at 59; Her Voice Stirred the Nation,” New York Times, January 18, 1996, A1; Patterson, Grand Expectations, 778. As Patterson commented, “It is a mark of Nixon’s tenacity—indeed his desperate passion for control—that he still tried to stay in office.” To read the articles of impeachment, follow this link: http://www.presidency.ucsb.edu/ws/?pid=76082
 
 <a name="28"></a><sup>28</sup> "Covering Watergate: 40 Years Later with MacNeil and Lehrer," video file, 16:07, *PBS NewsHour*, May 17, 2013, accessed June 9, 2017, https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer.
 

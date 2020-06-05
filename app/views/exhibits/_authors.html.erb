@@ -1,0 +1,16 @@
+<div class="authors-container">
+
+  <% authors.each do |author| %>
+
+    <div class="author-txt">
+      <h4 class="exhibit-color"><%= author[:name] %></h4>
+      <span><%= author[:title] %></span>
+    </div>
+
+    <div class="author-imgcon">
+      <img class="author-img" src="<%= author[:img_url] %>">
+    </div>
+    
+  <% end %>
+
+</div>

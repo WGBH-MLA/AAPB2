@@ -4,13 +4,13 @@ require_relative '../../scripts/lib/pb_core_ingester'
 
 describe ThumbnailsController do
   before(:all) do
-    PBCoreIngester.load_fixtures
+    PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-MOCK.xml')
   end
 
   describe 'redirection' do
     it 'speeds up redirects (cached response returns in <20ms)' do
-      get 'show', id: '1234'
-      expect(response.redirect_url).to eq('http://americanarchive.org.s3.amazonaws.com/thumbnail/1234.jpg')
+      get 'show', id: 'cpb-aacip-1234'
+      expect(response.redirect_url).to eq('http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_1234.jpg')
 
       start_2 = Time.now
       get 'show', id: '1234'

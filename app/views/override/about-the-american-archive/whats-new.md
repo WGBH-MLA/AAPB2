@@ -1,17 +1,32 @@
 # What's New at the AAPB
 
-![Control Panel](/page-banners/banner3.jpg)
+Read about about AAPB's new collections, exhibits and projects below.
 
-Read about about AAPB's new collections, exhibits and projects below. Information about upcoming AAPB events can be found on the [Events](/about-the-american-archive/whats-new/events) page, and information about upcoming grant deadlines can be found on the [Funding Opportunities](/about-the-american-archive/whats-new/funding-opportunities) page.
+## March 2020
+
+### New Special Collections
+Latest Special Collections to launch include *Vegetable Soup*, *In Black America*, *John Beyer Iowa Documentaries*, *National Federation of Community Broadcasters Programs*, *Vietnam: A Television History Interviews*, *War and Peace in the Nuclear Age Interviews*, *OutCasting*, *BackStory*, *A Word on Words*, *To the Moon Interviews*, *Traditions: Ohio Heritage Fellows*, *The Great Depression Interviews*, *Rock and Roll Interviews*, and collections produced by University of Alabama Public Broadcasting Preservation Fellows, including *The Alabama Experience*, *Local Programs from WSRE from Pensacola, Florida*, and *Virginia Public Media: Journey through the Archives.* View the collections at http://americanarchive.org/special_collections.
+
+### New Exhibit
+
+Curated by Dr. Allisoon Perlman, the AAPB released a new online exhibit titled "[On the Right: NET and Modern Conservatism](https://americanarchive.org/exhibits/conservatism)." Created as part of the National Educatioonal Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources, the exhibit explores the growth of the conservative movement in the mid-20th century through the lens of public television. Rescued from deteriorating videotape and film, 21 National Education Television (NET) programs produced between 1956 and 1970 explore multiple perspectives on the modern conservative movement. The programs are now available for online viewing, many for the first time since their original broadcast.
+
+## April 2019
+
+### New Special Collections
+Latest Special Collections to launch include *Vision Maker Media Documentaries*, *PBS NewsHour* collection, *North Carolina Voices*, *Firing Line*, *The Abolitionists Interviews*, *1964 Interviews*, *The Center for Asian American Media* collection, *Feminist Community Radio at KOPN*, *En Français*, *Say Brother*, *Oklahoma Educational Television Authority Programming*, *National Educational Television* collection, *Georgia Gazette*, *Stonewall Uprising Interviews*, *The Evolution of Jazz*, and *Reconstruction Interviews*. View the collections at http://americanarchive.org/special_collections.
+
+### New Exhibit
+Curated by Amanda Reichenbach, the AAPB launched a new exhibit titled "Education Reporting on Public Television." From black-and-white footage of protests against segregated schools in New York City, to full-color newscasts about the rollout of No Child Left Behind in Guam, public television has had a long history of covering education stories. This online exhibit highlights documentaries, news magazines, talk shows, and special reports in the AAPB collection dedicated to learning in America. The exhibit is available at http://americanarchive.org/exhibits/education.
 
 ## June 2018
 
 ### New Special Collections
-![SpecialCollectionsTiles](https://s3.amazonaws.com/americanarchive.org/override/SpecialCollectionsTiles.png "SpecialCollectionsTiles") The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at [http://americanarchive.org/special_collections].
+The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at http://americanarchive.org/special_collections.
 
 ## March 2018
 
-### New Exhibit 
+### New Exhibit
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption"><em>"Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."</em></caption>
 <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/override/pennstationcrop.jpg" alt="Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."/></td></tr>
@@ -22,7 +37,7 @@ Curated by AAPB Digital Exhibits Intern Kara Zelasko, “Protecting Places: Hist
 
 #### WNED’s *Woman* Series Collection
 
-![Woman](https://s3.amazonaws.com/americanarchive.org/override/Woman.jpg "Woman Logo") The *Woman* Series Collection consists of 197 episodes of the Woman series produced by WNED in Buffalo, New York from 1972-1977. *Woman* was a half-hour public affairs talk show covering issues of interest to women. Guests included well-known and lesser-known activists, journalists, writers, scholars, lawyers, artists, psychologists, doctors and others such as Gloria Steinem, editor and co-founder of Ms. Magazine; Dorothy Pitman Hughes, African American activist and co-founder of Ms. Magazine; Betty Friedan, author of *The Feminine Mystique*; Florynce Kennedy, founder of the National Feminist Party; Margaret Sloan, co-founder of the National Black Feminist Organization; Karen DeCrow, then president of the National Organization for Women; Margaret Dunkle of the Project on the Status of Women for the Association of American Colleges; and Ruth Miller of the Buffalo Planned Parenthood Association. 
+![Woman](https://s3.amazonaws.com/americanarchive.org/override/Woman.jpg "Woman Logo") The *Woman* Series Collection consists of 197 episodes of the Woman series produced by WNED in Buffalo, New York from 1972-1977. *Woman* was a half-hour public affairs talk show covering issues of interest to women. Guests included well-known and lesser-known activists, journalists, writers, scholars, lawyers, artists, psychologists, doctors and others such as Gloria Steinem, editor and co-founder of Ms. Magazine; Dorothy Pitman Hughes, African American activist and co-founder of Ms. Magazine; Betty Friedan, author of *The Feminine Mystique*; Florynce Kennedy, founder of the National Feminist Party; Margaret Sloan, co-founder of the National Black Feminist Organization; Karen DeCrow, then president of the National Organization for Women; Margaret Dunkle of the Project on the Status of Women for the Association of American Colleges; and Ruth Miller of the Buffalo Planned Parenthood Association.
 
 Topics discussed on *Woman* includes women in sports, the Equal Rights Amendment, sexuality, marriage, women’s health, divorce, the Women’s Liberation Movement, motherhood, and ageism, among others available online at [http://americanarchive.org/special_collections/woman-series](/special_collections/woman-series).
 

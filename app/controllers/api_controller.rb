@@ -49,10 +49,10 @@ class ApiController < ApplicationController
     @solr = Solr.instance.connect
     data = @solr.get('select', params: { q: "id:#{params[:id]}", fl: 'xml' })
     xml = data['response']['docs'][0]['xml']
-    @pbcore = PBCore.new(xml)
+    @pbcore = PBCorePresenter.new(xml)
     content = @pbcore.transcript_content
 
-    if can?(:access_transcript, @pbcore) && !content.nil?
+    if can?(:api_access_transcript, @pbcore) && !content.nil?
       render json: content, status: :ok
     else
       render_no_transcript_content

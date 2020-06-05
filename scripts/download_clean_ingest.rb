@@ -5,6 +5,7 @@ require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
 require 'logger'
 require 'rake'
+require 'active_support/core_ext/string'
 
 class Exception
   def short
@@ -93,6 +94,7 @@ class DownloadCleanIngest
 
       when EXHIBITS
         raise ParamsError.new unless args.count >= 1
+        # this will fail if exhibit path does not exist
         ids = args.map { |exhibit_path| Exhibit.find_by_path(exhibit_path).ids }.flatten
         target_dirs = download(ids: ids)
 

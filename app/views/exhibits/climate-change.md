@@ -2,7 +2,6 @@
 
 ## Summary
 
-![The Blue Marble; Source: NASA](https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg "The Blue Marble; Source: NASA")
 Climate scientists and activists have used the venue of public broadcasting to
 discuss climate change for more than a quarter of a century. They have
 repeatedly communicated the science of human-driven climate change and its
@@ -21,13 +20,11 @@ present.
 
 ## Extended
 
-## Author
+## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg"/>
-
-### Casey E. Davis Kaufman
-AAPB Project Manager
-WGBH
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Davis.jpg">
+  <a class="name">Casey E. Davis Kaufman</a>
+  <a class="title">AAPB Project Manager - WGBH</a>
 
 ## Resources
 
@@ -43,8 +40,20 @@ Since the late 1980s, public broadcasting stations have recorded conversations a
 
 "What will it cost the Earth?" asked environmentalist [David Brower](/catalog/cpb-aacip_27-9673ng8v) in a talk given at Antioch College in Yellow Springs, Ohio, on April 19, 1970, just three days before the first celebration of Earth Day. Over the airwaves of the campus public broadcasting station WYSO-FM, Brower, the founder of the international environmental organization Friends of the Earth and the first Executive Director of the Sierra Club, urged the audience members to educate and inform themselves on the environmental problems facing the country and the world. "You can make a difference," he argued.
 
-In the thirty-four years since the first Earth Day, environmentalists have struggled to keep the movement at the forefront of public consciousness, as problems took on both global scale and highly technical aspects. In 2004, Illinois Public Media (WILL) broadcast an interview with [James Gustav "Gus" Speth](/catalog/cpb-aacip_16-4j09w0978j), Dean and Professor in the Practice of Environmental Policy and Sustainable Development at Yale University, an advisor on environmental issues to two presidents, and the chief executive officer of the United Nations Development Program. Speth attributed the successes of the environmental movement in the 1970s to the fact that environmental problems of that period were localized and “really in your face.” In contrast, Speth stated, today's problems, "are global scale, they're more subtle...they're more technical." That people for the most part have had difficulty relating to impacts of climate change has had a "crippling" effect on the environmental movement, Speth believed.
+Since the first Earth Day, environmentalists have struggled to keep the movement at the forefront of public consciousness, as problems took on both global scale and highly technical aspects. In 2004, Illinois Public Media (WILL) broadcast an interview with [James Gustav "Gus" Speth](/catalog/cpb-aacip_16-4j09w0978j), Dean and Professor in the Practice of Environmental Policy and Sustainable Development at Yale University, an advisor on environmental issues to two presidents, and the chief executive officer of the United Nations Development Program. Speth attributed the successes of the environmental movement in the 1970s to the fact that environmental problems of that period were localized and “really in your face.” In contrast, Speth stated, today's problems, "are global scale, they're more subtle...they're more technical." That people for the most part have had difficulty relating to impacts of climate change has had a "crippling" effect on the environmental movement, Speth believed.
 
 In 1989, one year after [Dr. James Hansen](/catalog/cpb-aacip_15-rj48p5vm8b), Director of the NASA Goddard Institute for Space Studies, became the first person to testify before Congress about the potential threat of global warning, Minnesota Public Radio interviewed [Dean Abrahamson](/catalog/cpb-aacip_43-4947ds3w), Professor of Public Affairs and Director of the Global Environmental Policy Project at Humphrey Institute. When asked about scientific views on the potential for climate change, Professor Abrahamson replied, "There is a scientific consensus and has been for a number of years that the greenhouse effect is real, that it is coming now, that we're reaching a very critical stage and unless something is done, there will be climatic change within the next few decades, greater than the Earth has experienced for hundreds of thousands of years."
 
 In this exhibit, programming and recordings focused on climate change have been organized in six sections to highlight the various conversations and topics covered by public broadcasting, from as early as 1970, the beginning of what is often considered the “environmental decade,” through today.
+
+## Cover
+  <img title="Cover Image" alt="Earth from Outer Space" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg">
+
+## Gallery
+  - <a class="type">image</a>
+    <img alt="Earth from Outer Space" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg">
+    <a class="caption-text">The Blue Marble</a>
+    <a class="credit-link" href="https://www.nasa.gov/">Courtesy of NASA.</a>
+
+
+## Records

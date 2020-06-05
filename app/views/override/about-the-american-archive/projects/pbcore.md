@@ -1,7 +1,5 @@
 # PBCore Development and Training Project
 
-![banner](/page-banners/banner4.jpg)
-
 In 2016, the National Endowment for the Humanities (NEH) awarded WGBH a Preservation and Access Research and Development 
 grant to pursue the PBCore Development and Training Project. Short for “Public Broadcasting Metadata Dictionary,” 
 [PBCore](http://pbcore.org) is a metadata schema – a standard for organizing information – for the management of 

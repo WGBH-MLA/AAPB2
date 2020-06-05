@@ -7,10 +7,13 @@ require_relative 'cleaner'
 require_relative 'null_logger'
 require_relative 'zipper'
 require_relative '../../lib/solr'
+require_relative '../../app/helpers/solr_guid_fetcher'
 
 class PBCoreIngester
   attr_reader :errors
   attr_reader :success_count
+
+  include SolrGUIDFetcher
 
   def initialize
     # TODO: hostname and corename from config?
@@ -20,18 +23,37 @@ class PBCoreIngester
     @success_count = 0
   end
 
-  def self.load_fixtures
+  def self.load_fixtures(*globs)
     # This is a test in its own right elsewhere.
     ingester = PBCoreIngester.new
     ingester.delete_all
-    Dir['spec/fixtures/pbcore/clean-*.xml'].each do |pbcore|
-      ingester.ingest(path: pbcore)
+    # If no globs were passed in, default to all "clean" PBCore fixtures.
+    globs << 'spec/fixtures/pbcore/clean-*.xml' if globs.empty?
+    # Get a list of all file paths from all the globs.
+    all_paths = globs.map { |glob| Dir[glob] }.flatten.uniq
+    all_paths.each do |path|
+      ingester.ingest(path: path)
     end
   end
 
   def delete_all
     @solr.delete_by_query('*:*')
     commit
+  end
+
+  def delete_records(guids)
+    guids.each do |guid|
+      puts "Deleting #{guid}"
+      resp = @solr.get('select', params: { q: "id:#{guid}" })
+      docs = resp['response']['docs'] if resp['response'] && resp['response']['docs']
+
+      # can't delete what you can't query
+      next unless docs && docs.count == 1
+      puts "Ready to delete #{guid}"
+      @solr.delete_by_query(%(id:#{guid}))
+      commit
+    end
+    puts 'Done!'
   end
 
   def ingest(opts)
@@ -41,10 +63,12 @@ class PBCoreIngester
 
     begin
       xml = Zipper.read(path)
+      xml = convert_non_utf8_characters(xml)
     rescue => e
       record_error(e, path)
       return
     end
+
     @md5s_seen = Set.new
 
     xml_top = xml[0..100] # just look at the start of the file.
@@ -100,6 +124,12 @@ class PBCoreIngester
     end
 
     begin
+      # From SolrGUIDFetcher
+      fetch_all_from_solr(pbcore.id, @solr).each do |id|
+        $LOG.info("Removing solr record with ID: #{pbcore.id}")
+        @solr.delete_by_id(id)
+      end
+
       @solr.add(pbcore.to_solr)
     rescue => e
       raise SolrError.new(e)
@@ -108,6 +138,13 @@ class PBCoreIngester
     $LOG.info("Updated solr record #{pbcore.id}")
 
     pbcore
+  end
+
+  private
+
+  def convert_non_utf8_characters(str)
+    # Convert vertical tabs to newline + tab
+    str.gsub("\v", "\n\t")
   end
 
   class ChainedError < StandardError
