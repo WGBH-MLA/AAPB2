@@ -58,8 +58,8 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
 
 ## Cover
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">William Greaves and Lou House on the set of *Black Journal*. Photograph.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" alt="*Black Journal* hosts William Greaves and Lou House on the set."/></td></tr>
+  <caption align="bottom" class="exhibit-caption">Lou House and Kathleen Cleaver on the set of *Black Journal*. Photograph.</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_0_house_and_cleaver.jpg" alt="*Black Journal* host Lou House with Kathleen Cleaver."/></td></tr>
 </table>
 
 ## Gallery
