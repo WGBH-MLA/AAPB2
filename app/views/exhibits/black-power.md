@@ -55,8 +55,8 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 ## Cover
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Lou House on the set of *Black Journal* with Kathleen Cleaver. Photograph.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_0_house_and_cleaver.jpg" alt="*Black Journal* host Lou House on the set with Kathleen Cleaver."/></td></tr>
+  <caption align="bottom" class="exhibit-caption">*Black Journal* hosts William Greaves and Lou House.</caption>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2_cropped.png" alt="Hosts William Greaves and Lou House of *Black Journal*."/></td></tr>
 </table>
 
 ## Gallery 
