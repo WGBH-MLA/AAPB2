@@ -63,6 +63,12 @@ Since Stokely Carmichael had called for Black Power during his June 16, 1966, sp
 
 - <a class="type">image</a>
   <a image align="center">
+  <a class="credit-link"></a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png">
+  <a class="caption-text">*Black Journal* hosts William Greaves and Lou House.</a>
+
+- <a class="type">image</a>
+  <a image align="center">
   <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</a>
   <a class="caption-text">*Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver</a>
   <img title="Screenshot of *Soul!* producer and host Ellis Haizlip interviewing Kathleen Cleaver" alt="Kathleen Cleaver and *Soul!* producer and host Ellis Haizlip" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/a_cleaver_aesthetics.png">
