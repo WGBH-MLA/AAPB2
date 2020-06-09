@@ -107,8 +107,8 @@ a.exhibit-color:hover {
 }
 
 #exgal-popup div.player section {
-  margin-left: 0 auto;
-  margin-right: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .exgal-popups {
@@ -330,7 +330,7 @@ h3.exhibit-title {
   margin-right: 0;
   height: 100%;
   min-height: 100%;
-  width: auto;
+  width: 100%;
 }
 
 #exgal-item-viewer .exgal-player-container section {
@@ -342,15 +342,25 @@ h3.exhibit-title {
 }
 
 #exgal-modal-viewer .exgal-player-container section {
-  height: 100%;
-  width: auto;
+  height: 68vh;
+  width: 90.666vh;
   padding: 0 !important;
 }
 
-#exgal-modal-viewer .exgal-player-container section div.video-js {
+#exgal-item-viewer .exgal-player-container section div.video-js {
   top: 0;
   width: 100%;
-  height: 56.4vh;
+  padding-bottom: 75%;
+  height: auto;
+
+}
+
+#exgal-modal-viewer .exgal-player-container section div.video-js {
+  position: relative;
+  top: 0;
+  right: 0;
+  width: 90.666vh;
+  height: 68vh;
 
 }
 
@@ -365,9 +375,9 @@ h3.exhibit-title {
   max-height: 100%;
   height: 100%;*/
 
-  min-height: 56.4vh;
-  max-height: 56.4vh;
-  height: 56.4vh;
+  min-height: 68vh;
+  max-height: 68vh;
+  height: 68vh;
 
 
   /*display: flex;*/
@@ -376,8 +386,8 @@ h3.exhibit-title {
 .modal-content {
   border: 0;
   margin-top: 20vh;
-  min-height: 56.4vh !important;
-  height: 56.4vh !important;
+  min-height: 68vh !important;
+  height: 68vh !important;
 }
 
 #exgal-modal-nav {
