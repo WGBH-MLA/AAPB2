@@ -39,6 +39,5 @@ The collection also features material that examines the media climate around whi
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Elections_Signature.jpg">
     <a class="caption-text">Robert F. Kennedy and Lyndon B. Johnson on the Campaign Trail</a>
-    <a class="credit-link"></a>
 
 ## Records

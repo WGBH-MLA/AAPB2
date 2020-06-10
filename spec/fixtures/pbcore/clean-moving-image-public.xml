@@ -31,7 +31,7 @@
     </instantiationExtension>
   </pbcoreInstantiation>
   <pbcoreAnnotation annotationType="Captions URL">
-    https://s3.amazonaws.com/americanarchive.org/captions/1a2b/1a2b.srt1.srt
+    https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-1a2b/cpb-aacip-1a2b.srt1.srt
   </pbcoreAnnotation>
   <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
   <pbcoreAnnotation annotationType="last_modified">2013-06-01 16:19:40</pbcoreAnnotation>

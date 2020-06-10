@@ -13,7 +13,7 @@ describe 'CORS' do
       expect(curl.header_str).not_to match('Access-Control-Allow-Origin: *')
     end
     it 'does not support CORS on catalog pages' do
-      curl = Curl.get('http://localhost:3000/catalog/1234')
+      curl = Curl.get('http://localhost:3000/catalog/cpb-aacip-1234')
       expect(curl.header_str).not_to match('Access-Control-Allow-Origin: *')
     end
   end
@@ -26,7 +26,7 @@ describe 'CORS' do
       expect(get_http.header_str).to match('Access-Control-Allow-Origin: *')
     end
     it 'supports CORS for single records' do
-      expect_cors('/api/1234.xml')
+      expect_cors('/api/cpb-aacip-1234.xml')
     end
     %w(js xml).each do |format|
       it "supports CORS on .#{format}" do

@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/WGBH/AAPB2.svg?branch=master)](https://travis-ci.org/WGBH/AAPB2)
+[![Build Status](https://travis-ci.org/WGBH-MLA/AAPB2.svg?branch=master)](https://travis-ci.org/WGBH/AAPB2)
 
 This is the public-facing website of the [*American Archive of Public Broadcasting*](http://americanarchive.org).
 

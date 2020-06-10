@@ -149,6 +149,7 @@ module SnippetHelper
   def process_single_query_terms(query, text, snippet_length)
     text_dictionary = text.gsub(/[[:punct:]]/, '').split
     intersection = query & text_dictionary
+
     return nil unless intersection && intersection.present?
     intersection_index = text.index(/\b(?:#{intersection[0]})\b/)
     start = if intersection_index && (intersection_index - snippet_length) > 0
@@ -156,6 +157,7 @@ module SnippetHelper
             else
               0
             end
+
     '...' + text[start..-1].to_s + '...'
   end
 

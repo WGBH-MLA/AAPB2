@@ -15,7 +15,7 @@ describe 'OAI-PMH' do
       '<OAI-PMH', # Followed by NS
       '<request verb="ListRecords" metadataPrefix="mods">http://openvault.wgbh.org/oai.xml</request>',
       '<ListRecords>',
-      '<identifier type="uri">http://americanarchive.org/catalog/1234</identifier>'
+      '<identifier type="uri">http://americanarchive.org/catalog/cpb-aacip-1234</identifier>'
     ].each do |s|
       expect(page.body).to match s
     end

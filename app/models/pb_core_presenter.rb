@@ -3,6 +3,7 @@ require 'rexml/xpath'
 require 'nokogiri'
 require 'solrizer'
 require 'fastimage'
+require 'httparty'
 require_relative '../../lib/aapb'
 require_relative 'exhibit'
 require_relative 'special_collection'
@@ -18,12 +19,14 @@ require_relative 'transcript_file'
 require_relative 'caption_file'
 require_relative '../helpers/application_helper'
 require_relative 'canonical_url'
+require_relative '../helpers/id_helper'
 
 class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods
   include ApplicationHelper
+  include IdHelper
 
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
@@ -105,47 +108,22 @@ class PBCorePresenter
     @episode_number_sort ||= titles.select { |title| title[0] == "Episode Number" }.map(&:last).sort.first
   end
   def exhibits
-    @exhibits ||= Exhibit.find_all_by_item_id(id)
+    @exhibits ||= id_styles(id).map { |style| Exhibit.find_all_by_item_id(style) }.flatten
+  end
+  def top_exhibits
+    @top_exhibits ||= id_styles(id).map { |style| Exhibit.find_top_by_item_id(style) }.flatten.uniq
   end
   def special_collections
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
   def original_id
-    # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
-    # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
-    # TODO: https://github.com/WGBH/AAPB2/issues/870
-
-    # .gsub('cpb-aacip-', 'cpb-aacip_')
-
-    # just normalize whats in the xml
-    @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
+    # just normalize guid thats in the xml
+    @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
   end
-
+  # Normalizes to dash
   def id
-    original_id.gsub(/cpb-aacip./, 'cpb-aacip-')
+    normalize_guid(original_id)
   end
-
-  def solr_matched_id
-    @id ||= begin
-      guid_from_xml = xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
-
-      # check if xml guid is in database
-      return guid_from_xml if verify_guid(guid_from_xml)
-
-      # check if _ or - or / variant is in database
-      id_styles(guid_from_xml).tap { |ids| ids.delete(guid_from_xml) }.each do |style|
-        return style if verify_guid(style)
-      end
-
-      # if no id match found, we're ingesting new record, so return original attempt
-      guid_from_xml
-    end
-  end
-
-  def verify_guid(guid)
-    Solr.instance.connect.get('select', params: { q: "id:#{guid}" })['response']['numFound'] > 0
-  end
-
   SONY_CI = 'Sony Ci'.freeze
   def ids
     @ids ||= begin
@@ -162,6 +140,7 @@ class PBCorePresenter
   def display_ids
     @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
   end
+  # Uses normalized GUID
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
@@ -177,18 +156,24 @@ class PBCorePresenter
   rescue NoMatchError
     nil
   end
-
   def constructed_transcript_src
     @constructed_transcript_url ||= begin
-      trans_id = id.tr('_', '-')
-      %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.json)
+      # transcript guids are expected to have -
+      trans_id = normalize_guid(id)
+
+      # check if s3 transcript is a json or txt
+      %w(json txt).each do |ext|
+        url = %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.#{ext})
+        return url if verify_transcript_src(url)
+      end
     end
   end
-
+  def verify_transcript_src(url)
+    HTTParty.head(url).code == 200
+  end
   def img?
     media_type == MOVING_IMAGE && digitized?
   end
-
   def img_src(icon_only = false)
     @img_src ||= begin
       url = nil
@@ -301,7 +286,7 @@ class PBCorePresenter
     return nil unless transcript_src
     transcript_file = TranscriptFile.new(transcript_src)
     return transcript_file.content if transcript_file
-    caption_file = CaptionFile.new(captions_src)
+    caption_file = CaptionFile.new(id)
     return caption_file.json if caption_file && caption_file.json
     nil
   end
@@ -332,15 +317,9 @@ class PBCorePresenter
     @duration ||= begin
       proxy_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/..').first
       proxy_duration_node = REXML::XPath.match(proxy_node, 'instantiationEssenceTrack/essenceTrackDuration') if proxy_node
-      proxy_duration_node.first.text if proxy_duration_node.present?
-    rescue NoMatchError
-
-      begin
-        any_duration_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration').first
-        any_duration_node.text if any_duration_node.present?
-      rescue NoMatchError
-        nil
-      end
+      return proxy_duration_node.first.text if proxy_duration_node.present?
+      any_duration_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration').first
+      any_duration_node.text if any_duration_node.present?
     end
   end
   def seconds
@@ -448,15 +427,18 @@ class PBCorePresenter
                             '//pbcoreDescription[last()]'
                           ].detect { |xp| xpaths(xp).count > 0 }
 
-    caption_response = !captions_src.nil? ? Net::HTTP.get_response(URI.parse(captions_src)) : nil
-    if !caption_response.nil? && caption_response.code == '200'
+    # This verifies that there is a corresponding file on S3 and adds
+    # a PBCore annotation required for AAPB but not coming from AMS or AMS2
+    captions = CaptionFile.new(id)
+    unless captions.captions_src.nil?
       pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      caption_body = parse_caption_body(CaptionConverter.srt_to_text(caption_response.body))
+
+      caption_body = captions.text
 
       cap_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
         el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-        el.add_text(captions_src)
+        el.add_text(captions.captions_src)
       end
 
       full_doc.insert_after(spot_for_annotations, cap_anno)
@@ -481,8 +463,7 @@ class PBCorePresenter
     end
 
     {
-      # use #solr_matched_id to match input guid to any equivalent permutation already stored in solr
-      'id' => solr_matched_id,
+      'id' => id,
       'xml' => Formatter.instance.format(full_doc),
 
       # constrained searches:
@@ -532,14 +513,13 @@ class PBCorePresenter
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
       :instantiations, :outside_url,
-      :reference_urls, :exhibits, :special_collections, :access_level_description,
+      :reference_urls, :exhibits, :top_exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio, :seconds,
-      :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src,
+      :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src, :verify_transcript_src,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl,
-      :verify_guid, :original_id, :solr_matched_id
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl, :original_id
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
