@@ -15,9 +15,9 @@
     <li><%= @exhibit.title %></li>
   </ol>
 
-  <div class="row" style="margin-bottom: 4%;">
+  <div class="row" style="margin-bottom: 4%; margin-top: 2%;">
 
-    <% if @exhibit.path.ends_with?('timeline') %>
+    <% if @exhibit.path.ends_with?('timeline') || @exhibit.path.ends_with?('notes') %>
 
       <div class="col-md-12">
         <div id="exhibit-text-container" class="row exhibit-text" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">

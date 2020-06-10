@@ -107,8 +107,8 @@ a.exhibit-color:hover {
 }
 
 #exgal-popup div.player section {
-  margin-left: 0 auto;
-  margin-right: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .exgal-popups {
@@ -170,10 +170,6 @@ a.exhibit-color:hover {
 
 .exgal-record {
   margin: 4%;
-}
-
-.exgal-image {
-  object-fit: cover;
 }
 
 .exhibit-show-breadcrumb {
@@ -320,12 +316,58 @@ h3.exhibit-title {
   margin-bottom: 0%;
 }
 
+
+.exgal-modal-leftpane {
+  background-color: #000;
+}
+
+.exgal-player-container {
+  overflow: hidden;
+}
+
 .exhibit-player {
   margin-left: 0;
   margin-right: 0;
+  height: 100%;
+  min-height: 100%;
   width: 100%;
-  min-width: 100%;
+}
+
+#exgal-item-viewer .exgal-player-container section {
   padding: 0 !important;
+}
+
+#exgal-modal-viewer .exgal-player-container {
+  position: relative;
+}
+
+#exgal-modal-viewer .exgal-player-container section {
+  height: 68vh;
+  width: 90.666vh;
+  padding: 0 !important;
+}
+
+#exgal-item-viewer .exgal-player-container section div.video-js {
+  top: 0;
+  width: 100%;
+  padding-bottom: 75%;
+  height: auto;
+
+}
+
+#exgal-modal-viewer .exgal-player-container section div.video-js {
+  position: relative;
+  top: 0;
+  right: 0;
+  width: 90.666vh;
+  height: 68vh;
+
+}
+
+#exgal-modal-viewer .exgal-player-container.exgal-image {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .exgal-modal-height {
@@ -333,24 +375,25 @@ h3.exhibit-title {
   max-height: 100%;
   height: 100%;*/
 
-  min-height: 50vh;
-  max-height: 50vh;
-  height: 50vh;
+  min-height: 68vh;
+  max-height: 68vh;
+  height: 68vh;
 
 
   /*display: flex;*/
 }
 
 .modal-content {
+  border: 0;
   margin-top: 20vh;
-  min-height: 50vh !important;
-  height: 50vh !important;
+  min-height: 68vh !important;
+  height: 68vh !important;
 }
 
 #exgal-modal-nav {
+  border: none;
   margin-left: 6%;
-  position: absolute;
-  bottom: 1.6em;
+  /*position: absolute;*/
   width: 160px;
   height: 10px;
 }
@@ -429,16 +472,12 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
 }
 
 #exgal-modal-close-con {
-  position: absolute;
-  bottom: 20px;
-  padding-right: 24%;
-  margin-bottom: 2%;
-  right: 0.6em;
-
-
+  position: relative;
 }
 
 #exgal-close-modal {
+  position: absolute;
+  top: 0.6vh;
 }
 
 #exgal-close-modal img {
@@ -477,14 +516,14 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
     margin-top: 8%;
   }
 
-  #exgal-modal-leftpane {
+  .exgal-modal-leftpane {
     width: 100%;
     display: block;
     padding-right: 0;
     padding-left: 0;
   }
 
-  #exgal-modal-rightpane {
+  .exgal-modal-rightpane {
     width: 100%;
     display: block;
     padding-bottom: 10%;
@@ -516,7 +555,8 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
     padding: 2%;
   }
 
-  #exgal-modal-spacer {
+  #exgal-modal-bottom {
+    background-color: #f3f;
   }
 
   #exgal-modal-nav {
@@ -536,8 +576,6 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
 
     width: 3em;
     position: absolute;
-    right: 2.6em;
-    bottom: 1.8em;
   }
 
   .modal-content {

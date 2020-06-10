@@ -21,6 +21,13 @@ span.vjs-current-time-display {
 .videojs div.vjs-time-divide {
   display: none !important;
 }
+
+
+/*disallow play/pause clicks on whole video element*/
+.vjs-tech {
+  pointer-events: none;
+}
+
 /*
 div.vjs-duration {
   display: none !important;
