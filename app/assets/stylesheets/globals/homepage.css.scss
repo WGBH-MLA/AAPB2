@@ -225,6 +225,9 @@
         -o-border-radius: 12px !important;
         border-radius: 12px !important;
         border: 0px;
+        .fix-it-promo {
+            max-width: 300px;
+        }
     }
 
     /*help-us text box for each section*/

@@ -80,7 +80,7 @@ describe 'Catalog' do
     end
 
     it 'can find one item' do
-      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=1234"
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=\"cpb-aacip-1234\""
       expect(page.status_code).to eq(200)
       expect_count(1, page.text)
       [
@@ -91,7 +91,8 @@ describe 'Catalog' do
       ].each do |field|
         expect(page).to have_text(field), missing_page_text_custom_error(field, page.current_path)
       end
-      expect_thumbnail(1234)
+
+      expect_thumbnail('cpb-aacip_1234')
     end
 
     it 'offers to broaden search' do
@@ -391,20 +392,46 @@ describe 'Catalog' do
         end
       end
     end
+
+    context 'quoted phrases in "OR" search', :focus do
+      let(:quoted_phrases) { '"Film and Television" OR "Event Coverage"' }
+
+      context ', with quoted phrase at the beginning' do
+        before { visit "/catalog?q=#{quoted_phrases}+OR+blergifoo&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
+        end
+      end
+
+      context ', with quoted phrase at the end' do
+        before { visit "/catalog?q=blergifoo+OR+#{quoted_phrases}&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
+        end
+      end
+
+      context ', with quoted phrase in the middle' do
+        before { visit "/catalog?q=blergifoo+OR+#{quoted_phrases}+OR+blergifoo&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
+        end
+      end
+    end
   end
 
   describe '.pbcore' do
     it 'works' do
-      visit '/catalog/1234.pbcore'
+      visit '/catalog/cpb-aacip-1234.pbcore'
       expect(page.status_code).to eq(200)
-      expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.xml'))
+      # WARNING - Checks validity but not accuracy of data.
+      expect { ValidatedPBCore.new(page.source) }.not_to raise_error
       expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
     end
   end
 
   describe '.mods' do
     it 'works' do
-      visit '/catalog/1234.mods'
+      visit '/catalog/cpb-aacip-1234.mods'
       expect(page.status_code).to eq(200)
       expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.mods'))
       expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
@@ -433,9 +460,9 @@ describe 'Catalog' do
     end
 
     it 'has thumbnails if outside_url' do
-      visit '/catalog/1234'
+      visit '/catalog/cpb-aacip-1234'
       # expect_all_the_text('clean-MOCK.xml')
-      expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
+      expect_thumbnail('cpb-aacip_1234') # has media, but also has outside_url, which overrides.
       expect_no_media
       expect_external_reference
     end
@@ -460,7 +487,7 @@ describe 'Catalog' do
       expect_no_media
     end
 
-    it 'links to collection' do
+    it 'links to exhibit' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
       expect(page).to have_text('This record is featured in'), missing_page_text_custom_error('This record is featured in', page.current_path)
       expect_video(poster: s3_thumb('cpb-aacip_111-21ghx7d6'))

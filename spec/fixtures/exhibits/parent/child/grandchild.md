@@ -21,7 +21,7 @@ Description goes here. Description goes here. Description goes here. Description
 
 - <a class="type">video</a>
   <!-- media-url for video or audio v -->
-  <a class="media-url">/media/cpb-aacip_151-b56d21s06x</a>
+  <a href="/media/cpb-aacip_151-b56d21s06x" class="media-url"></a>
   <a class="credit-link" href="http://www.cpb.org/link1">First Source name</a>
   <a class="caption-text">This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. This is the caption text for the first gallery item. </a>
   <a class="asset-url" href="http://americanarchive.org/whoo1"></a>

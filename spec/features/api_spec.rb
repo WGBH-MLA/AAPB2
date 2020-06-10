@@ -10,13 +10,13 @@ describe 'API' do
 
   describe 'good queries' do
     it 'retrieves single pbcore docs' do
-      visit '/api/1234.xml'
+      visit '/api/cpb-aacip-1234.xml'
       expect(page.status_code).to eq 200
       expect(page.body).to match('<pbcoreDescriptionDocument')
     end
 
     it 'retrieves individual documents / default callback' do
-      visit '/api.js?rows=1&q=id:1234&fl=id,title'
+      visit '/api.js?rows=1&q=id:cpb-aacip-1234&fl=id,title'
       expect(page.status_code).to eq 200
       expect(page).to have_text('callback({ "responseHeader"'), missing_page_text_custom_error('callback({ "responseHeader"', page.current_path)
       expect(page).to have_text('"rows": "1"'), missing_page_text_custom_error('"rows": "1"', page.current_path)
@@ -38,7 +38,7 @@ describe 'API' do
       visit '/api.json?rows=10&q=iowa'
       expect(page.status_code).to eq 200
       expect(page.source).to match(/^\{/s)
-      expect(page).to have_text('"numFound": 5'), missing_page_text_custom_error('"numFound": 5', page.current_path)
+      expect(page).to have_text('"numFound": 6'), missing_page_text_custom_error('"numFound": 6', page.current_path)
       expect(page).to have_text('Norman Borlaug'), missing_page_text_custom_error('Norman Borlaug', page.current_path)
       expect(page.source).to match('"xml": "<pbcoreDescriptionDocument')
       # have_text runs the source through a regex that removes "tags",
@@ -48,7 +48,7 @@ describe 'API' do
     it 'supports xml, too' do
       visit '/api.xml?rows=10&q=iowa'
       expect(page.status_code).to eq 200
-      expect(page.source).to match('<numFound type="integer">5</numFound>')
+      expect(page.source).to match('<numFound type="integer">6</numFound>')
       expect(page.source).to match('Norman Borlaug')
       expect(page.source).to match('<xml>&lt;pbcoreDescriptionDocument')
     end

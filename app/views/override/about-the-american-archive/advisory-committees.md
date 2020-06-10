@@ -5,7 +5,7 @@ In 2018, the American Archive of Public Broadcasting established three advisory 
 
 ## Education Advisory Committee (EduAC)
 
-### Purpose and Mission
+### Purpose and Mission 
 The AAPB EduAC is a group of individuals working in education who are passionate
 about public media and its long-term preservation and access. The purpose of the EduAC
 is to guide and assist the AAPB with regard to outreach and use of the AAPB,
@@ -24,40 +24,43 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>Independent Education Consultant
 
 **Tom Bober (EduAC Co-Chair)**
-<br>School Librarian, School District of Clayton, MO
+<br>District Library Coordinator, School District of Clayton, MO
 
 **Joel Breakstone**
 <br>Director, Stanford History Education Group
 
-**Kerry Dunne**
-<br>6-12 History & Social Studies Department Head, Weston Public Schools, MA
-
-**June Fox**
-<br>General Manager, C89.5 / KNHC Public Radio
+**Laura Evans**
+<br>Director of Education, Georgia Public Broadcasting
 
 **Justin Jakovac**
-<br>Executive Director, Mountain Plains Museum Association
+<br>Executive Director, Mountain-Plains Museums Association
+
+**Benjamin Leff**
+<br>Social Studies Teaching Associate, University Laboratory High School, Urbana, IL
+
+**Kristin Lehner**
+<br>Director, Secondary Education Content & Curriculum Strategy, PBS Education
 
 **Sherry Levitt**
-<br>Executive Director, Teaching with Primary Sources, Virginia 
+<br>Executive Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
 
-**Lawrence Paska**
+**Lawrence M. Paska, Ph.D**
 <br>Executive Director, National Council for the Social Studies
 
-**Joseph Phelan**
-<br>Program Specialist, National Endowment for the Humanities, Division of Education Programs
-
 **Lee Ann Potter (EduAC Co-Chair)**
-<br>Director of Educational Outreach, Library of Congress
+<br>Director of Learning and Innovation Office, Library of Congress
 
-**Nate Sleeter**
-<br>Postdoctoral Fellow in Digital Teaching and Learning, George Mason University, VA
+**Jen Reidel**
+<br>Social Studies Teacher 9-12, Bellingham School District, WA
 
 **Ted Sicker**
 <br>Executive Producer, Education, WGBH
 
-**Dr. Cynthia Szwajkowski**
-<br>Assistant Director, Teaching with Primary Sources, Virginia
+**Nate Sleeter**
+<br>Research Assistant Professor, Roy Rosenzweig Center for History and New Media, George Mason University 
+
+**Dr. Cynthia Szwajkowski, Ph.D**
+<br>Assistant Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
 
 ---
 

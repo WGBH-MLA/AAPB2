@@ -50,13 +50,18 @@
 
             <% if @snippets[pbcore.id][:transcript] %>
               <span class="index-data-title">From Transcript</span>:
-              <p style="margin-top: 0;"><%= @snippets[pbcore.id][:transcript] %> <a href="<%= @snippets[pbcore.id][:transcript_timecode_url] %>">
-              <%  if pbcore.media_type == 'Moving Image' %>
-                <button type="button" class="btn btn-default snippet-link">Watch from here</button>
-              <% else %>
-                <button type="button" class="btn btn-default snippet-link">Listen from here</button>
-              <% end %>
-              </a></p>
+              <p style="margin-top: 0;"><%= @snippets[pbcore.id][:transcript] %>
+
+                <% if @snippets[pbcore.id][:transcript_timecode_url] %>
+                  <a href="<%= @snippets[pbcore.id][:transcript_timecode_url] %>">
+                  <%  if pbcore.media_type == 'Moving Image' %>
+                    <button type="button" class="btn btn-default snippet-link">Watch from here</button>
+                  <% else %>
+                    <button type="button" class="btn btn-default snippet-link">Listen from here</button>
+                  <% end %>
+                  </a>
+                <% end %>
+              </p>
             <% end %>
 
           </article>

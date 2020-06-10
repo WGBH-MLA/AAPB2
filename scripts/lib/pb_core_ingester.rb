@@ -7,10 +7,13 @@ require_relative 'cleaner'
 require_relative 'null_logger'
 require_relative 'zipper'
 require_relative '../../lib/solr'
+require_relative '../../app/helpers/solr_guid_fetcher'
 
 class PBCoreIngester
   attr_reader :errors
   attr_reader :success_count
+
+  include SolrGUIDFetcher
 
   def initialize
     # TODO: hostname and corename from config?
@@ -121,6 +124,12 @@ class PBCoreIngester
     end
 
     begin
+      # From SolrGUIDFetcher
+      fetch_all_from_solr(pbcore.id, @solr).each do |id|
+        $LOG.info("Removing solr record with ID: #{pbcore.id}")
+        @solr.delete_by_id(id)
+      end
+
       @solr.add(pbcore.to_solr)
     rescue => e
       raise SolrError.new(e)
