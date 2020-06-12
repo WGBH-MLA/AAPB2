@@ -72,192 +72,170 @@ Under its Project for New Television, the Ford Foundation contributed the majori
 ## Gallery
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/16_haizlip.png">
   <a class="caption-text">Ellis Haizlip, host of *Soul!*.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/17_cicely_tyson.png">
   <a class="caption-text">Actress Cicely Tyson on *Soul!*.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_1_Soul_feet.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_2_Soul_curse.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/18_poitier_belafonte_haizlip.png">
   <a class="caption-text">Sidney Poitier and Harry Belafonte on *Soul!*</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152692_2_Belafonte.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Belafonte, Nelson, Poitier" featuring actor Harry Belafonte. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152692_3_Belafonte.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Belafonte, Nelson, Poitier" featuring actor Harry Belafonte. Courtesy WNET.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/15_carmen.png">
   <a class="caption-text">Dancer Carmen de Lavallade on *Soul!*.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152889_deLavallade.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Black Woman" featuring choreographer/dancer Carmen De Lavallade. Courtesy WNET.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/19_farrahkan.png">
   <a class="caption-text">Nation of Islam Minister Louis Farrakhan on *Soul!*.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_Farrakhan_1.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_Farrakhan_2.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_NOI_Homosexuality.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Farrakhan: The Minister" featuring Louis Farrakhan. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152943_BlackPowerPhrase.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jd4pk0823w">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-jd4pk0823w"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Wherever We May Be" featuring activist Stokely Carmichael. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152943_SNCC_SCLC.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-jd4pk0823w">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-jd4pk0823w"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Wherever We May Be" featuring activist Stokely Carmichael. Courtesy WNET.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/20_haizlip_and_van_peebles.png">
   <a class="caption-text">Ellis Haizlip and Melvin Van Peebles on *Soul!*.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_3_Soul_money.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring a scene from the Melvin Van Peebles play of the same title. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829237_Soul_Cleaver.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-2j6833ns3w"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Ain't Supposed to Die a Natural Death" featuring Kathleen Cleaver. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152692_1_Sidney.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-804xg9g38c"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Belafonte, Nelson, Poitier" featuring actor/director Sidney Poitier. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829281_1_MiriamMakeba.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m9b">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m9b"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Makeba/Delfonics" featuring South African singer Miriam Makeba. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829281_2_MiriamMakeba.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m9b">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-wm13n21m9b"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Makeba/Delfonics" featuring South African singer Miriam Makeba. Courtesy WNET.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/22_baraka.png">
   <a class="caption-text">Amiri Baraka.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152952_Baraka_1.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-dr2p55ff6c">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-dr2p55ff6c"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Baraka the Artist " featuring activist/author/poet Amiri Baraka. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152952_Baraka_2.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-dr2p55ff6c">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-dr2p55ff6c"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Baraka the Artist " featuring activist/author/poet Amiri Baraka. Courtesy WNET.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/21_nikki_gio_and_ali.png">
   <a class="caption-text">Guest host Nikki Giovanni interviewing Muhammad Ali.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/23_giovanni_and_baldwin.png">
   <a class="caption-text">Nikki Giovanni and James Baldwin.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829248_Nikki_James_1.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-881jx8qs">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_75-881jx8qs"></a>
   <a class="caption-text">Clip from *SOUL!* two-part episode "Nikki Giovanni and James Baldwin" featuring guest host Nikki Giovanni and author James Baldwin. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829248_Nikki_James_2.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_75-881jx8qs">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_75-881jx8qs"></a>
   <a class="caption-text">Clip from *SOUL!* two-part episode "Nikki Giovanni and James Baldwin" featuring guest host Nikki Giovanni and author James Baldwin. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829275_Nikki_James_1.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-0g3gx45m8b">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-0g3gx45m8b"></a>
   <a class="caption-text">Clip from *SOUL!* two-part episode "Nikki Giovanni and James Baldwin" featuring guest host Nikki Giovanni and author James Baldwin. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/829275_Nikki_James_2.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-0g3gx45m8b">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-0g3gx45m8b"></a>
   <a class="caption-text">Clip from *SOUL!* two-part episode "Nikki Giovanni and James Baldwin" featuring guest host Nikki Giovanni and author James Baldwin. Courtesy WNET.</a>
   
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152889_%201_whitesnow.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Black Woman" featuring poet Jackie Earley. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152889_2_birth.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Black Woman" featuring poet Marilyn Berry. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/152889_3_MotherofCivilization.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_512-p55db7wt4h"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Black Woman" featuring poet Novella Nelson and *Soul!* producer and actress Anna Horsford. Courtesy WNET.</a>
 
 - <a class="type">video</a>
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/143954_WriteUs.mp4" class="media-url"></a>
-  <a class="credit-link" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n">View the full program record</a>
+  <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_516-fj29883m3n"></a>
   <a class="caption-text">Clip from *SOUL!* episode "Farrakhan: The Minister" featuring host Ellis Haizlip. Courtesy WNET.</a>
   
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/26_audience_tables.png">
   <a class="caption-text"><em>Soul!</em>'s audience.</a>
 
 - <a class="type">image</a>
-  <a image align="center">
-  <a class="credit-link"></a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/25_audience_rolle.png">
   <a class="caption-text">Actress Esther Rolle in the studio audience.</a>

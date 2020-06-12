@@ -153,6 +153,7 @@
                     <h4 class="exgal-source_text exgal-title exhibit-color<%= @exhibit_color_suffix %> exgal-font italic exgal-main-margin"><%= gal[:source_text] %></h4>
                   </a>
 
+                  <a class="exgal-asset_url" href="<%= gal[:asset_url] %>"></a>
                 </div>
               </div>
 
@@ -203,7 +204,6 @@
       // init a player for each video slide
       $('.gallery-videoplayer').each(function() {
         players.push ( videojs( $(this).attr('id') ) );
-
       })
 
       viewSlide(1);
@@ -231,7 +231,6 @@
           } else {
             $('.exgal-back').removeClass('hide');;
           }
-
 
         // previou sslide
         } else {
@@ -324,8 +323,11 @@
           source_text_dest.text(source_text.first().text());
         }
 
-        if(asset_url){
-          asset_url_dest.text(asset_url.first().text());
+        $('.exgal-asset_url').show();
+        if(asset_url && asset_url.attr('href').length > 0){
+          asset_url_dest.attr('href',  asset_url.attr('href'));
+        } else {
+          asset_url_dest.hide();
         }
 
         // save index of the new item
