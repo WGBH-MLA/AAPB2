@@ -2,7 +2,7 @@
 
 ## Summary
 
-"Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*" was curated in 2019 by Christine Acham, Associate Professor of the Practice of Cinematic Arts, Division of Cinema and Media Studies, School of Cinematic Arts, University of Southern California; and Ashley Young, Ph.D. Candidate, Cinema and Media Studies, University of Southern California.
+"Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*" was curated in 2019 by Christine Acham, Chair & Professor, Academy for Creative Media, University of Hawai’i at Mānoa; and Ashley Young, Ph.D. Candidate, Cinema and Media Studies, University of Southern California.
 
 ## Extended
 
@@ -10,7 +10,7 @@
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/Christine_Headshot.jpg"/>
   <a class="name">Christine Acham</a>
-  <a class="title">Associate Professor of the Practice of Cinematic Arts, Division of Cinema and Media Studies, School of Cinematic Arts, University of Southern California</a>
+  <a class="title">Chair & Professor, Academy for Creative Media, University of Hawai’i at Mānoa</a>
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/Ashley_Headshot.jpg"/>
   <a class="name">Ashley Young</a>
   <a class="title">Ph.D. Candidate, Cinema and Media Studies, University of Southern California</a>
