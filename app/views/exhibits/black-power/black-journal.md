@@ -113,11 +113,7 @@ The hard-fought efforts of audiences, Tony Brown, and the program’s staff secu
   <a href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/1832307-9-1_Ethiopia.mp4" class="media-url"></a>
   <a class="asset-url" href="http://americanarchive.org/catalog/cpb-aacip_62-0000000717"></a>
   <a class="caption-text">Clip from *Black Journal* episode twenty-one filmed in Ethiopia. Courtesy WNET.</a>
-  
-- <a class="type">image</a>
-  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_0_house_and_cleaver.png">
-  <a class="caption-text">Lou House and Kathleen Cleaver on *Black Journal*.</a>
-  
+
 - <a class="type">image</a>
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/13_j_edgar_hoover.jpg">
   <a class="caption-text">J. Edgard Hoover in the Oval Office in 1967. Washington, D.C., July 24, 1967. Photograph. Public Domain.</a>
