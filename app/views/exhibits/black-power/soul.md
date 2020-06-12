@@ -201,13 +201,13 @@ Under its Project for New Television, the Ford Foundation contributed the majori
 - <a class="type">image</a>
   <a image align="center">
   <a class="credit-link"></a>
-  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/21_nikki_gio_and_ali.png">
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/23_giovanni_and_baldwin.png">
   <a class="caption-text">Nikki Giovanni and James Baldwin.</a>
 
 - <a class="type">image</a>
   <a image align="center">
   <a class="credit-link"></a>
-  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/23_giovanni_and_baldwin.png">
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/21_nikki_gio_and_ali.png">
   <a class="caption-text">Guest host Nikki Giovanni interviewing Muhammad Ali.</a>
 
 - <a class="type">video</a>
