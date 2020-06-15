@@ -4,7 +4,7 @@
 
 ![Black Journal](https://s3.amazonaws.com/americanarchive.org/special-collections/blackjournal.png "Black Journal") 
 
-## Summary
+## Summary 
 
 The <em>Black Journal</em> Collection features episodes from the <em>Black Journal</em> series, the first nationally televised public affairs program produced for, about, and (eventually) by African-Americans. The series debuted on National Educational Television on June 12, 1968, as a monthly one-hour program initially produced by Al Perlmutter, a white producer. Following a strike in August 1968 by black staff members, Perlmutter was replaced by African-American documentary filmmaker William Greaves, who became the series’ producer, director, and occasional host. Under Greaves’ direction, the series won an Emmy Award in 1969 for excellence in public affairs programming. In 1971, Tony Brown took over leadership of <em>Black Journal</em>. In 1977, the series transitioned to commercial television under the name <em>Tony Brown’s Journal</em> after many PBS affiliate stations chose not to carry it, preferring instead to air less-controversial public affairs programs. The series returned to public television in 1982 under the new name. 
 
