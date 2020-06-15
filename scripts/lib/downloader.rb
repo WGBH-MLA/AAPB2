@@ -122,7 +122,6 @@ class Downloader
 
   def download_ids_to_directory(ids)
     ids.each do |id|
-
       # sub out the entire beginning of the guid, thats what AMS1 WANTS
       short_id = id.gsub(/cpb-aacip./, '')
 
