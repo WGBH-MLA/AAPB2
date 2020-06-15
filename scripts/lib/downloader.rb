@@ -123,7 +123,7 @@ class Downloader
   def download_ids_to_directory(ids)
     ids.each do |id|
       id = id.gsub(/[^[:ascii:]]/, '').gsub(/[^[:print:]]/, '')
-      short_id = id.sub(/.*[_\/]/, '')
+      short_id = id.sub(/.*[\-_\/]/, '')
       content = if @options[:is_just_reindex]
                   $LOG.info("Query solr for #{id}")
                   # TODO: hostname and corename from config?
