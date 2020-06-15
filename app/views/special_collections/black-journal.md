@@ -16,7 +16,7 @@ The <em>Black Journal</em> Collection features episodes from the <em>Black Journ
 
 ## Featured
 
-[![Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-1v5bc3tn06.jpg)](/cpb-aacip_512-1v5bc3tn06)
+[![Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-1v5bc3tn06.jpg)](/catalog/cpb-aacip_512-1v5bc3tn06)
 [![Black Compton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-wp9t14vt8n.jpg)](/catalog/cpb-aacip_512-wp9t14vt8n)
 [![Kareem Abdul-Jabbar](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-154dn40k35.jpg)](/catalog/cpb-aacip_512-154dn40k35)
 [![Black Artist](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-9z90864382.jpg)](/catalog/cpb-aacip_512-9z90864382)
@@ -30,7 +30,7 @@ The <em>Black Journal</em> Collection features episodes from the <em>Black Journ
 - [Black Diaspora Archive, University of Texas at Austin](https://sites.utexas.edu/bda/collaborators/)
 - [The Black Panther Party, National Archives](https://www.archives.gov/research/african-americans/black-power/black-panthers) 
 - [The Malcolm X Collection, New York Public Library](http://archives.nypl.org/scm/21896)
-- [Black Power Exhibit, AAPB](https://americanarchive.org/exhibits/black-power)
+- [Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*](https://americanarchive.org/exhibits/black-power)
 
 ## Funders
 
