@@ -83,7 +83,7 @@ Hopkins University Press, 2001).
     <a class="caption-text">Congressperson Philip Crane discusses the future of the Republican Party in a 1970 episode of Conservative Viewpoint.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-b27pn8z80v">Conservative Viewpoint; Politics</a>
 
-## Records
+## Records 
 
 - [](/catalog/cpb-aacip_512-5717m04t96)
 - [](/catalog/cpb-aacip_512-7659c6sv00)
