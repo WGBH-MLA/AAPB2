@@ -35,24 +35,24 @@ The *Regional Report* episode on Republicans – along with a number of other ep
 Hopkins University Press, 2001).
 
 - Mary C. Brennan, *Turning Right: The Conservative Capture of the GOP* (Chapel Hill:
-	University of North Carolina Press, 1995).
+  University of North Carolina Press, 1995).
 
 - Lewis L. Gould, *The Republicans: A History of the Grand Old Party* (New York: Oxford
-	University Press, 2014).
+  University Press, 2014).
 
 - Robert Mason and Iwan Morgan, eds., *Seeking a New Majority: The Republican Party and American Politics, 1960-1980* (Nashville: Vanderbilt University Press, 2013).
 
 - Rick Perlstein, *Before the Storm: Barry Goldwater and the Unmaking of the American
-	Consensus* (New York: Nation Books, 2009).
+  Consensus* (New York: Nation Books, 2009).
 
 - Heather Cox Richardson, *To Make Men Free: A History of the Republican Party* (New York:
  Basic Books, 2014).
 
 - Elizabeth Tandy Shermer, ed., *Barry Goldwater and the Remaking of the American Political
-	Landscape* (Tucson: University of Arizona Press, 2013).
+  Landscape* (Tucson: University of Arizona Press, 2013).
 
 - Leah Wright Rigeur, *The Loneliness of the Black Republican: Pragmatic Politics and the Pursuit
-	of Power* (Princeton: Princeton University Press, 2015).
+  of Power* (Princeton: Princeton University Press, 2015).
 
 
 #### Next: [Conservatism and Civil Rights](/exhibits/conservatism/conservatism-civil-rights)
@@ -60,7 +60,6 @@ Hopkins University Press, 2001).
 ## Main
 
 ## Cover
-
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Ronald Reagan discusses the future of the Republican Party in a 1966 episode of Regional Report.</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/conservatism/RonaldReaganRR.png" alt="Ronald Reagan discusses the future of the Republican Party in a 1966 episode of Regional Report."/></td></tr>
@@ -83,7 +82,7 @@ Hopkins University Press, 2001).
     <a class="caption-text">Congressperson Philip Crane discusses the future of the Republican Party in a 1970 episode of Conservative Viewpoint.</a>
     <a class="credit-link" href="https://americanarchive.org/catalog/cpb-aacip_512-b27pn8z80v">Conservative Viewpoint; Politics</a>
 
-## Records
+## Records 
 
 - [](/catalog/cpb-aacip_512-5717m04t96)
 - [](/catalog/cpb-aacip_512-7659c6sv00)
