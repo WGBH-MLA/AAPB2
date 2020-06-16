@@ -49,7 +49,7 @@ class Downloader
   private
 
   def http_get(url)
-    URI.parse(url).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
+    URI.parse(url.strip).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
   end
 
   def mkdir_and_cd(name)
