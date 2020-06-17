@@ -49,7 +49,7 @@ class Downloader
   private
 
   def http_get(url)
-    URI.parse(url).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
+    URI.parse(url.strip).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
   end
 
   def mkdir_and_cd(name)
@@ -123,7 +123,7 @@ class Downloader
   def download_ids_to_directory(ids)
     ids.each do |id|
       # sub out the entire beginning of the guid, thats what AMS1 WANTS
-      short_id = id.gsub(/cpb-aacip./, '')
+      short_id = id.gsub(/cpb-aacip./, '').gsub(/[^a-zA-Z0-9\/\-\_]/, '')
 
       content = if @options[:is_just_reindex]
                   $LOG.info("Query solr for #{id}")
