@@ -2,7 +2,7 @@
 
 ## Summary
 
-"Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*" was curated in 2019 by Christine Acham, Chair & Professor, Academy for Creative Media, University of Hawai’i at Mānoa; and Ashley Young, Ph.D. Candidate, Cinema and Media Studies, University of Southern California.
+"Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*" was launched in 2020 and curated by Christine Acham, Chair & Professor, Academy for Creative Media, University of Hawai’i at Mānoa; and Ashley Young, Ph.D. Candidate, Cinema and Media Studies, University of Southern California.
 
 ## Extended
 
