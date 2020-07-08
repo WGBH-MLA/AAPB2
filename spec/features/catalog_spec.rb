@@ -459,6 +459,11 @@ describe 'Catalog' do
       end
     end
 
+    it '404s if given bad id' do
+      visit '/catalog/thisaintreal'
+      expect(page.status_code).to eq(404)
+    end
+
     it 'has thumbnails if outside_url' do
       visit '/catalog/cpb-aacip-1234'
       # expect_all_the_text('clean-MOCK.xml')

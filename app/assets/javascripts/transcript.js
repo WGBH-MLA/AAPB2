@@ -45,7 +45,7 @@ $(function() {
         $current.addClass(currentClass);
         $current.attr("id", currentId)
         position = $current.offset().top - offsetTop;
-        $("div.transcript-content").scrollTo(document.getElementById("current"));
+        $("div.transcript-content").scrollTo("#current");
       }
     }
   };
