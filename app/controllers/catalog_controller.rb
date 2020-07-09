@@ -262,7 +262,7 @@ class CatalogController < ApplicationController
 
     # we have to rescue from this in fetch_from_blacklight to run through all guid permutations, so throw it here if we didnt find anything
     raise Blacklight::Exceptions::RecordNotFound unless @document
-    
+
     xml = @document['xml']
     respond_to do |format|
       format.html do
