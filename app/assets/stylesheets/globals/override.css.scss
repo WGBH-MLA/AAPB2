@@ -14,8 +14,32 @@
     }
   }
 
-  img {
-    float: left;
-    margin-right: 10px;
-  }
+}
+
+
+p, ul, h3 {
+  display: block;
+  float: left;
+  width: 50%;  
+  max-width: 50%;  
+}
+
+p span.img-box {
+  display: none;
+  float: right;
+  padding: 2vw;
+  width: 40%;
+  max-width: 40%;
+}
+
+span.img-box a+img+br+em {
+    font-style: normal;
+    display: inherit;
+    text-align: center;
+    font-size: 10px;
+}
+
+span.img-box a img {
+  width: 100%;
+  max-width: 100%;
 }
