@@ -1,15 +1,15 @@
 
 
-h2, h3 {
+h2.override, h3.override {
   margin-top: 2%;
   margin-bottom: 2%;
 }
 
-ul {
+ul.override {
   /*word-break: break-all;*/
 }
 
-span {
+span.override {
   padding: 2%;
   width: 50%;
 }
