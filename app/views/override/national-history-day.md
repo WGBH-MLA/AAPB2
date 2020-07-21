@@ -2,48 +2,36 @@
 
 <div class="row">
   <div class="col-md-12">
-    <h2>
-      National History Day: "Communication in History: The Key to Understanding"
-    </h2>
   </div>
-
 </div>
 
 <div class="row">
 
-  <div class="col-md-6">
-    Each year, National History Day frames students’ research within a historical theme. The 2020-2021 theme is Communication in History: The Key to Understanding. National History Day (NHD) and students are exploring topics related to the ways that people have exchanged information throughout the past, how these methods and modes have changed over time, and how they have affected life today. Public broadcasting has been an influential form of communication for the past seven decades, and students can use the American Archive of Public Broadcasting (AAPB) to explore how public media has communicated important issues to the American public through television and radio. More than 55,000 programs from the late 1930s to the present day are streaming online, including interviews with leading political and cultural figures and ordinary people, national newscasts and news from diverse communities across the nation, revealing documentaries, and live coverage of events as they occurred.
-
-    <div>For more information on this theme, visit <a href="https://www.nhd.org/">National History Day</a>.</div>
-    
-    <div>To contact AAPB staff, email <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a></div>
-  </div>
-
-  <div class="col-md-6">
+  <span style="float: right;">
     <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" target="_blank">
       <img src="https://s3.amazonaws.com/americanarchive.org/override/NHD_2021ThemeLogo_colorbg.png" alt="National History Day">
     </a>
+  </span>
+
+  <h2>National History Day: "Communication in History: The Key to Understanding"</h2>
+
+  <div>
+    Each year, National History Day frames students’ research within a historical theme. The 2020-2021 theme is Communication in History: The Key to Understanding. National History Day (NHD) and students are exploring topics related to the ways that people have exchanged information throughout the past, how these methods and modes have changed over time, and how they have affected life today. Public broadcasting has been an influential form of communication for the past seven decades, and students can use the American Archive of Public Broadcasting (AAPB) to explore how public media has communicated important issues to the American public through television and radio. More than 55,000 programs from the late 1930s to the present day are streaming online, including interviews with leading political and cultural figures and ordinary people, national newscasts and news from diverse communities across the nation, revealing documentaries, and live coverage of events as they occurred.
+
+    For more information on this theme, visit <a href="https://www.nhd.org/">National History Day</a>.
+    
+    To contact AAPB staff, email <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a>
   </div>
-</div>
 
-<div class="row">
+  <h3>
+    Online Reading Room Access (ORR)
+  </h3>
 
-  <div class="col-md-12">
-    <h2>
-      Online Reading Room Access (ORR)
-    </h2>
-  </div>
-</div>
-
-
-<div class="row">
-  <div class="col-md-12">
+  <div>
     More than 55,000 digitized historic progorams are available in the AAPB Online Reading Room (ORR). 
   </div>
-</div>
 
-<div class="row">
-  <div class="col-md-12">
+  <div>
     <ul>
       <li>Available within the U.S. for research, educational and informational purposes (download not authorized)</li>
       <li>Use the search bar to search by keyword; use quotation marks to narrow searches to specific word phrases</li>
@@ -52,17 +40,21 @@
       <li>Sort by relevance, date (newest), date (oldest), or title</li>
     </ul>
   </div>
-</div>
 
-
-<div class="row">
-  <div class="col-md-12">
-    <h2>Additional Access Points</h2>
-  </div>
 </div>
 
 <div class="row">
-  <div class="col-md-6">
+  <span style="float: right;">
+    <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" target="_blank">
+      <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" alt="Black Journal hosts William Greaves and Lou House from the Televising Black Politics in the Black Power Era exhibit." />
+    </a>
+
+    <em>Black Journal hosts William Greaves and Lou House from the Televising Black Politics in the Black Power Era exhibit.</em>
+  </span>
+
+  <h3>Additional Access Points</h3>
+
+  <div>
     <ul>
       <li>More than 50 <a href="https://americanarchive.org/special_collections">Special Collections</a> include summary information about the content, recommended search strategies, and related resources.</li>
       <li>Curated <a href="https://americanarchive.org/exhibits">exhibits</a> focus on ways public television and radio have covered issues and events of cultural and historical significance and provide accompanying essays that put the programs in relevant contexts.</li>
@@ -70,99 +62,67 @@
     </ul>
   </div>
 
-  <div class="col-md-6">
-    <span class="img-box">
-      <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" target="_blank">
-        <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" alt="Black Journal hosts William Greaves and Lou House from the Televising Black Politics in the Black Power Era exhibit." />
-      </a>
+  <h2>Collections at a Glance</h2>
 
-      <em>Black Journal hosts William Greaves and Lou House from the Televising Black Politics in the Black Power Era exhibit.</em>
-    </span>
-
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-12">
-    <h2>Collections at a Glance</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-12">
-    <h3>Local History</h3>
-  </div>
-</div>  
-
-
-<div class="row">
-  <div class="col-md-12">
+  <h3>Local History</h3>
+  
+  <div>
     The AAPB offers programming contributed by more than <a href="https://americanarchive.org/participating-orgs">130 organizations</a> across the country. Their materials include local programs, raw interviews, news reports, documentaries, newsmagazines, and more created over the past 70+ years.
   </div>
+
 </div>
 
 <div class="row">
-  <div class="col-md-12">
-    <h3>News Reports</h3>
-  </div>
-</div>
 
-<div class="row">
-  <div class="col-md-6">
+  <span style="float: right;">
+    <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/override/Judy_AIDS.png" target="_blank">
+      <img src="https://s3.amazonaws.com/americanarchive.org/override/Judy_AIDS.png" alt="Coping With AIDS, episode headline from a 1985 episode of The MacNeil/Lehrer NewsHour."/>
+    </a>
+
+    <em>"Coping With AIDS, episode headline from a 1985 episode of The MacNeil/Lehrer NewsHour."</em>
+  </span>
+
+  <h3>News Reports</h3>
+
+  <div>
     <ul>
       <li>See how national and international events have impacted the nation and local communities from the late 1940s through the present.</li>
       <li>See the <a href="https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Pacifica+Radio+Archives+%28CA%29">KPFA</a> (Berkeley, CA), <a href="https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=New+Jersey+Nightly+News&f%5Baccess_types%5D%5B%5D=online">New Jersey Nightly News</a>, <a href="https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=NewsNight+Minnesota&f%5Baccess_types%5D%5B%5D=online">NewsNight Minnesota</a>, or <a href="https://americanarchive.org/special_collections/newshour">PBS NewsHour</a> collections.</li>
     </ul>
   </div>
 
-  <div class="col-md-6">
+  <h3>Unedited Interviews</h3>
 
-    <span class="img-box">
-      <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/override/Judy_AIDS.png" target="_blank">
-        <img src="https://s3.amazonaws.com/americanarchive.org/override/Judy_AIDS.png" alt="Coping With AIDS, episode headline from a 1985 episode of The MacNeil/Lehrer NewsHour."/>
-      </a>
-
-      <em>"Coping With AIDS, episode headline from a 1985 episode of The MacNeil/Lehrer NewsHour."</em>
-    </span>
+  <div>
+    AAPB provides access to full-length accounts with historians and witnesses of historic events conducted for acclaimed series - See the <a href="https://americanarchive.org/special_collections/1964-interviews">1964 interviews</a>, <a href="https://americanarchive.org/special_collections/eotp-i-interviews">Eyes on the Prize Interviews</a>, <a href="https://americanarchive.org/special_collections/ken-burns-civil-war">Ken Burns' The Civil War Interviews</a>, or <a href="https://americanarchive.org/special_collections/the-murder-of-emmett-till-interviews">The Murder of Emmett Till Interviews</a>.
   </div>
 
-</div>
+  <h3>Historical Events</h3>
 
-
-<div class="row">
-  <div class="col-md-12">
-    <h3>Unedited Interviews</h3>
+  <div>
+    Watch and listen to coverage of the Watergate hearings, the AIDS crisis, civil rights and political movements, and more.
   </div>
-</div>
 
-<div class="row">
-  <div class="col-md-12">
-  AAPB provides access to full-length accounts with historians and witnesses of historic events conducted for acclaimed series
-  - See the <a href="https://americanarchive.org/special_collections/1964-interviews">1964 interviews</a>, <a href="https://americanarchive.org/special_collections/eotp-i-interviews">Eyes on the Prize Interviews</a>, <a href="https://americanarchive.org/special_collections/ken-burns-civil-war">Ken Burns' The Civil War Interviews</a>, or <a href="https://americanarchive.org/special_collections/the-murder-of-emmett-till-interviews">The Murder of Emmett Till Interviews</a>.
-
-<div class="row">
-  <div class="col-md-12">
-    <h3>Historical Events</h3>
+  <div>
+    - See the <a href="https://americanarchive.org/special_collections/backstory">BackStory</a> collection, <a href="https://americanarchive.org/exhibits/civil-rights">Voices from the Southern Civil Rights Movement</a> exhibit, or the <a href="https://americanarchive.org/exhibits/conservatism">On the Right: NET and Modern Conservatism</a> exhibit.
   </div>
-</div>
 
-Watch and listen to coverage of the Watergate hearings, the AIDS crisis, civil rights and political movements, and more.
-- See the <a href="https://americanarchive.org/special_collections/backstory">BackStory</a> collection, <a href="https://americanarchive.org/exhibits/civil-rights">Voices from the Southern Civil Rights Movement</a> exhibit, or the <a href="https://americanarchive.org/exhibits/conservatism">On the Right: NET and Modern Conservatism</a> exhibit.
+</div>  
 
 <div class="row">
-  <div class="col-md-12">
-    <h2>Example Topics and Suggested Content</h2>
-  </div>
-</div>
+  <span style="float: right;">
+    <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/override/NET_MrRogers.png" target="_blank">
+      <img src="https://s3.amazonaws.com/americanarchive.org/override/NET_MrRogers.png" alt="In an NET Special featuring the Public Television Hearings in 1969, Fred Rogers, star of "Mister Rogers' Neighborhood", successfully advocates for the government to financially support educational television." />
+    </a>
 
-<div class="row">
-  <div class="col-md-12">
-    <h3>Understanding Public Broadcasting History</h3>
-  </div>
-</div>
+    <em>"In an NET Special featuring the Public Television Hearings in 1969, Fred Rogers, star of "Mister Rogers' Neighborhood", successfully advocates for the government to financially support educational television."</em>
+  </span>
 
-<div class="row">
-  <div class="col-md-6">
+  <h2>Example Topics and Suggested Content</h2>
+
+  <h3>Understanding Public Broadcasting History</h3>
+
+  <div>
     <ul>
       <li><a href="https://americanarchive.org/special_collections/net-catalog">National Educational Television</a> collection</li>
       <li><a href="https://americanarchive.org/special_collections/newtonminow">Broadcasting in the Public Interest: The Newton Minow Collection</a></li>
@@ -172,76 +132,61 @@ Watch and listen to coverage of the Watergate hearings, the AIDS crisis, civil r
     </ul>
   </div>
 
-  <div class="col-md-6">
-    <span class="img-box">
-      <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/override/NET_MrRogers.png" target="_blank">
-        <img src="https://s3.amazonaws.com/americanarchive.org/override/NET_MrRogers.png" alt="In an NET Special featuring the Public Television Hearings in 1969, Fred Rogers, star of "Mister Rogers' Neighborhood", successfully advocates for the government to financially support educational television." />
-      </a>
+  <h3>Diversity in Broadcast Programs</h3>
 
-      <em>"In an NET Special featuring the Public Television Hearings in 1969, Fred Rogers, star of "Mister Rogers' Neighborhood", successfully advocates for the government to financially support educational television."</em>
-    </span>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-6">
-
-    <h3>Diversity in Broadcast Programs</h3>
-
+  <div>
     <ul>
       <li><a href="https://americanarchive.org/special_collections/vegetable-soup">Vegetable Soup</a> collection</li>
       <li><a href="https://americanarchive.org/special_collections/outcasting">OutCasting</a> collection</li>
       <li><a href="https://americanarchive.org/special_collections/say-brother">Say Brother</a> collection </li>
     </ul>
-
-    <h3>Women’s Voices on Public Broadcasting</h3>
-
-    <ul>
-      <li><a href="https://americanarchive.org/special_collections/woman-series">Woman</a> series collection</li>
-      <li><a href="https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Prospects+of+Mankind+with+Eleanor+Roosevelt&f%5Baccess_types%5D%5B%5D=online">Prospects of Mankind with Eleanor Roosevelt</a> series</li>
-      <li><a href="https://americanarchive.org/special_collections/kopn-women">Feminist Community Radio at KOPN</a> collection</li>
-    </ul>
-
-    Additional topics include legislation, religion, music, science, gender studies, education, immigration, and diaspora communities.
-
-    For local content, visit the <a href="https://americanarchive.org/participating-orgs">AAPB Participating Organizations</a> landing page.
   </div>
+</div>
 
-  <div class="col-md-6">
-    <span class="img-box">
+<div class="row">
+  <span style="float: right;">
       <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/override/OutCasting.png" target="_blank">
         <img src="https://s3.amazonaws.com/americanarchive.org/override/OutCasting.png" alt="OutCasting is created by and for LGBTQ youth and straight allies, and is intended for a general listening audience that is open to learning about LGBTQ issues but may not know much about them." />
       </a>
 
       <em>"OutCasting is created by and for LGBTQ youth and straight allies, and is intended for a general listening audience that is open to learning about LGBTQ issues but may not know much about them."</em>
-    </span>
+  </span>
+
+  <h3>Women’s Voices on Public Broadcasting</h3>
+
+  <div>
+    <ul>
+      <li><a href="https://americanarchive.org/special_collections/woman-series">Woman</a> series collection</li>
+      <li><a href="https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Prospects+of+Mankind+with+Eleanor+Roosevelt&f%5Baccess_types%5D%5B%5D=online">Prospects of Mankind with Eleanor Roosevelt</a> series</li>
+      <li><a href="https://americanarchive.org/special_collections/kopn-women">Feminist Community Radio at KOPN</a> collection</li>
+    </ul>
   </div>
-</div>
 
-<div class="row">
-  <div class="col-md-12">
-    <h2>FAQ</h2>
+  <div>
+    Additional topics include legislation, religion, music, science, gender studies, education, immigration, and diaspora communities.
   </div>
-</div>
 
-<div class="row">
-  <div class="col-md-12">
-    <h3>Can I download content?</h3>
+  <div>
+    For local content, visit the <a href="https://americanarchive.org/participating-orgs">AAPB Participating Organizations</a> landing page.
+  </div>
 
+  <h2>FAQ</h2>
+
+  <h3>Can I download content?</h3>
+
+  <div>
     Although content in the AAPB is available only for streaming online, AAPB staff can connect you with the producing station to request copies for your National History Day project.
-
-    <h3>How do I request access to materials not available online?</h3>
-
-    AAPB can provide you with password-protected access to certain materials via uor Limited Research Access (LRA) Policy.
-
-    <h3>I need help in my research! How can I get in touch with the AAPB staff?</h3>
-
-    Contact us at <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a>.
   </div>
+
+  <h3>How do I request access to materials not available online?</h3>
+
+  <div>
+    AAPB can provide you with password-protected access to certain materials via uor Limited Research Access (LRA) Policy.
+  </div>
+
+  <h3>I need help in my research! How can I get in touch with the AAPB staff?</h3>
+
+  <div>
+    Contact us at <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a>.
+  </div>  
 </div>
-
-
-
-
-
-
