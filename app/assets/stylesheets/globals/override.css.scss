@@ -1,21 +1,15 @@
 
 
-.override-main {
-  p:first-child {
-    // Special handling for the banner image.
-    margin: 0px;
-    
-    &:after {
-      content: "";
-      clear: both;
-      height: 0;
-      visibility: hidden;
-      display: block;
-    }
-  }
+h2.override, h3.override {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
 
-  img {
-    float: left;
-    margin-right: 10px;
-  }
+ul.override {
+  /*word-break: break-all;*/
+}
+
+span.override {
+  padding: 2%;
+  width: 50%;
 }
