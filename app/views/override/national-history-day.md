@@ -17,19 +17,28 @@
 
   <div>
     Each year, National History Day frames students’ research within a historical theme. The 2020-2021 theme is Communication in History: The Key to Understanding. National History Day (NHD) and students are exploring topics related to the ways that people have exchanged information throughout the past, how these methods and modes have changed over time, and how they have affected life today. Public broadcasting has been an influential form of communication for the past seven decades, and students can use the American Archive of Public Broadcasting (AAPB) to explore how public media has communicated important issues to the American public through television and radio. More than 55,000 programs from the late 1930s to the present day are streaming online, including interviews with leading political and cultural figures and ordinary people, national newscasts and news from diverse communities across the nation, revealing documentaries, and live coverage of events as they occurred.
-
-    For more information on this theme, visit <a href="https://www.nhd.org/">National History Day</a>.
-    
-    To contact AAPB staff, email <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a>
   </div>
+
+  <div>For more information on this theme, visit <a href="https://www.nhd.org/">National History Day</a>.</div>
+  
+  <div>To contact AAPB staff, email <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a></div>
 
   <h3 class="override">
     Online Reading Room Access (ORR)
   </h3>
 
   <div>
-    More than 55,000 digitized historic progorams are available in the AAPB Online Reading Room (ORR). 
+    More than 55,000 digitized historic programs are available in the AAPB <a href="https://americanarchive.org/catalog?q=&utf8=✓&f[access_types][]=online">Online Reading Room (ORR)</a> for research, educational, and informational purposes.
   </div>
+
+  <h3 class="override">
+    Search Tips:
+  </h3>
+
+  <div>
+    Use the search bar to search by keyword; use quotation marks to narrow searches to specific word phrases. <i>Example: Equal Rights Amendment without quotes will populate search results related to each individual word in the phrase, rather than populating results based on the specific sequence of words when quotes are applied, i.e. "Equal Rights Amendment"</i>
+  </div>
+
 
   <div>
     <ul class="override">
@@ -58,7 +67,7 @@
     <ul class="override">
       <li>More than 50 <a href="https://americanarchive.org/special_collections">Special Collections</a> include summary information about the content, recommended search strategies, and related resources.</li>
       <li>Curated <a href="https://americanarchive.org/exhibits">exhibits</a> focus on ways public television and radio have covered issues and events of cultural and historical significance and provide accompanying essays that put the programs in relevant contexts.</li>
-      <li>Limited Research Access (LRA) - Certain materials not available online are accessible via password-protected two-week access for bona fide research purposes.</li>
+      <li>Limited Research Access (LRA) - Certain materials not available online are accessible via password-protected two-week access for bona fide research purposes. Reach out to <a href="mailto:aapb_notifications@wgbh.org">aapb_notifications@wgbh.org</a> for LRA requests.</li>
     </ul>
   </div>
 
@@ -86,25 +95,21 @@
 
   <div>
     <ul class="override">
-      <li>See how national and international events have impacted the nation and local communities from the late 1940s through the present.</li>
-      <li>See the <a href="https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Pacifica+Radio+Archives+%28CA%29">KPFA</a> (Berkeley, CA), <a href="https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=New+Jersey+Nightly+News&f%5Baccess_types%5D%5B%5D=online">New Jersey Nightly News</a>, <a href="https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=NewsNight+Minnesota&f%5Baccess_types%5D%5B%5D=online">NewsNight Minnesota</a>, or <a href="https://americanarchive.org/special_collections/newshour">PBS NewsHour</a> collections.</li>
+      <li>Collections in the AAPB range from the late 1940s through the present, providing an audiovisual record of how national and international events have impacted communities on local and national levels.</li>
+      <li>Suggested news collections in the AAPB include <a href="https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Pacifica+Radio+Archives+%28CA%29">KPFA</a> (Berkeley, CA), <a href="https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=New+Jersey+Nightly+News&f%5Baccess_types%5D%5B%5D=online">New Jersey Nightly News</a>, <a href="https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=NewsNight+Minnesota&f%5Baccess_types%5D%5B%5D=online">NewsNight Minnesota</a>, or <a href="https://americanarchive.org/special_collections/newshour">PBS NewsHour</a> collections.</li>
     </ul>
   </div>
 
   <h3 class="override">Unedited Interviews</h3>
 
   <div>
-    AAPB provides access to full-length accounts with historians and witnesses of historic events conducted for acclaimed series - See the <a href="https://americanarchive.org/special_collections/1964-interviews">1964 interviews</a>, <a href="https://americanarchive.org/special_collections/eotp-i-interviews">Eyes on the Prize Interviews</a>, <a href="https://americanarchive.org/special_collections/ken-burns-civil-war">Ken Burns' The Civil War Interviews</a>, or <a href="https://americanarchive.org/special_collections/the-murder-of-emmett-till-interviews">The Murder of Emmett Till Interviews</a>.
+    AAPB provides access to full-length accounts with historians and witnesses of historic events conducted for acclaimed series. See the <a href="https://americanarchive.org/special_collections/1964-interviews">1964 interviews</a>, <a href="https://americanarchive.org/special_collections/eotp-i-interviews"><i>Eyes on the Prize</i> Interviews</a>, <a href="https://americanarchive.org/special_collections/ken-burns-civil-war">Ken Burns' <i>The Civil War Interviews</i></a>, or <a href="https://americanarchive.org/special_collections/the-murder-of-emmett-till-interviews"><i>The Murder of Emmett Till</i> Interviews</a>.
   </div>
 
   <h3 class="override">Historical Events</h3>
 
   <div>
-    Watch and listen to coverage of the Watergate hearings, the AIDS crisis, civil rights and political movements, and more.
-  </div>
-
-  <div>
-    - See the <a href="https://americanarchive.org/special_collections/backstory">BackStory</a> collection, <a href="https://americanarchive.org/exhibits/civil-rights">Voices from the Southern Civil Rights Movement</a> exhibit, or the <a href="https://americanarchive.org/exhibits/conservatism">On the Right: NET and Modern Conservatism</a> exhibit.
+    Watch and listen to coverage of the Watergate hearings, the AIDS crisis, civil rights and political movements, and more. See the <a href="https://americanarchive.org/special_collections/backstory">BackStory</a> collection, <a href="https://americanarchive.org/exhibits/civil-rights">Voices from the Southern Civil Rights Movement</a> exhibit, or the <a href="https://americanarchive.org/exhibits/conservatism">On the Right: NET and Modern Conservatism</a> exhibit.
   </div>
 
 </div>  
