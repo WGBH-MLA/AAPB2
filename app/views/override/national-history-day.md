@@ -88,7 +88,7 @@
       <img src="https://s3.amazonaws.com/americanarchive.org/override/Judy_AIDS.png" alt="Coping With AIDS, episode headline from a 1985 episode of The MacNeil/Lehrer NewsHour."/>
     </a>
 
-    <em>"Coping With AIDS, episode headline from a 1985 episode of The MacNeil/Lehrer NewsHour."</em>
+    <em>Coping With AIDS, episode headline from a 1985 episode of The MacNeil/Lehrer NewsHour.</em>
   </span>
 
   <h3 class="override">News Reports</h3>
@@ -120,7 +120,7 @@
       <img src="https://s3.amazonaws.com/americanarchive.org/override/NET_MrRogers.png" alt="In an NET Special featuring the Public Television Hearings in 1969, Fred Rogers, star of "Mister Rogers' Neighborhood", successfully advocates for the government to financially support educational television." />
     </a>
 
-    <em>"In an NET Special featuring the Public Television Hearings in 1969, Fred Rogers, star of "Mister Rogers' Neighborhood", successfully advocates for the government to financially support educational television."</em>
+    <em>In an NET Special featuring the Public Television Hearings in 1969, Fred Rogers, star of "Mister Rogers' Neighborhood", successfully advocates for the government to financially support educational television.</em>
   </span>
 
   <h2 class="override">Example Topics and Suggested Content</h2>
@@ -154,7 +154,7 @@
         <img src="https://s3.amazonaws.com/americanarchive.org/override/OutCasting.png" alt="OutCasting is created by and for LGBTQ youth and straight allies, and is intended for a general listening audience that is open to learning about LGBTQ issues but may not know much about them." />
       </a>
 
-      <em>"OutCasting is created by and for LGBTQ youth and straight allies, and is intended for a general listening audience that is open to learning about LGBTQ issues but may not know much about them."</em>
+      <em>OutCasting is created by and for LGBTQ youth and straight allies, and is intended for a general listening audience that is open to learning about LGBTQ issues but may not know much about them.</em>
   </span>
 
   <h3 class="override">Women’s Voices on Public Broadcasting</h3>
