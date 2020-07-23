@@ -8,7 +8,7 @@
 <div class="row">
 
   <span class="override" style="float: right;">
-    <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" target="_blank">
+    <a class="img-a" href="https://www.nhd.org/" target="_blank">
       <img src="https://s3.amazonaws.com/americanarchive.org/override/NHD_2021ThemeLogo_colorbg.png" alt="National History Day">
     </a>
   </span>
@@ -54,7 +54,7 @@
 
 <div class="row">
   <span class="override" style="float: right;">
-    <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" target="_blank">
+    <a class="img-a" href="https://americanarchive.org/exhibits/black-power" target="_blank">
       <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png" alt="Black Journal hosts William Greaves and Lou House from the Televising Black Politics in the Black Power Era exhibit." />
     </a>
 
@@ -84,7 +84,7 @@
 <div class="row">
 
   <span class="override" style="float: right;">
-    <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/override/Judy_AIDS.png" target="_blank">
+    <a class="img-a" href="https://americanarchive.org/catalog/cpb-aacip-507-154dn40c26#at_682.533511_s" target="_blank">
       <img src="https://s3.amazonaws.com/americanarchive.org/override/Judy_AIDS.png" alt="Coping With AIDS, episode headline from a 1985 episode of The MacNeil/Lehrer NewsHour."/>
     </a>
 
@@ -116,7 +116,7 @@
 
 <div class="row">
   <span class="override" style="float: right;">
-    <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/override/NET_MrRogers.png" target="_blank">
+    <a class="img-a" href="https://americanarchive.org/catalog/cpb-aacip-516-t72794201n#at_1818.566075_s" target="_blank">
       <img src="https://s3.amazonaws.com/americanarchive.org/override/NET_MrRogers.png" alt="In an NET Special featuring the Public Television Hearings in 1969, Fred Rogers, star of "Mister Rogers' Neighborhood", successfully advocates for the government to financially support educational television." />
     </a>
 
@@ -150,7 +150,7 @@
 
 <div class="row">
   <span class="override" style="float: right;">
-      <a class="img-a" href="https://s3.amazonaws.com/americanarchive.org/override/OutCasting.png" target="_blank">
+      <a class="img-a" href="https://americanarchive.org/special_collections/outcasting" target="_blank">
         <img src="https://s3.amazonaws.com/americanarchive.org/override/OutCasting.png" alt="OutCasting is created by and for LGBTQ youth and straight allies, and is intended for a general listening audience that is open to learning about LGBTQ issues but may not know much about them." />
       </a>
 
