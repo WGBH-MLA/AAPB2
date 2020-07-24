@@ -14,8 +14,8 @@ Test Producer Description
 
 ## Featured
 
-[![Test Featured Item](http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-2r3nv99t98.jpg)](/catalog/cpb-aacip_111-21ghx7d6)
-[![Test Featured Item 2](http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg)](/catalog/cpb-aacip_111-21ghx7d6)
+[![Test Featured Item](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-2r3nv99t98.jpg)](/catalog/cpb-aacip_111-21ghx7d6)
+[![Test Featured Item 2](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg)](/catalog/cpb-aacip_111-21ghx7d6)
 
 ## Resources
 

@@ -10,7 +10,7 @@ describe ThumbnailsController do
   describe 'redirection' do
     it 'speeds up redirects (cached response returns in <40ms)' do
       get 'show', id: 'cpb-aacip-1234'
-      expect(response.redirect_url).to eq('http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_1234.jpg')
+      expect(response.redirect_url).to eq('https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_1234.jpg')
 
       start_2 = Time.now
       get 'show', id: '1234'

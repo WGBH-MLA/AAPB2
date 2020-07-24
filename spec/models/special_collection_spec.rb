@@ -32,8 +32,8 @@ describe SpecialCollection do
     describe '.featured_items' do
       it 'returns the featured items for the collection' do
         expect(collection.featured_items).to eq([
-          ['Test Featured Item', '/catalog/cpb-aacip_111-21ghx7d6', 'http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-2r3nv99t98.jpg'],
-          ['Test Featured Item 2', '/catalog/cpb-aacip_111-21ghx7d6', 'http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg']
+          ['Test Featured Item', '/catalog/cpb-aacip_111-21ghx7d6', 'https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-2r3nv99t98.jpg'],
+          ['Test Featured Item 2', '/catalog/cpb-aacip_111-21ghx7d6', 'https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg']
         ])
       end
     end
@@ -109,7 +109,7 @@ describe SpecialCollection do
 
     describe '.featured_html' do
       it 'returns the featured html for the collection' do
-        expect(collection.featured_html).to eq("<p><a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-2r3nv99t98.jpg\" alt=\"Test Featured Item\"></a>\n<a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg\" alt=\"Test Featured Item 2\"></a></p>")
+        expect(collection.featured_html).to eq("<p><a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-2r3nv99t98.jpg\" alt=\"Test Featured Item\"></a>\n<a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg\" alt=\"Test Featured Item 2\"></a></p>")
       end
     end
 

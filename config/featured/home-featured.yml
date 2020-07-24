@@ -133,7 +133,7 @@
 - id: cpb-aacip_512-w37kp7vq3t#at_310.00_s
   org_name: WETA-TV
   name: "1974 Nixon Impeachment Hearings; Rep. Barbara Jordan"
-  thumbnail_url: http://americanarchive.org.s3.amazonaws.com/featured/cpb-aacip_512-w37kp7vq3t_gallery.jpg
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/featured/cpb-aacip_512-w37kp7vq3t_gallery.jpg
 
 - id: cpb-aacip_516-g44hm53h63
   org_name: National Educational Television and Radio Center
