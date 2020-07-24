@@ -1,5 +1,5 @@
 module AAPB
-  S3_BASE = 'http://americanarchive.org.s3.amazonaws.com'.freeze
+  S3_BASE = 'https://s3.amazonaws.com/americanarchive.org'.freeze
   QUERY_OR = ' OR '.freeze
   PLAYER_HEIGHT_TRANSCRIPT_4_3 = '422'.freeze
   PLAYER_WIDTH_TRANSCRIPT_4_3 = '562'.freeze
