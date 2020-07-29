@@ -27,7 +27,7 @@ module XmlBacked
   end
 
   def xpaths(xpath)
-    # Need to process it cdata children if they're present
+    # Need to process cdata children if they're present
     REXML::XPath.match(@doc, xpath).map { |node| cdata_present?(node) ? node.cdatas.first : XmlBacked.text_from(node) }
   end
 
@@ -36,7 +36,7 @@ module XmlBacked
   end
 
   def cdata_present?(node)
-    node.respond_to?('cdatas') && !node.cdatas.empty? ? true : false
+    node.respond_to?('cdatas') && !node.cdatas.empty?
   end
 
   def pairs_by_type(element_xpath, attribute_xpath)
