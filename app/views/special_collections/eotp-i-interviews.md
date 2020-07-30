@@ -1,6 +1,6 @@
 # Eyes on the Prize Interviews
 
-## Thumbnail 
+## Thumbnail
 
 ![Eyes on the Prize](https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg "Eyes on the Prize Interviews")
 
