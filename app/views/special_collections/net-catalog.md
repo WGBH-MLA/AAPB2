@@ -1,6 +1,6 @@
 # National Educational Television
 
-## Thumbnail
+## Thumbnail 
 
 ![National Educational Television](https://s3.amazonaws.com/americanarchive.org/special-collections/net_catalog.jpg "National Educational Television Logo")
 
