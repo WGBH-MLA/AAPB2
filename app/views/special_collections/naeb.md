@@ -1,6 +1,6 @@
 # National Association of Educational Broadcasters Programs
 
-## Thumbnail
+## Thumbnail 
 
 ![National Association of Educational Broadcasters Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/naeb-image.jpg "National Association of Educational Broadcasters Collection")
 
