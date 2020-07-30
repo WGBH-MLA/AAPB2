@@ -24,9 +24,11 @@ The <em>Jubilee Singers</em> interviews were conducted in 2000 for the <em>Ameri
 ## Resources
 
 - [Jubilee Singers Archives (1858-1924) finding aid, Fisk University (pdf)](https://www.fisk.edu/assets/files/cs/jubilee-singersarchivesoriginal1858-1924.pdf)
+- [HBCU Library Alliance](https://hbcudigitallibrary.auctr.edu/digital/)
 - [Archives of African American Music and Culture, Indiana University](https://aaamc.indiana.edu/)
 - [<em>Tell Them We Are Rising</em> Documentary Website](https://www.pbs.org/independentlens/films/tell-them-we-are-rising/)
-- [African American History, American Memory Project, Library of Congress](https://memory.loc.gov/ammem/browse/ListSome.php?category=African%20American%20History)
+- [The African American Odyssey: A Quest for Full Citizenship, Library of Congress](https://www.loc.gov/exhibits/african-american-odyssey/reconstruction.html)
+- [Black History Collection, Library of Congress](https://www.loc.gov/item/mm82057687/)
 
 ## Funders
 
