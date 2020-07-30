@@ -1,6 +1,6 @@
 # Say Brother
 
-## Thumbnail
+## Thumbnail 
 
 ![Say Brother](https://s3.amazonaws.com/americanarchive.org/special-collections/SayBrother.jpg "Say Brother")
 
