@@ -34,7 +34,6 @@ WUNC began as a FM station staffed by students at the University of North Caroli
 - [WUNC on Twitter](https://twitter.com/wunc)
 - [WUNC on Facebook](https://www.facebook.com/915wunc)
 - [North Carolina Voices](http://wunc.org/tags/north-carolina-voices#stream/0)
-- [Understanding Poverty]( http://storyweb.wuncfm.unc.edu/dfd/poverty/)
 - [University of North Carolina at Chapel Hill, Wilson Library Special Collections](https://library.unc.edu/wilson/)
 - [Wilson Library WUNC collection: WUNC Records, 1929-2004 (bulk 1970-1995)](https://finding-aids.lib.unc.edu/40278/)
 - [AAPBF](https://pbpf.americanarchive.org/)
