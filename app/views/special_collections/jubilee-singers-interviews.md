@@ -31,7 +31,6 @@ The <em>Jubilee Singers</em> interviews were conducted in 2000 for the <em>Ameri
 - [Archives of African American Music and Culture, Indiana University](https://aaamc.indiana.edu/)
 - [<em>Tell Them We Are Rising</em> Documentary Website](https://www.pbs.org/independentlens/films/tell-them-we-are-rising/)
 - [The African American Odyssey: A Quest for Full Citizenship, Library of Congress](https://www.loc.gov/exhibits/african-american-odyssey/reconstruction.html)
-- [Black History Collection, Library of Congress](https://www.loc.gov/item/mm82057687/)
 
 ## Funders
 
