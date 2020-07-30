@@ -44,7 +44,7 @@
     <ul class="override">
       <li>Available within the U.S. for research, educational and informational purposes (download not authorized)</li>
       <li>Use the search bar to search by keyword; use quotation marks to narrow searches to specific word phrases</li>
-      <li>-Example: Equal Rights Amendment without quotes will populate search results related to each individual word in the phrase, rather than populating results based on the specific sequence of words when quotes are applied, i.e. "Equal Rights Amendment”.</li>
+      <li>Example: Equal Rights Amendment without quotes will populate search results related to each individual word in the phrase, rather than populating results based on the specific sequence of words when quotes are applied, i.e. "Equal Rights Amendment”.</li>
       <li>Use the filters to narrow your search by media type, year(s), topic, genre, contributing organizations, etc.</li>
       <li>Sort by relevance, date (newest), date (oldest), or title</li>
     </ul>
