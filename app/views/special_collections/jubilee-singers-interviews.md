@@ -1,6 +1,6 @@
 # Jubilee Singers Interviews
 
-## Thumbnail
+## Thumbnail 
 
 ![Jubilee Singers](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0006_Jubilee.jpg "Jubilee Singers")
 
@@ -23,7 +23,10 @@ The <em>Jubilee Singers</em> interviews were conducted in 2000 for the <em>Ameri
 
 ## Resources
 
-- [Jubilee Singers Archives (1858-1924) finding aid, Fisk University (pdf)](https://www.fisk.edu/assets/files/cs/jubilee-singersarchivesoriginal1858-1924.pdf)
+- [Fisk Jubilee Singers](http://fiskjubileesingers.org/)
+- [*Jubilee Singers: Sacrifice and Glory*, PBS](https://www.pbs.org/wgbh/americanexperience/films/singers/)
+- [Jubilee Singers Archives (1858-1924) finding aid, Fisk University (pdf)](https://www.fisk.edu/wp-content/uploads/2020/06/jubilee-singersarchivesoriginal1858-1924.pdf)
+- [Jubilee Singers European Tour Collection, 1873-1878, finding aid, Fisk University (pdf)](https://www.fisk.edu/wp-content/uploads/2020/06/jubilee-singersarchiveseuropeantourcollection1873-1878.pdf)
 - [HBCU Library Alliance](https://hbcudigitallibrary.auctr.edu/digital/)
 - [Archives of African American Music and Culture, Indiana University](https://aaamc.indiana.edu/)
 - [<em>Tell Them We Are Rising</em> Documentary Website](https://www.pbs.org/independentlens/films/tell-them-we-are-rising/)
