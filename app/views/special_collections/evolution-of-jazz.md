@@ -1,6 +1,6 @@
 # The Evolution of Jazz
 
-## Thumbnail
+## Thumbnail 
 
 ![The Evolution of Jazz](https://s3.amazonaws.com/americanarchive.org/special-collections/EvolutionofJazz.jpg "The Evolution of Jazz")
 ## Summary
