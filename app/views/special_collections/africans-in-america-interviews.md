@@ -1,6 +1,6 @@
 # Africans in America Interviews
 
-## Thumbnail
+## Thumbnail 
 
 ![Africans in America](https://s3.amazonaws.com/americanarchive.org/special-collections/africans-in-america.jpg "Africans in America")
 
