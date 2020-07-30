@@ -1,6 +1,6 @@
 # North Carolina Voices
 
-## Thumbnail
+## Thumbnail 
 
 ![WUNC North Carolina Voices](https://s3.amazonaws.com/americanarchive.org/special-collections/WUNC_North_Carolina_Voices_thumbnail.png "WUNC North Carolina Voices")
 
