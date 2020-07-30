@@ -24,10 +24,11 @@ Founded in 1968 by filmmaker Henry Hampton (1940-1998), Blackside, Inc. has prod
 ## Resources
 
 - [*Eyes on the Prize* at Washington University Digital Gateway](http://digital.wustl.edu/eyesontheprize/)
-- [*Eyes on the Prize* at World Channel](http://worldchannel.org/programs/eyes-on-the-prize/)
+- [*Eyes on the Prize, Then And Now*, at World Channel](https://www.wgbh.org/program/world-channel/eyes-on-the-prize-then-and-now)
 - [*Eyes on the Prize*: America's Civil Rights Movement, 1954-1985, Facing History](https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement)
 - ['Eyes On The Prize' Producer On Making A Civil Rights Documentary Before Its Time, by Lakshmi Singh at NPR](http://www.npr.org/2017/03/12/519925253/eyes-on-the-prize-producer-on-making-a-civil-rights-documentary-before-its-time)
 - [Civil Rights Digital Library at University of Georgia](http://crdl.usg.edu/?Welcome)
+- [The Civil Rights Act of 1964: A Long Struggle For Freedom, Library of Congress](https://www.loc.gov/exhibits/civil-rights-act/)
 - [AAPB Exhibit: Voices from the Southern Civil Rights Movement](http://americanarchive.org/exhibits/civil-rights)
 - [Freedom Story Map](https://loc.maps.arcgis.com/apps/Cascade/index.html?appid=4d76cf42caf84b069b0e0235b6996efd)
 
