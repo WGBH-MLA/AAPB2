@@ -170,14 +170,20 @@ organizations, producers and leaders) and beyond <br>
 **Robert Chehoski**
 <br>Manager, Media Management and Archives, KQED
 
-**Christopher Holmes**
-<br>Division Director - Production, Alabama Public Television
-
 **Kevin Crane**
 <br>President and CEO, Nashville Public Television
 
 **Maureen Harlow**
 <br>Senior Digital Librarian, PBS
+
+**Terry Gildea**
+<br>Executive Director, Public Media Journalists Association
+
+**Abby Goldstein**
+<br>President & Executive Director, Public Radio Program Directors Association
+
+**Christopher Holmes**
+<br>Vice President, Production & Digital Studios, Alabama Public Television
 
 **Julie Rogers** 
 <br>Public Historian, NPR’s Research, Archives, and Data Strategy Team
