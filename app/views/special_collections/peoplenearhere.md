@@ -14,12 +14,12 @@
 
 ## Featured
 
-[![Kathy Hoffman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-71ngfc2b.jpg)](/catalog/cpb-aacip_113-71ngfc2b)
-[![Ed Cotter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-8605qt60.jpg)](/catalog/cpb-aacip_113-8605qt60)
-[![Becky Harblin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-22v41vht.jpg)](/catalog/cpb-aacip_113-22v41vht)
-[![Ted Spencer](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-79h44w80.jpg)](/catalog/cpb-aacip_113-79h44w80)
-[![Ice Fishing](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-52j6qdvq.jpg)](/catalog/cpb-aacip_113-52j6qdvq)
-[![Mike Edson](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-19f4qwxm.jpg)](/catalog/cpb-aacip_113-19f4qwxm)
+[![Kathy Hoffman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-71ngfc2b_1.jpg)](/catalog/cpb-aacip_113-71ngfc2b)
+[![Ed Cotter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-8605qt60_1.jpg)](/catalog/cpb-aacip_113-8605qt60)
+[![Becky Harblin](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-22v41vht_1.jpg)](/catalog/cpb-aacip_113-22v41vht)
+[![Ted Spencer](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-79h44w80_1.jpg)](/catalog/cpb-aacip_113-79h44w80)
+[![Ice Fishing](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-52j6qdvq_1.jpg)](/catalog/cpb-aacip_113-52j6qdvq)
+[![Mike Edson](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-19f4qwxm_1.jpg)](/catalog/cpb-aacip_113-19f4qwxm)
 
 ## Resources
 
