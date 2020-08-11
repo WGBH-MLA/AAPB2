@@ -20,6 +20,13 @@
 - [![Ted Spencer](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-79h44w80.jpg)](/catalog/cpb-aacip_113-79h44w80)
 - [![Ice Fishing](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-52j6qdvq.jpg)](/catalog/cpb-aacip_113-52j6qdvq)
 - [![Mike Edson](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_113-19f4qwxm.jpg)](/catalog/cpb-aacip_113-19f4qwxm)
+[![Paul Finkelman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-mg7fq9r73r.jpg)](/catalog/cpb-aacip_15-mg7fq9r73r)
+[![James Horton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-cz3222s68b.jpg)](/catalog/cpb-aacip_15-cz3222s68b)
+[![Margaret Washington](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-fx73t9f80s.jpg)](/catalog/cpb-aacip_15-fx73t9f80s)
+[![Russell Banks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-kp7tm7311v.jpg)](/catalog/cpb-aacip_15-kp7tm7311v)
+[![Bruce Olds](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-v69862cj42.jpg)](/catalog/cpb-aacip_15-v69862cj42)
+[![Dennis Frye](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-3n20c4tg2m.jpg)](/catalog/cpb-aacip_15-3n20c4tg2m)
+
 
 ## Resources
 
