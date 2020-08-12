@@ -34,7 +34,7 @@ Each catalog record identifies holdings information from various institutions th
 - [National Educational Television Records Finding Aid at Wisconsin Historical Society](http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;cc=wiarchives;q1=Carnegie%20Commission;rgn=main;view=text;didno=uw-whs-us0066af)
 - [Museum of Broadcast Communications](https://www.museum.tv/)
 
-## Funders
+## Funders 
 
 - [![CLIR](https://s3.amazonaws.com/americanarchive.org/org-logos/clir_logo.png "CLIR Logo")](https://www.clir.org/)
 
