@@ -22,9 +22,9 @@ Each catalog record identifies holdings information from various institutions th
 
 [![Prospects of Mankind](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-51vdnr5h.jpg)](/catalog/cpb-aacip_15-51vdnr5h)
 [![Black Journal](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_62-5m6251fv96.jpg)](/catalog/cpb-aacip_62-5m6251fv96)
-[![Redman’s America](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_52-36h18dhz.jpg)](/catalog/cpb-aacip_52-36h18dhz)
+[![Community of the Condemned](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-gx44q7rq23.jpg)](/catalog/cpb-aacip-512-gx44q7rq23)
 [![Science Reporter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-30prrfdx.jpg)](/catalog/cpb-aacip_15-30prrfdx)
-[![PBL](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-9zg6g70c.jpg)](/catalog/cpb-aacip_15-9zg6g70c)
+[![Huelga!](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_504-696zw19w66.jpg)](/catalog/cpb-aacip_504-696zw19w66)
 [![Invitation to Art](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-542j678z5j.jpg)](/catalog/cpb-aacip_15-542j678z5j)
 
 ## Resources
