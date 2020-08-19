@@ -9,7 +9,7 @@ Latest Special Collections to launch include *Vegetable Soup*, *In Black America
 
 ### New Exhibit
 
-Curated by Dr. Allisoon Perlman, the AAPB released a new online exhibit titled "[On the Right: NET and Modern Conservatism](https://americanarchive.org/exhibits/conservatism)." Created as part of the National Educatioonal Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources, the exhibit explores the growth of the conservative movement in the mid-20th century through the lens of public television. Rescued from deteriorating videotape and film, 21 National Education Television (NET) programs produced between 1956 and 1970 explore multiple perspectives on the modern conservative movement. The programs are now available for online viewing, many for the first time since their original broadcast.
+Curated by Dr. Allison Perlman, the AAPB released a new online exhibit titled "[On the Right: NET and Modern Conservatism](https://americanarchive.org/exhibits/conservatism)." Created as part of the National Educatioonal Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources, the exhibit explores the growth of the conservative movement in the mid-20th century through the lens of public television. Rescued from deteriorating videotape and film, 21 National Education Television (NET) programs produced between 1956 and 1970 explore multiple perspectives on the modern conservative movement. The programs are now available for online viewing, many for the first time since their original broadcast.
 
 ## April 2019
 
