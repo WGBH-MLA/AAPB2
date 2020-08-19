@@ -52,7 +52,7 @@ You do not have to send video and audio files to contribute metadata records to 
 
 Your spreadsheet or PBCore XML should includes as much descriptive and technical information (metadata) about the materials as possible. The metadata should include at the very least, the unique identifier (file name), title, date (if known), format, and duration. But the more information you can provide, the better!
 
-**For organizations contributing vidoe and audio files to AAPB:**
+**For organizations contributing video and audio files to AAPB:**
 We need you to deliver the metadata prior to the start of digitization.
 
 **For organizations contributing records with URLs to content available on your own website:**
