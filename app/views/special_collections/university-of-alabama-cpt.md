@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Alabama](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_7a9d7a8e3ef.jpg "Alabama")
+![Alabama](https://s3.amazonaws.com/americanarchive.org/special-collections/Alabama_CPTR.jpg "Alabama")
 
 ## Summary
 
