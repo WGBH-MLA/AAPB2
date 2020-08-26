@@ -30,7 +30,7 @@ This collection of work from CPT&R was digitized in the Fall of 2019 and Spring 
 - [The Center for Public Television and Radio](http://www.cptr.org/2016/6/6/k9t4ja7kc178vtdctf7b30vlnt4j4y)
 - [The University of Alabama Special Collections and Archives](https://www.lib.ua.edu/libraries/hoole/)
 - [The Alabama Department of Archives and History](https://archives.alabama.gov)
-- [Alabama, National Archives] (https://www.archives.gov/nhprc/projects/states-territories/al.html)
+- [Alabama, National Archives](https://www.archives.gov/nhprc/projects/states-territories/al.html)
 
 ## Funders
  
