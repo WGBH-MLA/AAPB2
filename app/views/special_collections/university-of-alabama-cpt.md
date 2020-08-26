@@ -18,11 +18,11 @@ This collection of work from CPT&R was digitized in the Fall of 2019 and Spring 
 
 ## Featured
 
-[![Mobile Wooden Boats](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-d8ebafee30e.jpg)](/catalog/cpb-aacip-d8ebafee30e)
+[![Mobile Wooden Boats](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_d8ebafee30e.jpg)](/catalog/cpb-aacip-d8ebafee30e)
 [![Refugees in Alabama](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_0cf69f1e0ad1.jpg)](/catalog/cpb-aacip-0cf69f1e0ad)
 [![Tide Football, 1925](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_0dc4001c0cd.jpg)](/catalog/cpb-aacip-0dc4001c0cd)
 [![Mobile Mardi Gras](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_690722078b2.jpg)](/catalog/cpb-aacip-690722078b2)
-[![WW2 German Prisoners](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-b6a2a39b7eb.jpg)](/catalog/cpb-aacip-b6a2a39b7eb)
+[![WW2 German Prisoners](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_b6a2a39b7eb.jpg)](/catalog/cpb-aacip-b6a2a39b7eb)
 [![Paralympics Games](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_ec590a6761d.jpg)](/catalog/cpb-aacip-ec590a6761d)
 
 ## Resources
