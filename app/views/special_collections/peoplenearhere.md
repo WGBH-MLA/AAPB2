@@ -25,7 +25,7 @@
 
 - [<em>People Near Here</em>, Mountain Lake PBS](https://mountainlake.org/category/watch/people-near-here/)
 - [Derek Muirden, Mountain Lake PBS](https://mountainlake.org/tag/derek-muirden/)
-- [<em>People Near Here</em> digial shorts, PBS](https://www.pbs.org/show/people-near-here/)
+- [<em>People Near Here</em> digital shorts, PBS](https://www.pbs.org/show/people-near-here/)
 - [Mountain Lake PBS Website](https://mountainlake.org/)
 - [Adirondack History Museum](http://www.adkhistorycenter.org/)
 - [Adirondack Experience, The Museum on Blue Mountain Lake](https://www.theadkx.org/)
