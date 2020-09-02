@@ -22,6 +22,7 @@
 - [Black Power, National Archives](https://www.archives.gov/research/african-americans/black-power)
 - [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
 - [*Basic Black*, WGBH](https://www.wgbh.org/basic-black-show)
+- ["*Black Journal*, A Personal Look Backward," St. Clair Bourne, International Documentary Association](https://www.documentary.org/feature/black-journal-personal-look-backward)
 
 ## Main
 
