@@ -1,8 +1,8 @@
-# <em>Prospects of Mankind with Eleanor Roosevelt</em
+# <em>Prospects of Mankind with Eleanor Roosevelt</em>
 
 ## Thumbnail
 
-![<em>Prospects of Mankind</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WSRE_1000.jpg "Prospects of Mankind") will change image
+![<em>Prospects of Mankind</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WSRE_1000.jpg "Prospects of Mankind")
 
 ## Summary
 
