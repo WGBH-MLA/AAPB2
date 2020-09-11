@@ -14,12 +14,12 @@
 
 ## Featured
 
-[![New Vistas for Television](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-451g1x4f.jpg)](/catalog/cpb-aacip-15-451g1x4f)
-[![What Status for Women?](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-057cr5nc5k.jpg)](/catalog/cpb-aacip_15-057cr5nc5k)
-[![New Possibilities for Coexistence](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-51vdnr5h.jpg)](/catalog/cpb-aacip_15-51vdnr5h)
-[![Africa: Revolution in Haste](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-09w0w2sd.jpg)](/catalog/cpb-aacip_15-09w0w2sd)
-[![Future of Democracy Abroad](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-21ghxcpv.jpg)](/catalog/cpb-aacip_15-21ghxcpv)
- [![The American Image Abroad](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-17crjp1w.jpg)](/catalog/cpb-aacip_15-17crjp1w)
+[![New Vistas for Television](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-451g1x4f-1.jpg)](/catalog/cpb-aacip-15-451g1x4f)
+[![What Status for Women?](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-057cr5nc5k-1.jpg)](/catalog/cpb-aacip_15-057cr5nc5k)
+[![New Possibilities for Coexistence](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-51vdnr5h-1.jpg)](/catalog/cpb-aacip_15-51vdnr5h)
+[![Africa: Revolution in Haste](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-09w0w2sd-1.jpg)](/catalog/cpb-aacip_15-09w0w2sd)
+[![Future of Democracy Abroad](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-21ghxcpv-1.jpg)](/catalog/cpb-aacip_15-21ghxcpv)
+ [![The American Image Abroad](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-17crjp1w-1.jpg)](/catalog/cpb-aacip_15-17crjp1w)
 
 ## Resources
 
