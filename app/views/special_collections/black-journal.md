@@ -19,9 +19,9 @@ The <em>Black Journal</em> Collection features episodes from the <em>Black Journ
 [![Angela Davis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-1v5bc3tn06.jpg)](/catalog/cpb-aacip_512-1v5bc3tn06)
 [![Black Compton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-wp9t14vt8n.jpg)](/catalog/cpb-aacip_512-wp9t14vt8n)
 [![Kareem Abdul-Jabbar](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-154dn40k35.jpg)](/catalog/cpb-aacip_512-154dn40k35)
-[![The Black Cop](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-vq2s46j64c.jpg)](/catalog/cpb-aacip-512-vq2s46j64c)
+[![The Black Cop](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-vq2s46j64c-1.jpg)](/catalog/cpb-aacip-512-vq2s46j64c)
 [![Louis Farrakhan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-bz6154fm6p.jpg)](/catalog/cpb-aacip_512-bz6154fm6p)
-[![Can You Dig It?](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_b3e8b891466.jpg)](/catalog/cpb-aacip-b3e8b891466)
+[![Can You Dig It?](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_b3e8b891466-1.jpg)](/catalog/cpb-aacip-b3e8b891466)
 
 ## Resources
 
