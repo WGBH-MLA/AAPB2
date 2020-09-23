@@ -1,6 +1,6 @@
 # Black Journal
 
-## Thumbnail
+## Thumbnail 
 
 ![Black Journal](https://s3.amazonaws.com/americanarchive.org/special-collections/blackjournal.png "Black Journal") 
 
