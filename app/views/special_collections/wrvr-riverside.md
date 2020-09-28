@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![WRVR-FM](https://s3.amazonaws.com/americanarchive.org/special-collections/stonewall-veterans.jpg "WRVR-FM") main image goes here
+![WRVR-FM](https://s3.amazonaws.com/americanarchive.org/special-collections/WRVRbox.jpg "WRVR-FM") 
 
 ## Summary
 
