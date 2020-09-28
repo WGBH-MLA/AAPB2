@@ -20,12 +20,12 @@ The “Public Radio as a Tool for Cultural Engagement in New York in the 60s and
 
 ## Featured
 
-[![Portion of the Week](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_528-0p0wp9v41q)
-[![Un Mensaje Para Ustedes](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_528-gf0ms3m68x)
-[![Cambodia – What Now, What Next?](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_528-fj29883v3k)
-[![Stories by Edgar Allan Poe](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_528-pn8x922s1n)
-[![Birmingham: Testament of Nonviolence](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip_500-ff3m1j0m)
-[![Clergy and Laymen Concerned about Vietnam](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-528-4x54f1nn94)
+[![Portion of the Week](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_528-0p0wp9v41q)
+[![Un Mensaje Para Ustedes](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_528-gf0ms3m68x)
+[![Cambodia – What Now, What Next?](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_528-fj29883v3k)
+[![Stories by Edgar Allan Poe](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_528-pn8x922s1n)
+[![Birmingham: Testament of Nonviolence](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_500-ff3m1j0m)
+[![Clergy and Laymen Concerned about Vietnam](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip-528-4x54f1nn94)
 
 ## Resources
 
