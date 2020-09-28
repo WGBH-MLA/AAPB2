@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![WRVR-FM](https://s3.amazonaws.com/americanarchive.org/special-collections/WRVRbox.jpg "WRVR-FM") 
+![WRVR-FM](https://s3.amazonaws.com/americanarchive.org/special-collections/WRVRbox1.jpg "WRVR-FM") 
 
 ## Summary
 
