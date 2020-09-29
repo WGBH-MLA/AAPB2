@@ -94,7 +94,7 @@ class Organization < Cmless
   end
 
   def self.build_organization_names_display(organizations)
-    organizations.map { |org| org.short_name_html.gsub(/<[^>]*>/, '') }
+    organizations.map { |org| org.short_name }
   end
 
   def to_a
