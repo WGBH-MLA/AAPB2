@@ -31,6 +31,7 @@ The <em>Black Journal</em> Collection features episodes from the <em>Black Journ
 - [The Black Panther Party, National Archives](https://www.archives.gov/research/african-americans/black-power/black-panthers) 
 - [The Malcolm X Collection, New York Public Library](http://archives.nypl.org/scm/21896)
 - [Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*](https://americanarchive.org/exhibits/black-power)
+- [Rewatching *Black Journal* Five Decades On, *The New Yorker*](https://www.newyorker.com/magazine/2020/08/31/rewatching-black-journal-five-decades-on)
 
 ## Funders
 
