@@ -14,6 +14,10 @@ class FormsController < ApplicationController
     render 'feedback'
   end
 
+  def volunteer
+    render 'volunteer'
+  end
+
   def validate_recaptcha
     uri = URI.parse('https://www.google.com/recaptcha/api/siteverify')
 
