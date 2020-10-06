@@ -1,5 +1,5 @@
-require_relative '../../lib/markdowner'
 require_relative '../../lib/aapb'
+require_relative '../../lib/markdowner'
 require_relative 'state'
 require 'yaml'
 require 'cgi'
@@ -94,7 +94,7 @@ class Organization < Cmless
   end
 
   def self.build_organization_names_display(organizations)
-    organizations.map { |org| org.short_name_html.gsub(/<[^>]*>/, '') }
+    organizations.map(&:short_name)
   end
 
   def to_a
