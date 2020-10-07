@@ -57,7 +57,11 @@ class Organization < Cmless
   end
 
   def facet_url
-    "/catalog?f[contributing_organizations][]=" + CGI.escape(facet)
+    if Solr.instance.connect.get('select', params: { q: "contributing_organizations:\"#{facet}\"", fq: "access_types:\"digitized\""  } )['response']['numFound'].to_i > 0
+      return "/catalog?f[contributing_organizations][]=" + CGI.escape(facet)
+    else
+      return "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) + "&f[access_types[]=all"
+    end
   end
 
   def short_name
