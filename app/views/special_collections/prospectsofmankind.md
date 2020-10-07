@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>Prospects of Mankind</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WSRE_1000.jpg "Prospects of Mankind")
+![<em>Prospects of Mankind</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/Roosevelt.jpg "Prospects of Mankind")
 
 ## Summary
 
