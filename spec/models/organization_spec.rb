@@ -13,7 +13,7 @@ describe Organization do
 
   it 'contains expected data' do
     # Stubs RSolr get request as its used to generate the facet_url
-    RSolr::Client.any_instance.stub(:get).and_return({"response"=>{"numFound"=>5}})
+    RSolr::Client.any_instance.stub(:get).and_return("response" => { "numFound" => 5 })
 
     org = Organization.find_by_pbcore_name('WGBH')
     expect(org.pbcore_name).to eq('WGBH')
@@ -50,7 +50,7 @@ describe Organization do
   describe '.facet_url' do
     it 'returns a url to all records if there are no digitized records' do
       # Stubs RSolr get request as its used to generate the facet_url
-      RSolr::Client.any_instance.stub(:get).and_return({"response"=>{"numFound"=>0}})
+      RSolr::Client.any_instance.stub(:get).and_return("response" => { "numFound" => 0 })
 
       expect(wgbh.facet_url).to eq("/catalog?f[contributing_organizations][]=WGBH+%28MA%29&f[access_types[]=all")
     end

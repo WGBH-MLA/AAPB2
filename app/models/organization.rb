@@ -57,7 +57,7 @@ class Organization < Cmless
   end
 
   def facet_url
-    has_digitized_records? ? "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) : "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) + "&f[access_types[]=all"
+    digitized_records? ? "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) : "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) + "&f[access_types[]=all"
   end
 
   def short_name
@@ -103,7 +103,7 @@ class Organization < Cmless
 
   private
 
-  def has_digitized_records?
-    Solr.instance.connect.get('select', params: { q: "contributing_organizations:\"#{facet}\"", fq: "access_types:\"digitized\"" } )['response']['numFound'].to_i > 0 ? true : false
+  def digitized_records?
+    Solr.instance.connect.get('select', params: { q: "contributing_organizations:\"#{facet}\"", fq: "access_types:\"digitized\"" })['response']['numFound'].to_i > 0 ? true : false
   end
 end
