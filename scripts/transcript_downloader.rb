@@ -7,23 +7,24 @@ require 'zip'
 
 class TranscriptDownloader
 
-  def initialize(contributing_organization:nil)
+  attr_reader :contributing_organization, :solr_docs, :dir
+
+  def initialize(contributing_organization:nil, dir:nil)
     raise 'contributing_organization cannot be nil' if contributing_organization.nil?
     @contributing_organization = contributing_organization
+    @dir = dir.nil? ? 'tmp/downloads/transcripts' : dir
     @solr_docs = Solr.instance.connect.get('select', params: { q: "contributing_organizations:\"#{contributing_organization}\"" })['response']['docs']
     $LOG ||= NullLogger.new
   end
 
-
   def download
-    transcript_files = download_transcripts(@solr_docs)
+    transcript_files = download_transcripts
     zip_transcript_files(transcript_files)
   end
 
-
   private
 
-  def download_transcripts(solr_docs)
+  def download_transcripts
     files = {}
     solr_docs.each do |doc|
       $LOG.info("Checking transcript_src for: " + doc["id"].to_s)
@@ -37,10 +38,17 @@ class TranscriptDownloader
     files
   end
 
+  def mkdir
+    path = Rails.root + dir
+    FileUtils.mkdir_p(path)
+  end
+
 
   def zip_transcript_files(files)
-    zipfile_name = @contributing_organization.gsub(" ", "-") + ".zip"
-    $LOG.info("Writing all transcripts to: " + zipfile_name)
+    friendly_org_name = contributing_organization.gsub(/[[:punct:]]/, "").split(' ').join('-')
+
+    zipfile_name = mkdir.first + '/' + Time.now.iso8601 + friendly_org_name + '-transcripts' + ".zip"
+    $LOG.info("Writing all transcripts to: " + zipfile_name.to_s)
 
     Zip::File.open(zipfile_name, Zip::File::CREATE) do |zipfile|
       files.map { |id,file| zipfile.add(id.to_s + "-transcript.json", file) }
