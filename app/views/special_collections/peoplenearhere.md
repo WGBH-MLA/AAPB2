@@ -30,6 +30,8 @@
 - [Adirondack History Museum](http://www.adkhistorycenter.org/)
 - [Adirondack Experience, The Museum on Blue Mountain Lake](https://www.theadkx.org/)
 
+## Funders
+
 ## Help
 
 Records are described at an item level and all records contain brief descriptions.
