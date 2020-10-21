@@ -28,6 +28,8 @@
 - [Henry Morgenthau III Papers Relating to the Television Series “Eleanor Roosevelt: Prospects of Mankind”, Franklin D. Roosevelt Presidential Library and Museum](http://www.fdrlibrary.marist.edu/archives/collections/franklin/index.php?p=collections/findingaid&id=158&q=&rootcontentid=120461)
 - [Cold War International History Project, Wilson Center](https://www.wilsoncenter.org/program/cold-war-international-history-project)
 
+## Funders
+
 ## Help
 
 Records are described at an item level and all records contain brief descriptions.
