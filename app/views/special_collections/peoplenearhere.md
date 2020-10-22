@@ -36,6 +36,10 @@
 
 Records are described at an item level and all records contain brief descriptions. 
 
+## Terms
+
+## Timeline
+
 ## Sort
 
 title+asc
