@@ -47,7 +47,7 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 #### 1996
 
 - [First Presidential Debate: Bill Clinton, Bob Dole, Part 1](/catalog/cpb-aacip-507-0c4sj1b60c#at_188.56833_s)
-- [First Presidential Debate: Bill Clinton, Bob Dole, Part 2](/catalog/cpb-aacip-507-3j39020169#at_62.036116_s]
+- [First Presidential Debate: Bill Clinton, Bob Dole, Part 2](/catalog/cpb-aacip-507-3j39020169#at_62.036116_s)
 - [Vice Presidential Debate: Al Gore, Jack Kemp](/catalog/cpb-aacip-507-c824b2xt6t#at_249.744424_s)
 
 #### 2000
@@ -91,21 +91,21 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 - [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-x921c1v30v)
 - [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-pv6b27q71h)
 - [Former Governor Jimmy Carter](/catalog/cpb-aacip_43-m61bk1740f)
-- [Former Governor Jimmy Carter](/catalog/cpb-aacip-507-gh9b56dz25#at_165.458735_s)*
-- [Former Governor Jimmy Carter](/catalog/cpb-aacip-507-t43hx16j34#at_1251.46255_s)*
-- [Former Governor Jimmy Carter](/catalog/cpb-aacip-507-sq8qb9w52t#at_178.861638_s)*
+- [Former Governor Jimmy Carter](/catalog/cpb-aacip-507-gh9b56dz25#at_165.458735_s)
+- [Former Governor Jimmy Carter](/catalog/cpb-aacip-507-t43hx16j34#at_1251.46255_s)
+- [Former Governor Jimmy Carter](/catalog/cpb-aacip-507-sq8qb9w52t#at_178.861638_s)
 - [Governor George Wallace](/catalog/cpb-aacip_15-9fj29c7n)
 - [Senator Hubert Humphrey](/catalog/cpb-aacip_43-83xsjnpc)
 
 ##### Republicans
--[President Gerald Ford](/catalog/cpb-aacip-507-6w96689725#at_232.48047_s)
+- [President Gerald Ford](/catalog/cpb-aacip-507-6w96689725#at_232.48047_s)
 
 #### 1980
 
 ##### Independents
 
--[Congressman John Anderson](/catalog/cpb-aacip-507-kd1qf8k68j#at_206.304526_s)
--[Congressman John Anderson](/catalog/cpb-aacip-507-w66930pt1f#at_238.360381_s)
+- [Congressman John Anderson](/catalog/cpb-aacip-507-kd1qf8k68j#at_206.304526_s)
+- [Congressman John Anderson](/catalog/cpb-aacip-507-w66930pt1f#at_238.360381_s)
 
 #### 1984
 
@@ -171,7 +171,7 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 
 ##### Green Party
 
-- [Political Activist Ralph Nader]()/catalog/cpb-aacip-507-1n7xk85457#at_2583.034493_s)
+- [Political Activist Ralph Nader](/catalog/cpb-aacip-507-1n7xk85457#at_2583.034493_s)
 
 #### 2004
 
@@ -248,9 +248,9 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 - [Former Governor Jimmy Carter](/catalog/cpb-aacip-507-z89280604s#at_209.569438_s)
 
 ##### Republicans
--[President Gerald Ford](/catalog/cpb-aacip-507-r49g44jk5h#at_355.191879_s)
--[President Gerald Ford](/catalog/cpb-aacip-507-hx15m6310h#at_306.853961_s)
--[President Gerald Ford](/catalog/cpb-aacip-507-m32n58dc1d#at_224.917128_s)
+- [President Gerald Ford](/catalog/cpb-aacip-507-r49g44jk5h#at_355.191879_s)
+- [President Gerald Ford](/catalog/cpb-aacip-507-hx15m6310h#at_306.853961_s)
+- [President Gerald Ford](/catalog/cpb-aacip-507-m32n58dc1d#at_224.917128_s)
 
 #### 1980
 
@@ -291,7 +291,7 @@ Racial diversity in the U.S. political sphere continues to be an issue. Last yea
 - [Governor Bill Clinton](/catalog/cpb-aacip-507-m901z42q5v#at_822.824085_s)
 - [Governor Bill Clinton](/catalog/cpb-aacip-507-hm52f7km5v#at_790.936649_s)
 
-###### Republicans
+##### Republicans
 - [President George Bush](/catalog/cpb-aacip-507-hm52f7km5v#at_925.037596_s)
 - [President George Bush](/catalog/cpb-aacip-507-4q7qn5zx9h#at_127.534881_s)
 

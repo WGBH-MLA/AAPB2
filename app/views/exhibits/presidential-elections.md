@@ -13,6 +13,10 @@ Public media has had an especially strong role in modern presidential campaigns 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Intern_Troia.jpg"/>
   <a class="name">Lily Troia</a>
   <a class="title">Digital Exhibits Intern, American Archive of Public Broadcasting</a>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Declan_McBride.jpg"/>
+  <a class="name">Declan McBride</a>
+  <a class="title">Digital Projects Intern, American Archive of Public Broadcasting</a>
+  *In 2020, Declan McBride updated the Candidates and the Campaigns section to include historic NewsHour programs featuring presidential candidates*
 
 ## Resources
 
