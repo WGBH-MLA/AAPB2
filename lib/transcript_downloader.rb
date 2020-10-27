@@ -8,20 +8,20 @@ require 'open-uri'
 require 'zip'
 
 class TranscriptDownloader
-  attr_reader :contrib, :solr_docs, :dir, :zip_dir
+  attr_reader :contrib, :solr_docs, :zip_dir
 
-  def initialize(contrib:nil, dir:nil)
+  def initialize(contrib:nil)
     raise 'contrib cannot be nil' if contrib.nil?
     @contrib = contrib
-    @dir = dir.nil? ? 'tmp/downloads/transcripts' : dir
     @zip_dir = mkdir.first
-    @solr_docs = Solr.instance.connect.get('select', params: { q: "contributing_organizations:\"#{contrib}\"" })['response']['docs']
+    @solr_docs = Solr.instance.connect.get('select', params: { q: "contributing_organizations:\"#{contrib}\"", rows: 99999 })['response']['docs']
     puts "START: TranscriptDownloader Process ##{Process.pid}"
   end
 
   def download
-    transcript_files = download_transcripts
+    download_transcripts
     zip_transcript_files
+    cleanup_download_dir
   end
 
   private
@@ -48,23 +48,16 @@ class TranscriptDownloader
 
   def mkdir
     friendly_org_name = contrib.gsub(/[[:punct:]]/, "").split(' ').join('-')
-    path = Rails.root + dir + "#{Time.now.iso8601 + '-' +friendly_org_name}"
+    path = Rails.root + 'tmp/downloads/transcripts' + "#{Time.now.iso8601 + '-' + friendly_org_name}"
     FileUtils.mkdir_p(path)
   end
 
-  # def zip_transcript_files(files)
-  #   friendly_org_name = contrib.gsub(/[[:punct:]]/, "").split(' ').join('-')
-
-  #   zipfile_name = mkdir.first + '/' + Time.now.iso8601 + friendly_org_name + '-transcripts' + ".zip"
-  #   puts "Writing all transcripts to: " + zipfile_name.to_s
-
-  #   Zip::File.open(zipfile_name, Zip::File::CREATE) do |zipfile|
-  #     files.map { |id, file| zipfile.add(id.to_s + "-transcript.json", file) }
-  #   end
-  # end
-
   def zip_transcript_files
     ZipFileGenerator.new(zip_dir, zip_dir + '.zip').write
+  end
+
+  def cleanup_download_dir
+    FileUtils.rm_rf(zip_dir)
   end
 end
 
@@ -92,18 +85,8 @@ class ZipFileGenerator
       zipfile_path = path == '' ? e : File.join(path, e)
       disk_file_path = File.join(@input_dir, zipfile_path)
 
-      if File.directory? disk_file_path
-        recursively_deflate_directory(disk_file_path, zipfile, zipfile_path)
-      else
-        put_into_archive(disk_file_path, zipfile, zipfile_path)
-      end
+      put_into_archive(disk_file_path, zipfile, zipfile_path)
     end
-  end
-
-  def recursively_deflate_directory(disk_file_path, zipfile, zipfile_path)
-    zipfile.mkdir zipfile_path
-    subdir = Dir.entries(disk_file_path) - %w[. ..]
-    write_entries subdir, zipfile_path, zipfile
   end
 
   def put_into_archive(disk_file_path, zipfile, zipfile_path)

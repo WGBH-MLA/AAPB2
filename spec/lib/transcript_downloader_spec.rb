@@ -4,7 +4,7 @@ require 'fileutils'
 
 describe TranscriptDownloader do
   after(:all) do
-    FileUtils.rm_rf('tmp/downloads/transcripts/spec')
+    FileUtils.rm_rf('tmp/downloads/transcripts')
   end
 
   before(:each) do
@@ -15,17 +15,19 @@ describe TranscriptDownloader do
     )
   end
 
-  let(:transcript_downloader) { TranscriptDownloader.new(contrib: 'Appalshop, Inc. (KY)', dir: 'tmp/downloads/transcripts/spec') }
+  let(:transcript_downloader) { TranscriptDownloader.new(contrib: 'Appalshop, Inc. (KY)') }
 
   it '#initialize' do
     expect(transcript_downloader.solr_docs.first['id']).to eq('cpb-aacip-138-74cnpdc8')
     expect(transcript_downloader.contrib).to eq('Appalshop, Inc. (KY)')
-    expect(transcript_downloader.dir).to eq('tmp/downloads/transcripts/spec')
+    expect(transcript_downloader.zip_dir).to match(/\/tmp\/downloads\/transcripts\/\S+Appalshop-Inc-KY/)
+
   end
 
   it '#download' do
     transcript_downloader.download
-    files = Dir.entries(Rails.root + 'tmp/downloads/transcripts/spec').select { |file| file.match(/Appalshop-Inc-KY-transcripts.zip/) }
+    expect(Dir.exist?(transcript_downloader.zip_dir)).to be(false)
+    files = Dir.entries(Rails.root + 'tmp/downloads/transcripts/').select { |file| file.match(/\S+Appalshop-Inc-KY.zip/) }
     expect(files.length).to eq(1)
   end
 end
