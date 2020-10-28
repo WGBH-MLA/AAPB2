@@ -21,7 +21,6 @@ describe TranscriptDownloader do
     expect(transcript_downloader.solr_docs.first['id']).to eq('cpb-aacip-138-74cnpdc8')
     expect(transcript_downloader.contrib).to eq('Appalshop, Inc. (KY)')
     expect(transcript_downloader.zip_dir).to match(/\/tmp\/downloads\/transcripts\/\S+Appalshop-Inc-KY/)
-
   end
 
   it '#download' do
