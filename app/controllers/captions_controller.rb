@@ -1,8 +1,15 @@
 class CaptionsController < ApplicationController
   include Blacklight::Catalog
+  include BlacklightGUIDFetcher
 
   def show
-    @response, @document = fetch(params['id'])
+    # From BlacklightGUIDFetcher
+    # Need to use for proper routing
+    @response, @document = fetch_from_blacklight(params['id'])
+
+    # we have to rescue from this in fetch_from_blacklight to run through all guid permutations, so throw it here if we didnt find anything
+    raise Blacklight::Exceptions::RecordNotFound unless @document
+
     pbcore = PBCorePresenter.new(@document['xml'])
     caption_file = CaptionFile.new(pbcore.id)
 
