@@ -48,7 +48,7 @@ class TranscriptDownloader
 
   def mkdir
     friendly_org_name = contrib.gsub(/[[:punct:]]/, "").split(' ').join('-')
-    path = Rails.root + 'tmp/downloads/transcripts' + Time.now.iso8601.to_s + '-' + friendly_org_name
+    path = Rails.root + 'tmp/downloads/transcripts' + (Time.now.iso8601.to_s + '-' + friendly_org_name)
     FileUtils.mkdir_p(path)
   end
 
