@@ -16,7 +16,7 @@ From 2009 to 2013 WILL received several grants from the Corporation for Public B
 
 [![The War in Iraq: U.S. Foreign Policy and the Crisis of International Legitimacy](https://s3.amazonaws.com/americanarchive.org/special-collections/thumbnail_cpb-aacip_16-h98z892s44.jpg)](/catalog/cpb-aacip_16-h98z892s44)
 [![America Behind the Color Line - Henry Louis Gates, Jr.](https://s3.amazonaws.com/americanarchive.org/special-collections/thumbnail_cpb-aacip_16-dr2p55dv0k.jpg)](/catalog/cpb-aacip_16-dr2p55dv0k)
-[![Digital Capitalism: Networking the Global Market System]()](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)(/catalog/cpb-aacip_16-m61bk17586)
+[![Digital Capitalism: Networking the Global Market System](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_16-m61bk17586)
 [![Indian Mascots in College Sports](https://s3.amazonaws.com/americanarchive.org/special-collections/thumbnail_cpb-aacip_16-cn6xw4853k.jpg)](/catalog/cpb-aacip_16-cn6xw4853k)
 [![Kremlin Rising: Vladimir Putin’s Russia and the End of Revolution](https://s3.amazonaws.com/americanarchive.org/special-collections/thumbnail_cpb-aacip_16-t43hx1692w.jpg)](/catalog/cpb-aacip_16-t43hx1692w)
 [![Talk to the Candidate with Barack Obama](https://s3.amazonaws.com/americanarchive.org/special-collections/thumbnail_cpb-aacip_16-st7dr2pt8z.jpg)](/catalog/cpb-aacip_16-st7dr2pt8z)
@@ -25,6 +25,15 @@ From 2009 to 2013 WILL received several grants from the Corporation for Public B
 
 - [WILL-AM-FM-TV](https://will.illinois.edu)
 
+## Funders
+
 ## Help
 
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
+## Terms
+
+## Timeline
+
+## Sort 
+
+asset_date+asc
