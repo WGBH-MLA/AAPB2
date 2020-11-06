@@ -1,7 +1,7 @@
 require_relative '../lib/solr'
 require_relative '../app/helpers/solr_guid_fetcher'
-require_relative 'lib/pb_core_ingester'
 require_relative 'lib/downloader'
+require_relative 'download_clean_ingest'
 require 'rsolr'
 
 
@@ -33,7 +33,8 @@ class ThePBCoreCorrector
 
     # Edit the PBCore files that came from AMS2
     Dir.glob(target_dirs[0] + '/*' ) do |file|
-      doc = Nokogiri.XML(File.open(file)).remove_namespaces!
+      # Removing namespaces for easier parsing.
+      doc = Nokogiri::XML(File.open(file)).remove_namespaces!
 
       # Edit Title elements
       titles = doc.xpath("//pbcoreTitle")
@@ -47,12 +48,20 @@ class ThePBCoreCorrector
         desc["descriptionType"] = desc["source"] if DESCRIPTION_TYPES.include?(desc["source"].downcase)
       end
 
+      # Re-adding namespaces to pass validation
+      doc.xpath("//pbcoreDescriptionDocument").first.add_namespace(nil,"http://www.pbcore.org/PBCore/PBCoreNamespace.html")
+      doc.xpath('//xmlns:pbcoreDescriptionDocument').first.add_namespace("xsi","http://www.w3.org/2001/XMLSchema-instance")
+      doc.xpath("//xmlns:pbcoreDescriptionDocument").first.attributes["schemaLocation"].name = "xsi:schemaLocation"
+
       # Overwrite existing .pbcore file
+      new_file = File.open(file, "w") do |f|
+        f.write doc.to_xml
+        f.close
+      end
     end
 
-
     # Reindex the files
-
+    DownloadCleanIngest.new([ '--stdout-log', '--dirs', target_dirs[0] ]).process
   end
 
   def download(opts)
@@ -61,7 +70,4 @@ class ThePBCoreCorrector
       { is_just_reindex: true }.merge(opts)
     ).run]
   end
-
-
-
 end
