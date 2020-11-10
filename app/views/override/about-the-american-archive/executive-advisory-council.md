@@ -156,7 +156,7 @@ She lives in Washington, DC, with her husband, journalist Al Hunt, and they are 
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Alan_Brinkley.jpg" alt="Alan Brinkley" aria-hidden="true"/>
 ### Alan Brinkley
-Alan Brinkley is the Allan Nevins Professor of American History at Columbia University. He specializes in the history of twentieth-century America. From 2003 to 2009, he was University Provost, and before that chair of the Department of History. In 1998-99, he was the Harmsworth Professor of American History at Oxford University, and in 2011-2012, he was the Pitt Professor of American History at the University of Cambridge. He has been a member of the Columbia faculty since 1991.
+Alan Brinkley served on the AAPB Executive Advisory Council from 2015 – 2018. He passed away on June 17, 2019. Dr. Brinkley was the Allan Nevins Professor of American History at Columbia University. He specialized in the history of twentieth-century America. From 2003 to 2009, he was University Provost, and before that chair of the Department of History. In 1998-99, he was the Harmsworth Professor of American History at Oxford University, and in 2011-2012, he was the Pitt Professor of American History at the University of Cambridge. He joined the Columbia faculty in 1991.
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Karen_Cator.jpg" alt="Karen Cator" aria-hidden="true"/>
 ### Karen Cator
