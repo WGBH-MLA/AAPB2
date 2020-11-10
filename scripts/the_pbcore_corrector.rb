@@ -6,9 +6,8 @@ require 'rsolr'
 require 'logger'
 
 class ThePBCoreCorrector
-
-  TITLE_TYPES = [ 'series', 'program', 'episode', 'episode number', 'segment', 'clip', 'promo', 'raw footage' ]
-  DESCRIPTION_TYPES = [ 'series', 'program', 'episode', 'segment', 'clip', 'promo', 'raw footage' ]
+  TITLE_TYPES = ['series', 'program', 'episode', 'episode number', 'segment', 'clip', 'promo', 'raw footage'].freeze
+  DESCRIPTION_TYPES = ['series', 'program', 'episode', 'segment', 'clip', 'promo', 'raw footage'].freeze
 
   def initialize(guids)
     log_init
@@ -36,20 +35,20 @@ class ThePBCoreCorrector
 
   # Unzip the files from the Downloader
   def unzip_files
-    completed_files = Array.new
+    completed_files = []
     Dir.foreach(@target_dirs[0]) do |file_name|
-      if (file_name.include?(".zip") && !completed_files.include?(file_name))
+      if file_name.include?(".zip") && !completed_files.include?(file_name)
         system("unzip", file_name)
         completed_files << file_name
       end
     end
     # Delete the zip files
-    Dir.glob(@target_dirs[0] + "/*").select{ |file| /\S+(.zip)/.match file }.each { |file| File.delete(file)}
+    Dir.glob(@target_dirs[0] + "/*").select { |file| /\S+(.zip)/.match file }.each { |file| File.delete(file) }
   end
 
   def edit_files
     # Edit the PBCore files that came from AMS2
-    Dir.glob(@target_dirs[0] + '/*' ) do |file|
+    Dir.glob(@target_dirs[0] + '/*') do |file|
       $LOG.info("CHECKING PBCORE FILE: #{file}")
 
       # Removing namespaces for easier parsing.
@@ -69,24 +68,24 @@ class ThePBCoreCorrector
       titles.each do |title|
         # Skip if particular title source is nil
         next if title["source"].nil?
-        $LOG.info("EDITING TITLE_TYPE #{title["source"]} FOR PBCORE FILE: #{file}")
+        $LOG.info("EDITING TITLE_TYPE #{title['source']} FOR PBCORE FILE: #{file}")
         title["titleType"] = title["source"] if TITLE_TYPES.include?(title["source"].downcase)
       end
 
       descriptions.each do |desc|
         # Skip if particular desc source is nil
         next if desc["source"].nil?
-        $LOG.info("EDITING DESCRIPTION_TYPE #{desc["source"]} FOR PBCORE FILE: #{file}")
+        $LOG.info("EDITING DESCRIPTION_TYPE #{desc['source']} FOR PBCORE FILE: #{file}")
         desc["descriptionType"] = desc["source"] if DESCRIPTION_TYPES.include?(desc["source"].downcase)
       end
 
       # Re-adding namespaces to pass validation
-      doc.xpath("//pbcoreDescriptionDocument").first.add_namespace(nil,"http://www.pbcore.org/PBCore/PBCoreNamespace.html")
-      doc.xpath('//xmlns:pbcoreDescriptionDocument').first.add_namespace("xsi","http://www.w3.org/2001/XMLSchema-instance")
+      doc.xpath("//pbcoreDescriptionDocument").first.add_namespace(nil, "http://www.pbcore.org/PBCore/PBCoreNamespace.html")
+      doc.xpath('//xmlns:pbcoreDescriptionDocument').first.add_namespace("xsi", "http://www.w3.org/2001/XMLSchema-instance")
       doc.xpath("//xmlns:pbcoreDescriptionDocument").first.attributes["schemaLocation"].name = "xsi:schemaLocation"
 
       # Overwrite existing .pbcore file
-      new_file = File.open(file, "w") do |f|
+      File.open(file, "w") do |f|
         f.write doc.to_xml
         f.close
       end
@@ -96,13 +95,13 @@ class ThePBCoreCorrector
   end
 
   def reindex_files
-    if Dir.glob(@target_dirs[0] + '/*' ).empty?
+    if Dir.glob(@target_dirs[0] + '/*').empty?
       $LOG.info("NO FILES EDITED, SKIPPING REINDEX")
       return
     end
     # Reindex the files
     $LOG.info("REINDEXING NEW FILES WITH DownloadCleanIngest SCRIPT")
-    DownloadCleanIngest.new([ '--dirs', @target_dirs[0] ]).process
+    DownloadCleanIngest.new(['--dirs', @target_dirs[0]]).process
   end
 
   def download(opts)
