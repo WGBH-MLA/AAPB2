@@ -3,7 +3,7 @@ require_relative '../app/helpers/solr_guid_fetcher'
 require_relative 'lib/downloader'
 require_relative 'download_clean_ingest'
 require 'rsolr'
-
+require 'logger'
 
 class ThePBCoreCorrector
 
@@ -11,40 +11,72 @@ class ThePBCoreCorrector
   DESCRIPTION_TYPES = [ 'series', 'program', 'episode', 'segment', 'clip', 'promo', 'raw footage' ]
 
   def initialize(guids)
+    log_init
     # Download the existing docs
-    target_dirs = download(ids: guids)
+    @target_dirs = download(ids: guids)
+  end
 
-    @files ||= target_dirs.map do |target_dir|
-      Dir.entries(target_dir)
-         .reject { |file_name| ['.', '..'].include?(file_name) }
-         .map { |file_name| "#{target_dir}/#{file_name}" }
-    end.flatten.sort
+  def run
+    unzip_files
+    edit_files
+    reindex_files
+  end
 
-    # Unzip the files from the Downloader
+  private
+
+  def log_init
+    log_file_name = Rails.root + "log/#{Time.now.strftime('%F_%T.%6N')}-pbcorecorrector.log"
+    $LOG = Logger.new(log_file_name, 'daily')
+    $LOG.formatter = proc do |severity, datetime, _progname, msg|
+      "#{severity} [#{datetime.strftime('%Y-%m-%d %H:%M:%S')}]: #{msg}\n"
+    end
+    puts "logging to #{log_file_name}"
+    $LOG.info("START: PBCoreCorrector Process ##{Process.pid}")
+  end
+
+  # Unzip the files from the Downloader
+  def unzip_files
     completed_files = Array.new
-    Dir.foreach(target_dirs[0]) do |file_name|
+    Dir.foreach(@target_dirs[0]) do |file_name|
       if (file_name.include?(".zip") && !completed_files.include?(file_name))
         system("unzip", file_name)
         completed_files << file_name
       end
     end
     # Delete the zip files
-    Dir.glob(target_dirs[0] + "/*").select{ |file| /\S+(.zip)/.match file }.each { |file| File.delete(file)}
+    Dir.glob(@target_dirs[0] + "/*").select{ |file| /\S+(.zip)/.match file }.each { |file| File.delete(file)}
+  end
 
+  def edit_files
     # Edit the PBCore files that came from AMS2
-    Dir.glob(target_dirs[0] + '/*' ) do |file|
+    Dir.glob(@target_dirs[0] + '/*' ) do |file|
+      $LOG.info("CHECKING PBCORE FILE: #{file}")
+
       # Removing namespaces for easier parsing.
       doc = Nokogiri::XML(File.open(file)).remove_namespaces!
 
-      # Edit Title elements
+      # Edit Title and Desc elements
       titles = doc.xpath("//pbcoreTitle")
+      descriptions = doc.xpath("//pbcoreDescription")
+
+      # Skip rewrite if there's absolutely nothing to rewrite with
+      if titles.map { |title| title["source"] }.uniq == [nil] && descriptions.map { |desc| desc["source"] }.uniq == [nil]
+        $LOG.info("NO TITLES OR DESCRIPTIONS TO EDIT\nSKIPPING AND DELETING PBCORE FILE: #{file}")
+        File.delete(file)
+        next
+      end
+
       titles.each do |title|
+        # Skip if particular title source is nil
+        next if title["source"].nil?
+        $LOG.info("EDITING TITLE_TYPE #{title["source"]} FOR PBCORE FILE: #{file}")
         title["titleType"] = title["source"] if TITLE_TYPES.include?(title["source"].downcase)
       end
 
-      # Edit Description elements
-      descriptions = doc.xpath("//pbcoreDescription")
       descriptions.each do |desc|
+        # Skip if particular desc source is nil
+        next if desc["source"].nil?
+        $LOG.info("EDITING DESCRIPTION_TYPE #{desc["source"]} FOR PBCORE FILE: #{file}")
         desc["descriptionType"] = desc["source"] if DESCRIPTION_TYPES.include?(desc["source"].downcase)
       end
 
@@ -58,13 +90,23 @@ class ThePBCoreCorrector
         f.write doc.to_xml
         f.close
       end
-    end
 
+      $LOG.info("FINISHED EDITING PBCORE FILE: #{file}")
+    end
+  end
+
+  def reindex_files
+    if Dir.glob(@target_dirs[0] + '/*' ).empty?
+      $LOG.info("NO FILES EDITED, SKIPPING REINDEX")
+      return
+    end
     # Reindex the files
-    DownloadCleanIngest.new([ '--stdout-log', '--dirs', target_dirs[0] ]).process
+    $LOG.info("REINDEXING NEW FILES WITH DownloadCleanIngest SCRIPT")
+    DownloadCleanIngest.new([ '--dirs', @target_dirs[0] ]).process
   end
 
   def download(opts)
+    $LOG.info("DOWNLOADING GUIDS")
     [Downloader.new(
       # Setting is_just_reindex to true gets the record from AAPB SOLR
       { is_just_reindex: true }.merge(opts)
