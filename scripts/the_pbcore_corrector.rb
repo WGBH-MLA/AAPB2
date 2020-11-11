@@ -59,22 +59,22 @@ class ThePBCoreCorrector
       descriptions = doc.xpath("//pbcoreDescription")
 
       # Skip rewrite if there's absolutely nothing to rewrite with
-      if titles.map { |title| title["source"] }.uniq == [nil] && descriptions.map { |desc| desc["source"] }.uniq == [nil]
+      unless edit_titles?(titles) && edit_descriptions?(descriptions)
         $LOG.info("NO TITLES OR DESCRIPTIONS TO EDIT\nSKIPPING AND DELETING PBCORE FILE: #{file}")
         File.delete(file)
         next
       end
 
       titles.each do |title|
-        # Skip if particular title source is nil
-        next if title["source"].nil?
+        # Skip if particular title source is nil or if titleType is present and valid
+        next if title["source"].nil? || TITLE_TYPES.include?(title["titleType"])
         $LOG.info("EDITING TITLE_TYPE #{title['source']} FOR PBCORE FILE: #{file}")
         title["titleType"] = title["source"] if TITLE_TYPES.include?(title["source"].downcase)
       end
 
       descriptions.each do |desc|
-        # Skip if particular desc source is nil
-        next if desc["source"].nil?
+        # Skip if particular desc source is nil or if descriptionType is present and valid
+        next if desc["source"].nil? || DESCRIPTION_TYPES.include?(desc["descriptionType"])
         $LOG.info("EDITING DESCRIPTION_TYPE #{desc['source']} FOR PBCORE FILE: #{file}")
         desc["descriptionType"] = desc["source"] if DESCRIPTION_TYPES.include?(desc["source"].downcase)
       end
@@ -92,6 +92,16 @@ class ThePBCoreCorrector
 
       $LOG.info("FINISHED EDITING PBCORE FILE: #{file}")
     end
+  end
+
+  def edit_titles?(titles)
+    return false if titles.map { |title| title["source"] }.uniq == [nil]
+    true
+  end
+
+  def edit_descriptions?(descriptions)
+    return false if descriptions.map { |desc| desc["source"] }.uniq == [nil]
+    true
   end
 
   def reindex_files
