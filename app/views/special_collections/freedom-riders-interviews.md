@@ -10,7 +10,7 @@ The <em>Freedom Riders</em> Interview Collection contains 124 raw interviews fro
 
 ## Background
 
-The <em>Freedom Riders</em> interviews were conducted in 2011 for the <em>American Experience</em> documentary of the same name. Winner of a Primetime Emmy Award for Outstanding Writing for Nonfiction Programming and nominated for a Primetime Emmy Award for Exceptional Merit in Documentary Filmmaking, Stanley Nelson, Jr., served as the documentary's director. <em>American Experience</em>, PBS' flagship history documentary series, premiered in 1988 and is produced at WGBH in Boston. In 2017, the WGBH Media Library and Archives digitized the <em>Freedom Riders</em> interviews and in 2018 submitted them to the American Archive of Public Broadcasting.
+The <em>Freedom Riders</em> interviews were conducted for the <em>American Experience</em> documentary of the same name, which was broadcast on PBS stations in May 2011 to commemorate the fiftieth anniversary of the first Freedom Ride. Winner of a Primetime Emmy Award for Outstanding Writing for Nonfiction Programming and nominated for a Primetime Emmy Award for Exceptional Merit in Documentary Filmmaking, Stanley Nelson, Jr., served as the documentary's director. <em>American Experience</em>, PBS' flagship history documentary series, premiered in 1988 and is produced at WGBH in Boston. In 2017, the WGBH Media Library and Archives digitized the <em>Freedom Riders</em> interviews and in 2018 submitted them to the American Archive of Public Broadcasting.
 
 ## Featured
 
