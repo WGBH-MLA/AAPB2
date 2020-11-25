@@ -5,7 +5,7 @@ In 2018, the American Archive of Public Broadcasting established three advisory 
 
 ## Education Advisory Committee (EduAC)
 
-### Purpose and Mission 
+### Purpose and Mission
 The AAPB EduAC is a group of individuals working in education who are passionate
 about public media and its long-term preservation and access. The purpose of the EduAC
 is to guide and assist the AAPB with regard to outreach and use of the AAPB,
@@ -18,7 +18,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 - Provide website feedback for K-12 use <br>
 - Assist in outreach to their networks and communities (other educators, students, school librarians, and leaders) and beyond <br>
 
-### Current Education Advisory Committee Members 
+### Current Education Advisory Committee Members
 
 **Franky Abbott**
 <br>Independent Education Consultant
@@ -54,10 +54,10 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 <br>Social Studies Teacher 9-12, Bellingham School District, WA
 
 **Ted Sicker**
-<br>Executive Producer, Education, WGBH
+<br>Executive Producer, Education, GBH
 
 **Nate Sleeter**
-<br>Research Assistant Professor, Roy Rosenzweig Center for History and New Media, George Mason University 
+<br>Research Assistant Professor, Roy Rosenzweig Center for History and New Media, George Mason University
 
 **Dr. Cynthia Szwajkowski, Ph.D**
 <br>Assistant Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
@@ -79,7 +79,7 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 - Provide advice and recommendations on collections significant for preservation <br>
 - Assist in outreach to their networks and communities (other scholars, undergraduate and graduate students) and beyond <br>
 
-### Current Scholar Advisory Committee Members 
+### Current Scholar Advisory Committee Members
 
 **Robert K. Avery**
 <br>Emeritus Professor of Communication, University of Utah
@@ -121,7 +121,7 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 <br>Archivist/Librarian, Dedham Historical Society & Museum
 
 **Allison Perlman (SAC Co-Chair)**
-<br>Associate Professor of Film and Media Studies and History, University of California, Irvine 
+<br>Associate Professor of Film and Media Studies and History, University of California, Irvine
 
 **Bernard F. Reilly**
 <br>President Emeritus, Center for Research Libraries
@@ -185,14 +185,14 @@ organizations, producers and leaders) and beyond <br>
 **Christopher Holmes**
 <br>Vice President, Production & Digital Studios, Alabama Public Television
 
-**Julie Rogers** 
+**Julie Rogers**
 <br>Public Historian, NPR’s Research, Archives, and Data Strategy Team
 
 **Laura Sampson**
 <br>Board Trustee for National Friends of Public Broadcasting (NFPB); Founder and Board Member of Station’s Archived Memories (SAM), Rocky Mountain Public Media
 
 **Winter Shanck**
-<br>Archivist, Thirteen/WNET 
+<br>Archivist, Thirteen/WNET
 
 **Alana Stone**
 <br>Project Coordinator, Vision Maker Media

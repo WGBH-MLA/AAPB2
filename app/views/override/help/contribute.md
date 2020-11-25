@@ -2,45 +2,45 @@
 
 **Last Modified: November 7, 2016**
 
-The AAPB seeks to become a centralized web portal of discovery where researchers, educators, students – really anyone – can find 
-relevant public broadcasting programs existing either on our own site or on sites belonging to other archives and stations. 
-With approximately 1,250 public radio and television stations in existence, one access point will aid scholars interested in 
-researching how national or even international topics have been covered in divergent localities over the past 60+ years. AAPB has 
-made a start at becoming that portal. 
+The AAPB seeks to become a centralized web portal of discovery where researchers, educators, students – really anyone – can find
+relevant public broadcasting programs existing either on our own site or on sites belonging to other archives and stations.
+With approximately 1,250 public radio and television stations in existence, one access point will aid scholars interested in
+researching how national or even international topics have been covered in divergent localities over the past 60+ years. AAPB has
+made a start at becoming that portal.
 
-To this end, the AAPB encourages organizations submitting digitization grant proposals to contribute copies of their 
+To this end, the AAPB encourages organizations submitting digitization grant proposals to contribute copies of their
 item-level metadata records, and potentially digitized media, to the AAPB.
 
-If you have any questions, please contact Casey Davis, AAPB Project Manager at [casey_davis@wgbh.org](mailto:casey_davis@wgbh.org). 
+If you have any questions, please contact Casey Davis, AAPB Project Manager at [casey_davis@wgbh.org](mailto:casey_davis@wgbh.org).
 
 ### Organizations have several options for contributing to the AAPB:
 
 - Sent us metadata records for content that is not digitized *(in this scenario, skip to #3 below)*
--	Send us metadata records with links to the content accessible on your own digital archive website 
+-	Send us metadata records with links to the content accessible on your own digital archive website
 	  - only recommended for organizations committed to preserving their content *(in this scenario, skip to #3 below)*
--	Send us metadata records and proxy files 
+-	Send us metadata records and proxy files
     -	only recommended for organizations committed to preserving their content *(in this scenario, the entire document applies to you; simply disregard information about preservation files)*
 -	Send us metadata records and digital files for preservation and access *(in this scenario, this entire document applies to you)*
 
-**If your organization is submitting a grant proposal and is interested in contributing content to the AAPB, we ask that 
+**If your organization is submitting a grant proposal and is interested in contributing content to the AAPB, we ask that
 you [contact us](/contact-us) well in advance of submitting your proposal.**
 
-Once you have initiated communications with the AAPB regarding your proposal, you may use these guidelines to refer the AAPB's 
-preferred and acceptable specifications for contributions from donors to the AAPB. This includes file format specifications, 
-metadata, and delivery. 
+Once you have initiated communications with the AAPB regarding your proposal, you may use these guidelines to refer the AAPB's
+preferred and acceptable specifications for contributions from donors to the AAPB. This includes file format specifications,
+metadata, and delivery.
 
 **Our vendor specifications are somewhat different. If you are working with a vendor to digitize your collection, please [contact us](/contact-us) for our vendor specifications.**
 
-Our goal is to make the process of contributing to the AAPB as simple as possible, and we are happy to work with you to 
-answer questions and arrange your submission according to your needs and available resources.  
+Our goal is to make the process of contributing to the AAPB as simple as possible, and we are happy to work with you to
+answer questions and arrange your submission according to your needs and available resources.
 
 ### 1. Collection Acquisitions Form
 
-Organizations seeking to contribute video and audio collections to the AAPB are asked to fill out our [Collection Acquisitions Form](https://s3.amazonaws.com/americanarchive.org/resources/AAPB_collection_acquisitions_form.pdf). Send your completed form to Casey Davis, AAPB Project Manager at casey_davis@wgbh.org. 
+Organizations seeking to contribute video and audio collections to the AAPB are asked to fill out our [Collection Acquisitions Form](https://s3.amazonaws.com/americanarchive.org/resources/AAPB_collection_acquisitions_form.pdf). Send your completed form to Casey Davis, AAPB Project Manager at casey_davis@wgbh.org.
 
 ### 2. Deed of Gift
 
-The [AAPB Deed of Gift](https://s3.amazonaws.com/americanarchive.org/resources/AAPB_model-deed-of-gift.docx) is an agreement between the collection donor and WGBH and the Library Congress. It is a model deed of gift, which we are open to negotiating with donors, but a version of this agreement must be signed by all donors before contributing video and audio files. 
+The [AAPB Deed of Gift](https://s3.amazonaws.com/americanarchive.org/resources/AAPB_model-deed-of-gift.docx) is an agreement between the collection donor and GBH and the Library Congress. It is a model deed of gift, which we are open to negotiating with donors, but a version of this agreement must be signed by all donors before contributing video and audio files.
 
 ### 3. Metadata
 
@@ -60,7 +60,7 @@ Each record should include a URL to the content. The metadata can be delivered o
 
 ### 4. Media Files
 
-If your plan to contribute files for preservation in the AAPB, we would prefer that you deliver preservation-quality files and access-quality files. If that is not possible, we are able to accept the original files and make the necessary conversions on our end. 
+If your plan to contribute files for preservation in the AAPB, we would prefer that you deliver preservation-quality files and access-quality files. If that is not possible, we are able to accept the original files and make the necessary conversions on our end.
 #### a. Video preservation file
 
 - **Preferred:**  10-bit JPEG2000 reversible 5/3 in a .MXF Op1a wrapper with all audio channels captured and encoded (see below for details)
@@ -107,7 +107,7 @@ Alternate Name: Advanced Video Codec
 
 Format profile: Main@L3.0
 
-Format settings, GOP: M=1, N=30 
+Format settings, GOP: M=1, N=30
 
 Bit rate: 711 Kbps for SD; 1.5 mbps for HD
 
@@ -117,7 +117,7 @@ Height: 360 pixels
 
 Display aspect ratio: 4:3 for SD; 16:9 for HD
 
-Color: YUV, 4:2:0, 8 bits 
+Color: YUV, 4:2:0, 8 bits
 
 Scan type: Progressive
 
@@ -147,7 +147,7 @@ Wrapper: mp3
 
 ### 5. Delivery method
 
-Ideally, preservation files would be delivered to the Library of Congress and access files would be delivered separately to WGBH; however, we are open to simplifying the process when possible, such as having the donor deliver only one copy of the files (preservation and proxy or preservation only) to WGBH, which WGBH would then process and deliver on to the Library of Congress.
+Ideally, preservation files would be delivered to the Library of Congress and access files would be delivered separately to GBH; however, we are open to simplifying the process when possible, such as having the donor deliver only one copy of the files (preservation and proxy or preservation only) to GBH, which GBH would then process and deliver on to the Library of Congress.
 
 #### a. to the Library of Congress
 
@@ -156,15 +156,15 @@ Ideally, preservation files would be delivered to the Library of Congress and ac
 
 If possible, all files should be written to the chosen media using the [BagIt specification](http://blogs.loc.gov/digitalpreservation/2012/01/from-there-to-here-from-here-to-there-digital-content-is-everywhere/). While this method is preferred, we can accept files written to the USB3 drive(s) in a single directory when received directly from the donor.
 
-#### b. to WGBH
+#### b. to GBH
 
-WGBH can provide a USB3 drive(s) to the donor. The donor would then place files into a single directory.
+GBH can provide a USB3 drive(s) to the donor. The donor would then place files into a single directory.
 
 ### 6. Intellectual Unit List
 
 Upon delivery of media files, the donor or vendor will need to provide a complete list of filenames. We call this the "Intellectual Unit List." Please provide this list via email when you ship the files.
 
-The list of file names should be in CSV format, semicolon delimited and must have at least one unique Key (index) field. The content of the list depends on the chosen media. 
+The list of file names should be in CSV format, semicolon delimited and must have at least one unique Key (index) field. The content of the list depends on the chosen media.
 
 *For delivery on Hard drive:* A list of filenames and the name of the hard drive. If you are not using the BagIt specification, please also include the md5 checksums (if available).
 
@@ -172,7 +172,7 @@ The list of file names should be in CSV format, semicolon delimited and must hav
 
 ### 7. File naming conventions
 
-The only requirement is that the file names are unique, are included in the metadata spreadsheet delivered to WGBH, and the file names do not include any spaces or special characters other than underscores and hyphens.
+The only requirement is that the file names are unique, are included in the metadata spreadsheet delivered to GBH, and the file names do not include any spaces or special characters other than underscores and hyphens.
 
 ### 8. Checksums
 
@@ -182,22 +182,22 @@ A checksum is used to verify that the files were copied to the storage media wit
 
 If you have transcripts of the material you are contributing to the AAPB, we would love to have copies. We would prefer to have time-stamped transcripts in .txt, JSON, XML, SRT or WEBVTT, but if you don't have these formats, plain text without timestamps or PDFs would also be useful to have.
 
-Please send copies of the transcripts to WGBH on the hard drive using the same file name as the video/audio files with "_transcript" appended to the filename. The transcripts can be placed in the same directory as the files or in a separate "Transcripts" folder.
+Please send copies of the transcripts to GBH on the hard drive using the same file name as the video/audio files with "_transcript" appended to the filename. The transcripts can be placed in the same directory as the files or in a separate "Transcripts" folder.
 
 ### 10. Contracts/Releases
 
-If you have production contracts or appearance releases for the material you are contributing to the AAPB, we would love to have copies to help us determine what we can make available online. Please send copies to WGBH on the hard drive using the same file name as the video/audio files themselves with "_contract" appended to the filename. The contracts can be placed in the same directory as the files or in a separate "Contracts" folder.
+If you have production contracts or appearance releases for the material you are contributing to the AAPB, we would love to have copies to help us determine what we can make available online. Please send copies to GBH on the hard drive using the same file name as the video/audio files themselves with "_contract" appended to the filename. The contracts can be placed in the same directory as the files or in a separate "Contracts" folder.
 
 ### 11. Summary
 
-- **Preservation file:**	to WGBH and the Library of Congress
-- **Original file:** to	WGBH and the Library, if no preservation file is available
-- **Proxy file:** to WGBH only
-- **Transcripts:**	to WGBH, if available
-- **Contracts/Releases:**	to WGBH, if available
-- **Checksums:**	strongly preferred (md5) by both WGBH and the Library
-- **QC Report:**	to WGBH and the Library, if available
-- **Technical metadata:**	to WGBH and the Library, if available
-- **Preservation metadata:** to WGBH and the Library, if available
+- **Preservation file:**	to GBH and the Library of Congress
+- **Original file:** to	GBH and the Library, if no preservation file is available
+- **Proxy file:** to GBH only
+- **Transcripts:**	to GBH, if available
+- **Contracts/Releases:**	to GBH, if available
+- **Checksums:**	strongly preferred (md5) by both GBH and the Library
+- **QC Report:**	to GBH and the Library, if available
+- **Technical metadata:**	to GBH and the Library, if available
+- **Preservation metadata:** to GBH and the Library, if available
 
-If you have any questions, please contact Casey Davis, AAPB Project Manager at [casey_davis@wgbh.org](mailto:casey_davis@wgbh.org). 
+If you have any questions, please contact Casey Davis, AAPB Project Manager at [casey_davis@wgbh.org](mailto:casey_davis@wgbh.org).

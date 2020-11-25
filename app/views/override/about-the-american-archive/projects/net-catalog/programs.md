@@ -11,7 +11,7 @@ All of the individual programs that we know were distributed by NET are listed h
 **30s: A Memory of Two Mondays**: produced in 1971 by NET Division, Educational Broadcasting Corporation. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br />
 **39th Witness**: *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **The 6th Paul**: produced in 1969 by Rediffusion Television. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br />
-**Aaron Copland Meets the Soviet Composers**: 30 minute program, produced by WGBH and initially distributed by NET in 1959.<br />
+**Aaron Copland Meets the Soviet Composers**: 30 minute program, produced by GBH and initially distributed by NET in 1959.<br />
 **Abbey of the English**<br />
 **ABM Hearings**: 1 hour program, produced by NET and initially distributed by NET in 1969.<br />
 **The ABM Question**: 1 hour program, produced by NET and initially distributed by NET in 1969. It was originally shot in color.<br />
@@ -131,7 +131,7 @@ All of the individual programs that we know were distributed by NET are listed h
 **Banks and the Poor**: 1 hour program, produced by the Educational Broadcasting Corporation and initially distributed by NET in 1970. *Aired as an episode of [Realities](/about-the-american-archive/projects/net-catalog/series/realities).*<br/>
 **The Banquet of Life**: 1 hour program, produced by the Canadian Broadcasting Corporation and initially distributed by NET in 1967. It was originally shot on film. *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
 The Barbershoppers *see* **Music Men: A Look at Barber Shopping**<br/>
-**Bartok at Tanglewood**: 90 minute program, produced by WGBH and NET and initially distributed by NET in 1969. It was originally shot in color. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Bartok at Tanglewood**: 90 minute program, produced by GBH and NET and initially distributed by NET in 1969. It was originally shot in color. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Bartok: A Portrait**: 1 hour program, produced by KQED and NET and initially distributed by NET in 1963. It was originally shot on videotape.<br />
 **Basic Russian Language: TV Schooltime**: 1 hour program, produced by META.<br />
 Basic Russisan Language: TV Schoolhouse *see* **Basic Russian Language: TV Schooltime**<br/>
@@ -141,8 +141,8 @@ Basic Russisan Language: TV Schoolhouse *see* **Basic Russian Language: TV Schoo
 **Battle of Culloden**: 90 minute program, produced by BBC and initially distributed by NET in 1969. It was originally shot on videotape in black and white.  *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Battle Over the Migrant**: 30 minute program, initially distributed by NET in 1965. It was originally shot on videotape.<br />
 **Beethoven Archduke Trio**: 75 minute program.<br />
-**Beethoven Personality**: 40 minute program, produced by WGBH and initially distributed by NET in 1970. It was originally shot on film and videotape in color.<br />
-**Beethoven the Emperor**: 30 minute program, produced by WGBH and initially distributed by NET in 1970. It was originally shot on videotape in color.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Beethoven Personality**: 40 minute program, produced by GBH and initially distributed by NET in 1970. It was originally shot on film and videotape in color.<br />
+**Beethoven the Emperor**: 30 minute program, produced by GBH and initially distributed by NET in 1970. It was originally shot on videotape in color.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Beethoven's Fifth Symphony**: 1 hour program.<br />
 **Beethoven's Seventh Symphony**: 1 hour program.<br />
 **Before Saturn**: 15 minute program, produced by NASA and initially distributed by NET in 1963. It was originally shot on film.<br />
@@ -177,10 +177,10 @@ Basic Russisan Language: TV Schoolhouse *see* **Basic Russian Language: TV Schoo
 **Born Chinese**: 1 hour program, produced by BBC and initially distributed by NET in 1965. It was originally shot on videotape.<br />
 **Boss's Son**: 1 hour program, produced by Radiodiffusion Television Francaise and initially distributed by NET in 1969. It was originally shot on videotape in black and white.  *Aired as an episode of [NET Playhouse Biography](/about-the-american-archive/projects/net-catalog/series/net-playhouse-biography).*<br/>
 **Boston Pops**: *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
-**Boston Pops I**: 135 minute program, produced by WGBH and initially distributed by NET in 1961. It was originally shot on videotape.<br />
-**Boston Pops II**: 90 minute program, produced by WGBH and initially distributed by NET in 1967. It was originally shot on videotape.<br />
-**Boston Pops III**: 105 minute program, produced by WGBH and initially distributed by NET in 1968. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
-**Boston Symphony at Tanglewood**: 1 hour program, produced by WGBH and initially distributed by NET in 1968. It was originally shot on videotape in color.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Boston Pops I**: 135 minute program, produced by GBH and initially distributed by NET in 1961. It was originally shot on videotape.<br />
+**Boston Pops II**: 90 minute program, produced by GBH and initially distributed by NET in 1967. It was originally shot on videotape.<br />
+**Boston Pops III**: 105 minute program, produced by GBH and initially distributed by NET in 1968. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Boston Symphony at Tanglewood**: 1 hour program, produced by GBH and initially distributed by NET in 1968. It was originally shot on videotape in color.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Boston Symphony Orchestra II**<br />
 **Boulez: A Portrait in Three Movements**: 90 minute program, produced by the Educational Broadcasting Corporation and initially distributed by NET in 1971. It was originally shot in color.<br />
 **A Boy and His Horse**<br />
@@ -251,9 +251,9 @@ Basic Russisan Language: TV Schoolhouse *see* **Basic Russian Language: TV Schoo
 **Chinese Art**: 1 hour program. It was originally shot on film.<br />
 **Chinese in the Far East**<br />
 **Chopin: A Question of Stature**: 1 hour program, produced by BBC and initially distributed by NET in 1968. It was originally shot on videotape in black and white.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
-**Chou En-Lai**: 90 minute program, produced by WGBH and initially distributed by NET in 1960. It was originally shot on videotape.<br />
+**Chou En-Lai**: 90 minute program, produced by GBH and initially distributed by NET in 1960. It was originally shot on videotape.<br />
 **The Christmas Boycott**: 30 minute program, produced by NET and initially distributed by NET in 1963. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
-**Christmas in New England**: 30 minute program, produced by WGBH and initially distributed by NET in 1958. It was originally shot on film.<br />
+**Christmas in New England**: 30 minute program, produced by GBH and initially distributed by NET in 1958. It was originally shot on film.<br />
 **Christmas in the Marketplace**<br />
 **The Christmas Painting**: 30 minute program, produced by Greensboro Studio of WUNC and initially distributed by NET in 1958.<br />
 **Cincinnati Symphony. Part 1**: *Aired as an episode of [NET Symphony](/about-the-american-archive/projects/net-catalog/series/net-symphony).*<br/>
@@ -295,7 +295,7 @@ A Concert for Stings and Winds *see* **A Concert for Strings and Woodwinds**<br/
 **Conference on World Tensions**: 1 hour program, produced by WTTW and initially distributed by NET in 1961. It was originally shot on videotape.<br />
 **Conflict with Canada**: 30 minute program, produced by NET and initially distributed by NET in 1964. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **Confrontation**: 90 minute program, produced by WQED and initially distributed by NET in 1969. It was originally shot in color. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
-**Confronted**: 1 hour program, produced by WGBH and initially distributed by NET in 1963. It was originally shot on film.<br />
+**Confronted**: 1 hour program, produced by GBH and initially distributed by NET in 1963. It was originally shot on film.<br />
 **Congress 1967**: 90 minute program.<br />
 **Congress and Ethics**: 1 hour program, produced by NET and initially distributed by NET in 1966. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **Congress of Strings 1963**: 90 minute program, produced by WMSB and initially distributed by NET in 1963. It was originally shot on videotape. *Aired as an episode of [Music Strip](/about-the-american-archive/projects/net-catalog/series/music-strip).*<br/>
@@ -310,14 +310,14 @@ A Concert for Stings and Winds *see* **A Concert for Strings and Woodwinds**<br/
 **Conversation with Ingrid Bergman**: 1 hour program, produced by NET and KCET and initially distributed by NET in 1967.<br />
 **Conversation with James Reston**: 1 hour program, produced by NET and initially distributed by NET in 1966. It was originally shot on videotape.<br />
 **Conversation with Milovan Djilas**: 1 hour program, produced by NET and initially distributed by NET in 1968. It was originally shot on videotape in color.<br />
-**Conversation with Muhammad Ali**: 30 minute program, produced by WGBH and initially distributed by NET in 1968. It was originally shot in black and white.<br />
+**Conversation with Muhammad Ali**: 30 minute program, produced by GBH and initially distributed by NET in 1968. It was originally shot in black and white.<br />
 **Conversation with President Kennedy's Biographer**: 30 minute program, produced by NET and initially distributed by NET in 1963. It was originally shot on videotape.<br />
 **Conversation with Richard Nixon**: 1 hour program, produced by NET and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **Conversation with Saul Alinsky**: 1 hour program, produced by WTTW and initially distributed by NET in 1965. It was originally shot on videotape.<br />
 Conversation with Saul Alinsky: Radical *see* **Conversation with Saul Alinsky**<br/>
-**Conversation with Sir Laurence Olivier**: 1 hour program, produced by WGBH and initially distributed by NET in 1967. It was originally shot on videotape.<br />
+**Conversation with Sir Laurence Olivier**: 1 hour program, produced by GBH and initially distributed by NET in 1967. It was originally shot on videotape.<br />
 **A Conversation with Stewart Udall**: 30 minute program, initially distributed by NET in 1964.  *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
-**Conversation with Svetlana Alliluyeva**: 1 hour program, produced by WGBH and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
+**Conversation with Svetlana Alliluyeva**: 1 hour program, produced by GBH and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **A Conversation with Willard Wirtz**: 30 minute program, produced by NET and initially distributed by NET in 1964. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **Coppelia**: 1 hour program, produced by BBC and initially distributed by NET in 1969. It was originally shot in black and white. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **The Count Down: A Study of World Disarmament**: 30 minute program, produced by UN-TV and initially distributed by NET in 1958. It was originally shot on kinescope.<br />
@@ -343,7 +343,7 @@ D-Day 25th Anniversary *see* **D-Day and 25**<br/>
 **Dallas Symphony**: 1 hour program.<br />
 **Danby Stream**<br />
 **Dance Concert**<br />
-**Dance Theatre of Jose Limon**: 1 hour program, produced by WGBH and initially distributed by NET in 1965. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Dance Theatre of Jose Limon**: 1 hour program, produced by GBH and initially distributed by NET in 1965. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Dancer's World**: 30 minute program, produced by WQED and initially distributed by NET in 1958. It was originally shot on film.<br />
 **Dandelion**:  produced by the NET Division of the Educational Broadcasting Corporation and initially distributed by NET in 1970.<br />
 **Dandy Dick**: 90 minute program, produced by Associated-Rediffusion and initially distributed by NET in 1963. It was originally shot on kinescope. *Aired as an episode of [NET Drama Festival](/about-the-american-archive/projects/net-catalog/series/net-drama-festival).*<br/>
@@ -353,12 +353,12 @@ D-Day 25th Anniversary *see* **D-Day and 25**<br/>
 **Darwin**: 1 hour program, produced by the Canadian Broadcasting Corporation and initially distributed by NET in 1968. It was originally shot on film, but released on videotape in color.  *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **Dateline: Eastern Europe**: 1 hour program, produced by NET and initially distributed by NET in 1969.<br />
 **Dateline: Southeast Asia**: 1 hour program, produced by NET and initially distributed by NET in 1969. It was originally shot on videotape in black and white.<br />
-**David Ben-Gurion**:  produced by WGBH and initially distributed by NET in 1960.<br />
+**David Ben-Gurion**:  produced by GBH and initially distributed by NET in 1960.<br />
 **David Lean: A Self Portrait**: 1 hour program, produced by Thomas Craven Film Corporation and initially distributed by NET in 1971. It was originally shot in color. *Aired as an episode of [Realities](/about-the-american-archive/projects/net-catalog/series/realities).*<br/>
 **Dawn Over the Mountains**: 50 minute program, produced by NHK and initially distributed by NET in 1961. It was originally shot on film. *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
 **Dean Rusk**<br />
 **Dean Rusk: Senate Foreign Relations Hearings**:  produced by NET and initially distributed by NET in 1968.<br />
-**Dear Liar**: 90 minute program, produced by WGBH and initially distributed by NET in 1965. It was originally shot on videotape.<br />
+**Dear Liar**: 90 minute program, produced by GBH and initially distributed by NET in 1965. It was originally shot on videotape.<br />
 **Death of a Small Farm**: produced in 1967 by KUON. *Aired as an episode of [Local Issue](/about-the-american-archive/projects/net-catalog/series/local-issue).*<br />
 **Death on the Highway**: 1 hour program, produced by NET and initially distributed by NET in 1965. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **Death Penalty**: 1 hour program, produced by Anthony de Lotbiniere for the BBC and initially distributed by NET in 1962. It was originally shot on film. *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br/>
@@ -458,7 +458,7 @@ Education Builds a Nation *see* **Yugoslavia: Education Builds a Nation**<br/>
 **Europa**: 10 minute program, produced by Pelican Films Inc..<br />
 **Eurovision Song Contest**: 2 hour program, produced by Telefis Eireann and initially distributed by NET in 1971. It was originally shot in color. *Aired as an episode of [Fanfare](/about-the-american-archive/projects/net-catalog/series/fanfare).*<br/>
 **An Evening with the Vienna Philharmonic**: 90 minute program, produced by Austrian Television and NET and initially distributed by NET in 1971. It was originally shot in black and white. *Aired as an episode of [Fanfare](/about-the-american-archive/projects/net-catalog/series/fanfare).*<br/>
-**An Evening's Journey to Conway, Mass.**: 1 hour program, produced by WGBH and NET and initially distributed by NET in 1967. It was originally shot on videotape in color.  *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
+**An Evening's Journey to Conway, Mass.**: 1 hour program, produced by GBH and NET and initially distributed by NET in 1967. It was originally shot on videotape in color.  *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Ever on Sunday: Children's Jazz Festival**<br />
 **Every 7th Child**: 1 hour program.<br />
 **Every Tenth Man: A Study of Homosexuality**: 1 hour program, produced by the Canadian Broadcasting Corporation and initially distributed by NET in 1965. It was originally shot on videotape. *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
@@ -505,14 +505,14 @@ Education Builds a Nation *see* **Yugoslavia: Education Builds a Nation**<br/>
 **Fischer-Dieskau Recital**: *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Fisk Jubilee Singers**<br />
 **Five College Presidents: An Exchange of Views**: 1 hour program, produced by WNDT and initially distributed by NET in 1965. It was originally shot on videotape.<br />
-**Five Faces of Jazz: Newport 1967**: 1 hour program, produced by WGBH and initially distributed by NET in 1968. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Five Faces of Jazz: Newport 1967**: 1 hour program, produced by GBH and initially distributed by NET in 1968. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Five Tomorrows**: 90 minute program, produced by NET and initially distributed by NET in 1970. It was originally shot in color. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Flies Eyes**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **Florence: Days of Destruction**: 1 hour program, produced by Radio-Televisione Italiana and initially distributed by NET in 1966. It was originally shot on videotape.<br />
 **The Flowering Cherry**: 90 minute program, produced by BBC and initially distributed by NET in 1969. It was originally shot in black and white. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Flowers on a One Way Street**: 1 hour program, produced by the National Film Board of Canada and initially distributed by NET in 1969. It was originally shot on videotape in black and white.  *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **Flying at the Bottom of the Sea**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
-**For Freedom Now**: 1 hour program, produced by WGBH and initially distributed by NET in 1963. It was originally shot on videotape. *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br/>
+**For Freedom Now**: 1 hour program, produced by GBH and initially distributed by NET in 1963. It was originally shot on videotape. *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br/>
 **For Those Who Stay**: 24 minute program, produced by the Woodrow Wilson School of Public and International Affairs, Princeton University and initially distributed by NET in 1964. It was originally shot on film.<br />
 **The Forgotten War**: 1 hour program.<br />
 **Formosa and Chiang Kai-shek's Dream**: 1 hour program, produced by Zweites Deutsches Fernsehen and initially distributed by NET in 1965. It was originally shot on videotape.<br />
@@ -636,7 +636,7 @@ Guests of the Planet/Any Resemblances *see* **Any Resemblances**<br/>
 **Homosexuality in Men and Women**: 1 hour program, produced by Rediffusion Television and initially distributed by NET in 1966. It was originally shot on film. *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
 **Hong Kong and African Revolutionary**: 30 minute program, produced by Studio Hamburg and BBC and initially distributed by NET in 1966.<br />
 **Hospital**: 90 minute program, produced by Frederick Wiseman and initially distributed by NET in 1970. It was originally shot in black and white. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
-**An Hour with Joan Sutherland**: 1 hour program, produced by NET at WGBH studios and initially distributed by NET in 1965. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**An Hour with Joan Sutherland**: 1 hour program, produced by NET at GBH studios and initially distributed by NET in 1965. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **A House Divided**: produced in 1964 by KUED. *Aired as an episode of [Local Issue](/about-the-american-archive/projects/net-catalog/series/local-issue).*<br />
 **A House in the Jungle**: 1 hour program, produced by the Australian Broadcasting Commission and initially distributed by NET in 1970. It was originally shot on film in color.  *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **The House on the Beach**: 1 hour program, produced by Rediffusion Television and initially distributed by NET in 1965. It was originally shot on film in color.  *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
@@ -664,7 +664,7 @@ Guests of the Planet/Any Resemblances *see* **Any Resemblances**<br/>
 **Identity**: 1 hour program, produced by the Rensselaer Polytechnic Institute and initially distributed by NET in 1968. It was originally shot on videotape.<br />
 **If Eugene Talmadge Were Alive Today, He'd Turn Over in His Grave**: 1 hour program, produced by NET Division, Educational Broadcasting Corporation and initially distributed by NET in 1970. *Aired as an episode of [Realities](/about-the-american-archive/projects/net-catalog/series/realities).*<br/>
 **If I Don't Agree Must I Go Away**: 1 hour program, produced by NET and Canadian Broadcating Corporation and initially distributed by NET in 1969. It was originally shot on film in black and white.  *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
-**Igor Stravinsky**: 90 minute program, produced by the National Film Board of Canada and WGBH and initially distributed by NET in 1966. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Igor Stravinsky**: 90 minute program, produced by the National Film Board of Canada and GBH and initially distributed by NET in 1966. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **The Imperfect Society**<br />
 **The Importance of Being Earnest**: 90 minute program, produced by ABC Television and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **In Color, In Color**: 30 minute program.<br />
@@ -689,7 +689,7 @@ Guests of the Planet/Any Resemblances *see* **Any Resemblances**<br/>
 **Inheritance**: 30 minute program, produced by Mithras Films Ltd and initially distributed by NET in 1964. It was originally shot on film.<br />
 **The Inland Sea**<br />
 **Innocent by Reason of Insanity: The Psychiatrist in Court**: 30 minute program, produced by NET and initially distributed by NET in 1964. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
-**The Innocents**: 1 hour program, produced by WGBH and initially distributed by NET in 1961. It was originally shot on film.<br />
+**The Innocents**: 1 hour program, produced by GBH and initially distributed by NET in 1961. It was originally shot on film.<br />
 Innsbruck /Tokyo 1964  *see* **Olympics in Innsbruck and Tokyo 1964**<br/>
 **Insect Comedy**: 90 minute program, produced by BBC. It was originally shot on videotape.  *Aired as an episode of [NET Drama Festival](/about-the-american-archive/projects/net-catalog/series/net-drama-festival).*<br/>
 The Insect Play *see* **Insect Comedy**<br/>
@@ -701,7 +701,7 @@ The Insect Play *see* **Insect Comedy**<br/>
 **Interplanetary Science**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **An Interview with Linus Pauling**:  program, produced by the National Film Board of Canada.  *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br/>
 **Interview with Sergeant Shriver**: 30 minute program, produced by NET and initially distributed by NET in 1964. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
-**Intolleranza**: 90 minute program, produced by WGBH and initially distributed by NET in 1966. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Intolleranza**: 90 minute program, produced by GBH and initially distributed by NET in 1966. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Introducing Roy Buchanan**: 90 minute program, produced by the NET Division of the Educational Broadcasting Corporation and initially distributed by NET in 1971. It was originally shot in color.<br />
 **The Intruders**: 30 minute program, produced by Highroad Productions and initially distributed by NET in 1964. It was originally shot on film.<br />
 **The Iron Horse**<br />
@@ -715,17 +715,17 @@ The Insect Play *see* **Insect Comedy**<br/>
 **Israeli Science: A Question of Integration**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **Israeli Science: In Search of a Future**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **The Issue is Foreign Aid**: 1 hour program, produced by William Resnick and initially distributed by NET in 1958. It was originally shot on videotape.<br />
-**Jack Beeson**: 30 minute program, produced by WGBH and initially distributed by NET in 1967. It was originally shot on videotape.<br />
+**Jack Beeson**: 30 minute program, produced by GBH and initially distributed by NET in 1967. It was originally shot on videotape.<br />
 **Jacobian's Changling**: *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **James Buswell at Castle Hill**: 1 hour program.<br />
 **James Oliver Buswell III at Castle Hill**<br />
 **Japanese Medicine: The Silent Invader**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **Jazz a la Montreaux**: 90 minute program, produced by NET and Swiss Television and initially distributed by NET in 1971. *Aired as an episode of [Special of the Week](/about-the-american-archive/projects/net-catalog/series/special-of-the-week).*<br/>
-**Jazz at Tanglewood: Judy Collins and Don Ellis**: 1 hour program, produced by WGBH and initially distributed by NET in 1969. It was originally shot in color. *Aired as an episode of [Fanfare](/about-the-american-archive/projects/net-catalog/series/fanfare).*<br/>
-**Jazz at Tanglewood: Moden Jazz Quartet**: 1 hour program, produced by WGBH and initially distributed by NET in 1969. It was originally shot in color. *Aired as an episode of [Fanfare](/about-the-american-archive/projects/net-catalog/series/fanfare).*<br/>
+**Jazz at Tanglewood: Judy Collins and Don Ellis**: 1 hour program, produced by GBH and initially distributed by NET in 1969. It was originally shot in color. *Aired as an episode of [Fanfare](/about-the-american-archive/projects/net-catalog/series/fanfare).*<br/>
+**Jazz at Tanglewood: Moden Jazz Quartet**: 1 hour program, produced by GBH and initially distributed by NET in 1969. It was originally shot in color. *Aired as an episode of [Fanfare](/about-the-american-archive/projects/net-catalog/series/fanfare).*<br/>
 **Jazz at the Overseas Press Club**<br />
-**Jazz from Newport, 1966**: 1 hour program, produced by WGBH and initially distributed by NET in 1967. It was originally shot in color.<br />
-**Jerome Hines with Elliot Norton**: 30 minute program, produced by WGBH and initially distributed by NET in 1963. It was originally shot on videotape.<br />
+**Jazz from Newport, 1966**: 1 hour program, produced by GBH and initially distributed by NET in 1967. It was originally shot in color.<br />
+**Jerome Hines with Elliot Norton**: 30 minute program, produced by GBH and initially distributed by NET in 1963. It was originally shot on videotape.<br />
 **Jet Age, Jet Problems**: produced in 1967 by WTTW. *Aired as an episode of [Local Issue](/about-the-american-archive/projects/net-catalog/series/local-issue).*<br />
 **The Jet Train in Here**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **JFK: His Last Trip Abroad**: 1 hour program, produced by Deutsche Wochenschau of Germany and initially distributed by NET in 1964. It was originally shot on videotape.<br />
@@ -737,7 +737,7 @@ The Insect Play *see* **Insect Comedy**<br/>
 **John F. White**<br />
 **John Foster Dulles: Obituary**: 15 minute program, produced by the United States Information Agency and initially distributed by NET in 1959. It was originally shot on film.<br />
 **John Glenn Story**: 30 minute program, produced by NASA and initially distributed by NET in 1963. It was originally shot on film in color.<br />
-**Josh Logan with Elliot Norton**: 30 minute program, produced by WGBH and initially distributed by NET in 1963. It was originally shot on videotape.<br />
+**Josh Logan with Elliot Norton**: 30 minute program, produced by GBH and initially distributed by NET in 1963. It was originally shot on videotape.<br />
 **Journey of the Fifth Horse**: 130 minute program, produced by NET and initially distributed by NET in 1966. It was originally shot on videotape in black and white.  *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Journey Toward Progress**: 30 minute program, produced by NET and initially distributed by NET in 1963. It was originally shot on videotape.<br />
 **Julius Caesar**: 2 hour program, produced by BBC and initially distributed by NET in 1971. It was originally shot in color. *Aired as an episode of [NET Playhouse Biography](/about-the-american-archive/projects/net-catalog/series/net-playhouse-biography).*<br/>
@@ -752,7 +752,7 @@ The Insect Play *see* **Insect Comedy**<br/>
 **Kaddish**: 1 hour program, produced by Radio Bremen and initially distributed by NET in 1969. It was originally shot in black and white. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **Kennedy**: 30 minute program, produced by WTTW.<br />
 Kennedy from WTTW *see* **Kennedy**<br/>
-**Kennedy International Awards**: 1 hour program, produced by WGBH and initially distributed by NET in 1966. It was originally shot on videotape.<br />
+**Kennedy International Awards**: 1 hour program, produced by GBH and initially distributed by NET in 1966. It was originally shot on videotape.<br />
 **The Kiddie Market**: 30 minute program, produced by NET and initially distributed by NET in 1964. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **The Killing of the King**: produced in 1964 by Associated-Rediffusion. *Aired as an episode of [NET Drama Festival](/about-the-american-archive/projects/net-catalog/series/net-drama-festival).*<br />
 **King Lear**: 2 hour program.<br />
@@ -764,8 +764,8 @@ Kennedy from WTTW *see* **Kennedy**<br/>
 **Kuwait**: 1 hour program, produced by BBC and initially distributed by NET in 1968. It was originally shot on film, but distributed on videotape in black and white.  *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **L'ajo nell'imbaraazo**: 1 hour program, produced by Cine Lirica Italiana and initially distributed by NET in 1968.<br />
 **L'Aventura**: 2 hour program, produced by Janus Films and initially distributed by NET in 1966. It was originally shot on videotape. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
-**L'Heure Espagnole**: 30 minute program, produced by WGBH and initially distributed by NET in 1960. It was originally shot on videotape.<br />
-**La Finta Giardiniera**: 171 minute program, produced by WGBH and initially distributed by NET in 1959.<br />
+**L'Heure Espagnole**: 30 minute program, produced by GBH and initially distributed by NET in 1960. It was originally shot on videotape.<br />
+**La Finta Giardiniera**: 171 minute program, produced by GBH and initially distributed by NET in 1959.<br />
 **La Malade Imaginaire**: 110 minute program, produced by Radiodiffusion Television Francaise. It was originally shot on kinescope.  *Aired as an episode of [NET Drama Festival](/about-the-american-archive/projects/net-catalog/series/net-drama-festival).*<br/>
 **La Mama Playwrights**: 75 minute program, produced by NET and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **La Marmite**: 1 hour program, produced by Marie-Josphe Dubergey and initially distributed by NET in 1966. It was originally shot on videotape. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
@@ -793,7 +793,7 @@ Kennedy from WTTW *see* **Kennedy**<br/>
 **LBJ: An Unposed Profile**: 30 minute program, produced by NET and initially distributed by NET in 1964. It was originally shot on videotape.<br />
 **Learn Russian**: 30 minute program, produced by KQED.<br />
 **Learning to Love**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
-**Leinsdorf Recreates**: 1 hour program, produced by WGBH and initially distributed by NET in 1968. It was originally shot on videotape in color.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Leinsdorf Recreates**: 1 hour program, produced by GBH and initially distributed by NET in 1968. It was originally shot on videotape in color.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 Leinsdorf Rehearses *see* **Leinsdorf Recreates**<br/>
 **The Leisure Boom: An Examination of the American Pursuit of Pleasure**: 1 hour program, produced by NET and initially distributed by NET in 1965. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **The Lenox Quartet**: *Aired as an episode of [Music Strip](/about-the-american-archive/projects/net-catalog/series/music-strip).*<br/>
@@ -826,7 +826,7 @@ Leinsdorf Rehearses *see* **Leinsdorf Recreates**<br/>
 **The Lion and the Eagle**: 1 hour program, produced by Rediffusion Television and initially distributed by NET in 1966. It was originally shot on film. *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
 **The Living Stone**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **Living with a Giant**: 1 hour program, produced by Associated-Rediffusion and initially distributed by NET in 1962. It was originally shot on film. *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
-**Lizzie Borden**: 2 hour program, produced by WGBH and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Lizzie Borden**: 2 hour program, produced by GBH and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Local Issue: Enough to Live on**<br />
 **London: Capital City. Part 1**: produced in 1963 by Associated-Rediffusion. It was originally shot on film. *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br />
 **London: Capital City. Part 2**: produced in 1963 by Associated-Rediffusion. It was originally shot on film. *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br />
@@ -842,7 +842,7 @@ Leinsdorf Rehearses *see* **Leinsdorf Recreates**<br/>
 **Louisiana Diary**: 1 hour program, produced by KQED and initially distributed by NET in 1964. It was originally shot on film.<br />
 **Lower Depths**: 125 minute program, produced by BBC and initially distributed by NET in 1959. *Aired as an episode of [NET Drama Festival](/about-the-american-archive/projects/net-catalog/series/net-drama-festival).*<br/>
 **Loyalties**: 30 minute program, produced by KQED and initially distributed by NET in 1959.<br />
-**LSD: Lettvin vs Leary**: 1 hour program, produced by WGBH and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
+**LSD: Lettvin vs Leary**: 1 hour program, produced by GBH and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **Luboshutz and Nemenoff**: *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Ludwig Van Beethoven**: 90 minute program, initially distributed by NET in 1971.  *Aired as an episode of [NET Playhouse Biography](/about-the-american-archive/projects/net-catalog/series/net-playhouse-biography).*<br/>
 **Macbeth**: 95 minute program, produced by Associated-Rediffusion and initially distributed by NET in 1964. It was originally shot on film. *Aired as an episode of [NET Drama Festival](/about-the-american-archive/projects/net-catalog/series/net-drama-festival).*<br/>
@@ -867,7 +867,7 @@ Leinsdorf Rehearses *see* **Leinsdorf Recreates**<br/>
 **Manitas at the Bull Ring**: 30 minute program.<br />
 **Marat/Sade**: *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Marathon**: 90 minute program, produced by NET Division, Educational Broadcasting Corporation and initially distributed by NET in 1971. It was originally shot in black and white. *Aired as an episode of [Realities](/about-the-american-archive/projects/net-catalog/series/realities).*<br/>
-**Marcel Marceau on Mime**: 30 minute program, produced by WGBH.<br />
+**Marcel Marceau on Mime**: 30 minute program, produced by GBH.<br />
 **The March King: John Philip Sousa**: *Aired as an episode of [Fanfare](/about-the-american-archive/projects/net-catalog/series/fanfare).*<br/>
 **Margaret Mead: New Lives for Old**: 90 minute program.<br />
 **Margaret Mead's New Guinea Journal**: 90 minute program, produced by NET Division, Educational Broadcasting Corporation and initially distributed by NET in 1968. It was originally shot on videotape in color.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
@@ -915,14 +915,14 @@ Leinsdorf Rehearses *see* **Leinsdorf Recreates**<br/>
 **Men for Others**: 1 hour program, produced by the Canadian Broadcasting Corporation and initially distributed by NET in 1965. It was originally shot on film. *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
 **Men in Black**: 1 hour program, produced by Rediffusion Television and initially distributed by NET in 1966. It was originally shot on film. *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
 **Men in Orbit (aka Men in Space)**: 1 hour program, produced by KUHT and initially distributed by NET in 1959. It was originally shot on film.<br />
-**Merely Players**: 30 minute program, produced by WGBH and initially distributed by NET in 1968. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Merely Players**: 30 minute program, produced by GBH and initially distributed by NET in 1968. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 Message from Violet Drive *see* **Messenger from Violet Drive**<br/>
 **Messenger from Violet Drive**: 30 minute program, produced by KQED and initially distributed by NET in 1964. It was originally shot on videotape.<br />
-**Messiah**: 3 hour program, produced by WGBH and initially distributed by NET in 1964. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**Messiah**: 3 hour program, produced by GBH and initially distributed by NET in 1964. It was originally shot on videotape. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Mid Channel**: 75 minute program, produced by Granada and initially distributed by NET in 1967.<br />
 **Mid-Channel**: 75 minute program, produced by Granada and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Middle East: Search for a Solution**: 1 hour program, produced by NET and initially distributed by NET in 1969. It was originally shot in color.<br />
-**Middle East: UN Disaster**: 30 minute program, produced by WGBH and initially distributed by NET in 1958.<br />
+**Middle East: UN Disaster**: 30 minute program, produced by GBH and initially distributed by NET in 1958.<br />
 Middle East: US Disaster *see* **Middle East: UN Disaster**<br/>
 **Midsummer 1967**: 2 hour program, produced by NET and initially distributed by NET in 1967. It was originally shot on videotape. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **Midsummer Night's Dream**: 90 minute program, produced by BBC and initially distributed by NET in 1962. It was originally shot on kinescope. *Aired as an episode of [NET Drama Festival](/about-the-american-archive/projects/net-catalog/series/net-drama-festival).*<br/>
@@ -978,7 +978,7 @@ Middle East: US Disaster *see* **Middle East: UN Disaster**<br/>
 **A Musical Visit to Prague**: 90 minute program, produced by NET and initially distributed by NET in 1968. It was originally shot on videotape in black and white.  *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **Must I Serve**: 1 hour program, produced by NET and initially distributed by NET in 1968. It was originally shot on videotape. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **Must I, May I**<br />
-**My Heart's in the Highland**: 90 minute program, produced by WGBH and initially distributed by NET in 1970. It was originally shot in color. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
+**My Heart's in the Highland**: 90 minute program, produced by GBH and initially distributed by NET in 1970. It was originally shot in color. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br/>
 **My Name is Children**: 1 hour program, produced by Quest Production and initially distributed by NET in 1967. It was originally shot on film in color.  *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **The Mysterious Mr. Eliot**: 1 hour program, produced by WNET and BBC and initially distributed by NET in 1972. It was originally shot in color. *Aired as an episode of [Special of the Week](/about-the-american-archive/projects/net-catalog/series/special-of-the-week).*<br/>
 **Mystic Hunter**: 30 minute program.<br />
@@ -993,7 +993,7 @@ Middle East: US Disaster *see* **Middle East: UN Disaster**<br/>
 **NATO at the Crossroads**: 30 minute program, produced by NET and initially distributed by NET in 1964. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **Navajo: White Arrow**<br />
 **NDEA**: 90 minute program.<br />
-**The Negro and the American Promise**:  program, produced by WGBH.  *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br/>
+**The Negro and the American Promise**:  program, produced by GBH.  *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br/>
 **The Negro Voice. Part 1**: 30 minute program, initially distributed by NET in 1964.  *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **The Negro Voice. Part 2**: 30 minute program, produced by NET and initially distributed by NET in 1964. *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>
 **Nepal: Experiment in Education**: 30 minute program.<br />
@@ -1252,7 +1252,7 @@ The Queen's Christmas Message *see* **Her Majesty, Queen Elizabeth Christmas Mes
 **The Serpent**: *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Seven Against Thebes**<br />
 **Seven Days Document**<br />
-**Seven Who Dared**: 1 hour program, produced by WGBH and initially distributed by NET in 1964.<br />
+**Seven Who Dared**: 1 hour program, produced by GBH and initially distributed by NET in 1964.<br />
 **The Sexual Offender: Safe to be at Large?**: produced in 1966 by KWSC-TV. *Aired as an episode of [Local Issue](/about-the-american-archive/projects/net-catalog/series/local-issue).*<br />
 **The Shepherds and the Magi**<br />
 **Shostakovich**: *Aired as an episode of [Fanfare](/about-the-american-archive/projects/net-catalog/series/fanfare).*<br/>
@@ -1297,7 +1297,7 @@ The Queen's Christmas Message *see* **Her Majesty, Queen Elizabeth Christmas Mes
 **South Pole Expedition**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **Soviet Medicine**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **Spain**<br />
-**Speak Out on Drugs**: produced in 1969 by WGBH. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br />
+**Speak Out on Drugs**: produced in 1969 by GBH. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br />
 **Speaking of Russia**: 30 minute program, produced by WTTW and initially distributed by NET in 1959.<br />
 **A Speck of Progress**: 12 minute program.<br />
 **Spring in Ethiopia**: *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
@@ -1456,7 +1456,7 @@ A Summer of Music: June 1968 *see* **June 1968: A Summer of Music**<br/>
 **The Union Man**: *Aired as an episode of [Intertel](/about-the-american-archive/projects/net-catalog/series/intertel).*<br/>
 **Unions: Who Needs Them?**: *Aired as an episode of [Perspectives](/about-the-american-archive/projects/net-catalog/series/perspectives).*<br/>
 **University of Pennsylvania**: *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
-**University Power**: produced in 1967 by WGBH. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br />
+**University Power**: produced in 1967 by GBH. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br />
 **The Unknown War**: produced in 1967 by Associated Television, London. *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br />
 **Unman Wittering and Zigo**: *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Unmarried Mothers**: 1 hour program, produced by Granada and initially distributed by NET in 1966.<br />
@@ -1465,7 +1465,7 @@ A Summer of Music: June 1968 *see* **June 1968: A Summer of Music**<br/>
 **The US and Modern World**<br />
 **The US and the Non-western World**: 30 minute program, produced by KETC and initially distributed by NET in 1960.<br />
 **The US Army Presents: The Big City**<br />
-**USA in New Dimensions**: 30 minute program, produced by WGBH and initially distributed by NET in 1958.<br />
+**USA in New Dimensions**: 30 minute program, produced by GBH and initially distributed by NET in 1958.<br />
 **USA: Art as Religion**<br />
 **Ustinov Ad Lib**: *Aired as an episode of [NET Playhouse](/about-the-american-archive/projects/net-catalog/series/net-playhouse).*<br/>
 **Ustinov on the Ustinovs**: produced in 1967 by BBC. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br />
@@ -1514,7 +1514,7 @@ A Summer of Music: June 1968 *see* **June 1968: A Summer of Music**<br/>
 **Waves Across the Pacific**: *Aired as an episode of [Spectrum](/about-the-american-archive/projects/net-catalog/series/spectrum).*<br/>
 **The Way and the Word**: 30 minute program.<br />
 **The Way it is**: *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
-**We Shall Overcome**: 30 minute program, produced by WGBH.<br />
+**We Shall Overcome**: 30 minute program, produced by GBH.<br />
 **We Speak Russian**: 30 minute program.<br />
 **Weapons of Gordon Parks**: 30 minute program.<br />
 **Wedding on Saturday**: 30 minute program, produced by Granada and initially distributed by NET in 1966.<br />
@@ -1532,7 +1532,7 @@ A Summer of Music: June 1968 *see* **June 1968: A Summer of Music**<br/>
 **Where They Stand**: *Aired as an episode of [NET Journal](/about-the-american-archive/projects/net-catalog/series/net-journal).*<br/>
 **Whirligig of Life**<br />
 **White House Conference on Children: A Preview**: 1 hour program, produced by WETA and initially distributed by NET in 1970.<br />
-**White House Red Carpet with Julia Child**: produced in 1968 by WGBH. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br />
+**White House Red Carpet with Julia Child**: produced in 1968 by GBH. *Aired as an episode of [NET Festival](/about-the-american-archive/projects/net-catalog/series/net-festival).*<br />
 **The White South: Two Views: The Southern Conservative**: 30 minute program.<br />
 **The White South: Two Views: The Southern Liberal**: 30 minute program.<br />
 **Who Does the Negro Think He is?**: 1 hour program, produced by NET and initially distributed by NET in 1965.<br />

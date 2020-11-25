@@ -11,7 +11,7 @@ antiquity.
 <footer>Television and Video Preservation (1997), a Library of Congress
 report</footer>
 
-The Library of Congress and WGBH in Boston have embarked on a project to
+The Library of Congress and GBH in Boston have embarked on a project to
 preserve for posterity the most significant public television and radio
 programs of the past 60 years: The American Archive of Public Broadcasting. The
 American people have made a huge investment in public radio and television over
@@ -29,15 +29,15 @@ enlighten, and delight.
 Public Broadcasting (1979)</footer>
 
 
-In August 2013, the Library and WGBH received a grant from the Corporation for
+In August 2013, the Library and GBH received a grant from the Corporation for
 Public Broadcasting to engage in the first phase of a long-term project to
 preserve public media. During this first phase, scheduled to end in September 2016,
-the Library and WGBH are overseeing the digitization of approximately 40,000
+the Library and GBH are overseeing the digitization of approximately 40,000
 hours of programs selected by more than 100 public broadcasting stations
 throughout the nation. Dating from the 1940s to the 21st century and emanating
 from all regions of the nation, these programs will be available to scholars,
 researchers, educators, students, and the general public at the Library’s
-audiovisual research centers and at WGBH.
+audiovisual research centers and at GBH.
 
 >
 The broad mission of public broadcasting has been to help promote civil
@@ -104,7 +104,7 @@ television and journalism played in shaping public perception.
 <footer>Thomas F. Jackson, University of North Carolina, Greensboro</footer>
 
 
-The Library is pleased and honored to collaborate with WGBH, acclaimed
+The Library is pleased and honored to collaborate with GBH, acclaimed
 universally as a long-time leader in media production, media management,
 preservation, and rights management issues. The Library will house these
 treasures in its Packard Campus for Audio Visual Conservation, the state of the
@@ -148,12 +148,12 @@ in public broadcasting.
 Stations</footer>
 
 
-As a public broadcaster, WGBH brings extensive knowledge of the public media
+As a public broadcaster, GBH brings extensive knowledge of the public media
 system and an understanding of the core issues facing both TV and radio
-stations to the table. WGBH has long been positioned as a leader in the areas
-of media management, preservation and copyright issues. WGBH has demonstrated
+stations to the table. GBH has long been positioned as a leader in the areas
+of media management, preservation and copyright issues. GBH has demonstrated
 its strengths in these areas with the Open Vault website and other websites
-maintained and developed by WGBH.
+maintained and developed by GBH.
 
 >
 The American Archive will ensure that the wealth of public broadcasting
@@ -162,7 +162,7 @@ deteriorating, on aging tape and film. This rich programming represents the
 most comprehensive chronicle of our nation’s history, our people, our culture
 and our democracy. It has enormous continuing value to current and future
 generations and must not be left to fade away.
-<footer>Jon Abbott, President and CEO of WGBH Boston</footer>
+<footer>Jon Abbott, President and CEO of GBH Boston</footer>
 
 
 “Acquire, preserve, and provide access to a universal collection of knowledge
@@ -175,7 +175,7 @@ experience, expertise, and national leadership in preserving and making
 publicly accessible digitally reformatted audiovisual materials will ensure
 that future operations of the American Archive are performed according to
 highest standards and best practices.
-WGBH and the Library believe that the legacy of American public broadcasting
+GBH and the Library believe that the legacy of American public broadcasting
 must be preserved for future generations. We look forward to maintaining a
 central role in keeping, organizing and providing access to the cultural
 treasures created by the public media system to enhance education and knowledge

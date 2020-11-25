@@ -13,7 +13,7 @@ Packard Campus for Audio Visual Conservation<br/>
 19053 Mt. Pony Rd.<br/>
 Culpeper, Virginia 22701-7551<br/>
 
-### WGBH Mailing Address:
+### GBH Mailing Address:
 Karen Cariani<br/>
 WGBH Educational Foundation<br/>
 One Guest Street<br/>
