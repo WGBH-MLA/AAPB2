@@ -9,10 +9,10 @@ class ThePBCoreCorrector
   TITLE_TYPES = ['series', 'program', 'episode', 'episode number', 'segment', 'clip', 'promo', 'raw footage'].freeze
   DESCRIPTION_TYPES = ['series', 'program', 'episode', 'segment', 'clip', 'promo', 'raw footage'].freeze
 
-  def initialize(guids)
+  def initialize(argv)
     log_init
     # Download the existing docs
-    @target_dirs = download(ids: guids)
+    @target_dirs = download(ids: File.readlines(argv[0]).map{ |id| id.gsub("\n","") } )
   end
 
   def run
@@ -22,6 +22,10 @@ class ThePBCoreCorrector
   end
 
   private
+
+  def build_ids_array(guid_file)
+    File.readlines(guid_file).map { |id| id.tr("\n","") }
+  end
 
   def log_init
     log_file_name = Rails.root + "log/#{Time.now.strftime('%F_%T.%6N')}-pbcorecorrector.log"
@@ -122,3 +126,5 @@ class ThePBCoreCorrector
     ).run]
   end
 end
+
+ThePBCoreCorrector.new(ARGV).run
