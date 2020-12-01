@@ -1,12 +1,12 @@
-# Freedom Riders Interviews
+# *Freedom Riders* Interviews
 
 ## Thumbnail
 
-![Freedom Riders](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0004_Freedom_Riders.jpg "Freedom Riders")
+![*Freedom Riders*](https://s3.amazonaws.com/americanarchive.org/special-collections/AX0004_Freedom_Riders.jpg "Freedom Riders")
 
 ## Summary
 
-The <em>Freedom Riders</em> Interview Collection contains 124 raw interviews from the <em>American Experience</em> documentary of the same name. The film documents the six-month period from May to November 1961, when white and black activists rode together on buses across the American South to protest the continued segregation of public buses and transportation facilities. Risking attack from white mobs and arrest by local police, the documentary chronicles the reality of the Freedom Riders' experiences and success at calling attention to southern indifference to federal law and demanding enforcement of integrated interstate bus travel. The <em>Freedom Riders</em> interviews were conducted with activists and journalists who took part in the Freedom Rides, including John Lewis, a key player in the Civil Rights Movement and a member of the House of Representatives; Diane Nash, a coordinator for Freedom Riders in Nashville; Moses Newson, a journalist who covered the first Freedom Ride; John Seigenthaler, a Special Assistant to Robert F. Kennedy; and Genevieve Hughes Houghton, Congress of Racial Equality (CORE) field secretary on their Freedom Ride. Subjects discussed include the Supreme Court, the American South, Jim Crow, the Ku Klux Klan, violence, racism, segregation, CORE, and the Civil Rights Movement.
+The *Freedom Riders* Interview Collection contains raw interviews with 46 people conducted for the *American Experience* documentary of the same name. The film documents the six-month period from May to November 1961, when white and black activists rode together on buses across the American South to protest the continued segregation of public buses and transportation facilities. Risking attack from white mobs and arrest by local police, the documentary chronicles the reality of the Freedom Riders' experiences and success at calling attention to southern indifference to federal law and demanding enforcement of integrated interstate bus travel. The <em>Freedom Riders</em> interviews were conducted with activists and journalists who took part in the Freedom Rides, including John Lewis, a key player in the Civil Rights Movement and a member of the House of Representatives; Diane Nash, a coordinator for Freedom Riders in Nashville; Moses Newson, a journalist who covered the first Freedom Ride; John Seigenthaler, a Special Assistant to Robert F. Kennedy; and Genevieve Hughes Houghton, Congress of Racial Equality (CORE) field secretary on their Freedom Ride. Subjects discussed include the Supreme Court, the American South, Jim Crow, the Ku Klux Klan, violence, racism, segregation, CORE, and the Civil Rights Movement.
 
 ## Background
 
