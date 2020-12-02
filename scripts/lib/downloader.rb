@@ -131,12 +131,13 @@ class Downloader
                   # TODO: hostname and corename from config?
                   results = Solr.instance.connect.get('select', params: { qt: 'document', id: id })['response']['docs']
 
-                  if results.length > 0
-                    results[0]['xml']
-                  else
+                  if results.empty?
                     # Set content to nil if nothing found in SOLR
                     $LOG.info("SOLR Query is nil. Skipping ID: #{id}")
                     nil
+                  else
+                    # Return the XML
+                    results[0]['xml']
                   end
                 else
                   url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"

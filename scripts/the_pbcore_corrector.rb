@@ -12,7 +12,7 @@ class ThePBCoreCorrector
   def initialize(argv)
     log_init
     # Download the existing docs
-    @target_dirs = download(ids: File.readlines(argv[0]).map{ |id| id.gsub("\n","") } )
+    @target_dirs = download(ids: File.readlines(argv[0]).map { |id| id.delete("\n") })
   end
 
   def run
@@ -22,10 +22,6 @@ class ThePBCoreCorrector
   end
 
   private
-
-  def build_ids_array(guid_file)
-    File.readlines(guid_file).map { |id| id.tr("\n","") }
-  end
 
   def log_init
     log_file_name = Rails.root + "log/#{Time.now.strftime('%F_%T.%6N')}-pbcorecorrector.log"
