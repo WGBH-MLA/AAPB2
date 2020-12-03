@@ -272,7 +272,7 @@ class PBCorePresenter
   end
   def access_level_description
     return 'Online Reading Room' if public?
-    return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
+    return 'Accessible on location at GBH and the Library of Congress. ' if protected?
   end
   CORRECT_TRANSCRIPT = 'Correct'.freeze
   CORRECTING_TRANSCRIPT = 'Correcting'.freeze

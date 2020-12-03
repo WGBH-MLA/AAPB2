@@ -5,28 +5,28 @@
 The AAPB is an initiative to digitally preserve and make accessible
 public broadcasting radio and television programming, ensuring its collection,
 management, preservation, and access. In August 2013, the Corporation for
-Public Broadcasting selected WGBH and the Library of Congress as the permanent
+Public Broadcasting selected GBH and the Library of Congress as the permanent
 stewards of the AAPB collection. To date, almost 40,000 hours of historic public broadcasting radio and
-television content has been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection, consisting of 68,000 items (40,000 hours) is available for research [on location](/on-location) at WGBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not been digitized.
+television content has been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection, consisting of 68,000 items (40,000 hours) is available for research [on location](/on-location) at GBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not been digitized.
 
 ## What is available on the AAPB website?
 
 The AAPB website provides three layers of searching and browsing:
 
 - Users can access the [AAPB Online Reading Room](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=online), which provides online access to some of the digitized collection for private research, educational and informational purposes.
-- Users can [search metadata records for all 40,000 hours of digitized content](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized), including content that is available in the Online Reading Room and content that is only available for viewing and listening [on location](/on-location) at WGBH and the Library of Congress.
+- Users can [search metadata records for all 40,000 hours of digitized content](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized), including content that is available in the Online Reading Room and content that is only available for viewing and listening [on location](/on-location) at GBH and the Library of Congress.
 - Users can search search and browse the [2.5 million metadata records](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=all) that document public radio and television assets existing at more than 120 public media stations and archives across the country. Most of these assets have not been digitized.
 
 The AAPB has also curated [exhibits](/exhibits) that feature content on topics of historical significance.
 
-## I'm interested in accessing the entire digitized collection at WGBH or the Library of Congress, and I want to begin my search before traveling to one of the research locations. How can I tell if something was digitized in the AAPB?
+## I'm interested in accessing the entire digitized collection at GBH or the Library of Congress, and I want to begin my search before traveling to one of the research locations. How can I tell if something was digitized in the AAPB?
 
 After you conduct a search on the AAPB website, click the ["All Digitized"](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized) link below the Access filter on the left side of the page. This will display records for all 40,000 hours of digitized content.
 
 ## I want to conduct research using the entire AAPB collection. How can I do so?
 
 The entire AAPB collection, consisting of 68,000 items (40,000 hours), is available for research at
-WGBH in Boston and the Library of Congress in
+GBH in Boston and the Library of Congress in
 Washington, D.C. More information about on-location research policies and
 scheduling an appointment is available [here](/on-location).
 
@@ -36,7 +36,7 @@ AAPB staff are continuing to review the digitized content and add more material 
 
 ## Can I access collection material that is not available in the Online Reading Room?
 
-The entire collection is not available in the Online Reading Room due to rights and other legal restrictions; however, the entire collection is available on location at WGBH and the Library of Congress. In addition, you may request limited remote research access to materials that are not available in the Online Reading Room provided that such access is only for bona fide research and scholarly purposes. To request limited research access, please contact us at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org). Please be aware that while AAPB staff will attempt to respond to your request(s) within three (3) business days, it may take longer, and that not all AAPB materials are eligible for Limited Research Access. If your request(s) are approved, you will receive an email response providing unique URL(s) and password(s) to the content you have requested.
+The entire collection is not available in the Online Reading Room due to rights and other legal restrictions; however, the entire collection is available on location at GBH and the Library of Congress. In addition, you may request limited remote research access to materials that are not available in the Online Reading Room provided that such access is only for bona fide research and scholarly purposes. To request limited research access, please contact us at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org). Please be aware that while AAPB staff will attempt to respond to your request(s) within three (3) business days, it may take longer, and that not all AAPB materials are eligible for Limited Research Access. If your request(s) are approved, you will receive an email response providing unique URL(s) and password(s) to the content you have requested.
 
 ## Since it's public media, isn't it in the public domain?
 

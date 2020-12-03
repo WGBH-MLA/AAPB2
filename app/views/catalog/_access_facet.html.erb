@@ -14,7 +14,7 @@
       {
         value: PBCorePresenter::DIGITIZED_ACCESS,
         title: 'All Digitized',
-        info_text: 'All video and audio, available either online, or on location at WGBH or the Library of Congress.',
+        info_text: 'All video and audio, available either online, or on location at GBH or the Library of Congress.',
         order_class: 'second-access-facet' },
       {
         value: PBCorePresenter::ALL_ACCESS,
@@ -56,7 +56,7 @@
     $("input[type='checkbox']").click(function() {
       // trigger access facet on checkbox toggle -> chrome-specific fix
       $(this).parent()[0].click();
-    }); 
+    });
 
     $('[data-toggle="tooltip"]').tooltip();
   });
