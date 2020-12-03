@@ -127,17 +127,25 @@ class Downloader
 
       content = if @options[:is_just_reindex]
                   $LOG.info("Query solr for #{id}")
+                  # Check to see if the doc is on AAPB SOLR
                   # TODO: hostname and corename from config?
-                  Solr.instance.connect
-                      .get('select', params: {
-                             qt: 'document', id: id
-                           })['response']['docs'][0]['xml']
+                  results = Solr.instance.connect.get('select', params: { qt: 'document', id: id })['response']['docs']
+
+                  if results.empty?
+                    # Set content to nil if nothing found in SOLR
+                    $LOG.info("SOLR Query is nil. Skipping ID: #{id}")
+                    nil
+                  else
+                    # Return the XML
+                    results[0]['xml']
+                  end
                 else
                   url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
                   $LOG.info("Downloading #{url}")
                   http_get(url)
       end
-      Zipper.write("#{short_id}.pbcore", content)
+      # Only write content that we actually find
+      Zipper.write("#{short_id}.pbcore", content) unless content.nil?
     end
   end
 

@@ -9,10 +9,10 @@ class ThePBCoreCorrector
   TITLE_TYPES = ['series', 'program', 'episode', 'episode number', 'segment', 'clip', 'promo', 'raw footage'].freeze
   DESCRIPTION_TYPES = ['series', 'program', 'episode', 'segment', 'clip', 'promo', 'raw footage'].freeze
 
-  def initialize(guids)
+  def initialize(argv)
     log_init
     # Download the existing docs
-    @target_dirs = download(ids: guids)
+    @target_dirs = download(ids: File.readlines(argv[0]).map { |id| id.delete("\n") })
   end
 
   def run
@@ -122,3 +122,5 @@ class ThePBCoreCorrector
     ).run]
   end
 end
+
+ThePBCoreCorrector.new(ARGV).run
