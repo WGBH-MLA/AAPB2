@@ -4,7 +4,7 @@
 
 ![Pacifica Radio Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica.jpg "Pacifica Radio Collection”)
 
-![<em>Wall Street Week</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WSRE_1000.jpg "Wall Street Week")
+![Pacifica Radio Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica.jpg "Pacifica Radio Collection")
 
 ## Summary
 
