@@ -4,7 +4,7 @@
 
 ![Pacifica Radio Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica.jpg "Pacifica Radio Collection”)
 
-![Pacifica Radio Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica.jpg "Pacifica Radio Collection")
+![Pacifica Radio Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica1.jpg "Pacifica Radio Collection")
 
 ## Summary
 
