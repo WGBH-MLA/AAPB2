@@ -4,6 +4,8 @@
 
 ![Pacifica Radio Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica.jpg "Pacifica Radio Collection”)
 
+![<em>Wall Street Week</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WSRE_1000.jpg "Wall Street Week")
+
 ## Summary
 
 The Pacifica Radio Archives Collection is a selection of more than 300 historically significant programs produced by the Pacifica Network, a public radio network based in Berkeley, CA.  The programs, dating from the late 1950s to 1980, have been digitally preserved by the Pacifica Radio Archives. Much of the collection documents leading reform and radical movements of this period, emphasizing a common thread of social justice and covering cultural, educational, health-related, historical, legal, political, psychological, racial, religious, philosophical, and social aspects of our society. The collection offers interviews and addresses with Civil Rights and Black Power activists visiting the Berkeley area, including Rosa Parks, James Bevel, Fannie Lou Hamer, Ella Baker, and Stokely Carmichael, and beginning in the late 1960s covers Black Panther activities in the Bay Area. The Pacifica stations also embraced the performing and literary arts, providing a stage to experiment with radio drama, spoken word, sound sculpture and the art of radio documentary. 
