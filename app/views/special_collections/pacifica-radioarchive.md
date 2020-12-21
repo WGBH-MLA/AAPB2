@@ -28,7 +28,7 @@ This special collection was created by Ryan Lakin, graduate student at New York 
 ## Resources
 
 - [Pacifica Radio Archives Finding Aid](https://www.pacificaradioarchives.org/keyword-search)
-- [The Pacifica Radio/UC Berkeley Social Activism Project)]( https://guides.lib.berkeley.edu/pacifica)
+- [The Pacifica Radio/UC Berkeley Social Activism Project](https://guides.lib.berkeley.edu/pacifica)
 - [Pacifica Network](https://pacificanetwork.org/)
 - [Pacifica Radio Archives’ “From the Vault”](http://fromthevaultradio.org/home/)
 
@@ -36,7 +36,7 @@ This special collection was created by Ryan Lakin, graduate student at New York 
 
 ## Help
 
-The entire Pacifica Radio Archives Collection is accessible on location at WGBH and the Library of Congress. As of October 2020, 233 programs are available in the AAPB Online Reading Room. Each metadata record contains information about the content of the program. Programs can be filtered by genre or topics covered. To expand your search to include metadata records for all digitized programs (including those not accessible in the AAPB Online Reading Room), select the “All Digitized” facet on the search results page.
+The entire Pacifica Radio Archives Collection is accessible on location at WGBH and the Library of Congress. As of December 2020, 313 programs are available in the AAPB Online Reading Room. Each metadata record contains information about the content of the program. Programs can be filtered by genre or topics covered. To expand your search to include metadata records for all digitized programs (including those not accessible in the AAPB Online Reading Room), select the “All Digitized” facet on the search results page.
 
 ## Terms
 
