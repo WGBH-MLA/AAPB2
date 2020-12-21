@@ -2,8 +2,6 @@
 
 ## Thumbnail
 
-![Pacifica Radio Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica.jpg "Pacifica Radio Collection”)
-
 ![Pacifica Radio Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/Pacifica1.jpg "Pacifica Radio Collection")
 
 ## Summary
@@ -23,7 +21,7 @@ This special collection was created by Ryan Lakin, graduate student at New York 
 [![Rosa Parks](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_28-kw57d2qp45)
 [![The Lesbian Underground](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_28-zp3vt1h719)
 [![James Baldwin](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_28-vm42r3ph61)
-[![Homosexuality in Society](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/ cpb-aacip_28-3n20c4st80)
+[![Homosexuality in Society](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_28-3n20c4st80)
 [![Black Panthers](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_28-4b2x34mw6g)
 [![Radio Free Alcatraz](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_28-5717m0482m)
 
