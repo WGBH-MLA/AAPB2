@@ -10,16 +10,33 @@ describe CiToAWSTransfer do
     allow_any_instance_of(RSolr::Client).to receive(:get).and_return(
       "responseHeader" => { "status" => 0, "QTime" => 1, "params" => { "q" => "", "wt" => "ruby" } }, "response" => { "numFound" => 1, "start" => 0, "docs" => [{ "id" => "cpb-aacip-512-w66930pv96", "xml" => xml, "title" => "Nixon Impeachment Hearings; 2; 1974-07-24; Part 3 of 3", "asset_date" => "1974-07-24T00:00:00Z", "playlist_order" => "3", "timestamp" => "2020-12-21T17:00:31.208Z" }] }
     )
+
+    ci_instance = instance_double("SonyCiBasic", download: "https://www.sonyci.com/this-is-a-download-url")
+    allow(SonyCiBasic).to receive(:new).with(credentials_path: Rails.root + 'config/ci.yml').and_return(ci_instance)
+
+    aws_client_instance = instance_double("Aws::S3::Client")
+    allow(Aws::S3::Client).to receive(:new).and_return(aws_client_instance)
   end
 
-  let(:aws_transfer) { CiToAWSTransfer.new(query: '') }
+  describe '#initialize' do
+    context 'without a query specified' do
+      let(:aws_transfer) { CiToAWSTransfer.new(query: '') }
 
-  it '#initialize' do
-    expect{ CiToAWSTransfer.new }.to raise_error(RuntimeError, /query cannot be nil/)
-    expect(aws_transfer.solr_docs.first['id']).to eq("cpb-aacip-512-w66930pv96")
-    expect(aws_transfer.ci).to be_an_instance_of(SonyCiBasic)
-    expect(aws_transfer.aws_client).to be_an_instance_of(Aws::S3::Client)
+      it 'raises an error' do
+        expect{ CiToAWSTransfer.new }.to raise_error(RuntimeError, /query cannot be nil/)
+      end
+    end
+
+    context 'with a query specified' do
+      let(:aws_transfer) { CiToAWSTransfer.new(query: 'things:thing') }
+
+      it 'has an expected solr_docs attribute' do
+        expect(aws_transfer.solr_docs.first['id']).to eq("cpb-aacip-512-w66930pv96")
+      end
+
+      it 'has an expected path attribute' do
+        expect(aws_transfer.path).to match(/tmp\/downloads\/\d{4}-\d{2}-\d{2}_sony_ci_downloads/)
+      end
+    end
   end
-
-
 end

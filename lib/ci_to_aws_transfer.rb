@@ -21,30 +21,25 @@ class CiToAWSTransfer
   end
 
   def run!
-    download_from_ci
-    upload_to_aws
-    # Remove download dir
-    FileUtils.rm_rf(@path)
+    mkdir_and_cd
+    records_to_download.each do |record|
+      download_from_ci(record)
+    end
+    upload_files_to_aws
+    delete_download_dir
   end
 
   private
-
-  def download_from_ci
-    mkdir_and_cd
-
-    records_to_download.each do |rec|
-      iteration = 1
-      rec[:ci_ids].each do |id|
-        filename = rec[:media_type] == "Moving Image" ? "#{rec[:id]}-#{iteration}.mp4" : "#{rec[:id]}-#{iteration}.mp3"
-        FileUtils.mv open(ci.download(id)), filename
-      end
-    end
-  end
 
   def mkdir_and_cd
     Dir.chdir(Rails.root)
     FileUtils.mkdir_p(@path)
     Dir.chdir(@path)
+  end
+
+  def delete_download_dir
+    Dir.chdir(Rails.root)
+    FileUtils.rm_rf(@path)
   end
 
   def records_to_download
@@ -56,12 +51,31 @@ class CiToAWSTransfer
     records
   end
 
-  def upload_to_aws
+  def download_from_ci(record)
+    iteration = 1
+    record[:ci_ids].each do |id|
+      filename = record[:media_type] == "Moving Image" ? "#{record[:id]}-#{iteration}.mp4" : "#{record[:id]}-#{iteration}.mp3"
+      FileUtils.mv open(ci.download(id)), filename
+    end
+  rescue => e
+    msg = e.class.to_s
+    msg += ": #{e.message}" unless e.message.empty?
+    puts "Error downloading media file from Sony Ci '#{record[:id]}'. #{msg}"
+  end
+
+  def upload_files_to_aws
     files = Dir[Rails.root.to_path + '/' + path + '/*']
-    s3 = Aws::S3::Resource.new(client: aws_client)
     files.each do |file|
-      s3.bucket('americanarchive.org').object(path.split('/').last + file.split('/')[-1]).upload_file(file)
+      upload_file_to_s3(file)
     end
   end
 
+  def upload_file_to_s3(file)
+    s3 = Aws::S3::Resource.new(client: aws_client)
+    s3.bucket('americanarchive.org').object(path.split('/').last + '/' + file.split('/')[-1]).upload_file(file)
+  rescue => e
+    msg = e.class.to_s
+    msg += ": #{e.message}" unless e.message.empty?
+    puts "Error uploading media file to S3 '#{file}'. #{msg}"
+  end
 end
