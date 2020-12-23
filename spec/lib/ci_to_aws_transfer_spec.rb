@@ -3,7 +3,6 @@ require_relative '../../lib/transcript_downloader'
 require 'fileutils'
 
 describe CiToAWSTransfer do
-
   before(:each) do
     xml = File.read('./spec/fixtures/pbcore/clean-playlist-3.xml')
 
@@ -19,20 +18,16 @@ describe CiToAWSTransfer do
   end
 
   describe '#initialize' do
-    context 'without a query specified' do
+    context 'without expected params' do
       let(:aws_transfer) { CiToAWSTransfer.new(query: '') }
 
       it 'raises an error' do
-        expect{ CiToAWSTransfer.new }.to raise_error(RuntimeError, /query cannot be nil/)
+        expect { CiToAWSTransfer.new }.to raise_error(RuntimeError, /query cannot be nil/)
       end
     end
 
-    context 'with a query specified' do
+    context 'with params' do
       let(:aws_transfer) { CiToAWSTransfer.new(query: 'things:thing') }
-
-      it 'has an expected solr_docs attribute' do
-        expect(aws_transfer.solr_docs.first['id']).to eq("cpb-aacip-512-w66930pv96")
-      end
 
       it 'has an expected path attribute' do
         expect(aws_transfer.path).to match(/tmp\/downloads\/\d{4}-\d{2}-\d{2}_sony_ci_downloads/)

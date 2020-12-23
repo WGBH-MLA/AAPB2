@@ -10,14 +10,14 @@ class CiToAWSTransfer
 
   def initialize(query:nil)
     raise 'query cannot be nil' if query.nil?
-    @solr_docs = Solr.instance.connect.get('select', params: { fq: "#{query}", rows: 5_000 })['response']['docs']
+    @solr_docs = Solr.instance.connect.get('select', params: { fq: query.to_s, rows: 5_000 })['response']['docs']
     @ci = SonyCiBasic.new(credentials_path: Rails.root + 'config/ci.yml')
     @aws_client = Aws::S3::Client.new(
       access_key_id: ENV['AWS_ACCESS_KEY_ID'],
       secret_access_key: ENV['AWS_SECRET_ACCESS_KEY'],
       region: ENV['AWS_REGION']
     )
-    @path = "tmp/downloads/#{DateTime.now.strftime("%F")}_sony_ci_downloads"
+    @path = "tmp/downloads/#{DateTime.now.strftime('%F')}_sony_ci_downloads"
   end
 
   def run!
