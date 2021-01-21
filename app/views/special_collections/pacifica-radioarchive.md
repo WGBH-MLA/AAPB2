@@ -46,7 +46,7 @@ The entire Pacifica Radio Archives Collection is accessible on location at WGBH 
 
 ## Sort
 
-date+asc
+asset_date+asc
 
 
 
