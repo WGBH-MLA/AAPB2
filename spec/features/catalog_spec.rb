@@ -217,10 +217,10 @@ describe 'Catalog' do
           # commenting out as this appears to be standard Blacklight functionality
           # expect_count(43, page.text)
           # expect(page).to have_text('You searched for: Access all'), missing_page_text_custom_error('You searched for: Access all', page.current_path)
-          expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
+          expect(page).to have_field('KQED__CA_', checked: false)
           # turn on
           click_link('KQED (CA)')
-          expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
+          expect(page).to have_field('KQED__CA_', checked: true)
           expect_count(3, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
