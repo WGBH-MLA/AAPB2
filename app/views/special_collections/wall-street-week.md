@@ -16,12 +16,12 @@ W$W examined the economic news from the US and abroad and looked at changes, cha
 
 ## Featured
 
-[![Karen P. Gibbs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-881jx8bt.jpg)](/catalog/cpb-aacip_394-881jx8bt)
-[![Paul Volcker](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-278sfhm2.jpg)](/catalog/cpb-aacip_394-278sfhm2)
-[![Milton Friedman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-36h18kvn.jpg)](/catalog/cpb-aacip_394-36h18kvn)
-[![Akio Morita](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-37vmd4qc.jpg)](/catalog/cpb-aacip_394-37vmd4qc)
-[![Steve Jobs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-22v41xnm.jpg)](/catalog/cpb-aacip_394-22v41xnm)
-[![Walter E. Williams](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-57np5x9q.jpg)](/catalog/cpb-aacip_394-57np5x9q)
+[![Karen P. Gibbs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-881jx8bt_1.jpg)](/catalog/cpb-aacip_394-881jx8bt)
+[![Paul Volcker](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-278sfhm2_1.jpg)](/catalog/cpb-aacip_394-278sfhm2)
+[![Milton Friedman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-36h18kvn_1.jpg)](/catalog/cpb-aacip_394-36h18kvn)
+[![Akio Morita](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-37vmd4qc_1.jpg)](/catalog/cpb-aacip_394-37vmd4qc)
+[![Steve Jobs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-22v41xnm_1.jpg)](/catalog/cpb-aacip_394-22v41xnm)
+[![Walter E. Williams](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-57np5x9q_1.jpg)](/catalog/cpb-aacip_394-57np5x9q)
 
 ## Resources
 
