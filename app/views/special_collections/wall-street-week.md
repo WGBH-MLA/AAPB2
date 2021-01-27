@@ -16,12 +16,12 @@ W$W examined the economic news from the US and abroad and looked at changes, cha
 
 ## Featured
 
-[![Karen P. Gibbs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-04feed33aa1.jpg)](/catalog/cpb-aacip_394-881jx8bt)
-[![Paul Volcker](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-4e864e92211.jpg)](/catalog/cpb-aacip_394-278sfhm2)
-[![Milton Friedman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-eb591df9d04.jpg)](/catalog/cpb-aacip_394-36h18kvn)
-[![Akio Morita](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-a1537810650.jpg)](/catalog/cpb-aacip_394-37vmd4qc)
-[![Steve Jobs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-97258801287.jpg)](/catalog/cpb-aacip_394-22v41xnm)
-[![Walter E. Williams](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-822a8b11e3c.jpg)](/catalog/cpb-aacip_394-57np5x9q)
+[![Karen P. Gibbs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-881jx8bt.jpg)](/catalog/cpb-aacip_394-881jx8bt)
+[![Paul Volcker](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-278sfhm2.jpg)](/catalog/cpb-aacip_394-278sfhm2)
+[![Milton Friedman](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-36h18kvn.jpg)](/catalog/cpb-aacip_394-36h18kvn)
+[![Akio Morita](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-37vmd4qc.jpg)](/catalog/cpb-aacip_394-37vmd4qc)
+[![Steve Jobs](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-22v41xnm.jpg)](/catalog/cpb-aacip_394-22v41xnm)
+[![Walter E. Williams](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_394-57np5x9q.jpg)](/catalog/cpb-aacip_394-57np5x9q)
 
 ## Resources
 
@@ -31,8 +31,8 @@ W$W examined the economic news from the US and abroad and looked at changes, cha
 - [Maryland Public Television Records, University of Maryland Libguide](https://archives.lib.umd.edu/repositories/2/resources/501)
 - [<em>Wall $treet Week</em>, Bloomberg](https://www.bloomberg.com/series/wall-street-week)
 - [Bloomberg will Revive ‘Wall Street Week,’ Variety](https://variety.com/2020/tv/news/bloomberg-wall-street-week-david-westin-1203462740/)
-- [Wall $treet Week, Forbes](https://www.forbes.com/sites/wallstreetweek/#2c59a1157ec0)
-- [Louis Rukeyser Obit, Chicago Tribune](https://www.chicagotribune.com/zap-louisrukeyserobit050306-story.html)
+- [<em>Wall $treet Week</em>, Forbes](https://www.forbes.com/sites/wallstreetweek/#2c59a1157ec0)
+- [Louis Rukeyser Obituary, Chicago Tribune](https://www.chicagotribune.com/zap-louisrukeyserobit050306-story.html)
 
 ## Help
 
