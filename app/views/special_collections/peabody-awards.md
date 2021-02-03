@@ -18,7 +18,7 @@ The BMA was established in 1995, with the Peabody Awards Collection as the basis
 [![Zoom](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-89r22rvt.jpg)](/catalog/cpb-aacip_15-89r22rvt)
 [![A Thirst in the Garden](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_526-p843r0r27w.jpg)](/catalog/cpb-aacip-526-p843r0r27w)
 [![Local Color](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_153-63fxpwp3.jpg)](/catalog/cpb-aacip-153-63fxpwp3)
-[![The Great Spirit within the Hole](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-77-44bp0mdh)
+[![The Great Spirit within the Hole](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_77-44bp0mdh.jpg)](/catalog/cpb-aacip-77-44bp0mdh)
 [![Antarctica: Desert of Ice](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_526-x639z91q27.jpg)](/catalog/cpb-aacip-526-x639z91q27)
 
 ## Resources
