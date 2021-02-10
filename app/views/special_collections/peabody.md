@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Peabody Awards Collection](add image link here "Peabody Awards Collection") get a main image
+![Peabody Awards Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/peabody_banquet.jpg "Peabody Awards Collection")
 
 ## Summary
 
