@@ -1,5 +1,4 @@
 require 'rails_helper'
-require_relative '../support/validation_helper'
 require_relative '../support/feature_test_helper'
 
 describe 'robots.txt' do

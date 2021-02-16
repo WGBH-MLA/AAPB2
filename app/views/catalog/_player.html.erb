@@ -1,16 +1,14 @@
 <% content_for :video do %>
   <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
-  <script data-turbolinks-tracks="false" src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
+  <script src="https://vjs.zencdn.net/7.2.3/video.js" ></script>
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
-  <script data-turbolinks-tracks="false" src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
+  <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js" ></script>
+
+  <%= javascript_include_tag 'videojs-offset.min' %>
   <%= javascript_include_tag 'transcript' %>
   <%= javascript_include_tag 'mobile-transcript' %>
   <%= javascript_include_tag 'player' %>
-<% end %>
 
-<% content_for :head do %>
-  <!-- without this, record page will fail to *initially* load/execute player.js -->
-  <meta name="turbolinks-visit-control" content="reload">
 <% end %>
 
 <!-- player or thumbnail or message -->
@@ -40,7 +38,7 @@
 
               <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
 
-              <% if @pbcore.captions_src %>
+              <% unless @caption_file.captions_src.nil? %>
                 <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
               <% end %>
               <% if ChapterFile.file_present?(@pbcore.id) %>
@@ -54,10 +52,31 @@
 
         <div class="row">
           <div class="col-md-12">
-            <button id="skip-back" class="skip-button">◀◀ 10s</button>
-            <button id="skip-forward" class="skip-button">▶▶ 10s</button>
+            <%= render partial: 'time_range' %>
           </div>
         </div>
+
+        <div class="row">
+          <div class="col-md-12">
+
+            <button id="skip-back" class="player-button skip-button">◀◀ 10s</button>
+            <button id="skip-forward" class="player-button skip-button">10s ▶▶</button>
+
+            <% if @pbcore.seconds > 0 %>
+              <span id="time-range-switch-container">
+                <label class="switch">
+                  <input id="time-range-switch" type="checkbox">
+                  <span class="slider round"></span>
+                </label>
+
+                <span style="font-size: 12px;">Share a Segment</span>
+              </span>
+            <% end %>
+          </div>
+        </div>
+
+        <%= render partial: 'share_modal' %>
+
       </div>
 
     <div class="hidden-sm hidden-xs">
@@ -91,7 +110,7 @@
   <% if @pbcore.public? && !current_user.usa? %>
     Please note: This content is currently not available at your location.
   <% elsif @pbcore.protected? %>
-    Please note: This content is only available at WGBH and the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
+    Please note: This content is only available at GBH and the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
   <% elsif @pbcore.private? %>
     Please note: This content is only available at the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
   <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>

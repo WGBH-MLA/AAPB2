@@ -1,130 +1,156 @@
-# Quotes are optional, unless the string contains colons.
-# If the image is sitting in the expected place on the media server,
-# "thumbnail_url" can be omitted.
+# - Quotes are optional, unless the string contains colons.
+# - MSWord open/close quotes will make this file and the homepage, fail to load
+# - thumbnail_url must refer to either the full s3 path of the desired image, or a local image on the Society
+# - if you do not enter a thumbnail_url, the server will look for an image in the 'featured' folder in s3
+# - the image must be a .jpg file, located in the 'featured' folder of the americanarchive.org s3 bucket, with a filename that follows the format <guid>_gallery.jpg
+# - all image files must be made public in S3
+# - #at_<time>_s options cannot be appended to the :id property UNLESS a thumbnail_url is also specified for the image. otherwise, the path to the featured image for will be malformed and not load
 
-- id: cpb-aacip_221-0322853m
-  org_name: PBS SoCal
-  name: "Equal Rights Amendment: Is it Necessary?"
+- id: cpb-aacip_15-2804x55k2c
+  org_name: WGBH
+  name: "To the Moon: Interview with Buzz Aldrin"
 
-- id: cpb-aacip_28-3n20c4st80
+- id: cpb-aacip_508-td9n29q276
+  org_name: Vision Maker Media
+  name: "Surviving Columbus: The Story of the Pueblo People"
+
+- id: cpb-aacip_28-kw57d2qp45
   org_name: Pacifica Radio Archives
-  name: "Homosexual in our Society (1958)"
+  name: "Commentary of a Black Southern Bus Rider / Rosa Parks"
   thumbnail_url: /thumbs/audio-digitized.jpg
 
-- id: cpb-aacip_304-579s52r5
-  org_name: WUSF
-  name: "Superbugs: The Killer Viruses"
+- id: cpb-aacip_524-d50ft8fj2h
+  org_name: Nashville Public Televisionn
+  name: "A Word on Words: Julia Child"
 
-- id: cpb-aacip_322-04dnck6t
+- id: cpb-aacip_37-010p2nvv
+  org_name: Iowa Public Television
+  name: "Promise City"
+
+- id: cpb-aacip_15-99p2w600
+  org_name: WGBH
+  name: "Say Brother: Black Power on University Campuses"
+
+- id: cpb-aacip_322-01bk3jtv
   org_name: WEDU
-  name: "WEDU Interview: Bill Moyers"
+  name: "WEDU Interview: Jimmy Carter"
 
-- id: cpb-aacip_304-16c2g2nd
-  org_name: WUSF
-  name: "Deepwater Horizon: One Year Later"
+- id: cpb-aacip_512-b853f4mj6h
+  org_name: National Educational Television
+  name: "African Writers of Today: Chinua Achebe"
 
-- id: cpb-aacip_333-19f4qtr6
-  org_name: PBS Guam
-  name: "Handicapable: Why Not Me"
-
-- id: cpb-aacip_328-77sn09w0
-  org_name: Idaho Public Television
-  name: "Idaho Reports: Right to Work"
-
-- id: cpb-aacip_75-93gxddpx
-  org_name: Thirteen WNET
-  name: "New York Voices: Voices of Immigrants Post 9/11"
-
-- id: cpb-aacip_28-bg2h70895r
-  org_name: Pacifica Radio Archives
-  name: "Fannie Lou Hamer Interview"
+- id: cpb-aacip_500-b27psr9n
+  org_name: University of Maryland
+  name: "Bluegrass and Mountains: Work Songs in Old Time Music"
   thumbnail_url: /thumbs/audio-digitized.jpg
 
-- id: cpb-aacip_37-83xsjcdw
-  org_name: Iowa Public Television
-  name: "The Mischkiets: Holocaust Survivors"
+- id: cpb-aacip_221-053ffh76
+  org_name: KOCE
+  name: "Voter's Pipeline: Vietnam Refugees in Orange County"
 
-- id: cpb-aacip_17-117m16jx
-  org_name: Louisiana Public Broadcasting
-  name: "WWII Oral History with George C. Henry"
-
-- id: cpb-aacip_245-97xkt033
-  org_name: Maine Public Broadcasting Network
-  name: "Interview with Margaret Chase Smith"
-
-- id: cpb-aacip_500-9z90dj38
-  org_name: WUOM for the National Association of Educational Broadcasters
-  name: "The American Town: A Self-Portrait; Lancaster County, Pennsylvania"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-
-- id: cpb-aacip_500-dz03342k
-  org_name: National Association of Educational Broadcasters
-  name: "Panel Discussion on the Public Broadcasting Act of 1967"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-
-- id: cpb-aacip_15-qn5z60c97r
-  org_name: WGBH
-  name: "Harvard Law Student Barack Obama Defends Professor at Rally"
-
-- id: cpb-aacip_305-36tx99jd
+- id: cpb-aacip_305-34sj3z88
   org_name: New England Public Radio
-  name: "Lecture by Professor Howard Zinn on 'The New Student Radicalism'"
+  name: "Ayn Rand Lecture on 'A Nation's Unity'"
   thumbnail_url: /thumbs/audio-digitized.jpg
 
-- id: cpb-aacip_15-b853f4kv16
-  org_name: WGBH
-  name: "Interview with Nguyen Cao Ky"
-
-- id: cpb-aacip_81-48sbchx0
-  org_name: WNED
-  name: "Woman; Women's Health Care: A History"
-
-- id: cpb-aacip_15-9fj29c7n
-  org_name: WGBH
-  name: "Interview with Presidential Candidate George Wallace"
-
-- id: cpb-aacip_153-44bp0159
-  org_name: Oregon Public Broadcasting
-  name: "Henry Kissinger on Foreign Affairs"
-  thumbnail_url: /thumbs/audio-digitized.jpg
-
-- id: cpb-aacip_16-322bvw0h
-  org_name: WILL Illinois Public Media
-  name: "Access to Life: Perspectives on the Americans with Disabilities Act"
-
-- id: cpb-aacip_507-gf0ms3kn9k
+- id: cpb-aacip_507-m901z42p01
   org_name: NewsHour Productions
-  name: "The Robert MacNeil Report: I.F. Stone"
+  name: "The MacNeil/Lehrer Report: Latino Power"
 
-- id: cpb-aacip_15-03qv9zz4
+- id: cpb-aacip_120-70zpcgr3
+  org_name: National Educational Television and WQED
+  name: "Creative Person: Fred Rogers"
+
+- id: cpb-aacip_512-2r3nv9b09w
+  org_name: National Educational Television and KQED
+  name: "Take This Hammer"
+
+- id: cpb-aacip_81-021c5bwq
+  org_name: WNED
+  name: " Woman; 107; Equal Rights Amendment, Part 2"
+
+- id: cpb-aacip_15-80ht7n4v
   org_name: WGBH
-  name: "Debate on the Women's Liberation Movement Between Germaine Greer and William F. Buckley"
+  name: "The Press and the People: The Responsibilities of Television"
+
+- id: cpb-aacip_512-125q815g35
+  org_name: National Educational Television
+  name: "Earth Day"
+
+- id: cpb-aacip_512-707wm14j8q
+  org_name: National Educational Television & WGBH
+  name: "Elliot Norton Interviews: Tallulah Bankhead"
+
+- id: cpb-aacip_512-tm71v5cj66
+  org_name: National Educational Television & WNDT
+  name: "Great Decisions 1965: The UN at Twenty"
+
+- id: cpb-aacip_516-kd1qf8kh4s
+  org_name: William Greaves Productions
+  name: "NET Journal; Still A Brother: Inside the Negro Middle Class"
+
+- id: cpb-aacip_516-k93125rc20
+  org_name: National Educational Television
+  name: "LBJ: An Unposed Profile"
+
+- id: cpb-aacip_15-27zkhbbv
+  org_name: WGBH
+  name: "What's Happening Mr. Silver; William F. Buckley, Jr."
+
+- id: cpb-aacip_151-tq5r786k9m
+  org_name: Film and Media Archive, Washington University in St. Louis
+  name: "Eyes on the Prize: Interview with Diane Nash"
+
+- id: cpb-aacip_507-cc0tq5s22t
+  org_name: NewsHour Productions
+  name: "The Robert MacNeil Report: Transexuality and Sports"
+
+- id: cpb-aacip_375-49g4fb2h
+  org_name: Radio Bilingüe
+  name: "Línea Abierta: The Meaning of July 4th for Latinos"
   thumbnail_url: /thumbs/audio-digitized.jpg
 
-- id: cpb-aacip_153-472v749x
-  org_name: Oregon Public Broadcasting
-  name: "Speech by President George W. Bush in Portland, Oregon"
+- id: cpb-aacip_522-dn3zs2m903
+  org_name: CUNY-TV
+  name: "Jewish Women in America: Amy Goodman of ‘Democracy Now!’"
 
-- id: cpb-aacip_37-20sqvcx0
-  org_name: Iowa Public Television
-  name: "President Nixon's Visit to Iowa in 1971"
-
-- id: cpb-aacip_260-42n5tgf3
-  org_name: Wyoming PBS
-  name: "Main Street, Wyoming: Sacred Sites"
-
-- id: cpb-aacip_60-70msbm1d
-  org_name: Mississippi Public Broadcasting
-  name: "Conversations: International Museum of Muslim Cultures"
-
-- id: cpb-aacip_41-881jxfq8
-  org_name: South Carolina ETV
-  name: "Interview with Governor Bill Clinton of Arkansas"
-
-- id: cpb-aacip_37-97kps40n
-  org_name: Iowa Public Television
-  name: "Interview with Presidential Candidate Rev. Jesse Jackson"
-
-- id: cpb-aacip_15-hd7np1wp4c
+- id: cpb-aacip_15-057cr5nc5k
   org_name: WGBH
-  name: "Michael Dukakis Declares Presidential Candidacy"
+  name: "Prospects of Mankind with Eleanor Roosevelt; What Status For Women?’"
+
+- id: cpb-aacip_83-407wmf7g
+  org_name: PBS Utah
+  name: "One More Harvest"
+  
+- id: cpb-aacip_17-440rztqd
+  org_name: Louisiana Public Broadcasting
+  name: "Festivals Acadiens"
+
+- id: cpb-aacip_509-2r3nv99t98
+  org_name: Florentine Films
+  name: "The Civil War; Interview with Barbara Fields"
+
+- id: cpb-aacip_512-w37kp7vq3t#at_310.00_s
+  org_name: WETA-TV
+  name: "1974 Nixon Impeachment Hearings; Rep. Barbara Jordan"
+  thumbnail_url: https://s3.amazonaws.com/americanarchive.org/featured/cpb-aacip_512-w37kp7vq3t_gallery.jpg
+
+- id: cpb-aacip_516-g44hm53h63
+  org_name: National Educational Television and Radio Center
+  name: "Public Broadcast Laboratory; University in Society: Do the Ties Bind?"
+
+- id: cpb-aacip_512-gb1xd0rs11
+  org_name: WNET
+  name: "Black Journal; Justice?"
+
+- id: cpb-aacip_260-93ttf7n8
+  org_name: Wyoming PBS
+  name: "Main Street, Wyoming; Women in Wyoming Politics"
+
+- id: cpb-aacip_15-33rv1gdz
+  org_name: WGBH
+  name: "A Woman's Place Is In The House: A Portrait of Elaine Noble"
+
+- id: cpb-aacip_75-257d807m
+  org_name: WNET
+  name: "Assignment America; Sissy Farenthold: A Texas Maverick"

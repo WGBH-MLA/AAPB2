@@ -20,6 +20,14 @@
       </div>
     </div>
   </div>
+  <% if !@special_collection.timeline_html.empty? %>
+    <div class="row collection-timeline-row">
+      <div class="col-md-12 collection-timeline-col">
+        <h2><%= @special_collection.timeline_title.html_safe %></h2>
+        <%= @special_collection.timeline.html_safe %>
+      </div>
+    </div>
+  <% end %>
   <div class="row">
     <div class="col-md-6 col-md-push-6">
       <% if !@special_collection.featured_items.empty? %>
@@ -79,3 +87,5 @@
            } %>
 
 <%= render partial: 'shared/basic_modal', locals: { modal_id: "searchHelpModal", title: "Need Help Searching?", body: @special_collection.help_html.html_safe } %>
+
+<%= render partial: 'shared/basic_modal', locals: { modal_id: "timelineModal", title: "View a timeline", body: @special_collection.timeline_html.html_safe } %>

@@ -1,6 +1,6 @@
 # Africans in America Interviews
 
-## Thumbnail
+## Thumbnail 
 
 ![Africans in America](https://s3.amazonaws.com/americanarchive.org/special-collections/africans-in-america.jpg "Africans in America")
 
@@ -25,9 +25,10 @@ The <em>Africans in America</em> interviews were conducted in 1998 for the four-
 
 - [<em>Africans in America</em> Documentary Website](http://www.pbs.org/wgbh/aia/home.html)
 - [African American Archive at the National Archives](https://www.archives.gov/research/african-americans)
+- [The African American Odyssey: A Quest For Full Citizenship](https://www.loc.gov/exhibits/african-american-odyssey/reconstruction.html)
 - [African American History Digital Collections, Library of Congress](https://www.loc.gov/collections/?fa=subject%3Aafrican+american+history)
-- [Hutchins Center for African & African American Research](http://dubois.fas.harvard.edu/)
-- [African American History, American Memory Project, Library of Congress](https://memory.loc.gov/ammem/browse/ListSome.php?category=African%20American%20History)
+- [Hutchins Center for African & African American Research, Harvard University](https://hutchinscenter.fas.harvard.edu/)
+- [Black History Collection, Library of Congress](https://www.loc.gov/item/mm82057687/)
 
 ## Funders
 
@@ -38,6 +39,8 @@ Records are described at an item level and all records contain brief description
 Seven of the recordings in the collection are multi-part conversations with a single interviewee.
 
 ## Terms
+
+## Timeline
 
 ## Sort
 

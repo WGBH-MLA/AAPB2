@@ -1,4 +1,4 @@
-$( document ).on('turbolinks:load', function() {
+$(function() {
 
     // Bind all input elements with class datepicker to datepicker plugin
     $( "input.datepicker" ).datepicker({

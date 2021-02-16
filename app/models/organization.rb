@@ -1,5 +1,5 @@
-require_relative '../../lib/markdowner'
 require_relative '../../lib/aapb'
+require_relative '../../lib/markdowner'
 require_relative 'state'
 require 'yaml'
 require 'cgi'
@@ -17,6 +17,10 @@ class Organization < Cmless
 
   def self.clean(html)
     CGI.unescape(html.gsub(/<[^>]+>/, ''))
+  end
+
+  def self.clean_organization_names(organization_names)
+    organization_names.map { |name| name.include?("\n") ? name.delete!("\n").split.join(" ") : name }
   end
 
   def id
@@ -52,13 +56,17 @@ class Organization < Cmless
     @city ||= Organization.clean(city_html)
   end
 
+  def facet_url
+    digitized_records? ? "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) : "/catalog?f[contributing_organizations][]=" + CGI.escape(facet) + "&f[access_types[]=all"
+  end
+
   def short_name
     # this is really hacky, but the redcarpet gem for in cmless
     # for interpreting md was not recognizing the escaped ampersand
     # and a literal ampersand would display as a '&amp;'
     # fix should probably be in cmless with an update of redcarpet
     # but we're punting that for now.
-    @short_name ||= Organization.clean(short_name_html).gsub('&amp;', '&')
+    @short_name ||= Organization.clean(short_name_html).gsub("&amp;", "&")
   end
 
   def urls
@@ -86,10 +94,16 @@ class Organization < Cmless
   end
 
   def self.build_organization_names_display(organizations)
-    organizations.map { |org| org.short_name_html.gsub(/<[^>]*>/, '') }
+    organizations.map(&:short_name)
   end
 
   def to_a
     [short_name, city, state]
+  end
+
+  private
+
+  def digitized_records?
+    Solr.instance.connect.get('select', params: { q: "contributing_organizations:\"#{facet}\"", fq: "access_types:\"digitized\"" })['response']['numFound'].to_i > 0 ? true : false
   end
 end

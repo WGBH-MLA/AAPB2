@@ -3,7 +3,13 @@ require 'rails_helper'
 require 'sony_ci_api'
 require 'tmpdir'
 
+# TODO: was this test broken when we switche Ci credentials?
+
 describe 'Media URLs', not_on_travis: true do
+  before(:all) do
+    PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-MOCK.xml')
+  end
+
   let(:file_content) { 'lorem ipsum' }
 
   def safe_ci
@@ -21,8 +27,8 @@ describe 'Media URLs', not_on_travis: true do
       ci_id = ci.upload(path, log_path)
 
       pbcore = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
-      pbcore.gsub!('1234</pbcoreIdentifier>',
-                   "1234</pbcoreIdentifier><pbcoreIdentifier source='Sony Ci'>#{ci_id}</pbcoreIdentifier>")
+      pbcore.gsub!('cpb-aacip-1234</pbcoreIdentifier>',
+                   "cpb-aacip-1234</pbcoreIdentifier><pbcoreIdentifier source='Sony Ci'>#{ci_id}</pbcoreIdentifier>")
 
       ingester = PBCoreIngester.new
       ingester.delete_all
@@ -49,7 +55,7 @@ describe 'Media URLs', not_on_travis: true do
     curl.body_str
   end
 
-  let(:media_url) { 'http://localhost:3000/media/1234' }
+  let(:media_url) { 'http://localhost:3000/media/cpb-aacip-1234' }
 
   context 'when referer is http://americanarchive.org' do
     it 'returns the media object from Sony Ci' do

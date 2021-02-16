@@ -1,13 +1,13 @@
 <% if media_info[:type] == 'video' || media_info[:type] == 'audio' %>
 
-  <div class="player exgal-modal-height" <%= modal ? 'style="height: 50vh;"' : '' %>>
-    <section class="videocontent exhibit-player" <%= modal ? 'style="height: 50vh;"' : '' %>>
+  <div class="player exgal-player-container exgal-modal-height"  style="position: relative;">
+    <section class="videocontent exhibit-player">
       <%=
         
         content_tag(media_info[:type],
+                    id: "video-#{index}",
                     controls: true,
-                    "style" => "#{modal ? 'height: 50vh;width: 100%;' : ''}",
-                    "class" => "exhibit-player-obj video-js vjs-default-skin #{modal ? 'exhibit-player-modal' : 'vjs-4-3'}",
+                    "class" => "gallery-videoplayer video-js vjs-default-skin",
                     # "id" => "player_media",
                     "aria-label" => "video player",
                     oncontextmenu: 'return false;',
@@ -31,14 +31,13 @@
 
   </div>
 <% elsif media_info[:type] == 'image' %>
-  <div class="exgal-modal-height <%= modal ? '' : 'four-three-box' %>" style="height: 100%; background-color: #000; background-image: url('<%= media_info[:url] %>'); background-size: contain; background-repeat: no-repeat;<%= modal ? 'background-position: center center;' : '' %>"></div>
+  <div class="exgal-player-container exgal-modal-height exgal-image" style="background-color: #000; background-image: url('<%= media_info[:url] %>'); background-size: contain; background-repeat: no-repeat;"></div>
 
 <% elsif media_info[:type] == 'iframe' %>
-  <div class="exgal-modal-height">
+  <div class="exgal-player-container exgal-modal-height">
     <iframe src="<%= media_info[:url] %>"></iframe>
   </div>
 <% end %>
-
 
 <% if modal %>
   <script type="text/javascript">
@@ -47,7 +46,6 @@
       var vid = $('div.exhibit-player-modal video');
       // if( vid.isFullscreen() ) {
         vid.each(function() {
-          console.log(this)
           $(this).css('height', '100%').css('width', '100%');
         });
       // }
@@ -64,3 +62,4 @@
   </script>
 
 <% end %>
+

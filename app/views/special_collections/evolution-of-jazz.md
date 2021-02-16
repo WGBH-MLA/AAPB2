@@ -1,6 +1,6 @@
 # The Evolution of Jazz
 
-## Thumbnail
+## Thumbnail 
 
 ![The Evolution of Jazz](https://s3.amazonaws.com/americanarchive.org/special-collections/EvolutionofJazz.jpg "The Evolution of Jazz")
 ## Summary
@@ -23,10 +23,10 @@
 ## Resources
 
 - [“Jazz Singers” Exhibition, Library of Congress](https://www.loc.gov/exhibits/jazz-singers/)
-- [Ella Fitzgerald Collection, Smithsonian Archives of American Art](https://www.aaa.si.edu/collection-features/ella-fitzgerald)
+- [Ella Fitzgerald: First Lady of Song, Smithsonian Institution](https://www.si.edu/spotlight/ella-fitzgerald)
 - [Hogan Jazz Archive, Tulane University](https://jazz.tulane.edu/)
 - [Chicago Jazz Archive, University of Chicago](https://www.lib.uchicago.edu/collex/collections/chicago-jazz-archive/)
-- [Brubeck Collection, University of the Pacific](https://www.pacific.edu/university-libraries/find/holt-atherton-special-collections/brubeck-collection.html)
+- [Dave Brubeck Archives Headed To Connecticut, Jazz Times](https://jazztimes.com/blog/dave-brubeck-archives-headed-to-connecticut/)
 
 ## Funders
 
@@ -40,6 +40,10 @@ To hear the episodes in the original broadcast order, change the "sort by" dropd
 
 ## Terms
 
+
+## Timeline
+
 ## Sort
 
 title+asc
+

@@ -4,6 +4,7 @@ class CatalogController < ApplicationController
   include Blacklight::Catalog
   include ApplicationHelper
   include SnippetHelper
+  include BlacklightGUIDFetcher
 
   # allows usage of default_processor_chain v
   # self.search_params_logic = true
@@ -177,6 +178,8 @@ class CatalogController < ApplicationController
     config.add_sort_field 'asset_date desc', label: 'date (newest)'
     config.add_sort_field 'asset_date asc', label: 'date (oldest)'
     config.add_sort_field 'title asc', label: 'title'
+    config.add_sort_field 'episode_number_sort asc', label: 'episode number (lowest)'
+    config.add_sort_field 'episode_number_sort desc', label: 'episode number (highest)'
 
     # If there are more than this many search results, no spelling ("did you
     # mean") suggestion is offered.
@@ -188,18 +191,12 @@ class CatalogController < ApplicationController
     # the exhibit or special collection for additional display logic.
     @exhibit = exhibit_from_url
     @special_collection = special_collection_from_url
-
     # Cleans up user query for manipulation of caption text in the view.
     @query_for_captions = clean_query_for_snippet(params[:q]) if params[:q]
 
     if !params[:f] || !params[:f][:access_types]
-      base_query = params.except(:action, :controller).to_query
-      access = if current_user.onsite?
-                 PBCorePresenter::DIGITIZED_ACCESS
-               else
-                 PBCorePresenter::PUBLIC_ACCESS
-               end
-      redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
+      # Sets Access Level
+      default_search_access(params)
     else
       super
     end
@@ -223,58 +220,77 @@ class CatalogController < ApplicationController
 
     # we got some dang highlit matches
     if matched_in_text_field.try(:keys).try(:present?)
-
+      # overrwrite ids from solr with normalized ids
+      fixed_matches = {}
+      # value is unused because the presence of the guid as a key is what indicates the match
+      matched_in_text_field.map { |k, _v| fixed_matches[normalize_guid(k)] = {} }
       @snippets = {}
 
       @document_list.each do |solr_doc|
-        # only respond if highlighting set has this guid
-        next unless matched_in_text_field[solr_doc[:id]]
+        this_id = normalize_guid(solr_doc[:id])
 
-        @snippets[solr_doc[:id]] = {}
+        # only respond if highlighting set has this guid
+        next unless fixed_matches[this_id]
+
+        caption_file = CaptionFile.new(solr_doc.id)
+        @snippets[this_id] = {}
 
         # check for transcript/caption anno
-        if solr_doc.transcript?
-          text = TranscriptFile.new(solr_doc[:id]).plaintext
-          @snippets[solr_doc[:id]][:transcript] = snippet_from_query(@query_for_captions, text, 200, ' ')
-        elsif solr_doc.caption?
-          text = CaptionFile.new(solr_doc[:id]).text
-          @snippets[solr_doc[:id]][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
+        if solr_doc.transcript? && !@query_for_captions.nil?
+          transcript_file = TranscriptFile.new(solr_doc.transcript_src)
+
+          if transcript_file.file_type == TranscriptFile::JSON_FILE
+            @transcript_snippet = SnippetHelper::TranscriptSnippet.new('transcript' => transcript_file, 'id' => this_id, 'query' => @query_for_captions)
+            @snippets[this_id][:transcript] = @transcript_snippet.highlight_snippet
+            @snippets[this_id][:transcript_timecode_url] = @transcript_snippet.url_at_timecode
+          elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
+            @snippets[this_id][:transcript] = snippet_from_query(@query_for_captions, transcript_file.plaintext, 250, ' ')
+          end
+        end
+
+        if !caption_file.captions_src.nil? && !@query_for_captions.nil?
+          text = caption_file.text
+          @snippets[this_id][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
         end
       end
-
     end
   end
 
   def show
-    # TODO: do we need more of the behavior from Blacklight::Catalog?
-    @response, @document = fetch(params['id'])
-    xml = @document['xml']
+    # From BlacklightGUIDFetcher
+    @response, @document = fetch_from_blacklight(params['id'])
 
+    # we have to rescue from this in fetch_from_blacklight to run through all guid permutations, so throw it here if we didnt find anything
+    raise Blacklight::Exceptions::RecordNotFound unless @document
+
+    xml = @document['xml']
     respond_to do |format|
       format.html do
         @pbcore = PBCorePresenter.new(xml)
         @skip_orr_terms = can? :skip_tos, @pbcore
+        @caption_file = CaptionFile.new(@document["id"])
+
         if can? :play, @pbcore
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
         end
 
         if can? :access_transcript, @pbcore
-
-          # # something to show?
+          # something to show?
           if @document.transcript?
-            @transcript_content = TranscriptFile.new(params['id']).html
-
+            @transcript_content = TranscriptFile.new(@pbcore.transcript_src).html
             if @pbcore.transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
               @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
             end
-          elsif @document.caption?
+          elsif !@caption_file.captions_src.nil?
             # use SRT when transcript not available
-            @transcript_content = CaptionFile.new(params['id']).html
+            @transcript_content = @caption_file.html
           end
 
           # how shown are we talkin here?
           if @transcript_content
+            # If @transcript_search_term not in param, it just doesn't get populated on search input
+            @transcript_search_term = params['term']
             if @pbcore.transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
               @transcript_open = true
             else
@@ -286,7 +302,7 @@ class CatalogController < ApplicationController
           @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
         end
 
-        @exhibits = Exhibit.find_top_by_item_id(@pbcore.id)
+        @exhibits = @pbcore.top_exhibits
 
         render
       end
@@ -305,6 +321,16 @@ class CatalogController < ApplicationController
 
   private
 
+  def default_search_access(params)
+    base_query = params.except(:action, :controller).to_query
+    access = if current_user.onsite?
+               PBCorePresenter::DIGITIZED_ACCESS
+             else
+               PBCorePresenter::PUBLIC_ACCESS
+             end
+    redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
+  end
+
   def exhibit_from_url
     # Despite 'exhibit' field being multi-valued in solrconfig.xml, we're only
     # returning the first exhibit from the URL we currently only allow users to
@@ -313,7 +339,9 @@ class CatalogController < ApplicationController
     if params['f'] && params['f']['exhibits'] && !params['f']['exhibits'].empty?
       path = params['f']['exhibits'].first
       begin
-        return Exhibit.find_by_path(path)
+        exhibit = Exhibit.find_by_path(path)
+        raise ActionController::RoutingError.new('Not Found') unless exhibit
+        return exhibit
       rescue
         nil
       end
@@ -324,7 +352,9 @@ class CatalogController < ApplicationController
     if params['f'] && params['f']['special_collections'] && !params['f']['special_collections'].empty?
       path = params['f']['special_collections'].first
       begin
-        return SpecialCollection.find_by_path(path)
+        spec_col = SpecialCollection.find_by_path(path)
+        raise ActionController::RoutingError.new('Not Found') unless spec_col
+        return spec_col
       rescue
         nil
       end

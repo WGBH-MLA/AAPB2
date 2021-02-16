@@ -15,7 +15,7 @@
         <a class="exhibit-color<%= @exhibit_color_suffix %> section" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>
       </li>
 
-      <% sortedlinks = links.partition {|l| !(l[0] == 'Resources' || l[0] == 'Notes') } %>
+      <% sortedlinks = links.partition {|l| !(l[1].ends_with?('resources') || l[1].ends_with?('notes')) } %>
 
       <% sortedlinks.first.each do |name,link,subs=nil| %>
 

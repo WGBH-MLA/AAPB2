@@ -1,0 +1,34 @@
+div.vjs-remaining-time {
+  display: none !important;
+}
+
+
+div.vjs-current-time.vjs-time-control.vjs-control {
+  display: block !important;
+}
+
+
+span.vjs-current-time-display {
+  font-size: 16px !important;
+  top: -0.68vh;
+  display: block !important;
+}
+
+.videojs div.vjs-duration.vjs-time-control.vjs-current-time span.vjs-control-text {
+  display: none !important;
+}
+
+.videojs div.vjs-time-divide {
+  display: none !important;
+}
+
+
+/*disallow play/pause clicks on whole video element*/
+.vjs-tech {
+  pointer-events: none;
+}
+
+/*
+div.vjs-duration {
+  display: none !important;
+}*/

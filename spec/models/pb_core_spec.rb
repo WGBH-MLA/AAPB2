@@ -4,7 +4,13 @@ require_relative '../../lib/aapb'
 require_relative '../../app/models/validated_pb_core'
 require_relative '../../app/models/caption_file'
 
+require_relative '../../scripts/lib/pb_core_ingester'
+
 describe 'Validated and plain PBCore' do
+  before(:all) do
+    PBCoreIngester.load_fixtures
+  end
+
   pbc_xml = File.read('spec/fixtures/pbcore/clean-MOCK.xml')
   let(:pbc_json_transcript) { File.read('spec/fixtures/pbcore/clean-exhibit.xml') }
   let(:pbc_text_transcript) { File.read('spec/fixtures/pbcore/clean-text-transcript.xml') }
@@ -117,16 +123,18 @@ describe 'Validated and plain PBCore' do
 
     describe '.to_solr' do
       it 'constructs values for solr_document from pbcore xml' do
-        expect(pbc.to_solr).to eq(
-          'id' => '1234',
-          'xml' => pbc_xml,
+        pbc_to_solr_hash = pbc.to_solr
+
+        expected_attrs = {
+          'id' => 'cpb-aacip-1234',
           'episode_number_titles' => ['3-2-1'],
+          'episode_number_sort' => '3-2-1',
           'episode_titles' => ['Kaboom!'],
           'program_titles' => ['Gratuitous Explosions'],
           'series_titles' => ['Nova'],
           'special_collections' => [],
           'text' => [
-            '1234', '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "Raw bytes 0-255 follow: !\"\#$%&'()*+,-./0123456789:;<=?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ "],
+            '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'cpb-aacip-1234', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "male narrator: IN THE SUMMER OF 1957, LITTLE ROCK, ARKANSAS, WAS CONSIDERED A MODERATE SOUTHERN CITY. THINGS WERE PRETTY NORMAL THERE AS FAMILIES BEGAN TO PREPARE FOR THE COMING SCHOOL YEAR. HOWEVER, THE SHOCKING TRUTH WAS THAT THE CIVIL RIGHTS STRUGGLE HAD COME TO LITTLE ROCK'S CENTRAL HIGH SCHOOL. Captioning byCaptionMax www.captionmax.com"],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
           'contribs' => %w(Larry WGBH Stooges Stooges Curly Stooges Moe Stooges),
@@ -143,7 +151,13 @@ describe 'Validated and plain PBCore' do
           'states' => ['Massachusetts'],
           'access_types' => [PBCorePresenter::ALL_ACCESS, PBCorePresenter::PUBLIC_ACCESS, PBCorePresenter::DIGITIZED_ACCESS],
           'asset_date' => '2000-01-01T00:00:00Z'
-        )
+        }
+
+        expected_attrs.each do |attr, value|
+          expect(pbc_to_solr_hash[attr]).to eq(value)
+        end
+
+        expect { ValidatedPBCore.new(pbc_to_solr_hash['xml']) }.not_to raise_error
       end
     end
 
@@ -186,6 +200,12 @@ describe 'Validated and plain PBCore' do
     describe '.title' do
       it 'returns the title from the pbcore xml' do
         expect(pbc.title).to eq('Nova; Gratuitous Explosions; 3-2-1; Kaboom!')
+      end
+    end
+
+    describe '.episode_number_sort' do
+      it 'returns the episode number from the pbcore xml' do
+        expect(pbc.episode_number_sort).to eq('3-2-1')
       end
     end
 
@@ -240,19 +260,19 @@ describe 'Validated and plain PBCore' do
 
     describe '.id' do
       it 'returns the id from the pbcore xml' do
-        expect(pbc.id).to eq('1234')
+        expect(pbc.id).to eq('cpb-aacip-1234')
       end
     end
 
     describe '.ids' do
       it 'returns the ids from the pbcore xml' do
-        expect(pbc.ids).to eq([['AAPB ID', '1234'], ['somewhere else', '5678']])
+        expect(pbc.ids).to eq([['AAPB ID', 'cpb-aacip-1234'], ['somewhere else', '5678']])
       end
     end
 
     describe '.display_ids' do
       it 'returns the display ids from the pbcore xml' do
-        expect(pbc.display_ids).to eq([['AAPB ID', '1234']])
+        expect(pbc.display_ids).to eq([['AAPB ID', 'cpb-aacip-1234']])
       end
     end
 
@@ -264,7 +284,7 @@ describe 'Validated and plain PBCore' do
 
     describe '.media_srcs' do
       it 'returns the media srcs from the pbcore xml' do
-        expect(pbc.media_srcs).to eq(['/media/1234?part=1', '/media/1234?part=2'])
+        expect(pbc.media_srcs).to eq(['/media/cpb-aacip-1234?part=1', '/media/cpb-aacip-1234?part=2'])
       end
     end
 
@@ -276,7 +296,7 @@ describe 'Validated and plain PBCore' do
 
     describe '.img_src' do
       it 'returns the image src from the pbcore xml' do
-        expect(pbc.img_src).to eq("#{AAPB::S3_BASE}/thumbnail/1234.jpg")
+        expect(pbc.img_src).to eq("#{AAPB::S3_BASE}/thumbnail/cpb-aacip_1234.jpg")
       end
     end
 
@@ -288,13 +308,15 @@ describe 'Validated and plain PBCore' do
 
     describe '.captions_src' do
       it 'returns the captions src from the pbcore xml' do
-        expect(pbc.captions_src).to eq('https://s3.amazonaws.com/americanarchive.org/captions/1234/1234.srt1.srt')
+        expect(pbc.captions_src).to eq('https://s3.amazonaws.com/americanarchive.org/captions/cpb-aacip-1234/cpb-aacip-1234.srt1.srt')
       end
     end
 
     describe '.transcript_content' do
       it 'returns the transcript content from the pbcore xml' do
-        expect(pbc.transcript_content).to eq("{\"language\":\"en-US\",\"parts\":[{\"text\":\"Raw bytes 0-255 follow: \\u0000\\u0001\\u0002\\u0003\\u0004\\u0005\\u0006\\u0007\\b \\u000e\\u000f\\u0010\\u0011\\u0012\\u0013\\u0014\\u0015\\u0016\\u0017\\u0018\\u0019\\u001a\\u001b\\u001c\\u001d\\u001e\\u001f !\\\"\#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\u007F\u0080\u0081\u0082\u0083\u0084\u0086\u0087\u0088\u0089\u008A\u008B\u008C\u008D\u008E\u008F\u0090\u0091\u0092\u0093\u0094\u0095\u0096\u0097\u0098\u0099\u009A\u009B\u009C\u009D\u009E\u009F ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ\",\"start_time\":\"0.0\",\"end_time\":\"20.0\"}]}")
+        # Just returning something when the TranscriptFile#content method is hit
+        allow_any_instance_of(TranscriptFile).to receive(:content).and_return("stuff")
+        expect(pbc.transcript_content).to eq("stuff")
       end
     end
 
@@ -469,7 +491,7 @@ describe 'Validated and plain PBCore' do
       it 'has expected transcript attributes' do
         pbc = PBCorePresenter.new(pbc_json_transcript)
         expected_attrs = {
-          'id' => 'cpb-aacip_111-21ghx7d6',
+          'id' => 'cpb-aacip-111-21ghx7d6',
           'player_aspect_ratio' => '4:3',
           'player_specs' => %w(680 510),
           'transcript_status' => 'Correct'
@@ -506,7 +528,7 @@ describe 'Validated and plain PBCore' do
       it 'has expected 16:9 attributes' do
         pbc = PBCorePresenter.new(pbc_16_9)
         expected_attrs = {
-          'id' => 'cpb-aacip_508-g44hm5390k',
+          'id' => 'cpb-aacip-508-g44hm5390k',
           'player_aspect_ratio' => '16:9',
           'player_specs' => %w(680 383)
         }
@@ -525,10 +547,12 @@ describe 'Validated and plain PBCore' do
       it 'first record has expected attributes' do
         pbc = PBCorePresenter.new(playlist_1)
         expected_attrs = {
-          'id' => 'cpb-aacip_512-gx44q7rk20',
+          # this is the normalized id from PBCorePresenter#id
+          'id' => 'cpb-aacip-512-gx44q7rk20',
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 1,
-          'playlist_next_id' => 'cpb-aacip_512-0r9m32nw1x',
+          # this is going to be the original id from the pbcore, because playlists do a bare solr search to look up playlist records
+          'playlist_next_id' => 'cpb-aacip-512-0r9m32nw1x',
           'playlist_prev_id' => nil
         }
 
@@ -548,8 +572,8 @@ describe 'Validated and plain PBCore' do
         expected_attrs = {
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 2,
-          'playlist_next_id' => 'cpb-aacip_512-w66930pv96',
-          'playlist_prev_id' => 'cpb-aacip_512-gx44q7rk20'
+          'playlist_next_id' => 'cpb-aacip-512-w66930pv96',
+          'playlist_prev_id' => 'cpb-aacip-512-gx44q7rk20'
         }
 
         attrs = {
@@ -568,7 +592,7 @@ describe 'Validated and plain PBCore' do
           'playlist_group' => 'nixonimpeachmentday2',
           'playlist_order' => 3,
           'playlist_next_id' => nil,
-          'playlist_prev_id' => 'cpb-aacip_512-0r9m32nw1x'
+          'playlist_prev_id' => 'cpb-aacip-512-0r9m32nw1x'
         }
 
         attrs = {

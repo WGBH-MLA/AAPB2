@@ -6,7 +6,7 @@
 <pbcoreIdentifier source="Sony Ci">787c01c71cf24c3886c9cb5203c1e719</pbcoreIdentifier>
 <pbcoreTitle titleType="Series">The Civil War</pbcoreTitle>
 <pbcoreTitle titleType="Raw Footage">Interviews with Barbara Fields</pbcoreTitle>
-<pbcoreDescription descriptionType="Description">
+<pbcoreDescription>
 This is raw footage of an interview that Ken Burns conducted with professor Barbara Fields for his film, The Civil War. The interview is in two parts. The first takes place on January 14, 1987 at the Smithsonian Institute and the second takes place on April 13, 1988 at the Columbia University Low Memorial Library. Throughout these two interviews, Fields discusses how slavery brought the nation to Civil War. She details the many ways in which slaves took political action to gain emancipation and to fight for their equality, rejecting the notion that white politicians and soldiers were the main definers of the Civil War. Fields provides historical background and context about many looming historical figures such as Abraham Lincoln, Robert E. Lee, and Frederick Douglass. She also returns to the narrative of minor figures, often overlooked, such as Spottswood Rice, Hannah Johnson, and John Boston. She makes the argument that the civil war was less about the cohesion of the Union and more about the fight for hum
 </pbcoreDescription>
 <pbcoreGenre source="AAPB Topical Genre" annotation="topic">History</pbcoreGenre>
@@ -18,7 +18,11 @@ This is raw footage of an interview that Ken Burns conducted with professor Barb
 </pbcoreCreator>
 <pbcoreCreator>
 <creator>Florentine Films</creator>
-<creatorRole>Producer</creatorRole>
+<creatorRole>Producing Organization</creatorRole>
+</pbcoreCreator>
+<pbcoreCreator>
+<creator>Ken Burns - Florentine Films</creator>
+<creatorRole>Producing Organization</creatorRole>
 </pbcoreCreator>
 <pbcoreContributor>
 <contributor>Fields, Barbara</contributor>
@@ -39,7 +43,7 @@ Copyright 1989, Kenneth Lauren Burns All Rights Reserved
 <instantiationStandard>DPX</instantiationStandard>
 <instantiationLocation>KB0001</instantiationLocation>
 <instantiationMediaType>Moving Image</instantiationMediaType>
-<instantiationGenerations>Preservation Master</instantiationGenerations>
+<instantiationGenerations>Preservation</instantiationGenerations>
 <instantiationFileSize>2</instantiationFileSize>
 <instantiationDuration>1:38:31</instantiationDuration>
 <instantiationLanguage>eng</instantiationLanguage>
@@ -63,7 +67,7 @@ DPX master is a folder of DPX images that has an associated WAV file containing 
 <instantiationEssenceTrack>
 <essenceTrackType>video</essenceTrackType>
 <essenceTrackIdentifier source="mediainfo">2</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
+<essenceTrackEncoding ref="http://developers.videolan.org/x264.html" source="mediainfo">AVC</essenceTrackEncoding>
 <essenceTrackDataRate unitsOfMeasure="861">8</essenceTrackDataRate>
 <essenceTrackFrameRate>24.000</essenceTrackFrameRate>
 <essenceTrackBitDepth>8</essenceTrackBitDepth>
@@ -91,7 +95,7 @@ DPX master is a folder of DPX images that has an associated WAV file containing 
 <essenceTrackLanguage>eng</essenceTrackLanguage>
 </instantiationEssenceTrack>
 <instantiationAnnotation annotationType="encoded by">Apple QuickTime</instantiationAnnotation>
-<instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">American Archive of Public Broadcasting</instantiationAnnotation>
 </pbcoreInstantiation>
 <pbcoreInstantiation>
 <instantiationIdentifier source="mediainfo">cpb-aacip-509-2r3nv99t98.mp4</instantiationIdentifier>
@@ -110,7 +114,7 @@ DPX master is a folder of DPX images that has an associated WAV file containing 
 <instantiationEssenceTrack>
 <essenceTrackType>video</essenceTrackType>
 <essenceTrackIdentifier source="mediainfo">1</essenceTrackIdentifier>
-<essenceTrackEncoding source="mediainfo" ref="http://developers.videolan.org/x264.html">AVC</essenceTrackEncoding>
+<essenceTrackEncoding ref="http://developers.videolan.org/x264.html" source="mediainfo">AVC</essenceTrackEncoding>
 <essenceTrackDataRate unitsOfMeasure="kb/s">711</essenceTrackDataRate>
 <essenceTrackFrameRate>24.000</essenceTrackFrameRate>
 <essenceTrackBitDepth>8</essenceTrackBitDepth>
@@ -140,14 +144,16 @@ DPX master is a folder of DPX images that has an associated WAV file containing 
 <instantiationAnnotation annotationType="encoded by">Lavf57.41.100</instantiationAnnotation>
 <instantiationAnnotation annotationType="Preservation LTO">AB0001</instantiationAnnotation>
 <instantiationAnnotation annotationType="Preservation Disk">ABDISK0002</instantiationAnnotation>
-<instantiationAnnotation annotationType="organization">Ken Burns - Florentine Films</instantiationAnnotation>
+<instantiationAnnotation annotationType="organization">American Archive of Public Broadcasting</instantiationAnnotation>
 </pbcoreInstantiation>
+<pbcoreAnnotation annotationType="Transcript URL">
+https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-509-2r3nv99t98/cpb-aacip-509-2r3nv99t98-transcript.txt
+</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Project Code">KB0001</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="Level of User Access">Online Reading Room</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="cataloging status">Minimally Cataloged</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="special_collections">ken-burns-civil-war</pbcoreAnnotation>
-<pbcoreAnnotation annotationType="special_collections">naeb</pbcoreAnnotation>
-<pbcoreAnnotation annotationType="Transcript Status">Online Reading Room Transcript</pbcoreAnnotation>
+<pbcoreAnnotation annotationType="Transcript Status">Correct</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="last_modified">2017-10-25 10:46:22</pbcoreAnnotation>
 <pbcoreAnnotation annotationType="organization">Ken Burns - Florentine Films</pbcoreAnnotation>
 </pbcoreDescriptionDocument>

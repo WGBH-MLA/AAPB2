@@ -32,8 +32,8 @@ describe SpecialCollection do
     describe '.featured_items' do
       it 'returns the featured items for the collection' do
         expect(collection.featured_items).to eq([
-          ['Test Featured Item', '/catalog/cpb-aacip_111-21ghx7d6', 'http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-2r3nv99t98.jpg'],
-          ['Test Featured Item 2', '/catalog/cpb-aacip_111-21ghx7d6', 'http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg']
+          ['Test Featured Item', '/catalog/cpb-aacip_111-21ghx7d6', 'https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-2r3nv99t98.jpg'],
+          ['Test Featured Item 2', '/catalog/cpb-aacip_111-21ghx7d6', 'https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg']
         ])
       end
     end
@@ -109,7 +109,7 @@ describe SpecialCollection do
 
     describe '.featured_html' do
       it 'returns the featured html for the collection' do
-        expect(collection.featured_html).to eq("<p><a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-2r3nv99t98.jpg\" alt=\"Test Featured Item\"></a>\n<a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg\" alt=\"Test Featured Item 2\"></a></p>")
+        expect(collection.featured_html).to eq("<p><a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-2r3nv99t98.jpg\" alt=\"Test Featured Item\"></a>\n<a href=\"/catalog/cpb-aacip_111-21ghx7d6\"><img src=\"https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg\" alt=\"Test Featured Item 2\"></a></p>")
       end
     end
 
@@ -143,6 +143,24 @@ describe SpecialCollection do
       end
     end
 
+    describe '.timeline_html' do
+      it 'returns the timeline html for the collection' do
+        expect(collection.timeline_html).to eq("<h3 id=\"the-title-of-the-timeline\">The Title of the Timeline</h3><iframe src=\"https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ISfXGK8EEuqCGcONWfekjLZhInxFQyFWwBAl2FbkIxs&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&amp;width=100%\" height=\"650\" width=\"100%\" frameborder=\"0\"></iframe>")
+      end
+    end
+
+    describe '.timeline_title' do
+      it 'returns the timeline title for the collection' do
+        expect(collection.timeline_title).to eq('The Title of the Timeline')
+      end
+    end
+
+    describe '.timeline' do
+      it 'returns the timeline for the collection' do
+        expect(collection.timeline).to eq("<iframe src=\"https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ISfXGK8EEuqCGcONWfekjLZhInxFQyFWwBAl2FbkIxs&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650&amp;width=100%\" height=\"650\" width=\"100%\" frameborder=\"0\"></iframe>")
+      end
+    end
+
     describe '.sort_by' do
       it 'returns the sort by for the collection' do
         expect(collection.sort_by).to eq('asset_date+desc')
@@ -155,9 +173,9 @@ describe SpecialCollection do
       end
     end
 
-    describe 'error handling' do
-      it 'raises an error for bad paths' do
-        expect { MockSpecialCollection.find_by_path('no/such/path') }.to raise_error(Cmless::Error)
+    describe 'not found handling' do
+      it 'returns nil for bad paths' do
+        expect(MockSpecialCollection.find_by_path('no/such/path')).to eq(nil)
       end
     end
   end

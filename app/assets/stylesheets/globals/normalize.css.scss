@@ -612,6 +612,7 @@ html input[disabled] {
  */
 input[type="checkbox"],
 input[type="radio"] {
+  margin: 4px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; /* 1 */
@@ -661,6 +662,16 @@ textarea {
 label {
   display: block;
   font-weight: bold;
+}
+
+.checkbox-label {
+  display: inline;
+  width: 25%;
+}
+
+.subscribe-checkbox {
+  height: 12px;
+  width: 12px;
 }
 
 /**

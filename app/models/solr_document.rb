@@ -18,10 +18,19 @@ class SolrDocument
   # use_extension(Blacklight::Solr::Document::DublinCore)
 
   def caption?
-    Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Captions URL"]').first
+    return true unless CaptionFile.new(self[:id]).captions_src.nil?
+    false
+  end
+
+  def captions_src
+    CaptionFile.new(self[:id]).captions_src
   end
 
   def transcript?
     Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first
+  end
+
+  def transcript_src
+    Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first.text.strip
   end
 end

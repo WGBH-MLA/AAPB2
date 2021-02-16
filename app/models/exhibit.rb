@@ -132,10 +132,12 @@ class Exhibit < Cmless
   def gallery
     @gallery ||=
       begin
-
         Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
           type = gallery_item.css('a.type').first.text
           credit_link = gallery_item.css('a.credit-link').first
+          credit_url = credit_link['href'] if credit_link
+          credit_text = credit_link.text if credit_link
+
           caption = gallery_item.css('a.caption-text').first
 
           asset_link = gallery_item.css('a.asset-url').first
@@ -143,7 +145,7 @@ class Exhibit < Cmless
 
           media_info = if type == 'audio' || type == 'video' || type == 'iframe'
 
-                         url = gallery_item.css('a.media-url').first.text
+                         url = gallery_item.css('a.media-url').first['href']
                          { type: type, url: url }
                        else # image
 
@@ -151,8 +153,8 @@ class Exhibit < Cmless
                          { type: 'image', url: img[:src], alt: img[:alt], title: img[:title] }
                        end
           {
-            credit_url: credit_link['href'],
-            source_text: credit_link.text,
+            credit_url: credit_url,
+            source_text: credit_text,
             caption: caption.text,
             media_info: media_info,
             asset_url: asset_url
@@ -186,6 +188,19 @@ class Exhibit < Cmless
           </a>
         </div>
       </div>)
+    elsif section_uri.end_with?('timeline')
+      # tiiiiiiiime notes
+      %(<div class='exhibit-notes'>
+        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
+
+        <div class=''>
+          <a href='#{section_uri}'>
+            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/timeline_button_grey.png' class='icon-med' style='top: -2px; position: relative;'>
+            Timeline
+          </a>
+        </div>
+      </div>)
+
     else
       img = Nokogiri::HTML(cover_html).css('img').first
       %(<a href='#{section_uri}'>

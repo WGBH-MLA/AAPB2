@@ -2,6 +2,15 @@
 
 Read about about AAPB's new collections, exhibits and projects below.
 
+## March 2020
+
+### New Special Collections
+Latest Special Collections to launch include *Vegetable Soup*, *In Black America*, *John Beyer Iowa Documentaries*, *National Federation of Community Broadcasters Programs*, *Vietnam: A Television History Interviews*, *War and Peace in the Nuclear Age Interviews*, *OutCasting*, *BackStory*, *A Word on Words*, *To the Moon Interviews*, *Traditions: Ohio Heritage Fellows*, *The Great Depression Interviews*, *Rock and Roll Interviews*, and collections produced by University of Alabama Public Broadcasting Preservation Fellows, including *The Alabama Experience*, *Local Programs from WSRE from Pensacola, Florida*, and *Virginia Public Media: Journey through the Archives.* View the collections at http://americanarchive.org/special_collections.
+
+### New Exhibit
+
+Curated by Dr. Allison Perlman, the AAPB released a new online exhibit titled "[On the Right: NET and Modern Conservatism](https://americanarchive.org/exhibits/conservatism)." Created as part of the National Educational Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources, the exhibit explores the growth of the conservative movement in the mid-20th century through the lens of public television. Rescued from deteriorating videotape and film, 21 National Educational Television (NET) programs produced between 1956 and 1970 explore multiple perspectives on the modern conservative movement. The programs are now available for online viewing, many for the first time since their original broadcast.
+
 ## April 2019
 
 ### New Special Collections
@@ -13,7 +22,7 @@ Curated by Amanda Reichenbach, the AAPB launched a new exhibit titled "Education
 ## June 2018
 
 ### New Special Collections
-The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at http://americanarchive.org/special_collections.
+The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as GBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at http://americanarchive.org/special_collections.
 
 ## March 2018
 
@@ -56,7 +65,7 @@ In December 2017, the American Archive of Public Broadcasting launched ROLL THE 
 ## October 2017
 
 ### New Collections
-The AAPB recently acquired three collections of original, full-length interviews from groundbreaking public television documentaries: Ken Burns’ *The Civil War*, *Eyes on the Prize* and *American Masters*. Only excerpts of these interviews were included in previously released, edited programs. Now, the full-length interviews from these landmark series will be available to view online at americanarchive.org or in person at the Library of Congress and at WGBH, preserved for future generations to learn about our nation’s history.
+The AAPB recently acquired three collections of original, full-length interviews from groundbreaking public television documentaries: Ken Burns’ *The Civil War*, *Eyes on the Prize* and *American Masters*. Only excerpts of these interviews were included in previously released, edited programs. Now, the full-length interviews from these landmark series will be available to view online at americanarchive.org or in person at the Library of Congress and at GBH, preserved for future generations to learn about our nation’s history.
 
 #### Interviews from Ken Burns' *The Civil War*
 ![Ken Burns' The Civil War](https://s3.amazonaws.com/americanarchive.org/special-collections/civil-war_small.jpeg "Ken Burns' The Civil War")*The Civil War*, an epic nine-episode series by the award-winning documentary filmmaker Ken Burns and produced in conjunction with WETA, Washington, DC and American Documentaries, Inc., first aired in September 1990 to an audience of 40 million viewers. The film is the recipient of 40 major film and television awards, including two Emmys and two Grammys.
@@ -71,7 +80,7 @@ The *Eyes on the Prize* interviews collection comes from Washington University L
 #### Interviews from *American Masters*
 ![American Masters](https://s3.amazonaws.com/americanarchive.org/special-collections/american-masters_small.jpeg "American Masters")*American Masters*, produced by New York public television station THIRTEEN/WNET, is an award-winning biography series that celebrates arts and culture. Launched in 1986, the series has set the standard for documentary film profiles.
 
-AAPB has preserved more than 800 full-length interviews filmed by *American Masters* with artists and leaders such as David Bowie, Yoko Ono, Robert Plant, Tim Burton, Nora Ephron, Denzel Washington, Carol Burnett, Andrew Lloyd Webber, Quincy Jones and Jimmy Carter. The interviews, digitized for In Their Own Words: The *American Masters* Digital Archive and the *American Masters* Podcast, will be archived for long-term storage at the Library of Congress to ensure their survival for future generations. Researchers can access the full collection only on location at the Library of Congress and WGBH. Information about the *American Masters* collection is available at [americanarchive.org/special_collections/american-masters-interviews](/special_collections/american-masters-interviews).
+AAPB has preserved more than 800 full-length interviews filmed by *American Masters* with artists and leaders such as David Bowie, Yoko Ono, Robert Plant, Tim Burton, Nora Ephron, Denzel Washington, Carol Burnett, Andrew Lloyd Webber, Quincy Jones and Jimmy Carter. The interviews, digitized for In Their Own Words: The *American Masters* Digital Archive and the *American Masters* Podcast, will be archived for long-term storage at the Library of Congress to ensure their survival for future generations. Researchers can access the full collection only on location at the Library of Congress and GBH. Information about the *American Masters* collection is available at [americanarchive.org/special_collections/american-masters-interviews](/special_collections/american-masters-interviews).
 
 ### "Gavel-to-Gavel": The Watergate Scandal and Public Television
 <table class="exhibit-image">
@@ -81,4 +90,4 @@ AAPB has preserved more than 800 full-length interviews filmed by *American Mast
 AAPB has launched a new exhibit titled “Gavel-to-Gavel”: The Watergate Scandal and Public Television. Curated by Library of Congress Junior Fellow Amanda Reichenbach, the exhibit provides, for the first time, complete online access to video coverage of the 51 days of the Senate Watergate hearings and 7 days of the House Impeachment hearings, recorded by the National Public Affairs Center for Television (NPACT) with commentary by Robert MacNeil, Jim Lehrer, and Paul Duke. The exhibit includes essays on the Watergate Scandal, the subsequent Senate Watergate hearings and House Impeachment hearings, a Cast of Characters page to help identify people in the videos, an essay on the significant role that Watergate played in the history of Public Broadcasting, and a page providing information about other resources. Explore the Watergate exhibit at [americanarchive.org/exhibits/watergate](/exhibits/watergate).
 
 ### Public Broadcasting Preservation Fellowship
-In September 2017, WGBH on behalf of the AAPB was awarded a grant by the Institute of Museum and Library Services (IMLS) to fund the Public Broadcasting Preservation Fellowship. The project supports students enrolled in non-specialized graduate programs to pursue digital preservation projects at public broadcasting organizations around the country. The Fellowship is designed to provide graduate students with the opportunity to gain hands-on experiences in the practices of audiovisual preservation; address the need for digitization of at-risk public media materials in underserved areas; and increase audiovisual preservation education capacity in Library and Information Science graduate programs around the country. More information is available at our PBPF project website [pbpf.americanarchive.org](http://pbpf.americanarchive.org).
+In September 2017, GBH on behalf of the AAPB was awarded a grant by the Institute of Museum and Library Services (IMLS) to fund the Public Broadcasting Preservation Fellowship. The project supports students enrolled in non-specialized graduate programs to pursue digital preservation projects at public broadcasting organizations around the country. The Fellowship is designed to provide graduate students with the opportunity to gain hands-on experiences in the practices of audiovisual preservation; address the need for digitization of at-risk public media materials in underserved areas; and increase audiovisual preservation education capacity in Library and Information Science graduate programs around the country. More information is available at our PBPF project website [pbpf.americanarchive.org](http://pbpf.americanarchive.org).

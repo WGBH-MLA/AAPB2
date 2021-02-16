@@ -144,6 +144,13 @@
   }
 }
 
+.collection-timeline-row {
+  margin: 15px -15px;
+  .collection-timeline-col {
+    padding: 0;
+  }
+}
+
 .resources-row {
   padding-top: 25px;
   h2 {
@@ -189,7 +196,7 @@
       top: 122px;
       width: 180px;
       height: 58px;
-      font-size: 24px;
+      font-size: 18px;
       text-align: center;
       display: table;
       margin: 0;

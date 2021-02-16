@@ -42,6 +42,6 @@ do
 	newDir=`dirname "$i"`; # modify this if you want to include the basename of the input argument directory
 	mkdir -p "$outDir/$newDir";
 
-	ffmpeg -i "$i" -acodec libmp3lame -ab 192k "$outDir/$newDir/$(basename $i)".mp3;
+	ffmpeg -i "$i" -acodec libmp3lame -ab 192k -metadata creation_time=now "$outDir/$newDir/$(basename $i)".mp3;
 done ;
 IFS=$OLDIFS

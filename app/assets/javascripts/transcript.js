@@ -1,6 +1,6 @@
-$(document).on('turbolinks:load', function() {
+$(function() {
   // the input field
-  var $input = $("input[type='search']"),
+  var $input = $("input[id='transcript-search-input']"),
     // clear button
     $clearBtn = $("button[data-search='clear']"),
     // prev button
@@ -22,6 +22,16 @@ $(document).on('turbolinks:load', function() {
     // the current index of the focused element
     currentIndex = 0;
 
+  function getTermUrlParam() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      key = decodeURIComponent(key);
+      value = decodeURIComponent(value);
+      vars[key] = value;
+    });
+    return vars["term"];
+  }
+
   /**
    * Jumps to the element matching the currentIndex
    */
@@ -35,16 +45,30 @@ $(document).on('turbolinks:load', function() {
         $current.addClass(currentClass);
         $current.attr("id", currentId)
         position = $current.offset().top - offsetTop;
-        $("div.transcript-content").scrollTo(document.getElementById("current"));
+        $("div.transcript-content").scrollTo("#current");
       }
     }
-  }
+  };
+
   /**
-   * Searches for the entered keyword in the
-   * specified context on input
-   */
+  * Searches for the entered keyword in the
+  * specified context on input
+  */
+
+  window.onload = setTranscriptSearch;
+
+  function setTranscriptSearch() {
+   var searchVal = getTermUrlParam();
+   clearAndHighlightTranscript(searchVal);
+  };
+
+
   $input.on("input", function() {
     var searchVal = this.value;
+    clearAndHighlightTranscript(searchVal);
+  });
+
+  function clearAndHighlightTranscript(searchVal) {
     $content.unmark({
       done: function() {
         var regex = new RegExp("\\b(" + searchVal + ")\\b", "gi");
@@ -58,7 +82,7 @@ $(document).on('turbolinks:load', function() {
         });
       }
     });
-  });
+  };
 
   /**
    * Clears the search

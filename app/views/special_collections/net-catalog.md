@@ -1,6 +1,6 @@
 # National Educational Television
 
-## Thumbnail
+## Thumbnail 
 
 ![National Educational Television](https://s3.amazonaws.com/americanarchive.org/special-collections/net_catalog.jpg "National Educational Television Logo")
 
@@ -22,19 +22,19 @@ Each catalog record identifies holdings information from various institutions th
 
 [![Prospects of Mankind](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-51vdnr5h.jpg)](/catalog/cpb-aacip_15-51vdnr5h)
 [![Black Journal](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_62-5m6251fv96.jpg)](/catalog/cpb-aacip_62-5m6251fv96)
-[![Redman’s America](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_52-36h18dhz.jpg)](/catalog/cpb-aacip_52-36h18dhz)
+[![Community of the Condemned](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_512-gx44q7rq23_1.jpg)](/catalog/cpb-aacip-512-gx44q7rq23)
 [![Science Reporter](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-30prrfdx.jpg)](/catalog/cpb-aacip_15-30prrfdx)
-[![PBL](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-9zg6g70c.jpg)](/catalog/cpb-aacip_15-9zg6g70c)
+[![Huelga!](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_504-696zw19w66_1.jpg)](/catalog/cpb-aacip_504-696zw19w66)
 [![Invitation to Art](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_15-542j678z5j.jpg)](/catalog/cpb-aacip_15-542j678z5j)
 
 ## Resources
 
 - [Library of Congress NET Collection](https://www.loc.gov/rr/mopic/tvcoll.html)
 - [Indiana University NET Film Collection](https://blogs.libraries.indiana.edu/filmarch/2012/07/24/national-educational-television-and-the-iu-libraries-film-archive/)
--[National Educational Television Records Finding Aid at Wisconsin Historical Society](http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;cc=wiarchives;q1=Carnegie%20Commission;rgn=main;view=text;didno=uw-whs-us0066af)
-- [Further Reading on NET from the Museum of Broadcast Communications](http://www.museum.tv/eotv/nationaleduc.htm)
+- [National Educational Television Records Finding Aid at Wisconsin Historical Society](http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;cc=wiarchives;q1=Carnegie%20Commission;rgn=main;view=text;didno=uw-whs-us0066af)
+- [Museum of Broadcast Communications](https://www.museum.tv/)
 
-## Funders
+## Funders 
 
 - [![CLIR](https://s3.amazonaws.com/americanarchive.org/org-logos/clir_logo.png "CLIR Logo")](https://www.clir.org/)
 
@@ -44,6 +44,11 @@ The NET collection consists of records for digitized and non-digitized content h
 
 ## Terms
 
+
+## Timeline 
+
+
 ## Sort
 
 title+asc
+

@@ -9,7 +9,7 @@ module XmlBacked
       if matches.length != 1
         raise NoMatchError, "Expected 1 match for '#{xpath}'; got #{matches.length}"
       else
-        return XmlBacked.text_from(matches.first)
+        return cdata_present?(matches.first) ? matches.first.cdatas.first.to_s : XmlBacked.text_from(matches.first)
       end
     end
   end
@@ -27,11 +27,16 @@ module XmlBacked
   end
 
   def xpaths(xpath)
-    REXML::XPath.match(@doc, xpath).map { |node| XmlBacked.text_from(node) }
+    # Need to process cdata children if they're present
+    REXML::XPath.match(@doc, xpath).map { |node| cdata_present?(node) ? node.cdatas.first.to_s : XmlBacked.text_from(node) }
   end
 
   def self.text_from(node)
     ((node.respond_to?('text') ? node.text : node.value) || '').strip
+  end
+
+  def cdata_present?(node)
+    node.respond_to?('cdatas') && !node.cdatas.empty?
   end
 
   def pairs_by_type(element_xpath, attribute_xpath)

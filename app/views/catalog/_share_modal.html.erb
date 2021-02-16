@@ -1,0 +1,38 @@
+<!-- Basic Modal -->
+<div class="share-modal modal fade " id="catalogShareModal" role="dialog">
+  <div class="modal-dialog basic-modal-dialog">
+    <!-- Modal content-->
+    <div class="catalog-modal-content basic-modal-content">
+      <div class="modal-header basic-modal-header">
+        <h4 class="modal-title basic-modal-title">Share</h4>
+        <button type="button" class="close basic-modal-close" data-dismiss="modal">&#9747;</button>
+      </div>
+      <div class="modal-body catalog-modal-body">
+        <div class="row">
+          <label>At Beginning <input class="share-at-time" type="radio" name="share_at_time" id="off"></label>
+          <label>At Current Time <input class="share-at-time" type="radio" name="share_at_time" id="current"></label>
+          <label>Segment Of <%= @pbcore.video? ? 'Video' : 'Audio' %> <input class="share-at-time" type="radio" checked name="share_at_time" id="on"></label>
+        </div>
+
+        <div class="row">
+          <div id="timecode-share-container" class="col-md-12">
+            <h5>Share</h5>
+            <div id="share-controls">
+              <button class="player-button" id="share-copy-button">Copy</button>
+            </div>
+            <!-- <pre id="timecode-embed"></pre> -->
+            <textarea type="text" id="timecode-share" class="timecode-share-text"></textarea>
+
+            <h5>Embed</h5>
+            <span class="hidden" id="pbcore-guid"><%= @pbcore.id %></span>
+            <div id="share-controls">
+              <button class="player-button" id="embed-copy-button">Copy</button>
+            </div>
+            <!-- <pre id="timecode-embed"></pre> -->
+            <textarea type="text" id="timecode-embed" class="timecode-embed-text"></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

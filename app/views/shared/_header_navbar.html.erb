@@ -16,7 +16,7 @@
           <header role="banner" class="banner-assets">
             <%= link_to application_name, root_path, class: "navbar-brand banner" %>
             <div class="banner-text">
-              <p id="banner-text" class="hidden-xs"><em>a collaboration between the Library of Congress and WGBH</em></p>
+              <p id="banner-text" class="hidden-xs"><em>a collaboration between the Library of Congress and GBH</em></p>
             </div>
           </header>
         </div>
@@ -44,6 +44,9 @@
                 <li><a href="/about-the-american-archive/advisory-committees">Advisory Committees</a></li>
                 <li><a href="/faq">FAQ</a></li>
                 <li><a href="/about-the-american-archive/newsletter">Newsletter Signup</a></li>
+                <li><a href="/about-the-american-archive/volunteer">Volunteer Form</a></li>
+                <li><a href="/national-history-day">National History Day</a></li>
+                <li><a href="/about-the-american-archive/feedback">Feedback</a></li>
                 <li><a href="/contact-us">Contact Us</a></li>
               </ul>
             </li>
@@ -67,7 +70,7 @@
 
             <ul class="nav navbar-nav row">
               <!-- Nav Search -->
-              <% if !current_page?(controller: 'home', action: 'show') && !(current_page?(controller: 'catalog', action: 'index') && params.to_h['f'].try(:has_key?,'special_collection'))  %>
+              <% if !current_page?(controller: 'home', action: 'show') && !(current_page?(controller: 'catalog', action: 'index') && params['f'].try(:has_key?,'special_collections'))  %>
                   <li class="col-md-6 sec-nav-item"><%= render_search_bar %></li>
               <% end %>
               <li class="col-md-6 sec-nav-item"><%= link_to "FIX IT: A TRANSCRIPT GAME", "http://fixitplus.americanarchive.org/", class: "header-fixit", target: "_blank" %></li>

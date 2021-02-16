@@ -816,6 +816,5 @@ The American Archive of Public Broadcasting holds the full run of NPACT's covera
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Commmittee.jpg">
     <a class="caption-text">The Committee for the Watergate Hearings</a>
-    <a class="credit-link"></a>
 
 ## Records

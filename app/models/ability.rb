@@ -1,12 +1,19 @@
 class Ability
   include CanCan::Ability
 
+  # Disabling because, yes, we know...
+  # rubocop:disable Metrics/PerceivedComplexity
   def initialize(user)
     can :skip_tos, PBCorePresenter
 
     can :play, PBCorePresenter do |pbcore|
       (user.onsite? && (pbcore.public? || pbcore.protected?)) || # Comment out for developing TOS features.
         (user.usa? && !user.bot? && (user.affirmed_tos? || user.authorized_referer?) && pbcore.public?)
+    end
+
+    # Just like :play, only ignoring TOS check (it's in the embedded markup).
+    can :play_embedded, PBCorePresenter do |pbcore|
+      (user.onsite? && (pbcore.public? || pbcore.protected?)) || (user.usa? && !user.bot? && pbcore.public?)
     end
 
     cannot :skip_tos, PBCorePresenter do |pbcore|
@@ -27,7 +34,8 @@ class Ability
     end
 
     can :access_transcript, PBCorePresenter do |pbcore|
-      user.onsite? || pbcore.public?
+      (user.onsite? || pbcore.public?) && !pbcore.transcript_status.nil?
     end
   end
+  # rubocop:enable Metrics/PerceivedComplexity
 end

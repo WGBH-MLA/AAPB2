@@ -3,6 +3,7 @@ require 'rexml/xpath'
 require 'nokogiri'
 require 'solrizer'
 require 'fastimage'
+require 'httparty'
 require_relative '../../lib/aapb'
 require_relative 'exhibit'
 require_relative 'special_collection'
@@ -17,12 +18,15 @@ require_relative '../../lib/caption_converter'
 require_relative 'transcript_file'
 require_relative 'caption_file'
 require_relative '../helpers/application_helper'
+require_relative 'canonical_url'
+require_relative '../helpers/id_helper'
 
 class PBCorePresenter
   # rubocop:disable Style/EmptyLineBetweenDefs
   include XmlBacked
   include ToMods
   include ApplicationHelper
+  include IdHelper
 
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
@@ -100,17 +104,25 @@ class PBCorePresenter
   def title
     @title ||= build_display_title
   end
+  def episode_number_sort
+    @episode_number_sort ||= titles.select { |title| title[0] == "Episode Number" }.map(&:last).sort.first
+  end
   def exhibits
-    @exhibits ||= Exhibit.find_all_by_item_id(id)
+    @exhibits ||= id_styles(id).map { |style| Exhibit.find_all_by_item_id(style) }.flatten
+  end
+  def top_exhibits
+    @top_exhibits ||= id_styles(id).map { |style| Exhibit.find_top_by_item_id(style) }.flatten.uniq
   end
   def special_collections
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
+  def original_id
+    # just normalize guid thats in the xml
+    @original_id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]')
+  end
+  # Normalizes to dash
   def id
-    # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
-    # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
-    # TODO: https://github.com/WGBH/AAPB2/issues/870
-    @id ||= xpath('/*/pbcoreIdentifier[@source="http://americanarchiveinventory.org"]').gsub('cpb-aacip/', 'cpb-aacip_')
+    normalize_guid(original_id)
   end
   SONY_CI = 'Sony Ci'.freeze
   def ids
@@ -128,6 +140,7 @@ class PBCorePresenter
   def display_ids
     @display_ids ||= ids.keep_if { |i| i[0] == 'AAPB ID' || i[0].downcase.include?('nola') }
   end
+  # Uses normalized GUID
   def media_srcs
     @media_srcs ||= (1..ci_ids.count).map { |part| "/media/#{id}?part=#{part}" }
   end
@@ -143,11 +156,24 @@ class PBCorePresenter
   rescue NoMatchError
     nil
   end
+  def constructed_transcript_src
+    @constructed_transcript_url ||= begin
+      # transcript guids are expected to have -
+      trans_id = normalize_guid(id)
 
+      # check if s3 transcript is a json or txt
+      %w(json txt).each do |ext|
+        url = %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.#{ext})
+        return url if verify_transcript_src(url)
+      end
+    end
+  end
+  def verify_transcript_src(url)
+    HTTParty.head(url).code == 200
+  end
   def img?
     media_type == MOVING_IMAGE && digitized?
   end
-
   def img_src(icon_only = false)
     @img_src ||= begin
       url = nil
@@ -184,7 +210,7 @@ class PBCorePresenter
     @img_width = img_dimensions[0]
   end
   def contributing_organization_names
-    @contributing_organization_names ||= xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq
+    @contributing_organization_names ||= Organization.clean_organization_names(xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq)
   end
   def contributing_organizations_facet
     @contributing_organizations_facet ||= contributing_organization_objects.map(&:facet) unless contributing_organization_objects.empty?
@@ -223,6 +249,9 @@ class PBCorePresenter
   rescue NoMatchError
     nil
   end
+  def canonical_url
+    @canonical_url ||= CanonicalUrl.new(id).url
+  end
   def access_level
     @access_level ||= begin
       access_levels = xpaths('/*/pbcoreAnnotation[@annotationType="Level of User Access"]')
@@ -243,7 +272,7 @@ class PBCorePresenter
   end
   def access_level_description
     return 'Online Reading Room' if public?
-    return 'Accessible on location at WGBH and the Library of Congress. ' if protected?
+    return 'Accessible on location at GBH and the Library of Congress. ' if protected?
   end
   CORRECT_TRANSCRIPT = 'Correct'.freeze
   CORRECTING_TRANSCRIPT = 'Correcting'.freeze
@@ -255,8 +284,8 @@ class PBCorePresenter
   end
   def transcript_content
     return nil unless transcript_src
-    return TranscriptFile.new(id).json if TranscriptFile.json_file_present?(id)
-    return TranscriptFile.new(id).text if TranscriptFile.text_file_present?(id)
+    transcript_file = TranscriptFile.new(transcript_src)
+    return transcript_file.content if transcript_file
     caption_file = CaptionFile.new(id)
     return caption_file.json if caption_file && caption_file.json
     nil
@@ -281,17 +310,26 @@ class PBCorePresenter
     media_type == SOUND
   end
   def duration
+    # for AAPB, the (preferred) machine-generated duration is always expected to be
+    # a) inside a pbcoreInstantiation that has an instantiationGenerations with the text "Proxy"
+    # b) in an instantiationEssenceTrack/essenceTrackDuration
+    # if you cant find that, choose another essenceTrackDuration
     @duration ||= begin
-      xpath('/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration')
-    rescue
-
-      # old cases
-      begin
-        xpath('/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/../instantiationDuration')
-      rescue
-        xpaths('/*/pbcoreInstantiation/instantiationDuration').first
-      end
+      proxy_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationGenerations[text()="Proxy"]/..').first
+      proxy_duration_node = REXML::XPath.match(proxy_node, 'instantiationEssenceTrack/essenceTrackDuration') if proxy_node
+      return proxy_duration_node.first.text if proxy_duration_node.present?
+      any_duration_node = REXML::XPath.match(@doc, '/*/pbcoreInstantiation/instantiationEssenceTrack/essenceTrackDuration').first
+      any_duration_node.text if any_duration_node.present?
     end
+  end
+  def seconds
+    dur = duration
+    return 0 unless dur
+    parts = dur.split(':')
+    hours = parts[0].to_i * 3600
+    mins = parts[1].to_i * 60
+    secs = parts[2].to_i
+    hours + mins + secs
   end
   def player_aspect_ratio
     @player_aspect_ratio ||= begin
@@ -389,32 +427,39 @@ class PBCorePresenter
                             '//pbcoreDescription[last()]'
                           ].detect { |xp| xpaths(xp).count > 0 }
 
-    caption_response = Net::HTTP.get_response(URI.parse(PBCorePresenter.srt_url(id)))
-    if caption_response.code == '200'
+    # This verifies that there is a corresponding file on S3 and adds
+    # a PBCore annotation required for AAPB but not coming from AMS or AMS2
+    captions = CaptionFile.new(id)
+    unless captions.captions_src.nil?
       pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      caption_body = parse_caption_body(CaptionConverter.srt_to_text(caption_response.body))
+
+      caption_body = captions.text
 
       cap_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
         el.add_attribute('annotationType', CAPTIONS_ANNOTATION)
-        el.add_text(PBCorePresenter.srt_url(id))
+        el.add_text(captions.captions_src)
       end
 
       full_doc.insert_after(spot_for_annotations, cap_anno)
     end
 
-    transcript = TranscriptFile.new(id)
-    if transcript.file_present?
-      pre_existing = pre_existing_transcript_annotation(full_doc)
-      pre_existing.parent.elements.delete(pre_existing) if pre_existing
-      transcript_body = Nokogiri::HTML(transcript.html).text.tr("\n", ' ')
+    # if transcript status exists in pbcore, put the transcript url annotation in
+    if transcript_status
+      transcript_file = TranscriptFile.new(constructed_transcript_src)
 
-      trans_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
-        el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
-        el.add_text(transcript.url)
+      if transcript_file.file_present?
+        pre_existing = pre_existing_transcript_annotation(full_doc)
+        pre_existing.parent.elements.delete(pre_existing) if pre_existing
+        transcript_body = Nokogiri::HTML(transcript_file.html).text.tr("\n", ' ')
+
+        trans_anno = REXML::Element.new('pbcoreAnnotation').tap do |el|
+          el.add_attribute('annotationType', TRANSCRIPT_ANNOTATION)
+          el.add_text(constructed_transcript_src)
+        end
+
+        full_doc.insert_after(spot_for_annotations, trans_anno)
       end
-
-      full_doc.insert_after(spot_for_annotations, trans_anno)
     end
 
     {
@@ -424,6 +469,7 @@ class PBCorePresenter
       # constrained searches:
       'text' => text + [caption_body].select { |optional| optional } + [transcript_body].select { |optional| optional },
       'titles' => titles.map(&:last),
+      'episode_number_sort' => episode_number_sort,
       'contribs' => contribs,
 
       # sort:
@@ -467,13 +513,13 @@ class PBCorePresenter
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
       :instantiations, :outside_url,
-      :reference_urls, :exhibits, :special_collections, :access_level_description,
-      :img_height, :img_width, :player_aspect_ratio,
-      :player_specs, :transcript_status, :transcript_content,
+      :reference_urls, :exhibits, :top_exhibits, :special_collections, :access_level_description,
+      :img_height, :img_width, :player_aspect_ratio, :seconds,
+      :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src, :verify_transcript_src,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl, :original_id
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)

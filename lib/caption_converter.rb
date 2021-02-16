@@ -61,6 +61,8 @@ class CaptionConverter
   end
 
   def self.parse_srt(srt)
+    # We don't want an error if srt.nil?. We just don't want to display the caption.
+    return nil if srt.nil?
     SRT::File.parse(srt).tap do |parsed|
       if parsed.errors.any?
         # Rails.logger.warn('Warning: ' + parsed.errors.join(' '))

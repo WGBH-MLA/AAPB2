@@ -2,9 +2,12 @@ require 'sony_ci_api'
 
 class MediaController < ApplicationController
   include Blacklight::Catalog
+  include BlacklightGUIDFetcher
 
   def show
-    _response, document = fetch(params['id'])
+    # From BlacklightGUIDFetcher
+    _response, document = fetch_from_blacklight(params[:id])
+
     xml = document['xml']
     pbcore = PBCorePresenter.new(xml)
 

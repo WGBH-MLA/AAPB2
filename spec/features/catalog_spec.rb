@@ -2,26 +2,33 @@ require 'rails_helper'
 require 'resolv'
 require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
-require_relative '../support/validation_helper'
 require_relative '../support/feature_test_helper'
 
 describe 'Catalog' do
-  include ValidationHelper
-
   IGNORE_FILE = Rails.root.join('spec', 'support', 'fixture-ignore.txt')
 
   before(:all) do
     PBCoreIngester.load_fixtures
   end
 
-  def expect_count(count)
+  # We're just returning something here since we don't want a call to s3 for a transcript to fail but we don't want to enable webmock since that breaks calls to other external services. We're not testing transcript content here.
+  before(:each) do
+    allow_any_instance_of(TranscriptFile).to receive(:content).and_return(File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json'))
+  end
+
+  def expect_count(count, page_text = "")
     case count
     when 0
       expect(page).to have_text('No entries found'), missing_page_text_custom_error('No entries found', page.current_path)
     when 1
       expect(page).to have_text('1 entry found'), missing_page_text_custom_error('1 entry found', page.current_path)
     else
-      expect(page).to have_text("1 - #{[count, 10].min} of #{count}"), missing_page_text_custom_error("1 - #{[count, 10].min} of #{count}", page.current_path)
+
+      if page_text.present?
+        page_text = page_text.scan(/1 - \d{1,5} of \d{1,5}/).first
+      end
+
+      expect(page).to have_text("1 - #{[count, 10].min} of #{count}"), missing_page_text_custom_error("1 - #{[count, 10].min} of #{count}", page.current_path, page_text)
     end
   end
 
@@ -73,9 +80,9 @@ describe 'Catalog' do
     end
 
     it 'can find one item' do
-      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=1234"
+      visit "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&q=\"cpb-aacip-1234\""
       expect(page.status_code).to eq(200)
-      expect_count(1)
+      expect_count(1, page.text)
       [
         'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
         'Date: 2000-01-01',
@@ -84,8 +91,8 @@ describe 'Catalog' do
       ].each do |field|
         expect(page).to have_text(field), missing_page_text_custom_error(field, page.current_path)
       end
-      expect_thumbnail(1234)
-      expect_fuzzy_xml
+
+      expect_thumbnail('cpb-aacip_1234')
     end
 
     it 'offers to broaden search' do
@@ -106,8 +113,7 @@ describe 'Catalog' do
           it "view #{url}" do
             visit url
             expect(page.status_code).to eq(200)
-            expect_count(count)
-            expect_fuzzy_xml
+            expect_count(count, page.text)
           end
         end
       end
@@ -143,8 +149,7 @@ describe 'Catalog' do
               page.all("#facet-#{facet} li a.facet_select").count
             ).to eq facet_count # expected number of values for each facet
             expect(page.status_code).to eq(200)
-            expect_count(value_count)
-            expect_fuzzy_xml
+            expect_count(value_count, page.text)
           end
         end
       end
@@ -158,8 +163,7 @@ describe 'Catalog' do
             url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&f[#{facet}][]=#{value}"
             it "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
-              expect_count(value_count)
-              expect_fuzzy_xml
+              expect_count(value_count, page.text)
             end
           end
         end
@@ -174,8 +178,7 @@ describe 'Catalog' do
             # xit-ing as this appears to be standard Blacklight functionality
             xit "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
-              expect_count(value_count)
-              expect_fuzzy_xml
+              expect_count(value_count, page.text)
             end
           end
         end
@@ -197,7 +200,7 @@ describe 'Catalog' do
               # xit-ing as this appears to be standard Blacklight functionality
               xit "has #{value_count} results" do
                 visit url
-                expect_count(value_count)
+                expect_count(value_count, page.text)
               end
             end
           end
@@ -207,39 +210,39 @@ describe 'Catalog' do
           visit '/catalog?f[access_types][]=online'
 
           # commenting out as this appears to be standard Blacklight functionality
-          # expect_count(10)
+          # expect_count(10, page.text)
           # expect(page).to have_text('You searched for: Access online'), missing_page_text_custom_error('You searched for: Access online', page.current_path)
 
           click_link('All Records')
           # commenting out as this appears to be standard Blacklight functionality
-          # expect_count(43)
+          # expect_count(43, page.text)
           # expect(page).to have_text('You searched for: Access all'), missing_page_text_custom_error('You searched for: Access all', page.current_path)
-
-          expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
+          expect(page).to have_field('KQED__CA_', checked: false)
+          # turn on
           click_link('KQED (CA)')
-          expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
-          expect_count(3)
+          expect(page).to have_field('KQED__CA_', checked: true)
+          expect_count(3, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) Remove constraint Contributing Organizations: KQED (CA)', page.current_path)
 
+          # turn on
           click_link('WGBH (MA)')
-          expect_count(9)
+          expect_count(9, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations KQED (CA) OR WGBH (MA) Remove constraint Contributing Organizations: KQED (CA) OR WGBH (MA)', page.current_path)
 
+          # turn off
           click_link('KQED (CA)')
-          expect_count(6)
+          expect_count(6, page.text)
           expect(page).to have_text('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)'), missing_page_text_custom_error('You searched for: Access all Remove constraint Access: all '\
                                     'Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA)', page.current_path)
 
-          all(:css, '.constraints-container a.remove').first.click # remove access all
-          # If you attempt to remove the access facet, it redirects you to the default,
-          # but the default depends on requestor's IP address.
-          # TODO: set address in request.
-          expect_count(4)
+          click_link('All Digitized')
+
+          expect_count(5, page.text)
           expect(page).to have_text('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) '), missing_page_text_custom_error('You searched for: Contributing Organizations WGBH (MA) Remove constraint Contributing Organizations: WGBH (MA) ', page.current_path)
 
           click_link('Iowa Public Television (IA)')
@@ -295,7 +298,6 @@ describe 'Catalog' do
               visit url
               expect(page.status_code).to eq(200)
               expect(page.all('.document h2').map(&:text)).to eq(titles)
-              expect_fuzzy_xml
             end
           end
         end
@@ -321,7 +323,6 @@ describe 'Catalog' do
               ).to eq(assertions.map(&:first)) # coverage
               expect(page.status_code).to eq(200)
               expect(page.find('.document[1] h2').text).to eq(title)
-              expect_fuzzy_xml
             end
           end
         end
@@ -387,8 +388,32 @@ describe 'Catalog' do
                 ['15th Anniversary Show'],
                 ['1974 Nixon Impeachment Hearings; 1974-07-26; Part 3 of 6']
               ].map { |x| x.join('; ') }.join("\n"))
-            expect_fuzzy_xml
           end
+        end
+      end
+    end
+
+    context 'quoted phrases in "OR" search', :focus do
+      let(:quoted_phrases) { '"Film and Television" OR "Event Coverage"' }
+
+      context ', with quoted phrase at the beginning' do
+        before { visit "/catalog?q=#{quoted_phrases}+OR+blergifoo&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
+        end
+      end
+
+      context ', with quoted phrase at the end' do
+        before { visit "/catalog?q=blergifoo+OR+#{quoted_phrases}&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
+        end
+      end
+
+      context ', with quoted phrase in the middle' do
+        before { visit "/catalog?q=blergifoo+OR+#{quoted_phrases}+OR+blergifoo&f[access_types][]=all" }
+        it 'returns only records matching the phrase exactly (no stemming)' do
+          expect_count(2)
         end
       end
     end
@@ -396,16 +421,17 @@ describe 'Catalog' do
 
   describe '.pbcore' do
     it 'works' do
-      visit '/catalog/1234.pbcore'
+      visit '/catalog/cpb-aacip-1234.pbcore'
       expect(page.status_code).to eq(200)
-      expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.xml'))
+      # WARNING - Checks validity but not accuracy of data.
+      expect { ValidatedPBCore.new(page.source) }.not_to raise_error
       expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
     end
   end
 
   describe '.mods' do
     it 'works' do
-      visit '/catalog/1234.mods'
+      visit '/catalog/cpb-aacip-1234.mods'
       expect(page.status_code).to eq(200)
       expect(page.source).to eq(File.read(Rails.root + 'spec/fixtures/pbcore/clean-MOCK.mods'))
       expect(page.response_headers['Content-Type']).to eq('text/xml; charset=utf-8')
@@ -414,6 +440,7 @@ describe 'Catalog' do
 
   describe '#show' do
     before do
+      # CATALOG SPEC FORCES REMOTE IP TO BE WGBH (ONSITE) - N'ERE SHALL THEE FORGEEEEEEEEEEET
       page.driver.options[:headers] = { 'REMOTE_ADDR' => '198.147.175.1' }
     end
 
@@ -432,10 +459,15 @@ describe 'Catalog' do
       end
     end
 
+    it '404s if given bad id' do
+      visit '/catalog/thisaintreal'
+      expect(page.status_code).to eq(404)
+    end
+
     it 'has thumbnails if outside_url' do
-      visit '/catalog/1234'
+      visit '/catalog/cpb-aacip-1234'
       # expect_all_the_text('clean-MOCK.xml')
-      expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
+      expect_thumbnail('cpb-aacip_1234') # has media, but also has outside_url, which overrides.
       expect_no_media
       expect_external_reference
     end
@@ -460,7 +492,7 @@ describe 'Catalog' do
       expect_no_media
     end
 
-    it 'links to collection' do
+    it 'links to exhibit' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
       expect(page).to have_text('This record is featured in'), missing_page_text_custom_error('This record is featured in', page.current_path)
       expect_video(poster: s3_thumb('cpb-aacip_111-21ghx7d6'))
@@ -472,7 +504,7 @@ describe 'Catalog' do
     end
 
     it 'has no transcript if expected' do
-      visit '/catalog/ccpb-aacip_508-g44hm5390k'
+      visit '/catalog/cpb-aacip_508-g44hm5390k'
       expect_no_transcript
     end
 
@@ -491,7 +523,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_111-21ghx7d6'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-exhibit.xml')
-        expect(page).to have_text('only available at WGBH and the Library of Congress. '), missing_page_text_custom_error('only available at WGBH and the Library of Congress. ', page.current_path)
+        expect(page).to have_text('only available at GBH and the Library of Congress. '), missing_page_text_custom_error('only available at GBH and the Library of Congress. ', page.current_path)
         expect_no_media
       end
 
@@ -542,7 +574,6 @@ describe 'Catalog' do
         details_url = "/catalog/#{id.gsub('/', '%2F')}" # Remember the URLs are tricky.
         it "details: #{details_url}" do
           visit details_url
-          expect_fuzzy_xml
         end
         search_url = "/catalog?f[access_types][]=#{PBCorePresenter::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
         # because of tokenization, unless we strip the ID down we will get other matches.
@@ -551,8 +582,7 @@ describe 'Catalog' do
         xit "search: #{search_url}" do
           visit search_url
           expect(page.status_code).to eq(200)
-          expect_count(1)
-          expect_fuzzy_xml
+          expect_count(1, page.text)
         end
       end
     end

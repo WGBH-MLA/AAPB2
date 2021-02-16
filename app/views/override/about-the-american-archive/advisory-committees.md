@@ -18,46 +18,49 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 - Provide website feedback for K-12 use <br>
 - Assist in outreach to their networks and communities (other educators, students, school librarians, and leaders) and beyond <br>
 
-### Current Education Advisory Committee Members 
+### Current Education Advisory Committee Members
 
 **Franky Abbott**
 <br>Independent Education Consultant
 
 **Tom Bober (EduAC Co-Chair)**
-<br>School Librarian, School District of Clayton, MO
+<br>District Library Coordinator, School District of Clayton, MO
 
 **Joel Breakstone**
 <br>Director, Stanford History Education Group
 
-**Kerry Dunne**
-<br>6-12 History & Social Studies Department Head, Weston Public Schools, MA
-
-**June Fox**
-<br>General Manager, C89.5 / KNHC Public Radio
+**Laura Evans**
+<br>Director of Education, Georgia Public Broadcasting
 
 **Justin Jakovac**
-<br>Executive Director, National Council for History Education
+<br>Executive Director, Mountain-Plains Museums Association
+
+**Benjamin Leff**
+<br>Social Studies Teaching Associate, University Laboratory High School, Urbana, IL
+
+**Kristin Lehner**
+<br>Director, Secondary Education Content & Curriculum Strategy, PBS Education
 
 **Sherry Levitt**
-<br>Executive Director, Teaching with Primary Sources, Virginia 
+<br>Executive Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
 
-**Lawrence Paska**
+**Lawrence M. Paska, Ph.D**
 <br>Executive Director, National Council for the Social Studies
 
-**Joseph Phelan**
-<br>Program Specialist, National Endowment for the Humanities, Division of Education Programs
-
 **Lee Ann Potter (EduAC Co-Chair)**
-<br>Director of Educational Outreach, Library of Congress
+<br>Director of Learning and Innovation Office, Library of Congress
 
-**Nate Sleeter**
-<br>Postdoctoral Fellow in Digital Teaching and Learning, George Mason University, VA
+**Jen Reidel**
+<br>Social Studies Teacher 9-12, Bellingham School District, WA
 
 **Ted Sicker**
-<br>Executive Producer, Education, WGBH
+<br>Executive Producer, Education, GBH
 
-**Dr. Cynthia Szwajkowski**
-<br>Assistant Director, Teaching with Primary Sources, Virginia
+**Nate Sleeter**
+<br>Research Assistant Professor, Roy Rosenzweig Center for History and New Media, George Mason University
+
+**Dr. Cynthia Szwajkowski, Ph.D**
+<br>Assistant Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
 
 ---
 
@@ -76,19 +79,34 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 - Provide advice and recommendations on collections significant for preservation <br>
 - Assist in outreach to their networks and communities (other scholars, undergraduate and graduate students) and beyond <br>
 
-### Current Scholar Advisory Committee Members 
+### Current Scholar Advisory Committee Members
 
 **Robert K. Avery**
 <br>Emeritus Professor of Communication, University of Utah
 
+**Kathryn Cramer Brownell**
+<br>Associate Professor fo History, Purdue University
+
+**Dolores Inés Casillas**
+<br>Associate Professor of Chicana and Chicano Studies and a Faculty Affiliate of Film & Media Studies and Applied Linguistics, University of California, Santa Barbara
+
+**Brenda J. Child**
+<br>Northrop Professor of American Studies, University of Minnesota
+
 **Mark Garrett Cooper**
-<br>Professor in the Department of English Language and Literature, University of South Carolina
+<br>Professor of Film and Media Studies, University of South Carolina
+
+**Sherman Dorn**
+<br>Professor of Education, Arizona State University
 
 **Scot French**
 <br>Associate Professor of Digital & Public History, University of Central Florida
 
+**Joshua Glick**
+<br>Assistant Professor of English, Film, and Media Studies, Hendrix College and Fellow at MIT's Open Documentary Lab
+
 **Peter B. Kaufman**
-<br>Research Affiliate, Massachusetts Institute of Technology Office of Digital Learning; Executive Producer, Intelligent Television
+<br>Strategic Initiatives, MIT Open Learning & MIT Knowledge Futures Group; Executive Producer, Intelligent Television
 
 **Dimitrios Latsis**
 <br>Assistant Professor, Ryerson University, Toronto, ON
@@ -96,32 +114,20 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Jeffrey W. McClurken**
 <br>Professor of History and American Studies and Chief of Staff to the President at the University of Mary Washington, VA
 
-**Trevor Muñoz**
-<br>Interim Director, Maryland Institute for Technology in the Humanities (MITH); Assistant Dean for Digital Humanities Research, University Libraries, University of Maryland
-
-**Ingrid Ockert (SAC Co-Chair)**
+**Ingrid Ockert**
 <br>Post-Doctoral Fellow, Philadelphia Science History Institute
 
-**Kathryn Ostrofsky**
-<br>Freelance Historian
+**Kathryn Ostrofsky (SAC Co-Chair)**
+<br>Archivist/Librarian, Dedham Historical Society & Museum
 
 **Allison Perlman (SAC Co-Chair)**
-<br>Associate Professor of Film and Media Studies and History, University of California, Irvine 
-
-**Dana Polan**
-<br>Professor of Cinema Studies, New York University
+<br>Associate Professor of Film and Media Studies and History, University of California, Irvine
 
 **Bernard F. Reilly**
-<br>President, Center for Research Libraries 
+<br>President Emeritus, Center for Research Libraries
 
-**Steven V. Roberts**
-<br>J.B. and M.C. Shapiro Professor of Media and Public Affairs, School of Media and Public Affairs, George Washington University, D.C.
-
-**Roger C. Schonfeld**
-<br>Director, Libraries and Scholarly Communication Program, Ithaka S+R, NY
-
-**Sonja Williams**
-<br>Professor, Department of Media, Journalism and Film, Howard University, D.C.
+**Neil Verma**
+<br>Assistant Professor of Sound Studies in the Department of Radio/Television/Film, Northwestern University
 
 ---
 
@@ -164,23 +170,29 @@ organizations, producers and leaders) and beyond <br>
 **Robert Chehoski**
 <br>Manager, Media Management and Archives, KQED
 
-**Christopher Holmes**
-<br>Division Director - Production, Alabama Public Television
-
 **Kevin Crane**
 <br>President and CEO, Nashville Public Television
 
 **Maureen Harlow**
 <br>Senior Digital Librarian, PBS
 
-**Julie Rogers** 
+**Terry Gildea**
+<br>Executive Director, Public Media Journalists Association
+
+**Abby Goldstein**
+<br>President & Executive Director, Public Radio Program Directors Association
+
+**Christopher Holmes**
+<br>Vice President, Production & Digital Studios, Alabama Public Television
+
+**Julie Rogers**
 <br>Public Historian, NPR’s Research, Archives, and Data Strategy Team
 
 **Laura Sampson**
 <br>Board Trustee for National Friends of Public Broadcasting (NFPB); Founder and Board Member of Station’s Archived Memories (SAM), Rocky Mountain Public Media
 
 **Winter Shanck**
-<br>Archivist, Thirteen/WNET 
+<br>Archivist, Thirteen/WNET
 
 **Alana Stone**
 <br>Project Coordinator, Vision Maker Media

@@ -14,8 +14,8 @@ Test Producer Description
 
 ## Featured
 
-[![Test Featured Item](http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-2r3nv99t98.jpg)](/catalog/cpb-aacip_111-21ghx7d6)
-[![Test Featured Item 2](http://americanarchive.org.s3.amazonaws.com/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg)](/catalog/cpb-aacip_111-21ghx7d6)
+[![Test Featured Item](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-2r3nv99t98.jpg)](/catalog/cpb-aacip_111-21ghx7d6)
+[![Test Featured Item 2](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_509-6h4cn6zm21.jpg)](/catalog/cpb-aacip_111-21ghx7d6)
 
 ## Resources
 
@@ -34,6 +34,12 @@ This is the search help text.
 
 - [Term 1](https://www.google.com/)
 - [Term 2](https://www.google.com/)
+
+## Timeline
+
+### The Title of the Timeline
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ISfXGK8EEuqCGcONWfekjLZhInxFQyFWwBAl2FbkIxs&font=Default&lang=en&initial_zoom=2&height=650&width=100%' height='650' width="100%" frameborder='0'></iframe>
 
 ## Sort
 

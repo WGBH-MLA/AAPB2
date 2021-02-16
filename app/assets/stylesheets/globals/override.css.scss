@@ -19,3 +19,17 @@
     margin-right: 10px;
   }
 }
+
+h2.override, h3.override {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+ul.override {
+  /*word-break: break-all;*/
+}
+
+span.override {
+  padding: 2%;
+  width: 50%;
+}

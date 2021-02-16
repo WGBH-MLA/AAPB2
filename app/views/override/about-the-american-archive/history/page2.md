@@ -8,7 +8,7 @@ archival imperatives of the Public Broadcasting Act of 1967 and the
 preservation recommendations of the 1997 Library of Congress Television and
 Video Preservation study.
 
-In 2004, WNET, WGBH, PBS, and New York University collaborated to introduce
+In 2004, WNET, GBH, PBS, and New York University collaborated to introduce
 digital preservation issues and practices to the public television system
 through the Preserving Digital Public Television (PDPTV) project, funded by the
 National Digital Information and Infrastructure Program of the Library of
@@ -81,7 +81,7 @@ components.[<sup>27</sup>](/about-the-american-archive/history/page3#27)
 
 ### American Archive Content Inventory Project
 
-In 2010, CPB contracted with WGBH to manage the American Archive Content
+In 2010, CPB contracted with GBH to manage the American Archive Content
 Inventory Project. Between 2010 and 2012, public media stakeholders and staff
 invested more than 107,000 person hours in a nationwide inventory of public
 broadcasting archival holdings. To accomplish the project, CPB provided
@@ -147,28 +147,28 @@ phases.”[<sup>32</sup>](/about-the-american-archive/history/page3#32)
 
 ### The American Archive of Public Broadcasting
 
-In April 2013, CPB selected WGBH and the Library of Congress as the permanent
+In April 2013, CPB selected GBH and the Library of Congress as the permanent
 stewards of the American Archive project and provided funding for an initial
 two-year period to complete the digitization project, ingest digital files,
 create a website for stations and the public, and develop plans for access,
 growth, and sustainability. Agreements between the parties involved were signed
-in August and September of 2013. WGBH and the Library chose “The American
+in August and September of 2013. GBH and the Library chose “The American
 Archive of Public Broadcasting,” abbreviated as “AAPB,” for the program’s
 official name.
 
-WGBH and the Library share governance responsibilities. WGBH is responsible for
+GBH and the Library share governance responsibilities. GBH is responsible for
 overseeing the completion of the digitization project; the development of the
 AAPB website to provide the public with access to the more than 2.5 million
 inventory records and as many of the digital files as possible, rights
 permitting; and station relations. The Library will ingest files into its
 Packard Campus Digital Archive and maintain the integrity of the AAPB digitized
 content in perpetuity. All 40,000 hours of digitized material will be available
-for on-site viewing and listening at WGBH and the Library of Congress.
+for on-site viewing and listening at GBH and the Library of Congress.
 
-Together, WGBH and the Library of Congress have developed plans to grow the
+Together, GBH and the Library of Congress have developed plans to grow the
 collection by enhancing existing metadata records, targeting and adding new
 records from stations and other institutions with at risk public broadcasting
-materials, and targeting and adding new digital files. By October 2015, WGBH
+materials, and targeting and adding new digital files. By October 2015, GBH
 and the Library plan to open an online reading room on the AAPB website,
 restricted to research, educational and informational uses, with content made
 available for streaming for which permissions has been obtained or which may
@@ -177,7 +177,7 @@ under fair use and other legal doctrines.  The two organizations plan to create
 curated presentations, develop educational outreach programs, and pursue grants
 to sustain AAPB for the long term.
 
-WGBH and the Library believe that the legacy of American public broadcasting
+GBH and the Library believe that the legacy of American public broadcasting
 must be preserved for future generations. We will continue to be helped in this
 effort by lessons learned from those involved in earlier initiatives to
 preserve public broadcasting materials. We look forward to collaborating with

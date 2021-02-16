@@ -1,6 +1,6 @@
 # Say Brother
 
-## Thumbnail
+## Thumbnail 
 
 ![Say Brother](https://s3.amazonaws.com/americanarchive.org/special-collections/SayBrother.jpg "Say Brother")
 
@@ -26,7 +26,7 @@ In April 2000, the WGBH Media Library and Archives in Boston was awarded a Natio
 - [*Eyes on the Prize* Special Collection](http://americanarchive.org/special_collections/eotp-i-interviews)
 - [*Freedom Riders* Special Collection ](http://americanarchive.org/special_collections/freedom-riders-interviews)
 - [Amistad Digital Resource for Teaching African American History, Columbia University](http://www.amistadresource.org/)
-- [Black Power, The King Center](http://www.thekingcenter.org/archive/theme/7461)
+- [The King Center](https://thekingcenter.org/)
 - [Boston TV News Digital Library](http://bostonlocaltv.org)
 
 ## Funders
@@ -37,6 +37,10 @@ Records are described at an item level, and searches by date, year or topic will
 
 ## Terms
 
+
+## Timeline
+
 ## Sort
 
 asset_date+asc
+

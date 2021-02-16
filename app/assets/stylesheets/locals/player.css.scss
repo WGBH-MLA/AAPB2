@@ -27,13 +27,13 @@
   line-height: 36px;
 }
 
-.skip-button {
+.player-button {
   background-color: rgb(101, 48, 144);
   color: rgb(255, 255, 255);
   cursor: pointer;
   font-family: Roboto, Verdana, Tahoma, "DejaVu Sans", sans-serif;
   font-size: 10px;
-  height: 7vh;
+  height: 5vh;
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
@@ -45,5 +45,156 @@
   position: relative;
   text-align: center;
   vertical-align: middle;
-  width: 4vw;
+  width: 58px;
+}
+
+.skip-button {
+  width: 9vw;
+}
+
+.embed-button {
+  width: 12vw;
+}
+
+.timecode-share-text {
+  min-width: 20vw;
+  width: 30vw;
+  max-width: 30vw;
+  height: 100%;
+}
+
+.timecode-embed-text {
+  min-width: 20vw;
+  width: 30vw;
+  max-width: 30vw;
+  height: 100%;
+  min-height: 8vw;
+}
+
+#share-controls label, input {
+  display: inline;
+  font-size: 10px;
+}
+
+.share-controls-row {
+  min-height: 2vw;
+}
+
+#timecode-share-container {
+  margin-top: 8px;
+  margin-bottom: 10px;
+  h5 {
+    margin-bottom: 0;
+    margin-top: 1vw;
+  }
+  #share-controls {
+    .player-button {
+      height: 3vw;
+    }
+  }
+}
+
+#time-range {
+  top: 1em;
+}
+
+#times, #video-duration, #time-range-switch, #time-range-container {
+  display: none;
+}
+
+#time-range-container {
+  margin-top: 1em;
+}
+
+#clip-message-container {
+  display: none;
+  font-size: 14px;
+}
+
+#times-display {
+  height: 1em;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* The switch - the box around the slider */
+.switch {
+  background-color: none;
+  position: relative;
+  display: inline-block;
+  top: 1.2em;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute !important;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #e4e4e4;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: #292A72;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #8C8EB8;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #292A72;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px !important;
+}
+
+.slider.round:before {
+  border-radius: 50% !important;
+}
+
+@media (max-width: 992px) {
+  #content-share-container {
+    margin-top: 1.5em;     
+  }
+
+}
+@media (max-width: 720px) {
+  .skip-button {
+    width: 17vw;
+    height: 17vw;
+  }
+
+  #timecode-share-container #share-controls .player-button {
+    height: 5vw;
+  }
 }

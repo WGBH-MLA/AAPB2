@@ -14,10 +14,10 @@
 //= require jquery_ujs
 //= require jquery-ui/effect.all
 //= require jquery-ui
+//= require nouislider.min
 //
 // Required by Blacklight
 //= require blacklight/blacklight
-//= require turbolinks
 //= require_tree .
 
 // Mark.js and ScrollTo for Transcript Search
@@ -29,6 +29,8 @@
 //= stub transcript
 //= stub mobile-transcript
 //= stub player
+//= stub iterable_forms
+//= stub videojs-offset.min
 
 // For blacklight_range_limit built-in JS, if you don't want it you don't need
 // this:

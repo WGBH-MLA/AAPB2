@@ -49,7 +49,7 @@ class Downloader
   private
 
   def http_get(url)
-    URI.parse(url).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
+    URI.parse(url.strip).read(read_timeout: 240, ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE)
   end
 
   def mkdir_and_cd(name)
@@ -122,21 +122,30 @@ class Downloader
 
   def download_ids_to_directory(ids)
     ids.each do |id|
-      id = id.gsub(/[^[:ascii:]]/, '').gsub(/[^[:print:]]/, '')
-      short_id = id.sub(/.*[_\/]/, '')
+      # sub out the entire beginning of the guid, thats what AMS1 WANTS
+      short_id = id.gsub(/cpb-aacip./, '').gsub(/[^a-zA-Z0-9\/\-\_]/, '')
+
       content = if @options[:is_just_reindex]
                   $LOG.info("Query solr for #{id}")
+                  # Check to see if the doc is on AAPB SOLR
                   # TODO: hostname and corename from config?
-                  Solr.instance.connect
-                      .get('select', params: {
-                             qt: 'document', id: id
-                           })['response']['docs'][0]['xml']
+                  results = Solr.instance.connect.get('select', params: { qt: 'document', id: id })['response']['docs']
+
+                  if results.empty?
+                    # Set content to nil if nothing found in SOLR
+                    $LOG.info("SOLR Query is nil. Skipping ID: #{id}")
+                    nil
+                  else
+                    # Return the XML
+                    results[0]['xml']
+                  end
                 else
                   url = "https://ams.americanarchive.org/xml/pbcore/key/#{KEY}/guid/#{short_id}"
                   $LOG.info("Downloading #{url}")
                   http_get(url)
       end
-      Zipper.write("#{short_id}.pbcore", content)
+      # Only write content that we actually find
+      Zipper.write("#{short_id}.pbcore", content) unless content.nil?
     end
   end
 
