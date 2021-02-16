@@ -28,6 +28,8 @@ The BMA was established in 1995, with the Peabody Awards Collection as the basis
 - [Peabody Awards Collection, BMA](https://bmac.libs.uga.edu/pawtucket2/index.php/Peabody/Index)
 - [Federal Grant Announcement](https://www.wgbh.org/foundation/press/federal-grant-awarded-to-preserve-and-provide-access-to-local-public-broadcasts)
 
+## Timeline
+
 ## Funders
 Digitization, preservation, and access to this collection was funded by the National Historical Publications and Records Commission in 2017. 
 
