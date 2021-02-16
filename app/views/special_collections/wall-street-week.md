@@ -34,6 +34,10 @@ W$W examined the economic news from the US and abroad and looked at changes, cha
 - [<em>Wall $treet Week</em>, Forbes](https://www.forbes.com/sites/wallstreetweek/#2c59a1157ec0)
 - [Louis Rukeyser Obituary, Chicago Tribune](https://www.chicagotribune.com/zap-louisrukeyserobit050306-story.html)
 
+## Funders
+
+## Timeline
+
 ## Help
 
 Records are described at an item level and all records contain brief descriptions.
