@@ -15,7 +15,7 @@ Founded in 1968 by filmmaker Henry Hampton (1940-1998), Blackside, Inc. has prod
 ## Featured
 
 [![John Lewis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-8k74t6fv60.jpg)](/catalog/cpb-aacip_151-8k74t6fv60)
-[![Coretta Scott King](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-542j679j5g.jpg)](/catalog/cpb-aacip_151-542j679j5g)
+[![Coretta Scott King](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-542j679j5g_fixed.jpg)](/catalog/cpb-aacip_151-542j679j5g)
 [![Rosa Parks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-610vq2sx12.jpg)](/catalog/cpb-aacip_151-610vq2sx12)
 [![Stokely Carmichael](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-7659c6sr1g.jpg)](/catalog/cpb-aacip_151-7659c6sr1g)
 [![Melba Beals](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-z02z31p977.jpg)](/catalog/cpb-aacip_151-z02z31p977)
