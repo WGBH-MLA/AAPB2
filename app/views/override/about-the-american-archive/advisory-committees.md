@@ -26,17 +26,25 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Tom Bober (EduAC Co-Chair)**
 <br>District Library Coordinator, School District of Clayton, MO
 
+>”The American Archive of Public Broadcasting's [*Share a Segment*](https://americanarchivepb.wordpress.com/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) feature makes the thousands of hours of programming and original materials accessible to students of all ages. Instead of sharing an hour-long program and asking students to find time-stamps, educators are able to share a link that targets students' attention to a segment of any length specific to their curriculum.”
+
 **Joel Breakstone**
 <br>Director, Stanford History Education Group
 
+>”The American Archive of Public Broadcasting is an indispensable resource. Our team frequently turns to the AAPB's incredible collection of audio and visual sources when we are developing lesson plans. We also recommend it to teachers looking for materials for inquiry-based history instruction.”
+
 **Laura Evans**
 <br>Director of Education, Georgia Public Broadcasting
+
+>”The American Archive of Public Broadcasting is a unique platform that draws on some of the most significant events in recent American memory. These resources are an invaluable addition to the universe of content available to educators and students through public media. Our Georgia educators are thrilled to be able to bring such intimate perspectives on our nation's history into their classrooms.“
 
 **Justin Jakovac**
 <br>Executive Director, Mountain-Plains Museums Association
 
 **Benjamin Leff**
 <br>Social Studies Teaching Associate, University Laboratory High School, Urbana, IL
+
+>”As a high school history teacher, it's wonderful to be able to point students to trusted websites like the American Archive of Public Broadcasting. The [national collection](https://urldefense.com/v3/__https:/americanarchive.org/participating-orgs__;!!DZ3fjg!pW7b0LZ3ec3R0EtusZlyBEvcO-Fp3HCyuOLOjVsgXvUanEIUvREZIL4DXo7emHjT$) of public radio and television content provide engaging primary sources, and the [Curated Exhibits](https://urldefense.com/v3/__https:/americanarchive.org/exhibits__;!!DZ3fjg!pW7b0LZ3ec3R0EtusZlyBEvcO-Fp3HCyuOLOjVsgXvUanEIUvREZIL4DXghciEEP$) contextualize these sources with historical and analytical analysis. Take for example the [Televising Black Politics in the Black Power Era: Black Journal and Soul!](https://urldefense.com/v3/__https:/americanarchive.org/exhibits/black-power__;!!DZ3fjg!pW7b0LZ3ec3R0EtusZlyBEvcO-Fp3HCyuOLOjVsgXvUanEIUvREZIL4DXnUQxNnh$) exhibit. It can be hard to find resources like this that provide students with accessible audiovisual content that efficiently contextualizes their importance. Sources like these provide the basis for stimulating classroom discussions, as well as a rich mine for student research projects.”
 
 **Kristin Lehner**
 <br>Director, Secondary Education Content & Curriculum Strategy, PBS Education
@@ -49,6 +57,8 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 
 **Lee Ann Potter (EduAC Co-Chair)**
 <br>Director of Learning and Innovation Office, Library of Congress
+
+>”Primary sources are powerful teaching tools.  Unfortunately, finding free, multimedia primary sources from authoritative sources that are rights-free can be particularly challenging for teachers.  AAPB is a wonderful site for such materials!”
 
 **Jen Reidel**
 <br>Social Studies Teacher 9-12, Bellingham School District, WA
@@ -99,11 +109,15 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Sherman Dorn**
 <br>Professor of Education, Arizona State University
 
+>“The American Archive of Public Broadcasting (AAPB) is an important resource for my current project on postwar educational broadcasting. Among other materials, there is the [1967 profile of Fred Rogers](https://americanarchive.org/catalog/cpb-aacip_120-70zpcgr3), and the complete run of *Sesame Street* episodes over its first half-century. But AAPB is more than a collection of broadcasts and other holdings on famous shows. Its holdings of local broadcasts are invaluable, from television shows such as *Spectrum Hawaii*, produced by KHET in the 1980s, to radio programs, such as Vermont’s Legendary. I particularly adore the [1979 Legendary interview with radical Bread & Puppet Theater founder Peter Schumann](https://americanarchive.org/catalog/cpb-aacip_211-418kq334), who was a challenging interview subject, and the conversation that resulted is fascinating and historically important.”
+
 **Scot French**
 <br>Associate Professor of Digital & Public History, University of Central Florida
 
 **Joshua Glick**
 <br>Assistant Professor of English, Film, and Media Studies, Hendrix College and Fellow at MIT's Open Documentary Lab
+
+>”The American Archive of Public Broadcasting offers an invaluable resource of nonfiction media to help teach how national events, debates, and political struggles touched down locally. The holdings of [*Say Brother*](https://americanarchive.org/special_collections/say-brother) reveal Boston's relationship to the Black Power movement, and how communities of color in the area engaged with public media during a time of dynamic social change.”
 
 **Peter B. Kaufman**
 <br>Strategic Initiatives, MIT Open Learning & MIT Knowledge Futures Group; Executive Producer, Intelligent Television
@@ -117,11 +131,17 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Ingrid Ockert**
 <br>Post-Doctoral Fellow, Philadelphia Science History Institute
 
+>”The American Archive of Public Broadcasting (AAPB) is an incredible research for those who care about science. Do you want to learn more about climate change? Check out their incredible documentaries, like James Burke’s [*After the Warming*](https://americanarchive.org/catalog/cpb-aacip_394-65h9wd4r). Are you curious about space? The AAPB holds a number of NASA’s stellar [public relations films](https://americanarchive.org/catalog/cpb-aacip_513-x639z91q83), as well as television series like [*Doctors in Space*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Doctors+in+Space&f[access_types][]=online). The more I find in the AAPB, the more I understand how science was communicated to and trusted by Americans in the 20th century.”
+
 **Kathryn Ostrofsky (SAC Co-Chair)**
 <br>Archivist/Librarian, Dedham Historical Society & Museum
 
+>”Through public investment and massive intellectual and creative labor, public broadcasting takes a powerful medium that primarily is used to sell audience ears and eyes to advertisers, and makes it work for the people. For instance, this WGBH radio coverage of from the [*United States Civil Rights Commission Hearings on Boston School Desegregation*](https://americanarchive.org/catalog/cpb-aacip_15-47dr85g2) was an important contribution to Bostonians' understanding of public affairs in 1975, but it still has much to teach us today. The American Archive of Public Broadcasting rescues these resources and makes them accessible to the people once again for new uses in classrooms, humanities research, civic engagement, and lifelong learning.”
+
 **Allison Perlman (SAC Co-Chair)**
 <br>Associate Professor of Film and Media Studies and History, University of California, Irvine
+
+>”The American Archive of Public Broadcasting (AAPB) is the most important resource to emerge over the last decade for historians of US media. In making discoverable and accessible thousands of public radio and TV shows, it has provided us with an exceptional archive to script more thorough histories of public media and to understand how people made sense of political and social transformations across the 20th century. My exhibit on [National Educational Television](https://americanarchive.org/exhibits/conservatism) programs on modern conservatism, for example, was illuminating for the interviews telecast of key figures in the conservative movement and for how the programs collectively mapped the significance of conservatism in a period in which its impact was still uncertain.”
 
 **Bernard F. Reilly**
 <br>President Emeritus, Center for Research Libraries
@@ -161,11 +181,17 @@ organizations, producers and leaders) and beyond <br>
 **Katie Basile**
 <br>Multimedia Director/Producer, KYUK
 
+>”The American Archive of Public Broadcasting (AAPB) gives communities access to the recorded history of their region. In Southwest Alaska so much of the history is shared through oral storytelling. By making [KYUK's](https://americanarchive.org/participating-orgs/1703) archive accessible to the public, people are able to go back and see Elders who have passed away and hear the stories that might have otherwise been lost. With the AAPB's dedication to preserving our audio/visual history, culture thrives as well. - Gabby Hiestand Salgado and Katie Basile"
+
 **Leslie Bourgeois (SPAC Co-Chair)**
 <br>Archivist, Louisiana Public Broadcasting
 
+>"The AAPB is a wonderful collaborator that is helping close the gap between preservation efforts and audience awareness. [The Louisiana Digital Media Archive](http://ladigitalmedia.org/) has applied for grants with the AAPB to preserve content in the LDMA collection and now master copies of the programs are preserved for posterity at the Library of Congress and links-out to LDMA's website are provided on the AAPB. Having this kind of cross-reference only benefits the historic series such as [*En Français*](https://americanarchive.org/special_collections/en-francais), [*Louisiana: The State We're In*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Louisiana%3A+The+State+We%27re+In&f[access_types][]=online), and [*A Taste of Louisiana with Chef John Folse*](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Louisiana+Public+Broadcasting+%28LA%29&q=%22A+Taste+of+Louisiana+with+Chef+John+Folse%22)."
+
 **Jack Brighton**
 <br>Archivist/Developer, Illinois Public Media
+
+>”Like other public radio stations who first went on the air some 100 years ago, [WILL](https://americanarchive.org/participating-orgs/1760) has many thousands of historical records in the form of audiovisual archives. These recordings reflect the power of broadcasting as an educational medium, and document both the momentous and the mundane events of the 20th century. These records of the past help us understand who we are today and how we got here. The AAPB has become the center-point for preserving this history and making it accessible now and in the future. WILL is proud to contribute everything we can to the project.”
 
 **Robert Chehoski**
 <br>Manager, Media Management and Archives, KQED
@@ -191,11 +217,17 @@ organizations, producers and leaders) and beyond <br>
 **Laura Sampson**
 <br>Board Trustee for National Friends of Public Broadcasting (NFPB); Founder and Board Member of Station’s Archived Memories (SAM), Rocky Mountain Public Media
 
+>”Since 2010, Rocky Mountain PBS (RMPBS) and its volunteer-driven archive project known as [Station’s Archived Memories (SAM)](https://www.rmpbs.org/volunteer/sam/) have proudly participated and benefited from our ongoing relationship with the American Archive of Public Broadcasting (AAPB). In 2018, RMPBS volunteer leaders generated a new level of community engagement around the RMPBS collection through the [Transcribe to Digitize Challenge](https://americanarchivepb.wordpress.com/2018/10/22/aapbs-transcribe-to-digitize-challenge-with-george-blood/), a preservation effort co-hosted by George Blood L.P. This challenge resulted in the correction of more than 120 computer-generated in FIX IT+ and additional tapes digitized by Blood. I continue to participate in the AAPB as a member of the [Stations and Producers Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) and have shared AAPB’s massive collection of historic programs with our RMPBS producers, volunteers, and viewers. Thank you, American Archive of Public Broadcasting!”
+
 **Winter Shanck**
 <br>Archivist, Thirteen/WNET
+
+>"There is tremendous value in the America Archive of Public Broadcasting. Its [mission](https://americanarchive.org/about-the-american-archive/vision-and-mission) allows the public, who were instrumental in funding the creation of these materials, the opportunity to gain access to primary materials that give an aural and visual snapshot into the early 19th century. It's reassuring to know that historic series like [*Black Journal*](https://americanarchive.org/special_collections/black-journal), produced by WNET as the first nationally televised public affairs program produced for, about, and by African-Americans, is preserved at the Library of Congress for posterity and made available online to future generations at [americanarchive.org](https://americanarchive.org/).”
 
 **Alana Stone**
 <br>Project Coordinator, Vision Maker Media
 
 **Ann Wilkens**
 <br>Archivist, Wisconsin Public Television
+
+>”[PBS Wisconsin](https://americanarchive.org/participating-orgs/1896) is incredibly honored to participate in the American Archive of Public Broadcasting (AAPB). The support and direction they have provided has allowed us to strengthen our preservation work, to make our broadcast history widely accessible, and has created a vibrant platform for collaboration amongst stations. Because of AAPB’s leadership and enthusiastic commitment, I feel we have a steadfast partner in preserving the broadcast legacy of PBS Wisconsin.”
