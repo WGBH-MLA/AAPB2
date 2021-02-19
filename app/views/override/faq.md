@@ -3,29 +3,29 @@
 ## What is the American Archive of Public Broadcasting (AAPB)?
 
 The AAPB is an initiative to digitally preserve and make accessible
-public broadcasting radio and television programming, ensuring its collection,
+public radio and television programming, ensuring its collection,
 management, preservation, and access. In August 2013, the Corporation for
 Public Broadcasting selected GBH and the Library of Congress as the permanent
-stewards of the AAPB collection. To date, almost 40,000 hours of historic public broadcasting radio and
-television content has been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection, consisting of 68,000 items (40,000 hours) is available for research [on location](/on-location) at GBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not been digitized.
+stewards of the AAPB collection. To date, over 100,000 historic public broadcasting radio and
+television programs and original materials have been digitized and preserved. The AAPB Online Reading Room provides online access to some of the content that has been digitized by the AAPB. The entire AAPB collection is available for research [on location](/on-location) at GBH and the Library of Congress. The AAPB also maintains metadata records documenting the existence of 2.5 million assets at public broadcasting organizations, most of which have not been digitized.
 
 ## What is available on the AAPB website?
 
 The AAPB website provides three layers of searching and browsing:
 
 - Users can access the [AAPB Online Reading Room](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=online), which provides online access to some of the digitized collection for private research, educational and informational purposes.
-- Users can [search metadata records for all 40,000 hours of digitized content](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized), including content that is available in the Online Reading Room and content that is only available for viewing and listening [on location](/on-location) at GBH and the Library of Congress.
-- Users can search search and browse the [2.5 million metadata records](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=all) that document public radio and television assets existing at more than 120 public media stations and archives across the country. Most of these assets have not been digitized.
+- Users can [search metadata records for all digitized items](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized), including content that is available in the Online Reading Room and content that is only available for viewing and listening [on location](/on-location) at GBH and the Library of Congress.
+- Users can search the [2.5 million metadata records](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=all) that document public radio and television assets existing at more than 120 public media stations and archives across the country. Most of these assets have not been digitized.
 
-The AAPB has also curated [exhibits](/exhibits) that feature content on topics of historical significance.
+The AAPB has also curated [exhibits](/exhibits) that feature content on topics of historical significance and [special collections](/special_collections) highlighting notable collections in the archive.
 
 ## I'm interested in accessing the entire digitized collection at GBH or the Library of Congress, and I want to begin my search before traveling to one of the research locations. How can I tell if something was digitized in the AAPB?
 
-After you conduct a search on the AAPB website, click the ["All Digitized"](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized) link below the Access filter on the left side of the page. This will display records for all 40,000 hours of digitized content.
+After you conduct a search on the AAPB website, click the ["All Digitized"](/catalog?q=&utf8=%E2%9C%93&f[access_types][]=digitized) link below the "Search Records" bar above the list of search results. This will display records for all items that are digitized, including those only available at GBH and the Library of Congress.
 
 ## I want to conduct research using the entire AAPB collection. How can I do so?
 
-The entire AAPB collection, consisting of 68,000 items (40,000 hours), is available for research at
+The entire AAPB collection is available for research at
 GBH in Boston and the Library of Congress in
 Washington, D.C. More information about on-location research policies and
 scheduling an appointment is available [here](/on-location).
@@ -61,7 +61,7 @@ uses will be restricted to those permitted under copyright law.
 It is your responsibility to determine and satisfy all copyright and other use
 restrictions before using content in the AAPB. If you have selected an item or
 items that you want to license for reuse, you should contact the contributing
-organization that is listed in the metadata record. All organizations have a website URL provided in their [organizations'](/participating-orgs) page.
+organization that is listed in the metadata record. All organizations have a website URL provided in their [organization](/participating-orgs) page.
 
 ## If I found an item on the AAPB website that I would like to view/listen to that wasn't digitized, how can I gain access to it?
 
@@ -78,16 +78,7 @@ collection.
 
 ## How can my organization get involved in the AAPB?
 
-AAPB Project Staff are currently working on a collection development policy
-to guide the growth of the collection and the workflows to add new metadata
-records to the catalog and accept new digital files for preservation and
-access. In the next few months we'll have a solid plan for growing the archive
-beyond the first 40,000 hours.
-
-As a first step, we would suggest creating an inventory of your collection, if
-you haven't done so already, so that you can share your metadata records with
-the AAPB. If you're interested in templates for inventorying your collection,
-contact AAPB Project Staff at aapb_notifications@wgbh.org.
+Contact AAPB Project Staff at aapb_notifications@wgbh.org, and we can schedule a call to discuss how your organization can get involved in the AAPB. More information about contributing content is available on our [Contribute Content](https://americanarchive.org/help/contribute) page.
 
 ## I work at a participating organization. How can my station access our digital files and metadata records?
 
