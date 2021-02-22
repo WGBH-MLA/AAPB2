@@ -32,11 +32,11 @@ When the digitization project is complete, users will have access to interviews 
 #### Next: [Part I, Section i: *Eyes on the Prize*: Framing the Civil Rights Past](/exhibits/eotp/framing-civil-rights-past.md)
 
 ## Cover
-<img title="Eyes on the Prize" alt="Eyes on the Prize" src=" https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg">
+<img title="Eyes on the Prize" alt="Eyes on the Prize" src="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg">
 
 ## Gallery
 - <a class="type">image</a>
-  <a class="credit-link" href=" https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg ">Eyes on the Prize</a>
+  <a class="credit-link" href="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg">Eyes on the Prize</a>
   <a class="caption-text">*Eyes on the Prize* signature image.</a>
 
 ## Records
