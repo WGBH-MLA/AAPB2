@@ -226,7 +226,7 @@ This section lists the interviews in order of their subject’s first appearance
 [Burke Marshall](https://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)
 [Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)
 
-#### Next: [Part III: Chronologizing the Past: A Timeline of Events](/exhibits/ eotp/3-timeline-of-events/)
+#### Next: [Part III: Chronologizing the Past: A Timeline of Events](/exhibits/eotp/3-timeline-of-events/)
 
 ## Resources
 
