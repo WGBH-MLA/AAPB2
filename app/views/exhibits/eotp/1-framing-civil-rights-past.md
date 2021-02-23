@@ -35,7 +35,7 @@ The interviews are organized in four ways:
 
 2)	[By historical event](/exhibits/eotp/3-timeline-of-events/): In Part III of the exhibit, Chronologizing the Past: A Timeline of Events, users can discover which interviews address specific events in civil rights history.
 
-3)	[By place](/exhibits/eotp/4-timeline-of-events/): Part IV of the exhibit, Locating the Civil Rights Movement, features an interactive map of places the interviewees discuss.
+3)	[By place](/exhibits/eotp/4-locating-the-movement/): Part IV of the exhibit, Locating the Civil Rights Movement, features an interactive map of places the interviewees discuss.
 
 4)	[By the interviewees themselves](/exhibits/eotp/5-interview-subjects/): Part V of this exhibit, A People’s History: Interview Subjects, organizes the interviews into categories reflecting the roles interviewees played during the southern civil rights era. 
 
