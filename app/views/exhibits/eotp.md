@@ -4,7 +4,11 @@
 
 ## Summary
 
-This curated collection features the unedited interviews conducted during the production of the landmark PBS documentary series *Eyes on the Prize: America’s Civil Rights Years, 1954–1965* (1987) and its predecessor *America, They Loved You Madly*.[<sup>1</sup>](/exhibits/eotp/notes#1)   Eyes on the Prize (or “Eyes I”) was the series’ first installment; *Eyes on the Prize II: America at the Racial Crossroads, 1965–1985* (or **Eyes II**) followed in 1990. [<sup>2</sup>](/exhibits/eotp/notes#2)   
+This curated collection features the unedited interviews conducted during the production of the landmark PBS documentary series *Eyes on the Prize: America’s Civil Rights Years, 1954–1965* (1987) and its predecessor *America, They Loved You Madly*.[<sup>1</sup>](/exhibits/eotp/notes#1)   Eyes on the Prize (or “Eyes I”) was the series’ first installment; *Eyes on the Prize II: America at the Racial Crossroads, 1965–1985* (or **Eyes II**) followed in 1990. [<sup>2</sup>](/exhibits/eotp/notes#2)
+
+Produced by documentary film artist Kenneth Campbell, the following is a 20-minute clip reel entitled "Freedom Song" that brings together several of the interviews from *Eyes I* as an introduction to this exhibit and the collection.
+
+<iframe src="https://player.vimeo.com/video/514298975" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Extended
 
