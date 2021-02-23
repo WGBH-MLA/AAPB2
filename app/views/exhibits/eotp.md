@@ -15,8 +15,8 @@ Produced by documentary film artist Kenneth Campbell, the following is a 20-minu
 ## Authors
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Michelle_Kelley.jpg"/>
-  <a class="name">Michelle Kelley, Ph.D.</a>
-  <a class="title">Writer/historian/educator</a>
+  <a class="name">Michelle Kelley</a>
+  <a class="title">Ph.D., New York University</a>
 
 ## Resources
 
