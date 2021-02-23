@@ -39,7 +39,7 @@ Each section begins with a brief essay to provide context for the interviews. Th
 To access the interviews, simply click on a subject’s name.
 
 
-#### Next: [Part Vi: Interview Subjects: Local People](/exhibits/eotp/5-1-local-people)
+#### Next: [Part V.i.: Interview Subjects: Local People](/exhibits/eotp/5-1-local-people)
 
 ## Resources
 
@@ -51,7 +51,7 @@ To access the interviews, simply click on a subject’s name.
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt="Eyes on the Prize Map" src="https://s3.amazonaws.com/americanarchive.org/exhibits/map_image.jpg">
+  <img title="Cover Image" alt="March on Washington for Jobs and Freedom; Civil Rights March on Washington, D.C. [Leaders marching from the Washington Monument to the Lincoln Memorial], 08/28/1963" src="https://s3.amazonaws.com/americanarchive.org/exhibits/interview-subjects.jpg">
 
 ## Gallery
 
