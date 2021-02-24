@@ -114,4 +114,9 @@ Like other sections of Freedom Song, the following list identifies interviewees 
 
 ## Gallery
 
+  - <a class="type">image</a>
+<a class="caption-text">Governor George Wallace attempting to block integration at the University of Alabama, facing Deputy Attorney General Nicholas Katzenbach, Courtesy Library of Congress.</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Wallace_Katzenbach_original.jpg">
+
+
 ## Records
