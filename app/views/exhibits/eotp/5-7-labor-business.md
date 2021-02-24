@@ -1,4 +1,4 @@
-# Part V.vii: Interview Subjects: Economic and Labor Activists and the Business Community
+# Part V.vii.: Interview Subjects: Economic and Labor Activists and the Business Community
 
 12
 
