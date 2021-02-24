@@ -1,12 +1,10 @@
-# Part V.viii: Interview Subjects: Students and Educators, Litigators and De-Segregators
+# Part V.viii.: Interview Subjects: Students and Educators, Litigators and De-Segregators
 
 13
 
 ## Summary 
 
 ## Extended
-
-### DON'T YET HAVE A COVER IMAGE SELECTED
 
 Many of the [southern civil rights movement's](https://americanarchive.org/exhibits/civil-rights) most important victories affirmed African Americans’ right to equality in education. These victories were hard-fought for and won by lawyers with the [National Association for the Advancement of Colored People (NAACP)](https://www.naacp.org/nations-premier-civil-rights-organization/), and state and federal legislators translated them into law. But it was Black students who made integration a reality, attending previously all-white schools despite political resistance and segregationist violence.
 
@@ -124,9 +122,13 @@ The author would like to thank Alan Gevinson, Casey Davis Kaufman, Alexis Temple
 ## Main
 
 ## Cover
-  <img title="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png">
+  <img title="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/clinton_tennessee_square.jpg">
 
 ## Gallery
+- <a class="type">image</a>
+    <img alt="Photograph shows a line of African American boys walking through a crowd of white boys during a period of violence related to school integration in Clinton, Tennessee. Courtesy Library of Congress." src="https://s3.amazonaws.com/americanarchive.org/exhibits/clinton_tennessee_original.jpg">
+    <a class="caption-text">Photograph shows a line of African American boys walking through a crowd of white boys during a period of violence related to school integration in Clinton, Tennessee. Courtesy Library of Congress.</a>
+
 - <a class="type">image</a>
     <img alt="Image of Ernest Green during his interview for *America, They Loved You Madly*." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ernestgreen.jpg">
     <a class="caption-text">Ernest Green during his interview for *America, They Loved You Madly*, the precursor to *Eyes on the Prize*.</a>
