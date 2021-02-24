@@ -2,9 +2,11 @@
 
 11
 
-## Summary WE DO NOT YET HAVE PERMISSION TO USE THE FRED SHUTTLESWORTH IMAGE AS THE COVER
+## Summary 
 
 ## Extended
+
+### WE DO NOT YET HAVE PERMISSION TO USE THE FRED SHUTTLESWORTH IMAGE AS THE COVER
 
 From the [Montgomery bus boycott](https://kinginstitute.stanford.edu/liberation-curriculum/create-your-own-classroom-activity/montgomery-bus-boycott) to the [Selma to Montgomery march](https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march), Black Christianity and the Black church helped mobilize and inspire activists. The movement also attracted people from outside the Black church whose activism was also driven by their faith.
 
