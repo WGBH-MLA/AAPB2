@@ -2,9 +2,11 @@
 
 13
 
-## Summary DON'T YET HAVE A COVER IMAGE SELECTED
+## Summary 
 
 ## Extended
+
+### DON'T YET HAVE A COVER IMAGE SELECTED
 
 Many of the [southern civil rights movement's](https://americanarchive.org/exhibits/civil-rights) most important victories affirmed African Americans’ right to equality in education. These victories were hard-fought for and won by lawyers with the [National Association for the Advancement of Colored People (NAACP)](https://www.naacp.org/nations-premier-civil-rights-organization/), and state and federal legislators translated them into law. But it was Black students who made integration a reality, attending previously all-white schools despite political resistance and segregationist violence.
 
