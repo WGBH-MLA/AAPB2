@@ -109,7 +109,7 @@ This section identifies interviewees who used economic retribution to fight segr
 
 ## Gallery
 - <a class="type">image</a>
-    <img alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom." src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph_1.jpg ">
+    <img alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom." src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph_1.jpg">
     <a class="caption-text">A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</a>
 
 - <a class="type">image</a>
