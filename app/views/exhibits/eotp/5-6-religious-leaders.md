@@ -1,4 +1,4 @@
-# Part V.vi: Interview Subjects: Church and Religious Leaders
+# Part V.vi.: Interview Subjects: Church and Religious Leaders
 
 11
 
