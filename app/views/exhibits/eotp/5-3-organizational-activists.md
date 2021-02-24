@@ -148,10 +148,15 @@ The lists below identify the organizations with which interview subjects were pr
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt=" Congress of Racial Equality and members of the All Souls Church, Unitarian march in memory of the 16th Street Baptist Church bombing victims, Courtesy Library of Congress
+  <img title="Cover Image" alt="Congress of Racial Equality and members of the All Souls Church, Unitarian march in memory of the 16th Street Baptist Church bombing victims, Courtesy Library of Congress
 " src="https://s3.amazonaws.com/americanarchive.org/exhibits/CORE_image.jpg">
 
 ## Gallery
+
+  - <a class="type">image</a>
+<a class="caption-text">Congress of Racial Equality and members of the All Souls Church, Unitarian march in memory of the 16th Street Baptist Church bombing victims, Courtesy Library of Congress.</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CORE_image_original.jpg">
+
 
 ## Records
 
