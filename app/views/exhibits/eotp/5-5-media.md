@@ -75,4 +75,8 @@ The Blackside film crew interviewed the following journalists, broadcasters, and
 
 ## Gallery
 
+  - <a class="type">image</a>
+<a class="caption-text">James Hicks during his interview for Eyes on the Prize</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/James_Hicks.jpg">
+
 ## Records
