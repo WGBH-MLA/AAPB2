@@ -10,7 +10,7 @@
 
 Eyewitness and participant accounts of the civil rights struggle are at the heart of *Eyes on the Prize*. The authority that *Eyes I* lays claim to is drawn from the idea that those who lived the movement have a unique authority to tell its history. 
 
-Henry Hampton and the Blackside filmmakers understood the pitfalls of memory.<sup>34</sup>](/exhibits/eotp/notes#34) They also knew that some interview subjects’ views had changed since the 1960s and that this might color their accounts. Series producer Jon Else notes that former segregationists often disavowed their previous views when talking with the *Eyes* crew. As he writes, “somehow the old resistance got lost in a fog of revisionist politesse.”<sup>35</sup>](/exhibits/eotp/notes#35) Still, the filmmakers believed in the power and authority of first-person accounts. 
+[Henry Hampton](/2-making-television-history#HenryHampton) and the [Blackside](/2-making-television-history#Blackside) filmmakers understood the pitfalls of memory.<sup>34</sup>](/exhibits/eotp/notes#34) They also knew that some interview subjects’ views had changed since the 1960s and that this might color their accounts. Series producer [Jon Else](/2-making-television-history#JonElse) notes that former segregationists often disavowed their previous views when talking with the *Eyes* crew. As he writes, “somehow the old resistance got lost in a fog of revisionist politesse.”<sup>35</sup>](/exhibits/eotp/notes#35) Still, the filmmakers believed in the power and authority of first-person accounts. 
 
 The producers of *Eyes I* interviewed a wide cross-section of people, including activists, bystanders, and segregationists. These interview subjects assumed different roles in their personal, professional, and political lives. They were ministers-turned-movement leaders, like [James Lawson](https://americanarchive.org/catalog/cpb-aacip_151-1c1td9ns49), sharecroppers-turned-activists, like [Unita Blackwell](https://americanarchive.org/catalog/cpb-aacip_151-0r9m32nw0m), and even segregationists-turned-civil rights supporters, like [Virginia Durr](https://americanarchive.org/catalog/cpb-aacip_151-1j9765b34k). 
 
@@ -34,6 +34,7 @@ This part of the exhibit is broken up into eight sub-categories:
 -	[Section vi: Church and Religious Leaders](/exhibits/eotp/5-6-religious-leaders)
 -	[Section vii: Economic and Labor Activists and the Business Community](/exhibits/eotp/5-7-labor-business)
 -	[Section viii: Students and Educators, Litigators and De-Segregators](/exhibits/eotp/5-8-students-educators)
+
 Each section begins with a brief essay to provide context for the interviews. The interviews that follow are in alphabetical order, and each entry includes information on who the interview subject was during the period covered in Eyes I. This information is specific to each section. For example, in section iii, Organizational Activists, the biographical details on [Robert Williams](https://americanarchive.org/catalog/cpb-aacip_151-5t3fx74m3w#at_524_s) pertain to his position in the [National Association for the Advancement of Colored People](https://www.naacp.org/nations-premier-civil-rights-organization/).<sup>36</sup>](/exhibits/eotp/notes#36)  His entry in Section v: Media and the Press, details his work as an activist writer and broadcaster. 
 
 To access the interviews, simply click on a subject’s name.
