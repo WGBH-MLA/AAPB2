@@ -108,5 +108,10 @@ Casey Hayden: Founding member of Students for a Democratic Society and SNCC volu
 
 ## Gallery
 
+  - <a class="type">image</a>
+<a class="caption-text">Image of Jo Ann Robinson from her interview for America, They Loved You Madly.</a>
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnn_Robinson.jpg">
+
+
 ## Records
 
