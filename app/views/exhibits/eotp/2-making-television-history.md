@@ -17,7 +17,7 @@ Producing *Eyes on the Prize* was more than a labor of love. For Executive Produ
 Eyes I grew out of Hampton’s earlier, failed television project, *America, They Loved You Madly*. [<sup>10</sup>](/exhibits/eotp/notes#10) Yet its roots were much deeper, based in his own experience during the first [Selma to Montgomery march](https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march). Hampton had been hesitant to join the march. The polio he had contracted as a child had left him with permanent leg damage, and he worried he wouldn’t be able to keep up with the other marchers. This would make him vulnerable to attack by the segregationists who lined the route. But when his pace began to slow, the people around him formed a human barrier protecting him from the angry crowds. “My own personal honor guard,” Hampton called them, recalling the incident in a funding proposal for *Eyes*. [<sup>11</sup>](/exhibits/eotp/notes#11)
 
 Maybe this experience explains why Hampton felt so strongly about the importance of memory for understanding history. Roughly a decade later, his own recollection of that day inspired him to tell the history of the movement from the perspective of the people who made up the rank and file of the struggle and who stood by him in the march toward [Montgomery](https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march).
-
+<a id=“Blackside”></a>
 #### Blackside, Inc.
 
 In 1968, Henry Hampton established Blackside, Inc., a film production company that aimed to increase Black representation onscreen and produce films made by people of color. “Two things coincided: the [Black Power](https://www.archives.gov/research/african-americans/black-power) movement and my own personal need for independence,” Hampton reflected.[<sup>12</sup>](/exhibits/eotp/notes#12) Before *Eyes on the Prize*, most of the films Blackside produced were “industrials”—films sponsored by corporations and government offices to train, educate, or persuade viewers. In *True South: Henry Hampton and Eyes on the Prize, The Landmark Television Series That Reframed the Civil Rights Movement*, series producer Jon Else writes that despite their small budgets and limited scope, the filmmakers at Blackside imbued these films with artistry and racially progressive politics. Hampton used them as vehicles to discretely increase Black representation both in front of and behind the camera. As Else writes, “In its own quiet way, it was social justice activism by other means.”[<sup>13</sup>](/exhibits/eotp/notes#13)
@@ -76,33 +76,33 @@ Each team produced and directed two episodes of the series. This section of Free
 ***
 
 **Team A: Judith Vecchione and Llewellyn Smith:** Vecchione and Smith worked on episodes one and two, “Awakenings: 1954–1956” and “Fighting Back: 1957–1962,” both produced and directed by Vecchione.  
-
+<a id=“JudithVecchione”></a>
 **Judith Vecchione:** Judith Vecchione joined Blackside in 1985 as senior series producer on Eyes I and was a consulting producer on *Eyes II*. Prior to joining Blackside, Vecchione won an Emmy and Red Ribbon Award for her work on the groundbreaking documentary series *Vietnam: A Television History* (1983). Vecchione’s work on *Eyes on the Prize* earned her two Emmys, the Alfred I. duPont–Columbia University Gold Baton Award, and a George Foster Peabody Award, among other honors. 
-
+<a id=“LlewellynSmith”></a>
 **Llewellyn Smith:** Lewellyn Smith was an associate producer on Eyes I. Before working on *Eyes I*, Smith produced several episodes of other PBS series, including *Jazz: An American Classic* (1979) and *From Jump Street: The Story of Black Music* (1980). After *Eyes*, Smith served as story editor on the PBS series *The American Experience* from 1987 to 1995. From 1995 to 1997, he was project director on the acclaimed series *Africans in America: America’s Journey through Slavery* (1998). 
 
 **Team B - Orlando Bagwell and Prudence Arndt:** Bagwell and Arndt were chiefly responsible for episodes three and five of Eyes I, “Ain’t Scared of Your Jails: 1960–1961” and “Mississippi: Is This America? 1962–1964,” both produced and directed by Bagwell. 
-
+<a id=“OrlandoBagwell”></a>
 **Orlando Bagwell:** An activist and substitute teacher, Orlando Bagwell began his career in television when he took a job as a camera assistant on a WGBH program about the Boston public schools busing crisis. Bagwell joined the team at Blackside in 1976. In 1988, he served as staff producer on the PBS series *Frontline*, and in 1989 he founded Roja Productions. His work on *Eyes on the Prize* earned him a George Foster Peabody Award and an Alfred I. duPont–Columbia University Award. 
-
+<a id=“PrudenceArndt”></a>
 **Prudence Arndt:** In addition to serving as associate producer of “Ain’t Scared of Your Jails: 1960–1961” and “Mississippi: Is This America? 1962–1964,” Prudence Arndt was Eyes I’s archival producer. Arndt has since worked as an archival producer for several award-winning documentary series, including *Why We Fight* (2005), *Project Nim* (2011), *Whoopi Goldberg Presents Moms Mabley: I Got Somethin’ to Tell You* (2013), *Regarding Susan Sontag* (2014), and *Free to Run* (2016). 
 
 **Team C – Callie Crossley and James DeVinney:** Team C was principally responsible for episodes four and six, “No Easy Walk: 1961–1963” and “Bridge to Freedom: 1965,” both produced and directed by Crossley and DeVinney. 
-
+<a id=“CallieCrossley”></a>
 **Callie Crossley:** Callie Crossley came to Blackside in 1985 shortly after completing a Neiman Journalism Fellowship at Harvard University. Her role as producer on “Bridge to Freedom: 1965” earned her an Academy Award nomination, making her the first African American woman to be nominated in the Documentary Feature category. From 2010 to 2012, she hosted *The Callie Crossley Show* on WGBH-FM 98.7. Today, Crossley hosts the radio show *Under the Radar with Callie Crossley*.
-
+<a id=“JamesDeVinney”></a>
 **James DeVinney**: James DeVinney was a writer, director, and producer on “No Easy Walk: 1963–1965” and “Bridge to Freedom: 1965.” Like Crossley, he received an Academy Award nomination for his work on “Bridge to Freedom: 1965.” DeVinney subsequently worked on two episodes of Eyes II, “The Time Has Come: 1964–1966” and “Back to the Movement: 1979–mid-1980s.” He has won four Emmys and four George Foster Peabody Awards, among other honors.
 
 ##### Additional Production Personnel 
-
+<a id=“HenryHampton”></a>
 **Henry Hampton, Executive Producer:** Henry Hampton was the executive producer of *Eyes on the Prize: America’s Civil Rights Years*, 1954–1965 and its sequel, *Eyes on the Prize II: America at the Racial Crossroads, 1965–1985*. Two years after participating in the Selma to Montgomery march, Hampton established Blackside, Inc., a production company exploring “democracy, diversity, culture and civil society.”[<sup>23</sup>](/exhibits/eotp/notes#23) Hampton and Blackside garnered seven Emmys and multiple George Foster Peabody Awards and Alfred I. duPont–Columbia University Awards for Excellence in Broadcast Journalism. Hampton won a Career Achievement Award from the International Documentary Association in 1997.
-
+<a id=“JulianBond”></a>
 **Julian Bond:** Julian Bond narrated both *Eyes I* and *Eyes II*. Bond had been on the frontlines of the southern civil rights struggle, helping to establish SNCC in 1960 and serving as its communications director. In 1971, Bond founded the Southern Poverty Law Center, a nonprofit legal advocacy organization. He served in both the Georgia House of Representatives and the Georgia State Senate, was the president of the Atlanta chapter of the [National Association for the Advancement of Colored People (NAACP)](https://www.naacp.org/nations-premier-civil-rights-organization/), and later became the NAACP’s national chairman. Bond also hosted the news program *Black Forum* from 1980 to 1997 and wrote a nationally syndicated newspaper column, “Viewpoint.”
-
+<a id=“JonElse”></a>
 **Jon Else:** Jon Else was *Eyes I*’s series senior producer and cinematographer; he also served as consulting series producer on *Eyes II*. Else has won many fellowships and awards, including a MacArthur “Genius” Fellowship, four Emmys, several Alfred I. duPont–Columbia University and George Foster Peabody Awards, the Prix Italia, the Sundance Special Jury Prize, and the Sundance Filmmaker’s Trophy. He is the author of *True South: Henry Hampton and Eyes on the Prize, The Landmark Television Series That Reframed the Civil Rights Movement* (New York: Viking, 2017).
-
+<a id=“SteveFayer”></a>
 **Steve Fayer**: Steve Fayer was series writer on both *Eyes I* and *II*, as well as head writer on *America, They Loved You Madly*. Fayer’s work on episode five of Eyes, “Mississippi: Is This America?” earned him an Emmy Award. He later collaborated with Hampton on the 1990 publication, *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*. In 2001, he received the Writers Guild of America Award for the documentary *George Wallace: Settin’ the Woods on Fire* (2000).
-
+<a id=“JudyRichardson></a>
 **Judy Richardson:** Hampton recruited Judy Richardson during the production of *America, They Loved You Madly*. Richardson had worked in the national offices of the [Student Nonviolent Coordinating Committee](https://snccdigital.org/inside-sncc/the-story-of-sncc/), and her involvement in the series helped persuade other activists of the legitimacy of Hampton’s project. Richardson was a research consultant on *Eyes I* and a series associate producer on *Eyes II*. She later directed and produced an award-winning episode of the PBS series *The American Experience*, “Malcolm X: Make It Plain” (1994). Richardson has received an Image Award for Vision and Excellence from the group Women in Film and Video.
 
 #### Conclusion: Making Television History
