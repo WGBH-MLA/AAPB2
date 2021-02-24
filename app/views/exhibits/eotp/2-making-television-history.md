@@ -48,7 +48,7 @@ Perhaps drawing on his experience as an instructional filmmaker, Hampton decided
 2.	Interviews with activists and others who were there during the struggle
 3.	Fact-driven narration
 4.	Contemporaneous music.[<sup>18</sup>](/exhibits/eotp/notes#18)
-
+<a id=“Arguments”></a>
 According to Else, Eyes on the Prize had four major points it aimed to convey:
 
 1.	**History from Below:** The [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights) was a movement forged by the people; it was a grassroots movement driven by the masses of protesters and participants.
