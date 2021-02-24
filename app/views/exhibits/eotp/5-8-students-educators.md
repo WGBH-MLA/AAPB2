@@ -122,7 +122,7 @@ The author would like to thank Alan Gevinson, Casey Davis Kaufman, Alexis Temple
 ## Main
 
 ## Cover
-  <img title="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph_1.jpg"> DON'T YET HAVE A COVER IMAGE SELECTED
+  <img title="" src="Cover Image URL goes here"> DON'T YET HAVE A COVER IMAGE SELECTED
 
 ## Gallery
 - <a class="type">image</a>
