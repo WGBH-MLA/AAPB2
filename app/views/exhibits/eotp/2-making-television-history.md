@@ -48,6 +48,7 @@ Perhaps drawing on his experience as an instructional filmmaker, Hampton decided
 2.	Interviews with activists and others who were there during the struggle
 3.	Fact-driven narration
 4.	Contemporaneous music.[<sup>18</sup>](/exhibits/eotp/notes#18)
+
 According to Else, Eyes on the Prize had four major points it aimed to convey:
 
 1.	**History from Below:** The [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights) was a movement forged by the people; it was a grassroots movement driven by the masses of protesters and participants.
@@ -57,6 +58,7 @@ According to Else, Eyes on the Prize had four major points it aimed to convey:
 3.	**The Role of Nonviolence:** The strategic and tactical use of nonviolence was critical for the movement’s success.  
 
 4.	**Messy History:** The organizations at the forefront of the movement had conflicting ideologies, divergent strategies, and, at times, competing goals and interests. They formed “an uneasy united front,” Else writes. Segregationists were also divided. For Else, “this was the messiest part of the messy history.”[<sup>19</sup>](/exhibits/eotp/notes#19)  
+
 #### Civil Rights School
 
 In preparing to make *Eyes on the Prize*, Hampton arranged for scholars, activists, and folk and gospel singers to come to the Blackside offices. From July 22 to August 22, 1985, they participated in what Hampton called “Civil Rights School,” sharing their knowledge and experience of the movement with the Eyes I crew. “It was like going to grad school for free,” Eyes filmmaker [Kenneth Rabin](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/making-eyes-on-the-prize-participants/#kenn) has said.[<sup>20</sup>](/exhibits/eotp/notes#20)   Each session was devoted to a different subject, ranging from broad topics, such as “the law,” to specific campaigns, like the [Montgomery bus boycott](https://kinginstitute.stanford.edu/liberation-curriculum/create-your-own-classroom-activity/montgomery-bus-boycott).
@@ -116,115 +118,121 @@ Reflecting on the initial reception of *Eyes on the Prize: America’s Civil Rig
 This section lists the interviews in order of their subject’s first appearance in each of the six episodes of Eyes I. To learn more about the people Henry Hampton and his crew interviewed, go to [Part V of the exhibit: A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/). All six episodes of Eyes I are available to view for free online at Facing History and Ourselves: https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement.
 
 ##### Episode One: Awakenings: 1954–1956
-[Unita Blackwell](https://americanarchive.org/catalog/cpb-aacip_151-0r9m32nw0m)
-[Ernest Green](https://americanarchive.org/catalog/cpb-aacip_151-3b5w669t2k)
-[C. T. Vivian](https://americanarchive.org/catalog/cpb-aacip_151-z892806203)
-[Amzie Moore](https://americanarchive.org/catalog/cpb-aacip_151-bn9x05z20n)
-[Virginia Durr (1986)](https://americanarchive.org/catalog/cpb-aacip_151-1j9765b34k) 
-[James Hicks](https://americanarchive.org/catalog/cpb-aacip_151-9w08w38t9n)
-[Thomas R. Waring](https://americanarchive.org/catalog/cpb-aacip_151-k35m902w9s)
-[Constance Baker Motley (1986)](https://americanarchive.org/catalog/cpb-aacip_151-zg6g15vc0r)
-[Curtis Jones](https://americanarchive.org/catalog/cpb-aacip_151-p55db7wm4v)
-[Charles Diggs](https://americanarchive.org/catalog/cpb-aacip_151-p843r0qr6v)
-[William Bradford Huie](https://americanarchive.org/catalog/cpb-aacip_151-2b8v98094z)
-[Fred Shuttlesworth](https://americanarchive.org/catalog/cpb-aacip_151-086348h395)
-[Joseph Azbell](https://americanarchive.org/catalog/cpb-aacip_151-4t6f18t34w)
-[Rosa Parks](https://americanarchive.org/catalog/cpb-aacip_151-610vq2sx12)
-[E. D. Nixon](https://americanarchive.org/catalog/cpb-aacip_151-ff3kw58917)
-[Jo Ann Robinson](https://americanarchive.org/catalog/cpb-aacip_151-wh2d796b02)
-[Frances Belser](https://americanarchive.org/catalog/cpb-aacip_151-7940r9mn52)
-[Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)
-[Ralph Abernathy](https://americanarchive.org/catalog/cpb-aacip_151-cz3222s11s)
-[Rufus Lewis](https://americanarchive.org/catalog/cpb-aacip_151-cn6xw48j9g)
-[Georgia Gilmore](https://americanarchive.org/catalog/cpb-aacip_151-bv79s1mb8s)
-[Donie Jones](https://americanarchive.org/catalog/cpb-aacip_151-jd4pk07v30)
+
+[Unita Blackwell](https://americanarchive.org/catalog/cpb-aacip_151-0r9m32nw0m)</br>
+[Ernest Green](https://americanarchive.org/catalog/cpb-aacip_151-3b5w669t2k)</br>
+[C. T. Vivian](https://americanarchive.org/catalog/cpb-aacip_151-z892806203)</br>
+[Amzie Moore](https://americanarchive.org/catalog/cpb-aacip_151-bn9x05z20n)</br>
+[Virginia Durr (1986)](https://americanarchive.org/catalog/cpb-aacip_151-1j9765b34k)</br>
+[James Hicks](https://americanarchive.org/catalog/cpb-aacip_151-9w08w38t9n)</br>
+[Thomas R. Waring](https://americanarchive.org/catalog/cpb-aacip_151-k35m902w9s)</br>
+[Constance Baker Motley (1986)](https://americanarchive.org/catalog/cpb-aacip_151-zg6g15vc0r)</br>
+[Curtis Jones](https://americanarchive.org/catalog/cpb-aacip_151-p55db7wm4v)</br>
+[Charles Diggs](https://americanarchive.org/catalog/cpb-aacip_151-p843r0qr6v)</br>
+[William Bradford Huie](https://americanarchive.org/catalog/cpb-aacip_151-2b8v98094z)</br>
+[Fred Shuttlesworth](https://americanarchive.org/catalog/cpb-aacip_151-086348h395)</br>
+[Joseph Azbell](https://americanarchive.org/catalog/cpb-aacip_151-4t6f18t34w)</br>
+[Rosa Parks](https://americanarchive.org/catalog/cpb-aacip_151-610vq2sx12)</br>
+[E. D. Nixon](https://americanarchive.org/catalog/cpb-aacip_151-ff3kw58917)</br>
+[Jo Ann Robinson](https://americanarchive.org/catalog/cpb-aacip_151-wh2d796b02)</br>
+[Frances Belser](https://americanarchive.org/catalog/cpb-aacip_151-7940r9mn52)</br>
+[Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)</br>
+[Ralph Abernathy](https://americanarchive.org/catalog/cpb-aacip_151-cz3222s11s)</br>
+[Rufus Lewis](https://americanarchive.org/catalog/cpb-aacip_151-cn6xw48j9g)</br>
+[Georgia Gilmore](https://americanarchive.org/catalog/cpb-aacip_151-bv79s1mb8s)</br>
+[Donie Jones](https://americanarchive.org/catalog/cpb-aacip_151-jd4pk07v30)</br>
 
 ##### Episode Two: Fighting Back, 1957–1962
-[Melvin Bailey](https://americanarchive.org/catalog/cpb-aacip_151-4f1mg7gg86)
-[Constance Baker Motley (1986)](https://americanarchive.org/catalog/cpb-aacip_151-zg6g15vc0r)
-[Harold Engstrom](https://americanarchive.org/catalog/cpb-aacip_151-n872v2d77x)
-[Craig Rains](https://americanarchive.org/catalog/cpb-aacip_151-nz80k27945)
-[Ernest Green](https://americanarchive.org/catalog/cpb-aacip_151-3b5w669t2k)
-[Herbert Brownell](https://americanarchive.org/catalog/cpb-aacip_151-mg7fq9r17b)
-[Melba Beals](http://americanarchive.org/catalog/cpb-aacip_151-z02z31p977)
-[James Hicks](https://americanarchive.org/catalog/cpb-aacip_151-9w08w38t9n)
-[Myrlie Evers](https://americanarchive.org/catalog/cpb-aacip_151-833mw29361)
-[John Minor Wisdom](https://americanarchive.org/catalog/cpb-aacip_151-sn00z71x30)
-[Burke Marshall](https://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)
-[John Doar](https://americanarchive.org/catalog/cpb-aacip_151-dr2p55f743)
-[Robert Ellis](https://americanarchive.org/catalog/cpb-aacip_151-ws8hd7ps2p)
-[Nicholas Katzenbach](https://americanarchive.org/catalog/cpb-aacip_151-dn3zs2m30f)
-[Jan Robertson](https://americanarchive.org/catalog/cpb-aacip_151-513tt4gd4r)
+
+[Melvin Bailey](https://americanarchive.org/catalog/cpb-aacip_151-4f1mg7gg86)</br>
+[Constance Baker Motley (1986)](https://americanarchive.org/catalog/cpb-aacip_151-zg6g15vc0r)</br>
+[Harold Engstrom](https://americanarchive.org/catalog/cpb-aacip_151-n872v2d77x)</br>
+[Craig Rains](https://americanarchive.org/catalog/cpb-aacip_151-nz80k27945)</br>
+[Ernest Green](https://americanarchive.org/catalog/cpb-aacip_151-3b5w669t2k)</br>
+[Herbert Brownell](https://americanarchive.org/catalog/cpb-aacip_151-mg7fq9r17b)</br>
+[Melba Beals](http://americanarchive.org/catalog/cpb-aacip_151-z02z31p977)</br>
+[James Hicks](https://americanarchive.org/catalog/cpb-aacip_151-9w08w38t9n)</br>
+[Myrlie Evers](https://americanarchive.org/catalog/cpb-aacip_151-833mw29361)</br>
+[John Minor Wisdom](https://americanarchive.org/catalog/cpb-aacip_151-sn00z71x30)</br>
+[Burke Marshall](https://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)</br>
+[John Doar](https://americanarchive.org/catalog/cpb-aacip_151-dr2p55f743)</br>
+[Robert Ellis](https://americanarchive.org/catalog/cpb-aacip_151-ws8hd7ps2p)</br>
+[Nicholas Katzenbach](https://americanarchive.org/catalog/cpb-aacip_151-dn3zs2m30f)</br>
+[Jan Robertson](https://americanarchive.org/catalog/cpb-aacip_151-513tt4gd4r)</br>
 
 ##### Episode Three: Ain’t Scared of Your Jails: 1960–1961
-[(Kwame) Leo Lillard](https://americanarchive.org/catalog/cpb-aacip_151-7w6736ms77)
-[Diane Nash](https://americanarchive.org/catalog/cpb-aacip_151-tq5r786k9m)
-[C. T. Vivian](https://americanarchive.org/catalog/cpb-aacip_151-z892806203)
-[John Lewis (1979)](https://americanarchive.org/catalog/cpb-aacip_151-hd7np1xb3j)
-[Bernie Schweid](https://americanarchive.org/catalog/cpb-aacip_151-n00zp3ws5r)
-[Harris Wofford](https://americanarchive.org/catalog/cpb-aacip_151-nv9959d525)
-[Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)
-[James Farmer](https://americanarchive.org/catalog/cpb-aacip_151-4b2x34nb4p)
-[Burke Marshall](https://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)
-[John Patterson](https://americanarchive.org/catalog/cpb-aacip_151-2804x5550f)
-[John Seigenthaler](https://americanarchive.org/catalog/cpb-aacip_151-h707w68144)
-[Floyd Mann](https://americanarchive.org/catalog/cpb-aacip_151-445h99016j)
-[Frederick Leonard](https://americanarchive.org/catalog/cpb-aacip_151-n58cf9k35x)
+
+[(Kwame) Leo Lillard](https://americanarchive.org/catalog/cpb-aacip_151-7w6736ms77)</br>
+[Diane Nash](https://americanarchive.org/catalog/cpb-aacip_151-tq5r786k9m)</br>
+[C. T. Vivian](https://americanarchive.org/catalog/cpb-aacip_151-z892806203)</br>
+[John Lewis (1979)](https://americanarchive.org/catalog/cpb-aacip_151-hd7np1xb3j)</br>
+[Bernie Schweid](https://americanarchive.org/catalog/cpb-aacip_151-n00zp3ws5r)</br>
+[Harris Wofford](https://americanarchive.org/catalog/cpb-aacip_151-nv9959d525)</br>
+[Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)</br>
+[James Farmer](https://americanarchive.org/catalog/cpb-aacip_151-4b2x34nb4p)</br>
+[Burke Marshall](https://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)</br>
+[John Patterson](https://americanarchive.org/catalog/cpb-aacip_151-2804x5550f)</br>
+[John Seigenthaler](https://americanarchive.org/catalog/cpb-aacip_151-h707w68144)</br>
+[Floyd Mann](https://americanarchive.org/catalog/cpb-aacip_151-445h99016j)</br>
+[Frederick Leonard](https://americanarchive.org/catalog/cpb-aacip_151-n58cf9k35x)</br>
 
 ##### Episode Four: No Easy Walk: 1961–1963
-[Laurie Pritchett](http://americanarchive.org/catalog/cpb-aacip_151-sq8qb9w27j)
-[Fred Shuttlesworth](http://americanarchive.org/catalog/cpb-aacip_151-086348h395)
-[David Vann](http://americanarchive.org/catalog/cpb-aacip_151-6t0gt5g44p)
-[Charles Sherrod](https://americanarchive.org/catalog/cpb-aacip_151-7s7hq3sn4w)
-[Bernice Johnson Reagon](https://americanarchive.org/catalog/cpb-aacip_151-df6k06xs1p)
-[Charles Sherrod](https://americanarchive.org/catalog/cpb-aacip_151-7s7hq3sn4w)
-[William G. Anderson](https://americanarchive.org/catalog/cpb-aacip_151-862b85479c)
-[Andrew Young](http://americanarchive.org/catalog/cpb-aacip_151-db7vm43n05)
-[Wyatt Tee Walker](https://americanarchive.org/catalog/cpb-aacip_151-th8bg2j89r)
-[Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)
-[Burke Marshall](http://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)
-[A. G. Gaston](https://americanarchive.org/catalog/cpb-aacip_151-m901z42q93)
-[James Bevel](https://americanarchive.org/catalog/cpb-aacip_151-gt5fb4x427)
-[Melvin Bailey](https://americanarchive.org/catalog/cpb-aacip_151-4f1mg7gg86)
-[Bayard Rustin](https://americanarchive.org/catalog/cpb-aacip_151-rr1pg1jj76)
-[John Lewis (1985)](https://americanarchive.org/catalog/cpb-aacip_151-8k74t6fv60)
-[Courtland Cox](https://americanarchive.org/catalog/cpb-aacip_151-9z9086402c)
-[James Forman](https://americanarchive.org/catalog/cpb-aacip_151-r20rr1qh04)
-[Ralph Abernathy](https://americanarchive.org/catalog/cpb-aacip_151-cz3222s11s)
+
+[Laurie Pritchett](http://americanarchive.org/catalog/cpb-aacip_151-sq8qb9w27j)</br>
+[Fred Shuttlesworth](http://americanarchive.org/catalog/cpb-aacip_151-086348h395)</br>
+[David Vann](http://americanarchive.org/catalog/cpb-aacip_151-6t0gt5g44p)</br>
+[Charles Sherrod](https://americanarchive.org/catalog/cpb-aacip_151-7s7hq3sn4w)</br>
+[Bernice Johnson Reagon](https://americanarchive.org/catalog/cpb-aacip_151-df6k06xs1p)</br>
+[Charles Sherrod](https://americanarchive.org/catalog/cpb-aacip_151-7s7hq3sn4w)</br>
+[William G. Anderson](https://americanarchive.org/catalog/cpb-aacip_151-862b85479c)</br>
+[Andrew Young](http://americanarchive.org/catalog/cpb-aacip_151-db7vm43n05)</br>
+[Wyatt Tee Walker](https://americanarchive.org/catalog/cpb-aacip_151-th8bg2j89r)</br>
+[Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)</br>
+[Burke Marshall](http://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)</br>
+[A. G. Gaston](https://americanarchive.org/catalog/cpb-aacip_151-m901z42q93)</br>
+[James Bevel](https://americanarchive.org/catalog/cpb-aacip_151-gt5fb4x427)</br>
+[Melvin Bailey](https://americanarchive.org/catalog/cpb-aacip_151-4f1mg7gg86)</br>
+[Bayard Rustin](https://americanarchive.org/catalog/cpb-aacip_151-rr1pg1jj76)</br>
+[John Lewis (1985)](https://americanarchive.org/catalog/cpb-aacip_151-8k74t6fv60)</br>
+[Courtland Cox](https://americanarchive.org/catalog/cpb-aacip_151-9z9086402c)</br>
+[James Forman](https://americanarchive.org/catalog/cpb-aacip_151-r20rr1qh04)</br>
+[Ralph Abernathy](https://americanarchive.org/catalog/cpb-aacip_151-cz3222s11s)</br>
 
 ##### Episode Five: Mississippi: Is This America? 1962–1964
-[Unita Blackwell](https://americanarchive.org/catalog/cpb-aacip_151-0r9m32nw0m)
-[Hodding Carter III](https://americanarchive.org/catalog/cpb-aacip_151-3j3902041k)
-[Lawrence Guyot](https://americanarchive.org/catalog/cpb-aacip_151-zk55d8ph2n)
-[Myrlie Evers](https://americanarchive.org/catalog/cpb-aacip_151-833mw29361)
-[Dave Dennis](https://americanarchive.org/catalog/cpb-aacip_151-xs5j96192c)
-[Robert Moses](https://americanarchive.org/catalog/cpb-aacip_151-6w9668989m)
-[Peter Orris](https://americanarchive.org/catalog/cpb-aacip_151-9p2w37mj06)
-[William J. Simmons](https://americanarchive.org/catalog/cpb-aacip_151-vh5cc0vs90)
-[Victoria Gray Adams](https://americanarchive.org/catalog/cpb-aacip_151-rf5k931t3g)
-[Joseph Rauh](https://americanarchive.org/catalog/cpb-aacip_151-j678s4kj2q)
-[Walter Mondale](https://americanarchive.org/catalog/cpb-aacip_151-m61bk17k5k)
+
+[Unita Blackwell](https://americanarchive.org/catalog/cpb-aacip_151-0r9m32nw0m)</br>
+[Hodding Carter III](https://americanarchive.org/catalog/cpb-aacip_151-3j3902041k)</br>
+[Lawrence Guyot](https://americanarchive.org/catalog/cpb-aacip_151-zk55d8ph2n)</br>
+[Myrlie Evers](https://americanarchive.org/catalog/cpb-aacip_151-833mw29361)</br>
+[Dave Dennis](https://americanarchive.org/catalog/cpb-aacip_151-xs5j96192c)</br>
+[Robert Moses](https://americanarchive.org/catalog/cpb-aacip_151-6w9668989m)</br>
+[Peter Orris](https://americanarchive.org/catalog/cpb-aacip_151-9p2w37mj06)</br>
+[William J. Simmons](https://americanarchive.org/catalog/cpb-aacip_151-vh5cc0vs90)</br>
+[Victoria Gray Adams](https://americanarchive.org/catalog/cpb-aacip_151-rf5k931t3g)</br>
+[Joseph Rauh](https://americanarchive.org/catalog/cpb-aacip_151-j678s4kj2q)</br>
+[Walter Mondale](https://americanarchive.org/catalog/cpb-aacip_151-m61bk17k5k)</br>
 
 ##### Episode Six: Bridge to Freedom: 1965
-[Rachel West Nelson](https://americanarchive.org/catalog/cpb-aacip_151-pz51g0jt61)
-[James Forman](https://americanarchive.org/catalog/cpb-aacip_151-r20rr1qh04)
-[Joseph Smitherman](https://americanarchive.org/catalog/cpb-aacip_151-m03xs5k88f)
-[Nicholas Katzenbach](https://americanarchive.org/catalog/cpb-aacip_151-dn3zs2m30f)
-[Frederick Reese](https://americanarchive.org/catalog/cpb-aacip_151-8s4jm2454k)
-[Sheyann Webb](https://americanarchive.org/catalog/cpb-aacip_151-9k45q4sc6g)
-[James Clark](https://americanarchive.org/catalog/cpb-aacip_151-q814m92882)
-[C. T. Vivian](https://americanarchive.org/catalog/cpb-aacip_151-z892806203)
-[Richard Valeriani](https://americanarchive.org/catalog/cpb-aacip_151-gx44q7rb3c)
-[Albert Turner](https://americanarchive.org/catalog/cpb-aacip_151-bk16m33w6x)
-[John Lewis (1985)](https://americanarchive.org/catalog/cpb-aacip_151-8k74t6fv60)
-[James Bevel](https://americanarchive.org/catalog/cpb-aacip_151-gt5fb4x427)
-[Andrew Young](https://americanarchive.org/catalog/cpb-aacip_151-db7vm43n05)
-[George Wallace](https://americanarchive.org/catalog/cpb-aacip_151-pr7mp4wh8k)
-[Ralph W. Yarborough](https://americanarchive.org/catalog/cpb-aacip_151-j38kd1rd2f)
-[Orloff Miller](https://americanarchive.org/catalog/cpb-aacip_151-qz22b8wb7q)
-[Stokely Carmichael (Kwame Toure)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g)
-[Burke Marshall](https://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)
-[Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)
+
+[Rachel West Nelson](https://americanarchive.org/catalog/cpb-aacip_151-pz51g0jt61)</br>
+[James Forman](https://americanarchive.org/catalog/cpb-aacip_151-r20rr1qh04)</br>
+[Joseph Smitherman](https://americanarchive.org/catalog/cpb-aacip_151-m03xs5k88f)</br>
+[Nicholas Katzenbach](https://americanarchive.org/catalog/cpb-aacip_151-dn3zs2m30f)</br>
+[Frederick Reese](https://americanarchive.org/catalog/cpb-aacip_151-8s4jm2454k)</br>
+[Sheyann Webb](https://americanarchive.org/catalog/cpb-aacip_151-9k45q4sc6g)</br>
+[James Clark](https://americanarchive.org/catalog/cpb-aacip_151-q814m92882)</br>
+[C. T. Vivian](https://americanarchive.org/catalog/cpb-aacip_151-z892806203)</br>
+[Richard Valeriani](https://americanarchive.org/catalog/cpb-aacip_151-gx44q7rb3c)</br>
+[Albert Turner](https://americanarchive.org/catalog/cpb-aacip_151-bk16m33w6x)</br>
+[John Lewis (1985)](https://americanarchive.org/catalog/cpb-aacip_151-8k74t6fv60)</br>
+[James Bevel](https://americanarchive.org/catalog/cpb-aacip_151-gt5fb4x427)</br>
+[Andrew Young](https://americanarchive.org/catalog/cpb-aacip_151-db7vm43n05)</br>
+[George Wallace](https://americanarchive.org/catalog/cpb-aacip_151-pr7mp4wh8k)</br>
+[Ralph W. Yarborough](https://americanarchive.org/catalog/cpb-aacip_151-j38kd1rd2f)</br>
+[Orloff Miller](https://americanarchive.org/catalog/cpb-aacip_151-qz22b8wb7q)</br>
+[Stokely Carmichael (Kwame Toure)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g)</br>
+[Burke Marshall](https://americanarchive.org/catalog/cpb-aacip_151-0g3gx45d8p)</br>
+[Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g)</br>
 
 #### Next: [Part III: Chronologizing the Past: A Timeline of Events](/exhibits/eotp/3-timeline-of-events/)
 
@@ -243,19 +251,19 @@ This section lists the interviews in order of their subject’s first appearance
 ## Gallery
 - <a class="type">image</a>
 <a class="caption-text"> Excerpt from a memo written by Steve Fayer reviewing an initial cut of Eyes on the Prize. The Henry Hampton Collection, Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ Memo_Fayer.jpg">
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Memo_Fayer.jpg">
 
  - <a class="type">image</a>
 <a class="caption-text"> Page one of the schedule for “civil rights school.” The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ CivilRightsSchool1.jpg">
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool1.jpg">
 
   - <a class="type">image</a>
 <a class="caption-text"> Page two of the schedule for “civil rights school.” The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ CivilRightsSchool2.jpg">
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool2.jpg">
 
   - <a class="type">image</a>
 <a class="caption-text"> Page three of the schedule for “civil rights school.” The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ CivilRightsSchool3.jpg">
+    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool3.jpg">
 
 
 ## Records
