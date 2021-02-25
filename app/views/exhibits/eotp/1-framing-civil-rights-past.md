@@ -8,7 +8,7 @@
 
 ### Henry Hampton’s Vision
 
-Airing on PBS and BBC 2 in 1987, *Eyes I* was the earliest documentary television series to examine the southern civil rights movement at length. *Eyes I* explored the civil rights past from the perspective of African Americans themselves—both those interviewed as well as the Black crew members working behind the scenes at the series’ production company, [Blackside, Inc.](/2-making-television-history#Blackside)[<sup>3</sup>](/exhibits/eotp/notes#3)   
+Airing on PBS and BBC 2 in 1987, *Eyes I* was the earliest documentary television series to examine the southern civil rights movement at length. *Eyes I* explored the civil rights past from the perspective of African Americans themselves—both those interviewed as well as the Black crew members working behind the scenes at the series’ production company, [Blackside, Inc.](/2-making-television-history#Blackside)[<sup>3</sup>](/exhibits/eotp/notes#3)
 
 The series’ executive producer, [Henry Hampton](/2-making-television-history#HenryHampton), had his production teams interview both movement leaders and average citizens. Hampton sought to depict Black people in the movement as empowered activists fighting for their rights rather than as victims of systemic racism in the [Jim Crow South](https://www.pbs.org/wgbh/americanexperience/features/freedom-riders-jim-crow-laws/). [<sup>4</sup>](/exhibits/eotp/notes#4)   
 

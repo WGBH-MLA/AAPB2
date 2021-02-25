@@ -109,7 +109,7 @@ Each team produced and directed two episodes of the series. This section of Free
 
 Reflecting on the initial reception of *Eyes on the Prize: America’s Civil Rights Years*, Callie Crossley recalled, “We started doing some small screenings around Boston. I thought people would like it, but I wasn’t prepared. And then it just started building from there. I realized, “Oh, this is going to be something!*”[<sup>24</sup>](/exhibits/eotp/notes#24)
 
-*Eyes on the Prize* profoundly shaped Americans’ understanding of the civil rights past. Kenneth Rabin has said that it taught white America much of what it knows about the movement. “Even if it was 30 years ago now,” Rabin stated, “I don’t think anyone who ever saw *Eyes* won’t know who [John Lewis](https://americanarchive.org/catalog/cpb-aacip_151-8k74t6fv60) is.”<sup>25</sup>](/exhibits/eotp/notes#25) *Eyes on the Prize* did more than document the past; it changed the public conversation about the legacy and meaning of the civil rights movement of the 1950s and ’60s and, in the process, made television history.
+*Eyes on the Prize* profoundly shaped Americans’ understanding of the civil rights past. Kenneth Rabin has said that it taught white America much of what it knows about the movement. “Even if it was 30 years ago now,” Rabin stated, “I don’t think anyone who ever saw *Eyes* won’t know who [John Lewis](https://americanarchive.org/catalog/cpb-aacip_151-8k74t6fv60) is.”[<sup>25</sup>](/exhibits/eotp/notes#25) *Eyes on the Prize* did more than document the past; it changed the public conversation about the legacy and meaning of the civil rights movement of the 1950s and ’60s and, in the process, made television history.
 
 ### Section ii: Interviews by Episodes
 
