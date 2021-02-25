@@ -4,13 +4,13 @@
 
 ## Summary
 
-> **" We were all in consensus with Henry’s obsession to “honor the foot soldiers, the fan ladies, and the ordinary world parishioners,” doggedly organizing, marching, demonstrating for months and years.”** - *Jon Else*
+> **" We were all in consensus with Henry’s obsession to "honor the foot soldiers, the fan ladies, and the ordinary world parishioners," doggedly organizing, marching, demonstrating for months and years."** - *Jon Else*
 
 ## Extended
 
 Eyewitness and participant accounts of the civil rights struggle are at the heart of *Eyes on the Prize*. The authority that *Eyes I* lays claim to is drawn from the idea that those who lived the movement have a unique authority to tell its history. 
 
-[Henry Hampton](/2-making-television-history#HenryHampton) and the [Blackside](/2-making-television-history#Blackside) filmmakers understood the pitfalls of memory.[<sup>34</sup>](/exhibits/eotp/notes#34) They also knew that some interview subjects’ views had changed since the 1960s and that this might color their accounts. Series producer [Jon Else](/2-making-television-history#JonElse) notes that former segregationists often disavowed their previous views when talking with the *Eyes* crew. As he writes, “somehow the old resistance got lost in a fog of revisionist politesse.”[<sup>35</sup>](/exhibits/eotp/notes#35) Still, the filmmakers believed in the power and authority of first-person accounts. 
+[Henry Hampton](/2-making-television-history#HenryHampton) and the [Blackside](/2-making-television-history#Blackside) filmmakers understood the pitfalls of memory.[<sup>34</sup>](/exhibits/eotp/notes#34) They also knew that some interview subjects’ views had changed since the 1960s and that this might color their accounts. Series producer [Jon Else](/2-making-television-history#JonElse) notes that former segregationists often disavowed their previous views when talking with the *Eyes* crew. As he writes, "somehow the old resistance got lost in a fog of revisionist politesse."[<sup>35</sup>](/exhibits/eotp/notes#35) Still, the filmmakers believed in the power and authority of first-person accounts. 
 
 The producers of *Eyes I* interviewed a wide cross-section of people, including activists, bystanders, and segregationists. These interview subjects assumed different roles in their personal, professional, and political lives. They were ministers-turned-movement leaders, like [James Lawson](https://americanarchive.org/catalog/cpb-aacip_151-1c1td9ns49), sharecroppers-turned-activists, like [Unita Blackwell](https://americanarchive.org/catalog/cpb-aacip_151-0r9m32nw0m), and even segregationists-turned-civil rights supporters, like [Virginia Durr](https://americanarchive.org/catalog/cpb-aacip_151-1j9765b34k). 
 
@@ -18,7 +18,7 @@ People are inherently hard to categorize, but this part of Freedom Song organize
 
 The purpose of grouping the interviews this way is threefold. First, this part of the exhibit aims to helps users find the interviews that are most relevant to their interests. For example, a researcher looking for information on members of a specific organization, like SNCC, can do so by visiting section iii: Organizational Activists.
 
-Second, it highlights the activism of those whose contributions to the movement civil rights histories sometimes overlook. These include women of the southern civil rights era, as well as “local people”—that is, the individuals who made history through their participation in protests, boycotts, and marches, but whose stories remain largely unknown.
+Second, it highlights the activism of those whose contributions to the movement civil rights histories sometimes overlook. These include women of the southern civil rights era, as well as "local people" — that is, the individuals who made history through their participation in protests, boycotts, and marches, but whose stories remain largely unknown.
 
 Finally, this part of Freedom Song seeks to add texture and depth to the history of the movement *Eyes I* tells. Although *Eyes on the Prize* still anchors this part of the exhibit, Freedom Song covers some subjects that are not included in *Eyes I*, but are discussed in interviews. Having access to the unedited interviews allows us to explore ideas, arguments, and events in civil rights history that the filmmakers—constrained by time limitations, funding shortfalls, and the demands of documentary television—chose not to address.
 
