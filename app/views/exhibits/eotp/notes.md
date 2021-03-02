@@ -8,83 +8,105 @@
 
 <a name="2"></a><sup>2</sup> In *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*, executive producer of the series Henry Hampton suggests that he always intended to produce the second chapter of *Eyes on the Prize*: “Because of the difficulty of raising funds, we had to divide this project into two phases,” he writes (xii). In Chapter Four of the online exhibit on the making of the series, however, Rachel L. Martin suggests that the impetus for *Eyes II* came from the success of the series’ first installment. See Henry Hampton and Steve Fayer with Sarah Flynn, *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s* (New York: Bantam, 1990) and Rachel L. Martin, “Making *Eyes on the Prize*: In the Public Eye,” in *Making Eyes on the Prize: An Oral History*, accessed May 24, 2020, https://www.fordfoundation.org/ideas/ford-forum/making-eyes-on-the-prize-an-oral-history/making-eyes-on-the-prize-in-the-public-eye/.
 
-<a name ="3"></a><sup>3</sup> Jon Else discusses other filmmakers’ failure to produce a documentary history of the movement and Henry Hampton’s unique vision for the project in his book *True South: Henry Hampton and Eyes on the Prize, The Landmark Television Series that Reframed the Civil Rights Movement* (New York: Viking, 2017), 58-61.
+<a name ="3"></a><sup>3</sup> Clayborne Carson; quoted in Else, *True South: Henry Hampton and *Eyes on the Prize*, The Landmark Television Series that Reframed the Civil Rights Movement* (New York: Viking, 2017), 94.
 
-<a name="4"></a><sup>4</sup> Fox Butterfield, “Black Film Makers Retrace the Civil-Rights Struggle,” *New York Times*, January 26, 1986, https://www.nytimes.com/1986/01/26/movies/black-film-makers-retrace-the-civil-rights-struggle.html.
+<a name ="4"></a><sup>4</sup> Jon Else discusses other filmmakers’ failure to produce a documentary history of the movement and Henry Hampton’s unique vision for the project in *True South*, 58-61.
 
-<a name="5"></a><sup>5</sup> Nadia Ghasedi discusses the process of preserving and digitizing the Eyes interviews in “Making Virginia Durr Less Blue: Preserving *Eyes on the Prize*,” *Black Camera* 5, no. 2 (Spring 2014), 204-12.
+<a name="5"></a><sup>5</sup> Fox Butterfield, “Black Film Makers Retrace the Civil-Rights Struggle,” *New York Times*, January 26, 1986, https://www.nytimes.com/1986/01/26/movies/black-film-makers-retrace-the-civil-rights-struggle.html.
 
-<a name="6"></a><sup>6</sup>Although *Eyes on the Prize* was a popular movement anthem, it predates the classical Civil Rights era. The modern version is an adaptation of an old spiritual.
+<a name="6"></a><sup>6</sup> Nadia Ghasedi discusses the process of preserving and digitizing the *Eyes* interviews in “Making Virginia Durr Less Blue: Preserving *Eyes on the Prize*,” *Black Camera* 5, no. 2 (Spring 2014), 204-12.
 
-<a name="7"></a><sup>7</sup> For a discussion of efforts on the right to discredit policies like affirmative action as antithetical to the southern civil rights movement generally and the principals of Martin Luther King, Jr. specifically, see Michael Omi and Howard Winant, *Racial Formation in the United States*, 3rd ed. (New York: Routledge, 2015) and Roopali Mukherjee, *The Racial Order of Things: Cultural Imaginaries of the Post-Soul Era* (Minneapolis: University of Minnesota Press, 2006). 
+<a name="7"></a><sup>7</sup>Although *Eyes on the Prize* was a popular movement anthem, it predates the classical Civil Rights era. The modern version is an adaptation of an old spiritual.
 
-<a name="8"></a><sup>8</sup>In some interviews, the subject is stopped by the interviewer when discussion turns to the present-day. Some subjects compare the struggle in the South in the 1950s and ’60s with the fight against apartheid in South Africa; however, such commentary was never used in the series.
+<a name="8"></a><sup>8</sup> For a discussion of efforts on the right to discredit policies like affirmative action as antithetical to the southern civil rights movement generally and the principles of Martin Luther King, Jr. specifically, see Michael Omi and Howard Winant, *Racial Formation in the United States*, 3rd ed. (New York: Routledge, 2015) and Roopali Mukherjee, *The Racial Order of Things: Cultural Imaginaries of the Post-Soul Era* (Minneapolis: University of Minnesota Press, 2006). 
 
-<a name="9"></a><sup>9</sup> Clayborne Carson; quoted in Else, *True South*, 94.
+<a name="9"></a><sup>9</sup>In some interviews, the subject is stopped by the interviewer when discussion turns to the present-day. Some subjects compare the struggle in the South in the 1950s and ’60s with the fight against apartheid in South Africa; however, such commentary was never used in the series.
 
-<a name="10"></a><sup>10</sup> Most discussions of this project refer to it by the title *America, They Loved You Madly*, including a poster for the program reproduced at https://www.fordfoundation.org/ideas/ford-forum/making-eyes-on-the-prize-an-oral-history/making-eyes-on-the-prize-where-it-all-began/. In *True South*, however, Else calls it *America, We Loved You Madly*. In Freedom Song, we use the former title.
+<a name="10"></a><sup>10</sup> Clayborne Carson; quoted in Else, *True South*, 94.
 
-<a name="11"></a><sup>11</sup> Hampton; quoted in Else, *True South*, 1.
+<a name="11"></a><sup>11</sup> Henry Hampton, "Background," Box 3, Folder EOP I: Early Funding Folder, Henry Hampton Collection, Film and Media Archive, Washington University in St. Louise (hereafter referred to as "Henry Hampton Collection").
 
-<a name="12"></a><sup>12</sup> Hampton; quoted in Else, *True South*, 32.
+<a name="12"></a><sup>12</sup> Most discussions of this project refer to it by the title *America, They Loved You Madly*, including a poster for the program reproduced at https://www.fordfoundation.org/ideas/ford-forum/making-eyes-on-the-prize-an-oral-history/making-eyes-on-the-prize-where-it-all-began/. In *True South*, however, Else calls it *America, We Loved You Madly*. In Freedom Song, we use the former title.
 
-<a name="13"></a><sup>13</sup>Else, *True South*, 32, 39–40.
+<a name="13"></a><sup>13</sup> Hampton; quoted in Else, *True South*, 1.
 
-<a name="14"></a><sup>14</sup> Else, *True South*, 59. Later, Hampton would cite the success of the miniseries *Vietnam: A Television History* (1983) as a precedent for *Eyes on the Prize*. Interviews conducted for that series can be found at https://americanarchive.org/special_collections/vietnam-a-television-history.
+<a name="14"></a><sup>14</sup> Hampton; quoted in Else, *True South*, 32.
 
-<a name="15"></a><sup>15</sup> Else, *True South*, 77.
+<a name="15"></a><sup>15</sup>Else, *True South*, 32, 39–40.
 
-<a name="16"></a><sup>16</sup>Correspondence from Judy Richardson to Julian Bond, March 10, 1980, The Henry Hampton Collection, Washington University in St. Louis Film and Media Archive, St. Louis, Missouri.
+<a name="16"></a><sup>16</sup> Else, *True South*, 59. Later, Hampton would cite the success of the miniseries *Vietnam: A Television History* (1983) as a precedent for *Eyes on the Prize*. Interviews conducted for that series can be found at https://americanarchive.org/special_collections/vietnam-a-television-history.
 
-<a name="17"></a><sup>17</sup> Memo from Steve Fayer, “Re: Eyes on the Prize/Analysis,” May 16, 1981, The Henry Hampton Collection, Washington University in St. Louis Film and Media Archive, St. Louis, Missouri.
+<a name="17"></a><sup>17</sup>Else, *True South*, 73.
 
-<a name="18"></a><sup>18</sup>Else, *True South*, 99.
+<a name="18"></a><sup>18</sup> Else, *True South*, 77.
 
-<a name="19"></a><sup>19</sup>Else, *True South*, 98.
+<a name="19"></a><sup>19</sup>Letter from Judy Richardson to Julian Bond, March 10, 1980, Box, Folder EOP1 Memos, Henry Hampton Collection.
 
-<a name="20"></a><sup>20</sup> Martin, Chapter 2, “Making *Eyes on the Prize*: Telling the Story,” in *Making Eyes on the Prize: An Oral History*
+<a name="20"></a><sup>20</sup> Memo from Steve Fayer, “Re: Eyes on the Prize/Analysis,” May 16, 1981, Box 3, Folder EOP1 Memos, Henry Hampton Collection.
 
-<a name="21"></a><sup>21</sup> In 1987, Carson, Garrow, Harding, and Clark Hine edited *Eyes on the Prize: America’s Civil Rights Years, a Reader and Guide*. The anthology includes speeches, primary documents, and first-hand accounts of the long civil rights movement, from the 1950s to the 1990s.
+<a name="21"></a><sup>21</sup>Else, *True South*, 99.
 
-<a name="22"></a><sup>22</sup>Else, *True South*, 97.
+<a name="22"></a><sup>22</sup>Else, *True South*, 98.
 
-<a name="23"></a><sup>23</sup> Jessie McKinley, “Henry Hampton Dies at 58; Produced ‘Eyes on the Prize,’” *New York Times*, November 24, 1998, https://www.nytimes.com/1998/11/24/movies/henry-hampton-dies-at-58-produced-eyes-on-the-prize.html.
+<a name="23"></a><sup>23</sup> Martin, Chapter 2, “Making *Eyes on the Prize*: Telling the Story,” in *Making *Eyes on the Prize*: An Oral History*.
 
-<a name="24"></a><sup>24</sup> Crossley; quoted in Martin, Chapter 4, “Making Eyes on the Prize: In the Public Eye,” in Making *Eyes on the Prize*: An Oral History.
+<a name="24"></a><sup>24</sup> In 1987, Carson, Garrow, Harding, and Clark Hine edited *Eyes on the Prize: America’s Civil Rights Years, a Reader and Guide*. The anthology includes speeches, primary documents, and first-hand accounts of the long civil rights movement, from the 1950s to the 1990s.
 
-<a name="25"></a><sup>25</sup> Rabin; quoted in Martin, Chapter 4, “Making *Eyes on the Prize*: In the Public Eye,” in Making *Eyes on the Prize*: An Oral History.
+<a name="25"></a><sup>25</sup>Else, *True South*, 97.
 
-<a name="26"></a><sup>26</sup>Else, *True South*, 94. 
+<a name="26"></a><sup>26</sup> Jessie McKinley, “Henry Hampton Dies at 58; Produced ‘Eyes on the Prize,’” *New York Times*, November 24, 1998, https://www.nytimes.com/1998/11/24/movies/henry-hampton-dies-at-58-produced-eyes-on-the-prize.html.
 
-<a name="27"></a><sup>27</sup> Carson; quoted in Else, *True South*, 107. 
+<a name="27"></a><sup>27</sup> Crossley; quoted in Martin, Chapter 4, “Making *Eyes on the Prize*: In the Public Eye,” in Making *Eyes on the Prize*: An Oral History.
 
-<a name="28"></a><sup>28</sup>Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past,” *The Journal of American History* (March 2005): 1234.
+<a name="28"></a><sup>28</sup> Rabin; quoted in Martin, Chapter 4, “Making *Eyes on the Prize*: In the Public Eye,” in Making *Eyes on the Prize*: An Oral History.
 
-<a name="29"></a><sup>29</sup>Eric Arneson, “Reconsidering the Long Civil Rights Movement,” *Historically Speaking* 10, no. 2 (April 2009), 31. 
+<a name="29"></a><sup>29</sup>Jacqueline Dowd Hall, "The Long Civil Rights Movement and the Political Uses of the Past," *The Journal of American History* (March 2005): 1234. 
 
-<a name="30"></a><sup>30</sup>*Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*, comp. by Henry Hampton and Steve Fayer with Sarah Flynn (New York: Bantam Books, 1990).
+<a name="30"></a><sup>30</sup> Else, *True South*, 94. 
 
-<a name="31"></a><sup>31</sup>Matthew D. Lassiter and Joseph Crespino, eds., *The Myth of Southern Exceptionalism* (New York, 2010), 14.
+<a name="31"></a><sup>31</sup> Carson; quoted in Else, *True South*, 107. 
 
-<a name="32"></a><sup>32</sup>WAITING FOR CITATION
+<a name="32"></a><sup>32</sup> Jon Else notes that "Henry and Steve [Fayer] established early on that they would construct each episode not around abstract themes, but around the emotional surge of one or two big campaigns…” He continues, “This was, after all, prime-time television. There would, for instance, be no filmed exegesis on all the philosophies, strategies, and tactics of nonviolence on the first Freedom Ride, but there would be a filmed *story* about the *practice* of nonviolence on the first Freedom Ride, in 1961.” Else, *True South*, 109. *Eyes I* is a history of the civil rights movement, but it is also a work of narrative documentary filmmaking. Although the series is richly detailed, when the details threatened narrative cohesion, the Blackside crew privileged storytelling over comprehensiveness.
 
-<a name="33"></a><sup>33</sup>Whereas *Eyes I* focuses on the [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights), *Eyes II* explores the continuation of the struggle in many of the nation’s cities, from Los Angeles to Boston. 
+<a name="33"></a><sup>33</sup>Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past,” *The Journal of American History* (March 2005): 1234.
 
-<a name="34"></a><sup>34</sup>According to Else, the *Eyes I* crew rigorously fact-checked all claims made by interview subjects. See Else, *True South*, 102-03. The fact-checking process is also addressed in Chapter Three of Martin’s oral history exhibit on the series’ production, Making *Eyes on the Prize*: An Oral History.  
+<a name="34"></a><sup>34</sup>Eric Arneson, “Reconsidering the Long Civil Rights Movement,” *Historically Speaking* 10, no. 2 (April 2009), 31. 
 
-<a name="35"></a><sup>35</sup>Else, *True South*, 116.
+<a name="35"></a><sup>35</sup> Some historians have pushed back against this argument. For a different perspective on civil rights periodization, see Sundiata Keita Cha-Jua and Clarence Lang, "The 'Long Movement' as Vampire: Temporal and Spatial Falacies in Recent Black Freedom Studies," *Journal of African American History* 92, no. 2 (2007): 265-88.. 
 
-<a name="36"></a><sup>36</sup>The biographical details in this section were taken from several sources, most notably, the interviewee biographies section of Washington University’s exhibit *Eyes on the Prize* Interviews: The Complete Series, accessed June 6, 2020, http://digital.wustl.edu/eyesontheprize/bios-a-m.html#l.
+<a name="36"></a><sup>36</sup>*Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*, comp. by Henry Hampton and Steve Fayer with Sarah Flynn (New York: Bantam Books, 1990).
 
-<a name="37"></a><sup>37</sup>John Dittmer, *Local People: The Struggle for Civil Rights in Mississippi* (Urbana, IL: University of Illinois Press, 1995). 
+<a name="37"></a><sup>37</sup>Tom Hayden interviewed by Orlando Bagwell for *Eyes I*.
 
-<a name="38"></a><sup>38</sup>This is discussed in Leonard’s biography on Washington University’s Digital Gateway exhibit, Eyes on the Prize Interviews: The Complete Series, accessed June 6, 2020, http://digital.wustl.edu/eyesontheprize/bios-a-m.html#l.
+<a name="38"></a><sup>38</sup>Matthew D. Lassiter and Joseph Crespino, eds., *The Myth of Southern Exceptionalism* (Oxford: Oxofrd University Press, 2010), 14.
 
-<a name="39"></a><sup>39</sup>Else, *True South*, 161. 
+<a name="39"></a><sup>39</sup>Clarence Lang, "Locating the Civil Rights Movement: An Essay on the Deep South, Midwest, and Border South in Black Freedom Studies." Journal of Social History 47, no. 2 (Winter 2013): 371-400.
 
-<a name="40"></a><sup>40</sup>Jackson’s killing and the Selma to Montgomery march are addressed in episode eight of *Eyes on the Prize*, “Bridge to Freedom: 1965.”  
+<a name="40"></a><sup>40</sup>Whereas *Eyes I* focuses on the [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights), *Eyes II* explores the continuation of the struggle in many of the nation’s cities, from Los Angeles to Boston. 
 
-<a name="41"></a><sup>41</sup>The details of what transpired between Emmett Till and Carolyn Bryant in the Bryants’ convenience store have been debated for decades. For a recent account presenting evidence that Carolyn Bryant lied about her encounter with Till, see Timothy B. Tyson’s *The Blood of Emmett Till* (New York: Simon & Schuster, 2017).
+<a name="41"></a><sup>41</sup>The history of the outside agitators trope is discussed in Jacey Fortin's "The Long History of the 'Outside Agitator,'" *New York Times*, June 8, 2020, https://www.nytimes.com/2020/06/08/us/outside-agitators-history-civil-rights.html. 
+
+<a name="42"></a><sup>42</sup>Else, *True South*, 96. 
+
+<a name="43"></a><sup>43</sup>According to Else, the *Eyes I* crew rigorously fact-checked all claims made by interview subjects. In the process, they discovered that some of their most riveting stories were simply not true. Else, *True South*, 102-03. The fact-checking process is also addressed in Chapter Three of Martin’s oral history exhibit on the series’ production, Making *Eyes on the Prize*: An Oral History.  
+
+<a name="44"></a><sup>44</sup>Else, *True South*, 116.
+
+<a name="45"></a><sup>45</sup>The biographical details in this section were taken from several sources, most notably, the interviewee biographies section of Washington University’s exhibit *Eyes on the Prize* Interviews: The Complete Series, accessed June 6, 2020, http://digital.wustl.edu/eyesontheprize/bios-a-m.html#l.
+
+<a name="46"></a><sup>46</sup>John Dittmer, *Local People: The Struggle for Civil Rights in Mississippi* (Urbana, IL: University of Illinois Press, 1995). 
+
+<a name="47"></a><sup>47</sup>This is discussed in Leonard’s biography on Washington University’s Digital Gateway exhibit, *Eyes on the Prize* Interviews: The Complete Series, accessed June 6, 2020, http://digital.wustl.edu/eyesontheprize/bios-a-m.html#l.
+
+<a name="48"></a><sup>48</sup>Else, *True South*, 161. 
+
+<a name="49"></a><sup>49</sup>Jackson’s killing and the Selma to Montgomery march are addressed in episode eight of *Eyes on the Prize*, “Bridge to Freedom: 1965.”  
+
+<a name="50"></a><sup>50</sup>The details of what transpired between Emmett Till and Carolyn Bryant in the Bryants’ convenience store have been debated for decades. For a recent account presenting evidence that Carolyn Bryant lied about her encounter with Till, see Timothy B. Tyson’s *The Blood of Emmett Till* (New York: Simon & Schuster, 2017).
+
+
+
+
 
 <a name="42"></a><sup>42</sup>Coretta Scott King; quoted in Jeanne Theoharris, “Coretta Scott King and the Civil Rights Movement’s Hidden Women,” *The Atlantic Presents: King*, February, 2018, https://www.theatlantic.com/magazine/archive/2018/02/coretta-scott-king/552557/. King reportedly told journalist Barbara Reynolds, “It was not just a few leaders — it was women ... who really put their mark on history.” Coretta Scott King; quoted in Alia E. Dastagir, “The Unsung Heroes of the Civil Rights Movement Are Women You’ve Probably Never Heard Of,” *Montgomery Advertiser*, February 11, 2018, https://www.montgomeryadvertiser.com/story/news/2018/02/11/unsung-heroes-civil-rights-movement-women-youve-probably-never-heard/327829002/. 
 
