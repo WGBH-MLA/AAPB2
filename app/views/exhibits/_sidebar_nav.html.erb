@@ -15,7 +15,7 @@
         <a class="exhibit-color<%= @exhibit_color_suffix %> section" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>
       </li>
 
-      <% links.each do |name,link,subs=nil| %>
+      <% @exhibit.section_links.each do |name,link,subs=nil| %>
 
         <li style="float:right; display: block; width: 100%;" class="item <%= current_page(link)  %>">
           <%= link ? link_to(name, link, class: %(right-justify section-black section)) : content_tag('a', name)%>
