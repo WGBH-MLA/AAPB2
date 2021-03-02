@@ -27,7 +27,7 @@ The interactive map identifies some of the places where civil rights history was
 
 To learn more about a place, click on it; a new page will open that lists the interviews in which subjects discuss that place.
 
-<iframe width="560" height="315" frameborder="0" allowfullscreen src="https://www.historypin.org/en/locations-from-eyes-on-the-prize/geo/37.09024,-95.712891,4/bounds/7.972198,-116.157761,58.217025,-75.268021/paging/1"></iframe> 
+<iframe frameborder="0" allowfullscreen src="https://www.historypin.org/en/locations-from-eyes-on-the-prize/geo/37.09024,-95.712891,4/bounds/7.972198,-116.157761,58.217025,-75.268021/paging/1"></iframe> 
 
 #### Next: [Part V: A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/)
 
