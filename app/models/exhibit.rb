@@ -46,6 +46,29 @@ class Exhibit < Cmless
     all_top_level.select { |ex| ex.ids.include?(id) }
   end
 
+  def section_hash
+    # refer to sections by title rather than cmless array 
+    @section_hash ||= begin
+      h = {}
+      children.each {|c| h[c.path] = c }
+      h
+    end
+  end
+
+  def section_links
+    if Rails.application.config.exhibits[:top_titles] && Rails.application.config.exhibits[:top_titles][ top_path ]
+      Rails.application.config.exhibits[:top_titles][ path ].map {|section_path| [section_hash[section_path].title, section_path]} 
+    else
+      # children.reject {|c| c.title.end_with?("Notes") || c.title.end_with?("Resources") }.sort_by {|c| c.title }.map {|c| [c.title, "/exhibits/#{c.path}"] }
+
+      a = []
+      (children.present? ? children : ancestors.first.children).sort_by {|c| c.title }.each do |c|
+        a.push([c.title, "/exhibits/#{c.path}"]) if !(c.title.end_with?("Notes") || c.title.end_with?("Resources"))
+      end
+
+      a
+    end
+  end
   def thumbnail_url
     @thumbnail_url ||=
       begin
