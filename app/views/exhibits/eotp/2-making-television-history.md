@@ -50,6 +50,7 @@ Perhaps drawing on his experience as an instructional filmmaker, Hampton decided
 2 - Interviews with activists and others who were there during the struggle<br>
 3 - Fact-driven narration<br>
 4 - Contemporaneous music.[<sup>21</sup>](/exhibits/eotp/notes#21)<br>
+
 <a id="Arguments"></a>
 According to Else, *Eyes on the Prize* had four major points it aimed to convey:
 
