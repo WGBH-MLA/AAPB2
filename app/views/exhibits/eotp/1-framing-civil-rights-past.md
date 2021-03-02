@@ -4,8 +4,7 @@
 
 ## Summary
 
-[*Eyes on the Prize*] is not about how we got things changed in the past, but about how we get things changed any time.
--Clayborne Carson[<sup>3</sup>](/exhibits/eotp/notes#3)
+> **"[*Eyes on the Prize*] is not about how we got things changed in the past, but about how we get things changed any time."** - *Clayborne Carson*[<sup>3</sup>](/exhibits/eotp/notes#3)
 
 ## Extended
 
