@@ -31,7 +31,7 @@ You can learn more about Hampton, Blackside, and the production teams behind *Ey
 
 ### Using Freedom Song
 
-Freedom Song is a resource for teachers, students, activists, and scholars. The exhibit’s title underscores music’s inspirational role for Hampton and his crew. The series’ title, *Eyes on the Prize*, was borrowed from a civil rights-era folksong of the same name. [<sup>7</sup>](/exhibits/eotp/notes#7)
+Freedom Song is a resource for teachers, students, activists, and scholars. The exhibit’s title underscores music’s inspirational role for Hampton and his crew. The series’ title, *Eyes on the Prize*, was borrowed from a civil rights-era folksong of the same name.[<sup>7</sup>](/exhibits/eotp/notes#7)
 
 The interviews are organized in four ways:
 
