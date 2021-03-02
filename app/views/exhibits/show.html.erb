@@ -42,7 +42,9 @@
       </div>
 
     <% else %>
-      <div class="col-md-8">
+      <% gallery = @exhibit.gallery %>
+
+      <div class="col-md-<%= gallery.present? ? "8" : "12" %>">
 
         <div id="exhibit-sidebar-row" class="row">
 
@@ -73,6 +75,8 @@
         </div>
       </div>
 
+
+
       <div class="col-md-4" style="padding-right: 0; ">
 
         <% if @exhibit.items.count > 0 %>
@@ -86,11 +90,14 @@
           </div>
         <% end %>
 
-        <!-- whole gallery -->
-        <%= render(partial: 'exhibits/gallery',
-                    locals: {
-                      gallery_info: @exhibit.gallery
-                    }) %>
+
+        <% if gallery.present? %>
+          <!-- whole gallery -->
+          <%= render(partial: 'exhibits/gallery',
+                      locals: {
+                        gallery_info: @exhibit.gallery
+                      }) %>
+        <% end %>
       </div>
     <% end %>
   </div>

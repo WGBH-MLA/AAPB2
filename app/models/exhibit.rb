@@ -155,6 +155,8 @@ class Exhibit < Cmless
   def gallery
     @gallery ||=
       begin
+        puts "Only hapens once!"
+        # take the html that was markdown and is now html and turn each li into a hash so it can be turned back into html in the template render
         Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
           type = gallery_item.css('a.type').first.text
           credit_link = gallery_item.css('a.credit-link').first
