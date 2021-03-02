@@ -4,7 +4,7 @@
 
 ## Summary
 
-> **" But now, after the work we have done accumulating materials to support Eyes on the Prize, I still return to that moment on the bridge in [Selma](https://civilrightstrail.com/destination/selma/). As I was standing next to a black Alabama sharecropper and the wife of Senator Paul Douglas, I felt the deep stirring of what it meant to be caught in a great moment in American history and to feel the nation change around me. This series must be done."** - *Henry Hampton*[<sup>11</sup>](/exhibits/eotp/notes#11)
+> **"But now, after the work we have done accumulating materials to support Eyes on the Prize, I still return to that moment on the bridge in [Selma](https://civilrightstrail.com/destination/selma/). As I was standing next to a black Alabama sharecropper and the wife of Senator Paul Douglas, I felt the deep stirring of what it meant to be caught in a great moment in American history and to feel the nation change around me. This series must be done."** - *Henry Hampton*[<sup>11</sup>](/exhibits/eotp/notes#11)
 
 ## Extended
 
