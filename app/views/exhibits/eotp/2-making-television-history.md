@@ -12,7 +12,7 @@
 
 #### Framing History
 
-Producing *Eyes on the Prize* was more than a labor of love. For Executive Producer [Henry Hampton](/2-making-television-history#HenryHampton), it was an ambition he harbored for more than half his life, one that led him to sacrifice money, opportunity, and his own material welfare to realize. 
+Producing *Eyes on the Prize* was more than a labor of love. For Executive Producer [Henry Hampton](/exhibits/eotp/2-making-television-history#HenryHampton), it was an ambition he harbored for more than half his life, one that led him to sacrifice money, opportunity, and his own material welfare to realize. 
 
 Eyes I grew out of Hampton’s earlier, failed television project, *[America, They Loved You Madly](/2-making-television-history#Madly)*. [<sup>10</sup>](/exhibits/eotp/notes#10) Yet its roots were much deeper, based in his own experience during the first [Selma to Montgomery march](https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march). Hampton had been hesitant to join the march. The polio he had contracted as a child had left him with permanent leg damage, and he worried he wouldn’t be able to keep up with the other marchers. This would make him vulnerable to attack by the segregationists who lined the route. But when his pace began to slow, the people around him formed a human barrier protecting him from the angry crowds. "My own personal honor guard," Hampton called them, recalling the incident in a funding proposal for *Eyes*. [<sup>11</sup>](/exhibits/eotp/notes#11)
 
@@ -115,7 +115,7 @@ Reflecting on the initial reception of *Eyes on the Prize: America’s Civil Rig
 
 #### Using this Section
 
-This section lists the interviews in order of their subject’s first appearance in each of the six episodes of Eyes I. To learn more about the people [Henry Hampton](/2-making-television-history#HenryHampton) and his crew interviewed, go to [Part V of the exhibit: A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/). All six episodes of Eyes I are available to view for free online at Facing History and Ourselves: https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement.
+This section lists the interviews in order of their subject’s first appearance in each of the six episodes of Eyes I. To learn more about the people [Henry Hampton](/exhibits/eotp/2-making-television-history#HenryHampton) and his crew interviewed, go to [Part V of the exhibit: A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/). All six episodes of Eyes I are available to view for free online at Facing History and Ourselves: https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement.
 
 ##### Episode One: Awakenings: 1954–1956
 
