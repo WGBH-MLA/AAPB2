@@ -45,6 +45,15 @@ The defeat was gutting for Hampton. Yet as Else notes, "If Henry had dragged *Am
 
 The format of *Eyes on the Prize* evolved over time. In a March 10, 1980, letter to *Eyes*’ narrator, [Julian Bond](/2-making-television-history#JulianBond), the project’s research consultant, Judy Richardson, wrote that the series would be two hours long and divided into four half-hour segments.[<sup>19</sup>](/exhibits/eotp/notes#19)  Ultimately, *Eyes I* would consist of six episodes running just under one hour each. After the filmmakers completed an initial 40-minute cut, series writer [Steve Fayer](/2-making-television-history#SteveFayer) drafted a detailed memo in which he concluded that the film "just does not make it." "It’s slow and almost totally intellectual (as opposed to emotional)," he wrote. "And it is, occasionally, boring. That, perhaps, is its greatest sin."[<sup>20</sup>](/exhibits/eotp/notes#20)
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 2. Excerpt from a memo from Steve Fayer reviewing an initial cut of *Eyes on the Prize*, Box 3, Folder EOP1 Memos, Henry Hampton Collection.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png
+" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png
+" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of *Eyes on the Prize*, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
+</table>
+
+https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png
+
 #### Structure and Objectives
 
 Hampton and his team ultimately succeeded in producing a narrative-driven documentary series in which the complex human drama at the center of the civil rights movement comes to the fore. They were able to do so, in part, thanks to *Eyes I*'s straight-forward structure and clarity of focus, which allow its subject matter to take center stage.
