@@ -23,6 +23,11 @@ Maybe this experience explains why Hampton felt so strongly about the importance
 
 In 1968, Henry Hampton established Blackside, Inc., a film production company that aimed to increase Black representation both onscreen and behind the camera. "Two things coincided: the [Black Power](https://www.archives.gov/research/african-americans/black-power) movement and my own personal need for independence," Hampton reflected.[<sup>14</sup>](/exhibits/eotp/notes#14) Before *Eyes on the Prize*, most of the films Blackside produced were "industrials"—films sponsored by corporations and government offices to train, educate, or persuade viewers. In *True South: Henry Hampton and Eyes on the Prize, The Landmark Television Series That Reframed the Civil Rights Movement*, series producer [Jon Else](/2-making-television-history#JonElse) writes that despite their small budgets and limited scope, the filmmakers at Blackside imbued these films with artistry and racially progressive politics. As Else writes, "In its own quiet way, it was social justice activism by other means."[<sup>15</sup>](/exhibits/eotp/notes#15)
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 1. Henry Hampton (Image courtesy Washington University in St. Louis)</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/HenryHampton1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/HenryHampton1.png" alt="Henry Hampton with reels of tape. Image courtesy Washington University in St. Louis."/></a></td></tr>
+</table>
+
 Despite establishing what Else describes as "the most important African American documentary company in America," by the late 1970s, Hampton was eager to expand beyond the realm of industrial film production. In 1978, he got the chance to do just that.
 
 <a id="Madly"></a>
@@ -39,6 +44,11 @@ The defeat was gutting for Hampton. Yet as Else notes, "If Henry had dragged *Am
 #### *Eyes on the Prize*: A Fledgling Start
 
 The format of *Eyes on the Prize* evolved over time. In a March 10, 1980, letter to *Eyes*’ narrator, [Julian Bond](/2-making-television-history#JulianBond), the project’s research consultant, Judy Richardson, wrote that the series would be two hours long and divided into four half-hour segments.[<sup>19</sup>](/exhibits/eotp/notes#19)  Ultimately, *Eyes I* would consist of six episodes running just under one hour each. After the filmmakers completed an initial 40-minute cut, series writer [Steve Fayer](/2-making-television-history#SteveFayer) drafted a detailed memo in which he concluded that the film "just does not make it." "It’s slow and almost totally intellectual (as opposed to emotional)," he wrote. "And it is, occasionally, boring. That, perhaps, is its greatest sin."[<sup>20</sup>](/exhibits/eotp/notes#20)
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 2. Excerpt from a memo from Steve Fayer reviewing an initial cut of *Eyes on the Prize*, Box 3, Folder EOP1 Memos, Henry Hampton Collection.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of *Eyes on the Prize*, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
+</table>
 
 #### Structure and Objectives
 
@@ -67,6 +77,26 @@ According to Else, *Eyes on the Prize* had four major points it aimed to convey:
 In preparing to make *Eyes on the Prize*, Hampton arranged for scholars, activists, and folk and gospel singers to come to the Blackside offices. From July 22 to August 22, 1985, they participated in what Hampton called "civil rights school," sharing their knowledge and experience of the movement with the *Eyes I* crew. "It was like going to grad school for free," *Eyes* filmmaker [Kenneth Rabin](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/making-eyes-on-the-prize-participants/#kenn) has said.[<sup>23</sup>](/exhibits/eotp/notes#23) Each session was devoted to a different subject, ranging from broad topics, such as "the law," to specific campaigns, like the [Montgomery bus boycott](https://kinginstitute.stanford.edu/liberation-curriculum/create-your-own-classroom-activity/montgomery-bus-boycott).
 
 At civil rights school, Blackside filmmakers also learned about the expressive and visual culture of the era. One session focused on the music of the civil rights movement; folk singer [Odetta](https://www.thehistorymakers.org/biography/odetta-gordon-41) spoke (and sang), as did [Guy and Candie Carawan](https://snccdigital.org/people/guy-candie-carawan/), who wrote the civil rights anthem, "We Shall Overcome." The final session included screenings of TV news footage from the 1950s and ’60s provided by the New York Public Library’s Schomburg Center for Research in Black Culture, NBC News archives, and Rabin, who was series’ stock footage coordinator.
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 3. The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool1.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
+</table>
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 3. The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool2.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
+</table>
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 3. The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool3.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool3.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
+</table>
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 3. The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool4.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool4.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
+</table>
 
 *Eyes on the Prize* aimed to provide the American viewing public—and in particular, those who were not alive during the era or were too young at the time to remember it—with knowledge of the civil rights past based on both first-hand accounts and the research of scholars. *Eyes I* is therefore indebted to the work of its academic advisors, including [Clayborne Carson](https://kinginstitute.stanford.edu/clayborne-carson), [David Garrow](https://www.davidgarrow.com/), [Vincent Harding](https://kinginstitute.stanford.edu/encyclopedia/harding-vincent-gordon), and [Darlene Clark Hine](https://www.neh.gov/about/awards/national-humanities-medals/darlene-clark-hine), among others.[<sup>24</sup>](/exhibits/eotp/notes#24)
 
