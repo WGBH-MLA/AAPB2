@@ -14,17 +14,16 @@
       <a class="exhibit-color<%= @exhibit_color_suffix %> section" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>
     </li>
 
-    <% @exhibit.section_links.each do |name,link,subs=nil| %>
+    <% @exhibit.sections.each do |section| %>
 
-      <li style="float:right; display: block; width: 100%;" class="item <%= current_page(link)  %>">
-        <%= link ? link_to(name, link, class: %(right-justify section-black section)) : content_tag('a', name)%>
-        <%# <a> in either case for consistent style. %>
+      <li style="float:right; display: block; width: 100%;" class="item <%= current_page(section.path)  %>">
+        <%= link_to(section.title, section.uri, class: %(right-justify section-black section)) %>
       </li>
 
-      <% if subs %><%# This could be recursive... %>
+      <% if section.children %>
         <ul style="float:right;">
-          <% subs.each do |name,link| %>
-            <li class="right-justify">&bull; <%= link_to(name, link, class: %(section-black)) %></li>
+          <% section.children.each do |subsect| %>
+            <li class="right-justify">&bull; <%= link_to(subsect.title, subsect.path, class: %(section-black)) %></li>
           <% end %>
         </ul>
       <% end %>

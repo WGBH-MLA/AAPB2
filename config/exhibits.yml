@@ -1,18 +1,16 @@
 # optional config for exhibits
-
-top_titles:
-  "eotp":
-    ordered_titles:
-    - "eotp/1-framing-civil-rights-past"
-    - "eotp/2-making-television-history"
-    - "eotp/3-timeline-of-events"
-    - "eotp/4-locating-the-movement"
-    - "eotp/5-1-local-people"
-    - "eotp/5-2-women"
-    - "eotp/5-3-organizational-activists"
-    - "eotp/5-4-officials"
-    - "eotp/5-5-media"
-    - "eotp/5-6-religious-leaders"
-    - "eotp/5-7-labor-business"
-    - "eotp/5-8-students-educators"
-    - "eotp/5-interview-subjects"
+"eotp":
+  sections:
+  - "eotp/1-framing-civil-rights-past"
+  - "eotp/2-making-television-history"
+  - "eotp/3-timeline-of-events"
+  - "eotp/4-locating-the-movement"
+  - "eotp/5-interview-subjects"
+  - "eotp/5-1-local-people"
+  - "eotp/5-2-women"
+  - "eotp/5-3-organizational-activists"
+  - "eotp/5-4-officials"
+  - "eotp/5-5-media"
+  - "eotp/5-6-religious-leaders"
+  - "eotp/5-7-labor-business"
+  - "eotp/5-8-students-educators"

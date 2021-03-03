@@ -7,9 +7,7 @@
     <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Exhibits</a></li>
 
     <% @exhibit.ancestors.map do |ancestor| %>
-
       <li><%= link_to ancestor.title, "/exhibits/#{ancestor.path}" %></li>
-
     <% end %>
 
     <li><%= @exhibit.title %></li>
@@ -110,14 +108,12 @@
 
       <div class="row" style="margin:0; margin-left: 2%; margin-right: 2%;">
 
-        <% exes = (@exhibit.parent ? @exhibit.parent.children : @exhibit.children).partition {|ex| !(ex.path.end_with?('learning-goals') || ex.path.end_with?('notes') || ex.path.end_with?('timeline')) } %>
-
         <!-- exhibits -->
-        <% exes.first.sort_by(&:head_html).each do |exhibit| %>
+        <% @exhibit.sections.each do |section| %>
 
           <div class="col-md-3 exhibit-section-margin">
             <div class="exhibit-section-container">
-              <%= exhibit.cover.to_s.html_safe %>
+              <%= section.cover %>
             </div>
           </div>
 
@@ -125,14 +121,9 @@
 
         <div class="col-md-3 exhibit-section-margin">
           <div class="exhibit-section-container ">
-
             <!-- notez and resourcys -->
-            <% exes.last.each do |exhibit| %>
-
-              <%= exhibit.cover.to_s.html_safe %>
-
-            <% end %>
-
+            <%= @exhibit.notes_cover if @exhibit.notes_cover %>
+            <%= @exhibit.resources_cover if @exhibit.resources_cover %>
           </div>
         </div>
 
