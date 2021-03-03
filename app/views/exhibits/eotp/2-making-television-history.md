@@ -47,12 +47,8 @@ The format of *Eyes on the Prize* evolved over time. In a March 10, 1980, letter
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 2. Excerpt from a memo from Steve Fayer reviewing an initial cut of *Eyes on the Prize*, Box 3, Folder EOP1 Memos, Henry Hampton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png
-" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png
-" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of *Eyes on the Prize*, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of *Eyes on the Prize*, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
 </table>
-
-https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png
 
 #### Structure and Objectives
 
