@@ -23,6 +23,11 @@ Maybe this experience explains why Hampton felt so strongly about the importance
 
 In 1968, Henry Hampton established Blackside, Inc., a film production company that aimed to increase Black representation both onscreen and behind the camera. "Two things coincided: the [Black Power](https://www.archives.gov/research/african-americans/black-power) movement and my own personal need for independence," Hampton reflected.[<sup>14</sup>](/exhibits/eotp/notes#14) Before *Eyes on the Prize*, most of the films Blackside produced were "industrials"—films sponsored by corporations and government offices to train, educate, or persuade viewers. In *True South: Henry Hampton and Eyes on the Prize, The Landmark Television Series That Reframed the Civil Rights Movement*, series producer [Jon Else](/2-making-television-history#JonElse) writes that despite their small budgets and limited scope, the filmmakers at Blackside imbued these films with artistry and racially progressive politics. As Else writes, "In its own quiet way, it was social justice activism by other means."[<sup>15</sup>](/exhibits/eotp/notes#15)
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 1. Henry Hampton (Image courtesy Washington University in St. Louis)</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/HenryHampton1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/HenryHampton1.png" alt="Henry Hampton with reels of tape. Image courtesy Washington University in St. Louis."/></a></td></tr>
+</table>
+
 Despite establishing what Else describes as "the most important African American documentary company in America," by the late 1970s, Hampton was eager to expand beyond the realm of industrial film production. In 1978, he got the chance to do just that.
 
 <a id="Madly"></a>
