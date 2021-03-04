@@ -39,6 +39,7 @@ To use the timeline, click on an event. When you do, a new page will open. Click
 <iframe src= 'https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ISfXGK8EEuqCGcONWfekjLZhInxFQyFWwBAl2FbkIxs&font=Default&lang=en&initial_zoom=3&height=650frame' border='0'></iframe> 
 
 
+
 #### Next: [Part IV: Locating the Civil Rights Past: An Interactive Map](/exhibits/eotp/4-locating-the-movement/)
 
 ## Resources
