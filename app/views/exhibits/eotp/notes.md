@@ -4,7 +4,7 @@
 
 ## Summary
 
-<a name="1"></a><sup>1</sup>Some of the interviews were originally conducted for *America, They Loved You Madly*, a precursor to *Eyes on the Prize*. For more on *America, They Loved You Madly*, see Part II of this exhibit, [*Eyes on the Prize*: Making Television History(/exhibits/eotp/2-making-television-history/).
+<a name="1"></a><sup>1</sup>Some of the interviews were originally conducted for *America, They Loved You Madly*, a precursor to *Eyes on the Prize*. For more on *America, They Loved You Madly*, see Part II of this exhibit, [*Eyes on the Prize*: Making Television History](/exhibits/eotp/2-making-television-history/).
 
 <a name="2"></a><sup>2</sup>In *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*, executive producer of the series Henry Hampton suggests that he always intended to produce the second chapter of *Eyes on the Prize*: “Because of the difficulty of raising funds, we had to divide this project into two phases,” he writes (xii). In Chapter Four of the online exhibit on the making of the series, however, Rachel L. Martin suggests that the impetus for *Eyes II* came from the success of the series’ first installment. See Henry Hampton and Steve Fayer with Sarah Flynn, *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s* (New York: Bantam, 1990) and Rachel L. Martin, “Making *Eyes on the Prize*: In the Public Eye,” in *Making Eyes on the Prize: An Oral History*, accessed May 24, 2020, https://www.fordfoundation.org/ideas/ford-forum/making-eyes-on-the-prize-an-oral-history/making-eyes-on-the-prize-in-the-public-eye/.
 
