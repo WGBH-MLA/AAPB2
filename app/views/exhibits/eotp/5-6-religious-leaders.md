@@ -24,7 +24,7 @@ Many of the predominantly white organizations that promoted religious pluralism 
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 11. Orloff Miller during his interview for <em>Eyes on the Prize</em>.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" alt="Image of Orloff Miller during his interivew for Eyes on the Prize."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" class="big-image" alt="Image of Orloff Miller during his interivew for Eyes on the Prize."/></a></td></tr>
 </table>
 
 In his interview, [Orloff Miller](https://americanarchive.org/catalog/cpb-aacip_151-qz22b8wb7q) reflects Unitarian Universalists' involvement in the campaign in [Selma, Alabama](https://civilrightstrail.com/destination/selma/). Along with James Reeb, Miller went to Selma at the request of Martin Luther King, Jr., who sent a telegram asking that ministers of all faiths to come to Selma to take part in the campaign. Miller reflects that the Unitarian Universalist church was, until that time, "very much removed from the Black community—North or South." Yet he expresses pride in his church’s role in Selma: "I was, in some ways, quite ashamed of the fact that Unitarian Universalism was not more involved," Miller says, "but Selma changed all that. Because before we were done with Selma and Selma was done with us, half of our entire denominational ministry was involved."[<sup>73</sup>](/exhibits/eotp/notes#73)
