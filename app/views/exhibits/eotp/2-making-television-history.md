@@ -75,22 +75,7 @@ At civil rights school, Blackside filmmakers also learned about the expressive a
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool1.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
-</table>
-
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool2.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
-</table>
-
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool3.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool3.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
-</table>
-
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool4.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool4.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool_all.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool_all.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
 </table>
 
 *Eyes on the Prize* aimed to provide the American viewing public—and in particular, those who were not alive during the era or were too young at the time to remember it—with knowledge of the civil rights past based on both first-hand accounts and the research of scholars. *Eyes I* is therefore indebted to the work of its academic advisors, including [Clayborne Carson](https://kinginstitute.stanford.edu/clayborne-carson), [David Garrow](https://www.davidgarrow.com/), [Vincent Harding](https://kinginstitute.stanford.edu/encyclopedia/harding-vincent-gordon), and [Darlene Clark Hine](https://www.neh.gov/about/awards/national-humanities-medals/darlene-clark-hine), among others.[<sup>24</sup>](/exhibits/eotp/notes#24)
@@ -125,11 +110,16 @@ Each team produced and directed two episodes of the series. This section of Free
 **Callie Crossley:** Callie Crossley came to Blackside in 1985 shortly after completing a Neiman Journalism Fellowship at Harvard University. Her role as producer on "Bridge to Freedom: 1965" earned her an Academy Award nomination, making her the first African American woman nominated in the Documentary Feature category. From 2010 to 2012, she hosted *The Callie Crossley Show* on WGBH-FM 98.7. Today, Crossley hosts the radio show *Under the Radar with Callie Crossley*.
 
 <a id="JamesDeVinney"></a>
-**James DeVinney**: James DeVinney was a writer, director, and producer on "No Easy Walk: 1963–1965" and "Bridge to Freedom: 1965." Like Crossley, he received an Academy Award nomination for his work on "Bridge to Freedom: 1965." DeVinney subsequently worked on two episodes of *Eyes II*, "The Time Has Come: 1964–1966" and "Back to the Movement: 1979–mid-1980s." He has won four Emmys and four George Foster Peabody Awards, among other honors.
+**James DeVinney:** James DeVinney was a writer, director, and producer on "No Easy Walk: 1963–1965" and "Bridge to Freedom: 1965." Like Crossley, he received an Academy Award nomination for his work on "Bridge to Freedom: 1965." DeVinney subsequently worked on two episodes of *Eyes II*, "The Time Has Come: 1964–1966" and "Back to the Movement: 1979–mid-1980s." He has won four Emmys and four George Foster Peabody Awards, among other honors.
 
 ##### Additional Production Personnel 
 <a id="HenryHampton"></a>
 **Henry Hampton, Executive Producer:** Henry Hampton was the executive producer of *Eyes on the Prize: America’s Civil Rights Years*, 1954–1965 and its sequel, *Eyes on the Prize II: America at the Racial Crossroads, 1965–1985*. Two years after participating in the Selma to Montgomery march, Hampton established Blackside, Inc., a production company exploring "democracy, diversity, culture and civil society."[<sup>26</sup>](/exhibits/eotp/notes#26) Hampton and Blackside garnered seven Emmys and multiple George Foster Peabody Awards and Alfred I. duPont–Columbia University Awards for Excellence in Broadcast Journalism. Hampton won a Career Achievement Award from the International Documentary Association in 1997.
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Julian Bond. This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license. Credit John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JulianBond.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JulianBond.png" alt="Photo of Julian Bond. This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license. Credit John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA."/></a></td></tr>
+</table>
 
 <a id="JulianBond"></a>
 **Julian Bond:** Julian Bond narrated both *Eyes I* and *Eyes II*. Bond had been on the frontlines of the southern civil rights struggle, helping to establish SNCC in 1960 and serving as its communications director. In 1971, Bond founded the Southern Poverty Law Center, a nonprofit legal advocacy organization. He served in both the Georgia House of Representatives and the Georgia State Senate, was the president of the Atlanta chapter of the [National Association for the Advancement of Colored People (NAACP)](https://www.naacp.org/nations-premier-civil-rights-organization/), and later became the NAACP’s national chairman. Bond also hosted the news program *Black Forum* from 1980 to 1997 and wrote a nationally-syndicated newspaper column, "Viewpoint."
@@ -138,7 +128,12 @@ Each team produced and directed two episodes of the series. This section of Free
 **Jon Else:** Jon Else was *Eyes I*’s series senior producer and cinematographer; he also served as consulting series producer on *Eyes II*. Else has won many fellowships and awards, including a MacArthur "Genius" Fellowship, four Emmys, several Alfred I. duPont–Columbia University and George Foster Peabody Awards, the Prix Italia, the Sundance Special Jury Prize, and the Sundance Filmmaker’s Trophy. He is the author of *True South: Henry Hampton and Eyes on the Prize, The Landmark Television Series That Reframed the Civil Rights Movement* (New York: Viking, 2017).
 
 <a id="SteveFayer"></a>
-**Steve Fayer**: Steve Fayer was series writer on both *Eyes I* and *II*, as well as head writer on *America, They Loved You Madly*. Fayer’s work on episode five of *Eyes*, "Mississippi: Is This America?" earned him an Emmy Award. He later collaborated with Hampton on the 1990 publication *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*. In 2001, he received the Writers Guild of America Award for the documentary *George Wallace: Settin’ the Woods on Fire* (2000).
+**Steve Fayer:** Steve Fayer was series writer on both *Eyes I* and *II*, as well as head writer on *America, They Loved You Madly*. Fayer’s work on episode five of *Eyes*, "Mississippi: Is This America?" earned him an Emmy Award. He later collaborated with Hampton on the 1990 publication *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*. In 2001, he received the Writers Guild of America Award for the documentary *George Wallace: Settin’ the Woods on Fire* (2000).
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Judy Richardson. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. Credit Judy Richardson.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JudyRichardson.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JudyRichardson.png" alt="Photo of Judy Richardson. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. Credit Judy Richardson."/></a></td></tr>
+</table>
 
 <a id="JudyRichardson"></a>
 **Judy Richardson:** Hampton recruited Judy Richardson during the production of *America, They Loved You Madly*. Richardson had worked in the national offices of the [Student Nonviolent Coordinating Committee](https://snccdigital.org/inside-sncc/the-story-of-sncc/), and her involvement in the series helped persuade other activists of the legitimacy of Hampton’s project. Richardson was a research consultant on *Eyes I* and a series associate producer on *Eyes II*. She later directed and produced an award-winning episode of the PBS series *The American Experience*, "Malcolm X: Make It Plain" (1994). Richardson has received an Image Award for Vision and Excellence from the group Women in Film and Video.
@@ -386,21 +381,5 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
   <img title="Cover Image" alt="Civil Rights School" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool1_crop.jpg">
 
 ## Gallery
-- <a class="type">image</a>
-<a class="caption-text"> Excerpt from a memo written by Steve Fayer reviewing an initial cut of Eyes on the Prize. The Henry Hampton Collection, Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Memo_Fayer.jpg">
-
- - <a class="type">image</a>
-<a class="caption-text"> Page one of the schedule for "civil rights school." The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool1.jpg">
-
-  - <a class="type">image</a>
-<a class="caption-text"> Page two of the schedule for "civil rights school." The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool2.jpg">
-
-  - <a class="type">image</a>
-<a class="caption-text"> Page three of the schedule for "civil rights school." The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool3.jpg">
-
 
 ## Records
