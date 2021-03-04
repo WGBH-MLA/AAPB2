@@ -18,7 +18,7 @@ Not everyone in the movement supported the strategy of using media to win sympat
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Fig. 9. <em>Right to Left</em>: Viola Liuzzo, Jimmie Lee Jackson, and James Reeb. In his interview, Kwame Ture (Stokely Carmichael) says the deaths of white activists like Liuzzo and Reeb garnered more national press attention than the murders of Black activists. (Image courtesy Floridaphoenix.com)</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Liuzzo_jackson_reeb.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Liuzzo_jackson_reeb.png" alt="Right to Left: Viola Liuzzo, Jimmie Lee Jackson, and James Reeb. Image courtesy Floridaphoenix.com."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" class="big-image" alt="Right to Left: Viola Liuzzo, Jimmie Lee Jackson, and James Reeb. Image courtesy Floridaphoenix.com."/></a></td></tr>
 </table>
 
 ### James Hicks and the Black Press 
@@ -31,7 +31,7 @@ One reporter who put his life on the line to tell the civil rights story was [Ja
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 10. James Hicks during his interview for <em>Eyes on the Prize</em>.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JamesHicks.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JamesHicks.png" alt="Image of James Hicks during his interview for Eyes on the Prize."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JamesHicks.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JamesHicks.png" class="big-image" alt="Image of James Hicks during his interview for Eyes on the Prize."/></a></td></tr>
 </table>
 
 Hicks’s interview frames *Eyes I*’s account of the [Emmett Till](https://www.pbs.org/wgbh/americanexperience/features/till-timeline/) murder trial. The coverage of the trial was a turning point in civil rights reporting. While it was rare for white reporters from northern papers to write about racial violence in the Jim Crow South, at least fifty reporters from across the country descended on the tiny town of [Sumner, Mississippi](https://civilrightstrail.com/destination/sumner/) (population 550) to cover the story. "White and Negro reporters worked in the same room covering the same story with virtually the same amount of access and opportunity," write Roberts and Kilbanoff.[<sup>68</sup>](/exhibits/eotp/notes#68) Hicks, however, that the Black press was relegated to a bridge table in the back of the courtroom while white reporters sat at the front. And as both Hicks’s interview and the stories he recounts in his investigative reporting on the Till trial make clear, Black journalists faced dangers that white journalists did not in covering the case. 
