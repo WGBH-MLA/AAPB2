@@ -94,8 +94,4 @@ The following is a list of some of the little-known "local people" Hampton and h
 
 ## Gallery
 
-  - <a class="type">image</a>
-<a class="caption-text"> Photograph shows Mose Wright, three-quarter length portrait, sitting, facing front, holding clothing belonging to Emmett Till who was kidnapped and murdered by Roy Bryant and J.W. Milam.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png">
-
 ## Records
