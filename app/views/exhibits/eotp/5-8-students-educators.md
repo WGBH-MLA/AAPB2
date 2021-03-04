@@ -20,7 +20,7 @@ The Arkansas National Guard prevented the students’ initial attempt to attend 
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 15. Ernest Green during his interview for <em>America, They Loved You Madly</em>, the precursor to <em>Eyes on the Prize</em>.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/ErnestGreen.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ErnestGreen.png" alt="Image of Ernest Green during his interview for America, They Loved You Madly."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/ErnestGreen.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ErnestGreen.png" class="big-image" alt="Image of Ernest Green during his interview for America, They Loved You Madly."/></a></td></tr>
 </table>
 
 School desegregation was key to the dismantling of [Jim Crow](https://www.pbs.org/wgbh/americanexperience/features/freedom-riders-jim-crow-laws/), even if, as [Constance Baker Motley](https://americanarchive.org/catalog/cpb-aacip_151-3775t3gn95) observes, resistance to integration resulted in the perpetuation of segregated and unequal schooling. For Motley, one of the most significant results of the Brown ruling was that it inspired Black Americans to fight for equality in other areas of public life. In her interview, [Linda Brown Smith](https://americanarchive.org/catalog/cpb-aacip_151-gb1xd0rn6g), whose father brought the class-action lawsuit that became Brown v. Board of Education, expresses a similar opinion of the decision’s impact. As she told [Llewelyn Smith](/2-making-television-history#LlewelynSmith), "I really think of [Brown] in terms of what it has done for our young people in taking away that feeling of second-class citizenship. I think it has made the dreams, hopes, and aspirations of our young people greater today."
@@ -35,7 +35,7 @@ In his interview, Clark reflects on his work with his wife, [Mamie Clark](https:
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 16. "Doll Test," Harlem, New York, 1947, by Gordon Parks. (Image courtesy the Gordon Parks Foundation)</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" alt="Image of a young Black boy pointing to a white doll when being shown one white and one Black doll."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" class="big-image" alt="Image of a young Black boy pointing to a white doll when being shown one white and one Black doll."/></a></td></tr>
 </table>
 
 The Clarks used the doll test and other study techniques developed over a decade earlier to assess the effects of segregation on children whose cases came to be a part of Brown v. Board. "And I went in and used the same methods and techniques that I had used in the earlier studies," Clark says in his interview, "and the results were the same. I mean, these children saw themselves as inferior, and they accepted the inferiority as part of reality."
