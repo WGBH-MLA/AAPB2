@@ -29,6 +29,7 @@ To learn more about a place, click on it; a new page will open that lists the in
 
 <iframe frameborder="0" allowfullscreen src="https://www.historypin.org/en/locations-from-eyes-on-the-prize/geo/37.09024,-95.712891,4/bounds/7.972198,-116.157761,58.217025,-75.268021/paging/1"></iframe> 
 
+
 #### Next: [Part V: A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/)
 
 ## Resources
