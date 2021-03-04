@@ -65,11 +65,11 @@ The same is true of the interviews themselves. Although they were filmed over th
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt="Henry Hampton" src="https://s3.amazonaws.com/americanarchive.org/exhibits/henry-hampton.jpg">
+  <img title="Cover Image" alt="Henry Hampton introducing a speaker at Eyes on the Prize Staff Education Day" src="https://s3.amazonaws.com/americanarchive.org/exhibits/henry-hampton.jpg">
 
 ## Gallery
   - <a class="type">image</a>
     <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/henry-hampton.jpg">
-    <a class="caption-text">Image of Henry Hampton</a>
+    <a class="caption-text">Image of Henry Hampton introducing a speaker at Eyes on the Prize Staff Education Day</a>
 
 ## Records
