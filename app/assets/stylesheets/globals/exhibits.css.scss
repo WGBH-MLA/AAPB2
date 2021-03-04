@@ -383,14 +383,26 @@ h3.exhibit-title {
   background-repeat: no-repeat;
 }
 
+#exgal-modal-viewer .exgal-modal-height {
+  min-height: 68vh;
+  max-height: 68vh;
+  height: 68vh;
+}
+
+.exgal-player-container.exgal-image {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .exgal-modal-height {
   /*min-height: 100%;
   max-height: 100%;
   height: 100%;*/
 
-  min-height: 68vh;
-  max-height: 68vh;
-  height: 68vh;
+  min-height: 21vh;
+  max-height: 21vh;
+  height: 21vh;
 
 
   /*display: flex;*/
