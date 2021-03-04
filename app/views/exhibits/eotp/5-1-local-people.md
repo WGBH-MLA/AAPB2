@@ -26,7 +26,7 @@ For Hampton, small acts of individual bravery on the part of everyday Black Amer
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 4. Mose Wright identifies the men who abducted his nephew, Emmett Till (Image courtesy PBS.org).</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/MoseWright.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/MoseWright.png" alt="Photograph shows Mose Wright, three-quarter length portrait, sitting, facing front, holding clothing belonging to Emmett Till who was kidnapped and murdered by Roy Bryant and J.W. Milam."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" alt="Photograph shows Mose Wright, three-quarter length portrait, sitting, facing front, holding clothing belonging to Emmett Till who was kidnapped and murdered by Roy Bryant and J.W. Milam."/></a></td></tr>
 </table>
 
 Instead of depicting Till’s murder as a setback for civil rights, "Awakenings" emphasizes Mose Wright’s bravery, characterizing his testimony as one of the many acts of courage inspired by the Supreme Court desegregation ruling.
