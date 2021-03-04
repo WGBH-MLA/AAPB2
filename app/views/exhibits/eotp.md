@@ -41,9 +41,6 @@ When the digitization project is complete, users will have access to interviews 
 <img title="Eyes on the Prize" alt="Eyes on the Prize" src="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg">
 
 ## Gallery
-- <a class="type">image</a>
-  <img alt="Eyes on the Prize Logo" src="https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg">
-  <a class="caption-text">*Eyes on the Prize* signature image.</a>
 
 ## Records
 
