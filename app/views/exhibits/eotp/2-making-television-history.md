@@ -42,7 +42,7 @@ The format of *Eyes on the Prize* evolved over time. In a March 10, 1980, letter
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 2. Excerpt from a memo from Steve Fayer reviewing an initial cut of <em>Eyes on the Prize</em>, Box 3, Folder EOP1 Memos, Henry Hampton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of Eyes on the Prize, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/FayerMemo1.png" class="big-image" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of Eyes on the Prize, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
 </table>
 
 #### Structure and Objectives
@@ -75,7 +75,7 @@ At civil rights school, Blackside filmmakers also learned about the expressive a
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder <em>Eyes on the Prize</em> Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool_all.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool_all.png" alt="The schedule for "civil rights school," Box 3, Folder Eyes on the Prize Production Book, Henry Hempton Collection."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool_all.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool_all.png" class="big-image" alt="The schedule for "civil rights school," Box 3, Folder Eyes on the Prize Production Book, Henry Hempton Collection."/></a></td></tr>
 </table>
 
 *Eyes on the Prize* aimed to provide the American viewing public—and in particular, those who were not alive during the era or were too young at the time to remember it—with knowledge of the civil rights past based on both first-hand accounts and the research of scholars. *Eyes I* is therefore indebted to the work of its academic advisors, including [Clayborne Carson](https://kinginstitute.stanford.edu/clayborne-carson), [David Garrow](https://www.davidgarrow.com/), [Vincent Harding](https://kinginstitute.stanford.edu/encyclopedia/harding-vincent-gordon), and [Darlene Clark Hine](https://www.neh.gov/about/awards/national-humanities-medals/darlene-clark-hine), among others.[<sup>24</sup>](/exhibits/eotp/notes#24)
