@@ -12,7 +12,7 @@ Hampton's filmmakers also interviewed subjects who were young girls during the h
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Fig. 5. Sheyann Webb (<em>left</em>) and Rachel West Nelson (<em>right</em>) during their interviews for <em>Eyes on the Prize</em>.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Webb_WestNelson.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Webb_WestNelson.png" alt="Image of side-by-side interviews, Sheyann Webb on the left, and Rachel West Nelson on the right, both facing towards the camera during separate interviews."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Webb_WestNelson.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Webb_WestNelson.png" class="big-image" alt="Image of side-by-side interviews, Sheyann Webb on the left, and Rachel West Nelson on the right, both facing towards the camera during separate interviews."/></a></td></tr>
 </table>
 
 Women played key roles in the production of *Eyes on the Prize.* As noted in [Part II](/exhibits/eotp/2-making-television-history) of this exhibit, Hampton valued both racial and gender parity in his production teams; each of the three teams responsible for the series' first six episodes included one man and one woman, one white, and one Black. Women who were not part of these production teams were involved in making *Eyes on the Prize* as well. Hampton recruited former [Student Nonviolent Coordinating Committee (SNCC)](https://snccdigital.org/inside-sncc/the-story-of-sncc/) activist [Judy Richardson](/2-making-television-history#JudyRichardson) to work on his earlier project, *[America, They Loved You Madly](/2-making-television-history#Madly)*, and she continued to work with Hampton on *Eyes on the Prize*. Her ties to the movement helped legitimize Hampton's civil rights film project and persuade other activists to participate. 
@@ -21,7 +21,7 @@ One of Richardson's first interviews was with [Jo Ann Robinson](https://american
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 6. Jo Ann Robinson during her interview for <em>America, They Loved You Madly</em>, the predecessor to <em>Eyes on the Prize</em>.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson1.png" alt="Image of Jo Ann Robinson facing towards the camera during an interview."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson1.png" class="big-image" alt="Image of Jo Ann Robinson facing towards the camera during an interview."/></a></td></tr>
 </table>
 
 ### Stories of Rape and Resistance
