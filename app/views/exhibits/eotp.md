@@ -6,7 +6,7 @@
 
 This curated collection features the unedited interviews conducted during the making of the landmark PBS documentary series *Eyes on the Prize: America’s Civil Rights Years, 1954–1965* (1987).[<sup>1</sup>](/exhibits/eotp/notes#1)  
 
-Produced by Kenneth Campbell, a documentary film artist, Howard University graduate student and Library of Congress Archives, History and Heritage Advanced Intern, the following is a 20-minute highlights reel entitled "Freedom Song" that brings together several of the interviews from *Eyes I* as an introduction to this exhibit and the collection.
+Produced by Kenneth Campbell, documentary film artist, as part of the Library of Congress/Howard University Archives, History, and Heritage Advanced Internship (AHHA) program, the following is a 20-minute highlights reel entitled "Freedom Song" of excerpts from *Eyes I* interviews as an introduction to this exhibit and the collection.
 
 <iframe src="https://player.vimeo.com/video/514298975" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
