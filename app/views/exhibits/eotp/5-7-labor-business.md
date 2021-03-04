@@ -27,7 +27,7 @@ Other interviewees discuss Black consumer activism in the movement as well. In t
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 13. A. Philip Randolph (*center*) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" class="big-image" alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom."/></a></td></tr>
 </table>
 
 The Black freedom struggle and the fight for economic justice were connected long before the [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights) of the 1950s and ’60s. One of the most influential champions of both workers’ rights and African American civil rights during the first half of the twentieth century was [A. Philip Randolph](https://www.blackpast.org/african-american-history/randolph-asa-philip-1889-1979/). [Bayard Rustin](https://americanarchive.org/catalog/cpb-aacip_151-rr1pg1jj76) discusses Randolph’s vision for the civil rights movement in his interview for *[America, They Loved You Madly](/2-making-television-history#Madly)*, the predecessor to *Eyes I*.
@@ -36,7 +36,7 @@ A. Philip Randolph was a civil rights leader, labor activist, and socialist poli
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 14. Bayard Rustin during his interview for <em>America, They Loved You Madly</em>, the precursor to <em>Eyes on the Prize</em>.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" alt="Image of Bayard Rustin during his interview for America, They Loved You Madly."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" class="big-image" alt="Image of Bayard Rustin during his interview for America, They Loved You Madly."/></a></td></tr>
 </table>
 
 In 1941 Randolph, Rustin, and [A.J. Muste](https://ajmuste.org/aj_mustes-life-of-activism) planned a march on [Washington, DC](https://civilrightstrail.com/state/district-of-columbia/), to protest racial discrimination in war-related industries. However, they called it off when President Franklin D. Roosevelt, anxious about the potential for violence at the march, issued [Executive Order 8802: Fair Employment Practice in Defense Industries](https://www.ourdocuments.gov/doc.php?flash=false&doc=72). The order barred discrimination in defense hiring, though not in the armed forces. But in 1963, Randolph realized his longstanding ambition to stage a march on the capital when he spearheaded the [March on Washington for Jobs and Freedom](https://kinginstitute.stanford.edu/encyclopedia/march-washington-jobs-and-freedom).
