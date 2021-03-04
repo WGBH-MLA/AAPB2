@@ -21,7 +21,7 @@ One of Richardson's first interviews was with [Jo Ann Robinson](https://american
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 6. Jo Ann Robinson during her interview for *America, They Loved You Madly*, the predecessor to *Eyes on the Prize*.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson.png" alt="Image of Jo Ann Robinson facing towards the camera during an interview."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson1.png" alt="Image of Jo Ann Robinson facing towards the camera during an interview."/></a></td></tr>
 </table>
 
 ### Stories of Rape and Resistance
