@@ -14,15 +14,30 @@ As the MIA’s spokesperson, [Martin Luther King, Jr.](https://thekingcenter.org
 
 Jacquelyn Dowd Hall writes that the civil rights movement's dominant narrative obscures King’s commitment to economic justice. "Gone is King the democratic socialist who advocated unionization, planned the [Poor People’s Campaign](https://kinginstitute.stanford.edu/encyclopedia/poor-peoples-campaign), and was assassinated in 1968 while supporting a [sanitation workers’ strike](https://kinginstitute.stanford.edu/encyclopedia/memphis-sanitation-workers-strike)," she writes.[<sup>76</sup>](/exhibits/eotp/notes#76) Similarly, the dominant narrative obfuscates the importance of consumer activism as a strategy for combatting Jim Crow. Even in histories of the Montgomery bus boycott, accounts of King's leadership often overshadow the sacrifices of the domestic servants and day laborers who made the boycott a success. As Weems writes, "While King’s place in history has been deservedly illuminated, consumer activism, the most potent nonviolent strategy employed by African Americans during this period of civil rights activity, has not been similarly spotlighted."[<sup>77</sup>](/exhibits/eotp/notes#77)
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">CAPTION TO BE CHANGED</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" alt="CAPTION TO BE CHANGED."/></a></td></tr>
+</table>
+
 The interviews in this collection speak to the importance of Black consumer activism within the movement. They also show that the Black freedom struggle and the fight for economic justice were interconnected. In her interview for *Eyes I*, [Coretta Scott King](https://americanarchive.org/catalog/cpb-aacip_151-542j679j5g) discusses her husband’s commitment to the latter cause. She says that once the legal barriers of segregation were dismantled, her husband planned to challenge the economic obstacles that prevented Black Americans from achieving equality. "In 1967 he began his campaign for economic justice," she tells her interviewer, "and that is what he understood was the final and great challenge, and that it would require much more from all of us, and he said this is going to be the most difficult aspect of our struggle."[<sup>78</sup>](/exhibits/eotp/notes#78)   
 
 Other interviewees discuss Black consumer activism in the movement as well. In the early 1960s, [Bernie Schweid](americanarchive.org/catalog/cpb-aacip_151-n00zp3ws5r), a white man, was the proprietor of a bookstore in downtown Nashville. In his interview, he discusses the [Student Nonviolent Coordinating Committee (SNCC)](https://snccdigital.org/inside-sncc/the-story-of-sncc/)-led boycott of downtown stores to protest segregated lunch counters. Schweid recalls that whites in Nashville were initially dismissive of the student [sit-in movement](https://kinginstitute.stanford.edu/encyclopedia/sit-ins); however, the boycott convinced the white public—and retailers, especially—of the students’ commitment to the cause. "I don't know if there was one event that made it sink in," Schweid says. "[But] when it … starts to hit your pocketbook, then you realize, hey, this is serious."[<sup>79</sup>](/exhibits/eotp/notes#79)
 
 ### A. Philip Randolph, Bayard Rustin, and the March on Washington
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 13. A. Philip Randolph (*center*) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom."/></a></td></tr>
+</table>
+
 The Black freedom struggle and the fight for economic justice were connected long before the [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights) of the 1950s and ’60s. One of the most influential champions of both workers’ rights and African American civil rights during the first half of the twentieth century was [A. Philip Randolph](https://www.blackpast.org/african-american-history/randolph-asa-philip-1889-1979/). [Bayard Rustin](https://americanarchive.org/catalog/cpb-aacip_151-rr1pg1jj76) discusses Randolph’s vision for the civil rights movement in his interview for *[America, They Loved You Madly](/2-making-television-history#Madly)*, the predecessor to *Eyes I*.
 
 A. Philip Randolph was a civil rights leader, labor activist, and socialist politician. In 1925, Randolph organized the [Brotherhood of Sleeping Car Porters](https://www.blackpast.org/african-american-history/brotherhood-sleeping-car-porters-1925-1978/), the first majority African American labor union. Like Martin Luther King, Jr., Randolph believed that after Black voting rights were secured and segregation in the South was abolished, a new front in the freedom struggle would present itself: the fight for economic equality. "Mr. Randolph understood something that very few people did," Rustin says in his interview. "He foresaw that a new period was coming and that that new period had to do with economics." 
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 14. Bayard Rustin during his interview for *America, They Loved You Madly*, the precursor to *Eyes on the Prize*.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" alt="Image of Bayard Rustin during his interview for *America, They Loved You Madly*."/></a></td></tr>
+</table>
 
 In 1941 Randolph, Rustin, and [A.J. Muste](https://ajmuste.org/aj_mustes-life-of-activism) planned a march on [Washington, DC](https://civilrightstrail.com/state/district-of-columbia/), to protest racial discrimination in war-related industries. However, they called it off when President Franklin D. Roosevelt, anxious about the potential for violence at the march, issued [Executive Order 8802: Fair Employment Practice in Defense Industries](https://www.ourdocuments.gov/doc.php?flash=false&doc=72). The order barred discrimination in defense hiring, though not in the armed forces. But in 1963, Randolph realized his longstanding ambition to stage a march on the capital when he spearheaded the [March on Washington for Jobs and Freedom](https://kinginstitute.stanford.edu/encyclopedia/march-washington-jobs-and-freedom).
 
@@ -108,14 +123,5 @@ This section identifies interview subjects who were boycotters, labor activists,
 " src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph_1.jpg">
 
 ## Gallery
-- <a class="type">image</a>
-    <img alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom." src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph_1.jpg">
-    <a class="caption-text">A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</a>
-
-- <a class="type">image</a>
-    <img alt="Image of Bayard Rustin from his interview for *America, They Loved You Madly*." src="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg">
-    <a class="caption-text">Bayard Rustin during his interview for *America, They Loved You Madly*, the precursor to *Eyes on the Prize*.</a>
-
-
 
 ## Records
