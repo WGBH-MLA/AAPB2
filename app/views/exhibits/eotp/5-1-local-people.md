@@ -6,7 +6,7 @@
 
 ## Extended
 
-### WE DO NOT YET HAVE PERMISSION TO USE THE MOSES WRIGHT IMAGE AS THE COVER
+### WE DO NOT YET HAVE PERMISSION TO USE THE MOSES WRIGHT IMAGE AS THE COVER or in the text
 
 It was important to [Henry Hampton](/exhibits/eotp/2-making-television-history#HenryHampton) that his series not be limited to interviews with civil rights luminaries like [John Lewis](https://americanarchive.org/catalog/cpb-aacip_151-8k74t6fv60) and [Kwame Ture (Stokely Carmichael)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g). It was "local people," to borrow the title of John Dittmer’s book on the civil rights fight in [Mississippi](https://civilrightstrail.com/state/mississippi/), who drove the movement.[<sup>46</sup>](/exhibits/eotp/notes#46) Hampton and his crew chose to interview not only the movement’s leaders but also little-known activists and even those on the sidelines of the struggle. Their goal was to tell the history of the civil rights movement from the ground up, emphasizing the crucial role played by unknown, predominantly Black Americans. 
 
@@ -23,6 +23,11 @@ One example of how *Eyes on the Prize* emphasizes everyday Americans' contributi
 Hampton struggled with how to frame the story of Emmett Till’s murder and his killers’ trial. Instead of focusing on the brutality of the crime, the American public’s reaction to it, or the miscarriage of justice that led to Milam and Bryant’s acquittal, Hampton emphasized Wright’s courage in seeking justice for his nephew. When called to the stand, the prosecution asked Wright to identify the men took Till from his bed the night he was lynched. Despite the danger of accusing a white man of murder in the segregated South, Wright identified Till’s abductors. 
 
 For Hampton, small acts of individual bravery on the part of everyday Black Americans were as critical for advancing civil rights as protests and legislation. In "Awakenings," we learn about the Supreme Court’s ruling in [Brown v. Board of Education](https://www.oyez.org/cases/1940-1955/347us483), which overturned [Plessy v. Ferguson](https://www.oyez.org/cases/1850-1900/163us537) in declaring segregated public schooling unconstitutional. "I think the greatest impact of the Brown decision was on the Black community itself," says [Constance Baker Motley](https://americanarchive.org/catalog/cpb-aacip-151-3775t3gn95?start=2676.64&end=2880.7), one of a team of lawyers involved in the case. By using this clip from Motley’s interview, "Awakenings" emphasizes the emboldening effect the Brown verdict had on Black Americans. It then introduces Mose Wright’s story, which serves as a bridge between the Brown v. Board verdict and Emmett Till’s murder: "The change began slowly," narrator [Julian Bond](/2-making-television-history#JulianBond) says. "Blacks in rural areas knew they could lose their livelihood or their lives if they pushed whites too fast. But step by step, the change began, first with small acts of personal courage. In September 1955, an old man named Mose Wright took that remarkable first step."
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 4. Mose Wright identifies the men who abducted his nephew, Emmett Till (Image courtesy PBS.org).</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/MoseWright.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/MoseWright.png" alt="Photograph shows Mose Wright, three-quarter length portrait, sitting, facing front, holding clothing belonging to Emmett Till who was kidnapped and murdered by Roy Bryant and J.W. Milam."/></a></td></tr>
+</table>
 
 Instead of depicting Till’s murder as a setback for civil rights, "Awakenings" emphasizes Mose Wright’s bravery, characterizing his testimony as one of the many acts of courage inspired by the Supreme Court desegregation ruling.
 
@@ -85,8 +90,7 @@ The following is a list of some of the little-known "local people" Hampton and h
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt="Photograph shows Mose Wright, three-quarter length portrait, sitting, facing front, holding clothing belonging to Emmett Till who was kidnapped and murdered by Roy Bryant and J.W. Milam.
-" src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png">
+  <img title="Cover Image" alt="Photograph shows Mose Wright, three-quarter length portrait, sitting, facing front, holding clothing belonging to Emmett Till who was kidnapped and murdered by Roy Bryant and J.W. Milam." src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png">
 
 ## Gallery
 
