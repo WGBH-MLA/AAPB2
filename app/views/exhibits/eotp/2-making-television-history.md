@@ -131,6 +131,10 @@ Each team produced and directed two episodes of the series. This section of Free
 <a id="HenryHampton"></a>
 **Henry Hampton, Executive Producer:** Henry Hampton was the executive producer of *Eyes on the Prize: America’s Civil Rights Years*, 1954–1965 and its sequel, *Eyes on the Prize II: America at the Racial Crossroads, 1965–1985*. Two years after participating in the Selma to Montgomery march, Hampton established Blackside, Inc., a production company exploring "democracy, diversity, culture and civil society."[<sup>26</sup>](/exhibits/eotp/notes#26) Hampton and Blackside garnered seven Emmys and multiple George Foster Peabody Awards and Alfred I. duPont–Columbia University Awards for Excellence in Broadcast Journalism. Hampton won a Career Achievement Award from the International Documentary Association in 1997.
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Julian Bond. This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license. Credit John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JulianBond.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JulianBond.png" alt="Photo of Julian Bond. This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license. Credit John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA."/></a></td></tr>
+</table>
 <a id="JulianBond"></a>
 **Julian Bond:** Julian Bond narrated both *Eyes I* and *Eyes II*. Bond had been on the frontlines of the southern civil rights struggle, helping to establish SNCC in 1960 and serving as its communications director. In 1971, Bond founded the Southern Poverty Law Center, a nonprofit legal advocacy organization. He served in both the Georgia House of Representatives and the Georgia State Senate, was the president of the Atlanta chapter of the [National Association for the Advancement of Colored People (NAACP)](https://www.naacp.org/nations-premier-civil-rights-organization/), and later became the NAACP’s national chairman. Bond also hosted the news program *Black Forum* from 1980 to 1997 and wrote a nationally-syndicated newspaper column, "Viewpoint."
 
@@ -140,6 +144,10 @@ Each team produced and directed two episodes of the series. This section of Free
 <a id="SteveFayer"></a>
 **Steve Fayer**: Steve Fayer was series writer on both *Eyes I* and *II*, as well as head writer on *America, They Loved You Madly*. Fayer’s work on episode five of *Eyes*, "Mississippi: Is This America?" earned him an Emmy Award. He later collaborated with Hampton on the 1990 publication *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*. In 2001, he received the Writers Guild of America Award for the documentary *George Wallace: Settin’ the Woods on Fire* (2000).
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Judy Richardson. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. Credit Judy Richardson.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JudyRichardson.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JudyRichardson.png" alt="Photo of Judy Richardson. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. Credit Judy Richardson."/></a></td></tr>
+</table>
 <a id="JudyRichardson"></a>
 **Judy Richardson:** Hampton recruited Judy Richardson during the production of *America, They Loved You Madly*. Richardson had worked in the national offices of the [Student Nonviolent Coordinating Committee](https://snccdigital.org/inside-sncc/the-story-of-sncc/), and her involvement in the series helped persuade other activists of the legitimacy of Hampton’s project. Richardson was a research consultant on *Eyes I* and a series associate producer on *Eyes II*. She later directed and produced an award-winning episode of the PBS series *The American Experience*, "Malcolm X: Make It Plain" (1994). Richardson has received an Image Award for Vision and Excellence from the group Women in Film and Video.
 
