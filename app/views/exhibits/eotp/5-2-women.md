@@ -19,6 +19,11 @@ Women played key roles in the production of *Eyes on the Prize.* As noted in [Pa
 
 One of Richardson's first interviews was with [Jo Ann Robinson](https://americanarchive.org/catalog/cpb-aacip_151-wh2d796b02). Robinson was head of the [Women's Political Council (WPC)](https://www.blackpast.org/african-american-history/women-s-political-council-montgomery/), the grassroots organization that initiated the Montgomery bus boycott. In her interview, Robinson discusses the WPC and women's role in the civil rights struggle.
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 6. Jo Ann Robinson during her interview for *America, They Loved You Madly*, the predecessor to *Eyes on the Prize*.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JoAnnRobinson.png" alt="Image of Jo Ann Robinson facing towards the camera during an interview."/></a></td></tr>
+</table>
+
 ### Stories of Rape and Resistance
 
 Both *Eyes on the Prize* and the interviews in this exhibit address the interconnectedness of white supremacy and patriarchy in the segregated South. Episode one of *Eyes*, "Awakenings," tells the story of the murder of [Emmett Till](https://www.pbs.org/wgbh/americanexperience/features/till-timeline/), lynched for the alleged offense of whistling at a white woman. After their acquittal, journalist [William Bradford Huie](https://americanarchive.org/catalog/cpb-aacip-151-2b8v98094z) interviewed Till's killers. Because they could not be re-tried the men spoke openly about their crime. In his interview with Blackside, Huie recounts what one of them told him about his decision to murder Till: "J. W. Milam looked up at me and said, ‘Well, when he told me about this white girl he had... my friend, that's what this war's about down here now... that's what we got to fight to protect.' According to Huie, Milam said to Till, "'Boy, you ain't ever going to see the sun come up again.' " 
