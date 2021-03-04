@@ -75,22 +75,7 @@ At civil rights school, Blackside filmmakers also learned about the expressive a
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool1.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
-</table>
-
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool2.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
-</table>
-
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool3.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool3.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
-</table>
-
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool4.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/civilrightsschool4.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool_all.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool_all.png" alt="The schedule for "civil rights school," Box 3, Folder *Eyes on the Prize* Production Book, Henry Hempton Collection."/></a></td></tr>
 </table>
 
 *Eyes on the Prize* aimed to provide the American viewing public—and in particular, those who were not alive during the era or were too young at the time to remember it—with knowledge of the civil rights past based on both first-hand accounts and the research of scholars. *Eyes I* is therefore indebted to the work of its academic advisors, including [Clayborne Carson](https://kinginstitute.stanford.edu/clayborne-carson), [David Garrow](https://www.davidgarrow.com/), [Vincent Harding](https://kinginstitute.stanford.edu/encyclopedia/harding-vincent-gordon), and [Darlene Clark Hine](https://www.neh.gov/about/awards/national-humanities-medals/darlene-clark-hine), among others.[<sup>24</sup>](/exhibits/eotp/notes#24)
@@ -396,21 +381,5 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
   <img title="Cover Image" alt="Civil Rights School" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool1_crop.jpg">
 
 ## Gallery
-- <a class="type">image</a>
-<a class="caption-text"> Excerpt from a memo written by Steve Fayer reviewing an initial cut of Eyes on the Prize. The Henry Hampton Collection, Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Memo_Fayer.jpg">
-
- - <a class="type">image</a>
-<a class="caption-text"> Page one of the schedule for "civil rights school." The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool1.jpg">
-
-  - <a class="type">image</a>
-<a class="caption-text"> Page two of the schedule for "civil rights school." The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool2.jpg">
-
-  - <a class="type">image</a>
-<a class="caption-text"> Page three of the schedule for "civil rights school." The Henry Hampton Papers. Washington University in St. Louis Film and Media Archive.</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool3.jpg">
-
 
 ## Records
