@@ -349,7 +349,7 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
 
 [Joseph Smitherman](https://americanarchive.org/catalog/cpb-aacip_151-m03xs5k88f)</br>
 
-[Kwame Toure (Stokely Carmichael)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g)</br>
+[Stokely Carmichael (Kwame Ture)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g)</br>
 
 [Albert Turner](https://americanarchive.org/catalog/cpb-aacip_151-bk16m33w6x)</br>
 
