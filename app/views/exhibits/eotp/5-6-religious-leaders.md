@@ -22,7 +22,7 @@ Outside the Black church, other faith-based communities also contributed to the 
 
 Many of the predominantly white organizations that promoted religious pluralism in the 1940s failed to extend their advocacy efforts to African Americans. However, some did. Several Jewish organizations, for example, moved beyond the cause of fostering religious ecumenism to champion racial equality.[<sup>71</sup>](/exhibits/eotp/notes#71) Southern Universalists, Unitarians, and Unitarian Universalists also contributed meaningfully to the movement. Hundreds of Unitarian Universalists took part in the Selma to Montgomery march. Among them were Reverend [James Reeb](http://crdl.usg.edu/people/r/reeb_james_j_1927_1965/) and [Viola Luizzo](http://crdl.usg.edu/people/l/liuzzo_viola_1925_1965/?Welcome) who were both murdered by segregationists for their activism.[<sup>72</sup>](/exhibits/eotp/notes#72)
 
-<table class="exhibit-image">
+<table class="exhibit-big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 11. Orloff Miller during his interview for <em>Eyes on the Prize</em>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" class="big-image" alt="Image of Orloff Miller during his interivew for Eyes on the Prize."/></a></td></tr>
 </table>

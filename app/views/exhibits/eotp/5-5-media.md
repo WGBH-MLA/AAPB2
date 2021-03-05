@@ -29,7 +29,7 @@ However, it wasn’t just white owned-and-operated media outlets that covered th
 
 One reporter who put his life on the line to tell the civil rights story was [James Hicks](https://americanarchive.org/catalog/cpb-aacip_151-9w08w38t9n). Hicks served as the [Washington, DC](https://civilrightstrail.com/state/district-of-columbia/), Bureau Chief of the National Negro Press and is today regarded as one of the era's best investigative reporters.
 
-<table class="exhibit-image">
+<table class="exhibit-big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 10. James Hicks during his interview for <em>Eyes on the Prize</em>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JamesHicks.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JamesHicks.png" class="big-image" alt="Image of James Hicks during his interview for Eyes on the Prize."/></a></td></tr>
 </table>

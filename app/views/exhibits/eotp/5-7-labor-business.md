@@ -25,7 +25,7 @@ Other interviewees discuss Black consumer activism in the movement as well. In t
 
 ### A. Philip Randolph, Bayard Rustin, and the March on Washington
 
-<table class="exhibit-image">
+<table class="exhibit-big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 13. A. Philip Randolph (*center*) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" class="big-image" alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom."/></a></td></tr>
 </table>

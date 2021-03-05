@@ -18,7 +18,7 @@ In the face of this resistance, on-the-ground activism was critical. For the so-
 
 The Arkansas National Guard prevented the students’ initial attempt to attend Little Rock Central High School. After the governor withdrew the National Guard, the students went to school for part of the day but left when the angry mob of white protesters outside the school threatened to break through policed barricades. "We stayed out a day and a half after that," Green recalls. "And then the morning after, Eisenhower sent a thousand paratroopers to Little Rock, and the next morning we went to school with the assistance of the 101st Airborne Division."  
 
-<table class="exhibit-image">
+<table class="exhibit-big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 15. Ernest Green during his interview for <em>America, They Loved You Madly</em>, the precursor to <em>Eyes on the Prize</em>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/ErnestGreen.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ErnestGreen.png" class="big-image" alt="Image of Ernest Green during his interview for America, They Loved You Madly."/></a></td></tr>
 </table>
