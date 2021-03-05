@@ -90,7 +90,7 @@ The following is a list of some of the little-known "local people" Hampton and h
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt="Image of a woman coming through a door marked "Registrar of Voters". Screenshot from *Louisiana Diary* about a CORE-directed voter registration movement around Plaquemine, LA." src="https://s3.amazonaws.com/americanarchive.org/exhibits/LouisianaDiary.png">
+  <img title="Cover Image" alt="Image of a woman coming through a door marked Registrar of Voters. Screenshot from *Louisiana Diary* about a CORE-directed voter registration movement around Plaquemine, LA." src="https://s3.amazonaws.com/americanarchive.org/exhibits/LouisianaDiary.png">
 
 ## Gallery
 
