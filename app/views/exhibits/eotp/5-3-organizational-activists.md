@@ -49,8 +49,6 @@ The following lists identify interview subjects with the groups in which they we
 
 [James Farmer](https://americanarchive.org/catalog/cpb-aacip_151-4b2x34nb4p): CORE co-founder and architect of the 1961 CORE Freedom Rides
 
-[James Forman](https://americanarchive.org/catalog/cpb-aacip_151-r20rr1qh04): Executive secretary for CORE from 1961 to 1966; participated in the Monroe, [North Carolina](https://civilrightstrail.com/state/north-carolina/), ride that began August 17, 1961, the Trailways station demonstration on November 1, 1961, and the ride from [Atlanta](https://civilrightstrail.com/destination/atlanta/) to [Albany, Georgia](https://civilrightstrail.com/destination/albany/), that began December 10, 1961
-
 [Lawrence Guyot](https://americanarchive.org/catalog/cpb-aacip_151-zk55d8ph2n): CORE project director
 
 [Frederick Leonard](https://americanarchive.org/catalog/cpb-aacip_151-n58cf9k35x): Participated in the May 17 and May 28 [Nashville](https://civilrightstrail.com/destination/nashville/) Freedom Rides and the Monroe, North Carolina, Freedom Ride that began August 17, 1961
@@ -118,6 +116,8 @@ The following lists identify interview subjects with the groups in which they we
 [Courtland Cox](https://americanarchive.org/catalog/cpb-aacip_151-9z9086402c): Nonviolent Action Group representative on SNCC Coordinating Council; organizer
 
 [Ivanhoe Donaldson](https://americanarchive.org/catalog/cpb-aacip_151-930ns0mm68): SNCC field secretary 
+
+[James Forman](https://americanarchive.org/catalog/cpb-aacip_151-r20rr1qh04): Executive secretary for SNCC from 1961 to 1966; participated in the Monroe, [North Carolina](https://civilrightstrail.com/state/north-carolina/), ride that began August 17, 1961, the Trailways station demonstration on November 1, 1961, and the ride from [Atlanta](https://civilrightstrail.com/destination/atlanta/) to [Albany, Georgia](https://civilrightstrail.com/destination/albany/), that began December 10, 1961
 
 [Casey Hayden](https://americanarchive.org/catalog/cpb-aacip_151-kd1qf8kc1r): Students for a Democratic Society organizer; worked with SNCC during [Freedom Summer](https://www.blackpast.org/african-american-history/freedom-summer-1964/)
 
