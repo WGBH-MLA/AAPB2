@@ -1,3 +1,9 @@
+<% if @exhibit.config[:preview] %>
+  <% content_for :head do %>
+    <%= @exhibit.meta_tags %>
+  <% end %>
+<% end %>
+
 <% content_for :main do %>
 
   <% has_main_text = @exhibit.main_html.length > 0 || @exhibit.extended_html.length > 0 %>

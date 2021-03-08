@@ -64,10 +64,31 @@ class Exhibit < Cmless
           # drop in global config option for anything undefined
           config[key] = global_config[key] if (global_config[key] && !config[key])
         end
+
+        # fill in default values for any unset config options
+        if !config[:preview]
+          # meta tags
+          config[:preview] = {
+            title: title,
+            description: summary_html,
+            image: thumbnail_url
+          }
+        end
       end
 
       config
     end
+  end
+
+  def meta_tags
+    %(
+      <meta property="og:title" content="#{config[:preview][:title]}" />
+      <meta property="og:description" content="#{config[:preview][:description]}" />
+      
+      <meta property="og:image" content="#{config[:preview][:image]}" />
+      <meta property="twitter:card" content="summary_large_image" />
+      <meta property="twitter:site" content="@amarchivepub" />
+    )
   end
 
   def section_hash
