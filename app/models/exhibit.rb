@@ -58,11 +58,11 @@ class Exhibit < Cmless
       if global_config[ top_path ]
 
         # take custom config for this exhibit
-        config = global_config[top_path]
+        config = global_config[top_path].clone
         
         global_config.each do |key, value|
           # drop in global config option for anything undefined
-          config[key] = global_config[key] if (global_config[key] && !config[key])
+          config[key] = global_config[key].clone if (global_config[key] && !config[key])
         end
 
         # fill in default values for any unset config options
@@ -70,7 +70,7 @@ class Exhibit < Cmless
           # meta tags
           config[:preview] = {
             title: title,
-            description: ActionView::Base.full_sanitizer.sanitize(summary_html).gsub(/"'/, ''),
+            description: ActionView::Base.full_sanitizer.sanitize(summary_html).gsub(/["']/, ''),
             image: thumbnail_url
           }
         end
