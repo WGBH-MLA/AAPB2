@@ -1,6 +1,6 @@
-<% if @exhibit.config[:preview] %>
-  <% content_for :head do %>
-    <%= @exhibit.meta_tags %>
+<% content_for :head do %>
+  <% if @exhibit.config[:preview] %>
+    <%= @exhibit.meta_tags.html_safe %>
   <% end %>
 <% end %>
 
