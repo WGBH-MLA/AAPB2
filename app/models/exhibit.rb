@@ -86,8 +86,8 @@ class Exhibit < Cmless
       <meta property="og:description" content="#{config[:preview][:description]}" />
 
       <meta property="og:image" content="#{config[:preview][:image]}" />
-      <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:site" content="@amarchivepub" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@amarchivepub" />
     )
   end
 
