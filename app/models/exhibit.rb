@@ -70,7 +70,7 @@ class Exhibit < Cmless
           # meta tags
           config[:preview] = {
             title: title,
-            description: ActionView::Base.full_sanitizer.sanitize(summary_html),
+            description: ActionView::Base.full_sanitizer.sanitize(summary_html).gsub(/"'/, ''),
             image: thumbnail_url
           }
         end
@@ -82,7 +82,7 @@ class Exhibit < Cmless
 
   def meta_tags
     %(
-      <meta property="og:title" content="#{config[:preview][:title]}" />
+      <meta property="og:title" content="#{config[:preview][:title]} | American Archive of Public Broadcasting" />
       <meta property="og:description" content="#{config[:preview][:description]}" />
 
       <meta property="og:image" content="#{config[:preview][:image]}" />
