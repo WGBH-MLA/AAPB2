@@ -60,7 +60,7 @@
 
 <a name="28"></a><sup>28</sup>Rabin; quoted in Martin, Chapter 4, “Making *Eyes on the Prize*: In the Public Eye,” in Making *Eyes on the Prize*: An Oral History.
 
-<a name="29"></a><sup>29</sup>Jacqueline Dowd Hall, "The Long Civil Rights Movement and the Political Uses of the Past," *The Journal of American History* (March 2005): 1234. 
+<a name="29"></a><sup>29</sup>Jacqueline Dowd Hall, "The Long Civil Rights Movement and the Political Uses of the Past," *Journal of American History* 91, no. 4 (March 2005): 1234, https://doi.org/10.2307/3660172. 
 
 <a name="30"></a><sup>30</sup>Else, *True South*, 94. 
 
