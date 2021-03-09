@@ -41,7 +41,7 @@ The defeat was gutting for Hampton. Yet as Else notes, "If Henry had dragged *Am
 The format of *Eyes on the Prize* evolved over time. In a March 10, 1980, letter to *Eyes*’ narrator, [Julian Bond](/2-making-television-history#JulianBond), the project’s research consultant, Judy Richardson, wrote that the series would be two hours long and divided into four half-hour segments.[<sup>19</sup>](/exhibits/eotp/notes#19)  Ultimately, *Eyes I* would consist of six episodes running just under one hour each. After the filmmakers completed an initial 40-minute cut, series writer [Steve Fayer](/2-making-television-history#SteveFayer) drafted a detailed memo in which he concluded that the film "just does not make it." "It’s slow and almost totally intellectual (as opposed to emotional)," he wrote. "And it is, occasionally, boring. That, perhaps, is its greatest sin."[<sup>20</sup>](/exhibits/eotp/notes#20)
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 2. Excerpt from a memo from Steve Fayer reviewing an initial cut of <span style="font-style: normal;">Eyes on the Prize</span>, Box 3, Folder EOP1 Memos, Henry Hampton Collection.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 1. Excerpt from a memo from Steve Fayer reviewing an initial cut of <span style="font-style: normal;">Eyes on the Prize</span>, Box 3, Folder EOP1 Memos, Henry Hampton Collection.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/fayermemo.JPG" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/fayermemo.JPG" class="big-image" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of Eyes on the Prize, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
 </table>
 
@@ -74,7 +74,7 @@ In preparing to make *Eyes on the Prize*, Hampton arranged for scholars, activis
 At civil rights school, Blackside filmmakers also learned about the expressive and visual culture of the era. One session focused on the music of the civil rights movement; folk singer [Odetta](https://www.thehistorymakers.org/biography/odetta-gordon-41) spoke (and sang), as did [Guy and Candie Carawan](https://snccdigital.org/people/guy-candie-carawan/), who wrote the civil rights anthem, "We Shall Overcome." The final session included screenings of TV news footage from the 1950s and ’60s provided by the New York Public Library’s Schomburg Center for Research in Black Culture, NBC News archives, and Rabin, who was series’ stock footage coordinator.
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 3. The schedule for "civil rights school," Box 3, Folder <span style="font-style: normal;">Eyes on the Prize</span> Production Book, Henry Hempton Collection.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 2. The schedule for "civil rights school," Box 3, Folder <span style="font-style: normal;">Eyes on the Prize</span> Production Book, Henry Hempton Collection.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/EOTP_Fig3.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/EOTP_Fig3.png" class="big-image" alt="The schedule for "civil rights school," Box 3, Folder Eyes on the Prize Production Book, Henry Hempton Collection."/></a></td></tr>
 </table>
 
