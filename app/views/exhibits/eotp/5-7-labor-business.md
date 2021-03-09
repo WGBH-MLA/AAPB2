@@ -15,7 +15,7 @@ As the MIA’s spokesperson, [Martin Luther King, Jr.](https://thekingcenter.org
 Jacquelyn Dowd Hall writes that the civil rights movement's dominant narrative obscures King’s commitment to economic justice. "Gone is King the democratic socialist who advocated unionization, planned the [Poor People’s Campaign](https://kinginstitute.stanford.edu/encyclopedia/poor-peoples-campaign), and was assassinated in 1968 while supporting a [sanitation workers’ strike](https://kinginstitute.stanford.edu/encyclopedia/memphis-sanitation-workers-strike)," she writes.[<sup>76</sup>](/exhibits/eotp/notes#76) Similarly, the dominant narrative obfuscates the importance of consumer activism as a strategy for combatting Jim Crow. Even in histories of the Montgomery bus boycott, accounts of King's leadership often overshadow the sacrifices of the domestic servants and day laborers who made the boycott a success. As Weems writes, "While King’s place in history has been deservedly illuminated, consumer activism, the most potent nonviolent strategy employed by African Americans during this period of civil rights activity, has not been similarly spotlighted."[<sup>77</sup>](/exhibits/eotp/notes#77)
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 13. CAPTION TO BE CHANGED</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 12. CAPTION TO BE CHANGED</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" alt="CAPTION TO BE CHANGED."/></a></td></tr>
 </table>
 
@@ -26,7 +26,7 @@ Other interviewees discuss Black consumer activism in the movement as well. In t
 ### A. Philip Randolph, Bayard Rustin, and the March on Washington
 
 <table class="exhibit-big-image">
-<caption align="bottom" class="exhibit-caption">Fig. 14. A. Philip Randolph (<span style="font-style: normal;">center</span>) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 13. A. Philip Randolph (<span style="font-style: normal;">center</span>) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" class="big-image" alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom."/></a></td></tr>
 </table>
 
@@ -39,7 +39,7 @@ A. Philip Randolph was a civil rights leader, labor activist, and socialist poli
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" class="big-image" alt="Image of Bayard Rustin during his interview for America, They Loved You Madly."/></a></td></tr>
 </table>
 
-In 1941 Randolph, Rustin, and [A.J. Muste](https://ajmuste.org/aj_mustes-life-of-activism) planned a march on [Washington, DC](https://civilrightstrail.com/state/district-of-columbia/), to protest racial discrimination in war-related industries. However, they called it off when President Franklin D. Roosevelt, anxious about the potential for violence at the march, issued [Executive Order 8802: Fair Employment Practice in Defense Industries](https://www.ourdocuments.gov/doc.php?flash=false&doc=72). The order barred discrimination in defense hiring, though not in the armed forces. But in 1963, Randolph realized his longstanding ambition to stage a march on the capital when he spearheaded the [March on Washington for Jobs and Freedom](https://kinginstitute.stanford.edu/encyclopedia/march-washington-jobs-and-freedom).
+In 1941 Randolph, Rustin, and [A.J. Muste](https://ajmuste.org/aj_mustes-life-of-activism) planned a march on [Washington, DC](https://civilrightstrail.com/state/district-of-columbia/), to protest racial discrimination in war-related industries. They called it off, however, when President Franklin D. Roosevelt, anxious about the potential for violence at the march, issued [Executive Order 8802: Fair Employment Practice in Defense Industries](https://www.ourdocuments.gov/doc.php?flash=false&doc=72). The order barred discrimination in defense hiring, though not in the armed forces. But in 1963, Randolph realized his longstanding ambition to stage a march on the capital when he spearheaded the [March on Washington for Jobs and Freedom](https://kinginstitute.stanford.edu/encyclopedia/march-washington-jobs-and-freedom).
 
 According to Rustin, Randolph believed that sit-ins, marches, and other forms of nonviolent protest were effective methods for securing Black voting rights and equal access to public accommodations. He thought, however, that the coming fight for economic justice would require an emphasis on voter education and the formation of a united front made up of Black civil rights organizations, labor unions, and religious groups. For Randolph, the March on Washington marked the end of what Rustin calls ‘the demonstration period" and the beginning of a new period, one chiefly concerned with economic justice.
 
