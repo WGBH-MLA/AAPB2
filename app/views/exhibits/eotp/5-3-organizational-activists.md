@@ -21,7 +21,7 @@ In her interview, [Diane Nash](https://americanarchive.org/catalog/cpb-aacip_151
 Not all activists ascribed to the philosophy of nonviolence, however. As SNCC member [Hollis Watkins](https://americanarchive.org/catalog/cpb-aacip-151-fb4wh2f48v?start=1224.64&end=1302.63) told [Orlando Bagwell](/2-making-television-history#OrlandoBagwell), "As far as the nonviolent question, most of the people from [Mississippi](https://civilrightstrail.com/state/mississippi/) never really accepted nonviolence. You know, we went along with it being a proper tactic at different times here and there, but as far as really accepting it then, none of us really accepted that."
 
 <table class="exhibit-big-image">
-<caption align="bottom" class="exhibit-caption">Fig. 6. Hollis Watkins during his interview for <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 7. Hollis Watkins during his interview for <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/HollisWatkins.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/HollisWatkins.png" class="big-image" alt="Hollis Watkins facing towards the camera while giving an interview for Eyes on the Prize."/></a></td></tr>
 </table>
 
