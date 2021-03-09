@@ -11,7 +11,7 @@ The [Blackside](/2-making-television-history#Blackside) crew interviewed politic
 Executive producer [Henry Hampton](/exhibits/eotp/2-making-television-history#HenryHampton) believed that the [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights) succeeded in part because it took place within the framework of American liberal democracy. In fact, according to series producer and cinematographer [Jon Else](/2-making-television-history#JonElse), this is one of the [four main arguments](/2-making-television-history#Arguments) *Eyes on the Prize* presents.[<sup>60</sup>](/exhibits/eotp/notes#60) Hampton’s faith in the nation and its governing bodies is reflected in American flag's prominence on screen and in promotional material for the series.[<sup>61</sup>](/exhibits/eotp/notes#61)
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 7. <span style="font-style: normal;">Eyes on the Prize</span> signature image.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 8. <span style="font-style: normal;">Eyes on the Prize</span> signature image.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/eotp_promo_image.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/eotp_promo_image.jpg" alt="Eyes on the Prize signature image."/></a></td></tr>
 </table>
 
