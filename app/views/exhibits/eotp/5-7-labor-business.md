@@ -15,7 +15,7 @@ As the MIA’s spokesperson, [Martin Luther King, Jr.](https://thekingcenter.org
 Jacquelyn Dowd Hall writes that the civil rights movement's dominant narrative obscures King’s commitment to economic justice. "Gone is King the democratic socialist who advocated unionization, planned the [Poor People’s Campaign](https://kinginstitute.stanford.edu/encyclopedia/poor-peoples-campaign), and was assassinated in 1968 while supporting a [sanitation workers’ strike](https://kinginstitute.stanford.edu/encyclopedia/memphis-sanitation-workers-strike)," she writes.[<sup>76</sup>](/exhibits/eotp/notes#76) Similarly, the dominant narrative obfuscates the importance of consumer activism as a strategy for combatting Jim Crow. Even in histories of the Montgomery bus boycott, accounts of King's leadership often overshadow the sacrifices of the domestic servants and day laborers who made the boycott a success. As Weems writes, "While King’s place in history has been deservedly illuminated, consumer activism, the most potent nonviolent strategy employed by African Americans during this period of civil rights activity, has not been similarly spotlighted."[<sup>77</sup>](/exhibits/eotp/notes#77)
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 12. CAPTION TO BE CHANGED</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 13. CAPTION TO BE CHANGED</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" alt="CAPTION TO BE CHANGED."/></a></td></tr>
 </table>
 
@@ -26,7 +26,7 @@ Other interviewees discuss Black consumer activism in the movement as well. In t
 ### A. Philip Randolph, Bayard Rustin, and the March on Washington
 
 <table class="exhibit-big-image">
-<caption align="bottom" class="exhibit-caption">Fig. 13. A. Philip Randolph (*center*) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 14. A. Philip Randolph (<span style="font-style: normal;">center</span>) with other organizers of the March on Washington for Jobs and Freedom. (Image courtesy NARA)</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/aphiliprandolph.jpg" class="big-image" alt="Image of A. Philip Randolph (center) with other organizers of the March on Washington for Jobs and Freedom."/></a></td></tr>
 </table>
 
@@ -35,7 +35,7 @@ The Black freedom struggle and the fight for economic justice were connected lon
 A. Philip Randolph was a civil rights leader, labor activist, and socialist politician. In 1925, Randolph organized the [Brotherhood of Sleeping Car Porters](https://www.blackpast.org/african-american-history/brotherhood-sleeping-car-porters-1925-1978/), the first majority African American labor union. Like Martin Luther King, Jr., Randolph believed that after Black voting rights were secured and segregation in the South was abolished, a new front in the freedom struggle would present itself: the fight for economic equality. "Mr. Randolph understood something that very few people did," Rustin says in his interview. "He foresaw that a new period was coming and that that new period had to do with economics." 
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 14. Bayard Rustin during his interview for <em>America, They Loved You Madly</em>, the precursor to <em>Eyes on the Prize</em>.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 15. Bayard Rustin during his interview for <span style="font-style: normal;">America, They Loved You Madly</span>, the precursor to <em>Eyes on the Prize</em>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" class="big-image" alt="Image of Bayard Rustin during his interview for America, They Loved You Madly."/></a></td></tr>
 </table>
 
