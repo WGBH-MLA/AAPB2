@@ -35,7 +35,7 @@ The Black freedom struggle and the fight for economic justice were connected lon
 A. Philip Randolph was a civil rights leader, labor activist, and socialist politician. In 1925, Randolph organized the [Brotherhood of Sleeping Car Porters](https://www.blackpast.org/african-american-history/brotherhood-sleeping-car-porters-1925-1978/), the first majority African American labor union. Like Martin Luther King, Jr., Randolph believed that after Black voting rights were secured and segregation in the South was abolished, a new front in the freedom struggle would present itself: the fight for economic equality. "Mr. Randolph understood something that very few people did," Rustin says in his interview. "He foresaw that a new period was coming and that that new period had to do with economics." 
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 15. Bayard Rustin during his interview for <span style="font-style: normal;">America, They Loved You Madly</span>, the precursor to <em>Eyes on the Prize</em>.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 15. Bayard Rustin during his interview for <span style="font-style: normal;">America, They Loved You Madly</span>, the precursor to <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/BayardRustin.jpg" class="big-image" alt="Image of Bayard Rustin during his interview for America, They Loved You Madly."/></a></td></tr>
 </table>
 
