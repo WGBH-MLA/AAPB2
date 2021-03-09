@@ -13,7 +13,7 @@ It is "impossible to conceive of the civil rights movement without placing Black
 Reflecting on the success of the Montgomery bus boycott's effectiveness, [Fred Shuttlesworth](https://americanarchive.org/catalog/cpb-aacip-151-086348h395?start=588.88&end=623.93) told [Callie Crossley](/2-making-television-history#CallieCrossley), "Here in [Montgomery](https://civilrightstrail.com/destination/montgomery/), I say, all the elements came together. There was the idea, there was a man [Martin Luther King, Jr.]( https://thekingcenter.org/about-tkc/martin-luther-king-jr/), then there was God’s power, and all these come together. And then it’s time for a movement." King attributed the boycott's success to divine intervention: "God had decided to use Montgomery as the proving ground for the triumph of freedom and justice in America."[<sup>70</sup>](/exhibits/eotp/notes#70) 
 
 <table class="exhibit-big-image">
-<caption align="bottom" class="exhibit-caption">Fig. 11. Rev. Fred Shuttlesworth preaching at Bethel Baptist Church in Birmingham, Alabama. Image courtesy of Alabama Public Television.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 10. Rev. Fred Shuttlesworth preaching at Bethel Baptist Church in Birmingham, Alabama. Image courtesy of Alabama Public Television.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shuttlesworthfeature.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shuttlesworthfeature.jpg" class="big-image" alt="Rev. Fred Shuttlesworth preaching at Bethel Baptist Church in Birmingham, Alabama. Image courtesy of Alabama Public Television."/></a></td></tr>
 </table>
 
@@ -26,7 +26,7 @@ Outside the Black church, other faith-based communities also contributed to the 
 Many of the predominantly white organizations that promoted religious pluralism in the 1940s failed to extend their advocacy efforts to African Americans. However, some did. Several Jewish organizations, for example, moved beyond the cause of fostering religious ecumenism to champion racial equality.[<sup>71</sup>](/exhibits/eotp/notes#71) Southern Universalists, Unitarians, and Unitarian Universalists also contributed meaningfully to the movement. Hundreds of Unitarian Universalists took part in the Selma to Montgomery march. Among them were Reverend [James Reeb](http://crdl.usg.edu/people/r/reeb_james_j_1927_1965/) and [Viola Luizzo](http://crdl.usg.edu/people/l/liuzzo_viola_1925_1965/?Welcome) who were both murdered by segregationists for their activism.[<sup>72</sup>](/exhibits/eotp/notes#72)
 
 <table class="exhibit-big-image">
-<caption align="bottom" class="exhibit-caption">Fig. 12. Orloff Miller during his interview for <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 11. Orloff Miller during his interview for <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" class="big-image" alt="Image of Orloff Miller during his interivew for Eyes on the Prize."/></a></td></tr>
 </table>
 
@@ -34,7 +34,7 @@ In his interview, [Orloff Miller](https://americanarchive.org/catalog/cpb-aacip_
 
 ### The Interviews
 
-Many of the subjects interviewed by the Blackside crew were peope of faith. However, the following list is limited to those who held official positions in religious organizations: 
+Many of the subjects interviewed by the Blackside crew were peope of faith. The following list, however, is limited to those who held official positions in religious organizations: 
 
 [Ralph Abernathy](https://americanarchive.org/catalog/cpb-aacip_151-cz3222s11s): Pastor of the First Baptist Church in Montgomery, Alabama, and founding member of the [Montgomery Improvement Association](http://www.montgomeryimprovementassociation.org/) and the [Southern Christian Leadership Conference (SCLC)](https://kinginstitute.stanford.edu/encyclopedia/southern-christian-leadership-conference-sclc)
 
