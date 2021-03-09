@@ -6,8 +6,6 @@
 
 ## Extended
 
-### WE DO NOT YET HAVE PERMISSION TO USE THE FRED SHUTTLESWORTH IMAGE AS THE COVER
-
 From the [Montgomery bus boycott](https://kinginstitute.stanford.edu/liberation-curriculum/create-your-own-classroom-activity/montgomery-bus-boycott) to the [Selma to Montgomery march](https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march), Black Christianity and the Black church helped mobilize and inspire activists. The movement also attracted people from outside the Black church whose activism was also driven by their faith.
 
 It is "impossible to conceive of the civil rights movement without placing Black Christianity at its center, for that is what empowered the rank and file who made the movement move," writes historian Paul Harvey.[<sup>69</sup>](/exhibits/eotp/notes#69) Harvey acknowledges the radical secular roots of the movement; however, he maintains that the Black church served both to organize the mass of participants and provide the ideological underpinnings of the struggle. 
@@ -23,7 +21,7 @@ Outside the Black church, other faith-based communities also contributed to the 
 Many of the predominantly white organizations that promoted religious pluralism in the 1940s failed to extend their advocacy efforts to African Americans. However, some did. Several Jewish organizations, for example, moved beyond the cause of fostering religious ecumenism to champion racial equality.[<sup>71</sup>](/exhibits/eotp/notes#71) Southern Universalists, Unitarians, and Unitarian Universalists also contributed meaningfully to the movement. Hundreds of Unitarian Universalists took part in the Selma to Montgomery march. Among them were Reverend [James Reeb](http://crdl.usg.edu/people/r/reeb_james_j_1927_1965/) and [Viola Luizzo](http://crdl.usg.edu/people/l/liuzzo_viola_1925_1965/?Welcome) who were both murdered by segregationists for their activism.[<sup>72</sup>](/exhibits/eotp/notes#72)
 
 <table class="exhibit-big-image">
-<caption align="bottom" class="exhibit-caption">Fig. 11. Orloff Miller during his interview for <em>Eyes on the Prize</em>.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 11. Orloff Miller during his interview for <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OrloffMiller.png" class="big-image" alt="Image of Orloff Miller during his interivew for Eyes on the Prize."/></a></td></tr>
 </table>
 
@@ -69,8 +67,8 @@ Many of the subjects interviewed by the Blackside crew were peope of faith. Howe
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt=" Image of Fred Shuttlesworth.
-" src="Put JPG link here"> HAVE NOT YET OBTAINED PERMISSION TO USE THIS IMAGE
+  <img title="Cover Image" alt="Fred Shuttlesworth at Bethel Baptist Church in Birmingham, Alabama. Image courtesy of Alabama Public Television.
+"src="https://s3.amazonaws.com/americanarchive.org/exhibits/shuttlesworthfeature.jpg">
 
 ## Gallery
 
