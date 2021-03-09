@@ -8,7 +8,7 @@
 
 <a name="2"></a><sup>2</sup>In *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*, executive producer of the series Henry Hampton suggests that he always intended to produce the second chapter of *Eyes on the Prize*: “Because of the difficulty of raising funds, we had to divide this project into two phases,” he writes (xii). In Chapter Four of the online exhibit on the making of the series, however, Rachel L. Martin suggests that the impetus for *Eyes II* came from the success of the series’ first installment. See Henry Hampton and Steve Fayer with Sarah Flynn, *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s* (New York: Bantam, 1990) and Rachel L. Martin, “Making *Eyes on the Prize*: In the Public Eye,” in *Making Eyes on the Prize: An Oral History*, accessed May 24, 2020, https://www.fordfoundation.org/ideas/ford-forum/making-eyes-on-the-prize-an-oral-history/making-eyes-on-the-prize-in-the-public-eye/.
 
-<a name ="3"></a><sup>3</sup>Clayborne Carson; quoted in Else, *True South: Henry Hampton and *Eyes on the Prize*, The Landmark Television Series that Reframed the Civil Rights Movement* (New York: Viking, 2017), 94.
+<a name ="3"></a><sup>3</sup>Clayborne Carson; quoted in Else, *True South: Henry Hampton and *Eyes on the Prize*, The Landmark Television Series That Reframed the Civil Rights Movement* (New York: Viking, 2017), 94.
 
 <a name ="4"></a><sup>4</sup>Jon Else discusses other filmmakers’ failure to produce a documentary history of the movement and Henry Hampton’s unique vision for the project in *True South*, 58-61.
 
@@ -68,11 +68,11 @@
 
 <a name="32"></a><sup>32</sup>Jon Else notes that "Henry and Steve [Fayer] established early on that they would construct each episode not around abstract themes, but around the emotional surge of one or two big campaigns…” He continues, “This was, after all, prime-time television. There would, for instance, be no filmed exegesis on all the philosophies, strategies, and tactics of nonviolence on the first Freedom Ride, but there would be a filmed *story* about the *practice* of nonviolence on the first Freedom Ride, in 1961.” Else, *True South*, 109. *Eyes I* is a history of the civil rights movement, but it is also a work of narrative documentary filmmaking. Although the series is richly detailed, when the details threatened narrative cohesion, the Blackside crew privileged storytelling over comprehensiveness.
 
-<a name="33"></a><sup>33</sup>Jacqueline Dowd Hall, “The Long Civil Rights Movement and the Political Uses of the Past,” *The Journal of American History* (March 2005): 1234.
+<a name="33"></a><sup>33</sup>Hall, “The Long Civil Rights Movement,” 1234.
 
 <a name="34"></a><sup>34</sup>Eric Arneson, “Reconsidering the Long Civil Rights Movement,” *Historically Speaking* 10, no. 2 (April 2009), 31. 
 
-<a name="35"></a><sup>35</sup>Some historians have pushed back against this argument. For a different perspective on civil rights periodization, see Sundiata Keita Cha-Jua and Clarence Lang, "The 'Long Movement' as Vampire: Temporal and Spatial Falacies in Recent Black Freedom Studies," *Journal of African American History* 92, no. 2 (2007): 265-88.. 
+<a name="35"></a><sup>35</sup>Some historians have pushed back against this argument. For a different perspective on civil rights periodization, see Sundiata Keita Cha-Jua and Clarence Lang, "The 'Long Movement' as Vampire: Temporal and Spatial Fallacies in Recent Black Freedom Studies," *Journal of African American History* 92, no. 2 (2007): 265-88, https://www.jstor.org/stable/20064183.
 
 <a name="36"></a><sup>36</sup>*Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*, comp. by Henry Hampton and Steve Fayer with Sarah Flynn (New York: Bantam Books, 1990).
 
@@ -80,7 +80,7 @@
 
 <a name="38"></a><sup>38</sup>Matthew D. Lassiter and Joseph Crespino, eds., *The Myth of Southern Exceptionalism* (Oxford: Oxofrd University Press, 2010), 14.
 
-<a name="39"></a><sup>39</sup>Clarence Lang, "Locating the Civil Rights Movement: An Essay on the Deep South, Midwest, and Border South in Black Freedom Studies." Journal of Social History 47, no. 2 (Winter 2013): 371-400.
+<a name="39"></a><sup>39</sup>Clarence Lang, "Locating the Civil Rights Movement: An Essay on the Deep South, Midwest, and Border South in Black Freedom Studies," Journal of Social History 47, no. 2 (Winter 2013): 371-400, https://www.jstor.org/stable/43305919.
 
 <a name="40"></a><sup>40</sup>Whereas *Eyes I* focuses on the [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights), *Eyes II* explores the continuation of the struggle in many of the nation’s cities, from Los Angeles to Boston. 
 
@@ -130,7 +130,7 @@
 
 <a name="63"></a><sup>63</sup>Douglas Martin, "Nicholas Katzenbach, 90, Dies; Policy Maker at '60s Turning Points," *New York Times*, May 9, 2012, https://www.nytimes.com/2012/05/10/us/nicholas-katzenbach-1960s-political-shaper-dies-at-90.html.
 
-<a name="64"></a><sup>64</sup>Derrick A. Bell, Jr., “Brown v. Board of Education and the Interest Convergence Dilemma,” *Harvard Law Review*  93, no. 3 (Jan. 1980): 518–33; Mary L. Dudziak, *Cold War Civil Rights: Race and the Image of American Democracy* (Princeton: Princeton University Press, 2011).
+<a name="64"></a><sup>64</sup>Derrick A. Bell, Jr., “Brown v. Board of Education and the Interest-Convergence Dilemma,” *Harvard Law Review*  93, no. 3 (Jan. 1980): 518–33, https://doi.org/10.2307/1340546; Mary L. Dudziak, *Cold War Civil Rights: Race and the Image of American Democracy* (Princeton: Princeton University Press, 2011).
 
 <a name="65"></a><sup>65</sup>Many scholars have explored the civil rights movement’s relationship to the media. See, for example, Sasha Torres, “In a Crisis We Must Have a Sense of Drama: Civil Rights and Televisual Form,” in *Black, White, and In-Color: Television and Black Civil Rights* (Princeton: Princeton University Press, 2003), 13-35.  For the authoritative work on the civil rights movement and the press, see Gene Roberts and Hank Klibanoff, *The Race Beat: The Press, the Race Beat, and the Awakening of a Nation* (New York: Vintage, 2006). 
 
