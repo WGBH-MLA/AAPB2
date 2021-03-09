@@ -368,7 +368,7 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt="Civil Rights School" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRightsSchool1_crop.jpg">
+  <img title="Cover Image" alt="Civil Rights School" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fig3a.jpg">
 
 ## Gallery
 
