@@ -17,7 +17,7 @@ Civil rights activists exploited media coverage of the strongarm strategies of s
 Not everyone in the movement supported the strategy of using media to win sympathy, however. For [Stokely Carmichael (Kwame Ture)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g), doing so "played into the hands of racism." This is because, according to Carmichael, white-dominated media outlets and the white public paid little attention to the murders of Black activists but responded with outrage when white activists were killed. In his interview, [Orloff Miller](https://americanarchive.org/catalog/cpb-aacip-151-qz22b8wb7q), a minister active in the Selma campaign, affirms Carmichael’s point. Discussing the death of [James Reeb](https://kinginstitute.stanford.edu/encyclopedia/reeb-james), a white Unitarian minister, Miller says: "It's a terrible thing to have to say, but for some reason, it took the death of a white clergyman to turn things around. […] Because when Jim Reeb was killed in Selma, Alabama, a white clergyman from the North, people suddenly sat up and took notice, and from then on, things changed in the movement."
 
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Fig. 9. <em>Right to Left</em>: Viola Liuzzo, Jimmie Lee Jackson, and James Reeb. In his interview, Stokely Carmichael (Kwame Ture) says the deaths of white activists like Liuzzo and Reeb garnered more national press attention than the murders of Black activists. (Image courtesy Floridaphoenix.com)</caption>
+  <caption align="bottom" class="exhibit-caption">Fig. 9. <span style="font-style: normal;">Right to Left</span>: Viola Liuzzo, Jimmie Lee Jackson, and James Reeb. In his interview, Stokely Carmichael (Kwame Ture) says the deaths of white activists like Liuzzo and Reeb garnered more national press attention than the murders of Black activists. (Image courtesy Floridaphoenix.com)</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" class="big-image" alt="Right to Left: Viola Liuzzo, Jimmie Lee Jackson, and James Reeb. Image courtesy Floridaphoenix.com."/></a></td></tr>
 </table>
 
@@ -30,7 +30,7 @@ However, it wasn’t just white owned-and-operated media outlets that covered th
 One reporter who put his life on the line to tell the civil rights story was [James Hicks](https://americanarchive.org/catalog/cpb-aacip_151-9w08w38t9n). Hicks served as the [Washington, DC](https://civilrightstrail.com/state/district-of-columbia/), Bureau Chief of the National Negro Press and is today regarded as one of the era's best investigative reporters.
 
 <table class="exhibit-big-image">
-<caption align="bottom" class="exhibit-caption">Fig. 10. James Hicks during his interview for <em>Eyes on the Prize</em>.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 10. James Hicks during his interview for <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/JamesHicks.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/JamesHicks.png" class="big-image" alt="Image of James Hicks during his interview for Eyes on the Prize."/></a></td></tr>
 </table>
 
