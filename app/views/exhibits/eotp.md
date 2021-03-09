@@ -33,7 +33,7 @@ After a brief introduction to the series in Part I, Part II focuses on the docum
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Fig. 1. Front page of a funding proposal, c. 1984, Box 3, Folder EOP I: Early Proposal, Henry Hampton Collection, Film and Media Archive, Washington University in St. Louis.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/EOTP_coverphoto.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/EOTP_coverphoto.jpg" alt="Front page of a funding proposal for Eyes on the Prize."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/EOTP_coverphoto.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/EOTP_coverphoto.jpg" class="big-image" alt="Front page of a funding proposal for Eyes on the Prize."/></a></td></tr>
 </table>
 
 The exhibit does not feature the interviews conducted for *Eyes II*, which the Film and Media Archive at Washington University in St. Louis is in the process of digitizing. You can access the transcripts of these interviews through Washington University's exhibit [*Eyes on the Prize* Interviews: The Complete Series](http://digital.wustl.edu/eyesontheprize/) (click on "Browse Interviews" on the left side of the screen and scroll down to "Series II.")
