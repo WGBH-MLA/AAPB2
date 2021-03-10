@@ -19,7 +19,7 @@ In the face of this resistance, on-the-ground activism was critical. For the so-
 The Arkansas National Guard prevented the students’ initial attempt to attend Little Rock Central High School. After the governor withdrew the National Guard, the students went to school for part of the day but left when the angry mob of white protesters outside the school threatened to break through policed barricades. "We stayed out a day and a half after that," Green recalls. "And then the morning after, Eisenhower sent a thousand paratroopers to Little Rock, and the next morning we went to school with the assistance of the 101st Airborne Division."  
 
 <table class="exhibit-big-image">
-<caption align="bottom" class="exhibit-caption">Fig. 16. Ernest Green during his interview for <span style="font-style: normal;">America, They Loved You Madly</span>, the precursor to <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 15. Ernest Green during his interview for <span style="font-style: normal;">America, They Loved You Madly</span>, the precursor to <span style="font-style: normal;">Eyes on the Prize</span>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/ErnestGreen.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ErnestGreen.png" class="big-image" alt="Image of Ernest Green during his interview for America, They Loved You Madly."/></a></td></tr>
 </table>
 
@@ -34,7 +34,7 @@ One of the social scientists whose work most influenced the NAACP’s case was [
 In his interview, Clark reflects on his work with his wife, [Mamie Clark](https://www.smithsonianmag.com/science-nature/psychologist-work-racial-identity-helped-overturn-school-segregation-180966934/), to demonstrate the harmfulness of segregation on Black youth. The so-called "doll test" was one of several methods the Clarks used. They presented Black children with two dolls, one white and one Black, and asked them which doll they liked better. Most of the children preferred the white doll. "We then asked as the final question, now show me the doll that's most like you." How the subjects responded deeply troubled Clark. "Many of the children were emotionally upset at having to identify with the doll that they had rejected," Clark says. "Some of them would walk out of the room or refuse to answer that question. And this, we interpreted, as indicating that color in a racist society was very disturbing and traumatic."
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 17. "Doll Test," Harlem, New York, 1947, by Gordon Parks. (Image courtesy the Gordon Parks Foundation)</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 16. "Doll Test," Harlem, New York, 1947, by Gordon Parks. (Image courtesy the Gordon Parks Foundation)</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" class="big-image" alt="Image of a young Black boy pointing to a white doll when being shown one white and one Black doll."/></a></td></tr>
 </table>
 
