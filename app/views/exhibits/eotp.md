@@ -31,7 +31,7 @@ After a brief introduction to the series in Part I, Part II focuses on the docum
 
 *Eyes on the Prize* (or "*Eyes I*") was the series' first installment; *Eyes on the Prize II: America at the Racial Crossroads, 1965–1985* (or "*Eyes II*") followed in 1990.[<sup>2</sup>](/exhibits/eotp/notes#2) *Eyes I* comprises six episodes charting the history of the [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights) from the Supreme Court's 1954 ruling in [Brown v. Board of Education](https://www.oyez.org/cases/1940-1955/347us483) to the passage of the [Civil Rights Act](https://www.ourdocuments.gov/doc.php?flash=false&doc=97) and [Voting Rights Act](https://www.ourdocuments.gov/doc.php?flash=false&doc=100) in 1964 and 1965, respectively. Not every interview the crew conducted was used in the series' first installment; however, they are all collected here.
 
-<table class="exhibit-image">
+<table class="exhibit-big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 1. Front page of a funding proposal, c. 1984, Box 3, Folder EOP I: Early Proposal, Henry Hampton Collection, Film and Media Archive, Washington University in St. Louis.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/EOTP_coverphoto.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/EOTP_coverphoto.jpg" class="big-image" alt="Front page of a funding proposal for Eyes on the Prize."/></a></td></tr>
 </table>
