@@ -72,7 +72,7 @@ Many of the subjects interviewed by the Blackside crew were peope of faith. The 
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt="Fred Shuttlesworth at Bethel Baptist Church in Birmingham, Alabama. Image courtesy of Alabama Public Television." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shuttlesworthfeature.jpg">
+  <img title="Cover Image" alt="Fred Shuttlesworth at Bethel Baptist Church in Birmingham, Alabama. Image courtesy of Alabama Public Television." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shuttlesworth_squarecover.jpg">
 
 ## Gallery
 
