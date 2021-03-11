@@ -120,7 +120,7 @@ Two interviews do not appear in *Eyes I* and do not fit neatly into the categori
 
 ### Acknowledgments
 
-The author would like to thank Alan Gevinson, Casey Davis Kaufman, Kenneth Campbell, Ryn Marchese, Alexis Templeton, Stephanie Briggs, Paula Albers, Tuma Usirri, Doug Knox, Joe Lowenstein, Brian Woodman, and Irene Taylor. Thanks also to the anonymous reviewers whose feedback helped improve the exhibit. This project was made possible by the Humanities Digital Workshop at Washington University in St. Louis, the Film and Media Archive at Washington University in St. Louis, and the American Archive of Public Broadcasting. 
+The author would like to thank Alan Gevinson, Casey Davis Kaufman, Kenneth Campbell, Ryn Marchese, Miranda Villesvik, Henry Neels, Alexis Templeton, Stephanie Briggs, Paula Albers, Tuma Usirri, Doug Knox, Joe Lowenstein, Brian Woodman, and Irene Taylor. Thanks also to the anonymous reviewers whose feedback helped improve the exhibit. This project was made possible by the Humanities Digital Workshop at Washington University in St. Louis, the Film and Media Archive at Washington University in St. Louis, and the American Archive of Public Broadcasting. 
 
 ### Bio
 
