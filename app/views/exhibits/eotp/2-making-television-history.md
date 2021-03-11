@@ -32,6 +32,11 @@ Of the 127 interviews included in this exhibit, about 36 were filmed for *Eyes*�
 
 In 1978, in the wake of the critical and commercial success of the television adaptation of Alex Haley’s *Roots: The Saga of an American Family,* Hampton was approached by Capital Cities Communications, a media production company working with ABC. The popularity of *Roots* in the United States and abroad had convinced the network that there was a market for Black history on television.[<sup>16</sup>](/exhibits/eotp/notes#16)
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 1. Poster for <span style="font-style: normal;">America, They Loved You Madly</span>, n.d., courtesy Washington University in St. Louis Film and Media Archive.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/ATLYM_Poster.tif" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ATLYM_Poster.tif" class="big-image" alt="Poster for America, They Loved You Madly, n.d., courtesy Washington University in St. Louis Film and Media Archive."/></a></td></tr>
+</table>
+
 But *America, They Loved You Madly* never made it to air. After the Capital Cities executives saw the rough cut, they severed ties with Hampton. Else describes the screening as "by every account a disaster, a rambling patchwork of clips, amateurish dramatizations, stand-ups, interviews, title cards, and blank spots."[<sup>17</sup>](/exhibits/eotp/notes#17) Not only was the film not commercially viable, but it failed to live up to Hampton’s ambition. 
 
 The defeat was gutting for Hampton. Yet as Else notes, "If Henry had dragged *America, They Loved You Madly* over the finish line, a piece of well-meaning junk consigned to the 2 a.m. broadcast slot it surely deserved, he might well have spent the rest of his career as just another embittered B-list corporate/industrial filmmaker."[<sup>18</sup>](/exhibits/eotp/notes#18) For Else, the lessons Hampton learned from the disappointment of his first attempt to tell the civil rights story for television were critical for the success of *Eyes on the Prize*. 
