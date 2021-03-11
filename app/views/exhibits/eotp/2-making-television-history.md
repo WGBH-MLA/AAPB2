@@ -91,6 +91,11 @@ During production, Hampton assembled three teams of interviewers, identified by 
 
 Each team produced and directed two episodes of the series. This section of Freedom Song identifies which production units were responsible for which episodes. It also includes biographical details about Hampton, the members of each team, and other production personnel.
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Fig. 4. Prudence Arndt, Orlando Bagwell, and Bobby Shepard during the filming of <span style="font-style: normal;">Eyes on the Prize</span>, 1985, courtesy Washington University in St. Louis Film and Media Archive.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/PrudenceArndtOrlandoBagwell.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/PrudenceArndtOrlandoBagwell.png" class="big-image" alt="Prudence Arndt, Orlando Bagwell, and Bobby Shepard during the filming of Eyes on the Prize, 1985, courtesy Washington University in St. Louis Film and Media Archive."/></a></td></tr>
+</table>
+
 ***
 
 **Team A: Judith Vecchione and Llewellyn Smith:** Vecchione and Smith worked on episodes one and two, "Awakenings: 1954–1956" and "Fighting Back: 1957–1962," both produced and directed by Vecchione.  
