@@ -1,4 +1,4 @@
-# Part V: A People’s History: Interview Subjects
+# A People’s History: Interview Subjects
 
 6
 
@@ -22,25 +22,25 @@ Second, it highlights the activism of those whose contributions to the movement 
 
 Finally, this part of Freedom Song seeks to add texture and depth to the history of the movement *Eyes I* tells. Although *Eyes on the Prize* still anchors this part of the exhibit, Freedom Song covers some subjects that are not included in *Eyes I*, but are discussed in interviews. Having access to the unedited interviews allows us to explore aspects of civil rights history that the filmmakers—constrained by time limitations, funding shortfalls, and the demands of documentary television—chose not to address.
 
-### Using Part V: Key Figures and Interview Subjects
+### Using the "Key Figures and Interview Subjects" Sections
 
 This part of the exhibit is broken up into eight sub-categories: 
 
--	[Section i: Local People](/exhibits/eotp/5-1-local-people)
--	[Section ii: Women of the Southern Civil Rights Era](/exhibits/eotp/5-2-women)
--	[Section iii: Organizational Activists](/exhibits/eotp/5-3-organizational-activists)
--	[Section iv: Politicians, Law Enforcement, and State and Federal Officials](/exhibits/eotp/5-4-officials)
--	[Section v: Media and the Press](/exhibits/eotp/5-5-media)
--	[Section vi: Church and Religious Leaders](/exhibits/eotp/5-6-religious-leaders)
--	[Section vii: Economic and Labor Activists and the Business Community](/exhibits/eotp/5-7-labor-business)
--	[Section viii: Students and Educators, Litigators and De-Segregators](/exhibits/eotp/5-8-students-educators)
+-	[Local People](/exhibits/eotp/5-1-local-people)
+-	[Women of the Southern Civil Rights Era](/exhibits/eotp/5-2-women)
+-	[Organizational Activists](/exhibits/eotp/5-3-organizational-activists)
+-	[Politicians, Law Enforcement, and State and Federal Officials](/exhibits/eotp/5-4-officials)
+-	[Media and the Press](/exhibits/eotp/5-5-media)
+-	[Church and Religious Leaders](/exhibits/eotp/5-6-religious-leaders)
+-	[Economic and Labor Activists and the Business Community](/exhibits/eotp/5-7-labor-business)
+-	[Students and Educators, Litigators and De-Segregators](/exhibits/eotp/5-8-students-educators)
 
-Each section begins with a brief essay to provide context for the interviews. The interviews that follow are in alphabetical order, and each entry includes information on who the interview subject was during the period covered in Eyes I. This information is specific to each section. For example, in [Section iii, Organizational Activists](/exhibits/eotp/5-3-organizational-activists), the biographical details on [Robert Williams](https://americanarchive.org/catalog/cpb-aacip_151-5t3fx74m3w#at_524_s) pertain to his position in the [National Association for the Advancement of Colored People](https://www.naacp.org/nations-premier-civil-rights-organization/).[<sup>45</sup>](/exhibits/eotp/notes#45) His entry in [Section v: Media and the Press](/exhibits/eotp/5-5-media), details his work as an activist writer and broadcaster. 
+Each section begins with a brief essay to provide context for the interviews. The interviews that follow are in alphabetical order, and each entry includes information on who the interview subject was during the period covered in Eyes I. This information is specific to each section. For example, in [Organizational Activists](/exhibits/eotp/5-3-organizational-activists), the biographical details on [Robert Williams](https://americanarchive.org/catalog/cpb-aacip_151-5t3fx74m3w#at_524_s) pertain to his position in the [National Association for the Advancement of Colored People](https://www.naacp.org/nations-premier-civil-rights-organization/).[<sup>45</sup>](/exhibits/eotp/notes#45) His entry in [Media and the Press](/exhibits/eotp/5-5-media), details his work as an activist writer and broadcaster. 
 
 To access the interviews, simply click on a subject’s name.
 
 
-#### Next: [Part V.i.: Interview Subjects: Local People](/exhibits/eotp/5-1-local-people)
+#### Next: [Local People](/exhibits/eotp/5-1-local-people)
 
 ## Resources
 
