@@ -1,4 +1,4 @@
-# Part V.v.: Interview Subjects: Media and the Press
+# Media and the Press
 
 11
 
@@ -69,7 +69,7 @@ The [Blackside](/2-making-television-history#Blackside) film crew interviewed th
 [Robert Williams](https://americanarchive.org/catalog/cpb-aacip_151-5t3fx74m3w): Hosted a radio program, "Radio Free Dixie," in Cuba from 1961 to 1965, published the newsletter *The Crusader* beginning in 1962, and wrote the book *Negroes with Guns*, published in 1965
 
 
-#### Next: [Part V.vi.: Interview Subjects: Church and Religious Leaders](/exhibits/eotp/5-6-religious-leaders)
+#### Next: [Church and Religious Leaders](/exhibits/eotp/5-6-religious-leaders)
 
 ## Resources
 
