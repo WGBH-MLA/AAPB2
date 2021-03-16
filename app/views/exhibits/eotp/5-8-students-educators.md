@@ -1,4 +1,4 @@
-# Part V.viii.: Interview Subjects: Students and Educators, Litigators and De-Segregators
+# Students and Educators, Litigators and De-Segregators
 
 13
 
@@ -114,7 +114,7 @@ This section also includes lawyers and educators who were not involved in school
 
 ### Interviews Not Listed
 
-Two interviews do not appear in *Eyes I* and do not fit neatly into the categories in Part V: A People’s History: Interview Subjects. [Tom Hayden](https://americanarchive.org/catalog/cpb-aacip_151-fn10p0xm13) founded Students for a Democratic Society. Hayden participated in the Freedom Ride from [Atlanta](https://civilrightstrail.com/destination/atlanta/) to [Albany, Georgia](https://civilrightstrail.com/destination/albany/), on December 10, 1961. 
+Two interviews do not appear in *Eyes I* and do not fit neatly into the categories in A People’s History: Interview Subjects. [Tom Hayden](https://americanarchive.org/catalog/cpb-aacip_151-fn10p0xm13) founded Students for a Democratic Society. Hayden participated in the Freedom Ride from [Atlanta](https://civilrightstrail.com/destination/atlanta/) to [Albany, Georgia](https://civilrightstrail.com/destination/albany/), on December 10, 1961. 
 
 [William Dinkins](https://americanarchive.org/catalog/cpb-aacip_151-jh3cz3304t) was one of two African American doctors at the Good Samaritan Hospital in [Selma, Alabama](https://civilrightstrail.com/destination/selma/) in 1965. He attended to [Jimmie Lee Jackson](https://kinginstitute.stanford.edu/encyclopedia/jackson-jimmie-lee) after an Alabama state trooper fatally shot him during a protest.
 
