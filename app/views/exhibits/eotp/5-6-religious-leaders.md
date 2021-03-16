@@ -1,4 +1,4 @@
-# Part V.vi.: Interview Subjects: Church and Religious Leaders
+# Church and Religious Leaders
 
 11
 
@@ -17,7 +17,7 @@ Reflecting on the success of the Montgomery bus boycott's effectiveness, [Fred S
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shuttlesworthfeature.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shuttlesworthfeature.jpg" class="big-image" alt="Rev. Fred Shuttlesworth preaching at Bethel Baptist Church in Birmingham, Alabama. Image courtesy of Alabama Department of Archives and History. Donated by Alabama Media Group. Photo by Gunter, Birmingham News."/></a></td></tr>
 </table>
 
-Black Christianity dovetailed with the ethos of nonviolence. The activists who embraced nonviolence as a principle maintained that by appealing to their adversaries' souls, they could persuade them of the righteousness of their cause. Moral persuasion was an essential objective of the nonviolent protest advocated by [Mohandas Gandhi](https://kinginstitute.stanford.edu/encyclopedia/gandhi-mohandas-k), who developed the method while fighting colonialism and inequality in India. This was one reason media coverage of the movement was so critical. Coast-to-coast media coverage was one means by which activists sought to awaken Americans to the immorality of segregation. [Section V.iii.: Organizational Activists](/exhibits/eotp/5-3-organizational-activists) discusses nonviolence in more detail.
+Black Christianity dovetailed with the ethos of nonviolence. The activists who embraced nonviolence as a principle maintained that by appealing to their adversaries' souls, they could persuade them of the righteousness of their cause. Moral persuasion was an essential objective of the nonviolent protest advocated by [Mohandas Gandhi](https://kinginstitute.stanford.edu/encyclopedia/gandhi-mohandas-k), who developed the method while fighting colonialism and inequality in India. This was one reason media coverage of the movement was so critical. Coast-to-coast media coverage was one means by which activists sought to awaken Americans to the immorality of segregation. [Organizational Activists](/exhibits/eotp/5-3-organizational-activists) discusses nonviolence in more detail.
 
 ### Religious Pluralism and Civil Rights
 
@@ -60,7 +60,7 @@ Many of the subjects interviewed by the Blackside crew were peope of faith. The 
 
 [Andrew Young](https://americanarchive.org/catalog/cpb-aacip_151-db7vm43n05): Pastor active in the Department of Youth Work at the National Council of Churches before becoming a leader within the SCLC
 
-#### Next: [Part V.vii.: Interview Subjects: Economic and Labor Activists and the Business Community](/exhibits/eotp/5-7-labor-business)
+#### Next: [Economic and Labor Activists and the Business Community](/exhibits/eotp/5-7-labor-business)
 
 ## Resources
 
