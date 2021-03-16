@@ -1,4 +1,4 @@
-# Part III: Chronologizing the Past: A Timeline of Events
+# Chronologizing the Past: A Timeline of Events
 
 4
 
@@ -40,7 +40,7 @@ To use the timeline, click on an event. When you do, a new page will open. Click
 
 
 
-#### Next: [Part IV: Locating the Civil Rights Past: An Interactive Map](/exhibits/eotp/4-locating-the-movement/)
+#### Next: [Locating the Civil Rights Past: An Interactive Map](/exhibits/eotp/4-locating-the-movement/)
 
 ## Resources
 
