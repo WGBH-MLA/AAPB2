@@ -1,4 +1,4 @@
-# Part V.vii.: Interview Subjects: Economic and Labor Activists and the Business Community
+# Economic and Labor Activists and the Business Community
 
 12
 
@@ -102,7 +102,7 @@ This section identifies interview subjects who were boycotters, labor activists,
 
 [David J. Vann](https://americanarchive.org/catalog/cpb-aacip_151-6t0gt5g44p): One of several white business leaders in Birmingham supportive of integration and critical of Commissioner [Eugene "Bull" Connor](https://kinginstitute.stanford.edu/encyclopedia/connor-theophilus-eugene-bull) 
 
-#### Next: [Part V.viii.: Interview Subjects: Students and Educators, Litigators and De-Segregators](/exhibits/eotp/5-8-students-educators)
+#### Next: [Students and Educators, Litigators and De-Segregators](/exhibits/eotp/5-8-students-educators)
 
 ## Resources
 
