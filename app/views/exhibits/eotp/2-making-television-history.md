@@ -1,4 +1,4 @@
-# Part II: *Eyes on the Prize*: Making Television History
+# *Eyes on the Prize*: Making Television History
 
 3
 
@@ -8,7 +8,7 @@
 
 ## Extended
 
-### Section i: The Making of *Eyes on the Prize*
+### The Making of *Eyes on the Prize*
 
 #### Framing History
 
@@ -144,11 +144,11 @@ Reflecting on the initial reception of *Eyes on the Prize: America’s Civil Rig
 
 *Eyes on the Prize* profoundly shaped Americans’ understanding of the civil rights past. Kenneth Rabin has said that it taught white America much of what it knows about the movement. "Even if it was 30 years ago now," Rabin stated, "I don’t think anyone who ever saw *Eyes* won’t know who [John Lewis](https://americanarchive.org/catalog/cpb-aacip_151-8k74t6fv60) is."[<sup>28</sup>](/exhibits/eotp/notes#28) *Eyes on the Prize* did more than document the past; it changed the public conversation about the legacy and meaning of the civil rights movement of the 1950s and '60s and, in the process, made television history.
 
-### Section ii: Interviews by Episodes
+### Interviews by Episodes
 
 #### Using this Section
 
-This section lists the interviews that appear in each episode of *Eyes I* by subjects' last names. To learn more about the people [Henry Hampton](/exhibits/eotp/2-making-television-history#HenryHampton) and his crew interviewed, go to [Part V of the exhibit: A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/). All six episodes of *Eyes I* are available to view for free online at Facing History and Ourselves: https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement.
+This section lists the interviews that appear in each episode of *Eyes I* by subjects' last names. To learn more about the people [Henry Hampton](/exhibits/eotp/2-making-television-history#HenryHampton) and his crew interviewed, go to [A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/). All six episodes of *Eyes I* are available to view for free online at Facing History and Ourselves: https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement.
 
 ##### Episode One: Awakenings: 1954–1956
 
@@ -366,7 +366,7 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
 [Andrew Young](https://americanarchive.org/catalog/cpb-aacip_151-db7vm43n05)</br>
 
 
-#### Next: [Part III: Chronologizing the Past: A Timeline of Events](/exhibits/eotp/3-timeline-of-events/)
+#### Next: [Chronologizing the Past: A Timeline of Events](/exhibits/eotp/3-timeline-of-events/)
 
 ## Resources
 

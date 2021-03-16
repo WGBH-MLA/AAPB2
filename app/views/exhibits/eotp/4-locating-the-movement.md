@@ -1,4 +1,4 @@
-# Part IV: Locating the Civil Rights Past: An Interactive Map
+# Locating the Civil Rights Past: An Interactive Map
 
 5
 
@@ -9,7 +9,7 @@
 
 ## Extended
 
-As discussed in [Part III](/exhibits/eotp/3-timeline-of-events), historians debate the timeframe of the civil rights movement and its relationship to other Black freedom struggles. Similarly, they also have raised questions about the role of place in the movement. Some have criticized mainstream histories for positing a binary of "an exceptional, reactionary South" and a "normative, progressive North." This binary obscures both systemic racism throughout the United States and the activism of African Americans outside the South against it.[<sup>38</sup>](/exhibits/eotp/notes#38) The South/North dichotomy is reinforced by the hard and fast distinction these histories draw between the civil rights movement—identified with the American South of the 1950s and early 1960s—and the Black Power movement—identified with the North of the late 1960s and ’70s.
+As discussed in [Chronologizing the Past: A Timeline of Events](/exhibits/eotp/3-timeline-of-events), historians debate the timeframe of the civil rights movement and its relationship to other Black freedom struggles. Similarly, they also have raised questions about the role of place in the movement. Some have criticized mainstream histories for positing a binary of "an exceptional, reactionary South" and a "normative, progressive North." This binary obscures both systemic racism throughout the United States and the activism of African Americans outside the South against it.[<sup>38</sup>](/exhibits/eotp/notes#38) The South/North dichotomy is reinforced by the hard and fast distinction these histories draw between the civil rights movement—identified with the American South of the 1950s and early 1960s—and the Black Power movement—identified with the North of the late 1960s and ’70s.
  
 The South/North binary is overly simplistic; however, racial dynamics in the South of the 1950s and ’60s were distinctly different from those of northern and coastal cities during the same era. As Clarence Lang argues, it is possible to preserve the specificity of place without reaffirming the reductive South/North dichotomy.[<sup>39</sup>](/exhibits/eotp/notes#39)
 
@@ -30,7 +30,7 @@ To learn more about a place, click on it; a new page will open that lists the in
 <iframe frameborder="0" allowfullscreen src="https://www.historypin.org/en/locations-from-eyes-on-the-prize/geo/37.09024,-95.712891,4/bounds/7.972198,-116.157761,58.217025,-75.268021/paging/1"></iframe> 
 
 
-#### Next: [Part V: A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/)
+#### Next: [A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/)
 
 ## Resources
 

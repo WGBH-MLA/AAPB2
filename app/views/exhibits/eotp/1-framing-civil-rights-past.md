@@ -1,4 +1,4 @@
-# Part I: *Eyes on the Prize*: Framing the Civil Rights Past
+# *Eyes on the Prize*: Framing the Civil Rights Past
 
 2
 
@@ -18,7 +18,7 @@ The 127 interviews feature in-depth discussions of the civil rights movement by 
 
 In telling the story of the movement, the filmmakers’ goal wasn’t to unearth new information; instead, they aimed to adapt the history of the civil rights movement that scholars had documented for television. But in the process, the crew interviewed movement participants who had never shared their stories before. As a result, *Eyes I* is both a retelling of the movement’s past as historians understood it in the 1980s and an original contribution to civil rights historiography.
 
-To learn more about the people Hampton and his crew interviewed, visit [Part V: A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/).
+To learn more about the people Hampton and his crew interviewed, visit [A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/).
 
 ### From Celluloid to Digital
 
@@ -34,13 +34,13 @@ Freedom Song is a resource for teachers, students, activists, and scholars. The 
 
 The interviews are organized in four ways:
 
-1)	[By episode](/exhibits/eotp/2-making-television-history/): Part II of the exhibit, *Eyes on the Prize*: Making Television History, organizes the interviews in alphabetical order by subjects' last names. 
+1)	[By episode](/exhibits/eotp/2-making-television-history/): *Eyes on the Prize*: Making Television History, organizes the interviews in alphabetical order by subjects' last names. 
 
-2)	[By historical event](/exhibits/eotp/3-timeline-of-events/): In Part III of the exhibit, Chronologizing the Past: A Timeline of Events, users can discover which interviews address specific events in civil rights history.
+2)	[By historical event](/exhibits/eotp/3-timeline-of-events/): In Chronologizing the Past: A Timeline of Events, users can discover which interviews address specific events in civil rights history.
 
-3)	[By place](/exhibits/eotp/4-locating-the-movement/): Part IV of the exhibit, Locating the Civil Rights Movement, features an interactive map of locations the interviewees discuss.
+3)	[By place](/exhibits/eotp/4-locating-the-movement/): Locating the Civil Rights Movement features an interactive map of locations the interviewees discuss.
 
-4)	[By the interviewees themselves](/exhibits/eotp/5-interview-subjects/): Part V of this exhibit, A People’s History: Interview Subjects, organizes the interviews into categories reflecting the roles interview subjects played during the southern civil rights era. 
+4)	[By the interviewees themselves](/exhibits/eotp/5-interview-subjects/): A People’s History: Interview Subjects, organizes the interviews into categories reflecting the roles interview subjects played during the southern civil rights era. 
 
 The interviews featured here speak to the complex history of the struggle for Black freedom and rights in the 1950s and ’60s, often touching on subjects that aren’t addressed in *Eyes I*. For this reason, although the exhibit takes *Eyes on the Prize* as its starting point, it isn’t directed exclusively at researchers interested in Hampton’s series. It’s a resource for anyone who wants to learn more about the civil rights past.
 
@@ -53,7 +53,7 @@ When *Eyes on the Prize: America’s Civil Rights Years* premiered, pundits and 
 The same is true of the interviews themselves. Although they were filmed over thirty years ago, they speak to the problems and possibilities of the present. Racism continues today and activists’ commitment to combatting it remains as strong today as it was in the 1950s and ’60s. The interviews in Freedom Song do not provide a blueprint for how to move forward in the struggle; a new generation of activists is charting that course. But the interviews do provide lessons. Like Hampton’s series, they offer insight not only into how the Black freedom struggle transformed society in the past but also how it might do so again today.
 
 
-#### Next: [Part II: Eyes on the Prize: Making Television History](/exhibits/eotp/2-making-television-history/)
+#### Next: [Eyes on the Prize: Making Television History](/exhibits/eotp/2-making-television-history/)
 
 ## Resources
 
