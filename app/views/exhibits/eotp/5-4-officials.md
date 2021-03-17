@@ -1,4 +1,4 @@
-# Part V.iv.: Interview Subjects: Politicans, Law Enforcement, and State and Federal Officials
+# Politicans, Law Enforcement, and State and Federal Officials
 
 10
 
@@ -98,7 +98,7 @@ Like other sections of Freedom Song, the following list identifies interviewees 
 [Ralph W. Yarborough](https://americanarchive.org/catalog/cpb-aacip_151-j38kd1rd2f): United States Senator from Texas
 
 
-#### Next: [Part V.v.: Interview Subjects: Media and the Press](/exhibits/eotp/5-5-media)
+#### Next: [Media and the Press](/exhibits/eotp/5-5-media)
 
 ## Resources
 

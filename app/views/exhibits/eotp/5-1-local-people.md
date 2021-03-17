@@ -1,4 +1,4 @@
-# Part V.i.: Interview Subjects: Local People
+# Local People
 
 7
 
@@ -77,7 +77,7 @@ The following is a list of some of the little-known "local people" Hampton and h
 [Sheyann Webb](https://americanarchive.org/catalog/cpb-aacip_151-9k45q4sc6g): Child during the civil rights campaign in Selma, Alabama; took part in the march from Selma to Montgomery 
 
 
-#### Next: [Part V.ii.: Interview Subjects: Women of the Southern Civil Rights Era](/exhibits/eotp/5-2-women)
+#### Next: [Women of the Southern Civil Rights Era](/exhibits/eotp/5-2-women)
 
 ## Resources
 

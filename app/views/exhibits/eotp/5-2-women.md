@@ -1,4 +1,4 @@
-# Part V.ii.: Interview Subjects: Women of the Southern Civil Rights Era
+# Women of the Southern Civil Rights Era
 
 8
 
@@ -15,7 +15,7 @@ Hampton's filmmakers also interviewed subjects who were young girls during the h
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Webb_WestNelson.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Webb_WestNelson.jpg" class="big-image" alt="Image of side-by-side interviews, Sheyann Webb on the left, and Rachel West Nelson on the right, both facing towards the camera during separate interviews."/></a></td></tr>
 </table>
 
-Women played key roles in the production of *Eyes on the Prize.* As noted in [Part II](/exhibits/eotp/2-making-television-history) of this exhibit, Hampton valued both racial and gender parity in his production teams; each of the three teams responsible for the series' first six episodes included one man and one woman, one white, and one Black. Women who were not part of these production teams were involved in making *Eyes on the Prize* as well. Hampton recruited former [Student Nonviolent Coordinating Committee (SNCC)](https://snccdigital.org/inside-sncc/the-story-of-sncc/) activist [Judy Richardson](/2-making-television-history#JudyRichardson) to work on his earlier project, *[America, They Loved You Madly](/2-making-television-history#Madly)*, and she continued to work with Hampton on *Eyes on the Prize*. Her ties to the movement helped legitimize Hampton's civil rights film project and persuade other activists to participate. 
+Women played key roles in the production of *Eyes on the Prize.* As noted in [*Eyes on the Prize*: Making Television History](/exhibits/eotp/2-making-television-history) of this exhibit, Hampton valued both racial and gender parity in his production teams; each of the three teams responsible for the series' first six episodes included one man and one woman, one white, and one Black. Women who were not part of these production teams were involved in making *Eyes on the Prize* as well. Hampton recruited former [Student Nonviolent Coordinating Committee (SNCC)](https://snccdigital.org/inside-sncc/the-story-of-sncc/) activist [Judy Richardson](/2-making-television-history#JudyRichardson) to work on his earlier project, *[America, They Loved You Madly](/2-making-television-history#Madly)*, and she continued to work with Hampton on *Eyes on the Prize*. Her ties to the movement helped legitimize Hampton's civil rights film project and persuade other activists to participate. 
 
 One of Richardson's first interviews was with [Jo Ann Robinson](https://americanarchive.org/catalog/cpb-aacip_151-wh2d796b02). Robinson was head of the [Women's Political Council (WPC)](https://www.blackpast.org/african-american-history/women-s-political-council-montgomery/), the grassroots organization that initiated the Montgomery bus boycott. In her interview, Robinson discusses the WPC and women's role in the civil rights struggle.
 
@@ -101,7 +101,7 @@ The following list identifies the women Blackside filmmakers interviewed during 
 [Sheyann Webb](https://americanarchive.org/catalog/cpb-aacip_151-9k45q4sc6g): A child during the civil rights campaign in Selma, Alabama; took part in the Selma to Montgomery march
 
 
-#### Next: [Part V.iii.: Interview Subjects: Organizational Activists](/exhibits/eotp/5-3-organizational-activists)
+#### Next: [Organizational Activists](/exhibits/eotp/5-3-organizational-activists)
 
 ## Resources
 
