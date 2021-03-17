@@ -565,8 +565,8 @@ div.tl-timegroup div.tl-timegroup-message, div.tl-timemarker-content-container d
 ================================================== */
 @font-face {
   font-family: 'tl-icons';
-  src: url(icons/tl-icons.eot);
-  src: url(icons/tl-icons.eot?#iefix) format('embedded-opentype'), url(icons/tl-icons.ttf) format('truetype'), url(icons/tl-icons.woff2) format('woff2'), url(icons/tl-icons.woff) format('woff'), url(icons/tl-icons.svg#tl-icons) format('svg');
+  src: url(./icons/tl-icons.eot);
+  src: url(./icons/tl-icons.eot?#iefix) format('embedded-opentype'), url(./icons/tl-icons.ttf) format('truetype'), url(./icons/tl-icons.woff2) format('woff2'), url(./icons/tl-icons.woff) format('woff'), url(./icons/tl-icons.svg#tl-icons) format('svg');
   font-weight: normal;
   font-style: normal;
 }
