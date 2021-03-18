@@ -4,8 +4,7 @@
 
 ## Summary
 
-> **"The movement in the South represented the first great student action in decades and the first assault on the pillars of segregation in a hundred years by mass action. And it was very stirring, and it mobilized a lot of conscience in the North.
-"** - *Tom Hayden*[<sup>37</sup>](/exhibits/eotp/notes#37)
+> **The movement in the South represented the first great student action in decades and the first assault on the pillars of segregation in a hundred years by mass action. And it was very stirring, and it mobilized a lot of conscience in the North.** - *Tom Hayden*[<sup>37</sup>](/exhibits/eotp/notes#37)
 
 ## Extended
 
@@ -38,6 +37,7 @@ To learn more about a place, click on it; a new page will open that lists the in
 - [*Eyes on the Prize* Interviews, Washington University Libraries](http://digital.wustl.edu/eyesontheprize/)
 - [Making *Eyes on the Prize*: An Oral History, Ford Foundation](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/)
 - [*Eyes on the Prize* Study Guide, Facing History and Ourselves](https://www.facinghistory.org/books-borrowing/eyes-prize-americas-civil-rights-movement)
+- [Civil Rights Trail](https://civilrightstrail.com/)
 
 ## Main
 
