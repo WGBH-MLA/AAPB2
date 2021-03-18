@@ -4,7 +4,7 @@
 
 ## Summary
 
-> **" We were all in consensus with Henry’s obsession to "honor the foot soldiers, the fan ladies, and the ordinary world parishioners," doggedly organizing, marching, demonstrating for months and years."** - *Jon Else*[<sup>42</sup>](/exhibits/eotp/notes#42)
+> **We were all in consensus with Henry’s obsession to "honor the foot soldiers, the fan ladies, and the ordinary world parishioners," doggedly organizing, marching, demonstrating for months and years.** - *Jon Else*[<sup>42</sup>](/exhibits/eotp/notes#42)
 
 ## Extended
 
@@ -48,6 +48,8 @@ To access the interviews, simply click on a subject’s name.
 - [*Eyes on the Prize* Interviews, Washington University Libraries](http://digital.wustl.edu/eyesontheprize/)
 - [Making *Eyes on the Prize*: An Oral History, Ford Foundation](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/)
 - [*Eyes on the Prize* Study Guide, Facing History and Ourselves](https://www.facinghistory.org/books-borrowing/eyes-prize-americas-civil-rights-movement)
+- [Civil Rights Trail](https://civilrightstrail.com/)
+
 
 ## Main
 
