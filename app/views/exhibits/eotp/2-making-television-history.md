@@ -4,7 +4,7 @@
 
 ## Summary
 
-> **"But now, after the work we have done accumulating materials to support *Eyes on the Prize*, I still return to that moment on the bridge in [Selma](https://civilrightstrail.com/destination/selma/). As I was standing next to a black Alabama sharecropper and the wife of Senator Paul Douglas, I felt the deep stirring of what it meant to be caught in a great moment in American history and to feel the nation change around me. This series must be done."** - *Henry Hampton*[<sup>11</sup>](/exhibits/eotp/notes#11)
+> **But now, after the work we have done accumulating materials to support *Eyes on the Prize*, I still return to that moment on the bridge in [Selma](https://civilrightstrail.com/destination/selma/). As I was standing next to a black Alabama sharecropper and the wife of Senator Paul Douglas, I felt the deep stirring of what it meant to be caught in a great moment in American history and to feel the nation change around me. This series must be done.** - *Henry Hampton*[<sup>11</sup>](/exhibits/eotp/notes#11)
 
 ## Extended
 
@@ -329,6 +329,8 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
 
 [James Bevel](https://americanarchive.org/catalog/cpb-aacip_151-gt5fb4x427)</br>
 
+[Stokely Carmichael (Kwame Ture)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g)</br>
+
 [James Clark](https://americanarchive.org/catalog/cpb-aacip_151-q814m92882)</br>
 
 [James Forman](https://americanarchive.org/catalog/cpb-aacip_151-r20rr1qh04)</br>
@@ -348,8 +350,6 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
 [Frederick Reese](https://americanarchive.org/catalog/cpb-aacip_151-8s4jm2454k)</br>
 
 [Joseph Smitherman](https://americanarchive.org/catalog/cpb-aacip_151-m03xs5k88f)</br>
-
-[Stokely Carmichael (Kwame Ture)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g)</br>
 
 [Albert Turner](https://americanarchive.org/catalog/cpb-aacip_151-bk16m33w6x)</br>
 
@@ -374,6 +374,8 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
 - [*Eyes on the Prize* Interviews, Washington University Libraries](http://digital.wustl.edu/eyesontheprize/)
 - [Making *Eyes on the Prize*: An Oral History, Ford Foundation](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/)
 - [*Eyes on the Prize* Study Guide, Facing History and Ourselves](https://www.facinghistory.org/books-borrowing/eyes-prize-americas-civil-rights-movement)
+- [Civil Rights Trail](https://civilrightstrail.com/)
+
 
 ## Main
 
