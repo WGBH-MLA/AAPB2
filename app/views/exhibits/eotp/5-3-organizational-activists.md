@@ -113,6 +113,8 @@ The following lists identify interview subjects with the groups in which they we
 
 [Amelia Boynton Robinson](https://americanarchive.org/catalog/cpb-aacip_151-183416tn2h): SNCC supporter
 
+[Stokely Carmichael (Kwame Ture)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g): SNCC field organizer; participated in the Freedom Ride from Jackson, Mississippi, to New Orleans, Louisiana, on June 4, 1961
+
 [Courtland Cox](https://americanarchive.org/catalog/cpb-aacip_151-9z9086402c): Nonviolent Action Group representative on SNCC Coordinating Council; organizer
 
 [Ivanhoe Donaldson](https://americanarchive.org/catalog/cpb-aacip_151-930ns0mm68): SNCC field secretary 
@@ -137,8 +139,6 @@ The following lists identify interview subjects with the groups in which they we
 
 [Charles Sherrod](https://americanarchive.org/catalog/cpb-aacip_151-7s7hq3sn4w): SNCC field secretary and director; participated in sit-ins in [Virginia](https://civilrightstrail.com/state/virginia/) and [South Carolina](https://civilrightstrail.com/state/south-carolina/); took part in the Freedom Ride from Atlanta to Albany, Georgia, that began November 1, 1961
 
-[Stokely Carmichael (Kwame Ture)](https://americanarchive.org/catalog/cpb-aacip_151-7659c6sr1g): SNCC field organizer; participated in the Freedom Ride from Jackson, Mississippi, to New Orleans, Louisiana, on June 4, 1961
-
 [Hollis Watkins](https://americanarchive.org/catalog/cpb-aacip_151-fb4wh2f48v): SNCC member and Freedom Summer organizer; jailed for his participation in a sit-in in Mississippi
 
 #### Next: [Politicians, Law Enforcement, and State and Federal Officials](/exhibits/eotp/5-4-officials)
@@ -149,6 +149,8 @@ The following lists identify interview subjects with the groups in which they we
 - [*Eyes on the Prize* Interviews, Washington University Libraries](http://digital.wustl.edu/eyesontheprize/)
 - [Making *Eyes on the Prize*: An Oral History, Ford Foundation](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/)
 - [*Eyes on the Prize* Study Guide, Facing History and Ourselves](https://www.facinghistory.org/books-borrowing/eyes-prize-americas-civil-rights-movement)
+- [Civil Rights Trail](https://civilrightstrail.com/)
+
 
 ## Main
 
