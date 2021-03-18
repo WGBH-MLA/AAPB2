@@ -110,6 +110,8 @@ This section identifies interview subjects who were boycotters, labor activists,
 - [*Eyes on the Prize* Interviews, Washington University Libraries](http://digital.wustl.edu/eyesontheprize/)
 - [Making *Eyes on the Prize*: An Oral History, Ford Foundation](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/)
 - [*Eyes on the Prize* Study Guide, Facing History and Ourselves](https://www.facinghistory.org/books-borrowing/eyes-prize-americas-civil-rights-movement)
+- [Civil Rights Trail](https://civilrightstrail.com/)
+
 
 ## Main
 
