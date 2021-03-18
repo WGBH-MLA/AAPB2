@@ -74,5 +74,5 @@ Rails.application.routes.draw do
   # end
   # get '/*path', to: redirect('/special_collections/net-catalog', status: 301) #, constraints: net_catalog_constraint
 
-  get '/*path', to: 'override#show' #, constraints: override_constraints
+  # get '/*path', to: 'override#show' #, constraints: override_constraints
 end
