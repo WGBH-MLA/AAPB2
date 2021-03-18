@@ -4,7 +4,7 @@
 
 ## Summary
 
-> **" By confining the civil rights struggle to the South, to bowdlerized heroes, to a single halcyon decade, and to limited, noneconomic objectives, the master narrative simultaneously elevates and diminishes the movement. It ensures the status of the classical phase as a triumphal moment in a larger American progress narrative, yet it undermines its gravitas. It prevents one of the most remarkable mass movements in American history from speaking effectively to the challenges of our time."** - *Jacquelyn Dowd Hall*[<sup>29</sup>](/exhibit/eotp/notes#29)
+> **By confining the civil rights struggle to the South, to bowdlerized heroes, to a single halcyon decade, and to limited, noneconomic objectives, the master narrative simultaneously elevates and diminishes the movement. It ensures the status of the classical phase as a triumphal moment in a larger American progress narrative, yet it undermines its gravitas. It prevents one of the most remarkable mass movements in American history from speaking effectively to the challenges of our time.** - *Jacquelyn Dowd Hall*[<sup>29</sup>](/exhibit/eotp/notes#29)
 
 ## Extended
 
@@ -46,6 +46,7 @@ To use the timeline, click on an event. When you do, a new page will open. Click
 - [*Eyes on the Prize* Interviews, Washington University Libraries](http://digital.wustl.edu/eyesontheprize/)
 - [Making *Eyes on the Prize*: An Oral History, Ford Foundation](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/)
 - [*Eyes on the Prize* Study Guide, Facing History and Ourselves](https://www.facinghistory.org/books-borrowing/eyes-prize-americas-civil-rights-movement)
+- [Civil Rights Trail](https://civilrightstrail.com/)
 
 ## Main
 
