@@ -33,3 +33,19 @@ span.override {
   padding: 2%;
   width: 50%;
 }
+
+img.no-float {
+  width: 10vh;
+  max-height: 10vh;
+  object-fit: contain;
+}
+
+h3 {
+  display: block;
+}
+
+p {
+  display: block;
+  max-height: 10vh;
+  padding-bottom: 4vh;
+}
