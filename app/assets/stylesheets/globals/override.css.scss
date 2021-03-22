@@ -18,6 +18,17 @@
     float: left;
     margin-right: 10px;
   }
+
+  p.spaced-paragraph {
+    display: block;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    min-height: 10vh;
+  }
+
+  p img.left-logo {
+    max-width: 100px;
+  }
 }
 
 h2.override, h3.override {
@@ -34,18 +45,3 @@ span.override {
   width: 50%;
 }
 
-img.no-float {
-  width: 10vh;
-  max-height: 10vh;
-  object-fit: contain;
-}
-/*
-h3 {
-  display: block;
-}
-
-p {
-  display: block;
-  max-height: 10vh;
-  padding-bottom: 4vh;
-}*/
