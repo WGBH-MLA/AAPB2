@@ -174,6 +174,8 @@
  
 <a name="85"></a><sup>85</sup>“The Significance of ‘The Doll Test.’” 
 
+Throughout this exhibit, we have included links to places included on the United States Civil Rights Trail map. To learn more about the trail, visit https://civilrightstrail.com/
+
 
 ## Main
 
