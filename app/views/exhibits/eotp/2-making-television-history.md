@@ -148,7 +148,7 @@ Reflecting on the initial reception of *Eyes on the Prize: America’s Civil Rig
 
 #### Using this Section
 
-This section lists the interviews that appear in each episode of *Eyes I* by subjects' last names. To learn more about the people [Henry Hampton](/exhibits/eotp/2-making-television-history#HenryHampton) and his crew interviewed, go to [A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/). All six episodes of *Eyes I* are available to view for free online at Facing History and Ourselves: https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement.
+This section lists the interviews that appear in each episode of *Eyes I* by subjects' last names. To learn more about the people [Henry Hampton](/exhibits/eotp/2-making-television-history#HenryHampton) and his crew interviewed, go to [A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/). All six episodes of Eyes I are available online at Kanopy: https://www.kanopy.com/product/eyes-prize.
 
 ##### Episode One: Awakenings: 1954–1956
 
