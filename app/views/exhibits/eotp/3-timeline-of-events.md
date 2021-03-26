@@ -34,7 +34,7 @@ When viewing *Eyes on the Prize*, it’s important to remember that, although Pa
 
 Creating this timeline meant tackling some of the same historiographic challenges the *Eyes on the Prize* filmmakers faced. The timeline is not comprehensive; instead, it only includes select events in civil rights history that either come up repeatedly in the interviews or are important to the narrative *Eyes on the Prize* tells. *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s*, published in 1990 as a companion piece to *Eyes I* and *II*, was a valuable resource in developing the timeline. The timeline follows the chronological chapter breakdown of *Voices of Freedom*, which closely matches the order of the episodes in *Eyes I*."[<sup>36</sup>](/exhibits/eotp/notes#36)
 
-To use the timeline, click on an event. When you do, a new page will open. Click on any of the interviews to go to the chapter where the interviewee talks about the event.
+To use the timeline, click on an event to find a brief description with links to *Eyes on the Prize* interviews that include discussions of that event.
 
 <iframe src="/timelines/eotp" border="0"></iframe>
 
