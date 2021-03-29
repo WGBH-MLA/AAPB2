@@ -5,6 +5,7 @@ AllCops:
     - 'vendor/**/*'
     - 'lib/wp_data.rb'
     - 'app/models/search_builder.rb'
+    - 'app/assets/javascripts/timeline.js'
 
 Metrics/ClassLength:
   Enabled: false
