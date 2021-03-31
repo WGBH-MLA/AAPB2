@@ -113,14 +113,6 @@ Two interviews do not appear in *Eyes I* and do not fit neatly into the categori
 
 [William Dinkins](https://americanarchive.org/catalog/cpb-aacip_151-jh3cz3304t) was one of two African American doctors at the Good Samaritan Hospital in [Selma, Alabama](https://civilrightstrail.com/destination/selma/) in 1965. He attended to [Jimmie Lee Jackson](https://kinginstitute.stanford.edu/encyclopedia/jackson-jimmie-lee) after an Alabama state trooper fatally shot him during a protest.
 
-### Acknowledgments
-
-The author would like to thank Alan Gevinson, Casey Davis Kaufman, Kenneth Campbell, Ryn Marchese, Miranda Villesvik, Henry Neels, Alexis Templeton, Stephanie Briggs, Paula Albers, Tuma Usirri, Doug Knox, Joe Lowenstein, Brian Woodman, and Irene Taylor. Thanks also to the anonymous reviewers whose feedback helped improve the exhibit. This project was made possible by the Humanities Digital Workshop at Washington University in St. Louis, the Film and Media Archive at Washington University in St. Louis, and the American Archive of Public Broadcasting. 
-
-### Bio
-
-Michelle Kelley is a writer living in St. Louis, Missouri. Her work has appeared in *The Washington Post*, *Film Quarterly*, *Cineaste*, and other publications. She earned her Ph.D. in Cinema Studies from New York University and was a Postdoctoral Teaching Fellow in the Film and Media Studies Program at Washington University in St. Louis. 
-
 
 #### Next: [Notes](/exhibits/eotp/notes)
 
