@@ -33,11 +33,6 @@ One of the social scientists whose work most influenced the NAACP’s case was [
 
 In his interview, Clark reflects on his work with his wife, [Mamie Clark](https://www.smithsonianmag.com/science-nature/psychologist-work-racial-identity-helped-overturn-school-segregation-180966934/), to demonstrate the harmfulness of segregation on Black youth. The so-called "doll test" was one of several methods the Clarks used. They presented Black children with two dolls, one white and one Black, and asked them which doll they liked better. Most of the children preferred the white doll. "We then asked as the final question, now show me the doll that's most like you." How the subjects responded deeply troubled Clark. "Many of the children were emotionally upset at having to identify with the doll that they had rejected," Clark says. "Some of them would walk out of the room or refuse to answer that question. And this, we interpreted, as indicating that color in a racist society was very disturbing and traumatic."
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 17. "Doll Test," Harlem, New York, 1947, by Gordon Parks. (Image courtesy the Gordon Parks Foundation)</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/placeholder.png" class="big-image" alt="Image of a young Black boy pointing to a white doll when being shown one white and one Black doll."/></a></td></tr>
-</table>
-
 The Clarks used the doll test and other study techniques developed more than a decade earlier to assess the effects of segregation on children whose cases came to be a part of Brown v. Board. "And I went in and used the same methods and techniques that I had used in the earlier studies," Clark says in his interview, "and the results were the same. I mean, these children saw themselves as inferior, and they accepted the inferiority as part of reality."
 
 Some scholars have criticized the NAACP lawyers’ reliance on social scientific evidence. Daryl Michael Scott has argued that the attorneys’ focus on the intangible effects of segregation on Black children led them to downplay its social and economic costs. Scott also contends that by not addressing the psychology of white racism, the ruling contributed to Black youth's stigmatization as psychologically damaged.[<sup>84</sup>](/exhibits/eotp/notes#84) Clark himself regretted that the Court emphasized the harm segregation causes to Black children's self-esteem but failed to acknowledge that it also damages the psychology of whites.[<sup>85</sup>](/exhibits/eotp/notes#85)
@@ -117,14 +112,6 @@ This section also includes lawyers and educators who were not involved in school
 Two interviews do not appear in *Eyes I* and do not fit neatly into the categories in A People’s History: Interview Subjects. [Tom Hayden](https://americanarchive.org/catalog/cpb-aacip_151-fn10p0xm13) founded Students for a Democratic Society. Hayden participated in the Freedom Ride from [Atlanta](https://civilrightstrail.com/destination/atlanta/) to [Albany, Georgia](https://civilrightstrail.com/destination/albany/), on December 10, 1961. 
 
 [William Dinkins](https://americanarchive.org/catalog/cpb-aacip_151-jh3cz3304t) was one of two African American doctors at the Good Samaritan Hospital in [Selma, Alabama](https://civilrightstrail.com/destination/selma/) in 1965. He attended to [Jimmie Lee Jackson](https://kinginstitute.stanford.edu/encyclopedia/jackson-jimmie-lee) after an Alabama state trooper fatally shot him during a protest.
-
-### Acknowledgments
-
-The author would like to thank Alan Gevinson, Casey Davis Kaufman, Kenneth Campbell, Ryn Marchese, Miranda Villesvik, Henry Neels, Alexis Templeton, Stephanie Briggs, Paula Albers, Tuma Usirri, Doug Knox, Joe Lowenstein, Brian Woodman, and Irene Taylor. Thanks also to the anonymous reviewers whose feedback helped improve the exhibit. This project was made possible by the Humanities Digital Workshop at Washington University in St. Louis, the Film and Media Archive at Washington University in St. Louis, and the American Archive of Public Broadcasting. 
-
-### Bio
-
-Michelle Kelley is a writer living in St. Louis, Missouri. Her work has appeared in *The Washington Post*, *Film Quarterly*, *Cineaste*, and other publications. She earned her Ph.D. in Cinema Studies from New York University and was a Postdoctoral Teaching Fellow in the Film and Media Studies Program at Washington University in St. Louis. 
 
 
 #### Next: [Notes](/exhibits/eotp/notes)
