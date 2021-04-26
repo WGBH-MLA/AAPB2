@@ -173,7 +173,7 @@ organizations, producers and leaders) and beyond <br>
 ### Current Stations and Producers Advisory Committee Members
 
 **Ernesto Aguilar (SPAC Co-Chair)**
-<br>Membership Program Director, National Federation of Community Broadcasters
+<br>Executive Director, National Federation of Community Broadcasters
 
 **Joanne Archer**
 <br>Head of Access and Outreach Services, University of Maryland
