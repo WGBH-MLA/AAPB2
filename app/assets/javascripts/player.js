@@ -201,10 +201,16 @@ $(function() {
   if($player[0]){
     var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
 
+    if(!url_hash){
+      // try again for integer seconds links
+      url_hash = location.hash.match(/#at_(\d+)_s/);
+    }
+
     // If timecode included in URL, play to pass thumbnail,
     // then pause at that timecode.
     if (url_hash) {
       $player[0].currentTime = url_hash[1];
+
       var key = greatest_less_than_or_equal_to($player[0].currentTime);
       var $line = lines[key];
 

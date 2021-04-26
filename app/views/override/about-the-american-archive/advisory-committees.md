@@ -21,7 +21,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 ### Current Education Advisory Committee Members
 
 **Franky Abbott**
-<br>Independent Education Consultant
+<br>Chief Content Strategist, Levine Museum of the New South, Charlotte, North Carolina
 
 **Tom Bober (EduAC Co-Chair)**
 <br>District Library Coordinator, School District of Clayton, MO
