@@ -2,14 +2,53 @@
 
 Read about about AAPB's new collections, exhibits and projects below.
 
+## April 2021
+
+### New Exhibit
+Curated by Michelle Kelley, PhD., the [*Freedom Song: Interviews from Eyes on the Prize: America’s Civil Rights Years, 1954–1965*](https://americanarchive.org/exhibits/eotp) exhibit explores the history behind and making of the groundbreaking civil rights series *Eyes on the Prize* by using unedited interviews recorded for the series. The Freedom Song exhibit breathes new life and context into the epic series produced by filmmaker Henry Hampton’s Blackside Inc., which premiered on PBS in 1987.
+
+## March 2021
+
+### New Special Collection
+The [Peabody Awards Collection](https://americanarchive.org/special_collections/peabody) provides access to approximately 4,000 hours of public broadcasting programming nominated for George Foster Peabody Awards between 1941 and 1999. Help correct the computer-generated transcripts of the radio broadcasts in FIX IT+ [here](http://fixitplus.americanarchive.org/?collection_id=79&q=&sort_by=title&order=asc&page=1).
+
+## December 2020
+
+### New Special Collections
+Now in the AAPB are collections of historic series including *Prospects of Mankind with Eleanor Roosevelt*, *People Near Here*, *Focus 580*, *In Black America*, and the WRVR-FM (Riverside Radio) Collection. Explore these collections at https://americanarchive.org/special_collections.
+
+### Updated Exhibit
+Originally curated by Digital Exhibits Intern Lily Trola, the [“Voices of Democracy: Public Media and Presidential Elections”](https://americanarchive.org/exhibits/presidential-elections) exhibit , highlights the role that public media has played in reporting on presidential campaigns and elections will continue to be vital to promoting an informed public, a transparent process, and an engaged citizenry. The exhibit has been updated by Declan McBride, 2020 Digital Projects Intern, to now include materials from the PBS NewsHour collection from 1975 to 2016.
+
+## September 2020
+
+### New Special Collections
+The AAPB launched two new special collections: *Black Journal and *BirdNote. Access these collections at https://americanarchive.org/special_collections.
+
+### New Exhibit
+Curated by Christine Acham, Chair & Professor, Academy for Creative Media, University of Hawai’i at Mānoa; and Ashley Young, Ph.D. Candidate, Cinema and Media Studies, University of Southern California, [“Televising Black Politics in the Black Power Era: ‘Black Journal’ and ‘Soul!’”](https://americanarchive.org/exhibits/black-power)chronicles how television became a tool for breaking down stereotypes and for fostering dialogue within Black communities. In addition to delving into the history of ‘Black Journal’, the exhibit discusses ‘Soul!’, a variety talk show created for and by African Americans that aired between 1968 and 1973 on public television. 
+
+### National History Day
+Each year, National History Day (NHD) frames students’ research within a historical theme. The 2020-2021 theme is Communication in History: The Key to Understanding. National History Day (NHD) and students are exploring topics related to the ways that people have exchanged information throughout the past, how these methods and modes have changed over time, and how they have affected life today. Public broadcasting has been an influential form of communication for the past seven decades, and students can use the American Archive of Public Broadcasting (AAPB) to explore how public media has communicated important issues to the American public through television and radio. Visit the NHD page at https://americanarchive.org/national-history-day.
+
+## June 2020
+
+### New Special Collections
+The AAPB recently launched the *Broadcasting in the Public Interest: The Newton Minow* Collection](https://americanarchive.org/special_collections/newtonminow) and a thematic collection of public radio and television content from multiple contributors relevant to [Jewish American Heritage](https://americanarchive.org/special_collections/jahm).
+
 ## March 2020
 
 ### New Special Collections
-Latest Special Collections to launch include *Vegetable Soup*, *In Black America*, *John Beyer Iowa Documentaries*, *National Federation of Community Broadcasters Programs*, *Vietnam: A Television History Interviews*, *War and Peace in the Nuclear Age Interviews*, *OutCasting*, *BackStory*, *A Word on Words*, *To the Moon Interviews*, *Traditions: Ohio Heritage Fellows*, *The Great Depression Interviews*, *Rock and Roll Interviews*, and collections produced by University of Alabama Public Broadcasting Preservation Fellows, including *The Alabama Experience*, *Local Programs from WSRE from Pensacola, Florida*, and *Virginia Public Media: Journey through the Archives.* View the collections at http://americanarchive.org/special_collections.
+Latest Special Collections to launch include *Vegetable Soup*, *In Black America*, *John Beyer Iowa Documentaries*, *National Federation of Community Broadcasters Programs*, *Vietnam: A Television History Interviews*, *War and Peace in the Nuclear Age Interviews*, *OutCasting*, *BackStory*, *To the Moon Interviews*, *Traditions: Ohio Heritage Fellows*, *The Great Depression Interviews*, *Rock and Roll Interviews*, and collections produced by University of Alabama Public Broadcasting Preservation Fellows, including *The Alabama Experience*, *Local Programs from WSRE from Pensacola, Florida*, and *Virginia Public Media: Journey through the Archives.* View the collections at http://americanarchive.org/special_collections.
 
 ### New Exhibit
 
 Curated by Dr. Allison Perlman, the AAPB released a new online exhibit titled "[On the Right: NET and Modern Conservatism](https://americanarchive.org/exhibits/conservatism)." Created as part of the National Educational Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources, the exhibit explores the growth of the conservative movement in the mid-20th century through the lens of public television. Rescued from deteriorating videotape and film, 21 National Educational Television (NET) programs produced between 1956 and 1970 explore multiple perspectives on the modern conservative movement. The programs are now available for online viewing, many for the first time since their original broadcast.
+
+## November 2019
+
+### New Special Collections
+The ‘A Word on Words’ Collection contains 901 episodes from the acclaimed long-running series produced by [Nashville Public Television]( https://americanarchive.org/participating-orgs/NCSG55098) featuring thoughtful and surprising discussions about literature and the lives of authors. The collection includes episodes from 1972 through 2013 with host John Seigenthaler, a native Nashvillian and longtime journalist, publisher, and editor with the Tennessean, and chair of the selection committee for the Robert F. Kennedy Book Award. View the collection at https://americanarchive.org/special_collections/a-word-on-words.
 
 ## April 2019
 
