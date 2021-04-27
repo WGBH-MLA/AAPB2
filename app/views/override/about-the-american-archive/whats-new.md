@@ -5,12 +5,12 @@ Read about about AAPB's new collections, exhibits and projects below.
 ## April 2021
 
 ### New Exhibit
-Curated by Michelle Kelley, PhD., the ["Freedom Song: Interviews from *Eyes on the Prize: America’s Civil Rights Years, 1954–1965*"](https://americanarchive.org/exhibits/eotp) exhibit explores the history behind and making of the groundbreaking civil rights series *Eyes on the Prize* by using unedited interviews recorded for the series. The Freedom Song exhibit breathes new life and context into the epic series produced by filmmaker Henry Hampton’s Blackside Inc., which premiered on PBS in 1987.
+![Eyes](https://s3.amazonaws.com/americanarchive.org/override/eyes-image.jpg "Eyes Logo") Curated by Michelle Kelley, PhD., the ["Freedom Song: Interviews from *Eyes on the Prize: America’s Civil Rights Years, 1954–1965*"](https://americanarchive.org/exhibits/eotp) exhibit explores the history behind and making of the groundbreaking civil rights series *Eyes on the Prize* by using unedited interviews recorded for the series. The Freedom Song exhibit breathes new life and context into the epic series produced by filmmaker Henry Hampton’s Blackside Inc., which premiered on PBS in 1987.
 
 ## March 2021
 
 ### New Special Collection
-The [Peabody Awards Collection](https://americanarchive.org/special_collections/peabody) provides access to approximately 4,000 hours of public broadcasting programming nominated for George Foster Peabody Awards between 1941 and 1999. Help correct the computer-generated transcripts of the radio broadcasts in FIX IT+ [here](http://fixitplus.americanarchive.org/?collection_id=79&q=&sort_by=title&order=asc&page=1).
+![Peabody](https://s3.amazonaws.com/americanarchive.org/override/peabody-image.jpg "Peabody Logo") The [Peabody Awards Collection](https://americanarchive.org/special_collections/peabody) provides access to approximately 4,000 hours of public broadcasting programming nominated for George Foster Peabody Awards between 1941 and 1999. Help correct the computer-generated transcripts of the radio broadcasts in FIX IT+ [here](http://fixitplus.americanarchive.org/?collection_id=79&q=&sort_by=title&order=asc&page=1).
 
 ## December 2020
 
@@ -42,13 +42,12 @@ The AAPB recently launched the *Broadcasting in the Public Interest: The Newton 
 Latest Special Collections to launch include *Vegetable Soup*, *In Black America*, *John Beyer Iowa Documentaries*, *National Federation of Community Broadcasters Programs*, *Vietnam: A Television History Interviews*, *War and Peace in the Nuclear Age Interviews*, *OutCasting*, *BackStory*, *To the Moon Interviews*, *Traditions: Ohio Heritage Fellows*, *The Great Depression Interviews*, *Rock and Roll Interviews*, and collections produced by University of Alabama Public Broadcasting Preservation Fellows, including *The Alabama Experience*, *Local Programs from WSRE from Pensacola, Florida*, and *Virginia Public Media: Journey through the Archives.* View the collections at http://americanarchive.org/special_collections.
 
 ### New Exhibit
-
 Curated by Dr. Allison Perlman, the AAPB released a new online exhibit titled "[On the Right: NET and Modern Conservatism](https://americanarchive.org/exhibits/conservatism)." Created as part of the National Educational Television (NET) Collection Catalog Project funded by the Council on Library and Information Resources, the exhibit explores the growth of the conservative movement in the mid-20th century through the lens of public television. Rescued from deteriorating videotape and film, 21 National Educational Television (NET) programs produced between 1956 and 1970 explore multiple perspectives on the modern conservative movement. The programs are now available for online viewing, many for the first time since their original broadcast.
 
 ## November 2019
 
 ### New Special Collections
-The ‘A Word on Words’ Collection contains 901 episodes from the acclaimed long-running series produced by [Nashville Public Television]( https://americanarchive.org/participating-orgs/NCSG55098) featuring thoughtful and surprising discussions about literature and the lives of authors. The collection includes episodes from 1972 through 2013 with host John Seigenthaler, a native Nashvillian and longtime journalist, publisher, and editor with the Tennessean, and chair of the selection committee for the Robert F. Kennedy Book Award. View the collection at https://americanarchive.org/special_collections/a-word-on-words.
+![Word](https://s3.amazonaws.com/americanarchive.org/override/word-image.jpg "Word Logo") The ‘A Word on Words’ Collection contains 901 episodes from the acclaimed long-running series produced by [Nashville Public Television]( https://americanarchive.org/participating-orgs/NCSG55098) featuring thoughtful and surprising discussions about literature and the lives of authors. The collection includes episodes from 1972 through 2013 with host John Seigenthaler, a native Nashvillian and longtime journalist, publisher, and editor with the Tennessean, and chair of the selection committee for the Robert F. Kennedy Book Award. View the collection at https://americanarchive.org/special_collections/a-word-on-words.
 
 ## April 2019
 
