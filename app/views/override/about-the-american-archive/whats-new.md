@@ -5,7 +5,7 @@ Read about about AAPB's new collections, exhibits and projects below.
 ## April 2021
 
 ### New Exhibit
-Curated by Michelle Kelley, PhD., the [*Freedom Song: Interviews from Eyes on the Prize: America’s Civil Rights Years, 1954–1965*](https://americanarchive.org/exhibits/eotp) exhibit explores the history behind and making of the groundbreaking civil rights series *Eyes on the Prize* by using unedited interviews recorded for the series. The Freedom Song exhibit breathes new life and context into the epic series produced by filmmaker Henry Hampton’s Blackside Inc., which premiered on PBS in 1987.
+Curated by Michelle Kelley, PhD., the ["Freedom Song: Interviews from *Eyes on the Prize: America’s Civil Rights Years, 1954–1965*"](https://americanarchive.org/exhibits/eotp) exhibit explores the history behind and making of the groundbreaking civil rights series *Eyes on the Prize* by using unedited interviews recorded for the series. The Freedom Song exhibit breathes new life and context into the epic series produced by filmmaker Henry Hampton’s Blackside Inc., which premiered on PBS in 1987.
 
 ## March 2021
 
