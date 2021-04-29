@@ -37,7 +37,7 @@ Listeners will find in Reuben’s selections an eclectic mix of jazz classics an
 
 ## Help
 
-The Friday Night Jazz with Reuben Jackson collection offers online access to 17 three-hour programs selected by host Reuben Jackson. Each three-hour program is divided into three hour-long segments. 
+The *Friday Night Jazz with Reuben Jackson* collection offers online access to 17 three-hour programs selected by host Reuben Jackson. Each three-hour program is divided into three hour-long segments. 
 
 Metadata records for the full collection of 145 programs, listing performance tracks and dates, also are available online. Access to the full collection of programs, however, is provided only on the premises of the Library of Congress and GBH. 
 
