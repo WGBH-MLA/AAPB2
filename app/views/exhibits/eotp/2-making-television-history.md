@@ -79,7 +79,7 @@ In preparing to make *Eyes on the Prize*, Hampton arranged for scholars, activis
 At civil rights school, Blackside filmmakers also learned about the expressive and visual culture of the era. One session focused on the music of the civil rights movement; folk singer [Odetta](https://www.thehistorymakers.org/biography/odetta-gordon-41) spoke (and sang), as did [Guy and Candie Carawan](https://snccdigital.org/people/guy-candie-carawan/), who wrote the civil rights anthem, "We Shall Overcome." The final session included screenings of TV news footage from the 1950s and ’60s provided by the New York Public Library’s Schomburg Center for Research in Black Culture, NBC News archives, and Rabin, who was series’ stock footage coordinator.
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Fig. 3. First page of draft schedule for "civil rights school," Box 1, Judy Richardson Personal Papers, Series 2: 1985-1987, Film and Media Archive, Washington University in St. Louis.</caption>
+<caption align="bottom" class="exhibit-caption">Fig. 3. First page of Judith Vecchione's draft schedule for "civil rights school," Box 1, Judy Richardson Personal Papers, Series 2: 1985-1987, Film and Media Archive, Washington University in St. Louis.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/PageoneofCivilRightsSchoolSchedule.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/PageoneofCivilRightsSchoolSchedule.png" class="big-image" alt="First page of draft schedule for "civil rights school," Box 1, Judy Richardson Personal Papers, Series 2: 1985-1987, Film and Media Archive, Washington University in St. Louis"/></a></td></tr>
 </table>
 
