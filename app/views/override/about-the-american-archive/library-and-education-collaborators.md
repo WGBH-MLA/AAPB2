@@ -35,6 +35,7 @@ The American Archive of Public Broadcasting (AAPB) collaborates with educational
 <h3>Professional Learning and Outreach Initiatives Office, Library of Congress</h3>
 <p class="spaced-paragraph">
 The AAPB is collaborating with the Professional Learning and Outreach Initiatives Office at the Library of Congress (LOC) to explore possible ways to link relevant primary and secondary public radio and television resources in the AAPB on existing <a href=https://www.loc.gov/classroom-materials/?fa=partof_type:primary+source+set>primary source sets</a> or other teacher resources on LOC.gov.
+  </p>
 
 <h3>Share My Lesson</h3>
 <p class="spaced-paragraph">
