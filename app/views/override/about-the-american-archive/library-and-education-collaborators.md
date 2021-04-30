@@ -8,6 +8,12 @@ The American Archive of Public Broadcasting (AAPB) collaborates with educational
   The <a href="https://dp.la">Digital Public Library of America</a> amplifies the value of libraries and cultural organizations as Americans’ most trusted sources of shared knowledge. The AAPB has made items searchable in the DPLA, and you can find historic items from the AAPB in their primary source sets.
 </p>
 
+<h3>National Council for the Social Studies</h3>
+<p class="spaced-paragraph">
+  <img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/NCSS_logo.png" alt="NCSS Logo Image"/>
+  The <a href="https://www.socialstudies.org/">National Council for the Social Studies</a> (NCSS) is the largest professional association in the country devoted solely to social studies education. The mission of NCSS is to advocate and build capacity for high-quality social studies by providing leadership, services, and support to educators.
+</p>
+
 <h3>National History Day</h3>
 <p class="spaced-paragraph">
   <img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/NHD_logo.png" alt="NHD Logo Image"/>
