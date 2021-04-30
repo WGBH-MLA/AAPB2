@@ -35,6 +35,8 @@ Listeners will find in Reuben’s selections an eclectic mix of jazz classics an
 - [*Friday Night Jazz* website]( https://www.vpr.org/programs/friday-night-jazz-vpr)  
 - [VPR website]( https://www.vpr.org/#stream/0) 
 
+## Funders
+
 ## Help
 
 The *Friday Night Jazz with Reuben Jackson* collection offers online access to 17 three-hour programs selected by host Reuben Jackson. Each three-hour program is divided into three hour-long segments. 
