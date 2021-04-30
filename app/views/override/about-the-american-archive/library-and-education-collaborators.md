@@ -2,6 +2,7 @@
 
 The American Archive of Public Broadcasting (AAPB) collaborates with educational and cultural organizations across the nation, as well as libraries and archives to share in the effort of providing access to historic records. The AAPB is pleased to collaborate with the following organizations:
 
+
 <h3>Digital Public Library of America</h3>
 <p class="spaced-paragraph">
   <img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/DPLA_logo.png" alt="DLPA Logo Image"/>
@@ -30,6 +31,10 @@ The American Archive of Public Broadcasting (AAPB) collaborates with educational
 <p class="spaced-paragraph">
   <a href="https://mass.pbslearningmedia.org/">PBS LearningMedia</a> provides educational resources produced by public media and targeted specifically for educators. High-quality content is tied to Common Core and national curriculum standards and is freely available to all educators as a basic service. The AAPB and PBSLM are working together to match resources in PBSLM with full-length and related archival programs and original materials made available in the AAPB Online Reading Room. 
 </p>
+
+<h3>Professional Learning and Outreach Initiatives Office, Library of Congress</h3>
+<p class="spaced-paragraph">
+The AAPB is collaborating with the Professional Learning and Outreach Initiatives Office at the Library of Congress (LOC) to explore possible ways to link relevant primary and secondary public radio and television resources in the AAPB on existing <a href=https://www.loc.gov/classroom-materials/?fa=partof_type:primary+source+set>primary source sets</a> or other teacher resources on LOC.gov.
 
 <h3>Share My Lesson</h3>
 <p class="spaced-paragraph">
