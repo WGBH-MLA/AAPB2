@@ -5,12 +5,16 @@ Read about about AAPB's new collections, exhibits and projects below.
 ## April 2021
 
 ### New Exhibit
-![Eyes](https://s3.amazonaws.com/americanarchive.org/override/eyes-image.jpg "Eyes Logo") Curated by Michelle Kelley, PhD., the ["Freedom Song: Interviews from *Eyes on the Prize: America’s Civil Rights Years, 1954–1965*"](https://americanarchive.org/exhibits/eotp) exhibit explores the history behind and making of the groundbreaking civil rights series *Eyes on the Prize* by using unedited interviews recorded for the series. The Freedom Song exhibit breathes new life and context into the epic series produced by filmmaker Henry Hampton’s Blackside Inc., which premiered on PBS in 1987.
+<span style="display:inline-block;">
+  ![Eyes](https://s3.amazonaws.com/americanarchive.org/override/eyes-image.jpg "Eyes Logo") Curated by Michelle Kelley, PhD., the ["Freedom Song: Interviews from *Eyes on the Prize: America’s Civil Rights Years, 1954–1965*"](https://americanarchive.org/exhibits/eotp) exhibit explores the history behind and making of the groundbreaking civil rights series *Eyes on the Prize* by using unedited interviews recorded for the series. The Freedom Song exhibit breathes new life and context into the epic series produced by filmmaker Henry Hampton’s Blackside Inc., which premiered on PBS in 1987.
+</span>
 
 ## March 2021
 
 ### New Special Collection
-![Peabody](https://s3.amazonaws.com/americanarchive.org/override/peabody-image.jpg "Peabody Logo") The [Peabody Awards Collection](https://americanarchive.org/special_collections/peabody) provides access to approximately 4,000 hours of public broadcasting programming nominated for George Foster Peabody Awards between 1941 and 1999. Help correct the computer-generated transcripts of the radio broadcasts in FIX IT+ [here](http://fixitplus.americanarchive.org/?collection_id=79&q=&sort_by=title&order=asc&page=1).
+<span style="display:inline-block;">
+  ![Peabody](https://s3.amazonaws.com/americanarchive.org/override/peabody-image.jpg "Peabody Logo") The [Peabody Awards Collection](https://americanarchive.org/special_collections/peabody) provides access to approximately 4,000 hours of public broadcasting programming nominated for George Foster Peabody Awards between 1941 and 1999. Help correct the computer-generated transcripts of the radio broadcasts in FIX IT+ [here](http://fixitplus.americanarchive.org/?collection_id=79&q=&sort_by=title&order=asc&page=1).
+</span>
 
 ## December 2020
 
@@ -26,7 +30,7 @@ Originally curated by Digital Exhibits Intern Lily Trola, the [“Voices of Demo
 The AAPB launched two new special collections: *Black Journal and *BirdNote. Access these collections at https://americanarchive.org/special_collections.
 
 ### New Exhibit
-Curated by Christine Acham, Chair & Professor, Academy for Creative Media, University of Hawai’i at Mānoa; and Ashley Young, Ph.D. Candidate, Cinema and Media Studies, University of Southern California, [“Televising Black Politics in the Black Power Era: ‘Black Journal’ and ‘Soul!’”](https://americanarchive.org/exhibits/black-power)chronicles how television became a tool for breaking down stereotypes and for fostering dialogue within Black communities. In addition to delving into the history of ‘Black Journal’, the exhibit discusses ‘Soul!’, a variety talk show created for and by African Americans that aired between 1968 and 1973 on public television. 
+Curated by Christine Acham, Chair & Professor, Academy for Creative Media, University of Hawai’i at Mānoa; and Ashley Young, Ph.D. Candidate, Cinema and Media Studies, University of Southern California, [“Televising Black Politics in the Black Power Era: ‘Black Journal’ and ‘Soul!’”](https://americanarchive.org/exhibits/black-power)chronicles how television became a tool for breaking down stereotypes and for fostering dialogue within Black communities. In addition to delving into the history of ‘Black Journal’, the exhibit discusses ‘Soul!’, a variety talk show created for and by African Americans that aired between 1968 and 1973 on public television.
 
 ### National History Day
 Each year, National History Day (NHD) frames students’ research within a historical theme. The 2020-2021 theme is Communication in History: The Key to Understanding. National History Day (NHD) and students are exploring topics related to the ways that people have exchanged information throughout the past, how these methods and modes have changed over time, and how they have affected life today. Public broadcasting has been an influential form of communication for the past seven decades, and students can use the American Archive of Public Broadcasting (AAPB) to explore how public media has communicated important issues to the American public through television and radio. Visit the NHD page at https://americanarchive.org/national-history-day.
@@ -65,7 +69,7 @@ The American Archive of Public Broadcasting (AAPB) launched five new Special Col
 ## March 2018
 
 ### New Exhibit
-<table class="exhibit-image">
+<table class="exhibit-image" style="margin-top:0;">
 <caption align="bottom" class="exhibit-caption"><em>"Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."</em></caption>
 <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/override/pennstationcrop.jpg" alt="Historic American Buildings Survey, Creator. Pennsylvania Station, New York Terminal Service Plant, 250 West Thirty-first Street, New York County, NY. New York New York County, 1933. Documentation Compiled After. Photograph. Retrieved from the Library of Congress."/></td></tr>
 </table>
@@ -106,9 +110,11 @@ In December 2017, the American Archive of Public Broadcasting launched ROLL THE 
 The AAPB recently acquired three collections of original, full-length interviews from groundbreaking public television documentaries: Ken Burns’ *The Civil War*, *Eyes on the Prize* and *American Masters*. Only excerpts of these interviews were included in previously released, edited programs. Now, the full-length interviews from these landmark series will be available to view online at americanarchive.org or in person at the Library of Congress and at GBH, preserved for future generations to learn about our nation’s history.
 
 #### Interviews from Ken Burns' *The Civil War*
-![Ken Burns' The Civil War](https://s3.amazonaws.com/americanarchive.org/special-collections/civil-war_small.jpeg "Ken Burns' The Civil War")*The Civil War*, an epic nine-episode series by the award-winning documentary filmmaker Ken Burns and produced in conjunction with WETA, Washington, DC and American Documentaries, Inc., first aired in September 1990 to an audience of 40 million viewers. The film is the recipient of 40 major film and television awards, including two Emmys and two Grammys.
+<span style="display:inline-block;">
+  ![Ken Burns' The Civil War](https://s3.amazonaws.com/americanarchive.org/special-collections/civil-war_small.jpeg "Ken Burns' The Civil War")*The Civil War*, an epic nine-episode series by the award-winning documentary filmmaker Ken Burns and produced in conjunction with WETA, Washington, DC and American Documentaries, Inc., first aired in September 1990 to an audience of 40 million viewers. The film is the recipient of 40 major film and television awards, including two Emmys and two Grammys.
 
-The AAPB *The Civil War* interviews collection includes eight digitized, full-length interviews with distinguished historians and commentators Barbara J. Fields, C. Vann Woodward, Robert Penn Warren, William Safire, James Symington, Stephen B. Oates, Ed Bearss and Daisy Turner. *The Civil War* interviews collection is available online at [americanarchive.org/special_collections/ken-burns-civil-war](/special_collections/ken-burns-civil-war).
+  The AAPB *The Civil War* interviews collection includes eight digitized, full-length interviews with distinguished historians and commentators Barbara J. Fields, C. Vann Woodward, Robert Penn Warren, William Safire, James Symington, Stephen B. Oates, Ed Bearss and Daisy Turner. *The Civil War* interviews collection is available online at [americanarchive.org/special_collections/ken-burns-civil-war](/special_collections/ken-burns-civil-war).
+</span>
  
 #### Interviews from *Eyes on the Prize*
 ![Eyes on the Prize](https://s3.amazonaws.com/americanarchive.org/special-collections/eotp_small.jpeg "Eyes on the Prize")*Eyes on the Prize: America's Civil Rights Years 1954–1965* tells the definitive story of the civil rights era from the point of view of the ordinary men and women whose extraordinary actions launched a movement that changed the fabric of American life, and embodied a struggle whose reverberations continue to be felt today. The award-winning documentary series recounts the fight to end decades of discrimination and segregation from the murder of Emmett Till and the Montgomery bus boycott in 1955 and 1956 to the 1965 Voting Rights Campaign in Selma, Alabama. Eyes on the Prize was produced by Blackside, Inc. and aired on PBS in 1987.
