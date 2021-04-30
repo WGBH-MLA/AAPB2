@@ -66,7 +66,6 @@ Rails.application.routes.draw do
   get '/special_collections/*path', to: 'special_collections#show', constraints: override_constraints
   get '/plain_override/*path', to: 'plain_override#show', constraints: override_constraints
 
-
   # NET Catalog is now a SpecialCollection, so redirecting there.
   # This need to be above the '/*path' route below, otherwise it won't work.
   net_catalog_constraint = lambda do |req|
