@@ -6,7 +6,7 @@
 
 ## Summary
 
-The 9/11 Special Coverage collection consists of 68 television and radio programs covering the events of the September 11, 2001, terrorist attacks, the aftermath, and the following War on Terror. The collection includes radio programs from WILL Illinois Public Media’s Focus 580 series and [KAKM’s *Talk of Alaska*](https://americanarchive.org/catalog/cpb-aacip_235-09j3vsr8), recorded on September 11, 2001, and the immediate days following the attacks. Coverage of 9/11 and its anniversaries by The NewsHour with Jim Lehrer and the PBS NewsHour is also featured, highlighting how national public television news communicated the event and how it was reflected on in later years.  Additional programs in the collection include episodes of WNET’s New York Voices, featuring an episode titled [“The Day After”]( https://americanarchive.org/catalog/cpb-aacip_75-741rnjrq) with a panel discussion hosted by Bill Moyers on 9/12/2001; a one-year anniversary radio special by KPCC-FM; recorded lectures from the Commonwealth Club of California contributed by the Hoover Institution Library and Archives at Stanford University; and a recording from 9/12/2001 of [“9/11 prayer services”]( https://americanarchive.org/catalog/cpb-aacip_78-73pvn20b) and interviews with diverse religious leaders from ideastream. In addition to 9/11 coverage and anniversary programs, the collection features broadcasts discussing topics such as counterterrorism and the War on Terror, homeland security, the 9/11 Commission, diplomacy, American intelligence, aviation security, the 9/11 Memorial, 9/11 and the media, humanitarian action, and international finance in the post 9/11 world. 
+The 9/11 Special Coverage collection consists of 68 television and radio programs covering the events of the September 11, 2001, terrorist attacks, the aftermath, and the following War on Terror. The collection includes radio programs from WILL Illinois Public Media’s Focus 580 series and [KAKM’s *Talk of Alaska*](https://americanarchive.org/catalog/cpb-aacip_235-09j3vsr8), recorded on September 11, 2001, and the immediate days following the attacks. Coverage of 9/11 and its anniversaries by The NewsHour with Jim Lehrer and the PBS NewsHour is also featured, highlighting how national public television news communicated the event and how it was reflected on in later years.  Additional programs in the collection include episodes of WNET’s New York Voices, featuring an episode titled [“The Day After”](https://americanarchive.org/catalog/cpb-aacip_75-741rnjrq) with a panel discussion hosted by Bill Moyers on 9/12/2001; a one-year anniversary radio special by KPCC-FM; recorded lectures from the Commonwealth Club of California contributed by the Hoover Institution Library and Archives at Stanford University; and a recording from 9/12/2001 of [“9/11 prayer services”](https://americanarchive.org/catalog/cpb-aacip_78-73pvn20b) and interviews with diverse religious leaders from ideastream. In addition to 9/11 coverage and anniversary programs, the collection features broadcasts discussing topics such as counterterrorism and the War on Terror, homeland security, the 9/11 Commission, diplomacy, American intelligence, aviation security, the 9/11 Memorial, 9/11 and the media, humanitarian action, and international finance in the post 9/11 world. 
 
 ## Background
 
@@ -18,14 +18,14 @@ This Special Collection was curated by Robert Hoffman, graduate student at New Y
 
 ## Featured
 
-[![September 11, 2001](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/507-n58cf9k03g)
-[![Understanding the events of 9/11]https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/ cpb-aacip-16-zs2k64bd7v)
-[![History and Politics of Rebuilding Ground Zero ](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)]
-(/catalog/cpb-aacip/75-54kkwrd1)
-[![Whose Memorial Is It?](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/75-289gjbn7)
+[![September 11, 2001](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-n58cf9k03g.jpg)](/catalog/cpb-aacip_507-n58cf9k03g)
+[![The Day After](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_75-741rnjrq.jpg)](/catalog/cpb-aacip_75-741rnjrq)
+[![Understanding the events of 9/11](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_16-zs2k64bd7v)
+[![History and Politics of Rebuilding Ground Zero](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_75-54kkwrd1.jpg)]
+(/catalog/cpb-aacip_75-54kkwrd1)
+[![Whose Memorial Is It?](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_75-289gjbn7.jpg)](/catalog/cpb-aacip_75-289gjbn7)
 [![The Consequences of Counterterrorism](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)
-](/catalog/ cpb-aacip/514-b853f4mg9w
-[![PBS Newshour – September 11, 2019](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip/525-j96057f59d)
+](/catalog/cpb-aacip_514-b853f4mg9w)
 
 ## Resources
 
