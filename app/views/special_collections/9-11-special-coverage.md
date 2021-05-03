@@ -21,11 +21,9 @@ This Special Collection was curated by Robert Hoffman, graduate student at New Y
 [![September 11, 2001](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_507-n58cf9k03g.jpg)](/catalog/cpb-aacip_507-n58cf9k03g)
 [![The Day After](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_75-741rnjrq.jpg)](/catalog/cpb-aacip_75-741rnjrq)
 [![Understanding the events of 9/11](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_16-zs2k64bd7v)
-[![History and Politics of Rebuilding Ground Zero](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_75-54kkwrd1.jpg)]
-(/catalog/cpb-aacip_75-54kkwrd1)
+[![History and Politics of Rebuilding Ground Zero](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_75-54kkwrd1.jpg)](/catalog/cpb-aacip_75-54kkwrd1)
 [![Whose Memorial Is It?](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_75-289gjbn7.jpg)](/catalog/cpb-aacip_75-289gjbn7)
-[![The Consequences of Counterterrorism](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)
-](/catalog/cpb-aacip_514-b853f4mg9w)
+[![The Consequences of Counterterrorism](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_514-b853f4mg9w)
 
 ## Resources
 
