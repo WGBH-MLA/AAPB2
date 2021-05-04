@@ -22,12 +22,12 @@ In 2019 SCCtv began digitizing materials produced by Jean Walkinshaw, which were
 
 ## Featured
 
-[![Rainier: The Mountain](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-cecaed09eb0.jpg)](/catalog/cpb-aacip-cecaed09eb0)
-[![Tarheels in the Northwest](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-249ace2fbfb.jpg)](/catalog/cpb-aacip-249ace2fbfb)
-[![Young Storytellers in Russia](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-452977bd435.jpg)](/catalog/cpb-aacip-452977bd435)
-[![Helma Ward](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-028dbe12ebe.jpg)](/catalog/cpb-aacip-028dbe12ebe)
-[![Face to Face with Roberta](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-e7816ecfa3f.jpg)](/catalog/cpb-aacip-e7816ecfa3f)
-[![Dr. Michael Copass](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-639b1fdc874.jpg)](/catalog/cpb-aacip-639b1fdc874)
+[![Rainier: The Mountain](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-cecaed09eb0_01.jpg)](/catalog/cpb-aacip-cecaed09eb0)
+[![Tarheels in the Northwest](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-249ace2fbfb_01.jpg)](/catalog/cpb-aacip-249ace2fbfb)
+[![Young Storytellers in Russia](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-452977bd435_01.jpg)](/catalog/cpb-aacip-452977bd435)
+[![Helma Ward](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-028dbe12ebe_01.jpg)](/catalog/cpb-aacip-028dbe12ebe)
+[![Face to Face with Roberta](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-e7816ecfa3f_01.jpg)](/catalog/cpb-aacip-e7816ecfa3f)
+[![Dr. Michael Copass](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-639b1fdc874_01.jpg)](/catalog/cpb-aacip-639b1fdc874)
 
 ## Resources
 
