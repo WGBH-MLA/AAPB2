@@ -1,4 +1,4 @@
-#The Jean Walkinshaw Collection
+# The Jean Walkinshaw Collection
 
 ## Thumbnail
 
