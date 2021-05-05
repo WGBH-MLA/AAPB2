@@ -23,6 +23,14 @@ describe 'Embed' do
     it 'shows the video player' do
       expect(page).to have_css('video')
     end
+
+    # When embedding, links back to AAPB need to open in a new window
+    # otherwise we get an error in the iframe.
+    it 'has links with the expected target attribute' do
+      expect(page.find_link(href: /.*\/participating-orgs\/.*/)[:target]).to eq("_blank")
+      expect(page.find_link(href: /.*\/catalog\/.*/)[:target]).to eq("_blank")
+      expect(page.find_link(href: /\/legal\/orr-rules/)[:target]).to eq("_blank")
+    end
   end
 
   context 'when record is protected' do
@@ -31,6 +39,12 @@ describe 'Embed' do
       expect(page).not_to have_css('video')
       expect(page).to have_content "This content is only available at GBH and the Library of Congress."
     end
+
+    # When embedding, links back to AAPB need to open in a new window
+    # otherwise we get an error in the iframe.
+    it 'has links with the expected target attribute' do
+      expect(page.find_link(href: /.*\/on-location/)[:target]).to eq("_blank")
+    end
   end
 
   context 'when record is private' do
@@ -38,6 +52,12 @@ describe 'Embed' do
     it 'does not show the video player' do
       expect(page).not_to have_css('video')
       expect(page).to have_content "This content is only available at the Library of Congress."
+    end
+
+    # When embedding, links back to AAPB need to open in a new window
+    # otherwise we get an error in the iframe.
+    it 'has links with the expected target attribute' do
+      expect(page.find_link(href: /.*\/on-location/)[:target]).to eq("_blank")
     end
   end
 end
