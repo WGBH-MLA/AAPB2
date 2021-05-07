@@ -34,13 +34,13 @@
       <dl>
         <dt>Title</dt>
         <dd>
-          <a data-no-turbolink="true" href="/catalog/<%= @pbcore.id %>"><%= @pbcore.title %></a>
+          <a data-no-turbolink="true" target="_blank" href="/catalog/<%= @pbcore.id %>"><%= @pbcore.title %></a>
         </dd>
       </dl>
       <dl>
         <dt>Contributing Organization</dt>
           <% @pbcore.contributing_organization_objects.each do |org| %>
-            <dd><a href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
+            <dd><a target="_blank" href='/participating-orgs/<%= url_encode(org.id) %>'><%= org.short_name %></a>
               (<%= org.city %>, <%= org.state %>)</dd>
           <% end %>
       </dl>
@@ -53,11 +53,11 @@
         </dl>
       <% end %>
 
-      <p>By accessing this content you agree to the AAPB's <a href="/legal/orr-rules">Online Reading Room Rules of Use</a>.</p>
+      <p>By accessing this content you agree to the AAPB's <a target="_blank" href="/legal/orr-rules">Online Reading Room Rules of Use</a>.</p>
 
       <% if @is_clipped %>
         <p>
-          This is a segment of a program available on the AAPB website. <a href="/catalog/<%= @pbcore.id %>">Access the full-length item.</a>
+          This is a segment of a program available on the AAPB website. <a target="_blank" href="/catalog/<%= @pbcore.id %>">Access the full-length item.</a>
         </p>
       <% end %>
     </div>
@@ -66,9 +66,9 @@
   <% if @pbcore.public? && !current_user.usa? %>
     Please note: This content is currently not available at your location.
   <% elsif @pbcore.protected? %>
-    Please note: This content is only available at GBH and the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
+    Please note: This content is only available at GBH and the Library of Congress. For information about on location research, <a target="_blank" href="/on-location">click here</a>.
   <% elsif @pbcore.private? %>
-    Please note: This content is only available at the Library of Congress. For information about on location research, <a href="/on-location">click here</a>.
+    Please note: This content is only available at the Library of Congress. For information about on location research, <a target="_blank" href="/on-location">click here</a>.
   <% elsif !@pbcore.digitized? && !@pbcore.contributing_organization_objects.empty? %>
     This content has not been digitized. Please contact the contributing organization(s) listed below.
   <% elsif !@pbcore.digitized? && @pbcore.contributing_organization_objects.empty? %>
