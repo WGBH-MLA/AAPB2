@@ -2,7 +2,7 @@
 
 In collaboration with the [Society for Cinema and Media Studies](http://www.aca-media.org/) (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in American Archive of Public Broadcasting collection.
 
-### Episode 01: A conversation on <i>Eyes on the Prize</i> with Michelle Kelley, PhD
+### Episode 01: <i>Eyes on the Prize</i> with Michelle Kelley, PhD
 May 10, 2021
  
 <iframe src="[youtube video url]" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
