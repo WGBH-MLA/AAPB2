@@ -4,7 +4,7 @@ In collaboration with the [Society for Cinema and Media Studies](http://www.aca-
 
 ### Episode 01: <i>Eyes on the Prize</i> with Michelle Kelley, PhD
 May 10, 2021
- 
+
 <iframe src="[youtube video url]" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 In the first episode of “Presenting the Past,” film scholar Michelle Kelley highlights a collection of 127 unedited interviews conducted for the landmark PBS documentary series <i>Eyes on the Prize: America's Civil Rights Years, 1954–1965</i>, first broadcast in January 1987. Kelley provides context to the making of the series and explores examples of interviews that give different, yet valuable, perspectives on the civil rights movement than the one presented in the final cut of the series.
