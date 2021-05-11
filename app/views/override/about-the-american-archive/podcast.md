@@ -1,17 +1,17 @@
 # Presenting the Past: Exploring the American Archive of Public Broadcasting Podcast
 
-In collaboration with the [Society for Cinema and Media Studies](http://www.aca-media.org/) (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in American Archive of Public Broadcasting collection.
+<img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/Podcast_small.png" alt="Podcast Logo"/> In collaboration with the [Society for Cinema and Media Studies](http://www.aca-media.org/) (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in American Archive of Public Broadcasting collection.
 
 ### Episode 01: <i>Eyes on the Prize</i> with Michelle Kelley, PhD
 May 10, 2021
 
-<iframe src="[youtube video url]" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/14e5qV4jL04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the first episode of “Presenting the Past,” film scholar Michelle Kelley highlights a collection of 127 unedited interviews conducted for the landmark PBS documentary series <i>Eyes on the Prize: America's Civil Rights Years, 1954–1965</i>, first broadcast in January 1987. Kelley provides context to the making of the series and explores examples of interviews that give different, yet valuable, perspectives on the civil rights movement than the one presented in the final cut of the series.
 
-<i>Please be advised that archival content in this podcast includes outdated historic wording.</li>
+<i>Content warning: archival content contains descriptions of violence and racial slurs.</i>
 
-Content mentioned in this episode:
+Additional content mentioned in this episode:
 </p>
 <div>
 <ul class="override">
