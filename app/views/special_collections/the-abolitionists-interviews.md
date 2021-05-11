@@ -28,6 +28,7 @@
 - [Black Abolitionist Archive, University of Detroit](http://research.udmercy.edu/find/special_collections/digital/baa/)
 - [<em>From Slavery to Freedom: The African-American Pamphlet Collection 1822-1909</em>, Library of Congress](http://memory.loc.gov/ammem/aapchtml/aapchome.html)
 - [<em>The African American Odyssey: A Quest for Full Citizenship</em>, Library of Congress](https://www.loc.gov/exhibits/african-american-odyssey/abolition.html)
+- [<em>The Abolitionists</em>: Frederick Douglass, Pacifism, and Abolitionism, PBS Learning Media](https://mass.pbslearningmedia.org/resource/arct.socst.ush.ab226douglass/frederick-douglass-pacifism-and-abolitionism/)
 
 ## Funders
 
