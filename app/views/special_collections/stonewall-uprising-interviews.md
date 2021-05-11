@@ -28,7 +28,7 @@ The <em>Stonewall Uprising</em> interviews were conducted in 2011 for the <em>Am
 - [NYC LGBT Historic Sites Project](https://www.nyclgbtsites.org/theme/activism-before-stonewall/)
 - [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/)
 - [LGBTQ+ Studies Research Guide](https://www.loc.gov/rr/main/lgbtq/lgbtqgeneralguide/digitalcollections.html)
-- [PBS Learning Media](https://mass.pbslearningmedia.org/resource/arct.socst.ush.stonewall26march/stonewall-the-first-gay-pride-march/en/) Resources
+- [<em>Stonewall Uprising</em>: The Legacy of the Stonewall Riots, PBS Learning Media](https://mass.pbslearningmedia.org/resource/arct.socst.ush.stonewall27lives/the-legacy-of-the-stonewall-riots/)
 
 ## Funders
 
