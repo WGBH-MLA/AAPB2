@@ -29,7 +29,7 @@ The <em>1964</em> interviews were conducted in 2014 for the <em>American Experie
 - [<em>All The Way</em> Archival Resources, Lyndon B. Johnson Presidential Library](http://www.lbjlibrary.org/all-the-way-archival-resources)
 - [The Schlesinger Library at Harvard University's Radcliffe Institute](https://www.radcliffe.harvard.edu/schlesinger-library)
 - [<em>Eyes on the Prize</em> Special Collection](http://americanarchive.org/special_collections/eotp-i-interviews)
-- [PBS Learning Media](https://mass.pbslearningmedia.org/resource/amex26-soc-64gwater/1964-goldwater-and-the-new-conservatives/) Resources
+- [<em>1964</em>: "Goldwater and the New Conservatives", PBS Learning Media](https://mass.pbslearningmedia.org/resource/amex26-soc-64gwater/1964-goldwater-and-the-new-conservatives/)
 
 ## Funders
 
