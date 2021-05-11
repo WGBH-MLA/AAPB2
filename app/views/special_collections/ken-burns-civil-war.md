@@ -28,6 +28,7 @@ Ken Burns has been making films for almost forty years. Since the Academy Award 
 - [<em>The Civil War</em> on Ken Burns’ website](http://www.wnyc.org/series/archives-and-preservation/)
 - [Civil War Resources at the Library of Congress](https://www.loc.gov/rr/main/uscw_rec_links/civilwarlinks.html)
 - [Article on the 25th Anniversary of Ken Burns’ The Civil War](https://www.neh.gov/humanities/2015/septemberoctober/feature/the-civil-war-ken-burns-reinvented-the-television-history-d)
+- [<em>The Civil War</em> Resources on PBS Learning Media](https://mass.pbslearningmedia.org/collection/kenburnsclassroom/film/the-civil-war/)
 
 ## Funders
 
