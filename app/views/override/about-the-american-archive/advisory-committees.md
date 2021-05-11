@@ -21,7 +21,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 ### Current Education Advisory Committee Members
 
 **Franky Abbott**
-<br>Independent Education Consultant
+<br>Chief Content Strategist, Levine Museum of the New South, Charlotte, North Carolina
 
 **Tom Bober (EduAC Co-Chair)**
 <br>District Library Coordinator, School District of Clayton, MO
@@ -173,7 +173,7 @@ organizations, producers and leaders) and beyond <br>
 ### Current Stations and Producers Advisory Committee Members
 
 **Ernesto Aguilar (SPAC Co-Chair)**
-<br>Membership Program Director, National Federation of Community Broadcasters
+<br>Executive Director, National Federation of Community Broadcasters
 
 **Joanne Archer**
 <br>Head of Access and Outreach Services, University of Maryland

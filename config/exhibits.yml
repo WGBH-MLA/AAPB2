@@ -1,0 +1,21 @@
+# optional config for exhibits
+"eotp":
+  # preview:
+  #   # fills in og: tags for fb link preview
+  #   title: "Freedom Song: Interviews from Eyes on the Prize: America’s Civil Rights Years, 1954-1965"
+  #   description: "This curated collection features the unedited interviews conducted during the making of the landmark PBS documentary series Eyes on the Prize: America’s Civil Rights Years, 1954–1965 (1987)."
+  #   image: "https://s3.amazonaws.com/americanarchive.org/special-collections/EyesOnThePrize_Logo.jpg"
+  sections:
+  - "eotp/1-framing-civil-rights-past"
+  - "eotp/2-making-television-history"
+  - "eotp/3-timeline-of-events"
+  - "eotp/4-locating-the-movement"
+  - "eotp/5-interview-subjects"
+  - "eotp/5-1-local-people"
+  - "eotp/5-2-women"
+  - "eotp/5-3-organizational-activists"
+  - "eotp/5-4-officials"
+  - "eotp/5-5-media"
+  - "eotp/5-6-religious-leaders"
+  - "eotp/5-7-labor-business"
+  - "eotp/5-8-students-educators"

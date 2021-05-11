@@ -18,6 +18,21 @@
     float: left;
     margin-right: 10px;
   }
+
+  h3.spaced-h3 {
+    display: block;
+  }
+
+  p.spaced-paragraph {
+    display: block;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    min-height: 10vh;
+  }
+
+  p img.left-logo {
+    max-width: 100px;
+  }
 }
 
 h2.override, h3.override {
@@ -33,3 +48,4 @@ span.override {
   padding: 2%;
   width: 50%;
 }
+

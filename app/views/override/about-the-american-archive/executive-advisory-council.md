@@ -85,14 +85,6 @@ Senator Edward J. Markey (D-Mass.) is a national leader on telecommunications an
 ### Mary Minow
 Mary Minow is a Presidential Appointee to the National Museum and Library Services Board at the Institute of Museum and Library Services (IMLS). She is a Fellow at the Berkman Klein Center for Internet and Society at Harvard University, serves as a Board Member of the Digital Public Library of America (DPLA), and consultant to the American Library Association. Mary is an attorney, library law consultant, and former librarian.
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/morrisett_photo.jpg" alt="Lloyd Morrisett" aria-hidden="true"/>
-### Lloyd N. Morrisett
-Lloyd N. Morrisett served as President of The John and Mary R. Markle Foundation from 1969 to 1998. He initiated the Foundation's program in communications and information technology. Morrisett was Vice President of the Carnegie Corporation of New York and of the Carnegie Foundation for the Advancement of Teaching before going to Markle. While at Carnegie he worked with Ralph Tyler to help start the National Assessment of Educational Progress (NAEP). More than three decades ago he helped found the Sesame Workshop, producers of Sesame Street and other educational television programs for children. He was chairman of the Workshop board from 1968 until 2000; he continues as a board member.
-
-Morrisett was a board member of RAND (a research institute dealing with domestic public policy and national security issues) for thirty years and Chairman of the Board for nine years, 1986-1995.  He was a trustee, for many years, of Oberlin College and was Chairman of the Board from 1975 to 1981.
-	
-Dr. Morrisett received his B.A. at Oberlin College, did graduate work in psychology at U.C.L.A., and earned his Ph.D. in experimental psychology at Yale University.  Following his graduation from Yale he taught at the University of California at Berkeley for two years. 
-
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_John_Ptak.jpg" alt="John Ptak" aria-hidden="true"/>
 ### John Ptak
 John Ptak was born in San Diego, California. He began his career in the entertainment industry in 1968 when, after graduating from the University of California, Los Angeles, he joined the staff of The American Film Institute, where he was part of the team that established AFI's Center for Advanced Studies in Los Angeles. He worked thereafter as a Hollywood talent agent for 35 years, first at ICM and thereafter at William Morris and CAA, with an emphasis on directors, producers and independent films. He left CAA in 2006 to form Arsenal, which provides advisory services to film production companies and financiers.
@@ -222,6 +214,13 @@ Mr. Minow has written five books and numerous magazine articles.
 
 Mr. Minow and his wife, Josephine (Jo) live in Chicago. They have three daughters, Nell, Martha and Mary.
 
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/morrisett_photo.jpg" alt="Lloyd Morrisett" aria-hidden="true"/>
+### Lloyd N. Morrisett
+Lloyd N. Morrisett served as President of The John and Mary R. Markle Foundation from 1969 to 1998. He initiated the Foundation's program in communications and information technology. Morrisett was Vice President of the Carnegie Corporation of New York and of the Carnegie Foundation for the Advancement of Teaching before going to Markle. While at Carnegie he worked with Ralph Tyler to help start the National Assessment of Educational Progress (NAEP). More than three decades ago he helped found the Sesame Workshop, producers of Sesame Street and other educational television programs for children. He was chairman of the Workshop board from 1968 until 2000; he continues as a board member.
+
+Morrisett was a board member of RAND (a research institute dealing with domestic public policy and national security issues) for thirty years and Chairman of the Board for nine years, 1986-1995.  He was a trustee, for many years, of Oberlin College and was Chairman of the Board from 1975 to 1981.
+	
+Dr. Morrisett received his B.A. at Oberlin College, did graduate work in psychology at U.C.L.A., and earned his Ph.D. in experimental psychology at Yale University.  Following his graduation from Yale he taught at the University of California at Berkeley for two years. 
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Cokie_Roberts.jpg" alt="Cokie Roberts" aria-hidden="true"/>
 ### Cokie Roberts
