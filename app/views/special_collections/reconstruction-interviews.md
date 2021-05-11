@@ -27,6 +27,7 @@ The <em>Reconstruction</em> interviews were conducted in 2004 for the <em>Americ
 - [<em>From Slavery to Freedom: The African-American Pamphlet Collection 1822-1909</em>, Library of Congress](http://memory.loc.gov/ammem/aapchtml/aapchome.html)
 - [<em>First-Person Narratives of the American South, 1860-1920</em>, University of North Carolina at Chapel Hill](http://docsouth.unc.edu/fpn/)
 - [Reconstruction Timeline](http://www.digitalhistory.uh.edu/exhibits/reconstruction/timeline.html)
+- [<em>Reconstruction: The Second Civil War</em> - State By State, PBS Learning Media](https://mass.pbslearningmedia.org/resource/arct14.soc.amexrecsta/reconstruction-the-second-civil-war-state-by-state/)
 
 ## Funders
 
