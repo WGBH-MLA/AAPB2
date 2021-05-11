@@ -28,6 +28,7 @@ The <em>John Brown's Holy War</em> interviews were conducted in 2000 for the <em
 - [West Virginia Division of Culture and History Exhibit](http://www.wvculture.org/history/jbexhibit/jbintroduction.html)
 - [John Brown/Boyd B. Stutler Collection Database, West Virginia Memory Project](http://www.wvculture.org/history/wvmemory/imlsintro.html)
 - [Black Abolitionist Archive at University of Detroit Mercy](http://libraries.udmercy.edu/archives/special-collections/index.php?collectionCode=baa)
+- [<em>John Brown's Holy War</em> - John Brown's Fort, PBS Learning Media](https://mass.pbslearningmedia.org/resource/arct14.ela.amexjbhfor/john-browns-holy-war-john-browns-fort/)
 
 ## Funders
 
