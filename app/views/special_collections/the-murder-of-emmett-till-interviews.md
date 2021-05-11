@@ -28,7 +28,7 @@
 - [Emmett Till FBI Records](https://vault.fbi.gov/Emmett%20Till%20/)
 - [Emmett Till Archives, Florida State University](http://guides.lib.fsu.edu/Till)
 - [Civil Rights History Project, Library of Congress](https://www.loc.gov/collections/civil-rights-history-project/?q=emmett+till)
-- [<em>The Murder of Emmett Till</em> Teaching Tips, PBS Learning Media](https://mass.pbslearningmedia.org/resource/rttt12.soc.civil.people.emmetttill/the-murder-of-emmett-till/)
+- [<em>The Murder of Emmett Till</em> Teacher Resources, PBS Learning Media](https://mass.pbslearningmedia.org/resource/rttt12.soc.civil.people.emmetttill/the-murder-of-emmett-till/)
 
 ## Funders
 
