@@ -1,6 +1,6 @@
 # Presenting the Past: Exploring the American Archive of Public Broadcasting Podcast
 
-<img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/Podcast_small.png" alt="Podcast Logo"/> In collaboration with the [Society for Cinema and Media Studies](http://www.aca-media.org/) (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in American Archive of Public Broadcasting collection.
+<img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/Podcast_small.png" alt="Podcast Logo"/> In collaboration with the [Society for Cinema and Media Studies](https://www.cmstudies.org/) (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 
 ### Episode 01: <i>Eyes on the Prize</i> with Michelle Kelley, PhD
 May 10, 2021
