@@ -3,11 +3,10 @@
 The American Archive of Public Broadcasting (AAPB) collaborates with educational and cultural organizations across the nation, as well as libraries and archives to share in the effort of providing access to historic records. The AAPB is pleased to collaborate with the following organizations:
 
 
-<h3>Digital Public Library of America</h3>
-<p class="spaced-paragraph">
-  <img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/DPLA_logo.png" alt="DLPA Logo Image"/>
-  The <a href="https://dp.la">Digital Public Library of America</a> amplifies the value of libraries and cultural organizations as Americans’ most trusted sources of shared knowledge. The AAPB has made items searchable in the DPLA, and you can find historic items from the AAPB in their primary source sets.
-</p>
+### Digital Public Library of America
+
+<img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/DPLA_logo.png" alt="DLPA Logo Image"/>
+The <a href="https://dp.la">Digital Public Library of America</a> amplifies the value of libraries and cultural organizations as Americans’ most trusted sources of shared knowledge. The AAPB has made items searchable in the DPLA, and you can find historic items from the AAPB in their primary source sets.
 
 <h3>National Council for the Social Studies</h3>
 <p class="spaced-paragraph">

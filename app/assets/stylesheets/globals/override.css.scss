@@ -3,7 +3,7 @@
 .override-main {
   p:first-child {
     // Special handling for the banner image.
-    margin: 0px;
+    /*margin: 0px;*/
     
     &:after {
       content: "";
