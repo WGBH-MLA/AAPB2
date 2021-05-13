@@ -11,10 +11,11 @@ In the first episode of “Presenting the Past,” film scholar Michelle Kelley 
 
 <i>Content warning: archival content contains descriptions of violence and racial slurs.</i>
 
-Additional content mentioned in this episode:
-
 <div>
-<ul class="override">
+
+<span>Additional content mentioned in this episode:</span><br>
+
+<ul class="override" style="margin-top: 0.1em;">
  <li><a href=http://www.aca-media.org>Aca-Media</a></li>
  <li><a href=https://americanarchive.org/exhibits/eotp>Freedom Song: Interviews from <i>Eyes on the Prize: America’s Civil Rights Years, 1954-1965</i></a> Exhibit</li>
  <li><a href=https://americanarchive.org/special_collections/eotp-i-interviews><i>Eyes on the Prize I</i> Interviews Collection</a> contributed by the Film & Media Archive at Washington University</li>
