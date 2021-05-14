@@ -22,7 +22,7 @@ Post-production and theme music by Todd Thompson<br>
 <span>Additional content mentioned in this episode:</span><br>
 
 <ul class="override" style="margin-top: 0.1em;">
- <li><a href=http://www.aca-media.org>Aca-Media</a> Podcast</li>
+ <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
  <li><a href=https://americanarchive.org/exhibits/eotp>Freedom Song: Interviews from <i>Eyes on the Prize: America’s Civil Rights Years, 1954-1965</i></a> Exhibit</li>
  <li><a href=https://americanarchive.org/special_collections/eotp-i-interviews><i>Eyes on the Prize I</i> Interviews Collection</a> contributed by the Film & Media Archive at Washington University</li>
  <li><a href=https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=America%2C+They+Loved+You+Madly&f[access_types][]=online><i>America, They Loved You Madly</i></a> interviews</li>
