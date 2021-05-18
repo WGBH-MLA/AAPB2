@@ -1,11 +1,11 @@
-# Educational Activities
+# Educational Activities <a id="beginning"></a>
 
-### Suggested Exhibit Activities Based on the Speaking and Protesting in America Exhibit
+## Suggested Exhibit Activities Based on the Speaking and Protesting in America Exhibit
 The suggested activities and assignments below were developed by members of the AAPB Education Advisory Committee in 2020 while the pandemic was transforming the educational landscape. Therefore, most of the activities and assignments are best suited for middle to high school and can be completed as asynchronous activities, or as parts of a synchronous curriculum.
 
 For additional assignment ideas, download the AAPB Student Inquiry Guide (TBD) developed by the AAPB [Scholar Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) in 2019, and be sure to download the AAPB Navigation Guide (TBD) for helpful tips on making the most of your search results and step-by-step instructions for how to share/embed items in the AAPB.
 
-### Activity 1: Primary Sources need Historical Context
+> **Activity 1: Primary Sources need Historical Context**
 #### Introduce students to the background of the exhibit topic and theme
 Providing historical context for students helps them to properly interpret primary sources highlighted in the exhibit. For example, students would benefit from knowledge about the Vietnam Antiwar Movement and the events at Kent State before listening to a program about the Jackson State Killings. You may already have lessons and activities that can provide students with relevant historical background, but the AAPB exhibits also feature efficient summaries of relevant historical context that students could read.
 
@@ -13,7 +13,7 @@ Providing historical context for students helps them to properly interpret prima
 
 Whatever method you use, make sure students have some background knowledge about the time period and themes so they can make connections between the primary sources on AAPB and their historical context.
 
-### Activity 2: Encourage Students to “Interact and React”
+> **Activity 2: Encourage Students to “Interact and React”**
 #### Encourage students to self-direct their engagement with the collection
 The AAPB provides a wealth of primary sources that are often organized around broad but coherent themes.  Thus, you can allow each student to be self-directed and identify a clip from a given exhibit or collection, while still knowing that the class will be collectively exploring common ideas. Remind students not to just click the first link they see and start listening. Instead, encourage them to think about which social movement interests them the most.  They also might want to read the description or skim the transcription for a given clip before they start listening.
 
@@ -31,7 +31,7 @@ Next, guide students’ focus while listening to the clip. Since the interview s
 
 You could simply encourage students to take notes with these questions in mind, or if you want to give your students more structure, you could provide students with this graphic organizer.
 
-### Activity 3: Prompt Analysis
+> **Activity 3: Prompt Analysis**
 #### Write a Blog
 In order to provide students a venue in which to analyze, reflect upon, and respond to their interview, a great activity would be to have each student craft a blog post. 
 
@@ -58,7 +58,7 @@ Additionally, the blog post should analyze or reflect upon the interview in some
   </ul>
 </div>  
 
-### Group Activity 4: Open Discussion - Synthesis and Reflection
+> **Group Activity 4: Open Discussion - Synthesis and Reflection**
 #### Peer review assignments
 Students are motivated to produce stronger writing when they know their peers will read it. Additionally, reading other students’ blogs will facilitate broader exposure to the various social movements of the era.  For example, Student A who listened to an interview of a Black Freedom struggle activist can learn more about the Women’s Liberation and American Indian Movements from a project written by Student B.
 
@@ -74,7 +74,8 @@ When students write comments, the goal should not be to argue with or criticize 
   </ul>
 </div> 
 
-### Extension Activity 5: Synthesis and Reflection continued
+> **Extension Activity 5: Synthesis and Reflection continued**
+>
 Allow students to synthesize what they learned from writing and reading the blogs. If you meet synchronously with your classes, build a discussion that allows students to compare, contrast, reflect, analyze, and relate what they learned to the present. If you meet asynchronously, have students write a private reflection, another blog post, or post on a discussion board.
 
 <b>Example assignment</b>: a here would be some interesting questions for students to consider
