@@ -2,6 +2,14 @@
 
 Read about about AAPB's new collections, exhibits and projects below.
 
+## May 2021
+
+### New Special Collections
+Explore two new collections launched in the AAPB this month. The [Jean Walkinshaw Collection](https://americanarchive.org/special_collections/jean-walkinshaw) features over 210 records of documentaries and interviews produced for Seattle public television station KCTS by the award-winning documentarian and producer Jean Walkinshaw, and the [*Friday Night Jazz with Reuben Jackson* collection](https://americanarchive.org/special_collections/fridaynightjazz) features 145 three-hour programs from the popular Vermont Public Radio (VPR) weekly series, with 17 programs selected for online access by the host himself.
+
+### AAPB Podcast
+In collaboration with the Society for Cinema and Media Studies (SCMS), the AAPB launches [“Presenting the Past,”](https://americanarchive.org/about-the-american-archive/podcast) a podcast series of informed conversations about significant events, issues, and topics documented in the more than 70 years of programming available in the AAPB collection. The first episode of “Presenting the Past” features film scholar Michelle Kelley, highlighting a collection of 127 unedited interviews conducted for the landmark PBS documentary series *Eyes on the Prize: America's Civil Rights Years, 1954–1965* (1987).
+
 ## April 2021
 
 ### New Exhibit
