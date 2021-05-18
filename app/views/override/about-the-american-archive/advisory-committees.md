@@ -49,9 +49,6 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Kristin Lehner**
 <br>Director, Secondary Education Content & Curriculum Strategy, PBS Education
 
-**Sherry Levitt**
-<br>Executive Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
-
 **Lawrence M. Paska, Ph.D**
 <br>Executive Director, National Council for the Social Studies
 
@@ -63,14 +60,8 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Jen Reidel**
 <br>Social Studies Teacher 9-12, Bellingham School District, WA
 
-**Ted Sicker**
-<br>Executive Producer, Education, GBH
-
 **Nate Sleeter**
 <br>Research Assistant Professor, Roy Rosenzweig Center for History and New Media, George Mason University
-
-**Dr. Cynthia Szwajkowski, Ph.D**
-<br>Assistant Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
 
 ---
 
