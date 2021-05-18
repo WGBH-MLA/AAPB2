@@ -3,7 +3,7 @@
 Read about about AAPB's new collections, exhibits and projects below.
 
 ## May 2021
-
+ 
 ### New Special Collections
 Two new collections launched in the AAPB this month. The [Jean Walkinshaw Collection](https://americanarchive.org/special_collections/jean-walkinshaw) features over 210 records of documentaries and interviews produced for Seattle public television station KCTS by the award-winning documentarian and producer Jean Walkinshaw, and the [*Friday Night Jazz with Reuben Jackson* collection](https://americanarchive.org/special_collections/fridaynightjazz) features 145 three-hour programs from the popular Vermont Public Radio (VPR) weekly series, with 17 programs selected for online access by the host himself.
 
