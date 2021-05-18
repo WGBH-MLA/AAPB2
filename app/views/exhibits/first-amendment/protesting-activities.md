@@ -1,4 +1,4 @@
-## Educational Activities
+# Educational Activities
 
 ### Suggested Exhibit Activities Based on the Speaking and Protesting in America Exhibit
 The suggested activities and assignments below were developed by members of the AAPB Education Advisory Committee in 2020 while the pandemic was transforming the educational landscape. Therefore, most of the activities and assignments are best suited for middle to high school and can be completed as asynchronous activities, or as parts of a synchronous curriculum.
