@@ -1,9 +1,13 @@
-# Educational Activities <a id="beginning"></a>
+# Educational Activities
 
-## Suggested Exhibit Activities Based on the Speaking and Protesting in America Exhibit
+## Summary
+
+### Suggested Exhibit Activities Based on the Speaking and Protesting in America Exhibit
 The suggested activities and assignments below were developed by members of the AAPB Education Advisory Committee in 2020 while the pandemic was transforming the educational landscape. Therefore, most of the activities and assignments are best suited for middle to high school and can be completed as asynchronous activities, or as parts of a synchronous curriculum.
 
 For additional assignment ideas, download the AAPB Student Inquiry Guide (TBD) developed by the AAPB [Scholar Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) in 2019, and be sure to download the AAPB Navigation Guide (TBD) for helpful tips on making the most of your search results and step-by-step instructions for how to share/embed items in the AAPB.
+
+## Extended
 
 > **Activity 1: Primary Sources need Historical Context**
 #### Introduce students to the background of the exhibit topic and theme
@@ -87,3 +91,15 @@ Allow students to synthesize what they learned from writing and reading the blog
     <li>How are these protest movements similar or different to some protest movements that you see today?</li>
   </ul>
 </div> 
+
+#### Next: [Protesting in 1980s and Beyond](/exhibits/first-amendment/protests-80s-andbeyond)
+
+## Resources
+
+## Main
+
+## Cover
+
+## Gallery
+
+## Records
