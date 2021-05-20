@@ -8,7 +8,7 @@ For additional assignment ideas, download the AAPB Student Inquiry Guide (TBD) d
 
 ## Extended
 
-> **####Activity 1: Primary Sources need Historical Context**
+**####Activity 1: Primary Sources need Historical Context**
 Introduce students to the background of the exhibit topic and theme
 Providing historical context for students helps them to properly interpret primary sources highlighted in the exhibit. For example, students would benefit from knowledge about the Vietnam Antiwar Movement and the events at Kent State before listening to a program about the Jackson State Killings. You may already have lessons and activities that can provide students with relevant historical background, but the AAPB exhibits also feature efficient summaries of relevant historical context that students could read.
 
@@ -34,7 +34,7 @@ Next, guide students’ focus while listening to the clip. Since the interview s
 
 You could simply encourage students to take notes with these questions in mind, or if you want to give your students more structure, you could provide students with this graphic organizer.
 
-> **Activity 3: Prompt Analysis**
+**Activity 3: Prompt Analysis**
 #### Write a Blog
 In order to provide students a venue in which to analyze, reflect upon, and respond to their interview, a great activity would be to have each student craft a blog post. 
 
@@ -61,7 +61,7 @@ Additionally, the blog post should analyze or reflect upon the interview in some
   </ul>
 </div>  
 
-> **Group Activity 4: Open Discussion - Synthesis and Reflection**
+**Group Activity 4: Open Discussion - Synthesis and Reflection**
 #### Peer review assignments
 Students are motivated to produce stronger writing when they know their peers will read it. Additionally, reading other students’ blogs will facilitate broader exposure to the various social movements of the era.  For example, Student A who listened to an interview of a Black Freedom struggle activist can learn more about the Women’s Liberation and American Indian Movements from a project written by Student B.
 
@@ -77,7 +77,7 @@ When students write comments, the goal should not be to argue with or criticize 
   </ul>
 </div> 
 
-> **Extension Activity 5: Synthesis and Reflection continued**
+**Extension Activity 5: Synthesis and Reflection continued**
 >
 Allow students to synthesize what they learned from writing and reading the blogs. If you meet synchronously with your classes, build a discussion that allows students to compare, contrast, reflect, analyze, and relate what they learned to the present. If you meet asynchronously, have students write a private reflection, another blog post, or post on a discussion board.
 
