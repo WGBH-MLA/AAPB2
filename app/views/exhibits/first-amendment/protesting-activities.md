@@ -1,16 +1,15 @@
-# Educational Activities
+# Suggested Exhibit Activities Based on the Speaking and Protesting in America Exhibit
 
 ## Summary
 
-### Suggested Exhibit Activities Based on the Speaking and Protesting in America Exhibit
 The suggested activities and assignments below were developed by members of the AAPB Education Advisory Committee in 2020 while the pandemic was transforming the educational landscape. Therefore, most of the activities and assignments are best suited for middle to high school and can be completed as asynchronous activities, or as parts of a synchronous curriculum.
 
 For additional assignment ideas, download the AAPB Student Inquiry Guide (TBD) developed by the AAPB [Scholar Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) in 2019, and be sure to download the AAPB Navigation Guide (TBD) for helpful tips on making the most of your search results and step-by-step instructions for how to share/embed items in the AAPB.
 
 ## Extended
 
-> **Activity 1: Primary Sources need Historical Context**
-#### Introduce students to the background of the exhibit topic and theme
+> **####Activity 1: Primary Sources need Historical Context**
+Introduce students to the background of the exhibit topic and theme
 Providing historical context for students helps them to properly interpret primary sources highlighted in the exhibit. For example, students would benefit from knowledge about the Vietnam Antiwar Movement and the events at Kent State before listening to a program about the Jackson State Killings. You may already have lessons and activities that can provide students with relevant historical background, but the AAPB exhibits also feature efficient summaries of relevant historical context that students could read.
 
 <b>Example assignment</b>: The Speaking and Protesting in America exhibit features treatments of a number of New Left social movements on the Exhibit Overview Page and the Protesting in the 1960s and 1970s page.  Assign these pages as a reading and/or test comprehension by asking students to share why they think one of the programs in the exhibit was chosen to be included, and what its significance might be.
