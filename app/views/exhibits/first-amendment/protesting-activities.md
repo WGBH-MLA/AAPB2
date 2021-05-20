@@ -8,7 +8,8 @@ For additional assignment ideas, download the AAPB Student Inquiry Guide (TBD) d
 
 ## Extended
 
-**####Activity 1: Primary Sources need Historical Context**
+####Activity 1: Primary Sources need Historical Context
+
 Introduce students to the background of the exhibit topic and theme
 Providing historical context for students helps them to properly interpret primary sources highlighted in the exhibit. For example, students would benefit from knowledge about the Vietnam Antiwar Movement and the events at Kent State before listening to a program about the Jackson State Killings. You may already have lessons and activities that can provide students with relevant historical background, but the AAPB exhibits also feature efficient summaries of relevant historical context that students could read.
 
@@ -16,7 +17,7 @@ Providing historical context for students helps them to properly interpret prima
 
 Whatever method you use, make sure students have some background knowledge about the time period and themes so they can make connections between the primary sources on AAPB and their historical context.
 
-> **Activity 2: Encourage Students to “Interact and React”**
+Activity 2: Encourage Students to “Interact and React”
 #### Encourage students to self-direct their engagement with the collection
 The AAPB provides a wealth of primary sources that are often organized around broad but coherent themes.  Thus, you can allow each student to be self-directed and identify a clip from a given exhibit or collection, while still knowing that the class will be collectively exploring common ideas. Remind students not to just click the first link they see and start listening. Instead, encourage them to think about which social movement interests them the most.  They also might want to read the description or skim the transcription for a given clip before they start listening.
 
