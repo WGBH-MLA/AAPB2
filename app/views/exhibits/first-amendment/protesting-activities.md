@@ -26,10 +26,10 @@ The AAPB provides a wealth of primary sources that are often organized around br
 Next, guide students’ focus while listening to the clip. Since the interview subjects in this exhibit are usually activists, ask students to listen for moments in the interviews that speak to these questions:
 <div>
   <ul class="override">
-    <li>How does the speaker describe the social problems that their social movement is trying to address?</li>
-    <li>What are some of the goals that the speaker articulates?</li>
-    <li>What are some of the tactics that the speaker argues should be used to achieve those goals?</li>
-    <li>What are some of the beliefs and values expressed by the speaker?</li>
+    <li class="small-font">How does the speaker describe the social problems that their social movement is trying to address?</li>
+    <li class="small-font">What are some of the goals that the speaker articulates?</li>
+    <li class="small-font">What are some of the tactics that the speaker argues should be used to achieve those goals?</li>
+    <li class="small-font">What are some of the beliefs and values expressed by the speaker?</li>
   </ul>
 </div>
 
@@ -43,10 +43,10 @@ In order to provide students a venue in which to analyze, reflect upon, and resp
 > Example assignment: Ask students to write a blog that other students in the class will read. You can decide on the appropriate blog length, but it would be a good idea if the blog includes the following components:
 <div>
   <ul class="override">
-    <li>A title that introduces the focus of the blog post.</li>
-    <li>A link to the interview on the AAPB website.</li>
-    <li>A brief introduction to the main speaker(s) in the clip as well as the protest movement in which they participated.</li>
-    <li>A brief summary of the key points that the speaker was making.</li>
+    <li class="small-font">A title that introduces the focus of the blog post.</li>
+    <li class="small-font">A link to the interview on the AAPB website.</li>
+    <li class="small-font">A brief introduction to the main speaker(s) in the clip as well as the protest movement in which they participated.</li>
+    <li class="small-font">A brief summary of the key points that the speaker was making.</li>
   </ul>
 </div>
 
@@ -56,10 +56,10 @@ For the brief summary, each student’s notes should supply them with examples o
 Additionally, the blog post should analyze or reflect upon the interview in some way. Here are some suggested prompts that students could choose from for this section of the blog. Students would only respond to ONE of the following:
 <div>
   <ul class="override">
-    <li>How can you relate the social critiques, goals, tactics, and ideological perspectives in this interview to the broader social movement they were a part of? How are the views expressed here typical (or atypical) of views of activists in this era?</li>
-    <li>Do you personally find the speaker to be persuasive? Why or why not?</li>
-    <li>What are some of your personal feelings or experiences in regard to the social issues that the speaker is discussing?</li>
-    <li>Can you compare something in this clip to a modern-day protest movement (e.g. #BlackLivesMatter, #MeToo)? How are they similar or different?</li>
+    <li class="small-font">How can you relate the social critiques, goals, tactics, and ideological perspectives in this interview to the broader social movement they were a part of? How are the views expressed here typical (or atypical) of views of activists in this era?</li>
+    <li class="small-font">Do you personally find the speaker to be persuasive? Why or why not?</li>
+    <li class="small-font">What are some of your personal feelings or experiences in regard to the social issues that the speaker is discussing?</li>
+    <li class="small-font">Can you compare something in this clip to a modern-day protest movement (e.g. #BlackLivesMatter, #MeToo)? How are they similar or different?</li>
   </ul>
 </div>  
 
@@ -72,10 +72,10 @@ Students are motivated to produce stronger writing when they know their peers wi
 When students write comments, the goal should not be to argue with or criticize another student’s blog.  Instead, a comment is “continuing the conversation” that started in the blog. Thus, a comment should follow a format like:
 <div>
   <ul class="override">
-    <li>“I found it interesting that…”</li>
-    <li>“I think it’s really important that…”</li>
-    <li>"This reminded me of when we learned about…”</li>
-    <li>“This is similar to today in that…”</li>
+    <li class="small-font">“I found it interesting that…”</li>
+    <li class="small-font">“I think it’s really important that…”</li>
+    <li class="small-font">"This reminded me of when we learned about…”</li>
+    <li class="small-font">“This is similar to today in that…”</li>
   </ul>
 </div> 
 
@@ -86,10 +86,10 @@ Allow students to synthesize what they learned from writing and reading the blog
 > Example assignment: a here would be some interesting questions for students to consider
 <div>
   <ul class="override">
-    <li>What are some similarities between the different protest movements of the 1960s and 1970s?  What are some differences? (Think about the social critiques, goals, tactics, and ideological perspectives of the different movements)</li>
-    <li>What makes a protest movement effective? What makes a protest movement ineffective?</li>
-    <li>Based on what you know of modern society, do you think these protest movements were effective?  What changes have there been in American life that might credit to these protest movements? Alternatively, what are some ways that you think America hasn’t changed?</li>
-    <li>How are these protest movements similar or different to some protest movements that you see today?</li>
+    <li class="small-font">What are some similarities between the different protest movements of the 1960s and 1970s?  What are some differences? (Think about the social critiques, goals, tactics, and ideological perspectives of the different movements)</li>
+    <li class="small-font">What makes a protest movement effective? What makes a protest movement ineffective?</li>
+    <li class="small-font">Based on what you know of modern society, do you think these protest movements were effective?  What changes have there been in American life that might credit to these protest movements? Alternatively, what are some ways that you think America hasn’t changed?</li>
+    <li class="small-font">How are these protest movements similar or different to some protest movements that you see today?</li>
   </ul>
 </div> 
 
@@ -100,7 +100,7 @@ Allow students to synthesize what they learned from writing and reading the blog
 ## Main
 
 ## Cover
-<img title="Learning Activities" alt="Learning Activities" src="https://s3.amazonaws.com/americanarchive.org/exhibits/first-amendment/learning_activities.png">
+<img title="Learning Activities" alt="Learning Activities" src="https://s3.amazonaws.com/americanarchive.org/exhibits/first-amendment/`learning_activities.png">
 
 ## Gallery
 
