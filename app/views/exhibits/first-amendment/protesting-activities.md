@@ -100,7 +100,7 @@ Allow students to synthesize what they learned from writing and reading the blog
 ## Main
 
 ## Cover
-<img title="Learning Activities" alt="Learning Activities" src="https://s3.amazonaws.com/americanarchive.org/exhibits/first-amendment/`learning_activities.png">
+<img title="Learning Activities" alt="Learning Activities" src="https://s3.amazonaws.com/americanarchive.org/exhibits/first-amendment/learning_activities.png">
 
 ## Gallery
 
