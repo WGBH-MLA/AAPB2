@@ -35,8 +35,8 @@ Next, guide students’ focus while listening to the clip. Since the interview s
 
 You could simply encourage students to take notes with these questions in mind, or if you want to give your students more structure, you could provide students with this graphic organizer.
 
-### Activity 3: Write a Blog
-#### Prompt Analysis
+### Activity 3: Prompt Analysis
+#### Write a Blog
 
 In order to provide students a venue in which to analyze, reflect upon, and respond to their interview, a great activity would be to have each student craft a blog post. 
 
@@ -63,8 +63,8 @@ Additionally, the blog post should analyze or reflect upon the interview in some
   </ul>
 </div>  
 
-### Group Activity 4: Peer Review Assignments
-#### Open Discussion - Synthesis and Reflection
+### Group Activity 4: Open Discussion - Synthesis and Reflection
+#### Peer Review Assignments
 Students are motivated to produce stronger writing when they know their peers will read it. Additionally, reading other students’ blogs will facilitate broader exposure to the various social movements of the era.  For example, Student A who listened to an interview of a Black Freedom struggle activist can learn more about the Women’s Liberation and American Indian Movements from a project written by Student B.
 
 > Example assignment: assign students to read and comment upon a given number of their peers’ blogs. You could encourage or require students to choose blogs that concern different protest movements.
