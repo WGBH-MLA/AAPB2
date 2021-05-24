@@ -2,7 +2,7 @@
 
 ## Summary
 
-The suggested activities and assignments below were developed by members of the AAPB Education Advisory Committee in 2020 while the pandemic was transforming the educational landscape. Therefore, most of the activities and assignments are best suited for middle to high school and can be completed as asynchronous activities, or as parts of a synchronous curriculum.
+The suggested activities and assignments below were developed by Benjamin Leff, member of the AAPB [Education Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) in 2020 while the pandemic was transforming the educational landscape. Therefore, most of the activities and assignments are best suited for middle to high school and can be completed as asynchronous activities, or as parts of a synchronous curriculum.
 
 For additional assignment ideas, download the AAPB Student Inquiry Guide (TBD) developed by the AAPB [Scholar Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) in 2019, and be sure to download the AAPB Navigation Guide (TBD) for helpful tips on making the most of your search results and step-by-step instructions for how to share/embed items in the AAPB.
 
@@ -51,7 +51,7 @@ In order to provide students a venue in which to analyze, reflect upon, and resp
 For the brief summary, each student’s notes should supply them with examples of social problems, goals, and tactics identified by the speaker, as well as the speaker’s ideological perspective.  (Tip: if there is a particularly powerful moment from the interview, students could embed a link using the 
 “Share a segment” tool).
 
-> Additionally, the blog post should analyze or reflect upon the interview in some way. Here are some suggested prompts that students could choose from for this section of the blog. Students would only respond to ONE of the following:
+Additionally, the blog post should analyze or reflect upon the interview in some way. Here are some suggested prompts that students could choose from for this section of the blog. Students would only respond to ONE of the following:
 <div>
   <ul class="override">
     <li>How can you relate the social critiques, goals, tactics, and ideological perspectives in this interview to the broader social movement they were a part of? How are the views expressed here typical (or atypical) of views of activists in this era?</li>
