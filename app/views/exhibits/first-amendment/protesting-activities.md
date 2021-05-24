@@ -63,7 +63,7 @@ Additionally, the blog post should analyze or reflect upon the interview in some
   </ul>
 </div>  
 
-### Group Activity 4: Peer review assignments
+### Group Activity 4: Peer Review Assignments
 #### Open Discussion - Synthesis and Reflection
 Students are motivated to produce stronger writing when they know their peers will read it. Additionally, reading other students’ blogs will facilitate broader exposure to the various social movements of the era.  For example, Student A who listened to an interview of a Black Freedom struggle activist can learn more about the Women’s Liberation and American Indian Movements from a project written by Student B.
 
