@@ -1,8 +1,5 @@
 # Suggested Learning Activities
 
-## Cover
-<img title="Learning Activities" alt="Learning Activities" src="https://s3.amazonaws.com/americanarchive.org/exhibits/learning_activites.jpg">
-
 <img src="https://s3.amazonaws.com/americanarchive.org/exhibits/learning_activites.png" style="float: right; width: 30%;">
 
 ## Summary
@@ -103,6 +100,7 @@ Allow students to synthesize what they learned from writing and reading the blog
 ## Main
 
 ## Cover
+<img title="Learning Activities" alt="Learning Activities" src="https://s3.amazonaws.com/americanarchive.org/exhibits/learning_activites.jpg">
 
 ## Gallery
 
