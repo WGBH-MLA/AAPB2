@@ -2,7 +2,9 @@
 
 ## Summary
 
-The suggested activities and assignments below were developed by Benjamin Leff, member of the AAPB [Education Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) in 2020 while the pandemic was transforming the educational landscape. Therefore, most of the activities and assignments are best suited for middle to high school and can be completed as asynchronous activities, or as parts of a synchronous curriculum.
+<img src="https://s3.amazonaws.com/americanarchive.org/exhibits/first-amendment/learning_activities.png" style="float: right; width: 50%;">
+
+The suggested activities and assignments below were developed in 2020 by Benjamin Leff, Social Studies Teaching Associate at the University Laboratory High School, Urbana, IL and member of the AAPB [Education Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) while the pandemic was transforming the educational landscape. Therefore, most of the activities and assignments are best suited for middle to high school and can be completed as asynchronous activities, or as parts of a synchronous curriculum.
 
 For additional assignment ideas, download the AAPB Student Inquiry Guide (TBD) developed by the AAPB [Scholar Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) in 2019, and be sure to download the AAPB Navigation Guide (TBD) for helpful tips on making the most of your search results and step-by-step instructions for how to share/embed items in the AAPB.
 
