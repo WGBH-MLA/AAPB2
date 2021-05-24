@@ -23,7 +23,7 @@ The AAPB provides a wealth of primary sources that are often organized around br
 
 > Example assignment: Direct students to find a clip in the Speaking and Protesting in America that interests them. The Protesting in the 1960s and 1970s page includes a number of clips which are either embedded into the paragraphs in the [“Fight Against Racism and Injustice”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) and [“The New Left: Student Protests, Vietnam, and Women’s Liberation”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) sections, or in the [“Tour Our Resources”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) lists. 
 
-> Next, guide students’ focus while listening to the clip. Since the interview subjects in this exhibit are usually activists, ask students to listen for moments in the interviews that speak to these questions:
+Next, guide students’ focus while listening to the clip. Since the interview subjects in this exhibit are usually activists, ask students to listen for moments in the interviews that speak to these questions:
 <div>
   <ul class="override">
     <li>How does the speaker describe the social problems that their social movement is trying to address?</li>
