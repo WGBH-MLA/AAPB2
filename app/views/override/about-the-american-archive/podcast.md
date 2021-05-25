@@ -10,7 +10,7 @@ May 10, 2021<br>
 Episode description:<br>
 In the first episode of “Presenting the Past,” film scholar Michelle Kelley highlights a collection of 127 unedited interviews conducted for the landmark PBS documentary series <i>Eyes on the Prize: America's Civil Rights Years, 1954–1965</i>, first broadcast in January 1987. Kelley provides context to the making of the series and explores examples of interviews that give different, yet valuable, perspectives on the civil rights movement than the one presented in the final cut of the series.
 
-<i>Content warning: archival content contains descriptions of violence and racial slurs.</i>
+<i>Content warning: this archival content contains descriptions of violence and racial slurs.</i>
 
 Credits:<br>
 Hosted, recorded, and edited by Christine Becker<br>
