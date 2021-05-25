@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /catalog?
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
