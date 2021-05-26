@@ -19,11 +19,3 @@ EOF
     end
   end
 end
-
-
-
-# User-agent: Neevabot
-# Disallow: /
-
-# User-agent: MauiBot
-# Disallow: /
