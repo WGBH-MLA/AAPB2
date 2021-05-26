@@ -31,7 +31,7 @@ In 2019 SCCtv began digitizing materials produced by Jean Walkinshaw, which were
 
 ## Resources
 
-- [Jean Walkinshaw Video Collection, Archives West](http://archiveswest.orbiscascade.org/ark:/80444/xv23019)
+- [Jean Walkinshaw Films and Videos, 1966-2003, University of Washington](http://archiveswest.orbiscascade.org/ark:/80444/xv502074/op=fstyle.aspx?t=k&q=jean+walkinshaw)
 - [Jean Walkinshaw Papers, University of Washington](https://www.lib.washington.edu/static/public/specialcollections/findingaids/5340-001.pdf)
 - [Walter and Jean Walkinshaw Papers, Truman Library, National Archives](https://www.trumanlibrary.gov/library/personal-papers/walter-and-jean-walkinshaw-papers)
 - [Processing the Jean Walkinshaw Moving Image Collection, University of Washington](https://ischool.uw.edu/capstone/projects/2018/processing-jean-walkinshaw-moving-image-collection)
