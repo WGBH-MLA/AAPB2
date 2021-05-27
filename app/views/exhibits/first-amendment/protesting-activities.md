@@ -11,7 +11,7 @@ The suggested activities and assignments below were developed in 2020 by Benjami
 
 Providing historical context for students helps them to properly interpret primary sources highlighted in the exhibit. For example, students would benefit from knowledge about the Vietnam Antiwar Movement and the events at Kent State before listening to a program about the Jackson State Killings. You may already have lessons and activities that can provide students with relevant historical background, but the AAPB exhibits also feature efficient summaries of relevant historical context that students could read.
 
-> Example assignment: The Speaking and Protesting in America exhibit features treatments of a number of New Left social movements on the Exhibit Overview Page and the Protesting in the 1960s and 1970s page.  Assign these pages as a reading and/or test comprehension by asking students to share why they think one of the programs in the exhibit was chosen to be included, and what its significance might be.
+> Example assignment: The Speaking and Protesting in America exhibit features treatments of a number of New Left social movements on the [Exhibit Overview Page](https://americanarchive.org/exhibits/first-amendment) and the [Protesting in the 1960s and 1970s](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) page.  Assign these pages as a reading and/or test comprehension by asking students to share why they think one of the programs in the exhibit was chosen to be included, and what its significance might be.
 
 Whatever method you use, make sure students have some background knowledge about the time period and themes so they can make connections between the primary sources on AAPB and their historical context.
 
@@ -19,7 +19,7 @@ Whatever method you use, make sure students have some background knowledge about
 #### Encourage students to self-direct their engagement with the collection
 The AAPB provides a wealth of primary sources that are often organized around broad but coherent themes.  Thus, you can allow each student to be self-directed and identify a clip from a given exhibit or collection, while still knowing that the class will be collectively exploring common ideas. Remind students not to just click the first link they see and start listening. Instead, encourage them to think about which social movement interests them the most.  They also might want to read the description or skim the transcription for a given clip before they start listening.
 
-> Example assignment: Direct students to find a clip in the Speaking and Protesting in America that interests them. The Protesting in the 1960s and 1970s page includes a number of clips which are either embedded into the paragraphs in the [“Fight Against Racism and Injustice”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) and [“The New Left: Student Protests, Vietnam, and Women’s Liberation”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) sections, or in the [“Tour Our Resources”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) lists. 
+> Example assignment: Direct students to find a clip in the Speaking and Protesting in America that interests them. The [Protesting in the 1960s and 1970s](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) page includes a number of clips which are either embedded into the paragraphs in the [“Fight Against Racism and Injustice”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) and [“The New Left: Student Protests, Vietnam, and Women’s Liberation”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) sections, or in the [“Tour Our Resources”](https://americanarchive.org/exhibits/first-amendment/protests-60s-70s) lists. 
 
 > Next, guide students’ focus while listening to the clip. Since the interview subjects in this exhibit are usually activists, ask students to listen for moments in the interviews that speak to these questions:
 <div>
@@ -31,10 +31,10 @@ The AAPB provides a wealth of primary sources that are often organized around br
   </ul>
 </div>
 
-You could simply encourage students to take notes with these questions in mind, or if you want to give your students more structure, you could provide students with this graphic organizer.
+You could simply encourage students to take notes with these questions in mind, or if you want to give your students more structure, you could provide students with this [graphic organizer](https://uofi.app.box.com/s/upm38q1eyocrboxmznlxxw4z01fhs396).
 
 ### Activity 3: Prompt Analysis
-#### Write a Blog
+#### Write a blog
 
 In order to provide students a venue in which to analyze, reflect upon, and respond to their interview, a great activity would be to have each student craft a blog post. 
 
@@ -49,7 +49,7 @@ In order to provide students a venue in which to analyze, reflect upon, and resp
 </div>
 
 For the brief summary, each student’s notes should supply them with examples of social problems, goals, and tactics identified by the speaker, as well as the speaker’s ideological perspective.  (Tip: if there is a particularly powerful moment from the interview, students could embed a link using the 
-“Share a segment” tool).
+[“Share a segment” tool](https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/)).
 
 Additionally, the blog post should analyze or reflect upon the interview in some way. Here are some suggested prompts that students could choose from for this section of the blog. Students would only respond to ONE of the following:
 <div>
@@ -62,7 +62,7 @@ Additionally, the blog post should analyze or reflect upon the interview in some
 </div>  
 
 ### Group Activity 4: Open Discussion - Synthesis and Reflection
-#### Peer Review Assignments
+#### Peer review assignments
 Students are motivated to produce stronger writing when they know their peers will read it. Additionally, reading other students’ blogs will facilitate broader exposure to the various social movements of the era.  For example, Student A who listened to an interview of a Black Freedom struggle activist can learn more about the Women’s Liberation and American Indian Movements from a project written by Student B.
 
 > Example assignment: assign students to read and comment upon a given number of their peers’ blogs. You could encourage or require students to choose blogs that concern different protest movements.
