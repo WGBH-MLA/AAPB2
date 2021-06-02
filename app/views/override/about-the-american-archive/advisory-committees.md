@@ -86,7 +86,7 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 <br>Emeritus Professor of Communication, University of Utah
 
 **Kathryn Cramer Brownell**
-<br>Associate Professor fo History, Purdue University
+<br>Associate Professor of History, Purdue University
 
 **Dolores Inés Casillas**
 <br>Associate Professor of Chicana and Chicano Studies and a Faculty Affiliate of Film & Media Studies and Applied Linguistics, University of California, Santa Barbara
