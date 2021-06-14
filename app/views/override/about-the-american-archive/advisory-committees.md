@@ -113,9 +113,6 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 **Peter B. Kaufman**
 <br>Strategic Initiatives, MIT Open Learning & MIT Knowledge Futures Group; Executive Producer, Intelligent Television
 
-**Dimitrios Latsis**
-<br>Assistant Professor, Ryerson University, Toronto, ON
-
 **Jeffrey W. McClurken**
 <br>Professor of History and American Studies and Chief of Staff to the President at the University of Mary Washington, VA
 
@@ -169,11 +166,6 @@ organizations, producers and leaders) and beyond <br>
 **Joanne Archer**
 <br>Head of Access and Outreach Services, University of Maryland
 
-**Katie Basile**
-<br>Multimedia Director/Producer, KYUK
-
->”The American Archive of Public Broadcasting (AAPB) gives communities access to the recorded history of their region. In Southwest Alaska so much of the history is shared through oral storytelling. By making [KYUK's](https://americanarchive.org/participating-orgs/1703) archive accessible to the public, people are able to go back and see Elders who have passed away and hear the stories that might have otherwise been lost. With the AAPB's dedication to preserving our audio/visual history, culture thrives as well. - Gabby Hiestand Salgado and Katie Basile"
-
 **Leslie Bourgeois (SPAC Co-Chair)**
 <br>Archivist, Louisiana Public Broadcasting
 
@@ -187,14 +179,8 @@ organizations, producers and leaders) and beyond <br>
 **Robert Chehoski**
 <br>Manager, Media Management and Archives, KQED
 
-**Kevin Crane**
-<br>President and CEO, Nashville Public Television
-
 **Maureen Harlow**
 <br>Senior Digital Librarian, PBS
-
-**Terry Gildea**
-<br>Executive Director, Public Media Journalists Association
 
 **Abby Goldstein**
 <br>President & Executive Director, Public Radio Program Directors Association
@@ -204,6 +190,11 @@ organizations, producers and leaders) and beyond <br>
 
 **Julie Rogers**
 <br>Public Historian, NPR’s Research, Archives, and Data Strategy Team
+
+**Gabby Hiestand Salgado**
+<br>Archive Assistant, KYUK
+
+>”The American Archive of Public Broadcasting (AAPB) gives communities access to the recorded history of their region. In Southwest Alaska so much of the history is shared through oral storytelling. By making [KYUK's](https://americanarchive.org/participating-orgs/1703) archive accessible to the public, people are able to go back and see Elders who have passed away and hear the stories that might have otherwise been lost. With the AAPB's dedication to preserving our audio/visual history, culture thrives as well. - Gabby Hiestand Salgado and Katie Basile"
 
 **Laura Sampson**
 <br>Board Trustee for National Friends of Public Broadcasting (NFPB); Founder and Board Member of Station’s Archived Memories (SAM), Rocky Mountain Public Media
@@ -218,6 +209,7 @@ organizations, producers and leaders) and beyond <br>
 **Alana Stone**
 <br>Project Coordinator, Vision Maker Media
 
+Former:
 **Ann Wilkens**
 <br>Archivist, Wisconsin Public Television
 
