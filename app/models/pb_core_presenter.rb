@@ -226,23 +226,22 @@ class PBCorePresenter
   rescue NoMatchError
     nil
   end
-  def outside_url
-    @outside_url ||= begin
-      xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]').tap do |_url|
-        raise('If there is an Outside URL, the record must be explicitly public') unless public?
-      end
+  def outside_urls
+    @outside_urls ||= begin
+      outside_urls = xpaths('/*/pbcoreAnnotation[@annotationType="Outside URL"]')
+      raise('If there is an Outside URL, the record must be explicitly public') if outside_urls.present? && !public?
+      outside_urls
     end
   rescue NoMatchError
     nil
   end
-  def outside_baseurl
-    return nil unless outside_url
-    baseurl = URI(outside_url.start_with?('http://', 'https://') ? outside_url : %(http://#{outside_url})).host
+  def outside_baseurl(url)
+    baseurl = URI(url.start_with?('http://', 'https://') ? url : %(http://#{url})).host
     baseurl.to_s.start_with?('www.') ? baseurl.gsub('www.', '') : baseurl
   end
   def reference_urls
     # These only provide extra information. We aren't saying there is media on the far side,
-    # so this has no interaction with access_level, unlike outside_url.
+    # so this has no interaction with access_level, unlike outside_urls.
     @reference_urls ||= begin
       xpaths('/*/pbcoreAnnotation[@annotationType="External Reference URL"]')
     end
@@ -512,7 +511,7 @@ class PBCorePresenter
       :text, :to_solr, :contribs, :img_src, :media_srcs,
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
-      :instantiations, :outside_url,
+      :instantiations, :outside_urls,
       :reference_urls, :exhibits, :top_exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio, :seconds,
       :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src, :verify_transcript_src,
@@ -580,6 +579,8 @@ class PBCorePresenter
   end
 
   def img_dimensions
-    @img_dimensions ||= (FastImage.size(@img_src) || [300, 225])
+    @img_dimensions ||= FastImage.size(@img_src) || [300, 225]
+  rescue
+    [300,225]
   end
 end
