@@ -19,7 +19,7 @@ Post-production and theme music by Todd Thompson<br>
 
 <div>
 
-<span>Additional content mentioned in this episode:</span><br>
+<span>Content mentioned in this episode:</span><br>
 
 <ul class="override" style="margin-top: 0.1em;">
  <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
@@ -34,5 +34,49 @@ Post-production and theme music by Todd Thompson<br>
  <li><a href=https://americanarchive.org/catalog/cpb-aacip_151-wh2d796b02>Jo Ann Robinson</a> interview</li>
  <li><a href=https://americanarchive.org/catalog/cpb-aacip-151-x34mk66290>William O’Neal</a> interview</li>
  <li><a href=https://michellerkelley.com>Michelle Kelley</a> website</li>
+</ul>
+</div>
+
+### Episode 02: "On the Right: NET and Modern Conservatism" with Allison Perlman, PhD
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3bZP-giVJOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+June 8, 2021<br>
+Episode description:<br>
+In the second episode of "Presenting the Past," Allison Perlman, assistant professor in the departments of film and media studies and history at the University of California, Irvine, compares two National Educational Television (NET) programs created to educate the audiences on the modern Conservatism party in the 1960s. Perlman also provides background on NET, the predecessor of Public Broadcasting Service (PBS) leading up to the Public Broadcasting Act of 1967.
+
+<i>Content warning: this archival content contains descriptions of violence and racial slurs.</i>
+
+Credits:<br>
+Hosted, recorded, and edited by Christine Becker<br>
+Produced by Ryn Marchese<br>
+Post-production and theme music by Todd Thompson<br>
+
+<div>
+
+<span>Content mentioned in this episode:</span><br>
+
+<ul class="override" style="margin-top: 0.1em;">
+  
+<li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
+ 
+<li><a href=https://americanarchive.org/exhibits/conservatism><i>On the Right: NET and Modern Conservatism</i></a> Exhibit</li>
+
+<li><a href=https://americanarchive.org/special_collections/net-catalog>National Educational Television (NET)</a> Collection (1952-1972)</li>
+
+<li><a href=https://americanarchive.org/special_collections/firing-line><i>Firing Line</i> with William F. Buckley Jr.</a> Collection contributed by The Hoover Institution Library and Archives at Stanford University</li>
+
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-151-sn00z71m54>“Debate: Baldwin vs. Buckley”</a> (1965)</li>
+
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_512-ft8df6m068>“Regional Report; 5; John Birch Society” </a> (1965)</li>
+
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-512-8s4jm24805>“Regional Report; 9; The Republicans”</a> (1966)</li>
+
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-512-j96057dt9d>“NET Journal; H. L. Hunt: The Richest and the Rightest”</a> (1968)</li>
+
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_15-27zkhbbv>“What's Happening Mr. Silver; William F. Buckley, Jr.; 114”</a> (1968)</li>
+
+<li><a href=http://americanarchive.org/catalog/cpb-aacip-75-35gb5qv3>“NET Journal; 253; The Conservative Mr. Buckley”</a> (1969)</li>
+
 </ul>
 </div>
