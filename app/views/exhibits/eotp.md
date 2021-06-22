@@ -41,7 +41,7 @@ Produced by Kenneth Campbell, documentary film artist, as part of the Library of
 
 ### AAPB Podcast
 
-In an episode of AAPB’s ["Presenting the Past"](https://americanarchive.org/about-the-american-archive/podcast) podcast series, produced in collaboration with the Society for Cinema and Media Studies’ Aca-Media podcast, exhibit curator Michelle Kelley, Ph.D. provides context to the making of the series and explores examples of unedited <i>Eyes on the Prize<i> interviews that give different, yet valuable, perspectives on the civil rights movement than the one presented in the final cut of the series.
+In an episode of AAPB’s ["Presenting the Past"](https://americanarchive.org/about-the-american-archive/podcast) podcast series, produced in collaboration with the Society for Cinema and Media Studies’ Aca-Media podcast, exhibit curator Michelle Kelley, Ph.D. provides context to the making of the series and explores examples of unedited <i>Eyes on the Prize</i> interviews that give different, yet valuable, perspectives on the civil rights movement than the one presented in the final cut of the series.
 
 <iframe> of the podcast from YouTube
 <i>Eyes on the Prize</i> with Michelle Kelley, PhD
