@@ -375,7 +375,7 @@ This section lists the interviews that appear in each episode of *Eyes I* by sub
 - [Making *Eyes on the Prize*: An Oral History, Ford Foundation](https://www.fordfoundation.org/just-matters/ford-forum/making-eyes-on-the-prize-an-oral-history/)
 - [*Eyes on the Prize* Study Guide, Facing History and Ourselves](https://www.facinghistory.org/books-borrowing/eyes-prize-americas-civil-rights-movement)
 - [Civil Rights Trail](https://civilrightstrail.com/)
-- [“Presenting the Past” Podcast: A conversation on <i>Eyes on the Prize</i> with Michelle Kelley, Ph.D.](https://americanarchive.org/about-the-american-archive/podcast)
+- [“Presenting the Past” Podcast: A conversation on <i>Eyes on the Prize</i> with Michelle Kelley, Ph.D.](https://americanarchive.org/about-the-american-archive/podcast) 
 
 ## Main
 
