@@ -98,4 +98,4 @@ Allow students to synthesize what they learned from writing and reading the blog
 
 ## Gallery
 
-## Records
+## Records 
