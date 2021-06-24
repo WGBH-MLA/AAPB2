@@ -6,7 +6,7 @@ class TranscriptConverter
   extend TranscriptViewerHelper
 
   def self.json_parts(json)
-    parsed_json = JSON.parse(json)
+    parsed_json = JSON.parse(json.gsub(/[^[:print:]]+/, ' '))
     parts = parsed_json['parts'] if parsed_json['parts'] && parsed_json['parts'].first
     # just in case of empty 'parts' key in otherwise valid json
     return nil unless parts
