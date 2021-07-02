@@ -66,7 +66,7 @@ Students are motivated to produce stronger writing when they know their peers wi
 
 > Example assignment: Assign students to read and comment on a given number of their peers’ blogs. You could encourage or require students to choose blogs that concern different protest movements.
 
-When students write comments, the goal should not be to argue with or criticize another student’s blog.  Instead, a comment should “continue the conversation” that started in the blog. Thus, a comment should follow a format like:
+> When students write comments, the goal should not be to argue with or criticize another student’s blog. Instead, a comment should “continue the conversation” that started in the blog. Thus, a comment should follow a format like:
 <div>
   <ul class="override">
     <li class="small-font">“I found it interesting that…”</li>
