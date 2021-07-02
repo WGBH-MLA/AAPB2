@@ -76,7 +76,7 @@ module ToMods
 
         if outside_urls || (img_src !~ %r{^/})
           x.location do
-            outside_urls.map{ |url| x.url(url, access: 'object in context', usage: 'primary') } if outside_urls
+            outside_urls.map { |url| x.url(url, access: 'object in context', usage: 'primary') } if outside_urls
             x.url(img_src, access: 'preview') if img_src !~ %r{^/}
           end
         end
