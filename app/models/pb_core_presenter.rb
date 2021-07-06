@@ -579,6 +579,6 @@ class PBCorePresenter
   end
 
   def img_dimensions
-    @img_dimensions ||= img_src.nil? ? [300, 225] : FastImage.size(img_src)
+    @img_dimensions ||= (img_src.nil? || FastImage.size(img_src).nil?) ? [300, 225] : FastImage.size(img_src)
   end
 end
