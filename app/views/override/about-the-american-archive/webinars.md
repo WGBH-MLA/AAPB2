@@ -8,9 +8,9 @@ The informational webinars below provide additional background and answers to fr
 
 <a id="Producers"></a>
 ## Stations and Producers
-These webinars cover how to contribute content to the AAPB, mangage and preserve digital files, and apply for grant collaborations. Learn more about contributing content to the AAPB [here](https://americanarchive.org/help/contribute) and read [testimonials](https://americanarchive.org/about-the-american-archive/advisory-committees) about participating in the AAPB from members of the Station and Producers Advisory Committee.
+These webinars cover how to contribute content to the AAPB, mangage and preserve digital files, and the grant collaboration process. Learn more about contributing content to the AAPB [here](https://americanarchive.org/help/contribute) and read participant testimonials from members of the Station and Producers Advisory Committee [here](https://americanarchive.org/about-the-american-archive/advisory-committees).
 
-### Preserving Your Station Legacy with the AAPB: Getting Started and Planning for Digitization (2018)
+### "Preserving Your Station Legacy with the AAPB: Getting Started and Planning for Digitization" (2018)
 This presentation covers how stations can contribute their content to the AAPB, what to look for when beginning to preserve content, and what steps should be taken when planning a digitization project.
 
 Presenters:<br>
@@ -24,7 +24,7 @@ Presentation slides:
 Resources:
 - Public Broadcasting Core (PBCore)[https://pbcore.org/] - a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.
 
-### Preserving Your Public Media with the American Archive of Public Broadcasting (2019)
+### "Preserving Your Public Media with the AAPB" (2019)
 Hosted by staff at New Mexico PBS and the American Archive of Public Broadcasting, this presentation covers collaborative grants with stations large and small to preserve original materials contributed by five TV and radio stations, archives, and producers in New Mexico.
 
 Access the live recording by visiting PBS Hub and creating a free account [here](https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881).
@@ -42,7 +42,7 @@ Presentation slides:
 ## Scholars, Educators, and Researchers
 Gain an understanding of AAPB’s open-access digital collection and the features that make it easy to incorporate items from the collection into lectures, assignments, and curriculum.
 
-### AAPB as a Digital Library for Teaching Media Literacy (2019)
+### "AAPB as a Digital Library for Teaching Media Literacy" (2019)
 Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as a digital library for teaching media literacy. The presenters describe lectures, workshops and assignments they have created using programs in the AAPB, and AAPB staff share some of the ways that instructors can navigate students to the collection via special collections, curated exhibits and the search, browse and share features.
 
 Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy).
@@ -62,7 +62,7 @@ Download this complimentary guide with step-by-step instructions on how to incor
 Use this PDF as a guide to help navigate the collections made available online in the AmericanArchive of Public Broadcasting (AAPB). Included are easy access points to the collection,helpful search tips, and step-by-step instructions for the share/embed function.
 - [Learn How to Share and Embed AAPB Content](https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) Blog Post
 
-#### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
+### "Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB" (2020)
 Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the American Archive of Public Broadcasting (AAPB), providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on activities to engage students with primary sources in the AAPB's Protesting in America Exhibit.
 
 Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb).
