@@ -43,3 +43,9 @@ The AAPB is collaborating with the Professional Learning and Outreach Initiative
   <img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/SML_logo.png" alt="SML Logo Image"/>
   The award-winning <a href="https://sharemylesson.com/partner/american-archive-public-broadcasting">Share My Lesson</a> platform was created by the American Federation of Teachers and The Times Educational Supplement (TES) Global in 2012. Share My Lesson provides high-quality and effective lesson plans and professional development resources. The AAPB staff has provided downloadable resources and an informational webinar on using primary sources for distance learning.
 </p>
+
+<h3 class="spaced-h3">Society for Cinema and Media Studies</h3>
+<p class="spaced-paragraph">
+  <img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/scms_logo.png" alt="SCMS Logo Image"/>
+  <a href=" ">Aca-Media Podcast</a> The <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS) is a leading scholarly organization in the United States dedicated to promoting a broad understanding of film, television, and related media through research and teaching grounded in the contemporary humanities tradition. The SCMS podcast <a href="https://www.cmstudies.org/"><Aca-Media</a> offers an academic perspective on media and co-collaborates on the AAPB <a href="https://americanarchive.org/about-the-american-archive/podcast"><“Presenting the Past”</a> podcast, featuring informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the AAPB collection.
+</p>
