@@ -37,7 +37,7 @@ describe 'Validated and plain PBCore' do
       it 'rejects missing closing brace' do
         invalid_pbcore = pbc_xml.sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
-          raise_error(/missing tag start/))
+          raise_error(/Invalid attribute name: <<pbcoreAssetType>/))
       end
 
       it 'rejects missing closing tag' do
@@ -326,9 +326,9 @@ describe 'Validated and plain PBCore' do
       end
     end
 
-    describe '.outside_url' do
-      it 'returns the outside url from the pbcore xml' do
-        expect(pbc.outside_url).to eq('http://www.wgbh.org/')
+    describe '.outside_urls' do
+      it 'returns outside urls from the pbcore xml' do
+        expect(pbc.outside_urls).to eq(Array('http://www.wgbh.org/'))
       end
     end
 

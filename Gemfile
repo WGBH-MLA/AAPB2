@@ -88,7 +88,7 @@ gem 'passenger', :group => :production
 gem 'nokogiri', '~> 1.10.4'
 
 # its back
-gem 'bigdecimal'
+gem 'bigdecimal', '1.4.4'
 gem 'httparty'
 
 gem 'pbcore', '~> 0.2.0'

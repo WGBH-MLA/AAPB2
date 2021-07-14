@@ -89,12 +89,15 @@
   <!-- no media thumbnail -->
   <img src="<%= @pbcore.img_src %>" alt="thumbnail of <%= @pbcore.title %>">
   <div style="margin-top: 1em;" class="content-text">
-    <% if @pbcore.outside_url %>
-      <%= link_to(
-        "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.outside_baseurl}",
-        @pbcore.outside_url,
-        {target: '_blank'}
-      ) %>
+    <% if @pbcore.outside_urls %>
+      <% @pbcore.outside_urls.each do |url| %>
+        <%= link_to(
+          "#{@pbcore.video? ? 'View' : 'Listen'} online at #{@pbcore.outside_baseurl(url)}",
+          url,
+          {target: '_blank'}
+          ) %>
+        <br>
+      <% end %>
     <% end %>
   </div>
 
