@@ -1,4 +1,4 @@
-<% if @transcript_content %>
+<% if @pbcore.transcript_html %>
   <div class="hidden-md hidden-lg col-sm-12 mobile-transcript-col">
       <dl class="panel transcript-panel mobile-transcript">
         <div class="transcript-panel-heading">
@@ -15,14 +15,14 @@
         </div>
         <div id="transcript" class="transcript-frame transcript-div transcript-view-show">
           <div class="mobile-transcript-content">
-           <%= raw @transcript_content %>
+           <%= raw @pbcore.transcript_html %>
           </div>
         </div>
 
         <% if @transcript_message %>
           <div id="transcript-message" class="">
             <div class="mobile-transcript-content">
-              <%= @transcript_message.html_safe %>
+              <%= @pbcore.transcript_message.html_safe %>
             </div>
           </div>
         <% end %>

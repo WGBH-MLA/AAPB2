@@ -87,26 +87,26 @@ describe CaptionFile do
 
     describe '#snippet_from_query' do
       it 'returns the caption from the beginning if query word is within first 200 characters' do
-        caption = snippet_from_query(caption_query_one, caption_file.text, 200, '.')
+        caption = SnippetHelper.snippet_from_query(caption_query_one, caption_file.text, 200, '.')
 
         # .first returns the preceding '...'
         expect(caption.split[1]).to eq('NARRATOR:')
       end
 
       it 'truncates the begining of the caption if keyord is not within first 200 characters' do
-        caption = snippet_from_query(caption_query_two, caption_file.text, 200, '.')
+        caption = SnippetHelper.snippet_from_query(caption_query_two, caption_file.text, 200, '.')
 
         # .first returns the preceding '...'
         expect(caption.split[1]).to eq('<mark>AIRBORNE</mark>.')
       end
 
       it 'returns nil captions when query not in params' do
-        caption = snippet_from_query(caption_query_three, caption_file.text, 200, '.')
+        caption = SnippetHelper.snippet_from_query(caption_query_three, caption_file.text, 200, '.')
         expect(caption).to eq(nil)
       end
 
       it 'marks compound keyword within a caption text' do
-        caption = snippet_from_query(caption_query_four, caption_file.text, 200, '.')
+        caption = SnippetHelper.snippet_from_query(caption_query_four, caption_file.text, 200, '.')
         expect(caption).to include('<mark>LITTLE ROCK</mark>')
       end
     end

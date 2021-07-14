@@ -126,10 +126,10 @@ $(function() {
       return pbcore_guid + tm;
     } else if(radio && radio.attr('id') == 'current'){
       // #at_time_s
-      return pbcore_guid + '#at_' + player.currentTime() + '_s';
+      return pbcore_guid + '?proxy_start_time=' + player.currentTime();
     } else {
       // start at beginning
-      return pbcore_guid;      
+      return pbcore_guid;
     }
 
   }
@@ -199,17 +199,11 @@ $(function() {
   var $player = $('#player_media_html5_api');
   // chrome needs this!!
   if($player[0]){
-    var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
-
-    if(!url_hash){
-      // try again for integer seconds links
-      url_hash = location.hash.match(/#at_(\d+)_s/);
-    }
-
+    var proxyStartTime = getParameterByName('proxy_start_time');
     // If timecode included in URL, play to pass thumbnail,
     // then pause at that timecode.
-    if (url_hash) {
-      $player[0].currentTime = url_hash[1];
+    if (proxyStartTime) {
+      $player[0].currentTime = proxyStartTime;
 
       var key = greatest_less_than_or_equal_to($player[0].currentTime);
       var $line = lines[key];
@@ -266,18 +260,16 @@ $(function() {
       $player = $('#player_media').find('video,audio');
     }
   });
-  
+
   $('#player_media').on('durationchange', function() {
     // firefox needs this!
-    var url_hash = location.hash.match(/#at_(\d+(\.\d+))_s/);
+    var proxyStartTime = getParameterByName('proxy_start_time');
     // If timecode included in URL, play to pass thumbnail,
     // then pause at that timecode.
-    if ($player[0] && url_hash) {
-      $player[0].currentTime = url_hash[1];
+    if ($player[0] && proxyStartTime) {
+      $player[0].currentTime = proxyStartTime;
     }
   });
-
-
 
   $player.on('timeupdate', function(){
     var current = $player[0].currentTime;
@@ -292,7 +284,6 @@ $(function() {
 
   $('.play-from-here').unbind('click').on('click', function(){
     var time = parse_timecode($(this).data('timecode'));
-    location.hash = '#at_' + time + '_s';
     $player[0].currentTime = time;
     $player[0].play();
   });
@@ -329,7 +320,7 @@ $(function() {
         end: time_markers[1],
         restart_beginning: false //Should the video go to the beginning when it ends
       });
-      
+
       $('#clip-message-container').show();
     }
   }

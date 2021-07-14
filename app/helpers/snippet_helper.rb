@@ -1,4 +1,82 @@
 module SnippetHelper
+  def self.build_snippets(solr_documents:, query:, matches:)
+    snippets = {}
+    solr_documents.each do |solr_doc|
+
+      this_id = solr_doc[:id].gsub(/cpb-aacip./, 'cpb-aacip-')
+
+      # only respond if highlighting set has this guid
+      next unless matches[this_id]
+
+      caption_file = CaptionFile.new(solr_doc.id)
+
+      snippets[this_id] = {}
+
+      # check for transcript/caption anno
+      if solr_doc.transcript? && !query.nil?
+        transcript_file = TranscriptFile.new(solr_doc.transcript_src)
+
+        if transcript_file.file_type == TranscriptFile::JSON_FILE
+          transcript_snippet = SnippetHelper::TranscriptSnippet.new('transcript' => transcript_file, 'id' => this_id, 'query' => query)
+          snippets[this_id][:transcript] = transcript_snippet.highlight_snippet
+          snippets[this_id][:transcript_timecode_url] = transcript_snippet.url_at_timecode
+        elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
+          snippets[this_id][:transcript] = SnippetHelper.snippet_from_query(query, transcript_file.plaintext, 250, ' ')
+        end
+      end
+
+      if !caption_file.captions_src.nil? && !query.nil?
+        text = caption_file.text
+        snippets[this_id][:caption] = SnippetHelper.snippet_from_query(query, text, 250, '.')
+      end
+    end
+    snippets
+  end
+
+  def self.snippet_from_query(query, text, snippet_length, separator)
+    return nil unless text
+    # text = text.upcase.gsub(/[[:punct:]]/, '')
+    text = text.upcase.gsub(/[^a-zA-z0-9\ \.\,:;!]/, '')
+    term_hits = []
+
+    query.each do |term|
+      body = if term.split.length > 1
+               SnippetHelper.process_compound_query_terms(term, text, snippet_length)
+             else
+               SnippetHelper.process_single_query_terms(query, text, snippet_length)
+             end
+      term_hits << body unless body.nil?
+    end
+
+    ActionController::Base.helpers.highlight(term_hits[0].truncate(snippet_length, separator: separator), query) unless term_hits.empty?
+  end
+
+  def self.process_single_query_terms(query, text, snippet_length)
+    text_dictionary = text.gsub(/[[:punct:]]/, '').split
+    intersection = query & text_dictionary
+
+    return nil unless intersection && intersection.present?
+    intersection_index = text.index(/\b(?:#{intersection[0]})\b/)
+    start = if intersection_index && (intersection_index - snippet_length) > 0
+              intersection_index
+            else
+              0
+            end
+
+    '...' + text[start..-1].to_s + '...'
+  end
+
+  def self.process_compound_query_terms(term, text, snippet_length)
+    return nil unless text.include?(term)
+    term_index = text.index(term)
+    start = if term_index && (term_index - snippet_length) > 0
+              term_index
+            else
+              0
+            end
+    '...' + text[start..-1].to_s + '...'
+  end
+
   class TranscriptSnippet
     attr_reader :transcript
     attr_reader :snippet
@@ -26,7 +104,7 @@ module SnippetHelper
     end
 
     def url_at_timecode
-      "/catalog/#{id}?term=#{term}&#at_#{timecode}_s"
+      "/catalog/#{id}?term=#{term}&proxy_start_time=#{timecode}"
     end
 
     private
@@ -122,53 +200,5 @@ module SnippetHelper
 
       '...' + final_snippet.join(' ') + '...'
     end
-  end
-
-  #### END TRANSCRIPT_SNIPPET CLASS ####
-
-  def snippet_from_query(query, text, snippet_length, separator)
-    return nil unless text
-    # text = text.upcase.gsub(/[[:punct:]]/, '')
-    text = text.upcase.gsub(/[^a-zA-z0-9\ \.\,:;!]/, '')
-    term_hits = []
-
-    query.each do |term|
-      body = if term.split.length > 1
-               process_compound_query_terms(term, text, snippet_length)
-             else
-               process_single_query_terms(query, text, snippet_length)
-             end
-      term_hits << body unless body.nil?
-    end
-
-    ActionController::Base.helpers.highlight(term_hits[0].truncate(snippet_length, separator: separator), query) unless term_hits.empty?
-  end
-
-  private
-
-  def process_single_query_terms(query, text, snippet_length)
-    text_dictionary = text.gsub(/[[:punct:]]/, '').split
-    intersection = query & text_dictionary
-
-    return nil unless intersection && intersection.present?
-    intersection_index = text.index(/\b(?:#{intersection[0]})\b/)
-    start = if intersection_index && (intersection_index - snippet_length) > 0
-              intersection_index
-            else
-              0
-            end
-
-    '...' + text[start..-1].to_s + '...'
-  end
-
-  def process_compound_query_terms(term, text, snippet_length)
-    return nil unless text.include?(term)
-    term_index = text.index(term)
-    start = if term_index && (term_index - snippet_length) > 0
-              term_index
-            else
-              0
-            end
-    '...' + text[start..-1].to_s + '...'
   end
 end
