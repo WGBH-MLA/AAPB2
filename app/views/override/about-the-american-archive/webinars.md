@@ -20,8 +20,8 @@ This presentation covers how stations can contribute their content to the AAPB, 
 - Rebecca Fraimow, GBH and AAPB Digital Archives Manager<br>
 - Ryn Marchese, AAPB Engagement and Use Manager<br>
 
-Resources:<br>
-- [Public Broadcasting Core (PBCore)](https://pbcore.org/), a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.
+>Resources:<br>
+[Public Broadcasting Core (PBCore)](https://pbcore.org/), a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.
 
 ### Preserving Your Public Media with the AAPB (2019)
 Hosted by staff at New Mexico PBS and the American Archive of Public Broadcasting, this presentation covers collaborative grants with stations large and small to preserve original materials contributed by five TV and radio stations, archives, and producers in New Mexico.<br>
