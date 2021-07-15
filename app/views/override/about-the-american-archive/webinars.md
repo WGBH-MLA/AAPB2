@@ -19,7 +19,7 @@ Presenters:<br>
 - Ryn Marchese, AAPB Engagement and Use Manager<br>
 
 Presentation slides:
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WGBH_Archives/preserving-your-station-legacy-with-the-american-archive-of-public-broadcasting-getting-started-and-planning-for-digitization" title="Preserving Your Station Legacy with the American Archive of Public Broadcasting: Getting Started and Planning for Digitization" target="_blank">Preserving Your Station Legacy with the American Archive of Public Broadcasting: Getting Started and Planning for Digitization</a> </strong> from <strong><a href="https://www.slideshare.net/WGBH_Archives" target="_blank">WGBH Media Library and Archives</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WGBH_Archives/preserving-your-station-legacy-with-the-american-archive-of-public-broadcasting-getting-started-and-planning-for-digitization" title="Preserving Your Station Legacy with the American Archive of Public Broadcasting: Getting Started and Planning for Digitization" target="_blank">Preserving Your Station Legacy with the American Archive of Public Broadcasting: Getting Started and Planning for Digitization</a> </strong> from <strong><a href="https://www.slideshare.net/WGBH_Archives" target="_blank">WGBH Media Library and Archives</a></strong> </div>https://github.com/WGBH-MLA/AAPB2/blob/webinar/app/views/override/about-the-american-archive/webinars.md<br>
 
 Resources:
 - Public Broadcasting Core (PBCore)[https://pbcore.org/] - a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.
@@ -36,7 +36,7 @@ Presenters:<br>
 - Michael Kamins, New Mexico PBS Executive Producer, Arts & Cultural Affairs<br>
 
 Presentation slides:
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/TohIIcS9GaYbx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WGBH_Archives/engage-your-community-to-celebrate-your-history" title="Engage Your Community to Celebrate Your History" target="_blank">Engage Your Community to Celebrate Your History</a> </strong> from <strong><a href="https://www.slideshare.net/WGBH_Archives" target="_blank">WGBH Media Library and Archives</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/TohIIcS9GaYbx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WGBH_Archives/engage-your-community-to-celebrate-your-history" title="Engage Your Community to Celebrate Your History" target="_blank">Engage Your Community to Celebrate Your History</a> </strong> from <strong><a href="https://www.slideshare.net/WGBH_Archives" target="_blank">WGBH Media Library and Archives</a></strong> </div><br>
 
 <a id="Educators"></a>
 ## Scholars, Educators, and Researchers
@@ -53,7 +53,7 @@ Presenters:<br>
 – Ryn Marchese, AAPB Engagement and Use Manager<br>
 
 Recording:
-<iframe src="https://player.vimeo.com/video/375722996" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/375722996" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><br>
  
 Resources:
 - [AAPB Guide for Student Inquiry with Audiovisual Materials](amazon link)
