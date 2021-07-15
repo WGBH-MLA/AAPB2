@@ -22,10 +22,10 @@ Access the live recording by visiting PBS Hub and creating a free account at htt
 - Read [testimonials](https://americanarchive.org/about-the-american-archive/advisory-committees) from members of the Station and Producers Advisory Committee.
 
 #### Presenters
-- Karen Cariani, GBH Archives David O. Ives Executive Director and AAPB Project Director
-- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager
-- Franz Joachim, New Mexico PBS General Manager & CEO
-- Michael Kamins, New Mexico PBS Executive Producer, Arts & Cultural Affairs
+- Karen Cariani, GBH Archives David O. Ives Executive Director and AAPB Project Director<br>
+- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager<br>
+- Franz Joachim, New Mexico PBS General Manager & CEO<br>
+- Michael Kamins, New Mexico PBS Executive Producer, Arts & Cultural Affairs<br>
 
 #### Preserving Your Station Legacy with the AAPB: Getting Started and Planning for Digitization (2018)
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WGBH_Archives/preserving-your-station-legacy-with-the-american-archive-of-public-broadcasting-getting-started-and-planning-for-digitization" title="Preserving Your Station Legacy with the American Archive of Public Broadcasting: Getting Started and Planning for Digitization" target="_blank">Preserving Your Station Legacy with the American Archive of Public Broadcasting: Getting Started and Planning for Digitization</a> </strong> from <strong><a href="https://www.slideshare.net/WGBH_Archives" target="_blank">WGBH Media Library and Archives</a></strong> </div>
@@ -37,9 +37,9 @@ AAPB staff presents on how stations can contribute their content to the AAPB, wh
 - Public Broadcasting Core (PBCore)[https://pbcore.org/] - a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.
 
 #### Presenters
-- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager
-- Rebecca Fraimow, GBH and AAPB Digital Archives Manager
-- Ryn Marchese, AAPB Engagement and Use Manager
+- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager<br>
+- Rebecca Fraimow, GBH and AAPB Digital Archives Manager<br>
+- Ryn Marchese, AAPB Engagement and Use Manager<br>
 
 
 <a id="Educators"></a>
