@@ -28,7 +28,7 @@ This presentation covers how stations can contribute their content to the AAPB, 
   <li>[Public Broadcasting Core (PBCore)](https://pbcore.org/) is a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.</li>
 </ul>
 
-### Preserving Your Public Media with the AAPB (2019)
+### Engage Your Community to Celebrate Your History with the AAPB (2019)
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/TohIIcS9GaYbx" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 Hosted by staff at New Mexico PBS and the American Archive of Public Broadcasting, this presentation covers the state-wide grant collaboration process to preserve original materials contributed by five TV and radio stations, archives, and producers in New Mexico.
