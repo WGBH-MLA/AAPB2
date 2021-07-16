@@ -53,7 +53,7 @@ Hosted by staff at New Mexico PBS and the American Archive of Public Broadcastin
 Gain an understanding of AAPB’s open-access digital collection and the features that make it easy to incorporate items from the collection into lectures, assignments, and curriculum.
 
 ### AAPB as a Digital Library for Teaching Media Literacy (2019)
-<iframe src="https://player.vimeo.com/video/375722996" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/375722996" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as a digital library for teaching media literacy. The presenters describe lectures, workshops and assignments they have created using programs in the AAPB, and AAPB staff share some of the ways that instructors can navigate students to the collection via special collections, curated exhibits and the search, browse and share features.
 
@@ -73,7 +73,7 @@ Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as 
 </ul>
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
-<style="padding:64.9% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570389538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ShareMyLesson_Webinar.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/570389538" width="595" height="385" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the American Archive of Public Broadcasting (AAPB), providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on activities to engage students with primary sources in the AAPB's Protesting in America Exhibit.
 
@@ -94,7 +94,7 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 Review video tutorials and presentations slides from events aimed at helping to make the content in the AAPB more searchable and accessible online.
 
 ### FIX IT+ Transcript Edit-a-thon (2020)
-<iframe src="https://player.vimeo.com/video/569998838" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/569998838" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Corrected transcripts improve the searchability of historic programs in the American Archive of Public Broadcasting and the staff needs YOUR help! This presentation includes an overview of the AAPB's mission, why FIX IT+ is important, and brief instructions on preferred editing conventions.
 
@@ -113,7 +113,7 @@ Corrected transcripts improve the searchability of historic programs in the Amer
 </ul>
 
 ### Wikipedia Edit-a-thon (2020)
-<iframe src="https://player.vimeo.com/video/570004023" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/570004023" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’s largest online encyclopedia, and improve the searchability of historic public radio and television collections in the American Archive of Public Broadcasting (AAPB). The video tutorials below explain how to create a Wikipedia user account, edit Wikipedia articles using common conventions, and update Wikipedia articles with relevant items in the AAPB.
 
