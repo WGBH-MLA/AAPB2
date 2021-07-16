@@ -60,17 +60,17 @@ Use this PDF as a guide to help navigate the collections made available online i
 - [Learn How to Share and Embed AAPB Content](https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) Blog Post
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/EXVObrKgP2MWGP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/EXVObrKgP2MWGP" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the American Archive of Public Broadcasting (AAPB), providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on activities to engage students with primary sources in the AAPB's Protesting in America Exhibit.<br>
 
-<br>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb).
+Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb).
 
-Presenters:<br>
-- Benjamin Leff, Social Studies Teaching Associate at the University Laboratory High School and member of the AAPB [Education Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees)<br>
-– Ryn Marchese, AAPB Engagement and Use Manager<br>
+Presenters:
+- Benjamin Leff, Social Studies Teaching Associate at the University Laboratory High School and member of the AAPB [Education Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees)
+– Ryn Marchese, AAPB Engagement and Use Manager
 
->Resources:<br>
+>Resources:
 - [AAPB Guide: How To Search and Share](amazon link)
 Use this PDF as a guide to help navigate the collections made available online in the AmericanArchive of Public Broadcasting (AAPB). Included are easy access points to the collection, helpful search tips, and step-by-step instructions for the share/embed function.
 
@@ -79,26 +79,27 @@ Use this PDF as a guide to help navigate the collections made available online i
 Review video tutorials and presentations slides from events aimed at helping to make the content in the AAPB more searchable and accessible online.
 
 ### FIX IT+ Transcript Edit-a-thon (2020)
-Corrected transcripts improve the searchability of historic programs in the American Archive of Public Broadcasting and the staff needs YOUR help! This presentation includes an overview of the AAPB's mission, why FIX IT+ is important, and brief instructions on preferred editing conventions.<br>
-
 <iframe src="https://player.vimeo.com/video/569998838" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<br>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing).
+Corrected transcripts improve the searchability of historic programs in the American Archive of Public Broadcasting and the staff needs YOUR help! This presentation includes an overview of the AAPB's mission, why FIX IT+ is important, and brief instructions on preferred editing conventions.
 
-Presenter:<br>
-- Ryn Marchese, AAPB Engagement and Use Manager<br>
+Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing).
 
->Resources:<br>
-- FIX IT+ Demonstration [Video](https://drive.google.com/file/d/1dXlt2n2wVpOr8CmxoUbQ4baJlGvPGT0k/view?usp=sharing)<br>
-- [FIX IT+ Guide](https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing)<br>
-- [FAQs](https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing)<br>
+Presenter:
+- Ryn Marchese, AAPB Engagement and Use Manager
+
+>Resources:
+- FIX IT+ Demonstration [Video](https://drive.google.com/file/d/1dXlt2n2wVpOr8CmxoUbQ4baJlGvPGT0k/view?usp=sharing)
+- [FIX IT+ Guide](https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing)
+- [FAQs](https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing)
 
 ### Wikipedia Edit-a-thon (2020)
-Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’s largest online encyclopedia, and improve the searchability of historic public radio and television collections in the American Archive of Public Broadcasting (AAPB). The video tutorials below explain how to create a Wikipedia user account, edit Wikipedia articles using common conventions, and update Wikipedia articles with relevant items in the AAPB.<br>
-
 <iframe src="https://player.vimeo.com/video/570004023" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’s largest online encyclopedia, and improve the searchability of historic public radio and television collections in the American Archive of Public Broadcasting (AAPB). The video tutorials below explain how to create a Wikipedia user account, edit Wikipedia articles using common conventions, and update Wikipedia articles with relevant items in the AAPB.
+
 Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide).
 
-<br>Presenters:<br>
-- Ariel Cetrone, Wikimedia DC Institutional Partnerships Manager<br>
-- Ryn Marchese, AAPB Engagement and Use Manager<br>
+Presenters:
+- Ariel Cetrone, Wikimedia DC Institutional Partnerships Manager
+- Ryn Marchese, AAPB Engagement and Use Manager
