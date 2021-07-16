@@ -66,10 +66,10 @@ Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as 
  
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy).
-  <li>The [AAPB Guide for Student Inquiry with Audiovisual Materials](amazon link TBD - https://drive.google.com/file/d/1dbjJQXnpoQQTBslo-35eO3gjjuPf0ssH/view?usp=sharing) is a complimentary guide with step-by-step instructions on how to incorporate AAPB’s audiovisual materials into media literacy lessons, including example questions, talking points, discussion topics, and suggested readings to pair with AAPB audiovisual materials. Recommended for high school and higher education classrooms.</li>
-  <li>The [AAPB Guide: How To Search and Share](amazon link TBD - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing) explores how to navigate the collections made available online in the AAPB, including easy access points, helpful search tips, and step-by-step instructions for the share/embed feature.</li>
-  <li>[Learn How to Share and Embed AAPB Content](https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) Blog Post</li>
+  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy">here</a>.
+  <li>The <a href="amazon link TBD - https://drive.google.com/file/d/1dbjJQXnpoQQTBslo-35eO3gjjuPf0ssH/view?usp=sharing">AAPB Guide for Student Inquiry with Audiovisual Materials>here</a> is a complimentary guide with step-by-step instructions on how to incorporate AAPB’s audiovisual materials into media literacy lessons, including example questions, talking points, discussion topics, and suggested readings to pair with AAPB audiovisual materials. Recommended for high school and higher education classrooms.</li>
+  <li>The <a href="amazon link TBD - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing">AAPB Guide: How To Search and Share>here</a> explores how to navigate the collections made available online in the AAPB, including easy access points, helpful search tips, and step-by-step instructions for the share/embed feature.</li>
+  <li>Learn <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">How to Share and Embed AAPB Content</a> Blog Post</li>
 </ul>
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
@@ -79,7 +79,7 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 
 <h5 class="webinar-title">Presenters</h5>
 <ul class="webinar-list">
-  <li>Benjamin Leff, Social Studies Teaching Associate at the University Laboratory High School and member of the AAPB [Education Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees)</li>
+  <li>Benjamin Leff, Social Studies Teaching Associate at the University Laboratory High School and member of the <a href="https://americanarchive.org/about-the-american-archive/advisory-committees">AAPB Education Advisory Committee</a></li>
  <li>Ryn Marchese, AAPB Engagement and Use Manager</li>
 </ul>
 
