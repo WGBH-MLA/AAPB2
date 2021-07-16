@@ -53,7 +53,7 @@ Hosted by staff at New Mexico PBS and the American Archive of Public Broadcastin
 Gain an understanding of AAPB’s open-access digital collection and the features that make it easy to incorporate items from the collection into lectures, assignments, and curriculum.
 
 ### AAPB as a Digital Library for Teaching Media Literacy (2019)
-<iframe src="https://player.vimeo.com/video/375722996" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/375722996" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as a digital library for teaching media literacy. The presenters describe lectures, workshops and assignments they have created using programs in the AAPB, and AAPB staff share some of the ways that instructors can navigate students to the collection via special collections, curated exhibits and the search, browse and share features.
 
@@ -73,7 +73,7 @@ Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as 
 </ul>
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
-<iframe src="https://player.vimeo.com/video/570389538" width="595" height="385" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<style="padding:64.9% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570389538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ShareMyLesson_Webinar.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the American Archive of Public Broadcasting (AAPB), providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on activities to engage students with primary sources in the AAPB's Protesting in America Exhibit.
 
@@ -85,8 +85,8 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb).</li>
-  <li>The [AAPB Guide: How To Search and Share](amazon link - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing) explores how to navigate the collections made available online in the AAPB, including easy access points, helpful search tips, and step-by-step instructions for the share/embed feature.</li>
+  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb">here</a>.</li>
+  <li>The <a href="amazon link - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing">AAPB Guide: How To Search and Share</a> explores how to navigate the collections made available online in the AAPB, including easy access points, helpful search tips, and step-by-step instructions for the share/embed feature.</li>
 </ul>
 
 <a id="Volunteers"></a>
@@ -94,7 +94,7 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 Review video tutorials and presentations slides from events aimed at helping to make the content in the AAPB more searchable and accessible online.
 
 ### FIX IT+ Transcript Edit-a-thon (2020)
-<iframe src="https://player.vimeo.com/video/569998838" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/569998838" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Corrected transcripts improve the searchability of historic programs in the American Archive of Public Broadcasting and the staff needs YOUR help! This presentation includes an overview of the AAPB's mission, why FIX IT+ is important, and brief instructions on preferred editing conventions.
 
@@ -105,15 +105,15 @@ Corrected transcripts improve the searchability of historic programs in the Amer
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Visit FIX IT+ at [fixitplus.americanarchive.org](http://fixitplus.americanarchive.org/)</li>
-  <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing).</li>
-  <li>FIX IT+ Demonstration [Video](https://drive.google.com/file/d/1dXlt2n2wVpOr8CmxoUbQ4baJlGvPGT0k/view?usp=sharing)</li>
-  <li>The [FIX IT+ Guide](https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing) covers brief instructions on how start editing using preferred editing conventions.</li>
-  <li>[FAQs](https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing) cover commonly asked questions by FIX IT+ editors.</li>
+  <li>Visit FIX IT+ at <a href="http://fixitplus.americanarchive.org/">fixitplus.americanarchive.org</a></li>
+  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing">here</a>.</li>
+  <li>FIX IT+ Demonstration <a href="https://drive.google.com/file/d/1dXlt2n2wVpOr8CmxoUbQ4baJlGvPGT0k/view?usp=sharing">Video</a></li>
+  <li>The <a href="https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing">FIX IT+ Guide</a> covers brief instructions on how start editing using preferred editing conventions.</li>
+  <li><a href="(https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing) cover commonly asked questions by FIX IT+ editors">FAQs</a>.</li>
 </ul>
 
 ### Wikipedia Edit-a-thon (2020)
-<iframe src="https://player.vimeo.com/video/570004023" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/570004023" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’s largest online encyclopedia, and improve the searchability of historic public radio and television collections in the American Archive of Public Broadcasting (AAPB). The video tutorials below explain how to create a Wikipedia user account, edit Wikipedia articles using common conventions, and update Wikipedia articles with relevant items in the AAPB.
 
@@ -125,7 +125,7 @@ Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Visit the Wikipedia Meetup page with information from previous edit-a-thons [here](https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020).
-  <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide).</li>
-  <li>The [AAPB Wikipedia How-To Guide](amazon link TBD - https://drive.google.com/file/d/1M_bdQybMPOtSU9nrkJpI4H5LuY3Asplu/view?usp=sharing)</li>
+  <li>Visit the Wikipedia Meetup page with information from previous edit-a-thons <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020">here</a>.
+  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide">here</a>).</li>
+  <li>The <a href="(amazon link TBD - https://drive.google.com/file/d/1M_bdQybMPOtSU9nrkJpI4H5LuY3Asplu/view?usp=sharing)">AAPB Wikipedia How-To Guide</a></li>
 </ul>
