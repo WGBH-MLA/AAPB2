@@ -11,9 +11,9 @@ The informational webinars below provide additional background and answers to fr
 These webinars cover how to contribute content to the AAPB, mangage and preserve digital files, and the grant collaboration process. Learn more about contributing content to the AAPB [here](https://americanarchive.org/help/contribute) and read participant testimonials from members of the Station and Producers Advisory Committee [here](https://americanarchive.org/about-the-american-archive/advisory-committees).
 
 ### Preserving Your Station Legacy with the AAPB: Getting Started and Planning for Digitization (2018)
-This presentation covers how stations can contribute their content to the AAPB, what to look for when beginning to preserve content, and what steps should be taken when planning a digitization project.<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+This presentation covers how stations can contribute their content to the AAPB, what to look for when beginning to preserve content, and what steps should be taken when planning a digitization project.<br>
 
 <br>Presenters:<br>
 - Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager<br>
@@ -24,9 +24,9 @@ This presentation covers how stations can contribute their content to the AAPB, 
 [Public Broadcasting Core (PBCore)](https://pbcore.org/), a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.
 
 ### Preserving Your Public Media with the AAPB (2019)
-Hosted by staff at New Mexico PBS and the American Archive of Public Broadcasting, this presentation covers collaborative grants with stations large and small to preserve original materials contributed by five TV and radio stations, archives, and producers in New Mexico.<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/TohIIcS9GaYbx" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/TohIIcS9GaYbx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+Hosted by staff at New Mexico PBS and the American Archive of Public Broadcasting, this presentation covers collaborative grants with stations large and small to preserve original materials contributed by five TV and radio stations, archives, and producers in New Mexico.<br>
 
 <br>Access the live recording by visiting PBS Hub and creating a free account [here](https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881).
 
