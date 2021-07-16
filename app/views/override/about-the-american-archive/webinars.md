@@ -15,12 +15,14 @@ These webinars cover how to contribute content to the AAPB, mangage and preserve
 
 This presentation covers how stations can contribute their content to the AAPB, what to look for when beginning to preserve content, and what steps should be taken when planning a digitization project.
 
-#### Presenters
-- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager
-- Rebecca Fraimow, GBH and AAPB Digital Archives Manager
-- Ryn Marchese, AAPB Engagement and Use Manager
+<h5 class="webinar-title">Presenters</h5>
+<ul class="webinar-list">
+  <li>Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager</li>
+  <li>Rebecca Fraimow, GBH and AAPB Digital Archives Manager</li>
+  <li>Ryn Marchese, AAPB Engagement and Use Manager</li>
+</ul>
 
->Resources:
+####Resources:
 [Public Broadcasting Core (PBCore)](https://pbcore.org/), a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.
 
 ### Preserving Your Public Media with the AAPB (2019)
@@ -30,7 +32,7 @@ Hosted by staff at New Mexico PBS and the American Archive of Public Broadcastin
 
 Access the live recording by visiting PBS Hub and creating a free account [here](https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881).
 
-Presenters:
+#### Presenters
 - Karen Cariani, GBH Archives David O. Ives Executive Director and AAPB Project Director
 - Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager
 - Franz Joachim, New Mexico PBS General Manager & CEO
@@ -47,7 +49,7 @@ Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as 
 
 Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy).
 
-Presenters:
+#### Presenters
 - Kathryn Ostrofsky, Ph.D., Visiting Assistant Professor of History, Clark University
 – Joshua Glick, Ph.D., Assistant Professor of English, Film & Media, Hendrix College, Fellow at MIT’s Open Documentary Lab
 – Ryn Marchese, AAPB Engagement and Use Manager

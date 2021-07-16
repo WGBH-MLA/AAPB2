@@ -49,3 +49,15 @@ span.override {
   width: 50%;
 }
 
+h5.webinar-title {
+  margin-bottom: 0.8em;
+}
+
+ul.webinar-list {
+  list-style-type: none;
+}
+
+ul.webinar-list li::before {
+  content: '- ';
+}
+
