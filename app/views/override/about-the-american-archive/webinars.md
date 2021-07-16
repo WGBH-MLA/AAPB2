@@ -10,12 +10,12 @@ View more slide decks from presentations on the GBH Archives [SlideShare](https:
 
 <a id="Producers"></a>
 ## Stations and Producers
-These webinars cover why digital preservation is important, how to participate in AAPB's mission, and identifies resources for getting started. Visit the AAPB [Contributing Content](https://americanarchive.org/help/contribute) page to learn about the several ways stations and producers can participate in the AAPB. Testimonials on the value of participating are also available from members of the [AAPB Advisory Committee members]( https://americanarchive.org/about-the-american-archive/advisory-committees).
+These webinars cover the importance of digital preservation, resources for getting started, and how to participate in the AAPB mission. Visit the AAPB [Contributing Content](https://americanarchive.org/help/contribute) for additional information and the [AAPB Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) page for member testimonials.
 
 ### Preserving Your Station Legacy with the AAPB: Getting Started and Planning for Digitization (2018)
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-This presentation covers how stations can contribute their content to the AAPB, what to look for when beginning to preserve content, and what steps should be taken when planning a digitization project.
+This presentation covers the several ways stations and producers can contribute their content to the AAPB, what to look for when beginning to preserve content, and what steps should be taken when planning a digitization project.
 
 <h5 class="webinar-title">Presenters</h5>
 <ul class="webinar-list">
@@ -27,7 +27,7 @@ This presentation covers how stations can contribute their content to the AAPB, 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/preserving-your-station-legacy-with-the-american-archive-of-public-broadcasting-getting-started-and-planning-for-digitization">SlideShare</a></li>
-  <li><a href="https://pbcore.org/">PBCore</a> is a metadata standard for the description of audiovisual content featuring tools and resources for cataloging AV content</li>
+  <li><a href="https://pbcore.org/">PBCore</a> is a metadata standard for the description of audiovisual content with tools and resources for cataloging AV content</li>
 </ul>
 
 ### Engage Your Community to Celebrate Your History with the AAPB (2019)
@@ -69,7 +69,7 @@ Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as 
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy">SlideShare</a>
   <li>The <a href="amazon link TBD - https://drive.google.com/file/d/1dbjJQXnpoQQTBslo-35eO3gjjuPf0ssH/view?usp=sharing">AAPB Guide for Student Inquiry with Audiovisual Materials</a> is a complimentary guide with step-by-step instructions on how to incorporate AAPB’s audiovisual materials into media literacy lessons, including example questions, talking points, discussion topics, and suggested readings to pair with AAPB audiovisual materials. Recommended for high school and higher education classrooms</li>
   <li>The <a href="amazon link TBD - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing">AAPB Guide: How To Search and Share</a> explores how to navigate the collections made available online in the AAPB, including access points, helpful search tips, and step-by-step instructions for the share/embed feature</li> 
-  <li>Instructions for how to use the search/embed feature is also available on the AAPB Blog <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">"AAPB Blog"</a></li>
+  <li>Instructions for how to use the search/embed feature are also available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB Blog</a></li>
 </ul>
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
@@ -87,7 +87,7 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 <ul class="webinar-list">
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb">SlideShare</a></li>
    <li>The <a href="amazon link TBD - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing">AAPB Guide: How To Search and Share</a> explores how to navigate the collections made available online in the AAPB, including access points, helpful search tips, and step-by-step instructions for the share/embed feature</li>
-  <li>Instructions for how to use the search/embed feature is also available on the AAPB Blog <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">"AAPB Blog"</a></li>
+  <li>Instructions for how to use the search/embed feature are also available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB Blog</a></li>
 </ul>
 
 <a id="Volunteers"></a>
