@@ -81,15 +81,13 @@ Presenters
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy).
-  <li>[AAPB Guide for Student Inquiry with Audiovisual Materials](amazon link)
-Download this complimentary guide with step-by-step instructions on how to incorporate AAPB’s audiovisual materials into media literacy lessons, including example questions, talking points, discussion topics, and suggested readings to pair with the audiovisual materials. Recommended for high school and higher education classrooms.</li>
-  <li>[AAPB Guide: How To Search and Share](amazon link)
-Use this PDF as a guide to help navigate the collections made available online in the AmericanArchive of Public Broadcasting (AAPB). Included are easy access points to the collection,helpful search tips, and step-by-step instructions for the share/embed function.</li>
+  <li>The [AAPB Guide for Student Inquiry with Audiovisual Materials](amazon link - https://drive.google.com/file/d/1dbjJQXnpoQQTBslo-35eO3gjjuPf0ssH/view?usp=sharing) is a complimentary guide with step-by-step instructions on how to incorporate AAPB’s audiovisual materials into media literacy lessons, including example questions, talking points, discussion topics, and suggested readings to pair with AAPB audiovisual materials. Recommended for high school and higher education classrooms.</li>
+  <li>The [AAPB Guide: How To Search and Share](amazon link - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing) explores how to navigate the collections made available online in the AAPB, including easy access points, helpful search tips, and step-by-step instructions for the share/embed feature.</li>
   <li>[Learn How to Share and Embed AAPB Content](https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) Blog Post</li>
 </ul>
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/EXVObrKgP2MWGP" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="padding:64.9% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570389538?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ShareMyLesson_Webinar.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the American Archive of Public Broadcasting (AAPB), providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on activities to engage students with primary sources in the AAPB's Protesting in America Exhibit.
 
@@ -106,8 +104,7 @@ Presenters
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb).</li>
-  <li>[AAPB Guide: How To Search and Share](amazon link)
-Use this PDF as a guide to help navigate the collections made available online in the AmericanArchive of Public Broadcasting (AAPB). Included are easy access points to the collection, helpful search tips, and step-by-step instructions for the share/embed function.</li>
+  <li>The [AAPB Guide: How To Search and Share](amazon link - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing) explores how to navigate the collections made available online in the AAPB, including easy access points, helpful search tips, and step-by-step instructions for the share/embed feature.</li>
 </ul>
 
 <a id="Volunteers"></a>
@@ -131,8 +128,8 @@ Presenter
 <ul class="webinar-list">
   <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing).</li>
   <li>FIX IT+ Demonstration [Video](https://drive.google.com/file/d/1dXlt2n2wVpOr8CmxoUbQ4baJlGvPGT0k/view?usp=sharing)</li>
-  <li>[FIX IT+ Guide](https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing)</li>
-  <li>[FAQs](https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing)</li>
+  <li>The [FIX IT+ Guide](https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing) covers brief instructions on how start editing using preferred editing conventions.</li>
+  <li>[FAQs](https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing) cover commonly asked questions by FIX IT+ editors.</li>
 </ul>
 
 ### Wikipedia Edit-a-thon (2020)
@@ -153,5 +150,5 @@ Presenters
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide).</li>
-  <li>[AAPB Wikipedia How-To Guide](amazon link)</li>
+  <li>The [AAPB Wikipedia How-To Guide](amazon link - https://drive.google.com/file/d/1M_bdQybMPOtSU9nrkJpI4H5LuY3Asplu/view?usp=sharing)</li>
 </ul>
