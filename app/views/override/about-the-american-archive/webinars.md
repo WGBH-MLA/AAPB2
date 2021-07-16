@@ -26,7 +26,7 @@ This presentation covers how stations can contribute their content to the AAPB, 
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/preserving-your-station-legacy-with-the-american-archive-of-public-broadcasting-getting-started-and-planning-for-digitization">here</a>.</li>
+  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/preserving-your-station-legacy-with-the-american-archive-of-public-broadcasting-getting-started-and-planning-for-digitization">here</a></li>
   <li><a href="https://pbcore.org/">Public Broadcasting Core (PBCore)</a> is a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.</li>
 </ul>
 
@@ -85,7 +85,7 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb">here</a>.</li>
+  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb">here</a></li>
   <li>The <a href="amazon link - https://drive.google.com/file/d/1J4oI6SqQaTfOUuoeGVb0Z9lIHWlLcQsQ/view?usp=sharing">AAPB Guide: How To Search and Share</a> explores how to navigate the collections made available online in the AAPB, including easy access points, helpful search tips, and step-by-step instructions for the share/embed feature.</li>
 </ul>
 
@@ -106,7 +106,7 @@ Corrected transcripts improve the searchability of historic programs in the Amer
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Visit FIX IT+ at <a href="http://fixitplus.americanarchive.org/">fixitplus.americanarchive.org</a></li>
-  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing">here</a>.</li>
+  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing">here</a></li>
   <li>FIX IT+ Demonstration <a href="https://drive.google.com/file/d/1dXlt2n2wVpOr8CmxoUbQ4baJlGvPGT0k/view?usp=sharing">Video</a></li>
   <li>The <a href="https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing">FIX IT+ Guide</a> covers brief instructions on how start editing using preferred editing conventions.</li>
   <li><a href="(https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing) cover commonly asked questions by FIX IT+ editors">FAQs</a>.</li>
@@ -125,7 +125,7 @@ Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Visit the Wikipedia Meetup page with information from previous edit-a-thons <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020">here</a>.
-  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide">here</a>).</li>
+  <li>Visit the Wikipedia Meetup page with information from previous edit-a-thons <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020">here</a>
+  <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide">here</a></li>
   <li>The <a href="(amazon link TBD - https://drive.google.com/file/d/1M_bdQybMPOtSU9nrkJpI4H5LuY3Asplu/view?usp=sharing)">AAPB Wikipedia How-To Guide</a></li>
 </ul>
