@@ -27,7 +27,7 @@ This presentation covers how stations can contribute their content to the AAPB, 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides <a href="https://www.slideshare.net/WGBH_Archives/preserving-your-station-legacy-with-the-american-archive-of-public-broadcasting-getting-started-and-planning-for-digitization">here</a>.</li>
-  <li><a href="https://pbcore.org/">Public Broadcasting Core (PBCore)</a>) is a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.</li>
+  <li><a href="https://pbcore.org/">Public Broadcasting Core (PBCore)</a> is a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.</li>
 </ul>
 
 ### Engage Your Community to Celebrate Your History with the AAPB (2019)
@@ -45,7 +45,7 @@ Hosted by staff at New Mexico PBS and the American Archive of Public Broadcastin
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Access the live recording by visiting PBS Hub and creating a free account <a href="https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881").</li>
+  <li>Access the live recording by visiting PBS Hub and creating a free account <a href="https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881">here</a>.</li>
 </ul>
 
 <a id="Educators"></a>
@@ -94,7 +94,7 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 Review video tutorials and presentations slides from events aimed at helping to make the content in the AAPB more searchable and accessible online.
 
 ### FIX IT+ Transcript Edit-a-thon (2020)
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/569998838?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Peabody_Transcriptathon_Explanation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/569998838" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Corrected transcripts improve the searchability of historic programs in the American Archive of Public Broadcasting and the staff needs YOUR help! This presentation includes an overview of the AAPB's mission, why FIX IT+ is important, and brief instructions on preferred editing conventions.
 
