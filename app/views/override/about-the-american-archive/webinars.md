@@ -8,7 +8,7 @@ The informational webinars below provide additional background and answers to fr
 
 <a id="Producers"></a>
 ## Stations and Producers
-These webinars cover how to contribute content to the AAPB, mangage and preserve digital files, and the grant collaboration process. Learn more about contributing content to the AAPB [here](https://americanarchive.org/help/contribute) and read participant testimonials from members of the Station and Producers Advisory Committee [here](https://americanarchive.org/about-the-american-archive/advisory-committees).
+These webinars cover how to contribute content to the AAPB, manage and preserve digital files, and the grant collaboration process. Learn more about contributing content to the AAPB [here](https://americanarchive.org/help/contribute) and read participant testimonials from members of the Station and Producers Advisory Committee [here](https://americanarchive.org/about-the-american-archive/advisory-committees).
 
 ### Preserving Your Station Legacy with the AAPB: Getting Started and Planning for Digitization (2018)
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
@@ -103,6 +103,7 @@ Corrected transcripts improve the searchability of historic programs in the Amer
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
+  <li>Visit FIX IT+ at [fixitplus.americanarchive.org](http://fixitplus.americanarchive.org/)</li>
   <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing).</li>
   <li>FIX IT+ Demonstration [Video](https://drive.google.com/file/d/1dXlt2n2wVpOr8CmxoUbQ4baJlGvPGT0k/view?usp=sharing)</li>
   <li>The [FIX IT+ Guide](https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing) covers brief instructions on how start editing using preferred editing conventions.</li>
@@ -122,6 +123,7 @@ Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
+  <li>Visit the Wikipedia Meetup page for previous edit-a-thons [here](https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020).
   <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide).</li>
   <li>The [AAPB Wikipedia How-To Guide](amazon link TBD - https://drive.google.com/file/d/1M_bdQybMPOtSU9nrkJpI4H5LuY3Asplu/view?usp=sharing)</li>
 </ul>
