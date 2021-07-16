@@ -123,7 +123,7 @@ Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Visit the Wikipedia Meetup page for previous edit-a-thons [here](https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020).
+  <li>Visit the Wikipedia Meetup page with information from previous edit-a-thons [here](https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020).
   <li>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide).</li>
   <li>The [AAPB Wikipedia How-To Guide](amazon link TBD - https://drive.google.com/file/d/1M_bdQybMPOtSU9nrkJpI4H5LuY3Asplu/view?usp=sharing)</li>
 </ul>
