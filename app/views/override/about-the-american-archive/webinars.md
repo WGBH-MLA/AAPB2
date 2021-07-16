@@ -13,28 +13,28 @@ These webinars cover how to contribute content to the AAPB, mangage and preserve
 ### Preserving Your Station Legacy with the AAPB: Getting Started and Planning for Digitization (2018)
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-This presentation covers how stations can contribute their content to the AAPB, what to look for when beginning to preserve content, and what steps should be taken when planning a digitization project.<br>
+This presentation covers how stations can contribute their content to the AAPB, what to look for when beginning to preserve content, and what steps should be taken when planning a digitization project.
 
-<br>Presenters:<br>
-- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager<br>
-- Rebecca Fraimow, GBH and AAPB Digital Archives Manager<br>
-- Ryn Marchese, AAPB Engagement and Use Manager<br>
+Presenters:
+- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager
+- Rebecca Fraimow, GBH and AAPB Digital Archives Manager
+- Ryn Marchese, AAPB Engagement and Use Manager
 
->Resources:<br>
+>Resources:
 [Public Broadcasting Core (PBCore)](https://pbcore.org/), a metadata standard for the description of audiovisual content. The site features many tools and resources for cataloging AV content.
 
 ### Preserving Your Public Media with the AAPB (2019)
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/TohIIcS9GaYbx" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-Hosted by staff at New Mexico PBS and the American Archive of Public Broadcasting, this presentation covers collaborative grants with stations large and small to preserve original materials contributed by five TV and radio stations, archives, and producers in New Mexico.<br>
+Hosted by staff at New Mexico PBS and the American Archive of Public Broadcasting, this presentation covers collaborative grants with stations large and small to preserve original materials contributed by five TV and radio stations, archives, and producers in New Mexico.
 
-<br>Access the live recording by visiting PBS Hub and creating a free account [here](https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881).
+Access the live recording by visiting PBS Hub and creating a free account [here](https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881).
 
-Presenters:<br>
-- Karen Cariani, GBH Archives David O. Ives Executive Director and AAPB Project Director<br>
-- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager<br>
-- Franz Joachim, New Mexico PBS General Manager & CEO<br>
-- Michael Kamins, New Mexico PBS Executive Producer, Arts & Cultural Affairs<br>
+Presenters:
+- Karen Cariani, GBH Archives David O. Ives Executive Director and AAPB Project Director
+- Casey Davis Kaufman, GBH Archives Associate Director and AAPB Project Manager
+- Franz Joachim, New Mexico PBS General Manager & CEO
+- Michael Kamins, New Mexico PBS Executive Producer, Arts & Cultural Affairs
 
 <a id="Educators"></a>
 ## Scholars, Educators, and Researchers
@@ -43,21 +43,21 @@ Gain an understanding of AAPB’s open-access digital collection and the feature
 ### AAPB as a Digital Library for Teaching Media Literacy (2019)
 <iframe src="https://player.vimeo.com/video/375722996" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as a digital library for teaching media literacy. The presenters describe lectures, workshops and assignments they have created using programs in the AAPB, and AAPB staff share some of the ways that instructors can navigate students to the collection via special collections, curated exhibits and the search, browse and share features.<br>
+Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as a digital library for teaching media literacy. The presenters describe lectures, workshops and assignments they have created using programs in the AAPB, and AAPB staff share some of the ways that instructors can navigate students to the collection via special collections, curated exhibits and the search, browse and share features.
 
-<br>Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy).
+Download the presentation slides [here](https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy).
 
-Presenters:<br>
-- Kathryn Ostrofsky, Ph.D., Visiting Assistant Professor of History, Clark University<br>
-– Joshua Glick, Ph.D., Assistant Professor of English, Film & Media, Hendrix College, Fellow at MIT’s Open Documentary Lab<br>
-– Ryn Marchese, AAPB Engagement and Use Manager<br>
+Presenters:
+- Kathryn Ostrofsky, Ph.D., Visiting Assistant Professor of History, Clark University
+– Joshua Glick, Ph.D., Assistant Professor of English, Film & Media, Hendrix College, Fellow at MIT’s Open Documentary Lab
+– Ryn Marchese, AAPB Engagement and Use Manager
  
-Resources:<br>
+>Resources:
 - [AAPB Guide for Student Inquiry with Audiovisual Materials](amazon link)
-Download this complimentary guide with step-by-step instructions on how to incorporate AAPB’s audiovisual materials into media literacy lessons, including example questions, talking points, discussion topics, and suggested readings to pair with the audiovisual materials. Recommended for high school and higher education classrooms.<br>
+Download this complimentary guide with step-by-step instructions on how to incorporate AAPB’s audiovisual materials into media literacy lessons, including example questions, talking points, discussion topics, and suggested readings to pair with the audiovisual materials. Recommended for high school and higher education classrooms.
 - [AAPB Guide: How To Search and Share](amazon link)
-Use this PDF as a guide to help navigate the collections made available online in the AmericanArchive of Public Broadcasting (AAPB). Included are easy access points to the collection,helpful search tips, and step-by-step instructions for the share/embed function.<br>
-- [Learn How to Share and Embed AAPB Content](https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) Blog Post<br>
+Use this PDF as a guide to help navigate the collections made available online in the AmericanArchive of Public Broadcasting (AAPB). Included are easy access points to the collection,helpful search tips, and step-by-step instructions for the share/embed function.
+- [Learn How to Share and Embed AAPB Content](https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) Blog Post
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/EXVObrKgP2MWGP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
@@ -70,7 +70,7 @@ Presenters:<br>
 - Benjamin Leff, Social Studies Teaching Associate at the University Laboratory High School and member of the AAPB [Education Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees)<br>
 – Ryn Marchese, AAPB Engagement and Use Manager<br>
 
-Resources:<br>
+>Resources:<br>
 - [AAPB Guide: How To Search and Share](amazon link)
 Use this PDF as a guide to help navigate the collections made available online in the AmericanArchive of Public Broadcasting (AAPB). Included are easy access points to the collection, helpful search tips, and step-by-step instructions for the share/embed function.
 
@@ -88,7 +88,7 @@ Corrected transcripts improve the searchability of historic programs in the Amer
 Presenter:<br>
 - Ryn Marchese, AAPB Engagement and Use Manager<br>
 
-Resources:<br>
+>Resources:<br>
 - FIX IT+ Demonstration [Video](https://drive.google.com/file/d/1dXlt2n2wVpOr8CmxoUbQ4baJlGvPGT0k/view?usp=sharing)<br>
 - [FIX IT+ Guide](https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing)<br>
 - [FAQs](https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing)<br>
