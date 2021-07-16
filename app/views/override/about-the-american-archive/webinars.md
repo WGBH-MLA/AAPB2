@@ -1,7 +1,7 @@
 # Webinars
 The informational webinars below provide additional background and answers to frequently asked questions from communities that the AAPB seeks to serve. If you have additional questions, contact AAPB staff at aapb_notifications@wgbh.org.
 
-For webinars on computational tools and archiving digital collections, presentations by AAPB developers, digital archivists, and metadata specialists are available [here](https://www.slideshare.net/WGBH_Archives/presentations). 
+For more information on computational tools and archiving digital collections, view the presentations by AAPB developers, digital archivists, and metadata specialists [here](https://www.slideshare.net/WGBH_Archives/presentations).
 
 #### Webinars for communities:
 [**Stations and Producers**](#Producers)<br>
