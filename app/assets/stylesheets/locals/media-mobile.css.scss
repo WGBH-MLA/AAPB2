@@ -111,8 +111,14 @@
   }
 
   .gallery-header {
+    height: auto;
+    background-repeat: repeat;
+    background-size: cover;
+
     h1 {
+      line-height: 2em;
       font-size: 1.1em;
+      padding-left: 12px;
     }
   }
 
