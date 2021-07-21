@@ -67,7 +67,7 @@ Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy">SlideShare</a>
-  <li>Instructions on how to use the search/embed feature are also available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB blog</a></li>
+  <li>Instructions on how to use the search and embed features are available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB blog</a></li>
 </ul>
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
@@ -84,7 +84,7 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb">SlideShare</a></li>
-  <li>Instructions on how to use the search/embed feature are also available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB blog</a></li>
+  <li>Instructions on how to use the search and embed features are available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB blog</a></li>
 </ul>
 
 <a id="Volunteers"></a>
