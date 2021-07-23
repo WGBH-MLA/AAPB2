@@ -2,15 +2,12 @@
 
 In collaboration with the [Society for Cinema and Media Studies](https://www.cmstudies.org/) (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 
-### Episode 03: Indigenous Public Media with Producer Shirley Sneve
+### Episode 03: Indigenous Public Media with Shirley Sneve, Vice President of Broadcasting for <i>Indian Country Today</i>
+Aug 10, 2021
 
 <YOUTUBE>
  
-July, 2021<br>
-Episode description:<br>
-In the third episode of "Presenting the Past," Shirley Sneve, Vice President of Indian Country Today, reflects on the intergenerational perspectives that make Indigenous media unique. In her former role as the Executive Director of Vision Maker Media, Sneve was instrumental in organizing the [Vision Maker Media Documentaries Collection](https://americanarchive.org/special_collections/vision-maker-media) in the AAPB, featuring 40 Native produced documentaries. Sneve highlights documentaries from that collection that reflect on the importance of Indigenous cultural preservation.
-
-<i>Content warning: this archival content contains descriptions of violence and racial slurs.</i>
+In the third episode of "Presenting the Past," Shirley Sneve, Vice President of Broadcasting for <i>Indian Country Today</i>, reflects on her work with <i>Indian Country Today</i>, Vision Maker Media (VMM), and archiving with the AAPB. Sneve also comments on the history of Native American public broadcasting, and presents excerpts from a number of the documentaries that VMM has supported that present a diversity of perspectives on traditional and contemporary Native American culture.
 
 Credits:<br>
 Hosted, recorded, and edited by Christine Becker<br>
@@ -51,11 +48,11 @@ Post-production and theme music by Todd Thompson<br>
 </div>
 
 ### Episode 02: <i>On the Right: NET and Modern Conservatism</i> with Allison Perlman, PhD
+June 8, 2021
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bZP-giVJOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-June 8, 2021<br>
-Episode description:<br>
 In the second episode of "Presenting the Past," Allison Perlman, assistant professor in the departments of film and media studies and history at the University of California, Irvine, compares two National Educational Television (NET) programs created to educate the audiences on the modern Conservatism party in the 1960s. Perlman also provides background on NET, the predecessor of Public Broadcasting Service (PBS) leading up to the Public Broadcasting Act of 1967.
 
 <i>Content warning: this archival content contains descriptions of violence and racial slurs.</i>
@@ -83,11 +80,10 @@ Post-production and theme music by Todd Thompson<br>
 </div>
 
 ### Episode 01: <i>Eyes on the Prize</i> with Michelle Kelley, PhD
+May 10, 2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14e5qV4jL04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-May 10, 2021<br>
-Episode description:<br>
 In the first episode of “Presenting the Past,” film scholar Michelle Kelley highlights a collection of 127 unedited interviews conducted for the landmark PBS documentary series <i>Eyes on the Prize: America's Civil Rights Years, 1954–1965</i>, first broadcast in January 1987. Kelley provides context to the making of the series and explores examples of interviews that give different, yet valuable, perspectives on the civil rights movement than the one presented in the final cut of the series.
 
 <i>Content warning: this archival content contains descriptions of violence and racial slurs.</i>
