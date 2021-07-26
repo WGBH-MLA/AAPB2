@@ -107,8 +107,8 @@ Corrected transcripts improve the searchability of historic programs in the Amer
 <ul class="webinar-list">
   <li>Visit FIX IT+ at <a href="http://fixitplus.americanarchive.org/">fixitplus.americanarchive.org</a></li>
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/fix-it-transcript-editing">SlideShare</a></li>
-  <li>The <a href="https://drive.google.com/file/d/1sP7cPBYBKxgS2Kgm7mrMfLTBPukmqriq/view?usp=sharing">FIX IT+ Guide</a> covers brief instructions on preferred editing conventions</li>
-  <li><a href="(https://drive.google.com/file/d/1MikzwFwmxPr8Bwn5Bhcx2QnMmNDt61oM/view?usp=sharing) cover commonly asked questions by FIX IT+ editors">FAQs</a></li>
+  <li>The <a href="https://s3.amazonaws.com/americanarchive.org/downloadable_resources/FIXIT_Guide.pdf">FIX IT+ Guide</a> covers brief instructions on preferred editing conventions</li>
+  <li><a href="https://s3.amazonaws.com/americanarchive.org/downloadable_resources/FIXIT_FAQs.pdf">FAQs</a> cover commonly asked questions by FIX IT+ editors</li>
 </ul>
 
 ### Wikipedia Edit-a-thon (2020)
@@ -124,7 +124,7 @@ Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Visit the <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020">Wikipedia Meetup page</a> with additional instructions from previous edit-a-thons</li>
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide">SlideShare</a></li>
-  <li>The <a href="(amazon link TBD - https://drive.google.com/file/d/1M_bdQybMPOtSU9nrkJpI4H5LuY3Asplu/view?usp=sharing)">AAPB Wikipedia How-To Guide</a></li>
+  <li>Visit the <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020">Wikipedia Meetup page</a> with additional instructions from previous edit-a-thons</li>
+  <li><a href="https://s3.amazonaws.com/americanarchive.org/downloadable_resources/AAPB_HowTo_WikipediaSeries_2020.pdf">AAPB Wikipedia How-To Guide</a></li>
 </ul>
