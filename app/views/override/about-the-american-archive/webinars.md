@@ -55,7 +55,7 @@ Gain an understanding of AAPB’s open-access digital collection and the feature
 ### AAPB as a Digital Library for Teaching Media Literacy (2019)
 <iframe src="https://player.vimeo.com/video/375722996" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as a digital library for teaching media literacy. The presenters describe lectures, workshops and assignments they have created using programs in the AAPB, and AAPB staff share some of the ways that instructors can navigate students to the collection via special collections, curated exhibits and the search, browse and share features.
+Media studies scholars Kathryn Ostrofsky and Joshua Glick discuss using the AAPB as a digital library for teaching media literacy. The presenters describe lectures, workshops and assignments they have created using programs in the AAPB, and AAPB staff share some of the ways that instructors can navigate students to the collection via special collections, curated exhibits and the website's search, browse and share features.
 
 <h5 class="webinar-title">Presenters</h5>
 <ul class="webinar-list">
@@ -73,11 +73,11 @@ Professors Dr. Kathryn Ostrofsky and Dr. Joshua Glick discuss using the AAPB as 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
 <iframe src="https://player.vimeo.com/video/570389538" width="595" height="385" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the American Archive of Public Broadcasting (AAPB), providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on activities to engage students with primary sources in the AAPB <a href="https://americanarchive.org/exhibits/first-amendment">Speaking and Protesting in America Exhibit</a>.
+Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the AAPB, providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on activities to engage students with primary sources in the AAPB <a href="https://americanarchive.org/exhibits/first-amendment">Speaking and Protesting in America Exhibit</a>.
 
 <h5 class="webinar-title">Presenters</h5>
 <ul class="webinar-list">
-  <li>Benjamin Leff, Social Studies Teaching Associate at the University Laboratory High School and member of the <a href="https://americanarchive.org/about-the-american-archive/advisory-committees">AAPB Education Advisory Committee</a></li>
+  <li>Benjamin Leff, Social Studies Teaching Associate at the University of Illinois Laboratory High School and member of the <a href="https://americanarchive.org/about-the-american-archive/advisory-committees">AAPB Education Advisory Committee</a></li>
  <li>Ryn Marchese, AAPB Engagement and Use Manager</li>
 </ul>
 
@@ -112,7 +112,7 @@ Corrected transcripts improve the searchability of historic programs in the Amer
 ### Wikipedia Edit-a-thon (2020)
 <iframe src="https://player.vimeo.com/video/570004023" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’s largest online encyclopedia, and improve the searchability of historic public radio and television collections in the American Archive of Public Broadcasting (AAPB). The video tutorials above explain how to create a Wikipedia user account, edit Wikipedia articles using common conventions, and update Wikipedia articles with relevant items in the AAPB.
+Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’s largest online encyclopedia, and improve the searchability of historic public radio and television collections in the AAPB. The video tutorials explain how to create a Wikipedia user account, edit Wikipedia articles using common conventions, and update Wikipedia articles with relevant items in the AAPB.
 
 <h5 class="webinar-title">Presenters</h5>
 <ul class="webinar-list">
