@@ -5,12 +5,16 @@ View more slide decks from presentations on the GBH Archives [SlideShare](https:
 
 #### Webinars for communities:
 [**Stations and Producers**](#Producers)<br>
+These webinars cover the importance of digital preservation, resources for getting started, and how to participate in the AAPB. Visit the AAPB [Contributing Content](https://americanarchive.org/help/contribute) for additional information and the [AAPB Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) page for member testimonials.
+
 [**Scholars and Educators**](#Educators)<br>
+Gain an understanding of AAPB’s open-access digital collection and the features that make it easy to incorporate items from the collection into lectures, assignments, and curriculum.
+
 [**Volunteers**](#Volunteers)<br>
+Review video tutorials and presentations slides from events aimed at helping to make the content in the AAPB more searchable and accessible online.
 
 <a id="Producers"></a>
 ## Stations and Producers
-These webinars cover the importance of digital preservation, resources for getting started, and how to participate in the AAPB. Visit the AAPB [Contributing Content](https://americanarchive.org/help/contribute) for additional information and the [AAPB Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) page for member testimonials.
 
 ### Preserving Your Station Legacy with the AAPB: Getting Started and Planning for Digitization (2018)
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/MT4r3lkiHAJpsb" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
@@ -50,7 +54,6 @@ Hosted by staff at New Mexico PBS and the American Archive of Public Broadcastin
 
 <a id="Educators"></a>
 ## Scholars and Educators
-Gain an understanding of AAPB’s open-access digital collection and the features that make it easy to incorporate items from the collection into lectures, assignments, and curriculum.
 
 ### AAPB as a Digital Library for Teaching Media Literacy (2019)
 <iframe src="https://player.vimeo.com/video/375722996" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -89,7 +92,6 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 
 <a id="Volunteers"></a>
 ## Volunteers
-Review video tutorials and presentations slides from events aimed at helping to make the content in the AAPB more searchable and accessible online.
 
 ### FIX IT+ Transcript Edit-a-thon (2020)
 <iframe src="https://player.vimeo.com/video/569998838" width="595" height="325" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
