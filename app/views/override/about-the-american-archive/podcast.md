@@ -7,7 +7,7 @@ Aug 10, 2021
 
 <YOUTUBE>
  
-In the third episode of "Presenting the Past," Shirley Sneve, Vice President of Broadcasting for <i>Indian Country Today</i>, reflects on her work with <i>Indian Country Today</i>, Vision Maker Media (VMM), and archiving with the AAPB. Sneve also comments on the history of Native American public broadcasting, and presents excerpts from a number of the documentaries that VMM has supported that present a diversity of perspectives on traditional and contemporary Native American culture.
+In the third episode of "Presenting the Past," Shirley Sneve, Vice President of Broadcasting for <i>Indian Country Today</i>, reflects on her work with <i>Indian Country Today</i>, Vision Maker Media (VMM), and archiving with the AAPB. Sneve also comments on the history of Native American public broadcasting and presents excerpts from a few of the documentaries that VMM has supported that present a diversity of perspectives on traditional and contemporary Native American culture.
 
 Credits:<br>
 Hosted, recorded, and edited by Christine Becker<br>
