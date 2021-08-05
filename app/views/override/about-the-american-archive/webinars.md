@@ -5,10 +5,10 @@ View more slide decks from presentations on the GBH Archives [SlideShare](https:
 
 #### Webinars for communities:
 [**Stations and Producers**](#Producers)<br>
-These webinars cover the importance of digital preservation, resources for getting started, and how to participate in the AAPB. Visit the AAPB [Contributing Content](https://americanarchive.org/help/contribute) for additional information and the [AAPB Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) page for member testimonials.
+These webinars cover the importance of digital preservation, resources for getting started, and how to participate in the AAPB. Visit the AAPB [Contributing Content](https://americanarchive.org/help/contribute) page for additional information and the [AAPB Advisory Committee](https://americanarchive.org/about-the-american-archive/advisory-committees) page for member testimonials.
 
 [**Scholars and Educators**](#Educators)<br>
-Gain an understanding of AAPB’s open-access digital collection and the features that make it easy to incorporate items from the collection into lectures, assignments, and curriculum.
+Gain an understanding of AAPB’s open-access digital collection and the [features](https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/) that make it easy to incorporate items from the collection into lectures, assignments, and curriculum.
 
 [**Volunteers**](#Volunteers)<br>
 Review video tutorials and presentations slides from events aimed at helping to make the content in the AAPB more searchable and accessible online.
@@ -37,7 +37,7 @@ This presentation covers the several ways stations and producers can contribute 
 ### Engage Your Community to Celebrate Your History with the AAPB (2019)
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/TohIIcS9GaYbx" width="595" height="385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-Hosted by staff at New Mexico PBS and the American Archive of Public Broadcasting, this presentation covers a state-wide grant collaboration to preserve original materials contributed by five TV and radio stations in New Mexico.
+Hosted by staff at New Mexico PBS and the AAPB, this presentation covers a state-wide grant collaboration to preserve original materials contributed by five TV and radio stations in New Mexico.
 
 <h5 class="webinar-title">Presenters</h5>
 <ul class="webinar-list">
@@ -49,7 +49,7 @@ Hosted by staff at New Mexico PBS and the American Archive of Public Broadcastin
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Visit <a href="https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881">PBS Hub</a> and create a free account to access a recording of the presentation</li>
+  <li>Access a recording of this presentation by visitinig <a href="https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881">PBS Hub</a> and creating a free account</li>
 </ul>
 
 <a id="Educators"></a>
@@ -70,13 +70,13 @@ Media studies scholars Kathryn Ostrofsky and Joshua Glick discuss using the AAPB
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/american-archive-of-public-broadcasting-a-digital-library-for-teaching-media-literacy">SlideShare</a>
-  <li>Instructions on how to use the search and embed features are available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB blog</a></li>
+  <li>Instructions on how to use the share and embed feature are available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB blog</a></li>
 </ul>
 
 ### Press Play on History: Unlocking 70 Years of Primary Source Materials for Distance Learning with AAPB (2020)
 <iframe src="https://player.vimeo.com/video/570389538" width="595" height="385" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the AAPB, providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on activities to engage students with primary sources in the AAPB <a href="https://americanarchive.org/exhibits/first-amendment">Speaking and Protesting in America Exhibit</a>.
+Created for K-12 educators via Share My Lesson by the American Federation of Teachers, this webinar is an online exploration of the digital collections within the AAPB, providing educators with online, audiovisual materials for distance teaching and learning. The “Press Play on History” webinar focuses on <a href="https://americanarchive.org/exhibits/first-amendment/protesting-activities">suggested learning activities</a> to engage students with primary sources in the <a href="https://americanarchive.org/exhibits/first-amendment">AAPB Speaking and Protesting in America Exhibit</a>.
 
 <h5 class="webinar-title">Presenters</h5>
 <ul class="webinar-list">
@@ -87,7 +87,9 @@ Created for K-12 educators via Share My Lesson by the American Federation of Tea
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/press-play-on-history-unlocking-70-years-of-primary-source-materials-for-distance-learning-with-the-aapb">SlideShare</a></li>
-  <li>Instructions on how to use the search and embed features are available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB blog</a></li>
+  <li>Visit the <a href="https://americanarchive.org/exhibits/first-amendment/protesting-activities">Suggested Learning Activities</a> page in the AAPB Speaking and Protesting in America Exhibit</li>
+  <li>Instructions on how to use the share and embed feature are available on the <a href="https://blog.americanarchive.org/2020/01/04/new-year-new-features-how-to-share-and-embed-content-from-collections-in-the-aapb/">AAPB blog</a></li>
+  <li>For more content, visit the <a href="https://sharemylesson.com/partner/american-archive-public-broadcasting">AAPB partner page</a> on the Share My Lesson website</li>
 </ul>
 
 <a id="Volunteers"></a>
@@ -125,6 +127,6 @@ Wikipedia Edit-a-thons help to strengthen the quality of Wikipedia, the world’
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
   <li>Download the presentation slides from <a href="https://www.slideshare.net/WGBH_Archives/wikipedia-editathon-how-to-guide">SlideShare</a></li>
-  <li>Visit the <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020">Wikipedia Meetup page</a> with additional instructions from previous edit-a-thons</li>
+  <li>Visit the <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/American_Archive_of_Public_Broadcasting:_Wikipedia_Edit-a-Thon_Series_2020">Wikipedia Meetup page</a> for additional instructions from previous edit-a-thons</li>
   <li>The <a href="https://s3.amazonaws.com/americanarchive.org/downloadable_resources/AAPB_HowTo_WikipediaSeries_2020.pdf">AAPB Wikipedia How-To Guide</a> covers preferred editing conventions</li>
 </ul>
