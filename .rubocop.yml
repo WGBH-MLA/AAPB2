@@ -5,6 +5,9 @@ AllCops:
     - 'vendor/**/*'
     - 'lib/wp_data.rb'
     - 'app/models/search_builder.rb'
+    - 'app/assets/stylesheets/timeline.css'
+    # ignoring until we can sort out ruby parser version issue with rubocop (defaults to 2.0 parser, but newer parser versions show 400+ violations)
+    - 'app/models/exhibit.rb'
 
 Metrics/ClassLength:
   Enabled: false

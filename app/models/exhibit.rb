@@ -21,6 +21,11 @@ class Exhibit < Cmless
 
   attr_reader :head_html
 
+  def self.config
+    # load config
+    @exhibit_config ||= YAML.load_file(Rails.root + 'config/exhibits.yml')
+  end
+
   def self.all_top_level
     @all_top_level ||=
       Exhibit.select { |exhibit| !exhibit.path.match(/\//) }
@@ -44,6 +49,75 @@ class Exhibit < Cmless
 
   def self.find_top_by_item_id(id)
     all_top_level.select { |ex| ex.ids.include?(id) }
+  end
+
+  def config
+    @config ||= begin
+      global_config = Exhibit.config
+      config = global_config
+      if global_config[ top_path ]
+
+        # take custom config for this exhibit
+        config = global_config[top_path].clone
+        
+        global_config.each do |key, value|
+          # drop in global config option for anything undefined
+          config[key] = global_config[key].clone if (global_config[key] && !config[key])
+        end
+
+        # fill in default values for any unset config options
+        if !config[:preview]
+          # meta tags
+          config[:preview] = {
+            title: title,
+            description: ActionView::Base.full_sanitizer.sanitize(summary_html).gsub(/["']/, ''),
+            image: thumbnail_url
+          }
+        end
+      end
+
+      config
+    end
+  end
+
+  def meta_tags
+    %(
+      <meta property="og:title" content="#{config[:preview][:title]} | American Archive of Public Broadcasting" />
+      <meta property="og:description" content="#{config[:preview][:description]}" />
+
+      <meta property="og:image" content="#{config[:preview][:image]}" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@amarchivepub" />
+    )
+  end
+
+  def section_hash
+    # refer to sections by title rather than cmless array 
+    @section_hash ||= begin
+      h = {}
+      subsections.each {|c| h[c.path] = c }
+      h
+    end
+  end
+
+  def sections
+    if config["sections"]
+      config["sections"].map {|section_path| section_hash[section_path] } 
+    else
+      subsections.reject {|c| c.title.end_with?("Notes") || c.title.end_with?("Resources") }.sort_by {|c| c.title }
+    end
+  end
+
+  def subsections
+    children.present? ? children : ancestors.first.children
+  end
+
+  def notes_cover
+    @notes_cover ||= section_hash["#{top_path}/notes"]&.cover&.to_s&.html_safe
+  end
+
+  def resources_cover
+    @resources_cover ||= section_hash["#{top_path}/resources"]&.cover&.to_s&.html_safe
   end
 
   def thumbnail_url
@@ -132,6 +206,7 @@ class Exhibit < Cmless
   def gallery
     @gallery ||=
       begin
+        # take the html that was markdown and is now html and turn each li into a hash so it can be turned back into html in the template render
         Nokogiri::HTML(gallery_html).xpath('//li').map do |gallery_item|
           type = gallery_item.css('a.type').first.text
           credit_link = gallery_item.css('a.credit-link').first
@@ -163,38 +238,40 @@ class Exhibit < Cmless
       end
   end
 
-  def cover
-    section_uri = %(/exhibits/#{path})
+  def uri
+    %(/exhibits/#{path})
+  end
 
-    if section_uri.end_with?('learning-goals')
+  def cover
+    if uri.end_with?('learning-goals')
       # learning goals nnooootes
       %(<div class='exhibit-notes'>
         <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
-          <a href='#{section_uri}'><div class=''>
+          <a href='#{uri}'><div class=''>
             <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/learning_goals.png' class='icon-med' style='top: -2px; position: relative;'>
             Learning Goals
           </a>
         </div>
       </div>)
-    elsif section_uri.end_with?('notes')
+    elsif uri.end_with?('notes')
       # reeeeses notes
       %(<div class='exhibit-notes'>
         <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
 
         <div class=''>
-          <a href='#{section_uri}'>
+          <a href='#{uri}'>
             <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
             Research Notes
           </a>
         </div>
       </div>)
-    elsif section_uri.end_with?('timeline')
+    elsif uri.end_with?('timeline')
       # tiiiiiiiime notes
       %(<div class='exhibit-notes'>
         <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
 
         <div class=''>
-          <a href='#{section_uri}'>
+          <a href='#{uri}'>
             <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/timeline_button_grey.png' class='icon-med' style='top: -2px; position: relative;'>
             Timeline
           </a>
@@ -203,7 +280,7 @@ class Exhibit < Cmless
 
     else
       img = Nokogiri::HTML(cover_html).css('img').first
-      %(<a href='#{section_uri}'>
+      %(<a href='#{uri}'>
         <div style="background-image: url('#{img['src'] if img}');" class='four-four-box exhibit-section'>
 
           <div class='exhibit-cover-overlay bg-color-#{%w(purple pink red).sample}'></div>
@@ -213,7 +290,7 @@ class Exhibit < Cmless
           </div>
         </div>
       </a>)
-    end
+    end.to_s.html_safe
   end
 
   def authors

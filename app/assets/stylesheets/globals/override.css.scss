@@ -3,7 +3,7 @@
 .override-main {
   p:first-child {
     // Special handling for the banner image.
-    margin: 0px;
+    /*margin: 0px;*/
     
     &:after {
       content: "";
@@ -17,6 +17,21 @@
   img {
     float: left;
     margin-right: 10px;
+  }
+
+  h3.spaced-h3 {
+    margin-bottom: 0.2em;
+  }
+
+  p.spaced-paragraph {
+    display: block;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    padding-bottom: 0.5em;
+  }
+
+  p img.left-logo {
+    max-width: 100px;
   }
 }
 
@@ -33,3 +48,4 @@ span.override {
   padding: 2%;
   width: 50%;
 }
+

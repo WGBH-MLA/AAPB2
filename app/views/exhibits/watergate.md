@@ -22,6 +22,7 @@ In February 1973, James Karayn, the president of the National Public Affairs Cen
 - ["Covering Watergate: 40 Years Later With MacNeil And Lehrer (Transcript)"](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer)
 - ["The Watergate Files," online exhibit at the Gerald R. Ford Library & Museum](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html)
 - [The Richard Nixon Presidential Library](https://www.nixonlibrary.gov/index.php)
+- [Brownell, K. (2020). Watergate, the Bipartisan Struggle for Media Access, and the Growth of Cable Television. Modern American History, 3(2-3), 175-198.](https://www.cambridge.org/core/journals/modern-american-history/article/watergate-the-bipartisan-struggle-for-media-access-and-the-growth-of-cable-television/64F2A0E3B8D3EAD28F8E6449DEF11BDE#.YACXac4Wv0s.link)
 
 ## Main
 

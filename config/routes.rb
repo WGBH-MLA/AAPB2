@@ -41,7 +41,8 @@ Rails.application.routes.draw do
     get status_code, to: 'errors#show', status_code: status_code
   end
 
-  get 'robots', to: 'robots#show'
+  # static file instead, no logic needed
+  # get 'robots', to: 'robots#show'
 
   override_constraints = lambda do |req|
     path = req.params['path']
@@ -55,6 +56,7 @@ Rails.application.routes.draw do
 
   match 'recaptcha', to: 'forms#validate_recaptcha', via: [:post]
 
+  get '/timelines/eotp', to: 'timelines#eotp'
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
   get '/educator_resources', to: 'educator_resources#index'
 

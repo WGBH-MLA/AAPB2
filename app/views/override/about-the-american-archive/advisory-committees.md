@@ -21,7 +21,7 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 ### Current Education Advisory Committee Members
 
 **Franky Abbott**
-<br>Independent Education Consultant
+<br>Chief Content Strategist, Levine Museum of the New South, Charlotte, North Carolina
 
 **Tom Bober (EduAC Co-Chair)**
 <br>District Library Coordinator, School District of Clayton, MO
@@ -49,9 +49,6 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Kristin Lehner**
 <br>Director, Secondary Education Content & Curriculum Strategy, PBS Education
 
-**Sherry Levitt**
-<br>Executive Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
-
 **Lawrence M. Paska, Ph.D**
 <br>Executive Director, National Council for the Social Studies
 
@@ -63,14 +60,8 @@ The EduAC provides guidance to the Project Team in the following ways: <br>
 **Jen Reidel**
 <br>Social Studies Teacher 9-12, Bellingham School District, WA
 
-**Ted Sicker**
-<br>Executive Producer, Education, GBH
-
 **Nate Sleeter**
 <br>Research Assistant Professor, Roy Rosenzweig Center for History and New Media, George Mason University
-
-**Dr. Cynthia Szwajkowski, Ph.D**
-<br>Assistant Director, Teaching with Primary Sources, Virginia, A program of the Library of Congress
 
 ---
 
@@ -95,7 +86,7 @@ The SAC provides guidance to the Project Team in the following ways: <br>
 <br>Emeritus Professor of Communication, University of Utah
 
 **Kathryn Cramer Brownell**
-<br>Associate Professor fo History, Purdue University
+<br>Associate Professor of History, Purdue University
 
 **Dolores Inés Casillas**
 <br>Associate Professor of Chicana and Chicano Studies and a Faculty Affiliate of Film & Media Studies and Applied Linguistics, University of California, Santa Barbara
@@ -173,7 +164,7 @@ organizations, producers and leaders) and beyond <br>
 ### Current Stations and Producers Advisory Committee Members
 
 **Ernesto Aguilar (SPAC Co-Chair)**
-<br>Membership Program Director, National Federation of Community Broadcasters
+<br>Executive Director, National Federation of Community Broadcasters
 
 **Joanne Archer**
 <br>Head of Access and Outreach Services, University of Maryland
