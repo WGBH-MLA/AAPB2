@@ -35,7 +35,7 @@ Post-production and theme music by Todd Thompson<br>
 <li><a href=https://americanarchive.org/participating-orgs/NCSG55084>Vision Maker Media</a> (Lincoln, NE)</li>
 <li><a href=https://americanarchive.org/participating-orgs/1271>KCAW</a> (Sitka, AK)</li>
 <li><a href=https://americanarchive.org/participating-orgs/1703>KYUK</a> (Bethel, AK)</li>
-<li><a href=https://americanarchive.org/participating-orgs/1254>Koahnic</a> Broadcast Corporation (Anchorage, AK)</li>
+<li><a href=https://americanarchive.org/participating-orgs/1254>Koahnic Broadcast Corporation</a> (Anchorage, AK)</li>
 <li><a href=https://americanarchive.org/participating-orgs/4502>KWSO</a> (Warm Springs, OR)</li>
  </ul>
 </div>
