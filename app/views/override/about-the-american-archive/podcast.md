@@ -1,6 +1,9 @@
 # Presenting the Past: Exploring the American Archive of Public Broadcasting Podcast
 
-In collaboration with the [Society for Cinema and Media Studies](https://www.cmstudies.org/) (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
+
+<div style="margin-bottom: 0.8em; margin-top: 0.8em;">
+In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
+</div>
 
 ### Episode 03: Indigenous Public Media with Shirley Sneve, Vice President of Broadcasting for <i>Indian Country Today</i>
 Aug 10, 2021
@@ -26,16 +29,18 @@ Post-production and theme music by Todd Thompson<br>
  </ul>
 </div>
 
+<div>
 <span>Indigenous Collections in the AAPB:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
-<li><a href=https://americanarchive.org/participating-orgs/NCSG55084>Vision Maker Media</a> (Lincoln, NE)
-<li><a href=https://americanarchive.org/participating-orgs/1271>KCAW</a> (Sitka, AK)
-<li><a href=https://americanarchive.org/participating-orgs/1703>KYUK</a> (Bethel, AK)
-<li><a href=https://americanarchive.org/participating-orgs/1254>Koahnic</a> Broadcast Corporation (Anchorage, AK)
-<li><a href=https://americanarchive.org/participating-orgs/4502>KWSO</a> (Warm Springs, OR)
+<li><a href=https://americanarchive.org/participating-orgs/NCSG55084>Vision Maker Media</a> (Lincoln, NE)</li>
+<li><a href=https://americanarchive.org/participating-orgs/1271>KCAW</a> (Sitka, AK)</li>
+<li><a href=https://americanarchive.org/participating-orgs/1703>KYUK</a> (Bethel, AK)</li>
+<li><a href=https://americanarchive.org/participating-orgs/1254>Koahnic</a> Broadcast Corporation (Anchorage, AK)</li>
+<li><a href=https://americanarchive.org/participating-orgs/4502>KWSO</a> (Warm Springs, OR)</li>
  </ul>
 </div>
 
+<div>
 <span>Additional Prominent Broadcast Outlets for Indigenous Programming:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
 <li><a href=https://americanarchive.org/participating-orgs/1259>KDLG</a> (Dillingham, AK)
