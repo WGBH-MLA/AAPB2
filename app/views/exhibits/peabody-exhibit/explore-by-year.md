@@ -10,7 +10,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ### Items by Decade
 
-#### 1940s
+### 1940s
 
 ##### 1944
 
@@ -47,10 +47,11 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 [Story of Empire County, The. [No. 15], The Case of the Careless Cook](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976)</br>
 
+### 1950s
 
 ##### 1950
 
-[World Theatre; A Phoenix Too Frequent](https://americanarchive.org/catalog/cpb-aacip-526-4j09w09z2g]</br>
+[World Theatre; A Phoenix Too Frequent](https://americanarchive.org/catalog/cpb-aacip-526-4j09w09z2g)</br>
 
 ##### 1951
 
@@ -65,6 +66,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [This Is Polio; 3; The Long Road Back](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n1s)</br>
 [This Is Polio; 4; Those Who Wait](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz33977)</br>
 [WNYC News (New York, N.Y.); Part 1; New York's Narcotics Hearings](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t05)</br>
+
 ##### 1954
 
 
@@ -120,6 +122,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Metroplex Assembly](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r26k)</br>
 [Miscellaneous; Values We Live By; WNYC](https://americanarchive.org/catalog/cpb-aacip-80-60qrg9wk)</br>
 [United States in a World of Revolt, The](https://americanarchive.org/catalog/cpb-aacip-80-75dbsj8d)</br>
+
+### 1960s
 
 ##### 1960
 
@@ -213,6 +217,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Madison Vote-in](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98d7q)</br>
 [NET Journal; 257; To Save Tomorrow](https://americanarchive.org/catalog/cpb-aacip-75-44pk0t5j)</br>
 
+### 1970s
 
 ##### 1970
 
@@ -435,6 +440,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Test, The](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z59z)</br>
 [WNYC Storytelling Festival; The Storyteller; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q83d)</br>
 [WNYC Storytelling Festival; The Storyteller; Part 2](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr7f)</br>
+
+### 1980s
 
 ##### 1980
 
@@ -856,6 +863,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [WTTW Journal: Radio Faces](https://americanarchive.org/catalog/cpb-aacip/526-k35m90373x)</br>
 [WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip/526-bc3st7fw6b)</br>
 [WTTW Journal: Vietnam: A Chicagoan Goes Home](https://americanarchive.org/catalog/cpb-aacip/526-cn6xw48w4p)</br>
+
+### 1990s
 
 ##### 1990
 
@@ -1443,6 +1452,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Unbreakable Spirits; Eight forty-eight; 4; Teens-Professionals](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn8k)</br>
 [Unbreakable Spirits; Eight forty-eight; 8; Female Buddhist Monk](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd3r)</br>
 [Wisconsin: Prisons & Politics](https://americanarchive.org/catalog/cpb-aacip-29-010p2r97)</br>
+
+### 2000s
 
 ##### 2003
 
