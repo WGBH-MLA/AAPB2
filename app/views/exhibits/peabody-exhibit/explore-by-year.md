@@ -29,14 +29,14 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 [Chairside Chats [1948-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-639k35nd04)</br>
 [City Rent Laws](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tw04)</br>
-[Lectures to the Laity; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq2x)</br>
-[Lectures to the Laity; Part 2](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j4b)</br>
-[Lectures to the Laity; Part 3](https://americanarchive.org/catalog/cpb-aacip-526-4m91835459)</br>
-[Lectures to the Laity; Part 4](https://americanarchive.org/catalog/cpb-aacip-06db69fd27d)</br>
-[Lectures to the Laity; Part 5](https://americanarchive.org/catalog/cpb-aacip-be66968e3c9)</br>
-[Lectures to the Laity; Part 6](https://americanarchive.org/catalog/cpb-aacip-d00041bf054)</br>
-[Queens College Forum; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m0b)</br>
-[Queens College Forum; Part 2](https://americanarchive.org/catalog/cpb-aacip-a877bd3581b)</br>
+[Lectures to the Laity, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq2x)</br>
+[Lectures to the Laity, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j4b)</br>
+[Lectures to the Laity, Part 3](https://americanarchive.org/catalog/cpb-aacip-526-4m91835459)</br>
+[Lectures to the Laity, Part 4](https://americanarchive.org/catalog/cpb-aacip-06db69fd27d)</br>
+[Lectures to the Laity, Part 5](https://americanarchive.org/catalog/cpb-aacip-be66968e3c9)</br>
+[Lectures to the Laity, Part 6](https://americanarchive.org/catalog/cpb-aacip-d00041bf054)</br>
+[Queens College Forum, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m0b)</br>
+[Queens College Forum, Part 2](https://americanarchive.org/catalog/cpb-aacip-a877bd3581b)</br>
 [U.P.A. Forum [1948-04-21]](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s23q)</br>
 [United Nations Proceedings](https://americanarchive.org/catalog/cpb-aacip-526-8p5v69999z)</br>
 [WNYC Anniversaries; Cavalcade of WNYC](https://americanarchive.org/catalog/cpb-aacip-80-612nh60k)</br>
@@ -55,8 +55,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1951
 
-[Lectures to the Laity; The Art and Science of Growing Up in America; Part 1](https://americanarchive.org/catalog/cpb-aacip-80-18dfnkzs)</br>
-[Lectures to the Laity; The Art and Science of Growing Up in America; Part 2](https://americanarchive.org/catalog/cpb-aacip-2858d890a5f)</br>
+[Lectures to the Laity; The Art and Science of Growing Up in America, Part 1](https://americanarchive.org/catalog/cpb-aacip-80-18dfnkzs)</br>
+[Lectures to the Laity; The Art and Science of Growing Up in America, Part 2](https://americanarchive.org/catalog/cpb-aacip-2858d890a5f)</br>
 [United Nations; Opening of UN Political Committee at Lake Success [1951-01-05]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4733f)</br>
 
 ##### 1952
@@ -65,7 +65,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [This Is Polio; 2; They Live in Lungs](https://americanarchive.org/catalog/cpb-aacip-526-m901z43237)</br>
 [This Is Polio; 3; The Long Road Back](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n1s)</br>
 [This Is Polio; 4; Those Who Wait](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz33977)</br>
-[WNYC News; New York's Narcotics Hearings; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t05)</br>
+[WNYC News; New York's Narcotics Hearings, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t05)</br>
 
 ##### 1954
 
