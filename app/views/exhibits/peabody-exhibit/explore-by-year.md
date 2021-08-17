@@ -1349,30 +1349,29 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Amistad Connecticut: A Legacy Reborn](https://americanarchive.org/catalog/cpb-aacip-526-639k35nc9n)</br>
 [Chicago Matters; The Last Place: Diary of a Retirement Home](https://americanarchive.org/catalog/cpb-aacip-526-db7vm4432m)</br>
 [Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b)</br>
-[Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b)</br>
 [Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-17-07tmq941)</br>
 [Israel's Forgotten Heroes](https://americanarchive.org/catalog/cpb-aacip-42-504xh4s7)</br>
 [Joe Hill](https://americanarchive.org/catalog/cpb-aacip-83-68kd5f1p)</br>
-[Juggling Act, The; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-bg2h70926c)</br>
-[Juggling Act, The; Part 2](https://americanarchive.org/catalog/cpb-aacip-9eba7eb957d)</br>
+[Juggling Act, The, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-bg2h70926c)</br>
+[Juggling Act, The, Part 2](https://americanarchive.org/catalog/cpb-aacip-9eba7eb957d)</br>
 [Kate Chopin: A Re-Awakening](https://americanarchive.org/catalog/cpb-aacip-17-58bg87rx)</br>
 [KOPB Radio News; Physician-Assisted Suicide](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7683x)</br>
 [On the Line; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87415n)</br>
 [On the Line; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-8w3804zm8h)</br>
 [On the Media; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh4p)</br>
-[Our Stories. [1998-05-10], The Cranberry Report (Islesford, Maine)](https://americanarchive.org/catalog/cpb-aacip-245-439zw7n9)</br>
-[Our Stories. [1998-05-11], Harvest of Hope (Fort Kent, Maine)](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6079f)</br>
-[Our Stories. [1998-05-12], Healing Woods (Indian Township, Maine)](https://americanarchive.org/catalog/cpb-aacip-245-558czfqp)</br>
-[Our Stories. 1998-05-10, The Cranberry Report (Islesford, Maine)](https://americanarchive.org/catalog/cpb-aacip-245-97kps1m0)</br>
-[PARENTING PUZZLE: THE MIDDLE YEARS; 101; TELL ME MORE](https://americanarchive.org/catalog/cpb-aacip-240-773txv76)</br>
-[PARENTING PUZZLE: THE MIDDLE YEARS; 102; LIKE BLADES OF A SCISSORS](https://americanarchive.org/catalog/cpb-aacip-240-62s4ndjj)</br>
-[PARENTING PUZZLE: THE MIDDLE YEARS; 103; THE POWER OF EXAMPLE](https://americanarchive.org/catalog/cpb-aacip-240-214mwkwr)</br>
-[Salsa; 113; Three Clever Goats](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p41c)</br>
-[Salsa; 115; Quiz Show](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nv15)</br>
-[Salsa; 205; Where Is It?](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n11w)</br>
-[Salsa; 207; The Three Pigs](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz1f)</br>
-[Sinatra in Retrospective, Part 3 and 4](https://americanarchive.org/catalog/cpb-aacip-189-67jq2m4c)</br>
+[Our Stories; The Cranberry Report (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-439zw7n9)</br>
+[Our Stories; Harvest of Hope (Fort Kent, Maine) [1998-05-11]](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6079f)</br>
+[Our Stories; Healing Woods (Indian Township, Maine) [1998-05-12]](https://americanarchive.org/catalog/cpb-aacip-245-558czfqp)</br>
+[Our Stories; The Cranberry Report (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-97kps1m0)</br>
+[Parenting Puzzle: The Middle Years; No. 101; Tell Me More](https://americanarchive.org/catalog/cpb-aacip-240-773txv76)</br>
+[Parenting Puzzle: The Middle Years; No. 102; Like Blades of a Scissors](https://americanarchive.org/catalog/cpb-aacip-240-62s4ndjj)</br>
+[Parenting Puzzle: The Middle Years; No. 103; The Power of Example](https://americanarchive.org/catalog/cpb-aacip-240-214mwkwr)</br>
+[Salsa; No. 113; Three Clever Goats](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p41c)</br>
+[Salsa; No. 115; Quiz Show](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nv15)</br>
+[Salsa; No. 205; Where Is It?](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n11w)</br>
+[Salsa; No. 207; The Three Pigs](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz1f)</br>
 [Sinatra in Retrospective, Parts 1 and 2](https://americanarchive.org/catalog/cpb-aacip-189-14nk9brh)</br>
+[Sinatra in Retrospective, Parts 3 and 4](https://americanarchive.org/catalog/cpb-aacip-189-67jq2m4c)</br>
 [U.S.-Mexican Border Coverage](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck38)</br>
 [What Do You Say?](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t46z)</br>
 [WKSU Radio News; Funeral Home DNA](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2n97t)</br>
@@ -1380,57 +1379,57 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 ##### 1999
 
 [American Prophet: The Story of Joseph Smith](https://americanarchive.org/catalog/cpb-aacip-46-00000021)</br>
-[Chicago Tonight. [No. 16123, 1999-02], JAMA Firing](https://americanarchive.org/catalog/cpb-aacip/526-fx73t9fc83)</br>
-[Chicago Tonight. [No. 16149, 1999-03-24], Kosovo Strike](https://americanarchive.org/catalog/cpb-aacip/526-qf8jd4qw9k)</br>
-[Chicago Tonight. [No. 16150, 1999-03-25], Henry Kissinger/Kosovo](https://americanarchive.org/catalog/cpb-aacip/526-zk55d8pt52)</br>
-[Chicago Tonight. [No. 16170, 1999-04-29], On the Road. How Do We Deal With Colorado's Crisis?](https://americanarchive.org/catalog/cpb-aacip/526-862b854k4k)</br>
-[Chicago Tonight. [No. 17034, 1999-08-31], What is Electronic Day Trading?](https://americanarchive.org/catalog/cpb-aacip/526-j38kd1rq65)</br>
-[Chicago Week in Review. [1999-01-02]](https://americanarchive.org/catalog/cpb-aacip/526-f76639m94t)</br>
-[Chicago Week in Review. [1999-01-09]](https://americanarchive.org/catalog/cpb-aacip/526-p26pz52s0w)</br>
-[Chicago Week in Review. [1999-01-30]](https://americanarchive.org/catalog/cpb-aacip/526-2v2c825c81)</br>
-[Chicago Week in Review. [1999-08-07]](https://americanarchive.org/catalog/cpb-aacip/526-707wm14r8c)</br>
-[Chicago Week in Review. [1999-11-20]](https://americanarchive.org/catalog/cpb-aacip/526-z02z31pw87)</br>
-[Fishko Files, The; Part 1; 1999 Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73887f)</br>
+[Chicago Tonight; No. 16123; JAMA Firing [1999-02]](https://americanarchive.org/catalog/cpb-aacip/526-fx73t9fc83)</br>
+[Chicago Tonight; No. 16149; Kosovo Strike [1999-03-24]](https://americanarchive.org/catalog/cpb-aacip/526-qf8jd4qw9k)</br>
+[Chicago Tonight; No. 16150; Henry Kissinger/Kosovo [1999-03-25]](https://americanarchive.org/catalog/cpb-aacip/526-zk55d8pt52)</br>
+[Chicago Tonight; No. 16170; On the Road. How Do We Deal With Colorado's Crisis? [1999-04-29]](https://americanarchive.org/catalog/cpb-aacip/526-862b854k4k)</br>
+[Chicago Tonight; No. 17034; What is Electronic Day Trading? [1999-08-31]](https://americanarchive.org/catalog/cpb-aacip/526-j38kd1rq65)</br>
+[Chicago Week in Review [1999-01-02]](https://americanarchive.org/catalog/cpb-aacip/526-f76639m94t)</br>
+[Chicago Week in Review [1999-01-09]](https://americanarchive.org/catalog/cpb-aacip/526-p26pz52s0w)</br>
+[Chicago Week in Review [1999-01-30]](https://americanarchive.org/catalog/cpb-aacip/526-2v2c825c81)</br>
+[Chicago Week in Review [1999-08-07]](https://americanarchive.org/catalog/cpb-aacip/526-707wm14r8c)</br>
+[Chicago Week in Review [1999-11-20]](https://americanarchive.org/catalog/cpb-aacip/526-z02z31pw87)</br>
+[Fishko Files, The; 1999 Excerpts, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73887f)</br>
 [KOPB Radio News; The Great Tsunami of '64](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg3s)</br>
 [Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog/cpb-aacip-398-085hqdb1)</br>
 [Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04393)</br>
-[Our Society in the Next Century; 1; Arts; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-639k35nc6q)</br>
-[Our Society in the Next Century; 1; Arts; Part 2](https://americanarchive.org/catalog/cpb-aacip-29c3dca247b)</br>
-[Our Society in the Next Century; 1; Arts; Part 3](https://americanarchive.org/catalog/cpb-aacip-d35a5a4ed4d)</br>
-[Our Society in the Next Century; 10; Education; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g632)</br>
-[Our Society in the Next Century; 10; Education; Part 2](https://americanarchive.org/catalog/cpb-aacip-d1a538665b4)</br>
-[Our Society in the Next Century; 11; Manufacturing; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f892)</br>
-[Our Society in the Next Century; 11; Manufacturing; Part 2](https://americanarchive.org/catalog/cpb-aacip-c74afd0b8d8)</br>
-[Our Society in the Next Century; 12; Religion; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w696)</br>
-[Our Society in the Next Century; 12; Religion; Part 2](https://americanarchive.org/catalog/cpb-aacip-ee603dc5571)</br>
-[Our Society in the Next Century; 2; Race Relations; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-v97zk56t4b)</br>
-[Our Society in the Next Century; 2; Race Relations; Part 2](https://americanarchive.org/catalog/cpb-aacip-9a0385420dd)</br>
-[Our Society in the Next Century; 3; Government; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-5717m0509t)</br>
-[Our Society in the Next Century; 3; Government; Part 2](https://americanarchive.org/catalog/cpb-aacip-fc127aeb90b)</br>
-[Our Society in the Next Century; 3; Government; Part 3](https://americanarchive.org/catalog/cpb-aacip-82c47db99a9)</br>
-[Our Society in the Next Century; 4; Sports; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n29)</br>
-[Our Society in the Next Century; 4; Sports; Part 2](https://americanarchive.org/catalog/cpb-aacip-2408024aff9)</br>
-[Our Society in the Next Century; 4; Sports; Part 3](https://americanarchive.org/catalog/cpb-aacip-65d7a318257)</br>
-[Our Society in the Next Century; 5; Legal System; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ff3kw58m7k)</br>
-[Our Society in the Next Century; 5; Legal System; Part 2](https://americanarchive.org/catalog/cpb-aacip-2a861cc87fa)</br>
-[Our Society in the Next Century; 6; Health Care; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz81z8v)</br>
-[Our Society in the Next Century; 6; Health Care; Part 2](https://americanarchive.org/catalog/cpb-aacip-a0434eebeb5)</br>
-[Our Society in the Next Century; 7; City Planning; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rj48p5wk3r)</br>
-[Our Society in the Next Century; 7; City Planning; Part 2](https://americanarchive.org/catalog/cpb-aacip-af79b6ff64f)</br>
-[Our Society in the Next Century; 7; City Planning; Part 3](https://americanarchive.org/catalog/cpb-aacip-e82c8b17cd6)</br>
-[Our Society in the Next Century; 8; Transportation; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-x639z91p8t)</br>
-[Our Society in the Next Century; 8; Transportation; Part 2](https://americanarchive.org/catalog/cpb-aacip-e075f20cc65)</br>
-[Our Society in the Next Century; 9; Environment; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg04)</br>
-[Our Society in the Next Century; 9; Environment; Part 2](https://americanarchive.org/catalog/cpb-aacip-611b6b84ff6)</br>
-[Our Society in the Next Century; 9; Environment; Part 3](https://americanarchive.org/catalog/cpb-aacip-a9176d7b4e5)</br>
-[Posie Paints. 1999-12-13, Color](https://americanarchive.org/catalog/cpb-aacip-41-322bvxmn)</br>
+[Our Society in the Next Century; No. 1; Arts, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-639k35nc6q)</br>
+[Our Society in the Next Century; No. 1; Arts, Part 2](https://americanarchive.org/catalog/cpb-aacip-29c3dca247b)</br>
+[Our Society in the Next Century; No. 1; Arts, Part 3](https://americanarchive.org/catalog/cpb-aacip-d35a5a4ed4d)</br>
+[Our Society in the Next Century; No. 2; Race Relations, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-v97zk56t4b)</br>
+[Our Society in the Next Century; No. 2; Race Relations, Part 2](https://americanarchive.org/catalog/cpb-aacip-9a0385420dd)</br>
+[Our Society in the Next Century; No. 3; Government, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-5717m0509t)</br>
+[Our Society in the Next Century; No. 3; Government, Part 2](https://americanarchive.org/catalog/cpb-aacip-fc127aeb90b)</br>
+[Our Society in the Next Century; No. 3; Government, Part 3](https://americanarchive.org/catalog/cpb-aacip-82c47db99a9)</br>
+[Our Society in the Next Century; No. 4; Sports, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n29)</br>
+[Our Society in the Next Century; No. 4; Sports, Part 2](https://americanarchive.org/catalog/cpb-aacip-2408024aff9)</br>
+[Our Society in the Next Century; No. 4; Sports, Part 3](https://americanarchive.org/catalog/cpb-aacip-65d7a318257)</br>
+[Our Society in the Next Century; No. 5; Legal System, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ff3kw58m7k)</br>
+[Our Society in the Next Century; No. 5; Legal System, Part 2](https://americanarchive.org/catalog/cpb-aacip-2a861cc87fa)</br>
+[Our Society in the Next Century; No. 6; Health Care, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz81z8v)</br>
+[Our Society in the Next Century; No. 6; Health Care, Part 2](https://americanarchive.org/catalog/cpb-aacip-a0434eebeb5)</br>
+[Our Society in the Next Century; No. 7; City Planning, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rj48p5wk3r)</br>
+[Our Society in the Next Century; No. 7; City Planning, Part 2](https://americanarchive.org/catalog/cpb-aacip-af79b6ff64f)</br>
+[Our Society in the Next Century; No. 7; City Planning, Part 3](https://americanarchive.org/catalog/cpb-aacip-e82c8b17cd6)</br>
+[Our Society in the Next Century; No. 8; Transportation, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-x639z91p8t)</br>
+[Our Society in the Next Century; No. 8; Transportation, Part 2](https://americanarchive.org/catalog/cpb-aacip-e075f20cc65)</br>
+[Our Society in the Next Century; No. 9; Environment, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg04)</br>
+[Our Society in the Next Century; No. 9; Environment, Part 2](https://americanarchive.org/catalog/cpb-aacip-611b6b84ff6)</br>
+[Our Society in the Next Century; No. 9; Environment, Part 3](https://americanarchive.org/catalog/cpb-aacip-a9176d7b4e5)</br>
+[Our Society in the Next Century; No. 10; Education, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g632)</br>
+[Our Society in the Next Century; No. 10; Education, Part 2](https://americanarchive.org/catalog/cpb-aacip-d1a538665b4)</br>
+[Our Society in the Next Century; No. 11; Manufacturing, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f892)</br>
+[Our Society in the Next Century; No. 11; Manufacturing, Part 2](https://americanarchive.org/catalog/cpb-aacip-c74afd0b8d8)</br>
+[Our Society in the Next Century; No. 12; Religion, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w696)</br>
+[Our Society in the Next Century; No. 12; Religion, Part 2](https://americanarchive.org/catalog/cpb-aacip-ee603dc5571)</br>
+[Posie Paints; Color [1999-12-13]](https://americanarchive.org/catalog/cpb-aacip-41-322bvxmn)</br>
 [Reflections of War](https://americanarchive.org/catalog/cpb-aacip-259-sx647c48)</br>
 [Southern Dials-- Soulful Styles](https://americanarchive.org/catalog/cpb-aacip-526-736m03zx0c)</br>
 [Stand the Storm](https://americanarchive.org/catalog/cpb-aacip-29-19f4qvqp)</br>
 [Ticktock Minutes; 1999 compilation](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q08t)</br>
 [Tree of Life; Intimate Strangers: Unseen Life on Earth](https://americanarchive.org/catalog/cpb-aacip-153-49t1g6j2)</br>
-[Unbreakable Spirits; Eight forty-eight; 4; Teens-Professionals](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn8k)</br>
-[Unbreakable Spirits; Eight forty-eight; 8; Female Buddhist Monk](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd3r)</br>
+[Unbreakable Spirits, Eight forty-eight; No. 4; Teens-Professionals](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn8k)</br>
+[Unbreakable Spirits, Eight forty-eight; No. 8; Female Buddhist Monk](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd3r)</br>
 [Wisconsin: Prisons & Politics](https://americanarchive.org/catalog/cpb-aacip-29-010p2r97)</br>
 
 ### 2000s
