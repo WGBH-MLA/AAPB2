@@ -1,0 +1,446 @@
+# Native Narratives: The Representation of Native Americans in Public Broadcasting
+
+1
+
+## Summary
+
+*Native Narratives: The Representation of Native Americans in Public Broadcasting* explores how Native American peoples and cultures have been represented both in non-Native-produced and Native-created public broadcasting programs in the AAPB collection.[<sup>1</sup>](/exhibits/native-narratives/notes#1) Each section features a range of radio and television programs that cover key events or issues important to Native peoples. Additionally, the exhibit explores how mainstream American public media and media produced by Native Americans depict and document Native peoples in ways that either confirm or reject stereotypes. 
+
+The exhibit was curated by Sally Smith, a former student assistant in the Peabody Awards Archive at the University of Georgia and a 2019 Library of Congress Junior Fellow in the Recorded Sound Section of the MBRS Division. She is a current MSLS student at the University of North Carolina, Chapel Hill.
+
+The author would like to acknowledge that the exhibit was written on the traditional lands of the Cherokee and Muscogee Creek. She would also like to acknowledge that she is not affiliated with any Indigenous tribe.
+
+The author would like to thank Mary Miller, K. C. Carter, Alan Gevinson, and Casey Davis Kaufman. Thanks also to the anonymous reviewers whose feedback helped improve the exhibit. This project was made possible by the Walter J. Brown Media Archives & Peabody Awards Collection, the National Historical Publications and Records Commission, and the American Archive of Public Broadcasting.
+
+## Extended
+
+## Authors
+
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Smith.jpg"/>
+  <a class="name">Sally Smith</a>
+  <a class="title">Former Student Assistant, Brown Media Archives, University of Georgia</a>
+
+## Resources
+
+- [Vision Maker Media Documentaries](https://americanarchive.org/special_collections/vision-maker-media)
+- [Indigenous Public Media with Shirley Sneve, AAPB Presenting the Past Podcast,](https://www.youtube.com/watch?v=1GL_arhMKmw)
+- [Native Voice One](http://www.nv1.org/)
+- [Association of Tribal Libraries, Archives and Museums](http://www.atalm.org/)
+- [National Museum of the American Indian](https://americanindian.si.edu/)
+
+## Main
+
+### Introduction 
+
+Images of Native Americans and their cultures have long fascinated American audiences, but Western media has often misrepresented Native Americans. Non-Native peoples with little knowledge of Native Americans, their histories, and their cultures, often have associated them with common media stereotypes such as the Noble Warrior, the Savage Indian, and the American Princess. These racialized representations reinforce simplistic narratives of Indigenous communities, obscuring their complex histories. This exhibit highlights how public radio and television has represented Native American communities living in the United States — both in ways that reinforce media stereotypes and in ways that reject them. Most importantly, the exhibit emphasizes the rise of Native-created public media and the production of programs by Native peoples for their own communities.
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Image from The Dakota Conflict, Twin Cities Public Television (1993), https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp07.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/0_526-zg6g15vp07.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/0_526-zg6g15vp07.jpg" class="big-image" alt=" Image from The Dakota Conflict, Twin Cities Public Television (1993), https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp07."/></a></td></tr>
+</table>
+
+Using guidelines provided by the National Museum of the American Indian, the exhibit uses the terms “American Indian,” “Native American,” and “Indigenous” to refer to the cultures and communities of peoples living in the United States before the arrival of Europeans.[<sup>2</sup>](/exhibits/native-narratives/notes#2) Where applicable, the name of a specific tribe or nation is used when referring to an individual or group. 
+
+The exhibit organizes a selection of public radio and television programs in the American Archive of Public Broadcasting’s (AAPB) collections into five sections that examine the history of Native American representation in public broadcasting and how Native peoples have responded to their depictions. The sections focus on the strategies that Native peoples have used to maintain their cultural and community ties. Although the exhibit covers a wide range of events and topics significant to Native peoples, it does not cover the full diversity of Indigenous cultures in the United States and throughout the world. There are many more relevant public radio and television programs that are not included in the AAPB. Please visit the External Resources and Tour Our Resources portions of each section that provide resources to learn more about topics not examined in the exhibit. 
+
+Throughout each section, the selected programs either comment on or exemplify the types of media that have dominated the perception of Native Americans by mainstream audiences. The [first section](/exhibits/native-narratives/misrepresentations) includes discussion on the origins of Native American stereotypes and how they have continued to influence modern representations of Native peoples. The section also features Native Americans speaking about how these representations have impacted their cultural identities. 
+
+The [second section](/exhibits/native-narratives/termination-relocation-restoration), on United States policies of termination, tribal restoration, and urban relocation, discusses how commercial and public news outlets depicted Native peoples in ways that ignored their perspectives of current events and history. The [third section](/exhibits/native-narratives/aim) provides a brief history of the American Indian Movement (AIM) and programs with interviews of prominent AIM leaders. News outlets, both commercial and public, often do not report on issues significant to Native peoples. News coverage, however, is not uniform, and local and national coverage of Native communities widely differs. The programs featured in the second and third sections illustrate the frustration that many Native peoples have had over their representation in the news. Additionally, the sections provide radio and television programs that feature Native Americans speaking about issues important to them and their communities. 
+
+The [fourth section, “Native Americans in Contemporary News,”](/exhibits/native-narratives/contemporary-news) focuses on Native owned and operated news outlets such as *National Native News* and other public broadcasting news programs that provide programming either for or about Native communities. The [last section, “Visual Sovereignty: Native Created Media,”](/exhibits/native-narratives/visual-sovereignty) spotlights documentaries and other types of public radio and television programs made by and for Native Americans. 
+
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Mediak training from Alaska Federation of Natives: Youth and Elders Conference. Provided by Koahnic Broadcast Corporation.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/0_KNBA.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/0_KNBA.jpg" class="big-image" alt="Mediak training from Alaska Federation of Natives: Youth and Elders Conference. Provided by Koahnic Broadcast Corporation."/></a></td></tr>
+</table>
+
+Programs featured in this exhibit come from a variety of stations and producers throughout the United States. Native owned and operated stations and media centers, such as [KYUK-AM](https://americanarchive.org/participating-orgs/1703) (Bethel, AK), [KWSO-FM](https://americanarchive.org/participating-orgs/4502) (Warm Springs, OR), and [Koahnic Broadcast Corporation](https://americanarchive.org/participating-orgs/1254) (Anchorage, AK), represent important outlets for Native-created public media, alongside [Vision Maker Media](https://americanarchive.org/participating-orgs/NCSG55084) (Lincoln, NE), the premier funding source for Native American public media productions. Other prominent outlets include stations from Minnesota - ([Twin Cities Public Television](https://americanarchive.org/participating-orgs/1797)), Alaska - ([KDGL-FM](https://americanarchive.org/participating-orgs/1259); [KAKM Alaska Public Media](https://americanarchive.org/participating-orgs/1702)), Wisconsin - ([Wisconsin Public Radio](https://americanarchive.org/participating-orgs/1896.2); WPNE) and California - ([KPFA-FM/Pacifica](https://americanarchive.org/participating-orgs/NCSG43); [KPCC-FM](https://americanarchive.org/participating-orgs/NCSG55086)) — all states with large populations of Native Americans. For programs in the exhibit that were nominated for Peabody Awards, descriptions have been taken from materials submitted by their producers.
+
+#### Next: [(Mis)Representations of Native Americans](/exhibits/native-narratives/misrepresentations)
+
+## Cover
+  <img title="Cover Image" alt="Image from Surviving Columbus: The Story of the Pueblo People, KNME, 1992" src="https://s3.amazonaws.com/americanarchive.org/exhibits/0_508-td9n29q276_square.jpg">
+
+## Gallery
+
+## Records
+
+- [](/catalog/cpb-aacip_532-4q7qn60f37
+- [](/catalog/cpb-aacip_16-cn6xw4853k
+- [](/catalog/cpb-aacip_16-n29p26qj4s
+- [](/catalog/cpb-aacip_293-ft8df6kg2n
+- [](/catalog/cpb-aacip_30-64thv32n
+- [](/catalog/cpb-aacip_30-53wsvm8d
+- [](/catalog/cpb-aacip_526-319s17tp5r
+- [](/catalog/cpb-aacip_511-m03xs5k68w
+- [](/catalog/cpb-aacip-52-36h18dhz
+- [](/catalog/cpb-aacip_52-59c5b5ch
+- [](/catalog/cpb-aacip_52-79v15ns6
+- [](/catalog/cpb-aacip-52-38jdfrnd
+- [](/catalog/cpb-aacip-52-81wdc120
+- [](/catalog/cpb-aacip_206-78tb30fs
+- [](/catalog/cpb-aacip_77-68kd64j1
+- [](/catalog/cpb-aacip_245-558czfqp
+- [](/catalog/cpb-aacip_526-6t0gt5gf2j
+- [](/catalog/cpb-aacip_75-6663zbg1
+- [](/catalog/cpb-aacip-77-074tnfhr
+- [](/catalog/cpb-aacip_526-7w6736n449
+- [](/catalog/cpb-aacip_500-qz22b8wk51
+- [](/catalog/cpb-aacip_500-r785h7d15h
+- [](/catalog/cpb-aacip_500-fn10p0xt97
+- [](/catalog/cpb-aacip_500-k06ww7804w
+- [](/catalog/cpb-aacip_500-x639z91m7z
+- [](/catalog/cpb-aacip_500-ww76t0j555
+- [](/catalog/cpb-aacip_235-18dfp1rn
+- [](/catalog/cpb-aacip-16-hd7np1wx6x
+- [](/catalog/cpb-aacip_30-66vx1fdt
+- [](/catalog/cpb-aacip_260-719kddg5
+- [](/catalog/cpb-aacip_260-54xgxkf1
+- [](/catalog/cpb-aacip_509-3b5w669r8w
+- [](/catalog/cpb-aacip_521-xg9f47j19p
+- [](/catalog/cpb-aacip_510-vh5cc0vs06
+- [](/catalog/cpb-aacip-394-70msbm0q
+- [](/catalog/cpb-aacip_129-02c86bpq
+- [](/catalog/cpb-aacip_111-18rbp3nv
+- [](/catalog/cpb-aacip_60-483j9svx
+- [](/catalog/cpb-aacip_17-30bvr5wd
+- [](/catalog/cpb-aacip_500-542jbg6x
+- [](/catalog/cpb-aacip_500-br8mhs8f
+- [](/catalog/cpb-aacip_500-2v2ccw28
+- [](/catalog/cpb-aacip_500-348gjr1p
+- [](/catalog/cpb-aacip_500-dz03330w
+- [](/catalog/cpb-aacip_500-rn30742w
+- [](/catalog/cpb-aacip_500-057cw559
+- [](/catalog/cpb-aacip_500-4j0b0r5c
+- [](/catalog/cpb-aacip_500-bn9x4h2k
+- [](/catalog/cpb-aacip_500-mp4vnp30
+- [](/catalog/cpb-aacip_29-58bg7gkn
+- [](/catalog/cpb-aacip_500-8911sp07
+- [](/catalog/cpb-aacip_500-pg1hnv5g
+- [](/catalog/cpb-aacip_500-vq2s915n
+- [](/catalog/cpb-aacip_500-x63b4b3h
+- [](/catalog/cpb-aacip_500-08638h3s
+- [](/catalog/cpb-aacip_500-6t0gzd3t
+- [](/catalog/cpb-aacip_500-2f7jts50
+- [](/catalog/cpb-aacip_500-8911sp5f
+- [](/catalog/cpb-aacip_500-0k26fb37
+- [](/catalog/cpb-aacip_500-cn6z1c79
+- [](/catalog/cpb-aacip_500-n58cm45g
+- [](/catalog/cpb-aacip_500-9z90dk0r
+- [](/catalog/cpb-aacip_500-h12v853c
+- [](/catalog/cpb-aacip_153-36547j47
+- [](/catalog/cpb-aacip_512-wd3pv6c890
+- [](/catalog/cpb-aacip_30-333205v4
+- [](/catalog/cpb-aacip_526-dj58c9s78v
+- [](/catalog/cpb-aacip_30-36h191bb
+- [](/catalog/cpb-aacip_30-4947f1zq
+- [](/catalog/cpb-aacip_153-8605qs1b
+- [](/catalog/cpb-aacip_153-36h18gx5
+- [](/catalog/cpb-aacip_153-95j9kqmg
+- [](/catalog/cpb-aacip_29-22v41rw7
+- [](/catalog/cpb-aacip_224-257d81km
+- [](/catalog/cpb-aacip_526-6h4cn70072
+- [](/catalog/cpb-aacip_526-ks6j09x92g
+- [](/catalog/cpb-aacip-28-pz51g0jc7r
+- [](/catalog/cpb-aacip-28-5717m0482m
+- [](/catalog/cpb-aacip-28-k06ww7798c
+- [](/catalog/cpb-aacip_27-x34mk65t6w
+- [](/catalog/cpb-aacip_81-67wm3fxh
+- [](/catalog/cpb-aacip_507-j38kd1rb4h
+- [](/catalog/cpb-aacip_43-84zgn7fb
+- [](/catalog/cpb-aacip_28-wh2d795w2v
+- [](/catalog/cpb-aacip-28-bz6154f24n
+- [](/catalog/cpb-aacip-28-hq3rv0db64
+- [](/catalog/cpb-aacip-28-6d5p844309
+- [](/catalog/cpb-aacip-28-3775t3g71c
+- [](/catalog/cpb-aacip-28-ks6j09wj0j
+- [](/catalog/cpb-aacip_27-hx15m62p4r
+- [](/catalog/cpb-aacip_500-125q815k02
+- [](/catalog/cpb-aacip_15-78gf28x2
+- [](/catalog/cpb-aacip-77-70zpdd66
+- [](/catalog/cpb-aacip-77-343r2x1w
+- [](/catalog/cpb-aacip_507-6d5p844f8j
+- [](/catalog/cpb-aacip_15-60qrfxb4
+- [](/catalog/cpb-aacip_77-93ttg1kg
+- [](/catalog/cpb-aacip_507-599z02zs6z
+- [](/catalog/cpb-aacip_16-0g3gx4511g
+- [](/catalog/cpb-aacip_16-ws8hd7pc59
+- [](/catalog/cpb-aacip_28-p843r0q996
+- [](/catalog/cpb-aacip_16-k649p2wn9t
+- [](/catalog/cpb-aacip-77-35gb6n32
+- [](/catalog/cpb-aacip_206-000000bb
+- [](/catalog/cpb-aacip_206-07gqnm8v
+- [](/catalog/cpb-aacip_206-085hqcwx
+- [](/catalog/cpb-aacip_206-19f4qtfd
+- [](/catalog/cpb-aacip_206-20fttgwv
+- [](/catalog/cpb-aacip_206-21ghx5jx
+- [](/catalog/cpb-aacip_206-2259zzbn
+- [](/catalog/cpb-aacip_206-23vt4dtm
+- [](/catalog/cpb-aacip_206-24jm66g3
+- [](/catalog/cpb-aacip_206-343r25ph
+- [](/catalog/cpb-aacip_206-36tx99dk
+- [](/catalog/cpb-aacip_206-37hqc3ck
+- [](/catalog/cpb-aacip_206-418kpwnr
+- [](/catalog/cpb-aacip_206-45q83gnk
+- [](/catalog/cpb-aacip_206-46qz65bs
+- [](/catalog/cpb-aacip_206-47dr7z0m
+- [](/catalog/cpb-aacip_206-48ffbmsw
+- [](/catalog/cpb-aacip_206-547pvsf2
+- [](/catalog/cpb-aacip_206-580k6kqh
+- [](/catalog/cpb-aacip_206-59q2c2dg
+- [](/catalog/cpb-aacip_206-65h9w6rf
+- [](/catalog/cpb-aacip_206-72p5hxtg
+- [](/catalog/cpb-aacip_206-75dbs2r3
+- [](/catalog/cpb-aacip_206-79573w9c
+- [](/catalog/cpb-aacip_206-82x3fppt
+- [](/catalog/cpb-aacip_206-89280rd6
+- [](/catalog/cpb-aacip_206-90dv49zd
+- [](/catalog/cpb-aacip_206-90rr56ng
+- [](/catalog/cpb-aacip_206-945qg466
+- [](/catalog/cpb-aacip_206-95w6mkg4
+- [](/catalog/cpb-aacip_206-97xksxqw
+- [](/catalog/cpb-aacip_206-97xksxrm
+- [](/catalog/cpb-aacip-206-78tb30fs
+- [](/catalog/cpb-aacip_116-36tx995j
+- [](/catalog/cpb-aacip_116-33dz0cgg
+- [](/catalog/cpb-aacip-116-47rn8trg
+- [](/catalog/cpb-aacip_116-76f1vr31
+- [](/catalog/cpb-aacip_116-7634tv82
+- [](/catalog/cpb-aacip_116-257d7ztr
+- [](/catalog/cpb-aacip_116-580k6kmc
+- [](/catalog/cpb-aacip_116-37hqc2ws
+- [](/catalog/cpb-aacip_116-27zkh3pc
+- [](/catalog/cpb-aacip-116-03cz8wp8
+- [](/catalog/cpb-aacip_116-15bcc3vg
+- [](/catalog/cpb-aacip_116-49t1g5vk
+- [](/catalog/cpb-aacip_116-25x69rhd
+- [](/catalog/cpb-aacip_116-05s7h4n2
+- [](/catalog/cpb-aacip_116-75dbs2h2
+- [](/catalog/cpb-aacip_116-44bnzx2g
+- [](/catalog/cpb-aacip_116-94hmh0t5
+- [](/catalog/cpb-aacip_116-042rbpd6
+- [](/catalog/cpb-aacip_116-66j0zw3c
+- [](/catalog/cpb-aacip_116-773txhtp
+- [](/catalog/cpb-aacip_116-22v41qrg
+- [](/catalog/cpb-aacip_116-032280rc
+- [](/catalog/cpb-aacip_116-106wwqwn
+- [](/catalog/cpb-aacip_116-15bcc3tr
+- [](/catalog/cpb-aacip_116-33rv18b5
+- [](/catalog/cpb-aacip_116-50gthzm0
+- [](/catalog/cpb-aacip-116-29b5mp61
+- [](/catalog/cpb-aacip_116-96wwq7v5
+- [](/catalog/cpb-aacip_116-88cfxz80
+- [](/catalog/cpb-aacip_116-25k98vpf
+- [](/catalog/cpb-aacip_526-4b2x34np1h
+- [](/catalog/cpb-aacip_235-07gqpdzn
+- [](/catalog/cpb-aacip_77-63strh4n
+- [](/catalog/cpb-aacip_77-8279dvcn
+- [](/catalog/cpb-aacip_77-18rbq0sq
+- [](/catalog/cpb-aacip_77-816mb36r
+- [](/catalog/cpb-aacip_30-33dz13tz
+- [](/catalog/cpb-aacip_507-c53dz03n98
+- [](/catalog/cpb-aacip_43-12893g0n
+- [](/catalog/cpb-aacip_43-00ns23wh
+- [](/catalog/cpb-aacip_511-k06ww77p6s
+- [](/catalog/cpb-aacip_29-64thtffh
+- [](/catalog/cpb-aacip_328-26xwdfkn
+- [](/catalog/cpb-aacip_204-386hdvjp
+- [](/catalog/cpb-aacip_514-4x54f1nb2g
+- [](/catalog/cpb-aacip-525-k649p2xj4p
+- [](/catalog/cpb-aacip_510-cf9j38m72g
+- [](/catalog/cpb-aacip_15-56932b1t
+- [](/catalog/cpb-aacip_305-752fr643
+- [](/catalog/cpb-aacip_529-707wm14v7w
+- [](/catalog/cpb-aacip_16-2b8v97zx1j
+- [](/catalog/cpb-aacip_43-7634v53r
+- [](/catalog/cpb-aacip_511-2z12n5049k
+- [](/catalog/cpb-aacip_500-2804x55c6z
+- [](/catalog/cpb-aacip-507-xs5j96171h
+- [](/catalog/cpb-aacip_293-9s1kh0f775
+- [](/catalog/cpb-aacip_526-zg6g15vp07
+- [](/catalog/cpb-aacip_204-515mkrb0
+- [](/catalog/cpb-aacip-7f0edde25d2
+- [](/catalog/cpb-aacip_526-nv9959dg76
+- [](/catalog/cpb-aacip_129-27mpgb5f
+- [](/catalog/cpb-aacip_260-30prr8b0
+- [](/catalog/cpb-aacip_16-gt5fb4x15b
+- [](/catalog/cpb-aacip_525-k06ww7812j
+- [](/catalog/cpb-aacip_204-91sf7vwm
+- [](/catalog/cpb-aacip_204-04dnck6h
+- [](/catalog/cpb-aacip_204-31cjt1bb
+- [](/catalog/cpb-aacip-114-20sqvcx9
+- [](/catalog/cpb-aacip-114-881jx2h7
+- [](/catalog/cpb-aacip-114-2259zz55
+- [](/catalog/cpb-aacip-114-93gxdbc7
+- [](/catalog/cpb-aacip_508-222r49gs11
+- [](/catalog/cpb-aacip_508-j38kd1rb1k
+- [](/catalog/cpb-aacip_508-057cr5nw61
+- [](/catalog/cpb-aacip_508-td9n29q276
+- [](/catalog/cpb-aacip_508-5q4rj49c9n
+- [](/catalog/cpb-aacip_508-db7vm43j94
+- [](/catalog/cpb-aacip_508-vd6nz81k7h
+- [](/catalog/cpb-aacip_508-w66930ps8b
+- [](/catalog/cpb-aacip_508-6m3319sr6p
+- [](/catalog/cpb-aacip_508-np1wd3qs2f
+- [](/catalog/cpb-aacip_508-sf2m61cj57
+- [](/catalog/cpb-aacip_508-z60bv7bt9b
+- [](/catalog/cpb-aacip_508-0z70v8b39n
+- [](/catalog/cpb-aacip_508-x921c1vg2h
+- [](/catalog/cpb-aacip_508-7m03x8484m
+- [](/catalog/cpb-aacip_508-cc0tq5s173
+- [](/catalog/cpb-aacip_508-hx15m63091
+- [](/catalog/cpb-aacip_508-8k74t6fs54
+- [](/catalog/cpb-aacip_508-4q7qn5zw1r
+- [](/catalog/cpb-aacip_508-bc3st7fh7m
+- [](/catalog/cpb-aacip_508-rf5k932150
+- [](/catalog/cpb-aacip_508-8g8ff3mn2x
+- [](/catalog/cpb-aacip_508-x639z91993
+- [](/catalog/cpb-aacip_508-jw86h4dj2b
+- [](/catalog/cpb-aacip-508-125q815826
+- [](/catalog/cpb-aacip_508-4t6f18t131
+- [](/catalog/cpb-aacip_508-9c6rx9408p
+- [](/catalog/cpb-aacip_508-g44hm5390k
+- [](/catalog/cpb-aacip-508-3t9d50gh3n
+- [](/catalog/cpb-aacip_508-nv9959d319
+- [](/catalog/cpb-aacip_508-d50ft8f78w
+- [](/catalog/cpb-aacip_127-30bvqdg3
+- [](/catalog/cpb-aacip_127-51hhmqj3
+- [](/catalog/cpb-aacip-127-00ns1tkx
+- [](/catalog/cpb-aacip-127-01bk3mn3
+- [](/catalog/cpb-aacip-127-02c869p4
+- [](/catalog/cpb-aacip-127-02q576c6
+- [](/catalog/cpb-aacip-127-03cz9013
+- [](/catalog/cpb-aacip-127-03cz902t
+- [](/catalog/cpb-aacip-127-04dncnn3
+- [](/catalog/cpb-aacip-127-04rjdjnp
+- [](/catalog/cpb-aacip-127-06g1k0sx
+- [](/catalog/cpb-aacip-127-09w0vxgb
+- [](/catalog/cpb-aacip-127-117m0gxj
+- [](/catalog/cpb-aacip-127-12m642hr
+- [](/catalog/cpb-aacip-127-20fttkb7
+- [](/catalog/cpb-aacip-127-20fttkcz
+- [](/catalog/cpb-aacip-127-20fttkdp
+- [](/catalog/cpb-aacip-127-20sqvfz5
+- [](/catalog/cpb-aacip-127-20sqvg0k
+- [](/catalog/cpb-aacip-127-22h70xcv
+- [](/catalog/cpb-aacip-127-25k98xpp
+- [](/catalog/cpb-aacip-127-27mpg96k
+- [](/catalog/cpb-aacip-127-289gj2n1
+- [](/catalog/cpb-aacip-127-3331zjws
+- [](/catalog/cpb-aacip-127-343r27h5
+- [](/catalog/cpb-aacip-127-36547kj5
+- [](/catalog/cpb-aacip-127-386hdxzj
+- [](/catalog/cpb-aacip-127-386hdz0z
+- [](/catalog/cpb-aacip-127-386hdz1p
+- [](/catalog/cpb-aacip-127-3976hmd8
+- [](/catalog/cpb-aacip-127-40xpp353
+- [](/catalog/cpb-aacip-127-418kpzgd
+- [](/catalog/cpb-aacip-127-4298sn21
+- [](/catalog/cpb-aacip-127-439zw9hg
+- [](/catalog/cpb-aacip-127-44bp008b
+- [](/catalog/cpb-aacip-127-45cc2ns5
+- [](/catalog/cpb-aacip-127-49g4fcgz
+- [](/catalog/cpb-aacip-127-55z61b2g
+- [](/catalog/cpb-aacip-127-57np5spm
+- [](/catalog/cpb-aacip-127-58bg7k9c
+- [](/catalog/cpb-aacip-127-58bg7kb3
+- [](/catalog/cpb-aacip-127-59c5b753
+- [](/catalog/cpb-aacip-127-59c5b76t
+- [](/catalog/cpb-aacip-127-60cvdx18
+- [](/catalog/cpb-aacip-127-66j0zztt
+- [](/catalog/cpb-aacip-127-72b8h49n
+- [](/catalog/cpb-aacip-127-73pvmpr1
+- [](/catalog/cpb-aacip-127-74cnpg5f
+- [](/catalog/cpb-aacip-127-75r7t1jm
+- [](/catalog/cpb-aacip-127-784j1888
+- [](/catalog/cpb-aacip-127-88qbzx9j
+- [](/catalog/cpb-aacip-127-89d51q48
+- [](/catalog/cpb-aacip-127-89d51q50
+- [](/catalog/cpb-aacip-127-90dv4dbb
+- [](/catalog/cpb-aacip-127-90rr58jk
+- [](/catalog/cpb-aacip-127-94hmh2ns
+- [](/catalog/cpb-aacip-127-009w0z0q
+- [](/catalog/cpb-aacip-127-00ns1t6z
+- [](/catalog/cpb-aacip-127-010p2r15
+- [](/catalog/cpb-aacip-127-032282mq
+- [](/catalog/cpb-aacip-127-03cz8zdq
+- [](/catalog/cpb-aacip-127-0644j37r
+- [](/catalog/cpb-aacip-127-06g1jzz6
+- [](/catalog/cpb-aacip-127-06g1k008
+- [](/catalog/cpb-aacip-127-085hqfqk
+- [](/catalog/cpb-aacip-127-09w0vx3c
+- [](/catalog/cpb-aacip-127-10jsxpvr
+- [](/catalog/cpb-aacip-127-10jsxpwg
+- [](/catalog/cpb-aacip-127-10jsxpx6
+- [](/catalog/cpb-aacip-127-149p8hcz
+- [](/catalog/cpb-aacip-127-14nk9d19
+- [](/catalog/cpb-aacip-127-15p8d31m
+- [](/catalog/cpb-aacip-127-16pzgr3f
+- [](/catalog/cpb-aacip-127-18rbp380
+- [](/catalog/cpb-aacip-127-20fttjr7
+- [](/catalog/cpb-aacip-127-225b014v
+- [](/catalog/cpb-aacip-127-23612qck
+- [](/catalog/cpb-aacip-127-257d81kk
+- [](/catalog/cpb-aacip-127-257d81m9
+- [](/catalog/cpb-aacip-127-25k98x78
+- [](/catalog/cpb-aacip-127-25x69tk3
+- [](/catalog/cpb-aacip-127-26xwdh7k
+- [](/catalog/cpb-aacip-127-27zkh5wz
+- [](/catalog/cpb-aacip-127-28ncjzpp
+- [](/catalog/cpb-aacip-127-2908kvc9
+- [](/catalog/cpb-aacip-127-33rv1b2m
+- [](/catalog/cpb-aacip-127-34fn33pp
+- [](/catalog/cpb-aacip-127-34sj40gx
+- [](/catalog/cpb-aacip-127-35gb5sdj
+- [](/catalog/cpb-aacip-127-35t76q2k
+- [](/catalog/cpb-aacip-127-375tb883
+- [](/catalog/cpb-aacip-127-37hqc4tk
+- [](/catalog/cpb-aacip-127-37vmd1rq
+- [](/catalog/cpb-aacip-127-386hdxkk
+- [](/catalog/cpb-aacip-127-38w9gpk2
+- [](/catalog/cpb-aacip-127-41mgqv1k
+- [](/catalog/cpb-aacip-127-440rz436
+- [](/catalog/cpb-aacip-127-48ffbpfx
+- [](/catalog/cpb-aacip-127-52j6qcr2
+- [](/catalog/cpb-aacip-127-54kkwqvx
+- [](/catalog/cpb-aacip-127-54kkwrd6
+- [](/catalog/cpb-aacip-127-558czhn9
+- [](/catalog/cpb-aacip-127-59c5b6f6
+- [](/catalog/cpb-aacip-127-59c5b6gx
+- [](/catalog/cpb-aacip-127-59q2c3zn
+- [](/catalog/cpb-aacip-127-60qrfsqn
+- [](/catalog/cpb-aacip-127-612ngp56
+- [](/catalog/cpb-aacip-127-623bkbxr
+- [](/catalog/cpb-aacip-127-6341p189
+- [](/catalog/cpb-aacip-127-63fxpxg0
+- [](/catalog/cpb-aacip-127-65h9w88k
+- [](/catalog/cpb-aacip-127-66vx0v02
+- [](/catalog/cpb-aacip-127-67wm3hhj
+- [](/catalog/cpb-aacip-127-68kd59ft
+- [](/catalog/cpb-aacip-127-69m37zr9
+- [](/catalog/cpb-aacip-127-719kdfjd
+- [](/catalog/cpb-aacip-127-74cnpfqb
+- [](/catalog/cpb-aacip-127-74cnpfr2
+- [](/catalog/cpb-aacip-127-74qjqbsc
+- [](/catalog/cpb-aacip-127-752fr7q2
+- [](/catalog/cpb-aacip-127-7634tx89
+- [](/catalog/cpb-aacip-127-76f1vspw
+- [](/catalog/cpb-aacip-127-816m99hb
+- [](/catalog/cpb-aacip-127-81jhb5w6
+- [](/catalog/cpb-aacip-127-84mkm6tr
+- [](/catalog/cpb-aacip-127-86nzsk0r
+- [](/catalog/cpb-aacip-127-87brvbt5
+- [](/catalog/cpb-aacip-127-87pnw7r9
+- [](/catalog/cpb-aacip-127-89280sv6
+- [](/catalog/cpb-aacip-127-89r22kjv
+- [](/catalog/cpb-aacip-127-90rr586b
+- [](/catalog/cpb-aacip-127-945qg6jq
+- [](/catalog/cpb-aacip-127-956djvkd
+- [](/catalog/cpb-aacip-127-96wwq9xv
+- [](/catalog/cpb-aacip-127-988gtvzp
+- [](/catalog/cpb-aacip-127-98mcvs0p
+- [](/catalog/cpb-aacip-526-6q1sf2n93k
+- [](/catalog/cpb-aacip-526-f18sb3z13t
+- [](/catalog/cpb-aacip_77-44bp0mdh
+- [](/catalog/cpb-aacip-75-06g1k310
+
