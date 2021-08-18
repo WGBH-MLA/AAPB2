@@ -27,31 +27,25 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1948
 
-[Chairside Chats [1948-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-639k35nd04)</br>
-[City Rent Laws](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tw04)</br>
+[Chairside Chats [1948-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-639k35nd04) | WNYC</br>
+[City Rent Laws](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tw04) | WNYC</br>
 [Lectures to the Laity](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Lectures+to+the+Laity&sort=title+asc) | WNYC</br>
-[Lectures to the Laity, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j4b)</br>
-[Lectures to the Laity, Part 3](https://americanarchive.org/catalog/cpb-aacip-526-4m91835459)</br>
-[Lectures to the Laity, Part 4](https://americanarchive.org/catalog/cpb-aacip-06db69fd27d)</br>
-[Lectures to the Laity, Part 5](https://americanarchive.org/catalog/cpb-aacip-be66968e3c9)</br>
-[Lectures to the Laity, Part 6](https://americanarchive.org/catalog/cpb-aacip-d00041bf054)</br>
-[Queens College Forum, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m0b)</br>
-[Queens College Forum, Part 2](https://americanarchive.org/catalog/cpb-aacip-a877bd3581b)</br>
-[U.P.A. Forum [1948-04-21]](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s23q)</br>
-[United Nations Proceedings](https://americanarchive.org/catalog/cpb-aacip-526-8p5v69999z)</br>
-[WNYC Anniversaries; Cavalcade of WNYC](https://americanarchive.org/catalog/cpb-aacip-80-612nh60k)</br>
+[Queens College Forum](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Queens+College+Forum) | WNYC</br>
+[U.P.A. Forum [1948-04-21]](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s23q) | WNYC</br>
+[United Nations Proceedings](https://americanarchive.org/catalog/cpb-aacip-526-8p5v69999z) | WNYC</br>
+[WNYC Anniversaries; Cavalcade of WNYC](https://americanarchive.org/catalog/cpb-aacip-80-612nh60k) | WNYC</br>
 
 ##### 1949
 
-[Story of Empire County, The; Facts Over Fear](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976)</br>
+[Story of Empire County, The; Facts Over Fear](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976) | WNYC</br>
 
-[Story of Empire County, The; No. 15; The Case of the Careless Cook](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976)</br>
+[Story of Empire County, The; No. 15; The Case of the Careless Cook](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976) | WNYC</br>
 
 ### 1950s
 
 ##### 1950
 
-[World Theatre; A Phoenix Too Frequent](https://americanarchive.org/catalog/cpb-aacip-526-4j09w09z2g)</br>
+[World Theatre; A Phoenix Too Frequent](https://americanarchive.org/catalog/cpb-aacip-526-4j09w09z2g) | WNYC</br>
 
 ##### 1951
 
