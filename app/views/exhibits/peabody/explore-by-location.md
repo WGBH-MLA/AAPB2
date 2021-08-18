@@ -16,21 +16,21 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### Auburn University Television
 
-[1978, Alabama Supreme Court, The: A Changing Constant](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k4b)</br>
-[1978, Option; Pornography: A Case for Local Regulation? [1978-07-30]](https://americanarchive.org/catalog/cpb-aacip-526-m32n58dr60)</br>
-[1983, Lost in Time](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js62)</br>
-[1987, First Frontier](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t5q)</br>
+[Alabama Supreme Court, The: A Changing Constant](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k4b) | 1978</br>
+[Option; Pornography: A Case for Local Regulation? [1978-07-30]](https://americanarchive.org/catalog/cpb-aacip-526-m32n58dr60) | 1978</br>
+[Lost in Time](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js62) | 1983</br>
+[First Frontier](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t5q) | 1987</br>
 
 ##### University of Alabama
 
-[1977, Camp Meeting: Unity Grove](https://americanarchive.org/catalog/cpb-aacip-526-qz22b8wp37)</br>
-[1977, Tennessee-Tombigbee Waterway](https://americanarchive.org/catalog/cpb-aacip-526-d21rf5mh22)</br>
-[1988, George Wallace: A Politician's Legacy; No. 2; Convenience or Conversion](https://americanarchive.org/catalog/cpb-aacip-526-w66930q61q)</br>
-[1988, George Wallace: A Politician's Legacy; No Middle Ground](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q851)</br>
-[1989, Where Once We Stood: The Lincoln School Story](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73884h)</br>
-[1993, Conscience of a Congressman: The Life and Times of Carl Elliott](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh61)</br>
-[1996, Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95)</br>
-[1996, Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p)</br>
+[Camp Meeting: Unity Grove](https://americanarchive.org/catalog/cpb-aacip-526-qz22b8wp37) | 1977</br>
+[Tennessee-Tombigbee Waterway](https://americanarchive.org/catalog/cpb-aacip-526-d21rf5mh22) | 1977</br>
+[George Wallace: A Politician's Legacy; No. 2; Convenience or Conversion](https://americanarchive.org/catalog/cpb-aacip-526-w66930q61q) | 1988</br>
+[George Wallace: A Politician's Legacy; No Middle Ground](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q851) | 1988</br>
+[Where Once We Stood: The Lincoln School Story](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73884h) | 1989</br>
+[Conscience of a Congressman: The Life and Times of Carl Elliott](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh61) | 1993</br>
+[Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95) | 1996</br>
+[Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p)z | 1996</br>
 
 ### Alaska
 
@@ -38,42 +38,42 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### KAKM Alaska Public Media
 
-[1978, Running; Compilation: The Campaign Ahead; The Polls and the Pollsters; The Image Makers; The Elections and the Courts; The Republican Gubernatorial Debate; The Blitz; The Last Hurrah](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz3x)</br>
-[1985, Alaska News Morning; 1985--excerpts, Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-574b049ff38)</br>
-[1985, Alaska News Morning; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-m901z4318h)</br>
-[1985, Alaska News Nightly; Impeachment Coverage [1985-07-02]](https://americanarchive.org/catalog/cpb-aacip-9cd5f2b1cd4)</br>
-[1985, Alaska News Nightly; Impeachment Coverage [1985-08-05]](https://americanarchive.org/catalog/cpb-aacip-af103c49a4d)</br>
-[1985, Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz60)</br>
-[1985, Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg8h)</br>
+[Running; Compilation: The Campaign Ahead; The Polls and the Pollsters; The Image Makers; The Elections and the Courts; The Republican Gubernatorial Debate; The Blitz; The Last Hurrah](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz3x) | 1978</br>
+[Alaska News Morning; 1985--excerpts, Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-574b049ff38) | 1985</br>
+[Alaska News Morning; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-m901z4318h) | 1985</br>
+[Alaska News Nightly; Impeachment Coverage [1985-07-02]](https://americanarchive.org/catalog/cpb-aacip-9cd5f2b1cd4) | 1985</br>
+[Alaska News Nightly; Impeachment Coverage [1985-08-05]](https://americanarchive.org/catalog/cpb-aacip-af103c49a4d) | 1985</br>
+[Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz60) | 1985</br>
+[Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg8h) | 1985</br>
 
 ##### Western Media Concepts, Inc.
 
-[1988, Opening the Literate Mind; No. 5; Cultivating Literacy](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr1k)</br>
+[Opening the Literate Mind; No. 5; Cultivating Literacy](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr1k) | 1988</br>
 
 #### Bethel
 
 ##### KYUK-TV
 
-[1986, We of the River](https://americanarchive.org/catalog/cpb-aacip-127-51hhmqj3)</br>
+[We of the River](https://americanarchive.org/catalog/cpb-aacip-127-51hhmqj3) | 1986</br>
 
 #### Fairbanks
 
 ##### KUAC
 
-[1981, Corporate Whale, The: ANCSA: Ten Years Later; The History](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34np1h)</br>
-[1986, A Right to Learn](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd42)</br>
-[1987, Make Prayers to the Raven; Grandpa Joe's Country](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z13t)</br>
-[1987, Make Prayers to the Raven; The Bible and the Distant Time](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2n93k)</br>
-[1989, Arctic Haze](https://americanarchive.org/catalog/cpb-aacip-526-q814m92k77)</br>
-[1993, Adult Literacy in Fairbanks](https://americanarchive.org/catalog/cpb-aacip-526-dv1cj88p9d)</br>
+[Corporate Whale, The: ANCSA: Ten Years Later; The History](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34np1h) | 1981</br>
+[A Right to Learn](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd42) | 1986</br>
+[Make Prayers to the Raven; Grandpa Joe's Country](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z13t) | 1987</br>
+[Make Prayers to the Raven; The Bible and the Distant Time](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2n93k) | 1987</br>
+[Arctic Haze](https://americanarchive.org/catalog/cpb-aacip-526-q814m92k77) | 1989</br>
+[Adult Literacy in Fairbanks](https://americanarchive.org/catalog/cpb-aacip-526-dv1cj88p9d) | 1993</br>
 
 #### Juneau
 
 ##### KTOO
 
-[1979, Capital '79 [1979-01-15]](https://americanarchive.org/catalog/cpb-aacip-526-0r9m32p59v)</br>
-[1979, Southeast Profile; Handicapped Children](https://americanarchive.org/catalog/cpb-aacip-526-086348hf79)</br>
-[1985, Alaska State Legislative Special Session, 1985 Gavel to Gavel Coverage](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p42p)</br>
+[Capital '79 [1979-01-15]](https://americanarchive.org/catalog/cpb-aacip-526-0r9m32p59v) | 1979</br>
+[Southeast Profile; Handicapped Children](https://americanarchive.org/catalog/cpb-aacip-526-086348hf79) | 1979</br>
+[Alaska State Legislative Special Session, 1985 Gavel to Gavel Coverage](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p42p) | 1985</br>
 
 ### Arkansas
 
