@@ -29,7 +29,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 [Chairside Chats [1948-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-639k35nd04)</br>
 [City Rent Laws](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tw04)</br>
-[Lectures to the Laity](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Bseries_titles%5D%5B%5D=Lectures+to+the+Laity&f%5Baccess_types%5D%5B%5D=digitized&exact_or_range=exact&after_date=1948&commit=Update) | WNYC</br>
+[Lectures to the Laity](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Lectures+to+the+Laity&sort=title+asc | WNYC</br>
 [Lectures to the Laity, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j4b)</br>
 [Lectures to the Laity, Part 3](https://americanarchive.org/catalog/cpb-aacip-526-4m91835459)</br>
 [Lectures to the Laity, Part 4](https://americanarchive.org/catalog/cpb-aacip-06db69fd27d)</br>
