@@ -30,7 +30,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Where Once We Stood: The Lincoln School Story](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73884h) | 1989</br>
 [Conscience of a Congressman: The Life and Times of Carl Elliott](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh61) | 1993</br>
 [Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95) | 1996</br>
-[Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p)z | 1996</br>
+[Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p) | 1996</br>
 
 ### Alaska
 
@@ -81,15 +81,15 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### Arkansas Educational Television Network
 
-[1979, Money Magic; No. 19; Stocks and Bonds](https://americanarchive.org/catalog/cpb-aacip-526-qz22b8wn76)</br>
-[1982, Arkansas: Its Architectural Heritage: 1800-1861](https://americanarchive.org/catalog/cpb-aacip-526-br8mc8sj0p)</br>
-[1982, To Cross a River: A Ferry Tale](https://americanarchive.org/catalog/cpb-aacip-111-38jdfvgk)</br>
-[1983, Nowhere to go but up](https://americanarchive.org/catalog/cpb-aacip-111-623bkcgx)</br>
-[1985, Spirit of ITV, The](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xk45)</br>
-[1986, Beyond 1986; Poor Folks; A Look Forward](https://americanarchive.org/catalog/cpb-aacip-526-qj77s7k26f)</br>
-[1986, Project Second Chance: Dropouts In America](https://americanarchive.org/catalog/cpb-aacip-111-655dvd99)</br>
-[1986, Project Second Chance: Dropouts in America Live Studio Follow-up](https://americanarchive.org/catalog/cpb-aacip-526-154dn40t33)</br>
-[1993, Last Minority, The](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sk9j)</br>
+[Money Magic; No. 19; Stocks and Bonds](https://americanarchive.org/catalog/cpb-aacip-526-qz22b8wn76) | 1979</br>
+[Arkansas: Its Architectural Heritage: 1800-1861](https://americanarchive.org/catalog/cpb-aacip-526-br8mc8sj0p) | 1982</br>
+[To Cross a River: A Ferry Tale](https://americanarchive.org/catalog/cpb-aacip-111-38jdfvgk) | 1982</br>
+[Nowhere to go but up](https://americanarchive.org/catalog/cpb-aacip-111-623bkcgx) | 1983</br>
+[Spirit of ITV, The](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xk45) | 1985</br>
+[Beyond 1986; Poor Folks; A Look Forward](https://americanarchive.org/catalog/cpb-aacip-526-qj77s7k26f) | 1986</br>
+[Project Second Chance: Dropouts In America](https://americanarchive.org/catalog/cpb-aacip-111-655dvd99) | 1986</br>
+[Project Second Chance: Dropouts in America Live Studio Follow-up](https://americanarchive.org/catalog/cpb-aacip-526-154dn40t33) | 1986</br>
+[Last Minority, The](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sk9j) | 1993</br>
 
 ### California
 
@@ -97,118 +97,118 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### KPFA
 
-[1986, Skip Through the Shadows: Scenes From Childhood](https://americanarchive.org/catalog/cpb-aacip-526-0r9m32p60b)</br>
-[1989, Nelson Mandela: Africa's Noblest Son; No. 1; The Early Years](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg8b)</br>
-[1989, Nelson Mandela: Africa's Noblest Son; No. 2; Law Practice and Run-Ins with the Law](https://americanarchive.org/catalog/cpb-aacip-526-6w96689k65)</br>
-[1989, Nelson Mandela: Africa's Noblest Son; No. 3; Prison Life and the Mandela Family](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3t01z)</br>
-[1989, Nelson Mandela: Africa's Noblest Son; No. 4; Mandela's Release and the Future](https://americanarchive.org/catalog/cpb-aacip-526-xs5j961m2v)</br>
-[1991, Outside the Moscow Beltway; Letter from Ukraine & Interview on Kazakhstan [1991-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq1h)</br>
-[1991, Outside the Moscow Beltway; Gary Cook of Baikal Watch [1991-12-30]](https://americanarchive.org/catalog/cpb-aacip-526-0v89g5hb6g)</br>
-[1991, Outside the Moscow Beltway; With Ethel Dunn, on the disabled in the USSR [1992-01-06]](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6kb3k)</br>
-[1991, Outside the Moscow Beltway; Letters from Soviets & talk [1992-01-13]](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw2d)</br>
-[1991, Pacifica's Town Hall Meetings--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp3v)</br>
-[1992, KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw41)</br>
-[1992, KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris, Part 2](https://americanarchive.org/catalog/cpb-aacip-167e58dd8b3)</br>
-[1993, Audre Lorde: A Burst of Light](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx6k)</br>
-[1993, Hell's Bells promotional spots](https://americanarchive.org/catalog/cpb-aacip-526-3t9d50gx48)</br>
-[1993, Hell's Bells: A Radio History of the Telephone; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-862b854k5w)</br>
-[1993, Hell's Bells: A Radio History of the Telephone; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx7w)</br>
-[1993, Hell's Bells: A Radio History of the Telephone; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk08588)</br>
-[1993, Hell's Bells: A Radio History of the Telephone; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr3x)</br>
-[1993, Hell's Bells: A Radio History of the Telephone; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft23)</br>
-[1993, Hell's Bells: A Radio History of the Telephone; No. 6](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s81z)</br>
-[1993, Hell's Bells: A Radio History of the Telephone; No. 7](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf6s)</br>
-[1993, Hell's Bells: A Radio History of the Telephone; No. 8](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87419w)</br>
-[1994, From Death Row: This is Mumia Abu-Jamal, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r0w)</br>
-[1994, From Death Row: This is Mumia Abu-Jamal, Part 2](https://americanarchive.org/catalog/cpb-aacip-835c2a5634d)</br>
+[Skip Through the Shadows: Scenes From Childhood](https://americanarchive.org/catalog/cpb-aacip-526-0r9m32p60b) | 1986</br>
+[Nelson Mandela: Africa's Noblest Son; No. 1; The Early Years](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg8b) | 1989</br>
+[Nelson Mandela: Africa's Noblest Son; No. 2; Law Practice and Run-Ins with the Law](https://americanarchive.org/catalog/cpb-aacip-526-6w96689k65) | 1989</br>
+[Nelson Mandela: Africa's Noblest Son; No. 3; Prison Life and the Mandela Family](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3t01z) | 1989</br>
+[Nelson Mandela: Africa's Noblest Son; No. 4; Mandela's Release and the Future](https://americanarchive.org/catalog/cpb-aacip-526-xs5j961m2v) | 1989</br>
+[Outside the Moscow Beltway; Letter from Ukraine & Interview on Kazakhstan [1991-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq1h) | 1991</br>
+[Outside the Moscow Beltway; Gary Cook of Baikal Watch [1991-12-30]](https://americanarchive.org/catalog/cpb-aacip-526-0v89g5hb6g) | 1991</br>
+[Outside the Moscow Beltway; With Ethel Dunn, on the disabled in the USSR [1992-01-06]](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6kb3k) | 1991</br>
+[Outside the Moscow Beltway; Letters from Soviets & talk [1992-01-13]](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw2d) | 1991</br>
+[Pacifica's Town Hall Meetings--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp3v) | 1991</br>
+[KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw41) | 1992</br>
+[KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris, Part 2](https://americanarchive.org/catalog/cpb-aacip-167e58dd8b3) | 1992</br>
+[Audre Lorde: A Burst of Light](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx6k) | 1993</br>
+[Hell's Bells promotional spots](https://americanarchive.org/catalog/cpb-aacip-526-3t9d50gx48) | 1993</br>
+[Hell's Bells: A Radio History of the Telephone; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-862b854k5w) | 1993</br>
+[Hell's Bells: A Radio History of the Telephone; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx7w) | 1993</br>
+[Hell's Bells: A Radio History of the Telephone; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk08588) | 1993</br>
+[Hell's Bells: A Radio History of the Telephone; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr3x) | 1993</br>
+[Hell's Bells: A Radio History of the Telephone; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft23) | 1993</br>
+[Hell's Bells: A Radio History of the Telephone; No. 6](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s81z) | 1993</br>
+[Hell's Bells: A Radio History of the Telephone; No. 7](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf6s) | 1993</br>
+[Hell's Bells: A Radio History of the Telephone; No. 8](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87419w) | 1993</br>
+[From Death Row: This is Mumia Abu-Jamal, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r0w) | 1994</br>
+[From Death Row: This is Mumia Abu-Jamal, Part 2](https://americanarchive.org/catalog/cpb-aacip-835c2a5634d) | 1994</br>
 
 #### Costa Mesa
 
 ##### KOCE / PBS SoCal
 
-[1982, To Hear](https://americanarchive.org/catalog/cpb-aacip-221-65h9wbnm)</br>
+[To Hear](https://americanarchive.org/catalog/cpb-aacip-221-65h9wbnm) | 1982</br>
 
 #### Los Angeles
 
 ##### KCET
 
-[1968, POTpourri: Many Views of Marijuana](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb9r)</br>
-[1971, Newseekers](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5t96h)</br>
-[1973, Wrinkles, Birthdays, & Other Fables](https://americanarchive.org/catalog/cpb-aacip-526-kw57d2rf5s)</br>
-[1975, Game, The; No. 122, The Real Estate Game](https://americanarchive.org/catalog/cpb-aacip-526-0z70v8bh1g)</br>
-[1975, Game, The; Til Death Do Us Part](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk4v)</br>
-[1975, Los Angeles News Review; No Time to Cry [1975-07-11]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jj0f)</br>
-[1975, Out of the Shadows... Into the Sun](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t20w)</br>
-[1976, 28 Tonight; Housing Speculation/Mechanics Bank [1976-09-24]](https://americanarchive.org/catalog/cpb-aacip-526-2r3nv9b776)</br>
-[1976, Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k1k)</br>
-[1977, Meeting of Minds; No. 101 [1977-01-10]](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98f3r)</br>
-[1977, Meeting of Minds; No. 103 [1977-01-24]](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q3r)</br>
-[1977, Meeting of Minds; No. 105 [1977-02-07]](https://americanarchive.org/catalog/cpb-aacip-526-319s17tp8p)</br>
-[1977, Plutonium: Element of Risk](https://americanarchive.org/catalog/cpb-aacip-526-v69862cp2j)</br>
-[1978, 28 Tonight; State Contractors Licensing Board [1978-01-09]](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s288)</br>
-[1978, Freestyle; Scoop [1978-10-30]](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn4b)</br>
-[1978, Freestyle; No. 110; Young and Old [1978-12-04]](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7351z)</br>
-[1978, Freestyle; No. 111; Good Signs [1978-12-11]](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng2t)</br>
-[1980, Opening Night: The Making of an Opera](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mm0w)</br>
-[1984, KCET Journal; Transplanting Hope [1984-06-27]](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b995)</br>
-[1984, KCET Journal; Transplanting Hope](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d95x)</br>
-[1986, KCET Journal; Crimes of Neglect [1986-07-23]](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr93)</br>
-[1986, KCET Journal; Dropouts [1986-07-23]](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xj9f)</br>
-[1986, Turning Points; No. 107; Best of Turning Points [1986-08-19]](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sm5k)</br>
-[1987, California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp8d)</br>
-[1987, California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f94s)</br>
-[1987, California Stories; Over-Exposed: Chemicals in the Workplace [1987-05-30]](https://americanarchive.org/catalog/cpb-aacip-526-mw28913006)</br>
-[1987, California Stories; Art: Off the Wall [1987-10-31]](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21t1h)</br>
-[1987, KCET Journal; Prison of the Streets [1987-07-01]](https://americanarchive.org/catalog/cpb-aacip-526-c24qj7901h)</br>
-[1988, California Stories; Dreams: Theater of the Night](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv5g)</br>
-[1988, Expecting Miracles](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c411)</br>
-[1988, For The Sake Of Appearances](https://americanarchive.org/catalog/cpb-aacip-526-qf8jd4qx2p)</br>
-[1988, Kids, Sex & Choices](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px76)</br>
-[1988, Los Angeles History Project, The: Trouble in Angel City](https://americanarchive.org/catalog/cpb-aacip-526-5x25b00290)</br>
-[1988, Straight Up; No. 1; Knowledge & Facts](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18td8m)</br>
-[1988, Straight Up; No. 2; Attitudes & Perceptions](https://americanarchive.org/catalog/cpb-aacip-526-pn8x922p99)</br>
-[1988, Straight Up; No. 3; Self-Image & Life Skills](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mx5f)</br>
-[1989, By The Year 2000; Coverage Lost](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c46k)</br>
-[1989, By The Year 2000; Emergency Room Collapse](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt5v)</br>
-[1989, By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp6s)</br>
-[1989, By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c94m)</br>
-[1989, In Poor Health](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q14)</br>
-[1989, Living the Last Days](https://americanarchive.org/catalog/cpb-aacip-526-z892806c3h)</br>
-[1989, Report From Hungary](https://americanarchive.org/catalog/cpb-aacip-526-086348hf04)</br>
-[1989, Secret Intelligence; No. 101; The only rule is win](https://americanarchive.org/catalog/cpb-aacip-15-977ss3pf)</br>
-[1989, Secret Intelligence; No. 102; Intervention](https://americanarchive.org/catalog/cpb-aacip-15-70msck27)</br>
-[1989, Secret Intelligence; No. 103; Learning to say no](https://americanarchive.org/catalog/cpb-aacip-15-623bm621)</br>
-[1989, Secret Intelligence; No. 104; The enterprise](https://americanarchive.org/catalog/cpb-aacip-15-4302w779)</br>
-[1989, Time of Our Lives, The](https://americanarchive.org/catalog/cpb-aacip-526-028pc2v433)</br>
-[1990, By The Year 2000; A Class by Itself](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34702)</br>
-[1990, By The Year 2000; The Have/Have-not Society](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js7c)</br>
-[1990, By The Year 2000; The Underclass](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p87m)</br>
-[1990, By The Year 2000; The Waning Class](https://americanarchive.org/catalog/cpb-aacip-526-4m9183537n)</br>
-[1990, Inside Information](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s9q)</br>
-[1990, KCET Journal; Under New Management [1990-10-18]](https://americanarchive.org/catalog/cpb-aacip-526-c24qj78z85)</br>
-[1990, Power in the Pacific; No. 104; Power Without Purpose [1990-11-06]](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n0p)</br>
-[1991, By the Year 2000; Skin Deep [1991-03-22]](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks23)</br>
-[1991, By the Year 2000; Speaking of Young Black Men [1991-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r60c)</br>
-[1991, By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p)</br>
-[1991, By The Year 2000; We Are Family [1991-06-21]](https://americanarchive.org/catalog/cpb-aacip-526-5717m05137)</br>
-[1991, By the Year 2000; The Color of Power [1991-07-12]](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb2k)</br>
-[1991, TeenAIDS: Sons and Daughters](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m69v)</br>
-[1992, A Chance to Talk; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk3j)</br>
-[1992, Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb17)</br>
-[1992, Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-3f4kk9598q)</br>
-[1992, Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-154dn40t1g)</br>
-[1992, Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c995)</br>
-[1992, Life & Times; No. 168; Young L.A.: Rage & Responsibility; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c69m)</br>
-[1992, Life & Times; Straight Hate [1992-10-29]](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx8k)</br>
-[1992, Life & Times; No. 158](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w710)</br>
-[1992, Life & Times; Return to King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010p7p)</br>
-[1992, MacNeil/Lehrer NewsHour; L.A. Riot; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-nk3610x19q)</br>
-[1992, Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j)</br>
-[1993, Life and Times; L.A. Medical. Dr. Michael Zinner [1993-10-05]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh4d)</br>
-[1993, Life and Times; L.A. Medical. Dr. Keith Black [1993-10-06]](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18tf21)</br>
-[1993, Life and Times; No. 411; Firefight [1993-12-07]](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc7r)</br>
-[1995, A Friend Called Lyle](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jv99)</br>
-[1995, Follow My Lead](https://americanarchive.org/catalog/cpb-aacip-526-b27pn8zf8q)</br>
+[POTpourri: Many Views of Marijuana](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb9r) | 1968</br>
+[Newseekers](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5t96h) | 1971</br>
+[Wrinkles, Birthdays, & Other Fables](https://americanarchive.org/catalog/cpb-aacip-526-kw57d2rf5s) | 1973</br>
+[Game, The; No. 122, The Real Estate Game](https://americanarchive.org/catalog/cpb-aacip-526-0z70v8bh1g) | 1975</br>
+[Game, The; Til Death Do Us Part](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk4v) | 1975</br>
+[Los Angeles News Review; No Time to Cry [1975-07-11]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jj0f) | 1975</br>
+[Out of the Shadows... Into the Sun](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t20w) | 1975</br>
+[28 Tonight; Housing Speculation/Mechanics Bank [1976-09-24]](https://americanarchive.org/catalog/cpb-aacip-526-2r3nv9b776) | 1976</br>
+[Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k1k) | 1976</br>
+[Meeting of Minds; No. 101 [1977-01-10]](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98f3r) | 1977</br>
+[Meeting of Minds; No. 103 [1977-01-24]](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q3r) | 1977</br>
+[Meeting of Minds; No. 105 [1977-02-07]](https://americanarchive.org/catalog/cpb-aacip-526-319s17tp8p) | 1977</br>
+[Plutonium: Element of Risk](https://americanarchive.org/catalog/cpb-aacip-526-v69862cp2j) | 1977</br>
+[28 Tonight; State Contractors Licensing Board [1978-01-09]](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s288) | 1978</br>
+[Freestyle; Scoop [1978-10-30]](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn4b) | 1978</br>
+[Freestyle; No. 110; Young and Old [1978-12-04]](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7351z) | 1978</br>
+[Freestyle; No. 111; Good Signs [1978-12-11]](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng2t) | 1978</br>
+[Opening Night: The Making of an Opera](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mm0w) | 1980</br>
+[KCET Journal; Transplanting Hope [1984-06-27]](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b995) | 1984</br>
+[KCET Journal; Transplanting Hope](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d95x) | 1984</br>
+[KCET Journal; Crimes of Neglect [1986-07-23]](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr93) | 1986</br>
+[KCET Journal; Dropouts [1986-07-23]](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xj9f) | 1986</br>
+[Turning Points; No. 107; Best of Turning Points [1986-08-19]](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sm5k) | 1986</br>
+[California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp8d) | 1987</br>
+[California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f94s) | 1987</br>
+[California Stories; Over-Exposed: Chemicals in the Workplace [1987-05-30]](https://americanarchive.org/catalog/cpb-aacip-526-mw28913006) | 1987</br>
+[California Stories; Art: Off the Wall [1987-10-31]](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21t1h) | 1987</br>
+[KCET Journal; Prison of the Streets [1987-07-01]](https://americanarchive.org/catalog/cpb-aacip-526-c24qj7901h) | 1987</br>
+[California Stories; Dreams: Theater of the Night](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv5g) | 1988</br>
+[Expecting Miracles](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c411) | 1988</br>
+[For The Sake Of Appearances](https://americanarchive.org/catalog/cpb-aacip-526-qf8jd4qx2p) | 1988</br>
+[Kids, Sex & Choices](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px76) | 1988</br>
+[Los Angeles History Project, The: Trouble in Angel City](https://americanarchive.org/catalog/cpb-aacip-526-5x25b00290) | 1988</br>
+[Straight Up; No. 1; Knowledge & Facts](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18td8m) | 1988</br>
+[Straight Up; No. 2; Attitudes & Perceptions](https://americanarchive.org/catalog/cpb-aacip-526-pn8x922p99) | 1988</br>
+[Straight Up; No. 3; Self-Image & Life Skills](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mx5f) | 1988</br>
+[By The Year 2000; Coverage Lost](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c46k) | 1989</br>
+[By The Year 2000; Emergency Room Collapse](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt5v) | 1989</br>
+[By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp6s) | 1989</br>
+[By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c94m) | 1989</br>
+[In Poor Health](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q14) | 1989</br>
+[Living the Last Days](https://americanarchive.org/catalog/cpb-aacip-526-z892806c3h) | 1989</br>
+[Report From Hungary](https://americanarchive.org/catalog/cpb-aacip-526-086348hf04) | 1989</br>
+[Secret Intelligence; No. 101; The only rule is win](https://americanarchive.org/catalog/cpb-aacip-15-977ss3pf) | 1989</br>
+[Secret Intelligence; No. 102; Intervention](https://americanarchive.org/catalog/cpb-aacip-15-70msck27) | 1989</br>
+[Secret Intelligence; No. 103; Learning to say no](https://americanarchive.org/catalog/cpb-aacip-15-623bm621) | 1989</br>
+[Secret Intelligence; No. 104; The enterprise](https://americanarchive.org/catalog/cpb-aacip-15-4302w779) | 1989</br>
+[Time of Our Lives, The](https://americanarchive.org/catalog/cpb-aacip-526-028pc2v433) | 1989</br>
+[By The Year 2000; A Class by Itself](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34702) | 1990</br>
+[By The Year 2000; The Have/Have-not Society](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js7c) | 1990</br>
+[By The Year 2000; The Underclass](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p87m) | 1990</br>
+[By The Year 2000; The Waning Class](https://americanarchive.org/catalog/cpb-aacip-526-4m9183537n) | 1990</br>
+[Inside Information](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s9q) | 1990</br>
+[KCET Journal; Under New Management [1990-10-18]](https://americanarchive.org/catalog/cpb-aacip-526-c24qj78z85) | 1990</br>
+[Power in the Pacific; No. 104; Power Without Purpose [1990-11-06]](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n0p) | 1990</br>
+[By the Year 2000; Skin Deep [1991-03-22]](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks23) | 1991</br>
+[By the Year 2000; Speaking of Young Black Men [1991-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r60c) | 1991</br>
+[By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p) | 1991</br>
+[By The Year 2000; We Are Family [1991-06-21]](https://americanarchive.org/catalog/cpb-aacip-526-5717m05137) | 1991</br>
+[By the Year 2000; The Color of Power [1991-07-12]](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb2k) | 1991</br>
+[TeenAIDS: Sons and Daughters](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m69v) | 1991</br>
+[A Chance to Talk; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk3j) | 1992</br>
+[Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb17) | 1992</br>
+[Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-3f4kk9598q) | 1992</br>
+[Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-154dn40t1g) | 1992</br>
+[Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c995) | 1992</br>
+[Life & Times; No. 168; Young L.A.: Rage & Responsibility; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c69m) | 1992</br>
+[Life & Times; Straight Hate [1992-10-29]](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx8k) | 1992</br>
+[Life & Times; No. 158](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w710) | 1992</br>
+[Life & Times; Return to King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010p7p) | 1992</br>
+[MacNeil/Lehrer NewsHour; L.A. Riot; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-nk3610x19q) | 1992</br>
+[Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j) | 1992</br>
+[Life and Times; L.A. Medical. Dr. Michael Zinner [1993-10-05]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh4d) | 1993</br>
+[Life and Times; L.A. Medical. Dr. Keith Black [1993-10-06]](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18tf21) | 1993</br>
+[Life and Times; No. 411; Firefight [1993-12-07]](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc7r) | 1993</br>
+[A Friend Called Lyle](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jv99) | 1995</br>
+[Follow My Lead](https://americanarchive.org/catalog/cpb-aacip-526-b27pn8zf8q) | 1995</br>
 
 ##### Mark Bailey Creative Productions
 
@@ -1854,4 +1854,3 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 
 ## Records
-![image](https://user-images.githubusercontent.com/38049679/129799129-e68e0ad0-b87c-468d-89b4-2406d7aebe7c.png)
