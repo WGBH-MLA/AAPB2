@@ -510,18 +510,18 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 #### Atlanta
 
-##### Georgia Public Television
-
-[1984, Georgia Digest; No. 203; Dignity Of the Mentally Retarded](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn12290)</br>
-[1992, Inside Hunger](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82w4m)</br>
-[1996, Fences & Neighborhoods](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s73)</br>
-
 ##### Georgia Public Broadcasting
 
 [1998, Salsa; No. 113; Three Clever Goats](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p41c)</br>
 [1998, Salsa; No. 115; Quiz Show](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nv15)</br>
 [1998, Salsa; No. 205; Where Is It?](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n11w)</br>
 [1998, Salsa; No. 207; The Three Pigs](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz1f)</br>
+
+##### Georgia Public Television
+
+[1984, Georgia Digest; No. 203; Dignity Of the Mentally Retarded](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn12290)</br>
+[1992, Inside Hunger](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82w4m)</br>
+[1996, Fences & Neighborhoods](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s73)</br>
 
 ##### PeachStar Education Services
 
@@ -550,11 +550,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### WILL
 
- [1978, Campaign and the Candidates, The; No. 1; 1978 Senatorial Race](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mz05)</br>
+[1978, Campaign and the Candidates, The; No. 1; 1978 Senatorial Race](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mz05)</br>
 [1978, Campaign and the Candidates, The; No. 2; Governor's Race](https://americanarchive.org/catalog/cpb-aacip-526-df6k06z331)</br>
 [1990, Drinking 101: An Introduction to Alcohol](https://americanarchive.org/catalog/cpb-aacip-16-19s1rw84)</br>
 [1985, WILL News; Klan Rally in Mansfield](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jb6j)</br>
-
 
 #### Chicago
 
@@ -1116,6 +1115,22 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 #### New York
 
+##### New York Department of Health
+
+[1960, Protect Your Heart: Follow the Prudent Diet; No. 10; Listen to Nutrition](https://americanarchive.org/catalog/cpb-aacip-526-125q815n7s)</br>
+
+##### New York Public Library
+
+[1960, Teen Age Book Talk](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v20)</br>
+
+##### Sound Portraits Productions
+
+[1993, Chicago Matters; Ghetto Life 101](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q48x)</br>
+
+##### United Nations Radio
+
+[1956, U.N. Radio Review, The; First Emergency Special Session of the General Assembly](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf8d)</br>
+
 ##### WBAI
 
 [1961, American Poetry, 1961](https://americanarchive.org/catalog/cpb-aacip-526-nk3610x18d)</br>
@@ -1145,9 +1160,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [1963, Roots of Racial Conflict in the South, The; Southern Labor and Civil Rights](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk1x)</br>
 [1963, Roots of Racial Conflict in the South, The; 4; Mississippi Delta](https://americanarchive.org/catalog/cpb-aacip-526-125q815n6g)</br>
 [1992, Massacre: The Story of East Timor](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n0g)</br>
-##### Sound Portraits Productions
-
-[1993, Chicago Matters; Ghetto Life 101](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q48x)</br>
 
 ##### WNYC
 
@@ -1275,18 +1287,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [1998, On the Media; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh4p)</br>
 [1999, Fishko Files, The; 1999 Excerpts, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73887f)</br>
 
-##### United Nations Radio
-
-[1956, U.N. Radio Review, The; First Emergency Special Session of the General Assembly](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf8d)</br>
-
-##### New York Department of Health
-
-[1960, Protect Your Heart: Follow the Prudent Diet; No. 10; Listen to Nutrition](https://americanarchive.org/catalog/cpb-aacip-526-125q815n7s)</br>
-
-##### New York Public Library
-
-[1960, Teen Age Book Talk](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v20)</br>
-
 ##### WQXR
 
 [1962, News Coverage from the New York Times During Newspaper Strike](https://americanarchive.org/catalog/cpb-aacip-526-h98z893h45)</br>
@@ -1297,6 +1297,12 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [1995, Weekend in Venice; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6ch04)</br>
 
 #### Rochester
+
+##### WOKR
+[1996, WXXI Make Us Safe Community Workshop](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w729)</br>
+[1996, WXXI Make Us Safe Community Workshop](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w729)</br>
+[1996, WXXI News; Make Us Safe](https://americanarchive.org/catalog/cpb-aacip-526-kk9474805r)</br>
+[1996, WXXI News; Make Us Safe](https://americanarchive.org/catalog/cpb-aacip-526-kk9474805r)</br>
 
 ##### WXXI
 
@@ -1341,12 +1347,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [1997, Assignment: The World [1997-09-11]](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x434)</br>
 [1998, Sinatra in Retrospective, Parts 1 and 2](https://americanarchive.org/catalog/cpb-aacip-189-14nk9brh)</br>
 [1998, Sinatra in Retrospective, Parts 3 and 4](https://americanarchive.org/catalog/cpb-aacip-189-67jq2m4c)</br>
-
-##### WOKR
-[1996, WXXI Make Us Safe Community Workshop](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w729)</br>
-[1996, WXXI Make Us Safe Community Workshop](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w729)</br>
-[1996, WXXI News; Make Us Safe](https://americanarchive.org/catalog/cpb-aacip-526-kk9474805r)</br>
-[1996, WXXI News; Make Us Safe](https://americanarchive.org/catalog/cpb-aacip-526-kk9474805r)</br>
 
 #### Syracuse
 
@@ -1548,6 +1548,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 #### Dallas
 
+##### Dallas County Community College District
+
+[1978, American Government; The Delegate Selection Process](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js1h)</br>
+
 ##### KERA
 
 [1970, Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62n5g)</br>
@@ -1595,10 +1599,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [1989, Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f)</br>
 [1990, Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k)</br>
 [1995, Peacemaker](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc0x)</br>
-
-##### Dallas County Community College District
-
-[1978, American Government; The Delegate Selection Process](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js1h)</br>
 
 #### Fort Worth
 
@@ -1755,27 +1755,27 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ### Washington D.C.
 
-##### U.S. Environmental Protection Agency
-
-[1977, Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx40)</br>
-[1977, Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn1b)</br>
-
 ##### National Public Radio
 
 [1978, WBEZ Special; Teen Pregnancy: From Babydolls to Babies](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2nf40)</br>
 [1998, U.S.-Mexican Border Coverage](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck38)</br>
 
-##### WETA
+##### U.S. Agricultural Research Service
 
-[1989, A Place Called Home](https://americanarchive.org/catalog/cpb-aacip-526-v69862cn84)</br>
+[1987, Your Hometown](https://americanarchive.org/catalog/cpb-aacip-526-445h990c22)</br>
+
+##### U.S. Environmental Protection Agency
+
+[1977, Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx40)</br>
+[1977, Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn1b)</br>
 
 ##### WAMU
 
 [1976, Kaleidoscope; Sound portrait of Porgy and Bess](https://americanarchive.org/catalog/cpb-aacip-500-028pgx1z)</br>
 
-##### U.S. Agricultural Research Service
+##### WETA
 
-[1987, Your Hometown](https://americanarchive.org/catalog/cpb-aacip-526-445h990c22)</br>
+[1989, A Place Called Home](https://americanarchive.org/catalog/cpb-aacip-526-v69862cn84)</br>
 
 ### Wisconsin
 
