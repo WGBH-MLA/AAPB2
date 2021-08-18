@@ -101,7 +101,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Queen's Message to the U.N.](https://americanarchive.org/catalog/cpb-aacip-526-2v2c825c4s)</br>
 [Report to Consumers; Buying a Car on Credit](https://americanarchive.org/catalog/cpb-aacip-80-12893k28)</br>
 [Public Arts with Gilbert Seldes, The](https://americanarchive.org/catalog/cpb-aacip-80-483jb508)</br>
-[World of Medicine: a television report on medical research and progress. Program 1: Radiology, Blood Pressure, Hearing](https://americanarchive.org/catalog/cpb-aacip/526-hq3rv0f42g)</br>
+[World of Medicine: a television report on medical research and progress. Program 1: Radiology, Blood Pressure, Hearing](https://americanarchive.org/catalog/cpb-aacip-526-hq3rv0f42g)</br>
 
 ##### 1958
 
@@ -486,9 +486,9 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Foreign Exchange; Latin America: Policies at the Crossroads, Part 1 [1981-05-05]](https://americanarchive.org/catalog/cpb-aacip-526-8s4jm24g70)</br>
 [Foreign Exchange; Latin America: Policies at the Crossroads, Part 2 [1981-05-05]](https://americanarchive.org/catalog/cpb-aacip-17f4159da79)</br>
 [Headline: Doomsayers](https://americanarchive.org/catalog/cpb-aacip-83-11xd2d5d)</br>
-[John Callaway Interviews; Dr. Jonas Salk [1981-06-30]](https://americanarchive.org/catalog/cpb-aacip/526-g73707xt6p)</br>
-[John Callaway Interviews; Mike Wallace [1981-10-01]](https://americanarchive.org/catalog/cpb-aacip/526-sx6445jp45)</br>
-[John Callaway Interviews; Howard Cosell [1981-11-10]](https://americanarchive.org/catalog/cpb-aacip/526-pk06w97j32)</br>
+[John Callaway Interviews; Dr. Jonas Salk [1981-06-30]](https://americanarchive.org/catalog/cpb-aacip-526-g73707xt6p)</br>
+[John Callaway Interviews; Mike Wallace [1981-10-01]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp45)</br>
+[John Callaway Interviews; Howard Cosell [1981-11-10]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97j32)</br>
 [Media in Society](https://americanarchive.org/catalog/cpb-aacip-526-t43hx17048)</br>
 [Media in Society](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2mc9f)</br>
 [National Health Quiz, The](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf07)</br>
@@ -547,7 +547,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Great Spirit Within the Hole, The](https://americanarchive.org/catalog/cpb-aacip-77-44bp0mdh)</br>
 [In the Land of Time, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-tq5r786x1w)</br>
 [In the Land of Time, Part 2](https://americanarchive.org/catalog/cpb-aacip-fae487161fd)</br>
-[John Callaway Interviews; 1983, Composite Of Five Programs](https://americanarchive.org/catalog/cpb-aacip/526-5717m0515v)</br>
+[John Callaway Interviews; 1983, Composite Of Five Programs](https://americanarchive.org/catalog/cpb-aacip-526-5717m0515v)</br>
 [Lost in Time](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js62)</br>
 [Million Dollar Mud Flats](https://americanarchive.org/catalog/cpb-aacip-55-st7dr2ps8p)</br>
 [Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-jm23b5xg9b)</br>
@@ -559,7 +559,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Nighttimes: Magazine; Nuclear Outpost](https://americanarchive.org/catalog/cpb-aacip-526-3775t3gz9n)</br>
 [Nowhere to go but up](https://americanarchive.org/catalog/cpb-aacip-111-623bkcgx)</br>
 [Out & About; Maintaining Friends](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b8x)</br>
-[Race To City Hall, The: The 1983 Chicago Mayoral Debates](https://americanarchive.org/catalog/cpb-aacip/526-7659c6t19d)</br>
+[Race To City Hall, The: The 1983 Chicago Mayoral Debates](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t19d)</br>
 [Remembering Jewish Europe: From Tradition to Modernity; Warsaw [1983-04-10]](https://americanarchive.org/catalog/cpb-aacip-80-214mwsgs)</br>
 [September 1st, 1983](https://americanarchive.org/catalog/cpb-aacip-55-84mkmvwx)</br>
 [State of Transition #2; Tom Urban, John Ruan, Richard Kosobud](https://americanarchive.org/catalog/cpb-aacip-37-86nzsjvj)</br>
@@ -580,12 +580,12 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [A Hand-Me-Down Harvest; If Only One Cow Showed Up](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk0m)</br>
 [A Hand-Me-Down Harvest; Sweetest Joys, Indeed](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0s00m)</br>
 [Aguas Negras: Black Water Time Bomb](https://americanarchive.org/catalog/cpb-aacip-526-sn00z72741)</br>
-[Chicago Tonight With John Callaway; No. 1049; Democratic Convention, Part I](https://americanarchive.org/catalog/cpb-aacip/526-r49g44jz8g)</br>
-[Chicago Tonight With John Callaway; No. 1053; Firing of Ruth Love & Taxicab Deregulation](https://americanarchive.org/catalog/cpb-aacip/526-gm81j98f0t)</br>
-[Chicago Tonight With John Callaway; No. 2081; Gang Violence](https://americanarchive.org/catalog/cpb-aacip/526-j09w08xk3v)</br>
-[Child Sexual Abuse: What Your Children Should Know; No. 101; Parent's Show](https://americanarchive.org/catalog/cpb-aacip/526-s46h12wg51)</br>
-[Child Sexual Abuse: What Your Children Should Know; No. 103; Grades 4-7](https://americanarchive.org/catalog/cpb-aacip/526-2b8v980m90)</br>
-[Child Sexual Abuse: What Your Children Should Know; No. 105; Senior High School](https://americanarchive.org/catalog/cpb-aacip/526-xs5j961m5s)</br>
+[Chicago Tonight With John Callaway; No. 1049; Democratic Convention, Part I](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz8g)</br>
+[Chicago Tonight With John Callaway; No. 1053; Firing of Ruth Love & Taxicab Deregulation](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98f0t)</br>
+[Chicago Tonight With John Callaway; No. 2081; Gang Violence](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xk3v)</br>
+[Child Sexual Abuse: What Your Children Should Know; No. 101; Parent's Show](https://americanarchive.org/catalog/cpb-aacip-526-s46h12wg51)</br>
+[Child Sexual Abuse: What Your Children Should Know; No. 103; Grades 4-7](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980m90)</br>
+[Child Sexual Abuse: What Your Children Should Know; No. 105; Senior High School](https://americanarchive.org/catalog/cpb-aacip-526-xs5j961m5s)</br>
 [China Discovery](https://americanarchive.org/catalog/cpb-aacip-283-14nk9cws)</br>
 [Cradle of the Stars, The: The Story of the "Louisiana Hayride"](https://americanarchive.org/catalog/cpb-aacip-17-88qc0md1)</br>
 [Georgia Digest; No. 203; Dignity Of the Mentally Retarded](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn12290)</br>
@@ -646,7 +646,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [State Spectrum; No. 3; Federal/State Relationship](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fn3n)</br>
 [Storylords; No. 2; Connecting What You Know With What's On the Page](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts56)</br>
 [Uncommon Places: The Architecture of Frank Lloyd Wright](https://americanarchive.org/catalog/cpb-aacip-29-085hqcqj)</br>
-[Veeck: A Man For Any Season](https://americanarchive.org/catalog/cpb-aacip/526-930ns0mz1g)</br>
+[Veeck: A Man For Any Season](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mz1g)</br>
 [War in the West](https://americanarchive.org/catalog/cpb-aacip-283-52w3r7zc)</br>
 [What Do Women Really Want, Anyway?](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw3q)</br>
 [WILL News; Klan Rally in Mansfield](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jb6j)</br>
@@ -704,9 +704,9 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f94s)</br>
 [California Stories; Over-Exposed: Chemicals in the Workplace [1987-05-30]](https://americanarchive.org/catalog/cpb-aacip-526-mw28913006)</br>
 [California Stories; Art: Off the Wall [1987-10-31]](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21t1h)</br>
-[Chicago Tonight with John Callaway; No. 5064; Stock Market- Day 2 [1987-10-20]](https://americanarchive.org/catalog/cpb-aacip/526-vd6nz82016)</br>
-[Chicago Tonight with John Callaway; No. 5086, Mayoral Succession [1987-11-26]](https://americanarchive.org/catalog/cpb-aacip/526-rf5k932f12)</br>
-[Chicago Tonight with John Callaway; No. 5089, Sawyer Elected [1987-12-02]](https://americanarchive.org/catalog/cpb-aacip/526-v40js9jh7b)</br>
+[Chicago Tonight with John Callaway; No. 5064; Stock Market- Day 2 [1987-10-20]](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz82016)</br>
+[Chicago Tonight with John Callaway; No. 5086, Mayoral Succession [1987-11-26]](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932f12)</br>
+[Chicago Tonight with John Callaway; No. 5089, Sawyer Elected [1987-12-02]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh7b)</br>
 [Circle Of Plenty](https://americanarchive.org/catalog/cpb-aacip-283-451g1t6q)</br>
 [City Tales; Santa Claus is Alive & Well and Living in Detroit](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rw6q)</br>
 [First Frontier](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t5q)</br>
@@ -764,8 +764,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [California Stories; Dreams: Theater of the Night](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv5g)</br>
 [Canada: True North; No. 102; Where is Here?](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh5q)</br>
 [Canada: True North; No. 103; A Song for Quebec](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n36n)</br>
-[Chicago Tonight; No. 5176; Cokely Follow-up [1988-05-04]](https://americanarchive.org/catalog/cpb-aacip/526-5q4rj49s1g)</br>
-[Chicago Tonight; No. 5182; Washington Painting [1988-05-16]](https://americanarchive.org/catalog/cpb-aacip/526-b853f4mr93)</br>
+[Chicago Tonight; No. 5176; Cokely Follow-up [1988-05-04]](https://americanarchive.org/catalog/cpb-aacip-526-5q4rj49s1g)</br>
+[Chicago Tonight; No. 5182; Washington Painting [1988-05-16]](https://americanarchive.org/catalog/cpb-aacip-526-b853f4mr93)</br>
 [Defending America: The Price We Pay](https://americanarchive.org/catalog/cpb-aacip-55-95w6n70s)</br>
 [Expecting Miracles](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c411)</br>
 [Express: The People vs. Larry Singleton](https://americanarchive.org/catalog/cpb-aacip-526-ff3kw58m1q)</br>
@@ -818,9 +818,9 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [By The Year 2000; Emergency Room Collapse](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt5v)</br>
 [By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp6s)</br>
 [By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c94m)</br>
-[Chicago Tonight; No. 6105; Ethnic Politics](https://americanarchive.org/catalog/cpb-aacip/526-x34mk66j9v)</br>
-[Chicago Tonight; No. 6170; Lam Tom and the Vietnamese Community](https://americanarchive.org/catalog/cpb-aacip/526-v97zk56v1p)</br>
-[Chicago Tonight; No. 7074; Blacks and Arabs](https://americanarchive.org/catalog/cpb-aacip/526-6w96689m6f)</br>
+[Chicago Tonight; No. 6105; Ethnic Politics](https://americanarchive.org/catalog/cpb-aacip-526-x34mk66j9v)</br>
+[Chicago Tonight; No. 6170; Lam Tom and the Vietnamese Community](https://americanarchive.org/catalog/cpb-aacip-526-v97zk56v1p)</br>
+[Chicago Tonight; No. 7074; Blacks and Arabs](https://americanarchive.org/catalog/cpb-aacip-526-6w96689m6f)</br>
 [Engines of Our Ingenuity, The [1989-01-04]](https://americanarchive.org/catalog/cpb-aacip-20-4298sjwq)</br>
 [Frida Kahlo: Portrait of an Artist](https://americanarchive.org/catalog/cpb-aacip-55-78gf2s89)</br>
 [Front Street Weekly; Oregon's Passage to India [1989-03-20]](https://americanarchive.org/catalog/cpb-aacip-153-50gthzw3)</br>
@@ -857,9 +857,9 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Where Once We Stood: The Lincoln School Story](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73884h)</br>
 [Wild Chicago; No. 208 & 209](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gq2m)</br>
 [Wrestling With AIDS](https://americanarchive.org/catalog/cpb-aacip-55-x05x63bn51)</br>
-[WTTW Journal: Radio Faces](https://americanarchive.org/catalog/cpb-aacip/526-k35m90373x)</br>
-[WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip/526-bc3st7fw6b)</br>
-[WTTW Journal: Vietnam: A Chicagoan Goes Home](https://americanarchive.org/catalog/cpb-aacip/526-cn6xw48w4p)</br>
+[WTTW Journal: Radio Faces](https://americanarchive.org/catalog/cpb-aacip-526-k35m90373x)</br>
+[WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw6b)</br>
+[WTTW Journal: Vietnam: A Chicagoan Goes Home](https://americanarchive.org/catalog/cpb-aacip-526-cn6xw48w4p)</br>
 
 ### 1990s
 
@@ -873,8 +873,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [By The Year 2000; The Have/Have-not Society](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js7c)</br>
 [By The Year 2000; The Underclass](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p87m)</br>
 [By The Year 2000; The Waning Class](https://americanarchive.org/catalog/cpb-aacip-526-4m9183537n)</br>
-[Chicago Matters; Town Meeting; The Muck Stops Here](https://americanarchive.org/catalog/cpb-aacip/526-fx73t9fc27)</br>
-[Chicago Tonight; 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip/526-sj19k47399)</br>
+[Chicago Matters; Town Meeting; The Muck Stops Here](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc27)</br>
+[Chicago Tonight; 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47399)</br>
 [Drinking 101: An Introduction to Alcohol](https://americanarchive.org/catalog/cpb-aacip-16-19s1rw84)</br>
 [Inside Information](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s9q)</br>
 [John McLaughlin's One on One [1990-06-08]](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m17q)</br>
@@ -894,12 +894,12 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Power in the Pacific; No. 104; Power Without Purpose [1990-11-06]](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n0p)</br>
 [Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k)</br>
 [Rap City Rhapsody](https://americanarchive.org/catalog/cpb-aacip-55-t43hx16800)</br>
-[School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip/526-w08w951w4j)</br>
+[School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip-526-w08w951w4j)</br>
 [StarFinder; No. 2; Pictures from Numbers](https://americanarchive.org/catalog/cpb-aacip-394-182jmdpw)</br>
 [States of Mind; Mill City](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv10)</br>
 [States of Mind; Mill City](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv10)</br>
-[WTTW Journal; No. 206; Coming Clean](https://americanarchive.org/catalog/cpb-aacip/526-bn9x05zc4c)</br>
-[WTTW Journal; The House That Jane Built [1990-11-14]](https://americanarchive.org/catalog/cpb-aacip/526-jh3cz3396x)</br>
+[WTTW Journal; No. 206; Coming Clean](https://americanarchive.org/catalog/cpb-aacip-526-bn9x05zc4c)</br>
+[WTTW Journal; The House That Jane Built [1990-11-14]](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz3396x)</br>
 [WTTW Journal; Ed Paschke: The Artist Behind the Mask [1990-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-7p8tb0zt15)</br>
 
 ##### 1991
@@ -911,14 +911,14 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p)</br>
 [By The Year 2000; We Are Family [1991-06-21]](https://americanarchive.org/catalog/cpb-aacip-526-5717m05137)</br>
 [By the Year 2000; The Color of Power [1991-07-12]](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb2k)</br>
-[Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip/526-2j6833nx77)</br>
-[Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip/526-wh2d796m92)</br>
-[Chicago Matters; Town Meeting](https://americanarchive.org/catalog/cpb-aacip/526-qj77s7k254)</br>
-[Chicago Matters; Town Meeting](https://americanarchive.org/catalog/cpb-aacip/526-6688g8gj68)</br>
-[Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip/526-4f1mg7gt3d)</br>
-[Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip/526-mg7fq9rc2j)</br>
-[Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip/526-pn8x922q41)</br>
-[Chicago Tonight; No. 8171; Juvenile Court](https://americanarchive.org/catalog/cpb-aacip/526-8p5v699b3c)</br>
+[Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx77)</br>
+[Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796m92)</br>
+[Chicago Matters; Town Meeting](https://americanarchive.org/catalog/cpb-aacip-526-qj77s7k254)</br>
+[Chicago Matters; Town Meeting](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gj68)</br>
+[Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gt3d)</br>
+[Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc2j)</br>
+[Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip-526-pn8x922q41)</br>
+[Chicago Tonight; No. 8171; Juvenile Court](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b3c)</br>
 [Club Connect; No. 5003; The Conflict Resolution Show](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z60f)</br>
 [Diary: Asian Minnesotans](https://americanarchive.org/catalog/cpb-aacip-77-977srw38)</br>
 [Diary: Native American Minnesotans](https://americanarchive.org/catalog/cpb-aacip-77-074tnfhr)</br>
@@ -928,10 +928,10 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Intolerance Cycle, The](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z144)</br>
 [J.D.'s Journal. No. 101 [1991-01-01]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47324)</br>
 [Lyme Disease: In Our Own Backyard; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-tm71zg8k)</br>
-[Making the Grade 1991; Chicago School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip/526-m901z4321m)</br>
-[Making the Grade 1991; Making the Grade Minutes](https://americanarchive.org/catalog/cpb-aacip/526-wp9t14vx75)</br>
-[Making the Grade 1991; Shopping for Schools: Educational Choices in the 90's](https://americanarchive.org/catalog/cpb-aacip/526-901zc7ss4r)</br>
-[Making the Grade 1991; Teach Me!](https://americanarchive.org/catalog/cpb-aacip/526-r20rr1qs8t)</br>
+[Making the Grade 1991; Chicago School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip-526-m901z4321m)</br>
+[Making the Grade 1991; Making the Grade Minutes](https://americanarchive.org/catalog/cpb-aacip-526-wp9t14vx75)</br>
+[Making the Grade 1991; Shopping for Schools: Educational Choices in the 90's](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss4r)</br>
+[Making the Grade 1991; Teach Me!](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qs8t)</br>
 [Mission from the Heart; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-qn5z9f3c)</br>
 [Mississippi Masters; No. 1; John C. Stennis: A Senator's Senator, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31j76)</br>
 [Mississippi Masters; John C. Stennis: A Senator's Senator](https://americanarchive.org/catalog/cpb-aacip-60-203xsm2t)</br>
@@ -947,7 +947,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [TeenAIDS: Sons and Daughters](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m69v)</br>
 [Totally Radical Teenage Videos](https://americanarchive.org/catalog/cpb-aacip-359-203xspn2)</br>
 [WOSU Radio News; Guns and Drugs for Sale in Columbus](https://americanarchive.org/catalog/cpb-aacip-526-3j39020f3p)</br>
-[WTTW Journal; No. 304; Just Plain Hardworking ... Ten Good Lives [1991-10-23]](https://americanarchive.org/catalog/cpb-aacip/526-4q7qn6086s)</br>
+[WTTW Journal; No. 304; Just Plain Hardworking ... Ten Good Lives [1991-10-23]](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6086s)</br>
 [You've Got That Right; No. 2; Freedom of Speech](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7350n)</br>
 [Your Land, My Land](https://americanarchive.org/catalog/cpb-aacip-153-8605qs1b)</br>
 
@@ -1008,10 +1008,10 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Senior Fair: A Consumers Guide](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq7g)</br>
 [Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j)</br>
 [WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d)</br>
-[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog/cpb-aacip/526-086348hf5p)</br>
-[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog/cpb-aacip/526-1r6n010q3q)</br>
-[WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip/526-ms3jw87t33)</br>
-[WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip/526-kk9474807c)</br>
+[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog/cpb-aacip-526-086348hf5p)</br>
+[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010q3q)</br>
+[WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t33)</br>
+[WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip-526-kk9474807c)</br>
 
 ##### 1993
 
@@ -1025,15 +1025,15 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Assignment: The World](https://americanarchive.org/catalog/cpb-aacip-526-833mw29d9f)</br>
 [Audre Lorde: A Burst of Light](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx6k)</br>
 [Chicago Matters; Ghetto Life 101](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q48x)</br>
-[Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog/cpb-aacip/526-cf9j38mk9d)</br>
-[Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog/cpb-aacip/526-ft8df6m74k)</br>
-[Chicago Matters on Race; No. 403; WTTW Journal; The Cost of Racism [1993-05-19]](https://americanarchive.org/catalog/cpb-aacip/526-9k45q4sq20)</br>
+[Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk9d)</br>
+[Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m74k)</br>
+[Chicago Matters on Race; No. 403; WTTW Journal; The Cost of Racism [1993-05-19]](https://americanarchive.org/catalog/cpb-aacip-526-9k45q4sq20)</br>
 [Chicago Matters; It's About Race: Coloring the Pipeline: Race & Drugs](https://americanarchive.org/catalog/cpb-aacip-526-x639z91v3n)</br>
-[Chicago Public Schools: At the Crossroads; No. 101; Good Schools, Work in Progress](https://americanarchive.org/catalog/cpb-aacip/526-x639z91q1x)</br>
-[Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog/cpb-aacip/526-s46h12wg7n)</br>
-[Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog/cpb-aacip/526-gb1xd0rz4b)</br>
-[Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog/cpb-aacip/526-fb4wh2fg4c)</br>
-[Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog/cpb-aacip/526-qv3bz62h42)</br>
+[Chicago Public Schools: At the Crossroads; No. 101; Good Schools, Work in Progress](https://americanarchive.org/catalog/cpb-aacip-526-x639z91q1x)</br>
+[Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog/cpb-aacip-526-s46h12wg7n)</br>
+[Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0rz4b)</br>
+[Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg4c)</br>
+[Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h42)</br>
 [Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98)</br>
 [Conscience of a Congressman: The Life and Times of Carl Elliott](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh61)</br>
 [Dakota Conflict, The](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp07)</br>
@@ -1090,14 +1090,14 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Really Short Show](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j02x)</br>
 [Trading Attitudes](https://americanarchive.org/catalog/cpb-aacip-153-78gf24gz)</br>
 [Wall Street Week; No. 2248; W$W With Louis Rukeyser in Japan](https://americanarchive.org/catalog/cpb-aacip-394-612ngsdn)</br>
-[WTTW Journal; Africa: A View From the Field [1993-11-17]](https://americanarchive.org/catalog/cpb-aacip/526-tb0xp6w929)</br>
-[WTTW Journal; About the Children: School Reform Year IV](https://americanarchive.org/catalog/cpb-aacip/526-4x54f1nj6c)</br>
+[WTTW Journal; Africa: A View From the Field [1993-11-17]](https://americanarchive.org/catalog/cpb-aacip-526-tb0xp6w929)</br>
+[WTTW Journal; About the Children: School Reform Year IV](https://americanarchive.org/catalog/cpb-aacip-526-4x54f1nj6c)</br>
 [WXXI Radio News; Young, Black and in Rochester, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg3z)</br>
 [WXXI Radio News; Young, Black and in Rochester, Part 2](https://americanarchive.org/catalog/cpb-aacip-c45018d4baf)</br>
 
 ##### 1994
 
-[A Man and a School: The Providence St. Mel Story](https://americanarchive.org/catalog/cpb-aacip/526-qb9v11ws0s)</br>
+[A Man and a School: The Providence St. Mel Story](https://americanarchive.org/catalog/cpb-aacip-526-qb9v11ws0s)</br>
 [A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-526-154dn40t05)</br>
 [A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-526-9z90864b0h)</br>
 [A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r72)</br>
@@ -1112,11 +1112,11 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Bridges: A Liberal/Conservative Dialogue with Larry Josephson. No. 6; Shelby Steel: Portrait of a Black Conservative, Part 2](https://americanarchive.org/catalog/cpb-aacip-cbc38e9e317)</br>
 [Crusade: The Life of Billy Graham](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr2m)</br>
 [D-Day Plus 50: Louisiana Remembers](https://americanarchive.org/catalog/cpb-aacip-17-65v6xv27)</br>
-[Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip/526-w950g3jc2k)</br>
-[Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip/526-dn3zs2md17)</br>
-[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog/cpb-aacip/526-sb3ws8js8p)</br>
-[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog/cpb-aacip/526-m32n58dr1f)</br>
-[Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip/526-4b2x34nn8d)</br>
+[Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc2k)</br>
+[Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md17)</br>
+[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js8p)</br>
+[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog/cpb-aacip-526-m32n58dr1f)</br>
+[Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn8d)</br>
 [Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t)</br>
 [Fear on the Inside: A Story of Domestic Violence](https://americanarchive.org/catalog/cpb-aacip-526-xp6tx36f7q)</br>
 [Forgotten Mothers and Children of the AIDS Epidemic, The](https://americanarchive.org/catalog/cpb-aacip-da9aab32b16)</br>
@@ -1163,8 +1163,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [WHRO Non-Broadcast Educational Activities](https://americanarchive.org/catalog/cpb-aacip-526-8c9r20sw6x)</br>
 [Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k2w)</br>
 [Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r2h)</br>
-[WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip/526-pk06w97h8b)</br>
-[WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip/526-zw18k7685j)</br>
+[WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h8b)</br>
+[WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7685j)</br>
 [Zoo Man](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h3r)</br>
 
 ##### 1995
@@ -1226,12 +1226,12 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1996
 
-[1996 Candidate Free Time; No. 101; Salvi/Durbin Senate Race](https://americanarchive.org/catalog/cpb-aacip/526-tt4fn1219q)</br>
-[1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip/526-6t0gt5gg2t)</br>
-[1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip/526-ng4gm82v78)</br>
+[1996 Candidate Free Time; No. 101; Salvi/Durbin Senate Race](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1219q)</br>
+[1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gg2t)</br>
+[1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v78)</br>
 [Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95)</br>
 [Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p)</br>
-[Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip/526-086348hf60)</br>
+[Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip-526-086348hf60)</br>
 [Chicago Matters; Questions of Faith: A Pastor's Journal](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gv78)</br>
 [Chicago Matters; Questions of Faith; A Pastor's Journal](https://americanarchive.org/catalog/cpb-aacip-526-mp4vh5dn9d)</br>
 [Chicago Matters; Questions of Faith; Feeling the Spirit: Storefront Churches](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t22h)</br>
@@ -1249,14 +1249,14 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Chicago Matters; Questions of Faith; The Aging of the Convent](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g56)</br>
 [Chicago Matters; Questions of Faith; The Fire Within: Islam in Prison](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt82)</br>
 [Chicago Matters; Questions of Faith; The Leap of Faith: Teenagers Talk about Religion](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr64)</br>
-[Chicago Matters; Questions of Faith; Chicago's Sacred Treasures](https://americanarchive.org/catalog/cpb-aacip/526-rb6vx07877)</br>
-[Chicago Matters; Questions of Faith; The Heart of Religion](https://americanarchive.org/catalog/cpb-aacip/526-dr2p55fk27)</br>
-[Chicago Tonight; Muslim Mosaic](https://americanarchive.org/catalog/cpb-aacip/526-c24qj78z9g)</br>
-[Chicago Tonight; No. 14050; Interest Rate Controversy](https://americanarchive.org/catalog/cpb-aacip/526-cn6xw48w69)</br>
-[Chicago Tonight; No. 14060; Civility and Political Correctness](https://americanarchive.org/catalog/cpb-aacip/526-q52f767f3q)</br>
-[Chicago Tonight; No. 14075; Gary Sinise](https://americanarchive.org/catalog/cpb-aacip/526-3f4kk95935)</br>
-[Chicago Tonight; No. 14089; Welfare Reform: Illinois](https://americanarchive.org/catalog/cpb-aacip/526-9882j6978j)</br>
-[Chicago Tonight; No. 14096; Property Tax Transfer](https://americanarchive.org/catalog/cpb-aacip/526-057cr5p88x)</br>
+[Chicago Matters; Questions of Faith; Chicago's Sacred Treasures](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx07877)</br>
+[Chicago Matters; Questions of Faith; The Heart of Religion](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk27)</br>
+[Chicago Tonight; Muslim Mosaic](https://americanarchive.org/catalog/cpb-aacip-526-c24qj78z9g)</br>
+[Chicago Tonight; No. 14050; Interest Rate Controversy](https://americanarchive.org/catalog/cpb-aacip-526-cn6xw48w69)</br>
+[Chicago Tonight; No. 14060; Civility and Political Correctness](https://americanarchive.org/catalog/cpb-aacip-526-q52f767f3q)</br>
+[Chicago Tonight; No. 14075; Gary Sinise](https://americanarchive.org/catalog/cpb-aacip-526-3f4kk95935)</br>
+[Chicago Tonight; No. 14089; Welfare Reform: Illinois](https://americanarchive.org/catalog/cpb-aacip-526-9882j6978j)</br>
+[Chicago Tonight; No. 14096; Property Tax Transfer](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p88x)</br>
 [Downsizing the Dream](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8jt0g)</br>
 [Exposures of a Movement](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d20k)</br>
 [Fences & Neighborhoods](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s73)</br>
@@ -1379,16 +1379,16 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 ##### 1999
 
 [American Prophet: The Story of Joseph Smith](https://americanarchive.org/catalog/cpb-aacip-46-00000021)</br>
-[Chicago Tonight; No. 16123; JAMA Firing [1999-02]](https://americanarchive.org/catalog/cpb-aacip/526-fx73t9fc83)</br>
-[Chicago Tonight; No. 16149; Kosovo Strike [1999-03-24]](https://americanarchive.org/catalog/cpb-aacip/526-qf8jd4qw9k)</br>
-[Chicago Tonight; No. 16150; Henry Kissinger/Kosovo [1999-03-25]](https://americanarchive.org/catalog/cpb-aacip/526-zk55d8pt52)</br>
-[Chicago Tonight; No. 16170; On the Road. How Do We Deal With Colorado's Crisis? [1999-04-29]](https://americanarchive.org/catalog/cpb-aacip/526-862b854k4k)</br>
-[Chicago Tonight; No. 17034; What is Electronic Day Trading? [1999-08-31]](https://americanarchive.org/catalog/cpb-aacip/526-j38kd1rq65)</br>
-[Chicago Week in Review [1999-01-02]](https://americanarchive.org/catalog/cpb-aacip/526-f76639m94t)</br>
-[Chicago Week in Review [1999-01-09]](https://americanarchive.org/catalog/cpb-aacip/526-p26pz52s0w)</br>
-[Chicago Week in Review [1999-01-30]](https://americanarchive.org/catalog/cpb-aacip/526-2v2c825c81)</br>
-[Chicago Week in Review [1999-08-07]](https://americanarchive.org/catalog/cpb-aacip/526-707wm14r8c)</br>
-[Chicago Week in Review [1999-11-20]](https://americanarchive.org/catalog/cpb-aacip/526-z02z31pw87)</br>
+[Chicago Tonight; No. 16123; JAMA Firing [1999-02]](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc83)</br>
+[Chicago Tonight; No. 16149; Kosovo Strike [1999-03-24]](https://americanarchive.org/catalog/cpb-aacip-526-qf8jd4qw9k)</br>
+[Chicago Tonight; No. 16150; Henry Kissinger/Kosovo [1999-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-zk55d8pt52)</br>
+[Chicago Tonight; No. 16170; On the Road. How Do We Deal With Colorado's Crisis? [1999-04-29]](https://americanarchive.org/catalog/cpb-aacip-526-862b854k4k)</br>
+[Chicago Tonight; No. 17034; What is Electronic Day Trading? [1999-08-31]](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq65)</br>
+[Chicago Week in Review [1999-01-02]](https://americanarchive.org/catalog/cpb-aacip-526-f76639m94t)</br>
+[Chicago Week in Review [1999-01-09]](https://americanarchive.org/catalog/cpb-aacip-526-p26pz52s0w)</br>
+[Chicago Week in Review [1999-01-30]](https://americanarchive.org/catalog/cpb-aacip-526-2v2c825c81)</br>
+[Chicago Week in Review [1999-08-07]](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r8c)</br>
+[Chicago Week in Review [1999-11-20]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31pw87)</br>
 [Fishko Files, The; 1999 Excerpts, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73887f)</br>
 [KOPB Radio News; The Great Tsunami of '64](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg3s)</br>
 [Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog/cpb-aacip-398-085hqdb1)</br>
