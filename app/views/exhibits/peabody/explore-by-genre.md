@@ -967,24 +967,23 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [1999, Posie Paints; Color [1999-12-13]](https://americanarchive.org/catalog/cpb-aacip-41-322bvxmn)</br>
 [1999, Ticktock Minutes; 1999 compilation](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q08t)</br>
 
-
 #### Promotion of International Understanding
 
-[1948, United Nations Proceedings](https://americanarchive.org/catalog/cpb-aacip-526-8p5v69999z)</br>
-[1956, International Interview; Dr. Auguste Lindt - UN High Commissioner for Refugees](https://americanarchive.org/catalog/cpb-aacip-80-04rjf1z9)</br>
-[1957, International Interview; Daniel A. Chapman](https://americanarchive.org/catalog/cpb-aacip-80-79h4584f)</br>
-[1960, People and Ideas; Adolph A. Berle](https://americanarchive.org/catalog/cpb-aacip-80-644qs8bk)</br>
-[1961, Hands Across the Sea; U.N. Day Celebration](https://americanarchive.org/catalog/cpb-aacip-80-27mpgq3f)</br>
-[1961, Outlaws, The](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4dx6m)</br>
-[1961, Outlaws, The](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv6s)</br>
-[1961, People and Ideas; Informing the Public: Opportunity or Disaster?](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z06g)</br>
-[1961, Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq8s)</br>
-[1961, Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60873)</br>
-[1962, People and Ideas; The United Nations and Human Rights](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23m0c)</br>
-[1962, People and Ideas; UNESCO and How It Works](https://americanarchive.org/catalog/cpb-aacip-526-3n20c4tk9m)</br>
-[1969, Asia Society Presents, The; Asia Through the Cultural Looking-Glass [1969-02-03]](https://americanarchive.org/catalog/cpb-aacip-80-278sftgm)</br>
-[1970, NERN Special; A Conversation with Lord Caradon](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b4p)</br>
-[1975, Los Angeles News Review; No Time to Cry [1975-07-11]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jj0f)</br>
+[United Nations Proceedings](https://americanarchive.org/catalog/cpb-aacip-526-8p5v69999z) | 1948</br>
+[International Interview; Dr. Auguste Lindt - UN High Commissioner for Refugees](https://americanarchive.org/catalog/cpb-aacip-80-04rjf1z9) | 1956</br>
+[International Interview; Daniel A. Chapman](https://americanarchive.org/catalog/cpb-aacip-80-79h4584f) | 1957</br>
+[People and Ideas; Adolph A. Berle](https://americanarchive.org/catalog/cpb-aacip-80-644qs8bk) | 1960</br>
+[Hands Across the Sea; U.N. Day Celebration](https://americanarchive.org/catalog/cpb-aacip-80-27mpgq3f) | 1961</br>
+[Outlaws, The](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4dx6m) | 1961</br>
+[Outlaws, The](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv6s) | 1961</br>
+[People and Ideas; Informing the Public: Opportunity or Disaster?](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z06g) | 1961</br>
+[Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq8s) | 1961</br>
+[Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60873) | 1961</br>
+[People and Ideas; The United Nations and Human Rights](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23m0c) | 1962</br>
+[People and Ideas; UNESCO and How It Works](https://americanarchive.org/catalog/cpb-aacip-526-3n20c4tk9m) | 1962</br>
+[Asia Society Presents, The; Asia Through the Cultural Looking-Glass [1969-02-03]](https://americanarchive.org/catalog/cpb-aacip-80-278sftgm) | 1969</br>
+[NERN Special; A Conversation with Lord Caradon](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b4p) | 1970</br>
+[Los Angeles News Review; No Time to Cry [1975-07-11]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jj0f) | 1975</br>
 
 #### Public Service
 
