@@ -14,8 +14,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1944
 
-[Weekly Talk to the People-- Mayor F.H. LaGuardia, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc6q)</br>
-[Weekly Talk to the People-- Mayor F.H. LaGuardia, Part 2](https://americanarchive.org/catalog/cpb-aacip-eeebdef7abc)</br>
+[Weekly Talk to the People-- Mayor F.H. LaGuardia, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc6q)| WNYC</br>
+[Weekly Talk to the People-- Mayor F.H. LaGuardia, Part 2](https://americanarchive.org/catalog/cpb-aacip-eeebdef7abc)| WNYC</br>
 
 ##### 1946
 
@@ -23,7 +23,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1947
 
-[Mayor O'Dwyer's Transit Hearings]( https://americanarchive.org/catalog/cpb-aacip-526-sj19k4731t)</br>
+[Mayor O'Dwyer's Transit Hearings](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4731t)</br>
 
 ##### 1948
 
