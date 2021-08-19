@@ -80,11 +80,11 @@ Sandra Owawa’s tribute to the late Native American jazz musician Jim Pepper (1
 
 ## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Smith.jpg"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Smith.jpg"/>
   <a class="name">Sally Smith</a>
   <a class="title">Former Student Assistant, Brown Media Archives, University of Georgia</a>
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/>
   <a class="name">Alan Gevinson</a>
   <a class="title">AAPB Project Director, Library of Congress</a>
 
