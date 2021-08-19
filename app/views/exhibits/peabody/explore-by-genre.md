@@ -377,18 +377,11 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 #### Education
 
-[Lectures to the Laity, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq2x) | 1948</br>
-[Lectures to the Laity, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j4b) | 1948</br>
-[Lectures to the Laity, Part 3](https://americanarchive.org/catalog/cpb-aacip-526-4m91835459) | 1948</br>
-[Lectures to the Laity, Part 4](https://americanarchive.org/catalog/cpb-aacip-06db69fd27d) | 1948</br>
-[Lectures to the Laity, Part 5](https://americanarchive.org/catalog/cpb-aacip-be66968e3c9) | 1948</br>
-[Lectures to the Laity, Part 6](https://americanarchive.org/catalog/cpb-aacip-d00041bf054) | 1948</br>
-[Queens College Forum, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m0b) | 1948</br>
-[Queens College Forum, Part 2](https://americanarchive.org/catalog/cpb-aacip-a877bd3581b) | 1948</br>
+[Lectures to the Laity](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Lectures+to+the+Laity&sort=title+asc) | 1948</br>
+[Queens College Forum](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Queens+College+Forum) | 1948</br>
 [Story of Empire County, The; Facts Over Fear](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976) | 1949</br>
 [Story of Empire County, The; No. 15; The Case of the Careless Cook](https://americanarchive.org/catalog/cpb-aacip-510-319s17t99z) | 1949</br>
-[Lectures to the Laity; The Art and Science of Growing Up in America, Part 1](https://americanarchive.org/catalog/cpb-aacip-80-18dfnkzs) | 1951</br>
-[Lectures to the Laity; The Art and Science of Growing Up in America, Part 2](https://americanarchive.org/catalog/cpb-aacip-2858d890a5f) | 1951</br>
+[Lectures to the Laity; The Art and Science of Growing Up in America](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22The+Art+and+Science+of+Growing+Up+in+America%22&sort=title+asc) | 1951</br>
 [Art as Education; Creative Crayon](https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj3r) | 1954</br>
 [Science in Sight; Saving the Soil](https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq) | 1954</br>
 [Religions of Man; No. 1; The Relevance of the Religions of Man](https://americanarchive.org/catalog/cpb-aacip-75-56zw3x9b) | 1955</br>
@@ -989,8 +982,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 #### Public Service
 
-[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc6q) | 1944</br>
-[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog/cpb-aacip-eeebdef7abc) | 1944</br>
+[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Weekly+Talk+to+the+People--+Mayor+F.H.+LaGuardia&sort=title+asc) | 1944</br>
 [Mayor O'Dwyer's Transit Hearings](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4731t) | 1947</br>
 [City Rent Laws](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tw04) | 1948</br>
 [United Nations; Opening of UN Political Committee at Lake Success  [1951-01-05]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4733f) | 1951</br>
