@@ -218,6 +218,8 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### Pacifica Radio (formerly KPFK)
 
+[Outlaws, The; Danilo Dolci](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=danilo+dolci&sort=title+asc) | 1961</br>
+[Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22should+the+u.s.+change+its+china+policy%22&sort=title+asc) | 1961</br>
 [Continuing Concern, The; No. 3; Freedom of Speech [1962-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd89) | 1962</br>
 [Roots of Racial Conflict in the South, The; No. 4; Mississippi Delta](https://americanarchive.org/catalog/cpb-aacip-526-125q815n6g) | 1963</br>
 [Something's Happening. AIDSgate: Everything you know is wrong, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-pr7mp4wt9c) | 1987</br>
@@ -282,34 +284,13 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Berkeley People's Park War](https://americanarchive.org/catalog/cpb-aacip-55-bk16m33g2c) | 1969</br>
 [A Different Darkness](https://americanarchive.org/catalog/cpb-aacip-55-3b5w669d0n) | 1979</br>
 [Evening Edition; Electronic Warfare [1979-08-24]](https://americanarchive.org/catalog/cpb-aacip-55-hx15m62n63) | 1979</br>
-[New Dimensions; The Tao of Physics, Part 1 [1979-02-24]](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r578) | 1979</br>
-[New Dimensions; The Tao of Physics, Part 3 [1979-02-24]](https://americanarchive.org/catalog/cpb-aacip-c414c1f9de5) | 1979</br>
-[New Dimensions; The Tao of Physics, Part 2 [1979-02-24]](https://americanarchive.org/catalog/cpb-aacip-526-h707w68c28) | 1979</br>
-[New Dimensions; The Tao of Physics, Part 4 [1979-02-24]](https://americanarchive.org/catalog/cpb-aacip-b12a4ba5f4f) | 1979</br>
-[New Dimensions; World Future Society, Part 1 [1979-03-19]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n874220) | 1979</br>
-[New Dimensions; World Future Society, Part 3 [1979-03-19]](https://americanarchive.org/catalog/cpb-aacip-2831b50e827) | 1979</br>
-[New Dimensions; World Future Society, Part 2 [1979-03-19]](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t25f) | 1979</br>
-[New Dimensions; World Future Society, Part 4 [1979-03-19]](https://americanarchive.org/catalog/cpb-aacip-59923124c9d) | 1979</br>
-[New Dimensions; Brain/Mind, Part 1 [1979-03-31]](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf45) | 1979</br>
-[New Dimensions; Brain/Mind, Part 3 [1979-03-31]](https://americanarchive.org/catalog/cpb-aacip-04e1e471b3c) | 1979</br>
-[New Dimensions; Brain/Mind, Part 2 [1979-03-31]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh1g) | 1979</br>
-[New Dimensions; Brain/Mind, Part 4 [1979-03-31]](https://americanarchive.org/catalog/cpb-aacip-e7694922560) | 1979</br>
-[New Dimensions; Gabrielle Roth, Part 1 [1979-04-21]](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7003t) | 1979</br>
-[New Dimensions; Gabrielle Roth, Part 3 [1979-04-21]](https://americanarchive.org/catalog/cpb-aacip-043ccc7fc65) | 1979</br>
-[New Dimensions; Gabrielle Roth, Part 2 [1979-04-21]](https://americanarchive.org/catalog/cpb-aacip-526-n29p26r87r) | 1979</br>
-[New Dimensions; Gabrielle Roth, Part 4 [1979-04-21]](https://americanarchive.org/catalog/cpb-aacip-6609ccc62d4) | 1979</br>
-[New Dimensions; Senior Actualization and Growth Experience, Part 1 [1979-05-05]](https://americanarchive.org/catalog/cpb-aacip-526-3b5w66b457) | 1979</br>
-[New Dimensions; Senior Actualization and Growth Experience, Part 3 [1979-05-05]](https://americanarchive.org/catalog/cpb-aacip-e69b171e9d7) | 1979</br>
-[New Dimensions; Senior Actualization and Growth Experience, Part 2 [1979-05-05]](https://americanarchive.org/catalog/cpb-aacip-526-mp4vh5dp0w) | 1979</br>
-[New Dimensions; Senior Actualization and Growth Experience, Part 4 [1979-05-05]](https://americanarchive.org/catalog/cpb-aacip-e17a17f7291) | 1979</br>
-[New Dimensions; Bodily Transformation, Part 1 [1979-07-14]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7688g) | 1979</br>
-[New Dimensions; Bodily Transformation, Part 3 [1979-07-14]](https://americanarchive.org/catalog/cpb-aacip-dce7c70421b) | 1979</br>
-[New Dimensions; Bodily Transformation, Part 2 [1979-07-14]](https://americanarchive.org/catalog/cpb-aacip-526-p26pz52s16) | 1979</br>
-[New Dimensions; Bodily Transformation, Part 4 [1979-07-14]](https://americanarchive.org/catalog/cpb-aacip-c95d7d86188) | 1979</br>
-[New Dimensions; The Corporate State, Part 1 [1979-07-21]](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c670) | 1979</br>
-[New Dimensions; The Corporate State, Part 3 [1979-07-21]](https://americanarchive.org/catalog/cpb-aacip-800c913562d) | 1979</br>
-[New Dimensions; The Corporate State, Part 2 [1979-07-21]](https://americanarchive.org/catalog/cpb-aacip-526-3n20c4tm31) | 1979</br>
-[New Dimensions; The Corporate State, Part 4 [1979-07-21]](https://americanarchive.org/catalog/cpb-aacip-54d4bcdd8ad) | 1979</br>
+[New Dimensions; The Tao of Physics [1979-02-24]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Tao+of+Physics&sort=title+asc) | 1979</br>
+[New Dimensions; World Future Society [1979-03-19]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=World+Future+Society&sort=title+asc) | 1979</br>
+[New Dimensions; Brain/Mind [1979-03-31]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Brain%2FMind&sort=title+asc) | 1979</br>
+[New Dimensions; Gabrielle Roth [1979-04-21]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Gabrielle+Roth&sort=title+asc) | 1979</br>
+[New Dimensions; Senior Actualization and Growth Experience [1979-05-05]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Senior+Actualization+and+Growth+Experience&sort=title+asc) | 1979</br>
+[New Dimensions; Bodily Transformation [1979-07-14]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Bodily+Transformation&sort=title+asc) | 1979</br>
+[New Dimensions; The Corporate State [1979-07-21]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Corporate+State&sort=title+asc) | 1979</br>
 [Broken Arrow: Can a Nuclear Weapons Accident Happen Here?](https://americanarchive.org/catalog/cpb-aacip-55-vm42r3pj0f) | 1980</br>
 [America on Trial, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck0b) | 1981</br>
 [America on Trial, Part 2](https://americanarchive.org/catalog/cpb-aacip-4754c59d6d5) | 1981</br>
@@ -383,8 +364,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Coming Space Age, The](https://americanarchive.org/catalog/cpb-aacip-512-nk3610wt5k) | 1958</br>
 [Eyes for the Future; Glaucoma [1958-10-01]](https://americanarchive.org/catalog/cpb-aacip-75-72p5j1k2) | 1958</br>
 [Target: Future; Pilot's Report on the X-15 [1958-03-11]](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dv26) | 1958</br>
-[How Do You Like the World; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-h707w68b4m) | 1978</br>
-[How Do You Like the World; Part 2](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z083) | 1978</br>
+[How Do You Like the World](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=How+Do+You+Like+the+World&sort=title+asc) | 1978</br>
 [Denmark's Star Spangled 4th](https://americanarchive.org/catalog/cpb-aacip-52-676t1pbw) | 1985</br>
 [What Do Women Really Want, Anyway?](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw3q) | 1985</br>
 [Ahimsa: Non-Violence](https://americanarchive.org/catalog/cpb-aacip-52-87pnw5t0) | 1987</br>
@@ -439,8 +419,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Politithon '70](https://americanarchive.org/catalog/cpb-aacip-526-w08w951w8s) | 1970</br>
 [Meet the Candidates](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g84) | 1976</br>
 [Wellsprings](https://americanarchive.org/catalog/cpb-aacip-42-34sj405h) | 1976</br>
-[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog/cpb-aacip-526-sq8qb9wd8m) | 1978</br>
-[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog/cpb-aacip-42-8605qtkc) | 1978</br>
+[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT2&q=eric+hoffer&f[access_types][]=online) | 1978</br>
 [Que Pasa, U.S.A.?; No. 28; The First Move [1977-01-11]](https://americanarchive.org/catalog/cpb-aacip-15-8279dqmr) | 1979</br>
 [NAACP convention 1980](https://americanarchive.org/catalog/cpb-aacip-526-qf8jd4qx02) | 1980</br>
 [NAACP convention 1980](https://americanarchive.org/catalog/cpb-aacip-526-br8mc8sh7k) | 1980</br>
@@ -617,8 +596,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Consumer Game, The; No. 10; A Thinking Consumer's Guide to the Drug Store](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn3z) | 1973</br>
 [Consumer Game, The; No. 7; A Thinking Consumer's Guide to the Meat Market](https://americanarchive.org/catalog/cpb-aacip-526-ks6j09x87r) | 1973</br>
 [Consumer Game, The; No. 9; The Lease Signing Apartment Renting Blues](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d90c) | 1973</br>
-[Restaurant Inspection in Illinois: An Investigative Report, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-7p8tb0zs9c) | 1973</br>
-[Restaurant Inspection in Illinois: An Investigative Report, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p897) | 1973</br>
+[Restaurant Inspection in Illinois: An Investigative Report](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Restaurant+Inspection+in+Illinois%3A+An+Investigative+Report&sort=title+asc) | 1973</br>
 [Arts and the City, The; Chicago 1974](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h2r) | 1974</br>
 [Consumer Game, The; The Car Repair Mess](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j065) | 1974</br>
 [Since "The American Way of Death"](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j30t) | 1974</br>
@@ -926,10 +904,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Foreign Language Instruction for Elementary Grades; Auf deutsch, bitte!](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt4j) | 1962</br>
 [Foreign Language Instruction for Elementary Grades; Ya hablamos espanol](https://americanarchive.org/catalog/cpb-aacip-526-2n4zg6h298) | 1962</br>
 [Your World This Week](https://americanarchive.org/catalog/cpb-aacip-526-0r9m32p67h) | 1971</br>
-[Minnesotans Remember Hubert H. Humphrey](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s74m) | 1978</br>
-[Minnesotans Remember Hubert H. Humphrey](https://americanarchive.org/catalog/cpb-aacip-526-5t3fx74x3c) | 1978</br>
-[Minnesotans Remember Hubert H. Humphrey](https://americanarchive.org/catalog/cpb-aacip-526-wp9t14vz5t) | 1978</br>
-[Minnesotans Remember Hubert H. Humphrey](https://americanarchive.org/catalog/cpb-aacip-526-q52f767f88) | 1978</br>
+[Minnesotans Remember Hubert H. Humphrey](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Minnesotans+Remember+Hubert+H.+Humphrey&sort=title+asc) | 1978</br>
 [Electronicle; No. 1; Gay Rights [1979-10-09]](https://americanarchive.org/catalog/cpb-aacip-77-451g2msc) | 1979</br>
 [Electronicle; No. 109; Artists](https://americanarchive.org/catalog/cpb-aacip-77-67wm4c74) | 1979</br>
 [Public Affairs Documentary Series; Whose Crisis Is This? [1979-07-27]](https://americanarchive.org/catalog/cpb-aacip-77-78gf2v1c) | 1979</br>
@@ -1000,8 +975,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Soap Box; The Slum](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc46) | 1955</br>
 [Free Assembly of Greater Saint Louis Documentary on the Series](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g07g) | 1957</br>
 [Free Assembly of Greater Saint Louis; Episode 2](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w44f) | 1957</br>
-[Metroplex Assembly](https://americanarchive.org/catalog/cpb-aacip-526-8c9r20sv9k) | 1959</br>
-[Metroplex Assembly](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r26k) | 1959</br>
+[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Metroplex+Assembly) | 1959</br>
 [Postscript](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng1h) | 1982</br>
 [Highway 40; Masters and Johnson and the threat of AIDS](https://americanarchive.org/catalog/cpb-aacip-110-16c2ftdq) | 1988</br>
 [St. Louis Skyline; No. 805](https://americanarchive.org/catalog/cpb-aacip-526-b853f4mr5v) | 1988</br>
@@ -1141,26 +1115,21 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Is Nazism Alive in America?](https://americanarchive.org/catalog/cpb-aacip-526-bg2h709280) | 1961</br>
 [James Agee](https://americanarchive.org/catalog/cpb-aacip-526-3j39020f2c) | 1961</br>
 [Mayhem by Motor](https://americanarchive.org/catalog/cpb-aacip-526-7m03x84n68) | 1961</br>
-[Negro in American Culture, The; No. 3; The Negro Writer In America, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss52) | 1961</br>
-[Negro in American Culture, The; No. 3; The Negro Writer In America, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw0s) | 1961</br>
-[Outlaws, The](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4dx6m) | 1961</br>
-[Outlaws, The](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv6s) | 1961</br>
-[Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq8s) | 1961</br>
-[Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60873) | 1961</br>
+[Negro in American Culture, The; No. 3; The Negro Writer In America](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22The+Negro+Writer+In+America%22) | 1961</br>
+[Outlaws, The; Danilo Dolci](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=danilo+dolci&sort=title+asc) | 1961</br>
+[Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22should+the+u.s.+change+its+china+policy%22&sort=title+asc) | 1961</br>
 [25 Cents a Wine-O: Interviews by Leonard Russell on the Bowery](https://americanarchive.org/catalog/cpb-aacip-526-dv1cj88q16) | 1962</br>
 [Background to Division: South Vietnam](https://americanarchive.org/catalog/cpb-aacip-526-z02z31pw9j) | 1962</br>
 [Death of a Neighbor](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98d81) | 1962</br>
 [Introduction to a Southeast Asian Country](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vs0k) | 1962</br>
-[Live and Let Live](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz5j) | 1962</br>
-[Live and Let Live](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6083v) | 1962</br>
+[Live and Let Live](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Live+and+Let+Live&sort=title+asc) | 1962</br>
 [Social Commodores, The](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz79) | 1962</br>
 [South Vietnam: A Dilemma for U.S. Policy](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0853q) | 1962</br>
 [Tent City](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d94m) | 1962</br>
 [You Have to Pay: A Documentary About the Bethel Hospital Workers Strike](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt27) | 1962</br>
 [Roots of Racial Conflict in the South, The; The Lady and the Dragon [1963-09-28]](https://americanarchive.org/catalog/cpb-aacip-526-db7vm43z4w) | 1963</br>
-[Roots of Racial Conflict in the South, The; Mississippi Delta, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-bg2h70930s) | 1963</br>
 [Roots of Racial Conflict in the South, The; Southern Labor and Civil Rights](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk1x) | 1963</br>
-[Roots of Racial Conflict in the South, The; 4; Mississippi Delta](https://americanarchive.org/catalog/cpb-aacip-526-125q815n6g) | 1963</br>
+[Roots of Racial Conflict in the South, The; 4; Mississippi Delta](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Mississippi+Delta&sort=title+asc) | 1963</br>
 [Massacre: The Story of East Timor](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n0g) | 1992</br>
 
 ##### WNYC
@@ -1218,8 +1187,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Miscellaneous; Difference of Opinion; Supreme Court Decision on Prayer in Schools [1962-10-22]](https://americanarchive.org/catalog/cpb-aacip-80-66vx155n) | 1962</br>
 [News; The Narrowing Atlantic; WNYC](https://americanarchive.org/catalog/cpb-aacip-80-48sbcvwf) | 1962</br>
 [Seminar of the Air; Challenge of Space Flight; Satellites in the Nation's Space Program](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh2s) | 1962</br>
-[23 Park Avenue with Lee Graham; Are the Private Schools Threatening the Public School System?, Part 1](https://americanarchive.org/catalog/cpb-aacip-80-65h9wqbh) | 1964</br>
-[23 Park Avenue; Are Private Schools Threatening the Public School System?; Part 2](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf91) | 1964</br>
+[23 Park Avenue with Lee Graham; Are the Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=23+Park+Avenue+with+Lee+Graham) | 1964</br>
 [Asia Society Presents, The; Asia Through the Cultural Looking-Glass [1969-02-03]](https://americanarchive.org/catalog/cpb-aacip-80-278sftgm) | 1969</br>
 [Miscellaneous; The Teaching Machine : Educating the Young](https://americanarchive.org/catalog/cpb-aacip-80-33dz0w56) | 1970</br>
 [Logic of Poetry, The; No. 4; Mending Walls](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf9q) | 1975</br>
@@ -1227,8 +1195,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Getting On; Zoos](https://americanarchive.org/catalog/cpb-aacip-526-n872v2dk4r) | 1976</br>
 [Young Musician, The](https://americanarchive.org/catalog/cpb-aacip-80-58bg7zsh) | 1976</br>
 [New York Considered; No. 6; The Irish in New York](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gt1s) | 1979</br>
-[WNYC Storytelling Festival; The Storyteller, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q83d) | 1979</br>
-[WNYC Storytelling Festival; The Storyteller, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr7f) | 1979</br>
+[WNYC Storytelling Festival; The Storyteller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=WNYC+Storytelling+Festival&sort=title+asc) | 1979</br>
 [Remembering Jewish Europe: From Tradition to Modernity; Warsaw [1983-04-10]](https://americanarchive.org/catalog/cpb-aacip-80-214mwsgs) | 1983</br>
 [On the Media, Part 1](https://americanarchive.org/catalog/cpb-aacip-ec8661c2aee) | 1984</br>
 [On the Media, Part 2](https://americanarchive.org/catalog/cpb-aacip-8d8be605e2c) | 1984</br>
@@ -1549,10 +1516,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### KERA
 
-[Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62n5g) | 1970</br>
-[Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz82419) | 1970</br>
-[Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-8s4jm24m8d) | 1970</br>
-[Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50p34) | 1970</br>
+[Newsroom; 1970](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Newsroom&f[access_types][]=online) | 1970</br>
 [Artesia Hall](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h00c) | 1973</br>
 [Big Thicket Holler](https://americanarchive.org/catalog/cpb-aacip-526-sq8qb9wd1f) | 1973</br>
 [Farah!](https://americanarchive.org/catalog/cpb-aacip-526-086348hd9n) | 1973</br>
@@ -1726,10 +1690,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### KWSU
 
-[Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md5g) | 1977</br>
-[Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-rn3028qq5s) | 1977</br>
-[Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k80k) | 1977</br>
-[Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-c53dz0444t) | 1977</br>
+[Daybreak; 1977-12-28](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Daybreak&sort=title+asc) | 1977</br>
 
 #### Seattle
 
@@ -1761,8 +1722,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### U.S. Environmental Protection Agency
 
-[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx40) | 1977</br>
-[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn1b) | 1977</br>
+[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Wisconsin+Environmental+Forum) | 1977</br>
 
 ##### WAMU
 
@@ -1785,10 +1745,9 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 #### Madison
 
-##### PBS Wisconsin (formerly Wisconsin Public Television / WHA)
+##### PBS Wisconsin (formerly Wisconsin Public Television / WHA / Wisconsin ETV Network)
 
-[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx40) | 1977</br>
-[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn1b) | 1977</br>
+[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Wisconsin+Environmental+Forum) | 1977</br>
 [America on Fire, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ww76t0j761) | 1980</br>
 [America on Fire, Part 2](https://americanarchive.org/catalog/cpb-aacip-490fedefd89) | 1980</br>
 [U.S. Chronicles; Passing Judgment [1980-08-28]](https://americanarchive.org/catalog/cpb-aacip-29-10jsxnzf) | 1980</br>
