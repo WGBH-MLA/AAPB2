@@ -16,7 +16,7 @@ The author would like to thank Mary Miller, K. C. Carter, Alan Gevinson, and Cas
 
 ## Authors
 
-<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Smith.jpg"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Smith.jpg"/>
   <a class="name">Sally Smith</a>
   <a class="title">Former Student Assistant, Brown Media Archives, University of Georgia</a>
 
@@ -39,7 +39,7 @@ Images of Native Americans and their cultures have long fascinated American audi
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/0_526-zg6g15vp07.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/0_526-zg6g15vp07.jpg" class="big-image" alt=" Image from The Dakota Conflict, Twin Cities Public Television (1993), https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp07."/></a></td></tr>
 </table>
 
-Using guidelines provided by the National Museum of the American Indian, the exhibit uses the terms “American Indian,” “Native American,” and “Indigenous” to refer to the cultures and communities of peoples living in the United States before the arrival of Europeans.[<sup>2</sup>](/exhibits/native-narratives/notes#2) Where applicable, the name of a specific tribe or nation is used when referring to an individual or group. 
+Using guidelines provided by the National Museum of the American Indian, the exhibit uses the terms "American Indian," "Native American," and "Indigenous" to refer to the cultures and communities of peoples living in the United States before the arrival of Europeans.[<sup>2</sup>](/exhibits/native-narratives/notes#2) Where applicable, the name of a specific tribe or nation is used when referring to an individual or group. 
 
 The exhibit organizes a selection of public radio and television programs in the American Archive of Public Broadcasting’s (AAPB) collections into five sections that examine the history of Native American representation in public broadcasting and how Native peoples have responded to their depictions. The sections focus on the strategies that Native peoples have used to maintain their cultural and community ties. Although the exhibit covers a wide range of events and topics significant to Native peoples, it does not cover the full diversity of Indigenous cultures in the United States and throughout the world. There are many more relevant public radio and television programs that are not included in the AAPB. Please visit the External Resources and Tour Our Resources portions of each section that provide resources to learn more about topics not examined in the exhibit. 
 
@@ -47,7 +47,7 @@ Throughout each section, the selected programs either comment on or exemplify th
 
 The [second section](/exhibits/native-narratives/termination-relocation-restoration), on United States policies of termination, tribal restoration, and urban relocation, discusses how commercial and public news outlets depicted Native peoples in ways that ignored their perspectives of current events and history. The [third section](/exhibits/native-narratives/aim) provides a brief history of the American Indian Movement (AIM) and programs with interviews of prominent AIM leaders. News outlets, both commercial and public, often do not report on issues significant to Native peoples. News coverage, however, is not uniform, and local and national coverage of Native communities widely differs. The programs featured in the second and third sections illustrate the frustration that many Native peoples have had over their representation in the news. Additionally, the sections provide radio and television programs that feature Native Americans speaking about issues important to them and their communities. 
 
-The [fourth section, “Native Americans in Contemporary News,”](/exhibits/native-narratives/contemporary-news) focuses on Native owned and operated news outlets such as *National Native News* and other public broadcasting news programs that provide programming either for or about Native communities. The [last section, “Visual Sovereignty: Native Created Media,”](/exhibits/native-narratives/visual-sovereignty) spotlights documentaries and other types of public radio and television programs made by and for Native Americans. 
+The [fourth section, "Native Americans in Contemporary News,"](/exhibits/native-narratives/contemporary-news) focuses on Native owned and operated news outlets such as *National Native News* and other public broadcasting news programs that provide programming either for or about Native communities. The [last section, "Visual Sovereignty: Native Created Media,"](/exhibits/native-narratives/visual-sovereignty) spotlights documentaries and other types of public radio and television programs made by and for Native Americans. 
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Mediak training from Alaska Federation of Natives: Youth and Elders Conference. Provided by Koahnic Broadcast Corporation.</caption>
