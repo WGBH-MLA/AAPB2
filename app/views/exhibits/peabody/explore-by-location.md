@@ -1557,75 +1557,75 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### KERA
 
-[1970, Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62n5g)</br>
-[1970, Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz82419)</br>
-[1970, Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-8s4jm24m8d)</br>
-[1970, Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50p34)</br>
-[1973, Artesia Hall](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h00c)</br>
-[1973, Big Thicket Holler](https://americanarchive.org/catalog/cpb-aacip-526-sq8qb9wd1f)</br>
-[1973, Farah!](https://americanarchive.org/catalog/cpb-aacip-526-086348hd9n)</br>
-[1974, Tyler, Texas, March 23, 1974](https://americanarchive.org/catalog/cpb-aacip-526-fn10p0xw9s)</br>
-[1976, A Thirst in the Garden](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r27w)</br>
-[1976, Selling of the Plan, The](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p341)</br>
-[1976, Stages of Preston Jones, The](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d7q)</br>
-[1976, Winning of Texas, The](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2n91z)</br>
-[1977, 1977 National Women's Conference: A Question of Choices](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s51g)</br>
-[1977, Eyewitness; No. 4; Death Wish; A Few Good Men; Easy Rider](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18tf1q)</br>
-[1978, American Government; The Delegate Selection Process](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js1h)</br>
-[1978, Elections '78: Prelude to '80; 4; Election Special](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n10k)</br>
-[1978, Elections '78: Prelude to '80; One-hour analysis program](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7009p)</br>
-[1979, Here's to Your Health; No. 111; Heart Risk Factors](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r52q)</br>
-[1979, News Day [1979-10-03]](https://americanarchive.org/catalog/cpb-aacip-526-ks6j09x93s)</br>
-[1980, News Day; Dallas Minorities](https://americanarchive.org/catalog/cpb-aacip-526-v69862cp5g)</br>
-[1980, News Day; Mass Transit](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xr54)</br>
-[1980, News Day; 1980--excerpts, Mass Transit](https://americanarchive.org/catalog/cpb-aacip-526-jq0sq8rm7w)</br>
-[1981, Exchange; Threat to the Rain Forest [1981-09-04]](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z12h)</br>
-[1981, National Health Quiz, The](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf07)</br>
-[1981, Profile: Lillian Hellman; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gn3x)</br>
-[1981, Profile: Lillian Hellman; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t520)</br>
-[1981, Profile: Lillian Hellman; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk21)</br>
-[1981, Profile: Lillian Hellman; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-vx05x26r00)</br>
-[1981, Profile: Lillian Hellman; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg01)</br>
-[1981, Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k)</br>
-[1981, World Exchange; No Excuse, Sir [1981-08-14]](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv43)</br>
-[1982, Business Edition with David Johnson; No. 113](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34688)</br>
-[1982, Public Education](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7347j)</br>
-[1982, Texas Campaign '82](https://americanarchive.org/catalog/cpb-aacip-526-0p0wp9v17r)</br>
-[1983, Condition Critical: Public Health Care In Texas](https://americanarchive.org/catalog/cpb-aacip-526-f76639mb2g)</br>
-[1983, Enterprise; Tailspin](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q11x)</br>
-[1985, Justice](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp5g)</br>
-[1985, Legacies of the Land: A Tale of Texas](https://americanarchive.org/catalog/cpb-aacip-526-445h990b9z)</br>
-[1986, Starting Over in America](https://americanarchive.org/catalog/cpb-aacip-526-d795718t0g)</br>
-[1988, News Addition and Town Hall Specials](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c778)</br>
-[1989, Project Crossroads; All God's People](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn45)</br>
-[1989, Project Crossroads; All God's People](https://americanarchive.org/catalog/cpb-aacip-526-zw18k76875)</br>
-[1989, Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f)</br>
-[1990, Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k)</br>
-[1995, Peacemaker](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc0x)</br>
+[Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62n5g) | 1970</br>
+[Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz82419) | 1970</br>
+[Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-8s4jm24m8d) | 1970</br>
+[Newsroom; 1970](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50p34) | 1970</br>
+[Artesia Hall](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h00c) | 1973</br>
+[Big Thicket Holler](https://americanarchive.org/catalog/cpb-aacip-526-sq8qb9wd1f) | 1973</br>
+[Farah!](https://americanarchive.org/catalog/cpb-aacip-526-086348hd9n) | 1973</br>
+[Tyler, Texas, March 23, 1974](https://americanarchive.org/catalog/cpb-aacip-526-fn10p0xw9s) | 1974</br>
+[A Thirst in the Garden](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r27w) | 1976</br>
+[Selling of the Plan, The](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p341) | 1976</br>
+[Stages of Preston Jones, The](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d7q) | 1976</br>
+[Winning of Texas, The](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2n91z) | 1976</br>
+[1977 National Women's Conference: A Question of Choices](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s51g) | 1977</br>
+[Eyewitness; No. 4; Death Wish; A Few Good Men; Easy Rider](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18tf1q) | 1977</br>
+[American Government; The Delegate Selection Process](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js1h) | 1978</br>
+[Elections '78: Prelude to '80; 4; Election Special](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n10k) | 1978</br>
+[Elections '78: Prelude to '80; One-hour analysis program](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7009p) | 1978</br>
+[Here's to Your Health; No. 111; Heart Risk Factors](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r52q) | 1979</br>
+[News Day [1979-10-03]](https://americanarchive.org/catalog/cpb-aacip-526-ks6j09x93s) | 1979</br>
+[News Day; Dallas Minorities](https://americanarchive.org/catalog/cpb-aacip-526-v69862cp5g) | 1980</br>
+[News Day; Mass Transit](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xr54) | 1980</br>
+[News Day; 1980--excerpts, Mass Transit](https://americanarchive.org/catalog/cpb-aacip-526-jq0sq8rm7w) | 1980</br>
+[Exchange; Threat to the Rain Forest [1981-09-04]](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z12h) | 1981</br>
+[National Health Quiz, The](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf07) | 1981</br>
+[Profile: Lillian Hellman; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gn3x) | 1981</br>
+[Profile: Lillian Hellman; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t520) | 1981</br>
+[Profile: Lillian Hellman; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk21) | 1981</br>
+[Profile: Lillian Hellman; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-vx05x26r00) | 1981</br>
+[Profile: Lillian Hellman; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg01) | 1981</br>
+[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981</br>
+[World Exchange; No Excuse, Sir [1981-08-14]](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv43) | 1981</br>
+[Business Edition with David Johnson; No. 113](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34688) | 1982</br>
+[Public Education](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7347j) | 1982</br>
+[Texas Campaign '82](https://americanarchive.org/catalog/cpb-aacip-526-0p0wp9v17r) | 1982</br>
+[Condition Critical: Public Health Care In Texas](https://americanarchive.org/catalog/cpb-aacip-526-f76639mb2g) | 1983</br>
+[Enterprise; Tailspin](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q11x) | 1983</br>
+[Justice](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp5g) | 1985</br>
+[Legacies of the Land: A Tale of Texas](https://americanarchive.org/catalog/cpb-aacip-526-445h990b9z) | 1985</br>
+[Starting Over in America](https://americanarchive.org/catalog/cpb-aacip-526-d795718t0g) | 1986</br>
+[News Addition and Town Hall Specials](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c778) | 1988</br>
+[Project Crossroads; All God's People](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn45) | 1989</br>
+[Project Crossroads; All God's People](https://americanarchive.org/catalog/cpb-aacip-526-zw18k76875) | 1989</br>
+[Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f) | 1989</br>
+[Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k) | 1990</br>
+[Peacemaker](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc0x) | 1995</br>
 
 #### Fort Worth
 
 ##### Fort Worth Productions
 
-[1981, Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k)</br>
+[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981</br>
 
 #### Houston
 
 ##### KUHF
 
-[1989, Engines of Our Ingenuity, The [1989-01-04]](https://americanarchive.org/catalog/cpb-aacip-20-4298sjwq)</br>
+[Engines of Our Ingenuity, The [1989-01-04]](https://americanarchive.org/catalog/cpb-aacip-20-4298sjwq) | 1989</br>
 
 ##### KUHT
 
-[1958, Jung Speaks of Freud](https://americanarchive.org/catalog/cpb-aacip-526-st7dr2qj7p)</br>
-[1970, Assignment Houston; The Establishment](https://americanarchive.org/catalog/cpb-aacip-526-000000102v)</br>
-[1979, Blowout: A Special Report](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q86b)</br>
-[1981, U.S. Chronicle; Fishing Troubled Waters [1981-08-05]](https://americanarchive.org/catalog/cpb-aacip-526-pr7mp4wv6q)</br>
-[1988, Made in America](https://americanarchive.org/catalog/cpb-aacip-526-0z70v8bh33)</br>
-[1991, Escape From Failure](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr4j)</br>
-[1991, J.D.'s Journal. No. 101 [1991-01-01]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47324)</br>
-[1993, Almanac; Shades of Truth [1993-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv57)</br>
-[1993, Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98)</br>
+[Jung Speaks of Freud](https://americanarchive.org/catalog/cpb-aacip-526-st7dr2qj7p) | 1958</br>
+[Assignment Houston; The Establishment](https://americanarchive.org/catalog/cpb-aacip-526-000000102v) | 1970</br>
+[Blowout: A Special Report](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q86b) | 1979</br>
+[U.S. Chronicle; Fishing Troubled Waters [1981-08-05]](https://americanarchive.org/catalog/cpb-aacip-526-pr7mp4wv6q) | 1981</br>
+[Made in America](https://americanarchive.org/catalog/cpb-aacip-526-0z70v8bh33) | 1988</br>
+[Escape From Failure](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr4j) | 1991</br>
+[J.D.'s Journal. No. 101 [1991-01-01]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47324) | 1991</br>
+[Almanac; Shades of Truth [1993-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv57) | 1993</br>
+[Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98) | 1993</br>
 
 ### Utah
 
@@ -1633,19 +1633,19 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### KUED
 
-[1980, Symbols of Lives Past: the Rambova Collection](https://americanarchive.org/catalog/cpb-aacip-526-251fj2bb3k)</br>
-[1981, Headline: Doomsayers](https://americanarchive.org/catalog/cpb-aacip-83-11xd2d5d)</br>
-[1987, Troubled Waters](https://americanarchive.org/catalog/cpb-aacip-83-214mwh2h)</br>
-[1992, Remembering David](https://americanarchive.org/catalog/cpb-aacip-83-074tmx7h)</br>
-[1996, In Those Days: A Look at the Wasatch Front of the 1930's](https://americanarchive.org/catalog/cpb-aacip-83-386hf25f)</br>
-[1996, Snow Wolves, The](https://americanarchive.org/catalog/cpb-aacip-83-311nsbmt)</br>
-[1996, Utah: The Struggle for Statehood; No. 1; Beginnings](https://americanarchive.org/catalog/cpb-aacip-83-46qz6cbs)</br>
-[1996, Utah: The Struggle for Statehood; No. 2; Brother Brigham](https://americanarchive.org/catalog/cpb-aacip-83-418kq356)</br>
-[1996, Utah: The Struggle for Statehood; No. 3; The Cauldron](https://americanarchive.org/catalog/cpb-aacip-83-23612txx)</br>
-[1996, Utah: The Struggle for Statehood; No. 4; 45 Stars](https://americanarchive.org/catalog/cpb-aacip-83-009w12j3)</br>
-[1997, Brigham Young](https://americanarchive.org/catalog/cpb-aacip-83-5370s9pq)</br>
-[1997, Let the Women Vote!](https://americanarchive.org/catalog/cpb-aacip-83-16c2g1b0)</br>
-[1998, Joe Hill](https://americanarchive.org/catalog/cpb-aacip-83-68kd5f1p)</br>
+[Symbols of Lives Past: the Rambova Collection](https://americanarchive.org/catalog/cpb-aacip-526-251fj2bb3k) | 1980</br>
+[Headline: Doomsayers](https://americanarchive.org/catalog/cpb-aacip-83-11xd2d5d) | 1981</br>
+[Troubled Waters](https://americanarchive.org/catalog/cpb-aacip-83-214mwh2h) | 1987</br>
+[Remembering David](https://americanarchive.org/catalog/cpb-aacip-83-074tmx7h) | 1992</br>
+[In Those Days: A Look at the Wasatch Front of the 1930's](https://americanarchive.org/catalog/cpb-aacip-83-386hf25f) | 1996</br>
+[Snow Wolves, The](https://americanarchive.org/catalog/cpb-aacip-83-311nsbmt) | 1996</br>
+[Utah: The Struggle for Statehood; No. 1; Beginnings](https://americanarchive.org/catalog/cpb-aacip-83-46qz6cbs) | 1996</br>
+[Utah: The Struggle for Statehood; No. 2; Brother Brigham](https://americanarchive.org/catalog/cpb-aacip-83-418kq356) | 1996</br>
+[Utah: The Struggle for Statehood; No. 3; The Cauldron](https://americanarchive.org/catalog/cpb-aacip-83-23612txx) | 1996</br>
+[Utah: The Struggle for Statehood; No. 4; 45 Stars](https://americanarchive.org/catalog/cpb-aacip-83-009w12j3) | 1996</br>
+[Brigham Young](https://americanarchive.org/catalog/cpb-aacip-83-5370s9pq) | 1997</br>
+[Let the Women Vote!](https://americanarchive.org/catalog/cpb-aacip-83-16c2g1b0) | 1997</br>
+[Joe Hill](https://americanarchive.org/catalog/cpb-aacip-83-68kd5f1p) | 1998</br>
 
 ### Vermont
 
@@ -1653,37 +1653,37 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### Vermont Public Radio
 
-[1984, Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-0cc8d186f66)</br>
-[1984, Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-1e0c46c7556)</br>
-[1984, Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-526-x639z91q0m)</br>
-[1984, Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1224f)</br>
-[1990, Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g)</br>
-[1990, Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423)</br>
+[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-0cc8d186f66) | 1984</br>
+[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-1e0c46c7556) | 1984</br>
+[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-526-x639z91q0m) | 1984</br>
+[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1224f) | 1984</br>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g) | 1990</br>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423) | 1990</br>
 
 #### Middlebury
 
 ##### Vermont Folklife Center
 
-[1990, Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g)</br>
-[1990, Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423)</br>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g) | 1990</br>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423) | 1990</br>
 
 #### Windsor
 
 ##### Vermont Public Radio
 
-[1984, A Hand-Me-Down Harvest; 'Cause Life is Much Diff'r'nt](https://americanarchive.org/catalog/cpb-aacip-526-2r3nv9b72n)</br>
-[1984, A Hand-Me-Down Harvest; Down't Jones's Parin' Bee](https://americanarchive.org/catalog/cpb-aacip-526-t727942469)</br>
-[1984, A Hand-Me-Down Harvest; Every Lake Has a Monster](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md2j)</br>
-[1984, A Hand-Me-Down Harvest; Half Root Beer and Half Dandelion Wine](https://americanarchive.org/catalog/cpb-aacip-526-4m9183540r)</br>
-[1984, A Hand-Me-Down Harvest; If Only One Cow Showed Up](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk0m)</br>
-[1984, A Hand-Me-Down Harvest; Sweetest Joys, Indeed](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0s00m)</br>
+[A Hand-Me-Down Harvest; 'Cause Life is Much Diff'r'nt](https://americanarchive.org/catalog/cpb-aacip-526-2r3nv9b72n) | 1984</br>
+[A Hand-Me-Down Harvest; Down't Jones's Parin' Bee](https://americanarchive.org/catalog/cpb-aacip-526-t727942469) | 1984</br>
+[A Hand-Me-Down Harvest; Every Lake Has a Monster](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md2j) | 1984</br>
+[A Hand-Me-Down Harvest; Half Root Beer and Half Dandelion Wine](https://americanarchive.org/catalog/cpb-aacip-526-4m9183540r) | 1984</br>
+[A Hand-Me-Down Harvest; If Only One Cow Showed Up](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk0m) | 1984</br>
+[A Hand-Me-Down Harvest; Sweetest Joys, Indeed](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0s00m) | 1984</br>
 
 #### Winooski
 
 ##### Vermont PBS (formerly Vermont ETV)
 
-[1994, Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t)</br>
-[1999, American Prophet: The Story of Joseph Smith](https://americanarchive.org/catalog/cpb-aacip-46-00000021)</br>
+[Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t) | 1994</br>
+[American Prophet: The Story of Joseph Smith](https://americanarchive.org/catalog/cpb-aacip-46-00000021) | 1999</br>
 
 ### Virginia
 
@@ -1691,42 +1691,42 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### WETA
 
-[1983, Summer of Judgment; The Watergate Hearings, Part 1 of 2](https://americanarchive.org/catalog/cpb-aacip-512-mc8rb6ww1z)</br>
-[1983, Summer of Judgment; The Watergate Hearings, Part 2 of 2](https://americanarchive.org/catalog/cpb-aacip-512-gm81j9840b)</br>
+[Summer of Judgment; The Watergate Hearings, Part 1 of 2](https://americanarchive.org/catalog/cpb-aacip-512-mc8rb6ww1z) | 1983</br>
+[Summer of Judgment; The Watergate Hearings, Part 2 of 2](https://americanarchive.org/catalog/cpb-aacip-512-gm81j9840b) | 1983</br>
 
 #### Hampton
 
 ##### Langley Research Center
 
-[1998, Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b)</br>
+[Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b) | 1998</br>
 
 #### Norfolk
 
 ##### WHRO
 
-[1972, Animals and Such; No. 2; Microscopic Pond Life](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010q2d)</br>
-[1972, Dollar Data; No. 1; Matter of Choice](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd6p)</br>
-[1972, People Puzzle](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n430)</br>
-[1972, Writing Time](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks0g)</br>
-[1981, Community of Living Things: Colonies](https://americanarchive.org/catalog/cpb-aacip-387-2683bnmt)</br>
-[1983, In the Land of Time, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-tq5r786x1w)</br>
-[1983, In the Land of Time, Part 2](https://americanarchive.org/catalog/cpb-aacip-fae487161fd)</br>
-[1984, Human Community, The; Species Modifications](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt4v)</br>
-[1984, Human Community, The; Toxic Waste](https://americanarchive.org/catalog/cpb-aacip-387-375tb6pn)</br>
-[1984, In Japan, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kg9z)</br>
-[1984, In Japan, Part 2](https://americanarchive.org/catalog/cpb-aacip-a5a0f4921b3)</br>
-[1992, WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d)</br>
-[1994, Assembly Week; No. 702](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b967)</br>
-[1994, Beyond Survival](https://americanarchive.org/catalog/cpb-aacip-387-1937pxx3)</br>
-[1994, Beyond Survival](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g679)</br>
-[1994, Gone But Not Forgotten](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fm8x)</br>
-[1994, High School Communications Partnership](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx9v)</br>
-[1994, Live-- From Other Worlds; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g093)</br>
-[1994, WHRO Non-Broadcast Educational Activities](https://americanarchive.org/catalog/cpb-aacip-526-8c9r20sw6x)</br>
-[1994, Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k2w)</br>
-[1994, Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r2h)</br>
-[1995, Class of 2000; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-j678s4kv82)</br>
-[1998, Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b)</br>
+[Animals and Such; No. 2; Microscopic Pond Life](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010q2d) | 1972</br>
+[Dollar Data; No. 1; Matter of Choice](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd6p) | 1972</br>
+[People Puzzle](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n430) | 1972</br>
+[Writing Time](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks0g) | 1972</br>
+[Community of Living Things: Colonies](https://americanarchive.org/catalog/cpb-aacip-387-2683bnmt) | 1981</br>
+[In the Land of Time, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-tq5r786x1w) | 1983</br>
+[In the Land of Time, Part 2](https://americanarchive.org/catalog/cpb-aacip-fae487161fd) | 1983</br>
+[Human Community, The; Species Modifications](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt4v) | 1984</br>
+[Human Community, The; Toxic Waste](https://americanarchive.org/catalog/cpb-aacip-387-375tb6pn) | 1984</br>
+[In Japan, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kg9z) | 1984</br>
+[In Japan, Part 2](https://americanarchive.org/catalog/cpb-aacip-a5a0f4921b3) | 1984</br>
+[WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d) | 1992</br>
+[Assembly Week; No. 702](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b967) | 1994</br>
+[Beyond Survival](https://americanarchive.org/catalog/cpb-aacip-387-1937pxx3) | 1994</br>
+[Beyond Survival](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g679) | 1994</br>
+[Gone But Not Forgotten](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fm8x) | 1994</br>
+[High School Communications Partnership](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx9v) | 1994</br>
+[Live-- From Other Worlds; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g093) | 1994</br>
+[WHRO Non-Broadcast Educational Activities](https://americanarchive.org/catalog/cpb-aacip-526-8c9r20sw6x) | 1994</br>
+[Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k2w) | 1994</br>
+[Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r2h) | 1994</br>
+[Class of 2000; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-j678s4kv82) | 1995</br>
+[Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b) | 1998</br>
 
 ### Washington
 
@@ -1734,51 +1734,51 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### KWSU
 
-[1977, Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md5g)</br>
-[1977, Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-rn3028qq5s)</br>
-[1977, Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k80k)</br>
-[1977, Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-c53dz0444t)</br>
+[Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md5g) | 1977</br>
+[Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-rn3028qq5s) | 1977</br>
+[Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k80k) | 1977</br>
+[Daybreak; 1977-12-28](https://americanarchive.org/catalog/cpb-aacip-526-c53dz0444t) | 1977</br>
 
 #### Seattle
 
 ##### KCTS
 
-[1983, Death and the Mistress Of Delay](https://americanarchive.org/catalog/cpb-aacip-283-18rbp308)</br>
-[1983, Diagnosis: AIDS](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j78)</br>
-[1984, China Discovery](https://americanarchive.org/catalog/cpb-aacip-283-14nk9cws)</br>
-[1984, Shelter](https://americanarchive.org/catalog/cpb-aacip-283-61rfjj43)</br>
-[1985, War in the West](https://americanarchive.org/catalog/cpb-aacip-283-52w3r7zc)</br>
-[1986, Nuclear Legacy](https://americanarchive.org/catalog/cpb-aacip-283-053ffg7w)</br>
-[1986, Visible Target](https://americanarchive.org/catalog/cpb-aacip-283-90dv4bcr)</br>
-[1986, Young Storytellers in Russia](https://americanarchive.org/catalog/cpb-aacip-283-4947df8d)</br>
-[1987, Circle Of Plenty](https://americanarchive.org/catalog/cpb-aacip-283-451g1t6q)</br>
-[1987, Growing up Without](https://americanarchive.org/catalog/cpb-aacip-283-8605qv57)</br>
-[1991, Paradise Lost?](https://americanarchive.org/catalog/cpb-aacip-526-7m03x84n4n)</br>
-[1991, Paradise Lost?](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp6x)</br>
+[Death and the Mistress Of Delay](https://americanarchive.org/catalog/cpb-aacip-283-18rbp308) | 1983</br>
+[Diagnosis: AIDS](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j78) | 1983</br>
+[China Discovery](https://americanarchive.org/catalog/cpb-aacip-283-14nk9cws) | 1984</br>
+[Shelter](https://americanarchive.org/catalog/cpb-aacip-283-61rfjj43) | 1984</br>
+[War in the West](https://americanarchive.org/catalog/cpb-aacip-283-52w3r7zc) | 1985</br>
+[Nuclear Legacy](https://americanarchive.org/catalog/cpb-aacip-283-053ffg7w) | 1986</br>
+[Visible Target](https://americanarchive.org/catalog/cpb-aacip-283-90dv4bcr) | 1986</br>
+[Young Storytellers in Russia](https://americanarchive.org/catalog/cpb-aacip-283-4947df8d) | 1986</br>
+[Circle Of Plenty](https://americanarchive.org/catalog/cpb-aacip-283-451g1t6q) | 1987</br>
+[Growing up Without](https://americanarchive.org/catalog/cpb-aacip-283-8605qv57) | 1987</br>
+[Paradise Lost?](https://americanarchive.org/catalog/cpb-aacip-526-7m03x84n4n) | 1991</br>
+[Paradise Lost?](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp6x) | 1991</br>
 
 ### Washington D.C.
 
 ##### National Public Radio
 
-[1978, WBEZ Special; Teen Pregnancy: From Babydolls to Babies](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2nf40)</br>
-[1998, U.S.-Mexican Border Coverage](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck38)</br>
+[WBEZ Special; Teen Pregnancy: From Babydolls to Babies](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2nf40) | 1978</br>
+[U.S.-Mexican Border Coverage](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck38) | 1998</br>
 
 ##### U.S. Agricultural Research Service
 
-[1987, Your Hometown](https://americanarchive.org/catalog/cpb-aacip-526-445h990c22)</br>
+[Your Hometown](https://americanarchive.org/catalog/cpb-aacip-526-445h990c22) | 1987</br>
 
 ##### U.S. Environmental Protection Agency
 
-[1977, Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx40)</br>
-[1977, Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn1b)</br>
+[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx40) | 1977</br>
+[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn1b) | 1977</br>
 
 ##### WAMU
 
-[1976, Kaleidoscope; Sound portrait of Porgy and Bess](https://americanarchive.org/catalog/cpb-aacip-500-028pgx1z)</br>
+[Kaleidoscope; Sound portrait of Porgy and Bess](https://americanarchive.org/catalog/cpb-aacip-500-028pgx1z) | 1976</br>
 
 ##### WETA
 
-[1989, A Place Called Home](https://americanarchive.org/catalog/cpb-aacip-526-v69862cn84)</br>
+[A Place Called Home](https://americanarchive.org/catalog/cpb-aacip-526-v69862cn84) | 1989</br>
 
 ### Wisconsin
 
@@ -1786,59 +1786,59 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### WPNE
 
-[1973, A People Uprooted](https://americanarchive.org/catalog/cpb-aacip-526-3x83j3b24s)</br>
-[1973, Menominee](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s78v)</br>
-[1977, Encompass; Incarceration or Rehabilitation? [1977-12]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4730h)</br>
-[1979, Encompass; Human Cargo [1979-11-22]](https://americanarchive.org/catalog/cpb-aacip-526-mp4vh5dn1x)</br>
+[A People Uprooted](https://americanarchive.org/catalog/cpb-aacip-526-3x83j3b24s) | 1973</br>
+[Menominee](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s78v) | 1973</br>
+[Encompass; Incarceration or Rehabilitation? [1977-12]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4730h) | 1977</br>
+[Encompass; Human Cargo [1979-11-22]](https://americanarchive.org/catalog/cpb-aacip-526-mp4vh5dn1x) | 1979</br>
 
 #### Madison
 
 ##### PBS Wisconsin (formerly Wisconsin Public Television / WHA)
 
-[1977, Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx40)</br>
-[1977, Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn1b)</br>
-[1980, America on Fire, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ww76t0j761)</br>
-[1980, America on Fire, Part 2](https://americanarchive.org/catalog/cpb-aacip-490fedefd89)</br>
-[1980, U.S. Chronicles; Passing Judgment [1980-08-28]](https://americanarchive.org/catalog/cpb-aacip-29-10jsxnzf)</br>
-[1982, Cheating Death](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc4t)</br>
-[1982, Reading for a Reason; No. 7; The Way I Remember It?](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60845)</br>
-[1983, Who's Supporting the Kids?](https://americanarchive.org/catalog/cpb-aacip-29-61djhjcx)</br>
-[1984, New Tech Times, The; No. 204](https://americanarchive.org/catalog/cpb-aacip-29-8380gksn)</br>
-[1984, New Tech Times, The; No. 212](https://americanarchive.org/catalog/cpb-aacip-526-w37kp7w14v)</br>
-[1984, Wisconsin magazine; No. 1016](https://americanarchive.org/catalog/cpb-aacip-29-9995xk4p)</br>
-[1985, Storylords; No. 2; Connecting What You Know With What's On the Page](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts56)</br>
-[1985, Uncommon Places: The Architecture of Frank Lloyd Wright](https://americanarchive.org/catalog/cpb-aacip-29-085hqcqj)</br>
-[1987, Houdini!](https://americanarchive.org/catalog/cpb-aacip-526-9882j69777)</br>
-[1988, Wisconsin Magazine, The; No. 1504 [1988-10-26]](https://americanarchive.org/catalog/cpb-aacip-29-82k6dthf)</br>
-[1997, Everybody's Kids](https://americanarchive.org/catalog/cpb-aacip-29-472v737k)</br>
-[1997, State of the Union; No. 102; Mothers' Day Special [1997-05-05]](https://americanarchive.org/catalog/cpb-aacip-29-13zs7m07)</br>
-[1997, State of the Union; No. 103; That's Why They Call it Work [1997-08-25]](https://americanarchive.org/catalog/cpb-aacip-29-31qftz9r)</br>
-[1999, Stand the Storm](https://americanarchive.org/catalog/cpb-aacip-29-19f4qvqp)</br>
-[1999, Wisconsin: Prisons & Politics](https://americanarchive.org/catalog/cpb-aacip-29-010p2r97)</br>
+[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx40) | 1977</br>
+[Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn1b) | 1977</br>
+[America on Fire, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ww76t0j761) | 1980</br>
+[America on Fire, Part 2](https://americanarchive.org/catalog/cpb-aacip-490fedefd89) | 1980</br>
+[U.S. Chronicles; Passing Judgment [1980-08-28]](https://americanarchive.org/catalog/cpb-aacip-29-10jsxnzf) | 1980</br>
+[Cheating Death](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc4t) | 1982</br>
+[Reading for a Reason; No. 7; The Way I Remember It?](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60845) | 1982</br>
+[Who's Supporting the Kids?](https://americanarchive.org/catalog/cpb-aacip-29-61djhjcx) | 1983</br>
+[New Tech Times, The; No. 204](https://americanarchive.org/catalog/cpb-aacip-29-8380gksn) | 1984</br>
+[New Tech Times, The; No. 212](https://americanarchive.org/catalog/cpb-aacip-526-w37kp7w14v) | 1984</br>
+[Wisconsin magazine; No. 1016](https://americanarchive.org/catalog/cpb-aacip-29-9995xk4p) | 1984</br>
+[Storylords; No. 2; Connecting What You Know With What's On the Page](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts56) | 1985</br>
+[Uncommon Places: The Architecture of Frank Lloyd Wright](https://americanarchive.org/catalog/cpb-aacip-29-085hqcqj) | 1985</br>
+[Houdini!](https://americanarchive.org/catalog/cpb-aacip-526-9882j69777) | 1987</br>
+[Wisconsin Magazine, The; No. 1504 [1988-10-26]](https://americanarchive.org/catalog/cpb-aacip-29-82k6dthf) | 1988</br>
+[Everybody's Kids](https://americanarchive.org/catalog/cpb-aacip-29-472v737k) | 1997</br>
+[State of the Union; No. 102; Mothers' Day Special [1997-05-05]](https://americanarchive.org/catalog/cpb-aacip-29-13zs7m07) | 1997</br>
+[State of the Union; No. 103; That's Why They Call it Work [1997-08-25]](https://americanarchive.org/catalog/cpb-aacip-29-31qftz9r) | 1997</br>
+[Stand the Storm](https://americanarchive.org/catalog/cpb-aacip-29-19f4qvqp) | 1999</br>
+[Wisconsin: Prisons & Politics](https://americanarchive.org/catalog/cpb-aacip-29-010p2r97) | 1999</br>
 
 ##### Wisconsin Educational Television Network
 
-[1983, Out & About; Maintaining Friends](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b8x)</br>
-[1979, An American Ism: Joe McCarthy](https://americanarchive.org/catalog/cpb-aacip-29-300zpk6p)</br>
+[An American Ism: Joe McCarthy](https://americanarchive.org/catalog/cpb-aacip-29-300zpk6p) | 1979</br>
+[Out & About; Maintaining Friends](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b8x) | 1983</br>
 
 ##### Wisconsin Public Radio (formerly WHA Radio)
 
-[1946, Wisconsin Political Educational Forum](https://americanarchive.org/catalog/cpb-aacip-526-1g0ht2h761)</br>
-[1970, Environment Week: Life Style on Trial](https://americanarchive.org/catalog/cpb-aacip-526-mw28912z7v)</br>
-[1970, NERN Special; A Conversation with Lord Caradon](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b4p)</br>
-[1972, Tools III; No. 4,;To Every One, a Reason](https://americanarchive.org/catalog/cpb-aacip-30-56n03n8m)</br>
-[1975, Oral History of Chequamegon Bay Area; No. 5; Ashland Wisconsin: A Self Portrait](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x39q)</br>
-[1994, Lake Superior Trials](https://americanarchive.org/catalog/cpb-aacip-526-154dn40s6r)</br>
-[1986, Object of Law is Justice, The: Women in the Judiciary, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rn3028qq8q)</br>
-[1986, Object of Law is Justice, The: Women in the Judiciary, Part 2](https://americanarchive.org/catalog/cpb-aacip-e486d5d7145)</br>
-[1967, Black Christmas in Milwaukee](https://americanarchive.org/catalog/cpb-aacip-30-gm81j97p4r)</br>
-[1969, Madison Vote-in](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98d7q)</br>
-[1970, Darker Brother Series, The; You Never Miss Your Daddy 'Til He Up and---!](https://americanarchive.org/catalog/cpb-aacip-30-bv79s1kx40)</br>
-[1973, Gisholt: Death of a Factory; No. 8; Unemployment, Part 1, Get a Job](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j24s)</br>
-[1973, Gisholt: Death of a Factory; No. 9; Unemployment, Part 2, Self Help: Does It Work?](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932d98)</br>
-[1973, We Are the Other People; No. 10; What a Miracle!](https://americanarchive.org/catalog/cpb-aacip-30-3n20c4sv0s)</br>
-[1977, Wisconsin on the move; Aware and wary of wares; Wisconsin School of the Air](https://americanarchive.org/catalog/cpb-aacip-30-27mpgv1s)</br>
-[1986, Sound Studies in American History III; No. 10; Prisoners of Prejudice](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m72z)</br>
+[Wisconsin Political Educational Forum](https://americanarchive.org/catalog/cpb-aacip-526-1g0ht2h761) | 1946</br>
+[Environment Week: Life Style on Trial](https://americanarchive.org/catalog/cpb-aacip-526-mw28912z7v) | 1970</br>
+[NERN Special; A Conversation with Lord Caradon](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b4p) | 1970</br>
+[Tools III; No. 4,;To Every One, a Reason](https://americanarchive.org/catalog/cpb-aacip-30-56n03n8m) | 1972</br>
+[Oral History of Chequamegon Bay Area; No. 5; Ashland Wisconsin: A Self Portrait](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x39q) | 1975</br>
+[Lake Superior Trials](https://americanarchive.org/catalog/cpb-aacip-526-154dn40s6r) | 1994</br>
+[Object of Law is Justice, The: Women in the Judiciary, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rn3028qq8q) | 1986</br>
+[Object of Law is Justice, The: Women in the Judiciary, Part 2](https://americanarchive.org/catalog/cpb-aacip-e486d5d7145) | 1986</br>
+[Black Christmas in Milwaukee](https://americanarchive.org/catalog/cpb-aacip-30-gm81j97p4r) | 1967</br>
+[Madison Vote-in](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98d7q) | 1969</br>
+[Darker Brother Series, The; You Never Miss Your Daddy 'Til He Up and---!](https://americanarchive.org/catalog/cpb-aacip-30-bv79s1kx40) | 1970</br>
+[Gisholt: Death of a Factory; No. 8; Unemployment, Part 1, Get a Job](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j24s) | 1973</br>
+[Gisholt: Death of a Factory; No. 9; Unemployment, Part 2, Self Help: Does It Work?](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932d98) | 1973</br>
+[We Are the Other People; No. 10; What a Miracle!](https://americanarchive.org/catalog/cpb-aacip-30-3n20c4sv0s) | 1973</br>
+[Wisconsin on the move; Aware and wary of wares; Wisconsin School of the Air](https://americanarchive.org/catalog/cpb-aacip-30-27mpgv1s) | 1977</br>
+[Sound Studies in American History III; No. 10; Prisoners of Prejudice](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m72z) | 1986</br>
 
 #### Next: [Exploring the Peabody Collection by Entry Category](/exhibits/peabody/entry-category)
 
