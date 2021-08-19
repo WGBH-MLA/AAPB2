@@ -45,19 +45,19 @@ AIM laid the groundwork for widespread changes in federal policies and increased
 
 ### Tour Our Resources: 
 
-- [WGBH Journal; The Longest Walk](https://americanarchive.org/catalog/cpb-aacip_15-60qrfxb4) (WGBH, Boston, 1978)
+- [*WGBH Journal*, "The Longest Walk"](https://americanarchive.org/catalog/cpb-aacip_15-60qrfxb4) (WGBH, Boston, 1978)
 
     Coverage of The Longest Walk
 
-- [NewsNight Minnesota #5144](https://americanarchive.org/catalog/cpb-aacip_77-93ttg1kg) (Twin Cities Public Television, Saint Paul, Minnesota, 1998)
+- [*NewsNight Minnesota* #5144](https://americanarchive.org/catalog/cpb-aacip_77-93ttg1kg) (Twin Cities Public Television, Saint Paul, Minnesota, 1998)
 
     This program features interviews with Native American Minnesotans on the 25th Anniversary of the occupation and siege of Wounded Knee. 
 
-- [The MacNeil/Lehrer Report, Indian Agenda](https://americanarchive.org/catalog/cpb-aacip_507-599z02zs6z) (WNET/WETA, 1977)
+- [*The MacNeil/Lehrer Report*, "Indian Agenda"](https://americanarchive.org/catalog/cpb-aacip_507-599z02zs6z) (WNET/WETA, 1977)
 
     This episode covers the American Indian sovereignty movement, focusing on tribal activism and new developments regarding political and legal rights for Native American communities. The segment begins with an overview of various sovereignty news for local tribes across the country and continues with a focus on the upcoming convention for the National Congress of American Indians in Dallas. Interviewees include representatives from the National Congress of American Indians and the National Tribal Chairmen’s Association, as well as the Assistant Secretary of the Interior for Indian Affairs. The episode also covers government backlash to the sovereignty movement.
 
-- [National Native News Special Features](https://americanarchive.org/catalog/cpb-aacip_206-97xksxrm) (Koahnic Broadcast Corporation, Anchorage, Alaska, 1991-1995)
+- [*National Native News Special Features*](https://americanarchive.org/catalog/cpb-aacip_206-97xksxrm) (Koahnic Broadcast Corporation, Anchorage, Alaska, 1991-1995)
 
     The third segment of this program is an interview with American Indian Movement (AIM) National Representative Vernon Bellecourt (1931-2007) for the 27th anniversary of AIM in Minneapolis, MN.
 
