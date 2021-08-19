@@ -43,8 +43,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Alaska News Morning; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-m901z4318h) | 1985</br>
 [Alaska News Nightly; Impeachment Coverage [1985-07-02]](https://americanarchive.org/catalog/cpb-aacip-9cd5f2b1cd4) | 1985</br>
 [Alaska News Nightly; Impeachment Coverage [1985-08-05]](https://americanarchive.org/catalog/cpb-aacip-af103c49a4d) | 1985</br>
-[Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz60) | 1985</br>
-[Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg8h) | 1985</br>
+[Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Alaska+News+Nightly) | 1985</br>
 
 ##### Western Media Concepts, Inc.
 
@@ -155,8 +154,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [KCET Journal; Crimes of Neglect [1986-07-23]](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr93) | 1986</br>
 [KCET Journal; Dropouts [1986-07-23]](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xj9f) | 1986</br>
 [Turning Points; No. 107; Best of Turning Points [1986-08-19]](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sm5k) | 1986</br>
-[California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp8d) | 1987</br>
-[California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f94s) | 1987</br>
+[California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Addicted+Brain) | 1987</br>
 [California Stories; Over-Exposed: Chemicals in the Workplace [1987-05-30]](https://americanarchive.org/catalog/cpb-aacip-526-mw28913006) | 1987</br>
 [California Stories; Art: Off the Wall [1987-10-31]](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21t1h) | 1987</br>
 [KCET Journal; Prison of the Streets [1987-07-01]](https://americanarchive.org/catalog/cpb-aacip-526-c24qj7901h) | 1987</br>
@@ -222,22 +220,12 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22should+the+u.s.+change+its+china+policy%22&sort=title+asc) | 1961</br>
 [Continuing Concern, The; No. 3; Freedom of Speech [1962-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd89) | 1962</br>
 [Roots of Racial Conflict in the South, The; No. 4; Mississippi Delta](https://americanarchive.org/catalog/cpb-aacip-526-125q815n6g) | 1963</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-pr7mp4wt9c) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 2](https://americanarchive.org/catalog/cpb-aacip-ba114796632) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 1 [1987-07-29]](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jb7v) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 2 [1987-07-29]](https://americanarchive.org/catalog/cpb-aacip-1e3b04bf8bb) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 1 [1987-08-19]](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w8v) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 2 [1987-08-19]](https://americanarchive.org/catalog/cpb-aacip-7b95ad068d7) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 1 [1987-10-16]](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft98) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 2 [1987-10-16]](https://americanarchive.org/catalog/cpb-aacip-14e1ca5fb49) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 1 [1987-10-16]](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk6g) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 2 [1987-10-16]](https://americanarchive.org/catalog/cpb-aacip-8ab9ad7fa82) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 1 [1987-10-21]](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q36n) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 2 [1987-10-21]](https://americanarchive.org/catalog/cpb-aacip-86464fcc7d7) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 1 [1987-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-7m03x84n96) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 2 [1987-12-09]](https://americanarchive.org/catalog/cpb-aacip-b0ff50693d2) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 1 [1987-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27m4n) | 1987</br>
-[Something's Happening. AIDSgate: Everything you know is wrong, Part 2 [1987-12-09]](https://americanarchive.org/catalog/cpb-aacip-78c6994c6a4) | 1987</br>
+[Something's Happening. AIDSgate: Everything you know is wrong](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Something%27s+Happening.+AIDSgate%3A+Everything+you+know+is+wrong&f[access_types][]=online) | 1987</br>
+[Something's Happening. AIDSgate: Everything you know is wrong [1987-07-29]](https://americanarchive.org/catalog?after_date=1987-07-29&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Something%27s+Happening.+AIDSgate%3A+Everything+you+know+is+wrong&sort=title+asc) | 1987</br>
+[Something's Happening. AIDSgate: Everything you know is wrong [1987-08-19]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Something%27s+Happening.+AIDSgate%3A+Everything+you+know+is+wrong&sort=title+asc&exact_or_range=exact&after_date=1987-08-19&commit=Update) | 1987</br>
+[Something's Happening. AIDSgate: Everything you know is wrong [1987-10-16]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Something%27s+Happening.+AIDSgate%3A+Everything+you+know+is+wrong&sort=title+asc&exact_or_range=exact&after_date=1987-10-16&commit=Update) | 1987</br>
+[Something's Happening. AIDSgate: Everything you know is wrong [1987-10-21]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Something%27s+Happening.+AIDSgate%3A+Everything+you+know+is+wrong&sort=title+asc&exact_or_range=exact&after_date=1987-10-21&commit=Update) | 1987</br>
+[Something's Happening. AIDSgate: Everything you know is wrong [1987-12-09]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Something%27s+Happening.+AIDSgate%3A+Everything+you+know+is+wrong&sort=title+asc&exact_or_range=exact&after_date=1987-12-09&commit=Update) | 1987</br>
 [Remembering Stonewall](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m38) | 1989</br>
 [Massacre: The Story of East Timor](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n0g) | 1992</br>
 
@@ -264,6 +252,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [AIDS: The San Diego Story;No.  2; Patient Care](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft8z) | 1987</br>
 [AIDS: The San Diego Story; No. 3; Education](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w41h) | 1987</br>
 [AIDS: The San Diego Story; No. 4; Political/Ethical](https://americanarchive.org/catalog/cpb-aacip-526-k06ww78262) | 1987</br>
+[Public Figures, Private Moments: Selected Readings form the James S. Copley Library Collection](https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj9m) | 1987</br>
 [Downsizing the Dream](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8jt0g) | 1996</br>
 [KPBS Seek Out Science promotional video](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts0n) | 1996</br>
 [Running Mate](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z07s) | 1996</br>
@@ -292,17 +281,11 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [New Dimensions; Bodily Transformation [1979-07-14]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Bodily+Transformation&sort=title+asc) | 1979</br>
 [New Dimensions; The Corporate State [1979-07-21]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Corporate+State&sort=title+asc) | 1979</br>
 [Broken Arrow: Can a Nuclear Weapons Accident Happen Here?](https://americanarchive.org/catalog/cpb-aacip-55-vm42r3pj0f) | 1980</br>
-[America on Trial, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck0b) | 1981</br>
-[America on Trial, Part 2](https://americanarchive.org/catalog/cpb-aacip-4754c59d6d5) | 1981</br>
-[America on Trial, Part 3](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d14j) | 1981</br>
-[America on Trial, Part 4](https://americanarchive.org/catalog/cpb-aacip-b76a1fec77b) | 1981</br>
+[America on Trial](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=America+on+Trial) | 1981</br>
 [Bad Moon Rising](https://americanarchive.org/catalog/cpb-aacip-55-1937qhng) | 1981</br>
-[Foreign Exchange; Poland, Part 1 [1981-03-17]](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zq5z) | 1981</br>
-[Foreign Exchange; Poland, Part 2 [1981-03-17]](https://americanarchive.org/catalog/cpb-aacip-d2f395310dc) | 1981</br>
-[Foreign Exchange; Terrorism, Part 1 [1981-04-21]](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc7s) | 1981</br>
-[Foreign Exchange; Terrorism, Part 2 [1981-04-21]](https://americanarchive.org/catalog/cpb-aacip-100c90266ab) | 1981</br>
-[Foreign Exchange; Latin America: Policies at the Crossroads, Part 1 [1981-05-05]](https://americanarchive.org/catalog/cpb-aacip-526-8s4jm24g70) | 1981</br>
-[Foreign Exchange; Latin America: Policies at the Crossroads, Part 2 [1981-05-05]](https://americanarchive.org/catalog/cpb-aacip-17f4159da79) | 1981</br>
+[Foreign Exchange; Poland [1981-03-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Poland&sort=title+asc) | 1981</br>
+[Foreign Exchange; Terrorism [1981-04-21]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Terrorism&sort=title+asc) | 1981</br>
+[Foreign Exchange; Latin America: Policies at the Crossroads [1981-05-05]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Latin+America%3A+Policies+at+the+Crossroads&sort=title+asc) | 1981</br>
 [Over Easy; No. 5001; Education](https://americanarchive.org/catalog/cpb-aacip-55-8380h864) | 1981</br>
 [Over Easy; No. 5019; Widows and Widowers](https://americanarchive.org/catalog/cpb-aacip-526-542j679w10) | 1981</br>
 [Million Dollar Mud Flats](https://americanarchive.org/catalog/cpb-aacip-55-st7dr2ps8p) | 1983</br>
@@ -421,13 +404,8 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Wellsprings](https://americanarchive.org/catalog/cpb-aacip-42-34sj405h) | 1976</br>
 [Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT2&q=eric+hoffer&f[access_types][]=online) | 1978</br>
 [Que Pasa, U.S.A.?; No. 28; The First Move [1977-01-11]](https://americanarchive.org/catalog/cpb-aacip-15-8279dqmr) | 1979</br>
-[NAACP convention 1980](https://americanarchive.org/catalog/cpb-aacip-526-qf8jd4qx02) | 1980</br>
-[NAACP convention 1980](https://americanarchive.org/catalog/cpb-aacip-526-br8mc8sh7k) | 1980</br>
-[NAACP convention 1980](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t54m) | 1980</br>
-[Nightly Business Report](https://americanarchive.org/catalog/cpb-aacip-526-028pc2v47b) | 1981</br>
-[Nightly Business Report](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g6h) | 1981</br>
-[Nightly Business Report](https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj89) | 1981</br>
-[Nightly Business Report, The](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s505) | 1981</br>
+[NAACP convention 1980](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=NAACP+convention+1980) | 1980</br>
+[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT&q=%22nightly+business+report%22&f[access_types][]=online) | 1981</br>
 [Nightly Business Report, The; The Bell Breakup: The 7 Regionals & the New AT&T](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt6g) | 1983</br>
 [Nightly Business Report, The; The Williamsburg Summit](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv6q) | 1983</br>
 [In Quest Of Excellence](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gm86) | 1984</br>
@@ -607,8 +585,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [John Callaway Interviews; Dr. Jonas Salk [1981-06-30]](https://americanarchive.org/catalog/cpb-aacip-526-g73707xt6p) | 1981</br>
 [John Callaway Interviews; Mike Wallace [1981-10-01]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp45) | 1981</br>
 [John Callaway Interviews; Howard Cosell [1981-11-10]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97j32) | 1981</br>
-[Media in Society](https://americanarchive.org/catalog/cpb-aacip-526-t43hx17048) | 1981</br>
-[Media in Society](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2mc9f) | 1981</br>
+[Media in Society](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Media+in+Society) | 1981</br>
 [Zookeepers](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx2c) | 1981</br>
 [John Callaway Interviews; 1983, Composite Of Five Programs](https://americanarchive.org/catalog/cpb-aacip-526-5717m0515v) | 1983</br>
 [Race To City Hall, The: The 1983 Chicago Mayoral Debates](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t19d) | 1983</br>
@@ -625,8 +602,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Ancient Lives; No. 103, The Processional Way of the Gods](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp5m) | 1985</br>
 [McLaughlin Group, The; Geneva Summit [1985-11-22]](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k77g) | 1985</br>
 [Veeck: A Man For Any Season](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mz1g) | 1985</br>
-[Wrapped In Steel](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h07j) | 1985</br>
-[Wrapped In Steel](https://americanarchive.org/catalog/cpb-aacip-526-2n4zg6h340) | 1985</br>
+[Wrapped In Steel](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Wrapped+In+Steel&sort=title+asc) | 1985</br>
 [First Annual Excellence in Teaching Awards, The](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xj7t) | 1986</br>
 [Chicago Tonight with John Callaway; No. 5064; Stock Market- Day 2 [1987-10-20]](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz82016) | 1987</br>
 [Chicago Tonight with John Callaway; No. 5086, Mayoral Succession [1987-11-26]](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932f12) | 1987</br>
@@ -837,7 +813,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 #### Owings Mills
 
-##### Maryland Public Television (former Maryland Center for Public Broadcasting)
+##### Maryland Public Television (formerly Maryland Center for Public Broadcasting / Maryland Instructional Television)
 
 [Wall Street Week; No. 528; Wall Street Week Goes West](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vn9r) | 1976</br>
 [Wall Street Week; No. 529; Fueling the Economy](https://americanarchive.org/catalog/cpb-aacip-526-dv1cj88q3t) | 1976</br>
@@ -867,10 +843,8 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 ##### WGBH
 
 [Laughter's a Funny Business; No. 4; Inhibition](https://americanarchive.org/catalog/cpb-aacip-15-31cjt796) | 1960</br>
-[Morning Pro Musica; No. 8; Learning about Raga](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6089q) | 1982</br>
-[Morning Pro Musica; No. 8; Learning about Raga](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757r1d) | 1982</br>
-[Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-jm23b5xg9b) | 1983</br>
-[Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings, Part 2](https://americanarchive.org/catalog/cpb-aacip-4d812f3843a) | 1983</br>
+[Morning Pro Musica; No. 8; Learning about Raga](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Learning+about+Raga&sort=title+asc) | 1982</br>
+[Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Beethoven%27s+Metronome+Markings&sort=title+asc) | 1983</br>
 [People of the First Light: Native Americans in Southern New England; The Mashpee Wampanoags [1979-03-13]](https://americanarchive.org/catalog/cpb-aacip-114-881jx2h7) | 1979</br>
 
 ### Michigan
@@ -1030,8 +1004,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 ##### New Jersey Network
 
 [Assignment New Jersey; Work, Work, Work [1975-02-19]](https://americanarchive.org/catalog/cpb-aacip-259-348ghx5h) | 1975</br>
-[Election Coverage 1981; Compilation](https://americanarchive.org/catalog/cpb-aacip-526-696zw19q18) | 1981</br>
-[Election Coverage 1981; Compilation](https://americanarchive.org/catalog/cpb-aacip-526-610vq2t723) | 1981</br>
+[Election Coverage 1981; Compilation](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=Election+Coverage+1981.+Compilation) | 1981</br>
 [McLaughlin's Beat; No. 312; Tommy Trantino: Ten More Years](https://americanarchive.org/catalog/cpb-aacip-526-tb0xp6w93m) | 1982</br>
 [New Jersey Nightly News; Employment in the Changing Workplace](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6k995) | 1983</br>
 [New Jersey Nightly News; Gone Without a Trace](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh7m) | 1983</br>
@@ -1197,8 +1170,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [New York Considered; No. 6; The Irish in New York](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gt1s) | 1979</br>
 [WNYC Storytelling Festival; The Storyteller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=WNYC+Storytelling+Festival&sort=title+asc) | 1979</br>
 [Remembering Jewish Europe: From Tradition to Modernity; Warsaw [1983-04-10]](https://americanarchive.org/catalog/cpb-aacip-80-214mwsgs) | 1983</br>
-[On the Media, Part 1](https://americanarchive.org/catalog/cpb-aacip-ec8661c2aee) | 1984</br>
-[On the Media, Part 2](https://americanarchive.org/catalog/cpb-aacip-8d8be605e2c) | 1984</br>
+[On the Media](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=On+the+Media&exact_or_range=range&after_date=1984&before_date=1985&commit=Update) | 1984</br>
 [WNYC FM: General Station Excellence](https://americanarchive.org/catalog/cpb-aacip-526-736m03zw9w) | 1986</br>
 [Fromm Day; Sampler--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-599z03056f) | 1987</br>
 [Kwitny Report, The; No. 205; The Crash of '87 [1987-11-11]](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q912) | 1987</br>
@@ -1460,8 +1432,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### WITF
 
-[National Nuclear Debate, The](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n4s) | 1980</br>
-[National Nuclear Debate, The](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rw43) | 1980</br>
+[National Nuclear Debate, The](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+National+Nuclear+Debate) | 1980</br>
 [Pro-Con with Charlayne Hunter-Gault; Abortion [1981-10-15]](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk3j) | 1981</br>
 [When a Factory Closes](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31h9j) | 1983</br>
 
@@ -1609,10 +1580,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### Vermont Public Radio
 
-[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-0cc8d186f66) | 1984</br>
-[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-1e0c46c7556) | 1984</br>
-[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-526-x639z91q0m) | 1984</br>
-[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1224f) | 1984</br>
+[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Voices+in+the+Hills%3A+Profiles+of+Vermont+Workers&sort=title+asc) | 1984</br>
 [Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g) | 1990</br>
 [Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423) | 1990</br>
 
@@ -1647,8 +1615,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### WETA
 
-[Summer of Judgment; The Watergate Hearings, Part 1 of 2](https://americanarchive.org/catalog/cpb-aacip-512-mc8rb6ww1z) | 1983</br>
-[Summer of Judgment; The Watergate Hearings, Part 2 of 2](https://americanarchive.org/catalog/cpb-aacip-512-gm81j9840b) | 1983</br>
+[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+of+Judgment%2C+The+Watergate+Hearings&sort=title+asc) | 1983</br>
 
 #### Hampton
 
@@ -1665,8 +1632,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [People Puzzle](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n430) | 1972</br>
 [Writing Time](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks0g) | 1972</br>
 [Community of Living Things: Colonies](https://americanarchive.org/catalog/cpb-aacip-387-2683bnmt) | 1981</br>
-[In the Land of Time, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-tq5r786x1w) | 1983</br>
-[In the Land of Time, Part 2](https://americanarchive.org/catalog/cpb-aacip-fae487161fd) | 1983</br>
+[In the Land of Time](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=In+the+Land+of+Time&sort=title+asc) | 1983</br>
 [Human Community, The; Species Modifications](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt4v) | 1984</br>
 [Human Community, The; Toxic Waste](https://americanarchive.org/catalog/cpb-aacip-387-375tb6pn) | 1984</br>
 [In Japan, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kg9z) | 1984</br>
@@ -1748,8 +1714,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 ##### PBS Wisconsin (formerly Wisconsin Public Television / WHA / Wisconsin ETV Network)
 
 [Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Wisconsin+Environmental+Forum) | 1977</br>
-[America on Fire, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ww76t0j761) | 1980</br>
-[America on Fire, Part 2](https://americanarchive.org/catalog/cpb-aacip-490fedefd89) | 1980</br>
+[America on Fire](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=America+on+Fire&sort=title+asc) | 1980</br>
 [U.S. Chronicles; Passing Judgment [1980-08-28]](https://americanarchive.org/catalog/cpb-aacip-29-10jsxnzf) | 1980</br>
 [Cheating Death](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc4t) | 1982</br>
 [Reading for a Reason; No. 7; The Way I Remember It?](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60845) | 1982</br>
@@ -1780,8 +1745,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Tools III; No. 4,;To Every One, a Reason](https://americanarchive.org/catalog/cpb-aacip-30-56n03n8m) | 1972</br>
 [Oral History of Chequamegon Bay Area; No. 5; Ashland Wisconsin: A Self Portrait](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x39q) | 1975</br>
 [Lake Superior Trials](https://americanarchive.org/catalog/cpb-aacip-526-154dn40s6r) | 1994</br>
-[Object of Law is Justice, The: Women in the Judiciary, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rn3028qq8q) | 1986</br>
-[Object of Law is Justice, The: Women in the Judiciary, Part 2](https://americanarchive.org/catalog/cpb-aacip-e486d5d7145) | 1986</br>
+[Object of Law is Justice, The: Women in the Judiciary](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+Object+of+Law+is+Justice%3A+Women+in+the+Judiciary&sort=title+asc) | 1986</br>
 [Black Christmas in Milwaukee](https://americanarchive.org/catalog/cpb-aacip-30-gm81j97p4r) | 1967</br>
 [Madison Vote-in](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98d7q) | 1969</br>
 [Darker Brother Series, The; You Never Miss Your Daddy 'Til He Up and---!](https://americanarchive.org/catalog/cpb-aacip-30-bv79s1kx40) | 1970</br>
