@@ -14,8 +14,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1944
 
-[Weekly Talk to the People-- Mayor F.H. LaGuardia, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc6q) | WNYC</br>
-[Weekly Talk to the People-- Mayor F.H. LaGuardia, Part 2](https://americanarchive.org/catalog/cpb-aacip-eeebdef7abc) | WNYC</br>
+[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Weekly+Talk+to+the+People--+Mayor+F.H.+LaGuardia&sort=title+asc) | WNYC</br>
 
 ##### 1946
 
@@ -49,64 +48,63 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1951
 
-[Lectures to the Laity; The Art and Science of Growing Up in America, Part 1](https://americanarchive.org/catalog/cpb-aacip-80-18dfnkzs)</br>
-[Lectures to the Laity; The Art and Science of Growing Up in America, Part 2](https://americanarchive.org/catalog/cpb-aacip-2858d890a5f)</br>
-[United Nations; Opening of UN Political Committee at Lake Success [1951-01-05]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4733f)</br>
+[Lectures to the Laity; The Art and Science of Growing Up in America](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22The+Art+and+Science+of+Growing+Up+in+America%22&sort=title+asc) | WNYC</br>
+[United Nations; Opening of UN Political Committee at Lake Success [1951-01-05]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4733f) | WNYC</br>
 
 ##### 1952
 
-[This Is Polio; 1; It Couldn't Happen to Us](https://americanarchive.org/catalog/cpb-aacip-526-542j679v96)</br>
-[This Is Polio; 2; They Live in Lungs](https://americanarchive.org/catalog/cpb-aacip-526-m901z43237)</br>
-[This Is Polio; 3; The Long Road Back](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n1s)</br>
-[This Is Polio; 4; Those Who Wait](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz33977)</br>
-[WNYC News; New York's Narcotics Hearings, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t05)</br>
+[This Is Polio; 1; It Couldn't Happen to Us](https://americanarchive.org/catalog/cpb-aacip-526-542j679v96) | WOSU</br>
+[This Is Polio; 2; They Live in Lungs](https://americanarchive.org/catalog/cpb-aacip-526-m901z43237) | WOSU</br>
+[This Is Polio; 3; The Long Road Back](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n1s) | WOSU</br>
+[This Is Polio; 4; Those Who Wait](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz33977) | WOSU</br>
+[WNYC News; New York's Narcotics Hearings, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t05) | WNYC</br>
 
 ##### 1954
 
 
-[Art as Education; Creative Crayon](https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj3r)</br>
-[Science in Sight; Saving the Soil](https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq)</br>
+[Art as Education; Creative Crayon](https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj3r) | KETC</br>
+[Science in Sight; Saving the Soil](https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq) | KETC</br>
 
 ##### 1955
 
-[Religions of Man; No. 1; The Relevance of the Religions of Man](https://americanarchive.org/catalog/cpb-aacip-75-56zw3x9b)</br>
-[Soap Box; Teachers' Meeting on Integration; Subject, teachers and parents](https://americanarchive.org/catalog/cpb-aacip-110-69z08t25)</br>
-[Soap Box; The Slum](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc46)</br>
+[Religions of Man; No. 1; The Relevance of the Religions of Man](https://americanarchive.org/catalog/cpb-aacip-75-56zw3x9b) | KETC</br>
+[Soap Box; Teachers' Meeting on Integration; Subject, teachers and parents](https://americanarchive.org/catalog/cpb-aacip-110-69z08t25) | KETC</br>
+[Soap Box; The Slum](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc46) | KETC</br>
 
 ##### 1956
 
-[Books in Profile; Marchette Chute [1956-12-27]](https://americanarchive.org/catalog/cpb-aacip-80-25x6b73h)</br>
-[Campus Press Conference; Dr. Glenn T. Seaborg of the Radiation Laboratory of the University of California, winner of the Nobel Prize for Chemistry [1956-12-30]](https://americanarchive.org/catalog/cpb-aacip-80-28nckbfs)</br>
-[International Interview; Dr. Auguste Lindt - UN High Commissioner for Refugees](https://americanarchive.org/catalog/cpb-aacip-80-04rjf1z9)</br>
-[U.N. Radio Review, The; First Emergency Special Session of the General Assembly](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf8d)</br>
+[Books in Profile; Marchette Chute [1956-12-27]](https://americanarchive.org/catalog/cpb-aacip-80-25x6b73h) | WNYC</br>
+[Campus Press Conference; Dr. Glenn T. Seaborg of the Radiation Laboratory of the University of California, winner of the Nobel Prize for Chemistry [1956-12-30]](https://americanarchive.org/catalog/cpb-aacip-80-28nckbfs) | WNYC</br>
+[International Interview; Dr. Auguste Lindt - UN High Commissioner for Refugees](https://americanarchive.org/catalog/cpb-aacip-80-04rjf1z9) | WNYC</br>
+[U.N. Radio Review, The; First Emergency Special Session of the General Assembly](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf8d) | United Nations Radio | WNYC</br>
 
 ##### 1957
 
-[Books in Profile; Max Lerner's "America as a Civilization"](https://americanarchive.org/catalog/cpb-aacip-80-81jhbp2c)</br>
-[Books in Profile; Two Angry Men [1957]](https://americanarchive.org/catalog/cpb-aacip-80-91sf89bm)</br>
-[Campus Press Conference; Stanley H. Lowell, Assistant to the Mayor of New York City [1957-01-06]](https://americanarchive.org/catalog/cpb-aacip-80-386hfdtv)</br>
-[Campus Press Conference; Bernard Katzen, Counsel to New York State Joint Legislative Committee on Narcotics [1957-12-08]](https://americanarchive.org/catalog/cpb-aacip-80-77sn0pwj)</br>
-[Campus Press Conference; Francis J. Bloustein, Vice-Chairman, New York City Planning Commission [1957-12-15]](https://americanarchive.org/catalog/cpb-aacip-80-407wmng0)</br>
-[Cooper Union Forum; Psychotherapy and Hindu Philosophy [1957-12-26]](https://americanarchive.org/catalog/cpb-aacip-80-35gb66d7)</br>
-[Free Assembly of Greater Saint Louis Documentary on the Series](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g07g)</br>
-[Free Assembly of Greater Saint Louis; Episode 2](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w44f)</br>
-[International Interview; Daniel A. Chapman](https://americanarchive.org/catalog/cpb-aacip-80-79h4584f)</br>
-[News; Metropolis in the Making: New Jersey Governor Robert B. Meyner](https://americanarchive.org/catalog/cpb-aacip-80-1937qh0f)</br>
-[Queen's Message to the U.N.](https://americanarchive.org/catalog/cpb-aacip-526-2v2c825c4s)</br>
-[Report to Consumers; Buying a Car on Credit](https://americanarchive.org/catalog/cpb-aacip-80-12893k28)</br>
-[Public Arts with Gilbert Seldes, The](https://americanarchive.org/catalog/cpb-aacip-80-483jb508)</br>
-[World of Medicine: a television report on medical research and progress. Program 1: Radiology, Blood Pressure, Hearing](https://americanarchive.org/catalog/cpb-aacip-526-hq3rv0f42g)</br>
+[Books in Profile; Max Lerner's "America as a Civilization"](https://americanarchive.org/catalog/cpb-aacip-80-81jhbp2c) | WNYC</br>
+[Books in Profile; Two Angry Men [1957]](https://americanarchive.org/catalog/cpb-aacip-80-91sf89bm) | WNYC</br>
+[Campus Press Conference; Stanley H. Lowell, Assistant to the Mayor of New York City [1957-01-06]](https://americanarchive.org/catalog/cpb-aacip-80-386hfdtv) | WNYC</br>
+[Campus Press Conference; Bernard Katzen, Counsel to New York State Joint Legislative Committee on Narcotics [1957-12-08]](https://americanarchive.org/catalog/cpb-aacip-80-77sn0pwj) | WNYC</br>
+[Campus Press Conference; Francis J. Bloustein, Vice-Chairman, New York City Planning Commission [1957-12-15]](https://americanarchive.org/catalog/cpb-aacip-80-407wmng0) | WNYC</br>
+[Cooper Union Forum; Psychotherapy and Hindu Philosophy [1957-12-26]](https://americanarchive.org/catalog/cpb-aacip-80-35gb66d7) | WNYC</br>
+[Free Assembly of Greater Saint Louis Documentary on the Series](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g07g) | KETC</br>
+[Free Assembly of Greater Saint Louis; Episode 2](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w44f) | KETC</br>
+[International Interview; Daniel A. Chapman](https://americanarchive.org/catalog/cpb-aacip-80-79h4584f) | WNYC</br>
+[News; Metropolis in the Making: New Jersey Governor Robert B. Meyner](https://americanarchive.org/catalog/cpb-aacip-80-1937qh0f) | WNYC</br>
+[Queen's Message to the U.N.](https://americanarchive.org/catalog/cpb-aacip-526-2v2c825c4s) | WNYC</br>
+[Report to Consumers; Buying a Car on Credit](https://americanarchive.org/catalog/cpb-aacip-80-12893k28) | WNYC</br>
+[Public Arts with Gilbert Seldes, The](https://americanarchive.org/catalog/cpb-aacip-80-483jb508) | WNYC</br>
+[World of Medicine: a television report on medical research and progress. Program 1: Radiology, Blood Pressure, Hearing](https://americanarchive.org/catalog/cpb-aacip-526-hq3rv0f42g) | WTTW</br>
 
 ##### 1958
 
-[Boettcher School of the Air; Science; Program 2, Air [1958-03-18]](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz47)</br>
-[Campus Press Conference; Dr. Leona Baumgartner, Commissioner of Health for the City of New York [1956-12-16]](https://americanarchive.org/catalog/cpb-aacip-80-010p388j)</br>
-[Children Growing! Series 2, program 7, From A to F : the report card](https://americanarchive.org/catalog/cpb-aacip-512-tx3513w07x)</br>
-[Coming Space Age, The](https://americanarchive.org/catalog/cpb-aacip-512-nk3610wt5k)</br>
-[Eyes for the Future; Glaucoma [1958-10-01]](https://americanarchive.org/catalog/cpb-aacip-75-72p5j1k2)</br>
-[Great Opposites, The; Fallout and Disarmament [1958-02-20]](https://americanarchive.org/catalog/cpb-aacip-526-cj87h1fq8g)</br>
-[Jung Speaks of Freud](https://americanarchive.org/catalog/cpb-aacip-526-st7dr2qj7p)</br>
-[Target: Future; Pilot's Report on the X-15 [1958-03-11]](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dv26)</br>
+[Boettcher School of the Air; Science; Program 2, Air [1958-03-18]](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz47) | KRMA</br>
+[Campus Press Conference; Dr. Leona Baumgartner, Commissioner of Health for the City of New York [1956-12-16]](https://americanarchive.org/catalog/cpb-aacip-80-010p388j) | WNYC</br>
+[Children Growing! Series 2, program 7, From A to F : the report card](https://americanarchive.org/catalog/cpb-aacip-512-tx3513w07x) | WTTW</br>
+[Coming Space Age, The](https://americanarchive.org/catalog/cpb-aacip-512-nk3610wt5k) | KRMA</br>
+[Eyes for the Future; Glaucoma [1958-10-01]](https://americanarchive.org/catalog/cpb-aacip-75-72p5j1k2) | KRMA</br>
+[Great Opposites, The; Fallout and Disarmament [1958-02-20]](https://americanarchive.org/catalog/cpb-aacip-526-cj87h1fq8g) | KQED</br>
+[Jung Speaks of Freud](https://americanarchive.org/catalog/cpb-aacip-526-st7dr2qj7p) | KUHT</br>
+[Target: Future; Pilot's Report on the X-15 [1958-03-11]](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dv26) | KRMA</br>
 
 ##### 1959
 
