@@ -46,5 +46,5 @@ The AAPB is collaborating with the Professional Learning and Outreach Initiative
 
 <h3 class="spaced-h3">Society for Cinema and Media Studies</h3>
 <p class="spaced-paragraph">
-  <img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/org-logos/SCMS_logo.png" alt="SCMS Logo Image"/>
+  <img class="left-logo" src="https://s3.amazonaws.com/americanarchive.org/override/SCMS_logo.png" alt="SCMS Logo Image"/>
 The <a href=https://www.cmstudies.org/>Society for Cinema and Media Studies</a> (SCMS) is a leading scholarly organization in the United States dedicated to promoting a broad understanding of film, television, and related media through research and teaching grounded in the contemporary humanities tradition. The SCMS podcast, <a href=http://www.aca-media.org/>“Aca-Media”</a>, offers an academic perspective on media and is the AAPB’s collaborator on the production of the <a href=https://americanarchive.org/about-the-american-archive/podcast>“Presenting the Past”</a> podcast.
