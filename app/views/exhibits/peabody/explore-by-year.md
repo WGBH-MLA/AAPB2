@@ -857,8 +857,8 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Austin at Issue: Help Wanted; No. 1; Work Force Issues](https://americanarchive.org/catalog/cpb-aacip-526-hm52f7kz5m) | KLRU</br>
 [Austin at Issue: Help Wanted; No. 2; Social Problems](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq2t) | KLRU</br>
 [Austin at Issue: Help Wanted; No. 3; Minority Equity](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv8d) | KLRU</br>
-[Austin at Issue: Help Wanted; No. 4; Teachers Issues] [title from videocassette]](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r258) | KLRU</br>
-[Austin at Issue: Help Wanted; No 5; Cultural Values] [title from videocassette]](https://americanarchive.org/catalog/cpb-aacip-526-t72794253n) | KLRU</br>
+[Austin at Issue: Help Wanted; No. 4; Teachers Issues](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r258) | KLRU</br>
+[Austin at Issue: Help Wanted; No 5; Cultural Values](https://americanarchive.org/catalog/cpb-aacip-526-t72794253n) | KLRU</br>
 [Chicago Matters; Celebrity Spots](https://americanarchive.org/catalog/cpb-aacip-526-th8bg2jm3n) | WTTW</br>
 [Gorbachev at Westminster College](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Gorbachev+at+Westminster+College) | KETC</br>
 [Headline: Youth Violence](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q32d) | WXXI</br>
