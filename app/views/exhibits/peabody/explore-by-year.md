@@ -793,9 +793,9 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Nightly Business Report, The; 1990 Selected commentaries](https://americanarchive.org/catalog/cpb-aacip-526-125q815n1x) | WPBT</br>
 [Nightly Business Report, The; Special edition](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7344m) | WPBT</br>
 [Nightly Business Report, The; Swords into Plowshares](https://americanarchive.org/catalog/cpb-aacip-526-ww76t0j80f) | WPBT</br>
-[On The Line; Kids and Prejudice; No. 1 [1990-09-10]], Prejudice in the Family ](https://americanarchive.org/catalog/cpb-aacip-80-79574cj9) | WNYC</br>
-[On The Line; Kids and Prejudice; No. 2 [1990-09-11]], Prejudice in the Media](https://americanarchive.org/catalog/cpb-aacip-80-43nvxkgv) | WNYC</br>
-[On The Line; Kids and Prejudice; No. 4 [1990-09-13]], School Conflict Resolution](https://americanarchive.org/catalog/cpb-aacip-80-440rzh6x) | WNYC</br>
+[On The Line; Kids and Prejudice; No. 1 [1990-09-10], Prejudice in the Family](https://americanarchive.org/catalog/cpb-aacip-80-79574cj9) | WNYC</br>
+[On The Line; Kids and Prejudice; No. 2 [1990-09-11], Prejudice in the Media](https://americanarchive.org/catalog/cpb-aacip-80-43nvxkgv) | WNYC</br>
+[On The Line; Kids and Prejudice; No. 4 [1990-09-13], School Conflict Resolution](https://americanarchive.org/catalog/cpb-aacip-80-440rzh6x) | WNYC</br>
 [Power in the Pacific; No. 104; Power Without Purpose [1990-11-06]](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n0p) | KCET</br>
 [Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k) | KERA</br>
 [Rap City Rhapsody](https://americanarchive.org/catalog/cpb-aacip-55-t43hx16800) | KQED</br>
