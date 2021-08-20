@@ -808,539 +808,428 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 
 ##### 1991
 
-[1991 Golden Apple Awards for Excellence in Teaching](https://americanarchive.org/catalog/cpb-aacip-526-pz51g0k505)</br>
-[1991 Golden Apple Awards for Excellence in Teaching](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j01m)</br>
-[By the Year 2000; Skin Deep [1991-03-22]](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks23)</br>
-[By the Year 2000; Speaking of Young Black Men [1991-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r60c)</br>
-[By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p)</br>
-[By The Year 2000; We Are Family [1991-06-21]](https://americanarchive.org/catalog/cpb-aacip-526-5717m05137)</br>
-[By the Year 2000; The Color of Power [1991-07-12]](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb2k)</br>
-[Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx77)</br>
-[Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796m92)</br>
-[Chicago Matters; Town Meeting](https://americanarchive.org/catalog/cpb-aacip-526-qj77s7k254)</br>
-[Chicago Matters; Town Meeting](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gj68)</br>
-[Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gt3d)</br>
-[Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc2j)</br>
-[Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip-526-pn8x922q41)</br>
-[Chicago Tonight; No. 8171; Juvenile Court](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b3c)</br>
-[Club Connect; No. 5003; The Conflict Resolution Show](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z60f)</br>
-[Diary: Asian Minnesotans](https://americanarchive.org/catalog/cpb-aacip-77-977srw38)</br>
-[Diary: Native American Minnesotans](https://americanarchive.org/catalog/cpb-aacip-77-074tnfhr)</br>
-[Escape From Failure](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr4j)</br>
-[Homework Hotline; No. 158](https://americanarchive.org/catalog/cpb-aacip-526-m32n58dq6q)</br>
-[Intolerance Cycle, The](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s5g)</br>
-[Intolerance Cycle, The](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z144)</br>
-[J.D.'s Journal. No. 101 [1991-01-01]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47324)</br>
-[Lyme Disease: In Our Own Backyard; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-tm71zg8k)</br>
-[Making the Grade 1991; Chicago School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip-526-m901z4321m)</br>
-[Making the Grade 1991; Making the Grade Minutes](https://americanarchive.org/catalog/cpb-aacip-526-wp9t14vx75)</br>
-[Making the Grade 1991; Shopping for Schools: Educational Choices in the 90's](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss4r)</br>
-[Making the Grade 1991; Teach Me!](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qs8t)</br>
-[Mission from the Heart; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-qn5z9f3c)</br>
-[Mississippi Masters; No. 1; John C. Stennis: A Senator's Senator, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31j76)</br>
-[Mississippi Masters; John C. Stennis: A Senator's Senator](https://americanarchive.org/catalog/cpb-aacip-60-203xsm2t)</br>
-[Oregon Field Guide [1991-10-03 & 1991-11-07]](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m472)</br>
-[Outside the Moscow Beltway; Letter from Ukraine & Interview on Kazakhstan [1991-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq1h)</br>
-[Outside the Moscow Beltway; Gary Cook of Baikal Watch [1991-12-30]](https://americanarchive.org/catalog/cpb-aacip-526-0v89g5hb6g)</br>
-[Outside the Moscow Beltway; With Ethel Dunn, on the disabled in the USSR [1992-01-06]](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6kb3k)</br>
-[Outside the Moscow Beltway; Letters from Soviets & talk [1992-01-13]](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw2d)</br>
-[Pacifica's Town Hall Meetings--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp3v)</br>
-[Paradise Lost?](https://americanarchive.org/catalog/cpb-aacip-526-7m03x84n4n)</br>
-[Paradise Lost?](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp6x)</br>
-[States of Mind; Shoshone](https://americanarchive.org/catalog/cpb-aacip-526-5x25b00351)</br>
-[TeenAIDS: Sons and Daughters](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m69v)</br>
-[Totally Radical Teenage Videos](https://americanarchive.org/catalog/cpb-aacip-359-203xspn2)</br>
-[WOSU Radio News; Guns and Drugs for Sale in Columbus](https://americanarchive.org/catalog/cpb-aacip-526-3j39020f3p)</br>
-[WTTW Journal; No. 304; Just Plain Hardworking ... Ten Good Lives [1991-10-23]](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6086s)</br>
-[You've Got That Right; No. 2; Freedom of Speech](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7350n)</br>
-[Your Land, My Land](https://americanarchive.org/catalog/cpb-aacip-153-8605qs1b)</br>
+[1991 Golden Apple Awards for Excellence in Teaching](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=1991+Golden+Apple+Awards+for+Excellence+in+Teaching&f[access_types][]=online) | WTTW</br>
+[By the Year 2000; Skin Deep [1991-03-22]](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks23) | KCET</br>
+[By the Year 2000; Speaking of Young Black Men [1991-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r60c) | KCET</br>
+[By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p) | KCET</br>
+[By The Year 2000; We Are Family [1991-06-21]](https://americanarchive.org/catalog/cpb-aacip-526-5717m05137) | KCET</br>
+[By the Year 2000; The Color of Power [1991-07-12]](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb2k) | KCET</br>
+[Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip/526-2j6833nx77) | WTTW</br>
+[Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip/526-wh2d796m92) | WTTW</br>
+[Chicago Matters; Town Meeting](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=Town+Meeting&f%5Bproducing_organizations%5D%5B%5D=WTTW&f[access_types][]=online) | WTTW</br>
+[Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip/526-4f1mg7gt3d) | WTTW</br>
+[Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip/526-mg7fq9rc2j) | WTTW</br>
+[Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip/526-pn8x922q41) | WTTW</br>
+[Chicago Tonight; No. 8171; Juvenile Court](https://americanarchive.org/catalog/cpb-aacip/526-8p5v699b3c) | WTTW</br>
+[Club Connect; No. 5003; The Conflict Resolution Show](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z60f) | WXYZ | WTVS</br>
+[Diary: Asian Minnesotans](https://americanarchive.org/catalog/cpb-aacip-77-977srw38) | KTCA</br>
+[Diary: Native American Minnesotans](https://americanarchive.org/catalog/cpb-aacip-77-074tnfhr) | KTCA</br>
+[Escape From Failure](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr4j) | KUHT</br>
+[Homework Hotline; No. 158](https://americanarchive.org/catalog/cpb-aacip-526-m32n58dq6q) | WXXI</br>
+[Intolerance Cycle, The](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=The+Intolerance+Cycle&f[access_types][]=online) | WXXI</br>
+[J.D.'s Journal; No. 101 [1991-01-01]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47324) | KUHT</br>
+[Lyme Disease: In Our Own Backyard; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-tm71zg8k) | Connecticut Public Broadcasting Network</br>
+[Making the Grade 1991; Chicago School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip/526-m901z4321m) | WTTW</br>
+[Making the Grade 1991; Making the Grade Minutes](https://americanarchive.org/catalog/cpb-aacip/526-wp9t14vx75) | WTTW</br>
+[Making the Grade 1991; Shopping for Schools: Educational Choices in the 90's](https://americanarchive.org/catalog/cpb-aacip/526-901zc7ss4r) | WTTW</br>
+[Making the Grade 1991; Teach Me!](https://americanarchive.org/catalog/cpb-aacip/526-r20rr1qs8t) | WTTW</br>
+[Mission from the Heart; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-qn5z9f3c) | New Jersey Network</br>
+[Mississippi Masters; No. 1; John C. Stennis: A Senator's Senator](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=John+C.+Stennis%3A+A+Senator%27s+Senator&f[access_types][]=online) | Mississippi Educational Television</br>
+[Oregon Field Guide [1991-10-03 & 1991-11-07]](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m472) | Oregon Public Broadcasting</br>
+[Outside the Moscow Beltway; Letter from Ukraine & Interview on Kazakhstan [1991-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq1h) | KPFA</br>
+[Outside the Moscow Beltway; Gary Cook of Baikal Watch [1991-12-30]](https://americanarchive.org/catalog/cpb-aacip-526-0v89g5hb6g) | KPFA</br>
+[Outside the Moscow Beltway; With Ethel Dunn, on the disabled in the USSR [1992-01-06]](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6kb3k) | KPFA</br>
+[Outside the Moscow Beltway; Letters from Soviets & talk [1992-01-13]](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw2d) | KPFA</br>
+[Pacifica's Town Hall Meetings--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp3v) | KPFA</br>
+[Paradise Lost?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Paradise+Lost%3F) | KCTS</br>
+[States of Mind; Shoshone](https://americanarchive.org/catalog/cpb-aacip-526-5x25b00351) | British Broadcasting Corporation | Idaho Public Television</br>
+[TeenAIDS: Sons and Daughters](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m69v) | KCET</br>
+[Totally Radical Teenage Videos](https://americanarchive.org/catalog/cpb-aacip-359-203xspn2) | KET</br>
+[WOSU Radio News; Guns and Drugs for Sale in Columbus](https://americanarchive.org/catalog/cpb-aacip-526-3j39020f3p) | WOSU</br>
+[WTTW Journal; No. 304; Just Plain Hardworking ... Ten Good Lives [1991-10-23]](https://americanarchive.org/catalog/cpb-aacip/526-4q7qn6086s) | WTTW</br>
+[You've Got That Right; No. 2; Freedom of Speech](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7350n) | Mississippi Educational Television</br>
+[Your Land, My Land](https://americanarchive.org/catalog/cpb-aacip-153-8605qs1b) | Oregon Public Broadcasting</br>
 
 ##### 1992
 
-[A Chance to Talk; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk3j)</br>
-[Assignment: The World [1992-10-29]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87418k)</br>
-[Austin at Issue: Help Wanted; No. 1, Work Force Issues](https://americanarchive.org/catalog/cpb-aacip-526-hm52f7kz5m)</br>
-[Austin at Issue: Help Wanted; No. 2, Social Problems](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq2t)</br>
-[Austin at Issue: Help Wanted; No. 3, Minority Equity](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv8d)</br>
-[Austin at Issue: Help Wanted; No. 4, Teachers Issues](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r258)</br>
-[Austin at Issue: Help Wanted; No. 5, Cultural Values](https://americanarchive.org/catalog/cpb-aacip-526-t72794253n)</br>
-[Chicago Matters; Celebrity Spots](https://americanarchive.org/catalog/cpb-aacip-526-th8bg2jm3n)</br>
-[Gorbachev at Westminster College](https://americanarchive.org/catalog/cpb-aacip-110-35gb5r94)</br>
-[Gorbachev at Westminster College](https://americanarchive.org/catalog/cpb-aacip-110-16pzgptq)</br>
-[Gorbachev at Westminster College, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-rj48p5wm2q)</br>
-[Headline: Youth Violence](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q32d)</br>
-[Health of the Heartland](https://americanarchive.org/catalog/cpb-aacip-17-81jhbz0g)</br>
-[Help Wanted Electronic Townmeeting](https://americanarchive.org/catalog/cpb-aacip-526-959c53g35b)</br>
-[Homework Hotline [1992-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f864)</br>
-[I'm Really Going to Miss Me](https://americanarchive.org/catalog/cpb-aacip-153-06sxkvzn)</br>
-[Inside Hunger](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82w4m)</br>
-[KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw41)</br>
-[KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris, Part 2](https://americanarchive.org/catalog/cpb-aacip-167e58dd8b3)</br>
-[Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb17)</br>
-[Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-3f4kk9598q)</br>
-[Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-154dn40t1g)</br>
-[Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c995)</br>
-[Life & Times; No. 168; Young L.A.: Rage & Responsibility; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c69m)</br>
-[Life & Times; Straight Hate [1992-10-29]](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx8k)</br>
-[Life & Times; No. 158](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w710)</br>
-[Life & Times; Return to King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010p7p)</br>
-[MacNeil/Lehrer NewsHour; L.A. Riot; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-nk3610x19q)</br>
-[Massacre: The Story of East Timor](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n0g)</br>
-[Multi-Cultural; Mission Statement](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn9q)</br>
-[New explorers; No. 201; Journey to Save a Crane](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k765)</br>
-[New explorers; No. 202; Voices in Stone](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qm7x)</br>
-[New explorers; No. 203; Test Tube Zoo](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s77j)</br>
-[New explorers; No. 204; The Beauty of the Beast](https://americanarchive.org/catalog/cpb-aacip-526-833mw29f17)</br>
-[New explorers; No. 206; The Storm Within](https://americanarchive.org/catalog/cpb-aacip-526-542j679w3m)</br>
-[New explorers; No. 207; Language of Science](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h9n)</br>
-[New explorers; No. 208; Rivers of Fire](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fn4z)</br>
-[New explorers; No. 209; Creating an Ocean](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n20v)</br>
-[New explorers; No. 210; Rock and Roll Physics](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r6r)</br>
-[New explorers; No. 211; Fragments of Time](https://americanarchive.org/catalog/cpb-aacip-526-n872v2dj7d)</br>
-[New explorers; No. 212; Catching the Sun](https://americanarchive.org/catalog/cpb-aacip-526-9c6rx94d1t)</br>
-[New explorers; No. 213; Adventure of Discovery](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s25b)</br>
-[New explorers; Peabody Presentation of Second Season](https://americanarchive.org/catalog/cpb-aacip-526-db7vm43z6h)</br>
-[Newton's Apple; No. 1001](https://americanarchive.org/catalog/cpb-aacip-77-24jm6zc8)</br>
-[Newton's Apple; No. 1004](https://americanarchive.org/catalog/cpb-aacip-77-35t77b2v)</br>
-[Newton's Apple; No. 1005](https://americanarchive.org/catalog/cpb-aacip-77-150gbxw9)</br>
-[Newton's Apple; No. 1006](https://americanarchive.org/catalog/cpb-aacip-77-41mgrkk9)</br>
-[Nightly Business Report, The; Starting a Business Month](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04482)</br>
-[Nightly Business Report, The; The Money Chase Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z64p)</br>
-[Read to Me; No. 6; The Chessmen of Doom [1992-06-08]](https://americanarchive.org/catalog/cpb-aacip-245-032280s8)</br>
-[Remembering David](https://americanarchive.org/catalog/cpb-aacip-83-074tmx7h)</br>
-[Savalot's Energy Secrets](https://americanarchive.org/catalog/cpb-aacip-17-23hx46v6)</br>
-[Senior Fair: A Consumers Guide](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq7g)</br>
-[Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j)</br>
-[WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d)</br>
-[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog/cpb-aacip-526-086348hf5p)</br>
-[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010q3q)</br>
-[WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t33)</br>
-[WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip-526-kk9474807c)</br>
+[A Chance to Talk; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk3j) | KCET</br>
+[Assignment: The World [1992-10-29]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87418k) | WXXI</br>
+[Austin at Issue: Help Wanted; No. 1; Work Force Issues](https://americanarchive.org/catalog/cpb-aacip-526-hm52f7kz5m) | KLRU</br>
+[Austin at Issue: Help Wanted; No. 2; Social Problems](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq2t) | KLRU</br>
+[Austin at Issue: Help Wanted; No. 3; Minority Equity](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv8d) | KLRU</br>
+[Austin at Issue: Help Wanted; No. 4; Teachers Issues] [title from videocassette]](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r258) | KLRU</br>
+[Austin at Issue: Help Wanted; No 5; Cultural Values] [title from videocassette]](https://americanarchive.org/catalog/cpb-aacip-526-t72794253n) | KLRU</br>
+[Chicago Matters; Celebrity Spots](https://americanarchive.org/catalog/cpb-aacip-526-th8bg2jm3n) | WTTW</br>
+[Gorbachev at Westminster College](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Gorbachev+at+Westminster+College) | KETC</br>
+[Headline: Youth Violence](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q32d) | WXXI</br>
+[Health of the Heartland](https://americanarchive.org/catalog/cpb-aacip-17-81jhbz0g) | Louisiana Public Broadcasting</br>
+[Help Wanted Electronic Townmeeting](https://americanarchive.org/catalog/cpb-aacip-526-959c53g35b) | KLRU</br>
+[Homework Hotline [1992-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f864) | WXXI</br>
+[I'm Really Going to Miss Me](https://americanarchive.org/catalog/cpb-aacip-153-06sxkvzn) | KOPB</br>
+[Inside Hunger](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82w4m) | Georgia Public Television</br>
+[KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Death+Penalty+and+the+Execution+of+Robert+Alton+Harris&sort=title+asc) | KPFA</br>
+[Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Special+Edition%3A+After+the+Verdict) | KCET</br>
+[Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Special+Edition%3A+Exit+King+Blvd.) | KCET</br>
+[Life & Times; No. 168; Young L.A.: Rage & Responsibility; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c69m) | KCET</br>
+[Life & Times; Straight Hate [1992-10-29]](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx8k) | KCET</br>
+[Life & Times; No. 158](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w710) | KCET</br>
+[Life & Times; Return to King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010p7p) | KCET</br>
+[MacNeil/Lehrer NewsHour; L.A. Riot; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-nk3610x19q) | KCET</br>
+[Massacre: The Story of East Timor](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n0g) | Pacifica Radio | WBAI</br>
+[Multi-Cultural; Mission Statement](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn9q) | Connecticut Public Television</br>
+[New explorers; No. 201; Journey to Save a Crane](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k765) | WTTW</br>
+[New explorers; No. 202; Voices in Stone](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qm7x) | WTTW</br>
+[New explorers; No. 203; Test Tube Zoo](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s77j) | WTTW</br>
+[New explorers; No. 204; The Beauty of the Beast](https://americanarchive.org/catalog/cpb-aacip-526-833mw29f17) | WTTW</br>
+[New explorers; No. 206; The Storm Within](https://americanarchive.org/catalog/cpb-aacip-526-542j679w3m) | WTTW</br>
+[New explorers; No. 207; Language of Science](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h9n) | WTTW</br>
+[New explorers; No. 208; Rivers of Fire](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fn4z) | WTTW</br>
+[New explorers; No. 209; Creating an Ocean](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n20v) | WTTW</br>
+[New explorers; No. 210; Rock and Roll Physics](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r6r) | WTTW</br>
+[New explorers; No. 211; Fragments of Time](https://americanarchive.org/catalog/cpb-aacip-526-n872v2dj7d) | WTTW</br>
+[New explorers; No. 212; Catching the Sun](https://americanarchive.org/catalog/cpb-aacip-526-9c6rx94d1t) | WTTW</br>
+[New explorers; No. 213; Adventure of Discovery](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s25b) | WTTW</br>
+[New explorers; Peabody Presentation of Second Season](https://americanarchive.org/catalog/cpb-aacip-526-db7vm43z6h) | WTTW</br>
+[Newton's Apple; No. 1001](https://americanarchive.org/catalog/cpb-aacip-77-24jm6zc8) | KTCA</br>
+[Newton's Apple; No. 1004](https://americanarchive.org/catalog/cpb-aacip-77-35t77b2v) | KTCA</br>
+[Newton's Apple; No. 1005](https://americanarchive.org/catalog/cpb-aacip-77-150gbxw9) | KTCA</br>
+[Newton's Apple; No. 1006](https://americanarchive.org/catalog/cpb-aacip-77-41mgrkk9) | KTCA</br>
+[Nightly Business Report, The; Starting a Business Month](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04482) | WPBT</br>
+[Nightly Business Report, The; The Money Chase Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z64p) | WPBT</br>
+[Read to Me; No. 6; The Chessmen of Doom [1992-06-08]](https://americanarchive.org/catalog/cpb-aacip-245-032280s8) | Maine Public Broadcasting</br>
+[Remembering David](https://americanarchive.org/catalog/cpb-aacip-83-074tmx7h) | KUED</br>
+[Savalot's Energy Secrets](https://americanarchive.org/catalog/cpb-aacip-17-23hx46v6) | Louisiana Public Broadcasting</br>
+[Senior Fair: A Consumers Guide](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq7g) | WTTW</br>
+[Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j) | KCET</br>
+[WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d) | WHRO</br>
+[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=WTTW+1992+Election+Coverage+Composite) | WTTW</br>
+[WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip/526-ms3jw87t33) | WTTW</br>
+[WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip/526-kk9474807c) | WTTW</br>
 
 ##### 1993
 
-[A Moment of Science; 1993 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d21w)</br>
-[A Plact to Call Home; No. 3; Home at Last](https://americanarchive.org/catalog/cpb-aacip-52-13zs7jkw)</br>
-[Adult Literacy in Fairbanks](https://americanarchive.org/catalog/cpb-aacip-526-dv1cj88p9d)</br>
-[Almanac; Shades of Truth [1993-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv57)</br>
-[Altered States](https://americanarchive.org/catalog/cpb-aacip-189-73bzkqmj)</br>
-[And Learning For All; No. 1; What's Ahead: Where Learning is Going in America](https://americanarchive.org/catalog/cpb-aacip-52-85n8ptqm)</br>
-[And Learning For All; No. 4; You Knew That! Cultivating Excellence in Math and Science](https://americanarchive.org/catalog/cpb-aacip-52-84zgn1wb)</br>
-[Assignment: The World](https://americanarchive.org/catalog/cpb-aacip-526-833mw29d9f)</br>
-[Audre Lorde: A Burst of Light](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx6k)</br>
-[Chicago Matters; Ghetto Life 101](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q48x)</br>
-[Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk9d)</br>
-[Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m74k)</br>
-[Chicago Matters on Race; No. 403; WTTW Journal; The Cost of Racism [1993-05-19]](https://americanarchive.org/catalog/cpb-aacip-526-9k45q4sq20)</br>
-[Chicago Matters; It's About Race: Coloring the Pipeline: Race & Drugs](https://americanarchive.org/catalog/cpb-aacip-526-x639z91v3n)</br>
-[Chicago Public Schools: At the Crossroads; No. 101; Good Schools, Work in Progress](https://americanarchive.org/catalog/cpb-aacip-526-x639z91q1x)</br>
-[Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog/cpb-aacip-526-s46h12wg7n)</br>
-[Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0rz4b)</br>
-[Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg4c)</br>
-[Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h42)</br>
-[Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98)</br>
-[Conscience of a Congressman: The Life and Times of Carl Elliott](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh61)</br>
-[Dakota Conflict, The](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp07)</br>
-[Down In the Dumps: America's Garbage Crisis](https://americanarchive.org/catalog/cpb-aacip-394-40ksn908)</br>
-[Father's Daze](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n126)</br>
-[Hell's Bells promotional spots](https://americanarchive.org/catalog/cpb-aacip-526-3t9d50gx48)</br>
-[Hell's Bells: A Radio History of the Telephone; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-862b854k5w)</br>
-[Hell's Bells: A Radio History of the Telephone; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx7w)</br>
-[Hell's Bells: A Radio History of the Telephone; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk08588)</br>
-[Hell's Bells: A Radio History of the Telephone; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr3x)</br>
-[Hell's Bells: A Radio History of the Telephone; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft23)</br>
-[Hell's Bells: A Radio History of the Telephone; No. 6](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s81z)</br>
-[Hell's Bells: A Radio History of the Telephone; No. 7](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf6s)</br>
-[Hell's Bells: A Radio History of the Telephone; No. 8](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87419w)</br>
-[Last Minority, The](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sk9j)</br>
-[Latino USA; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-g44hm53p4v)</br>
-[Latino USA; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-5x25b0036b)</br>
-[Latino USA; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q89)</br>
-[Latino USA; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-s17sn02b64)</br>
-[Life and Times; L.A. Medical. Dr. Michael Zinner [1993-10-05]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh4d)</br>
-[Life and Times; L.A. Medical. Dr. Keith Black [1993-10-06]](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18tf21)</br>
-[Life and Times; No. 411; Firefight [1993-12-07]](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc7r)</br>
-[Live coverage of Senate Rules Committee Hearing](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n6d)</br>
-[Live coverage of U.S. Senate debates on the Ethics Committee's subpoena for Senator Packwood's Diaries, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-g44hm53p55)</br>
-[Live coverage of U.S. Senate debates on the Ethics Committee's subpoena for Senator Packwood's Diaries, Part 2](https://americanarchive.org/catalog/cpb-aacip-7471ee91681)</br>
-[Live coverage of U.S. Senate debates on the Ethics Committee's subpoena for Senator Packwood's Diaries, Part 3](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r61p)</br>
-[Live coverage of U.S. Senate debates on the Ethics Committee's subpoena for Senator Packwood's Diaries, Part 4](https://americanarchive.org/catalog/cpb-aacip-7681bf8198f)</br>
-[Live coverage of U.S. Senate debates on the Ethics Committee's subpoena for Senator Packwood's Diaries, Part 5](https://americanarchive.org/catalog/cpb-aacip-526-vx05x26q86)</br>
-[Live coverage of U.S. Senate debates on the Ethics Committee's subpoena for Senator Packwood's Diaries, Part 6](https://americanarchive.org/catalog/cpb-aacip-f538859fd35)</br>
-[Mayoral Debates, The](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0rz8k)</br>
-[Mine Eyes Have Seen the Glory; No. 101; America's Folk Religion](https://americanarchive.org/catalog/cpb-aacip-526-z892806c9c)</br>
-[Mine Eyes Have Seen the Glory; No. 102; The Making of a Subculture](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h9x)</br>
-[Mine Eyes Have Seen the Glory; No. 103; The Coming of Age](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gm6k)</br>
-[Mini-Dragons II; Malaysia: 2020 Vision](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x33v)</br>
-[New Explorers, The; Series III; No. 301; The Fragile Fossil [1993-03-02]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7689s)</br>
-[New Explorers, The; Series III; No. 302; The Dream Fulfilled [1993-03-02]](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc2g)</br>
-[New Explorers, The; Series III; No. 303; The Great Chicago Flood [1993-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m181)</br>
-[New Explorers, The; Series III; No. 304; Running out of Time [1993-04-05]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f953)</br>
-[New Explorers, The; Series III; No. 307; Orphans of Time [1993-04-07]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f88r)</br>
-[New Explorers, The; Series III; No. 308; Super Seeds](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73879s)</br>
-[New Explorers, The; Series III; No. 309; Spiral of Silence [1993-11-18]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px2n)</br>
-[New Explorers, The; Series III; No. 310; Dive Into Darkness](https://americanarchive.org/catalog/cpb-aacip-526-bg2h709313)</br>
-[New Explorers, The; Series III; No. 312; Earthquakes [1993-06-04]](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq4j)</br>
-[New Explorers, The; Series III; No. 313; Childen of the River [1993-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k78)</br>
-[Nightly Business Report, The; 1993 Compilation of Edited Highlights](https://americanarchive.org/catalog/cpb-aacip-526-599z03057r)</br>
-[Nightly Business Report, The; 1993 Compilation of Unedited Daily Program Segments](https://americanarchive.org/catalog/cpb-aacip-526-s46h12wg8z)</br>
-[Nightly Business Report, The; How to Plan Your Estate (or Inheritance)](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h04m)</br>
-[Oregon Considered; Coverage of Senator Packwood in Oregon](https://americanarchive.org/catalog/cpb-aacip-526-xg9f47j547)</br>
-[Oregon Considered; Coverage of Senator Packwood in Oregon, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z57b)</br>
-[Oregon Considered; Coverage of Senator Packwood in Oregon, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-pz51g0k52s)</br>
-[Oregon Considered; Coverage of Senator Packwood in Oregon, Part 2](https://americanarchive.org/catalog/cpb-aacip-6937b1a7add)</br>
-[Oregon Considered; Coverage of Senator Packwood in Oregon, Part 2](https://americanarchive.org/catalog/cpb-aacip-894f67a7f5e)</br>
-[Parenting in the '90s; 1993 compilation](https://americanarchive.org/catalog/cpb-aacip-526-4m9183543p)</br>
-[Really Short Show](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j02x)</br>
-[Trading Attitudes](https://americanarchive.org/catalog/cpb-aacip-153-78gf24gz)</br>
-[Wall Street Week; No. 2248; W$W With Louis Rukeyser in Japan](https://americanarchive.org/catalog/cpb-aacip-394-612ngsdn)</br>
-[WTTW Journal; Africa: A View From the Field [1993-11-17]](https://americanarchive.org/catalog/cpb-aacip-526-tb0xp6w929)</br>
-[WTTW Journal; About the Children: School Reform Year IV](https://americanarchive.org/catalog/cpb-aacip-526-4x54f1nj6c)</br>
-[WXXI Radio News; Young, Black and in Rochester, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg3z)</br>
-[WXXI Radio News; Young, Black and in Rochester, Part 2](https://americanarchive.org/catalog/cpb-aacip-c45018d4baf)</br>
+[A Moment of Science; 1993 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d21w) | WFIU</br>
+[A Plact to Call Home; No. 3; Home at Last](https://americanarchive.org/catalog/cpb-aacip-52-13zs7jkw) | KRMA</br>
+[Adult Literacy in Fairbanks](https://americanarchive.org/catalog/cpb-aacip-526-dv1cj88p9d) | KUAC</br>
+[Almanac; Shades of Truth [1993-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv57) | KUHT</br>
+[Altered States](https://americanarchive.org/catalog/cpb-aacip-189-73bzkqmj) | WXXI</br>
+[And Learning For All; No. 1; What's Ahead: Where Learning is Going in America](https://americanarchive.org/catalog/cpb-aacip-52-85n8ptqm) | KRMA</br>
+[And Learning For All; No. 4; You Knew That! Cultivating Excellence in Math and Science](https://americanarchive.org/catalog/cpb-aacip-52-84zgn1wb) | KRMA</br>
+[Assignment: The World](https://americanarchive.org/catalog/cpb-aacip-526-833mw29d9f) | WXXI</br>
+[Audre Lorde: A Burst of Light](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx6k) | KPFA</br>
+[Chicago Matters; Ghetto Life 101](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q48x) | Sound Portraits Productions | WBEZ</br>
+[Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Combating+Racism%3A+Where+to+Begin&sort=title+asc) | WTTW</br>
+[Chicago Matters on Race; No. 403; WTTW Journal; The Cost of Racism [1993-05-19]](https://americanarchive.org/catalog/cpb-aacip/526-9k45q4sq20) | WTTW</br>
+[Chicago Matters; It's About Race: Coloring the Pipeline: Race & Drugs](https://americanarchive.org/catalog/cpb-aacip-526-x639z91v3n) | WBEZ</br>
+[Chicago Public Schools: At the Crossroads; No. 101; Good Schools, Work in Progress](https://americanarchive.org/catalog/cpb-aacip/526-x639z91q1x) | WTTW</br>
+[Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Structure+and+Leadership&sort=title+asc) | WTTW</br>
+[Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Bottom+Line&sort=title+asc) | WTTW</br>
+[Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98) | KUHT</br>
+[Conscience of a Congressman: The Life and Times of Carl Elliott](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh61) | University of Alabama</br>
+[Dakota Conflict, The](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp07) | Twin Cities Public Television</br>
+[Down In the Dumps: America's Garbage Crisis](https://americanarchive.org/catalog/cpb-aacip-394-40ksn908) | Maryland Public Television</br>
+[Father's Daze](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n126) | Twin Cities Public Television</br>
+[Hell's Bells promotional spots](https://americanarchive.org/catalog/cpb-aacip-526-3t9d50gx48) | KPFA</br>
+[Hell's Bells: A Radio History of the Telephone; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-862b854k5w) | KPFA</br>
+[Hell's Bells: A Radio History of the Telephone; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx7w) | KPFA</br>
+[Hell's Bells: A Radio History of the Telephone; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk08588) | KPFA</br>
+[Hell's Bells: A Radio History of the Telephone; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr3x) | KPFA</br>
+[Hell's Bells: A Radio History of the Telephone; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft23) | KPFA</br>
+[Hell's Bells: A Radio History of the Telephone; No. 6](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s81z) | KPFA</br>
+[Hell's Bells: A Radio History of the Telephone; No. 7](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf6s) | KPFA</br>
+[Hell's Bells: A Radio History of the Telephone; No. 8](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87419w) | KPFA</br>
+[Last Minority, The](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sk9j) | Arkansas Educational Television Network</br>
+[Latino USA; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-g44hm53p4v) | University of Texas at Austin Center for Mexican American Studies | KUT Radio</br>
+[Latino USA; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-5x25b0036b) | University of Texas at Austin Center for Mexican American Studies | KUT Radio</br>
+[Latino USA; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q89) | University of Texas at Austin Center for Mexican American Studies | KUT Radio</br>
+[Latino USA; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-s17sn02b64) | University of Texas at Austin Center for Mexican American Studies | KUT Radio</br>
+[Life and Times; L.A. Medical. Dr. Michael Zinner [1993-10-05]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh4d) | KCET</br>
+[Life and Times; L.A. Medical. Dr. Keith Black [1993-10-06]](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18tf21) | KCET</br>
+[Life and Times; No. 411; Firefight [1993-12-07]](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc7r) | KCET</br>
+[Live coverage of Senate Rules Committee Hearing](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n6d) | Oregon Public Broadcasting</br>
+[Live coverage of U.S. Senate debates on the Ethics Committee's subpoena for Senator Packwood's Diaries](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Live+coverage+of+U.S.+Senate+debates+on+the+Ethics+Committee%27s+subpoena+for+Senator+Packwood%27s+Diaries%22&sort=title+asc) | Oregon Public Broadcasting</br>
+[Mayoral Debates, The](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0rz8k) | WXXI</br>
+[Mine Eyes Have Seen the Glory; No. 101; America's Folk Religion](https://americanarchive.org/catalog/cpb-aacip-526-z892806c9c) | WTTW</br>
+[Mine Eyes Have Seen the Glory; No. 102; The Making of a Subculture](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h9x) | WTTW</br>
+[Mine Eyes Have Seen the Glory; No. 103; The Coming of Age](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gm6k) | WTTW</br>
+[Mini-Dragons II; Malaysia: 2020 Vision](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x33v) | Maryland Public Television</br>
+[New Explorers, The; Series III; No. 301; The Fragile Fossil [1993-03-02]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7689s) | WTTW</br>
+[New Explorers, The; Series III; No. 302; The Dream Fulfilled [1993-03-02]](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc2g) | WTTW</br>
+[New Explorers, The; Series III; No. 303; The Great Chicago Flood [1993-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m181) | WTTW</br>
+[New Explorers, The; Series III; No. 304; Running out of Time [1993-04-05]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f953) | WTTW</br>
+[New Explorers, The; Series III; No. 307; Orphans of Time [1993-04-07]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f88r) | WTTW</br>
+[New Explorers, The; Series III; No. 308; Super Seeds](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73879s) | WTTW</br>
+[New Explorers, The; Series III; No. 309; Spiral of Silence [1993-11-18]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px2n) | WTTW</br>
+[New Explorers, The; Series III; No. 310; Dive Into Darkness](https://americanarchive.org/catalog/cpb-aacip-526-bg2h709313) | WTTW</br>
+[New Explorers, The; Series III; No. 312; Earthquakes [1993-06-04]](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq4j) | WTTW</br>
+[New Explorers, The; Series III; No. 313; Childen of the River [1993-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k78) | WTTW</br>
+[Nightly Business Report, The; 1993 Compilation of Edited Highlights](https://americanarchive.org/catalog/cpb-aacip-526-599z03057r) | WPBT</br>
+[Nightly Business Report, The; 1993 Compilation of Unedited Daily Program Segments](https://americanarchive.org/catalog/cpb-aacip-526-s46h12wg8z) | WPBT</br>
+[Nightly Business Report, The; How to Plan Your Estate (or Inheritance)](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h04m) | WPBT</br>
+[Oregon Considered; Coverage of Senator Packwood in Oregon](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Coverage+of+Senator+Packwood+in+Oregon%22) | Oregon Public Broadcasting</br>
+[Parenting in the '90s; 1993 compilation](https://americanarchive.org/catalog/cpb-aacip-526-4m9183543p) | New Jersey Network</br>
+[Really Short Show](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j02x) | Rocky Mountain PBS</br>
+[Trading Attitudes](https://americanarchive.org/catalog/cpb-aacip-153-78gf24gz) | Oregon Public Broadcasting</br>
+[Wall Street Week; No. 2248; W$W With Louis Rukeyser in Japan](https://americanarchive.org/catalog/cpb-aacip-394-612ngsdn) | Maryland Public Television</br>
+[WTTW Journal; Africa: A View From the Field [1993-11-17]](https://americanarchive.org/catalog/cpb-aacip/526-tb0xp6w929) | WTTW</br>
+[WTTW Journal; About the Children: School Reform Year IV](https://americanarchive.org/catalog/cpb-aacip/526-4x54f1nj6c) | WTTW</br>
+[WXXI Radio News; Young, Black and in Rochester](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Young%2C+Black+and+in+Rochester&sort=title+asc) | WXXI Public Broadcasting</br>
 
 ##### 1994
 
-[A Man and a School: The Providence St. Mel Story](https://americanarchive.org/catalog/cpb-aacip-526-qb9v11ws0s)</br>
-[A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-526-154dn40t05)</br>
-[A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-526-9z90864b0h)</br>
-[A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r72)</br>
-[A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-babc6f22bf0)</br>
-[A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-7da857870bd)</br>
-[A Tribute to Glenn Miller](https://americanarchive.org/catalog/cpb-aacip-230808342e1)</br>
-[Assembly Week; No. 702](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b967)</br>
-[Berlin Calling](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zr10)</br>
-[Beyond Survival](https://americanarchive.org/catalog/cpb-aacip-387-1937pxx3)</br>
-[Beyond Survival](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g679)</br>
-[Bridges: A Liberal/Conservative Dialogue with Larry Josephson; No. 6; Shelby Steel: Portrait of a Black Conservative, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-db7vm43z7t)</br>
-[Bridges: A Liberal/Conservative Dialogue with Larry Josephson. No. 6; Shelby Steel: Portrait of a Black Conservative, Part 2](https://americanarchive.org/catalog/cpb-aacip-cbc38e9e317)</br>
-[Crusade: The Life of Billy Graham](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr2m)</br>
-[D-Day Plus 50: Louisiana Remembers](https://americanarchive.org/catalog/cpb-aacip-17-65v6xv27)</br>
-[Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc2k)</br>
-[Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md17)</br>
-[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js8p)</br>
-[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog/cpb-aacip-526-m32n58dr1f)</br>
-[Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn8d)</br>
-[Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t)</br>
-[Fear on the Inside: A Story of Domestic Violence](https://americanarchive.org/catalog/cpb-aacip-526-xp6tx36f7q)</br>
-[Forgotten Mothers and Children of the AIDS Epidemic, The](https://americanarchive.org/catalog/cpb-aacip-da9aab32b16)</br>
-[Forgotten Mothers and Children of the AIDS Epidemic, The](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts7t)</br>
-[Forum with Michael Krasny; Aids & Politics [1994-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r70)</br>
-[Forum with Michael Krasny; Murray Gell Mann [1994-05-05]](https://americanarchive.org/catalog/cpb-aacip-526-2n4zg6h28z)</br>
-[Forum with Michael Krasny; Rwanda [1994-05-18]](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg71)</br>
-[Forum with Michael Krasny; Town Hall Meeting [1994-10-05]](https://americanarchive.org/catalog/cpb-aacip-526-w66930q65z)</br>
-[Forum with Michael Krasny; California Votes: Health Care [1994-11-04]](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j6z)</br>
-[Forum with Michael Krasny; California Votes: Health Care [1994-11-04]](https://americanarchive.org/catalog/cpb-aacip-a9e29ff9023)</br>
-[From Death Row: This is Mumia Abu-Jamal, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r0w)</br>
-[From Death Row: This is Mumia Abu-Jamal, Part 2](https://americanarchive.org/catalog/cpb-aacip-835c2a5634d)</br>
-[Gone But Not Forgotten](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fm8x)</br>
-[Heart of the City; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-7940r9n633)</br>
-[High School Communications Partnership](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx9v)</br>
-[KTCA News; Jamie Butcher's Right to Die](https://americanarchive.org/catalog/cpb-aacip-526-9c6rx94d52)</br>
-[KTCA News; Toxic Testing](https://americanarchive.org/catalog/cpb-aacip-526-x05x63cd6n)</br>
-[Lake Superior Trials](https://americanarchive.org/catalog/cpb-aacip-526-154dn40s6r)</br>
-[Live-- From Other Worlds; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g093)</br>
-[Newton's Apple; No. 1201 [1994-08-12]](https://americanarchive.org/catalog/cpb-aacip-77-741rp8nv)</br>
-[On the Media; Getting It Wrong; Nixon and the Press [1994-05-08]](https://americanarchive.org/catalog/cpb-aacip-b8c5c70c007)</br>
-[On the Media; [1994-09-25]](https://americanarchive.org/catalog/cpb-aacip-e36d317600d)</br>
-[On the Media; Science Reporting; Haiti, the Press and U.S. Policy [1994-09-25]](https://americanarchive.org/catalog/cpb-aacip-f93f7d61385)</br>
-[On the Media; Getting it Wrong; Nixon and the Press](https://americanarchive.org/catalog/cpb-aacip-526-5t3fx74z0q)</br>
-[On the Media; Getting it Wrong; Nixon and the Press, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-qf8jd4qw5b)</br>
-[On the Media; Getting it Wrong; Nixon and the Press, Part 2](https://americanarchive.org/catalog/cpb-aacip-c8fd7478ae8)</br>
-[On the Media; Haiti, the Press and U.S. Policy; Science Reporting](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w48p)</br>
-[On the Media; When the Mighty Fall: Ethics, News Judgment, Sourcing & O.J. Simpson, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-h41jh3f66z)</br>
-[On the Media; When the Mighty Fall: Ethics, News Judgment, Sourcing & O.J. Simpson, Part 2](https://americanarchive.org/catalog/cpb-aacip-ecad8c94a21)</br>
-[On the Media; Radiation Experiments: Getting the Story, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-pz51g0k46r)</br>
-[On the Media; Radiation Experiments: Getting the Story, Part 2](https://americanarchive.org/catalog/cpb-aacip-1d982f9a953)</br>
-[On the Media; Science Reporting; Haiti, the Press and U.S. Policy](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c49h)</br>
-[OPB on Behalf of Children: Immunize Now!](https://americanarchive.org/catalog/cpb-aacip-526-rx9377760z)</br>
-[Oregon Field Guide Education Program; Focus on Organisms, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w42t)</br>
-[Oregon Field Guide Education Program; Focus on Organisms, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp7d)</br>
-[Oregon Field Guide Education Program; Focus on Places](https://americanarchive.org/catalog/cpb-aacip-526-s17sn02b2w)</br>
-[Oregon Field Guide Education Program; Focus on Places](https://americanarchive.org/catalog/cpb-aacip-526-r785h7d42d)</br>
-[Remembering Chicago](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc9d)</br>
-[Schools of the Future: Learning On-Line](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh3c)</br>
-[South Africa: New Carolina Partnerships](https://americanarchive.org/catalog/cpb-aacip-526-959c53g30s)</br>
-[St. Louis Chronicles; City on the Air](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r9m)</br>
-[To the Contrary; U.N. Conference on Population and Development [1994-09-09]](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s561)</br>
-[Vietnam: At the Crossroads](https://americanarchive.org/catalog/cpb-aacip-55-451g2gb6)</br>
-[WHRO Non-Broadcast Educational Activities](https://americanarchive.org/catalog/cpb-aacip-526-8c9r20sw6x)</br>
-[Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k2w)</br>
-[Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r2h)</br>
-[WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h8b)</br>
-[WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7685j)</br>
-[Zoo Man](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h3r)</br>
+[A Man and a School: The Providence St. Mel Story](https://americanarchive.org/catalog/cpb-aacip/526-qb9v11ws0s) | WTTW</br>
+[A Tribute to Glenn Miller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=A+Tribute+to+Glenn+Miller) | WXXI</br>
+[Assembly Week; No. 702](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b967) | WHRO</br>
+[Berlin Calling](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zr10) | WUGA</br>
+[Beyond Survival](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Beyond+Survival) | WHRO</br>
+[Bridges: A Liberal/Conservative Dialogue with Larry Josephson; No. 6; Shelby Steel: Portrait of a Black Conservative [1994-08-14]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Bridges%3A+A+Liberal%2FConservative+Dialogue+with+Larry+Josephson&sort=title+asc) | WNYC</br>
+[Crusade: The Life of Billy Graham](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr2m) | WTTW</br>
+[D-Day Plus 50: Louisiana Remembers](https://americanarchive.org/catalog/cpb-aacip-17-65v6xv27) | WLPB</br>
+[Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip/526-w950g3jc2k) | WTTW</br>
+[Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip/526-dn3zs2md17) | WTTW</br>
+[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Breaking+the+Cycle) | WTTW</br>
+[Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip/526-4b2x34nn8d) | WTTW</br>
+[Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t) | Vermont ETV</br>
+[Fear on the Inside: A Story of Domestic Violence](https://americanarchive.org/catalog/cpb-aacip-526-xp6tx36f7q) | WBEZ</br>
+[Forgotten Mothers and Children of the AIDS Epidemic, The](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+Forgotten+Mothers+and+Children+of+the+AIDS+Epidemic&sort=title+asc) | Connecticut Public Radio</br>
+[Forum with Michael Krasny; Aids & Politics [1994-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r70) | KQED</br>
+[Forum with Michael Krasny; Murray Gell Mann [1994-05-05]](https://americanarchive.org/catalog/cpb-aacip-526-2n4zg6h28z) | KQED</br>
+[Forum with Michael Krasny; Rwanda [1994-05-18]](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg71) | KQED</br>
+[Forum with Michael Krasny; Town Hall Meeting [1994-10-05]](https://americanarchive.org/catalog/cpb-aacip-526-w66930q65z) | KQED</br>
+[Forum with Michael Krasny; California Votes: Health Care [1994-11-04]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=California+Votes%3A+Health+Care) | KQED</br>
+[From Death Row: This is Mumia Abu-Jamal](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=From+Death+Row%3A+This+is+Mumia+Abu-Jamal&sort=title+asc) | KPFA</br>
+[Gone But Not Forgotten](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fm8x) | WHRO</br>
+[Heart of the City; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-7940r9n633) | WNYC</br>
+[High School Communications Partnership](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx9v) | WHRO</br>
+[KTCA News; Jamie Butcher's Right to Die](https://americanarchive.org/catalog/cpb-aacip-526-9c6rx94d52) | Twin Cities Public Television</br>
+[KTCA News; Toxic Testing](https://americanarchive.org/catalog/cpb-aacip-526-x05x63cd6n) | Twin Cities Public Television</br>
+[Lake Superior Trials](https://americanarchive.org/catalog/cpb-aacip-526-154dn40s6r) | Wisconsin Public Radio</br>
+[Live-- From Other Worlds; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g093) | WHRO</br>
+[Newton's Apple; No. 1201 [1994-08-12]](https://americanarchive.org/catalog/cpb-aacip-77-741rp8nv) | KTCA</br>
+[On the Media; Getting It Wrong; Nixon and the Press [1994-05-08]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Nixon+and+the+Press) | WNYC</br>
+[On the Media; Science Reporting; Haiti, the Press and U.S. Policy [1994-09-25]](https://americanarchive.org/catalog/cpb-aacip-f93f7d61385) | WNYC</br>
+[On the Media; Haiti, the Press and U.S. Policy; Science Reporting](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w48p) | WNYC</br>
+[On the Media; When the Mighty Fall: Ethics, News Judgment, Sourcing & O.J. Simpson](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=When+the+Mighty+Fall%3A+Ethics%2C+News+Judgment%2C+Sourcing+%26+O.J.+Simpson&sort=title+asc) | WNYC</br>
+[On the Media; Radiation Experiments: Getting the Story](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Radiation+Experiments%3A+Getting+the+Story&sort=title+asc) | WNYC</br>
+[On the Media; Science Reporting; Haiti, the Press and U.S. Policy](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c49h) | WNYC</br>
+[OPB on Behalf of Children: Immunize Now!](https://americanarchive.org/catalog/cpb-aacip-526-rx9377760z) | Oregon Public Broadcasting</br>
+[Oregon Field Guide Education Program; Focus on Organisms](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Focus+on+Organisms&sort=title+asc) | Oregon Public Broadcasting</br>
+[Oregon Field Guide Education Program; Focus on Places](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Focus+on+Places&sort=title+asc) | Oregon Public Broadcasting</br>
+[Remembering Chicago](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc9d) | WTTW</br>
+[Schools of the Future: Learning On-Line](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh3c) | KETC</br>
+[South Africa: New Carolina Partnerships](https://americanarchive.org/catalog/cpb-aacip-526-959c53g30s) | WTVI</br>
+[St. Louis Chronicles; City on the Air](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r9m) | KETC</br>
+[To the Contrary; U.N. Conference on Population and Development [1994-09-09]](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s561) | Maryland Public Television</br>
+[Vietnam: At the Crossroads](https://americanarchive.org/catalog/cpb-aacip-55-451g2gb6) | KTEH</br>
+[WHRO Non-Broadcast Educational Activities](https://americanarchive.org/catalog/cpb-aacip-526-8c9r20sw6x) | WHRO</br>
+[Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Women%27s+Health+Outreach%3A+Heart+to+Heart) | WHRO</br>
+[WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip/526-pk06w97h8b) | WTTW</br>
+[WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip/526-zw18k7685j) | WTTW</br>
+[Zoo Man](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h3r) | KETC</br>
 
 ##### 1995
 
-[A Friend Called Lyle](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jv99)</br>
-[Action for the Arts; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-kw57d2rf91)</br>
-[Chicago Matters; Of Hopes and Fears](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60784)</br>
-[Class of 2000; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-j678s4kv82)</br>
-[Continental Harmony: Exploring American Classical Music](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk68)</br>
-[Continental Harmony: Exploring American Classical Music; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-086348hf32)</br>
-[Fables in Four Minutes; 1995 compilation](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc6g)</br>
-[Finding the Dollars: Illinois Schools at the Crossroads](https://americanarchive.org/catalog/cpb-aacip-526-3f4kk9589r)</br>
-[Finding the Dollars: Illinois Schools at the Crossroads](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv71)</br>
-[Flight to Freedom](https://americanarchive.org/catalog/cpb-aacip-526-959c53g32d)</br>
-[Flight to Freedom](https://americanarchive.org/catalog/cpb-aacip-526-qr4nk37c0j)</br>
-[Follow My Lead](https://americanarchive.org/catalog/cpb-aacip-526-b27pn8zf8q)</br>
-[Forum; Youth Issues, Part 1 [1995-01-18]](https://americanarchive.org/catalog/cpb-aacip-526-pr7mp4wt6f)</br>
-[Forum; Youth Issues, Part 2 [1995-01-18]](https://americanarchive.org/catalog/cpb-aacip-14586ea3e9f)</br>
-[Forum; War on Drugs, Part 1 [1995-03-16]](https://americanarchive.org/catalog/cpb-aacip-526-st7dr2qj52)</br>
-[Forum; War on Drugs, Part 2 [1995-03-16]](https://americanarchive.org/catalog/cpb-aacip-58830ffa4a0)</br>
-[Forum; Youth Violence [1995-06-01]](https://americanarchive.org/catalog/cpb-aacip-526-v11vd6qc6r)</br>
-[Forum; Juvenile Justice System, Part 1 [1995-11-27]](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q33q)</br>
-[Forum; Juvenile Justice System, Part 2 [1995-11-27]](https://americanarchive.org/catalog/cpb-aacip-7ffaedb789a)</br>
-[Golden Apple Awards; No. 10 [1995-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m677)</br>
-[Golden Apple Awards; No. 10; Spanish / Sign Language version [1995-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b22)</br>
-[Grading Our Schools [1995-05-14]](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s31c)</br>
-[Grading Our Schools [1995-05-14]](https://americanarchive.org/catalog/cpb-aacip-526-fn10p0xx1k)</br>
-[Grading Our Schools [1995-05-16]](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cz2m)</br>
-[Grading Our Schools [1995-05-16]](https://americanarchive.org/catalog/cpb-aacip-526-222r49h58g)</br>
-[In the Beginning: The Creationist Controversy](https://americanarchive.org/catalog/cpb-aacip-526-s17sn02b08)</br>
-[In the Beginning: The Creationist Controversy](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz9s)</br>
-[La Villa de Santa Fe](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v6z)</br>
-[Little Italy](https://americanarchive.org/catalog/cpb-aacip-55-bg2h708b0g)</br>
-[Measure 16: Oregon Confronts Death and Dying; No. 1; The Role of the Doctor](https://americanarchive.org/catalog/cpb-aacip-526-416sx6567x)</br>
-[Measure 16: Oregon Confronts Death and Dying; No. 2; Catholic Health Care](https://americanarchive.org/catalog/cpb-aacip-526-d21rf5mg8n)</br>
-[Measure 16: Oregon Confronts Death and Dying; No. 3; Michael Vernon](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980m2t)</br>
-[Measure 16: Oregon Confronts Death and Dying; No. 4; The Architect of Measure 16](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx0790b)</br>
-[Measure 16: Oregon Confronts Death and Dying; No. 5; Comfort Care/Alternative Care](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt54)</br>
-[Measure 16: Oregon Confronts Death and Dying; Series Summary](https://americanarchive.org/catalog/cpb-aacip-526-s17sn02b1k)</br>
-[Mother Land, Sister City](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx58)</br>
-[Newton's Apple; No. 1301 [1995-08-29]](https://americanarchive.org/catalog/cpb-aacip-77-1615fzpg)</br>
-[Peacemaker](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc0x)</br>
-[Perspectives; No. 1; And Baby Makes Three: The Hope and Risk of High Tech Conception](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q066)</br>
-[Perspectives; No. 2; And Baby Makes Three: The Hope and Risk of High Tech Conception](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h79)</br>
-[Perspectives; No. 3; And Baby Makes Three: The Hope and Risk of High Tech Conception](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d920)</br>
-[Perspectives; No. 4; And Baby Makes Three: The Hope and Risk of High Tech Conception](https://americanarchive.org/catalog/cpb-aacip-526-tq5r786x6f)</br>
-[Perspectives; No. 5; And Baby Makes Three: The Hope and Risk of High Tech Conception [1995-10-06]](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980m4f)</br>
-[Perspectives; Yitzhak Rabin Memorial](https://americanarchive.org/catalog/cpb-aacip-526-rn3028qq4g)</br>
-[Port Chicago 50, The: An Oral History](https://americanarchive.org/catalog/cpb-aacip-526-057cr5pf14)</br>
-[Shades of L.A.; No. 4; Shades of Learning; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-hq3rv0f39c)</br>
-[Shades of L.A.; No. 4; Shades of Learning; Part 2](https://americanarchive.org/catalog/cpb-aacip-08868454328)</br>
-[Shades of L.A.; No. 4; Shades of Learning; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n10)</br>
-[Shades of L.A.; No. 4; Shades of Learning; Part 2](https://americanarchive.org/catalog/cpb-aacip-4f401aae83f)</br>
-[Voices From the Village; No. 101; Afrocentricity Defined?](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3t00n)</br>
-[Voices From the Village; No. 104; The Need for Spirituality](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp30)</br>
-[Wacipi-Powwow](https://americanarchive.org/catalog/cpb-aacip-77-1937qsxt)</br>
-[Weekend in Venice; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6ch04)</br>
-[Windowworks; Choosing One's Way [1995-04-25]](https://americanarchive.org/catalog/cpb-aacip-526-mc8rb6x65x)</br>
+[A Friend Called Lyle](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jv99) | KCET</br>
+[Action for the Arts; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-kw57d2rf91) | WQXR</br>
+[Chicago Matters; Of Hopes and Fears](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60784) | WTTW</br>
+[Class of 2000; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-j678s4kv82) | WHRO</br>
+[Continental Harmony: Exploring American Classical Music](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk68) | WXXI</br>
+[Continental Harmony: Exploring American Classical Music; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-086348hf32) | WXXI</br>
+[Fables in Four Minutes; 1995 compilation](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc6g) | WXXI</br>
+[Finding the Dollars: Illinois Schools at the Crossroads](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Finding+the+Dollars%3A+Illinois+Schools+at+the+Crossroads%22) | WTTW</br>
+[Flight to Freedom](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Flight+to+Freedom%22) | WXXI</br>
+[Follow My Lead](https://americanarchive.org/catalog/cpb-aacip-526-b27pn8zf8q) | KCET</br>
+[Forum; Youth Issues [1995-01-18]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bproducing_organizations%5D%5B%5D=KQED&q=%22Youth+Issues%22&sort=title+asc) | KQED</br>
+[Forum; War on Drugs [1995-03-16]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=War+on+Drugs&sort=title+asc) | KQED</br>
+[Forum; [1995-06-01], Youth Violence](https://americanarchive.org/catalog/cpb-aacip-526-v11vd6qc6r) | KQED</br>
+[Forum; Juvenile Justice System [1995-11-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Juvenile+Justice+System&sort=title+asc) | KQED</br>
+[Golden Apple Awards; No. 10 [1995-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m677) | WTTW</br>
+[Golden Apple Awards; No. 10; Spanish / Sign Language version [1995-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b22) | WTTW</br>
+[Grading Our Schools [1995-05-14]](https://americanarchive.org/catalog?after_date=1995-05-14&commit=Update&exact_or_range=exact&q=Grading+Our+Schools&utf8=%E2%9C%93&f[access_types][]=online) | WXXI</br>
+[Grading Our Schools [1995-05-16]](https://americanarchive.org/catalog?after_date=1995-05-16&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Grading+Our+Schools) | WXXI</br>
+[In the Beginning: The Creationist Controversy](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=In+the+Beginning%3A+The+Creationist+Controversy&f[access_types][]=online) | WTTW</br>
+[La Villa de Santa Fe](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v6z) | KNME</br>
+[Little Italy](https://americanarchive.org/catalog/cpb-aacip-55-bg2h708b0g) | KQED</br>
+[Measure 16: Oregon Confronts Death and Dying; The Role of the Doctor; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-416sx6567x) | KOAC |Oregon Public Broadcasting</br>
+[Measure 16: Oregon Confronts Death and Dying; Catholic Health Care; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-d21rf5mg8n) | KOAC | Oregon Public Broadcasting</br>
+[Measure 16: Oregon Confronts Death and Dying; Michael Vernon; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980m2t) | Oregon KOAC | Public Broadcasting</br>
+[Measure 16: Oregon Confronts Death and Dying; The Architect of Measure 16; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx0790b) | KOAC | Oregon Public Broadcasting</br>
+[Measure 16: Oregon Confronts Death and Dying; Comfort Care/Alternative Care; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt54) | KOAC | Oregon Public Broadcasting</br>
+[Measure 16: Oregon Confronts Death and Dying; Series Summary](https://americanarchive.org/catalog/cpb-aacip-526-s17sn02b1k) | KOAC | Oregon Public Broadcasting</br>
+[Mother Land, Sister City](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx58) | WTVI</br>
+[Newton's Apple; No. 1301 [1995-08-29]](https://americanarchive.org/catalog/cpb-aacip-77-1615fzpg) | KTCA</br>
+[Peacemaker](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc0x) | KERA</br>
+[Perspectives; No. 1; And Baby Makes Three: The Hope and Risk of High Tech Conception](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q066) | New Hampshire Public Radio</br>
+[Perspectives; No. 2; And Baby Makes Three: The Hope and Risk of High Tech Conception](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h79) | New Hampshire Public Radio</br>
+[Perspectives; No. 3; And Baby Makes Three: The Hope and Risk of High Tech Conception](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d920) | New Hampshire Public Radio</br>
+[Perspectives; No. 4.; And Baby Makes Three: The Hope and Risk of High Tech Conception](https://americanarchive.org/catalog/cpb-aacip-526-tq5r786x6f) | New Hampshire Public Radio</br>
+[Perspectives; No. 5; And Baby Makes Three: The Hope and Risk of High Tech Conception [1995-10-06]](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980m4f) | New Hampshire Public Radio</br>
+[Perspectives; Yitzhak Rabin Memorial](https://americanarchive.org/catalog/cpb-aacip-526-rn3028qq4g) | New Hampshire Public Radio</br>
+[Port Chicago 50, The: An Oral History](https://americanarchive.org/catalog/cpb-aacip-526-057cr5pf14) | WBEZ</br>
+[Shades of L.A.; No. 4; Shades of Learning](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Shades+of+L.A.&sort=title+asc) | KPCC</br>
+[Voices From the Village; No. 101; Afrocentricity Defined?](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3t00n) | WOSU</br>
+[Voices From the Village; No. 104; The Need for Spirituality](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp30) | WOSU</br>
+[Wacipi-Powwow](https://americanarchive.org/catalog/cpb-aacip-77-1937qsxt) | KTCA</br>
+[Weekend in Venice; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6ch04) | WQXR</br>
+[Windowworks; Choosing One's Way [1995-04-25]](https://americanarchive.org/catalog/cpb-aacip-526-mc8rb6x65x) | WTTW</br>
 
 ##### 1996
 
-[1996 Candidate Free Time; No. 101; Salvi/Durbin Senate Race](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1219q)</br>
-[1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gg2t)</br>
-[1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v78)</br>
-[Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95)</br>
-[Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p)</br>
-[Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip-526-086348hf60)</br>
-[Chicago Matters; Questions of Faith: A Pastor's Journal](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gv78)</br>
-[Chicago Matters; Questions of Faith; A Pastor's Journal](https://americanarchive.org/catalog/cpb-aacip-526-mp4vh5dn9d)</br>
-[Chicago Matters; Questions of Faith; Feeling the Spirit: Storefront Churches](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t22h)</br>
-[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mn9k)</br>
-[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog/cpb-aacip-d4c87437b89)</br>
-[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932f2c)</br>
-[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog/cpb-aacip-c1f314c7ded)</br>
-[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog/cpb-aacip-526-m901z4324j)</br>
-[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog/cpb-aacip-6f450399962)</br>
-[Chicago Matters; Questions of Faith; Personal essays](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz81z4m)</br>
-[Chicago Matters; Questions of Faith; Personal essays](https://americanarchive.org/catalog/cpb-aacip-ce6034edaf4)</br>
-[Chicago Matters; Questions of Faith; Personal essays](https://americanarchive.org/catalog/cpb-aacip-526-mw28912z9g)</br>
-[Chicago Matters; Questions of Faith; Personal essays](https://americanarchive.org/catalog/cpb-aacip-6d15a6aa413)</br>
-[Chicago Matters; Questions of Faith; Taking Heart in the Heartland](https://americanarchive.org/catalog/cpb-aacip-526-br8mc8sh4n)</br>
-[Chicago Matters; Questions of Faith; The Aging of the Convent](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g56)</br>
-[Chicago Matters; Questions of Faith; The Fire Within: Islam in Prison](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt82)</br>
-[Chicago Matters; Questions of Faith; The Leap of Faith: Teenagers Talk about Religion](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr64)</br>
-[Chicago Matters; Questions of Faith; Chicago's Sacred Treasures](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx07877)</br>
-[Chicago Matters; Questions of Faith; The Heart of Religion](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk27)</br>
-[Chicago Tonight; Muslim Mosaic](https://americanarchive.org/catalog/cpb-aacip-526-c24qj78z9g)</br>
-[Chicago Tonight; No. 14050; Interest Rate Controversy](https://americanarchive.org/catalog/cpb-aacip-526-cn6xw48w69)</br>
-[Chicago Tonight; No. 14060; Civility and Political Correctness](https://americanarchive.org/catalog/cpb-aacip-526-q52f767f3q)</br>
-[Chicago Tonight; No. 14075; Gary Sinise](https://americanarchive.org/catalog/cpb-aacip-526-3f4kk95935)</br>
-[Chicago Tonight; No. 14089; Welfare Reform: Illinois](https://americanarchive.org/catalog/cpb-aacip-526-9882j6978j)</br>
-[Chicago Tonight; No. 14096; Property Tax Transfer](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p88x)</br>
-[Downsizing the Dream](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8jt0g)</br>
-[Exposures of a Movement](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d20k)</br>
-[Fences & Neighborhoods](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s73)</br>
-[Forum; No. 1; Race, Class, and Diversity, Part 1 [1996-10-16]](https://americanarchive.org/catalog/cpb-aacip-526-w37kp7w183)</br>
-[Forum; No. 1; Race, Class, and Diversity, Part 2 [1996-10-16]](https://americanarchive.org/catalog/cpb-aacip-663b08f3fa0)</br>
-[Forum; No. 1; Race, Class, and Diversity, Part 3 [1996-10-16]](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fj2z)</br>
-[Forum; No. 1; Race, Class, and Diversity, Part 4 [1996-10-16]](https://americanarchive.org/catalog/cpb-aacip-a269154ddb0)</br>
-[Forum; No. 2; Race, Class, and Diversity; Religion and Diversity, Part 1 [1996-11-20]](https://americanarchive.org/catalog/cpb-aacip-526-7940r9n70f)</br>
-[Forum; No. 2; Race, Class, and Diversity; Religion and Diversity, Part 2 [1996-11-20]](https://americanarchive.org/catalog/cpb-aacip-71c4fab5afe)</br>
-[Forum; No. 2; Race, Class, and Diversity; Religion and Diversity, Part 3 [1996-11-20]](https://americanarchive.org/catalog/cpb-aacip-526-416sx65687)</br>
-[Forum; No. 2; Race, Class, and Diversity' Religion and Diversity, Part 4 [1996-11-20]](https://americanarchive.org/catalog/cpb-aacip-7e2b7591db1)</br>
-[Forum; No. 3; Race, Class, and Diversity; Diversity and the Family, Part 3 [1996-12-17]](https://americanarchive.org/catalog/cpb-aacip-526-n58cf9kd3s)</br>
-[Forum; No. 3; Race, Class, and Diversity; Diversity and the Family, Part 4 [1996-12-17]](https://americanarchive.org/catalog/cpb-aacip-501da8d3a79)</br>
-[Forum; No. 3; Race, Class, and Diversity; Diversity and the Family, Part 1 [1996-12-17]](https://americanarchive.org/catalog/cpb-aacip-526-m61bk17w7p)</br>
-[Forum; No. 3; Race, Class, and Diversity; Diversity and the Family, Part 2 [1996-12-17]](https://americanarchive.org/catalog/cpb-aacip-a7715e5eeb8)</br>
-[In Search of the Oregon Trail, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-db7vm44005)</br>
-[In Those Days: A Look at the Wasatch Front of the 1930's](https://americanarchive.org/catalog/cpb-aacip-83-386hf25f)</br>
-[Kids' Court](https://americanarchive.org/catalog/cpb-aacip-526-m03xs5kk97)</br>
-[KPBS Seek Out Science promotional video](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts0n)</br>
-[Make Us Safe: Teens Talk About Violence](https://americanarchive.org/catalog/cpb-aacip-189-79v15p09)</br>
-[Mark Russell; No. 2005; Viva Italia! [1996-01-30]](https://americanarchive.org/catalog/cpb-aacip-257-83kwhhdc)</br>
-[Mark Russell; No. 2107; Campaign '96 [1996-09-13]](https://americanarchive.org/catalog/cpb-aacip-526-xg9f47j500)</br>
-[Nightly Business Report; 1996 Campaign Coverage](https://americanarchive.org/catalog/cpb-aacip-526-639k35nc8b)</br>
-[Nightly Business Report; 1996 Campaign Coverage](https://americanarchive.org/catalog/cpb-aacip-526-445h990b61)</br>
-[On the Media; Covering the Conventions; Reporting on Labor, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-542j679w29)</br>
-[On the Media; It'll Never Be Over: Richard Jewell, Privacy & the Press; St. Petersburg, Race & the Media, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m23r)</br>
-[On the Media; It'll Never Be Over: Richard Jewell, Privacy & the Press; St. Petersburg, Race & the Media, Part 2](https://americanarchive.org/catalog/cpb-aacip-75d6ae449d5)</br>
-[On the Media; It'll Never Be Over: Richard Jewell, Privacy & the Press; St. Petersburg, Race & the Media, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-n58cf9kd9n)</br>
-[On the Media; It'll Never Be Over: Richard Jewell, Privacy & the Press; St. Petersburg, Race & the Media, Part 2](https://americanarchive.org/catalog/cpb-aacip-e298da76845)</br>
-[On the Media; Press Control in the Balkans; Part 1](https://americanarchive.org/catalog/cpb-aacip-526-833mw29f2j)</br>
-[On the Media; Press Control in the Balkans, Part 2](https://americanarchive.org/catalog/cpb-aacip-39ce8876e4e)</br>
-[On the Media; Reporting on Labor; Covering the Conventions, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-5x25b0034q)</br>
-[On the Media; Reporting on Labor; Covering the Conventions, Part 2](https://americanarchive.org/catalog/cpb-aacip-165372efece)</br>
-[On the Media; Ruining Reputations, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-736m03zx1p)</br>
-[On the Media; Ruining Reputations, Part 2](https://americanarchive.org/catalog/cpb-aacip-53a8cf500ce)</br>
-[Return to the Lion's Den](https://americanarchive.org/catalog/cpb-aacip-526-q52f767f5b)</br>
-[Return to the Lion's Den](https://americanarchive.org/catalog/cpb-aacip-153-68kd594r)</br>
-[Running Mate](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z07s)</br>
-[Scarves of Many Colors: Muslim Women and the Veil, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87s8c)</br>
-[Scarves of Many Colors: Muslim Women and the Veil, Part 2](https://americanarchive.org/catalog/cpb-aacip-9c5ed48c0ca)</br>
-[Snow Wolves, The](https://americanarchive.org/catalog/cpb-aacip-83-311nsbmt)</br>
-[Souls of Passage](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0tr8v)</br>
-[This American Life; From a Distance, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rv9c)</br>
-[This American Life; When You Talk About Music, Part 2](https://americanarchive.org/catalog/cpb-aacip-00ca79ae9d4)</br>
-[Utah: The Struggle for Statehood; No. 1; Beginnings](https://americanarchive.org/catalog/cpb-aacip-83-46qz6cbs)</br>
-[Utah: The Struggle for Statehood; No. 2; Brother Brigham](https://americanarchive.org/catalog/cpb-aacip-83-418kq356)</br>
-[Utah: The Struggle for Statehood; No. 3; The Cauldron](https://americanarchive.org/catalog/cpb-aacip-83-23612txx)</br>
-[Utah: The Struggle for Statehood; No. 4; 45 Stars](https://americanarchive.org/catalog/cpb-aacip-83-009w12j3)</br>
-[When Conventions Were Conventions with Robert Trout; The Democrats, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-k35m903c31)</br>
-[When Conventions Were Conventions with Robert Trout; The Republicans, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-sq8qb9wj1j)</br>
-[When Conventions Were Conventions with Robert Trout; The Republicans, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18tj8q)</br>
-[Wings of the Past](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m19b)</br>
-[WXXI Make Us Safe Community Workshop](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w729)</br>
-[WXXI News; Make Us Safe](https://americanarchive.org/catalog/cpb-aacip-526-kk9474805r)</br>
+[1996 Candidate Free Time; No. 101; Salvi/Durbin Senate Race](https://americanarchive.org/catalog/cpb-aacip/526-tt4fn1219q) | WTTW</br>
+[1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip/526-6t0gt5gg2t) | WTTW</br>
+[1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip/526-ng4gm82v78) | WTTW</br>
+[Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95) | University of Alabama</br>
+[Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p) | University of Alabama; Alabama Public Television</br>
+[Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip/526-086348hf60) | WTTW</br>
+[Chicago Matters; Questions of Faith: A Pastor's Journal](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=A+Pastor%27s+Journal) | WBEZ</br>
+[Chicago Matters; Questions of Faith; Feeling the Spirit: Storefront Churches](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t22h) | WBEZ | WTTW</br>
+[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=News+and+features+reports) | WBEZ | WTTW</br>
+[Chicago Matters; Questions of Faith; Personal essays](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Personal+essays) | WBEZ | WTTW</br>
+[Chicago Matters; Questions of Faith; Taking Heart in the Heartland](https://americanarchive.org/catalog/cpb-aacip-526-br8mc8sh4n) | WBEZ | WTTW</br>
+[Chicago Matters; Questions of Faith; The Aging of the Convent](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g56) | WBEZ | WTTW</br>
+[Chicago Matters; Questions of Faith; The Fire Within: Islam in Prison](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt82) | WBEZ | WTTW</br>
+[Chicago Matters; Questions of Faith; The Leap of Faith: Teenagers Talk about Religion](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr64) | WBEZ | WTTW</br>
+[Chicago Matters; Questions of Faith; Chicago's Sacred Treasures](https://americanarchive.org/catalog/cpb-aacip/526-rb6vx07877) | WTTW</br>
+[Chicago Matters; Questions of Faith; The Heart of Religion](https://americanarchive.org/catalog/cpb-aacip/526-dr2p55fk27) | WTTW</br>
+[Chicago Tonight; Muslim Mosaic](https://americanarchive.org/catalog/cpb-aacip/526-c24qj78z9g) | WTTW</br>
+[Chicago Tonight; No. 14050; Interest Rate Controversy](https://americanarchive.org/catalog/cpb-aacip/526-cn6xw48w69) | WTTW</br>
+[Chicago Tonight; No. 14060; Civility and Political Correctness](https://americanarchive.org/catalog/cpb-aacip/526-q52f767f3q) | WTTW</br>
+[Chicago Tonight; No. 14075; Gary Sinise](https://americanarchive.org/catalog/cpb-aacip/526-3f4kk95935) | WTTW</br>
+[Chicago Tonight; No. 14089; Welfare Reform: Illinois](https://americanarchive.org/catalog/cpb-aacip/526-9882j6978j) | WTTW</br>
+[Chicago Tonight; No. 14096; Property Tax Transfer](https://americanarchive.org/catalog/cpb-aacip/526-057cr5p88x) | WTTW</br>
+[Downsizing the Dream](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8jt0g) | KPBS</br>
+[Exposures of a Movement](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d20k) | WTVI</br>
+[Fences & Neighborhoods](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s73) | Georgia Public Television</br>
+[Forum; No. 1; Race, Class, and Diversity [1996-10-16]](https://americanarchive.org/catalog?after_date=1996-10-16&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc) | KQED</br>
+[Forum; No. 2; Race, Class, and Diversity; Religion and Diversity [1996-11-20]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc&exact_or_range=exact&after_date=1996-11-20&commit=Update) | KQED</br>
+[Forum; No. 3; Race, Class, and Diversity; Diversity and the Family [1996-12-17]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc&exact_or_range=exact&after_date=1996-12-17&commit=Update) | KQED</br>
+[In Search of the Oregon Trail, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-db7vm44005) | Oregon Public Broadcasting</br>
+[In Those Days: A Look at the Wasatch Front of the 1930's](https://americanarchive.org/catalog/cpb-aacip-83-386hf25f) | KUED</br>
+[Kids' Court](https://americanarchive.org/catalog/cpb-aacip-526-m03xs5kk97) | New Jersey Network</br>
+[KPBS Seek Out Science promotional video](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts0n) | KPBS</br>
+[Make Us Safe: Teens Talk About Violence](https://americanarchive.org/catalog/cpb-aacip-189-79v15p09) | WXXI</br>
+[Mark Russell; No. 2005; Viva Italia! [1996-01-30]](https://americanarchive.org/catalog/cpb-aacip-257-83kwhhdc) | WNED</br>
+[Mark Russell; No. 2107; Campaign '96 [1996-09-13]](https://americanarchive.org/catalog/cpb-aacip-526-xg9f47j500) | WNED</br>
+[Nightly Business Report; 1996 Campaign Coverage](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=1996+Campaign+Coverage) | WPBT</br>
+[On the Media; Covering the Conventions; Reporting on Labor](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Reporting+on+Labor&sort=title+asc) | Poynter Institute for Media Studies | WNYC</br>
+[On the Media; It'll Never Be Over: Richard Jewell, Privacy & the Press; St. Petersburg, Race & the Media](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=It%27ll+Never+Be+Over%3A+Richard+Jewell%2C+Privacy+%26+the+Press&sort=title+asc) | Poynter Institute for Media Studies | WNYC</br>
+[On the Media; Press Control in the Balkans](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Press+Control+in+the+Balkans&sort=title+asc) | Poynter Institute for Media Studies | WNYC</br>
+[On the Media; Part 2; Ruining Reputations](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Ruining+Reputations) | Poynter Institute for Media Studies | WNYC</br>
+[Return to the Lion's Den](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Return+to+the+Lion%27s+Den) | Oregon Public Broadcasting</br>
+[Running Mate](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z07s) | KPBS; Theodore Bogosian Productions</br>
+[Scarves of Many Colors: Muslim Women and the Veil](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Scarves+of+Many+Colors%3A+Muslim+Women+and+the+Veil&sort=title+asc) | Oregon Public Broadcasting</br>
+[Snow Wolves, The](https://americanarchive.org/catalog/cpb-aacip-83-311nsbmt) | KUED</br>
+[Souls of Passage](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0tr8v) | WTVI</br>
+[This American Life; From a Distance; Part 2](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rv9c) | WBEZ</br>
+[This American Life; When You Talk About Music; Part 2](https://americanarchive.org/catalog/cpb-aacip-00ca79ae9d4) | WBEZ</br>
+[Utah: The Struggle for Statehood. No. 1, Beginnings](https://americanarchive.org/catalog/cpb-aacip-83-46qz6cbs) | KUED</br>
+[Utah: The Struggle for Statehood. No. 2, Brother Brigham](https://americanarchive.org/catalog/cpb-aacip-83-418kq356) | KUED</br>
+[Utah: The Struggle for Statehood. No. 3, The Cauldron](https://americanarchive.org/catalog/cpb-aacip-83-23612txx) | KUED</br>
+[Utah: The Struggle for Statehood. No. 4, 45 Stars](https://americanarchive.org/catalog/cpb-aacip-83-009w12j3) | KUED</br>
+[When Conventions Were Conventions with Robert Trout; The Democrats](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Democrats) | WBEZ</br>
+[When Conventions Were Conventions with Robert Trout; The Republicans](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Republicans&sort=title+asc) | WBEZ</br>
+[Wings of the Past](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m19b) | WMFE</br>
+[WXXI Make Us Safe Community Workshop](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w729) | WOKR | WXXI Public Broadcasting</br>
+[WXXI News; Make Us Safe](https://americanarchive.org/catalog/cpb-aacip-526-kk9474805r) | WOKR | WXXI Public Broadcasting</br>
 
 ##### 1997
 
-[Abbey of the Genessee, The](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px5k)</br>
-[Assignment: The World [1997-03-26]](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k737)</br>
-[Assignment: The World [1997-04-09]](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d6d)</br>
-[Assignment: The World [1997-09-11]](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x434)</br>
-[Beyond the Flood-; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1221h)</br>
-[Block By Block: People's Summit](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp63)</br>
-[Brigham Young](https://americanarchive.org/catalog/cpb-aacip-83-5370s9pq)</br>
-[Castro, The](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7006r)</br>
-[Chicago Matters; Picture Me Rolling](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4f278)</br>
-[Everybody's Kids](https://americanarchive.org/catalog/cpb-aacip-29-472v737k)</br>
-[Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m52s)</br>
-[Gregory Kondos: A Passion for the Land](https://americanarchive.org/catalog/cpb-aacip-55-94vhjjf0)</br>
-[Inside the Metropolitan Museum of Art, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ww76t0j84p)</br>
-[Inside the Metropolitan Museum of Art, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-542j679v4n)</br>
-[Inside the Metropolitan Museum of Art, Part 2](https://americanarchive.org/catalog/cpb-aacip-44c05176f52)</br>
-[Inside the Metropolitan Museum of Art, Part 2](https://americanarchive.org/catalog/cpb-aacip-9be493984dc)</br>
-[Inside the Metropolitan Museum of Art, Part 3](https://americanarchive.org/catalog/cpb-aacip-526-j96057f13f)</br>
-[Inside the Metropolitan Museum of Art, Part 4](https://americanarchive.org/catalog/cpb-aacip-3359cd63836)</br>
-[Let the Women Vote!](https://americanarchive.org/catalog/cpb-aacip-83-16c2g1b0)</br>
-[Louisiana, The State We're In; No. 2039; A Test for Justice [1997-07-11]](https://americanarchive.org/catalog/cpb-aacip-17-945qgw68)</br>
-[Record Row: Cradle of Rhythm & Blues](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz2r)</br>
-[State of the Union; No. 102; Mothers' Day Special [1997-05-05]](https://americanarchive.org/catalog/cpb-aacip-29-13zs7m07)</br>
-[State of the Union; No. 103; That's Why They Call it Work [1997-08-25]](https://americanarchive.org/catalog/cpb-aacip-29-31qftz9r)</br>
-[Survivors in the Sand](https://americanarchive.org/catalog/cpb-aacip-526-hh6c24rt3q)</br>
-[Ten Things Every Child Needs](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck2z)</br>
+[Abbey of the Genessee, The](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px5k) | WXXI</br>
+[Assignment: The World [1997-03-26]](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k737) | WXXI</br>
+[Assignment: The World [1997-04-09]](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d6d) | WXXI</br>
+[Assignment: The World [1997-09-11]](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x434) | WXXI</br>
+[Beyond the Flood-; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1221h) | KTCA</br>
+[Block By Block: People's Summit](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp63) | KTCA</br>
+[Brigham Young](https://americanarchive.org/catalog/cpb-aacip-83-5370s9pq) | KUED</br>
+[Castro, The](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7006r) | KQED</br>
+[Chicago Matters; Picture Me Rolling](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4f278) | WBEZ</br>
+[Everybody's Kids](https://americanarchive.org/catalog/cpb-aacip-29-472v737k) | Wisconsin Public Television</br>
+[Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m52s) | Louisiana Public Broadcasting</br>
+[Gregory Kondos: A Passion for the Land](https://americanarchive.org/catalog/cpb-aacip-55-94vhjjf0) | KTEH</br>
+[Inside the Metropolitan Museum of Art](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Inside+the+Metropolitan+Museum+of+Art&sort=title+asc) | WQXR</br>
+[Let the Women Vote!](https://americanarchive.org/catalog/cpb-aacip-83-16c2g1b0) | KUED</br>
+[Louisiana, The State We're In; No. 2039; A Test for Justice [1997-07-11]](https://americanarchive.org/catalog/cpb-aacip-17-945qgw68) | Louisiana Public Broadcasting</br>
+[Record Row: Cradle of Rhythm & Blues](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz2r) | WTTW</br>
+[State of the Union; No. 102; Mothers' Day Special [1997-05-05]](https://americanarchive.org/catalog/cpb-aacip-29-13zs7m07) | Wisconsin Public Television</br>
+[State of the Union; No. 103; That's Why They Call it Work [1997-08-25]](https://americanarchive.org/catalog/cpb-aacip-29-31qftz9r) | Wisconsin Public Television</br>
+[Survivors in the Sand](https://americanarchive.org/catalog/cpb-aacip-526-hh6c24rt3q) | KRWG</br>
+[Ten Things Every Child Needs](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck2z) | WTTW</br>
 
 ##### 1998
 
-[A Sculpture of Love and Anguish: The Holocaust Memorial, Miami Beach](https://americanarchive.org/catalog/cpb-aacip-42-78tb31b1)</br>
-[A Wedding in Basra](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf5g)</br>
-[Airmen and Adversity](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q07h)</br>
-[Amistad Connecticut: A Legacy Reborn](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04426)</br>
-[Amistad Connecticut: A Legacy Reborn](https://americanarchive.org/catalog/cpb-aacip-526-639k35nc9n)</br>
-[Chicago Matters; The Last Place: Diary of a Retirement Home](https://americanarchive.org/catalog/cpb-aacip-526-db7vm4432m)</br>
-[Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b)</br>
-[Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-17-07tmq941)</br>
-[Israel's Forgotten Heroes](https://americanarchive.org/catalog/cpb-aacip-42-504xh4s7)</br>
-[Joe Hill](https://americanarchive.org/catalog/cpb-aacip-83-68kd5f1p)</br>
-[Juggling Act, The, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-bg2h70926c)</br>
-[Juggling Act, The, Part 2](https://americanarchive.org/catalog/cpb-aacip-9eba7eb957d)</br>
-[Kate Chopin: A Re-Awakening](https://americanarchive.org/catalog/cpb-aacip-17-58bg87rx)</br>
-[KOPB Radio News; Physician-Assisted Suicide](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7683x)</br>
-[On the Line; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87415n)</br>
-[On the Line; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-8w3804zm8h)</br>
-[On the Media; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh4p)</br>
-[Our Stories; The Cranberry Report (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-439zw7n9)</br>
-[Our Stories; Harvest of Hope (Fort Kent, Maine) [1998-05-11]](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6079f)</br>
-[Our Stories; Healing Woods (Indian Township, Maine) [1998-05-12]](https://americanarchive.org/catalog/cpb-aacip-245-558czfqp)</br>
-[Our Stories; The Cranberry Report (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-97kps1m0)</br>
-[Parenting Puzzle: The Middle Years; No. 101; Tell Me More](https://americanarchive.org/catalog/cpb-aacip-240-773txv76)</br>
-[Parenting Puzzle: The Middle Years; No. 102; Like Blades of a Scissors](https://americanarchive.org/catalog/cpb-aacip-240-62s4ndjj)</br>
-[Parenting Puzzle: The Middle Years; No. 103; The Power of Example](https://americanarchive.org/catalog/cpb-aacip-240-214mwkwr)</br>
-[Salsa; No. 113; Three Clever Goats](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p41c)</br>
-[Salsa; No. 115; Quiz Show](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nv15)</br>
-[Salsa; No. 205; Where Is It?](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n11w)</br>
-[Salsa; No. 207; The Three Pigs](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz1f)</br>
-[Sinatra in Retrospective, Parts 1 and 2](https://americanarchive.org/catalog/cpb-aacip-189-14nk9brh)</br>
-[Sinatra in Retrospective, Parts 3 and 4](https://americanarchive.org/catalog/cpb-aacip-189-67jq2m4c)</br>
-[U.S.-Mexican Border Coverage](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck38)</br>
-[What Do You Say?](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t46z)</br>
-[WKSU Radio News; Funeral Home DNA](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2n97t)</br>
+[A Sculpture of Love and Anguish: The Holocaust Memorial, Miami Beach](https://americanarchive.org/catalog/cpb-aacip-42-78tb31b1) | WPBT</br>
+[A Wedding in Basra](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf5g) | WTVS</br>
+[Airmen and Adversity](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q07h) | WTVI</br>
+[Amistad Connecticut: A Legacy Reborn](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Amistad+Connecticut%3A+A+Legacy+Reborn) | Connecticut Public Television</br>
+[Chicago Matters; The Last Place: Diary of a Retirement Home](https://americanarchive.org/catalog/cpb-aacip-526-db7vm4432m) | WBEZ</br>
+[Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b) | Langley Research Center | WHRO</br>
+[Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-17-07tmq941) | Louisiana Public Broadcasting</br>
+[Israel's Forgotten Heroes](https://americanarchive.org/catalog/cpb-aacip-42-504xh4s7) | WPBT</br>
+[Joe Hill](https://americanarchive.org/catalog/cpb-aacip-83-68kd5f1p) | KUED</br>
+[Juggling Act, The,](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+Juggling+Act) | WNYC</br>
+[Kate Chopin: A Re-Awakening](https://americanarchive.org/catalog/cpb-aacip-17-58bg87rx) | Louisiana Public Broadcasting</br>
+[KOPB Radio News; Physician-Assisted Suicide](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7683x) | Oregon Public Broadcasting</br>
+[On the Line; The Juggling Act](https://americanarchive.org/catalog?f%5Btitle_titles%5D%5B%5D=The+Juggling+Act&f[access_types][]=online) | WNYC</br>
+[On the Media; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh4p) | WNYC</br>
+[Our Stories; At the Center of Things (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-439zw7n9) | Maine Public Broadcasting</br>
+[Our Stories; Harvest of Hope (Fort Kent, Maine) [1998-05-11]](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6079f) | Maine Public Broadcasting</br>
+[Our Stories; Healing Woods (Indian Township, Maine) [1998-05-12]](https://americanarchive.org/catalog/cpb-aacip-245-558czfqp) | Maine Public Broadcasting</br>
+[Our Stories; The Cranberry Report (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-97kps1m0) | Maine Public Broadcasting</br>
+[Parenting Puzzle: The Middle Years; No. 101; Tell Me More](https://americanarchive.org/catalog/cpb-aacip-240-773txv76) | WTVS</br>
+[Parenting Puzzle: The Middle Years; No. 102; Like Blades of a Scissors](https://americanarchive.org/catalog/cpb-aacip-240-62s4ndjj) | WTVS</br>
+[Parenting Puzzle: The Middle Years; No. 103; The Power of Example](https://americanarchive.org/catalog/cpb-aacip-240-214mwkwr) | WTVS</br>
+[Salsa; No. 113; Three Clever Goats](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p41c) | Georgia Public Broadcasting | Peachstar Education Services</br>
+[Salsa; No. 115; Quiz Show](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nv15) | Georgia Public Broadcasting | Peachstar Education Services</br>
+[Salsa; No. 205; Where Is It?](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n11w) | Georgia Public Broadcasting | Peachstar Education Services</br>
+[Salsa; No. 207; The Three Pigs](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz1f) | Georgia Public Broadcasting | Peachstar Education Services</br>
+[Sinatra in Retrospective](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=Sinatra+in+Retrospective&f[access_types][]=online) | WXXI</br>
+[U.S.-Mexican Border Coverage](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck38) | KPBS | National Public Radio</br>
+[What Do You Say?](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t46z) | Maine Public Broadcasting Network</br>
+[WKSU Radio News; Funeral Home DNA](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2n97t) | WKSU</br>
 
 ##### 1999
 
-[American Prophet: The Story of Joseph Smith](https://americanarchive.org/catalog/cpb-aacip-46-00000021)</br>
-[Chicago Tonight; No. 16123; JAMA Firing [1999-02]](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc83)</br>
-[Chicago Tonight; No. 16149; Kosovo Strike [1999-03-24]](https://americanarchive.org/catalog/cpb-aacip-526-qf8jd4qw9k)</br>
-[Chicago Tonight; No. 16150; Henry Kissinger/Kosovo [1999-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-zk55d8pt52)</br>
-[Chicago Tonight; No. 16170; On the Road. How Do We Deal With Colorado's Crisis? [1999-04-29]](https://americanarchive.org/catalog/cpb-aacip-526-862b854k4k)</br>
-[Chicago Tonight; No. 17034; What is Electronic Day Trading? [1999-08-31]](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq65)</br>
-[Chicago Week in Review [1999-01-02]](https://americanarchive.org/catalog/cpb-aacip-526-f76639m94t)</br>
-[Chicago Week in Review [1999-01-09]](https://americanarchive.org/catalog/cpb-aacip-526-p26pz52s0w)</br>
-[Chicago Week in Review [1999-01-30]](https://americanarchive.org/catalog/cpb-aacip-526-2v2c825c81)</br>
-[Chicago Week in Review [1999-08-07]](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r8c)</br>
-[Chicago Week in Review [1999-11-20]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31pw87)</br>
-[Fishko Files, The; 1999 Excerpts, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73887f)</br>
-[KOPB Radio News; The Great Tsunami of '64](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg3s)</br>
-[Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog/cpb-aacip-398-085hqdb1)</br>
-[Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04393)</br>
-[Our Society in the Next Century; No. 1; Arts, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-639k35nc6q)</br>
-[Our Society in the Next Century; No. 1; Arts, Part 2](https://americanarchive.org/catalog/cpb-aacip-29c3dca247b)</br>
-[Our Society in the Next Century; No. 1; Arts, Part 3](https://americanarchive.org/catalog/cpb-aacip-d35a5a4ed4d)</br>
-[Our Society in the Next Century; No. 2; Race Relations, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-v97zk56t4b)</br>
-[Our Society in the Next Century; No. 2; Race Relations, Part 2](https://americanarchive.org/catalog/cpb-aacip-9a0385420dd)</br>
-[Our Society in the Next Century; No. 3; Government, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-5717m0509t)</br>
-[Our Society in the Next Century; No. 3; Government, Part 2](https://americanarchive.org/catalog/cpb-aacip-fc127aeb90b)</br>
-[Our Society in the Next Century; No. 3; Government, Part 3](https://americanarchive.org/catalog/cpb-aacip-82c47db99a9)</br>
-[Our Society in the Next Century; No. 4; Sports, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n29)</br>
-[Our Society in the Next Century; No. 4; Sports, Part 2](https://americanarchive.org/catalog/cpb-aacip-2408024aff9)</br>
-[Our Society in the Next Century; No. 4; Sports, Part 3](https://americanarchive.org/catalog/cpb-aacip-65d7a318257)</br>
-[Our Society in the Next Century; No. 5; Legal System, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ff3kw58m7k)</br>
-[Our Society in the Next Century; No. 5; Legal System, Part 2](https://americanarchive.org/catalog/cpb-aacip-2a861cc87fa)</br>
-[Our Society in the Next Century; No. 6; Health Care, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz81z8v)</br>
-[Our Society in the Next Century; No. 6; Health Care, Part 2](https://americanarchive.org/catalog/cpb-aacip-a0434eebeb5)</br>
-[Our Society in the Next Century; No. 7; City Planning, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-rj48p5wk3r)</br>
-[Our Society in the Next Century; No. 7; City Planning, Part 2](https://americanarchive.org/catalog/cpb-aacip-af79b6ff64f)</br>
-[Our Society in the Next Century; No. 7; City Planning, Part 3](https://americanarchive.org/catalog/cpb-aacip-e82c8b17cd6)</br>
-[Our Society in the Next Century; No. 8; Transportation, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-x639z91p8t)</br>
-[Our Society in the Next Century; No. 8; Transportation, Part 2](https://americanarchive.org/catalog/cpb-aacip-e075f20cc65)</br>
-[Our Society in the Next Century; No. 9; Environment, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg04)</br>
-[Our Society in the Next Century; No. 9; Environment, Part 2](https://americanarchive.org/catalog/cpb-aacip-611b6b84ff6)</br>
-[Our Society in the Next Century; No. 9; Environment, Part 3](https://americanarchive.org/catalog/cpb-aacip-a9176d7b4e5)</br>
-[Our Society in the Next Century; No. 10; Education, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g632)</br>
-[Our Society in the Next Century; No. 10; Education, Part 2](https://americanarchive.org/catalog/cpb-aacip-d1a538665b4)</br>
-[Our Society in the Next Century; No. 11; Manufacturing, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f892)</br>
-[Our Society in the Next Century; No. 11; Manufacturing, Part 2](https://americanarchive.org/catalog/cpb-aacip-c74afd0b8d8)</br>
-[Our Society in the Next Century; No. 12; Religion, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w696)</br>
-[Our Society in the Next Century; No. 12; Religion, Part 2](https://americanarchive.org/catalog/cpb-aacip-ee603dc5571)</br>
-[Posie Paints; Color [1999-12-13]](https://americanarchive.org/catalog/cpb-aacip-41-322bvxmn)</br>
-[Reflections of War](https://americanarchive.org/catalog/cpb-aacip-259-sx647c48)</br>
-[Southern Dials-- Soulful Styles](https://americanarchive.org/catalog/cpb-aacip-526-736m03zx0c)</br>
-[Stand the Storm](https://americanarchive.org/catalog/cpb-aacip-29-19f4qvqp)</br>
-[Ticktock Minutes; 1999 compilation](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q08t)</br>
-[Tree of Life; Intimate Strangers: Unseen Life on Earth](https://americanarchive.org/catalog/cpb-aacip-153-49t1g6j2)</br>
-[Unbreakable Spirits, Eight forty-eight; No. 4; Teens-Professionals](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn8k)</br>
-[Unbreakable Spirits, Eight forty-eight; No. 8; Female Buddhist Monk](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd3r)</br>
-[Wisconsin: Prisons & Politics](https://americanarchive.org/catalog/cpb-aacip-29-010p2r97)</br>
+[American Prophet: The Story of Joseph Smith](https://americanarchive.org/catalog/cpb-aacip-46-00000021) | Vermont Public Television</br>
+[Chicago Tonight; No. 16123; JAMA Firing [1999-02]](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc83) | WTTW</br>
+[Chicago Tonight; No. 16149; Kosovo Strike [1999-03-24]](https://americanarchive.org/catalog/cpb-aacip-526-qf8jd4qw9k) | WTTW</br>
+[Chicago Tonight; No. 16150; Henry Kissinger/Kosovo [1999-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-zk55d8pt52) | WTTW</br>
+[Chicago Tonight; No. 16170; On the Road. How Do We Deal With Colorado's Crisis? [1999-04-29]](https://americanarchive.org/catalog/cpb-aacip-526-862b854k4k) | WTTW</br>
+[Chicago Tonight; No. 17034; What is Electronic Day Trading? [1999-08-31]](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq65) | WTTW</br>
+[Chicago Week in Review [1999-01-02]](https://americanarchive.org/catalog/cpb-aacip-526-f76639m94t) | WTTW</br>
+[Chicago Week in Review [1999-01-09]](https://americanarchive.org/catalog/cpb-aacip-526-p26pz52s0w) | WTTW</br>
+[Chicago Week in Review [1999-01-30]](https://americanarchive.org/catalog/cpb-aacip-526-2v2c825c81) | WTTW</br>
+[Chicago Week in Review [1999-08-07]](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r8c) | WTTW</br>
+[Chicago Week in Review [1999-11-20]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31pw87) | WTTW</br>
+[Fishko Files, The; 1999 Excerpts, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73887f) | WNYC</br>
+[KOPB Radio News; The Great Tsunami of '64](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg3s) | Oregon Public Broadcasting</br>
+[Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Lyme+Disease%3A+A+Guide+to+Prevention) | Connecticut Public Television | New Jersey Network</br>
+[Our Society in the Next Century; No. 1; Arts](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Arts&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 2; Race Relations](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race+Relations&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 3; Government](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Government&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 4; Sports](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Sports&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 5; Legal System](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Legal+System&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 6; Health Care](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Health+Care&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 7; City Planning](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=City+Planning&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 8; Transportation](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Transportation&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 9; Environment](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Environment&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 10; Education](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Education&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 11; Manufacturing](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Manufacturing&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Our Society in the Next Century; No. 12; Religion](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Religion&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | WKSU</br>
+[Posie Paints; Color [1999-12-13]](https://americanarchive.org/catalog/cpb-aacip-41-322bvxmn) | Mississippi Educational Television</br>
+[Reflections of War](https://americanarchive.org/catalog/cpb-aacip-259-sx647c48) | New Jersey Network</br>
+[Southern Dials-- Soulful Styles](https://americanarchive.org/catalog/cpb-aacip-526-736m03zx0c) | WTVI</br>
+[Stand the Storm](https://americanarchive.org/catalog/cpb-aacip-29-19f4qvqp) | WHA</br>
+[Ticktock Minutes; 1999 compilation](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q08t) | Mississippi Educational Television</br>
+[Tree of Life; Intimate Strangers: Unseen Life on Earth](https://americanarchive.org/catalog/cpb-aacip-153-49t1g6j2) | Oregon Public Broadcasting</br>
+[Unbreakable Spirits, Eight forty-eight; No. 4; Teens-Professionals](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn8k) | WBEZ</br>
+[Unbreakable Spirits, Eight forty-eight; No. 8; Female Buddhist Monk](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd3r) | WBEZ</br>
+[Wisconsin: Prisons & Politics](https://americanarchive.org/catalog/cpb-aacip-29-010p2r97) | WHA</br>
 
 ### 2000s
 
 ##### 2003
 
-[Love Stories](https://americanarchive.org/catalog/cpb-aacip-526-qn5z60dc0c)</br>
+[Love Stories](https://americanarchive.org/catalog/cpb-aacip-526-qn5z60dc0c) | Chicago Public Radio</br>
 
 #### Next: [Exploring the Peabody Collection by Location](/exhibits/peabody/location)
 
