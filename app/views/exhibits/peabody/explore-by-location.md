@@ -45,6 +45,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Alaska News Nightly; Impeachment Coverage [1985-08-05]](https://americanarchive.org/catalog/cpb-aacip-af103c49a4d) | 1985</br>
 [Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Alaska+News+Nightly) | 1985</br>
 
+##### KSKA
+
+[Opening the Literate Mind; No. 5; Cultivating Literacy](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr1k) | 1988</br>
+
 ##### Western Media Concepts, Inc.
 
 [Opening the Literate Mind; No. 5; Cultivating Literacy](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr1k) | 1988</br>
@@ -168,8 +172,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Straight Up; No. 3; Self-Image & Life Skills](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mx5f) | 1988</br>
 [By The Year 2000; Coverage Lost](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c46k) | 1989</br>
 [By The Year 2000; Emergency Room Collapse](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt5v) | 1989</br>
-[By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp6s) | 1989</br>
-[By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c94m) | 1989</br>
+[By The Year 2000; Healing the System](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Healing+the+System) | 1989</br>
 [In Poor Health](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q14) | 1989</br>
 [Living the Last Days](https://americanarchive.org/catalog/cpb-aacip-526-z892806c3h) | 1989</br>
 [Report From Hungary](https://americanarchive.org/catalog/cpb-aacip-526-086348hf04) | 1989</br>
@@ -380,8 +383,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 ##### Connecticut Public Television
 
 [Thumbs Across America](https://americanarchive.org/catalog/cpb-aacip-398-69m37xmt) | 1986</br>
-[Halftime](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc4v) | 1989</br>
-[Halftime](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr8s) | 1989</br>
+[Halftime](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Halftime&sort=title+asc) | 1989</br>
 [Other Connecticut, The](https://americanarchive.org/catalog/cpb-aacip-398-89d51pcr) | 1989</br>
 [Multi-Cultural; Mission Statement](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn9q) | 1992</br>
 [Amistad Connecticut: A Legacy Reborn](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04426) | 1998</br>
@@ -608,8 +610,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Chicago Tonight with John Callaway; No. 5086, Mayoral Succession [1987-11-26]](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932f12) | 1987</br>
 [Chicago Tonight with John Callaway; No. 5089, Sawyer Elected [1987-12-02]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh7b) | 1987</br>
 [Golden Apples for Excellence in Teaching, The; No. 2 [1987-05-20]](https://americanarchive.org/catalog/cpb-aacip-526-8s4jm24h1d) | 1987</br>
-[...And The Pursuit of Happiness](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j33r) | 1988</br>
-[...And The Pursuit of Happiness](https://americanarchive.org/catalog/cpb-aacip-526-qb9v11wr24) | 1988</br>
+[...And The Pursuit of Happiness](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=...And+the+Pursuit+of+Happiness) | 1988</br>
 [Chicago Tonight; No. 5176; Cokely Follow-up [1988-05-04]](https://americanarchive.org/catalog/cpb-aacip-526-5q4rj49s1g) | 1988</br>
 [Chicago Tonight; No. 5182; Washington Painting [1988-05-16]](https://americanarchive.org/catalog/cpb-aacip-526-b853f4mr93) | 1988</br>
 [Japan; No. 104](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z58n) | 1988</br>
@@ -1037,7 +1038,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 #### Albuquerque
 
-##### KNME
+##### KNME (New Mexico PBS)
 
 [End of an Aquifer, The](https://americanarchive.org/catalog/cpb-aacip-191-80vq8bkg) | 1981</br>
 [Memories of Hell](https://americanarchive.org/catalog/cpb-aacip-191-33dz0d6f) | 1982</br>
@@ -1176,15 +1177,13 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Kwitny Report, The; No. 205; The Crash of '87 [1987-11-11]](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q912) | 1987</br>
 [Kwitny Report, The; No. 210; The CIA and Covert Action [1987-12-06]](https://americanarchive.org/catalog/cpb-aacip-526-5q4rj49r9p) | 1987</br>
 [Adopt-a-Class](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x42t) | 1988</br>
-[More Than Broken Glass: Memories of Kristallnacht](https://americanarchive.org/catalog/cpb-aacip-526-c53dz0446f) | 1988</br>
-[More Than Broken Glass: Memories of Kristallnacht](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv5d) | 1988</br>
+[More Than Broken Glass: Memories of Kristallnacht](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=More+Than+Broken+Glass%3A+Memories+of+Kristallnacht) | 1988</br>
 [Operation Playground](https://americanarchive.org/catalog/cpb-aacip-526-4746q1th6g) | 1988</br>
 [Kwitny Report, The; The JFK Assassination](https://americanarchive.org/catalog/cpb-aacip-526-j96057f10h) | 1988</br>
 [Kwitny Report, The. U.S. Foreign Aid](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v5t) | 1988</br>
 [America's Century; No. 3; Familiar Enemies](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c920) | 1989</br>
 [America's Century; No. 6; The Next Century](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q39k) | 1989</br>
-[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music, Part 1 [1989-12-17]](https://americanarchive.org/catalog/cpb-aacip-80-93ttfstk) | 1989</br>
-[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music, Part 2 [1989-12-17]](https://americanarchive.org/catalog/cpb-aacip-e9833ab0c73) | 1989</br>
+[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music [1989-12-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Arts+Alive+From+the+Algonquin&sort=title+asc) | 1989</br>
 [On The Line; Kids and Prejudice; No. 1; Prejudice in the Family [1990-09-10]](https://americanarchive.org/catalog/cpb-aacip-80-79574cj9) | 1990</br>
 [On The Line; Kids and Prejudice; No. 2; Prejudice in the Media [1990-09-11]](https://americanarchive.org/catalog/cpb-aacip-80-43nvxkgv) | 1990</br>
 [On The Line; Kids and Prejudice; No. 4; School Conflict Resolution [1990-09-13]](https://americanarchive.org/catalog/cpb-aacip-80-440rzh6x) | 1990</br>
@@ -1524,8 +1523,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Legacies of the Land: A Tale of Texas](https://americanarchive.org/catalog/cpb-aacip-526-445h990b9z) | 1985</br>
 [Starting Over in America](https://americanarchive.org/catalog/cpb-aacip-526-d795718t0g) | 1986</br>
 [News Addition and Town Hall Specials](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c778) | 1988</br>
-[Project Crossroads; All God's People](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn45) | 1989</br>
-[Project Crossroads; All God's People](https://americanarchive.org/catalog/cpb-aacip-526-zw18k76875) | 1989</br>
+[Project Crossroads; All God's People](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=All+God%27s+People) | 1989</br>
 [Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f) | 1989</br>
 [Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k) | 1990</br>
 [Peacemaker](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc0x) | 1995</br>
@@ -1581,15 +1579,13 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 ##### Vermont Public Radio
 
 [Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Voices+in+the+Hills%3A+Profiles+of+Vermont+Workers&sort=title+asc) | 1984</br>
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g) | 1990</br>
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423) | 1990</br>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Journey%27s+End%3A+The+Memories+and+Traditions+of+Daisy+Turner+and+Her+Family&sort=title+asc) | 1990</br>
 
 #### Middlebury
 
 ##### Vermont Folklife Center
 
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g) | 1990</br>
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423) | 1990</br>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Journey%27s+End%3A+The+Memories+and+Traditions+of+Daisy+Turner+and+Her+Family&sort=title+asc) | 1990</br>
 
 #### Windsor
 
