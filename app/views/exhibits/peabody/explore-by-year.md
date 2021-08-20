@@ -480,7 +480,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Enterprise; Tailspin](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q11x) | KERA</br>
 [Great Spirit Within the Hole, The](https://americanarchive.org/catalog/cpb-aacip-77-44bp0mdh) | KTCA</br>
 [In the Land of Time](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=In+the+Land+of+Time&sort=title+asc) | WHRO</br>
-[John Callaway Interviews; 1983, Composite Of Five Programs]](https://americanarchive.org/catalog/cpb-aacip/526-5717m0515v) | WTTW</br>
+[John Callaway Interviews; 1983, Composite Of Five Programs](https://americanarchive.org/catalog/cpb-aacip/526-5717m0515v) | WTTW</br>
 [Lost in Time](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js62) | Auburn University Television</br>
 [Million Dollar Mud Flats](https://americanarchive.org/catalog/cpb-aacip-55-st7dr2ps8p) | KQED</br>
 [Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Beethoven%27s+Metronome+Markings&sort=title+asc) | WGBH</br>
