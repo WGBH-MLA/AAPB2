@@ -133,8 +133,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Safe Haven](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n154) | 1987</br>
 [Shaping New Dimensions](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gs62) | 1987</br>
 [Troubled Waters](https://americanarchive.org/catalog/cpb-aacip-83-214mwh2h) | 1987</br>
-[...And The Pursuit of Happiness](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j33r) | 1988</br>
-[...And The Pursuit of Happiness](https://americanarchive.org/catalog/cpb-aacip-526-qb9v11wr24) | 1988</br>
+[...And The Pursuit of Happiness](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=...And+the+Pursuit+of+Happiness) | 1988</br>
 [America's Prison Crisis: Monuments to Failure ](https://americanarchive.org/catalog/cpb-aacip-191-66j0zwpr) | 1988</br>
 [California Stories; Dreams: Theater of the Night](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv5g) | 1988</br>
 [Canada: True North; No. 102; Where is Here?](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh5q) | 1988</br>
@@ -149,8 +148,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Kids, Sex & Choices](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px76) | 1988</br>
 [Los Angeles History Project, The: Trouble in Angel City](https://americanarchive.org/catalog/cpb-aacip-526-5x25b00290) | 1988</br>
 [Made in America](https://americanarchive.org/catalog/cpb-aacip-526-0z70v8bh33) | 1988</br>
-[More Than Broken Glass: Memories of Kristallnacht](https://americanarchive.org/catalog/cpb-aacip-526-c53dz0446f) | 1988</br>
-[More Than Broken Glass: Memories of Kristallnacht](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv5d) | 1988</br>
+[More Than Broken Glass: Memories of Kristallnacht](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=More+Than+Broken+Glass%3A+Memories+of+Kristallnacht) | 1988</br>
 [Pap Test, The: A Cure for the Crisis](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xk0x) | 1988</br>
 [Stock Market Crash, The: Can It Happen Again?](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr8r) | 1988</br>
 [Sun of Man, The](https://americanarchive.org/catalog/cpb-aacip-526-4j09w09z3s) | 1988</br>
@@ -158,8 +156,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [America's Century; No. 6; The Next Century](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q39k) | 1989</br>
 [Arctic Haze](https://americanarchive.org/catalog/cpb-aacip-526-q814m92k77) | 1989</br>
 [Frida Kahlo: Portrait of an Artist](https://americanarchive.org/catalog/cpb-aacip-55-78gf2s89) | 1989</br>
-[Halftime](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc4v) | 1989</br>
-[Halftime](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr8s) | 1989</br>
+[Halftime](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Halftime&sort=title+asc) | 1989</br>
 [Living the Last Days](https://americanarchive.org/catalog/cpb-aacip-526-z892806c3h) | 1989</br>
 [Nelson Mandela: Africa's Noblest Son; No. 1; The Early Years](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg8b) | 1989</br>
 [Nelson Mandela: Africa's Noblest Son; No. 2; Law Practice and Run-Ins with the Law](https://americanarchive.org/catalog/cpb-aacip-526-6w96689k65) | 1989</br>
@@ -187,10 +184,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Blackbirds in the Sun](https://americanarchive.org/catalog/cpb-aacip-42-94hmh2cf) | 1990</br>
 [Drinking 101: An Introduction to Alcohol](https://americanarchive.org/catalog/cpb-aacip-16-19s1rw84) | 1990</br>
 [Inside Information](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s9q) | 1990</br>
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g) | 1990</br>
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g) | 1990</br>
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423) | 1990</br>
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family, Part 2](https://americanarchive.org/catalog/cpb-aacip-b229b37c423) | 1990</br>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Journey%27s+End%3A+The+Memories+and+Traditions+of+Daisy+Turner+and+Her+Family&sort=title+asc) | 1990</br>
 [KCET Journal; Under New Management [1990-10-18]](https://americanarchive.org/catalog/cpb-aacip-526-c24qj78z85) | 1990</br>
 [Local Color](https://americanarchive.org/catalog/cpb-aacip-153-63fxpwp3) | 1990</br>
 [Nightly Business Report, The; Swords into Plowshares](https://americanarchive.org/catalog/cpb-aacip-526-ww76t0j80f) | 1990</br>
@@ -585,8 +579,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [New Tech Times, The; No. 212](https://americanarchive.org/catalog/cpb-aacip-526-w37kp7w14v) | 1984</br>
 [Houdini!](https://americanarchive.org/catalog/cpb-aacip-526-9882j69777) | 1987</br>
 [St. Louis Skyline; No. 805](https://americanarchive.org/catalog/cpb-aacip-526-b853f4mr5v) | 1988</br>
-[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music, Part 1 [1989-12-17]](https://americanarchive.org/catalog/cpb-aacip-80-93ttfstk) | 1989</br>
-[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music, Part 2 [1989-12-17]](https://americanarchive.org/catalog/cpb-aacip-e9833ab0c73) | 1989</br>
+[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music [1989-12-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Arts+Alive+From+the+Algonquin&sort=title+asc) | 1989</br>
 [Frugal Gourmet [1989-11-09]](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s57b) | 1989</br>
 [Wild Chicago; No. 208 & 209](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gq2m) | 1989</br>
 [WTTW Journal; The House That Jane Built [1990-11-14]](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz3396x) | 1990</br>
@@ -742,8 +735,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Wisconsin Magazine, The; No. 1504 [1988-10-26]](https://americanarchive.org/catalog/cpb-aacip-29-82k6dthf) | 1988</br>
 [By The Year 2000;  Coverage Lost](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c46k) | 1989</br>
 [By The Year 2000; Emergency Room Collapse](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt5v) | 1989</br>
-[By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp6s) | 1989</br>
-[By The Year 2000; Healing the System](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c94m) | 1989</br>
+[By The Year 2000; Healing the System](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Healing+the+System) | 1989</br>
 [Chicago Tonight; No. 6105; Ethnic Politics](https://americanarchive.org/catalog/cpb-aacip-526-x34mk66j9v) | 1989</br>
 [Chicago Tonight; No. 6170; Lam Tom and the Vietnamese Community](https://americanarchive.org/catalog/cpb-aacip-526-v97zk56v1p) | 1989</br>
 [Chicago Tonight; No. 7074; Blacks and Arabs](https://americanarchive.org/catalog/cpb-aacip-526-6w96689m6f) | 1989</br>
@@ -1052,8 +1044,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Radio Commentaries by Michael Henderson](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sd8f) | 1988</br>
 [A Place Called Home](https://americanarchive.org/catalog/cpb-aacip-526-v69862cn84) | 1989</br>
 [Front Street Weekly; Oregon's Passage to India [1989-03-20]](https://americanarchive.org/catalog/cpb-aacip-153-50gthzw3) | 1989</br>
-[Project Crossroads; All God's People](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn45) | 1989</br>
-[Project Crossroads; All God's People](https://americanarchive.org/catalog/cpb-aacip-526-zw18k76875) | 1989</br>
+[Project Crossroads; All God's People](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=All+God%27s+People) | 1989</br>
 [Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f) | 1989</br>
 [Engines of Our Ingenuity, The [1989-01-04]](https://americanarchive.org/catalog/cpb-aacip-20-4298sjwq) | 1989</br>
 [Wall Street Week; No. 1910; Galbraith on the Economy](https://americanarchive.org/catalog/cpb-aacip-394-35t76v3c) | 1989</br>
