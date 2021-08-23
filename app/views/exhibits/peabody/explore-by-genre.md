@@ -216,6 +216,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Inside Hunger](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82w4m) | 1992</br>
 [Massacre: The Story of East Timor](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n0g) | 1992</br>
 [Remembering David](https://americanarchive.org/catalog/cpb-aacip-83-074tmx7h) | 1992</br>
+[Surviving Columbus](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=Surviving+Columbus&f[access_types][]=digitized) | 1992</br>
 [Adult Literacy in Fairbanks](https://americanarchive.org/catalog/cpb-aacip-526-dv1cj88p9d) | 1993</br>
 [Almanac; Shades of Truth [1993-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv57) | 1993</br>
 [Altered States](https://americanarchive.org/catalog/cpb-aacip-189-73bzkqmj) | 1993</br>
@@ -369,12 +370,18 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [NET Journal; No. 257; To Save Tomorrow](https://americanarchive.org/catalog/cpb-aacip-75-44pk0t5j) | 1969</br>
 [Darker Brother Series, The; You Never Miss Your Daddy 'Til He Up and---!](https://americanarchive.org/catalog/cpb-aacip-30-bv79s1kx40) | 1970</br>
 [Miscellaneous; The Teaching Machine : Educating the Young](https://americanarchive.org/catalog/cpb-aacip-80-33dz0w56) | 1970</br>
+[A Birthday Story](https://americanarchive.org/catalog/cpb-aacip-60-032281rj) | 1971
 [About Science; Dry Ice: A Flame Test](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc5d) | 1971</br>
+[Art for the Day; Nos. 108, 118, 121, 130](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg5p) | 1971</br>
+[Math Factory; Joining Sets - Addition](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w20) | 1971</br>
 [North of the Namaskeag; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx4b) | 1971</br>
 [North of the Namaskeag; No. 2, Town Meeting](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34np06) | 1971</br>
 [North of the Namaskeag; No. 3, Stockholder's Meeting](https://americanarchive.org/catalog/cpb-aacip-526-fj29883s2q) | 1971</br>
 [North of the Namaskeag; No. 4, E.I.C. Hearing](https://americanarchive.org/catalog/cpb-aacip-526-7940r9n69z) | 1971</br>
 [North of the Namaskeag; No. 5, Afternoon Edition](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q388) | 1971</br>
+[Words are for Reading; A Day at School](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m4k) | 1971</br>
+[Words are for Reading; Trees](https://americanarchive.org/catalog/cpb-aacip-526-9882j6972p) | 1971</br>
+[Words are for Reading; Zoo](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j037) | 1971</br>
 [Animals and Such; No. 2; Microscopic Pond Life](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010q2d) | 1972</br>
 [Dollar Data; No. 1; Matter of Choice](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd6p) | 1972</br>
 [Firing Line; Music and Modernism](https://americanarchive.org/catalog/cpb-aacip-514-qz22b8wc0t) | 1972</br>
@@ -511,6 +518,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [New Explorers, The; Series III; No. 312; Earthquakes [1993-06-04]](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq4j) | 1993</br>
 [New Explorers, The; Series III; No. 313; Childen of the River [1993-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k78) | 1993</br>
 [Assignment: The World](https://americanarchive.org/catalog/cpb-aacip-526-833mw29d9f) | 1993</br>
+[Fascinatin' Rhythm; Early Black Songwriters](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Early+Black+Songwriters&sort=title+asc) | 1994</br>
+[Fascinatin' Rhythm; Counting Down to the Millennium](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Counting+Down+to+the+Millennium&sort=title+asc) | 1994</br>
+[Fascinatin' Rhythm; The Irreverent 30's](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Irreverent+30%27s&sort=title+asc) | 1994</br>
 [Newton's Apple; No. 1201 [1994-08-12]](https://americanarchive.org/catalog/cpb-aacip-77-741rp8nv) | 1994</br>
 [Oregon Field Guide Education Program; Focus on Organisms](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Focus+on+Organisms&sort=title+asc) | 1994</br>
 [Oregon Field Guide Education Program; Focus on Places](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Focus+on+Places&sort=title+asc) | 1994</br>
@@ -1097,6 +1107,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 #### Youth or Children’s
 
 [Teen Age Book Talk](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v20) | 1960</br>
+[Teenage Book Talk; Eleanor Roosevelt and Helen Ferris](https://americanarchive.org/catalog/cpb-aacip-80-75r7tj08) | 1961</br>
 [Our Two Cents Worth](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v4m) | 1965</br>
 [Newseekers](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5t96h) | 1971</br>
 [Beauty and the Beast](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb45) | 1973</br>
