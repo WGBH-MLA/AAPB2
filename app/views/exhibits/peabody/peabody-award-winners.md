@@ -8,7 +8,67 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 
 ## Extended
 
-### Items Not Available on the ORR
+### Items Available in the ORR
+
+[Wisconsin School of the Air; Afield with Ranger Mac](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22Afield+With+Ranger+Mac%22&sort=episode_number_sort+asc) | 1942 | WHA</br>
+[Weekly Talk to the People-- Mayor F.H. LaGuardia.](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc6q) | 1944 | WNYC (Radio station : New York, N.Y.)</br>
+[Books in Profile; Marchette Chute](https://americanarchive.org/catalog/cpb-aacip-80-25x6b73h) | 1956 | WNYC (Radio station : New York, N.Y.)</br>
+[Louis M. Lyons television and news reporting](https://americanarchive.org/catalog/cpb-aacip-15-25x69zd8) | 1957 | WGBH</br>
+[Teenage Book Talk; Eleanor Roosevelt and Helen Ferris](https://americanarchive.org/catalog/cpb-aacip-80-75r7tj08) | 1961 | WNYC (Radio station : New York, N.Y.)</br>
+[The Reader's Almanac; Marianne Moore](https://americanarchive.org/catalog/cpb-aacip-80-97xkthmn) | 1961 | WNYC (Radio station : New York, N.Y.)</br>
+[News Coverage from the New York Times During Newspaper Strike](https://americanarchive.org/catalog/cpb-aacip-526-h98z893h45) | 1962 | WQXR (Radio station : New York, N.Y.)</br>
+[Book Beat](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc3h) | 1968 | WTTW (Television station : Chicago, Ill.)</br>
+[Politithon '70](https://americanarchive.org/catalog/cpb-aacip-526-w08w951w8s) | 1970 | WPBT-TV (Television station : Miami, Fla.)</br>
+[Art for the Day; Nos. 108, 118, 121, 130](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg5p) | 1971 | Mississippi Center for Educational Television</br>
+[A Birthday Story](https://americanarchive.org/catalog/cpb-aacip-60-032281rj) | 1971 | Mississippi Center for Educational Television</br>
+[Math Factory; Joining Sets - Addition](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w20) | 1971 | Mississippi Center for Educational Television</br>
+[Words are for Reading; A Day at School](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m4k) | 1971 | Mississippi Center for Educational Television</br>
+[About Science; Dry Ice: A Flame Test](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc5d) | 1971 | Mississippi Center for Educational Television</br>
+[Wisconsin on the Move; Aware and Wary of Wares](https://americanarchive.org/catalog/cpb-aacip-30-27mpgv1s) | 1971 | WHA (Radio station : Madison, Wis.) | Wisconsin Public Radio</br>
+[Words are for Reading; Trees](https://americanarchive.org/catalog/cpb-aacip-526-9882j6972p) | 1971 | Mississippi Center for Educational Television</br>
+[Words are for Reading; Zoo](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j037) | 1971 | Mississippi Center for Educational Television</br>
+[Newsmaker; Campaign '71: Charles Evers](https://americanarchive.org/catalog/cpb-aacip-526-r785h7d47z) | 1971 | Mississippi Center for Educational Television</br>
+[Tornado Relief](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73885t) | 1971 | Mississippi Center for Educational Television</br>
+[Animals and Such](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010q2d) | 1972 | WHRO (Television station : Norfolk, Va.)</br>
+[Writing Time](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks0g) | 1972 | WHRO (Television station : Norfolk, Va.)</br>
+[People Puzzle](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n430) | 1972 | WHRO (Television station : Norfolk, Va.)</br>
+[Dollar Data: A Matter of Choice](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd6p) | 1972 | WHRO (Television station : Norfolk, Va.)</br>
+[A Thirst in the Garden](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r27w) | 1976 | KERA Dallas/Ft. Worth (Television station)</br>
+[Meeting of minds; No. 101](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98f3r) | 1977 | KCET (Television station : Los Angeles, Calif.)</br>
+[Meeting of minds; No. 103](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q3r) | 1977 | KCET (Television station : Los Angeles, Calif.)</br>
+[Meeting of minds; No. 105](https://americanarchive.org/catalog/cpb-aacip-526-319s17tp8p) | 1977 | KCET (Television station : Los Angeles, Calif.)</br>
+[Broken Arrow: Can a Nuclear Weapons Accident Happen Here?](https://americanarchive.org/catalog/cpb-aacip-55-vm42r3pj0f) | 1980 | KQED-TV (Television station : San Francisco, Calif.)</br>
+[The Day after Trinity: J. Robert Oppenheimer and the Atomic Bomb](https://americanarchive.org/catalog/cpb-aacip-526-m61bk17x41) | 1981 | KTEH</br>
+[Small Things Considered; 1984 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-599z030615) | 1984 | WNYC (Radio station : New York, N.Y.)</br>
+[One On One, Part II; No. 1; Shooting Stars & the Drummer From Outer Space with Astronomer Harry Shipman](https://americanarchive.org/catalog/cpb-aacip-526-z892806b93) | 1986 | Connecticut Public Radio</br>
+[One On One, Part II; No. 2; Will Bees Prove That Animals Think, Featuring Dr. Donald Griffin](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx0785m) | 1986 | Connecticut Public Radio</br>
+[One On One, Part II; No. 3;  Adventure on the Serenghetti Plain with Dr. Patricia Moehlman](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts1z) | 1986 | Connecticut Public Radio</br>
+[One On One, Part II; No. 4;  Searching for Lemurs in the Madagascar Rain Forest with Dr. Allison Jolly](https://americanarchive.org/catalog/cpb-aacip-526-m03xs5km0q) | 1986 | Connecticut Public Radio</br>
+[One On One, Part II; No. 5;  Should Scientists Be Responsible For What They Create, Featuring Dr. Victor Weiskopf, formerly of the Manhattan Project](https://americanarchive.org/catalog/cpb-aacip-526-k93125rj3p) | 1986 | Connecticut Public Radio</br>
+[One On One, Part II; No. 6;  A Walking Tour of Dinosaurs in the Great Hall with Dr. Kevin Padian](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng34) | 1986 | Connecticut Public Radio</br>
+[One On One, Part II; No. 7;  What Makes Bridges Stay Up and Fall Down, Featuring Dr. David Billington](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h039) | 1986 | Connecticut Public Radio</br>
+[One On One, Part II; No. 8;  Using Bob Newhart Comedy to Teach Physics, with Dr. William Bennett](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j04j) | 1986 | Connecticut Public Radio</br>
+[Safe Haven](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n154) | 1987 | WXXI-TV (Television station : Rochester, N.Y.)</br>
+[...And The Pursuit of Happiness](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=...And+the+Pursuit+of+Happiness&f[access_types][]=online) | 1988 | WTTW (Television station : Chicago, Ill.)</br>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n3g) | 1990 | Vermont Public Radio | Vermont Folklife Center</br>
+[Surviving Columbus](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=Surviving+Columbus&f[access_types][]=digitized) | 1992 | KNME-TV (Television station : Albuquerque, N.M.)</br>
+[The New Explorers. Series III; No. 301; The Fragile Fossil](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7689s) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 310; Dive Into Darkness](https://americanarchive.org/catalog/cpb-aacip-526-bg2h709313) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 312; Earthquakes](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq4j) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 313; Childen of the River](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k78) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 302; The Dream Fulfilled](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc2g) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 303C; The Great Chicago Flood](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m181) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 304; Running out of Time](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f953) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 307; Orphans of Time](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f88r) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 308; Super Seeds](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73879s) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[The New Explorers. Series III; No. 309; Spiral of Silence](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px2n) | 1993 | WTTW (Television station : Chicago, Ill.)</br>
+[Fascinatin' Rhythm; Early Black Songwriters](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Early+Black+Songwriters&sort=title+asc) | 1994 | WXXI-FM (Television station : Rochester, N.Y.)</br>
+[Fascinatin' Rhythm; Counting Down to the Millennium](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Counting+Down+to+the+Millennium&sort=title+asc) | 1994 | WXXI-FM (Television station : Rochester, N.Y.)</br>
+[Fascinatin' Rhythm; The Irreverent 30's](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Irreverent+30%27s&sort=title+asc) | 1994 | WXXI-FM (Television station : Rochester, N.Y.)</br>
+[This American Life; From a Distance](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rv9c) | 1996 | WBEZ (Radio station : Chicago, Ill.)</br>
+[The Castro](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7006r) | 1997 | KQED-TV (Television station : San Francisco, Calif.)</br>
+
+### Items Not Available in the ORR
 
 [Crossroads of the Future; What UNESCO Is](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=What+UNESCO+Is&f[access_types][]=digitized) | 1948 | Lowell Institute. Cooperative Broadcasting Council</br>
 [We Human Beings; Story of Brig](https://americanarchive.org/catalog/cpb-aacip-526-sn00z7277z) | 1948 | Lowell Institute. Cooperative Broadcasting Council</br>
