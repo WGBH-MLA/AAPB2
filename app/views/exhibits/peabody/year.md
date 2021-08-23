@@ -1090,7 +1090,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gg2t) | WTTW<br/>
 [1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v78) | WTTW<br/>
 [Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95) | University of Alabama<br/>
-[Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p) | University of Alabama; Alabama Public Television<br/>
+[Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p) | University of Alabama | Alabama Public Television<br/>
 [Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip-526-086348hf60) | WTTW<br/>
 [Chicago Matters; Questions of Faith: A Pastor's Journal](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=A+Pastor%27s+Journal) | WBEZ<br/>
 [Chicago Matters; Questions of Faith; Feeling the Spirit: Storefront Churches](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t22h) | WBEZ | WTTW<br/>
