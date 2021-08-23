@@ -943,10 +943,10 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [New Jersey Nightly News; Employment in the Changing Workplace](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6k995) | 1983</br>
 [New Jersey Nightly News; Employment in the Changing Workplace](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6k995) | 1983</br>
 [Nightly Business Report, The; The Bell Breakup: The 7 Regionals & the New AT&T](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt6g) | 1983</br>
-[Race To City Hall, The: The 1983 Chicago Mayoral Debates](https://americanarchive.org/catalog/cpb-aacip/526-7659c6t19d) | 1983</br>
-[Chicago Tonight With John Callaway; No. 1049; Democratic Convention, Part I](https://americanarchive.org/catalog/cpb-aacip/526-r49g44jz8g) | 1984</br>
-[Chicago Tonight With John Callaway; No. 1053; Firing of Ruth Love & Taxicab Deregulation](https://americanarchive.org/catalog/cpb-aacip/526-gm81j98f0t) | 1984</br>
-[Chicago Tonight With John Callaway; No. 2081; Gang Violence](https://americanarchive.org/catalog/cpb-aacip/526-j09w08xk3v) | 1984</br>
+[Race To City Hall, The: The 1983 Chicago Mayoral Debates](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t19d) | 1983</br>
+[Chicago Tonight With John Callaway; No. 1049; Democratic Convention, Part I](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz8g) | 1984</br>
+[Chicago Tonight With John Callaway; No. 1053; Firing of Ruth Love & Taxicab Deregulation](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98f0t) | 1984</br>
+[Chicago Tonight With John Callaway; No. 2081; Gang Violence](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xk3v) | 1984</br>
 [Georgia Digest; No. 203; Dignity Of the Mentally Retarded](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn12290) | 1984</br>
 [KCET Journal; Transplanting Hope [1984-06-27]](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b995) | 1984</br>
 [Nightly Business Report, The; Drugs In the Workplace [1984-07-04]](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n45m) | 1984</br>
@@ -983,18 +983,18 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Almanac; No. 543; [1989-07-07]](https://americanarchive.org/catalog/cpb-aacip-77-322bwqzv) | 1989</br>
 [Almanac; No. 605; [1989-09-29]](https://americanarchive.org/catalog/cpb-aacip-77-02q5807j) | 1989</br>
 ["It Means the World to All of Us" Environmental Public Service Campaign](https://americanarchive.org/catalog/cpb-aacip-526-mc8rb6x61p) | 1990</br>
-[Chicago Matters; Town Meeting; The Muck Stops Here](https://americanarchive.org/catalog/cpb-aacip/526-fx73t9fc27) | 1990</br>
+[Chicago Matters; Town Meeting; The Muck Stops Here](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc27) | 1990</br>
 [KQED Radio News (San Francisco, Calif.). 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-sn00z7279k) | 1990</br>
 [Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k) | 1990</br>
-[WTTW Journal; No. 206; Coming Clean](https://americanarchive.org/catalog/cpb-aacip/526-bn9x05zc4c) | 1990</br>
+[WTTW Journal; No. 206; Coming Clean](https://americanarchive.org/catalog/cpb-aacip-526-bn9x05zc4c) | 1990</br>
 [New York Works; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kg8n) | 1990</br>
-[Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip/526-2j6833nx77) | 1991</br>
-[Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip/526-wh2d796m92) | 1991</br>
+[Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx77) | 1991</br>
+[Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796m92) | 1991</br>
 [Chicago Matters; Town Meeting](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=Town+Meeting&f%5Bproducing_organizations%5D%5B%5D=WTTW&f[access_types][]=online) | 1991</br>
-[Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip/526-4f1mg7gt3d) | 1991</br>
-[Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip/526-mg7fq9rc2j) | 1991</br>
-[Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip/526-pn8x922q41) | 1991</br>
-[Chicago Tonight; No. 8171; Juvenile Court](https://americanarchive.org/catalog/cpb-aacip/526-8p5v699b3c) | 1991</br>
+[Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gt3d) | 1991</br>
+[Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc2j) | 1991</br>
+[Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip-526-pn8x922q41) | 1991</br>
+[Chicago Tonight; No. 8171; Juvenile Court](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b3c) | 1991</br>
 [Paradise Lost?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Paradise+Lost%3F) | 1991</br>
 [Austin at Issue: Help Wanted; No. 1, Work Force Issues](https://americanarchive.org/catalog/cpb-aacip-526-hm52f7kz5m) | 1992</br>
 [Austin at Issue: Help Wanted; No. 2, Social Problems](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq2t) | 1992</br>
@@ -1009,25 +1009,25 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Nightly Business Report, The; Starting a Business Month](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04482) | 1992</br>
 [Senior Fair: A Consumers Guide](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq7g) | 1992</br>
 [WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=WTTW+1992+Election+Coverage+Composite) | 1992</br>
-[WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip/526-ms3jw87t33) | 1992</br>
-[WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip/526-kk9474807c) | 1992</br>
+[WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t33) | 1992</br>
+[WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip-526-kk9474807c) | 1992</br>
 [A Plact to Call Home; No. 3; Home at Last](https://americanarchive.org/catalog/cpb-aacip-52-13zs7jkw) | 1993</br>
 [And Learning For All; No. 1; What's Ahead: Where Learning is Going in America](https://americanarchive.org/catalog/cpb-aacip-52-85n8ptqm) | 1993</br>
 [And Learning For All; No. 4; You Knew That! Cultivating Excellence in Math and Science](https://americanarchive.org/catalog/cpb-aacip-52-84zgn1wb) | 1993</br>
 [Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Combating+Racism%3A+Where+to+Begin&sort=title+asc) | 1993</br>
-[Chicago Matters on Race; No. 403; WTTW Journal; The Cost of Racism [1993-05-19]](https://americanarchive.org/catalog/cpb-aacip/526-9k45q4sq20) | 1993</br>
-[Chicago Public Schools: At the Crossroads; No. 101; Good Schools, Work in Progress](https://americanarchive.org/catalog/cpb-aacip/526-x639z91q1x) | 1993</br>
+[Chicago Matters on Race; No. 403; WTTW Journal; The Cost of Racism [1993-05-19]](https://americanarchive.org/catalog/cpb-aacip-526-9k45q4sq20) | 1993</br>
+[Chicago Public Schools: At the Crossroads; No. 101; Good Schools, Work in Progress](https://americanarchive.org/catalog/cpb-aacip-526-x639z91q1x) | 1993</br>
 [Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Structure+and+Leadership&sort=title+asc) | 1993</br>
 [Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Bottom+Line&sort=title+asc) | 1993</br>
 [Mayoral Debates, The](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0rz8k) | 1993</br>
 [Parenting in the '90s; 1993 compilation](https://americanarchive.org/catalog/cpb-aacip-526-4m9183543p) | 1993</br>
 [Wall Street Week; No. 2248; W$W With Louis Rukeyser in Japan](https://americanarchive.org/catalog/cpb-aacip-394-612ngsdn) | 1993</br>
-[WTTW Journal; About the Children: School Reform Year IV](https://americanarchive.org/catalog/cpb-aacip/526-4x54f1nj6c) | 1993</br>
-[A Man and a School: The Providence St. Mel Story](https://americanarchive.org/catalog/cpb-aacip/526-qb9v11ws0s) | 1994</br>
+[WTTW Journal; About the Children: School Reform Year IV](https://americanarchive.org/catalog/cpb-aacip-526-4x54f1nj6c) | 1993</br>
+[A Man and a School: The Providence St. Mel Story](https://americanarchive.org/catalog/cpb-aacip-526-qb9v11ws0s) | 1994</br>
 [Bridges: A Liberal/Conservative Dialogue with Larry Josephson; No. 6; Shelby Steel: Portrait of a Black Conservative, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-db7vm43z7t) | 1994</br>
-[Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip/526-w950g3jc2k) | 1994</br>
+[Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc2k) | 1994</br>
 [Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Breaking+the+Cycle) | 1994</br>
-[Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip/526-4b2x34nn8d) | 1994</br>
+[Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn8d) | 1994</br>
 [Forum with Michael Krasny; Aids & Politics [1994-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r70) | 1994</br>
 [Forum with Michael Krasny; Murray Gell Mann [1994-05-05]](https://americanarchive.org/catalog/cpb-aacip-526-2n4zg6h28z) | 1994</br>
 [Forum with Michael Krasny; Rwanda [1994-05-18]](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg71) | 1994</br>
@@ -1041,8 +1041,8 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [On the Media; Radiation Experiments: Getting the Story](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Radiation+Experiments%3A+Getting+the+Story&sort=title+asc) | 1994</br>
 [On the Media; Science Reporting; Haiti, the Press and U.S. Policy](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c49h) | 1994</br>
 [OPB on Behalf of Children: Immunize Now!](https://americanarchive.org/catalog/cpb-aacip-526-rx9377760z) | 1994</br>
-[WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip/526-pk06w97h8b) | 1994</br>
-[WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip/526-zw18k7685j) | 1994</br>
+[WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h8b) | 1994</br>
+[WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7685j) | 1994</br>
 [Heart of the City; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-7940r9n633) | 1994</br>
 [Finding the Dollars: Illinois Schools at the Crossroads](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Finding+the+Dollars%3A+Illinois+Schools+at+the+Crossroads%22) | 1995</br>
 [Forum; Youth Issues [1995-01-18]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bproducing_organizations%5D%5B%5D=KQED&q=%22Youth+Issues%22&sort=title+asc) | 1995</br>
@@ -1058,10 +1058,10 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Shades of L.A.; No. 4; Shades of Learning](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Shades+of+L.A.&sort=title+asc) | 1995</br>
 [Voices From the Village; No. 101; Afrocentricity Defined?](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3t00n) | 1995</br>
 [Voices From the Village; No. 104; The Need for Spirituality](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp30) | 1995</br>
-[1996 Candidate Free Time; No. 101; Salvi/Durbin Senate Race](https://americanarchive.org/catalog/cpb-aacip/526-tt4fn1219q) | 1996</br>
-[1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip/526-6t0gt5gg2t) | 1996</br>
-[1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip/526-ng4gm82v78) | 1996</br>
-[Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip/526-086348hf60) | 1996</br>
+[1996 Candidate Free Time; No. 101; Salvi/Durbin Senate Race](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1219q) | 1996</br>
+[1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gg2t) | 1996</br>
+[1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v78) | 1996</br>
+[Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip-526-086348hf60) | 1996</br>
 [Chicago Matters; Questions of Faith; A Pastor's Journal](https://americanarchive.org/catalog/cpb-aacip-526-mp4vh5dn9d) | 1996</br>
 [Chicago Matters; Questions of Faith; Feeling the Spirit: Storefront Churches](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t22h) | 1996</br>
 [Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=News+and+features+reports) | 1996</br>
@@ -1070,9 +1070,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Chicago Matters; Questions of Faith; The Aging of the Convent](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g56) | 1996</br>
 [Chicago Matters; Questions of Faith; The Fire Within: Islam in Prison](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt82) | 1996</br>
 [Chicago Matters; Questions of Faith; The Leap of Faith: Teenagers Talk about Religion](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr64) | 1996</br>
-[Chicago Matters; Questions of Faith; Chicago's Sacred Treasures](https://americanarchive.org/catalog/cpb-aacip/526-rb6vx07877) | 1996</br>
-[Chicago Matters; Questions of Faith; The Heart of Religion](https://americanarchive.org/catalog/cpb-aacip/526-dr2p55fk27) | 1996</br>
-[Chicago Tonight; Muslim Mosaic](https://americanarchive.org/catalog/cpb-aacip/526-c24qj78z9g) | 1996</br>
+[Chicago Matters; Questions of Faith; Chicago's Sacred Treasures](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx07877) | 1996</br>
+[Chicago Matters; Questions of Faith; The Heart of Religion](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk27) | 1996</br>
+[Chicago Tonight; Muslim Mosaic](https://americanarchive.org/catalog/cpb-aacip-526-c24qj78z9g) | 1996</br>
 [Forum; No. 1; Race, Class, and Diversity [1996-10-16]](https://americanarchive.org/catalog?after_date=1996-10-16&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc) | 1996</br>
 [Forum; No. 2; Race, Class, and Diversity; Religion and Diversity [1996-11-20]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc&exact_or_range=exact&after_date=1996-11-20&commit=Update) | 1996</br>
 [Forum; No. 3; Race, Class, and Diversity; Diversity and the Family [1996-12-17]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc&exact_or_range=exact&after_date=1996-12-17&commit=Update) | 1996</br>
