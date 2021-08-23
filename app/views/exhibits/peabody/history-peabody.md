@@ -138,4 +138,3 @@ After Lou Benjamin served as interim director during 2000, Horace Newcomb, direc
 
 
 ## Records
-![image](https://user-images.githubusercontent.com/38049679/129923296-56d42ded-c8ef-43ec-bead-ed3717758bec.png)

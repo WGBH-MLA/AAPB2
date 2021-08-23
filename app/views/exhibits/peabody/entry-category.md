@@ -81,8 +81,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [A Hand-Me-Down Harvest; Sweetest Joys, Indeed](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0s00m) | 1984</br>
 [Aguas Negras: Black Water Time Bomb](https://americanarchive.org/catalog/cpb-aacip-526-sn00z72741) | 1984</br>
 [Cradle of the Stars, The: The Story of the "Louisiana Hayride"](https://americanarchive.org/catalog/cpb-aacip-17-88qc0md1) | 1984</br>
-[In Japan, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kg9z) | 1984</br>
-[In Japan, Part 2](https://americanarchive.org/catalog/cpb-aacip-a5a0f4921b3) | 1984</br>
+[In Japan](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=In+Japan&sort=title+asc) | 1984</br>
 [KCET Journal; Transplanting Hope](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d95x) | 1984</br>
 [Now Tell Us All About the War](https://americanarchive.org/catalog/cpb-aacip-35-36tx99h9) | 1984</br>
 [Shelter](https://americanarchive.org/catalog/cpb-aacip-283-61rfjj43) | 1984</br>
@@ -1135,4 +1134,3 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 
 ## Records
-![image](https://user-images.githubusercontent.com/38049679/129918668-5ff8b3b7-7343-4413-bb2f-a70fe9777c18.png)

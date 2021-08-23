@@ -1541,8 +1541,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [In the Land of Time](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=In+the+Land+of+Time&sort=title+asc) | 1983</br>
 [Human Community, The; Species Modifications](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt4v) | 1984</br>
 [Human Community, The; Toxic Waste](https://americanarchive.org/catalog/cpb-aacip-387-375tb6pn) | 1984</br>
-[In Japan, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kg9z) | 1984</br>
-[In Japan, Part 2](https://americanarchive.org/catalog/cpb-aacip-a5a0f4921b3) | 1984</br>
+[In Japan](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=In+Japan&sort=title+asc) | 1984</br>
 [WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d) | 1992</br>
 [Assembly Week; No. 702](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b967) | 1994</br>
 [Beyond Survival](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Beyond+Survival) | 1994</br>
