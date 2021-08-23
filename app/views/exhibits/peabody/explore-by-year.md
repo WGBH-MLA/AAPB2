@@ -141,6 +141,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [People and Ideas; Informing the Public: Opportunity or Disaster?](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z06g) | WNYC</br>
 [Reader's Almanac; Marianne Moore](https://americanarchive.org/catalog/cpb-aacip-80-97xkthmn) | WNYC</br>
 [Should the U.S. Change Its China Policy?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22should+the+u.s.+change+its+china+policy%22&sort=title+asc) | Pacifica Radio | WBAI</br>
+[Teenage Book Talk; Eleanor Roosevelt and Helen Ferris](https://americanarchive.org/catalog/cpb-aacip-80-75r7tj08) | WNYC</br>
 
 ##### 1962
 
@@ -217,7 +218,10 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1971
 
+[A Birthday Story](https://americanarchive.org/catalog/cpb-aacip-60-032281rj) | Mississippi Educational Television</br>
 [About Science; Dry Ice : A Flame Test](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc5d) | Mississippi Educational Television</br>
+[Art for the Day; Nos. 108, 118, 121, 130](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg5p) | Mississippi Educational Television</br>
+[Math Factory; Joining Sets - Addition](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w20) | Mississippi Educational Television</br>
 [Newseekers](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5t96h) | KCET</br>
 [Newsmaker; Campaign '71: Charles Evers](https://americanarchive.org/catalog/cpb-aacip-526-r785h7d47z) | Mississippi Educational Television</br>
 [North of the Namaskeag; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx4b) | Maine Public Broadcasting Network</br>
@@ -226,6 +230,9 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [North of the Namaskeag; No. 4, E.I.C. Hearing](https://americanarchive.org/catalog/cpb-aacip-526-7940r9n69z) | Maine Public Broadcasting Network</br>
 [North of the Namaskeag; No. 5, Afternoon Edition](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q388) | Maine Public Broadcasting Network</br>
 [Tornado Relief](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73885t) | Mississippi Educational Television</br>
+[Words are for Reading; A Day at School](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m4k) | Mississippi Educational Television</br>
+[Words are for Reading; Trees](https://americanarchive.org/catalog/cpb-aacip-526-9882j6972p) | Mississippi Educational Television</br>
+[Words are for Reading; Zoo](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j037) | Mississippi Educational Television</br>
 [Your World This Week](https://americanarchive.org/catalog/cpb-aacip-526-0r9m32p67h) | Twin Cities Public Television</br>
 
 ##### 1972
@@ -901,6 +908,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Savalot's Energy Secrets](https://americanarchive.org/catalog/cpb-aacip-17-23hx46v6) | Louisiana Public Broadcasting</br>
 [Senior Fair: A Consumers Guide](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq7g) | WTTW</br>
 [Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j) | KCET</br>
+[Surviving Columbus](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=Surviving+Columbus&f[access_types][]=digitized) | KNME</br>
 [WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d) | WHRO</br>
 [WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=WTTW+1992+Election+Coverage+Composite) | WTTW</br>
 [WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t33) | WTTW</br>
@@ -990,6 +998,9 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Breaking+the+Cycle) | WTTW</br>
 [Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn8d) | WTTW</br>
 [Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t) | Vermont ETV</br>
+[Fascinatin' Rhythm; Early Black Songwriters](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Early+Black+Songwriters&sort=title+asc) | WXXI</br>
+[Fascinatin' Rhythm; Counting Down to the Millennium](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Counting+Down+to+the+Millennium&sort=title+asc) | WXXI</br>
+[Fascinatin' Rhythm; The Irreverent 30's](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Irreverent+30%27s&sort=title+asc) | WXXI</br>
 [Fear on the Inside: A Story of Domestic Violence](https://americanarchive.org/catalog/cpb-aacip-526-xp6tx36f7q) | WBEZ</br>
 [Forgotten Mothers and Children of the AIDS Epidemic, The](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+Forgotten+Mothers+and+Children+of+the+AIDS+Epidemic&sort=title+asc) | Connecticut Public Radio</br>
 [Forum with Michael Krasny; Aids & Politics [1994-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r70) | KQED</br>
