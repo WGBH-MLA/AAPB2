@@ -37,6 +37,11 @@ The organization of the Peabody Awards materials follows patterns set when the P
  
 The first Peabody entries were submitted on transcription discs. Early recordings of radio broadcasts were sent on acetate, lacquer, or glass discs; later radio entries on quarter-inch audio tape, audiocassettes, and compact discs. The first television entries, including many kinescopes, came to the Peabody Awards on 16mm film. By the late 1960s, television entries were submitted on videotape, on two-inch quad at first, then on ¾-inch U-matic, Betacam, Betacam-SP, and VHS. Later formats included HDCam, DVCam, DVC-Pro, XD-Cam, DVD, and Blu-Ray. Beginning with the 2013 entries, the Peabody Awards Office changed its guidelines to request digital files instead of analog copies. As with analog submissions, when judging is complete, the digital files are transferred to the Libraries.
  
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">Peabody Awards Gallery at the Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/PeabodyGallery.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/PeabodyGallery.jpg" class="big-image" alt="Peabody Awards Gallery at the Hargrett Rare Book and Manuscript Library, University of Georgia Libraries."/></a></td></tr>
+</table>
+ 
 In the 1970s, the Peabody Awards Office began creating access copies for use in judging. These were later transferred to the Libraries along with the archival originals. In the 1990s, the Peabody Awards Office began to require that entrants send both broadcast-quality and access copies. The analog viewing and listening copies of Peabody Awards entries are available to researchers through the Libraries Media Department, but access to these is limited to the University of Georgia Campus. The Libraries has analog viewing copies of more than 36,000 television entries and analog listening copies of more than 15,000 radio entries. 
  
 The [Peabody Awards Collection database](http://dbs.galib.uga.edu/cgi-bin/ultimate.cgi?dbs=parc&userid=galileo&action=search&_cc=1) provides information taken from Peabody Awards entry forms. For submissions from 1940-1974, the database contains records of every entry for which the archives has a copy. For entries from 1975 to the present, the database contains a record of the submission, whether the archives has a copy or not. Currently, there are more than 75,000 entries in the database. 
@@ -50,8 +55,6 @@ To search the Peabody Awards Collection at UGA, researchers can visit [https://b
 ## Main
 
 ## Cover
-
-<img title="Cover Image" alt="Peabody Awards Gallery at the Hargrett Rare Book and Manuscript Library, University of Georgia Libraries." src="https://s3.amazonaws.com/americanarchive.org/exhibits/PeabodyGallery_square.jpg">
 
 ## Gallery
 
