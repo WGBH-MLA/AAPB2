@@ -480,7 +480,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Enterprise; Tailspin](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q11x) | KERA</br>
 [Great Spirit Within the Hole, The](https://americanarchive.org/catalog/cpb-aacip-77-44bp0mdh) | KTCA</br>
 [In the Land of Time](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=In+the+Land+of+Time&sort=title+asc) | WHRO</br>
-[John Callaway Interviews; 1983, Composite Of Five Programs](https://americanarchive.org/catalog/cpb-aacip/526-5717m0515v) | WTTW</br>
+[John Callaway Interviews; 1983, Composite Of Five Programs](https://americanarchive.org/catalog/cpb-aacip-526-5717m0515v) | WTTW</br>
 [Lost in Time](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js62) | Auburn University Television</br>
 [Million Dollar Mud Flats](https://americanarchive.org/catalog/cpb-aacip-55-st7dr2ps8p) | KQED</br>
 [Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Beethoven%27s+Metronome+Markings&sort=title+asc) | WGBH</br>
@@ -491,7 +491,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Nighttimes: Magazine; Nuclear Outpost](https://americanarchive.org/catalog/cpb-aacip-526-3775t3gz9n) | Twin Cities Public Television</br>
 [Nowhere to go but up](https://americanarchive.org/catalog/cpb-aacip-111-623bkcgx) | Arkansas Educational Television Network</br>
 [Out & About; Maintaining Friends](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b8x) | Wisconsin Educational Television Network</br>
-[Race To City Hall, The: The 1983 Chicago Mayoral Debates](https://americanarchive.org/catalog/cpb-aacip/526-7659c6t19d) | WTTW</br>
+[Race To City Hall, The: The 1983 Chicago Mayoral Debates](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t19d) | WTTW</br>
 [Remembering Jewish Europe: From Tradition to Modernity; Warsaw [1983-04-10]](https://americanarchive.org/catalog/cpb-aacip-80-214mwsgs) | WNYC</br>
 [September 1st, 1983](https://americanarchive.org/catalog/cpb-aacip-55-84mkmvwx) | KQED</br>
 [State of Transition #2; Tom Urban, John Ruan, Richard Kosobud](https://americanarchive.org/catalog/cpb-aacip-37-86nzsjvj) | Iowa Public Television</br>
@@ -511,12 +511,12 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [A Hand-Me-Down Harvest; If Only One Cow Showed Up](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk0m) | Vermont Public Radio</br>
 [A Hand-Me-Down Harvest; Sweetest Joys, Indeed](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0s00m) | Vermont Public Radio</br>
 [Aguas Negras: Black Water Time Bomb](https://americanarchive.org/catalog/cpb-aacip-526-sn00z72741) | KPBS</br>
-[Chicago Tonight With John Callaway; No. 1049; Democratic Convention, Part I](https://americanarchive.org/catalog/cpb-aacip/526-r49g44jz8g) | WTTW</br>
-[Chicago Tonight With John Callaway; No. 1053; Firing of Ruth Love & Taxicab Deregulation](https://americanarchive.org/catalog/cpb-aacip/526-gm81j98f0t) | WTTW</br>
-[Chicago Tonight With John Callaway; No. 2081; Gang Violence](https://americanarchive.org/catalog/cpb-aacip/526-j09w08xk3v) | WTTW</br>
-[Child Sexual Abuse: What Your Children Should Know; No. 101; Parent's Show](https://americanarchive.org/catalog/cpb-aacip/526-s46h12wg51) | WTTW</br>
-[Child Sexual Abuse: What Your Children Should Know; No. 103; Grades 4-7](https://americanarchive.org/catalog/cpb-aacip/526-2b8v980m90) | WTTW</br>
-[Child Sexual Abuse: What Your Children Should Know; No. 105; Senior High School](https://americanarchive.org/catalog/cpb-aacip/526-xs5j961m5s) | WTTW</br>
+[Chicago Tonight With John Callaway; No. 1049; Democratic Convention, Part I](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz8g) | WTTW</br>
+[Chicago Tonight With John Callaway; No. 1053; Firing of Ruth Love & Taxicab Deregulation](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98f0t) | WTTW</br>
+[Chicago Tonight With John Callaway; No. 2081; Gang Violence](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xk3v) | WTTW</br>
+[Child Sexual Abuse: What Your Children Should Know; No. 101; Parent's Show](https://americanarchive.org/catalog/cpb-aacip-526-s46h12wg51) | WTTW</br>
+[Child Sexual Abuse: What Your Children Should Know; No. 103; Grades 4-7](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980m90) | WTTW</br>
+[Child Sexual Abuse: What Your Children Should Know; No. 105; Senior High School](https://americanarchive.org/catalog/cpb-aacip-526-xs5j961m5s) | WTTW</br>
 [China Discovery](https://americanarchive.org/catalog/cpb-aacip-283-14nk9cws) | KCTS</br>
 [Cradle of the Stars, The: The Story of the "Louisiana Hayride"](https://americanarchive.org/catalog/cpb-aacip-17-88qc0md1) | Louisiana Public Broadcasting</br>
 [Georgia Digest; No. 203; Dignity Of the Mentally Retarded](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn12290) | Georgia Public Television</br>
@@ -571,7 +571,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [State Spectrum; No. 3; Federal/State Relationship](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fn3n) | Maryland Instructional Television</br>
 [Storylords; No. 2; Connecting What You Know With What's On the Page](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts56) | Wisconsin Educational Television Network</br>
 [Uncommon Places: The Architecture of Frank Lloyd Wright](https://americanarchive.org/catalog/cpb-aacip-29-085hqcqj) | WHA</br>
-[Veeck: A Man For Any Season](https://americanarchive.org/catalog/cpb-aacip/526-930ns0mz1g) | WTTW</br>
+[Veeck: A Man For Any Season](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mz1g) | WTTW</br>
 [War in the West](https://americanarchive.org/catalog/cpb-aacip-283-52w3r7zc) | KCTS</br>
 [What Do Women Really Want, Anyway?](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw3q) | Rocky Mountain PBS</br>
 [WILL News; Klan Rally in Mansfield](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jb6j) | WILL</br>
@@ -626,9 +626,9 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [California Stories; The Addicted Brain [1987-01-31]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Addicted+Brain) | KCET</br>
 [California Stories; Over-Exposed: Chemicals in the Workplace [1987-05-30]](https://americanarchive.org/catalog/cpb-aacip-526-mw28913006) | KCET</br>
 [California Stories; Art: Off the Wall [1987-10-31]](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21t1h) | KCET</br>
-[Chicago Tonight with John Callaway; No. 5064; Stock Market- Day 2 [1987-10-20]](https://americanarchive.org/catalog/cpb-aacip/526-vd6nz82016) | WTTW</br>
-[Chicago Tonight with John Callaway; No. 5086, Mayoral Succession [1987-11-26]](https://americanarchive.org/catalog/cpb-aacip/526-rf5k932f12) | WTTW</br>
-[Chicago Tonight with John Callaway; No. 5089, Sawyer Elected [1987-12-02]](https://americanarchive.org/catalog/cpb-aacip/526-v40js9jh7b) | WTTW</br>
+[Chicago Tonight with John Callaway; No. 5064; Stock Market- Day 2 [1987-10-20]](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz82016) | WTTW</br>
+[Chicago Tonight with John Callaway; No. 5086, Mayoral Succession [1987-11-26]](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932f12) | WTTW</br>
+[Chicago Tonight with John Callaway; No. 5089, Sawyer Elected [1987-12-02]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh7b) | WTTW</br>
 [Circle Of Plenty](https://americanarchive.org/catalog/cpb-aacip-283-451g1t6q) | KCTS</br>
 [City Tales; Santa Claus is Alive & Well and Living in Detroit](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rw6q) | WTVS</br>
 [First Frontier](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t5q) | Auburn University Television</br>
@@ -675,8 +675,8 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [California Stories; Dreams: Theater of the Night](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv5g) | KCET</br>
 [Canada: True North; No. 102; Where is Here?](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh5q) | WTVS</br>
 [Canada: True North; No. 103; A Song for Quebec](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n36n) | WTVS</br>
-[Chicago Tonight; No. 5176; Cokely Follow-up [1988-05-04]](https://americanarchive.org/catalog/cpb-aacip/526-5q4rj49s1g) | WTTW</br>
-[Chicago Tonight; No. 5182; Washington Painting [1988-05-16]](https://americanarchive.org/catalog/cpb-aacip/526-b853f4mr93) | WTTW</br>
+[Chicago Tonight; No. 5176; Cokely Follow-up [1988-05-04]](https://americanarchive.org/catalog/cpb-aacip-526-5q4rj49s1g) | WTTW</br>
+[Chicago Tonight; No. 5182; Washington Painting [1988-05-16]](https://americanarchive.org/catalog/cpb-aacip-526-b853f4mr93) | WTTW</br>
 [Defending America: The Price We Pay](https://americanarchive.org/catalog/cpb-aacip-55-95w6n70s) | KTEH</br>
 [Expecting Miracles](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c411) | KCET</br>
 [Express: The People vs. Larry Singleton](https://americanarchive.org/catalog/cpb-aacip-526-ff3kw58m1q) | KQED</br>
@@ -726,9 +726,9 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [By The Year 2000; Coverage Lost](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c46k) | KCET</br>
 [By The Year 2000; Emergency Room Collapse](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt5v) | KCET</br>
 [By The Year 2000; Healing the System](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Healing+the+System) | KCET</br>
-[Chicago Tonight; No. 6105; Ethnic Politics](https://americanarchive.org/catalog/cpb-aacip/526-x34mk66j9v) | WTTW</br>
-[Chicago Tonight; No. 6170; Lam Tom and the Vietnamese Community](https://americanarchive.org/catalog/cpb-aacip/526-v97zk56v1p) | WTTW</br>
-[Chicago Tonight; No. 7074; Blacks and Arabs](https://americanarchive.org/catalog/cpb-aacip/526-6w96689m6f) | WTTW</br>
+[Chicago Tonight; No. 6105; Ethnic Politics](https://americanarchive.org/catalog/cpb-aacip-526-x34mk66j9v) | WTTW</br>
+[Chicago Tonight; No. 6170; Lam Tom and the Vietnamese Community](https://americanarchive.org/catalog/cpb-aacip-526-v97zk56v1p) | WTTW</br>
+[Chicago Tonight; No. 7074; Blacks and Arabs](https://americanarchive.org/catalog/cpb-aacip-526-6w96689m6f) | WTTW</br>
 [Engines of Our Ingenuity, The [1989-01-04]](https://americanarchive.org/catalog/cpb-aacip-20-4298sjwq) | KUHF</br>
 [Frida Kahlo: Portrait of an Artist](https://americanarchive.org/catalog/cpb-aacip-55-78gf2s89) | KQED</br>
 [Front Street Weekly; Oregon's Passage to India [1989-03-20]](https://americanarchive.org/catalog/cpb-aacip-153-50gthzw3) | Oregon Public Broadcasting</br>
@@ -763,9 +763,9 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Where Once We Stood: The Lincoln School Story](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73884h) | University of Alabama</br>
 [Wild Chicago; No. 208 & 209](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gq2m) | WTTW</br>
 [Wrestling With AIDS](https://americanarchive.org/catalog/cpb-aacip-55-x05x63bn51) | KQED</br>
-[WTTW Journal: Radio Faces](https://americanarchive.org/catalog/cpb-aacip/526-k35m90373x) | WTTW</br>
-[WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip/526-bc3st7fw6b) | WTTW</br>
-[WTTW Journal: Vietnam: A Chicagoan Goes Home](https://americanarchive.org/catalog/cpb-aacip/526-cn6xw48w4p) | WTTW</br>
+[WTTW Journal: Radio Faces](https://americanarchive.org/catalog/cpb-aacip-526-k35m90373x) | WTTW</br>
+[WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw6b) | WTTW</br>
+[WTTW Journal: Vietnam: A Chicagoan Goes Home](https://americanarchive.org/catalog/cpb-aacip-526-cn6xw48w4p) | WTTW</br>
 
 ### 1990s
 
@@ -779,8 +779,8 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [By The Year 2000; The Have/Have-not Society](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js7c) | KCET</br>
 [By The Year 2000; The Underclass](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p87m) | KCET</br>
 [By The Year 2000; The Waning Class](https://americanarchive.org/catalog/cpb-aacip-526-4m9183537n) | KCET</br>
-[Chicago Matters; Town Meeting; The Muck Stops Here](https://americanarchive.org/catalog/cpb-aacip/526-fx73t9fc27) | WTTW</br>
-[Chicago Tonight; 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip/526-sj19k47399) | WTTW</br>
+[Chicago Matters; Town Meeting; The Muck Stops Here](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc27) | WTTW</br>
+[Chicago Tonight; 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47399) | WTTW</br>
 [Drinking 101: An Introduction to Alcohol](https://americanarchive.org/catalog/cpb-aacip-16-19s1rw84) | WILL</br>
 [Inside Information](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s9q) | KCET</br>
 [John McLaughlin's One on One [1990-06-08]](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m17q) | WTTW</br>
@@ -799,11 +799,11 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Power in the Pacific; No. 104; Power Without Purpose [1990-11-06]](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27n0p) | KCET</br>
 [Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k) | KERA</br>
 [Rap City Rhapsody](https://americanarchive.org/catalog/cpb-aacip-55-t43hx16800) | KQED</br>
-[School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip/526-w08w951w4j) | WTTW</br>
+[School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip-526-w08w951w4j) | WTTW</br>
 [StarFinder; No. 2; Pictures from Numbers](https://americanarchive.org/catalog/cpb-aacip-394-182jmdpw) | Maryland Public Television</br>
 [States of Mind; Mill City](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv10) | Oregon Public Broadcasting | British Broadcasting Corporation</br>
-[WTTW Journal; No. 206; Coming Clean](https://americanarchive.org/catalog/cpb-aacip/526-bn9x05zc4c) | WTTW</br>
-[WTTW Journal; The House That Jane Built [1990-11-14]](https://americanarchive.org/catalog/cpb-aacip/526-jh3cz3396x) | WTTW</br>
+[WTTW Journal; No. 206; Coming Clean](https://americanarchive.org/catalog/cpb-aacip-526-bn9x05zc4c) | WTTW</br>
+[WTTW Journal; The House That Jane Built [1990-11-14]](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz3396x) | WTTW</br>
 [WTTW Journal; Ed Paschke: The Artist Behind the Mask [1990-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-7p8tb0zt15) | WTTW</br>
 
 ##### 1991
@@ -814,13 +814,13 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p) | KCET</br>
 [By The Year 2000; We Are Family [1991-06-21]](https://americanarchive.org/catalog/cpb-aacip-526-5717m05137) | KCET</br>
 [By the Year 2000; The Color of Power [1991-07-12]](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb2k) | KCET</br>
-[Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip/526-2j6833nx77) | WTTW</br>
-[Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip/526-wh2d796m92) | WTTW</br>
+[Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx77) | WTTW</br>
+[Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796m92) | WTTW</br>
 [Chicago Matters; Town Meeting](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=Town+Meeting&f%5Bproducing_organizations%5D%5B%5D=WTTW&f[access_types][]=online) | WTTW</br>
-[Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip/526-4f1mg7gt3d) | WTTW</br>
-[Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip/526-mg7fq9rc2j) | WTTW</br>
-[Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip/526-pn8x922q41) | WTTW</br>
-[Chicago Tonight; No. 8171; Juvenile Court](https://americanarchive.org/catalog/cpb-aacip/526-8p5v699b3c) | WTTW</br>
+[Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gt3d) | WTTW</br>
+[Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc2j) | WTTW</br>
+[Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip-526-pn8x922q41) | WTTW</br>
+[Chicago Tonight; No. 8171; Juvenile Court](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b3c) | WTTW</br>
 [Club Connect; No. 5003; The Conflict Resolution Show](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z60f) | WXYZ | WTVS</br>
 [Diary: Asian Minnesotans](https://americanarchive.org/catalog/cpb-aacip-77-977srw38) | KTCA</br>
 [Diary: Native American Minnesotans](https://americanarchive.org/catalog/cpb-aacip-77-074tnfhr) | KTCA</br>
@@ -829,10 +829,10 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Intolerance Cycle, The](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=The+Intolerance+Cycle&f[access_types][]=online) | WXXI</br>
 [J.D.'s Journal; No. 101 [1991-01-01]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47324) | KUHT</br>
 [Lyme Disease: In Our Own Backyard; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-tm71zg8k) | Connecticut Public Broadcasting Network</br>
-[Making the Grade 1991; Chicago School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip/526-m901z4321m) | WTTW</br>
-[Making the Grade 1991; Making the Grade Minutes](https://americanarchive.org/catalog/cpb-aacip/526-wp9t14vx75) | WTTW</br>
-[Making the Grade 1991; Shopping for Schools: Educational Choices in the 90's](https://americanarchive.org/catalog/cpb-aacip/526-901zc7ss4r) | WTTW</br>
-[Making the Grade 1991; Teach Me!](https://americanarchive.org/catalog/cpb-aacip/526-r20rr1qs8t) | WTTW</br>
+[Making the Grade 1991; Chicago School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip-526-m901z4321m) | WTTW</br>
+[Making the Grade 1991; Making the Grade Minutes](https://americanarchive.org/catalog/cpb-aacip-526-wp9t14vx75) | WTTW</br>
+[Making the Grade 1991; Shopping for Schools: Educational Choices in the 90's](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss4r) | WTTW</br>
+[Making the Grade 1991; Teach Me!](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qs8t) | WTTW</br>
 [Mission from the Heart; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-qn5z9f3c) | New Jersey Network</br>
 [Mississippi Masters; No. 1; John C. Stennis: A Senator's Senator](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=John+C.+Stennis%3A+A+Senator%27s+Senator&f[access_types][]=online) | Mississippi Educational Television</br>
 [Oregon Field Guide [1991-10-03 & 1991-11-07]](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m472) | Oregon Public Broadcasting</br>
@@ -846,7 +846,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [TeenAIDS: Sons and Daughters](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m69v) | KCET</br>
 [Totally Radical Teenage Videos](https://americanarchive.org/catalog/cpb-aacip-359-203xspn2) | KET</br>
 [WOSU Radio News; Guns and Drugs for Sale in Columbus](https://americanarchive.org/catalog/cpb-aacip-526-3j39020f3p) | WOSU</br>
-[WTTW Journal; No. 304; Just Plain Hardworking ... Ten Good Lives [1991-10-23]](https://americanarchive.org/catalog/cpb-aacip/526-4q7qn6086s) | WTTW</br>
+[WTTW Journal; No. 304; Just Plain Hardworking ... Ten Good Lives [1991-10-23]](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6086s) | WTTW</br>
 [You've Got That Right; No. 2; Freedom of Speech](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7350n) | Mississippi Educational Television</br>
 [Your Land, My Land](https://americanarchive.org/catalog/cpb-aacip-153-8605qs1b) | Oregon Public Broadcasting</br>
 
@@ -903,8 +903,8 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j) | KCET</br>
 [WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d) | WHRO</br>
 [WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=WTTW+1992+Election+Coverage+Composite) | WTTW</br>
-[WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip/526-ms3jw87t33) | WTTW</br>
-[WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip/526-kk9474807c) | WTTW</br>
+[WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t33) | WTTW</br>
+[WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip-526-kk9474807c) | WTTW</br>
 
 ##### 1993
 
@@ -919,9 +919,9 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Audre Lorde: A Burst of Light](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx6k) | KPFA</br>
 [Chicago Matters; Ghetto Life 101](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q48x) | Sound Portraits Productions | WBEZ</br>
 [Chicago Matters on Race; Combating Racism: Where to Begin [1993-06-10]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Combating+Racism%3A+Where+to+Begin&sort=title+asc) | WTTW</br>
-[Chicago Matters on Race; No. 403; WTTW Journal; The Cost of Racism [1993-05-19]](https://americanarchive.org/catalog/cpb-aacip/526-9k45q4sq20) | WTTW</br>
+[Chicago Matters on Race; No. 403; WTTW Journal; The Cost of Racism [1993-05-19]](https://americanarchive.org/catalog/cpb-aacip-526-9k45q4sq20) | WTTW</br>
 [Chicago Matters; It's About Race: Coloring the Pipeline: Race & Drugs](https://americanarchive.org/catalog/cpb-aacip-526-x639z91v3n) | WBEZ</br>
-[Chicago Public Schools: At the Crossroads; No. 101; Good Schools, Work in Progress](https://americanarchive.org/catalog/cpb-aacip/526-x639z91q1x) | WTTW</br>
+[Chicago Public Schools: At the Crossroads; No. 101; Good Schools, Work in Progress](https://americanarchive.org/catalog/cpb-aacip-526-x639z91q1x) | WTTW</br>
 [Chicago Public Schools: At the Crossroads; No. 102; Structure and Leadership](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Structure+and+Leadership&sort=title+asc) | WTTW</br>
 [Chicago Public Schools: At the Crossroads; No. 103; The Bottom Line](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Bottom+Line&sort=title+asc) | WTTW</br>
 [Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98) | KUHT</br>
@@ -971,13 +971,13 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Really Short Show](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j02x) | Rocky Mountain PBS</br>
 [Trading Attitudes](https://americanarchive.org/catalog/cpb-aacip-153-78gf24gz) | Oregon Public Broadcasting</br>
 [Wall Street Week; No. 2248; W$W With Louis Rukeyser in Japan](https://americanarchive.org/catalog/cpb-aacip-394-612ngsdn) | Maryland Public Television</br>
-[WTTW Journal; Africa: A View From the Field [1993-11-17]](https://americanarchive.org/catalog/cpb-aacip/526-tb0xp6w929) | WTTW</br>
-[WTTW Journal; About the Children: School Reform Year IV](https://americanarchive.org/catalog/cpb-aacip/526-4x54f1nj6c) | WTTW</br>
+[WTTW Journal; Africa: A View From the Field [1993-11-17]](https://americanarchive.org/catalog/cpb-aacip-526-tb0xp6w929) | WTTW</br>
+[WTTW Journal; About the Children: School Reform Year IV](https://americanarchive.org/catalog/cpb-aacip-526-4x54f1nj6c) | WTTW</br>
 [WXXI Radio News; Young, Black and in Rochester](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Young%2C+Black+and+in+Rochester&sort=title+asc) | WXXI Public Broadcasting</br>
 
 ##### 1994
 
-[A Man and a School: The Providence St. Mel Story](https://americanarchive.org/catalog/cpb-aacip/526-qb9v11ws0s) | WTTW</br>
+[A Man and a School: The Providence St. Mel Story](https://americanarchive.org/catalog/cpb-aacip-526-qb9v11ws0s) | WTTW</br>
 [A Tribute to Glenn Miller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=A+Tribute+to+Glenn+Miller) | WXXI</br>
 [Assembly Week; No. 702](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b967) | WHRO</br>
 [Berlin Calling](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zr10) | WUGA</br>
@@ -985,10 +985,10 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Bridges: A Liberal/Conservative Dialogue with Larry Josephson; No. 6; Shelby Steel: Portrait of a Black Conservative [1994-08-14]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Bridges%3A+A+Liberal%2FConservative+Dialogue+with+Larry+Josephson&sort=title+asc) | WNYC</br>
 [Crusade: The Life of Billy Graham](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr2m) | WTTW</br>
 [D-Day Plus 50: Louisiana Remembers](https://americanarchive.org/catalog/cpb-aacip-17-65v6xv27) | WLPB</br>
-[Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip/526-w950g3jc2k) | WTTW</br>
-[Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip/526-dn3zs2md17) | WTTW</br>
+[Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc2k) | WTTW</br>
+[Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md17) | WTTW</br>
 [Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Breaking+the+Cycle) | WTTW</br>
-[Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip/526-4b2x34nn8d) | WTTW</br>
+[Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn8d) | WTTW</br>
 [Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t) | Vermont ETV</br>
 [Fear on the Inside: A Story of Domestic Violence](https://americanarchive.org/catalog/cpb-aacip-526-xp6tx36f7q) | WBEZ</br>
 [Forgotten Mothers and Children of the AIDS Epidemic, The](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+Forgotten+Mothers+and+Children+of+the+AIDS+Epidemic&sort=title+asc) | Connecticut Public Radio</br>
@@ -1023,8 +1023,8 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Vietnam: At the Crossroads](https://americanarchive.org/catalog/cpb-aacip-55-451g2gb6) | KTEH</br>
 [WHRO Non-Broadcast Educational Activities](https://americanarchive.org/catalog/cpb-aacip-526-8c9r20sw6x) | WHRO</br>
 [Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Women%27s+Health+Outreach%3A+Heart+to+Heart) | WHRO</br>
-[WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip/526-pk06w97h8b) | WTTW</br>
-[WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip/526-zw18k7685j) | WTTW</br>
+[WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h8b) | WTTW</br>
+[WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7685j) | WTTW</br>
 [Zoo Man](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h3r) | KETC</br>
 
 ##### 1995
@@ -1075,12 +1075,12 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 
 ##### 1996
 
-[1996 Candidate Free Time; No. 101; Salvi/Durbin Senate Race](https://americanarchive.org/catalog/cpb-aacip/526-tt4fn1219q) | WTTW</br>
-[1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip/526-6t0gt5gg2t) | WTTW</br>
-[1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip/526-ng4gm82v78) | WTTW</br>
+[1996 Candidate Free Time; No. 101; Salvi/Durbin Senate Race](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1219q) | WTTW</br>
+[1996 Candidate Free Time; No. 102](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gg2t) | WTTW</br>
+[1996 Candidate Free Time; No. 103](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v78) | WTTW</br>
 [Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95) | University of Alabama</br>
 [Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p) | University of Alabama; Alabama Public Television</br>
-[Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip/526-086348hf60) | WTTW</br>
+[Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip-526-086348hf60) | WTTW</br>
 [Chicago Matters; Questions of Faith: A Pastor's Journal](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=A+Pastor%27s+Journal) | WBEZ</br>
 [Chicago Matters; Questions of Faith; Feeling the Spirit: Storefront Churches](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t22h) | WBEZ | WTTW</br>
 [Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=News+and+features+reports) | WBEZ | WTTW</br>
@@ -1089,14 +1089,14 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Chicago Matters; Questions of Faith; The Aging of the Convent](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g56) | WBEZ | WTTW</br>
 [Chicago Matters; Questions of Faith; The Fire Within: Islam in Prison](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt82) | WBEZ | WTTW</br>
 [Chicago Matters; Questions of Faith; The Leap of Faith: Teenagers Talk about Religion](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr64) | WBEZ | WTTW</br>
-[Chicago Matters; Questions of Faith; Chicago's Sacred Treasures](https://americanarchive.org/catalog/cpb-aacip/526-rb6vx07877) | WTTW</br>
-[Chicago Matters; Questions of Faith; The Heart of Religion](https://americanarchive.org/catalog/cpb-aacip/526-dr2p55fk27) | WTTW</br>
-[Chicago Tonight; Muslim Mosaic](https://americanarchive.org/catalog/cpb-aacip/526-c24qj78z9g) | WTTW</br>
-[Chicago Tonight; No. 14050; Interest Rate Controversy](https://americanarchive.org/catalog/cpb-aacip/526-cn6xw48w69) | WTTW</br>
-[Chicago Tonight; No. 14060; Civility and Political Correctness](https://americanarchive.org/catalog/cpb-aacip/526-q52f767f3q) | WTTW</br>
-[Chicago Tonight; No. 14075; Gary Sinise](https://americanarchive.org/catalog/cpb-aacip/526-3f4kk95935) | WTTW</br>
-[Chicago Tonight; No. 14089; Welfare Reform: Illinois](https://americanarchive.org/catalog/cpb-aacip/526-9882j6978j) | WTTW</br>
-[Chicago Tonight; No. 14096; Property Tax Transfer](https://americanarchive.org/catalog/cpb-aacip/526-057cr5p88x) | WTTW</br>
+[Chicago Matters; Questions of Faith; Chicago's Sacred Treasures](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx07877) | WTTW</br>
+[Chicago Matters; Questions of Faith; The Heart of Religion](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk27) | WTTW</br>
+[Chicago Tonight; Muslim Mosaic](https://americanarchive.org/catalog/cpb-aacip-526-c24qj78z9g) | WTTW</br>
+[Chicago Tonight; No. 14050; Interest Rate Controversy](https://americanarchive.org/catalog/cpb-aacip-526-cn6xw48w69) | WTTW</br>
+[Chicago Tonight; No. 14060; Civility and Political Correctness](https://americanarchive.org/catalog/cpb-aacip-526-q52f767f3q) | WTTW</br>
+[Chicago Tonight; No. 14075; Gary Sinise](https://americanarchive.org/catalog/cpb-aacip-526-3f4kk95935) | WTTW</br>
+[Chicago Tonight; No. 14089; Welfare Reform: Illinois](https://americanarchive.org/catalog/cpb-aacip-526-9882j6978j) | WTTW</br>
+[Chicago Tonight; No. 14096; Property Tax Transfer](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p88x) | WTTW</br>
 [Downsizing the Dream](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8jt0g) | KPBS</br>
 [Exposures of a Movement](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d20k) | WTVI</br>
 [Fences & Neighborhoods](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s73) | Georgia Public Television</br>
