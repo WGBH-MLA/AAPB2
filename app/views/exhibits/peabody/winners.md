@@ -4,11 +4,11 @@
 
 ## Summary
 
-The following list presents Peabody Award winners in the AAPB collection ordered by date. Titles with asterisks next to the titles are available for online access in the AAPB. [Note: This list does not include winners for which Brown Media Archives or AAPB do not have digitized media.]
+The following list presents Peabody Award winners in the AAPB collection ordered by date. [Note: This list does not include winners for which Brown Media Archives or AAPB do not have digitized media.]
 
 ## Extended
 
-### Items Available in the ORR
+### Items Available for online access in the AAPB
 
 [Wisconsin School of the Air; Afield with Ranger Mac](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22Afield+With+Ranger+Mac%22&sort=episode_number_sort+asc) | 1942 | WHA</br>
 [Weekly Talk to the People-- Mayor F.H. LaGuardia.](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc6q) | 1944 | WNYC (Radio station : New York, N.Y.)</br>
@@ -68,7 +68,7 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 [This American Life; From a Distance](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rv9c) | 1996 | WBEZ (Radio station : Chicago, Ill.)</br>
 [The Castro](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7006r) | 1997 | KQED-TV (Television station : San Francisco, Calif.)</br>
 
-### Items Not Available in the ORR
+### Items Not available for online access in the AAPB
 
 [Crossroads of the Future; What UNESCO Is](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=What+UNESCO+Is&f[access_types][]=digitized) | 1948 | Lowell Institute. Cooperative Broadcasting Council</br>
 [We Human Beings; Story of Brig](https://americanarchive.org/catalog/cpb-aacip-526-sn00z7277z) | 1948 | Lowell Institute. Cooperative Broadcasting Council</br>
