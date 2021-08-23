@@ -1134,4 +1134,3 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 
 ## Records
-![image](https://user-images.githubusercontent.com/38049679/129918668-5ff8b3b7-7343-4413-bb2f-a70fe9777c18.png)
