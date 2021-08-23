@@ -126,7 +126,7 @@ In the early 1990s, Barry Sherman, who succeeded MacDougald, initiated a fund-ra
 
 After Lou Benjamin served as interim director during 2000, Horace Newcomb, director from 2001-2013, promoted scholarly use of the Peabody Awards Collection and instituted, with funding by Lessie Smithgall, a series of media-related lectures. The current Peabody Awards Director, Dr. Jeffrey Jones, is investigating ways to take advantage of emerging technologies to facilitate Board deliberations, share Peabody Awards Collection content with a wider audience, and attract new types of entries.
 
-#### Next: [The Peabody Awards Collection at the University of Georgia](/exhibits/peabody/peabody-UGA)
+#### Next: [The Peabody Awards Collection at the University of Georgia](/exhibits/peabody/peabody-uga)
 
 ## Main
 
