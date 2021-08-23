@@ -110,10 +110,10 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 [The Merry Widow](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q13j) | 1983 | WTTW (Television station : Chicago, Ill.)</br>
 [A Walk Through the 20th Century With Bill Moyers; Out of the Depths: The Miners' Story](https://americanarchive.org/catalog/cpb-aacip-75-9673nnfn) | 1983 | Corporation for Entertainment and Learning | WNET (Television station : New York, N.Y.) | KQED-TV (Television station : San Francisco, Calif.)</br>
 [Small Things Considered](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Bseries_titles%5D%5B%5D=Small+Things+Considered&f%5Baccess_types%5D%5B%5D=digitized&exact_or_range=exact&after_date=1984-12-31&commit=Update) | 1984 | WNYC (Radio station : New York, N.Y.)</br>
-[The Brain; No. 1], The Enlightened Machine](https://americanarchive.org/catalog/cpb-aacip-75-708w9s34) | 1984 | WNET</br>
-[The Brain; No. 3], Rhythms and Drives](https://americanarchive.org/catalog/cpb-aacip-75-73pvmsdh) | 1984 | WNET</br>
-[The Brain; No. 7], Madness](https://americanarchive.org/catalog/cpb-aacip-75-354f4x9m) | 1984 | WNET</br>
-[The Brain; No. 8], States Of Mind](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gb9c) | 1984 | WNET</br>
+[The Brain; No. 1, The Enlightened Machine](https://americanarchive.org/catalog/cpb-aacip-75-708w9s34) | 1984 | WNET</br>
+[The Brain; No. 3, Rhythms and Drives](https://americanarchive.org/catalog/cpb-aacip-75-73pvmsdh) | 1984 | WNET</br>
+[The Brain; No. 7, Madness](https://americanarchive.org/catalog/cpb-aacip-75-354f4x9m) | 1984 | WNET</br>
+[The Brain; No. 8, States Of Mind](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gb9c) | 1984 | WNET</br>
 [Heritage: Civilization and the Jews; No. 101; A People Is Born](https://americanarchive.org/catalog/cpb-aacip-75-03qv9zkt) | 1984 | WNET/Thirteen</br>
 [Heritage: Civilization and the Jews; No. 102; The Power Of the Word](https://americanarchive.org/catalog/cpb-aacip-75-36547pp8) | 1984 | WNET/Thirteen</br>
 [Heritage: Civilization and the Jews; No. 103; The Shaping Of Tradition](https://americanarchive.org/catalog/cpb-aacip-75-53jwt2jn) | 1984 | WNET/Thirteen</br>
