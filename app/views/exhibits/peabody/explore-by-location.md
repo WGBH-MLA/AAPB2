@@ -864,9 +864,15 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### Mississippi Educational Television
 
+[A Birthday Story](https://americanarchive.org/catalog/cpb-aacip-60-032281rj) | 1971</br>
 [About Science; Dry Ice: A Flame Test](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc5d) | 1971</br>
+[Art for the Day; Nos. 108, 118, 121, 130](https://americanarchive.org/catalog/cpb-aacip-526-fb4wh2fg5p) | 1971</br>
+[Math Factory; Joining Sets - Addition](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w20) | 1971</br>
 [Newsmaker; Campaign '71: Charles Evers](https://americanarchive.org/catalog/cpb-aacip-526-r785h7d47z) | 1971</br>
 [Tornado Relief](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73885t) | 1971</br>
+[Words are for Reading; A Day at School](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m4k) | 1971</br>
+[Words are for Reading; Trees](https://americanarchive.org/catalog/cpb-aacip-526-9882j6972p) | 1971</br>
+[Words are for Reading; Zoo](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j037) | 1971</br>
 [Beauty and the Beast](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb45) | 1973</br>
 [Governor's Conference on Education, The; Blacklife](https://americanarchive.org/catalog/cpb-aacip-526-w66930q64n) | 1973</br>
 [Governor's Conference on Education, The; The History of Education in Mississippi](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zq96) | 1973</br>
@@ -985,6 +991,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Memories of Hell](https://americanarchive.org/catalog/cpb-aacip-191-33dz0d6f) | 1982</br>
 [Monuments to Failure](https://americanarchive.org/catalog/cpb-aacip-191-66j0zwn1) | 1987</br>
 [America's Prison Crisis: Monuments to Failure ](https://americanarchive.org/catalog/cpb-aacip-191-66j0zwpr) | 1988</br>
+[Surviving Columbus](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=Surviving+Columbus&f[access_types][]=digitized) | 1992</br>
 [La Villa de Santa Fe](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v6z) | 1995</br>
 
 #### Las Cruces
@@ -1049,6 +1056,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ##### WNYC
 
+[Teenage Book Talk; Eleanor Roosevelt and Helen Ferris](https://americanarchive.org/catalog/cpb-aacip-80-75r7tj08) | 1961</br>
 [People and Ideas; The United Nations and Human Rights](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23m0c) | 1962</br>
 [People and Ideas; UNESCO and How It Works](https://americanarchive.org/catalog/cpb-aacip-526-3n20c4tk9m) | 1962</br>
 [People and Ideas; Informing the Public: Opportunity or Disaster?](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z06g) | 1961</br>
@@ -1184,6 +1192,9 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Mayoral Debates, The](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0rz8k) | 1993</br>
 [WXXI Radio News; Young, Black and in Rochester](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Young%2C+Black+and+in+Rochester&sort=title+asc) | 1993</br>
 [A Tribute to Glenn Miller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=A+Tribute+to+Glenn+Miller) | 1994</br>
+[Fascinatin' Rhythm; Early Black Songwriters](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Early+Black+Songwriters&sort=title+asc) | 1994</br>
+[Fascinatin' Rhythm; Counting Down to the Millennium](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Counting+Down+to+the+Millennium&sort=title+asc) | 1994</br>
+[Fascinatin' Rhythm; The Irreverent 30's](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Irreverent+30%27s&sort=title+asc) | 1994</br>
 [Continental Harmony: Exploring American Classical Music](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk68) | 1995</br>
 [Continental Harmony: Exploring American Classical Music; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-086348hf32) | 1995</br>
 [Fables in Four Minutes; 1995 compilation](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc6g) | 1995</br>
