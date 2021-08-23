@@ -41,6 +41,11 @@ The first Peabody Awards ceremony was held at the Hotel Commodore in New York Ci
 - CBS: Public service by a network
 - Elmer Davis: Best news reporting
  
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">1941 Peabody Awards luncheon, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/banquet1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/banquet1.jpg" class="big-image" alt="1941 Peabody Awards luncheon, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries."/></a></td></tr>
+</table>
+ 
 In 1942, the Peabody Board instituted the practice of issuing citations for each winner that describe the merits of the winning programs and explicitly state the reasons behind the Board's decisions. The Board has used phrases like "excellence on its own terms" and "stories that matter" to summarize the Peabody ethos, but, according to Jeffrey P. Jones, Director of the Peabody Awards, "There has never been a fixed set of criteria for what constitutes a winning program." Nevertheless, winner citations make it clear that the Peabody Board has always rewarded "stories that contribute in some way to an engaged citizenship."[<sup>2</sup>](/exhibits/peabody/notes#2)  
 
 In 1942, WHA in Madison, Wisconsin, became the first local public service radio station to win a Peabody Award for a specific series of broadcasts when Wisconsin School of the Air “[Afield With Ranger Mac”](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22Afield+With+Ranger+Mac%22&sort=episode_number_sort+asc) won for Outstanding Educational Program. The winner citation noted, “This series sets an example which should be widely followed.”[<sup>3</sup>](/exhibits/peabody/notes#3)  
@@ -126,8 +131,6 @@ After Lou Benjamin served as interim director during 2000, Horace Newcomb, direc
 ## Main
 
 ## Cover
-
-<img title="Cover Image" alt="1941 Peabody Awards luncheon, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries." src="https://s3.amazonaws.com/americanarchive.org/exhibits/banquet1_square.jpg">
 
 ## Gallery
 
