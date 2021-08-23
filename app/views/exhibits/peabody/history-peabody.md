@@ -39,7 +39,7 @@ The first Peabody Awards ceremony was held at the Hotel Commodore in New York Ci
 - WGAR: Public service by a medium station
 - WLW: Public service by a large station
 - CBS: Public service by a network
-- Elmer Davis: Best news reporting
+- Elmer Davis: Best news reporting 
  
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">1941 Peabody Awards luncheon, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</caption>
