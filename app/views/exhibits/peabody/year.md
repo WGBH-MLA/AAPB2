@@ -455,6 +455,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Profile: Lillian Hellman; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-vx05x26r00) | KERA<br/>
 [Profile: Lillian Hellman; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg01) | KERA<br/>
 [Profile: Lillian Hellman; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gn3x) | KERA<br/>
+[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981<br/>
 [U.S. Chronicle; Fishing Troubled Waters [1981-08-05]](https://americanarchive.org/catalog/cpb-aacip-526-pr7mp4wv6q) | KUHT<br/>
 [World Exchange; No Excuse, Sir [1981-08-14]](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv43) | KERA<br/>
 [Zookeepers](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx2c) | WTTW<br/>
