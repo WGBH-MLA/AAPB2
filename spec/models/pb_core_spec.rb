@@ -498,7 +498,8 @@ describe 'Validated and plain PBCore' do
             ["Description", "This is another plain description"],
             ["Episode", "This is an episode description"],
             ["Program", "This is the program description"],
-            ["Segment", "This is the Segment description"]
+            ["Segment", "This is the Segment description"],
+            ["Series", "This is the Series description"]
           ])
         end
       end
@@ -506,11 +507,12 @@ describe 'Validated and plain PBCore' do
       describe '.sorted_descriptions' do
         it 'returns the descriptions with expected sorting by type' do
           expect(pbc.sorted_descriptions).to eq([
-            ["Program", "This is the program description"],
             ["Episode", "This is an episode description"],
-            ["Segment", "This is the Segment description"],
+            ["Program", "This is the program description"],
             ["Description", "This is a plain description"],
-            ["Description", "This is another plain description"]
+            ["Description", "This is another plain description"],
+            ["Series", "This is the Series description"],
+            ["Segment", "This is the Segment description"],
           ])
         end
       end
@@ -518,11 +520,12 @@ describe 'Validated and plain PBCore' do
       describe '.display_descriptions' do
         it 'returns the descriptions with additional display language' do
           expect(pbc.display_descriptions).to eq([
-            ["Program Description", "This is the program description"],
             ["Episode Description", "This is an episode description"],
-            ["Segment Description", "This is the Segment description"],
+            ["Program Description", "This is the program description"],
             ["Other Description", "This is a plain description"],
-            ["Other Description", "This is another plain description"]
+            ["Other Description", "This is another plain description"],
+            ["Series Description", "This is the Series description"],
+            ["Segment Description", "This is the Segment description"]
           ])
         end
       end

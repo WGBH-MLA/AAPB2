@@ -32,20 +32,22 @@ class PBCorePresenter
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
   def descriptions_with_types
-    @descriptions_with_types ||= pairs_by_type('/*/pbcoreDescription', '@descriptionType').map{
-      |pair| pair.map{ |value| value.nil? ? "" : HtmlScrubber.scrub(value) }
+    @descriptions_with_types ||= pairs_by_type('/*/pbcoreDescription', '@descriptionType').map!{ |pair|
+      pair.map!{ |value| value.nil? ? "" : HtmlScrubber.scrub(value) }
+      pair[0].nil? ? pair[0] = "Description" : pair[0]
+      pair[1].nil? ? pair[1] = "" : pair[1]
+      [ pair[0], pair[1] ]
     }
   end
   def sorted_descriptions
-    ( descriptions_with_types.select{ |pair| pair[0] == "Program" } +
-      descriptions_with_types.select{ |pair| pair[0] == "Episode" } +
-      descriptions_with_types.select{ |pair| pair[0] == "Segment" } +
+    ( descriptions_with_types.select{ |pair| pair[0] == "Episode" } +
+      descriptions_with_types.select{ |pair| pair[0] == "Program" } +
+      descriptions_with_types.select{ |pair| pair[0] == "Description" } +
+      descriptions_with_types.select{ |pair| pair[0] == "Series" } +
       descriptions_with_types ).uniq
   end
   def display_descriptions
     @display_descriptions ||= sorted_descriptions.map! { |desc|
-      desc[0].nil? ? desc[0] = "Description" : desc[0]
-      desc[1].nil? ? desc[1] = "" : desc[1]
       [ (desc[0].strip.downcase != "description" ? "#{desc[0].strip} Description" : "Other Description"), desc[1] ]
     }
   end

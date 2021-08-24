@@ -15,6 +15,9 @@
   <pbcoreIdentifier source='Sony Ci'>0b41f18010864ecc8e8ac5709ee366cc</pbcoreIdentifier>
   <pbcoreTitle titleType='Series'>Black Journal</pbcoreTitle>
   <pbcoreTitle titleType='Episode Number'>1</pbcoreTitle>
+  <pbcoreDescription descriptionType='Series'>
+    This is the Series description
+  </pbcoreDescription>
   <pbcoreDescription descriptionType='Program'>
      This is the program description
   </pbcoreDescription>
