@@ -550,6 +550,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Made in New Hampshire; Ingersol-Rand - Le Ballet Industriel](https://americanarchive.org/catalog/cpb-aacip-526-pv6b27r01t) | 1979<br/>
 [WNYC Storytelling Festival; The Storyteller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=WNYC+Storytelling+Festival&sort=title+asc) | 1979<br/>
 [Opening Night: The Making of an Opera](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mm0w) | 1980<br/>
+[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981<br/>
 [PBS LateNight [1982-10-21]](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0cb28) | 1982<br/>
 [New Tech Times; No. 204](https://americanarchive.org/catalog/cpb-aacip-29-8380gksn) | 1984<br/>
 [New Tech Times, The; No. 212](https://americanarchive.org/catalog/cpb-aacip-526-w37kp7w14v) | 1984<br/>
