@@ -308,7 +308,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Forum; No. 1; Race, Class, and Diversity [1996-10-16]](https://americanarchive.org/catalog?after_date=1996-10-16&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc) | 1996<br/>
 [Forum; No. 2; Race, Class, and Diversity; Religion and Diversity [1996-11-20]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc&exact_or_range=exact&after_date=1996-11-20&commit=Update) | 1996<br/>
 [Forum; No. 3; Race, Class, and Diversity; Diversity and the Family [1996-12-17]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc&exact_or_range=exact&after_date=1996-12-17&commit=Update) | 1996<br/>
-[Castro, The](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7006r) | 1997<br/>
 
 #### San Jose
 
