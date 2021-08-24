@@ -100,7 +100,6 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 [Boettcher School of the Air; Science; Program 2, Air [1958-03-18]](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz47) | KRMA<br/>
 [Campus Press Conference; Dr. Leona Baumgartner, Commissioner of Health for the City of New York [1956-12-16]](https://americanarchive.org/catalog/cpb-aacip-80-010p388j) | WNYC<br/>
-[Children Growing! Series 2, program 7, From A to F : the report card](https://americanarchive.org/catalog/cpb-aacip-512-tx3513w07x) | WTTW<br/>
 [Coming Space Age, The](https://americanarchive.org/catalog/cpb-aacip-512-nk3610wt5k) | KRMA<br/>
 [Eyes for the Future; Glaucoma [1958-10-01]](https://americanarchive.org/catalog/cpb-aacip-75-72p5j1k2) | KRMA<br/>
 [Great Opposites, The; Fallout and Disarmament [1958-02-20]](https://americanarchive.org/catalog/cpb-aacip-526-cj87h1fq8g) | KQED<br/>
@@ -180,13 +179,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 ##### 1964
 
 [23 Park Avenue with Lee Graham; Are Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=23+Park+Avenue+with+Lee+Graham) | WNYC<br/>
-[Book Beat; Saul Bellow Interview](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz8203t) | WTTW<br/>
 [New York Times Correspondents View the News; J.A. Lukas in Leopoldville, "So. Africa's Security Police"](https://americanarchive.org/catalog/cpb-aacip-526-jq0sq8rm6k) | WQXR<br/>
-
-##### 1965
-
-[Book Beat](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s3v) | WTTW<br/>
-[Our Two Cents Worth](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v4m) | WTTW<br/>
 
 ##### 1967
 
@@ -195,7 +188,6 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1968
 
-[Book Beat](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc3h) | WTTW<br/>
 [Our People](https://americanarchive.org/catalog/cpb-aacip-526-4j09w09z9n) | WTTW<br/>
 [POTpourri: Many Views of Marijuana](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb9r) | KCET<br/>
 [TV City Room](https://americanarchive.org/catalog/cpb-aacip-526-hh6c24rs99) | WTVS<br/>
@@ -205,7 +197,6 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Asia Society Presents, The; Asia Through the Cultural Looking-Glass [1969-02-03]](https://americanarchive.org/catalog/cpb-aacip-80-278sftgm) | WNYC<br/>
 [Berkeley People's Park War](https://americanarchive.org/catalog/cpb-aacip-55-bk16m33g2c) | KQED<br/>
 [Madison Vote-in](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98d7q) | WHA<br/>
-[NET Journal; No. 257; To Save Tomorrow](https://americanarchive.org/catalog/cpb-aacip-75-44pk0t5j) | WTTW<br/>
 
 ***
 
@@ -258,9 +249,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Artesia Hall](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h00c) | KERA<br/>
 [Beauty and the Beast](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb45) | Mississippi Educational Television<br/>
 [Big Thicket Holler](https://americanarchive.org/catalog/cpb-aacip-526-sq8qb9wd1f) | KERA<br/>
-[Consumer Game, The; No. 10; A Thinking Consumer's Guide to the Drug Store](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn3z) | WTTW<br/>
-[Consumer Game, The; No. 7; A Thinking Consumer's Guide to the Meat Market](https://americanarchive.org/catalog/cpb-aacip-526-ks6j09x87r) | WTTW<br/>
-[Consumer Game, The; No. 9; The Lease Signing Apartment Renting Blues](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d90c) | WTTW<br/>
 [Farah!](https://americanarchive.org/catalog/cpb-aacip-526-086348hd9n) | KERA<br/>
 [Gisholt: Death of a Factory; 8; Unemployment, Part 1. Get a Job](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j24s) | WHA Radio<br/>
 [Gisholt: Death of a Factory; 9; Unemployment, Part 2, Self Help: Does It Work?](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932d98) | WHA Radio<br/>
@@ -269,17 +257,13 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Hanukkah](https://americanarchive.org/catalog/cpb-aacip-60-439zw9m7) | Mississippi Educational Television<br/>
 [Menominee](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s78v) | WPNE<br/>
 [Mississippi Press Conference](https://americanarchive.org/catalog/cpb-aacip-526-t14th8cv1q) | Mississippi Educational Television<br/>
-[Restaurant Inspection in Illinois: An Investigative Report](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Restaurant+Inspection+in+Illinois%3A+An+Investigative+Report&sort=title+asc) | WTTW<br/>
 [We Are the Other People; No. 10; What a Miracle!](https://americanarchive.org/catalog/cpb-aacip-30-3n20c4sv0s) | WHA Radio<br/>
 [Woman; Composite](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f93g) | WNED<br/>
 [Wrinkles, Birthdays, & Other Fables](https://americanarchive.org/catalog/cpb-aacip-526-kw57d2rf5s) | KCET<br/>
 
 ##### 1974
 
-[Arts and the City, The; Chicago 1974](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h2r) | WTTW<br/>
-[Consumer Game, The; The Car Repair Mess](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j065) | WTTW<br/>
 [Metric System, The; 8; 2; 13; Comparing Units of Volume; It's All Based on the Meter; What is the Metric System?](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq93) | Mississippi Educational Television<br/>
-[Since "The American Way of Death"](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j30t) | WTTW<br/>
 [Tyler, Texas, March 23, 1974](https://americanarchive.org/catalog/cpb-aacip-526-fn10p0xw9s) | KERA<br/>
 
 ##### 1975
@@ -292,8 +276,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Limits to Freedom: Oklahoma's Private Values and Public Policies on the Right to Read; No. 3; Politics](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss24) | Oklahoma Department of Libraries<br/>
 [Limits to Freedom: Oklahoma's Private Values and Public Policies on the Right to Read; No. 4; Religion](https://americanarchive.org/catalog/cpb-aacip-526-qz22b8wn9t) | Oklahoma Department of Libraries<br/>
 [Logic of Poetry, The; No 4; Mending Walls](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf9q) | WNYC<br/>
-[Look At Me; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d165) | WTTW<br/>
-[Look At Me; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx9w) | WTTW<br/>
 [Los Angeles News Review; No Time to Cry [1975-07-11]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jj0f) | KCET<br/>
 [Ohio: Its People and Its Heritage](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97j5p) | WOSU<br/>
 [Old Age: A New Look; City Services for Senior Citizens](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r97c) | WBEZ<br/>
@@ -307,7 +289,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Getting On; Media](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fd16) | WNYC<br/>
 [Getting On; Zoos](https://americanarchive.org/catalog/cpb-aacip-526-n872v2dk4r) | WNYC<br/>
 [Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k1k) | KCET<br/>
-[Governor's Race, The: The Campaign; No. 1; Style and Strategy [1976-10-19]](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4dz01) | WTTW<br/>
 [Meet the Candidates](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g84) | WPBT<br/>
 [Science with the Count; Metamorphosis](https://americanarchive.org/catalog/cpb-aacip-526-f76639mf85) | WBEZ<br/>
 [Selling of the Plan, The](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p341) | KERA<br/>
@@ -359,7 +340,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Running; Compilation: The Campaign Ahead; The Polls and the Pollsters; The Image Makers; The Elections and the Courts; The Republican Gubernatorial Debate; The Blitz; The Last Hurrah](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz3x) | KAKM Alaska Public Media<br/>
 [Television is for Learning; No. 2; The Write Channel](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b97j) | Mississippi Educational Television<br/>
 [Television is for Learning; It Makes Cents](https://americanarchive.org/catalog/cpb-aacip-526-0v89g5hb83) | Mississippi Educational Television<br/>
-[Vito](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6kb4w) | WTTW<br/>
 [WBEZ Special; Teen Pregnancy: From Babydolls to Babies](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2nf40) | National Public Radio | WBEZ<br/>
 
 ##### 1979
@@ -443,7 +423,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [John Callaway Interviews; Dr. Jonas Salk [1981-06-30]](https://americanarchive.org/catalog/cpb-aacip-526-g73707xt6p) | WTTW<br/>
 [John Callaway Interviews; Mike Wallace [1981-10-01]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp45) | WTTW<br/>
 [John Callaway Interviews; Howard Cosell [1981-11-10]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97j32) | WTTW<br/>
-[Media in Society](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Media+in+Society) | WTTW<br/>
 [National Health Quiz, The](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf07) | KERA<br/>
 [Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT&q=%22nightly+business+report%22&f[access_types][]=online) | WPBT<br/>
 [Over Easy; No. 5001; Education](https://americanarchive.org/catalog/cpb-aacip-55-8380h864) | KQED<br/>
@@ -458,7 +437,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981<br/>
 [U.S. Chronicle; Fishing Troubled Waters [1981-08-05]](https://americanarchive.org/catalog/cpb-aacip-526-pr7mp4wv6q) | KUHT<br/>
 [World Exchange; No Excuse, Sir [1981-08-14]](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv43) | KERA<br/>
-[Zookeepers](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx2c) | WTTW<br/>
 
 ##### 1982
 
@@ -540,9 +518,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [KCET Journal; Transplanting Hope [1984-06-27]](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b995) | KCET<br/>
 [KCET Journal; Transplanting Hope](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d95x) | KCET<br/>
 [Kids Speak; Feelings](https://americanarchive.org/catalog/cpb-aacip-526-416sx65b6q) | WBEZ<br/>
-[McLaughlin Group, The; [1984-11-24]](https://americanarchive.org/catalog/cpb-aacip-526-f76639m97r) | WTTW<br/>
-[McLaughlin Group, The; [1984-12-01]](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g10k) | WTTW<br/>
-[McLaughlin Group, The; 1984, unspecified episode](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g04j) | WTTW<br/>
 [New Tech Times, The; No. 204](https://americanarchive.org/catalog/cpb-aacip-29-8380gksn) | PBS Wisconsin<br/>
 [New Tech Times, The; No. 212](https://americanarchive.org/catalog/cpb-aacip-526-w37kp7w14v) | WHA<br/>
 [Nightly Business Report, The; Drugs In the Workplace [1984-07-04]](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n45m) | WPBT<br/>
@@ -562,8 +537,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Alaska News Nightly; Impeachment Coverage [1985-08-05]](https://americanarchive.org/catalog/cpb-aacip-af103c49a4d) | KAKM Alaska Public Media<br/>
 [Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Alaska+News+Nightly) | KAKM Alaska Public Media<br/>
 [Alaska State Legislative Special Session, 1985 Gavel to Gavel Coverage](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p42p) | KTOO<br/>
-[Ancient Lives; No. 102; The Mountains Of Gold](https://americanarchive.org/catalog/cpb-aacip-526-9c6rx94c8q) | WTTW<br/>
-[Ancient Lives; No. 103; The Processional Way of the Gods](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp5m) | WTTW<br/>
 [Channel 3 Moscow; No. 103; [1985-12-22]](https://americanarchive.org/catalog/cpb-aacip-77-214mx491) | KTCA<br/>
 [Crossing, The](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w39) | KTCA<br/>
 [Denmark's Star Spangled 4th](https://americanarchive.org/catalog/cpb-aacip-52-676t1pbw) | KRMA<br/>
@@ -573,7 +546,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Justice](https://americanarchive.org/catalog/cpb-aacip-526-kd1qf8kp5g) | KERA<br/>
 [Legacies of the Land: A Tale of Texas](https://americanarchive.org/catalog/cpb-aacip-526-445h990b9z) | KERA<br/>
 [Life and Mind: Profiles in the Humanities](https://americanarchive.org/catalog/cpb-aacip-259-wm13rb5q) | New Jersey Network<br/>
-[McLaughlin Group, The; Geneva Summit [1985-11-22]](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k77g) | WTTW<br/>
 [Miracle On Fort Street](https://americanarchive.org/catalog/cpb-aacip-240-62f7mgk0) | WTVS<br/>
 [New Jersey Network News; The Pipe](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft6b) | New Jersey Network<br/>
 [New Jersey Nukes: The Broken Promise?](https://americanarchive.org/catalog/cpb-aacip-526-804xg9g82w) | New Jersey Network<br/>
@@ -588,7 +560,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [War in the West](https://americanarchive.org/catalog/cpb-aacip-283-52w3r7zc) | KCTS<br/>
 [What Do Women Really Want, Anyway?](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw3q) | Rocky Mountain PBS<br/>
 [WILL News; Klan Rally in Mansfield](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jb6j) | WILL<br/>
-[Wrapped In Steel](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Wrapped+In+Steel&sort=title+asc) | WTTW<br/>
 
 ##### 1986
 
@@ -599,7 +570,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Bilingualism In America: A Radio Presentation of the Humanities; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-df6k06z31d) | KPBS<br/>
 [Bilingualism In America: A Radio Presentation of the Humanities; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-0g3gx45r2k) | KPBS<br/>
 [Express; Napa: Valley of Lost Souls [1986-10-08]](https://americanarchive.org/catalog/cpb-aacip-55-w66930pf4b) | KQED<br/>
-[First Annual Excellence in Teaching Awards, The](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xj7t) | WTTW<br/>
 [KCET Journal; Crimes of Neglect [1986-07-23]](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr93) | KCET<br/>
 [KCET Journal; Dropouts [1986-07-23]](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xj9f) | KCET<br/>
 [Nuclear Legacy](https://americanarchive.org/catalog/cpb-aacip-283-053ffg7w) | KCTS<br/>
@@ -647,7 +617,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [First Frontier](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t5q) | Auburn University Television<br/>
 [Fromm Day; Sampler--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-599z03056f) | WNYC<br/>
 [Front Street Weekly; Special Parents [1987-11-24]](https://americanarchive.org/catalog/cpb-aacip-153-591898ht) | Oregon Public Broadcasting<br/>
-[Golden Apples for Excellence in Teaching, The; No. 2; [1987-05-20]](https://americanarchive.org/catalog/cpb-aacip-526-8s4jm24h1d) | WTTW<br/>
 [Growing up Without](https://americanarchive.org/catalog/cpb-aacip-283-8605qv57) | KCTS<br/>
 [Habitat For Humanity: Miracle On 19th Street](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jv6c) | WTVI<br/>
 [Houdini!](https://americanarchive.org/catalog/cpb-aacip-526-9882j69777) | Wisconsin Public Television<br/>
@@ -682,7 +651,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 
 ##### 1988
 
-[...And The Pursuit of Happiness](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=...And+the+Pursuit+of+Happiness) | WTTW<br/>
 [Adopt-a-Class](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x42t) | WNYC<br/>
 [America's Prison Crisis: Monuments to Failure ](https://americanarchive.org/catalog/cpb-aacip-191-66j0zwpr) | New Mexico PBS<br/>
 [California Stories; Dreams: Theater of the Night](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv5g) | KCET<br/>
@@ -699,7 +667,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [George Wallace: A Politician's Legacy; No. 2; Convenience or Conversion](https://americanarchive.org/catalog/cpb-aacip-526-w66930q61q) | University of Alabama<br/>
 [George Wallace: A Politician's Legacy; No Middle Ground](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q851) | University of Alabama<br/>
 [Highway 40; Masters and Johnson and the threat of AIDS](https://americanarchive.org/catalog/cpb-aacip-110-16c2ftdq) | KETC<br/>
-[Japan; No. 104](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z58n) | WTTW<br/>
 [Kids, Sex & Choices](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px76) | KCET<br/>
 [Kwitny Report, The; The JFK Assassination](https://americanarchive.org/catalog/cpb-aacip-526-j96057f10h) | WNYC<br/>
 [Kwitny Report, The; U.S. Foreign Aid](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v5t) | WNYC<br/>
@@ -772,7 +739,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Time of Our Lives, The](https://americanarchive.org/catalog/cpb-aacip-526-028pc2v433) | KCET<br/>
 [Wall Street Week; No. 1910; Galbraith on the Economy](https://americanarchive.org/catalog/cpb-aacip-394-35t76v3c) | Maryland Public Television<br/>
 [Where Once We Stood: The Lincoln School Story](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73884h) | University of Alabama<br/>
-[Wild Chicago; No. 208 & 209](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gq2m) | WTTW<br/>
 [Wrestling With AIDS](https://americanarchive.org/catalog/cpb-aacip-55-x05x63bn51) | KQED<br/>
 [WTTW Journal: Radio Faces](https://americanarchive.org/catalog/cpb-aacip-526-k35m90373x) | WTTW<br/>
 [WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw6b) | WTTW<br/>
@@ -787,7 +753,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 
 ["It Means the World to All of Us" Environmental Public Service Campaign](https://americanarchive.org/catalog/cpb-aacip-526-mc8rb6x61p) | KLRU<br/>
 [A Neighborhood Redeemed](https://americanarchive.org/catalog/cpb-aacip-240-3976hvfw) | WTVS<br/>
-[America's Heritage](https://americanarchive.org/catalog/cpb-aacip-526-2804x55f9f) | WTTW<br/>
 [Blackbirds in the Sun](https://americanarchive.org/catalog/cpb-aacip-42-94hmh2cf) | WPBT<br/>
 [By The Year 2000; A Class by Itself](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34702) | KCET<br/>
 [By The Year 2000; The Have/Have-not Society](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js7c) | KCET<br/>
@@ -797,12 +762,10 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Chicago Tonight; 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47399) | WTTW<br/>
 [Drinking 101: An Introduction to Alcohol](https://americanarchive.org/catalog/cpb-aacip-16-19s1rw84) | WILL<br/>
 [Inside Information](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s9q) | KCET<br/>
-[John McLaughlin's One on One [1990-06-08]](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m17q) | WTTW<br/>
 [Journey's End: The Memories and Traditions of Daisy Turner and Her Family](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Journey%27s+End%3A+The+Memories+and+Traditions+of+Daisy+Turner+and+Her+Family&sort=title+asc) | Vermont Folklife Center | Vermont Public Radio<br/>
 [KCET Journal; Under New Management [1990-10-18]](https://americanarchive.org/catalog/cpb-aacip-526-c24qj78z85) | KCET<br/>
 [KQED Radio News; 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-sn00z7279k) | KQED<br/>
 [Local Color](https://americanarchive.org/catalog/cpb-aacip-153-63fxpwp3) | Oregon Public Broadcasting<br/>
-[McLaughlin Group, The [1990-11-30]](https://americanarchive.org/catalog/cpb-aacip-526-vq2s46jd9k) | WTTW<br/>
 [New York Works; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kg8n) | WQXR<br/>
 [Nightly Business Report, The; 1990 Selected commentaries](https://americanarchive.org/catalog/cpb-aacip-526-125q815n1x) | WPBT<br/>
 [Nightly Business Report, The; Special edition](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7344m) | WPBT<br/>
@@ -818,11 +781,9 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [States of Mind; Mill City](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv10) | Oregon Public Broadcasting | British Broadcasting Corporation<br/>
 [WTTW Journal; No. 206; Coming Clean](https://americanarchive.org/catalog/cpb-aacip-526-bn9x05zc4c) | WTTW<br/>
 [WTTW Journal; The House That Jane Built [1990-11-14]](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz3396x) | WTTW<br/>
-[WTTW Journal; Ed Paschke: The Artist Behind the Mask [1990-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-7p8tb0zt15) | WTTW<br/>
 
 ##### 1991
 
-[1991 Golden Apple Awards for Excellence in Teaching](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=1991+Golden+Apple+Awards+for+Excellence+in+Teaching&f[access_types][]=online) | WTTW<br/>
 [By the Year 2000; Skin Deep [1991-03-22]](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks23) | KCET<br/>
 [By the Year 2000; Speaking of Young Black Men [1991-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r60c) | KCET<br/>
 [By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p) | KCET<br/>
@@ -873,7 +834,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Austin at Issue: Help Wanted; No. 3; Minority Equity](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv8d) | KLRU<br/>
 [Austin at Issue: Help Wanted; No. 4; Teachers Issues](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r258) | KLRU<br/>
 [Austin at Issue: Help Wanted; No 5; Cultural Values](https://americanarchive.org/catalog/cpb-aacip-526-t72794253n) | KLRU<br/>
-[Chicago Matters; Celebrity Spots](https://americanarchive.org/catalog/cpb-aacip-526-th8bg2jm3n) | WTTW<br/>
 [Gorbachev at Westminster College](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Gorbachev+at+Westminster+College) | KETC<br/>
 [Headline: Youth Violence](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q32d) | WXXI<br/>
 [Health of the Heartland](https://americanarchive.org/catalog/cpb-aacip-17-81jhbz0g) | Louisiana Public Broadcasting<br/>
@@ -891,19 +851,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [MacNeil/Lehrer NewsHour; L.A. Riot; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-nk3610x19q) | KCET<br/>
 [Massacre: The Story of East Timor](https://americanarchive.org/catalog/cpb-aacip-526-2b8v980n0g) | Pacifica Radio | WBAI<br/>
 [Multi-Cultural; Mission Statement](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn9q) | Connecticut Public Television<br/>
-[New explorers; No. 201; Journey to Save a Crane](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k765) | WTTW<br/>
-[New explorers; No. 202; Voices in Stone](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qm7x) | WTTW<br/>
-[New explorers; No. 203; Test Tube Zoo](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s77j) | WTTW<br/>
-[New explorers; No. 204; The Beauty of the Beast](https://americanarchive.org/catalog/cpb-aacip-526-833mw29f17) | WTTW<br/>
-[New explorers; No. 206; The Storm Within](https://americanarchive.org/catalog/cpb-aacip-526-542j679w3m) | WTTW<br/>
-[New explorers; No. 207; Language of Science](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h9n) | WTTW<br/>
-[New explorers; No. 208; Rivers of Fire](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fn4z) | WTTW<br/>
-[New explorers; No. 209; Creating an Ocean](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n20v) | WTTW<br/>
-[New explorers; No. 210; Rock and Roll Physics](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r6r) | WTTW<br/>
-[New explorers; No. 211; Fragments of Time](https://americanarchive.org/catalog/cpb-aacip-526-n872v2dj7d) | WTTW<br/>
-[New explorers; No. 212; Catching the Sun](https://americanarchive.org/catalog/cpb-aacip-526-9c6rx94d1t) | WTTW<br/>
-[New explorers; No. 213; Adventure of Discovery](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s25b) | WTTW<br/>
-[New explorers; Peabody Presentation of Second Season](https://americanarchive.org/catalog/cpb-aacip-526-db7vm43z6h) | WTTW<br/>
 [Newton's Apple; No. 1001](https://americanarchive.org/catalog/cpb-aacip-77-24jm6zc8) | KTCA<br/>
 [Newton's Apple; No. 1004](https://americanarchive.org/catalog/cpb-aacip-77-35t77b2v) | KTCA<br/>
 [Newton's Apple; No. 1005](https://americanarchive.org/catalog/cpb-aacip-77-150gbxw9) | KTCA<br/>
@@ -913,7 +860,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Read to Me; No. 6; The Chessmen of Doom [1992-06-08]](https://americanarchive.org/catalog/cpb-aacip-245-032280s8) | Maine Public Broadcasting<br/>
 [Remembering David](https://americanarchive.org/catalog/cpb-aacip-83-074tmx7h) | KUED<br/>
 [Savalot's Energy Secrets](https://americanarchive.org/catalog/cpb-aacip-17-23hx46v6) | Louisiana Public Broadcasting<br/>
-[Senior Fair: A Consumers Guide](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq7g) | WTTW<br/>
 [Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j) | KCET<br/>
 [Surviving Columbus](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=Surviving+Columbus&f[access_types][]=digitized) | KNME<br/>
 [WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d) | WHRO<br/>
@@ -964,20 +910,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Live coverage of Senate Rules Committee Hearing](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796n6d) | Oregon Public Broadcasting<br/>
 [Live coverage of U.S. Senate debates on the Ethics Committee's subpoena for Senator Packwood's Diaries](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Live+coverage+of+U.S.+Senate+debates+on+the+Ethics+Committee%27s+subpoena+for+Senator+Packwood%27s+Diaries%22&sort=title+asc) | Oregon Public Broadcasting<br/>
 [Mayoral Debates, The](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0rz8k) | WXXI<br/>
-[Mine Eyes Have Seen the Glory; No. 101; America's Folk Religion](https://americanarchive.org/catalog/cpb-aacip-526-z892806c9c) | WTTW<br/>
-[Mine Eyes Have Seen the Glory; No. 102; The Making of a Subculture](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h9x) | WTTW<br/>
-[Mine Eyes Have Seen the Glory; No. 103; The Coming of Age](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gm6k) | WTTW<br/>
 [Mini-Dragons II; Malaysia: 2020 Vision](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x33v) | Maryland Public Television<br/>
-[New Explorers, The; Series III; No. 301; The Fragile Fossil [1993-03-02]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7689s) | WTTW<br/>
-[New Explorers, The; Series III; No. 302; The Dream Fulfilled [1993-03-02]](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc2g) | WTTW<br/>
-[New Explorers, The; Series III; No. 303; The Great Chicago Flood [1993-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m181) | WTTW<br/>
-[New Explorers, The; Series III; No. 304; Running out of Time [1993-04-05]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f953) | WTTW<br/>
-[New Explorers, The; Series III; No. 307; Orphans of Time [1993-04-07]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f88r) | WTTW<br/>
-[New Explorers, The; Series III; No. 308; Super Seeds](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73879s) | WTTW<br/>
-[New Explorers, The; Series III; No. 309; Spiral of Silence [1993-11-18]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px2n) | WTTW<br/>
-[New Explorers, The; Series III; No. 310; Dive Into Darkness](https://americanarchive.org/catalog/cpb-aacip-526-bg2h709313) | WTTW<br/>
-[New Explorers, The; Series III; No. 312; Earthquakes [1993-06-04]](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq4j) | WTTW<br/>
-[New Explorers, The; Series III; No. 313; Childen of the River [1993-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k78) | WTTW<br/>
 [Nightly Business Report, The; 1993 Compilation of Edited Highlights](https://americanarchive.org/catalog/cpb-aacip-526-599z03057r) | WPBT<br/>
 [Nightly Business Report, The; 1993 Compilation of Unedited Daily Program Segments](https://americanarchive.org/catalog/cpb-aacip-526-s46h12wg8z) | WPBT<br/>
 [Nightly Business Report, The; How to Plan Your Estate (or Inheritance)](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h04m) | WPBT<br/>
@@ -998,7 +931,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Berlin Calling](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zr10) | WUGA<br/>
 [Beyond Survival](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Beyond+Survival) | WHRO<br/>
 [Bridges: A Liberal/Conservative Dialogue with Larry Josephson; No. 6; Shelby Steel: Portrait of a Black Conservative [1994-08-14]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Bridges%3A+A+Liberal%2FConservative+Dialogue+with+Larry+Josephson&sort=title+asc) | WNYC<br/>
-[Crusade: The Life of Billy Graham](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr2m) | WTTW<br/>
 [D-Day Plus 50: Louisiana Remembers](https://americanarchive.org/catalog/cpb-aacip-17-65v6xv27) | WLPB<br/>
 [Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc2k) | WTTW<br/>
 [Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md17) | WTTW<br/>
@@ -1033,7 +965,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [OPB on Behalf of Children: Immunize Now!](https://americanarchive.org/catalog/cpb-aacip-526-rx9377760z) | Oregon Public Broadcasting<br/>
 [Oregon Field Guide Education Program; Focus on Organisms](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Focus+on+Organisms&sort=title+asc) | Oregon Public Broadcasting<br/>
 [Oregon Field Guide Education Program; Focus on Places](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Focus+on+Places&sort=title+asc) | Oregon Public Broadcasting<br/>
-[Remembering Chicago](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc9d) | WTTW<br/>
 [Schools of the Future: Learning On-Line](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh3c) | KETC<br/>
 [South Africa: New Carolina Partnerships](https://americanarchive.org/catalog/cpb-aacip-526-959c53g30s) | WTVI<br/>
 [St. Louis Chronicles; City on the Air](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r9m) | KETC<br/>
@@ -1049,23 +980,18 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 
 [A Friend Called Lyle](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jv99) | KCET<br/>
 [Action for the Arts; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-kw57d2rf91) | WQXR<br/>
-[Chicago Matters; Of Hopes and Fears](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60784) | WTTW<br/>
 [Class of 2000; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-j678s4kv82) | WHRO<br/>
 [Continental Harmony: Exploring American Classical Music](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk68) | WXXI<br/>
 [Continental Harmony: Exploring American Classical Music; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-086348hf32) | WXXI<br/>
 [Fables in Four Minutes; 1995 compilation](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc6g) | WXXI<br/>
-[Finding the Dollars: Illinois Schools at the Crossroads](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Finding+the+Dollars%3A+Illinois+Schools+at+the+Crossroads%22) | WTTW<br/>
 [Flight to Freedom](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Flight+to+Freedom%22) | WXXI<br/>
 [Follow My Lead](https://americanarchive.org/catalog/cpb-aacip-526-b27pn8zf8q) | KCET<br/>
 [Forum; Youth Issues [1995-01-18]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bproducing_organizations%5D%5B%5D=KQED&q=%22Youth+Issues%22&sort=title+asc) | KQED<br/>
 [Forum; War on Drugs [1995-03-16]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=War+on+Drugs&sort=title+asc) | KQED<br/>
 [Forum; [1995-06-01], Youth Violence](https://americanarchive.org/catalog/cpb-aacip-526-v11vd6qc6r) | KQED<br/>
 [Forum; Juvenile Justice System [1995-11-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Juvenile+Justice+System&sort=title+asc) | KQED<br/>
-[Golden Apple Awards; No. 10 [1995-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m677) | WTTW<br/>
-[Golden Apple Awards; No. 10; Spanish / Sign Language version [1995-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b22) | WTTW<br/>
 [Grading Our Schools [1995-05-14]](https://americanarchive.org/catalog?after_date=1995-05-14&commit=Update&exact_or_range=exact&q=Grading+Our+Schools&utf8=%E2%9C%93&f[access_types][]=online) | WXXI<br/>
 [Grading Our Schools [1995-05-16]](https://americanarchive.org/catalog?after_date=1995-05-16&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Grading+Our+Schools) | WXXI<br/>
-[In the Beginning: The Creationist Controversy](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=In+the+Beginning%3A+The+Creationist+Controversy&f[access_types][]=online) | WTTW<br/>
 [La Villa de Santa Fe](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v6z) | KNME<br/>
 [Little Italy](https://americanarchive.org/catalog/cpb-aacip-55-bg2h708b0g) | KQED<br/>
 [Measure 16: Oregon Confronts Death and Dying; The Role of the Doctor; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-416sx6567x) | KOAC |Oregon Public Broadcasting<br/>
@@ -1089,7 +1015,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Voices From the Village; No. 104; The Need for Spirituality](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp30) | WOSU<br/>
 [Wacipi-Powwow](https://americanarchive.org/catalog/cpb-aacip-77-1937qsxt) | KTCA<br/>
 [Weekend in Venice; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6ch04) | WQXR<br/>
-[Windowworks; Choosing One's Way [1995-04-25]](https://americanarchive.org/catalog/cpb-aacip-526-mc8rb6x65x) | WTTW<br/>
 
 ##### 1996
 
@@ -1167,11 +1092,9 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Inside the Metropolitan Museum of Art](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Inside+the+Metropolitan+Museum+of+Art&sort=title+asc) | WQXR<br/>
 [Let the Women Vote!](https://americanarchive.org/catalog/cpb-aacip-83-16c2g1b0) | KUED<br/>
 [Louisiana, The State We're In; No. 2039; A Test for Justice [1997-07-11]](https://americanarchive.org/catalog/cpb-aacip-17-945qgw68) | Louisiana Public Broadcasting<br/>
-[Record Row: Cradle of Rhythm & Blues](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz2r) | WTTW<br/>
 [State of the Union; No. 102; Mothers' Day Special [1997-05-05]](https://americanarchive.org/catalog/cpb-aacip-29-13zs7m07) | Wisconsin Public Television<br/>
 [State of the Union; No. 103; That's Why They Call it Work [1997-08-25]](https://americanarchive.org/catalog/cpb-aacip-29-31qftz9r) | Wisconsin Public Television<br/>
 [Survivors in the Sand](https://americanarchive.org/catalog/cpb-aacip-526-hh6c24rt3q) | KRWG<br/>
-[Ten Things Every Child Needs](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck2z) | WTTW<br/>
 
 ##### 1998
 
