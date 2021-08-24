@@ -508,6 +508,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Remembering Jewish Europe: From Tradition to Modernity; Warsaw [1983-04-10]](https://americanarchive.org/catalog/cpb-aacip-80-214mwsgs) | WNYC<br/>
 [September 1st, 1983](https://americanarchive.org/catalog/cpb-aacip-55-84mkmvwx) | KQED<br/>
 [State of Transition #2; Tom Urban, John Ruan, Richard Kosobud](https://americanarchive.org/catalog/cpb-aacip-37-86nzsjvj) | Iowa Public Television<br/>
+[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+of+Judgment%2C+The+Watergate+Hearings&sort=title+asc) | 1983<br/>
 [Time's Harvest: Exploring the Future; Technology's Heartbeat](https://americanarchive.org/catalog/cpb-aacip-526-9k45q4sp5n) | Maryland Center for Public Broadcasting<br/>
 [Vietnam: Unfinished Business](https://americanarchive.org/catalog/cpb-aacip-526-sn00z72713) | WTVI<br/>
 [When a Factory Closes](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31h9j) | WITF<br/>
