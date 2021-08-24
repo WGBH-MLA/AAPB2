@@ -310,12 +310,10 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Getting On; Zoos](https://americanarchive.org/catalog/cpb-aacip-526-n872v2dk4r) | WNYC<br/>
 [Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k1k) | KCET<br/>
 [Governor's Race, The: The Campaign; No. 1; Style and Strategy [1976-10-19]](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4dz01) | WTTW<br/>
-[Kaleidoscope; Sound portrait of Porgy and Bess](https://americanarchive.org/catalog/cpb-aacip-500-028pgx1z) | WAMU<br/>
 [Meet the Candidates](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g84) | WPBT<br/>
 [Science with the Count; Metamorphosis](https://americanarchive.org/catalog/cpb-aacip-526-f76639mf85) | WBEZ<br/>
 [Selling of the Plan, The](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p341) | KERA<br/>
 [Stages of Preston Jones, The](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d7q) | KERA<br/>
-[Studio See; No. 102; Ponies](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx07849) | South Carolina Educational Television Network<br/>
 [Wall Street Week; No. 528; Wall Street Week Goes West](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vn9r) | Maryland Public Television<br/>
 [Wall Street Week; No. 529; Fueling the Economy](https://americanarchive.org/catalog/cpb-aacip-526-dv1cj88q3t) | Maryland Public Television<br/>
 [Wall Street Week; No. 624; The 1976 Tax Reform Act](https://americanarchive.org/catalog/cpb-aacip-526-183416tz1p) | Maryland Public Television<br/>
@@ -459,7 +457,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Profile: Lillian Hellman; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-vx05x26r00) | KERA<br/>
 [Profile: Lillian Hellman; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg01) | KERA<br/>
 [Profile: Lillian Hellman; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gn3x) | KERA<br/>
-[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | Fort Worth Productions | KERA<br/>
 [U.S. Chronicle; Fishing Troubled Waters [1981-08-05]](https://americanarchive.org/catalog/cpb-aacip-526-pr7mp4wv6q) | KUHT<br/>
 [World Exchange; No Excuse, Sir [1981-08-14]](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv43) | KERA<br/>
 [Zookeepers](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx2c) | WTTW<br/>
@@ -514,7 +511,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Remembering Jewish Europe: From Tradition to Modernity; Warsaw [1983-04-10]](https://americanarchive.org/catalog/cpb-aacip-80-214mwsgs) | WNYC<br/>
 [September 1st, 1983](https://americanarchive.org/catalog/cpb-aacip-55-84mkmvwx) | KQED<br/>
 [State of Transition #2; Tom Urban, John Ruan, Richard Kosobud](https://americanarchive.org/catalog/cpb-aacip-37-86nzsjvj) | Iowa Public Television<br/>
-[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+of+Judgment%2C+The+Watergate+Hearings&sort=title+asc) | WETA<br/>
 [Time's Harvest: Exploring the Future; Technology's Heartbeat](https://americanarchive.org/catalog/cpb-aacip-526-9k45q4sp5n) | Maryland Center for Public Broadcasting<br/>
 [Vietnam: Unfinished Business](https://americanarchive.org/catalog/cpb-aacip-526-sn00z72713) | WTVI<br/>
 [When a Factory Closes](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31h9j) | WITF<br/>
@@ -735,7 +731,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 
 ##### 1989
 
-[A Place Called Home](https://americanarchive.org/catalog/cpb-aacip-526-v69862cn84) | WETA<br/>
 [Almanac; No. 543; [1989-07-07]](https://americanarchive.org/catalog/cpb-aacip-77-322bwqzv) | KTCA<br/>
 [Almanac; No. 605; [1989-09-29]](https://americanarchive.org/catalog/cpb-aacip-77-02q5807j) | KTCA<br/>
 [America's Century; No. 3; Familiar Enemies](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c920) | WNYC<br/>
