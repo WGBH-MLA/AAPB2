@@ -4,9 +4,9 @@
 
 ## Summary
 
-> ** The Peabody Award is the most distinguished award in our business.**- * Barbara Walters, 1995 Peabody Award acceptance speech*
+> **The Peabody Award is the most distinguished award in our business.**- *Barbara Walters, 1995 Peabody Award acceptance speech*
 
-> ** You count your Emmys but you cherish your Peabodys.**- * Walter Cronkite*
+> **You count your Emmys but you cherish your Peabodys.**- *Walter Cronkite*
 
 > **The Peabody Awards do a great service to journalism by taking it seriously.** - *Bill Moyers*
 
@@ -34,16 +34,17 @@ This exhibit provides several ways to explore the AAPB’s Peabody Awards Collec
  
 The AAPB and University of Georgia thank the National Historical Publications and Records Commission for the generous grant that funded the digitization of the Peabody Awards Collection and the curation of this exhibit.
 
+<table class="exhibit-image">
+<caption align="bottom" class="exhibit-caption">George Foster Peabody Radio Awards Dinner, April 10, 1942, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/peabody_banquet_big.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/peabody_banquet_big.jpg" class="big-image" alt="George Foster Peabody Radio Awards Dinner, April 10, 1942, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries."/></a></td></tr>
+</table>
+
 #### Next: [Exploring the Peabody Collection by Year](/exhibits/peabody/year)
 
 ## Cover
   <img title="Cover Image" alt="George Foster Peabody Radio Awards Dinner, April 10, 1942, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries." src="https://s3.amazonaws.com/americanarchive.org/special-collections/peabody_banquet.jpg">
 
 ## Gallery
-  - <a class="type">image</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/peabody_banquet_big.jpg">
-    <a class="caption-text">George Foster Peabody Radio Awards Dinner, April 10, 1942, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-    <a class="credit-link" href="https://www5.galib.uga.edu/media/collections/peabody/index.html">Courtesy of Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
 
 ## Records
  
