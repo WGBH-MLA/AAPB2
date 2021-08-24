@@ -56,12 +56,8 @@ To search the Peabody Awards Collection at UGA, researchers can visit [https://b
 
 ## Cover
 
+<img title="Cover Image" alt="Peabody Awards Gallery at the Hargrett Rare Book and Manuscript Library, University of Georgia Libraries." src="https://s3.amazonaws.com/americanarchive.org/exhibits/PeabodyGallery_square.jpg">
+
 ## Gallery
-
-  - <a class="type">image</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/PeabodyGallery.jpg">
-    <a class="caption-text">Peabody Awards Gallery at the Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-    <a class="credit-link" href="https://www5.galib.uga.edu/media/collections/peabody/index.html">Courtesy of Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-
 
 ## Records
