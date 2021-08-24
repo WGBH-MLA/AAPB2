@@ -8,9 +8,8 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 ## Extended
 
-### Items by State
-
 ### Alabama
+
 
 #### Tuscaloosa
 
@@ -32,7 +31,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95) | 1996<br/>
 [Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p) | 1996<br/>
 
+***
+
 ### Alaska
+
 
 #### Anchorage
 
@@ -46,10 +48,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Alaska News Nightly; Impeachment Coverage](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Alaska+News+Nightly) | 1985<br/>
 
 ##### KSKA
-
-[Opening the Literate Mind; No. 5; Cultivating Literacy](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr1k) | 1988<br/>
-
-##### Western Media Concepts, Inc.
 
 [Opening the Literate Mind; No. 5; Cultivating Literacy](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr1k) | 1988<br/>
 
@@ -78,7 +76,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Southeast Profile; Handicapped Children](https://americanarchive.org/catalog/cpb-aacip-526-086348hf79) | 1979<br/>
 [Alaska State Legislative Special Session, 1985 Gavel to Gavel Coverage](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p42p) | 1985<br/>
 
+***
+
 ### Arkansas
+
 
 #### Conway
 
@@ -94,7 +95,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Project Second Chance: Dropouts in America Live Studio Follow-up](https://americanarchive.org/catalog/cpb-aacip-526-154dn40t33) | 1986<br/>
 [Last Minority, The](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sk9j) | 1993<br/>
 
+***
+
 ### California
+
 
 #### Berkeley
 
@@ -207,10 +211,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [A Friend Called Lyle](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jv99) | 1995<br/>
 [Follow My Lead](https://americanarchive.org/catalog/cpb-aacip-526-b27pn8zf8q) | 1995<br/>
 
-##### Mark Bailey Creative Productions
-
-[Public Figures, Private Moments: Selected Readings form the James S. Copley Library Collection](https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj9m) | 1987<br/>
-
 #### North Hollywood
 
 ##### Pacifica Radio (formerly KPFK)
@@ -320,7 +320,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Vietnam: At the Crossroads](https://americanarchive.org/catalog/cpb-aacip-55-451g2gb6) | 1994<br/>
 [Gregory Kondos: A Passion for the Land](https://americanarchive.org/catalog/cpb-aacip-55-94vhjjf0) | 1997<br/>
 
+***
+
 ### Colorado
+
 
 #### Denver
 
@@ -339,7 +342,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [And Learning For All; No. 4; You Knew That! Cultivating Excellence in Math and Science](https://americanarchive.org/catalog/cpb-aacip-52-84zgn1wb) | 1993<br/>
 [Really Short Show](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j02x) | 1993<br/>
 
+***
+
 ### Connecticut
+
 
 #### Hartford
 
@@ -368,9 +374,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Amistad Connecticut: A Legacy Reborn](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Amistad+Connecticut%3A+A+Legacy+Reborn) | 1998<br/>
 [Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04393) | 1999<br/>
 
-##### Motion, Inc.
-
-[Amistad Connecticut: A Legacy Reborn](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Amistad+Connecticut%3A+A+Legacy+Reborn) | 1998<br/>
+***
 
 ### Florida
 
@@ -426,7 +430,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 [Rebels of the Bar](https://americanarchive.org/catalog/cpb-aacip-526-9882j6981n) | 1987<br/>
 
+***
+
 ### Georgia
+
 
 #### Athens
 
@@ -450,14 +457,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Inside Hunger](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82w4m) | 1992<br/>
 [Fences & Neighborhoods](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s73) | 1996<br/>
 
-##### PeachStar Education Services
-
-[Salsa; No. 113; Three Clever Goats](https://americanarchive.org/catalog/cpb-aacip-526-1c1td9p41c) | 1998<br/>
-[Salsa; No. 115; Quiz Show](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nv15) | 1998<br/>
-[Salsa; No. 205; Where Is It?](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n11w) | 1998<br/>
-[Salsa; No. 207; The Three Pigs](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz1f) | 1998<br/>
+***
 
 ### Idaho
+
 
 #### Boise
 
@@ -471,6 +474,8 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 [As It Happens; Indian Stereotyping](https://americanarchive.org/catalog/cpb-aacip-526-319s17tp5r) | 1980<br/>
 
+***
+
 ### Illinois
 
 #### Champaign-Urbana
@@ -483,10 +488,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [WILL News; Klan Rally in Mansfield](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jb6j) | 1985<br/>
 
 #### Chicago
-
-##### Chicago Public Radio
-
-[Love Stories](https://americanarchive.org/catalog/cpb-aacip-526-qn5z60dc0c) | 2003<br/>
 
 ##### WBEZ
 
@@ -520,6 +521,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Chicago Matters; The Last Place: Diary of a Retirement Home](https://americanarchive.org/catalog/cpb-aacip-526-db7vm4432m) | 1998<br/>
 [Unbreakable Spirits; Eight forty-eight; No. 4; Teens-Professionals](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn8k) | 1999<br/>
 [Unbreakable Spirits; Eight forty-eight; No. 8; Female Buddhist Monk](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd3r) | 1999<br/>
+[Love Stories](https://americanarchive.org/catalog/cpb-aacip-526-qn5z60dc0c) | 2003<br/>
 
 ##### WTTW
 
@@ -696,7 +698,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Chicago Week in Review [1999-08-07]](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r8c) | 1999<br/>
 [Chicago Week in Review [1999-11-20]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31pw87) | 1999<br/>
 
+***
+
 ### Indiana
+
 
 #### Bloomington
 
@@ -704,7 +709,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 [A Moment of Science; 1993 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d21w) | 1993<br/>
 
+***
+
 ### Iowa
+
 
 #### Des Moines
 
@@ -713,7 +721,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [A State Of Transition; No. 3](https://americanarchive.org/catalog/cpb-aacip-37-69m37zpd) | 1983<br/>
 [State of Transition #2; Tom Urban, John Ruan, Richard Kosobud](https://americanarchive.org/catalog/cpb-aacip-37-86nzsjvj) | 1983<br/>
 
+***
+
 ### Kentucky
+
 
 #### Lexington
 
@@ -724,7 +735,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [News Quiz; No. 313](https://americanarchive.org/catalog/cpb-aacip-526-5x25b0037n) | 1987<br/>
 [Totally Radical Teenage Videos](https://americanarchive.org/catalog/cpb-aacip-359-203xspn2) | 1991<br/>
 
+***
+
 ### Louisiana
+
 
 #### Baton Rouge
 
@@ -741,7 +755,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-17-07tmq941) | 1998<br/>
 [Kate Chopin: A Re-Awakening](https://americanarchive.org/catalog/cpb-aacip-17-58bg87rx) | 1998<br/>
 
+***
+
 ### Maine
+
 
 #### Lewiston
 
@@ -759,7 +776,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Our Stories; The Cranberry Report (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-97kps1m0) | 1998<br/>
 [What Do You Say?](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t46z) | 1998<br/>
 
+***
+
 ### Maryland
+
 
 #### Owings Mills
 
@@ -786,7 +806,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Wall Street Week; No. 2248; W$W With Louis Rukeyser in Japan](https://americanarchive.org/catalog/cpb-aacip-394-612ngsdn) | 1993<br/>
 [To the Contrary; U.N. Conference on Population and Development [1994-09-09]](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s561) | 1994<br/>
 
+***
+
 ### Massachusetts
+
 
 #### Boston
 
@@ -797,7 +820,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Beethoven%27s+Metronome+Markings&sort=title+asc) | 1983<br/>
 [People of the First Light: Native Americans in Southern New England; The Mashpee Wampanoags [1979-03-13]](https://americanarchive.org/catalog/cpb-aacip-114-881jx2h7) | 1979<br/>
 
+***
+
 ### Michigan
+
 
 #### Detroit
 
@@ -819,7 +845,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Parenting Puzzle: The Middle Years; No. 102; Like Blades of a Scissors](https://americanarchive.org/catalog/cpb-aacip-240-62s4ndjj) | 1998<br/>
 [Parenting Puzzle: The Middle Years; No. 103; The Power of Example](https://americanarchive.org/catalog/cpb-aacip-240-214mwkwr) | 1998<br/>
 
+***
+
 ### Minnesota
+
 
 #### St. Paul
 
@@ -858,11 +887,14 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Beyond the Flood-; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1221h) | 1997<br/>
 [Block By Block: People's Summit](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp63) | 1997<br/>
 
+***
+
 ### Mississippi
+
 
 #### Jackson
 
-##### Mississippi Educational Television
+##### Mississippi Public Broadcasting (formerly Mississippi Educational Television)
 
 [A Birthday Story](https://americanarchive.org/catalog/cpb-aacip-60-032281rj) | 1971<br/>
 [About Science; Dry Ice: A Flame Test](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc5d) | 1971<br/>
@@ -891,7 +923,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Posie Paints; Color [1999-12-13]](https://americanarchive.org/catalog/cpb-aacip-41-322bvxmn) | 1999<br/>
 [Ticktock Minutes; 1999 compilation](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q08t) | 1999<br/>
 
+***
+
 ### Missouri
+
 
 #### St. Louis
 
@@ -913,7 +948,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [St. Louis Chronicles; City on the Air](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r9m) | 1994<br/>
 [Zoo Man](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h3r) | 1994<br/>
 
+***
+
 ### New Hampshire
+
 
 #### Concord
 
@@ -933,7 +971,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Made in New Hampshire; Ingersol-Rand - Le Ballet Industriel](https://americanarchive.org/catalog/cpb-aacip-526-pv6b27r01t) | 1979<br/>
 [New Hampshire Journal; No. 201](https://americanarchive.org/catalog/cpb-aacip-526-4x54f1nj80) | 1982<br/>
 
+***
+
 ### New Jersey
+
 
 #### Englewood
 
@@ -981,7 +1022,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog/cpb-aacip-398-085hqdb1) | 1999<br/>
 [Reflections of War](https://americanarchive.org/catalog/cpb-aacip-259-sx647c48) | 1999<br/>
 
+***
+
 ### New Mexico
+
 
 #### Albuquerque
 
@@ -1000,7 +1044,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 [Survivors in the Sand](https://americanarchive.org/catalog/cpb-aacip-526-hh6c24rt3q) | 1997<br/>
 
+***
+
 ### New York
+
 
 #### Buffalo
 
@@ -1020,10 +1067,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 ##### New York Public Library
 
 [Teen Age Book Talk](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v20) | 1960<br/>
-
-##### Sound Portraits Productions
-
-[Chicago Matters; Ghetto Life 101](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q48x) | 1993<br/>
 
 ##### United Nations Radio
 
@@ -1171,11 +1214,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 #### Rochester
 
-##### WOKR
-
-[WXXI Make Us Safe Community Workshop](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w729) | 1996<br/>
-[WXXI News; Make Us Safe](https://americanarchive.org/catalog/cpb-aacip-526-kk9474805r) | 1996<br/>
-
 ##### WXXI
 
 [Even the Desert Will Bloom](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59j1q) | 1977<br/>
@@ -1217,7 +1255,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Adventure of the Mind; Data Processing, Control, Design [1979-12-17]](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h01p) | 1979<br/>
 [Now Tell Us All About the War](https://americanarchive.org/catalog/cpb-aacip-35-36tx99h9) | 1984<br/>
 
+***
+
 ### North Carolina
+
 
 #### Charlotte
 
@@ -1239,7 +1280,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Airmen and Adversity](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q07h) | 1998<br/>
 [Southern Dials-- Soulful Styles](https://americanarchive.org/catalog/cpb-aacip-526-736m03zx0c) | 1999<br/>
 
+***
+
 ### Ohio
+
 
 #### Columbus
 
@@ -1275,7 +1319,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Our Society in the Next Century; No. 8; Transportation](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Transportation&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | 1999<br/>
 [Our Society in the Next Century; No. 9; Environment](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Environment&f%5Bproducing_organizations%5D%5B%5D=WKSU&sort=title+asc) | 1999<br/>
 
+***
+
 ### Oklahoma
+
 
 #### Oklahoma City
 
@@ -1286,7 +1333,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Limits to Freedom: Oklahoma's Private Values and Public Policies on the Right to Read; No. 3; Politics](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss24) | 1975<br/>
 [Limits to Freedom: Oklahoma's Private Values and Public Policies on the Right to Read; No. 4; Religion](https://americanarchive.org/catalog/cpb-aacip-526-qz22b8wn9t) | 1975<br/>
 
+***
+
 ### Oregon
+
 
 #### Corvallis
 
@@ -1335,7 +1385,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [KOPB Radio News; The Great Tsunami of '64](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg3s) | 1999<br/>
 [Tree of Life; Intimate Strangers: Unseen Life on Earth](https://americanarchive.org/catalog/cpb-aacip-153-49t1g6j2) | 1999<br/>
 
+***
+
 ### Pennsylvania
+
 
 #### Harrisburg
 
@@ -1345,17 +1398,22 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Pro-Con with Charlayne Hunter-Gault; Abortion [1981-10-15]](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk3j) | 1981<br/>
 [When a Factory Closes](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31h9j) | 1983<br/>
 
+***
+
 ### South Carolina
+
 
 #### Columbia
 
 ##### South Carolina Educational Television Network
 
 [Firing Line; Music and Modernism](https://americanarchive.org/catalog/cpb-aacip-514-qz22b8wc0t) | 1972<br/>
-[Studio See; No. 102; Ponies](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx07849) | 1976<br/>
 [Elections '78: Prelude to '80; No. 4; Election Special](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n10k) | 1978<br/>
 
+***
+
 ### Texas
+
 
 #### Austin
 
@@ -1422,7 +1480,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Profile: Lillian Hellman; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk21) | 1981<br/>
 [Profile: Lillian Hellman; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-vx05x26r00) | 1981<br/>
 [Profile: Lillian Hellman; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg01) | 1981<br/>
-[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981<br/>
 [World Exchange; No Excuse, Sir [1981-08-14]](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv43) | 1981<br/>
 [Business Edition with David Johnson; No. 113](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34688) | 1982<br/>
 [Public Education](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7347j) | 1982<br/>
@@ -1437,12 +1494,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f) | 1989<br/>
 [Project Crossroads: The Youth Summit](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v8k) | 1990<br/>
 [Peacemaker](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc0x) | 1995<br/>
-
-#### Fort Worth
-
-##### Fort Worth Productions
-
-[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981<br/>
 
 #### Houston
 
@@ -1462,7 +1513,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Almanac; Shades of Truth [1993-03-25]](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv57) | 1993<br/>
 [Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98) | 1993<br/>
 
+***
+
 ### Utah
+
 
 #### Salt Lake City
 
@@ -1482,22 +1536,12 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Let the Women Vote!](https://americanarchive.org/catalog/cpb-aacip-83-16c2g1b0) | 1997<br/>
 [Joe Hill](https://americanarchive.org/catalog/cpb-aacip-83-68kd5f1p) | 1998<br/>
 
+***
+
 ### Vermont
 
+
 #### Colchester
-
-##### Vermont Public Radio
-
-[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Voices+in+the+Hills%3A+Profiles+of+Vermont+Workers&sort=title+asc) | 1984<br/>
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Journey%27s+End%3A+The+Memories+and+Traditions+of+Daisy+Turner+and+Her+Family&sort=title+asc) | 1990<br/>
-
-#### Middlebury
-
-##### Vermont Folklife Center
-
-[Journey's End: The Memories and Traditions of Daisy Turner and Her Family](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Journey%27s+End%3A+The+Memories+and+Traditions+of+Daisy+Turner+and+Her+Family&sort=title+asc) | 1990<br/>
-
-#### Windsor
 
 ##### Vermont Public Radio
 
@@ -1507,6 +1551,8 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [A Hand-Me-Down Harvest; Half Root Beer and Half Dandelion Wine](https://americanarchive.org/catalog/cpb-aacip-526-4m9183540r) | 1984<br/>
 [A Hand-Me-Down Harvest; If Only One Cow Showed Up](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk0m) | 1984<br/>
 [A Hand-Me-Down Harvest; Sweetest Joys, Indeed](https://americanarchive.org/catalog/cpb-aacip-526-gb1xd0s00m) | 1984<br/>
+[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Voices+in+the+Hills%3A+Profiles+of+Vermont+Workers&sort=title+asc) | 1984<br/>
+[Journey's End: The Memories and Traditions of Daisy Turner and Her Family](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Journey%27s+End%3A+The+Memories+and+Traditions+of+Daisy+Turner+and+Her+Family&sort=title+asc) | 1990<br/>
 
 #### Winooski
 
@@ -1515,19 +1561,9 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t) | 1994<br/>
 [American Prophet: The Story of Joseph Smith](https://americanarchive.org/catalog/cpb-aacip-46-00000021) | 1999<br/>
 
+***
+
 ### Virginia
-
-#### Arlington
-
-##### WETA
-
-[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+of+Judgment%2C+The+Watergate+Hearings&sort=title+asc) | 1983<br/>
-
-#### Hampton
-
-##### Langley Research Center
-
-[Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b) | 1998<br/>
 
 #### Norfolk
 
@@ -1553,7 +1589,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Class of 2000; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-j678s4kv82) | 1995<br/>
 [Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b) | 1998<br/>
 
+***
+
 ### Washington
+
 
 #### Pullman
 
@@ -1577,12 +1616,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Growing up Without](https://americanarchive.org/catalog/cpb-aacip-283-8605qv57) | 1987<br/>
 [Paradise Lost?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Paradise+Lost%3F) | 1991<br/>
 
+***
+
 ### Washington D.C.
 
-##### National Public Radio
-
-[WBEZ Special; Teen Pregnancy: From Babydolls to Babies](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2nf40) | 1978<br/>
-[U.S.-Mexican Border Coverage](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck38) | 1998<br/>
 
 ##### U.S. Agricultural Research Service
 
@@ -1592,15 +1629,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 [Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Wisconsin+Environmental+Forum) | 1977<br/>
 
-##### WAMU
-
-[Kaleidoscope; Sound portrait of Porgy and Bess](https://americanarchive.org/catalog/cpb-aacip-500-028pgx1z) | 1976<br/>
-
-##### WETA
-
-[A Place Called Home](https://americanarchive.org/catalog/cpb-aacip-526-v69862cn84) | 1989<br/>
+***
 
 ### Wisconsin
+
 
 #### Green Bay
 
@@ -1666,11 +1698,5 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 <img title="Cover Image" alt="The Bookmobile: "A program for children of ages 5 to 10 which includes stories both read and dramatized, which are chosen by experts in children's literature plus such participation interests as riddles, hobbies, letters, and membership in the WKAR Bookmobile Club. The programs are placed, written, and produced by the station, and are under joint sponsorship with the Michigan State Library.” George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries." src="https://s3.amazonaws.com/americanarchive.org/exhibits/48022cyr_square.jpg">
 
 ## Gallery
-
-  - <a class="type">image</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/48022cyr.jpg">
-    <a class="caption-text"> The Bookmobile: "A program for children of ages 5 to 10 which includes stories both read and dramatized, which are chosen by experts in children's literature plus such participation interests as riddles, hobbies, letters, and membership in the WKAR Bookmobile Club. The programs are placed, written, and produced by the station, and are under joint sponsorship with the Michigan State Library.” George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-    <a class="credit-link" href="https://www5.galib.uga.edu/media/collections/peabody/index.html">Courtesy of Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-
 
 ## Records
