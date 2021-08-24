@@ -577,7 +577,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Chicago Tonight; No. 6105; Ethnic Politics](https://americanarchive.org/catalog/cpb-aacip-526-x34mk66j9v) | 1989<br/>
 [Chicago Tonight; No. 6170; Lam Tom and the Vietnamese Community](https://americanarchive.org/catalog/cpb-aacip-526-v97zk56v1p) | 1989<br/>
 [Chicago Tonight; No. 7074; Blacks and Arabs](https://americanarchive.org/catalog/cpb-aacip-526-6w96689m6f) | 1989<br/>
-[Frugal Gourmet [1989-11-09]](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s57b) | 1989<br/>
 [Wild Chicago; No. 208 & 209](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gq2m) | 1989<br/>
 [WTTW Journal: Radio Faces](https://americanarchive.org/catalog/cpb-aacip-526-k35m90373x) | 1989<br/>
 [WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw6b) | 1989<br/>
@@ -816,8 +815,6 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 ##### WGBH
 
 [Laughter's a Funny Business; No. 4; Inhibition](https://americanarchive.org/catalog/cpb-aacip-15-31cjt796) | 1960<br/>
-[Morning Pro Musica; No. 8; Learning about Raga](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Learning+about+Raga&sort=title+asc) | 1982<br/>
-[Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Beethoven%27s+Metronome+Markings&sort=title+asc) | 1983<br/>
 [People of the First Light: Native Americans in Southern New England; The Mashpee Wampanoags [1979-03-13]](https://americanarchive.org/catalog/cpb-aacip-114-881jx2h7) | 1979<br/>
 
 ***
