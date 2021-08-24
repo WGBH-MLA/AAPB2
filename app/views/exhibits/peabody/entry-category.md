@@ -326,6 +326,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Wisconsin: Prisons & Politics](https://americanarchive.org/catalog/cpb-aacip-29-010p2r97) | 1999<br/>
 [Love Stories](https://americanarchive.org/catalog/cpb-aacip-526-qn5z60dc0c) | 2003<br/>
 
+***
 
 ### Education
 
@@ -550,13 +551,11 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [WNYC Storytelling Festival; The Storyteller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=WNYC+Storytelling+Festival&sort=title+asc) | 1979<br/>
 [Opening Night: The Making of an Opera](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mm0w) | 1980<br/>
 [PBS LateNight [1982-10-21]](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0cb28) | 1982<br/>
-[Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Beethoven%27s+Metronome+Markings&sort=title+asc) | 1983<br/>
 [New Tech Times; No. 204](https://americanarchive.org/catalog/cpb-aacip-29-8380gksn) | 1984<br/>
 [New Tech Times, The; No. 212](https://americanarchive.org/catalog/cpb-aacip-526-w37kp7w14v) | 1984<br/>
 [Houdini!](https://americanarchive.org/catalog/cpb-aacip-526-9882j69777) | 1987<br/>
 [St. Louis Skyline; No. 805](https://americanarchive.org/catalog/cpb-aacip-526-b853f4mr5v) | 1988<br/>
 [Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music [1989-12-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Arts+Alive+From+the+Algonquin&sort=title+asc) | 1989<br/>
-[Frugal Gourmet [1989-11-09]](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s57b) | 1989<br/>
 [Wild Chicago; No. 208 & 209](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gq2m) | 1989<br/>
 [WTTW Journal; The House That Jane Built [1990-11-14]](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz3396x) | 1990<br/>
 [Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98) | 1993<br/>
@@ -567,8 +566,8 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Inside the Metropolitan Museum of Art](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Inside+the+Metropolitan+Museum+of+Art&sort=title+asc) | 1997<br/>
 [Amistad Connecticut: A Legacy Reborn](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Amistad+Connecticut%3A+A+Legacy+Reborn) | 1998<br/>
 [Sinatra in Retrospective](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=Sinatra+in+Retrospective&f[access_types][]=online) | 1998<br/>
-[This American Life; From a Distance, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rv9c) | 1996<br/>
-[This American Life; When You Talk About Music, Part 2](https://americanarchive.org/catalog/cpb-aacip-00ca79ae9d4) | 1996<br/>
+[This American Life; From a Distance](https://americanarchive.org/catalog/cpb-aacip-d96ff50187f) | 1996<br/>
+[This American Life; When You Talk About Music](https://americanarchive.org/catalog/cpb-aacip-526-8w3804zm9t) | 1996<br/>
 
 ***
 
