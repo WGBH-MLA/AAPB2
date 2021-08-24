@@ -8,10 +8,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ## Extended
 
-### Items by Entry Category
-
-
-#### Documentary
+### Documentary
 
 [Cooper Union Forum; Psychotherapy and Hindu Philosophy [1957-12-26]](https://americanarchive.org/catalog/cpb-aacip-80-35gb66d7) | 1957<br/>
 [Cooper Union Forum, The; The Psychological Aspects of Creativity; Creativity: Normal or Neurotic [1959-10-15]](https://americanarchive.org/catalog/cpb-aacip-80-31qfvbz7) | 1959<br/>
@@ -68,7 +65,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Nighttimes: Magazine; Nuclear Outpost](https://americanarchive.org/catalog/cpb-aacip-526-3775t3gz9n) | 1983<br/>
 [September 1st, 1983](https://americanarchive.org/catalog/cpb-aacip-55-84mkmvwx) | 1983<br/>
 [State of Transition #2; Tom Urban, John Ruan, Richard Kosobud](https://americanarchive.org/catalog/cpb-aacip-37-86nzsjvj) | 1983<br/>
-[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+of+Judgment%2C+The+Watergate+Hearings&sort=title+asc) | 1983<br/>
 [Vietnam: Unfinished Business](https://americanarchive.org/catalog/cpb-aacip-526-sn00z72713) | 1983<br/>
 [When a Factory Closes](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31h9j) | 1983<br/>
 [Who's Supporting the Kids?](https://americanarchive.org/catalog/cpb-aacip-29-61djhjcx) | 1983<br/>
@@ -331,7 +327,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Love Stories](https://americanarchive.org/catalog/cpb-aacip-526-qn5z60dc0c) | 2003<br/>
 
 
-#### Education
+### Education
 
 [Lectures to the Laity](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Lectures+to+the+Laity&sort=title+asc) | 1948<br/>
 [Queens College Forum](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Queens+College+Forum) | 1948<br/>
@@ -540,8 +536,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Salsa; No. 205; Where Is It?](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n11w) | 1998<br/>
 [Salsa; No. 207; The Three Pigs](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz1f) | 1998 <br/>
 
+***
 
-#### Entertainment
+### Entertainment
 
 [WNYC Anniversaries; Cavalcade of WNYC; MUNI](https://americanarchive.org/catalog/cpb-aacip-80-612nh60k) | 1948<br/>
 [World Theatre; A Phoenix Too Frequent](https://americanarchive.org/catalog/cpb-aacip-526-4j09w09z2g) | 1950<br/>
@@ -549,11 +546,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [James Agee](https://americanarchive.org/catalog/cpb-aacip-526-3j39020f2c) | 1961<br/>
 [Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k1k) | 1976<br/>
 [Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d7q) | 1976<br/>
-[Kaleidoscope; Sound portrait of Porgy and Bess](https://americanarchive.org/catalog/cpb-aacip-500-028pgx1z) | 1976<br/>
 [Made in New Hampshire; Ingersol-Rand - Le Ballet Industriel](https://americanarchive.org/catalog/cpb-aacip-526-pv6b27r01t) | 1979<br/>
 [WNYC Storytelling Festival; The Storyteller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=WNYC+Storytelling+Festival&sort=title+asc) | 1979<br/>
 [Opening Night: The Making of an Opera](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mm0w) | 1980<br/>
-[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981<br/>
 [PBS LateNight [1982-10-21]](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0cb28) | 1982<br/>
 [Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Beethoven%27s+Metronome+Markings&sort=title+asc) | 1983<br/>
 [New Tech Times; No. 204](https://americanarchive.org/catalog/cpb-aacip-29-8380gksn) | 1984<br/>
@@ -575,7 +570,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [This American Life; From a Distance, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-gx44q7rv9c) | 1996<br/>
 [This American Life; When You Talk About Music, Part 2](https://americanarchive.org/catalog/cpb-aacip-00ca79ae9d4) | 1996<br/>
 
-#### Institution/Organization/Individual
+***
+
+### Institution/Organization/Individual
 
 [WNYC FM: General Station Excellence](https://americanarchive.org/catalog/cpb-aacip-526-736m03zw9w) | 1986<br/>
 [Outside the Moscow Beltway; Letter from Ukraine & Interview on Kazakhstan [1991-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq1h) | 1991<br/>
@@ -605,8 +602,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Weekend in Venice; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6ch04) | 1995<br/>
 [Fishko Files, The; 1999 Excerpts, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73887f) | 1999<br/>
 
+***
 
-#### News
+### News
 
 [Campus Press Conference; Dr. Glenn T. Seaborg of the Radiation Laboratory of the University of California, winner of the Nobel Prize for Chemistry [1956-12-30]](https://americanarchive.org/catalog/cpb-aacip-80-28nckbfs) | 1956<br/>
 [U.N. Radio Review, The; First Emergency Special Session of the General Assembly](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf8d) | 1956<br/>
@@ -776,7 +774,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Chicago Week in Review [1999-11-20]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31pw87) | 1999<br/>
 [KOPB Radio News; The Great Tsunami of '64](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg3s) | 1999<br/>
 
-#### Programs for Children
+***
+
+### Programs for Children
 
 [Young Musician, The](https://americanarchive.org/catalog/cpb-aacip-80-58bg7zsh) | 1976<br/>
 [Freestyle; Scoop [1978-10-30]](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn4b) | 1978<br/>
@@ -818,7 +818,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Posie Paints; Color [1999-12-13]](https://americanarchive.org/catalog/cpb-aacip-41-322bvxmn) | 1999<br/>
 [Ticktock Minutes; 1999 compilation](https://americanarchive.org/catalog/cpb-aacip-526-xd0qr4q08t) | 1999<br/>
 
-#### Promotion of International Understanding
+***
+
+### Promotion of International Understanding
 
 [United Nations Proceedings](https://americanarchive.org/catalog/cpb-aacip-526-8p5v69999z) | 1948<br/>
 [International Interview; Dr. Auguste Lindt - UN High Commissioner for Refugees](https://americanarchive.org/catalog/cpb-aacip-80-04rjf1z9) | 1956<br/>
@@ -834,7 +836,9 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [NERN Special; A Conversation with Lord Caradon](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b4p) | 1970<br/>
 [Los Angeles News Review; No Time to Cry [1975-07-11]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jj0f) | 1975<br/>
 
-#### Public Service
+***
+
+### Public Service
 
 [Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Weekly+Talk+to+the+People--+Mayor+F.H.+LaGuardia&sort=title+asc) | 1944<br/>
 [Mayor O'Dwyer's Transit Hearings](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4731t) | 1947<br/>
@@ -973,7 +977,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [On the Trail of a Killer](https://americanarchive.org/catalog/cpb-aacip-259-jq0sv51r) | 1988<br/>
 [Operation Playground](https://americanarchive.org/catalog/cpb-aacip-526-4746q1th6g) | 1988<br/>
 [Radio Commentaries by Michael Henderson](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sd8f) | 1988<br/>
-[A Place Called Home](https://americanarchive.org/catalog/cpb-aacip-526-v69862cn84) | 1989<br/>
 [Front Street Weekly; Oregon's Passage to India [1989-03-20]](https://americanarchive.org/catalog/cpb-aacip-153-50gthzw3) | 1989<br/>
 [Project Crossroads; All God's People](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=All+God%27s+People) | 1989<br/>
 [Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f) | 1989<br/>
@@ -1090,27 +1093,30 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [What Do You Say?](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t46z) | 1998<br/>
 [Lyme Disease: A Guide to Prevention](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Lyme+Disease%3A+A+Guide+to+Prevention) | 1999<br/>
 
-#### Public Service by a Regional Station
+***
+
+### Public Service by a Regional Station
 
 [Wisconsin Political Educational Forum](https://americanarchive.org/catalog/cpb-aacip-526-1g0ht2h761) | 1946<br/>
 [Chairside Chats. [1948-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-639k35nd04) | 1948<br/>
 [U.P.A. Forum. [1948-04-21]](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s23q) | 1948<br/>
 
-#### Special
+***
+
+### Special
 
 [Hanukkah](https://americanarchive.org/catalog/cpb-aacip-60-439zw9m7) | 1973<br/>
 [Woman; Composite](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f93g)| 1973<br/>
 [Assignment New Jersey; Work, Work, Work [1975-02-19]](https://americanarchive.org/catalog/cpb-aacip-259-348ghx5h) | 1975<br/>
 [Game, The; Til Death Do Us Part](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk4v) | 1975<br/>
 
-#### Youth or Children’s
+### Youth or Children’s
 
 [Teen Age Book Talk](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v20) | 1960<br/>
 [Teenage Book Talk; Eleanor Roosevelt and Helen Ferris](https://americanarchive.org/catalog/cpb-aacip-80-75r7tj08) | 1961<br/>
 [Our Two Cents Worth](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v4m) | 1965<br/>
 [Newseekers](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5t96h) | 1971<br/>
 [Beauty and the Beast](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb45) | 1973<br/>
-[Studio See; No. 102; Ponies](https://americanarchive.org/catalog/cpb-aacip-526-rb6vx07849) | 1976<br/>
 
 #### Next: [Peabody Award Winners of Public Media](/exhibits/peabody/winners)
 
@@ -1121,16 +1127,5 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 <img title="Cover Image" alt="'Music With Balls,' a new joint work by Terry Riley and San Francisco sculptor Arlo Acton, who designed the spheres. The program was the first of a series of thirteen produced by KQED for the Dilexi foundation involving artists from various media who were commissioned to create works directly with and for television. George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries." src="https://s3.amazonaws.com/americanarchive.org/exhibits/69001ent_square.jpg">
 
 ## Gallery
-
-  - <a class="type">image</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/69001ent.jpg">
-    <a class="caption-text">'Music With Balls,' a new joint work by Terry Riley and San Francisco sculptor Arlo Acton, who designed the spheres. The program was the first of a series of thirteen produced by KQED for the Dilexi foundation involving artists from various media who were commissioned to create works directly with and for television. George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-    <a class="credit-link" href="https://www5.galib.uga.edu/media/collections/peabody/index.html">Courtesy of Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-  - <a class="type">image</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/69001ent_2.jpg">
-    <a class="caption-text">'Music With Balls,' a new joint work by Terry Riley and San Francisco sculptor Arlo Acton, who designed the spheres. The program was the first of a series of thirteen produced by KQED for the Dilexi foundation involving artists from various media who were commissioned to create works directly with and for television. George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-    <a class="credit-link" href="https://www5.galib.uga.edu/media/collections/peabody/index.html">Courtesy of Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-
-
 
 ## Records
