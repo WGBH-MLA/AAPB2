@@ -8,8 +8,6 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ## Extended
 
-### Items by Decade
-
 ### 1940s
 
 
