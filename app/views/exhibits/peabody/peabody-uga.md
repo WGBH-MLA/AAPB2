@@ -52,6 +52,8 @@ The print materials and artifacts in the Hargrett Rare Book and Manuscript Libra
 
 To search the Peabody Awards Collection at UGA, researchers can visit [https://bmac.libs.uga.edu/pawtucket2/index.php/Peabody/Index](https://bmac.libs.uga.edu/pawtucket2/index.php/Peabody/Index).
 
+#### Next: [Notes](/exhibits/peabody/notes)
+
 ## Main
 
 ## Cover
