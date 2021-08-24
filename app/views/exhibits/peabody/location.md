@@ -1477,6 +1477,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Profile: Lillian Hellman; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk21) | 1981<br/>
 [Profile: Lillian Hellman; No. 3](https://americanarchive.org/catalog/cpb-aacip-526-vx05x26r00) | 1981<br/>
 [Profile: Lillian Hellman; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-nv9959dg01) | 1981<br/>
+[Sixth Van Cliburn International Piano Competition, The](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk7k) | 1981<br/>
 [World Exchange; No Excuse, Sir [1981-08-14]](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv43) | 1981<br/>
 [Business Edition with David Johnson; No. 113](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34688) | 1982<br/>
 [Public Education](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7347j) | 1982<br/>
