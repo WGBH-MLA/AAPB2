@@ -52,7 +52,7 @@ In 1942, WHA in Madison, Wisconsin, became the first local public service radio 
 
 Listen to the first episode of “Afield with Ranger Mac” below:
 
-<iframe width="560" height="315" src='https://americanarchive.org/embed/cpb-aacip-30-60qrgcf1'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-30-60qrgcf1'></iframe>
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Outside of the menu for the 1942 George Foster Peabody Radio Awards Dinner, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</caption>
@@ -90,11 +90,11 @@ The 1945 Awards ceremony was broadcast by WNYC Radio, whose entry, [*Weekly Talk
 
 #### Part 1
 
-<iframe width="560" height="315" src='https://americanarchive.org/embed/cpb-aacip-526-7d2q52gc6q'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-526-7d2q52gc6q'></iframe>
 
 #### Part 2
 
-<iframe width="560" height="315" src='https://americanarchive.org/embed/cpb-aacip-eeebdef7abc'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-eeebdef7abc'></iframe>
 
 In WNYC’s Peabody entry form, the station noted, “Mayor LaGuardia's Sunday reports to the citizens of New York City cover civic affairs, war developments, consumer information, and the multi topics that affect not only the lives of the City's seven and one-half millions but those of almost an additional four million more persons living just outside the metropolitan area. Informally discussing all aspects of the war and its relation to each individual New Yorker, the Mayor weekly reaches an audience unequaled by any other program on the air at that hour.” [<sup>4</sup>](/exhibits/peabody/notes#4)   
 
@@ -112,7 +112,7 @@ In 1955, KQED became the first public television station to receive an honorable
 
 Below is an example of a Louis Lyons broadcast from 1957:
 
-<iframe width="560" height="315" src='https://americanarchive.org/embed/cpb-aacip-15-25x69zd8'></iframe>
+<iframe src='https://americanarchive.org/embed/cpb-aacip-15-25x69zd8'></iframe>
 
 The first website to win a Peabody Award was Transom.org in 2003 for providing, according to the winner citation, “technical information and conceptual instruction for experienced radio producers, as well as those aspiring to present their own distinct perspectives and voices within a media mix too often defined by sameness and repetition…. [and] making a place for those who have little access to mainstream media to be heard.”[<sup>7</sup>](/exhibits/peabody/notes#7) Streaming and digital programming have won Peabody Awards since the 2010s. In 2015, Peabody established the Futures of Media Award, selected by the Peabody Student Honor Board, to recognize “groundbreaking digital narratives and the technologies used to tell these stories.”[<sup>8</sup>](/exhibits/peabody/notes#8)  
  
