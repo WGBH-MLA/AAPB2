@@ -132,12 +132,8 @@ After Lou Benjamin served as interim director during 2000, Horace Newcomb, direc
 
 ## Cover
 
+<img title="Cover Image" alt="1941 Peabody Awards luncheon, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries." src="https://s3.amazonaws.com/americanarchive.org/exhibits/banquet1_square.jpg">
+
 ## Gallery
-
-  - <a class="type">image</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/banquet1.jpg">
-    <a class="caption-text">1941 Peabody Awards luncheon, George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-    <a class="credit-link" href="https://www5.galib.uga.edu/media/collections/peabody/index.html">Courtesy of Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-
 
 ## Records
