@@ -1627,6 +1627,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 
 [Environmental Town Meetings; Wisconsin Environmental Forum](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Wisconsin+Environmental+Forum) | 1977<br/>
 
+##### WETA
+
+[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+of+Judgment%2C+The+Watergate+Hearings&sort=title+asc) | 1983<br/>
+
 ***
 
 ### Wisconsin
