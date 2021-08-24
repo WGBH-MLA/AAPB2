@@ -65,6 +65,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Nighttimes: Magazine; Nuclear Outpost](https://americanarchive.org/catalog/cpb-aacip-526-3775t3gz9n) | 1983<br/>
 [September 1st, 1983](https://americanarchive.org/catalog/cpb-aacip-55-84mkmvwx) | 1983<br/>
 [State of Transition #2; Tom Urban, John Ruan, Richard Kosobud](https://americanarchive.org/catalog/cpb-aacip-37-86nzsjvj) | 1983<br/>
+[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+of+Judgment%2C+The+Watergate+Hearings&sort=title+asc) | 1983<br/>
 [Vietnam: Unfinished Business](https://americanarchive.org/catalog/cpb-aacip-526-sn00z72713) | 1983<br/>
 [When a Factory Closes](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31h9j) | 1983<br/>
 [Who's Supporting the Kids?](https://americanarchive.org/catalog/cpb-aacip-29-61djhjcx) | 1983<br/>
