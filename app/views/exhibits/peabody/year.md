@@ -470,7 +470,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Front Street Weekly; Come Together](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23m1p) | Oregon Public Broadcasting<br/>
 [McLaughlin's Beat; No. 312; Tommy Trantino: Ten More Years](https://americanarchive.org/catalog/cpb-aacip-526-tb0xp6w93m) | New Jersey Network<br/>
 [Memories of Hell](https://americanarchive.org/catalog/cpb-aacip-191-33dz0d6f) | KNME<br/>
-[Morning Pro Musica; No. 8; Learning about Raga](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Learning+about+Raga&sort=title+asc) | WGBH<br/>
 [New Hampshire Journal; No. 
 201](https://americanarchive.org/catalog/cpb-aacip-526-4x54f1nj80) | New Hampshire Public Television<br/>
 [Nighttimes Magazine; No. 276; Welcome Home](https://americanarchive.org/catalog/cpb-aacip-77-67wm4c6f) | KTCA<br/>
@@ -497,7 +496,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [John Callaway Interviews; 1983, Composite Of Five Programs](https://americanarchive.org/catalog/cpb-aacip-526-5717m0515v) | WTTW<br/>
 [Lost in Time](https://americanarchive.org/catalog/cpb-aacip-526-sb3ws8js62) | Auburn University Television<br/>
 [Million Dollar Mud Flats](https://americanarchive.org/catalog/cpb-aacip-55-st7dr2ps8p) | KQED<br/>
-[Morning Pro Musica; Live on Pro Musica; Beethoven's Metronome Markings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Beethoven%27s+Metronome+Markings&sort=title+asc) | WGBH<br/>
 [New Jersey Nightly News; Employment in the Changing Workplace](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6k995) | New Jersey Network<br/>
 [New Jersey Nightly News; Gone Without a Trace](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh7m) | New Jersey Network<br/>
 [Nightly Business Report, The; The Bell Breakup: The 7 Regionals & the New AT&T](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt6g) | WPBT<br/>
@@ -744,7 +742,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Engines of Our Ingenuity, The [1989-01-04]](https://americanarchive.org/catalog/cpb-aacip-20-4298sjwq) | KUHF<br/>
 [Frida Kahlo: Portrait of an Artist](https://americanarchive.org/catalog/cpb-aacip-55-78gf2s89) | KQED<br/>
 [Front Street Weekly; Oregon's Passage to India [1989-03-20]](https://americanarchive.org/catalog/cpb-aacip-153-50gthzw3) | Oregon Public Broadcasting<br/>
-[Frugal Gourmet [1989-11-09]](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s57b) | WTTW<br/>
 [Halftime](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Halftime&sort=title+asc) | Connecticut Public Television<br/>
 [In Poor Health](https://americanarchive.org/catalog/cpb-aacip-526-nc5s757q14) | KCET<br/>
 [Living the Last Days](https://americanarchive.org/catalog/cpb-aacip-526-z892806c3h) | KCET<br/>
