@@ -12,6 +12,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ### 1940s
 
+
 ##### 1944
 
 [Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Weekly+Talk+to+the+People--+Mayor+F.H.+LaGuardia&sort=title+asc) | WNYC<br/>
@@ -40,7 +41,10 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 [Story of Empire County, The; No. 15; The Case of the Careless Cook](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976) | WNYC<br/>
 
+***
+
 ### 1950s
+
 
 ##### 1950
 
@@ -60,7 +64,6 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [WNYC News; New York's Narcotics Hearings, Part 1](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t05) | WNYC<br/>
 
 ##### 1954
-
 
 [Art as Education; Creative Crayon](https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj3r) | KETC<br/>
 [Science in Sight; Saving the Soil](https://americanarchive.org/catalog/cpb-aacip-110-89d51nzq) | KETC<br/>
@@ -114,7 +117,10 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Miscellaneous; Values We Live By](https://americanarchive.org/catalog/cpb-aacip-80-60qrg9wk) | WNYC<br/>
 [United States in a World of Revolt, The](https://americanarchive.org/catalog/cpb-aacip-80-75dbsj8d) | WNYC<br/>
 
+***
+
 ### 1960s
+
 
 ##### 1960
 
@@ -203,7 +209,10 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Madison Vote-in](https://americanarchive.org/catalog/cpb-aacip-526-gm81j98d7q) | WHA<br/>
 [NET Journal; No. 257; To Save Tomorrow](https://americanarchive.org/catalog/cpb-aacip-75-44pk0t5j) | WTTW<br/>
 
+***
+
 ### 1970s
+
 
 ##### 1970
 
@@ -397,7 +406,10 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Test, The](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z59z) | WTVI<br/>
 [WNYC Storytelling Festival; The Storyteller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=WNYC+Storytelling+Festival&sort=title+asc) | WNYC<br/>
 
+***
+
 ### 1980s
+
 
 ##### 1980
 
@@ -774,7 +786,10 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw6b) | WTTW<br/>
 [WTTW Journal: Vietnam: A Chicagoan Goes Home](https://americanarchive.org/catalog/cpb-aacip-526-cn6xw48w4p) | WTTW<br/>
 
+***
+
 ### 1990s
+
 
 ##### 1990
 
@@ -1236,7 +1251,10 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Unbreakable Spirits, Eight forty-eight; No. 8; Female Buddhist Monk](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd3r) | WBEZ<br/>
 [Wisconsin: Prisons & Politics](https://americanarchive.org/catalog/cpb-aacip-29-010p2r97) | WHA<br/>
 
+***
+
 ### 2000s
+
 
 ##### 2003
 
@@ -1251,11 +1269,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 <img title="Cover Image" alt="Eight friends of Eleanor Roosevelt gather to remember the former first lady in "Eleanor Roosevelt, A Woman's Woman" from WNYC. (They are: Mrs. Aileen Harrity, a neighbor at both Hyde Park and Campobello; Hon. Anna M. Kross, Commissioner of Corrections, City of New York; Ireene Wicker, 'The Singing Lady' of radio, who with her husband Victor Hamer knew Mrs. Roosevelt for many years. Mr. Hamer and his brothers hold Campobello in trust for the people; Hon. Francis Perkins, for 12 years U.S. Secretary of Labor under President Franklin D. Roosevelt. Former Industrial Commissioner of the State of New York. Now on the faculty of Cornell University; Miss Rose Schneiderman, President for many years of the New York Women's Trade Union League; Fanny Hurst, celebrated novelist; Mrs. David Gurevitch, wife of Mrs. Roosevelt's personal physician, neighbors in New York City, who accompanied her on many trips since 1958; Hon. Eleanor Clark French, New York City Commissioner to the United Nations.) George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries." src="https://s3.amazonaws.com/americanarchive.org/exhibits/62065psr_square.jpg">
 
 ## Gallery
-
-  - <a class="type">image</a>
-    <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/62065psr.jpg">
-    <a class="caption-text"> Eight friends of Eleanor Roosevelt gather to remember the former first lady in "Eleanor Roosevelt, A Woman's Woman" from WNYC. (They are: Mrs. Aileen Harrity, a neighbor at both Hyde Park and Campobello; Hon. Anna M. Kross, Commissioner of Corrections, City of New York; Ireene Wicker, 'The Singing Lady' of radio, who with her husband Victor Hamer knew Mrs. Roosevelt for many years. Mr. Hamer and his brothers hold Campobello in trust for the people; Hon. Francis Perkins, for 12 years U.S. Secretary of Labor under President Franklin D. Roosevelt. Former Industrial Commissioner of the State of New York. Now on the faculty of Cornell University; Miss Rose Schneiderman, President for many years of the New York Women's Trade Union League; Fanny Hurst, celebrated novelist; Mrs. David Gurevitch, wife of Mrs. Roosevelt's personal physician, neighbors in New York City, who accompanied her on many trips since 1958; Hon. Eleanor Clark French, New York City Commissioner to the United Nations.) George Foster Peabody Awards records, ms3000, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
-    <a class="credit-link" href="https://www5.galib.uga.edu/media/collections/peabody/index.html">Courtesy of Hargrett Rare Book and Manuscript Library, University of Georgia Libraries.</a>
 
 
 ## Records
