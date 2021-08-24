@@ -269,7 +269,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Abbey of the Genessee, The](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px5k) | 1997<br/>
 [Block By Block: People's Summit](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp63) | 1997<br/>
 [Brigham Young](https://americanarchive.org/catalog/cpb-aacip-83-5370s9pq) | 1997<br/>
-[Castro, The](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7006r) | 1997<br/>
 [Chicago Matters; Picture Me Rolling](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4f278) | 1997<br/>
 [Everybody's Kids](https://americanarchive.org/catalog/cpb-aacip-29-472v737k) | 1997<br/>
 [Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m52s) | 1997<br/>
