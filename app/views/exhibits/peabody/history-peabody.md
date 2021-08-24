@@ -112,7 +112,7 @@ In 1955, KQED became the first public television station to receive an honorable
 
 Below is an example of a Louis Lyons broadcast from 1957:
 
-<iframe src='https://americanarchive.org/embed/cpb-aacip-15-25x69zd8'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-15-25x69zd8'></iframe>
 
 The first website to win a Peabody Award was Transom.org in 2003 for providing, according to the winner citation, “technical information and conceptual instruction for experienced radio producers, as well as those aspiring to present their own distinct perspectives and voices within a media mix too often defined by sameness and repetition…. [and] making a place for those who have little access to mainstream media to be heard.”[<sup>7</sup>](/exhibits/peabody/notes#7) Streaming and digital programming have won Peabody Awards since the 2010s. In 2015, Peabody established the Futures of Media Award, selected by the Peabody Student Honor Board, to recognize “groundbreaking digital narratives and the technologies used to tell these stories.”[<sup>8</sup>](/exhibits/peabody/notes#8)  
  
