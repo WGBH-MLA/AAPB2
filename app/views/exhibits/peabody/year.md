@@ -1084,7 +1084,6 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [Beyond the Flood-; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-tt4fn1221h) | KTCA<br/>
 [Block By Block: People's Summit](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp63) | KTCA<br/>
 [Brigham Young](https://americanarchive.org/catalog/cpb-aacip-83-5370s9pq) | KUED<br/>
-[Castro, The](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7006r) | KQED<br/>
 [Chicago Matters; Picture Me Rolling](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4f278) | WBEZ<br/>
 [Everybody's Kids](https://americanarchive.org/catalog/cpb-aacip-29-472v737k) | Wisconsin Public Television<br/>
 [Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m52s) | Louisiana Public Broadcasting<br/>
