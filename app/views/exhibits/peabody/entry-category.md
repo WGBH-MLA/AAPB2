@@ -17,7 +17,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [How Do You Like the World](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=How+Do+You+Like+the+World&sort=title+asc) | 1978<br/>
 [Islander, The](https://americanarchive.org/catalog/cpb-aacip-60-82x3fqxx) | 1978<br/>
 [Parchman Trials, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85j5j) | 1978<br/>
-[Vito](https://americanarchive.org/catalog/cpb-aacip-526-ns0ks6kb4w) | 1978<br/>
 [WBEZ Special; Teen Pregnancy: From Babydolls to Babies](https://americanarchive.org/catalog/cpb-aacip-526-6q1sf2nf40) | 1978<br/>
 [An American Ism: Joe McCarthy](https://americanarchive.org/catalog/cpb-aacip-29-300zpk6p) | 1979<br/>
 [Blowout: A Special Report](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q86b) | 1979<br/>
@@ -95,7 +94,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Veeck: A Man For Any Season](https://americanarchive.org/catalog/cpb-aacip-526-930ns0mz1g) | 1985<br/>
 [War in the West](https://americanarchive.org/catalog/cpb-aacip-283-52w3r7zc) | 1985<br/>
 [What Do Women Really Want, Anyway?](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jw3q) | 1985<br/>
-[Wrapped In Steel](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Wrapped+In+Steel&sort=title+asc) | 1985<br/>
 [Beyond 1986; Poor Folks; A Look Forward](https://americanarchive.org/catalog/cpb-aacip-526-qj77s7k26f) | 1986<br/>
 [Bilingualism In America: A Radio Presentation of the Humanities; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-df6k06z31d) | 1986<br/>
 [Bilingualism In America: A Radio Presentation of the Humanities; No. 2](https://americanarchive.org/catalog/cpb-aacip-526-0g3gx45r2k) | 1986<br/>
@@ -129,7 +127,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Safe Haven](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n154) | 1987<br/>
 [Shaping New Dimensions](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gs62) | 1987<br/>
 [Troubled Waters](https://americanarchive.org/catalog/cpb-aacip-83-214mwh2h) | 1987<br/>
-[...And The Pursuit of Happiness](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=...And+the+Pursuit+of+Happiness) | 1988<br/>
 [America's Prison Crisis: Monuments to Failure ](https://americanarchive.org/catalog/cpb-aacip-191-66j0zwpr) | 1988<br/>
 [California Stories; Dreams: Theater of the Night](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv5g) | 1988<br/>
 [Canada: True North; No. 102; Where is Here?](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh5q) | 1988<br/>
@@ -140,7 +137,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Front Street Weekly; No. 804; Cleaning House: Oregon's Meth Lab Crisis](https://americanarchive.org/catalog/cpb-aacip-153-591898jj) | 1988<br/>
 [George Wallace: A Politician's Legacy; No Middle Ground](https://americanarchive.org/catalog/cpb-aacip-526-vm42r3q851) | 1988<br/>
 [George Wallace: A Politician's Legacy; No. 2; Convenience or Conversion](https://americanarchive.org/catalog/cpb-aacip-526-w66930q61q) | 1988<br/>
-[Japan; No. 104](https://americanarchive.org/catalog/cpb-aacip-526-cv4bn9z58n) | 1988<br/>
 [Kids, Sex & Choices](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px76) | 1988<br/>
 [Los Angeles History Project, The: Trouble in Angel City](https://americanarchive.org/catalog/cpb-aacip-526-5x25b00290) | 1988<br/>
 [Made in America](https://americanarchive.org/catalog/cpb-aacip-526-0z70v8bh33) | 1988<br/>
@@ -176,7 +172,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [WTTW Journal: Top Guns of '43](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw6b) | 1989<br/>
 [WTTW Journal: Vietnam: A Chicagoan Goes Home](https://americanarchive.org/catalog/cpb-aacip-526-cn6xw48w4p) | 1989<br/>
 [A Neighborhood Redeemed](https://americanarchive.org/catalog/cpb-aacip-240-3976hvfw) | 1990<br/>
-[America's Heritage](https://americanarchive.org/catalog/cpb-aacip-526-2804x55f9f) | 1990<br/>
 [Blackbirds in the Sun](https://americanarchive.org/catalog/cpb-aacip-42-94hmh2cf) | 1990<br/>
 [Drinking 101: An Introduction to Alcohol](https://americanarchive.org/catalog/cpb-aacip-16-19s1rw84) | 1990<br/>
 [Inside Information](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s9q) | 1990<br/>
@@ -189,7 +184,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip-526-w08w951w4j) | 1990<br/>
 [States of Mind; Mill City](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv10) | 1990<br/>
 [States of Mind; Mill City](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mv10) | 1990<br/>
-[WTTW Journal; Ed Paschke: The Artist Behind the Mask [1990-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-7p8tb0zt15) | 1990<br/>
 [By the Year 2000; Skin Deep [1991-03-22]](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks23) | 1991<br/>
 [By the Year 2000; Speaking of Young Black Men [1991-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-np1wd3r60c) | 1991<br/>
 [By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p) | 1991<br/>
@@ -235,34 +229,26 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Last Minority, The](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sk9j) | 1993<br/>
 [Life and Times; L.A. Medical. Dr. Keith Black [1993-10-06]](https://americanarchive.org/catalog/cpb-aacip-526-4t6f18tf21) | 1993<br/>
 [Life and Times; L.A. Medical. Dr. Michael Zinner [1993-10-05]](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh4d) | 1993<br/>
-[Mine Eyes Have Seen the Glory; No. 101; America's Folk Religion](https://americanarchive.org/catalog/cpb-aacip-526-z892806c9c) | 1993<br/>
-[Mine Eyes Have Seen the Glory; No. 102; The Making of a Subculture](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h9x) | 1993<br/>
-[Mine Eyes Have Seen the Glory; No. 103; The Coming of Age](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gm6k) | 1993<br/>
 [Mini-Dragons II; Malaysia: 2020 Vision](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x33v) | 1993<br/>
 [Trading Attitudes](https://americanarchive.org/catalog/cpb-aacip-153-78gf24gz) | 1993<br/>
 [WTTW Journal; Africa: A View From the Field [1993-11-17]](https://americanarchive.org/catalog/cpb-aacip-526-tb0xp6w929) | 1993<br/>
 [Berlin Calling](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zr10) | 1994<br/>
 [Bridges: A Liberal/Conservative Dialogue with Larry Josephson. No. 6; Shelby Steel: Portrait of a Black Conservative, Part 2](https://americanarchive.org/catalog/cpb-aacip-cbc38e9e3171994) | 1994<br/>
-[Crusade: The Life of Billy Graham](https://americanarchive.org/catalog/cpb-aacip-526-tm71v5cr2m) | 1994<br/>
 [D-Day Plus 50: Louisiana Remembers](https://americanarchive.org/catalog/cpb-aacip-17-65v6xv27) | 1994<br/>
 [Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md17) | 1994<br/>
 [Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t) | 1994<br/>
 [Fear on the Inside: A Story of Domestic Violence](https://americanarchive.org/catalog/cpb-aacip-526-xp6tx36f7q) | 1994<br/>
 [From Death Row: This is Mumia Abu-Jamal](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=From+Death+Row%3A+This+is+Mumia+Abu-Jamal&sort=title+asc) | 1994<br/>
-[Remembering Chicago](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc9d) | 1994<br/>
 [Schools of the Future: Learning On-Line](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh3c) | 1994<br/>
 [South Africa: New Carolina Partnerships](https://americanarchive.org/catalog/cpb-aacip-526-959c53g30s) | 1994<br/>
 [St. Louis Chronicles; City on the Air](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r9m) | 1994<br/>
 [Vietnam: At the Crossroads](https://americanarchive.org/catalog/cpb-aacip-55-451g2gb6) | 1994<br/>
 [Zoo Man](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h3r) | 1994<br/>
 [A Friend Called Lyle](https://americanarchive.org/catalog/cpb-aacip-526-rr1pg1jv99) | 1995<br/>
-[Chicago Matters; Of Hopes and Fears](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn60784) | 1995<br/>
-[In the Beginning: The Creationist Controversy](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=In+the+Beginning%3A+The+Creationist+Controversy&f[access_types][]=online) | 1995<br/>
 [La Villa de Santa Fe](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82v6z) | 1995<br/>
 [Mother Land, Sister City](https://americanarchive.org/catalog/cpb-aacip-526-sf2m61cx58) | 1995<br/>
 [Port Chicago 50, The: An Oral History](https://americanarchive.org/catalog/cpb-aacip-526-057cr5pf14) | 1995<br/>
 [Wacipi-Powwow](https://americanarchive.org/catalog/cpb-aacip-77-1937qsxt) | 1995<br/>
-[Windowworks; Choosing One's Way [1995-04-25]](https://americanarchive.org/catalog/cpb-aacip-526-mc8rb6x65x) | 1995<br/>
 [Alabama Experience, The; No Excuses](https://americanarchive.org/catalog/cpb-aacip-526-0k26970w95) | 1996<br/>
 [Alabama Experience, The; Tuskegee, Alabama: Living Black & White](https://americanarchive.org/catalog/cpb-aacip-526-6688g8gk0p) | 1996<br/>
 [Chicago Matters; Questions of Faith: A Pastor's Journal](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gv78) | 1996<br/>
@@ -289,7 +275,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m52s) | 1997<br/>
 [Gregory Kondos: A Passion for the Land](https://americanarchive.org/catalog/cpb-aacip-55-94vhjjf0) | 1997<br/>
 [Let the Women Vote!](https://americanarchive.org/catalog/cpb-aacip-83-16c2g1b0) | 1997<br/>
-[Record Row: Cradle of Rhythm & Blues](https://americanarchive.org/catalog/cpb-aacip-526-7s7hq3sz2r) | 1997<br/>
 [State of the Union; No. 102; Mothers' Day Special [1997-05-05]](https://americanarchive.org/catalog/cpb-aacip-29-13zs7m07) | 1997<br/>
 [State of the Union; No. 103; That's Why They Call it Work [1997-08-25]](https://americanarchive.org/catalog/cpb-aacip-29-31qftz9r) | 1997<br/>
 [Survivors in the Sand](https://americanarchive.org/catalog/cpb-aacip-526-hh6c24rt3q) | 1997<br/>
@@ -344,7 +329,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Books in Profile; Two Angry Men [1957]](https://americanarchive.org/catalog/cpb-aacip-80-91sf89bm) | 1957<br/>
 [World of Medicine: a television report on medical research and progress. Program 1: Radiology, Blood Pressure, Hearing](https://americanarchive.org/catalog/cpb-aacip-526-hq3rv0f42g) | 1957<br/>
 [Boettcher School of the Air; Science; Program 2, Air [1958-03-18]](https://americanarchive.org/catalog/cpb-aacip-526-r49g44jz47) | 1958<br/>
-[Children Growing! Series 2, program 7, From A to F : the report card](https://americanarchive.org/catalog/cpb-aacip-512-tx3513w07x) | 1958<br/>
 [Coming Space Age, The](https://americanarchive.org/catalog/cpb-aacip-512-nk3610wt5k) | 1958<br/>
 [Jung Speaks of Freud](https://americanarchive.org/catalog/cpb-aacip-526-st7dr2qj7p) | 1958<br/>
 [Target: Future; Pilot's Report on the X-15 [1958-03-11]](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dv26) | 1958<br/>
@@ -360,11 +344,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Foreign Language Instruction for Elementary Grades; Ya hablamos espanol](https://americanarchive.org/catalog/cpb-aacip-526-2n4zg6h298) | 1962<br/>
 [Seminar of the Air; Challenge of Space Flight; Satellites in the Nation's Space Program](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh2s) | 1962<br/>
 [23 Park Avenue with Lee Graham; Are the Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=23+Park+Avenue+with+Lee+Graham) | 1964<br/>
-[Book Beat; Saul Bellow Interview](https://americanarchive.org/catalog/cpb-aacip-526-vd6nz8203t) | 1964<br/>
-[Book Beat](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s3v) | 1965<br/>
 [Education Network; Teaching By Inquiry](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr4h) | 1967<br/>
-[Book Beat](https://americanarchive.org/catalog/cpb-aacip-526-pg1hh6dc3h) | 1968<br/>
-[NET Journal; No. 257; To Save Tomorrow](https://americanarchive.org/catalog/cpb-aacip-75-44pk0t5j) | 1969<br/>
 [Darker Brother Series, The; You Never Miss Your Daddy 'Til He Up and---!](https://americanarchive.org/catalog/cpb-aacip-30-bv79s1kx40) | 1970<br/>
 [Miscellaneous; The Teaching Machine : Educating the Young](https://americanarchive.org/catalog/cpb-aacip-80-33dz0w56) | 1970<br/>
 [A Birthday Story](https://americanarchive.org/catalog/cpb-aacip-60-032281rj) | 1971
@@ -387,12 +367,8 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Writing Time](https://americanarchive.org/catalog/cpb-aacip-526-js9h41ks0g) | 1972<br/>
 [Artesia Hall](https://americanarchive.org/catalog/cpb-aacip-526-3775t3h00c) | 1973<br/>
 [We Are the Other People; No. 10; What a Miracle!](https://americanarchive.org/catalog/cpb-aacip-30-3n20c4sv0s) | 1973<br/>
-[Arts and the City, The; Chicago 1974](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59h2r) | 1974<br/>
-[Consumer Game, The; The Car Repair Mess](https://americanarchive.org/catalog/cpb-aacip-526-zp3vt1j065) | 1974<br/>
 [Metric System, The; 8; 2; 13; Comparing Units of Volume; It's All Based on the Meter; What is the Metric System?](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq93) | 1974<br/>
 [Logic of Poetry, The; No. 4; Mending Walls](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf9q) | 1975<br/>
-[Look At Me; No. 4](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d165) | 1975<br/>
-[Look At Me; No. 5](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx9w) | 1975<br/>
 [Ohio: Its People and Its Heritage](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97j5p) | 1975<br/>
 [Oral History of Chequamegon Bay Area; No. 5; Ashland Wisconsin: A Self Portrait](https://americanarchive.org/catalog/cpb-aacip-526-n00zp3x39q) | 1975<br/>
 [Science with the Count; Metamorphosis](https://americanarchive.org/catalog/cpb-aacip-526-f76639mf85) | 1976<br/>
@@ -447,8 +423,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Human Community, The; Species Modifications](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt4v) | 1984<br/>
 [Human Community, The; Toxic Waste](https://americanarchive.org/catalog/cpb-aacip-387-375tb6pn) | 1984<br/>
 [In Quest Of Excellence](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gm86) | 1984<br/>
-[Ancient Lives; No. 102, The Mountains Of Gold](https://americanarchive.org/catalog/cpb-aacip-526-9c6rx94c8q) | 1985<br/>
-[Ancient Lives; No. 103, The Processional Way of the Gods](https://americanarchive.org/catalog/cpb-aacip-526-bv79s1mp5m) | 1985<br/>
 [Life and Mind: Profiles in the Humanities](https://americanarchive.org/catalog/cpb-aacip-259-wm13rb5q) | 1985<br/>
 [State Spectrum; No. 3; Federal/State Relationship](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fn3n) | 1985<br/>
 [Storylords; No. 2; Connecting What You Know With What's On the Page](https://americanarchive.org/catalog/cpb-aacip-526-2f7jq0ts56) | 1985<br/>
@@ -479,7 +453,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [MD Citizenship; No. 114](https://americanarchive.org/catalog/cpb-aacip-394-09w0w0n9) | 1989<br/>
 [Newton's Apple; No. 701](https://americanarchive.org/catalog/cpb-aacip-526-028pc2v45q) | 1989<br/>
 [StarFinder; No. 2; Pictures from Numbers](https://americanarchive.org/catalog/cpb-aacip-394-182jmdpw) | 1990<br/>
-[1991 Golden Apple Awards for Excellence in Teaching](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=1991+Golden+Apple+Awards+for+Excellence+in+Teaching&f[access_types][]=online) | 1991<br/>
 [Escape From Failure](https://americanarchive.org/catalog/cpb-aacip-526-xw47p8vr4j) | 1991<br/>
 [Homework Hotline; No. 158](https://americanarchive.org/catalog/cpb-aacip-526-m32n58dq6q) | 1991<br/>
 [Making the Grade 1991; Chicago School Reform: All Power to the Parents?](https://americanarchive.org/catalog/cpb-aacip-526-m901z4321m) | 1991<br/>
@@ -489,31 +462,8 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Oregon Field Guide [1991-10-03 & 1991-11-07]](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m472) | 1991<br/>
 [You've Got That Right; No. 2; Freedom of Speech](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7350n) | 1991<br/>
 [Homework Hotline [1992-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f864) | 1992<br/>
-[New explorers; No. 201; Journey to Save a Crane](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k765) | 1992<br/>
-[New explorers; No. 202; Voices in Stone](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qm7x) | 1992<br/>
-[New explorers; No. 203; Test Tube Zoo](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s77j) | 1992<br/>
-[New explorers; No. 204; The Beauty of the Beast](https://americanarchive.org/catalog/cpb-aacip-526-833mw29f17) | 1992<br/>
-[New explorers; No. 206; The Storm Within](https://americanarchive.org/catalog/cpb-aacip-526-542j679w3m) | 1992<br/>
-[New explorers; No. 207; Language of Science](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h9n) | 1992<br/>
-[New explorers; No. 208; Rivers of Fire](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fn4z) | 1992<br/>
-[New explorers; No. 209; Creating an Ocean](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n20v) | 1992<br/>
-[New explorers; No. 210; Rock and Roll Physics](https://americanarchive.org/catalog/cpb-aacip-526-707wm14r6r) | 1992<br/>
-[New explorers; No. 211; Fragments of Time](https://americanarchive.org/catalog/cpb-aacip-526-n872v2dj7d) | 1992<br/>
-[New explorers; No. 212; Catching the Sun](https://americanarchive.org/catalog/cpb-aacip-526-9c6rx94d1t) | 1992<br/>
-[New explorers; No. 213; Adventure of Discovery](https://americanarchive.org/catalog/cpb-aacip-526-fq9q23s25b) | 1992<br/>
-[New explorers; Peabody Presentation of Second Season](https://americanarchive.org/catalog/cpb-aacip-526-db7vm43z6h) | 1992<br/>
 [Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j) | 1992<br/>
 [A Moment of Science; 1993 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d21w) | 1993<br/>
-[New Explorers, The; Series III; No. 301; The Fragile Fossil [1993-03-02]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7689s) | 1993<br/>
-[New Explorers, The; Series III; No. 302; The Dream Fulfilled [1993-03-02]](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc2g) | 1993<br/>
-[New Explorers, The; Series III; No. 303; The Great Chicago Flood [1993-03-29]](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m181) | 1993<br/>
-[New Explorers, The; Series III; No. 304; Running out of Time [1993-04-05]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f953) | 1993<br/>
-[New Explorers, The; Series III; No. 307; Orphans of Time [1993-04-07]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f88r) | 1993<br/>
-[New Explorers, The; Series III; No. 308; Super Seeds](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73879s) | 1993<br/>
-[New Explorers, The; Series III; No. 309; Spiral of Silence [1993-11-18]](https://americanarchive.org/catalog/cpb-aacip-526-z02z31px2n) | 1993<br/>
-[New Explorers, The; Series III; No. 310; Dive Into Darkness](https://americanarchive.org/catalog/cpb-aacip-526-bg2h709313) | 1993<br/>
-[New Explorers, The; Series III; No. 312; Earthquakes [1993-06-04]](https://americanarchive.org/catalog/cpb-aacip-526-j38kd1rq4j) | 1993<br/>
-[New Explorers, The; Series III; No. 313; Childen of the River [1993-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k78) | 1993<br/>
 [Assignment: The World](https://americanarchive.org/catalog/cpb-aacip-526-833mw29d9f) | 1993<br/>
 [Fascinatin' Rhythm; Early Black Songwriters](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Early+Black+Songwriters&sort=title+asc) | 1994<br/>
 [Fascinatin' Rhythm; Counting Down to the Millennium](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Counting+Down+to+the+Millennium&sort=title+asc) | 1994<br/>
@@ -527,7 +477,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Newton's Apple; No. 1301 [1995-08-29]](https://americanarchive.org/catalog/cpb-aacip-77-1615fzpg) | 1995<br/>
 [In Search of the Oregon Trail, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-db7vm44005) | 1996<br/>
 [Snow Wolves, The](https://americanarchive.org/catalog/cpb-aacip-83-311nsbmt) | 1996<br/>
-[Ten Things Every Child Needs](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck2z) | 1997<br/>
 [Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b) | 1998<br/>
 [Connect; Doing More in Less: Microgravity](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0855b) | 1998<br/>
 [Parenting Puzzle: The Middle Years; No. 101; Tell Me More](https://americanarchive.org/catalog/cpb-aacip-240-773txv76) | 1998<br/>
@@ -558,7 +507,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Houdini!](https://americanarchive.org/catalog/cpb-aacip-526-9882j69777) | 1987<br/>
 [St. Louis Skyline; No. 805](https://americanarchive.org/catalog/cpb-aacip-526-b853f4mr5v) | 1988<br/>
 [Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music [1989-12-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Arts+Alive+From+the+Algonquin&sort=title+asc) | 1989<br/>
-[Wild Chicago; No. 208 & 209](https://americanarchive.org/catalog/cpb-aacip-526-513tt4gq2m) | 1989<br/>
 [WTTW Journal; The House That Jane Built [1990-11-14]](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz3396x) | 1990<br/>
 [Community; Dada Max [1992-08-03]](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fw98) | 1993<br/>
 [A Tribute to Glenn Miller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=A+Tribute+to+Glenn+Miller) | 1994<br/>
@@ -631,7 +579,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Farah!](https://americanarchive.org/catalog/cpb-aacip-526-086348hd9n) | 1973<br/>
 [Game, The; No. 122, The Real Estate Game](https://americanarchive.org/catalog/cpb-aacip-526-0z70v8bh1g) | 1975<br/>
 [28 Tonight; Housing Speculation/Mechanics Bank [1976-09-24]](https://americanarchive.org/catalog/cpb-aacip-526-2r3nv9b776) | 1976<br/>
-[Governor's Race, The: The Campaign; No. 1; Style and Strategy [1976-10-19]](https://americanarchive.org/catalog/cpb-aacip-526-jw86h4dz01) | 1976<br/>
 [Camp Meeting: Unity Grove](https://americanarchive.org/catalog/cpb-aacip-526-qz22b8wp37) | 1977<br/>
 [Election '77--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md0x) | 1977<br/>
 [Even the Desert Will Bloom](https://americanarchive.org/catalog/cpb-aacip-526-7h1dj59j1q) | 1977<br/>
@@ -655,9 +602,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Business Edition with David Johnson; No. 113](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34688) | 1982<br/>
 [New Hampshire Journal; No. 201](https://americanarchive.org/catalog/cpb-aacip-526-4x54f1nj80) | 1982<br/>
 [Postscript](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng1h) | 1982<br/>
-[McLaughlin Group, The; [1984-11-24]](https://americanarchive.org/catalog/cpb-aacip-526-f76639m97r) | 1984<br/>
-[McLaughlin Group, The; [1984-12-01]](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g10k) | 1984<br/>
-[McLaughlin Group, The; 1984, unspecified episode](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g04j) | 1984<br/>
 [On the Media](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=On+the+Media&exact_or_range=range&after_date=1984&before_date=1985&commit=Update) | 1984<br/>
 [Alaska News Morning; 1985--excerpts, Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-574b049ff38) | 1985<br/>
 [Alaska News Morning; Impeachment Coverage](https://americanarchive.org/catalog/cpb-aacip-526-m901z4318h) | 1985<br/>
@@ -669,7 +613,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [New Jersey Network News; The Pipe](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft6b) | 1985<br/>
 [New Jersey Nukes: The Broken Promise?](https://americanarchive.org/catalog/cpb-aacip-526-804xg9g82w) | 1985<br/>
 [Public Education: Sizing Up the System](https://americanarchive.org/catalog/cpb-aacip-526-zg6g15vp2v) | 1985<br/>
-[McLaughlin Group, The; Geneva Summit [1985-11-22]](https://americanarchive.org/catalog/cpb-aacip-526-pc2t43k77g) | 1985<br/>
 [Nightly Business Report, The](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gn00) | 1985<br/>
 [WILL News; Klan Rally in Mansfield](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jb6j) | 1985<br/>
 [Blacks and the Constitution](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss6c) | 1987<br/>
@@ -711,9 +654,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [By The Year 2000; The Underclass](https://americanarchive.org/catalog/cpb-aacip-526-057cr5p87m) | 1990<br/>
 [By The Year 2000; The Waning Class](https://americanarchive.org/catalog/cpb-aacip-526-4m9183537n) | 1990<br/>
 [Chicago Tonight; 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-sj19k47399) | 1990<br/>
-[John McLaughlin's One on One [1990-06-08]](https://americanarchive.org/catalog/cpb-aacip-526-h12v40m17q) | 1990<br/>
 [KQED Radio News; 1990--excerpts](https://americanarchive.org/catalog/cpb-aacip-526-sn00z7279k) | 1990<br/>
-[McLaughlin Group, The [1990-11-30]](https://americanarchive.org/catalog/cpb-aacip-526-vq2s46jd9k) | 1990<br/>
 [Nightly Business Report, The; 1990 Selected commentaries](https://americanarchive.org/catalog/cpb-aacip-526-125q815n1x) | 1990<br/>
 [Nightly Business Report, The; Special edition](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7344m) | 1990<br/>
 [On The Line; Kids and Prejudice; No. 1; Prejudice in the Family [1990-09-10]](https://americanarchive.org/catalog/cpb-aacip-80-79574cj9) | 1990<br/>
@@ -791,7 +732,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Sonrisas; No. 4; The Magician](https://americanarchive.org/catalog/cpb-aacip-526-m901z4325v) | 1979<br/>
 [Sonrisas; No. 5; El Derecho de Estar](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31j3z) | 1979<br/>
 [Audio Jam; Telephone Communication](https://americanarchive.org/catalog/cpb-aacip-526-nz80k27r99) | 1980<br/>
-[Zookeepers](https://americanarchive.org/catalog/cpb-aacip-526-bc3st7fx2c) | 1981<br/>
 [Arts Express; No. 5; Appearances, Portraits, & Lifestyles](https://americanarchive.org/catalog/cpb-aacip-526-m32n58dr04) | 1983<br/>
 [Kids Speak; Feelings](https://americanarchive.org/catalog/cpb-aacip-526-416sx65b6q) | 1984<br/>
 [Small Things Considered; 1984 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-599z030615) | 1984<br/>
@@ -890,18 +830,13 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Newsmaker; Campaign '71: Charles Evers](https://americanarchive.org/catalog/cpb-aacip-526-r785h7d47z) | 1971<br/>
 [Tornado Relief](https://americanarchive.org/catalog/cpb-aacip-526-ht2g73885t) | 1971<br/>
 [A People Uprooted](https://americanarchive.org/catalog/cpb-aacip-526-3x83j3b24s) | 1973<br/>
-[Consumer Game, The; No. 10; A Thinking Consumer's Guide to the Drug Store](https://americanarchive.org/catalog/cpb-aacip-526-s756d5qn3z) | 1973<br/>
-[Consumer Game, The; No. 7; A Thinking Consumer's Guide to the Meat Market](https://americanarchive.org/catalog/cpb-aacip-526-ks6j09x87r) | 1973<br/>
-[Consumer Game, The; No. 9; The Lease Signing Apartment Renting Blues](https://americanarchive.org/catalog/cpb-aacip-526-q23qv3d90c) | 1973<br/>
 [Gisholt: Death of a Factory; No. 8; Unemployment, Part 1, Get a Job](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j24s) | 1973<br/>
 [Gisholt: Death of a Factory; No. 9; Unemployment, Part 2, Self Help: Does It Work?](https://americanarchive.org/catalog/cpb-aacip-526-rf5k932d98) | 1973<br/>
 [Governor's Conference on Education, The; Blacklife](https://americanarchive.org/catalog/cpb-aacip-526-w66930q64n) | 1973<br/>
 [Governor's Conference on Education, The; The History of Education in Mississippi](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zq96) | 1973<br/>
 [Menominee](https://americanarchive.org/catalog/cpb-aacip-526-dj58c9s78v) | 1973<br/>
 [Mississippi Press Conference](https://americanarchive.org/catalog/cpb-aacip-526-t14th8cv1q) | 1973<br/>
-[Restaurant Inspection in Illinois: An Investigative Report](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Restaurant+Inspection+in+Illinois%3A+An+Investigative+Report&sort=title+asc) | 1973<br/>
 [Wrinkles, Birthdays, & Other Fables](https://americanarchive.org/catalog/cpb-aacip-526-kw57d2rf5s) | 1973<br/>
-[Since "The American Way of Death"](https://americanarchive.org/catalog/cpb-aacip-526-z31ng4j30t) | 1974<br/>
 [Tyler, Texas, March 23, 1974](https://americanarchive.org/catalog/cpb-aacip-526-fn10p0xw9s) | 1974<br/>
 [Limits to Freedom: Oklahoma's Private Values and Public Policies on the Right to Read; No. 1; Pornography](https://americanarchive.org/catalog/cpb-aacip-526-9p2w37mt8w) | 1975<br/>
 [Limits to Freedom: Oklahoma's Private Values and Public Policies on the Right to Read; No. 2; Minors and Minorities](https://americanarchive.org/catalog/cpb-aacip-526-g15t728j1n) | 1975<br/>
@@ -936,7 +871,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [National Nuclear Debate, The](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+National+Nuclear+Debate) | 1980<br/>
 [Day after Trinity, The: J. Robert Oppenheimer and the Atomic Bomb](https://americanarchive.org/catalog/cpb-aacip-526-m61bk17x41) | 1981<br/>
 [Election Coverage 1981; Compilation](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=Election+Coverage+1981.+Compilation) | 1981<br/>
-[Media in Society](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Media+in+Society) | 1981<br/>
 [National Health Quiz, The](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf07) | 1981<br/>
 [Pro-Con with Charlayne Hunter-Gault; Abortion [1981-10-15]](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk3j) | 1981<br/>
 [Over Easy; No. 5001; Education](https://americanarchive.org/catalog/cpb-aacip-55-8380h864) | 1981<br/>
@@ -959,12 +893,10 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Images/Imagenes; No. 1303; Vietnam Veterans](https://americanarchive.org/catalog/cpb-aacip-259-k35mcj7p) | 1985<br/>
 [A Good Beginning Has No End](https://americanarchive.org/catalog/cpb-aacip-60-009w0z79) | 1986<br/>
 [A Right to Learn](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd42) | 1986<br/>
-[First Annual Excellence in Teaching Awards, The](https://americanarchive.org/catalog/cpb-aacip-526-j09w08xj7t) | 1986<br/>
 [Turning Points; No. 107; Best of Turning Points [1986-08-19]](https://americanarchive.org/catalog/cpb-aacip-526-b56d21sm5k) | 1986<br/>
 [Growing up Without](https://americanarchive.org/catalog/cpb-aacip-283-8605qv57) | 1987<br/>
 [Living with AIDS; On the Record](https://americanarchive.org/catalog/cpb-aacip-526-db7vm43x8v) | 1987<br/>
 [Midday With Sondra Gair; 1987--excerpt](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gk8h) | 1987<br/>
-[Golden Apples for Excellence in Teaching, The; No. 2 [1987-05-20]](https://americanarchive.org/catalog/cpb-aacip-526-8s4jm24h1d) | 1987<br/>
 [Your Hometown](https://americanarchive.org/catalog/cpb-aacip-526-445h990c22) | 1987<br/>
 [AIDS: The San Diego Story; No. 1; Medical/Research](https://americanarchive.org/catalog/cpb-aacip-526-vt1gh9ck1n) | 1987<br/>
 [AIDS: The San Diego Story; No. 2; Patient Care](https://americanarchive.org/catalog/cpb-aacip-526-bz6154ft8z) | 1987<br/>
@@ -1004,13 +936,11 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Austin at Issue: Help Wanted; No. 3, Minority Equity](https://americanarchive.org/catalog/cpb-aacip-526-x921c1vv8d) | 1992<br/>
 [Austin at Issue: Help Wanted; No. 4, Teachers Issues](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r258) | 1992<br/>
 [Austin at Issue: Help Wanted; No. 5, Cultural Values](https://americanarchive.org/catalog/cpb-aacip-526-t72794253n) | 1992<br/>
-[Chicago Matters; Celebrity Spots](https://americanarchive.org/catalog/cpb-aacip-526-th8bg2jm3n) | 1992<br/>
 [Headline: Youth Violence](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q32d) | 1992<br/>
 [Help Wanted Electronic Townmeeting](https://americanarchive.org/catalog/cpb-aacip-526-959c53g35b) | 1992<br/>
 [Life & Times; Straight Hate [1992-10-29]](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx8k) | 1992<br/>
 [Multi-Cultural; Mission Statement](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn9q) | 1992<br/>
 [Nightly Business Report, The; Starting a Business Month](https://americanarchive.org/catalog/cpb-aacip-526-c53dz04482) | 1992<br/>
-[Senior Fair: A Consumers Guide](https://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xq7g) | 1992<br/>
 [WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=WTTW+1992+Election+Coverage+Composite) | 1992<br/>
 [WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t33) | 1992<br/>
 [WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip-526-kk9474807c) | 1992<br/>
@@ -1047,13 +977,10 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h8b) | 1994<br/>
 [WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7685j) | 1994<br/>
 [Heart of the City; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-7940r9n633) | 1994<br/>
-[Finding the Dollars: Illinois Schools at the Crossroads](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Finding+the+Dollars%3A+Illinois+Schools+at+the+Crossroads%22) | 1995<br/>
 [Forum; Youth Issues [1995-01-18]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bproducing_organizations%5D%5B%5D=KQED&q=%22Youth+Issues%22&sort=title+asc) | 1995<br/>
 [Forum; War on Drugs [1995-03-16]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=War+on+Drugs&sort=title+asc) | 1995<br/>
 [Forum; Youth Violence [1995-06-01]](https://americanarchive.org/catalog/cpb-aacip-526-v11vd6qc6r) | 1995<br/>
 [Forum; Juvenile Justice System [1995-11-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Juvenile+Justice+System&sort=title+asc) | 1995<br/>
-[Golden Apple Awards; No. 10 [1995-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-ft8df6m677) | 1995<br/>
-[Golden Apple Awards; No. 10; Spanish / Sign Language version [1995-05-25]](https://americanarchive.org/catalog/cpb-aacip-526-8p5v699b22) | 1995<br/>
 [Grading Our Schools [1995-05-14]](https://americanarchive.org/catalog?after_date=1995-05-14&commit=Update&exact_or_range=exact&q=Grading+Our+Schools&utf8=%E2%9C%93&f[access_types][]=online) | 1995<br/>
 [Grading Our Schools [1995-05-16]](https://americanarchive.org/catalog?after_date=1995-05-16&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Grading+Our+Schools) | 1995<br/>
 [Little Italy](https://americanarchive.org/catalog/cpb-aacip-55-bg2h708b0g) | 1995<br/>
@@ -1115,7 +1042,6 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 [Teen Age Book Talk](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v20) | 1960<br/>
 [Teenage Book Talk; Eleanor Roosevelt and Helen Ferris](https://americanarchive.org/catalog/cpb-aacip-80-75r7tj08) | 1961<br/>
-[Our Two Cents Worth](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v4m) | 1965<br/>
 [Newseekers](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5t96h) | 1971<br/>
 [Beauty and the Beast](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb45) | 1973<br/>
 
