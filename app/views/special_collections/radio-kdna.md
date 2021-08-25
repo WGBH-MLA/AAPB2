@@ -43,6 +43,7 @@ This Special Collection was curated by Paola Nicole Nieves Rivera, a student at 
 - [Radio KDNA 91.9 FM](http://www.kdna.org/) 
 - [Radio KDNA: The Voice of the Farmworker, 1975-1985](https://depts.washington.edu/civilr/farmwk_ch8.htm) 
 - [Chicana/o Radio Archive](https://chicanaradioarchive.wordpress.com/) 
+- [“Looking Back on the Lesser-Known Histories of ‘Chicano Public Radio’" (*Current*)](https://current.org/2019/07/looking-back-on-the-lesser-known-histories-of-chicano-public-radio/?wallit_nosession=1)
 
 ## Funders
 
