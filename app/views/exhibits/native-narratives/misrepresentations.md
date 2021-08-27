@@ -153,7 +153,7 @@ For more programs that explore the representation of Native Americans in public 
 
     This episode includes a look at a traditional powwow, Miigwech Manoomin, at Leech Lake, Minnesota. 
 
-- [*Magazine Show* (undated)](https://americanarchive.org/catalog/cpb-aacip_60-483j9svx) (Mississippi Public Broadcasting, Jackson, Mississippi)
+- [*Magazine Show*](https://americanarchive.org/catalog/cpb-aacip_60-483j9svx) (Mississippi Public Broadcasting, Jackson, Mississippi, not dated)
 
     Footage of a Choctaw Indian Fair in Mississippi.
 
