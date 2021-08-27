@@ -51,14 +51,14 @@ Like the Menominee, the Klamath regained their tribal status in 1986, a struggle
  - [*Primetime Wisconsin*; 102](https://americanarchive.org/catalog/cpb-aacip_29-22v41rw7#at_147.72899999999998_s) (PBS Wisconsin, 1987)
 
     This program features Menominee youth making their own documentary films about their community.
-
-- [*National Native News Special Features*](https://americanarchive.org/catalog/cpb-aacip_206-000000bb) (Koahnic Broadcast Corporation, Anchorage, Alaska, 1991)
-
-    This five-part series focuses on the Native American war on poverty. The series moves through federal programs that harmed Native Americans, such as the 1952 Voluntary Relocation Program, and government attempts to terminate Native sovereignty in order to alleviate World War II debts from 1954-1962. Federal attempts at assimilation through relocation and termination failed in their goals and sparked political consciousness in Native peoples. The American Indian Movement (AIM), a part of the Red Power Movement, was born in 1968. President Lyndon Johnson sought to provide federal support to Native nations as a part of his war on poverty in America. Focusing on unemployment, education, and housing, Johnson fought for Native sovereignty again. Richard Nixon continued this movement toward self-determination of Native nations. *National Native News* is a nationally broadcast news series that provides news for Native and non-Native Americans from a Native American perspective.
  
  - [*History of Oregon Indians*](https://americanarchive.org/catalog/cpb-aacip_153-36h18gx5) (Oregon Public Broadcasting, 1990)
 
     This program is a documentary exploring the history of the relationship between white Americans and Oregon Native American tribes. This relationship has had a negative impact on the local Native Americans, erasing their culture and agency. The documentary conveys the relationship through historical photographs, interviews with tribal government officials, and audio recordings from older Native Americans, who remember being imprisoned, killed, and otherwise suppressed.
+ 
+- [*National Native News Special Features*](https://americanarchive.org/catalog/cpb-aacip_206-000000bb) (Koahnic Broadcast Corporation, Anchorage, Alaska, 1991)
+
+    This five-part series focuses on the Native American war on poverty. The series moves through federal programs that harmed Native Americans, such as the 1952 Voluntary Relocation Program, and government attempts to terminate Native sovereignty in order to alleviate World War II debts from 1954-1962. Federal attempts at assimilation through relocation and termination failed in their goals and sparked political consciousness in Native peoples. The American Indian Movement (AIM), a part of the Red Power Movement, was born in 1968. President Lyndon Johnson sought to provide federal support to Native nations as a part of his war on poverty in America. Focusing on unemployment, education, and housing, Johnson fought for Native sovereignty again. Richard Nixon continued this movement toward self-determination of Native nations. *National Native News* is a nationally broadcast news series that provides news for Native and non-Native Americans from a Native American perspective.
 
 - [*Horses of Their Own Making*](https://americanarchive.org/catalog/cpb-aacip_153-95j9kqmg) (Oregon Public Broadcasting, 1993)
 
