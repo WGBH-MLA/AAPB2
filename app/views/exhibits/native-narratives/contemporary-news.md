@@ -29,21 +29,21 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
 
 #### Native American Casinos and Gambling 
 
-- [Wisconsin Public Radio; News](https://americanarchive.org/catalog/cpb-aacip_30-33dz13tz) (Wisconsin Public Radio, 1998)
+- [*Midday*, "Indian Gaming Industry"](https://americanarchive.org/catalog/cpb-aacip_43-00ns23wh) (Minnesota Public Radio, 1992)
     
-    This program reports on casino gambling in Wisconsin and legal cases surrounding the violation of Native American religion in prisons. 
-
-- [*The NewsHour with Jim Lehrer*, 1996-08-08](https://americanarchive.org/catalog/cpb-aacip_507-c53dz03n98) (MacNeil/Lehrer Productions)
-    
-    This program features coverage of a legal case surrounding video slot machines at the Cache Creek Casino, which is operated by the Yocha Dehe Wintun Nation (formerly the Rumsey Band of the Wintun Indians).
+    The gaming industry in Minnesota has been called "the new buffalo" by Native Americans in the state. The popularity of the state's blossoming casinos is enormous and raises many questions about the prosperity of Minnesota's Native American community. Professor I. Nelson Rose is widely recognized as the nation's foremost expert on gambling law. He is the author of the book *Gambling and the Law*.
 
 - [*Midday*, "The New Buffalo"](https://americanarchive.org/catalog/cpb-aacip_43-12893g0n) (Minnesota Public Radio, 1993)
     
     This program examines the impact of casinos on Native American reservations in Minnesota. 
 
-- [*Midday*, "Indian Gaming Industry"](https://americanarchive.org/catalog/cpb-aacip_43-00ns23wh) (Minnesota Public Radio, 1992)
+- [*The NewsHour with Jim Lehrer*, 1996-08-08](https://americanarchive.org/catalog/cpb-aacip_507-c53dz03n98) (MacNeil/Lehrer Productions)
     
-    The gaming industry in Minnesota has been called "the new buffalo" by Native Americans in the state. The popularity of the state's blossoming casinos is enormous and raises many questions about the prosperity of Minnesota's Native American community. Professor I. Nelson Rose is widely recognized as the nation's foremost expert on gambling law. He is the author of the book *Gambling and the Law*.
+    This program features coverage of a legal case surrounding video slot machines at the Cache Creek Casino, which is operated by the Yocha Dehe Wintun Nation (formerly the Rumsey Band of the Wintun Indians).
+
+- [Wisconsin Public Radio; News](https://americanarchive.org/catalog/cpb-aacip_30-33dz13tz) (Wisconsin Public Radio, 1998)
+    
+    This program reports on casino gambling in Wisconsin and legal cases surrounding the violation of Native American religion in prisons. 
 
 - ["Indian Gaming"](https://americanarchive.org/catalog/cpb-aacip_511-k06ww77p6s) (KPCC-FM, Pasadena, California, 2003)
     
@@ -51,49 +51,45 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
 
 #### Legal Battles and Protests to Protect Treaty Rights
 
-- [*Wisconsin Week*; 227](https://americanarchive.org/catalog/cpb-aacip_29-64thtffh) (PBS Wisconsin, 1990)
+- ["Native Land Rights"](https://americanarchive.org/catalog/cpb-aacip_514-4x54f1nb2g) (Commonwealth Club of California, San Francisco, 1970)
     
-    This program covers protests over Lac Du Flambeau tribe of the Ojibwe treaty fishing rights in Wisconsin and a legal controversy surrounding Oneida TV Bingo operations.
+    The program features a discussion of a proposal by Native tribes of Alaska to finally codify land titles, royalty retention from the production of resources, and compensatory settlements.
 
 - [*Idaho Reports*; Peaceful Settlements and Columbia River Fishing](https://americanarchive.org/catalog/cpb-aacip_328-26xwdfkn#at_1972.47_s) (Idaho Public Television, 1985)
     
     This program features discussion of the legal battle between the Nez Perce and the state of Idaho over treaty fishing rights in the Columbia River. 
 
+- [*Wisconsin Week*; 227](https://americanarchive.org/catalog/cpb-aacip_29-64thtffh) (PBS Wisconsin, 1990)
+    
+    This program covers protests over Lac Du Flambeau tribe of the Ojibwe treaty fishing rights in Wisconsin and a legal controversy surrounding Oneida TV Bingo operations.
+
 - [*Our People & Mother Earth*, "Treaties and Traditions. Part 2"](https://americanarchive.org/catalog/cpb-aacip_204-386hdvjp) (KWSO-FM, Warm Springs, Oregon, 1994)
     
     This episode focuses on Native tribal trends and traditions, including traditional laws and treaties, and featuring traditional music, as well as interviews with various tribal members who discuss traditional plants, such as huckleberry.
 
-- ["Native Land Rights"](https://americanarchive.org/catalog/cpb-aacip_514-4x54f1nb2g) (Commonwealth Club of California, San Francisco, 1970)
-    
-    The program features a discussion of a proposal by Native tribes of Alaska to finally codify land titles, royalty retention from the production of resources, and compensatory settlements.
-
 #### Notable Native Americans 
 
-- [*PBS NewHour*, May 2, 2019](https://americanarchive.org/catalog/cpb-aacip-525-k649p2xj4p) (NewsHour Productions)
-    
-    This program includes an interview with David Treuer (Ojibwe) about his book *The Heartbeat of Wounded Knee: Native America from 1890 to the Present*. 
-
-- [*Winona LaDuke at Annie Bloom’s Books*](https://americanarchive.org/catalog/cpb-aacip_510-cf9j38m72g) (KBOO Community Radio, Portland, Oregon)
-    
-    Annie Bloom's Books hosts Winona LaDuke (Ojibwe) speaking on *The Winona LaDuke Reader: A Collection of Essential Writings* (2002). American Indian poet Luke Warm Water (Lakota) begins the event with a reading of his poetry, including 'The Jesus of Pine Ridge,' 'John Wayne's Bullet,' and 'Are You Hungry for Pizza?' LaDuke speaks about living in Minnesota and her non-profit grassroots community organizing and activism. She is currently organizing around the issue of wild rice farming within the Indigenous community of Minnesota, where the University of Minnesota and big business are patenting and engineering wild rice. Following the speech she answers audience questions.
-
-- [*Pantechnicon*, "Dr. Alfonso Ortiz: An Indian Perspective on the American Dream"](https://americanarchive.org/catalog/cpb-aacip_15-56932b1t) (WGBH-FM, Boston)
+- [*Pantechnicon*, "Dr. Alfonso Ortiz: An Indian Perspective on the American Dream"](https://americanarchive.org/catalog/cpb-aacip_15-56932b1t) (WGBH-FM, Boston, 1969-1977)
     
     An Indian Perspective on the American Dream, Dr. Alfonso Ortiz (1939-1997), Associate Professor of Anthropology, Princeton University, member of Towa Pueblo Tribe.
-
+    
 - [*Five College Forum*, "Lecture by Vine Deloria on ‘The Indian in the Modern World’"](https://americanarchive.org/catalog/cpb-aacip_305-752fr643) (New England Public Radio, Amherst, Massachusetts, 1972)
     
-    Lecture by Vine Deloria Jr. (Standing Rock Sioux, 1933-2005), Native American activist, on the state of Native Americans in the modern world. Deloria delivered this lecture at the University of Massachusetts on September 25, 1972, as a guest of the Distinguished Visitors program.
+    Lecture by Vine Deloria Jr. (Standing Rock Sioux, 1933-2005), Native American activist, on the state of Native Americans in the modern world. Deloria delivered this lecture at the University of Massachusetts on September 25, 1972, as a guest of the Distinguished Visitors program.    
 
 - [*Forum*, "Joy Harjo: Native American Poet and Musician"](https://americanarchive.org/catalog/cpb-aacip_529-707wm14v7w) (KUT-FM Radio, Austin, Texas, 1998)
     
     This program is an interview with Joy Harjo (Muscogee Nation), who became the U.S. Poet Laureate in 2019. 
 
-#### Native American Boarding Schools 
-
-- [*Focus 580*; Boarding School Seasons: American Indian Families 1900-1940](https://americanarchive.org/catalog/cpb-aacip_16-2b8v97zx1j) (WILL Illinois Public Media, Urbana, Illinois, 2005)
+- [*PBS NewHour*, May 2, 2019](https://americanarchive.org/catalog/cpb-aacip-525-k649p2xj4p) (NewsHour Productions)
     
-    This program is an interview with Dr. Brenda Child (Red Lake Ojibwe), Professor of American Studies at the University of Minnesota, on the history of Native American boarding schools. 
+    This program includes an interview with David Treuer (Ojibwe) about his book *The Heartbeat of Wounded Knee: Native America from 1890 to the Present*. 
+    
+- [*Winona LaDuke at Annie Bloom’s Books*](https://americanarchive.org/catalog/cpb-aacip_510-cf9j38m72g) (KBOO Community Radio, Portland, Oregon (not dated))
+    
+    Annie Bloom's Books hosts Winona LaDuke (Ojibwe) speaking on *The Winona LaDuke Reader: A Collection of Essential Writings* (2002). American Indian poet Luke Warm Water (Lakota) begins the event with a reading of his poetry, including 'The Jesus of Pine Ridge,' 'John Wayne's Bullet,' and 'Are You Hungry for Pizza?' LaDuke speaks about living in Minnesota and her non-profit grassroots community organizing and activism. She is currently organizing around the issue of wild rice farming within the Indigenous community of Minnesota, where the University of Minnesota and big business are patenting and engineering wild rice. Following the speech she answers audience questions.    
+
+#### Native American Boarding Schools 
 
 - [*Midday*, "Learning the White People Way"](https://americanarchive.org/catalog/cpb-aacip_43-7634v53r) (Minnesota Public Radio, 1991)
 
@@ -102,6 +98,10 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
 - ["Indian Boarding Schools"](https://americanarchive.org/catalog/cpb-aacip_511-2z12n5049k) (KPCC-FM, Pasadena, California, 2001)
     
     For nearly two centuries after Europeans arrived in North America, they viewed education as a means to civilize and acculturate native peoples to what they believed to be superior European lifestyles. Because Indian culture was seen as intellectually and morally debased, the federal government removed many Native American children from their homes and sent them to boarding schools. Until the late 19th century, the government located many of these schools hundreds of miles from where the children lived. Indian parents protested the removal of their children, and in later years, the government situated more schools on reservations. Indian boarding schools continued into the 20th century and have been the subject of intense criticism from Native American leaders. In California, the state's only Indian boarding school was established one hundred years ago in the city of Riverside. And as series producer Ilsa Setziol reports, the school still exists today but with a revised mission.
+
+- [*Focus 580*; Boarding School Seasons: American Indian Families 1900-1940](https://americanarchive.org/catalog/cpb-aacip_16-2b8v97zx1j) (WILL Illinois Public Media, Urbana, Illinois, 2005)
+    
+    This program is an interview with Dr. Brenda Child (Red Lake Ojibwe), Professor of American Studies at the University of Minnesota, on the history of Native American boarding schools. 
 
 #### Other Topics 
 
