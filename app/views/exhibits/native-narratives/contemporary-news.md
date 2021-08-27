@@ -17,7 +17,8 @@ The AAPB holds more than 30 episodes of [*National Native News*](https://america
 The program represents an important milestone in Native-created media, as it marked the first time that Native Americans across the country could hear programming that reflected important issues and events within their communities. Former host Gary Fife (Muscogee and Cherokee) states that the show provides "real stories of Native America" because "the old beads-and-feathers story [presented in white media] just isn’t enough anymore."[<sup>59</sup>](/exhibits/native-narratives/notes#59) KBC also produces *Native America Calling*, a popular news program out of Alaska that brings listeners together "in a thought-provoking national conversation about issues specific to Native communities."[<sup>60</sup>](/exhibits/native-narratives/notes#60)
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Native America Calling</caption>
+<caption align="bottom" class="exhibit-caption">Harlan McKosato (Sac and Fox Nation, 1966-2020), host of Native America Calling, in Looking Toward Home (Chino & Krusic, 2003), <a href="https://americanarchive.org/catalog/cpb-aacip_508-z60bv7bt9b">cpb-aacip_508-z60bv7bt9b</a>.
+</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/4_NativeAmericaCalling.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4_NativeAmericaCalling.jpg" class="big-image" alt="Native America Calling."/></a></td></tr>
 </table>
 
