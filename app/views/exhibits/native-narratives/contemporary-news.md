@@ -12,9 +12,9 @@ There have been numerous tribal newspapers, including the [*Navajo Times*](https
 
 Beginning in the 1970s, Native communities continued this tradition in the form of Native owned and operated radio stations, such as [KYUK-AM](https://americanarchive.org/participating-orgs/1703) in Bethel, Alaska, and [KWSO-FM](https://americanarchive.org/participating-orgs/4502) in Warm Springs, Oregon. These outlets are discussed in the section, "[Visual Sovereignty: Native-Created Public Media](/exhibits/native-narratives/visual-sovereignty)."
 
-The AAPB holds more than 30 episodes of [*National Native News*](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=Koahnic+Broadcast+Corporation+%28AK%29&f%5Baccess_types%5D%5B%5D=online), a daily news program that highlights Native perspectives on events affecting Native communities. The series, which began airing in 1987, is now distributed to more than 400 radio stations through Native Voice One, a division of Koahnic Broadcast Corporation (KBC).[<sup>58</sup>](/exhibits/native-narratives/notes#58)
+The AAPB holds more than 30 episodes of [*National Native News*](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=Koahnic+Broadcast+Corporation+%28AK%29&f%5Baccess_types%5D%5B%5D=online), a daily news program that highlights Native perspectives on events affecting Native communities. The series, which began in the 1980s, is now distributed to more than 400 radio stations through Native Voice One, a division of Koahnic Broadcast Corporation (KBC).[<sup>58</sup>](/exhibits/native-narratives/notes#58)
 
-The program represents an important milestone in Native-created media, as it marked the first time that Native Americans across the country could hear programming that reflected important issues and events within their communities. Former host Gary Fife states that the show provides "real stories of Native America" because "the old beads-and-feathers story [presented in white media] just isn’t enough anymore."[<sup>59</sup>](/exhibits/native-narratives/notes#59) KBC also produces *Native America Calling*, a popular news program out of Alaska that brings listeners together "in a thought-provoking national conversation about issues specific to Native communities."[<sup>60</sup>](/exhibits/native-narratives/notes#60)
+The program represents an important milestone in Native-created media, as it marked the first time that Native Americans across the country could hear programming that reflected important issues and events within their communities. Former host Gary Fife (Muscogee and Cherokee) states that the show provides "real stories of Native America" because "the old beads-and-feathers story [presented in white media] just isn’t enough anymore."[<sup>59</sup>](/exhibits/native-narratives/notes#59) KBC also produces *Native America Calling*, a popular news program out of Alaska that brings listeners together "in a thought-provoking national conversation about issues specific to Native communities."[<sup>60</sup>](/exhibits/native-narratives/notes#60)
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Native America Calling</caption>
@@ -61,7 +61,7 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
 
 - [*Our People & Mother Earth*, "Treaties and Traditions. Part 2"](https://americanarchive.org/catalog/cpb-aacip_204-386hdvjp) (KWSO-FM, Warm Springs, Oregon, 1994)
     
-    This episode focuses on Native tribal trends and traditions, featuring traditional music, as well as interviews with various tribal members who discuss traditional plants, such as huckleberry.
+    This episode focuses on Native tribal trends and traditions, including traditional laws and treaties, and featuring traditional music, as well as interviews with various tribal members who discuss traditional plants, such as huckleberry.
 
 - ["Native Land Rights"](https://americanarchive.org/catalog/cpb-aacip_514-4x54f1nb2g) (Commonwealth Club of California, San Francisco, 1970)
     
@@ -75,7 +75,7 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
 
 - [*Winona LaDuke at Annie Bloom’s Books*](https://americanarchive.org/catalog/cpb-aacip_510-cf9j38m72g) (KBOO Community Radio, Portland, Oregon)
     
-    Annie Bloom's Books hosts Winona LaDuke speaking on *The Winona LaDuke Reader: A Collection of Essential Writings* (2002). American Indian poet Luke Warm Water begins the event with a reading of his poetry, including 'The Jesus of Pine Ridge,' 'John Wayne's Bullet,' and 'Are You Hungry for Pizza?' LaDuke speaks about living in Minnesota and her non-profit grassroots community organizing and activism. She is currently organizing around the issue of wild rice farming within the Indigenous community of Minnesota, where the University of Minnesota and big business are patenting and engineering wild rice. Following the speech she answers audience questions.
+    Annie Bloom's Books hosts Winona LaDuke (Ojibwe) speaking on *The Winona LaDuke Reader: A Collection of Essential Writings* (2002). American Indian poet Luke Warm Water (Lakota) begins the event with a reading of his poetry, including 'The Jesus of Pine Ridge,' 'John Wayne's Bullet,' and 'Are You Hungry for Pizza?' LaDuke speaks about living in Minnesota and her non-profit grassroots community organizing and activism. She is currently organizing around the issue of wild rice farming within the Indigenous community of Minnesota, where the University of Minnesota and big business are patenting and engineering wild rice. Following the speech she answers audience questions.
 
 - [*Pantechnicon*, "Dr. Alfonso Ortiz: An Indian Perspective on the American Dream"](https://americanarchive.org/catalog/cpb-aacip_15-56932b1t) (WGBH-FM, Boston)
     
@@ -83,7 +83,7 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
 
 - [*Five College Forum*, "Lecture by Vine Deloria on ‘The Indian in the Modern World’"](https://americanarchive.org/catalog/cpb-aacip_305-752fr643) (New England Public Radio, Amherst, Massachusetts, 1972)
     
-    Lecture by Vine Deloria (1933-2005), Native American activist, on the state of Native Americans in the modern world. Deloria delivered this lecture at the University of Massachusetts on September 25, 1972, as a guest of the Distinguished Visitors program.
+    Lecture by Vine Deloria Jr. (Standing Rock Sioux, 1933-2005), Native American activist, on the state of Native Americans in the modern world. Deloria delivered this lecture at the University of Massachusetts on September 25, 1972, as a guest of the Distinguished Visitors program.
 
 - [*Forum*, "Joy Harjo: Native American Poet and Musician"](https://americanarchive.org/catalog/cpb-aacip_529-707wm14v7w) (KUT-FM Radio, Austin, Texas, 1998)
     
@@ -93,7 +93,7 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
 
 - [*Focus 580*; Boarding School Seasons: American Indian Families 1900-1940](https://americanarchive.org/catalog/cpb-aacip_16-2b8v97zx1j) (WILL Illinois Public Media, Urbana, Illinois, 2005)
     
-    This program is an interview with Dr. Brenda Child, Professor of American Studies at the University of Minnesota, on the history of Native American boarding schools. 
+    This program is an interview with Dr. Brenda Child (Red Lake Ojibwe), Professor of American Studies at the University of Minnesota, on the history of Native American boarding schools. 
 
 - [*Midday*, "Learning the White People Way"](https://americanarchive.org/catalog/cpb-aacip_43-7634v53r) (Minnesota Public Radio, 1991)
 
@@ -103,7 +103,7 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
     
     For nearly two centuries after Europeans arrived in North America, they viewed education as a means to civilize and acculturate native peoples to what they believed to be superior European lifestyles. Because Indian culture was seen as intellectually and morally debased, the federal government removed many Native American children from their homes and sent them to boarding schools. Until the late 19th century, the government located many of these schools hundreds of miles from where the children lived. Indian parents protested the removal of their children, and in later years, the government situated more schools on reservations. Indian boarding schools continued into the 20th century and have been the subject of intense criticism from Native American leaders. In California, the state's only Indian boarding school was established one hundred years ago in the city of Riverside. And as series producer Ilsa Setziol reports, the school still exists today but with a revised mission.
 
-#### General Topics 
+#### Other Topics 
 
 - [Nyles Ryan, Indian Voicer Interview](https://americanarchive.org/catalog/cpb-aacip_500-2804x55c6z) (National Association of Educational Broadcasters, ca. 1975-1986)
     
@@ -123,11 +123,11 @@ Below is a list of programs by Native and non-Native public broadcasting outlets
 
 - [*Warm Springs Program*, "Salmon in the Native American Culture"](https://americanarchive.org/catalog/cpb-aacip_204-515mkrb0) (KWSO-FM, Warm Springs, Oregon, 1994)
     
-    This episode of the Warm Springs Program focuses on salmon in the Native American culture. Included are discussions by tribal members, who discuss their views on salmon.
+    This episode of the *Warm Springs Program* focuses on salmon in the Native American culture. Included are discussions by tribal members, who discuss their views on salmon.
 
-- [*The Alabama Experience*; "The Chief: Calvin McGee and the Forgotten Indians"](https://americanarchive.org/catalog/cpb-aacip-7f0edde25d2) (University of Alabama Center for Public Television, 1995)
+- [*The Alabama Experience*; "The Chief: Calvin McGhee and the Forgotten Creeks"](https://americanarchive.org/catalog/cpb-aacip-7f0edde25d2) (University of Alabama Center for Public Television, 1995)
     
-    The Poarch Creek Indians in Alabama didn't have a chief until Calvin McGee stepped up in 1948. His goals: have the Poarch Creek Indians in Alabama recognized, improve educational opportunities for Indian children, and try to get Indians paid for the land that was taken from them. The program focuses on the history of Poarch Creek Indians, McGee's fight to get Indian children into high schools, the creation of a role for Poarch Creek Indians, and the lawsuit pertinent to the land payment with the Poarch Creek Indians in Oklahoma.
+    The Poarch Creek Indians in Alabama didn't have a chief until Calvin McGhee (Poarch Creek, 1903-1970) stepped up in 1948. His goals: have the Poarch Creek Indians in Alabama recognized, improve educational opportunities for Indian children, and try to get Indians paid for the land that was taken from them. The program focuses on the history of Poarch Creek Indians, McGhee's fight to get Indian children into high schools, the creation of a role for Poarch Creek Indians, and the lawsuit pertinent to the land payment with the Poarch Creek Indians in Oklahoma.
 
 - [*Bemidji Race Relations*](https://americanarchive.org/catalog/cpb-aacip_526-nv9959dg76) (Minnesota Public Radio, 1995)
     
