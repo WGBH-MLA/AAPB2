@@ -13,7 +13,7 @@ Representations of Native Americans permeate everyday American life, ranging fro
 The radio series [*Focus 580* (WILL Illinois Public Media, Urbana, IL)](https://demo.aapb.wgbh-mla.org/special_collections/focus-580) has covered the debate surrounding the use of Native American mascots for college and national sports, including interviews in 1998 with [journalist Tim Giago](https://americanarchive.org/catalog/cpb-aacip_16-cn6xw4853k) (Oglala Lakota) and in 2002 with [activist Suzan Shown Harjo](https://americanarchive.org/catalog/cpb-aacip_16-n29p26qj4s) (Cheyenne, Hodulgee Muscogee). Harjo is a prominent activist and president of the Morning Star Institute, a Native American advocacy group in Washington, D.C., that strives to protect treaty rights and Native interests. She began her career as a producer for WBAI-FM, the Pacifica radio station in New York City, and produced, along with her husband, Frank Ray Harjo (Wotko Muscogee, 1947-1984), *Seeing Red* (1971-1974), "the first nationally syndicated radio program focused on contemporary Native American issues," according to the Seeing Red Audio Archive.[<sup>4</sup>](/exhibits/native-narratives/notes#4) Harjo’s most prominent work has been her fight against the use of Native American mascots, including bringing suit against the Washington Redskins for using a derogatory name and logo. In July 2020, the team retired the mascot, name, and logo.[<sup>5</sup>](/exhibits/native-narratives/notes#5) Harjo, who received the Presidential Medal of Freedom in 2014, also is interviewed in "[Race in the 21st Century," an episode of *Evening Exchange*](https://americanarchive.org/catalog/cpb-aacip_293-ft8df6kg2n) (WHUT, Washington, D.C., 2001-2002).[<sup>6</sup>](/exhibits/native-narratives/notes#6)
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Activist Suzan Shown Harjo (Cheyenne, Hodulgee Muscogee) from Evening Exchange, WHUT (2001), https://americanarchive.org/catalog/cpb-aacip-293-ft8df6kg2n.</caption>
+<caption align="bottom" class="exhibit-caption">Activist Suzan Shown Harjo (Cheyenne, Hodulgee Muscogee) from Evening Exchange, WHUT (2001), <a href="https://americanarchive.org/catalog/cpb-aacip-293-ft8df6kg2n">cpb-aacip-293-ft8df6kg2n</a>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/1_293-ft8df6kg2n.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_293-ft8df6kg2n.jpg" class="big-image" alt="Activist Suzan Shown Harjo (Cheyenne, Hodulgee Muscogee) from Evening Exchange, WHUT (2001), https://americanarchive.org/catalog/cpb-aacip-293-ft8df6kg2n."/></a></td></tr>
 </table>
 
@@ -43,7 +43,7 @@ Additionally, Sarris, who served as Chairman for the Federated Indians of Graton
 
 The popular 1960 educational television series [Redman’s America](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Redman%27s+America&sort=asset_date+asc) (KRMA-TV, Denver) exemplifies this trend. The series spotlights the work of anthropologist Ruth Underhill (1883-1984), who extensively studied Native peoples and wrote a textbook of the same name.[<sup>9</sup>](/exhibits/native-narratives/notes#9) The series is unique in that it "represents the combined efforts of museums, universities, anthropologists and the Indians of Americans themselves to give television audiences an accurate portrait of our oldest inhabitants."[<sup>10</sup>](/exhibits/native-narratives/notes#10) The portrait, however, is largely conveyed through Underhill, the white host, with only a few interviews included with Native peoples. 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Anthropologist Ruth Underhill in Redman’s America, Rocky Mountain PBS (1960), https://americanarchive.org/catalog/cpb-aacip-52-81wdc120.</caption>
+<caption align="bottom" class="exhibit-caption">Anthropologist Ruth Underhill in Redman’s America, Rocky Mountain PBS (1960), <a href="https://americanarchive.org/catalog/cpb-aacip-52-81wdc120">cpb-aacip-52-81wdc120</a>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/1_52-81wdc120.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_52-81wdc120.jpg" class="big-image" alt="Anthropologist Ruth Underhill in Redman’s America, Rocky Mountain PBS (1960), https://americanarchive.org/catalog/cpb-aacip-52-81wdc120."/></a></td></tr>
 </table>
 
@@ -54,7 +54,7 @@ Public television and radio programs also have featured Native Americans express
 > **This society is filled with inaccurate images of American Indians, and the images are easily manipulated. So being able to show some sort of pride in our cultures and heritage at a powwow is very important for mental health.**
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Image from Wacipi Powwow, Twin Cities Public Television (1995), https://americanarchive.org/catalog/cpb-aacip_77-1937qsxt.</caption>
+<caption align="bottom" class="exhibit-caption">Image from Wacipi Powwow, Twin Cities Public Television (1995), <a href="https://americanarchive.org/catalog/cpb-aacip_77-1937qsxt">cpb-aacip_77-1937qsxt</a>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/1_77-1937qsxt.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_77-1937qsxt.jpg" class="big-image" alt="Image from Wacipi Powwow, Twin Cities Public Television (1995), https://americanarchive.org/catalog/cpb-aacip_77-1937qsxt."/></a></td></tr>
 </table>
 	
@@ -95,7 +95,7 @@ For more programs that explore the representation of Native Americans in public 
     This episode follows the basketball teams of the Wyoming Indian High School as they compete at the tournament level. Coaches and players talk to Geoff O'Gara about their experiences and competitive prospects alongside documentary footage of games from January to March 1994.
     
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Image from Main Street, Wyoming; Indian Basketball, Wyoming PBS (1994), https://americanarchive.org/catalog/cpb-aacip_260-719kddg5.</caption>
+<caption align="bottom" class="exhibit-caption">Image from Main Street, Wyoming; Indian Basketball, Wyoming PBS (1994), <a href="https://americanarchive.org/catalog/cpb-aacip_260-719kddg5">cpb-aacip_260-719kddg5</a>.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/1_260-719kddg5.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1_260-719kddg5.jpg" class="big-image" alt="Image from Main Street, Wyoming; Indian Basketball, Wyoming PBS (1994), https://americanarchive.org/catalog/cpb-aacip_260-719kddg5."/></a></td></tr>
 </table>
 
