@@ -19,6 +19,12 @@
   height: 97vh;
 }
 
+#exhibit-main iframe.exhibit-small-iframe {
+  width: 100%;
+  min-height: 45vh;
+  height: auto;
+}
+
 .exhibit-image {
   float: right;
   padding: 0 5px;

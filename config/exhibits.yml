@@ -19,6 +19,14 @@
   - "eotp/5-6-religious-leaders"
   - "eotp/5-7-labor-business"
   - "eotp/5-8-students-educators"
+"peabody":
+  sections:
+  - "peabody/year"
+  - "peabody/location"
+  - "peabody/entry-category"
+  - "peabody/winners"
+  - "peabody/history-peabody"
+  - "peabody/peabody-uga"
 "native-narratives":
   sections:
   - "native-narratives/misrepresentations"
