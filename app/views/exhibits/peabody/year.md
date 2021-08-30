@@ -1110,7 +1110,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [On the Line; The Juggling Act](https://americanarchive.org/catalog?f%5Btitle_titles%5D%5B%5D=The+Juggling+Act&f[access_types][]=online) | WNYC<br/>
 [On the Media; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh4p) | WNYC<br/>
 [Our Stories; At the Center of Things (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-439zw7n9) | Maine Public Broadcasting<br/>
-[Our Stories; Harvest of Hope (Fort Kent, Maine) [1998-05-11]](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6079f) | Maine Public Broadcasting<br/>
+[Our Stories; Harvest of Hope (Fort Kent, Maine) [1998-05-11]](https://americanarchive.org/catalog/cpb-aacip-245-032280s8) | Maine Public Broadcasting<br/>
 [Our Stories; Healing Woods (Indian Township, Maine) [1998-05-12]](https://americanarchive.org/catalog/cpb-aacip-245-558czfqp) | Maine Public Broadcasting<br/>
 [Our Stories; The Cranberry Report (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-97kps1m0) | Maine Public Broadcasting<br/>
 [Parenting Puzzle: The Middle Years; No. 101; Tell Me More](https://americanarchive.org/catalog/cpb-aacip-240-773txv76) | WTVS<br/>
