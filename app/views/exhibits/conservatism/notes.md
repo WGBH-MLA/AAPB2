@@ -11,7 +11,7 @@
 
 <a name="3"></a><sup>3</sup> Direct cinema refers to a style of documentary filmmaking to emerge in the 1950s and 1960s facilitated by the development of small, lightweight film cameras. Direct cinema documentaries present viewers with a fly-on-the-wall perspective on events as they unfold. They typically eschew voice-over narration and direct-to-camera interviews. For a discussion, see Erik Barnouw, *Documentary: A History of the Non-Fiction Film* (New York: Oxford University Press, 1993), chapter 5.
 
-<a name="4"></a><sup>4</sup> Individual Program Data Sheet, “The Radical Americans,” located in the WNET Collection, National Public Broadcasting Archives, University of Maryland-College Park, Box 13, Folder 3. 
+<a name="4"></a><sup>4</sup> Individual Program Data Sheet, “The Radical Americans,” located in the WNET Collection, National Public Broadcasting Archives, University of Maryland-College Park, Box 13, Folder 3.
 
 <a name="5"></a><sup>5</sup> Memorandum to Station Managers and Program Managers from Field Services. “Program Evaluation Summary: ‘Regional Report: The John Birch Society,’” September 13, 1965. Located in the National Educational Television Collection at the Wisconsin Historical Society, Series 2B, Box 7, Folder 1.
 
@@ -59,14 +59,14 @@
 
 <a name="27"></a><sup>27</sup> See, for example: Lisa McGirr, *Suburban Warriors: The Origins of the New American Right* (Princeton: Princeton University Press, 2002); Darren Dochuk, *From Bible Belt to Sunbelt: Plain-Folk Religion, Grassroots Politics, and the Rise of Evangelical Conservatism* (New York: W. W. Norton, 2011); Kevin Kruse, *White Flight: Atlanta and the Making of Modern Conservatism* (Princeton: Princeton University Press, 2007); Rick Perlstein, *Before the Storm: Barry Goldwater and the Unmaking of the American Consensus* (New York: Nation Books, 2009); Kim Phillps-Fein, *Invisible Hands: The Making of the Conservative Movement from the New Deal to Reagan* (New York: W. W. Norton, 2009); Steven M. Teles, *The Rise of the Conservative Legal Movement: The Battle for Control of the Law* (Princeton: Princeton University Press, 2010).
 
-<a name="28"></a><sup>28</sup> Donald L. Critchlow, “The Conservative Ascendancy,” in *Debating the American Conservative Movement: 1945 to the Present* (Lanham: Rowman and Littlefield, 2009), 9. 
+<a name="28"></a><sup>28</sup> Donald L. Critchlow, “The Conservative Ascendancy,” in *Debating the American Conservative Movement: 1945 to the Present* (Lanham: Rowman and Littlefield, 2009), 9.
 
 <a name="29"></a><sup>29</sup> Nancy MacLean, "Guardians of Privilege," in *Debating the American Conservative Movement: 1945 to the Present* (Lanham: Rowman and Littlefield, 2009), 123-70.
 
-<a name="30"></a><sup>30</sup> Gregory L. Schneider, *The Conservative Century: From Reaction to Revolution* (Lanham: 
+<a name="30"></a><sup>30</sup> Gregory L. Schneider, *The Conservative Century: From Reaction to Revolution* (Lanham:
 Rowman and Littlefield, 2009).
 
-<a name="31"></a><sup>31</sup> The Missouri Compromise of 1820 had sought to keep the balance of power between free and slave states; it admitted Maine as a free state, Missouri as a slave state, and established a geographical boundary above which slavery would not be permitted. The Kansas-Nebraska Act of 1854, however, allowed residents of Kansas and Nebraska – territories that according to the Missouri Compromise could not allow slavery – to determine for themselves whether to permit slavery within their borders; the Act, in essence, nullified the Missouri Compromise. After the Act’s passage, thirty anti-slavery Whigs met to form a new political organization, the Republican Party. 
+<a name="31"></a><sup>31</sup> The Missouri Compromise of 1820 had sought to keep the balance of power between free and slave states; it admitted Maine as a free state, Missouri as a slave state, and established a geographical boundary above which slavery would not be permitted. The Kansas-Nebraska Act of 1854, however, allowed residents of Kansas and Nebraska – territories that according to the Missouri Compromise could not allow slavery – to determine for themselves whether to permit slavery within their borders; the Act, in essence, nullified the Missouri Compromise. After the Act’s passage, thirty anti-slavery Whigs met to form a new political organization, the Republican Party.
 
 <a name="32"></a><sup>32</sup> See Heather Cox Richardson, *To Make Men Free: A History of the Republican Party* (New York: Basic Books, 2014), chapter 2.
 
@@ -89,7 +89,7 @@ Rowman and Littlefield, 2009).
 <a name="41"></a><sup>41</sup> “The Apologist,” *Time*, October 31, 1969, 77.
 
 <a name="42"></a><sup>42</sup> Barry M. Goldwater, *The Conscience of a Conservative* (Princeton: Princeton University Press, 2007, first published by Victor Publishing Co., 1960). See especially chapter 4.
-  
+
 <a name="43"></a><sup>43</sup> William F. Buckley, Jr., "Why the South Must Prevail," *National Review*, August 24, 1957, 148-49.
 
 <a name="44"></a><sup>44</sup> Joseph Lowndes, "William F. Buckley, Jr.: Anti-blackness as Anti-democracy," *American Political Thought: A Journal of Ideas, Institutions, and Culture* 6, no. 4 (2017), 632-40.
@@ -101,7 +101,7 @@ Rowman and Littlefield, 2009).
 <a name="47"></a><sup>47</sup> Timothy N. Thurber, "Race, Region, and the Shadow of the New Deal," in Robert Mason and Iwan Morgan, eds., *Seeking a New Majority: The Republican Party and American Politics, 1960-1980* (Nashville: Vanderbilt University Press, 2013), 32-56.
 
 <a name="48"></a><sup>48</sup> Leah Wright Rigeur, *The Loneliness of the Black Republican: Pragmatic Politics and the Pursuit of Power* (Princeton: Princeton University Press, 2015).
-  
+
 <a name="49"></a><sup>49</sup> Ibid., 23.
 
 <a name="50"></a><sup>50</sup> Heather Hendershot, *What’s Fair on the Air?: Cold War Right-Wing Broadcasting and the Public Interest* (Chicago: University of Chicago Press, 2011). On Hargis and sex education, see Janice M. Irvine, *Talk about Sex: The Battles over Sex Education in the United States* (Berkeley: University of California Press, 2012), chapter 2.
@@ -118,11 +118,4 @@ Rowman and Littlefield, 2009).
 
 <a name="56"></a><sup>56</sup> Heather Hendershot, *Open to Debate: How William F. Buckley Put Liberal America on the Firing Line* (New York: HarperCollins, 2016).
 
-
 ## Main
-
-## Cover
-
-## Gallery
-
-## Records

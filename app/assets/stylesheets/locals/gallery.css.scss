@@ -41,9 +41,15 @@
       left: 0;
     }
   }
+
+  div.exhibit-index-title-container{
+    position: relative;
+  }
+
   h2 {
     position: absolute;
-    top: 261px;
+    /*top: 261px;*/
+    bottom: 0;
     width: 346px;
     height: 102px;
     font-size: 32px;

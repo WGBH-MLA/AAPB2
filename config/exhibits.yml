@@ -27,3 +27,74 @@
   - "peabody/winners"
   - "peabody/history-peabody"
   - "peabody/peabody-uga"
+"native-narratives":
+  sections:
+  - "native-narratives/misrepresentations"
+  - "native-narratives/termination-relocation-restoration"
+  - "native-narratives/aim"
+  - "native-narratives/contemporary-news"
+  - "native-narratives/visual-sovereignty"
+"climate-change":
+  sections:
+  - climate-change/history
+  - climate-change/causes
+  - climate-change/impacts
+  - climate-change/advocacy
+  - climate-change/communicating-art
+  - climate-change/solutions
+"station-histories":
+  sections:
+  - station-histories/first-broadcasts
+  - station-histories/dedication-ceremonies
+  - station-histories/restrospective-anniversaries
+  - station-histories/public-broadcasting-act
+"presidential-elections":
+  sections:
+  - presidential-elections/process
+  - presidential-elections/candidates
+  - presidential-elections/voters-issues
+"black-power":
+  sections:
+  - black-power/black-journal
+  - black-power/soul
+"conservatism":
+  sections:
+  - conservatism/politics-net
+  - conservatism/defining-conservatism
+  - conservatism/conservatism-gop
+  - conservatism/conservatism-civil-rights
+  - conservatism/conservatism-media
+"first-amendment":
+  sections:
+  - first-amendment/protesting-activities
+  - first-amendment/protests-60s-70s
+  - first-amendment/protests-80s-andbeyond
+"historic-preservation":
+  sections:
+  - historic-preservation/traditional-preservation
+  - historic-preservation/marginalized-perspectives
+  - historic-preservation/urban-renewal
+  - historic-preservation/economic
+  - historic-preservation/natural-environment
+"civil-rights":
+  sections:
+  - civil-rights/places
+  - civil-rights/organizations
+  - civil-rights/people
+"watergate":
+  sections:
+  - watergate/the-watergate-scandal-1972-1974
+  - watergate/watergate-and-public-broadcasting
+  - watergate/cast-of-characters
+  - watergate/the-watergate-coverage
+  - watergate/the-impeachment-coverage
+"education":
+  sections:
+  - education/education-documentaries-in-the-net-years-1953-1972
+  - education/capturing-education-battles-on-television-1972-1980
+  - education/covering-education-in-the-1980s
+  - education/national-education-reforms-on-local-television-1990-today
+"newsmagazines":
+  sections:
+  - newsmagazines/precedents
+  - newsmagazines/definitive-newsmags
