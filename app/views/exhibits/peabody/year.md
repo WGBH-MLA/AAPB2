@@ -36,7 +36,6 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 ##### 1949
 
 [Story of Empire County, The; Facts Over Fear](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976) | WNYC<br/>
-
 [Story of Empire County, The; No. 15; The Case of the Careless Cook](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976) | WNYC<br/>
 
 ***
@@ -236,7 +235,6 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 ##### 1972
 
 [Animals and Such; No. 2; Microscopic Pond Life](https://americanarchive.org/catalog/cpb-aacip-526-1r6n010q2d) | WHRO<br/>
-SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Special Commission](https://americanarchive.org/catalog/cpb-aacip-516-c24qj78v0v) | WNET<br/>
 [Dollar Data; No. 1; Matter of Choice](https://americanarchive.org/catalog/cpb-aacip-526-1j9765bd6p) | WHRO<br/>
 [Firing Line; Music and Modernism](https://americanarchive.org/catalog/cpb-aacip-514-qz22b8wc0t) | South Caroline Educational Television Network<br/>
 [People Puzzle](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n430) | WHRO<br/>
