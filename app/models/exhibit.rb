@@ -59,7 +59,7 @@ class Exhibit < Cmless
 
         # take custom config for this exhibit
         config = global_config[top_path].clone
-        
+
         global_config.each do |key, value|
           # drop in global config option for anything undefined
           config[key] = global_config[key].clone if (global_config[key] && !config[key])
@@ -102,7 +102,7 @@ class Exhibit < Cmless
 
   def sections
     if config["sections"]
-      config["sections"].map {|section_path| section_hash[section_path] } 
+      config["sections"].map {|section_path| section_hash[section_path] }
     else
       subsections.reject {|c| c.title.end_with?("Notes") || c.title.end_with?("Resources") }.sort_by {|c| c.title }
     end
@@ -155,10 +155,10 @@ class Exhibit < Cmless
       doc = Nokogiri::HTML(summary_html + extended_html + main_html + head_html + records_html)
       hash = Hash[
         doc.xpath('//a').select do |el|
-          el.attribute('href').to_s.match('^/catalog/.+') || el.attribute('href').to_s.match('^http://americanarchive.org/catalog/.+')
+          el.attribute('href').to_s.match('^/catalog/.+') || el.attribute('href').to_s.match(/^.+\/\/americanarchive.org\/catalog\/.+/)
         end.map do |el|
           [
-            el.attribute('href').to_s.gsub('http://americanarchive.org', '').gsub('/catalog/', ''),
+            el.attribute('href').to_s.gsub(/^.+\/\/americanarchive.org/, '').gsub('/catalog/', ''),
             (begin
                el.attribute('title').text
              rescue
