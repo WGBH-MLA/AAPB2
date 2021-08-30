@@ -4,9 +4,9 @@
 
 ## Summary
 
-> **The Peabody Award is the most distinguished award in our business.**- *Barbara Walters, 1995 Peabody Award acceptance speech*
+> **The Peabody Award is the most distinguished award in our business.** - *Barbara Walters, 1995 Peabody Award acceptance speech*
 
-> **You count your Emmys but you cherish your Peabodys.**- *Walter Cronkite*
+> **You count your Emmys but you cherish your Peabodys.** - *Walter Cronkite*
 
 > **The Peabody Awards do a great service to journalism by taking it seriously.** - *Bill Moyers*
 
