@@ -92,7 +92,6 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 [The Eyewitness Who Wasn't, The Matthews Murder Trials, No. 1](https://americanarchive.org/catalog?after_date=1978-09-06&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=The+Eyewitness+Who+Wasn%27t%2C+The+Matthews+Murder+Trials&sort=title+asc) | 1978 | WABE<br/>
 [The Eyewitness Who Wasn't, The Matthews Murder Trials, No. 2](https://americanarchive.org/catalog?after_date=1978-09-07&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=The+Eyewitness+Who+Wasn%27t%2C+The+Matthews+Murder+Trials&sort=title+asc) | 1978 | WABE<br/>
 [Musical Comedy Tonight](https://americanarchive.org/catalog/cpb-aacip-526-2z12n50j31) | 1979 | Dena Pictures<br/>
-[Masterpiece Radio Theatre; Currer Bell, Esquire, Act 1 [1979-10-14]](https://americanarchive.org/catalog/https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Masterpiece+Radio+Theatre&f[access_types][]=all) | 1979 | WGBH <br/>
 [The Battle Of Westlands](https://americanarchive.org/catalog/cpb-aacip-55-86b2s6ff) | 1979 | KTEH<br/>
 [Cosmos; No. 6; Travellers' Tales](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s52s) | 1980 | KCET<br/>
 [Dive to the Edge of Creation](https://americanarchive.org/catalog/cpb-aacip-526-mc8rb6x68v) | 1980 | WQED<br/>
