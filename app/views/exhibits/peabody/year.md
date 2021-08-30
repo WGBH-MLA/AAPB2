@@ -370,7 +370,7 @@ SHOULD THIS BE REMOVED?[Attica: The Official Report of the New York State Specia
 [News Day [1979-10-03]](https://americanarchive.org/catalog/cpb-aacip-526-ks6j09x93s) | KERA<br/>
 [Ohio Journal; No. 511; Foreign Ownership of Ohio Farmland; The Ohio Lottery](https://americanarchive.org/catalog/cpb-aacip-526-jh3cz33b2z) | WOSU<br/>
 [Onions Are Forever; The Big Onion](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g99r) | WBEZ<br/>
-[People of the First Light: Native Americans in Southern New England; The Mashpee Wampanoags [1979-03-13]](https://americanarchive.org/catalog/cpb-aacip-114-881jx2h7) | WGBH<br/>
+[People of the First Light: Native Americans in Southern New England; The Mashpee Wampanoags [1979-03-13]](https://americanarchive.org/catalog/cpb-aacip-114-881jx2h7) | WGBY<br/>
 [Public Affairs Documentary Series; Whose Crisis Is This? [1979-07-27]](https://americanarchive.org/catalog/cpb-aacip-77-78gf2v1c) | KTCA<br/>
 [Que Pasa, U.S.A.?; No. 28; The First Move [1977-01-11]](https://americanarchive.org/catalog/cpb-aacip-15-8279dqmr) | WPBT<br/>
 [Sonrisas; No. 1; The Horse of Pancho Villa](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt83) | KLRU<br/>
