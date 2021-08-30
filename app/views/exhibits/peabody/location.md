@@ -740,6 +740,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 ##### WGBH
 
 [Laughter's a Funny Business; No. 4; Inhibition](https://americanarchive.org/catalog/cpb-aacip-15-31cjt796) | 1960<br/>
+
+#### Springfield
+
+##### WGBY
 [People of the First Light: Native Americans in Southern New England; The Mashpee Wampanoags [1979-03-13]](https://americanarchive.org/catalog/cpb-aacip-114-881jx2h7) | 1979<br/>
 
 ***
