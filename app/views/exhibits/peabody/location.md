@@ -695,7 +695,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [North of the Namaskeag; No. 5, Afternoon Edition](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q388) | 1971<br/>
 [Read to Me; No. 6; The Chessmen of Doom [1992-06-08]](https://americanarchive.org/catalog/cpb-aacip-245-032280s8) | 1992<br/>
 [Our Stories; At the Center of Things (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-439zw7n9) | 1998<br/>
-[Our Stories; Harvest of Hope (Fort Kent, Maine) [1998-05-11]](https://americanarchive.org/catalog/cpb-aacip-526-4q7qn6079f) | 1998<br/>
+[Our Stories; Harvest of Hope (Fort Kent, Maine) [1998-05-11]](https://americanarchive.org/catalog/cpb-aacip-245-032280s8) | 1998<br/>
 [Our Stories; Healing Woods (Indian Township, Maine) [1998-05-12]](https://americanarchive.org/catalog/cpb-aacip-245-558czfqp) | 1998<br/>
 [Our Stories; The Cranberry Report (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-97kps1m0) | 1998<br/>
 [What Do You Say?](https://americanarchive.org/catalog/cpb-aacip-526-6m3319t46z) | 1998<br/>
