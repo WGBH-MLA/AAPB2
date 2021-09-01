@@ -8,7 +8,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ## Extended
 
-### Documentary
+#### Documentary
 
 [Cooper Union Forum; Psychotherapy and Hindu Philosophy [1957-12-26]](https://americanarchive.org/catalog/cpb-aacip-80-35gb66d7) | 1957<br/>
 [Cooper Union Forum, The; The Psychological Aspects of Creativity; Creativity: Normal or Neurotic [1959-10-15]](https://americanarchive.org/catalog/cpb-aacip-80-31qfvbz7) | 1959<br/>
@@ -313,7 +313,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### Education
+#### Education
 
 [Lectures to the Laity](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Lectures+to+the+Laity&sort=title+asc) | 1948<br/>
 [Queens College Forum](https://americanarchive.org/catalog?after_date=1948&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Queens+College+Forum) | 1948<br/>
@@ -488,7 +488,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### Entertainment
+#### Entertainment
 
 [WNYC Anniversaries; Cavalcade of WNYC; MUNI](https://americanarchive.org/catalog/cpb-aacip-80-612nh60k) | 1948<br/>
 [World Theatre; A Phoenix Too Frequent](https://americanarchive.org/catalog/cpb-aacip-526-4j09w09z2g) | 1950<br/>
@@ -520,7 +520,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### Institution/Organization/Individual
+#### Institution/Organization/Individual
 
 [WNYC FM: General Station Excellence](https://americanarchive.org/catalog/cpb-aacip-526-736m03zw9w) | 1986<br/>
 [Outside the Moscow Beltway; Letter from Ukraine & Interview on Kazakhstan [1991-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq1h) | 1991<br/>
@@ -552,7 +552,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### News
+#### News
 
 [Campus Press Conference; Dr. Glenn T. Seaborg of the Radiation Laboratory of the University of California, winner of the Nobel Prize for Chemistry [1956-12-30]](https://americanarchive.org/catalog/cpb-aacip-80-28nckbfs) | 1956<br/>
 [U.N. Radio Review, The; First Emergency Special Session of the General Assembly](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf8d) | 1956<br/>
@@ -717,7 +717,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### Programs for Children
+#### Programs for Children
 
 [Young Musician, The](https://americanarchive.org/catalog/cpb-aacip-80-58bg7zsh) | 1976<br/>
 [Freestyle; Scoop [1978-10-30]](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn4b) | 1978<br/>
@@ -760,7 +760,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### Promotion of International Understanding
+#### Promotion of International Understanding
 
 [United Nations Proceedings](https://americanarchive.org/catalog/cpb-aacip-526-8p5v69999z) | 1948<br/>
 [International Interview; Dr. Auguste Lindt - UN High Commissioner for Refugees](https://americanarchive.org/catalog/cpb-aacip-80-04rjf1z9) | 1956<br/>
@@ -778,7 +778,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### Public Service
+#### Public Service
 
 [Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Weekly+Talk+to+the+People--+Mayor+F.H.+LaGuardia&sort=title+asc) | 1944<br/>
 [Mayor O'Dwyer's Transit Hearings](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4731t) | 1947<br/>
@@ -1022,7 +1022,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### Public Service by a Regional Station
+#### Public Service by a Regional Station
 
 [Wisconsin Political Educational Forum](https://americanarchive.org/catalog/cpb-aacip-526-1g0ht2h761) | 1946<br/>
 [Chairside Chats. [1948-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-639k35nd04) | 1948<br/>
@@ -1030,14 +1030,14 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 ***
 
-### Special
+#### Special
 
 [Hanukkah](https://americanarchive.org/catalog/cpb-aacip-60-439zw9m7) | 1973<br/>
 [Woman; Composite](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f93g)| 1973<br/>
 [Assignment New Jersey; Work, Work, Work [1975-02-19]](https://americanarchive.org/catalog/cpb-aacip-259-348ghx5h) | 1975<br/>
 [Game, The; Til Death Do Us Part](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mk4v) | 1975<br/>
 
-### Youth or Children’s
+#### Youth or Children’s
 
 [Teen Age Book Talk](https://americanarchive.org/catalog/cpb-aacip-526-6d5p844v20) | 1960<br/>
 [Teenage Book Talk; Eleanor Roosevelt and Helen Ferris](https://americanarchive.org/catalog/cpb-aacip-80-75r7tj08) | 1961<br/>
