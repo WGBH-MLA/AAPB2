@@ -8,7 +8,7 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 
 ## Extended
 
-### Programs available for online access in the AAPB
+#### Programs available for online access in the AAPB
 
 [Wisconsin School of the Air; Afield with Ranger Mac](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22Afield+With+Ranger+Mac%22&sort=episode_number_sort+asc) | 1942 | WHA<br/>
 [Weekly Talk to the People-- Mayor F.H. LaGuardia.](https://americanarchive.org/catalog/cpb-aacip-526-7d2q52gc6q) | 1944 | WNYC<br/>
@@ -57,7 +57,7 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 
 ***
 
-### Programs available at the Library of Congress and GBH
+#### Programs available at the Library of Congress and GBH
 
 [Crossroads of the Future; What UNESCO Is](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=What+UNESCO+Is&f[access_types][]=digitized) | 1948 | Lowell Institute. Cooperative Broadcasting Council<br/>
 [We Human Beings; Story of Brig](https://americanarchive.org/catalog/cpb-aacip-526-sn00z7277z) | 1948 | Lowell Institute Cooperative Broadcasting Council<br/>
