@@ -13,7 +13,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1944
 
-[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Weekly+Talk+to+the+People--+Mayor+F.H.+LaGuardia&sort=title+asc) | WNYC<br/>
+[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=LaGuardia%27s+Weekly+Talk+to+the+People&sort=score+desc) | WNYC<br/>
 
 ##### 1946
 
@@ -36,7 +36,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 ##### 1949
 
 [Story of Empire County, The; Facts Over Fear](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976) | WNYC<br/>
-[Story of Empire County, The; No. 15; The Case of the Careless Cook](https://americanarchive.org/catalog/cpb-aacip-510-bv79s1m976) | WNYC<br/>
+[Story of Empire County, The; No. 15; The Case of the Careless Cook](https://americanarchive.org/catalog/cpb-aacip-510-319s17t99z) | WNYC<br/>
 
 ***
 
