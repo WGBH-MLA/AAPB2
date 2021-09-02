@@ -780,7 +780,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 
 #### Public Service
 
-[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Weekly+Talk+to+the+People--+Mayor+F.H.+LaGuardia&sort=title+asc) | 1944<br/>
+[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=LaGuardia%27s+Weekly+Talk+to+the+People&sort=score+desc) | 1944<br/>
 [Mayor O'Dwyer's Transit Hearings](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4731t) | 1947<br/>
 [City Rent Laws](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tw04) | 1948<br/>
 [United Nations; Opening of UN Political Committee at Lake Success  [1951-01-05]](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4733f) | 1951<br/>
