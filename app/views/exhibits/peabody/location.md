@@ -1029,7 +1029,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [People and Ideas; The United Nations and Human Rights](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23m0c) | 1962<br/>
 [People and Ideas; UNESCO and How It Works](https://americanarchive.org/catalog/cpb-aacip-526-3n20c4tk9m) | 1962<br/>
 [People and Ideas; Informing the Public: Opportunity or Disaster?](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z06g) | 1961<br/>
-[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Weekly+Talk+to+the+People--+Mayor+F.H.+LaGuardia&sort=title+asc) | 1944<br/>
+[Weekly Talk to the People-- Mayor F.H. LaGuardia](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=LaGuardia%27s+Weekly+Talk+to+the+People&sort=score+desc) | 1944<br/>
 [Mayor O'Dwyer's Transit Hearings](https://americanarchive.org/catalog/cpb-aacip-526-sj19k4731t) | 1947<br/>
 [Chairside Chats. [1948-12-23]](https://americanarchive.org/catalog/cpb-aacip-526-639k35nd04) | 1948<br/>
 [City Rent Laws](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tw04) | 1948<br/>
