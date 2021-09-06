@@ -22,14 +22,17 @@ Produced by Ryn Marchese<br>
 Post-production and theme music by Todd Thompson<br>
 
 <div>
+ 
 <span>Content mentioned in this episode:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
 <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
 <li><a href=https://americanarchive.org/special_collections/newtonminow>Broadcasting in the Public Interest: The Newton Minow Collection</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-528-1g0ht2hb00>Newton N. Minow, Chairman, FCC speaking at the N.A.B. convention</a> (WRVR) 1962</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-15-451g1x4f><i>Prospects of Mankind with Eleanor Roosevelt</i>; New Vistas for Television</a> (WGBH) 1962</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip_500-kw57jd6j>Ethic for Broadcasting; Lawmaker of the Art, pt. 1</a> (WDET) 1961</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-528-h98z893k0g>Newton N. Minow Address before the N.A.E.B. Convention in Washington, D.C.</a> (WRVR) 1961</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-528-1g0ht2hb00>Newton N. Minow, Chairman, FCC speaking at the N.A.B. convention</a> (WRVR, 1962)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-15-451g1x4f><i>Prospects of Mankind with Eleanor Roosevelt</i>; New Vistas for Television</a> (WGBH, 1962)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_500-kw57jd6j>Ethic for Broadcasting; Lawmaker of the Art, pt. 1</a> (WDET, 1961)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-528-h98z893k0g>Newton N. Minow Address before the N.A.E.B. Convention in Washington, D.C.</a> (WRVR, 1961)</li>
+ </ul>
+</div>
 
 For more context to the topics discussed in this episode, explore relevant content in the AAPB below:
 
@@ -39,38 +42,49 @@ For more context to the topics discussed in this episode, explore relevant conte
 <li><a href=https://americanarchive.org/special_collections/net-catalog>National Educational Television (NET) Collection</a></li>
 <li><a href=https://americanarchive.org/special_collections/ken-burns-civil-war>Ken Burns’ <i>The Civil War</i> Interviews Collection</a></li>
 <li><a href=https://americanarchive.org/special_collections/newshour><i>PBS NewsHour</i> Collection</a></li>
+ </ul>
+</div>
 
 <div>
 <span>Edward R. Murrow:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
-<li><a href=https://americanarchive.org/catalog/cpb-aacip_15-80ht7n4v>The Press And The People: An Inquiry Into The Work Of The American Press In Informing The American People; 8; The Responsibilities Of Television. Part I</a> with Edward R. Murrow (WGBH) 1959</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_15-80ht7n4v>The Press And The People: An Inquiry Into The Work Of The American Press In Informing The American People; 8; The Responsibilities Of Television. Part I</a> with Edward R. Murrow (WGBH, 1959)</li>
+ </ul>
+</div>
 
 <div>
 <span>Payola Scandals:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
-<li><a href=https://americanarchive.org/catalog/cpb-aacip_500-9s1kmx57#at_5.19_s>Crisis in communication: Introduction</a> (WDET) 1961</li>
-
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_500-9s1kmx57#at_5.19_s>Ethic for broadcasting; Crisis in communication: Intro</a> (WDET, 1961)</li>
+ </ul>
+</div>
 
 <div>
 <span>Communication Satellite:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-500-qf8jjp77?term=COMMUNICATION%20SATELLITE&#at_663.71_s>Space Science Press Conference</a> (WSUI) 1962</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-500-4b2x763x?term=COMMUNICATION%20SATELLITE&#at_159.71_s>Peaceful Uses of Outer Space</a> (NAEB and NASA) 1963</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-528-hh6c24rw5w?term=COMMUNICATION%20SATELLITE&#at_44.87_s>E. William Henry, Chairman of the FCC</a> (WRVR) 1964</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-500-qf8jjp77?term=COMMUNICATION%20SATELLITE&#at_663.71_s>Space Science Press Conference</a> (WSUI, 1962)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-500-4b2x763x?term=COMMUNICATION%20SATELLITE&#at_159.71_s>Peaceful Uses of Outer Space</a> (NAEB and NASA, 1963)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-528-hh6c24rw5w?term=COMMUNICATION%20SATELLITE&#at_44.87_s>E. William Henry, Chairman of the FCC</a> (WRVR, 1964)</li>
+ </ul>
+</div>
 
 <div>
 <span>Educational Television Facilities Act of 1962:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-15-02q57bjk?term=EDUCATIONAL%20TELEVISION%20FACILITIES%20ACT%20OF%201962&#at_336.95_s>Public Television Hearings; Testimony from NET and NAEB Representative</a> (WGBH) 1967</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-500-xd0qwx65?term=EDUCATIONAL%20TELEVISION%20FACILITIES%20ACT%20OF%201962&#at_163.49_s>Senate hearings on pubic broadcasting; Educational Television pt. 1</a> (WAMU) 1967</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-15-32d7wxf3?term=EDUCATIONAL%20TELEVISION%20FACILITIES%20ACT%20OF%201962&#at_229.68_s>Public Affairs; Senate Commerce Communications Hearings</a> (WGBH) 1969, Newton Minow's address begins at 03:34:08</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-15-02q57bjk?term=EDUCATIONAL%20TELEVISION%20FACILITIES%20ACT%20OF%201962&#at_336.95_s>Public Television Hearings; Testimony from NET and NAEB Representative</a> (WGBH, 1967)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-500-xd0qwx65?term=EDUCATIONAL%20TELEVISION%20FACILITIES%20ACT%20OF%201962&#at_163.49_s>Senate hearings on pubic broadcasting; Educational Television pt. 1</a> (WAMU, 1967)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-15-32d7wxf3?term=EDUCATIONAL%20TELEVISION%20FACILITIES%20ACT%20OF%201962&#at_229.68_s>Public Affairs; Senate Commerce Communications Hearings</a> (WGBH, 1969), Newton Minow's address begins at 03:34:08</li>
+ </ul>
+</div>
 
 <div>
 <span>Educational Television Facilities Act of 1962:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
-<li><a href=https://americanarchive.org/catalog/cpb-aacip_15-f18sb3xg7d>Boston Symphony Orchestra Audience Learns of the Death of JFK</a> (WGBH) 1963</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-528-jw86h4f07q>JFK Memorial Service</a> (WRVR) 1963</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_15-f18sb3xg7d>Boston Symphony Orchestra Audience Learns of the Death of JFK</a> (WGBH, 1963)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-528-jw86h4f07q>JFK Memorial Service</a> (WRVR, 1963)</li>
 <li><a href=https://americanarchive.org/special_collections/9-11-special-coverage>9/11 Special Collection</a></li>
+ </ul>
+</div>
 
 ### Episode 03: Indigenous Public Media with Shirley Sneve, Vice President of Broadcasting for <i>Indian Country Today</i>
 Aug 10, 2021
@@ -89,10 +103,10 @@ Post-production and theme music by Todd Thompson<br>
 <span>Content mentioned in this episode:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
 <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
-<li><a href=https://indiancountrytoday.com>Indian Country Today</a>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip_508-9c6rx9408p>The Thick Dark Fog</a> (2012)
-<li><a href=https://americanarchive.org/catalog/cpb-aacip_508-vd6nz81k7h>XIT: Without Reservation</a> (2000)
-<li><a href=https://americanarchive.org/participating-orgs/4502>KWSO</a> - Owned and operated by the Confederated Tribes of Warm Springs
+<li><a href=https://indiancountrytoday.com>Indian Country Today</a></li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_508-9c6rx9408p>The Thick Dark Fog</a> (2012)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_508-vd6nz81k7h>XIT: Without Reservation</a> (2000)</li>
+<li><a href=https://americanarchive.org/participating-orgs/4502>KWSO</a> - Owned and operated by the Confederated Tribes of Warm Springs</li>
  </ul>
 </div>
 
@@ -110,12 +124,12 @@ Post-production and theme music by Todd Thompson<br>
 <div>
 <span>Additional Prominent Broadcast Outlets for Indigenous Programming:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
-<li><a href=https://americanarchive.org/participating-orgs/1259>KDLG</a> (Dillingham, AK)
-<li><a href=https://americanarchive.org/participating-orgs/1702>KAKM Alaska Public Media</a> (Anchorage, AK)
-<li><a href=https://americanarchive.org/participating-orgs/NCSG43>Pacifica Radio Archives</a> (North Hollywood, CA)
-<li><a href=https://americanarchive.org/participating-orgs/NCSG55086>KPCC</a> (Pasadena, CA)
-<li><a href=https://americanarchive.org/participating-orgs/1797>Twin Cities Public Television</a> (St. Paul, MN)
-<li><a href=https://americanarchive.org/participating-orgs/1896.2>Wisconsin Public Radio</a> (Madison, WI)
+<li><a href=https://americanarchive.org/participating-orgs/1259>KDLG</a> (Dillingham, AK)</li>
+<li><a href=https://americanarchive.org/participating-orgs/1702>KAKM Alaska Public Media</a> (Anchorage, AK)</li>
+<li><a href=https://americanarchive.org/participating-orgs/NCSG43>Pacifica Radio Archives</a> (North Hollywood, CA)</li>
+<li><a href=https://americanarchive.org/participating-orgs/NCSG55086>KPCC</a> (Pasadena, CA)</li>
+<li><a href=https://americanarchive.org/participating-orgs/1797>Twin Cities Public Television</a> (St. Paul, MN)</li>
+<li><a href=https://americanarchive.org/participating-orgs/1896.2>Wisconsin Public Radio</a> (Madison, WI)</li>
 </ul>
 </div>
 
