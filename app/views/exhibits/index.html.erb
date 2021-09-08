@@ -10,9 +10,12 @@
         <div class="gallery-thumbnail">
           <a href="/exhibits/<%= ex.path %>">
             <img src="<%= ex.thumbnail_url %>" alt="<%= ex.title %>" aria-hidden="true">
-            <h2 class="exhibit-index-title bg-color-<%= ['purple','pink','red'].sample %>">
-              <a href="/exhibits/<%= ex.path %>"><%= ex.title %></a>
-            </h2>
+            <div class="exhibit-index-title-container">
+              <h2 class="exhibit-index-title bg-color-<%= ['purple','pink','red'].sample %>">
+                <a href="/exhibits/<%= ex.path %>"><%= ex.title %></a>
+              </h2>  
+            </div>
+            
           </a>
         </div>
       </div>
