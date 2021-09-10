@@ -57,7 +57,7 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 
 ***
 
-#### Programs available at the Library of Congress and GBH
+#### Programs available at UGA, the Library of Congress, and GBH
 
 [Crossroads of the Future; What UNESCO Is](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=What+UNESCO+Is&f[access_types][]=digitized) | 1948 | Lowell Institute. Cooperative Broadcasting Council<br/>
 [We Human Beings; Story of Brig](https://americanarchive.org/catalog/cpb-aacip-526-sn00z7277z) | 1948 | Lowell Institute Cooperative Broadcasting Council<br/>
