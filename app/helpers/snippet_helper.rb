@@ -20,19 +20,25 @@ module SnippetHelper
     end
 
     def snippet
+      txt = nil
+      this_term = nil
+
       @terms_array.each do |word_array|
         # stupid to rejoin word_array here but makes more sense than storing it twice
         this_term = word_array.join(" ")
 
-        start_index = @plaintext.index( this_term )
-
+        start_index = @plaintext.index( /\s{1}#{this_term}\s{1}|\s{1}#{this_term}\z|\A#{this_term}\s{1}/ )
         if start_index
+
           # grab the chunk around our match and clean up the crap 
           txt = ( @plaintext[left_chunk_indicies(start_index)] + @plaintext[right_chunk_indicies(start_index)] ).gsub(/\A\w+\s{1}/, '').gsub(/\s{1}\w+\z/, '')
 
           # and highlifght 
-          return highlight_snippet( txt, this_term )
+          break
         end
+      end
+      if txt
+        highlight_snippet( txt, this_term )
       end
     end
 

@@ -257,7 +257,7 @@ class CatalogController < ApplicationController
 
         if !caption_file.captions_src.nil?
           s = Snippet.new(this_id, @terms_array, caption_file.text)
-          @snippets[this_id][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
+          @snippets[this_id][:caption] = s.snippet
 
         end
       end
