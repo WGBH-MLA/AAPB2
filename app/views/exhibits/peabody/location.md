@@ -1079,7 +1079,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Miscellaneous; Difference of Opinion; Supreme Court Decision on Prayer in Schools [1962-10-22]](https://americanarchive.org/catalog/cpb-aacip-80-66vx155n) | 1962<br/>
 [News; The Narrowing Atlantic; WNYC](https://americanarchive.org/catalog/cpb-aacip-80-48sbcvwf) | 1962<br/>
 [Seminar of the Air; Challenge of Space Flight; Satellites in the Nation's Space Program](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh2s) | 1962<br/>
-[23 Park Avenue with Lee Graham; Are the Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=23+Park+Avenue+with+Lee+Graham) | 1964<br/>
+[23 Park Avenue with Lee Graham; Are the Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Are+Private+Schools+Threatening+the+Public+School+System%3F&sort=title+asc) | 1964<br/>
 [Asia Society Presents, The; Asia Through the Cultural Looking-Glass [1969-02-03]](https://americanarchive.org/catalog/cpb-aacip-80-278sftgm) | 1969<br/>
 [Miscellaneous; The Teaching Machine : Educating the Young](https://americanarchive.org/catalog/cpb-aacip-80-33dz0w56) | 1970<br/>
 [Logic of Poetry, The; No. 4; Mending Walls](https://americanarchive.org/catalog/cpb-aacip-526-6t0gt5gf9q) | 1975<br/>
