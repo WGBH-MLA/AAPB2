@@ -177,7 +177,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 ##### 1964
 
-[23 Park Avenue with Lee Graham; Are Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=23+Park+Avenue+with+Lee+Graham) | WNYC<br/>
+[23 Park Avenue with Lee Graham; Are Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Are+Private+Schools+Threatening+the+Public+School+System%3F&sort=title+asc) | WNYC<br/>
 [New York Times Correspondents View the News; J.A. Lukas in Leopoldville, "So. Africa's Security Police"](https://americanarchive.org/catalog/cpb-aacip-526-jq0sq8rm6k) | WQXR<br/>
 
 ##### 1967
