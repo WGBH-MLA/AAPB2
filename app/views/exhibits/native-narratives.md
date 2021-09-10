@@ -5,6 +5,7 @@
 ## Summary
 
 *Native Narratives: The Representation of Native Americans in Public Broadcasting* explores how Native American peoples and cultures have been represented both in non-Native-produced and Native-created public broadcasting programs in the AAPB collection.[<sup>1</sup>](/exhibits/native-narratives/notes#1) Each section features a range of radio and television programs that cover key events or issues important to Native peoples. Additionally, the exhibit explores how mainstream American public media and media produced by Native Americans depict and document Native peoples in ways that either confirm or reject stereotypes. 
+![NHPRC logo](https://s3.amazonaws.com/americanarchive.org/exhibits/nhprc-logo-small.jpg "NHPRC logo")
 
 The exhibit was curated by Sally Smith, a former student assistant in the Peabody Awards Archive at the University of Georgia and a 2019 Library of Congress Junior Fellow in the Recorded Sound Section of the MBRS Division. She is a current MSLS student at the University of North Carolina, Chapel Hill.
 
@@ -27,6 +28,7 @@ The author would like to thank Mary Miller, K. C. Carter, Alan Gevinson, and Cas
 - [Native Voice One](http://www.nv1.org/)
 - [Association of Tribal Libraries, Archives and Museums](http://www.atalm.org/)
 - [National Museum of the American Indian](https://americanindian.si.edu/)
+- [Peabody Awards Special Collection](https://americanarchive.org/special_collections/peabody)
 
 ## Main
 
