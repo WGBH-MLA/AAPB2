@@ -495,7 +495,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [American Poetry, 1961](https://americanarchive.org/catalog/cpb-aacip-526-nk3610x18d) | 1961<br/>
 [James Agee](https://americanarchive.org/catalog/cpb-aacip-526-3j39020f2c) | 1961<br/>
 [Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k1k) | 1976<br/>
-[Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d7q) | 1976<br/>
+[Stages of Preston Jones, The](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d7q) | 1976<br/>
 [Made in New Hampshire; Ingersol-Rand - Le Ballet Industriel](https://americanarchive.org/catalog/cpb-aacip-526-pv6b27r01t) | 1979<br/>
 [WNYC Storytelling Festival; The Storyteller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=WNYC+Storytelling+Festival&sort=title+asc) | 1979<br/>
 [Opening Night: The Making of an Opera](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mm0w) | 1980<br/>
