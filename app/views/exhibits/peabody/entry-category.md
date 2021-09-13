@@ -342,7 +342,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Foreign Language Instruction for Elementary Grades; Auf deutsch, bitte!](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt4j) | 1962<br/>
 [Foreign Language Instruction for Elementary Grades; Ya hablamos espanol](https://americanarchive.org/catalog/cpb-aacip-526-2n4zg6h298) | 1962<br/>
 [Seminar of the Air; Challenge of Space Flight; Satellites in the Nation's Space Program](https://americanarchive.org/catalog/cpb-aacip-526-v40js9jh2s) | 1962<br/>
-[23 Park Avenue with Lee Graham; Are the Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=23+Park+Avenue+with+Lee+Graham) | 1964<br/>
+[23 Park Avenue with Lee Graham; Are the Private Schools Threatening the Public School System?](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Are+Private+Schools+Threatening+the+Public+School+System%3F&sort=title+asc) | 1964<br/>
 [Education Network; Teaching By Inquiry](https://americanarchive.org/catalog/cpb-aacip-526-3r0pr7nr4h) | 1967<br/>
 [Darker Brother Series, The; You Never Miss Your Daddy 'Til He Up and---!](https://americanarchive.org/catalog/cpb-aacip-30-bv79s1kx40) | 1970<br/>
 [Miscellaneous; The Teaching Machine : Educating the Young](https://americanarchive.org/catalog/cpb-aacip-80-33dz0w56) | 1970<br/>
@@ -495,7 +495,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [American Poetry, 1961](https://americanarchive.org/catalog/cpb-aacip-526-nk3610x18d) | 1961<br/>
 [James Agee](https://americanarchive.org/catalog/cpb-aacip-526-3j39020f2c) | 1961<br/>
 [Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85k1k) | 1976<br/>
-[Good Old Days of Radio, The](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d7q) | 1976<br/>
+[Stages of Preston Jones, The](https://americanarchive.org/catalog/cpb-aacip-526-hx15m63d7q) | 1976<br/>
 [Made in New Hampshire; Ingersol-Rand - Le Ballet Industriel](https://americanarchive.org/catalog/cpb-aacip-526-pv6b27r01t) | 1979<br/>
 [WNYC Storytelling Festival; The Storyteller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=WNYC+Storytelling+Festival&sort=title+asc) | 1979<br/>
 [Opening Night: The Making of an Opera](https://americanarchive.org/catalog/cpb-aacip-526-cf9j38mm0w) | 1980<br/>
