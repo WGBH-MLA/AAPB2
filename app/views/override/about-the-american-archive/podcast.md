@@ -8,8 +8,8 @@ In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinem
 ### Episode 04: Broadcasting in the Public Interest</i>
 Sept 14, 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1GL_arhMKmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p7IllU65s8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The fourth episode of “Presenting the Past'' features Newton Minow, Chairman of the Federal Communications Commission (FCC) under President John F. Kennedy from 1961 until 1963. Minow would become a key figure in the establishment of public broadcasting in the U.S., and in this conversation, he reflects on his early vision for public service television. 
 
 Highlighted in this program are clips from the AAPB collection, including Minow’s famed “vast wasteland” speech to the National Association of Broadcasters in 1961, his lesser known address to the same organization the following year, as well as a panel discussion with former First Lady Eleanor Roosevelt on the role of television in society.
