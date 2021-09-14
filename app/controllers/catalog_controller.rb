@@ -192,7 +192,10 @@ class CatalogController < ApplicationController
     @exhibit = exhibit_from_url
     @special_collection = special_collection_from_url
     # Cleans up user query for manipulation of caption text in the view.
-    @terms_array = query_to_terms_array(params[:q]) if params[:q]
+
+    # pull this out because we're going to mutate it inside terms_array method
+    query = params[:q].dup
+    @terms_array = query_to_terms_array(query) if query
 
 
     if !params[:f] || !params[:f][:access_types]
