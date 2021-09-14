@@ -78,7 +78,7 @@ For more context to the topics discussed in this episode, explore relevant conte
 </div>
 
 <div>
-<span>Educational Television Facilities Act of 1962:</span><br>
+<span>JFK Assassination and 9/11 on Public Broadcasting:</span><br>
  <ul class="override" style="margin-top: 0.1em;">
 <li><a href=https://americanarchive.org/catalog/cpb-aacip_15-f18sb3xg7d>Boston Symphony Orchestra Audience Learns of the Death of JFK</a> (WGBH, 1963)</li>
 <li><a href=https://americanarchive.org/catalog/cpb-aacip-528-jw86h4f07q>JFK Memorial Service</a> (WRVR, 1963)</li>
