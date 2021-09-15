@@ -1,11 +1,11 @@
-# Presenting the Past: Exploring the American Archive of Public Broadcasting Podcast
+# Presenting the Past: Exploring the American Archive of Public Broadcasting Podcast 
 
 
 <div style="margin-bottom: 0.8em; margin-top: 0.8em;">
 In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 </div>
 
-### Episode 04: Broadcasting in the Public Interest</i>
+### Episode 04: Broadcasting in the Public Interest with Newton Minow, former Chair of the Federal Communications Commission (FCC)</i>
 Sept 14, 2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qVeUFF0-LjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
