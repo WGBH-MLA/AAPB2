@@ -4,6 +4,7 @@ module ApplicationHelper
   end
 
   def query_to_terms_array(query)
+    return [] if !query || query.empty?
 
     stopwords = Rails.cache.fetch("stopwords") do
       sw = []

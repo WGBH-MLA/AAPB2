@@ -195,8 +195,7 @@ class CatalogController < ApplicationController
 
     # pull this out because we're going to mutate it inside terms_array method
     query = params[:q].dup
-    @terms_array = query_to_terms_array(query) if query
-
+    @terms_array = query_to_terms_array(query)
 
     if !params[:f] || !params[:f][:access_types]
       # Sets Access Level
