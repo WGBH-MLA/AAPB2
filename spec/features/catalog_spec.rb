@@ -464,10 +464,10 @@ describe 'Catalog' do
       expect(page.status_code).to eq(404)
     end
 
-    it 'has thumbnails if outside_url' do
+    it 'has thumbnails if outside_urls' do
       visit '/catalog/cpb-aacip-1234'
       # expect_all_the_text('clean-MOCK.xml')
-      expect_thumbnail('cpb-aacip_1234') # has media, but also has outside_url, which overrides.
+      expect_thumbnail('cpb-aacip_1234') # has media, but also has outside_urls, which overrides.
       expect_no_media
       expect_external_reference
     end

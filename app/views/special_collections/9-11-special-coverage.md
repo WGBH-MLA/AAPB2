@@ -27,6 +27,7 @@ This Special Collection was curated by Robert Hoffman, graduate student at New Y
 
 ## Resources
 
+- [Understanding 9/11: A Television News Archive](https://archive.org/details/911/day/20010911)
 - [9/11 Memorial and Museum](https://www.911memorial.org)
 - [Remembering 9/11, Library of Congress](https://www.loc.gov/loc/lcib/110910/sept11.html)
 - [The September 11 Digital Archive, Roy Rosenzweig Center for History and New Media](https://911digitalarchive.org/)
