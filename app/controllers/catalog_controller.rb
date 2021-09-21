@@ -244,9 +244,8 @@ class CatalogController < ApplicationController
         if can? :play, @pbcore
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
-        end
 
-          if @pbcore.proxy_start_time && params["proxy_start_time"].nil?
+          if redirect_to_proxy_start_time?(pbcore: @pbcore, params: params)
             redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
           end
         end
@@ -276,6 +275,17 @@ class CatalogController < ApplicationController
   end
 
   private
+
+  def redirect_to_proxy_start_time?(pbcore:, params:)
+    return true if (
+      pbcore.proxy_start_time && params["proxy_start_time"].nil? && !has_media_start_time?(params)
+    )
+    false
+  end
+
+  def has_media_start_time?(params)
+    params.keys.include?("start")
+  end
 
   def default_search_access(params)
     base_query = params.except(:action, :controller).to_query
