@@ -192,7 +192,10 @@ class CatalogController < ApplicationController
     @exhibit = exhibit_from_url
     @special_collection = special_collection_from_url
     # Cleans up user query for manipulation of caption text in the view.
-    @query_for_captions = clean_query_for_snippet(params[:q]) if params[:q]
+
+    # pull this out because we're going to mutate it inside terms_array method
+    query = params[:q].dup
+    @terms_array = query_to_terms_array(query)
 
     if !params[:f] || !params[:f][:access_types]
       # Sets Access Level
@@ -225,7 +228,40 @@ class CatalogController < ApplicationController
       # value is unused because the presence of the guid as a key is what indicates the match
       matched_in_text_field.map { |k, _v| fixed_matches[normalize_guid(k)] = {} }
 
-      @snippets = SnippetHelper.build_snippets(solr_documents: @document_list, query: @query_for_captions, matches: fixed_matches)
+      @document_list.each do |solr_doc|
+        this_id = normalize_guid(solr_doc[:id])
+
+        # only respond if highlighting set has this guid
+        next unless fixed_matches[this_id]
+
+        caption_file = CaptionFile.new(solr_doc.id)
+        @snippets[this_id] = {}
+
+        # check for transcript/caption anno
+        if solr_doc.transcript?
+
+          # put it here!
+          transcript_file = TranscriptFile.new(solr_doc.transcript_src)
+          if transcript_file.file_type == TranscriptFile::JSON_FILE
+
+            ts = TimecodeSnippet.new(this_id, @terms_array,  transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
+
+            @snippets[this_id][:transcript] = ts.snippet
+            @snippets[this_id][:transcript_timecode_url] = ts.url_at_timecode
+          elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
+
+            ts = Snippet.new(this_id, @terms_array, transcript_file.plaintext)
+            @snippets[this_id][:transcript] = ts.snippet
+          end
+
+        end
+
+        if !caption_file.captions_src.nil?
+          s = Snippet.new(this_id, @terms_array, caption_file.text)
+          @snippets[this_id][:caption] = s.snippet
+
+        end
+      end
     end
   end
 
