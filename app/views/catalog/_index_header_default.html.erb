@@ -54,11 +54,7 @@
 
                 <% if @snippets[pbcore.id][:transcript_timecode_url] %>
                   <a href="<%= @snippets[pbcore.id][:transcript_timecode_url] %>">
-                  <%  if pbcore.media_type == 'Moving Image' %>
-                    <button type="button" class="btn btn-default snippet-link">Watch from here</button>
-                  <% else %>
-                    <button type="button" class="btn btn-default snippet-link">Listen from here</button>
-                  <% end %>
+                  <button type="button" class="btn btn-default snippet-link"><%= pbcore.media_type == 'Moving Image' ? "Watch" : "Listen" %> from here</button>
                   </a>
                 <% end %>
               </p>
