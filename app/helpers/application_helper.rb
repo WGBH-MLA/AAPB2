@@ -37,7 +37,7 @@ module ApplicationHelper
     end
 
     # remove extra spaces and turn each term into word array
-    terms_array.map {|term| term.upcase.strip.gsub(/[\W\S]/, "").split(" ") }
+    terms_array.map {|term| term.upcase.strip.gsub(/[^\w\s]/, "").split(" ") }
   end
 
   def get_last_day(month)

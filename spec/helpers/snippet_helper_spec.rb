@@ -55,18 +55,20 @@ describe SnippetHelper do
 
   describe '#new' do
     it 'initializes with the expected attrs' do
-      expect(transcript_snippet_1.snippet).to eq("THIS 15TH ANNIVERSARY CELEBRATION AND DEDICATION CEREMONY IS MR GEORGE CAMPBELL CHAIRMAN OF THE <mark>ARKANSAS</mark> EDUCATIONAL TELEVISION COMMISSION GOOD AFTERNOON DISTINGUISHED GUESTS LADIES AND GENTLEMEN")
+
+      expect(transcript_snippet_1.snippet).to eq(" FOR THIS 15TH ANNIVERSARY CELEBRATION AND DEDICATION CEREMONY IS MR GEORGE CAMPBELL CHAIRMAN OF THE <mark>ARKANSAS</mark> EDUCATIONAL TELEVISION COMMISSION GOOD AFTERNOON DISTINGUISHED GUESTS LADIES AND GENTLEMEN ")
       expect(transcript_snippet_1.match_timecode).to eq("50.24")
     end
 
     it 'initializes with expected attrs for compound query' do
-      expect(transcript_snippet_2.snippet).to eq("I MAKE NO APOLOGIES FOR STORIES I MAY OR MAY NOT TALE CAN CERTAINLY RAISE BUT I JUST CANT THINK <mark>SENATOR PRYOR</mark> ALL TALKING ABOUT LEE REEVES FROM A PARTICULARLY GOVERNMENTAL AND STATE GOVERNMENT")
+
+      expect(transcript_snippet_2.snippet).to eq(" NOW I MAKE NO APOLOGIES FOR STORIES I MAY OR MAY NOT TALE CAN CERTAINLY RAISE BUT I JUST CANT THINK <mark>SENATOR PRYOR</mark> ALL TALKING ABOUT LEE REEVES FROM A PARTICULARLY GOVERNMENTAL AND STATE GOVERNMENT")
       expect(transcript_snippet_2.match_timecode).to eq("2061.79")
     end
 
 
     it 'initializes with expected attrs for caption file' do
-      expect(transcript_snippet_3.snippet).to eq("SUMMER OF 1958 THAT ALLOWED THE LOST YEAR TO HAPPEN THE FIRST ONE WAS THAT THE SCHOOL BOARD HAD <mark>FILED FOR A DELAY</mark>  A NUMBER OF BUSINESS LEADERS PERSUADED A MAJORITY OF THE MEMBERS OF THE SCHOOL")
+      expect(transcript_snippet_3.snippet).to eq(" THE SUMMER OF 1958 THAT ALLOWED THE LOST YEAR TO HAPPEN THE FIRST ONE WAS THAT THE SCHOOL BOARD HAD <mark>FILED FOR A DELAY</mark>  A NUMBER OF BUSINESS LEADERS PERSUADED A MAJORITY OF THE MEMBERS OF THE SCHOOL")
     end
 
     it 'initializes with expected attrs for txt file' do
