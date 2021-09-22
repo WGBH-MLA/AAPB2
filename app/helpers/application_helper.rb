@@ -3,24 +3,41 @@ module ApplicationHelper
     return 'current-page' if current_page?(path)
   end
 
-  def clean_query_for_snippet(query)
-    # remove stopwords from query
-    stopwords = []
-    File.read(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt')).each_line do |line|
-      next if line.start_with?('#') || line.empty?
-      stopwords << line.upcase.strip
+  def query_to_terms_array(query)
+    return [] if !query || query.empty?
+
+    stopwords = Rails.cache.fetch("stopwords") do
+      sw = []
+      File.read(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt')).each_line do |line|
+        next if line.start_with?('#') || line.empty?
+        sw << line.upcase.strip
+      end
+      sw
     end
 
-    if query.include?("\"")
-      # "quoted clauses" are included in the search
-      # if any words exactly equal any stopwords, DELET THIS
 
-      q = query.split(/"/).collect { |s| s.strip.upcase.gsub(/[[:punct:]]/, '') }
-      return (1..q.length).zip(q).collect { |i, x| (i & 1).zero? ? x : x.split }.flatten.delete_if { |term| stopwords.any? { |stopword| stopword == term } }
+    terms_array = if query.include?(%("))
+
+      # pull out double quoted terms!
+      quoteds = query.scan(/"([^"]*)"/)
+      # now remove them from the remaining query
+
+      quoteds.each {|q| query.remove!(q.first) }
+
+
+      query = query.gsub(/[[:punct:]]/, '').upcase
+
+      # put it all together (removing any term thats just a stopword)
+      # and remove punctuation now that we've used our ""
+      quoteds.flatten.map(&:upcase) + (query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } })
+
+
     else
-      # no quoted clauses
-      return query.upcase.gsub(/[[:punct:]]/, '').split.delete_if { |term| stopwords.include?(term) }
+      query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } }
     end
+
+    # remove extra spaces and turn each term into word array
+    terms_array.map {|term| term.upcase.strip.gsub(/[^\w\s]/, "").split(" ") }
   end
 
   def get_last_day(month)
