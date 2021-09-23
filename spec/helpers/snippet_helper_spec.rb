@@ -55,6 +55,8 @@ describe SnippetHelper do
 
   describe '#new' do
     it 'initializes with the expected attrs' do
+      require 'pry'; binding.pry
+      
       expect(transcript_snippet_1.snippet).to eq("THIS 15TH ANNIVERSARY CELEBRATION AND DEDICATION CEREMONY IS MR GEORGE CAMPBELL CHAIRMAN OF THE <mark>ARKANSAS</mark> EDUCATIONAL TELEVISION COMMISSION GOOD AFTERNOON DISTINGUISHED GUESTS LADIES AND GENTLEMEN")
       expect(transcript_snippet_1.match_timecode).to eq("50.24")
     end
@@ -71,16 +73,12 @@ describe SnippetHelper do
 
     it 'initializes with expected attrs for txt file' do
       expect(transcript_snippet_4.snippet).to eq("AT THE OLD EXECUTIVE OFFICE BUILDING PRES RONALD REAGAN AFTER EXAMINING THE RECORDS OF MORE THAN <mark>TWO DOZEN FINE POTENTIAL NOMINEES FOR THE POSITION OF SECRETARY OF THE INTERIOR</mark> I HAVE DECIDED TO")
-    end    
+    end
   end
 
   describe '#url_at_timecode' do
     it 'returns the expected URL with timecode' do
-<<<<<<< HEAD
-      expect(transcript_snippet_1.url_at_timecode).to eq("/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&proxy_start_time=45.37")
-=======
-      expect(transcript_snippet_1.url_at_timecode).to eq("/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&#at_50.24_s")
->>>>>>> 2283-center-highlit-search-term
+      expect(transcript_snippet_1.url_at_timecode).to eq("/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&proxy_start_time=50.24")
     end
   end
 
