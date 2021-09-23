@@ -227,6 +227,7 @@ class CatalogController < ApplicationController
       fixed_matches = {}
       # value is unused because the presence of the guid as a key is what indicates the match
       matched_in_text_field.map { |k, _v| fixed_matches[normalize_guid(k)] = {} }
+      @snippets = {}
 
       @document_list.each do |solr_doc|
         this_id = normalize_guid(solr_doc[:id])
