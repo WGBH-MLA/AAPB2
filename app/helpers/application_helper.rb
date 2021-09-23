@@ -37,13 +37,12 @@ module ApplicationHelper
       # and remove punctuation now that we've used our ""
       quoteds.flatten.map(&:upcase) + (query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } })
 
-
     else
       query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } }
     end
 
     # remove extra spaces and turn each term into word array
-    terms_array.map {|term| term.upcase.strip.gsub(/[\W\S]/, "").split(" ") }
+    terms_array.map {|term| term.upcase.strip.gsub(/[^\w\s]/, "").split(" ") }
   end
 
   def get_last_day(month)
