@@ -23,8 +23,8 @@ jobs:
       - name: Start Rails
         run: nohup bundle exec rails server &
 
-      - name: Run Rspec specs using Ci config
-        run: bundle exec rake ci
+      - name: Run Rspec specs using CI config
+        run: bundle exec rake ci_specs
 
       - name: Run Rubocop code analyzer and Formatter
         run: bundle exec rubocop -D
