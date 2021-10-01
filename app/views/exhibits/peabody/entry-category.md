@@ -331,7 +331,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Coming Space Age, The](https://americanarchive.org/catalog/cpb-aacip-512-nk3610wt5k) | 1958<br/>
 [Jung Speaks of Freud](https://americanarchive.org/catalog/cpb-aacip-526-st7dr2qj7p) | 1958<br/>
 [Target: Future; Pilot's Report on the X-15 [1958-03-11]](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dv26) | 1958<br/>
-[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Metroplex+Assembly) | 1959<br/>
+[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Metroplex+Assembly) | 1959<br/>
 [Miscellaneous; Values We Live By](https://americanarchive.org/catalog/cpb-aacip-80-60qrg9wk) | 1959<br/>
 [United States in a World of Revolt, The](https://americanarchive.org/catalog/cpb-aacip-80-75dbsj8d) | 1959<br/>
 [Laughter's a Funny Business; No. 4; Inhibition](https://americanarchive.org/catalog/cpb-aacip-15-31cjt796) | 1960<br/>
