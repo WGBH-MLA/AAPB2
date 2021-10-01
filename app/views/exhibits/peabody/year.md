@@ -109,7 +109,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 [Cooper Union Forum, The; The Psychological Aspects of Creativity; Creativity: Normal or Neurotic [1959-10-15]](https://americanarchive.org/catalog/cpb-aacip-80-31qfvbz7) | WNYC<br/>
 [Documentary; The Scourge of Narcotics](https://americanarchive.org/catalog/cpb-aacip-80-35t776nf) | WNYC<br/>
-[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Metroplex+Assembly) | KETC<br/>
+[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Metroplex+Assembly) | KETC<br/>
 [Miscellaneous; Values We Live By](https://americanarchive.org/catalog/cpb-aacip-80-60qrg9wk) | WNYC<br/>
 [United States in a World of Revolt, The](https://americanarchive.org/catalog/cpb-aacip-80-75dbsj8d) | WNYC<br/>
 
