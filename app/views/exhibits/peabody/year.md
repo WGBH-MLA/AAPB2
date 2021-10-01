@@ -806,7 +806,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Making the Grade 1991; Shopping for Schools: Educational Choices in the 90's](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss4r) | WTTW<br/>
 [Making the Grade 1991; Teach Me!](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qs8t) | WTTW<br/>
 [Mission from the Heart; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-qn5z9f3c) | New Jersey Network<br/>
-[Mississippi Masters; No. 1; John C. Stennis: A Senator's Senator](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=John+C.+Stennis%3A+A+Senator%27s+Senator&f[access_types][]=online) | Mississippi Educational Television<br/>
+[Mississippi Masters; No. 1; John C. Stennis: A Senator's Senator](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=John+C.+Stennis%3A+A+Senator%27s+Senator&sort=title+asc) | Mississippi Educational Television<br/>
 [Oregon Field Guide [1991-10-03 & 1991-11-07]](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m472) | Oregon Public Broadcasting<br/>
 [Outside the Moscow Beltway; Letter from Ukraine & Interview on Kazakhstan [1991-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq1h) | KPFA<br/>
 [Outside the Moscow Beltway; Gary Cook of Baikal Watch [1991-12-30]](https://americanarchive.org/catalog/cpb-aacip-526-0v89g5hb6g) | KPFA<br/>
