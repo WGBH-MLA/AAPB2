@@ -131,7 +131,7 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 [A Walk Through the 20th Century With Bill Moyers; TR and His Times](https://americanarchive.org/catalog/cpb-aacip-75-21ghxc3d) | 1984 | Corporation for Entertainment and Learning | WNET  | KQED-TV<br/>
 [WGBH Radio, Boston, Massachusetts (Compilation)](https://americanarchive.org/catalog/cpb-aacip-526-0p0wp9v26q) | 1985 | WGBH <br/>
 [Breakdown and Back](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt6f) | 1985 | KEYA (Belcourt, N.D.)<br/>
-[Non-Fiction Television; The Times of Harvey Milk [1985-11-13]](https://americanarchive.org/catalog?f%5Btitle_titles%5D%5B%5D=The+Times+of+Harvey+Milk&f[access_types][]=all) | 1985 | The Harvey Milk Film Project, Inc. | The Television Laboratory at WNET/13 | WNET/13<br/>
+[Non-Fiction Television; The Times of Harvey Milk [1985-11-13]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bepisode_titles%5D%5B%5D=The+Times+of+Harvey+Milk&sort=title+asc) | 1985 | The Harvey Milk Film Project, Inc. | The Television Laboratory at WNET/13 | WNET/13<br/>
 [Masterpiece Theater; Paradise Postponed](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Paradise+postponed&sort=title+asc) | 1986 | WGBH  | Thames Television, ltd.<br/>
 [Nature; A Season In the Sun](https://americanarchive.org/catalog/cpb-aacip-75-773txmc7) | 1987 | WNET<br/>
 [Corridos! Tales of Passion and Revolution](https://americanarchive.org/catalog/cpb-aacip-55-rj48p5vt80) | 1987 | Public Broadcasting Service (U.S.) | KQED-TV | Teatro Campesino (Organization)<br/>
