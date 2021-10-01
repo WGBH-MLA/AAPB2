@@ -326,7 +326,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Campaign and the Candidates, The; No. 2; Governor's Race](https://americanarchive.org/catalog/cpb-aacip-526-df6k06z331) | WILL<br/>
 [Elections '78: Prelude to '80; No. 4; Election Special](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n10k) | South Carolina Educational Television Network | KERA<br/>
 [Elections '78: Prelude to '80; One-hour analysis program](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7009p) | KERA<br/>
-[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT2&q=eric+hoffer&f[access_types][]=online) | WPBT<br/>
+[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Eric+Hoffer%3A+The+Crowded+Life&sort=title+asc&f[access_types][]=online) | WPBT<br/>
 [Freestyle; Scoop [1978-10-30]](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn4b) | KCET<br/>
 [Freestyle; No. 110; Young and Old [1978-12-04]](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7351z) | KCET<br/>
 [Freestyle; No. 111; Good Signs [1978-12-11]](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng2t) | KCET<br/>
