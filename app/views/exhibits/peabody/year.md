@@ -422,7 +422,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [John Callaway Interviews; Mike Wallace [1981-10-01]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp45) | WTTW<br/>
 [John Callaway Interviews; Howard Cosell [1981-11-10]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97j32) | WTTW<br/>
 [National Health Quiz, The](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf07) | KERA<br/>
-[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT&q=%22nightly+business+report%22&f[access_types][]=online) | WPBT<br/>
+[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Nightly+business+report&sort=asset_date+asc&f[access_types][]=online) | WPBT<br/>
 [Over Easy; No. 5001; Education](https://americanarchive.org/catalog/cpb-aacip-55-8380h864) | KQED<br/>
 [Over Easy; No. 5019; Widows and Widowers](https://americanarchive.org/catalog/cpb-aacip-526-542j679w10) | KQED<br/>
 [Passover](https://americanarchive.org/catalog/cpb-aacip-526-9z9086494g) | Mississippi Educational Television Network<br/>
