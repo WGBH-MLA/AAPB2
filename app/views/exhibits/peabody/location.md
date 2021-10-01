@@ -384,10 +384,10 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Politithon '70](https://americanarchive.org/catalog/cpb-aacip-526-w08w951w8s) | 1970<br/>
 [Meet the Candidates](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g84) | 1976<br/>
 [Wellsprings](https://americanarchive.org/catalog/cpb-aacip-42-34sj405h) | 1976<br/>
-[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT2&q=eric+hoffer&f[access_types][]=online) | 1978<br/>
+[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Eric+Hoffer%3A+The+Crowded+Life&sort=title+asc&f[access_types][]=online) | 1978<br/>
 [Que Pasa, U.S.A.?; No. 28; The First Move [1977-01-11]](https://americanarchive.org/catalog/cpb-aacip-15-8279dqmr) | 1979<br/>
 [NAACP convention 1980](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=NAACP+convention+1980) | 1980<br/>
-[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT&q=%22nightly+business+report%22&f[access_types][]=online) | 1981<br/>
+[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Election+Coverage+1981+-+Compilation&sort=title+asc&f[access_types][]=online) | 1981<br/>
 [Nightly Business Report, The; The Bell Breakup: The 7 Regionals & the New AT&T](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qt6g) | 1983<br/>
 [Nightly Business Report, The; The Williamsburg Summit](https://americanarchive.org/catalog/cpb-aacip-526-1v5bc3tv6q) | 1983<br/>
 [In Quest Of Excellence](https://americanarchive.org/catalog/cpb-aacip-526-5m6251gm86) | 1984<br/>
