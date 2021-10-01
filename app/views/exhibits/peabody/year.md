@@ -721,7 +721,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Other Connecticut, The](https://americanarchive.org/catalog/cpb-aacip-398-89d51pcr) | Connecticut Public Television<br/>
 [Other Faces of AIDS](https://americanarchive.org/catalog/cpb-aacip-394-41zcrq37) | Maryland Public Television<br/>
 [Power of Algebra, The; No. 009; Fractions](https://americanarchive.org/catalog/cpb-aacip-17-07tmqb4p) | Louisiana Public Broadcasting<br/>
-[Project Crossroads; All God's People](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=All+God%27s+People) | KERA<br/>
+[Project Crossroads; All God's People](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=All+God%27s+People&sort=title+asc) | KERA<br/>
 [Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f) | KERA<br/>
 [Quality of Mercy](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss3f) | WXXI<br/>
 [Remembering Stonewall](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m38) | Pacifica Radio<br/>
