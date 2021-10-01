@@ -698,7 +698,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [America's Century; No. 3; Familiar Enemies](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c920) | WNYC<br/>
 [America's Century; No. 6; The Next Century](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q39k) | WNYC<br/>
 [Arctic Haze](https://americanarchive.org/catalog/cpb-aacip-526-q814m92k77) | KUAC<br/>
-[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music [1989-12-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Arts+Alive+From+the+Algonquin&sort=title+asc) | WNYC<br/>
+[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music [1989-12-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Arts+Alive+from+the+Algonquin&sort=title+asc) | WNYC<br/>
 [By The Year 2000; Coverage Lost](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c46k) | KCET<br/>
 [By The Year 2000; Emergency Room Collapse](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt5v) | KCET<br/>
 [By The Year 2000; Healing the System](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Healing+the+System) | KCET<br/>
