@@ -13,7 +13,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Cooper Union Forum; Psychotherapy and Hindu Philosophy [1957-12-26]](https://americanarchive.org/catalog/cpb-aacip-80-35gb66d7) | 1957<br/>
 [Cooper Union Forum, The; The Psychological Aspects of Creativity; Creativity: Normal or Neurotic [1959-10-15]](https://americanarchive.org/catalog/cpb-aacip-80-31qfvbz7) | 1959<br/>
 [Alabama Supreme Court, The: A Changing Constant](https://americanarchive.org/catalog/cpb-aacip-526-gq6qz23k4b) | 1978<br/>
-[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT2&q=eric+hoffer&f[access_types][]=online) | 1978<br/>
+[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Eric+Hoffer%3A+The+Crowded+Life&sort=title+asc&f[access_types][]=online) | 1978<br/>
 [How Do You Like the World](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=How+Do+You+Like+the+World&sort=title+asc) | 1978<br/>
 [Islander, The](https://americanarchive.org/catalog/cpb-aacip-60-82x3fqxx) | 1978<br/>
 [Parchman Trials, The](https://americanarchive.org/catalog/cpb-aacip-526-1n7xk85j5j) | 1978<br/>
@@ -597,7 +597,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [Foreign Exchange; Poland [1981-03-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Poland&sort=title+asc) | 1981<br/>
 [Foreign Exchange; Terrorism [1981-04-21]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Terrorism&sort=title+asc) | 1981<br/>
 [Foreign Exchange; Latin America: Policies at the Crossroads [1981-05-05]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Latin+America%3A+Policies+at+the+Crossroads&sort=title+asc) | 1981<br/>
-[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT&q=%22nightly+business+report%22&f[access_types][]=online) | 1981<br/>
+[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Nightly+business+report&sort=asset_date+asc&f[access_types][]=online) | 1981<br/>
 [Business Edition with David Johnson; No. 113](https://americanarchive.org/catalog/cpb-aacip-526-bk16m34688) | 1982<br/>
 [New Hampshire Journal; No. 201](https://americanarchive.org/catalog/cpb-aacip-526-4x54f1nj80) | 1982<br/>
 [Postscript](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng1h) | 1982<br/>
@@ -869,7 +869,7 @@ Organized by Peabody Awards entry category, this list includes Peabody Awards su
 [As It Happens; Indian Stereotyping](https://americanarchive.org/catalog/cpb-aacip-526-319s17tp5r) | 1980<br/>
 [National Nuclear Debate, The](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+National+Nuclear+Debate) | 1980<br/>
 [Day after Trinity, The: J. Robert Oppenheimer and the Atomic Bomb](https://americanarchive.org/catalog/cpb-aacip-526-m61bk17x41) | 1981<br/>
-[Election Coverage 1981; Compilation](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=Election+Coverage+1981.+Compilation) | 1981<br/>
+[Election Coverage 1981; Compilation](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Election+Coverage+1981+-+Compilation&sort=title+asc&f[access_types][]=online) | 1981<br/>
 [National Health Quiz, The](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf07) | 1981<br/>
 [Pro-Con with Charlayne Hunter-Gault; Abortion [1981-10-15]](https://americanarchive.org/catalog/cpb-aacip-526-dr2p55fk3j) | 1981<br/>
 [Over Easy; No. 5001; Education](https://americanarchive.org/catalog/cpb-aacip-55-8380h864) | 1981<br/>
