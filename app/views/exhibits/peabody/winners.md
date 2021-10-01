@@ -132,11 +132,11 @@ The following list presents Peabody Award winners in the AAPB collection ordered
 [WGBH Radio, Boston, Massachusetts (Compilation)](https://americanarchive.org/catalog/cpb-aacip-526-0p0wp9v26q) | 1985 | WGBH <br/>
 [Breakdown and Back](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt6f) | 1985 | KEYA (Belcourt, N.D.)<br/>
 [Non-Fiction Television; The Times of Harvey Milk [1985-11-13]](https://americanarchive.org/catalog?f%5Btitle_titles%5D%5B%5D=The+Times+of+Harvey+Milk&f[access_types][]=all) | 1985 | The Harvey Milk Film Project, Inc. | The Television Laboratory at WNET/13 | WNET/13<br/>
-[Masterpiece Theater; Paradise Postponed](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bprogram_titles%5D%5B%5D=Paradise+Postponed&sort=title+asc) | 1986 | WGBH  | Thames Television, ltd.<br/>
+[Masterpiece Theater; Paradise Postponed](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Paradise+postponed&sort=title+asc) | 1986 | WGBH  | Thames Television, ltd.<br/>
 [Nature; A Season In the Sun](https://americanarchive.org/catalog/cpb-aacip-75-773txmc7) | 1987 | WNET<br/>
 [Corridos! Tales of Passion and Revolution](https://americanarchive.org/catalog/cpb-aacip-55-rj48p5vt80) | 1987 | Public Broadcasting Service (U.S.) | KQED-TV | Teatro Campesino (Organization)<br/>
 [Shoah](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Shoah&sort=title+asc) | 1987 | WNET<br/>
-[...And The Pursuit of Happiness](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=...And+the+Pursuit+of+Happiness&f[access_types][]=online) | 1988 | WTTW<br/>
+[...And The Pursuit of Happiness](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bprogram_titles%5D%5B%5D=...And+the+Pursuit+of+Happiness&sort=title+asc) | 1988 | WTTW<br/>
 [CE NewsMagazine; No. 4; Campaign '88 [alternate title: Children`s Express Newsmagazine]](https://americanarchive.org/catalog/cpb-aacip-526-804xg9g836) | 1988 | South Carolina Educational Television Network<br/>
 [A Conversation with Dean Rusk, with Edwin Newman; The Making of a Public Servant; Coming of Age](https://americanarchive.org/catalog/cpb-aacip-526-3n20c4tk42) | 1990 | The Southern Center for International Studies<br/>
 [A Conversation with Dean Rusk, with Edwin Newman; The Making of a Public Servant; Military Service to Civil Service](https://americanarchive.org/catalog/cpb-aacip-526-qn5z60d736) | 1990 | The Southern Center for International Studies<br/>
