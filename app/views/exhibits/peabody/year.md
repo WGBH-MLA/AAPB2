@@ -411,7 +411,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Community of Living Things: Colonies](https://americanarchive.org/catalog/cpb-aacip-387-2683bnmt) | WHRO<br/>
 [Corporate Whale, The: ANCSA: Ten Years Later; The History](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34np1h) | KUAC<br/>
 [Day after Trinity, The: J. Robert Oppenheimer and the Atomic Bomb](https://americanarchive.org/catalog/cpb-aacip-526-m61bk17x41) | KTEH<br/>
-[Election Coverage 1981; Compilation](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=Election+Coverage+1981.+Compilation) | New Jersey Network<br/>
+[Election Coverage 1981; Compilation](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Election+Coverage+1981+-+Compilation&sort=title+asc&f[access_types][]=online) | New Jersey Network<br/>
 [End of an Aquifer, The](https://americanarchive.org/catalog/cpb-aacip-191-80vq8bkg) | KNME<br/>
 [Exchange; Threat to the Rain Forest [1981-09-04]](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z12h) | KERA<br/>
 [Foreign Exchange; Poland [1981-03-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Poland&sort=title+asc) | KQED<br/>
