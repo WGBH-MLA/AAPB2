@@ -865,7 +865,7 @@ Ordered by location of the producing station, this list includes Peabody Awards 
 [Soap Box; The Slum](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc46) | 1955<br/>
 [Free Assembly of Greater Saint Louis Documentary on the Series](https://americanarchive.org/catalog/cpb-aacip-526-9s1kh0g07g) | 1957<br/>
 [Free Assembly of Greater Saint Louis; Episode 2](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w44f) | 1957<br/>
-[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Metroplex+Assembly) | 1959<br/>
+[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Metroplex+Assembly) | 1959<br/>
 [Postscript](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng1h) | 1982<br/>
 [Highway 40; Masters and Johnson and the threat of AIDS](https://americanarchive.org/catalog/cpb-aacip-110-16c2ftdq) | 1988<br/>
 [St. Louis Skyline; No. 805](https://americanarchive.org/catalog/cpb-aacip-526-b853f4mr5v) | 1988<br/>
