@@ -83,6 +83,14 @@ describe SnippetHelper do
       expect(query_to_terms_array(%(extremist is cheddar "president of the Eisenhower"))).to eq([%w(PRESIDENT OF THE EISENHOWER), ["EXTREMIST"], ["CHEDDAR"]])
     end
   end
+
+  context 'when plaintext param is nil (for whatever reason)', :focus do
+    it 'does not raise an error' do
+      expect { Snippet.new('fake-id', [['fake query']], nil) }.to_not raise_error
+      expect { TimecodeSnippet.new('fake-id', [['fake query']], nil, []) }.to_not raise_error
+    end
+  end
+
   after(:all) do
     # Re-disable WebMock so other tests can use actual connections.
     WebMock.disable!
