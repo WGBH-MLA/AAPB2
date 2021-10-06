@@ -37,7 +37,7 @@ describe 'Embed' do
     before { visit 'embed/cpb-aacip_moving-image-protected' }
     it 'does not show the video player' do
       expect(page).not_to have_css('video')
-      expect(page).to have_content "This content is only available at GBH and the Library of Congress."
+      expect(page).to have_content "This content is only available at GBH and the Library of Congress"
     end
 
     # When embedding, links back to AAPB need to open in a new window
@@ -51,7 +51,7 @@ describe 'Embed' do
     before { visit 'embed/cpb-aacip_moving-image-private' }
     it 'does not show the video player' do
       expect(page).not_to have_css('video')
-      expect(page).to have_content "This content is only available at the Library of Congress."
+      expect(page).to have_content "This content is only available at the Library of Congress"
     end
 
     # When embedding, links back to AAPB need to open in a new window

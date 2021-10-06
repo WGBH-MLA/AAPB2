@@ -5,7 +5,7 @@ module SnippetHelper
       # each term is either a single word or a "exact match" phrase
       # phrases come first in array, so if whole match is there WELL FIND IT
       @terms_array = terms_array
-      @plaintext = plaintext.gsub(/[[:punct:]]/, '').upcase
+      @plaintext = plaintext.to_s.gsub(/[[:punct:]]/, '').upcase
     end
 
     def left_chunk_indicies(match_index)
@@ -33,7 +33,7 @@ module SnippetHelper
         # grab the chunk around our match and clean up the crap
         txt = (@plaintext[left_chunk_indicies(start_index)] + @plaintext[right_chunk_indicies(start_index)]).gsub(/\A\w+\s{1}/, '').gsub(/\s{1}\w+\z/, '')
 
-        # and highlifght
+        # and highlight
         break
       end
 
