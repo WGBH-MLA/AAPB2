@@ -23,6 +23,7 @@ The BMA was established in 1995, with the Peabody Awards Collection as the basis
 
 ## Resources
 
+- [Exploring Public Media in the Peabody Awards Collection online exhibit](https://americanarchive.org/exhibits/peabody)
 - [The Walter J. Brown Media Archives & Peabody Awards Collection](https://bmac.libs.uga.edu/pawtucket2/)
 - [Peabody Awards website](http://peabodyawards.com/)
 - [Peabody Awards Collection, BMA](https://bmac.libs.uga.edu/pawtucket2/index.php/Peabody/Index)
