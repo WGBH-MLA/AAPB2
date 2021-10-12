@@ -10,4 +10,8 @@ module AAPB
   PLAYER_WIDTH_TRANSCRIPT_16_9 = '562'.freeze
   PLAYER_HEIGHT_NO_TRANSCRIPT_16_9 = '383'.freeze
   PLAYER_WIDTH_NO_TRANSCRIPT_16_9 = '680'.freeze
+
+  def self.valid_id?(id)
+    id =~ /\Acpb-aacip[\-_\/](\S*)/ ? true : false
+  end
 end

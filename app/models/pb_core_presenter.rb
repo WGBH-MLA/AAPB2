@@ -31,6 +31,26 @@ class PBCorePresenter
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
+  def descriptions_with_types
+    @descriptions_with_types ||= pairs_by_type('/*/pbcoreDescription', '@descriptionType').map!{ |pair|
+      pair.map!{ |value| value.nil? ? "" : HtmlScrubber.scrub(value) }
+      pair[0].nil? ? pair[0] = "Description" : pair[0]
+      pair[1].nil? ? pair[1] = "" : pair[1]
+      [ pair[0], pair[1] ]
+    }
+  end
+  def sorted_descriptions
+    ( descriptions_with_types.select{ |pair| pair[0] == "Episode" } +
+      descriptions_with_types.select{ |pair| pair[0] == "Program" } +
+      descriptions_with_types.select{ |pair| pair[0] == "Description" } +
+      descriptions_with_types.select{ |pair| pair[0] == "Series" } +
+      descriptions_with_types ).uniq
+  end
+  def display_descriptions
+    @display_descriptions ||= sorted_descriptions.map! { |desc|
+      [ (desc[0].strip.downcase != "description" ? "#{desc[0].strip} Description" : "Other Description"), desc[1] ]
+    }
+  end
   def genres
     @genres ||= xpaths('/*/pbcoreGenre[@annotation="genre"]')
   end
@@ -91,12 +111,17 @@ class PBCorePresenter
     nil
   end
   def asset_dates
-    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType')
+    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType').map{ |pair| pair.map{ |value| value.nil? ? "" : value.strip } }
   end
   def asset_date
     @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
   rescue NoMatchError
     nil
+  end
+  def display_asset_dates
+    @display_asset_dates ||= asset_dates.map! { |date|
+      [ ((date[0].strip.downcase != "copyright date" && date[0].strip.downcase != "date") ? "#{date[0]} Date".strip : date[0]), date[1] ]
+    }
   end
   def titles
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
@@ -543,7 +568,8 @@ class PBCorePresenter
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl, :original_id,
-      :transcript_html, :fixitplus_url, :transcript_message, :proxy_start_time
+      :transcript_html, :fixitplus_url, :transcript_message, :proxy_start_time,
+      :sorted_descriptions, :display_descriptions, :display_asset_dates, :descriptions_with_types
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)

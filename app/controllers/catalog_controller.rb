@@ -245,7 +245,7 @@ class CatalogController < ApplicationController
           transcript_file = TranscriptFile.new(solr_doc.transcript_src)
           if transcript_file.file_type == TranscriptFile::JSON_FILE
 
-            ts = TimecodeSnippet.new(this_id, @terms_array,  transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
+            ts = TimecodeSnippet.new(this_id, @terms_array, transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
 
             @snippets[this_id][:transcript] = ts.snippet
             @snippets[this_id][:transcript_timecode_url] = ts.url_at_timecode
@@ -257,10 +257,9 @@ class CatalogController < ApplicationController
 
         end
 
-        if !caption_file.captions_src.nil?
+        unless caption_file.captions_src.nil?
           s = Snippet.new(this_id, @terms_array, caption_file.text)
           @snippets[this_id][:caption] = s.snippet
-
         end
       end
     end

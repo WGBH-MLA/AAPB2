@@ -1,12 +1,13 @@
-<dl>
-  <% @pbcore.descriptions.each do |description| %>
-    <dd><%= description %></dd>
-  <% end %>
-</dl>
-
-<% unless @pbcore.asset_dates.empty? %>
+<% @pbcore.display_descriptions.each do |type,description| %>
   <dl>
-    <% @pbcore.asset_dates.each do |type,date| %>
+    <dt><%= type %></dt>
+    <dd><%= description %></dd>
+  </dl>
+<% end %>
+
+<% unless @pbcore.display_asset_dates.empty? %>
+  <dl>
+    <% @pbcore.display_asset_dates.each do |type,date| %>
       <dt><%= type %></dt>
       <dd><%= date %></dd>
     <% end %>

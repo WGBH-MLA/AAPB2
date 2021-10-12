@@ -523,7 +523,7 @@ describe 'Catalog' do
         visit 'catalog/cpb-aacip_111-21ghx7d6'
         ENV.delete('RAILS_TEST_IP_ADDRESS')
         expect_all_the_text('clean-exhibit.xml')
-        expect(page).to have_text('only available at GBH and the Library of Congress. '), missing_page_text_custom_error('only available at GBH and the Library of Congress. ', page.current_path)
+        expect(page).to have_text('only available at GBH and the Library of Congress'), missing_page_text_custom_error('only available at GBH and the Library of Congress. ', page.current_path)
         expect_no_media
       end
 
