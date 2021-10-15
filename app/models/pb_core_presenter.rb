@@ -32,23 +32,23 @@ class PBCorePresenter
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
   def descriptions_with_types
-    @descriptions_with_types ||= pairs_by_type('/*/pbcoreDescription', '@descriptionType').map!{ |pair|
-      pair.map!{ |value| value.nil? ? "" : HtmlScrubber.scrub(value) }
+    @descriptions_with_types ||= pairs_by_type('/*/pbcoreDescription', '@descriptionType').map! do |pair|
+      pair.map! { |value| value.nil? ? "" : HtmlScrubber.scrub(value) }
       pair[0].nil? ? pair[0] = "Description" : pair[0]
       pair[1].nil? ? pair[1] = "" : pair[1]
-      [ pair[0], pair[1] ]
-    }
+      [pair[0], pair[1]]
+    end
   end
   def sorted_descriptions
-    ( descriptions_with_types.select{ |pair| pair[0] == "Episode" } +
-      descriptions_with_types.select{ |pair| pair[0] == "Program" } +
-      descriptions_with_types.select{ |pair| pair[0] == "Description" } +
-      descriptions_with_types.select{ |pair| pair[0] == "Series" } +
-      descriptions_with_types ).uniq
+    (descriptions_with_types.select { |pair| pair[0] == "Episode" } +
+     descriptions_with_types.select { |pair| pair[0] == "Program" } +
+     descriptions_with_types.select { |pair| pair[0] == "Description" } +
+     descriptions_with_types.select { |pair| pair[0] == "Series" } +
+     descriptions_with_types).uniq
   end
   def display_descriptions
     @display_descriptions ||= sorted_descriptions.map! { |desc|
-      [ (desc[0].strip.downcase != "description" ? "#{desc[0].strip} Description" : "Other Description"), desc[1] ]
+      [(desc[0].strip.downcase != "description" ? "#{desc[0].strip} Description" : "Other Description"), desc[1]]
     }
   end
   def genres
@@ -111,7 +111,9 @@ class PBCorePresenter
     nil
   end
   def asset_dates
-    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType').map{ |pair| pair.map{ |value| value.nil? ? "" : value.strip } }
+    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType').map do |pair|
+      pair.map { |value| value.nil? ? "" : value.strip }
+    end
   end
   def asset_date
     @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
@@ -120,7 +122,7 @@ class PBCorePresenter
   end
   def display_asset_dates
     @display_asset_dates ||= asset_dates.map! { |date|
-      [ ((date[0].strip.downcase != "copyright date" && date[0].strip.downcase != "date") ? "#{date[0]} Date".strip : date[0]), date[1] ]
+      [((date[0].strip.downcase != "copyright date" && date[0].strip.downcase != "date") ? "#{date[0]} Date".strip : date[0]), date[1]]
     }
   end
   def titles

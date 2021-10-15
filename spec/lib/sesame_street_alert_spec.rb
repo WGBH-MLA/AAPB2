@@ -7,7 +7,6 @@ RSpec.describe SesameStreetAlert do
     end
   end
 
-
   describe '#show?' do
     let(:sesame_st_guid) { SesameStreetAlert.guids.sample }
     let(:non_sesame_st_guid) { 'cpb-aacip-123abc' }

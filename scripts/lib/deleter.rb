@@ -7,7 +7,6 @@ require 'logger'
 require 'rake'
 
 class Deleter
-
   def initialize(ids)
     @ids = validate_ids(ids)
   end
