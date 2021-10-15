@@ -1,0 +1,21 @@
+.record-alert {
+  // colors
+  $color-bg: #ddbbbb;
+  $color-border: #aa2222;
+
+  width: 100%;
+  background-color: $color-bg;
+  border: solid 1px $color-border;
+  padding: 1.5em;
+  margin: 0 0 2em 0;
+  position: relative;
+
+  .close-btn {
+    cursor: pointer;
+    color: $color-border;
+    font-size: 2em;
+    position: absolute;
+    top: 0.2em;
+    right: 0.2em;
+  }
+}

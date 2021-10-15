@@ -41,6 +41,10 @@
 <% content_for :main do %>
   <% @page_title = t('blacklight.search.show.title', :document_title => @pbcore.title, :application_name => application_name) %>
 
+  <% if SesameStreetAlert.show?(@pbcore.id) %>
+      <%= render partial: 'catalog/sesame_street_alert' %>
+  <% end %>
+
   <div class="well well-sm media-thumb">
     <% if @skip_orr_terms == false %>
         <%= render partial: 'rules_of_use_modal' %>
