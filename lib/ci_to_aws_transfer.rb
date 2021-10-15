@@ -11,7 +11,7 @@ class CiToAWSTransfer
   def initialize(query:nil)
     raise 'query cannot be nil' if query.nil?
     @solr_docs = Solr.instance.connect.get('select', params: { fq: query.to_s, rows: 5_000 })['response']['docs']
-    @ci = SonyCiBasic.new(credentials_path: Rails.root + 'config/ci.yml')
+    @ci = SonyCiApi::Client.new( Rails.root + 'config/ci.yml' )
     @aws_client = Aws::S3::Client.new(
       access_key_id: ENV['AWS_ACCESS_KEY_ID'],
       secret_access_key: ENV['AWS_SECRET_ACCESS_KEY'],
@@ -55,7 +55,7 @@ class CiToAWSTransfer
     iteration = 1
     record[:ci_ids].each do |id|
       filename = record[:media_type] == "Moving Image" ? "#{record[:id]}-#{iteration}.mp4" : "#{record[:id]}-#{iteration}.mp3"
-      FileUtils.mv open(ci.download(id)), filename
+      FileUtils.mv open(ci.asset_download(id)), filename
     end
   rescue => e
     msg = e.class.to_s
