@@ -129,3 +129,16 @@ Lint/IneffectiveAccessModifier:
 Style/AsciiComments:
   Exclude:
     - 'spec/lib/markdown_spec.rb'
+
+# Disable this. str.downcase != other_str is fine and clearer than
+# str.casecmp(other_str) != 0 with very minimal performance hit.
+Performance/Casecmp:
+  Enabled: false
+
+# Use judgement. Using {...} delimiters for multi-line is considered OK if
+# the block returns something as opposed having some kind of side effect, e.g.
+# For example, #map can use {...} even when multiline.
+# Also, some innocent method chaining appended to a do...end block is sometimes
+# clearer than the alternative.
+Style/BlockDelimiters:
+  Enabled: false

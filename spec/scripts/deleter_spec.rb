@@ -2,11 +2,10 @@ require 'spec_helper'
 require_relative '../../scripts/lib/deleter'
 
 describe Deleter do
-
   context 'with an Array with invalid ID' do
     describe '.new' do
       it 'fails on an invalid ID' do
-        expect{ Deleter.new(["123"]) }.to raise_error(SystemExit)
+        expect { Deleter.new(["123"]) }.to raise_error(SystemExit)
       end
     end
   end
@@ -14,12 +13,12 @@ describe Deleter do
   context 'with an Array of valid IDs' do
     describe '.new' do
       it 'passes ID validation' do
-        expect{ Deleter.new(["cpb-aacip-123456", "cpb-aacip-78910"]) }.not_to raise_error
+        expect { Deleter.new(["cpb-aacip-123456", "cpb-aacip-78910"]) }.not_to raise_error
       end
     end
 
     describe '.delete' do
-      let(:ids) { [ "cpb-aacip-123456" ] }
+      let(:ids) { ["cpb-aacip-123456"] }
       let(:deleter) { Deleter.new(ids) }
       let(:fake_ingester) { instance_double(PBCoreIngester) }
 
@@ -38,7 +37,7 @@ describe Deleter do
   context "with something other than an Array" do
     describe '.new' do
       it 'raises an error' do
-        expect{ Deleter.new("cpb-aacip-123456") }.to raise_error(RuntimeError, "Invalid arguments for deleting AAPB records. Must be an Array of IDs.")
+        expect { Deleter.new("cpb-aacip-123456") }.to raise_error(RuntimeError, "Invalid arguments for deleting AAPB records. Must be an Array of IDs.")
       end
     end
   end

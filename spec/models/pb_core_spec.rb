@@ -512,7 +512,7 @@ describe 'Validated and plain PBCore' do
             ["Description", "This is a plain description"],
             ["Description", "This is another plain description"],
             ["Series", "This is the Series description"],
-            ["Segment", "This is the Segment description"],
+            ["Segment", "This is the Segment description"]
           ])
         end
       end

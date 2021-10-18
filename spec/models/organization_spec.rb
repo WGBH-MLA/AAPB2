@@ -1,15 +1,12 @@
 require_relative '../../app/models/organization'
+# rubocop:disable Style/MultilineBlockLayout, Style/MultilineOperationIndentation, Style/BlockEndNewline
 
 describe Organization do
   let(:wgbh) { Organization.find_by_pbcore_name('WGBH') }
   let(:loc) { Organization.find_by_pbcore_name('Library of Congress') }
 
-  # rubocop:disable Style/BlockDelimiters, Style/MultilineBlockLayout, Style/MultilineOperationIndentation, Style/BlockEndNewline
-
   let(:dirty_organization_names) { ["The Walter J. Brown Media Archives & Peabody Awards Collection at the\n" +
  "      University of Georgia"] }
-
-  # rubocop:enable Style/BlockDelimiters, Style/MultilineBlockLayout, Style/MultilineOperationIndentation  , Style/BlockEndNewline
 
   it 'contains expected data' do
     # Stubs RSolr get request as its used to generate the facet_url
