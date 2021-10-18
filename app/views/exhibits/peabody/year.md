@@ -109,7 +109,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 
 [Cooper Union Forum, The; The Psychological Aspects of Creativity; Creativity: Normal or Neurotic [1959-10-15]](https://americanarchive.org/catalog/cpb-aacip-80-31qfvbz7) | WNYC<br/>
 [Documentary; The Scourge of Narcotics](https://americanarchive.org/catalog/cpb-aacip-80-35t776nf) | WNYC<br/>
-[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Metroplex+Assembly) | KETC<br/>
+[Metroplex Assembly](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Metroplex+Assembly) | KETC<br/>
 [Miscellaneous; Values We Live By](https://americanarchive.org/catalog/cpb-aacip-80-60qrg9wk) | WNYC<br/>
 [United States in a World of Revolt, The](https://americanarchive.org/catalog/cpb-aacip-80-75dbsj8d) | WNYC<br/>
 
@@ -326,7 +326,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Campaign and the Candidates, The; No. 2; Governor's Race](https://americanarchive.org/catalog/cpb-aacip-526-df6k06z331) | WILL<br/>
 [Elections '78: Prelude to '80; No. 4; Election Special](https://americanarchive.org/catalog/cpb-aacip-526-8g8ff3n10k) | South Carolina Educational Television Network | KERA<br/>
 [Elections '78: Prelude to '80; One-hour analysis program](https://americanarchive.org/catalog/cpb-aacip-526-6h4cn7009p) | KERA<br/>
-[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT2&q=eric+hoffer&f[access_types][]=online) | WPBT<br/>
+[Eric Hoffer: The Crowded Life](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Eric+Hoffer%3A+The+Crowded+Life&sort=title+asc&f[access_types][]=online) | WPBT<br/>
 [Freestyle; Scoop [1978-10-30]](https://americanarchive.org/catalog/cpb-aacip-526-hd7np1xn4b) | KCET<br/>
 [Freestyle; No. 110; Young and Old [1978-12-04]](https://americanarchive.org/catalog/cpb-aacip-526-kp7tm7351z) | KCET<br/>
 [Freestyle; No. 111; Good Signs [1978-12-11]](https://americanarchive.org/catalog/cpb-aacip-526-5h7br8ng2t) | KCET<br/>
@@ -411,7 +411,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Community of Living Things: Colonies](https://americanarchive.org/catalog/cpb-aacip-387-2683bnmt) | WHRO<br/>
 [Corporate Whale, The: ANCSA: Ten Years Later; The History](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34np1h) | KUAC<br/>
 [Day after Trinity, The: J. Robert Oppenheimer and the Atomic Bomb](https://americanarchive.org/catalog/cpb-aacip-526-m61bk17x41) | KTEH<br/>
-[Election Coverage 1981; Compilation](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=Election+Coverage+1981.+Compilation) | New Jersey Network<br/>
+[Election Coverage 1981; Compilation](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Election+Coverage+1981+-+Compilation&sort=title+asc&f[access_types][]=online) | New Jersey Network<br/>
 [End of an Aquifer, The](https://americanarchive.org/catalog/cpb-aacip-191-80vq8bkg) | KNME<br/>
 [Exchange; Threat to the Rain Forest [1981-09-04]](https://americanarchive.org/catalog/cpb-aacip-526-f18sb3z12h) | KERA<br/>
 [Foreign Exchange; Poland [1981-03-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Poland&sort=title+asc) | KQED<br/>
@@ -422,7 +422,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [John Callaway Interviews; Mike Wallace [1981-10-01]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jp45) | WTTW<br/>
 [John Callaway Interviews; Howard Cosell [1981-11-10]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97j32) | WTTW<br/>
 [National Health Quiz, The](https://americanarchive.org/catalog/cpb-aacip-526-cc0tq5sf07) | KERA<br/>
-[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bproducing_organizations%5D%5B%5D=WPBT&q=%22nightly+business+report%22&f[access_types][]=online) | WPBT<br/>
+[Nightly Business Report, The](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Nightly+business+report&sort=asset_date+asc&f[access_types][]=online) | WPBT<br/>
 [Over Easy; No. 5001; Education](https://americanarchive.org/catalog/cpb-aacip-55-8380h864) | KQED<br/>
 [Over Easy; No. 5019; Widows and Widowers](https://americanarchive.org/catalog/cpb-aacip-526-542j679w10) | KQED<br/>
 [Passover](https://americanarchive.org/catalog/cpb-aacip-526-9z9086494g) | Mississippi Educational Television Network<br/>
@@ -484,7 +484,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Remembering Jewish Europe: From Tradition to Modernity; Warsaw [1983-04-10]](https://americanarchive.org/catalog/cpb-aacip-80-214mwsgs) | WNYC<br/>
 [September 1st, 1983](https://americanarchive.org/catalog/cpb-aacip-55-84mkmvwx) | KQED<br/>
 [State of Transition #2; Tom Urban, John Ruan, Richard Kosobud](https://americanarchive.org/catalog/cpb-aacip-37-86nzsjvj) | Iowa Public Television<br/>
-[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+of+Judgment%2C+The+Watergate+Hearings&sort=title+asc) | WETA<br/>
+[Summer of Judgment; The Watergate Hearings](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Summer+Of+Judgement%3A+The+Watergate+Hearings&sort=title+asc) | WETA<br/>
 [Time's Harvest: Exploring the Future; Technology's Heartbeat](https://americanarchive.org/catalog/cpb-aacip-526-9k45q4sp5n) | Maryland Center for Public Broadcasting<br/>
 [Vietnam: Unfinished Business](https://americanarchive.org/catalog/cpb-aacip-526-sn00z72713) | WTVI<br/>
 [When a Factory Closes](https://americanarchive.org/catalog/cpb-aacip-526-zc7rn31h9j) | WITF<br/>
@@ -520,10 +520,9 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [New Tech Times, The; No. 212](https://americanarchive.org/catalog/cpb-aacip-526-w37kp7w14v) | WHA<br/>
 [Nightly Business Report, The; Drugs In the Workplace [1984-07-04]](https://americanarchive.org/catalog/cpb-aacip-526-7w6736n45m) | WPBT<br/>
 [Now Tell Us All About the War](https://americanarchive.org/catalog/cpb-aacip-35-36tx99h9) | WCNY<br/>
-[On the Media](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=On+the+Media&exact_or_range=range&after_date=1984&before_date=1985&commit=Update) | WNYC<br/>
 [Shelter](https://americanarchive.org/catalog/cpb-aacip-283-61rfjj43) | KCTS<br/>
 [Small Things Considered; 1984 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-599z030615) | WTVI<br/>
-[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Voices+in+the+Hills%3A+Profiles+of+Vermont+Workers&sort=title+asc) | Vermont Public Radio<br/>
+[Voices in the Hills: Profiles of Vermont Workers](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Voices+in+the+Hills%3A+Profiles+of+Vermont+Workers&sort=title+asc) | Vermont Public Radio<br/>
 [Wisconsin magazine; No. 1016](https://americanarchive.org/catalog/cpb-aacip-29-9995xk4p) | PBS Wisconsin<br/>
 [Your Children, Our Children; No. 101; Life & Death](https://americanarchive.org/catalog/cpb-aacip-77-49t1h3fv) | KTCA<br/>
 
@@ -699,7 +698,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [America's Century; No. 3; Familiar Enemies](https://americanarchive.org/catalog/cpb-aacip-526-xk84j0c920) | WNYC<br/>
 [America's Century; No. 6; The Next Century](https://americanarchive.org/catalog/cpb-aacip-526-ws8hd7q39k) | WNYC<br/>
 [Arctic Haze](https://americanarchive.org/catalog/cpb-aacip-526-q814m92k77) | KUAC<br/>
-[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music [1989-12-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Arts+Alive+From+the+Algonquin&sort=title+asc) | WNYC<br/>
+[Arts Alive from the Algonquin; No. 12; Jazz as America's Classical Music [1989-12-17]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Arts+Alive+from+the+Algonquin&sort=title+asc) | WNYC<br/>
 [By The Year 2000; Coverage Lost](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c46k) | KCET<br/>
 [By The Year 2000; Emergency Room Collapse](https://americanarchive.org/catalog/cpb-aacip-526-kh0dv1dt5v) | KCET<br/>
 [By The Year 2000; Healing the System](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Healing+the+System) | KCET<br/>
@@ -722,7 +721,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Other Connecticut, The](https://americanarchive.org/catalog/cpb-aacip-398-89d51pcr) | Connecticut Public Television<br/>
 [Other Faces of AIDS](https://americanarchive.org/catalog/cpb-aacip-394-41zcrq37) | Maryland Public Television<br/>
 [Power of Algebra, The; No. 009; Fractions](https://americanarchive.org/catalog/cpb-aacip-17-07tmqb4p) | Louisiana Public Broadcasting<br/>
-[Project Crossroads; All God's People](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=All+God%27s+People) | KERA<br/>
+[Project Crossroads; All God's People](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=All+God%27s+People&sort=title+asc) | KERA<br/>
 [Project Crossroads; All God's People (radio version)](https://americanarchive.org/catalog/cpb-aacip-526-dz02z13v7f) | KERA<br/>
 [Quality of Mercy](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss3f) | WXXI<br/>
 [Remembering Stonewall](https://americanarchive.org/catalog/cpb-aacip-526-q814m92m38) | Pacifica Radio<br/>
@@ -787,9 +786,9 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [By The Year 2000; Policing the Police [1991-05-07]](https://americanarchive.org/catalog/cpb-aacip-526-cr5n87421p) | KCET<br/>
 [By The Year 2000; We Are Family [1991-06-21]](https://americanarchive.org/catalog/cpb-aacip-526-5717m05137) | KCET<br/>
 [By the Year 2000; The Color of Power [1991-07-12]](https://americanarchive.org/catalog/cpb-aacip-526-cz3222sb2k) | KCET<br/>
+[Chicago Matters; Gangs](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Gangs&sort=title+asc) | WTTW<br/>
 [Chicago Matters; No. 1347; Chicago Week in Review](https://americanarchive.org/catalog/cpb-aacip-526-2j6833nx77) | WTTW<br/>
 [Chicago Matters; Protect Yourself: Teaching Your Children About AIDS](https://americanarchive.org/catalog/cpb-aacip-526-wh2d796m92) | WTTW<br/>
-[Chicago Matters; Town Meeting](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=Town+Meeting&f%5Bproducing_organizations%5D%5B%5D=WTTW&f[access_types][]=online) | WTTW<br/>
 [Chicago Matters; What's Out There for J.R.?](https://americanarchive.org/catalog/cpb-aacip-526-4f1mg7gt3d) | WTTW<br/>
 [Chicago Tonight; No. 8155; Family Leave](https://americanarchive.org/catalog/cpb-aacip-526-mg7fq9rc2j) | WTTW<br/>
 [Chicago Tonight; No. 8167; DCFS](https://americanarchive.org/catalog/cpb-aacip-526-pn8x922q41) | WTTW<br/>
@@ -807,7 +806,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Making the Grade 1991; Shopping for Schools: Educational Choices in the 90's](https://americanarchive.org/catalog/cpb-aacip-526-901zc7ss4r) | WTTW<br/>
 [Making the Grade 1991; Teach Me!](https://americanarchive.org/catalog/cpb-aacip-526-r20rr1qs8t) | WTTW<br/>
 [Mission from the Heart; Target New Jersey](https://americanarchive.org/catalog/cpb-aacip-259-qn5z9f3c) | New Jersey Network<br/>
-[Mississippi Masters; No. 1; John C. Stennis: A Senator's Senator](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=John+C.+Stennis%3A+A+Senator%27s+Senator&f[access_types][]=online) | Mississippi Educational Television<br/>
+[Mississippi Masters; No. 1; John C. Stennis: A Senator's Senator](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=John+C.+Stennis%3A+A+Senator%27s+Senator&sort=title+asc) | Mississippi Educational Television<br/>
 [Oregon Field Guide [1991-10-03 & 1991-11-07]](https://americanarchive.org/catalog/cpb-aacip-526-gf0ms3m472) | Oregon Public Broadcasting<br/>
 [Outside the Moscow Beltway; Letter from Ukraine & Interview on Kazakhstan [1991-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-sx6445jq1h) | KPFA<br/>
 [Outside the Moscow Beltway; Gary Cook of Baikal Watch [1991-12-30]](https://americanarchive.org/catalog/cpb-aacip-526-0v89g5hb6g) | KPFA<br/>
@@ -839,9 +838,9 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Homework Hotline [1992-12-09]](https://americanarchive.org/catalog/cpb-aacip-526-gh9b56f864) | WXXI<br/>
 [I'm Really Going to Miss Me](https://americanarchive.org/catalog/cpb-aacip-153-06sxkvzn) | KOPB<br/>
 [Inside Hunger](https://americanarchive.org/catalog/cpb-aacip-526-ng4gm82w4m) | Georgia Public Television<br/>
-[KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Death+Penalty+and+the+Execution+of+Robert+Alton+Harris&sort=title+asc) | KPFA<br/>
-[Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Special+Edition%3A+After+the+Verdict) | KCET<br/>
-[Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Special+Edition%3A+Exit+King+Blvd.) | KCET<br/>
+[KPFA Radio News; The Death Penalty and the Execution of Robert Alton Harris](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=1992-04--excerpts%2C+The+Death+Penalty+and+the+Execution+of+Robert+Alton+Harris&sort=title+asc) | KPFA<br/>
+[Life & Times Special Edition; No. 159; After the Verdict; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Special+Edition%3A+After+the+Verdict&sort=title+asc) | KCET<br/>
+[Life & Times Special Edition; No. 198; Exit King Blvd; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Special+Edition%3A+Exit+King+Blvd.&sort=title+asc) | KCET<br/>
 [Life & Times; No. 168; Young L.A.: Rage & Responsibility; KCET coverage of Rodney King Verdict and Aftermath](https://americanarchive.org/catalog/cpb-aacip-526-z60bv7c69m) | KCET<br/>
 [Life & Times; Straight Hate [1992-10-29]](https://americanarchive.org/catalog/cpb-aacip-526-p55db7wx8k) | KCET<br/>
 [Life & Times; No. 158](https://americanarchive.org/catalog/cpb-aacip-526-tx3513w710) | KCET<br/>
@@ -861,7 +860,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Sex, Power and the Workplace](https://americanarchive.org/catalog/cpb-aacip-526-862b854j8j) | KCET<br/>
 [Surviving Columbus](https://americanarchive.org/catalog?f%5Bprogram_titles%5D%5B%5D=Surviving+Columbus&f[access_types][]=digitized) | KNME<br/>
 [WHRO Corporate Image Video](https://americanarchive.org/catalog/cpb-aacip-526-jd4pk0852d) | WHRO<br/>
-[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=WTTW+1992+Election+Coverage+Composite) | WTTW<br/>
+[WTTW 1992 Election Coverage Composite](https://americanarchive.org/catalog/cpb-aacip-526-086348hf5p) | WTTW<br/>
 [WTTW Journal; Chicago Matters; Something to Live For](https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t33) | WTTW<br/>
 [WTTW Journal; When She Grows Old](https://americanarchive.org/catalog/cpb-aacip-526-kk9474807c) | WTTW<br/>
 
@@ -927,24 +926,24 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [A Tribute to Glenn Miller](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=A+Tribute+to+Glenn+Miller) | WXXI<br/>
 [Assembly Week; No. 702](https://americanarchive.org/catalog/cpb-aacip-526-251fj2b967) | WHRO<br/>
 [Berlin Calling](https://americanarchive.org/catalog/cpb-aacip-526-8911n7zr10) | WUGA<br/>
-[Beyond Survival](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Beyond+Survival) | WHRO<br/>
+[Beyond Survival](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Beyond+Survival&sort=title+asc) | WHRO<br/>
 [Bridges: A Liberal/Conservative Dialogue with Larry Josephson; No. 6; Shelby Steel: Portrait of a Black Conservative [1994-08-14]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bseries_titles%5D%5B%5D=Bridges%3A+A+Liberal%2FConservative+Dialogue+with+Larry+Josephson&sort=title+asc) | WNYC<br/>
 [D-Day Plus 50: Louisiana Remembers](https://americanarchive.org/catalog/cpb-aacip-17-65v6xv27) | WLPB<br/>
 [Facing Violence Minutes; 1994 Compilation](https://americanarchive.org/catalog/cpb-aacip-526-w950g3jc2k) | WTTW<br/>
 [Facing Violence; Guns Under Fire [1994-04-20]](https://americanarchive.org/catalog/cpb-aacip-526-dn3zs2md17) | WTTW<br/>
-[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Breaking+the+Cycle) | WTTW<br/>
+[Facing Violence; Breaking the Cycle [1994-04-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Breaking+the+Cycle&sort=title+asc) | WTTW<br/>
 [Facing Violence; Breaking the Cycle [1995-01-07]](https://americanarchive.org/catalog/cpb-aacip-526-4b2x34nn8d) | WTTW<br/>
 [Farmington Project, The; Troubled Harvest: The Market](https://americanarchive.org/catalog/cpb-aacip-46-913n637t) | Vermont ETV<br/>
 [Fascinatin' Rhythm; Early Black Songwriters](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Early+Black+Songwriters&sort=title+asc) | WXXI<br/>
 [Fascinatin' Rhythm; Counting Down to the Millennium](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Counting+Down+to+the+Millennium&sort=title+asc) | WXXI<br/>
 [Fascinatin' Rhythm; The Irreverent 30's](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Irreverent+30%27s&sort=title+asc) | WXXI<br/>
 [Fear on the Inside: A Story of Domestic Violence](https://americanarchive.org/catalog/cpb-aacip-526-xp6tx36f7q) | WBEZ<br/>
-[Forgotten Mothers and Children of the AIDS Epidemic, The](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+Forgotten+Mothers+and+Children+of+the+AIDS+Epidemic&sort=title+asc) | Connecticut Public Radio<br/>
+[Forgotten Mothers and Children of the AIDS Epidemic, The](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Forgotten+Mothers+and+Children+of+the+AIDS+Epidemic&sort=title+asc) | Connecticut Public Radio<br/>
 [Forum with Michael Krasny; Aids & Politics [1994-03-28]](https://americanarchive.org/catalog/cpb-aacip-526-fj29883r70) | KQED<br/>
 [Forum with Michael Krasny; Murray Gell Mann [1994-05-05]](https://americanarchive.org/catalog/cpb-aacip-526-2n4zg6h28z) | KQED<br/>
 [Forum with Michael Krasny; Rwanda [1994-05-18]](https://americanarchive.org/catalog/cpb-aacip-526-wd3pv6cg71) | KQED<br/>
 [Forum with Michael Krasny; Town Hall Meeting [1994-10-05]](https://americanarchive.org/catalog/cpb-aacip-526-w66930q65z) | KQED<br/>
-[Forum with Michael Krasny; California Votes: Health Care [1994-11-04]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=California+Votes%3A+Health+Care) | KQED<br/>
+[Forum with Michael Krasny; California Votes: Health Care [1994-11-04]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bsegment_titles%5D%5B%5D=%5B1994-11-04--excerpts%5D%2C+California+Votes%3A+Health+Care&sort=title+asc) | KQED<br/>
 [From Death Row: This is Mumia Abu-Jamal](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=From+Death+Row%3A+This+is+Mumia+Abu-Jamal&sort=title+asc) | KPFA<br/>
 [Gone But Not Forgotten](https://americanarchive.org/catalog/cpb-aacip-526-d50ft8fm8x) | WHRO<br/>
 [Heart of the City; No. 1](https://americanarchive.org/catalog/cpb-aacip-526-7940r9n633) | WNYC<br/>
@@ -957,8 +956,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [On the Media; Getting It Wrong; Nixon and the Press [1994-05-08]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Nixon+and+the+Press) | WNYC<br/>
 [On the Media; Science Reporting; Haiti, the Press and U.S. Policy [1994-09-25]](https://americanarchive.org/catalog/cpb-aacip-f93f7d61385) | WNYC<br/>
 [On the Media; Haiti, the Press and U.S. Policy; Science Reporting](https://americanarchive.org/catalog/cpb-aacip-526-vh5cc0w48p) | WNYC<br/>
-[On the Media; When the Mighty Fall: Ethics, News Judgment, Sourcing & O.J. Simpson](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=When+the+Mighty+Fall%3A+Ethics%2C+News+Judgment%2C+Sourcing+%26+O.J.+Simpson&sort=title+asc) | WNYC<br/>
-[On the Media; Radiation Experiments: Getting the Story](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Radiation+Experiments%3A+Getting+the+Story&sort=title+asc) | WNYC<br/>
+[On the Media; When the Mighty Fall: Ethics, News Judgment, Sourcing & O.J. Simpson](https://americanarchive.org/catalog?after_date=1994-05-08&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=When+the+Mighty+Fall%3A+Ethics%2C+News+Judgment%2C+Sourcing+%26+O.J.+Simpson&sort=title+asc) | WNYC<br/>
+[On the Media; Radiation Experiments: Getting the Story](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=%5B1994-01-23--excerpt%5D%2C+Radiation+Experiments%3A+Getting+the+Story&sort=title+asc) | WNYC<br/>
 [On the Media; Science Reporting; Haiti, the Press and U.S. Policy](https://americanarchive.org/catalog/cpb-aacip-526-zs2k64c49h) | WNYC<br/>
 [OPB on Behalf of Children: Immunize Now!](https://americanarchive.org/catalog/cpb-aacip-526-rx9377760z) | Oregon Public Broadcasting<br/>
 [Oregon Field Guide Education Program; Focus on Organisms](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Focus+on+Organisms&sort=title+asc) | Oregon Public Broadcasting<br/>
@@ -969,7 +968,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [To the Contrary; U.N. Conference on Population and Development [1994-09-09]](https://americanarchive.org/catalog/cpb-aacip-526-f47gq6s561) | Maryland Public Television<br/>
 [Vietnam: At the Crossroads](https://americanarchive.org/catalog/cpb-aacip-55-451g2gb6) | KTEH<br/>
 [WHRO Non-Broadcast Educational Activities](https://americanarchive.org/catalog/cpb-aacip-526-8c9r20sw6x) | WHRO<br/>
-[Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Women%27s+Health+Outreach%3A+Heart+to+Heart) | WHRO<br/>
+[Women's Health Outreach: Heart to Heart](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Women%27s+Health+Outreach%3A+Heart+to+Heart&sort=title+asc) | WHRO<br/>
 [WTTW Journal; Facing Violence. Growing up Scared [1994-04-13]](https://americanarchive.org/catalog/cpb-aacip-526-pk06w97h8b) | WTTW<br/>
 [WTTW Journal; Dread [1995-01-08]](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7685j) | WTTW<br/>
 [Zoo Man](https://americanarchive.org/catalog/cpb-aacip-526-qv3bz62h3r) | KETC<br/>
@@ -982,9 +981,10 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Continental Harmony: Exploring American Classical Music](https://americanarchive.org/catalog/cpb-aacip-526-0c4sj1bk68) | WXXI<br/>
 [Continental Harmony: Exploring American Classical Music; Excerpts](https://americanarchive.org/catalog/cpb-aacip-526-086348hf32) | WXXI<br/>
 [Fables in Four Minutes; 1995 compilation](https://americanarchive.org/catalog/cpb-aacip-526-fx73t9fc6g) | WXXI<br/>
-[Flight to Freedom](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=%22Flight+to+Freedom%22) | WXXI<br/>
+[Flight to Freedom; No. 101](https://americanarchive.org/catalog/cpb-aacip-526-959c53g32d) | WXXI<br/>
+[Flight to Freedom; No. 102](https://americanarchive.org/catalog/cpb-aacip-526-qr4nk37c0j) | WXXI<br/>
 [Follow My Lead](https://americanarchive.org/catalog/cpb-aacip-526-b27pn8zf8q) | KCET<br/>
-[Forum; Youth Issues [1995-01-18]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bproducing_organizations%5D%5B%5D=KQED&q=%22Youth+Issues%22&sort=title+asc) | KQED<br/>
+[Forum; Youth Issues [1995-01-18]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Youth+Issues&sort=title+asc) | KQED<br/>
 [Forum; War on Drugs [1995-03-16]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=War+on+Drugs&sort=title+asc) | KQED<br/>
 [Forum; [1995-06-01], Youth Violence](https://americanarchive.org/catalog/cpb-aacip-526-v11vd6qc6r) | KQED<br/>
 [Forum; Juvenile Justice System [1995-11-27]](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Juvenile+Justice+System&sort=title+asc) | KQED<br/>
@@ -1024,8 +1024,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Chicago Matters Minutes; 1996 Compilation; Questions of Faith](https://americanarchive.org/catalog/cpb-aacip-526-086348hf60) | WTTW<br/>
 [Chicago Matters; Questions of Faith: A Pastor's Journal](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=A+Pastor%27s+Journal) | WBEZ<br/>
 [Chicago Matters; Questions of Faith; Feeling the Spirit: Storefront Churches](https://americanarchive.org/catalog/cpb-aacip-526-7659c6t22h) | WBEZ | WTTW<br/>
-[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=News+and+features+reports) | WBEZ | WTTW<br/>
-[Chicago Matters; Questions of Faith; Personal essays](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Personal+essays) | WBEZ | WTTW<br/>
+[Chicago Matters; Questions of Faith; News and features reports](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=News+and+features+reports&sort=title+asc) | WBEZ | WTTW<br/>
+[Chicago Matters; Questions of Faith; Personal essays](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=Personal+essays&sort=title+asc) | WBEZ | WTTW<br/>
 [Chicago Matters; Questions of Faith; Taking Heart in the Heartland](https://americanarchive.org/catalog/cpb-aacip-526-br8mc8sh4n) | WBEZ | WTTW<br/>
 [Chicago Matters; Questions of Faith; The Aging of the Convent](https://americanarchive.org/catalog/cpb-aacip-526-h98z893g56) | WBEZ | WTTW<br/>
 [Chicago Matters; Questions of Faith; The Fire Within: Islam in Prison](https://americanarchive.org/catalog/cpb-aacip-526-348gf0nt82) | WBEZ | WTTW<br/>
@@ -1042,8 +1042,8 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Exposures of a Movement](https://americanarchive.org/catalog/cpb-aacip-526-rv0cv4d20k) | WTVI<br/>
 [Fences & Neighborhoods](https://americanarchive.org/catalog/cpb-aacip-526-wm13n21s73) | Georgia Public Television<br/>
 [Forum; No. 1; Race, Class, and Diversity [1996-10-16]](https://americanarchive.org/catalog?after_date=1996-10-16&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc) | KQED<br/>
-[Forum; No. 2; Race, Class, and Diversity; Religion and Diversity [1996-11-20]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc&exact_or_range=exact&after_date=1996-11-20&commit=Update) | KQED<br/>
-[Forum; No. 3; Race, Class, and Diversity; Diversity and the Family [1996-12-17]](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bepisode_titles%5D%5B%5D=Race%2C+Class%2C+and+Diversity&sort=title+asc&exact_or_range=exact&after_date=1996-12-17&commit=Update) | KQED<br/>
+[Forum; No. 2; Race, Class, and Diversity; Religion and Diversity [1996-11-20]](https://americanarchive.org/catalog?after_date=1996-11-20&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Religion+and+Diversity&sort=title+asc) | KQED<br/>
+[Forum; No. 3; Race, Class, and Diversity; Diversity and the Family [1996-12-17]](https://americanarchive.org/catalog?after_date=1996-12-17&exact_or_range=exact&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&q=Religion+and+Diversity&sort=title+asc) | KQED<br/>
 [In Search of the Oregon Trail, Part 2](https://americanarchive.org/catalog/cpb-aacip-526-db7vm44005) | Oregon Public Broadcasting<br/>
 [In Those Days: A Look at the Wasatch Front of the 1930's](https://americanarchive.org/catalog/cpb-aacip-83-386hf25f) | KUED<br/>
 [Kids' Court](https://americanarchive.org/catalog/cpb-aacip-526-m03xs5kk97) | New Jersey Network<br/>
@@ -1051,7 +1051,7 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Make Us Safe: Teens Talk About Violence](https://americanarchive.org/catalog/cpb-aacip-189-79v15p09) | WXXI<br/>
 [Mark Russell; No. 2005; Viva Italia! [1996-01-30]](https://americanarchive.org/catalog/cpb-aacip-257-83kwhhdc) | WNED<br/>
 [Mark Russell; No. 2107; Campaign '96 [1996-09-13]](https://americanarchive.org/catalog/cpb-aacip-526-xg9f47j500) | WNED<br/>
-[Nightly Business Report; 1996 Campaign Coverage](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Btitle_titles%5D%5B%5D=1996+Campaign+Coverage) | WPBT<br/>
+[Nightly Business Report; 1996 Campaign Coverage](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=Nightly+Business+Report%3A+1996+Campaign+Coverage&sort=title+asc) | WPBT<br/>
 [On the Media; Covering the Conventions; Reporting on Labor](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Reporting+on+Labor&sort=title+asc) | Poynter Institute for Media Studies | WNYC<br/>
 [On the Media; It'll Never Be Over: Richard Jewell, Privacy & the Press; St. Petersburg, Race & the Media](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=It%27ll+Never+Be+Over%3A+Richard+Jewell%2C+Privacy+%26+the+Press&sort=title+asc) | Poynter Institute for Media Studies | WNYC<br/>
 [On the Media; Press Control in the Balkans](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=Press+Control+in+the+Balkans&sort=title+asc) | Poynter Institute for Media Studies | WNYC<br/>
@@ -1104,11 +1104,10 @@ Ordered by year of first broadcast, this list includes Peabody Awards submission
 [Frame After Frame: The Images of Herman Leonard](https://americanarchive.org/catalog/cpb-aacip-17-07tmq941) | Louisiana Public Broadcasting<br/>
 [Israel's Forgotten Heroes](https://americanarchive.org/catalog/cpb-aacip-42-504xh4s7) | WPBT<br/>
 [Joe Hill](https://americanarchive.org/catalog/cpb-aacip-83-68kd5f1p) | KUED<br/>
-[Juggling Act, The,](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bprogram_titles%5D%5B%5D=The+Juggling+Act) | WNYC<br/>
 [Kate Chopin: A Re-Awakening](https://americanarchive.org/catalog/cpb-aacip-17-58bg87rx) | Louisiana Public Broadcasting<br/>
 [KOPB Radio News; Physician-Assisted Suicide](https://americanarchive.org/catalog/cpb-aacip-526-zw18k7683x) | Oregon Public Broadcasting<br/>
-[On the Line; The Juggling Act](https://americanarchive.org/catalog?f%5Btitle_titles%5D%5B%5D=The+Juggling+Act&f[access_types][]=online) | WNYC<br/>
-[On the Media; The Juggling Act](https://americanarchive.org/catalog/cpb-aacip-526-mk6542kh4p) | WNYC<br/>
+[On the Line; The Juggling Act](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bsegment_titles%5D%5B%5D=The+Juggling+Act&sort=title+asc) | WNYC<br/>
+[On the Media; The Juggling Act](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Walter+J.+Brown+Media+Archives+%26+Peabody+Awards+Collection+at+the+University+of+Georgia+%28GA%29&f%5Bepisode_titles%5D%5B%5D=The+Juggling+Act&sort=title+asc) | WNYC<br/>
 [Our Stories; At the Center of Things (Islesford, Maine) [1998-05-10]](https://americanarchive.org/catalog/cpb-aacip-245-439zw7n9) | Maine Public Broadcasting<br/>
 [Our Stories; Harvest of Hope (Fort Kent, Maine) [1998-05-11]](https://americanarchive.org/catalog/cpb-aacip-245-032280s8) | Maine Public Broadcasting<br/>
 [Our Stories; Healing Woods (Indian Township, Maine) [1998-05-12]](https://americanarchive.org/catalog/cpb-aacip-245-558czfqp) | Maine Public Broadcasting<br/>

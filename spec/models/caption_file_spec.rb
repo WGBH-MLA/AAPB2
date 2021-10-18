@@ -86,7 +86,6 @@ describe CaptionFile do
     end
   end
 
-
   after(:all) do
     # Re-disable WebMock so other tests can use actual connections.
     WebMock.disable!

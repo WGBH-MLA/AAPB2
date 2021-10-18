@@ -5,7 +5,7 @@ require 'rails_helper'
 
 describe 'S3' do
   # For AAPB, all the S3 content is open, since the video delivery is managed by Ci.
-  describe 'policy implementation', not_on_travis: true do
+  describe 'policy implementation', not_on_ci: true do
     def to_pretty_json(string_io)
       JSON.pretty_generate(JSON.parse(string_io.string))
     end

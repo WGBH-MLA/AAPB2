@@ -23,26 +23,23 @@ module ApplicationHelper
     end
 
     terms_array = if query.include?(%("))
+                    # pull out double quoted terms!
+                    quoteds = query.scan(/"([^"]*)"/)
 
-      # pull out double quoted terms!
-      quoteds = query.scan(/"([^"]*)"/)
-      # now remove them from the remaining query
+                    # now remove them from the remaining query
+                    quoteds.each { |q| query.remove!(q.first) }
 
-      quoteds.each {|q| query.remove!(q.first) }
+                    query = query.gsub(/[[:punct:]]/, '').upcase
 
-
-      query = query.gsub(/[[:punct:]]/, '').upcase
-
-      # put it all together (removing any term thats just a stopword)
-      # and remove punctuation now that we've used our ""
-      quoteds.flatten.map(&:upcase) + (query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } })
-
-    else
-      query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } }
-    end
+                    # put it all together (removing any term thats just a stopword)
+                    # and remove punctuation now that we've used our ""
+                    quoteds.flatten.map(&:upcase) + (query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } })
+                  else
+                    query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } }
+                  end
 
     # remove extra spaces and turn each term into word array
-    terms_array.map {|term| term.upcase.strip.gsub(/[^\w\s]/, "").split(" ") }
+    terms_array.map { |term| term.upcase.strip.gsub(/[^\w\s]/, "").split(" ") }
   end
 
   def get_last_day(month)

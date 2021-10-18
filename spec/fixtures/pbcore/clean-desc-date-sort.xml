@@ -1,0 +1,293 @@
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Episode</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Broadcast'>1968-06-12</pbcoreAssetDate>
+  <pbcoreAssetDate dateType='Copyright'>1968-06-12</pbcoreAssetDate>
+  <pbcoreAssetDate>1998-11-27</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/62-5m6251fv96</pbcoreIdentifier>
+  <pbcoreIdentifier source='WNET'>22406</pbcoreIdentifier>
+  <pbcoreIdentifier source='WNET'>ARC-BTL-212</pbcoreIdentifier>
+  <pbcoreIdentifier source='WNET'>N0629256</pbcoreIdentifier>
+  <pbcoreIdentifier source='WNET'>f37cfbac-5ed4-102c-8cdc-001ec9b4fc0d</pbcoreIdentifier>
+  <pbcoreIdentifier source='WNET'>netnola_bljl_1_doc</pbcoreIdentifier>
+  <pbcoreIdentifier source='WNET'>dc845d62-824a-4326-8e6e-4b422e984741</pbcoreIdentifier>
+  <pbcoreIdentifier source='WNET'>22406</pbcoreIdentifier>
+  <pbcoreIdentifier source='WNET'>72896b27-804f-4cef-ad16-765c171a3e6d</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>0b41f18010864ecc8e8ac5709ee366cc</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Black Journal</pbcoreTitle>
+  <pbcoreTitle titleType='Episode Number'>1</pbcoreTitle>
+  <pbcoreDescription descriptionType='Series'>
+    This is the Series description
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Program'>
+     This is the program description
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Description'>
+     This is a plain description
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Episode'>
+     This is an episode description
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Description'>
+    This is another plain description
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Segment'>
+    This is the Segment description
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Race and Ethnicity</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>Perlmutter, Alvin H.</creator>
+    <creatorRole>Executive Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcorePublisher>
+    <publisher>Educational Broadcasting Corporation</publisher>
+    <publisherRole source=''>Copyright Holder</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>Copyright 1968, National Educational Television and Radio Center</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='unknown'>22406</instantiationIdentifier>
+    <instantiationIdentifier source='unknown'>ARC-BTL-212</instantiationIdentifier>
+    <instantiationIdentifier source='unknown'>N0629256</instantiationIdentifier>
+    <instantiationIdentifier source='unknown'>f37cfbac-5ed4-102c-8cdc-001ec9b4fc0d</instantiationIdentifier>
+    <instantiationDate>1968-06-12</instantiationDate>
+    <instantiationPhysical>Betacam: SP</instantiationPhysical>
+    <instantiationLocation>Offsite</instantiationLocation>
+    <instantiationMediaType>other</instantiationMediaType>
+    <instantiationGenerations>Preservation</instantiationGenerations>
+    <instantiationDuration>00:58:00</instantiationDuration>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationAlternativeModes>13881</instantiationAlternativeModes>
+    <instantiationAnnotation annotationType='organization'>Thirteen - New York Public Media (WNET)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WNET Archive'>netnola_bljl_1_doc</instantiationIdentifier>
+    <instantiationIdentifier source='WNET Archive'>dc845d62-824a-4326-8e6e-4b422e984741</instantiationIdentifier>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationLocation>Archive</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations/>
+    <instantiationAnnotation annotationType='organization'>Thirteen - New York Public Media (WNET)</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-62-5m6251fv96__netnola_bljl_1_doc.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2010-01-12</instantiationDate>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure='GiB'>25</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>60</instantiationDataRate>
+    <instantiationTracks>1 video, 2 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>DV</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>49</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>704 x 480</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:00:41</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>4</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>01:00:41</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>5</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>01:00:41</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>6</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>01:00:41</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+    <instantiationAnnotation annotationType='organization'>American Archive of Public Broadcasting</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-62-5m6251fv96__netnola_bljl_1_doc_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-09-16</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>364</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>839</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>709</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:00:41</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:00:41</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>01:00:41</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+    <instantiationAnnotation annotationType='organization'>American Archive of Public Broadcasting</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MAVIS Item ID'>1832283-2</instantiationIdentifier>
+    <instantiationPhysical>1 inch videotape: SMPTE Type C</instantiationPhysical>
+    <instantiationLocation>Library of Congress</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>0:58:46</instantiationDuration>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='organization'>Library of Congress</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MAVIS Item ID'>1832283-1</instantiationIdentifier>
+    <instantiationPhysical>2 inch videotape</instantiationPhysical>
+    <instantiationLocation>Library of Congress</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>0:58:46</instantiationDuration>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='organization'>Library of Congress</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MAVIS Item ID'>1832283-3</instantiationIdentifier>
+    <instantiationPhysical>U-matic</instantiationPhysical>
+    <instantiationLocation>Library of Congress</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Copy: Access</instantiationGenerations>
+    <instantiationDuration>0:58:46</instantiationDuration>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='organization'>Library of Congress</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MAVIS Item ID'>1832283-5</instantiationIdentifier>
+    <instantiationLocation>Library of Congress</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Copy: Access</instantiationGenerations>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='organization'>Library of Congress</instantiationAnnotation>
+    <instantiationAnnotation>Video Colour Space: SMPTE component color</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MAVIS Item ID'>1832283-6</instantiationIdentifier>
+    <instantiationLocation>Library of Congress</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Copy: Access</instantiationGenerations>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='organization'>Library of Congress</instantiationAnnotation>
+    <instantiationAnnotation>Video Colour Space: SMPTE component color</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MAVIS Item ID'>1832283-8</instantiationIdentifier>
+    <instantiationLocation>Library of Congress</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Copy: Access</instantiationGenerations>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='organization'>Library of Congress</instantiationAnnotation>
+    <instantiationAnnotation>Video Colour Space: SMPTE component color</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MAVIS Item ID'>1832283-4</instantiationIdentifier>
+    <instantiationLocation>Library of Congress</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='organization'>Library of Congress</instantiationAnnotation>
+    <instantiationAnnotation>Video Colour Space: SMPTE component color</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MAVIS Item ID'>1832283-7</instantiationIdentifier>
+    <instantiationLocation>Library of Congress</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='organization'>Library of Congress</instantiationAnnotation>
+    <instantiationAnnotation>Video Colour Space: SMPTE component color</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Transcript URL'>
+    https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-62-5m6251fv96/cpb-aacip-62-5m6251fv96-transcript.json
+  </pbcoreAnnotation>
+  <pbcoreAnnotation>Originating inMagic Record Created on Date: November 02, 2000</pbcoreAnnotation>
+  <pbcoreAnnotation>Originating inMagic Record Last Modified in inMagic on Date: 2/18/2009</pbcoreAnnotation>
+  <pbcoreAnnotation>catalogingSource: Label</pbcoreAnnotation>
+  <pbcoreAnnotation>catalogingSource: University of Georga Libraries catalog</pbcoreAnnotation>
+  <pbcoreAnnotation>Originating inMagic Record Created by: Daisy Pommer</pbcoreAnnotation>
+  <pbcoreAnnotation>
+     Preservation History: Copied from Peabody Collection's Beta Master, which
+    was remastered from the Collection's 2
+  </pbcoreAnnotation>
+  <pbcoreAnnotation>
+     Copied from: Tape #68053 PST Beta Preservation Master at the University of
+    Georgia Media Archives and Peabody Collection 6/13/00
+  </pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Transcript Status'>Correcting</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='MAVIS Number'>1832283</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='special_collections'>net-catalog</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Licensing Info'>
+     To license footage from this program, please contact WNET's Licensing
+    Department at permissions@wnet.org, or visit http://licensing.wnet.org for
+    more information.
+  </pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Transcript Source'>Pop Up Archive</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='special_collections'>black-journal</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2020-05-15 10:31:57</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Thirteen - New York Public Media (WNET)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
