@@ -577,7 +577,7 @@ class PBCorePresenter
               .select { |x| x } # skip nils
               .flatten # flattens list accessors
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
-              .flatten.uniq
+              .flatten.uniq.sort
   end
 
   def build_display_title
