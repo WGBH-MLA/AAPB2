@@ -567,7 +567,8 @@ class PBCorePresenter
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl, :original_id,
-      :proxy_start_time, :transcript_html, :sorted_descriptions, :display_descriptions, :display_asset_dates, :descriptions_with_types
+      :transcript_html, :fixitplus_url, :transcript_message, :proxy_start_time,
+      :sorted_descriptions, :display_descriptions, :display_asset_dates, :descriptions_with_types
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
