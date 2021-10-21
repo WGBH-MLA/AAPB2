@@ -55,7 +55,6 @@ describe CatalogController do
     end
 
     describe 'catalog#show' do
-
       before(:all) do
         PBCoreIngester.load_fixtures('spec/fixtures/pbcore/clean-has-chapters.xml', 'spec/fixtures/pbcore/clean-16-9.xml')
       end
@@ -67,7 +66,7 @@ describe CatalogController do
             get 'show', id: "cpb-aacip-114-90dv49m9"
             expect(response.redirect?).to eq true
             expect(response.status).to eq 302
-            expect(Rack::Utils.parse_query(URI.parse(response.location).query)).to eq({ "proxy_start_time" => "65" })
+            expect(Rack::Utils.parse_query(URI.parse(response.location).query)).to eq("proxy_start_time" => "65")
           end
         end
 
@@ -83,7 +82,6 @@ describe CatalogController do
       end
 
       context 'with a record without a "Proxy Start Time annotation' do
-
         context 'when no proxy_start_time is included in params' do
           it 'does nothing special' do
             allow_any_instance_of(User).to receive(:onsite?).and_return(true)

@@ -323,11 +323,8 @@ class PBCorePresenter
     transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
   end
   def transcript_html
-    if transcript_src
-      return TranscriptFile.new(transcript_src).html
-    elsif CaptionFile.new(id).captions_src
-      return  CaptionFile.new(id).html
-    end
+    return TranscriptFile.new(transcript_src).html if transcript_src
+    return CaptionFile.new(id).html if CaptionFile.new(id).captions_src
     nil
   end
   def transcript_message
@@ -570,7 +567,7 @@ class PBCorePresenter
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
       :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl, :original_id,
-      :sorted_descriptions, :display_descriptions, :display_asset_dates, :descriptions_with_types
+      :proxy_start_time, :transcript_html, :sorted_descriptions, :display_descriptions, :display_asset_dates, :descriptions_with_types
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
@@ -579,7 +576,7 @@ class PBCorePresenter
               .select { |x| x } # skip nils
               .flatten # flattens list accessors
               .map { |x| x.respond_to?(:to_a) ? x.to_a : x } # get elements of compounds
-              .flatten.uniq.sort
+              .flatten.uniq
   end
 
   def build_display_title

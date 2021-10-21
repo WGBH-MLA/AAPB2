@@ -275,14 +275,18 @@ class CatalogController < ApplicationController
     respond_to do |format|
       format.html do
         @pbcore = PBCorePresenter.new(xml)
+        @exhibits = @pbcore.top_exhibits
         @skip_orr_terms = can? :skip_tos, @pbcore
 
         if can? :play, @pbcore
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
 
-          if redirect_to_proxy_start_time?(pbcore: @pbcore, params: params)
+          if redirect_to_proxy_start_time?(@pbcore, params)
+            # rubocop:disable Style/AndOr
+            # && in place of 'and' does not work
             redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
+            # rubocop:enable Style/AndOr
           end
         end
 
@@ -292,8 +296,6 @@ class CatalogController < ApplicationController
           # how shown are we talkin here?
           @transcript_open = @pbcore.correct_transcript? ? true : false
         end
-
-        @exhibits = @pbcore.top_exhibits
 
         render
       end
@@ -312,14 +314,12 @@ class CatalogController < ApplicationController
 
   private
 
-  def redirect_to_proxy_start_time?(pbcore:, params:)
-    return true if (
-      pbcore.proxy_start_time && params["proxy_start_time"].nil? && !has_media_start_time?(params)
-    )
+  def redirect_to_proxy_start_time?(pbcore, params)
+    return true if pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
     false
   end
 
-  def has_media_start_time?(params)
+  def media_start_time?(params)
     params.keys.include?("start")
   end
 
