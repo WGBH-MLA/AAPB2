@@ -36,7 +36,8 @@
                         :"data-setup" => '{}',
                         poster: @pbcore.img_src) do %>
 
-              <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'video/mp4' : 'audio/mp3' %>' />
+              <source src="<%= media_src %>" type="application/x-mpegURL">
+
 
               <% unless @caption_file.captions_src.nil? %>
                 <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
