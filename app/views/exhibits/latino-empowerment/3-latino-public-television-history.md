@@ -55,7 +55,7 @@ CPB supported the show for two years and twenty-three half-hour programs, but it
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Luis Valdez, from [*NET Playhouse*: El Teatro Campesino](https://americanarchive.org/catalog/cpb-aacip-75-9995xj7b) (NET, 1970).</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez.jpg" class="big-image" alt="">“Luis Valdez, from *NET Playhouse*: El Teatro Campesino (NET, 1970).”/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez-1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez-1.jpg" class="big-image" alt="">“Luis Valdez, from *NET Playhouse*: El Teatro Campesino (NET, 1970).”/></a></td></tr>
 </table>
 
 Luis Valdez founded El Teatro Campesino in the fields of Delano, California, during the great grape strike of 1965.[<sup>63</sup>](/exhibits/latino-empowerment/notes#63) The company created and presented short plays that dramatized the cause of the farmworkers and urban Chicanos. The plays toured around the country and internationally, garnering attention and acclaim from audiences across the world, including an off-Broadway Obie Award and the Los Angeles Drama Critics Circle Award. Valdez’s hit play *Corridos! Tales of Passion and Revolution* (1987) was produced by KQED San Francisco in association with El Teatro Campesino in a production that “realizes the dramatic potential of the most famous and tuneful Mexican American folk ballads, or corridos,” according to Luis Reyes and Peter Rubie.[<sup>64</sup>](/exhibits/latino-empowerment/notes#64) Broadcast on PBS, [*Corridos!*](https://americanarchive.org/catalog/cpb-aacip-55-rj48p5vt80) won a George Peabody Award for excellence in television. You can watch the full version onsite at the Library of Congress and at WGBH. 
@@ -133,7 +133,7 @@ Latino Public Broadcasting (LPB) formed in 1998 by actor/producer/director/write
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption"> Maggie Rivas-Rodriguez, from [*The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-mg7fq9qx2q?start=2407.88&end=3267.52) (MacNeil/Lehrer Productions & WETA, 2007).
 </caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Maggie-Rivas-Rodriquez.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Maggie-Rivas-Rodriquez.jpg" class="big-image" alt="">“Maggie Rivas-Rodriguez, from The NewsHour with Jim Lehrer (MacNeil/Lehrer Productions & WETA, 2007)”/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Maggie-Rivas-Rodriquez-1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Maggie-Rivas-Rodriquez-1.jpg" class="big-image" alt="">“Maggie Rivas-Rodriguez, from The NewsHour with Jim Lehrer (MacNeil/Lehrer Productions & WETA, 2007)”/></a></td></tr>
 </table>
 
 In 2007, Maggie Rivas-Rodriguez, director of the U.S. Latino and Latina World War II Oral History Project at the University of Texas, led a protest against the lack of Latino representation in the upcoming 14-hour Ken Burns PBS series on World War II entitled *The War*, although more than 500,000 Latinos had participated in the war effort. “The main issue is the inclusion of Latinos into the nation’s historical narrative,” she stated on [*The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-mg7fq9qx2q?start=2407.88&end=3267.52). “Over and over again, Latinos are excluded in any kind of general history accounts of our country.” Pointing out that more than half of the students in California’s schools were Hispanic, Rivas-Rodriguez insisted, “It’s important for all Americans, but in particular it’s important for Hispanic children to be able to watch television and understand that the contributions of the Latino people have been many, and we’ve been here for a very long time. And that’s the important thing.” As a result of the protests, Latino filmmaker Hector Galán worked with Burns to produce new material on Latino contributions to the war effort, which was added to the film.[<sup>85</sup>](/exhibits/latino-empowerment/notes#85)
@@ -145,7 +145,7 @@ The series narrator, Benjamin Bratt, characterized *Latino Americans* as “a re
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Ray Suarez, from [*PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-bc3st7fw1s?start=1562.18&end=2039.33) (MacNeil/Lehrer Productions & WETA, 2013).
 </caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Ray-Suarez.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Ray-Suarez.jpg" class="big-image" alt="">“Ray Suarez, from *PBS NewsHour* (MacNeil/Lehrer Productions & WETA, 2013).”/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Ray-Suarez-1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Ray-Suarez-1.jpg" class="big-image" alt="">“Ray Suarez, from *PBS NewsHour* (MacNeil/Lehrer Productions & WETA, 2013).”/></a></td></tr>
 </table>
 
 PBS NewsHour senior correspondent Ray Suarez, who wrote the companion book for the series, [told colleague Gwen Ifill in an interview](https://americanarchive.org/catalog/cpb-aacip-525-bc3st7fw1s?start=1562.18&end=2039.33):
@@ -158,7 +158,7 @@ PBS NewsHour senior correspondent Ray Suarez, who wrote the companion book for t
 ## Main
 
 ## Cover
-  <img title="Cover Image" alt="Luis Valdez, from *NET Playhouse*: El Teatro Campesino" src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez.jpg">
+  <img title="Cover Image" alt="Luis Valdez, from *NET Playhouse*: El Teatro Campesino" src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez-1.jpg">
 
 ## Gallery
 
