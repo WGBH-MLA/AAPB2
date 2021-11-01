@@ -243,7 +243,7 @@ class CatalogController < ApplicationController
 
           # put it here!
           transcript_file = TranscriptFile.new(solr_doc.transcript_src)
-          if transcript_file.file_type == TranscriptFile::JSON_FILE && !transcript_file.content.empty?
+          if transcript_file.file_type == TranscriptFile::JSON_FILE
 
             ts = TimecodeSnippet.new(this_id, @terms_array, transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
 
