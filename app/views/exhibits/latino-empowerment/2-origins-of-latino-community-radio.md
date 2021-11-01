@@ -17,8 +17,8 @@ Farmworkers, former farmworkers, and Chicano activists created the first bilingu
 ### KBBF-FM: La Voz del Pueblo
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">KBBF Radio Cultura Host with engineers, from [En Camino]( https://americanarchive.org/catalog/cpb-aacip-88-0000002c?start=698.9&end=1012.39) (KRCB, 1986).</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins_KBBF-host-with-engineers-from-En-Camino.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins_KBBF-host-with-engineers-from-En-Camino.png" class="big-image" alt=" KBBF Radio Cultura Host with engineers, from En Camino (KRCB, 1986)."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">KBBF Radio Cultura Host with engineers, from [En Camino](https://americanarchive.org/catalog/cpb-aacip-88-0000002c?start=698.9&end=1012.39) (KRCB, 1986).</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-KBBF-host-with-engineers-from-En-Camino.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-KBBF-host-with-engineers-from-En-Camino.jpg" class="big-image" alt=" KBBF Radio Cultura Host with engineers, from En Camino (KRCB, 1986)."/></a></td></tr>
 </table>
 
 In 1971, Chicano activists, college students, professors, and local farmworkers united to create the Bilingual Broadcasting Foundation, Inc. (BBFI) with the purpose of establishing the first Chicano-controlled and operated public radio station. They accomplished their goal in May 1973 in Santa Rosa, California, when KBBF-FM launched its first signal test. “The station is unique,” the BBFI declared at the time. “It is the first fully bilingual, bicultural educational radio service in the country.” As part of their goals, the KBBF founders and directors sought to “provide the Spanish-speaking population of northern California a media tool of their own with which to transmit music, ideas and information, as well as effect social change.”[<sup>9</sup>](/exhibits/latino-empowerment/notes#9) Their philosophy upheld that Latino and Anglo cultures should not be isolated and that broadcasting programs that reflect a bilingual, bicultural heritage would enhance both groups. In time, the station was able to secure a stream of cultural and educational programs from the Mexican government and universities, and organizations such as the United Nations and the Organization of American States, highlighting its investment in international cultural exchange.[<sup>10</sup>](/exhibits/latino-empowerment/notes#10)
@@ -36,8 +36,8 @@ In an effort to reach wider audiences, KBBF-FM cofounders Hector Molina and Jos�
 ### KDNA: La Voz del Campesino
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Radio Cadena engineer in Seattle studio, from [Realidades: Los Medios de Communicacion y la Communidad Latina]( https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1) (WNET, 1977).</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins_Radio-Cadena-engineer.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins_Radio-Cadena-engineer.png" class="big-image" alt="Radio Cadena engineer in Seattle studio, from Realidades: Los Medios de Communicacion y la Communidad Latina (WNET, 1977)"/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Radio Cadena engineer in Seattle studio, from [Realidades: Los Medios de Communicacion y la Communidad Latina](https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1) (WNET, 1977).</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg" class="big-image" alt="Radio Cadena engineer in Seattle studio, from Realidades: Los Medios de Communicacion y la Communidad Latina (WNET, 1977)"/></a></td></tr>
 </table>
 
 Chicano media activism and farmworker activism were on the rise across the nation. The second Latino community to establish a radio station was located in the Yakima Valley in Washington State. Inspired by their own life experiences with poverty and inequality in marginalized Latino communities, farmworkers Ricardo García and Rosa Ramón, along with radio producers Julio Cesar Guerrero and Daniel Roble, cofounded what was soon to be a new addition to Pacific Northwest public broadcasting, Radio KDNA. 
@@ -90,8 +90,8 @@ According to the Radio Campesina website, the station “has aired forums and de
 
 ## Main
 
-## Cover **** do we have a cover image for this?
-  <img title="Cover Image" alt="PUT CAPTION HERE" src="PUT JPG LINK HERE">
+## Cover
+  <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
 
 ## Gallery
 
