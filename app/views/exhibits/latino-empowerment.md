@@ -10,15 +10,15 @@
 
 ## Extended
 
-## Authors **do we have images for Alexandra García and Gabriela Rivera?
+## Authors
 
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Smith.jpg"/>
-  <a class="name">Sally Smith</a>
-  <a class="title">Former Student Assistant, Brown Media Archives, University of Georgia</a>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Alexandra-Garcia.jpg"/>
+  <a class="name">Alexandra García</a>
+  <a class="title">Former Intern, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
 
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Smith.jpg"/>
-  <a class="name">Sally Smith</a>
-  <a class="title">Former Student Assistant, Brown Media Archives, University of Georgia</a>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Gabriela-Rivera.jpg"/>
+  <a class="name">Gabriela Rivera</a>
+  <a class="title">Former Intern, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
 
 ## Resources
 
@@ -38,8 +38,8 @@ AAPB is constantly expanding. We have instituted an initiative to collaborate wi
 
 #### Next: [The Origins of Latino Community Radio](/exhibits/latino-empowerment/2-origins-of-latino-community-radio)
 
-## Cover ** do we have a cover image??
-  <img title="Cover Image" alt="Image from Indian Country Diary; Spiral of Fire, https://americanarchive.org/catalog/cpb-aacip_508-hx15m63091" src="https://s3.amazonaws.com/americanarchive.org/exhibits/0_SignatureImage.jpg">
+## Cover
+  <img title="Cover Image" alt="Filming *Realidades*" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Filming-Realidades.jpg">
 
 ## Gallery
 
