@@ -321,8 +321,8 @@ Other relevant programs in the AAPB collection include:
 
 ## Main
 
-## Cover **do we have a cover for this?
-  <img title="Cover Image" alt="ALT TEXT HERE" src="JPG SOURCE URL HERE">
+## Cover
+  <img title="Cover Image" alt="Rita Moreno on the cover of *Life* magazine." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ritamoreno.png">
 
 ## Gallery
 
