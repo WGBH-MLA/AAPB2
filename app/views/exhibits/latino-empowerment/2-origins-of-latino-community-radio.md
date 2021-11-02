@@ -96,3 +96,14 @@ According to the Radio Campesina website, the station “has aired forums and de
 ## Gallery
 
 ## Records
+
+- [](/cpb-aacip-88-0000002c)
+- [](/cpb-aacip-199-67jq2kgb)
+- [](/cpb-aacip-199-80ht7fxq)
+- [](/cpb-aacip-199-67jq2kjs)
+- [](/cpb-aacip-199-18rbp246)
+- [](/cpb-aacip-375-80vq8cp2)
+- [](/cpb-aacip-375-94vhhzk6)
+- [](/cpb-aacip-375-375tb7ch)
+- [](/cpb-aacip-375-278sfbzg)
+- [](/cpb-aacip-375-92t4bm6j)
