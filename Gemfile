@@ -59,7 +59,7 @@ gem 'blacklight_range_limit', '5.2.0'
 gem 'actionpack-page_caching'
 gem 'srt'
 
-gem 'sony_ci_api', '~> 0.2.1'
+gem 'sony_ci_api', git: 'https://github.com/WGBH-MLA/sony_ci_api_rewrite.git', branch: 'main'
 
 gem 'rubyzip', '~> 1.3.0'
 

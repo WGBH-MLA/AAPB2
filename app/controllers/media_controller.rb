@@ -5,19 +5,43 @@ class MediaController < ApplicationController
   include BlacklightGUIDFetcher
 
   def show
-    # From BlacklightGUIDFetcher
-    _response, document = fetch_from_blacklight(params[:id])
-
-    xml = document['xml']
-    pbcore = PBCorePresenter.new(xml)
-
-    # if can?(:play, pbcore) && (current_user.aapb_referer? || current_user.embed?)
     if can?(:access_media_url, pbcore)
-      ci = SonyCiBasic.new(credentials_path: Rails.root + 'config/ci.yml')
-      # OAuth credentials expire: otherwise it would make sense to cache this instance.
-      redirect_to ci.download(pbcore.ci_ids[(params['part'] || 1).to_i - 1])
+      redirect_to media_url
     else
       render nothing: true, status: :unauthorized
     end
+  end
+
+  private
+
+  def media_url
+    @media_url ||= if pbcore.video?
+                     sony_ci.asset_stream_hls_url(ci_id)
+                   elsif pbcore.audio?
+                     sony_ci.asset_download(ci_id)['location']
+                   end
+  end
+
+  def ci_id
+    @ci_id ||= pbcore.ci_ids[part - 1]
+  end
+
+  def part
+    @part ||= (params['part'] || 1).to_i
+  end
+
+  def pbcore
+    @pbcore ||= PBCorePresenter.new(solr_doc['xml'])
+  end
+
+  def solr_doc
+    @solr_doc ||= begin
+      _resp, doc = fetch_from_blacklight(params['id'])
+      doc
+    end
+  end
+
+  def sony_ci
+    @sony_ci ||= SonyCiApi::Client.new(Rails.root + 'config/ci.yml')
   end
 end
