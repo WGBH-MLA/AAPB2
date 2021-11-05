@@ -4,6 +4,7 @@
 
 ## Summary
 
+
 ### Introduction
 
 As in other forms of media in the United States, Latinos have been historically underrepresented within mainstream television and largely portrayed as problematic communities and using negative stereotypes. The authors of *Hispanics in Hollywood: A Celebration of 100 Years in Film and Television* argue, “A surprising amount of Hispanic American talent has been working constantly in American television, both in front of and behind the camera. Yet … there have been few Hispanic star- or character- driven vehicles.”[<sup>42</sup>](/exhibits/latino-empowerment/notes#42) Latinos of every nationality have appeared on the screen for decades and yet had limited control over production, writing, employment, and participation within the industry. Hispanics received very little attention in public television programming at the national level, even after the creation of CPB in 1967. According to activist film and television director Jesús Salvador Treviño, by 1983 CPB had invested only about 2% of 14 years’ worth of television production funds in programs geared specifically toward the Hispanic communities of the United States. Treviño argued that Hispanic issues were occasionally “mainstreamed” as part of public affairs series, but “there was no regular, ongoing, dramatic, cultural, or documentary or…news and public affairs series for the Hispanic community.”[<sup>43</sup>](/exhibits/latino-empowerment/notes#43) Nevertheless, Latinos persisted and succeeded in producing their own programs across the nation that represented their lives, their needs, and their culture to educate, inform, and entertain fellow Latinos.
@@ -42,6 +43,7 @@ Because the six episodes of [*Acción Chicano* in the AAPB collection](https://a
 
 <iframe src="https://player.vimeo.com/video/641601494?h=12c6d8decc" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+
 #### [*Realidades*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Realidades&sort=asset_date+asc)
 
 <table class="exhibit-image">
@@ -72,6 +74,7 @@ In 1970, *NET Playhouse* presented a documentary on El Teatro Campesino, includi
 
 <iframe src="https://player.vimeo.com/video/641601592?h=eded000f2d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+
 #### [*La Plaza*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=La+Plaza&sort=asset_date+asc)
 
 <table class="exhibit-image">
@@ -82,6 +85,7 @@ In 1970, *NET Playhouse* presented a documentary on El Teatro Campesino, includi
 Raquel Ortiz used the experience she gained in the production of *Realidades* to develop *La Plaza*, one of the first WGBH series focused on Latino issues and culture. The program premiered on January 10, 1979, as a “13-week bilingual series” meant to “serve as a plaza for the entire local Latino community.” Ms. Ortiz and her fellow producers used the opportunity to experiment with different formats and ways to entertain viewers. One week, *La Plaza* could feature an episode focused on Latino musical or dramatic performances; the next week, an episode shot in the studio of a debate on bilingual education; the week after, an acquired film, and the one after that, a combination of studio material and acquired content.[<sup>65</sup>](/exhibits/latino-empowerment/notes#65) “Spic Out,” an episode that combined dramatic performances with documentary-style interviews, addressed queer culture in the Latino community and the use of theater to represent this often-marginalized sector of the community. *La Plaza* explored different aspects of the Latino community from different points of view and styles and continued under 2006, when it was replaced by the interview series *Maria Hinojosa: One-on-One*.
 
 “[Spic Out](https://americanarchive.org/catalog/cpb-aacip-15-483jbxr8),” an episode that combined dramatic performances with documentary-style interviews, addressed queer culture in the Latino community and the use of theater to represent this often-marginalized sector of the community.
+
 
 #### [*Images/Imágenes*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Images%2FImagenes&sort=asset_date+asc)
 
