@@ -33,7 +33,7 @@ Geared to first and second graders, *Carrascolendas* also attracted older Spanis
 #### [*Acción Chicano*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Accion+Chicano&sort=title+asc)
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">*Acción Chicano* set, with Jesús Salvador Treviño (front), from [*Acción Chicano*](https://americanarchive.org/catalog/cpb-aacip-2a700bd6f0e) (KCET, 1974).</caption>
+<caption align="bottom" class="exhibit-caption">*Acción Chicano* set, with Jesús Salvador Treviño (front), from *Acción Chicano*: https://americanarchive.org/catalog/cpb-aacip-2a700bd6f0e (KCET, 1974).</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Accion-Chicano-with-Trevino-1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Accion-Chicano-with-Trevino-1.jpg" class="big-image" alt="*Acción Chicano* set, with Jesús Salvador Treviño (front), from *Acción Chicano* (KCET, 1974)."></a></td></tr>
 </table>
 
@@ -47,7 +47,7 @@ Because the six episodes of [*Acción Chicano* in the AAPB collection](https://a
 #### [*Realidades*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Realidades&sort=asset_date+asc)
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Filming *Realidades*, Humberto Citrón (center), from [*Realidades*: Los Medios de Communicacion y la Communidad Latina](https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1) (WNET, 1977).]</caption>
+<caption align="bottom" class="exhibit-caption">Filming *Realidades*, Humberto Citrón (center), from *Realidades*: Los Medios de Communicacion y la Communidad Latina: https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1 (WNET, 1977).]</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Filming-Realidades-Humberto-Citron-1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Filming-Realidades-Humberto-Citron-1.jpg" class="big-image" alt="Filming *Realidades*, Humberto Citrón (center), from Realidades: Los Medios de Communicacion y la Communidad Latina (WNET, 1977)]."></a></td></tr>
 </table>
 
@@ -60,7 +60,7 @@ CPB supported the show for two years and twenty-three half-hour programs, but it
 #### El Teatro Campesino
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Luis Valdez, from [*NET Playhouse*: El Teatro Campesino](https://americanarchive.org/catalog/cpb-aacip-75-9995xj7b) (NET, 1970).</caption>
+<caption align="bottom" class="exhibit-caption">Luis Valdez, from *NET Playhouse*: El Teatro Campesino: https://americanarchive.org/catalog/cpb-aacip-75-9995xj7b (NET, 1970).</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez-1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez-1.jpg" class="big-image" alt="Luis Valdez, from *NET Playhouse*: El Teatro Campesino (NET, 1970)."></a></td></tr>
 </table>
 
