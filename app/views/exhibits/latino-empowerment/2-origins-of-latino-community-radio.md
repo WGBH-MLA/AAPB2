@@ -4,6 +4,7 @@
 
 ## Summary
 
+
 ### Overview
 
 Spanish-language radio programs have aired on commercial stations in the Southwest since the 1920s; however, most have been devoted solely to serving local Latino populations with popular music.[<sup>1</sup>](/exhibits/latino-empowerment/notes#1) In the 1960s, Chicanos mobilized to create alternatives to commercial radio through public broadcasting with programs in both Spanish and English that discussed topics relevant to their reality. Spanish-language and bilingual programming allowed migrant Latin Americans to foster a sense of familiarity, belonging, representation, and participation in their new homes. Finally, Latinos had access to real-time news and information in their mother tongue to help them navigate the intricacies of American society and embark on paths to prosperity, one of the reasons they had moved to the United States. Latino audiences found in public radio a network of individuals and organizations that helped guide them while preserving their cultural identities. Public broadcasting became an essential link to news, legal and health-related information, cultural programming, and local resources that had been limited or unavailable to Latinos due to the cultural and linguistic barriers that seemingly excluded them from the mainstream.
@@ -16,10 +17,11 @@ Farmworkers, former farmworkers, and Chicano activists created the first bilingu
 
 ### The First Latino Community Radio Stations in the United States
 
+
 #### KBBF-FM: La Voz del Pueblo
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">KBBF Radio Cultura Host with engineers, from [En Camino](https://americanarchive.org/catalog/cpb-aacip-88-0000002c?start=698.9&end=1012.39) (KRCB, 1986).</caption>
+<caption align="bottom" class="exhibit-caption">KBBF Radio Cultura Host with engineers, from En Camino: https://americanarchive.org/catalog/cpb-aacip-88-0000002c?start=698.9&end=1012.39 (KRCB, 1986).</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-KBBF-host-with-engineers-from-En-Camino.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-KBBF-host-with-engineers-from-En-Camino.jpg" class="big-image" alt=" KBBF Radio Cultura Host with engineers, from En Camino (KRCB, 1986)."/></a></td></tr>
 </table>
 
@@ -40,7 +42,7 @@ In an effort to reach wider audiences, KBBF-FM cofounders Hector Molina and Jos√
 #### KDNA: La Voz del Campesino
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Radio Cadena engineer in Seattle studio, from [Realidades: Los Medios de Communicacion y la Communidad Latina](https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1) (WNET, 1977).</caption>
+<caption align="bottom" class="exhibit-caption">Radio Cadena engineer in Seattle studio, from Realidades: Los Medios de Communicacion y la Communidad Latina: https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1 (WNET, 1977).</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg" class="big-image" alt="Radio Cadena engineer in Seattle studio, from Realidades: Los Medios de Communicacion y la Communidad Latina (WNET, 1977)"/></a></td></tr>
 </table>
 
