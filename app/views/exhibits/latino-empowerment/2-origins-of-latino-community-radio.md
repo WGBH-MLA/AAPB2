@@ -94,6 +94,16 @@ According to the Radio Campesina website, the station “has aired forums and de
 
 ## Resources
 
+- [Radio KDNA AAPB collection](https://americanarchive.org/special_collections/radio-kdna) 
+- [Linea Abierta AAPB collection](https://americanarchive.org/special_collections/linea-abierta) 
+- [KBBF](https://kbbf.org/) 
+- [Radio Bilingue](http://radiobilingue.org/en/) 
+- [KDNA](https://kdna.org/)
+- [La Network Campesina](https://campesina.com/) 
+- [Chicana/o Radio Archive](https://chicanaradioarchive.wordpress.com/) 
+- [“Looking Back on the Lesser-Known Histories of ‘Chicano Public Radio’” by Dolores Inés Casillas and Monica De La Torre (*Current*)](https://current.org/2019/07/looking-back-on-the-lesser-known-histories-of-chicano-public-radio/?wallit_nosession=1) 
+- [Latino Public Radio](https://lprnoticias.com/) 
+
 ## Main
 
 ## Cover
