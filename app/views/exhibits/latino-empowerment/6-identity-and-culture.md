@@ -319,6 +319,10 @@ Other relevant programs in the AAPB collection include:
 
 ## Resources
 
+- [National Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/) 
+- [Mexican American Migrations and Communities](https://www.loc.gov/classroom-materials/mexican-american-migrations-and-communities/)
+- [American Museum of the Cuban Diaspora](https://thecuban.org/) 
+
 ## Main
 
 ## Cover
