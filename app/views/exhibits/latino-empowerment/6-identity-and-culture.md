@@ -29,7 +29,7 @@ Hispanic presence and cultural influence in the U.S. has been a constant since t
 #### History
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">[*Chicano! The History of the Mexican American Civil Rights Movement* logo](https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig).</caption>
+<caption align="bottom" class="exhibit-caption">Chicano! The History of the Mexican American Civil Rights Movement logo: https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/chicanologo.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/chicanologo.png" class="big-image" alt="[*Chicano! The History of the Mexican American Civil Rights Movement* logo](https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig)."></a></td></tr>
 </table>
 
@@ -37,18 +37,18 @@ The documentary series *Chicano! The History of the Mexican American Civil Right
 
 #### Literature
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip_15-td9n29ph67'></iframe>
-<caption align="bottom" class="exhibit-caption">*Luis Alberto Urrea: Into the Beautiful North* (Harvard Book Store/WGBH Forum Network, June 21, 2010).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip_15-td9n29ph67'></iframe>
+<caption align="bottom" class="exhibit-caption">Luis Alberto Urrea: Into the Beautiful North* (Harvard Book Store/WGBH Forum Network, June 21, 2010).</caption>
 
 In this lecture and reading at the Harvard Book Store, Mexican-American poet and novelist Luis Alberto Urrea discussed and read an excerpt from *Into the Beautiful North*, his novel about a young Mexican woman who goes on a journey north to recruit men that could help her repopulate her village and protect it from bandits. The son of a Mexican father with Irish ancestry and an American mother, Urrea has said that he came from a family of storytellers. Growing up, he also became invested in telling stories because it was difficult for him to relate to kids his age. “I was a [blonde] kid from Tijuana with a Mexican accent. . . . It was open season on me from any ethnic group.” He used his struggles with his diverse background and family history, along with his experiences with growing up in a rough *barrio* in San Diego to inspire his work. “All those things that as a kid seemed so painful and were such liability to me ended up being the strength of everything.”[<sup>162</sup>](/exhibits/latino-empowerment/notes#162) Urrea has honored his Mexican roots and American upbringing through his work. Critics described him as a “border writer” or a writer who focuses on stories related to the U.S./Mexican border. He has won multiple awards for his writings, including the Lannan Literary Award in 2004 for *The Devil’s Highway*, a story about men who attempted to cross the border through a dangerous part of the Arizona desert. The book also earned him a Pulitzer Prize nomination for non-fiction in 2005. Urrea became a member of the Latino Literature Hall of Fame in 2000.[<sup>163</sup>](/exhibits/latino-empowerment/notes#163)
 
 #### Music
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fv4c?start=2917.38&end=3368%27%3E%3C/iframe%3E'></iframe>
-<caption align="bottom" class="exhibit-caption">"A Tejano Revolutionary" (*The NewsHour with Jim Lehrer*, October 24, 1995).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-507-8k74t6fv4c?start=2917.38&end=3368'></iframe>
+<caption align="bottom" class="exhibit-caption">"A Tejano Revolutionary" (The NewsHour with Jim Lehrer, October 24, 1995).</caption>
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">*The NewsHour with Jim Lehrer* – [Introduction to Selena Segment](https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fv4c?start=2916.32&end=3362.23).</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer – Introduction to Selena Segment: https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fv4c?start=2916.32&end=3362.23.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/selena.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/selena.png" class="big-image" alt="*The NewsHour with Jim Lehrer* – [Introduction to Selena Segment](https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fv4c?start=2916.32&end=3362.23)"></a></td></tr>
 </table>
 
@@ -58,8 +58,8 @@ At age 23, on March 31, 1995, at the height of her career, Selena was shot and k
 
 #### Politics and Government
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-525-0k26970t2f?start=2405.23&end=2870.4%27%3E%3C/iframe%3E'></iframe>
-<caption align="bottom" class="exhibit-caption">"Dolores Huerta" (*PBS NewsHour*, May 30, 2012).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-525-0k26970t2f?start=2405.23&end=2870.4'></iframe>
+<caption align="bottom" class="exhibit-caption">"Dolores Huerta" (PBS NewsHour, May 30, 2012).</caption>
 
 Mexican-American labor leader and activist Dolores Huerta co-founded with César Chávez the United Farm Workers labor union. The UFW “redefined farm labor activism” and inspired other social justice movements.[<sup>166</sup>](/exhibits/latino-empowerment/notes#166) Huerta had no previous negotiation experience, but that proved to be unnecessary. Her passion, natural leadership skills, and desire for justice were more than enough to organize a worldwide boycott that forced growers to negotiate some of the first contracts for the nation’s farmworkers. She utilized her father’s union background and her experience working among Filipino farmworkers in her mother’s businesses to cross the racial divide and unite field workers in a single cause.
 
@@ -67,7 +67,7 @@ This segment on *PBS NewsHour* focuses on Huerta’s career and includes an inte
 
 #### Theater, Television, and Film
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-375-19s1rs0s'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-375-19s1rs0s'></iframe>
 <caption align="bottom" class="exhibit-caption">Luis Valdez (Radio Bilingüe).</caption>
 
 Regarded as “The Father of Chicano Theater” in the U.S., Mexican-American filmmaker, playwright, actor, and writer Luis Valdez founded El Teatro Campesino in California during the United Farm Workers’ grape strike of 1965.[<sup>167</sup>](/exhibits/latino-empowerment/notes#167) The theater troupe traveled from field to field in California’s central valley performing short plays for farmworkers with the purpose to “examine and redefine the heart of the Chicano people: ritual, music, beauty, and spiritual sensitivity.”[<sup>168</sup>](/exhibits/latino-empowerment/notes#168) [See The History of Latino Public Television section in this exhibit for more information on El Teatro Campesino and public television programs featuring the company.] Valdez wrote and directed the play *Zoot Suit*, which he later adapted into a film that he also directed, with many of the play’s Broadway cast members. The film earned Valdez a Golden Globe nomination in 1982.[<sup>169</sup>](/exhibits/latino-empowerment/notes#169) The film *La Bamba*, which Valdez also wrote and directed, was nominated for a Golden Globe nomination in 1988. Both films have been selected by the Library of Congress for the National Film Registry.[<sup>170</sup>](/exhibits/latino-empowerment/notes#170)
@@ -77,7 +77,7 @@ In this radio interview broadcast over Radio Bilingüe, Valdez talked about the 
 #### Traditions and Culture
 
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-88-07gqnm1x?start=1351.74&end=1575.53'></iframe>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-88-07gqnm1x?start=1351.74&end=1575.53'></iframe>
 <caption align="bottom" class="exhibit-caption">En Camino – Day of the Dead Festivities (KRCB, November 13, 1986).</caption>
 
 “El Día de los Muertos” [The Day of the Dead] takes place every year on the first and second days of November. The two-day celebration, an iconic part of Mexico’s folkloric traditions and celebrated by Mexican communities all over the globe, honors the deceased with altars, traditional food, drinks, parades, dances, parties, and traditional masks and toys (skulls and skeletons).[<sup>171</sup>](/exhibits/latino-empowerment/notes#171) The purpose of the tradition is for celebrants to welcome back the souls of those who have passed away and be happy for the lives they lived. It sends the message that death is not the end, but a continuation of life. The origins of the Day of the Dead and ways to participate in festivities are presented in this segment from *En Camino*, a 1980s public affairs program produced by KRCB in Rohnert Park, California. The program is in Spanish with no English subtitles.
@@ -92,11 +92,11 @@ Before Puerto Rico became a territory of the United States, it had endured 405 y
 
 ##### History
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip_526-gt5fb4xr26'></iframe>
-<caption align="bottom" class="exhibit-caption">*Mi Puerto Rico* (Ortiz/Simon Productions, 1995).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip_526-gt5fb4xr26'></iframe>
+<caption align="bottom" class="exhibit-caption">Mi Puerto Rico (Ortiz/Simon Productions, 1995).</caption>
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">*Mi Puerto Rico* Documentary - Introduction.</caption>
+<caption align="bottom" class="exhibit-caption">Mi Puerto Rico* Documentary - Introduction.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/mipuertorico.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/mipuertorico.png" class="big-image" alt="*Mi Puerto Rico* Documentary - Introduction."></a></td></tr>
 </table>
 
@@ -106,8 +106,8 @@ This ninety-minute documentary, directed by Ortiz’s partner, Sharon Simon, and
 
 ##### Literature
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-75-19s1rrr1'></iframe>
-<caption align="bottom" class="exhibit-caption">*NET Journal: The World of Piri Thomas* (NET, February 19, 1968).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-75-19s1rrr1'></iframe>
+<caption align="bottom" class="exhibit-caption">NET Journal: The World of Piri Thomas (NET, February 19, 1968).</caption>
 
 Juan Pedro “Piri” Thomas was a Black Puerto Rican-Cuban writer and poet best known for his memoir *Down These Mean Streets*, which documents his youth growing up in an atmosphere of violence and drugs in New York City’s Spanish Harlem. Thomas’s life was tumultuous. As a kid, he was surrounded by poverty, crime, machismo, and discrimination. Arrested for attempted armed robbery, Thomas served seven years in prison from 1950 to 1956.[<sup>177</sup>](/exhibits/latino-empowerment/notes#177) Afterward, he turned his life around, started writing about the experiences of his youth, and worked in prison and drug rehabilitation programs in New York. In his poetic narrative *Down These Mean Streets*, published in 1967, Thomas gives voice to the often-marginalized Afro-Latino community.[<sup>178</sup>](/exhibits/latino-empowerment/notes#178) Filled with raw emotion, *Down These Mean Streets* takes the reader on Thomas’s journey through the streets of New York and eventually out of the barrio and into a new life.
 
@@ -115,11 +115,11 @@ Thomas wrote and narrated *The World of Piri Thomas*, an hour-long documentary t
 
 ##### Music
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-507-4t6f18sz65?start=3005.82&end=3328.16%27%3E%3C/iframe%3E'></iframe>
-<caption align="bottom" class="exhibit-caption">Essay: Livin' La Vida Loca (*The NewsHour with Jim Lehrer*, August 23, 1999).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-507-4t6f18sz65?start=3005.82&end=3328.16'></iframe>
+<caption align="bottom" class="exhibit-caption">Essay: Livin' La Vida Loca (The NewsHour with Jim Lehrer, August 23, 1999).</caption>
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">*The NewsHour with Jim Lehrer* - Ricky Martin Singing "Living La Vida Loca".</caption>
+<caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer - Ricky Martin Singing "Living La Vida Loca".</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/rickymartin.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/rickymartin.png" class="big-image" alt="*The NewsHour with Jim Lehrer* - Ricky Martin Singing "Living La Vida Loca.""></a></td></tr>
 </table>
 
@@ -129,8 +129,8 @@ Enrique Martín Morales, better known by his stage name “Ricky Martin,” is a
 
 ##### Politics and Government
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-525-6t0gt5gd56?start=126.91&end=1053.01%27%3E%3C/iframe%3E'></iframe>
-<caption align="bottom" class="exhibit-caption">Confirmation of Sonia Sotomayor as U.S. Supreme Court Justice (*The NewsHour with Jim Lehrer*, August 6, 2009).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-525-6t0gt5gd56?start=126.91&end=1053.01'></iframe>
+<caption align="bottom" class="exhibit-caption">Confirmation of Sonia Sotomayor as U.S. Supreme Court Justice (The NewsHour with Jim Lehrer, August 6, 2009).</caption>
 
 In 2009, Sonia Sotomayor, daughter of Puerto Rican parents, became the first Hispanic U.S. Supreme Court justice in American history. She was President Obama’s choice to replace Justice David H. Souter due to her impressive judicial record and, in Obama’s words, her “extraordinary journey” from modest beginnings growing up in a South Bronx housing project to becoming an associate justice on the highest court in America.[<sup>185</sup>](/exhibits/latino-empowerment/notes#185) As an undergraduate at Princeton, Sotomayor had written a thesis on Puerto Rican history. As an activist, she co-founded the school’s Latino Student Organization, became co-chairwoman of the Puerto Rican student group Acción Puertorriqueña and a member of the Third World Center’s governing board, and participated in a complaint by Puerto Rican and Chicano students to the Department of Health, Education and Welfare against the university’s “institutional pattern of discrimination.”[<sup>186</sup>](/exhibits/latino-empowerment/notes#186) In 1980, she joined the board of the Puerto Rican Legal Defense and Education Fund, serving until 1992 when she became a federal judge.[<sup>187</sup>](/exhibits/latino-empowerment/notes#187) She has said of her work that she “strive[s] never to forget the real-world consequences of [her] decisions on individuals, businesses, and government,” demonstrating the capacity for empathy that became an asset during her nomination.[<sup>188</sup>](/exhibits/latino-empowerment/notes#188)
 
@@ -140,11 +140,11 @@ On August 6, 2009, the day that the U.S. Senate confirmed Sotomayor’s nominati
 
 ##### Theater, Television, and Film
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-525-bn9x05zb6q?start=2906.4&end=3242.08%27%3E%3C/iframe%3E'></iframe>
-<caption align="bottom" class="exhibit-caption">"Rita Moreno" (*PBS NewsHour*, October 1, 2013).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-525-bn9x05zb6q?start=2906.4&end=3242.08'></iframe>
+<caption align="bottom" class="exhibit-caption">"Rita Moreno" (PBS NewsHour, October 1, 2013).</caption>
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">*PBS NewsHour* - Rita Moreno on the cover of *Life* magazine.</caption>
+<caption align="bottom" class="exhibit-caption">PBS NewsHour - Rita Moreno on the cover of Life magazine.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/ritamoreno.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ritamoreno.png" class="big-image" alt="*PBS NewsHour* - Rita Moreno on the cover of *Life* magazine."></a></td></tr>
 </table>
 
@@ -156,11 +156,11 @@ In an interview conducted in 2000 by the Television Academy, Moreno noted that L
 
 ##### Identity and Political Status
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-507-0000000m18'></iframe>
-<caption align="bottom" class="exhibit-caption">Puerto Rican Statehood (*The MacNeil/Lehrer Report*, January 3, 1977).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embedcpb-aacip-507-0000000m18'></iframe>
+<caption align="bottom" class="exhibit-caption">Puerto Rican Statehood (The MacNeil/Lehrer Report, January 3, 1977).</caption>
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-507-vt1gh9c665'></iframe>
-<caption align="bottom" class="exhibit-caption">Puerto Rican Independence (*The MacNeil/Lehrer Report, August 15, 1977).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-507-vt1gh9c665'></iframe>
+<caption align="bottom" class="exhibit-caption">Puerto Rican Independence (The MacNeil/Lehrer Report, August 15, 1977).</caption>
 
 Since 1952, Puerto Rico has been a commonwealth, or a “free associated state,” of the U.S. While Puerto Ricans are American citizens, the commonwealth has its own government, flag, national anthem, and constitution. Although the island has a certain level of autonomy, the U.S. Congress reserves the constitutional right to legislate directly concerning the local affairs of Puerto Rico.
 
@@ -184,11 +184,11 @@ Salvadoran people have struggled and lost many loved ones, but they are resilien
 
 ##### History
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-77-76f1wqjc'></iframe>
-<caption align="bottom" class="exhibit-caption">Salvadoran Refugees (*Nighttimes Magazine*, Twin Cities Public Television, April 15, 1983).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-77-76f1wqjc'></iframe>
+<caption align="bottom" class="exhibit-caption">Salvadoran Refugees (Nighttimes Magazine, Twin Cities Public Television, April 15, 1983).</caption>
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">*Night Times Magazine* Introduction.</caption>
+<caption align="bottom" class="exhibit-caption">Night Times Magazine Introduction.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/nighttimesmagazine.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/nighttimesmagazine.png" class="big-image" alt="*Night Times Magazine* Introduction."></a></td></tr>
 </table>
 
@@ -196,11 +196,11 @@ On April 15, 1983, Twin Cities Public Television in Minnesota devoted a full epi
 
 ##### Literature
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-525-gf0ms3m39d?start=2724.39&end=3209.68%27%3E%3C/iframe%3E'></iframe>
-<caption align="bottom" class="exhibit-caption">"A Safe Haven for Writers in Danger"( *PBS NewsHour*, September 30, 2010).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-525-gf0ms3m39d?start=2724.39&end=3209.68'></iframe>
+<caption align="bottom" class="exhibit-caption">"A Safe Haven for Writers in Danger" (PBS NewsHour, September 30, 2010).</caption>
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Horacio Castellanos Moya - *PBS NewsHour*.</caption>
+<caption align="bottom" class="exhibit-caption">Horacio Castellanos Moya - PBS NewsHour.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/horacio_castellanos_moya.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/horacio_castellanos_moya.png" class="big-image" alt="Horacio Castellanos Moya - *PBS NewsHour*."></a></td></tr>
 </table>
 
@@ -210,8 +210,8 @@ Regarding the reason that the government targeted his novel, Castellanos Moya st
 
 ##### Politics and Government
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-525-p26pz52q66?start=695.07&end=1377.85'></iframe>
-<caption align="bottom" class="exhibit-caption">"U.S. Policies and Gang Violence in El Salvador"(*PBS NewsHour Weekend*, November 8, 2014).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-525-p26pz52q66?start=695.07&end=1377.85'></iframe>
+<caption align="bottom" class="exhibit-caption">"U.S. Policies and Gang Violence in El Salvador"(PBS NewsHour Weekend, November 8, 2014).</caption>
 
 The signature segment of *PBS NewsHour Weekend* for November 8, 2014, presented the “untold story” behind a surge of tens of thousands of people fleeing gang violence in El Salvador the previous summer and attempting to find refuge in the U.S. The segment linked the exodus in 2014 to the 1980s civil war in El Salvador and a change in U.S. criminal justice legislation that had occurred in 1996. In the 1980s, thousands of Salvadorans left El Salvador fleeing the brutal civil war that took the lives of more than 75,000 people.[<sup>198</sup>](/exhibits/latino-empowerment/notes#198) Many settled in downtown Los Angeles, where they experienced poverty, crime, and violence. Some of the immigrants, like an El Salvador gang member who was interviewed in this program, joined L.A. street gangs, such as *Barrio 18* [18th Street Gang] and MS 13, to survive and get protection. Ultimately, some of these immigrants served time in prison. The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 made deportation possible for criminals serving a prison sentence of only one year, a change from the previous five-year minimum.[<sup>199</sup>](/exhibits/latino-empowerment/notes#199) As a result, the government deported a large number of Salvadoran gang members back to El Salvador. Once there, they began mass recruiting young locals to join their gangs by promising wealth and street cred, or by threatening their lives. The Salvadoran government maintains that the U.S. did not inform them of the criminal history of the new arrivals. Violence in El Salvador skyrocketed after the enactment of the 1996 immigration law, and an estimated one in four Salvadorans have thought about leaving the country. The segment includes interviews with gang members, Salvadorans planning to flee to the U.S., and former police crime analysts from El Salvador and Orange County, CA.
 
@@ -227,11 +227,11 @@ Throughout the period that included the Cuban Missile Crisis, the American embar
 
 ##### History
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip_304-687h4mj4'></iframe>
-<caption align="bottom" class="exhibit-caption">*Florida Matters* (WUSF, March 2009).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip_304-687h4mj4'></iframe>
+<caption align="bottom" class="exhibit-caption">Florida Matters (WUSF, March 2009).</caption>
 
 <table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">*Florida Matters* – Roberto Quiros.</caption>
+<caption align="bottom" class="exhibit-caption">Florida Matters – Roberto Quiros.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/floridamatters.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/floridamatters.png" class="big-image" alt="*Florida Matters* – Roberto Quiros."></a></td></tr>
 </table>
 
@@ -241,15 +241,15 @@ President Obama had recently signed a bill easing restrictions put in place afte
 
 ##### Literature
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-16-2v2c824p0s'></iframe>
-<caption align="bottom" class="exhibit-caption">Carlos Eire - *Waiting for Snow in Havana: Confessions of a Cuban Boy* (*Focus 580*, WILL Illinois Public Media, March 26, 2004).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-16-2v2c824p0s'></iframe>
+<caption align="bottom" class="exhibit-caption">Carlos Eire - Waiting for Snow in Havana: Confessions of a Cuban Boy (Focus 580, WILL Illinois Public Media, March 26, 2004).</caption>
 
 Carlos Eire, a professor of history and religious studies at Yale University, was one of the more than 14,000 Cuban children airlifted from Havana to the U.S. between 1960 and 1962 in Operation Pedro Pan.[<sup>206</sup>](/exhibits/latino-empowerment/notes#206) After members of his family were arrested and tortured by the Castro regime, and children were being taken from Cuban parents to labor in the countryside, Eire’s parents arranged for him and his older brother to go to the U.S. in the airlift, expecting to follow in a few months. Because of the Cuban Missile Crisis, however, it took three and a half years before Eire reunited with his mother, and he never saw his father again. Eire discussed his memoir of the period, *Waiting for Snow in Havana: Confessions of a Cuban Boy* (2003), on *Focus 580*, a call-in show from WILL, Illinois Public Radio. The memoir, a narrative of growing up during the Cuban Revolution and the first years of the Castro regime, earned him the National Book Award in 2003 for non-fiction. His second memoir, *Learning to Die in Miami*, on the exile experience, was published in 2010. Cuba has banned all of Eire’s books, and he has been deemed an enemy of the state.[<sup>207</sup>](/exhibits/latino-empowerment/notes#207)
 
 ##### Music
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-525-2z12n50q0g?start=2890.46&end=3293.51%27%3E%3C/iframe%3E'></iframe>
-<caption align="bottom" class="exhibit-caption">Gloria and Emilio Estefan (*PBS NewsHour*, May 3, 2019).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-525-2z12n50q0g?start=2890.46&end=3293.51'></iframe>
+<caption align="bottom" class="exhibit-caption">Gloria and Emilio Estefan (PBS NewsHour, May 3, 2019).</caption>
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Emilio and Gloria Estefan at the Library of Congress Gershwin Prize celebration.</caption>
@@ -262,8 +262,8 @@ Throughout her extensive career, Gloria Estefan has received multiple Grammy awa
 
 In March 2019, the Estefans were the recipients of the Library of Congress Gershwin Prize for Popular Song.[<sup>212</sup>](/exhibits/latino-empowerment/notes#212) Two months later on the evening of broadcast of the ceremony over PBS, they discussed their extensive career together. In recounting her childhood, Gloria noted that her father, formerly a police officer under the Batista regime, served a two-year sentence in Cuba as a political prisoner for participating in the 1961 Bay of Pigs invasion. “For those two years,” she stated, “I started playing guitar and singing. . . . So music was my catharsis.” Acknowledging that they “still have an immigrant mentality,” Gloria explained it as “that kind of thing where you’re always thinking, ‘This can go away, this can go away, you have to be safe, you have to be careful.’” Emilio commented, “I think in this country that people take things for granted, and one of the things that we don’t take for granted is freedom. We came to this country not looking for maybe a better opportunity, we were looking for freedom.”
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip-15-2z12n4zk3v'></iframe>
-<caption align="bottom" class="exhibit-caption">Notes from the Mambo Inn: The Story of Mario Bauzá (*La Plaza*, WGBH, 1991).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip-15-2z12n4zk3v'></iframe>
+<caption align="bottom" class="exhibit-caption">Notes from the Mambo Inn: The Story of Mario Bauzá (La Plaza, WGBH, 1991).</caption>
 
 <table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Notes from the Mambo Inn.</caption>
@@ -278,8 +278,8 @@ Bauzá was proud of his Afro-Cuban heritage, stating in the episode: “Afro-Cub
 
 ##### Politics and Government
 
-<iframe class="exhibit-small-iframe" src='https://americanarchive.org/catalog/cpb-aacip_15-84mkmc9h'></iframe>
-<caption align="bottom" class="exhibit-caption">"An Invitation from Cuba" (*Say Brother*, WGBH, 1979).</caption>
+<iframe class="exhibit-small-iframe" src='https://americanarchive.org/embed/cpb-aacip_15-84mkmc9h'></iframe>
+<caption align="bottom" class="exhibit-caption">"An Invitation from Cuba" (Say Brother, WGBH, 1979).</caption>
 
 In November 1978, as possibilities for the normalization of relations between the U.S. and Cuba were increasing, a delegation of Cuban exiles from the U.S. and a few other countries, known as the Committee of 75, traveled to Havana at Fidel Castro’s invitation to engage in dialogue with Castro and Cuban officials. After the meeting, Castro agreed to release more than 3,000 political prisoners and allow Cuban exiles to visit their families.[<sup>215</sup>](/exhibits/latino-empowerment/notes#215) *Say Brother*, a public affairs television program produced by WGBH in Boston by and for the African American community, featured a debate between three members of the Boston Cuban community who were in favor of the dialogue and three who opposed. The hour-long program gave an in-depth look at the different opinions on the matter in a well-moderated, but vigorous debate. More than 100,000 Cuban Americans visited Cuba in 1979, most of whom brought gifts to relatives and friends. During a period of recession in Cuba with shortages of consumer goods, many Cubans, seeing the relative prosperity of the visiting Americans, decided to claim political asylum in order to emigrate to the U.S., leading soon after to the Mariel boatlift and increased tensions between the two nations.[<sup>216</sup>](/exhibits/latino-empowerment/notes#216)
 
