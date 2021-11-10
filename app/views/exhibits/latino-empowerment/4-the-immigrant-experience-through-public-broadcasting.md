@@ -4,6 +4,9 @@
 
 ## Summary
 
+## Extended
+
+## Main
 
 ### Introduction
 
@@ -220,9 +223,7 @@ There are many other programs and collections in the American Archive of Public 
 
 - [Bracero History Archive](http://braceroarchive.org/)
 - [*Fear and Learning at Hoover Elementary*](https://www.kanopy.com/product/fear-and-learning-hoover-elementary)
-- [Immigration and Relocation in U.S. History (Library of Congress)](https://www.loc.gov/classroom-materials/immigration/) 
-
-## Main
+- [Immigration and Relocation in U.S. History (Library of Congress)](https://www.loc.gov/classroom-materials/immigration/)
 
 ## Cover
 

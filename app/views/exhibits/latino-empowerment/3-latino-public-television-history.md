@@ -4,6 +4,9 @@
 
 ## Summary
 
+## Extended
+
+## Main
 
 ### Introduction
 
@@ -172,12 +175,10 @@ PBS NewsHour senior correspondent Ray Suarez, who wrote the companion book for t
 
 - [Latino Public Broadcasting](https://lpbp.org/)
 - [*Chicano: History of the Mexican-American Civil Rights Movement*](https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig)
-- [Austin Revealed: Chicano Civil Rights](https://www.pbslearningmedia.org/collection/austin-revealed-chicano-civil-rights/) 
-- [*Carrascolendas* (PBS)](https://www.pbs.org/show/carrascolendas/) 
-- [Realidades Remembered 1971-1978](https://tallerboricua.org/project/realidades-remembered/) 
-- [El Teatro Campensino](https://elteatrocampesino.com/) 
-
-## Main
+- [Austin Revealed: Chicano Civil Rights](https://www.pbslearningmedia.org/collection/austin-revealed-chicano-civil-rights/)
+- [*Carrascolendas* (PBS)](https://www.pbs.org/show/carrascolendas/)
+- [Realidades Remembered 1971-1978](https://tallerboricua.org/project/realidades-remembered/)
+- [El Teatro Campensino](https://elteatrocampesino.com/)
 
 
 ## Cover

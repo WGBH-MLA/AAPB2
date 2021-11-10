@@ -4,6 +4,9 @@
 
 ## Summary
 
+## Extended
+
+## Main
 
 ### Introduction
 
@@ -129,11 +132,9 @@ English-language media also covered the hardships that farmworkers would go thro
 ## Resources
 
 - [*Chicano: History of the Mexican-American Civil Rights Movement*](https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig)
-- [United Farm Workers](https://ufw.org/) 
-- [Radio KDNA: The Voice of the Farmworker, 1975-1985](https://depts.washington.edu/civilr/farmwk_ch8.htm) 
-- [Radio Bilingue](http://radiobilingue.org/en/) 
-
-## Main
+- [United Farm Workers](https://ufw.org/)
+- [Radio KDNA: The Voice of the Farmworker, 1975-1985](https://depts.washington.edu/civilr/farmwk_ch8.htm)
+- [Radio Bilingue](http://radiobilingue.org/en/)
 
 ## Cover
   <img title="Cover Image" alt="Agricultural workers’ home in Oregon, from *The Oregon Story*: Agricultural Workers" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices-of-Dissent-Agricultural-workers-home-in-Oregon.jpg">

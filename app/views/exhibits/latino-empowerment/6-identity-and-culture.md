@@ -4,6 +4,10 @@
 
 ## Summary
 
+## Extended
+
+## Main
+
 ### Introduction
 
 A study of national commercial network television news coverage of Latino-related topics from 2008 to 2014 indicated that less than one percent of the news stories that aired on television were about Latinos or featured Latinos. In those stories, arts and cultural topics made up only 1.14% of the total coverage and entertainment stories only 2.62%. The most prominent types of news stories were related to immigration (18.4%) and crime (18%).[<sup>150</sup>](/exhibits/latino-empowerment/notes#150)
@@ -321,11 +325,9 @@ Other relevant programs in the AAPB collection include:
 
 ## Resources
 
-- [National Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/) 
+- [National Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/)
 - [Mexican American Migrations and Communities](https://www.loc.gov/classroom-materials/mexican-american-migrations-and-communities/)
-- [American Museum of the Cuban Diaspora](https://thecuban.org/) 
-
-## Main
+- [American Museum of the Cuban Diaspora](https://thecuban.org/)
 
 ## Cover
   <img title="Cover Image" alt="Rita Moreno on the cover of *Life* magazine." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ritamoreno.png">

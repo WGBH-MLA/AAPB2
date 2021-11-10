@@ -4,8 +4,11 @@
 
 ## Summary
 
+## Extended
 
-### Overview
+## Main
+
+### Introduction
 
 Spanish-language radio programs have aired on commercial stations in the Southwest since the 1920s; however, most have been devoted solely to serving local Latino populations with popular music.[<sup>1</sup>](/exhibits/latino-empowerment/notes#1) In the 1960s, Chicanos mobilized to create alternatives to commercial radio through public broadcasting with programs in both Spanish and English that discussed topics relevant to their reality. Spanish-language and bilingual programming allowed migrant Latin Americans to foster a sense of familiarity, belonging, representation, and participation in their new homes. Finally, Latinos had access to real-time news and information in their mother tongue to help them navigate the intricacies of American society and embark on paths to prosperity, one of the reasons they had moved to the United States. Latino audiences found in public radio a network of individuals and organizations that helped guide them while preserving their cultural identities. Public broadcasting became an essential link to news, legal and health-related information, cultural programming, and local resources that had been limited or unavailable to Latinos due to the cultural and linguistic barriers that seemingly excluded them from the mainstream.
 
@@ -94,17 +97,15 @@ According to the Radio Campesina website, the station “has aired forums and de
 
 ## Resources
 
-- [Radio KDNA AAPB collection](https://americanarchive.org/special_collections/radio-kdna) 
-- [Linea Abierta AAPB collection](https://americanarchive.org/special_collections/linea-abierta) 
-- [KBBF](https://kbbf.org/) 
-- [Radio Bilingue](http://radiobilingue.org/en/) 
+- [Radio KDNA AAPB collection](https://americanarchive.org/special_collections/radio-kdna)
+- [Linea Abierta AAPB collection](https://americanarchive.org/special_collections/linea-abierta)
+- [KBBF](https://kbbf.org/)
+- [Radio Bilingue](http://radiobilingue.org/en/)
 - [KDNA](https://kdna.org/)
-- [La Network Campesina](https://campesina.com/) 
-- [Chicana/o Radio Archive](https://chicanaradioarchive.wordpress.com/) 
-- [“Looking Back on the Lesser-Known Histories of ‘Chicano Public Radio’” by Dolores Inés Casillas and Monica De La Torre (*Current*)](https://current.org/2019/07/looking-back-on-the-lesser-known-histories-of-chicano-public-radio/?wallit_nosession=1) 
-- [Latino Public Radio](https://lprnoticias.com/) 
-
-## Main
+- [La Network Campesina](https://campesina.com/)
+- [Chicana/o Radio Archive](https://chicanaradioarchive.wordpress.com/)
+- [“Looking Back on the Lesser-Known Histories of ‘Chicano Public Radio’” by Dolores Inés Casillas and Monica De La Torre (*Current*)](https://current.org/2019/07/looking-back-on-the-lesser-known-histories-of-chicano-public-radio/?wallit_nosession=1)
+- [Latino Public Radio](https://lprnoticias.com/)
 
 ## Cover
   <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
