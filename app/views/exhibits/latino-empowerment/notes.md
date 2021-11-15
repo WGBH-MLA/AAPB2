@@ -6,7 +6,7 @@
 
 <a name="1"></a><sup>1</sup> Magdaleno Manzanárez, “KBBF, the First Chicano, Bilingual Public Radio: An Alternative Voice in the Era of Media Mega-Mergers” (Paper delivered at the National Association of Chicana and Chicano Studies Conference, Guadalajara, Mexico, July 2006).
 
-<a name="2"></a><sup>2</sup> Magdaleno Manzanárez, “KBBF, the First Chicano, Bilingual Public Radio: An Alternative Voice in the Era of Media Mega-Mergers” (Paper delivered at the National Association of Chicana and Chicano Studies Conference, Guadalajara, Mexico, July 2006), 4.
+<a name="2"></a><sup>2</sup> “Manzanárez, “KBBF,” 4.”
 
 <a name="3"></a><sup>3</sup> Hugo Morales, quoted in Miles Corwin, "A Voice for Farm Workers," *Los Angeles Times*, August 20, 1989, 3.
 
@@ -36,9 +36,9 @@
 
 <a name="16"></a><sup>16</sup> Manzanárez, “KBBF.”
 
-<a name="17"></a><sup>17</sup> Richard Mahler, “Radio: Buenos Dias, America,” *Los Angeles Times*, March 25, 1979, ProQuest.
+<a name="17"></a><sup>17</sup> Richard Mahler, “Radio: Buenos Dias, America,” *Los Angeles Times*, March 25, 1979.
 
-<a name="18"></a><sup>18</sup> Hilliard Harper, “NPR Criticized for Canceling Latino Newscast,” *Los Angeles Times*, February 27, 1988, ProQuest.
+<a name="18"></a><sup>18</sup> Hilliard Harper, “NPR Criticized for Canceling Latino Newscast,” *Los Angeles Times*, February 27, 1988.
 
 <a name="19"></a><sup>19</sup> De La Torre, “Sonic Bridging,” 149.
 
@@ -46,13 +46,13 @@
 
 <a name="21"></a><sup>21</sup> De La Torre, “Feminista Frequencies,” 159-60.
 
-<a name="22"></a><sup>22</sup> Kimberlee Craig, “On the Air,” *Yakama Herald-Republic*, December 17, 1979, in Oscar Rosales Castañeda, “Radio KDNA: The Voice of the Farmworker, 1975-1985, The Seattle Civil Rights & Labor History Project,  https://depts.washington.edu/civilr/farmwk_ch8.htm.
+<a name="22"></a><sup>22</sup> Kimberlee Craig, “On the Air,” *Yakama Herald-Republic*, December 17, 1979, in Oscar Rosales Castañeda, “Radio KDNA: The Voice of the Farmworker, 1975-1985," The Seattle Civil Rights & Labor History Project,  https://depts.washington.edu/civilr/farmwk_ch8.htm.
 
 <a name="23"></a><sup>23</sup> De La Torre, “‘Programas Sin Vergüenza (Shameless Programs)’,” 186.
 
 <a name="24"></a><sup>24</sup> Rosa Ramón, quoted in De La Torre, “Feminista Frequencies,” 169.
 
-<a name="25"></a><sup>25</sup> “Our Mission,” KDNA La Voz del Campesino,” accessed January 13, 2020, http://www.kdna.org/our-mission/.
+<a name="25"></a><sup>25</sup> “Our Mission,” KDNA La Voz del Campesino, accessed January 13, 2020, http://www.kdna.org/our-mission/.
 
 <a name="26"></a><sup>26</sup> De La Torre, “Feminista Frequencies,” 172.
 
@@ -60,7 +60,7 @@
 
 <a name="28"></a><sup>28</sup> Corwin, “A Voice for Farm Workers,” 3.
 
-<a name="29"></a><sup>29</sup> Kathleen Teltsch, “Success Is Reaching Out to a Hispanic Organizer,” *New York Times*, May 9, 1988, ProQuest.
+<a name="29"></a><sup>29</sup> Kathleen Teltsch, “Success Is Reaching Out to a Hispanic Organizer,” *New York Times*, May 9, 1988.
 
 <a name="30"></a><sup>30</sup> “Our Organization and Mission,” Radio Bilingüe, http://radiobilingue.org/en/quienes-somos/historia-y-mision/.
 
@@ -82,13 +82,13 @@
 
 <a name="39"></a><sup>39</sup> Casillas, *Sounds of Belonging*, 60.
 
-<a name="40"></a><sup>40</sup> “UFW Radio Station Spreads Labor News,” *Los Angeles Times*, July 3, 1983, ProQuest.
+<a name="40"></a><sup>40</sup> “UFW Radio Station Spreads Labor News,” *Los Angeles Times*, July 3, 1983.
 
 <a name="41"></a><sup>41</sup> “About Us,” La Network Campesina.
 
 <a name="42"></a><sup>42</sup> Luis Reyes and Peter Rubie, *Hispanics in Hollywood: A Celebration of 100 Years in Film and Television* (Hollywood: Lone Eagle Publishing Co., 2000), 312.
 
-<a name="43"></a><sup>43</sup> Jesús Salvador Treviño, “Latinos and Public Broadcasting: The 2% factor,” *Jump Cut*, no. 28 (April 1983): 65. https://www.ejumpcut.org/archive/onlinessays/JC28folder/PBSandLatinos.html.
+<a name="43"></a><sup>43</sup> Jesús Salvador Treviño, “Latinos and Public Broadcasting: The 2% factor,” *Jump Cut*, no. 28 (April 1983): 65, https://www.ejumpcut.org/archive/onlinessays/JC28folder/PBSandLatinos.html.
 
 <a name="44"></a><sup>44</sup> Chon A. Noriega, *Shot in America: Television, the State, and the Rise of Chicano Cinema* (Minneapolis: University of Minnesota Press, 2000), 139.
 
@@ -96,13 +96,13 @@
 
 <a name="46"></a><sup>46</sup> Elson Trinidad, “October 1968 – ‘Canción de la Raza,’ 1st KCET Program on Latino Community, Premieres,” KCET, September 24, 2014, https://www.kcet.org/kcet-50th-anniversary/october-1968-cancion-de-la-raza-1st-kcet-program-on-latino-community-premieres.
 
-<a name="47"></a><sup>47</sup> Spanish ‘Sesame Street’ Stimulates Chicano Viewers,” *Christian Science Monitor*, August 4, 1973.
+<a name="47"></a><sup>47</sup> "Spanish ‘Sesame Street’ Stimulates Chicano Viewers,” *Christian Science Monitor*, August 4, 1973.
 
 <a name="48"></a><sup>48</sup> Frederick Williams and Diana S. Natalicio, “Evaluating Carrascolendas: A Television Series for Mexican-American Children,” *Journal of Broadcasting* 16, no. 3 (Summer 1972), 309; Belinda Acosta, “Have You Ever Been to *Carrascolendas*? Revisiting Austin’s Award-Winning Bilingual TV Series,” *Austin Chronicle*, July 4, 2003, https://www.austinchronicle.com/screens/2003-07-04/166689/; “KCET Slates Youth Series,” *Los Angeles Times*, October 13, 1972; “TV Grants Given to Aid Minority Pupils,” *New York Times*, July 4, 1973.
 
 <a name="49"></a><sup>49</sup> Spanish ‘Sesame Street,’”; Aida Barrera, *Looking for Carrascolendas: From a Child’s World to Award-Winning Television* (Austin: University of Texas Press, 2001).
 
-<a name="50"></a><sup>50</sup> *Chon A. Noriega, “Imagined Borders: Locating Chicano Cinema in America/América," in *The Ethnic Eye: Latino Media Arts*, ed. Chon A. Noriega and Ana M. López (Minneapolis: University of Minnesota Press, 1996), 9.
+<a name="50"></a><sup>50</sup> Chon A. Noriega, “Imagined Borders: Locating Chicano Cinema in America/América," in *The Ethnic Eye: Latino Media Arts*, ed. Chon A. Noriega and Ana M. López (Minneapolis: University of Minnesota Press, 1996), 9.
 
 <a name="51"></a><sup>51</sup> Jesús Salvador Treviño, *Eyewitness: A Filmmaker’s Memoir of the Chicano Movement* (Houston, TX: Arte Público, 2001), 123.
 
@@ -120,9 +120,9 @@
 
 <a name="58"></a><sup>58</sup> Reyes and Rubie, *Hispanics in Hollywood*, 351-52.
 
-<a name="59"></a><sup>59</sup> Beatrice Berg, “Anglos Can Watch, Too,” *New York Times*, December 17, 1972. ProQuest.
+<a name="59"></a><sup>59</sup> Beatrice Berg, “Anglos Can Watch, Too,” *New York Times*, December 17, 1972.
 
-<a name="60"></a><sup>60</sup> Due to copyright restrictions, AAPB cannot make this program available online, but visitors are welcome to view it onsite at the Library of Congress.
+<a name="60"></a><sup>60</sup> El Banquiné de Angelitos Negros can be viewed onsite at the Library of Congress and GBH.
 
 <a name="61"></a><sup>61</sup> Noriega, *Shot in America*, 151.
 
@@ -136,13 +136,13 @@
 
 <a name="66"></a><sup>66</sup> Alice Hernandez, Press Release *Images/Imagenes*, Rutgers University, New Brunswick, revised January 29, 2019.
 
-<a name="67"></a><sup>67</sup> William Q. Sanchéz, interview with Alan Gevinson and Gabriela Rivera Marin (American Archive of Public Broadcasting), February 25, 2020.
+<a name="67"></a><sup>67</sup> William Q. Sánchez, interview with Alan Gevinson and Gabriela Rivera Marin (American Archive of Public Broadcasting), February 25, 2020.
 
 <a name="68"></a><sup>68</sup> Alice Hernandez, “*Images/Imagenes* Celebrates Premier on NJTV & the Latino(a) Celebrity Performing Arts Awards,” Rutgers University, New Brunswick, December 11, 2019.
 
 <a name="69"></a><sup>69</sup> Treviño, “Latinos and Public Broadcasting,” 65.
 
-<a name="70"></a><sup>70</sup> Les Brown, "Grant for PBS Latin Series Goes Directly to Producer," *New York Times*, October 27, 1979, 45, ProQuest.
+<a name="70"></a><sup>70</sup> Les Brown, "Grant for PBS Latin Series Goes Directly to Producer," *New York Times*, October 27, 1979, 45.
 
 <a name="71"></a><sup>71</sup> Treviño states that the Oye Willie series was not funded for a second year “for what appear valid reasons.” See Treviño, “Latinos and Public Broadcasting,” 65.
 
@@ -242,7 +242,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="118"></a><sup>118</sup> Gutiérrez, "Mexican Immigration."
 
-<a name="119"></a><sup>119</sup> For further information on DACA, see Kevin R. Johnson, “Lessons about the Future of Immigration Law from the Rise and Fall of DACA,” 52 U.C.D. L. Rev. 343 (2018-2019),  https://lawreview.law.ucdavis.edu/issues/52/1/Symposium/52-1_Johnson.pdf; Shoba S. Wadhia, “The President and Deportation: DACA, DAPA, and the Sources and Limits of Executive Authority - Response to HiroshiMotomura,” 55Washburn L.J.189 (2016), https://elibrary.law.psu.edu/cgi/viewcontent.cgi?article=1263&context=fac_works.
+<a name="119"></a><sup>119</sup> For further information on DACA, see Kevin R. Johnson, “Lessons about the Future of Immigration Law from the Rise and Fall of DACA,” 52 U.C.D. L. Rev. 343 (2018-2019),  https://lawreview.law.ucdavis.edu/issues/52/1/Symposium/52-1_Johnson.pdf; Shoba S. Wadhia, “The President and Deportation: DACA, DAPA, and the Sources and Limits of Executive Authority - Response to Hiroshi Motomura,” 55Washburn L.J.189 (2016), https://elibrary.law.psu.edu/cgi/viewcontent.cgi?article=1263&context=fac_works.
 
 <a name="120"></a><sup>120</sup> Reilly Frye, “Family Separation under the Trump Administration: Applying an International Criminal Law Framework,” *Journal of Criminal Law and Criminology* 110, no. 2 (2020): 349, https://www.jstor.org/stable/48572373.
 
@@ -250,7 +250,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="122"></a><sup>122</sup> Branton and Dunaway, “English- and Spanish-Language Media Coverage of Immigration.”
 
-<a name="123"></a><sup>123</sup> Dolores Inés Casillas, "Sounds of Surveillance: U.S. Spanish-Language Radio Patrols La Migra," *American Quarterly* 63, no. 3 (September 2011), 811-12, http://www.jstor.org/stable/4123757.
+<a name="123"></a><sup>123</sup> Casillas, “Sounds of Surveillance,” 811-12.
 
 <a name="124"></a><sup>124</sup> Casillas, “Sounds of Surveillance,” 814.
 
@@ -258,13 +258,13 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="126"></a><sup>126</sup> “Images/Imágenes Series: Award Winning Leader in Public Broadcasting,” press release, no date.
 
-<a name="127"></a><sup>127</sup> American Archive of Public Broadcasting, “Interview with William Q. Sanchéz,” February 25, 2020.
+<a name="127"></a><sup>127</sup> American Archive of Public Broadcasting, “Interview with William Q. Sánchez,” February 25, 2020.
 
 <a name="128"></a><sup>128</sup> Juan Gonzalez, *Harvest of Empire: A History of Latinos in America* (New York: Penguin Books, 2011), 81.
 
 <a name="129"></a><sup>129</sup> Library of Congress, “Crossing the Straits,” https://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/immigration/cuban5.html.
 
-<a name="130"></a><sup>130</sup> Federico Subervi, Joseph Torres, and Daniela Montalvo, *Network Brownout Report 2005: The Portrayal of Latinos & Latino Issues on Network Television News, 2004 with a Retrospect to 1995* (Austin and Washington, DC: National Association of Hispanic Journalists, 2005).
+<a name="130"></a><sup>130</sup> Federico Subervi, Joseph Torres, and Daniela Montalvo, *Network Brownout Report 2005: The Portrayal of Latinos & Latino Issues on Network Television News, 2004 with a Retrospect to 1995* (Austin and Washington, DC: National Association of Hispanic Journalists, 2005), https://nahj.org/wp-content/uploads/2021/01/2005-NAHJ-Network-Brownout-Report.pdf.
 
 <a name="131"></a><sup>131</sup> Federico Subervi, “Latinos in TV Network News 2008-2014: Still Mostly Invisible and Problematic,” January 2017, https://www.researchgate.net/publication/312577225.
 
@@ -272,19 +272,19 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="133"></a><sup>133</sup> Lisa M. Edwards and Andrea J. Romero, “Coping with Discrimination among Mexican Descent Adolescents,” *Hispanic Journal of Behavioral Sciences* 30, no. 1 (February 2008), 24-39.
 
-<a name="134"></a><sup>134</sup> Elena Flores, et al., “Perceived Racial/Ethnic Discrimination, Posttraumatic Stress Symptoms, and Health Risk Behaviors Among Mexican American Adolescents,” *Journal of Counseling Psychology* 57, no. 3 (2010), 264-73.
+<a name="134"></a><sup>134</sup> Elena Flores et al., “Perceived Racial/Ethnic Discrimination, Posttraumatic Stress Symptoms, and Health Risk Behaviors Among Mexican American Adolescents,” *Journal of Counseling Psychology* 57, no. 3 (2010), 264-73.
 
-<a name="135"></a><sup>135</sup> Gabriela Livas Stein, et al., “When Discrimination Hurts: The Longitudinal Impact of Increases in Peer Discrimination on Anxiety and Depressive Symptoms in Mexican-origin Youth,” *Journal of Youth and Adolescence* 48 (2019), 864-75, https://doi.org/10.1007/s10964-019-01012-3.
+<a name="135"></a><sup>135</sup> Gabriela Livas Stein et al., “When Discrimination Hurts: The Longitudinal Impact of Increases in Peer Discrimination on Anxiety and Depressive Symptoms in Mexican-origin Youth,” *Journal of Youth and Adolescence* 48 (2019), 864-75, https://doi.org/10.1007/s10964-019-01012-3.
 
 <a name="136"></a><sup>136</sup> Gloria Stewner-Manzanares, “The Bilingual Education Act: 20 Years Later,” National Clearinghouse for Bilingual Education, *Occasional Papers in Bilingual Education*, no. 6 (Fall 1988), 1-10, https://ncela.ed.gov/files/rcd/BE021037/Fall88_6.pdf.
 
 <a name="137"></a><sup>137</sup> David Nieto, “A Brief History of Bilingual Education in the United States,” *Perspectives on Urban Education* (Spring 2009), 61-72, https://urbanedjournal.gse.upenn.edu/sites/default/files/pdf_archive/61-72--Nieto.pdf.
 
-<a name="138"></a><sup>138</sup> William J. Bennett, “The Condition of Bilingual Education in the Nation: 1988”, *A Report to Congress and the President*. (Washington DC. Department of Education, 1988). p. 1-10.
+<a name="138"></a><sup>138</sup> William J. Bennett, “The Condition of Bilingual Education in the Nation, 1988: A Report to Congress and the President”(Washington: Department of Education, 1988), 1-10.
 
 <a name="139"></a><sup>139</sup> David Nieto, “Brief History of Bilingual Education,” 62.
 
-<a name="140"></a><sup>140</sup> Juan Gonzalez, *Harvest of Empire: A History of Latinos in America* (New York. Penguin Books, 2011), ix.
+<a name="140"></a><sup>140</sup> Gonzalez, *Harvest of Empire*, ix.
 
 <a name="141"></a><sup>141</sup> Ballotpedia, “California Proposition 227, the ‘English in Public Schools’ Initiative (1998),” https://ballotpedia.org/California_Proposition_227,_the_%22English_in_Public_Schools%22_Initiative_(1998).
 
@@ -294,13 +294,13 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="144"></a><sup>144</sup> Andrew Hanson and Michael Santas, “Field Experiment Tests for Discrimination against Hispanics in the U.S. Rental Housing Market,” *Southern Economic Journal* 81, no. 1 (July 2014), 135-67, DOI.10.4284/0038-4038-2012.231.
 
-<a name="145"></a><sup>145</sup> Robert McG. Thomas Jr., “Newark Fire Kills Five in a Tenement,” New York Times, February 5, 1979, D9; Alfonso A. Narvaez, “Major Jersey Cities Find Themselves in the Role of Reluctant Slumlords,” *New York Times*, February 9, 1979, B3.
+<a name="145"></a><sup>145</sup> Robert McG. Thomas Jr., “Newark Fire Kills Five in a Tenement,” *New York Times*, February 5, 1979, D9; Alfonso A. Narvaez, “Major Jersey Cities Find Themselves in the Role of Reluctant Slumlords,” *New York Times*, February 9, 1979, B3.
 
 <a name="146"></a><sup>146</sup> U.S. Bureau of Labor Statistics, “26.8 Million Hispanics or Latinos in the U.S. Labor Force in 2016,” September 25, 2017, https://www.bls.gov/opub/ted/2017/26-point-8-million-hispanics-or-latinos-in-the-u-s-labor-force-in-2016.htm?view_full.
 
 <a name="147"></a><sup>147</sup> Mitra Toossi, “A New Look at Long-Term Labor Force Projections to 2050,” *Monthly Labor Review*, November 2006, 19-39, https://www.bls.gov/opub/mlr/2006/11/art3full.pdf.
 
-<a name="148"></a><sup>148</sup> Marjorie S. Zatz, “Using and Abusing Mexican Farmworkers: The Bracero Program and the INS,” *Law & Society Review* 27, No.4 (1993), 851-63, https://doi:10.2307/3053955.
+<a name="148"></a><sup>148</sup> Zatz, “Using and Abusing Mexican Farmworkers,” 851-63.
 
 <a name="149"></a><sup>149</sup> Matt Garcia, “César Chávez and the United Farm Workers Movement,” *Oxford Research Encyclopedias*, May 2016, DOI: 10.1093/acrefore/9780199329175.013.217.
 
@@ -316,7 +316,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="155"></a><sup>155</sup> Hall, “Old and New Identities,” citing Tariq Modood et al., eds., *Ethnic Minorities in Britain: Diversity and Disadvantage* (London: Policy Studies Institute, 1997).
 
-<a name="156"></a><sup>156</sup> Juan Gonzalez, *Harvest of Empire: A History of Latinos in America* (New York: Penguin Books, 2011), 206.
+<a name="156"></a><sup>156</sup> Gonzalez, *Harvest of Empire*, 206.
 
 <a name="157"></a><sup>157</sup> Gonzalez, *Harvest of Empire*, 96.
 
@@ -363,11 +363,11 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="178"></a><sup>178</sup> “Piri Thomas,” Oxford Reference, accessed July 18, 2020, https://www.oxfordreference.com/view/10.1093/oi/authority.20110803104006357.
 
-<a name="179"></a><sup>179</sup> Juan Gonzalez. *Harvest of Empire: A History of Latinos in America*. (New York. Penguin Books, 2011). p.240.
+<a name="179"></a><sup>179</sup> Gonzalez, *Harvest of Empire*, 240.
 
 <a name="180"></a><sup>180</sup> cpb-aacip/507-4t6f18sz65.
 
-<a name="181"></a><sup>181/sup> “Ricky Martin,” Latin Music USA, PBS, accessed July 17, 2020, https://www.pbs.org/wgbh/latinmusicusa/legends/ricky-martin/.
+<a name="181"></a><sup>181</sup> “Ricky Martin,” Latin Music USA, PBS, accessed July 17, 2020, https://americanarchive.org/catalog/cpb-aacip_507-4t6f18sz65.
 
 <a name="182"></a><sup>182</sup> “Ricky Martin,” Latin Music USA, PBS.
 
@@ -381,7 +381,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="187"></a><sup>187</sup> Raymond Hernandez and David W. Chen, “Nominee’s Links with Advocates Fuel Her Critics,” *New York Times*, May 28, 2009, https://www.nytimes.com/2009/05/29/us/politics/29puerto.html.
 
-<a name="188"></a><sup>188</sup> Peter Baker and Jeff Zeleny, “Obama Hails Judge as ‘Inspiring,’” New York Times, May 26, 2009, https://www.nytimes.com/2009/05/27/us/politics/27court.html.
+<a name="188"></a><sup>188</sup> Peter Baker and Jeff Zeleny, “Obama Hails Judge as ‘Inspiring,’” *New York Times*, May 26, 2009, https://www.nytimes.com/2009/05/27/us/politics/27court.html.
 
 <a name="189"></a><sup>189</sup> “Rita Moreno,” Biography.com (A&E Networks Television, October 9, 2019), https://www.biography.com/actor/rita-moreno.
 
@@ -405,7 +405,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="199"></a><sup>199</sup> Illegal Immigration Reform and Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, 110 Stat. 3009-546 (1996), https://www.govinfo.gov/content/pkg/PLAW-104publ208/pdf/PLAW-104publ208.pdf.  
 
-<a name="200"></a><sup>200</sup> Jason Steinhauer, “A Historical Perspective on the Cuba-U.S. Relationship,” *A Historical Perspective on the Cuba-U.S. Relationship | Insights: Scholarly Work at the John W. Kluge Center*, December 19, 2014, https://blogs.loc.gov/kluge/2014/12/historical-perspectivecuba-u-s-relationship/.
+<a name="200"></a><sup>200</sup> Renata Keller, “A Historical Perspective on the Cuba-U.S. Relationship,” interview by Jason Steinhauer, *Insights: Scholarly Work at the John W. Kluge Center*, Library of Congress, December 19, 2014, https://blogs.loc.gov/kluge/2014/12/historical-perspectivecuba-u-s-relationship/.
 
 <a name="201"></a><sup>201</sup> Lisandro Pérez, "Cubans in the United States," *Annals of the American Academy of Political and Social Science*, 487 (September 1986): 126-37, http://www.jstor.com/stable/1046058; John Scanlan and Gilburt Loescher, “U.S. Foreign Policy, 1959-80: Impact on Refugee Flow from Cuba, *Annals of the American Academy of Political and Social Science* 467 (May 1983), 116-18, http://www.jstor.com/stable/1044932.
 
