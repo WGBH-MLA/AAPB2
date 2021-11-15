@@ -12,10 +12,10 @@
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Alexandra-Garcia.jpg"/>
   <a class="name">Alexandra García</a>
-  <a class="title">Former Intern, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
+  <a class="title">Intern, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Gabriela-Rivera.jpg"/>
   <a class="name">Gabriela Rivera</a>
-  <a class="title">Former Intern, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
+  <a class="title">Intern, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
 
 ## Resources
 
