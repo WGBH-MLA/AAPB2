@@ -28,6 +28,13 @@
 .exhibit-image {
   float: right;
   padding: 0 5px;
+  max-width: 50%;
+  margin: 0 0 0 1.5em;
+
+  &.left {
+    float: left;
+    margin: 0 1.5em 0 0;
+  }
 }
 
 .exhibit-logo {
@@ -662,4 +669,11 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
     // height: 10px;
   }
 
+}
+
+.exhibit-text {
+  h4 {
+    clear: both;
+    margin: 1.75em 0 .75em 0;
+  }
 }
