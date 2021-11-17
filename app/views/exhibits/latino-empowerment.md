@@ -19,10 +19,10 @@
 
 ## Resources
 
-- [Latino Public Broadcasting](https://lpbp.org/) 
-- [National Hispanic Media Coalition](https://www.nhmc.org/) 
-- [Latino Americans](https://www.pbs.org/latino-americans/en/) 
-- [National Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/) 
+- [Latino Public Broadcasting](https://lpbp.org/)
+- [National Hispanic Media Coalition](https://www.nhmc.org/)
+- [Latino Americans](https://www.pbs.org/latino-americans/en/)
+- [National Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/)
 
 ## Main
 
