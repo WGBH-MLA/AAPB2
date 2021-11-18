@@ -195,5 +195,5 @@ English-language media also covered the hardships that farmworkers would go thro
 - [](/catalog/cpb-aacip-88-07gqnm1x)
 - [](/catalog/cpb-aacip-259-vm42vc9j)
 - [](/catalog/cpb-aacip-199-708w9q4h)
-- [](/cpb-aacip-86-50gthzqh)
-- [](/cpb-aacip-504-696zw19w66)
+- [](/catalog/cpb-aacip-86-50gthzqh)
+- [](/catalog/cpb-aacip-504-696zw19w66)
