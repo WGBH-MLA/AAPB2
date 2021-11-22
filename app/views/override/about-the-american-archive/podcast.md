@@ -8,10 +8,10 @@ In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinem
 ### Episode 05: Latino Empowerment through Public Broadcasting</i>
 Nov 23, 2021
 
-Part 1 featuring Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plgw01pPzTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Part 1 featuring Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín
+<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/plgw01pPzTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Part 2 featuring Hugo Morales
+#### Part 2 featuring Hugo Morales
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ugmdotW_GQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The fifth episode of “Presenting the Past” explores the history of Spanish language public radio and television programming and its roots in community activism. The discussion features activists <b>Hugo Morales</b>, Executive Director and co-founder of <i>Radio Bilingüe Inc.</i>, and <b>Jesús Treviño</b>, television director, author and creator of Latinopia.com, along with scholars <b>Dolores Inés Casillas</b>, Professor of Chicana and Chicano Studies and Director of the Chicano Studies Institute at the University of California, Santa Barbara, and <b>Gabriela Rivera Marín</b>, a doctoral student at the University of Florida studying Hispanic Linguistics and co-curator of the AAPB <a href=https://americanarchive.org/exhibits/latino-empowerment><i>Latino Empowerment through Public Broadcasting</i></a> exhibit.
@@ -22,33 +22,39 @@ Produced by Ryn Marchese<br>
 Post-production and theme music by Todd Thompson<br>
 
 <div>
- 
-<span>Content mentioned in this episode:</span><br>
-<ul class="override" style="margin-top: 0.1em;">
-<li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
-<li><a href=https://americanarchive.org/exhibits/latino-empowerment><i>Latino Empowerment through Public Broadcasting</i></a> Exhibit</li>
-  
+  <span>Content mentioned in this episode:</span><br>
+  <ul class="override" style="margin-top: 0.1em;">
+    <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
+    <li><a href=https://americanarchive.org/exhibits/latino-empowerment><i>Latino Empowerment through Public Broadcasting</i></a> Exhibit</li>
+  </ul>
+</div>
+
 <div>
- 
-<span>Radio:</span><br>
-<ul class="override" style="margin-top: 0.1em;">
-<li><a href=https://americanarchive.org/special_collections/radio-kdna>Radio KNDA Collection</a></li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1?start=655.1&end=1252.02><i>Realidades</i></a> segment about Radio KNDA</li>
-<li><a href=https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=Radio+Bilingue+%28CA%29&f%5baccess_types%5d%5b%5d=online><i>Radio Bilingüe</i> Collection</a></li>
-<li>Primera transmision de/First broadcast of <a href=https://americanarchive.org/catalog/cpb-aacip-375-375tb7ch><i>Radio Bilingüe</i></a> (1980)</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-199-22h70vfq><i>Mujer/Women</i></a> (KDNA, 1983)</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-375-92t4bm6j><i>Refugiados/Refugees</i></a> (<i>Radio Bilingüe</i>)</li>
+  <span>Radio:</span><br>
+  <ul class="override" style="margin-top: 0.1em;">
+    <li><a href=https://americanarchive.org/special_collections/radio-kdna>Radio KNDA Collection</a></li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1?start=655.1&end=1252.02><i>Realidades</i></a> segment about Radio KNDA</li>
+    <li><a href=https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=Radio+Bilingue+%28CA%29&f%5baccess_types%5d%5b%5d=online><i>Radio Bilingüe</i> Collection</a></li>
+    <li>Primera transmision de/First broadcast of <a href=https://americanarchive.org/catalog/cpb-aacip-375-375tb7ch><i>Radio Bilingüe</i></a> (1980)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-199-22h70vfq><i>Mujer/Women</i></a> (KDNA, 1983)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-375-92t4bm6j><i>Refugiados/Refugees</i></a> (<i>Radio Bilingüe</i>)</li>
+  </ul>
+</div>
 
 <div>
   
 <span>Television:</span><br>
- <ul class="override" style="margin-top: 0.1em;">
-<li><i>Ahora!</i> (upcoming in the AAPB)</li>
-<li><a href=https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Accion+Chicano&sort=title+asc><i>Acción Chicano</i></a> (KCET)</li>
-<li><a href=https://americanarchive.org/catalog?q=%22Realidades%22&utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online><i>Realidades</i></a> (WNET)</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-259-c53f228h?start=715.75&end=775.12>“Images/Imágenes; Hispanics and Housing”</a> (New Jersey Network, 1980)</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-507-hm52f7kk2n?start=617.72&end=738.33>“The MacNeil/Lehrer Report; Bilingual Education”</a> (1978)</li>
-<li><a href=https://americanarchive.org/catalog/cpb-aacip-88-0000002c?start=698.9&end=1012.39>KCRB-TV program about KBBF</a> (1987)</li>
+  <ul class="override" style="margin-top: 0.1em;">
+    <li><i>Ahora!</i> (upcoming in the AAPB)</li>
+    <li><a href=https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Accion+Chicano&sort=title+asc><i>Acción Chicano</i></a> (KCET)</li>
+    <li><a href=https://americanarchive.org/catalog?q=%22Realidades%22&utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online><i>Realidades</i></a> (WNET)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-259-c53f228h?start=715.75&end=775.12>“Images/Imágenes; Hispanics and Housing”</a> (New Jersey Network, 1980)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-507-hm52f7kk2n?start=617.72&end=738.33>“The MacNeil/Lehrer Report; Bilingual Education”</a> (1978)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-88-0000002c?start=698.9&end=1012.39>KCRB-TV program about KBBF</a> (1987)</li>
+
+
+  </ul>
+</div>
 
 ### Episode 04: Broadcasting in the Public Interest with Newton Minow, former Chair of the Federal Communications Commission (FCC)</i>
 Sept 14, 2021
