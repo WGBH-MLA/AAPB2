@@ -9,10 +9,10 @@ In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinem
 Nov 23, 2021
 
 Part 1 featuring Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín
-<iframe width="560" height="315" src="BLANK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/plgw01pPzTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Part 2 featuring Hugo Morales
-<iframe width="560" height="315" src="BLANK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ugmdotW_GQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The fifth episode of “Presenting the Past” explores the history of Spanish language public radio and television programming and its roots in community activism. The discussion features activists <b>Hugo Morales</b>, Executive Director and co-founder of <i>Radio Bilingüe Inc.</i>, and <b>Jesús Treviño</b>, television director, author and creator of Latinopia.com, along with scholars <b>Dolores Inés Casillas</b>, Professor of Chicana and Chicano Studies and Director of the Chicano Studies Institute at the University of California, Santa Barbara, and <b>Gabriela Rivera Marín</b>, a doctoral student at the University of Florida studying Hispanic Linguistics and co-curator of the AAPB <a href=https://americanarchive.org/exhibits/latino-empowerment><i>Latino Empowerment through Public Broadcasting</i></a> exhibit.
 
