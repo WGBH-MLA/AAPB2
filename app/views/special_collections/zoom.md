@@ -21,16 +21,16 @@ WGBH first went on the air in 1951 as radio station WGBH-FM, and in 1955 expande
 ## Featured
 
 
-[![ZOOM, Series I; Pilot](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-547pvzxn.jpg)](/catalog/cpb-aacip-15-547pvzxn)
-[![ZOOM, Series I; 321](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-02q57bc4.jpg)](/catalog/cpb-aacip-15-02q57bc4)
-[![ZOOM, Series I; 212](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-90dv4h7v.jpg)](/catalog/cpb-aacip-15-90dv4h7v)
-[![ZOOM, Series I; 502](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-17qnkk4c.jpg)](/catalog/cpb-aacip-15-17qnkk4c)
-[![ZOOM, Series I; 605](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-98z8wt0k.jpg)](/catalog/cpb-aacip-15-98z8wt0k)
-[![ZOOM, Series I; 337](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-58pc8k39.jpg)](/catalog/cpb-aacip-15-58pc8k39)
+[![*ZOOM, Series I*; Pilot](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-547pvzxn.jpg)](/catalog/cpb-aacip-15-547pvzxn)
+[![*ZOOM, Series I*; 321](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-02q57bc4.jpg)](/catalog/cpb-aacip-15-02q57bc4)
+[![*ZOOM, Series I*; 212](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-90dv4h7v.jpg)](/catalog/cpb-aacip-15-90dv4h7v)
+[![*ZOOM, Series I*; 502](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-17qnkk4c.jpg)](/catalog/cpb-aacip-15-17qnkk4c)
+[![*ZOOM, Series I*; 605](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-98z8wt0k.jpg)](/catalog/cpb-aacip-15-98z8wt0k)
+[![*ZOOM, Series I*; 337](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-58pc8k39.jpg)](/catalog/cpb-aacip-15-58pc8k39)
 
 ## Resources
 
-- [‘“Come on and ZOOM!”: ZOOM and 1970s American Childhood’, WGBH OpenVault](https://openvault.wgbh.org/exhibits/zoom/article)
+- [‘“Come on and ZOOM!”: *ZOOM* and 1970s American Childhood’, WGBH OpenVault](https://openvault.wgbh.org/exhibits/zoom/article)
 - [WGBH website](https://www.wgbh.org/)
 - [ZOOM into Action, WGBH](https://www.wgbh.org/zoom-into-action)
 
