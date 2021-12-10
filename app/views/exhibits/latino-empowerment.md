@@ -38,6 +38,17 @@ Throughout the exhibit, we use the panethnic terms “Latino” and “Hispanic�
 
 AAPB is constantly expanding. We have instituted an initiative to collaborate with stations and producers to add more Spanish-language content to the archive. As we add programs to the archive, we will update this exhibit. A Spanish-language version of the exhibit will be forthcoming with additional content.
 
+### AAPB Podcast
+
+To accompany this exhibit, a two-part episode of “[Presenting the Past](https://americanarchive.org/about-the-american-archive/podcast),” a podcast collaboration between the AAPB and the Society for Cinema and Media Studies, features interviews with Latino public media pioneers Hugo Morales, Executive Director and Co-founder of Radio Bilingüe, and Jesús Treviño, television director, author and creator of Latiniopia.com, along with scholars Dolores Inés Casillas, Professor of Chicana and Chicano Studies and Director of the Chicano Studies Institute at the University of California, Santa Barbara, and Gabriela Rivera Marín, a doctoral student at the University of Florida studying Hispanic Linguistics and co-curator of the Latino Empowerment exhibit.
+
+#### Part 1 featuring Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín
+<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/plgw01pPzTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Part 2 featuring Hugo Morales
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ugmdotW_GQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### Next: [The Origins of Latino Community Radio](/exhibits/latino-empowerment/2-origins-of-latino-community-radio)
 
 ## Cover
