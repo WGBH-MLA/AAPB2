@@ -16,10 +16,9 @@
 
 ## Background
 
-WGBH first went on the air in 1951 as radio station WGBH-FM, and in 1955 expanded to offer television as WGBH-TV. *ZOOM* was created by WGBH producer Christopher Sarson in 1972 and was filmed in the WGBH studios, eventually winning an Emmy Award in 1973. *ZOOM*’s Series I ran from 1972-1978 and was revived for a Series II from 1999-2005. 
+WGBH first went on the air in 1951 as radio station WGBH-FM, and in 1955 expanded to offer television as WGBH-TV. *ZOOM* was created by WGBH producer Christopher Sarson in 1972 and was filmed in the WGBH studios, eventually winning an Emmy Award in 1973. *ZOOM, Series I* ran from 1972-1978 and was revived for a second series from 1999-2005. 
 
 ## Featured
-
 
 [![*ZOOM, Series I*; Pilot](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-547pvzxn.jpg)](/catalog/cpb-aacip-15-547pvzxn)
 [![*ZOOM, Series I*; 321](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom-cpb-aacip-15-02q57bc4.jpg)](/catalog/cpb-aacip-15-02q57bc4)
