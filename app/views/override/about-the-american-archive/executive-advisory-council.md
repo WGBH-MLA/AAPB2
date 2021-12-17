@@ -92,8 +92,6 @@ Sandie Viquez Pedlow, executive director of Latino Public Broadcasting (LPB), ma
 Previously, Pedlow was Director of Programming Strategies, Associate Director of Cultural, Drama and Arts Programming, and Senior Program Officer at the Corporation for Public Broadcasting in Washington, D.C for 10 years. In this role, she led the development and funding of national public media programs which addressed history, the arts and all aspects of American culture.  At CPB, she worked with the US Public Television International Consortium and the Latin American Initiative to develop and fund co-productions for public media.
 
 Sandie Pedlow also served as Director of Station Relations, PBS Education, working with stations in the marketing and promotion of PBS TeacherLine.  She began her career in public media as a writer/producer at South Carolina Educational Television (SCETV) where she developed cultural and arts programming and managed international initiatives.  Pedlow was the U.S. National Coordinator for INPUT, an international public television forum with more than 35 participating countries.  She led the first U.S. public television exchange with Gosteleradio in the former Soviet Union and U.S. producer workshops in Finland, Denmark and Norway. Pedlow served on the Vme Programming Advisory Council and has served on the boards of CINE, *The American Documentary*, *American Playhouse*, INPUT and LPB.  
-![image](https://user-images.githubusercontent.com/5992135/138923059-6e298bb4-2b04-4777-9a93-ac5560b16a75.png)
-
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_John_Ptak.jpg" alt="John Ptak" aria-hidden="true"/>
 ### John Ptak
