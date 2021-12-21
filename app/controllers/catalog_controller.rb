@@ -268,7 +268,6 @@ class CatalogController < ApplicationController
   def show
     # From BlacklightGUIDFetcher
     @response, @document = fetch_from_blacklight(params['id'])
-
     # we have to rescue from this in fetch_from_blacklight to run through all guid permutations, so throw it here if we didnt find anything
     raise Blacklight::Exceptions::RecordNotFound unless @document
 
@@ -276,42 +275,27 @@ class CatalogController < ApplicationController
     respond_to do |format|
       format.html do
         @pbcore = PBCorePresenter.new(xml)
+        @exhibits = @pbcore.top_exhibits
         @skip_orr_terms = can? :skip_tos, @pbcore
-        @caption_file = CaptionFile.new(@document["id"])
 
         if can? :play, @pbcore
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
+
+          if redirect_to_proxy_start_time?(@pbcore, params)
+            # rubocop:disable Style/AndOr
+            # && in place of 'and' does not work
+            redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
+            # rubocop:enable Style/AndOr
+          end
         end
 
         if can? :access_transcript, @pbcore
-          # something to show?
-          if @document.transcript?
-            @transcript_content = TranscriptFile.new(@pbcore.transcript_src).html
-            if @pbcore.transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
-              @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
-            end
-          elsif !@caption_file.captions_src.nil?
-            # use SRT when transcript not available
-            @transcript_content = @caption_file.html
-          end
-
+          # If @transcript_search_term not in param, it just doesn't get populated on search input
+          @transcript_search_term = params['term']
           # how shown are we talkin here?
-          if @transcript_content
-            # If @transcript_search_term not in param, it just doesn't get populated on search input
-            @transcript_search_term = params['term']
-            if @pbcore.transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
-              @transcript_open = true
-            else
-              @transcript_message = 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>'
-              @transcript_open = false
-            end
-          end
-
-          @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
+          @transcript_open = @pbcore.correct_transcript? ? true : false
         end
-
-        @exhibits = @pbcore.top_exhibits
 
         render
       end
@@ -329,6 +313,15 @@ class CatalogController < ApplicationController
   end
 
   private
+
+  def redirect_to_proxy_start_time?(pbcore, params)
+    return true if pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
+    false
+  end
+
+  def media_start_time?(params)
+    params.keys.include?("start")
+  end
 
   def default_search_access(params)
     base_query = params.except(:action, :controller).to_query

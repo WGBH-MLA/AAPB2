@@ -63,7 +63,7 @@ module SnippetHelper
     end
 
     def url_at_timecode
-      "/catalog/#{@guid}?term=#{@matched_term}&#at_#{@match_timecode}_s"
+      "/catalog/#{@guid}?term=#{@matched_term}&proxy_start_time=#{@match_timecode}"
     end
 
     private

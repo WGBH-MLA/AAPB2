@@ -70,7 +70,7 @@ describe SnippetHelper do
 
   describe '#url_at_timecode' do
     it 'returns the expected URL with timecode' do
-      expect(transcript_snippet_1.url_at_timecode).to eq("/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&#at_50.24_s")
+      expect(transcript_snippet_1.url_at_timecode).to eq("/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&proxy_start_time=50.24")
     end
   end
 

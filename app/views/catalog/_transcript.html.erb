@@ -1,4 +1,4 @@
- <% if @transcript_content %>
+ <% if @pbcore.transcript_html %>
   <div id="transcript-state" style="display: none;" class="hidden initial <%= @transcript_open ? 'open' : 'closed' %>"></div>
 
                         <!-- this refers to the video -  full width transcript viewer if no wideo -->
@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <% if @transcript_message %>
+      <% if @pbcore.transcript_message %>
         <div style="background-color: #fceab2;" id="transcript-message" class="">
 
           <div class="transcript-message-bar">
@@ -27,14 +27,14 @@
           </div>
 
           <div class="transcript-message-content">
-            <%= @transcript_message.html_safe %>
+            <%= @pbcore.transcript_message.html_safe %>
           </div>
         </div>
       <% end %>
     </dl>
     <div id="transcript" class="transcript-frame">
       <div class="transcript transcript-content">
-        <%= raw @transcript_content %>
+        <%= raw @pbcore.transcript_html %>
       </div>
     </div>
   </div>

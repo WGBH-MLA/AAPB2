@@ -15,7 +15,7 @@
 <% if @available_and_playable %>
 
   <div class="row">
-    <% if @transcript_content %>
+    <% if @pbcore.transcript_html %>
       <div class="col-sm-12 col-md-6 player">
     <% else %>
       <div class="col-sm-12 col-md-8 player col-md-offset-2">
@@ -39,7 +39,7 @@
               <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'application/x-mpegURL' : 'audio/mp3' %>'>
 
 
-              <% unless @caption_file.captions_src.nil? %>
+              <% unless CaptionFile.new(@pbcore.id).captions_src.nil? %>
                 <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
               <% end %>
               <% if ChapterFile.file_present?(@pbcore.id) %>
@@ -102,7 +102,7 @@
     <% end %>
   </div>
 
-  <% if @transcript_content %>
+  <% if @pbcore.transcript_html %>
     <div class="row">
       <%= render partial: 'transcript' %>
     </div>

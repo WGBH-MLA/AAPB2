@@ -3,6 +3,13 @@ module ApplicationHelper
     return 'current-page' if current_page?(path)
   end
 
+  def convert_timestamp_to_seconds(timestamp)
+    dt = DateTime.parse(timestamp)
+    dt.hour * 3600 + dt.min * 60 + dt.sec
+  rescue
+    nil
+  end
+
   def query_to_terms_array(query)
     return [] if !query || query.empty?
 
