@@ -106,7 +106,7 @@ Even though the majority of children who watched *ZOOM* never wrote in, only a s
 
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">Image of cast from ZOOM card.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Sand_Castles_Box_D01849_square.png.png" alt="Image of cast from ZOOM card"/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Sand_Castles_Box_D01849_square.png" alt="Image of cast from ZOOM card"/></td></tr>
 </table>
 
 ## Gallery
