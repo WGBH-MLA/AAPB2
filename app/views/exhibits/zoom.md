@@ -10,7 +10,7 @@
 
 ## Authors
 
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/paris.jpg"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/paris.png"/>
   <a class="name">Leslie Paris</a>
   <a class="title">Associate Professor of History, The University of British Columbia</a>
 
