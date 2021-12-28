@@ -25,6 +25,7 @@
 <a name="10"></a><sup>10</sup> Christopher Sarson, phone interview with the author, October 8, 2021.
 
 <a name="11"></a><sup>11</sup> Lisa Jacobson, *Raising Consumers: Children and the American Mass Market in the Early Twentieth Century* (New York: Columbia University Press, 2004).
+
 <a name="12"></a><sup>12</sup>  Barbara Coleman, “Through the Years We’ll All Be Friends: The ‘Mickey Mouse Club,’ Consumerism, and the Cultural Consensus,” *Visual Resources* 14, no. 3 (1999): 297-306.
 
 <a name="13"></a><sup>13</sup> Carnegie Commission on Educational Television, *Public Television: A Program for Action* (New York: Bantam, 1967).
