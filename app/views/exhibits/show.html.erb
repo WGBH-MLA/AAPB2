@@ -203,3 +203,17 @@
            locals: {
              main: yield(:main)
            } %>
+
+
+
+<script type="text/javascript">
+  // hacky to add target="_blank" to all links
+  $("a").each(function() {
+    let link = $(this)
+    if(link.attr("href") && !link.attr("href").startsWith("/") && !link.attr("href").startsWith("http://americanarchive.org") && !link.attr("href").startsWith("https://americanarchive.org")){
+      $(this).attr("target", "_blank")
+    }
+  })
+
+
+</script>
