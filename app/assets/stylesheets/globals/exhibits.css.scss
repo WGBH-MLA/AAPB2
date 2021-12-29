@@ -37,6 +37,17 @@
   }
 }
 
+table.exhibit-image.short-image {
+  margin: 0;
+}
+
+table.exhibit-image.short-image tr td img {
+  /*oh boy!*/
+  width:  75%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 .exhibit-logo {
   float: right;
   margin: 0;
@@ -48,6 +59,7 @@
 }
 
 .exhibit-caption {
+  text-align: center;
   font-style: italic;
   font-size: 10px;
   line-height: 12px;
