@@ -104,12 +104,12 @@ Over the course of six seasons, the series effectively served as a national cult
 
 <div class="row">
   <table class="exhibit-image left short-image">
-  <caption align="bottom" class="exhibit-caption">Example of ZMail submission about learning Spanish.</caption>
+  <caption align="bottom" class="exhibit-caption">Example of ZMail submission about learning Spanish, Series II, 2000.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_4_Seasons_Spanish_EMail_Jessica_2000_barcode385180.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_4_Seasons_Spanish_EMail_Jessica_2000_barcode385180.png" alt="Example of ZMail submission about learning Spanish."/></a></td></tr>
   </table>
 
   <table class="exhibit-image short-image">
-  <caption align="bottom" class="exhibit-caption">Example of ZMail submission about Ubbi Dubbi.</caption>
+  <caption align="bottom" class="exhibit-caption">Example of ZMail submission about Ubbi Dubbi, Series II, 2000.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_Ubbi_Dubbi_Translator_EMail_Talia_2000_barcode385180.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_Ubbi_Dubbi_Translator_EMail_Talia_2000_barcode385180.png" alt="Example of ZMail submission about Ubbi Dubbi."/></a></td></tr>
   </table>
 </div>
