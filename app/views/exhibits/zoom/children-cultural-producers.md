@@ -18,7 +18,7 @@ A creative ethos was a hallmark of the series. Numerous former ZOOMers later rec
 
 To consider *ZOOM* as an example of intergenerational collaboration is not to diminish the role of children as cultural creators. Ultimately, the roles of children and adults in creating *ZOOM* were complementary. *ZOOM*’s adult leadership acknowledged children’s capabilities and ideas by encouraging viewer participation and deliberately involving the young cast members in some degree of decision-making. Young viewers’ enthusiastic participation in the *ZOOM* community attested to their own sense that they were important partners in the enterprise. 
 
-<table class="exhibit-image">
+<table class="exhibit-image short-image">
 <caption align="bottom" class="exhibit-caption">Letter to ZOOM about sending letters to ZOOM.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ReadyToSend_SW_dark7_barcode385264_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ReadyToSend_SW_dark7_barcode385264_nosig.png" class="big-image" alt="Letter to ZOOM about sending letters to ZOOM.</"/></a></td></tr>
 </table>
@@ -29,50 +29,62 @@ Toward the goal of an entertaining and thoughtful final product, *ZOOM*’s adul
 
 To deal with the deluge of mail the series received, *ZOOM* staff and adult volunteers sorted incoming letters into categories before the production staff considered them: [plays](https://americanarchive.org/catalog/cpb-aacip-15-00ns1zsw?start=1464.27&end=1713.51), [stories](https://americanarchive.org/catalog/cpb-aacip-15-70zpcpsf?start=711.59&end=979.13), [poems](https://americanarchive.org/catalog/cpb-aacip-15-0644j8kn?start=1196.62&end=1225.97), requests to appear on ZOOM, [games](https://americanarchive.org/catalog/cpb-aacip-15-354f5187?start=147.89&end=204.96), [ZOOMdos](https://americanarchive.org/catalog/cpb-aacip-15-848pkg5b?start=1048.21&end=1224.05), [jokes and riddles](https://americanarchive.org/catalog/cpb-aacip-15-17crjpmm?start=373.16&end=398.94), and other ideas. In one five-day period in January 1975, volunteers processed over 11,000 letters.[<sup>33</sup>](/exhibits/zoom/notes#33) About one third of these letters included SASEs, many with requests for photos of cast members or for ZOOMcards explaining more complex ZOOMdos, such as making [puppets](https://americanarchive.org/catalog/cpb-aacip-15-83xsjkh9?start=607.06&end=830.39) or constructing [a raft](https://americanarchive.org/catalog/cpb-aacip-15-3331znzg?start=642.07&end=985.84) out of sticks and branches. Many children sent in story and game ideas or made [suggestions](https://americanarchive.org/catalog/cpb-aacip-15-27mpgfjk?start=380.95&end=547.06) for ZOOMraps based on their own problems or concerns. One child from Arkansas, for example, asked that ZOOMers do a rap about “how would you feel if you had a gerbil, and your dad didn’t like him. I have to move away in July and I don’t want to leave him.”[<sup>34</sup>](/exhibits/zoom/notes#34) Some viewers sent in contributions such as ZOOM-themed art, and general suggestions or requests for personal advice. A third of the 1975 sample were simply affirmations, on the order of “I like ZOOM.” 
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter to ZOOM about wanting to be on the show, from a viewer in Brookline, Massachusetts..</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/GetOnZoom_OD_nosig_barcode385181.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/GetOnZoom_OD_nosig_barcode385181.png" class="big-image" alt="Letter to ZOOM about wanting to be on the show, from a viewer in Brookline, Massachusetts.</"/></a></td></tr>
-</table>
+<div class="row">
+  
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Letter to ZOOM about wanting to be on the show, from a viewer in Brookline, Massachusetts..</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/GetOnZoom_OD_nosig_barcode385181.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/GetOnZoom_OD_nosig_barcode385181.png" class="big-image" alt="Letter to ZOOM about wanting to be on the show, from a viewer in Brookline, Massachusetts.</"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter from a viewer in Brookyln, New York requesting a ZOOM card on how to make a raft.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZoomCard_Raft_Request_Show8Rap_DG_nosig_barcode340116.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZoomCard_Raft_Request_Show8Rap_DG_nosig_barcode340116.png" class="big-image" alt="Letter from a viewer in Brookyln, New York requesting a ZOOM card on how to make a raft.</"/></a></td></tr>
-</table>
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a viewer in Brookyln, New York requesting a ZOOM card on how to make a raft.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZoomCard_Raft_Request_Show8Rap_DG_nosig_barcode340116.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZoomCard_Raft_Request_Show8Rap_DG_nosig_barcode340116.png" class="big-image" alt="Letter from a viewer in Brookyln, New York requesting a ZOOM card on how to make a raft.</"/></a></td></tr>
+  </table>
+</div>
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter from a viewer in Buffalo, New York about not being treated fairly.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Im_Not_Treated_Fairly_BB_nosig_barcode281031.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Im_Not_Treated_Fairly_BB_nosig_barcode281031.png" class="big-image" alt="Letter from a viewer in Buffalo, New York about not being treated fairly.</"/></a></td></tr>
-</table>
+<div class="row">
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a viewer in Greenville, Mississippi about her relationship with her sister.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/KB_Sister_Fights_barcode385189_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/KB_Sister_Fights_barcode385189_nosig.png" class="big-image" alt="Letter from a viewer in Greenville, Mississippi about her relationship with her sister.</"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter from a viewer in Albuquerque, New Mexico about getting into fights with friends.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/SH_Friends_Fight_barcode385189_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/SH_Friends_Fight_barcode385189_nosig.png" class="big-image" alt="Letter from a viewer in Albuquerque, New Mexico about getting into fights with friends.</"/></a></td></tr>
-</table>
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a viewer in Albuquerque, New Mexico about getting into fights with friends.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/SH_Friends_Fight_barcode385189_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/SH_Friends_Fight_barcode385189_nosig.png" class="big-image" alt="Letter from a viewer in Albuquerque, New Mexico about getting into fights with friends.</"/></a></td></tr>
+  </table>
+</div>
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter from a viewer in Greenville, Mississippi about her relationship with her sister.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/KB_Sister_Fights_barcode385189_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/KB_Sister_Fights_barcode385189_nosig.png" class="big-image" alt="Letter from a viewer in Greenville, Mississippi about her relationship with her sister.</"/></a></td></tr>
-</table>
+<div class="row">
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a viewer in Buffalo, New York about not being treated fairly.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Im_Not_Treated_Fairly_BB_nosig_barcode281031.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Im_Not_Treated_Fairly_BB_nosig_barcode281031.png" class="big-image" alt="Letter from a viewer in Buffalo, New York about not being treated fairly.</"/></a></td></tr>
+  </table>
+  
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a viewer in Westminster, Massachusetts about sibling problems.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Sibling_Problems_LW_normal_barcode385264_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Sibling_Problems_LW_normal_barcode385264_nosig.png" class="big-image" alt="Letter from a viewer in Westminster, Massachusetts about sibling problems.</"/></a></td></tr>
+  </table>
+</div>
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter from a viewer in Westminster, Massachusetts about sibling problems.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Sibling_Problems_LW_normal_barcode385264_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Sibling_Problems_LW_normal_barcode385264_nosig.png" class="big-image" alt="Letter from a viewer in Westminster, Massachusetts about sibling problems.</"/></a></td></tr>
-</table>
+<div class="row">
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a viewer in Cape Cod, Massachusetts about how much they enjoy ZOOM.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MC_nosig_barcode385176.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MC_nosig_barcode385176.png" class="big-image" alt="Letter from a viewer in Cape Cod, Massachusetts about how much they enjoy ZOOM.</"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter from a viewer in Cape Cod, Massachusetts about how much they enjoy ZOOM.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MC_nosig_barcode385176.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MC_nosig_barcode385176.png" class="big-image" alt="Letter from a viewer in Cape Cod, Massachusetts about how much they enjoy ZOOM.</"/></a></td></tr>
-</table>
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a viewer in Bourne, Massachusetts about how much they enjoy ZOOM.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MH_nosig_barcode385176.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MH_nosig_barcode385176.png" class="big-image" alt="Letter from a viewer in Bourne, Massachusetts about how much they enjoy ZOOM.</"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter from a viewer in Bourne, Massachusetts about how much they enjoy ZOOM.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MH_nosig_barcode385176.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MH_nosig_barcode385176.png" class="big-image" alt="Letter from a viewer in Bourne, Massachusetts about how much they enjoy ZOOM.</"/></a></td></tr>
-</table>
+</div>
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Letter from a viewer in La Grange, Georgia about how much they enjoy ZOOM.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Lori_Banana_Skate_barcode385188_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Lori_Banana_Skate_barcode385188_nosig.png" class="big-image" alt="Letter from a viewer in La Grange, Georgia about how much they enjoy ZOOM.</"/></a></td></tr>
-</table>
+<div class="row">
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a viewer in La Grange, Georgia about how much they enjoy ZOOM.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Lori_Banana_Skate_barcode385188_nosig.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Lori_Banana_Skate_barcode385188_nosig.png" class="big-image" alt="Letter from a viewer in La Grange, Georgia about how much they enjoy ZOOM.</"/></a></td></tr>
+  </table>
+</div>
 
 These letter-writers represented a wider age cohort than the seven-to-twelve-year-olds who were *ZOOM*’s target audience. Some children were so young that they dictated their letters to their parents. Some teenagers, especially those who had grown up with *ZOOM*, also continued to watch the show and to write in, though a few of them wrote specifically to ask whether they might now be too old to keep watching. One seventeen-year-old high school junior from Iowa enthused that “I really enjoy *ZOOM*! A lot of my friends watch *ZOOM* also!”[<sup>35</sup>](/exhibits/zoom/notes#35) 
 

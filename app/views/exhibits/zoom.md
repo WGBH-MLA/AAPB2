@@ -29,55 +29,69 @@ On January 9, 1972, the children’s television series *ZOOM* premiered on Publi
 
 Produced at public television station WGBH in Boston, *ZOOM* was one of the most successful non-commercial children’s series of the 1970s. Over the course of six seasons, millions of American children watched *ZOOM*, and they responded to its exhortation to participate by sending in an average of 10,000 letters every week.[<sup>1</sup>](/exhibits/zoom/notes#1) Some viewers suggested themes for discussion among the ZOOMers, or passed along [tongue twisters and riddles](https://americanarchive.org/catalog/cpb-aacip-15-22v41zdg?start=147.88&end=323.12).[<sup>2</sup>](/exhibits/zoom/notes#2)  Others shared original [plays](https://americanarchive.org/catalog/cpb-aacip-15-83xsjkh9?start=935.61&end=1090.76), [poems](https://americanarchive.org/catalog/cpb-aacip-15-71ngfff7?start=1219.62&end=1349.21), [stories](https://americanarchive.org/catalog/cpb-aacip-15-17crjpmm?start=421.42&end=537.26), and [artwork](https://americanarchive.org/catalog/cpb-aacip-15-988gv19k?start=1596.19&end=1668.93). Many wrote in asking for specific *ZOOM* cards, which contained information about activities highlighted on previous episodes; these viewers generally included a [SASE](https://americanarchive.org/catalog/cpb-aacip-15-81wdc6rs?start=1299.05&end=1318.67), or self-addressed stamped envelope, in anticipation of a reply. By 1976, *ZOOM* had received over two million letters.[<sup>3</sup>](/exhibits/zoom/notes#3)
 
-<table class="exhibit-image short-image">
-<caption align="bottom" class="exhibit-caption">Letter to ZOOM: How do you get a boy to like you?, from a viewer in Green Spring, West Virginia</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/How_To_Get_Boy_to_Like_You_TS_nosig_barcode385178.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/How_To_Get_Boy_to_Like_You_TS_nosig_barcode385178.png" alt="Letter to ZOOM: How do you get a boy to like you?, from a viewer in Green Spring, West Virginia"/></a></td></tr>
-</table>
 
-<table class="exhibit-image left short-image">
-<caption align="bottom" class="exhibit-caption">Letter to ZOOM about the death of a grandmother from a viewer in San Francisco, California.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Heartbreaking_Grandma_Died_MM_nosig_barcode385178.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Heartbreaking_Grandma_Died_MM_nosig_barcode385178.png" alt="Letter to ZOOM about the death of a grandmother from a viewer in San Francisco, California."/></a></td></tr>
-</table>
+<div class="row">
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Letter to ZOOM: How do you get a boy to like you?, from a viewer in Green Spring, West Virginia</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/How_To_Get_Boy_to_Like_You_TS_nosig_barcode385178.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/How_To_Get_Boy_to_Like_You_TS_nosig_barcode385178.png" alt="Letter to ZOOM: How do you get a boy to like you?, from a viewer in Green Spring, West Virginia"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image short-image">
-<caption align="bottom" class="exhibit-caption">Front of ZOOM card: Make a Terrarium.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848.png" alt="Front of ZOOM card: Make a Terrarium"/></a></td></tr>
-</table>
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Letter to ZOOM about the death of a grandmother from a viewer in San Francisco, California.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Heartbreaking_Grandma_Died_MM_nosig_barcode385178.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Heartbreaking_Grandma_Died_MM_nosig_barcode385178.png" alt="Letter to ZOOM about the death of a grandmother from a viewer in San Francisco, California."/></a></td></tr>
+  </table>
 
-<table class="exhibit-image left short-image">
-<caption align="bottom" class="exhibit-caption">Back of ZOOM card: Make a Terrarium.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848_2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848_2.png" alt="Back of ZOOM card: Make a Terrarium"/></a></td></tr>
-</table>
+</div>
 
-<table class="exhibit-image short-image">
-<caption align="bottom" class="exhibit-caption">Front of ZOOM card: How to Cornrow</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848.png" alt="Front of ZOOM card: How to Cornrow"/></a></td></tr>
-</table>
+<div class="row">
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Front of ZOOM card: Make a Terrarium.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848.png" alt="Front of ZOOM card: Make a Terrarium"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image left short-image">
-<caption align="bottom" class="exhibit-caption">Back of ZOOM card: How to Cornrow</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848_2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848_2.png" alt="Back of ZOOM card: How to Cornrow"/></a></td></tr>
-</table>
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Back of ZOOM card: Make a Terrarium.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848_2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848_2.png" alt="Back of ZOOM card: Make a Terrarium"/></a></td></tr>
+  </table>
+</div>
 
-<table class="exhibit-image short-image">
-<caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_front_barcode385263.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_front_barcode385263.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
-</table>
+<div class="row">
 
-<table class="exhibit-image left short-image">
-<caption align="bottom" class="exhibit-caption">Back of envelope containing ZOOM mail.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_back_barcode385263.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_back_barcode385263.png" alt="Back of envelope containing ZOOM mail"/></a></td></tr>
-</table>
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Front of ZOOM card: How to Cornrow</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848.png" alt="Front of ZOOM card: How to Cornrow"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image short-image">
-<caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Rainbow_normal_barcode385177.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Rainbow_normal_barcode385177.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
-</table>
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Back of ZOOM card: How to Cornrow</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848_2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848_2.png" alt="Back of ZOOM card: How to Cornrow"/></a></td></tr>
+  </table>
+</div>
 
-<table class="exhibit-image left short-image">
-<caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Zoom_front_barcode385177.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Zoom_front_barcode385177.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
-</table>
+<div class="row">
+
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_front_barcode385263.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_front_barcode385263.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
+  </table>
+
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Back of envelope containing ZOOM mail.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_back_barcode385263.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_back_barcode385263.png" alt="Back of envelope containing ZOOM mail"/></a></td></tr>
+  </table>
+</div>
+
+<div class="row">
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Rainbow_normal_barcode385177.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Rainbow_normal_barcode385177.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
+  </table>
+
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Zoom_front_barcode385177.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Zoom_front_barcode385177.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
+  </table>
+</div>
 
 In the 1960s and 1970s, advocates for educational television for children argued that the medium could be more thoughtful, creative, and informative. Better-quality television shows, these innovators contended, could teach young viewers useful skills, inculcate positive values, and prepare children for the world beyond their living rooms.[<sup>4</sup>](/exhibits/zoom/notes#4) *ZOOM* exemplified this kind of project. By watching *ZOOM*, children acquired new skills ranging from [tie-dying](https://americanarchive.org/catalog/cpb-aacip-15-26xwdm9r?start=211.56&end=374.84) fabric to [candle-making](https://americanarchive.org/catalog/cpb-aacip-15-54kkwwf2?start=259.28&end=460.75). They discovered [games](https://americanarchive.org/catalog/cpb-aacip-15-31cjt77t?start=1362.21&end=1498.28) and [tests of skill](https://americanarchive.org/catalog/cpb-aacip-15-0644j8kn?start=250.82&end=334.1) that other young fans had contributed. And they learned about a diverse range of [children](https://americanarchive.org/catalog/cpb-aacip-15-58bg7q15?start=309.23&end=610.04) [across](https://americanarchive.org/catalog/cpb-aacip-15-289gj7pp?start=315.73&end=635.05) the [country](https://americanarchive.org/catalog/cpb-aacip-15-88cfz5p7?start=256.2&end=552.55) who [appeared](https://americanarchive.org/catalog/cpb-aacip-15-171vhs7m?start=424.04&end=744.69) in [short](https://americanarchive.org/catalog/cpb-aacip-15-49t1gcnh?start=246.62&end=534.92) [documentaries](https://americanarchive.org/catalog/cpb-aacip-15-977src1z?start=961.22&end=1333.89) as [ZOOMguests](https://americanarchive.org/catalog/cpb-aacip-15-375tbddb?start=1079.93&end=1337.24). Outside of the commercial realm of children’s media, *ZOOM* also taught its young viewers new ways of connecting with other children as participants in the creative process. What children saw on their television screens affirmed their own sense of their capabilities, interests, and membership in this larger community.
 
@@ -87,15 +101,18 @@ For the children who were its central audience, *ZOOM* felt like a community of 
 
 Over the course of six seasons, the series effectively served as a national cultural clearinghouse for information and activities of interest to American children. Many children who watched *ZOOM* in the 1970s later described the series as an important cultural benchmark of their youth. The series inspired a second-generation PBS remake, also produced at WGBH (1999-2005), whose audience included some of the sons and daughters of its original fans. Now, instead of sending letters through the U.S. postal service, children could connect with the show via electronic “zmail.” More recently, in the first months of the COVID-19 pandemic, former ZOOMers from both series contributed ideas for creative stay-at-home activities in the spirit of the original television program.
 
-<table class="exhibit-image left short-image">
-<caption align="bottom" class="exhibit-caption">Example of ZMail submission about learning Spanish.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_4_Seasons_Spanish_EMail_Jessica_2000_barcode385180.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_4_Seasons_Spanish_EMail_Jessica_2000_barcode385180.png" alt="Example of ZMail submission about learning Spanish."/></a></td></tr>
-</table>
 
-<table class="exhibit-image short-image">
-<caption align="bottom" class="exhibit-caption">Example of ZMail submission about Ubbi Dubbi.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_Ubbi_Dubbi_Translator_EMail_Talia_2000_barcode385180.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_Ubbi_Dubbi_Translator_EMail_Talia_2000_barcode385180.png" alt="Example of ZMail submission about Ubbi Dubbi."/></a></td></tr>
-</table>
+<div class="row">
+  <table class="exhibit-image left short-image">
+  <caption align="bottom" class="exhibit-caption">Example of ZMail submission about learning Spanish.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_4_Seasons_Spanish_EMail_Jessica_2000_barcode385180.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_4_Seasons_Spanish_EMail_Jessica_2000_barcode385180.png" alt="Example of ZMail submission about learning Spanish."/></a></td></tr>
+  </table>
+
+  <table class="exhibit-image short-image">
+  <caption align="bottom" class="exhibit-caption">Example of ZMail submission about Ubbi Dubbi.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_Ubbi_Dubbi_Translator_EMail_Talia_2000_barcode385180.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_Ubbi_Dubbi_Translator_EMail_Talia_2000_barcode385180.png" alt="Example of ZMail submission about Ubbi Dubbi."/></a></td></tr>
+  </table>
+</div>
 
 #### Next: [Innovations in Children’s Public Television Programming](/exhibits/zoom/innovations-childrens-television)
 
