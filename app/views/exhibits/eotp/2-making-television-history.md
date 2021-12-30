@@ -32,9 +32,9 @@ Of the 127 interviews included in this exhibit, about 36 were filmed for *Eyes*�
 
 In 1978, in the wake of the critical and commercial success of the television adaptation of Alex Haley’s *Roots: The Saga of an American Family,* Hampton was approached by Capital Cities Communications, a media production company working with ABC. The popularity of *Roots* in the United States and abroad had convinced the network that there was a market for Black history on television.[<sup>16</sup>](/exhibits/eotp/notes#16)
 
-<table class="exhibit-image">
+<table class="exhibit-image big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 1. Poster for <span style="font-style: normal;">America, They Loved You Madly</span>, n.d., courtesy Washington University in St. Louis Film and Media Archive.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/ATLYM_Poster.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ATLYM_Poster.png" class="big-image" alt="Poster for America, They Loved You Madly, n.d., courtesy Washington University in St. Louis Film and Media Archive."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/ATLYM_Poster.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ATLYM_Poster.png" class="" alt="Poster for America, They Loved You Madly, n.d., courtesy Washington University in St. Louis Film and Media Archive."/></a></td></tr>
 </table>
 
 But *America, They Loved You Madly* never made it to air. After the Capital Cities executives saw the rough cut, they severed ties with Hampton. Else describes the screening as "by every account a disaster, a rambling patchwork of clips, amateurish dramatizations, stand-ups, interviews, title cards, and blank spots."[<sup>17</sup>](/exhibits/eotp/notes#17) Not only was the film not commercially viable, but it failed to live up to Hampton’s ambition. 
@@ -45,9 +45,9 @@ The defeat was gutting for Hampton. Yet as Else notes, "If Henry had dragged *Am
 
 The format of *Eyes on the Prize* evolved over time. In a March 10, 1980, letter to *Eyes*’ narrator, [Julian Bond](/2-making-television-history#JulianBond), the project’s research consultant, Judy Richardson, wrote that the series would be two hours long and divided into four half-hour segments.[<sup>19</sup>](/exhibits/eotp/notes#19)  Ultimately, *Eyes I* would consist of six episodes running just under one hour each. After the filmmakers completed an initial 40-minute cut, series writer [Steve Fayer](/2-making-television-history#SteveFayer) drafted a detailed memo in which he concluded that the film "just does not make it." "It’s slow and almost totally intellectual (as opposed to emotional)," he wrote. "And it is, occasionally, boring. That, perhaps, is its greatest sin."[<sup>20</sup>](/exhibits/eotp/notes#20)
 
-<table class="exhibit-image">
+<table class="exhibit-image big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 2. Excerpt from a memo from Steve Fayer reviewing an initial cut of <span style="font-style: normal;">Eyes on the Prize</span>, Box 3, Folder EOP1 Memos, Henry Hampton Collection.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/fayermemo.JPG" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/fayermemo.JPG" class="big-image" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of Eyes on the Prize, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/fayermemo.JPG" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/fayermemo.JPG" alt="Excerpt from a memo from Steve Fayer reviewing an initial cut of Eyes on the Prize, Box 3, Folder EOP1 Memos, Henry Hampton Collection."/></a></td></tr>
 </table>
 
 #### Structure and Objectives
@@ -64,13 +64,13 @@ Perhaps drawing on his experience as an instructional filmmaker, Hampton decided
 <a id="Arguments"></a>
 According to Else, *Eyes on the Prize* had four major points it aimed to convey:
 
-1.	**History from Below:** The [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights) was a movement forged by the people; it was a grassroots movement driven by the masses of protesters and participants.
+1.  **History from Below:** The [southern civil rights movement](https://americanarchive.org/exhibits/civil-rights) was a movement forged by the people; it was a grassroots movement driven by the masses of protesters and participants.
 
-2.	**The American Democratic Process:** The movement succeeded with minimal loss of life because the United States is a constitutional democracy. African Americans in the South gained access to their rights as citizens through what Else describes as "a constant tug-of-war between federal, state, and local authorities."
+2.  **The American Democratic Process:** The movement succeeded with minimal loss of life because the United States is a constitutional democracy. African Americans in the South gained access to their rights as citizens through what Else describes as "a constant tug-of-war between federal, state, and local authorities."
 
-3.	**The Role of Nonviolence:** The strategic and tactical use of nonviolence was critical for the movement’s success.  
+3.  **The Role of Nonviolence:** The strategic and tactical use of nonviolence was critical for the movement’s success.  
 
-4.	**Messy History:** The organizations at the forefront of the movement had conflicting ideologies, divergent strategies, and, at times, competing goals and interests. They formed "an uneasy united front," Else writes. Segregationists were also divided. For Else, "this was the messiest part of the messy history."[<sup>22</sup>](/exhibits/eotp/notes#22)  
+4.  **Messy History:** The organizations at the forefront of the movement had conflicting ideologies, divergent strategies, and, at times, competing goals and interests. They formed "an uneasy united front," Else writes. Segregationists were also divided. For Else, "this was the messiest part of the messy history."[<sup>22</sup>](/exhibits/eotp/notes#22)  
 
 #### Civil Rights School
 
@@ -78,9 +78,9 @@ In preparing to make *Eyes on the Prize*, Hampton arranged for scholars, activis
 
 At civil rights school, Blackside filmmakers also learned about the expressive and visual culture of the era. One session focused on the music of the civil rights movement; folk singer [Odetta](https://www.thehistorymakers.org/biography/odetta-gordon-41) spoke (and sang), as did [Guy and Candie Carawan](https://snccdigital.org/people/guy-candie-carawan/), who wrote the civil rights anthem, "We Shall Overcome." The final session included screenings of TV news footage from the 1950s and ’60s provided by the New York Public Library’s Schomburg Center for Research in Black Culture, NBC News archives, and Rabin, who was series’ stock footage coordinator.
 
-<table class="exhibit-image">
+<table class="exhibit-image big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 3. First page of Judith Vecchione's draft schedule for "civil rights school," Box 1, Judy Richardson Personal Papers, Series 2: 1985-1987, Film and Media Archive, Washington University in St. Louis.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/PageoneofCivilRightsSchoolSchedule.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/PageoneofCivilRightsSchoolSchedule.png" class="big-image" alt="First page of draft schedule for "civil rights school," Box 1, Judy Richardson Personal Papers, Series 2: 1985-1987, Film and Media Archive, Washington University in St. Louis"/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/PageoneofCivilRightsSchoolSchedule.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/PageoneofCivilRightsSchoolSchedule.png" alt="First page of draft schedule for "civil rights school," Box 1, Judy Richardson Personal Papers, Series 2: 1985-1987, Film and Media Archive, Washington University in St. Louis"/></a></td></tr>
 </table>
 
 *Eyes on the Prize* aimed to provide the American viewing public—and in particular, those who were not alive during the era or were too young at the time to remember it—with knowledge of the civil rights past based on both first-hand accounts and the research of scholars. *Eyes I* is therefore indebted to the work of its academic advisors, including [Clayborne Carson](https://kinginstitute.stanford.edu/clayborne-carson), [David Garrow](https://www.davidgarrow.com/), [Vincent Harding](https://kinginstitute.stanford.edu/encyclopedia/harding-vincent-gordon), and [Darlene Clark Hine](https://www.neh.gov/about/awards/national-humanities-medals/darlene-clark-hine), among others.[<sup>24</sup>](/exhibits/eotp/notes#24)
@@ -91,9 +91,9 @@ During production, Hampton assembled three teams of interviewers, identified by 
 
 Each team produced and directed two episodes of the series. This section of Freedom Song identifies which production units were responsible for which episodes. It also includes biographical details about Hampton, the members of each team, and other production personnel.
 
-<table class="exhibit-image">
+<table class="exhibit-image big-image">
 <caption align="bottom" class="exhibit-caption">Fig. 4. Prudence Arndt, Orlando Bagwell, and Bobby Shepard during the filming of <span style="font-style: normal;">Eyes on the Prize</span>, 1985, courtesy Washington University in St. Louis Film and Media Archive.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/PrudenceArndtOrlandoBagwell.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/PrudenceArndtOrlandoBagwell.png" class="big-image" alt="Prudence Arndt, Orlando Bagwell, and Bobby Shepard during the filming of Eyes on the Prize, 1985, courtesy Washington University in St. Louis Film and Media Archive."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/PrudenceArndtOrlandoBagwell.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/PrudenceArndtOrlandoBagwell.png" alt="Prudence Arndt, Orlando Bagwell, and Bobby Shepard during the filming of Eyes on the Prize, 1985, courtesy Washington University in St. Louis Film and Media Archive."/></a></td></tr>
 </table>
 
 ***

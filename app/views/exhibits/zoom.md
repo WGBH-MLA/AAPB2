@@ -31,12 +31,12 @@ Produced at public television station WGBH in Boston, *ZOOM* was one of the most
 
 
 <div class="row">
-  <table class="exhibit-image left short-image">
+  <table class="exhibit-image half-image left short-image">
   <caption align="bottom" class="exhibit-caption">Letter to ZOOM: How do you get a boy to like you?, from a viewer in Green Spring, West Virginia</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/How_To_Get_Boy_to_Like_You_TS_nosig_barcode385178.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/How_To_Get_Boy_to_Like_You_TS_nosig_barcode385178.png" alt="Letter to ZOOM: How do you get a boy to like you?, from a viewer in Green Spring, West Virginia"/></a></td></tr>
   </table>
 
-  <table class="exhibit-image short-image">
+  <table class="exhibit-image half-image short-image">
   <caption align="bottom" class="exhibit-caption">Letter to ZOOM about the death of a grandmother from a viewer in San Francisco, California.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Heartbreaking_Grandma_Died_MM_nosig_barcode385178.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Heartbreaking_Grandma_Died_MM_nosig_barcode385178.png" alt="Letter to ZOOM about the death of a grandmother from a viewer in San Francisco, California."/></a></td></tr>
   </table>
@@ -44,12 +44,12 @@ Produced at public television station WGBH in Boston, *ZOOM* was one of the most
 </div>
 
 <div class="row">
-  <table class="exhibit-image short-image">
+  <table class="exhibit-image half-image short-image">
   <caption align="bottom" class="exhibit-caption">Front of ZOOM card: Make a Terrarium.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848.png" alt="Front of ZOOM card: Make a Terrarium"/></a></td></tr>
   </table>
 
-  <table class="exhibit-image left short-image">
+  <table class="exhibit-image half-image left short-image">
   <caption align="bottom" class="exhibit-caption">Back of ZOOM card: Make a Terrarium.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848_2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Terrarium_D01848_2.png" alt="Back of ZOOM card: Make a Terrarium"/></a></td></tr>
   </table>
@@ -57,12 +57,12 @@ Produced at public television station WGBH in Boston, *ZOOM* was one of the most
 
 <div class="row">
 
-  <table class="exhibit-image short-image">
+  <table class="exhibit-image half-image short-image">
   <caption align="bottom" class="exhibit-caption">Front of ZOOM card: How to Cornrow</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848.png" alt="Front of ZOOM card: How to Cornrow"/></a></td></tr>
   </table>
 
-  <table class="exhibit-image left short-image">
+  <table class="exhibit-image half-image left short-image">
   <caption align="bottom" class="exhibit-caption">Back of ZOOM card: How to Cornrow</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848_2.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Cornrowing_D01848_2.png" alt="Back of ZOOM card: How to Cornrow"/></a></td></tr>
   </table>
@@ -70,24 +70,24 @@ Produced at public television station WGBH in Boston, *ZOOM* was one of the most
 
 <div class="row">
 
-  <table class="exhibit-image short-image">
+  <table class="exhibit-image half-image short-image">
   <caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_front_barcode385263.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_front_barcode385263.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
   </table>
 
-  <table class="exhibit-image left short-image">
+  <table class="exhibit-image half-image left short-image">
   <caption align="bottom" class="exhibit-caption">Back of envelope containing ZOOM mail.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_back_barcode385263.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_OpenFirst_back_barcode385263.png" alt="Back of envelope containing ZOOM mail"/></a></td></tr>
   </table>
 </div>
 
 <div class="row">
-  <table class="exhibit-image short-image">
+  <table class="exhibit-image half-image short-image">
   <caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Rainbow_normal_barcode385177.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Rainbow_normal_barcode385177.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
   </table>
 
-  <table class="exhibit-image left short-image">
+  <table class="exhibit-image half-image left short-image">
   <caption align="bottom" class="exhibit-caption">Front of envelope containing ZOOM mail.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Zoom_front_barcode385177.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Envelope_Zoom_front_barcode385177.png" alt="Front of envelope containing ZOOM mail"/></a></td></tr>
   </table>
@@ -103,12 +103,12 @@ Over the course of six seasons, the series effectively served as a national cult
 
 
 <div class="row">
-  <table class="exhibit-image left short-image">
+  <table class="exhibit-image half-image left short-image">
   <caption align="bottom" class="exhibit-caption">Example of ZMail submission about learning Spanish, Series II, 2000.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_4_Seasons_Spanish_EMail_Jessica_2000_barcode385180.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_4_Seasons_Spanish_EMail_Jessica_2000_barcode385180.png" alt="Example of ZMail submission about learning Spanish."/></a></td></tr>
   </table>
 
-  <table class="exhibit-image short-image">
+  <table class="exhibit-image half-image short-image">
   <caption align="bottom" class="exhibit-caption">Example of ZMail submission about Ubbi Dubbi, Series II, 2000.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_Ubbi_Dubbi_Translator_EMail_Talia_2000_barcode385180.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/ZMail_Ubbi_Dubbi_Translator_EMail_Talia_2000_barcode385180.png" alt="Example of ZMail submission about Ubbi Dubbi."/></a></td></tr>
   </table>

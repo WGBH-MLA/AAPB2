@@ -28,13 +28,16 @@
 .exhibit-image {
   float: right;
   padding: 0 5px;
+}
+
+table.exhibit-image.half-image {
   max-width: 50%;
   margin: 0 0 0 1.5em;
+}
 
-  &.left {
-    float: left;
-    margin: 0 1.5em 0 0;
-  }
+table.exhibit-image.left {
+  float: left;
+  margin: 0 1.5em 0 0;
 }
 
 table.exhibit-image.short-image {
@@ -54,8 +57,9 @@ table.exhibit-image.short-image tr td img {
   padding: 0;
 }
 
-.exhibit-big-image {
+table.exhibit-image.big-image {
   display: block;
+  width: 100%;
 }
 
 .exhibit-caption {

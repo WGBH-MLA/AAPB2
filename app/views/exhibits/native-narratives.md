@@ -36,7 +36,7 @@ The author would like to thank Mary Miller, K. C. Carter, Alan Gevinson, and Cas
 
 Images of Native Americans and their cultures have long fascinated American audiences, but Western media has often misrepresented Native Americans. Non-Native peoples with little knowledge of Native Americans, their histories, and their cultures, often have associated them with common media stereotypes such as the Noble Warrior, the Savage Indian, and the American Princess. These racialized representations reinforce simplistic narratives of Indigenous communities, obscuring their complex histories. This exhibit highlights how public radio and television has represented Native American communities living in the United States — both in ways that reinforce media stereotypes and in ways that reject them. Most importantly, the exhibit emphasizes the rise of Native-created public media and the production of programs by Native peoples for their own communities.
 
-<table class="exhibit-image">
+<table class="exhibit-image big-image">
 <caption align="bottom" class="exhibit-caption">Media training from Alaska Federation of Natives: Youth and Elders Conference. Provided by Koahnic Broadcast Corporation.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/0_KNBA.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/0_KNBA.jpg" class="big-image" alt="Mediak training from Alaska Federation of Natives: Youth and Elders Conference. Provided by Koahnic Broadcast Corporation."/></a></td></tr>
 </table>

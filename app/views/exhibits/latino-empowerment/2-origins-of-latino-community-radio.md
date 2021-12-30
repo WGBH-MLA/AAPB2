@@ -23,7 +23,7 @@ Farmworkers, former farmworkers, and Chicano activists created the first bilingu
 
 #### KBBF-FM: La Voz del Pueblo
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">KBBF Radio Cultura Host with engineers, from En Camino: https://americanarchive.org/catalog/cpb-aacip-88-0000002c?start=698.9&end=1012.39 (KRCB, 1986).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-88-0000002c?start=698.9&end=1012.39" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-KBBF-host-with-engineers-from-En-Camino.jpg" class="big-image" alt=" KBBF Radio Cultura Host with engineers, from En Camino (KRCB, 1986)."/></a></td></tr>
 </table>
@@ -44,7 +44,7 @@ In an effort to reach wider audiences, KBBF-FM cofounders Hector Molina and Jos�
 
 #### KDNA: La Voz del Campesino
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Radio Cadena engineer in Seattle studio, from Realidades: Los Medios de Communicacion y la Communidad Latina: https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1 (WNET, 1977).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg" class="big-image" alt="Radio Cadena engineer in Seattle studio, from Realidades: Los Medios de Communicacion y la Communidad Latina (WNET, 1977)"/></a></td></tr>
 </table>
@@ -67,7 +67,7 @@ Latino community radio producers were concerned with connecting Latino communiti
 
 In the 1970s, Hugo Morales, a Harvard Law School graduate, returned to the plum fields he had worked on with his family and the farmworkers he had once labored beside in Fresno, California. He had gone to school so that he could return and help his people, and he did so by establishing a bilingual community radio station. As a young farmworker, Morales recognized the need for a radio station that would inform and entertain farmworkers in the fields. In an interview, Morales remarked, “Many farm workers are made to feel that they have no culture of their own. But when they hear the many types of music from Mexico on the radio, they realize it is worthwhile. They know their music and heritage is something to be proud of.” Moreover, he wanted to give them “a way to contribute to their own communities and a way to link up to the outside world.”[<sup>28</sup>](/exhibits/latino-empowerment/notes#28) In 1976, Morales began posting his own hand-lettered signs inviting help from anyone interested in a bilingual radio station.[<sup>29</sup>](/exhibits/latino-empowerment/notes#29) With the help of volunteer farmworkers, activists, artists, teachers, and grants, Radio Bilingüe went on air on July 4, 1980, as La Voz que Rompió el Silencio (The Voice That Broke the Silence), the third bilingual community radio in the United States.[<sup>30</sup>](/exhibits/latino-empowerment/notes#30) The quality of its programs and the dedication of its founders and listenership helped the station achieve national coverage. Within their programs, broadcasters took the opportunity to interview Hugo Morales about the history of Radio Bilingüe. In a program titled [“Building a Community Network,”](https://americanarchive.org/catalog/cpb-aacip-375-80vq8cp2#at_4020.64_s) Morales talked about his origins and the reasons he decided to collaborate with others to create a station and then a network. Later, his coworkers interviewed him for a special reflection series titled [“The Dream, The Station”](https://americanarchive.org/catalog/cpb-aacip_375-94vhhzk6) about how the station was born, the difficulties they faced, and the benefits of community radio by, about, and for Latinos.
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Hugo Morales, Radio Bilingüe Executive Director.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/HugoMorales.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/HugoMorales.jpg" class="big-image" alt="Hugo Morales, Radio Bilingüe Executive Director."/></a></td></tr>
 </table>
@@ -81,7 +81,7 @@ Among its many programs, the station produced *Noticiero Latino*. The first and 
 In 1995, a grant from CPB allowed the station to expand its borders with the acquisition of a satellite. That same year, Radio Bilingüe
  launched [*Línea Abierta*](https://americanarchive.org/special_collections/linea-abierta) as the first national live talk and call-in program in public broadcasting interconnecting Spanish-speaking audiences and newsmakers throughout the United States and Mexico. *Línea Abierta*, which is still on the air, consists of one hour of news, analysis, features, interviews, roundtables, special series, and listener call-ins on current events, health, jobs, politics, the environment, education, the arts and culture, race relations, immigrant rights, and more. Other [Radio Bilingüe](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Radio+Bilingue+%28CA%29&sort=asset_date+asc) programs available in the AAPB include [*Acontecer Campesino*](https://americanarchive.org/catalog?q=%22Acontecer+Campesino%22&utf8=%E2%9C%93&f[access_types][]=digitized), [*Nuestra Herencia Musical*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Nuestra+Herencia+Musical.&f[access_types][]=digitized), [*Refugiados*](https://americanarchive.org/catalog/cpb-aacip-375-92t4bm6j), [*Immigrant Children*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Immigrant+Children&f[access_types][]=online), [*Beyond the New Law*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Beyond+the+New+Law&f[access_types][]=online), and [*The Simpson Rodino Radio Series*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=The+Simpson+Rodino+Radio+Series&f[access_types][]=digitized). You can find examples of these programs throughout the exhibit. To learn about and access other programs by the Radio Bilingüe Network, we encourage you to visit their website ([http://radiobilingue.org/en/](http://radiobilingue.org/en/)).
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">*Línea Abierta*’s founding team. Back row (left to right):  Armando Valdez, Juan Arambula, Samuel Orozco. Front row (left to right):  Maria Eraña, Eva Torres.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/lineaabierta_foundingteam.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/lineaabierta_foundingteam.png" class="big-image" alt="*Línea Abierta*’s founding team. Back row (left to right):  Armando Valdez, Juan Arambula, Samuel Orozco. Front row (left to right):  Maria Eraña, Eva Torres."/></a></td></tr>
 </table>
