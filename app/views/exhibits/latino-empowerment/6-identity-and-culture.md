@@ -32,7 +32,7 @@ Hispanic presence and cultural influence in the U.S. has been a constant since t
 
 #### History
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Chicano! The History of the Mexican American Civil Rights Movement logo: https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig.</caption>
 <tr><td><a href="https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/chicanologo.png" class="big-image" alt="[*Chicano! The History of the Mexican American Civil Rights Movement* logo](https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig)."></a></td></tr>
 </table>
@@ -49,7 +49,7 @@ In this lecture and reading at the Harvard Book Store, Mexican-American poet and
 
 **Featured program**: ["A Tejano Revolutionary"](https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fv4c?start=2917.38&end=3368) (The NewsHour with Jim Lehrer, October 24, 1995)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer – Introduction to Selena Segment: https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fv4c?start=2916.32&end=3362.23.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fv4c?start=2916.32&end=3362.23" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/selena.png" class="big-image" alt="*The NewsHour with Jim Lehrer* – [Introduction to Selena Segment](https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fv4c?start=2916.32&end=3362.23)"></a></td></tr>
 </table>
@@ -92,7 +92,7 @@ Before Puerto Rico became a territory of the United States, it had endured 405 y
 
 **Featured program**: [*Mi Puerto Rico*](https://americanarchive.org/catalog/cpb-aacip_526-gt5fb4xr26) (Ortiz/Simon Productions, 1995)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Mi Puerto Rico Documentary - Introduction: https://americanarchive.org/catalog/cpb-aacip_526-gt5fb4xr26.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_526-gt5fb4xr26" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/mipuertorico.png" class="big-image" alt="*Mi Puerto Rico* Documentary - Introduction."></a></td></tr>
 </table>
@@ -113,7 +113,7 @@ Thomas wrote and narrated *The World of Piri Thomas*, an hour-long documentary t
 
 **Featured program**: [Essay: Livin' La Vida Loca](https://americanarchive.org/catalog/cpb-aacip-507-4t6f18sz65?start=3005.82&end=3328.16) (The NewsHour with Jim Lehrer, August 23, 1999)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">The NewsHour with Jim Lehrer - Ricky Martin Singing "Living La Vida Loca": https://americanarchive.org/catalog/cpb-aacip-507-4t6f18sz65?start=3005.82&end=3328.16.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-4t6f18sz65?start=3005.82&end=3328.16" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/rickymartin.png" class="big-image" alt="*The NewsHour with Jim Lehrer* - Ricky Martin Singing "Living La Vida Loca.""></a></td></tr>
 </table>
@@ -136,7 +136,7 @@ On August 6, 2009, the day that the U.S. Senate confirmed Sotomayor’s nominati
 
 **Featured program**: [Rita Moreno](https://americanarchive.org/catalog/cpb-aacip-525-bn9x05zb6q?start=2906.4&end=3242.08) (PBS NewsHour, October 1, 2013)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">PBS NewsHour - Rita Moreno on the cover of Life magazine: https://americanarchive.org/catalog/cpb-aacip-525-bn9x05zb6q?start=2906.4&end=3242.08.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-bn9x05zb6q?start=2906.4&end=3242.08" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ritamoreno.png" class="big-image" alt="*PBS NewsHour* - Rita Moreno on the cover of *Life* magazine."></a></td></tr>
 </table>
@@ -177,7 +177,7 @@ Salvadoran people have struggled and lost many loved ones, but they are resilien
 
 **Featured program**: [Salvadoran Refugees](https://americanarchive.org/catalog/cpb-aacip-77-76f1wqjc) (Nighttimes Magazine, Twin Cities Public Television, April 15, 1983)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Night Times Magazine Introduction: https://americanarchive.org/catalog/cpb-aacip-77-76f1wqjc.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-77-76f1wqjc" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/nighttimesmagazine.png" class="big-image" alt="*Night Times Magazine* Introduction."></a></td></tr>
 </table>
@@ -188,7 +188,7 @@ On April 15, 1983, Twin Cities Public Television in Minnesota devoted a full epi
 
 **Featured program**: ["A Safe Haven for Writers in Danger"](https://americanarchive.org/catalog/cpb-aacip-525-gf0ms3m39d?start=2724.39&end=3209.68) (PBS NewsHour, September 30, 2010)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Horacio Castellanos Moya - PBS NewsHour: https://americanarchive.org/catalog/cpb-aacip-525-gf0ms3m39d?start=2724.39&end=3209.68.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-gf0ms3m39d?start=2724.39&end=3209.68" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/horacio_castellanos_moya.png" class="big-image" alt="Horacio Castellanos Moya - *PBS NewsHour*."></a></td></tr>
 </table>
@@ -217,7 +217,7 @@ Throughout the period that included the Cuban Missile Crisis, the American embar
 
 **Featured program**: ["Florida Matters"](https://americanarchive.org/catalog/cpb-aacip_304-687h4mj4) (WUSF, March 2009)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Florida Matters – Roberto Quiros: https://americanarchive.org/catalog/cpb-aacip_304-687h4mj4.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_304-687h4mj4" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/floridamatters.png" class="big-image" alt="*Florida Matters* – Roberto Quiros."></a></td></tr>
 </table>
@@ -236,7 +236,7 @@ Carlos Eire, a professor of history and religious studies at Yale University, wa
 
 **Featured program**: [Gloria and Emilio Estefan](https://americanarchive.org/catalog/cpb-aacip-525-2z12n50q0g?start=2890.46&end=3293.51) (PBS NewsHour, May 3, 2019)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Emilio and Gloria Estefan at the Library of Congress Gershwin Prize celebration: https://americanarchive.org/catalog/cpb-aacip-525-2z12n50q0g?start=2890.46&end=3293.51.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-2z12n50q0g?start=2890.46&end=3293.51" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/emilio_gloria_estefan.png" class="big-image" alt="Emilio and Gloria Estefan at the Library of Congress Gershwin Prize celebration."></a></td></tr>
 </table>
@@ -249,7 +249,7 @@ In March 2019, the Estefans were the recipients of the Library of Congress Gersh
 
 **Featured program**: ["Notes from the Mambo Inn: The Story of Mario Bauzá"](https://americanarchive.org/catalog/cpb-aacip-15-2z12n4zk3v) (La Plaza, WGBH, 1991)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Notes from the Mambo Inn: https://americanarchive.org/catalog/cpb-aacip-15-2z12n4zk3v.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-15-2z12n4zk3v" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/mamboinn.png" class="big-image" alt="Notes from the Mambo Inn."></a></td></tr>
 </table>

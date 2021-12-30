@@ -20,7 +20,7 @@ The Ford Foundation helped fund the pilots of Latino-themed series that would be
 
 #### [*Carrascolendas*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Carrascolendas&sort=asset_date+asc)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Aida Barrera, from *Carrascolendas* (KLRN, 1972).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-512-zk55d8q121" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Aida-Barrera-1.jpg" class="big-image" alt="Aida Barrera, from *Carrascolendas* (KLRN, 1972)."></a></td></tr>
 </table>
@@ -35,7 +35,7 @@ Geared to first and second graders, *Carrascolendas* also attracted older Spanis
 
 #### [*Acción Chicano*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Accion+Chicano&sort=title+asc)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">*Acción Chicano* set, with Jesús Salvador Treviño (front), from *Acción Chicano*: https://americanarchive.org/catalog/cpb-aacip-2a700bd6f0e (KCET, 1974).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-2a700bd6f0e" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Accion-Chicano-with-Trevino-1.jpg" class="big-image" alt="*Acción Chicano* set, with Jesús Salvador Treviño (front), from *Acción Chicano* (KCET, 1974)."></a></td></tr>
 </table>
@@ -50,7 +50,7 @@ Because the six episodes of [*Acción Chicano* in the AAPB collection](https://a
 
 #### [*Realidades*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Realidades&sort=asset_date+asc)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Filming *Realidades*, Humberto Citrón (center), from Realidades: Los Medios de Communicacion y la Communidad Latina: https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1 (WNET, 1977).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Filming-Realidades-Humberto-Citron-1.jpg" class="big-image" alt="Filming *Realidades*, Humberto Citrón (center), from Realidades: Los Medios de Communicacion y la Communidad Latina (WNET, 1977)."></a></td></tr>
 </table>
@@ -63,7 +63,7 @@ CPB supported the show for two years and twenty-three half-hour programs, but it
 
 #### El Teatro Campesino
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Luis Valdez, from *NET Playhouse*: El Teatro Campesino: https://americanarchive.org/catalog/cpb-aacip-75-9995xj7b (NET, 1970).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-75-9995xj7b" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Luis-Valdez-1.jpg" class="big-image" alt="Luis Valdez, from *NET Playhouse*: El Teatro Campesino (NET, 1970)."></a></td></tr>
 </table>
@@ -81,7 +81,7 @@ In 1970, *NET Playhouse* presented a documentary on El Teatro Campesino, includi
 
 #### [*La Plaza*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=La+Plaza&sort=asset_date+asc)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Raquel Ortiz on the set of La Plaza, 1978.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-15-483jbxr8" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/raquelortiz.png" class="big-image" alt="Raquel Ortiz on the set of *La Plaza*, 1978."></a></td></tr>
 </table>
@@ -93,7 +93,7 @@ Raquel Ortiz used the experience she gained in the production of *Realidades* to
 
 #### [*Images/Imágenes*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Images%2FImagenes&sort=asset_date+asc)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Images/Imágenes Logo.
 </caption>
 <tr><td><a href="https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Images%2FImagenes&sort=asset_date+asc" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/images-imagenes_logo.png" class="big-image" alt="*Images/Imágenes* Logo."></a></td></tr>
@@ -103,7 +103,7 @@ Raquel Ortiz used the experience she gained in the production of *Realidades* to
 
 #### [*En Camino*]( https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=En+Camino&per_page=100&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=online)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">En Camino (KCRB) logo at https://americanarchive.org/catalog/cpb-aacip-88-96wwq7wk.
 </caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-88-96wwq7wk" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-En+Camino-logo-1.jpg" class="big-image" alt="*En Camino* logo."></a></td></tr>
@@ -123,7 +123,7 @@ The first organization created to deal with Latino public television issues was 
 
 #### National Latino Media Coalition
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">FCC Commissioner Benjamin Hooks speaking at the first National Latino Media Coalition national conference, from Realidades (WNET, 1975): https://americanarchive.org/catalog/cpb-aacip-7d440a3172d?start=53.81&end=408.1.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-7d440a3172d?start=53.81&end=408.1" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-FCC-Commissioner-Benjamin-Hooks-at-NLMC-1.jpg" class="big-image" alt="FCC Commissioner Benjamin Hooks speaking at the first National Latino Media Coalition national conference, from *Realidades* (WNET, 1975)."></a></td></tr>
 </table>
@@ -148,7 +148,7 @@ The PBS series *POV* (“point of view”) features innovative independent docum
 
 Latino Public Broadcasting (LPB) formed in 1998 by actor/producer/director/writer Edward James Olmos and producer/writer Marlene Dermer to replace the National Latino Communications Center in CPB’s National Minority Consortium (now the National Multicultural Alliance). Programs funded by LPB have won more than 125 awards, including *Voces*, LPB’s signature documentary series presenting Latino arts, culture, and history.[<sup>84</sup>](/exhibits/latino-empowerment/notes#84) The AAPB collection currently includes the verité documentary [*My American Girls: A Dominican Story*](https://americanarchive.org/catalog/cpb-aacip_75-3331zn46) (dir. Aaron Matthews, 2002) that LPB partially funded. It may be viewed at the Library of Congress and GBH.
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Maggie Rivas-Rodriguez, from The NewsHour with Jim Lehrer: https://americanarchive.org/catalog/cpb-aacip-507-mg7fq9qx2q?start=2407.88&end=3267.52 (MacNeil/Lehrer Productions & WETA, 2007).
 </caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-mg7fq9qx2q?start=2407.88&end=3267.52" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Maggie-Rivas-Rodriquez-1.jpg" class="big-image" alt="Maggie Rivas-Rodriguez, from The NewsHour with Jim Lehrer (MacNeil/Lehrer Productions & WETA, 2007)."></a></td></tr>
@@ -160,7 +160,7 @@ In 2007, Maggie Rivas-Rodriguez, director of the U.S. Latino and Latina World Wa
 
 The series narrator, Benjamin Bratt, characterized *Latino Americans* as “a retelling of history that factually corrects the record and rightly puts Latino culture squarely in the middle of the American experience.” The six parts, “Foreigners in Their Own Land (1565-1880)”; “Empire of Dreams (1880-1942)”; “War and Peace (1942-1954)”; “The New Latinos (1946-1965)”; “Prejudice and Pride (1965-1980)”; and “Peril and Promise (1980-2000),” chronicle Latino history and culture using stories of a diverse group of individuals who made that history.
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Ray Suarez, from PBS NewsHour: https://americanarchive.org/catalog/cpb-aacip-525-bc3st7fw1s?start=1562.18&end=2039.33 (MacNeil/Lehrer Productions & WETA, 2013).
 </caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-bc3st7fw1s?start=1562.18&end=2039.33" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Ray-Suarez-1.jpg" class="big-image" alt="Ray Suarez, from *PBS NewsHour* (MacNeil/Lehrer Productions & WETA, 2013)."></a></td></tr>

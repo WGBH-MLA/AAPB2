@@ -46,10 +46,7 @@ Yet to an important degree, *ZOOM* kept commercialism at a deliberate remove. Ta
 
 ## Cover
 
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Cast of ZOOM, 1973.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Zoom_cast5_Oct1973_Zoom_1970s_02.png" alt="Cast of ZOOM, 1973"/></td></tr>
-</table>
+<img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Zoom_cast5_Oct1973_Zoom_1970s_02.png" alt="Cast of ZOOM, 1973"/>
 
 ## Gallery
 

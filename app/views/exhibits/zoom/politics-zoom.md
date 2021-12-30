@@ -55,11 +55,7 @@ While the children who appeared as ZOOMguests were a diverse group, what disting
 ## Main
 
 ## Cover
-
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Image of cast from ZOOM card.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Water_Walk_Box_D00016_square.png" alt="Image of cast from ZOOM card"/></td></tr>
-</table>
+<img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/zoom_card_Water_Walk_Box_D00016_square.png" alt="Image of cast from ZOOM card"/>
 
 ## Gallery
 

@@ -32,7 +32,7 @@ BEA, alternatively known as Title VII of the Elementary and Secondary Education 
 
 Bilingual education was a highly contentious topic. The program inspired not only educational discussions but also stirred ferocious debates about multiculturalism, assimilation, and what it meant to be an American. There were several models and approaches to providing bilingual education, and each school district – and sometimes even each school – was free to choose the most appropriate approach for them.
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Bilingual education, from En Camino: https://americanarchive.org/catalog/cpb-aacip-88-07gqnm1x?start=32.22&end=810.91 (KRCB, 1986).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-88-07gqnm1x?start=32.22&end=810.91" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices+of+Dissent-bilingual+education.jpg" class="big-image" alt=" Bilingual education, from [*En Camino*](https://americanarchive.org/catalog/cpb-aacip-88-07gqnm1x?start=32.22&end=810.91) (KRCB, 1986)."></a></td></tr>
 </table>
@@ -47,7 +47,7 @@ Learning a new language is a huge undertaking that goes beyond simple language a
 
 *The MacNeil/Lehrer Report* approached the topic of bilingual education by focusing on the economic and sociopolitical consequences of the policy. On May 15, 1978, 10 years after the BEA legislation passed, Robert MacNeil began a [program devoted to bilingual education](https://americanarchive.org/catalog/cpb-aacip_507-hm52f7kk2n) by highlighted the existing civil tensions surrounding this topic: “One of the easiest ways to start an argument these days is to discuss what kind of education our children are getting.” Indeed, MacNeil’s introductory comment described the dynamics of the episode itself, one fierce argument on the theoretical, economic, and ethical merits of a program dedicated to a particular sector of the population. By that time, the government had spent $135 million to teach ¼ of a million students. Still, the debate was more centered on the argument that bilingual education was not successful than on its costs.
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Hernan La Fontaine, from The MacNeil/Lehrer Report: https://americanarchive.org/catalog/cpb-aacip_507-hm52f7kk2n (WNET and WETA, 1978).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-hm52f7kk2n" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices-of-Dissent-Hernan-La-Fontaine.jpg" class="big-image" alt="Hernan La Fontaine, from [*The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip_507-hm52f7kk2n) (WNET and WETA, 1978)."></a></td></tr>
 </table>
@@ -58,7 +58,7 @@ Hurwitz and La Fontaine both were proudly American and wanted minority students 
 
 La Fontaine gave voice to millions of Latinos who have faced questions about their identity.  In *Harvest of Empire: A History of Latinos in America*, journalist and author Juan Gonzalez writes, “Since a people’s culture is inevitably expressed through its language, the growth of ‘foreign’ language use somehow implies the growth of alien cultures.”[<sup>140</sup>](/exhibits/latino-empowerment/notes#140) As [Laurie Olson stated on Radio Bilingüe](https://americanarchive.org/catalog/cpb-aacip_375-17qnkdb2), “I feel that the debate over bilingual education has not been a pedagogical debate. It’s not been a debate about effective programs. It’s been a politicized debate about how, to what degree, people feel we can tolerate a multilingual, bilingual society as opposed to a monolingual society.”
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Yes on 58 buttons, from PBS NewsHour: https://americanarchive.org/catalog/cpb-aacip-525-gt5fb4xq37?start=1036.79&end=1471.45 (NewsHour Productions, 2016).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-gt5fb4xq37?start=1036.79&end=1471.45" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices-of-Dissent-Yes-on-58-buttons.jpg" class="big-image" alt="Yes on 58 buttons, from [*PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-gt5fb4xq37?start=1036.79&end=1471.45) (NewsHour Productions, 2016)."></a></td></tr>
 </table>
@@ -74,7 +74,7 @@ In the [May 15, 1978, episode of *The MacNeil/Lehrer Report*](https://americanar
 
 The type of linguistic discrimination that Hurwitz described has resulted in some instances in limiting for Latinos the affordable housing opportunities that otherwise would have been available to them. In 1999, Thomas Purnell, professor of linguistics at the University of Wisconsin-Madison, and two colleagues, conducted experiments whereby potential tenants contacted landlords by phone to ask about a property. The results indicated that “landlords discriminate against prospective tenants on the basis of the sound of their voice during telephone conversations.” The researchers pointed out that Latinos seemed to experience this form of linguistic discrimination more often than other minority groups.[<sup>143</sup>](/exhibits/latino-empowerment/notes#143) A similar 2014 study by economics scholars Andrew Hanson and Michael Santas tested discrimination against Hispanics in the U.S. housing market. In the study, two groups of Hispanics contacted landlords through email asking about a property. One group appeared to be assimilated into American society, while the other group seemed to be recent immigrants. While there were few differences between the treatment of whites and assimilated Hispanics, the group of recent immigrants received 6.89% less positive responses.[<sup>144</sup>](/exhibits/latino-empowerment/notes#144)
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Homeless family, from En Camino: Families without Homes: https://americanarchive.org/catalog/cpb-aacip-88-15bcc3wr (KRCB, 1988).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-88-15bcc3wr" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices-of-Dissent-Homeless-family.jpg" class="big-image" alt="Homeless family, from [*En Camino*: Families without Homes](https://americanarchive.org/catalog/cpb-aacip-88-15bcc3wr) (KRCB, 1988)."></a></td></tr>
 </table>
@@ -89,7 +89,7 @@ In the *En Camino* program, Maria Rifo, a member of the religious group Caridade
 
 In 1988, *Images/Imágenes*, an Emmy-Award winning program produced by New Jersey Network, aired a series of three episodes focused on the housing crisis and the Hispanic community. The [first part](https://americanarchive.org/catalog/cpb-aacip-259-c53f228h) reported on the problems Hispanics encountered when looking for housing: lack of adequate housing, displacement from urban areas, discrimination, and increase of rents. The [second episode](https://americanarchive.org/catalog/cpb-aacip-259-b27ps20b) focused on state and federal government programs that could help Latinos overcome those problems. The [final episode](https://americanarchive.org/catalog/cpb-aacip-259-5h7bvb0p) centered on community efforts to gain better housing, one of their achievements being the creation of the National Hispanic Housing Coalition.
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Housing under construction, from Images/Imágenes: Hispanics and Housing III: https://americanarchive.org/catalog/cpb-aacip-259-5h7bvb0p (New Jersey Public Television, 1988).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-259-5h7bvb0p" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices-of-Dissent-Housing-under-construction.jpg" class="big-image" alt="Housing under construction, from [*Images/Imágenes*: Hispanics and Housing III](https://americanarchive.org/catalog/cpb-aacip-259-5h7bvb0p) (New Jersey Public Television, 1988)."></a></td></tr>
 </table>
@@ -110,7 +110,7 @@ The program underscored the lack of fair wages, the use of child labor, and the 
 
 The “Struggle in the Fields” segment of *Chicano!* covered the United Farm Workers (UFW) strikes against grape growers near the town of Delano, California. Led by former farmworkers César Chávez and Dolores Huerta, the strikers stood their ground for many years, contributing innovations to the act of protesting that led to “the most successful consumer boycott in the history of the United States.”[<sup>149</sup>](/exhibits/latino-empowerment/notes#149) Ester Hernandez recalled when her family told her that they had to stay and fight even if they starved to death because otherwise, change was an impossibility. The *NET Journal* documentary [*Huelga!*](https://americanarchive.org/catalog/cpb-aacip-504-696zw19w66) (NET, 1968) provides a contemporaneous account of the strike. The *Public Broadcast Laboratory* documentary report “[The Invisible Minority](https://americanarchive.org/catalog/cpb-aacip-516-sb3ws8jm5c#at_3076.4_s)” (NET, 1969), chronicled farmworker and political efforts of Mexican Americans in California, Arizona, New Mexico, and Denver. The Peabody Award-winning film [*A Thirst in the Garden*](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r27w) (KERA-TV, 1976) documents the horrendous health conditions of Mexican American farmworkers in Texas’s Rio Grande Valley, responsible for outbreaks of typhus, typhoid, polio, and leprosy – diseases virtually wiped out elsewhere in the U.S. – due to the lack of clean water available to some of America’s poorest people laboring in one of the most productive farming areas of the world.
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Rio Grande irrigation canal polluted with sewage, from A Thirst in the Garden: https://americanarchive.org/catalog/cpb-aacip-526-p843r0r27w (KERA, 1976).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-526-p843r0r27w" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices-of-Dissent-Rio-Grande-irrigation-canal-polluted-with-sewage.jpg" class="big-image" alt="Rio Grande irrigation canal polluted with sewage, from [*A Thirst in the Garden*](https://americanarchive.org/catalog/cpb-aacip-526-p843r0r27w) (KERA, 1976)."></a></td></tr>
 </table>
@@ -121,7 +121,7 @@ On [February 9, 1989, *En Camino*](https://americanarchive.org/catalog/cpb-aacip
 
 English-language media also covered the hardships that farmworkers would go through to put food on the plates of the American people. In 2001, Oregon Public Broadcasting aired the episode “[Agricultural Workers in Oregon](https://americanarchive.org/catalog/cpb-aacip_153-655dvcgs)” in *The Oregon Story* series. The episode highlighted the inequalities that were part of everyday life for Latino farmworkers, with historian Erasmo Gamboa commenting: “Unfortunately, the public understands the importance of the farmer, but not the farmworker. . . . They will put up with working conditions that the rest of us would not put up with. . . . They are the forgotten community within the larger farming sector. Out of sight, out of mind, so to speak.”
 
-<table class="exhibit-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Agricultural workers’ home in Oregon, from The Oregon Story: Agricultural Workers: https://americanarchive.org/catalog/cpb-aacip_153-655dvcgs (Oregon Public Broadcasting, 2001).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_153-655dvcgs" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices-of-Dissent-Agricultural-workers-home-in-Oregon.jpg" class="big-image" alt="Agricultural workers’ home in Oregon, from [(The Oregon Story*: Agricultural Workers](https://americanarchive.org/catalog/cpb-aacip_153-655dvcgs) (Oregon Public Broadcasting, 2001)."></a></td></tr>
 </table>
