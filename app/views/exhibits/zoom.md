@@ -4,7 +4,7 @@
 
 ## Summary
 
-*ZOOM (1972-1978): Children’s Community and Public Television in the 1970s* was created by Leslie Paris, Associate Professor of History at the University of British Columbia in Vancouver, Canada. Her work on *ZOOM* was made possible by grants and fellowships from the Social Sciences and Humanities Research Council of Canada, the National Endowment for the Humanities, the Mellon Participatory Cataloguing Project at WGBH, the UBC Hampton Research Endowment Fund, and the UBC Public Humanities Hub. Special thanks are due to Mary Chapman, John Pitcher, and the anonymous reviewer of the exhibit essay, and to Karen Cariani and Casey Davis Kaufman, the Executive and Associate Directors of the GBH Archives, for their support in making this exhibit possible.
+*ZOOM (1972-1978): Children’s Community and Public Television in the 1970s* was created by Leslie Paris, Associate Professor of History at the University of British Columbia in Vancouver, Canada. Her work on *ZOOM* was made possible by grants and fellowships from the Social Sciences and Humanities Research Council of Canada, the National Endowment for the Humanities, the Mellon Participatory Cataloguing Project at WGBH, the UBC Hampton Research Endowment Fund, and the UBC Public Humanities Hub. Special thanks are due to Mary Chapman, John Pitcher, and the anonymous reviewer of the exhibit essay, and to Karen Cariani, Casey Davis Kaufman, Leah Weisse, and Henry Neels, for their support in making this exhibit possible.
 
 ## Extended
 
