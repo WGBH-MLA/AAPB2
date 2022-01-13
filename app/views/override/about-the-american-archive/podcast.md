@@ -5,6 +5,39 @@
 In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 </div>
 
+### Episode 06: National Public Radio with Bill Siemering</i>
+Jan 11, 2022
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XWkkiUSJL8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The sixth episode of “Presenting the Past” features Bill Siemering, a radio innovator and advocate, who was inducted into the Radio Hall of Fame in October 2021. As a founding member of the NPR Board of Directors, Siemering wrote NPR's original mission and goals, and as NPR’s first director of programming, led the development of <i>All Things Considered</i>. Siemering developed <i>Fresh Air with Terry Gross</i> at WHYY in Philadelphia, managed WBFO in Buffalo, NY, and KCCM in Moorhead, MN, was the executive producer of the documentary series <i>Sound Print</i>, worked with the Open Society Foundation, focusing on Eastern Europe, Africa and Mongolia, and founded Developing Radio Partners to enrich the programming of local stations in Africa. In this discussion, he reflects on the influences that helped shape his ideas and approaches to public radio programming throughout his career.
+
+Highlighted in this program are clips from Wisconsin Public Radio (WPR), including the inaugural FM broadcast in 1947, the Peabody Award winning series <i>Afield with Ranger Mac</i>, and the write-in radio program <i>Dear Sirs</i>. Be sure to also listen to “Strasburg, North Dakota” (1977) from Minnesota Public Radio. Co-produced by Siemering, it highlights his interest in incorporating soundscapes and compelling storytelling into radio programming. 
+
+This discussion is led by Neil Verma, assistant professor of sound studies in Radio/TV/Film at Northwestern University, and a member of the AAPB Scholar Advisory Committee. 
+
+Credits:<br>
+Hosted by Neil Verma<br>
+Recorded and edited by Christine Becker<br>
+Produced by Ryn Marchese<br>
+Post-production and theme music by Todd Thompson<br>
+
+<div>
+  <span>Content mentioned in this episode:</span><br>
+  <ul class="override" style="margin-top: 0.1em;">
+    <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
+<li><a href=https://www.npr.org/2021/05/07/993569986/radio-with-a-purpose-bill-siemering-on-nprs-original-mission-statement>National Public Radio Purposes</a> (1970)
+<li><a href=https://americanarchive.org/participating-orgs/1896.2>Wisconsin Public Radio Collection</a>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip_30-9351d435>Inaugural FM Program</a> (WHA, 1947)
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-30-504xhtw6><i>Wisconsin School of the Air; Afield with Ranger Mac</i></a> (WHA, ca. 1942)
+<li><a href=https://urldefense.com/v3/__https:/americanarchive.org/catalog/cpb-aacip_30-53wsvmjx__;!!Dq0X2DkFhyF93HkjWTBQKhk!Bb5iWwzTSonmVYfUwHYx0AnCYLzY83tsHp4PTX2tqy3gXHHr6ISyNqnb9KAtIJHto5NfGU8$><i>Dear Sirs</i></a> (WHA, 1961)
+<li><a href=https://americanarchive.org/participating-orgs/1466>Minnesota Public Radio Collection</a>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip_43-86nzspzz>“Strasburg, North Dakota”</a> (MPR, 1977)
+ </ul>
+</div>
+
+#### Part 1 featuring Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín
+<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/plgw01pPzTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Episode 05: Latino Empowerment through Public Broadcasting</i>
 Nov 23, 2021
 
