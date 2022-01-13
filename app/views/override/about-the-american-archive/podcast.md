@@ -19,7 +19,7 @@ Credits:<br>
 Hosted by Neil Verma<br>
 Recorded and edited by Christine Becker<br>
 Produced by Ryn Marchese<br>
-Post-production and theme music by Todd Thompson<br>
+Post-production and theme music by Todd Thompson<br> 
 
 <div>
   <span>Content mentioned in this episode:</span><br>
