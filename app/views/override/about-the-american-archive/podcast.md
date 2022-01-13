@@ -27,10 +27,10 @@ Post-production and theme music by Todd Thompson<br>
     <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
 <li><a href=https://www.npr.org/2021/05/07/993569986/radio-with-a-purpose-bill-siemering-on-nprs-original-mission-statement>National Public Radio Purposes</a> (1970)
 <li><a href=https://americanarchive.org/participating-orgs/1896.2>Wisconsin Public Radio Collection</a>
+  <li><a href=https://americanarchive.org/participating-orgs/1466>Minnesota Public Radio Collection</a>
 <li><a href=https://americanarchive.org/catalog/cpb-aacip_30-9351d435>Inaugural FM Program</a> (WHA, 1947)
 <li><a href=https://americanarchive.org/catalog/cpb-aacip-30-504xhtw6><i>Wisconsin School of the Air; Afield with Ranger Mac</i></a> (WHA, ca. 1942)
 <li><a href=https://urldefense.com/v3/__https:/americanarchive.org/catalog/cpb-aacip_30-53wsvmjx__;!!Dq0X2DkFhyF93HkjWTBQKhk!Bb5iWwzTSonmVYfUwHYx0AnCYLzY83tsHp4PTX2tqy3gXHHr6ISyNqnb9KAtIJHto5NfGU8$><i>Dear Sirs</i></a> (WHA, 1961)
-<li><a href=https://americanarchive.org/participating-orgs/1466>Minnesota Public Radio Collection</a>
     <li><a href=https://americanarchive.org/catalog/cpb-aacip_43-86nzspzz>“Strasburg, North Dakota”</a> (MPR, 1977)
  </ul>
 </div>
