@@ -16,6 +16,7 @@
 
 ## Resources
 
+- [Check out the 50th Anniversary events and resources: Zoom 50th Anniversary Activities](https://www.wgbh.org/zoom50)
 - [*ZOOM* Special Collection](https://americanarchive.org/special_collections/zoom)
 - [*Vegetable Soup* Special Collection](https://americanarchive.org/special_collections/vegetable-soup)
 - [The Neighborhood Archive: All Things Mister Rogers](http://www.neighborhoodarchive.com/)
