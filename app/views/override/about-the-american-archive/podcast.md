@@ -5,9 +5,10 @@
 In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 </div>
 
-### Episode 06: National Public Radio with Bill Siemering</i>
+### Episode 06: National Public Radio with Bill Siemering
 Jan 11, 2022
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XWkkiUSJL8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/XWkkiUSJL8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The sixth episode of “Presenting the Past” features Bill Siemering, a radio innovator and advocate, who was inducted into the Radio Hall of Fame in October 2021. As a founding member of the NPR Board of Directors, Siemering wrote NPR's original mission and goals, and as NPR’s first director of programming, led the development of <i>All Things Considered</i>. Siemering developed <i>Fresh Air with Terry Gross</i> at WHYY in Philadelphia, managed WBFO in Buffalo, NY, and KCCM in Moorhead, MN, was the executive producer of the documentary series <i>Sound Print</i>, worked with the Open Society Foundation, focusing on Eastern Europe, Africa and Mongolia, and founded Developing Radio Partners to enrich the programming of local stations in Africa. In this discussion, he reflects on the influences that helped shape his ideas and approaches to public radio programming throughout his career.
 
@@ -35,10 +36,7 @@ Post-production and theme music by Todd Thompson<br>
  </ul>
 </div>
 
-#### Part 1 featuring Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín
-<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/plgw01pPzTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Episode 05: Latino Empowerment through Public Broadcasting</i>
+### Episode 05: Latino Empowerment through Public Broadcasting
 Nov 23, 2021
 
 #### Part 1 featuring Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín
@@ -89,7 +87,7 @@ Post-production and theme music by Todd Thompson<br>
   </ul>
 </div>
 
-### Episode 04: Broadcasting in the Public Interest with Newton Minow, former Chair of the Federal Communications Commission (FCC)</i>
+### Episode 04: Broadcasting in the Public Interest with Newton Minow, former Chair of the Federal Communications Commission (FCC)
 Sept 14, 2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qVeUFF0-LjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -219,7 +217,6 @@ Post-production and theme music by Todd Thompson<br>
 
 ### Episode 02: <i>On the Right: NET and Modern Conservatism</i> with Allison Perlman, PhD
 June 8, 2021
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bZP-giVJOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
