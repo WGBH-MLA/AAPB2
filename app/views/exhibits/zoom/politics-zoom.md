@@ -21,30 +21,36 @@ Reflecting the nation’s growing diversity, from season two onward *ZOOM* casts
 
 Many American children of the 1970s experienced the impact of the new feminism in sports; the passage of [Title IX](https://americanarchive.org/catalog/cpb-aacip_507-hd7np1x85m) of the Educational Amendments Act of 1972, in the manner of race-based civil rights legislation before it, prohibited sex discrimination in federally funded higher educational institutions and held schools accountable for providing girls fair access to academic opportunities and competitive sports. In season three, one episode included as ZOOMguests the [Marshfield Goldiggers](https://americanarchive.org/catalog/cpb-aacip-15-26xwdm9r?start=954.28&end=1483.71) of Marshfield, Massachusetts, a girl’s hockey team shown playing against a local boys’ team. As one of the girls explained, “Some people don’t think that girls play rough sports, but we are all on a girls’ hockey team in Marshfield, Massachusetts. People used to laugh at the idea of girls playing hockey, but a lot of us wanted to play so a couple of years ago, one of our fathers started up a team.” While the girls expressed confidence in their abilities, the boys offered a range of opinions about whether girls belonged on the ice. One boy stated, “I think hockey is a boys’ game. I don’t think girls should play, ‘cause a home for a girl is in the house.” Another contended, “I don’t think it’s unfeminine for the girls to play hockey. They should be allowed to if they want to.” While the Goldiggers lost the game by a significant margin, the episode showed them playing with determination.
 
-<table class="exhibit-image half-image short-image">
-<caption align="bottom" class="exhibit-caption">Letter to ZOOM from a boy who wants to do synchronized swimming.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Boy_Synchronized_Swimming_barcode385189.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Boy_Synchronized_Swimming_barcode385189.png" class="big-image" alt="Letter to ZOOM from a boy who wants to do synchronized swimming.</"/></a></td></tr>
-</table>
+<div class="row">
+  <table class="exhibit-image half-image short-image left">
+  <caption align="bottom" class="exhibit-caption">Letter to ZOOM from a boy who wants to do synchronized swimming.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Boy_Synchronized_Swimming_barcode385189.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Boy_Synchronized_Swimming_barcode385189.png" class="big-image" alt="Letter to ZOOM from a boy who wants to do synchronized swimming.</"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image half-image short-image">
-<caption align="bottom" class="exhibit-caption">Letter from a girl in Iowa about playing football.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Sports_Girls_Boys_I_Play_Football_Never_Get_Hurt_barcode281091.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Sports_Girls_Boys_I_Play_Football_Never_Get_Hurt_barcode281091.png" class="big-image" alt="Letter from a girl in Iowa about playing football.</"/></a></td></tr>
-</table>
+  <table class="exhibit-image half-image short-image">
+  <caption align="bottom" class="exhibit-caption">Letter from a girl in Iowa about playing football.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Sports_Girls_Boys_I_Play_Football_Never_Get_Hurt_barcode281091.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Sports_Girls_Boys_I_Play_Football_Never_Get_Hurt_barcode281091.png" class="big-image" alt="Letter from a girl in Iowa about playing football.</"/></a></td></tr>
+  </table>
+  
+</div>
 
 From the first season onward some ZOOMguests were children with disabilities, whose talents and skills were the focus of their episodes. David [Wood](https://americanarchive.org/catalog/cpb-aacip-15-752frd3c?start=1244.61&end=1429.76) was filmed at the Perkins School for the Blind working competently with wood, tools, and a braille ruler to make a toy. One episode in season three included subtitles for children with hearing impairments and featured ZOOMguest Roland [Granfors](https://americanarchive.org/catalog/cpb-aacip-15-81wdc6rs?start=896.28&end=1298.13), who attended a summer camp run by the American School for the Deaf and was a competitive basketball player. This episode generated a significant response from children writing in for a ZOOMcard about American Sign Language.[<sup>57</sup>](/exhibits/zoom/notes#57) A number of children with disabilities wrote to *ZOOM*, praising the program for showcasing the lives of children like themselves.[<sup>58</sup>](/exhibits/zoom/notes#58)
 
-<table class="exhibit-image half-image short-image">
-<caption align="bottom" class="exhibit-caption">Letter to ZOOM from a girl who is blind and living with paralysis.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Blind_Writing_Paralyzed_Braille_Zoom_barcode385188.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Blind_Writing_Paralyzed_Braille_Zoom_barcode385188.png" class="big-image" alt="Letter to ZOOM from a girl who is blind and living with paralysis.</"/></a></td></tr>
-</table>
-
 In *ZOOM*’s final season in 1977-78, many children with disabilities were being newly mainstreamed into regular public schools, a practice that became a legal expectation as a result of the Education for All Handicapped Children Act of 1975. The U.S. Office of Education provided funding for *ZOOM* to create eight ZOOMguest [segments](https://americanarchive.org/catalog/cpb-aacip-15-4302vj7k?start=758.24&end=1168.32) that touched on the [experiences](https://americanarchive.org/catalog/cpb-aacip-15-3331zpbq?start=712.09&end=1073.42) of children with [disabilities](https://americanarchive.org/catalog/cpb-aacip-15-90rr5dc1?start=818.07&end=1193.04). Dee [Armstrong](https://americanarchive.org/catalog/cpb-aacip-15-40ksnb39?start=520.01&end=914.91) of California, for example, was a bright and thoughtful twelve-year-old with Larsen Syndrome, a genetic disorder that affected her mobility. She was shown beginning the transition from a school for students with disabilities to a “regular” school. Like other children in this series, Armstong was represented as a talented athlete (here, playing wheelchair basketball), with the confidence to forge her own path. The documentary also gave her a platform from which to speak about disability and prejudice. As she concluded, “I sometimes do wish that people wouldn’t just sit there with their eyes on canes.  Why can’t they look at me instead of my cane? I am a person myself. I just need a little extra equipment.” 
 
+<div class="row">
+    
+  <table class="exhibit-image half-image short-image left">
+  <caption align="bottom" class="exhibit-caption">Letter to ZOOM from a girl who is blind and living with paralysis.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Blind_Writing_Paralyzed_Braille_Zoom_barcode385188.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Blind_Writing_Paralyzed_Braille_Zoom_barcode385188.png" class="big-image" alt="Letter to ZOOM from a girl who is blind and living with paralysis.</"/></a></td></tr>
+  </table>
 
-<table class="exhibit-image half-image short-image">
-<caption align="bottom" class="exhibit-caption">Letter thanking ZOOM for 'sometimes showing children like me who are handicapped,' from a viewer in Washington.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Disabled_19780831_Thank_You_For_Showing_Children_Like_Me_barcode385284.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Disabled_19780831_Thank_You_For_Showing_Children_Like_Me_barcode385284.png" class="big-image" alt="Letter thanking ZOOM for 'sometimes showing children like me who are handicapped,' from a viewer in Washington.</"/></a></td></tr>
-</table>
+  <table class="exhibit-image half-image short-image right">
+  <caption align="bottom" class="exhibit-caption">Letter thanking ZOOM for 'sometimes showing children like me who are handicapped,' from a viewer in Washington.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Disabled_19780831_Thank_You_For_Showing_Children_Like_Me_barcode385284.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Disabled_19780831_Thank_You_For_Showing_Children_Like_Me_barcode385284.png" class="big-image" alt="Letter thanking ZOOM for 'sometimes showing children like me who are handicapped,' from a viewer in Washington.</"/></a></td></tr>
+  </table>
+
+</div>
 
 Children’s participation in the labor force was another consistent theme of *ZOOM*. The ZOOMers themselves were paid for their twice-weekly labor (they earned $110 per week in 1977), but most experienced life on the set more as play than as work.[<sup>59</sup>](/exhibits/zoom/notes#59) Former season two ZOOMers Bernadette and Nancy both later characterized the WGBH set as akin to an “after-school program”; Timmy, from season three, recalled, “You got to run around and do plays and you know all this fun stuff … I made some really good friends.”[<sup>60</sup>](/exhibits/zoom/notes#60) When they were on set at WGBH but not filming, ZOOMers also had a fair degree of autonomy. “We spent a lot of time sitting in Julia Child’s cooking studio,” season one ZOOMer Ann later recalled.[<sup>61</sup>](/exhibits/zoom/notes#61)
 
