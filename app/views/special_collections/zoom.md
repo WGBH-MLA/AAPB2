@@ -29,9 +29,8 @@ WGBH first went on the air in 1951 as radio station WGBH-FM, and in 1955 expande
 
 ## Resources
 
+- [ZOOM (1972-1978): Children's Community and Public Television in the 1970s](https://americanarchive.org/exhibits/zoom)
 - [Check out the 50th Anniversary events and resources: Zoom 50th Anniversary Activities](https://www.wgbh.org/zoom50)
-- [‘“Come on and ZOOM!”: *ZOOM* and 1970s American Childhood’, WGBH OpenVault](https://openvault.wgbh.org/exhibits/zoom/article)
-- [WGBH website](https://www.wgbh.org/)
 - [*ZOOM into Action*, WGBH](https://www.wgbh.org/zoom-into-action)
 
 ## Funders
