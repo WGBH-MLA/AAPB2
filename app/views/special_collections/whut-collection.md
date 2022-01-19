@@ -3,6 +3,7 @@
 ## Thumbnail
 
 ![WHUT Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/WHUT_collection.jpg "WHUT Collection")
+*The George F. Landegger Collection of District of Columbia Photographs in Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.*
 
 ## Collection Summary
 
