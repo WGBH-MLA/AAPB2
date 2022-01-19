@@ -60,11 +60,6 @@ Young artists and athletes who appeared as ZOOMguests also spoke to the importan
 
 While the children who appeared as ZOOMguests were a diverse group, what distinguished them collectively was their willingness to work, to dream, and to create. Part of what was so appealing about the season one episode in which Roy [West](https://americanarchive.org/catalog/cpb-aacip-15-3331znzg?start=642.07&end=985.84) made his own raft was that he appeared to be so autonomous: wielding an axe to chop wood unsupervised by adults, creating a raft on his own, and then floating away blissfully on a lake alone. Through this episode and many more, *ZOOM* emphasized children’s talents and capacities, a message that resonated with the series’ young audience. 
 
-<table class="exhibit-image half-image short-image">
-<caption align="bottom" class="exhibit-caption">Complimentary letter to ZOOM from a viewer in Cape Cod, Massachusetts.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MC_nosig_barcode385176.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/zoom/Complimentary_MC_nosig_barcode385176.png" class="big-image" alt=" Complimentary letter to ZOOM from a viewer in Cape Cod, Massachusetts.</"/></a></td></tr>
-</table>
-
 ### Other Sources:
 
 - Pam Benson, *ZOOMers Revisited: Where Are They Now?* (Boston: WGBH Educational Foundation, 1998).
