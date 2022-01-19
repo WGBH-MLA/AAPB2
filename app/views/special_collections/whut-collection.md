@@ -28,7 +28,7 @@ WHUT-TV began broadcasting as WHMM-TV in 1980. This special collection was curat
 
 - [WHUT](https://www.whut.org/)
 - [WHUT TV YouTube](https://www.youtube.com/c/WHUTTV?app=desktop)
-- [Howard University[(https://howard.edu/)
+- [Howard University](https://howard.edu/)
 - [The Kojo Nnamdi Show (WAMU) Archive](https://thekojonnamdishow.org/shows) 
 
 ## Help
