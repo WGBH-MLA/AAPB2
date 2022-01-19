@@ -14,16 +14,12 @@ WHUT-TV began broadcasting as WHMM-TV in 1980. This special collection was curat
 
 ## Featured Items
 
-Featured Programs 
-
-1.	Marion Barry 
-2.	John Lewis 
-3.	Nelson Mandela 
-4.	Women Leaders of Civil Rights
-5.	Lois Mailou Jones
-6.	Three Women, Three Faiths 
-
-
+[![Marion Barry](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_293-m32n58d030)
+[![John Lewis](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip-293-6h4cn6z77j)
+[![Nelson Mandela](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_293-03qv9st3)
+[![Women Leaders of Civil Rights](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip-293-4j09w0965b)
+[![Lois Mailou Jones](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip-293-t727941d1q)
+[![Three Women, Three Faiths](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_293-13905rmd)
 
 ## Other Resources
 
