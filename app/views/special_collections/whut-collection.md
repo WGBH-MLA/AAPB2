@@ -2,6 +2,8 @@
 
 ## Thumbnail
 
+![WHUT Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/WHUT_collection.jpg "WHUT Collection")
+
 ## Collection Summary
 
 The WHUT Collection includes nearly 250 programs and segments from the Emmy Award winning WHUT-TV public television station, located in Washington, D.C., on the campus of Howard University. WHUT, earlier known as WHMM-TV, was the first public broadcasting station to be licensed and operated by a historically Black college or university. The collection, dating primarily from 1981 to 2008, documents Black politics, history, life, and culture, in addition to D.C.-area affairs, national issues and concerns, and international news. The collection includes broadcast programs, oral histories, and recordings of campus events, such as lectures, speeches, and commencement ceremonies. More than 100 episodes of the series [Evening Exchange](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Evening+Exchange&per_page=100&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=online), hosted after 1985 by Kojo Nnamdi, address topics such as [the Black vote](https://americanarchive.org/catalog/cpb-aacip-293-21tdz2qh), [childhood literacy](https://americanarchive.org/catalog/cpb-aacip-293-375tb6ts), [Ebonics](https://americanarchive.org/catalog/cpb-aacip-293-27zkh42c), and [mental health in minorities](https://americanarchive.org/catalog/cpb-aacip_293-h707w67k8j). The collection includes many programs on the civil rights movement, including a series of [Civil Rights Oral Histories](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Bcontributing_organizations%5D%5B%5D=WHUT+%28DC%29&f%5Baccess_types%5D%5B%5D=online&q=%2Btitles%3A%22civil+rights+oral+histories%22). 
