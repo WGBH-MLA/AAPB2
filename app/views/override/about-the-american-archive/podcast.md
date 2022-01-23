@@ -5,7 +5,7 @@ In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinem
 </div>
 
 ### Episode 07: Documentary Filmmaking with Jean Walkinshaw
-Jan __, 2022
+Jan 25, 2022
 
 <iframe style=
 
@@ -22,25 +22,25 @@ Post-production and theme music by Todd Thompson<br>
   <span>Content mentioned in this episode:</span><br>
   <ul class="override" style="margin-top: 0.1em;">
     <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
-<li><a href=
--	Jean Walkinshaw Collection
--	Face of the City Series (KCTS, 1972)
--	“Faces of the City: Larry Culp” (KCTS, 1972)
--	Celebrate the Women Series (KCTS, 1988-1989)
--	“Celebrate the Women: Helma Ward” (KCTS, 1989)
--	“Celebrate the Women: Mary Walker” (KCTS, 1989)
--	“Celebrate the Women: Helen Thayer” (KCTS, 1989)
--	“Children of the Homeless” (KCTS, 1991)
--	“To Write and Keep Kind” (KCTS, 1993)
--	Maryanna Burk-Carver Interviews (KCTS, 1993)
--	“The Many Roles of Rebecca” (KCTS, 1987)
--	Charles Johnson Interviews (KCTS, 1985-1994)
--	“Rainier: The Mountain” (KCTS, 2000)
--	“The River” (KCTS, 1996)
--	“Trident: Supersub or Dinosaur” (KCTS, 1977)
--	“In the Shadow of the Mountains” (KCTS, 1982)
--	“Hovhaness” Special (KCTS, 1984)
--	Studs Terkel in the AAPB
+<li><a href=https://americanarchive.org/special_collections/jean-walkinshaw>Jean Walkinshaw Collection</a></li>	
+<li><a href=https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Faces+of+the+City&f%5Baccess_types%5D%5B%5D=online><i>Face of the City</i></a> Series (KCTS, 1972)</li>	
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-35cf4f119ad>“Faces of the City: Larry Culp”</a>(KCTS, 1972)</li>
+<li><a href=https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Celebrate+the+Women&f%5Baccess_types%5D%5B%5D=online><i>Celebrate the Women</i></a> Series (KCTS, 1988-1989)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-028dbe12ebe>“Celebrate the Women: Helma Ward”</a> (KCTS, 1989)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-4dca1b5adb8>“Celebrate the Women: Mary Walker”</a> (KCTS, 1989)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-2bebf7f1686>“Celebrate the Women: Helen Thayer”</a> (KCTS, 1989)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-cf63c88e6f8><i>Children of the Homeless</i></a> (KCTS, 1991)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-db7cbed1a2e><i>To Write and Keep Kind</i></a> (KCTS, 1993)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-4875471699f>"To Write and Keep Kind: Interview with Tess Gallagher"</a> (KCTS, 1993)</li>
+<li><a href=https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=jean-walkinshaw&q=Maryanna+Burk-Carver&utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online>Maryanna Burk-Carver</a> Interviews (KCTS, 1993)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-a1b0ed93b67><i>The Many Roles of Rebecca</i></a> (KCTS, 1987)</li>
+<li><a href=https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=jean-walkinshaw&q=Charles+Johnson&utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online>Charles Johnson</a> Interviews (KCTS, 1985-1994)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-cecaed09eb0><i>Rainier: The Mountain</i></a> (KCTS, 2000)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-dd3cde2eb2c><i>The River</i></a> (KCTS, 1996)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-830d5dd7fde><i>Trident: Supersub or Dinosaur</i></a> (KCTS, 1977)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-0cc66cd834e><i>In the Shadow of the Mountains</i></a> (KCTS, 1982)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-10ffb954222><i>Hovhaness Special</i></a> (KCTS, 1984)</li>
+<li><a href=https://americanarchive.org/catalog/cpb-aacip-10ffb954222>Studs Terkel</a> related content in the AAPB</li>
 
 ### Episode 06: National Public Radio with Bill Siemering
 Jan 11, 2022
