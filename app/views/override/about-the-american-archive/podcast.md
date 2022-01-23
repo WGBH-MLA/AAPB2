@@ -1,9 +1,46 @@
 # Presenting the Past: Exploring the American Archive of Public Broadcasting Podcast 
 
-
 <div style="margin-bottom: 0.8em; margin-top: 0.8em;">
 In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 </div>
+
+### Episode 07: Documentary Filmmaking with Jean Walkinshaw
+Jan __, 2022
+
+<iframe style=
+
+The seventh episode of “Presenting the Past” features Jean Walkinshaw, an award-winning documentarian and producer in the Pacific Northwest for over 50 years. In 2021, Walkinshaw contributed 44 public television documentaries and full interviews conducted for the documentaries to the American Archive of Public Broadcasting (AAPB).  The Jean Walkinshaw Collection accessible online covers much of Walkinshaw’s lengthy career spanning the years 1972-2008. Her documentaries focused primarily on notable artists, writers, and social, cultural and ecological themes of the Pacific Northwest region.
+
+In this episode, Jean guides listeners through her career and filmmaking process, highlighting titles in her collection available in the AAPB.
+
+Credits:<br>
+Recorded and edited by Christine Becker<br>
+Produced by Ryn Marchese<br>
+Post-production and theme music by Todd Thompson<br>
+
+<div>
+  <span>Content mentioned in this episode:</span><br>
+  <ul class="override" style="margin-top: 0.1em;">
+    <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
+<li><a href=
+-	Jean Walkinshaw Collection
+-	Face of the City Series (KCTS, 1972)
+-	“Faces of the City: Larry Culp” (KCTS, 1972)
+-	Celebrate the Women Series (KCTS, 1988-1989)
+-	“Celebrate the Women: Helma Ward” (KCTS, 1989)
+-	“Celebrate the Women: Mary Walker” (KCTS, 1989)
+-	“Celebrate the Women: Helen Thayer” (KCTS, 1989)
+-	“Children of the Homeless” (KCTS, 1991)
+-	“To Write and Keep Kind” (KCTS, 1993)
+-	Maryanna Burk-Carver Interviews (KCTS, 1993)
+-	“The Many Roles of Rebecca” (KCTS, 1987)
+-	Charles Johnson Interviews (KCTS, 1985-1994)
+-	“Rainier: The Mountain” (KCTS, 2000)
+-	“The River” (KCTS, 1996)
+-	“Trident: Supersub or Dinosaur” (KCTS, 1977)
+-	“In the Shadow of the Mountains” (KCTS, 1982)
+-	“Hovhaness” Special (KCTS, 1984)
+-	Studs Terkel in the AAPB
 
 ### Episode 06: National Public Radio with Bill Siemering
 Jan 11, 2022
