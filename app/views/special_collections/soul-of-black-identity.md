@@ -18,9 +18,9 @@ This special collection was curated in 2021 by Brittany Jones, a graduate of How
 
 [![Post-Soul Black Culture](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-293-31cjt22h.jpg)](/catalog/cpb-aacip_293-31cjt22h)
 [![Katherine Dunham](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-507-2804x55077.jpg)](/catalog/cpb-aacip-507-2804x55077)
-[![Terry McMillan](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-529-f76639md96)
+[![Terry McMillan](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-529-f76639md96)
 [![Margaret Sloan](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-81-47rn8v5q.jpg)](/catalog/cpb-aacip-81-47rn8v5q)
-[![Marla Gibbs](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-529-7h1dj59m8f)
+[![Marla Gibbs](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-529-7h1dj59m8f)
 [![Gwendolyn Knight and Jacob Lawrence](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-cb466bf1eb2.jpg)](/catalog/cpb-aacip-cb466bf1eb2)
  
 ## Other Resources
