@@ -2,7 +2,9 @@
 
 ## Thumbnail
 
-![The Soul of Black Identity](https://s3.amazonaws.com/americanarchive.org/special-collections/Zoom_mainimage.png "The Soul of Black Identity") 
+![The Soul of Black Identity](https://s3.amazonaws.com/americanarchive.org/special-collections/soulofblackidentity.png "The Soul of Black Identity") 
+
+*Charles Searles, Painting "Celebration" at William J. Green Federal Building, Philadelphia, Pennsylvania, 1977. Acrylic on canvas, dimensions: 9 x 27 feet. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.*
 
 ## Collection Summary
 
