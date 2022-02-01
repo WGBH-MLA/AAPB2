@@ -38,6 +38,8 @@ This special collection was curated in 2021 by Brittany Jones, a graduate of How
 
 ## Help
 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking "Explore the Collection" below the search box.
+
 ## Terms 
 
 - [Comedy](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Comedy+section+of+the+Souls+of+Black+Identity+special+collection.%22&sort=title+asc)   
