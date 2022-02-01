@@ -5,9 +5,9 @@ In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinem
 </div>
 
 ### Episode 07: Documentary Filmmaking with Jean Walkinshaw
-Jan 25, 2022
+February 1, 2022
 
-<iframe style=
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIRpjPN-utA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The seventh episode of “Presenting the Past” features Jean Walkinshaw, an award-winning documentarian and producer in the Pacific Northwest for over 50 years. In 2021, Walkinshaw contributed 44 public television documentaries and full interviews conducted for the documentaries to the American Archive of Public Broadcasting (AAPB).  The Jean Walkinshaw Collection accessible online covers much of Walkinshaw’s lengthy career spanning the years 1972-2008. Her documentaries focused primarily on notable artists, writers, and social, cultural and ecological themes of the Pacific Northwest region.
 
