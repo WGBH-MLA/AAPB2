@@ -1,9 +1,49 @@
 # Presenting the Past: Exploring the American Archive of Public Broadcasting Podcast 
 
-
 <div style="margin-bottom: 0.8em; margin-top: 0.8em;">
 In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 </div>
+
+### Episode 07: Documentary Filmmaking with Jean Walkinshaw
+February 1, 2022
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIRpjPN-utA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The seventh episode of “Presenting the Past” features Jean Walkinshaw, an award-winning documentarian and producer in the Pacific Northwest for over 50 years. In 2021, Walkinshaw contributed 44 public television documentaries and full interviews conducted for the documentaries to the American Archive of Public Broadcasting (AAPB).  The Jean Walkinshaw Collection accessible online covers much of Walkinshaw’s lengthy career spanning the years 1972-2008. Her documentaries focused primarily on notable artists, writers, and social, cultural and ecological themes of the Pacific Northwest region.
+
+In this episode, Jean guides listeners through her career and filmmaking process, highlighting titles in her collection available in the AAPB.
+
+Credits:<br>
+Recorded and edited by Christine Becker<br>
+Produced by Ryn Marchese<br>
+Post-production and theme music by Todd Thompson<br>
+
+<div>
+  <span>Content mentioned in this episode:</span><br>
+  <ul class="override" style="margin-top: 0.1em;">
+    <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li>
+    <li><a href=https://americanarchive.org/special_collections/jean-walkinshaw>Jean Walkinshaw Collection</a></li>	
+    <li><a href=https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Faces+of+the+City&f%5Baccess_types%5D%5B%5D=online><i>Face of the City</i></a> Series (KCTS, 1972)</li>	
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-35cf4f119ad>“Faces of the City: Larry Culp”</a>(KCTS, 1972)</li>
+    <li><a href=https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Celebrate+the+Women&f%5Baccess_types%5D%5B%5D=online><i>Celebrate the Women</i></a> Series (KCTS, 1988-1989)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-028dbe12ebe>“Celebrate the Women: Helma Ward”</a> (KCTS, 1989)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-4dca1b5adb8>“Celebrate the Women: Mary Walker”</a> (KCTS, 1989)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-2bebf7f1686>“Celebrate the Women: Helen Thayer”</a> (KCTS, 1989)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-cf63c88e6f8><i>Children of the Homeless</i></a> (KCTS, 1991)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-db7cbed1a2e><i>To Write and Keep Kind</i></a> (KCTS, 1993)</li>
+        <li><a href=https://americanarchive.org/catalog/cpb-aacip-4875471699f>"To Write and Keep Kind: Interview with Tess Gallagher"</a> (KCTS, 1993)</li>
+    <li><a href=https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=jean-walkinshaw&q=Maryanna+Burk-Carver&utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online>Maryann Burk-Carver</a> Interviews (KCTS, 1993)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-a1b0ed93b67><i>The Many Roles of Rebecca</i></a> (KCTS, 1987)</li>
+    <li><a href=https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=jean-walkinshaw&q=Charles+Johnson&utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online>Charles Johnson</a> Interviews (KCTS, 1985-1994)</li>
+        <li><a href=https://americanarchive.org/catalog/cpb-aacip-cecaed09eb0><i>Rainier: The Mountain</i></a> (KCTS, 2000)</li>
+        <li><a href=https://americanarchive.org/catalog/cpb-aacip-dd3cde2eb2c><i>The River</i></a> (KCTS, 1996)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-830d5dd7fde><i>Trident: Supersub or Dinosaur</i></a> (KCTS, 1977)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-0cc66cd834e><i>In the Shadow of the Mountains</i></a> (KCTS, 1982)</li>
+        <li><a href=https://americanarchive.org/catalog/cpb-aacip-10ffb954222><i>Hovhaness Special</i></a> (KCTS, 1984)</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-10ffb954222>Studs Terkel</a> related content in the AAPB</li>
+  </ul>
+</div>
+
 
 ### Episode 06: National Public Radio with Bill Siemering
 Jan 11, 2022
