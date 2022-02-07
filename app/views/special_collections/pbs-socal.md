@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![*Voter’s Pipeline / Jim Cooper’s Orange County*](https://s3.amazonaws.com/americanarchive.org/special-collections/WRVRbox1.jpg "Voter’s Pipeline / Jim Cooper’s Orange County") 
+![*Voter’s Pipeline / Jim Cooper’s Orange County*](https://s3.amazonaws.com/americanarchive.org/special-collections/pbs-socal-mainimage.png "Voter’s Pipeline / Jim Cooper’s Orange County") 
 
 ## Summary
 
@@ -50,5 +50,3 @@ Terminology used in some records is from the time period in which the episodes w
 ## Sort 
 
 asset_date+asc
-
-![image](https://user-images.githubusercontent.com/38049679/152823222-ee116b95-901e-434d-a546-011a4831f4e1.png)
