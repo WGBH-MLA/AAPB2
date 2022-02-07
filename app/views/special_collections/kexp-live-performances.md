@@ -12,11 +12,9 @@ The radio shows featured in this collection are:  [*Live Room*](https://american
 
 Recordings in the collection that are not available for public streaming on this site, may be accessed by request (https://americanarchive.org/faq) and on location (https://americanarchive.org/on-location) at the Library of Congress and GBH. 
 
-
 ## Background
 
 KEXP has been at the heart of Seattle's thriving music scene for the past five decades. Founded in 1972 as student- and volunteer-run KCMU at the University of Washington, the radio station became community supported in 1981 following budget cuts from the university. In 1986, the station increased their wattage to 400 watts and moved their transmitter to reach a 15-mile radius audience. With help from the Paul G. Allen Family Foundation, KCMU became KEXP 90.3 FM in 2001, moving to a high-tech study and increasing its wattage further to 720. As a 501(c)3 nonprofit arts organization formed at the same time, KEXP’s mission is to “enrich your life by championing music and discovery.” Designed to benefit music lovers, artists, and the arts community, KEXP continues to be a station powered by the community, reaching nearly 300,000 listeners around the world through on-air and online services. 
-
 
 ## Featured
 
@@ -38,6 +36,8 @@ KEXP has been at the heart of Seattle's thriving music scene for the past five d
 ## Funders
 
 ## Help
+
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
 ## Terms
 
