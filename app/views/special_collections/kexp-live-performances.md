@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![KEXP Live Performances](https://s3.amazonaws.com/americanarchive.org/special-collections/kexp_2011_6237938166.jpg "KEXP Live Performances Special Collection")
+![KEXP Live Performances](https://s3.amazonaws.com/americanarchive.org/special-collections/kexp_2011_6237938166.png "KEXP Live Performances Special Collection")
 
 ## Summary
 
