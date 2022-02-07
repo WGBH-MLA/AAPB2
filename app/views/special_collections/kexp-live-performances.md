@@ -27,8 +27,6 @@ KEXP has been at the heart of Seattle's thriving music scene for the past five d
 [![Live Room; Wayne Horvitz and Pigpen](https://s3.amazonaws.com/americanarchive.org/special-collections/2990637634_d255190440_k.jpg)](/catalog/cpb-aacip-24-hm52f7k29p) 
 [![Best Ambiance; Rodrigo Y Gabriela (recorded 2006-07-14)](https://s3.amazonaws.com/americanarchive.org/special-collections/2990637634_d255190440_k.jpg)](/catalog/cpb-aacip-24-19f4qw57) 
  
-
-
 ## Resources
 
 - [KEXP 90.3 FM](https://www.kexp.org/)
@@ -41,12 +39,9 @@ KEXP has been at the heart of Seattle's thriving music scene for the past five d
 
 ## Help
 
-
 ## Terms
 
-
 ## Timeline
-
 
 ## Sort
 
