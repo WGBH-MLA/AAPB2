@@ -20,12 +20,12 @@ First going on the air in 1972, KOCE-TV exclusively served Orange County in sout
 
 ## Featured
 
-[![Disabilities and Unemployment](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_221-17qnkgcx)
-[![Public Affairs: Southeast Asians](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_221-644qrs3t)
-[![The Hispanic Community](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_221-88qc00qk)
-[![Foster Parents](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_221-257d83tq)
-[![Senator S.I. Hayakawa](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_221-91fj74cr)
-[![Black History in OC](https://s3.amazonaws.com/americanarchive.org/special-collections/wrvr_logo_forspeccoll.jpg)](/catalog/cpb-aacip_221-009w11gk)
+[![Disabilities and Unemployment](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_221-17qnkgcx.jpg)](/catalog/cpb-aacip_221-17qnkgcx)
+[![Public Affairs: Southeast Asians](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_221-644qrs3t.jpg)](/catalog/cpb-aacip_221-644qrs3t)
+[![The Hispanic Community](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_221-88qc00qk.jpg)](/catalog/cpb-aacip_221-88qc00qk)
+[![Foster Parents](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_221-257d83tq.jpg)](/catalog/cpb-aacip_221-257d83tq)
+[![Senator S.I. Hayakawa](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_221-91fj74cr.jpg)](/catalog/cpb-aacip_221-91fj74cr)
+[![Black History in OC](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_221-009w11gk.jpg)](/catalog/cpb-aacip_221-009w11gk)
 
 ## Resources
 
