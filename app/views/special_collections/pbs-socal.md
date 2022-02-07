@@ -43,9 +43,7 @@ Terminology used in some records is from the time period in which the episodes w
 
 ## Terms
 
-
 ## Timeline
-
 
 ## Sort 
 
