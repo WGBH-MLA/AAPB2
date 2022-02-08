@@ -12,7 +12,7 @@ The *Inflection Point with Lauren Schiller* collection contains 137 episodes fro
 
 ## Background
 
-<em>*Inflection Point with Lauren Schiller*, a nationally syndicated public radio show and podcast, was produced in partnership with KALW 91.7FM local public radio in San Francisco and Public Radio Exchange (PRX). In August 2020, Schiller paused the production of *Inflection Point* indefinitely. The series was contributed to the American Archive of Public Broadcasting in 2020.
+*Inflection Point with Lauren Schiller*, a nationally syndicated public radio show and podcast, was produced in partnership with KALW 91.7FM local public radio in San Francisco and Public Radio Exchange (PRX). In August 2020, Schiller paused the production of *Inflection Point* indefinitely. The series was contributed to the American Archive of Public Broadcasting in 2020.
 
 ## Featured
 
