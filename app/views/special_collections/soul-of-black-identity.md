@@ -16,6 +16,8 @@ The collection reflects the diverse and eclectic nature of Black identity during
 
 This special collection was curated in 2021 by Brittany Jones, a graduate of Howard University’s Theatre Arts Administration program, as part of the Library of Congress/Howard University Archives, History, and Heritage Advanced Internship (AHHA) program.
 
+Photo: Painting “Celebration" by Charles Searles, 1977, at William J. Green Federal Building, Philadelphia, Pennsylvania. Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.
+
 ## Featured
 
 [![Post-Soul Black Culture](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-293-31cjt22h.jpg)](/catalog/cpb-aacip_293-31cjt22h)
