@@ -19,7 +19,7 @@ KEXP has been at the heart of Seattle's thriving music scene for the past five d
 ## Featured
 
 [![Variety Mix; Voyager One (Recorded 2002-12-20)](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-977sr542)
-[![Live Room; Bam Bam](https://s3.amazonaws.com/americanarchive.org/special-collections/2990637634_d255190440_k.jpg)](/catalog/cpb-aacip-24-g73707wz6j)
+[![Live Room; Bam Bam](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-g73707wz6j)
 [![Audioasis; 2815; The Dead Science (recorded 2009-07/04)](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-01bk3k5h)
 [![Variety Mix; 418; Death Cab for Cutie (recorded 2002-02-20)](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-214mw8t7) 
 [![Live Room; Wayne Horvitz and Pigpen](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-hm52f7k29p) 
