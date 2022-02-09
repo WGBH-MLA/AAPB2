@@ -16,13 +16,13 @@ We encourage sharing and promoting your organization’s contributions in the ar
 
 - Write a blog post about your historic content, with links to your organization’s page or specific digitized programs in the AAPB.
 
->Check out this [blog post from WNET](https://www.thirteen.org/blog-post/historic-black-journal-streams-for-the-first-time/). KYUK in Bethel, Alaska also shared a great [article about their participation in the AAPB](https://www.alaskapublic.org/2017/10/11/worlds-largest-collection-of-yupik-and-cupik-videos-now-available-online/).
+>Check out this [blog post](https://www.thirteen.org/blog-post/historic-black-journal-streams-for-the-first-time/) from WNET. KYUK in Bethel, Alaska also shared a great [article](https://www.alaskapublic.org/2017/10/11/worlds-largest-collection-of-yupik-and-cupik-videos-now-available-online/) about their participation in the AAPB.
 
 - Include information about your AAPB participation in print materials, anniversary booklets, newsletters, etc.
 
 - Share your historic content and blog post on social media, using clips and/or stills from the programs, if rights allow. Make sure to link to the full programs available on the AAPB website and tag @amarchivepub.
 
->Example social post: “#OTD in 1956, Autherine Lucy is the first Black student to attend the University of Alabama. In 1955, lawyer Arthur Shores had defended Lucy's right to attend the university, but in 1956, riots broke out and Lucy was expelled. Watch → https://americanarchive.org/catalog/cpb-aacip_151-416sx64w2n #BlackHistoryMonth.” See the original post [here](https://twitter.com/amarchivepub/status/1357042930872156167).
+>Example social post: “#OTD in 1956, Autherine Lucy is the first Black student to attend the University of Alabama. In 1955, lawyer Arthur Shores had defended Lucy's right to attend the university, but in 1956, riots broke out and Lucy was expelled. Watch → https://americanarchive.org/catalog/cpb-aacip_151-416sx64w2n #BlackHistoryMonth.” View the original [tweet](https://twitter.com/amarchivepub/status/1357042930872156167).
 
 - If an opportunity exists, go on-the-air at your station to talk about your station’s history and the archival programming preserved and made available in the AAPB.
 
@@ -30,7 +30,7 @@ In any of these situations, we’d be happy to provide you with low-res copies o
 
 ###  Boilerplate Language:
 
-An AAPB boilerplate is available if you would like to issue a press release. Please contact Emily Balk (see above) to inquire about the process.
+An AAPB boilerplate is available if you would like to issue a press release. Please contact GBH External Communications Manager Emily Balk (emily_balk@wgbh.org) to inquire about the process.
 
 ### Logo:
 
@@ -42,11 +42,13 @@ Please do:
 
 - When posted on the website, feel free to hyperlink the logo to your organization’s page on the AAPB website.
 
+>For an example, visit the Louisiana Digital Media Archive [website](http://ladigitalmedia.org/about-ldma/).
+
 Please do not:
 
 - Alter the color of the logo
 
-- Change the size proportion of the logo
+- Change the proportions of the logo
 
 ### Social media:
 
