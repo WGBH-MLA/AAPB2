@@ -35,6 +35,12 @@ The *Inflection Point with Lauren Schiller* collection contains 137 episodes fro
 
 Records are described at an item level and all records contain brief descriptions.
 
+## Funders
+
+## Terms
+
+## Timeline
+
 ## Sort
 
 asset_date+asc
