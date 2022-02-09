@@ -16,22 +16,22 @@ Recordings in the collection that are not available for public streaming on this
 
 KEXP has been at the heart of Seattle's thriving music scene for the past five decades. Founded in 1972 as student- and volunteer-run KCMU at the University of Washington, the radio station became community supported in 1981 following budget cuts from the university. In 1986, the station increased their wattage to 400 watts and moved their transmitter to reach a 15-mile radius audience. With help from the Paul G. Allen Family Foundation, KCMU became KEXP 90.3 FM in 2001, moving to a high-tech study and increasing its wattage further to 720. As a 501(c)3 nonprofit arts organization formed at the same time, KEXP’s mission is to “enrich your life by championing music and discovery.” Designed to benefit music lovers, artists, and the arts community, KEXP continues to be a station powered by the community, reaching nearly 300,000 listeners around the world through on-air and online services. 
 
+This Special Collection was curated by Ana Salas, graduate student at New York University’s Moving Image Archiving and Preservation Program, and Joan Hua, Archivist at KEXP in Seattle.
+
 ## Featured
 
-[![Variety Mix; Voyager One (Recorded 2002-12-20)](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-977sr542)
+[![Variety Mix; Voyager One](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-977sr542)
 [![Live Room; Bam Bam](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-g73707wz6j)
-[![Audioasis; 2815; The Dead Science (recorded 2009-07/04)](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-01bk3k5h)
-[![Variety Mix; 418; Death Cab for Cutie (recorded 2002-02-20)](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-214mw8t7) 
+[![Audioasis; 2815; The Dead Science](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-01bk3k5h)
+[![Variety Mix; Death Cab for Cutie](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-214mw8t7) 
 [![Live Room; Wayne Horvitz and Pigpen](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-hm52f7k29p) 
-[![Best Ambiance; Rodrigo Y Gabriela (recorded 2006-07-14)](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-19f4qw57) 
+[![Best Ambiance; Rodrigo Y Gabriela](https://s3.amazonaws.com/americanarchive.org/thumbnail/2990637634_d255190440_k_sq.jpg)](/catalog/cpb-aacip-24-19f4qw57) 
  
 ## Resources
 
 - [KEXP 90.3 FM](https://www.kexp.org/)
 - [“KEXP rocks its new digs” by University of Washington Magazine](https://magazine.washington.edu/feature/kexp-rocks-its-new-digs/)
 - ["KEXP-FM 90.3 – 'Planet Earth's Seattle-Based Listener-Powered Radio'" by HistoryLink](https://www.historylink.org/file/20790)
-- See [all recordings available for streaming](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=KEXP+%28WA%29&f[access_types][]=online)
-- See [all digitized items in the collection](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=all&f%5Bcontributing_organizations%5D%5B%5D=KEXP+%28WA%29&sort=title+asc)
 
 ## Funders
 
