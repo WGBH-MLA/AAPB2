@@ -22,7 +22,7 @@ We encourage sharing and promoting your organization’s contributions in the ar
 
 - Share your historic content and blog post on social media, using clips and/or stills from the programs, if rights allow. Make sure to link to the full programs available on the AAPB website and tag @amarchivepub.
 
->Example social post: “#OTD in 1956, Autherine Lucy is the first Black student to attend the University of Alabama. In 1955, lawyer Arthur Shores had defended Lucy's right to attend the university, but in 1956, riots broke out and Lucy was expelled. Watch → https://americanarchive.org/catalog/cpb-aacip_151-416sx64w2n #BlackHistoryMonth.” View the original [twitter](https://twitter.com/amarchivepub/status/1357042930872156167) post.
+>Example social post: “#OTD in 1956, Autherine Lucy is the first Black student to attend the University of Alabama. In 1955, lawyer Arthur Shores had defended Lucy's right to attend the university, but in 1956, riots broke out and Lucy was expelled. Watch → https://americanarchive.org/catalog/cpb-aacip_151-416sx64w2n #BlackHistoryMonth.” View the original [tweet](https://twitter.com/amarchivepub/status/1357042930872156167).
 
 - If an opportunity exists, go on-the-air at your station to talk about your station’s history and the archival programming preserved and made available in the AAPB.
 
@@ -42,13 +42,13 @@ Please do:
 
 - When posted on the website, feel free to hyperlink the logo to your organization’s page on the AAPB website.
 
->For an xample, visit the Louisiana Digital Media Archive [website](http://ladigitalmedia.org/about-ldma/).
+>For an example, visit the Louisiana Digital Media Archive [website](http://ladigitalmedia.org/about-ldma/).
 
 Please do not:
 
 - Alter the color of the logo
 
-- Change the size proportion of the logo
+- Change the proportions of the logo
 
 ### Social media:
 
