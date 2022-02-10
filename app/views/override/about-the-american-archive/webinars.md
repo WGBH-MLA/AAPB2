@@ -49,7 +49,7 @@ Hosted by staff at New Mexico PBS and the AAPB, this presentation covers a state
 
 <h5 class="webinar-title">Resources</h5>
 <ul class="webinar-list">
-  <li>Access a recording of this presentation by visitinig <a href="https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881">PBS Hub</a> and creating a free account</li>
+  <li>Access a recording of this presentation by visiting <a href="https://hub.pbs.org/posts/engage-your-community-to-celebrate-your-history?parentId=6881">PBS Hub</a> and creating a free account</li>
 </ul>
 
 <a id="Educators"></a>
