@@ -49,3 +49,18 @@ span.override {
   width: 50%;
 }
 
+h5.webinar-title {
+  margin-bottom: 0.8em;
+}
+
+ul.webinar-list {
+  list-style-type: none;
+  margin: 0px;
+  padding-left: 16px;
+  margin-bottom: 1.2em;
+}
+
+ul.webinar-list li::before {
+  content: '- ';
+}
+

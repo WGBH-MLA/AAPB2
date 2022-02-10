@@ -192,7 +192,10 @@ class CatalogController < ApplicationController
     @exhibit = exhibit_from_url
     @special_collection = special_collection_from_url
     # Cleans up user query for manipulation of caption text in the view.
-    @query_for_captions = clean_query_for_snippet(params[:q]) if params[:q]
+
+    # pull this out because we're going to mutate it inside terms_array method
+    query = params[:q].dup
+    @terms_array = query_to_terms_array(query)
 
     if !params[:f] || !params[:f][:access_types]
       # Sets Access Level
@@ -236,21 +239,27 @@ class CatalogController < ApplicationController
         @snippets[this_id] = {}
 
         # check for transcript/caption anno
-        if solr_doc.transcript? && !@query_for_captions.nil?
-          transcript_file = TranscriptFile.new(solr_doc.transcript_src)
+        if solr_doc.transcript?
 
-          if transcript_file.file_type == TranscriptFile::JSON_FILE
-            @transcript_snippet = SnippetHelper::TranscriptSnippet.new('transcript' => transcript_file, 'id' => this_id, 'query' => @query_for_captions)
-            @snippets[this_id][:transcript] = @transcript_snippet.highlight_snippet
-            @snippets[this_id][:transcript_timecode_url] = @transcript_snippet.url_at_timecode
+          # put it here!
+          transcript_file = TranscriptFile.new(solr_doc.transcript_src)
+          if transcript_file.file_type == TranscriptFile::JSON_FILE && !transcript_file.content.empty?
+
+            ts = TimecodeSnippet.new(this_id, @terms_array, transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
+
+            @snippets[this_id][:transcript] = ts.snippet
+            @snippets[this_id][:transcript_timecode_url] = ts.url_at_timecode
           elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
-            @snippets[this_id][:transcript] = snippet_from_query(@query_for_captions, transcript_file.plaintext, 250, ' ')
+
+            ts = Snippet.new(this_id, @terms_array, transcript_file.plaintext)
+            @snippets[this_id][:transcript] = ts.snippet
           end
+
         end
 
-        if !caption_file.captions_src.nil? && !@query_for_captions.nil?
-          text = caption_file.text
-          @snippets[this_id][:caption] = snippet_from_query(@query_for_captions, text, 250, '.')
+        unless caption_file.captions_src.nil?
+          s = Snippet.new(this_id, @terms_array, caption_file.text)
+          @snippets[this_id][:caption] = s.snippet
         end
       end
     end
@@ -259,7 +268,6 @@ class CatalogController < ApplicationController
   def show
     # From BlacklightGUIDFetcher
     @response, @document = fetch_from_blacklight(params['id'])
-
     # we have to rescue from this in fetch_from_blacklight to run through all guid permutations, so throw it here if we didnt find anything
     raise Blacklight::Exceptions::RecordNotFound unless @document
 
@@ -267,42 +275,27 @@ class CatalogController < ApplicationController
     respond_to do |format|
       format.html do
         @pbcore = PBCorePresenter.new(xml)
+        @exhibits = @pbcore.top_exhibits
         @skip_orr_terms = can? :skip_tos, @pbcore
-        @caption_file = CaptionFile.new(@document["id"])
 
         if can? :play, @pbcore
           # can? play because we're inside this block
-          @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
+          @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
+
+          if redirect_to_proxy_start_time?(@pbcore, params)
+            # rubocop:disable Style/AndOr
+            # && in place of 'and' does not work
+            redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
+            # rubocop:enable Style/AndOr
+          end
         end
 
         if can? :access_transcript, @pbcore
-          # something to show?
-          if @document.transcript?
-            @transcript_content = TranscriptFile.new(@pbcore.transcript_src).html
-            if @pbcore.transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
-              @fixit_link = %(http://fixitplus.americanarchive.org/transcripts/#{@pbcore.id})
-            end
-          elsif !@caption_file.captions_src.nil?
-            # use SRT when transcript not available
-            @transcript_content = @caption_file.html
-          end
-
+          # If @transcript_search_term not in param, it just doesn't get populated on search input
+          @transcript_search_term = params['term']
           # how shown are we talkin here?
-          if @transcript_content
-            # If @transcript_search_term not in param, it just doesn't get populated on search input
-            @transcript_search_term = params['term']
-            if @pbcore.transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
-              @transcript_open = true
-            else
-              @transcript_message = 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>'
-              @transcript_open = false
-            end
-          end
-
-          @player_aspect_ratio = @pbcore.player_aspect_ratio.tr(':', '-')
+          @transcript_open = @pbcore.correct_transcript? ? true : false
         end
-
-        @exhibits = @pbcore.top_exhibits
 
         render
       end
@@ -320,6 +313,15 @@ class CatalogController < ApplicationController
   end
 
   private
+
+  def redirect_to_proxy_start_time?(pbcore, params)
+    return true if pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
+    false
+  end
+
+  def media_start_time?(params)
+    params.keys.include?("start")
+  end
 
   def default_search_access(params)
     base_query = params.except(:action, :controller).to_query

@@ -4,7 +4,7 @@ if Rails && !Rails.env.production?
   require 'rspec/core/rake_task'
 
   desc 'Run tests as if on CI server'
-  task :ci do
+  task :ci_specs do
     require 'jettywrapper'
 
     # Set the version of hydra-jetty we want, and download a clean copy of it.
@@ -26,7 +26,7 @@ if Rails && !Rails.env.production?
     # running the code in the block passed to it.
     error = Jettywrapper.wrap(jetty_params) do
       task = RSpec::Core::RakeTask.new(:spec)
-      task.rspec_opts = '--tag ~not_on_travis'
+      task.rspec_opts = '--tag ~not_on_ci'
       task.run_task(true)
     end
     raise "test failures: #{error}" if error

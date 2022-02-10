@@ -6,6 +6,12 @@ class ValidatedPBCore < PBCorePresenter
   include ApplicationHelper
   include IdHelper
   SCHEMA = Nokogiri::XML::Schema(File.read('lib/pbcore-2.1.xsd'))
+  TEST_PBCORE_PRESENTER_METHODS = PBCorePresenter.instance_methods(false) - [
+    :to_solr, :transcript_content, :transcript_html, :exhibits,
+    :constructed_transcript_src, :verify_transcript_src,
+    :canonical_url, :original_id, :top_exhibits, :seconds, :duration,
+    :outside_baseurl
+  ]
 
   def initialize(xml)
     super(xml)
@@ -27,7 +33,7 @@ class ValidatedPBCore < PBCorePresenter
     # Don't like excluding :transcript_content here, but Rails.logger isn't available during ingest for CaptionConverter.parse_srt
     errors = []
     # exclude transcript_src + canonical because dirty multi ID tests fail method validation
-    (PBCorePresenter.instance_methods(false) - [:to_solr, :transcript_content, :exhibits, :constructed_transcript_src, :verify_transcript_src, :canonical_url, :original_id, :top_exhibits]).each do |method|
+    TEST_PBCORE_PRESENTER_METHODS.each do |method|
       begin
         send(method)
       rescue => e

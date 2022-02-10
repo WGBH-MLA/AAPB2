@@ -31,6 +31,26 @@ class PBCorePresenter
   def descriptions
     @descriptions ||= xpaths('/*/pbcoreDescription').map { |description| HtmlScrubber.scrub(description) }
   end
+  def descriptions_with_types
+    @descriptions_with_types ||= pairs_by_type('/*/pbcoreDescription', '@descriptionType').map! do |pair|
+      pair.map! { |value| value.nil? ? "" : HtmlScrubber.scrub(value) }
+      pair[0].nil? ? pair[0] = "Description" : pair[0]
+      pair[1].nil? ? pair[1] = "" : pair[1]
+      [pair[0], pair[1]]
+    end
+  end
+  def sorted_descriptions
+    (descriptions_with_types.select { |pair| pair[0] == "Episode" } +
+     descriptions_with_types.select { |pair| pair[0] == "Program" } +
+     descriptions_with_types.select { |pair| pair[0] == "Description" } +
+     descriptions_with_types.select { |pair| pair[0] == "Series" } +
+     descriptions_with_types).uniq
+  end
+  def display_descriptions
+    @display_descriptions ||= sorted_descriptions.map! { |desc|
+      [(desc[0].strip.downcase != "description" ? "#{desc[0].strip} Description" : "Other Description"), desc[1]]
+    }
+  end
   def genres
     @genres ||= xpaths('/*/pbcoreGenre[@annotation="genre"]')
   end
@@ -91,12 +111,19 @@ class PBCorePresenter
     nil
   end
   def asset_dates
-    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType')
+    @asset_dates ||= pairs_by_type('/*/pbcoreAssetDate', '@dateType').map do |pair|
+      pair.map { |value| value.nil? ? "" : value.strip }
+    end
   end
   def asset_date
     @asset_date ||= xpath('/*/pbcoreAssetDate[1]')
   rescue NoMatchError
     nil
+  end
+  def display_asset_dates
+    @display_asset_dates ||= asset_dates.map! { |date|
+      [((date[0].strip.downcase != "copyright date" && date[0].strip.downcase != "date") ? "#{date[0]} Date".strip : date[0]), date[1]]
+    }
   end
   def titles
     @titles ||= pairs_by_type('/*/pbcoreTitle', '@titleType')
@@ -226,23 +253,22 @@ class PBCorePresenter
   rescue NoMatchError
     nil
   end
-  def outside_url
-    @outside_url ||= begin
-      xpath('/*/pbcoreAnnotation[@annotationType="Outside URL"]').tap do |_url|
-        raise('If there is an Outside URL, the record must be explicitly public') unless public?
-      end
+  def outside_urls
+    @outside_urls ||= begin
+      outside_urls = xpaths('/*/pbcoreAnnotation[@annotationType="Outside URL"]')
+      raise('If there is an Outside URL, the record must be explicitly public') if outside_urls.present? && !public?
+      outside_urls
     end
   rescue NoMatchError
     nil
   end
-  def outside_baseurl
-    return nil unless outside_url
-    baseurl = URI(outside_url.start_with?('http://', 'https://') ? outside_url : %(http://#{outside_url})).host
+  def outside_baseurl(url)
+    baseurl = URI(url.start_with?('http://', 'https://') ? url : %(http://#{url})).host
     baseurl.to_s.start_with?('www.') ? baseurl.gsub('www.', '') : baseurl
   end
   def reference_urls
     # These only provide extra information. We aren't saying there is media on the far side,
-    # so this has no interaction with access_level, unlike outside_url.
+    # so this has no interaction with access_level, unlike outside_urls.
     @reference_urls ||= begin
       xpaths('/*/pbcoreAnnotation[@annotationType="External Reference URL"]')
     end
@@ -289,6 +315,23 @@ class PBCorePresenter
     caption_file = CaptionFile.new(id)
     return caption_file.json if caption_file && caption_file.json
     nil
+  end
+  def correcting_transcript?
+    transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
+  end
+  def correct_transcript?
+    transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
+  end
+  def transcript_html
+    return TranscriptFile.new(transcript_src).html if transcript_src
+    return CaptionFile.new(id).html if CaptionFile.new(id).captions_src
+    nil
+  end
+  def transcript_message
+    @transcript_message ||= correcting_transcript? ? 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>' : nil
+  end
+  def fixitplus_url
+    @fixitplus_url ||= correcting_transcript? ? %(http://fixitplus.americanarchive.org/transcripts/#{id}) : nil
   end
   MOVING_IMAGE = 'Moving Image'.freeze
   SOUND = 'Sound'.freeze
@@ -397,7 +440,11 @@ class PBCorePresenter
       REXML::XPath.match(@doc, '/*/pbcoreAnnotation[@annotationType="Supplemental Material"]').map { |mat| [mat.attributes['ref'], mat.text] }
     end
   end
-
+  def proxy_start_time
+    @proxy_start_time ||= convert_timestamp_to_seconds(xpath('/*/pbcoreAnnotation[@annotationType="Proxy Start Time"]'))
+  rescue
+    nil
+  end
   # rubocop:enable Style/EmptyLineBetweenDefs
 
   # TODO: modify this for captions for vtt source file change?
@@ -512,14 +559,16 @@ class PBCorePresenter
       :text, :to_solr, :contribs, :img_src, :media_srcs,
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
-      :instantiations, :outside_url,
+      :instantiations, :outside_urls,
       :reference_urls, :exhibits, :top_exhibits, :special_collections, :access_level_description,
       :img_height, :img_width, :player_aspect_ratio, :seconds,
       :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src, :verify_transcript_src,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,
       :contributing_organizations_facet, :contributing_organization_names_display, :producing_organizations,
-      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl, :original_id
+      :producing_organizations_facet, :build_display_title, :licensing_info, :instantiations_display, :outside_baseurl, :original_id,
+      :transcript_html, :fixitplus_url, :transcript_message, :proxy_start_time,
+      :sorted_descriptions, :display_descriptions, :display_asset_dates, :descriptions_with_types
     ]
 
     @text ||= (PBCorePresenter.instance_methods(false) - ignores)
@@ -580,6 +629,6 @@ class PBCorePresenter
   end
 
   def img_dimensions
-    @img_dimensions ||= (FastImage.size(@img_src) || [300, 225])
+    @img_dimensions ||= (img_src.nil? || FastImage.size(img_src).nil?) ? [300, 225] : FastImage.size(img_src)
   end
 end

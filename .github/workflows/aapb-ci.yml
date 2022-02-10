@@ -1,0 +1,30 @@
+name: CI RSpec Tests
+
+on: [push, pull_request]
+
+jobs:
+  tests:
+    name: CI
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install libcurl4-openssl-dev for Curb Gem
+        run: sudo apt-get install libcurl4-openssl-dev
+
+      - name: Setup Ruby and install RubyGems
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.4.4
+          bundler-cache: true
+
+      - name: Start Rails
+        run: nohup bundle exec rails server &
+
+      - name: Run Rspec specs using CI config
+        run: bundle exec rake ci_specs
+
+      - name: Run Rubocop code analyzer and Formatter
+        run: bundle exec rubocop -D

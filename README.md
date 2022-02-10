@@ -18,7 +18,7 @@ Install it as instructed.
 
 At this point you can
 
-- Run tests (skipping Ci tests): `rspec --tag ~not_on_travis`
+- Run tests (skipping Ci tests): `rspec --tag ~not_on_ci`
 (If it's not 100% passing, let us know!)
 - Ingest the fixtures: `ruby scripts/download_clean_ingest.rb --stdout-log --files spec/fixtures/pbcore/clean-*.xml`
 - Start rails: `rails s`

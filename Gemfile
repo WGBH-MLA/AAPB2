@@ -59,7 +59,7 @@ gem 'blacklight_range_limit', '5.2.0'
 gem 'actionpack-page_caching'
 gem 'srt'
 
-gem 'sony_ci_api', '~> 0.2.1'
+gem 'sony_ci_api', git: 'https://github.com/WGBH-MLA/sony_ci_api_rewrite.git', branch: 'main'
 
 gem 'rubyzip', '~> 1.3.0'
 
@@ -88,7 +88,7 @@ gem 'passenger', :group => :production
 gem 'nokogiri', '~> 1.10.4'
 
 # its back
-gem 'bigdecimal'
+gem 'bigdecimal', '1.4.4'
 gem 'httparty'
 
 gem 'pbcore', '~> 0.2.0'

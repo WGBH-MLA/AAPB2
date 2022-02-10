@@ -19,16 +19,51 @@
   height: 97vh;
 }
 
+#exhibit-main iframe.exhibit-small-iframe {
+  width: 100%;
+  min-height: 45vh;
+  height: auto;
+}
+
 .exhibit-image {
   float: right;
   padding: 0 5px;
 }
 
-.exhibit-big-image {
+table.exhibit-image.half-image {
+  max-width: 50%;
+  margin: 0 0 0 1.5em;
+}
+
+table.exhibit-image.left {
+  float: left;
+  margin: 0 1.5em 0 0;
+}
+
+table.exhibit-image.short-image {
+  margin: 0;
+}
+
+table.exhibit-image.short-image tr td img {
+  /*oh boy!*/
+  width:  75%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.exhibit-logo {
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+table.exhibit-image.big-image {
   display: block;
+  width: 100%;
 }
 
 .exhibit-caption {
+  text-align: center;
   font-style: italic;
   font-size: 10px;
   line-height: 12px;
@@ -245,6 +280,10 @@ h3.exhibit-title {
     background-color: #ddd !important;
     color: #9d2064;
   }
+}
+
+li.small-font {
+  font-size: 14px;
 }
 
 .exhibit-notes {
@@ -646,4 +685,11 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
     // height: 10px;
   }
 
+}
+
+.exhibit-text {
+  h4 {
+    clear: both;
+    margin: 1.75em 0 .75em 0;
+  }
 }

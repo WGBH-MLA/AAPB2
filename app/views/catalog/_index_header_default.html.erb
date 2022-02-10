@@ -40,7 +40,7 @@
                 <span class="index-data-title">Producing Organization</span>: <%= pbcore.producing_organizations_facet.join(', ') %>
               <% end %>
 
-            <p style="margin-bottom: 2%;"><%= truncate(pbcore.descriptions[0], length: 500) + ( "..." if pbcore.descriptions[0].length > 500) %></p>
+            <p style="margin-bottom: 2%;"><%= truncate(pbcore.display_descriptions.first[1], length: 500) + ( "..." if pbcore.display_descriptions.first[1].length > 500) %></p>
 
             <!-- only one of these will show up v -->
             <% if @snippets[pbcore.id][:caption] %>
@@ -54,11 +54,7 @@
 
                 <% if @snippets[pbcore.id][:transcript_timecode_url] %>
                   <a href="<%= @snippets[pbcore.id][:transcript_timecode_url] %>">
-                  <%  if pbcore.media_type == 'Moving Image' %>
-                    <button type="button" class="btn btn-default snippet-link">Watch from here</button>
-                  <% else %>
-                    <button type="button" class="btn btn-default snippet-link">Listen from here</button>
-                  <% end %>
+                  <button type="button" class="btn btn-default snippet-link"><%= pbcore.media_type == 'Moving Image' ? "Watch" : "Listen" %> from here</button>
                   </a>
                 <% end %>
               </p>
@@ -68,8 +64,6 @@
           <!-- END Column -->
         </div>
           <!-- END Grid -->
-
-
 
     <% # bookmark functions for items/docs -%>
     <%#= render_index_doc_actions document, :wrapping_class => "index-document-functions" %>

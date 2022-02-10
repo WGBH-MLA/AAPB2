@@ -23,6 +23,7 @@ describe 'Validated and plain PBCore' do
   let(:pbc_multiple_series_with_episodes) { File.read('spec/fixtures/pbcore/clean-multiple-series-with-episode-titles.xml') }
   let(:pbc_multiple_episodes_one_series) { File.read('spec/fixtures/pbcore/clean-multiple-episode-numbers-one-series.xml') }
   let(:pbc_alternative_title) { File.read('spec/fixtures/pbcore/clean-alternative-title.xml') }
+  let(:pbc_desc_date_sort) { File.read('spec/fixtures/pbcore/clean-desc-date-sort.xml') }
 
   describe ValidatedPBCore do
     describe 'valid docs' do
@@ -37,7 +38,7 @@ describe 'Validated and plain PBCore' do
       it 'rejects missing closing brace' do
         invalid_pbcore = pbc_xml.sub(/>\s*$/, '')
         expect { ValidatedPBCore.new(invalid_pbcore) }.to(
-          raise_error(/missing tag start/))
+          raise_error(/Invalid attribute name: <<pbcoreAssetType>/))
       end
 
       it 'rejects missing closing tag' do
@@ -133,8 +134,7 @@ describe 'Validated and plain PBCore' do
           'program_titles' => ['Gratuitous Explosions'],
           'series_titles' => ['Nova'],
           'special_collections' => [],
-          'text' => [
-            '1:23:45', '2000-01-01', '3-2-1', '5678', 'AAPB ID', 'Album', 'Best episode ever!', 'Boston', 'Call-in', 'Copy Left: All rights reversed.', 'Copy Right: Reverse all rights.', 'Curly', 'Date', 'Episode', 'Episode Number', 'Gratuitous Explosions', 'Kaboom!', 'Larry', 'Massachusetts', 'Moe', 'Moving Image', 'Music', 'Nova', 'Producing Organization', 'Program', 'Series', 'Stooges', 'WGBH', 'bald', 'balding', 'cpb-aacip-1234', 'explosions -- gratuitious', 'hair', 'musicals -- horror', 'somewhere else', "male narrator: IN THE SUMMER OF 1957, LITTLE ROCK, ARKANSAS, WAS CONSIDERED A MODERATE SOUTHERN CITY. THINGS WERE PRETTY NORMAL THERE AS FAMILIES BEGAN TO PREPARE FOR THE COMING SCHOOL YEAR. HOWEVER, THE SHOCKING TRUTH WAS THAT THE CIVIL RIGHTS STRUGGLE HAD COME TO LITTLE ROCK'S CENTRAL HIGH SCHOOL. Captioning byCaptionMax www.captionmax.com"],
+          'text' => ["1:23:45", "2000-01-01", "3-2-1", "5678", "AAPB ID", "Album", "Best episode ever!", "Boston", "Call-in", "Copy Left: All rights reversed.", "Copy Right: Reverse all rights.", "Curly", "Date", "Episode", "Episode Number", "Gratuitous Explosions", "Kaboom!", "Larry", "Massachusetts", "Moe", "Moving Image", "Music", "Nova", "Producing Organization", "Program", "Series", "Stooges", "WGBH", "bald", "balding", "cpb-aacip-1234", "explosions -- gratuitious", "hair", "musicals -- horror", "somewhere else", "male narrator: IN THE SUMMER OF 1957, LITTLE ROCK, ARKANSAS, WAS CONSIDERED A MODERATE SOUTHERN CITY. THINGS WERE PRETTY NORMAL THERE AS FAMILIES BEGAN TO PREPARE FOR THE COMING SCHOOL YEAR. HOWEVER, THE SHOCKING TRUTH WAS THAT THE CIVIL RIGHTS STRUGGLE HAD COME TO LITTLE ROCK'S CENTRAL HIGH SCHOOL. Captioning byCaptionMax www.captionmax.com"],
           'titles' => ['Nova', 'Gratuitous Explosions', '3-2-1', 'Kaboom!'],
           'title' => 'Nova; Gratuitous Explosions; 3-2-1; Kaboom!',
           'contribs' => %w(Larry WGBH Stooges Stooges Curly Stooges Moe Stooges),
@@ -326,9 +326,9 @@ describe 'Validated and plain PBCore' do
       end
     end
 
-    describe '.outside_url' do
-      it 'returns the outside url from the pbcore xml' do
-        expect(pbc.outside_url).to eq('http://www.wgbh.org/')
+    describe '.outside_urls' do
+      it 'returns outside urls from the pbcore xml' do
+        expect(pbc.outside_urls).to eq(Array('http://www.wgbh.org/'))
       end
     end
 
@@ -484,6 +484,59 @@ describe 'Validated and plain PBCore' do
           PBCoreNameRoleAffiliation.new('creator', 'Larry', 'balding', 'Stooges'),
           PBCoreNameRoleAffiliation.new('publisher', 'Moe', 'hair', 'Stooges')
         ])
+      end
+    end
+
+    context 'PBCore document with multiple descriptions and dates' do
+      let(:pbc) { PBCorePresenter.new(pbc_desc_date_sort) }
+
+      describe '.descriptions_with_types' do
+        it 'returns all descriptions with descriptionTypes from the pbcore xml' do
+          expect(pbc.descriptions_with_types.sort).to eq([
+            ["Description", "This is a plain description"],
+            ["Description", "This is another plain description"],
+            ["Episode", "This is an episode description"],
+            ["Program", "This is the program description"],
+            ["Segment", "This is the Segment description"],
+            ["Series", "This is the Series description"]
+          ])
+        end
+      end
+
+      describe '.sorted_descriptions' do
+        it 'returns the descriptions with expected sorting by type' do
+          expect(pbc.sorted_descriptions).to eq([
+            ["Episode", "This is an episode description"],
+            ["Program", "This is the program description"],
+            ["Description", "This is a plain description"],
+            ["Description", "This is another plain description"],
+            ["Series", "This is the Series description"],
+            ["Segment", "This is the Segment description"]
+          ])
+        end
+      end
+
+      describe '.display_descriptions' do
+        it 'returns the descriptions with additional display language' do
+          expect(pbc.display_descriptions).to eq([
+            ["Episode Description", "This is an episode description"],
+            ["Program Description", "This is the program description"],
+            ["Other Description", "This is a plain description"],
+            ["Other Description", "This is another plain description"],
+            ["Series Description", "This is the Series description"],
+            ["Segment Description", "This is the Segment description"]
+          ])
+        end
+      end
+
+      describe '.display_asset_dates' do
+        it 'returns the dates with additional display language' do
+          expect(pbc.display_asset_dates).to eq([
+            ["Broadcast Date", "1968-06-12"],
+            ["Copyright Date", "1968-06-12"],
+            ["Date", "1998-11-27"]
+          ])
+        end
       end
     end
 
