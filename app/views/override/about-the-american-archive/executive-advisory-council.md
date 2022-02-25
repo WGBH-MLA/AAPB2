@@ -66,6 +66,22 @@ Ms. Courtney started her career in broadcasting as a capitol correspondent, repo
 
 Ms. Courtney is married to Bob Courtney, President of Courtney Communications. She is the proud mother of one daughter, Julia who is an attorney and mother of Andrew and Virginia.
 
+<img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Joanne_Griffith.jpg" alt="Joanne Griffith" aria-hidden="true"/>
+### Joanne Griffith
+Joanne Griffith is the Chief Content Officer at APM Studios, the podcast division of American Public Media Group. In this role, she oversees the editorial vision and brand voice for APM Studios, and has creative oversight on original and acquired podcasts. 
+ 
+A self-proclaimed audiophile, Joanne has over 20 years of experience in the audio space, spanning roles that include executive producer, reporter, editor, audience engagement strategist and more. Storytelling is at the heart of all of Joanne’s work and has taken her around the world — from Malawi, where she looked at the innovative ways women tackle food insecurity, to Puerto Rico as the island sought economic recovery after Hurricane Maria. 
+ 
+Joanne began her career at the BBC as a journalist, editor and project manager. As one of the media organization’s first diversity change agents, Joanne created initiatives to expand the reporting and production pool, developed training programs to help staff understand the value of diversity, and experimented with online resources that reflected multicultural London.
+ 
+Moving to the U.S. in 2007, Joanne was a reporter and host for BBC News, covering stories from the U.S. west coast. She also created a weekly show based on the historic material held in the Pacifica Radio Archives. In 2011, she joined Southern California Public Radio (SCPR), where she worked as a producer on several KPCC programs and served as editor on Take Two. During her time at SCPR, Joanne introduced audience engagement events to better understand listeners, an initiative that led to an award-winning live program marking the 50th anniversary of the Watts Rebellion. She later went on to work with American Public Media’s Marketplace Weekend, where she spearheaded efforts to successfully grow the program’s digital footprint through an audience engagement-focused approach. 
+ 
+As a journalist with an entrepreneurial heart, Joanne was the founding managing editor of The California Newsroom, one of NPR’s first collaborative regional news hubs. In 2020, she also launched En(title)d!, a conversation and training space for leaders of color in creative industries, an initiative born out of the turmoil of the year and a need to not only talk solutions, but put them into action.
+ 
+In addition to her work in public media, Joanne is the author of Redefining Black Power: Reflections on the State of Black America and was the lead producer for The King of Crenshaw, a podcast from ESPN’s critically-acclaimed 30 for 30 Podcasts, exploring the intersection of hip-hop and basketball through the lens of LA rapper, Nipsey Hussle. 
+ 
+Joanne is based in Los Angeles.
+
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/lawson_photo.jpg" alt="Jennifer Lawson"/>
 ### Jennifer Lawson
 #### Vice Chair
