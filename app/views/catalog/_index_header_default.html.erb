@@ -42,6 +42,15 @@
 
             <p style="margin-bottom: 2%;"><%= truncate(pbcore.display_descriptions.first[1], length: 500) + ( "..." if pbcore.display_descriptions.first[1].length > 500) %></p>
 
+
+
+            <% if @snippets[pbcore.id] %>
+              <!-- hl match was found -->
+              <span id="<%= pbcore.id %>-snippet" />
+            <% end %>
+
+
+
             <!-- only one of these will show up v -->
             <% if @snippets[pbcore.id][:caption] %>
               <span class="index-data-title">From Closed Caption</span>:

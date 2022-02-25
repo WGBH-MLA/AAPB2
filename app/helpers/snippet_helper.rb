@@ -8,6 +8,27 @@ module SnippetHelper
       @plaintext = plaintext.to_s.gsub(/[[:punct:]]/, '').upcase
     end
 
+    def transcript_snippet(text, media_type, timecode_url)
+      %(
+        <span class="index-data-title">From Transcript</span>:
+        <p style="margin-top: 0;">#{ text }
+
+          <% if timecode_url
+            <a href="#{ timecode_url }">
+            <button type="button" class="btn btn-default snippet-link">#{ media_type == 'Moving Image' ? "Watch" : "Listen" } from here</button>
+            </a>
+          <% end %>
+        </p>
+      )
+    end
+
+    def caption_snippet(text)
+      %(
+        <span class="index-data-title">From Closed Caption</span>:
+        <p>#{ text }</p>
+      )
+    end
+
     def left_chunk_indicies(match_index)
       return 0..0 if match_index == 0
       chunk_start = match_index - 100 < 0 ? 0 : match_index - 100

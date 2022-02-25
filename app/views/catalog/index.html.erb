@@ -31,3 +31,36 @@
     <%= render 'search_results' %>
   <% end %>
 </div>
+
+
+
+
+<script type="text/javascript">
+  
+  function getSnippet(guid){
+    $.get("/snippets/"+guid, (res) => {
+
+      let snip = JSON.parse(res)
+
+
+      // if(snip.caption)
+      console.log( 'I got a snippet!', res )
+
+
+      $("#" + guid + "-snippet").innerHTML = res.body
+    })
+
+  }
+
+  $(document).ready(function() {
+
+    <% if @snippets.keys.present? %>
+      <% snippets.keys.each do |guid| %>
+        getSnippet(<%= guid %>)
+      <% end %>
+    <% end %>
+  })
+
+
+
+</script>

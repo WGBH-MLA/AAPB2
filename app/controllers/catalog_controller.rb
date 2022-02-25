@@ -3,7 +3,6 @@ require_relative '../../lib/aapb'
 class CatalogController < ApplicationController
   include Blacklight::Catalog
   include ApplicationHelper
-  include SnippetHelper
   include BlacklightGUIDFetcher
 
   # allows usage of default_processor_chain v
@@ -230,37 +229,9 @@ class CatalogController < ApplicationController
       @snippets = {}
 
       @document_list.each do |solr_doc|
+        # store a true so that we can do the ajax
         this_id = normalize_guid(solr_doc[:id])
-
-        # only respond if highlighting set has this guid
-        next unless fixed_matches[this_id]
-
-        caption_file = CaptionFile.new(solr_doc.id)
-        @snippets[this_id] = {}
-
-        # check for transcript/caption anno
-        if solr_doc.transcript?
-
-          # put it here!
-          transcript_file = TranscriptFile.new(solr_doc.transcript_src)
-          if transcript_file.file_type == TranscriptFile::JSON_FILE && !transcript_file.content.empty?
-
-            ts = TimecodeSnippet.new(this_id, @terms_array, transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
-
-            @snippets[this_id][:transcript] = ts.snippet
-            @snippets[this_id][:transcript_timecode_url] = ts.url_at_timecode
-          elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
-
-            ts = Snippet.new(this_id, @terms_array, transcript_file.plaintext)
-            @snippets[this_id][:transcript] = ts.snippet
-          end
-
-        end
-
-        unless caption_file.captions_src.nil?
-          s = Snippet.new(this_id, @terms_array, caption_file.text)
-          @snippets[this_id][:caption] = s.snippet
-        end
+        snippets[this_id] = true
       end
     end
   end
