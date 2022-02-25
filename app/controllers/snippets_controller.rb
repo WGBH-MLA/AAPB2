@@ -18,7 +18,6 @@ class SnippetsController < ApplicationController
     # only respond if highlighting set has this guid
     # next unless fixed_matches[this_id]
 
-    caption_file = CaptionFile.new(solr_doc.id)
     # @snippets[this_id] = {}
 
     # check for transcript/caption anno
@@ -37,15 +36,17 @@ class SnippetsController < ApplicationController
         ts = Snippet.new(this_id, terms_array, transcript_file.plaintext)
         snippet_data[:transcript] = ts.snippet
       end
-
     end
 
-    if(!)
+    if !snippet_data[:transcript]
+      caption_file = CaptionFile.new(solr_doc.id)
 
-    unless caption_file.captions_src.nil?
-      s = Snippet.new(this_id, terms_array, caption_file.text)
-      snippet_data[:caption] = s.snippet
+      unless caption_file.captions_src.nil?
+        s = Snippet.new(this_id, terms_array, caption_file.text)
+        snippet_data[:caption] = s.snippet
+      end
     end
+
   end
 
 end

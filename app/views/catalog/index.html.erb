@@ -32,9 +32,6 @@
   <% end %>
 </div>
 
-
-
-
 <script type="text/javascript">
   
   function getSnippet(guid){
@@ -42,9 +39,13 @@
 
       let snip = JSON.parse(res)
 
-
-      // if(snip.caption)
       console.log( 'I got a snippet!', res )
+
+      if(snip.transcript){
+
+      } else if(snip.caption){
+
+      }
 
 
       $("#" + guid + "-snippet").innerHTML = res.body
