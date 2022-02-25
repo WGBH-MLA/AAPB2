@@ -9,15 +9,20 @@ module SnippetHelper
     end
 
     def transcript_snippet(text, media_type, timecode_url)
+
+      timecode_link = nil
+      if timecode_url
+        timecode_link = %(
+          <a href="#{ timecode_url }">
+            <button type="button" class="btn btn-default snippet-link">#{ media_type == 'Moving Image' ? "Watch" : "Listen" } from here</button>
+          </a>
+        )
+      end
+
       %(
         <span class="index-data-title">From Transcript</span>:
         <p style="margin-top: 0;">#{ text }
-
-          <% if timecode_url
-            <a href="#{ timecode_url }">
-            <button type="button" class="btn btn-default snippet-link">#{ media_type == 'Moving Image' ? "Watch" : "Listen" } from here</button>
-            </a>
-          <% end %>
+          #{ timecode_link }
         </p>
       )
     end

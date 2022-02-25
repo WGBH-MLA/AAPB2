@@ -193,8 +193,8 @@ class CatalogController < ApplicationController
     # Cleans up user query for manipulation of caption text in the view.
 
     # pull this out because we're going to mutate it inside terms_array method
-    query = params[:q].dup
-    @terms_array = query_to_terms_array(query)
+    @query = params[:q].dup
+    @terms_array = query_to_terms_array(@query)
 
     if !params[:f] || !params[:f][:access_types]
       # Sets Access Level
@@ -218,20 +218,17 @@ class CatalogController < ApplicationController
     end
 
     # mark results for captions and transcripts
-    matched_in_text_field = @document_list.first.response['highlighting'] if @document_list.try(:first)
+    if @document_list.first
+      text_field_match_guids = @document_list.first.response['highlighting'].keys.map {|guid| normalize_guid( guid )}
+    end
 
     # we got some dang highlit matches
-    if matched_in_text_field.try(:keys).try(:present?)
-      # overrwrite ids from solr with normalized ids
-      fixed_matches = {}
-      # value is unused because the presence of the guid as a key is what indicates the match
-      matched_in_text_field.map { |k, _v| fixed_matches[normalize_guid(k)] = {} }
+    if text_field_match_guids
       @snippets = {}
-
-      @document_list.each do |solr_doc|
+      text_field_match_guids.each do |guid|
         # store a true so that we can do the ajax
-        this_id = normalize_guid(solr_doc[:id])
-        snippets[this_id] = true
+        this_id = normalize_guid( guid )
+        @snippets[this_id] = true
       end
     end
   end

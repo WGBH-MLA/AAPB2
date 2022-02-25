@@ -34,30 +34,26 @@
 
 <script type="text/javascript">
   
-  function getSnippet(guid){
-    $.get("/snippets/"+guid, (res) => {
+  function getSnippet(guid,query){
+    $.get("/snippets/"+guid+".json?"+"query="+query, (snip) => {
+      console.log( 'I got a snippet!', snip )
 
-      let snip = JSON.parse(res)
+      // if(snip.transcript){
 
-      console.log( 'I got a snippet!', res )
+      // } else if(snip.caption){
 
-      if(snip.transcript){
-
-      } else if(snip.caption){
-
-      }
+      // }
 
 
-      $("#" + guid + "-snippet").innerHTML = res.body
+      $("#" + guid + "-snippet").innerHTML = snip.snippet_body
     })
 
   }
 
   $(document).ready(function() {
-
-    <% if @snippets.keys.present? %>
-      <% snippets.keys.each do |guid| %>
-        getSnippet(<%= guid %>)
+    <% if @query.present? && @snippets.keys.present? %>
+      <% @snippets.keys.each do |guid| %>
+        getSnippet("<%= guid %>", "<%= @query %>")
       <% end %>
     <% end %>
   })

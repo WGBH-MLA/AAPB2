@@ -29,6 +29,9 @@ Rails.application.routes.draw do
   resources 'transcripts',
             only: [:show]
 
+  resources 'snippets',
+            only: [:show]
+
   resources 'oai',
             only: [:index]
 
