@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![*Voter’s Pipeline / Jim Cooper’s Orange County*](https://s3.amazonaws.com/americanarchive.org/special-collections/pbs-socal-mainimage.png "Voter’s Pipeline / Jim Cooper’s Orange County") 
+![*Voter’s Pipeline / Jim Cooper’s Orange County*](https://s3.amazonaws.com/americanarchive.org/special-collections/PBSSoCal_Jimcooper.png "Voter’s Pipeline / Jim Cooper’s Orange County") 
 
 ## Summary
 
@@ -16,7 +16,7 @@ Cooper continued to do specials for KOCE beginning in 1989. Specials included in
 
 ## Background
 
-First going on the air in 1972, KOCE-TV exclusively served Orange County in southern California before extending to include Santa Barbara and Palm Springs under the name PBS SoCal in 2011. In 2018, PBS SoCal and KCETLink Media Group merged to become the Public Media Group of Southern California, which now serves 19 million viewers in six counties across southern California. PBS SoCal digitized episodes of *Voter’s Pipeline*  and *Jim Cooper’s Orange County* in 2013, and submitted them to the American Archive of Public Broadcasting in 2014.
+First going on the air in 1972, KOCE-TV exclusively served Orange County in southern California before extending to include Santa Barbara and Palm Springs under the name PBS SoCal in 2011. In 2018, PBS SoCal and KCETLink Media Group merged to become the Public Media Group of Southern California, which now serves 19 million viewers in six counties across southern California. PBS SoCal digitized episodes of *Voter’s Pipeline*  and *Jim Cooper’s Orange County* in 2013, and submitted them to the American Archive of Public Broadcasting in 2014. Photo credit: N. Prasad.
 
 ## Featured
 
