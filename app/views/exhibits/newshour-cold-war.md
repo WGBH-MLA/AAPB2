@@ -27,7 +27,7 @@ The *NewsHour* has been praised by the *New York Times* for its “balance, sobr
 
 ## Authors
 
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/Knapp_headshhot.jpg"/>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/Knapp_headshot.jpg"/>
   <a class="name">Alyssa Knapp</a>
   <a class="title">Library of Congress Junior Fellow (2021) & Graduate Student, UCLA Masters of Library and Information Science</a>
 
