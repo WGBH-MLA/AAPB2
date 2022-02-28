@@ -69,31 +69,7 @@ The *Robert MacNeil Report*, the first iteration of what is now the *PBS NewsHou
 
 Whether the United States had a moral obligation to interfere or stay neutral in the political crises of other countries was another common theme throughout the coverage of each conflict. Robert MacNeil, Jim Lehrer, and other correspondents pushed their guests—and the American people—to set the parameters of American morality and tolerance by forcing them to confront the ambiguities of war during a time when global conflicts often were painted by governments as simple good vs. evil affairs.  In a time of global polarization, when one side would do nearly anything to stop the other, the *NewsHour* forced viewers to consider whether the human rights abuses of pro-U.S. governments should be overlooked in the name of stopping the spread of Soviet influence. 
 
-### Conflict-by-Conflict Coverage
-
-The following conflicts are presented in chronological order from the start date of each conflict. Click on the embedded links to view the discussed segments.
-
-#### Angolan Civil War (1975-2002) 
-
-[For background, see this contextual essay.](/exhibits/newshour-cold-war/angola)
-
-
-#### Nicaraguan Revolution (1978-1990) 
-
-[For background, see this contextual essay.](/exhibits/newshour-cold-war/nicaragua)
-
-
-#### Salvadoran Civil War (1979-1992) 
-
-[For background, see this contextual essay.](/exhibits/newshour-cold-war/el-salvador)
-
-
-#### Soviet-Afghan War (1979-1989) 
-
-[For background, see this contextual essay.](/exhibits/newshour-cold-war/afghanistan)
-
-
-#### Next: [Angolan Civil War (1975-2002)](/exhibits/newshour-cold-war/angola)
+The proxy wars  are presented in four sections in chronological order from the start date of each conflict. Each section begins with an essay presenting the historical context of the war, followed by an analysis of the coverage. Click on the embedded links to view the discussed segments.
 
 ## Cover
   <img title="Cover Image" src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/newshour-cold-war_signature.png" alt="Collage of NewsHour programs covering Angola, Nicaragua, El Salvador and Afghanistan."/>
