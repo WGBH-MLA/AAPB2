@@ -6,7 +6,7 @@
 
 <a name="1"></a><sup>1</sup> John J. O’Connor, “TV: The ‘MacNeil Report,’ a Sharp Point of View,” *New York Times*, November 11, 1975, 63.
 
-<a name="2"></a><sup>2</sup> “MacNeil Lehrer Report,” *Cleveland Call and Post*, January 3, 1976, 5A.
+<a name="2"></a><sup>2</sup> Robert MacNeil, *The Right Place at the Right Time* (Boston: Little, Brown, 1982), 287-89, 297-300; Jim Lehrer, A Bus of My Own (New York: G. Putnam’s Sons, 1992), 120-26, 131-33;  “MacNeil Lehrer Report,” *Cleveland Call and Post*, January 3, 1976, 5A.
 
 <a name="3"></a><sup>3</sup> Marilynn Preston, “‘MacNeil/Lehrer’ Beats Networks to News,” *Chicago Tribune*, September 4, 1983, J5.
 

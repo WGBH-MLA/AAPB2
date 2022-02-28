@@ -6,6 +6,8 @@
 
 > ** The Cold War isn’t thawing; it’s burning with a deadly heat.** - *Richard M. Nixon*
 
+### Editor's Introduction
+
 *‘Burning with a Deadly Heat’: NewsHour Coverage of the Hot Wars of the Cold War* is the first in a series of AAPB exhibits that focuses on programs available in the [*PBS NewsHour* Collection](https://americanarchive.org/special_collections/newshour). In 2016, the Council on Library and Information Resources awarded a grant to WGBH, the Library of Congress, and the Greater Washington Educational Television Authority (WETA) to digitize, preserve and make publicly accessible the *PBS NewsHour* Collection from 1975 - 2007. In 2018 and 2019, the Internet Archive provided copies of episodes recorded off-air from 2009 - 2019. The Collection includes nearly 15,000 episodes of the *NewsHour* and its predecessor programs from October 1975 to September 2019, including *The Robert MacNeil Report* (1975 - 1976), *The MacNeil/Lehrer Report* (1976 – 1983), *The MacNeil/Lehrer NewsHour* (1983 – 1995), *The NewsHour with Jim Lehrer* (1995 – 2009), and the *PBS NewsHour* (2009 - 2019).
 
 <table class="exhibit-image big-image">
@@ -13,13 +15,13 @@
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/newshour-cold-war_signature.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits//newshour-cold-war/newshour-cold-war_signature.png" class="big-image" alt="Figure 1. Collage of NewsHour coverage of Angola, Nicaragua, El Salvador and Afghanistan."/></a></td></tr>
 </table>
 
-On Monday evening at 7:30pm on October 20, 1975, public television viewers in New York City were treated to an experiment in television. Three weeks later, *New York Times* television columnist John J. O’Connor announced, “There’s a new public-affairs program in town, and it is rapidly proving to be one of the more significant and solid developments in television news.”[<sup>1</sup>](/exhibits/newshour-cold-war/notes#1) That program, *The Robert MacNeil Report*, produced by New York public broadcaster WNET, aired daily following the network nightly news shows and devoted 30 minutes each weekday night to an in-depth discussion of one issue of note. Within a few months, PBS offered the program to stations across the country. Robert MacNeil, who co-anchored the program from New York with his colleague Jim Lehrer, situated in Washington, stated, “It’s the only program that any of us know about which takes one story each show and examines it in depth…. Basically, we are trying to fulfill the function that analysis and opinion/editorial pages perform for newspapers.”[<sup>2</sup>](/exhibits/newshour-cold-war/notes#2) After its first season, the program returned with a new name, *The MacNeil-Lehrer Report*, as WETA, the PBS Washington affiliate, began co-producing with WNET. In October 1983, *The MacNeil-Lehrer NewsHour* debuted, marking another landmark in news broadcasts: the first hour-long nightly news program. When Robert MacNeil retired in 1995, the name changed to *The NewsHour with Jim Lehrer*. In 2009, the name became the *PBS NewsHour* when Lehrer began to co-anchor with other correspondents on a regular basis. 
+On Monday evening at 7:30pm on October 20, 1975, public television viewers in New York City were treated to an experiment in television. Three weeks later, *New York Times* television columnist John J. O’Connor announced, “There’s a new public-affairs program in town, and it is rapidly proving to be one of the more significant and solid developments in television news.”[<sup>1</sup>](/exhibits/newshour-cold-war/notes#1) That program, *The Robert MacNeil Report*, produced by New York public broadcaster WNET, aired daily following the network nightly news shows and devoted 30 minutes each weekday night to an in-depth discussion of one issue of note. Robert MacNeil co-anchored from New York with his colleague, correspondent Jim Lehrer, situated in Washington. Two years earlier, MacNeil and Lehrer had co-anchored public television’s coverage of the [Senate Watergate hearings](https://americanarchive.org/exhibits/watergate) that included commentary and analysis with experts, and interviews with participants during breaks. Nightly rebroadcasts had solidified in the minds of many Americans a role for public television to broadcast news and public affairs programs that were presented fairly. After their success, MacNeil and Lehrer saw the need for a nightly national news program on public television, and in 1975, WNET hired MacNeil for that purpose and gave him editorial control of the program. MacNeil then recommended hiring Lehrer. Within a few months after its debut, PBS offered the program to stations across the country. MacNeil  stated, “It’s the only program that any of us know about which takes one story each show and examines it in depth…. Basically, we are trying to fulfill the function that analysis and opinion/editorial pages perform for newspapers.”[<sup>2</sup>](/exhibits/newshour-cold-war/notes#2) After its first season, the program returned with a new name, *The MacNeil-Lehrer Report*, as WETA, the PBS Washington affiliate, began co-producing with WNET. In October 1983, *The MacNeil-Lehrer NewsHour* debuted, marking another landmark in news broadcasts: the first hour-long nightly news program. When Robert MacNeil retired in 1995, the name changed to *The NewsHour with Jim Lehrer*. In 2009, the name became the *PBS NewsHour* when Lehrer began to co-anchor with other correspondents on a regular basis. 
 
 Expansion to one hour in 1983 allowed airing of taped reports from around the nation and the world along with segments devoted to international affairs, science, the economy, defense, the environment, health and medicine, books, the arts, and the humanities. With 57 minutes per program, compared with 22 minutes or less in commercial evening news programs, the *NewsHour* provided a forum for newsmakers and experts in many fields to present their views at length. MacNeil characterized the hour-long program as an alternative to network shows that “hype the news to make it seem vital, important.” He and his colleagues, he said, wanted the *NewsHour* “to continue being a place where the news is allowed to *breathe*, where we can calmly, intelligently look at what has happened, what it means and why it is important.”[<sup>3</sup>](/exhibits/newshour-cold-war/notes#3)
 
 The *NewsHour* has been praised by the *New York Times* for its “balance, sobriety, analysis and a determination to talk about important events in a way commensurate with their importance.”[<sup>4</sup>](/exhibits/newshour-cold-war/notes#4) In 1982, *Time* magazine called the series “TV’s best discussion of public affairs.” A later Gallup Poll found the *NewsHour* the “most believed” American news program. The series has won hundreds of awards.[<sup>5</sup>](/exhibits/newshour-cold-war/notes#5)
 
-*‘Burning with a Deadly Heat’: NewsHour Coverage of the Hot Wars of the Cold War* explores common themes that emerged as *The MacNeil-Lehrer Report* and *The MacNeil/Lehrer NewsHour* covered Cold War-era conflicts in Angola, Nicaragua, El Salvador, and Afghanistan, followed by a breakdown of how the *Report* and *NewsHour* covered each individual war. The exhibit also includes background essays and timelines related to each conflict that provide context for the coverage. *‘Burning with a Deadly Heat’* was curated by Alyssa Knapp, a 2021 Library of Congress Junior Fellow and graduate student in the UCLA Masters of Library and Information Science program. We are grateful to present and former *NewsHour* correspondents and producers Charlayne Hunter-Gault, Jeff Goldman, Annette Miller, Susan Mills, and Judy Woodruff and to an anonymous reviewer for their guidance and help.
+*‘Burning with a Deadly Heat’: NewsHour Coverage of the Hot Wars of the Cold War* explores common themes that emerged as *The MacNeil-Lehrer Report* and *The MacNeil/Lehrer NewsHour* covered Cold War-era conflicts in Angola, Nicaragua, El Salvador, and Afghanistan, followed by a breakdown of how the *Report* and *NewsHour* covered each individual war. The exhibit also includes background essays related to each conflict that provide context for the coverage. *‘Burning with a Deadly Heat’* was curated by Alyssa Knapp, a 2021 Library of Congress Junior Fellow and graduate student in the UCLA Masters of Library and Information Science program. We are grateful to present and former *NewsHour* correspondents and producers Charlayne Hunter-Gault, Jeff Goldman, Annette Miller, Susan Mills, and Judy Woodruff and to an anonymous reviewer for their guidance and help.
 
 ## Extended
 
@@ -67,31 +69,7 @@ The *Robert MacNeil Report*, the first iteration of what is now the *PBS NewsHou
 
 Whether the United States had a moral obligation to interfere or stay neutral in the political crises of other countries was another common theme throughout the coverage of each conflict. Robert MacNeil, Jim Lehrer, and other correspondents pushed their guests—and the American people—to set the parameters of American morality and tolerance by forcing them to confront the ambiguities of war during a time when global conflicts often were painted by governments as simple good vs. evil affairs.  In a time of global polarization, when one side would do nearly anything to stop the other, the *NewsHour* forced viewers to consider whether the human rights abuses of pro-U.S. governments should be overlooked in the name of stopping the spread of Soviet influence. 
 
-### Conflict-by-Conflict Coverage
-
-The following conflicts are presented in chronological order from the start date of each conflict. Click on the embedded links to view the discussed segments.
-
-#### Angolan Civil War (1975-2002) 
-
-[For background, see this contextual essay.](/exhibits/newshour-cold-war/angola)
-
-
-#### Nicaraguan Revolution (1978-1990) 
-
-[For background, see this contextual essay.](/exhibits/newshour-cold-war/nicaragua)
-
-
-#### Salvadoran Civil War (1979-1992) 
-
-[For background, see this contextual essay.](/exhibits/newshour-cold-war/el-salvador)
-
-
-#### Soviet-Afghan War (1979-1989) 
-
-[For background, see this contextual essay.](/exhibits/newshour-cold-war/afghanistan)
-
-
-#### Next: [Angolan Civil War (1975-2002)](/exhibits/newshour-cold-war/angola)
+The proxy wars  are presented in four sections in chronological order from the start date of each conflict. Each section begins with an essay presenting the historical context of the war, followed by an analysis of the coverage. Click on the embedded links to view the discussed segments.
 
 ## Cover
   <img title="Cover Image" src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/newshour-cold-war_signature.png" alt="Collage of NewsHour programs covering Angola, Nicaragua, El Salvador and Afghanistan."/>
