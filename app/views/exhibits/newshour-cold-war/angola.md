@@ -19,7 +19,7 @@ After the end of World War II, in Africa and across the globe, the many centurie
 
 With the founding of these two parties, it became clear that political change was coming to Portuguese Angola. On January 3, 1961, an uprising occurred among workers on a cotton plantation; the workers burned their identification cards and attacked the Portuguese traders working on site. The Portuguese, in response, bombed nearby villages, killing up to 7,000 civilians. This event, known as the Baixa de Cassanje Revolt, began the Angolan War for Independence. On February 4, 1961, another uprising broke out on the streets of Luanda, leading the Portuguese government to arm groups of white settler vigilantes. The resulting massacre sent shockwaves through the country.[<sup>20</sup>](/exhibits/newshour-cold-war/notes#20) The Angolan people continued the fight for independence, but they were far from unified themselves. A third major political party was born in 1964 when [Jonas Savimbi](https://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t?start=1693.66&end=2026.66), accusing Roberto of factionalism and regionalism, split from the FNLA and formed his own party, the National Union for the Total Independence of Angola (UNITA). UNITA attracted support from the Ovimbundu people of central Angola, dividing Angola’s political factions largely along tribal lines.[<sup>21</sup>](/exhibits/newshour-cold-war/notes#21)
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image half-image left">
 <caption align="bottom" class="exhibit-caption">Figure 3. Jonas Savimbi, the leader of UNITA, The MacNeil/Lehrer NewsHour, January 30, 1986, http://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t.</caption>
 <tr><td><a href="http://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/Angola_4.png" class="big-image" alt="Figure 3. Jonas Savimbi, the leader of UNITA, The MacNeil/Lehrer NewsHour, January 30, 1986, http://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t."/></a></td></tr>
 </table>
@@ -35,7 +35,7 @@ With the outbreak of the civil war, global powers became increasingly involved i
 
 Superpower involvement in the conflict only increased after Cuba, without informing the Soviet Union beforehand, sent military advisors to Luanda to support the MPLA army. The [United States](https://americanarchive.org/catalog/cpb-aacip-507-h41jh3dv78?start=1454.8&end=1567.3), seeing Cuba as an extension of Soviet influence, was outraged.[<sup>28</sup>](/exhibits/newshour-cold-war/notes#28)  With the Cubans supporting the MPLA, the Reagan administration, in office after January 1981, feared that the FNLA alone would not be able to achieve a victory and considered [supporting](https://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t?start=1393.74&end=1691.45) Savimbi’s UNITA fighters as well. The CIA, however, was unable to provide direct military support to either UNITA or the FNLA, and they reached out to the government of South Africa to ask for military assistance.[<sup>29</sup>](/exhibits/newshour-cold-war/notes#29)
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image half-image left">
 <caption align="bottom" class="exhibit-caption"> Figure 5. President Reagan condemns the presence of Cuban troops in Angola at the United Nations, “Angola: Should the U.S. Help?” MacNeil/Lehrer NewsHour, January 30, 1986, https://americanarchive.org/catalog/cpb-aacip_507-wd3pv6c30t.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip_507-wd3pv6c30t" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/Angola_2.png" class="big-image" alt=" Figure 5. President Reagan condemns the presence of Cuban troops in Angola at the United Nations, “Angola: Should the U.S. Help?” MacNeil/Lehrer NewsHour, January 30, 1986, https://americanarchive.org/catalog/cpb-aacip_507-wd3pv6c30t."/></a></td></tr>
 </table>
@@ -57,7 +57,7 @@ Coverage of the Angolan Civil War was largely defined by the assumption that the
 
 Guests typically fell into one of two categories: representatives of political groups in Angola and American political figures. In the former group, the most notable guest was Jonas Savimbi, the leader of the American-supported National Union for the Total Independence of Angola (UNITA) faction, who gave an [interview](https://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t?start=1693.66&end=2035.48) on his own and then debated an American congressman who was against providing aid for UNITA. Other notable African and Angolan guests include [Oliver Tambo](https://americanarchive.org/catalog/cpb-aacip-507-ws8hd7ps1c?start=623.86&end=829.25), a famous anti-apartheid revolutionary and head of the African National Congress, and United Nations representatives [for UNITA](https://americanarchive.org/catalog/cpb-aacip-507-vh5cc0w75k?start=253.11&end=693.7) and the opposing group, the People's Movement for the Liberation of Angola ([MPLA](https://americanarchive.org/catalog/cpb-aacip-507-vh5cc0w75k?start=1034.3&end=1331.15)).  
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image half-image left">
 <caption align="bottom" class="exhibit-caption">Figure 7. UNITA leader Jonas Savimbi gives on interview on the MacNeil/Lehrer NewsHour, January 30, 1986, https://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t?start=1693.66&end=2035.48.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t?start=1693.66&end=2035.48" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/Coverage_1.png" class="big-image" alt="Figure 7. UNITA leader Jonas Savimbi gives on interview on the MacNeil/Lehrer NewsHour, January 30, 1986, https://americanarchive.org/catalog/cpb-aacip-507-wd3pv6c30t?start=1693.66&end=2035.48."/></a></td></tr>
 </table>
@@ -68,7 +68,7 @@ The coverage also covered the wider scope of U.S-African policy. Jeane Kirkpatri
 
 Finally, the *Report* and *NewsHour* coverage of the war in Angola featured almost no footage of the war itself. However, a brief clip of UNITA soldiers training can be viewed [here](https://americanarchive.org/catalog/cpb-aacip-507-804xg9ft50?start=1990.81&end=2015.25).
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image big-image">
 <caption align="bottom" class="exhibit-caption">Figure 8. UNITA Soldiers in Southern Angola on Thhe MacNeil/Lehrer NewsHour, September 23, 1986, https://americanarchive.org/catalog/cpb-aacip-507-804xg9ft50?start=1990.81&end=2015.25.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-507-804xg9ft50?start=1990.81&end=2015.25" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/Coverage_2.png" class="big-image" alt="Figure 8. UNITA Soldiers in Southern Angola on Thhe MacNeil/Lehrer NewsHour, September 23, 1986, https://americanarchive.org/catalog/cpb-aacip-507-804xg9ft50?start=1990.81&end=2015.25."/></a></td></tr>
 </table>
