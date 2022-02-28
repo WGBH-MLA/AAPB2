@@ -36,16 +36,14 @@
   
   function getSnippet(guid,query){
     $.get("/snippets/"+guid+".json?"+"query="+query, (snip) => {
-      console.log( 'I got a snippet!', snip )
+      console.log( 'I got a snippet!', snip, guid )
 
       // if(snip.transcript){
 
       // } else if(snip.caption){
 
       // }
-
-
-      $("#" + guid + "-snippet").innerHTML = snip.snippet_body
+      $("#" + guid + "-snippet").html(snip.snippet_body)
     })
 
   }

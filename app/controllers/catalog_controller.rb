@@ -218,7 +218,7 @@ class CatalogController < ApplicationController
     end
 
     # mark results for captions and transcripts
-    if @document_list.first
+    if @document_list && @document_list.first
       text_field_match_guids = @document_list.first.response['highlighting'].keys.map {|guid| normalize_guid( guid )}
     end
 
