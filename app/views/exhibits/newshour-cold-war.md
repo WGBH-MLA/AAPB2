@@ -40,7 +40,7 @@ The *NewsHour* has been praised by the *New York Times* for its “balance, sobr
 - [Ronald Reagan Presidential Foundation & Institute](https://www.reaganfoundation.org/)
 - [The “Evil Empire” Speech by President Reagan (PBS/WGBH, *American Experience* article)](https://www.pbs.org/wgbh/americanexperience/features/reagan-evil-empire/)
 - [Castro and the Cold War (PBS/WGBH, *American Experience* article)](https://www.pbs.org/wgbh/americanexperience/features/comandante-cold-war/)
-- [*Jimmy Carter* (PBS/WGBH, *American Experience* clips)](https://www.pbs.org/wgbh/americanexperience/films/carter/#film_description
+- [*Jimmy Carter* (PBS/WGBH, *American Experience* clips)](https://www.pbs.org/wgbh/americanexperience/films/carter/#film_description)
 - [*Reagan* (PBS/WGBH, *American Experience* documentary)](https://www.pbs.org/wgbh/americanexperience/films/reagan/)
 
 ## Main
