@@ -29,8 +29,7 @@ Rails.application.routes.draw do
   resources 'transcripts',
             only: [:show]
 
-  resources 'snippets',
-            only: [:show]
+  post '/snippets.json', to: "snippets#show"
 
   resources 'oai',
             only: [:index]

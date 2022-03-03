@@ -36,7 +36,7 @@ class MediaController < ApplicationController
 
   def solr_doc
     @solr_doc ||= begin
-      _resp, doc = fetch_from_blacklight(params['id'])
+      _resp, doc = fetch_from_solr(params['id'])
       doc
     end
   end

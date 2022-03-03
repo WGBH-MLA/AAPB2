@@ -8,7 +8,7 @@ class ThumbnailsController < ApplicationController
   def show
     id = params['id']
     img_src = Rails.cache.fetch("thumb/#{id}") do
-      _response, document = fetch_from_blacklight(id)
+      _response, document = fetch_from_solr(id)
       xml = document['xml']
       PBCorePresenter.new(xml).img_src
     end

@@ -5,9 +5,9 @@ class CaptionsController < ApplicationController
   def show
     # From BlacklightGUIDFetcher
     # Need to use for proper routing
-    @response, @document = fetch_from_blacklight(params['id'])
+    @response, @document = fetch_from_solr(params['id'])
 
-    # we have to rescue from this in fetch_from_blacklight to run through all guid permutations, so throw it here if we didnt find anything
+    # we have to rescue from this in fetch_from_solr to run through all guid permutations, so throw it here if we didnt find anything
     raise Blacklight::Exceptions::RecordNotFound unless @document
 
     pbcore = PBCorePresenter.new(@document['xml'])
