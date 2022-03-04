@@ -11,7 +11,7 @@ class SnippetsController < ApplicationController
         # exit if bad input
         return [400, "ew!"] unless params["query"] && params["ids"] && params["ids"].all? { |id| AAPB.valid_id?(id) }
 
-        ids = params["ids"].map {|id| normalize_guid(id) }
+        ids = params["ids"].map { |id| normalize_guid(id) }
 
         # make OR query of ids
         solr_q = "+id:(#{ids.join(' OR ')})"
