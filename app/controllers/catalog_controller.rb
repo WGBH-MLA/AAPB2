@@ -219,7 +219,7 @@ class CatalogController < ApplicationController
 
     # mark results for captions and transcripts
     if @document_list && @document_list.first
-      text_field_match_guids = @document_list.first.response['highlighting'].keys.map {|guid| normalize_guid( guid )}
+      text_field_match_guids = @document_list.first.response['highlighting'].keys.map { |guid| normalize_guid(guid) }
     end
 
     # we got some dang highlit matches
@@ -227,7 +227,7 @@ class CatalogController < ApplicationController
       @snippets = {}
       text_field_match_guids.each do |guid|
         # store a true so that we can do the ajax
-        this_id = normalize_guid( guid )
+        this_id = normalize_guid(guid)
         @snippets[this_id] = true
       end
     end

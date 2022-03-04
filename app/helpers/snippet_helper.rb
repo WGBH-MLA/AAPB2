@@ -4,16 +4,16 @@ module SnippetHelper
     timecode_link = nil
     if timecode_url
       timecode_link = %(
-        <a href="#{ timecode_url }">
-          <button type="button" class="btn btn-default snippet-link">#{ media_type == 'Moving Image' ? "Watch" : "Listen" } from here</button>
+        <a href="#{timecode_url}">
+          <button type="button" class="btn btn-default snippet-link">#{media_type == 'Moving Image' ? "Watch" : "Listen"} from here</button>
         </a>
       )
     end
 
     %(
       <span class="index-data-title">From Transcript</span>:
-      <p style="margin-top: 0;">#{ text }
-        #{ timecode_link }
+      <p style="margin-top: 0;">#{text}
+        #{timecode_link}
       </p>
     )
   end
@@ -21,10 +21,10 @@ module SnippetHelper
   def caption_snippet(text)
     %(
       <span class="index-data-title">From Closed Caption</span>:
-      <p>#{ text }</p>
+      <p>#{text}</p>
     )
   end
-  
+
   class Snippet
     def initialize(guid, terms_array, plaintext)
       @guid = guid
@@ -33,7 +33,6 @@ module SnippetHelper
       @terms_array = terms_array
       @plaintext = plaintext.to_s.gsub(/[[:punct:]]/, '').upcase
     end
-
 
     def left_chunk_indicies(match_index)
       return 0..0 if match_index == 0

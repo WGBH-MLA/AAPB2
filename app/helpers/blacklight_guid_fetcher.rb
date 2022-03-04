@@ -16,12 +16,10 @@ module BlacklightGUIDFetcher
   end
 
   def query_from_solr(search)
-    begin
-      resp = query_solr({q: search})
-      resp["response"]["docs"].map {|doc| SolrDocument.new(doc) } if resp && resp["response"] && resp["response"]["docs"]
-    rescue Blacklight::Exceptions::RecordNotFound
-      # return bupkis if bupkis
-      []
-    end
+    resp = query_solr(q: search)
+    resp["response"]["docs"].map { |doc| SolrDocument.new(doc) } if resp && resp["response"] && resp["response"]["docs"]
+  rescue Blacklight::Exceptions::RecordNotFound
+    # return bupkis if bupkis
+    []
   end
 end

@@ -9,7 +9,7 @@ class SnippetsController < ApplicationController
 
       format.json do
         # exit if bad input
-        return [400, "ew!"] unless params["query"] && params["ids"] && params["ids"].all? {|id| AAPB.valid_id?(id) }
+        return [400, "ew!"] unless params["query"] && params["ids"] && params["ids"].all? { |id| AAPB.valid_id?(id) }
 
         ids = params["ids"].map {|id| normalize_guid(id) }
 
@@ -21,7 +21,7 @@ class SnippetsController < ApplicationController
         terms_array = query_to_terms_array(params["query"])
 
         # do, a search
-        solr_docs = query_from_solr( solr_q )
+        solr_docs = query_from_solr(solr_q)
         solr_docs.each do |solr_doc|
           
           # take in id, search query -> give back json of caption/ts snippet with markup
@@ -42,7 +42,7 @@ class SnippetsController < ApplicationController
 
               ts = Snippet.new(this_id, terms_array, transcript_file.plaintext)
               # fix it
-              snippet_data[this_id][:snippet_body] = transcript_snippet( ts.snippet, "Moving Image" )
+              snippet_data[this_id][:snippet_body] = transcript_snippet(ts.snippet, "Moving Image")
             end
           end
 
@@ -53,21 +53,13 @@ class SnippetsController < ApplicationController
 
             unless caption_file.captions_src.nil?
               s = Snippet.new(this_id, terms_array, caption_file.text)
-              snippet_data[this_id][:snippet_body] = caption_snippet( s.snippet )
+              snippet_data[this_id][:snippet_body] = caption_snippet(s.snippet)
             end
           end
-
-          # if(snippet_data[:id][:snippet_body])
-          #   return render json: snippet_data
-          # end
-
         end
 
-
         return render json: snippet_data
-
       end
     end
   end
-
 end
