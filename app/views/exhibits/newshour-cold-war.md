@@ -4,7 +4,7 @@
 
 ## Summary
 
-> ** The Cold War isn’t thawing; it’s burning with a deadly heat.** - *Richard M. Nixon*
+> **The Cold War isn’t thawing; it’s burning with a deadly heat.** - *Richard M. Nixon*
 
 ### Editor's Introduction
 
