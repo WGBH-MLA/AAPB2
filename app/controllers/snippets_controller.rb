@@ -6,7 +6,6 @@ class SnippetsController < ApplicationController
 
   def show
     respond_to do |format|
-
       format.json do
         # exit if bad input
         return [400, "ew!"] unless params["query"] && params["ids"] && params["ids"].all? { |id| AAPB.valid_id?(id) }
@@ -23,7 +22,7 @@ class SnippetsController < ApplicationController
         # do, a search
         solr_docs = query_from_solr(solr_q)
         solr_docs.each do |solr_doc|
-          
+
           # take in id, search query -> give back json of caption/ts snippet with markup
           this_id = normalize_guid(solr_doc[:id])
           snippet_data[this_id] = {}
@@ -46,7 +45,7 @@ class SnippetsController < ApplicationController
             end
           end
 
-          if !snippet_data[this_id][:snippet_body]
+          unless snippet_data[this_id][:snippet_body]
             # only if no ts found
 
             caption_file = CaptionFile.new(solr_doc.id)

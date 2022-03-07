@@ -9,6 +9,7 @@ AllCops:
     # ignoring until we can sort out ruby parser version issue with rubocop (defaults to 2.0 parser, but newer parser versions show 400+ violations)
     - 'app/models/exhibit.rb'
     - 'app/helpers/snippet_helper.rb'
+    - 'app/controllers/snippets_controller.rb'
 
 Metrics/ClassLength:
   Enabled: false
