@@ -30,6 +30,10 @@ class SnippetsController < ApplicationController
           # check for transcript/caption anno
           if solr_doc.transcript?
 
+            if this_id == "cpb-aacip-37-45q83gt2"
+              require('pry');binding.pry
+            end
+
             # put it here!
             transcript_file = TranscriptFile.new(solr_doc.transcript_src)
             if transcript_file.file_type == TranscriptFile::JSON_FILE && !transcript_file.content.empty?
