@@ -71,8 +71,10 @@ Whether the United States had a moral obligation to interfere or stay neutral in
 
 The proxy wars  are presented in four sections in chronological order from the start date of each conflict. Each section begins with an essay presenting the historical context of the war, followed by an analysis of the coverage. Click on the embedded links to view the discussed segments.
 
+#### Next: [Angolan Civil War (1975-2002)](/exhibits/newshour-cold-war/angola)
+
 ## Cover
-  <img title="Cover Image" src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/newshour-cold-war_signature.png" alt="Collage of NewsHour programs covering Angola, Nicaragua, El Salvador and Afghanistan."/>
+  <img title="Cover Image" src="https://s3.amazonaws.com/americanarchive.org/exhibits/newshour-cold-war/newshour-cold-war_signature2.png" alt="Collage of NewsHour programs covering Angola, Nicaragua, El Salvador and Afghanistan."/>
 
 ## Gallery
 
