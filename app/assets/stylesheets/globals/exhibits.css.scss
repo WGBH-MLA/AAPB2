@@ -13,6 +13,12 @@
   }
 }
 
+.exhibit-interior-color-section h3 {
+  display: block;
+  width: 100vw;
+  clear: both;
+}
+
 #exhibit-main iframe {
   width: 100%;
   min-height: 97vh;
@@ -60,6 +66,10 @@ table.exhibit-image.short-image tr td img {
 table.exhibit-image.big-image {
   display: block;
   width: 100%;
+}
+
+table.exhibit-image.big-image img {
+  width:  80vw;
 }
 
 .exhibit-caption {

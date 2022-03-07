@@ -158,7 +158,8 @@ class Exhibit < Cmless
           el.attribute('href').to_s.match('^/catalog/.+') || el.attribute('href').to_s.match(/^.+\/\/americanarchive.org\/catalog\/.+/)
         end.map do |el|
           [
-            el.attribute('href').to_s.gsub(/^.+\/\/americanarchive.org/, '').gsub('/catalog/', ''),
+            # remove non guid parts of links, and strip #start_time stuff from end of URL
+            el.attribute('href').to_s.gsub(/^.+\/\/americanarchive.org/, '').gsub('/catalog/', '').gsub(/\?.*/, ""),
             (begin
                el.attribute('title').text
              rescue
