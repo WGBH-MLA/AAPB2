@@ -6,7 +6,7 @@
 
 <a name="1"></a><sup>1</sup> John J. O’Connor, “TV: The ‘MacNeil Report,’ a Sharp Point of View,” *New York Times*, November 11, 1975, 63.
 
-<a name="2"></a><sup>2</sup> Robert MacNeil, *The Right Place at the Right Time* (Boston: Little, Brown, 1982), 287-89, 297-300; Jim Lehrer, A Bus of My Own (New York: G. Putnam’s Sons, 1992), 120-26, 131-33;  “MacNeil Lehrer Report,” *Cleveland Call and Post*, January 3, 1976, 5A.
+<a name="2"></a><sup>2</sup> Robert MacNeil, *The Right Place at the Right Time* (Boston: Little, Brown, 1982), 287-89, 297-300; Jim Lehrer, *A Bus of My Own* (New York: G. Putnam’s Sons, 1992), 120-26, 131-33;  “MacNeil Lehrer Report,” *Cleveland Call and Post*, January 3, 1976, 5A.
 
 <a name="3"></a><sup>3</sup> Marilynn Preston, “‘MacNeil/Lehrer’ Beats Networks to News,” *Chicago Tribune*, September 4, 1983, J5.
 
@@ -30,10 +30,9 @@
 
 <a name="13"></a><sup>13</sup> Hal Brands, *Latin America’s Cold War* (Cambridge, MA: Harvard University Press, 2012), 22.
 
-
 <a name="14"></a><sup>14</sup> Susan Mills, interview with Alyssa Knapp, Kate Mitchell, and Alan Gevinson (American Archive of Public Broadcasting), July 15, 2021.
 
-<a name="15"></a><sup>15</sup> John Lewis Gaddis, *The Cold War: A New History*, 144.
+<a name="15"></a><sup>15</sup> Gaddis, *The Cold War*, 144.
 
 <a name="16"></a><sup>16</sup> Manuel Ennes Ferreira, “Angola: Conflict and Development, 1962-2002,” *The Economics of Peace and Security Journal* 1, no. 1 (January 2006), http://dx.doi.org/10.15355/epsj.1.1.25.
 
@@ -51,7 +50,7 @@
 
 <a name="23"></a><sup>23</sup> “Angola,” *The Robert MacNeil Report*.
 
-<a name="24"></a><sup>24</sup> “Angola: Should the U.S. Help?” *MacNeil/Lehrer NewsHour*.
+<a name="24"></a><sup>24</sup> “Angola: Should the U.S. Help?” *MacNeil/Lehrer NewsHour*, WNET/WETA & MacNeil/Lehrer Gannett Productions, January 30, 1986, https://americanarchive.org/catalog/cpb-aacip_507-wd3pv6c30t.
 
 <a name="25"></a><sup>25</sup> Comerford, *Peaceful Face of Angola*, 5.
 
@@ -79,16 +78,15 @@
 
 <a name="37"></a><sup>37</sup> Emily S. Rosenberg, *Financial Missionaries to the World: The Politics and Culture of Dollar Diplomacy, 1900-1930* (Durham, NC: Duke University Press, 2003), 5.
 
-<a name="38"></a><sup>38</sup> Encyclopedia Britannica Online, “Dollar Diplomacy, accessed July 22, 2021, https://www.britannica.com/event/Dollar-Diplomacy.
+<a name="38"></a><sup>38</sup> Encyclopedia Britannica Online, “Dollar Diplomacy," accessed July 22, 2021, https://www.britannica.com/event/Dollar-Diplomacy.
 
 <a name="39"></a><sup>39</sup> “The Unrest in Nicaragua,” *The MacNeil/Lehrer Report*, WNET and WETA, February 10, 1978, http://americanarchive.org/catalog/cpb-aacip-507-pz51g0jr9d.
 
-<a name="40"></a><sup>40</sup> Hal Brands, *Latin America’s Cold War* (Cambridge, MA: Harvard University Press, 2012), 29.
-
+<a name="40"></a><sup>40</sup> Brands, *Latin America’s Cold War*, 29.
 
 <a name="41"></a><sup>41</sup> “The Unrest in Nicaragua,” *The MacNeil/Lehrer Report*.
 
-<a name="42"></a><sup>42</sup> “Nicaragua,” *The MacNeil/Lehrer Report*, WNET and WETA, November 21, 1978, http://americanarchive.org/catalog/cpb-aacip-507-t14th8cg1p.
+<a name="42"></a><sup>42</sup> “Nicaragua,” *The MacNeil/Lehrer Report*, WNET and WETA, August 28, 1978, http://americanarchive.org/catalog/cpb-aacip-507-t14th8cg1p.
 
 <a name="43"></a><sup>43</sup> “Nicaragua,” *The MacNeil/Lehrer Report*, WNET and WETA, February 6, 1979, http://americanarchive.org/catalog/cpb-aacip-507-db7vm43k0m.
 
@@ -100,15 +98,15 @@
 
 <a name="47"></a><sup>47</sup> “Daniel Ortega Tears Up All Pretence of Democracy in Nicaragua,” *Economist*, June 26, 2021, https://www.economist.com/the-americas/2021/06/26/daniel-ortega-tears-up-all-pretence-of-democracy-in-nicaragua.
 
-<a name="48"></a><sup>48</sup> Thomas P. Anderson, *Matanza: El Salvador’s Communist Revolt of 1932*, (Lincoln: University of Nebraska Press, 1971), 4, https://catalog.hathitrust.org/Record/000205762.
+<a name="48"></a><sup>48</sup> Thomas P. Anderson, *Matanza: El Salvador’s Communist Revolt of 1932* (Lincoln: University of Nebraska Press, 1971), 4, https://catalog.hathitrust.org/Record/000205762.
 
-<a name="49"></a><sup>49</sup> José Angel Moroni Bracamonte and David E. Spencer, *Strategy and Tactics of the Salvadoran FMLN Guerrillas: Last Battle of the Cold War, Blueprint for Future Conflicts.* (Westport, CT: Praeger, 1995), 3, https://catalog.hathitrust.org/Record/002987459.
+<a name="49"></a><sup>49</sup> José Angel Moroni Bracamonte and David E. Spencer, *Strategy and Tactics of the Salvadoran FMLN Guerrillas: Last Battle of the Cold War, Blueprint for Future Conflicts* (Westport, CT: Praeger, 1995), 3, https://catalog.hathitrust.org/Record/002987459.
 
 <a name="50"></a><sup>50</sup> “El Salvador Profile – Timeline,” *BBC News*, May 16, 2018, https://www.bbc.com/news/world-latin-america-19402222.
 
 <a name="51"></a><sup>51</sup> *Cold War: Backyard: 1954-1990*, CNN, 1999.
 
-<a name="52"></a><sup>52</sup> Hal Brands, *Latin America’s Cold War* (Cambridge, MA: Harvard University Press, 2012), 191.
+<a name="52"></a><sup>52</sup> Brands, *Latin America’s Cold War*, 191.
 
 <a name="53"></a><sup>53</sup> El Salvador, Cover Up?” *The MacNeil/Lehrer NewsHour*,  May 24, 1984, http://americanarchive.org/catalog/cpb-aacip-507-hm52f7kh4q.
 
@@ -140,7 +138,7 @@
 
 <a name="67"></a><sup>67</sup> Brands, *Latin America’s Cold War*, 218.
 
-<a name="68"></a><sup>68</sup> Elisabeth Wood, *Insurgent Collective Action and Civil War in El Salvador*, (New York: Cambridge University Press, 2003), 8.
+<a name="68"></a><sup>68</sup> Elisabeth Wood, *Insurgent Collective Action and Civil War in El Salvador* (New York: Cambridge University Press, 2003), 8.
 
 <a name="69"></a><sup>69</sup> Illegal Immigration Reform and Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, 110 Stat. 3009-546 (1996), https://www.govinfo.gov/content/pkg/PLAW-104publ208/pdf/PLAW-104publ208.pdf.  
 
