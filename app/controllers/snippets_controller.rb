@@ -8,7 +8,7 @@ class SnippetsController < ApplicationController
     respond_to do |format|
       format.json do
         # exit if bad input
-        return [400, "ew!"] unless params["query"] && params["ids"] && params["ids"].all? { |id| AAPB.valid_id?(id) }
+        return [400, "Invalid Records"] unless params["query"] && params["ids"] && params["ids"].all? { |id| AAPB.valid_id?(id) }
 
         ids = params["ids"].map { |id| normalize_guid(id) }
 
@@ -22,43 +22,48 @@ class SnippetsController < ApplicationController
         # do, a search
         solr_docs = query_from_solr(solr_q)
         solr_docs.each do |solr_doc|
+          snippet_view_string = nil
 
           # take in id, search query -> give back json of caption/ts snippet with markup
           this_id = normalize_guid(solr_doc[:id])
-          snippet_data[this_id] = {}
 
           # check for transcript/caption anno
           if solr_doc.transcript?
 
-            if this_id == "cpb-aacip-37-45q83gt2"
-              require('pry');binding.pry
-            end
-
             # put it here!
             transcript_file = TranscriptFile.new(solr_doc.transcript_src)
+
             if transcript_file.file_type == TranscriptFile::JSON_FILE && !transcript_file.content.empty?
 
               ts = TimecodeSnippet.new(this_id, terms_array, transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
               # fix media type
-              snippet_data[this_id][:snippet_body] = transcript_snippet(ts.snippet, "Moving Image", ts.url_at_timecode)
+              snippet_view_string = transcript_snippet(ts.snippet, "Moving Image", ts.url_at_timecode) if ts.snippet
             elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
 
               ts = Snippet.new(this_id, terms_array, transcript_file.plaintext)
               # fix it
-              snippet_data[this_id][:snippet_body] = transcript_snippet(ts.snippet, "Moving Image")
+              snippet_view_string = transcript_snippet(ts.snippet, "Moving Image") if ts.snippet
             end
           end
 
-          unless snippet_data[this_id][:snippet_body]
+          unless snippet_view_string
             # only if no ts found
 
             caption_file = CaptionFile.new(solr_doc.id)
-
             unless caption_file.captions_src.nil?
               s = Snippet.new(this_id, terms_array, caption_file.text)
-              snippet_data[this_id][:snippet_body] = caption_snippet(s.snippet)
+              snippet_view_string = caption_snippet(s.snippet) if s.snippet
             end
           end
+
+          if snippet_view_string
+            # we actually got a snippet and therefore rendered a lil stringy for your browsah
+
+            # init this guid and send
+            snippet_data[this_id] = {}
+            snippet_data[this_id] = snippet_view_string
+          end
+
         end
 
         return render json: snippet_data

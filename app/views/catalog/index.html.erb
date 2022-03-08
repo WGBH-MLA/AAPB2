@@ -38,13 +38,8 @@
     $.post("/snippets.json?", { ids: guids, query: query }, (snips) => {
       console.log( 'I got a snippet!', snips )
 
-      // if(snip.transcript){
-
-      // } else if(snip.caption){
-
-      // }
       for(var i=0; i<guids.length; i++){
-        $("#" + guids[i] + "-snippet").html(snips[ guids[i] ].snippet_body)
+        $("#" + guids[i] + "-snippet").html(snips[ guids[i] ])
       }
     })
   }

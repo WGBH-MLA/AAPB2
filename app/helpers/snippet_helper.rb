@@ -59,6 +59,7 @@ module SnippetHelper
         # grab the chunk around our match and clean up the crap
         txt = (@plaintext[left_chunk_indicies(start_index)] + @plaintext[right_chunk_indicies(start_index)]).gsub(/\A\w+\s{1}/, '').gsub(/\s{1}\w+\z/, '')
 
+
         # and highlight
         break
       end
@@ -85,6 +86,8 @@ module SnippetHelper
         # make this here so we dont have too
         break if @match_timecode
       end
+
+
       super(guid, terms_array, plaintext)
     end
 
