@@ -12,6 +12,7 @@ class TranscriptFile
   end
 
   def content
+    puts "Pulling Transcript File to Read"
     @content ||= open(transcript_file_src).read
   # Return an empty string if no content is found
   rescue
@@ -31,6 +32,7 @@ class TranscriptFile
   end
 
   def file_present?
+    puts "Pulling Transcript File to check presence"
     return true if Net::HTTP.get_response(URI.parse(transcript_file_src)).code == '200'
     false
     # Don't want to fail on no response

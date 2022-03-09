@@ -16,6 +16,7 @@ class CaptionFile
   # if there is no vtt on S3.
   def vtt
     @vtt ||= begin
+      puts "Pulling VTT File to Read"
       open(vtt_url).read
     rescue OpenURI::HTTPError
       # no vtt found, use srt
@@ -25,6 +26,7 @@ class CaptionFile
 
   def srt
     @srt ||= begin
+      puts "Pulling SRT File to Read"
       open(srt_url).read
     rescue OpenURI::HTTPError
       nil
@@ -61,6 +63,7 @@ class CaptionFile
 
   def caption_file_present?(url)
     uri = URI.parse(url)
+    puts "Pulling Caption File for presence check"
     Net::HTTP.get_response(uri).code == '200'
   end
 
