@@ -1,14 +1,5 @@
+# Only allow crawling of record details pages, i.e. /catalog/{id}
+# and not search results pages, i.e /catalog?params, or catalog.html?params
 User-agent: *
-Disallow: /catalog?
-
-User-agent: PetalBot
-Disallow: /
-
-User-agent: SemrushBot
-Disallow: /
-
-User-agent: AhrefsBot
-Disallow: /
-
-User-agent: SeznamBot
-Disallow: /
+Disallow: /catalog
+Allow: /catalog/
