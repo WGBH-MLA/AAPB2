@@ -311,7 +311,7 @@ class PBCorePresenter
   def transcript_content
     return nil unless transcript_src
     transcript_file = TranscriptFile.new(id, transcript_src)
-    return transcript_file.content if transcript_file.file_present?
+    return transcript_file.file_content if transcript_file.file_present?
     caption_file = retrieve_captions(id)
     return caption_file.json if caption_file.file_present? && caption_file.json
     nil
