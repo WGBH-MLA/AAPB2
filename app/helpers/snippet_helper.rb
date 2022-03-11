@@ -1,6 +1,5 @@
 module SnippetHelper
   def transcript_snippet(text, media_type, timecode_url)
-
     timecode_link = nil
     if timecode_url
       timecode_link = %(
@@ -58,9 +57,6 @@ module SnippetHelper
 
         # grab the chunk around our match and clean up the crap
         txt = (@plaintext[left_chunk_indicies(start_index)] + @plaintext[right_chunk_indicies(start_index)]).gsub(/\A\w+\s{1}/, '').gsub(/\s{1}\w+\z/, '')
-
-
-        # and highlight
         break
       end
 
@@ -87,7 +83,6 @@ module SnippetHelper
         break if @match_timecode
       end
 
-
       super(guid, terms_array, plaintext)
     end
 
@@ -108,7 +103,6 @@ module SnippetHelper
           return match_timecode if query_terms_matched == words_to_match.length
 
           # get first occurrence of each word and pair it with the most accurate time stamp we have
-
           if word.upcase == words_to_match[query_terms_matched]
             # record the tc because we started a match and we werent already a'matchin
             match_timecode = part_hash["start_time"] if query_terms_matched == 0

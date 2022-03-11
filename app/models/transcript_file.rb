@@ -15,14 +15,6 @@ class TranscriptFile < ExternalFile
     super("transcript", guid, transcript_file_src)
   end
 
-  # def content
-  #   puts "Pulling Transcript File to Read"
-  #   @content ||= open(transcript_file_src).read
-  # # Return an empty string if no content is found
-  # rescue
-  #   ""
-  # end
-
   def html
     @html ||= structured_content.to_html if structured_content
   end
@@ -34,15 +26,6 @@ class TranscriptFile < ExternalFile
   def file_type
     @file_type ||= determine_file_type
   end
-
-  # def file_present?
-  #   puts "Pulling Transcript File to check presence"
-  #   return true if Net::HTTP.get_response(URI.parse(transcript_file_src)).code == '200'
-  #   false
-  #   # Don't want to fail on no response
-  # rescue
-  #   false
-  # end
 
   private
 

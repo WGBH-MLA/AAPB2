@@ -17,7 +17,7 @@ describe TranscriptFile do
 
   text_url = 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.txt'
   let(:text_example) { File.read('./spec/fixtures/transcripts/cpb-aacip-507-0000000j8w-transcript.txt') }
-  let(:text_transcript) { TranscriptFile.new(text_url) }
+  let(:text_transcript) { TranscriptFile.new("cpb-aacip-507-0000000j8w", text_url) }
 
   let(:json_html_tags) { ['play-from-here', 'transcript-row', 'para', 'data-timecodebegin', 'data-timecodeend', 'transcript-row'] }
   let(:text_html_tags) { ['transcript-row', 'para', 'data-timecodebegin', 'transcript-row'] }
@@ -33,15 +33,17 @@ describe TranscriptFile do
     # ./spec/fixtures/transcripts/ with the same filename they have in S3.
     WebMock.stub_request(:get, json_url).to_return(body: json_example)
     WebMock.stub_request(:get, text_url).to_return(body: text_example)
+    WebMock.stub_request(:head, json_url).to_return(status: 200)
+    WebMock.stub_request(:head, text_url).to_return(status: 200)
   end
 
-  describe '#content' do
+  describe '#file_content' do
     it 'returns JSON content from a JSON transcript_src' do
-      expect(json_transcript.content).to eq(json_example)
+      expect(json_transcript.file_content).to eq(json_example)
     end
 
     it 'returns text content from a text transcript_src' do
-      expect(text_transcript.content).to eq(text_example)
+      expect(text_transcript.file_content).to eq(text_example)
     end
   end
 

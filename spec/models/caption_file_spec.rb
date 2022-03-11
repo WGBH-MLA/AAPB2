@@ -30,7 +30,8 @@ describe CaptionFile do
   context 'with a vtt CaptionFile on s3' do
     before do
       CaptionFile.any_instance.stub(:captions_src).and_return('https://s3.amazonaws.com/americanarchive.org/captions/1a2b.vtt')
-      WebMock.stub_request(:get, caption_file_vtt.caption_src).to_return(body: vtt_example)
+      WebMock.stub_request(:get, caption_file_vtt.captions_src).to_return(body: vtt_example)
+      WebMock.stub_request(:head, caption_file_vtt.captions_src).to_return(status: 200)
     end
 
     describe '#vtt?' do
@@ -51,7 +52,8 @@ describe CaptionFile do
   context 'with a srt CaptionFile on s3' do
     before do
       CaptionFile.any_instance.stub(:captions_src).and_return('https://s3.amazonaws.com/americanarchive.org/captions/1a2b.srt')
-      WebMock.stub_request(:get, caption_file_srt.caption_src).to_return(body: srt_example)
+      WebMock.stub_request(:get, caption_file_srt.captions_src).to_return(body: srt_example)
+      WebMock.stub_request(:head, caption_file_srt.captions_src).to_return(status: 200)
     end
 
     describe '#vtt?' do

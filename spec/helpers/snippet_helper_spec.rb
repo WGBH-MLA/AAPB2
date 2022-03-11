@@ -29,9 +29,9 @@ describe SnippetHelper do
   let(:caption_file) { CaptionFile.new("1a2b", "srt") }
 
   # single
-  let(:transcript_snippet_1) { TimecodeSnippet.new('cpb-aacip-111-21ghx7d6', transcript_query_1, json_transcript.plaintext, JSON.parse(json_transcript.content)["parts"]) }
+  let(:transcript_snippet_1) { TimecodeSnippet.new('cpb-aacip-111-21ghx7d6', transcript_query_1, json_transcript.plaintext, JSON.parse(json_transcript.file_content)["parts"]) }
   # compound
-  let(:transcript_snippet_2) { TimecodeSnippet.new('cpb-aacip-111-21ghx7d6', transcript_query_2, json_transcript.plaintext, JSON.parse(json_transcript.content)["parts"]) }
+  let(:transcript_snippet_2) { TimecodeSnippet.new('cpb-aacip-111-21ghx7d6', transcript_query_2, json_transcript.plaintext, JSON.parse(json_transcript.file_content)["parts"]) }
   # caption
   let(:transcript_snippet_3) { Snippet.new('cpb-aacip-111-21ghx7d6', transcript_query_3, caption_file.text) }
   # txt
@@ -41,11 +41,14 @@ describe SnippetHelper do
     # Stub requests so we don't actually have to fetch them remotely. But note
     # that this requires that the files have been pulled down and saved in
     # ./spec/fixtures/transcripts/ with the same filename they have in S3.
+    WebMock.stub_request(:head, json_url).to_return(status: 200)
+    WebMock.stub_request(:head, txt_url).to_return(status: 200)
     WebMock.stub_request(:get, json_url).to_return(body: json_example)
     WebMock.stub_request(:get, txt_url).to_return(body: txt_example)
 
     CaptionFile.any_instance.stub(:captions_src).and_return('https://s3.amazonaws.com/americanarchive.org/captions/1a2b.srt')
     WebMock.stub_request(:get, caption_file.captions_src).to_return(body: srt_example)
+    WebMock.stub_request(:head, caption_file.captions_src).to_return(status: 200)
   end
 
   describe '#new' do

@@ -12,19 +12,12 @@ class ExternalFile
   def file_present?
     Rails.cache.fetch(cache_key) do
       # cache our success
-
-      response = HTTParty.head(@external_url)
-      response && response.code == 200
-
-
-      # url = URI.parse(@external_url)
-      # response = nil
-      # puts "Trying request for #{@guid} #{url.host}, #{url.port} #{url.path}"
-      # Net::HTTP.start(url.host, url.port) do |http|
-      #   response = http.request_head(url.path)
-      #   puts " yes response was #{response}"
-      # end
-      # response && response.code == 200
+      begin
+        response = HTTParty.head(@external_url)
+        response && response.code == 200
+      rescue Errno::ECONNREFUSED
+        nil
+      end
     end
   end
 

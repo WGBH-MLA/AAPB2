@@ -41,38 +41,9 @@ class CaptionFile < ::ExternalFile
     @srt ||= file_content if @file_type == "srt"
   end
 
-  # def file_type
-  #   @file_type ||= begin
-  #                    return nil if captions_src.nil?
-  #                    return "srt" if File.extname(captions_src) == ".srt"
-  #                    return "vtt" if File.extname(captions_src) == ".vtt"
-  #                    nil
-  #                  end
-  # end
-
   def vtt?
     @file_type == 'vtt'
   end
-
-  # def srt_url
-  #   "#{CaptionFile::URL_BASE}/#{id}/#{id}.srt1.srt".gsub('cpb-aacip_', 'cpb-aacip-')
-  # end
-
-  # def vtt_url
-  #   "#{CaptionFile::URL_BASE}/#{id}/#{id}.vtt".gsub('cpb-aacip_', 'cpb-aacip-')
-  # end
-
-  # def captions_src
-  #   return vtt_url if caption_file_present?(vtt_url)
-  #   return srt_url if caption_file_present?(srt_url)
-  #   nil
-  # end
-
-  # def caption_file_present?(url)
-  #   uri = URI.parse(url)
-  #   puts "Pulling Caption File for presence check"
-  #   Net::HTTP.get_response(uri).code == '200'
-  # end
 
   # THESE METHODS WOULD NEVER WORK FOR A VTT FILE
   # BEGIN
