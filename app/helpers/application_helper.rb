@@ -1,5 +1,4 @@
 module ApplicationHelper
-
   def retrieve_captions(id)
     # expect srt captions
     caption_file = CaptionFile.new(id, "srt")
