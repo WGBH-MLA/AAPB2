@@ -10,7 +10,8 @@ describe CaptionFile do
     WebMock.enable!
   end
 
-  let(:caption_file) { CaptionFile.new("1a2b") }
+  let(:caption_file_srt) { CaptionFile.new("1a2b", "srt") }
+  let(:caption_file_vtt) { CaptionFile.new("1a2b", "vtt") }
 
   let(:vtt_example) { File.read('./spec/fixtures/captions/web_vtt/vtt_example.vtt') }
   let(:srt_example) { File.read('./spec/fixtures/captions/srt/srt_example.srt') }
@@ -29,19 +30,19 @@ describe CaptionFile do
   context 'with a vtt CaptionFile on s3' do
     before do
       CaptionFile.any_instance.stub(:captions_src).and_return('https://s3.amazonaws.com/americanarchive.org/captions/1a2b.vtt')
-      WebMock.stub_request(:get, caption_file.vtt_url).to_return(body: vtt_example)
+      WebMock.stub_request(:get, caption_file_vtt.vtt_url).to_return(body: vtt_example)
     end
 
     describe '#vtt?' do
       it 'returns true for a vtt' do
-        expect(caption_file.vtt?).to eq(true)
+        expect(caption_file_vtt.vtt?).to eq(true)
       end
     end
 
     describe '#vtt' do
       context 'with a file present on s3' do
         it 'returns the captions formatted as WebVTT' do
-          expect(caption_file.vtt).to eq vtt_example
+          expect(caption_file_vtt.vtt).to eq vtt_example
         end
       end
     end
@@ -50,38 +51,38 @@ describe CaptionFile do
   context 'with a srt CaptionFile on s3' do
     before do
       CaptionFile.any_instance.stub(:captions_src).and_return('https://s3.amazonaws.com/americanarchive.org/captions/1a2b.srt')
-      WebMock.stub_request(:get, caption_file.srt_url).to_return(body: srt_example)
-      WebMock.stub_request(:get, caption_file.vtt_url).to_raise(OpenURI::HTTPError.new('', ''))
+      WebMock.stub_request(:get, caption_file_srt.srt_url).to_return(body: srt_example)
+      WebMock.stub_request(:get, caption_file_srt.vtt_url).to_raise(OpenURI::HTTPError.new('', ''))
     end
 
     describe '#vtt?' do
       it 'returns false for a vtt' do
-        expect(caption_file.vtt?).to eq(false)
+        expect(caption_file_srt.vtt?).to eq(false)
       end
     end
 
     describe '#vtt' do
       it 'converts to vtt from srt' do
-        expect(caption_file.vtt).to include vtt_example
+        expect(caption_file_srt.vtt).to include vtt_example
       end
     end
 
     describe '#html' do
       it 'returns the captions formatted as HTML' do
-        expect(caption_file.html).to include html_example
+        expect(caption_file_srt.html).to include html_example
       end
     end
 
     describe '#text' do
       it 'returns caption text without timecodes' do
-        expect(caption_file.text).to include('male narrator: IN THE SUMMER OF 1957,')
-        expect(caption_file.text).not_to include('00:00:38,167 --> 00:00:40,033')
+        expect(caption_file_srt.text).to include('male narrator: IN THE SUMMER OF 1957,')
+        expect(caption_file_srt.text).not_to include('00:00:38,167 --> 00:00:40,033')
       end
     end
 
     describe '#json' do
       it 'returns the captions formatted as JSON string' do
-        expect(caption_file.json).to include(json_example.to_s)
+        expect(caption_file_srt.json).to include(json_example.to_s)
       end
     end
   end

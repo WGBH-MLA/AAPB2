@@ -315,7 +315,7 @@ describe 'Validated and plain PBCore' do
     describe '.transcript_content' do
       it 'returns the transcript content from the pbcore xml' do
         # Just returning something when the TranscriptFile#content method is hit
-        allow_any_instance_of(TranscriptFile).to receive(:content).and_return("stuff")
+        allow_any_instance_of(TranscriptFile).to receive(:file_content).and_return("stuff")
         expect(pbc.transcript_content).to eq("stuff")
       end
     end

@@ -13,11 +13,11 @@ describe SnippetHelper do
 
   json_url = 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json'
   let(:json_example) { File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json') }
-  let(:json_transcript) { TranscriptFile.new(json_url) }
+  let(:json_transcript) { TranscriptFile.new("cpb-aacip-111-21ghx7d6", json_url) }
 
   txt_url = 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.txt'
   let(:txt_example) { File.read('./spec/fixtures/transcripts/cpb-aacip-507-0000000j8w-transcript.txt') }
-  let(:txt_transcript) { TranscriptFile.new(txt_url) }
+  let(:txt_transcript) { TranscriptFile.new("cpb-aacip-507-0000000j8w", txt_url) }
 
   # queries are split up into no-stopword arrays in appl helper
   let(:transcript_query_1) { [["ARKANSAS"]] }
@@ -26,7 +26,7 @@ describe SnippetHelper do
   let(:transcript_query_4) { [%w(TWO DOZEN FINE POTENTIAL NOMINEES FOR THE POSITION OF SECRETARY OF THE INTERIOR)] }
 
   let(:srt_example) { File.read('./spec/fixtures/captions/srt/srt_example.srt') }
-  let(:caption_file) { CaptionFile.new("1a2b") }
+  let(:caption_file) { CaptionFile.new("1a2b", "srt") }
 
   # single
   let(:transcript_snippet_1) { TimecodeSnippet.new('cpb-aacip-111-21ghx7d6', transcript_query_1, json_transcript.plaintext, JSON.parse(json_transcript.content)["parts"]) }

@@ -17,15 +17,6 @@ class SolrDocument
   # Recommendation: Use field names from Dublin Core
   # use_extension(Blacklight::Solr::Document::DublinCore)
 
-  def caption?
-    return true unless CaptionFile.new(self[:id]).captions_src.nil?
-    false
-  end
-
-  def captions_src
-    CaptionFile.new(self[:id]).captions_src
-  end
-
   def transcript?
     Nokogiri::XML(self[:xml]).css('pbcoreAnnotation[annotationType="Transcript URL"]').first
   end

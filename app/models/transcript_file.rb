@@ -1,23 +1,27 @@
 require 'open-uri'
 require_relative '../../lib/transcript_converter'
+require_relative '../../lib/external_file'
 
-class TranscriptFile
+class TranscriptFile < ExternalFile
   JSON_FILE = 'json'.freeze
   TEXT_FILE = 'text'.freeze
 
+  include IdHelper
+
   attr_reader :transcript_file_src
 
-  def initialize(transcript_file_src)
+  def initialize(guid, transcript_file_src)
     @transcript_file_src = transcript_file_src
+    super("transcript", guid, transcript_file_src)
   end
 
-  def content
-    puts "Pulling Transcript File to Read"
-    @content ||= open(transcript_file_src).read
-  # Return an empty string if no content is found
-  rescue
-    ""
-  end
+  # def content
+  #   puts "Pulling Transcript File to Read"
+  #   @content ||= open(transcript_file_src).read
+  # # Return an empty string if no content is found
+  # rescue
+  #   ""
+  # end
 
   def html
     @html ||= structured_content.to_html if structured_content
@@ -31,14 +35,14 @@ class TranscriptFile
     @file_type ||= determine_file_type
   end
 
-  def file_present?
-    puts "Pulling Transcript File to check presence"
-    return true if Net::HTTP.get_response(URI.parse(transcript_file_src)).code == '200'
-    false
-    # Don't want to fail on no response
-  rescue
-    false
-  end
+  # def file_present?
+  #   puts "Pulling Transcript File to check presence"
+  #   return true if Net::HTTP.get_response(URI.parse(transcript_file_src)).code == '200'
+  #   false
+  #   # Don't want to fail on no response
+  # rescue
+  #   false
+  # end
 
   private
 
@@ -53,9 +57,9 @@ class TranscriptFile
     @structured_content ||=
       case file_type
       when TranscriptFile::JSON_FILE
-        TranscriptConverter.json_parts(content)
+        TranscriptConverter.json_parts(file_content)
       when TranscriptFile::TEXT_FILE
-        TranscriptConverter.text_parts(content)
+        TranscriptConverter.text_parts(file_content)
       end
   end
 end

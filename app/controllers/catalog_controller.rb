@@ -246,6 +246,8 @@ class CatalogController < ApplicationController
         @exhibits = @pbcore.top_exhibits
         @skip_orr_terms = can? :skip_tos, @pbcore
 
+        @captions = retrieve_captions(@pbcore.id)
+
         if can? :play, @pbcore
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?

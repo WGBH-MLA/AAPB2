@@ -31,11 +31,11 @@ class SnippetsController < ApplicationController
           if solr_doc.transcript?
 
             # put it here!
-            transcript_file = TranscriptFile.new(solr_doc.transcript_src)
+            transcript_file = TranscriptFile.new(solr_doc.id, solr_doc.transcript_src)
 
-            if transcript_file.file_type == TranscriptFile::JSON_FILE && !transcript_file.content.empty?
+            if transcript_file.file_type == TranscriptFile::JSON_FILE && !transcript_file.file_content.empty?
 
-              ts = TimecodeSnippet.new(this_id, terms_array, transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
+              ts = TimecodeSnippet.new(this_id, terms_array, transcript_file.plaintext, JSON.parse(transcript_file.file_content)["parts"])
               # fix media type
               snippet_view_string = transcript_snippet(ts.snippet, "Moving Image", ts.url_at_timecode) if ts.snippet
             elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
@@ -49,8 +49,9 @@ class SnippetsController < ApplicationController
           unless snippet_view_string
             # only if no ts found
 
-            caption_file = CaptionFile.new(solr_doc.id)
-            unless caption_file.captions_src.nil?
+            caption_file = retrieve_captions(solr_doc.id)
+            
+            if caption_file.file_present?
               s = Snippet.new(this_id, terms_array, caption_file.text)
               snippet_view_string = caption_snippet(s.snippet) if s.snippet
             end

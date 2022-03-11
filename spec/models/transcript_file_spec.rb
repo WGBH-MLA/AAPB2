@@ -13,7 +13,7 @@ describe TranscriptFile do
 
   json_url = 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json'
   let(:json_example) { File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json') }
-  let(:json_transcript) { TranscriptFile.new(json_url) }
+  let(:json_transcript) { TranscriptFile.new("cpb-aacip-111-21ghx7d6", json_url) }
 
   text_url = 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-507-0000000j8w/cpb-aacip-507-0000000j8w-transcript.txt'
   let(:text_example) { File.read('./spec/fixtures/transcripts/cpb-aacip-507-0000000j8w-transcript.txt') }

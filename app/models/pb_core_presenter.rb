@@ -310,10 +310,10 @@ class PBCorePresenter
   end
   def transcript_content
     return nil unless transcript_src
-    transcript_file = TranscriptFile.new(transcript_src)
-    return transcript_file.content if transcript_file
-    caption_file = CaptionFile.new(id)
-    return caption_file.json if caption_file && caption_file.json
+    transcript_file = TranscriptFile.new(id, transcript_src)
+    return transcript_file.content if transcript_file.file_present?
+    caption_file = retrieve_captions(id)
+    return caption_file.json if caption_file.file_present? && caption_file.json
     nil
   end
   def correcting_transcript?
@@ -323,8 +323,10 @@ class PBCorePresenter
     transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
   end
   def transcript_html
-    return TranscriptFile.new(transcript_src).html if transcript_src
-    return CaptionFile.new(id).html if CaptionFile.new(id).captions_src
+    tfile = TranscriptFile.new(id, transcript_src) if transcript_src
+    return tfile.html if tfile && tfile.file_present?
+    captions = retrieve_captions(id)
+    return captions.html if captions.file_present?
     nil
   end
   def transcript_message
@@ -447,15 +449,6 @@ class PBCorePresenter
   end
   # rubocop:enable Style/EmptyLineBetweenDefs
 
-  # TODO: modify this for captions for vtt source file change?
-  def self.srt_url(id)
-    # Class method because it doesn't depend on object state,
-    # and we want to get at it without a full instantiation.
-    caption_id = id.tr('_', '-')
-    caption_base = 'https://s3.amazonaws.com/americanarchive.org/captions'
-    "#{caption_base}/#{caption_id}/#{caption_id}.srt1.srt"
-  end
-
   def to_solr
     # Only just before indexing do we check for the existence of captions:
     # We don't want to ping S3 multiple times, and we don't want to store all
@@ -476,8 +469,8 @@ class PBCorePresenter
 
     # This verifies that there is a corresponding file on S3 and adds
     # a PBCore annotation required for AAPB but not coming from AMS or AMS2
-    captions = CaptionFile.new(id)
-    unless captions.captions_src.nil?
+    captions = retrieve_captions(id)
+    if captions.file_present?
       pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
 
@@ -493,7 +486,7 @@ class PBCorePresenter
 
     # if transcript status exists in pbcore, put the transcript url annotation in
     if transcript_status
-      transcript_file = TranscriptFile.new(constructed_transcript_src)
+      transcript_file = TranscriptFile.new(id, constructed_transcript_src)
 
       if transcript_file.file_present?
         pre_existing = pre_existing_transcript_annotation(full_doc)
