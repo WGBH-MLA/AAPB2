@@ -45,7 +45,7 @@ describe SnippetHelper do
     WebMock.stub_request(:get, txt_url).to_return(body: txt_example)
 
     CaptionFile.any_instance.stub(:captions_src).and_return('https://s3.amazonaws.com/americanarchive.org/captions/1a2b.srt')
-    WebMock.stub_request(:get, caption_file.srt_url).to_return(body: srt_example)
+    WebMock.stub_request(:get, caption_file.captions_src).to_return(body: srt_example)
   end
 
   describe '#new' do
