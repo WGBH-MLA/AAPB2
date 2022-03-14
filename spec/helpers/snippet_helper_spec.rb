@@ -33,7 +33,7 @@ describe SnippetHelper do
   # compound
   let(:transcript_snippet_2) { TimecodeSnippet.new('cpb-aacip-111-21ghx7d6', transcript_query_2, json_transcript.plaintext, JSON.parse(json_transcript.file_content)["parts"]) }
   # caption
-  let(:transcript_snippet_3) { Snippet.new('cpb-aacip-111-21ghx7d6', transcript_query_3, caption_file.text) }
+  let(:caption_snippet1) { Snippet.new('cpb-aacip-111-21ghx7d6', transcript_query_3, caption_file.text) }
   # txt
   let(:transcript_snippet_4) { Snippet.new('cpb-aacip-507-0000000j8w', transcript_query_4, txt_transcript.plaintext) }
 
@@ -63,7 +63,7 @@ describe SnippetHelper do
     end
 
     it 'initializes with expected attrs for caption file' do
-      expect(transcript_snippet_3.snippet).to eq(" THE SUMMER OF 1958 THAT ALLOWED THE LOST YEAR TO HAPPEN THE FIRST ONE WAS THAT THE SCHOOL BOARD HAD <mark>FILED FOR A DELAY</mark>  A NUMBER OF BUSINESS LEADERS PERSUADED A MAJORITY OF THE MEMBERS OF THE SCHOOL")
+      expect(caption_snippet1.snippet).to eq(" THE SUMMER OF 1958 THAT ALLOWED THE LOST YEAR TO HAPPEN THE FIRST ONE WAS THAT THE SCHOOL BOARD HAD <mark>FILED FOR A DELAY</mark>  A NUMBER OF BUSINESS LEADERS PERSUADED A MAJORITY OF THE MEMBERS OF THE SCHOOL")
     end
 
     it 'initializes with expected attrs for txt file' do
@@ -87,8 +87,23 @@ describe SnippetHelper do
     end
   end
 
+  describe 'view snippet helpers' do
+    it 'creates a timecode transcript snippet for the frontend' do
+      expect( transcript_snippet(transcript_snippet_1.snippet, "Moving Image", transcript_snippet_1.url_at_timecode) ).to eq(%(\n      <span class=\"index-data-title\">From Transcript</span>:\n      <p style=\"margin-top: 0;\"> FOR THIS 15TH ANNIVERSARY CELEBRATION AND DEDICATION CEREMONY IS MR GEORGE CAMPBELL CHAIRMAN OF THE <mark>ARKANSAS</mark> EDUCATIONAL TELEVISION COMMISSION GOOD AFTERNOON DISTINGUISHED GUESTS LADIES AND GENTLEMEN \n        \n        <a href=\"/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&proxy_start_time=50.24\">\n          <button type=\"button\" class=\"btn btn-default snippet-link\">Watch from here</button>\n        </a>\n      \n      </p>\n    ))
+    end
+
+    it 'creates a transcript snippet for the frontend' do
+      expect(transcript_snippet(transcript_snippet_4.snippet, "Moving Image")).to eq(%(\n      <span class=\"index-data-title\">From Transcript</span>:\n      <p style=\"margin-top: 0;\">AT THE OLD EXECUTIVE OFFICE BUILDING PRES RONALD REAGAN AFTER EXAMINING THE RECORDS OF MORE THAN <mark>TWO DOZEN FINE POTENTIAL NOMINEES FOR THE POSITION OF SECRETARY OF THE INTERIOR</mark> I HAVE DECIDED TO\n        \n      </p>\n    ))
+    end
+
+    it 'creates a caption snippet for the frontend' do
+      expect(caption_snippet(caption_snippet1.snippet)).to eq(%(\n      <span class=\"index-data-title\">From Closed Caption</span>:\n      <p> THE SUMMER OF 1958 THAT ALLOWED THE LOST YEAR TO HAPPEN THE FIRST ONE WAS THAT THE SCHOOL BOARD HAD <mark>FILED FOR A DELAY</mark>  A NUMBER OF BUSINESS LEADERS PERSUADED A MAJORITY OF THE MEMBERS OF THE SCHOOL</p>\n    ))
+    end
+
+  end
+
   context 'when plaintext param is nil (for whatever reason)', :focus do
-    it 'does not raise an error' do
+    it 'do not raise an error' do
       expect { Snippet.new('fake-id', [['fake query']], nil) }.to_not raise_error
       expect { TimecodeSnippet.new('fake-id', [['fake query']], nil, []) }.to_not raise_error
     end
