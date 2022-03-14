@@ -6,13 +6,12 @@ describe ExternalFile do
     # WebMock is disabled by default, but we use it for these tests.
     # Note that it is re-disabled in an :after hook below.
     WebMock.enable!
-
   end
 
   json_url = 'https://s3.amazonaws.com/americanarchive.org/transcripts/cpb-aacip-111-21ghx7d6/cpb-aacip-111-21ghx7d6-transcript.json'
   let(:json_example) { File.read('./spec/fixtures/transcripts/cpb-aacip-111-21ghx7d6-transcript.json') }
   let(:external_file) { ExternalFile.new("transcript", "cpb-aacip-111-21ghx7d6", json_url) }
-  
+
   before do
     # Stub requests so we don't actually have to fetch them remotely. But note
     # that this requires that the files have been pulled down and saved in
