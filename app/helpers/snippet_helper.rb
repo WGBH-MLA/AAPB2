@@ -1,5 +1,5 @@
 module SnippetHelper
-  def transcript_snippet(text, media_type, timecode_url)
+  def transcript_snippet(text, media_type, timecode_url=nil)
     timecode_link = nil
     if timecode_url
       timecode_link = %(
