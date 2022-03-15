@@ -316,6 +316,9 @@ class PBCorePresenter
     return caption_file.json if caption_file && caption_file.json
     nil
   end
+  def uncorrected_transcript?
+    transcript_status == PBCorePresenter::UNCORRECTED_TRANSCRIPT
+  end
   def correcting_transcript?
     transcript_status == PBCorePresenter::CORRECTING_TRANSCRIPT
   end
@@ -328,7 +331,7 @@ class PBCorePresenter
     nil
   end
   def transcript_message
-    @transcript_message ||= correcting_transcript? ? 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>' : nil
+    @transcript_message ||= (uncorrected_transcript? || correcting_transcript?) ? 'If this transcript has significant errors that should be corrected, <a href="mailto:aapb_notifications@wgbh.org">let us know</a>, so we can add it to <a href="https://fixitplus.americanarchive.org">FIX IT+</a>' : nil
   end
   def fixitplus_url
     @fixitplus_url ||= correcting_transcript? ? %(http://fixitplus.americanarchive.org/transcripts/#{id}) : nil
