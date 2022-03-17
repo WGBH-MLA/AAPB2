@@ -29,12 +29,10 @@ class ExternalFile
   end
 
   def head_file
-    begin
-      response = HTTParty.head(@external_url)
-      response && response.code == 200
-    rescue Errno::ECONNREFUSED
-      nil
-    end
+    response = HTTParty.head(@external_url)
+    response && response.code == 200
+  rescue Errno::ECONNREFUSED
+    nil
   end
 
   def cache_key
