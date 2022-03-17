@@ -36,8 +36,6 @@
   
   function getSnippets(guids, query){
     $.post("/snippets.json?", { ids: guids, query: query }, (snips) => {
-      console.log( 'I got a snippet!', snips )
-
       for(var i=0; i<guids.length; i++){
         $("#" + guids[i] + "-snippet").html(snips[ guids[i] ])
       }
@@ -48,7 +46,6 @@
     <% if @query.present? && @snippets && @snippets.keys.present? %>
       var guids = <%= raw(@snippets.keys).to_s %>
       var q = "<%= @query %>"
-      console.log( 'nyahhh ', guids )
       getSnippets(guids, q)
     <% end %>
   })

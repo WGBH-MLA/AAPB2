@@ -47,8 +47,7 @@ class SnippetsController < ApplicationController
           end
 
           unless snippet_view_string
-            # only if no ts found
-
+            # only if no valid ts was found
             caption_file = retrieve_captions(solr_doc.id)
             
             if caption_file.file_present?
@@ -58,13 +57,10 @@ class SnippetsController < ApplicationController
           end
 
           if snippet_view_string
-            # we actually got a snippet and therefore rendered a lil stringy for your browsah
-
-            # init this guid and send
+            # we actually created a snippet string
             snippet_data[this_id] = {}
             snippet_data[this_id] = snippet_view_string
           end
-
         end
 
         return render json: snippet_data
