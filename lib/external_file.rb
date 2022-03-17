@@ -9,15 +9,11 @@ class ExternalFile
     @external_url = external_url
   end
 
-  def file_present?
+  def file_present?(force_check: false)
+    return head_file if force_check
     Rails.cache.fetch(cache_key) do
       # cache our success
-      begin
-        response = HTTParty.head(@external_url)
-        response && response.code == 200
-      rescue Errno::ECONNREFUSED
-        nil
-      end
+      head_file
     end
   end
 
@@ -29,6 +25,15 @@ class ExternalFile
       rescue Errno::ECONNREFUSED
         nil
       end
+    end
+  end
+
+  def head_file
+    begin
+      response = HTTParty.head(@external_url)
+      response && response.code == 200
+    rescue Errno::ECONNREFUSED
+      nil
     end
   end
 

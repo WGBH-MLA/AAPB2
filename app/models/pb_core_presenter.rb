@@ -471,6 +471,7 @@ class PBCorePresenter
     # a PBCore annotation required for AAPB but not coming from AMS or AMS2
     captions = retrieve_captions(id)
     if captions.file_present?
+
       pre_existing = pre_existing_caption_annotation(full_doc)
       pre_existing.parent.elements.delete(pre_existing) if pre_existing
 
@@ -488,7 +489,8 @@ class PBCorePresenter
     if transcript_status
       transcript_file = TranscriptFile.new(id, constructed_transcript_src)
 
-      if transcript_file.file_present?
+      if transcript_file.file_present?(force_check: true)
+
         pre_existing = pre_existing_transcript_annotation(full_doc)
         pre_existing.parent.elements.delete(pre_existing) if pre_existing
         transcript_body = Nokogiri::HTML(transcript_file.html).text.tr("\n", ' ')
