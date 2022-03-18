@@ -48,7 +48,7 @@ class SnippetsController < ApplicationController
 
           unless snippet_view_string
             # only if no valid ts was found
-            caption_file = retrieve_captions(solr_doc.id)
+            caption_file = CaptionFile.retrieve_captions(solr_doc.id)
             
             if caption_file.file_present?
               s = Snippet.new(this_id, terms_array, caption_file.text)

@@ -1,13 +1,4 @@
 module ApplicationHelper
-  def retrieve_captions(id)
-    # expect srt captions
-    caption_file = CaptionFile.new(id, "srt")
-    # but you never know...
-    caption_file = CaptionFile.new(id, "vtt") unless caption_file.file_present?
-
-    caption_file
-  end
-
   def current_page(path)
     return 'current-page' if current_page?(path)
   end

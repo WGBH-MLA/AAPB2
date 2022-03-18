@@ -3,7 +3,7 @@ class CaptionsController < ApplicationController
   # include BlacklightGUIDFetcher
 
   def show
-    caption_file = retrieve_captions(params['id'])
+    caption_file = CaptionFile.retrieve_captions(params['id'])
     raise Blacklight::Exceptions::RecordNotFound unless caption_file.file_present?
 
     respond_to do |format|

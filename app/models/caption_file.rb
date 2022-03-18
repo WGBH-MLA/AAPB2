@@ -8,6 +8,17 @@ class CaptionFile < ::ExternalFile
 
   attr_reader :id, :file_type, :captions_src
 
+  def self.retrieve_captions(id)
+    # expect srt captions
+    caption_file = CaptionFile.new(id, "srt")
+    # but you never know...
+    caption_file = CaptionFile.new(id, "vtt") unless caption_file.file_present?
+
+    caption_file
+  end
+
+
+
   def initialize(id, file_type)
     # ^ pass in the guid and the caption file type you're currently looking for
     @id = normalize_guid(id)

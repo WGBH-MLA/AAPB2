@@ -312,7 +312,7 @@ class PBCorePresenter
     return nil unless transcript_src
     transcript_file = TranscriptFile.new(id, transcript_src)
     return transcript_file.file_content if transcript_file.file_present?
-    caption_file = retrieve_captions(id)
+    caption_file = CaptionFile.retrieve_captions(id)
     return caption_file.json if caption_file.file_present? && caption_file.json
     nil
   end
@@ -325,7 +325,7 @@ class PBCorePresenter
   def transcript_html
     tfile = TranscriptFile.new(id, transcript_src) if transcript_src
     return tfile.html if tfile && tfile.file_present?
-    captions = retrieve_captions(id)
+    captions = CaptionFile.retrieve_captions(id)
     return captions.html if captions.file_present?
     nil
   end
@@ -469,7 +469,7 @@ class PBCorePresenter
 
     # This verifies that there is a corresponding file on S3 and adds
     # a PBCore annotation required for AAPB but not coming from AMS or AMS2
-    captions = retrieve_captions(id)
+    captions = CaptionFile.retrieve_captions(id)
     if captions.file_present?
 
       pre_existing = pre_existing_caption_annotation(full_doc)

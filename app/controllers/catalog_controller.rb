@@ -246,7 +246,7 @@ class CatalogController < ApplicationController
         @exhibits = @pbcore.top_exhibits
         @skip_orr_terms = can? :skip_tos, @pbcore
 
-        @captions = retrieve_captions(@pbcore.id)
+        @captions = CaptionFile.retrieve_captions(@pbcore.id)
 
         if can? :play, @pbcore
           # can? play because we're inside this block
