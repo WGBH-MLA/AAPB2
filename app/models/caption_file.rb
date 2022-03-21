@@ -17,8 +17,6 @@ class CaptionFile < ::ExternalFile
     caption_file
   end
 
-
-
   def initialize(id, file_type)
     # ^ pass in the guid and the caption file type you're currently looking for
     @id = normalize_guid(id)
