@@ -1,19 +1,13 @@
 class CaptionsController < ApplicationController
   include Blacklight::Catalog
-  include BlacklightGUIDFetcher
+  # include BlacklightGUIDFetcher
 
   def show
-    # From BlacklightGUIDFetcher
-    # Need to use for proper routing
-    @response, @document = fetch_from_blacklight(params['id'])
-
-    # we have to rescue from this in fetch_from_blacklight to run through all guid permutations, so throw it here if we didnt find anything
-    raise Blacklight::Exceptions::RecordNotFound unless @document
-
-    pbcore = PBCorePresenter.new(@document['xml'])
-    caption_file = CaptionFile.new(pbcore.id)
+    caption_file = CaptionFile.retrieve_captions(params['id'])
+    raise Blacklight::Exceptions::RecordNotFound unless caption_file.file_present?
 
     respond_to do |format|
+      # we only use .vtt here, but technically could be resource for someone external to AAPB
       format.html do
         @captions_html = caption_file.html
         render

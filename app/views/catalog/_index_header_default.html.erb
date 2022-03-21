@@ -42,22 +42,11 @@
 
             <p style="margin-bottom: 2%;"><%= truncate(pbcore.display_descriptions.first[1], length: 500) + ( "..." if pbcore.display_descriptions.first[1].length > 500) %></p>
 
-            <!-- only one of these will show up v -->
-            <% if @snippets[pbcore.id][:caption] %>
-              <span class="index-data-title">From Closed Caption</span>:
-              <p><%= @snippets[pbcore.id][:caption] %></p>
-            <% end %>
 
-            <% if @snippets[pbcore.id][:transcript] %>
-              <span class="index-data-title">From Transcript</span>:
-              <p style="margin-top: 0;"><%= @snippets[pbcore.id][:transcript] %>
 
-                <% if @snippets[pbcore.id][:transcript_timecode_url] %>
-                  <a href="<%= @snippets[pbcore.id][:transcript_timecode_url] %>">
-                  <button type="button" class="btn btn-default snippet-link"><%= pbcore.media_type == 'Moving Image' ? "Watch" : "Listen" %> from here</button>
-                  </a>
-                <% end %>
-              </p>
+            <% if @snippets[pbcore.id] %>
+              <!-- hl match was found -->
+              <span id="<%= pbcore.id %>-snippet" />
             <% end %>
 
           </article>

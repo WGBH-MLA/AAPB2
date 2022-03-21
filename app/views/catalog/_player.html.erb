@@ -39,7 +39,7 @@
               <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'application/x-mpegURL' : 'audio/mp3' %>'>
 
 
-              <% unless CaptionFile.new(@pbcore.id).captions_src.nil? %>
+              <% if @captions.file_present? %>
                 <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
               <% end %>
               <% if ChapterFile.file_present?(@pbcore.id) %>

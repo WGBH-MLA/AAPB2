@@ -3,7 +3,6 @@ require_relative '../../lib/aapb'
 class CatalogController < ApplicationController
   include Blacklight::Catalog
   include ApplicationHelper
-  include SnippetHelper
   include BlacklightGUIDFetcher
 
   # allows usage of default_processor_chain v
@@ -194,8 +193,8 @@ class CatalogController < ApplicationController
     # Cleans up user query for manipulation of caption text in the view.
 
     # pull this out because we're going to mutate it inside terms_array method
-    query = params[:q].dup
-    @terms_array = query_to_terms_array(query)
+    @query = params[:q].dup
+    @terms_array = query_to_terms_array(@query)
 
     if !params[:f] || !params[:f][:access_types]
       # Sets Access Level
@@ -205,7 +204,7 @@ class CatalogController < ApplicationController
     end
 
     # check whether we have enough search results to get to the page specified, if not, go to page 1
-    if params[:page]
+    if params[:page] && params[:page].to_i > 1
       per_page = params[:per_page] ? params[:per_page].to_i : 10
 
       # ensure we have enough records to fill to previous page + 1
@@ -219,56 +218,25 @@ class CatalogController < ApplicationController
     end
 
     # mark results for captions and transcripts
-    matched_in_text_field = @document_list.first.response['highlighting'] if @document_list.try(:first)
+    if @document_list && @document_list.first
+      text_field_match_guids = @document_list.first.response['highlighting'].keys.map { |guid| normalize_guid(guid) }
+    end
 
     # we got some dang highlit matches
-    if matched_in_text_field.try(:keys).try(:present?)
-      # overrwrite ids from solr with normalized ids
-      fixed_matches = {}
-      # value is unused because the presence of the guid as a key is what indicates the match
-      matched_in_text_field.map { |k, _v| fixed_matches[normalize_guid(k)] = {} }
+    if text_field_match_guids
       @snippets = {}
-
-      @document_list.each do |solr_doc|
-        this_id = normalize_guid(solr_doc[:id])
-
-        # only respond if highlighting set has this guid
-        next unless fixed_matches[this_id]
-
-        caption_file = CaptionFile.new(solr_doc.id)
-        @snippets[this_id] = {}
-
-        # check for transcript/caption anno
-        if solr_doc.transcript?
-
-          # put it here!
-          transcript_file = TranscriptFile.new(solr_doc.transcript_src)
-          if transcript_file.file_type == TranscriptFile::JSON_FILE && !transcript_file.content.empty?
-
-            ts = TimecodeSnippet.new(this_id, @terms_array, transcript_file.plaintext, JSON.parse(transcript_file.content)["parts"])
-
-            @snippets[this_id][:transcript] = ts.snippet
-            @snippets[this_id][:transcript_timecode_url] = ts.url_at_timecode
-          elsif transcript_file.file_type == TranscriptFile::TEXT_FILE
-
-            ts = Snippet.new(this_id, @terms_array, transcript_file.plaintext)
-            @snippets[this_id][:transcript] = ts.snippet
-          end
-
-        end
-
-        unless caption_file.captions_src.nil?
-          s = Snippet.new(this_id, @terms_array, caption_file.text)
-          @snippets[this_id][:caption] = s.snippet
-        end
+      text_field_match_guids.each do |guid|
+        # store a true so that we can do the ajax
+        this_id = normalize_guid(guid)
+        @snippets[this_id] = true
       end
     end
   end
 
   def show
     # From BlacklightGUIDFetcher
-    @response, @document = fetch_from_blacklight(params['id'])
-    # we have to rescue from this in fetch_from_blacklight to run through all guid permutations, so throw it here if we didnt find anything
+    @response, @document = fetch_from_solr(params['id'])
+    # we have to rescue from this in fetch_from_solr to run through all guid permutations, so throw it here if we didnt find anything
     raise Blacklight::Exceptions::RecordNotFound unless @document
 
     xml = @document['xml']
@@ -277,6 +245,8 @@ class CatalogController < ApplicationController
         @pbcore = PBCorePresenter.new(xml)
         @exhibits = @pbcore.top_exhibits
         @skip_orr_terms = can? :skip_tos, @pbcore
+
+        @captions = CaptionFile.retrieve_captions(@pbcore.id)
 
         if can? :play, @pbcore
           # can? play because we're inside this block

@@ -31,3 +31,22 @@
     <%= render 'search_results' %>
   <% end %>
 </div>
+
+<script type="text/javascript">
+  
+  function getSnippets(guids, query){
+    $.post("/snippets.json?", { ids: guids, query: query }, (snips) => {
+      for(var i=0; i<guids.length; i++){
+        $("#" + guids[i] + "-snippet").html(snips[ guids[i] ])
+      }
+    })
+  }
+
+  $(document).ready(function() {
+    <% if @query.present? && @snippets && @snippets.keys.present? %>
+      var guids = <%= raw(@snippets.keys).to_s %>
+      var q = "<%= @query %>"
+      getSnippets(guids, q)
+    <% end %>
+  })
+</script>
