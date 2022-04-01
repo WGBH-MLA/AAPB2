@@ -266,11 +266,11 @@ h3.exhibit-title {
 #exhibit-section-menu {
   font-size: 16px;
   padding: 2%;
-  width: 90%;
   background-color: #fff;
-  position: absolute;
   border: 1px solid #ccc;
-  z-index: 1;
+  z-index: 1000;
+  position: absolute;
+  width: 90%;
 
   ul, li {
     background-color: #fff !important;
@@ -501,8 +501,19 @@ li.small-font {
 }
 
 .exhibit-records-link {
+  width:  100%;
+  position: absolute;
   padding: 2%;
   margin-bottom: 5%;
+}
+
+.exhibit-records-link a {
+  display: block;
+}
+
+.exhibit-records-icon {
+  top: 0.4em;
+  position: absolute;
 }
 
 .exhibit-records {
@@ -584,6 +595,18 @@ a.exhibit-records:link, a.exhibit-records:visited, a.exhibit-records-section:lin
 }
 
 @media only screen and (max-width: 991px) {
+  #exhibit-section-menu {
+    width: 98%;
+  }
+  .exhibit-records-icon {
+    top: 0.8em;
+    position: absolute;
+  }
+
+  .exhibit-records-link {
+    width: 98%;
+    margin-top: 8%;
+  }
 
   #exhibit-overview-title {
     margin-top: 8%;
