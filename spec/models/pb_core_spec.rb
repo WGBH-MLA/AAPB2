@@ -693,5 +693,42 @@ describe 'Validated and plain PBCore' do
         expect(PBCorePresenter.new(pbc_alternative_title).title).to eq('This Title is Alternative')
       end
     end
+
+    describe '#constructed_transcript_src' do
+      let(:xml) { File.read('spec/fixtures/pbcore/clean-MOCK.xml') }
+      let(:pbcore_presenter) { PBCorePresenter.new(xml) }
+
+      context 'when the transcript JSON file is there' do
+        before do
+          allow_any_instance_of(PBCorePresenter).to receive(:verify_transcript_src).with(/json/).and_return(true)
+          allow_any_instance_of(PBCorePresenter).to receive(:verify_transcript_src).with(/txt/).and_return(false)
+        end
+
+        it 'returns the URL for the JSON transcript' do
+          expect(pbcore_presenter.constructed_transcript_src).to match(/json/)
+        end
+      end
+
+      context 'when the transcript TXT file is there' do
+        before do
+          allow_any_instance_of(PBCorePresenter).to receive(:verify_transcript_src).with(/json/).and_return(false)
+          allow_any_instance_of(PBCorePresenter).to receive(:verify_transcript_src).with(/txt/).and_return(true)
+        end
+
+        it 'returns the URL for the TXT transcript' do
+          expect(pbcore_presenter.constructed_transcript_src).to match(/txt/)
+        end
+      end
+
+      context 'when neither JSON or TXT transcript file is there' do
+        before do
+          allow_any_instance_of(PBCorePresenter).to receive(:verify_transcript_src).with(any_args).and_return(false)
+        end
+
+        it "returns nil" do
+          expect(pbcore_presenter.constructed_transcript_src).to eq(nil)
+        end
+      end
+    end
   end
 end

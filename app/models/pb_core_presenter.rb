@@ -188,11 +188,13 @@ class PBCorePresenter
       # transcript guids are expected to have -
       trans_id = normalize_guid(id)
 
-      # check if s3 transcript is a json or txt
-      %w(json txt).each do |ext|
-        url = %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.#{ext})
-        return url if verify_transcript_src(url)
+      # Map 'json' and 'txt' file extensions to full transcript URLs to look for.
+      urls = %w(json txt).map do |ext|
+        %(https://s3.amazonaws.com/americanarchive.org/transcripts/#{trans_id}/#{trans_id}-transcript.#{ext})
       end
+
+      # Return the first verified URL; nil if none can be verified.
+      urls.detect { |url| verify_transcript_src(url) }
     end
   end
   def verify_transcript_src(url)
