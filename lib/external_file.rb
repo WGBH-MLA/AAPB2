@@ -1,7 +1,10 @@
 require_relative "../app/helpers/id_helper"
+require 'httparty'
 
 class ExternalFile
   include IdHelper
+
+  attr_reader :guid, :type, :external_url
 
   def initialize(type, guid, external_url)
     @type = type
@@ -10,18 +13,18 @@ class ExternalFile
   end
 
   def file_present?(force_check: false)
-    return head_file if force_check
+    Rails.cache.delete(cache_key) if force_check
     Rails.cache.fetch(cache_key) do
       # cache our success
       head_file
     end
   end
 
+  # TODO: cache this too
   def file_content
     if file_present?
       @file_content ||= begin
-        # open(@external_url).read
-        HTTParty.get(@external_url).body
+        HTTParty.get(external_url).body
       rescue Errno::ECONNREFUSED
         nil
       end
@@ -29,13 +32,15 @@ class ExternalFile
   end
 
   def head_file
-    response = HTTParty.head(@external_url)
+    response = HTTParty.head(external_url)
     response && response.code == 200
-  rescue Errno::ECONNREFUSED
-    nil
+  rescue => error
+    # Log the error, return false, but don't fail.
+    Rails.logger.error("#{error.class}: #{error.message}")
+    false
   end
 
   def cache_key
-    "#{@type}/#{@guid}"
+    "#{type}/#{guid}"
   end
 end
