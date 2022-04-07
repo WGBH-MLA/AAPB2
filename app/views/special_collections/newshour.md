@@ -28,6 +28,7 @@ Visit our [Tribute to Jim Lehrer](https://americanarchive.org/a-tribute-to-jim-l
 - [*PBS NewsHour*](https://www.pbs.org/newshour/)
 - [History of *PBS NewsHour*](https://www.pbs.org/newshour/about/history)
 - [“Gavel-to-Gavel": The Watergate Scandal and Public Television exhibit](http://americanarchive.org/exhibits/watergate)
+- [Burniing with a Deadly Heat: NewsHour Coverage of the Hot Wars of the Cold War exhibit](https://americanarchive.org/exhibits/newshour-cold-war)
 - [Preserving Public Broadcasting at 50 Years – Event at the Library of Congress (video recording)](https://www.youtube.com/watch?v=cHsceZqsH2M&t=)
 
 ## Funders
