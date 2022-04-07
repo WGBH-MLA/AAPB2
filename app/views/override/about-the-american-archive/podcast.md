@@ -4,6 +4,37 @@
 In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 </div>
 
+### Episode 08: *In Black America* with John L. Hanson, Jr.
+April 7, 2022
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0s2ZB2vSE1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The eighth episode of “Presenting the Past” features John L. Hanson, Jr., producer and host since 1980 of the nationally syndicated radio and podcast interview series *In Black America* at KUT Radio in Austin, Texas. In 2019, KUT received a Recordings at Risk grant from the Council on Library and Information Resources (CLIR) to digitize, preserve and make available in the AAPB 745 episodes of the series. *In Black America*, which began in 1970 and continues to be broadcast weekly, features hundreds of interviews with influential members of the black community in conversation about issues and topics pertaining to Black America, including education, style, economics, social issues, families, culture, literature, and politics. In this episode, Hanson talks about his long career in radio and his work as producer and host of the series.
+
+Credits:<br>
+Recorded and edited by Christine Becker<br>
+Produced by Ryn Marchese<br>
+Post-production and theme music by Todd Thompson<br>
+
+<div>
+  <span>Content mentioned in this episode:</span><br>
+  <ul class="override" style="margin-top: 0.1em;">
+     <li><a href=http://www.aca-media.org>Aca-Media</a>, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</li> 
+    <li><a href=https://americanarchive.org/special_collections/kut-in-black-america</a><em>In Black America</em> Collection</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip_529-xk84j0cd8p</a><em>In Black America</em>; Yolanda King: Understanding the Black Freedom Struggle</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-529-r20rr1qx50</a><em>In Black America</em>; A Musical Tribute to Muddy Waters</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip_529-w37kp7w48x</a><em>In Black America</em>; Lerone Bennett Jr. and Dennis Schatzman</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-529-1z41r6p44q</a><em>In Black America</em>; Black Head Coaches: The Number Is Small</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-529-8w3804zr04</a><em>In Black America</em>; Gordon Parks Sr.</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip-529-ff3kw58q4g</a><em>In Black America</em>; Prostate Cancer with Dr. John Tuttle</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip_529-zw18k76d1d</a><em>In Black America</em>; Smart Money Moves for African Americans</li>
+    <li><a href=https://americanarchive.org/catalog/cpb-aacip_529-hh6c24rx0m</a><em>In Black America</em>; Economic Rights as Civil Rights, Part 2</li> 
+  </ul>
+</div>
+
+*Note: The interviews with Aretha Franklin and Maynard Jackson mentioned in the podcast were not preserved in the CLIR digitization project.*
+
+
 ### Episode 07: Documentary Filmmaking with Jean Walkinshaw
 February 1, 2022
 
