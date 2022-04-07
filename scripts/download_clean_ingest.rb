@@ -1,11 +1,7 @@
-require_relative '../lib/rails_stub'
-require_relative '../app/models/exhibit'
+require ::File.expand_path('../../config/environment', __FILE__)
 require_relative 'lib/downloader'
 require_relative 'lib/cleaner'
 require_relative 'lib/pb_core_ingester'
-require 'logger'
-require 'rake'
-require 'active_support/core_ext/string'
 
 class Exception
   def short
