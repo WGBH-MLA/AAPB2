@@ -25,7 +25,7 @@
 
 - [The Great Depression, PBS](https://www.pbs.org/wgbh/americanexperience/features/dustbowl-great-depression/)
 - [<em>The Great Depression Interviews</em>, Washington University in St. Louis Library](http://digital.wustl.edu/greatdepression/index.html)
-- [<em>The Great Depression</em> teaching materials, Library of Congress](http://www.loc.gov/teachers/classroommaterials/themes/great-depression/)
+- [<em>The Great Depression</em> classroom materials, Library of Congress](https://www.loc.gov/classroom-materials/great-depression-and-the-present-day/)
 - [Great Depression & New Deal, FDR Library](https://fdrlibrary.org/great-depression-new-deal)
 - [<em>American Life Histories: Manuscripts from the Federal Writers’ Project, 1936-1940</em>, Library of Congress](https://www.loc.gov/collections/federal-writers-project/about-this-collection/)
 - [The Great Depression, Amistad Digital Resource](http://www.amistadresource.org/plantation_to_ghetto/the_great_depression.html)
