@@ -24,7 +24,7 @@ The <em>Rock & Roll</em> series is a co-production of WGBH and the BBC, original
 ## Resources
 
 - [Rock & Roll Special Collection, Open Vault](http://openvault.wgbh.org/collections/rock_roll/interviews)
-- [Rock & Roll Hall of Fame, Library and Archives](https://library.rockhall.com/home/resources/browse_collections)
+- [Rock & Roll Hall of Fame, Library and Archives](https://library.rockhall.com/archival_collections)
 - [Rock and Roll, Smithsonian Institution](https://www.si.edu/spotlight/rock-and-roll)
 - [Chicago Jazz Archive, The University of Chicago](https://www.lib.uchicago.edu/collex/collections/chicago-jazz-archive/)
 
