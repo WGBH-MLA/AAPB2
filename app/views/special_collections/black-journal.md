@@ -27,7 +27,7 @@ The <em>Black Journal</em> Collection features episodes from the <em>Black Journ
 
 - [Black Power, National Archives](https://www.archives.gov/research/african-americans/black-power)
 - [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement)
-- [Black Diaspora Archive, University of Texas at Austin](https://sites.utexas.edu/bda/collaborators/)
+- [Black Diaspora Archive, University of Texas at Austin](https://sites.utexas.edu/bda/collections/)
 - [The Black Panther Party, National Archives](https://www.archives.gov/research/african-americans/black-power/black-panthers) 
 - [The Malcolm X Collection, New York Public Library](http://archives.nypl.org/scm/21896)
 - [Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*](https://americanarchive.org/exhibits/black-power)
