@@ -46,6 +46,7 @@ Image - Línea Abierta founding team. Back row (left to right):  Armando Valdez,
 - [Línea Abierta](http://radiobilingue.org/en/rb-programas/linea-abierta-2/)   
 - [Radio Bilingüe](http://radiobilingue.org/) 
 - [“Looking Back on the Lesser-Known Histories of ‘Chicano Public Radio’” (Current)](https://current.org/2019/07/looking-back-on-the-lesser-known-histories-of-chicano-public-radio/?wallit_nosession=1) 
+- [Latino Empowerment through Public Broadcasting exhibit](https://americanarchive.org/exhibits/latino-empowerment)
 - *Presenting the Past*; Latino Empowerment through Public Broadcasting (AAPB podcast): [Part 1 with Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín](https://www.youtube.com/watch?v=plgw01pPzTc&feature=emb_title) and [Part 2 with Hugo Morales, Executive Director and co-founder of Radio Bilingüe](https://www.youtube.com/watch?v=ugmdotW_GQ0)
 
 ## Funders
