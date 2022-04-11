@@ -31,6 +31,7 @@ Founded in 1968 by filmmaker Henry Hampton (1940-1998), Blackside, Inc. has prod
 - [The Civil Rights Act of 1964: A Long Struggle For Freedom, Library of Congress](https://www.loc.gov/exhibits/civil-rights-act/)
 - [AAPB Exhibit: Voices from the Southern Civil Rights Movement](http://americanarchive.org/exhibits/civil-rights)
 - [Freedom Story Map](https://loc.maps.arcgis.com/apps/Cascade/index.html?appid=4d76cf42caf84b069b0e0235b6996efd)
+- [*Presenting the Past*; Eyes on the Prize with Michelle Kelley, PhD (AAPB podcast)](https://www.youtube.com/watch?v=14e5qV4jL04)
 
 ## Funders
 
