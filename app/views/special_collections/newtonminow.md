@@ -36,6 +36,7 @@ Trained as an attorney, Newton Minow was appointed as FCC Chairman by President 
 - [The Scathing Speech That Made Television History, TIME](https://time.com/4315217/newton-minow-vast-wasteland-1961-speech/)
 - [Newton N. Minow Named 2016 PBS “Be More” Award Recipient](https://www.pbs.org/about/blogs/news/newton-n-minow-named-2016-pbs-be-more-award-recipient/)
 - [Preserving Public Broadcasting at 50 Years](https://www.youtube.com/watch?v=cHsceZqsH2M&feature=youtu.be&t=1549)
+- [*Presenting the Past*; Broadcasting in the Public Interest with Newton Minow, former Chair of the Federal Communications Commission (AAPB podcast)](https://www.youtube.com/watch?v=qVeUFF0-LjQ)
 - [NET Special Collection, American Archive of Public Broadcasting]( https://americanarchive.org/special_collections/net-catalog)
 - [Excerpt of Minow’s “Television in the Public Interest” speech](https://americanarchive.org/catalog/cpb-aacip_500-kw57jd6j#at_1499.227276_s)
 
