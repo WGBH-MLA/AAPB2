@@ -26,6 +26,7 @@ In 2019 KUT in collaboration with WGBH and the Library of Congress was awarded a
 ## Resources
 
 - [<em>In Black America</em>, KUT](https://www.kut.org/term/black-america)
+- [*Presenting the Past*; *In Black America* with John L. Hanson, Jr. (AAPB podcast)](https://www.youtube.com/watch?v=0s2ZB2vSE1Y)
 - [KUT](https://www.kut.org/)
 - [<em>Voices from the Southern Civil Rights Movement</em>, AAPB Exhibit]( https://americanarchive.org/exhibits/civil-rights)
 - [<em>Say Brother</em> Special Collection, AAPB](https://americanarchive.org/special_collections/say-brother)
