@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ $1 = "dev" -o $1 = "d" ]; then
+  shift
+  docker run -it -p 3000:3000 -v $(pwd):/usr/src/app/ aapb "$@"
+  
+elif [ $1 = "build" -o $1 = "b" ]; then
+    shift
+    docker build -t aapb . "$@"
+fi
+  
