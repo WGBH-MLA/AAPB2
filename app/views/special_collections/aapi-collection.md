@@ -32,7 +32,7 @@ Photo: Poster “We Belong Here” by Amanda Phingbodhipakkiya, 2021. Library of
 - [Center for Asian American Media](https://caamedia.org/)
 - [Asian Pacific American Heritage Month](https://asianpacificheritage.gov/)
 - [National Archives: Asian American and Pacific Islander Month](https://www.archives.gov/news/topics/asian-pacific-american-heritage-month)
-- - [Stop AAPI Hate](https://stopaapihate.org/)
+- [Stop AAPI Hate](https://stopaapihate.org/)
 - [Asian American Pacific Islander Collection at the Library of Congress](https://guides.loc.gov/asian-collections/asian-american-pacific-islander-collection)
 - [AAPI Community COVID Archival Project](https://www.aapicovidarchive.org/)
 
