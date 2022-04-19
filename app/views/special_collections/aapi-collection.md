@@ -27,7 +27,7 @@ Photo: Poster “We Belong Here” by Amanda Phingbodhipakkiya, 2021. Library of
 [![Asian-American Women Vs. The Women’s Movement](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-28-4b2x34mw7s)
 [![Southeast Asians: An American Success Story](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_221-644qrs3t.jpg)](/catalog/cpb-aacip_221-644qrs3t)
 
-## Other Resources
+## Resources
 
 - [Center for Asian American Media](https://caamedia.org/)
 - [Asian Pacific American Heritage Month](https://asianpacificheritage.gov/)
