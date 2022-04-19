@@ -44,9 +44,7 @@ At KCET, Treviño organized the Spanish-surnamed employees from the station to s
 
 Because the six episodes of [*Acción Chicano* in the AAPB collection](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Accion+Chicano&sort=title+asc) contain extensive theatrical and musical performances, or documentaries that currently are available for sale, AAPB had made the full programs available only for [onsite viewing at the Library of Congress and GBH](https://americanarchive.org/on-location). You can see a brief documentary about public murals in Los Angeles from an Acción Chicano episode on Chicano artists below:
 
-<iframe src="https://player.vimeo.com/video/641601494?h=12c6d8decc" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-&nbsp;
+<iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/641601494?h=12c6d8decc" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 #### [*Realidades*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Realidades&sort=asset_date+asc)
 
@@ -72,11 +70,11 @@ Luis Valdez founded El Teatro Campesino in the fields of Delano, California, dur
 
 Prior to the formation of PBS, National Educational Television (NET) broadcast two programs devoted to the early years of El Teatro Campesino. In 1969, the *Public Broadcast Laboratory* broadcast a special program from Santa Barbara in which the host explains the origins of El Teatro Campesino and presents an act accompanied by a voiced-over English translation. View an excerpt from this program featuring Luis Valdez:
 
-<iframe src="https://player.vimeo.com/video/641601926?h=ec42410477" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/641601926?h=ec42410477" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 In 1970, *NET Playhouse* presented a documentary on El Teatro Campesino, including interviews with Valdez, musical numbers, a satirical skit, a puppet show, an excerpt from a play, and an ancient rebirthing ceremony performed in a cemetery. View an excerpt from this program:
 
-<iframe src="https://player.vimeo.com/video/641601592?h=eded000f2d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/641601592?h=eded000f2d" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 #### [*La Plaza*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=La+Plaza&sort=asset_date+asc)

@@ -37,7 +37,7 @@ When the digitization project is complete, users will have access to interviews 
 
 Produced by Kenneth Campbell, documentary film artist, as part of the Library of Congress/Howard University Archives, History, and Heritage Advanced Internship (AHHA) program, the following is a 20-minute highlights reel entitled "Freedom Song" of excerpts from *Eyes I* interviews as an introduction to this exhibit and the collection.
 
-<iframe src="https://player.vimeo.com/video/514298975" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/514298975" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### AAPB Podcast
 
@@ -45,7 +45,7 @@ In an episode of AAPB’s ["Presenting the Past"](https://americanarchive.org/ab
 
 <i>Eyes on the Prize</i> with Michelle Kelley, PhD
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/14e5qV4jL04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="exhibit-small-iframe" width="640" height="360" src="https://www.youtube.com/embed/14e5qV4jL04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Next: [*Eyes on the Prize*: Framing the Civil Rights Past](/exhibits/eotp/1-framing-civil-rights-past.md)
 

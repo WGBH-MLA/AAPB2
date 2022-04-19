@@ -26,7 +26,7 @@ The interactive map identifies some of the places where civil rights history was
 
 To find *Eyes on the Prize* interviews pertinent to a specific place, navigate to it on the map or conduct a search in the “Search by Place” box in the top left corner of the map. Once you narrow in to a location of interest, click the “Expand Gallery” icon in the bottom right corner of the map to select interviews in which that place is discussed. Click on an interview record to see a description of the place that notes its significance for the Civil Rights Movement, and below the description you can click the link to view the interview on the AAPB website.   
 
-<iframe frameborder="0" allowfullscreen src="https://www.historypin.org/en/locations-from-eyes-on-the-prize/geo/36.084621,-82.617188,6/bounds/27.897348,-101.722413,43.500752,-63.511963/paging/1"></iframe> 
+<iframe class="exhibit-small-iframe" frameborder="0" allowfullscreen src="https://www.historypin.org/en/locations-from-eyes-on-the-prize/geo/36.084621,-82.617188,6/bounds/27.897348,-101.722413,43.500752,-63.511963/paging/1"></iframe> 
 
 
 #### Next: [A People’s History: Interview Subjects](/exhibits/eotp/5-interview-subjects/)
