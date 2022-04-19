@@ -17,10 +17,6 @@ class HtmlScrubber
                   .split("\n").map(&:strip).join("\n").strip
 
     # strip at ends of lines, then replace consecutive whitespace w/ 1 space
-    if dirtay =~ /\/\w+/
-      # Angle-brackets stripped, so be more aggressive
-      dirtay = dirtay.gsub(/\w+=\S+/, ' ')
-    end
 
     dirtay = dirtay.gsub(/[ \t]+/, ' ')
                    .gsub(/\n( ?\n)+/, "\n")
