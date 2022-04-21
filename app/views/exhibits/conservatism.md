@@ -51,7 +51,7 @@ In an episode of AAPB’s ["Presenting the Past"](https://americanarchive.org/ab
 
 *Content warning: this archival content contains descriptions of violence and racial slurs.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3bZP-giVJOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="exhibit-small-iframe" width="640" height="480" src="https://www.youtube.com/embed/3bZP-giVJOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Next: [*The Politics of NET*](/exhibits/conservatism/politics-net)
 
