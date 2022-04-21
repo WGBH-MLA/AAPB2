@@ -44,17 +44,17 @@ Records are described at an item level and all records contain brief description
 
 ## Terms
 
-- [Asian Americans](/catalog?q=%22This+item+is+part+of+the+Asian+Americans+section+of+the+AAPI+special+collection.%22&utf8=%E2%9C%93&f[access_types][]=online)
-- [Chinese Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Chinese+Americans+section+of+the+AAPI+special+collection.%22)
-- [Filipino Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Filipino+Americans+section+of+the+AAPI+special+collection.%22)
-- [Hmong Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Hmong+Americans+section+of+the+AAPI+special+collection.%22)
-- [Southeast Asian Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Southeast+Asian+Americans+section+of+the+AAPI+special+collection.%22)
-- [Japanese Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Japanese+Americans+section+of+the+AAPI+special+collection.%22)
-- [Korean Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Korean+Americans+section+of+the+AAPI+special+collection.%22)
-- [Pacific Islanders](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Pacific+Islanders+section+of+the+AAPI+special+collection.%22)
-- [South Asian Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+South+Asian+Americans+section+of+the+AAPI+special+collection.%22)
-- [Taiwanese Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Taiwanese+Americans+section+of+the+AAPI+special+collection.%22)
-- [Vietnamese Americans](/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Vietnamese+Americans+section+of+the+AAPI+special+collection.%22)
+- [Asian Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Asian+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Chinese Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Chinese+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Filipino Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Filipino+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Hmong Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Hmong+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Southeast Asian Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Southeast+Asian+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Japanese Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Japanese+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Korean Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Korean+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Pacific Islanders](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Pacific+Islanders+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [South Asian Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+South+Asian+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Taiwanese Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Taiwanese+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
+- [Vietnamese Americans](/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+item+is+part+of+the+Vietnamese+Americans+section+of+the+AAPI+special+collection.%22&sort=asset_date+asc)
 
 ## Timeline
 
