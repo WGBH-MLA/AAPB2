@@ -45,6 +45,14 @@ In sum, what emerges across the episodes in this exhibit is a diversity in both 
 
 In addition, the NET programs provide a complex view into how public media tried to make sense of the conservative movement in this period when, as per Parmentel, its future was unclear. Taken together, there is no singular view of conservatism on offer in the broadcasts in this exhibit. While, in *The American Conservative*, Clinton Rossiter traced the history of US conservatism to the nation’s founding, other telecasts positioned contemporary manifestations of the right as threats to democracy and liberty. Though the conversations that took place across the *Conservative Viewpoint* series uncovered the intellectual foundations of conservatism, other broadcasts cast suspicions on the intellectual acumen of conservative political figures rising to national prominence. If some NET shows legitimated conservatism as a serious intellectual and political movement, others signaled that particular iterations of the right were harbingers of disaster for American democracy.
 
+### AAPB Podcast
+
+In an episode of AAPB’s ["Presenting the Past"](https://americanarchive.org/about-the-american-archive/podcast) podcast series, produced in collaboration with the Society for Cinema and Media Studies’ Aca-Media podcast, exhibit curator Allison Perlman discusses NET programs created to educate the audience on the modern Conservatism party in the 1960s. Perlman also provides background on NET, leading up to the Public Broadcasting Act of 1967.
+
+*Content warning: this archival content contains descriptions of violence and racial slurs.*
+
+<iframe class="exhibit-small-iframe" width="640" height="480" src="https://www.youtube.com/embed/3bZP-giVJOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Next: [*The Politics of NET*](/exhibits/conservatism/politics-net)
 
 ## Cover
