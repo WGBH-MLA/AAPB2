@@ -15,12 +15,12 @@ The show’s host, Rebecca Bain, was employed by Nashville’s WPLN for 30 years
 
 ## Featured
 
-[![Augusten Burroughs](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain_thumbnail.png)](/catalog/cpb-aacip-3aa3f68ab55)
-[![Bill Bryson??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain_thumbnail.png)](/catalog/cpb-aacip-3aa3f68ab55)
-[![Ann Patchett??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain_thumbnail.png)](/catalog/cpb-aacip-3aa3f68ab55)
-[![Elizabeth Gilbert](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain_thumbnail.png)](/catalog/cpb-aacip-43e61c1734d)
-[![Mo Willems](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain_thumbnail.png)](/catalog/cpb-aacip-46b137a5ed7)
-[![Sue Grafton??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain_thumbnail.png)](/catalog/cpb-aacip-46b137a5ed7)
+[![Augusten Burroughs](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
+[![Bill Bryson??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
+[![Ann Patchett??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
+[![Elizabeth Gilbert](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-43e61c1734d)
+[![Mo Willems](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-46b137a5ed7)
+[![Sue Grafton??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-46b137a5ed7)
 
 ## Resources
 
