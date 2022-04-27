@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>The Fine Print with Rebecca Bain</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/INFLECT_new_avatar_green+1400_72.jpg "The Fine Print with Rebecca Bain") *will update image*
+![<em>The Fine Print with Rebecca Bain</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain.png "The Fine Print with Rebecca Bain")
 
 ## Summary
 
@@ -15,16 +15,12 @@ The show’s host, Rebecca Bain, was employed by Nashville’s WPLN for 30 years
 
 ## Featured
 
-[![Daniela Petruzalek](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-703ca69033e)
-
--	WPLN The Fine Print; The Fine Print, Program 06-21 Guest Augusten Burroughs Book Possible Side Effects ; The Fine Print with Rebecca Bain May 27 & 28, 2006
--	Program-01-03-Guest-Bill-Bryson-Book-In-A-Sunburned-Country
--	Program-01-11-Guest-Ann-Patchett-Book-Bel-Canto
--	WPLN The Fine Print; The Fine Print, Promo 06-16 Guest Elizabeth Gilbert Book Eat Pray Love; The Fine Print with Rebecca Bain April 22 & 23, 2006
--	WPLN The Fine Print; The Fine Print, Program 06-15 Guest Mo Willems Book Dont Let the Pigeon Stay Up Late ; The Fine Print with Rebecca Bain April 15 & 16, 2006
--	Program-99-13-Guest-Sue-Grafton-Book-N-Is-for-Noose
---Use Fine Print thumbnail image for each featured episode thumbnail
-
+[![Augusten Burroughs](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
+[![Bill Bryson??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
+[![Ann Patchett??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
+[![Elizabeth Gilbert](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail.jpg)](/catalog/cpb-aacip-43e61c1734d)
+[![Mo Willems](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail.jpg)](/catalog/cpb-aacip-46b137a5ed7)
+[![Sue Grafton??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail.jpg)](/catalog/cpb-aacip-46b137a5ed7)
 
 ## Resources
 
