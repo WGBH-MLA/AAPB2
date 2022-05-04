@@ -5,7 +5,7 @@ In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinem
 </div>
 
 ### Episode 09: Interview with Judy Woodruff and Annette Miller on the *PBS NewsHour*
-April 7, 2022
+May XX, 2022
 
 <iframe width="560" height="315" src="WAITING FOR LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -24,10 +24,10 @@ Transcription by Caroline Mango<br>
   <ul class="override" style="margin-top: 0.1em;">
      <li><a href="http://www.aca-media.org">Aca-Media, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</a></li> 
     <li><a href="/special_collections/newshour"><em>PBS NewsHour</em> Collection</a></li>
-    <li><a href="/exhibits/newshour-cold-war"><em>“Burning with a Deadly Heat”: NewsHour Coverage of the Hot Wars of the Cold War</a></li>
-    <li><a href="/catalog/cpb-aacip-507-tb0xp6vx3b"><em>Shah of Iran interview, aired on November 14, 1977</a></li>
-    <li><a href="/catalog/cpb-aacip-507-f18sb3xj3q"><em>Ayatollah Khomeini interview, aired on December 1, 1978</a></li>
-    <li><a href="/catalog/cpb-aacip-507-br8mc8s289?start=1955.53&end=2448.89"><em>Charles Krause documentary segment in Nicaragua, aired December 26, 1984</a></li>
+    <li><a href="/exhibits/newshour-cold-war">“Burning with a Deadly Heat”: NewsHour Coverage of the Hot Wars of the Cold War</a></li>
+    <li><a href="/catalog/cpb-aacip-507-tb0xp6vx3b">Shah of Iran interview, aired on November 14, 1977</a></li>
+    <li><a href="/catalog/cpb-aacip-507-f18sb3xj3q">Ayatollah Khomeini interview, aired on December 1, 1978</a></li>
+    <li><a href="/catalog/cpb-aacip-507-br8mc8s289?start=1955.53&end=2448.89">Charles Krause documentary segment in Nicaragua, aired December 26, 1984</a></li>
   </ul>
 </div>
 
