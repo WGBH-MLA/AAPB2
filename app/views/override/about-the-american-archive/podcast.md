@@ -5,9 +5,9 @@ In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinem
 </div>
 
 ### Episode 09: Interview with Judy Woodruff and Annette Miller on the *PBS NewsHour*
-May XX, 2022
+May 10, 2022
 
-<iframe width="560" height="315" src="WAITING FOR LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJlTr5yoyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The ninth episode of “Presenting the Past” features Judy Woodruff, anchor and managing editor of the *PBS NewsHour*, and Annette Miller, former Vice President of NewsHour Productions. The *PBS NewsHour* Collection in the AAPB includes nearly 15,000 episodes from October 1975 to September 2019, including two half-hour predecessor programs, *The Robert MacNeil Report* (1975-1976) and *The MacNeil/Lehrer Report* (1976 – 1983), and the two hour-long series that followed, *The MacNeil/Lehrer NewsHour* (1983 – 1995) and *The NewsHour with Jim Lehrer* (1995 – 2009), in addition to the *PBS NewsHour* (2009 - 2019). The programs originally aired nationwide on public television stations, five nights a week; starting in 2013, the series added weekend news coverage. Covering national and worldwide news and public affairs, the programs feature interviews with leading newsmakers including presidents, Supreme Court justices, members of Congress, secretaries of state, and world leaders, in addition to coverage of issues in the news related to education, economics, science, health, and cultural affairs. Funding for the digitization of the collection was generously provided by the Council on Library and Information Resources.
 
