@@ -4,6 +4,33 @@
 In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinema and Media Studies</a> (SCMS), “Presenting the Past” features a series of informed conversations with scholars, educators, industry professionals, researchers, archivists, and others about significant events, issues, and topics documented in the more than 70 years of programming available in the American Archive of Public Broadcasting collection.
 </div>
 
+### Episode 09: Interview with Judy Woodruff and Annette Miller on the *PBS NewsHour*
+May 10, 2022
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MJlTr5yoyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The ninth episode of “Presenting the Past” features Judy Woodruff, anchor and managing editor of the *PBS NewsHour*, and Annette Miller, former Vice President of NewsHour Productions. The *PBS NewsHour* Collection in the AAPB includes nearly 15,000 episodes from October 1975 to September 2019, including two half-hour predecessor programs, *The Robert MacNeil Report* (1975-1976) and *The MacNeil/Lehrer Report* (1976 – 1983), and the two hour-long series that followed, *The MacNeil/Lehrer NewsHour* (1983 – 1995) and *The NewsHour with Jim Lehrer* (1995 – 2009), in addition to the *PBS NewsHour* (2009 - 2019). The programs originally aired nationwide on public television stations, five nights a week; starting in 2013, the series added weekend news coverage. Covering national and worldwide news and public affairs, the programs feature interviews with leading newsmakers including presidents, Supreme Court justices, members of Congress, secretaries of state, and world leaders, in addition to coverage of issues in the news related to education, economics, science, health, and cultural affairs. Funding for the digitization of the collection was generously provided by the Council on Library and Information Resources.
+
+In this episode, Woodruff and Miller talk about the NewsHour’s history and their careers working on the series.
+ 
+Credits:<br>
+Recorded and edited by Christine Becker<br>
+Produced by Alan Gevinson and Casey Davis Kaufman<br>
+Post-production and theme music by Todd Thompson<br>
+Transcription by Caroline Mango<br>
+
+<div>
+  <span>Content mentioned in this episode:</span><br>
+  <ul class="override" style="margin-top: 0.1em;">
+     <li><a href="http://www.aca-media.org">Aca-Media, a podcast offering an academic perspective on media, from the Society for Cinema and Media Studies</a></li> 
+    <li><a href="/special_collections/newshour"><em>PBS NewsHour</em> Collection</a></li>
+    <li><a href="/exhibits/newshour-cold-war">“Burning with a Deadly Heat”: NewsHour Coverage of the Hot Wars of the Cold War</a></li>
+    <li><a href="/catalog/cpb-aacip-507-tb0xp6vx3b">Shah of Iran interview, aired on November 14, 1977</a></li>
+    <li><a href="/catalog/cpb-aacip-507-f18sb3xj3q">Ayatollah Khomeini interview, aired on December 1, 1978</a></li>
+    <li><a href="/catalog/cpb-aacip-507-br8mc8s289?start=1955.53&end=2448.89">Charles Krause documentary segment in Nicaragua, aired December 26, 1984</a></li>
+  </ul>
+</div>
+
 ### Episode 08: *In Black America* with John L. Hanson, Jr.
 April 7, 2022
 
