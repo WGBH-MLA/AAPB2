@@ -8,7 +8,19 @@
     <div class="col-md-6 collection-image">
       <img src="<%= @special_collection.thumbnail_url %>" alt="<%= @special_collection.title %>" aria-hidden="true">
       <%= render partial: 'collection_search' %>
-    </div>
+    <% if !@special_collection.resources.empty? %>
+      <div class="resources-row">
+        <h2>Other Resources</h2>
+        <div class="col-md-12 collection-resources">
+          <ul>
+            <% @special_collection.resources.each do |resource| %>
+                <li><%= link_to resource[0], resource[1], target: "_blank" %></li>
+            <% end %>
+          </ul>
+        </div>
+      </div>
+    <% end %>
+  </div>
     <div class="col-md-6 collection-about-col">
       <div class="collection-about">
         <h2>Collection Summary</h2>
@@ -63,19 +75,6 @@
             </div>
           </div>
         <% end %>
-      <% end %>
-
-      <% if !@special_collection.resources.empty? %>
-        <div class="row resources-row">
-          <h2>Other Resources</h2>
-          <div class="col-md-12 collection-resources">
-            <ul>
-              <% @special_collection.resources.each do |resource| %>
-                  <li><%= link_to resource[0], resource[1], target: "_blank" %></li>
-              <% end %>
-            </ul>
-          </div>
-        </div>
       <% end %>
     </div>
   </div>
