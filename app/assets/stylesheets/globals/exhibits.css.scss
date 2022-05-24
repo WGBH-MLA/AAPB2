@@ -27,12 +27,10 @@
 
 #exhibit-main iframe.exhibit-small-iframe {
   width: 100%;
-  max-width: 50%;
-  min-width: 33%;
-  min-height: 45vh;
   height: auto;
-
-  margin-left: 25%;
+  min-height: auto;
+  aspect-ratio: 16 / 9;
+}
 }
 
 .exhibit-image {
