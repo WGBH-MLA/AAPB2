@@ -1,11 +1,40 @@
 #!/bin/bash
+HELP="AAPB init script\n\n
 
-if [ $1 = "dev" -o $1 = "d" ]; then
-  shift
-  docker run -it -p 3000:3000 -v $(pwd):/usr/src/app/ aapb "$@"
-  
+A basic CLI for managing AAPB \n\n
+
+USAGE:\n\n
+
+ \t ./aapb COMMAND [args] \n\n
+
+COMMANDS:\n\n
+
+\t  b | build \t  build the docker image\n
+\t  c | cmd \t    run a bash command with the docker image\n
+\t  d | dev \t    start a development server\n
+\t  h | help \t   prints this help text\n
+"
+
+DEV_CMD="docker run -it -p 3000:3000 -v $(pwd):/usr/src/app/ aapb"
+
+if [ -z $1 ]; then
+  echo -e $HELP
+
 elif [ $1 = "build" -o $1 = "b" ]; then
     shift
     docker build -t aapb . "$@"
+
+elif [ $1 = "cmd" -o $1 = "c" ]; then
+    shift
+    if [ -z $1 ]; then
+      $DEV_CMD bash
+    else $DEV_CMD "$@"
+    fi
+
+elif [ $1 = "dev" -o $1 = "d" ]; then
+  shift
+  $DEV_CMD "$@"
+
+else echo -e $HELP
+
 fi
-  
