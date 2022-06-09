@@ -27,14 +27,16 @@
 
 #exhibit-main iframe.exhibit-small-iframe {
   width: 100%;
-  max-width: 50%;
-  min-width: 33%;
-  min-height: 45vh;
   height: auto;
-
-  margin-left: 25%;
+  min-height: auto;
+  aspect-ratio: 16 / 9;
 }
-
+@media only screen and (min-width: 992px) {
+#exhibit-main iframe.exhibit-small-iframe {
+  max-width: 80%;
+  margin-left: 10%;
+}
+}
 .exhibit-image {
   float: right;
   padding: 0 5px;
