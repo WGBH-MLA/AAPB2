@@ -205,7 +205,7 @@ class PBCorePresenter
   end
   def img_src(icon_only = false)
     @img_src ||= begin
-      expected_url = url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
+      expected_url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
       thumbnail = ExternalFile.new("thumbnail", id, expected_url)
 
       if !icon_only && (media_type == MOVING_IMAGE && digitized? || thumbnail.file_present?)
