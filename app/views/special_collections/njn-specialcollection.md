@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![New Jersey Network Collection]([https://s3.amazonaws.com/americanarchive.org/special-collections/INFLECT_new_avatar_green+1400_72.jpg](https://s3.amazonaws.com/americanarchive.org/special-collections/NJN_specialcollection_logo.png) "New Jersey Network Collection")
+![New Jersey Network Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/NJN_specialcollection_logo.png "New Jersey Network Collection")
 
 ## Summary
 
