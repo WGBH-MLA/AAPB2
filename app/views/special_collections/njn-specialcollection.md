@@ -25,7 +25,7 @@ The first of four New Jersey PBS stations that eventually made up NJN, WNJT went
 
 ## Resources
 
-- [NJ PBS] (https://www.njtvonline.org/)
+- [NJ PBS](https://www.njtvonline.org/)
 - [New Jersey State Archives](https://www.nj.gov/state/archives/index.html)
 - [NJ Spotlight News](https://www.pbs.org/show/nj-spotlight-news/)
 
