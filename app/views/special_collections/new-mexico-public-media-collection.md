@@ -42,9 +42,6 @@ Collaborating stations include KENW-TV at Eastern New Mexico University in Porta
 
 - [![CLIR](https://s3.amazonaws.com/americanarchive.org/org-logos/clir_logo.png "CLIR Logo")](https://www.clir.org/)
 
-- [![NHPRC](https://s3.amazonaws.com/americanarchive.org/org-logos/nhprc-logo.jpg "NHPRC logo")](https://www.archives.gov/nhprc)
-
-
 ## Help
 
 Records are described at an item level and all records contain brief descriptions.
