@@ -40,7 +40,7 @@ Collaborating stations include KENW-TV at Eastern New Mexico University in Porta
 
 ## Funders
 
-- [![CLIR](https://s3.amazonaws.com/americanarchive.org/org-logos/clir_logo.png "CLIR Logo")](https://www.clir.org/)
+- [![CLIR](https://s3.amazonaws.com/americanarchive.org/org-logos/CLIRlogo.jpg "CLIR Logo")](https://www.clir.org/)
 
 ## Help
 
