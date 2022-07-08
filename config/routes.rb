@@ -17,9 +17,6 @@ Rails.application.routes.draw do
   resources 'advanced',
             only: [:index, :create]
 
-  resources 'thumbnails',
-            only: [:show]
-
   resources 'media',
             only: [:show]
 

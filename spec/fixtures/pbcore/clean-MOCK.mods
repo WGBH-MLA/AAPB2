@@ -63,7 +63,7 @@
   </location>
   <location>
     <url access="object in context" usage="primary">http://www.wgbh.org/</url>
-    <url access="preview">https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip_1234.jpg</url>
+    <url access="preview">https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip-1234.jpg</url>
   </location>
   <accessCondition type="use and reproduction">Contact host institution for more information.</accessCondition>
 </mods>

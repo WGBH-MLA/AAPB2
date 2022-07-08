@@ -205,29 +205,25 @@ class PBCorePresenter
   end
   def img_src(icon_only = false)
     @img_src ||= begin
-      url = nil
-      if media_type == MOVING_IMAGE && digitized? && !icon_only
-        url = "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/, 'cpb-aacip_')}.jpg"
-      end
+      expected_url = "#{AAPB::S3_BASE}/thumbnail/#{id}.jpg"
+      thumbnail = ExternalFile.new("thumbnail", id, expected_url)
 
-      unless url
-        url = case [media_type, digitized?]
-              # when [MOVING_IMAGE, true]
-              # TODO: Move ID cleaning into Cleaner: https://github.com/WGBH/AAPB2/issues/870
-              # Mississippi IDs have dashes, but they cannot for image URLs on S3. All S3 image URLs use "cpb-aacip_".
-              # "#{AAPB::S3_BASE}/thumbnail/#{id.gsub(/cpb-aacip-/,'cpb-aacip_')}.jpg"
-              when [MOVING_IMAGE, false]
-                '/thumbs/VIDEO_NOT_DIG.png'
-              when [SOUND, true]
-                '/thumbs/AUDIO.png'
-              when [SOUND, false]
-                '/thumbs/AUDIO_NOT_DIG.png'
-              else
-                '/thumbs/OTHER.png'
-              end
-      end
+      if !icon_only && (media_type == MOVING_IMAGE && digitized? || thumbnail.file_present?)
 
-      url
+        # moving image + digitized htumbs are conventionally expected to be there, so save the head request
+        expected_url
+      else
+        case [media_type, digitized?]
+        when [MOVING_IMAGE, false]
+          '/thumbs/VIDEO_NOT_DIG.png'
+        when [SOUND, true]
+          '/thumbs/AUDIO.png'
+        when [SOUND, false]
+          '/thumbs/AUDIO_NOT_DIG.png'
+        else
+          '/thumbs/OTHER.png'
+        end
+      end
     end
     # NOTE: ToMods assumes path-only URLs are locals not to be shared with DPLA.
     # If these got moved to S3, that would need to change.
