@@ -28,7 +28,9 @@ class Exhibit < Cmless
 
   def self.all_top_level
     @all_top_level ||=
-      Exhibit.select { |exhibit| !exhibit.path.match(/\//) }
+      storyMapExternalLink = LinkExhibit.new(title: "Cool one!", external_url: "https://www.npr.org", thumbnail_url: "https://s3.amazonaws.com/americanarchive.org/henry-hampton.jpg")
+
+      Exhibit.select { |exhibit| !exhibit.path.match(/\//) } + [storyMapExternalLink]
   end
 
   def self.exhibits_by_item_id
@@ -78,6 +80,10 @@ class Exhibit < Cmless
 
       config
     end
+  end
+
+  def full_path
+    "/exhibits/" + path
   end
 
   def meta_tags
