@@ -10,6 +10,7 @@ AllCops:
     - 'app/models/exhibit.rb'
     - 'app/helpers/snippet_helper.rb'
     - 'app/controllers/snippets_controller.rb'
+    - 'app/models/link_exhibit.rb'
 
 Metrics/ClassLength:
   Enabled: false
