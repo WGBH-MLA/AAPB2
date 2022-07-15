@@ -6,7 +6,8 @@
 
 ## Summary
 
-The *Fine Print with Rebecca Bain* collection contains 214 audio items (198 episodes and 16 forward promo clips) from the literary interview show created for WPLN, Nashville Public Radio. In host Rebecca Bain’s own words, the show was "an exploration and celebration of the written word" and featured the host speaking with authors on their recent works. The episodes in this collection span from 1999 through 2006, when the show went off the air. While the radio show was based out of Nashville, Tennessee, host Rebecca Bain interviewed authors both local and in the national spotlight, and of many genres, spanning fiction, to historical works, to music and biography, to culinary content. 
+The *Fine Print with Rebecca Bain* collection contains [214 audio items (198 episodes and 16 forward promo clips)](cpb-aacip-15-3b5w669586) from the literary interview show created for WPLN, Nashville Public Radio. In host Rebecca Bain’s own words, the show was "an exploration and celebration of the written word" and featured the host speaking with authors on their recent works. The episodes in this collection span from 1999 through 2006, when the show went off the air. While the radio show was based out of Nashville, Tennessee, host Rebecca Bain interviewed authors both local and in the national spotlight, and of many genres, spanning fiction, to historical works, to music and biography, to culinary content. 
+
 The show’s host, Rebecca Bain, was employed by Nashville’s WPLN for 30 years. As Serenity Gerbman wrote of Bain in a 2011 tribute, “She knew books and loved them, and she was fascinated by the people who wrote them. When an author was booked on Rebecca’s show, [they] knew that she had read the book, written the questions, and prepared the ground for a meaningful conversation.” WPLN’s website had posted in 2011 that “there were few positions on air that Rebecca Bain didn’t fill at some point. She played classical music and reported the news, but she was best known for talking to authors.” 
 
 ## Background
@@ -16,11 +17,11 @@ The show’s host, Rebecca Bain, was employed by Nashville’s WPLN for 30 years
 ## Featured
 
 [![Augusten Burroughs](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
-[![Bill Bryson??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
-[![Ann Patchett??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-3aa3f68ab55)
+[![Bill Bryson](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-453476de5d8)
+[![Ann Patchett](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-5c607a5a7f2)
 [![Elizabeth Gilbert](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-43e61c1734d)
 [![Mo Willems](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-46b137a5ed7)
-[![Sue Grafton??](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-46b137a5ed7)
+[![Sue Grafton](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_logo_thumbnail_fix.jpg)](/catalog/cpb-aacip-e9fbebd2e48)
 
 ## Resources
 
