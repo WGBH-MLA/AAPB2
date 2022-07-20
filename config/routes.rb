@@ -7,6 +7,8 @@ Rails.application.routes.draw do
             only: [:show, :create]
 
   resources 'embed', only: [:index, :show] # BL requires that there be an index.
+  match 'lite/:id', to: 'embed#lite', via: [:get]
+
   resources 'embed_terms', only: [:show, :create]
 
   resources 'organizations',

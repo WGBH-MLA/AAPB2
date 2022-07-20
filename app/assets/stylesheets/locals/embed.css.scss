@@ -25,3 +25,21 @@
     padding: 10px 0;
   }
 }
+
+.lite-videocontent::after {
+  position: absolute;
+  left: 45%;
+  font-size: 10px;
+  width: 14em;
+  text-align: center;
+  color:  #000;
+  content:  "American Archive of Public Broadcasting";
+}
+
+.lite-player-row {
+  
+}
+
+.lite-player {
+  
+}
