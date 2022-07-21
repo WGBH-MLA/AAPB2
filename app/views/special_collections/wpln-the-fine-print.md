@@ -28,6 +28,8 @@ The show’s host, Rebecca Bain, was employed by Nashville’s WPLN for 30 years
 - [Nashville Public Radio 90.3 WPLN-FM](https://wpln.org/)
 - [Remembering Rebecca, Chapter 16](https://chapter16.org/remembering-rebecca/)
 - [Remembering Rebecca Bain, Longtime Host of WPLN's *The Fine Print*, Nashville Scene](https://www.nashvillescene.com/news/remembering-rebecca-bain-longtime-host-of-wplns-i-the-fine-print-i/article_20af6d13-f668-55c9-b81d-32d0daf8f198.html)
+- [*A Word On Words* Special Collection, AAPB](https://americanarchive.org/special_collections/a-word-on-words))
+
 
 ## Help
 
