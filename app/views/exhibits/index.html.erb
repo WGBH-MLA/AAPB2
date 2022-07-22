@@ -8,7 +8,7 @@
     <% @top_level_exhibits.each do |ex| %>
       <div class="gallery col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-thumbnail">
-          <a href="<%= ex.full_path %>">
+          <a <%= ex.new_tab ? %(target="_blank") : "" %> href="<%= ex.full_path %>">
             <img src="<%= ex.thumbnail_url %>" alt="<%= ex.title %>" aria-hidden="true">
             <div class="exhibit-index-title-container">
               <h2 class="exhibit-index-title bg-color-<%= ['purple','pink','red'].sample %>">
