@@ -296,7 +296,7 @@ describe 'Validated and plain PBCore' do
 
     describe '.img_src' do
       it 'returns the image src from the pbcore xml' do
-        expect(pbc.img_src).to eq("#{AAPB::S3_BASE}/thumbnail/cpb-aacip_1234.jpg")
+        expect(pbc.img_src).to eq("#{AAPB::S3_BASE}/thumbnail/cpb-aacip-1234.jpg")
       end
     end
 

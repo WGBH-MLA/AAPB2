@@ -92,7 +92,7 @@ describe 'Catalog' do
         expect(page).to have_text(field), missing_page_text_custom_error(field, page.current_path)
       end
 
-      expect_thumbnail('cpb-aacip_1234')
+      expect_thumbnail('cpb-aacip-1234')
     end
 
     it 'offers to broaden search' do
@@ -467,7 +467,7 @@ describe 'Catalog' do
     it 'has thumbnails if outside_urls' do
       visit '/catalog/cpb-aacip-1234'
       # expect_all_the_text('clean-MOCK.xml')
-      expect_thumbnail('cpb-aacip_1234') # has media, but also has outside_urls, which overrides.
+      expect_thumbnail('cpb-aacip-1234') # has media, but also has outside_urls, which overrides.
       expect_no_media
       expect_external_reference
     end
@@ -475,7 +475,7 @@ describe 'Catalog' do
     it 'has poster otherwise if media' do
       visit 'catalog/cpb-aacip_37-16c2fsnr'
       expect_all_the_text('clean-every-title-is-episode-number.xml')
-      expect_video(poster: s3_thumb('cpb-aacip_37-16c2fsnr'))
+      expect_video(poster: s3_thumb('cpb-aacip-37-16c2fsnr'))
     end
 
     it 'has default poster for audio that ' do
@@ -495,7 +495,7 @@ describe 'Catalog' do
     it 'links to exhibit' do
       visit '/catalog/cpb-aacip_111-21ghx7d6'
       expect(page).to have_text('This record is featured in'), missing_page_text_custom_error('This record is featured in', page.current_path)
-      expect_video(poster: s3_thumb('cpb-aacip_111-21ghx7d6'))
+      expect_video(poster: s3_thumb('cpb-aacip-111-21ghx7d6'))
     end
 
     it 'has a transcript if expected' do
