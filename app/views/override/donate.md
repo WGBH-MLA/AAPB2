@@ -12,6 +12,11 @@ Your donation will be made to GBH on behalf of the American Archive of Public Br
 
 ### Make a Donation Now
 
+
+<iframe src="https://api.payaconnect.com/hostedpaymentpage?id=11ed11cbc0e472f88991f69e&data=U2FsdGVkX18xMWVkMTFjYvG%2FHhQoxJRqLHpvIq5inyefByjtXuLrPjJNREmvcNOZWLZhsb%2FP5rk2OOsUjxwknw%3D%3D" style="height:400px;width:auto" title="Iframe Example"></iframe>
+
+
+
 You can send a donation by mail to:
 
 AAPB Donations<br/>
