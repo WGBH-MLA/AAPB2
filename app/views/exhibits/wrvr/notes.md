@@ -42,11 +42,18 @@
 
 - Gould, Jack. “Church’s FM Station Will Accept Ads.” *New York Times*. February 18, 1971, 71.
 
-- Gould, Jack. “Radio: Aural Picture of Racial Crisis: WRVR-FM and WBAI Cover Birmingham.” *New York Times*. June 10, 1963, 63. ![image](https://user-images.githubusercontent.com/38049679/184410382-b20e8555-40d6-4a04-9174-11cff210866e.png)
+- Gould, Jack. “Radio: Aural Picture of Racial Crisis: WRVR-FM and WBAI Cover Birmingham.” *New York Times*. June 10, 1963, 63.
 
-- Gould, Jack. “Radio: ‘Just Jazz’ Just Fine.” *New York Times*. May 11, 1964, 63. ![image](https://user-images.githubusercontent.com/38049679/184410400-568e027b-7f40-472d-9df0-9b33f54d5b01.png)
+- Gould, Jack. “Radio: ‘Just Jazz’ Just Fine.” *New York Times*. May 11, 1964, 63.
 
 - Hangen, Tona J. *Redeeming the Dial: Radio, Religion, and Popular Culture in America, 1920-1960* (Chapel Hill, NC: University of North Carolina Press, 2002).
+
+- Harker, Brian. *Jazz: An American Journey* (Upper Saddle River, NJ: Pearson, 2004).
+
+- Harmon, Francis S. “Testimony Before the Federal Communications Commission, in Re: Application of The Riverside Church in the City of New York.” 1958. Docket Number 12107, File Number BPH-2174. Riverside Church Archives, Folder 797/04.
+
+- Harvey, Charles E. “John D. Rockefeller, and the Interchurch World Movement of 1919-1920: A Different Angle on the Ecumenical Movement.” *Church History* 51, no. 2 (June 1982):198-209.
+
 
 
 ## Notes
