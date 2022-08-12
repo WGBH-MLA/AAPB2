@@ -1,0 +1,1 @@
+<a name="1"></a><sup>1</sup> James Hudnut-Beumler, “The Riverside Church and the Development of Twentieth-Century American Protestantism,” in Peter J. Paris, et al., *The History of the Riverside Church in the City of New York* (New York: New York University Press, 2004), 7, 21.
