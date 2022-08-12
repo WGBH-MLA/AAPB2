@@ -1,8 +1,55 @@
-# Notes
+# Bibliography
 
 7
 
-## Summary
+## Summary 
+
+- Alford, Wallace Wayne. “A Force for Education: The National Association of Educational Broadcasters, 1954-1965.” PhD diss., George Peabody College for Teachers, 1965.
+
+- Berg, Beatrice. “Let’s Not Burn, Baby, Burn, Let’s Talk, Baby, Talk.” *New York Times*. April 6, 1969, 176.
+
+- “Beyond Vietnam,” King Encyclopedia, The Martin Luther King, Jr., Research and Education Institute. Accessed July 11, 2022. https://kinginstitute.stanford.edu/encyclopedia/beyond-vietnam
+ 
+- Bowie, Robert R., et al. “Daedalus-on-the-Air.” *Bulletin of the American Academy of Arts and Sciences* 16, no. 6 (1963):5-6.
+
+- Brisbin, Richard A. “The Conservatism of Antonin Scalia.” *Political Science Quarterly* 105, no. 1 (1990): 1-29.
+
+- *Citizens for Jazz on WRVR, Inc. v. FCC*. 775 F.2d 392 (D.C. Cir. 1985).
+
+- ”Citizens for Jazz to Protest WRVR Format Switch; Legal Challenge Weighed.” *New York Times*. September 23, 1980.
+
+- Decker, Jeffrey Louis. “Saint Oprah.” *Modern Fiction Studies* 51, no. 1 (2006): 169-178.
+
+- Dougherty, Kevin D. and Andrew L. Whitehead. “A Place to Belong: Small Group Involvement in Religious Congregations.” *Sociology of Religion* 72, no. 1 (Spring 2011):91-111.
+
+- Eisenberg, Evan. *The Recording Angel: Music, Records, and Culture from Aristotle to Zappa* (New Haven: Yale University Press, 2005).
+
+- Engelman, Ralph. *Public Radio and Television in America: A Political History* (Thousand Oaks, CA: Sage Publications, 1996).
+
+- Evans, Christopher Hodge. *The Social Gospel in American Religion: A History* (New York: New York University Press, 2017).
+
+- Fagen, Donald. *Eminent Hipsters* (New York: Penguin Books, 2014).
+
+- Fairclough, Adam. “Martin Luther King, Jr. and the War in Vietnam.” *Phylon* 45, no. 1 (1984): 19-39.
+
+- Ferré, John P. “Protestant Press Relations in the United States, 1900-1930.” *Church History* 62, no. 4 (December 1993):514-527.
+
+- Fosdick, Harry Emerson. “’Shall the Fundamentalists Win?’: Harry Emerson Fosdick and the First Presbyterian Church in New York.” *The Journal of Presbyterian History* 94, no. 2 (Fall 1994): 76-81.
+
+- Fritz, Jose. “The Night Call Experiment.” *Arcane Radio Trivia*. June 3, 2011. Accessed July 11, 2022. https://tenwatts.blogspot.com/2011/06/night-call-experiment.html. 
+
+- Gent, George. “Radio ‘Night Call’ Aims at Ghettos.” *New York Times*. June 3, 1968, 89.
+
+- Gould, Jack. “Church’s FM Station Will Accept Ads.” *New York Times*. February 18, 1971, 71.
+
+- Gould, Jack. “Radio: Aural Picture of Racial Crisis: WRVR-FM and WBAI Cover Birmingham.” *New York Times*. June 10, 1963, 63. ![image](https://user-images.githubusercontent.com/38049679/184410382-b20e8555-40d6-4a04-9174-11cff210866e.png)
+
+- Gould, Jack. “Radio: ‘Just Jazz’ Just Fine.” *New York Times*. May 11, 1964, 63. ![image](https://user-images.githubusercontent.com/38049679/184410400-568e027b-7f40-472d-9df0-9b33f54d5b01.png)
+
+- Hangen, Tona J. *Redeeming the Dial: Radio, Religion, and Popular Culture in America, 1920-1960* (Chapel Hill, NC: University of North Carolina Press, 2002).
+
+
+## Notes
 
 <a name="1"></a><sup>1</sup> James Hudnut-Beumler, “The Riverside Church and the Development of Twentieth-Century American Protestantism,” in Peter J. Paris, et al., *The History of the Riverside Church in the City of New York* (New York: New York University Press, 2004), 7, 21.
 <br>
