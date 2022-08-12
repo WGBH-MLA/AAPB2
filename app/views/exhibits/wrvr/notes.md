@@ -5,33 +5,33 @@
 ## Summary
 
 <a name="1"></a><sup>1</sup> James Hudnut-Beumler, “The Riverside Church and the Development of Twentieth-Century American Protestantism,” in Peter J. Paris, et al., *The History of the Riverside Church in the City of New York* (New York: New York University Press, 2004), 7, 21.
-
+<br>
 <a name="2"></a><sup>1</sup> Harry Emerson Fosdick, “’Shall the Fundamentalists Win?’: Harry Emerson Fosdick and the First Presbyterian Church in New York,” *The Journal of Presbyterian History* 94, no. 2 (Fall 1994): 76-81; John P. Ferré, “Protestant Press Relations in the United States, 1900-1930,” Church History 62, no. 4 (Dec. 1993): 514-527; Charles E. Harvey, “John D. Rockefeller, Jr., and the Interchurch Movement of 1919-1920: A Different Angle on the Ecumenical Movement,” Church History 51, no. 2 (Jun. 1982): 198-209.
-
+<br>
 <a name="3"></a><sup>3</sup> Roderick D. Rightmire, “Riverside Radio WRVR: The History and Development of a Church-Owned Radio Station” (master’s thesis, Boston University 1962), 8.
-
+<br>
 <a name="4"></a><sup>4</sup> Rightmire, “Riverside Radio WRVR,” 31.
-
+<br>
 <a name="5"></a><sup>5</sup> Francis S. Harmon, Testimony Before the Federal Communications Commission, in Re: Application of The Riverside Church in the City of New York (1958), 22-24. Docket Number 12107, File Number BPH-2174. Riverside Church Archives, Folder 797/04.
-
+<br>
 <a name="6"></a><sup>6</sup> Rightmire, “Riverside Radio WRVR,” 11-14; Harmon, FCC Testimony, 23.
-
+<br>
 <a name="7"></a><sup>7</sup> Rightmire, “Riverside Radio WRVR,” 15-16. 
-
+<br>
 <a name="8"></a><sup>8</sup> *WRVR New York Fine Arts Guide*, November 1961, 3.
-
+<br>
 <a name="9"></a><sup>9</sup> Rightmire, “Riverside Radio WRVR,” 2; John Wicklein, “Riverside Radio: New FM Station Offers Varied Programs,” *New York Times*, January 1, 1961, X11.
-
+<br>
 <a name="10"></a><sup>10</sup> Rightmire, “Riverside Radio WRVR,” 70.
-
+<br>
 <a name="11"></a><sup>11</sup> Wicklein, “Riverside Radio.”
-
+<br>
 <a name="12"></a><sup>12</sup> Robert McCracken, “Open Letter,” *WRVR New York Fine Arts Guide*, March 1961, 2.
-
+<br>
 <a name="13"></a><sup>13</sup> Gene R. Stebbins, “Listener-Sponsored Radio: The Pacifica Stations” (PhD diss., Ohio State University, 1969), 6.
-
+<br>
 <a name="14"></a><sup>14</sup> “WRVR-FM Wins Peabody,” *New York Amsterdam News*, May 1, 1965, 23.
-
+<br>
 <a name="15"></a><sup>15</sup> Jack D. Summerfield, “A Report on WRVR by Jack D. Summerfield to the Spring Meeting of the New York State Educational Radio-Television Association” (April 1962), Riverside Church Archives, Folder 795/16.
 
 <a name="16"></a><sup>16</sup> *WRVR New York Fine Arts Guide*, December 1961, 5-6.
