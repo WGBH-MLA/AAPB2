@@ -34,11 +34,22 @@ The [WRVR-FM (Riverside Radio) Collection](https://americanarchive.org/special_c
 
 The Riverside Church in the City of New York “often has had a leading hand in crafting the way that liberal American Protestants thought, worshipped, and responded to their times.” The church’s decade-long radio project in the 1960s is one manifestation of Riverside’s longstanding cultural power and influence not just in the immediate New York metropolitan area; even from its founding it became, in many ways, “the national cathedral of mainstream Protestantism.”[<sup>1</sup>](/exhibits/wrvr/notes#1)
 
-[add image 6 here and image 23?]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">John D. Rockefeller, Jr. and Rev. Dr. Harry Emerson Fosdick pictured with unnamed workers and craftsmen roughly at the time of the completion of The Riverside Church’s structure circa 1930, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D6.+John+D+Rockefeller+Jr+and+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+unnamed+workers+and+craftsmen+around+the+completion+of+the+church+structure+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D6.+John+D+Rockefeller+Jr+and+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+unnamed+workers+and+craftsmen+around+the+completion+of+the+church+structure+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="John D. Rockefeller, Jr. and Rev. Dr. Harry Emerson Fosdick pictured with unnamed workers and craftsmen roughly at the time of the completion of The Riverside Church’s structure circa 1930, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
+
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">The Riverside Church as viewed from the northwest circa 1930, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D23.+The+Riverside+Church+viewed+from+the+northwest+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D23.+The+Riverside+Church+viewed+from+the+northwest+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="The Riverside Church as viewed from the northwest circa 1930, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 John D. Rockefeller, Jr., funded the construction of Riverside’s dramatic limestone cathedral in the Morningside Heights neighborhood near Columbia University. With an endowment gift from the Rockefeller Family Foundation, the congregation of the Park Avenue Baptist Church relocated to the new building in 1930, pastored by liberal minister Harry Emerson Fosdick. Rev. Fosdick was well-known for his theological modernism, evident in his fiery 1922 sermon “Shall the Fundamentalists Win?” which powerfully argued the case for liberal Protestantism during the fundamentalist-modernist controversy of that decade. With Rockefeller’s patronage, Fosdick established The Riverside Church as the premier liberal pulpit of its era and developed the church’s social gospel efforts into the wider city and beyond.[<sup>2</sup>](/exhibits/wrvr/notes#2) The Riverside Church identified itself from its beginning as an “interdenominational, interracial, and international religious institution,”[<sup>3</sup>](/exhibits/wrvr/notes#3) though nominally maintaining affiliation with both the Northern Baptist Convention and United Church of Christ. Fosdick had served since the late 1920s as the senior minister on NBC’s nondenominational Protestant radio program, *National Vespers*, and his successor at Riverside, Robert McCracken, was a frequent guest on the National Radio Pulpit radio program; from its inception, The Riverside Church had enduring connections to the two flagship radio programs of mainline Protestantism.[<sup>4</sup>](/exhibits/wrvr/notes#4)
 
-[add image 19 here?]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Rev. Dr. Harry Emerson Fosdick pictured with a microphone circa 1928, courtesy of The Riverside Church Archives. © N. Lazarnick Commercial Photographers.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/19.+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+radio+microphone+circa+1928+CREDIT+N.+Lazarnick+Commercial+Photographers.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/19.+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+radio+microphone+circa+1928+CREDIT+N.+Lazarnick+Commercial+Photographers.jpg" class="big-image" alt="Rev. Dr. Harry Emerson Fosdick pictured with a microphone circa 1928, courtesy of The Riverside Church Archives. © N. Lazarnick Commercial Photographers."/></a></td></tr>
+</table>
 
 Over the years The Riverside Church engaged in a wide range of local missionary and community service efforts, including ministry programs targeted towards groups such as international students, young businesswomen and men, servicemen, the aged, and others. Riverside called itself a “small town church in the big city,” with close to 3,900 members and 220 employed staff in 1960. Its high church formal Sunday services imbued Riverside with a sense of gravitas, and their interfaith work and engagement in the city’s civic life provided cultural authority. Riverside frequently collaborated with other religious and educational institutions situated nearby in Morningside Heights including Barnard College, Union Theological Seminary, Interchurch Center, and Columbia University. The demographics of the neighborhood were shifting in the late 1950s, with growing numbers of Puerto Rican and Black residents. As an increasing number of Riverside members lived outside the immediate neighborhood in other boroughs and suburbs, radio was seen as a way both to serve the diversifying local community and to knit together a geographically-dispersing congregation.[<sup>5</sup>](/exhibits/wrvr/notes#5)   
 
@@ -49,7 +60,10 @@ Based on the Special FM Radio Committee’s advice, Riverside filed an FCC appli
 
 Two senior ministers at Riverside oversaw WRVR’s ten-year span as a notable New York City noncommercial radio station: Robert McCracken (1947–1967) and Ernest T. Campbell (1968–1976). In 1961, McCracken envisioned that WRVR would assist the Church to “wield a broad cultural influence and endeavor to lift the whole level of the life of society. It should be alert to the crucial issues of its generation and should seek to communicate to the people the contributions which are being made from every field of human endeavor toward the solution of these issues. Our Radio Station is a pioneering venture with this for its objective.”[<sup>12</sup>](/exhibits/wrvr/notes#12)  
 
-[add image 18 here?]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Rev. Dr. Ernest T. Campbell in a WRVR studio circa the late 1960s, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/18.+Rev+Dr+Ernest+T+Campbell+in+a+WRVR+studio+circa+the+late+1960s+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/18.+Rev+Dr+Ernest+T+Campbell+in+a+WRVR+studio+circa+the+late+1960s+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="Rev. Dr. Ernest T. Campbell in a WRVR studio circa the late 1960s, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 #### WRVR’s Noncommercial Era, 1961 – 1971  
 
@@ -101,7 +115,10 @@ The regulatory structure of American radio, from its earliest days, favored comm
 
 Its first station manager, Jack Summerfield, considered WRVR unique as “a church [that] would become a licensee for reasons transcending its own parochial interests.”[<sup>39</sup>](/exhibits/wrvr/notes#39) Historian of religion Judith Weisenfeld observed that “despite WRVR’s relatively short lived history, it had a lasting impact on discussions of public affairs in New York City in its time, on many listeners over the years, and on the future of noncommercial radio in the United States. Many New Yorkers still recall WRVR’s forthright and probing shows on social and political issues and its insistent support of jazz and fusion as important art forms. Some of its staff have gone on to have productive careers in media and continue to influence the shape of radio broadcasting in America.”[<sup>40</sup>](/exhibits/wrvr/notes#40)   
 
-[add image 22 here?]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">The Riverside Church as seen from across the Hudson River circa 2014, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/22.+The+Riverside+Church+seen+across+the+Hudson+River+circa+2014+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/22.+The+Riverside+Church+seen+across+the+Hudson+River+circa+2014+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="The Riverside Church as seen from across the Hudson River circa 2014, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 The 1967 Public Broadcasting Act created a new legislative structure for noncommercial television and radio. When NPR was established in 1970, it did not include WRVR among its flagship stations. Yet WRVR had pioneered a decade-long model of cultural, news, and public-affairs programming that would inform the culture and practices of public radio and had indelibly left its mark on a broad swath of New York City listeners.[<sup>41</sup>](/exhibits/wrvr/notes#41)  
 
@@ -112,6 +129,22 @@ The 1967 Public Broadcasting Act created a new legislative structure for noncomm
 - <a class="type">image</a>
     <img alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
     <a class="caption-text">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</a>
+
+- <a class="type">image</a>
+    <img alt="John D. Rockefeller, Jr. and Rev. Dr. Harry Emerson Fosdick pictured with unnamed workers and craftsmen roughly at the time of the completion of The Riverside Church’s structure circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D6.+John+D+Rockefeller+Jr+and+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+unnamed+workers+and+craftsmen+around+the+completion+of+the+church+structure+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
+    <a class="caption-text">John D. Rockefeller, Jr. and Rev. Dr. Harry Emerson Fosdick pictured with unnamed workers and craftsmen roughly at the time of the completion of The Riverside Church’s structure circa 1930, courtesy of The Riverside Church Archives.</a>
+
+- <a class="type">image</a>
+    <img alt="The Riverside Church as viewed from the northwest circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D23.+The+Riverside+Church+viewed+from+the+northwest+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
+    <a class="caption-text">The Riverside Church as viewed from the northwest circa 1930, courtesy of The Riverside Church Archives.</a>
+
+- <a class="type">image</a>
+    <img alt="Rev. Dr. Harry Emerson Fosdick pictured with a microphone circa 1928, courtesy of The Riverside Church Archives. © N. Lazarnick Commercial Photographers." src="https://s3.amazonaws.com/americanarchive.org/exhibits/19.+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+radio+microphone+circa+1928+CREDIT+N.+Lazarnick+Commercial+Photographers.jpg">
+    <a class="caption-text">Rev. Dr. Harry Emerson Fosdick pictured with a microphone circa 1928, courtesy of The Riverside Church Archives. © N. Lazarnick Commercial Photographers.</a>
+    
+- <a class="type">image</a>
+    <img alt="Rev. Dr. Ernest T. Campbell in a WRVR studio circa the late 1960s, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/18.+Rev+Dr+Ernest+T+Campbell+in+a+WRVR+studio+circa+the+late+1960s+CREDIT+The+Riverside+Church+Archives.jpg">
+    <a class="caption-text">Rev. Dr. Ernest T. Campbell in a WRVR studio circa the late 1960s, courtesy of The Riverside Church Archives.</a>
 
  - <a class="type">image</a>
     <img alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
@@ -128,5 +161,9 @@ The 1967 Public Broadcasting Act created a new legislative structure for noncomm
 - <a class="type">image</a>
     <img alt="Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png">
     <a class="caption-text">Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
+
+- <a class="type">image</a>
+    <img alt="The Riverside Church as seen from across the Hudson River circa 2014, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/22.+The+Riverside+Church+seen+across+the+Hudson+River+circa+2014+CREDIT+The+Riverside+Church+Archives.jpg">
+    <a class="caption-text">The Riverside Church as seen from across the Hudson River circa 2014, courtesy of The Riverside Church Archives.</a>
 
 ## Records
