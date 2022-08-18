@@ -97,10 +97,10 @@ Its first station manager, Jack Summerfield, considered WRVR unique as “a chur
 
 The 1967 Public Broadcasting Act created a new legislative structure for noncommercial television and radio. When NPR was established in 1970, it did not include WRVR among its flagship stations. Yet WRVR had pioneered a decade-long model of cultural, news, and public-affairs programming that would inform the culture and practices of public radio and had indelibly left its mark on a broad swath of New York City listeners.[<sup>41</sup>](/exhibits/wrvr/notes#41)  
 
-## Cover [ADD IMAGE]
+## Cover
   <img title="Cover Image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
 
-## Gallery [ADD IMAGES]
+## Gallery
 - <a class="type">image</a>
     <img alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
     <a class="caption-text">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</a>
