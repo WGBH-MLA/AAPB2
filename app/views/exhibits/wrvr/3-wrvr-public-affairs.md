@@ -10,7 +10,11 @@
 
 ### Introduction
 
-[ADD IMAGE][Thumbnail Image: cover of October 1961 FineArtsGuide, map of NAEB stations] 
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
+</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 Jack Summerfield, WRVR general manager from 1961 – 1968, shaped the station’s approach to rigorous and expansive public affairs programming. Occasionally WRVR scooped other news organizations, as with Walter Nixon’s reporting on certain aspects of the Cuban Missile Crisis.[<sup>51</sup>](/exhibits/wrvr/notes#51) It developed many regular and special programs focused on local, national, and international events and topics of public concern, including ones that drew on the strengths of the documentary unit’s penchant for recording the ambient sound of New York itself.[<sup>52</sup>](/exhibits/wrvr/notes#52) To some extent, its interactive listener call-in programs (like the military draft special described in Section 3 of this exhibit) also functioned as public affairs content, putting people on the air – unedited – to ask questions and share observations and stories. *Night Call*, which used WRVR studios during its 20-month run in 1968-1969, was one such show. *Night Call* was hosted by Black DJ Del Shields every weeknight around midnight, usually with an in-studio guest. It was carried over 92 stations nationwide with the sponsorship of the United Methodist Church and the National Council of Churches. People of all races and backgrounds collect-called into the station’s phone line to converse with Shields and his guests in a free-flowing, unscripted interchange that made the show a local and national phenomenon.[<sup>53</sup>](/exhibits/wrvr/notes#53)  
 
@@ -53,10 +57,14 @@ WRVR also produced a weekly show called [*Hispanic Community*](https://americana
 - [National Educational Radio Network (NERN)](https://web.archive.org/web/20120623133418/http://www.lib.umd.edu/NPBA/subinfo/nern.html)
 
 
-## Cover [CHANGE IMAGE]
-  <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
+## Cover
+  <img title="Cover Image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
 
 ## Gallery
+
+- <a class="type">image</a>
+    <img alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</a>
 
 ## Records
 
