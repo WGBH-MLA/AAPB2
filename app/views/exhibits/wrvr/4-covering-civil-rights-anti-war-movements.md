@@ -10,11 +10,17 @@
 
 ### Introduction
 
-[ADD IMAGE] [Thumbnail Image: CORE March in Washington DC in memory of children killed in Birmingham, 1963] https://www.loc.gov/item/2003688165/ Or: if Vince knows of images in WRVR archives with Summerfield or Nixon on site, or from the Crisis of Conscience event. 
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress).</caption>
+  <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" class="big-image" alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963. (Image courtesy Library of Congress)."/></a></td></tr>
+</table> 
 
 News programs regularly aired on WRVR included BBC World Report; a short daily live feed from Washington D.C., with Voice of America announcer Raymond Swing; National Council of Churches’ Church World News; and a regular program of news commentary produced in-house with Riverside’s Executive Minister, *Gordon Gilkey Views the News*.[<sup>59</sup>](/exhibits/wrvr/notes#59) WRVR aired exclusive local coverage of the [1971 hearings of the Knapp Commission](https://www.wnyc.org/story/knapp-commission-hearings-tape-7-102171-fifth-day/) investigating corruption in the New York City Police Department.
 
-[ADD IMAGE] [Image: Raymond Swing at the microphone, from p. 6 of WRVR FineArts Guide March 1961]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Raymond Swing at the microphone, pictured in the March 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
+  <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/16.+Raymond+Swing+at+the+microphone+with+text+page+6+of+WRVR+Fine+Arts+Guide+March+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/16.+Raymond+Swing+at+the+microphone+with+text+page+6+of+WRVR+Fine+Arts+Guide+March+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Raymond Swing at the microphone, pictured in the March 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table> 
 
 But because it had its own news division, WRVR did much more. Perhaps WRVR’s most important contribution to news and documentary reporting in the 1960s was their attention to the unfolding Black civil rights and anti-Vietnam War movements, and their exploration of these events through innovative, long-form documentaries. 
 
@@ -54,9 +60,17 @@ Eastern Public Radio coverage of the [Rally for Peace in Washington D.C., Novemb
 - [King Institute, “Beyond Vietnam”](https://kinginstitute.stanford.edu/encyclopedia/beyond-vietnam)
 - [Knapp Commission Hearings (WNYC)](https://www.wnyc.org/series/knapp-commission-hearings)
 
-## Cover [CHANGE IMAGE]
-  <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
+## Cover
+  <img title="Cover Image" alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg">
 
 ## Gallery
 
+- <a class="type">image</a>
+    <img alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg">
+    <a class="caption-text">CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress).</a>
+
+- <a class="type">image</a>
+    <img alt="Raymond Swing at the microphone, pictured in the March 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/16.+Raymond+Swing+at+the+microphone+with+text+page+6+of+WRVR+Fine+Arts+Guide+March+1961+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">Raymond Swing at the microphone, pictured in the March 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
+    
 ## Records
