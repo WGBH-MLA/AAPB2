@@ -10,11 +10,6 @@
 
 ### Introduction
 
-<table class="exhibit-image big-image">
-<caption align="bottom" class="exhibit-caption">CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress).</caption>
-  <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" class="big-image" alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963. (Image courtesy Library of Congress)."/></a></td></tr>
-</table> 
-
 News programs regularly aired on WRVR included BBC World Report; a short daily live feed from Washington D.C., with Voice of America announcer Raymond Swing; National Council of Churches’ Church World News; and a regular program of news commentary produced in-house with Riverside’s Executive Minister, *Gordon Gilkey Views the News*.[<sup>59</sup>](/exhibits/wrvr/notes#59) WRVR aired exclusive local coverage of the [1971 hearings of the Knapp Commission](https://www.wnyc.org/story/knapp-commission-hearings-tape-7-102171-fifth-day/) investigating corruption in the New York City Police Department.
 
 <table class="exhibit-image big-image">
@@ -28,10 +23,16 @@ Some examples of WRVR’s civil rights coverage include the following:
 
 Full coverage of a [Congress of Racial Equality (CORE) weekly press conference from May 14, 1963, with CORE’s leader, James Farmer](https://americanarchive.org/catalog/cpb-aacip-528-tm71v5ct9b), taking place in Washington D.C., over a live Educational Radio Network hookup to panels of journalists in Boston, New York, and Philadelphia. In the press conference, Farmer responded to questions about the “present mood” of Black Americans, the goals and strategies of CORE and the Freedom Task Force, and movement leaders’ views of President Kennedy’s civil rights policies. 
 
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress).</caption>
+  <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" class="big-image" alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963. (Image courtesy Library of Congress)."/></a></td></tr>
+</table> 
+
 [Include image of James Farmer https://www.loc.gov/pictures/item/97519459/]
 
 A six-hour documentary series recorded on-scene in Alabama by Jack Summerfield and journalist Walter Nixon during the May 1963 Birmingham campaign, *Birmingham: Testament of Nonviolence*. Without commentary or analysis, Summerfield and Nixon edited long audio-recorded sequences into harrowing and suspenseful episodes that captured the momentousness and uncertainty of the effort to desegregate Birmingham’s schools and public spaces using nonviolent action.[<sup>60</sup>](/exhibits/wrvr/notes#60) Rev. Bob Polk, minister to youth of The Riverside Church, joined Summerfield and Nixon for part 4 of the series, “Back to School in Birmingham,” and the broadcast includes excerpts from his discussion with Black teenagers involved in the direct action campaign on their attitudes and experiences. 
 
+[insert image 12 here?]
 [Insert LOC images https://www.loc.gov/pictures/resource/ppmsca.72945/ and https://www.loc.gov/pictures/resource/ppmsca.72947/ here?]
 
 *New York Times* radio reporter Jack Gould argued that “the effectiveness of the WRVR coverage lay in the station’s determination to let the events speak for themselves.” The documentary not only covered moments of great tension and drama, but also “unhurried interviews with persons of all conceivable shades of opinion in Birmingham. In consequence the listener felt in the center of unfolding history in the South and had a kaleidoscopic view of the diverse forces influencing its course.” Gould suggested that only a noncommercial radio station could afford such “depth of treatment and outspokenness seldom available elsewhere on the dial.”[<sup>61</sup>](/exhibits/wrvr/notes#61) Birmingham: Testament of Nonviolence won multiple awards and contributed to the station’s winning its Peabody Award in 1965. It was offered for rebroadcast on the NAEB Radio Network and “received nationwide publicity as outstanding examples of radio journalism.”[<sup>62</sup>](/exhibits/wrvr/notes#62)  
@@ -72,11 +73,11 @@ Eastern Public Radio coverage of the [Rally for Peace in Washington D.C., Novemb
 ## Gallery
 
 - <a class="type">image</a>
-    <img alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg">
-    <a class="caption-text">CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress).</a>
-
-- <a class="type">image</a>
     <img alt="Raymond Swing at the microphone, pictured in the March 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/16.+Raymond+Swing+at+the+microphone+with+text+page+6+of+WRVR+Fine+Arts+Guide+March+1961+CREDIT+The+Riverside+Church+Archives.png">
     <a class="caption-text">Raymond Swing at the microphone, pictured in the March 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
+    
+ - <a class="type">image</a>
+    <img alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg">
+    <a class="caption-text">CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress).</a>
     
 ## Records
