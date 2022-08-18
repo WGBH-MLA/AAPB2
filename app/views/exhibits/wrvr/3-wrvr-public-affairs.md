@@ -10,15 +10,13 @@
 
 ### Introduction
 
-<table class="exhibit-image big-image">
-<caption align="bottom" class="exhibit-caption">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
-</caption>
-<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
-</table>
-
 Jack Summerfield, WRVR general manager from 1961 – 1968, shaped the station’s approach to rigorous and expansive public affairs programming. Occasionally WRVR scooped other news organizations, as with Walter Nixon’s reporting on certain aspects of the Cuban Missile Crisis.[<sup>51</sup>](/exhibits/wrvr/notes#51) It developed many regular and special programs focused on local, national, and international events and topics of public concern, including ones that drew on the strengths of the documentary unit’s penchant for recording the ambient sound of New York itself.[<sup>52</sup>](/exhibits/wrvr/notes#52) To some extent, its interactive listener call-in programs (like the military draft special described in Section 3 of this exhibit) also functioned as public affairs content, putting people on the air – unedited – to ask questions and share observations and stories. *Night Call*, which used WRVR studios during its 20-month run in 1968-1969, was one such show. *Night Call* was hosted by Black DJ Del Shields every weeknight around midnight, usually with an in-studio guest. It was carried over 92 stations nationwide with the sponsorship of the United Methodist Church and the National Council of Churches. People of all races and backgrounds collect-called into the station’s phone line to converse with Shields and his guests in a free-flowing, unscripted interchange that made the show a local and national phenomenon.[<sup>53</sup>](/exhibits/wrvr/notes#53)  
 
-[Insert Image 2 here?]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Del Shields, left, interviews guest Mayor John V. Lindsay on Night Call, while Station Manager Walter P. Sheppard looks on in the summer of 1968, courtesy of The Riverside Church Archives.
+</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/2.+Del+Shields+left+interviews+guest+Mayor+John+V+Lindsay+on+Night+Call+while+Station+Manager+Walter+P+Sheppard+looks+on+in+the+summer+of+1968+Carillon+newsletter+October+18+1968+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/2.+Del+Shields+left+interviews+guest+Mayor+John+V+Lindsay+on+Night+Call+while+Station+Manager+Walter+P+Sheppard+looks+on+in+the+summer+of+1968+Carillon+newsletter+October+18+1968+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Del Shields, left, interviews guest Mayor John V. Lindsay on Night Call, while Station Manager Walter P. Sheppard looks on in the summer of 1968, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 WRVR’s location in upper Manhattan with proximity to several major universities, theological schools, and the United Nations gave producers a ready network of civic leaders, scholars, journalists, and activists for its programs.[<sup>54</sup>](/exhibits/wrvr/notes#54) This wide range is suggested by a few examples from the collection. 
 
@@ -43,6 +41,12 @@ A long-running WRVR series, [*Late, Late Lecture*](https://americanarchive.org/c
 
 Some of WRVR’s public affairs programming came through the sharing of broadcasts of recordings with the National Association of Educational Broadcasters (NAEB), the National Educational Radio Network (NERN), and other educational broadcast stations.[<sup>57</sup>](/exhibits/wrvr/notes#57) The collection includes numerous examples of this shared content, like a [NERN “Special of the Week” from April 1965 with American ambassador to the United Nations Adlai Stevenson](https://americanarchive.org/catalog/cpb-aacip-528-rn3028qs88?start=271.06&end=438.48), speaking to a New York City convention of newspaper publishers. 	
 
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
+</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
+
 The collection contains twenty-one episodes of a 1971 WRVR interview show focused on civil engineering and the environment, *This Land Is Your Land*, hosted by Dr. Gerald Strobel, founder of Ecology and Environment. The show undoubtedly was influenced by the emerging environmental movement (the first Earth Day was held in April 1970). In this [example from March 1971, a guest from New York City’s Department of Sanitation](https://americanarchive.org/catalog/cpb-aacip-528-0k2697100f?start=953.12&end=1005.4) explains the city’s solid waste disposal process and future prospects for reducing waste through recycling. 
 
 During the ten years of WRVR at The Riverside Church, the demographics of its neighboring East Harlem neighborhood was changing, with increasing numbers of Black and Latino residents. WRVR’s weekly program [*Urban Affairs Report*](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&q=%22Urban+Affairs+Report%22) often addressed local and city-wide concerns, city planning, and urban quality of life issues. For example, the [*Urban Affairs Report* from January 24, 1970](https://americanarchive.org/catalog/cpb-aacip-528-3x83j3b46z?start=3780.61&end=7286.18), rebroadcast an edited recording of a public meeting focused on gentrification and “urban renewal” on New York’s West Side. 
@@ -62,9 +66,14 @@ WRVR also produced a weekly show called [*Hispanic Community*](https://americana
 
 
 ## Cover
-  <img title="Cover Image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
+  <img title="Cover Image" alt="Del Shields, left, interviews guest Mayor John V. Lindsay on Night Call, while Station Manager Walter P. Sheppard looks on in the summer of 1968, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/2.+Del+Shields+left+interviews+guest+Mayor+John+V+Lindsay+on+Night+Call+while+Station+Manager+Walter+P+Sheppard+looks+on+in+the+summer+of+1968+Carillon+newsletter+October+18+1968+CREDIT+The+Riverside+Church+Archives.png">
 
 ## Gallery
+
+- <a class="type">image</a>
+    <img alt="Del Shields, left, interviews guest Mayor John V. Lindsay on Night Call, while Station Manager Walter P. Sheppard looks on in the summer of 1968, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/2.+Del+Shields+left+interviews+guest+Mayor+John+V+Lindsay+on+Night+Call+while+Station+Manager+Walter+P+Sheppard+looks+on+in+the+summer+of+1968+Carillon+newsletter+October+18+1968+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">Del Shields, left, interviews guest Mayor John V. Lindsay on Night Call, while Station Manager Walter P. Sheppard looks on in the summer of 1968, courtesy of The Riverside Church Archives.</a>
+
 
 - <a class="type">image</a>
     <img alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
