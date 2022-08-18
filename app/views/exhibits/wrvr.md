@@ -55,22 +55,39 @@ In addition to religious and news programming, WRVR focused on arts and cultural
 
 Through Summerfield, WRVR played an active role in developing other regional educational broadcasting networks, including the National Association of Educational Broadcasters (NAEB) and the Educational Radio Network / National Educational Radio Network (ERN or  NERN) in the Northeastern states, an early predecessor of National Public Radio (NPR). NERN had grown out of the Lowell Institute Cooperative Broadcasting Council in the Boston area, with more than a dozen educational and cultural institutions sharing recordings and developing efforts at live radio networking.[<sup>16</sup>](/exhibits/wrvr/notes#16) In April 1961, WRVR became the NERN New York City FM affiliate.[<sup>17</sup>](/exhibits/wrvr/notes#17) WRVR’s *FineArts Guide* noted in October 1961 that NERN would serve “nearly a quarter of the country’s population [that] lives in the continuous metropolitan community of the Atlantic Seaboard,” people who represented “the Free World’s most powerful concentration of leadership in education, government, law, science, religion, medicine, industry, and culture.” Through NERN, “Riverside Radio listeners will be participating … in a venture which promises to develop in radio broadcasting its most imperative role: that of the authoritative, responsible, and dedicated disseminator of knowledge in all fields of endeavor.”[<sup>18</sup>](/exhibits/wrvr/notes#18)  
 
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
+</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
+
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Page 3 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
+</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/14.+Page+3+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/14.+Page+3+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Page 3 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
+
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Page 4 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/15.+Page+4+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/15.+Page+4+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Page 4 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
+
 In December 1961, a group of listeners wrote in praise of the new station: “We are writing this note to express our appreciation for the countless hours of pleasure your wonderful programs have given us. From literature to music to science to politics, your station has been unexcelled in binding the world and making us see the interrelatedness not only of all knowledge but of all peoples as well.… Let us take this opportunity to try to thank you for everything you are doing to make so many lives richer.”[<sup>19</sup>](/exhibits/wrvr/notes#19)  
 
 By 1965 WRVR had twenty employees and four interns from Columbia University. The station had acquired a large music library of recordings, in addition to the recordings it made of live performances in its own spaces and vicinity.[<sup>20</sup>](/exhibits/wrvr/notes#20) It produced [a promotional fifth anniversary show](https://americanarchive.org/catalog/cpb-aacip-528-k93125rm8s) looking back on its achievements as a noncommercial FM station. 
 
 In 1967 WRVR reported receiving 25,000 pieces of listener mail annually.[<sup>21</sup>](/exhibits/wrvr/notes#21) A new program director was hired, Walter P. Sheppard, most recently of WBUR Boston. Sheppard, who previously had produced several series for NERN, initiated Riverside Radio Theater in 1966, contracting playwrights for original or unproduced scripts.[<sup>22</sup>](/exhibits/wrvr/notes#22) Sheppard then assumed leadership of the station after Jack Summerfield left in 1968.[<sup>23</sup>](/exhibits/wrvr/notes#23) In the late 1960s, WRVR experimented with new formats, including a free-wheeling overnight call-in show, *Night Call*.[<sup>24</sup>](/exhibits/wrvr/notes#24) By 1970, the station had garnered twenty-two prizes for its programs and for broadcasting excellence. For its tenth anniversary show, [“Beating Our Own Drum,”](https://americanarchive.org/catalog/cpb-aacip-528-mk6542kk5j?start=1817.58&end=1972.61) WRVR replayed lengthy excerpts of its prizewinning Birmingham documentary, along with listener praise for the station.
 
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
+
 WRVR cost around $200,000 a year to operate. Endowment funds helped during its first two years, and it received a $100,000 annual grant from the James Foundation from 1962 to 1965.[<sup>25</sup>](/exhibits/wrvr/notes#25) Mrs. John D. Rockefeller, Jr., gifted the station $400,000 in 1966.[<sup>26</sup>](/exhibits/wrvr/notes#26) Other foundations contributed smaller grants throughout the 1960s.[<sup>27</sup>](/exhibits/wrvr/notes#27) Some church members and people from the community made their own financial contributions to the station,[<sup>28</sup>](/exhibits/wrvr/notes#28) but the station struggled to cover its operating costs. Rockefeller endowment funding and other foundation funding was due to expire after 1970, which occasioned some soul-searching about the station’s future. See, for example, [a March 1970 dialogue between Dr. Campbell and Dr. Richard Gilbert](https://americanarchive.org/catalog/cpb-aacip-528-4746q1tk61?start=2119.26&end=2368.52), executive director of the Division of Mass Media of the United Presbyterian Church USA Board of National Missions, to discuss fresh approaches to religious mass media.
 
 Summerfield recalls that WRVR sought underwriting from corporate grants, but they were hard to come by.[<sup>29</sup>](/exhibits/wrvr/notes#29) In February 1971, facing a budget shortfall as sustaining gift funding ran dry, The Riverside Church announced that WRVR would begin accepting limited commercial advertising to bring in revenue to support the station and upgrade the transmitting equipment, with the help of a broadcasting management consulting company, RTV International. At that time it was expected that the format would remain unchanged, and the station continued to air Riverside’s Sunday services during its transition to commercial broadcasting.[<sup>30</sup>](/exhibits/wrvr/notes#30) Over the summer of 1971, the station appointed a new general manager, John Wicklein, and announced it would become a commercial all-news station by the fall.[<sup>31</sup>](/exhibits/wrvr/notes#31) Instead, the new WRVR weighted its format towards news and public affairs, while retaining the church’s services, musical performances, and Ed Beach’s popular show *Just Jazz*.[<sup>32</sup>](/exhibits/wrvr/notes#32) In 1974, with WRVR running $1.8 million in the red, it moved to an all-jazz format and fired most of the broadcast talent, including some of its Black and Hispanic hosts.[<sup>33</sup>](/exhibits/wrvr/notes#33)  
 
-In 1976 The Riverside Church sold WRVR’s FCC license and equipment to Sonderling Broadcasting for $2.3 million dollars, despite protests from a local group called “Citizens Committee to Save Jazz Radio.” In 1980, Sonderling was bought by Viacom, which abruptly changed WRVR to a country station, sparking a lawsuit that eventually reached the U.S. Court of Appeals, D.C. Circuit, filed by those angry at the city for losing a consistent radio home for jazz.[<sup>34</sup>](/exhibits/wrvr/notes#34)  
-
-[Additional Images to accompany this Section: 
-GN / Noncommercial Jack Summerfield, FineArtsGuide Nov 1961, 4. 
-GN / Noncommercial: Map / illustration of NERN and description, FineArtsGuide Oct 1961, cover and 3-4.
-GN / Noncommercial: Listener letters quoted in FineArtsGuide, May 1961, 18-19 [As an image] 
+In 1976 The Riverside Church sold WRVR’s FCC license and equipment to Sonderling Broadcasting for $2.3 million dollars, despite protests from a local group called “Citizens Committee to Save Jazz Radio.” In 1980, Sonderling was bought by Viacom, which abruptly changed WRVR to a country station, sparking a lawsuit that eventually reached the U.S. Court of Appeals, D.C. Circuit, filed by those angry at the city for losing a consistent radio home for jazz.[<sup>34</sup>](/exhibits/wrvr/notes#34)
 
 #### Legacies 
 
@@ -81,13 +98,27 @@ Its first station manager, Jack Summerfield, considered WRVR unique as “a chur
 The 1967 Public Broadcasting Act created a new legislative structure for noncommercial television and radio. When NPR was established in 1970, it did not include WRVR among its flagship stations. Yet WRVR had pioneered a decade-long model of cultural, news, and public-affairs programming that would inform the culture and practices of public radio and had indelibly left its mark on a broad swath of New York City listeners.[<sup>41</sup>](/exhibits/wrvr/notes#41)  
 
 ## Cover [ADD IMAGE]
-  <img title="Cover Image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="(https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)">
+  <img title="Cover Image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
 
 ## Gallery [ADD IMAGES]
-  - <a class="type">image</a>
-    <img alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="(https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)">
+- <a class="type">image</a>
+    <img alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
     <a class="caption-text">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</a>
-    <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of The Riverside Church Archives.</a>
 
+ - <a class="type">image</a>
+    <img alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
+
+ - <a class="type">image</a>
+    <img alt="Page 3 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/14.+Page+3+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">Page 3 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
+
+- <a class="type">image</a>
+    <img alt="Page 4 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/15.+Page+4+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">Page 4 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
+
+- <a class="type">image</a>
+    <img alt="Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
 
 ## Records
