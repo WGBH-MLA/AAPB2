@@ -10,7 +10,7 @@ The [WRVR-FM (Riverside Radio) Collection](https://americanarchive.org/special_c
 
 ## Authors
 
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg"/> [CHANGE IMAGE]
+- <img class="img-circle pull-left" src="[https://s3.amazonaws.com/americanarchive.org/staff/Staff_Gevinson.jpg](https://s3.amazonaws.com/americanarchive.org/exhibits/HangenTona_Headshot.jpg)"/>
   <a class="name">Tona Hangen</a>
   <a class="title">Professor of History at Worcester State University</a>
 
@@ -25,7 +25,10 @@ The [WRVR-FM (Riverside Radio) Collection](https://americanarchive.org/special_c
 
 ### The Riverside Church and WRVR
 
-[INSERT IMAGE HERE]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="[https://s3.amazonaws.com/americanarchive.org/exhibits/0_KNBA.jpg](https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="[https://s3.amazonaws.com/americanarchive.org/exhibits/0_KNBA.jpg](https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)" class="big-image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 #### Background
 
@@ -78,13 +81,13 @@ Its first station manager, Jack Summerfield, considered WRVR unique as “a chur
 The 1967 Public Broadcasting Act created a new legislative structure for noncommercial television and radio. When NPR was established in 1970, it did not include WRVR among its flagship stations. Yet WRVR had pioneered a decade-long model of cultural, news, and public-affairs programming that would inform the culture and practices of public radio and had indelibly left its mark on a broad swath of New York City listeners.[<sup>41</sup>](/exhibits/wrvr/notes#41)  
 
 ## Cover [ADD IMAGE]
-  <img title="Cover Image" alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
+  <img title="Cover Image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="(https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)">
 
 ## Gallery [ADD IMAGES]
   - <a class="type">image</a>
-    <img alt="Black and White photograph from the March on Washington for Jobs and Freedom" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_SignatureImage.jpg">
-    <a class="caption-text">Warren K. Leffler, photographer. Participants in the March on Washington for Jobs and Freedom, August 28, 1963.</a>
-    <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
+    <img alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="(https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)">
+    <a class="caption-text">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</a>
+    <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of The Riverside Church Archives.</a>
 
 
 ## Records
