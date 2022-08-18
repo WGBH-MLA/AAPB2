@@ -10,11 +10,15 @@
 
 ### Introduction
 
-[ADD IMAGE] [Thumbnail Image: Thelonius Monk, LOC Gottlieb Collection https://www.loc.gov/item/gottlieb.06191/] 
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress).</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg" class="big-image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress)."/></a></td></tr>
+</table>
 
 Music was always the predominant programming genre during most of Riverside Radio WRVR’s broadcast hours, especially in its early years. FM radio provides high-fidelity sound, making WRVR’s place at 106.7 on the FM dial an ideal destination for music aficionados and those seeking a soothing soundtrack to their work or relaxation. Programs highlighting musicians, composers, poets, playwrights, actors, and opera performers were also a mainstay on WRVR. The WRVR collection includes hundreds of interviews, discussions, and performances in the musical and performing arts. WRVR’s jazz programming, in particular, became a special strength of the station’s lineup. 
 
 In its first year, WRVR published a monthly compact guide, which they hoped would be self-sustaining or even a revenue-generator for the station, with subscriptions priced at four dollars a year. The printing and mailing proved too expensive to continue beyond 1961, but those early guides abundantly showcased New York’s arts, museum, film, dance, arts festivals, and theater scene alongside the WRVR broadcast schedule. The *FineArts Guides* set the aspirational tone for the station, a one-stop place on the dial for cultural enrichment.
+
 [Include links to PDFs of all the 1961 guides = 11 total] 
 
 In mid-1961, WRVR materials noted that classical and “light classical” music was played “without comment or commercials” from 9 am to 5 pm Monday through Friday (*Just Music*), plus a 6:30 pm nightly symphony, representing more than forty hours weekly devoted to uninterrupted classical music concerts plus choral music and organ recitals from the Riverside Nave and opera performances. One popular seven-year project broadcast the entire works of conductor Arturo Toscanini.[<sup>72</sup>](/exhibits/wrvr/notes#72) Violinist Kees Kooper served as a musical consultant to WRVR in the early years.[<sup>73</sup>](/exhibits/wrvr/notes#73) A weekly Friday night show presented the work of contemporary composers, as described [in this 1968 promotional spot](https://americanarchive.org/catalog/cpb-aacip-528-707wm14t97?start=3517.89&end=3595.1).
@@ -32,11 +36,17 @@ WRVR announcer Max Cole, a longtime jazz host, music journalist, and festival pl
 Another frequently-heard show was *Jazz Anthology With Father O'Connor*, hosted by the Rev. Norman J. O’Connor. O’Connor’s career as a jazz writer, concert producer, and jazz show host began in the Boston area and continued on WRVR after he relocated to New York in 1962 to become the director of radio and television for the Paulist Fathers.[<sup>79</sup>](/exhibits/wrvr/notes#79) Among the WRVR Collection are some 140 complete episodes of [O’Connor’s Jazz Anthology](ADD LINK). 
 Example: [https://americanarchive.org/catalog/cpb-aacip-528-5q4rj49w00] 
 
-[ADD IMAGE] [Image: photograph of Duke Ellington and Father O’Connor, in WRVR FineArts Guide, January 1961, p. 9]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/3.+Duke+Ellington+and+Fr+Norman+O%E2%80%99Connor+page+9+WRVR+Fine+Arts+Guide+January+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/3.+Duke+Ellington+and+Fr+Norman+O%E2%80%99Connor+page+9+WRVR+Fine+Arts+Guide+January+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 The flagship WRVR jazz program, however, was [*Just Jazz with Ed Beach*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Just+Jazz&f[access_types][]=online), featuring the wry and knowledgeable host who played long uninterrupted sets spanning jazz recordings from the 1920s into the early 1970s. Episodes – airing two hours each weekday evening plus four or more hours of “long sets” on Saturdays -- generally concentrated on a single performer or ensemble, sometimes even more precisely on a narrow slice of their discography. The WRVR collection has more than 1,000 full episodes of *Just Jazz*, with approximately 100 featured in this exhibit. *The New York Times* praised the quality of Beach’s catalog as heard on WRVR’s clear FM signal, as well as Beach’s concise, restrained, occasionally humorous commentary. Donald Fagen of Steely Dan remembered rushing home to hear Beach’s “fabulously erudite” on-air patter.[<sup>80</sup>](/exhibits/wrvr/notes#80) Jazz writer Michael Steinman said of Beach, “He mixed reverence for the music and irreverence for things outside it (he was powerfully funny in an understated way).  He tried to teach us all what to listen to and how to listen to it.”[<sup>81</sup>](/exhibits/wrvr/notes#81) Composer, musician, and music historian Gunther Schuller included an extensive acknowledgement to Beach in his book Early Jazz: Its Roots and Musical Development, writing, “I want to thank Ed Beach and station WRVR in New York City for providing endless hours of superb listening, for his indefatigable enthusiasm, incorruptible taste, and unpretentious, accurate comments.” The programs, Schuller stated, are valuable not only for the music played, which Beach gathered from many collectors, but also for his commentary.[<sup>82</sup>](/exhibits/wrvr/notes#82) 
 
-[ADD IMAGE] [Image: Just Jazz graphic art from inside back cover of WRVR FineArt Guide June 1961]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/8.+Just+Jazz+graphic+art+from+inside+back+cover+of+WRVR+Fine+Arts+Guide+June+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/8.+Just+Jazz+graphic+art+from+inside+back+cover+of+WRVR+Fine+Arts+Guide+June+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 The potential loss of New York’s established home for long-form jazz programming led to controversy during WRVR’s sale and eventual transition into a commercial radio station in the late 1970s and early 1980s. As evidence of the station’s importance to the community of jazz musicians and listeners, the “ad hoc coalition Citizens for Jazz” filed a lawsuit (ultimately unsuccessful) alleging that the new owner, Viacom, had violated a promise to retain the station’s jazz format.[<sup>83</sup>](/exhibits/wrvr/notes#83)  
 
@@ -52,9 +62,21 @@ As WRVR passed from the scene, New York area listeners marked its contributions 
 - [Jazz Research at the Library of Congress](https://guides.loc.gov/jazz-research)
 
 ## Cover
-[ADD IMAGE] <img title="Cover Image" alt="Rita Moreno on the cover of *Life* magazine." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ritamoreno.png">
+<img title="Cover Image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg">
 
 ## Gallery
 
+- <a class="type">image</a>
+    <img alt="Cover Image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg">
+    <a class="caption-text">Cover Image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress).</a>
+    
+ - <a class="type">image</a>
+    <img alt="Cover Image" alt="Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/3.+Duke+Ellington+and+Fr+Norman+O%E2%80%99Connor+page+9+WRVR+Fine+Arts+Guide+January+1961+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">Cover Image" alt="Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives.</a>
+
+ - <a class="type">image</a>
+    <img alt="Cover Image" alt="Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/8.+Just+Jazz+graphic+art+from+inside+back+cover+of+WRVR+Fine+Arts+Guide+June+1961+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">Cover Image" alt="Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
+    
 ## Records
 
