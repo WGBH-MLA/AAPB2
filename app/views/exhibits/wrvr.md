@@ -27,7 +27,7 @@ The [WRVR-FM (Riverside Radio) Collection](https://americanarchive.org/special_c
 
 <table class="exhibit-image big-image">
 <caption align="bottom" class="exhibit-caption">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</caption>
-<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="(https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)" class="big-image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives."/></a></td></tr>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
 #### Background
