@@ -10,13 +10,21 @@
 
 ### Introduction
 
-[Thumbnail image: The Riverside Church pulpit or WRVR studio, supplied by Vince] [ADD IMAGE 24 here?]
-
 When WRVR went on the air in 1961, only about ninety of the nation’s four thousand radio stations were operated or owned by religious organizations.[<sup>42</sup>](/exhibits/wrvr/notes#42) Most of those had grown out of a long tradition of missionary-focused Protestant broadcasting, which aimed to strengthen the Christian faithful and expand their numbers through evangelism and conversion, often accompanied by fundraising appeals. Advocacy organizations such as the National Religious Broadcasters (founded in 1944) sought to carve out part of the American media landscape for ministry-oriented stations and programs.[<sup>43</sup>](/exhibits/wrvr/notes#43) WRVR, although technically owned by a church, offered a different philosophy: to be “liberal and dynamic in its approach to religion; interracial in its fellowship; international in its outlook; interdenominational in its inclusive fellowship; and intercultural in its concern.”[<sup>44</sup>](/exhibits/wrvr/notes#44) WRVR aired wide-ranging and inclusive religious broadcasting, showcasing the varied religious life of The Riverside Church itself as well as diverse interfaith programming. 
+
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 Full broadcasts of Sunday Riverside Church services were a weekly staple on WRVR, at the time of the station’s founding becoming the only New York City radio station to air a regular weekly Protestant Church service in its entirety.[<sup>45</sup>](/exhibits/wrvr/notes#45) Editions of the *FineArts Guide* included a clip-out form to mail in for printed copies of Riverside sermons at 10 cents each. Riverside religious programming included holiday specials, guest appearances by notable preachers, and other sermons and lectures, such as a three-part series in 1962, [Karl Barth’s Lectures on Evangelical Theology](https://americanarchive.org/catalog/cpb-aacip-528-r49g44k22p?start=55.93&end=216.97). WRVR also aired daily prerecorded five-minute prayers or sermon excerpts from emeritus minister [Dr. Harry Emerson Fosdick](https://americanarchive.org/catalog/cpb-aacip-528-6d5p844x5g?start=411.65&end=571.81]).[<sup>46</sup>](/exhibits/wrvr/notes#46)  
 
-[Use image of Fosdick (https://www.loc.gov/pictures/item/2014718298/) and Barth(https://www.loc.gov/pictures/item/99403178/ have to check rights on this one]?
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress).</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg" class="big-image" alt="Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress)."/></a></td></tr>
+</table>
+
+[Use image of Barth(https://www.loc.gov/pictures/item/99403178/ have to check rights on this one]?
 
 The Riverside Church was, in many ways, the paradigmatic embodiment of the liberal Protestant establishment. Even the first WRVR Sunday sermon (January 1, 1961), which was delivered by Dr. Robert McCracken, illustrates Riverside’s progressive theology. McCracken’s sermon, [“The Acid Test,”](https://americanarchive.org/catalog/cpb-aacip-528-nc5s757t1z?start=425.72&end=679.96) wove contemporary news items together with New Testament readings, critiquing American Christians as complacent and prosperous, and issuing a strenuous call towards a modern social gospel.[<sup>47</sup>](/exhibits/wrvr/notes#47)  
 
@@ -39,7 +47,12 @@ WRVR also provided space for other interfaith productions honoring Jewish cultur
 
 The station recorded and then rebroadcast a [May 28, 1965, Sabbath service of the Park Avenue Synagogue devoted to the remembrance of victims of the Holocaust](https://americanarchive.org/catalog/cpb-aacip-528-th8bg2jp92?start=1147.00&end=1614.08), during which the synagogue hosted former President Dwight Eisenhower and awarded him a silver-bound Bible in appreciation for his role in liberating European concentration camps. The speaker was Rabbi Judah Nadich, who had been a World War II military chaplain and Eisenhower’s adviser on Jewish affairs. 
 
-[include image 4 and also image of Joseph Heschel (https://www.loc.gov/pictures/item/99471698/) have to check rights on Heschel)?]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin.</caption>
+<tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg" class="big-image" alt="Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin."/></a></td></tr>
+</table>
+
+[include image of Joseph Heschel (https://www.loc.gov/pictures/item/99471698/) have to check rights on Heschel)?]
 
 The WRVR Collection includes numerous recordings that highlight American religious life across different traditions, and appearances at the Riverside pulpit by guest preachers, scholars, and theologians including [Martin Luther King, Jr.](https://americanarchive.org/catalog?after_date=1961-00-00&before_date=1967-00-00&end=4823.68&exact_or_range=range&f%5Baccess_types%5D%5B%5D=online&f%5Basset_type%5D%5B%5D=Program&f%5Bcontributing_organizations%5D%5B%5D=The+Riverside+Church++%28NY%29&q=King%2C+Martin+Luther%2C+Jr.%2C+1929-1968&start=3189.37), [James I. McCord](https://americanarchive.org/catalog/cpb-aacip-528-4b2x34nr40), [Edwin T. Dahlberg](https://americanarchive.org/catalog/cpb-aacip-528-f47gq6s76k), [Reinhold Niebuhr](https://americanarchive.org/catalog?q=%2Btitles%3A%22Reinhold+Niebuhr%22&f[access_types][]=online), [Abraham Joshua Heschel](https://americanarchive.org/catalog/cpb-aacip-528-pv6b27r32z?start=3189.37&end=4823.68), [Paul Tillich](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Riverside+Church++%28NY%29&q=%2Btitles%3A%22Paul+Tillich%22), [Karl Barth](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Riverside+Church++%28NY%29&q=%2Btitles%3A%22Karl+Barth%22), [William Sloane Coffin, Jr.](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=The+Riverside+Church++%28NY%29&q=%2Btitles%3A%22William+Sloane+Coffin%22), and many others. 
 
@@ -52,9 +65,21 @@ The WRVR Collection includes numerous recordings that highlight American religio
 - [Digitizing and Transcribing the Archives of NYC Progressive Church Radio (Radio Survivor)](https://www.radiosurvivor.com/2021/06/podcast-301-digitizing-transcribing-the-archives-of-nyc-progressive-church-radio/)
 
 
-## Cover [CHANGE IMAGE]
-  <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
+## Cover
+  <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
 
 ## Gallery
 
+ - <a class="type">image</a>
+    <img alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
+    <a class="caption-text">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</a>
+    
+ - <a class="type">image</a>
+    <img alt="Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg">
+    <a class="caption-text">Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress).</a>
+    
+ - <a class="type">image</a>
+    <img alt="Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg">
+    <a class="caption-text">Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin.</a>
+    
 ## Records
