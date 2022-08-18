@@ -32,6 +32,7 @@ Undoubtedly Riverside Radio is remembered for three nightly and weekend jazz sho
 WRVR announcer Max Cole, a longtime jazz host, music journalist, and festival planner in his own right, could be heard on [*More Jazz with Max Cole*](https://americanarchive.org/catalog?q=%22More+Jazz+With+Max+Cole%22&utf8=%E2%9C%93&f[access_types][]=digitized), airing early mornings, late evenings, and Saturday nights.[<sup>78</sup>](/exhibits/wrvr/notes#78)  
 
 [ADD IMAGE] [Use image, WRVR FineArts Guide Feb 1961, page 19] 
+[Also add image 11?]
 
 Another frequently-heard show was *Jazz Anthology With Father O'Connor*, hosted by the Rev. Norman J. O’Connor. O’Connor’s career as a jazz writer, concert producer, and jazz show host began in the Boston area and continued on WRVR after he relocated to New York in 1962 to become the director of radio and television for the Paulist Fathers.[<sup>79</sup>](/exhibits/wrvr/notes#79) Among the WRVR Collection are some 140 complete episodes of [O’Connor’s Jazz Anthology](ADD LINK). 
 Example: [https://americanarchive.org/catalog/cpb-aacip-528-5q4rj49w00] 
@@ -47,6 +48,8 @@ The flagship WRVR jazz program, however, was [*Just Jazz with Ed Beach*](https:/
 <caption align="bottom" class="exhibit-caption">Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/8.+Just+Jazz+graphic+art+from+inside+back+cover+of+WRVR+Fine+Arts+Guide+June+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/8.+Just+Jazz+graphic+art+from+inside+back+cover+of+WRVR+Fine+Arts+Guide+June+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
+
+[add image 9 here?]
 
 The potential loss of New York’s established home for long-form jazz programming led to controversy during WRVR’s sale and eventual transition into a commercial radio station in the late 1970s and early 1980s. As evidence of the station’s importance to the community of jazz musicians and listeners, the “ad hoc coalition Citizens for Jazz” filed a lawsuit (ultimately unsuccessful) alleging that the new owner, Viacom, had violated a promise to retain the station’s jazz format.[<sup>83</sup>](/exhibits/wrvr/notes#83)  
 
