@@ -28,11 +28,18 @@ Full coverage of a [Congress of Racial Equality (CORE) weekly press conference f
   <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" class="big-image" alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963. (Image courtesy Library of Congress)."/></a></td></tr>
 </table> 
 
-[Include image of James Farmer https://www.loc.gov/pictures/item/97519459/]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">James Farmer, World Telegram & Sun photo by Walter Albertin. (Image courtesy Library of Congress).</caption>
+  <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/james-farmer.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/james-farmer.jpg" class="big-image" alt="James Farmer, World Telegram & Sun photo by Walter Albertin. (Image courtesy Library of Congress)."/></a></td></tr>
+</table> 
 
 A six-hour documentary series recorded on-scene in Alabama by Jack Summerfield and journalist Walter Nixon during the May 1963 Birmingham campaign, *Birmingham: Testament of Nonviolence*. Without commentary or analysis, Summerfield and Nixon edited long audio-recorded sequences into harrowing and suspenseful episodes that captured the momentousness and uncertainty of the effort to desegregate Birmingham’s schools and public spaces using nonviolent action.[<sup>60</sup>](/exhibits/wrvr/notes#60) Rev. Bob Polk, minister to youth of The Riverside Church, joined Summerfield and Nixon for part 4 of the series, “Back to School in Birmingham,” and the broadcast includes excerpts from his discussion with Black teenagers involved in the direct action campaign on their attitudes and experiences. 
 
-[insert image 12 here?]
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives.</caption>
+  <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
+
 [Insert LOC images https://www.loc.gov/pictures/resource/ppmsca.72945/ and https://www.loc.gov/pictures/resource/ppmsca.72947/ here?]
 
 *New York Times* radio reporter Jack Gould argued that “the effectiveness of the WRVR coverage lay in the station’s determination to let the events speak for themselves.” The documentary not only covered moments of great tension and drama, but also “unhurried interviews with persons of all conceivable shades of opinion in Birmingham. In consequence the listener felt in the center of unfolding history in the South and had a kaleidoscopic view of the diverse forces influencing its course.” Gould suggested that only a noncommercial radio station could afford such “depth of treatment and outspokenness seldom available elsewhere on the dial.”[<sup>61</sup>](/exhibits/wrvr/notes#61) Birmingham: Testament of Nonviolence won multiple awards and contributed to the station’s winning its Peabody Award in 1965. It was offered for rebroadcast on the NAEB Radio Network and “received nationwide publicity as outstanding examples of radio journalism.”[<sup>62</sup>](/exhibits/wrvr/notes#62)  
@@ -52,6 +59,11 @@ An [undated show (possibly from October 20, 1967)](https://americanarchive.org/c
 A [two and a half-hour call-in show about the military draft](https://americanarchive.org/catalog/cpb-aacip-528-707wm14t97), produced by WRVR’s Urban Affairs Unit aired March 21, 1968, aired in response to many requests from listeners. It was intended to help allay concerns about new Selective Service regulations. Callers received practical advice on deferments, conscientious objection, and order of call, from a panel of experts.
 
 In 1969, The Riverside Church began a series of memorials for American soldiers who died in the Vietnam War by solemnly reading their names and hometowns. The WRVR collection contains several recordings from this project, like [“Reading of the War Dead” from November 16, 1968](https://americanarchive.org/catalog/cpb-aacip-528-h98z893k51), with over two hours of names read.
+
+<table class="exhibit-image big-image">
+<caption align="bottom" class="exhibit-caption">News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives.</caption>
+  <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives."/></a></td></tr>
+</table>
 
 [Use image for March Against Death here https://www.loc.gov/pictures/resource/cph.3g02839/ or https://www.loc.gov/pictures/resource/yan.1a36258/?]
 
@@ -79,5 +91,13 @@ Eastern Public Radio coverage of the [Rally for Peace in Washington D.C., Novemb
  - <a class="type">image</a>
     <img alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg">
     <a class="caption-text">CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress).</a>
+    
+- <a class="type">image</a>
+    <img alt="James Farmer, World Telegram & Sun photo by Walter Albertin. (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/james-farmer.jpg">
+    <a class="caption-text">James Farmer, World Telegram & Sun photo by Walter Albertin. (Image courtesy Library of Congress).</a>
+    
+- <a class="type">image</a>
+    <img alt="News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png">
+    <a class="caption-text">News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives.</a>
     
 ## Records
