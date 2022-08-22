@@ -74,25 +74,5 @@ As WRVR passed from the scene, New York area listeners marked its contributions 
 
 ## Gallery
 
-- <a class="type">image</a>
-    <img alt="Cover Image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg">
-    <a class="caption-text">Cover Image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress).</a>
-    
-- <a class="type">image</a>
-    <img alt="Cover Image" alt="Max Cole at the microphone, from the February 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/11.+Max+Cole+at+the+microphone+page+19+WRVR+Fine+Arts+Guide+February+1961+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">Cover Image" alt="Max Cole at the microphone, from the February 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
-    
- - <a class="type">image</a>
-    <img alt="Cover Image" alt="Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/3.+Duke+Ellington+and+Fr+Norman+O%E2%80%99Connor+page+9+WRVR+Fine+Arts+Guide+January+1961+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">Cover Image" alt="Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives.</a>
-
- - <a class="type">image</a>
-    <img alt="Cover Image" alt="Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/8.+Just+Jazz+graphic+art+from+inside+back+cover+of+WRVR+Fine+Arts+Guide+June+1961+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">Cover Image" alt="Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
-    
-- <a class="type">image</a>
-    <img alt="Cover Image" alt="Just Jazz host Ed Beach in the studio at WRVR circa 1961, courtesy of The Riverside Church Archives." https://s3.amazonaws.com/americanarchive.org/exhibits/9.+Just+Jazz+host+Ed+Beach+in+the+studio+at+WRVR+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
-    <a class="caption-text">Cover Image" alt="Just Jazz host Ed Beach in the studio at WRVR circa 1961, courtesy of The Riverside Church Archives.</a>
-    
 ## Records
 
