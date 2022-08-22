@@ -4,7 +4,7 @@
 
 This exhibit features recordings from WRVR-FM, the radio station of The Riverside Church in the City of New York, an innovator in noncommercial radio from 1961 to 1971. First and foremost the broadcast voice of a vibrant and distinctive Protestant congregation on Manhattan’s upper West Side, WRVR also helped shape public broadcasting’s early years through its experimental approaches. WRVR was committed to public affairs reporting and formed a news division to cover politics, civic issues, civil rights, and the emerging antiwar movement. WRVR was highly lauded for its arts and cultural programming, featuring classical, jazz, opera, rock, folk, and world music. 
 
-The [WRVR-FM (Riverside Radio) Collection](https://americanarchive.org/special_collections/wrvr-riverside) features over 3,700 recordings representing more than 4,000 hours of WRVR radio from the 1960s and early 1970s. Most of the programs were digitized from reel recordings in the archives of The Riverside Church as part of a grant from the Council on Library and Information Resources (CLIR), through the efforts of The Riverside Church archivist Ricki Moskowitz. More than 1,000 recordings of WRVR’s program *Just Jazz with Ed Beac*h were donated to the Library of Congress by its host, Ed Beach. The curator gratefully acknowledges assistance with this exhibit from Rob Bamberger, Thomas Barrick, Casey Davis-Kaufman, Christopher Hartten, Vincent Kelley, Jon Newsom, Cynthia Nixon, Vincent Novara, Loras Schissel, Bill Siemering, Raymond White, and an anonymous reviewer. 
+The [WRVR-FM (Riverside Radio) Collection](https://americanarchive.org/special_collections/wrvr-riverside) features over 3,700 recordings representing more than 4,000 hours of WRVR radio from the 1960s and early 1970s. Most of the programs were digitized from reel recordings in the archives of The Riverside Church as part of a grant from the Council on Library and Information Resources (CLIR), through the efforts of The Riverside Church archivist Ricki Moskowitz. More than 1,000 recordings of WRVR’s program *Just Jazz with Ed Beac*h were donated to the Library of Congress by its host, Ed Beach. The curator gratefully acknowledges assistance with this exhibit from Rob Bamberger, Thomas Barrick, Casey Davis, Alan Gevinson, Christopher Hartten, Vincent Kelley, Jon Newsom, Cynthia Nixon, Vincent Novara, Loras Schissel, Bill Siemering, Raymond White, Henry Neels, Miranda Villesvik, and an anonymous reviewer. 
 
 ## Extended
 
@@ -54,7 +54,8 @@ John D. Rockefeller, Jr., funded the construction of Riverside’s dramatic lime
 Over the years The Riverside Church engaged in a wide range of local missionary and community service efforts, including ministry programs targeted towards groups such as international students, young businesswomen and men, servicemen, the aged, and others. Riverside called itself a “small town church in the big city,” with close to 3,900 members and 220 employed staff in 1960. Its high church formal Sunday services imbued Riverside with a sense of gravitas, and their interfaith work and engagement in the city’s civic life provided cultural authority. Riverside frequently collaborated with other religious and educational institutions situated nearby in Morningside Heights including Barnard College, Union Theological Seminary, Interchurch Center, and Columbia University. The demographics of the neighborhood were shifting in the late 1950s, with growing numbers of Puerto Rican and Black residents. As an increasing number of Riverside members lived outside the immediate neighborhood in other boroughs and suburbs, radio was seen as a way both to serve the diversifying local community and to knit together a geographically-dispersing congregation.[<sup>5</sup>](/exhibits/wrvr/notes#5)   
 
 A 1954 internal church survey recommended looking into radio and television as new avenues for Riverside to fulfill its mission and meet some of these emerging demographic needs.[<sup>6</sup>](/exhibits/wrvr/notes#6) In 1956 a specially commissioned committee laid out plans to expand Riverside into radio and possibly television production and update its physical plant for broadcasting. This was followed by a year-long study of a Special FM Radio Committee, led by Francis S. Harmon. A Riverside trustee and former Board of Deacons chairman, Harmon was then serving as vice president of the National Council of Churches and of the Interchurch Center. He had previously been president of the YMCA and worked in motion picture distribution as an assistant to Will H. Hays, head of the Motion Picture Producers and Distributors Association, the industry’s organization for self-regulation.[<sup>7</sup>](/exhibits/wrvr/notes#7)  
-[Excerpt of 1965 event about Riverside’s Past, “Where the New Began.”](https://americanarchive.org/catalog/cpb-aacip-528-t72794277f?start=2668.08&end=3123.62)
+
+[Listen to an excerpt of a 1965 event about Riverside’s Past, “Where the New Began.”](https://americanarchive.org/catalog/cpb-aacip-528-t72794277f?start=2668.08&end=3123.62)
 
 Based on the Special FM Radio Committee’s advice, Riverside filed an FCC application in early 1957 to operate a station using the last unassigned FM channel in the New York metropolitan area. The application was granted in July 1959. Although its assigned frequency (FM 106.7) was in the commercial part of the spectrum, WRVR proposed to operate on a noncommercial basis. A high-quality 20,000 watt radio transmitter and soundproof studio were retrofitted into the Church at the cost of $130,000, and the station began broadcasting in January 1961. Its range was such that it could be easily heard in all of New York City and surrounding areas of Staten Island, Long Island, northern New Jersey, Westchester County, and Connecticut.[<sup>8</sup>](/exhibits/wrvr/notes#8) Riverside set aside a budget of a quarter of a million dollars from the church endowment and bequests to pay for WRVR’s first two years and created the Riverside Broadcasting Company to govern the station.[<sup>9</sup>](/exhibits/wrvr/notes#9) Initially WRVR broadcast Riverside’s Sunday services, along with about a hundred hours each week of concert recordings, public affairs shows, and programs featuring local arts and culture.[<sup>10</sup>](/exhibits/wrvr/notes#10) *The New York Times* noted as WRVR began broadcasting, “Although religion will provide the heart of the programming, cultural, educational, news, and musical material will provide the body.”[<sup>11</sup>](/exhibits/wrvr/notes#11)  
 
@@ -122,48 +123,11 @@ Its first station manager, Jack Summerfield, considered WRVR unique as “a chur
 
 The 1967 Public Broadcasting Act created a new legislative structure for noncommercial television and radio. When NPR was established in 1970, it did not include WRVR among its flagship stations. Yet WRVR had pioneered a decade-long model of cultural, news, and public-affairs programming that would inform the culture and practices of public radio and had indelibly left its mark on a broad swath of New York City listeners.[<sup>41</sup>](/exhibits/wrvr/notes#41)  
 
+#### Next: [WRVR's Religious Broadcasting](/exhibits/wrvr/2-wrvr-religious-broadcasting)
+
 ## Cover
-  <img title="Cover Image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
+  <img title="Cover Image" alt="Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6_square.jpg">
 
 ## Gallery
-- <a class="type">image</a>
-    <img alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
-    <a class="caption-text">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</a>
-
-- <a class="type">image</a>
-    <img alt="John D. Rockefeller, Jr. and Rev. Dr. Harry Emerson Fosdick pictured with unnamed workers and craftsmen roughly at the time of the completion of The Riverside Church’s structure circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D6.+John+D+Rockefeller+Jr+and+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+unnamed+workers+and+craftsmen+around+the+completion+of+the+church+structure+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
-    <a class="caption-text">John D. Rockefeller, Jr. and Rev. Dr. Harry Emerson Fosdick pictured with unnamed workers and craftsmen roughly at the time of the completion of The Riverside Church’s structure circa 1930, courtesy of The Riverside Church Archives.</a>
-
-- <a class="type">image</a>
-    <img alt="The Riverside Church as viewed from the northwest circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D23.+The+Riverside+Church+viewed+from+the+northwest+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
-    <a class="caption-text">The Riverside Church as viewed from the northwest circa 1930, courtesy of The Riverside Church Archives.</a>
-
-- <a class="type">image</a>
-    <img alt="Rev. Dr. Harry Emerson Fosdick pictured with a microphone circa 1928, courtesy of The Riverside Church Archives. © N. Lazarnick Commercial Photographers." src="https://s3.amazonaws.com/americanarchive.org/exhibits/19.+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+radio+microphone+circa+1928+CREDIT+N.+Lazarnick+Commercial+Photographers.jpg">
-    <a class="caption-text">Rev. Dr. Harry Emerson Fosdick pictured with a microphone circa 1928, courtesy of The Riverside Church Archives. © N. Lazarnick Commercial Photographers.</a>
-    
-- <a class="type">image</a>
-    <img alt="Rev. Dr. Ernest T. Campbell in a WRVR studio circa the late 1960s, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/18.+Rev+Dr+Ernest+T+Campbell+in+a+WRVR+studio+circa+the+late+1960s+CREDIT+The+Riverside+Church+Archives.jpg">
-    <a class="caption-text">Rev. Dr. Ernest T. Campbell in a WRVR studio circa the late 1960s, courtesy of The Riverside Church Archives.</a>
-
- - <a class="type">image</a>
-    <img alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
-
- - <a class="type">image</a>
-    <img alt="Page 3 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/14.+Page+3+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">Page 3 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
-
-- <a class="type">image</a>
-    <img alt="Page 4 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/15.+Page+4+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">Page 4 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
-
-- <a class="type">image</a>
-    <img alt="Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</a>
-
-- <a class="type">image</a>
-    <img alt="The Riverside Church as seen from across the Hudson River circa 2014, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/22.+The+Riverside+Church+seen+across+the+Hudson+River+circa+2014+CREDIT+The+Riverside+Church+Archives.jpg">
-    <a class="caption-text">The Riverside Church as seen from across the Hudson River circa 2014, courtesy of The Riverside Church Archives.</a>
 
 ## Records
