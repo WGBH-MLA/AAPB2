@@ -20,12 +20,12 @@ The *Eyes on the Prize* Interviews were preserved during 2010-2016 thanks to a g
 
 ## Featured
 
-[![Muhammad Ali](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_4c9dc622ae9.jpg)](/catalog/cpb-aacip-4c9dc622ae9)
-[![Rosa Parks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_3d6da8ac245.jpg)](/catalog/cpb-aacip-3d6da8ac245)
-[![Coretta Scott King](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_cb8361b9f1b.jpg)](/catalog/cpb-aacip-cb8361b9f1b)
-[![Harry Belafonte](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_eb547dab27c.jpg)](/catalog/cpb-aacip-eb547dab27c)
-[![Eleanor Holmes Norton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_430b63fafa6.jpg)](/catalog/cpb-aacip-430b63fafa6)
-[![Frank “Big Black” Smith](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_3fee37c3060.jpg)](/catalog/cpb-aacip-3fee37c3060)
+[![John Lewis](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-8k74t6fv60.jpg)](/catalog/cpb-aacip_151-8k74t6fv60)
+[![Coretta Scott King](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-542j679j5g.jpg)](/catalog/cpb-aacip_151-542j679j5g)
+[![Rosa Parks](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_151-610vq2sx12.jpg)](/catalog/cpb-aacip_151-610vq2sx12)
+[![Harry Belafonte](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-36800f8277a.jpg)](/catalog/cpb-aacip-36800f8277a)
+[![Eleanor Holmes Norton](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-e087550ff82.jpg)](/catalog/cpb-aacip-e087550ff82)
+[![Frank “Big Black” Smith](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-fa0a4ce612f.jpg)](/catalog/cpb-aacip-fa0a4ce612f)
 
 ## Resources
 
