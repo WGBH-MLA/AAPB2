@@ -10,14 +10,14 @@
 
 When WRVR went on the air in 1961, only about ninety of the nation’s four thousand radio stations were operated or owned by religious organizations.[<sup>42</sup>](/exhibits/wrvr/notes#42) Most of those had grown out of a long tradition of missionary-focused Protestant broadcasting, which aimed to strengthen the Christian faithful and expand their numbers through evangelism and conversion, often accompanied by fundraising appeals. Advocacy organizations such as the National Religious Broadcasters (founded in 1944) sought to carve out part of the American media landscape for ministry-oriented stations and programs.[<sup>43</sup>](/exhibits/wrvr/notes#43) WRVR, although technically owned by a church, offered a different philosophy: to be “liberal and dynamic in its approach to religion; interracial in its fellowship; international in its outlook; interdenominational in its inclusive fellowship; and intercultural in its concern.”[<sup>44</sup>](/exhibits/wrvr/notes#44) WRVR aired wide-ranging and inclusive religious broadcasting, showcasing the varied religious life of The Riverside Church itself as well as diverse interfaith programming. 
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
 Full broadcasts of Sunday Riverside Church services were a weekly staple on WRVR, at the time of the station’s founding becoming the only New York City radio station to air a regular weekly Protestant Church service in its entirety.[<sup>45</sup>](/exhibits/wrvr/notes#45) Editions of the *FineArts Guide* included a clip-out form to mail in for printed copies of Riverside sermons at 10 cents each. Riverside religious programming included holiday specials, guest appearances by notable preachers, and other sermons and lectures, such as a three-part series in 1962, [Karl Barth’s Lectures on Evangelical Theology](https://americanarchive.org/catalog/cpb-aacip-528-r49g44k22p?start=55.93&end=216.97). WRVR also aired daily prerecorded five-minute prayers or sermon excerpts from emeritus minister [Dr. Harry Emerson Fosdick](https://americanarchive.org/catalog/cpb-aacip-528-6d5p844x5g?start=411.65&end=571.81]).[<sup>46</sup>](/exhibits/wrvr/notes#46)  
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. Image courtesy Library of Congress, https://www.loc.gov/pictures/item/2014718298/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg" class="big-image" alt="Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress)."/></a></td></tr>
 </table>
@@ -45,12 +45,12 @@ WRVR also provided space for other interfaith productions honoring Jewish cultur
 
 The station recorded and then rebroadcast a [May 28, 1965, Sabbath service of the Park Avenue Synagogue devoted to the remembrance of victims of the Holocaust](https://americanarchive.org/catalog/cpb-aacip-528-th8bg2jp92?start=1147.00&end=1614.08), during which the synagogue hosted former President Dwight Eisenhower and awarded him a silver-bound Bible in appreciation for his role in liberating European concentration camps. The speaker was Rabbi Judah Nadich, who had been a World War II military chaplain and Eisenhower’s adviser on Jewish affairs. 
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg" class="big-image" alt="Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin."/></a></td></tr>
 </table>
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/00653107/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg" class="big-image" alt="Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress."/></a></td></tr>
 </table>
