@@ -8,8 +8,6 @@
 
 ## Main
 
-### Introduction
-
 News programs regularly aired on WRVR included BBC World Report; a short daily live feed from Washington D.C., with Voice of America announcer Raymond Swing; National Council of Churches’ Church World News; and a regular program of news commentary produced in-house with Riverside’s Executive Minister, *Gordon Gilkey Views the News*.[<sup>59</sup>](/exhibits/wrvr/notes#59) WRVR aired exclusive local coverage of the [1971 hearings of the Knapp Commission](https://www.wnyc.org/story/knapp-commission-hearings-tape-7-102171-fifth-day/) investigating corruption in the New York City Police Department.
 
 <table class="exhibit-image big-image">
@@ -24,12 +22,12 @@ Some examples of WRVR’s civil rights coverage include the following:
 Full coverage of a [Congress of Racial Equality (CORE) weekly press conference from May 14, 1963, with CORE’s leader, James Farmer](https://americanarchive.org/catalog/cpb-aacip-528-tm71v5ct9b), taking place in Washington D.C., over a live Educational Radio Network hookup to panels of journalists in Boston, New York, and Philadelphia. In the press conference, Farmer responded to questions about the “present mood” of Black Americans, the goals and strategies of CORE and the Freedom Task Force, and movement leaders’ views of President Kennedy’s civil rights policies. 
 
 <table class="exhibit-image big-image">
-<caption align="bottom" class="exhibit-caption">CORE March in Washington DC in memory of children killed in Birmingham, 1963 (Image courtesy Library of Congress).</caption>
+<caption align="bottom" class="exhibit-caption">CORE March in Washington DC in memory of children killed in Birmingham, 1963. Image courtesy Library of Congress, https://lccn.loc.gov/2003688165.</caption>
   <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" class="big-image" alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963. (Image courtesy Library of Congress)."/></a></td></tr>
 </table> 
 
 <table class="exhibit-image big-image">
-<caption align="bottom" class="exhibit-caption">James Farmer, World Telegram & Sun photo by Walter Albertin. (Image courtesy Library of Congress).</caption>
+<caption align="bottom" class="exhibit-caption">James Farmer, World Telegram & Sun photo by Walter Albertin. Image courtesy Library of Congress, https://www.loc.gov/pictures/item/97519459/.</caption>
   <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/james-farmer.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/james-farmer.jpg" class="big-image" alt="James Farmer, World Telegram & Sun photo by Walter Albertin. (Image courtesy Library of Congress)."/></a></td></tr>
 </table> 
 
