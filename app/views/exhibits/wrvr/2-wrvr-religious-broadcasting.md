@@ -18,7 +18,7 @@ When WRVR went on the air in 1961, only about ninety of the nation’s four thou
 Full broadcasts of Sunday Riverside Church services were a weekly staple on WRVR, at the time of the station’s founding becoming the only New York City radio station to air a regular weekly Protestant Church service in its entirety.[<sup>45</sup>](/exhibits/wrvr/notes#45) Editions of the *FineArts Guide* included a clip-out form to mail in for printed copies of Riverside sermons at 10 cents each. Riverside religious programming included holiday specials, guest appearances by notable preachers, and other sermons and lectures, such as a three-part series in 1962, [Karl Barth’s Lectures on Evangelical Theology](https://americanarchive.org/catalog/cpb-aacip-528-r49g44k22p?start=55.93&end=216.97). WRVR also aired daily prerecorded five-minute prayers or sermon excerpts from emeritus minister [Dr. Harry Emerson Fosdick](https://americanarchive.org/catalog/cpb-aacip-528-6d5p844x5g?start=411.65&end=571.81]).[<sup>46</sup>](/exhibits/wrvr/notes#46)  
 
 <table class="exhibit-image big-image">
-<caption align="bottom" class="exhibit-caption">Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress).</caption>
+<caption align="bottom" class="exhibit-caption">Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. Image courtesy Library of Congress, https://www.loc.gov/pictures/item/2014718298/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg" class="big-image" alt="Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress)."/></a></td></tr>
 </table>
 
@@ -51,7 +51,7 @@ The station recorded and then rebroadcast a [May 28, 1965, Sabbath service of th
 </table>
 
 <table class="exhibit-image big-image">
-<caption align="bottom" class="exhibit-caption">Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress.</caption>
+<caption align="bottom" class="exhibit-caption">Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/00653107/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg" class="big-image" alt="Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress."/></a></td></tr>
 </table>
 
