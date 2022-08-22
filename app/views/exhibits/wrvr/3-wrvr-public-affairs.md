@@ -70,14 +70,5 @@ WRVR also produced a weekly show called [*Hispanic Community*](https://americana
 
 ## Gallery
 
-- <a class="type">image</a>
-    <img alt="Del Shields, left, interviews guest Mayor John V. Lindsay on Night Call, while Station Manager Walter P. Sheppard looks on in the summer of 1968, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/2.+Del+Shields+left+interviews+guest+Mayor+John+V+Lindsay+on+Night+Call+while+Station+Manager+Walter+P+Sheppard+looks+on+in+the+summer+of+1968+Carillon+newsletter+October+18+1968+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">Del Shields, left, interviews guest Mayor John V. Lindsay on Night Call, while Station Manager Walter P. Sheppard looks on in the summer of 1968, courtesy of The Riverside Church Archives.</a>
-
-
-- <a class="type">image</a>
-    <img alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
-    <a class="caption-text">Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives.</a>
-
 ## Records
 
