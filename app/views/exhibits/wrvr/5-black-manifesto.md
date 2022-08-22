@@ -35,12 +35,11 @@ As part of Riverside’s response, Black congregants and lay leaders formed a Bl
 - [National Black Economic Development Conference (Detroit Historical Society)](https://detroithistorical.org/learn/encyclopedia-of-detroit/national-black-economic-development-conference)
 
 
-## Cover [UPDATE IMAGE]
+## Cover
   <img title="Cover Image" alt="Lucius Walker and James Forman speaking into microphone outside The Riverside Church, https://www.loc.gov/item/2012646954/" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
 
-## Gallery [UPDATE IMAGE]
-
- - <a class="type">image</a>
+## Gallery
+  - <a class="type">image</a>
     <img alt="Lucius Walker and James Forman speaking into microphone outside The Riverside Church, https://www.loc.gov/item/2012646954/" src="https://s3.amazonaws.com/americanarchive.org/exhibits/14.+Page+3+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png">
     <a class="caption-text">Lucius Walker and James Forman speaking into microphone outside The Riverside Church, https://www.loc.gov/item/2012646954/</a>
 
