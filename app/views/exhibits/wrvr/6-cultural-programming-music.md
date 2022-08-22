@@ -20,7 +20,7 @@ Other arts showcased included theater and poetry. WRVR produced both existing an
 
 Riverside occasionally included folk music, blues, and rock ’n’ roll in its musical programming, such as its coverage of a twelve-hour folk concert from the The Riverside Church’s Theater and other New York City venues in July 29, 1961. The live “Hootenanny” festival was co-produced by Israel Young and Bob Yellin, featuring fifty folk and blues musicians like Victoria Spivey, Tom Paxton, and a new talent whom a *New York Times* reporter described as a “20-year old latter-day [Woody] Guthrie disciple named Bob Dylan, with a curiously arresting mumbling, country-steeped manner.”[<sup>74</sup>](/exhibits/wrvr/notes#74) [Portions of this concert](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bspecial_collections%5D%5B%5D=wrvr-riverside&per_page=100&sort=asset_date+asc&exact_or_range=exact&after_date=1961-07-29&commit=Update) are available for listening at the Library of Congress and GBH, though Bob Dylan’s performance is not included. *The Richter Scale Society* premiered on WRVR in 1968 and could be heard throughout 1969 for six hours during the overnight shift, with several examples among the WRVR recordings. [*The Richter Scale Society*](https://americanarchive.org/catalog/cpb-aacip-528-kp7tm7371h) divided its time between rock, soul, interviews, and discussion of new record releases.[<sup>75</sup>](/exhibits/wrvr/notes#75) 
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. Image courtesy Library of Congress, https://www.loc.gov/item/gottlieb.06191/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg" class="big-image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress)."/></a></td></tr>
 </table>
@@ -29,7 +29,7 @@ Undoubtedly Riverside Radio is remembered for three nightly and weekend jazz sho
 
 WRVR announcer Max Cole, a longtime jazz host, music journalist, and festival planner in his own right, could be heard on [*More Jazz with Max Cole*](https://americanarchive.org/catalog?q=%22More+Jazz+With+Max+Cole%22&utf8=%E2%9C%93&f[access_types][]=digitized), airing early mornings, late evenings, and Saturday nights.[<sup>78</sup>](/exhibits/wrvr/notes#78)  
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Max Cole at the microphone, from the February 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/11.+Max+Cole+at+the+microphone+page+19+WRVR+Fine+Arts+Guide+February+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/11.+Max+Cole+at+the+microphone+page+19+WRVR+Fine+Arts+Guide+February+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Max Cole at the microphone, from the February 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
@@ -38,19 +38,19 @@ Another frequently-heard show was *Jazz Anthology With Father O'Connor*, hosted 
 
 [Example of a record of Jazz Anthology With Father O'Connor](https://americanarchive.org/catalog/cpb-aacip-528-5q4rj49w00) 
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/3.+Duke+Ellington+and+Fr+Norman+O%E2%80%99Connor+page+9+WRVR+Fine+Arts+Guide+January+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/3.+Duke+Ellington+and+Fr+Norman+O%E2%80%99Connor+page+9+WRVR+Fine+Arts+Guide+January+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
 The flagship WRVR jazz program, however, was [*Just Jazz with Ed Beach*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Just+Jazz&f[access_types][]=online), featuring the wry and knowledgeable host who played long uninterrupted sets spanning jazz recordings from the 1920s into the early 1970s. Episodes – airing two hours each weekday evening plus four or more hours of “long sets” on Saturdays -- generally concentrated on a single performer or ensemble, sometimes even more precisely on a narrow slice of their discography. The WRVR collection has more than 1,000 full episodes of *Just Jazz*, with approximately 100 featured in this exhibit. *The New York Times* praised the quality of Beach’s catalog as heard on WRVR’s clear FM signal, as well as Beach’s concise, restrained, occasionally humorous commentary. Donald Fagen of Steely Dan remembered rushing home to hear Beach’s “fabulously erudite” on-air patter.[<sup>80</sup>](/exhibits/wrvr/notes#80) Jazz writer Michael Steinman said of Beach, “He mixed reverence for the music and irreverence for things outside it (he was powerfully funny in an understated way).  He tried to teach us all what to listen to and how to listen to it.”[<sup>81</sup>](/exhibits/wrvr/notes#81) Composer, musician, and music historian Gunther Schuller included an extensive acknowledgement to Beach in his book Early Jazz: Its Roots and Musical Development, writing, “I want to thank Ed Beach and station WRVR in New York City for providing endless hours of superb listening, for his indefatigable enthusiasm, incorruptible taste, and unpretentious, accurate comments.” The programs, Schuller stated, are valuable not only for the music played, which Beach gathered from many collectors, but also for his commentary.[<sup>82</sup>](/exhibits/wrvr/notes#82) 
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/8.+Just+Jazz+graphic+art+from+inside+back+cover+of+WRVR+Fine+Arts+Guide+June+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/8.+Just+Jazz+graphic+art+from+inside+back+cover+of+WRVR+Fine+Arts+Guide+June+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Just Jazz graphic art from the inside back cover of the June 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
-<table class="exhibit-image big-image">
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Just Jazz host Ed Beach in the studio at WRVR circa 1961, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/9.+Just+Jazz+host+Ed+Beach+in+the+studio+at+WRVR+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/9.+Just+Jazz+host+Ed+Beach+in+the+studio+at+WRVR+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="Just Jazz host Ed Beach in the studio at WRVR circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
