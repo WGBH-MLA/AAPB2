@@ -76,20 +76,4 @@ The WRVR Collection includes numerous recordings that highlight American religio
 
 ## Gallery
 
- - <a class="type">image</a>
-    <img alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
-    <a class="caption-text">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</a>
-    
- - <a class="type">image</a>
-    <img alt="Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress)." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg">
-    <a class="caption-text">Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress).</a>
-    
- - <a class="type">image</a>
-    <img alt="Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg">
-    <a class="caption-text">Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin.</a>
-    
-- <a class="type">image</a>
-    <img alt="Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress." src="https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg">
-    <a class="caption-text">Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress.</a>
-    
 ## Records
