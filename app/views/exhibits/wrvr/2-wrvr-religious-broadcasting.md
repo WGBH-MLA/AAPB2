@@ -8,8 +8,6 @@
 
 ## Main
 
-### Introduction
-
 When WRVR went on the air in 1961, only about ninety of the nation’s four thousand radio stations were operated or owned by religious organizations.[<sup>42</sup>](/exhibits/wrvr/notes#42) Most of those had grown out of a long tradition of missionary-focused Protestant broadcasting, which aimed to strengthen the Christian faithful and expand their numbers through evangelism and conversion, often accompanied by fundraising appeals. Advocacy organizations such as the National Religious Broadcasters (founded in 1944) sought to carve out part of the American media landscape for ministry-oriented stations and programs.[<sup>43</sup>](/exhibits/wrvr/notes#43) WRVR, although technically owned by a church, offered a different philosophy: to be “liberal and dynamic in its approach to religion; interracial in its fellowship; international in its outlook; interdenominational in its inclusive fellowship; and intercultural in its concern.”[<sup>44</sup>](/exhibits/wrvr/notes#44) WRVR aired wide-ranging and inclusive religious broadcasting, showcasing the varied religious life of The Riverside Church itself as well as diverse interfaith programming. 
 
 <table class="exhibit-image big-image">
