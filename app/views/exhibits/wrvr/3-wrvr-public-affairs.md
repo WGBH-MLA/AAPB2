@@ -8,8 +8,6 @@
 
 ## Main
 
-### Introduction
-
 Jack Summerfield, WRVR general manager from 1961 – 1968, shaped the station’s approach to rigorous and expansive public affairs programming. Occasionally WRVR scooped other news organizations, as with Walter Nixon’s reporting on certain aspects of the Cuban Missile Crisis.[<sup>51</sup>](/exhibits/wrvr/notes#51) It developed many regular and special programs focused on local, national, and international events and topics of public concern, including ones that drew on the strengths of the documentary unit’s penchant for recording the ambient sound of New York itself.[<sup>52</sup>](/exhibits/wrvr/notes#52) To some extent, its interactive listener call-in programs (like the military draft special described in Section 3 of this exhibit) also functioned as public affairs content, putting people on the air – unedited – to ask questions and share observations and stories. *Night Call*, which used WRVR studios during its 20-month run in 1968-1969, was one such show. *Night Call* was hosted by Black DJ Del Shields every weeknight around midnight, usually with an in-studio guest. It was carried over 92 stations nationwide with the sponsorship of the United Methodist Church and the National Council of Churches. People of all races and backgrounds collect-called into the station’s phone line to converse with Shields and his guests in a free-flowing, unscripted interchange that made the show a local and national phenomenon.[<sup>53</sup>](/exhibits/wrvr/notes#53)  
 
 <table class="exhibit-image big-image">
@@ -21,6 +19,7 @@ Jack Summerfield, WRVR general manager from 1961 – 1968, shaped the station’
 WRVR’s location in upper Manhattan with proximity to several major universities, theological schools, and the United Nations gave producers a ready network of civic leaders, scholars, journalists, and activists for its programs.[<sup>54</sup>](/exhibits/wrvr/notes#54) This wide range is suggested by a few examples from the collection. 
 
 WRVR Public Affairs Unit produced a number of different public affairs shows, among them the [variety talk show *Pulsebeat 70*](https://americanarchive.org/catalog/cpb-aacip-528-qf8jd4qz94?start=0&end=33.12) hosted by Barney Lane three evenings a week, with segments such as [“Congressional Comment”](https://americanarchive.org/catalog/cpb-aacip-528-3x83j3b46z?start=10556.71&end=10991.28) by members of Congress (produced by the United Church of Christ Communication Department), reports from the United Nations, and urban affairs coverage.  
+
 On [“The Advocates,”](https://americanarchive.org/catalog/cpb-aacip-528-qf8jd4qz94?start=45.05&end=76.21) guests debated a topic and invited listeners to vote by mail. 
 
 WRVR also produced a weekly show called *Politics*. [This January 1970 episode](https://americanarchive.org/catalog/cpb-aacip-528-3x83j3b46z?start=11048.9&end=14478.05) of the series includes interviews with two of Manhattan’s elected district leaders. 
