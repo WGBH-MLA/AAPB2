@@ -8,8 +8,6 @@
 
 ## Main
 
-### Introduction
-
 Music was always the predominant programming genre during most of Riverside Radio WRVR’s broadcast hours, especially in its early years. FM radio provides high-fidelity sound, making WRVR’s place at 106.7 on the FM dial an ideal destination for music aficionados and those seeking a soothing soundtrack to their work or relaxation. Programs highlighting musicians, composers, poets, playwrights, actors, and opera performers were also a mainstay on WRVR. The WRVR collection includes hundreds of interviews, discussions, and performances in the musical and performing arts. WRVR’s jazz programming, in particular, became a special strength of the station’s lineup. 
 
 In its first year, WRVR published a monthly compact guide, which they hoped would be self-sustaining or even a revenue-generator for the station, with subscriptions priced at four dollars a year. The printing and mailing proved too expensive to continue beyond 1961, but those early guides abundantly showcased New York’s arts, museum, film, dance, arts festivals, and theater scene alongside the WRVR broadcast schedule. The *FineArts Guides* set the aspirational tone for the station, a one-stop place on the dial for cultural enrichment.
@@ -23,7 +21,7 @@ Other arts showcased included theater and poetry. WRVR produced both existing an
 Riverside occasionally included folk music, blues, and rock ’n’ roll in its musical programming, such as its coverage of a twelve-hour folk concert from the The Riverside Church’s Theater and other New York City venues in July 29, 1961. The live “Hootenanny” festival was co-produced by Israel Young and Bob Yellin, featuring fifty folk and blues musicians like Victoria Spivey, Tom Paxton, and a new talent whom a *New York Times* reporter described as a “20-year old latter-day [Woody] Guthrie disciple named Bob Dylan, with a curiously arresting mumbling, country-steeped manner.”[<sup>74</sup>](/exhibits/wrvr/notes#74) [Portions of this concert](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bspecial_collections%5D%5B%5D=wrvr-riverside&per_page=100&sort=asset_date+asc&exact_or_range=exact&after_date=1961-07-29&commit=Update) are available for listening at the Library of Congress and GBH, though Bob Dylan’s performance is not included. *The Richter Scale Society* premiered on WRVR in 1968 and could be heard throughout 1969 for six hours during the overnight shift, with several examples among the WRVR recordings. [*The Richter Scale Society*](https://americanarchive.org/catalog/cpb-aacip-528-kp7tm7371h) divided its time between rock, soul, interviews, and discussion of new record releases.[<sup>75</sup>](/exhibits/wrvr/notes#75) 
 
 <table class="exhibit-image big-image">
-<caption align="bottom" class="exhibit-caption">Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress).</caption>
+<caption align="bottom" class="exhibit-caption">Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. Image courtesy Library of Congress, https://www.loc.gov/item/gottlieb.06191/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg" class="big-image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress)."/></a></td></tr>
 </table>
 
@@ -37,7 +35,7 @@ WRVR announcer Max Cole, a longtime jazz host, music journalist, and festival pl
 </table>
 
 Another frequently-heard show was *Jazz Anthology With Father O'Connor*, hosted by the Rev. Norman J. O’Connor. O’Connor’s career as a jazz writer, concert producer, and jazz show host began in the Boston area and continued on WRVR after he relocated to New York in 1962 to become the director of radio and television for the Paulist Fathers.[<sup>79</sup>](/exhibits/wrvr/notes#79) Among the WRVR Collection are some 140 complete episodes of [O’Connor’s Jazz Anthology](https://americanarchive.org/catalog?page=10&q=%22Jazz+Anthology%22&f[access_types][]=digitized). 
-Example: [https://americanarchive.org/catalog/cpb-aacip-528-5q4rj49w00] 
+(Example of a record of Jazz Anthology With Father O'Connor)[https://americanarchive.org/catalog/cpb-aacip-528-5q4rj49w00] 
 
 <table class="exhibit-image big-image">
 <caption align="bottom" class="exhibit-caption">Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives.</caption>
