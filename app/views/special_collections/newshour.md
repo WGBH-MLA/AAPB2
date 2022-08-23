@@ -29,7 +29,7 @@ Visit our [Tribute to Jim Lehrer](/a-tribute-to-jim-lehrer).
 - [History of *PBS NewsHour*](https://www.pbs.org/newshour/about/history)
 - [“Gavel-to-Gavel": The Watergate Scandal and Public Television exhibit](/exhibits/watergate)
 - [Burning with a Deadly Heat: NewsHour Coverage of the Hot Wars of the Cold War exhibit](/exhibits/newshour-cold-war)
-- [Presenting the Past; *PBS NewsHour* with Judy Woodruff and Annette Miller (AAPB podcast)](https://youtu.be/MJlTr5yoyVk)
+- [Presenting the Past; *PBS NewsHour* with Judy Woodruff and Annette Miller (AAPB podcast)](https://youtu.be/LTgfR1XbWsw)
 - [Preserving Public Broadcasting at 50 Years – Event at the Library of Congress (video recording)](https://www.youtube.com/watch?v=cHsceZqsH2M&t=)
 - [*PBS NewsHour*'s Judy Woodruff on ethics in a time of crisis (University of Virginia Miller Center)](https://millercenter.org/news-events/events/pbs-newshours-judy-woodruff-ethics-time-crisis)
 
