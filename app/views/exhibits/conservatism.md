@@ -14,7 +14,7 @@
 
 ## Resources
 
-  - [*Presenting the Past*; NET and Modern Conservatism with Allison Perlman, PhD (AAPB podcast)](https://www.youtube.com/watch?v=3bZP-giVJOo)
+  - [*Presenting the Past*; NET and Modern Conservatism with Allison Perlman, PhD (AAPB podcast)](https://youtu.be/97GWDykhiaE)
   - [*Firing Line* with William F. Buckley, Jr. Special Collection](https://americanarchive.org/special_collections/firing-line)
   - [Guide to the John Birch Society records (1928-1990), Brown University](https://www.riamco.org/render?eadid=US-RPB-ms2013.003&view=title)
 
