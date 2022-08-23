@@ -19,7 +19,7 @@ Full broadcasts of Sunday Riverside Church services were a weekly staple on WRVR
 
 The Riverside Church was, in many ways, the paradigmatic embodiment of the liberal Protestant establishment. Even the first WRVR Sunday sermon (January 1, 1961), which was delivered by Dr. Robert McCracken, illustrates Riverside’s progressive theology. McCracken’s sermon, [“The Acid Test,”](https://americanarchive.org/catalog/cpb-aacip-528-nc5s757t1z?start=425.72&end=679.96) wove contemporary news items together with New Testament readings, critiquing American Christians as complacent and prosperous, and issuing a strenuous call towards a modern social gospel.[<sup>47</sup>](/exhibits/wrvr/notes#47)  
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. Image courtesy Library of Congress, https://www.loc.gov/pictures/item/2014718298/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg" class="big-image" alt="Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress)."/></a></td></tr>
 </table>
@@ -48,7 +48,7 @@ WRVR also provided space for other interfaith productions honoring Jewish cultur
 
 The station recorded and then rebroadcast a [May 28, 1965, Sabbath service of the Park Avenue Synagogue devoted to the remembrance of victims of the Holocaust](https://americanarchive.org/catalog/cpb-aacip-528-th8bg2jp92?start=1147.00&end=1614.08), during which the synagogue hosted former President Dwight Eisenhower and awarded him a silver-bound Bible in appreciation for his role in liberating European concentration camps. The speaker was Rabbi Judah Nadich, who had been a World War II military chaplain and Eisenhower’s adviser on Jewish affairs. 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/00653107/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg" class="big-image" alt="Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress."/></a></td></tr>
 </table>
