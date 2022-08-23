@@ -36,7 +36,7 @@ As part of Riverside’s response, Black congregants and lay leaders formed a Bl
 - [National Black Economic Development Conference (Detroit Historical Society)](https://detroithistorical.org/learn/encyclopedia-of-detroit/national-black-economic-development-conference)
 
 ## Cover
-  <img title="Cover Image" alt="James Forman reads a statement outside the Riverside Church on May 11th, rejecting the offer made by the church to donate a portion of its annual income to the poor. After reading the statement, he walked in to sit in the front pew. He had been under a court order prohibiting him from disrupting services as he did on last May 4th. Courtesy Getty." src="http://www.gettyimages.com/detail/515104140">
+  <img title="Cover Image" alt="Aerial view of The Riverside Church circa 1930, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg">
 
 ## Gallery
 
