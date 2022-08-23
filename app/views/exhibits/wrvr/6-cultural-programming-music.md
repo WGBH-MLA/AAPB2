@@ -18,7 +18,7 @@ In mid-1961, WRVR materials noted that classical and “light classical” music
 
 Other arts showcased included theater and poetry. WRVR produced both existing and original radio plays, children’s theater, tributes to playwrights, and discussion of Broadway shows. [*Poetry Discovered*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bproducing_organizations%5D%5B%5D=WRVR+%28Radio+station%3A+New+York%2C+N.Y.%29&q=%22Poetry+Discovered%22) often featured the poets themselves reading and discussing their work; there are over forty episodes of *Poetry Discovered* among the WRVR recordings. One unique recording, [“Elegy in Verse,” from March 1970](https://americanarchive.org/catalog/cpb-aacip-528-zg6g15vr41) combined twenty-five poets reading poems with Riverside’s Vietnam Memorial Readings Committee ritual reading of Vietnam War dead. The recording includes readings by Robert Lowell, David Henderson, Kenneth Cope, Muriel Rukeyser, and John Ashbery. 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. Image courtesy Library of Congress, https://www.loc.gov/item/gottlieb.06191/.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/25-wrvr-theloniusmonk.jpg" class="big-image" alt="Portrait of Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947. (Image courtesy Library of Congress)."/></a></td></tr>
 </table>
@@ -27,7 +27,7 @@ Riverside occasionally included folk music, blues, and rock ’n’ roll in its 
 
 Undoubtedly Riverside Radio is remembered for three nightly and weekend jazz shows that originated from WRVR.[<sup>76</sup>](/exhibits/wrvr/notes#76) During the decades when many of the twentieth-century jazz greats were still actively recording and when many early recordings were being reissued, WRVR celebrated this uniquely American art form in all its varieties and devoted a large portion of its weekly musical programming hours to jazz music and jazz performers.[<sup>77</sup>](/exhibits/wrvr/notes#77) 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Max Cole at the microphone, from the February 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/11.+Max+Cole+at+the+microphone+page+19+WRVR+Fine+Arts+Guide+February+1961+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/11.+Max+Cole+at+the+microphone+page+19+WRVR+Fine+Arts+Guide+February+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Max Cole at the microphone, from the February 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
