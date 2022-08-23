@@ -36,8 +36,6 @@ WRVR often devoted entire hours-long broadcasts to prerecorded speeches or lectu
 
 A long-running WRVR series, [*Late, Late Lecture*](https://americanarchive.org/catalog?q=%22Late%2C+Late%2C+Lecture%22&utf8=%E2%9C%93&f[access_types][]=online), rebroadcast speeches and lectures of general interest delivered around the country, often recorded at universities or professional society meetings. There are thirty-one *Late, Late Lectures* in the WRVR Collection, including talks by Supreme Court Justice William O. Douglas, New York Governor Nelson Rockefeller, novelist Katherine Ann Porter, poet John Ciardi, former president Harry Truman, poet and playwright Jean Cocteau, economist John Kenneth Galbraith, cartoonist Herbert Block, and many others – not all of them identified on the recordings, such as the speaker of [“American Anxieties: The Political Results,”](https://americanarchive.org/catalog/cpb-aacip-528-xd0qr4q29p) which aired in October 1964. 
 
-[Include Herb Block Cartoon here? (https://www.loc.gov/pictures/item/2012635817/) check with Alan about use first?]
-
 Some of WRVR’s public affairs programming came through the sharing of broadcasts of recordings with the National Association of Educational Broadcasters (NAEB), the National Educational Radio Network (NERN), and other educational broadcast stations.[<sup>57</sup>](/exhibits/wrvr/notes#57) The collection includes numerous examples of this shared content, like a [NERN “Special of the Week” from April 1965 with American ambassador to the United Nations Adlai Stevenson](https://americanarchive.org/catalog/cpb-aacip-528-rn3028qs88?start=271.06&end=438.48), speaking to a New York City convention of newspaper publishers. 	
 
 <table class="exhibit-image half-image">
