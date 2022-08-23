@@ -33,7 +33,7 @@ A six-hour documentary series recorded on-scene in Alabama by Jack Summerfield a
   <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Women writing during the Birmingham Campaign. Image courtesy Library of Congress, https://www.loc.gov/pictures/resource/ppmsca.72945/.</caption>
   <tr><td><a href="(https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign.jpg)" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign.jpg" class="big-image" alt="Women writing during the Birmingham Campaign. Image courtesy Library of Congress."/></a></td></tr>
 </table> 
