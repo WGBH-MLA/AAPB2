@@ -1,8 +1,8 @@
-# <em>New Mexico Public Media Collection</em>
+# New Mexico Public Media Collection
 
 ## Thumbnail
 
-![<em>New Mexico Public Media Collection</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama.png "New Mexico Public Media Collection")
+![New Mexico Public Media Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama.png "New Mexico Public Media Collection")
 
 ## Summary
 
