@@ -41,7 +41,7 @@ One regular, long-running interfaith effort was [*Portion of the Week*](https://
 
 WRVR also provided space for other interfaith productions honoring Jewish culture and history. It partnered with the Jewish Theological Seminary to produce a series exploring Jewish holidays, including a [1966 program explaining the significance of Sukkot](https://americanarchive.org/catalog/cpb-aacip-528-kw57d2rj30?start=15.15&end=279.89).
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg" class="big-image" alt="Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin."/></a></td></tr>
 </table>
