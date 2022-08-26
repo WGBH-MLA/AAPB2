@@ -27,14 +27,14 @@ The [WRVR-FM (Riverside Radio) Collection](https://americanarchive.org/special_c
 
 #### Background
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">The Riverside Church as viewed from the northwest circa 1930, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D23.+The+Riverside+Church+viewed+from+the+northwest+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D23.+The+Riverside+Church+viewed+from+the+northwest+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="The Riverside Church as viewed from the northwest circa 1930, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
 The Riverside Church in the City of New York “often has had a leading hand in crafting the way that liberal American Protestants thought, worshipped, and responded to their times.” The church’s decade-long radio project in the 1960s is one manifestation of Riverside’s longstanding cultural power and influence not just in the immediate New York metropolitan area; even from its founding it became, in many ways, “the national cathedral of mainstream Protestantism.”[<sup>1</sup>](/exhibits/wrvr/notes#1)
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">John D. Rockefeller, Jr. and Rev. Dr. Harry Emerson Fosdick pictured with unnamed workers and craftsmen roughly at the time of the completion of The Riverside Church’s structure circa 1930, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D6.+John+D+Rockefeller+Jr+and+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+unnamed+workers+and+craftsmen+around+the+completion+of+the+church+structure+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/%5Bproposed%5D6.+John+D+Rockefeller+Jr+and+Rev+Dr+Harry+Emerson+Fosdick+pictured+with+unnamed+workers+and+craftsmen+around+the+completion+of+the+church+structure+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="John D. Rockefeller, Jr. and Rev. Dr. Harry Emerson Fosdick pictured with unnamed workers and craftsmen roughly at the time of the completion of The Riverside Church’s structure circa 1930, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
@@ -72,7 +72,7 @@ In addition to religious and news programming, WRVR focused on arts and cultural
 
 > During its first year on the air, WRVR launched a number of special series and one-time broadcasts including: an eight-hour Folk Music Festival, broadcast live from The Riverside Church theatre with tapes made available for VOA [Voice of America] broadcast; an Hispano-American University of the Air four hours weekly; eight consecutive hours of live solo and chamber music originating from several of Riverside’s studios; a thirteen-week series of live piano recitals by Mary Louise Boehm and a violin-piano duo series with Miss Boehm and the Dutch violinist Kees Kooper; interviews with musicians about their art and with cartoonists about ‘The Cartoonist’s Art’ distributed by the NAEB [National Association of Educational Broadcasters]; a complete reading by Robert J. McCracken, Minister of The Riverside Church, of the New English Bible, New Testament, released by the John Milton Society as a Talking Book for the Blind; regular news reports from the United Nations and the Voice of America; three weekly book programs utilizing interviews, readings, and commentary; regular live broadcasts of concerts from the Metropolitan Museum; and Saturday through Thursday midnight presentations of ‘Portion of the Week,’ the Bible as read in the synagogue with Rabbinic commentary.[<sup>15</sup>](/exhibits/wrvr/notes#15)  
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
 </caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
@@ -80,7 +80,7 @@ In addition to religious and news programming, WRVR focused on arts and cultural
 
 Through Summerfield, WRVR played an active role in developing other regional educational broadcasting networks, including the National Association of Educational Broadcasters (NAEB) and the Educational Radio Network / National Educational Radio Network (ERN or  NERN) in the Northeastern states, an early predecessor of National Public Radio (NPR). NERN had grown out of the Lowell Institute Cooperative Broadcasting Council in the Boston area, with more than a dozen educational and cultural institutions sharing recordings and developing efforts at live radio networking.[<sup>16</sup>](/exhibits/wrvr/notes#16) In April 1961, WRVR became the NERN New York City FM affiliate.[<sup>17</sup>](/exhibits/wrvr/notes#17) WRVR’s *FineArts Guide* noted in October 1961 that NERN would serve “nearly a quarter of the country’s population [that] lives in the continuous metropolitan community of the Atlantic Seaboard,” people who represented “the Free World’s most powerful concentration of leadership in education, government, law, science, religion, medicine, industry, and culture.” Through NERN, “Riverside Radio listeners will be participating … in a venture which promises to develop in radio broadcasting its most imperative role: that of the authoritative, responsible, and dedicated disseminator of knowledge in all fields of endeavor.”[<sup>18</sup>](/exhibits/wrvr/notes#18)  
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Pages 3 and 4 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
 </caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/erndoc.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/erndoc.jpg" class="big-image" alt="Pages 3 and 4 of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
@@ -90,7 +90,7 @@ In December 1961, a group of listeners wrote in praise of the new station: “We
 
 By 1965 WRVR had twenty employees and four interns from Columbia University. The station had acquired a large music library of recordings, in addition to the recordings it made of live performances in its own spaces and vicinity.[<sup>20</sup>](/exhibits/wrvr/notes#20) It produced [a promotional fifth anniversary show](https://americanarchive.org/catalog/cpb-aacip-528-k93125rm8s) looking back on its achievements as a noncommercial FM station. 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
