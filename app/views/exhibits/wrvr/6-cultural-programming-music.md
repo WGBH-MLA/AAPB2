@@ -34,7 +34,7 @@ Undoubtedly Riverside Radio is remembered for three nightly and weekend jazz sho
 
 WRVR announcer Max Cole, a longtime jazz host, music journalist, and festival planner in his own right, could be heard on [*More Jazz with Max Cole*](https://americanarchive.org/catalog?q=%22More+Jazz+With+Max+Cole%22&utf8=%E2%9C%93&f[access_types][]=digitized), airing early mornings, late evenings, and Saturday nights.[<sup>78</sup>](/exhibits/wrvr/notes#78)  
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/3.+Duke+Ellington+and+Fr+Norman+O%E2%80%99Connor+page+9+WRVR+Fine+Arts+Guide+January+1961+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/3.+Duke+Ellington+and+Fr+Norman+O%E2%80%99Connor+page+9+WRVR+Fine+Arts+Guide+January+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Duke Ellington and Fr. Norman O’Connor in picture dated January 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
@@ -52,7 +52,7 @@ The flagship WRVR jazz program, however, was [*Just Jazz with Ed Beach*](https:/
 
 The WRVR collection has more than 1,000 full episodes of *Just Jazz*, with approximately 100 featured in this exhibit. *The New York Times* praised the quality of Beach’s catalog as heard on WRVR’s clear FM signal, as well as Beach’s concise, restrained, occasionally humorous commentary. Donald Fagen of Steely Dan remembered rushing home to hear Beach’s “fabulously erudite” on-air patter.[<sup>80</sup>](/exhibits/wrvr/notes#80) Jazz writer Michael Steinman said of Beach, “He mixed reverence for the music and irreverence for things outside it (he was powerfully funny in an understated way).  He tried to teach us all what to listen to and how to listen to it.”[<sup>81</sup>](/exhibits/wrvr/notes#81) Composer, musician, and music historian Gunther Schuller included an extensive acknowledgement to Beach in his book Early Jazz: Its Roots and Musical Development, writing, “I want to thank Ed Beach and station WRVR in New York City for providing endless hours of superb listening, for his indefatigable enthusiasm, incorruptible taste, and unpretentious, accurate comments.” The programs, Schuller stated, are valuable not only for the music played, which Beach gathered from many collectors, but also for his commentary.[<sup>82</sup>](/exhibits/wrvr/notes#82) 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Just Jazz host Ed Beach in the studio at WRVR circa 1961, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/9.+Just+Jazz+host+Ed+Beach+in+the+studio+at+WRVR+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/9.+Just+Jazz+host+Ed+Beach+in+the+studio+at+WRVR+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="Just Jazz host Ed Beach in the studio at WRVR circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
