@@ -21,14 +21,14 @@ Some examples of WRVR’s civil rights coverage include the following:
 
 Full coverage of a [Congress of Racial Equality (CORE) weekly press conference from May 14, 1963, with CORE’s leader, James Farmer](https://americanarchive.org/catalog/cpb-aacip-528-tm71v5ct9b), taking place in Washington D.C., over a live Educational Radio Network hookup to panels of journalists in Boston, New York, and Philadelphia. In the press conference, Farmer responded to questions about the “present mood” of Black Americans, the goals and strategies of CORE and the Freedom Task Force, and movement leaders’ views of President Kennedy’s civil rights policies. 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">CORE March in Washington DC in memory of children killed in Birmingham, 1963. Image courtesy Library of Congress, https://lccn.loc.gov/2003688165.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" class="big-image" alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963. (Image courtesy Library of Congress)."/></a></td></tr>
 </table> 
 
 A six-hour documentary series recorded on-scene in Alabama by Jack Summerfield and journalist Walter Nixon during the May 1963 Birmingham campaign, [*Birmingham: Testament of Nonviolence*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Birmingham%3A+Testament+of+Nonviolence&f[access_types][]=online). Without commentary or analysis, Summerfield and Nixon edited long audio-recorded sequences into harrowing and suspenseful episodes that captured the momentousness and uncertainty of the effort to desegregate Birmingham’s schools and public spaces using nonviolent action.[<sup>60</sup>](/exhibits/wrvr/notes#60) Rev. Bob Polk, minister to youth of The Riverside Church, joined Summerfield and Nixon for part 4 of the series, [“Back to School in Birmingham](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=Back+to+School+in+Birmingham&f[access_types][]=online),” and the broadcast includes excerpts from his discussion with Black teenagers involved in the direct action campaign on their attitudes and experiences. 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
@@ -38,7 +38,7 @@ A six-hour documentary series recorded on-scene in Alabama by Jack Summerfield a
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign.jpg" class="big-image" alt="Women writing during the Birmingham Campaign. Image courtesy Library of Congress."/></a></td></tr>
 </table> 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Albernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress, https://www.loc.gov/pictures/resource/ppmsca.72947.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" class="big-image" alt="Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Albernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress."/></a></td></tr>
 </table> 
