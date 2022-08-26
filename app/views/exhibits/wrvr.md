@@ -54,7 +54,7 @@ A 1954 internal church survey recommended looking into radio and television as n
 [Listen to an excerpt of a 1965 event about Riverside’s Past, “Where the New Began.”](https://americanarchive.org/catalog/cpb-aacip-528-t72794277f?start=2668.08&end=3123.62)
 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image small-image left">
 <caption align="bottom" class="exhibit-caption">Rev. Dr. Ernest T. Campbell in a WRVR studio circa the late 1960s, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/18.+Rev+Dr+Ernest+T+Campbell+in+a+WRVR+studio+circa+the+late+1960s+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/18.+Rev+Dr+Ernest+T+Campbell+in+a+WRVR+studio+circa+the+late+1960s+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="Rev. Dr. Ernest T. Campbell in a WRVR studio circa the late 1960s, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
@@ -73,9 +73,9 @@ In addition to religious and news programming, WRVR focused on arts and cultural
 
 > During its first year on the air, WRVR launched a number of special series and one-time broadcasts including: an eight-hour Folk Music Festival, broadcast live from The Riverside Church theatre with tapes made available for VOA [Voice of America] broadcast; an Hispano-American University of the Air four hours weekly; eight consecutive hours of live solo and chamber music originating from several of Riverside’s studios; a thirteen-week series of live piano recitals by Mary Louise Boehm and a violin-piano duo series with Miss Boehm and the Dutch violinist Kees Kooper; interviews with musicians about their art and with cartoonists about ‘The Cartoonist’s Art’ distributed by the NAEB [National Association of Educational Broadcasters]; a complete reading by Robert J. McCracken, Minister of The Riverside Church, of the New English Bible, New Testament, released by the John Milton Society as a Talking Book for the Blind; regular news reports from the United Nations and the Voice of America; three weekly book programs utilizing interviews, readings, and commentary; regular live broadcasts of concerts from the Metropolitan Museum; and Saturday through Thursday midnight presentations of ‘Portion of the Week,’ the Bible as read in the synagogue with Rabbinic commentary.[<sup>15</sup>](/exhibits/wrvr/notes#15)  
 
-<table class="exhibit-image small-image">
+<table class="exhibit-image small-image left">
 <caption align="bottom" class="exhibit-caption">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
-</caption>
+</caption> 
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
