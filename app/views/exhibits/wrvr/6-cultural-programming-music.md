@@ -13,6 +13,7 @@ Music was always the predominant programming genre during most of Riverside Radi
 In its first year, WRVR published a monthly compact guide, which they hoped would be self-sustaining or even a revenue-generator for the station, with subscriptions priced at four dollars a year. The printing and mailing proved too expensive to continue beyond 1961, but those early guides abundantly showcased New York’s arts, museum, film, dance, arts festivals, and theater scene alongside the WRVR broadcast schedule. The *FineArts Guides* set the aspirational tone for the station, a one-stop place on the dial for cultural enrichment.
 
 1961 *FineArts Guides*:
+<br>
 [January 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1N-D8-IVFtim9If4CBWkvpvWeQR9XeN9w/view)
 <br>
 [February 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1-3ryv1TfR_FmST1aLeQH2a4MYXEfLXIf/view)
