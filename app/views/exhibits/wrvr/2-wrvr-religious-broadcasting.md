@@ -37,21 +37,22 @@ WRVR’s November 1961 *FineArts Guide* proclaimed that the station “seeks to 
 One way that the station discarded the “denominational and ecclesiastical trimmings” was by highlighting interfaith programming, like rebroadcasting the semi-annual General Conferences of the Church of Jesus Christ of Latter-day Saints, originating from Salt Lake City, Utah.[<sup>50</sup>](/exhibits/wrvr/notes#50) WRVR also produced special programs looking at Catholic life in America, such as a [1965 conversation with Father Joseph F. Scheuer and Fordham communications professor Edward Wakin](https://americanarchive.org/catalog/cpb-aacip-528-xs5j961q2p?start=1554.13&end=1770.55), authors of a study about how life was changing for American nuns. 
 WRVR programs considered the theological, ecumenical, and liturgical reforms of the [Vatican II Council](https://americanarchive.org/catalog/cpb-aacip-528-5d8nc5td6b?start=1155.57&end=1376.53). 
 
-One regular, long-running interfaith effort was [*Portion of the Week*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Portion+of+the+Week&per_page=100&sort=title+asc), a weekly Torah reading with commentary by guest rabbis drawn from over forty-five synagogues and Jewish centers in the greater New York / New Jersey metropolitan area. The collection features over 300 episodes, such as this example from March 1962. Orthodox Rabbi Samuel Landa of the Ozone Park (New York) Jewish Center [comments on the first chapters of Leviticus](https://americanarchive.org/catalog/cpb-aacip-528-6m3319t73v?start=21.61&end=354.81). 
-
-WRVR also provided space for other interfaith productions honoring Jewish culture and history. It partnered with the Jewish Theological Seminary to produce a series exploring Jewish holidays, including a [1966 program explaining the significance of Sukkot](https://americanarchive.org/catalog/cpb-aacip-528-kw57d2rj30?start=15.15&end=279.89).
-
-<table class="exhibit-image small-image">
+<table class="exhibit-image">
 <caption align="bottom" class="exhibit-caption">Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/4.+Goodwin+Roll+938+6.jpg" class="big-image" alt="Dr. Martin Luther King, Jr. delivers his “Beyond Vietnam” speech into a WRVR microphone during the “Vietnam: A Crisis of Conscience” event, sponsored by Clergy and Laymen Concerned About Vietnam, held at The Riverside Church on April 4, 1967, courtesy of the Goodwin Family. © John C. Goodwin."/></a></td></tr>
 </table>
 
-The station recorded and then rebroadcast a [May 28, 1965, Sabbath service of the Park Avenue Synagogue devoted to the remembrance of victims of the Holocaust](https://americanarchive.org/catalog/cpb-aacip-528-th8bg2jp92?start=1147.00&end=1614.08), during which the synagogue hosted former President Dwight Eisenhower and awarded him a silver-bound Bible in appreciation for his role in liberating European concentration camps. The speaker was Rabbi Judah Nadich, who had been a World War II military chaplain and Eisenhower’s adviser on Jewish affairs. 
+One regular, long-running interfaith effort was [*Portion of the Week*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Portion+of+the+Week&per_page=100&sort=title+asc), a weekly Torah reading with commentary by guest rabbis drawn from over forty-five synagogues and Jewish centers in the greater New York / New Jersey metropolitan area. The collection features over 300 episodes, such as this example from March 1962. Orthodox Rabbi Samuel Landa of the Ozone Park (New York) Jewish Center [comments on the first chapters of Leviticus](https://americanarchive.org/catalog/cpb-aacip-528-6m3319t73v?start=21.61&end=354.81). 
 
-<table class="exhibit-image small-image">
+<table class="exhibit-image small-image left">
 <caption align="bottom" class="exhibit-caption">Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/00653107/.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg" class="big-image" alt="Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress."/></a></td></tr>
 </table>
+
+WRVR also provided space for other interfaith productions honoring Jewish culture and history. It partnered with the Jewish Theological Seminary to produce a series exploring Jewish holidays, including a [1966 program explaining the significance of Sukkot](https://americanarchive.org/catalog/cpb-aacip-528-kw57d2rj30?start=15.15&end=279.89).
+
+The station recorded and then rebroadcast a [May 28, 1965, Sabbath service of the Park Avenue Synagogue devoted to the remembrance of victims of the Holocaust](https://americanarchive.org/catalog/cpb-aacip-528-th8bg2jp92?start=1147.00&end=1614.08), during which the synagogue hosted former President Dwight Eisenhower and awarded him a silver-bound Bible in appreciation for his role in liberating European concentration camps. The speaker was Rabbi Judah Nadich, who had been a World War II military chaplain and Eisenhower’s adviser on Jewish affairs. 
+
 
 <table class="exhibit-image small-image">
 <caption align="bottom" class="exhibit-caption">Professor Abraham J. Heschel. Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/99471698/.</caption>

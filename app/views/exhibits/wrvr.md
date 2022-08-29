@@ -92,7 +92,7 @@ In December 1961, a group of listeners wrote in praise of the new station: “We
 
 By 1965 WRVR had twenty employees and four interns from Columbia University. The station had acquired a large music library of recordings, in addition to the recordings it made of live performances in its own spaces and vicinity.[<sup>20</sup>](/exhibits/wrvr/notes#20) It produced [a promotional fifth anniversary show](https://americanarchive.org/catalog/cpb-aacip-528-k93125rm8s) looking back on its achievements as a noncommercial FM station. 
 
-<table class="exhibit-image small-image">
+<table class="exhibit-image small-image left">
 <caption align="bottom" class="exhibit-caption">Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/10.+Listener+letters+quoted+in+WRVR+Fine+Arts+Guide+May+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Listener letters quoted in the May 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
