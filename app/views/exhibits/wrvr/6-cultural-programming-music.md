@@ -14,27 +14,27 @@ In its first year, WRVR published a monthly compact guide, which they hoped woul
 
 1961 *FineArts Guides*:
 <br>
-[January 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1N-D8-IVFtim9If4CBWkvpvWeQR9XeN9w/view)
+[January 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_011961_AccessFile.pdf)
 <br>
-[February 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1-3ryv1TfR_FmST1aLeQH2a4MYXEfLXIf/view)
+[February 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_021961_AccessFile.pdf)
 <br>
-[March 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1a_VkgfdaJWWbmEUS-zoD5ePzx2XoPdkJ/view)
+[March 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_031961_AccessFile.pdf)
 <br>
-[April 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1wYXWHddI2c9e0GXSymao0ri5cS-ijOtB/view)
+[April 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_041961_AccessFile.pdf)
 <br>
-[May 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1X-VdndknwvA-DJZrpLqfujVCBOIFOqtC/view)
+[May 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_051961_AccessFile.pdf)
 <br>
-[June 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1o03tO5M_bPl5VYc4TuKvVelMN9eL5oD4/view)
+[June 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_061961_AccessFile.pdf)
 <br>
-[July-August 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/16iLPAiHAwof187eFcrPMV3n_FYq3nB20/view)
+[July-August 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_07_081961_AccessFile.pdf)
 <br>
-[September 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1hBQVfIo9WJUNtBkejtlIWkTLpMw6QLwE/view)
+[September 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_091961_AccessFile.pdf)
 <br>
-[October 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1k9UiVXN7gaJWLzPMfaymQYrfM3bHzBCR/view)
+[October 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_101961_AccessFile.pdf)
 <br>
-[November 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1jIdcxOLkPTyQb4uw2ZuhOb5nA-vruQPK/view)
+[November 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_111961_AccessFile.pdf)
 <br>
-[December 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1bc_BZzd_S1GPD1ngR1Fn6dgvoW6fxG5G/view)
+[December 1961, *WRVR New York FineArts Guide*](https://s3.amazonaws.com/americanarchive.org/exhibits/WRVR_FineArtsGuide_121961_AccessFile.pdf)
 <br>
 
 In mid-1961, WRVR materials noted that classical and “light classical” music was played “without comment or commercials” from 9 am to 5 pm Monday through Friday (*Just Music*), plus a 6:30 pm nightly symphony, representing more than forty hours weekly devoted to uninterrupted classical music concerts plus choral music and organ recitals from the Riverside Nave and opera performances. One popular seven-year project broadcast the entire works of conductor Arturo Toscanini.[<sup>72</sup>](/exhibits/wrvr/notes#72) Violinist Kees Kooper served as a musical consultant to WRVR in the early years.[<sup>73</sup>](/exhibits/wrvr/notes#73) A weekly Friday night show presented the work of contemporary composers, as described [in this 1968 promotional spot](https://americanarchive.org/catalog/cpb-aacip-528-707wm14t97?start=3517.89&end=3595.1).
