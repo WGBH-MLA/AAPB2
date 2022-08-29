@@ -12,7 +12,29 @@ Music was always the predominant programming genre during most of Riverside Radi
 
 In its first year, WRVR published a monthly compact guide, which they hoped would be self-sustaining or even a revenue-generator for the station, with subscriptions priced at four dollars a year. The printing and mailing proved too expensive to continue beyond 1961, but those early guides abundantly showcased New York’s arts, museum, film, dance, arts festivals, and theater scene alongside the WRVR broadcast schedule. The *FineArts Guides* set the aspirational tone for the station, a one-stop place on the dial for cultural enrichment.
 
-[Include links to PDFs of all the 1961 guides = 11 total] 
+1961 *FineArts Guides*:
+[January 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1N-D8-IVFtim9If4CBWkvpvWeQR9XeN9w/view)
+<br>
+[February 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1-3ryv1TfR_FmST1aLeQH2a4MYXEfLXIf/view)
+<br>
+[March 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1a_VkgfdaJWWbmEUS-zoD5ePzx2XoPdkJ/view)
+<br>
+[April 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1wYXWHddI2c9e0GXSymao0ri5cS-ijOtB/view)
+<br>
+[May 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1X-VdndknwvA-DJZrpLqfujVCBOIFOqtC/view)
+<br>
+[June 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1o03tO5M_bPl5VYc4TuKvVelMN9eL5oD4/view)
+<br>
+[July-August 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/16iLPAiHAwof187eFcrPMV3n_FYq3nB20/view)
+<br>
+[September 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1hBQVfIo9WJUNtBkejtlIWkTLpMw6QLwE/view)
+<br>
+[October 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1k9UiVXN7gaJWLzPMfaymQYrfM3bHzBCR/view)
+<br>
+[November 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1jIdcxOLkPTyQb4uw2ZuhOb5nA-vruQPK/view)
+<br>
+[December 1961, *WRVR New York FineArts Guide*](https://drive.google.com/file/d/1bc_BZzd_S1GPD1ngR1Fn6dgvoW6fxG5G/view)
+<br>
 
 In mid-1961, WRVR materials noted that classical and “light classical” music was played “without comment or commercials” from 9 am to 5 pm Monday through Friday (*Just Music*), plus a 6:30 pm nightly symphony, representing more than forty hours weekly devoted to uninterrupted classical music concerts plus choral music and organ recitals from the Riverside Nave and opera performances. One popular seven-year project broadcast the entire works of conductor Arturo Toscanini.[<sup>72</sup>](/exhibits/wrvr/notes#72) Violinist Kees Kooper served as a musical consultant to WRVR in the early years.[<sup>73</sup>](/exhibits/wrvr/notes#73) A weekly Friday night show presented the work of contemporary composers, as described [in this 1968 promotional spot](https://americanarchive.org/catalog/cpb-aacip-528-707wm14t97?start=3517.89&end=3595.1).
 
