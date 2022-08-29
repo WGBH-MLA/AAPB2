@@ -64,7 +64,7 @@ WRVR announcer Max Cole, a longtime jazz host, music journalist, and festival pl
 
 Another frequently-heard show was *Jazz Anthology With Father O'Connor*, hosted by the Rev. Norman J. O’Connor. O’Connor’s career as a jazz writer, concert producer, and jazz show host began in the Boston area and continued on WRVR after he relocated to New York in 1962 to become the director of radio and television for the Paulist Fathers.[<sup>79</sup>](/exhibits/wrvr/notes#79) Among the WRVR Collection are some 140 complete episodes of [O’Connor’s Jazz Anthology](https://americanarchive.org/catalog?page=10&q=%22Jazz+Anthology%22&f[access_types][]=digitized). 
 
-[Example of a record of Jazz Anthology With Father O'Connor](https://americanarchive.org/catalog/cpb-aacip-528-5q4rj49w00) 
+[Example of a record of Jazz Anthology With Father O'Connor.](https://americanarchive.org/catalog/cpb-aacip-528-5q4rj49w00) 
 
 The flagship WRVR jazz program, however, was [*Just Jazz with Ed Beach*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Just+Jazz&f[access_types][]=online), featuring the wry and knowledgeable host who played long uninterrupted sets spanning jazz recordings from the 1920s into the early 1970s. Episodes – airing two hours each weekday evening plus four or more hours of “long sets” on Saturdays -- generally concentrated on a single performer or ensemble, sometimes even more precisely on a narrow slice of their discography.
 
