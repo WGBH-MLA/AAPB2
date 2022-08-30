@@ -34,7 +34,7 @@ Riverside also pioneered forthright radio coverage of gay and lesbian communitie
 
 WRVR often devoted entire hours-long broadcasts to prerecorded speeches or lectures by notable public figures, even those far outside the political mainstream, like [John Birch Society founder Robert Welch’s address](https://americanarchive.org/catalog/cpb-aacip-528-zw18k76b9b?start=1966.45&end=2059.98) at the Ford Hall Forum in Boston, from April 1963. The Birch Society, founded in 1958, was a crusading far-right anti-Communist organization that believed the United States and the United Nations faced an internal Communist threat.[<sup>56</sup>](/exhibits/wrvr/notes#56) WRVR’s rebroadcast of Welch’s speech suggests the station’s commitment to informing its audience of political and cultural developments of public concern.
 
-<table class="exhibit-image small-image">
+<table class="exhibit-image med-image-tall">
 <caption align="bottom" class="exhibit-caption">An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.
 </caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/5.+Illustration+of+NERN+featured+on+cover+of+WRVR+Fine+Arts+Guide+October+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="An illustration of the National Educational Radio Network (NERN) featured on the cover of the October 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>

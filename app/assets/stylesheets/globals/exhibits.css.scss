@@ -67,6 +67,16 @@ table.exhibit-image.med-image img {
   max-height: 20em;
 }
 
+table.exhibit-image.med-image-tall {
+  max-width: 36%;
+  margin: 0 0 0 1.5em;
+  max-height: 30em;
+}
+
+table.exhibit-image.med-image-tall img {
+  max-height: 30em;
+}
+
 table.exhibit-image.left {
   float: left;
   margin: 0 1.5em 0 0;

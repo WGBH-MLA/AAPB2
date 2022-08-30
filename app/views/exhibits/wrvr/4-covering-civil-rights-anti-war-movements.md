@@ -8,7 +8,7 @@
 
 ## Main
 
-<table class="exhibit-image small-image left">
+<table class="exhibit-image med-image left">
 <caption align="bottom" class="exhibit-caption">Raymond Swing at the microphone, pictured in the March 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/16.+Raymond+Swing+at+the+microphone+with+text+page+6+of+WRVR+Fine+Arts+Guide+March+1961+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/16.+Raymond+Swing+at+the+microphone+with+text+page+6+of+WRVR+Fine+Arts+Guide+March+1961+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="Raymond Swing at the microphone, pictured in the March 1961 WRVR Fine Arts Guide, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table> 
@@ -19,7 +19,7 @@ News programs regularly aired on WRVR included BBC World Report; a short daily l
 
 But because it had its own news division, WRVR did much more. Perhaps WRVR’s most important contribution to news and documentary reporting in the 1960s was their attention to the unfolding Black civil rights and anti-Vietnam War movements, and their exploration of these events through innovative, long-form documentaries. 
 
-<table class="exhibit-image small-image">
+<table class="exhibit-image med-image">
 <caption align="bottom" class="exhibit-caption">CORE March in Washington DC in memory of children killed in Birmingham, 1963. Image courtesy Library of Congress, https://lccn.loc.gov/2003688165.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/20-wrvr-coremarch-edited.jpg" class="big-image" alt="CORE March in Washington DC in memory of children killed in Birmingham, 1963. (Image courtesy Library of Congress)."/></a></td></tr>
 </table> 
@@ -30,19 +30,14 @@ Full coverage of a [Congress of Racial Equality (CORE) weekly press conference f
 
 A six-hour documentary series recorded on-scene in Alabama by Jack Summerfield and journalist Walter Nixon during the May 1963 Birmingham campaign, [*Birmingham: Testament of Nonviolence*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Birmingham%3A+Testament+of+Nonviolence&f[access_types][]=online). Without commentary or analysis, Summerfield and Nixon edited long audio-recorded sequences into harrowing and suspenseful episodes that captured the momentousness and uncertainty of the effort to desegregate Birmingham’s schools and public spaces using nonviolent action.[<sup>60</sup>](/exhibits/wrvr/notes#60) Rev. Bob Polk, minister to youth of The Riverside Church, joined Summerfield and Nixon for part 4 of the series, [“Back to School in Birmingham](https://americanarchive.org/catalog?f%5Bepisode_titles%5D%5B%5D=Back+to+School+in+Birmingham&f[access_types][]=online),” and the broadcast includes excerpts from his discussion with Black teenagers involved in the direct action campaign on their attitudes and experiences. 
 
-<table class="exhibit-image small-image">
+<table class="exhibit-image med-image">
 <caption align="bottom" class="exhibit-caption">News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/12.+News+and+World+Affairs+Director+Walter+E+Nixon%2C+Minister+to+Youth+Rev.+Robert+L+Polk+and+WRVR+General+Manager+Jack+D+Summerfield+discuss+trip+to+Birmingham+May+31+1963+Carillon+newsletter+CREDIT+The+Riverside+Church+Archives.png" class="big-image" alt="News and World Affairs Director Walter E. Nixon, Minister to Youth Rev. Robert L. Polk and WRVR General Manager Jack D. Summerfield pictured discussing their trip to Alabama to record Birmingham: Testament of Nonviolence in the May 31, 1963 Carillon, The Riverside Church’s fortnightly newsletter, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
-<table class="exhibit-image small-image">
+<table class="exhibit-image med-image">
 <caption align="bottom" class="exhibit-caption">Women writing during the Birmingham Campaign. Image courtesy Library of Congress, https://www.loc.gov/pictures/resource/ppmsca.72945/.</caption>
   <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign.jpg" class="big-image" alt="Women writing during the Birmingham Campaign. Image courtesy Library of Congress."/></a></td></tr>
-</table> 
-
-<table class="exhibit-image small-image">
-<caption align="bottom" class="exhibit-caption">Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Albernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress, https://www.loc.gov/pictures/resource/ppmsca.72947.</caption>
-  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" class="big-image" alt="Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Albernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress."/></a></td></tr>
 </table> 
 
 *New York Times* radio reporter Jack Gould argued that “the effectiveness of the WRVR coverage lay in the station’s determination to let the events speak for themselves.” The documentary not only covered moments of great tension and drama, but also “unhurried interviews with persons of all conceivable shades of opinion in Birmingham. In consequence the listener felt in the center of unfolding history in the South and had a kaleidoscopic view of the diverse forces influencing its course.” Gould suggested that only a noncommercial radio station could afford such “depth of treatment and outspokenness seldom available elsewhere on the dial.”[<sup>61</sup>](/exhibits/wrvr/notes#61) Birmingham: Testament of Nonviolence won multiple awards and contributed to the station’s winning its Peabody Award in 1965. It was offered for rebroadcast on the NAEB Radio Network and “received nationwide publicity as outstanding examples of radio journalism.”[<sup>62</sup>](/exhibits/wrvr/notes#62)  
@@ -50,6 +45,11 @@ A six-hour documentary series recorded on-scene in Alabama by Jack Summerfield a
 The WRVR collection contains all six episodes from the series and a 1970 rebroadcast containing excerpts. 
 
 While in Birmingham, Summerfield and Nixon produced additional broadcasts, including [“An Oriental Views His Life in Birmingham”](https://americanarchive.org/catalog/cpb-aacip-528-2b8v980q2n) and [“The Birmingham Story: Personal Comment by Dick Gregory”](https://americanarchive.org/catalog/cpb-aacip-500-k06x1t2j).
+
+<table class="exhibit-image med-image left">
+<caption align="bottom" class="exhibit-caption">Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Albernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress, https://www.loc.gov/pictures/resource/ppmsca.72947.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" class="big-image" alt="Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Albernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress."/></a></td></tr>
+</table> 
 
 WRVR programs on the antiwar movement in New York and elsewhere include: 
 

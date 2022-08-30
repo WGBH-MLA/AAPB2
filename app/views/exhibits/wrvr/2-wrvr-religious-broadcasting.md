@@ -19,7 +19,7 @@ Full broadcasts of Sunday Riverside Church services were a weekly staple on WRVR
 
 The Riverside Church was, in many ways, the paradigmatic embodiment of the liberal Protestant establishment. Even the first WRVR Sunday sermon (January 1, 1961), which was delivered by Dr. Robert McCracken, illustrates Riverside’s progressive theology. McCracken’s sermon, [“The Acid Test,”](https://americanarchive.org/catalog/cpb-aacip-528-nc5s757t1z?start=425.72&end=679.96) wove contemporary news items together with New Testament readings, critiquing American Christians as complacent and prosperous, and issuing a strenuous call towards a modern social gospel.[<sup>47</sup>](/exhibits/wrvr/notes#47)  
 
-<table class="exhibit-image small-image">
+<table class="exhibit-image med-image">
 <caption align="bottom" class="exhibit-caption">Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. Image courtesy Library of Congress, https://www.loc.gov/pictures/item/2014718298/.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Fosdick-image.jpg" class="big-image" alt="Rev. H.E. Fosdick, George Grantham Bain Collection, Library of Congress. (Image courtesy Library of Congress)."/></a></td></tr>
 </table>
@@ -44,12 +44,12 @@ WRVR programs considered the theological, ecumenical, and liturgical reforms of 
 
 One regular, long-running interfaith effort was [*Portion of the Week*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Portion+of+the+Week&per_page=100&sort=title+asc), a weekly Torah reading with commentary by guest rabbis drawn from over forty-five synagogues and Jewish centers in the greater New York / New Jersey metropolitan area. The collection features over 300 episodes, such as this example from March 1962. Orthodox Rabbi Samuel Landa of the Ozone Park (New York) Jewish Center [comments on the first chapters of Leviticus](https://americanarchive.org/catalog/cpb-aacip-528-6m3319t73v?start=21.61&end=354.81). 
 
-<table class="exhibit-image small-image left">
+<table class="exhibit-image med-image left">
 <caption align="bottom" class="exhibit-caption">Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/00653107/.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/master-niebuhr.jpg" class="big-image" alt="Reinhold Niebuhr, photograph by Guy Gillette. Courtesy of the Library of Congress."/></a></td></tr>
 </table>
 
-<table class="exhibit-image small-image left">
+<table class="exhibit-image med-image left">
 <caption align="bottom" class="exhibit-caption">Professor Abraham J. Heschel. Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/99471698/.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/loc-heschel.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/loc-heschel.jpg" class="big-image" alt="Professor Abraham J. Heschel. Courtesy of the Library of Congress."/></a></td></tr>
 </table>
