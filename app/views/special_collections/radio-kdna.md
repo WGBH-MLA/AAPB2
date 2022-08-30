@@ -45,7 +45,7 @@ This Special Collection was curated by Paola Nicole Nieves Rivera, a student at 
 - [Chicana/o Radio Archive](https://chicanaradioarchive.wordpress.com/) 
 - [“Looking Back on the Lesser-Known Histories of ‘Chicano Public Radio’" (*Current*)](https://current.org/2019/07/looking-back-on-the-lesser-known-histories-of-chicano-public-radio/?wallit_nosession=1)
 - [Latino Empowerment through Public Broadcasting exhibit](https://americanarchive.org/exhibits/latino-empowerment)
-- *Presenting the Past*; Latino Empowerment through Public Broadcasting (AAPB podcast): [Part 1 with Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín](https://www.youtube.com/watch?v=plgw01pPzTc&feature=emb_title) and [Part 2 with Hugo Morales](https://www.youtube.com/watch?v=ugmdotW_GQ0)
+- *Presenting the Past*; Latino Empowerment through Public Broadcasting (AAPB podcast): [Part 1 with Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín](https://youtu.be/opzsGzaizHU) and [Part 2 with Hugo Morales](https://youtu.be/XtnRtG7p3yo)
 
 ## Funders
 
