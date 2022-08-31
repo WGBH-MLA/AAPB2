@@ -1,8 +1,8 @@
-# <em>*Black Champions* Interviews</em>
+# *Black Champions* Interviews
 
 ## Thumbnail
 
-![<em>*Black Champions* Interviews</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WallStreetWeek_mainimage.jpg "*Black Champions* Interviews")
+![*Black Champions* Interviews](https://s3.amazonaws.com/americanarchive.org/special-collections/WallStreetWeek_mainimage.jpg "*Black Champions* Interviews")
 
 ## Summary
 
