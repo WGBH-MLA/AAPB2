@@ -26,7 +26,7 @@ The *Black Champions* interviews were filmed by documentarian William Miles for 
 ## Resources
 
 - [*Black Champions*, Washington University in St. Louis Libraries](http://repository.wustl.edu/spotlight/black-champions)
-- [*Black Champions* Production Papers](https://aspace.wustl.edu/repositories/7/resources/23)
+- [*Black Champions* Production Papers, Washington University in St. Louis Libraries](https://aspace.wustl.edu/repositories/7/resources/23)
 - [William Miles Collection, Washington University in St. Louis](https://library.wustl.edu/spec/william-miles-collection/)
 - [William Miles, Obituary](https://www.blackpast.org/african-american-history/miles-william-1931/)
 - [Black Film Archive](https://blackfilmarchive.com/)
