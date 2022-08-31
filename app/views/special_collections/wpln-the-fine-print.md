@@ -1,18 +1,18 @@
-# <em>*The Fine Print with Rebecca Bain*</em>
+# *The Fine Print* with Rebecca Bain
 
 ## Thumbnail
 
-![<em>The Fine Print with Rebecca Bain</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain.png "The Fine Print with Rebecca Bain")
+![<em>The Fine Print</em> with Rebecca Bain](https://s3.amazonaws.com/americanarchive.org/special-collections/WPLN_rebeccabain.png "The Fine Print with Rebecca Bain")
 
 ## Summary
 
-The *Fine Print with Rebecca Bain* collection contains [214 audio items (198 episodes and 16 forward promo clips)](cpb-aacip-15-3b5w669586) from the literary interview show created for WPLN, Nashville Public Radio. In host Rebecca Bain’s own words, the show was "an exploration and celebration of the written word" and featured the host speaking with authors on their recent works. The episodes in this collection span from 1999 through 2006, when the show went off the air. While the radio show was based out of Nashville, Tennessee, host Rebecca Bain interviewed authors both local and in the national spotlight, and of many genres, spanning fiction, to historical works, to music and biography, to culinary content. 
+*The Fine Print* with Rebecca Bain collection contains over 200 audio items [197 episodes](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Basset_type%5D%5B%5D=Program&f%5Bseries_titles%5D%5B%5D=The+Fine+Print) and [16 forward promo clips](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Basset_type%5D%5B%5D=Promo&f%5Bseries_titles%5D%5B%5D=The+Fine+Print) from the literary interview show created for WPLN, Nashville Public Radio. In host Rebecca Bain’s own words, the show was "an exploration and celebration of the written word" and featured the host speaking with authors on their recent works. The episodes in this collection span from 1999 through 2006, when the show went off the air. While the radio show was based out of Nashville, Tennessee, host Rebecca Bain interviewed authors both local, such as Ann Patchett, Peter Guralnick, and Tony Earley; and in the national spotlight, including Alice McDermott, Jules Feiffer, David Levering Lewis, Caroline Kennedy, Robert MacNeil, and Sue Grafton; and of many genres, spanning fiction, historical works, music, biography, and culinary content. 
 
-The show’s host, Rebecca Bain, was employed by Nashville’s WPLN for 30 years. As Serenity Gerbman wrote of Bain in a 2011 tribute, “She knew books and loved them, and she was fascinated by the people who wrote them. When an author was booked on Rebecca’s show, [they] knew that she had read the book, written the questions, and prepared the ground for a meaningful conversation.” WPLN’s website had posted in 2011 that “there were few positions on air that Rebecca Bain didn’t fill at some point. She played classical music and reported the news, but she was best known for talking to authors.” 
+The show’s host, Rebecca Bain, was employed by Nashville’s WPLN for 30 years. As Serenity Gerbman wrote of Bain in a 2011 memorial tribute, “She knew books and loved them, and she was fascinated by the people who wrote them. When an author was booked on Rebecca’s show, [they] knew that she had read the book, written the questions, and prepared the ground for a meaningful conversation.” WPLN’s website had posted in 2011 that “there were few positions on air that Rebecca Bain didn’t fill at some point. She played classical music and reported the news, but she was best known for talking to authors.” 
 
 ## Background
 
-*The Fine Print with Rebecca Bain* was a literary interview radio show from Nashville’s public radio station, 90.3 WPLN-FM. This special collection was digitized from compact discs by Ryan Inman, an archives intern paired with WPLN. The series was contributed to the American Archive of Public Broadcasting in 2021-2022.
+*The Fine Print* was a literary interview radio show from Nashville’s public radio station, 90.3 WPLN-FM. This special collection was digitized from compact discs in 2021-2022 by Ryan Inman as part of the American Archive of Public Broadcasting's Public Broadcasting Preservation Fellowship, a collaboration with the University of Alabama's School of Library and Information Studies. 
 
 ## Featured
 
