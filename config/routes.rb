@@ -59,19 +59,16 @@ Rails.application.routes.draw do
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
   get '/educator_resources', to: 'educator_resources#index'
 
-  # TODO: combine these into a resource?
   get '/exhibits', to: 'exhibits#index'
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
+
+  # old link support, must come before /special_collections
+  get '/special_collections/eotp-i-interviews', to: redirect('/special_collections/eotp-interviews', status: 301)
+  get '/about-the-american-archive/projects/net-catalog', to: redirect('/special_collections/net-catalog', status: 301)
+
   get '/special_collections', to: 'special_collections#index'
   get '/special_collections/*path', to: 'special_collections#show', constraints: override_constraints
   get '/plain_override/*path', to: 'plain_override#show', constraints: override_constraints
-
-  # NET Catalog is now a SpecialCollection, so redirecting there.
-  # This need to be above the '/*path' route below, otherwise it won't work.
-  net_catalog_constraint = lambda do |req|
-    req.params['path'].start_with?('about-the-american-archive/projects/net-catalog')
-  end
-  get '/*path', to: redirect('/special_collections/net-catalog', status: 301), constraints: net_catalog_constraint
 
   get '/*path', to: 'override#show', constraints: override_constraints
 end
