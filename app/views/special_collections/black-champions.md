@@ -12,7 +12,7 @@ The 18 hours of footage in the interviews provide oral histories of individual c
 
 ## Background
 
-The *Black Champions* interviews were filmed by documentarian William Miles for the 1986 documentary of the same name. An Emmy Award winner, Academy Award Nominee, and inductee into the Black Filmmaker’s Hall of Fame, Miles, whose work focused on the culture and achievements of Black Americans, is credited with paving the way for later Black documentarians including Henry Hampton and Spike Lee. Washington University in St. Louis Film & Media Archive acquired the Miles Collection in 2005. The *Black Champions* interviews were digitized and reassembled thanks to a grant from the National Historical Publications & Records Commission (NHPRC), and the interviews were contributed to the American Archive of Public Broadcasting in 2022. 
+The *Black Champions* interviews were filmed by documentarian William Miles for the 1986 documentary of the same name. An Emmy Award winner, Academy Award Nominee, and inductee into the Black Filmmaker’s Hall of Fame, Miles, whose work focused on the culture and achievements of Black Americans, is credited with paving the way for later Black documentarians including Henry Hampton and Spike Lee. Washington University in St. Louis Film & Media Archive acquired the Miles Collection in 2005. The *Black Champions* interviews were digitized and reassembled by the Washington University Libraries thanks to a grant from the National Historical Publications & Records Commission (NHPRC), and the interviews were contributed to the American Archive of Public Broadcasting in 2022. 
 
 ## Featured
 
