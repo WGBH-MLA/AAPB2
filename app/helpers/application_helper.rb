@@ -28,7 +28,6 @@ module ApplicationHelper
 
                     # now remove them from the remaining query
                     quoteds.each { |q| query.remove!(q.first) }
-
                     query = query.gsub(/[[:punct:]]/, '').upcase
 
                     # put it all together (removing any term thats just a stopword)
