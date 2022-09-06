@@ -7,7 +7,7 @@ module Zipper
     end
   end
 
-  def self.read(path, is_leave_files=false)
+  def self.read(path, is_leave_files = false)
     filename = path.to_s
 
     str = if filename =~ /\.zip$/
