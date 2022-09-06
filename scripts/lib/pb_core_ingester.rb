@@ -62,7 +62,7 @@ class PBCoreIngester
     cleaner = Cleaner.instance
 
     begin
-      xml = Zipper.read(path)
+      xml = Zipper.read(path, opts[:is_leave_files])
       xml = convert_non_utf8_characters(xml)
     rescue => e
       record_error(e, path)

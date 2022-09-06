@@ -479,6 +479,7 @@
     <filter class="solr.LowerCaseFilterFactory" />
     <!-- dont double include identical terms -->
     <filter class="solr.RemoveDuplicatesTokenFilterFactory" />
+    <filter class="solr.ICUFoldingFilterFactory" />
    </analyzer>
    <analyzer type="query">
     <tokenizer class="solr.WhitespaceTokenizerFactory" />
@@ -487,6 +488,7 @@
     <filter class="solr.LowerCaseFilterFactory" />
     <!-- dont double include identical terms -->
     <filter class="solr.RemoveDuplicatesTokenFilterFactory" />
+    <filter class="solr.ICUFoldingFilterFactory" />
    </analyzer>
   </fieldtype>
 
