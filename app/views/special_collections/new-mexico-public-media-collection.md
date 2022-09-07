@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![New Mexico Public Media Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_lighter.png "New Mexico Public Media Collection")
+![New Mexico Public Media Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/NM_riochama_withcaption.png "New Mexico Public Media Collection")
 
 ## Summary
 
