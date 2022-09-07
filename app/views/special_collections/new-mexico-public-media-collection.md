@@ -22,7 +22,7 @@ Collaborating stations include KENW-TV at Eastern New Mexico University in Porta
 [![La Chicana](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-207-20fttgqp)
 [![New Mexico Story: Baatan Death March](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_efb814ee821_01.jpg)](/catalog/cpb-aacip-efb814ee821)
 [![Surviving Columbus](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-191-37hqc397_1.jpg)](/catalog/cpb-aacip-191-37hqc397)
-[![¡Colores!; A Southwest Christmas](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-191-23vt4dzm.jpg)](/catalog/cpb-aacip-191-23vt4dzm)
+[![¡Colores!; A Southwest Christmas](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-191-47dr7xwv.jpg)](/catalog/cpb-aacip-191-47dr7xwv)
 [![Report from Santa Fe; Joseph F. Baca](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-914ee983340.jpg)](/catalog/cpb-aacip-914ee983340)
 [![Espejos de Aztlan; Andrés Segura](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-f2af61feb10)
 
