@@ -47,8 +47,8 @@ The WRVR collection contains all six episodes from the series and a 1970 rebroad
 While in Birmingham, Summerfield and Nixon produced additional broadcasts, including [“An Oriental Views His Life in Birmingham”](https://americanarchive.org/catalog/cpb-aacip-528-2b8v980q2n) and [“The Birmingham Story: Personal Comment by Dick Gregory”](https://americanarchive.org/catalog/cpb-aacip-500-k06x1t2j).
 
 <table class="exhibit-image med-image left">
-<caption align="bottom" class="exhibit-caption">Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Albernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress, https://www.loc.gov/pictures/resource/ppmsca.72947.</caption>
-  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" class="big-image" alt="Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Albernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Abernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress, https://www.loc.gov/pictures/resource/ppmsca.72947.</caption>
+  <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/birminghamcampaign3leaders.jpg" class="big-image" alt="Civil rights leaders (left to right) Fred Shuttlesworth, Martin Luther King and Ralph Abernathy at a press conference during the Birmingham Campaign. Image courtesy Library of Congress."/></a></td></tr>
 </table> 
 
 WRVR programs on the antiwar movement in New York and elsewhere include: 
