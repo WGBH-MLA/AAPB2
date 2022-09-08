@@ -12,7 +12,7 @@ Historically one of the largest producers of local content in the public televis
 
 ## Background
 
-The first of four New Jersey PBS stations that eventually made up NJN, WNJT went on the air in 1971, followed in 1972 by WNJS, and in 1973 by WNJN and WNJB. NJN is the predecessor of NJ PBS, the state-controlled public television and radio service. NJN ceased operations on June 30, 2011, and Public Media NJ took control of the former NJN television stations the following day, recently rebranding itself as NJ PBS in 2022. NJN contributed items to the AAPB starting in 2014.
+The first of four New Jersey PBS stations that eventually made up NJN, WNJT went on the air in 1971, followed in 1972 by WNJS, and in 1973 by WNJN and WNJB. The state-owned stations were operated by the New Jersey Public Broadcasting Authority first under the name New Jersey Public Television and later as New Jersey Network or NJN. In 2011, the State entered into an agreement with Public Media NJ, Inc., a not-for-profit corporation, to provide public television programming and services on these channels under the name of NJ PBS and online at [mynjpbs.org](https://www.njtvonline.org/). The NJPBA contributed items to the AAPB starting in 2014.
 
 ## Featured
 
