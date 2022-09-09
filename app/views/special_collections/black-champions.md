@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![*Black Champions* Interviews](https://s3.amazonaws.com/americanarchive.org/special-collections/WallStreetWeek_mainimage.jpg "*Black Champions* Interviews")
+![*Black Champions* Interviews](https://s3.amazonaws.com/americanarchive.org/special-collections/img052.jpg "*Black Champions* Interviews")
 
 ## Summary
 
