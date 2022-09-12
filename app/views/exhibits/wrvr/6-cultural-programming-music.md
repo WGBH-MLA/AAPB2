@@ -57,7 +57,7 @@ Undoubtedly Riverside Radio is remembered for three nightly and weekend jazz sho
 
 WRVR announcer Max Cole, a longtime jazz host, music journalist, and festival planner in his own right, could be heard on [*More Jazz with Max Cole*](https://americanarchive.org/catalog?q=%22More+Jazz+With+Max+Cole%22&utf8=%E2%9C%93&f[access_types][]=digitized), airing early mornings, late evenings, and Saturday nights.[<sup>78</sup>](/exhibits/wrvr/notes#78)  
 
-Another frequently-heard show was *Jazz Anthology With Father O'Connor*, hosted by the Rev. Norman J. O’Connor. O’Connor’s career as a jazz writer, concert producer, and jazz show host began in the Boston area and continued on WRVR after he relocated to New York in 1962 to become the director of radio and television for the Paulist Fathers.[<sup>79</sup>](/exhibits/wrvr/notes#79) Among the WRVR Collection are some 140 complete episodes of [O’Connor’s Jazz Anthology](https://americanarchive.org/catalog?page=10&q=%22Jazz+Anthology%22&f[access_types][]=digitized). 
+Another frequently-heard show was *Jazz Anthology With Father O'Connor*, hosted by the Rev. Norman J. O’Connor. O’Connor’s career as a jazz writer, concert producer, and jazz show host began in the Boston area and continued on WRVR after he relocated to New York in 1962 to become the director of radio and television for the Paulist Fathers.[<sup>79</sup>](/exhibits/wrvr/notes#79) Among the WRVR Collection are some 140 complete episodes of [O’Connor’s Jazz Anthology](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&per_page=10&q=%22Father+O%27Connor%22). 
 
 [Example of a record of Jazz Anthology With Father O'Connor.](https://americanarchive.org/catalog/cpb-aacip-528-5q4rj49w00) 
 
