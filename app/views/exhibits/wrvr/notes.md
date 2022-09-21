@@ -10,7 +10,7 @@
 
 - “Beyond Vietnam,” King Encyclopedia, The Martin Luther King, Jr., Research and Education Institute. Accessed July 11, 2022. https://kinginstitute.stanford.edu/encyclopedia/beyond-vietnam
  
-- Bowie, Robert R., et al. “Daedalus-on-the-Air.” *Bulletin of the American Academy of Arts and Sciences* 16, no. 6 (1963):5-6.
+- Bowie, Robert R., et al. “Daedalus-on-the-Air.” *Bulletin of the American Academy of Arts and Sciences* 16, no. 6 (1963): 5-6.
 
 - Brisbin, Richard A. “The Conservatism of Antonin Scalia.” *Political Science Quarterly* 105, no. 1 (1990): 1-29.
 
@@ -20,19 +20,19 @@
 
 - Decker, Jeffrey Louis. “Saint Oprah.” *Modern Fiction Studies* 51, no. 1 (2006): 169-178.
 
-- Dougherty, Kevin D. and Andrew L. Whitehead. “A Place to Belong: Small Group Involvement in Religious Congregations.” *Sociology of Religion* 72, no. 1 (Spring 2011):91-111.
+- Dougherty, Kevin D. and Andrew L. Whitehead. “A Place to Belong: Small Group Involvement in Religious Congregations.” *Sociology of Religion* 72, no. 1 (Spring 2011): 91-111.
 
-- Eisenberg, Evan. *The Recording Angel: Music, Records, and Culture from Aristotle to Zappa* (New Haven: Yale University Press, 2005).
+- Eisenberg, Evan. *The Recording Angel: Music, Records, and Culture from Aristotle to Zappa*. New Haven: Yale University Press, 2005.
 
-- Engelman, Ralph. *Public Radio and Television in America: A Political History* (Thousand Oaks, CA: Sage Publications, 1996).
+- Engelman, Ralph. *Public Radio and Television in America: A Political History*. Thousand Oaks, CA: Sage Publications, 1996.
 
-- Evans, Christopher Hodge. *The Social Gospel in American Religion: A History* (New York: New York University Press, 2017).
+- Evans, Christopher Hodge. *The Social Gospel in American Religion: A History*. New York: New York University Press, 2017.
 
-- Fagen, Donald. *Eminent Hipsters* (New York: Penguin Books, 2014).
+- Fagen, Donald. *Eminent Hipsters*. New York: Penguin Books, 2014.
 
 - Fairclough, Adam. “Martin Luther King, Jr. and the War in Vietnam.” *Phylon* 45, no. 1 (1984): 19-39.
 
-- Ferré, John P. “Protestant Press Relations in the United States, 1900-1930.” *Church History* 62, no. 4 (December 1993):514-527.
+- Ferré, John P. “Protestant Press Relations in the United States, 1900-1930.” *Church History* 62, no. 4 (December 1993): 514-527.
 
 - Fosdick, Harry Emerson. “’Shall the Fundamentalists Win?’: Harry Emerson Fosdick and the First Presbyterian Church in New York.” *The Journal of Presbyterian History* 94, no. 2 (Fall 1994): 76-81.
 
@@ -46,13 +46,13 @@
 
 - Gould, Jack. “Radio: ‘Just Jazz’ Just Fine.” *New York Times*. May 11, 1964, 63.
 
-- Hangen, Tona J. *Redeeming the Dial: Radio, Religion, and Popular Culture in America, 1920-1960* (Chapel Hill, NC: University of North Carolina Press, 2002).
+- Hangen, Tona J. *Redeeming the Dial: Radio, Religion, and Popular Culture in America, 1920-1960*. Chapel Hill, NC: University of North Carolina Press, 2002.
 
-- Harker, Brian. *Jazz: An American Journey* (Upper Saddle River, NJ: Pearson, 2004).
+- Harker, Brian. *Jazz: An American Journey*. Upper Saddle River, NJ: Pearson, 2004.
 
 - Harmon, Francis S. “Testimony Before the Federal Communications Commission, in Re: Application of The Riverside Church in the City of New York.” 1958. Docket Number 12107, File Number BPH-2174. Riverside Church Archives, Folder 797/04.
 
-- Harvey, Charles E. “John D. Rockefeller, and the Interchurch World Movement of 1919-1920: A Different Angle on the Ecumenical Movement.” *Church History* 51, no. 2 (June 1982):198-209.
+- Harvey, Charles E. “John D. Rockefeller, and the Interchurch World Movement of 1919-1920: A Different Angle on the Ecumenical Movement.” *Church History* 51, no. 2 (June 1982): 198-209.
 
 - Herman W. Land Associates. “The Hidden Medium: A Status Report on Educational Radio in the United States, 1967.” *Current*. April 1, 1967.
 
@@ -68,23 +68,23 @@
 
 - Johnson, Aaron Joseph. “Jazz and Radio in the United States: Mediation, Genre, and Patronage.” PhD diss., Columbia University, 2014.
 
-- Lechtreck, Elaine Allen. “’We Are Demanding $500 Million for Reparations’: The Black Manifesto, Mainline Religious Denominations, and Black Economic Development.” *The Journal of African American History* 97, no. 1-2 (2012):39-71. 
+- Lechtreck, Elaine Allen. “’We Are Demanding $500 Million for Reparations’: The Black Manifesto, Mainline Religious Denominations, and Black Economic Development.” *The Journal of African American History* 97, no. 1-2 (2012): 39-71. 
 
 - Lecky, Robert S. and H. Elliott Wright. *The Black Manifesto: Religion, Racism, and Reparations*. New York: Sheed and Ward, 1969.
 
 - Lubasch, Arnold H. “Pastor at Riverside Pledges a Fund for the Poor.” *New York Times*. May 11, 1969, 40.
 
-- McCauley, Michael. *NPR: The Trials and Triumphs of National Public Radio* (New York: Columbia University Press, 2005).
+- McCauley, Michael. *NPR: The Trials and Triumphs of National Public Radio*. New York: Columbia University Press, 2005.
 
-- Miller, Robert Moats. *Harry Emerson Fosdick: Preacher, Pastor, Prophet* (New York: Oxford University Press, 1985).
+- Miller, Robert Moats. *Harry Emerson Fosdick: Preacher, Pastor, Prophet*. New York: Oxford University Press, 1985.
 
-- Monson, Ingrid. *Freedom Sounds: Civil Rights Call Our to Jazz and Africa* (New York: Oxford University Press, 2007).
+- Monson, Ingrid. *Freedom Sounds: Civil Rights Call Our to Jazz and Africa*. New York: Oxford University Press, 2007.
 
-- Murchison, Gayle. “Mary Lou Williams’s Hymn *Black Christ of the Andes (St. Martin de Porres)*: Vatican II, Civil Rights, and Jazz as Sacred Music.” *The Musical Quarterly* 86, no. 4 (2002):591-629.
+- Murchison, Gayle. “Mary Lou Williams’s Hymn *Black Christ of the Andes (St. Martin de Porres)*: Vatican II, Civil Rights, and Jazz as Sacred Music.” *The Musical Quarterly* 86, no. 4 (2002): 591-629.
 
 - “Night Call 1968-1969.” *SoundTheology*. Accessed July 11, 2022. https://soundtheology.org/night-call-1968-69/.
 
-- Perkinson, Jim. “Rage with a Purpose, Weep Without Regret: A White Theology of Solidarity.” *Soundings: An Interdisciplinary Journal* 82, no. 3-4 (1999):437-463.
+- Perkinson, Jim. “Rage with a Purpose, Weep Without Regret: A White Theology of Solidarity.” *Soundings: An Interdisciplinary Journal* 82, no. 3-4 (1999): 437-463.
 
 - “Platter Spinner Patter.” *Cash Box*. December 14, 1968, 32.
 
@@ -98,11 +98,11 @@
 
 - Robinson, Haddon William. “A Study of the Audience for Religious Radio and Television Broadcasts in Seven Cities Throughout the United States.” PhD diss., University of Illinois, 1964.
 
-- Schuller, Gunther. *Early Jazz: Its Roots and Musical Development* (New York: Oxford University Press, 1968).
+- Schuller, Gunther. *Early Jazz: Its Roots and Musical Development*. New York: Oxford University Press, 1968.
 
 - Shelton, Robert. “Folk Music Heard on 12-Hour Show: WRVR-FM Program Marks Start of ‘Live’ Project.” *New York Times*. July 31, 1961, 15.
 
-- Somerville, Rose M. “New Materials for Study of the Family.” *Journal of Marriage and Family* 28, no. 3 (1966):364-374.
+- Somerville, Rose M. “New Materials for Study of the Family.” *Journal of Marriage and Family* 28, no. 3 (1966): 364-374.
 
 - Sousa, William Noel. “The White Christian Churches’ Response to the Black Manifesto.” M.A. Thesis, University of the Pacific, 1973.
 
@@ -118,12 +118,11 @@
 
 - Voy, Eckard J., Jr. “The Right Side of the 1960s: The Origins of the John Birch Society in the Pacific Northwest.” *Oregon Historical Quarterly* 105, no. 2 (Summer 2004): 260-283.
 
-- Ward, Mark, Sr. *Air of Salvation: The Story of Christian Broadcasting* (Grand Rapids, MI: Baker Books, 1994).
+- Ward, Mark, Sr. *Air of Salvation: The Story of Christian Broadcasting*. Grand Rapids, MI: Baker Books, 1994.
 
 - Weisenfeld, Judith. “Universal in Spirit, Local in Character: The Riverside Church and New York City.” In Peter J. Paris, et al. *The History of the Riverside Church in the City of New York* (New York: New York University Press, 2004), 179-240.
 
 - Wicklein, John. “Riverside Radio: New FM Station Offers Varied Programs.” *New York Times*. January 1, 1961, X11.
-
 
 - “Worlds of Religion and Jazz Meet on New Radio Program.” *Call and Post* (Cleveland, OH). April 27, 1963, 6C.
 
