@@ -30,7 +30,7 @@ Federica Freyberg has served as the host of *Here and Now* since 2003. In varied
 ## Resources
 
 - [PBS Wisconsin](https://pbswisconsin.org/)
-- [*Here and Now*, PBS Wisconsin] (https://pbswisconsin.org/series/here-and-now/)
+- [*Here and Now*, PBS Wisconsin](https://pbswisconsin.org/series/here-and-now/)
 
 ## Help
 
