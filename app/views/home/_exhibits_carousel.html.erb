@@ -2,11 +2,11 @@
     render layout: 'home/carousel',
            locals: {
                     id: 'exhibits-carousel',
-                    items: Exhibit.all_top_level + [LinkExhibit.new(title: "Witnessing New Mexico: The New Mexico Public Media Digitization Project", external_url: "https://storymaps.arcgis.com/stories/39eecf9cbc484f36802799c4046ebd61", thumbnail_url: "https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png")],
+                    items: Exhibit.all_top_level + [LinkExhibit.new(title: "Witnessing New Mexico: The New Mexico Public Media Digitization Project", external_url: "https://storymaps.arcgis.com/stories/39eecf9cbc484f36802799c4046ebd61", thumbnail_url: "https://s3.amazonaws.com/americanarchive.org/exhibits/nm_storymap_cover.png", new_tab: true)],
                     view_all: 'View All Exhibits',
                     view_all_href: '/exhibits'
                    } do |item| %>
-  <a <%= item.new_tab ? %(target="_blank") : "" %> href="<%= item.full_path %>" class="list-group-item" >
+  <a <%= item.new_tab ? %(target=_blank) : "" %> href="<%= item.full_path %>" class="list-group-item" >
     <img src="<%= item.thumbnail_url %>" title="<%= item.title %>" alt="<%= item.title %>" aria-hidden="true" />
     <span class="carousel-caption">
       <h3 class="list-group-item-heading"><%= item.title %></h3>
