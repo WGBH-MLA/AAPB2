@@ -1,18 +1,18 @@
 <% content_for :main do %>
   <div class="row">
     <div class="col-md-12 gallery-intro">
-      <p>‪American Archive of Public Broadcasting staff and guest curators create exhibits of selected recordings that focus on themes, topics, and events of cultural and historical significance. In the exhibits, curators contextualize digitized primary and secondary source public television and radio materials. Each curated set of selected recordings present a diversity of perspectives concerning the exhibit's focus. As a result, AAPB exhibits often illuminate how public broadcasting stations and producers have covered the exhibit's theme.</p>
+      <p>American Archive of Public Broadcasting staff and guest curators create exhibits of selected recordings that focus on themes, topics, and events of cultural and historical significance. In the exhibits, curators contextualize digitized primary and secondary source public television and radio materials. Each curated set of selected recordings present a diversity of perspectives concerning the exhibit's focus. As a result, AAPB exhibits often illuminate how public broadcasting stations and producers have covered the exhibit's theme.</p>
     </div>
   </div>
   <div class="row gallery-index" id="documents">
     <% @top_level_exhibits.each do |ex| %>
       <div class="gallery col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-thumbnail">
-          <a href="/exhibits/<%= ex.path %>">
+          <a <%= ex.new_tab ? %(target=_blank) : "" %> href="<%= ex.full_path %>">
             <img src="<%= ex.thumbnail_url %>" alt="<%= ex.title %>" aria-hidden="true">
             <div class="exhibit-index-title-container">
               <h2 class="exhibit-index-title bg-color-<%= ['purple','pink','red'].sample %>">
-                <a href="/exhibits/<%= ex.path %>"><%= ex.title %></a>
+                <a <%= ex.new_tab ? %(target=_blank) : "" %> href="<%= ex.full_path %>"><%= ex.title %></a>
               </h2>  
             </div>
             

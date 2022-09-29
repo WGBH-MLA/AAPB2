@@ -280,6 +280,13 @@ a.exhibit-color:hover {
   min-height: 3.1em;
 }
 
+div.gallery-thumbnail a {
+  span:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+}
+
 .exhibit-header {
   background-size: cover;
   background-image: url("https://s3.amazonaws.com/americanarchive.org/exhibits/assets/exhibits_red_bar.png");
