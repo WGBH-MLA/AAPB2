@@ -80,6 +80,14 @@ class Exhibit < Cmless
     end
   end
 
+  def full_path
+    "/exhibits/" + path
+  end
+
+  def new_tab
+    false
+  end
+
   def meta_tags
     %(
       <meta property="og:title" content="#{config[:preview][:title]} | American Archive of Public Broadcasting" />

@@ -37,7 +37,7 @@ class DownloadCleanIngest
       const_init(name)
     end
 
-    %w(batch-commit stdout-log just-reindex).each do |name|
+    %w(batch-commit stdout-log just-reindex leave-files).each do |name|
       flag_name = const_init(name)
       variable_name = "@is_#{name.tr('-', '_')}"
       instance_variable_set(variable_name, argv.include?(flag_name))
@@ -125,7 +125,7 @@ class DownloadCleanIngest
   def usage_message
     <<-EOF.gsub(/^ {4}/, '')
       USAGE: #{File.basename(__FILE__)}
-               [#{BATCH_COMMIT}] [#{STDOUT_LOG}] [#{JUST_REINDEX}]
+               [#{BATCH_COMMIT}] [#{STDOUT_LOG}] [#{LEAVE_FILES}] [#{JUST_REINDEX}]
                ( #{ALL} [PAGE] | #{BACK} DAYS | #{QUERY} 'QUERY'
                  | #{IDS} ID ... | #{ID_FILES} ID_FILE ...
                  | #{FILES} FILE ... | #{DIRS} DIR ...
@@ -135,6 +135,7 @@ class DownloadCleanIngest
         #{BATCH_COMMIT}: Optionally, make just one commit at the end, rather than
           one commit per file.
         #{STDOUT_LOG}: Optionally, log to stdout, rather than a log file.
+        #{LEAVE_FILES}: Leave pbcore files in place.
         #{JUST_REINDEX}: Rather than querying the AMS, query the local solr. This
           is typically used when the indexing strategy has changed, but the AMS
           data has not changed.
@@ -170,7 +171,7 @@ class DownloadCleanIngest
       begin
         success_count_before = ingester.success_count
         error_count_before = ingester.errors.values.flatten.count
-        ingester.ingest(path: path, is_batch_commit: @is_batch_commit)
+        ingester.ingest(path: path, is_batch_commit: @is_batch_commit, is_leave_files: @is_leave_files)
         success_count_after = ingester.success_count
         error_count_after = ingester.errors.values.flatten.count
         $LOG.info("Processed '#{path}' #{'but not committed' if @is_batch_commit}")

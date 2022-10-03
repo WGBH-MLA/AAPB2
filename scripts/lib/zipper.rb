@@ -7,7 +7,7 @@ module Zipper
     end
   end
 
-  def self.read(path)
+  def self.read(path, is_leave_files = false)
     filename = path.to_s
 
     str = if filename =~ /\.zip$/
@@ -26,7 +26,7 @@ module Zipper
             s
           end
 
-    unless filename.include?('spec/fixtures') || filename.include?('spec/scripts')
+    unless is_leave_files || filename.include?('spec/fixtures') || filename.include?('spec/scripts')
       # leave my files alone!
       File.delete(filename)
     end
