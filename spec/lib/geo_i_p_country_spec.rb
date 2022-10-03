@@ -25,8 +25,8 @@ describe GeoIPCountry do
   end
 
   # Site seems to be down...
-  it 'puts india.gov.in in IN' do
-    expect(country_for_domain('www.mygov.in')).to eq 'IN'
+  it 'puts www.gov.br in BR' do
+    expect(country_for_domain('www.gov.br')).to eq 'BR'
   end
 
   it 'puts www.gob.mx in US!!!' do
