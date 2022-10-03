@@ -1,6 +1,7 @@
 <div class="lite-player-row">
   <div class="lite-player">
     <section class="lite-videocontent">
+      <span id="legal-modal"></span>
       <%=
         @pbcore.media_srcs.map do |media_src|
           media = @pbcore.video? ? 'video' : 'audio'

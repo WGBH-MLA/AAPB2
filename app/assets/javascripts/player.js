@@ -385,4 +385,15 @@ $(function() {
     $('#timecode-share').val(getShareUrl());
   });
 
+  // check for this empty element to show modal
+  if($("#legal-modal").length > 0){
+    let modalMsg = document.createElement("div")
+    modalMsg.innerHTML = "By accessing this content you agree to the AAPB's <a href='/legal/orr-rules'>Online Reading Room Rules of Use</a>"
+
+    // add modal dialog for legal language...
+    videojs.getPlayer('#player_media_html5_api').ready(function() {
+      var myPlayer = this;
+      myPlayer.createModal(modalMsg);
+    });
+  }
 });
