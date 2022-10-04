@@ -45,7 +45,7 @@ In an episode of AAPB’s ["Presenting the Past"](https://americanarchive.org/ab
 
 <i>Eyes on the Prize</i> with Michelle Kelley, PhD
 
-<iframe class="exhibit-small-iframe" width="640" height="360" src="https://www.youtube.com/embed/U_vs0fCp9d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="exhibit-small-iframe" width="640" height="360" src="https://www.youtube.com/embed/U_vs0fCp9d8?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Next: [*Eyes on the Prize*: Framing the Civil Rights Past](/exhibits/eotp/1-framing-civil-rights-past.md)
 
