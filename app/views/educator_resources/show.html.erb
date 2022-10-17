@@ -1,0 +1,76 @@
+<% content_for :main do %>
+
+
+  <% if @educator_resource.is_source_set? %>
+
+    <div class="row">
+      <div class="col-md-12">
+        <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
+          <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Primary Source Discussion Sets</a></li>
+
+          <li><%= link_to @educator_resource.title, "/educator_resources/#{@educator_resource.path}" %></li>
+
+          <li><%= @educator_resource.title %></li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="resource-cover">
+        <%= @educator_resource.cover_img %>
+      </div>
+    </div>
+
+    <div class="row">
+
+      <div class="exhibit-sections-bar" style="">
+
+        <h3 id="exhibit-sections-bar-title" class="exhibit-color">Sources</h3>
+
+        <div class="row" style="margin:0; margin-left: 2%; margin-right: 2%;">
+
+          <!-- list of clips -->
+          <% @educator_resource.resources.each do |section| %>
+
+            <div class="col-md-3 exhibit-section-margin">
+              <div class="exhibit-section-container">
+              </div>
+            </div>
+
+          <% end %>
+
+          <div class="col-md-3 exhibit-section-margin">
+            <div class="exhibit-section-container ">
+              <!-- notez and resourcys -->
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="row" style="">
+
+      <!-- resource links -->
+      <div class="col-md-12">
+
+        <div class="row" style="">
+          <h3 class="curator-title">Additional Resources</h3>
+        </div>
+
+        <div class="row" style="margin-left: 0;">
+          resoruce links 
+          resoruce links 
+          resoruce links 
+          resoruce links 
+        </div>
+      </div>
+    </div>
+
+
+  <% elsif @educator_resource.is_resource? %>
+
+  <% end %>
+<% end %>
