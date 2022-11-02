@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![*Seven Days*](https://s3.amazonaws.com/americanarchive.org/special-collections/main_image_seven_days.jpg) "*Seven Days*") 
+![*Seven Days*](https://s3.amazonaws.com/americanarchive.org/special-collections/main_image_seven_days.jpg "*Seven Days*") 
 
 ## Summary
 
