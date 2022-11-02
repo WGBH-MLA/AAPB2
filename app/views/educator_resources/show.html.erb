@@ -1,76 +1,365 @@
-<% content_for :main do %>
+<% content_for :head do %>
+  <link href="https://vjs.zencdn.net/7.20.2/video-js.css" rel="stylesheet">
+  <script src="https://vjs.zencdn.net/7.20.2/video.min.js" ></script>
+  <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js" ></script>
 
+  <%= javascript_include_tag 'videojs-offset.min' %>
+  <%= javascript_include_tag 'transcript' %>
+  <%= javascript_include_tag 'mobile-transcript' %>
+  <%= javascript_include_tag 'player' %>
+<% end %>
 
-  <% if @educator_resource.is_source_set? %>
+<div class="educator-resource-header">
+  <h1><%= @page_title %></h1>
+</div>
 
-    <div class="row">
-      <div class="col-md-12">
-        <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
-          <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Primary Source Discussion Sets</a></li>
+<div class="row">
+  <div class="region clearfix">
 
-          <li><%= link_to @educator_resource.title, "/educator_resources/#{@educator_resource.path}" %></li>
+    <!-- START: Main Column -->
+    <div class="col-md-12">
 
-          <li><%= @educator_resource.title %></li>
-        </ol>
-      </div>
-    </div>
+      <% if @educator_resource.is_source_set? %>
 
-    <div class="row">
-      <div class="resource-cover">
-        <%= @educator_resource.cover_img %>
-      </div>
-    </div>
+        <div class="row educator-resource-breadcrumb-container">
+          <div class="col-md-12">
+            <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
+              <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Primary Source Discussion Sets</a></li>
 
-    <div class="row">
+              <li><%= link_to @educator_resource.title, "/educator_resources/#{@educator_resource.path}" %></li>
+            </ol>
+          </div>
+        </div>
 
-      <div class="exhibit-sections-bar" style="">
+        <div class="row">
+          <div class="educator-resource-cover">
+            <div class="col-md-9">
+              <%= @educator_resource.cover_img %>
+              <div class="educator-resource-colorband"></div>
+            </div>
+            <div class="col-md-3">
+              <dl class="educator-resource-panel">
+                <dt>Created By</dt>
+                <dd><%= @educator_resource.author %></dd>
 
-        <h3 id="exhibit-sections-bar-title" class="exhibit-color">Sources</h3>
+                <hr/>
 
-        <div class="row" style="margin:0; margin-left: 2%; margin-right: 2%;">
+                <dt>Subjects</dt>
+                <dd><%= @educator_resource.subjects %></dd>
+              </dl>
+            </div>
+          </div>
+        </div>
 
-          <!-- list of clips -->
-          <% @educator_resource.resources.each do |section| %>
+        <div class="row">
 
-            <div class="col-md-3 exhibit-section-margin">
-              <div class="exhibit-section-container">
+          <!-- resource links -->
+          <div class="col-md-12 educator-resource-section">
+
+            <h3 class="educator-resource-title">Introduction & Context</h3>
+            <div id="educator-resource-introduction" class="hidden educator-resource-content">
+
+              <%= @educator_resource.introduction_html %>
+            </div>
+          </div>
+        </div>
+
+        <div class="educator-resource-showhide">
+          Read More +
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-12 educator-resources-container educator-resource-section">
+            <!-- <div class="educator-resources-background"></div> -->
+
+            <h3 class="educator-resource-title">Sources</h3>
+
+            <div class="row">
+
+              <!-- list of clips -->
+              <% @educator_resource.resources.each do |resource| %>
+
+                <div class="col-md-3 educator-resource-source">
+                  <a href="<%= resource.path %>">
+                    <%= resource.cover_img %>
+                    <%= resource.title %>
+                  </a>
+                </div>
+
+              <% end %>
+
+            </div>
+
+          </div>
+        </div>
+
+        <div class="row" >
+          <!-- resource links -->
+          <div class="col-md-12 educator-resource-section">
+
+            <h3 class="educator-resource-title">Teaching Tips <a class="pdf-icon" href="<%= @educator_resource.pdf_link %>">Download PDF <img src="/pdficon.png" /></a></h3>
+            <div>
+
+            <div class="educator-resource-content">
+              <%= @educator_resource.teachingtips_html %>
+            </div>
+            
+            </div>
+          </div>
+        </div>
+
+        <div class="row" >
+
+          <!-- resource links -->
+          <div class="col-md-12 educator-resources-additional-resources educator-resource-section">
+
+            <h3 class="educator-resource-title">Additional Resources</h3>
+
+            <% @educator_resource.additional_resources.each do |a| %>
+              <%= a %>
+            <% end %>
+          </div>
+        </div>
+
+        <div class="row" >
+
+          <!-- resource links -->
+          <div class="col-md-12 educator-resource-section">
+
+            <h3 class="educator-resource-title">Citation</h3>
+            <div>
+
+            <div class="educator-resource-content">
+              <%= @educator_resource.citation_html %>
+            </div>
+            
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-12 educator-resources-container educator-resource-section">
+            <!-- <div class="educator-resources-background"></div> -->
+
+            <h3 class="educator-resource-title">You May Also Like</h3>
+
+            <div class="row">
+
+              <!-- list of clips -->
+              <% EducatorResource.all_resource_sets.each do |educator_resource| %>
+
+                <div class="col-md-3 educator-resource-source">
+                  <a href="<%= educator_resource.path %>">
+                    <%= educator_resource.cover_img %>
+                      <div class="educator-resource-colorband" ></div>
+                    <div class="educator-resource-moretitle">
+                      <%= educator_resource.title %>
+                    </div>
+                  </a>
+                </div>
+
+              <% end %>
+
+            </div>
+
+          </div>
+        </div>
+
+      <% elsif @educator_resource.is_resource? %>
+        <div class="row educator-resource-breadcrumb-container">
+          <div class="col-md-12">
+            <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
+              <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Primary Source Discussion Sets</a></li>
+
+              <li><%= link_to @educator_resource.parent.title, "/educator_resources/#{@educator_resource.parent.path}" %></li>
+              <li><%= link_to @educator_resource.title, "/educator_resources/#{@educator_resource.path}" %></li>
+
+            </ol>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-12 col-md-8 col-md-offset-2 player educator-resource-player">
+            <span style="display: none;" id="clip-start"><%= @educator_resource.clip_start %></span>
+            <span style="display: none;" id="clip-end"><%= @educator_resource.clip_end %></span>
+            <section class="videocontent">
+            <%=
+              @pbcore.media_srcs.map do |media_src|
+                media = @pbcore.video? ? 'video' : 'audio'
+                content_tag(media,
+                            controls: true,
+                            "class" => "video-js vjs-default-skin vjs-fluid",
+                            "id" => "player_media",
+                            "aria-label" => "video player",
+                            oncontextmenu: 'return false;',
+                            preload: 'auto',
+                            crossorigin: 'with-credentials',
+                            :"data-setup" => '{}',
+                            poster: @pbcore.img_src) do %>
+
+                  <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'application/x-mpegURL' : 'audio/mp3' %>'>
+
+                  <% if @captions.file_present? %>
+                    <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+                  <% end %>
+                  
+                  <%
+                end
+              end.join().html_safe
+            %>
+            </section>
+
+            <div class="row">
+              <div class="col-md-12 educator-resource-skipbutton-container">
+
+                <button id="skip-back" class="player-button skip-button">◀◀ 10s</button>
+                <button id="skip-forward" class="player-button skip-button">10s ▶▶</button>
               </div>
             </div>
 
-          <% end %>
-
-          <div class="col-md-3 exhibit-section-margin">
-            <div class="exhibit-section-container ">
-              <!-- notez and resourcys -->
-
-            </div>
           </div>
 
+          <div class="hidden-sm hidden-xs">
+            <% if @pbcore.transcript_html %>
+              <div class="col-md-4 educator-resource-transcript-header transcript-panel-heading">
+                <dt class="dt-left">Transcript</dt>
+                <div class="input-group input-group-sm transcript-search show-transcript-search" role="search">
+                    <input type="search" id="transcript-search-input" placeholder="Search..." value="<%= @transcript_search_term %>">
+                    <button data-search="next" class="transcript-search-btn"><span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></button>
+                    <button data-search="prev" class="transcript-search-btn"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></button>
+                    <button data-search="clear" class="transcript-search-btn">✖</button>
+                </div>
+                <div class="transcript-slide show-transcript" style="cursor: pointer;">Hide
+                  <span class="transcript-circle">-</span>
+                </div>
+              </div>
+
+              <div id="transcript-state" style="display: none;" class="hidden initial closed"></div>
+
+              <div class="col-sm-4 col-md-4 col-lg-4 transcript-div transcript-view-show educator-resource-transcript">
+
+                <dl class="panel transcript-panel">
+
+                  <% if @pbcore.transcript_message %>
+                    <div style="background-color: #fceab2;" id="transcript-message" class="">
+
+                      <div class="transcript-message-bar">
+                        <button id="transcript-message-close" class="transcript-message-btn">✖</button>
+                      </div>
+
+                      <div class="transcript-message-content">
+                        <%= @pbcore.transcript_message.html_safe %>
+                      </div>
+                    </div>
+                  <% end %>
+                </dl>
+                <div id="transcript" class="transcript-frame">
+                  <div class="transcript transcript-content">
+                    <%= raw @pbcore.transcript_html %>
+                  </div>
+                </div>
+              </div>
+
+              
+            <% end %>
+
+          </div>
+          <div class="educator-resource-clip-details">
+
+            <h3 class="educator-resource-title educator-resource-clip-title"><%= @educator_resource.title %></h3>
+            <div class="educator-resource-content">
+              <%= @educator_resource.introduction_html %>
+
+              <a class="educator-resource-fullrecord" href="/catalog/<%= @educator_resource.guid %>">
+                View Full Record
+              </a>
+            </div>
+          </div>
         </div>
 
-      </div>
+        <div class="row" >
+          <!-- resource links -->
+          <div class="col-md-12 educator-resource-section">
+
+            <h3 class="educator-resource-title">Classroom Activities</h3>
+            <div>
+
+            <div class="educator-resource-content">
+              <%= @educator_resource.teachingtips_html %>
+            </div>
+            
+            </div>
+          </div>
+        </div>
+
+        <hr/>
+
+        <div class="row" >
+
+          <!-- resource links -->
+          <div class="col-md-12 educator-resource-section">
+
+            <h3 class="educator-resource-title">Citation</h3>
+            <div>
+
+            <div class="educator-resource-content">
+              <%= @educator_resource.citation_html %>
+            </div>
+            
+            </div>
+          </div>
+        </div>
+
+        <hr/>
+
+        <div class="row">
+
+          <div class="col-md-12 educator-resources-container educator-resource-section">
+            <!-- <div class="educator-resources-background"></div> -->
+
+            <h3 class="educator-resource-title">More in this Primary Source Discussion Set</h3>
+
+            <div class="row">
+
+              <!-- list of clips -->
+              <% @educator_resource.other_resources.each do |resource| %>
+
+                <div class="col-md-3 educator-resource-source">
+                  <a href="/<%= resource.path %>">
+                    <%= resource.cover_img %>
+                    <%= resource.title %>
+                  </a>
+                </div>
+
+              <% end %>
+
+            </div>
+
+          </div>
+        </div>
+        
+      <% end %>
+
     </div>
+    <!-- END: Main Column -->
+    
+  </div>
+</div>
 
-    <div class="row" style="">
+<script type="text/javascript">
+  $(document).ready(function() { 
+    $("div.player").removeClass("col-md-offset-2")
 
-      <!-- resource links -->
-      <div class="col-md-12">
+    $("div.educator-resource-showhide").click(function() {
+      if($("#educator-resource-introduction").hasClass("hidden")){
+        $("#educator-resource-introduction").removeClass("hidden")
+      } else {
+        $("#educator-resource-introduction").addClass("hidden")
+      }
+    })
 
-        <div class="row" style="">
-          <h3 class="curator-title">Additional Resources</h3>
-        </div>
+  })
 
-        <div class="row" style="margin-left: 0;">
-          resoruce links 
-          resoruce links 
-          resoruce links 
-          resoruce links 
-        </div>
-      </div>
-    </div>
-
-
-  <% elsif @educator_resource.is_resource? %>
-
-  <% end %>
-<% end %>
+</script>

@@ -1,0 +1,146 @@
+.educator-resource-header {
+  background-size: cover;
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/educator_resources/educator_resources_purple_bar.png");
+  max-width: 1172px;
+  h1 {
+    padding-left: 22px;
+    font-size: 36px;
+    font-weight: lighter;
+    line-height: 52px;
+    color: #fff;
+    margin: 0;
+  }
+
+}
+
+a.educator-resource-fullrecord, a.educator-resource-fullrecord:link, a.educator-resource-fullrecord:visited {
+  background-color: #A92F33;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.6em;
+  padding: 0.6em;
+}
+
+div.educator-resource-breadcrumb-container {
+  margin-bottom: 2em;
+}
+
+img.educator-resource-cover {
+  margin: 0;
+  max-height: 20em;
+  width:  100%;
+}
+
+div.educator-resource-colorband {
+  min-height: 1.6em;
+  background-color: #4A2378;
+  width:  100%;
+}
+
+div.educator-resource-moretitle {
+  font-weight: bold;
+  color: #000;
+}
+/*
+div.educator-resources-container {
+  position: relative;
+  height: 20em;
+}
+*/
+div.educator-resources-background {
+  position: absolute;
+  z-index: -1;
+  background-color: #ddd;
+  width: 100vw;
+  height: 24vh;
+}
+
+h3.educator-resource-clip-title {
+  margin-top: 4em;
+}
+
+div.educator-resource-section {
+  margin-top: 2em;
+}
+
+div.educator-resource-showhide {
+  color: #4A2378;
+  font-size: 0.8em;
+  font-weight: normal;
+}
+
+h3.educator-resource-title {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #4A2378;
+}
+
+div.educator-resource-content {
+  font-size: 0.8em;
+}
+
+div.educator-resource-content h4 {
+  font-size: 1.4em;
+  color: #A92F33;
+}
+
+div.educator-resource-clip-details {
+  margin-top: 2em;
+}
+
+div.educator-resource-section a.pdf-icon, div.educator-resource-section a.pdf-icon:link, div.educator-resource-section a.pdf-icon:active,  div.educator-resource-section a.pdf-icon:visited {
+  font-weight: normal;
+  font-size: 0.5em;
+  color: #A92F33;
+  min-height: 4em;
+  margin-left: 5vw;
+}
+
+
+div#educator-resource-introduction{
+  /*just for show/hide js*/
+}
+
+div.educator-resource-source {
+  width: 25%;
+
+  padding-bottom: 10%;
+  overflow: hidden;
+}
+
+div.educator-resource-source a:hover, div.educator-resource-source a:link, div.educator-resource-source a:visited {
+  text-decoration: none;
+}
+
+div.educator-resource-source img {
+  max-height: 10em;
+  object-fit: cover;
+}
+
+.educator-resources-additional-resources li {
+  list-style:  none;
+  width: 48%;
+  display: inline-block;
+  float: left;
+  font-size: 0.8em;
+}
+
+dl.educator-resource-panel {
+  background-color: #ddd;
+}
+
+dl.educator-resource-panel hr {
+  width: 95%;
+  display: block;
+}
+
+div.educator-resource-transcript-header {
+}
+
+div.educator-resource-skipbutton-container {
+  margin-top: 2em;
+}
+
+div.transcript-view-show.educator-resource-transcript {
+  margin-bottom: 12em;
+}

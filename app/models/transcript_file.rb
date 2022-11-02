@@ -10,9 +10,20 @@ class TranscriptFile < ExternalFile
 
   attr_reader :transcript_file_src
 
-  def initialize(guid, transcript_file_src)
+  def initialize(guid, transcript_file_src, start_time=nil, end_time=nil)
     @transcript_file_src = transcript_file_src
     super("transcript", guid, transcript_file_src)
+
+    if structured_content && (start_time || end_time)
+      if !start_time
+        start_time = 0
+      end
+
+      if !end_time
+        end_time = structured_content['parts'].last
+      end
+
+    end
   end
 
   def html

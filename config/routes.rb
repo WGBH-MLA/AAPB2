@@ -57,10 +57,12 @@ Rails.application.routes.draw do
 
   get '/timelines/eotp', to: 'timelines#eotp'
   get '/a-tribute-to-jim-lehrer', to: 'jims#index'
-  get '/educator_resources', to: 'educator_resources#index'
 
   get '/exhibits', to: 'exhibits#index'
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
+
+  get '/educator_resources', to: 'educator_resources#index'
+  get '/educator_resources/*path', to: 'educator_resources#show', constraints: override_constraints
 
   # old link support, must come before /special_collections
   get '/special_collections/eotp-i-interviews', to: redirect('/special_collections/eotp-interviews', status: 301)

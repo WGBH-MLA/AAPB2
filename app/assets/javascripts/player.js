@@ -38,17 +38,27 @@ $(function() {
     var playerHeight = player.height();
     var playerWidth = player.width();
 
-    if ($divPlayer.hasClass('col-md-8') && $divPlayer.hasClass('player')) {
-      $divPlayer.addClass('col-md-6');
-      $divPlayer.removeClass('col-md-offset-2').removeClass('col-md-8');
-      $divExhibitPromo.addClass('col-md-6');
-      $divExhibitPromo.removeClass('col-md-offset-2').removeClass('col-md-8');
-    } else if ($divPlayer.hasClass('col-md-6') && $divPlayer.hasClass('player'))  {
-      $divPlayer.addClass('col-md-offset-2').addClass('col-md-8');
-      $divPlayer.removeClass('col-md-6');
-      $divExhibitPromo.addClass('col-md-offset-2').addClass('col-md-8');
-      $divExhibitPromo.removeClass('col-md-6');
+
+    if(!$divPlayer.hasClass('educator-resource-player')){
+      // ^ hack to exclude grid shift for educator resources player ts viewer show/hide
+
+      if ($divPlayer.hasClass('col-md-8') && $divPlayer.hasClass('player')) {
+        // side by side player and ts viewer
+
+        $divPlayer.addClass('col-md-6');
+        $divPlayer.removeClass('col-md-offset-2').removeClass('col-md-8');
+        $divExhibitPromo.addClass('col-md-6');
+        $divExhibitPromo.removeClass('col-md-offset-2').removeClass('col-md-8');
+      } else if ($divPlayer.hasClass('col-md-6') && $divPlayer.hasClass('player'))  {
+        // push minimized transcript viewer panel down below player
+
+        $divPlayer.addClass('col-md-offset-2').addClass('col-md-8');
+        $divPlayer.removeClass('col-md-6');
+        $divExhibitPromo.addClass('col-md-offset-2').addClass('col-md-8');
+        $divExhibitPromo.removeClass('col-md-6');
+      }
     }
+    
   }
 
   function updateTranscriptButton() {
@@ -71,6 +81,15 @@ $(function() {
     var start = getParameterByName('start');
     var end = getParameterByName('end');
 
+    if(start && end){
+      return [start, end];
+    }
+  }
+
+  function getTimeMarkersFromEducatorResourceClip() {
+    var start = document.getElementById("clip-start").innerHTML;
+    var end = document.getElementById("clip-end").innerHTML;
+    console.log( 'ssss', start, end )
     if(start && end){
       return [start, end];
     }
@@ -311,7 +330,13 @@ $(function() {
   if($('#player_media').length != 0){
     var player = videojs('#player_media');
 
+    // time markers from url parameters
     var time_markers = getTimeMarkers();
+    if(!time_markers){
+      // time markers from edu resource clip!
+      time_markers = getTimeMarkersFromEducatorResourceClip();
+    }
+
     if(time_markers){
       $('#time-range-switch-container, #time-range-container').hide();
 
