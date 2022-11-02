@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![*Seven Days*](https://s3.amazonaws.com/americanarchive.org/special-collections/WRVRbox1_smaller2.jpg "*Seven Days*") 
+![*Seven Days*](https://s3.amazonaws.com/americanarchive.org/special-collections/main_image_seven_days.jpg) "*Seven Days*") 
 
 ## Summary
 
@@ -28,10 +28,10 @@ This collection was digitized between September 2021 and April 2022 by Valeria D
 - [OPB Website](https://www.opb.org/) 
 - [About Oregon Public Broadcasting](https://americanarchive.org/participating-orgs/1840) 
 - [Common Roots: OPB and OSU share their Oregon origins](https://blogs.oregonstate.edu/webcomm/2019/11/17/common-roots-opb-and-osu-share-their-oregon-origins/comment-page-2/)
-- [Music, Markets, and Milestones: 75 years of KOAC Radio]( http://scarc.library.oregonstate.edu/coll/rg015/koac-75/page2.html)
-- [In Our Care, Preserving KOAC TV Films at OSU Libraries, Part 1]( https://blogs.oregonstate.edu/scarc/2018/08/08/in-our-care-part-1/) 
-- [In Our Care, Preserving KOAC TV Films at OSU Libraries, Part 2]( https://blogs.oregonstate.edu/scarc/2018/10/29/in-our-care-part-2/)
-- [Oregon Digital: KOAC Photograph Collections and Programs]( https://www.oregondigital.org/catalog?q=koac&search_field=all_fields&utf8=%E2%9C%93)
+- [Music, Markets, and Milestones: 75 years of KOAC Radio](http://scarc.library.oregonstate.edu/coll/rg015/koac-75/page2.html)
+- [In Our Care, Preserving KOAC TV Films at OSU Libraries, Part 1](https://blogs.oregonstate.edu/scarc/2018/08/08/in-our-care-part-1/) 
+- [In Our Care, Preserving KOAC TV Films at OSU Libraries, Part 2](https://blogs.oregonstate.edu/scarc/2018/10/29/in-our-care-part-2/)
+- [Oregon Digital: KOAC Photograph Collections and Programs](https://www.oregondigital.org/catalog?q=koac&search_field=all_fields&utf8=%E2%9C%93)
 
 ## Funders
 
