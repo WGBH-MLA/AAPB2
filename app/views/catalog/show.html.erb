@@ -148,7 +148,7 @@
             type.downcase.gsub(/\s/,'_')
           %>_titles][]=<%=
             URI::encode_www_form_component(title.gsub(/(["\\])/, '\\\\\1')) # escape Solr meta-characters
-          %>"><%= title %></a></dd>
+          %>&f[access_types][]=all"><%= title %></a></dd>
       </dl>
     <% end %>
 
