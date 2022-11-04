@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "tl-icons";
+  src: url("/icons/tl-icons.eot");
+  src: url("/icons/tl-icons.eot?#iefix") format("embedded-opentype"), url("/icons/tl-icons.woff")
+      format("woff"), url("/icons/tl-icons.ttf") format("truetype"), url("/icons/tl-icons.svg#tl-icons")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .educator-resource-header {
   background-size: cover;
   background-image: url("https://s3.amazonaws.com/americanarchive.org/educator_resources/educator_resources_purple_bar.png");
@@ -22,7 +32,8 @@ a.educator-resource-fullrecord, a.educator-resource-fullrecord:link, a.educator-
 }
 
 div.educator-resource-breadcrumb-container {
-  margin-bottom: 2em;
+  margin-top: 0.2em;
+  margin-bottom: 1em;
 }
 
 img.educator-resource-cover {
@@ -85,6 +96,7 @@ div.educator-resource-content h4 {
 }
 
 div.educator-resource-clip-details {
+  padding-left: 15px;
   margin-top: 2em;
 }
 
@@ -96,9 +108,25 @@ div.educator-resource-section a.pdf-icon, div.educator-resource-section a.pdf-ic
   margin-left: 5vw;
 }
 
+a.pdf-icon:after {
+  content: "\e654";
+  font-family: "tl-icons";
+  font-size: 1.4em;
+  speak: none;
+  margin-left: 1em;
+  top: 4px;
+  position: absolute;
+}
 
-div#educator-resource-introduction{
-  /*just for show/hide js*/
+
+div#educator-resource-introduction {
+  overflow-y: hidden;
+  height: auto;
+  margin-bottom: 2em;
+}
+
+div#educator-resource-introduction.show-less {
+  height: 6em;
 }
 
 div.educator-resource-source {
@@ -139,8 +167,10 @@ div.educator-resource-transcript-header {
 
 div.educator-resource-skipbutton-container {
   margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 div.transcript-view-show.educator-resource-transcript {
   margin-bottom: 12em;
 }
+

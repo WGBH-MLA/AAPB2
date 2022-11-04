@@ -69,8 +69,7 @@ class EducatorResource < Cmless
   end
 
   def pdf_link
-    doc = Nokogiri::HTML(@pdflink_html).xpath('//a').first
-    doc.attribute('href').to_s if doc
+    Nokogiri::HTML(@pdflink_html).text
   end
   
   def clip_start

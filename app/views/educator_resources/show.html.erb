@@ -57,7 +57,7 @@
           <div class="col-md-12 educator-resource-section">
 
             <h3 class="educator-resource-title">Introduction & Context</h3>
-            <div id="educator-resource-introduction" class="hidden educator-resource-content">
+            <div id="educator-resource-introduction" class="show-less educator-resource-content">
 
               <%= @educator_resource.introduction_html %>
             </div>
@@ -98,7 +98,7 @@
           <!-- resource links -->
           <div class="col-md-12 educator-resource-section">
 
-            <h3 class="educator-resource-title">Teaching Tips <a class="pdf-icon" href="<%= @educator_resource.pdf_link %>">Download PDF <img src="/pdficon.png" /></a></h3>
+            <h3 class="educator-resource-title">Teaching Tips <a class="pdf-icon" href="<%= @educator_resource.pdf_link %>">Download PDF <span class="tl-icon-doc"></span></a></h3>
             <div>
 
             <div class="educator-resource-content">
@@ -353,10 +353,14 @@
     $("div.player").removeClass("col-md-offset-2")
 
     $("div.educator-resource-showhide").click(function() {
-      if($("#educator-resource-introduction").hasClass("hidden")){
-        $("#educator-resource-introduction").removeClass("hidden")
+
+
+      if($("#educator-resource-introduction").hasClass("show-less")){
+        $("#educator-resource-introduction").removeClass("show-less")
+        $(this).text("Read Less -")
       } else {
-        $("#educator-resource-introduction").addClass("hidden")
+        $("#educator-resource-introduction").addClass("show-less")
+        $(this).text("Read More +")
       }
     })
 
