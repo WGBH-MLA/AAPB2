@@ -6,43 +6,38 @@ describe EducatorResource do
       ROOT = (Rails.root + 'spec/fixtures/educator_resources').to_s
     end
 
-    let(:educator_resource) { MockEducatorResource.find_by_path('set/clip') }
+    let(:edu_set) { MockEducatorResource.find_by_path('set') }
+    let(:edu_clip) { MockEducatorResource.find_by_path('set/clip') }
 
+    # test any accessor model methods that have specific output expectations, like pdf_link returns a bare url
 
-    describe '.authors' do
-      it 'returns the authors' do
-        expect(exhibit.authors).to eq([
-          { img_url: 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author2.png',
-            title: 'Curator Extraordinaire',
-            name: 'First Author' },
-          { img_url: 'https://s3.amazonaws.com/americanarchive.org/exhibits/assets/author.png',
-            title: 'Second Banana',
-            name: 'Second Author' }
-        ])
+    describe 'is_source_set?' do
+      it 'returns true if set' do
+        expect(edu_set.is_source_set?).to eq(true)
+      end
+      it 'returns false if clip' do
+        expect(edu_clip.is_source_set?).to eq(false)
+      end      
+    end
+
+    describe 'other_resources' do
+      it 'returns only other sets, none in this test case' do
+        expect(edu_set.other_resources).to eq(EducatorResource("other"))
       end
     end
 
-    describe '.subsection?' do
-      it 'returns true if parent' do
-        expect(exhibit.subsection?).to eq(true)
+    describe 'clipstart' do
+      it 'correct format yields start time' do
+        expect(edu_clip.clip_start).to eq(3462)
       end
+      it 'correct format yields end time' do
+        expect(edu_clip.clip_end).to eq(3474)
+      end      
     end
 
-    describe '.top_title' do
-      it 'returns the top title' do
-        expect(exhibit.top_title).to eq('Parent!')
-      end
-    end
-
-    describe '.top_path' do
-      it 'returns the top_path' do
-        expect(exhibit.top_path).to eq('parent')
-      end
-    end
-
-    describe 'not found handling' do
-      it 'returns nil for bad paths' do
-        expect(MockExhibit.find_by_path('no/such/path')).to eq(nil)
+    describe 'guid no cruft' do
+      it 'returns plaintext guid' do
+        expect(edu_clip.guid).to eq("cpb-aacip-069-234dkfj")
       end
     end
   end
