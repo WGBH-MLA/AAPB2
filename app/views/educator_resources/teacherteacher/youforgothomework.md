@@ -2,10 +2,7 @@
 
 ## Thumbnail
 
-![New Jersey Network Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/NJN_specialcollection_logocollage.png "New Jersey Network Collection")
-
-## Cover
-  <img class="educator-resource-cover" src="https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg"/>
+![Forgot HW Image](https://s3.amazonaws.com/americanarchive.org/exhibits/1.+Aerial+view+of+The+Riverside+Church+circa+1930+CREDIT+The+Riverside+Church+Archives.jpg "Forgot HW Image")
 
 ## Guid
 cpb-aacip-114-90dv49m9
@@ -31,10 +28,8 @@ City wity
 3462,3474
 
 ## Author
-
 ## Subjects
-
 ## Pdflink
-
 ## Additionalresources
+## Cover
 

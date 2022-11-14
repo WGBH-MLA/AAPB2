@@ -2,10 +2,8 @@
 
 ## Thumbnail
 
-![New Jersey Network Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/NJN_specialcollection_logocollage.png "New Jersey Network Collection")
+![My Dog Ate It Image](https://s3.amazonaws.com/americanarchive.org/exhibits/0_KNBA.jpg "My Dog Ate It Image")
 
-## Cover
-  <img class="educator-resource-cover" src="https://s3.amazonaws.com/americanarchive.org/exhibits/0_KNBA.jpg"/>
 
 ## Guid
 cpb-aacip-62-5m6251fv96
@@ -34,4 +32,5 @@ You've been cited.
 ## Subjects
 ## Pdflink
 ## Additionalresources
+## Cover
 

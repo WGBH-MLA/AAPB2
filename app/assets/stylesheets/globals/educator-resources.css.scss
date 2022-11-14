@@ -8,6 +8,10 @@
   font-style: normal;
 }
 
+.gray-bg {
+  background-color: #eee;
+}
+
 .educator-resource-header {
   background-size: cover;
   background-image: url("https://s3.amazonaws.com/americanarchive.org/educator_resources/educator_resources_purple_bar.png");
@@ -72,12 +76,14 @@ h3.educator-resource-clip-title {
 
 div.educator-resource-section {
   margin-top: 2em;
+  padding: 2em;
 }
 
 div.educator-resource-showhide {
   color: #4A2378;
-  font-size: 0.8em;
+  font-size: 1em;
   font-weight: normal;
+  padding-left: 1em;
 }
 
 h3.educator-resource-title {
@@ -87,7 +93,7 @@ h3.educator-resource-title {
 }
 
 div.educator-resource-content {
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 div.educator-resource-content h4 {
@@ -102,7 +108,7 @@ div.educator-resource-clip-details {
 
 div.educator-resource-section a.pdf-icon, div.educator-resource-section a.pdf-icon:link, div.educator-resource-section a.pdf-icon:active,  div.educator-resource-section a.pdf-icon:visited {
   font-weight: normal;
-  font-size: 0.5em;
+  font-size: 0.6em;
   color: #A92F33;
   min-height: 4em;
   margin-left: 5vw;
@@ -114,7 +120,6 @@ a.pdf-icon:after {
   font-size: 1.4em;
   speak: none;
   margin-left: 1em;
-  top: 4px;
   position: absolute;
 }
 
@@ -122,11 +127,10 @@ a.pdf-icon:after {
 div#educator-resource-introduction {
   overflow-y: hidden;
   height: auto;
-  margin-bottom: 2em;
 }
 
 div#educator-resource-introduction.show-less {
-  height: 6em;
+  height: 5.8em;
 }
 
 div.educator-resource-source {
@@ -149,7 +153,7 @@ div.educator-resource-source img {
   width: 48%;
   display: inline-block;
   float: left;
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 dl.educator-resource-panel {

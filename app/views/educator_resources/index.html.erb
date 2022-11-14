@@ -1,4 +1,4 @@
-<% content_for :main do %>
+=<% content_for :main do %>
   <div class="row">
     <div class="col-md-12 gallery-intro">
       <p>American Archive of Public Broadcasting staff and guest curators create exhibits of selected recordings that focus on themes, topics, and events of cultural and historical significance. In the exhibits, curators contextualize digitized primary and secondary source public television and radio materials. Each curated set of selected recordings present a diversity of perspectives concerning the exhibit's focus. As a result, AAPB exhibits often illuminate how public broadcasting stations and producers have covered the exhibit's theme.</p>
@@ -9,7 +9,7 @@
       <div class="gallery col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-thumbnail">
           <a href="/educator_resources/<%= resource.path %>">
-            <img src="<%= resource.cover_img %>" alt="<%= resource.title %>" aria-hidden="true">
+            <img src="<%= resource.thumbnail_url %>" alt="<%= resource.title %>" aria-hidden="true">
             <div class="exhibit-index-title-container">
               <h2 class="exhibit-index-title bg-color-<%= ['purple','pink','red'].sample %>">
                 <a href="/educator_resources/<%= resource.path %>"><%= resource.title %></a>

@@ -70,7 +70,7 @@
 
         <div class="row">
 
-          <div class="col-md-12 educator-resources-container educator-resource-section">
+          <div class="col-md-12 educator-resources-container educator-resource-section gray-bg">
             <!-- <div class="educator-resources-background"></div> -->
 
             <h3 class="educator-resource-title">Sources</h3>
@@ -82,7 +82,7 @@
 
                 <div class="col-md-3 educator-resource-source">
                   <a href="<%= resource.path %>">
-                    <%= resource.cover_img %>
+                    <img src="<%= resource.thumbnail_url %>" class="educator-resource-cover" />
                     <%= resource.title %>
                   </a>
                 </div>
@@ -140,7 +140,7 @@
 
         <div class="row">
 
-          <div class="col-md-12 educator-resources-container educator-resource-section">
+          <div class="col-md-12 educator-resources-container educator-resource-section gray-bg">
             <!-- <div class="educator-resources-background"></div> -->
 
             <h3 class="educator-resource-title">You May Also Like</h3>
@@ -148,12 +148,12 @@
             <div class="row">
 
               <!-- list of clips -->
-              <% EducatorResource.all_resource_sets.each do |educator_resource| %>
+              <% @other_sets.each do |educator_resource| %>
 
                 <div class="col-md-3 educator-resource-source">
                   <a href="<%= educator_resource.path %>">
-                    <%= educator_resource.cover_img %>
-                      <div class="educator-resource-colorband" ></div>
+                    <img src="<%= educator_resource.thumbnail_url %>" class="educator-resource-cover" />
+                    <div class="educator-resource-colorband" ></div>
                     <div class="educator-resource-moretitle">
                       <%= educator_resource.title %>
                     </div>
@@ -211,14 +211,6 @@
             %>
             </section>
 
-            <div class="row">
-              <div class="col-md-12 educator-resource-skipbutton-container">
-
-                <button id="skip-back" class="player-button skip-button">◀◀ 10s</button>
-                <button id="skip-forward" class="player-button skip-button">10s ▶▶</button>
-              </div>
-            </div>
-
           </div>
 
           <div class="hidden-sm hidden-xs">
@@ -242,7 +234,7 @@
 
                 <dl class="panel transcript-panel">
 
-                  <% if @pbcore.transcript_message %>
+                  <% if false && @pbcore.transcript_message %>
                     <div style="background-color: #fceab2;" id="transcript-message" class="">
 
                       <div class="transcript-message-bar">
@@ -316,7 +308,7 @@
 
         <div class="row">
 
-          <div class="col-md-12 educator-resources-container educator-resource-section">
+          <div class="col-md-12 educator-resources-container educator-resource-section gray-bg">
             <!-- <div class="educator-resources-background"></div> -->
 
             <h3 class="educator-resource-title">More in this Primary Source Discussion Set</h3>
@@ -327,8 +319,8 @@
               <% @educator_resource.other_resources.each do |resource| %>
 
                 <div class="col-md-3 educator-resource-source">
-                  <a href="/<%= resource.path %>">
-                    <%= resource.cover_img %>
+                  <a href="/educator_resources/<%= resource.path %>">
+                    <img src="<%= resource.thumbnail_url %>" class="educator-resource-cover" />
                     <%= resource.title %>
                   </a>
                 </div>

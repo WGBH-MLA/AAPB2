@@ -46,6 +46,14 @@ Are we not the teachers of ourselves, in the grand classroom of the world?
 - Are you going to let us go without assigning homework?
 - Ugh! Homework again?
 
+<hr>
+
+#### Classroom Activities -
+
+Listen to Representative Shirley Chisholm’s commencement speech at Mount Holyoke and Betty Friedan’s commencement address at Smith College, both in 1981 (Sources #5 and #6). Considering that both women fought for gender equality, their speeches take on noticeably different tones. What did each woman say in her speech, and what different tactics did they employ? What might account for that?
+
+<hr>
+
 ## Pdflink
 
 http://www.google.com

@@ -11,6 +11,10 @@ class EducatorResourcesController < OverrideController
 
   def show
     @educator_resource = EducatorResource.find_by_path(params[:path])
+    # TODO put back
+    # @other_sets = EducatorResource.all_resource_sets.reject {|set| set.path == @educator_resource.path }
+    @other_sets = EducatorResource.all_resource_sets
+
     raise ActionController::RoutingError.new('Not Found') unless @educator_resource
     @page_title = @educator_resource.title
 
