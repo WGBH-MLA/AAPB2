@@ -1,4 +1,4 @@
-=<% content_for :main do %>
+<% content_for :main do %>
   <div class="row">
     <div class="col-md-12 gallery-intro">
       <p>American Archive of Public Broadcasting staff and guest curators create exhibits of selected recordings that focus on themes, topics, and events of cultural and historical significance. In the exhibits, curators contextualize digitized primary and secondary source public television and radio materials. Each curated set of selected recordings present a diversity of perspectives concerning the exhibit's focus. As a result, AAPB exhibits often illuminate how public broadcasting stations and producers have covered the exhibit's theme.</p>
@@ -25,6 +25,6 @@
 
 <%= render partial: 'shared/gallery_title',
            locals: {
-            title: 'Exhibits',
+            title: 'Primary Source Discussion Sets',
             main: yield(:main)
            } %>
