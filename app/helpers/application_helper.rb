@@ -14,12 +14,10 @@ module ApplicationHelper
     return [] if !query || query.empty?
 
     stopwords = Rails.cache.fetch("stopwords") do
-      sw = []
-      File.read(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt')).each_line do |line|
-        next if line.start_with?('#') || line.empty?
-        sw << line.upcase.strip
+      sw = File.readlines(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt'), chomp: true)
+      sw.reject do |word|
+        word =~ /^#/ || word.empty?
       end
-      sw
     end
 
     terms_array = if query.include?(%("))
