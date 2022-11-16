@@ -52,7 +52,6 @@ What do the voices of Black Power activists contribute to our understanding abou
 - What do you think the goals of the Black Power Movement were? 
 - What challenges did Black Power activists face?
 - How have these primary source audio and video clips affected your understanding about Black Power as a concept or a movement?
-- 
 <hr>
 
 #### Classroom Activities -
@@ -100,10 +99,9 @@ What do the voices of Black Power activists contribute to our understanding abou
 
 
 ## Youmayalsolike
-
-- <b>Televising Black Politics in the Black Power Era</b> [American Archive of Public Broadcasting](https://americanarchive.org/exhibits/black-power)
-- <b>Say Brother</b> [American Archive of Public Broadcasting](https://americanarchive.org/special_collections/say-brother)
-- <b>The Soul of Black Identity: Artist Interviews of the Post-Soul Era</b> [American Archive of Public Broadcasting](https://americanarchive.org/special_collections/soul-of-black-identity)
+- exhibits,black-power
+- special_collections,say-brother
+- special_collections,soul-of-black-identity
 
 
 ## Citation
