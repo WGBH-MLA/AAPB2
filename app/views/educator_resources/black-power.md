@@ -99,9 +99,9 @@ What do the voices of Black Power activists contribute to our understanding abou
 
 
 ## Youmayalsolike
-- exhibits,black-power
-- special_collections,say-brother
-- special_collections,soul-of-black-identity
+- exhibit,black-power
+- special_collection,say-brother
+- special_collection,soul-of-black-identity
 
 
 ## Citation
