@@ -35,7 +35,8 @@ module ApplicationHelper
       return [] if !query || query.empty?
       query = query.upcase
 
-      if query.include?(%("))
+      # if there are an even number of double quotes
+      if query.count('"') % 2 == 0
           quotes = extract_quoted_phrases(query)
           
           # Remove quotes from query
