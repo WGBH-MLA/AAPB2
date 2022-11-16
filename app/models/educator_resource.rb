@@ -21,6 +21,7 @@ class EducatorResource < Cmless
   attr_reader :pdflink_html
   attr_reader :guid_html 
   attr_reader :cliptime_html
+  attr_reader :youmayalsolike_html
 
   def self.all_resource_sets
     @all_resource_sets ||=
@@ -104,4 +105,29 @@ class EducatorResource < Cmless
     ele = Nokogiri::HTML(@guid_html).xpath('//p').first
     ele.text if ele
   end
+
+  def you_may_also_like
+    @you_may_also_like ||= begin
+      Nokogiri::HTML(@youmayalsolike_html).xpath('//li').map {|li| aapb_content_item_block(li.text)  }
+    end 
+
+  end
+
+  private
+  def aapb_content_item_block(str)
+    type, identifier = str.split(",")
+
+    if type == "exhibit" || type == "special_collection"
+      item = type == "exhibit" ? Exhibit.find_by_path(identifier) : SpecialCollection.find_by_path(identifier)
+      { path: item.path, thumbnail_url: item.thumbnail_url, title: item.title  }
+    elsif type == "record"
+
+      @solr = Solr.instance.connect
+      data = @solr.get('select', params: { q: "id:#{ identifier }", fl: 'xml' })
+      xml = data['response']['docs'][0]['xml'] if data['response']['numFound'] > 0
+      item = PBCorePresenter.new(xml)
+      { path: "/catalog/#{ item.id }", thumbnail_url: item.img_src, title: item.title  }
+    end
+  end
+
 end

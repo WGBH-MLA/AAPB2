@@ -18,8 +18,6 @@ Well what happened was um, the dog, um jumped up? And then - you know, like - ju
 
 ## Teachingtips
 
-Do you believe that the dog ate the student's homework?
-
 ## Citation
 
 You've been cited.
@@ -33,4 +31,4 @@ You've been cited.
 ## Pdflink
 ## Additionalresources
 ## Cover
-
+## Youmayalsolike

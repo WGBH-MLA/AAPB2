@@ -24,7 +24,7 @@
         <div class="row educator-resource-breadcrumb-container">
           <div class="col-md-12">
             <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
-              <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Primary Source Discussion Sets</a></li>
+              <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/educator_resources">Primary Source Discussion Sets</a></li>
 
               <li><%= link_to @educator_resource.title, "/educator_resources/#{@educator_resource.path}" %></li>
             </ol>
@@ -148,14 +148,14 @@
             <div class="row">
 
               <!-- list of clips -->
-              <% @other_sets.each do |educator_resource| %>
+              <% @educator_resource.you_may_also_like.each do |aapb_content_item| %>
 
                 <div class="col-md-3 educator-resource-source">
-                  <a href="<%= educator_resource.path %>">
-                    <img src="<%= educator_resource.thumbnail_url %>" class="educator-resource-cover" />
+                  <a href="<%= aapb_content_item[:path] %>">
+                    <img src="<%= aapb_content_item[:thumbnail_url] %>" class="educator-resource-cover" />
                     <div class="educator-resource-colorband" ></div>
                     <div class="educator-resource-moretitle">
-                      <%= educator_resource.title %>
+                      <%= aapb_content_item[:title] %>
                     </div>
                   </a>
                 </div>
@@ -171,7 +171,7 @@
         <div class="row educator-resource-breadcrumb-container">
           <div class="col-md-12">
             <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
-              <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/exhibits">Primary Source Discussion Sets</a></li>
+              <li> ◄ <a style="margin-left: 4px; top: -2px; " href="/educator_resources">Primary Source Discussion Sets</a></li>
 
               <li><%= link_to @educator_resource.parent.title, "/educator_resources/#{@educator_resource.parent.path}" %></li>
               <li><%= link_to @educator_resource.title, "/educator_resources/#{@educator_resource.path}" %></li>
@@ -271,22 +271,25 @@
           </div>
         </div>
 
-        <div class="row" >
-          <!-- resource links -->
-          <div class="col-md-12 educator-resource-section">
 
-            <h3 class="educator-resource-title">Classroom Activities</h3>
-            <div>
+        <% if @educator_resource.teachingtips_html.length > 0 %>
+          <div class="row" >
+            <!-- resource links -->
+            <div class="col-md-12 educator-resource-section">
 
-            <div class="educator-resource-content">
-              <%= @educator_resource.teachingtips_html %>
-            </div>
-            
+              <h3 class="educator-resource-title">Classroom Activities</h3>
+              <div>
+
+              <div class="educator-resource-content">
+                <%= @educator_resource.teachingtips_html %>
+              </div>
+              
+              </div>
             </div>
           </div>
-        </div>
-
-        <hr/>
+          
+          <hr/>
+        <% end %>
 
         <div class="row" >
 
