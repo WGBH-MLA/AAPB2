@@ -10,33 +10,51 @@ module ApplicationHelper
     nil
   end
 
-  def query_to_terms_array(query)
-    return [] if !query || query.empty?
-
-    stopwords = Rails.cache.fetch("stopwords") do
-      sw = File.readlines(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt'), chomp: true)
+  def get_stopwords()
+      stopwords = Rails.cache.fetch("stopwords") do
+      sw = File.readlines(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt'), chomp: true).map(&:upcase)
       sw.reject do |word|
         word =~ /^#/ || word.empty?
+          end
       end
-    end
+  end
 
-    terms_array = if query.include?(%("))
-                    # pull out double quoted terms!
-                    quoteds = query.scan(/"([^"]*)"/)
+  def remove_stopwords(terms_array)
+      terms_array - get_stopwords
+  end
 
-                    # now remove them from the remaining query
-                    quoteds.each { |q| query.remove!(q.first) }
-                    query = query.gsub(/[[:punct:]]/, '').upcase
+  def extract_quoted_phrases(query)
+      query.scan(/"([^"]*)"/)
+  end
 
-                    # put it all together (removing any term thats just a stopword)
-                    # and remove punctuation now that we've used our ""
-                    quoteds.flatten.map(&:upcase) + (query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } })
-                  else
-                    query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } }
-                  end
+  def strip_punctuation(query)
+      query.gsub(/[[:punct:]]/, '')
+  end
 
-    # remove extra spaces and turn each term into word array
-    terms_array.map { |term| term.upcase.strip.gsub(/[^\w\s]/, "").split(" ") }
+  def query_to_terms_array(query)
+      return [] if !query || query.empty?
+      query = query.upcase
+
+      if query.include?(%("))
+          quotes = extract_quoted_phrases(query)
+          
+          # Remove quotes from query
+          quotes.each {|q| query.remove!(q.first)}
+
+          # Remove punctuation from unquoted bits
+          unquotes = strip_punctuation(query).split(" ").map(&:strip)
+
+          # Remove any unquoted stopwords 
+          unquotes = remove_stopwords(unquotes)
+
+          # return combined quotes and unquotes
+          terms_array = quotes + unquotes
+      else
+        # query has no quotes
+        unquotes = strip_punctuation(query).split(' ').map(&:strip)
+        terms_array = [unquotes - get_stopwords]
+        # require 'pry'; binding.pry
+      end
   end
 
   def get_last_day(month)
