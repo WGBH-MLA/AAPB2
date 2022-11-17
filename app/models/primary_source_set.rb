@@ -2,8 +2,8 @@ require_relative '../../lib/solr'
 require 'nokogiri'
 require 'cmless'
 
-class EducatorResource < Cmless
-  ROOT = (Rails.root + 'app/views/educator_resources').to_s
+class PrimarySourceSet < Cmless
+  ROOT = (Rails.root + 'app/views/primary_source_sets').to_s
 
   attr_reader :head_html
   # avoid by using toplevel/child as container vs clip
@@ -25,7 +25,7 @@ class EducatorResource < Cmless
 
   def self.all_resource_sets
     @all_resource_sets ||=
-      EducatorResource.select { |resource| !resource.path.match(%r{\/}) }
+      PrimarySourceSet.select { |resource| !resource.path.match(%r{\/}) }
   end
 
   def is_source_set?
