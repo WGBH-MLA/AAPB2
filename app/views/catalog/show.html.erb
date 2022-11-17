@@ -147,7 +147,7 @@
         <dd><a href="/catalog?f[<%=
             type.downcase.gsub(/\s/,'_')
           %>_titles][]=<%=
-            URI::escape(title.gsub(/(["\\])/, '\\\\\1')) # escape Solr meta-characters
+            URI::encode_www_form_component(title.gsub(/(["\\])/, '\\\\\1')) # escape Solr meta-characters
           %>"><%= title %></a></dd>
       </dl>
     <% end %>
