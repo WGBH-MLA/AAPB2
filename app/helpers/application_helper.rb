@@ -39,8 +39,14 @@ module ApplicationHelper
       if query.count('"') % 2 == 0
           quotes = extract_quoted_phrases(query)
           
+          quotes = quotes.map do |phrase|
+
           # Remove quotes from query
-          quotes.each {|q| query.remove!(q.first)}
+            query.remove!(phrase.first)
+
+            # clean each phrase and split to arrary
+            strip_punctuation(phrase.first).split(' ')
+          end
 
           # Remove punctuation from unquoted bits
           unquotes = strip_punctuation(query).split(" ").map(&:strip)
