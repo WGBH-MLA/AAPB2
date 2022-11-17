@@ -13,7 +13,7 @@ In this sound clip, Angela Davis addresses a crowd at a Black Panther rally held
 
 <b>Black Panther rally: Oakland</b>
 <b>KPFA - Pacifica Radio | November 12, 1969 </b>
-<i>This video clip and associated transcript appear from 02:50 - 08:04 in the full record.</i>
+<i>This audio clip and associated transcript appear from 02:50 - 08:04 in the full record.</i>
 
 ## Teachingtips
 
