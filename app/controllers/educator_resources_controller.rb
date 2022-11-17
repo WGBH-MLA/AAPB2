@@ -20,6 +20,7 @@ class EducatorResourcesController < OverrideController
 
     if @educator_resource.guid
       @response, @document = fetch_from_solr(@educator_resource.guid)
+      redirect_to '/' and return unless @document
       @pbcore = PBCorePresenter.new(@document['xml'])
 
       @captions = CaptionFile.retrieve_captions(@pbcore.id)

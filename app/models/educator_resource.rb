@@ -108,7 +108,7 @@ class EducatorResource < Cmless
 
   def you_may_also_like
     @you_may_also_like ||= begin
-      Nokogiri::HTML(@youmayalsolike_html).xpath('//li').map {|li| aapb_content_item_block(li.text)  }
+      Nokogiri::HTML(@youmayalsolike_html).xpath('//li').map {|li| aapb_content_item_block(li.text)  }.compact
     end 
 
   end
@@ -125,6 +125,7 @@ class EducatorResource < Cmless
       @solr = Solr.instance.connect
       data = @solr.get('select', params: { q: "id:#{ identifier }", fl: 'xml' })
       xml = data['response']['docs'][0]['xml'] if data['response']['numFound'] > 0
+      return unless xml
       item = PBCorePresenter.new(xml)
       { path: "/catalog/#{ item.id }", thumbnail_url: item.img_src, title: item.title  }
     end

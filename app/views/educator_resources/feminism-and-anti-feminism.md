@@ -70,8 +70,7 @@ How did the rise of women’s liberation and women’s rights movements in the 1
 - [**Women's Liberation Movement Print Culture**](https://repository.duke.edu/dc/wlmpc), Duke University Libraries
 
 ## Youmayalsolike
-
-- <b>Woman Series</b> [American Archive of Public Broadcasting](https://americanarchive.org/special_collections/woman-series)
+- special_collection,woman-series
 
 ## Citation
 
