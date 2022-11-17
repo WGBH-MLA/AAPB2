@@ -64,10 +64,10 @@ How did the rise of women’s liberation and women’s rights movements in the 1
 
 ## Additionalresources
 
-- <b>The Battle to Ratify the Equal Rights Amendment (ERA)</b> [PBS Learning Media](https://mass.pbslearningmedia.org/resource/ilgbh20-soc-ush-eraratify/the-battle-to-ratify-the-equal-rights-amendment/us-history-collection/)
-- <b>Women's Rights: Primary Sources and Teaching Activities</b> [DOCSTeach, U.S. National Archives](https://www.docsteach.org/topics/women)
-- <b>Feminism: The Second Wave</b> [National Women's History Museum](https://www.womenshistory.org/exhibits/feminism-second-wave)
-- <b>Women's Liberation Movement Print Culture</b> [Duke University Libraries](https://repository.duke.edu/dc/wlmpc)
+- [**The Battle to Ratify the Equal Rights Amendment (ERA)**](https://mass.pbslearningmedia.org/resource/ilgbh20-soc-ush-eraratify/the-battle-to-ratify-the-equal-rights-amendment/us-history-collection/), PBS Learning Media
+- [**Women's Rights: Primary Sources and Teaching Activities**](https://www.docsteach.org/topics/women), DOCSTeach, U.S. National Archives
+- [**Feminism: The Second Wave**](https://www.womenshistory.org/exhibits/feminism-second-wave), National Women's History Museum
+- [**Women's Liberation Movement Print Culture**](https://repository.duke.edu/dc/wlmpc), Duke University Libraries
 
 ## Youmayalsolike
 
