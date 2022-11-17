@@ -39,7 +39,7 @@ $(function() {
     var playerWidth = player.width();
 
 
-    if(!$divPlayer.hasClass('educator-resource-player')){
+    if(!$divPlayer.hasClass('primary-source-set-player')){
       // ^ hack to exclude grid shift for educator resources player ts viewer show/hide
 
       if ($divPlayer.hasClass('col-md-8') && $divPlayer.hasClass('player')) {

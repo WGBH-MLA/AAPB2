@@ -6,20 +6,20 @@ class PrimarySourceSetsController < OverrideController
 
   def index
     @all_resource_sets = PrimarySourceSet.all_resource_sets
-    @page_title = 'Educator Resources'
+    @page_title = 'Multimedia Primary Source Discussion Sets'
   end
 
   def show
-    @educator_resource = PrimarySourceSet.find_by_path(params[:path])
+    @primary_source_set = PrimarySourceSet.find_by_path(params[:path])
     # TODO put back
-    # @other_sets = PrimarySourceSet.all_resource_sets.reject {|set| set.path == @educator_resource.path }
+    # @other_sets = PrimarySourceSet.all_resource_sets.reject {|set| set.path == @primary_source_set.path }
     @other_sets = PrimarySourceSet.all_resource_sets
 
-    raise ActionController::RoutingError.new('Not Found') unless @educator_resource
-    @page_title = @educator_resource.title
+    raise ActionController::RoutingError.new('Not Found') unless @primary_source_set
+    @page_title = @primary_source_set.title
 
-    if @educator_resource.guid
-      @response, @document = fetch_from_solr(@educator_resource.guid)
+    if @primary_source_set.guid
+      @response, @document = fetch_from_solr(@primary_source_set.guid)
       redirect_to '/' and return unless @document
       @pbcore = PBCorePresenter.new(@document['xml'])
 

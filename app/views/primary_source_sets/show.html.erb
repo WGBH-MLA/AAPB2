@@ -9,7 +9,7 @@
   <%= javascript_include_tag 'player' %>
 <% end %>
 
-<div class="educator-resource-header">
+<div class="primary-source-header">
   <h1><%= @page_title %></h1>
 </div>
 
@@ -122,22 +122,23 @@
           </div>
         </div>
 
-        <div class="row" >
+        <% if @primary_source_set.citation_html.length > 0 %>
+          <div class="row" >
 
-          <!-- resource links -->
-          <div class="col-md-12 primary-source-section">
+            <div class="col-md-12 primary-source-section">
 
-            <h3 class="primary-source-title">Citation</h3>
-            <div>
+              <h3 class="primary-source-title">Citation</h3>
+              <div>
 
-            <div class="primary-source-content">
-              <%= @primary_source_set.citation_html %>
-            </div>
-            
+              <div class="primary-source-content">
+                <%= @primary_source_set.citation_html %>
+              </div>
+              
+              </div>
             </div>
           </div>
-        </div>
-
+        <% end %>
+        
         <div class="row">
 
           <div class="col-md-12 primary-source-container primary-source-section gray-bg">
@@ -291,23 +292,26 @@
           <hr/>
         <% end %>
 
-        <div class="row" >
+        <% if @primary_source_set.citation_html.length > 0 %>
 
-          <!-- resource links -->
-          <div class="col-md-12 primary-source-section">
+          <div class="row" >
 
-            <h3 class="primary-source-title">Citation</h3>
-            <div>
+            <!-- resource links -->
+            <div class="col-md-12 primary-source-section">
 
-            <div class="primary-source-content">
-              <%= @primary_source_set.citation_html %>
-            </div>
-            
+              <h3 class="primary-source-title">Citation</h3>
+              <div>
+
+              <div class="primary-source-content">
+                <%= @primary_source_set.citation_html %>
+              </div>
+              
+              </div>
             </div>
           </div>
-        </div>
 
-        <hr/>
+          <hr/>
+        <% end %>
 
         <div class="row">
 
