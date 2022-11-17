@@ -91,11 +91,11 @@ What do the voices of Black Power activists contribute to our understanding abou
 
 ## Additionalresources
 
-- <b>SNCC Digital Gateway</b> [SNCC Legacy Project and Duke University](https://snccdigital.org/)
-- <b>Black Panther Party Community News Service</b> [The Freedom Archives](https://search.freedomarchives.org/search.php?view_collection=90)
-- <b>Curriculum</b> [The Freedom Archives](https://freedomarchives.org/projects/curriculum/)
-- <b>The Black Panther Party  Ten-Point Program</b> [BlackPast](https://www.blackpast.org/african-american-history/primary-documents-african-american-history/black-panther-party-ten-point-program-1966/)
-- <b>Black Culture Connection</b> [PBS](https://www.pbs.org/articles/topic/black-culture-connection)
+- [**SNCC Digital Gateway**](https://snccdigital.org/), SNCC Legacy Project and Duke University
+- [**Black Panther Party Community News Service**](https://search.freedomarchives.org/search.php?view_collection=90), The Freedom Archives
+- [**Curriculum**](https://freedomarchives.org/projects/curriculum/), The Freedom Archives
+- [**The Black Panther Party Ten-Point Program**](https://www.blackpast.org/african-american-history/primary-documents-african-american-history/black-panther-party-ten-point-program-1966/), BlackPast
+- [**Black Culture Connection**](https://www.pbs.org/articles/topic/black-culture-connection), PBS
 
 
 ## Youmayalsolike
