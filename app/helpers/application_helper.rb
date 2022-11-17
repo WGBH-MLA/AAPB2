@@ -11,12 +11,12 @@ module ApplicationHelper
   end
 
   def get_stopwords()
-      stopwords = Rails.cache.fetch("stopwords") do
+    stopwords = Rails.cache.fetch("stopwords") do
       sw = File.readlines(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt'), chomp: true).map(&:upcase)
       sw.reject do |word|
         word =~ /^#/ || word.empty?
-          end
       end
+    end
   end
 
   def remove_stopwords(terms_array)
@@ -41,7 +41,7 @@ module ApplicationHelper
           
           quotes = quotes.map do |phrase|
 
-          # Remove quotes from query
+            # Remove quotes from query
             query.remove!(phrase.first)
 
             # clean each phrase and split to arrary
@@ -49,18 +49,18 @@ module ApplicationHelper
           end
 
           # Remove punctuation from unquoted bits
-          unquotes = strip_punctuation(query).split(" ").map(&:strip)
+          unquotes = strip_punctuation(query).split(' ').map {|term| [term.strip]}
 
-          # Remove any unquoted stopwords 
+          # Remove any unquoted stopwords
           unquotes = remove_stopwords(unquotes)
 
           # return combined quotes and unquotes
           terms_array = quotes + unquotes
+
       else
         # query has no quotes
-        unquotes = strip_punctuation(query).split(' ').map(&:strip)
+        unquotes = strip_punctuation(query).split(' ').map {|term| [term.strip]}
         terms_array = [unquotes - get_stopwords]
-        # require 'pry'; binding.pry
       end
   end
 
