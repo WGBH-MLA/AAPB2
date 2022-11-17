@@ -1,19 +1,19 @@
 
-class EducatorResourcesController < OverrideController
+class PrimarySourceSetsController < OverrideController
   include Blacklight::Catalog
   include ApplicationHelper
   include BlacklightGUIDFetcher
 
   def index
-    @all_resource_sets = EducatorResource.all_resource_sets
+    @all_resource_sets = PrimarySourceSet.all_resource_sets
     @page_title = 'Educator Resources'
   end
 
   def show
-    @educator_resource = EducatorResource.find_by_path(params[:path])
+    @educator_resource = PrimarySourceSet.find_by_path(params[:path])
     # TODO put back
-    # @other_sets = EducatorResource.all_resource_sets.reject {|set| set.path == @educator_resource.path }
-    @other_sets = EducatorResource.all_resource_sets
+    # @other_sets = PrimarySourceSet.all_resource_sets.reject {|set| set.path == @educator_resource.path }
+    @other_sets = PrimarySourceSet.all_resource_sets
 
     raise ActionController::RoutingError.new('Not Found') unless @educator_resource
     @page_title = @educator_resource.title
