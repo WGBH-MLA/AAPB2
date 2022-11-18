@@ -11,7 +11,7 @@ module ApplicationHelper
   end
 
   def get_stopwords()
-    stopwords = Rails.cache.fetch("stopwords") do
+    stopwords = Rails.cache.fetch('stopwords') do
       sw = File.readlines(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt'), chomp: true).map(&:upcase)
       sw.reject do |word|
         word =~ /^#/ || word.empty?
@@ -20,48 +20,47 @@ module ApplicationHelper
   end
 
   def remove_stopwords(terms_array)
-      terms_array - get_stopwords
+    terms_array - get_stopwords
   end
 
   def extract_quoted_phrases(query)
-      query.scan(/"([^"]*)"/)
+    query.scan(/"([^"]*)"/)
   end
 
   def strip_punctuation(query)
-      query.gsub(/[[:punct:]]/, '')
+    query.gsub(/[[:punct:]]/, '')
   end
 
   def query_to_terms_array(query)
-      return [] if !query || query.empty?
-      query = query.upcase
+    return [] if !query || query.empty?
+    query = query.upcase
 
-      # if there are an even number of double quotes
-      if query.count('"') % 2 == 0
-          quotes = extract_quoted_phrases(query)
-          
-          quotes = quotes.map do |phrase|
+    # if there are an even number of double quotes
+    if query.count('"') % 2 == 0
+      quotes = extract_quoted_phrases(query)
 
-            # Remove quotes from query
-            query.remove!(phrase.first)
+      quotes = quotes.map do |phrase|
 
-            # clean each phrase and split to arrary
-            strip_punctuation(phrase.first).split(' ')
-          end
+        # Remove quotes from query
+        query.remove!(phrase.first)
 
-          # Remove punctuation from unquoted bits
-          unquotes = strip_punctuation(query).split(' ').map {|term| [term.strip]}
-
-          # Remove any unquoted stopwords
-          unquotes = remove_stopwords(unquotes)
-
-          # return combined quotes and unquotes
-          terms_array = quotes + unquotes
-
-      else
-        # query has no quotes
-        unquotes = strip_punctuation(query).split(' ').map {|term| [term.strip]}
-        terms_array = [unquotes - get_stopwords]
+        # clean each phrase and split to arrary
+        strip_punctuation(phrase.first).split(' ')
       end
+
+      # Remove punctuation from unquoted bits
+      unquotes = strip_punctuation(query).split(' ').map { |term| [term.strip] }
+
+      # Remove any unquoted stopwords
+      unquotes = remove_stopwords(unquotes)
+
+      # return combined quotes and unquotes
+      terms_array = quotes + unquotes
+    else
+      # query has no quotes
+      unquotes = strip_punctuation(query).split(' ').map { |term| [term.strip] }
+      terms_array = [unquotes - get_stopwords]
+    end
   end
 
   def get_last_day(month)
@@ -78,15 +77,13 @@ module ApplicationHelper
     # type => before, after, index
     # 0000-00-00
     if /\A\d{4}\-\d{1,2}\-\d{1,2}\z/ =~ date_val
-
       year, month, day = date_val.scan(/\A(\d{4})\-(\d{1,2})\-(\d{1,2})\z/).flatten
 
-    # 0000-00
+      # 0000-00
     elsif /\A\d{4}\-\d{1,2}\z/ =~ date_val
-
       year, month = date_val.scan(/\A(\d{4})\-(\d{1,2})\z/).flatten
 
-    # 0000
+      # 0000
     elsif /\A\d{4}\z/ =~ date_val
       date_was_reset = true
       year = date_val
