@@ -20,10 +20,10 @@ class QueryToTermsArray
       end
 
       # Remove punctuation from unquoted bits
-      unquotes = strip_punctuation(query).split(' ').map { |term| [term.strip] }
+      unquotes = strip_punctuation(query).split(' ')
 
       # Remove any unquoted stopwords
-      unquotes = remove_stopwords(unquotes)
+      unquotes = remove_stopwords(unquotes).map { |term| [term.strip] }
 
       # return combined quotes and unquotes
       @terms_array = quotes + unquotes
@@ -54,7 +54,7 @@ class QueryToTermsArray
   end
 
   def strip_punctuation(query)
-    query.gsub(/[[:punct:]]/, '')
+    query.gsub(/[^\w\s]/, '')
   end
 end
 
