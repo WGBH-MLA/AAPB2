@@ -119,7 +119,7 @@ class PrimarySourceSet < Cmless
 
     if type == "exhibit" || type == "special_collection"
       item = type == "exhibit" ? Exhibit.find_by_path(identifier) : SpecialCollection.find_by_path(identifier)
-      { path: item.path, thumbnail_url: item.thumbnail_url, title: item.title  }
+      { path: item.full_path, thumbnail_url: item.thumbnail_url, title: item.title  }
     elsif type == "record"
 
       @solr = Solr.instance.connect
