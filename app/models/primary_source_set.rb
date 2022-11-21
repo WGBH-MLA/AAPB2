@@ -56,7 +56,7 @@ class PrimarySourceSet < Cmless
   end
   
   def cover_img
-    Nokogiri::HTML(cover_html).css('img').first.to_s.html_safe
+    Nokogiri::HTML(cover_html).text
   end
 
   def thumbnail_url

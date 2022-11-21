@@ -5,7 +5,7 @@
 ![Activist Phyllis Schafly wearing a "Stop ERA" badge, demonstrating with other women against the Equal Rights Amendment in front of the White House, Washington, D.C., https://www.loc.gov/resource/ds.00757/](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Feminism.jpg "Activist Phyllis Schafly wearing a 'Stop ERA' badge, demonstrating with other women against the Equal Rights Amendment in front of the White House, Washington, D.C.")
 
 ## Cover
-  <img class="educator-resource-cover" src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Feminism.jpg"/>
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Feminism.jpg
 
 ## Author
 

@@ -40,6 +40,44 @@ div.primary-source-breadcrumb-container {
   margin-bottom: 1em;
 }
 
+
+.primary-source-thumbnail {
+  border: none;
+  a {
+    color: #000;
+    display: table-cell;
+    vertical-align: middle;
+    height: 346px;
+    max-width: 346px;
+
+    img {
+      margin: 0 auto;
+      height: 346px;
+      max-width: 346px;
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+  }
+
+  div.exhibit-index-title-container{
+    position: relative;
+  }
+
+  h2 {
+    position: absolute;
+    /*top: 261px;*/
+    bottom: 0;
+    width: 346px;
+    height: 102px;
+    font-size: 32px;
+    text-align: center;
+    display: table;
+    margin: 0;
+    padding: 3px;
+  }
+}
+
 img.primary-source-cover {
   margin: 0;
   max-height: 20em;

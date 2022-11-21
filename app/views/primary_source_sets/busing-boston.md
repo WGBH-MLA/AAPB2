@@ -5,7 +5,7 @@
 ![Screenshot from https://americanarchive.org/catalog/cpb-aacip_15-92n4zh7k.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Boston-Busing.jpg "Screenshot from https://americanarchive.org/catalog/cpb-aacip_15-92n4zh7k.")
 
 ## Cover
-  <img class="educator-resource-cover" src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Boston-Busing.jpg"/>
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Boston-Busing.jpg
 
 ## Author
 
