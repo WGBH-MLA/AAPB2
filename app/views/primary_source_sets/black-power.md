@@ -5,7 +5,7 @@
 ![All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Black-Power.jpg "All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130")
 
 ## Cover
-  <img class="educator-resource-cover" src="https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Black-Power.jpg"/>
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Black-Power.jpg
 
 ## Author
 
