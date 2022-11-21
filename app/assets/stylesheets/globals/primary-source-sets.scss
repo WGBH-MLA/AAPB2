@@ -40,7 +40,6 @@ div.primary-source-breadcrumb-container {
   margin-bottom: 1em;
 }
 
-
 .primary-source-thumbnail {
   border: none;
   a {
@@ -174,7 +173,6 @@ div#primary-source-introduction.show-less {
 
 div.primary-source-source {
   width: 25%;
-
   overflow: hidden;
 }
 
@@ -182,9 +180,15 @@ div.primary-source-source a:hover, div.primary-source-source a:link, div.primary
   text-decoration: none;
 }
 
+div.primary-source-source a {
+  display: inline-block;
+  min-height: 18em;
+}
+
 div.primary-source-source img {
-  max-height: 10em;
+  margin: 0;
   object-fit: cover;
+  width:  100%;
 }
 
 .primary-source-additional-resources li {
