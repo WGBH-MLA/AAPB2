@@ -78,9 +78,13 @@ describe SnippetHelper do
   end
 
   describe 'query to terms array' do
-    # it 'removes punctuation from and capitalizes the user query' do
-    #   expect(clean_query_for_snippet(query_with_punctuation)).to eq(test_array)
-    # end
+    it 'removes punctuation from unquoted strings and capitalizes the user query' do
+      expect(QueryToTermsArray.new(%(`show, ^me % the ? "ice cream" $@*)).terms_array).to eq([%w(ICE CREAM), ["SHOW"], ["ME"]])
+    end
+
+    it 'leaves punctuation in quoted strings' do
+      expect(QueryToTermsArray.new(%(the lost year "1958-59")).terms_array).to eq([["1958-59"], ["LOST"], ["YEAR"]])
+    end
 
     it 'uses stopwords.txt to remove words not used in actual search' do
       expect(QueryToTermsArray.new(%(extremist is cheddar "president of the Eisenhower")).terms_array).to eq([%w(PRESIDENT OF THE EISENHOWER), ["EXTREMIST"], ["CHEDDAR"]])

@@ -14,8 +14,8 @@ class QueryToTermsArray
         # Remove quotes from query
         query.remove!(phrase.first)
 
-        # clean each phrase and split to arrary
-        strip_punctuation(phrase.first).split(' ')
+        # split each phrase to word arrary
+        phrase.first.split(' ')
       end
 
       # Remove punctuation from unquoted bits
@@ -56,6 +56,3 @@ class QueryToTermsArray
     query.gsub(/[^\w\s]/, '')
   end
 end
-
-# And can be used in controllers like this...
-# terms_array = QueryToTermsArray.new(query).term_array
