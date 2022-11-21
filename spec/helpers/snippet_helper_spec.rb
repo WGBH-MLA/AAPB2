@@ -83,7 +83,7 @@ describe SnippetHelper do
     # end
 
     it 'uses stopwords.txt to remove words not used in actual search' do
-      expect(QueryToTermsArray.new((%(extremist is cheddar "president of the Eisenhower"))).terms_array).to eq([%w(PRESIDENT OF THE EISENHOWER), ["EXTREMIST"], ["CHEDDAR"]])
+      expect(QueryToTermsArray.new(%(extremist is cheddar "president of the Eisenhower")).terms_array).to eq([%w(PRESIDENT OF THE EISENHOWER), ["EXTREMIST"], ["CHEDDAR"]])
     end
   end
 

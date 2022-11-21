@@ -7,11 +7,10 @@ class QueryToTermsArray
     query = query.upcase
 
     # if there are an even number of double quotes
-    if query.count('"') % 2 == 0
+    if query.count('"').even?
       quotes = extract_quoted_phrases(query)
 
       quotes = quotes.map do |phrase|
-
         # Remove quotes from query
         query.remove!(phrase.first)
 
