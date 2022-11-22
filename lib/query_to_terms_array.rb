@@ -1,4 +1,19 @@
+# Build an array of terms from a search query
+#
+# Capitalize all terms
+# Extract quoted phrases
+# Strip punctuation from unquoted phrases
+# Remove stopwords
+#
+#
+# @example
+# the french chef with Julia Child -> [["FRENCH"], ["CHEF"], ["JULIA"], ["CHILD"]]
+# "the french chef" with Julia Child -> [["THE", "FRENCH", "CHEF"], ["JULIA"], ["CHILD"]]
+
 class QueryToTermsArray
+  # @param [String] query The search query
+  #
+  # @return [Array<terms_array>] Returns an array of phrases, where each phrase is an array of terms in that phrase.
   attr_reader :query, :terms_array
 
   def initialize(query)
@@ -38,6 +53,8 @@ class QueryToTermsArray
 
   private
 
+  # Get cached list of stopwords from stopwords.txt
+  # @return [Array<String>] Returns array of stopwords
   def stopwords
     Rails.cache.fetch('stopwords') do
       sw = File.readlines(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt'), chomp: true).map(&:upcase)
@@ -47,14 +64,21 @@ class QueryToTermsArray
     end
   end
 
+  # Given an array of words, return the array without any stopwords
+  # @param [Array<String>] terms_array A word array from the query
   def remove_stopwords(terms_array)
     terms_array - stopwords
   end
 
+  # Given a query string, return an array of quoted phrases in that string
+  # @param [String] query The search query
   def extract_quoted_phrases(query)
+    # Match any double quote followed by 0 or more non double quote characters, followed by a double quote.
+    # This matches multiple sets of quoted phrases
     query.scan(/"([^"]*)"/)
   end
 
+  # Given a query string, return the string without punctuation
   def strip_punctuation(query)
     # Removes any non alphanumeric or space character
     query.gsub(/[^[:alpha:] ]/, '')
