@@ -79,7 +79,7 @@ describe SnippetHelper do
 
   describe 'query to terms array' do
     it 'removes punctuation from unquoted strings and capitalizes the user query' do
-      expect(QueryToTermsArray.new(%(`show, ^me % the ? "ice cream" $@*)).terms_array).to eq([%w(ICE CREAM), ["SHOW"], ["ME"]])
+      expect(QueryToTermsArray.new(%(`show_, ^me %+/- the ?   "ice cream" $@*)).terms_array).to eq([%w(ICE CREAM), ["SHOW"], ["ME"]])
     end
 
     it 'leaves punctuation in quoted strings' do
@@ -88,6 +88,14 @@ describe SnippetHelper do
 
     it 'uses stopwords.txt to remove words not used in actual search' do
       expect(QueryToTermsArray.new(%(extremist is cheddar "president of the Eisenhower")).terms_array).to eq([%w(PRESIDENT OF THE EISENHOWER), ["EXTREMIST"], ["CHEDDAR"]])
+    end
+
+    it 'matches multiple sets of double quoted phrases' do
+      expect(QueryToTermsArray.new(%("the french chef" with "Julia Child")).terms_array).to eq([%w(THE FRENCH CHEF), %w(JULIA CHILD)])
+    end
+
+    it 'strips all quotes if there are an odd number of quotation marks' do
+      expect(QueryToTermsArray.new(%("broken quotation" marks")).terms_array).to eq([["BROKEN"], ["QUOTATION"], ["MARKS"]])
     end
   end
 
