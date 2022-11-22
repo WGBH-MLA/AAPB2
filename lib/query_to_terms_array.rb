@@ -10,7 +10,7 @@ class QueryToTermsArray
     if query.count('"').even?
       quotes = extract_quoted_phrases(query)
 
-      quotes = quotes.map do |phrase|
+      quotes.map! do |phrase|
         # Remove quotes from query
         query.remove!(phrase.first)
 
@@ -21,15 +21,18 @@ class QueryToTermsArray
       # Remove punctuation from unquoted bits
       unquotes = strip_punctuation(query).split(' ')
 
-      # Remove any unquoted stopwords
-      unquotes = remove_stopwords(unquotes).map { |term| [term.strip] }
+      # Remove any unquoted stopwords and convert to term array
+      unquotes = remove_stopwords(unquotes).map { |term| [term] }
 
       # return combined quotes and unquotes
       @terms_array = quotes + unquotes
     else
-      # query has no quotes
-      unquotes = strip_punctuation(query).split(' ').map { |term| [term.strip] }
-      @terms_array = [unquotes - stopwords]
+      # query has no quotes. Clean and split
+      unquotes = strip_punctuation(query).split(' ')
+
+      # Remove stopwords and convert to term array
+      unquotes = remove_stopwords(unquotes).map { |term| [term] }
+      @terms_array = unquotes
     end
   end
 
@@ -53,6 +56,7 @@ class QueryToTermsArray
   end
 
   def strip_punctuation(query)
-    query.gsub(/[^\w\s]/, '')
+    # Removes any non alphanumeric or space character
+    query.gsub(/[^[:alpha:] ]/, '')
   end
 end
