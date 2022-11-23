@@ -139,9 +139,14 @@ div.primary-source-content h4 {
   color: #A92F33;
 }
 
-div.primary-source-clip-details {
+div#primary-source-clip-details {
   padding-left: 15px;
   margin-top: 2em;
+  width: 100%;
+}
+
+div#clip-details-wide-container {
+
 }
 
 div.primary-source-section a.pdf-icon, div.primary-source-section a.pdf-icon:link, div.primary-source-section a.pdf-icon:active,  div.primary-source-section a.pdf-icon:visited {
@@ -231,5 +236,9 @@ div.primary-source-skipbutton-container {
 
 div.transcript-view-show.primary-source-transcript {
   margin-bottom: 12em;
+}
+
+div.primary-source-index-title {
+  min-height: 4em;
 }
 

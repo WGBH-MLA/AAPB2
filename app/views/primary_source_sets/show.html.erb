@@ -182,7 +182,7 @@
         </div>
 
         <div class="row">
-          <div class="col-sm-12 col-md-8 col-md-offset-2 player primary-source-player">
+          <div class="col-md-6 player primary-source-set-player">
             <span style="display: none;" id="clip-start"><%= @primary_source_set.clip_start %></span>
             <span style="display: none;" id="clip-end"><%= @primary_source_set.clip_end %></span>
             <section class="videocontent">
@@ -214,9 +214,12 @@
 
           </div>
 
-          <div class="hidden-sm hidden-xs">
+
+          <div class="col-md-6">
+
+
             <% if @pbcore.transcript_html %>
-              <div class="col-md-4 primary-source-transcript-header transcript-panel-heading">
+              <div class="col-md-12 primary-source-transcript-header transcript-panel-heading">
                 <dt class="dt-left">Transcript</dt>
                 <div class="input-group input-group-sm transcript-search show-transcript-search" role="search">
                     <input type="search" id="transcript-search-input" placeholder="Search..." value="<%= @transcript_search_term %>">
@@ -231,7 +234,7 @@
 
               <div id="transcript-state" style="display: none;" class="hidden initial closed"></div>
 
-              <div class="col-sm-4 col-md-4 col-lg-4 transcript-div transcript-view-show primary-source-transcript">
+              <div class="col-sm-12 col-md-12 col-lg-12 transcript-div transcript-view-show primary-source-transcript">
 
                 <dl class="panel transcript-panel">
 
@@ -254,23 +257,25 @@
                   </div>
                 </div>
               </div>
-
-              
             <% end %>
 
-          </div>
-          <div class="primary-source-clip-details">
+            <div id="primary-source-clip-details">
 
-            <h3 class="primary-source-title primary-source-clip-title"><%= @primary_source_set.title %></h3>
-            <div class="primary-source-content">
-              <%= @primary_source_set.introduction_html %>
+              <h3 class="primary-source-title primary-source-clip-title"><%= @primary_source_set.title %></h3>
+              <div class="primary-source-content">
+                <%= @primary_source_set.introduction_html %>
 
-              <a class="primary-source-fullrecord" href="/catalog/<%= @primary_source_set.guid %>">
-                View Full Record
-              </a>
+                <a class="primary-source-fullrecord" href="/catalog/<%= @primary_source_set.guid %>">
+                  View Full Record
+                </a>
+              </div>
             </div>
+
           </div>
+
         </div>
+
+        <div class="row" id="clip-details-wide"></div>
 
 
         <% if @primary_source_set.teachingtips_html.length > 0 %>

@@ -16,11 +16,7 @@ $(function() {
   }
 
   function updateTranscriptGrid() {
-    if ($divTranscript.hasClass('col-md-2')) {
-      $divTranscript.addClass('col-md-6').removeClass('col-md-2');
-    } else if ($divTranscript.hasClass('col-md-6'))  {
-      $divTranscript.addClass('col-md-2').removeClass('col-md-6');
-    }
+    
     showTranscript();
   }
   function showTranscript() {
