@@ -46,8 +46,8 @@ class QueryToTermsArray
       unquotes = strip_punctuation(query).split
 
       # Remove stopwords and convert to term array
-      @terms_array  = remove_stopwords(unquotes).map { |term| [term] }
-      
+      @terms_array = remove_stopwords(unquotes).map { |term| [term] }
+
     end
   end
 
@@ -58,7 +58,7 @@ class QueryToTermsArray
   def stopwords
     Rails.cache.fetch('stopwords') do
       sw = File.readlines(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt'), chomp: true).map(&:upcase)
-      
+
       # Remove comments and empty lines
       sw.reject do |word|
         word =~ /^#/ || word.empty?
