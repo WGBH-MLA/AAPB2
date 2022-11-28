@@ -1,93 +1,106 @@
-# Busing in Boston, 1974-1988
+# The Great Depression and Southern Sharecroppers
 
 ## Thumbnail
 
-![Screenshot from https://americanarchive.org/catalog/cpb-aacip_15-92n4zh7k.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Boston-Busing.jpg "Screenshot from https://americanarchive.org/catalog/cpb-aacip_15-92n4zh7k.")
+![Parkin (vicinity), Arkansas. The families of evicted sharecroppers of the Dibble plantation. They were legally evicted the week of January 12, 1936, the plantation having charged that by membership in the Southern Tenant Farmers' Union they were engaging in a conspiracy to retain their homes; this contention granted by the court, the eviction, though at the point of a gun, was quite legal. The pictures were taken just after the evictions before they were moved into the tent colony they later enjoyed. Courtesy Library of Congress, https://www.loc.gov/pictures/item/2017765186/.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Great-Depression.jpg "Parkin (vicinity), Arkansas. The families of evicted sharecroppers of the Dibble plantation. They were legally evicted the week of January 12, 1936, the plantation having charged that by membership in the Southern Tenant Farmers' Union they were engaging in a conspiracy to retain their homes; this contention granted by the court, the eviction, though at the point of a gun, was quite legal. The pictures were taken just after the evictions before they were moved into the tent colony they later enjoyed. Courtesy Library of Congress, https://www.loc.gov/pictures/item/2017765186/.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Boston-Busing.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Great-Depression.jpg
 
 ## Author
 
-Joel Breakstone, Stanford History Education Group
+Sue Wilkins, WGBH Educational Foundatiion
 
 ## Subjects
 
-- Conservative Resurgence and Social Change, 1964–2000: Counterculture and Social Activism
-- Conservative Resurgence and Social Change, 1964–2000: Conservative Social Trends
+- The Great Depression and New Deal, 1929-1939: Life During the Depression
+- The Great Depression and New Deal, 1929-1939: Responses to the Great Depression
 
 ## Introduction
 
-By the 1960s, various federal and local government policies had led to deep segregation in Boston’s neighborhoods and schools. Civil rights activists sought to address the issue. In 1965, the Massachusetts state legislature passed the Racial Imbalance Act, which outlawed segregated schools. Despite this legislation, the Boston School Committee refused to integrate schools in Boston. In response, the NAACP sued to compel action. In 1974, U.S. District Court Judge W. Arthur Garrity Jr. ruled that the city of Boston must bus students between neighborhoods in order to integrate its schools. The ruling provoked intense opposition from white residents. There were widespread protests and frequent outbursts of violence. On the first day of school in 1974, white protesters attacked buses carrying Black students despite a police escort. Additional police and the Massachusetts National Guard were called in to quell the violence. Violent outbursts continued for the next several years. The turmoil attracted national attention and became known as the Boston busing crisis. The busing system mandated by Judge Garrity never resulted in fully integrated schools. 
+The Great Depression was an unprecedented economic crisis that affected almost every American across the nation. In the South, farmers, tenant farmers, and sharecroppers, already facing economic hardship due to wartime overproduction and lower post-World War I demand, faced especially tough economic conditions. Black agricultural workers suffered severely during the Depression as the majority were tied to the fortunes of cotton and tobacco cash crops. The New Deal’s Agricultural Adjustment Act, designed to raise agricultural prices by paying farmers to destroy crops and reduce supply, resulted in further hardships for tenant farmers and, especially, Black sharecroppers, when land they worked on was taken out of production and their landlords did not share government payments with them. In 1934, tenant farmers and sharecroppers responded by forming the Southern Tenant Farmers’ Union (STFU), the first interracial farmers’ union. The STFU, committed to nonviolent reform despite violent reprisals, established a model for future civil rights organization and activism.
+<br><br>
+This resource set is composed of twelve short video clips from interviews conducted for the 1993 documentary The Great Depression. Together, they provide students with first-hand accounts of the Great Depression, the unique challenges southern tenant farmers and sharecroppers faced, the inadequate relief provided by the Agricultural Adjustment Act, and the resulting formation of the Southern Tenant Farmers’ Union.
+
 
 ## Teachingtips
 
-The videos included in this collection detail violent reactions to busing in Boston and provide differing perspectives on causes of the crisis. The sources suggest a range of possible factors contributed to the crisis, including federal intervention, racism, and politics. Students must consider the videos’ sources and the context in which they were created to understand the causes of the crisis. 
+The sources in this set are composed of original interviews for a documentary titled *The Great Depression* (1993). All of the interviewees lived during the Great Depression and New Deal; some were sharecroppers or children of sharecroppers, some were bankers, some were landowning farmers, and some were children of parents who helped to organize the Southern Tenant Farmers’ Union. Their firsthand accounts allow students to go beyond textbook narratives to more fully understand this period in U.S. history as well as the unique experiences of southern sharecroppers and tenant farmers. 
 
 #### Background Information -
 
-Before engaging with this resource set, students should be familiar with the following: 
-- The African American Civil Rights Movement
-- The Brown v. Board of Education Supreme Court decision and subsequent efforts to desegregate schools
-- How redlining policies contributed to segregated neighborhoods 
+Before engaging with this resource set, students should be familiar with the following:
+- The Jim Crow South and the economic, social, and political restrictions imposed on Black southerners
+- The cash crop system and the South’s economic reliance on cotton and tobacco
+(Prices for cotton, still the mainstay of the southern economy, plunged from 18 cents a pound in 1929 to six cents in 1933. Black sharecroppers and tenant farmers were reduced to starvation or thrown off the land.)
+- Major causes and effects of the Great Depression
+- The New Deal and its variety of relief, recovery, and reform programs
+- The general purpose of a labor union and how it works to extract concessions from business owners and managers to benefit workers
 
 <hr>
 
 #### Essential Question - 
 
-What caused the Boston busing crisis? 
+What led tenant farmers and sharecroppers to unionize?
 
 <hr>
 
 #### General Discussion Questions -
 
-- Why might the people in the videos suggest different causes of the Boston busing crisis? 
-- How was the Boston busing crisis connected to the Brown v. Board of Education decision?  
-- What were the effects of the Boston busing crisis? Who was impacted? 
-- Why did Boston struggle to desegregate its schools? 
+- What effects did the Great Depression have on southern tenant farmers and sharecroppers?
+- What were the limitations of the Agricultural Adjustment Act in addressing the problems facing southern tenant farmers and sharecroppers?
 
 <hr>
 
 #### Classroom Activities -
 
-##### Ask students to watch the following sources:
+1. Provide students with a general overview of the topic and source set. Prepare students for the fact that they’ll be watching unedited interviews that were later used in a documentary film on the Great Depression.
 
-- [Landsmark Press Conference](https://americanarchive.org/primary_source_sets/busing-boston/6_15-9qr4nq5d) (1976)
-- [Interview with Anti-Busing Activist](https://americanarchive.org/primary_source_sets/busing-boston/7_15-9057cs2x) (1976)
-- [Psychologist Thomas Pettigrew Interview](https://americanarchive.org/primary_source_sets/busing-boston/9_15-9zg6g70c) (1967)
+2. Divide the class into four groups. Ask each group to watch the sources in their assigned topics, as organized below. They should take notes on their topic and prepare to share their findings with the whole class.
 
-According to each speaker, who was responsible for the Boston busing crisis? Why might these sources have such divergent views about who was responsible? Students should note the differing backgrounds of each person and identify ways in which their backgrounds influenced what they said. For example, the anti-busing activist is likely motivated to blame the “liberal establishment” for the busing crisis in order to deflect blame from anti-busing groups. 
+**Group 1: The ways in which southern farmers, tenant farmers, and sharecroppers were uniquely affected by the Great Depression.**
+- [Oscar Fendler Discusses Landlords, Tenant Farmers, and Sharecroppers (1993)](https://americanarchive.org/primary_source_sets/great-depression/1_151-8w3804z53c)
+- [John Twist Discusses Poverty and Hunger (1993)](https://americanarchive.org/primary_source_sets/great-depression/2_151-rv0cv4cj90)
+- [David Groeppinger Discusses Economic Devastation in the South (1992)](https://americanarchive.org/primary_source_sets/great-depression/3_151-5m6251g16w)
+- [Nancy Neal Talks About the Missouri Roadside Demonstration (1993)](https://americanarchive.org/primary_source_sets/great-depression/4_151-3f4kk94t5p)
 
-##### Ask students to watch the following sources: 
+**Group 2: The New Deal and the Agricultural Adjustment Act, its implementation, and its negative impacts on tenant farmers and sharecroppers.**
+- [John Twist Discusses the Agricultural Adjustment Act and Its Consequences (1993)](https://americanarchive.org/primary_source_sets/great-depression/5_151-rv0cv4cj90)
+- [Former Sharecropper George Stith Discusses the Agricultural Adjustment Act (1992)](https://americanarchive.org/primary_source_sets/great-depression/6_151-nk3610wj5c)
+- [Oscar Fendler Discusses Evictions of Tenant Farmers and Sharecroppers (1993)](https://americanarchive.org/primary_source_sets/great-depression/7_151-gq6qz2340h)
 
-- [Boston Mayor Kevin White Addresses Residents of Boston Before Start of Busing](https://americanarchive.org/primary_source_sets/busing-boston/3_15-qj77s7j383) (1974)
-- [Boston Mayor Kevin White Requests Federal Support](https://americanarchive.org/primary_source_sets/busing-boston/2_15-9154dp1w) (1974)
+**Group 3: The reasons for the formation of the Southern Tenant Farmers’ Union.**
+- [George Stith Describes the Start of the Southern Tenant Farmers’ Union (1992)](https://americanarchive.org/primary_source_sets/great-depression/8_151-nk3610wj5c)
+- [Nancy Neal Discusses the Formation of the Southern Tenant Farmers’ Union (1993)](https://americanarchive.org/primary_source_sets/great-depression/9_151-gm81j97z4z)
+- [Nancy Neal Talks About the STFU’s Decision to Be Interracial and Nonviolent (1993)](https://americanarchive.org/primary_source_sets/great-depression/10_151-gm81j97z4z)
 
-How are the two addresses by the mayor similar? How are they different? What happened between the filming of these two sources? (If students are unsure, ask them to watch the source labeled News Report About First Day of Busing.) The first clip was recorded before busing began, and the second was recorded after the violence in response to busing, which prompted Mayor Kevin White to seek federal support to implement the court order. Students should compare and contrast these documents in light of this contextual information.
+**Group 4: The violent resistance to the union and the union’s legacy.**
+- [Miller Williams Discusses a Violent Response to the Union from White Southerners (1993)](https://americanarchive.org/primary_source_sets/great-depression/11_151-bz6154f72d)
+- [Nancy Neal Discusses the STFU as a Model for Change to Come (1993)](https://americanarchive.org/primary_source_sets/great-depression/12_151-st7dr2q284)
 
-##### Ask students to watch the following sources: 
+3. Bring the groups back together for a discussion guided by the following questions:
 
-- [News Report About Landsmark Attack](https://americanarchive.org/primary_source_sets/busing-boston/5_15-93r0pt1f) (1976)
-- [Landsmark Press Conference](https://americanarchive.org/primary_source_sets/busing-boston/6_15-9qr4nq5d) (1976)
+- How were Black tenant farmers and sharecroppers affected by the Great Depression? To what extent were their conditions unique?
+- Why was the Agricultural Adjustment Act, a program specifically designed to assist and bring relief to farmers, so harmful to tenant farmers and sharecroppers?
+- Why did the tenant farmers and sharecroppers resort to forming the Southern Tenant Farmers’ Union? What did they hope the union would do for them?
+- Why was it important to make the union interracial and nonviolent, even in the face of violent white resistance?
+- How does learning from first-hand interviews add to your understanding of this period in U.S. history? What insights did you gain that you could not from a secondary or tertiary source?
 
-According to Landsmark, what prompted the attack on him? The second source was recorded at a news conference. What does that suggest about public interest in this event? How might public interest in the attack have influenced what Landsmark said during the press conference? Students should note that there was intense public interest in the attack on Landsmark and that he identified racism as the root of the problem. In his remarks, Landsmark advocated for change to address the various problems facing Boston. 
-
-<hr>
 
 ## Pdflink
 
 ## Additionalresources
 
-- [**Busing & Beyond: School Desegregation in Boston**](https://dp.la/primary-source-sets/busing-beyond-school-desegregation-in-boston), Digital Public Library of America
-- [**Rethinking “Busing” in Boston**](https://americanhistory.si.edu/blog/rethinking-busing-boston), National Museum of American History
-- [**Busing and Desegregation 40 Years Later**](https://www.brandeis.edu/investigate/race-justice/busing-desegregation.html), Brandeis University
+- [**The Great Depression and New Deal, 1929-1939**](https://mass.pbslearningmedia.org/collection/us-history-collection/era/the-great-depression-and-new-deal-19291939/), PBS LearningMedia
+- [**The Great Depression and WWII, 1929-1945**](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/), The Library of Congress
+- [**Great Depression Primary Sources & Teaching Activities**](https://education.blogs.archives.gov/2021/02/18/great-depression-2/), U.S. National Archives
 
 ## Youmayalsolike
-- exhibit,education
+- special_collection,the-great-depression
 
 ## Citation
 
-Breakstone, Joel. "Busing in Boston, 1974-1988." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/busing-boston.
+Wilkins, Sue. "The Great Depression and Southern Sharecroppers." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/great-depression.
 
 ## Guid
 ## Cliptime
