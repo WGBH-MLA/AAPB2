@@ -323,8 +323,8 @@ class PBCorePresenter
   def correct_transcript?
     transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
   end
-  def transcript_html
-    tfile = TranscriptFile.new(id, transcript_src) if transcript_src
+  def transcript_html(start_time=nil, end_time=nil)
+    tfile = TranscriptFile.new(id, transcript_src, start_time, end_time) if transcript_src
     return tfile.html if tfile && tfile.file_present?
     captions = CaptionFile.retrieve_captions(id)
     return captions.html if captions.file_present?

@@ -253,7 +253,7 @@
                 </dl>
                 <div id="transcript" class="transcript-frame">
                   <div class="transcript transcript-content">
-                    <%= raw @pbcore.transcript_html %>
+                    <%= raw @pbcore.transcript_html(@primary_source_set.clip_start, @primary_source_set.clip_end) %>
                   </div>
                 </div>
               </div>
@@ -278,7 +278,6 @@
             </div>
           </div>
         </div>
-
 
         <% if @primary_source_set.teachingtips_html.length > 0 %>
           <div class="row" >

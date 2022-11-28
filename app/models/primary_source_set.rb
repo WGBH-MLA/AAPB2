@@ -42,7 +42,12 @@ class PrimarySourceSet < Cmless
   end
 
   def other_resources
-    @other_resources ||= parent.children.reject {|resource| !resource.is_resource? || resource.title == title}
+    @other_resources ||= parent.children.reject {|resource| !resource.is_resource? || resource.title == title}.sort_by {|resource| resource.order }
+  end
+
+  def order
+    # 1-blahblah.md -> 1
+    path.split("-").first.to_i
   end
 
   def top_title
@@ -75,11 +80,11 @@ class PrimarySourceSet < Cmless
   
   def clip_start
     # cliptime in format START,END
-    @clip_start ||= Nokogiri::HTML(@cliptime_html).text.split(",")[0]
+    @clip_start ||= Nokogiri::HTML(@cliptime_html).text.split(",")[0].to_f
   end
 
   def clip_end
-    @clip_end ||= Nokogiri::HTML(@cliptime_html).text.split(",")[1]
+    @clip_end ||= Nokogiri::HTML(@cliptime_html).text.split(",")[1].to_f
   end
 
   # container only
