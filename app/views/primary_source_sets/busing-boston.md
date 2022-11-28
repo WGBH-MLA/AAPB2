@@ -27,6 +27,7 @@ The videos included in this collection detail violent reactions to busing in Bos
 #### Background Information -
 
 Before engaging with this resource set, students should be familiar with the following: 
+
 - The African American Civil Rights Movement
 - The Brown v. Board of Education Supreme Court decision and subsequent efforts to desegregate schools
 - How redlining policies contributed to segregated neighborhoods 
