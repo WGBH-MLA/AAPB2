@@ -30,6 +30,7 @@ The resources in this set are composed of sound and audio clips from the 1960s o
 #### Background Information -
 
 Before engaging with this resource set, students should possess the following:
+
 - A general understanding of Jim Crow, racial segregation, racial violence in the mid-twentieth-century era, and pre-1960s Black nationalist movements
 - A general understanding of the civil rights era and Black Power era timeframe
 - A understanding of differences between civil rights and Black Power politics
