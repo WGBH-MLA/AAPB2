@@ -259,23 +259,25 @@
               </div>
             <% end %>
 
-            <div id="primary-source-clip-details">
-
-              <h3 class="primary-source-title primary-source-clip-title"><%= @primary_source_set.title %></h3>
-              <div class="primary-source-content">
-                <%= @primary_source_set.introduction_html %>
-
-                <a class="primary-source-fullrecord" href="/catalog/<%= @primary_source_set.guid %>">
-                  View Full Record
-                </a>
-              </div>
-            </div>
+            <div id="clip-details-small"></div>
 
           </div>
 
         </div>
 
-        <div class="row" id="clip-details-wide"></div>
+        <div class="row" id="clip-details-wide">
+          <div id="primary-source-clip-details">
+
+            <h3 class="primary-source-title primary-source-clip-title"><%= @primary_source_set.title %></h3>
+            <div class="primary-source-content">
+              <%= @primary_source_set.introduction_html %>
+
+              <a class="primary-source-fullrecord" href="/catalog/<%= @primary_source_set.guid %>">
+                View Full Record
+              </a>
+            </div>
+          </div>
+        </div>
 
 
         <% if @primary_source_set.teachingtips_html.length > 0 %>

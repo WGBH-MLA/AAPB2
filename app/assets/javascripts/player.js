@@ -53,6 +53,27 @@ $(function() {
         $divExhibitPromo.addClass('col-md-offset-2').addClass('col-md-8');
         $divExhibitPromo.removeClass('col-md-6');
       }
+    } else {
+      // for p sets
+
+      var deets = document.getElementById("primary-source-clip-details")
+      var start, dest
+      if(deets.parentElement.id === "clip-details-small"){
+
+        // start = document.getElementById("clip-details-small")
+        // document.getElementById("primary-source-clip-details").remove()
+        console.log( 'i moved it to wide' )
+        dest = document.getElementById("clip-details-wide")
+      } else if(deets.parentElement.id === "clip-details-wide" ){
+        // start = document.getElementById("clip-details-wide")
+        // document.getElementById("primary-source-clip-details").remove()
+        console.log( 'i moved it to small' )
+        dest = document.getElementById("clip-details-small")
+      }
+
+
+      dest.append(deets)
+
     }
     
   }
