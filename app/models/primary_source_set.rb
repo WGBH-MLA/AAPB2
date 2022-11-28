@@ -108,7 +108,7 @@ class PrimarySourceSet < Cmless
   # clip/resource only
   def guid
     ele = Nokogiri::HTML(@guid_html).xpath('//p').first
-    ele.text if ele
+    ele.text.gsub(" ", "") if ele
   end
 
   def you_may_also_like
