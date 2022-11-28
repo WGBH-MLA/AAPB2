@@ -53,7 +53,7 @@ What caused the Boston busing crisis?
 ##### Ask students to watch the following sources:
 
 - [Landsmark Press Conference](https://americanarchive.org/primary_source_sets/busing-boston/6_15-9qr4nq5d) (1976)
-- [Interview with Anti-Busing Activist](https://americanarchive.org/primary_source_sets/busing-boston/7_15-9057cs2x) (1976)
+- [Interview with Anti-Busing Activist](https://americanarchive.org/primary_source_sets/busing-boston/7_15-9057cs2x) (1976) *watch 00:00-2:20 and 07:57-11:06*
 - [Psychologist Thomas Pettigrew Interview](https://americanarchive.org/primary_source_sets/busing-boston/9_15-9zg6g70c) (1967)
 
 According to each speaker, who was responsible for the Boston busing crisis? Why might these sources have such divergent views about who was responsible? Students should note the differing backgrounds of each person and identify ways in which their backgrounds influenced what they said. For example, the anti-busing activist is likely motivated to blame the “liberal establishment” for the busing crisis in order to deflect blame from anti-busing groups. 
