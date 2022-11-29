@@ -77,6 +77,8 @@ According to Landsmark, what prompted the attack on him? The second source was r
 
 ## Pdflink
 
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Busing-Boston_Teaching-Tips.pdf
+
 ## Additionalresources
 
 - [**Busing & Beyond: School Desegregation in Boston**](https://dp.la/primary-source-sets/busing-beyond-school-desegregation-in-boston), Digital Public Library of America

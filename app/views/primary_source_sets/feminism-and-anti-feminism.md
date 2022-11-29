@@ -62,6 +62,8 @@ How did the rise of women’s liberation and women’s rights movements in the 1
 
 ## Pdflink
 
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Feminism-and-Anti-Feminism_Teaching-Tips.pdf
+
 ## Additionalresources
 
 - [**The Battle to Ratify the Equal Rights Amendment (ERA)**](https://mass.pbslearningmedia.org/resource/ilgbh20-soc-ush-eraratify/the-battle-to-ratify-the-equal-rights-amendment/us-history-collection/), PBS Learning Media

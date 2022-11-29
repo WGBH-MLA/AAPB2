@@ -90,6 +90,8 @@ What do the voices of Black Power activists contribute to our understanding abou
 
 ## Pdflink
 
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Power_Teaching-Tips.pdf
+
 ## Additionalresources
 
 - [**SNCC Digital Gateway**](https://snccdigital.org/), SNCC Legacy Project and Duke University
