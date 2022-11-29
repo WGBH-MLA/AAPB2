@@ -29,7 +29,7 @@ class PrimarySourceSet < Cmless
   end
 
   def is_source_set?
-    path.exclude?("/")
+    !path.include?("/")
   end
 
   def is_resource?

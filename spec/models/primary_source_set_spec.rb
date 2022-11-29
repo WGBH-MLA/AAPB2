@@ -1,15 +1,24 @@
-require_relative '../../app/models/exhibit'
+require_relative '../../app/models/primary_source_set'
 
-describe EducatorResource do
+describe PrimarySourceSet do
   describe 'correctly configured' do
-    class MockEducatorResource < EducatorResource
-      ROOT = (Rails.root + 'spec/fixtures/educator_resources').to_s
+    class MockPrimarySourceSet < PrimarySourceSet
+      ROOT = (Rails.root + 'spec/fixtures/primary_source_sets').to_s
     end
 
-    let(:edu_set) { MockEducatorResource.find_by_path('set') }
-    let(:edu_clip) { MockEducatorResource.find_by_path('set/clip') }
+    let(:edu_set) { MockPrimarySourceSet.find_by_path('set') }
+    let(:edu_clip) { MockPrimarySourceSet.find_by_path('set/clip') }
 
     # test any accessor model methods that have specific output expectations, like pdf_link returns a bare url
+
+    describe 'has expected fields' do
+      it 'can load set fixture' do
+        expect(edu_set.title).to eq("Teacher Teacher")
+      end
+      it 'can load clip fixture' do
+        expect(edu_clip.title).to eq("My Dog Ate It")
+      end      
+    end
 
     describe 'is_source_set?' do
       it 'returns true if set' do
@@ -22,7 +31,7 @@ describe EducatorResource do
 
     describe 'other_resources' do
       it 'returns only other sets, none in this test case' do
-        expect(edu_set.other_resources).to eq(EducatorResource("other"))
+        expect(edu_clip.other_resources).to eq( [] )
       end
     end
 
@@ -37,7 +46,7 @@ describe EducatorResource do
 
     describe 'guid no cruft' do
       it 'returns plaintext guid' do
-        expect(edu_clip.guid).to eq("cpb-aacip-069-234dkfj")
+        expect(edu_clip.guid).to eq("cpb-aacip-62-5m6251fv96")
       end
     end
   end

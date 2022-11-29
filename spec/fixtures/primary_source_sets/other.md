@@ -58,6 +58,11 @@ http://www.google.com
 - <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
 - <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
 
+## Youmayalsolike
+- exhibit,black-power
+- special_collection,say-brother
+- special_collection,soul-of-black-identity
+
 ## Citation
 
 Student, Mr., 2004, Canvas

@@ -5,8 +5,7 @@
 ![New Jersey Network Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/NJN_specialcollection_logocollage.png "New Jersey Network Collection")
 
 ## Cover
-  <img class="educator-resource-cover" src="https://s3.amazonaws.com/americanarchive.org/exhibits/ClimateChange_SignatureImage.jpg"/>
-
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Black-Power.jpg
 
 ## Author
 
@@ -51,16 +50,18 @@ Are we not the teachers of ourselves, in the grand classroom of the world?
 http://www.google.com
 
 ## Additionalresources
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
-- <b>Title of Resource</b> [Source Website Text](http://www.google.com/)
+
+- [**SNCC Digital Gateway**](https://snccdigital.org/), SNCC Legacy Project and Duke University
+- [**Black Panther Party Community News Service**](https://search.freedomarchives.org/search.php?view_collection=90), The Freedom Archives
+- [**Curriculum**](https://freedomarchives.org/projects/curriculum/), The Freedom Archives
+- [**The Black Panther Party Ten-Point Program**](https://www.blackpast.org/african-american-history/primary-documents-african-american-history/black-panther-party-ten-point-program-1966/), BlackPast
+- [**Black Culture Connection**](https://www.pbs.org/articles/topic/black-culture-connection), PBS
+
+
+## Youmayalsolike
+- exhibit,black-power
+- special_collection,say-brother
+- special_collection,soul-of-black-identity
 
 ## Citation
 
