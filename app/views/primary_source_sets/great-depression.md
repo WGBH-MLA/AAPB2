@@ -60,22 +60,26 @@ What led tenant farmers and sharecroppers to unionize?
 2. Divide the class into four groups. Ask each group to watch the sources in their assigned topics, as organized below. They should take notes on their topic and prepare to share their findings with the whole class.
 
 **Group 1: The ways in which southern farmers, tenant farmers, and sharecroppers were uniquely affected by the Great Depression.**
+
 - [Oscar Fendler Discusses Landlords, Tenant Farmers, and Sharecroppers (1993)](https://americanarchive.org/primary_source_sets/great-depression/1_151-8w3804z53c)
 - [John Twist Discusses Poverty and Hunger (1993)](https://americanarchive.org/primary_source_sets/great-depression/2_151-rv0cv4cj90)
 - [David Groeppinger Discusses Economic Devastation in the South (1992)](https://americanarchive.org/primary_source_sets/great-depression/3_151-5m6251g16w)
 - [Nancy Neal Talks About the Missouri Roadside Demonstration (1993)](https://americanarchive.org/primary_source_sets/great-depression/4_151-3f4kk94t5p)
 
 **Group 2: The New Deal and the Agricultural Adjustment Act, its implementation, and its negative impacts on tenant farmers and sharecroppers.**
+
 - [John Twist Discusses the Agricultural Adjustment Act and Its Consequences (1993)](https://americanarchive.org/primary_source_sets/great-depression/5_151-rv0cv4cj90)
 - [Former Sharecropper George Stith Discusses the Agricultural Adjustment Act (1992)](https://americanarchive.org/primary_source_sets/great-depression/6_151-nk3610wj5c)
 - [Oscar Fendler Discusses Evictions of Tenant Farmers and Sharecroppers (1993)](https://americanarchive.org/primary_source_sets/great-depression/7_151-gq6qz2340h)
 
 **Group 3: The reasons for the formation of the Southern Tenant Farmers’ Union.**
+
 - [George Stith Describes the Start of the Southern Tenant Farmers’ Union (1992)](https://americanarchive.org/primary_source_sets/great-depression/8_151-nk3610wj5c)
 - [Nancy Neal Discusses the Formation of the Southern Tenant Farmers’ Union (1993)](https://americanarchive.org/primary_source_sets/great-depression/9_151-gm81j97z4z)
 - [Nancy Neal Talks About the STFU’s Decision to Be Interracial and Nonviolent (1993)](https://americanarchive.org/primary_source_sets/great-depression/10_151-gm81j97z4z)
 
 **Group 4: The violent resistance to the union and the union’s legacy.**
+
 - [Miller Williams Discusses a Violent Response to the Union from White Southerners (1993)](https://americanarchive.org/primary_source_sets/great-depression/11_151-bz6154f72d)
 - [Nancy Neal Discusses the STFU as a Model for Change to Come (1993)](https://americanarchive.org/primary_source_sets/great-depression/12_151-st7dr2q284)
 
@@ -89,6 +93,8 @@ What led tenant farmers and sharecroppers to unionize?
 
 
 ## Pdflink
+
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Great-Depression_Teaching-Tips.pdf
 
 ## Additionalresources
 
