@@ -47,7 +47,7 @@ class PrimarySourceSet < Cmless
 
   def order
     # 1-blahblah.md -> 1
-    path.split("-").first.to_i
+    path.split("/")[1].split("-")[0].to_i
   end
 
   def top_title
