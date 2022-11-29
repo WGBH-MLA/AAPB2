@@ -57,7 +57,7 @@ What do the voices of Black Power activists contribute to our understanding abou
 
 #### Classroom Activities -
 
-1. Ask students to engage in group work around specific topics, then come together to discuss.
+1) Ask students to engage in group work around specific topics, then come together to discuss.
 
 ##### Group 1: Black Power Politics
 - [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9_207-60qrfqmn) (1991)
@@ -78,7 +78,7 @@ What do the voices of Black Power activists contribute to our understanding abou
 - [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6_15-99p2w600) (1969)
 - [Student Press Conference Following Student Takeover at Amherst College](https://americanarchive.org/primary_source_sets/black-power/8_305-1289335k) (1970)
 
-2.  Bring the groups back together for a discussion guided by the following questions:
+2)  Bring the groups back together for a discussion guided by the following questions:
 
 - How did Black Power advocates define Black Power? What, if any, thread was running through their definitions?
 - What distinguished Black Power objectives and protests from those of the civil rights era? 

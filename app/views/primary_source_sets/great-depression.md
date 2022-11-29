@@ -55,9 +55,9 @@ What led tenant farmers and sharecroppers to unionize?
 
 #### Classroom Activities -
 
-1. Provide students with a general overview of the topic and source set. Prepare students for the fact that they’ll be watching unedited interviews that were later used in a documentary film on the Great Depression.
+1) Provide students with a general overview of the topic and source set. Prepare students for the fact that they’ll be watching unedited interviews that were later used in a documentary film on the Great Depression.
 
-2. Divide the class into four groups. Ask each group to watch the sources in their assigned topics, as organized below. They should take notes on their topic and prepare to share their findings with the whole class.
+2) Divide the class into four groups. Ask each group to watch the sources in their assigned topics, as organized below. They should take notes on their topic and prepare to share their findings with the whole class.
 
 **Group 1: The ways in which southern farmers, tenant farmers, and sharecroppers were uniquely affected by the Great Depression.**
 
