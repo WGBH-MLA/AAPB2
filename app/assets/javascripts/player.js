@@ -349,7 +349,7 @@ $(function() {
 
     // time markers from url parameters
     var time_markers = getTimeMarkers();
-    if(!time_markers){
+    if(!time_markers && document.getElementById("clip-start")){
       // time markers from edu resource clip!
       time_markers = getTimeMarkersFromEducatorResourceClip();
     }
