@@ -80,6 +80,13 @@ RSpec.describe QueryToTermsArray do
           expect(terms_array).to eq([%w(PRESIDENT OF THE EISENHOWER), ["EXTREMIST"], ["CHEDDAR"]])
         end
       end
+
+      context 'when query contains numbers' do
+        let(:query) { %(lost year "1958-59" 1960) }
+        it 'leaves numbers in quoted and unquoted terms' do
+          expect(terms_array).to eq([%w(1958 59), ["LOST"], ["YEAR"], ["1960"]])
+        end
+      end
     end
   end
 end

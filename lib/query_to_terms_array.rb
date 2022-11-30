@@ -3,13 +3,13 @@
 #
 # The class converts a text query into an array of terms according to the
 # following rules:
+# * Query terms are capitalized
 # * Query terms not in double quotes are put into single-element arrays.
 # * Query terms within double quotes are put into an array where each element
 #   is a term within the double-quoted phrase.
 # * Stopwords are not removed from double-quoted phrases.
 # * Stopwords are removed from unquoted query terms.
-# * Special characters, in this case any non-alphanumeric, non-space character
-#   is removed.
+# * Special characters (any non-alphanumeric, non-space character) are removed.
 #
 # @see ./spec/lib/query_to_terms_array_spec.rb
 # @see SnippetHelper::Snippet - class that uses output from
@@ -70,7 +70,7 @@ class QueryToTermsArray
   def strip_special_chars(str)
     str.
       # Replace any non-alphanumeric, non-space character with a single space,
-      gsub(/[^[:alpha:] ]/, ' ').
+      gsub(/[^[:alnum:] ]/, ' ').
       # and collapse multiple whitespace down to single space,
       gsub(/\s+/, ' ').
       # and strip whitespace off front and back of string.
