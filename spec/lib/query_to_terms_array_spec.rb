@@ -29,7 +29,7 @@ RSpec.describe QueryToTermsArray do
       end
 
       context 'and when query contains only a single quoted phrase' do
-        let(:query) { '"quoted phrase"'}
+        let(:query) { '"quoted phrase"' }
         it 'returns an array where first and only element is an array of ' \
            'terms from the quoted phrase' do
           expect(terms_array).to eq [%w(QUOTED PHRASE)]
