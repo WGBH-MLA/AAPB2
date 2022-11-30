@@ -1,26 +1,41 @@
-# Build an array of terms from a search query
+# Service class for converting a text query into a specially formatted array
+# of terms to be used in highlighting text in transcript snippets.
 #
-# Capitalize all terms
-# Extract quoted phrases
-# Strip punctuation from unquoted phrases
-# Remove stopwords
+# The class converts a text query into an array of terms according to the
+# following rules:
+# * Query terms not in double quotes are put into single-element arrays.
+# * Query terms within double quotes are put into an array where each element
+#   is a term within the double-quoted phrase.
+# * Stopwords are not removed from double-quoted phrases.
+# * Stopwords are removed from unquoted query terms.
+# * Special characters, in this case any non-alphanumeric, non-space character
+#   is removed.
 #
+# @see ./spec/lib/query_to_terms_array_spec.rb
+# @see SnippetHelper::Snippet - class that uses output from
+#   QueryToTermsArray#terms_array
 #
 # @example
-# the french chef with Julia Child -> [["FRENCH"], ["CHEF"], ["JULIA"], ["CHILD"]]
-# "the french chef" with Julia Child -> [["THE", "FRENCH", "CHEF"], ["JULIA"], ["CHILD"]]
-
+# query = "the french chef with Julia Child"
+# QueryToTermsArray.new(query).terms_array
+# => [["FRENCH"], ["CHEF"], ["JULIA"], ["CHILD"]]
+#
+# query = '"the french chef" with Julia Child'
+# QueryToTermsArray.new(query).terms_array
+# => [["THE", "FRENCH", "CHEF"], ["JULIA"], ["CHILD"]]
 class QueryToTermsArray
-  # @param [String] query The search query
-  #
-  # @return [Array<terms_array>] Returns an array of phrases, where each phrase is an array of terms in that phrase.
   attr_reader :query
 
+  # @param [String] query The search query
   def initialize(query)
     raise ArgumentError, "expected query to not be empty" if query.to_s.empty?
     @query = query.to_s.upcase
   end
 
+  # @return [Array<Array>] array where the first elements are arrays containing
+  #   each term from a quoted phrase, including stopwords, but excluding special
+  #   characters, followed by each unquoted term in the query, excluding both
+  #   stopwords and special chars.
   def terms_array
     quoted_terms_arrays + unquoted_terms_arrays
   end
