@@ -49,7 +49,7 @@ RSpec.describe QueryToTermsArray do
         let(:query) { '"quoted phrase one" "another quoted phrase"' }
         it 'returns an array where each element is an array containing the ' \
            'terms from quoted phrases' do
-          expect(terms_array).to eq [%W(QUOTED PHRASE ONE), %W(ANOTHER QUOTED PHRASE)]
+          expect(terms_array).to eq [%w(QUOTED PHRASE ONE), %w(ANOTHER QUOTED PHRASE)]
         end
       end
 
