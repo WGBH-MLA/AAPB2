@@ -38,11 +38,15 @@ class PrimarySourceSet < Cmless
 
   def resources
     # just a little suga for clarity
-    children
+    @resources ||= ordered_sources(children)
   end
 
   def other_resources
-    @other_resources ||= parent.children.reject { |resource| !resource.resource? || resource.title == title }.sort_by(&:order)
+    @other_resources ||= ordered_sources(parent.children)
+  end
+
+  def ordered_sources(sources)
+    sources.reject { |resource| !resource.resource? || resource.title == title }.sort_by(&:order)
   end
 
   def order
