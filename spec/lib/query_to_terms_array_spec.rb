@@ -2,7 +2,6 @@ require 'rails_helper'
 
 RSpec.describe QueryToTermsArray do
   describe '#terms_array' do
-
     let(:terms_array) { QueryToTermsArray.new(query).terms_array }
 
     context 'when query is empty' do
