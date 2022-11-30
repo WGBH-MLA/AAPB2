@@ -118,6 +118,7 @@ class PrimarySourceSet < Cmless
   end
 
   private
+
   def aapb_content_item_block(str)
     type, identifier = str.split(",")
 
@@ -134,5 +135,4 @@ class PrimarySourceSet < Cmless
       { path: "/catalog/#{ item.id }", thumbnail_url: item.img_src, title: item.title }
     end
   end
-
 end
