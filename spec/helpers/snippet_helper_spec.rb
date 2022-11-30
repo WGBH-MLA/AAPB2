@@ -77,28 +77,6 @@ describe SnippetHelper do
     end
   end
 
-  describe 'query to terms array' do
-    it 'removes punctuation from unquoted strings and capitalizes the user query' do
-      expect(QueryToTermsArray.new(%(`show_, ^me %+/- the ?   "ice cream" $@*)).terms_array).to eq([%w(ICE CREAM), ["SHOW"], ["ME"]])
-    end
-
-    it 'leaves punctuation in quoted strings' do
-      expect(QueryToTermsArray.new(%(the lost year "1958-59")).terms_array).to eq([["1958-59"], ["LOST"], ["YEAR"]])
-    end
-
-    it 'uses stopwords.txt to remove words not used in actual search' do
-      expect(QueryToTermsArray.new(%(extremist is cheddar "president of the Eisenhower")).terms_array).to eq([%w(PRESIDENT OF THE EISENHOWER), ["EXTREMIST"], ["CHEDDAR"]])
-    end
-
-    it 'matches multiple sets of double quoted phrases' do
-      expect(QueryToTermsArray.new(%("the french chef" with "Julia Child")).terms_array).to eq([%w(THE FRENCH CHEF), %w(JULIA CHILD)])
-    end
-
-    it 'strips all quotes if there are an odd number of quotation marks' do
-      expect(QueryToTermsArray.new(%("broken quotation" marks")).terms_array).to eq([["BROKEN"], ["QUOTATION"], ["MARKS"]])
-    end
-  end
-
   describe 'view snippet helpers' do
     it 'creates a timecode transcript snippet for the frontend' do
       expect(transcript_snippet(transcript_snippet_1.snippet, "Moving Image", transcript_snippet_1.url_at_timecode)).to eq(%(\n      <span class=\"index-data-title\">From Transcript</span>:\n      <p style=\"margin-top: 0;\"> FOR THIS 15TH ANNIVERSARY CELEBRATION AND DEDICATION CEREMONY IS MR GEORGE CAMPBELL CHAIRMAN OF THE <mark>ARKANSAS</mark> EDUCATIONAL TELEVISION COMMISSION GOOD AFTERNOON DISTINGUISHED GUESTS LADIES AND GENTLEMEN \n        \n        <a href=\"/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&proxy_start_time=50.24\">\n          <button type=\"button\" class=\"btn btn-default snippet-link\">Watch from here</button>\n        </a>\n      \n      </p>\n    ))

@@ -28,7 +28,6 @@ class QueryToTermsArray
 
   # @param [String] query The search query
   def initialize(query)
-    raise ArgumentError, "expected query to not be empty" if query.to_s.empty?
     @query = query.to_s.upcase
   end
 
