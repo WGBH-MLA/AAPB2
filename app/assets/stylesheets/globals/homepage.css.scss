@@ -365,6 +365,11 @@
         &:after { background-color:rgba(239,63,55,.85); }
     }
 
+    #primary-source-sets {
+        background-color: rgb(74,35,120);
+        background-image:none;
+        &:after { background-color:rgba(74,35,120,.85); }
+    }
     /*Browse THe Collection*/
     .browsable ul a {
         transition: all .1s ease-in-out;
@@ -494,6 +499,11 @@
         /* Home Jumbotron - Curated Exhibits */
         #exhibits {
             background-image:url(/home-bg/home-three.jpg);
+        }
+        
+        /* Home Jumbotron - sets */
+        #primary-source-sets {
+            background-image:url(/home-bg/home-sets.jpg);
         }
 
         /* FLoating Navigation on Homepage */

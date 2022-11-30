@@ -10,8 +10,11 @@ class TranscriptFile < ExternalFile
 
   attr_reader :transcript_file_src
 
-  def initialize(guid, transcript_file_src)
+  def initialize(guid, transcript_file_src, start_time = nil, end_time = nil)
     @transcript_file_src = transcript_file_src
+    # get whole file content (duh), these get used in rendering process
+    @start_time = start_time
+    @end_time = end_time
     super("transcript", guid, transcript_file_src)
   end
 
@@ -40,7 +43,7 @@ class TranscriptFile < ExternalFile
     @structured_content ||=
       case file_type
       when TranscriptFile::JSON_FILE
-        TranscriptConverter.json_parts(file_content)
+        TranscriptConverter.json_parts(file_content, @start_time, @end_time)
       when TranscriptFile::TEXT_FILE
         TranscriptConverter.text_parts(file_content)
       end

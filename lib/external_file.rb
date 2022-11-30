@@ -25,7 +25,7 @@ class ExternalFile
     if file_present?
       @file_content ||= begin
         HTTParty.get(external_url).body
-      rescue Errno::ECONNREFUSED
+      rescue Errno::ECONNREFUSED, SocketError
         nil
       end
     end
