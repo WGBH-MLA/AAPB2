@@ -14,47 +14,21 @@ class QueryToTermsArray
   # @param [String] query The search query
   #
   # @return [Array<terms_array>] Returns an array of phrases, where each phrase is an array of terms in that phrase.
-  attr_reader :query, :terms_array
+  attr_reader :query
 
   def initialize(query)
-    @query = query
-    return [] if !query || query.empty?
-    query = query.upcase
+    raise ArgumentError, "expected query to not be empty" if query.to_s.empty?
+    @query = query.to_s.upcase
+  end
 
-    # if there are an even number of double quotes
-    if query.count('"').even?
-      quotes = extract_quoted_phrases(query)
-
-      quotes.map! do |phrase|
-        # Remove quotes from query
-        query.remove!(phrase.first)
-
-        # split each phrase to word arrary
-        phrase.first.split
-      end
-
-      # Remove punctuation from unquoted bits
-      unquotes = strip_punctuation(query).split
-
-      # Remove any unquoted stopwords and convert to term array
-      unquotes = remove_stopwords(unquotes).map { |term| [term] }
-
-      # return combined quotes and unquotes
-      @terms_array = quotes + unquotes
-    else
-      # query has no quotes. Clean and split
-      unquotes = strip_punctuation(query).split
-
-      # Remove stopwords and convert to term array
-      @terms_array = remove_stopwords(unquotes).map { |term| [term] }
-
-    end
+  def terms_array
+    quoted_terms_arrays + unquoted_terms_arrays
   end
 
   private
 
   # Get cached list of stopwords from stopwords.txt
-  # @return [Array<String>] Returns array of stopwords
+  # @return [Array<String>] array of stopwords
   def stopwords
     Rails.cache.fetch('stopwords') do
       sw = File.readlines(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt'), chomp: true).map(&:upcase)
@@ -66,23 +40,55 @@ class QueryToTermsArray
     end
   end
 
-  # Given an array of words, return the array without any stopwords
-  # @param [Array<String>] terms_array A word array from the query
-  def remove_stopwords(terms_array)
-    terms_array - stopwords
+  # @return [Array<String>] double-quoted phrases from #query.
+  def quoted_phrases
+    query.
+      # Match any double quoted phrase and capturing the stuff in between,
+      scan(/"([^"]*)"/).
+      # and grab the first (and only) thing captured.
+      map(&:first)
   end
 
-  # Given a query string, return an array of quoted phrases in that string
-  # @param [String] query The search query
-  def extract_quoted_phrases(query)
-    # Match any double quote followed by 0 or more non double quote characters, followed by a double quote.
-    # This matches multiple sets of quoted phrases
-    query.scan(/"([^"]*)"/)
+  # @param [String]
+  # @return [String] the original string minus all non-alphanumeric, non-space
+  #   characters, and all repeated whitespace collapsed into single space, and
+  #   whitespace stripped from front and back.
+  def strip_special_chars(str)
+    str.
+      # Replace any non-alphanumeric, non-space character with a single space,
+      gsub(/[^[:alpha:] ]/, ' ').
+      # and collapse multiple whitespace down to single space,
+      gsub(/\s+/, ' ').
+      # and strip whitespace off front and back of string.
+      strip
   end
 
-  # Given a query string, return the string without punctuation
-  def strip_punctuation(query)
-    # Removes any non alphanumeric or space character
-    query.gsub(/[^[:alpha:] ]/, '')
+  # @return [Array<Array>] array of single-element arrays, each of which contain
+  #   a single term from #unquoted_terms.
+  def unquoted_terms_arrays
+    unquoted_terms.map { |term| Array(term) }
+  end
+
+  # @return [Array] all terms from the original query that are not contained
+  # within double quotes.
+  def unquoted_terms
+    strip_special_chars(unquoted_query).split - stopwords
+  end
+
+  # @return [String] the original query minus any double-quoted phrases.
+  def unquoted_query
+    query_copy = query.dup
+    quoted_phrases.each do |quoted_phrase|
+      query_copy.remove!(quoted_phrase)
+    end
+    query_copy
+  end
+
+  # @return [Array<Array>] list of double-quoted phrases where each phrase has
+  #   been converted into an array of terms.
+  def quoted_terms_arrays
+    quoted_phrases.map do |quoted_phrase|
+      strip_special_chars(quoted_phrase).split
+    end
   end
 end
