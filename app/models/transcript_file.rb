@@ -10,7 +10,7 @@ class TranscriptFile < ExternalFile
 
   attr_reader :transcript_file_src
 
-  def initialize(guid, transcript_file_src, start_time=nil, end_time=nil)
+  def initialize(guid, transcript_file_src, start_time = nil, end_time = nil)
     @transcript_file_src = transcript_file_src
     # get whole file content (duh), these get used in rendering process
     @start_time = start_time

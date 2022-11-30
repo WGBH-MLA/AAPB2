@@ -11,9 +11,6 @@ class PrimarySourceSetsController < OverrideController
 
   def show
     @primary_source_set = PrimarySourceSet.find_by_path(params[:path])
-    # TODO put back
-    # @other_sets = PrimarySourceSet.all_resource_sets.reject {|set| set.path == @primary_source_set.path }
-    @other_sets = PrimarySourceSet.all_resource_sets
 
     raise ActionController::RoutingError.new('Not Found') unless @primary_source_set
     @page_title = @primary_source_set.title

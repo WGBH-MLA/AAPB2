@@ -19,7 +19,7 @@
     <!-- START: Main Column -->
     <div class="col-md-12">
 
-      <% if @primary_source_set.is_source_set? %>
+      <% if @primary_source_set.source_set? %>
 
         <div class="row primary-source-breadcrumb-container">
           <div class="col-md-12">
@@ -168,7 +168,7 @@
           </div>
         </div>
 
-      <% elsif @primary_source_set.is_resource? %>
+      <% elsif @primary_source_set.resource? %>
         <div class="row primary-source-breadcrumb-container">
           <div class="col-md-12">
             <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">

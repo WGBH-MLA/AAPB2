@@ -19,7 +19,7 @@ class PrimarySourceSet < Cmless
   attr_reader :teachingtips_html
   attr_reader :additionalresources_html
   attr_reader :pdflink_html
-  attr_reader :guid_html 
+  attr_reader :guid_html
   attr_reader :cliptime_html
   attr_reader :youmayalsolike_html
 
@@ -28,11 +28,11 @@ class PrimarySourceSet < Cmless
       PrimarySourceSet.select { |resource| !resource.path.match(%r{\/}) }
   end
 
-  def is_source_set?
+  def source_set?
     !path.include?("/")
   end
 
-  def is_resource?
+  def resource?
     path.include?("/")
   end
 
@@ -42,7 +42,7 @@ class PrimarySourceSet < Cmless
   end
 
   def other_resources
-    @other_resources ||= parent.children.reject {|resource| !resource.is_resource? || resource.title == title}.sort_by {|resource| resource.order }
+    @other_resources ||= parent.children.reject { |resource| !resource.resource? || resource.title == title }.sort_by(&:order)
   end
 
   def order
@@ -59,7 +59,7 @@ class PrimarySourceSet < Cmless
     doc = Nokogiri::HTML::DocumentFragment.parse(@introduction_html)
     doc.inner_html.html_safe
   end
-  
+
   def cover_img
     Nokogiri::HTML(cover_html).text
   end
@@ -77,7 +77,7 @@ class PrimarySourceSet < Cmless
   def pdf_link
     Nokogiri::HTML(@pdflink_html).text
   end
-  
+
   def clip_start
     # cliptime in format START,END
     @clip_start ||= Nokogiri::HTML(@cliptime_html).text.split(",")[0].to_f
@@ -89,11 +89,11 @@ class PrimarySourceSet < Cmless
 
   # container only
   def author
-    Nokogiri::HTML(@author_html).inner_html.to_s.html_safe
+    @author ||= Nokogiri::HTML(@author_html).inner_html.to_s.html_safe
   end
 
   def subjects
-    Nokogiri::HTML(@subjects_html).inner_html.to_s.html_safe
+    @subjects ||= Nokogiri::HTML(@subjects_html).inner_html.to_s.html_safe
   end
 
   def teachingtips_html
@@ -102,20 +102,19 @@ class PrimarySourceSet < Cmless
   end
 
   def additional_resources
-    doc = Nokogiri::HTML(@additionalresources_html).xpath('//li').map(&:to_s).map(&:html_safe)
+    @additional_resources ||= Nokogiri::HTML(@additionalresources_html).xpath('//li').map(&:to_s).map(&:html_safe)
   end
 
   # clip/resource only
   def guid
     ele = Nokogiri::HTML(@guid_html).xpath('//p').first
-    ele.text.gsub(" ", "") if ele
+    ele.text.delete(" ") if ele
   end
 
   def you_may_also_like
     @you_may_also_like ||= begin
-      Nokogiri::HTML(@youmayalsolike_html).xpath('//li').map {|li| aapb_content_item_block(li.text)  }.compact
-    end 
-
+      Nokogiri::HTML(@youmayalsolike_html).xpath('//li').map { |li| aapb_content_item_block(li.text) }.compact
+    end
   end
 
   private
@@ -124,7 +123,7 @@ class PrimarySourceSet < Cmless
 
     if type == "exhibit" || type == "special_collection"
       item = type == "exhibit" ? Exhibit.find_by_path(identifier) : SpecialCollection.find_by_path(identifier)
-      { path: item.full_path, thumbnail_url: item.thumbnail_url, title: item.title  }
+      { path: item.full_path, thumbnail_url: item.thumbnail_url, title: item.title }
     elsif type == "record"
 
       @solr = Solr.instance.connect
@@ -132,7 +131,7 @@ class PrimarySourceSet < Cmless
       xml = data['response']['docs'][0]['xml'] if data['response']['numFound'] > 0
       return unless xml
       item = PBCorePresenter.new(xml)
-      { path: "/catalog/#{ item.id }", thumbnail_url: item.img_src, title: item.title  }
+      { path: "/catalog/#{ item.id }", thumbnail_url: item.img_src, title: item.title }
     end
   end
 

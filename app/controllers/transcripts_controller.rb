@@ -13,7 +13,7 @@ class TranscriptsController < ApplicationController
       start_time = params[:start]
       end_time = params[:end]
     end
-    
+
     @transcript_file = TranscriptFile.new(params['id'], pbcore.transcript_src, start_time, end_time)
 
     return [404, "Transcript does not exist"] unless @transcript_file.file_present?
