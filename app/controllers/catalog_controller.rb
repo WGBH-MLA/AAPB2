@@ -253,10 +253,7 @@ class CatalogController < ApplicationController
           @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
 
           if redirect_to_proxy_start_time?(@pbcore, params)
-            # rubocop:disable Style/AndOr
-            # && in place of 'and' does not work
             redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
-            # rubocop:enable Style/AndOr
           end
         end
 

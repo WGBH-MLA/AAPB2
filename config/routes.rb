@@ -48,7 +48,6 @@ Rails.application.routes.draw do
     path.match(/^[a-z0-9\/-]+$/) && !path.match(/^rails/)
   end
 
-
   get 'about-the-american-archive/newsletter', to: 'forms#newsletter'
   get 'about-the-american-archive/newsletter_thanks', to: 'forms#newsletter_thanks'
   get 'about-the-american-archive/feedback', to: 'forms#feedback'
@@ -63,7 +62,9 @@ Rails.application.routes.draw do
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
 
   get '/primary_source_sets', to: 'primary_source_sets#index'
+  get '/primary-source-sets', to: 'primary_source_sets#index'
   get '/primary_source_sets/*path', to: 'primary_source_sets#show', constraints: override_constraints
+  get '/primary-source-sets/*path', to: 'primary_source_sets#show', constraints: override_constraints
 
   # old link support, must come before /special_collections
   get '/special_collections/eotp-i-interviews', to: redirect('/special_collections/eotp-interviews', status: 301)

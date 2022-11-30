@@ -26,7 +26,7 @@ describe PrimarySourceSet do
       end
       it 'returns false if clip' do
         expect(edu_clip.source_set?).to eq(false)
-      end      
+      end
     end
 
     describe 'resource?' do
