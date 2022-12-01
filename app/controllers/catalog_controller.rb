@@ -43,6 +43,7 @@ class CatalogController < ApplicationController
 
     # items to show per page, each number in the array represent another option to choose from.
     # config.per_page = [10, 20, 50, 100]
+    config.default_per_page = 20
 
     ## Default parameters to send on single-document requests to Solr.
     ## These settings are the Blackligt defaults (see SolrHelper#solr_doc_params) or
@@ -205,7 +206,7 @@ class CatalogController < ApplicationController
 
     # check whether we have enough search results to get to the page specified, if not, go to page 1
     if params[:page] && params[:page].to_i > 1
-      per_page = params[:per_page] ? params[:per_page].to_i : 10
+      per_page = params[:per_page] ? params[:per_page].to_i : 20
 
       # ensure we have enough records to fill to previous page + 1
       page = params[:page].to_i - 1
