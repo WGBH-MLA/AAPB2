@@ -280,6 +280,11 @@ class CatalogController < ApplicationController
   end
 
   private
+
+  def redirect_to_proxy_start_time?(pbcore, params)
+    pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
+  end
+  
   def media_start_time?(params)
     params.keys.include?("start")
   end
