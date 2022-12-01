@@ -1,4 +1,4 @@
-FROM ruby:2.4
+FROM ruby:2.5
 WORKDIR /usr/src/app
 
 RUN apt update && apt install -y nodejs curl libcurl4 libcurl4-openssl-dev default-jdk
