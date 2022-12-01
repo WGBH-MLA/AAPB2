@@ -37,10 +37,7 @@ module Xyz
     config.exceptions_app = routes
     config.cache_store = :memory_store
 
-    # load that geocode ip!
-    config.after_initialize do
-      @mmdb = MaxMindDB.new(Rails.root + 'config/GeoLite2-Country.mmdb')
-      Rails.cache.write('maxmind_db', @mmdb)
-    end
+    # Call GeoLocation.mmdb to warm the cache.
+    config.after_initialize { GeoLocation.mmdb }
   end
 end
