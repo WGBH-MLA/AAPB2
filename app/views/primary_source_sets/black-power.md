@@ -60,23 +60,23 @@ What do the voices of Black Power activists contribute to our understanding abou
 1) Ask students to engage in group work around specific topics, then come together to discuss.
 
 ##### Group 1: Black Power Politics
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9_207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3_28-zp3vt1h700) (1966)
+- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
+- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
 
 ##### Group 2: Nonviolence and Black Power
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9_207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Organizing and Voting](https://americanarchive.org/primary_source_sets/black-power/1_28-zw18k75h85) (1966)
-- [Activist James Bevel Promotes Nonviolence](https://americanarchive.org/primary_source_sets/black-power/2_6688g8fs31) (1966)
+- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
+- [Stokely Carmichael Discusses Organizing and Voting](https://americanarchive.org/primary_source_sets/black-power/1-28-zw18k75h85) (1966)
+- [Activist James Bevel Promotes Nonviolence](https://americanarchive.org/primary_source_sets/black-power/2-6688g8fs31) (1966)
 
 ##### Group 3: Black Panther Party for Self Defense 
-- [Radio broadcast of Bobby Seale at “Free Huey Newton” Rally](https://americanarchive.org/primary_source_sets/black-power/5_28-q52f766p51) (1968)
-- [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6_15-99p2w600) (1969)
-- [Angela Davis Speaks at Black Panther Rally](https://americanarchive.org/primary_source_sets/black-power/7_28-vh5cc0vc2h) (1969)
+- [Radio broadcast of Bobby Seale at “Free Huey Newton” Rally](https://americanarchive.org/primary_source_sets/black-power/5-28-q52f766p51) (1968)
+- [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6-15-99p2w600) (1969)
+- [Angela Davis Speaks at Black Panther Rally](https://americanarchive.org/primary_source_sets/black-power/7-28-vh5cc0vc2h) (1969)
 
 ##### Group 4: Student Protests
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3_28-zp3vt1h700) (1966)
-- [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6_15-99p2w600) (1969)
-- [Student Press Conference Following Student Takeover at Amherst College](https://americanarchive.org/primary_source_sets/black-power/8_305-1289335k) (1970)
+- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
+- [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6-15-99p2w600) (1969)
+- [Student Press Conference Following Student Takeover at Amherst College](https://americanarchive.org/primary_source_sets/black-power/8-305-1289335k) (1970)
 
 2)  Bring the groups back together for a discussion guided by the following questions:
 
