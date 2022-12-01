@@ -12,10 +12,15 @@ COMMANDS:\n\n
 \t  b | build \t  build the docker image\n
 \t  c | cmd \t    run a bash command with the docker image\n
 \t  d | dev \t    start a development server\n
+\t  f | format \t run the rubocop formatter\n
 \t  h | help \t   prints this help text\n
+\t  t | test \t   run the test suite\n
 "
 
-DEV_CMD="docker run -it -p 3000:3000 -v $(pwd):/usr/src/app/ aapb"
+DOCKER_RUN="docker run -it --rm --name aapb"
+DOCKER_EXEC="docker exec -it"
+VOLUME_MOUNT="-v $(pwd):/usr/src/app/"
+PORT_MOUNT="-p 3000:3000"
 
 if [ -z $1 ]; then
   echo -e $HELP
@@ -25,16 +30,27 @@ elif [ $1 = "build" -o $1 = "b" ]; then
     docker build -t aapb . "$@"
 
 elif [ $1 = "cmd" -o $1 = "c" ]; then
-    shift
-    if [ -z $1 ]; then
-      $DEV_CMD bash
-    else $DEV_CMD "$@"
-    fi
+  shift
+  CMD="$DOCKER_EXEC aapb"
+  if [ -z $1 ]; then
+    $CMD bash
+  else $CMD "$@"
+  fi
 
 elif [ $1 = "dev" -o $1 = "d" ]; then
   shift
-  $DEV_CMD "$@"
+  $DOCKER_RUN $PORT_MOUNT $VOLUME_MOUNT aapb "$@"
 
-else echo -e $HELP
+elif [ $1 = "test" -o $1 = "t" ]; then
+  shift
+  $DOCKER_EXEC aapb bundle exec rspec "$@"
+
+elif [ $1 = "format" -o $1 = "f" ]; then
+  shift
+  $DOCKER_EXEC aapb rubocop --auto-correct "$@"
+
+else 
+  echo "Unrecognezed command: $@"
+  echo -e $HELP
 
 fi
