@@ -107,9 +107,8 @@
                 }
 
                 ul.social a.footer-sprite {
-                        background-image:url(/site-ui/aapb-site-sprite.png);
-                        background-position:0 -350px;
-                        background-size: 512px auto;
+                        background-image:url(/site-ui/sprites.png);
+                        background-size: auto 32px;
                 }
 
                 ul.social a {
@@ -122,26 +121,24 @@
                 }
 
                 ul.social .blog a {
-                        background-position:-80px -350px;
-                        background-position:0 -350px;
+                        background-position:0 0;
                 }
 
                 ul.social .twitter a {
-                        background-position:-80px -350px;
+                        background-position:-32px 0;
 
                 }
 
                 ul.social .facebook a {
-                        background-position:-40px -350px;
+                        background-position:-64px 0;
                 }
 
                 ul.social .instagram a {
-                        background-position: 0px -297px;
+                        background-position: -96px 0;
                 }
 
                 ul.social .podcast a {
-                        background-image:url(/site-ui/podcast_32x32.png);
-                        background-position: 0px 0px;
+                        background-position: -128px 0;
 
                 }
 
