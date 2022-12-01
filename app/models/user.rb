@@ -1,6 +1,6 @@
 require 'set'
 require 'ipaddr'
-require_relative '../../lib/geo_i_p_country'
+require 'geo_location'
 
 class User
   DARTMOUTH_HOST_RE = /^(.+\.)?meptest\.dartmouth\.edu$/
@@ -22,7 +22,7 @@ class User
   end
 
   def usa?
-    %w(US PR WS GU MP VI).include?(::GeoIPCountry.instance.country_code(request.remote_ip)) || onsite?
+    %w(US PR WS GU MP VI).include?(GeoLocation.country_code(request.remote_ip)) || onsite?
     # WGBH doesn't actually geocode to USA. No idea why.
   end
 
