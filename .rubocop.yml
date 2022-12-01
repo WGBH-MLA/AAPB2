@@ -61,6 +61,16 @@ Style/StringLiterals:
 Style/IndentArray:
   Enabled: false
 
+Style/SpaceInsideStringInterpolation:
+  Enabled: false
+
+# agree with the style for this one, but using && in a controller:
+# redirect_to '/' && return unless @document
+# redirect_to '/' and return unless @document
+# does not result in a redirect
+Style/AndOr:
+  Enabled: false
+
 Lint/EndAlignment:
   Enabled: false
 

@@ -194,7 +194,7 @@ class CatalogController < ApplicationController
 
     # pull this out because we're going to mutate it inside terms_array method
     @query = params[:q].dup
-    @terms_array = query_to_terms_array(@query)
+    @terms_array = QueryToTermsArray.new(@query).terms_array
 
     if !params[:f] || !params[:f][:access_types]
       # Sets Access Level
@@ -252,8 +252,8 @@ class CatalogController < ApplicationController
           # can? play because we're inside this block
           @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
 
-          if @pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
-            params["proxy_start_time"] = @pbcore.proxy_start_time
+          if redirect_to_proxy_start_time?(@pbcore, params)
+            redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
           end
         end
 

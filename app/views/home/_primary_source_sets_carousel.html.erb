@@ -1,0 +1,15 @@
+<%=
+    render layout: 'home/carousel',
+           locals: {
+                    id: 'primary-source-set-carousel',
+                    items: PrimarySourceSet.all_resource_sets,
+                    view_all: 'View All Sets',
+                    view_all_href: '/primary_source_sets'
+                   } do |item| %>
+  <a target="_blank" href="<%= item.path %>" class="list-group-item" >
+    <img src="<%= item.thumbnail_url %>" title="<%= item.title %>" alt="<%= item.title %>" aria-hidden="true" />
+    <span class="carousel-caption">
+      <h3 class="list-group-item-heading"><%= item.title %></h3>
+    </span>
+  </a>
+<% end %>

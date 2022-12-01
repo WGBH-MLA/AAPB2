@@ -45,7 +45,7 @@
   $(document).ready(function() {
     <% if @query.present? && @snippets && @snippets.keys.present? %>
       var guids = <%= raw(@snippets.keys).to_s %>
-      var q = "<%= @query %>"
+      var q = `<%= raw @query %>`
       getSnippets(guids, q)
     <% end %>
   })

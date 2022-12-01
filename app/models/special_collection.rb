@@ -18,6 +18,10 @@ class SpecialCollection < Cmless
 
   attr_reader :head_html
 
+  def full_path
+    "/special_collections/" + path
+  end
+
   def self.all_top_level
     @all_top_level ||=
       SpecialCollection.select { |collection| !collection.path.match(%r{\//}) }

@@ -10,37 +10,6 @@ module ApplicationHelper
     nil
   end
 
-  def query_to_terms_array(query)
-    return [] if !query || query.empty?
-
-    stopwords = Rails.cache.fetch("stopwords") do
-      sw = []
-      File.read(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt')).each_line do |line|
-        next if line.start_with?('#') || line.empty?
-        sw << line.upcase.strip
-      end
-      sw
-    end
-
-    terms_array = if query.include?(%("))
-                    # pull out double quoted terms!
-                    quoteds = query.scan(/"([^"]*)"/)
-
-                    # now remove them from the remaining query
-                    quoteds.each { |q| query.remove!(q.first) }
-                    query = query.gsub(/[[:punct:]]/, '').upcase
-
-                    # put it all together (removing any term thats just a stopword)
-                    # and remove punctuation now that we've used our ""
-                    quoteds.flatten.map(&:upcase) + (query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } })
-                  else
-                    query.split(" ").delete_if { |term| stopwords.any? { |stopword| stopword == term } }
-                  end
-
-    # remove extra spaces and turn each term into word array
-    terms_array.map { |term| term.upcase.strip.gsub(/[^\w\s]/, "").split(" ") }
-  end
-
   def get_last_day(month)
     if %w(04 06 09 11).include?(month)
       '30'
@@ -55,15 +24,13 @@ module ApplicationHelper
     # type => before, after, index
     # 0000-00-00
     if /\A\d{4}\-\d{1,2}\-\d{1,2}\z/ =~ date_val
-
       year, month, day = date_val.scan(/\A(\d{4})\-(\d{1,2})\-(\d{1,2})\z/).flatten
 
-    # 0000-00
+      # 0000-00
     elsif /\A\d{4}\-\d{1,2}\z/ =~ date_val
-
       year, month = date_val.scan(/\A(\d{4})\-(\d{1,2})\z/).flatten
 
-    # 0000
+      # 0000
     elsif /\A\d{4}\z/ =~ date_val
       date_was_reset = true
       year = date_val

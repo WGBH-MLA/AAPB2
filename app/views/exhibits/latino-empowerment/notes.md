@@ -365,9 +365,9 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="179"></a><sup>179</sup> Gonzalez, *Harvest of Empire*, 240.
 
-<a name="180"></a><sup>180</sup> cpb-aacip/507-4t6f18sz65.
+<a name="180"></a><sup>180</sup> https://americanarchive.org/catalog/cpb-aacip_507-4t6f18sz65.
 
-<a name="181"></a><sup>181</sup> “Ricky Martin,” Latin Music USA, PBS, accessed July 17, 2020, https://americanarchive.org/catalog/cpb-aacip_507-4t6f18sz65.
+<a name="181"></a><sup>181</sup> “Ricky Martin,” Latin Music USA, PBS, accessed July 17, 2020, http://latinmusicusa.lunchbox.pbs.org/wgbh/latinmusicusa/legends/ricky-martin/.
 
 <a name="182"></a><sup>182</sup> “Ricky Martin,” Latin Music USA, PBS.
 
