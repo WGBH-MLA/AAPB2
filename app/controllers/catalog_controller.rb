@@ -237,8 +237,8 @@ class CatalogController < ApplicationController
   def show
     # From BlacklightGUIDFetcher
     @response, @document = fetch_from_solr(params['id'])
-    # we have to rescue from this in fetch_from_solr to run through all guid permutations, so throw it here if we didnt find anything
-    raise Blacklight::Exceptions::RecordNotFound unless @document
+    # If we didn't end up getting a @document, 404
+    raise ActionController::RoutingError.new('Not Found') unless @document
 
     xml = @document['xml']
     respond_to do |format|
