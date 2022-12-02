@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Specify specific version of ruby with which the app is compatible.
-ruby '~> 2.5.0'
+ruby '~> 2.6.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.8'
