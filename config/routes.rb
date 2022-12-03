@@ -65,6 +65,8 @@ Rails.application.routes.draw do
   get '/primary-source-sets', to: 'primary_source_sets#index'
   get '/primary_source_sets/*path', to: 'primary_source_sets#show', constraints: override_constraints
   get '/primary-source-sets/*path', to: 'primary_source_sets#show', constraints: override_constraints
+  # Redirect for old links that were physically printed on fliers for conferences.
+  get '/educator_resources', to: redirect('/primary_source_sets', status: 301)
 
   # old link support, must come before /special_collections
   get '/special_collections/eotp-i-interviews', to: redirect('/special_collections/eotp-interviews', status: 301)
