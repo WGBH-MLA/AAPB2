@@ -31,12 +31,12 @@ The sources in this set are composed of original interviews for a documentary ti
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- The Jim Crow South and the economic, social, and political restrictions imposed on Black southerners
-- The cash crop system and the South’s economic reliance on cotton and tobacco
+- the Jim Crow South and the economic, social, and political restrictions imposed on Black southerners
+- the cash crop system and the South’s economic reliance on cotton and tobacco
 (Prices for cotton, still the mainstay of the southern economy, plunged from 18 cents a pound in 1929 to six cents in 1933. Black sharecroppers and tenant farmers were reduced to starvation or thrown off the land.)
-- Major causes and effects of the Great Depression
-- The New Deal and its variety of relief, recovery, and reform programs
-- The general purpose of a labor union and how it works to extract concessions from business owners and managers to benefit workers
+- major causes and effects of the Great Depression
+- the New Deal and its variety of relief, recovery, and reform programs
+- the general purpose of a labor union and how it works to extract concessions from business owners and managers to benefit workers
 
 <hr>
 
