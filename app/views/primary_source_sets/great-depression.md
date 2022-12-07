@@ -20,7 +20,7 @@ Sue Wilkins, WGBH Educational Foundatiion
 
 The Great Depression was an unprecedented economic crisis that affected almost every American across the nation. In the South, farmers, tenant farmers, and sharecroppers, already facing economic hardship due to wartime overproduction and lower post-World War I demand, faced especially tough economic conditions. Black agricultural workers suffered severely during the Depression as the majority were tied to the fortunes of cotton and tobacco cash crops. The New Deal’s Agricultural Adjustment Act, designed to raise agricultural prices by paying farmers to destroy crops and reduce supply, resulted in further hardships for tenant farmers and, especially, Black sharecroppers, when land they worked on was taken out of production and their landlords did not share government payments with them. In 1934, tenant farmers and sharecroppers responded by forming the Southern Tenant Farmers’ Union (STFU), the first interracial farmers’ union. The STFU, committed to nonviolent reform despite violent reprisals, established a model for future civil rights organization and activism.
 <br><br>
-This resource set is composed of twelve short video clips from interviews conducted for the 1993 documentary The Great Depression. Together, they provide students with first-hand accounts of the Great Depression, the unique challenges southern tenant farmers and sharecroppers faced, the inadequate relief provided by the Agricultural Adjustment Act, and the resulting formation of the Southern Tenant Farmers’ Union.
+This resource set is composed of twelve short video clips from interviews conducted for the 1993 documentary *The Great Depression*. Together, they provide students with first-hand accounts of the Great Depression, the unique challenges southern tenant farmers and sharecroppers faced, the inadequate relief provided by the Agricultural Adjustment Act, and the resulting formation of the Southern Tenant Farmers’ Union.
 
 
 ## Teachingtips
@@ -31,12 +31,12 @@ The sources in this set are composed of original interviews for a documentary ti
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- The Jim Crow South and the economic, social, and political restrictions imposed on Black southerners
-- The cash crop system and the South’s economic reliance on cotton and tobacco
+- the Jim Crow South and the economic, social, and political restrictions imposed on Black southerners
+- the cash crop system and the South’s economic reliance on cotton and tobacco
 (Prices for cotton, still the mainstay of the southern economy, plunged from 18 cents a pound in 1929 to six cents in 1933. Black sharecroppers and tenant farmers were reduced to starvation or thrown off the land.)
-- Major causes and effects of the Great Depression
-- The New Deal and its variety of relief, recovery, and reform programs
-- The general purpose of a labor union and how it works to extract concessions from business owners and managers to benefit workers
+- major causes and effects of the Great Depression
+- the New Deal and its variety of relief, recovery, and reform programs
+- the general purpose of a labor union and how it works to extract concessions from business owners and managers to benefit workers
 
 <hr>
 
