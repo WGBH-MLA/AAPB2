@@ -21,7 +21,7 @@
 </div>
 
 <div id="clip-message-container">
-  <p>This is a segment of a longer program. <a href="/catalog/<%= @pbcore.id %>">Click here to view full-length item.</a></p>
+  <p><%= @clip_message.html_safe %></p>
 </div>
 
 <div id="times">
@@ -30,4 +30,3 @@
 </div>
 
 <div id="video-duration"><%= @pbcore.seconds %></div>
-
