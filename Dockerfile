@@ -1,9 +1,10 @@
-FROM ruby:2.6
+FROM ruby:2.7
 WORKDIR /usr/src/app
 
 RUN apt update && apt install -y nodejs curl libcurl4 libcurl4-openssl-dev default-jdk
-
-COPY Gemfile Gemfile.lock ./
+RUN gem install bundler -v '~> 1.17.3'
+RUN rm /usr/local/lib/ruby/gems/2.7.0/specifications/default/bundler-2.1.4.gemspec
+COPY Gemfile ./
 
 RUN bundle install
 
