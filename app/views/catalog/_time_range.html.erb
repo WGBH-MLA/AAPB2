@@ -21,7 +21,7 @@
 </div>
 
 <div id="clip-message-container">
-  <p><%= @clip_message.html_safe %></p>
+  <p><%= @clip_message.html_safe if @clip_message %></p>
 </div>
 
 <div id="times">
