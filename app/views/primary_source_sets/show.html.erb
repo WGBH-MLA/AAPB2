@@ -115,10 +115,11 @@
           <div class="col-md-12 primary-source-additional-resources primary-source-section">
 
             <h3 class="primary-source-title">Additional Resources</h3>
-
-            <% @primary_source_set.additional_resources.each do |a| %>
-              <%= a %>
-            <% end %>
+            <ul>
+              <% @primary_source_set.additional_resources.each do |a| %>
+                <%= a %>
+              <% end %>
+            </ul>
           </div>
         </div>
 
