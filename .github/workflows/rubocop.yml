@@ -3,7 +3,8 @@ on:
   workflow_call:
 
 jobs:
-  build:
+  rubocop:
+    name: 🤖 Check code style with Rubocop
     runs-on: ubuntu-latest
 
     steps:
