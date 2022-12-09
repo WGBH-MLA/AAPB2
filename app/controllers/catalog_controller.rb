@@ -257,7 +257,7 @@ class CatalogController < ApplicationController
             redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
           elsif params["start"] && params["end"]
             # proxy start time takes precendence, this is for 'share a segment'
-            @clip_message = %(This is a segment of a longer program (#{seconds_to_hms(params["start"])}-#{seconds_to_hms(params["end"])}). <a href="/catalog/#{ @pbcore.id }">Click here to view full-length item.</a>)
+            @clip_message = %(This is a segment of a longer program (#{ seconds_to_hms(params['start']) }-#{ seconds_to_hms(params['end']) }). <a href="/catalog/#{ @pbcore.id }">Click here to view full-length item.</a>)
           end
         end
 

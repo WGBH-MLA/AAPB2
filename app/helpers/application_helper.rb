@@ -58,7 +58,7 @@ end
 
 def seconds_to_hms(seconds)
   # if its just digits and period
-  if !(seconds.gsub(".", "") =~ /\D/)
+  unless seconds.delete(".") =~ /\D/
     Time.at(seconds.to_f).utc.strftime("%H:%M:%S")
   end
 end
