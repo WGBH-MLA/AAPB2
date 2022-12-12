@@ -1,6 +1,5 @@
-name: Feature request
+name: ':bulb: Feature Request'
 description: Suggest an idea for this project
-title: ''
 body:
   - type: markdown
     attributes:
@@ -11,8 +10,8 @@ body:
 
   - type: textarea
     id: summary
-    description: ':pencil2: Briefly summarize your feature request'
     attributes:
+      description: ':pencil2: Briefly summarize your feature request'
       label: Summary
       placeholder: |
         As a [user]
@@ -21,21 +20,21 @@ body:
 
   - type: textarea
     id: related
-    description: ':grey_question: Is this issue related to other existing issues? Please link them below'
     attributes:
+      description: ':grey_question: Is this issue related to other existing issues? Please link them below'
       label: Related
       placeholder: Fixes [link to existing issue]
 
   - type: textarea
     id: alternatives
-    description: ':part_alternation_mark: Describe alternatives you have considered'
     attributes:
+      description: ':part_alternation_mark: Describe alternatives you have considered'
       label: Alternatives
       placeholder: We could also ...
 
   - type: textarea
     id: context
-    description: ':information_desk_person: Add any other context or screenshots about the feature request here.'
     attributes:
+      description: ':information_desk_person: Add any other context or screenshots about the feature request here.'
       label: Additional context
       placeholder: Due date, required for, blocked by ...
