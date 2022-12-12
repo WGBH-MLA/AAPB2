@@ -1,11 +1,11 @@
-name: ':clipboard: Because / Done when'
+name: 📋 Because / Done when
 description: Standard issue template, neither a bug nor a feature.
 body:
   - type: textarea
     id: because
     attributes:
       label: Because
-      description: ':grey_question: Briefly describe the issue.'
+      description: ❔ Briefly describe the issue.
       placeholder: |
         As a [user]
         when I [action]
@@ -15,12 +15,12 @@ body:
     id: done
     attributes:
       label: Done when
-      description: ':white_check_mark: What does "Done" look like?'
+      description: ☑️ What does "Done" look like?
       placeholder: It will be done when it's finished!
 
   - type: textarea
     id: context
     attributes:
       label: Additional context
-      description: ':information_desk_person: Add any other relevant context here.'
+      description: 💁 Add any other relevant context here.
       placeholder: Due date, required for, blocked by ...
