@@ -1,4 +1,4 @@
-name: Because / Done when
+name: ':clipboard: Because / Done when'
 description: Standard issue template, neither a bug nor a feature.
 body:
   - type: textarea
