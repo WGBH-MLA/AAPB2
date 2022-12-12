@@ -4,7 +4,7 @@ on:
 
 jobs:
   specs:
-    name: 📋 Specs
+    name: 📋 Run Specs
     runs-on: ubuntu-latest
 
     steps:
@@ -21,6 +21,9 @@ jobs:
         with:
           ruby-version: 2.4.4
           bundler-cache: true
+
+      - name: 🛤️ Start Rails
+        run: nohup bundle exec rails server &
 
       - name: ✔️ Run Rspec specs using CI config
         run: bundle exec rake ci_specs
