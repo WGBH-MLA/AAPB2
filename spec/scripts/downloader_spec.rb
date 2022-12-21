@@ -26,7 +26,7 @@ describe Downloader do
     end
   end
 
-  it 'downloads by id' do
+  it 'downloads by id', not_on_ci: true do
     dir = Downloader.new(ids: [0.chr + 'cpb-aacip/17-00000qrv' + 160.chr]).run
     # 0.chr and 160.chr to make sure we strip weird characters.
     expect(dir).to match(/\d{4}-\d{2}-\d{2}/)
