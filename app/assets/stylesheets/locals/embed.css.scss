@@ -25,3 +25,24 @@
     padding: 10px 0;
   }
 }
+
+.lite-videocontent::after {
+  position: absolute;
+  left: 45%;
+  font-size: 10px;
+  width: 14em;
+  text-align: center;
+  color:  #000;
+}
+
+.lite-player-row {
+  
+}
+
+.lite-player {
+  
+}
+
+div.lite-text {
+  text-align: center;
+}
