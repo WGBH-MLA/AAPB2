@@ -25,21 +25,21 @@ In the mid-1960s, civil rights activists compelled Congress to pass the Civil Ri
 
 ## Teachingtips
 
-The resources in this set are composed of sound and audio clips from the 1960s of Black Power advocates and activists speaking in various settings, including interviews, conferences, rallies, protests, television broadcasts, and press conferences. Arranged chronologically by date, this resource set allows students to see how Black Power definitions and issues evolved over time and to consider how and why African Americans from different walks of life thought about and engaged with the movement. 
+The resources in this set are composed of video and audio clips from the 1960s of Black Power advocates and activists speaking in various settings, including interviews, conferences, rallies, protests, television broadcasts, and press conferences. Arranged chronologically by date, this resource set allows students to see how Black Power definitions and issues evolved over time and to consider how and why African Americans from different walks of life thought about and engaged with the movement. 
 
 #### Background Information -
 
 Before engaging with this resource set, students should possess the following:
 
-- A general understanding of Jim Crow, racial segregation, racial violence in the mid-twentieth-century era, and pre-1960s Black nationalist movements
-- A general understanding of the civil rights era and Black Power era timeframe
-- A understanding of differences between civil rights and Black Power politics
-knowledge of nationally recognized Black figures and organizations in the post-World War II United States
-- A understanding of nonviolent direct-action protest
-knowledge of the 1954 Brown v. Board of Education decision, the Civil Rights Act of 1964, and the Voting Rights Act of 1965
-- A general understanding of issues impacting African Americans in U.S. cities, such as de facto segregation, unemployment, unequal housing and education, and police violence
-- A general knowledge of U.S. involvement in the Vietnam War
-- A general understanding of other 1960s social movements, including second-wave feminism and the antiwar movement
+- a general understanding of Jim Crow, racial segregation, racial violence in the mid-twentieth-century era, and pre-1960s Black nationalist movements
+- a general understanding of the civil rights era and Black Power era timeframe
+- an understanding of differences between civil rights and Black Power politics
+- knowledge of nationally recognized Black figures and organizations in the post-World War II United States
+- an understanding of nonviolent direct-action protest
+- knowledge of the 1954 Brown v. Board of Education decision, the Civil Rights Act of 1964, and the Voting Rights Act of 1965
+- a general understanding of issues impacting African Americans in U.S. cities, such as de facto segregation, unemployment, unequal housing and education, and police violence
+- a general knowledge of U.S. involvement in the Vietnam War
+- a general understanding of other 1960s social movements, including second-wave feminism and the antiwar movement
 
 <hr>
 
@@ -53,11 +53,14 @@ What do the voices of Black Power activists contribute to our understanding abou
 - What do you think the goals of the Black Power Movement were? 
 - What challenges did Black Power activists face?
 - How have these primary source audio and video clips affected your understanding about Black Power as a concept or a movement?
+
 <hr>
 
 #### Classroom Activities -
 
-1) Ask students to engage in group work around specific topics, then come together to discuss.
+Ask students to engage in group work around specific topics, then come together to discuss.
+
+1) Divide the class into four groups. Ask each group to watch or listen to the sources in their assigned topics, as organized below.
 
 ##### Group 1: Black Power Politics
 - [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)

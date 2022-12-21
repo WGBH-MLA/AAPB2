@@ -51,7 +51,7 @@ What caused the Boston busing crisis?
 
 #### Classroom Activities -
 
-##### Ask students to watch the following sources:
+1) Ask students to watch the following sources:
 
 - [Landsmark Press Conference](https://americanarchive.org/primary_source_sets/busing-boston/6-15-9qr4nq5d) (1976)
 - [Interview with Anti-Busing Activist](https://americanarchive.org/primary_source_sets/busing-boston/7-15-9057cs2x) (1976) *watch 00:00-2:20 and 07:57-11:06*
@@ -59,14 +59,14 @@ What caused the Boston busing crisis?
 
 According to each speaker, who was responsible for the Boston busing crisis? Why might these sources have such divergent views about who was responsible? Students should note the differing backgrounds of each person and identify ways in which their backgrounds influenced what they said. For example, the anti-busing activist is likely motivated to blame the “liberal establishment” for the busing crisis in order to deflect blame from anti-busing groups. 
 
-##### Ask students to watch the following sources: 
+2) Ask students to watch the following sources: 
 
 - [Boston Mayor Kevin White Addresses Residents of Boston Before Start of Busing](https://americanarchive.org/primary_source_sets/busing-boston/3-15-qj77s7j383) (1974)
 - [Boston Mayor Kevin White Requests Federal Support](https://americanarchive.org/primary_source_sets/busing-boston/2-15-9154dp1w) (1974)
 
-How are the two addresses by the mayor similar? How are they different? What happened between the filming of these two sources? (If students are unsure, ask them to watch the source labeled News Report About First Day of Busing.) The first clip was recorded before busing began, and the second was recorded after the violence in response to busing, which prompted Mayor Kevin White to seek federal support to implement the court order. Students should compare and contrast these documents in light of this contextual information.
+How are the two addresses by the mayor similar? How are they different? What happened between the filming of these two sources? (If students are unsure, ask them to watch the source labeled [News Report About First Day of Busing](https://americanarchive.org/primary_source_sets/busing-boston/1-15-92n4zh7k).) The first clip was recorded before busing began, and the second was recorded after the violence in response to busing, which prompted Mayor Kevin White to seek federal support to implement the court order. Students should compare and contrast these documents in light of this contextual information.
 
-##### Ask students to watch the following sources: 
+3) Ask students to watch the following sources: 
 
 - [News Report About Landsmark Attack](https://americanarchive.org/primary_source_sets/busing-boston/5-15-93r0pt1f) (1976)
 - [Landsmark Press Conference](https://americanarchive.org/primary_source_sets/busing-boston/6-15-9qr4nq5d) (1976)
