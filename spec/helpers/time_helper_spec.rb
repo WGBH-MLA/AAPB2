@@ -39,7 +39,7 @@ RSpec.describe ApplicationHelper do
           expect(time).to eq '00:00:03'
         end
       end
-  
+
       context 'when input is a string' do
         let(:seconds) { '3661.1' }
         it 'returns 01:01:01' do
@@ -48,7 +48,7 @@ RSpec.describe ApplicationHelper do
       end
 
       context 'when input is a float' do
-        let(:seconds) { 45296.38 }
+        let(:seconds) { 45_296.38 }
         it 'returns 12:34:56' do
           expect(time).to eq '12:34:56'
         end
