@@ -17,7 +17,7 @@ class SnippetsController < ApplicationController
         snippet_data = {}
 
         # make array of words from users search query
-        terms_array = query_to_terms_array(params["query"])
+        terms_array = QueryToTermsArray.new(params["query"]).terms_array
 
         # do, a search
         solr_docs = query_from_solr(solr_q)

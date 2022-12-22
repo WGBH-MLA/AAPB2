@@ -44,13 +44,13 @@ Records are described at an item level and all records contain brief description
 
 ## Terms 
 
-- [Comedy](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Comedy+section+of+the+Souls+of+Black+Identity+special+collection.%22&sort=title+asc)   
-- [Dance](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Dance+section+of+the+Souls+of+Black+Identity+special+collection.%22&sort=title+asc)   
-- [Film and Television](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Film+and+Television+section+of+the+Souls+of+Black+Identity+special+collection.%22&sort=title+asc)   
-- [Literature](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Literature+section+of+the+Souls+of+Black+Identity+special+collection.%22&sort=title+asc)
-- [Music](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Music+section+of+the+Souls+of+Black+Identity+special+collection.%22&sort=title+asc)   
-- [Theater](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Theater+section+of+the+Souls+of+Black+Identity+special+collection.%22&sort=title+asc)   
-- [Visual Art](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Visual+Art+section+of+the+Souls+of+Black+Identity+special+collection.%22&sort=title+asc)   
+- [Comedy](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Comedy+section+of+the+Soul+of+Black+Identity+special+collection.%22&sort=title+asc)   
+- [Dance](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Dance+section+of+the+Soul+of+Black+Identity+special+collection.%22&sort=title+asc)   
+- [Film and Television](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Film+and+Television+section+of+the+Soul+of+Black+Identity+special+collection.%22&sort=title+asc)   
+- [Literature](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Literature+section+of+the+Soul+of+Black+Identity+special+collection.%22&sort=title+asc)
+- [Music](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Music+section+of+the+Soul+of+Black+Identity+special+collection.%22&sort=title+asc)   
+- [Theater](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Theater+section+of+the+Soul+of+Black+Identity+special+collection.%22&sort=title+asc) 
+- [Visual Art](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&q=%22This+record+is+part+of+the+Visual+Art+section+of+the+Soul+of+Black+Identity+special+collection.%22&sort=title+asc)   
 
 ## Timeline
 
