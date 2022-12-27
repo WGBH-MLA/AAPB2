@@ -1,0 +1,372 @@
+<% content_for :head do %>
+  <link href="https://vjs.zencdn.net/7.20.2/video-js.css" rel="stylesheet">
+  <script src="https://vjs.zencdn.net/7.20.2/video.min.js" ></script>
+  <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js" ></script>
+
+  <%= javascript_include_tag 'videojs-offset.min' %>
+  <%= javascript_include_tag 'transcript' %>
+  <%= javascript_include_tag 'mobile-transcript' %>
+  <%= javascript_include_tag 'player' %>
+<% end %>
+
+<div class="primary-source-header">
+  <h1><%= @page_title %></h1>
+</div>
+
+<div class="row">
+  <div class="region clearfix">
+
+    <!-- START: Main Column -->
+    <div class="col-md-12">
+
+      <% if @primary_source_set.source_set? %>
+
+        <div class="row primary-source-breadcrumb-container">
+          <div class="col-md-12">
+            <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
+              <li> ◄ <a style="margin-left: 4px; top: -2px;" href="/primary_source_sets">Primary Source Discussion Sets</a></li>
+
+              <li><%= link_to @primary_source_set.title, "/primary_source_sets/#{@primary_source_set.path}" %></li>
+            </ol>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="primary-source-cover">
+            <div class="col-md-9">
+              <img src="<%= @primary_source_set.cover_img %>" class="primary-source-cover">
+              <div class="primary-source-colorband"></div>
+            </div>
+            <div class="col-md-3">
+              <dl class="primary-source-panel">
+                <dt>Created By</dt>
+                <dd><%= @primary_source_set.author %></dd>
+
+                <hr/>
+
+                <dt>Subjects</dt>
+                <dd><%= @primary_source_set.subjects %></dd>
+              </dl>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <!-- resource links -->
+          <div class="col-md-12 primary-source-section">
+
+            <h3 class="primary-source-title">Introduction & Context</h3>
+            <div id="primary-source-introduction" class="show-less primary-source-content">
+
+              <%= @primary_source_set.introduction_html %>
+            </div>
+          </div>
+        </div>
+
+        <div class="primary-source-showhide">
+          Read More +
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-12 primary-source-container primary-source-section gray-bg">
+            <!-- <div class="primary-source-background"></div> -->
+
+            <h3 class="primary-source-title">Sources</h3>
+
+            <div class="row">
+
+              <!-- list of clips -->
+              <% @primary_source_set.resources.each do |resource| %>
+
+                <div class="col-md-3 primary-source-source">
+                  <a href="<%= resource.path %>">
+                    <img src="<%= resource.thumbnail_url %>" />
+                    <%= resource.title %>
+                  </a>
+                </div>
+
+              <% end %>
+
+            </div>
+
+          </div>
+        </div>
+
+        <div class="row" >
+          <!-- resource links -->
+          <div class="col-md-12 primary-source-section">
+
+            <h3 class="primary-source-title">Teaching Tips <a class="pdf-icon" href="<%= @primary_source_set.pdf_link %>">Download PDF <span class="tl-icon-doc"></span></a></h3>
+            <div>
+
+            <div class="primary-source-content">
+              <%= @primary_source_set.teachingtips_html %>
+            </div>
+            
+            </div>
+          </div>
+        </div>
+
+        <div class="row" >
+
+          <!-- resource links -->
+          <div class="col-md-12 primary-source-additional-resources primary-source-section">
+
+            <h3 class="primary-source-title">Additional Resources</h3>
+
+            <% @primary_source_set.additional_resources.each do |a| %>
+              <%= a %>
+            <% end %>
+          </div>
+        </div>
+
+        <% if @primary_source_set.citation_html.length > 0 %>
+          <div class="row" >
+
+            <div class="col-md-12 primary-source-section">
+
+              <h3 class="primary-source-title">Citation</h3>
+              <div>
+
+              <div class="primary-source-content">
+                <%= @primary_source_set.citation_html %>
+              </div>
+              
+              </div>
+            </div>
+          </div>
+        <% end %>
+        
+        <div class="row">
+
+          <div class="col-md-12 primary-source-container primary-source-section gray-bg">
+            <!-- <div class="primary-source-background"></div> -->
+
+            <h3 class="primary-source-title">You May Also Like</h3>
+
+            <div class="row">
+
+              <% @primary_source_set.you_may_also_like.each do |aapb_content_item| %>
+
+                <div class="col-md-3 primary-source-source">
+                  <a href="<%= aapb_content_item[:path] %>">
+                    <img src="<%= aapb_content_item[:thumbnail_url] %>" />
+                    <div class="primary-source-colorband" ></div>
+                    <div class="primary-source-moretitle">
+                      <%= aapb_content_item[:title] %>
+                    </div>
+                  </a>
+                </div>
+
+              <% end %>
+
+            </div>
+
+          </div>
+        </div>
+
+      <% elsif @primary_source_set.resource? %>
+        <div class="row primary-source-breadcrumb-container">
+          <div class="col-md-12">
+            <ol class="exhibit-color breadcrumb hidden-xs exhibit-show-breadcrumb" style="margin-top: 0px; padding-bottom: 0; margin-bottom: 0;">
+              <li> ◄ <a style="margin-left: 4px; top: -2px; " href="/primary_source_sets">Primary Source Discussion Sets</a></li>
+
+              <li><%= link_to @primary_source_set.parent.title, "/primary_source_sets/#{@primary_source_set.parent.path}" %></li>
+              <li><%= link_to @primary_source_set.title, "/primary_source_sets/#{@primary_source_set.path}" %></li>
+
+            </ol>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 player primary-source-set-player">
+            <span style="display: none;" id="clip-start"><%= @primary_source_set.clip_start %></span>
+            <span style="display: none;" id="clip-end"><%= @primary_source_set.clip_end %></span>
+            <section class="videocontent">
+            <%=
+              @pbcore.media_srcs.map do |media_src|
+                media = @pbcore.video? ? 'video' : 'audio'
+                content_tag(media,
+                            controls: true,
+                            "class" => "video-js vjs-default-skin vjs-fluid",
+                            "id" => "player_media",
+                            "aria-label" => "video player",
+                            oncontextmenu: 'return false;',
+                            preload: 'auto',
+                            crossorigin: 'with-credentials',
+                            :"data-setup" => '{}',
+                            poster: @pbcore.img_src) do %>
+
+                  <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'application/x-mpegURL' : 'audio/mp3' %>'>
+
+                  <% if @captions.file_present? %>
+                    <track kind="captions" src="/captions/<%= @pbcore.id %>.vtt" srclang="en" label="English" default="default" />
+                  <% end %>
+                  
+                  <%
+                end
+              end.join().html_safe
+            %>
+            </section>
+
+          </div>
+
+
+          <div class="col-md-6">
+
+            <% if @pbcore.transcript_html %>
+              <div class="col-md-12 primary-source-transcript-header transcript-panel-heading">
+                <dt class="dt-left">Transcript</dt>
+                <div class="input-group input-group-sm transcript-search show-transcript-search" role="search">
+                    <input type="search" id="transcript-search-input" placeholder="Search..." value="<%= @transcript_search_term %>">
+                    <button data-search="next" class="transcript-search-btn"><span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></button>
+                    <button data-search="prev" class="transcript-search-btn"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></button>
+                    <button data-search="clear" class="transcript-search-btn">✖</button>
+                </div>
+                <div class="transcript-slide show-transcript" style="cursor: pointer;">Hide
+                  <span class="transcript-circle">-</span>
+                </div>
+              </div>
+
+              <div id="transcript-state" style="display: none;" class="hidden initial closed"></div>
+
+              <div class="col-sm-12 col-md-12 col-lg-12 transcript-div transcript-view-show primary-source-transcript">
+
+                <dl class="panel transcript-panel">
+
+                  <% if false && @pbcore.transcript_message %>
+                    <div style="background-color: #fceab2;" id="transcript-message" class="">
+
+                      <div class="transcript-message-bar">
+                        <button id="transcript-message-close" class="transcript-message-btn">✖</button>
+                      </div>
+
+                      <div class="transcript-message-content">
+                        <%= @pbcore.transcript_message.html_safe %>
+                      </div>
+                    </div>
+                  <% end %>
+                </dl>
+                <div id="transcript" class="transcript-frame">
+                  <div class="transcript transcript-content">
+                    <%= raw @pbcore.transcript_html(@primary_source_set.clip_start, @primary_source_set.clip_end) %>
+                  </div>
+                </div>
+              </div>
+            <% end %>
+
+            <div id="clip-details-small"></div>
+
+          </div>
+
+        </div>
+
+        <div class="row" id="clip-details-wide">
+          <div id="primary-source-clip-details">
+
+            <h3 class="primary-source-title primary-source-clip-title"><%= @primary_source_set.title %></h3>
+            <div class="primary-source-content">
+              <%= @primary_source_set.introduction_html %>
+
+              <a class="primary-source-fullrecord" href="/catalog/<%= @primary_source_set.guid %>">
+                View Full Record
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <% if @primary_source_set.teachingtips_html.length > 0 %>
+          <div class="row" >
+            <!-- resource links -->
+            <div class="col-md-12 primary-source-section">
+
+              <h3 class="primary-source-title">Classroom Activities</h3>
+              <div>
+
+              <div class="primary-source-content">
+                <%= @primary_source_set.teachingtips_html %>
+              </div>
+              
+              </div>
+            </div>
+          </div>
+          
+          <hr/>
+        <% end %>
+
+        <% if @primary_source_set.citation_html.length > 0 %>
+
+          <div class="row" >
+
+            <!-- resource links -->
+            <div class="col-md-12 primary-source-section">
+
+              <h3 class="primary-source-title">Citation</h3>
+              <div>
+
+              <div class="primary-source-content">
+                <%= @primary_source_set.citation_html %>
+              </div>
+              
+              </div>
+            </div>
+          </div>
+
+          <hr/>
+        <% end %>
+
+        <div class="row">
+
+          <div class="col-md-12 primary-source-container primary-source-section gray-bg">
+            <!-- <div class="primary-source-background"></div> -->
+
+            <h3 class="primary-source-title">More in this Primary Source Discussion Set</h3>
+
+            <div class="row">
+
+              <!-- list of clips -->
+              <% @primary_source_set.other_resources.each do |resource| %>
+
+                <div class="col-md-3 primary-source-source">
+                  <a href="/primary_source_sets/<%= resource.path %>">
+                    <img src="<%= resource.thumbnail_url %>"/>
+                    <%= resource.title %>
+                  </a>
+                </div>
+
+              <% end %>
+
+            </div>
+
+          </div>
+        </div>
+        
+      <% end %>
+
+    </div>
+    <!-- END: Main Column -->
+    
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function() { 
+    $("div.player").removeClass("col-md-offset-2")
+
+    $("div.primary-source-showhide").click(function() {
+
+
+      if($("#primary-source-introduction").hasClass("show-less")){
+        $("#primary-source-introduction").removeClass("show-less")
+        $(this).text("Read Less -")
+      } else {
+        $("#primary-source-introduction").addClass("show-less")
+        $(this).text("Read More +")
+      }
+    })
+
+  })
+
+</script>

@@ -1,0 +1,244 @@
+@font-face {
+  font-family: "tl-icons";
+  src: url("/icons/tl-icons.eot");
+  src: url("/icons/tl-icons.eot?#iefix") format("embedded-opentype"), url("/icons/tl-icons.woff")
+      format("woff"), url("/icons/tl-icons.ttf") format("truetype"), url("/icons/tl-icons.svg#tl-icons")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.gray-bg {
+  background-color: #eee;
+}
+
+.primary-source-header {
+  background-size: cover;
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/educator_resources/educator_resources_purple_bar.png");
+  max-width: 1172px;
+  h1 {
+    padding-left: 22px;
+    font-size: 36px;
+    font-weight: lighter;
+    line-height: 52px;
+    color: #fff;
+    margin: 0;
+  }
+
+}
+
+a.primary-source-fullrecord, a.primary-source-fullrecord:link, a.primary-source-fullrecord:visited {
+  background-color: #A92F33;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.6em;
+  padding: 0.6em;
+}
+
+div.primary-source-breadcrumb-container {
+  margin-top: 0.2em;
+  margin-bottom: 1em;
+}
+
+.primary-source-thumbnail {
+  border: none;
+  a {
+    color: #000;
+    display: table-cell;
+    vertical-align: middle;
+    height: 346px;
+    max-width: 346px;
+
+    img {
+      margin: 0 auto;
+      height: 346px;
+      max-width: 346px;
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+  }
+
+  div.exhibit-index-title-container{
+    position: relative;
+  }
+
+  h2 {
+    position: absolute;
+    /*top: 261px;*/
+    bottom: 0;
+    width: 346px;
+    height: 102px;
+    font-size: 32px;
+    text-align: center;
+    display: table;
+    margin: 0;
+    padding: 3px;
+  }
+}
+
+img.primary-source-cover {
+  margin: 0;
+  max-height: 30em;
+  object-fit: cover;
+  width:  100%;
+}
+
+div.primary-source-colorband {
+  min-height: 1.6em;
+  background-color: #4A2378;
+  width:  100%;
+}
+
+div.primary-source-moretitle {
+  font-weight: bold;
+  color: #000;
+}
+/*
+div.primary-source-container {
+  position: relative;
+  height: 20em;
+}
+*/
+div.primary-source-background {
+  position: absolute;
+  z-index: -1;
+  background-color: #ddd;
+  width: 100vw;
+  height: 24vh;
+}
+
+h3.primary-source-clip-title {
+  margin-top: 2em;
+}
+
+div.primary-source-section {
+  margin-top: 2em;
+  padding: 2em;
+}
+
+div.primary-source-showhide {
+  color: #4A2378;
+  font-size: 1em;
+  font-weight: normal;
+  padding-left: 1em;
+}
+
+h3.primary-source-title {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #4A2378;
+}
+
+div.primary-source-content {
+  font-size: 1em;
+}
+
+div.primary-source-content h4 {
+  font-size: 1.4em;
+  color: #A92F33;
+}
+
+div#primary-source-clip-details {
+  padding-left: 15px;
+  margin-top: 2em;
+  width: 100%;
+}
+
+div#clip-details-wide-container {
+
+}
+
+div.primary-source-section a.pdf-icon, div.primary-source-section a.pdf-icon:link, div.primary-source-section a.pdf-icon:active,  div.primary-source-section a.pdf-icon:visited {
+  font-weight: normal;
+  font-size: 0.6em;
+  color: #A92F33;
+  min-height: 4em;
+  margin-left: 5vw;
+}
+
+a.pdf-icon:after {
+  content: "\e654";
+  font-family: "tl-icons";
+  font-size: 1.4em;
+  speak: none;
+  margin-left: 1em;
+  position: absolute;
+}
+
+
+div#primary-source-introduction {
+  overflow-y: hidden;
+  height: auto;
+}
+
+div#primary-source-introduction.show-less {
+  height: 5.8em;
+}
+
+div.primary-source-source {
+  width: 25%;
+  overflow: hidden;
+}
+
+div.primary-source-source a:hover, div.primary-source-source a:link, div.primary-source-source a:visited {
+  text-decoration: none;
+}
+
+div.primary-source-source a {
+  display: inline-block;
+  min-height: 18em;
+}
+
+div.primary-source-source img {
+  margin: 0;
+  object-fit: cover;
+  width:  100%;
+}
+
+.primary-source-additional-resources li {
+  list-style:  none;
+  width: 48%;
+  display: inline-block;
+  float: left;
+  font-size: 1em;
+}
+
+dl.primary-source-panel {
+  background-color: #ddd;
+}
+
+dl.primary-source-panel hr {
+  width: 95%;
+  display: block;
+}
+
+dl.primary-source-panel dt, dl.primary-source-panel dd {
+  font-size: 0.8em;
+  display: block;
+  width: 100%;
+}
+
+dl.primary-source-panel ul {
+  padding-left: 15px;
+  padding-right: 15px;
+  text-justify: left;
+}
+
+
+div.primary-source-transcript-header {
+}
+
+div.primary-source-skipbutton-container {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+div.transcript-view-show.primary-source-transcript {
+  margin-bottom: 2em;
+}
+
+div.primary-source-index-title {
+  min-height: 4em;
+}
+

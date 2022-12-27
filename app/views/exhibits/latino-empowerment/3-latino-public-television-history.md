@@ -165,7 +165,7 @@ The series narrator, Benjamin Bratt, characterized *Latino Americans* as “a re
 </table>
 
 PBS NewsHour senior correspondent Ray Suarez, who wrote the companion book for the series, [told colleague Gwen Ifill in an interview](https://americanarchive.org/catalog/cpb-aacip-525-bc3st7fw1s?start=1562.18&end=2039.33):
-> **If there’s one thing I want people to take away from the act of reading this book, it’s to either remember or learn for the first time how much the people I write about loved this country, and all they wanted was to be accepted like anybody else in return. And they kept that love, kept that affection, and kept that struggle going, even when they were getting nothing but the back of the hand from America. It’s a remarkable story. Instead of become alienated and angry and removed and creating a separate society inside the country, they kept fighting for acceptance.**
+> **If there’s one thing I want people to take away from the act of reading this book, it’s to either remember or learn for the first time how much the people I write about loved this country, and all they wanted was to be accepted like anybody else in return. And they kept that love, kept that affection, and kept that struggle going, even when they were getting nothing but the back of the hand from America. It’s a remarkable story. Instead of becoming alienated and angry and removed and creating a separate society inside the country, they kept fighting for acceptance.**
 
 #### Next: [The Immigrant Experience Through Public Broadcasting](/exhibits/latino-empowerment/4-the-immigrant-experience-through-public-broadcasting)
 

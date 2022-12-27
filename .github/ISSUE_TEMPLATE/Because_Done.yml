@@ -1,0 +1,26 @@
+name: 📋 Because / Done when
+description: Standard issue template, neither a bug nor a feature.
+body:
+  - type: textarea
+    id: because
+    attributes:
+      label: Because
+      description: ❔ Briefly describe the issue.
+      placeholder: |
+        As a [user]
+        when I [action]
+        [result]
+
+  - type: textarea
+    id: done
+    attributes:
+      label: Done when
+      description: ☑️ What does "Done" look like?
+      placeholder: It will be done when it's finished!
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: 💁 Add any other relevant context here.
+      placeholder: Due date, required for, blocked by ...

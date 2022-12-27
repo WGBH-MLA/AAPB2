@@ -10,6 +10,7 @@ AllCops:
     - 'app/models/exhibit.rb'
     - 'app/helpers/snippet_helper.rb'
     - 'app/controllers/snippets_controller.rb'
+    - 'app/models/link_exhibit.rb'
 
 Metrics/ClassLength:
   Enabled: false
@@ -58,6 +59,16 @@ Style/StringLiterals:
   Enabled: false
 
 Style/IndentArray:
+  Enabled: false
+
+Style/SpaceInsideStringInterpolation:
+  Enabled: false
+
+# agree with the style for this one, but using && in a controller:
+# redirect_to '/' && return unless @document
+# redirect_to '/' and return unless @document
+# does not result in a redirect
+Style/AndOr:
   Enabled: false
 
 Lint/EndAlignment:

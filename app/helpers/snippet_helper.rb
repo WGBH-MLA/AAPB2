@@ -4,7 +4,7 @@ module SnippetHelper
     if timecode_url
       timecode_link = %(
         <a href="#{timecode_url}">
-          <button type="button" class="btn btn-default snippet-link">#{media_type == 'Moving Image' ? "Watch" : "Listen"} from here</button>
+          <button type="button" class="btn btn-default snippet-link">Access from here</button>
         </a>
       )
     end

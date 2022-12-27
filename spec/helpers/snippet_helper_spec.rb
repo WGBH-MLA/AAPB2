@@ -77,19 +77,9 @@ describe SnippetHelper do
     end
   end
 
-  describe 'query to terms array' do
-    # it 'removes punctuation from and capitalizes the user query' do
-    #   expect(clean_query_for_snippet(query_with_punctuation)).to eq(test_array)
-    # end
-
-    it 'uses stopwords.txt to remove words not used in actual search' do
-      expect(query_to_terms_array(%(extremist is cheddar "president of the Eisenhower"))).to eq([%w(PRESIDENT OF THE EISENHOWER), ["EXTREMIST"], ["CHEDDAR"]])
-    end
-  end
-
   describe 'view snippet helpers' do
     it 'creates a timecode transcript snippet for the frontend' do
-      expect(transcript_snippet(transcript_snippet_1.snippet, "Moving Image", transcript_snippet_1.url_at_timecode)).to eq(%(\n      <span class=\"index-data-title\">From Transcript</span>:\n      <p style=\"margin-top: 0;\"> FOR THIS 15TH ANNIVERSARY CELEBRATION AND DEDICATION CEREMONY IS MR GEORGE CAMPBELL CHAIRMAN OF THE <mark>ARKANSAS</mark> EDUCATIONAL TELEVISION COMMISSION GOOD AFTERNOON DISTINGUISHED GUESTS LADIES AND GENTLEMEN \n        \n        <a href=\"/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&proxy_start_time=50.24\">\n          <button type=\"button\" class=\"btn btn-default snippet-link\">Watch from here</button>\n        </a>\n      \n      </p>\n    ))
+      expect(transcript_snippet(transcript_snippet_1.snippet, "Moving Image", transcript_snippet_1.url_at_timecode)).to eq(%(\n      <span class=\"index-data-title\">From Transcript</span>:\n      <p style=\"margin-top: 0;\"> FOR THIS 15TH ANNIVERSARY CELEBRATION AND DEDICATION CEREMONY IS MR GEORGE CAMPBELL CHAIRMAN OF THE <mark>ARKANSAS</mark> EDUCATIONAL TELEVISION COMMISSION GOOD AFTERNOON DISTINGUISHED GUESTS LADIES AND GENTLEMEN \n        \n        <a href=\"/catalog/cpb-aacip-111-21ghx7d6?term=ARKANSAS&proxy_start_time=50.24\">\n          <button type=\"button\" class=\"btn btn-default snippet-link\">Access from here</button>\n        </a>\n      \n      </p>\n    ))
     end
 
     it 'creates a transcript snippet for the frontend' do
