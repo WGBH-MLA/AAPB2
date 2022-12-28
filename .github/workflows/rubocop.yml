@@ -24,7 +24,7 @@ jobs:
       - name: 🗃 Bundle install
         run: |
           sudo gem install nokogiri -v '1.10.10' --source 'https://rubygems.org/'
-          bundle install
+          sudo bundle install
 
       - name: 👮 Run Rubocop code analyzer and Formatter
         run: bundle exec rubocop -D
