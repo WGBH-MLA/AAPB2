@@ -55,3 +55,10 @@ module ApplicationHelper
     proper_val.to_time.strftime('%Y-%m-%dT%H:%M:%SZ')
   end
 end
+
+def seconds_to_hms(seconds)
+  # if its just digits and period
+  unless seconds.to_s.delete(".") =~ /\D/
+    Time.at(seconds.to_f).utc.strftime("%H:%M:%S")
+  end
+end
