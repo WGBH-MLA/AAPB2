@@ -86,7 +86,7 @@ gem 'pry-nav', :group => :development
 
 gem 'passenger', :group => :production
 
-gem 'nokogiri', '~> 1.10.4'
+gem 'nokogiri', '~> 1.13.10'
 
 # its back
 gem 'bigdecimal', '1.4.4'
