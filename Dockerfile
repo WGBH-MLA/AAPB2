@@ -4,9 +4,10 @@ WORKDIR /usr/src/app
 RUN apt update && apt install -y nodejs curl libcurl4 libcurl4-openssl-dev default-jdk
 RUN gem install bundler -v '~> 1.17.3'
 RUN rm /usr/local/lib/ruby/gems/2.7.0/specifications/default/bundler-2.1.4.gemspec
-COPY Gemfile ./
+COPY Gemfile Gemfile.lock ./
 
 RUN bundle install
+RUN gem update --system
 
 EXPOSE 3000
 
