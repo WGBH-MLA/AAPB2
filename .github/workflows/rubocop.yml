@@ -23,7 +23,7 @@ jobs:
 
       - name: 🗃 Bundle install
         run: |
-          bundle gem install nokogiri -v '1.10.10' --source 'https://rubygems.org/'
+          gem install nokogiri -v '1.10.10' --source 'https://rubygems.org/'
           bundle install
 
       - name: 👮 Run Rubocop code analyzer and Formatter
