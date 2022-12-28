@@ -20,7 +20,11 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
-          # bundler-cache: true
+
+      - name: 🗃 Bundle install
+        run: |
+          bundle gem install nokogiri -v '1.10.10' --source 'https://rubygems.org/'
+          bundle install
 
       - name: 👮 Run Rubocop code analyzer and Formatter
         run: bundle exec rubocop -D
