@@ -26,5 +26,5 @@ jobs:
 
       - name: ✔️ Run Rspec specs using CI config
         run: |
-          rake db:migrate RAILS_ENV=test
+          bundle exec rake db:migrate RAILS_ENV=test
           bundle exec rake ci_specs
