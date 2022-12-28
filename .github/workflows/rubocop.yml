@@ -5,7 +5,7 @@ on:
 jobs:
   rubocop:
     name: 🤖 Check code style with Rubocop
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
       - name: 📰 Checkout code
@@ -15,13 +15,12 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install libcurl4-openssl-dev
-          gem install nokogiri -v '1.10.10' --source 'https://rubygems.org/'
 
       - name: 💎 Setup Ruby and install RubyGems
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
-          bundler-cache: true
+          # bundler-cache: true
 
       - name: 👮 Run Rubocop code analyzer and Formatter
         run: bundle exec rubocop -D

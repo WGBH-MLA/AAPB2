@@ -5,7 +5,7 @@ on:
 jobs:
   specs:
     name: 📋 Run Specs
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
       - name: 📰 Checkout code
@@ -15,7 +15,6 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install libcurl4-openssl-dev
-          gem install nokogiri -v '1.10.10' --source 'https://rubygems.org/'
 
       - name: 💎 Setup Ruby and install RubyGems
         uses: ruby/setup-ruby@v1
