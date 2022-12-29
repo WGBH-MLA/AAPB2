@@ -19,7 +19,7 @@ jobs:
       - name: 💎 Setup Ruby and install RubyGems
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.4.4
+          ruby-version: 2.7
           bundler-cache: true
 
       - name: 👮 Run Rubocop code analyzer and Formatter

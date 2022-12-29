@@ -1,11 +1,13 @@
-FROM ruby:2.4.4
+FROM ruby:2.7
 WORKDIR /usr/src/app
 
-RUN apt update && apt install -y nodejs curl libcurl3 libcurl3-openssl-dev openjdk-8-jdk && apt-get clean
-
+RUN apt update && apt install -y nodejs curl libcurl4 libcurl4-openssl-dev default-jdk
+RUN gem install bundler -v '~> 1.17.3'
+RUN rm /usr/local/lib/ruby/gems/2.7.0/specifications/default/bundler-2.1.4.gemspec
 COPY Gemfile Gemfile.lock ./
 
 RUN bundle install
+RUN gem update --system
 
 EXPOSE 3000
 

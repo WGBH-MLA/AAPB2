@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 # Specify specific version of ruby with which the app is compatible.
-ruby '2.4.4'
+ruby '~> 2.7.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.8'
+gem 'rails', '~> 4.2.8'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.3.13'
 # gem 'mysql2', :group => :production
@@ -47,14 +47,15 @@ gem 'cmless', git: 'https://github.com/WGBH-MLA/cmless.git'
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
 
-gem 'blacklight', '5.19.2'
+gem 'blacklight', '~> 6.0'
 gem 'blacklight-gallery', '0.4.1'
+gem 'blacklight-marc'
 
 gem 'solrizer'
 gem 'rsolr'
 gem 'jettywrapper'
 
-gem 'blacklight_range_limit', '5.2.0'
+gem 'blacklight_range_limit', '~> 6.0.0'
 
 gem 'actionpack-page_caching'
 gem 'srt'
@@ -85,7 +86,7 @@ gem 'pry-nav', :group => :development
 
 gem 'passenger', :group => :production
 
-gem 'nokogiri', '~> 1.10.4'
+gem 'nokogiri', '~> 1.13.10'
 
 # its back
 gem 'bigdecimal', '1.4.4'
