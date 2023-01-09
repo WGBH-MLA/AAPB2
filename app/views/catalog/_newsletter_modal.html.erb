@@ -1,18 +1,18 @@
 <% if !cookies['newsletter'] && request.path.exclude?("newsletter") %>
-  <div class="modal fade" id="newsletter-modal" tabindex="-1" role="dialog" aria-labelledby="rules-modal-title" data-backdrop="static">
+  <div class="modal fade" id="newsletter-modal" tabindex="-1" role="dialog" aria-labelledby="newsletter-modal-title" data-backdrop="static">
     <div class="modal-dialog" role="document">
       <div class="newsletter-modal-content">
         <div class="modal-header">
-          <h4 class="modal-title" id="rules-modal-title">AAPB Newsletter <button id="newsletter-close" type="button" class="btn-close" data-dismiss="modal" aria-label="Close">X</button></h4>
+          <h4 class="modal-title" id="newsletter-modal-title">Sign up for the AAPB newsletter! <button id="newsletter-close" type="button" class="btn-close" data-dismiss="modal" aria-label="Close">X</button></h4>
 
         </div>
         <div class="modal-body">
           <p>
-            The AAPB Newsletter keeps you informed of new exhibits, special collections, and more! 
+            Stay up to date on new exhibits, special collections, projects, and more.
           </p>
 
           <p>
-            <a href="/about-the-american-archive/newsletter">Click here to subscribe</a>
+            <a href="/about-the-american-archive/newsletter">Click here to subscribe.</a>
           </p>
         </div>
       </div>
@@ -20,8 +20,7 @@
   </div>
 
   <script type="text/javascript">
-    document.cookie = 'newsletter=y;max-age=360'
-
+    document.cookie = 'newsletter=y;max-age=1209600'
     document.getElementById("newsletter-modal").onClick = function(e){
 
     }
