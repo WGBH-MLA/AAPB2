@@ -15,6 +15,7 @@
 //= require jquery-ui/effect.all
 //= require jquery-ui
 //= require nouislider.min
+//= require video_hack
 //
 // Required by Blacklight
 //= require blacklight/blacklight
@@ -27,7 +28,6 @@
 // Play|Pause for Homepage Background Video
 //= stub background-video
 //= stub iterable_forms
-//= stub videojs-offset.min
 
 // For blacklight_range_limit built-in JS, if you don't want it you don't need
 // this:

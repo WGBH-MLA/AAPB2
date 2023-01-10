@@ -1,6 +1,5 @@
 <% content_for :video do %>
-
-
+  <%= javascript_include_tag 'video_hack' %>
 <% end %>
   
 <!-- player or thumbnail or message -->
@@ -14,9 +13,7 @@
     <% end %>
 
         <section class="videocontent">
-
           <video src="<%= @pbcore.media_srcs.first %>" controls>
-
         </section>
 
         <div class="row">
