@@ -26,9 +26,6 @@
 
 // Play|Pause for Homepage Background Video
 //= stub background-video
-//= stub transcript
-//= stub mobile-transcript
-//= stub player
 //= stub iterable_forms
 //= stub videojs-offset.min
 
