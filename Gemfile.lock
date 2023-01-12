@@ -8,8 +8,8 @@ GIT
 
 GIT
   remote: https://github.com/WGBH-MLA/sony_ci_api_rewrite.git
-  revision: c800f8ba5d6f887e5c629bd8fd2758f3e5c4a5bd
-  branch: main
+  revision: 1838dac01f1531738335d945c9de0aea5c0f73ee
+  branch: ci-tests
   specs:
     sony_ci_api (0.1.0)
       activesupport
