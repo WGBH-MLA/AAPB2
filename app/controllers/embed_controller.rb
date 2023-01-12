@@ -24,5 +24,7 @@ class EmbedController < CatalogController
         params["proxy_start_time"] = @pbcore.proxy_start_time
       end
     end
+
+    response.headers.delete('X-Frame-Options')
   end
 end
