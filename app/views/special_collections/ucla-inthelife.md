@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>In The Life</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/INFLECT_new_avatar_green+1400_72.jpg "In the Life")
+![<em>In The Life</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/IntheLife.png "In the Life")
 
 ## Summary
 
@@ -16,12 +16,12 @@ In the Life Media won a number of awards, including the National Academy of Tele
 
 ## Featured
 
-[![RuPaul](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-37defc3ead2)
-[![Isis King and Janet Mock](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-8187d94a018)
-[![Latino LGBT+ Experience](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-6b726b44360)
-[![Martina Navratilova](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-39698e157df)
-[![Black Gay and Lesbian History](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-3ed99d07b35)
-[![Madonna](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-10a03687bba)
+[![RuPaul](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-a4a8a6cc7bb.jpg)](/catalog/cpb-aacip-a4a8a6cc7bb)
+[![Isis King and Janet Mock](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-8187d94a018.jpg)](/catalog/cpb-aacip-8187d94a018)
+[![Latino LGBT+ Experience](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-6b726b44360.jpg)](/catalog/cpb-aacip-6b726b44360)
+[![Lesbian Herstory Archives](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-39698e157df.jpg)](/catalog/cpb-aacip-39698e157df)
+[![Black Gay and Lesbian History](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-3ed99d07b35.jpg)](/catalog/cpb-aacip-3ed99d07b35)
+[![Madonna](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-10a03687bba.jpg))](/catalog/cpb-aacip-10a03687bba)
 
 ## Resources
 
