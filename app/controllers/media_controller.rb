@@ -20,9 +20,8 @@ class MediaController < ApplicationController
         sony_ci.asset_stream_url(ci_id, type: "hls")
       elsif pbcore.audio?
         sony_ci.asset_download(ci_id)['location']
-      end      
+      end
     end
-
   end
 
   def ci_id
