@@ -15,11 +15,14 @@ class MediaController < ApplicationController
   private
 
   def media_url
-    @media_url ||= if pbcore.video?
-                    sony_ci.asset_stream_url(ci_id, type: "hls")
-                  elsif pbcore.audio?
-                    sony_ci.asset_download(ci_id)['location']
-                  end
+    @media_url ||= begin
+      if pbcore.video?
+        sony_ci.asset_stream_url(ci_id, type: "hls")
+      elsif pbcore.audio?
+        sony_ci.asset_download(ci_id)['location']
+      end      
+    end
+
   end
 
   def ci_id
