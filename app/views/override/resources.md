@@ -7,15 +7,15 @@ This resource list is evolving, so please check back often.
 
 ### 1. Preservation Consultations
 
-Do you have specific questions on how to proceed with your preservation efforts? AAPB’s Project Manager is just an email or phone call away! Contact Casey Davis Kaufman at [Casey_Davis-Kaufman@wgbh.org](mailto:casey_davis-kaufman@wgbh.org).
+Do you have specific questions on how to proceed with your preservation efforts? AAPB’s Project Manager is just an email or phone call away! Contact Casey Davis at [Casey_Davis@wgbh.org](mailto:casey_davis@wgbh.org).
 
 ### 2. Archival Management System (AMS)
 
-Participating organizations have exclusive access to the Archival Management System (AMS), where you can search and access your metadata, export records, watch/listen to your digital files, and download low-res files at [ams.americanarchive.org](http://ams.americanarchive.org). Contact Ryn Marchese, AAPB's Engagement and Use Manager, to update or add your organization users at [Ryn_Marchese@wgbh.org](mailto:ryn_marchese@wgbh.org).
+Participating organizations have exclusive access to the Archival Management System (AMS), where you can search and access your metadata, export records, watch/listen to your digital files, and download low-res files at [ams.americanarchive.org](http://ams.americanarchive.org). Contact Casey to update or add your organization users.
 
 ### 3. Customize Your Organization Page on the AAPB Website
 
-Each organization has a landing page on AAPB’s website, and we encourage adding a logo and org summary to provide more background on your programs! Find your page: http://americanarchive.org/participating-orgs Please forward any updates to Ryn.
+Each organization has a landing page on AAPB’s website, and we encourage adding a logo and org summary to provide more background on your programs! Find your page: http://americanarchive.org/participating-orgs Please forward any updates to Miranda Villesvik at [Miranda_Villesvik@wgbh.org](mailto:miranda_villesvik@wgbh.org).
 
 ### 4. Grant Writing Assistance
 
@@ -31,19 +31,15 @@ The AAPB Participating Organizations Communications Kit provides guidance for sp
 
 ### 7. Transcripts
 
-With funding from the Institute of Museum and Library Services (IMLS), the AAPB has created computer-generated transcripts for every item in the AAPB. Contact Ryn for more details.
+With funding from the Institute of Museum and Library Services (IMLS), the AAPB has created computer-generated transcripts for every item in the AAPB. Contact Casey for more details.
 
-### 8. Free Digitization Opportunity through 2019!
+### 8. Referring Licensing Inquiries
 
-The Transcribe to Digitize Challenge is a year-long opportunity hosted by the digitization service provider George Blood, LP. The challenge is simple: if your organization can correct between 20-100 of the computer-generated transcripts for your content via AAPB’s crowdsourcing platform [FIX IT+](http://fixitplus.americanarchive.org), George Blood will digitize an equivalent number of your tapes for free. Contact Ryn for details.
+We often get requests from producers seeking to license content they found in the AAPB. We refer them back to the contributing organization, and we can also provide licensing information on your records and organization page. Feel free to send us some language and contact details, and we can update it on the website. Contact Casey for more information.
 
-### 9. Referring Licensing Inquiries
+### 9. Connect with us!
 
-We often get requests from producers seeking to license content they found in the AAPB. We refer them back to the contributing organization, and we can also provide licensing information on your records and organization page. Feel free to send us some language and contact details, and we can update it on the website. Contact Ryn for more information.
-
-### 10. Connect with us!
-
-If you would like to learn more about the AAPB, what your organization contributed, and where you can go from here, email Ryn Marchese, our Engagement and Use Manager, at [ryn_marchese@wgbh.org](mailto:ryn_marchese@wgbh.org)! You can also locate your organization's content on the Participating Organizations page at http://americanarchive.org/participating-orgs.
+If you would like to learn more about the AAPB, what your organization contributed, and where you can go from here, email Casey! You can also locate your organization's content on the Participating Organizations page at http://americanarchive.org/participating-orgs.
 
 ## Additional Resources
 
