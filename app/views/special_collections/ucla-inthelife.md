@@ -10,7 +10,7 @@ The *In the Life* collection contains 197 episodes from television’s longest r
 
 ## Background
 
-*In the Life* began in 1992 as a variety show and evolved to a news magazine program for the remainder of its run from 1993 and 2012. *In the Life* stopped airing in 2012, at which time it was acquired by the UCLA Film & Television Archive, which contributed the series to the American Archive of Public Broadcasting in 2022. The collection at UCLA includes unedited video interviews that are accessible through the Archive's Rresearch and Study Center. Production files and publicity materials for the series are held by UCLA Library Special Collections.
+*In the Life* began in 1992 as a variety show and evolved to a news magazine program for the remainder of its run from 1993 and 2012. *In the Life* stopped airing in 2012, at which time it was acquired by the UCLA Film & Television Archive, which contributed the series to the American Archive of Public Broadcasting in 2022. The collection at UCLA includes unedited video interviews that are accessible through the Archive's Research and Study Center. Production files and publicity materials for the series are held by UCLA Library Special Collections.
 
 In the Life Media won a number of awards, including the National Academy of Television Arts and Sciences Ribbon of Hope Award, the National Lesbian and Gay Journalists Association’s 2011 Excellence in HIV/AIDS Coverage Award, the 2006 Siegenthaler Award for excellence in network television, and GLAAD Media Award for Outstanding TV Journalism – Newsmagazine, as well as two Emmy Award nominations and a 15th Annual Webby Award nomination. 
 
