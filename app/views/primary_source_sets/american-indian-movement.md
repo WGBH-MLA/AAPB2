@@ -1,11 +1,11 @@
-# The Black Power Movement
+# The American Indian Movement (AIM)
 
 ## Thumbnail
 
 ![All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Black-Power.jpg "All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Black-Power.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_AIM.jpg
 
 ## Author
 
@@ -13,46 +13,39 @@ Brenna Wynn Greer, Wellesley College
 
 ## Subjects
 
-- The Cold War, 1945–1975: Cold War Conflicts, Korea thru Vietnam
 - Post-WWII Domestic Confidence and Unrest, 1945–1968: The Rise of Civil Rights, 1945–1965
-- Post-WWII Domestic Confidence and Unrest, 1945–1968: The Civil Rights Movement Expands
 - Conservative Resurgence and Social Change, 1964–2000: Counterculture and Social Activism
-- Conservative Resurgence and Social Change, 1964–2000: Domestic Politics	
 
 ## Introduction
 
-In the mid-1960s, civil rights activists compelled Congress to pass the Civil Rights Act of 1964 and the Voting Rights Act of 1965. The crowning achievement of the civil rights movement, this historic legislation acknowledged and protected essential citizenship rights for African Americans. These acts prohibited segregation and racial discrimination, and eliminated longtime, discriminatory barriers that prevented African Americans’ access to the ballot box. Still, Blacks in the United States continued to experience racism and injustice, as well as economic inequality and discrimination in housing, education, and employment. In this context, some notable civil rights activists started to promote and popularize the concept of “Black Power.” Beginning in 1966, activists, students, politicians, religious leaders, media personalities, and ordinary citizens debated the meaning and merits of Black Power. While the meaning of Black Power continues to be debated, central tenets included wealth distribution or economic equality, anti-imperialism, Black nationalism, and Black pride. Nowadays, Black Power is typically associated with the late 1960s and the rise of the Black Panther Party for Self Defense. However, as this set of sources reveals, the concept of Black Power predated the 1960s and the Black Power Movement was firmly rooted in the civil rights movement. 
+In 1968, Native Americans in Minneapolis, Minnesota, launched the American Indian Movement (AIM), which was an activist group that grew into a larger movement centered on tribal sovereignty and self-governance. The founding of AIM occurred within the context of what is often referred to as the “social revolution” of the 1960s, which involved grassroots activism across multiple groups and issues, including civil and labor rights, sexual identity and freedom, and opposition to the Vietnam War. AIM grew out of Native Americans’ opposition to and experience of federal Indian policy that pushed Indians to assimilate and dislocated them from tribal lands. AIM garnered national attention for its high-profile, lengthy protests, often characterized as militant. As a result of AIM’s principles and protests, the Federal Bureau of Investigation (FBI) targeted the movement and its members through COINTELPRO, its counterintelligence program that used covert and illegal actions to eliminate groups the FBI deemed subversive. However, AIM protests also moved the federal government to recognize certain tribal land rights and support Indian education. 
 
 ## Teachingtips
 
-The resources in this set are composed of video and audio clips from the 1960s of Black Power advocates and activists speaking in various settings, including interviews, conferences, rallies, protests, television broadcasts, and press conferences. Arranged chronologically by date, this resource set allows students to see how Black Power definitions and issues evolved over time and to consider how and why African Americans from different walks of life thought about and engaged with the movement. 
+This resource set is composed completely of excerpts from public radio programs, documentaries, and interviews, which, in particular, give voice to the thoughts, experiences, and objectives of prominent members and participants of the American Indian Movement (AIM). Primarily chronological in content, this resource set gives students information about the circumstances that gave rise to AIM and provides first-hand observations about AIM protests, objectives, challenges, and accomplishments.
 
 #### Background Information -
 
-Before engaging with this resource set, students should possess the following:
+Before engaging with this resource set, students should be familiar with the following:
 
-- a general understanding of Jim Crow, racial segregation, racial violence in the mid-twentieth-century era, and pre-1960s Black nationalist movements
-- a general understanding of the civil rights era and Black Power era timeframe
-- an understanding of differences between civil rights and Black Power politics
-- knowledge of nationally recognized Black figures and organizations in the post-World War II United States
-- an understanding of nonviolent direct-action protest
-- knowledge of the 1954 Brown v. Board of Education decision, the Civil Rights Act of 1964, and the Voting Rights Act of 1965
-- a general understanding of issues impacting African Americans in U.S. cities, such as de facto segregation, unemployment, unequal housing and education, and police violence
-- a general knowledge of U.S. involvement in the Vietnam War
-- a general understanding of other 1960s social movements, including second-wave feminism and the antiwar movement
+- the Wounded Knee massacre of 1890
+- the Dawes Act and the 1924 Immigration Act 
+- the concept of sovereignty 
+- the timeline of the American Indian Movement
 
 <hr>
 
 #### Essential Question - 
 
-What do the voices of Black Power activists contribute to our understanding about African Americans’ rights and experiences in the post-civil rights era United States?
+What do the voices of AIM members and their supporters contribute to our understanding of how Native Americans became a minority group within the United States and how that affected their lived experience?
 
 <hr>
 
 #### General Discussion Questions -
-- What do you think the goals of the Black Power Movement were? 
-- What challenges did Black Power activists face?
-- How have these primary source audio and video clips affected your understanding about Black Power as a concept or a movement?
+
+- What circumstances gave rise to and fueled AIM?
+- What was the role of AIM in the late 1960s and the 1970s?
+- How have these primary source clips affected your understanding of U.S and Native American history?
 
 <hr>
 
@@ -60,59 +53,55 @@ What do the voices of Black Power activists contribute to our understanding abou
 
 Ask students to engage in group work around specific topics, then come together to discuss.
 
-1) Divide the class into four groups. Ask each group to watch or listen to the sources in their assigned topics, as organized below.
+1) Divide the class into four topic groups as outlined below. Ask each group to watch or listen to the sources assigned to their topic. They should take notes on their topic and prepare to share their findings with the whole class. 
 
-##### Group 1: Black Power Politics
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
+##### Group 1: Origins
+- [The State of Indians in 1968](https://americanarchive.org/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
+- [Russell Means Radio Interview](https://americanarchive.org/primary_source_sets/american-indian-movement/2-224-257d81km) (1992)
+- [Interview of Vernon Bellecourt, AIM Leader](https://americanarchive.org/primary_source_sets/american-indian-movement/3-28-wh2d795w2v) (1973)
 
-##### Group 2: Nonviolence and Black Power
-- [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
-- [Stokely Carmichael Discusses Organizing and Voting](https://americanarchive.org/primary_source_sets/black-power/1-28-zw18k75h85) (1966)
-- [Activist James Bevel Promotes Nonviolence](https://americanarchive.org/primary_source_sets/black-power/2-6688g8fs31) (1966)
+##### Group 2: Sovereignty and Cultural Identity
+- [The State of Indians in 1968](https://americanarchive.org/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
+- [Survival Schools](https://americanarchive.org/primary_source_sets/american-indian-movement/9-15-8279d3bf) (1978)
+- [Native American Attitudees Toward "Columbus Day"](https://americanarchive.org/primary_source_sets/american-indian-movement/10-293-9s1kh0f775) (1992)
 
-##### Group 3: Black Panther Party for Self Defense 
-- [Radio broadcast of Bobby Seale at “Free Huey Newton” Rally](https://americanarchive.org/primary_source_sets/black-power/5-28-q52f766p51) (1968)
-- [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6-15-99p2w600) (1969)
-- [Angela Davis Speaks at Black Panther Rally](https://americanarchive.org/primary_source_sets/black-power/7-28-vh5cc0vc2h) (1969)
+##### Group 3: Protest
+- [*Radio Free Alcatraz* Episode, Hosted by John Trudell](https://americanarchive.org/primary_source_sets/american-indian-movement/4-28-q23qv3cj2p) (1969)
+- [Pine Ridge Reservation Residents Discuss AIM](https://americanarchive.org/primary_source_sets/american-indian-movement/6-15-78gf28x2) (1973)
+- [AIM Takeover of Fairchild Camera and Instrument Corporation](https://americanarchive.org/primary_source_sets/american-indian-movement/8-207-483j9qpk) (1975)
 
-##### Group 4: Student Protests
-- [Stokely Carmichael Discusses Black Power](https://americanarchive.org/primary_source_sets/black-power/3-28-zp3vt1h700) (1966)
-- [Black Student Takeover at Brandeis University](https://americanarchive.org/primary_source_sets/black-power/6-15-99p2w600) (1969)
-- [Student Press Conference Following Student Takeover at Amherst College](https://americanarchive.org/primary_source_sets/black-power/8-305-1289335k) (1970)
+##### Group 4: Federal Perspective and Policy 
+- [The State of Indians in 1968](https://americanarchive.org/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
+- [*Radio Free Alcatraz* Episode, Hosted by John Trudell](https://americanarchive.org/primary_source_sets/american-indian-movement/4-28-q23qv3cj2p) (1969)
+- [Pine Ridge Reservation Residents Discuss AIM](https://americanarchive.org/primary_source_sets/american-indian-movement/6-15-78gf28x2) (1973)
 
-2)  Bring the groups back together for a discussion guided by the following questions:
+2)  Bring students back together and use the discussion questions below to organize and invite input from the four different groups. 
 
-- How did Black Power advocates define Black Power? What, if any, thread was running through their definitions?
-- What distinguished Black Power objectives and protests from those of the civil rights era? 
-- What issues did Black Power activists identify as the biggest challenges to Black people and Black communities?
-- What was the relationship between Black Power and education?
-- How did Stokely Carmichael and James Bevel, both well-known and important activists in the civil rights movement, view Black Power?
+- What do you identify as primary issues that fueled the American Indian Movement (recognizing that these varied across different tribes, regions, and reservations)?
+- What is the significance of reservations with respect to Native Americans’ experiences and rights?
+- What forms did AIM activism take? Which activist strategies do you think were most effective? Why?
+- How would you describe the federal government’s approach to Native Americans and their rights and identity? Why might the federal government have adopted such an approach?
 
 <hr>
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Power_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_American-Indian-Movement_Teaching-Tips.pdf
 
 ## Additionalresources
 
-- [**SNCC Digital Gateway**](https://snccdigital.org/), SNCC Legacy Project and Duke University
-- [**Black Panther Party Community News Service**](https://search.freedomarchives.org/search.php?view_collection=90), The Freedom Archives
-- [**Curriculum**](https://freedomarchives.org/projects/curriculum/), The Freedom Archives
-- [**The Black Panther Party Ten-Point Program**](https://www.blackpast.org/african-american-history/primary-documents-african-american-history/black-panther-party-ten-point-program-1966/), BlackPast
-- [**Black Culture Connection**](https://www.pbs.org/articles/topic/black-culture-connection), PBS
-
+- [**American Indian Movement Website**](https://www.aimovement.org/), American Indian Movement
+- [**The American Indian Movement and the Third Space of Sovereignty**](https://muscarelle.wm.edu/rising/legacy/), Muscarelle Museum of Art
+- [**Indian Country Today Digital Newspaper**](https://ictnews.org/news), IndiJ Public Media
+- [**The American Indian Movement** section of Native Narratives: The Representation of Native Americans in Public Broadcasting](https://americanarchive.org/exhibits/native-narratives/aim), American Archive of Public Broadcasting
 
 ## Youmayalsolike
-- exhibit,black-power
-- special_collection,say-brother
-- special_collection,soul-of-black-identity
-
+- exhibit,native-narratives
+- special_collection,vision-maker-media
 
 ## Citation
 
-Greer, Brenna Wynn. "The Black Power Movement." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/black-power.
+Greer, Brenna Wynn. "The American Indian Movement." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/american-indian-movement.
 
 ## Guid
 ## Cliptime
