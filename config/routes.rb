@@ -33,6 +33,9 @@ Rails.application.routes.draw do
   resources 'oai',
             only: [:index]
 
+  get 'logs', to: 'logs#index'
+  get 'logs/:log_file_name', to: 'logs#show', log_file_name: /.*/
+
   match 'api', to: 'api#index', via: [:get, :options]
   match 'api/:id', to: 'api#show', via: [:get, :options]
   match 'api/:id/transcript', to: 'api#transcript', via: [:get, :options], defaults: { format: :json }
