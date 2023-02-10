@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Black-Power.jpg "All Power to the People, Courtesy New York Public Library, https://nypl.getarchive.net/media/all-power-to-the-people-bu-x405-d5f130")
+![Tipi with sign 'American Indian Movement' on the grounds of the Washington Monument, Washington, D.C., during the 'Longest walk', Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/2011646498/](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_AIM.jpg "Tipi with sign 'American Indian Movement' on the grounds of the Washington Monument, Washington, D.C., during the 'Longest walk', Courtesy of the Library of Congress, https://www.loc.gov/pictures/item/2011646498/")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_AIM.jpg
