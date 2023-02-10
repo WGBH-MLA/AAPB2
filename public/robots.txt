@@ -3,3 +3,4 @@
 User-agent: *
 Disallow: /catalog
 Allow: /catalog/
+Disallow: /logs
