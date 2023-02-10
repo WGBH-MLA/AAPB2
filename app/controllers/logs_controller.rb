@@ -70,7 +70,7 @@ class LogsController < ApplicationController
     # list of Rails logs for test, development, and production environments.
     # @return [Array<string>]
     def ignore
-      @ignore ||= ['test.log', 'development.log', 'production.log']
+      @ignore ||= ['test.log*', 'development.log*', 'production.log*']
     end
 
     def ignored?(filename)
