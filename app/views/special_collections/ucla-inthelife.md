@@ -1,8 +1,8 @@
-# <em>In The Life</em>
+# <em>In the Life</em>
 
 ## Thumbnail
 
-![<em>In The Life</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/IntheLife.png "In the Life")
+![<em>In the Life</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/IntheLife.png "In the Life")
 
 ## Summary
 
