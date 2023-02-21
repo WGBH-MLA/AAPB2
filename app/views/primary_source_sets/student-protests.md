@@ -77,21 +77,21 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Pr
 
 ## Additionalresources
 
-- [**Busing & Beyond: School Desegregation in Boston**](https://dp.la/primary-source-sets/busing-beyond-school-desegregation-in-boston), Digital Public Library of America
-- [**Busing for School Desegregation**](https://www.bunkhistory.org/collections/z8bu5c), Bunk
-- [**Rethinking “Busing” in Boston**](https://americanhistory.si.edu/blog/rethinking-busing-boston), National Museum of American History
-- [**Busing and Desegregation 40 Years Later**](https://www.brandeis.edu/investigate/race-justice/busing-desegregation.html), Brandeis University
-- [**Busing & Beyond: School Desegregation in Boston**](https://dp.la/primary-source-sets/busing-beyond-school-desegregation-in-boston), Digital Public Library of America
-- [**Busing for School Desegregation**](https://www.bunkhistory.org/collections/z8bu5c), Bunk
-- [**Rethinking “Busing” in Boston**](https://americanhistory.si.edu/blog/rethinking-busing-boston), National Museum of American History
-- [**Busing and Desegregation 40 Years Later**](https://www.brandeis.edu/investigate/race-justice/busing-desegregation.html), Brandeis University
-- [**Busing & Beyond: School Desegregation in Boston**](https://dp.la/primary-source-sets/busing-beyond-school-desegregation-in-boston), Digital Public Library of America
-- [**Busing for School Desegregation**](https://www.bunkhistory.org/collections/z8bu5c), Bunk
-- [**Rethinking “Busing” in Boston**](https://americanhistory.si.edu/blog/rethinking-busing-boston), National Museum of American History
-- [**Busing and Desegregation 40 Years Later**](https://www.brandeis.edu/investigate/race-justice/busing-desegregation.html), Brandeis University
+- [**Student Movements of the 1960s Project**](https://www.loc.gov/folklife/civilrights/survey/view_collection.php?coll_id=1047), Library of Congress/Columbia University
+- [**The Free Speech Movement**](https://calisphere.org/exhibitions/43/the-free-speech-movement/), Calisphere
+- [**Two Days in October**](https://www.pbs.org/wgbh/americanexperience/films/two-days-in-october/), *American Experience*
+- [**Civil Rights and Campus Protest Collection**](https://calisphere.org/collections/19264/), Calisphere
+- [**1968: A Time of Change | Interactive Lesson**](https://mass.pbslearningmedia.org/resource/clw-soc-ush-1968/1968-time-of-change/), PBS LearningMedia
+- [**Diary of a Student Revolution**](https://americanarchive.org/catalog/cpb-aacip_75-558czg1g), *NET Journal*, AAPB
+- [**To Calm a Troubled Campus**](https://americanarchive.org/catalog/cpb-aacip_75-43nvx4g1), *NET Journal*, AAPB
+- [**Color Us Black! Part 1**](https://americanarchive.org/catalog/cpb-aacip-512-f47gq6rz2w), *NET Journal*, AAPB
+- [**Color Us Black! Part 2**](https://americanarchive.org/catalog/cpb-aacip-75-60cvf2cz), *NET Journal*, AAPB
+- [**The Frustrated Campus**](https://americanarchive.org/catalog/cpb-aacip-516-r20rr1qp0h), *Public Broadcast Laboratory*, AAPB
+- [**University in Society: Do the Ties Bind?**](https://americanarchive.org/catalog/cpb-aacip_516-g44hm53h63), *Public Broadcast Laboratory*, AAPB
+- [**Black Power on University Campuses**](https://americanarchive.org/catalog/cpb-aacip_15-99p2w600), *Say Brother*, AAPB
 
 ## Youmayalsolike
-- exhibit,education
+- exhibit,first-amendment
 
 ## Citation
 
