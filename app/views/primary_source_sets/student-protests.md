@@ -3,11 +3,11 @@
 ## Thumbnail
 
 ![UCLA students walking arm in arm, others with picket signs during protest against National Guard actions at UC Berkeley, 1969, Courtesy The Regents of the University of California (CC BY) https://digital.library.ucla.edu/catalog/ark:/21198/zz0002vrhr. 
-.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Student-Protests.jpg "UCLA students walking arm in arm, others with picket signs during protest against National Guard actions at UC Berkeley, 1969, Courtesy The Regents of the University of California (CC BY) https://digital.library.ucla.edu/catalog/ark:/21198/zz0002vrhr. 
+.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_student-protests.jpg "UCLA students walking arm in arm, others with picket signs during protest against National Guard actions at UC Berkeley, 1969, Courtesy The Regents of the University of California (CC BY) https://digital.library.ucla.edu/catalog/ark:/21198/zz0002vrhr. 
 .")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Student-Protests.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_student-protests.jpg
 
 ## Author
 
