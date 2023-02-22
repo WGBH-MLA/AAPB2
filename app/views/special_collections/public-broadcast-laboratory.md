@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>Public Broadcast Laboratory </em>](https://s3.amazonaws.com/americanarchive.org/special-collections/INFLECT_new_avatar_green+1400_72.jpg "Public Broadcast Laboratory ")
+![<em>Public Broadcast Laboratory </em>](https://s3.amazonaws.com/americanarchive.org/special-collections/pbl-mainimage.png "Public Broadcast Laboratory ")
 
 ## Summary
 
