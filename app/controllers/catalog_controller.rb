@@ -255,9 +255,13 @@ class CatalogController < ApplicationController
 
           if redirect_to_proxy_start_time?(@pbcore, params)
             redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
-          elsif params["start"] && params["end"]
+          elsif params["start"] && params["end"] && @pbcore.media_type != "other"
+            # media type: 'other' records can exist, but they shouldnt have media, so no segmenter
+
+            media_type_verb = @pbcore.media_type == "Moving Image" ? "view" : "listen to"
+
             # proxy start time takes precendence, this is for 'share a segment'
-            @clip_message = %(This is a segment of a longer program (#{ seconds_to_hms(params['start']) }-#{ seconds_to_hms(params['end']) }). <a href="/catalog/#{ @pbcore.id }">Click here to view full-length item.</a>)
+            @clip_message = %(This is a segment of a longer program (#{ seconds_to_hms(params['start']) }-#{ seconds_to_hms(params['end']) }). <a href="/catalog/#{ @pbcore.id }">Click here to #{ media_type_verb } full-length item.</a>)
           end
         end
 
