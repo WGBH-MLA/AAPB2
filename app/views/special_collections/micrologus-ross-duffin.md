@@ -19,10 +19,10 @@ An authority on early music between the 13th and 19th centuries with a specializ
 ## Featured
 
 [![Gregorian Chant](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-df6a4b44c11)
-[![Remembering Jason Paras](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-37911e0db5e)
-[![Oltremontani](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-7e74d5ad24b)
-[![The Lute](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-b3c0340802f)
-[![Music of Petrarch](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-8311db27557)
+[![The Top Voice](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-0840085f571)
+[![Recipe for a Banquet](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-4ca0940effb)
+[![Bach and the Baroque Violin](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-87b36e183c0)
+[![Carmina Burana](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-c2842801f67)
 [![Music in Shakespearean Theater](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-daab96d04ec)
 
 ## Resources
