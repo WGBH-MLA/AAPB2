@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![*Here and Now*](https://s3.amazonaws.com/americanarchive.org/special-collections/INFLECT_new_avatar_green+1400_72.jpg "Here and Now")
+![*Here and Now*](https://s3.amazonaws.com/americanarchive.org/special-collections/here-and-now.png "Here and Now")
 
 ## Summary
 
