@@ -30,6 +30,7 @@ The “Public Radio as a Tool for Cultural Engagement in New York in the 60s and
 ## Resources
 
 - [The Riverside Church in the City of New York, website](https://www.trcnyc.org/)
+- [WRVR Riverside Radio: A Pioneering Noncommercial Station, AAPB Exhibit](https://americanarchive.org/exhibits/wrvr)
 - [Speaking and Protesting in America, AAPB Exhibit](https://americanarchive.org/exhibits/first-amendment)
 - [Never-before-released Recordings of Dr. King at the Riverside Church, The Riverside Church](https://www.trcnyc.org/kinginstitutejan16/)
 - [WRVR Fix-IT+ Transcript Editor](http://wrvrtranscripts.americanarchive.org/)
