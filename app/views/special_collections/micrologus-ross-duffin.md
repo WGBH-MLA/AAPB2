@@ -14,7 +14,7 @@ An authority on early music between the 13th and 19th centuries with a specializ
 
 *Micrologus*, nationally syndicated by National Public Radio from 1980 to 1998, was produced at Case Western University by producer and host Ross Duffin. *Micrologus* was digitized by the Kelvin Smith Library in 2009 and was contributed to the American Archive of Public Broadcasting in 2022.
 
-*A special thanks to Stephen Toombs (1951-2016), late Kulas Music Librarian at Case Western Reserve University, for his role in obtaining the grant that funded the digitization of *Micrologus.**
+*A special thanks to Stephen Toombs (1951-2016), late Kulas Music Librarian at Case Western Reserve University, for his role in obtaining the grant that funded the digitization of *Micrologus.** 
 
 ## Featured
 
