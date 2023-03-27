@@ -1,4 +1,4 @@
-# <em>Wall $treet Week With Louis Rukeyser</em>
+# <em>Wall $treet Week with Louis Rukeyser</em>
 
 ## Thumbnail
 
@@ -12,7 +12,7 @@ W$W examined the economic news from the US and abroad and looked at changes, cha
 
 ## Background
 
-<em>Wall $treet Week With Louis Rukeyser</em> was produced from 1970-2002 by Maryland Public Television and was hosted by financial journalist, columnist, and lecturer Louis Rukeyser. The series was digitized during the Corporation for Public Broadcasting’s American Archive Digitization Project and was preserved and made available in the American Archive of Public Broadcasting in 2013.
+<em>Wall $treet Week with Louis Rukeyser</em> was produced from 1970-2002 by Maryland Public Television and was hosted by financial journalist, columnist, and lecturer Louis Rukeyser. The series was digitized during the Corporation for Public Broadcasting’s American Archive Digitization Project and was preserved and made available in the American Archive of Public Broadcasting in 2013.
 
 ## Featured
 
@@ -26,7 +26,7 @@ W$W examined the economic news from the US and abroad and looked at changes, cha
 ## Resources
 
 - [Maryland Public Television](https://www.mpt.org/)
-- [<em>Wall $treet Week With Louis Rukeyser</em> at the University of Maryland](https://digital.lib.umd.edu/resultsnew?query=Wall+Street+Week)
+- [<em>Wall $treet Week with Louis Rukeyser</em> at the University of Maryland](https://digital.lib.umd.edu/resultsnew?query=Wall+Street+Week)
 - [“Made Possible by Viewers Like You: Maryland Public Television Turns 50” University of Maryland Online Exhibit](https://www.lib.umd.edu/mpt-turns-50/mpt-programming/consumer)
 - [Maryland Public Television Records Collection, Finding Aid, University of Maryland](https://archives.lib.umd.edu/repositories/2/resources/501)
 - [<em>Wall $treet Week</em>, Bloomberg](https://www.bloomberg.com/series/wall-street-week)
