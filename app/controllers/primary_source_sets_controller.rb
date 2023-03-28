@@ -1,8 +1,5 @@
-
 class PrimarySourceSetsController < OverrideController
-  include Blacklight::Catalog
   include ApplicationHelper
-  include BlacklightGUIDFetcher
 
   def index
     @all_resource_sets = PrimarySourceSet.all_resource_sets
@@ -16,9 +13,11 @@ class PrimarySourceSetsController < OverrideController
     @page_title = @primary_source_set.title
 
     if @primary_source_set.guid
-      @response, @document = fetch_from_solr(@primary_source_set.guid)
-      redirect_to '/' and return unless @document
-      @pbcore = PBCorePresenter.new(@document['xml'])
+      @solr = Solr.instance.connect
+      resp = @solr.get('select', params: { q: "id:#{@primary_source_set.guid}", fl: 'xml' })
+      doc = resp['response']['docs'].first if resp['response'] && resp['response']['docs']
+      redirect_to '/' and return unless doc
+      @pbcore = PBCorePresenter.new(doc['xml'])
 
       @captions = CaptionFile.retrieve_captions(@pbcore.id)
 
