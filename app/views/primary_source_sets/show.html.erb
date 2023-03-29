@@ -68,13 +68,18 @@
           Read More +
         </div>
 
+
         <div class="row">
 
           <div class="col-md-12 primary-source-container primary-source-section gray-bg">
             <!-- <div class="primary-source-background"></div> -->
 
             <h3 class="primary-source-title">Sources</h3>
-
+            <div class="row">
+              <div class="col-md-12">
+                <p>Content Advisory: These archival materials may reference content that could be sensitive for some audiences. It is recommended that teachers and faculty preview these media sources to determine their appropriateness before sharing with students.</p>
+              </div>
+            </div>
             <div class="row">
 
               <!-- list of clips -->
@@ -115,6 +120,8 @@
           <div class="col-md-12 primary-source-additional-resources primary-source-section">
 
             <h3 class="primary-source-title">Additional Resources</h3>
+
+            <p></p> 
 
             <% @primary_source_set.additional_resources.each do |a| %>
               <%= a %>
@@ -323,6 +330,9 @@
             <!-- <div class="primary-source-background"></div> -->
 
             <h3 class="primary-source-title">More in this Primary Source Discussion Set</h3>
+
+            <!-- spacing -->
+            <div class="row"><p></p></div>
 
             <div class="row">
 
