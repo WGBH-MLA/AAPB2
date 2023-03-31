@@ -113,15 +113,15 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Epide
 
 ## Additionalresources
 
-- [**How to Survive a Plague**](https://surviveaplague.com/see-the-doc)  (Official Documentary Website)
-- [**The Age of AIDS**](https://www.pbs.org/video/frontline-age-aids-part-i/)  (Frontline)
-- [**Interactive AIDS Quilt**](https://www.aidsmemorial.org/interactive-aids-quilt) (National AIDS Memorial)
-- [**AIDS Crisis Lesson Materials**](https://sheg.stanford.edu/history-lessons/aids-crisis) (Stanford History Education Group)
-- [**Stop the Church: Issues and Outrage**](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f) (American Archive of Public Broadcasting)
+- [**How to Survive a Plague**](https://surviveaplague.com/see-the-doc),Official Documentary Website
+- [**The Age of AIDS**](https://www.pbs.org/video/frontline-age-aids-part-i/),Frontline
+- [**Interactive AIDS Quilt**](https://www.aidsmemorial.org/interactive-aids-quilt),National AIDS Memorial
+- [**AIDS Crisis Lesson Materials**](https://sheg.stanford.edu/history-lessons/aids-crisis),Stanford History Education Group
+- [**Stop the Church: Issues and Outrage**](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f),American Archive of Public Broadcasting
 
 ## Youmayalsolike
 - special_collection,ucla-inthelife
-- - special_collection,lgbt
+- special_collection,lgbt
 
 ## Citation
 
