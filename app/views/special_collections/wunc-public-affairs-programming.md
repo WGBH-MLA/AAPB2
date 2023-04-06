@@ -1,8 +1,8 @@
-# <em>WUNC Public Affairs Programming</em>
+# <em>WUNC Public Affairs Programming</em> HAVE TO UPDATE THE TWO FEATURED ITEMS WITH THEIR GUIDS
 
 ## Thumbnail
 
-![<em>WUNC Public Affairs Programming</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/wunc-staffphoto.png "WUNC Public Affairs Programming")
+![<em>WUNC Public Affairs Programming</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/wunc-publicaffairs-usethis.png "WUNC Public Affairs Programming")
 
 ## Summary
 
