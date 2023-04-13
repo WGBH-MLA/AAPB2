@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![*Mind Over Matters* Sustainability Segment](https://s3.amazonaws.com/americanarchive.org/special-collections/WallStreetWeek_mainimage.jpg "*Mind Over Matters* Sustainability Segment")
+![*Mind Over Matters* Sustainability Segment](https://s3.amazonaws.com/americanarchive.org/special-collections/kexp-mainimage.png "*Mind Over Matters* Sustainability Segment")
 
 ## Summary
 
