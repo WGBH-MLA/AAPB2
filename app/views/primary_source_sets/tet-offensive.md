@@ -23,7 +23,7 @@ On January 30, 1968, the Viet Cong and North Vietnamese Army (NVA) launched a se
 
 This source set includes a series of video clips regarding the Tet Offensive in 1968. The sources provide a range of perspectives on the goals of the Tet Offensive, reactions to it, and its outcomes. These suggested activities provide opportunities to consider similarities and differences across sources and to place the sources into historical context. 
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should be familiar with the following: 
 
@@ -34,20 +34,20 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 What was the impact of the Tet Offensive on the Vietnam War? 
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 
 - What were the goals of the Tet Offensive? 
 - Across this source set, how were reactions to the Tet Offensive similar or different?
 - What factors might explain differences in reactions to the Tet Offensive? 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 1) Ask students to watch the following sources:
 

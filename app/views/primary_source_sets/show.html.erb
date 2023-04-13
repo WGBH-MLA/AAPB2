@@ -77,7 +77,7 @@
             <h3 class="primary-source-title">Sources</h3>
             <div class="row">
               <div class="col-md-12">
-                <p>Content Advisory: These archival materials may reference content that could be sensitive for some audiences. It is recommended that teachers and faculty preview these media sources to determine their appropriateness before sharing with students.</p>
+                <p style="font-weight: bold;">Content Advisory: These archival materials may reference content that could be sensitive for some audiences. It is recommended that teachers and faculty preview these media sources to determine their appropriateness before sharing with students.</p>
               </div>
             </div>
             <div class="row">
@@ -204,7 +204,7 @@
                             preload: 'auto',
                             crossorigin: 'with-credentials',
                             :"data-setup" => '{}',
-                            poster: @pbcore.img_src) do %>
+                            poster: @primary_source_set.thumbnail_url) do %>
 
                   <source src="<%= media_src %>" type='<%= @pbcore.video? ? 'application/x-mpegURL' : 'audio/mp3' %>'>
 

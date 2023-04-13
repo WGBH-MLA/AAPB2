@@ -26,7 +26,7 @@ During the 1960s, protest movements proliferated in high schools and college cam
 
 This source set includes a series of audio and video clips detailing various aspects of the protest movements that roiled college campuses and high schools during the 1960s. The sources provide opportunities to explore what motivated protestors, how students sought to effect change, and the interconnections between movements. These suggested activities ask students to consider relationships among different sources.
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should be familiar with the following: 
 
@@ -36,13 +36,13 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 Why did students protest in the 1960s? 
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 
 - What did students protest against? 
 - How were the protest movements related? 
@@ -52,7 +52,7 @@ Why did students protest in the 1960s?
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 1) Ask students to watch/listen to the following sources:
 

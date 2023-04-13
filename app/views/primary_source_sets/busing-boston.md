@@ -24,7 +24,7 @@ By the 1960s, various federal and local government policies had led to deep segr
 
 The videos included in this collection detail violent reactions to busing in Boston and provide differing perspectives on causes of the crisis. The sources suggest a range of possible factors contributed to the crisis, including federal intervention, racism, and politics. Students must consider the videos’ sources and the context in which they were created to understand the causes of the crisis. 
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should be familiar with the following: 
 
@@ -34,13 +34,13 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 What caused the Boston busing crisis? 
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 
 - Why might the people in the videos suggest different causes of the Boston busing crisis? 
 - How was the Boston busing crisis connected to the Brown v. Board of Education decision?  
@@ -49,7 +49,7 @@ What caused the Boston busing crisis?
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 1) Ask students to watch the following sources:
 

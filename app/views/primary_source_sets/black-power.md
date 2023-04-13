@@ -27,7 +27,7 @@ In the mid-1960s, civil rights activists compelled Congress to pass the Civil Ri
 
 The resources in this set are composed of video and audio clips from the 1960s of Black Power advocates and activists speaking in various settings, including interviews, conferences, rallies, protests, television broadcasts, and press conferences. Arranged chronologically by date, this resource set allows students to see how Black Power definitions and issues evolved over time and to consider how and why African Americans from different walks of life thought about and engaged with the movement. 
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should possess the following:
 
@@ -43,20 +43,20 @@ Before engaging with this resource set, students should possess the following:
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 What do the voices of Black Power activists contribute to our understanding about African Americans’ rights and experiences in the post-civil rights era United States?
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 - What do you think the goals of the Black Power Movement were? 
 - What challenges did Black Power activists face?
 - How have these primary source audio and video clips affected your understanding about Black Power as a concept or a movement?
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 Ask students to engage in group work around specific topics, then come together to discuss.
 

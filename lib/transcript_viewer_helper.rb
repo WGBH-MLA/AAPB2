@@ -1,5 +1,5 @@
 module TranscriptViewerHelper
-  def build_transcript(transcript_parts, source_type)
+  def build_transcript(transcript_parts, source_type, is_primary_source=false)
     @para_counter = 1
 
     # make sure new_end_time is in this scope in case of < 60 case

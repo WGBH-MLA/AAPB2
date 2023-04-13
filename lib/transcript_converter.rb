@@ -15,12 +15,19 @@ class TranscriptConverter
       start_time -= 10
       start_time = 0 if start_time < 0
 
+      # pad forward 10s
+      end_time += 60
+      # (pad because editor's clip times will not match the transcript chunks and this helps make sure all the target content is included)
+
       parts = parts.select { |part| part["start_time"].to_f >= start_time && part["end_time"].to_f <= end_time }
+
+      # flag to ignore 60s chunking for primary sets
+      # is_primary_set = true
     end
 
     # just in case of empty 'parts' key in otherwise valid json
     return nil unless parts
-    build_transcript(parts, 'transcript')
+    build_transcript(parts, 'transcript', is_primary_set)
   end
 
   def self.text_parts(text)

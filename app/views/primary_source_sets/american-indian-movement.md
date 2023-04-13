@@ -24,7 +24,7 @@ In 1968, Native Americans in Minneapolis, Minnesota, launched the American India
 
 This resource set is composed completely of excerpts from public radio programs, documentaries, and interviews, which, in particular, give voice to the thoughts, experiences, and objectives of prominent members and participants of the American Indian Movement (AIM). Primarily chronological in content, this resource set gives students information about the circumstances that gave rise to AIM and provides first-hand observations about AIM protests, objectives, challenges, and accomplishments.
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
@@ -35,13 +35,13 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 What do the voices of AIM members and their supporters contribute to our understanding of how Native Americans became a minority group within the United States and how that affected their lived experience?
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 
 - What circumstances gave rise to and fueled AIM?
 - What was the role of AIM in the late 1960s and the 1970s?
@@ -49,7 +49,7 @@ What do the voices of AIM members and their supporters contribute to our underst
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 Ask students to engage in group work around specific topics, then come together to discuss.
 
