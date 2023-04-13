@@ -22,7 +22,7 @@ class TranscriptConverter
       parts = parts.select { |part| part["start_time"].to_f >= start_time && part["end_time"].to_f <= end_time }
 
       # flag to ignore 60s chunking for primary sets
-      # is_primary_set = true
+      is_primary_set = true
     end
 
     # just in case of empty 'parts' key in otherwise valid json
