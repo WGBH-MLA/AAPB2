@@ -18,10 +18,10 @@ The collection includes items from stations across Kansas, including KMUW NPR fo
 ## Featured
 
 [![Hard Questions](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-afc2b15a8d9.jpg)](/catalog/cpb-aacip-afc2b15a8d9)
-[![Eva Jessye](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_efb814ee821_01.jpg)](/catalog/cpb-aacip-1190c7f612f)
-[![Women of Wichita](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_74ce0831ede_01.jpg)](/catalog/cpb-aacip-fe0c289f2c8)
-[![Dockum Sit-In](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-24c3e7c50a4) – CHANGE THIS
-[![Nancy Finken](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip_7f8d7109887_01.jpg)](/catalog/cpb-aacip-1dbe84e44f9)
+[![Eva Jessye](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-1190c7f612f)
+[![Women of Wichita](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-fe0c289f2c8)
+[![Wichita Mayor](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-ed83aab3ec7_spec.jpg)](/catalog/cpb-aacip-ed83aab3ec7)
+[![Nancy Finken](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-1dbe84e44f9)
 [![Hispanic Experience](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-675a7aad5ed)
 
 ## Resources
