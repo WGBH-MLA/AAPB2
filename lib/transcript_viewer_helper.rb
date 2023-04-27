@@ -15,7 +15,6 @@ module TranscriptViewerHelper
 
           new_part_text += " " unless i == 0
           new_part_text += part_text.tr("\n", " ")
-          counter += 1
 
           if ready_for_next_chunk(part_end, last_part_end)
             # write a row whenever we've covered enough time
@@ -27,7 +26,6 @@ module TranscriptViewerHelper
 
             # int for next part
             new_part_text = ""
-            counter = 0
           end
         end
 
