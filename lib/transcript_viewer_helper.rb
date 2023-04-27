@@ -1,33 +1,38 @@
 module TranscriptViewerHelper
-  def build_transcript(transcript_parts, source_type, is_primary_source=false)
-    @para_counter = 1
+  CHUNK_LENGTH = 60
 
-    # make sure new_end_time is in this scope in case of < 60 case
-    new_end_time, _discard = timecode_parts(transcript_parts.first, source_type)
-    last_end_time = new_end_time
-    # initialize so we can += below
-    buffer = ''
+  def build_transcript(transcript_parts, source_type, is_primary_source=false)
+    part_end = 0
+
     Nokogiri::XML::Builder.new do |doc_root|
       doc_root.div(class: 'root') do
-        transcript_parts.each_with_index do |part, i|
-          new_end_time, text = timecode_parts(part, source_type)
-          if (new_end_time - last_end_time) > 60
-            build_transcript_row(doc_root, last_end_time, new_end_time, buffer)
-            last_end_time = new_end_time
+        last_part_end, _discard = timecode_parts(transcript_parts.first, source_type)
+        new_part_text = ""
+        final_part_end = final_end_time(transcript_parts, source_type)
 
-            # text for this step is actually first chunk of next paragraph
-            buffer = text
-            @para_counter += 1
-          else
-            buffer += ' ' unless i == 0
-            buffer += text.tr("\n", ' ')
+        transcript_parts.each_with_index do |part,i|
+          part_end, part_text = timecode_parts(part, source_type)
+
+          new_part_text += " " unless i == 0
+          new_part_text += part_text.tr("\n", " ")
+          counter += 1
+
+          if ready_for_next_chunk(part_end, last_part_end)
+            # write a row whenever we've covered enough time
+
+            build_transcript_row(doc_root, last_part_end, part_end, new_part_text)
+
+            # set new start marker
+            last_part_end = part_end
+
+            # int for next part
+            new_part_text = ""
+            counter = 0
           end
         end
 
-        # never wrote a row due to <60s, write one here
-        if @para_counter == 1
-          build_transcript_row(doc_root, last_end_time, new_end_time, buffer)
-        end
+        # write one more for the remainder!
+        build_transcript_row(doc_root, part_end, final_part_end, new_part_text)
       end
     end.doc.root.children
   end
@@ -55,5 +60,18 @@ module TranscriptViewerHelper
     when 'caption'
       return part.start_time.to_f, part.text.first
     end
+  end
+
+  def final_end_time(parts, source_type)
+    case source_type
+    when 'transcript'
+      return parts.last['end_time'].to_f
+    when 'caption'
+      return parts.last.end_time.to_f
+    end
+  end
+
+  def ready_for_next_chunk(current_end_time, previous_end_time)
+    current_end_time - previous_end_time > CHUNK_LENGTH
   end
 end

@@ -223,7 +223,7 @@
 
           <div class="col-md-6">
 
-            <% if @pbcore.transcript_html %>
+            <% if @transcript_html %>
               <div class="col-md-12 primary-source-transcript-header transcript-panel-heading">
                 <dt class="dt-left">Transcript</dt>
                 <div class="input-group input-group-sm transcript-search show-transcript-search" role="search">
@@ -258,7 +258,7 @@
                 </dl>
                 <div id="transcript" class="transcript-frame">
                   <div class="transcript transcript-content">
-                    <%= raw @pbcore.transcript_html(@primary_source_set.clip_start, @primary_source_set.clip_end) %>
+                    <%= raw @transcript_html %>
                   </div>
                 </div>
               </div>

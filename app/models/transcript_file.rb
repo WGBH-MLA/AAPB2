@@ -38,7 +38,7 @@ class TranscriptFile < ExternalFile
     nil
   end
 
-  def structured_content
+  def structured_content    
     return unless file_present?
     @structured_content ||=
       case file_type

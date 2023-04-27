@@ -5,21 +5,15 @@ require_relative 'transcript_viewer_helper'
 class TranscriptConverter
   extend TranscriptViewerHelper
 
-  def self.json_parts(json, start_time = nil, end_time = nil)
+  def self.json_parts(json, start_time = nil, end_time = nil)    
     return nil unless json && json.present?
     parsed_json = JSON.parse(json)
     parts = parsed_json['parts'] if parsed_json['parts'] && parsed_json['parts'].first
 
     if start_time && end_time
-      # pad back 10s
-      start_time -= 10
-      start_time = 0 if start_time < 0
 
-      # pad forward 10s
-      end_time += 60
-      # (pad because editor's clip times will not match the transcript chunks and this helps make sure all the target content is included)
-
-      parts = parts.select { |part| part["start_time"].to_f >= start_time && part["end_time"].to_f <= end_time }
+      # pad window a little to help grab the full transcript content
+      parts = parts.select { |part| part["start_time"].to_f >= start_time && part["end_time"].to_f <= end_time+4 }
 
       # flag to ignore 60s chunking for primary sets
       is_primary_set = true
