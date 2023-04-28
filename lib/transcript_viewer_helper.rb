@@ -1,7 +1,8 @@
 module TranscriptViewerHelper
   CHUNK_LENGTH = 60
 
-  def build_transcript(transcript_parts, source_type, is_primary_source=false)
+  def build_transcript(transcript_parts, source_type)
+    @para_counter = 1
     part_end = 0
 
     Nokogiri::XML::Builder.new do |doc_root|
@@ -13,13 +14,15 @@ module TranscriptViewerHelper
         transcript_parts.each_with_index do |part,i|
           part_end, part_text = timecode_parts(part, source_type)
 
-          new_part_text += " " unless i == 0
+          # dont add another space at the beginning of every new part
+          new_part_text += " " unless new_part_text == ""
           new_part_text += part_text.tr("\n", " ")
 
           if ready_for_next_chunk(part_end, last_part_end)
             # write a row whenever we've covered enough time
 
             build_transcript_row(doc_root, last_part_end, part_end, new_part_text)
+            @para_counter += 1
 
             # set new start marker
             last_part_end = part_end
@@ -31,6 +34,7 @@ module TranscriptViewerHelper
 
         # write one more for the remainder!
         build_transcript_row(doc_root, part_end, final_part_end, new_part_text)
+
       end
     end.doc.root.children
   end

@@ -14,14 +14,11 @@ class TranscriptConverter
 
       # pad window a little to help grab the full transcript content
       parts = parts.select { |part| part["start_time"].to_f >= start_time && part["end_time"].to_f <= end_time+4 }
-
-      # flag to ignore 60s chunking for primary sets
-      is_primary_set = true
     end
 
     # just in case of empty 'parts' key in otherwise valid json
     return nil unless parts
-    build_transcript(parts, 'transcript', is_primary_set)
+    build_transcript(parts, 'transcript')
   end
 
   def self.text_parts(text)
