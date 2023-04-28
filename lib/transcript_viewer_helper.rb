@@ -11,14 +11,18 @@ module TranscriptViewerHelper
         new_part_text = ""
         final_part_end = final_end_time(transcript_parts, source_type)
 
-        transcript_parts.each_with_index do |part,i|
+        transcript_parts.each_with_index do |part|
           part_end, part_text = timecode_parts(part, source_type)
 
           # dont add another space at the beginning of every new part
           new_part_text += " " unless new_part_text == ""
           new_part_text += part_text.tr("\n", " ")
 
+          # rubo thinks this block is for skipping a loop? it is not
+          # rubocop:disable Style/Next
           if ready_for_next_chunk(part_end, last_part_end)
+            # rubocop:enable Style/Next
+
             # write a row whenever we've covered enough time
 
             build_transcript_row(doc_root, last_part_end, part_end, new_part_text)
@@ -30,6 +34,7 @@ module TranscriptViewerHelper
             # int for next part
             new_part_text = ""
           end
+
         end
 
         # write one more for the remainder!
