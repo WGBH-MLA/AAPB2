@@ -34,12 +34,10 @@ module TranscriptViewerHelper
             # int for next part
             new_part_text = ""
           end
-
         end
 
         # write one more for the remainder!
         build_transcript_row(doc_root, part_end, final_part_end, new_part_text)
-
       end
     end.doc.root.children
   end

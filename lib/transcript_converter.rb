@@ -13,7 +13,7 @@ class TranscriptConverter
     if start_time && end_time
 
       # pad window a little to help grab the full transcript content
-      parts = parts.select { |part| part["start_time"].to_f >= start_time && part["end_time"].to_f <= end_time+4 }
+      parts = parts.select { |part| part["start_time"].to_f >= start_time && part["end_time"].to_f <= end_time + 4 }
     end
 
     # just in case of empty 'parts' key in otherwise valid json
