@@ -6,7 +6,7 @@ class TranscriptConverter
   extend TranscriptViewerHelper
 
   def self.json_parts(json, start_time = nil, end_time = nil)    
-    return nil unless json && json.present?
+    return nil unless json && !json.empty?
     parsed_json = JSON.parse(json)
     parts = parsed_json['parts'] if parsed_json['parts'] && parsed_json['parts'].first
 
