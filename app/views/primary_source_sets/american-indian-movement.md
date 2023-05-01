@@ -13,7 +13,7 @@ Brenna Wynn Greer, Wellesley College
 
 ## Subjects
 
-- Post-WWII Domestic Confidence and Unrest, 1945–1968: The Rise of Civil Rights, 1945–1965
+- Post-WWII Domestic Confidence and Unrest, 1945–1968: The Civil Rights Movement Expands
 - Conservative Resurgence and Social Change, 1964–2000: Counterculture and Social Activism
 
 ## Introduction
@@ -24,7 +24,7 @@ In 1968, Native Americans in Minneapolis, Minnesota, launched the American India
 
 This resource set is composed completely of excerpts from public radio programs, documentaries, and interviews, which, in particular, give voice to the thoughts, experiences, and objectives of prominent members and participants of the American Indian Movement (AIM). Primarily chronological in content, this resource set gives students information about the circumstances that gave rise to AIM and provides first-hand observations about AIM protests, objectives, challenges, and accomplishments.
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
@@ -35,13 +35,13 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 What do the voices of AIM members and their supporters contribute to our understanding of how Native Americans became a minority group within the United States and how that affected their lived experience?
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 
 - What circumstances gave rise to and fueled AIM?
 - What was the role of AIM in the late 1960s and the 1970s?
@@ -49,31 +49,31 @@ What do the voices of AIM members and their supporters contribute to our underst
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 Ask students to engage in group work around specific topics, then come together to discuss.
 
 1) Divide the class into four topic groups as outlined below. Ask each group to watch or listen to the sources assigned to their topic. They should take notes on their topic and prepare to share their findings with the whole class. 
 
 ##### Group 1: Origins
-- [The State of Indians in 1968](https://americanarchive.org/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
-- [Russell Means Radio Interview](https://americanarchive.org/primary_source_sets/american-indian-movement/2-224-257d81km) (1992)
-- [Interview of Vernon Bellecourt, AIM Leader](https://americanarchive.org/primary_source_sets/american-indian-movement/3-28-wh2d795w2v) (1973)
+- [The State of Indians in 1968](/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
+- [Russell Means Radio Interview](/primary_source_sets/american-indian-movement/2-224-257d81km) (1992)
+- [Interview of Vernon Bellecourt, AIM Leader](/primary_source_sets/american-indian-movement/3-28-wh2d795w2v) (1973)
 
 ##### Group 2: Sovereignty and Cultural Identity
-- [The State of Indians in 1968](https://americanarchive.org/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
-- [Survival Schools](https://americanarchive.org/primary_source_sets/american-indian-movement/9-15-8279d3bf) (1978)
-- [Native American Attitudees Toward "Columbus Day"](https://americanarchive.org/primary_source_sets/american-indian-movement/10-293-9s1kh0f775) (1992)
+- [The State of Indians in 1968](/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
+- [Survival Schools](/primary_source_sets/american-indian-movement/9-15-8279d3bf) (1978)
+- [Native American Attitudes Toward "Columbus Day"](/primary_source_sets/american-indian-movement/10-293-9s1kh0f775) (1992)
 
 ##### Group 3: Protest
-- [*Radio Free Alcatraz* Episode, Hosted by John Trudell](https://americanarchive.org/primary_source_sets/american-indian-movement/4-28-q23qv3cj2p) (1969)
-- [Pine Ridge Reservation Residents Discuss AIM](https://americanarchive.org/primary_source_sets/american-indian-movement/6-15-78gf28x2) (1973)
-- [AIM Takeover of Fairchild Camera and Instrument Corporation](https://americanarchive.org/primary_source_sets/american-indian-movement/8-207-483j9qpk) (1975)
+- [*Radio Free Alcatraz* Episode, Hosted by John Trudell](/primary_source_sets/american-indian-movement/4-28-q23qv3cj2p) (1969)
+- [Pine Ridge Reservation Residents Discuss AIM](/primary_source_sets/american-indian-movement/6-15-78gf28x2) (1973)
+- [AIM Takeover of Fairchild Camera and Instrument Corporation](/primary_source_sets/american-indian-movement/8-207-483j9qpk) (1975)
 
 ##### Group 4: Federal Perspective and Policy 
-- [The State of Indians in 1968](https://americanarchive.org/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
-- [*Radio Free Alcatraz* Episode, Hosted by John Trudell](https://americanarchive.org/primary_source_sets/american-indian-movement/4-28-q23qv3cj2p) (1969)
-- [Pine Ridge Reservation Residents Discuss AIM](https://americanarchive.org/primary_source_sets/american-indian-movement/6-15-78gf28x2) (1973)
+- [The State of Indians in 1968](/primary_source_sets/american-indian-movement/1-28-rb6vx06h40) (1968)
+- [*Radio Free Alcatraz* Episode, Hosted by John Trudell](/primary_source_sets/american-indian-movement/4-28-q23qv3cj2p) (1969)
+- [Pine Ridge Reservation Residents Discuss AIM](/primary_source_sets/american-indian-movement/6-15-78gf28x2) (1973)
 
 2)  Bring students back together and use the discussion questions below to organize and invite input from the four different groups. 
 

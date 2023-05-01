@@ -19,6 +19,8 @@ class PrimarySourceSetsController < OverrideController
       redirect_to '/' and return unless doc
       @pbcore = PBCorePresenter.new(doc['xml'])
 
+      @transcript_html = @pbcore.transcript_html(@primary_source_set.clip_start, @primary_source_set.clip_end)
+
       @captions = CaptionFile.retrieve_captions(@pbcore.id)
 
       @transcript_search_term = params['term']

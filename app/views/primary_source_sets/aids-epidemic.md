@@ -26,7 +26,7 @@ Initial outbreaks in the United States centered in communities of gay men, where
 
 These sources – drawn from documentaries, panel shows, and *The MacNeil/Lehrer NewsHour* reports that aired between 1983-1993 – illuminate numerous themes that can be productively explored in the classroom. First, they illustrate the struggles endured by people with AIDS: the physical toll of the disease, also the pain of losing loved ones, the devastating cost of medical treatments, the harms of discrimination, and the indignity of public shaming.  Second, the collection traces the contours of the controversies that roiled American society as a result of the AIDS epidemic and the questions that it prompted: Was the government spending enough on research? Were drug companies being exploitative? Should medical trials give placebos to participants? Should schools teach about condoms? Should drug addicts be given clean needles? Were confrontational AIDS activists justified in causing disruption to call public attention to the disease?  The sources in this discussion set allow students to explore these issues and relate them to broader ideological debates in American society.
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
@@ -37,13 +37,13 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question
 
 What social and political challenges and debates emerged as Americans grappled with the AIDS crisis?
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 
 - What were some of the challenges faced by people with AIDS?
 - One might think that victims of a novel, deadly disease would receive widespread public sympathy.  While many Americans did express compassion for people with AIDS, a large number of Americans treated AIDS patients with fear, prejudice, and even condemnation.  Why did people with AIDS sometimes receive this less sympathetic treatment?
@@ -52,13 +52,13 @@ What social and political challenges and debates emerged as Americans grappled w
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 1) You might only have time for a brief treatment of the AIDS crisis in a survey course.  If so, you could identify one or two clips from this set to show your class and follow with some discussion questions. For example:
 
-Show [“Screaming, Yelling, Making a Fuss”: ACT UP Grabs America’s Attention (1990)](https://americanarchive.org/primary_source_sets/AIDS-epidemic/8-507-3b5w669q4c) and ask students to identify the organization’s goals and strategies.  Students could also discuss whether they think the confrontational tactics would have been effective in achieving the group’s goals.
+Show [“Screaming, Yelling, Making a Fuss”: ACT UP Grabs America’s Attention (1990)](https://americanarchive.org/primary_source_sets/aids-epidemic/8-507-3b5w669q4c) and ask students to identify the organization’s goals and strategies.  Students could also discuss whether they think the confrontational tactics would have been effective in achieving the group’s goals.
 
-Show [The AIDS Crisis and the Gay Rights Backlash in Houston (1991)](https://americanarchive.org/primary_source_sets/AIDS-epidemic/5-507-k35m902w8g) and use it as an opportunity to discuss the impact of the AIDS crisis on the Gay Rights Movement.  In what ways did the crisis mark a setback for the Gay Rights Movement? But at the same time, how might the AIDS crisis have had a galvanizing effect on gay political mobilization? 
+Show [The AIDS Crisis and the Gay Rights Backlash in Houston (1991)](https://americanarchive.org/primary_source_sets/aids-epidemic/5-507-k35m902w8g) and use it as an opportunity to discuss the impact of the AIDS crisis on the Gay Rights Movement.  In what ways did the crisis mark a setback for the Gay Rights Movement? But at the same time, how might the AIDS crisis have had a galvanizing effect on gay political mobilization? 
 
 For many other clips in this collection, students could analyze the different “sides” of an AIDS-related disagreement and try to relate these conflicts to broader political themes and trends from the period as well as from more recent history.
 
@@ -71,30 +71,31 @@ Split students into five groups and assign specific clips to each group.
 **Group A**
 
 Two clips about the human impact of the AIDS epidemic:
-- [Bobby Reynolds Describes Living With AIDS](https://americanarchive.org/primary_source_sets/AIDS-epidemic/1-55-nv9959cq86) (1986)
-- [A Gay Men’s Chorus Experiences Loss, Grief, and Anger](https://americanarchive.org/primary_source_sets/AIDS-epidemic/2-2809ed5491c) (1993)
+- [Bobby Reynolds Describes Living With AIDS](https://americanarchive.org/primary_source_sets/aids-epidemic/1-55-nv9959cq86) (1986)
+- [A Gay Men’s Chorus Experiences Loss, Grief, and Anger](https://americanarchive.org/primary_source_sets/aids-epidemic/2-2809ed5491c) (1993)
 
 **Group B**
 
 Two clips about conservative backlash in response to the AIDS epidemic:
-- [Cultural Conservatives Relate AIDS Crisis to “Immoral” Behavior](https://americanarchive.org/primary_source_sets/AIDS-epidemic/4-526-2z12n50j78) (1983)
-- [The AIDS Crisis and the Gay Rights Backlash in Houston](https://americanarchive.org/primary_source_sets/AIDS-epidemic/5-507-k35m902w8g) (1991)
+- [Cultural Conservatives Relate AIDS Crisis to “Immoral” Behavior](https://americanarchive.org/primary_source_sets/aids-epidemic/4-526-2z12n50j78) (1983)
+- [The AIDS Crisis and the Gay Rights Backlash in Houston](https://americanarchive.org/primary_source_sets/aids-epidemic/5-507-k35m902w8g) (1991)
 
 **Group C**
 
 A clip about the activist group, ACT UP: 
-- [“Screaming, Yelling, Making a Fuss”: ACT UP Grabs America’s Attention](https://americanarchive.org/primary_source_sets/AIDS-epidemic/8-507-3b5w669q4c) (1990)
+- [“Screaming, Yelling, Making a Fuss”: ACT UP Grabs America’s Attention](https://americanarchive.org/primary_source_sets/aids-epidemic/8-507-3b5w669q4c) (1990)
 
 **Group D**
 
 Two clips about debates over experimental treatments:
-- [Surviving but Going Broke: The Affordability of AIDS Treatments](https://americanarchive.org/primary_source_sets/AIDS-epidemic/3-507-0g3gx45878) (1989)
-- [Balancing Scientific Rigor and Humanitarian Concerns in Medical Trials](https://americanarchive.org/primary_source_sets/AIDS-epidemic/7-55-x05x63bn51) (1989)
+- [Surviving but Going Broke: The Affordability of AIDS Treatments](https://americanarchive.org/primary_source_sets/aids-epidemic/3-507-0g3gx45878) (1989)
+- [Balancing Scientific Rigor and Humanitarian Concerns in Medical Trials](https://americanarchive.org/primary_source_sets/aids-epidemic/7-55-x05x63bn51) (1989)
 
 **Group E**
+
 Two clips focusing on the impact of AIDS in lower-income Black communities:
-- [There Are No “High Risk Groups…Only High Risk Activities”](https://americanarchive.org/primary_source_sets/AIDS-epidemic/9-293-816m97kw) (1988)
-- [Black Community Organizations Tackle the AIDS Crisis](https://americanarchive.org/primary_source_sets/AIDS-epidemic/10-394-6663z5sj) (1989)
+- [There Are No “High Risk Groups…Only High Risk Activities”](https://americanarchive.org/primary_source_sets/aids-epidemic/9-293-816m97kw) (1988)
+- [Black Community Organizations Tackle the AIDS Crisis](https://americanarchive.org/primary_source_sets/aids-epidemic/10-394-6663z5sj) (1989)
 
 Each of these “expert groups” watches their assigned clips (in class or for pre-work) and discusses teacher-assigned questions about the clips.
 
@@ -113,11 +114,11 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Epide
 
 ## Additionalresources
 
-- [**How to Survive a Plague**](https://surviveaplague.com/see-the-doc),Official Documentary Website
-- [**The Age of AIDS**](https://www.pbs.org/video/frontline-age-aids-part-i/),Frontline
-- [**Interactive AIDS Quilt**](https://www.aidsmemorial.org/interactive-aids-quilt),National AIDS Memorial
-- [**AIDS Crisis Lesson Materials**](https://sheg.stanford.edu/history-lessons/aids-crisis),Stanford History Education Group
-- [**Stop the Church: Issues and Outrage**](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f),American Archive of Public Broadcasting
+- [**How to Survive a Plague**](https://surviveaplague.com/see-the-doc), Official Documentary Website
+- [**The Age of AIDS**](https://www.pbs.org/video/frontline-age-aids-part-i/), Frontline
+- [**Interactive AIDS Quilt**](https://www.aidsmemorial.org/interactive-aids-quilt), National AIDS Memorial
+- [**AIDS Crisis Lesson Materials**](https://sheg.stanford.edu/history-lessons/aids-crisis), Stanford History Education Group
+- [**Stop the Church: Issues and Outrage**](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f), American Archive of Public Broadcasting
 
 ## Youmayalsolike
 - special_collection,ucla-inthelife
@@ -125,7 +126,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Epide
 
 ## Citation
 
-Leff, Ben. "The AIDS Crisis, 1981-1993." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/AIDS-epidemic.
+Leff, Ben. "The AIDS Crisis, 1981-1993." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/aids-epidemic.
 
 ## Guid
 ## Cliptime

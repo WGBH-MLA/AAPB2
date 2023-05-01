@@ -26,7 +26,7 @@ During the 1960s, protest movements proliferated in high schools and college cam
 
 This source set includes a series of audio and video clips detailing various aspects of the protest movements that roiled college campuses and high schools during the 1960s. The sources provide opportunities to explore what motivated protestors, how students sought to effect change, and the interconnections between movements. These suggested activities ask students to consider relationships among different sources.
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should be familiar with the following: 
 
@@ -36,13 +36,13 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 Why did students protest in the 1960s? 
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 
 - What did students protest against? 
 - How were the protest movements related? 
@@ -52,7 +52,7 @@ Why did students protest in the 1960s?
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 1) Ask students to watch/listen to the following sources:
 
@@ -82,13 +82,13 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Student-Pr
 - [**Two Days in October**](https://www.pbs.org/wgbh/americanexperience/films/two-days-in-october/), *American Experience*
 - [**Civil Rights and Campus Protest Collection**](https://calisphere.org/collections/19264/), Calisphere
 - [**1968: A Time of Change | Interactive Lesson**](https://mass.pbslearningmedia.org/resource/clw-soc-ush-1968/1968-time-of-change/), PBS LearningMedia
-- [**Diary of a Student Revolution**](https://americanarchive.org/catalog/cpb-aacip_75-558czg1g), *NET Journal*, AAPB
-- [**To Calm a Troubled Campus**](https://americanarchive.org/catalog/cpb-aacip_75-43nvx4g1), *NET Journal*, AAPB
-- [**Color Us Black! Part 1**](https://americanarchive.org/catalog/cpb-aacip-512-f47gq6rz2w), *NET Journal*, AAPB
-- [**Color Us Black! Part 2**](https://americanarchive.org/catalog/cpb-aacip-75-60cvf2cz), *NET Journal*, AAPB
-- [**The Frustrated Campus**](https://americanarchive.org/catalog/cpb-aacip-516-r20rr1qp0h), *Public Broadcast Laboratory*, AAPB
-- [**University in Society: Do the Ties Bind?**](https://americanarchive.org/catalog/cpb-aacip_516-g44hm53h63), *Public Broadcast Laboratory*, AAPB
-- [**Black Power on University Campuses**](https://americanarchive.org/catalog/cpb-aacip_15-99p2w600), *Say Brother*, AAPB
+- [**Diary of a Student Revolution**](/catalog/cpb-aacip_75-558czg1g), AAPB
+- [**To Calm a Troubled Campus**](/catalog/cpb-aacip_75-43nvx4g1), AAPB
+- [**Color Us Black! Part 1**](/catalog/cpb-aacip-512-f47gq6rz2w), AAPB
+- [**Color Us Black! Part 2**](/catalog/cpb-aacip-75-60cvf2cz), AAPB
+- [**The Frustrated Campus**](/catalog/cpb-aacip-516-r20rr1qp0h), AAPB
+- [**University in Society: Do the Ties Bind?**](/catalog/cpb-aacip_516-g44hm53h63), AAPB
+- [**Black Power on University Campuses**](/catalog/cpb-aacip_15-99p2w600), AAPB
 
 ## Youmayalsolike
 - exhibit,first-amendment

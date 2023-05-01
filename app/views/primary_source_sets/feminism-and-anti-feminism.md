@@ -24,7 +24,7 @@ The rise of women’s liberation and women’s rights in the 1960s focused on th
 
 In this eight-resource set, students will encounter the evolution of feminist and anti-feminist movements in the second half of the 20th century. Starting in the 1960s, students will see the ways in which women began to emerge on the political scene, both in positions of political power and as advocates for legislation. But as the movement continued, the role of women in the public sphere, the role of government in determining rights for women, as well as who was included in the movement created a hotly contested battleground, culminating in the fight over the ratification of the Equal Rights Amendment.
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
@@ -38,13 +38,13 @@ Before engaging with this resource set, students should be familiar with the fol
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 How did the rise of women’s liberation and women’s rights movements in the 1960s shape the role of women in public life?
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 - To what extent have women needed to be responsible for seeking opportunities for themselves, and to what extent did the federal government need to create those opportunities for women? 
 - How did the rise of feminist and anti-feminist grassroots organizations help shape the conversation around the federal government’s role in defining gender equality in the public sphere?
 - How did Black women experience second-wave feminism differently from their white counterparts?
@@ -53,7 +53,7 @@ How did the rise of women’s liberation and women’s rights movements in the 1
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 - Listen to [Representative Shirley Chisholm’s commencement speech](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/5-305-82x3fpr6) at Mount Holyoke and [Betty Friedan’s commencement address](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/6-305-82x3fpr6) at Smith College, both in 1981. Considering that both women fought for gender equality, their speeches take on noticeably different tones. What did each woman say in her speech, and what different tactics did they employ? What might account for that? 
 - In the two discussions about the Equal Rights Amendment, what arguments are made in support of the ERA](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/7-81-49t1g6j5) and what arguments are made [in opposition to the ERA](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/8-81-021c5bwq)? What differences do you notice between the ways in which Anne Scott and Karen DeCrow construct their arguments and how Phyllis Schlafly and Geline B. Williams construct theirs? Which arguments do you find to be more direct and clear and why? Which arguments do you find to be more persuasive? Why might that be?
