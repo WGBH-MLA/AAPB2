@@ -69,7 +69,7 @@ Ask students to engage in group work around specific topics, then come together 
 ##### Group 2: Nonviolence and Black Power
 - [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
 - [Stokely Carmichael Discusses Organizing and Voting](https://americanarchive.org/primary_source_sets/black-power/1-28-zw18k75h85) (1966)
-- [Activist James Bevel Promotes Nonviolence](https://americanarchive.org/primary_source_sets/black-power/2-6688g8fs31) (1966)
+- [Activist James Bevel Promotes Nonviolence](https://americanarchive.org/primary_source_sets/black-power/2-28-6688g8fs31) (1966)
 
 ##### Group 3: Black Panther Party for Self Defense 
 - [Radio broadcast of Bobby Seale at “Free Huey Newton” Rally](https://americanarchive.org/primary_source_sets/black-power/5-28-q52f766p51) (1968)

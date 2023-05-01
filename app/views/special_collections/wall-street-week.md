@@ -26,8 +26,8 @@ W$W examined the economic news from the US and abroad and looked at changes, cha
 ## Resources
 
 - [Maryland Public Television](https://www.mpt.org/)
-- [<em>Wall $treet Week with Louis Rukeyser</em> at the University of Maryland](https://digital.lib.umd.edu/resultsnew?query=Wall+Street+Week)
-- [“Made Possible by Viewers Like You: Maryland Public Television Turns 50” University of Maryland Online Exhibit](https://exhibitions.lib.umd.edu/mpt-turns-50/mpt-programming/consumer)
+- [<em>Wall $treet Week with Louis Rukeyser</em> at the University of Maryland](https://av.lib.umd.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q=wall+street+week)
+- [“Made Possible by Viewers Like You: Maryland Public Television Turns 50” University of Maryland Online Exhibit](https://www.lib.umd.edu/mpt-turns-50/mpt-programming/consumer)
 - [Maryland Public Television Records Collection, Finding Aid, University of Maryland](https://archives.lib.umd.edu/repositories/2/resources/501)
 - [<em>Wall $treet Week</em>, Bloomberg](https://www.bloomberg.com/series/wall-street-week)
 - ["Bloomberg Will Revive ‘Wall Street Week,’" Variety](https://variety.com/2020/tv/news/bloomberg-wall-street-week-david-westin-1203462740/)
