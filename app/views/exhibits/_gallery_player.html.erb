@@ -16,7 +16,7 @@
                     :"data-setup" => '{}',
                     poster: media_info[:thumb_src]) do %>
 
-          <source src="<%= media_info[:url] %>" type='<%= media_info[:type] == 'video' ? 'application/x-mpegURL' : 'audio/mp3' %>' />
+          <source src="<%= media_info[:url] %>" type='<%= media_info[:type] == 'video' ? 'video/mp4' : 'audio/mp3' %>' />
 
           <% if false %>
             <% if @pbcore.captions_src %>
