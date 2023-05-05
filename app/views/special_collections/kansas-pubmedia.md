@@ -41,7 +41,7 @@ The collection includes items from stations across Kansas, including KMUW NPR fo
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions.
+Records are described at an item level and all records contain brief descriptions. 
 
 ## Sort
 
