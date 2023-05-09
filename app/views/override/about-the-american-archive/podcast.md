@@ -7,7 +7,7 @@ In collaboration with the <a href="https://www.cmstudies.org/">Society for Cinem
 ### Episode 09: Interview with Judy Woodruff and Annette Miller on the *PBS NewsHour*
 May 10, 2022
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LTgfR1XbWsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LTgfR1XbWsw?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The ninth episode of “Presenting the Past” features Judy Woodruff, anchor and managing editor of the *PBS NewsHour*, and Annette Miller, former Vice President of NewsHour Productions. The *PBS NewsHour* Collection in the AAPB includes nearly 15,000 episodes from October 1975 to September 2019, including two half-hour predecessor programs, *The Robert MacNeil Report* (1975-1976) and *The MacNeil/Lehrer Report* (1976 – 1983), and the two hour-long series that followed, *The MacNeil/Lehrer NewsHour* (1983 – 1995) and *The NewsHour with Jim Lehrer* (1995 – 2009), in addition to the *PBS NewsHour* (2009 - 2019). The programs originally aired nationwide on public television stations, five nights a week; starting in 2013, the series added weekend news coverage. Covering national and worldwide news and public affairs, the programs feature interviews with leading newsmakers including presidents, Supreme Court justices, members of Congress, secretaries of state, and world leaders, in addition to coverage of issues in the news related to education, economics, science, health, and cultural affairs. Funding for the digitization of the collection was generously provided by the Council on Library and Information Resources.
 
@@ -34,7 +34,7 @@ Transcription by Caroline Mango<br>
 ### Episode 08: *In Black America* with John L. Hanson, Jr.
 April 7, 2022
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fhSWs4xV_W4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhSWs4xV_W4?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The eighth episode of “Presenting the Past” features John L. Hanson, Jr., producer and host since 1980 of the nationally syndicated radio and podcast interview series *In Black America* at KUT Radio in Austin, Texas. In 2019, KUT received a Recordings at Risk grant from the Council on Library and Information Resources (CLIR) to digitize, preserve and make available in the AAPB 745 episodes of the series. *In Black America*, which began in 1970 and continues to be broadcast weekly, features hundreds of interviews with influential members of the black community in conversation about issues and topics pertaining to Black America, including education, style, economics, social issues, families, culture, literature, and politics. In this episode, Hanson talks about his long career in radio and his work as producer and host of the series.
 
@@ -65,7 +65,7 @@ Post-production and theme music by Todd Thompson<br>
 ### Episode 07: Documentary Filmmaking with Jean Walkinshaw
 February 1, 2022
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NgvP-rE-AMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NgvP-rE-AMI?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The seventh episode of “Presenting the Past” features Jean Walkinshaw, an award-winning documentarian and producer in the Pacific Northwest for over 50 years. In 2021, Walkinshaw contributed 44 public television documentaries and full interviews conducted for the documentaries to the American Archive of Public Broadcasting (AAPB).  [The Jean Walkinshaw Collection](/special_collections/jean-walkinshaw), accessible online, covers much of Walkinshaw’s lengthy career spanning the years 1972-2008. Her documentaries focused primarily on notable artists, writers, and social, cultural and ecological themes of the Pacific Northwest region.
 
@@ -106,7 +106,7 @@ Post-production and theme music by Todd Thompson<br>
 ### Episode 06: National Public Radio with Bill Siemering
 Jan 11, 2022
 
-<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/55sif9InUmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/55sif9InUmk?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The sixth episode of “Presenting the Past” features Bill Siemering, a radio innovator and advocate, who was inducted into the Radio Hall of Fame in October 2021. As a founding member of the NPR Board of Directors, Siemering wrote NPR's original mission and goals, and as NPR’s first director of programming, led the development of <i>All Things Considered</i>. Siemering developed <i>Fresh Air with Terry Gross</i> at WHYY in Philadelphia, managed WBFO in Buffalo, NY, and KCCM in Moorhead, MN, was the executive producer of the documentary series <i>Sound Print</i>, worked with the Open Society Foundation, focusing on Eastern Europe, Africa and Mongolia, and founded Developing Radio Partners to enrich the programming of local stations in Africa. In this discussion, he reflects on the influences that helped shape his ideas and approaches to public radio programming throughout his career.
 
@@ -138,10 +138,10 @@ Post-production and theme music by Todd Thompson<br>
 Nov 23, 2021
 
 #### Part 1 featuring Dolores Inés Casillas, Jesús Treviño, and Gabriela Rivera Marín
-<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/opzsGzaizHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="margin-bottom: 1em;" width="560" height="315" src="https://www.youtube.com/embed/opzsGzaizHU?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Part 2 featuring Hugo Morales
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XtnRtG7p3yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XtnRtG7p3yo?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The fifth episode of “Presenting the Past” explores the history of Spanish language public radio and television programming and its roots in community activism. The discussion features activists <b>Hugo Morales</b>, Executive Director and co-founder of <i>Radio Bilingüe Inc.</i>, and <b>Jesús Treviño</b>, television director, author and creator of Latinopia.com, along with scholars <b>Dolores Inés Casillas</b>, Professor of Chicana and Chicano Studies and Director of the Chicano Studies Institute at the University of California, Santa Barbara, and <b>Gabriela Rivera Marín</b>, a doctoral student at the University of Florida studying Hispanic Linguistics and co-curator of the AAPB <a href=/exhibits/latino-empowerment><i>Latino Empowerment through Public Broadcasting</i></a> exhibit.
 
@@ -186,7 +186,7 @@ Post-production and theme music by Todd Thompson<br>
 ### Episode 04: Broadcasting in the Public Interest with Newton Minow, former Chair of the Federal Communications Commission (FCC)
 Sept 14, 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_s52umVYe20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_s52umVYe20?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The fourth episode of “Presenting the Past'' features Newton Minow, Chairman of the Federal Communications Commission (FCC) under President John F. Kennedy from 1961 until 1963. Minow would become a key figure in the establishment of public broadcasting in the U.S., and in this conversation, he reflects on his early vision for public service television. 
 
@@ -267,7 +267,7 @@ For more context to the topics discussed in this episode, explore relevant conte
 ### Episode 03: Indigenous Public Media with Shirley Sneve, Vice President of Broadcasting for <i>Indian Country Today</i>
 Aug 10, 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ub15WzhtURQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ub15WzhtURQ?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 In the third episode of "Presenting the Past," Shirley Sneve, Vice President of Broadcasting for <i>Indian Country Today</i>, reflects on her work with <i>Indian Country Today</i>, Vision Maker Media (VMM), and archiving with the AAPB. Sneve also comments on the history of Native American public broadcasting and presents excerpts from a few of the documentaries that VMM has supported that present a diversity of perspectives on traditional and contemporary Native American culture.
 
@@ -314,9 +314,9 @@ Post-production and theme music by Todd Thompson<br>
 ### Episode 02: <i>On the Right: NET and Modern Conservatism</i> with Allison Perlman, PhD
 June 8, 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97GWDykhiaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97GWDykhiaE?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the second episode of "Presenting the Past," Allison Perlman, assistant professor in the departments of film and media studies and history at the University of California, Irvine, compares two National Educational Television (NET) programs created to educate the audiences on the modern Conservatism party in the 1960s. Perlman also provides background on NET, the predecessor of Public Broadcasting Service (PBS) leading up to the Public Broadcasting Act of 1967.
+In the second episode of "Presenting the Past," Allison Perlman, assistant professor in the departments of film and media studies and history at the University of California, Irvine, compares two National Educational Television (NET) programs created to educate the audiences on the modern conservatism in the 1960s. Perlman also provides background on NET, the predecessor of Public Broadcasting Service (PBS) leading up to the Public Broadcasting Act of 1967.
 
 <i>Content warning: this archival content contains descriptions of violence and racial slurs.</i>
 
@@ -345,7 +345,7 @@ Post-production and theme music by Todd Thompson<br>
 ### Episode 01: <i>Eyes on the Prize</i> with Michelle Kelley, PhD
 May 10, 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_vs0fCp9d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_vs0fCp9d8?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the first episode of “Presenting the Past,” film scholar Michelle Kelley highlights a collection of 127 unedited interviews conducted for the landmark PBS documentary series <i>Eyes on the Prize: America's Civil Rights Years, 1954–1965</i>, first broadcast in January 1987. Kelley provides context to the making of the series and explores examples of interviews that give different, yet valuable, perspectives on the civil rights movement than the one presented in the final cut of the series.
 

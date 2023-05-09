@@ -43,6 +43,7 @@ class CatalogController < ApplicationController
 
     # items to show per page, each number in the array represent another option to choose from.
     # config.per_page = [10, 20, 50, 100]
+    config.default_per_page = 20
 
     ## Default parameters to send on single-document requests to Solr.
     ## These settings are the Blackligt defaults (see SolrHelper#solr_doc_params) or
@@ -194,7 +195,7 @@ class CatalogController < ApplicationController
 
     # pull this out because we're going to mutate it inside terms_array method
     @query = params[:q].dup
-    @terms_array = query_to_terms_array(@query)
+    @terms_array = QueryToTermsArray.new(@query).terms_array
 
     if !params[:f] || !params[:f][:access_types]
       # Sets Access Level
@@ -205,7 +206,7 @@ class CatalogController < ApplicationController
 
     # check whether we have enough search results to get to the page specified, if not, go to page 1
     if params[:page] && params[:page].to_i > 1
-      per_page = params[:per_page] ? params[:per_page].to_i : 10
+      per_page = params[:per_page] ? params[:per_page].to_i : 20
 
       # ensure we have enough records to fill to previous page + 1
       page = params[:page].to_i - 1
@@ -236,8 +237,8 @@ class CatalogController < ApplicationController
   def show
     # From BlacklightGUIDFetcher
     @response, @document = fetch_from_solr(params['id'])
-    # we have to rescue from this in fetch_from_solr to run through all guid permutations, so throw it here if we didnt find anything
-    raise Blacklight::Exceptions::RecordNotFound unless @document
+    # If we didn't end up getting a @document, 404
+    raise ActionController::RoutingError.new('Not Found') unless @document
 
     xml = @document['xml']
     respond_to do |format|
@@ -253,10 +254,14 @@ class CatalogController < ApplicationController
           @available_and_playable = !@pbcore.media_srcs.empty? && @pbcore.outside_urls.empty?
 
           if redirect_to_proxy_start_time?(@pbcore, params)
-            # rubocop:disable Style/AndOr
-            # && in place of 'and' does not work
             redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
-            # rubocop:enable Style/AndOr
+          elsif params["start"] && params["end"] && @pbcore.media_type != "other"
+            # media type: 'other' records can exist, but they shouldnt have media, so no segmenter
+
+            media_type_verb = @pbcore.media_type == "Moving Image" ? "view" : "listen to"
+
+            # proxy start time takes precendence, this is for 'share a segment'
+            @clip_message = %(This is a segment of a longer program (#{ seconds_to_hms(params['start']) }-#{ seconds_to_hms(params['end']) }). <a href="/catalog/#{ @pbcore.id }">Click here to #{ media_type_verb } full-length item.</a>)
           end
         end
 
@@ -285,8 +290,7 @@ class CatalogController < ApplicationController
   private
 
   def redirect_to_proxy_start_time?(pbcore, params)
-    return true if pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
-    false
+    pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
   end
 
   def media_start_time?(params)

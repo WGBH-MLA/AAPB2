@@ -47,7 +47,7 @@ In addition, the NET programs provide a complex view into how public media tried
 
 ### AAPB Podcast
 
-In an episode of AAPB’s ["Presenting the Past"](https://americanarchive.org/about-the-american-archive/podcast) podcast series, produced in collaboration with the Society for Cinema and Media Studies’ Aca-Media podcast, exhibit curator Allison Perlman discusses NET programs created to educate the audience on the modern Conservatism party in the 1960s. Perlman also provides background on NET, leading up to the Public Broadcasting Act of 1967.
+In an episode of AAPB’s ["Presenting the Past"](https://americanarchive.org/about-the-american-archive/podcast) podcast series, produced in collaboration with the Society for Cinema and Media Studies’ Aca-Media podcast, exhibit curator Allison Perlman discusses NET programs created to educate the audience on modern conservatism in the 1960s. Perlman also provides background on NET, leading up to the Public Broadcasting Act of 1967.
 
 *Content warning: this archival content contains descriptions of violence and racial slurs.*
 

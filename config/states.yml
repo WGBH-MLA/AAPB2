@@ -154,3 +154,6 @@
 
 - state: Guam
   abbreviation: GU
+ 
+- state: American Samoa
+  abbreviation: AS

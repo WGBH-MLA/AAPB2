@@ -1,0 +1,29 @@
+<% if !cookies['newsletter'] && request.path.exclude?("newsletter") %>
+  <div class="modal fade" id="newsletter-modal" tabindex="-1" role="dialog" aria-labelledby="newsletter-modal-title" data-backdrop="static">
+    <div class="modal-dialog" role="document">
+      <div class="newsletter-modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title" id="newsletter-modal-title">Sign up for the AAPB newsletter! <button id="newsletter-close" type="button" class="btn-close" data-dismiss="modal" aria-label="Close">X</button></h4>
+
+        </div>
+        <div class="modal-body">
+          <p>
+            Stay up to date on new exhibits, special collections, projects, and more.
+          </p>
+
+          <p>
+            <a href="/about-the-american-archive/newsletter">Click here to subscribe.</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    document.cookie = 'newsletter=y;max-age=15770000'
+    document.getElementById("newsletter-modal").onClick = function(e){
+
+    }
+  </script>
+
+<% end %>

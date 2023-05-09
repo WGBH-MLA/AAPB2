@@ -51,9 +51,7 @@ for all equipment necessary to access the Site.
 ## B. Restrictions on Use of Site and Content
 
 1. You must be at least eighteen (18) years of age or an emancipated minor
-to register for the Site; to submit any User Generated Content (defined below)
-or personally identifying information on or through the Site; or to make a
-donation through the Site. If you are under 13 years of age, please do not send
+to make a donation through the Site. If you are under 13 years of age, please do not send
 any information about yourself, including your name, address or email address.
 If we discover that we have collected any personally identifying information
 from a child under the age of 13, we will remove that information from our

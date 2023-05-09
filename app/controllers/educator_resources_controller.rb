@@ -1,2 +1,0 @@
-class EducatorResourcesController < ApplicationController
-end

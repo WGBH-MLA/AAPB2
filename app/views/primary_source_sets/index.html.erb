@@ -1,0 +1,47 @@
+<div class="primary-source-header">
+  <h1><%=
+    # "title || @page_title" doesn't work
+    if defined? title
+      title
+    else
+      @page_title
+    end %></h1>
+</div>
+
+<div class="row">
+  <div class="region clearfix">
+
+    <!-- START: Main Column -->
+    <div class="col-md-12">
+      <div class="row">
+        <div class="col-md-12 gallery-intro">
+          <p>
+            Leveraging the valuable digital media in the American Archive of Public Broadcasting, these Multimedia Primary Source Discussion Sets have been curated to support educators teaching topics in US History. They are intended for broad use in educational settings. By engaging with these digital resources, students will have the opportunity to observe connections between past and present-day events, grow in their understanding of multiple perspectives when considering present-day challenges, and exercise media literacy skills by examining sources for clues about the historical moment in which they were produced. These Multimedia Primary Source Discussion Sets were made possible by a grant from the Institute of Museum and Library Services [<a href="https://www.imls.gov/grants/awarded/lg-250155-ols-21">LG-250155-OLS-21</a>].
+          </p>
+
+          <p class="primary-source-advisory">Content Advisory</p>
+          <p>
+            The archival materials featured in these sets may reference content that could be sensitive for some audiences. It is recommended that teachers and faculty preview these media sources to determine their appropriateness before sharing with students.
+          </p>
+        </div>
+      </div>
+      <div class="row gallery-index" id="documents">
+        <% @all_resource_sets.each do |resource| %>
+          <div class="gallery col-xs-12 col-sm-6 col-md-4">
+            <div class="primary-source-thumbnail">
+              <a style="color: #000; font-weight: bold; text-align: center;" href="/primary_source_sets/<%= resource.path %>">
+                <img src="<%= resource.thumbnail_url %>" alt="<%= resource.title %>" aria-hidden="true">
+                <div style="min-height: 1.2em;" class="primary-source-colorband"></div>
+                <div class="primary-source-index-title">
+                  <%= resource.title %>
+                </div>
+              </a>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    </div>
+    <!-- END: Main Column -->
+
+  </div>
+</div>

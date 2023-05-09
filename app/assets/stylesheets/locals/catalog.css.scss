@@ -38,6 +38,39 @@
   outline: 0;
 }
 
+#rules-modal {
+  p {
+    text-align: left
+    }
+}
+
+.newsletter-modal-content {
+	text-align: center;
+  margin-top: 20vh;
+  min-height: 20vh !important;
+  position: relative;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 6px;
+  -webkit-box-shadow: 0 3px 9px rgba(0,0,0,0.5);
+  box-shadow: 0 3px 9px rgba(0,0,0,0.5);
+  background-clip: padding-box;
+  outline: 0;
+}
+
+
+#newsletter-modal .btn-close {
+	position: relative;
+	top: 6px;
+	float: right;
+	font-size: 18px;
+	vertical-align: middle;
+}
+
+#newsletter-modal #newsletter-modal-title {
+	font-size: 1.68em;
+}
+
 .catalog-title {
 	text-align: right;
 	padding: 12px 0;

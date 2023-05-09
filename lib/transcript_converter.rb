@@ -5,10 +5,17 @@ require_relative 'transcript_viewer_helper'
 class TranscriptConverter
   extend TranscriptViewerHelper
 
-  def self.json_parts(json)
-    return nil unless json && json.present?
+  def self.json_parts(json, start_time = nil, end_time = nil)
+    return nil unless json && !json.empty?
     parsed_json = JSON.parse(json)
     parts = parsed_json['parts'] if parsed_json['parts'] && parsed_json['parts'].first
+
+    if start_time && end_time
+
+      # pad window a little to help grab the full transcript content
+      parts = parts.select { |part| part["start_time"].to_f >= start_time && part["end_time"].to_f <= end_time + 4 }
+    end
+
     # just in case of empty 'parts' key in otherwise valid json
     return nil unless parts
     build_transcript(parts, 'transcript')
