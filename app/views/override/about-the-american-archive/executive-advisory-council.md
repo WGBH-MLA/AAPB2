@@ -224,19 +224,17 @@ In 1995, Deanna was appointed president of the Council on Library Resources and 
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Newton_Minow.jpg" alt="Newton Minow" aria-hidden="true"/>
 ### Newton Minow
-Newton N. Minow is Senior Counsel to the law firm of Sidley Austin LLP.  He was a partner with Sidley & Austin from 1965–1991.
+Newton N. Minow (1926-2023) was born and raised in Milwaukee, Wisconsin.  He served as a U.S. Army Sergeant in the China-Burma India Theater in World War II.  He was a graduate of Northwestern University, and has been awarded 14 honorary degrees, including Brandeis University, the University of Wisconsin, Northwestern University and the University of Notre Dame.
 
-Mr. Minow was born and raised in Milwaukee, Wisconsin.  He served as a U.S. Army Sergeant in the China-Burma India Theater in World War II.  He is a graduate of Northwestern University, and has been awarded 14 honorary degrees, including Brandeis University, the University of Wisconsin, Northwestern University and the University of Notre Dame.
+His career included service as Law Clerk to Chief Justice Fred M. Vinson of the U.S. Supreme Court and as Assistant Counsel to Governor Adlai E. Stevenson.  He was a partner in the law firm of Stevenson, Rifkind & Wirtz when, in 1961, President John F. Kennedy appointed him Chairman of the Federal Communications Commission.  He served in the Kennedy Administration until 1963 when he became Executive Vice President and General Counsel of Encyclopaedia Britannica, Inc.  In 1965, he joined the law firm of Leibman, Williams, Bennett, Baird & Minow, which merged with Sidley & Austin in 1972.  Sidley & Austin merged with Brown & Wood in 2001. He served as Senior Counsel to the law firm of Sidley Austin LLP until his passing.
 
-His career includes service as Law Clerk to Chief Justice Fred M. Vinson of the U.S. Supreme Court and as Assistant Counsel to Governor Adlai E. Stevenson.  He was a partner in the law firm of Stevenson, Rifkind & Wirtz when, in 1961, President John F. Kennedy appointed him Chairman of the Federal Communications Commission.  He served in the Kennedy Administration until 1963 when he became Executive Vice President and General Counsel of Encyclopaedia Britannica, Inc.  In 1965, he joined the law firm of Leibman, Williams, Bennett, Baird & Minow, which merged with Sidley & Austin in 1972.  Sidley & Austin merged with Brown & Wood in 2001.
+Mr. Minow was a director of many companies including Aon Corporation, CBS, Sara Lee Corporation, Foote, Cone & Belding, Manpower Inc. and the Tribune Company.
 
-Mr. Minow has been a director of many companies including Aon Corporation, CBS, Sara Lee Corporation, Foote, Cone & Belding, Manpower Inc. and the Tribune Company.
+In addition, he was a chairman of The RAND Corporation, trustee emeritus of the Mayo Clinic, a life trustee of Northwestern University and the University of Notre Dame, a former trustee and chairman of the Carnegie Corporation, and former Chairman of PBS (Public Broadcasting Service).
 
-In addition, he is a former chairman of The RAND Corporation, trustee emeritus of the Mayo Clinic, a life trustee of Northwestern University and the University of Notre Dame, a former trustee and chairman of the Carnegie Corporation, and former Chairman of PBS (Public Broadcasting Service).
+Mr. Minow wrote five books and numerous magazine articles. He received the Presidential Medal of Freedom in 2016.
 
-Mr. Minow has written five books and numerous magazine articles.
-
-Mr. Minow and his wife, Josephine (Jo) live in Chicago. They have three daughters, Nell, Martha and Mary.
+Mr. Minow and his wife, Josephine (Jo) lived in Chicago. They had three daughters, Nell, Martha and Mary.
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/morrisett_photo.jpg" alt="Lloyd Morrisett" aria-hidden="true"/>
 ### Lloyd N. Morrisett
