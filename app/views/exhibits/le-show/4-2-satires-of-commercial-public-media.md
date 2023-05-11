@@ -72,13 +72,13 @@ https://americanarchive.org/catalog/cpb-aacip-7630efc2ab1?start=5443.41&end=5828
 
 ## "Believia"
 
-The United States is the only country other than New Zealand in which pharmaceuticals are marketed directly to consumers via television commercials.  Shearer’s experience as an ad copywriter and his avid television news viewing together fuel his creation of “spots,” 30- or 60-second advertisements for various fictional products, satiric commentaries on the absurdities of advertising.
+The United States is the only country other than New Zealand in which pharmaceuticals are marketed directly to consumers via television commercials.[<sup>120</sup>](/exhibits/eotp/notes#120) Shearer's experience as an ad copywriter and his avid television news viewing together fuel his creation of "spots," 30- or 60-second advertisements for various fictional products, satiric commentaries on the absurdities of advertising.
 
-Shearer invented the “Believia” spot to follow a news item about the federal government fining pharmaceutical giant Pfizer $2.3 billion to settle criminal and civil accusations of illegal marketing of its painkiller Bextra.  
+Shearer invented the "Believia" spot to follow a news item about the federal government fining pharmaceutical giant Pfizer $2.3 billion to settle criminal and civil accusations of illegal marketing of its painkiller Bextra.[<sup>121</sup>](/exhibits/eotp/notes#121)  
 
-Shearer’s satiric commentary on the arguably unhealthy amount of pharmaceutical marketing on U.S. television, “Believia” touts the faux pharmaceutical Shearer rhetorically formulated for “age-related skeptocemia, a chronic inability to absorb and believe messages about products that might be helpful.” The spot ends with a riff on the usual small-print warnings about side-effects, again with a satiric twist: “Do not use or handle Believia if you are operating machinery, becoming pregnant, or operating pregnancy machinery. Common side effects include headache, dizziness, memory loss, temporary night-blindness, and chronic gullibility. Ask your doctor if Believia is right for you. And believe him.”
+Shearer's satiric commentary on the arguably unhealthy amount of pharmaceutical marketing on U.S. television, "Believia" touts the faux pharmaceutical Shearer rhetorically formulated for "age-related skeptocemia, a chronic inability to absorb and believe messages about products that might be helpful." The spot ends with a riff on the usual small-print warnings about side-effects, again with a satiric twist: "Do not use or handle Believia if you are operating machinery, becoming pregnant, or operating pregnancy machinery. Common side effects include headache, dizziness, memory loss, temporary night-blindness, and chronic gullibility. Ask your doctor if Believia is right for you. And believe him."
 
-“Believia”
+"Believia"
 https://americanarchive.org/catalog/cpb-aacip-874141446ac?start=1431.33&end=1505.09
 
 ## CPR: Continental Public Radio
@@ -87,56 +87,56 @@ https://americanarchive.org/catalog/cpb-aacip-874141446ac?start=1431.33&end=1505
 
 ## "Up To Here"
 
-Commemorating 10 years since U.S. troops left Vietnam, a 1985 promo for the satiric program “Up To Here,” hosted by Ira Zipkin, forecasts a report on post-traumatic stress disorder among Americans who did not serve in the Vietnam War: 
+Commemorating 10 years since U.S. troops left Vietnam, a 1985 promo for the satiric program Up To Here," hosted by Ira Zipkin, forecasts a report on post-traumatic stress disorder among Americans who did not serve in the Vietnam War: 
 https://americanarchive.org/catalog/cpb-aacip-63273f2fd8d?start=1009.9&end=1057.73  
 
 ## "Mind Your Own Business"
 
-Shearer’s satires of public radio programming devoted to business, economics, and personal finance news echo through the decades of Le Show via the segment “Mind Your Own Business.” 
+Shearer's satires of public radio programming devoted to business, economics, and personal finance news echo through the decades of *Le Show* via the segment "Mind Your Own Business." 
 
-The mergers and acquisitions mania of 1988  was captured on Le Show in an early segment of “Mind Your Own Business” in which Shearer creates room for doubt about whether leveraged buyouts are in the public interest:
+The mergers and acquisitions mania of 1988[<sup>122</sup>](/exhibits/eotp/notes#122) was captured on Le Show in an early segment of "Mind Your Own Business" in which Shearer creates room for doubt about whether leveraged buyouts are in the public interest:
 
-“Direct from the trading floor of Corium Slocum Oliver, I'm Pete Tuccinello welcoming you to another edition of ‘Mind Your Own Business.’ This week, more than the subway was shaking Wall Street. The market dropped 30 points over a rumor that George Bush had a mistress.  And the biggest business transaction in history was announced as RJR Nabisco, formerly Reynolds Tobacco, proposed to buy itself out.  And to explain these developments, joining me here on the trading floor is an expert on leveraged buyouts — and of course everyone around here is an expert on rumors — the head of research for the respected market letter The Donblameus Report, Mr. Carl Donblameus….”
+"Direct from the trading floor of Corium Slocum Oliver, I'm Pete Tuccinello welcoming you to another edition of 'Mind Your Own Business.' This week, more than the subway was shaking Wall Street. The market dropped 30 points over a rumor that George Bush had a mistress.[<sup>123</sup>](/exhibits/eotp/notes#123) And the biggest business transaction in history was announced as RJR Nabisco, formerly Reynolds Tobacco, proposed to buy itself out.[<sup>124</sup>](/exhibits/eotp/notes#124) And to explain these developments, joining me here on the trading floor is an expert on leveraged buyouts — and of course everyone around here is an expert on rumors — the head of research for the respected market letter The Donblameus Report, Mr. Carl Donblameus…."
 
 https://americanarchive.org/catalog/cpb-aacip-a4201ed1312?start=2620.76&end=2830.37 
 
-Changes to the business of advertising caused by COVID pandemic-era inflation and digital-device overload set the stage for Shearer’s satire of a fictional business called “Brain Flush.” Intended to help the “attentionally challenged,” “Brain Flush” is for “anybody who's got a laptop or a cell phone,” because “sometimes it feels like our brains have been colonized by over-talkative aliens.”
-	https://americanarchive.org/catalog/cpb-aacip-0deb39ea557 at 0:34:42
+Changes to the business of advertising caused by COVID pandemic-era inflation and digital-device overload set the stage for Shearer’s satire of a fictional business called "Brain Flush." Intended to help the “attentionally challenged," "Brain Flush" is for "anybody who's got a laptop or a cell phone," because "sometimes it feels like our brains have been colonized by over-talkative aliens."
+https://americanarchive.org/catalog/cpb-aacip-0deb39ea557 at 0:34:42
 
 ## "Karzai Talk"
 
-Debuting in 2010 after U.S. prosecutors launched a criminal corruption investigation of Mahmood Karzai, brother of then-Afghanistan President Hamid Karzai,  Shearer’s “Karzai Talk” takes as its satiric point of departure Car Talk, the long-running National Public Radio call-in show. 
+Debuting in 2010 after U.S. prosecutors launched a criminal corruption investigation of Mahmood Karzai, brother of then-Afghanistan President Hamid Karzai,[<sup>125</sup>](/exhibits/eotp/notes#125) Shearer's "Karzai Talk" takes as its satiric point of departure *Car Talk*, the long-running National Public Radio call-in show. 
 
-“Car Talk [was] a weekly call-in program about car repair,” writes David Dzikowski, who studied Car Talk in his dissertation on the rhetorics of public radio. Car Talk was “anything but a simple fix-it show. Its superficial appeal [was] through raillery — the bantering and jesting of the hosts — which fixes it as humorous entertainment. The popular appeal of the program depends on the self-deprecating humor of the hosts, brothers Tom and Ray Magliozzi. Ostensibly about cars, the program is primarily observational humor with an emphasis on word play and irony.”  
+"*Car Talk* [was] a weekly call-in program about car repair," writes David Dzikowski, who studied *Car Talk* in his dissertation on the rhetorics of public radio. *Car Talk* was "anything but a simple fix-it show. Its superficial appeal [was] through raillery — the bantering and jesting of the hosts — which fixes it as humorous entertainment. The popular appeal of the program depends on the self-deprecating humor of the hosts, brothers Tom and Ray Magliozzi. Ostensibly about cars, the program is primarily observational humor with an emphasis on word play and irony."[<sup>126</sup>](/exhibits/eotp/notes#126)  
 
-Sufficiently popular that public radio stations continued to air the program for years after Tom Magliozzi’s death,  Car Talk provides Shearer a perfect satiric foil for inventions about corruption in Afghanistan during what Shearer consistently referred to as “America’s Longest War.” Callers to “Karzai Talk” included U.S. presidents, military, state, and intelligence officials, and members of the Taliban — all, of course, voiced by Shearer.
+Sufficiently popular that public radio stations continued to air the program for years after Tom Magliozzi’s death,[<sup>127</sup>](/exhibits/eotp/notes#127) *Car Talk* provides Shearer a perfect satiric foil for inventions about corruption in Afghanistan during what Shearer consistently referred to as "America’s Longest War." Callers to "Karzai Talk" included U.S. presidents, military, state, and intelligence officials, and members of the Taliban — all, of course, voiced by Shearer.
 
-The Magliozzis were better known as “Click and Clack, the Tappet Brothers,” according to NPR, “taking their names from the clickety-clack sound made by aging autos.”  While Hamid Karzai served as president of Afghanistan, Mahmood became wealthy by selling Toyotas,  a fact providing rich and regular fodder for Shearer’s “Karzai Talk.” 
+The Magliozzis were better known as "Click and Clack, the Tappet Brothers," according to NPR, "taking their names from the clickety-clack sound made by aging autos."[<sup>128</sup>](/exhibits/eotp/notes#128) While Hamid Karzai served as president of Afghanistan, Mahmood became wealthy by selling Toyotas,[<sup>129</sup>](/exhibits/eotp/notes#129) a fact providing rich and regular fodder for Shearer's "Karzai Talk." 
 
-The initial episode of “Karzai Talk” opens with a nod to public radio fundraising: “From Afghanistan Public Radio, where you give us the tote bag.”
+The initial episode of "Karzai Talk" opens with a nod to public radio fundraising: "From Afghanistan Public Radio, where you give us the tote bag."
 https://americanarchive.org/catalog/cpb-aacip-3eebdbbf9f1?start=2568.2&end=2879.91 
 
-As the segment became a regular feature of Le Show, Shearer added the following transition between “News from Outside the Bubble” and “Karzai Talk”: “That’s how it looks from over here. How does it look from over there?”
+As the segment became a regular feature of *Le Show*, Shearer added the following transition between "News from Outside the Bubble" and "Karzai Talk": "That's how it looks from over here. How does it look from over there?"
 
-“From the newly refortified presidential palace in downtown Kabul, the city that always sleeps, I'm Mahmood … And I'm Hamid … and we’re Tick and Tock, the Running Out of Time Brothers. Welcome to ‘Karzai Talk.’”
-“Karzai Talk: Another Brother Runs for President”
+"From the newly refortified presidential palace in downtown Kabul, the city that always sleeps, I'm Mahmood … And I'm Hamid … and we're Tick and Tock, the Running Out of Time Brothers. Welcome to 'Karzai Talk.'"
+"Karzai Talk: Another Brother Runs for President"
 https://americanarchive.org/catalog/cpb-aacip-0e9885ae1f5?start=2534.91&end=2944.42 
 
-Each week’s Car Talk ended with the co-hosts advising their listeners: “Don’t drive like my brother.” “And don’t drive like MY brother.” Shearer turned this into the coda for each episode of “Karzai Talk”: "Don't govern like my brother!" "Don't govern like MY brother!"
+Each week's *Car Talk* ended with the co-hosts advising their listeners: "Don't drive like my brother." "And don't drive like MY brother." Shearer turned this into the coda for each episode of "Karzai Talk": "Don't govern like my brother!" "Don't govern like MY brother!"
 
-Other recurring segments concerning U.S. wars in Iraq and Afghanistan included “News of AfPak” (sounded by Shearer like the voice of the duck in Aflac insurance commercials, https://americanarchive.org/catalog/cpb-aacip-8dfaa9f1715?proxy_start_time=2219.55139); “News of America’s Longest War”; a subset of “News of Inspectors General” focusing on SIGAR, or the Special Inspector General for Afghanistan Reconstruction (example); and, among the most baroque of Shearer’s sonic satires, “Mel Gibson and Oksana debate Afghanistan Policy” https://americanarchive.org/catalog/cpb-aacip-8959269c35f?start=2240.89&end=2501.8. 
+Other recurring segments concerning U.S. wars in Iraq and Afghanistan included "[News of AfPak]((https://americanarchive.org/catalog/cpb-aacip-8dfaa9f1715?proxy_start_time=2219.55139))" (sounded by Shearer like the voice of the duck in Aflac insurance commercials; "News of America’s Longest War"; a subset of "News of Inspectors General" focusing on SIGAR, or the Special Inspector General for Afghanistan Reconstruction (example); and, among the most baroque of Shearer's sonic satires, "[Mel Gibson and Oksana debate Afghanistan Policy](https://americanarchive.org/catalog/cpb-aacip-8959269c35f?start=2240.89&end=2501.8)". 
 	
-Le Show’s other satires of National Public Radio include “All in All,” “More Than You Know,” “Mouth To Mouth,” “At Loggerheads,” “Now And Then,” and a 2013 tour de force satire of auditions for a new NPR announcer to read sponsorship credits. Shearer introduces the bit by quoting from the NPR ad:
+*Le Show*'s other satires of National Public Radio include "All in All," "More Than You Know," "Mouth To Mouth," "At Loggerheads," "Now And Then," and a 2013 *tour de force* satire of auditions for a new NPR announcer to read sponsorship credits. Shearer introduces the bit by quoting from the NPR ad:
 
-Ladies and gentlemen, please give — so that public radio can have a new voice. NPR, according to an announcement made public a couple of weeks ago, is looking for quote “a great voice talent with production chops to match to be the voice of NPR's national funding credits. You'll record all of ‘NPR's support for this program comes from’ announcements in our national programs heard by millions of people each week. You'll get to say ‘This is NPR’ each day. This is more than a voice gig.” I'm still quoting. “We're looking for someone with serious production chops. You should bring a voice that's clear, confident, and welcoming, and be a bit tingly at the thought that your voice will be part of public radio's daily connective tissue all across the country. Bonus points for ability to sound authentic on the radio. We're not looking for the voice of God” unquote. And they're not the only ones.
+> Ladies and gentlemen, please give — so that public radio can have a new voice. NPR, according to an announcement made public a couple of weeks ago, is looking for quote "a great voice talent with production chops to match to be the voice of NPR's national funding credits. You'll record all of 'NPR's support for this program comes from' announcements in our national programs heard by millions of people each week. You'll get to say 'This is NPR' each day. This is more than a voice gig." I'm still quoting. "We're looking for someone with serious production chops. You should bring a voice that's clear, confident, and welcoming, and be a bit tingly at the thought that your voice will be part of public radio's daily connective tissue all across the country. Bonus points for ability to sound authentic on the radio. We're not looking for the voice of God" unquote. And they're not the only ones.
 https://americanarchive.org/catalog/cpb-aacip-2774697e273?proxy_start_time=1678.531159 
 
-“Up To Here: CPR Searches for New Credits-Reading Voice”
+"Up To Here: CPR Searches for New Credits-Reading Voice"
 https://americanarchive.org/catalog/cpb-aacip-2774697e273?start=1748.61&end=2060 
 
 
 
-#### Next: [Satires of Commercial and Public Media](/exhibits/le-show/4-2-satires-of-commercial-public-media)
+#### Next: [Cultural Criticism](/exhibits/le-show/4-3-cultural-criticism)
 
 ## Resources - UPDATE
 
