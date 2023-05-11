@@ -6,22 +6,25 @@
 
 <a name="1"></a><sup>1</sup> "Tribute to Ruth Gribin," *Le Show*, July 21, 2019, https://americanarchive.org/catalog/cpb-aacip-047a6add495?start=0&end=122.21.
 
-<a name="2"></a><sup>2</sup> Kenneth Plume, “Interview with Harry Shearer (Part 2 of 4), February 10, 2000, https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4.
+<a name="2"></a><sup>2</sup> Kenneth Plume, "Interview with Harry Shearer (Part 2 of 4)", February 10, 2000, https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4.
 
-<a name="3"></a><sup>3</sup> Shearer’s debut as writer and cast member on SNL was in Season 5, 1979-1980. His second stint was in Season 10, 1984-1985.
+<a name="3"></a><sup>3</sup> Shearer's debut as writer and cast member on SNL was in Season 5, 1979-1980. His second stint was in Season 10, 1984-1985.
+
+<a name="4"></a><sup>4</sup> *Voice of America* was 2 hours; *Hour of Power* was 60 minutes; *Le Show* is 59 minutes.
+
+<a name="5"></a><sup>5</sup> Rick Kogan, "Shearer Not Afraid to Take Political Pot Shots," *Chicago Tribune*, July 29, 1988, G2.
+
+<a name="6"></a><sup>6</sup> Personal correspondence, November 7, 2019. "I don't have a real process I use. I distill the material out of my dread over what I'll be doing next for the show." Harry Shearer, quoted in Lawrence Christon, “Shearer’s Campaign for Truth in Satirizing, *Los Angeles Times*, June 14, 1987, L84.
+
+<a name="7"></a><sup>7</sup> Jack Shafer, "Who Said It First?" *Slate*, August 30, 2010, https://slate.com/news-and-politics/2010/08/on-the-trail-of-the-question-who-first-said-or-wrote-that-journalism-is-the-first-rough-draft-of-history.html.
+
+<a name="8"></a><sup>8</sup> Kevin Howley, "Satirical News as Alternative Journalism," in *Alternative Media Meets Mainstream Politics: Activist Nation Rising*, ed. Joshua D. Atkinson and Linda Jean Kenix (Lanham, MD: Lexington Books, 2019).
 
 
 
 
-<a name="4"></a><sup>4</sup> Monica De La Torre, “‘*Programas Sin Vergüenza* (Shameless Programs)’: Mapping Chicanas in Community Radio in the 1970s,” *Women's Studies Quarterly* 43, no. 3/4 (Fall/Winter 2015): 175, http://www.jstor.org/stable/43958561.
 
-<a name="5"></a><sup>5</sup> Manzanárez, “KBBF,” 4.
 
-<a name="6"></a><sup>6</sup> Dolores Inés Casillas, *Sounds of Belonging: U.S. Spanish-Language Radio and Public Advocacy* (New York: New York University Press, 2014), 54.
-
-<a name="7"></a><sup>7</sup> Casillas, *Sounds of Belonging*, 64-76.
-
-<a name="8"></a><sup>8</sup> Casillas, *Sounds of Belonging*, 15-16.
 
 <a name="9"></a><sup>9</sup> Bilingual Broadcasting Foundation, “KBBF,” Santa Rosa: Bilingual Broadcasting Foundation, n.d., https://kbbf.org/wp-content/uploads/2017/04/KBBF-Old-Brochure-2.jpg.
 
