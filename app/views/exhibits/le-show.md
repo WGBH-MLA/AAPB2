@@ -1,4 +1,6 @@
-# Harry Shearer’s *Le Show*: Sonic Portal to News, Satire, Memory, History*
+# Harry Shearer’s *Le Show*: Sonic Portal to News, Satire, Memory, History
+
+1
 
 ## Summary 
 
@@ -88,4 +90,6 @@ If journalism is the first rough draft of history,[<sup>7</sup>](/exhibits/le-sh
   <a class="caption-text">Trikosko, Marion S., photographer. *[President Lyndon Baines Johnson with some members of the National Advisory Commission on Civil Disorders (Kerner Commission) in the Cabinet Room of the White House, Washington, D.C.]*. Washington, D.C., July 29, 1967. Photograph. Retrieved from the Library of Congress.</a>
   <a class="credit-link" href="https://www.loc.gov/">Courtesy of the Library of Congress</a>
 
-## Records
+## Records -  ADD RECORDS HERE
+
+- [](/catalog/cpb-aacip_532-4q7qn60f37)
