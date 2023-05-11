@@ -78,57 +78,59 @@
 
 <a name="37"></a><sup>37</sup> Lucy Jolin, "The Ridiculous to the Sublime," *CAM*, issue 96, June 15, 2022, https://magazine.alumni.cam.ac.uk/a-history-of-satire/.
 
+<a name="38"></a><sup>38</sup> Goodman, "Taking Apart Politics"; Plume, "Interview with Harry Shearer." 
+
+<a name="39"></a><sup>39</sup> Mathis Chazanov, "Variety Is the Spice of KCRW," *Los Angeles Times*, October 9, 1985. Shearer said that Joe Frank's voice was "like a fist coming out of the radio." See Steve Marble, "Joe Frank, Who Pushed the Boundaries of Radio Storytelling, Dies at 79," *Los Angeles Times*, January 24, 2018, https://www.latimes.com/local/obituaries/la-me-joe-frank-20180124-story.html. Shearer appears as an authoritative source on Frank in the 2018 documentary *Joe Frank: Somewhere Out There* (dir. D. P. Carlson). 
+
+<a name="40"></a><sup>40</sup> Melba Newsome, "Radio Activist," *Los Angeles Magazine*, July 1998, 50-54, https://books.google.com/books?id=cF8EAAAAMBAJ&lpg=PA10&lr&pg=PA50. 
+
+<a name="41"></a><sup>41</sup> Chazanov, "Variety."
+
+<a name="42"></a><sup>42</sup> Santa Monica History Museum, https://santamonica.pastperfectonline.com/photo/AE0EAC77-5851-42C3-9D10-004253704915. 
+
+<a name="43"></a><sup>43</sup> Chazanov, "Variety."
+
+<a name="44"></a><sup>44</sup> Dave Walker, "Harry Shearer's 'Le Show' Reaches 30th Birthday," Nola.com, December 4, 2013, https://www.nola.com/entertainment_life/movies_tv/article_520b6347-543b-57f3-b383-baf8837c0f5e.html. 
+
+<a name="45"></a><sup>45</sup> Paul Brownfield, "What's Normal Now," *Los Angeles Times*, October 7, 2001, F6, https://www.latimes.com/archives/la-xpm-2001-oct-07-ca-54302-story.html. 
+
+<a name="46"></a><sup>46</sup> Christon, "Shearer's Campaign."
+
+<a name="47"></a><sup>47</sup> Tom Shales, "Ratings Only Passable: The Ghost of 'Saturday Night Live,'" *Los Angeles Times*, April 18, 1985, 12. See also James Andrew Miller and Tom Shales, *Live from New York: The Complete, Uncensored History of Saturday Night Live, as Told by the Stars, Writers, and Guests, Newly Updated and Expanded for SNL’s 40th Season* (New York: Little Brown, 2014).
+
+<a name="48"></a><sup>48</sup> "About Deirdre O'Donoghue," Bent by Nature, KCRW, 2022, https://www.kcrw.com/music/shows/bent-by-nature/show-tabs/about-deirdre-odonoghue. Shearer called O'Donoghue "the godmother" of *Le Show* when he noted her death on January 28, 2001: https://americanarchive.org/catalog/cpb-aacip-ba164cbdfc5?proxy_start_time=227.21.
+
+<a name="49"></a><sup>49</sup> MTV 4th Annual New Year's Eve Rock N' Roll Ball Vidcheck (12/31/1984-01/01/1985),
+https://www.youtube.com/watch?v=ugfGqMpi2bE. 
+
+<a name="50"></a><sup>50</sup> Harry Shearer, *SNAP* (Saturday Night Alternative Pop), KCRW, January 5, 1985. Cassette listened to in Shearer's studio, Santa Monica, California, July 20, 2019.
+
+<a name="51"></a><sup>51</sup> Dennis McDougal, "On the Radio: NPR Mutiny over Lack of Bounty," *Los Angeles Times*, February 12, 1985, G1.
+
+<a name="52"></a><sup>52</sup> Lawrence Christon, "The Comedy Column: Shearer, Baiting the Hand That Feeds Him," August 4, 1985, *Los Angeles Times*, W76.
+
+<a name="53"></a><sup>53</sup> Julie Rogers, "A Timeline of NPR's First 50 Years," NPR WAMU 88.5, April 28, 2021, https://www.npr.org/2021/04/28/987733236/a-timeline-of-nprs-first-50-years.
+
+<a name="54"></a><sup>54</sup> Shearer's delivery of the phrase "*around* the world" exemplifies the rhetorical figure of diastole, a lengthening of the second vowel sound in "*around*" accompanied by an increase in volume to provide listeners with a synesthetic experience of the program circumnavigating the globe. An example comes early in this episode: https://americanarchive.org/catalog/cpb-aacip-68cbe190b3d. On *diastole* see Richard Lanham, *Handlist of Rhetorical Terms*, 182. Shearer's diastole operates in his news announcer and radio promoter voices more generally, as in his habitual sign-off to the "News of the Olympic Movement": "… because it's a movement, and we all need one … every day!" An example is at *Le Show*, July 29, 1988, https://americanarchive.org/catalog/cpb-aacip-a19d99d1cc2?start=677.1&end=692.74. 
+
+<a name="55"></a><sup>55</sup> Repetition of the word "shortwave" seems to have been prompted by Shearer pronouncing "megahertz" and being reminded of longtime Los Angeles Dodgers' announcer Vin Scully's characteristic vowels; Shearer's Scully voices the redundant "shortwave" at 0:56:47.
+
+<a name="56"></a><sup>56</sup> Walker, "Harry Shearer's 'Le Show' Reaches 30th Birthday." 
+
+<a name="57"></a><sup>57</sup> "Shearer to Get Star on Walk of Fame," *Entertainment News* (UPI), June 19, 2008, https://www.upi.com/Entertainment_News/2008/06/19/Shearer_to_get_star_on_Walk_of_Fame/UPI-26391213913223/.
+
+<a name="58"></a><sup>58</sup> Catherine Green, "Le Show Host Harry Shearer Moves On," April 24, 2013, *Los Angeles Magazine*, https://www.lamag.com/laculture/le-show-host-harry-shearer-moves-on/.
+
+<a name="59"></a><sup>59</sup> Catherine Green, "Le Show Host Harry Shearer Moves On."
+
+<a name="60"></a><sup>60</sup> "Special Message Regarding Le Show," HarryShearer.com, April 16, 2013, https://harryshearer.com/a-special-message-regarding-le-show/.
+
+<a name="61"></a><sup>61</sup> Randy Lewis, "Harry Shearer's 'Le Show' Moves to KCSN-FM (88.5)," *Los Angeles Times*, July 10, 2013, https://www.latimes.com/entertainment/music/posts/la-et-ms-harry-shearer-le-show-20130710-story.html.
 
 
 
 
-<a name="38"></a><sup>38</sup> Casillas, *Sounds of Belonging*, 59.
 
-<a name="39"></a><sup>39</sup> Casillas, *Sounds of Belonging*, 60.
-
-<a name="40"></a><sup>40</sup> “UFW Radio Station Spreads Labor News,” *Los Angeles Times*, July 3, 1983.
-
-<a name="41"></a><sup>41</sup> “About Us,” La Network Campesina.
-
-<a name="42"></a><sup>42</sup> Luis Reyes and Peter Rubie, *Hispanics in Hollywood: A Celebration of 100 Years in Film and Television* (Hollywood: Lone Eagle Publishing Co., 2000), 312.
-
-<a name="43"></a><sup>43</sup> Jesús Salvador Treviño, “Latinos and Public Broadcasting: The 2% factor,” *Jump Cut*, no. 28 (April 1983): 65, https://www.ejumpcut.org/archive/onlinessays/JC28folder/PBSandLatinos.html.
-
-<a name="44"></a><sup>44</sup> Chon A. Noriega, *Shot in America: Television, the State, and the Rise of Chicano Cinema* (Minneapolis: University of Minnesota Press, 2000), 139.
-
-<a name="45"></a><sup>45</sup> Noriega, *Shot in America*, 139-43.
-
-<a name="46"></a><sup>46</sup> Elson Trinidad, “October 1968 – ‘Canción de la Raza,’ 1st KCET Program on Latino Community, Premieres,” KCET, September 24, 2014, https://www.kcet.org/kcet-50th-anniversary/october-1968-cancion-de-la-raza-1st-kcet-program-on-latino-community-premieres.
-
-<a name="47"></a><sup>47</sup> "Spanish ‘Sesame Street’ Stimulates Chicano Viewers,” *Christian Science Monitor*, August 4, 1973.
-
-<a name="48"></a><sup>48</sup> Frederick Williams and Diana S. Natalicio, “Evaluating Carrascolendas: A Television Series for Mexican-American Children,” *Journal of Broadcasting* 16, no. 3 (Summer 1972), 309; Belinda Acosta, “Have You Ever Been to *Carrascolendas*? Revisiting Austin’s Award-Winning Bilingual TV Series,” *Austin Chronicle*, July 4, 2003, https://www.austinchronicle.com/screens/2003-07-04/166689/; “KCET Slates Youth Series,” *Los Angeles Times*, October 13, 1972; “TV Grants Given to Aid Minority Pupils,” *New York Times*, July 4, 1973.
-
-<a name="49"></a><sup>49</sup> Spanish ‘Sesame Street,’”; Aida Barrera, *Looking for Carrascolendas: From a Child’s World to Award-Winning Television* (Austin: University of Texas Press, 2001).
-
-<a name="50"></a><sup>50</sup> Chon A. Noriega, “Imagined Borders: Locating Chicano Cinema in America/América," in *The Ethnic Eye: Latino Media Arts*, ed. Chon A. Noriega and Ana M. López (Minneapolis: University of Minnesota Press, 1996), 9.
-
-<a name="51"></a><sup>51</sup> Jesús Salvador Treviño, *Eyewitness: A Filmmaker’s Memoir of the Chicano Movement* (Houston, TX: Arte Público, 2001), 123.
-
-<a name="52"></a><sup>52</sup> Noriega, “Imagined Borders,” 11-13; Noriega, *Shot in America*, 150.
-
-<a name="53"></a><sup>53</sup> Lillian Jiménez, “Moving from the Margin to the Center: Puerto Rican Cinema in New York," in *The Ethnic Eye: Latino Media Arts*, ed. Chon A. Noriega and Ana M. López (Minneapolis: University of Minnesota Press, 1996), 26.
-
-<a name="54"></a><sup>54</sup> Noriega, *Shot in America*, 150.
-
-<a name="55"></a><sup>55</sup> Jiménez, “Moving from the Margin to the Center,” 25.
-
-<a name="56"></a><sup>56</sup> Noriega, *Shot in America*, 150-51.
-
-<a name="57"></a><sup>57</sup> Reyes and Rubie, *Hispanics in Hollywood*, 351-52.
-
-<a name="58"></a><sup>58</sup> Reyes and Rubie, *Hispanics in Hollywood*, 351-52.
-
-<a name="59"></a><sup>59</sup> Beatrice Berg, “Anglos Can Watch, Too,” *New York Times*, December 17, 1972.
-
-<a name="60"></a><sup>60</sup> El Banquiné de Angelitos Negros can be viewed onsite at the Library of Congress and GBH.
-
-<a name="61"></a><sup>61</sup> Noriega, *Shot in America*, 151.
 
 <a name="62"></a><sup>62</sup> Jiménez, “Moving from the Margin to the Center,” 26; Noriega, *Shot in America*, 151; Reyes and Rubie, *Hispanics in Hollywood*, 351-52; and Treviño, “Latinos and Public Broadcasting, 65.
 
