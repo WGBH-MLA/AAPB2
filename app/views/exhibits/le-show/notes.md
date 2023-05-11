@@ -8,7 +8,7 @@
 
 <a name="2"></a><sup>2</sup> Kenneth Plume, "Interview with Harry Shearer (Part 2 of 4)", February 10, 2000, https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4.
 
-<a name="3"></a><sup>3</sup> Shearer's debut as writer and cast member on SNL was in Season 5, 1979-1980. His second stint was in Season 10, 1984-1985.
+<a name="3"></a><sup>3</sup> Shearer's debut as writer and cast member on *SNL* was in Season 5, 1979-1980. His second stint was in Season 10, 1984-1985.
 
 <a name="4"></a><sup>4</sup> *Voice of America* was 2 hours; *Hour of Power* was 60 minutes; *Le Show* is 59 minutes.
 
@@ -20,69 +20,67 @@
 
 <a name="8"></a><sup>8</sup> Kevin Howley, "Satirical News as Alternative Journalism," in *Alternative Media Meets Mainstream Politics: Activist Nation Rising*, ed. Joshua D. Atkinson and Linda Jean Kenix (Lanham, MD: Lexington Books, 2019).
 
+<a name="9"></a><sup>10</sup> Asked by Marc Maron whether his "parents were running from Hitler," Shearer replied, "They weren't running toward him." See *WTF with Marc Maron*, "Harry Shearer," episode 578, podcast, February 19, 2015, https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer. 
+
+<a name="10"></a><sup>10</sup> Personal correspondence, November 6, 2019.
+
+<a name="11"></a><sup>11</sup> "The edge of America, the home of the homeless" is how Shearer often described his location in Santa Monica. 
+
+<a name="12"></a><sup>12</sup> Shearer marked *Le Show*’s 1989 debut on Chicago AM superstation WGN in classic fashion: "It's been a long time, ladies and gentlemen, I have to be honest with you, since I've been nervous before a radio program – maybe the Jack Benny show in 1955, I don't know. I didn't keep track then. But I did have just a slight twinge driving to the *Le Show*-atorium today because we've been announcing – we? me – I've been announcing a lot of additional stations to the ever-growing but until this week still tiny *Le Show* network. But this week I think I can't say that anymore 'cause we've just added our first 50,000-watt AM radio affiliate, WGN in Chicago. Colonel McCormick is spinning in his grave right about now, I would say…. But it’s such a thrill to be on the same, for the first time, to be on the same radio station as Paul Harvey. It’s true." https://americanarchive.org/catalog/cpb-aacip-81faa682ed3?proxy_start_time=680.743121. 
+
+<a name="13"></a><sup>13</sup> Kathy Fuller-Seeley, "The Jack Benny Program," Library of Congress, National Recording Preservation Board, https://www.loc.gov/static/programs/national-recording-preservation-board/documents/JackBennyProgram.pdf. 
+
+<a name="14"></a><sup>14</sup> Harry Shearer to Marc Maron, in Maron, "Harry Shearer." 
+
+<a name="15"></a><sup>15</sup> Michele Hilmes, *Radio Voices: American Broadcasting, 1922-1952* (Minneapolis: University of Minnesota Press, 1997); Kathryn H. Fuller-Seeley, *Jack Benny and The Golden Age of American Radio Comedy* (Oakland: University of California Press, 2017).
+  
+<a name="16"></a><sup>16</sup> ''Private Secretary'' – "The Little Caesar of Bleeker Street," CBS, April 1956, Internet Archive, https://archive.org/details/PrivateSecretary-LittleCaesarofBleekerStreet1956. 
+
+<a name="17"></a><sup>17</sup> "Behind Closed Doors with Harry Shearer," moderated by Peter Morris, British Academy of Film and Television Arts, Los Angeles, July 25, 2016, https://www.youtube.com/watch?v=jC_2tl7XhhQ. On the difficulty of introducing Harry Shearer, see Mark Hamrick's introduction of Shearer at Shearer's March 14, 2011, National Press Club Luncheon appearance, starting at 00:03:22, https://www.press.org/newsroom/video/npc-luncheon-harry-shearer. 
+
+<a name="18"></a><sup>18</sup> Shearer interned at Young & Rubicam, where one of the clients was Piels Beer. Shearer thus was able to write for two of his comedy icons, Bob Elliott and Ray Goulding, who performed as “Bob and Ray” and who voiced animated Piel's commercials, e.g., https://www.youtube.com/watch?v=mHroxyoCwV4.
+
+<a name="19"></a><sup>19</sup> Harry Shearer to Peter Hartlaub, Twitter, March 13, 2017. For context, see https://www.rollingstone.com/music/music-news/the-grateful-dead-did-get-it-reporters-and-cops-188402/; see also https://relix.com/articles/detail/harry_shearer_and_judith_owen_on_new_orleans_the_knights_of_soft_rock_and_the_grateful_dead/. 
+
+<a name="20"></a><sup>20</sup> Plume, "Interview with Harry Shearer."
+
+<a name="21"></a><sup>21</sup> NPR began syndication of *Le Show* in 1987.
+
+<a name="22"></a><sup>22</sup> Harry Shearer, Special Message Regarding *Le Show*, https://harryshearer.com/a-special-message-regarding-le-show/; also *Le Show*, April 21 2013, https://americanarchive.org/catalog/cpb-aacip-ea6c955df75?start=0&end=247.72. 
+
+<a name="23"></a><sup>23</sup> Maron, "Harry Shearer"; "'Simpsons' Icon Harry Shearer: 'WWL Looks Good for 100 Years Old!' *The Scoot Show*, WWL-AM, March 29, 2022, https://www.audacy.com/podcasts/the-scoot-show-with-scoot-20315/simpsons-icon-harry-shearer-wwl-looks-good-for-100-years-old-1332847667. 
+
+<a name="24"></a><sup>24</sup> Janet Maslin, "Screen: Albert Brooks Turns 'Real Life' into Movie: Family Is the Lens," *New York Times*, March 2, 1979.
+
+<a name="25"></a><sup>25</sup> All in all, it seems he'd rather be Derek Smalls. See https://www.youtube.com/watch?v=BXk_3-f3Xjk.
+
+<a name="26"></a><sup>26</sup> As opposed to his "adult film acting work," of which Derek Smalls might be very proud: https://harryshearer.com/media/#prettyPhoto[Videos]/22/. 
+
+<a name="27"></a><sup>27</sup> "Harry Shearer (The Simpsons) - Live at the Edge," YouTube, https://www.youtube.com/watch?v=pElAVXioJws at 00:00:40.
+
+<a name="28"></a><sup>28</sup> "Interview with Harry Shearer," *The Jewish Chronicle*, October 10, 2008, https://www.thejc.com/culture/interviews/interview-harry-shearer-1.5481.
+
+<a name="29"></a><sup>29</sup> Engineering experts from Louisiana State University and the University of California, Berkeley, led investigations analyzing the Army Corps' civil engineering around New Orleans and the greater Gulf Coast leading up to Hurricane Katrina. An Army Corps whistleblower also provided information for the documentary. "I went to the people who led these investigations. I went to a whistleblower who is inside the Corps of Engineers. I went to people who spent years and years looking at this stuff, and they are the people who tell this story." Harry Shearer, interviewed by Neal Conan, "Filmmaker Says Katrina No Natural Disaster," *Talk of the Nation*, NPR, August 26, 2010, https://www.npr.org/templates/story/story.php?storyId=129451954. 
+
+<a name="30"></a><sup>30</sup> Shearer starred on London's West End with Maureen Lipman and the playwright Oliver Cotton in *Daytona*, a Holocaust memory play, in 2014. See https://theartsshelf.com/a-z/a-z/review-archive/daytona-cast-interviews-harry-shearer-maureen-lipman/; https://www.theguardian.com/theobserver/2014/jun/29/harry-shearer-interview-daytona-maureen-lipman-simpsons; https://playbill.com/article/oliver-cottons-daytona-to-transfer-to-west-end-with-maureen-lipman-harry-shearer-and-playwright-cotton-com-218532. Shearer has also written and directed several productions for LA Theatre Works. 
+
+<a name="31"></a><sup>31</sup> In addition to voluminous newspaper and magazine columns, Shearer has published two books, *It's the Stupidity, Stupid: Why (Some) People Hate Clinton and Why the Rest of Us Have to Watch* (New York: Ballentine Pub. Group, 1999) and the novel *Not Enough Indians* (Boston: Justin, Charles, 2006), and his newspaper columns have been collected and published in two volumes, *Man Bites Town* (New York: St. Martin’s Press, 1993) and *O.J. by the Sea* (orig. 1996, Kindle, 2016).
+
+<a name="32"></a><sup>32</sup> The Scoot Show WWL-AM 29 March 2022; Maron, "Harry Shearer" at https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer, 00:21:46.
+
+<a name="33"></a><sup>33</sup> *Le Show* interview of Mort Sahl, July 20, 2003, https://americanarchive.org/catalog/cpb-aacip-c9cc35aa74f.
+
+<a name="34"></a><sup>34</sup> "'Le Show' and Prove: THIS Interview with actor and producer Harry Shearer," *THIS*, November 21, 2021, https://thisent.com/le-show-and-prove-this-interview-with-actor-and-producer-harry-shearer/. 
+
+<a name="35"></a><sup>35</sup> *Ethopoeia* is a rhetorical art dating back at least to Theophrastus, who succeeded Aristotle in the Lyceum in 322 B.C.E. According to Richard Lanham, the ancient Greek orator Lysias was the first to fully develop the technique. Richard A. Lanham, *Handlist of Rhetorical Terms*. 2nd ed. (Berkeley: University of California Press, 1991), 71.
+
+<a name="36"></a><sup>36</sup> "Ladies and gentlemen, as much as I was bewitched and besotted by comedy at an early age, I was also fascinated and seduced by journalism. I can remember at age 5, or whenever it was my parents first trusted me with blunt little scissors, cutting out and collecting the mastheads for all the different sections of the two daily papers we subscribed to, the main criterion for which was whichever papers in L.A. were still publishing and weren't the *Times*. When my moment came to be interviewed on TV by Art Linkletter, I confessed to my habit of making my parents take me to the out of town newsstand in Hollywood whenever possible, and for years our mailbox was filled with dailies from Fergus Falls, Minn., and other far-flung locales." See NPC Luncheon with Harry Shearer, https://www.press.org/newsroom/video/npc-luncheon-harry-shearer. See also Alan Rich, "The News Hole with Harry Shearer," *Variety*, October 26, 1994, https://variety.com/1994/tv/reviews/the-news-hole-with-harry-shearer-1200438801/. Shearer's short-lived Comedy Central satirical news quiz won a Cable Ace Award after its cancellation. See David Schwartz, Steve Ryan, and Fred Wostbrock, *The Encyclopedia of TV Game Shows*, 3rd ed. (New York, Facts on File, 1999), 305.
+
+<a name="37"></a><sup>37</sup> Lucy Jolin, "The Ridiculous to the Sublime," *CAM*, issue 96, June 15, 2022, https://magazine.alumni.cam.ac.uk/a-history-of-satire/.
 
 
 
 
-
-
-<a name="9"></a><sup>9</sup> Bilingual Broadcasting Foundation, “KBBF,” Santa Rosa: Bilingual Broadcasting Foundation, n.d., https://kbbf.org/wp-content/uploads/2017/04/KBBF-Old-Brochure-2.jpg.
-
-<a name="10"></a><sup>10</sup> Manzanárez, “KBBF.”
-
-<a name="11"></a><sup>11</sup> Manzanárez, “KBBF.”
-
-<a name="12"></a><sup>12</sup> Monica De La Torre, “Sonic Bridging: Locating, Archiving, and Preserving Spanish-Language and Bilingual Radio in the United States,” *New Review of Film and Television Studies* 16, no. 4, 448, DOI: 10.1080/17400309.2018.1524969.
-
-<a name="13"></a><sup>13</sup> Manzanárez, “KBBF.”
-
-<a name="14"></a><sup>14</sup> María Martin, quoted in De La Torre, “‘Programas Sin Vergüenza (Shameless Programs)’,” 180.
-
-<a name="15"></a><sup>15</sup> https://kbbf.org/about/.  
-
-<a name="16"></a><sup>16</sup> Manzanárez, “KBBF.”
-
-<a name="17"></a><sup>17</sup> Richard Mahler, “Radio: Buenos Dias, America,” *Los Angeles Times*, March 25, 1979.
-
-<a name="18"></a><sup>18</sup> Hilliard Harper, “NPR Criticized for Canceling Latino Newscast,” *Los Angeles Times*, February 27, 1988.
-
-<a name="19"></a><sup>19</sup> De La Torre, “Sonic Bridging,” 149.
-
-<a name="20"></a><sup>20</sup> Monica De La Torre, “Feminista Frequencies: Chicana Radio Activism in the Pacific Northwest,” in *Chicana Movidas: New Narratives of Activism and Feminism in the Movement Era*, ed. Dionne Espinoza, María Eugenia Cotera, and Maylei Blackwell (Austin: University of Texas Press, 2018), 167.
-
-<a name="21"></a><sup>21</sup> De La Torre, “Feminista Frequencies,” 159-60.
-
-<a name="22"></a><sup>22</sup> Kimberlee Craig, “On the Air,” *Yakama Herald-Republic*, December 17, 1979, in Oscar Rosales Castañeda, “Radio KDNA: The Voice of the Farmworker, 1975-1985," The Seattle Civil Rights & Labor History Project,  https://depts.washington.edu/civilr/farmwk_ch8.htm.
-
-<a name="23"></a><sup>23</sup> De La Torre, “‘Programas Sin Vergüenza (Shameless Programs)’,” 186.
-
-<a name="24"></a><sup>24</sup> Rosa Ramón, quoted in De La Torre, “Feminista Frequencies,” 169.
-
-<a name="25"></a><sup>25</sup> “Our Mission,” KDNA La Voz del Campesino, accessed January 13, 2020, http://www.kdna.org/our-mission/.
-
-<a name="26"></a><sup>26</sup> De La Torre, “Feminista Frequencies,” 172.
-
-<a name="27"></a><sup>27</sup> De La Torre, “Feminista Frequencies,” 171.
-
-<a name="28"></a><sup>28</sup> Corwin, “A Voice for Farm Workers,” 3.
-
-<a name="29"></a><sup>29</sup> Kathleen Teltsch, “Success Is Reaching Out to a Hispanic Organizer,” *New York Times*, May 9, 1988.
-
-<a name="30"></a><sup>30</sup> “Our Organization and Mission,” Radio Bilingüe, http://radiobilingue.org/en/quienes-somos/historia-y-mision/.
-
-<a name="31"></a><sup>31</sup> Corwin, “A Voice for Farm Workers,” 32.
-
-<a name="32"></a><sup>32</sup> Corwin, “A Voice for Farm Workers,” 32.
-
-<a name="33"></a><sup>33</sup> Casillas, *Sounds of Belonging*, 52.
-
-<a name="34"></a><sup>34</sup> “Noticiero Latino,” Radio Bilingüe, https://radiobilingue.org/rb-programas/noticiero-latino/.
-
-<a name="35"></a><sup>35</sup> http://radiobilingue.org/en/quienes-somos/historia-y-mision/.
-
-<a name="36"></a><sup>36</sup> “Our Organization and Mission,” Radio Bilingüe; Dolores Inés Casillas, “Sounds of Surveillance: U.S. Spanish-Language Radio Patrols La Migra,” *American Quarterly* 63, no. 3 (2011): 821, http://www.jstor.org/stable/4123757.
-
-<a name="37"></a><sup>37</sup> “About Us,” La Network Campesina, https://campesina.com/about/.
 
 <a name="38"></a><sup>38</sup> Casillas, *Sounds of Belonging*, 59.
 
