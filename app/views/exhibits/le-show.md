@@ -40,13 +40,7 @@ The American Archive of Public Broadcasting's *Le Show* archive offers online ac
 
 If journalism is the first rough draft of history,[<sup>7</sup>](/exhibits/le-show/notes#7) *Le Show* is the second, revised through a lens of satire,[<sup>8</sup>](/exhibits/le-show/notes#8) each week managing not only to teach but somehow to delight — though the delight is sometimes excruciating.
 
-
-
-
-
-
-
-#### Next: [Harry Shearer's Creative Life](/exhibits/le-show/harry-shearer-creative-life)
+#### Next: [Harry Shearer's Creative Life](/exhibits/le-show/2-harry-shearer-creative-life)
 
 ## Cover - UPDATE
 <table class="exhibit-image">
