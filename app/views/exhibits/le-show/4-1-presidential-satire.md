@@ -16,6 +16,7 @@ Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The L
 
 "I grew up in Los Angeles, under the persistent blaze of the California sun and, just as persistent, the dark shadow of Richard Nixon," Shearer explained in a video describing the making of his television mini-series *Nixon’s the One*. "As my life went on, Nixon seemed always to be in it."[<sup>80</sup>](/exhibits/eotp/notes#80)  
 
+SHOULD I EMBED THESE??
 The first "Nixon in Heaven" aired two and one-half years after Nixon's death in 1994. https://americanarchive.org/catalog/cpb-aacip-c2b21e55f99?start=2816.75&end=3292.98 
 
 "Nixon in Heaven" - Watergate 30th Anniversary 6/23/2002
@@ -40,29 +41,29 @@ The setup for a 1987 episode of "Hellcats" uses as its point of departure news o
 
 "Hellcats" episodes often end with a [reference to the bedroom](https://americanarchive.org/catalog/cpb-aacip-36826613bbf?start=2879.99&end=2904.07) ("Ronnie, we need to think seriously about Don's successor. Why don't we go upstairs, and I'll help you think about it." "You know I've never been able to resist an offer like that, you little spitfire. The last one in bed has to watch the news") and a [forecast of the next episode](https://americanarchive.org/catalog/cpb-aacip-36826613bbf?start=3512.57&end=3538.39), again in Shearer's newsreel narrator voice: "When you cast a very long shadow, either you're extremely tall or the sun is about to set. Next time, rehearsing for the end, on 'Hellcats of the White House.'"
 
+SHOULD I EMBED THIS?
 "Hellcats of the White House" 
 https://americanarchive.org/catalog/cpb-aacip-36826613bbf?start=1717.52&end=2226.48  
 
-"Hellcats of the White House: The Bel Air Years"
+["Hellcats of the White House: The Bel Air Years"](https://americanarchive.org/catalog/cpb-aacip-81faa682ed3?start=1780.39&end=2307.1)
 "Our story opens in the bedroom of the Reagans' Bel-Air retreat.… The former president is watching a large screen television waiting for news of a court decision to be announced. Nancy is on the phone while her heels receive a light buffing…." This episode is built around news that Ronald Reagan would not be compelled to testify in Oliver North's criminal trial for involvement in the Iran-Contra Affair.[<sup>85</sup>](/exhibits/eotp/notes#85)  
-https://americanarchive.org/catalog/cpb-aacip-81faa682ed3?start=1780.39&end=2307.1 
 
 *Le Show*'s final "Hellcats" episode responded satirically to news of the forthcoming "Walsh Report," the federal government's last word on Iran-Contra.[<sup>86</sup>](/exhibits/eotp/notes#86) Shearer reprised this episode of "Hellcats" on a "Highlights from *Le Show*: The First 20 Years" episode on June 29, 2003:
-https://americanarchive.org/catalog/cpb-aacip-855869aa3c5?start=2617.22&end=3186.61 
+
+SHOULD I EMBED THIS?
+https://americanarchive.org/catalog/cpb-aacip-855869aa3c5?start=2617.22&end=3186.61
 
 ## George H. W. Bush: "Notes for Presidential Memoirs" and radio speeches
 
-The recurring *Le Show* segment "Notes for Presidential Memoirs" presented Shearer's President George H. W. Bush dictating diary entries into a tape recorder for future use. The first episode of "Presidential Memoirs" aired soon after the one-term administration's first major failure: Bush's nomination of fellow Texan John Tower as Secretary of Defense.[<sup>87</sup>](/exhibits/eotp/notes#87)  
-https://americanarchive.org/catalog/cpb-aacip-11de808442c?start=1841.25&end=2304.77
+The recurring *Le Show* segment "Notes for Presidential Memoirs" presented Shearer's President George H. W. Bush dictating diary entries into a tape recorder for future use. The first episode of "Presidential Memoirs" aired soon after the one-term administration's first major failure: [Bush's nomination of fellow Texan John Tower as Secretary of Defense](https://americanarchive.org/catalog/cpb-aacip-11de808442c?start=1841.25&end=2304.77).[<sup>87</sup>](/exhibits/eotp/notes#87)  
 
 Like his predecessor, Reagan, had done, Bush started giving regular radio speeches in an age of television. So, Shearer's Bush gave radio speeches too. "More than two years into his administration, (Bush) has now picked up the tradition of Ronald Reagan in delivering radio speeches — radio! — he was on the radio this weekend delivering pretty much the same speech about the Persian Gulf Crisis, and it was so successful apparently he's going to do another one. And we'll break for that after this next piece of music and then be back for more." 
 https://americanarchive.org/catalog/cpb-aacip-5517c96f1cb?start=1445.83&end=1481.83
 https://americanarchive.org/catalog/cpb-aacip-5517c96f1cb?start=1648.71&end=1822.08 
 
-The final episode of "Presidential Memoirs" aired after the 1992 presidential election, in which Arkansas Governor Bill Clinton defeated Bush, making him a one-term president. Shearer sets up the segment, which also features Shearer's Bush introducing his successor to the White House and "the panel where Dick Nixon used to control his little tape thing," with news of presidential records, a central recurring concern across the history of *Le Show*:
+The [final episode of "Presidential Memoirs"](https://americanarchive.org/catalog/cpb-aacip-7ce5c5d18a7?start=2603.9&end=3203.98) aired after the 1992 presidential election, in which Arkansas Governor Bill Clinton defeated Bush, making him a one-term president. Shearer sets up the segment, which also features Shearer's Bush introducing his successor to the White House and "the panel where Dick Nixon used to control his little tape thing," with news of presidential records, a central recurring concern across the history of *Le Show*:
 
 > You may have noticed that in the wake of this State Department foofaraw about rummaging through the files, the passport files, the White House Counsel C. Boyden Gray, an old Yalie pal of his boss, George Bush, has issued an opinion that White House employees are legally entitled to erase and destroy telephone logs and computer tapes[<sup>88</sup>](/exhibits/eotp/notes#88) — because, you know, who cares? Why would anybody want to know about that stuff? That and more reflected upon in another cassette from the 'Notes for Presidential Memoirs,' coming up in just moments — you can just feel it — from now. 
-https://americanarchive.org/catalog/cpb-aacip-7ce5c5d18a7?start=2603.9&end=3203.98 
 
 Shearer also voiced George H. W. Bush on "The Simpsons" ("Two Bad Neighbors," 1996) and "Golden Girls" ("The President's Coming," 1990).
 
@@ -79,6 +80,7 @@ Debuting the week of Clinton's inauguration, the first episode of "Clintonsometh
 
 Each episode of the initial "Clintonsomething" series ended with the following coda, accompanied by theme music from *Thirtysomething*: "Youthful angst and middle-aged power: it all adds up to Clintonsomething." The sign-off changed slightly with each different iteration of the Clintons in public and, via Shearer's capacious imagination, private life.
 
+SHOULD I EMBED THESE?
 "Clintonsomething"
 https://americanarchive.org/catalog/cpb-aacip-26bf965067b?start=1958.91&end=2366.23
 
@@ -109,6 +111,7 @@ Texas Governor George W. Bush, eldest son of the 41st President and his wife Bar
 "41 Calls 43"
 The first episode of "41 Calls 43" aired on March 11, 2001, just two months into the new administration, before the events of 9/11 turned the younger Bush, as the Persian Gulf crisis had the older, into a wartime president. Shearer set up the segment with news from the previous week: "As you know President Bush campaigned in several states with Democratic senators for his tax cut bill and then flew home to his ranch to spend the weekend there, possibly to receive one of those phone calls he sometimes gets from the 41st President of the United States, his not-so-immediate predecessor." 
 
+SHOULD I EMBED THESE?
 The younger Bush's Secret Service code name is among the recurring gags in "41 Calls 43":
 https://americanarchive.org/catalog/cpb-aacip-17e858f19d2?start=6512.11&end=6852.46 
 
@@ -131,21 +134,18 @@ After 9/11, Vice President Cheney stayed out of public sight for several months,
 "Dick Cheney Confidential" first aired on June 2, 2002: "Next, intimate tales of America's first underground Vice President, the action-packed diary of a man who’s less than a heartbeat away from history": 
 https://americanarchive.org/catalog/cpb-aacip-15d9004f066?start=6170.36&end=6606.86 
 
-On February 19, 2006, the Sunday after Vice President Cheney accidentally shot a quail-hunting companion in South Texas,[<sup>94</sup>](/exhibits/eotp/notes#94) "Dick Cheney Confidential" provided the culmination of the week's *Le Show*. Shearer sets up the segment with archival audio of Cheney talking with Fox News's Brit Hume,[<sup>95</sup>](/exhibits/eotp/notes#95) followed by this introduction in Shearer's gruff *ethopoiesis* of Cheney:
+On [February 19, 2006](https://americanarchive.org/catalog/cpb-aacip-b1edbc2c9c8?start=1920.36&end=2500.75), the Sunday after Vice President Cheney accidentally shot a quail-hunting companion in South Texas,[<sup>94</sup>](/exhibits/eotp/notes#94) "Dick Cheney Confidential" provided the culmination of the week's *Le Show*. Shearer sets up the segment with archival audio of Cheney talking with Fox News's Brit Hume,[<sup>95</sup>](/exhibits/eotp/notes#95) followed by this introduction in Shearer's gruff *ethopoiesis* of Cheney:
 
 > There are two kinds of people in the small town masquerading as a capital city known as Washington, D.C.: the benighted individuals in the political and media elite who would think it's a sign of success when you get your name in the paper, and those of us in the private-ops side of town who know that when that happens it's a sign of failure. This week by the preponderance of the evidence I flopped more repeatedly than a striped bass in a barrel with a face full of bird shot. One thing this little sojourn in the spotlight has taught me was how smart it was to insist that, after the initial terrorist threat period ended, we never gave up the "secure undisclosed." I stopped to think about what this week might have been like with everybody from Brit Hume to Michael Moore camping in our driveway. Makes me wanna have one beer and go shooting….
-https://americanarchive.org/catalog/cpb-aacip-b1edbc2c9c8?start=1920.36&end=2500.75 
 
 ## The Obamas: "Father Knows Best"
 
-*Le Show*'s recurring feature about private life in the Obama White House, "Father Knows Best," featured the president attempting to explain his policy inconsistencies to one of his young daughters, complete with laugh tracks. Shearer composed and performed "Father Knows Best" around generic conventions of the arrestingly popular radio and television series of the same name,[<sup>96</sup>](/exhibits/eotp/notes#96) which starred Robert Young[<sup>97</sup>](/exhibits/eotp/notes#97) and Jane Wyatt.[<sup>98</sup>](/exhibits/eotp/notes#98) "Father Knows Best" made its *Le Show* debut on May 17, 2009, after President Obama failed to follow up on campaign promises to close Guantanamo Bay Detention Camp in southeastern Cuba.[<sup>99</sup>](/exhibits/eotp/notes#99)  
-https://americanarchive.org/catalog/cpb-aacip-61acc574eef?start=2197.8&end=2458.63 
+*Le Show*'s recurring feature about private life in the Obama White House, "Father Knows Best," featured the president attempting to explain his policy inconsistencies to one of his young daughters, complete with laugh tracks. Shearer composed and performed "Father Knows Best" around generic conventions of the arrestingly popular radio and television series of the same name,[<sup>96</sup>](/exhibits/eotp/notes#96) which starred Robert Young[<sup>97</sup>](/exhibits/eotp/notes#97) and Jane Wyatt.[<sup>98</sup>](/exhibits/eotp/notes#98) "Father Knows Best" made its *Le Show* [debut on May 17, 2009](https://americanarchive.org/catalog/cpb-aacip-61acc574eef?start=2197.8&end=2458.63), after President Obama failed to follow up on campaign promises to close Guantanamo Bay Detention Camp in southeastern Cuba.[<sup>99</sup>](/exhibits/eotp/notes#99)  
 
 Airing after the start of Obama's second term, this episode of "Father Knows Best" features a father-daughter conversation about the President's change of mind about accepting corporate money for his inauguration festivities.[<sup>100</sup>](/exhibits/eotp/notes#100) Shearer sets up the segment with another recurring *Le Show* segment, "Follow the Dollar": 
 https://americanarchive.org/catalog/cpb-aacip-8d2ff936eff?start=2521.82&end=2878.31 
 
-The final "Father Knows Best" on *Le Show* addresses Obama administration increases in warrantless National Security Agency surveillance of U.S. residents' internet traffic.[<sup>101</sup>](/exhibits/eotp/notes#101)  
-https://americanarchive.org/catalog/cpb-aacip-124d443cba5?start=2432.7&end=2820.02 
+The [final "Father Knows Best"](https://americanarchive.org/catalog/cpb-aacip-124d443cba5?start=2432.7&end=2820.02) on *Le Show* addresses Obama administration increases in warrantless National Security Agency surveillance of U.S. residents' internet traffic.[<sup>101</sup>](/exhibits/eotp/notes#101)  
 
 ## 44 Calls 43
 
