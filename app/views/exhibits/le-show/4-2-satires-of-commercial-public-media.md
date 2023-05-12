@@ -6,7 +6,7 @@
 
 ## Extended
 
-## Main - UPDATE
+## Main
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
@@ -52,10 +52,9 @@ https://americanarchive.org/catalog/cpb-aacip-5c6fa76d6fd?start=5516.95&end=5721
 
 The 1982 launch of the first U.S. general-interest nationwide weekday newspaper, *USA Today*, marked a further blurring of news and entertainment. *USA Today* used color more extensively and dramatically than other newspapers.[<sup>118</sup>](/exhibits/eotp/notes#118) News stories were shorter than in other major daily newspapers, and sports and entertainment were given equal play with news, thus lessening not only the amount of news covered but the depth of coverage. 
 
-Shearer sets up a 1989 satiric bit called "*USA Today*: The Radio Show" by noting the increasing influence of tabloid journalism in both print and on television:
+Shearer sets up a [1989 satiric bit called "*USA Today*: The Radio Show"](https://americanarchive.org/catalog/cpb-aacip-e359b9eed95?start=2270.53&end=2366.31) by noting the increasing influence of tabloid journalism in both print and on television:
 
-Everyone knows that the trend in television shows — programs — is towards the tabloidal. I got hung up on noticing the strangeness of the titles of some of these new programs and trying to figure out what the heck was going on. A case in point, ladies and gentlemen: *A Current Affair*. What does that mean? It's very tricky when you think about it, but please don't. I've already wasted my time doing this. They took the phrase that's familiar to all of us from school, *current events*. Then they made it a singular, *a current event*. But *event* sounds so boring, so flat, so dull. So they went, OK, *public affairs*. *Affair*. *A Current Affair*. See what they did? Now there's a new show that's premiering next week that's, well, best described as an imitation of *A Current Affair*, and its name is *Inside Edition*. They got the title the same way. They took *inside* story, but *story*, there may be more than one story in the show. And then, news: *final edition*. *Inside Edition*! There you go.
-https://americanarchive.org/catalog/cpb-aacip-e359b9eed95?start=2270.53&end=2366.31 
+> Everyone knows that the trend in television shows — programs — is towards the tabloidal. I got hung up on noticing the strangeness of the titles of some of these new programs and trying to figure out what the heck was going on. A case in point, ladies and gentlemen: *A Current Affair*. What does that mean? It's very tricky when you think about it, but please don't. I've already wasted my time doing this. They took the phrase that's familiar to all of us from school, *current events*. Then they made it a singular, *a current event*. But *event* sounds so boring, so flat, so dull. So they went, OK, *public affairs*. *Affair*. *A Current Affair*. See what they did? Now there's a new show that's premiering next week that's, well, best described as an imitation of *A Current Affair*, and its name is *Inside Edition*. They got the title the same way. They took *inside* story, but *story*, there may be more than one story in the show. And then, news: *final edition*. *Inside Edition*! There you go.
 
 "*USA Today*: The Radio Show"
 https://americanarchive.org/catalog/cpb-aacip-e359b9eed95?start=2570.71&end=2708.97 
@@ -94,11 +93,9 @@ https://americanarchive.org/catalog/cpb-aacip-63273f2fd8d?start=1009.9&end=1057.
 
 Shearer's satires of public radio programming devoted to business, economics, and personal finance news echo through the decades of *Le Show* via the segment "Mind Your Own Business." 
 
-The mergers and acquisitions mania of 1988[<sup>122</sup>](/exhibits/eotp/notes#122) was captured on Le Show in an early segment of "Mind Your Own Business" in which Shearer creates room for doubt about whether leveraged buyouts are in the public interest:
+The mergers and acquisitions mania of 1988[<sup>122</sup>](/exhibits/eotp/notes#122) was captured on Le Show in an [early segment of "Mind Your Own Business"](https://americanarchive.org/catalog/cpb-aacip-a4201ed1312?start=2620.76&end=2830.37) in which Shearer creates room for doubt about whether leveraged buyouts are in the public interest:
 
-"Direct from the trading floor of Corium Slocum Oliver, I'm Pete Tuccinello welcoming you to another edition of 'Mind Your Own Business.' This week, more than the subway was shaking Wall Street. The market dropped 30 points over a rumor that George Bush had a mistress.[<sup>123</sup>](/exhibits/eotp/notes#123) And the biggest business transaction in history was announced as RJR Nabisco, formerly Reynolds Tobacco, proposed to buy itself out.[<sup>124</sup>](/exhibits/eotp/notes#124) And to explain these developments, joining me here on the trading floor is an expert on leveraged buyouts — and of course everyone around here is an expert on rumors — the head of research for the respected market letter The Donblameus Report, Mr. Carl Donblameus…."
-
-https://americanarchive.org/catalog/cpb-aacip-a4201ed1312?start=2620.76&end=2830.37 
+> "Direct from the trading floor of Corium Slocum Oliver, I'm Pete Tuccinello welcoming you to another edition of 'Mind Your Own Business.' This week, more than the subway was shaking Wall Street. The market dropped 30 points over a rumor that George Bush had a mistress.[<sup>123</sup>](/exhibits/eotp/notes#123) And the biggest business transaction in history was announced as RJR Nabisco, formerly Reynolds Tobacco, proposed to buy itself out.[<sup>124</sup>](/exhibits/eotp/notes#124) And to explain these developments, joining me here on the trading floor is an expert on leveraged buyouts — and of course everyone around here is an expert on rumors — the head of research for the respected market letter The Donblameus Report, Mr. Carl Donblameus…."
 
 Changes to the business of advertising caused by COVID pandemic-era inflation and digital-device overload set the stage for Shearer’s satire of a fictional business called "Brain Flush." Intended to help the “attentionally challenged," "Brain Flush" is for "anybody who's got a laptop or a cell phone," because "sometimes it feels like our brains have been colonized by over-talkative aliens."
 https://americanarchive.org/catalog/cpb-aacip-0deb39ea557 at 0:34:42
