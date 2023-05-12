@@ -6,7 +6,7 @@
 
 ## Extended
 
-## Authors - UPDATE
+## Authors
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/eberlyheadshot.jpg"/>
   <a class="name">Rosa A. Eberly</a>
@@ -14,7 +14,7 @@
   <a class="credit">Phographed by Kirt H. Wilson</a>
 
 
-## Resources - UPDATE
+## Resources
 
 ## Main
 
@@ -34,17 +34,17 @@ If journalism is the first rough draft of history,[<sup>7</sup>](/exhibits/le-sh
 
 #### Next: [Harry Shearer's Creative Life](/exhibits/le-show/2-harry-shearer-creative-life)
 
-## Cover - UPDATE
+## Cover
 <table class="exhibit-image">
   <caption align="bottom" class="exhibit-caption">*Black Journal* hosts William Greaves and Lou House.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2_cropped.png" alt="Hosts William Greaves and Lou House of *Black Journal*."/></td></tr>
+  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain.jpg" alt="Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly."/></td></tr>
 </table>
 
-## Gallery - UPDATE
+## Gallery
 
 - <a class="type">image</a>
-  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_power/b_greaves_and_house_option_2.png">
-  <a class="caption-text">*Black Journal* hosts William Greaves and Lou House.</a>
+  <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain.jpg">
+  <a class="caption-text">Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly.</a>
 
 ## Records -  ADD RECORDS HERE
 
