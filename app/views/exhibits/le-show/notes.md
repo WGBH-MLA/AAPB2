@@ -1,6 +1,6 @@
 # Notes
 
-7 - UPDATE
+11
 
 ## Summary
 
@@ -127,322 +127,184 @@ https://www.youtube.com/watch?v=ugfGqMpi2bE.
 
 <a name="61"></a><sup>61</sup> Randy Lewis, "Harry Shearer's 'Le Show' Moves to KCSN-FM (88.5)," *Los Angeles Times*, July 10, 2013, https://www.latimes.com/entertainment/music/posts/la-et-ms-harry-shearer-le-show-20130710-story.html.
 
+<a name="62"></a><sup>62</sup> Aljean Harmetz, "Man of a Thousand Voices, Speaking Literally," *New York Times*, November 24, 1988, https://www.nytimes.com/1988/11/24/arts/man-of-a-thousand-voices-speaking-literally.html. 
 
+<a name="63"></a><sup>63</sup> Shearer ended the July 16, 1989, broadcast of *Le Show* with a "possibly mawkish" story about Blanc's mentorship at https://americanarchive.org/catalog/cpb-aacip-44c73a95c9d?start=3290.35&end=3446.65.
 
+<a name="64"></a><sup>64</sup> "Tribute to Paul Harvey," *Le Show*, March 1, 2009, https://americanarchive.org/catalog/cpb-aacip-596ab0d89b8.
 
+<a name="65"></a><sup>65</sup> "Tribute to Stanley Kutler & Stan Freberg," *Le Show*, April 12, 2015, https://americanarchive.org/catalog/cpb-aacip-5d1a9bcd9a3.
 
+<a name="66"></a><sup>66</sup> Twitter, @theharryshearer 4:27 AM · Dec 31, 2018;
+*Le Show*, April 10, 2002, https://americanarchive.org/catalog/cpb-aacip-283bf7df223?start=1819.58&end=1921.15.  
 
-<a name="62"></a><sup>62</sup> Jiménez, “Moving from the Margin to the Center,” 26; Noriega, *Shot in America*, 151; Reyes and Rubie, *Hispanics in Hollywood*, 351-52; and Treviño, “Latinos and Public Broadcasting, 65.
+<a name="67"></a><sup>67</sup> "Death of Bob Elliott," *Le Show*, February 7, 2016, https://americanarchive.org/catalog/cpb-aacip-f66d58ad8f1?start=1146.48&end=1501.23; 
+"It breaks my heart to say RIP Bob Elliott. Nobody taught me more about humor than Bob & Ray.... My deepest condolences to Chris & siblings...." @theharryshearer, 5:17 PM · February 3, 2016. 
 
-<a name="63"></a><sup>63</sup> Reyes and Rubie, *Hispanics in Hollywood*, 574.
+<a name="68"></a><sup>68</sup> *Le Show*, March 31, 2002, https://americanarchive.org/catalog/cpb-aacip-5e1bbbb3c3e?start=5652.26&end=7365.
 
-<a name="64"></a><sup>64</sup> Reyes and Rubie, *Hispanics in Hollywood*, 366.
+<a name="69"></a><sup>69</sup> *Le Show*, May 4, 2008, https://americanarchive.org/catalog/cpb-aacip-e9e8b139835?start=688.94&end=3543. 
 
-<a name="65"></a><sup>65</sup> WGBH, “La Plaza,” *Primetime Program Guide*, January 1979.
+<a name="70"></a><sup>70</sup> Harry Shearer *Le Show* interview of Mort Sahl, July 20, 2003, https://americanarchive.org/catalog/cpb-aacip-c9cc35aa74f. 
 
-<a name="66"></a><sup>66</sup> Alice Hernandez, Press Release *Images/Imagenes*, Rutgers University, New Brunswick, revised January 29, 2019.
+<a name="71"></a><sup>71</sup> Aila Slisco, "Harry Shearer, Albert Brooks Mourn Legendary Stand Up Comedian Mort Sahl," *Newsweek* October 26, 2021, https://www.newsweek.com/harry-shearer-albert-brooks-mourn-legendary-stand-comedian-mort-sahl-1642908.
 
-<a name="67"></a><sup>67</sup> William Q. Sánchez, interview with Alan Gevinson and Gabriela Rivera Marin (American Archive of Public Broadcasting), February 25, 2020.
+<a name="72"></a><sup>72</sup> Fred Goodman, "Television/Radio; Taking Apart Politics (While Playing All the Parts)," *New York Times*, January 12, 2003, https://www.nytimes.com/2003/01/12/arts/television-radio-taking-apart-politics-while-playing-all-the-parts.html. 
 
-<a name="68"></a><sup>68</sup> Alice Hernandez, “*Images/Imagenes* Celebrates Premier on NJTV & the Latino(a) Celebrity Performing Arts Awards,” Rutgers University, New Brunswick, December 11, 2019.
+<a name="73"></a><sup>73</sup> *Le Show*, January 6, 1991, https://americanarchive.org/catalog/cpb-aacip-5517c96f1cb?start=1118.75&end=1187.93.
 
-<a name="69"></a><sup>69</sup> Treviño, “Latinos and Public Broadcasting,” 65.
+<a name="74"></a><sup>74</sup> In the same episode Shearer sets up and then performs a sketch featuring a just-post-CBS Dan Rather on *Larry King Live*. 
 
-<a name="70"></a><sup>70</sup> Les Brown, "Grant for PBS Latin Series Goes Directly to Producer," *New York Times*, October 27, 1979, 45.
+<a name="75"></a><sup>75</sup> Drawing on the work of Michel-Rolph Trouillot, Allison Perlman explains the vital role of radio history as a complement to official or fabulous histories: "[S]ilences and absences enter into the production of history at four moments: fact creation, or the making of sources; fact assembly, or the making of archives; fact retrieval, or the making of narratives; and retrospective significance, or the making of history itself…." Learning about radio history "can help puncture the uninterrogated fables that inform works of 20th century US history." Allison Perlman, "Radio Silence: The Radio Preservation Task Force and the Uses of Radio History," *New Review of Film and Television Studies* 16, no. 4 (2018), 434-40, https://doi.org/10.1080/17400309.2018.1524966.
 
-<a name="71"></a><sup>71</sup> Treviño states that the Oye Willie series was not funded for a second year “for what appear valid reasons.” See Treviño, “Latinos and Public Broadcasting,” 65.
+<a name="76"></a><sup>76</sup> "Dueling dramatizations from radio’s premiere venue of bifurcated possibilities: Alternative Scenario Playhouse." Shearer reads a news report lead-in to the Alternative Scenario Playhouse at *Le Show*, March 21, 2004, https://americanarchive.org/catalog/cpb-aacip-c8461cfef5f?start=3052.56&end=3456.85. 
 
-<a name="72"></a><sup>72</sup> Treviño, “Latinos and Public Broadcasting,” 65.
+<a name="77"></a><sup>77</sup> White House Historical Association, "Richard M. Nixon," https://www.whitehouse.gov/about-the-white-house/presidents/richard-m-nixon/. 
 
-<a name="73"></a><sup>73</sup> Noriega, *Shot in America*, 152-53; Treviño, “Latinos and Public Broadcasting,” 65.
+<a name="78"></a><sup>78</sup> HarryShearer.com, "Tricky Dick in His Own Words: Harry Shearer on 'Nixon's the One,'" https://harryshearer.com/projects/nixons-the-one/. 
 
-<a name="74"></a><sup>74</sup> Noriega, *Shot in America*, 154-58; quote on 154.
+<a name="79"></a><sup>79</sup> Maron, "Harry Shearer," https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer at 00:21:46.
 
-<a name="75"></a><sup>75</sup> Galán Incorporated Television & Film, http://www.galaninc.com/site/biography.
+<a name="80"></a><sup>80</sup> "All This Power: The Making of 'Nixon’s The One' with Harry Shearer," https://vimeo.com/114436275. See also Andrew Collins, "Harry Shearer: 'Richard Nixon Wanted My Ass in Vietnam,'" *The Guardian*, January 29, 2014, https://www.theguardian.com/tv-and-radio/2014/jan/29/harry-shearer-richard-nixon-vietnam-spinal-tap-simpsons. 
 
-<a name="76"></a><sup>76</sup> Carla Hall, “PBS Magazine for Teens Worth Checking Out,” *Washington Post*, January 9, 1982, C6; Galán Incorporated Television & Film, http://www.galaninc.com/site/filmography/1981/10/checking-it-out-senior-producer/.
+<a name="81"></a><sup>81</sup> "Hellcats of the Navy, U.S.A., 1957," *Monthly Film Bulletin* January 1, 1957, 127.
 
-<a name="77"></a><sup>77</sup> Hector Galán, quoted in Jason Price, “Galan, Hector,” in *The Concise Routledge Encyclopedia of the Documentary Film*, ed. Ian Aitken (New York: Routledge, 2013), 280-81.
+<a name="82"></a><sup>82</sup> As the *Los Angeles Times* explained in Holmes Tuttle's obit, "A wealthy automobile dealer, Tuttle had been one of Reagan's closest friends and advisers since they met in 1946, when Tuttle sold Reagan a Ford coupe. Tuttle had been the dominant force in Reagan's 'kitchen cabinet' — the group of 10 or so wealthy financial backers whose advice Reagan respected and often followed —  in Sacramento and later in Washington." "Holmes Tuttle, a Force in Reagan Political Rise, Dies," *Los Angeles Times*, June 17, 1989, https://www.latimes.com/archives/la-xpm-1989-06-17-mn-1588-story.html.
 
-<a name="78"></a><sup>78</sup> Galán Incorporated Television & Film, http://www.galantvfilm.com/filmography.html; Susan King, “Classic Hollywood: ‘Children of Giant’ Explores Legacy of ‘Giant’ in Marfa, Texas,” *Los Angeles Times*, April 11, 2005, https://www.latimes.com/entertainment/classichollywood/la-et-mn-ca-classic-hollywood-children-giant-20150412-story.html.
+<a name="83"></a><sup>83</sup> Rick Kogan, "Shearer Not Afraid to Take Political Pot Shots," *Chicago Tribune* July 29, 1988, G2.
 
-<a name="79"></a><sup>79</sup> Noriega, *Shot in America*, 181-82.
+<a name="84"></a><sup>84</sup> Lloyd Grove, "Mr. Reagan's Neighborhood," *Washington Post*, April 15, 1987, https://www.washingtonpost.com/archive/lifestyle/1987/04/15/mr-reagans-neighborhood/ed817b5d-b514-45f3-a394-af66afd89590/; Natalie Stone, "Ronald and Nancy Reagan's Former Bel-Air Home Sells for $15M," *Hollywood Reporter*, July 12, 2016, https://www.hollywoodreporter.com/lifestyle/lifestyle-news/ronald-nancy-reagans-bel-air-910243/. 
 
-<a name="80"></a><sup>80</sup> Teresa Puente, “Show Remembers Chicano Struggle,” *Chicago Tribune*, April 12, 1996.
+<a name="85"></a><sup>85</sup> David Johnston, "Judge Won’t Order Reagan Testimony," *New York Times*, April 1, 1989, https://www.nytimes.com/1989/04/01/us/judge-won-t-order-reagan-testimony.html. For more on Iran-Contra, see Bryan Craig, "The Iran-Contra Affair: The Reagan Administration's Covert Arms-for-Hostages Deal Sparked an Independent Counsel Probe," The Miller Center, July 12, 2017, https://millercenter.org/issues-policy/foreign-policy/iran-contra-affair.
 
-<a name="81"></a><sup>81</sup> Judith Michaelson, “KCET Breaks with History to Fund ‘Chicano!’ Series,” *Los Angeles Times*, September 9, 1995.
+<a name="86"></a><sup>86</sup> Lawrence E. Walsh, "Final Report of the Independent Counsel on Iran/Contra Matters," August 4, 1993, https://irp.fas.org/offdocs/walsh/.
 
-<a name="82"></a><sup>82</sup> Walter Goodman, “On the Chicano Awakening,” *New York Times*, April 12, 1996.
+<a name="87"></a><sup>87</sup> Helen Dewar, "Senate Kills Tower's Nomination as Defense Chief, 53-47," *Washington Post*, March 10, 1989, https://www.washingtonpost.com/archive/politics/1989/03/10/senate-kills-towers-nomination-as-defense-chief-53-47/5e0b1518-4ee7-499e-85b8-b2f9fcb4989a/. 
 
-<a name="83"></a><sup>83</sup> PBS, “POV at a Glance”, https://www.pbs.org/pov/about/.  
+<a name="88"></a><sup>88</sup> Robert Pear, "Bush’s Lawyer Say Aides May Destroy Records," *New York Times*, November 21, 1992, https://www.nytimes.com/1992/11/21/us/bush-s-lawyer-says-aides-may-destroy-records.html.
 
-<a name="84"></a><sup>84</sup> “Background: About Latino Public Broadcasting,” Latino Public Broadcasting, accessed September 28, 2021, https://lpbp.org/background/.
+<a name="89"></a><sup>89</sup> Gerhard Peters and John T. Woolley, "William J. Clinton Event Timeline," American Presidency Project, University of California, Santa Barbara, https://www.presidency.ucsb.edu/documents/william-j-clinton-event-timeline. 
 
-<a name="85"></a><sup>85</sup> *The NewsHour with Jim Lehrer*, May 14, 2007, https://americanarchive.org/catalog/cpb-aacip-507-mg7fq9qx2q?start=2409.88&end=3267.52; *Democracy Now!*, “PBS Criticized for Excluding Latino, Native Voices from WWII Documentary,” April 13, 2007, https://www.democracynow.org/2007/4/13/pbs_criticized_for_excluding_latino_native; Defend the Honor: Claiming Space for Latinos and Latinas in Our Nation’s Consciousness, http://defendthehonor.org.
+<a name="90"></a><sup>90</sup> Russell Riley, "The Clinton Impeachment and Its Fallout," Miller Center, University of Virginia, n.d., https://millercenter.org/the-presidency/impeachment/clinton-impeachment-and-its-fallout. 
 
-<a name="86"></a><sup>86</sup> Julia Preston, “Four Centuries, Countless Influences: A PBS Series Documents the Story of Hispanics in America,” *New York Times*, September 15, 2013. *Latino Americans* is available through Kanopy: https://www.kanopy.com/product/latino-americans.
+<a name="91"></a><sup>91</sup> The theme song for Bill Clinton's 1992 presidential campaign was Fleetwood Mac's "Don’t Stop (Thinking About Tomorrow)" https://www.pbs.org/video/dont-stop-iponiu/. 
 
-<a name="87"></a><sup>87</sup> Jynnah Radford, “Key Findings about U.S. Immigrants,” *Pew Research Center*, June 17, 2019, https://www.pewresearch.org/fact-tank/2019/06/17/key-findings-about-u-s-immigrants/.
+<a name="92"></a><sup>92</sup> *The 9/11 Commission Report: Final Report of the National Commission on Terrorist Attacks upon the United States, Official Government Edition*, July 2004, 198, https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf. 
 
-<a name="88"></a><sup>88</sup> Emma Lazarus, “The New Colossus,” November 2, 1883, as quoted in National Park Service, “Statue of Liberty: National Monument of New York, The New Colossus,” updated August 14, 2019,
-https://www.nps.gov/stli/learn/historyculture/colossus.htm.
+<a name="93"></a><sup>93</sup> Charles Babington, "Cheney Leaves His Bunker for a Little Fundraising," *Washington Post*, December 16, 2001, https://www.washingtonpost.com/archive/politics/2001/12/16/cheney-leaves-his-bunker-for-a-little-fundraising/14010701-7623-4a4f-bf47-0f40cebc6567/; Scott Wilson and Karen DeYoung, "In Memoir, Cheney Defends Decisions, Bush as President," *Washington Post*, August 25, 2011, https://www.washingtonpost.com/politics/2011/08/25/gIQA4i6zeJ_story.html. 
 
-<a name="89"></a><sup>89</sup> Roger Daniels, *Coming to America: A History of Immigration and Ethnicity in American Life* (New York: HarperCollins, 1990), 265-84.
+<a name="94"></a><sup>94</sup> Anne E. Kornblut, "Cheney Shoots Fellow Hunter in Mishap on a Texas Ranch," *New York Times*, February 13, 2006, https://www.nytimes.com/2006/02/13/politics/cheney-shoots-fellow-hunter-in-mishap-on-a-texas-ranch.html. 
 
-<a name="90"></a><sup>90</sup> Lyndon B. Johnson, “President Lyndon B. Johnson’s Remarks at the Signing of the Immigration Bill,” October 3, 1965, LBJ Presidential Library, http://www.lbjlibrary.org/lyndon-baines-johnson/timeline/lbj-on-immigration.
+<a name="95"></a><sup>95</sup> Howard Kurtz, "Brit Hume, Cheney's Choice for a Straight Shooter," *Washington Post*, February 16, 2006, https://www.washingtonpost.com/archive/lifestyle/2006/02/16/brit-hume-cheneys-choice-for-a-straight-shooter/e65c4728-47a6-4f7d-ab4f-c3b89d64afdb/. For more on Cheney see Joan Didion, "Cheney: The Fatal Touch," *The New York Review of Books*, October 5, 2006. 
 
-<a name="91"></a><sup>91</sup> Steven M. Gillon, “*That’s Not What We Meant to Do”: Reform and Its Unintended Consequences in Twentieth-Century America* (New York: W. W. Norton, 2000).
+<a name="96"></a><sup>96</sup> "Father Knows Best – Full Cast & Crew," *TV Guide*, https://www.tvguide.com/tvshows/father-knows-best/cast/1000032695/.
 
-<a name="92"></a><sup>92</sup> Daniels, *Coming to America*,  338-44.
+<a name="97"></a><sup>97</sup> Bernard Weinraub, "Robert Young of 'Father Knows Best' Dies at 91," *New York Times*, July 23, 1998, https://www.nytimes.com/1998/07/23/arts/robert-young-of-father-knows-best-dies-at-91.html.
 
-<a name="93"></a><sup>93</sup> Katherine Witsman, “U.S. Lawful Permanent Resident: 2017,” *Annual Flow Report* (U.S. Department of Homeland Security, Office of Immigration Statistics, August 2018), 2, https://www.dhs.gov/sites/default/files/publications/Lawful_Permanent_Residents_2017.pdf.
+<a name="98"></a><sup>98</sup> Robert Berkvist, "Jane Wyatt, Mother on 'Father Knows Best,' Dies at 96," *New York Times*, October 23, 2006, https://www.nytimes.com/2006/10/23/arts/23wyatt.html.
 
-<a name="94"></a><sup>94</sup> Regina Branton and Johanna Dunaway, “English- and Spanish-Language Media Coverage of Immigration: A Comparative Analysis, *Social Science Quarterly*, 89, no. 4 (December 2008): 1006-22, doi:http://dx.doi.org/10.1111/j.1540-6237.2008.00596.x.
+<a name="99"></a><sup>99</sup> David Alexander, "Obama Revives Controversial Guantanamo Tribunals," *Reuters*, May 15, 2009, https://www.reuters.com/article/us-usa-security-guantanamo/obama-revives-controversial-guantanamo-tribunals-idUSTRE54E4S820090515. See also Connie Bruck, "Why Obama Has Failed To Close Guantanamo," *New Yorker*, July 25, 2016, https://www.newyorker.com/magazine/2016/08/01/why-obama-has-failed-to-close-Guantanamo. 
 
-<a name="95"></a><sup>95</sup> Francisco E. Balderrama and Raymond Rodríguez, *Decade of Betrayal: Mexican Repatriation in the 1930s*, rev. ed. (Albuquerque: University of New Mexico Press, 2006); Kevin R. Johnson, “The Forgotten ‘Repatriation’ of Persons of Mexican Ancestry and Lessons for the ‘War on Terror,” 26 *Pace Law Review* 1 (2005), 1-26, https://digitalcommons.pace.edu/plr/vol26/iss1/1/.
+<a name="100"></a><sup>100</sup> Jeff Mason, "In Shift, Obama Accepts Corporate Funding for Inauguration," *Reuters*, December 9, 2012, https://www.reuters.com/article/us-usa-obama-inauguration/in-shift-obama-accepts-corporate-funding-for-inauguration-idUSBRE8B80HX20121209. 
 
-<a name="96"></a><sup>96</sup> Johnson, “The Forgotten ‘Repatriation,’” 2-3, 4.
+<a name="101"></a><sup>101</sup> Charlie Savage, Julia Angwin, Jeff Larson, and Hanrik Moltke, "Hunting for Hackers, N.S.A. Secretly Expands Internet Spying at U.S. Border," *New York Times*, June 4, 2015, https://www.nytimes.com/2015/06/05/us/hunting-for-hackers-nsa-secretly-expands-internet-spying-at-us-border.html. 
 
-<a name="97"></a><sup>97</sup> Alicia Schmidt Camacho, *Migrant Imaginaries* (New York: New York University Press, 2008), 67-68; Bracero History Archive, “About,” Roy Rosenzweig Center for History and New Media, George Mason University, Smithsonian National Museum of American History, Brown University, The Institute of Oral History at the University of Texas at El Paso, 2020, http://braceroarchive.org/about.
+<a name="102"></a><sup>102</sup> President Obama can be heard using the term "Boom" at 00:03:19 in a video of his press conference at https://www.youtube.com/watch?v=2rT7IANtSjo. 
 
-<a name="98"></a><sup>98</sup> Marjorie S. Zatz, “Using and Abusing Mexican Farmworkers: The Bracero Program and the INS,” *Law & Society Review* 27, no. 4 (1993), 860, https://doi:10.2307/3053955.
+<a name="103"></a><sup>103</sup> Ian Urbina, "Inspector General's Inquiry Faults Regulators," *New York Times*, May 25, 2010, 
+https://www.nytimes.com/2010/05/25/us/25mms.html. 
 
-<a name="99"></a><sup>99</sup> Camacho, *Migrant Imaginaries*, 108.
+<a name="104"></a><sup>104</sup> Ben Rhodes, "Inside the White House During the Syrian 'Red Line' Crisis," *The Atlantic*, June 3, 2018, https://www.theatlantic.com/international/archive/2018/06/inside-the-white-house-during-the-syrian-red-line-crisis/561887/. 
 
-<a name="100"></a><sup>100</sup> Kelly Lytle Hernández, “The Crimes and Consequences of Illegal Immigration: A Cross-Border Examination of Operation Wetback, 1943 to 1954,” *Western Historical Quarterly* 37, no. 4 (Winter 2006), 421-44, https://www.jstor.org/stable/25443415.
+<a name="105"></a><sup>105</sup> Dan Clarendon, "'Whose Line Is It Anyway' to End with Season 12 at The CW, Colin Mochrie Says," *TV Insider*, November 5, 2022, https://www.tvinsider.com/1068544/whose-line-is-it-anyway-ending-season-12-colin-mochrie-tweet-the-cw/.
 
-<a name="101"></a><sup>101</sup> Kelly Lytle Hernández; quoted in Erin Blakemore, “The Largest Mass Deportation in American History,” HISTORY website, updated June 18, 2019,
-https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
+<a name="106"></a><sup>106</sup> Jeremy Ashkenas, Hannah Fairfield, Josh Keller, and Paul Volpe, "7 Key Points from the C.I.A. Torture Report," *New York Times*, December 9, 2014, https://www.nytimes.com/interactive/2014/12/09/world/cia-torture-report-key-points.html.
 
-<a name="102"></a><sup>102</sup> Hernández, “Crimes and Consequences,” 421.
+<a name="107"></a><sup>107</sup> Sheri Fink and James Risen, "Psychologists Open a Window on Brutal C.I.A. Interrogations," *New York Times*, June 21, 2017, https://www.nytimes.com/interactive/2017/06/20/us/cia-torture.html.
 
-<a name="103"></a><sup>103</sup> Kelly Lytle Hernández, *Migra! A History of the U.S. Border Patrol* (Berkeley: University of California Press, 2010), 184-97.
+<a name="108"></a><sup>108</sup> "Your Call: What Do You Want to Ask Harry Shearer?" December 15, 2014, KALW.com, 
+https://www.kalw.org/show/your-call/2014-12-15/your-call-what-do-you-want-to-ask-harry-shearer. Searching the *Le Show* archive for the recurring "News of Secrets" segment provides updates on the evolving release of information from the CIA Torture Report.
 
-<a name="104"></a><sup>104</sup> For further information, see Juan Ramon García, *Operation Wetback: The Mass Deportation of Mexican Undocumented Workers in 1954* (Westport CT: Greenwood Press, 1980).
+<a name="109"></a><sup>109</sup> Scott Pelley, "George Tenet: At the Center of the Storm," CBS News: *60 Minutes*, April 25, 2007, https://www.cbsnews.com/news/george-tenet-at-the-center-of-the-storm/.
 
-<a name="105"></a><sup>105</sup> Johnson, “Remarks at the Signing of the Immigration Bill.”
+<a name="110"></a><sup>110</sup> Patricia Brennan, "If Words Don't Translate Maybe the Attitude Will," *Washington Post*, April 15, 1990, https://www.washingtonpost.com/archive/lifestyle/tv/1990/04/15/if-words-dont-translate-maybe-the-attitude-will/01ce2690-033b-44d9-9b90-2b524eeb0f58/.
 
-<a name="106"></a><sup>106</sup> Ramón A. Gutierrez, "Mexican Immigration to the United States," *Oxford Research Encyclopedia of American History*, July 29, 2019, https://oxfordre.com/americanhistory/view/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-146.
+<a name="111"></a><sup>111</sup> Shearer compiled eight of his *Le Show* Trumpsongs, including "Caveat Discipulus," into The Donald Trump Songbook to mark the beginning of the Trump administration's third year. 
 
-<a name="107"></a><sup>107</sup> Jill Lepore, *These Truths: A History of the United States* (New York: W.W. Norton, 2018), 674-75.
+<a name="112"></a><sup>112</sup> Dan Snierson, "Donald Trump: Harry Shearer Imagines Conversation between President Obama and the President-Elect," *Entertainment Weekly*, November 23, 2016, https://ew.com/article/2016/11/23/donald-trump-barack-obama-harry-shearer-too-soon/. See also Remington Scott, "Too Soon?" https://vimeo.com/192697005; "Trump Final," https://vimeo.com/192887050; "Obama Final," https://vimeo.com/192886954.
 
-<a name="108"></a><sup>108</sup> James T. Patterson, *Restless Giant: The United States from Watergate to Bush v. Gore* (New York: Oxford University Press, 2005), 296.
+<a name="113"></a><sup>113</sup> Nancy Benac, "In Trump's 'Apprentice' Run, Reality Wasn't What It Seemed," *Associated Press*, October 15, 2016, https://apnews.com/article/entertainment-arts-and-entertainment-election-2020-campaign-2016-events-1ab9c6b8ebd444bdbcfc3fbf0a424765.
 
-<a name="109"></a><sup>109</sup> For further information on the 1965 Act, see Gabriel J. Chin and Rose Cuison Villazor, eds., *The Immigration and Nationality Act of 1965: Legislating a New America* (New York: Cambridge University Press, 2015).
+<a name="114"></a><sup>114</sup> Metadata structures fail to capture most of Shearer's impromptu oral compositions, unfortunate because Shearer's spontaneous human speech constitutes a significant part of the rhetorical richness of *Le Show*. Listening to entire episodes will almost always deliver unanticipated delights.
 
-<a name="110"></a><sup>110</sup> D’Vera Cohn, “How U.S. Immigration Laws and Rules Have Changed through History,” FactTank: News in the Numbers, Pew Research Center, September 30, 2015, https://www.pewresearch.org/fact-tank/2015/09/30/how-u-s-immigration-laws-and-rules-have-changed-through-history/.  
+<a name="115"></a><sup>115</sup> "60 Minutes - Saturday Night Live," *Saturday Night Live*, Season 10, initial air date November 17, 1984, https://www.youtube.com/watch?v=b_5jZ3DbwoM.
 
-<a name="111"></a><sup>111</sup> Gutiérrez, "Mexican Immigration.”
+<a name="116"></a><sup>116</sup> Dan Rather on a roof in Seattle, in "Dan Rather – Harry Shearer: Politics," My Damn Channel, posted October 2, 2007, https://www.youtube.com/watch?v=3rA0_WdpNUU. 
 
-<a name="112"></a><sup>112</sup> Ballotpedia, “California Proposition 187, Illegal Aliens Ineligible for Public Benefits,” https://ballotpedia.org/California_Proposition_187,_Illegal_Aliens_Ineligible_for_Public_Benefits_(1994).
+<a name="117"></a><sup>117</sup> Andrew Adam Newman, "Talking Heads Caught in Moments of Silence," *New York Times*, December 30, 2008,  https://www.nytimes.com/2008/12/31/arts/design/31shea.html. 
 
-<a name="113"></a><sup>113</sup> Gustavo Arellano, “Prop. 187 Forced a Generation to Put Fear Aside and Fight. It Transformed California, and Me,” *Los Angeles Times*, October 29, 2019, https://www.latimes.com/california/story/2019-10-29/proposition-187-california-pete-wilson-essay.
+<a name="118"></a><sup>118</sup> Bill Mitchell, "The Colorful Origins of USA Today," Poynter Online, December 17, 2002. https://www.poynter.org/archive/2002/the-colorful-origins-of-usa-today/.
 
-<a name="114"></a><sup>114</sup> *Fear and Learning at Hoover Elementary* can be accessed at https://www.kanopy.com/product/fear-and-learning-hoover-elementary. Additional information can be found at http://archive.pov.org/fearandlearning/film-description/.
+<a name="119"></a><sup>119</sup> "Before his own problems became public, Mr. Limbaugh had decried drug use and abuse and had mocked President Bill Clinton for saying he had not inhaled when he tried marijuana. He often made the case that drug crimes deserve punishment. 'Drug use, some might say, is destroying this country,' Mr. Limbaugh said on his short-lived television program on October 5, 1995. 'And we have laws against selling drugs, pushing drugs, using drugs, importing drugs.' He added, 'And so if people are violating the law by doing drugs, they ought to be accused and they ought to be convicted and they ought to be sent up.'" See "Rush Limbaugh Arrested on Prescription Drug Charges" *New York Times*, April 28, 2006, https://www.nytimes.com/2006/04/28/us/rush-limbaugh-arrested-on-prescription-drug-charges.html. 
 
-<a name="115"></a><sup>115</sup> Ballotpedia,“California Proposition 187.”
+<a name="120"></a><sup>120</sup> Allana Akhtar, "Brits Are Calling Out the 'Dystopian' and 'Post-Apocalyptic' American Pharma Ads That Aired during Oprah's Interview with Meghan Markle and Prince Harry," *Business Insider*, March 8, 2021, https://www.businessinsider.com/brits-call-american-pharmaceutical-ads-post-apocalyptic-2021-3. 
 
-<a name="116"></a><sup>116</sup> For further information on California Proposition 187, see Kevin R. Johnson, “Proposition 187 and Its Political Aftermath: Lessons for U.S. Immigration Politics after Trump,” 53 U.C.D. L. Rev. 1859 (2020), https://lawreview.law.ucdavis.edu/issues/53/4/53-4_Johnson.pdf; Kevin R. Johnson, "An Essay on Immigration Politics, Popular Democracy, and California's Proposition 187: The Political Relevance and Legal Irrelevance of Race," 70 Washington Law Review 629 (1995); Kevin R. Johnson, "Public Benefits and Immigration: The Intersection of Immigration Status, Ethnicity, Gender, and Class," 42 UCLA Law Review 1509 (1995).
+<a name="121"></a><sup>121</sup> Gardiner Harris, "Pfizer Pays $2.3 Billion to Settle Marketing Case," *New York Times*, September 2, 2009, https://www.nytimes.com/2009/09/03/business/03health.html.
 
-<a name="117"></a><sup>117</sup> Border Protection, Antiterrorism, and Illegal Immigration Control Act of 2005, H.R. 4437, 109th Cong. (2015), https://www.congress.gov/bill/109th-congress/house-bill/4437.
+<a name="122"></a><sup>122</sup> "Merger Record in '88 Is Seen," *New York Times*, November 21, 1988, https://www.nytimes.com/1988/11/21/business/merger-record-in-88-is-seen.html. 
 
-<a name="118"></a><sup>118</sup> Gutiérrez, "Mexican Immigration."
+<a name="123"></a><sup>123</sup> Howard Kurtz, "Bush Angrily Denounces Report of Extramarital Affair as 'A Lie,'" *Washington Post*, August 12, 1992, https://www.washingtonpost.com/archive/politics/1992/08/12/bush-angrily-denounces-report-of-extramarital-affair-as-a-lie/431e91c8-ff23-4afd-843c-b083f297fff4/.
 
-<a name="119"></a><sup>119</sup> For further information on DACA, see Kevin R. Johnson, “Lessons about the Future of Immigration Law from the Rise and Fall of DACA,” 52 U.C.D. L. Rev. 343 (2018-2019),  https://lawreview.law.ucdavis.edu/issues/52/1/Symposium/52-1_Johnson.pdf; Shoba S. Wadhia, “The President and Deportation: DACA, DAPA, and the Sources and Limits of Executive Authority - Response to Hiroshi Motomura,” 55Washburn L.J.189 (2016), https://elibrary.law.psu.edu/cgi/viewcontent.cgi?article=1263&context=fac_works.
+<a name="124"></a><sup>124</sup> James Sterngold, "Balomon to Join Shearson in Nabisco Battle," *New York Times*, October 28, 1988, https://www.nytimes.com/1988/10/28/business/salomon-to-join-shearson-in-nabisco-battle.html. 
 
-<a name="120"></a><sup>120</sup> Reilly Frye, “Family Separation under the Trump Administration: Applying an International Criminal Law Framework,” *Journal of Criminal Law and Criminology* 110, no. 2 (2020): 349, https://www.jstor.org/stable/48572373.
+<a name="125"></a><sup>125</sup> JJ Sutherland, "Karzai Brother Being Investigated for Corruption," *The Two-Way*, NPR, September 27, 2010, https://www.npr.org/sections/thetwo-way/2010/09/27/130152430/karzai-brother-being-investigated-for-corruption.
 
-<a name="121"></a><sup>121</sup> Michael D. Shear, Abby Goodnough, and Maggie Haberman, “Trump Retreats on Separating Families, but Thousands May Remain Apart,” *New York Times*, June 20, 2018, https://www.nytimes.com/2018/06/20/us/politics/trump-immigration-children-executive-order.html.
+<a name="126"></a><sup>126</sup> David Dzikowski, "The Ironic Voice and Subjunctive Mood of Public Radio Programming" (Ph.D. diss., Pennsylvania State University, 2009), 13.
 
-<a name="122"></a><sup>122</sup> Branton and Dunaway, “English- and Spanish-Language Media Coverage of Immigration.”
+<a name="127"></a><sup>127</sup> NPR, "Tom and Ray Magliozzi: Hosts, *Car Talk*," undated, https://www.npr.org/people/2100834/tom-and-ray-magliozzi.
 
-<a name="123"></a><sup>123</sup> Casillas, “Sounds of Surveillance,” 811-12.
+<a name="128"></a><sup>128</sup> NPR, "Tom and Ray Magliozzi." 
 
-<a name="124"></a><sup>124</sup> Casillas, “Sounds of Surveillance,” 814.
+<a name="129"></a><sup>129</sup> "Afghan President Karzai's Brother Targeted in U.S. Investigation," *Radio Free Europe/Radio Liberty*, September 27, 2010, https://www.rferl.org/a/Afghan_President_Karzai_Brother_Targeted_In_US_Investigation/2169230.html.
 
-<a name="125"></a><sup>125</sup> Carol Nagengast, “Militarizing the Border Patrol,” *NACLA Report on the Americas*, 32, issue 3 (Nov/Dec 1998), DOI: 10.1080/110714839.1998.11725652.
+<a name="130"></a><sup>130</sup> "The London native gave viewers a glimpse of those with 'champagne wishes and caviar dreams' with *Lifestyles of the Rich and Famous*, which aired in syndication from 1984-95." See Jackie Strause and Mike Barnes, "Robin Leach, 'Lifestyles of the Rich and Famous' Host Dies at 76," *Hollywood Reporter*, August 24, 2018, https://www.hollywoodreporter.com/news/general-news/robin-leach-dead-lifestyles-rich-famous-host-dies-1137244/. 
 
-<a name="126"></a><sup>126</sup> “Images/Imágenes Series: Award Winning Leader in Public Broadcasting,” press release, no date.
+<a name="131"></a><sup>131</sup> "National Academy of Sciences Confirms That Formaldehyde Can Cause Cancer in a Finding That Has Implications for Anatomic Pathology and Histology Laboratories," *Dark Daily*, July 13, 2015, https://www.darkdaily.com/2015/07/13/national-academy-of-sciences-confirms-that-formaldehyde-can-cause-cancer-in-a-finding-that-has-implications-for-anatomic-pathology-and-histology-laboratories-713/.
 
-<a name="127"></a><sup>127</sup> American Archive of Public Broadcasting, “Interview with William Q. Sánchez,” February 25, 2020.
+<a name="132"></a><sup>132</sup> Frazier Moore, "Lewis Brought Strange Energy to MDA Telethon," *Telegram & Gazette*, September 4, 2011, https://www.telegram.com/story/news/local/north/2011/09/04/lewis-brought-strange-energy-to/49913954007/. 
 
-<a name="128"></a><sup>128</sup> Juan Gonzalez, *Harvest of Empire: A History of Latinos in America* (New York: Penguin Books, 2011), 81.
+<a name="133"></a><sup>133</sup> Harry Shearer, "Telethon," *Film Comment* 15, issue 3 (May/June 1979), 33-48. See also https://harryshearer.com/wp-content/uploads/2017/07/Telethon.pdf .
 
-<a name="129"></a><sup>129</sup> Library of Congress, “Crossing the Straits,” https://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/immigration/cuban5.html.
+<a name="134"></a><sup>134</sup> Harry Shearer, "Telethon."
 
-<a name="130"></a><sup>130</sup> Federico Subervi, Joseph Torres, and Daniela Montalvo, *Network Brownout Report 2005: The Portrayal of Latinos & Latino Issues on Network Television News, 2004 with a Retrospect to 1995* (Austin and Washington, DC: National Association of Hispanic Journalists, 2005), https://nahj.org/wp-content/uploads/2021/01/2005-NAHJ-Network-Brownout-Report.pdf.
+<a name="135"></a><sup>135</sup> Roger Friedman, "Jerry's Kids No More: How Jerry Lewis Got Pink Slipped by MDA," *Showbiz* 411, August 18, 2011, https://www.showbiz411.com/2011/08/18/jerrys-kids-no-more-how-jerry-lewis-got-pink-slipped-by-mda. 
 
-<a name="131"></a><sup>131</sup> Federico Subervi, “Latinos in TV Network News 2008-2014: Still Mostly Invisible and Problematic,” January 2017, https://www.researchgate.net/publication/312577225.
+<a name="136"></a><sup>136</sup> 1989's "Telethon Memories" were proceeded by an example of KCRW's fundraising crisis rhetoric: "… and those of us here are aware of how risky and how fragile life is on the radio here in Southern California. We are 200 telephone calls behind where we were last year, meaning that those of you who listen are not responding. So please, if you listen to KCRW, don't take us for granted. Call us at 450-3524 with your pledge. If we can lose an institution like KFAC, then all of us on the public dial are also an endangered species. If you value National Public Radio news and KCRW, call 450-3524 with your pledge now. 450-3524. Do it before Monday. And thank you" https://americanarchive.org/catalog/cpb-aacip-f7356cea25d.
 
-<a name="132"></a><sup>132</sup> Marisa Abrajano and Simran Singh, “Examining the Link Between Issue Attitudes and News Source: The Case of Latinos and Immigration Reform,” *Political Behavior* 31 (2009), 3.
+<a name="137"></a><sup>137</sup> "The Harry Shearer Alternative Museum of Broadcasting," *Spy*, September 1989, 92-93. 
 
-<a name="133"></a><sup>133</sup> Lisa M. Edwards and Andrea J. Romero, “Coping with Discrimination among Mexican Descent Adolescents,” *Hispanic Journal of Behavioral Sciences* 30, no. 1 (February 2008), 24-39.
+<a name="138"></a><sup>138</sup> Bruce Handy, "Jerry Goes to Death Camp!" *Spy*, May 1992, 40-46. More recently Shearer was interviewed by his *Spy* colleague Kurt Anderson about *The Day the Clown Cried*: "The Return of the World Film Ever Made," *Studio 360*, January 7, 2016. https://www.wnycstudios.org/podcasts/studio/segments/return-of-the-worst-film-ever-made. The Library of Congress in 2015 acquired the film negative of *The Day the Clown Cried* under condition that it not be shown for "at least 10 years," according to Rob Stone, Moving Image Curator at the Library. Noah Bierman, "Great Read: Silent-Movie Buffs Search the Screen for Clues to Origins of 'Mostly Lost' Films," *Los Angeles Times*, August 5, 2015, https://www.latimes.com/nation/great-reads/la-na-c1-lost-films-20150805-story.html.  
 
-<a name="134"></a><sup>134</sup> Elena Flores et al., “Perceived Racial/Ethnic Discrimination, Posttraumatic Stress Symptoms, and Health Risk Behaviors Among Mexican American Adolescents,” *Journal of Counseling Psychology* 57, no. 3 (2010), 264-73.
+<a name="139"></a><sup>139</sup> Shearer tropes into the voice of Principal Skinner from *The Simpsons* to pronounce the word "conditions." Hearing echoes of other characters in Shearer's narrations between *Le Show* elements is an additional treasure of the archive. 
 
-<a name="135"></a><sup>135</sup> Gabriela Livas Stein et al., “When Discrimination Hurts: The Longitudinal Impact of Increases in Peer Discrimination on Anxiety and Depressive Symptoms in Mexican-origin Youth,” *Journal of Youth and Adolescence* 48 (2019), 864-75, https://doi.org/10.1007/s10964-019-01012-3.
+<a name="140"></a><sup>140</sup> Shearer postscripts many a *Le Show* segment, albeit not consistently, as "a copyrighted feature of this broadcast."  What can and cannot be copyrighted has been a concern across Shearer's career, most pointedly in his lawsuit against Vivendi. See Eriq Gardner, "Harry Shearer Files $125M 'Spinal Tap' Fraud Suit, Copyright Termination," *Hollywood Reporter*, October 18, 2016, https://www.hollywoodreporter.com/business/business-news/harry-shearer-files-125m-spinal-939205/. When he launched the lawsuit, he also launched the Fairness Rocks website: https://www.fairnessrocks.com/. On Shearer and copyright, see also https://mobile.twitter.com/theharryshearer/status/1046427743817281536.
 
-<a name="136"></a><sup>136</sup> Gloria Stewner-Manzanares, “The Bilingual Education Act: 20 Years Later,” National Clearinghouse for Bilingual Education, *Occasional Papers in Bilingual Education*, no. 6 (Fall 1988), 1-10, https://ncela.ed.gov/files/rcd/BE021037/Fall88_6.pdf.
+<a name="141"></a><sup>141</sup> "Bush speaks, boy yawns, Letterman notices, CNN goofs," *Tampa Bay Times*, April 2, 2004, updated August 27, 2005, https://www.tampabay.com/archive/2004/04/02/bush-speaks-boy-yawns-letterman-notices-cnn-goofs/. 
 
-<a name="137"></a><sup>137</sup> David Nieto, “A Brief History of Bilingual Education in the United States,” *Perspectives on Urban Education* (Spring 2009), 61-72, https://urbanedjournal.gse.upenn.edu/sites/default/files/pdf_archive/61-72--Nieto.pdf.
+<a name="142"></a><sup>142</sup> Shearer compiled some of his satires of Simpson in a 2007 CD, *O. J. On Trial: The Early Years*.
 
-<a name="138"></a><sup>138</sup> William J. Bennett, “The Condition of Bilingual Education in the Nation, 1988: A Report to Congress and the President”(Washington: Department of Education, 1988), 1-10.
+<a name="143"></a><sup>143</sup> Shearer covered and wrote a column for *Slate* magazine approximately twice-weekly during Simpson's four-month civil trial. "I'm a chocaholic, and the Tobler factory just moved into the neighborhood. I'm a wine aficionado, and somebody opened up a cut-price Barolo store at the end of the block. As it happens, I'm both a chocaholic and a wine aficionado, but these are merely analogies for what's actually happened: I'm an O. J. trial junkie, and the civil proceeding, Trial of the Century II, is taking place within walking distance of my house." Harry Shearer, "Dispatches: OJ by the Sea," *Slate*, September 28, 1996, https://slate.com/news-and-politics/1996/09/oj-by-the-sea.html ; https://slate.com/tag/oj-by-the-sea.
 
-<a name="139"></a><sup>139</sup> David Nieto, “Brief History of Bilingual Education,” 62.
+<a name="144"></a><sup>144</sup> "Watching 'The People vs. OJ Simpson'? Now Read My Coverage of the Second Trial, the One That Worked," http://amazon.com/dp/B01D5KJ444?ref_=pe_2427780_160035660,” 8:28 PM, March 22, 2016, Twitter.
 
-<a name="140"></a><sup>140</sup> Gonzalez, *Harvest of Empire*, ix.
+<a name="145"></a><sup>145</sup> Raymond Hernandez, "The Pursuit: A Spectacle Gripping and Bizarre," *New York Times*, June 18, 1994, https://timesmachine.nytimes.com/timesmachine/1994/06/18/428426.html?pageNumber=11. 
 
-<a name="141"></a><sup>141</sup> Ballotpedia, “California Proposition 227, the ‘English in Public Schools’ Initiative (1998),” https://ballotpedia.org/California_Proposition_227,_the_%22English_in_Public_Schools%22_Initiative_(1998).
+<a name="146"></a><sup>146</sup> Shearer has himself narrated *Peter and the Wolf*. Dean M. Shapiro, "Harry Shearer to Narrate 'Peter and the Wolf' at Loyola," Nola.com, June 3, 2015, 
+https://www.nola.com/entertainment_life/music/harry-shearer-to-narrate-peter-and-the-wolf-at-loyola/article_ff2af3f2-6420-5492-8a76-9b7855d84d60.html. 
 
-<a name="142"></a><sup>142</sup> Ballotpedia, “California Proposition 58, Non-English Languages Allowed in Public Education,” https://ballotpedia.org/California_Proposition_58,_Non-English_Languages_Allowed_in_Public_Education_(2016).
+<a name="147"></a><sup>147</sup> Paul Duggan, "Mississippi Keeps Its State Flag," *Washington Post*, April 18, 2001, https://www.washingtonpost.com/archive/politics/2001/04/18/mississippi-keeps-its-state-flag/0ad4a97e-946a-4e9b-8f62-bab6e6516424/.
 
-<a name="143"></a><sup>143</sup> Thomas Purnell, William Idsardi, and John Baugh, “Perception and Phonetic Experiments on American English Dialect Identification,” *Journal of Language and Social Psychology* 18, no. 1 (March 1999), 10-30, DOI: 10.1177/0261927X99018001002.
-
-<a name="144"></a><sup>144</sup> Andrew Hanson and Michael Santas, “Field Experiment Tests for Discrimination against Hispanics in the U.S. Rental Housing Market,” *Southern Economic Journal* 81, no. 1 (July 2014), 135-67, DOI.10.4284/0038-4038-2012.231.
-
-<a name="145"></a><sup>145</sup> Robert McG. Thomas Jr., “Newark Fire Kills Five in a Tenement,” *New York Times*, February 5, 1979, D9; Alfonso A. Narvaez, “Major Jersey Cities Find Themselves in the Role of Reluctant Slumlords,” *New York Times*, February 9, 1979, B3.
-
-<a name="146"></a><sup>146</sup> U.S. Bureau of Labor Statistics, “26.8 Million Hispanics or Latinos in the U.S. Labor Force in 2016,” September 25, 2017, https://www.bls.gov/opub/ted/2017/26-point-8-million-hispanics-or-latinos-in-the-u-s-labor-force-in-2016.htm?view_full.
-
-<a name="147"></a><sup>147</sup> Mitra Toossi, “A New Look at Long-Term Labor Force Projections to 2050,” *Monthly Labor Review*, November 2006, 19-39, https://www.bls.gov/opub/mlr/2006/11/art3full.pdf.
-
-<a name="148"></a><sup>148</sup> Zatz, “Using and Abusing Mexican Farmworkers,” 851-63.
-
-<a name="149"></a><sup>149</sup> Matt Garcia, “César Chávez and the United Farm Workers Movement,” *Oxford Research Encyclopedias*, May 2016, DOI: 10.1093/acrefore/9780199329175.013.217.
-
-<a name="150"></a><sup>150</sup> Federico Subervi, with the collaboration of Vinicio Sinta, “Latinos in TV Network News 2008-2014: Still Mostly Invisible and Problematic,” January 2017, https://www.researchgate.net/publication/312577225.
-
-<a name="151"></a><sup>151</sup> Luis Noe-Bustamante and Antonio Flores, “Facts on Latinos in America,” *Hispanic Trends*, Pew Research Center, January 3, 2020, https://www.pewresearch.org/hispanic/fact-sheet/latinos-in-the-u-s-fact-sheet/.
-
-<a name="152"></a><sup>152</sup> Kim Parker et al., “Chapter 7: The Many Dimensions of Hispanic Racial Identity,” in *Multiracial in America: Proud, Diverse and Growing in Numbers*, Pew Research Center Social & Demographic Trends, June 11, 2015, https://www.pewsocialtrends.org/2015/06/11/chapter-7-the-many-dimensions-of-hispanic-racial-identity/.
-
-<a name="153"></a><sup>153</sup> Clint C. Wilson II, Félix Gutiérrez, and Lena M. Chao, “Chapter 1: Demographics,” in *Racism, Sexism, and the Media: Multicultural Issues into the New Communications Age*, 4th ed. (Los Angeles: Sage, 2013), 5.
-
-<a name="154"></a><sup>154</sup> Stuart Hall, “Old and New Identities, Old and New Ethnicities,” in *Essential Essays*, vol. 2 (Durham, NC: Duke University Press, 2019), 1653.
-
-<a name="155"></a><sup>155</sup> Hall, “Old and New Identities,” citing Tariq Modood et al., eds., *Ethnic Minorities in Britain: Diversity and Disadvantage* (London: Policy Studies Institute, 1997).
-
-<a name="156"></a><sup>156</sup> Gonzalez, *Harvest of Empire*, 206.
-
-<a name="157"></a><sup>157</sup> Gonzalez, *Harvest of Empire*, 96.
-
-<a name="158"></a><sup>158</sup> “Mexican - Becoming Part of the United States,” Presentation: Immigration and Relocation in U.S. History, Classroom Materials at the Library of Congress,” accessed September 9, 2020, https://www.loc.gov/classroom-materials/immigration/mexican/becoming-part-of-the-united-states/.  
-
-<a name="159"></a><sup>159</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Mexican Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-mexican-origin-latinos/.
-
-<a name="160"></a><sup>160</sup> Sheila Marie Contreras, “Chicana, Chicano, Chican@, Chicanx,” in *Keywords for Latina/o Studies*, ed. by Deborah R. Vargas, Nancy Raquel Mirabel, and Lawrence La Fontain-Stokes (New York: New York University Press, 2017), 32.
-
-<a name="161"></a><sup>161</sup> Hector Galán, quoted in Teresa Puente, “Show Remembers ‘Chicano’ Struggle,” *Chicago Tribune*, April 12, 1996, C3.
-
-<a name="162"></a><sup>162</sup> Luis Alberto Urrea, “Mexican-American Author Finds Inspiration in Family, Tragedy and Trump,” interview by Terry Gross, *Fresh Air*, NPR, March 5, 2018, https://www.npr.org/2018/03/05/590839936/mexican-american-author-finds-inspiration-in-family-tragedy-and-trump.
-
-<a name="163"></a><sup>163</sup> “Luis Alberto Urrea,” U.S. Embassy in Argentina, March 31, 2017, https://ar.usembassy.gov/education-culture/los-angeles-guest-city-buenos-aires-international-book-fair/luis-alberto-urrea/.
-
-<a name="164"></a><sup>164</sup> “Selena Quintanilla,” Texas Women's Hall of Fame – Honorees, Texas Women's University, October 16, 2018, https://twu.edu/twhf/honorees/selena-quintanilla/.
-
-<a name="165"></a><sup>165</sup> John Lannert, “Beloved Selena Enters the Latin Music Hall of Fame,” *Billboard*, June 10, 1995, Gale OneFile: Popular Magazines, https://link.gale.com/apps/doc/A17157532/PPPM?u=loc_main&sid=PPPM&xid=092e6c35; “The 30 Most Influential Latin Artists of All Time,” *Billboard*, April 28, 2015, https://www.billboard.com/photos/6546212/most-influential-latin-artists?i=553955.
-
-<a name="166"></a><sup>166</sup> Matt Garcia, “Cesar Chavez and the United Farm Workers Movement,” *Oxford Research Encyclopedia of American History*, September 2016, https://doi.org/10.1093/acrefore/9780199329175.013.217.
-
-<a name="167"></a><sup>167</sup> Reyes and Rubie, *Hispanics in Hollywood*, 574.
-
-<a name="168"></a><sup>168</sup> “El Teatro Campesino,” Organizational History, UC Santa Barbara Library, https://www.library.ucsb.edu/special-collections/cema/etc.
-
-<a name="169"></a><sup>169</sup> “Zoot Suit,” Golden Globe Awards, January 1, 1982, https://www.goldenglobes.com/film/zoot-suit.
-
-<a name="170"></a><sup>170</sup> “La Bamba,” Golden Globe Awards, January 1, 1988, https://www.goldenglobes.com/film/la-bamba.
-
-<a name="171"></a><sup>171</sup> National Geographic Society, “Dia De Los Muertos,” National Geographic Society, November 9, 2012, https://www.nationalgeographic.org/media/dia-de-los-muertos/.
-
-<a name="172"></a><sup>172</sup> https://www.loc.gov/rr/hispanic/1898/jonesact.html.
-
-<a name="173"></a><sup>173</sup> José Trías Monge, *Puerto Rico: The Trials of the Oldest Colony in the World* (New Haven: Yale University Press, 1997).
-
-<a name="174"></a><sup>174</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Puerto Rican Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/latinos-in-the-u-s-fact-sheet/.
-
-<a name="175"></a><sup>175</sup> Raquel Ortiz, interview with Gabriela Rivera Marin (American Archive of Public Broadcasting), May 15, 2020.
-
-<a name="176"></a><sup>176</sup> 1996 Peabody Awards entry form, University of Georgia, The Walter J. Brown Media Archives
-& Peabody Awards Collection; quoted in “Mi Puerto Rico,” 1996-01-16, The Walter J. Brown Media Archives & Peabody Awards Collection at the University of Georgia, American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC, accessed August 19, 2020, http://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xr26.
-
-<a name="177"></a><sup>177</sup> Piri Thomas, *Down These Mean Streets* (New York: Vintage Books, 1991).
-
-<a name="178"></a><sup>178</sup> “Piri Thomas,” Oxford Reference, accessed July 18, 2020, https://www.oxfordreference.com/view/10.1093/oi/authority.20110803104006357.
-
-<a name="179"></a><sup>179</sup> Gonzalez, *Harvest of Empire*, 240.
-
-<a name="180"></a><sup>180</sup> https://americanarchive.org/catalog/cpb-aacip_507-4t6f18sz65.
-
-<a name="181"></a><sup>181</sup> “Ricky Martin,” Latin Music USA, PBS, accessed July 17, 2020, http://latinmusicusa.lunchbox.pbs.org/wgbh/latinmusicusa/legends/ricky-martin/.
-
-<a name="182"></a><sup>182</sup> “Ricky Martin,” Latin Music USA, PBS.
-
-<a name="183"></a><sup>183</sup> Suzette Fernandez, “Revisiting the Song That Changed Ricky Martin's Career: 'Cup of Life' Turns 20,” *Billboard*, March 9, 2018, https://www.billboard.com/articles/columns/latin/8238667/ricky-martin-cup-of-life-20-years.
-
-<a name="184"></a><sup>184</sup> “Ricky Martin,” Latin Music USA, PBS.
-
-<a name="185"></a><sup>185</sup> Barack Obama, Remarks on the Nomination of Sonia Sotomayor To Be a Supreme Court Associate Justice, American Presidency Project, eds. Gerhard Peters and John T. Woolley, https://www.presidency.ucsb.edu/node/286525.
-
-<a name="186"></a><sup>186</sup> W. Raymond Ollwerther, “Sotomayor ’76 Recalled as Activist for Latino Causes at Princeton,” *Princeton Alumni Weekly*, July 15, 2009, https://paw.princeton.edu/article/sotomayor-76-recalled-activist-latino-causes-princeton.  
-
-<a name="187"></a><sup>187</sup> Raymond Hernandez and David W. Chen, “Nominee’s Links with Advocates Fuel Her Critics,” *New York Times*, May 28, 2009, https://www.nytimes.com/2009/05/29/us/politics/29puerto.html.
-
-<a name="188"></a><sup>188</sup> Peter Baker and Jeff Zeleny, “Obama Hails Judge as ‘Inspiring,’” *New York Times*, May 26, 2009, https://www.nytimes.com/2009/05/27/us/politics/27court.html.
-
-<a name="189"></a><sup>189</sup> “Rita Moreno,” Biography.com (A&E Networks Television, October 9, 2019), https://www.biography.com/actor/rita-moreno.
-
-<a name="190"></a><sup>190</sup> “Career Achievement Award: Rita Moreno, Presented by Mercedes-Benz,” Peabody Awards, accessed July 20, 2020, http://www.peabodyawards.com/award-profile/career-achievement-award-rita-moreno.
-
-<a name="191"></a><sup>191</sup> “Rita Moreno,” *Emmy* 22, no. 6 (December 2000), 70. For the complete Television Academy interview with Moreno, see https://interviews.televisionacademy.com/interviews/rita-moreno.
-
-<a name="192"></a><sup>192</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Salvadoran Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-salvadoran-origin-latinos/.
-
-<a name="193"></a><sup>193</sup> Joaquín M. Chávez, "How Did the Civil War in El Salvador End?" *American Historical Review* 120, no. 5 (December 2015), 1784-1797.
-
-<a name="194"></a><sup>194</sup> Elisabeth Jean Wood, *Insurgent Collective Action and Civil War in El Salvador* (New York: Cambridge University Press, 2003), 8.
-
-<a name="195"></a><sup>195</sup> Chávez, "How Did the Civil War in El Salvador End?,” 1784, 1793.
-
-<a name="196"></a><sup>196</sup> Madeline Messick and Claire Bergeron, “Temporary Protected Status in the United States: A Grant of Humanitarian Relief That Is Less Than Permanent,” *Migration Information Source*, July 2, 2014, https://www.migrationpolicy.org/article/temporary-protected-status-united-states-grant-humanitarian-relief-less-permanent. For recent information on TPS related to El Salvador, see U.S. Citizenship and Immigration Services, “Temporary Protected Status Designated Country: El Salvador,” last reviewed/updated November 1, 2019, https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador.
-
-<a name="197"></a><sup>197</sup> “Escritor Salvadoreño Horacio Castellanos Moya Obtuvo el Premio de Narrativa Manuel Rojas,” Ministerio de las Culturas, las Artes y el Patrimonio, Gobierno de Chile, May 14, 2014, https://www.cultura.gob.cl/institucional/escritor-salvadoreno-horacio-castellanos-moya-obtuvo-el-premio-de-narrativa-manuel-rojas/.
-
-<a name="198"></a><sup>198</sup> Wood, *Insurgent Collective Action and Civil War in El Salvador*, 8.
-
-<a name="199"></a><sup>199</sup> Illegal Immigration Reform and Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, 110 Stat. 3009-546 (1996), https://www.govinfo.gov/content/pkg/PLAW-104publ208/pdf/PLAW-104publ208.pdf.  
-
-<a name="200"></a><sup>200</sup> Renata Keller, “A Historical Perspective on the Cuba-U.S. Relationship,” interview by Jason Steinhauer, *Insights: Scholarly Work at the John W. Kluge Center*, Library of Congress, December 19, 2014, https://blogs.loc.gov/kluge/2014/12/historical-perspectivecuba-u-s-relationship/.
-
-<a name="201"></a><sup>201</sup> Lisandro Pérez, "Cubans in the United States," *Annals of the American Academy of Political and Social Science*, 487 (September 1986): 126-37, http://www.jstor.com/stable/1046058; John Scanlan and Gilburt Loescher, “U.S. Foreign Policy, 1959-80: Impact on Refugee Flow from Cuba, *Annals of the American Academy of Political and Social Science* 467 (May 1983), 116-18, http://www.jstor.com/stable/1044932.
-
-<a name="202"></a><sup>202</sup> Pérez, "Cubans in the United States," 130.
-
-<a name="203"></a><sup>203</sup> Ivet González, “Cuba’s Balsero Crisis Still an Open Wound, 20 Years On,” IPS (Inter Press Service) News Agency, August 6, 2014, http://www.ipsnews.net/2014/08/cubas-balsero-crisis-still-an-open-wound-20-years-on/.
-
-<a name="204"></a><sup>204</sup> White House, President Barack Obama, “Statement by the President on Cuban Immigration Policy,” January 12, 2017, https://obamawhitehouse.archives.gov/the-press-office/2017/01/12/statement-president-cuban-immigration-policy; Weekend Edition, “What the End of ‘Wet-Foot, Dry-Foot’ Means for Cubans,” NPR, January 14, 2017, https://www.npr.org/2017/01/14/509807177/what-the-end-of-wet-foot-dry-foot-means-for-cubans.
-
-<a name="205"></a><sup>205</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Cuban Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-cuban-origin-latinos/.
-
-<a name="206"></a><sup>206</sup> Greg Allen, “Children of Cuba Remember Their Flight to America,” NPR, November 19, 2011, https://www.npr.org/2011/11/19/142534943/pedro-pan-childrens-life-altering-flight-from-cuba.
-
-<a name="207"></a><sup>207</sup>“Carlos Eire,” Yale University, Department of History, accessed July 20, 2020, https://history.yale.edu/people/carlos-eire.
-
-<a name="208"></a><sup>208</sup> “The 30 Most Influential Latin Artists of All Time”; Howard Cohen, “Gloria Estefan’s Mother, Singer Gloria Fajardo, Dies at 88,” *Miami Herald*, June 14, 2017, https://www.miamiherald.com/news/local/obituaries/article156070134.html.
-
-<a name="209"></a><sup>209</sup> “Gloria and Emilio Estefan,” PBS (Public Broadcasting Service), accessed July 20, 2020, https://www.pbs.org/wgbh/latinmusicusa/legends/gloria-emilio-estefan/.
-
-<a name="210"></a><sup>210</sup> “The 30 Most Influential Latin Artists of All Time.”
-
-<a name="211"></a><sup>211</sup> Barack Obama, Remarks on Presenting the Presidential Medal of Freedom Online, American Presidency Project, eds. Gerhard Peters and John T. Woolley, https://www.presidency.ucsb.edu/node/311535.
-
-<a name="212"></a><sup>212</sup> “Global Superstars Emilio and Gloria Estefan Honored in Star-Studded Gershwin Prize Tribute,” Library of Congress, March 13, 2019, https://www.loc.gov/item/prn-19-029/global-superstars-emilio-and-gloria-estefan-honored-in-star-studded-gershwin-prize-tribute/2019-03-13/.
-
-<a name="213"></a><sup>213</sup> Gonzalez, *Harvest of Empire*, 242-44.
-
-<a name="214"></a><sup>214</sup> Tony Fletcher, *All Hopped Up and Ready to Go: Music from the Streets of New York*, 1927-1977 (New York: W. W. Norton, 2009), 1-21.
-
-<a name="215"></a><sup>215</sup> Scanlan and Loescher, “U.S. Foreign Policy, 1959-80: Impact on Refugee Flow from Cuba,” 130-37.
-
-<a name="216"></a><sup>216</sup> William M. LeoGrande and Peter Kornbluh, *Back Channel to Cuba: The Hidden History of Negotiations between Washington and Havana* (Chapel Hill: University of North Carolina Press, 2014), 214-18.
+<a name="148"></a><sup>148</sup> "I've confessed to you many, many's the time when I occupied the Sunday morning slot on this station my insatiable and, from what I know about human life, unreasonable need for mail, incoming mail," Harry Shearer,  
+*SNAP* (*Saturday Night Alternative Pop*), KCRW, January 5, 1985.
 
 ## Main
