@@ -27,15 +27,9 @@ Regular recurring segments reveal that Shearer's sharing takes three major forms
 
 What follows is a small but representative sampler of *Le Show*'s recurring segments and one-off satirical sketches and songs. Whether through factual news reports or his imagined "[Alternative Scenario Playhouse](https://americanarchive.org/catalog/cpb-aacip-c8461cfef5f?start=3129.66&end=3456.85),"[<sup>76</sup>](/exhibits/eotp/notes#76) Shearer’s satiric perspective on history and culture well deserves preservation —  and listeners — for perpetuity.
 
-
 #### Next: [Presidential Satire](/exhibits/le-show/4-1-presidential-satire)
 
-## Resources - UPDATE
-
-- [The Riverside Church in the City of New York](https://www.trcnyc.org/)
-- [History of National Religious Broadcasters](https://nrb.org/who-we-are/our-history/)
-- [Digitizing and Transcribing the Archives of NYC Progressive Church Radio (Radio Survivor)](https://www.radiosurvivor.com/2021/06/podcast-301-digitizing-transcribing-the-archives-of-nyc-progressive-church-radio/)
-
+## Resources
 
 ## Cover - UPDATE
   <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
