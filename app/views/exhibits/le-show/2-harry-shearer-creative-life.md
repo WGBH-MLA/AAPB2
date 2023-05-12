@@ -6,7 +6,7 @@
 
 ## Extended
 
-## Main - UPDATE
+## Main
 
 Shearer, the only child of eastern European immigrants, each the sole surviving family member to escape the Holocaust,[<sup>9</sup>](/exhibits/le-show/notes#9) grew up in Los Angeles. In 1966 Shearer’s childhood home, on West Boulevard between West Adams Avenue and Washington Boulevard, became part of "the number two westbound lane of Interstate 10."[<sup>10</sup>](/exhibits/le-show/notes#10)  
 
@@ -65,14 +65,9 @@ This exhibit offers a brief historical overview of *Le Show* from analog to digi
 
 #### Next: [Brief Historical Overview of Le Show](/exhibits/le-show/3-brief-historical-overview-of-le-show)
 
-## Resources - UPDATE
+## Resources
 
-- [The Riverside Church in the City of New York](https://www.trcnyc.org/)
-- [History of National Religious Broadcasters](https://nrb.org/who-we-are/our-history/)
-- [Digitizing and Transcribing the Archives of NYC Progressive Church Radio (Radio Survivor)](https://www.radiosurvivor.com/2021/06/podcast-301-digitizing-transcribing-the-archives-of-nyc-progressive-church-radio/)
-
-
-## Cover - UPDATE
+## Cover
   <img title="Cover Image" alt="Shearer as a child in front of an NBC microphone." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife1.png">
 
 ## Gallery
