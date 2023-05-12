@@ -6,12 +6,7 @@
 
 ## Extended
 
-## Main - UPDATE
-
-<table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
-</table>
+## Main
 
 In 1983, Shearer prototyped the program that became *Le Show* on KMET in Los Angeles. Shearer was fired twice, "once for playing a Mel Tormé record and once for using the word 'penis' in a sketch."[<sup>38</sup>](/exhibits/le-show/notes#38)  
 
@@ -29,6 +24,11 @@ The early years of *Le Show* are braided among the respective satisfactions and 
 
 "I joined [*SNL*] at the time when unprofessionalism had become the professional choice," Shearer told the *Los Angeles Times* in 1987. "You were looked down on for showing up on time and knowing your lines. *Spinal Tap* had been a kind of succès d'estime for me. A lot of assurances were made. A lot of them were violated. I was told they wanted me to do political and topical material for the show, but virtually everything I wrote was killed. Eventually, you begin spending your time worrying why things don't get on instead of being creative. You're in a classic underling position."[<sup>46</sup>](/exhibits/le-show/notes#46) 
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption"></caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview1.jpg" class="big-image" alt="Poster for Saturday Night Live, featuring Harry Shearer as part of the cast."/></a></td></tr>
+</table>
+
 Soon after Shearer left *Saturday Night Live*, television critic Tom Shales expressed his own disappointment: "Harry Shearer, one of the most inventive writer-performers in the group, grew bored and disillusioned and left the show."[<sup>47</sup>](/exhibits/le-show/notes#47) 
 
 Shearer’s radio work from this period is poignant, the distance between New York and Santa Monica, television and radio, resonant and palpable.
@@ -40,6 +40,11 @@ Shearer then plays four songs without interruption. After the fourth track, XTC'
 After playing The Kinks' "Do It Again," Shearer introduces himself to listeners: "Well, now I'm gonna cop to the whole thing: This is not Deirdre O'Donoghue. This is her program called *SNAP*, Saturday ten to midnight. Deirdre has graciously offered me her time tonight. I'm your host. My name, Yours Truly. Stop this false modesty. Okay, I will. This is Harry Shearer, ladies and gentlemen. Thank you again for welcoming me back again (big exhale) to where, I guess, I belong."[<sup>50</sup>](/exhibits/le-show/notes#50)
 
 Shearer's return to KCRW made headlines. 
+
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption"></caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" class="big-image" alt="Promo for KCRW featuring Harry Shearer."/></a></td></tr>
+</table>
 
 "The ex-'*Saturday Night Live*' writer/performer returned to KCRW and his creative roots over the weekend. His new hour comedy show … features something that KCRW manager [Ruth Seymour] describes as 'essentially serious' topical humor."[<sup>51</sup>](/exhibits/le-show/notes#51) 
 
@@ -69,7 +74,6 @@ Shearer explained to *Los Angeles Magazine* days after KCRW announced the change
 > 
 >It didn't escape my notice that when you'd walk down the hall of the station a few years back, when it was festooned with photographs of everybody who contributed anything to the on-air content, the only face that I never saw in that hallway was mine. I went, "Well, in compensation for not being in the hallway, I get total freedom. I'll take that deal."[<sup>58</sup>](/exhibits/le-show/notes#58)
 
- 
 *Los Angeles Magazine* writer Catherine Green summed up the news: "Just like that, the hour-long mix of music, politics, sports, and industry chatter — an L.A. institution — was without a radio home…. The show, which attracted a national following, aired on more than 80 stations around the country along with a few in Europe and Japan. Each episode quickly became available online, gathering more listeners through satellite and digital channels. The broad reach of the show may have been what assured KCRW that Shearer would be fine without the L.A.-based platform. KCRW will continue to distribute *Le Show*, making it available to other affiliate stations and podcast distributors."
 
 "For many listeners," Green continued, "the toughest pill to swallow was that they were denied the chance to hear Shearer say farewell on the air. Days after it was announced KCRW would no longer broadcast *Le Show* on terrestrial radio, Shearer was still stung by the decision — 'Well, I'm always angry. That's what makes people funny' — but looking forward to the next chapter…."[<sup>59</sup>](/exhibits/le-show/notes#59)
@@ -90,15 +94,10 @@ The arrangement with KCSN lasted a little more than a year. But *Le Show* remain
 
 #### Next: [A *Le Show* Sampler: Topical Comedy, Sonic Satire, Satire in Song](/exhibits/le-show/4-le-show-sampler)
 
-## Resources - UPDATE
+## Resources
 
-- [The Riverside Church in the City of New York](https://www.trcnyc.org/)
-- [History of National Religious Broadcasters](https://nrb.org/who-we-are/our-history/)
-- [Digitizing and Transcribing the Archives of NYC Progressive Church Radio (Radio Survivor)](https://www.radiosurvivor.com/2021/06/podcast-301-digitizing-transcribing-the-archives-of-nyc-progressive-church-radio/)
-
-
-## Cover - UPDATE
-  <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
+## Cover
+  <img title="Cover Image" alt="Promo for KCRW Featuring Harry Shearer." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg">
 
 ## Gallery
 
