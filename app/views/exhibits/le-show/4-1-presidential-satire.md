@@ -6,18 +6,13 @@
 
 ## Extended
 
-## Main - UPDATE
-
-<table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
-</table>
+## Main
 
 ## "Nixon in Heaven"
 
 Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The Lakers Line" and to Casey Kasem to promote [Nixon's new book](https://americanarchive.org/catalog/cpb-aacip-d5aa865cad4?start=1167.52&end=1184.1), a reputation-rehabilitation effort, in 1988 to "Nixon in Heaven," a recurring *Le Show* segment in which the disgraced president[<sup>77</sup>](/exhibits/eotp/notes#77) and his still-loyal sidekick Haldeman, are, in the afterlife, still taping. 
 
-"Are you obsessed with Nixon?" Marc Maron asked Shearer in a 2015 interview, soon after the U.S. debut of Shearer’s six-episode television series, *Nixon’s the One*.[<sup>78</sup>](/exhibits/eotp/notes#78) "Fascinated," Shearer replied. "I wouldn't say obsessed. You know, I don't dream about him."[<sup>79</sup>](/exhibits/eotp/notes#79) Shearer might well be obsessed with telephony, however, given how regularly it and devices for recording it are featured in *Le Show* sketches.
+"Are you obsessed with Nixon?" Marc Maron asked Shearer in a 2015 interview, soon after the U.S. debut of Shearer's six-episode television series, *Nixon’s the One*.[<sup>78</sup>](/exhibits/eotp/notes#78) "Fascinated," Shearer replied. "I wouldn't say obsessed. You know, I don't dream about him."[<sup>79</sup>](/exhibits/eotp/notes#79) Shearer might well be obsessed with telephony, however, given how regularly it and devices for recording it are featured in *Le Show* sketches.
 
 "I grew up in Los Angeles, under the persistent blaze of the California sun and, just as persistent, the dark shadow of Richard Nixon," Shearer explained in a video describing the making of his television mini-series *Nixon’s the One*. "As my life went on, Nixon seemed always to be in it."[<sup>80</sup>](/exhibits/eotp/notes#80)  
 
@@ -70,6 +65,11 @@ The final episode of "Presidential Memoirs" aired after the 1992 presidential el
 https://americanarchive.org/catalog/cpb-aacip-7ce5c5d18a7?start=2603.9&end=3203.98 
 
 Shearer also voiced George H. W. Bush on "The Simpsons" ("Two Bad Neighbors," 1996) and "Golden Girls" ("The President's Coming," 1990).
+
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption"></caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" class="big-image" alt="Title card for Harry Shearer on the show The Golden Girls."/></a></td></tr>
+</table>
 
 ## "Clintonsomething"
 
@@ -246,15 +246,10 @@ https://americanarchive.org/catalog/cpb-aacip-a5e0648bcab?start=2416.75&end=2608
 
 #### Next: [Satires of Commercial and Public Media](/exhibits/le-show/4-2-satires-of-commercial-public-media)
 
-## Resources - UPDATE
+## Resources
 
-- [The Riverside Church in the City of New York](https://www.trcnyc.org/)
-- [History of National Religious Broadcasters](https://nrb.org/who-we-are/our-history/)
-- [Digitizing and Transcribing the Archives of NYC Progressive Church Radio (Radio Survivor)](https://www.radiosurvivor.com/2021/06/podcast-301-digitizing-transcribing-the-archives-of-nyc-progressive-church-radio/)
-
-
-## Cover - UPDATE
-  <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
+## Cover
+  <img title="Cover Image" alt="Title card for Harry Shearer on the show The Golden Girls." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg">
 
 ## Gallery
 
