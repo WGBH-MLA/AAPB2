@@ -4,7 +4,7 @@
 
 ## Summary
 
-<a name="1"></a><sup>1</sup> "Tribute to Ruth Gribin," *Le Show*, July 21, 2019, https://americanarchive.org/catalog/cpb-aacip-047a6add495?start=0&end=122.21.
+<a name="1"></a><sup>1</sup> "Tribute to Ruth Gribin," *Le Show*, July 21, 2019, https://americanarchive.org/catalog/cpb-aacip-047a6add495?start=0&end=122.21. 
 
 <a name="2"></a><sup>2</sup> Kenneth Plume, "Interview with Harry Shearer (Part 2 of 4)", February 10, 2000, https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4.
 
