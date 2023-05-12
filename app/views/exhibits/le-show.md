@@ -36,7 +36,7 @@ If journalism is the first rough draft of history,[<sup>7</sup>](/exhibits/le-sh
 
 ## Cover
 <table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">*Black Journal* hosts William Greaves and Lou House.</caption>
+  <caption align="bottom" class="exhibit-caption">Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly.</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain.jpg" alt="Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly."/></td></tr>
 </table>
 
