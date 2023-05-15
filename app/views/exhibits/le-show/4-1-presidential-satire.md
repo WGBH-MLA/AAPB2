@@ -16,14 +16,11 @@ Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The L
 
 "I grew up in Los Angeles, under the persistent blaze of the California sun and, just as persistent, the dark shadow of Richard Nixon," Shearer explained in a video describing the making of his television mini-series *Nixon’s the One*. "As my life went on, Nixon seemed always to be in it."[<sup>80</sup>](/exhibits/eotp/notes#80)  
 
-SHOULD I EMBED THESE??
-The first "Nixon in Heaven" aired two and one-half years after Nixon's death in 1994. https://americanarchive.org/catalog/cpb-aacip-c2b21e55f99?start=2816.75&end=3292.98 
+The [first "Nixon in Heaven"](https://americanarchive.org/catalog/cpb-aacip-c2b21e55f99?start=2816.75&end=3292.98) aired two and one-half years after Nixon's death in 1994. 
 
-"Nixon in Heaven" - Watergate 30th Anniversary 6/23/2002
-https://americanarchive.org/catalog/cpb-aacip-45ad1dfae0b?start=2552.37&end=3130.67   
+["Nixon in Heaven" - Watergate 30th Anniversary 6/23/2002](https://americanarchive.org/catalog/cpb-aacip-45ad1dfae0b?start=2552.37&end=3130.67)
 
-"Nixon in Heaven" - Kissinger and the Cockroaches 2/4/2018
-https://americanarchive.org/catalog/cpb-aacip-6e16a0acb10?start=2118.46&end=2629  
+["Nixon in Heaven" - Kissinger and the Cockroaches 2/4/2018](https://americanarchive.org/catalog/cpb-aacip-6e16a0acb10?start=2118.46&end=2629)
 
 ## The Reagans: "Hellcats of the White House"
 
@@ -41,25 +38,18 @@ The setup for a 1987 episode of "Hellcats" uses as its point of departure news o
 
 "Hellcats" episodes often end with a [reference to the bedroom](https://americanarchive.org/catalog/cpb-aacip-36826613bbf?start=2879.99&end=2904.07) ("Ronnie, we need to think seriously about Don's successor. Why don't we go upstairs, and I'll help you think about it." "You know I've never been able to resist an offer like that, you little spitfire. The last one in bed has to watch the news") and a [forecast of the next episode](https://americanarchive.org/catalog/cpb-aacip-36826613bbf?start=3512.57&end=3538.39), again in Shearer's newsreel narrator voice: "When you cast a very long shadow, either you're extremely tall or the sun is about to set. Next time, rehearsing for the end, on 'Hellcats of the White House.'"
 
-SHOULD I EMBED THIS?
-"Hellcats of the White House" 
-https://americanarchive.org/catalog/cpb-aacip-36826613bbf?start=1717.52&end=2226.48  
+["Hellcats of the White House"](https://americanarchive.org/catalog/cpb-aacip-36826613bbf?start=1717.52&end=2226.48)
 
 ["Hellcats of the White House: The Bel Air Years"](https://americanarchive.org/catalog/cpb-aacip-81faa682ed3?start=1780.39&end=2307.1)
 "Our story opens in the bedroom of the Reagans' Bel-Air retreat.… The former president is watching a large screen television waiting for news of a court decision to be announced. Nancy is on the phone while her heels receive a light buffing…." This episode is built around news that Ronald Reagan would not be compelled to testify in Oliver North's criminal trial for involvement in the Iran-Contra Affair.[<sup>85</sup>](/exhibits/eotp/notes#85)  
 
-*Le Show*'s final "Hellcats" episode responded satirically to news of the forthcoming "Walsh Report," the federal government's last word on Iran-Contra.[<sup>86</sup>](/exhibits/eotp/notes#86) Shearer reprised this episode of "Hellcats" on a "Highlights from *Le Show*: The First 20 Years" episode on June 29, 2003:
-
-SHOULD I EMBED THIS?
-https://americanarchive.org/catalog/cpb-aacip-855869aa3c5?start=2617.22&end=3186.61
+*Le Show*'s final "Hellcats" episode responded satirically to news of the forthcoming "Walsh Report," the federal government's last word on Iran-Contra.[<sup>86</sup>](/exhibits/eotp/notes#86) Shearer reprised this episode of "Hellcats" on a "Highlights from *Le Show*: [The First 20 Years" episode on June 29, 2003](https://americanarchive.org/catalog/cpb-aacip-855869aa3c5?start=2617.22&end=3186.61)
 
 ## George H. W. Bush: "Notes for Presidential Memoirs" and radio speeches
 
 The recurring *Le Show* segment "Notes for Presidential Memoirs" presented Shearer's President George H. W. Bush dictating diary entries into a tape recorder for future use. The first episode of "Presidential Memoirs" aired soon after the one-term administration's first major failure: [Bush's nomination of fellow Texan John Tower as Secretary of Defense](https://americanarchive.org/catalog/cpb-aacip-11de808442c?start=1841.25&end=2304.77).[<sup>87</sup>](/exhibits/eotp/notes#87)  
 
-Like his predecessor, Reagan, had done, Bush started giving regular radio speeches in an age of television. So, Shearer's Bush gave radio speeches too. "More than two years into his administration, (Bush) has now picked up the tradition of Ronald Reagan in delivering radio speeches — radio! — he was on the radio this weekend delivering pretty much the same speech about the Persian Gulf Crisis, and it was so successful apparently he's going to do another one. And we'll break for that after this next piece of music and then be back for more." 
-https://americanarchive.org/catalog/cpb-aacip-5517c96f1cb?start=1445.83&end=1481.83
-https://americanarchive.org/catalog/cpb-aacip-5517c96f1cb?start=1648.71&end=1822.08 
+Like his predecessor, Reagan, had done, Bush started giving regular radio speeches in an age of television. So, [Shearer's Bush gave radio speeches too](https://americanarchive.org/catalog/cpb-aacip-5517c96f1cb?start=1445.83&end=1481.83). "[More than two years into his administration, (Bush) has now picked up the tradition of Ronald Reagan in delivering radio speeches — radio! — he was on the radio this weekend delivering pretty much the same speech about the Persian Gulf Crisis, and it was so successful apparently he's going to do another one. And we'll break for that after this next piece of music and then be back for more.](https://americanarchive.org/catalog/cpb-aacip-5517c96f1cb?start=1648.71&end=1822.08)" 
 
 The [final episode of "Presidential Memoirs"](https://americanarchive.org/catalog/cpb-aacip-7ce5c5d18a7?start=2603.9&end=3203.98) aired after the 1992 presidential election, in which Arkansas Governor Bill Clinton defeated Bush, making him a one-term president. Shearer sets up the segment, which also features Shearer's Bush introducing his successor to the White House and "the panel where Dick Nixon used to control his little tape thing," with news of presidential records, a central recurring concern across the history of *Le Show*:
 
@@ -80,29 +70,22 @@ Debuting the week of Clinton's inauguration, the first episode of "Clintonsometh
 
 Each episode of the initial "Clintonsomething" series ended with the following coda, accompanied by theme music from *Thirtysomething*: "Youthful angst and middle-aged power: it all adds up to Clintonsomething." The sign-off changed slightly with each different iteration of the Clintons in public and, via Shearer's capacious imagination, private life.
 
-SHOULD I EMBED THESE?
-"Clintonsomething"
-https://americanarchive.org/catalog/cpb-aacip-26bf965067b?start=1958.91&end=2366.23
+["Clintonsomething"](https://americanarchive.org/catalog/cpb-aacip-26bf965067b?start=1958.91&end=2366.23)
 
 The Clintons' sustained prominence in public affairs since the 1990s has kept them on *Le Show* across the intervening decades.
 
 Impeachment-related[<sup>90</sup>](/exhibits/eotp/notes#90) "Clintonsomething" highlights:
-"Shitstorm"
-https://americanarchive.org/catalog/cpb-aacip-4c289889e90?start=9713.99&end=10321.33
+["Shitstorm"](https://americanarchive.org/catalog/cpb-aacip-4c289889e90?start=9713.99&end=10321.33)
 
-"1st Sorry Speech..."
-https://americanarchive.org/catalog/cpb-aacip-88c8e7e3fb1?start=795.64&end=991.55 
+["1st Sorry Speech..."](https://americanarchive.org/catalog/cpb-aacip-88c8e7e3fb1?start=795.64&end=991.55)
 
-"Acquittal"
-https://americanarchive.org/catalog/cpb-aacip-a0e23dbd040?start=2355.95&end=2755.97  
+["Acquittal"](https://americanarchive.org/catalog/cpb-aacip-a0e23dbd040?start=2355.95&end=2755.97)
 
 "Clintonsomething: The State Department Years"
-The segment opens onto a scene of the Clintons meeting for a conversation, with Shearer's masterful Bill Clinton ethopoiesis: "Thanks for making time, Toots – I mean, Madam Secretary." 
-https://americanarchive.org/catalog/cpb-aacip-94783922534?start=2430.88&end=2827.63 
+[The segment opens](https://americanarchive.org/catalog/cpb-aacip-94783922534?start=2430.88&end=2827.63) onto a scene of the Clintons meeting for a conversation, with Shearer's masterful Bill Clinton ethopoiesis: "Thanks for making time, Toots – I mean, Madam Secretary." 
 
 "Clintonsomething: The Wilderness Years"
-This segment ends with Shearer's Bill Clinton in a reflective mode: "Wow. Well, sir. This is a day I need to remember for my next memoir…. This is a true pivot point. After all this time, this may be the day I stop thinking about tomorrow."[<sup>91</sup>](/exhibits/eotp/notes#91) 
-https://americanarchive.org/catalog/cpb-aacip-03b0e3675df?start=1632.67&end=2097.23
+[This segment ends](https://americanarchive.org/catalog/cpb-aacip-03b0e3675df?start=1632.67&end=2097.23) with Shearer's Bill Clinton in a reflective mode: "Wow. Well, sir. This is a day I need to remember for my next memoir…. This is a true pivot point. After all this time, this may be the day I stop thinking about tomorrow."[<sup>91</sup>](/exhibits/eotp/notes#91) 
 
 ## George W. Bush: "41 Calls 43" and "Dick Cheney Confidential"
 
@@ -111,28 +94,23 @@ Texas Governor George W. Bush, eldest son of the 41st President and his wife Bar
 "41 Calls 43"
 The first episode of "41 Calls 43" aired on March 11, 2001, just two months into the new administration, before the events of 9/11 turned the younger Bush, as the Persian Gulf crisis had the older, into a wartime president. Shearer set up the segment with news from the previous week: "As you know President Bush campaigned in several states with Democratic senators for his tax cut bill and then flew home to his ranch to spend the weekend there, possibly to receive one of those phone calls he sometimes gets from the 41st President of the United States, his not-so-immediate predecessor." 
 
-SHOULD I EMBED THESE?
-The younger Bush's Secret Service code name is among the recurring gags in "41 Calls 43":
-https://americanarchive.org/catalog/cpb-aacip-17e858f19d2?start=6512.11&end=6852.46 
+The younger Bush's Secret Service code name is [among the recurring gags in "41 Calls 43"](https://americanarchive.org/catalog/cpb-aacip-17e858f19d2?start=6512.11&end=6852.46).
 
 "41 Calls 43: Vacations" 
-How much time the younger Bush spent vacationing at his Texas ranch became a public concern after 9/11[<sup>92</sup>](/exhibits/eotp/notes#92) and thus a recurring topic for satire on *Le Show*. In the setup to this segment, Shearer reports that the question of how much the president actually works on his "working vacations" at the ranch has attracted criticism from within even the president's own party. This time the younger Bush answers in the code name "Brush-clearing Eagle."
-https://americanarchive.org/catalog/cpb-aacip-fd9f8701ed5?start=2656.74&end=3024.77 
+How much time the younger Bush spent vacationing at his Texas ranch became a public concern after 9/11[<sup>92</sup>](/exhibits/eotp/notes#92) and thus a recurring topic for satire on *Le Show*. [In the setup to this segment](https://americanarchive.org/catalog/cpb-aacip-fd9f8701ed5?start=2656.74&end=3024.77), Shearer reports that the question of how much the president actually works on his "working vacations" at the ranch has attracted criticism from within even the president's own party. This time the younger Bush answers in the code name "Brush-clearing Eagle."
 
 "41 Calls 43: Can I Paint You?"
 Another stunning example of Shearer's topical comedy and sonic satire, Shearer here extemporaneously sets up another father-son phone conversation with a news item from the previous week about each former president: 
 
 You may be aware that two big events occurred this week in the lives of respectively George H. W. and George W. Bush. George H. W. Bush: there was a celebration at College Station, Texas, home of Texas A&M — home of the Aggies — of the 25th anniversary of the George H. W. Bush administration…. And then over in Dallas at the Bush Presidential Library — liberry — there was the opening of an exhibition of paintings by George W. Bush, who basically has painted so far … mainly world leaders, including Tony Blair and Vladimir Putin…. So it just occurred to me maybe to, to tap a phone line and see if the two of them might be chatting. 
 
-This time 43 answers the phone "Brush Stroke Eagle."
-https://americanarchive.org/catalog/cpb-aacip-33c0a33cd37?start=2853.81&end=3239.53 
+This time [43 answers the phone "Brush Stroke Eagle."](https://americanarchive.org/catalog/cpb-aacip-33c0a33cd37?start=2853.81&end=3239.53)
 
 The folly of Shearer's imagined father-son phone calls in "41 Calls 43" contrasts with the darkness of Shearer's other Bush II-era recurring presidential segment, "Dick Cheney Confidential." 
 
 After 9/11, Vice President Cheney stayed out of public sight for several months, in what was mysteriously described as "a secure, undisclosed location."[<sup>93</sup>](/exhibits/eotp/notes#93) The secrecy around Cheney's post-9/11 whereabouts, particularly in the context of increased government surveillance, resulted in *Le Show*'s "Dick Cheney: Confidential," in which Shearer takes his point of satiric departure from the generic conventions of a 1950s detective show.
 
-"Dick Cheney Confidential" first aired on June 2, 2002: "Next, intimate tales of America's first underground Vice President, the action-packed diary of a man who’s less than a heartbeat away from history": 
-https://americanarchive.org/catalog/cpb-aacip-15d9004f066?start=6170.36&end=6606.86 
+["Dick Cheney Confidential" first aired on June 2, 2002](https://americanarchive.org/catalog/cpb-aacip-15d9004f066?start=6170.36&end=6606.86): "Next, intimate tales of America's first underground Vice President, the action-packed diary of a man who’s less than a heartbeat away from history".
 
 On [February 19, 2006](https://americanarchive.org/catalog/cpb-aacip-b1edbc2c9c8?start=1920.36&end=2500.75), the Sunday after Vice President Cheney accidentally shot a quail-hunting companion in South Texas,[<sup>94</sup>](/exhibits/eotp/notes#94) "Dick Cheney Confidential" provided the culmination of the week's *Le Show*. Shearer sets up the segment with archival audio of Cheney talking with Fox News's Brit Hume,[<sup>95</sup>](/exhibits/eotp/notes#95) followed by this introduction in Shearer's gruff *ethopoiesis* of Cheney:
 
@@ -142,17 +120,15 @@ On [February 19, 2006](https://americanarchive.org/catalog/cpb-aacip-b1edbc2c9c8
 
 *Le Show*'s recurring feature about private life in the Obama White House, "Father Knows Best," featured the president attempting to explain his policy inconsistencies to one of his young daughters, complete with laugh tracks. Shearer composed and performed "Father Knows Best" around generic conventions of the arrestingly popular radio and television series of the same name,[<sup>96</sup>](/exhibits/eotp/notes#96) which starred Robert Young[<sup>97</sup>](/exhibits/eotp/notes#97) and Jane Wyatt.[<sup>98</sup>](/exhibits/eotp/notes#98) "Father Knows Best" made its *Le Show* [debut on May 17, 2009](https://americanarchive.org/catalog/cpb-aacip-61acc574eef?start=2197.8&end=2458.63), after President Obama failed to follow up on campaign promises to close Guantanamo Bay Detention Camp in southeastern Cuba.[<sup>99</sup>](/exhibits/eotp/notes#99)  
 
-Airing after the start of Obama's second term, this episode of "Father Knows Best" features a father-daughter conversation about the President's change of mind about accepting corporate money for his inauguration festivities.[<sup>100</sup>](/exhibits/eotp/notes#100) Shearer sets up the segment with another recurring *Le Show* segment, "Follow the Dollar": 
-https://americanarchive.org/catalog/cpb-aacip-8d2ff936eff?start=2521.82&end=2878.31 
+Airing after the start of Obama's second term, this episode of "Father Knows Best" features a father-daughter conversation about the President's change of mind about accepting corporate money for his inauguration festivities.[<sup>100</sup>](/exhibits/eotp/notes#100) Shearer sets up the segment with another recurring *Le Show* segment, ["Follow the Dollar"](https://americanarchive.org/catalog/cpb-aacip-8d2ff936eff?start=2521.82&end=2878.31). 
 
 The [final "Father Knows Best"](https://americanarchive.org/catalog/cpb-aacip-124d443cba5?start=2432.7&end=2820.02) on *Le Show* addresses Obama administration increases in warrantless National Security Agency surveillance of U.S. residents' internet traffic.[<sup>101</sup>](/exhibits/eotp/notes#101)  
 
 ## 44 Calls 43
 
-Two-plus years into the Obama administration, the current president calls the former, and the former answers the phone, "Retired Eagle" 
-https://americanarchive.org/catalog/cpb-aacip-8dfaa9f1715?start=2390.51&end=2699.82  
+Two-plus years into the Obama administration, the current president calls the former, and [the former answers the phone, "Retired Eagle"](https://americanarchive.org/catalog/cpb-aacip-8dfaa9f1715?start=2390.51&end=2699.82). 
 
-## "Boom"
+## ["Boom"](https://americanarchive.org/catalog/cpb-aacip-0aba89fbde1?start=1960.2&end=2090.41)
 
 Soon after the 2010 BP Deepwater Horizon oil spill in the Gulf of Mexico, Shearer created "Boom" from audio of a [news conference by President Barack Obama](https://www.youtube.com/watch?v=2rT7IANtSjo).[<sup>102</sup>](/exhibits/eotp/notes#102) On *Le Show*, Shearer set up this piece of sonic satire with his "News of Inspectors General" segment, reading a report on an investigation into the oil drilling industry that discovered "a culture of lax oversight and cozy ties to industry" during both the Bush and the Obama administrations.[<sup>103</sup>](/exhibits/eotp/notes#103)  
 
@@ -160,17 +136,11 @@ Shearer then plays audio of a drilling expert explaining "oil spill booming scho
 
 In "Boom," the final line Shearer includes from Obama's presser — a question Obama is relaying from his daughter, "Did you plug the hole yet, Daddy?" — speaks to the inadequacy of industry and government response to environmental destruction.
 
-"Boom"
-https://americanarchive.org/catalog/cpb-aacip-0aba89fbde1?start=1960.2&end=2090.41  
-
-## "It's Not My Red Line"
+## ["It's Not My Red Line"](https://americanarchive.org/catalog/cpb-aacip-764fc33bc54?start=2493.44&end=2854.5)
 
 When a 2013 chemical weapons attack tested Obama's claim that he had set a "red line" for U.S. military intervention in Syria based on "international norms,"[<sup>104</sup>](/exhibits/eotp/notes#104) Shearer invented and performed Obama's, Arizona Senator John McCain's, and U.S. Secretary of State John Kerry's various denials of responsibility for determining whether or not to intervene. In addition to synthesizing U.S. history from the Vietnam War era to America's longest war, this satirical masterpiece gets its title from a twist on the name of a British and U.S. improvisational comedy program, "Whose Line Is It Anyway?"[<sup>105</sup>](/exhibits/eotp/notes#105)
 
-"It's Not My Red Line"
-https://americanarchive.org/catalog/cpb-aacip-764fc33bc54?start=2493.44&end=2854.5
-
-## "We Tortured Some Folks"
+## ["We Tortured Some Folks"](https://americanarchive.org/catalog/cpb-aacip-8215fbc0c1b?start=2911.13&end=3220.26)
 
 In an interview on San Francisco's KALW in 2014, Shearer explained how he approached formulating a satiric response to the December 9, 2014, "[Committee Study of the Central Intelligence Agency's Detention and Interrogation Program](https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf)"  (a.k.a. “the C.I.A. Torture Report”[<sup>106</sup>](/exhibits/eotp/notes#106)) on *Le Show*:
 
@@ -182,19 +152,13 @@ In an interview on San Francisco's KALW in 2014, Shearer explained how he approa
 
 > The torture report to me is so profoundly important. Sadly, the [*Washington Post* today](https://www.washingtonpost.com/world/national-security/new-poll-finds-majority-of-americans-believe-torture-justified-after-911-attacks/2014/12/16/f6ee1208-847c-11e4-9534-f79a23c40e6c_story.html) says more than half of the American people think this was a good idea to have done this, which gives you a nice little — I'm not a big poll reader, but it gives you a little window into what the politicians are constantly referring to as "American values." Obama says this isn't who we are. Apparently, it is.[<sup>108</sup>](/exhibits/eotp/notes#108) 
 
-Shearer, who regularly comments that *Le Show* does not have a weekly "theme," opened the December 14, 2014, *Le Show* episode, five days after release of "the torture report," with the following announcement: "This is torture week on *Le Show*." In addition to news and satire responding to "the torture report," Shearer replayed his earlier satiric song, "Waterboardin' USA," originally composed, performed, and broadcast on *Le Show* in May 2007, days after former C.I.A. Director George Tenet repeatedly claimed of the agency, "We don't torture people."[<sup>109</sup>](/exhibits/eotp/notes#109)
- 
-"We Tortured Some Folks" 
-https://americanarchive.org/catalog/cpb-aacip-8215fbc0c1b?start=2911.13&end=3220.26      
+Shearer, who regularly comments that *Le Show* does not have a weekly "theme," opened the December 14, 2014, *Le Show* episode, five days after release of "the torture report," with the following announcement: "This is torture week on *Le Show*." In addition to news and satire responding to "the torture report," Shearer replayed his earlier satiric song, "Waterboardin' USA," originally composed, performed, and broadcast on *Le Show* in May 2007, days after former C.I.A. Director George Tenet repeatedly claimed of the agency, "We don't torture people."[<sup>109</sup>](/exhibits/eotp/notes#109)    
 
-"Who Is Yoo"
-https://americanarchive.org/catalog/cpb-aacip-8215fbc0c1b?start=1985.73&end=2290.16
+["Who Is Yoo"](https://americanarchive.org/catalog/cpb-aacip-8215fbc0c1b?start=1985.73&end=2290.16)
 
-"Mitchell and Jessen"
-https://americanarchive.org/catalog/cpb-aacip-f4ba1c4f8cb?start=2700.01&end=2857.96
+["Mitchell and Jessen"](https://americanarchive.org/catalog/cpb-aacip-f4ba1c4f8cb?start=2700.01&end=2857.96)
 
-"Waterboardin,' USA" 
-https://americanarchive.org/catalog/cpb-aacip-600f49f11ea?start=1394.79&end=1682.06
+["Waterboardin,' USA"](https://americanarchive.org/catalog/cpb-aacip-600f49f11ea?start=1394.79&end=1682.06)
 
 ## Trump: "The Appresidentice"
 
@@ -204,25 +168,19 @@ Shearer's imagined version of the November 10, 2016, Oval Office transition meet
 
 Approximately every month during the Trump Administration, Shearer invented, wrote, produced, and delivered on *Le Show* an episode of "The Appresidentice," reprising recent news about the administration and voicing all the characters. Shearer constructed this recurring segment around the generic conventions of "The Apprentice," the NBC vehicle that put Trump before the reality television-viewing U.S. public and "turned out to be the ideal launching pad for his improbable presidential campaign," journalist Nancy Benac has written.[<sup>113</sup>](/exhibits/eotp/notes#113) 
 	
-"The Appresidentice, Episode 1" 
-https://americanarchive.org/catalog/cpb-aacip-adc36a385b8?start=2230.59&end=2630.22 
+["The Appresidentice, Episode 1"](https://americanarchive.org/catalog/cpb-aacip-adc36a385b8?start=2230.59&end=2630.22) 
 
-"The Appresidentice" "This Week, Perhaps for the Last Time"
-https://americanarchive.org/catalog/cpb-aacip-f5c0ec23a2d?start=2119.87&end=2560.7 
+["The Appresidentice" "This Week, Perhaps for the Last Time"](https://americanarchive.org/catalog/cpb-aacip-f5c0ec23a2d?start=2119.87&end=2560.7)
 
 After Trump left Washington and returned to Mar-A-Lago, his private golf resort and "Southern White House," Shearer’s recurring Trump segment continued as "The Marapprentice."
 
-"The Marapprentice: Crime of the Century"
-https://americanarchive.org/catalog/cpb-aacip-502ee92ecb7?start=2339.83&end=2572.61 
+["The Marapprentice: Crime of the Century"](https://americanarchive.org/catalog/cpb-aacip-502ee92ecb7?start=2339.83&end=2572.61)
 
 ## "Covfefe"
 
-Trump's use of the social media platform Twitter during the 2016 and 2020 presidential campaigns and [throughout his presidency](https://www.washingtonpost.com/graphics/2020/technology/trump-twitter-tweets-president/) provided material for seemingly endless satire on television and in other media. Yet it was Trump’s mysterious typo, "[covfefe](https://www.nytimes.com/2017/05/31/us/politics/covfefe-trump-twitter.html)," that fueled some of Shearer's most deft and inventive rhyming, a paragon of prosody for the ear regardless of whether "covfefe" be sounded with a long or short e:
+Trump's use of the social media platform Twitter during the 2016 and 2020 presidential campaigns and [throughout his presidency](https://www.washingtonpost.com/graphics/2020/technology/trump-twitter-tweets-president/) provided material for seemingly endless satire on television and in other media. Yet it was Trump’s mysterious typo, "[covfefe](https://www.nytimes.com/2017/05/31/us/politics/covfefe-trump-twitter.html)," that fueled some of Shearer's most deft and inventive rhyming, a paragon of prosody for the ear [regardless of whether "covfefe" be sounded with a long or short e](https://americanarchive.org/catalog/cpb-aacip-42b2748f271?start=970.39&end=1180.94)
 
-"Covfefe"
-https://americanarchive.org/catalog/cpb-aacip-42b2748f271?start=970.39&end=1180.94
-
-## "I Don't Like Mosquitoes"
+## ["I Don't Like Mosquitoes"](https://americanarchive.org/catalog/cpb-aacip-77f00f45655?start=1560.28&end=1636.75)
 
 President Donald Trump's July 6, 2016, [campaign rally in Cincinnati](https://www.today.com/video/donald-trump-i-don-t-like-mosquitoes-720315971536) generated "found sound" that enabled Shearer to turn a moment of candidate distraction and deviation from the script into a sonic portrait of the 45th President of the United States. 
 
@@ -230,19 +188,13 @@ Yet the context for the piece is more than campaign politics. Shearer has made e
 
 To set up this piece of sonic satire, [Shearer read a report from the Yale Environment Blog](https://americanarchive.org/catalog/cpb-aacip-77f00f45655?start=1165.64&end=1515.02) about declining insect populations and the consequent risks for pollination, agriculture, and food production. Yet Shearer prefaced both the news and the satire with a confession that he, too, didn't like insects — when he was a kid: "Listen, please, believe me, if any human on the planet hates insects more than me, I'd like to meet that person. I'm not an insect fan. I spent a portion of my youth that I'm not proud of killing as many ants as humanly possible." This impromptu comment suggests Shearer's capacity to identify at some level with every object of his satire.[<sup>114</sup>](/exhibits/eotp/notes#114) 
 
-"I Don’t Like Mosquitoes"
-https://americanarchive.org/catalog/cpb-aacip-77f00f45655?start=1560.28&end=1636.75
-
-## "Kavanaugh Likes Beer"
+## ["Kavanaugh Likes Beer"](https://americanarchive.org/catalog/cpb-aacip-a5e0648bcab?start=2416.75&end=2608.57)
 
 Shearer's combination of three kinds of found sound — reports on public affairs, already-existing music, and percussive beds for new musical inventions — is showcased in his satiric response to Trump's second U.S. Supreme Court nominee, then-Judge and later Justice [Brett Kavanaugh's testimony](https://www.youtube.com/watch?v=AOr808UXOgE) at his September 27, 2018, Senate confirmation hearing. 
 
 In the [September 30, 2018, *Le Show* episode](https://americanarchive.org/catalog/cpb-aacip-a5e0648bcab), which contains additional reports about Dr. Christine Blasey Ford's [testimony alleging sexual assault by Kavanaugh while they were in high school](https://www.washingtonpost.com/politics/courts_law/in-emotional-testimony-ford-says-she-is-100-percent-certain-that-kavanaugh-assaulted-her/2018/09/27/774fb8ea-c26b-11e8-b338-a3289f6cb742_story.html), Shearer reminds listeners of the opening of an earlier and equally fraught scene in a Senate Judiciary Committee hearing, the 1991 confirmation hearing of Justice Clarence Thomas, accused by Professor Anita Hill of sexual harassment.
 
 Shearer follows the sonic satire with "You Curse at Girls," an earnest song about the consequences of verbal abuse performed by Fountains of Wayne, whose songs Shearer has played many times over the years on *Le Show*.
-
-“Kavanaugh Likes Beer”
-https://americanarchive.org/catalog/cpb-aacip-a5e0648bcab?start=2416.75&end=2608.57
 
 #### Next: [Satires of Commercial and Public Media](/exhibits/le-show/4-2-satires-of-commercial-public-media)
 
