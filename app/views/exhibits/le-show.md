@@ -46,6 +46,6 @@ If journalism is the first rough draft of history,[<sup>7</sup>](/exhibits/le-sh
   <img alt="" src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain.jpg">
   <a class="caption-text">Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly.</a>
 
-## Records -  ADD RECORDS HERE
+## Records
 
 - [](/catalog/cpb-aacip_532-4q7qn60f37)
