@@ -6,7 +6,7 @@
 
 ## Extended
 
-## Main - UPDATE
+## Main
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
