@@ -6,7 +6,7 @@
 
 ## Extended
 
-## Main - UPDATE
+## Main
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
@@ -140,14 +140,9 @@ Shearer's most recent sonic O. J. satire arose in the context of news about a me
 
 #### Next: [Environmental Reporting](/exhibits/le-show/4-4-environmental-reporting)
 
-## Resources - UPDATE
+## Resources
 
-- [The Riverside Church in the City of New York](https://www.trcnyc.org/)
-- [History of National Religious Broadcasters](https://nrb.org/who-we-are/our-history/)
-- [Digitizing and Transcribing the Archives of NYC Progressive Church Radio (Radio Survivor)](https://www.radiosurvivor.com/2021/06/podcast-301-digitizing-transcribing-the-archives-of-nyc-progressive-church-radio/)
-
-
-## Cover - UPDATE
+## Cover
   <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
 
 ## Gallery
