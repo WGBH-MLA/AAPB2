@@ -13,7 +13,7 @@
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
-## "Touch My Junk"
+### "Touch My Junk"
 
 Changes in the airline industry after 9/11— and problems with the Transportation Safety Administration — prompted a segment that recurred on *Le Show* for almost fifteen years, "Tales of Airport Security." [Shearer read reports from listeners](https://americanarchive.org/catalog/cpb-aacip-3eebdbbf9f1?start=1215.58&end=1513.71) over the Beatles' wordless song "Flying" from *Magical Mystery Tour*, occasionally mentioning his own experiences with airlines and the TSA.
 
@@ -21,7 +21,7 @@ After nearly a decade of sharing listener reports and occasionally giving advice
 
 video : https://harryshearer.com/media/#prettyPhoto[Videos]/22/ 
 
-## "Mr. Goldman and Mr. Sachs"
+### "Mr. Goldman and Mr. Sachs"
 
 More deft rhyming combines with Shearer's insistence on keeping certain obdurate facts in public memory in the very teachable satiric song about the causes of the global financial crisis that began in the United States in 2008, "Mr. Goldman and Mr. Sachs."
 
@@ -40,7 +40,7 @@ First airing [here](https://americanarchive.org/catalog/cpb-aacip-59a2105f8cb?st
 "Mr. Goldman and Mr. Sachs"
 Revised version [here](https://americanarchive.org/catalog/cpb-aacip-1f1a6ef4d4e?start=2539.54&end=2948).
 
-## "The Losing Side" / "The Losing Kind"
+### "The Losing Side" / "The Losing Kind"
 
 A perfect triple rhyme — "It took bravery to fight for slavery" — cements in song and thus in memory the original sin of the United States: importation and enslavement as chattel of African Americans, a consequent Civil War, and the subsequent promulgation of the "Lost Cause" ideology. Shearer's song "The Losing Kind" imagines an anthem to accompany the Confederate flag, which Shearer calls "the losers' flag." The memorable, bucolic melody fits the rural setting but contrasts with the topic, a characteristic complexity in Shearer’s satiric songs. "It takes bravery to forget about slavery. We don't watch; we rewind. We’re the losing kind."
 

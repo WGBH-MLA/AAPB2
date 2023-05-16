@@ -13,7 +13,7 @@
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
-## "Let Us Try" News of the U.S. Army Corps of Engineers
+### "Let Us Try" News of the U.S. Army Corps of Engineers
 
 Using as backdrop music from the anthem of the U.S. Army Corps of Engineers, ["Let Us Try" became a regular *Le Show* segment](https://americanarchive.org/catalog/cpb-aacip-798b2078b65?start=2205.21&end=2350.45) after Shearer started doing research for his documentary *The Big Uneasy*.
 

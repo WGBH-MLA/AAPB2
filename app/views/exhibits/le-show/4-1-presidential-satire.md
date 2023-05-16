@@ -8,7 +8,7 @@
 
 ## Main
 
-## "Nixon in Heaven"
+### "Nixon in Heaven"
 
 Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The Lakers Line" and to Casey Kasem to promote [Nixon's new book](https://americanarchive.org/catalog/cpb-aacip-d5aa865cad4?start=1167.52&end=1184.1), a reputation-rehabilitation effort, in 1988 to "Nixon in Heaven," a recurring *Le Show* segment in which the disgraced president[<sup>77</sup>](/exhibits/eotp/notes#77) and his still-loyal sidekick Haldeman, are, in the afterlife, still taping. 
 
@@ -22,7 +22,7 @@ The [first "Nixon in Heaven"](https://americanarchive.org/catalog/cpb-aacip-c2b2
 
 ["Nixon in Heaven" - Kissinger and the Cockroaches 2/4/2018](https://americanarchive.org/catalog/cpb-aacip-6e16a0acb10?start=2118.46&end=2629)
 
-## The Reagans: "Hellcats of the White House"
+### The Reagans: "Hellcats of the White House"
 
 Generic models for Shearer's "Hellcats of the White House" include dramas from radio's Golden Era and the only film in which Ronald and Nancy Reagan (née Davis) appeared together, the 1957 *Hellcats of the Navy* (Columbia Pictures). The film, Reagan's next-to-last theatrical feature, was deemed by London's Monthly Film Bulletin "a vague and aimless film."[<sup>81</sup>](/exhibits/eotp/notes#81)  
 
@@ -45,7 +45,7 @@ The setup for a 1987 episode of "Hellcats" uses as its point of departure news o
 
 *Le Show*'s final "Hellcats" episode responded satirically to news of the forthcoming "Walsh Report," the federal government's last word on Iran-Contra.[<sup>86</sup>](/exhibits/eotp/notes#86) Shearer reprised this episode of "Hellcats" on a "Highlights from *Le Show*: [The First 20 Years" episode on June 29, 2003](https://americanarchive.org/catalog/cpb-aacip-855869aa3c5?start=2617.22&end=3186.61)
 
-## George H. W. Bush: "Notes for Presidential Memoirs" and radio speeches
+### George H. W. Bush: "Notes for Presidential Memoirs" and radio speeches
 
 The recurring *Le Show* segment "Notes for Presidential Memoirs" presented Shearer's President George H. W. Bush dictating diary entries into a tape recorder for future use. The first episode of "Presidential Memoirs" aired soon after the one-term administration's first major failure: [Bush's nomination of fellow Texan John Tower as Secretary of Defense](https://americanarchive.org/catalog/cpb-aacip-11de808442c?start=1841.25&end=2304.77).[<sup>87</sup>](/exhibits/eotp/notes#87)  
 
@@ -62,7 +62,7 @@ Shearer also voiced George H. W. Bush on "The Simpsons" ("Two Bad Neighbors," 19
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" class="big-image" alt="Title card for Harry Shearer on the show The Golden Girls."/></a></td></tr>
 </table>
 
-## "Clintonsomething"
+### "Clintonsomething"
 
 Just as "Hellcats of the White House" used a cultural artifact as its point of departure for satirizing the Reagans, Shearer chose "Clintonsomething" — an echo of the baby-boomer demographic television drama *Thirtysomething* (ABC, 1987-1991) — as the title for his satire of President Bill and First Lady Hillary Rodham Clinton and the vernacular-spouting characters surrounding them. 
 
@@ -87,7 +87,7 @@ Impeachment-related[<sup>90</sup>](/exhibits/eotp/notes#90) "Clintonsomething" h
 "Clintonsomething: The Wilderness Years"
 [This segment ends](https://americanarchive.org/catalog/cpb-aacip-03b0e3675df?start=1632.67&end=2097.23) with Shearer's Bill Clinton in a reflective mode: "Wow. Well, sir. This is a day I need to remember for my next memoir…. This is a true pivot point. After all this time, this may be the day I stop thinking about tomorrow."[<sup>91</sup>](/exhibits/eotp/notes#91) 
 
-## George W. Bush: "41 Calls 43" and "Dick Cheney Confidential"
+### George W. Bush: "41 Calls 43" and "Dick Cheney Confidential"
 
 Texas Governor George W. Bush, eldest son of the 41st President and his wife Barbara, became the 43rd President of the United States, establishing what would be described as a family dynasty. Not since the early republic had the United States elected a president's son to the highest office in the land. Whereas John and John Quincy Adams were limited to letters to facilitate distant communication, the Bushes had telephony, wired and wireless; in Shearer's satiric imagination, the sonic folly of their conversations belies the heavy histories their administrations oversaw.
 
@@ -116,7 +116,7 @@ On [February 19, 2006](https://americanarchive.org/catalog/cpb-aacip-b1edbc2c9c8
 
 > There are two kinds of people in the small town masquerading as a capital city known as Washington, D.C.: the benighted individuals in the political and media elite who would think it's a sign of success when you get your name in the paper, and those of us in the private-ops side of town who know that when that happens it's a sign of failure. This week by the preponderance of the evidence I flopped more repeatedly than a striped bass in a barrel with a face full of bird shot. One thing this little sojourn in the spotlight has taught me was how smart it was to insist that, after the initial terrorist threat period ended, we never gave up the "secure undisclosed." I stopped to think about what this week might have been like with everybody from Brit Hume to Michael Moore camping in our driveway. Makes me wanna have one beer and go shooting….
 
-## The Obamas: "Father Knows Best"
+### The Obamas: "Father Knows Best"
 
 *Le Show*'s recurring feature about private life in the Obama White House, "Father Knows Best," featured the president attempting to explain his policy inconsistencies to one of his young daughters, complete with laugh tracks. Shearer composed and performed "Father Knows Best" around generic conventions of the arrestingly popular radio and television series of the same name,[<sup>96</sup>](/exhibits/eotp/notes#96) which starred Robert Young[<sup>97</sup>](/exhibits/eotp/notes#97) and Jane Wyatt.[<sup>98</sup>](/exhibits/eotp/notes#98) "Father Knows Best" made its *Le Show* [debut on May 17, 2009](https://americanarchive.org/catalog/cpb-aacip-61acc574eef?start=2197.8&end=2458.63), after President Obama failed to follow up on campaign promises to close Guantanamo Bay Detention Camp in southeastern Cuba.[<sup>99</sup>](/exhibits/eotp/notes#99)  
 
@@ -124,11 +124,11 @@ Airing after the start of Obama's second term, this episode of "Father Knows Bes
 
 The [final "Father Knows Best"](https://americanarchive.org/catalog/cpb-aacip-124d443cba5?start=2432.7&end=2820.02) on *Le Show* addresses Obama administration increases in warrantless National Security Agency surveillance of U.S. residents' internet traffic.[<sup>101</sup>](/exhibits/eotp/notes#101)  
 
-## 44 Calls 43
+### 44 Calls 43
 
 Two-plus years into the Obama administration, the current president calls the former, and [the former answers the phone, "Retired Eagle"](https://americanarchive.org/catalog/cpb-aacip-8dfaa9f1715?start=2390.51&end=2699.82). 
 
-## ["Boom"](https://americanarchive.org/catalog/cpb-aacip-0aba89fbde1?start=1960.2&end=2090.41)
+### ["Boom"](https://americanarchive.org/catalog/cpb-aacip-0aba89fbde1?start=1960.2&end=2090.41)
 
 Soon after the 2010 BP Deepwater Horizon oil spill in the Gulf of Mexico, Shearer created "Boom" from audio of a [news conference by President Barack Obama](https://www.youtube.com/watch?v=2rT7IANtSjo).[<sup>102</sup>](/exhibits/eotp/notes#102) On *Le Show*, Shearer set up this piece of sonic satire with his "News of Inspectors General" segment, reading a report on an investigation into the oil drilling industry that discovered "a culture of lax oversight and cozy ties to industry" during both the Bush and the Obama administrations.[<sup>103</sup>](/exhibits/eotp/notes#103)  
 
@@ -136,11 +136,11 @@ Shearer then plays audio of a drilling expert explaining "oil spill booming scho
 
 In "Boom," the final line Shearer includes from Obama's presser — a question Obama is relaying from his daughter, "Did you plug the hole yet, Daddy?" — speaks to the inadequacy of industry and government response to environmental destruction.
 
-## ["It's Not My Red Line"](https://americanarchive.org/catalog/cpb-aacip-764fc33bc54?start=2493.44&end=2854.5)
+### ["It's Not My Red Line"](https://americanarchive.org/catalog/cpb-aacip-764fc33bc54?start=2493.44&end=2854.5)
 
 When a 2013 chemical weapons attack tested Obama's claim that he had set a "red line" for U.S. military intervention in Syria based on "international norms,"[<sup>104</sup>](/exhibits/eotp/notes#104) Shearer invented and performed Obama's, Arizona Senator John McCain's, and U.S. Secretary of State John Kerry's various denials of responsibility for determining whether or not to intervene. In addition to synthesizing U.S. history from the Vietnam War era to America's longest war, this satirical masterpiece gets its title from a twist on the name of a British and U.S. improvisational comedy program, "Whose Line Is It Anyway?"[<sup>105</sup>](/exhibits/eotp/notes#105)
 
-## ["We Tortured Some Folks"](https://americanarchive.org/catalog/cpb-aacip-8215fbc0c1b?start=2911.13&end=3220.26)
+### ["We Tortured Some Folks"](https://americanarchive.org/catalog/cpb-aacip-8215fbc0c1b?start=2911.13&end=3220.26)
 
 In an interview on San Francisco's KALW in 2014, Shearer explained how he approached formulating a satiric response to the December 9, 2014, "[Committee Study of the Central Intelligence Agency's Detention and Interrogation Program](https://www.intelligence.senate.gov/sites/default/files/publications/CRPT-113srpt288.pdf)"  (a.k.a. “the C.I.A. Torture Report”[<sup>106</sup>](/exhibits/eotp/notes#106)) on *Le Show*:
 
@@ -160,7 +160,7 @@ Shearer, who regularly comments that *Le Show* does not have a weekly "theme," o
 
 ["Waterboardin,' USA"](https://americanarchive.org/catalog/cpb-aacip-600f49f11ea?start=1394.79&end=1682.06)
 
-## Trump: "The Appresidentice"
+### Trump: "The Appresidentice"
 
 Shearer has studied Trump's character for decades, dating to his work in the 1980s as a contributing editor to *Spy* magazine.[<sup>110</sup>](/exhibits/eotp/notes#110) Trump became a regular object of satire on *Le Show* beginning in 2013, when Shearer wrote and performed "[Caveat Discipulus](https://americanarchive.org/catalog/cpb-aacip-4153dab8eff?start=1887.59&end=2199.05)" ("Let the Student Beware"), a satirical Trump University alma mater.[<sup>111</sup>](/exhibits/eotp/notes#111) 
 
@@ -176,11 +176,11 @@ After Trump left Washington and returned to Mar-A-Lago, his private golf resort 
 
 ["The Marapprentice: Crime of the Century"](https://americanarchive.org/catalog/cpb-aacip-502ee92ecb7?start=2339.83&end=2572.61)
 
-## "Covfefe"
+### "Covfefe"
 
 Trump's use of the social media platform Twitter during the 2016 and 2020 presidential campaigns and [throughout his presidency](https://www.washingtonpost.com/graphics/2020/technology/trump-twitter-tweets-president/) provided material for seemingly endless satire on television and in other media. Yet it was Trump’s mysterious typo, "[covfefe](https://www.nytimes.com/2017/05/31/us/politics/covfefe-trump-twitter.html)," that fueled some of Shearer's most deft and inventive rhyming, a paragon of prosody for the ear [regardless of whether "covfefe" be sounded with a long or short e](https://americanarchive.org/catalog/cpb-aacip-42b2748f271?start=970.39&end=1180.94)
 
-## ["I Don't Like Mosquitoes"](https://americanarchive.org/catalog/cpb-aacip-77f00f45655?start=1560.28&end=1636.75)
+### ["I Don't Like Mosquitoes"](https://americanarchive.org/catalog/cpb-aacip-77f00f45655?start=1560.28&end=1636.75)
 
 President Donald Trump's July 6, 2016, [campaign rally in Cincinnati](https://www.today.com/video/donald-trump-i-don-t-like-mosquitoes-720315971536) generated "found sound" that enabled Shearer to turn a moment of candidate distraction and deviation from the script into a sonic portrait of the 45th President of the United States. 
 
@@ -188,7 +188,7 @@ Yet the context for the piece is more than campaign politics. Shearer has made e
 
 To set up this piece of sonic satire, [Shearer read a report from the Yale Environment Blog](https://americanarchive.org/catalog/cpb-aacip-77f00f45655?start=1165.64&end=1515.02) about declining insect populations and the consequent risks for pollination, agriculture, and food production. Yet Shearer prefaced both the news and the satire with a confession that he, too, didn't like insects — when he was a kid: "Listen, please, believe me, if any human on the planet hates insects more than me, I'd like to meet that person. I'm not an insect fan. I spent a portion of my youth that I'm not proud of killing as many ants as humanly possible." This impromptu comment suggests Shearer's capacity to identify at some level with every object of his satire.[<sup>114</sup>](/exhibits/eotp/notes#114) 
 
-## ["Kavanaugh Likes Beer"](https://americanarchive.org/catalog/cpb-aacip-a5e0648bcab?start=2416.75&end=2608.57)
+### ["Kavanaugh Likes Beer"](https://americanarchive.org/catalog/cpb-aacip-a5e0648bcab?start=2416.75&end=2608.57)
 
 Shearer's combination of three kinds of found sound — reports on public affairs, already-existing music, and percussive beds for new musical inventions — is showcased in his satiric response to Trump's second U.S. Supreme Court nominee, then-Judge and later Justice [Brett Kavanaugh's testimony](https://www.youtube.com/watch?v=AOr808UXOgE) at his September 27, 2018, Senate confirmation hearing. 
 

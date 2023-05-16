@@ -13,7 +13,7 @@
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
-## ["Bad Days at Black Rock"](https://americanarchive.org/catalog/cpb-aacip-09df5d2a755?start=551.59&end=1030.43)
+### ["Bad Days at Black Rock"](https://americanarchive.org/catalog/cpb-aacip-09df5d2a755?start=551.59&end=1030.43)
 
 Shearer's satires of commercial and public media are legion. He has satirized the television news industry since his work with the Credibility Gap and on *Saturday Night Live*.[<sup>115</sup>](/exhibits/eotp/notes#115) Shearer's ability to intercept and record "raw feeds," television satellite transmissions of news anchors preparing to go on the air,[<sup>116</sup>](/exhibits/eotp/notes#116) has provided him with unique found sound for satire, some of it worthy of installation in art galleries.[<sup>117</sup>](/exhibits/eotp/notes#117)
 
@@ -21,13 +21,13 @@ On *Le Show*, the recurring feature "Bad Days at Black Rock" — "Black Rock" wa
 
 > You see, here's my problem, brother Plante. I care too much. I've given too many years not to CBS News — sir, please, I'm not that stupid — but to *the idea of* CBS News, the idea of a place that, whether it's owned by a Westinghouse or a Viacom or a pack of rabid coon dogs, still maintains a semblance of the standards it was founded on. A place that, no matter who pays its mortgage, still thinks of itself as the house Murrow built. Now if I have to stay at it a little longer and a little later in this life's final segment than Uncle Walter did, and put off the yachting and the golf playing until I'm too old to do it, well maybe that's the price I have to pay for keeping that dream alive. 
 
-## "The Lighter Side of the War"
+### "The Lighter Side of the War"
 
 In May 1985, to mark the 10th anniversary of the last U.S. troops leaving Saigon at the end of the Vietnam War, Shearer aired "The Lighter Side of the War," featuring archival audio of Dan Rather interviewing President Lyndon B. Johnson; of Henry Kissinger; and of Bob Hope entertaining U.S. troops in Saigon. 
 
 [Shearer concludes the segment](https://americanarchive.org/catalog/cpb-aacip-63273f2fd8d?start=3246.76&end=3366.34), "With so much to smile about, who knows? Maybe it was worth it after all."
 
-## "Inside Extra Access Tonight"
+### "Inside Extra Access Tonight"
 
 A satirical mashup of long-running programs *Access Hollywood* and *Entertainment Tonight*, Shearer's "Inside Extra Access Tonight" (sometimes called more simply "Extra Access Tonight") makes fun of the oxymoron "entertainment news." Shearer parodies both form and content of the programs, featuring a pair of co-hosts, energetic music, and vocal delivery reeking of promotion. 
 
@@ -42,7 +42,7 @@ Co-hosts Pat Mungo and Mike Devere provide a contrapunctal introduction to each 
 > Devere: “And 2003 promises more of the same.”
 > Mungo: “So welcome aboard for our first annual look ahead to the stories we'll be looking back at, less than a year from now.”
 
-## ["*USA Today*: The Radio Show"](https://americanarchive.org/catalog/cpb-aacip-e359b9eed95?start=2570.71&end=2708.97)
+### ["*USA Today*: The Radio Show"](https://americanarchive.org/catalog/cpb-aacip-e359b9eed95?start=2570.71&end=2708.97)
 
 The 1982 launch of the first U.S. general-interest nationwide weekday newspaper, *USA Today*, marked a further blurring of news and entertainment. *USA Today* used color more extensively and dramatically than other newspapers.[<sup>118</sup>](/exhibits/eotp/notes#118) News stories were shorter than in other major daily newspapers, and sports and entertainment were given equal play with news, thus lessening not only the amount of news covered but the depth of coverage. 
 
@@ -50,13 +50,13 @@ Shearer sets up a [1989 satiric bit called "*USA Today*: The Radio Show"](https:
 
 > Everyone knows that the trend in television shows — programs — is towards the tabloidal. I got hung up on noticing the strangeness of the titles of some of these new programs and trying to figure out what the heck was going on. A case in point, ladies and gentlemen: *A Current Affair*. What does that mean? It's very tricky when you think about it, but please don't. I've already wasted my time doing this. They took the phrase that's familiar to all of us from school, *current events*. Then they made it a singular, *a current event*. But *event* sounds so boring, so flat, so dull. So they went, OK, *public affairs*. *Affair*. *A Current Affair*. See what they did? Now there's a new show that's premiering next week that's, well, best described as an imitation of *A Current Affair*, and its name is *Inside Edition*. They got the title the same way. They took *inside* story, but *story*, there may be more than one story in the show. And then, news: *final edition*. *Inside Edition*! There you go.
 
-## ["Rush to Recovery"](https://americanarchive.org/catalog/cpb-aacip-7630efc2ab1?start=5443.41&end=5828.03)
+### ["Rush to Recovery"](https://americanarchive.org/catalog/cpb-aacip-7630efc2ab1?start=5443.41&end=5828.03)
 
 Commercial radio talk host Rush Limbaugh was a perennial object of Shearer's satire. When Limbaugh announced on-air in 2003 that he was re-entering treatment for addiction to painkilling medication purchased illegally for him by his housekeeper, Shearer created psychotropic sonic satire to answer the question "What exactly is going on at that unidentified treatment facility into which Limbaugh has checked himself"? 
 
 The satiric masterpiece opens with Shearer's echoing announcer voice mimicking Limbaugh's sign-on, again with a twist: "Now, from inside an undisclosed treatment facility, the most listened-to drug addict in America, on a Rush to Recovery." Hypocrisy of any kind is fair game for Shearer's satire, and Limbaugh's earlier statements on drug abuse made him especially ripe for ridicule.[<sup>119</sup>](/exhibits/eotp/notes#119) 
 
-## ["Believia"](https://americanarchive.org/catalog/cpb-aacip-874141446ac?start=1431.33&end=1505.09)
+### ["Believia"](https://americanarchive.org/catalog/cpb-aacip-874141446ac?start=1431.33&end=1505.09)
 
 The United States is the only country other than New Zealand in which pharmaceuticals are marketed directly to consumers via television commercials.[<sup>120</sup>](/exhibits/eotp/notes#120) Shearer's experience as an ad copywriter and his avid television news viewing together fuel his creation of "spots," 30- or 60-second advertisements for various fictional products, satiric commentaries on the absurdities of advertising.
 
@@ -64,15 +64,15 @@ Shearer invented the "Believia" spot to follow a news item about the federal gov
 
 Shearer's satiric commentary on the arguably unhealthy amount of pharmaceutical marketing on U.S. television, "Believia" touts the faux pharmaceutical Shearer rhetorically formulated for "age-related skeptocemia, a chronic inability to absorb and believe messages about products that might be helpful." The spot ends with a riff on the usual small-print warnings about side-effects, again with a satiric twist: "Do not use or handle Believia if you are operating machinery, becoming pregnant, or operating pregnancy machinery. Common side effects include headache, dizziness, memory loss, temporary night-blindness, and chronic gullibility. Ask your doctor if Believia is right for you. And believe him."
 
-## CPR: Continental Public Radio
+### CPR: Continental Public Radio
 
 *Le Show* has featured parodies of public media programs across its history. Shearer's titles for these segments subtly but profoundly twist the names of actual public radio programs and their hosts.
 
-## "Up To Here"
+### "Up To Here"
 
 Commemorating 10 years since U.S. troops left Vietnam, [a 1985 promo for the satiric program Up To Here](https://americanarchive.org/catalog/cpb-aacip-63273f2fd8d?start=1009.9&end=1057.73)," hosted by Ira Zipkin, forecasts a report on post-traumatic stress disorder among Americans who did not serve in the Vietnam War.
 
-## "Mind Your Own Business"
+### "Mind Your Own Business"
 
 Shearer's satires of public radio programming devoted to business, economics, and personal finance news echo through the decades of *Le Show* via the segment "Mind Your Own Business." 
 
@@ -82,7 +82,7 @@ The mergers and acquisitions mania of 1988[<sup>122</sup>](/exhibits/eotp/notes#
 
 Changes to the business of advertising caused by COVID pandemic-era inflation and digital-device overload set the stage for [Shearer’s satire of a fictional business called "Brain Flush"](https://americanarchive.org/catalog/cpb-aacip-0deb39ea557?start=2080.07&end=2431.37). Intended to help the “attentionally challenged," "Brain Flush" is for "anybody who's got a laptop or a cell phone," because "sometimes it feels like our brains have been colonized by over-talkative aliens."
 
-## "Karzai Talk"
+### "Karzai Talk"
 
 Debuting in 2010 after U.S. prosecutors launched a criminal corruption investigation of Mahmood Karzai, brother of then-Afghanistan President Hamid Karzai,[<sup>125</sup>](/exhibits/eotp/notes#125) Shearer's "Karzai Talk" takes as its satiric point of departure *Car Talk*, the long-running National Public Radio call-in show. 
 

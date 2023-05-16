@@ -13,7 +13,7 @@
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
 </table>
 
-## "Reading the Trades"
+### "Reading the Trades"
 
 No *Le Show* segment better illustrates Shearer's vocation for information sharing and extemporaneous language play than the long-running "Reading the Trades" segment of *Le Show*, which occurs across the entire history of *Le Show*. 
 
@@ -33,7 +33,7 @@ The luxury car segment ends with a rhetorical question, "Can Robin Leach[<sup>13
 
 The consequences of formaldehyde in Federal Emergency Management Agency trailers provided for victims of Hurricane Katrina made this chemical a regular focus on *Le Show*. This public health trade story follows another recurring segment, "Let Us Try," news of the U.S, Army Corps of Engineers, a feature that began after Shearer started research for his documentary *The Big Uneasy*, about why New Orleans flooded after hurricane Katrina.
 
-## Jerry Lewis Telethon
+### Jerry Lewis Telethon
 
 Every Labor Day weekend from 1966 to 2010, comedian, actor, and filmmaker [Jerry Lewis](https://findingaids.loc.gov/exist_collections/ead3pdf/mbrsmi/2021/mi021004.pdf) hosted a live, star-studded approximately 20-hour long television fund-raiser — "telethon," a portmanteau of "television” and “marathon" — for the [Muscular Dystrophy Association](https://www.mda.org/jerry-lewis/photos-and-videos.html). The bathos of the telethon, its reliance on show business commonplaces, and its annual recurrence combined to make it a regular object of Shearer's attention. 
 
@@ -55,7 +55,7 @@ In 2011, a shorter version of the telethon, not involving Lewis, aired, and Shea
 
 In 2017, after Lewis died, Shearer paraphrased a *People* magazine report that Lewis had five years earlier "emphatically cut out all six children he had with his first wife, Patty Palmer, from his will. So they'll inherit exactly zippo. Nada. Zip." A chronicler of hypocrisy in figures from every public walk of life, Shearer reserves some of his sharpest satire for the celebrity sort. In response to the report from *People*, Shearer invents, performs, and delivers a telethon for Lewis’ actual children: ["Love 17 Telethon for Jerry’s Real Kids"](https://americanarchive.org/catalog/cpb-aacip-daeb92db285?start=2093.82&end=2661.35)
 
-## "The Apologies of the Week"
+### "The Apologies of the Week"
 
 Shearer's enthusiasm for exposing the hypocrisies of politically and culturally powerful individuals is clear across the history of *Le Show*. No segment highlights that enthusiasm better than "The Apologies of the Week" segment, which has occurred nearly every week since November 2001. 
 
@@ -76,7 +76,7 @@ Sometimes ten minutes or more in duration, the "The Apologies of the Week" segme
 [Church of England apologizes to Charles Darwin](https://americanarchive.org/catalog/cpb-aacip-b5955c3602d?proxy_start_time=1375.25)
 (CoE apology begins at 0:22:55)
 
-## Pope Francis apologizes to the Roma
+### Pope Francis apologizes to the Roma
 
 This particular apology follows another recurring feature, "News of the Godly," in which Shearer shares information about sexual abuse and other scandals in various religions. Despite the doctrine of papal infallibility, this time a Pope is apologizing:
 
@@ -85,7 +85,7 @@ This particular apology follows another recurring feature, "News of the Godly," 
 [Pope Francis apologizes to the Roma](https://americanarchive.org/catalog/cpb-aacip-4bc951c5ab5)   
 (at 0:46:52)
 
-## News of the Olympic Movement
+### News of the Olympic Movement
 
 Since 1984, when they were held in Los Angeles, Shearer has regularly covered news of the Olympics on *Le Show*, highlighting negative economic and environmental consequences of the games as well as attempts to market the Olympics as "a movement." Leading up to the 2016 Olympics in Rio de Janeiro, when sewage was found in bodies of water intended for Olympic events, Shearer's "Said And Done," a parody of public radio "news magazines," [featured an item about Shearer's imagined Olympic and Paralympic mascots, "Effluvio" and "Pupi."](https://americanarchive.org/catalog/cpb-aacip-fd1467a2e9e?start=1642&end=2303.47)
 
@@ -93,7 +93,7 @@ Since 1984, when they were held in Los Angeles, Shearer has regularly covered ne
 
 ["News of the Olympic Movement: Trying to Keep the Hookers Out of London for 2012"](https://americanarchive.org/catalog/cpb-aacip-513f971aee3?start=3347.27&end=3383.15)
 
-## O.J. Simpson Arrest and Trials
+### O.J. Simpson Arrest and Trials
 
 The 1994 slow-speed freeway pursuit, arrest, and subsequent criminal and civil murder trials of football, advertising, and show business icon O. J. Simpson fueled dozens of Shearer's inventions in sound on *Le Show*.[<sup>142</sup>](/exhibits/eotp/notes#142) Shearer also covered the Simpson civil trial for the online publication Slate magazine, created in 1996 by former *New Republic* editor Michael Kinsley.[<sup>143</sup>](/exhibits/eotp/notes#143) Simpson was found not guilty of the murder of his ex-wife Nicole Brown Simpson and her friend Ronald Goldman in the criminal trial; Simpson was later found responsible for the "wrongful deaths" in the civil trial. Shearer has characterized the civil trial as "the one that worked."[<sup>144</sup>](/exhibits/eotp/notes#144)
 

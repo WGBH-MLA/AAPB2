@@ -31,7 +31,7 @@ What follows is a small but representative sampler of *Le Show*'s recurring segm
 
 ## Resources
 
-## Cover - UPDATE
+## Cover
   <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
 
 ## Gallery

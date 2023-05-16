@@ -13,7 +13,6 @@
   <a class="title">Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University</a>
   <a class="credit">Phographed by Kirt H. Wilson</a>
 
-
 ## Resources
 
 ## Main
