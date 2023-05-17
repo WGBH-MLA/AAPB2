@@ -9,8 +9,8 @@
 ## Main
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Shearer in studio.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap5.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap5.png" class="big-image" alt="Shearer in studio."/></a></td></tr>
 </table>
 
 ### "Let Us Try" News of the U.S. Army Corps of Engineers
@@ -35,7 +35,7 @@ The bumper music introduction to which displays Shearer's talent for sampling an
 ## Resources
 
 ## Cover
- <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
+ <img title="Cover Image" alt="Shearer in studio." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap5.png">
 
 ## Gallery
 
