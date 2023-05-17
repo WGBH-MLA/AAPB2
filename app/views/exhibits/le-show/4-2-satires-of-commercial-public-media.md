@@ -8,11 +8,6 @@
 
 ## Main
 
-<table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
-</table>
-
 ### ["Bad Days at Black Rock"](https://americanarchive.org/catalog/cpb-aacip-09df5d2a755?start=551.59&end=1030.43)
 
 Shearer's satires of commercial and public media are legion. He has satirized the television news industry since his work with the Credibility Gap and on *Saturday Night Live*.[<sup>115</sup>](/exhibits/eotp/notes#115) Shearer's ability to intercept and record "raw feeds," television satellite transmissions of news anchors preparing to go on the air,[<sup>116</sup>](/exhibits/eotp/notes#116) has provided him with unique found sound for satire, some of it worthy of installation in art galleries.[<sup>117</sup>](/exhibits/eotp/notes#117)
@@ -63,6 +58,11 @@ The United States is the only country other than New Zealand in which pharmaceut
 Shearer invented the "Believia" spot to follow a news item about the federal government fining pharmaceutical giant Pfizer $2.3 billion to settle criminal and civil accusations of illegal marketing of its painkiller Bextra.[<sup>121</sup>](/exhibits/eotp/notes#121)  
 
 Shearer's satiric commentary on the arguably unhealthy amount of pharmaceutical marketing on U.S. television, "Believia" touts the faux pharmaceutical Shearer rhetorically formulated for "age-related skeptocemia, a chronic inability to absorb and believe messages about products that might be helpful." The spot ends with a riff on the usual small-print warnings about side-effects, again with a satiric twist: "Do not use or handle Believia if you are operating machinery, becoming pregnant, or operating pregnancy machinery. Common side effects include headache, dizziness, memory loss, temporary night-blindness, and chronic gullibility. Ask your doctor if Believia is right for you. And believe him."
+
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Shearer at KCRW.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-kcrw.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-kcrw.jpg" class="big-image" alt="Shearer at KCRW."/></a></td></tr>
+</table>
 
 ### CPR: Continental Public Radio
 
@@ -115,7 +115,7 @@ Other recurring segments concerning U.S. wars in Iraq and Afghanistan included "
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
+  <img title="Cover Image" alt="Shearer at KCRW." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-kcrw.jpg">
 
 ## Gallery
 
