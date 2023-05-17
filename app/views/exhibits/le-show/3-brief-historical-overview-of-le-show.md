@@ -43,7 +43,7 @@ Shearer's return to KCRW made headlines.
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption"></caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" class="big-image" alt="Promo for KCRW featuring Harry Shearer."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2_cut.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2_cut.jpg" class="big-image" alt="Promo image featuring Harry Shearer."/></a></td></tr>
 </table>
 
 "The ex-'*Saturday Night Live*' writer/performer returned to KCRW and his creative roots over the weekend. His new hour comedy show … features something that KCRW manager [Ruth Seymour] describes as 'essentially serious' topical humor."[<sup>51</sup>](/exhibits/le-show/notes#51) 
@@ -97,7 +97,7 @@ The arrangement with KCSN lasted a little more than a year. But *Le Show* remain
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Promo for KCRW Featuring Harry Shearer." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg">
+  <img title="Cover Image" alt="Promo image featuring Harry Shearer." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2_cut.jpg">
 
 ## Gallery
 
