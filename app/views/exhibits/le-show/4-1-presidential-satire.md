@@ -14,6 +14,11 @@ Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The L
 
 "Are you obsessed with Nixon?" Marc Maron asked Shearer in a 2015 interview, soon after the U.S. debut of Shearer's six-episode television series, *Nixon’s the One*.[<sup>78</sup>](/exhibits/eotp/notes#78) "Fascinated," Shearer replied. "I wouldn't say obsessed. You know, I don't dream about him."[<sup>79</sup>](/exhibits/eotp/notes#79) Shearer might well be obsessed with telephony, however, given how regularly it and devices for recording it are featured in *Le Show* sketches.
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Shearer as Richard Nixon.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png" class="big-image" alt="Shearer as Richard Nixon."/></a></td></tr>
+</table>
+
 "I grew up in Los Angeles, under the persistent blaze of the California sun and, just as persistent, the dark shadow of Richard Nixon," Shearer explained in a video describing the making of his television mini-series *Nixon’s the One*. "As my life went on, Nixon seemed always to be in it."[<sup>80</sup>](/exhibits/eotp/notes#80)  
 
 The [first "Nixon in Heaven"](https://americanarchive.org/catalog/cpb-aacip-c2b21e55f99?start=2816.75&end=3292.98) aired two and one-half years after Nixon's death in 1994. 
@@ -201,7 +206,7 @@ Shearer follows the sonic satire with "You Curse at Girls," an earnest song abou
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Title card for Harry Shearer on the show The Golden Girls." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg">
+  <img title="Cover Image" alt="Shearer as Richard Nixon." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png">
 
 ## Gallery
 
