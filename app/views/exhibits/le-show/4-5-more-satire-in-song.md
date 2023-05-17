@@ -63,7 +63,7 @@ Shearer collected some of his satiric songs on seven albums, *It Must Have Been 
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Still from a video Shearer did singing "Waterboarding USA."" src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png">
+  <img title="Cover Image" alt="Still from a video Shearer did singing Waterboarding USA." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png">
 
 ## Gallery
 
