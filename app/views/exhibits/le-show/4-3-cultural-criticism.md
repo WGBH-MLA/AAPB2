@@ -8,11 +8,6 @@
 
 ## Main
 
-<table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg" class="big-image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives."/></a></td></tr>
-</table>
-
 ### "Reading the Trades"
 
 No *Le Show* segment better illustrates Shearer's vocation for information sharing and extemporaneous language play than the long-running "Reading the Trades" segment of *Le Show*, which occurs across the entire history of *Le Show*. 
@@ -54,6 +49,11 @@ In 2011, a shorter version of the telethon, not involving Lewis, aired, and Shea
 > It's Labor Day weekend where you are, and for the first time in the memory of most people alive in the United States there's a certain void on the television screen — not the usual void, not the usual multi-channel void. I'm talking about a particular absence, a vacuum, a place where a thing used to be. And that thing was for, as I say, five decades a telethon. Now, explain to the kids: it's like a marathon except it's on television, without people running. It's just a long, long, long, long, long, long, long, long, long, long television show. There used to be a lot of them, for raising money for all sorts of ailments and conditions.[<sup>139</sup>](/exhibits/eotp/notes#139) But the lone survivor in so many ways was what became known in the 1970s as the Jerry Lewis Telethon. And it was always held on Labor Day so that, you know, the fact that the holiday was originally designed to pay tribute to the rapidly disintegrating labor movement could be ignored for another year….
 
 In 2017, after Lewis died, Shearer paraphrased a *People* magazine report that Lewis had five years earlier "emphatically cut out all six children he had with his first wife, Patty Palmer, from his will. So they'll inherit exactly zippo. Nada. Zip." A chronicler of hypocrisy in figures from every public walk of life, Shearer reserves some of his sharpest satire for the celebrity sort. In response to the report from *People*, Shearer invents, performs, and delivers a telethon for Lewis’ actual children: ["Love 17 Telethon for Jerry’s Real Kids"](https://americanarchive.org/catalog/cpb-aacip-daeb92db285?start=2093.82&end=2661.35)
+
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Shearer on the cover of *Esquire Magazine*.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Picture1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Picture1.jpg" class="big-image" alt="Shearer on the cover of *Esquire Magazine."/></a></td></tr>
+</table>
 
 ### "The Apologies of the Week"
 
@@ -143,7 +143,7 @@ Shearer's most recent sonic O. J. satire arose in the context of news about a me
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="WRVR Technician Arnold Brickman and Chief Engineer John Smith in the WRVR control room circa 1961, courtesy of The Riverside Church Archives." src="https://s3.amazonaws.com/americanarchive.org/exhibits/24.+WRVR+Technician+Arnold+Brickman+and+Chief+Engineer+John+Smitch+in+the+WRVR+control+room+circa+1961+CREDIT+The+Riverside+Church+Archives.jpg">
+  <img title="Cover Image" alt="Shearer on the cover of Esquire Magazine." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Picture1.jpg">
 
 ## Gallery
 
