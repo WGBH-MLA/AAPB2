@@ -58,7 +58,7 @@
 
 <a name="27"></a><sup>27</sup> "Harry Shearer (The Simpsons) - Live at the Edge," YouTube, https://www.youtube.com/watch?v=pElAVXioJws at 00:00:40.
 
-<a name="28"></a><sup>28</sup> "Interview with Harry Shearer," *The Jewish Chronicle*, October 10, 2008, https://www.thejc.com/culture/interviews/interview-harry-shearer-1.5481.
+<a name="28"></a><sup>28</sup> "'I speak Simpson': Interview with Harry Shearer," *The Jewish Chronicle*, October 10, 2008, p. 22.
 
 <a name="29"></a><sup>29</sup> Engineering experts from Louisiana State University and the University of California, Berkeley, led investigations analyzing the Army Corps' civil engineering around New Orleans and the greater Gulf Coast leading up to Hurricane Katrina. An Army Corps whistleblower also provided information for the documentary. "I went to the people who led these investigations. I went to a whistleblower who is inside the Corps of Engineers. I went to people who spent years and years looking at this stuff, and they are the people who tell this story." Harry Shearer, interviewed by Neal Conan, "Filmmaker Says Katrina No Natural Disaster," *Talk of the Nation*, NPR, August 26, 2010, https://www.npr.org/templates/story/story.php?storyId=129451954. 
 
@@ -86,7 +86,7 @@
 
 <a name="41"></a><sup>41</sup> Chazanov, "Variety."
 
-<a name="42"></a><sup>42</sup> Santa Monica History Museum, https://santamonica.pastperfectonline.com/photo/AE0EAC77-5851-42C3-9D10-004253704915. 
+<a name="42"></a><sup>42</sup> Santa Monica History Museum, https://santamonicahistory.catalogaccess.com/photos/15203. 
 
 <a name="43"></a><sup>43</sup> Chazanov, "Variety."
 
@@ -203,7 +203,7 @@ https://www.youtube.com/watch?v=ugfGqMpi2bE.
 
 <a name="98"></a><sup>98</sup> Robert Berkvist, "Jane Wyatt, Mother on 'Father Knows Best,' Dies at 96," *New York Times*, October 23, 2006, https://www.nytimes.com/2006/10/23/arts/23wyatt.html.
 
-<a name="99"></a><sup>99</sup> David Alexander, "Obama Revives Controversial Guantanamo Tribunals," *Reuters*, May 15, 2009, https://www.reuters.com/article/us-usa-security-guantanamo/obama-revives-controversial-guantanamo-tribunals-idUSTRE54E4S820090515. See also Connie Bruck, "Why Obama Has Failed To Close Guantanamo," *New Yorker*, July 25, 2016, https://www.newyorker.com/magazine/2016/08/01/why-obama-has-failed-to-close-Guantanamo. 
+<a name="99"></a><sup>99</sup> David Alexander, "Obama Revives Controversial Guantanamo Tribunals," *Reuters*, May 15, 2009, https://www.reuters.com/article/us-usa-security-guantanamo/obama-revives-controversial-guantanamo-tribunals-idUSTRE54E4S820090515. See also Connie Bruck, "Why Obama Has Failed To Close Guantanamo," *New Yorker*, July 25, 2016, https://www.newyorker.com/magazine/2016/08/01/why-obama-has-failed-to-close-guantanamo. 
 
 <a name="100"></a><sup>100</sup> Jeff Mason, "In Shift, Obama Accepts Corporate Funding for Inauguration," *Reuters*, December 9, 2012, https://www.reuters.com/article/us-usa-obama-inauguration/in-shift-obama-accepts-corporate-funding-for-inauguration-idUSBRE8B80HX20121209. 
 
@@ -297,7 +297,7 @@ https://www.kalw.org/show/your-call/2014-12-15/your-call-what-do-you-want-to-ask
 
 <a name="144"></a><sup>144</sup> "Watching 'The People vs. OJ Simpson'? Now Read My Coverage of the Second Trial, the One That Worked," http://amazon.com/dp/B01D5KJ444?ref_=pe_2427780_160035660,” 8:28 PM, March 22, 2016, Twitter.
 
-<a name="145"></a><sup>145</sup> Raymond Hernandez, "The Pursuit: A Spectacle Gripping and Bizarre," *New York Times*, June 18, 1994, https://timesmachine.nytimes.com/timesmachine/1994/06/18/428426.html?pageNumber=11. 
+<a name="145"></a><sup>145</sup> Raymond Hernandez, "The Pursuit: A Spectacle Gripping and Bizarre," *New York Times*, June 18, 1994, https://www.nytimes.com/1994/06/18/us/the-simpson-case-the-pursuit-a-spectacle-gripping-and-bizarre.html. 
 
 <a name="146"></a><sup>146</sup> Shearer has himself narrated *Peter and the Wolf*. Dean M. Shapiro, "Harry Shearer to Narrate 'Peter and the Wolf' at Loyola," Nola.com, June 3, 2015, 
 https://www.nola.com/entertainment_life/music/harry-shearer-to-narrate-peter-and-the-wolf-at-loyola/article_ff2af3f2-6420-5492-8a76-9b7855d84d60.html. 
