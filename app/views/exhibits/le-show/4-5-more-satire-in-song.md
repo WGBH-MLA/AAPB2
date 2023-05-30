@@ -10,9 +10,9 @@
 
 ### "Touch My Junk"
 
-Changes in the airline industry after 9/11— and problems with the Transportation Safety Administration — prompted a segment that recurred on *Le Show* for almost fifteen years, "Tales of Airport Security." [Shearer read reports from listeners](https://americanarchive.org/catalog/cpb-aacip-3eebdbbf9f1?start=1215.58&end=1513.71) over the Beatles' wordless song "Flying" from *Magical Mystery Tour*, occasionally mentioning his own experiences with airlines and the TSA.
+Changes in the airline industry after 9/11— and problems with the Transportation Security Administration — prompted a segment that recurred on *Le Show* for almost fifteen years, "Tales of Airport Security." [Shearer read reports from listeners](https://americanarchive.org/catalog/cpb-aacip-3eebdbbf9f1?start=1215.58&end=1513.71) over the Beatles' wordless song "Flying" from *Magical Mystery Tour*, occasionally mentioning his own experiences with airlines and the TSA.
 
-After nearly a decade of sharing listener reports and occasionally giving advice — "Remember, a pat down is for now, but radiation is forever" — [Shearer composed and recorded the satiric song and video "Touch My Junk."](https://americanarchive.org/catalog/cpb-aacip-94783922534?start=3175.69&end=3309.61) Comparing the first version of the song with its later iterations, including on an album and in video, yields insights into Shearer's composition, revision, and production techniques as well as differences in the effects of his satire with and without video accompaniment.
+After nearly a decade of sharing listener reports and occasionally giving advice — "Remember, a pat down is for now, but radiation is forever" — [Shearer composed and recorded the satiric song and video "Touch My Junk."](https://americanarchive.org/catalog/cpb-aacip-94783922534?start=3175.69&end=3309.61) Comparing the first version of the song with its later iterations, including on an album and in a video, yields insights into Shearer's composition, revision, and production techniques as well as differences in the effects of his satire with and without video accompaniment.
 
 video : https://harryshearer.com/media/#prettyPhoto[Videos]/22/ 
 
@@ -25,7 +25,7 @@ video : https://harryshearer.com/media/#prettyPhoto[Videos]/22/
 
 More deft rhyming combines with Shearer's insistence on keeping certain obdurate facts in public memory in the very teachable satiric song about the causes of the global financial crisis that began in the United States in 2008, "Mr. Goldman and Mr. Sachs."
 
-As Shearer explained in the setup for the sonic satire, 
+[As Shearer explained in the setup for the sonic satire](https://americanarchive.org/catalog/cpb-aacip-59a2105f8cb?start=2867.28&end=2941.14), 
 
 > So the economy is looking, well, we don't know yet…. On the plus side of the ledger, Goldman Sachs reported earnings for the second quarter of this year, what? 2? 3? 4 billion dollars, paying giant bonuses to its employees already. Again? It's business as usual, and business as usual for Goldman Sachs is pretty good. Because, let's see, the last two or three treasury secretaries have all been alumni of Goldman Sachs…. A lot of migration from Goldman Sachs to the offices of the federal government that regulate businesses like Goldman Sachs. So, as I say, business as usual has been good.
 
@@ -56,7 +56,7 @@ A lyrically and musically revised version of the song has aired several times ov
 
 ["The Losing Kind"](https://americanarchive.org/catalog/cpb-aacip-d28e2730efe?start=328.25&end=529.92)
 
-Shearer collected some of his satiric songs on seven albums, *It Must Have Been Something I Said* (1994), *O.J. On Trial: The Early Years* (1995), *It’s The Stupidity, Stupid* (1999), *Songs Pointed & Pointless* (2007), *Dropping Anchors* (2007), *Can’t Take A Hint* (2012), and *The Many Moods of Donald Trump* (2020). 
+Shearer collected some of his satiric songs on seven albums, *It Must Have Been Something I Said* (1994), *O. J. On Trial: The Early Years* (1995), *It’s The Stupidity, Stupid* (1999), *Songs Pointed & Pointless* (2007), *Dropping Anchors* (2007), *Can’t Take A Hint* (2012), and *The Many Moods of Donald Trump* (2020). 
 
 #### Next: [Acknowledgements](/exhibits/le-show/5-acknowledgements)
 
