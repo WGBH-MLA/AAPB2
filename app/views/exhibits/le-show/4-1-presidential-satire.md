@@ -165,6 +165,11 @@ Shearer, who regularly comments that *Le Show* does not have a weekly "theme," o
 
 ["Waterboardin,' USA"](https://americanarchive.org/catalog/cpb-aacip-600f49f11ea?start=1394.79&end=1682.06)
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Still from a video Shearer did singing "Waterboarding USA."</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png" class="big-image" alt="Still from a video Shearer did singing "Waterboarding USA.""/></a></td></tr>
+</table>
+
 ### Trump: "The Appresidentice"
 
 Shearer has studied Trump's character for decades, dating to his work in the 1980s as a contributing editor to *Spy* magazine.[<sup>110</sup>](/exhibits/eotp/notes#110) Trump became a regular object of satire on *Le Show* beginning in 2013, when Shearer wrote and performed "[Caveat Discipulus](https://americanarchive.org/catalog/cpb-aacip-4153dab8eff?start=1887.59&end=2199.05)" ("Let the Student Beware"), a satirical Trump University alma mater.[<sup>111</sup>](/exhibits/eotp/notes#111) 
