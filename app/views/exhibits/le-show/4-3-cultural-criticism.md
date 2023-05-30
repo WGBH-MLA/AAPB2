@@ -51,8 +51,8 @@ In 2011, a shorter version of the telethon, not involving Lewis, aired, and Shea
 In 2017, after Lewis died, Shearer paraphrased a *People* magazine report that Lewis had five years earlier "emphatically cut out all six children he had with his first wife, Patty Palmer, from his will. So they'll inherit exactly zippo. Nada. Zip." A chronicler of hypocrisy in figures from every public walk of life, Shearer reserves some of his sharpest satire for the celebrity sort. In response to the report from *People*, Shearer invents, performs, and delivers a telethon for Lewis’ actual children: ["Love 17 Telethon for Jerry’s Real Kids"](https://americanarchive.org/catalog/cpb-aacip-daeb92db285?start=2093.82&end=2661.35)
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Shearer on the cover of *Esquire Magazine*.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Picture1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Picture1.jpg" class="big-image" alt="Shearer on the cover of *Esquire Magazine."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption"></caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap23.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap23.png" class="big-image" alt="Shearer sat in a director's chair."/></a></td></tr>
 </table>
 
 ### "The Apologies of the Week"
@@ -143,7 +143,7 @@ Shearer's most recent sonic O. J. satire arose in the context of news about a me
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Shearer on the cover of Esquire Magazine." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Picture1.jpg">
+  <img title="Cover Image" alt="Shearer sat on a director's chair." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap23.png">
 
 ## Gallery
 
