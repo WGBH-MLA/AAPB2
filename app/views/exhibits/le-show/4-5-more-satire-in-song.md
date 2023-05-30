@@ -63,7 +63,7 @@ Shearer collected some of his satiric songs on seven albums, *It Must Have Been 
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Shearer in a still for the music video for "Touch My Junk"." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap19.png">
+  <img title="Cover Image" alt="Shearer in a still for the music video for "Touch My Junk". src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap19.png">
 
 ## Gallery
 
