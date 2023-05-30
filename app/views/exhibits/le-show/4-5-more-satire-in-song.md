@@ -16,6 +16,11 @@ After nearly a decade of sharing listener reports and occasionally giving advice
 
 video : https://harryshearer.com/media/#prettyPhoto[Videos]/22/ 
 
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Shearer in a still for the music video for "Touch My Junk".</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap19.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap19.png" class="big-image" alt="Still from a music video for "Touch My Junk"."/></a></td></tr>
+</table>
+
 ### "Mr. Goldman and Mr. Sachs"
 
 More deft rhyming combines with Shearer's insistence on keeping certain obdurate facts in public memory in the very teachable satiric song about the causes of the global financial crisis that began in the United States in 2008, "Mr. Goldman and Mr. Sachs."
@@ -34,11 +39,6 @@ First airing [here](https://americanarchive.org/catalog/cpb-aacip-59a2105f8cb?st
 
 "Mr. Goldman and Mr. Sachs"
 Revised version [here](https://americanarchive.org/catalog/cpb-aacip-1f1a6ef4d4e?start=2539.54&end=2948).
-
-<table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Still from a video Shearer did singing "Waterboarding USA."</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png" class="big-image" alt="Still from a video Shearer did singing "Waterboarding USA.""/></a></td></tr>
-</table>
 
 ### "The Losing Side" / "The Losing Kind"
 
@@ -63,7 +63,7 @@ Shearer collected some of his satiric songs on seven albums, *It Must Have Been 
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Still from a video Shearer did singing Waterboarding USA." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png">
+  <img title="Cover Image" alt="Shearer in a still for the music video for "Touch My Junk"." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap19.png">
 
 ## Gallery
 
