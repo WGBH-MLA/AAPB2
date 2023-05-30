@@ -12,7 +12,7 @@ In 1983, Shearer prototyped the program that became *Le Show* on KMET in Los Ang
 
 Unchained from the limitations of commercial radio, Santa Monica’s KCRW, the call letters an acronym for College Radio Workshop, provided the perfect public radio home for Shearer and *Le Show* for more than three decades. While commercial and some public radio stations embraced niche marketing in the 1980s, KCRW's cultural programming included jazz, classical, pop, folk, and avant-garde music as well as poetry.
 
-"Soviet poet Yevgeny Yevtushenko gave a live reading on his recent visit to Southern California," Mathis Chavanov wrote in an October 1985 feature on KCRW in the Los Angeles Times. "There also is African music, a garden show, early jazz, a food show, medieval and Renaissance music, a holistic medicine show, comedy, Duke Ellington's music[,] and drama ranging from the adventures of British detectives Paul Temple and Lord Peter Wimsey to the broodings of Joe Frank, a Washington, D.C.-based writer and Kafka freak."[<sup>39</sup>](/exhibits/le-show/notes#39)  
+"Soviet poet Yevgeny Yevtushenko gave a live reading on his recent visit to Southern California," Mathis Chavanov wrote in an October 1985 feature on KCRW in the *Los Angeles Times*. "There also is African music, a garden show, early jazz, a food show, medieval and Renaissance music, a holistic medicine show, comedy, Duke Ellington's music[,] and drama ranging from the adventures of British detectives Paul Temple and Lord Peter Wimsey to the broodings of Joe Frank, a Washington, D.C.-based writer and Kafka freak."[<sup>39</sup>](/exhibits/le-show/notes#39)  
 
 Longtime "iron-willed"[<sup>40</sup>](/exhibits/le-show/notes#40) KCRW station manager Ruth (Hirschman) Seymour told the *Los Angeles Times* that what the station was doing in the mid-1980s was "very risky. We're going against every rule of commercial radio." Seymour added that KCRW "always program(s) for one person.... [who] had better be at least as bright as you are and probably smarter."[<sup>41</sup>](/exhibits/le-show/notes#41) 
 
@@ -43,7 +43,7 @@ Shearer's return to KCRW made headlines.
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption"></caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2_cut.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2_cut.jpg" class="big-image" alt="Promo image featuring Harry Shearer."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" class="big-image" alt="Promo image for KCRW featuring Harry Shearer."/></a></td></tr>
 </table>
 
 "The ex-'*Saturday Night Live*' writer/performer returned to KCRW and his creative roots over the weekend. His new hour comedy show … features something that KCRW manager [Ruth Seymour] describes as 'essentially serious' topical humor."[<sup>51</sup>](/exhibits/le-show/notes#51) 
