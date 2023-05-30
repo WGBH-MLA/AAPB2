@@ -15,8 +15,8 @@ Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The L
 "Are you obsessed with Nixon?" Marc Maron asked Shearer in a 2015 interview, soon after the U.S. debut of Shearer's six-episode television series, *Nixon’s the One*.[<sup>78</sup>](/exhibits/eotp/notes#78) "Fascinated," Shearer replied. "I wouldn't say obsessed. You know, I don't dream about him."[<sup>79</sup>](/exhibits/eotp/notes#79) Shearer might well be obsessed with telephony, however, given how regularly it and devices for recording it are featured in *Le Show* sketches.
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Shearer as Richard Nixon.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png" class="big-image" alt="Shearer as Richard Nixon."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Shearer in *Nixon’s the One*, https://harryshearer.com/projects/nixons-the-one/.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png" class="big-image" alt="Shearer in *Nixon's the One*."/></a></td></tr>
 </table>
 
 "I grew up in Los Angeles, under the persistent blaze of the California sun and, just as persistent, the dark shadow of Richard Nixon," Shearer explained in a video describing the making of his television mini-series *Nixon’s the One*. "As my life went on, Nixon seemed always to be in it."[<sup>80</sup>](/exhibits/eotp/notes#80)  
@@ -86,11 +86,11 @@ Impeachment-related[<sup>90</sup>](/exhibits/eotp/notes#90) "Clintonsomething" h
 
 ["Acquittal"](https://americanarchive.org/catalog/cpb-aacip-a0e23dbd040?start=2355.95&end=2755.97)
 
-"Clintonsomething: The State Department Years"
-[The segment opens](https://americanarchive.org/catalog/cpb-aacip-94783922534?start=2430.88&end=2827.63) onto a scene of the Clintons meeting for a conversation, with Shearer's masterful Bill Clinton ethopoiesis: "Thanks for making time, Toots – I mean, Madam Secretary." 
+["Clintonsomething: The State Department Years"](https://americanarchive.org/catalog/cpb-aacip-94783922534?start=2430.88&end=2827.63)
+The segment opens onto a scene of the Clintons meeting for a conversation, with Shearer's masterful Bill Clinton ethopoiesis: "Thanks for making time, Toots – I mean, Madam Secretary." 
 
-"Clintonsomething: The Wilderness Years"
-[This segment ends](https://americanarchive.org/catalog/cpb-aacip-03b0e3675df?start=1632.67&end=2097.23) with Shearer's Bill Clinton in a reflective mode: "Wow. Well, sir. This is a day I need to remember for my next memoir…. This is a true pivot point. After all this time, this may be the day I stop thinking about tomorrow."[<sup>91</sup>](/exhibits/eotp/notes#91) 
+["Clintonsomething: The Wilderness Years"](https://americanarchive.org/catalog/cpb-aacip-03b0e3675df?start=1632.67&end=2097.23)
+This segment ends with Shearer's Bill Clinton in a reflective mode: "Wow. Well, sir. This is a day I need to remember for my next memoir…. This is a true pivot point. After all this time, this may be the day I stop thinking about tomorrow."[<sup>91</sup>](/exhibits/eotp/notes#91) 
 
 ### George W. Bush: "41 Calls 43" and "Dick Cheney Confidential"
 
@@ -102,7 +102,7 @@ The first episode of "41 Calls 43" aired on March 11, 2001, just two months into
 The younger Bush's Secret Service code name is [among the recurring gags in "41 Calls 43"](https://americanarchive.org/catalog/cpb-aacip-17e858f19d2?start=6512.11&end=6852.46).
 
 "41 Calls 43: Vacations" 
-How much time the younger Bush spent vacationing at his Texas ranch became a public concern after 9/11[<sup>92</sup>](/exhibits/eotp/notes#92) and thus a recurring topic for satire on *Le Show*. [In the setup to this segment](https://americanarchive.org/catalog/cpb-aacip-fd9f8701ed5?start=2656.74&end=3024.77), Shearer reports that the question of how much the president actually works on his "working vacations" at the ranch has attracted criticism from within even the president's own party. This time the younger Bush answers in the code name "Brush-clearing Eagle."
+How much time the younger Bush spent vacationing at his Texas ranch became a public concern after 9/11[<sup>92</sup>](/exhibits/eotp/notes#92) and thus a recurring topic for satire on *Le Show*. In the setup to [this segment](https://americanarchive.org/catalog/cpb-aacip-fd9f8701ed5?start=2656.74&end=3024.77), Shearer reports that the question of how much the president actually works on his "working vacations" at the ranch has attracted criticism from within even the president's own party. This time the younger Bush answers in the code name "Brush-clearing Eagle."
 
 "41 Calls 43: Can I Paint You?"
 Another stunning example of Shearer's topical comedy and sonic satire, Shearer here extemporaneously sets up another father-son phone conversation with a news item from the previous week about each former president: 
@@ -135,7 +135,7 @@ Two-plus years into the Obama administration, the current president calls the fo
 
 ### ["Boom"](https://americanarchive.org/catalog/cpb-aacip-0aba89fbde1?start=1960.2&end=2090.41)
 
-Soon after the 2010 BP Deepwater Horizon oil spill in the Gulf of Mexico, Shearer created "Boom" from audio of a [news conference by President Barack Obama](https://www.youtube.com/watch?v=2rT7IANtSjo).[<sup>102</sup>](/exhibits/eotp/notes#102) On *Le Show*, Shearer set up this piece of sonic satire with his "News of Inspectors General" segment, reading a report on an investigation into the oil drilling industry that discovered "a culture of lax oversight and cozy ties to industry" during both the Bush and the Obama administrations.[<sup>103</sup>](/exhibits/eotp/notes#103)  
+Soon after the 2010 BP Deepwater Horizon oil spill in the Gulf of Mexico, Shearer created "Boom" from audio of a [news conference by President Obama](https://www.youtube.com/watch?v=2rT7IANtSjo).[<sup>102</sup>](/exhibits/eotp/notes#102) On *Le Show*, Shearer sets up this piece of sonic satire with his "News of Inspectors General" segment, reading a report on an investigation into the oil drilling industry that discovered "a culture of lax oversight and cozy ties to industry" during both the Bush and the Obama administrations.[<sup>103</sup>](/exhibits/eotp/notes#103)  
 
 Shearer then plays audio of a drilling expert explaining "oil spill booming school" and how boom, temporary floating barriers used to attempt to contain oil spills, is supposed to work. The informed rage of the speaker — a good number of words had to be bleeped to prevent FCC fines — contrasts with the sonic satire that follows, exemplifying again the contrast between comedy and gravity in Shearer's work. 
 
@@ -172,7 +172,7 @@ Shearer, who regularly comments that *Le Show* does not have a weekly "theme," o
 
 ### Trump: "The Appresidentice"
 
-Shearer has studied Trump's character for decades, dating to his work in the 1980s as a contributing editor to *Spy* magazine.[<sup>110</sup>](/exhibits/eotp/notes#110) Trump became a regular object of satire on *Le Show* beginning in 2013, when Shearer wrote and performed "[Caveat Discipulus](https://americanarchive.org/catalog/cpb-aacip-4153dab8eff?start=1887.59&end=2199.05)" ("Let the Student Beware"), a satirical Trump University alma mater.[<sup>111</sup>](/exhibits/eotp/notes#111) 
+Shearer has studied Donald Trump's character for decades, dating to his work in the 1980s as a contributing editor to *Spy* magazine.[<sup>110</sup>](/exhibits/eotp/notes#110) Trump became a regular object of satire on *Le Show* beginning in 2013, when Shearer wrote and performed "[Caveat Discipulus](https://americanarchive.org/catalog/cpb-aacip-4153dab8eff?start=1887.59&end=2199.05)" ("Let the Student Beware"), a satirical Trump University alma mater.[<sup>111</sup>](/exhibits/eotp/notes#111) 
 
 Shearer's imagined version of the November 10, 2016, Oval Office transition meeting between just-elected President Trump and his predecessor, President Barack Obama, produced with hyperreal VR developers John MacInnes and Remington Scott, was released just three days after the election as a teaser for a television series Shearer hoped to develop.[<sup>112</sup>](/exhibits/eotp/notes#112) 
 
