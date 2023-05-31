@@ -14,7 +14,7 @@ While *Le Show*, too, grew up in Southern California — Santa Monica,[<sup>11</
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption"></caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife1.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife1.png" class="big-image" alt="Shearer as a child in front of an NBC microphone."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife1_updated.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife1_updated.png" class="big-image" alt="Shearer as a child in front of an NBC microphone."/></a></td></tr>
 </table>
 
 Shearer's radio work began when he was seven years old, on the [*Jack Benny Program*](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/JackBennyProgram.pdf).[<sup>13</sup>](/exhibits/le-show/notes#13) "I started in show business at the top, and I've been working my way down ever since," Shearer quipped in a [2016 interview](https://www.youtube.com/watch?v=jC_2tl7XhhQ). 
@@ -68,7 +68,7 @@ This exhibit offers a brief historical overview of *Le Show* from analog to digi
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Shearer as a child in front of an NBC microphone." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife1.png">
+  <img title="Cover Image" alt="Shearer as a child in front of an NBC microphone." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife1_updated.png">
 
 ## Gallery
 
