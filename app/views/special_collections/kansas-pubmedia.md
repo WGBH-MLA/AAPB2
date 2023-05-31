@@ -21,7 +21,7 @@ The collection includes items from stations across Kansas, including KMUW NPR fo
 [![Women of Wichita](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-fe0c289f2c8)
 [![Wichita Mayor](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-ed83aab3ec7_spec.jpg)](/catalog/cpb-aacip-ed83aab3ec7)
 [![Nancy Finken](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-1dbe84e44f9)
-[![Hispanic Experience](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-675a7aad5ed)
+[![Hispanic Experience](https://sr3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.jpg)](/catalog/cpb-aacip-675a7aad5ed)
 
 ## Resources
 
@@ -44,6 +44,8 @@ The collection includes items from stations across Kansas, including KMUW NPR fo
 Records are described at an item level and all records contain brief descriptions. 
 
 ## Terms
+
+## Timeline
 
 ## Sort
 
