@@ -27,8 +27,7 @@ Other environmental segments that Shearer has presented on *Le Show* over the de
 
 ["Dominion"](https://americanarchive.org/catalog/cpb-aacip-e7947c92944?start=1673.14&end=2071.59)
 
-["News of Microplastics"](https://americanarchive.org/catalog/cpb-aacip-f4b07301409?start=990.22&end=1384.67)
-The bumper music introduction to which displays Shearer's talent for sampling and remixing. Here he overdubs dialogue from the soundtrack of the 1967 *film The Graduate* to include the line, "I want to say just one word to you, just one word … microplastics," before concluding with music from Paul Simon and Art Garfunkel's song "Mrs. Robinson" as a sonic bed for reading the news.
+["News of Microplastics"](https://americanarchive.org/catalog/cpb-aacip-f4b07301409?start=990.22&end=1384.67), the bumper music introduction to which displays Shearer's talent for sampling and remixing. Here he overdubs dialogue from the soundtrack of the 1967 *film The Graduate* to include the line, "I want to say just one word to you, just one word … microplastics," before concluding with music from Paul Simon and Art Garfunkel's song "Mrs. Robinson" as a sonic bed for reading the news.
 
 #### Next: [More Satire in Song](/exhibits/le-show/4-5-more-satire-in-song)
 
