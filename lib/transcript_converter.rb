@@ -1,9 +1,8 @@
 require 'nokogiri'
 require_relative 'transcript_viewer_helper'
 
-# 
 LEFT = 0
-RIGHT= 1
+RIGHT = 1
 
 class TranscriptConverter
   extend TranscriptViewerHelper
@@ -56,11 +55,11 @@ class TranscriptConverter
   end
 end
 
-def find_nearest_chunk_index_by_time(time, parts, direction=LEFT)
+def find_nearest_chunk_index_by_time(time, parts, direction = LEFT)
   if direction == LEFT
     parts.each_with_index.inject(0) do |closest_part_index, (this_part, i)|
       # this_part is less than the specified start time, and this_part's start_time is closer to spectime than previous closest (memo)
-      this_part["start_time"].to_f < time && new_part_closer?(time, parts[closest_part_index]["end_time"].to_f, this_part["end_time"].to_f) ? i : closest_part_index 
+      this_part["start_time"].to_f < time && new_part_closer?(time, parts[closest_part_index]["end_time"].to_f, this_part["end_time"].to_f) ? i : closest_part_index
     end
   else
     parts.each_with_index.inject(0) do |closest_part_index, (this_part, i)|
@@ -70,5 +69,5 @@ def find_nearest_chunk_index_by_time(time, parts, direction=LEFT)
 end
 
 def new_part_closer?(specified_time, closest_part_time, this_part_time)
-  ( this_part_time - specified_time ).abs < ( closest_part_time - specified_time ).abs
+  (this_part_time - specified_time).abs < (closest_part_time - specified_time).abs
 end
