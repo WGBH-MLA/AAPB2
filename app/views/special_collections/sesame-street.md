@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>Sesame Street</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/INFLECT_new_avatar_green+1400_72.jpg "Sesame Street")
+![<em>Sesame Street</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/Season_12_Cast_Photo_Baum.jpg "Sesame Street")
 
 ## Summary
 
