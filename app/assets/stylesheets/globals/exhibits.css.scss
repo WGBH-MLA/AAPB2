@@ -57,9 +57,20 @@ table.exhibit-image.small-image img {
   max-height: 20em;
 }
 
+table.exhibit-image.center-image {
+  max-width: 36%;
+  margin-left: 36% !important;
+  max-height: 20em;
+}
+
+table.exhibit-image.center-image img {
+  max-height: 20em;
+}
+
 table.exhibit-image.med-image {
   max-width: 36%;
-  margin: 0 0 0 1.5em;
+  margin-left: 10%;
+  margin-left: 10%;
   max-height: 20em;
 }
 
