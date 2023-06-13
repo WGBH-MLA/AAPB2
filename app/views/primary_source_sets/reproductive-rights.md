@@ -16,7 +16,7 @@ Catherine Sardo Weidner, Lake Forest College
 - Conservative Resurgence and Social Change, 1964-2000: Conservative Social Trends
 - America into the 21st Century, 2001-Present: Politics
 
-## Introduction & Context
+## Introduction
 
 Reproductive rights, or the rights of individuals to control and make decisions related to reproduction and childbearing, especially contraception and abortion, have been contested in the United States since the mid-19th century. Before 1840, abortion was a widespread procedure for many American women and one that was legal before “quickening” or the time when women could feel the movement of the fetus. By 1910, however, abortion was illegal in all states even though most allowed for therapeutic exceptions when the mother’s life was in danger. This exception gave physicians extraordinary power to perform abortions at their own discretion, while also creating a large market for illegal abortions.
 
