@@ -68,7 +68,7 @@ Is the right to control and make decisions related to contraception and childbea
 1) Ask students to watch or listen to the following sources:
 
 - [he History and Legal Arguments behind Roe v. Wade (2019)](https://americanarchive.org/primary_source_sets/reproductive-rights/2-6a6e525d19a)
-- [Teenage Abortion and the Right to Privacy (1979)](https://americanarchive.org/primary_source_sets/reproductive-rights/4-507-np1wd3qs3r) (1976)
+- [Teenage Abortion and the Right to Privacy (1979)](https://americanarchive.org/primary_source_sets/reproductive-rights/4-507-np1wd3qs3r)
 - [The Supreme Court and the US Senate Race in Missouri (2018)](https://americanarchive.org/primary_source_sets/reproductive-rights/8-525-rn3028qn9g)
 - [The Supreme Court Considers Overturning Roe v. Wade (2021)](https://americanarchive.org/primary_source_sets/reproductive-rights/9-bb394816d73)
 
