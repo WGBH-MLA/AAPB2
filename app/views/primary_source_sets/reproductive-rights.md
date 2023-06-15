@@ -66,10 +66,10 @@ Is the right to control and make decisions related to contraception and childbea
 
 1) Ask students to watch or listen to the following sources:
 
-- [The History and Legal Arguments behind Roe v. Wade (2019)](https://americanarchive.org/primary_source_sets/reproductive-rights/2-6a6e525d19a)
-- [Teenage Abortion and the Right to Privacy (1979)](https://americanarchive.org/primary_source_sets/reproductive-rights/4-507-np1wd3qs3r) (1976)
-- [The Supreme Court and the US Senate Race in Missouri (2018)](https://americanarchive.org/primary_source_sets/reproductive-rights/8-525-rn3028qn9g)
-- [The Supreme Court Considers Overturning Roe v. Wade (2021)](https://americanarchive.org/primary_source_sets/reproductive-rights/9-bb394816d73)
+- [The History and Legal Arguments behind Roe v. Wade (2019)](/2-6a6e525d19a)
+- [Teenage Abortion and the Right to Privacy (1979)](/4-507-np1wd3qs3r) (1976)
+- [The Supreme Court and the US Senate Race in Missouri (2018)](/8-525-rn3028qn9g)
+- [The Supreme Court Considers Overturning Roe v. Wade (2021)](/9-bb394816d73)
 
 Lead a class discussion, asking students:
 What were the key arguments underpinning the Supreme Court’s decision in _Roe v. Wade_?   
@@ -93,16 +93,16 @@ Ask students to research one of the many reproductive rights cases (see link in 
 Ask students to watch the following sources:
 
 
-- [The National Abortion Rights Action League (NARAL) Mobilizes (1985)](https://americanarchive.org/primary_source_sets/reproductive-rights/5-507-ff3kw5850t)
-- [The Tactics of Operation Rescue (1989)](https://americanarchive.org/primary_source_sets/reproductive-rights/6-507-pc2t43js51)
-- [The Supreme Court and the US Senate Race in Missouri (2018)](https://americanarchive.org/primary_source_sets/reproductive-rights/8-525-rn3028qn9g)
+- [The National Abortion Rights Action League (NARAL) Mobilizes (1985)](/5-507-ff3kw5850t)
+- [The Tactics of Operation Rescue (1989)](/6-507-pc2t43js51)
+- [The Supreme Court and the US Senate Race in Missouri (2018)](/8-525-rn3028qn9g)
 
 Lead a class discussion, asking students:
 Both NARAL and Operation Rescue supporters refer to “rights” when interviewed or addressing the public. To whose rights are they referring, and why do you think they framed their arguments in this manner?
 
 How did the tactics of the two organizations differ, and which, in your view,  were more effective?
 
-The American women’s suffrage movement mobilized both men and women in an effort to persuade men to ratify the 19th amendment, which granted women the right to vote. What role do you see men playing in the pro-choice and pro-life movements, and what explanation do you have for their presence or absence?
+The American women’s suffrage movement mobilized both men and women in an effort to persuade men to ratify the 19th Amendment, which granted women the right to vote. What role do you see men playing in the pro-choice and pro-life movements, and what explanation do you have for their presence or absence?
 
 
 3) Inequity in Abortion Access: Before, During and After Roe
@@ -110,11 +110,9 @@ The American women’s suffrage movement mobilized both men and women in an effo
 Ask students to watch or listen to the following sources:
 
 
-- [Hospital Review Committees Before Roe v. Wade (1969)](https://americanarchive.org/primary_source_sets/reproductive-rights/1-153-988gtx44)
-- [Restricting Public Funds for Abortion (1977)](https://americanarchive.org/primary_source_sets/reproductive-rights/3-507-tq5r786j1v)
-- [The FDA Approves the Abortion Pill (2000)](https://americanarchive.org/primary_source_sets/reproductive-rights/7-507-0z70v8b371)
-- [Physicians Consider the Post-Roe Landscape (2022)](https://americanarchive.org/primary_source_sets/reproductive-rights/brokenbroken)
-
+- [Hospital Review Committees Before Roe v. Wade (1969)](/1-153-988gtx44)
+- [Restricting Public Funds for Abortion (1977)](/3-507-tq5r786j1v)
+- [The FDA Approves the Abortion Pill (2000)](/7-507-0z70v8b371)
 
 Lead a class discussion, asking students:
 What impact did one’s race, ethnicity, or socio-economic status have upon obtaining access to a safe, legal abortion both before and after Roe v. Wade?
