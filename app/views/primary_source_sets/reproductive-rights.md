@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Screenshot from https://americanarchive.org/catalog/cpb-aacip_15-92n4zh7k.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Boston-Busing.jpg "Screenshot from https://americanarchive.org/catalog/cpb-aacip_15-92n4zh7k.")
+![Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/reprodcutive-rights-main.jpg "Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Boston-Busing.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Reproductive-Rights.jpg
 
 ## Author
 
@@ -27,7 +27,6 @@ The modern pro-life (anti-abortion) movement, initially centered in the Catholic
 
 ## Teachingtips
 
-*Introduction*
 This set, composed of both audio and video clips, documents the evolution of the reproductive rights landscape from the late 1960s to the present. Arranged chronologically, the sources ask students to examine the impact of hospital review committees, Supreme Court decisions, and restrictive abortion laws on the lives of individuals across class and political spectrums. Firsthand accounts from pro-choice and pro-life activists round out the collection.
 
 
@@ -67,8 +66,8 @@ Is the right to control and make decisions related to contraception and childbea
 
 1) Ask students to watch or listen to the following sources:
 
-- [he History and Legal Arguments behind Roe v. Wade (2019)](https://americanarchive.org/primary_source_sets/reproductive-rights/2-6a6e525d19a)
-- [Teenage Abortion and the Right to Privacy (1979)](https://americanarchive.org/primary_source_sets/reproductive-rights/4-507-np1wd3qs3r)
+- [The History and Legal Arguments behind Roe v. Wade (2019)](https://americanarchive.org/primary_source_sets/reproductive-rights/2-6a6e525d19a)
+- [Teenage Abortion and the Right to Privacy (1979)](https://americanarchive.org/primary_source_sets/reproductive-rights/4-507-np1wd3qs3r) (1976)
 - [The Supreme Court and the US Senate Race in Missouri (2018)](https://americanarchive.org/primary_source_sets/reproductive-rights/8-525-rn3028qn9g)
 - [The Supreme Court Considers Overturning Roe v. Wade (2021)](https://americanarchive.org/primary_source_sets/reproductive-rights/9-bb394816d73)
 
@@ -135,7 +134,7 @@ Screen the documentary _The Janes_ (see link in Additional Resources) for studen
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_reproductive-rights_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Reproductive-Rights-Teaching-Tips.docx.pdf
 
 ## Additionalresources
 
