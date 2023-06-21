@@ -2,6 +2,12 @@
 window.onunload = function(){};
 $(function() {
 
+  var contrib = $("#contributing_organization").text
+  window.dataLayer.push({
+    "event" : "contributing_organization",
+    "value" : contrib
+  })
+
   $slider_positions = [];
   $current_handle = null;
 

@@ -141,6 +141,10 @@
       </dl>
     <% end %>
 
+    <div style="display: none;" id="contributing-organization">
+      <%= @pbcore.contributing_organization %>
+    </div>
+
     <% @pbcore.titles.each do |type,title| %>
       <dl>
         <dt><%= type %></dt>
