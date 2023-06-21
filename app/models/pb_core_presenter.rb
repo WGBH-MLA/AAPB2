@@ -236,7 +236,7 @@ class PBCorePresenter
   end
   def contributing_organization
     @contributing_organization ||= xpath('/*/pbcoreAnnotation[@annotationType="organization"]')
-  end  
+  end
   def contributing_organization_names
     @contributing_organization_names ||= Organization.clean_organization_names(xpaths('/*/pbcoreInstantiation/instantiationAnnotation[@annotationType="organization"]').uniq)
   end
