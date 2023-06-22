@@ -16,7 +16,7 @@ After nearly a decade of sharing listener reports and occasionally giving advice
 
 video : https://harryshearer.com/media/#prettyPhoto[Videos]/22/ 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image med-image right">
 <caption align="bottom" class="exhibit-caption">Shearer in a still for the music video for "Touch My Junk".</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap19.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap19.png" class="big-image" alt="Still from a music video for "Touch My Junk"."/></a></td></tr>
 </table>
