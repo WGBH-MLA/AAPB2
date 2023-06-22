@@ -59,7 +59,7 @@ Shearer invented the "Believia" spot to follow a news item about the federal gov
 
 Shearer's satiric commentary on the arguably unhealthy amount of pharmaceutical marketing on U.S. television, "Believia" touts the faux pharmaceutical Shearer rhetorically formulated for "age-related skeptocemia, a chronic inability to absorb and believe messages about products that might be helpful." The spot ends with a riff on the usual small-print warnings about side-effects, again with a satiric twist: "Do not use or handle Believia if you are operating machinery, becoming pregnant, or operating pregnancy machinery. Common side effects include headache, dizziness, memory loss, temporary night-blindness, and chronic gullibility. Ask your doctor if Believia is right for you. And believe him."
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image med-image right">
 <caption align="bottom" class="exhibit-caption">Shearer at KCRW.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-kcrw.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-kcrw.jpg" class="big-image" alt="Shearer at KCRW."/></a></td></tr>
 </table>
