@@ -62,7 +62,7 @@ The [final episode of "Presidential Memoirs"](https://americanarchive.org/catalo
 
 Shearer also voiced George H. W. Bush on "The Simpsons" ("Two Bad Neighbors," 1996) and "Golden Girls" ("The President's Coming," 1990).
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image med-image right">
 <caption align="bottom" class="exhibit-caption"></caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" class="big-image" alt="Title card for Harry Shearer on the show The Golden Girls."/></a></td></tr>
 </table>
@@ -165,7 +165,7 @@ Shearer, who regularly comments that *Le Show* does not have a weekly "theme," o
 
 ["Waterboardin,' USA"](https://americanarchive.org/catalog/cpb-aacip-600f49f11ea?start=1394.79&end=1682.06)
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image med-image left">
 <caption align="bottom" class="exhibit-caption">Still from a video Shearer did singing "Waterboarding USA."</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png" class="big-image" alt="Still from a video Shearer did singing "Waterboarding USA.""/></a></td></tr>
 </table>
