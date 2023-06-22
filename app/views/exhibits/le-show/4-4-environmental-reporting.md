@@ -8,7 +8,7 @@
 
 ## Main
 
-<table class="exhibit-image center-image left">
+<table class="exhibit-image med-image left">
 <caption align="bottom" class="exhibit-caption">Shearer in WWNO studio, May 22, 2022. From footage by Matt Mindlin.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap5.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap5.png" alt="Shearer in WWNO studio, May 22, 2022. From footage by Matt Mindlin."/></a></td></tr>
 </table>
