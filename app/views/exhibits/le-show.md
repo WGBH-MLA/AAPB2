@@ -1,4 +1,4 @@
-# *Harry Shearer’s* Le Show*: Sonic Portal to News, Satire, Memory, History*
+# *Harry Shearer’s* Le Show*:* *Sonic Portal to News, Satire, Memory, History*
 
 1
 
