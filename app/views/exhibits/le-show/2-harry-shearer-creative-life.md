@@ -58,7 +58,7 @@ The consequences of Shearer’s sonic satire remain, as ever, up to his listener
 
 This exhibit offers a brief historical overview of *Le Show* from analog to digital and then showcases examples of Shearer's sonic satire and information-sharing on *Le Show* over the decades in “A *Le Show* Sampler.”
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image med-image left">
 <caption align="bottom" class="exhibit-caption"></caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife3.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-creativelife3.png" class="big-image" alt="Harry Shearer in the studio."/></a></td></tr>
 </table>
