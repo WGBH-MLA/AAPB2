@@ -22,7 +22,7 @@ Among KCRW's highest-profile original programming was *Le Show*, which, Shearer 
 
 The early years of *Le Show* are braided among the respective satisfactions and disappointments of two other of Shearer's major projects, the genre-inventing mockumentary *This Is Spinal Tap* and Shearer's second stint on *Saturday Night Live*. 
 
-"I joined [*SNL*] at the time when unprofessionalism had become the professional choice," Shearer told the *Los Angeles Times* in 1987. "You were looked down on for showing up on time and knowing your lines. *Spinal Tap* had been a kind of succès d'estime for me. A lot of assurances were made. A lot of them were violated. I was told they wanted me to do political and topical material for the show, but virtually everything I wrote was killed. Eventually, you begin spending your time worrying why things don't get on instead of being creative. You're in a classic underling position."[<sup>46</sup>](/exhibits/le-show/notes#46) 
+"I joined [*SNL*] at the time when unprofessionalism had become the professional choice," Shearer told the *Los Angeles Times* in 1987. "You were looked down on for showing up on time and knowing your lines. *Spinal Tap* had been a kind of *succès d'estime* for me. A lot of assurances were made. A lot of them were violated. I was told they wanted me to do political and topical material for the show, but virtually everything I wrote was killed. Eventually, you begin spending your time worrying why things don't get on instead of being creative. You're in a classic underling position."[<sup>46</sup>](/exhibits/le-show/notes#46) 
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption"></caption>
