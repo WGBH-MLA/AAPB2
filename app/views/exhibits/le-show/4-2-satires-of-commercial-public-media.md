@@ -61,7 +61,7 @@ Shearer's satiric commentary on the arguably unhealthy amount of pharmaceutical 
 
 <table class="exhibit-image med-image right">
 <caption align="bottom" class="exhibit-caption">Shearer at KCRW.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-kcrw.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-kcrw.jpg" class="big-image" alt="Shearer at KCRW."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg" class="big-image" alt="Shearer at KCRW."/></a></td></tr>
 </table>
 
 ### CPR: Continental Public Radio
@@ -115,7 +115,7 @@ Other recurring segments concerning U.S. wars in Iraq and Afghanistan included "
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Shearer at KCRW." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-kcrw.jpg">
+  <img title="Cover Image" alt="Shearer at KCRW." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg">
 
 ## Gallery
 
