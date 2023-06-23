@@ -97,7 +97,7 @@ The arrangement with KCSN lasted a little more than a year. But *Le Show* remain
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Promo image featuring Harry Shearer." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2_cut.jpg">
+  <img title="Cover Image" alt="Harry Shearer at the CD Library." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ShearerHarryCDlibrary.jpg">
 
 ## Gallery
 
