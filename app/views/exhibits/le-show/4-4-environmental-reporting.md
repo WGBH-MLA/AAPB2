@@ -9,8 +9,8 @@
 ## Main
 
 <table class="exhibit-image med-image left">
-<caption align="bottom" class="exhibit-caption">Shearer in WWNO studio, May 22, 2022. From footage by Matt Mindlin.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap5.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap5.png" alt="Shearer in WWNO studio, May 22, 2022. From footage by Matt Mindlin."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Shearer at a podium. Phograph by Matt Mindlin.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8038.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8038.jpg" alt="Shearer at a podium. Photograph by Matt Mindlin."/></a></td></tr>
 </table>
 
 ### "Let Us Try" News of the U.S. Army Corps of Engineers
@@ -34,7 +34,7 @@ Other environmental segments that Shearer has presented on *Le Show* over the de
 ## Resources
 
 ## Cover
- <img title="Cover Image" alt="Shearer in WWNO studio, May 22, 2022. From footage by Matt Mindlin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap5.png">
+ <img title="Cover Image" alt="Shearer at a podium. Photograph by Matt Mindlin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8038.jpg">
 
 ## Gallery
 
