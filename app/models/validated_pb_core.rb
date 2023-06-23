@@ -10,7 +10,9 @@ class ValidatedPBCore < PBCorePresenter
     :to_solr, :transcript_content, :transcript_html, :exhibits,
     :constructed_transcript_src, :verify_transcript_src,
     :canonical_url, :original_id, :top_exhibits, :seconds, :duration,
-    :outside_baseurl
+    :outside_baseurl,
+    # not included in fixtures because not required, so dont validate v
+    :contributing_organization
   ]
 
   def initialize(xml)
