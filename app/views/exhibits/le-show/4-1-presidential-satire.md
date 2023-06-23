@@ -16,7 +16,7 @@ Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The L
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Shearer in *Nixon’s the One*, https://harryshearer.com/projects/nixons-the-one/.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png" class="big-image" alt="Shearer in *Nixon's the One*."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832.jpg" class="big-image" alt="Shearer in *Nixon's the One*."/></a></td></tr>
 </table>
 
 "I grew up in Los Angeles, under the persistent blaze of the California sun and, just as persistent, the dark shadow of Richard Nixon," Shearer explained in a video describing the making of his television mini-series *Nixon’s the One*. "As my life went on, Nixon seemed always to be in it."[<sup>80</sup>](/exhibits/le-show/notes#80)  
@@ -165,11 +165,6 @@ Shearer, who regularly comments that *Le Show* does not have a weekly "theme," o
 
 ["Waterboardin,' USA"](https://americanarchive.org/catalog/cpb-aacip-600f49f11ea?start=1394.79&end=1682.06)
 
-<table class="exhibit-image med-image left">
-<caption align="bottom" class="exhibit-caption">Still from a video Shearer did singing "Waterboarding USA."</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-moresatire.png" class="big-image" alt="Still from a video Shearer did singing "Waterboarding USA.""/></a></td></tr>
-</table>
-
 ### Trump: "The Appresidentice"
 
 Shearer has studied Donald Trump's character for decades, dating to his work in the 1980s as a contributing editor to *Spy* magazine.[<sup>110</sup>](/exhibits/le-show/notes#110) Trump became a regular object of satire on *Le Show* beginning in 2013, when Shearer wrote and performed "[Caveat Discipulus](https://americanarchive.org/catalog/cpb-aacip-4153dab8eff?start=1887.59&end=2199.05)" ("Let the Student Beware"), a satirical Trump University alma mater.[<sup>111</sup>](/exhibits/le-show/notes#111) 
@@ -211,7 +206,7 @@ Shearer follows the sonic satire with "You Curse at Girls," an earnest song abou
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Shearer as Richard Nixon." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer_nixon.png">
+  <img title="Cover Image" alt="Shearer as Richard Nixon." src="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832.jpg">
 
 ## Gallery
 
