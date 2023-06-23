@@ -52,7 +52,7 @@ In 2017, after Lewis died, Shearer paraphrased a *People* magazine report that L
 
 <table class="exhibit-image med-image left">
 <caption align="bottom" class="exhibit-caption"></caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap23.png" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap23.png" class="big-image" alt="Shearer sat in a director's chair."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg" class="big-image" alt="Shearer stills for the song *935 Lies*."/></a></td></tr>
 </table>
 
 ### "The Apologies of the Week"
@@ -142,7 +142,7 @@ Shearer's most recent sonic O. J. satire arose in the context of news about a me
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Shearer sat on a director's chair." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Snap23.png">
+  <img title="Cover Image" alt="Shearer stills for the song *935 Lies*." src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg">
 
 ## Gallery
 
