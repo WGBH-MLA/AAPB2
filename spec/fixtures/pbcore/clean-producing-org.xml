@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd">
   <pbcoreAssetType>Episode</pbcoreAssetType>
-  <pbcoreAssetDate dateType="broadcast">1958-00-00</pbcoreAssetDate>
+  <pbcoreAssetDate dateType="broadcast">1959-00-00</pbcoreAssetDate>
   <pbcoreIdentifier source="http://americanarchiveinventory.org">cpb-aacip/55-91sf8j8r</pbcoreIdentifier>
   <pbcoreIdentifier source="NET_CATALOG">FMP_3180357</pbcoreIdentifier>
   <pbcoreTitle titleType="Series">Japanese Brush Painting</pbcoreTitle>
