@@ -16,7 +16,7 @@ Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The L
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Shearer in *Nixon’s the One*, https://harryshearer.com/projects/nixons-the-one/.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832.jpg" class="big-image" alt="Shearer in *Nixon's the One*."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832-cropped.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832-cropped.jpg" class="big-image" alt="Shearer in *Nixon's the One*."/></a></td></tr>
 </table>
 
 "I grew up in Los Angeles, under the persistent blaze of the California sun and, just as persistent, the dark shadow of Richard Nixon," Shearer explained in a video describing the making of his television mini-series *Nixon’s the One*. "As my life went on, Nixon seemed always to be in it."[<sup>80</sup>](/exhibits/le-show/notes#80)  
