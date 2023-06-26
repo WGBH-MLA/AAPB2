@@ -206,7 +206,7 @@ Shearer follows the sonic satire with "You Curse at Girls," an earnest song abou
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Shearer as Richard Nixon." src="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832.jpg">
+  <img title="Cover Image" alt="Shearer as Richard Nixon." src="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832-cropped.jpg">
 
 ## Gallery
 
