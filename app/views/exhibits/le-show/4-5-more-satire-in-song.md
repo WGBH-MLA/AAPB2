@@ -18,7 +18,7 @@ video : https://harryshearer.com/media/#prettyPhoto[Videos]/22/
 
 <table class="exhibit-image med-image right">
 <caption align="bottom" class="exhibit-caption">Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain.jpg" class="big-image" alt="Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly."/></a></td></tr>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain-cropped.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain-cropped.jpg" class="big-image" alt="Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly."/></a></td></tr>
 </table>
 
 ### "Mr. Goldman and Mr. Sachs"
@@ -63,7 +63,7 @@ Shearer collected some of his satiric songs on seven albums, *It Must Have Been 
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain.jpg">
+  <img title="Cover Image" alt="Harry Shearer at WWNO in New Orleans, February 17, 2019. Photo by Rosa Eberly." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-leshowmain-cropped.jpg">
 
 ## Gallery
 
