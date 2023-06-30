@@ -14,11 +14,11 @@ The [*Sesame Street*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B
 
 ## Featured
 
-[![Episode 1](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-1533ebc756d.jpg)](/catalog/cpb-aacip-1533ebc756d)
-[![Episode 813](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-5f4efc45207.jpg)](/catalog/cpb-aacip-5f4efc45207)
-[![Episode 1839](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-3f88f6462a5.jpg)](/catalog/cpb-aacip-3f88f6462a5)
-[![Episode 3226](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-f992ea76e9f.jpg)](/catalog/cpb-aacip-f992ea76e9f)
-[![Episode 3981](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-6c223272d69.jpg)](/catalog/cpb-aacip-6c223272d69)
+[![Episode 1](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-1533ebc756d_1.jpg)](/catalog/cpb-aacip-1533ebc756d)
+[![Episode 813](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-5f4efc45207_1.jpg)](/catalog/cpb-aacip-5f4efc45207)
+[![Episode 1839](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-3f88f6462a5_1.jpg)](/catalog/cpb-aacip-3f88f6462a5)
+[![Episode 3226](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-f992ea76e9f_1.jpg)](/catalog/cpb-aacip-f992ea76e9f)
+[![Episode 3981](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-6c223272d69_1.jpg)](/catalog/cpb-aacip-6c223272d69)
 
 ## Resources
 
