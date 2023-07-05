@@ -58,7 +58,7 @@ A lyrically and musically revised version of the song has aired several times ov
 
 Shearer collected some of his satiric songs on seven albums, *It Must Have Been Something I Said* (1994), *O. J. On Trial: The Early Years* (1995), *It’s The Stupidity, Stupid* (1999), *Songs Pointed & Pointless* (2007), *Dropping Anchors* (2007), *Can’t Take A Hint* (2012), and *The Many Moods of Donald Trump* (2020). 
 
-#### Next: [Acknowledgements](/exhibits/le-show/5-acknowledgements)
+#### Next: [Acknowledgments](/exhibits/le-show/5-acknowledgements)
 
 ## Resources
 
