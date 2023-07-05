@@ -1,4 +1,4 @@
-# Acknowledgements
+# Acknowledgments
 
 10
 
