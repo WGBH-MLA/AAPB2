@@ -25,7 +25,7 @@ The early years of *Le Show* are braided among the respective satisfactions and 
 "I joined [*SNL*] at the time when unprofessionalism had become the professional choice," Shearer told the *Los Angeles Times* in 1987. "You were looked down on for showing up on time and knowing your lines. *Spinal Tap* had been a kind of *succès d'estime* for me. A lot of assurances were made. A lot of them were violated. I was told they wanted me to do political and topical material for the show, but virtually everything I wrote was killed. Eventually, you begin spending your time worrying why things don't get on instead of being creative. You're in a classic underling position."[<sup>46</sup>](/exhibits/le-show/notes#46) 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption"></caption>
+<caption align="bottom" class="exhibit-caption">Poster for Saturday Night Live, featuring Harry Shearer as part of the cast.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview1.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview1.jpg" class="big-image" alt="Poster for Saturday Night Live, featuring Harry Shearer as part of the cast."/></a></td></tr>
 </table>
 
@@ -42,7 +42,7 @@ After playing The Kinks' "Do It Again," Shearer introduces himself to listeners:
 Shearer's return to KCRW made headlines. 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption"></caption>
+<caption align="bottom" class="exhibit-caption">Promo image for KCRW featuring Harry Shearer.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" class="big-image" alt="Promo image for KCRW featuring Harry Shearer."/></a></td></tr>
 </table>
 
