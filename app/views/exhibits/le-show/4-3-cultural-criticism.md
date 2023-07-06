@@ -51,8 +51,8 @@ In 2011, a shorter version of the telethon, not involving Lewis, aired, and Shea
 In 2017, after Lewis died, Shearer paraphrased a *People* magazine report that Lewis had five years earlier "emphatically cut out all six children he had with his first wife, Patty Palmer, from his will. So they'll inherit exactly zippo. Nada. Zip." A chronicler of hypocrisy in figures from every public walk of life, Shearer reserves some of his sharpest satire for the celebrity sort. In response to the report from *People*, Shearer invents, performs, and delivers a telethon for Lewis’ actual children: ["Love 17 Telethon for Jerry’s Real Kids"](https://americanarchive.org/catalog/cpb-aacip-daeb92db285?start=2093.82&end=2661.35)
 
 <table class="exhibit-image med-image left">
-<caption align="bottom" class="exhibit-caption">Shearer still for the song "935 Lies". Photograph by Matt Mindlin.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg" class="big-image" alt="Shearer still for the song *935 Lies*. Photograph by Matt Mindlin."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Shearer in video for the song “935 Lies.” Video by Matt Mindlin.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg" class="big-image" alt="Shearer in video for the song “935 Lies.” Video by Matt Mindlin."/></a></td></tr>
 </table>
 
 ### "The Apologies of the Week"
