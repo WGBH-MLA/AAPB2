@@ -63,7 +63,7 @@ The [final episode of "Presidential Memoirs"](https://americanarchive.org/catalo
 Shearer also voiced George H. W. Bush on "The Simpsons" ("Two Bad Neighbors," 1996) and "Golden Girls" ("The President's Coming," 1990).
 
 <table class="exhibit-image med-image right">
-<caption align="bottom" class="exhibit-caption"></caption>
+<caption align="bottom" class="exhibit-caption">Title card for Harry Shearer on the show The Golden Girls.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" class="big-image" alt="Title card for Harry Shearer on the show The Golden Girls."/></a></td></tr>
 </table>
 
