@@ -113,6 +113,7 @@ Ask students to watch or listen to the following sources:
 - [Hospital Review Committees Before Roe v. Wade (1969)](/1-153-988gtx44)
 - [Restricting Public Funds for Abortion (1977)](/3-507-tq5r786j1v)
 - [The FDA Approves the Abortion Pill (2000)](/7-507-0z70v8b371)
+- [Physicians Consider the Post-Roe Landscape (2022)](https://www.pbs.org/newshour/show/how-doctors-are-reacting-to-the-decision-to-overturn-roe-v-wade)
 
 Lead a class discussion, asking students:
 What impact did one’s race, ethnicity, or socio-economic status have upon obtaining access to a safe, legal abortion both before and after Roe v. Wade?
