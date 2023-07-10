@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>About Science</em> Series Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/INFLECT_new_avatar_green+1400_72.jpg "About Science Series Collection")
+![<em>About Science</em> Series Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/jpegPIA02976width-1600.jpg "About Science Series Collection")
 
 ## Summary
 
@@ -24,7 +24,7 @@ Digitized files for *About Science* were contributed to the American Archive of 
 ## Resources
 
 - [Down to Earth: Herblock and Photographers Observe the Environment (Library of Congress)](https://www.loc.gov/exhibits/herblock-down-to-earth/)
-- [The Dream of Flight (Library of Congress](https://www.loc.gov/exhibits/dreamofflight/)
+- [The Dream of Flight (Library of Congress)](https://www.loc.gov/exhibits/dreamofflight/)
 - [CalTech Archives Digital Exhibits](https://library.caltech.edu/archives/exhibits/digital)
 - [Women in Science blog series (Smithsonian Institution Archives)](https://siarchives.si.edu/blog/tag/women-science-wednesday)
 - [Cheers for Surveyor 1 at CalTech (Los Angeles Times - From the Archives)](https://www.latimes.com/visuals/photography/la-me-fw-archives-cheers-for-surveyor1-at-caltech-20190529-htmlstory.html)
