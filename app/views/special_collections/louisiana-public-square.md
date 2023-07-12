@@ -6,13 +6,13 @@
 
 ## Summary
 
-*Louisiana Public Square* consists of 171 episodes which all aired on Louisiana Public Broadcasting between 2004-2021. Airing monthly, the series focused on public opinion and allowed Louisiana citizens to weigh in on local, national, and international issues in a town hall style discussion. Each episode was hosted by Beth Courtney and a series of co-hosts, most notably Craig Freeman. *Public Square* consists of an opening background piece to explain the issue that will be debated, an open debate between episode participants, and a question and answer session with local experts on the issue. *Public Square* delves into topics such as economic development, local and national elections, disaster management and hurricane recovery, climate change, children’s welfare issues, and education. 
+*Louisiana Public Square* consists of 171 episodes broadcast on Louisiana Public Broadcasting between 2004 and 2021. Airing monthly, the series focused on public opinion and allowed Louisiana citizens to weigh in on local, national, and international issues in town hall style discussions. Each episode was hosted by Beth Courtney and a series of co-hosts, most notably Craig Freeman. *Louisiana Public Square* consists of an opening background piece to explain the issue that will be debated, an open debate between episode participants, and a question-and-answer session with local experts on the issue. The series delves into topics such as economic development, local and national elections, disaster management and hurricane recovery, climate change, children’s welfare issues, and education. 
 
 ## Background
 
-Louisiana Public Broadcasting (LPB) has been on air since 1975, and is a statewide resource for educational programming. As a resource for Louisiana history, LPB is committed to preserving its vast collection of media. In 2015, LPB and the Louisiana State Archives launched the Louisiana Digital Media Archive. All of LPB’s digitized media, including *Public Square*, can be researched on the LDMA website.
+On air since 1975, Louisiana Public Broadcasting (LPB) is a statewide resource for educational programming committed to preserving its vast collection of media. In 2015, LPB and the Louisiana State Archives launched the Louisiana Digital Media Archive. All of LPB’s digitized media, including *Louisiana Public Square*, can be accessed on the LDMA website.
 
-*Public Square* has been preserved through both grant funded and in-house digitization efforts. Episodes from the final seasons were born-digital and preserved on LDMA upon broadcast. In 2022-2023, the digitization for the final video tapes for the show was funded by the EBSCO Fellowship for Digital Preservation in cooperation with GBH and the University of Alabama.  
+*Louisiana Public Square* has been preserved through both grant funded and in-house digitization efforts. Episodes from the final seasons were born-digital and preserved in LDMA upon broadcast. In 2022-2023, the digitization for the final video tapes for the show was done by Claire Lavastida and funded by the EBSCO Fellowship for Digital Preservation in cooperation with AAPB and the University of Alabama.  
 
 ## Featured
 
@@ -28,6 +28,7 @@ Louisiana Public Broadcasting (LPB) has been on air since 1975, and is a statewi
 - [Louisiana Public Broadcasting](https://www.lpb.org/)
 - [Louisiana Digital Media Archive](http://ladigitalmedia.org/)
 - [Louisiana State Archives](https://www.sos.la.gov/HistoricalResources/ExploreMediaArchives/Pages/default.aspx)
+- [[*En Français*, AAPB special collection](https://americanarchive.org/special_collections/en-francais)
 
 ## Help
 
