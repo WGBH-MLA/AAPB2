@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>Georgia Traveler</em> Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/jpegPIA02976width-1600.jpg "Georgia Traveler Collection")
+![<em>Georgia Traveler</em> Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/georgia-traveler.png "Georgia Traveler Collection")
 
 ## Summary
 
@@ -23,7 +23,7 @@ The [*Georgia Traveler*](https://americanarchive.org/catalog?f%5Baccess_types%5D
 
 ## Resources
 
-- [Georgia Public Broadcasting)](https://www.gpb.org/)
+- [Georgia Public Broadcasting](https://www.gpb.org/)
 - [*Georgia Gazette* special collection, AAPB](https://americanarchive.org/special_collections/georgia-gazette)
 
 ## Help
