@@ -57,14 +57,38 @@ table.exhibit-image.small-image img {
   max-height: 20em;
 }
 
-table.exhibit-image.med-image {
-  max-width: 36%;
-  margin: 0 0 0 1.5em;
+table.exhibit-image.center-image {
+  max-width: 100%;
+  width: 100%;
+  margin-left: 36% !important;
   max-height: 20em;
 }
 
+table.exhibit-image.center-image img {
+  max-height: 20em;
+}
+
+table.exhibit-image.med-image {
+  text-align: center;
+  display: inline-block;
+  min-width: 100%;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 6vh !important;
+  padding-left: 35%;  
+}
+
+
 table.exhibit-image.med-image img {
   max-height: 20em;
+  max-width: 20em;
+/*  margin-left: 65%;*/
+  padding: 0;
+}
+table.exhibit-image.med-image caption {
+/*  margin-left: 90%;
+  width: 50%;*/
+  padding: 0;
 }
 
 table.exhibit-image.med-image-tall {
