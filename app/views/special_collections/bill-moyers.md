@@ -43,6 +43,7 @@ In 2015 Public Affairs Television began digitizing Moyers' work, which was submi
 
 - [Bill Moyers Journal, PBS](https://www.pbs.org/moyers/journal/)
 - [Bill Moyers website](https://billmoyers.com/)
+- [Bill Moyers timeline](https://billmoyers.com/timeline/)
 - [Bill Moyers, Encyclopaedia Britannica](https://www.britannica.com/biography/Bill-Moyers)
 - [Bill Moyers, Wikipedia](https://en.wikipedia.org/wiki/Bill_Moyers)
 - [Bill Moyers at the Howard Zinn Lecture, Boston University](http://www.bu.edu/buniverse/view/?v=20ZaW9PO)
