@@ -216,27 +216,23 @@ Mr. Lear’s memoir, Even This I Get To Experience, was published in October 201
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Deanna_Marcum.jpg" alt="Deanna Marcum" aria-hidden="true"/>
 ### Deanna Marcum
-As managing director of Ithaka S+R, Deanna Marcum leads the research and consulting services that assist universities and colleges, libraries, publishers, and cultural institutions as they make the transition to the digital environment. She heads a staff of 10 program directors and analysts with wide-ranging experience.
-
-From 2003 to 2011, Deanna served as associate librarian for Library Services at the Library of Congress. She managed 53 divisions and offices whose 1,600 employees are responsible for acquisions, cataloging, public service, and preservation activities; services to the blind and physically handicapped; and network and bibliographic standards for America's national library. She is also responsible for integrating the emerging digital resources into the traditional artifactual library, the first step toward building a national digital library for the 21st century.
+Deanna Marcum (1946-2002) was managing Director of Ithaka S+R and led the research and consulting services that assisted universities and colleges, libraries, publishers, and cultural institutions as they made the transition to the digital environment. From 2003 to 2011, Deanna served as associate librarian for Library Services at the Library of Congress. She managed 53 divisions and offices whose 1,600 employees were responsible for acquisitions, cataloging, public service, and preservation activities; services to the blind and physically handicapped; and network and bibliographic standards for America's national library. She was also responsible for integrating the emerging digital resources into the traditional artifactual library, the first step toward building a national digital library for the 21st century.
 
 In 1995, Deanna was appointed president of the Council on Library Resources and president of the Commission on Preservation and Access. She oversaw the merger of these two organizations into the Council on Library and Information Resources (CLIR) in 1997 and served as president until August 2003. Deanna served as director of public service and collection management at the Library of Congress from 1993 to 2005. Before that she was dean of the School of Library and Information Science at The Catholic University of America. From 1980 to 1989, she was first a program office and then vice president of Council on Library Resources.
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/EAC_Newton_Minow.jpg" alt="Newton Minow" aria-hidden="true"/>
 ### Newton Minow
-Newton N. Minow is Senior Counsel to the law firm of Sidley Austin LLP.  He was a partner with Sidley & Austin from 1965–1991.
+Newton N. Minow (1926-2023) was born and raised in Milwaukee, Wisconsin.  He served as a U.S. Army Sergeant in the China-Burma India Theater in World War II.  He was a graduate of Northwestern University, and has been awarded 14 honorary degrees, including Brandeis University, the University of Wisconsin, Northwestern University and the University of Notre Dame.
 
-Mr. Minow was born and raised in Milwaukee, Wisconsin.  He served as a U.S. Army Sergeant in the China-Burma India Theater in World War II.  He is a graduate of Northwestern University, and has been awarded 14 honorary degrees, including Brandeis University, the University of Wisconsin, Northwestern University and the University of Notre Dame.
+His career included service as Law Clerk to Chief Justice Fred M. Vinson of the U.S. Supreme Court and as Assistant Counsel to Governor Adlai E. Stevenson.  He was a partner in the law firm of Stevenson, Rifkind & Wirtz when, in 1961, President John F. Kennedy appointed him Chairman of the Federal Communications Commission.  He served in the Kennedy Administration until 1963 when he became Executive Vice President and General Counsel of Encyclopaedia Britannica, Inc.  In 1965, he joined the law firm of Leibman, Williams, Bennett, Baird & Minow, which merged with Sidley & Austin in 1972.  Sidley & Austin merged with Brown & Wood in 2001. He served as Senior Counsel to the law firm of Sidley Austin LLP until his passing.
 
-His career includes service as Law Clerk to Chief Justice Fred M. Vinson of the U.S. Supreme Court and as Assistant Counsel to Governor Adlai E. Stevenson.  He was a partner in the law firm of Stevenson, Rifkind & Wirtz when, in 1961, President John F. Kennedy appointed him Chairman of the Federal Communications Commission.  He served in the Kennedy Administration until 1963 when he became Executive Vice President and General Counsel of Encyclopaedia Britannica, Inc.  In 1965, he joined the law firm of Leibman, Williams, Bennett, Baird & Minow, which merged with Sidley & Austin in 1972.  Sidley & Austin merged with Brown & Wood in 2001.
+Mr. Minow was a director of many companies including Aon Corporation, CBS, Sara Lee Corporation, Foote, Cone & Belding, Manpower Inc. and the Tribune Company.
 
-Mr. Minow has been a director of many companies including Aon Corporation, CBS, Sara Lee Corporation, Foote, Cone & Belding, Manpower Inc. and the Tribune Company.
+In addition, he was a chairman of The RAND Corporation, trustee emeritus of the Mayo Clinic, a life trustee of Northwestern University and the University of Notre Dame, a former trustee and chairman of the Carnegie Corporation, and former Chairman of PBS (Public Broadcasting Service).
 
-In addition, he is a former chairman of The RAND Corporation, trustee emeritus of the Mayo Clinic, a life trustee of Northwestern University and the University of Notre Dame, a former trustee and chairman of the Carnegie Corporation, and former Chairman of PBS (Public Broadcasting Service).
+Mr. Minow wrote five books and numerous magazine articles. He received the Presidential Medal of Freedom in 2016.
 
-Mr. Minow has written five books and numerous magazine articles.
-
-Mr. Minow and his wife, Josephine (Jo) live in Chicago. They have three daughters, Nell, Martha and Mary.
+Mr. Minow and his wife, Josephine (Jo) lived in Chicago. They had three daughters, Nell, Martha and Mary.
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/advisory-council/morrisett_photo.jpg" alt="Lloyd Morrisett" aria-hidden="true"/>
 ### Lloyd N. Morrisett
