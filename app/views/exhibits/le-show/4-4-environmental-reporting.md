@@ -8,12 +8,13 @@
 
 ## Main
 
-<table class="exhibit-image med-image left">
+
+### "Let Us Try" News of the U.S. Army Corps of Engineers
+
+<table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption">Shearer in video for the song “935 Lies.” Video by Matt Mindlin.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8038.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8038.jpg" alt="Shearer in video for the song “935 Lies.” Video by Matt Mindlin."/></a></td></tr>
 </table>
-
-### "Let Us Try" News of the U.S. Army Corps of Engineers
 
 Using as backdrop music from the anthem of the U.S. Army Corps of Engineers, ["Let Us Try" became a regular *Le Show* segment](https://americanarchive.org/catalog/cpb-aacip-798b2078b65?start=2205.21&end=2350.45) after Shearer started doing research for his documentary *The Big Uneasy*.
 
