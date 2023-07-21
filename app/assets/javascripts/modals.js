@@ -1,6 +1,4 @@
 $(function() {
-  var rand = Math.random()
-
   // whats the path
   let path = new URL(window.location.href).pathname
 
@@ -11,12 +9,10 @@ $(function() {
   let triggered_orr = false
 
   if(path.includes("/catalog/") && orr != "y"){
-    console.log( 'now I did orr!', rand, orr )
     $('#rules-modal').modal({keyboard: true});
     triggered_orr = true
   }
   if(!triggered_orr && nws != "y"){
-    console.log( 'now I did nws!', rand, nws )
     $('#newsletter-modal').modal({keyboard: true});
     // do cookie here because this one should not require affirmation to stop showing
     document.cookie = 'newsletter=y;max-age=15770000'
