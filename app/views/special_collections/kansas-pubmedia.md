@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>Kansas Public Media Collection</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/kansas-mainimage.png "Kansas Public Media Collection")
+![<em>Kansas Public Media Collection</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/Kansas_specialcollectionLogos.png "Kansas Public Media Collection")
 
 ## Summary
 
