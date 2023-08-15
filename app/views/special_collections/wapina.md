@@ -27,7 +27,7 @@ Items in the <em>War and Peace in the Nuclear Age</em> Interviews Collection wer
 - [<em>War and Peace in the Nuclear Age</em>, OpenVault](http://openvault.wgbh.org/collections/war_peace/interviews)
 - [Cold War International History Project, Wilson Center](https://www.wilsoncenter.org/program/cold-war-international-history-project)
 - [The Nuclear Vault, National Security Archive](https://nsarchive.gwu.edu/project/nuclear-vault)
-- [<em>The 1995 NPT Review and Extension Conference</em> Collection, Wilson Center Archive](https://digitalarchive.wilsoncenter.org/collection/496/The-1995-NPT-Review-and-Exchange-Conference)
+- [<em>The 1995 NPT Review and Extension Conference</em> Collection, Wilson Center Archive](https://digitalarchive.wilsoncenter.org/topics/1995-npt-review-and-extension-conference)
 
 
 ## Funders 

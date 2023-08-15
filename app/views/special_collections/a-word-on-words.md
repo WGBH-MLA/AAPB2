@@ -26,7 +26,7 @@ The <em>A Word on Words</em> Collection contains 901 episodes from the acclaimed
 - [<em>A Word on Words</em>](http://awordonwords.org/)
 - [Nashville Public Television](https://www.wnpt.org/)
 - [<em>Tennessee Authors Special Collection</em>, University of Tennessee Knoxville](https://libguides.utk.edu/tnauthors/home)
-- [Nashville Historical Timeline](https://www.nashville.gov/Play/History/Timeline.aspx)
+- [Nashville Metro Archives](https://library.nashville.org/metro-archives)
 
 ## Funders
 

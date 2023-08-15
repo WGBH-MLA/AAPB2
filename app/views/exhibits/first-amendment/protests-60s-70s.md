@@ -85,7 +85,7 @@ From 1968 to 1970, protests continued in force as events like the Tet Offensive,
 
 ##### Vietnam
 - 1967—[Vietnam: A Television History; Peace March Scenes, United Nations](/catalog/cpb-aacip_15-hd7np1wp9x)
-- 1967—[Public Affairs; Wakefield Rally](/catalog/cpb-aacip/15-91fj76tb)
+- 1967—[Public Affairs; Wakefield Rally](/catalog/cpb-aacip-15-91fj76tb)
 - 1968—[Commentary by Sidney Roger; Nikki Bridges interviewed by Sidney Roger](/catalog/cpb-aacip_28-kk9474772h)
 - 1968—[Vietnam: A Television History; 111; CBS News Special: 1968](/catalog/cpb-aacip_15-ms3jw86w23)
 - 1970—[The Chicano moratorium](/catalog/cpb-aacip_28-6t0gt5fp55)

@@ -49,7 +49,7 @@ Because the six episodes of [*Acción Chicano* in the AAPB collection](https://a
 #### [*Realidades*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bseries_titles%5D%5B%5D=Realidades&sort=asset_date+asc)
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Filming *Realidades*, Humberto Citrón (center), from Realidades: Los Medios de Communicacion y la Communidad Latina: https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1 (WNET, 1977).</caption>
+<caption align="bottom" class="exhibit-caption">Filming *Realidades*, Humberto Cintrón (center), from Realidades: Los Medios de Communicacion y la Communidad Latina: https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1 (WNET, 1977).</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-a6c496a73d1" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Filming-Realidades-Humberto-Citron-1.jpg" class="big-image" alt="Filming *Realidades*, Humberto Citrón (center), from Realidades: Los Medios de Communicacion y la Communidad Latina (WNET, 1977)."></a></td></tr>
 </table>
 

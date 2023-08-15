@@ -27,7 +27,7 @@ In the mid-1960s, civil rights activists compelled Congress to pass the Civil Ri
 
 The resources in this set are composed of video and audio clips from the 1960s of Black Power advocates and activists speaking in various settings, including interviews, conferences, rallies, protests, television broadcasts, and press conferences. Arranged chronologically by date, this resource set allows students to see how Black Power definitions and issues evolved over time and to consider how and why African Americans from different walks of life thought about and engaged with the movement. 
 
-#### Background Information -
+#### Background Information
 
 Before engaging with this resource set, students should possess the following:
 
@@ -43,20 +43,20 @@ Before engaging with this resource set, students should possess the following:
 
 <hr>
 
-#### Essential Question - 
+#### Essential Question 
 
 What do the voices of Black Power activists contribute to our understanding about African Americans’ rights and experiences in the post-civil rights era United States?
 
 <hr>
 
-#### General Discussion Questions -
+#### General Discussion Questions
 - What do you think the goals of the Black Power Movement were? 
 - What challenges did Black Power activists face?
 - How have these primary source audio and video clips affected your understanding about Black Power as a concept or a movement?
 
 <hr>
 
-#### Classroom Activities -
+#### Classroom Activities
 
 Ask students to engage in group work around specific topics, then come together to discuss.
 
@@ -69,7 +69,7 @@ Ask students to engage in group work around specific topics, then come together 
 ##### Group 2: Nonviolence and Black Power
 - [Malcolm X Radio Documentary](https://americanarchive.org/primary_source_sets/black-power/9-207-60qrfqmn) (1991)
 - [Stokely Carmichael Discusses Organizing and Voting](https://americanarchive.org/primary_source_sets/black-power/1-28-zw18k75h85) (1966)
-- [Activist James Bevel Promotes Nonviolence](https://americanarchive.org/primary_source_sets/black-power/2-6688g8fs31) (1966)
+- [Activist James Bevel Promotes Nonviolence](https://americanarchive.org/primary_source_sets/black-power/2-28-6688g8fs31) (1966)
 
 ##### Group 3: Black Panther Party for Self Defense 
 - [Radio broadcast of Bobby Seale at “Free Huey Newton” Rally](https://americanarchive.org/primary_source_sets/black-power/5-28-q52f766p51) (1968)

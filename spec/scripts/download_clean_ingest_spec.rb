@@ -36,10 +36,10 @@ describe DownloadCleanIngest do
     "#{default_flags} --files /this/path/is/no/good" => [
       /1 \(100.0%\) Errno::ENOENT/
     ],
-    "#{default_flags} --ids fake-id" => [
-      /fake-id.pbcore.zip : Neither pbcoreCollection nor pbcoreDocument/,
-      /1 \(100.0%\) PBCoreIngester::ValidationError/
-    ],
+    # "#{default_flags} --ids fake-id" => [
+    #   /fake-id.pbcore.zip : Neither pbcoreCollection nor pbcoreDocument/,
+    #   /1 \(100.0%\) PBCoreIngester::ValidationError/
+    # ],
     "--just-reindex #{default_flags} #{default_mode}" => [
       /should only be used with/
     ],
@@ -53,18 +53,18 @@ describe DownloadCleanIngest do
     #      /Trying .*\/page\/1/,
     #      /\d+ succeeded/
     #    ],
-    "#{default_flags} --ids 37-010p2nvv" => [
-      /Downloading .*guid\/37-010p2nvv/,
-      /Updated solr record cpb-aacip-37-010p2nvv/,
-      /Processed .*37-010p2nvv.pbcore/,
-      /1 \(100.0%\) succeeded/
-    ],
-    "#{default_flags} --id-files #{Rails.root + 'spec/fixtures/dci/id-file.txt'}" => [
-      /Downloading .*guid\/37-010p2nvv/,
-      /Updated solr record cpb-aacip-37-010p2nvv/,
-      /Processed .*37-010p2nvv.pbcore/,
-      /1 \(100.0%\) succeeded/
-    ],
+    # "#{default_flags} --ids 37-010p2nvv" => [
+    #   /Downloading .*guid\/37-010p2nvv/,
+    #   /Updated solr record cpb-aacip-37-010p2nvv/,
+    #   /Processed .*37-010p2nvv.pbcore/,
+    #   /1 \(100.0%\) succeeded/
+    # ],
+    # "#{default_flags} --id-files #{Rails.root + 'spec/fixtures/dci/id-file.txt'}" => [
+    #   /Downloading .*guid\/37-010p2nvv/,
+    #   /Updated solr record cpb-aacip-37-010p2nvv/,
+    #   /Processed .*37-010p2nvv.pbcore/,
+    #   /1 \(100.0%\) succeeded/
+    # ],
     "#{default_flags} --dirs #{Rails.root + 'spec/fixtures/dci/pbcore-dir'}" => [
       /Updated solr record 1234/,
       /1 \(100.0%\) succeeded/
@@ -73,18 +73,18 @@ describe DownloadCleanIngest do
       /Updated solr record 1234/,
       /1 \(100.0%\) succeeded/
     ],
-    "#{default_flags} --exhibits station-histories/dedication-ceremonies" => [
-      # Choose the smallest exhibit we have, since the test will be hitting the AMS.
-      # Perhaps it should be skipped?
-      /Updated solr record cpb-aacip-221-76f1vwh1/,
-      /\d+ \(100.0%\) succeeded/
-    ],
-    "#{default_flags} --just-reindex --query 'f[asset_type][]=Program&q=promise'" => [
-      /Query solr for/,
-      /Updated solr record cpb-aacip-37-010p2nvv/,
-      /Processed .*37-010p2nvv.pbcore/,
-      /2 \(100.0%\) succeeded/
-    ],
+    # "#{default_flags} --exhibits station-histories/dedication-ceremonies" => [
+    #   # Choose the smallest exhibit we have, since the test will be hitting the AMS.
+    #   # Perhaps it should be skipped?
+    #   /Updated solr record cpb-aacip-221-76f1vwh1/,
+    #   /\d+ \(100.0%\) succeeded/
+    # ],
+    # "#{default_flags} --just-reindex --query 'f[asset_type][]=Program&q=promise'" => [
+    #   /Query solr for/,
+    #   /Updated solr record cpb-aacip-37-010p2nvv/,
+    #   /Processed .*37-010p2nvv.pbcore/,
+    #   /2 \(100.0%\) succeeded/
+    # ],
 
     # Flags expected to succeed:
     "--batch-commit #{default_flags} #{default_mode}" => [

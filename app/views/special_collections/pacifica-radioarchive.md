@@ -1,4 +1,4 @@
-# Pacifica Radio Archive
+# Pacifica Radio Archives
 
 ## Thumbnail
 
