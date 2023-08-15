@@ -191,7 +191,7 @@ organizations, producers and leaders) and beyond <br>
 <br>President and CEO, Nashville Public Television
 
 **Maureen Harlow**
-<br>Senior Digital Librarian, PBS
+<br>Director, Media Library, PBS
 
 **Terry Gildea**
 <br>Executive Director, Public Media Journalists Association

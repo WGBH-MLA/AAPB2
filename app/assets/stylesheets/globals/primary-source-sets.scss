@@ -12,6 +12,11 @@
   background-color: #eee;
 }
 
+p.primary-source-advisory {
+  font-weight: bold;
+  margin-bottom: 0em;
+}
+
 .primary-source-header {
   background-size: cover;
   background-image: url("https://s3.amazonaws.com/americanarchive.org/educator_resources/educator_resources_purple_bar.png");
@@ -128,6 +133,7 @@ h3.primary-source-title {
   font-size: 1.6em;
   font-weight: bold;
   color: #4A2378;
+  margin-bottom: 0;
 }
 
 div.primary-source-content {
@@ -196,7 +202,11 @@ div.primary-source-source img {
   width:  100%;
 }
 
-.primary-source-additional-resources li {
+div.primary-source-additional-resources {
+  margin-top: 0 ;
+}
+
+div.primary-source-additional-resources li {
   list-style:  none;
   width: 48%;
   display: inline-block;

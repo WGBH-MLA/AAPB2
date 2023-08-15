@@ -30,18 +30,7 @@
         <h2>Collection Background</h2>
         <%= @special_collection.background_html.html_safe %>
       </div>
-    </div>
-  </div>
-  <% if !@special_collection.timeline_html.empty? %>
-    <div class="row collection-timeline-row">
-      <div class="col-md-12 collection-timeline-col">
-        <h2><%= @special_collection.timeline_title.html_safe %></h2>
-        <%= @special_collection.timeline.html_safe %>
-      </div>
-    </div>
-  <% end %>
-  <div class="row">
-    <div class="col-md-6 col-md-push-6">
+
       <% if !@special_collection.featured_items.empty? %>
         <div class="row">
           <div class="col-md-12 collection-features">
@@ -63,6 +52,19 @@
           </div>
         </div>
       <% end %>
+    </div>
+  </div>
+  <% if !@special_collection.timeline_html.empty? %>
+    <div class="row collection-timeline-row">
+      <div class="col-md-12 collection-timeline-col">
+        <h2><%= @special_collection.timeline_title.html_safe %></h2>
+        <%= @special_collection.timeline.html_safe %>
+      </div>
+    </div>
+  <% end %>
+  <div class="row">
+    <div class="col-md-6 col-md-push-6">
+      
     </div>
     <div class="col-md-6 col-md-pull-6 funders-resources-col">
       <% if !@special_collection.funders.empty? %>

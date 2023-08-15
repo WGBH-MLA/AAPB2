@@ -159,25 +159,29 @@ class Exhibit < Cmless
 
   def items
     @items ||= begin
-
       doc = Nokogiri::HTML(summary_html + extended_html + main_html + head_html + records_html)
-      hash = Hash[
-        doc.xpath('//a').select do |el|
-          el.attribute('href').to_s.match('^/catalog/.+') || el.attribute('href').to_s.match(/^.+\/\/americanarchive.org\/catalog\/.+/)
-        end.map do |el|
-          [
-            # remove non guid parts of links, and strip #start_time stuff from end of URL
-            el.attribute('href').to_s.gsub(/^.+\/\/americanarchive.org/, '').gsub('/catalog/', '').gsub(/\?.*/, ""),
-            (begin
-               el.attribute('title').text
-             rescue
-               el.text
-             end)
-          ]
+
+      hash = {}
+      unless path.end_with?("notes")
+        # exclude notes page cpb-aacip links from being considered 'records in the exhibit'
+        hash = Hash[
+          doc.xpath('//a').select do |el|
+            el.attribute('href').to_s.match('^/catalog/.+') || el.attribute('href').to_s.match(/^.+\/\/americanarchive.org\/catalog\/.+/)
+          end.map do |el|
+            [
+              # remove non guid parts of links, and strip #start_time stuff from end of URL
+              el.attribute('href').to_s.gsub(/^.+\/\/americanarchive.org/, '').gsub('/catalog/', '').gsub(/\?.*/, ""),
+              (begin
+                 el.attribute('title').text
+               rescue
+                 el.text
+               end)
+            ]
+          end
+        ]
+        children.each do |child|
+          hash.merge!(child.items)
         end
-      ]
-      children.each do |child|
-        hash.merge!(child.items)
       end
       hash
     end

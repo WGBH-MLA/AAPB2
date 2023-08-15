@@ -316,7 +316,7 @@ June 8, 2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/97GWDykhiaE?modestbranding=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the second episode of "Presenting the Past," Allison Perlman, assistant professor in the departments of film and media studies and history at the University of California, Irvine, compares two National Educational Television (NET) programs created to educate the audiences on the modern Conservatism party in the 1960s. Perlman also provides background on NET, the predecessor of Public Broadcasting Service (PBS) leading up to the Public Broadcasting Act of 1967.
+In the second episode of "Presenting the Past," Allison Perlman, assistant professor in the departments of film and media studies and history at the University of California, Irvine, compares two National Educational Television (NET) programs created to educate the audiences on the modern conservatism in the 1960s. Perlman also provides background on NET, the predecessor of Public Broadcasting Service (PBS) leading up to the Public Broadcasting Act of 1967.
 
 <i>Content warning: this archival content contains descriptions of violence and racial slurs.</i>
 

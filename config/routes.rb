@@ -7,6 +7,8 @@ Rails.application.routes.draw do
             only: [:show, :create]
 
   resources 'embed', only: [:index, :show] # BL requires that there be an index.
+  match 'lite/:id', to: 'embed#lite', via: [:get]
+
   resources 'embed_terms', only: [:show, :create]
 
   resources 'organizations',
@@ -30,6 +32,9 @@ Rails.application.routes.draw do
 
   resources 'oai',
             only: [:index]
+
+  get 'logs', to: 'logs#index'
+  get 'logs/:log_file_name', to: 'logs#show', log_file_name: /.*/
 
   match 'api', to: 'api#index', via: [:get, :options]
   match 'api/:id', to: 'api#show', via: [:get, :options]
