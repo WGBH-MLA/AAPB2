@@ -20,7 +20,7 @@ Brenna Wynn Greer, Wellesley College
 
 ## Teachingtips
 
-#### Introduction
+## Introduction
 
 As a collection, this set of sources provides a broad history of how federal and state authorities have tried to curtail drug use, abuse, and trafficking. These audio and video clips document the circumstances that led President Nixon to launch the war on drugs, which law enforcement took up at every level of government. These sources demonstrate a range of opinions about the measures used in the war on drugs, and they provide testimonies about how enforcement of anti-drug policies affected different populations, especially along lines of race and class.  
 
