@@ -1,16 +1,16 @@
-# <em>Biography Hawai’i</em>
+# <em>Biography Hawai‘i</em>
 
 ## Thumbnail
 
-![<em>Biograpy Hawai’i</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/uluulu-mainimage1.png "Biography Hawai’i")
+![<em>Biography Hawai‘i</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/uluulu-mainimage1.png "Biography Hawai‘i")
 
 ## Summary
 
-The 80 videos in the *Biography Hawai'i* collection are comprised primarily of raw interview footage shot for use in *Biography Hawai'i*, a series of documentary films which focused on the life stories of Hawai'i residents whose lives have had a lasting impact on the state of Hawai'i. Featuring people from different ethnic groups and walks of life, but with an emphasis on native Hawaiians, *Biography Hawai`i* episodes in this collection include interviews about Ma'iki Aiu Lake, a kumu hula and Hawaiian renaissance icon; Harriet Bouslog, a labor and civil rights attorney; Princess Ruth Keʻelikōlani, Kingdom of Hawai'i ali'i and Hawai'i Island Governess; and Koji Ariyoshi, a labor activist and watchdog journalist. Besides the on-camera interviews with scholars, family, and friends of the series’ subjects, the collection’s footage also features images of rare photographs from personal and family collections.
+The 80 videos in the *Biography Hawai‘i* collection are comprised primarily of raw interview footage shot for use in *Biography Hawai‘i*, a series of documentary films that focused on the life stories of Hawai‘i residents whose lives have had a lasting impact on the state of Hawai‘i. Featuring people from different ethnic groups and walks of life, but with an emphasis on native Hawaiians, *Biography Hawai‘i* episodes in this collection include interviews about Ma‘iki Aiu Lake, a kumu hula and Hawaiian renaissance icon; Harriet Bouslog, a labor and civil rights attorney; Princess Ruth Keʻelikōlani, Kingdom of Hawai‘i ali‘i and Hawai‘i Island Governess; and Koji Ariyoshi, a labor activist and watchdog journalist. Besides the on-camera interviews with scholars, family, and friends of the series’ subjects, the collection’s footage also features images of rare photographs from personal and family collections.
 
 ## Background
 
-The 5 episodes of *Biography Hawai'i* featured in the collection aired between 2002 and 2009 on KHET, Hawai'i’s PBS affiliate, and were produced by the Center for Biographical Research at the University of Hawai'i at Mānoa. Primary contributors to the series were Director Joy Chong-Stannard and Co-producers Victoria Nalani Kneubuhl and Craig Howes. The series’ raw footage is currently housed at ‘Ulu ‘ulu: The Henry Ku’ualoha Giugni Moving Image Archive of Hawai'i. In 2022-23 the bulk of this footage was digitized by Public Broadcasting Preservation Fellow Kimo Nichols and submitted to the American Archive of Public Broadcasting and the Library of Congress.
+The 5 episodes of *Biography Hawai‘i* for which videos featured in the collection were shot aired between 2002 and 2009 on KHET, Hawai‘i’s PBS affiliate, and were produced by the Center for Biographical Research at the University of Hawai‘i at Mānoa. Primary contributors to the series were director Joy Chong-Stannard and co-producers Victoria Nalani Kneubuhl and Craig Howes. The series' raw footage is currently housed at ‘Ulu ‘ulu: The Henry Ku’ualoha Giugni Moving Image Archive of Hawai‘i. In 2022-23 the bulk of this footage was digitized by Public Broadcasting Preservation Fellow Kimo Nichols for the American Archive of Public Broadcasting.
 
 ## Featured
 
