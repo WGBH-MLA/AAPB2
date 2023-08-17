@@ -61,7 +61,7 @@ How has the war on drugs shaped U.S. society?
 - [A Major Shift in Drug Policy (2018)](/primary_source_sets/war-on-drugs/9-525-804xg9gf2)
 
 These sources reveal different views about drug use and its societal significance. 
-- How do these views relate to the war on drugs?  What accounts for the difference among them? 
+- How do these views relate to the war on drugs?  What accounts for the difference between them? 
 - How and why did ideas about enforcing drug policies change over time?   
 
 
@@ -111,7 +111,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/war_on_drugs_te
 
 ## Citation
 
-Greer, Brenna Wynn. "The War on Drugs" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/war-on-poverty.
+Greer, Brenna Wynn. "The War on Drugs" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/war-on-drugs.
 
 ## Guid
 ## Cliptime
