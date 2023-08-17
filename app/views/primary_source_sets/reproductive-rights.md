@@ -56,7 +56,7 @@ Is the right to control and make decisions related to contraception and childbea
 - What do you see as the core disagreements between pro–choice and pro-life activists?
 - In what ways can pro-choice and pro-life activists both be characterized as pro-women?
 - How significant was it that evangelical Christians redefined the pro-life movement as a human rights issue rather than a religious one? What impact do you think that had?
-- What impact did the FDA’s approval of the abortion pill in 2000 have upon the reproductive rights landscape?
+- What impact did the FDA’s approval of the abortion pill in 2000 have on the reproductive rights landscape?
 -Are constitutional rights permanent? Can you think of other constitutional rights that have been granted and then taken away or restricted over the course of American history?
 
 
@@ -66,10 +66,10 @@ Is the right to control and make decisions related to contraception and childbea
 
 1) Ask students to watch or listen to the following sources:
 
-- [The History and Legal Arguments behind Roe v. Wade (2019)](/2-6a6e525d19a)
-- [Teenage Abortion and the Right to Privacy (1979)](/4-507-np1wd3qs3r) (1976)
-- [The Supreme Court and the US Senate Race in Missouri (2018)](/8-525-rn3028qn9g)
-- [The Supreme Court Considers Overturning Roe v. Wade (2021)](/9-bb394816d73)
+- [The History and Legal Arguments behind Roe v. Wade (2019)](/primary_source_sets/reproductive_rights/2-6a6e525d19a)
+- [Teenage Abortion and the Right to Privacy (1979)](/primary_source_sets/reproductive_rights/4-507-np1wd3qs3r) (1976)
+- [The Supreme Court and the US Senate Race in Missouri (2018)](/primary_source_sets/reproductive_rights/8-525-rn3028qn9g)
+- [The Supreme Court Considers Overturning Roe v. Wade (2021)](/primary_source_sets/reproductive_rights/9-bb394816d73)
 
 Lead a class discussion, asking students:
 What were the key arguments underpinning the Supreme Court’s decision in _Roe v. Wade_?   
@@ -93,9 +93,9 @@ Ask students to research one of the many reproductive rights cases (see link in 
 Ask students to watch the following sources:
 
 
-- [The National Abortion Rights Action League (NARAL) Mobilizes (1985)](/5-507-ff3kw5850t)
-- [The Tactics of Operation Rescue (1989)](/6-507-pc2t43js51)
-- [The Supreme Court and the US Senate Race in Missouri (2018)](/8-525-rn3028qn9g)
+- [The National Abortion Rights Action League (NARAL) Mobilizes (1985)](/primary_source_sets/reproductive_rights/5-507-ff3kw5850t)
+- [The Tactics of Operation Rescue (1989)](/primary_source_sets/reproductive_rights/6-507-pc2t43js51)
+- [The Supreme Court and the US Senate Race in Missouri (2018)](/primary_source_sets/reproductive_rights/8-525-rn3028qn9g)
 
 Lead a class discussion, asking students:
 Both NARAL and Operation Rescue supporters refer to “rights” when interviewed or addressing the public. To whose rights are they referring, and why do you think they framed their arguments in this manner?
@@ -110,9 +110,9 @@ The American women’s suffrage movement mobilized both men and women in an effo
 Ask students to watch or listen to the following sources:
 
 
-- [Hospital Review Committees Before Roe v. Wade (1969)](/1-153-988gtx44)
-- [Restricting Public Funds for Abortion (1977)](/3-507-tq5r786j1v)
-- [The FDA Approves the Abortion Pill (2000)](/7-507-0z70v8b371)
+- [Hospital Review Committees Before Roe v. Wade (1969)](/primary_source_sets/reproductive_rights/1-153-988gtx44)
+- [Restricting Public Funds for Abortion (1977)](/primary_source_sets/reproductive_rights/3-507-tq5r786j1v)
+- [The FDA Approves the Abortion Pill (2000)](/primary_source_sets/reproductive_rights/7-507-0z70v8b371)
 - [Physicians Consider the Post-Roe Landscape (2022)](https://www.pbs.org/newshour/show/how-doctors-are-reacting-to-the-decision-to-overturn-roe-v-wade)
 
 Lead a class discussion, asking students:
