@@ -14,7 +14,7 @@ The 5 episodes of *Biography Hawai'i* featured in the collection aired between 2
 
 ## Featured
 
-[![Puakea Nogelmeier](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-896311f72b6.jpg)(/catalog/cpb-aacip-896311f72b6)
+[![Puakea Nogelmeier](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-896311f72b6.jpg)](/catalog/cpb-aacip-896311f72b6)
 [![Steve Sawyer](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-f854743963a.jpg)](/catalog/cpb-aacip-f854743963a)
 [![Franklin Odo](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-b29b549850b.jpg)](/catalog/cpb-aacip-b29b549850b)
 [![Kalena Silva](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-336ef3bb8c1.jpg)](/catalog/cpb-aacip-336ef3bb8c1)
@@ -24,7 +24,7 @@ The 5 episodes of *Biography Hawai'i* featured in the collection aired between 2
 ## Resources
 
 - [‘Ulu ‘ulu: The Henry Ku’ualoha Guigni Moving Image Archive of Hawai’i](http://uluulu.hawaii.edu/)
-- [University of Hawai’I at Mānoa-Center for Biographical Research](https://manoa.hawaii.edu/cbr/)
+- [University of Hawai’i at Mānoa-Center for Biographical Research](https://manoa.hawaii.edu/cbr/)
 - [King Kamehameha V Judiciary History Center](https://www.jhchawaii.net/)
 
 ## Help
