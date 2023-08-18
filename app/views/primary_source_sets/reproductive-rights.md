@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/reprodcutive-rights-main.jpg "Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.")
+![Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.]([https://s3.amazonaws.com/americanarchive.org/primary_source_sets/reprodcutive-rights-main.jpg](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/reproductive-rights-main.jpeg) "Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Reproductive-Rights.jpg
