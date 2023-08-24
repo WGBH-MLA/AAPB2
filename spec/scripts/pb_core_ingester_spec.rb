@@ -9,7 +9,7 @@ describe PBCoreIngester do
   end
 
   after(:each) do
-    @ingester.delete_all
+    @ingester.delete_by_query('*:*')
   end
 
   it 'whines about non-existent file' do
@@ -23,17 +23,19 @@ describe PBCoreIngester do
   end
 
   it 'works for single ingest' do
+    expect { @ingester.delete_by_query('*:*') }.not_to raise_error
     expect_results(0)
     expect { @ingester.ingest(path: path) }.not_to raise_error
     expect_results(1)
     expect { @ingester.ingest(path: path) }.not_to raise_error
     expect_results(1)
-    expect { @ingester.delete_all }.not_to raise_error
+    expect { @ingester.delete_by_query('*:*') }.not_to raise_error
     expect_results(0)
   end
 
   it 'works for collection' do
     Dir.mktmpdir do |dir|
+      expect { @ingester.delete_by_query('*:*') }.not_to raise_error
       expect_results(0)
       document = File.read(path)
       collection = "<pbcoreCollection>#{document}</pbcoreCollection>"
