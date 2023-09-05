@@ -22,7 +22,7 @@ As publisher of *Newsday* from 1967 to 1970, Moyers brought to the newspaper suc
 
 In 1986, when Bill Moyers left *CBS News*, he founded Public Affairs Television (PAT) with the veteran broadcast journalist Joan Konner and was soon joined by his wife and creative partner Judith Davidson Moyers.
 
-PAT remains widely acclaimed for its innovative and courageous exploration of subjects ranging from the capital's role in democracy and the world of ideas and the arts, as well as notable and impactful investigative documentaries. PAT also was a leader within public television in extending the reach of its broadcasts through the creative use of multimedia campaigns aimed at informing Americans of critical issues and involving them in cooperative efforts for the renewing of democracy.
+PAT remains widely acclaimed for its innovative and courageous exploration of subjects ranging from capitalism's role in democracy and the world of ideas and the arts, as well as notable and impactful investigative documentaries. PAT also was a leader within public television in extending the reach of its broadcasts through the creative use of multimedia campaigns aimed at informing Americans of critical issues and involving them in cooperative efforts for the renewing of democracy.
 
 Over the years, Bill Moyers worked with numerous talented producers, editors, art directors, writers, production assistants, camera operators, sound engineers, makeup artists, and others, including long-time collaborators Executive Producer Sally Roy, Senior Writer Michael Winship, Executive Assistant Karen Kimball, Comptroller Diana Warner, President and COO Judy Doctoroff, and Executive Producer Judith Davidson Moyers.
 
