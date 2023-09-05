@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![<em>Higher Education Today</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/het-steveroygoodman.png "Higher Education Today")
+![<em>Higher Education Today</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/het-stevegoodman.png "Higher Education Today")
 
 ## Summary
 
