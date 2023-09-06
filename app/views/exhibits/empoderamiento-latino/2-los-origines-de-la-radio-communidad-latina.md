@@ -92,7 +92,7 @@ La creación de la radio comunitaria chicana tuvo sus orígenes en el movimiento
 
 Según el sitio web de Radio Campesina, la estación “ha difundido foros y debates sobre asuntos claves tales como salud, seguridad, educación, asuntos políticos y del consumidor, entrevistas con expertos de diferentes campos de servicios, además de programas de información y noticias en los que los oyentes pueden participar a través de llamadas al estudio".[<sup>41</sup>](/exhibits/empoderamiento-latino/notes#41) Hoy en día, la Red de Radio Campesina consta de nueve emisoras de radio comerciales y comunitarias en California, Arizona, Washington y Nevada. Estas atribuyen su éxito a una combinación de música popular, noticias, información, segmentos de llamadas y transmisiones en vivo desde eventos locales.  
 
-#### Next: [Latino Public Television History](/exhibits/empoderamiento-latino/3-historia-de-la-television-publica-latina)
+#### Next: [Historia de la televisión pública latina](/exhibits/empoderamiento-latino/3-historia-de-la-television-publica-latina)
 
 ## Resources
 
