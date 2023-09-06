@@ -170,7 +170,7 @@ El corresponsal sénior de *PBS NewsHour*, Ray Suárez, quien escribió el libro
 
 > **Si hay algo que quiero que la gente se lleve del acto de leer este libro, es que recuerden o aprendan por primera vez cuánto aman este país las personas sobre las que escribo y lo único que querían era ser aceptados como todos los demás. Y que mantuvieron ese amor, mantuvieron ese afecto, y continuaron esa lucha, incluso cuando no recibían nada más que el rechazo de Estado Unidos. Es una historia extraordinaria. En lugar de alienarse, enojarse, y crear una sociedad separada dentro del país, siguieron luchando por la aceptación.**
 
-#### Next: [The Immigrant Experience Through Public Broadcasting](/exhibits/empoderamiento-latino/4-la-experiencia-de-inmigracion-a-traves-de-la-radiodifusion-publica)
+#### Next: [La experiencia de inmigración a través de la radiodifusión pública](/exhibits/empoderamiento-latino/4-la-experiencia-de-inmigracion-a-traves-de-la-radiodifusion-publica)
 
 ## Resources
 
