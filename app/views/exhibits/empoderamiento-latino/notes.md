@@ -8,7 +8,6 @@
 
 <a name="2"></a><sup>2</sup> Félix Gutiérrez y Jorge Reina Schement, *Spanish Language Radio in the Southwestern United States* (Austin: University of Texas Press, 1979).
 
-
 <a name="3"></a><sup>3</sup> Hugo Morales, citado en Miles Corwin, "A Voice for Farm Workers," *Los Angeles Times*, August 20, 1989, 3.
 
 <a name="4"></a><sup>4</sup> Monica De La Torre, “‘*Programas Sin Vergüenza* (Shameless Programs)’: Mapping Chicanas in Community Radio in the 1970s,” *Women's Studies Quarterly* 43, no. 3/4 (Fall/Winter 2015): 175, http://www.jstor.org/stable/43958561. Para obtener más información sobre el activismo en los medios, consulte Chon A. Noriega, *Shot in America: Television, the State, and the Rise of Chicano Cinema* (Minneapolis: University of Minnesota Press, 2000).
@@ -87,13 +86,6 @@
 
 <a name="41"></a><sup>41</sup> “About Us,” La Network Campesina.
 
-
-
-
-
-
-
-
 <a name="42"></a><sup>42</sup> Luis Reyes and Peter Rubie, *Hispanics in Hollywood: A Celebration of 100 Years in Film and Television* (Hollywood: Lone Eagle Publishing Co., 2000), 312.
 
 <a name="43"></a><sup>43</sup> Jesús Salvador Treviño, “Latinos and Public Broadcasting: The 2% factor,” *Jump Cut*, no. 28 (April 1983): 65, https://www.ejumpcut.org/archive/onlinessays/JC28folder/PBSandLatinos.html.
@@ -130,7 +122,7 @@
 
 <a name="59"></a><sup>59</sup> Beatrice Berg, “Anglos Can Watch, Too,” *New York Times*, December 17, 1972.
 
-<a name="60"></a><sup>60</sup> El Banquiné de Angelitos Negros can be viewed onsite at the Library of Congress and GBH.
+ASK ABOUT THIS ONE<a name="60"></a><sup>60</sup> El Banquiné de Angelitos Negros can be viewed onsite at the Library of Congress and GBH.
 
 <a name="61"></a><sup>61</sup> Noriega, *Shot in America*, 151.
 
@@ -144,7 +136,7 @@
 
 <a name="66"></a><sup>66</sup> Alice Hernandez, Press Release *Images/Imagenes*, Rutgers University, New Brunswick, revised January 29, 2019.
 
-<a name="67"></a><sup>67</sup> William Q. Sánchez, interview with Alan Gevinson and Gabriela Rivera Marin (American Archive of Public Broadcasting), February 25, 2020.
+<a name="67"></a><sup>67</sup> William Q. Sánchez, entrevista con Alan Gevinson y Gabriela Rivera Marin (American Archive of Public Broadcasting), February 25, 2020.
 
 <a name="68"></a><sup>68</sup> Alice Hernandez, “*Images/Imagenes* Celebrates Premier on NJTV & the Latino(a) Celebrity Performing Arts Awards,” Rutgers University, New Brunswick, December 11, 2019.
 
@@ -152,19 +144,19 @@
 
 <a name="70"></a><sup>70</sup> Les Brown, "Grant for PBS Latin Series Goes Directly to Producer," *New York Times*, October 27, 1979, 45.
 
-<a name="71"></a><sup>71</sup> Treviño states that the Oye Willie series was not funded for a second year “for what appear valid reasons.” See Treviño, “Latinos and Public Broadcasting,” 65.
+<a name="71"></a><sup>71</sup> Treviño afirma que la serie Oye Willie no fue financiada por segundo año “por razones que parecen válidas”. Ver Treviño, “Latinos and Public Broadcasting,” 65.
 
 <a name="72"></a><sup>72</sup> Treviño, “Latinos and Public Broadcasting,” 65.
 
 <a name="73"></a><sup>73</sup> Noriega, *Shot in America*, 152-53; Treviño, “Latinos and Public Broadcasting,” 65.
 
-<a name="74"></a><sup>74</sup> Noriega, *Shot in America*, 154-58; quote on 154.
+<a name="74"></a><sup>74</sup> Noriega, *Shot in America*, 154-58; cita en 154.
 
 <a name="75"></a><sup>75</sup> Galán Incorporated Television & Film, http://www.galaninc.com/site/biography.
 
 <a name="76"></a><sup>76</sup> Carla Hall, “PBS Magazine for Teens Worth Checking Out,” *Washington Post*, January 9, 1982, C6; Galán Incorporated Television & Film, http://www.galaninc.com/site/filmography/1981/10/checking-it-out-senior-producer/.
 
-<a name="77"></a><sup>77</sup> Hector Galán, quoted in Jason Price, “Galan, Hector,” in *The Concise Routledge Encyclopedia of the Documentary Film*, ed. Ian Aitken (New York: Routledge, 2013), 280-81.
+<a name="77"></a><sup>77</sup> Hector Galán, cita en Jason Price, “Galan, Hector,” en *The Concise Routledge Encyclopedia of the Documentary Film*, ed. Ian Aitken (New York: Routledge, 2013), 280-81.
 
 <a name="78"></a><sup>78</sup> Galán Incorporated Television & Film, http://www.galantvfilm.com/filmography.html; Susan King, “Classic Hollywood: ‘Children of Giant’ Explores Legacy of ‘Giant’ in Marfa, Texas,” *Los Angeles Times*, April 11, 2005, https://www.latimes.com/entertainment/classichollywood/la-et-mn-ca-classic-hollywood-children-giant-20150412-story.html.
 
@@ -178,11 +170,18 @@
 
 <a name="83"></a><sup>83</sup> PBS, “POV at a Glance”, https://www.pbs.org/pov/about/.  
 
-<a name="84"></a><sup>84</sup> “Background: About Latino Public Broadcasting,” Latino Public Broadcasting, accessed September 28, 2021, https://lpbp.org/background/.
+<a name="84"></a><sup>84</sup> “Background: About Latino Public Broadcasting,” Latino Public Broadcasting, accedida September 28, 2021, https://lpbp.org/background/.
 
 <a name="85"></a><sup>85</sup> *The NewsHour with Jim Lehrer*, May 14, 2007, https://americanarchive.org/catalog/cpb-aacip-507-mg7fq9qx2q?start=2409.88&end=3267.52; *Democracy Now!*, “PBS Criticized for Excluding Latino, Native Voices from WWII Documentary,” April 13, 2007, https://www.democracynow.org/2007/4/13/pbs_criticized_for_excluding_latino_native; Defend the Honor: Claiming Space for Latinos and Latinas in Our Nation’s Consciousness, http://defendthehonor.org.
 
-<a name="86"></a><sup>86</sup> Julia Preston, “Four Centuries, Countless Influences: A PBS Series Documents the Story of Hispanics in America,” *New York Times*, September 15, 2013. *Latino Americans* is available through Kanopy: https://www.kanopy.com/product/latino-americans.
+<a name="86"></a><sup>86</sup> Julia Preston, “Four Centuries, Countless Influences: A PBS Series Documents the Story of Hispanics in America,” *New York Times*, September 15, 2013. *Latino Americans* está disponible a través de Kanopy: https://www.kanopy.com/product/latino-americans.
+
+
+
+
+
+
+
 
 <a name="87"></a><sup>87</sup> Jynnah Radford, “Key Findings about U.S. Immigrants,” *Pew Research Center*, June 17, 2019, https://www.pewresearch.org/fact-tank/2019/06/17/key-findings-about-u-s-immigrants/.
 
