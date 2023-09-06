@@ -176,16 +176,9 @@ ASK ABOUT THIS ONE<a name="60"></a><sup>60</sup> El Banquiné de Angelitos Negro
 
 <a name="86"></a><sup>86</sup> Julia Preston, “Four Centuries, Countless Influences: A PBS Series Documents the Story of Hispanics in America,” *New York Times*, September 15, 2013. *Latino Americans* está disponible a través de Kanopy: https://www.kanopy.com/product/latino-americans.
 
-
-
-
-
-
-
-
 <a name="87"></a><sup>87</sup> Jynnah Radford, “Key Findings about U.S. Immigrants,” *Pew Research Center*, June 17, 2019, https://www.pewresearch.org/fact-tank/2019/06/17/key-findings-about-u-s-immigrants/.
 
-<a name="88"></a><sup>88</sup> Emma Lazarus, “The New Colossus,” November 2, 1883, as quoted in National Park Service, “Statue of Liberty: National Monument of New York, The New Colossus,” updated August 14, 2019,
+<a name="88"></a><sup>88</sup> Emma Lazarus, “The New Colossus,” November 2, 1883, income se cita en National Park Service, “Statue of Liberty: National Monument of New York, The New Colossus,” actualizado August 14, 2019,
 https://www.nps.gov/stli/learn/historyculture/colossus.htm.
 
 <a name="89"></a><sup>89</sup> Roger Daniels, *Coming to America: A History of Immigration and Ethnicity in American Life* (New York: HarperCollins, 1990), 265-84.
@@ -212,14 +205,14 @@ https://www.nps.gov/stli/learn/historyculture/colossus.htm.
 
 <a name="100"></a><sup>100</sup> Kelly Lytle Hernández, “The Crimes and Consequences of Illegal Immigration: A Cross-Border Examination of Operation Wetback, 1943 to 1954,” *Western Historical Quarterly* 37, no. 4 (Winter 2006), 421-44, https://www.jstor.org/stable/25443415.
 
-<a name="101"></a><sup>101</sup> Kelly Lytle Hernández; quoted in Erin Blakemore, “The Largest Mass Deportation in American History,” HISTORY website, updated June 18, 2019,
+<a name="101"></a><sup>101</sup> Kelly Lytle Hernández; citado en Erin Blakemore, “The Largest Mass Deportation in American History,” HISTORY sitio web, actualizado June 18, 2019,
 https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="102"></a><sup>102</sup> Hernández, “Crimes and Consequences,” 421.
 
 <a name="103"></a><sup>103</sup> Kelly Lytle Hernández, *Migra! A History of the U.S. Border Patrol* (Berkeley: University of California Press, 2010), 184-97.
 
-<a name="104"></a><sup>104</sup> For further information, see Juan Ramon García, *Operation Wetback: The Mass Deportation of Mexican Undocumented Workers in 1954* (Westport CT: Greenwood Press, 1980).
+<a name="104"></a><sup>104</sup> Para mas informacion, vea a Juan Ramon García, *Operation Wetback: The Mass Deportation of Mexican Undocumented Workers in 1954* (Westport CT: Greenwood Press, 1980).
 
 <a name="105"></a><sup>105</sup> Johnson, “Remarks at the Signing of the Immigration Bill.”
 
@@ -229,7 +222,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="108"></a><sup>108</sup> James T. Patterson, *Restless Giant: The United States from Watergate to Bush v. Gore* (New York: Oxford University Press, 2005), 296.
 
-<a name="109"></a><sup>109</sup> For further information on the 1965 Act, see Gabriel J. Chin and Rose Cuison Villazor, eds., *The Immigration and Nationality Act of 1965: Legislating a New America* (New York: Cambridge University Press, 2015).
+<a name="109"></a><sup>109</sup> Para mas informacion, vea a Gabriel J. Chin and Rose Cuison Villazor, eds., *The Immigration and Nationality Act of 1965: Legislating a New America* (New York: Cambridge University Press, 2015).
 
 <a name="110"></a><sup>110</sup> D’Vera Cohn, “How U.S. Immigration Laws and Rules Have Changed through History,” FactTank: News in the Numbers, Pew Research Center, September 30, 2015, https://www.pewresearch.org/fact-tank/2015/09/30/how-u-s-immigration-laws-and-rules-have-changed-through-history/.  
 
@@ -239,17 +232,17 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="113"></a><sup>113</sup> Gustavo Arellano, “Prop. 187 Forced a Generation to Put Fear Aside and Fight. It Transformed California, and Me,” *Los Angeles Times*, October 29, 2019, https://www.latimes.com/california/story/2019-10-29/proposition-187-california-pete-wilson-essay.
 
-<a name="114"></a><sup>114</sup> *Fear and Learning at Hoover Elementary* can be accessed at https://www.kanopy.com/product/fear-and-learning-hoover-elementary. Additional information can be found at http://archive.pov.org/fearandlearning/film-description/.
+<a name="114"></a><sup>114</sup> *Fear and Learning at Hoover Elementary* se puede acceder en https://www.kanopy.com/product/fear-and-learning-hoover-elementary. Additional information can be found at http://archive.pov.org/fearandlearning/film-description/.
 
 <a name="115"></a><sup>115</sup> Ballotpedia,“California Proposition 187.”
 
-<a name="116"></a><sup>116</sup> For further information on California Proposition 187, see Kevin R. Johnson, “Proposition 187 and Its Political Aftermath: Lessons for U.S. Immigration Politics after Trump,” 53 U.C.D. L. Rev. 1859 (2020), https://lawreview.law.ucdavis.edu/issues/53/4/53-4_Johnson.pdf; Kevin R. Johnson, "An Essay on Immigration Politics, Popular Democracy, and California's Proposition 187: The Political Relevance and Legal Irrelevance of Race," 70 Washington Law Review 629 (1995); Kevin R. Johnson, "Public Benefits and Immigration: The Intersection of Immigration Status, Ethnicity, Gender, and Class," 42 UCLA Law Review 1509 (1995).
+<a name="116"></a><sup>116</sup> Para obtener más información sobre la Proposición 187 de California, consulte Kevin R. Johnson, “Proposition 187 and Its Political Aftermath: Lessons for U.S. Immigration Politics after Trump,” 53 U.C.D. L. Rev. 1859 (2020), https://lawreview.law.ucdavis.edu/issues/53/4/53-4_Johnson.pdf; Kevin R. Johnson, "An Essay on Immigration Politics, Popular Democracy, and California's Proposition 187: The Political Relevance and Legal Irrelevance of Race," 70 Washington Law Review 629 (1995); Kevin R. Johnson, "Public Benefits and Immigration: The Intersection of Immigration Status, Ethnicity, Gender, and Class," 42 UCLA Law Review 1509 (1995).
 
 <a name="117"></a><sup>117</sup> Border Protection, Antiterrorism, and Illegal Immigration Control Act of 2005, H.R. 4437, 109th Cong. (2015), https://www.congress.gov/bill/109th-congress/house-bill/4437.
 
 <a name="118"></a><sup>118</sup> Gutiérrez, "Mexican Immigration."
 
-<a name="119"></a><sup>119</sup> For further information on DACA, see Kevin R. Johnson, “Lessons about the Future of Immigration Law from the Rise and Fall of DACA,” 52 U.C.D. L. Rev. 343 (2018-2019),  https://lawreview.law.ucdavis.edu/issues/52/1/Symposium/52-1_Johnson.pdf; Shoba S. Wadhia, “The President and Deportation: DACA, DAPA, and the Sources and Limits of Executive Authority - Response to Hiroshi Motomura,” 55Washburn L.J.189 (2016), https://elibrary.law.psu.edu/cgi/viewcontent.cgi?article=1263&context=fac_works.
+<a name="119"></a><sup>119</sup> Para obtener más información sobre DACA, consulte Kevin R. Johnson, “Lessons about the Future of Immigration Law from the Rise and Fall of DACA,” 52 U.C.D. L. Rev. 343 (2018-2019),  https://lawreview.law.ucdavis.edu/issues/52/1/Symposium/52-1_Johnson.pdf; Shoba S. Wadhia, “The President and Deportation: DACA, DAPA, and the Sources and Limits of Executive Authority - Response to Hiroshi Motomura,” 55 Washburn L.J. 189 (2016), https://elibrary.law.psu.edu/cgi/viewcontent.cgi?article=1263&context=fac_works.
 
 <a name="120"></a><sup>120</sup> Reilly Frye, “Family Separation under the Trump Administration: Applying an International Criminal Law Framework,” *Journal of Criminal Law and Criminology* 110, no. 2 (2020): 349, https://www.jstor.org/stable/48572373.
 
@@ -263,13 +256,21 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="125"></a><sup>125</sup> Carol Nagengast, “Militarizing the Border Patrol,” *NACLA Report on the Americas*, 32, issue 3 (Nov/Dec 1998), DOI: 10.1080/110714839.1998.11725652.
 
-<a name="126"></a><sup>126</sup> “Images/Imágenes Series: Award Winning Leader in Public Broadcasting,” press release, no date.
+<a name="126"></a><sup>126</sup> “Images/Imágenes Series: Award Winning Leader in Public Broadcasting,” comunicado de prensa, sin fecha.
 
 <a name="127"></a><sup>127</sup> American Archive of Public Broadcasting, “Interview with William Q. Sánchez,” February 25, 2020.
 
 <a name="128"></a><sup>128</sup> Juan Gonzalez, *Harvest of Empire: A History of Latinos in America* (New York: Penguin Books, 2011), 81.
 
 <a name="129"></a><sup>129</sup> Library of Congress, “Crossing the Straits,” https://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/immigration/cuban5.html.
+
+
+
+
+
+
+
+
 
 <a name="130"></a><sup>130</sup> Federico Subervi, Joseph Torres, and Daniela Montalvo, *Network Brownout Report 2005: The Portrayal of Latinos & Latino Issues on Network Television News, 2004 with a Retrospect to 1995* (Austin and Washington, DC: National Association of Hispanic Journalists, 2005), https://nahj.org/wp-content/uploads/2021/01/2005-NAHJ-Network-Brownout-Report.pdf.
 
