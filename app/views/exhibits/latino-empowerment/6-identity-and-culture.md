@@ -266,6 +266,32 @@ Bauzá was proud of his Afro-Cuban heritage, stating in the episode: “Afro-Cub
 
 In November 1978, as possibilities for the normalization of relations between the U.S. and Cuba were increasing, a delegation of Cuban exiles from the U.S. and a few other countries, known as the Committee of 75, traveled to Havana at Fidel Castro’s invitation to engage in dialogue with Castro and Cuban officials. After the meeting, Castro agreed to release more than 3,000 political prisoners and allow Cuban exiles to visit their families.[<sup>215</sup>](/exhibits/latino-empowerment/notes#215) *Say Brother*, a public affairs television program produced by WGBH in Boston by and for the African American community, featured a debate between three members of the Boston Cuban community who were in favor of the dialogue and three who opposed. The hour-long program gave an in-depth look at the different opinions on the matter in a well-moderated, but vigorous debate. More than 100,000 Cuban Americans visited Cuba in 1979, most of whom brought gifts to relatives and friends. During a period of recession in Cuba with shortages of consumer goods, many Cubans, seeing the relative prosperity of the visiting Americans, decided to claim political asylum in order to emigrate to the U.S., leading soon after to the Mariel boatlift and increased tensions between the two nations.[<sup>216</sup>](/exhibits/latino-empowerment/notes#216)
 
+#### Dominican Heritage
+
+##### Literature
+
+**Featured Program**: “[Junot Díaz](https://americanarchive.org/catalog/cpb-aacip-75-354f4xc0?start=424.84&=1416.97)” (*New York Voices*, Thirteen WNET, New York, New York, April 22, 2008) 
+
+In 2011, WNET news anchor Rafael Pi Roman interviewed Dominican American writer Junot Díaz about Díaz’s novel, *The Brief Wondrous Life of Oscar Wao*. Roman asked Díaz what inspired him to write the novel as well as about his creative process. Speaking candidly about the challenges of creative writing, Díaz acknowledged the pivotal roles of compassion and humanity in shaping characters that will resonate with readers. Fictive writing, for Díaz, should approximate elements of the human experience. For example, in *Oscar Wao*, Díaz introduces the reader to the eponymous character through networks of gossip and rumor facilitated by the other characters in the novel. This decision ensures that readers always have a more holistic picture of who Oscar Wao is than each individual character in the novel. 
+
+##### Music
+
+**Featured program**: “[Roots Musicians](https://americanarchive.org/catalog/cpb-aacip-53a0e681b8c)” (*Línea Abierta*, Radio Bilingüe, June 29, 2009)
+
+This roundtable features two Latin American folk musicians, both women, who spoke about their experiences participating in the Smithsonian Folklife Festival in Washington, D.C. Each musician was interviewed by the roundtable’s host, awarding-winning journalist Chelis López. Each participant spoke about their musical careers and their hopes for the future. Additionally, each spoke about the Latin American musicians who had influenced them; in fact, most of these musicians were from these participants’ home countries. The first musician, Lidia María López (popularly known as La India Canela), is an accordion player who was born in the Dominican Republic’s Santiago province. La India Canela has gained international acclaim as a gifted performer of meringue, a form of music that has African, indigenous, and European influences and is very popular in the Dominican Republic. The second, Ana Veydo, is a Colombian singer and dancer, who also spoke at length about her sources of musical inspiration as well as the misogyny, among other topics, many Latin American women musicians continue to face even to this day.  
+
+##### Politics and Government
+
+**Featured program**: “[Councilwoman](https://americanarchive.org/catalog/cpb-aacip-bc48a542c6a)” (*Línea Abierta*; Radio Bilingüe, September 2, 2019) 
+
+During this Labor Day special interview, Carmen Castillo, a hotel housekeeper of Dominican descent, recounts her remarkable life’s journey that included becoming a councilwoman in Providence, Rhode Island. Castillo vigorously campaigned on the “Fight for $15,” a reference to the proposed raising of the state’s minimum wage. She mentioned that she wanted to demonstrate that even “una sirvienta puede tener cerebro” [“even a maid can have a brain”] and that “lo que no se arriesga, no gana” [what isn’t risked isn’t won”]. Castillo’s poignant account illustrates how a Latina immigrant helped improve the life of her community, as well as her own, through determination, hard work, and oratory. 
+
+##### Traditions and Culture
+
+**Featured program**: “[Eating with Gratitude: Jacka Mobile](https://americanarchive.org/catalog/cpb-aacip-44aced2bcd3)” (*Línea Abierta*; Radio Bilingüe, November 23, 2017)
+
+Two Afroindigenous women from the Dominican Republic speak candidly about their experiences starting Woke Foods, the first vegetarian Dominican restaurant in New York City. These women hoped to inspire other Dominicans and Dominican Americans to enjoy native dishes while avoiding less healthful ingredients. These Dominican women spoke about their commitment to promoting this culinary information in the face of the ubiquitous fast-food industry.
+
 ### Additional Programs
 
 The AAPB collection includes a diverse range of programs featuring these and other Latino communities in the U.S. The 1960s [*Hispanic Community*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Hispanic+Community&sort=asset_date+asc) series from WRVR-FM covers life in New York City from Puerto Rican and other Hispanic perspectives. More than 175 programs from 1979 to 2009 of the weekly radio series [*Espejos de Aztlan*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=Espejos+de+Aztlan&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=online) from KUNM in Albuquerque, New Mexico are available online. Five KUHT (Houston Public Television) programs from 1989 of the series [*New Visions, Nuevas Visiones*](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=New+visions%2C+Nuevas+visiones&f%5baccess_types%5d%5b%5d=online), produced and hosted by Betti Maldonado, delve into the artistic, political, and social life of Latino communities in the Houston area.  
