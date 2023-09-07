@@ -357,7 +357,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 <a name="175"></a><sup>175</sup> Raquel Ortiz, entrevista con Gabriela Rivera Marin (American Archive of Public Broadcasting), May 15, 2020.
 
 <a name="176"></a><sup>176</sup> 1996 Peabody Awards entry form, University of Georgia, The Walter J. Brown Media Archives
-& Peabody Awards Collection; citado en “Mi Puerto Rico,” 1996-01-16, The Walter J. Brown Media Archives & Peabody Awards Collection at the University of Georgia, American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC, accedido August 19, 2020, http://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xr26.
+& Peabody Awards Collection; citado en “Mi Puerto Rico,” 1996-01-16, The Walter J. Brown Media Archives & Peabody Awards Collection at the University of Georgia, American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC, accedida August 19, 2020, http://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xr26.
 
 <a name="177"></a><sup>177</sup> Piri Thomas, *Down These Mean Streets* (New York: Vintage Books, 1991).
 
