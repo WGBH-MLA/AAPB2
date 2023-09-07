@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Image from Digital Commonwealth.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/nixon_talks_police_warondrugs.jpeg "Image from Digital Commonwealth.")
+![Image from Digital Commonwealth.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/nixon_talks_police_warondrugs_673px.png "Image from Digital Commonwealth.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/nixon_talks_police_warondrugs.jpeg
