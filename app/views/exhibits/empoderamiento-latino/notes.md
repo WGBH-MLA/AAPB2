@@ -304,14 +304,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="149"></a><sup>149</sup> Matt Garcia, “César Chávez and the United Farm Workers Movement,” *Oxford Research Encyclopedias*, May 2016, DOI: 10.1093/acrefore/9780199329175.013.217.
 
-
-
-
-
-
-
-
-<a name="150"></a><sup>150</sup> Federico Subervi, with the collaboration of Vinicio Sinta, “Latinos in TV Network News 2008-2014: Still Mostly Invisible and Problematic,” January 2017, https://www.researchgate.net/publication/312577225.
+<a name="150"></a><sup>150</sup> Federico Subervi, con la colaboración de Vinicio Sinta, “Latinos in TV Network News 2008-2014: Still Mostly Invisible and Problematic,” January 2017, https://www.researchgate.net/publication/312577225.
 
 <a name="151"></a><sup>151</sup> Luis Noe-Bustamante and Antonio Flores, “Facts on Latinos in America,” *Hispanic Trends*, Pew Research Center, January 3, 2020, https://www.pewresearch.org/hispanic/fact-sheet/latinos-in-the-u-s-fact-sheet/.
 
@@ -321,21 +314,21 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="154"></a><sup>154</sup> Stuart Hall, “Old and New Identities, Old and New Ethnicities,” in *Essential Essays*, vol. 2 (Durham, NC: Duke University Press, 2019), 1653.
 
-<a name="155"></a><sup>155</sup> Hall, “Old and New Identities,” citing Tariq Modood et al., eds., *Ethnic Minorities in Britain: Diversity and Disadvantage* (London: Policy Studies Institute, 1997).
+<a name="155"></a><sup>155</sup> Hall, “Old and New Identities,” citando Tariq Modood et al., eds., *Ethnic Minorities in Britain: Diversity and Disadvantage* (London: Policy Studies Institute, 1997).
 
 <a name="156"></a><sup>156</sup> Gonzalez, *Harvest of Empire*, 206.
 
 <a name="157"></a><sup>157</sup> Gonzalez, *Harvest of Empire*, 96.
 
-<a name="158"></a><sup>158</sup> “Mexican - Becoming Part of the United States,” Presentation: Immigration and Relocation in U.S. History, Classroom Materials at the Library of Congress,” accessed September 9, 2020, https://www.loc.gov/classroom-materials/immigration/mexican/becoming-part-of-the-united-states/.  
+<a name="158"></a><sup>158</sup> “Mexican - Becoming Part of the United States,” Presentation: Immigration and Relocation in U.S. History, Classroom Materials at the Library of Congress,” accedida September 9, 2020, https://www.loc.gov/classroom-materials/immigration/mexican/becoming-part-of-the-united-states/.  
 
 <a name="159"></a><sup>159</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Mexican Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-mexican-origin-latinos/.
 
 <a name="160"></a><sup>160</sup> Sheila Marie Contreras, “Chicana, Chicano, Chican@, Chicanx,” in *Keywords for Latina/o Studies*, ed. by Deborah R. Vargas, Nancy Raquel Mirabel, and Lawrence La Fontain-Stokes (New York: New York University Press, 2017), 32.
 
-<a name="161"></a><sup>161</sup> Hector Galán, quoted in Teresa Puente, “Show Remembers ‘Chicano’ Struggle,” *Chicago Tribune*, April 12, 1996, C3.
+<a name="161"></a><sup>161</sup> Hector Galán, citado en in Teresa Puente, “Show Remembers ‘Chicano’ Struggle,” *Chicago Tribune*, April 12, 1996, C3.
 
-<a name="162"></a><sup>162</sup> Luis Alberto Urrea, “Mexican-American Author Finds Inspiration in Family, Tragedy and Trump,” interview by Terry Gross, *Fresh Air*, NPR, March 5, 2018, https://www.npr.org/2018/03/05/590839936/mexican-american-author-finds-inspiration-in-family-tragedy-and-trump.
+<a name="162"></a><sup>162</sup> Luis Alberto Urrea, “Mexican-American Author Finds Inspiration in Family, Tragedy and Trump,” entrevista por Terry Gross, *Fresh Air*, NPR, March 5, 2018, https://www.npr.org/2018/03/05/590839936/mexican-american-author-finds-inspiration-in-family-tragedy-and-trump.
 
 <a name="163"></a><sup>163</sup> “Luis Alberto Urrea,” U.S. Embassy in Argentina, March 31, 2017, https://ar.usembassy.gov/education-culture/los-angeles-guest-city-buenos-aires-international-book-fair/luis-alberto-urrea/.
 
@@ -361,20 +354,20 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="174"></a><sup>174</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Puerto Rican Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/latinos-in-the-u-s-fact-sheet/.
 
-<a name="175"></a><sup>175</sup> Raquel Ortiz, interview with Gabriela Rivera Marin (American Archive of Public Broadcasting), May 15, 2020.
+<a name="175"></a><sup>175</sup> Raquel Ortiz, entrevista con Gabriela Rivera Marin (American Archive of Public Broadcasting), May 15, 2020.
 
 <a name="176"></a><sup>176</sup> 1996 Peabody Awards entry form, University of Georgia, The Walter J. Brown Media Archives
-& Peabody Awards Collection; quoted in “Mi Puerto Rico,” 1996-01-16, The Walter J. Brown Media Archives & Peabody Awards Collection at the University of Georgia, American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC, accessed August 19, 2020, http://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xr26.
+& Peabody Awards Collection; citado en “Mi Puerto Rico,” 1996-01-16, The Walter J. Brown Media Archives & Peabody Awards Collection at the University of Georgia, American Archive of Public Broadcasting (WGBH and the Library of Congress), Boston, MA and Washington, DC, accedido August 19, 2020, http://americanarchive.org/catalog/cpb-aacip-526-gt5fb4xr26.
 
 <a name="177"></a><sup>177</sup> Piri Thomas, *Down These Mean Streets* (New York: Vintage Books, 1991).
 
-<a name="178"></a><sup>178</sup> “Piri Thomas,” Oxford Reference, accessed July 18, 2020, https://www.oxfordreference.com/view/10.1093/oi/authority.20110803104006357.
+<a name="178"></a><sup>178</sup> “Piri Thomas,” Oxford Reference, accedida July 18, 2020, https://www.oxfordreference.com/view/10.1093/oi/authority.20110803104006357.
 
 <a name="179"></a><sup>179</sup> Gonzalez, *Harvest of Empire*, 240.
 
 <a name="180"></a><sup>180</sup> https://americanarchive.org/catalog/cpb-aacip_507-4t6f18sz65.
 
-<a name="181"></a><sup>181</sup> “Ricky Martin,” Latin Music USA, PBS, accessed July 17, 2020, http://latinmusicusa.lunchbox.pbs.org/wgbh/latinmusicusa/legends/ricky-martin/.
+<a name="181"></a><sup>181</sup> “Ricky Martin,” Latin Music USA, PBS, accedida July 17, 2020, http://latinmusicusa.lunchbox.pbs.org/wgbh/latinmusicusa/legends/ricky-martin/.
 
 <a name="182"></a><sup>182</sup> “Ricky Martin,” Latin Music USA, PBS.
 
@@ -392,9 +385,9 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="189"></a><sup>189</sup> “Rita Moreno,” Biography.com (A&E Networks Television, October 9, 2019), https://www.biography.com/actor/rita-moreno.
 
-<a name="190"></a><sup>190</sup> “Career Achievement Award: Rita Moreno, Presented by Mercedes-Benz,” Peabody Awards, accessed July 20, 2020, http://www.peabodyawards.com/award-profile/career-achievement-award-rita-moreno.
+<a name="190"></a><sup>190</sup> “Career Achievement Award: Rita Moreno, Presented by Mercedes-Benz,” Peabody Awards, accedida July 20, 2020, http://www.peabodyawards.com/award-profile/career-achievement-award-rita-moreno.
 
-<a name="191"></a><sup>191</sup> “Rita Moreno,” *Emmy* 22, no. 6 (December 2000), 70. For the complete Television Academy interview with Moreno, see https://interviews.televisionacademy.com/interviews/rita-moreno.
+<a name="191"></a><sup>191</sup> “Rita Moreno,” *Emmy* 22, no. 6 (December 2000), 70. Para la entrevista completa de la Television Academy interview con Moreno, ver https://interviews.televisionacademy.com/interviews/rita-moreno.
 
 <a name="192"></a><sup>192</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Salvadoran Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-salvadoran-origin-latinos/.
 
@@ -404,7 +397,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="195"></a><sup>195</sup> Chávez, "How Did the Civil War in El Salvador End?,” 1784, 1793.
 
-<a name="196"></a><sup>196</sup> Madeline Messick and Claire Bergeron, “Temporary Protected Status in the United States: A Grant of Humanitarian Relief That Is Less Than Permanent,” *Migration Information Source*, July 2, 2014, https://www.migrationpolicy.org/article/temporary-protected-status-united-states-grant-humanitarian-relief-less-permanent. For recent information on TPS related to El Salvador, see U.S. Citizenship and Immigration Services, “Temporary Protected Status Designated Country: El Salvador,” last reviewed/updated November 1, 2019, https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador.
+<a name="196"></a><sup>196</sup> Madeline Messick and Claire Bergeron, “Temporary Protected Status in the United States: A Grant of Humanitarian Relief That Is Less Than Permanent,” *Migration Information Source*, July 2, 2014, https://www.migrationpolicy.org/article/temporary-protected-status-united-states-grant-humanitarian-relief-less-permanent. Para obtener información reciente sobre el TPS relacionado con El Salvador, consulte U.S. Citizenship and Immigration Services, “Temporary Protected Status Designated Country: El Salvador,” última revisión/actualización November 1, 2019, https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador.
 
 <a name="197"></a><sup>197</sup> “Escritor Salvadoreño Horacio Castellanos Moya Obtuvo el Premio de Narrativa Manuel Rojas,” Ministerio de las Culturas, las Artes y el Patrimonio, Gobierno de Chile, May 14, 2014, https://www.cultura.gob.cl/institucional/escritor-salvadoreno-horacio-castellanos-moya-obtuvo-el-premio-de-narrativa-manuel-rojas/.
 
@@ -412,7 +405,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="199"></a><sup>199</sup> Illegal Immigration Reform and Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, 110 Stat. 3009-546 (1996), https://www.govinfo.gov/content/pkg/PLAW-104publ208/pdf/PLAW-104publ208.pdf.  
 
-<a name="200"></a><sup>200</sup> Renata Keller, “A Historical Perspective on the Cuba-U.S. Relationship,” interview by Jason Steinhauer, *Insights: Scholarly Work at the John W. Kluge Center*, Library of Congress, December 19, 2014, https://blogs.loc.gov/kluge/2014/12/historical-perspectivecuba-u-s-relationship/.
+<a name="200"></a><sup>200</sup> Renata Keller, “A Historical Perspective on the Cuba-U.S. Relationship,” entrevista por Jason Steinhauer, *Insights: Scholarly Work at the John W. Kluge Center*, Library of Congress, December 19, 2014, https://blogs.loc.gov/kluge/2014/12/historical-perspectivecuba-u-s-relationship/.
 
 <a name="201"></a><sup>201</sup> Lisandro Pérez, "Cubans in the United States," *Annals of the American Academy of Political and Social Science*, 487 (September 1986): 126-37, http://www.jstor.com/stable/1046058; John Scanlan and Gilburt Loescher, “U.S. Foreign Policy, 1959-80: Impact on Refugee Flow from Cuba, *Annals of the American Academy of Political and Social Science* 467 (May 1983), 116-18, http://www.jstor.com/stable/1044932.
 
@@ -430,7 +423,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="208"></a><sup>208</sup> “The 30 Most Influential Latin Artists of All Time”; Howard Cohen, “Gloria Estefan’s Mother, Singer Gloria Fajardo, Dies at 88,” *Miami Herald*, June 14, 2017, https://www.miamiherald.com/news/local/obituaries/article156070134.html.
 
-<a name="209"></a><sup>209</sup> “Gloria and Emilio Estefan,” PBS (Public Broadcasting Service), accessed July 20, 2020, https://www.pbs.org/wgbh/latinmusicusa/legends/gloria-emilio-estefan/.
+<a name="209"></a><sup>209</sup> “Gloria and Emilio Estefan,” PBS (Public Broadcasting Service), accedida July 20, 2020, https://www.pbs.org/wgbh/latinmusicusa/legends/gloria-emilio-estefan/.
 
 <a name="210"></a><sup>210</sup> “The 30 Most Influential Latin Artists of All Time.”
 
