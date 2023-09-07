@@ -264,14 +264,6 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="129"></a><sup>129</sup> Library of Congress, “Crossing the Straits,” https://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/immigration/cuban5.html.
 
-
-
-
-
-
-
-
-
 <a name="130"></a><sup>130</sup> Federico Subervi, Joseph Torres, and Daniela Montalvo, *Network Brownout Report 2005: The Portrayal of Latinos & Latino Issues on Network Television News, 2004 with a Retrospect to 1995* (Austin and Washington, DC: National Association of Hispanic Journalists, 2005), https://nahj.org/wp-content/uploads/2021/01/2005-NAHJ-Network-Brownout-Report.pdf.
 
 <a name="131"></a><sup>131</sup> Federico Subervi, “Latinos in TV Network News 2008-2014: Still Mostly Invisible and Problematic,” January 2017, https://www.researchgate.net/publication/312577225.
@@ -311,6 +303,13 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 <a name="148"></a><sup>148</sup> Zatz, “Using and Abusing Mexican Farmworkers,” 851-63.
 
 <a name="149"></a><sup>149</sup> Matt Garcia, “César Chávez and the United Farm Workers Movement,” *Oxford Research Encyclopedias*, May 2016, DOI: 10.1093/acrefore/9780199329175.013.217.
+
+
+
+
+
+
+
 
 <a name="150"></a><sup>150</sup> Federico Subervi, with the collaboration of Vinicio Sinta, “Latinos in TV Network News 2008-2014: Still Mostly Invisible and Problematic,” January 2017, https://www.researchgate.net/publication/312577225.
 
