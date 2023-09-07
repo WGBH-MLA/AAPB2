@@ -312,7 +312,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="153"></a><sup>153</sup> Clint C. Wilson II, Félix Gutiérrez, and Lena M. Chao, “Chapter 1: Demographics,” in *Racism, Sexism, and the Media: Multicultural Issues into the New Communications Age*, 4th ed. (Los Angeles: Sage, 2013), 5.
 
-<a name="154"></a><sup>154</sup> Stuart Hall, “Old and New Identities, Old and New Ethnicities,” in *Essential Essays*, vol. 2 (Durham, NC: Duke University Press, 2019), 1653.
+<a name="154"></a><sup>154</sup> Stuart Hall, “Old and New Identities, Old and New Ethnicities,” en *Essential Essays*, vol. 2 (Durham, NC: Duke University Press, 2019), 1653.
 
 <a name="155"></a><sup>155</sup> Hall, “Old and New Identities,” citando Tariq Modood et al., eds., *Ethnic Minorities in Britain: Diversity and Disadvantage* (London: Policy Studies Institute, 1997).
 
