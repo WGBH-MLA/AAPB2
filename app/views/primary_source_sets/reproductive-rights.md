@@ -65,10 +65,10 @@ Is the right to control and make decisions related to contraception and childbea
 
 1) Ask students to watch or listen to the following sources:
 
-- [The History and Legal Arguments behind _Roe v. Wade](/primary_source_sets/reproductive_rights/2-6a6e525d19a) (2019)
-- [Teenage Abortion and the Right to Privacy](/primary_source_sets/reproductive_rights/4-507-np1wd3qs3r) (1979)
-- [The Supreme Court and the US Senate Race in Missouri](/primary_source_sets/reproductive_rights/8-525-rn3028qn9g) (2018)
-- [The Supreme Court Considers Overturning _Roe v. Wade](/primary_source_sets/reproductive_rights/9-bb394816d73) (2021)
+- [The History and Legal Arguments behind _Roe v. Wade](/primary_source_sets/reproductive-rights/2-6a6e525d19a) (2019)
+- [Teenage Abortion and the Right to Privacy](/primary_source_sets/reproductive-rights/4-507-np1wd3qs3r) (1979)
+- [The Supreme Court and the US Senate Race in Missouri](/primary_source_sets/reproductive-rights/8-525-rn3028qn9g) (2018)
+- [The Supreme Court Considers Overturning _Roe v. Wade](/primary_source_sets/reproductive-rights/9-bb394816d73) (2021)
 
 Lead a class discussion, asking students:
 What were the key arguments underpinning the Supreme Court’s decision in _Roe v. Wade_?   
@@ -92,9 +92,9 @@ Ask students to research one of the many reproductive rights cases (see link in 
 Ask students to watch the following sources:
 
 
-- [The National Abortion Rights Action League (NARAL) Mobilizes](/primary_source_sets/reproductive_rights/5-507-ff3kw5850t) (1985)
-- [The Tactics of Operation Rescue](/primary_source_sets/reproductive_rights/6-507-pc2t43js51) (1989)
-- [The Supreme Court and the US Senate Race in Missouri](/primary_source_sets/reproductive_rights/8-525-rn3028qn9g)  (2018)
+- [The National Abortion Rights Action League (NARAL) Mobilizes](/primary_source_sets/reproductive-rights/5-507-ff3kw5850t) (1985)
+- [The Tactics of Operation Rescue](/primary_source_sets/reproductive-rights/6-507-pc2t43js51) (1989)
+- [The Supreme Court and the US Senate Race in Missouri](/primary_source_sets/reproductive-rights/8-525-rn3028qn9g)  (2018)
 
 Lead a class discussion, asking students:
 Both NARAL and Operation Rescue supporters refer to “rights” when interviewed or addressing the public. To whose rights are they referring, and why do you think they framed their arguments in this manner?
@@ -109,9 +109,9 @@ The American women’s suffrage movement mobilized both men and women in an effo
 Ask students to watch or listen to the following sources:
 
 
-- [Hospital Review Committees Before _Roe v. Wade](/primary_source_sets/reproductive_rights/1-153-988gtx44) (1969)
-- [Restricting Public Funds for Abortion](/primary_source_sets/reproductive_rights/3-507-tq5r786j1v) (1977)
-- [The FDA Approves the Abortion Pill](/primary_source_sets/reproductive_rights/7-507-0z70v8b371) (2000)
+- [Hospital Review Committees Before _Roe v. Wade](/primary_source_sets/reproductive-rights/1-153-988gtx44) (1969)
+- [Restricting Public Funds for Abortion](/primary_source_sets/reproductive-rights/3-507-tq5r786j1v) (1977)
+- [The FDA Approves the Abortion Pill](/primary_source_sets/reproductive-rights/7-507-0z70v8b371) (2000)
 - [Physicians Consider the Post-_Roe_ Landscape](https://www.pbs.org/newshour/show/how-doctors-are-reacting-to-the-decision-to-overturn-roe-v-wade) (2022)
 
 Lead a class discussion, asking students:
