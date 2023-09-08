@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Image from Library of Congress.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/pres-lb-johnson.jpeg "Image from wikipedia Library of Congress.")
+![Image from Library of Congress.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/pres-lb-johnson_673px.png "Image from wikipedia Library of Congress.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/pres-lb-johnson.jpeg
@@ -25,8 +25,6 @@ Perhaps the most influential legislation were the 1965 Amendments to the Social 
 
 Efforts to fight the War on Poverty were ultimately hindered by various factors, including blowback from the political right, rising inflation, and the war in Vietnam, which by 1967 had captured an increasing share of public attention and the government budget.  Nevertheless, the War on Poverty and the broader Great Society marked a significant expansion of the American welfare state whose impact is still felt today (as shown by the persistence of Head Start, Food Stamps, and Medicaid). The War on Poverty also set the stage for debates about the role of government in American society in combating economic deprivation: how much should the government intervene, what strategies and programs should be used, and which American citizens should be given control of those programs?
 
-*Content Advisory: These archival materials may reference content that could be sensitive for some audiences. It is recommended that teachers and faculty preview these media sources to determine their appropriateness before sharing with students.*
-
 
 ## Teachingtips
 
@@ -36,6 +34,7 @@ The media sources in this collection introduce students to political conflicts r
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
+
 - The growing economic prosperity of the United States in the 1950s and 1960s
 - The Black Freedom Struggle
 - The Great Society programs established under President Lyndon Johnson
@@ -66,9 +65,9 @@ Why are people poor and what is the role of the state in alleviating poverty?
 
 1) The Political Debate about the War on Poverty   
 
-- [Michael Harrington Describes Poverty in The Other America (1962)](/primary_source_sets/war-on-poverty/1-516-3t9d50gq8v)
-- [Lyndon Johnson Declares an “Unconditional War on Poverty” (1964)](/primary_source_sets/war-on-poverty/2-528-0c4sj1bp2v)
-- [Economists Debate Government Intervention and Poverty (1966)](/primary_source_sets/war-on-poverty/3-512-wh2d796g05)
+- [Michael Harrington Describes Poverty in The Other America](/primary_source_sets/war-on-poverty/1-516-3t9d50gq8v) (1962)
+- [Lyndon Johnson Declares an “Unconditional War on Poverty”)](/primary_source_sets/war-on-poverty/2-528-0c4sj1bp2v) (1964
+- [Economists Debate Government Intervention and Poverty](/primary_source_sets/war-on-poverty/3-512-wh2d796g05) (1966)
 
 Ask students the following discussion questions:
 
@@ -85,9 +84,9 @@ What seem to be some right-wing criticisms about using government policy as a me
 Ask students to watch the following sources:
 
 
-- [Fighting the War on Poverty in Appalachia (1964)](https://americanarchive.org/primary_source_sets/war-on-poverty/4-516-1v5bc3tq2c)
-- [Fighting the War on Poverty in Urban Chicago (1966)](https://americanarchive.org/primary_source_sets/war-on-poverty/5-75-62s4n2s9)
-- [The Challenge of Local Administration in Community Action Programs (1965)](https://americanarchive.org/primary_source_sets/war-on-poverty/6-512-9g5gb1zb05)
+- [Fighting the War on Poverty in Appalachia](https://americanarchive.org/primary_source_sets/war-on-poverty/4-516-1v5bc3tq2c) (1964)
+- [Fighting the War on Poverty in Urban Chicago](https://americanarchive.org/primary_source_sets/war-on-poverty/5-75-62s4n2s9) (1966)
+- [The Challenge of Local Administration in Community Action Programs)](https://americanarchive.org/primary_source_sets/war-on-poverty/6-512-9g5gb1zb05) (1965)
 
 
 Ask students the following discussion questions:
@@ -102,7 +101,7 @@ Do you think the locally-run CAP’s were a good way to tackle the problem of po
 
 3) The War on Poverty and the Black Freedom Struggle
       
-Ask students to watch the following source:
+Ask students to watch the following video:
 
 - [LBJ Argues That “Freedom Is Not Enough” for African Americans](/primary_source_sets/war-on-poverty/7-293-st7dr2ps62) (1965) 
 
@@ -124,6 +123,7 @@ Ask students the following discussion questions:
 - How can you relate these clips to the emergence of the Black Power movement in the late 1960s?
 
 Finally, ask students to listen to the following source:
+
 - [Bayard Rustin Offers an Alternative: The “Freedom Budget”](/primary_source_sets/war-on-poverty/10-15-558czp6k) (1967)
 
 Ask students the following discussion questions:
@@ -132,11 +132,12 @@ Based on the clip description and the clip itself, what is Rustin’s critique o
 
 **Extension Activity**
 If you have time for an extension activity, have students write a “Letter to the Editor” channeling a particular perspective about Black community involvement in War on Poverty programs. Have students choose one of the following perspectives:
-a)	a supporter of Lyndon Johnson explaining why the War on Poverty is essential to granting opportunity and meaningful social equality to Black people 
-b)	a member of the CDGM in Mississippi arguing that the federal government must restore Head Start funding
-c)	a Los Angeles activist protesting the firing of Opal Jones   
-d)	a local government official arguing that professionals, rather than community activists, should be shaping the direction of CAPs .
-e)	a supporter of Bayard Rustin making the case that Black activists should fight for the enactment of a “Freedom Budget” rather than local control of CAPs
+
+- a supporter of Lyndon Johnson explaining why the War on Poverty is essential to granting opportunity and meaningful social equality to Black people 
+- a member of the CDGM in Mississippi arguing that the federal government must restore Head Start funding
+- a Los Angeles activist protesting the firing of Opal Jones   
+- a local government official arguing that professionals, rather than community activists, should be shaping the direction of CAPs.
+- a supporter of Bayard Rustin making the case that Black activists should fight for the enactment of a “Freedom Budget” rather than local control of CAPs
 
 4) Assessing the War on Poverty
 
@@ -159,12 +160,12 @@ Here are some questions you could have students discuss after they are done read
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/war_on_poverty_teaching_tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/war_on_poverty_teaching-tips.pdf
 
 ## Additionalresources
 
-
 - **[Lyndon B. Johnson: Domestic Affairs](https://millercenter.org/president/lbjohnson/domestic-affairs) (University of Virginia Miller Center)**
+  
 - **[LBJ and the Great Society](https://mass.pbslearningmedia.org/resource/pres10.socst.ush.now.greatsociety/lbj-and-the-great-society/) (PBS Learning Media)** 
 
 
