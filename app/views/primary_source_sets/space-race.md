@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Image from NASA.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/schmitt-with-flag.jpg "Image from NASA.")
+![Image from NASA.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/schmitt-with-flag_525px.png "Image from NASA.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/schmitt-with-flag.jpg
@@ -30,7 +30,9 @@ As a collection, this set of sources provides a broad history of how federal and
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
+
 - Forms of political dissent and counterculture movements of the 1960s, including various people’s rights movements (civil rights, gay rights, women’s liberation, Black Power), the student movement, anti-war movement, the rise of beat culture and hippies, and the rise of suburbs and resulting urban decay
+  
 - U.S. involvement in the Vietnam War
 
 
@@ -55,32 +57,27 @@ What was the significance of the space race in U.S. history?
 
 1) Ask students to listen to and watch the following sources:   
 
-- [NASA Administrator T. Keith Glennan Discusses NASA and U.S. Space Exploration (1960)](/primary_source_sets/space-race/3-500-2f7jtr8h)
-- [Apollo 11 Astronaut Buzz Aldrin Reflects on the 1969 Moon Landing (1998)](/primary_source_sets/space-race/7-15-s46h12wk93)
-- [Military Possibilities of the Space Shuttle (1981)](/primary_source_sets/space-race/8-507-p26pz52g0d)
+- [NASA Administrator T. Keith Glennan Discusses NASA and U.S. Space Exploration](/primary_source_sets/space-race/3-500-2f7jtr8h) (1960)
+- [Apollo 11 Astronaut Buzz Aldrin Reflects on the 1969 Moon Landing](/primary_source_sets/space-race/7-15-s46h12wk93) (1998)
+- [Military Possibilities of the Space Shuttle](/primary_source_sets/space-race/8-507-p26pz52g0d) (1981)
 
 
-- How do these different sources present the value of space exploration? 
-- What were perceptions of the relationship between the U.S. space program and U.S. strength and security?
-- What motivated the United States and Soviet Union to “race” when it came to space exploration? 
+How do these different sources present the value of space exploration? What were perceptions of the relationship between the U.S. space program and U.S. strength and security? What motivated the United States and Soviet Union to “race” when it came to space exploration? 
 
 2) Ask students to watch and listen to the following sources: 
 
-- [Russian Progress in Science (1960)](/primary_source_sets/space-race/1-500-542jbg75)
-- [The Space Race and Higher Education (1958)](/primary_source_sets/space-race/2-500-fq9q6c18)
+- [Russian Progress in Science](/primary_source_sets/space-race/1-500-542jbg75) (1960)
+- [The Space Race and Higher Education](/primary_source_sets/space-race/2-500-fq9q6c18) (1958)
 
-- Based on these two sources, how has education figured into space exploration? What types of education were considered necessary within the context of the Cold War? 
-- What resources did the United States and Soviet Union put toward education within the context of the Space Race? 
-- Are effects of the relationship between education and the space race apparent in U.S. education today?
+Based on these two sources, how has education figured into space exploration? What types of education were considered necessary within the context of the Cold War? What resources did the United States and Soviet Union put toward education within the context of the Space Race? Are effects of the relationship between education and the space race apparent in U.S. education today?
 
 3) Ask students to watch and listen to the following sources: 
 
-- [The Space Race and Higher Education (1958)](/primary_source_sets/space-race/2-500-fq9q6c18)
-- [NASA Astronauts and U.S. Culture (2019)](/primary_source_sets/space-race/5-e3dcb4b736c)
-- [Civil Rights Activists Protest Apollo 11 (2019)](/primary_source_sets/space-race/6-e3dcb4b736c)
+- [The Space Race and Higher Education](/primary_source_sets/space-race/2-500-fq9q6c18) (1958)
+- [NASA Astronauts and U.S. Culture](/primary_source_sets/space-race/5-e3dcb4b736c) (2019)
+- [Civil Rights Activists Protest Apollo 11](/primary_source_sets/space-race/6-e3dcb4b736c) (2019)
 
-- What did the space race signal about national priorities, values, or ideals? 
-- In the United States, whose interests has space exploration served?
+What did the space race signal about national priorities, values, or ideals? In the United States, whose interests has space exploration served?
 
 
 <hr>
@@ -103,7 +100,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/space_race_teac
 
 
 ## Youmayalsolike
-- exhibit,education
+- special-collectios,to-the-moon
 
 ## Citation
 
