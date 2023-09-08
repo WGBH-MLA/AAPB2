@@ -84,9 +84,9 @@ What seem to be some right-wing criticisms about using government policy as a me
 Ask students to watch the following sources:
 
 
-- [Fighting the War on Poverty in Appalachia](https://americanarchive.org/primary_source_sets/war-on-poverty/4-516-1v5bc3tq2c) (1964)
-- [Fighting the War on Poverty in Urban Chicago](https://americanarchive.org/primary_source_sets/war-on-poverty/5-75-62s4n2s9) (1966)
-- [The Challenge of Local Administration in Community Action Programs)](https://americanarchive.org/primary_source_sets/war-on-poverty/6-512-9g5gb1zb05) (1965)
+- [Fighting the War on Poverty in Appalachia](/primary_source_sets/war-on-poverty/4-516-1v5bc3tq2c) (1964)
+- [Fighting the War on Poverty in Urban Chicago](/primary_source_sets/war-on-poverty/5-75-62s4n2s9) (1966)
+- [The Challenge of Local Administration in Community Action Programs)](/primary_source_sets/war-on-poverty/6-512-9g5gb1zb05) (1965)
 
 
 Ask students the following discussion questions:
