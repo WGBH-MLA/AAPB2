@@ -2,10 +2,10 @@
 
 ## Thumbnail
 
-![Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/reprodcutive-rights-main.jpg "Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.")
+![Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/reproductive-rights-main-tb.png "Image from wikipedia https://en.wikipedia.org/wiki/Stop_the_Bans.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main-Reproductive-Rights.jpg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/reproductive-rights-main.jpeg
 ## Author
 
 Catherine Sardo Weidner, Lake Forest College
@@ -150,7 +150,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Reproductive-Ri
 
 
 ## Youmayalsolike
-- exhibit,education
+- exhibit,civil-rights
+- special_collection,woman-series
 
 ## Citation
 
