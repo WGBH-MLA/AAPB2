@@ -100,7 +100,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/space_race_teac
 
 
 ## Youmayalsolike
-- special-collectios,to-the-moon
+- special_collection,to-the-moon
 
 ## Citation
 
