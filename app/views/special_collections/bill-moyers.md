@@ -43,7 +43,6 @@ In 2015 Public Affairs Television began digitizing Moyers' work, which was submi
 
 ## Resources
 
-- [Bill Moyers Journal, PBS](https://www.pbs.org/moyers/journal/)
 - [Bill Moyers website](https://billmoyers.com/)
 - [Bill Moyers timeline](https://billmoyers.com/timeline/)
 - [Bill Moyers, Encyclopaedia Britannica](https://www.britannica.com/biography/Bill-Moyers)
