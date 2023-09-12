@@ -2,7 +2,7 @@
 
 1
 
-## Resumen
+## Summary
 
 *Empoderamiento latino mediante la radiodifusión pública* fue creado por dos pasantes en el Programa Nacional de Pasantías de la Asociación Hispana de Colegios y Universidades de la Biblioteca del Congreso (HACU por sus siglas en inglés). Alexandra García, que en aquel momento era estudiante de la Universidad de Puerto Rico, recinto de Cayey, concibió el tema de la exhibición, creó la estructura inicial, y terminó las primeras dos secciones de la exhibición: [Los orígenes de la radio comunidad latina](https://americanarchive.org/exhibits/empoderamiento-latino/2-los-origines-de-la-radio-communidad-latina); e [Historia de la televisión pública latina](https://americanarchive.org/exhibits/empoderamiento-latino/3-historia-de-la-television-publica-latina). Después de que la pasantía de Alexandra acabó, Gabriela Rivera Marín, que en aquel momento era estudiante de la Universidad de Puerto Rico, recinto de Río Piedras, y que actualmente es estudiante de doctorado en Lingüística hispánica de la Universidad de Florida, revisó la estructura de la exhibición y creó las últimas tres secciones: [La experiencia de inmigración a través de la radiodifusión pública](https://americanarchive.org/exhibits/empoderamiento-latino/4-la-experiencia-de-inmigracion-a-traves-de-la-radiodifusion-publica); [Voces del desacuerdo: la vida y los desafíos de la comunidad latina](https://americanarchive.org/exhibits/empoderamiento-latino/5-voces-de-desacuerdo); e [Identidad y Cultura](https://americanarchive.org/exhibits/empoderamiento-latino/6-identidad-y-cultura). 
 
