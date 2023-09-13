@@ -122,7 +122,7 @@
 
 <a name="59"></a><sup>59</sup> Beatrice Berg, “Anglos Can Watch, Too,” *New York Times*, December 17, 1972.
 
-ASK ABOUT THIS ONE<a name="60"></a><sup>60</sup> El Banquiné de Angelitos Negros can be viewed onsite at the Library of Congress and GBH.
+<a name="60"></a><sup>60</sup> El Banquiné de Angelitos Negros se puede ver en la Biblioteca del Congreso y GBH.
 
 <a name="61"></a><sup>61</sup> Noriega, *Shot in America*, 151.
 
