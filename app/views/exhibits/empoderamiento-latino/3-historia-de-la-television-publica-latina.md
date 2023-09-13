@@ -166,7 +166,7 @@ El narrador de la serie, Benjamin Bratt, caracterizó a *Latino Americanos* como
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-bc3st7fw1s?start=1562.18&end=2039.33" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/History-of-Latino-Television-Ray-Suarez-1.jpg" class="big-image" alt="Ray Suarez, de *PBS NewsHour* (MacNeil/Lehrer Productions & WETA, 2013)."></a></td></tr>
 </table>
 
-El corresponsal sénior de *PBS NewsHour*, Ray Suárez, quien escribió el libro complementario de la serie, [le dijo a su colega Gwen Ifill en una entrevista:](https://americanarchive.org/catalog/cpb-aacip-525-bc3st7fw1s?start=1562.18&end=2039.33):
+El corresponsal sénior de *PBS NewsHour*, Ray Suárez, quien escribió el libro complementario de la serie, [le dijo a su colega Gwen Ifill en una entrevista](https://americanarchive.org/catalog/cpb-aacip-525-bc3st7fw1s?start=1562.18&end=2039.33):
 
 > **Si hay algo que quiero que la gente se lleve del acto de leer este libro, es que recuerden o aprendan por primera vez cuánto aman este país las personas sobre las que escribo y lo único que querían era ser aceptados como todos los demás. Y que mantuvieron ese amor, mantuvieron ese afecto, y continuaron esa lucha, incluso cuando no recibían nada más que el rechazo de Estado Unidos. Es una historia extraordinaria. En lugar de alienarse, enojarse, y crear una sociedad separada dentro del país, siguieron luchando por la aceptación.**
 
