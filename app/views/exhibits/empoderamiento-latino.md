@@ -1,4 +1,4 @@
-# Empoderamiento Latino mediante la Radiodifusión Pública
+# Empoderamiento latino mediante la radiodifusión pública
 
 1
 
