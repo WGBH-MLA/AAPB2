@@ -102,13 +102,13 @@
 
 <a name="49"></a><sup>49</sup> Spanish ‘Sesame Street,’”; Aida Barrera, *Looking for Carrascolendas: From a Child’s World to Award-Winning Television* (Austin: University of Texas Press, 2001).
 
-<a name="50"></a><sup>50</sup> Chon A. Noriega, “Imagined Borders: Locating Chicano Cinema in America/América," in *The Ethnic Eye: Latino Media Arts*, ed. Chon A. Noriega and Ana M. López (Minneapolis: University of Minnesota Press, 1996), 9.
+<a name="50"></a><sup>50</sup> Chon A. Noriega, “Imagined Borders: Locating Chicano Cinema in America/América," en *The Ethnic Eye: Latino Media Arts*, ed. Chon A. Noriega and Ana M. López (Minneapolis: University of Minnesota Press, 1996), 9.
 
 <a name="51"></a><sup>51</sup> Jesús Salvador Treviño, *Eyewitness: A Filmmaker’s Memoir of the Chicano Movement* (Houston, TX: Arte Público, 2001), 123.
 
 <a name="52"></a><sup>52</sup> Noriega, “Imagined Borders,” 11-13; Noriega, *Shot in America*, 150.
 
-<a name="53"></a><sup>53</sup> Lillian Jiménez, “Moving from the Margin to the Center: Puerto Rican Cinema in New York," in *The Ethnic Eye: Latino Media Arts*, ed. Chon A. Noriega and Ana M. López (Minneapolis: University of Minnesota Press, 1996), 26.
+<a name="53"></a><sup>53</sup> Lillian Jiménez, “Moving from the Margin to the Center: Puerto Rican Cinema in New York," en *The Ethnic Eye: Latino Media Arts*, ed. Chon A. Noriega and Ana M. López (Minneapolis: University of Minnesota Press, 1996), 26.
 
 <a name="54"></a><sup>54</sup> Noriega, *Shot in America*, 150.
 
@@ -134,7 +134,7 @@ ASK ABOUT THIS ONE<a name="60"></a><sup>60</sup> El Banquiné de Angelitos Negro
 
 <a name="65"></a><sup>65</sup> WGBH, “La Plaza,” *Primetime Program Guide*, January 1979.
 
-<a name="66"></a><sup>66</sup> Alice Hernandez, Press Release *Images/Imagenes*, Rutgers University, New Brunswick, revised January 29, 2019.
+<a name="66"></a><sup>66</sup> Alice Hernandez, Press Release *Images/Imagenes*, Rutgers University, New Brunswick, revisado January 29, 2019.
 
 <a name="67"></a><sup>67</sup> William Q. Sánchez, entrevista con Alan Gevinson y Gabriela Rivera Marin (American Archive of Public Broadcasting), February 25, 2020.
 
@@ -232,7 +232,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="113"></a><sup>113</sup> Gustavo Arellano, “Prop. 187 Forced a Generation to Put Fear Aside and Fight. It Transformed California, and Me,” *Los Angeles Times*, October 29, 2019, https://www.latimes.com/california/story/2019-10-29/proposition-187-california-pete-wilson-essay.
 
-<a name="114"></a><sup>114</sup> *Fear and Learning at Hoover Elementary* se puede acceder en https://www.kanopy.com/product/fear-and-learning-hoover-elementary. Additional information can be found at http://archive.pov.org/fearandlearning/film-description/.
+<a name="114"></a><sup>114</sup> *Fear and Learning at Hoover Elementary* se puede acceder en https://www.kanopy.com/product/fear-and-learning-hoover-elementary. Puede encontrar información adicional en http://archive.pov.org/fearandlearning/film-description/.
 
 <a name="115"></a><sup>115</sup> Ballotpedia,“California Proposition 187.”
 
@@ -419,7 +419,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="206"></a><sup>206</sup> Greg Allen, “Children of Cuba Remember Their Flight to America,” NPR, November 19, 2011, https://www.npr.org/2011/11/19/142534943/pedro-pan-childrens-life-altering-flight-from-cuba.
 
-<a name="207"></a><sup>207</sup>“Carlos Eire,” Yale University, Department of History, accessed July 20, 2020, https://history.yale.edu/people/carlos-eire.
+<a name="207"></a><sup>207</sup>“Carlos Eire,” Yale University, Department of History, accedida July 20, 2020, https://history.yale.edu/people/carlos-eire.
 
 <a name="208"></a><sup>208</sup> “The 30 Most Influential Latin Artists of All Time”; Howard Cohen, “Gloria Estefan’s Mother, Singer Gloria Fajardo, Dies at 88,” *Miami Herald*, June 14, 2017, https://www.miamiherald.com/news/local/obituaries/article156070134.html.
 
