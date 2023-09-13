@@ -37,9 +37,9 @@ In 2015 Public Affairs Television began digitizing Moyers' work, which was submi
 [![Facing Hate with Elie Wiesel](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-fe27b297b15.jpg)](/catalog/cpb-aacip-fe27b297b15)
 [![Interview with Cornel West](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-a7a4db752ce.jpg)](/catalog/cpb-aacip-a7a4db752ce)
 [![Bill Moyers receiving Columbia University’s Alfred I. duPont Gold Baton Award](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-34818a74864.jpg)](/catalog/cpb-aacip-34818a74864)
-[![*Joseph Campbell and the Power of Myth*](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-079942f4ba7.jpg)](/catalog/cpb-aacip-079942f4ba7)
-[![*Sounds of Poetry*](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-1f108dcdc95.jpg)](/catalog/cpb-aacip-1f108dcdc95)
-[![*NOW with Bill Moyers*](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-6a6a315e9dc.jpg)](/catalog/cpb-aacip-6a6a315e9dc)
+[![Joseph Campbell and the Power of Myth](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-079942f4ba7.jpg)](/catalog/cpb-aacip-079942f4ba7)
+[![Sounds of Poetry](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-1f108dcdc95.jpg)](/catalog/cpb-aacip-1f108dcdc95)
+[![NOW with Bill Moyers](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-6a6a315e9dc.jpg)](/catalog/cpb-aacip-6a6a315e9dc)
 
 ## Resources
 
