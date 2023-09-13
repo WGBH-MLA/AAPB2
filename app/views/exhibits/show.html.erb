@@ -52,7 +52,7 @@
       <div id="exhibit-text-container" class="row exhibit-text" style="margin-left: 0;margin-right: 0;margin-top: 0;margin-bottom: 4%;">
 
         <h3 id="exhibit-overview-title" class="exhibit-title exhibit-color<%= @exhibit_color_suffix %>">
-          <%= @exhibit.subsection? ? @exhibit.title : 'Overview' %>
+          <%= @exhibit.display_title %>
         </h3>
 
         <span id="exhibit-summary" class="exhibit-main exhibit-interior-color<%= @exhibit_color_suffix %>">
