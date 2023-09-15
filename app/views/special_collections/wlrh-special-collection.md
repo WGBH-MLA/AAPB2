@@ -1,8 +1,8 @@
-# <em>WLRH Special Collection</em>
+# WLRH Special Collection
 
 ## Thumbnail
 
-![<em>WLRH Special Collection</em>](https://s3.amazonaws.com/americanarchive.org/special-collections/WLRH-logo.png "WLRH Special Collection")
+![WLRH Special Collection](https://s3.amazonaws.com/americanarchive.org/special-collections/WLRH-logo.png "WLRH Special Collection")
 
 ## Summary
 
