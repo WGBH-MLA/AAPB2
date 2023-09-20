@@ -10,6 +10,19 @@
 
 <a name="3"></a><sup>3</sup> For more analysis of the tape, see “Trying Questions.” CAN'T OPEN THE LINK IN THE NOTES DOCUMENT
 
+<a name="4"></a><sup>4</sup> Associated Press, “Grocer Given Probation in Shooting of Girl,” *New York Times*, November 17, 1991, https://www.nytimes.com/1991/11/17/us/grocer-given-probation-in-shooting-of-girl.html; Erika D. Smith, “The Killing of Latasha Harlins Was 30 Years Ago. Not Enough Has Changed,” *Los Angeles Times*, March 17, 2021, https://www.latimes.com/california/story/2021-03-17/latasha-harlins-memorial-playground-black-lives-matter-south-los-angeles. Watch Anna Deavere Smith’s take on the shooting of Latasha Harlins in her play *Twilight: Los Angeles* [here](https://www.pbs.org/video/great-performances-twilight-los-angeles-latasha-harlins/).
+
+<a name="5"></a><sup>5</sup> Associated Press, “Rodney King Riot: Timeline of Key Events,” AP News, April 26, 2017, https://apnews.com/article/fa4d04d8281443fc8db0e27d6be52081.
+
+<a name="6"></a><sup>6</sup> “Los Angeles Riots,” History.com, updated April 20, 2021, https://www.history.com/topics/1990s/the-los-angeles-riots 
+
+<a name="7"></a><sup>7</sup> James A. Henretta, et al., *America's History*, 3rd ed. (New York: Worth Publishers, 1997), 1035.
+
+<a name="8"></a><sup>8</sup> John Thornton Caldwell, *Televisuality: Style, Crisis, and Authority in American Television* (New Brunswick, N.J.: Rutgers University Press, 1995), 303.
+
+<a name="9"></a><sup>9</sup> Caldwell, *Televisuality*, 309-11. 
+
+<a name="10"></a><sup>10</sup> Charlayne Hunter-Gault, interview with Kate Mitchell, Alyssa Knapp, and Alan Gevinson (American Archive of Public Broadcasting), July 15, 2021.
 
 
 
@@ -17,21 +30,6 @@
 
 
 
-
-
-<a name="4"></a><sup>4</sup> Monica De La Torre, “‘*Programas Sin Vergüenza* (Shameless Programs)’: Mapping Chicanas in Community Radio in the 1970s,” *Women's Studies Quarterly* 43, no. 3/4 (Fall/Winter 2015): 175, http://www.jstor.org/stable/43958561.
-
-<a name="5"></a><sup>5</sup> Manzanárez, “KBBF,” 4.
-
-<a name="6"></a><sup>6</sup> Dolores Inés Casillas, *Sounds of Belonging: U.S. Spanish-Language Radio and Public Advocacy* (New York: New York University Press, 2014), 54.
-
-<a name="7"></a><sup>7</sup> Casillas, *Sounds of Belonging*, 64-76.
-
-<a name="8"></a><sup>8</sup> Casillas, *Sounds of Belonging*, 15-16.
-
-<a name="9"></a><sup>9</sup> Bilingual Broadcasting Foundation, “KBBF,” Santa Rosa: Bilingual Broadcasting Foundation, n.d., https://kbbf.org/wp-content/uploads/2017/04/KBBF-Old-Brochure-2.jpg.
-
-<a name="10"></a><sup>10</sup> Manzanárez, “KBBF.”
 
 <a name="11"></a><sup>11</sup> Manzanárez, “KBBF.”
 
