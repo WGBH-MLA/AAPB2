@@ -74,7 +74,7 @@
 
 <a name="35"></a><sup>35</sup> http://radiobilingue.org/en/quienes-somos/historia-y-mision/.
 
-<a name="36"></a><sup>36</sup> “Our Organization and Mission,” Radio Bilingüe; Dolores Inés Casillas, “Sounds of Surveillance: U.S. Spanish-Language Radio Patrols La Migra,” *American Quarterly* 63, no. 3 (2011): 821, http://www.jstor.org/stable/4123757.
+<a name="36"></a><sup>36</sup> “Our Organization and Mission,” Radio Bilingüe; Dolores Inés Casillas, “Sounds of Surveillance: U.S. Spanish-Language Radio Patrols La Migra,” *American Quarterly* 63, no. 3 (2011): 821, https://www.jstor.org/stable/41237577.
 
 <a name="37"></a><sup>37</sup> “About Us,” La Network Campesina, https://campesina.com/about/.
 
@@ -152,13 +152,13 @@
 
 <a name="74"></a><sup>74</sup> Noriega, *Shot in America*, 154-58; quote on 154.
 
-<a name="75"></a><sup>75</sup> Galán Incorporated Television & Film, http://www.galaninc.com/site/biography.
+<a name="75"></a><sup>75</sup> Hector Galán, entrevista con Maria Hinojosa, Latino USA, July 7, 2023, https://www.latinousa.org/2023/07/07/hectorgalan/.
 
-<a name="76"></a><sup>76</sup> Carla Hall, “PBS Magazine for Teens Worth Checking Out,” *Washington Post*, January 9, 1982, C6; Galán Incorporated Television & Film, http://www.galaninc.com/site/filmography/1981/10/checking-it-out-senior-producer/.
+<a name="76"></a><sup>76</sup> Carla Hall, “PBS Magazine for Teens Worth Checking Out,” *Washington Post*, January 9, 1982, C6; Hector Galán, entrevista con Maria Hinojosa.
 
 <a name="77"></a><sup>77</sup> Hector Galán, quoted in Jason Price, “Galan, Hector,” in *The Concise Routledge Encyclopedia of the Documentary Film*, ed. Ian Aitken (New York: Routledge, 2013), 280-81.
 
-<a name="78"></a><sup>78</sup> Galán Incorporated Television & Film, http://www.galantvfilm.com/filmography.html; Susan King, “Classic Hollywood: ‘Children of Giant’ Explores Legacy of ‘Giant’ in Marfa, Texas,” *Los Angeles Times*, April 11, 2005, https://www.latimes.com/entertainment/classichollywood/la-et-mn-ca-classic-hollywood-children-giant-20150412-story.html.
+<a name="78"></a><sup>78</sup> Hector Galán, “Films,” https://hectorgalan.com/films; Susan King, “Classic Hollywood: ‘Children of Giant’ Explores Legacy of ‘Giant’ in Marfa, Texas,” *Los Angeles Times*, April 11, 2005, https://www.latimes.com/entertainment/classichollywood/la-et-mn-ca-classic-hollywood-children-giant-20150412-story.html.
 
 <a name="79"></a><sup>79</sup> Noriega, *Shot in America*, 181-82.
 
@@ -183,7 +183,7 @@ https://www.nps.gov/stli/learn/historyculture/colossus.htm.
 
 <a name="89"></a><sup>89</sup> Roger Daniels, *Coming to America: A History of Immigration and Ethnicity in American Life* (New York: HarperCollins, 1990), 265-84.
 
-<a name="90"></a><sup>90</sup> Lyndon B. Johnson, “President Lyndon B. Johnson’s Remarks at the Signing of the Immigration Bill,” October 3, 1965, LBJ Presidential Library, http://www.lbjlibrary.org/lyndon-baines-johnson/timeline/lbj-on-immigration.
+<a name="90"></a><sup>90</sup> "Remarks at the Signing of the Immigration Bill, Liberty Island, New York, October 3, 1965,” LBJ Presidential Library, https://www.lbjlibrary.org/object/text/remarks-signing-immigration-bill-liberty-island-new-york-10-03-1965.
 
 <a name="91"></a><sup>91</sup> Steven M. Gillon, “*That’s Not What We Meant to Do”: Reform and Its Unintended Consequences in Twentieth-Century America* (New York: W. W. Norton, 2000).
 
@@ -191,7 +191,7 @@ https://www.nps.gov/stli/learn/historyculture/colossus.htm.
 
 <a name="93"></a><sup>93</sup> Katherine Witsman, “U.S. Lawful Permanent Resident: 2017,” *Annual Flow Report* (U.S. Department of Homeland Security, Office of Immigration Statistics, August 2018), 2, https://www.dhs.gov/sites/default/files/publications/Lawful_Permanent_Residents_2017.pdf.
 
-<a name="94"></a><sup>94</sup> Regina Branton and Johanna Dunaway, “English- and Spanish-Language Media Coverage of Immigration: A Comparative Analysis, *Social Science Quarterly*, 89, no. 4 (December 2008): 1006-22, doi:http://dx.doi.org/10.1111/j.1540-6237.2008.00596.x.
+<a name="94"></a><sup>94</sup> Regina Branton and Johanna Dunaway, “English- and Spanish-Language Media Coverage of Immigration: A Comparative Analysis", *Social Science Quarterly*, 89, no. 4 (December 2008): 1006-22, doi:http://dx.doi.org/10.1111/j.1540-6237.2008.00596.x.
 
 <a name="95"></a><sup>95</sup> Francisco E. Balderrama and Raymond Rodríguez, *Decade of Betrayal: Mexican Repatriation in the 1930s*, rev. ed. (Albuquerque: University of New Mexico Press, 2006); Kevin R. Johnson, “The Forgotten ‘Repatriation’ of Persons of Mexican Ancestry and Lessons for the ‘War on Terror,” 26 *Pace Law Review* 1 (2005), 1-26, https://digitalcommons.pace.edu/plr/vol26/iss1/1/.
 
@@ -199,7 +199,7 @@ https://www.nps.gov/stli/learn/historyculture/colossus.htm.
 
 <a name="97"></a><sup>97</sup> Alicia Schmidt Camacho, *Migrant Imaginaries* (New York: New York University Press, 2008), 67-68; Bracero History Archive, “About,” Roy Rosenzweig Center for History and New Media, George Mason University, Smithsonian National Museum of American History, Brown University, The Institute of Oral History at the University of Texas at El Paso, 2020, http://braceroarchive.org/about.
 
-<a name="98"></a><sup>98</sup> Marjorie S. Zatz, “Using and Abusing Mexican Farmworkers: The Bracero Program and the INS,” *Law & Society Review* 27, no. 4 (1993), 860, https://doi:10.2307/3053955.
+<a name="98"></a><sup>98</sup> Marjorie S. Zatz, “Using and Abusing Mexican Farmworkers: The Bracero Program and the INS,” *Law & Society Review* 27, no. 4 (1993), 860, https://doi.org:10.2307/3053955.
 
 <a name="99"></a><sup>99</sup> Camacho, *Migrant Imaginaries*, 108.
 
@@ -228,7 +228,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="111"></a><sup>111</sup> Gutiérrez, "Mexican Immigration.”
 
-<a name="112"></a><sup>112</sup> Ballotpedia, “California Proposition 187, Illegal Aliens Ineligible for Public Benefits,” https://ballotpedia.org/California_Proposition_187,_Illegal_Aliens_Ineligible_for_Public_Benefits_(1994).
+<a name="112"></a><sup>112</sup> Ballotpedia, “California Proposition 187, Prohibit Persons in Violation of Immigration Law from Using Public Healthcare, Schools, and Social Services Initiative (1994),” https://ballotpedia.org/California_Proposition_187,_Prohibit_Persons_in_Violation_of_Immigration_Law_from_Using_Public_Healthcare,_Schools,_and_Social_Services_Initiative_(1994).
 
 <a name="113"></a><sup>113</sup> Gustavo Arellano, “Prop. 187 Forced a Generation to Put Fear Aside and Fight. It Transformed California, and Me,” *Los Angeles Times*, October 29, 2019, https://www.latimes.com/california/story/2019-10-29/proposition-187-california-pete-wilson-essay.
 
@@ -254,7 +254,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="124"></a><sup>124</sup> Casillas, “Sounds of Surveillance,” 814.
 
-<a name="125"></a><sup>125</sup> Carol Nagengast, “Militarizing the Border Patrol,” *NACLA Report on the Americas*, 32, issue 3 (Nov/Dec 1998), DOI: 10.1080/110714839.1998.11725652.
+<a name="125"></a><sup>125</sup> Carol Nagengast, “Militarizing the Border Patrol,” *NACLA Report on the Americas*, 32, issue 3 (Nov/Dec 1998), https://doi.org/10.1080/10714839.1998.11725652.
 
 <a name="126"></a><sup>126</sup> “Images/Imágenes Series: Award Winning Leader in Public Broadcasting,” press release, no date.
 
@@ -276,23 +276,23 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="135"></a><sup>135</sup> Gabriela Livas Stein et al., “When Discrimination Hurts: The Longitudinal Impact of Increases in Peer Discrimination on Anxiety and Depressive Symptoms in Mexican-origin Youth,” *Journal of Youth and Adolescence* 48 (2019), 864-75, https://doi.org/10.1007/s10964-019-01012-3.
 
-<a name="136"></a><sup>136</sup> Gloria Stewner-Manzanares, “The Bilingual Education Act: 20 Years Later,” National Clearinghouse for Bilingual Education, *Occasional Papers in Bilingual Education*, no. 6 (Fall 1988), 1-10, https://ncela.ed.gov/files/rcd/BE021037/Fall88_6.pdf.
+<a name="136"></a><sup>136</sup> Gloria Stewner-Manzanares, “The Bilingual Education Act: 20 Years Later,” National Clearinghouse for Bilingual Education, *Occasional Papers in Bilingual Education*, no. 6 (Fall 1988), 1-10.
 
 <a name="137"></a><sup>137</sup> David Nieto, “A Brief History of Bilingual Education in the United States,” *Perspectives on Urban Education* (Spring 2009), 61-72, https://urbanedjournal.gse.upenn.edu/sites/default/files/pdf_archive/61-72--Nieto.pdf.
 
-<a name="138"></a><sup>138</sup> William J. Bennett, “The Condition of Bilingual Education in the Nation, 1988: A Report to Congress and the President”(Washington: Department of Education, 1988), 1-10.
+<a name="138"></a><sup>138</sup> William J. Bennett, “The Condition of Bilingual Education in the Nation, 1988: A Report to Congress and the President” (Washington: Department of Education, 1988), 1-10.
 
 <a name="139"></a><sup>139</sup> David Nieto, “Brief History of Bilingual Education,” 62.
 
 <a name="140"></a><sup>140</sup> Gonzalez, *Harvest of Empire*, ix.
 
-<a name="141"></a><sup>141</sup> Ballotpedia, “California Proposition 227, the ‘English in Public Schools’ Initiative (1998),” https://ballotpedia.org/California_Proposition_227,_the_%22English_in_Public_Schools%22_Initiative_(1998).
+<a name="141"></a><sup>141</sup> Ballotpedia, “California Proposition 227, Require English Instruction in Public Schools Initiative (June 1998),” https://ballotpedia.org/California_Proposition_227,_Require_English_Instruction_in_Public_Schools_Initiative_(June_1998).
 
 <a name="142"></a><sup>142</sup> Ballotpedia, “California Proposition 58, Non-English Languages Allowed in Public Education,” https://ballotpedia.org/California_Proposition_58,_Non-English_Languages_Allowed_in_Public_Education_(2016).
 
-<a name="143"></a><sup>143</sup> Thomas Purnell, William Idsardi, and John Baugh, “Perception and Phonetic Experiments on American English Dialect Identification,” *Journal of Language and Social Psychology* 18, no. 1 (March 1999), 10-30, DOI: 10.1177/0261927X99018001002.
+<a name="143"></a><sup>143</sup> Thomas Purnell, William Idsardi, and John Baugh, “Perceptual and Phonetic Experiments on American English Dialect Identification,” *Journal of Language and Social Psychology* 18, no. 1 (March 1999), 10-30, https://doi.org/10.1177/0261927X99018001002.
 
-<a name="144"></a><sup>144</sup> Andrew Hanson and Michael Santas, “Field Experiment Tests for Discrimination against Hispanics in the U.S. Rental Housing Market,” *Southern Economic Journal* 81, no. 1 (July 2014), 135-67, DOI.10.4284/0038-4038-2012.231.
+<a name="144"></a><sup>144</sup> Andrew Hanson and Michael Santas, “Field Experiment Tests for Discrimination against Hispanics in the U.S. Rental Housing Market,” *Southern Economic Journal* 81, no. 1 (July 2014), 135-67, https://www.jstor.org/stable/23809668.
 
 <a name="145"></a><sup>145</sup> Robert McG. Thomas Jr., “Newark Fire Kills Five in a Tenement,” *New York Times*, February 5, 1979, D9; Alfonso A. Narvaez, “Major Jersey Cities Find Themselves in the Role of Reluctant Slumlords,” *New York Times*, February 9, 1979, B3.
 
@@ -302,7 +302,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="148"></a><sup>148</sup> Zatz, “Using and Abusing Mexican Farmworkers,” 851-63.
 
-<a name="149"></a><sup>149</sup> Matt Garcia, “César Chávez and the United Farm Workers Movement,” *Oxford Research Encyclopedias*, May 2016, DOI: 10.1093/acrefore/9780199329175.013.217.
+<a name="149"></a><sup>149</sup> Matt Garcia, “César Chávez and the United Farm Workers Movement,” *Oxford Research Encyclopedias*, May 2016, https://doi.org/10.1093/acrefore/9780199329175.013.217.
 
 <a name="150"></a><sup>150</sup> Federico Subervi, with the collaboration of Vinicio Sinta, “Latinos in TV Network News 2008-2014: Still Mostly Invisible and Problematic,” January 2017, https://www.researchgate.net/publication/312577225.
 
@@ -322,7 +322,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="158"></a><sup>158</sup> “Mexican - Becoming Part of the United States,” Presentation: Immigration and Relocation in U.S. History, Classroom Materials at the Library of Congress,” accessed September 9, 2020, https://www.loc.gov/classroom-materials/immigration/mexican/becoming-part-of-the-united-states/.  
 
-<a name="159"></a><sup>159</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Mexican Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-mexican-origin-latinos/.
+<a name="159"></a><sup>159</sup> Mohamad Moslimani, Luis Noe-Bustamante, and Sono Shah, “Facts on Hispanics of Mexican Origin in the United States, 2021,” Pew Research Center, Fact Sheet, August 16, 2023, https://www.pewresearch.org/hispanic/fact-sheet/us-hispanics-facts-on-mexican-origin-latinos/.
 
 <a name="160"></a><sup>160</sup> Sheila Marie Contreras, “Chicana, Chicano, Chican@, Chicanx,” in *Keywords for Latina/o Studies*, ed. by Deborah R. Vargas, Nancy Raquel Mirabel, and Lawrence La Fontain-Stokes (New York: New York University Press, 2017), 32.
 
@@ -330,11 +330,11 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="162"></a><sup>162</sup> Luis Alberto Urrea, “Mexican-American Author Finds Inspiration in Family, Tragedy and Trump,” interview by Terry Gross, *Fresh Air*, NPR, March 5, 2018, https://www.npr.org/2018/03/05/590839936/mexican-american-author-finds-inspiration-in-family-tragedy-and-trump.
 
-<a name="163"></a><sup>163</sup> “Luis Alberto Urrea,” U.S. Embassy in Argentina, March 31, 2017, https://ar.usembassy.gov/education-culture/los-angeles-guest-city-buenos-aires-international-book-fair/luis-alberto-urrea/.
+<a name="163"></a><sup>163</sup> Luis Alberto Urrea, “About,” 1923, https://luisurrea.com/about/.
 
 <a name="164"></a><sup>164</sup> “Selena Quintanilla,” Texas Women's Hall of Fame – Honorees, Texas Women's University, October 16, 2018, https://twu.edu/twhf/honorees/selena-quintanilla/.
 
-<a name="165"></a><sup>165</sup> John Lannert, “Beloved Selena Enters the Latin Music Hall of Fame,” *Billboard*, June 10, 1995, Gale OneFile: Popular Magazines, https://link.gale.com/apps/doc/A17157532/PPPM?u=loc_main&sid=PPPM&xid=092e6c35; “The 30 Most Influential Latin Artists of All Time,” *Billboard*, April 28, 2015, https://www.billboard.com/photos/6546212/most-influential-latin-artists?i=553955.
+<a name="165"></a><sup>165</sup> John Lannert, “Beloved Selena Enters the Latin Music Hall of Fame,” *Billboard*, June 10, 1995, Gale OneFile: Popular Magazines, https://link.gale.com/apps/doc/A17157532/PPPM?u=loc_main&sid=PPPM&xid=092e6c35; “The 30 Most Influential Latin Artists of All Time,” *Billboard*, April 28, 2015, https://www.billboard.com/photos/most-influential-latin-artists-6546212/.
 
 <a name="166"></a><sup>166</sup> Matt Garcia, “Cesar Chavez and the United Farm Workers Movement,” *Oxford Research Encyclopedia of American History*, September 2016, https://doi.org/10.1093/acrefore/9780199329175.013.217.
 
@@ -346,13 +346,13 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="170"></a><sup>170</sup> “La Bamba,” Golden Globe Awards, January 1, 1988, https://www.goldenglobes.com/film/la-bamba.
 
-<a name="171"></a><sup>171</sup> National Geographic Society, “Dia De Los Muertos,” National Geographic Society, November 9, 2012, https://www.nationalgeographic.org/media/dia-de-los-muertos/.
+<a name="171"></a><sup>171</sup> National Geographic Society, “What Is the Day of the Dead?” video, September 27, 2022, National Geographic Society, November 9, 2012, https://education.nationalgeographic.org/resource/what-day-dead/.
 
 <a name="172"></a><sup>172</sup> https://www.loc.gov/rr/hispanic/1898/jonesact.html.
 
 <a name="173"></a><sup>173</sup> José Trías Monge, *Puerto Rico: The Trials of the Oldest Colony in the World* (New Haven: Yale University Press, 1997).
 
-<a name="174"></a><sup>174</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Puerto Rican Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/latinos-in-the-u-s-fact-sheet/.
+<a name="174"></a><sup>174</sup> Mohamad Moslimani, Luis Noe-Bustamante, and Sono Shah, “Facts on Hispanics of Puerto Rican Origin in the United States, 2021,” Pew Research Center, Fact Sheet, August 16, 2023, https://www.pewresearch.org/hispanic/fact-sheet/us-hispanics-facts-on-puerto-rican-origin-latinos/.
 
 <a name="175"></a><sup>175</sup> Raquel Ortiz, interview with Gabriela Rivera Marin (American Archive of Public Broadcasting), May 15, 2020.
 
@@ -389,7 +389,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="191"></a><sup>191</sup> “Rita Moreno,” *Emmy* 22, no. 6 (December 2000), 70. For the complete Television Academy interview with Moreno, see https://interviews.televisionacademy.com/interviews/rita-moreno.
 
-<a name="192"></a><sup>192</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Salvadoran Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-salvadoran-origin-latinos/.
+<a name="192"></a><sup>192</sup> Mohamad Moslimani, Luis Noe-Bustamante, and Sono Shah, “Facts on Hispanics of Salvadoran origin in the United States, 2021,” Pew Research Center, Fact Sheet, August 16, 2023, https://www.pewresearch.org/hispanic/fact-sheet/us-hispanics-facts-on-salvadoran-origin-latinos/.
 
 <a name="193"></a><sup>193</sup> Joaquín M. Chávez, "How Did the Civil War in El Salvador End?" *American Historical Review* 120, no. 5 (December 2015), 1784-1797.
 
@@ -415,7 +415,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="204"></a><sup>204</sup> White House, President Barack Obama, “Statement by the President on Cuban Immigration Policy,” January 12, 2017, https://obamawhitehouse.archives.gov/the-press-office/2017/01/12/statement-president-cuban-immigration-policy; Weekend Edition, “What the End of ‘Wet-Foot, Dry-Foot’ Means for Cubans,” NPR, January 14, 2017, https://www.npr.org/2017/01/14/509807177/what-the-end-of-wet-foot-dry-foot-means-for-cubans.
 
-<a name="205"></a><sup>205</sup> Luis Noe-Bustamante, Antonio Flores, and Sono Shah, “Facts on Hispanics of Cuban Origin in the United States, 2017,” Pew Research Center's Hispanic Trends Project, September 16, 2019, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-cuban-origin-latinos/.
+<a name="205"></a><sup>205</sup> Mohamad Moslimani, Luis Noe-Bustamante, and Sono Shah, “Facts on Hispanics of Cuban origin in the United States, 2021,” Pew Research Center, Fact Sheet, August 16, 2023, https://www.pewresearch.org/hispanic/fact-sheet/u-s-hispanics-facts-on-cuban-origin-latinos/.
 
 <a name="206"></a><sup>206</sup> Greg Allen, “Children of Cuba Remember Their Flight to America,” NPR, November 19, 2011, https://www.npr.org/2011/11/19/142534943/pedro-pan-childrens-life-altering-flight-from-cuba.
 
@@ -423,7 +423,7 @@ https://www.history.com/news/operation-wetback-eisenhower-1954-deportation.
 
 <a name="208"></a><sup>208</sup> “The 30 Most Influential Latin Artists of All Time”; Howard Cohen, “Gloria Estefan’s Mother, Singer Gloria Fajardo, Dies at 88,” *Miami Herald*, June 14, 2017, https://www.miamiherald.com/news/local/obituaries/article156070134.html.
 
-<a name="209"></a><sup>209</sup> “Gloria and Emilio Estefan,” PBS (Public Broadcasting Service), accessed July 20, 2020, https://www.pbs.org/wgbh/latinmusicusa/legends/gloria-emilio-estefan/.
+<a name="209"></a><sup>209</sup> AllMusic, “Biography: Gloria Estefan,” 2023, https://www.allmusic.com/artist/gloria-estefan-mn0000664817/biography.
 
 <a name="210"></a><sup>210</sup> “The 30 Most Influential Latin Artists of All Time.”
 
