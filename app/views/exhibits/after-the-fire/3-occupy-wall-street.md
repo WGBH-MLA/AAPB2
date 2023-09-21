@@ -22,7 +22,7 @@ In September 2011, to protest growing economic inequality in America, the Occupy
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">UPDATE COVER IMAGE
+  <img title="Cover Image" alt="Screenshot of a U.C. Davis university police officer pepper-spraying student protesters at close range." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ucdavis.png">
 
 ## Gallery
 
