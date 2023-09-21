@@ -34,7 +34,7 @@ For a complete list of events included in the exhibition and the corresponding c
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">UPDATE COVER IMAGE
+  <img title="Cover Image" alt="James Bessanger (left) and Shakem (right) during their interview with Hari Sreenivasan in a "Race Matters" segment." src="https://s3.amazonaws.com/americanarchive.org/exhibits/bessanger-shakem.png">
 
 ## Gallery
 
