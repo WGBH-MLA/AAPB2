@@ -27,7 +27,7 @@ Back in the studio, the *NewsHour*’s focus shifted towards policing. Guests re
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">UPDATE COVER IMAGE
+  <img title="Cover Image" alt="Gwen Ifill moderating a PBS Town Hall Meeting in Ferguson, Missouri." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ferguson.png">
 
 ## Gallery
 
