@@ -35,7 +35,7 @@ For a complete list of events included in the exhibition and the corresponding c
 
 ## Cover
 
-<img title="Cover Image" alt="James Bessanger and Shakem during their interview with Hari Sreenivasan in a "Race Matters" segment." src="https://s3.amazonaws.com/americanarchive.org/exhibits/bessanger-shakem.png">
+<img title="Cover Image" alt="James Bessanger and Shakem during their interview with Hari Sreenivasan in a "Race Matters" segment" src="https://s3.amazonaws.com/americanarchive.org/exhibits/bessanger-shakem.png">
 
 ## Gallery
 
