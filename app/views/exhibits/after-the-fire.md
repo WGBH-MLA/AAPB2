@@ -15,9 +15,6 @@
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/kate-mitchell.jpg"/>
   <a class="name">Kate Mitchell</a>
   <a class="title">2021 Library of Congress Junior Fellow and Master of Information student at Rutgers University School of Communication & Information</a>
-- <img class="img-circle pull-left" src="NEED IMAGE"/>
-  <a class="name">Hailey Williams</a>
-  <a class="title">MFA Candidate in Poetry, College of Charleston</a>
 
 ## Resources
 
