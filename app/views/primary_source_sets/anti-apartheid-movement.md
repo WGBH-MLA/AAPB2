@@ -50,7 +50,7 @@ How did activists seek to end apartheid in South Africa?
 
 - How were Black South Africans oppressed? Why were they oppressed? 
 - How did activists connect apartheid in South Africa to issues in the United States?
-- What were reactions to Reagan’s 1985 sanctions? Why might the reactions have varied? 
+- What were the reactions to Reagan’s 1985 sanctions? Why might the reactions have varied? 
 - What were the strengths and limitations of the different strategies that activists used to try to bring about the end of apartheid? 
 
 
@@ -73,14 +73,14 @@ How do the speakers in these sources describe conditions under apartheid? How ar
 - [Reactions in South Africa to President Ronald Reagan’s Sanctions](/primary_source_sets/anti-apartheid-movement/7-507-4b2x34n68t) (1985)
 - [Interview With Assistant Secretary of State Chester Crocker](/primary_source_sets/anti-apartheid-movement/8-507-1j9765b01t) (1986)
 
-What were reactions to President Ronald Reagan’s sanctions against South Africa? How were they similar? How did they differ? How might the backgrounds of the different speakers help to explain the differing reactions? 
+What were the reactions to President Ronald Reagan’s sanctions against South Africa? How were they similar? How did they differ? How might the backgrounds of the different speakers help to explain the differing reactions? 
 
 
 <hr>
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/space_race_teaching_tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/anti_apartheid_movement.pdf
 
 
 
@@ -101,7 +101,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/space_race_teac
 - exhibit,civil-rights
 ## Citation
 
-Breakstone, Joel. "The Anti-Apartheid Movement in the United States." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/anti-apartheid-movement.
+Breakstone, Joel. "The Anti-Apartheid Movement in the United States" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/anti-apartheid-movement.
 
 ## Guid
 ## Cliptime
