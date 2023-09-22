@@ -22,7 +22,7 @@ In 2015, Freddie Gray, a 25-year-old Black man, died in Baltimore police custody
 ## Resources
 
 ## Cover
-  <img title="Cover Image" alt="Screenshot showing rioting in Baltimore." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Baltimore-rioting.png">
+  <img title="Cover Image" alt="Fig 6. Screenshot showing rioting in Baltimore." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Baltimore-rioting.png">
 
 ## Gallery
 
