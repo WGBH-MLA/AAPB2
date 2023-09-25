@@ -29,7 +29,7 @@ From 1991 to 2021, these incidents of civil unrest served as catalysts for the *
 
 For a complete list of events included in the exhibition and the corresponding coverage, see the Annotated List of Events (ADD HYPERLINK).
 
-#### Next: [Notes](/exhibits/after-the-fire/notes)
+#### Next: [Annotated List of Events](/exhibits/after-the-fire/7-annotated-list-of-events)
 
 ## Resources
 
