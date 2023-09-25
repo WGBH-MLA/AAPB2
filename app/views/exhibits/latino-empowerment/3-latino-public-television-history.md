@@ -332,3 +332,8 @@ PBS NewsHour senior correspondent Ray Suarez, who wrote the companion book for t
 - [](/catalog/cpb-aacip-88-96wwq7wk)
 - [](/catalog/cpb-aacip-259-zc7rr91c)
 - [](/catalog/cpb-aacip-259-rv0czm77)
+- [](/catalog/cpb-aacip-22b93d97ee5)
+- [](/catalog/cpb-aacip-72870b8a438)
+- [](/catalog/cpb-aacip-237a0500f36)
+- [](/catalog/cpb-aacip-b4d866d4a17)
+- [](/catalog/cpb-aacip-d51d29f8434)
