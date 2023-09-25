@@ -320,7 +320,7 @@ On January 6, 2021, in an attempt to block certification by a joint session of C
 
 ## Cover
 
-<img title="Cover Image" alt="Screenshot of a demonstration in Baltimore." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Baltimore-demonstration.png">
+<img title="Cover Image" alt="Screenshot of a segment titled "Outrage"." src="https://s3.amazonaws.com/americanarchive.org/exhibits/woodruff-outrage.png">
 
 ## Gallery
 
