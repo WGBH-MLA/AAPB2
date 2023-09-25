@@ -2,7 +2,7 @@
 
 1
 
-## Overview
+## Summary
 
 *After the Fire: NewsHour Coverage of Civil Unrest in America, 1991-2021* presents coverage of major events of civil unrest in America from the early 1990s to 2021 by the *PBS NewsHour* and its predecessors, *The MacNeil/Lehrer NewsHour* and *The NewsHour with Jim Lehrer*. By spotlighting the segments and series centered around these events, this exhibition explores the ways in which the *NewsHour* has attempted to understand and unpack civil unrest in America. Specifically, this exhibition highlights the *NewsHour*’s coverage of the L.A. Riots (or the Rodney King Riots), the Occupy Wall Street Movement, the Ferguson Protests, the Baltimore Protests, and the Charlottesville “Unite the Right” Rally and Counter-Protests. An accompanying annotated list includes additional events of civil unrest from 1991 to 2021 with links to relevant *NewsHour* coverage. 
 
