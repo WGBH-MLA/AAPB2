@@ -10,7 +10,7 @@
 
 ### Introduction
 
-#### 1991, Crown Heights Riot
+#### 1991, Crown Heights Riots
 
 The riots broke on August 19, 1991, following the death of a seven-year-old Black boy, Gavin Cato. He and his sister, who was severely injured, were hit by a car driven by a Hasidic Jewish man in the Crown Heights neighborhood of Brooklyn, New York. In response, a number of Hasidic Jews in Brooklyn were attacked by groups of young Black men, resulting in the death of a visiting student, Yankel Rosenbaum.[<sup>11</sup>](/exhibits/after-the-fire/notes#11)
 
@@ -188,7 +188,7 @@ After the police shooting of Keith Lamont Scott, a 43-year-old Black man, demons
     - [Interview with Yamiche Alcindor](https://americanarchive.org/catalog/cpb-aacip-525-5t3fx74w4d?start=185.52&end=641.78)
     - [Shields/Brooks Analysis](https://americanarchive.org/catalog/cpb-aacip-525-5t3fx74w4d?start=1604.46&end=2055.71)
 
-#### 2016 Dakota Access Pipeline Protests
+#### 2016, Dakota Access Pipeline Protests
 
 In protesting the Dakota pipeline’s route through the Missouri River, the water source for the Standing Rock Sioux Reservation, members of the Sioux tribe and their supporters clashed numerous times with the police. There were mass arrests at the demonstration site, and police sprayed protesters with tear gas and water.[<sup>22</sup>](/exhibits/after-the-fire/notes#22)
 
@@ -220,7 +220,7 @@ A group of white supremacists gathering for a “Unite the Right” Rally in Cha
 - [**September 27, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-dj58c9s589?start=1998.22&end=2497.77)
 - [**August 10, 2018**](https://americanarchive.org/catalog/cpb-aacip-525-ws8hd7q299?start=1167.33&end=2054.29)
 
-#### 2017 St. Louis Protests
+#### 2017, St. Louis Protests
 
 After the acquittal of Officer Jason Stockley in the killing of Anthony Lamar Smith, protests broke out throughout the city of St. Louis on September 15. While the protests during the day were peaceful, they turned violent at night and windows were smashed and store fronts vandalized. The police responded violently and made over 100 arrests during the first two days of protests. The unrest continued through September into October.[<sup>25</sup>](/exhibits/after-the-fire/notes#25) The ACLU filed a lawsuit against the St. Louis police for their unlawful use of force against the protesters.[<sup>26</sup>](/exhibits/after-the-fire/notes#26) 
 
