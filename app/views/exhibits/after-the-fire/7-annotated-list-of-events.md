@@ -244,7 +244,7 @@ Following the death of George Floyd on May 25, 2020, after Minneapolis police of
     - ["Outrage"](https://americanarchive.org/catalog/cpb-aacip-0f93412cde7?start=140&end=1885)
     - ["Use of Force"](https://americanarchive.org/catalog/cpb-aacip-0f93412cde7?start=2009&end=3279)
 - [**June 3, 2020**](https://americanarchive.org/catalog/cpb-aacip-649a3103a2a?start=194&end=3323)
-LINK IS BROKEN IN DOCUMENT- [**June 4, 2020**](add link here)
+- [**June 4, 2020**](https://americanarchive.org/catalog/cpb-aacip-77c1758e760?start=172.08&end=1614.9)
 - **June 8, 2020**
     - ["Outrage"](https://americanarchive.org/catalog/cpb-aacip-a7b5d38fc86?start=163&end=398)
     - ["Protests in the Pandemic"](https://americanarchive.org/catalog/cpb-aacip-a7b5d38fc86?start=2169&end=3278)
