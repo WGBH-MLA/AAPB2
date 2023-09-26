@@ -31,5 +31,27 @@ Back in the studio, the *NewsHour*’s focus shifted towards policing. Guests re
 
 ## Gallery
 
-## Records UPDATE RECORDS LISTINGS
+## Records
 
+- [](/catalog/cpb-aacip-525-804xg9g75j)
+- [](/catalog/cpb-aacip-525-1n7xk85h0g)
+- [](/catalog/cpb-aacip-525-w950g3j996)
+- [](/catalog/cpb-aacip-525-7940r9n455)
+- [](/catalog/cpb-aacip-525-m03xs5kj8n)
+- [](/catalog/cpb-aacip-525-8k74t6g40k)
+- [](/catalog/cpb-aacip-525-w66930q443)
+- [](/catalog/cpb-aacip-525-9w08w3946f)
+- [](/catalog/cpb-aacip-525-h12v40m11v)
+- [](/catalog/cpb-aacip-525-542j679t32)
+- [](/catalog/cpb-aacip-525-wm13n21r6h)
+- [](/catalog/cpb-aacip-525-j678s4ks76)
+- [](/catalog/cpb-aacip-525-8c9r20st0h)
+- [](/catalog/cpb-aacip-525-q23qv3d72f)
+- [](/catalog/cpb-aacip-525-z89806b7g)
+- [](/catalog/cpb-aacip-525-x05x63cb1j)
+- [](/catalog/cpb-aacip-525-w08w951v2n)
+- [](/catalog/cpb-aacip-525-61-vq2t67c)
+- [](/catalog/cpb-aacip-525-599z03039t)
+- [](/catalog/cpb-aacip-525-r785h7d37p)
+- [](/catalog/cpb-aacip-525-x34mk66g3f)
+- [](/catalog/cpb-aacip-525-gm81j98b9s)
