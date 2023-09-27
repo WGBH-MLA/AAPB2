@@ -20,9 +20,6 @@ Agradecemos a los revisores anónimos de los ensayos de la exhibición por sus c
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Gabriela-Rivera.jpg"/>
   <a class="name">Gabriela Rivera</a>
   <a class="title">Pasante, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
-- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/20221114_140914.jpg"/>
-  <a class="name">Ruben Luciano Jr.</a>
-  <a class="title">Pasante, Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) Program</a>
 
 ## Resources
 
