@@ -8,8 +8,6 @@
 
 ## Main
 
-### Introduction
-
 #### 1991, Crown Heights Riots
 
 The riots broke on August 19, 1991, following the death of a seven-year-old Black boy, Gavin Cato. He and his sister, who was severely injured, were hit by a car driven by a Hasidic Jewish man in the Crown Heights neighborhood of Brooklyn, New York. In response, a number of Hasidic Jews in Brooklyn were attacked by groups of young Black men, resulting in the death of a visiting student, Yankel Rosenbaum.[<sup>11</sup>](/exhibits/after-the-fire/notes#11)
@@ -25,45 +23,45 @@ Following the acquittal on charges of assault of the four police officers involv
 - [**May 1, 1992**](https://americanarchive.org/catalog/cpb-aacip_507-9g5gb1z71n)
 - [**May 4, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-8w3804z94s)
 - [**May 5, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-z02z31pk64?start=606.23&end=2601.98)
-- [**May 6, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-qf8jd4qk5v?start=647.63&end=1640.67)
+- [**May 6, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-qf8jd4qk5v?start=647.63&end=1641.67)
 - [**May 7 ,1992**](https://americanarchive.org/catalog/cpb-aacip-507-542j679j2j?start=635.36&end=2903.82)
-- [**May 8, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-125q815b1f?start=501.2&end=2018.55)
+- [**May 8, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-125q815b1f?start=501.48&end=2716.7)
 - **May 12, 1992**
     - "Voice of Voters"
       - [Kelly Staup](https://americanarchive.org/catalog/cpb-aacip-507-4b2x34nb1r?start=2281.04&end=2463.73)
-      - [John Taylor](https://americanarchive.org/catalog/cpb-aacip-507-4b2x34nb1r?start=2547.66&end=2824.15)
-      - [Tracy Self](https://americanarchive.org/catalog/cpb-aacip-507-4b2x34nb1r?start=3273.45&end=3347.51)
+      - [John Taylor](https://americanarchive.org/catalog/cpb-aacip-507-4b2x34nb1r?start=2547.66&end=2825.15)
+      - [Tracy Self](https://americanarchive.org/catalog/cpb-aacip-507-4b2x34nb1r?start=3273.45&end=3345.51)
 - [**May 13, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-251fj2b044?start=2813.92&end=3408.14)
 - **May 14, 1992**
-    - ["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-rr1pg1jj6w?start=3150.01&end=3448.59)
+    - ["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-rr1pg1jj6w?start=3150.01&end=3448.59)
 - [**May 15, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-m03xs5k846?start=548.34&end=1051.4)
 - **May 21, 1992**
     - ["Home Sweet Home"](https://americanarchive.org/catalog/cpb-aacip-507-rn3028qc98?start=623.78&end=2395.32)
     - ["Covering the Coverage" / "Pride and Prejudice"](https://americanarchive.org/catalog/cpb-aacip-507-rn3028qc98?start=2410.29&end=3448.26)
 - [**May 25, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-ns0ks6k08c?start=2602.33&end=2884.87)
 - **June 10, 1992**
-   -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-9g5gb1z70b?start=2603.8&end=3412.21)
+   -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-9g5gb1z70b?start=2603.8&end=3412.21)
 - **June 11, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xp44?start=2789.8&end=3415.78)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xp44?start=2789.8&end=3415.78)
 - **June 18, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-p55db7wh41?start=2090.31&end=3224.04)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-p55db7wh41?start=2090.31&end=3224.04)
 - **June 26, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-bg2h708q99?start=2471.51&end=3448.27)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-bg2h708q99?start=2471.51&end=3448.27)
 - **July 2, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-jw86h4dk9s?start=2574.49&end=3366.64)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-jw86h4dk9s?start=2574.49&end=3366.64)
 - **July 8, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-5d8nc5t05q?start=2616.08&end=3416.82)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-5d8nc5t05q?start=2616.08&end=3416.82)
 - **July 23, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-np1wd3qt9w?start=2782.89&end=3478.33)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-np1wd3qt9w?start=2782.89&end=3478.33)
 - **July 31, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-1c1td9ns02?start=2708.84&end=3418.93)
-- [**August 3, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-930ns0mm21?start=1841.21&end=2622.66)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-1c1td9ns02?start=2708.84&end=3418.93)
+- [**August 3, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-930ns0mm21?start=1841.21&end=2624.66)
 - **August 10, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-8c9r20sj4j?start=2532.23&end=3404.38)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-8c9r20sj4j?start=2532.23&end=3404.38)
 - **August 18, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-jw86h4dm1k?start=2683.96&end=3479.01)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-jw86h4dm1k?start=2683.96&end=3479.01)
 - **September 7, 1992**
-    -["Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-7659c6sr05?start=2558.46&end=3396.66)
+    -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-7659c6sr05?start=2558.46&end=3396.66)
 - [**December 31, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-m32n58d99b?start=1925.35&end=2426.74)
 - [**April 7, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-cv4bn9xv50?start=1873.16&end=2605.71)
 - [**April 9, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-sj19k46r80?start=530.58&end=1197.45)
