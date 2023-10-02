@@ -1,6 +1,6 @@
 # Notes
 
-14
+UPDATE THIS NUMBER! 14
 
 ## Summary
 
@@ -178,10 +178,7 @@
  
 <a name="84"></a><sup>84</sup>Scott, Contempt and Pity, 119–36.
  
-<a name="85"></a><sup>85</sup>“The Significance of ‘The Doll Test.’” 
-
-Throughout this exhibit, we have included links to places included on the United States Civil Rights Trail map. To learn more about the trail, visit https://civilrightstrail.com/
-
+<a name="85"></a><sup>85</sup>“The Significance of ‘The Doll Test.’”
 
 ## Main
 
