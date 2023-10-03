@@ -11,7 +11,7 @@ made a start at becoming that portal.
 To this end, the AAPB encourages organizations submitting digitization grant proposals to contribute copies of their
 item-level metadata records, and potentially digitized media, to the AAPB.
 
-If you have any questions, please contact Casey Davis, AAPB Project Manager at [casey_davis@wgbh.org](mailto:casey_davis@wgbh.org).
+If you have any questions, please contact the AAPB Project Manager at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org).
 
 ### Organizations have several options for contributing to the AAPB:
 
@@ -36,7 +36,7 @@ answer questions and arrange your submission according to your needs and availab
 
 ### 1. Collection Acquisitions Form
 
-Organizations seeking to contribute video and audio collections to the AAPB are asked to fill out our [Collection Acquisitions Form](https://s3.amazonaws.com/americanarchive.org/resources/AAPB_collection_acquisitions_form.pdf). Send your completed form to Casey Davis, AAPB Project Manager at casey_davis@wgbh.org.
+Organizations seeking to contribute video and audio collections to the AAPB are asked to fill out our [Collection Acquisitions Form](https://s3.amazonaws.com/americanarchive.org/resources/AAPB_collection_acquisitions_form.pdf). Send your completed form to the AAPB Project Manager at aapb_notifications@wgbh.org.
 
 ### 2. Deed of Gift
 
@@ -200,4 +200,4 @@ If you have production contracts or appearance releases for the material you are
 - **Technical metadata:**	to GBH and the Library, if available
 - **Preservation metadata:** to GBH and the Library, if available
 
-If you have any questions, please contact Casey Davis, AAPB Project Manager at [casey_davis@wgbh.org](mailto:casey_davis@wgbh.org).
+If you have any questions, please contact the AAPB Project Manager at [aapb_notifications@wgbh.org](mailto:aapb_notifications@wgbh.org).

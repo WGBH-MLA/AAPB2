@@ -2,7 +2,7 @@
 Staff at organizations that have contributed to the American Archive of Public Broadcasting (AAPB) may continue to access and manage records and digitized media through the [Archival Management System (AMS)](https://ams.americanarchive.org). 
 
 ## Logging into the AMS
-Open a browser window and navigate to [ams.americanarchive.org](https://ams.americanarchive.org). Enter your credentials and click the Sign In button. If you do not know your login credentials, email Casey Davis, Project Manager, at casey_davis@wgbh.org.
+Open a browser window and navigate to [ams.americanarchive.org](https://ams.americanarchive.org). Enter your credentials and click the Sign In button. If you do not know your login credentials, email the AAPB Project Manager, at aapb_notifications@wgbh.org.
 
 ## The Records Page
 Once logged in, click on the Records button at the top right of the screen. This page will display all of your organization’s records. When you first load the Records page, notice that the default view is the Assets screen, highlighted in blue on the top left. You also can search instantiation records by clicking on the Instantiation tab, next to the highlighted Asset tab. Instantiation records provide you with detailed information about the physical items or digital files that correspond to the assets.
@@ -40,4 +40,4 @@ In most cases, the first instantiation describes the physical item that you orig
 Information provided in the Instantiation views includes Instantiation Identifiers, Dates, Media Type, Physical or Digital Format, Generations, Location, Duration, and Language. 
 
 ## Adding New Users and Admins From Your Organization
-If you would like to add a station admin or user to be able to access your station's records in the AMS, please Casey Davis, Project Manager, at casey_davis@wgbh.org.
+If you would like to add a station admin or user to be able to access your station's records in the AMS, please the AAPB Project Manager at aapb_notifications@wgbh.org.
