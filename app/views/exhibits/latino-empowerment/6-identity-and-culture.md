@@ -297,6 +297,18 @@ Other relevant programs in the AAPB collection include:
 
 #### Next: [Notes](/exhibits/latino-empowerment/notes)
 
+## Authors
+
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Alexandra-Garcia.jpg"/>
+  <a class="name">Alexandra García</a>
+  <a class="title">Intern, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/Gabriela-Rivera.jpg"/>
+  <a class="name">Gabriela Rivera</a>
+  <a class="title">Intern, Library of Congress Hispanic Association of Colleges and Universities (HACU) National Internship Program</a>
+- <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/staff/20221114_140914.jpg"/>
+  <a class="name">Ruben Luciano Jr.</a>
+  <a class="title">Intern, Library of Congress Archives, History, and Heritage Advanced Internship (AHHA) Program</a>
+
 ## Resources
 
 - [National Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/)
