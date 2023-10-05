@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Image from LOC.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/anti-apartheid-movement_420px.png"Image from LOC.")
+![Image from LOC.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/anti-apartheid-movement_420px.png "Image from LOC.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/anti-apartheid-movement.jpg
