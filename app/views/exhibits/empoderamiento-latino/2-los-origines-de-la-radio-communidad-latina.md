@@ -99,7 +99,7 @@ Según el sitio web de Radio Campesina, la estación “ha difundido foros y deb
 - [Radio KDNA AAPB collection](https://americanarchive.org/special_collections/radio-kdna)
 - [Linea Abierta AAPB collection](https://americanarchive.org/special_collections/linea-abierta)
 - [KBBF](https://kbbf.org/)
-- [Radio Bilingue](http://radiobilingue.org/en/)
+- [Radio Bilingue](https://radiobilingue.org/)
 - [KDNA](https://kdna.org/)
 - [La Network Campesina](https://campesina.com/)
 - [Chicana/o Radio Archive](https://chicanaradioarchive.wordpress.com/)
