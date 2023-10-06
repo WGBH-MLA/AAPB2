@@ -8,13 +8,13 @@
 
 <a name="2"></a><sup>2</sup> Haynes Johnson, *Divided We Fall: Gambling with History in the Nineties* (New York: W. W. Norton, 1994), 168; Houston A. Baker, “Scene… Not Heard,” in Robert Gooding-Williams, ed., *Reading Rodney King/Reading Urban Uprising* (New York: Routledge, 1993), 42.
 
-<a name="3"></a><sup>3</sup> For more analysis of the tape, see “Trying Questions.” CAN'T OPEN THE LINK IN THE NOTES DOCUMENT
+<a name="3"></a><sup>3</sup> For more analysis of the tape, see “Trying Questions.” https://americanarchive.org/catalog/cpb-aacip-507-7940r9mv9z?start=2148.93&end=2996.77.
 
 <a name="4"></a><sup>4</sup> Associated Press, “Grocer Given Probation in Shooting of Girl,” *New York Times*, November 17, 1991, https://www.nytimes.com/1991/11/17/us/grocer-given-probation-in-shooting-of-girl.html; Erika D. Smith, “The Killing of Latasha Harlins Was 30 Years Ago. Not Enough Has Changed,” *Los Angeles Times*, March 17, 2021, https://www.latimes.com/california/story/2021-03-17/latasha-harlins-memorial-playground-black-lives-matter-south-los-angeles. Watch Anna Deavere Smith’s take on the shooting of Latasha Harlins in her play *Twilight: Los Angeles* [here](https://www.pbs.org/video/great-performances-twilight-los-angeles-latasha-harlins/).
 
 <a name="5"></a><sup>5</sup> Associated Press, “Rodney King Riot: Timeline of Key Events,” AP News, April 26, 2017, https://apnews.com/article/fa4d04d8281443fc8db0e27d6be52081.
 
-<a name="6"></a><sup>6</sup> “Los Angeles Riots,” History.com, updated April 20, 2021, https://www.history.com/topics/1990s/the-los-angeles-riots 
+<a name="6"></a><sup>6</sup> “Los Angeles Riots,” History.com, updated April 20, 2021, https://www.history.com/topics/1990s/the-los-angeles-riots. 
 
 <a name="7"></a><sup>7</sup> James A. Henretta, et al., *America's History*, 3rd ed. (New York: Worth Publishers, 1997), 1035.
 
@@ -28,7 +28,7 @@
 
 <a name="12"></a><sup>12</sup> “WTO Protests in Seattle 20 Years Ago Helped Change Progressive Politics,” *Los Angeles Times*, November 29, 2019, https://www.latimes.com/world-nation/story/2019-11-29/wto-protests-in-seattle-20-years-ago.
 
-<a name="13"></a><sup>13</sup> David Childs and Ryan Spence, “The Cincinnati Race Riots of 2001,” Oxford African American Studies Center, May 18, 2018, https://oxfordaasc.com/view/10.1093/acref/9780195301731.001.0001/acref-9780195301731-e-78142. 
+<a name="13"></a><sup>13</sup> David Childs and Ryan Spence, “The Cincinnati Race Riots of 2001,” Oxford African American Studies Center, May 31, 2018, https://oxfordaasc.com/view/10.1093/acref/9780195301731.001.0001/acref-9780195301731-e-78142. 
 
 <a name="14"></a><sup>14</sup> Jennifer Steinhauer and Julia Preston, “Action by Police at Rally Troubles Los Angeles Chief,” *New York Times*, May 4, 2007, https://www.nytimes.com/2007/05/04/us/04immig.html.
 
@@ -40,7 +40,7 @@
 
 <a name="18"></a><sup>18</sup> Moni Basu, Holly Yan, and Dana Ford, “Fires, Chaos Erupt in Ferguson after Grand Jury Doesn't Indict in Michael Brown Case,” CNN, November 25, 2014, https://www.cnn.com/2014/11/24/justice/ferguson-grand-jury/.
 
-<a name="19"></a><sup>19</sup> Abby Ohlheiser Justin Wm. Moyer, “Protests in Support of Eric Garner Erupt in New York and Elsewhere,” *Washington Post*, May 3, 2019, https://www.washingtonpost.com/news/morning-mix/wp/2014/12/04/after-grand-jury-doesnt-indict-police-officer-who-choked-eric-garner-protests-erupt-in-new-york-and-elsewhere/. 
+<a name="19"></a><sup>19</sup> Justin Wm. Moyer, Abby Ohlheiser, and Elahe Izadi, “Protests in Support of Eric Garner Erupt in New York and Elsewhere,” *Washington Post*, December 4, 2014, https://www.washingtonpost.com/news/morning-mix/wp/2014/12/04/after-grand-jury-doesnt-indict-police-officer-who-choked-eric-garner-protests-erupt-in-new-york-and-elsewhere/. 
 
 <a name="20"></a><sup>20</sup> “Baltimore Riots: Troops Deployed as Cleanup Begins,” *BBC News*, April 28, 2015, https://www.bbc.com/news/world-us-canada-32499116.
 
@@ -58,7 +58,7 @@
 
 <a name="27"></a><sup>27</sup> Alex Altman, “Why the Killing of George Floyd Sparked an American Uprising,” *Time*, June 4, 2020, https://time.com/5847967/george-floyd-protests-trump/.
 
-<a name="28"></a><sup>28</sup> Jill Cowan, “Making Sense of the Capitol Attack,” *New York Times*, January 13, 2021, https://www.nytimes.com/2021/01/13/us/capitol-attack-california.html?searchResultPosition=18; Bill Chappell, “Architect of the Capitol Outlines $30 Million in Damages from Pro-Trump Riot,” NPR, https://www.npr.org/sections/insurrection-at-the-capitol/2021/02/24/970977612/architect-of-the-capitol-outlines-30-million-in-damages-from-pro-trump-riot.
+<a name="28"></a><sup>28</sup> Jill Cowan, “Making Sense of the Capitol Attack,” *New York Times*, January 13, 2021, https://www.nytimes.com/2021/01/13/us/capitol-attack-california.html?searchResultPosition=18; Bill Chappell, “Architect of the Capitol Outlines $30 Million in Damages from Pro-Trump Riot,” February 24, 2021, NPR, https://www.npr.org/sections/insurrection-at-the-capitol/2021/02/24/970977612/architect-of-the-capitol-outlines-30-million-in-damages-from-pro-trump-riot.
 
 <a name="29"></a><sup>29</sup> Luke Broadwater, “House Opens Jan. 6 Investigation over Republican Opposition,” *New York Times*, June 30, 2021, https://www.nytimes.com/2021/06/30/us/house-jan-6-capitol-riot.html. 
 
