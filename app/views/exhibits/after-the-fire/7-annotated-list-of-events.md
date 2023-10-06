@@ -181,13 +181,13 @@ Following the death of Freddie Gray on April 18, 2015, from a fatal spinal cord 
 
 After the police shooting of Keith Lamont Scott, a 43-year-old Black man, demonstrations spread throughout the city. They were peaceful during the day, but at night there were incidents of rock and bottle throwing at the police, vandalism, and arson. The police responded by shooting rubber bullets and tear gas at the protesters.[<sup>21</sup>](/exhibits/after-the-fire/notes#21)
 
-- [**September 21, 2016**](https://americanarchive.org/catalog/cpb-aacip-525-930ns0mx16?start=571.59&end=912.53)
+- [**September 21, 2016**](https://americanarchive.org/catalog/cpb-aacip-525-930ns0mx16?start=569.59&end=912.53)
 - **September 22, 2016**
-    - ["Charlotte Shooting"](https://americanarchive.org/catalog/cpb-aacip-525-dn3zs2mb8v?start=185.52&end=686.91)
-    - ["Race Matters"](https://americanarchive.org/catalog/cpb-aacip-525-dn3zs2mb8v?start=1088.02&end=1699.72)
+    - ["Charlotte Shooting"](https://americanarchive.org/catalog/cpb-aacip-525-dn3zs2mb8v?start=183.52&end=686.91)
+    - ["Race Matters"](https://americanarchive.org/catalog/cpb-aacip-525-dn3zs2mb8v?start=1086.02&end=1699.72)
 - **September 23, 2016**
     - [Interview with Yamiche Alcindor](https://americanarchive.org/catalog/cpb-aacip-525-5t3fx74w4d?start=185.52&end=641.78)
-    - [Shields/Brooks Analysis](https://americanarchive.org/catalog/cpb-aacip-525-5t3fx74w4d?start=1604.46&end=2055.71)
+    - [Shields/Brooks Analysis](https://americanarchive.org/catalog/cpb-aacip-525-5t3fx74w4d?start=1604.46&end=2053.71)
 
 #### 2016, Dakota Access Pipeline Protests
 
@@ -197,13 +197,13 @@ In protesting the Dakota pipeline’s route through the Missouri River, the wate
 
 #### 2017, Trump Inauguration
 
-Anti-Trump protests broke out all over the U.S. on the day of Donald Trump’s Presidential Inauguration. In Washington D.C., there were clashes with police, and 217 protesters were arrested.[<sup>23</sup>](/exhibits/after-the-fire/notes#23)
+Anti-Trump protests broke out all over the U.S. on the day of Donald Trump’s presidential inauguration. In Washington, D.C., there were clashes with police, and 217 protesters were arrested.[<sup>23</sup>](/exhibits/after-the-fire/notes#23)
 
 - [**January 20, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-tx3513w560?start=1814.71&end=2166.43)
 
 #### 2017, Charlottesville Rally and Counter-Protests
 
-A group of white supremacists gathering for a “Unite the Right” Rally in Charlottesville clashed with a large group of counter-protesters on August 12, 2017. One woman was killed and nineteen were injured after a white nationalist drove a car through a crowd of counter-protesters.[<sup>24</sup>](/exhibits/after-the-fire/notes#24)
+A group of white supremacists gathering for a “Unite the Right” rally in Charlottesville clashed with a large group of counter-protesters on August 12, 2017. One woman was killed and nineteen were injured after a white nationalist drove a car through a crowd of counter-protesters.[<sup>24</sup>](/exhibits/after-the-fire/notes#24)
 
 - [**August 13, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-ms3jw87s72?start=85.49&end=1274.54)
 - **August 14, 2017**
@@ -212,20 +212,21 @@ A group of white supremacists gathering for a “Unite the Right” Rally in Cha
 - [**August 15, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-222r49h34p?start=876.77&end=1488.47)
 - **August 16, 2017**
     - ["Reality Check"](https://americanarchive.org/catalog/cpb-aacip-525-mc8rb6x46p?start=713.65&end=1508.86)
-    - ["A Nation Divided"](https://americanarchive.org/catalog/cpb-aacip-525-mc8rb6x46p?start=1784.12&end=2288.77)
+    - ["A Nation Divided"](https://americanarchive.org/catalog/cpb-aacip-525-mc8rb6x46p?start=1780.12&end=2288.77)
 - [**August 17, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-rb6vx0764r?start=621.89&end=1279.47)
 - [**August 21, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-sj19k4721j?start=2095.07&end=2518.16)
 - [**August 23, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-4f1mg7gq84?start=2079.78&end=2523.26)
 - [**August 25, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-0c4sj1bh9n?start=1070.47&end=1891.17)
 - [**September 13, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-7s7hq3sx2g?start=2778.13&end=3262.4)
 - [**September 27, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-dj58c9s589?start=1998.22&end=2497.77)
-- [**August 10, 2018**](https://americanarchive.org/catalog/cpb-aacip-525-ws8hd7q299?start=1167.33&end=2054.29)
+- [**August 10, 2018**](https://americanarchive.org/catalog/cpb-aacip-525-ws8hd7q299?start=1166.33&end=2054.29)
+- [**August 12, 2022**](https://americanarchive.org/catalog/cpb-aacip-43653303235?start=1451.7&end=1950.35)
 
 #### 2017, St. Louis Protests
 
 After the acquittal of Officer Jason Stockley in the killing of Anthony Lamar Smith, protests broke out throughout the city of St. Louis on September 15. While the protests during the day were peaceful, they turned violent at night and windows were smashed and store fronts vandalized. The police responded violently and made over 100 arrests during the first two days of protests. The unrest continued through September into October.[<sup>25</sup>](/exhibits/after-the-fire/notes#25) The ACLU filed a lawsuit against the St. Louis police for their unlawful use of force against the protesters.[<sup>26</sup>](/exhibits/after-the-fire/notes#26) 
 
-- [**September 18, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-086348hd43?start=392.51&end=968.52)
+- [**September 18, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-086348hd43?start=391.51&end=968.52)
 
 #### 2020, George Floyd and BLM Protests
 
@@ -242,18 +243,18 @@ Following the death of George Floyd on May 25, 2020, after Minneapolis police of
 - [**May 30, 2020**](https://americanarchive.org/catalog/cpb-aacip-da3105b3fd6?start=83&end=1151)
 - [**June 1, 2020**](https://americanarchive.org/catalog/cpb-aacip-695205dfe2d?start=168&end=3321)
 - **June 2, 2020**
-    - ["Outrage"](https://americanarchive.org/catalog/cpb-aacip-0f93412cde7?start=140&end=1885)
+    - ["Outrage"](https://americanarchive.org/catalog/cpb-aacip-0f93412cde7?start=140&end=1886)
     - ["Use of Force"](https://americanarchive.org/catalog/cpb-aacip-0f93412cde7?start=2009&end=3279)
 - [**June 3, 2020**](https://americanarchive.org/catalog/cpb-aacip-649a3103a2a?start=194&end=3323)
-- [**June 4, 2020**](https://americanarchive.org/catalog/cpb-aacip-77c1758e760?start=172.08&end=1614.9)
+- [**June 4, 2020**](https://americanarchive.org/catalog/cpb-aacip-77c1758e760?start=172&end=1720)
 - **June 8, 2020**
     - ["Outrage"](https://americanarchive.org/catalog/cpb-aacip-a7b5d38fc86?start=163&end=398)
     - ["Protests in the Pandemic"](https://americanarchive.org/catalog/cpb-aacip-a7b5d38fc86?start=2169&end=3278)
-- [**June 9, 2020**](https://americanarchive.org/catalog/cpb-aacip-49a682c2a9c?start=153&end=2494)
-- [**June 10, 2020**](https://americanarchive.org/catalog/cpb-aacip-022282ad562?start=151&end=833)
+- [**June 9, 2020**](https://americanarchive.org/catalog/cpb-aacip-49a682c2a9c?start=153.8&end=2047.77)
+- [**June 10, 2020**](https://americanarchive.org/catalog/cpb-aacip-022282ad562?start=151&end=834)
 - **June 11, 2020**
-    - ["About Face" / "Race Remarks"](https://americanarchive.org/catalog/cpb-aacip-3e16085f6cf?start=241&end=525)
-    - ["Outrage" / "Race Matters"](https://americanarchive.org/catalog/cpb-aacip-3e16085f6cf?start=947&end=1792)
+    - ["About Face" / "Race Remarks"](https://americanarchive.org/catalog/cpb-aacip-3e16085f6cf?start=239.88&end=618.45)
+    - ["Outrage" / "Race Matters"](https://americanarchive.org/catalog/cpb-aacip-3e16085f6cf?start=1188.43&end=2036.77)
 - **June 14, 2020** - includes coverage of killing of Rayshard Brooks in Atlanta, GA
     - ["Atlanta Police Shooting" / "Protests Continue"](https://americanarchive.org/catalog/cpb-aacip-7ef14522047?start=98&end=1526)
 - **June 16, 2020**
@@ -264,14 +265,16 @@ Following the death of George Floyd on May 25, 2020, after Minneapolis police of
 - **June 19, 2020**
     - ["Juneteenth"](https://americanarchive.org/catalog/cpb-aacip-8809d5663bf?start=161&end=338.5)
     - ["Juneteenth"](https://americanarchive.org/catalog/cpb-aacip-8809d5663bf?start=732&end=1860)
-- [**June 23, 2020**](https://americanarchive.org/catalog/cpb-aacip-34f65e8824b?start=589&end=1524)
 - **June 26, 2020**
-    - ["Policing Vote"](https://americanarchive.org/catalog/cpb-aacip-2beaf79cc0e?start=280.9&end=463)
+    - ["Policing Vote"](https://americanarchive.org/catalog/cpb-aacip-2beaf79cc0e?start=280.9&end=464)
     - ["Black on Broadway"](https://americanarchive.org/catalog/cpb-aacip-2beaf79cc0e?start=2901&end=3289)
+- [**July 23, 2020**](https://americanarchive.org/catalog/cpb-aacip-97551ae4ebf?start=584.42&end=1520.24)
 - **August 5, 2020**
     - ["Defunding Police" / "Caste"](https://americanarchive.org/catalog/cpb-aacip-2abfbc4ef9d?start=2249&end=3094)
 - **November 25, 2020**
     - ["Six Months Later"](https://americanarchive.org/catalog/cpb-aacip-add213a563e?start=1971&end=2440)
+- [**May 25, 2021**](https://americanarchive.org/catalog/cpb-aacip-426f3c1de5a?start=169.96&end=1546.43)
+- [**May 25, 2022**](https://americanarchive.org/catalog/cpb-aacip-5a311ee5cd3?start=1723.65&end=2558.23)
 
 #### 2021, United States Capitol Insurrection
 
@@ -314,6 +317,21 @@ On January 6, 2021, in an attempt to block certification by a joint session of C
     - ["Election Fact Check"](https://americanarchive.org/catalog/cpb-aacip-615982bb298?start=1714.8&end=2425)
 - **December 31, 2021**
     - ["Brooks and Capehart"](https://americanarchive.org/catalog/cpb-aacip-f454e75ed0a?start=1333&end=1832)
+    - **January 6, 2022**
+        - ["One Year Later"](https://americanarchive.org/catalog/cpb-aacip-11143dca0a0)
+        - ["Witness to the Siege"](https://americanarchive.org/catalog/cpb-aacip-4016fbb4663)
+- [**June 9, 2022**](https://americanarchive.org/catalog/cpb-aacip-a8ddd91add7?start=154.57&end=1644.51)
+- [**June 10, 2022**](https://americanarchive.org/catalog/cpb-aacip-150fc0cf257?start=581.88&end=2311.28)
+- [**June 13, 2022**](https://americanarchive.org/catalog/cpb-aacip-6e534e49e25?start=544.33&end=1387.87)
+- [**June 16, 2022**](https://americanarchive.org/catalog/cpb-aacip-dd98da547b0?start=166.81&end=1939.88)
+- [**June 21, 2022**](https://americanarchive.org/catalog/cpb-aacip-163a762e555?start=171.96&end=1425.46)
+- [**June 23, 2022**](https://americanarchive.org/catalog/cpb-aacip-a73802953c7?start=815.83&end=2032.34)
+- [**June 28, 2022**](https://americanarchive.org/catalog/cpb-aacip-e8fa5ee9d03?start=176.01&end=1491.85)
+- [**July 12, 2022**](https://americanarchive.org/catalog/cpb-aacip-e3887d280c8?start=158.92&end=1450.05)
+- [**July 21, 2022**](https://americanarchive.org/catalog/cpb-aacip-5f7de46c869?start=524.18&end=1819.37)
+- [**July 22, 2022**](https://americanarchive.org/catalog/cpb-aacip-5bb5b03cfe6?start=416.83&end=1256.84)
+- [**October 13, 2022**](https://americanarchive.org/catalog/cpb-aacip-0130fc20ac7?start=178.56&end=1142.52)
+- [**December 19, 2022**](https://americanarchive.org/catalog/cpb-aacip-6111dcaa7e3?start=147.01&end=1077.82)
 
 #### Next: [Notes](/exhibits/after-the-fire/notes)
 
