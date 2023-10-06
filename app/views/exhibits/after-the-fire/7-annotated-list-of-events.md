@@ -63,15 +63,18 @@ Following the acquittal on charges of assault of the four police officers involv
 - **September 7, 1992**
     -["Can We All Get Along?"](https://americanarchive.org/catalog/cpb-aacip-507-7659c6sr05?start=2558.46&end=3396.66)
 - [**December 31, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-m32n58d99b?start=1925.35&end=2426.74)
+- [**February 23, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-7940r9mv9z?start=2148.93&end=2996.77)
 - [**April 7, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-cv4bn9xv50?start=1873.16&end=2605.71)
 - [**April 9, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-sj19k46r80?start=530.58&end=1197.45)
-- [**April 19, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-xg9f47ht9s?start=1407.57&end=1933.58)
+- [**April 19, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-xg9f47ht9s?start=1416.57&end=1933.58)
 - [**August 5, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-gt5fb4xd6p?start=2919.39&end=3432.8)
 - [**August 20, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-br8mc8s214?start=2518.89&end=3249.88)
 - [**September 20, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-gt5fb4x900?start=2726.04&end=3396.54)
 - [**October 22, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-m03xs5k86t?start=2012.31&end=2179.19)
 - [**April 28, 1997**](https://americanarchive.org/catalog/cpb-aacip-507-mc8rb6ws0t?start=1433.56&end=2096.7)
-- [**April 30, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-t14th8cs15?start=1168.33&end=1375.57)
+- [**June 19, 2012**](https://americanarchive.org/catalog/cpb-aacip-525-8911n7zp04?start=2618.79&end=3153.47)
+- [**April 30, 2017**](https://americanarchive.org/catalog/cpb-aacip-525-t14th8cs15?start=1168.33&end=1377.57)
+- [**April 29, 2022**](https://americanarchive.org/catalog/cpb-aacip-5d32610aa21?start=1299.73&end=1801.38)
 
 #### 1999, Seattle WTO Protests 
 
@@ -98,10 +101,10 @@ Police clashed with demonstrators during an immigration rally in Los Angeles, ca
 
 In an effort to block state legislation that would strip union workers of their bargaining rights in Wisconsin, 65,000 demonstrations rallied outside and took up camp in the Wisconsin Capitol Building.[<sup>15</sup>](/exhibits/after-the-fire/notes#15) The occupation lasted months, but the bill was eventually signed into law.
 
-- [**February 17, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-pk06w97f8s?start=1223.4&end=1835.1)
+- [**February 17, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-pk06w97f8s?start=1223.4&end=1837.1)
 - [**February 18, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-696zw19m8m?start=85.24&end=852.37)
 - [**February 21, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-j96057dz11?start=1113.09&end=1624.51)
-- [**March 1, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-5q4rj49q9d?start=1915.32&end=2632.31)
+- [**March 1, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-5q4rj49q9d?start=1915.32&end=2634.31)
 - [**March 10, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-c824b2z691?start=180.5&end=666.85)
 - [**June 15, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-7659c6t14v?start=1338.72&end=1850.14)
 
@@ -111,14 +114,14 @@ Calling out economic inequality and corporate greed, the Occupy Movement began i
 
 - [**October 3, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-r20rr1qr49?start=150.42&end=722.01)
 - [**October 5, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-5q4rj49q55?start=1203.34&end=1759.89)
-- [**October 17, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-3b5w66b25p?start=742.06&end=1338.72)
-- [**October 26, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-6d5p844s0t?start=2145.96&end=3003.34)
+- [**October 17, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-3b5w66b25p?start=741.06&end=1338.72)
+- [**October 26, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-6d5p844s0t?start=2144.96&end=3003.34)
 - [**November 2, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-dj58c9s678?start=1128.13&end=1489.14)
 - [**November 11, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-kw57d2rd74?start=1204.08&end=1925.42)
 - [**November 15, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-2b8v980k0x?start=170.47&end=897.49)
-- [**November 16, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-bz6154fr9q?start=2456.82&end=3088.58)
+- [**November 16, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-bz6154fr9q?start=2454.82&end=3088.58)
 - [**November 17, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-qr4nk37b5t?start=2441.78&end=2687.47)
-- [**November 21, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-251fj2b76p?start=1915.32&end=2135.93)
+- [**November 21, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-251fj2b76p?start=1906.32&end=2135.93)
 - [**November 24, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-sb3ws8jr45?start=1479.11&end=2767.69)
 - [**December 8, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-rr1pg1jt35?start=1579.39&end=2115.88)
 - [**January 17, 2012**](https://americanarchive.org/catalog/cpb-aacip-525-t14th8cs43?start=1428.97&end=2035.65)
@@ -128,16 +131,16 @@ Calling out economic inequality and corporate greed, the Occupy Movement began i
 Following the death of Michael Brown, an unarmed 18-year-old Black teenager shot by Officer Darren Wilson in Ferguson, Missouri, protests broke out on August 10 and continued throughout the month. The police responded to these protests violently, firing tear gas and bean bag rounds at the crowds.[<sup>17</sup>](/exhibits/after-the-fire/notes#17) While most of these demonstrations were peaceful, there were incidents of looting, vandalism, and arson. In November, the unrest continued after the courts failed to indict Officer Wilson, and it picked up once again after the one-year anniversary of Brown’s death.[<sup>18</sup>](/exhibits/after-the-fire/notes#18) These incidents of unrest sparked nationwide protests and conversations about policing in America.
 
 - [**August 11, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-804xg9g75j?start=1906.4&end=2486.91)
-- [**August 12, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-1n7xk85h0q?start=1258.5&end=1694.71)
+- [**August 12, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-1n7xk85h0q?start=1257&end=1694.71)
 - [**August 14, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-w950g3j996?start=471.31&end=2522.01)
 - [**August 15, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-7940r9n455?start=616.71&end=1103.06)
-- [**August 18, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-m03xs5kj8n?start=706.96&end=1298.61)
+- [**August 18, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-m03xs5kj8n?start=704.96&end=1298.61)
 - [**August 19, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-8k74t6g40k?start=772.14&end=1965.46)
 - [**August 20, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-w66930q443?start=1885.24&end=2286.35)
 - [**August 22, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-9w08w3946f?start=2085.79&end=2421.73)
 - [**August 25, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-h12v40m11v?start=451.25&end=1298.61)
 - [**August 29, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-542j679t32?start=3018.38&end=3213.93)
-- [**September 18, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-wm13n21r6h?start=2371.59&end=2867.97)
+- [**September 18, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-wm13n21r6h?start=2370.59&end=2867.97)
 - [**September 25, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-j678s4ks76?start=1759.89&end=2256.27)
 - [**September 26, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-8c9r20st0h?start=616.71&end=1088.02)
 - [**November 18, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-q23qv3d72f?start=1187.5&end=1684.68)
@@ -148,16 +151,16 @@ Following the death of Michael Brown, an unarmed 18-year-old Black teenager shot
 - [**November 26, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-w08w951v2n?start=656.82&end=1138.16)
 - [**November 27, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-610vq2t67c?start=1367.64&end=1861.37)
 - [**November 28, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-599z03039t?start=1333.7&end=1769.92)
-- [**August 9, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-r785h7d37p?start=85.49&end=730.53))
+- [**August 9, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-r785h7d37p?start=85.49&end=730.53)
 - [**August 10, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-x34mk66g3f?start=1057.94&end=1499.16)
-- [**September 14, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-gm81j98b9s?start=2471.87&end=3038.44)
+- [**September 14, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-gm81j98b9s?start=2468.87&end=3038.44)
 
 #### 2014, Eric Garner Protests
 
 After the death of Eric Garner, a 43-year-old Black man killed in Staten Island by Officer Daniel Pantaleo in an illegal chokehold, and the failed indictment of the officer, protests and demonstrations spread throughout New York City and across the country.[<sup>19</sup>](/exhibits/after-the-fire/notes#19)
 
 - [**December 8, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-8c9r20sv13?start=1009&end=1794.99)
-- [**December 11, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-sf2m61cw22?start=1218.38&end=1759.89)
+- [**December 11, 2014**](https://americanarchive.org/catalog/cpb-aacip-525-sf2m61cw22?start=1215.38&end=1759.89)
 
 #### 2015, Baltimore Riots
 
@@ -166,11 +169,11 @@ Following the death of Freddie Gray on April 18, 2015, from a fatal spinal cord 
 - [**April 27, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-2r3nv9b56b?start=1116&end=1629.53)
 - [**April 28, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-jd4pk0846c?start=1433.98&end=2537.05)
 - [**April 29, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-cj87h1fp3n?start=1218.38&end=1794.99)
-- [**April 30, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-qr4nk3787w?start=651.81&end=1358.77)
+- [**April 30, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-qr4nk3787w?start=650.81&end=1358.77)
 - [**May 1, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-qn5z60d56k?start=952.65&end=1694.71)
 - [**May 2, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-bg2h709107?start=90.67&end=308.27)
-- [**May 4, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-sj19k4727d?start=1288.58&end=1940.39)
-- [**May 7, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-qz22b8wk8z?start=1900.28&end=2421.73)
+- [**May 4, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-sj19k4727d?start=1286.58&end=1943.39)
+- [**May 7, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-qz22b8wk8z?start=1900.28&end=2424.73)
 - [**May 9, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-g44hm53n4k?start=518.11&end=1145.01)
 - [**December 15, 2015**](https://americanarchive.org/catalog/cpb-aacip-525-vx05x26n5q?start=842.34&end=1408.91)
 
