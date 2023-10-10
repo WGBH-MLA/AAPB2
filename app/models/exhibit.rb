@@ -80,16 +80,20 @@ class Exhibit < Cmless
     end
   end
 
+  def overview_title
+    if path == "empoderamiento-latino"
+      "Resumen"
+    else
+      "Overview"
+    end
+  end
+
   def display_title
     # this is just to wrap the behavior around parent/child sections and es language exhibit's special overview titlee
     if subsection?
       title
     else
-      if path == "empoderamiento-latino"
-        "Resumen"
-      else
-        "Overview"
-      end
+      overview_title
     end
   end
 
