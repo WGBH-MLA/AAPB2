@@ -1,86 +1,139 @@
-# Feminism, Anti-Feminism, and Social Activism from the 1960s to the 1980s
+# Watergate Scandal
 
 ## Thumbnail
 
-![Activist Phyllis Schafly wearing a "Stop ERA" badge, demonstrating with other women against the Equal Rights Amendment in front of the White House, Washington, D.C., https://www.loc.gov/resource/ds.00757/](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Watergate.jpg "Activist Phyllis Schafly wearing a 'Stop ERA' badge, demonstrating with other women against the Equal Rights Amendment in front of the White House, Washington, D.C.")
+![Crowd of people protesting for Nixon's Impeachment in Washington D.C. , https://upload.wikimedia.org/wikipedia/commons/5/5d/Impeach_Nixon_retouched.jpg](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Thumbnail_Watergate.jpg "Crowd of people protesting for Nixon's Impeachment in Washington, D.C.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Main_Watergate.jpg
 
 ## Author
 
-Lindsey Galvao, WGBH Educational Foundation
+Catherine Sardo Weidner,  Lake Forest College
 
 ## Subjects
 
-- Post-WWII Domestic Confidence and Unrest, 1945–1968: Fair Deal to Great Society
-- Conservative Resurgence and Social Change, 1964-2000: Domestic Politics
+- Conservative Resurgence and Social Change, 1964-2000:  Domestic Politics
 
 ## Introduction
 
-The rise of women’s liberation and women’s rights in the 1960s focused on the role of government to strengthen the opportunities for expanded equal rights: job opportunities in traditionally male dominated sectors, access to educational opportunities, equal pay for equal work, and other legal, financial, and additional de facto inequalities. Having some broad support in the 1960s, beginning with President John F. Kennedy’s establishment of the Commission on the Status of Women in 1961, the 1960s offered the allure of new opportunities to combat issues such as widespread discrimination in the workforce and lack of affordable childcare. The Civil Rights Movement and the New Left also influenced a new wave of feminism, and legislation, such as the Civil Rights Act of 1964 and Title IX of the Education Amendments of 1972, banned sex discrimination. But while women of color had played major roles in the Civil Rights Movement and the Chicano movement, they were not afforded the same opportunities as their white counterparts. Additionally, backlash to the ratification of the Equal Rights Amendment was spearheaded by writer and political activist Phyllis Schlafly, who argued throughout the country that enshrining equal rights in the Constitution would provide women with fewer opportunities and destroy traditional family values. Throughout these three decades, women fought, often against one another, to define the role of women in public and private life. 
+The Watergate scandal exposed the widespread political corruption of the Nixon White House during his campaign for re-election as president. As the race tightened, Attorney General John Mitchell and White House Chief of Staff H. R. Haldeman authorized G. Gordon Liddy, a White House operative, to gather intelligence on Nixon’s opponent, Senator George McGovern. Liddy hired the men who burglarized the Democratic National Committee (DNC) headquarters at the Watergate complex in Washington, D.C., in May and June of 1972 in order to tap the phone of the DNC chairman, Lawrence O’Brien.  On June 17th of that year, five men, including James McCord, the security coordinator for the Committee for the Re-Election of the President (CRP or CREEP), were caught and arrested for breaking into the DNC headquarters. With an eye to the November 1972 election, the White House denied any involvement and attacked the press, particularly The Washington Post, for continuing to report on the story and arranged to pay hush money to the burglars. Nixon also ordered Haldeman to use the CIA to halt an FBI investigation into the break-in.
+
+The cover-up started to unravel after the conviction of the Watergate burglars in early 1973, when McCord, to avoid taking the blame for higher-ups, charged that witnesses had committed perjury at the trial. In May, the Senate began a televised investigation into the affair, which soon revealed that Nixon secretly taped Oval Office conversations. Even before the Senate investigation revealed that these recordings existed, John Dean, White House Counsel, testified that Nixon had many conversations about both the break-in and the cover-up. Only the tapes would corroborate the extent of the president’s knowledge and access to this crucial evidence quickly became the focus of the Senate and Department of Justice Watergate investigations. Nixon refused to release the tapes, however, claiming that executive privilege protected his conversations. This triggered both impeachment hearings in the House of Representatives in May 1974 and an appeal to the Supreme Court. On July 24, 1974, United States v. Nixon was decided, forcing Nixon to surrender the tapes. The House Judiciary Committee approved three articles of impeachment the following week. Facing impeachment, the collapse of Republican support, and clear evidence of his complicity, Nixon resigned on August 9, 1974.
 
 ## Teachingtips
 
-In this eight-resource set, students will encounter the evolution of feminist and anti-feminist movements in the second half of the 20th century. Starting in the 1960s, students will see the ways in which women began to emerge on the political scene, both in positions of political power and as advocates for legislation. But as the movement continued, the role of women in the public sphere, the role of government in determining rights for women, as well as who was included in the movement created a hotly contested battleground, culminating in the fight over the ratification of the Equal Rights Amendment.
+This source set consists of video clips which document the Watergate scandal as it unfolded between 1972 and 1974, as well as one documentary and a retrospective appraisal on the 50th anniversary of the break-in. The sources cover issues germane to the scandal: freedom of the press, the oversight role of Congress and the separation of powers, the concept of executive privilege and the legal battles over access to the White House tapes, and first-person perspectives on the relationship between Watergate and democracy.  
 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- the women’s suffrage movement, beginning in Seneca Falls in 1848 through the ratification of the 19th Amendment in 1920 
-- the tactics used by women to gain the constitutional right to vote, including parades, marches, rallies, hunger strikes, and imprisonment 
-- the racial divisions that existed in the women’s suffrage movement, beginning with divided tactics within the abolitionist movement; the passage of the Fourteenth Amendment, which introduced the word “male” into the Constitution; the passage of the Fifteenth Amendment without extending the right to vote to women; and the ways in which women of color were excluded from the mainstream suffrage movements throughout the 19th and 20th centuries
-- the fact that the first draft of the Equal Rights Amendment was written in 1923 by Alice Paul and Crystal Eastman to guarantee equal legal rights for all American citizens regardless of sex
-- a basic understanding of the word “feminism”: mainly, the advocacy of women's rights on the basis of the equality of the sexes 
-- a basic understanding of the word “anti-feminism”: the opposition to some or all forms of feminism
-- an understanding that feminism and anti-feminism were movements in which political organizations were formed that pushed various agendas forward around issues such as employment opportunities, childcare, reproductive rights, education, and domesticity
+- The conservative resurgence of 1968
+- The conspiracy theories of Richard Nixon
+- The Committee to Re-Elect the President and Nixon administration officials
+- The timeline of the Watergate scandal 
+- The media coverage of the Watergate hearings
+- The constitutional concept of separation of powers 
+
 
 <hr>
 
 #### Essential Question 
 
-How did the rise of women’s liberation and women’s rights movements in the 1960s shape the role of women in public life?
+To what extent did the Watergate scandal represent the subversion of democracy or the resilience of democracy?
 
 <hr>
 
 #### General Discussion Questions
-- To what extent have women needed to be responsible for seeking opportunities for themselves, and to what extent did the federal government need to create those opportunities for women? 
-- How did the rise of feminist and anti-feminist grassroots organizations help shape the conversation around the federal government’s role in defining gender equality in the public sphere?
-- How did Black women experience second-wave feminism differently from their white counterparts?
-- Why was the Equal Rights Amendment so contentious, especially among women?
-- Did more opportunities exist for women in the early 1960s or the late 1980s? Defend your answer with examples from the sources. 
+- What role did broadcast journalism play in Watergate?
+- How did Congress assert its powers during the Watergate scandal?
+- What did Watergate reveal about the role of the judiciary in the United States?
+- What impact did the Watergate scandal have upon public trust in government?
+- In the absence of incriminating evidence, would Nixon have resigned?
+- What is the most important legacy of the Watergate scandal?
+
 
 <hr>
 
 #### Classroom Activities
 
-- Listen to [Representative Shirley Chisholm’s commencement speech](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/5-305-82x3fpr6) at Mount Holyoke and [Betty Friedan’s commencement address](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/6-305-82x3fpr6) at Smith College, both in 1981. Considering that both women fought for gender equality, their speeches take on noticeably different tones. What did each woman say in her speech, and what different tactics did they employ? What might account for that? 
-- In the two discussions about the Equal Rights Amendment, what arguments are made [in support of the ERA](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/7-81-49t1g6j5) and what arguments are made [in opposition to the ERA](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/8-81-021c5bwq)? What differences do you notice between the ways in which Anne Scott and Karen DeCrow construct their arguments and how Phyllis Schlafly and Geline B. Williams construct theirs? Which arguments do you find to be more direct and clear and why? Which arguments do you find to be more persuasive? Why might that be?
-- Have students research one of the women included in this source set (suggestions include Margaret Chase Smith, Eleanor Roosevelt, Betty Friedan, Shirley Chisholm, Phyllis Schlafly, Geline B. Williams). How would their selected person define the term “feminism” and why? Students should be prepared to put their findings in a 1 to 2 page written response or in an oral recording.
-- In 2020, Virginia became the 38th pivotal state to ratify the Equal Rights Amendment (ERA), decades after the ratification deadline had passed. Have students conduct more research on the ERA, including legislation and Supreme Court decisions that either support or contradict the ERA. Then, have students discuss: Is a modern-day ERA needed to guarantee equal protection under the law on the basis of sex? 
-- In 1971, Helen Reddy's song “I Am Woman” was released and became a number one hit the following year, eventually selling over one million copies as a single. Have students listen to “I Am Woman” and follow along with the lyrics. After discussing what the song means, students should write their own songs that they feel best encapsulate the feminist movement of the 1960s and 1970s.
-- Imagine it is 1964. Have students create campaign slogans for [Margaret Chase Smith](https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism/3-516-b56d21sf4w) in her bid for president. How should they address gender in their slogans?
+1. The Separation of Powers and Congressional Oversight: Now and Then
+
+Ask students to watch the following sources:
+James McCord’s Testimony Before the Senate Select Watergate Committee (1973)
+John Dean Testifies Before the Senate Select Watergate Committee (1973)
+Senator Howard Baker Asks John Dean a Key Question (1973)
+Threatened With Impeachment, Nixon Resigns (1983)
+
+The Senate hearings ran for 51 days over the summer of 1973 and were televised gavel to gavel. Who testified, and what impact do you believe the cooperation of witnesses had on public perceptions? To what degree do you feel the excesses of the Nixon White House lend credence to the notion of an imperial presidency?
+
+How did the members of the House Judiciary Committee approach the impeachment hearings in 1974? Why did so many reference the Constitution and what did they say? Whose remarks resonated with you most and why?
+
+Ask students to read this NPR article on the January 6 Committee and to compare it to the Watergate hearings in terms of its process and the political make-up of the committees. Identify the factors that differentiated the House of Representatives investigation into the January 6th, 2021, attack on the U.S. Capitol from the Watergate investigations.
+
+2.   The Lessons of Watergate
+     
+Ask students to watch the following sources: 
+An Ordinary Citizen Discusses the Morality of Watergate (1974)
+Congresswoman Barbara Jordan Reflects on Watergate (1975)
+Garrett Graff Discusses His Book, Watergate: A New History (2022)
+   
+Rep. Barbara Jordan (D, Texas) and Grace Crawley agree that Watergate exposed the lack of integrity and morality in government, but they disagree when it comes to preventing future scandals. What solutions does Jordan endorse?  What does Crawley see as the answer? Garrett Graff, writing on the 50th anniversary of the Watergate break-in, also weighs in. What lesson does he draw from the Watergate scandal?  What lessons do you think should be drawn?
+
+Ask students to put themselves in Crawley’s place: As a citizen in 1974, what would they say in a letter to the editor of Time magazine? What points would they make about political integrity, accountability, and upholding the Constitution?
+
+3.   The Judiciary v. the Executive
+      
+Ask students to watch the following sources:
+The President and the Courts (1973)
+Threatened With Impeachment, Nixon Resigns (1983)
+
+What role did the Special Prosecutor and the Senate Select Committee play in getting key evidence released? Why did Nixon refuse to surrender the tapes and what specific arguments did he make? Do you find these persuasive? 
+ 
+Imagine you are a lawyer arguing on behalf of the United States in the 1974 United States v. NIxon case: What points would you make in order to convince the Supreme Court that President Nixon should surrender all the White House tapes?
+
+4.   Interpreting Watershed Moments
+
+Ask students to watch:
+James McCord’s Testimony Before the Senate Select Watergate Committee (1973)
+Senator Howard Baker Asks John Dean a Key Question (1973)
+Threatened With Impeachment, Nixon Resigns (1983)
+
+Why do you think these were turning points in the Watergate scandal? What made them so dramatic and in what way did they advance the public’s understanding of the inner workings of the Nixon administration?
+
+Political cartoonists like Herblock (Herbert Block), Pat Oliphant, and Draper Hill captured many of the watershed moments of the Watergate scandal in their work. Some of the most memorable were Herblock’s Watergate cartoons  published in The Washington Post (1972-74).
+
+Using Herblock’s cartoons as a model, ask students to create a political cartoon based on the key events documented by the video sources or others that they identify.
+
+If time permits, create a classroom exhibit based on the cartoons and ask students to lead tours in which they interpret the meaning of the cartoons and explain their historical significance.
+
 
 <hr>
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Feminism-and-Anti-Feminism_Teaching-Tips.pdf
 
 ## Additionalresources
+[**Richard Nixon's Political Scandal: Researching Watergate in the Manuscript Collections
+(Library of Congress)**](https://guides.loc.gov/watergate-manuscripts)
+[**Watergate and the Constitution (National Archives)**](https://www.archives.gov/education/lessons/watergate-constitution)
+[**Watergate: Portraiture and Intrigue (National Portrait Gallery)**](https://npg.si.edu/exhibition/watergate)
+[**Watergate Committee hearings may be both an inspiration and a hard act to follow (NPR)**](https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow)
+[**How TV news has changed 50 years since Watergate (WBUR, NPR)**](https://www.wesa.fm/2022-06-17/how-tv-news-has-changed-50-years-since-watergate)
+[**A Look Back at the Senate Watergate Hearings (PBS NewsHour)**](https://www.tpt.org/pbs-newshour/video/newshour-look-back-senate-watergate-hearings/)
+[**Richard Nixon and Watergate (Bill of Rights Institute)**](https://billofrightsinstitute.org/essays/richard-nixon-and-watergate)
+[**The Watergate Story (Washington Post Archives)**](https://www.washingtonpost.com/wp-srv/politics/special/watergate/part1.html)
+[**Frost/Nixon: The Original Watergate Interviews (DVD.com/Netflix)**](https://dvd.netflix.com/Movie/Frost-Nixon-The-Original-Watergate-Interviews/70110665)
+[**“Gavel-to-Gavel”: The Watergate Scandal and Public Television (The American Archive of Public Broadcasting)**](https://americanarchive.org/exhibits/watergate)
+[**Public trust in government: 1958-2015 (The Pew Research Center)**](https://www.pewresearch.org/politics/wp-content/uploads/sites/4/2015/11/Trust-1.png)
 
-- [**The Battle to Ratify the Equal Rights Amendment (ERA)**](https://mass.pbslearningmedia.org/resource/ilgbh20-soc-ush-eraratify/the-battle-to-ratify-the-equal-rights-amendment/us-history-collection/), PBS Learning Media
-- [**Women's Rights: Primary Sources and Teaching Activities**](https://www.docsteach.org/topics/women), DOCSTeach, U.S. National Archives
-- [**Feminism: The Second Wave**](https://www.womenshistory.org/exhibits/feminism-second-wave), National Women's History Museum
-- [**Women's Liberation Movement Print Culture**](https://repository.duke.edu/dc/wlmpc), Duke University Libraries
 
 ## Youmayalsolike
-- special_collection,woman-series
+- special_collection,watergate
 
 ## Citation
 
-Galvao, Lindsey. "Feminism, Anti-Feminism, and Social Activism from the 1960s to the 1980s." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/feminism-and-anti-feminism.
 
 ## Guid
 ## Cliptime
