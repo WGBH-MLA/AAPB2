@@ -69,8 +69,8 @@ What are the most important causes of healthcare disparities and health inequiti
 **1) The History and Legacy of Medical Experimentation**
 
 Ask students to watch the following sources:
-- President Clinton Apologizes for the Tuskegee Syphilis Study
-- Native Americans Resist the COVID-19 Vaccines
+- [President Clinton Apologizes for the Tuskegee Syphilis Study](https://americanarchive.org/primary_source_sets/healthcare-disparities/1-507-639k35mx8h)
+- [Native Americans Resist the COVID-19 Vaccines](https://americanarchive.org/primary_source_sets/healthcare-disparities/10-3fcefa871eb)
 
 Lead a class discussion, asking students:
 
@@ -102,11 +102,11 @@ As an extension activity, show students  [Wicked Silence](https://www.youtube.co
 
 Ask students to watch the following sources:
 
-- Health Care for the Needy: Orange County's Time Bomb
-- The Changing Face of Medicaid
-- The Affordable Care Act and Medicaid Expansion in Kentucky
-- The Black Maternal and Morbidity Crisis in Texas
-- COVID and the Racial Disparities in Decreased Life Expectancy
+- [Health Care for the Needy: Orange County's Time Bomb](https://americanarchive.org/primary_source_sets/healthcare-disparities/3-221-580k6r84)
+- [The Changing Face of Medicaid](https://americanarchive.org/primary_source_sets/healthcare-disparities/4-507-0c4sj1b82j)
+- [The Affordable Care Act and Medicaid Expansion in Kentucky](https://americanarchive.org/primary_source_sets/healthcare-disparities/8-525-sx6445jm8v)
+- [The Black Maternal and Morbidity Crisis in Texas](https://americanarchive.org/primary_source_sets/healthcare-disparities/9-525-z02z31q31z)
+- [COVID and the Racial Disparities in Decreased Life Expectancy](https://americanarchive.org/primary_source_sets/healthcare-disparities/11-7adf50b091d)
 
 Lead a class discussion, asking students:
 
@@ -136,10 +136,10 @@ long-term impact?  (Students should consider both the PBS clip and set resources
       
 Ask students to watch or listen to the following sources:
 
-- The Health Consequences of Food Deserts
-- Health, the Environment, and the Flint Water Crisis
-- No Clean Water:  The Colonias of the Rio Grande Valley
-- Disparities in Care:  Physicians and Racial Bias
+- [The Health Consequences of Food Deserts](https://americanarchive.org/primary_source_sets/healthcare-disparities/6-525-qr4nk3799s)
+- [Health, the Environment, and the Flint Water Crisis](https://americanarchive.org/primary_source_sets/healthcare-disparities/7-69be13fc74c)
+- [No Clean Water:  The Colonias of the Rio Grande Valley](https://americanarchive.org/primary_source_sets/healthcare-disparities/2-526-p843r0r27w)
+- [Disparities in Care:  Physicians and Racial Bias](https://americanarchive.org/primary_source_sets/healthcare-disparities/5-293-43nvx52f)
 
 Lead a class discussion, asking students:
 
@@ -176,7 +176,7 @@ Finally, ask students to identify what steps are needed to eliminate food desert
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Healthcare-Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Healthcare-Disparities-Teaching-Tips.pdf
 
 ## Additionalresources
 
