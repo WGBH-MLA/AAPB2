@@ -12,7 +12,7 @@
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Pheolyn-Allen.jpg"/>
   <a class="name">Pheolyn Allen</a>
-  <a class="title">2023 Junio Fellow, Library of Congress and dual-title PhD student in English and African-American and Diaspora Studies at Pennsylvania State University</a>
+  <a class="title">2023 Junior Fellow, Library of Congress and dual-title PhD student in English and African-American and Diaspora Studies at Pennsylvania State University</a>
 
 ## Resources
 
@@ -70,6 +70,7 @@ In addition to exploring the founding of Black Studies, public broadcasting also
 - [](/catalog/cpb-aacip-529-7659c6t81v)
 - [](/catalog/cpb-aacip-305-1289335k)
 - [](/catalog/cpb-aacip-305-89r22j6z)
+- [](/catalog/cpb-aacip/345-33dz0cv0)
 - [](/catalog/cpb-aacip-191-182jm7sh)
 - [](/catalog/cpb-aacip-17-89281hpg)
 - [](/catalog/cpb-aacip-3286ed6e25c)
