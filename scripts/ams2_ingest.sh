@@ -2,6 +2,9 @@
 SAVEIFS=$IFS
 IFS=$'\n'
 
+
+echo "this is just a way for edits to occur!!!!"
+
 echo "please submit the folder containing files to ingest"
 read ingest
 
