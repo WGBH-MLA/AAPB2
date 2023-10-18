@@ -1,10 +1,11 @@
 # Notes
 
-UPDATE THIS NUMBER! 14
+UPDATE THIS ONCE WE'RE SURE!
 
 ## Summary
 
 <a name="1"></a><sup>1</sup>William Issel, “‘Peace with Justice’: Bishop Mark J. Hurley and the San Francisco State College Strike,” *American Catholic Studies* 126, no. 3 (2015): 1–23, https://www.jstor.org/stable/44195519.
+
 
 
 
