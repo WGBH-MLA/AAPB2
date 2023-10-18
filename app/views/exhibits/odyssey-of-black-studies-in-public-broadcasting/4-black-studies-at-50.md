@@ -54,15 +54,52 @@ Black Studies has had an indelible effect on higher education, Black cultural wo
 
 #### Next UPDATE!: [Latino Public Television History](/exhibits/latino-empowerment/3-latino-public-television-history)
 
-## Resources UPDATE!
+## Resources
 
-- [Radio KDNA AAPB collection](https://americanarchive.org/special_collections/radio-kdna)
-
+- [Televising Black Politics in the Black Power Era: *Black Journal* and *Soul!*, AAPB exhibit](https://americanarchive.org/exhibits/black-power/)
+- [*In Black America*, AAPB collection](https://americanarchive.org/special_collections/kut-in-black-america/)
+- [*Black Journal*, AAPB collection](https://americanarchive.org/special_collections/black-journal/)
+- [African American Studies: Foundations and Key Concepts, *JSTOR Daily*](https://daily.jstor.org/african-american-studies-foundations-and-key-concepts/)
+- [National Council for Black Studies](https://ncbsonline.org/)
+- [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement/)
+  
 ## Cover UPDATE!
   <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
 
 ## Gallery
 
-## Records UPDATE!
+## Records
 
-- [](/catalog/cpb-aacip-88-0000002c)
+- [](/catalog/cpb-aacip-62-1v5bc3t37z)
+- [](/catalog/cpb-aacip-62-kp7tm72c6x)
+- [](/catalog/cpb-aacip-529-8g8ff3n557)
+- [](/catalog/cpb-aacip-529-rn3028qv4k)
+- [](/catalog/cpb-aacip-529-445h990g1k)
+- [](/catalog/cpb-aacip-514-j678s4kj6z)
+- [](/catalog/cpb-aacip-293-vq2s46hp12)
+- [](/catalog/cpb-aacip-293-61rfjdrs)
+- [](/catalog/cpb-aacip-15-9s17ss5w)
+- [](/catalog/cpb-aacip-88-s46h12vq61)
+- [](/catalog/cpb-aacip-fb2cd765573)
+- [](/catalog/cpb-aacip-df0befbce31)
+- [](/catalog/cpb-aacip-1b389924a6a)
+- [](/catalog/cpb-aacip-f1ec16219f1)
+- [](/catalog/cpb-aacip-529-qr4nk37g39)
+- [](/catalog/cpb-aacip-529-cj87h1ft9m)
+- [](/catalog/cpb-aacip-529-bc3st7g114)
+- [](/catalog/cpb-aacip-529-5m6251gr14)
+- [](/catalog/cpb-aacip-529-jq0sq8rq81)
+- [](/catalog/cpb-aacip-529-w66930q94g)
+- [](/catalog/cpb-aacip-529-ks6j09xd29)
+- [](/catalog/cpb-aacip-529-p843r0r62f)
+- [](/catalog/cpb-aacip-529-j96057f42z)
+- [](/catalog/cpb-aacip-345-94hmh173)
+- [](/catalog/cpb-aacip-15-99p2w600)
+- [](/catalog/cpb-aacip-500-vm42wr90)
+- [](/catalog/cpb-aacip-529-7659c6t81v)
+- [](/catalog/cpb-aacip-305-1289335k)
+- [](/catalog/cpb-aacip-305-89r22j6z)
+- [](/catalog/cpb-aacip/345-33dz0cv0)
+- [](/catalog/cpb-aacip-191-182jm7sh)
+- [](/catalog/cpb-aacip-17-89281hpg)
+- [](/catalog/cpb-aacip-3286ed6e25c)
