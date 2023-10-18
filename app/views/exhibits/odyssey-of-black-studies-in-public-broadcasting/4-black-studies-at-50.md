@@ -64,7 +64,7 @@ Black Studies has had an indelible effect on higher education, Black cultural wo
 - [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement/)
   
 ## Cover UPDATE!
-  <img title="Cover Image" alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Origins-Radio-Cadena-engineer.jpg">
+  <img title="Clarence Block Jr. at Marcus Books. *PBS NewsHour Weekend* (Creative News Group (WNET) and NewsHour Productions (WETA), February 28, 2011)." alt="An engineer at Radio Cadena" src="https://s3.amazonaws.com/americanarchive.org/exhibits/pbsnewshour.png">
 
 ## Gallery
 
