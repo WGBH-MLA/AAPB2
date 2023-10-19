@@ -6,11 +6,11 @@
 
 <a name="1"></a><sup>1</sup> Magdaleno Manzanárez, “KBBF, the First Chicano, Bilingual Public Radio: An Alternative Voice in the Era of Media Mega-Mergers” (Paper delivered at the National Association of Chicana and Chicano Studies Conference, Guadalajara, Mexico, July 2006).
 
-<a name="2"></a><sup>2</sup> “Manzanárez, “KBBF,” 4.”
+<a name="2"></a><sup>2</sup> Félix Gutiérrez and Jorge Reina Schement, *Spanish Language Radio in the Southwestern United States* (Austin: University of Texas Press, 1979). 
 
 <a name="3"></a><sup>3</sup> Hugo Morales, quoted in Miles Corwin, "A Voice for Farm Workers," *Los Angeles Times*, August 20, 1989, 3.
 
-<a name="4"></a><sup>4</sup> Monica De La Torre, “‘*Programas Sin Vergüenza* (Shameless Programs)’: Mapping Chicanas in Community Radio in the 1970s,” *Women's Studies Quarterly* 43, no. 3/4 (Fall/Winter 2015): 175, http://www.jstor.org/stable/43958561.
+<a name="4"></a><sup>4</sup> Monica De La Torre, “‘*Programas Sin Vergüenza* (Shameless Programs)’: Mapping Chicanas in Community Radio in the 1970s,” *Women's Studies Quarterly* 43, no. 3/4 (Fall/Winter 2015): 175, http://www.jstor.org/stable/43958561. For more information on media activism, see Chon A. Noriega, *Shot in America: Television, the State, and the Rise of Chicano Cinema* (Minneapolis: University of Minnesota Press, 2000).
 
 <a name="5"></a><sup>5</sup> Manzanárez, “KBBF,” 4.
 
@@ -42,9 +42,9 @@
 
 <a name="19"></a><sup>19</sup> De La Torre, “Sonic Bridging,” 149.
 
-<a name="20"></a><sup>20</sup> Monica De La Torre, “Feminista Frequencies: Chicana Radio Activism in the Pacific Northwest,” in *Chicana Movidas: New Narratives of Activism and Feminism in the Movement Era*, ed. Dionne Espinoza, María Eugenia Cotera, and Maylei Blackwell (Austin: University of Texas Press, 2018), 167.
+<a name="20"></a><sup>20</sup> Casillas, Sounds of Belonging, 52-82.
 
-<a name="21"></a><sup>21</sup> De La Torre, “Feminista Frequencies,” 159-60.
+<a name="21"></a><sup>21</sup> Monica De La Torre, “Feminista Frequencies: Chicana Radio Activism in the Pacific Northwest,” in *Chicana Movidas: New Narratives of Activism and Feminism in the Movement Era*, ed. Dionne Espinoza, María Eugenia Cotera, and Maylei Blackwell (Austin: University of Texas Press, 2018), 167, 159-60.
 
 <a name="22"></a><sup>22</sup> Kimberlee Craig, “On the Air,” *Yakama Herald-Republic*, December 17, 1979, in Oscar Rosales Castañeda, “Radio KDNA: The Voice of the Farmworker, 1975-1985," The Seattle Civil Rights & Labor History Project,  https://depts.washington.edu/civilr/farmwk_ch8.htm.
 
