@@ -1,8 +1,8 @@
-# *Le Show*
+# *Le Show* Collection
 
 ## Thumbnail
 
-## Collection Summary
+## Summary
 
 Since December 1983, the comedian, actor, writer, musician, songwriter, and filmmaker Harry Shearer has produced a weekly hour-long series on public radio called *Le Show*, one of the only satirical radio programs still on air. Described as an “outsider with insider knowledge,” Shearer for the past forty years has employed his prodigious talents as a voice actor, deep roots in comic traditions, and sound studio virtuosity to produce incisive, entertaining creations that uncover and satirize political and cultural trends. Shearer is "not only the best political satirist around," writer, publisher and veteran pundit Paul Krassner told the *New York Times* in 2003. "But there hasn't been anyone since Lenny Bruce producing these little theater pieces and playing all the parts. I edited Bruce's autobiography, and when anyone asks me who follows in his footsteps, I say it's Harry.'"
 
@@ -15,26 +15,28 @@ Harry Shearer’s earliest public radio show, a two-hour Sunday morning show cal
 
 In 2021, the Library of Congress and Harry Shearer’s company Century of Progress Productions began to work together to ensure that Shearer’s collection of more than 2,000 *Le Show* programs and pre-recorded elements existing on formats that are at risk of degradation, would be preserved for present and future generations and made available online on the website of AAPB. For many of the programs, Shearer owned the only copies in existence, on cassettes, CDs, or DATs. The Library of Congress contracted with Memnon Archiving Services to digitize the programs to preservation specifications. AAPB is grateful to Mr. Shearer for providing the Library of Congress with copies of *Le Show* programs and segments, and to Pam Halstead of Century of Progress Productions and Rosa A. Eberly, Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University, for their help.
 
-## Featured Items
+## Featured CHANGE IMGAGES
 
-[![Ronald Reagan, December 11, 1983](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-4dceb4e6772.jpg)](/catalog/cpb-aacip-4dceb4e6772)
-[![Big Job Hunt](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-99369a98a47.jpg)](/catalog/cpb-aacip-99369a98a47)
-[![African folktale](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-8aae108798a.jpg)](/catalog/cpb-aacip-8aae108798a)
-[![Kasa-Jizo](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-b2ecf4c5a96.jpg)](/catalog/cpb-aacip-b2ecf4c5a96)
-[![Girls in Sports](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-80e402cebc1.jpg)](/catalog/cpb-aacip-80e402cebc1)
-[![Hurtful Stereotypes](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-d95a9e54e23.jpg)](/catalog/cpb-aacip-d95a9e54e23)
+[![Ronald Reagan, December 11, 1983](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-4dceb4e6772.jpg)](/catalog/cpb-aacip-b74fa8da087?start=8211.18&end=8568.1)
+[![Bad Days at Black Rock, March 28, 1999](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-99369a98a47.jpg)](/catalog/cpb-aacip-4874d51443b?start=2716.19&end=3109.71)
+[![We Tortured Some Folks, December 14, 2014](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-8aae108798a.jpg)](/catalog/cpb-aacip-8215fbc0c1b?start=2911.13&end=3220.26)
+[![CPR Auditions, June 16, 2016](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-b2ecf4c5a96.jpg)](/catalog/cpb-aacip-2774697e273?start=1678.56&end=2058.6)
+[![Clintonsomething, January 8, 2017](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-80e402cebc1.jpg)](/catalog/cpb-aacip-d4d6d3bcc1c?start=1449.76&end=1864.32)
+[![Executive Time, February 10, 2019](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-d95a9e54e23.jpg)](/catalog/cpb-aacip-0da5a0e8f8e?start=1924.11&end=2255.12)
 
 ## Resources
 
-- [Vegetable Soup Season 1, New York State Archives](https://archive.org/details/vegetable_soup_season_one)
-- [<em>”A Noble Experiment in Human Values”: The Children’s Television Series <em>Vegetable Soup</em> and its Initiative to Change the Environment for Racism in 1970s America</em>, Jeffrey S. Reznick, PubMed Central.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957131/)
-- [Vegetable Soup: Parent-Teacher Guide](https://archive.org/details/ERIC_ED126165)
-- [<em>”A Noble Experiment in Human Values”: The Children’s Television Series <em>Vegetable Soup</em> and its Initiative to Change the Environment for Racism in 1970s America</em>, Jeffrey S. Reznick, video abstract.](https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101754553-vid)
-- [New York State Archives](http://www.archives.nysed.gov/)
+- [Harry Shearer’s *Le Show*: Sonic Portal to News, Satire, Memory, History](https://americanarchive.org/exhibits/le-show)
+- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
+- [WWNO 89.9 New Orleans Public](https://www.wwno.org/)
+- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
+- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
+- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
+- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Funders
 
-## Help
+## Help CHECK
 
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
