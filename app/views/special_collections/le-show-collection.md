@@ -15,14 +15,14 @@ Harry Shearer’s earliest public radio show, a two-hour Sunday morning show cal
 
 In 2021, the Library of Congress and Harry Shearer’s company Century of Progress Productions began to work together to ensure that Shearer’s collection of more than 2,000 *Le Show* programs and pre-recorded elements existing on formats that are at risk of degradation, would be preserved for present and future generations and made available online on the website of AAPB. For many of the programs, Shearer owned the only copies in existence, on cassettes, CDs, or DATs. The Library of Congress contracted with Memnon Archiving Services to digitize the programs to preservation specifications. AAPB is grateful to Mr. Shearer for providing the Library of Congress with copies of *Le Show* programs and segments, and to Pam Halstead of Century of Progress Productions and Rosa A. Eberly, Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University, for their help.
 
-## Featured CHANGE IMGAGES
+## Featured CHECK
 
-[![Ronald Reagan, December 11, 1983](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-4dceb4e6772.jpg)](/catalog/cpb-aacip-b74fa8da087?start=8211.18&end=8568.1)
-[![Bad Days at Black Rock, March 28, 1999](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-99369a98a47.jpg)](/catalog/cpb-aacip-4874d51443b?start=2716.19&end=3109.71)
-[![We Tortured Some Folks, December 14, 2014](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-8aae108798a.jpg)](/catalog/cpb-aacip-8215fbc0c1b?start=2911.13&end=3220.26)
-[![CPR Auditions, June 16, 2016](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-b2ecf4c5a96.jpg)](/catalog/cpb-aacip-2774697e273?start=1678.56&end=2058.6)
-[![Clintonsomething, January 8, 2017](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-80e402cebc1.jpg)](/catalog/cpb-aacip-d4d6d3bcc1c?start=1449.76&end=1864.32)
-[![Executive Time, February 10, 2019](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-d95a9e54e23.jpg)](/catalog/cpb-aacip-0da5a0e8f8e?start=1924.11&end=2255.12)
+[![Ronald Reagan, December 11, 1983](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-b74fa8da087?start=8211.18&end=8568.1)
+[![Bad Days at Black Rock, March 28, 1999](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-4874d51443b?start=2716.19&end=3109.71)
+[![We Tortured Some Folks, December 14, 2014](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-8215fbc0c1b?start=2911.13&end=3220.26)
+[![CPR Auditions, June 16, 2016](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-2774697e273?start=1678.56&end=2058.6)
+[![Clintonsomething, January 8, 2017](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-d4d6d3bcc1c?start=1449.76&end=1864.32)
+[![Executive Time, February 10, 2019](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-0da5a0e8f8e?start=1924.11&end=2255.12)
 
 ## Resources
 
