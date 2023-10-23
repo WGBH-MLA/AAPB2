@@ -1,1 +1,50 @@
+# *Le Show*
 
+## Thumbnail
+
+## Collection Summary
+
+Since December 1983, the comedian, actor, writer, musician, songwriter, and filmmaker Harry Shearer has produced a weekly hour-long series on public radio called *Le Show*, one of the only satirical radio programs still on air. Described as an “outsider with insider knowledge,” Shearer for the past forty years has employed his prodigious talents as a voice actor, deep roots in comic traditions, and sound studio virtuosity to produce incisive, entertaining creations that uncover and satirize political and cultural trends. Shearer is "not only the best political satirist around," writer, publisher and veteran pundit Paul Krassner told the *New York Times* in 2003. "But there hasn't been anyone since Lenny Bruce producing these little theater pieces and playing all the parts. I edited Bruce's autobiography, and when anyone asks me who follows in his footsteps, I say it's Harry.'"
+
+The *Le Show* Collection includes more than 2,000 programs and pre-recorded elements from 1983 to the present. For some broadcasts, especially for the earliest years, only pre-recorded elements exist. *Le Show* episodes typically include news stories often read with sardonic inflections and commentary, along with comic sketches and original songs that parody powerful political, corporate, media, and show business figures. The news reports detail often-buried perspectives on official policies (“News from Outside the Bubble”) and organizational cultures (“News from Inspectors General”); perception management (“Apologies of the Week”); trends in business, media, and advertising (“Reading the Trades”); threats to the planet (“News of the Warm,” “News of the Atom,” and “News of Microplastics”); and cyber-security breaches (“Smart World”). Shearer’s comic sketches and song parodies present presidents in ongoing series modeled adroitly on pertinent popular culture formats. “Hellcats of the White House” was presented as a movie starring President Ronald Reagan; “Clintonsomething,” a baby boomer lifestyle melodrama; “41 Calls 43,” a telephone routine between the two presidents Bush; “Father Knows Best,” a 1950s sitcom with the Obamas; and “The Appresidentice,” a reality show starring former President Trump assigning weekly tasks to underlings. In addition, Shearer has conducted more than 50 in-depth interviews with distinguished guests on topics such as Hurricane Katrina, taxes, artificial intelligence, and data breaches, and with New Orleans musicians performing live in studio sessions.
+
+
+## Background
+
+Harry Shearer’s earliest public radio show, a two-hour Sunday morning show called *The Voice of America*, was first broadcast on KCRW in Santa Monica, California, on December 4, 1983. Although AAPB does not have a recording of that show, the archive holds five pre-recorded elements that he created for his second broadcast, on December 11, 1983, including a [“conversation” with President Reagan](https://americanarchive.org/catalog/cpb-aacip-b74fa8da087?start=8211.18&end=8568.1). The *Le Show* Collection includes two full *Voice of America* programs and pre-recorded elements that Shearer prepared for twelve others. The *Voice of America* lasted until August 5, 1984, when Shearer left Los Angeles to return to *Saturday Night Live*. When Shearer came back to KCRW in 1985, he called [his new one-hour show “The Hour of Power.”](https://americanarchive.org/catalog/cpb-aacip-97bfe68fedb?start=156.7&end=244.09) Shearer soon changed the name again, after a televangelist, also broadcasting on Sunday morning with the title “Hour of Power,” objected. [KCRW initiated a contest for listeners to call- and write-in with suggestions](https://americanarchive.org/catalog/cpb-aacip-b2e799962c4?start=1273.96&end=1560.1), and Shearer settled on *Le Show*. Later in the 1980s, *Le Show* began to be broadcast via satellite over NPR stations throughout the U.S. and internationally via satellite. Since 2014, WWNO in New Orleans has been the host station of *Le Show*.
+
+In 2021, the Library of Congress and Harry Shearer’s company Century of Progress Productions began to work together to ensure that Shearer’s collection of more than 2,000 *Le Show* programs and pre-recorded elements existing on formats that are at risk of degradation, would be preserved for present and future generations and made available online on the website of AAPB. For many of the programs, Shearer owned the only copies in existence, on cassettes, CDs, or DATs. The Library of Congress contracted with Memnon Archiving Services to digitize the programs to preservation specifications. AAPB is grateful to Mr. Shearer for providing the Library of Congress with copies of *Le Show* programs and segments, and to Pam Halstead of Century of Progress Productions and Rosa A. Eberly, Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University, for their help.
+
+## Featured Items
+
+[![Ronald Reagan, December 11, 1983](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-4dceb4e6772.jpg)](/catalog/cpb-aacip-4dceb4e6772)
+[![Big Job Hunt](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-99369a98a47.jpg)](/catalog/cpb-aacip-99369a98a47)
+[![African folktale](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-8aae108798a.jpg)](/catalog/cpb-aacip-8aae108798a)
+[![Kasa-Jizo](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-b2ecf4c5a96.jpg)](/catalog/cpb-aacip-b2ecf4c5a96)
+[![Girls in Sports](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-80e402cebc1.jpg)](/catalog/cpb-aacip-80e402cebc1)
+[![Hurtful Stereotypes](https://s3.amazonaws.com/americanarchive.org/special-collections/cpb-aacip-d95a9e54e23.jpg)](/catalog/cpb-aacip-d95a9e54e23)
+
+## Resources
+
+- [Vegetable Soup Season 1, New York State Archives](https://archive.org/details/vegetable_soup_season_one)
+- [<em>”A Noble Experiment in Human Values”: The Children’s Television Series <em>Vegetable Soup</em> and its Initiative to Change the Environment for Racism in 1970s America</em>, Jeffrey S. Reznick, PubMed Central.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957131/)
+- [Vegetable Soup: Parent-Teacher Guide](https://archive.org/details/ERIC_ED126165)
+- [<em>”A Noble Experiment in Human Values”: The Children’s Television Series <em>Vegetable Soup</em> and its Initiative to Change the Environment for Racism in 1970s America</em>, Jeffrey S. Reznick, video abstract.](https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101754553-vid)
+- [New York State Archives](http://www.archives.nysed.gov/)
+
+## Funders
+
+## Help
+
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
+
+Most of the records in the collection include two episodes, placed back-to-back.
+
+## Terms
+
+
+## Timeline
+
+## Sort 
+
+asset_date+asc
