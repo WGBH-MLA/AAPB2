@@ -2,6 +2,8 @@
 
 ## Thumbnail
 
+![*Le Show*](https://s3.amazonaws.com/americanarchive.org/special-collections/Harry_KCRW_2.jpg "*Le Show*") 
+
 ## Summary
 
 Since December 1983, the comedian, actor, writer, musician, songwriter, and filmmaker Harry Shearer has produced a weekly hour-long series on public radio called *Le Show*, one of the only satirical radio programs still on air. Described as an “outsider with insider knowledge,” Shearer for the past forty years has employed his prodigious talents as a voice actor, deep roots in comic traditions, and sound studio virtuosity to produce incisive, entertaining creations that uncover and satirize political and cultural trends. Shearer is "not only the best political satirist around," writer, publisher and veteran pundit Paul Krassner told the *New York Times* in 2003. "But there hasn't been anyone since Lenny Bruce producing these little theater pieces and playing all the parts. I edited Bruce's autobiography, and when anyone asks me who follows in his footsteps, I say it's Harry.'"
