@@ -86,8 +86,8 @@ keep in mind that we may be able to make greater use of ORR content than you;
 we may have rights to use and display ORR content that you may not.
 
 **3.e.** If you have rights-related or other information about an item you've seen
-on the AAPB, please contact
-[Casey E. Davis, Project Manager for the AAPB at GBH](mailto:casey_davis@wgbh.org)
+on the AAPB, please contact the
+[Project Manager for the AAPB at GBH](mailto:aapb_notifications@wgbh.org)
 with your contact details, the additional information, and a link to the
 relevant content, so that appropriate information may be provided to future
 users. If you provide us with any such materials, you grant us a non-exclusive,
@@ -95,8 +95,7 @@ royalty-free, perpetual right to use those materials.
 
 **3.f.** If you are the owner of a copyright in ORR content and believe your work
 has not been properly attributed to you or has been used without permission, we
-want to hear from you. Please contact
-[Casey E. Davis, Project Manager for the AAPB at GBH](mailto:casey_davis@wgbh.org)
+want to hear from you. Please contact the [Project Manager for the AAPB at GBH](mailto:aapb_notifications@wgbh.org)
 with your contact details, a link to the relevant content, and a
 description of the location of your copyrighted material within the content (if
 necessary). See our general [Terms of Service](/legal/tou) for more information.
@@ -117,8 +116,8 @@ was granted. No other use of your password to access the ORR is authorized.
 
 **4.d.** Your password is personal to you. You agree not to recirculate your
 password to any other people or organizations, and to report any breach in the
-security of your password, or its unauthorized use, promptly to
-[Casey E. Davis, Project Manager for the AAPB at GBH](mailto:casey_davis@wgbh.org).
+security of your password, or its unauthorized use, promptly to the
+[Project Manager for the AAPB](mailto:aapb_notifications@wgbh.org).
 
 ### 5.  Liability
 

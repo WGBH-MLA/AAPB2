@@ -51,7 +51,7 @@ What was the impact of the Tet Offensive on the Vietnam War?
 
 1) Ask students to watch the following sources:
 
-- [Interview with Nguyen Thi Dinh of the National Liberation Front](https://americanarchive.org/primary_source_sets/tet-offensive/8-15-xp6tx35h6q) (1981
+- [Interview with Nguyen Thi Dinh of the National Liberation Front](https://americanarchive.org/primary_source_sets/tet-offensive/8-15-xp6tx35h6q) (1981)
 - [Interview with North Vietnamese General Anh Tuan](https://americanarchive.org/primary_source_sets/tet-offensive/1-15-r785h7c46d) (1981)
 - [Major General Tran Do Describes the Objectives of the Tet Offensive](https://americanarchive.org/primary_source_sets/tet-offensive/5-15-w950g3hd9s) (1981)
 

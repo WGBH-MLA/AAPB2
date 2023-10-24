@@ -11,7 +11,7 @@
   <ul class="hide" id="exhibit-sections">
 
     <li class="exhibit-section-disabled item">
-      <a class="exhibit-color<%= @exhibit_color_suffix %> section" href="/exhibits/<%= @exhibit.top_path %>">Overview</a>
+      <a class="exhibit-color<%= @exhibit_color_suffix %> section" href="/exhibits/<%= @exhibit.top_path %>"><%= @exhibit.overview_title %></a>
     </li>
 
     <% @exhibit.sections.each do |section| %>
