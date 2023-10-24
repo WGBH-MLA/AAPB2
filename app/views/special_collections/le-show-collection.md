@@ -44,6 +44,15 @@ Most of the records in the collection include two episodes, placed back-to-back.
 
 ## Terms
 
+- [41 Calls 43 (Bush)](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2241+calls+43%22)
+- [43 Calls 41 (Bush)](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2243+calls+41%22)
+- [Clintonsomething](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=clintonsomething)
+- [Father Knows Best (Obama)](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22father+knows+best%22&exact_or_range=range&after_date=2009-01-20&before_date=2017-01-20&commit=Update)
+- [Hellcats of the White House (Reagan)](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&q=hellcats&sort=asset_date+asc)
+- [Nixon in Heaven](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22nixon+in+heaven%22)
+- [Notes for Presidential Memoirs (George H.W. Bush)](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22presidential+memoirs%22)
+- [The Appresidentice (Trump)](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&q=Appresidentice&sort=asset_date+asc)
+- [The Marapprentice (Trump)](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&sort=asset_date+asc&q=Marapprentice)
 
 ## Timeline
 
