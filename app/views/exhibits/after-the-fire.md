@@ -40,7 +40,8 @@ The term “riot” is used repeatedly in this exhibit to reference incidents of
 
 ### Highlights from After the Fire: Explanations and Justifications
 
-<iframe class="exhibit-small-iframe" src="https://vimeo.com/877568557" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/877568557?h=b4b33bc4f6" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/877568557">After the Fire: NewsHour Coverage of Civil Unrest in America, 1991-2021</a> from <a href="https://vimeo.com/user208038441">Meghan Sorensen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 #### Next: [L.A. Riots](/exhibits/after-the-fire/2-la-riots)
 
