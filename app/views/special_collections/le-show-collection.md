@@ -1,4 +1,4 @@
-# *Le Show* Collection
+# *Le Show*
 
 ## Thumbnail
 
@@ -18,7 +18,7 @@ Harry Shearer’s earliest public radio show, a two-hour Sunday morning show cal
 
 In 2021, the Library of Congress and Harry Shearer’s company Century of Progress Productions began to work together to ensure that Shearer’s collection of more than 2,000 *Le Show* programs and pre-recorded elements existing on formats that are at risk of degradation, would be preserved for present and future generations and made available online on the website of AAPB. For many of the programs, Shearer owned the only copies in existence, on cassettes, CDs, or DATs. The Library of Congress contracted with Memnon Archiving Services to digitize the programs to preservation specifications. AAPB is grateful to Mr. Shearer for providing the Library of Congress with copies of *Le Show* programs and segments, and to Pam Halstead of Century of Progress Productions and Rosa A. Eberly, Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University, for their help.
 
-## Featured CHECK
+## Featured
 
 [![Ronald Reagan, December 11, 1983](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-b74fa8da087?start=8211.18&end=8568.1)
 [![Bad Days at Black Rock, March 28, 1999](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-4874d51443b?start=2716.19&end=3109.71)
@@ -39,11 +39,9 @@ In 2021, the Library of Congress and Harry Shearer’s company Century of Progre
 
 ## Funders
 
-## Help CHECK
+## Help 
 
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
-
-Most of the records in the collection include two episodes, placed back-to-back.
 
 ## Terms
 
