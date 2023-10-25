@@ -205,7 +205,7 @@ Shearer follows the sonic satire with "You Curse at Girls," an earnest song abou
 
 ## Resources
 
-- [Harry Shearer’s *Le Show*: Sonic Portal to News, Satire, Memory, History](https://americanarchive.org/exhibits/le-show)
+- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
 - [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
 - [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
 - [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
