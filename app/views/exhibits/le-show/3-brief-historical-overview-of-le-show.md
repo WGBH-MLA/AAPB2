@@ -96,6 +96,15 @@ The arrangement with KCSN lasted a little more than a year. But *Le Show* remain
 
 ## Resources
 
+- [Harry Shearer’s *Le Show*: Sonic Portal to News, Satire, Memory, History](https://americanarchive.org/exhibits/le-show)
+- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
+- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
+- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
+- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
+- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
+- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
+- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
+
 ## Cover
   <img title="Cover Image" alt="Harry Shearer at the CD Library." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ShearerHarryCDlibrary.jpg">
 
