@@ -4,7 +4,7 @@
 
 ## Summary 
 
-*Le Show*, Harry Shearer’s hour-long news commentary and satirical sketch series, has been broadcast weekly since 1983, one of the only satirical radio shows still on the air. Digital preservation of the AAPB’s *Le Show* Collection was supported by The National Recording Preservation Board of the Library of Congress. We are grateful to Mr. Shearer for providing the Library of Congress with copies of *Le Show* programs and segments, often the only copies in existence, and to Pam Halstead for her help.
+*Le Show*, Harry Shearer’s hour-long news commentary and satirical sketch series, has been broadcast weekly since 1983, one of the only satirical radio shows still on the air. Digital preservation of the AAPB’s [*Le Show* Collection](https://americanarchive.org/special_collections/le-show-collection) was supported by The National Recording Preservation Board of the Library of Congress. We are grateful to Mr. Shearer for providing the Library of Congress with copies of *Le Show* programs and segments, often the only copies in existence, and to Pam Halstead for her help.
 
 "Harry Shearer’s *Le Show*: Sonic Portal to News, Satire, Memory, History" was curated by Rosa A. Eberly, Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University. We thank Dr. Eberly for creating the exhibit and for her assistance with the digitization effort.
 
