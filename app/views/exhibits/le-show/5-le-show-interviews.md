@@ -22,7 +22,7 @@ Author of *The Great Influenza: The Story of the Deadliest Pandemic in History* 
 - [**June 14, 2020**](https://americanarchive.org/catalog/cpb-aacip-657d1c23aa0)
 
 #### Dan Baum
-Author of "Nine Lives: Death and Life in New Orleans"
+Author of *Nine Lives: Death and Life in New Orleans*
 
 - [**April 26, 2009**](https://americanarchive.org/catalog/cpb-aacip-db89878a5b9)
 
@@ -42,14 +42,10 @@ Director and curator of Prospect 1 New Orleans
 - [**January 4, 2009**](https://americanarchive.org/catalog/cpb-aacip-c10d13a1164)
 
 #### Dr. Stephanie Kelton
-Associate Professor of Economics at the University of Missouri-Kansas City
+Associate Professor of Economics at the University of Missouri-Kansas City, and Professor of Public Policy and Economics at Stony Brook University
 
 - [**October 28, 2012**](https://americanarchive.org/catalog/cpb-aacip-a0e8ac43689)
 - [**November 10, 2014**](https://americanarchive.org/catalog/cpb-aacip-9830559ecbb)
-
-#### Dr. Stephanie Kelton
-Professor of Public Policy and Economics at Stony Brook University
-
 - [**October 21, 2018**](https://americanarchive.org/catalog/cpb-aacip-7cc60373656)
 - [**April 19, 2020**](https://americanarchive.org/catalog/cpb-aacip-115a0d1ba62)
 
@@ -59,7 +55,7 @@ Civil and Mechanical Engineer at U.S. Army Corps of Engineers
 - [**September 13, 2009**](https://americanarchive.org/catalog/cpb-aacip-ad63320d167)
 
 #### Scott Gottlieg
-Former FDA Commissioner and author of "Uncontrolled Spread: Why COVID-19 Crushed Us and How We Can Defeat the Next Pandemic"
+Former FDA Commissioner and author of *Uncontrolled Spread: Why COVID-19 Crushed Us and How We Can Defeat the Next Pandemic*
 
 - [**September 19, 2021**](https://americanarchive.org/catalog/cpb-aacip-fbc93cd9cec)
 
@@ -84,12 +80,12 @@ Economics professor at the University of Texas at Austin
 - [**April 24, 2016**](https://americanarchive.org/catalog/cpb-aacip-475a8182ebe)
 
 #### Max Holland
-Author of "Leak: Why Mark Flet Became Deep Throat"
+Author of *Leak: Why Mark Flet Became Deep Throat*
 
 - [**May 28, 2017**](https://americanarchive.org/catalog/cpb-aacip-1052d43dc39)
 
 #### Hubert Horan
-Transportaion consultant and one of the leading experts of the economics of Uber
+Transportation consultant and one of the leading experts of the economics of Uber
 
 - [**December 1, 2019**](https://americanarchive.org/catalog/cpb-aacip-b2ae1b1f3f5)
 
@@ -109,18 +105,10 @@ Journalist, author, and a senior editor at The Intercept
 - [**March 26, 2023**](https://americanarchive.org/catalog/cpb-aacip-cee7609b504)
   
 #### Gary Marcus
-NYU Professor of Psychology and Neural Science, on artificial intelligence
+NYU Professor of Psychology and Neural Science and Author of *Rebooting AI : Building Artificial Intelligence We Can Trust*
 
 - [**March 4, 2018**](https://americanarchive.org/catalog/cpb-aacip-45314b493b1)
-
-#### Gary Marcus
-Author of "Rebooting AI : Building Artificial Intelligence We Can Trust"
-
 - [**September 22, 2019**](https://americanarchive.org/catalog/cpb-aacip-b1f9f87181d)
-
-#### Gary Marcus
-Professor of AI at NYU and author of "Rebooting AI : Building Artificial Intelligence We Can Trust"
-
 - [**February 5, 2023**](https://americanarchive.org/catalog/cpb-aacip-1d9c0387c22)
 
 #### Bob Marshall
@@ -134,7 +122,7 @@ Author and writer for The New Yorker
 - [**June 28, 2009**](https://americanarchive.org/catalog/cpb-aacip-58064686a11)
 
 #### Greg Mitchell
-Author of "The Beginning or the End: How Hollywood―and America―Learned to Stop Worrying and Love the Bomb"
+Author of *The Beginning or the End: How Hollywood―and America―Learned to Stop Worrying and Love the Bomb*
 
 - [**July 19, 2020**](https://americanarchive.org/catalog/cpb-aacip-48f131f1c89)
 
@@ -144,23 +132,23 @@ Director of the Gulf Program at National Wildlife Federation
 - [**May 22, 2022**](https://americanarchive.org/catalog/cpb-aacip-4106671d2b1)
 
 #### Alexa O'Brien
-Investigative journalist and writer who conducts research and analysis about national security and law enforcement
+Investigative journalist and writer specializing in national security and law enforcement
 
 - [**May 5, 2013**](https://americanarchive.org/catalog/cpb-aacip-d123112da3a)
 
 #### Dr. Cathy O'Neil
-Mathematician, data scientist, and author of "Weapons Of Math Destruction"
+Mathematician, data scientist, and author of *Weapons Of Math Destruction*
 
 - [**November 27, 2017**](https://americanarchive.org/catalog/cpb-aacip-e1882dba120)
 
 #### Scott Reid
-Sports enterprise/investigative reporter for the OC Register about rampant sex abuse at USA Swimming
+Sports enterprise/investigative reporter for the OC Register
 
 - [**May 20, 2018**](https://americanarchive.org/catalog/cpb-aacip-59d5004aabe)
 
 #### Chris Rose, Clancy Dubbs, Ti Adelaide Martin
 
-Chris Rose, columnist for The Times-Picayune in New Orleans, Clancy Dubbs, journalist, and owner of Gambit Weekly, and Ti Adelaide Martin, New Orleans restaurateur, discuss New Orleans.
+Chris Rose, columnist for The Times-Picayune in New Orleans; Clancy Dubbs, journalist, and owner of Gambit Weekly; and Ti Adelaide Martin, New Orleans restaurateur
 
 - [**January 8, 2006**](https://americanarchive.org/catalog/cpb-aacip-0b203ed4d08)
 
@@ -175,7 +163,7 @@ Internationally renowned security technologist
 - [**November 11, 2018**](https://americanarchive.org/catalog/cpb-aacip-98727295a05)
 
 #### Nicholas Shaxson
-Journalist and author of bestselling tax havens book "Treasure Islands"
+Journalist and author of bestselling tax havens book *Treasure Islands*
 
 - [**December 2, 2012**](https://americanarchive.org/catalog/cpb-aacip-17e5db7b7f5)
 
@@ -194,19 +182,19 @@ Author and creator of the influential blog, Naked Capitalism
 - [**June 25, 2017**](https://americanarchive.org/catalog/cpb-aacip-ecfd2e00607)
 
 #### Matt Stoller
-Author of "Goliath : The 100-Year War Between Monopoly Power and Democracy"
+Author of *Goliath : The 100-Year War Between Monopoly Power and Democracy*
 
 - [**March 8, 2020**](https://americanarchive.org/catalog/cpb-aacip-53c3d5a9f6a)
 - [**February 7, 2021**](https://americanarchive.org/catalog/cpb-aacip-cf01203386a)
 
 #### Greg Thielmann
-Former top intelligence official at the U.S. State Department for 25 years and currently a board member of the Arms Control Association
+Former top intelligence official at the U.S. State Department for 25 years and board member of the Arms Control Association
 
 - [**January 27, 2013**](https://americanarchive.org/catalog/cpb-aacip-17f428ac7eb)
 - [**October 24, 2021**](https://americanarchive.org/catalog/cpb-aacip-d482b7ad41a)
 
 #### Dr. Ivor van Heerden
-Author of “The Storm: What Went Wrong During Hurricane Katrina — The Inside Story from One Louisiana Scientist”
+Author of *The Storm: What Went Wrong During Hurricane Katrina — The Inside Story from One Louisiana Scientist*
 
 - [**June 25, 2006**](https://americanarchive.org/catalog/cpb-aacip-549c7ce62aa)
 - [**August 27, 2006**](https://americanarchive.org/catalog/cpb-aacip-e13f8214183)
@@ -214,7 +202,7 @@ Author of “The Storm: What Went Wrong During Hurricane Katrina — The Inside 
 - [**November 22, 2009**](https://americanarchive.org/catalog/cpb-aacip-c5293309706)
 
 #### Homer Venters
- MD from Physicians for Human Rights
+MD from Physicians for Human Rights
 
 - [**April 15, 2018**](https://americanarchive.org/catalog/cpb-aacip-d9594a381b2)
 
@@ -224,12 +212,12 @@ Urban and environmental architect
 - [**February 22, 2009**](https://americanarchive.org/catalog/cpb-aacip-8f3b0f9d399)
 
 #### Lee Zurik
-Anchor/Chief Investigative Reporter for FOX 8 on Cracking The Code/Healthcare costs
+Anchor/Chief Investigative Reporter for FOX 8
 
 - [**August 27, 2017**](https://americanarchive.org/catalog/cpb-aacip-02ceb412a74)
 
 #### Shoshana Zuboff
-Author of "The Age of Surveillance Capitalism"
+Author of *The Age of Surveillance Capitalism*
 
 - [**June 2, 2019**](https://americanarchive.org/catalog/cpb-aacip-a41b2f22dd5)
 - [**November 3, 2019**](https://americanarchive.org/catalog/cpb-aacip-035a935c75c)
@@ -248,7 +236,7 @@ Author of "The Age of Surveillance Capitalism"
 - [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
-  <img title="Cover Image" alt="Harry Shearer in studios at KCRW. Photograph by Dan Falato." src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-bydanfalato.jpg">
+  <img title="Cover Image" alt="Sound board at Le Show." src="https://s3.amazonaws.com/americanarchive.org/exhibits/LeShowBoard.jpg">
 
 ## Gallery
 
