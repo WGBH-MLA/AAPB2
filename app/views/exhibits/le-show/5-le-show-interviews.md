@@ -15,15 +15,11 @@ American Military Historian
 - [**February 12, 2017**](https://americanarchive.org/catalog/cpb-aacip-b2b2a56f30f)
 
 #### John Barry
-Author of "The Great Influenza: The Story of the Deadliest Pandemic in History" discusses the latest on the COVID-19 pandemic.
-
-- [**February 16, 2020**](https://americanarchive.org/catalog/cpb-aacip-ca425e77587)
-- [**June 14, 2020**](https://americanarchive.org/catalog/cpb-aacip-657d1c23aa0)
-
-#### John Barry
-Author of "Rising Tide" and member of the East Bank New Orleans Levee Board
+Author of *The Great Influenza: The Story of the Deadliest Pandemic in History* and *Rising Tide*, and member of the East Bank New Orleans Levee Board
 
 - [**July 20, 2008**](https://americanarchive.org/catalog/cpb-aacip-99d0e6689d4)
+- [**February 16, 2020**](https://americanarchive.org/catalog/cpb-aacip-ca425e77587)
+- [**June 14, 2020**](https://americanarchive.org/catalog/cpb-aacip-657d1c23aa0)
 
 #### Dan Baum
 Author of "Nine Lives: Death and Life in New Orleans"
