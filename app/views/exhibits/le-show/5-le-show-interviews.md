@@ -15,7 +15,7 @@ American Military Historian
 - [**April 10, 2016**](https://americanarchive.org/catalog/cpb-aacip-68a6c774e4f)
 - [**February 12, 2017**](https://americanarchive.org/catalog/cpb-aacip-b2b2a56f30f)
 
-#### Next: [Presidential Satire](/exhibits/le-show/4-1-presidential-satire)
+#### Next: [Acknowledgments](/exhibits/le-show/5-acknowledgements)
 
 ## Resources
 
