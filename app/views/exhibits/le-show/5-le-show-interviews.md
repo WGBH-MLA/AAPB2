@@ -236,7 +236,7 @@ Author of *The Age of Surveillance Capitalism*
 - [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
-  <img title="Cover Image" alt="Sound board at Le Show." src="https://s3.amazonaws.com/americanarchive.org/exhibits/LeShowBoard.jpg">
+  <img title="Cover Image" alt="Shearer in video for the song “935 Lies.” Video by Matt Mindlin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8048.jpg">
 
 ## Gallery
 
