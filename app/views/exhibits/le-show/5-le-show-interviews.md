@@ -21,27 +21,27 @@ Author of "The Great Influenza: The Story of the Deadliest Pandemic in History" 
 - [**June 14, 2020**](https://americanarchive.org/catalog/cpb-aacip-657d1c23aa0)
 
 #### John Barry
-Author of "Rising Tide" and member of the East Bank New Orleans Levee Board.
+Author of "Rising Tide" and member of the East Bank New Orleans Levee Board
 
 - [**July 20, 2008**](https://americanarchive.org/catalog/cpb-aacip-99d0e6689d4)
 
 #### Dan Baum
-Author of "Nine Lives: Death and Life in New Orleans".
+Author of "Nine Lives: Death and Life in New Orleans"
 
 - [**April 26, 2009**](https://americanarchive.org/catalog/cpb-aacip-db89878a5b9)
 
 #### Dr. Bob Bea
-Director of the UC Berkeley Center for Catastrophic Risk Management.
+Director of the UC Berkeley Center for Catastrophic Risk Management
 
 - [**April 22, 2007**](https://americanarchive.org/catalog/cpb-aacip-394d21540c3)
 
 #### Bill Black
-Author and Associate Professor of Economics and Law at the University of Missouri-Kansas City.
+Author and Associate Professor of Economics and Law at the University of Missouri-Kansas City
 
 - [**May 1, 2011**](https://americanarchive.org/catalog/cpb-aacip-d82d1cbffd7)
 
 #### Dan Cameron
-Director and curator of Prospect 1 New Orleans.
+Director and curator of Prospect 1 New Orleans
 
 - [**January 4, 2009**](https://americanarchive.org/catalog/cpb-aacip-c10d13a1164)
 
@@ -58,12 +58,12 @@ Professor of Public Policy and Economics at Stony Brook University
 - [**April 19, 2020**](https://americanarchive.org/catalog/cpb-aacip-115a0d1ba62)
 
 #### Maria Garzino
-Civil and Mechanical Engineer at U.S. Army Corps of Engineers.
+Civil and Mechanical Engineer at U.S. Army Corps of Engineers
 
 - [**September 13, 2009**](https://americanarchive.org/catalog/cpb-aacip-ad63320d167)
 
 #### Scott Gottlieg
-Former FDA Commissioner and author of "Uncontrolled Spread: Why COVID-19 Crushed Us and How We Can Defeat the Next Pandemic".
+Former FDA Commissioner and author of "Uncontrolled Spread: Why COVID-19 Crushed Us and How We Can Defeat the Next Pandemic"
 
 - [**September 19, 2021**](https://americanarchive.org/catalog/cpb-aacip-fbc93cd9cec)
 
