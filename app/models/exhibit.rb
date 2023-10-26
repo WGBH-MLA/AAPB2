@@ -117,7 +117,7 @@ class Exhibit < Cmless
   end
 
   def section_hash
-    # refer to sections by title rather than cmless array 
+    # refer to sections by path rather than cmless array 
     @section_hash ||= begin
       h = {}
       subsections.each {|c| h[c.path] = c }
@@ -126,11 +126,7 @@ class Exhibit < Cmless
   end
 
   def validate_sections
-    @validated ||= Set.new(config["sections"]) == Set.new(content_sections.map(&:path))
-  end
-
-  def content_sections
-    @content_sections ||= subsections.reject {|c| c.title.end_with?("Notes") || c.title.end_with?("Resources") }.sort_by {|c| c.title }
+    @validated ||= Set.new(config["sections"]) == Set.new(subsections.map(&:path))
   end
 
   def sections
@@ -138,12 +134,17 @@ class Exhibit < Cmless
       raise "exhibits.yml sections did not match exhibit sections in #{path}" unless validate_sections
       config["sections"].map {|section_path| section_hash[section_path] }
     else
-      content_sections
+      subsections.sort_by {|c| c.title }
     end
   end
 
   def subsections
-    children.present? ? children : ancestors.first.children
+    @subsections ||= begin
+      # need to navigate back up to root exhibit page to get children if we're looking at a child page
+      c = children.present? ? children : ancestors.first.children
+      # dont show notes or resources pages in exhibit section menu
+      c.reject {|c| c.path.end_with?("notes") || c.path.end_with?("resources") }
+    end
   end
 
   def notes_cover
