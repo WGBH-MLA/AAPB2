@@ -125,11 +125,20 @@ class Exhibit < Cmless
     end
   end
 
+  def validate_sections
+    @validated ||= Set.new(config["sections"]) == Set.new(content_sections.map(&:path))
+  end
+
+  def content_sections
+    @content_sections ||= subsections.reject {|c| c.title.end_with?("Notes") || c.title.end_with?("Resources") }.sort_by {|c| c.title }
+  end
+
   def sections
     if config["sections"]
+      raise "exhibits.yml sections did not match exhibit sections" unless validate_sections
       config["sections"].map {|section_path| section_hash[section_path] }
     else
-      subsections.reject {|c| c.title.end_with?("Notes") || c.title.end_with?("Resources") }.sort_by {|c| c.title }
+      content_sections
     end
   end
 

@@ -15,8 +15,7 @@
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/eberlyheadshot-cropped.jpg"/>
   <a class="name">Rosa A. Eberly</a>
-  <a class="title">Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University</a>
-  <a class="credit">Phographed by Kirt H. Wilson</a>
+  <a class="title">Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University (Phographed by Kirt H. Wilson)</a>
 
 ## Resources
 
