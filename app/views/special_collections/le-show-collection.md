@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![*Le Show*](https://s3.amazonaws.com/americanarchive.org/special-collections/Harry_KCRW_2.jpg "*Le Show*") 
+![*Le Show*](https://s3.amazonaws.com/americanarchive.org/special-collections/Harry_KCRW_2_cropped.jpg "*Le Show*") 
 
 ## Summary
 
