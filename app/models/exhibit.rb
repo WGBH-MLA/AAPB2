@@ -135,7 +135,7 @@ class Exhibit < Cmless
 
   def sections
     if config["sections"]
-      raise "exhibits.yml sections did not match exhibit sections" unless validate_sections
+      raise "exhibits.yml sections did not match exhibit sections in #{path}" unless validate_sections
       config["sections"].map {|section_path| section_hash[section_path] }
     else
       content_sections
