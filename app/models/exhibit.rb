@@ -125,34 +125,47 @@ class Exhibit < Cmless
     end
   end
 
-  def validate_sections
-    @validated ||= Set.new(config["sections"]) == Set.new(subsections.map(&:path))
+  def subsections
+    @subsections ||= begin
+      # this is a way of getting back up to root exhibit page to get children if we're looking at a child page
+      children.present? ? children : ancestors.first.children
+    end
   end
 
-  def sections
+  def content_sections
+    # every page except the notes one (there actually are no resources pages)
+    @content_sections ||= subsections.reject {|c| c.path.end_with?("notes") }
+  end
+
+  def table_of_contents
     if config["sections"]
       raise "exhibits.yml sections did not match exhibit sections in #{path}" unless validate_sections
       config["sections"].map {|section_path| section_hash[section_path] }
     else
-      subsections.sort_by {|c| c.title }
+      content_sections.sort_by {|c| c.title }
     end
   end
 
-  def subsections
-    @subsections ||= begin
-      # need to navigate back up to root exhibit page to get children if we're looking at a child page
-      c = children.present? ? children : ancestors.first.children
-      # dont show notes or resources pages in exhibit section menu
-      c.reject {|c| c.path.end_with?("notes") || c.path.end_with?("resources") }
-    end
+  def validate_sections
+    # when using exhibits.yml ordering, make sure that all sections are included!
+    @validated ||= Set.new(config["sections"]) == Set.new(content_sections.map(&:path))
   end
 
   def notes_cover
-    @notes_cover ||= section_hash["#{top_path}/notes"]&.cover&.to_s&.html_safe
-  end
+    @notes_cover ||= begin
+      if section_hash["#{top_path}/notes"]
+        %(<div class='exhibit-notes'>
+          <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
 
-  def resources_cover
-    @resources_cover ||= section_hash["#{top_path}/resources"]&.cover&.to_s&.html_safe
+          <div class=''>
+            <a href='/exhibits/#{top_path}/notes'>
+              <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
+              Research Notes
+            </a>
+          </div>
+        </div>).html_safe
+      end
+    end
   end
 
   def thumbnail_url
@@ -283,42 +296,7 @@ class Exhibit < Cmless
   end
 
   def cover
-    if uri.end_with?('learning-goals')
-      # learning goals nnooootes
-      %(<div class='exhibit-notes'>
-        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
-          <a href='#{uri}'><div class=''>
-            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/learning_goals.png' class='icon-med' style='top: -2px; position: relative;'>
-            Learning Goals
-          </a>
-        </div>
-      </div>)
-    elsif uri.end_with?('notes')
-      # reeeeses notes
-      %(<div class='exhibit-notes'>
-        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
-
-        <div class=''>
-          <a href='#{uri}'>
-            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/research_notes.png' class='icon-med' style='top: -2px; position: relative;'>
-            Research Notes
-          </a>
-        </div>
-      </div>)
-    elsif uri.end_with?('timeline')
-      # tiiiiiiiime notes
-      %(<div class='exhibit-notes'>
-        <div class='#{subsection? ? 'exhibit-color-section' : 'exhibit-color'} bold'>Resource:</div>
-
-        <div class=''>
-          <a href='#{uri}'>
-            <img src='https://s3.amazonaws.com/americanarchive.org/exhibits/assets/timeline_button_grey.png' class='icon-med' style='top: -2px; position: relative;'>
-            Timeline
-          </a>
-        </div>
-      </div>)
-
-    else
+    @cover ||= begin
       img = Nokogiri::HTML(cover_html).css('img').first
       %(<a href='#{uri}'>
         <div style="background-image: url('#{img['src'] if img}');" class='four-four-box exhibit-section'>
@@ -329,8 +307,8 @@ class Exhibit < Cmless
             #{title}
           </div>
         </div>
-      </a>)
-    end.to_s.html_safe
+      </a>).html_safe      
+    end
   end
 
   def authors
