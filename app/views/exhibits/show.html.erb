@@ -90,7 +90,7 @@
       <div class="row" style="margin:0; margin-left: 2%; margin-right: 2%;">
 
         <!-- exhibits -->
-        <% @exhibit.sections.each do |section| %>
+        <% @exhibit.table_of_contents.each do |section| %>
 
           <div class="col-md-3 exhibit-section-margin">
             <div class="exhibit-section-container">
@@ -104,7 +104,6 @@
           <div class="exhibit-section-container ">
             <!-- notez and resourcys -->
             <%= @exhibit.notes_cover if @exhibit.notes_cover %>
-            <%= @exhibit.resources_cover if @exhibit.resources_cover %>
           </div>
         </div>
 
