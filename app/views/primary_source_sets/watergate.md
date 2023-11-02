@@ -77,7 +77,7 @@ Ask students to read this NPR [**article**](https://www.npr.org/2022/06/06/11030
 Ask students to watch the following sources: 
 [**An Ordinary Citizen Discusses the Morality of Watergate (1974)**](https://americanarchive.org/catalog/cpb-aacip-512-3f4kk95f7h)
 [**Congresswoman Barbara Jordan Reflects on Watergate (1975)**](https://americanarchive.org/catalog/cpb-aacip-512-ms3jw87z64)
-[**Garrett Graff Discusses His Book, Watergate: A New History (2022)**](https://www.pbs.org/video/watergate-a-new-history-1645481562/)
+[**Garrett Graff Discusses His Book, Watergate: A New History (2022)**](https://americanarchive.org/catalog/cpb-aacip-065273f33da)
    
 Rep. Barbara Jordan (D, Texas) and Grace Crawley agree that Watergate exposed the lack of integrity and morality in government, but they disagree when it comes to preventing future scandals. What solutions does Jordan endorse?  What does Crawley see as the answer? Garrett Graff, writing on the 50th anniversary of the Watergate break-in, also weighs in. What lesson does he draw from the Watergate scandal?  What lessons do you think should be drawn?
 
