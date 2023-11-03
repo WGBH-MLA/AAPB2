@@ -3,7 +3,7 @@
 
 ## Thumbnail
 
-![Screenshot of media asset](https://s3.amazonaws.com/americanarchive.org/thumbnail/cpb-aacip-15-gt5fb4xm7n.jpg "Screenshot media asset")
+![Screenshot of media asset](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/09-15-gt5fb4xm7n.jpg "Screenshot media asset")
 
 
 ## Guid
