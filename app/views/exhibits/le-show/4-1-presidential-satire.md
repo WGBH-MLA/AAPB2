@@ -92,7 +92,7 @@ The segment opens onto a scene of the Clintons meeting for a conversation, with 
 ["Clintonsomething: The Wilderness Years"](https://americanarchive.org/catalog/cpb-aacip-03b0e3675df?start=1632.67&end=2097.23)
 This segment ends with Shearer's Bill Clinton in a reflective mode: "Wow. Well, sir. This is a day I need to remember for my next memoir…. This is a true pivot point. After all this time, this may be the day I stop thinking about tomorrow."[<sup>91</sup>](/exhibits/le-show/notes#91) 
 
-### George W. Bush: "[41](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2241+calls+43%22) Calls [43](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2243+calls+41%22)" and "Dick Cheney Confidential"
+### George W. Bush: "[41](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2241+calls+43%22) Calls [43](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2243+calls+41%22)" and ["Dick Cheney Confidential"](https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=le-show-collection&per_page=20&q=%22dick+cheney+confidential%22&sort=asset_date+asc&utf8=%E2%9C%93&f%5baccess_types%5d%5b%5d=online)
 
 Texas Governor George W. Bush, eldest son of the 41st President and his wife Barbara, became the 43rd President of the United States, establishing what would be described as a family dynasty. Not since the early republic had the United States elected a president's son to the highest office in the land. Whereas John and John Quincy Adams were limited to letters to facilitate distant communication, the Bushes had telephony, wired and wireless; in Shearer's satiric imagination, the sonic folly of their conversations belies the heavy histories their administrations oversaw.
 
@@ -177,7 +177,7 @@ Approximately every month during the Trump Administration, Shearer invented, wro
 
 ["The Appresidentice" "This Week, Perhaps for the Last Time"](https://americanarchive.org/catalog/cpb-aacip-f5c0ec23a2d?start=2119.87&end=2560.7)
 
-After Trump left Washington and returned to Mar-A-Lago, his private golf resort and "Southern White House," Shearer’s recurring Trump segment continued as "[The Marapprentice](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&sort=asset_date+asc&q=Marapprentice)."
+After Trump left Washington and returned to Mar-a-Lago, his private golf resort and "Southern White House," Shearer’s recurring Trump segment continued as "[The Marapprentice](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&sort=asset_date+asc&q=Marapprentice)."
 
 ["The Marapprentice: Crime of the Century"](https://americanarchive.org/catalog/cpb-aacip-502ee92ecb7?start=2339.83&end=2572.61)
 
