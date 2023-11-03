@@ -8,7 +8,7 @@
 
 ## Main
 
-### "Reading the Trades"
+### ["Reading the Trades"](https://americanarchive.org/catalog?f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&q=%22reading+the+trades%22&sort=asset_date+asc&f%5Baccess_types%5D%5B%5D=online)
 
 No *Le Show* segment better illustrates Shearer's vocation for information sharing and extemporaneous language play than the long-running "Reading the Trades" segment of *Le Show*, which occurs across the entire history of *Le Show*. 
 
@@ -55,7 +55,7 @@ In 2017, after Lewis died, Shearer paraphrased a *People* magazine report that L
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8059.jpg" alt="Shearer in video for the song “935 Lies.” Video by Matt Mindlin."/></a></td></tr>
 </table>
 
-### "The Apologies of the Week"
+### ["The Apologies of the Week"](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&q=%22apologies+of+the+week%22&sort=asset_date+asc)
 
 Shearer's enthusiasm for exposing the hypocrisies of politically and culturally powerful individuals is clear across the history of *Le Show*. No segment highlights that enthusiasm better than "The Apologies of the Week" segment, which has occurred nearly every week since November 2001. 
 
@@ -84,7 +84,7 @@ This particular apology follows another recurring feature, "News of the Godly," 
 [Pope Francis apologizes to the Roma](https://americanarchive.org/catalog/cpb-aacip-4bc951c5ab5)   
 (at 0:46:52)
 
-### News of the Olympic Movement
+### [News of the Olympic Movement](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bspecial_collections%5D%5B%5D=le-show-collection&q=%22news+of+the+olympic+movement%22&sort=asset_date+asc)
 
 Since 1984, when they were held in Los Angeles, Shearer has regularly covered news of the Olympics on *Le Show*, highlighting negative economic and environmental consequences of the games as well as attempts to market the Olympics as "a movement." Leading up to the 2016 Olympics in Rio de Janeiro, when sewage was found in bodies of water intended for Olympic events, Shearer's "Said And Done," a parody of public radio "news magazines," [featured an item about Shearer's imagined Olympic and Paralympic mascots, "Effluvio" and "Pupi."](https://americanarchive.org/catalog/cpb-aacip-fd1467a2e9e?start=1642&end=2303.47)
 
