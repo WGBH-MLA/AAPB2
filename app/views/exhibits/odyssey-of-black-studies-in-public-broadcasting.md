@@ -36,7 +36,7 @@ In addition to exploring the founding of Black Studies, public broadcasting also
 #### Next: [The Formative Years](/exhibits/odyssey-of-black-studies-in-public-broadcasting/2-the-formative-years)
 
 ## Cover
-  <img title="Cover Image" alt="TBD*" src="https://s3.amazonaws.com/americanarchive.org/exhibits/TBD.jpg">
+  <img title="Cover Image" alt="Black Studies" src="https://s3.amazonaws.com/americanarchive.org/exhibits/black_studies_3.png">
 
 ## Gallery
 
