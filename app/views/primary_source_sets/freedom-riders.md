@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Photo of aftermath of an attack on a Greyhound bus, image from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Greyhound_Bus_Attack_Anniston_5.jpg Available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/freedom_riders_thumbnail.jpg "Photo of aftermath of an attack on a Greyhound bus")
+![Photo of aftermath of an attack on a Greyhound bus, image from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Greyhound_Bus_Attack_Anniston_5.jpg Available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/freedom_riders_thumbnail.jpg "Photo of aftermath of an attack on a Greyhound bus, image from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Greyhound_Bus_Attack_Anniston_5.jpg Available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/freedom_riders_main.jpg
