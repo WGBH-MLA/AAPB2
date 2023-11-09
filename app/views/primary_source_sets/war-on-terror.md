@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-!Secretary of Defense Donald H. Rumsfeld gives his opening remarks before the 9-11 Commission on March 23, 2004., https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_040323-F-6655M-225.jpg](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/thumbnail_war_on_terror.jpg "Secretary of Defense Donald H. Rumsfeld gives his opening remarks before the 9-11 Commission on March 23, 2004.")
+![Secretary of Defense Donald H. Rumsfeld gives his opening remarks before the 9-11 Commission on March 23, 2004., https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_040323-F-6655M-225.jpg](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/thumbnail_war_on_terror.jpg "Secretary of Defense Donald H. Rumsfeld gives his opening remarks before the 9-11 Commission on March 23, 2004.")
 
 ## Cover
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/main_war_on_terror.jpg
