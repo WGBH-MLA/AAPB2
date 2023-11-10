@@ -177,7 +177,7 @@ Finally, ask students to identify what steps are needed to eliminate food desert
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Healthcare-Disparities-Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Healthcare-Disparities-Teaching-Tips.pdf
 
 ## Additionalresources
 
