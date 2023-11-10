@@ -4,7 +4,7 @@
 
 ## Summary 
 
-*Le Show*, Harry Shearer’s hour-long news commentary and satirical sketch series, has been broadcast weekly since 1983, one of the only satirical radio shows still on the air. Digital preservation of the AAPB’s *Le Show* Collection was supported by The National Recording Preservation Board of the Library of Congress. We are grateful to Mr. Shearer for providing the Library of Congress with copies of *Le Show* programs and segments, often the only copies in existence, and to Pam Halstead for her help.
+*Le Show*, Harry Shearer’s hour-long news commentary and satirical sketch series, has been broadcast weekly since 1983, one of the only satirical radio shows still on the air. Digital preservation of the AAPB’s [*Le Show* Collection](https://americanarchive.org/special_collections/le-show-collection) was supported by The National Recording Preservation Board of the Library of Congress. We are grateful to Mr. Shearer for providing the Library of Congress with copies of *Le Show* programs and segments, often the only copies in existence, and to Pam Halstead for her help.
 
 "Harry Shearer’s *Le Show*: Sonic Portal to News, Satire, Memory, History" was curated by Rosa A. Eberly, Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University. We thank Dr. Eberly for creating the exhibit and for her assistance with the digitization effort.
 
@@ -15,10 +15,18 @@
 
 - <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/eberlyheadshot-cropped.jpg"/>
   <a class="name">Rosa A. Eberly</a>
-  <a class="title">Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University</a>
-  <a class="credit">Phographed by Kirt H. Wilson</a>
+  <a class="title">Associate Professor of Rhetoric, Department of Communication Arts & Sciences, Penn State University (Phographed by Kirt H. Wilson)</a>
 
 ## Resources
+
+- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
+- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
+- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
+- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
+- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
+- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
+- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
+- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Main
 
