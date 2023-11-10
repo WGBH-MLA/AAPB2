@@ -5,7 +5,7 @@
 !["Life is a pre-existing condition. Keep America covered!!" Rally in Support of the Affordable Care Act, at The White House, Washington, DC USA. Licensed under a Creative Commons Attribution Share-Alike 4.0 International License, https://flickr.com/photos/22526649@N03/32267489654.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/healthcare_thumbnail.jpg "Life is a pre-existing condition. Keep America covered!! Rally in Support of the Affordable Care Act, at The White House, Washington, DC USA. Licensed under a Creative Commons Attribution Share-Alike 4.0 International License, https://flickr.com/photos/22526649@N03/32267489654.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/healthcare-main.jpeg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/healthcare_main.jpeg
 
 ## Author
 
@@ -69,6 +69,7 @@ What are the most important causes of healthcare disparities and health inequiti
 **1) The History and Legacy of Medical Experimentation**
 
 Ask students to watch the following sources:
+
 - [President Clinton Apologizes for the Tuskegee Syphilis Study](https://americanarchive.org/primary_source_sets/healthcare-disparities/1-507-639k35mx8h)
 - [Native Americans Resist the COVID-19 Vaccines](https://americanarchive.org/primary_source_sets/healthcare-disparities/10-3fcefa871eb)
 
@@ -98,7 +99,7 @@ What is the proper form of redress: monetary compensation, free lifetime medical
 
 As an extension activity, show students  [Wicked Silence](https://www.youtube.com/watch?v=hstkagJJDfg), a half-hour documentary about the North Carolina eugenics program, which led to the forced sterilization of 7,600 women between 1929 and 1975.  Ask them to write a short response paper evaluating the fairness of the state’s 2013 compensation agreement with sterilization victims. 
 
-2) Healthcare Reform: Successes and Failures
+**2) Healthcare Reform: Successes and Failures**
 
 Ask students to watch the following sources:
 
@@ -132,7 +133,7 @@ The two largest expansions of healthcare coverage occurred in 1965 and 2010, und
 Show students this PBS clip, [How "Obamacare" Became a Symbol of America's Divide](https://www.youtube.com/watch?v=jy2DEJcm9PU), and ask them to write a brief response to this prompt:  Why do you think healthcare reform became so politicized in the United States and what was the
 long-term impact?  (Students should consider both the PBS clip and set resources.)
 
-3) Social, Economic, and Environmental Determinants of Health
+**3) Social, Economic, and Environmental Determinants of Health**
       
 Ask students to watch or listen to the following sources:
 
@@ -190,7 +191,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Healthcare-Disp
 
 ## Citation
 
-Weidner, Catherine. "Healthcare" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/healthcare-disparities.
+Weidner, Catherine. "Healthcare Disparities in the United States" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/healthcare-disparities.
 
 ## Guid
 ## Cliptime
