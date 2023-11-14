@@ -5,7 +5,7 @@
 !["Life is a pre-existing condition. Keep America covered!!" Rally in Support of the Affordable Care Act, at The White House, Washington, DC USA. Licensed under a Creative Commons Attribution Share-Alike 4.0 International License, https://flickr.com/photos/22526649@N03/32267489654.](https://s3.amazonaws.com/americanarchive.org/primary_source_sets/healthcare_thumbnail.jpg "Life is a pre-existing condition. Keep America covered!! Rally in Support of the Affordable Care Act, at The White House, Washington, DC USA. Licensed under a Creative Commons Attribution Share-Alike 4.0 International License, https://flickr.com/photos/22526649@N03/32267489654.")
 
 ## Cover
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/healthcare_main.jpeg
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/healthcare_main.jpg
 
 ## Author
 
