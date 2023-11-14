@@ -186,8 +186,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Healthcare
 - [**Unnatural Causes**](https://unnaturalcauses.org/about_the_series.php), California Newsreel
 
 ## Youmayalsolike
-- primary_source_sets,war-on-poverty
-- primary_source_sets,reproductive-rights
+- primary source set,war-on-poverty
+- primary source set,reproductive-rights
 
 ## Citation
 
