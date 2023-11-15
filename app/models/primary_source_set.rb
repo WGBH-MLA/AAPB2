@@ -58,6 +58,10 @@ class PrimarySourceSet < Cmless
     ancestors.count > 0 ? ancestors.first.title : title
   end
 
+  def full_path
+    "/primary_source_sets/" + path
+  end
+
   # required for both
   def introduction_html
     doc = Nokogiri::HTML::DocumentFragment.parse(@introduction_html)
@@ -126,10 +130,7 @@ class PrimarySourceSet < Cmless
   def aapb_content_item_block(str)
     type, identifier = str.split(",")
 
-    if type == "exhibit" || type == "special_collection"
-      item = type == "exhibit" ? Exhibit.find_by_path(identifier) : SpecialCollection.find_by_path(identifier)
-      { path: item.full_path, thumbnail_url: item.thumbnail_url, title: item.title }
-    elsif type == "record"
+    if type == "record"
 
       @solr = Solr.instance.connect
       data = @solr.get('select', params: { q: "id:#{ identifier }", fl: 'xml' })
@@ -137,6 +138,19 @@ class PrimarySourceSet < Cmless
       return unless xml
       item = PBCorePresenter.new(xml)
       { path: "/catalog/#{ item.id }", thumbnail_url: item.img_src, title: item.title }
+    else
+      # exhibit special_collection or primary_source_set
+      if type == "exhibit"
+        item = Exhibit.find_by_path(identifier)
+      elsif type == "special collection"
+        item = SpecialCollection.find_by_path(identifier)
+      elsif type == "primary source set"
+        item = PrimarySourceSet.find_by_path(identifier)
+      else
+        raise "Unrecognized youmayalsolike item type #{type} from #{str}"
+      end
+
+      { path: item.full_path, thumbnail_url: item.thumbnail_url, title: item.title }
     end
   end
 end
