@@ -140,12 +140,14 @@ class PrimarySourceSet < Cmless
       { path: "/catalog/#{ item.id }", thumbnail_url: item.img_src, title: item.title }
     else
       # exhibit special_collection or primary_source_set
-      item = if type == "exhibit"
-        Exhibit.find_by_path(identifier)
+      if type == "exhibit"
+        item = Exhibit.find_by_path(identifier)
       elsif type == "special collection"
-        SpecialCollection.find_by_path(identifier)
+        item = SpecialCollection.find_by_path(identifier)
       elsif type == "primary source set"
-        PrimarySourceSet.find_by_path(identifier)
+        item = PrimarySourceSet.find_by_path(identifier)
+      else
+        raise "Unrecognized youmayalsolike item type #{type} from #{str}"
       end
 
       { path: item.full_path, thumbnail_url: item.thumbnail_url, title: item.title }
