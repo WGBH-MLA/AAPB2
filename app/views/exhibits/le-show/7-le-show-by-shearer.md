@@ -1,4 +1,4 @@
-# *Le Show* Through the Decades: Reflections by Harry Shearer
+# *Le Show* through the Decades: Reflections by Harry Shearer
 
 11
 
