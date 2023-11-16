@@ -1,6 +1,6 @@
 # *Le Show* Through the Decades: Reflections by Harry Shearer
 
-7
+11
 
 ## Summary
 For this collection, Shearer wrote four short pieces about the evolution of *Le Show* over the decades, charting its development from the 1980s to the present. 
@@ -19,7 +19,7 @@ For this collection, Shearer wrote four short pieces about the evolution of *Le 
 ### *Le Show*: Year One
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Harry Shearer in studios at KCRW. Photograph by Dan Falato.</caption>
+<caption align="bottom" class="exhibit-caption">Harry Shearer in studio at KCRW. Photograph by Dan Falato.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-bydanfalato.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-bydanfalato.jpg" class="big-image" alt="Harry Shearer in studios at KCRW. Photograph by Dan Falato."/></a></td></tr>
 </table>
 
@@ -71,8 +71,8 @@ The wave of media technology change had now made it possible to access news from
 ### *Le Show*: Decade Three
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Promo image for KCRW featuring Harry Shearer.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" class="big-image" alt="Promo image for KCRW featuring Harry Shearer."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption">Shearer at the CD library.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ShearerHarryCDlibrary.jpg" class="big-image" alt="Harry Shearer at the CD library."/></a></td></tr>
 </table>
 
 The seeming bifurcation of the Presidency—George W. Bush as the frontman, Dick Cheney as the guy behind the curtain—made for two continuing series on *Le Show*: a varying series of scenes featuring the Chief Executive, and “Dick Cheney: Confidential” featuring the veep as a 40s-style hard-boiled dick.   What I particularly liked about that series was how well the instrumental sections of certain Steely Dan songs worked as the musical score.
@@ -124,7 +124,7 @@ He was enough of a satirical inspiration that I finally got back to motion-captu
 - [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
-  <img title="Cover Image" alt="Shearer in video for the song “935 Lies.” Video by Matt Mindlin." src="https://s3.amazonaws.com/americanarchive.org/exhibits/935Lies-8048.jpg">
+  <img title="Cover Image" alt="Harry Shearer on the air." src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-smiling.jpg">
 
 ## Gallery
 
