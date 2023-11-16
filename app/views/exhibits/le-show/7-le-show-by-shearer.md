@@ -18,9 +18,9 @@ For this collection, Shearer wrote four short pieces about the evolution of *Le 
 
 ### *Le Show*: Year One
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Joseph Papin. <em>[Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch-s.jpg" alt="Joseph Papin. [Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee], 1973. Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225."/></a></td></tr>
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Harry Shearer in studios at KCRW. Photograph by Dan Falato.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-bydanfalato.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-bydanfalato.jpg" class="big-image" alt="Harry Shearer in studios at KCRW. Photograph by Dan Falato."/></a></td></tr>
 </table>
 
 I had been working in radio as part of a daily satirical news series called *The Credibility Gap* when I got the opportunity to do a show of my own, mainly music, on a so-called underground FM station.  That project ended when a newly-installed general manager with great flair fired the entire staff, seeing me off with a mock-sincere “I envy you your freedom.”
@@ -46,9 +46,9 @@ By the next summer, satirical tail between my legs, I returned to radio, one hou
 
 ### *Le Show*: Decade Two
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Joseph Papin. <em>[Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch-s.jpg" alt="Joseph Papin. [Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee], 1973. Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225."/></a></td></tr>
+<table class="exhibit-image med-image right">
+<caption align="bottom" class="exhibit-caption">Shearer at KCRW.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg" class="big-image" alt="Shearer at KCRW."/></a></td></tr>
 </table>
 
 The first decade of *Le Show* ended with the George H. W. Bush years, immortalized on the radio on a series of supposed audio diary entries. Decade Two began with an even more intimate framework for Presidential satire, and a challenge. 
@@ -70,9 +70,9 @@ The wave of media technology change had now made it possible to access news from
 
 ### *Le Show*: Decade Three
 
-<table class="exhibit-image">
-<caption align="bottom" class="exhibit-caption">Joseph Papin. <em>[Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Committee-Sketch-s.jpg" alt="Joseph Papin. [Gurney, Thompson, Baker, Ervin, and Dash on the Senate Select Committee], 1973. Prints and Photographs Division, Library of Congress. LC-DIG-hlb-08225."/></a></td></tr>
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Promo image for KCRW featuring Harry Shearer.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" class="big-image" alt="Promo image for KCRW featuring Harry Shearer."/></a></td></tr>
 </table>
 
 The seeming bifurcation of the Presidency—George W. Bush as the frontman, Dick Cheney as the guy behind the curtain—made for two continuing series on *Le Show*: a varying series of scenes featuring the Chief Executive, and “Dick Cheney: Confidential” featuring the veep as a 40s-style hard-boiled dick.   What I particularly liked about that series was how well the instrumental sections of certain Steely Dan songs worked as the musical score.
@@ -93,9 +93,9 @@ And then, again, the challenge not just of satirizing a Democratic President, bu
 
 ### *Le Show*: Decade Four
 
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Joseph Papin. <em>[Senate Select Committee]</em>, 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53334.</caption>
-<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Senators-Drawing.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Senators-Drawing-s.jpg" alt="Joseph Papin. [Senate Select Committee], 1973. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsca-53334."/></a></td></tr>
+<table class="exhibit-image half-image">
+<caption align="bottom" class="exhibit-caption">Shearer in 2022.</caption>
+<tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-in-mask.jpg" class="big-image" alt="Shearer wearing a black mask in 2022."/></a></td></tr>
 </table>
 
 I have to admit I imagined that folks in Hollywood, hearing *Le Show* every week on the radio, would come to a sudden realization: this would translate into a great TV show.   So, the fact that I was still doing radio this many years into the gig, was somewhat disappointing.   
