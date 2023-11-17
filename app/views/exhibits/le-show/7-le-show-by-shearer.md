@@ -124,7 +124,7 @@ He was enough of a satirical inspiration that I finally got back to motion-captu
 - [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
-  <img title="Cover Image" alt="Harry Shearer on the air." src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-smiling-croped.jpg">
+  <img title="Cover Image" alt="Harry Shearer on the air." src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-smiling-croped.jpeg">
 
 ## Gallery
 
