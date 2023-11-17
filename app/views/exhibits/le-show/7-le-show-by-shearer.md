@@ -79,7 +79,7 @@ The seeming bifurcation of the Presidency—George W. Bush as the frontman, Dick
 
 It was first-rate déjà vu to be doing dark comedy about the Iraq war.   The charade of what in Vietnam were known as the “5 o’clock Follies”—the daily US briefings in Saigon—seemed digitally restaged in Baghdad.
 
-As the amount of music played on Le Show continued to decline, more and more of the continuing segments—“News of the Warm,” “Tales of Airport Security,” “Apologies of the Week”—gained musical introductions and/or underscoring.   Aside from the mild amusement some of these sequences offered, there was the little advantage of offering the listener 10 or 20 seconds of relief from my speaking voice.
+As the amount of music played on *Le Show* continued to decline, more and more of the continuing segments—“News of the Warm,” “Tales of Airport Security,” “Apologies of the Week”—gained musical introductions and/or underscoring.   Aside from the mild amusement some of these sequences offered, there was the little advantage of offering the listener 10 or 20 seconds of relief from my speaking voice.
 
 *Le Show* had reached its apogee of public-radio distribution.   Stations in major cities—Pittsburgh, Philadelphia, Chicago—dropped the program.   It never was picked up in Boston—not a big college town, and a Washington, D.C. station ended *Le Show*’s brief tenure on their airwaves on September 10, 2001.    Talk about timing!
 
@@ -98,7 +98,7 @@ And then, again, the challenge not just of satirizing a Democratic President, bu
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-in-mask.jpg" class="big-image" alt="Shearer wearing a black mask in 2022."/></a></td></tr>
 </table>
 
-I have to admit I imagined that folks in Hollywood, hearing *Le Show* every week on the radio, would come to a sudden realization: this would translate into a great TV show.   So, the fact that I was still doing radio this many years into the gig, was somewhat disappointing.   
+I have to admit, I imagined that folks in Hollywood, hearing *Le Show* every week on the radio, would come to a sudden realization: this would translate into a great TV show.   So, the fact that I was still doing radio this many years into the gig was somewhat disappointing.   
 
 Actually, I did a pilot of a TV version, using a motion-capture technique to play all the characters in the sketches.   It was received by the network head first with rapturous enthusiasm, followed a few days later by the dolorous news that it had a wider demographic appeal than expected.   
 
@@ -124,7 +124,7 @@ He was enough of a satirical inspiration that I finally got back to motion-captu
 - [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
-  <img title="Cover Image" alt="Harry Shearer on the air." src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-smiling.jpg">
+  <img title="Cover Image" alt="Harry Shearer on the air." src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-smiling-croped.jpg">
 
 ## Gallery
 
