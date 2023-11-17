@@ -1,9 +1,9 @@
-# *Le Show* through the Decades: Reflections by Harry Shearer
+# *Le Show* through the Decades by Harry Shearer
 
 11
 
 ## Summary
-For this collection, Shearer wrote four short pieces about the evolution of *Le Show* over the decades, charting its development from the 1980s to the present. 
+For the AAPB, Shearer short pieces about the evolution of *Le Show* over the decades, charting its development from the 1980s to the present. 
 
 
 ## Extended
