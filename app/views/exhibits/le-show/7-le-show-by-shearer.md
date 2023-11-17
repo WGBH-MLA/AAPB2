@@ -14,8 +14,6 @@ For the AAPB, Shearer short pieces about the evolution of *Le Show* over the dec
 [**Le Show: Decade Three**](#le-show-decade-three)<br>
 [**Le Show: Decade Four**](#le-show-decade-four)<br>
 
-
-## Main
 <a id="le-show-year-one"></a>
 
 ### *Le Show*: Year One
@@ -124,6 +122,8 @@ He was enough of a satirical inspiration that I finally got back to motion-captu
 - [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
 - [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
 - [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
+
+## Main
 
 ## Cover
   <img title="Cover Image" alt="Harry Shearer on the air." src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-smiling-croped.jpeg">
