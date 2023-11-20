@@ -1,4 +1,4 @@
-# *Le Show*: Decades One through Four by Harry Shearer
+# *Le Show*: Year One through Decade Four by Harry Shearer
 
 11
 
