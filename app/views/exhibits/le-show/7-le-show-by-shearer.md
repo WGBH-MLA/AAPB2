@@ -1,9 +1,9 @@
-# *Le Show* through the Decades by Harry Shearer
+# *Le Show*: Decades One through Four by Harry Shearer
 
 11
 
 ## Summary
-For the AAPB, Shearer short pieces about the evolution of *Le Show* over the decades, charting its development from the 1980s to the present. 
+For the AAPB, Harry Shearer wrote four short pieces about the evolution of *Le Show* over the decades, charting its development from the 1980s to the present. 
 
 
 ## Extended
@@ -35,7 +35,7 @@ Central to each show were one or more comedy sketches, primarily parodies of sho
 
 Normally, then and now, when one person records multiple parts, they do so one character at a time; there follows a lot of editing to arrange the lines in order, to make it sound like dialogue. I wanted my sketches to sound like acting, in which each character is reacting to a line he/she has just heard.   The scenes sound more “real” that way.   Then and now.
 
-Among hundreds of other concepts, this technique enabled my version of life in the Reagan White House.   Based on the widespread premise that the President was fond of interrupting policy meetings to tell stories of life on the Warners lot, “Hellcats of the White House” premised that Ron and Nancy experienced world power as a series of B movies.
+Among hundreds of other concepts, this technique enabled my version of life in the Reagan White House.   Based on the widespread premise that the President was fond of interrupting policy meetings to tell stories of life on the Warners lot, “[Hellcats of the White House](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&q=hellcats&sort=asset_date+asc)" premised that Ron and Nancy experienced world power as a series of B movies.
 
 Six months in, I had found my groove and … I was in receipt of two job offers, either of which would take me far from Santa Monica.   One was to become the first host of a public-radio morning news program; the second was to join the cast and writing staff of *Saturday Night Live*.  Finally, I faced the fact that I wasn’t a serious person.
 
@@ -51,9 +51,9 @@ By the next summer, satirical tail between my legs, I returned to radio, one hou
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg" class="big-image" alt="Shearer at KCRW."/></a></td></tr>
 </table>
 
-The first decade of *Le Show* ended with the George H. W. Bush years, immortalized on the radio on a series of supposed audio diary entries. Decade Two began with an even more intimate framework for Presidential satire, and a challenge. 
+The first decade of *Le Show* ended with the George H. W. Bush years, immortalized on the radio on a [series of supposed audio diary entries](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22presidential+memoirs%22). Decade Two began with an even more intimate framework for Presidential satire, and a challenge. 
 
-The challenge was simply making fun of a Democratic President, something I hadn’t had, or been able, to do before.   The framework was borrowed from a then-popular TV series based on the premise that “Boomers” were focused to an increased extent on their feelings.   Thus, “Clintonsomething,” about two smart but seriously flawed humans who just happened to live in the White House.
+The challenge was simply making fun of a Democratic President, something I hadn’t had, or been able, to do before.   The framework was borrowed from a then-popular TV series based on the premise that “Boomers” were focused to an increased extent on their feelings.   Thus, “[Clintonsomething](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=clintonsomething),” about two smart but seriously flawed humans who just happened to live in the White House.
 
 The challenge was really to do Clinton satire without totally turning off the presumably leftish public-radio audience.   This situation led me, for the first and last time in my career, to ignore my own First Rule of Satire—always believe the worst.  That meant I was late to take the Monica Lewinsky story seriously, and therefore comedically.   
 
@@ -75,11 +75,11 @@ The wave of media technology change had now made it possible to access news from
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ShearerHarryCDlibrary.jpg" class="big-image" alt="Harry Shearer at the CD library."/></a></td></tr>
 </table>
 
-The seeming bifurcation of the Presidency—George W. Bush as the frontman, Dick Cheney as the guy behind the curtain—made for two continuing series on *Le Show*: a varying series of scenes featuring the Chief Executive, and “Dick Cheney: Confidential” featuring the veep as a 40s-style hard-boiled dick.   What I particularly liked about that series was how well the instrumental sections of certain Steely Dan songs worked as the musical score.
+The seeming bifurcation of the Presidency—George W. Bush as the frontman, Dick Cheney as the guy behind the curtain—made for two continuing series on *Le Show*: a varying series of scenes featuring [the Chief Executive](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2243+calls+41%22+OR+%2241+calls+43%22), and “[Dick Cheney: Confidential](https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=le-show-collection&per_page=20&q=%22dick+cheney+confidential%22&sort=asset_date+asc&utf8=%E2%9C%93&f%5baccess_types%5d%5b%5d=online)” featuring the veep as a 40s-style hard-boiled dick.   What I particularly liked about that series was how well the instrumental sections of certain Steely Dan songs worked as the musical score.
 
 It was first-rate déjà vu to be doing dark comedy about the Iraq war.   The charade of what in Vietnam were known as the “5 o’clock Follies”—the daily US briefings in Saigon—seemed digitally restaged in Baghdad.
 
-As the amount of music played on *Le Show* continued to decline, more and more of the continuing segments—“News of the Warm,” “Tales of Airport Security,” “Apologies of the Week”—gained musical introductions and/or underscoring.   Aside from the mild amusement some of these sequences offered, there was the little advantage of offering the listener 10 or 20 seconds of relief from my speaking voice.
+As the amount of music played on *Le Show* continued to decline, more and more of the continuing segments—“[News of the Warm](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&q=%22news+of+the+warm%22&sort=asset_date+asc),” “[Tales of Airport Security](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22tales+of+airport+security%22),” “[Apologies of the Week](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&q=%22apologies+of+the+week%22&sort=asset_date+asc)”—gained musical introductions and/or underscoring.   Aside from the mild amusement some of these sequences offered, there was the little advantage of offering the listener 10 or 20 seconds of relief from my speaking voice.
 
 *Le Show* had reached its apogee of public-radio distribution.   Stations in major cities—Pittsburgh, Philadelphia, Chicago—dropped the program.   It never was picked up in Boston—not a big college town, and a Washington, D.C. station ended *Le Show*’s brief tenure on their airwaves on September 10, 2001.    Talk about timing!
 
@@ -87,14 +87,14 @@ Other stations, notably our San Francisco affiliate KALW, remained steadfast and
 
 Speaking of money: I’ve never taken as much as a cent in payment for doing *Le Show*.  It dawned on me that public-radio money was never going to be worth breaking up the show for cleverly disguised ads.  More to the point, it seemed more than linguistically obvious that the only way to be free to say and do exactly what I wanted on the show—to do a 40-minute conversation, or play whatever kind of music I chose—was to do it for free.
 
-And then, again, the challenge not just of satirizing a Democratic President, but the first Black American in the White House.   I think I recognized early that the promise Barack Obama made to Michelle—that he’d be home every evening for dinner with “the girls”—would, and did, prevent him from the kind of socialization with his party-mates in Congress that makes Presidents far more effective.  So I created a series, parodying an early-TV hit, called “Father Knows Best,” where he’d explain his politics to one of his daughters. 
+And then, again, the challenge not just of satirizing a Democratic President, but the first Black American in the White House.   I think I recognized early that the promise Barack Obama made to Michelle—that he’d be home every evening for dinner with “the girls”—would, and did, prevent him from the kind of socialization with his party-mates in Congress that makes Presidents far more effective.  So I created a series, parodying an early-TV hit, called “[Father Knows Best](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22father+knows+best%22&exact_or_range=range&after_date=2009-01-20&before_date=2017-01-20&commit=Update),” where he’d explain his politics to one of his daughters. 
 
 <a id="le-show-decade-four"></a>
 
 ### *Le Show*: Decade Four
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Shearer in 2022.</caption>
+<caption align="bottom" class="exhibit-caption">Shearer at WWNO in 2022.</caption>
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-historicaloverview2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/le-show-harry-in-mask.jpg" class="big-image" alt="Shearer wearing a black mask in 2022."/></a></td></tr>
 </table>
 
@@ -106,9 +106,9 @@ No, it didn’t make sense to me, either.
 
 And yet, I was grateful to still have this playground and platform; never more so than when Donald Trump first rode the down escalator and then rode the improbable path to 1600 Pennsylvania.   
 
-Most of my friends spent the next four years in a state of outrage, anger, and fear over the behavior and utterings of a man utterly unqualified for the job of President.   I was lucky enough to have an outlet for my thoughts and feelings about a fellow I called “The Appresidentice.”  
+Most of my friends spent the next four years in a state of outrage, anger, and fear over the behavior and utterings of a man utterly unqualified for the job of President.   I was lucky enough to have an outlet for my thoughts and feelings about a fellow I called “[The Appresidentice](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&sort=asset_date+asc&q=Appresidentice+OR+marapprentice).”  
 
-He was enough of a satirical inspiration that I finally got back to motion-capture animation, working with two Australian visual artists to do two music videos of songs—“Son in Law” and “Executive Time”—that originated, of course, on *Le Show*. 
+He was enough of a satirical inspiration that I finally got back to motion-capture animation, working with two Australian visual artists to do two music videos of songs—“[Son in Law](https://www.youtube.com/watch?v=ZtptN8bfl3M)” and “[Executive Time](https://www.youtube.com/watch?v=6-y7_DnhDtQ)”—that originated, of course, on *Le Show*. 
 
 #### Next: [Acknowledgments](/exhibits/le-show/6-acknowledgements)
 
