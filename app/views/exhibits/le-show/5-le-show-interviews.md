@@ -222,7 +222,7 @@ Author of *The Age of Surveillance Capitalism*
 - [**June 2, 2019**](https://americanarchive.org/catalog/cpb-aacip-a41b2f22dd5)
 - [**November 3, 2019**](https://americanarchive.org/catalog/cpb-aacip-035a935c75c)
 
-#### Next: [Le Show Decades One through Four by Harry Shearer](/exhibits/le-show/7-le-show-by-shearer)
+#### Next: [Le Show: Year One through Decade Four by Harry Shearer](/exhibits/le-show/7-le-show-by-shearer)
 
 ## Resources
 
