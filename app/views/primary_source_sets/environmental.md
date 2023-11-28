@@ -61,6 +61,7 @@ What has motivated the environmental movement since the 1960s and how has our po
 **1) Topic: The Strategy and Tactics of Environmentalists**
 
 Ask the students to watch the following sources:
+
 - [Three Mile Island Accident Exposes the Risks of Nuclear Power (1979)](https://americanarchive.org/primary_source_sets/environmental/05-7d6c49609ed)
 - [Greenpeace and the Tactics of Civil Disobedience (1982)](https://americanarchive.org/primary_source_sets/environmental/06-259-0p0ws63w)
 - [David v. Goliath: The Environmental Justice Movement in Louisiana (1997)](https://americanarchive.org/primary_source_sets/environmental/07-17-945qgw68)
@@ -73,6 +74,7 @@ The path forward:  Organize an environmental summit devoted to launching a new â
 **2) Topic: The Politics of Climate Change**
 
 Ask students to watch the following sources:
+
 - [The Threat of Global Warming: An Inconvenient Truth (2006)](https://americanarchive.org/primary_source_sets/environmental/09-507-vm42r3pt3k)
 - [The Presidential Candidates Disagree on Climate Change (2016)](https://americanarchive.org/primary_source_sets/environmental/10-525-sq8qb9wc0v)
 - [Electric Vehicles and President Bidenâ€™s Climate Agenda (2021)](https://americanarchive.org/primary_source_sets/environmental/11-51a2c0f8ca2)
@@ -86,6 +88,7 @@ Follow-up activity:  Electric vehicle owners can typically expect to drive 250 m
 **3) Topic: Dependence on Fossil Fuels**
 
 Ask students to watch the following sources:
+
 - [The Santa Barbara Oil Spill Exposes the Costs of Offshore Drilling (1970)](https://americanarchive.org/primary_source_sets/environmental/03-75-26m0cjt7)
 - [The Arab Oil Embargo and the New Politics of Scarcity (1974)](https://americanarchive.org/primary_source_sets/environmental/04-xs5j961s55)
 
