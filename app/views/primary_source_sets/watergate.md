@@ -113,6 +113,7 @@ If time permits, create a classroom exhibit based on the cartoons and ask studen
 
 ## Pdflink
 
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Watergate_Scandal_Teaching-Tips.pdf
 
 ## Additionalresources
 [**Richard Nixon's Political Scandal: Researching Watergate in the Manuscript Collections
