@@ -1,4 +1,4 @@
-# Watergate Scandal
+# The Watergate Scandal
 
 ## Thumbnail
 
