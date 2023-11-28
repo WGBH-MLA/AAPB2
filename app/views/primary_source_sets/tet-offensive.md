@@ -82,7 +82,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Tet-Offens
 - [**As We See It: Vietnam ’68**](https://americanarchive.org/catalog?f%5Bseries_titles%5D%5B%5D=As+we+see+it%3A+Vietnam+%2768&sort=title+asc&f%5baccess_types%5d%5b%5d=online), American Archive of Public Broadcasting
 
 ## Youmayalsolike
-- special_collection,vietnam-a-television-history
+- special collection,vietnam-a-television-history
 - exhibit,first-amendment
 
 ## Citation

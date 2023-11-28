@@ -134,7 +134,7 @@ Los medios de comunicación en inglés también cubrieron las dificultades que p
 - [*Chicano: History of the Mexican-American Civil Rights Movement*](https://www.kanopy.com/product/chicano-history-mexican-american-civil-rig)
 - [United Farm Workers](https://ufw.org/)
 - [Radio KDNA: The Voice of the Farmworker, 1975-1985](https://depts.washington.edu/civilr/farmwk_ch8.htm)
-- [Radio Bilingue](http://radiobilingue.org/en/)
+- [Radio Bilingue](https://radiobilingue.org/)
 
 ## Cover
   <img title="Cover Image" alt="Hogar de trabajadores agrícolas en Oregón, de *The Oregon Story*: Agricultural Workers" src="https://s3.amazonaws.com/americanarchive.org/exhibits/Voices-of-Dissent-Agricultural-workers-home-in-Oregon.jpg">

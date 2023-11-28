@@ -104,7 +104,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Great-Depr
 - [**Great Depression Primary Sources & Teaching Activities**](https://education.blogs.archives.gov/2021/02/18/great-depression-2/), U.S. National Archives
 
 ## Youmayalsolike
-- special_collection,the-great-depression
+- special collection,the-great-depression
 
 ## Citation
 

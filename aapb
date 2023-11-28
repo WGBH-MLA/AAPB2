@@ -20,7 +20,7 @@ COMMANDS:\n\n
 DOCKER_RUN="docker run -it --rm --name aapb"
 DOCKER_EXEC="docker exec -it"
 VOLUME_MOUNT="-v $(pwd):/usr/src/app/"
-PORT_MOUNT="-p 3000:3000"
+PORT_MOUNT="-p 3000:3000 -p 8983:8983"
 
 if [ -z $1 ]; then
   echo -e $HELP
