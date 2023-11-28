@@ -133,7 +133,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Watergate_
 
 
 ## Youmayalsolike
-- special_collection,watergate
+- special collection,watergate
 
 ## Citation
 
