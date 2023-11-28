@@ -53,7 +53,6 @@ To what extent did the Watergate scandal represent the subversion of democracy o
 - In the absence of incriminating evidence, would Nixon have resigned?
 - What is the most important legacy of the Watergate scandal?
 
-
 <hr>
 
 #### Classroom Activities
@@ -62,56 +61,55 @@ To what extent did the Watergate scandal represent the subversion of democracy o
 
 Ask students to watch the following sources:
 
-- [**James McCord’s Testimony Before the Senate Select Watergate Committee (1973)**](https://americanarchive.org/primary_source_sets/watergate/2-512-d795718g4z)
-- [**John Dean Testifies Before the Senate Select Watergate Committee (1973)**](http://americanarchive.org/primary_source_sets/watergate/3-512-251fj2b06r)
-- [**Senator Howard Baker Asks John Dean a Key Question (1973)**](https://americanarchive.org/primary_source_sets/watergate/4-512-j09w08x77b)
-- [**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/5-9a47dc598f3)
+- [James McCord’s Testimony Before the Senate Select Watergate Committee (1973)](https://americanarchive.org/primary_source_sets/watergate/2-512-d795718g4z)
+- [John Dean Testifies Before the Senate Select Watergate Committee (1973)](http://americanarchive.org/primary_source_sets/watergate/3-512-251fj2b06r)
+- [Senator Howard Baker Asks John Dean a Key Question (1973)](https://americanarchive.org/primary_source_sets/watergate/4-512-j09w08x77b)
+- [Threatened With Impeachment, Nixon Resigns (1983)](https://americanarchive.org/primary_source_sets/watergate/5-9a47dc598f3)
 
-The [**Senate hearings ran for 51 days**](https://americanarchive.org/primary_source_sets/watergate/1-512-gf0ms3m89s) over the summer of 1973 and were televised gavel to gavel. Who testified, and what impact do you believe the cooperation of witnesses had on public perceptions? To what degree do you feel the excesses of the Nixon White House lend credence to the notion of an imperial presidency?
+The [Senate hearings ran for 51 days](https://americanarchive.org/primary_source_sets/watergate/1-512-gf0ms3m89s) over the summer of 1973 and were televised gavel to gavel. Who testified, and what impact do you believe the cooperation of witnesses had on public perceptions? To what degree do you feel the excesses of the Nixon White House lend credence to the notion of an imperial presidency?
 
 How did the members of the House Judiciary Committee approach the impeachment hearings in 1974? Why did so many reference the Constitution and what did they say? Whose remarks resonated with you most and why?
 
-Ask students to read this NPR [**article**](https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow) on the January 6 Committee and to compare it to the Watergate hearings in terms of its process and the political make-up of the committees. Identify the factors that differentiated the House of Representatives investigation into the January 6th, 2021, attack on the U.S. Capitol from the Watergate investigations.
+Ask students to read this NPR [article](https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow) on the January 6 Committee and to compare it to the Watergate hearings in terms of its process and the political make-up of the committees. Identify the factors that differentiated the House of Representatives investigation into the January 6th, 2021, attack on the U.S. Capitol from the Watergate investigations.
 
 **2)   The Lessons of Watergate**
      
 Ask students to watch the following sources: 
 
-- [**An Ordinary Citizen Discusses the Morality of Watergate (1974)**](https://americanarchive.org/primary_source_sets/watergate/6-512-3f4kk95f7h)
-- [**Congresswoman Barbara Jordan Reflects on Watergate (1975)**](https://americanarchive.org/primary_source_sets/watergate/8-512-ms3jw87z64)
-- [**Garrett Graff Discusses His Book, Watergate: A New History (2022)**](https://americanarchive.org/primary_source_sets/watergate/9-065273f33da)
+- [An Ordinary Citizen Discusses the Morality of Watergate (1974)](https://americanarchive.org/primary_source_sets/watergate/6-512-3f4kk95f7h)
+- [Congresswoman Barbara Jordan Reflects on Watergate (1975)](https://americanarchive.org/primary_source_sets/watergate/8-512-ms3jw87z64)
+- [Garrett Graff Discusses His Book, Watergate: A New History (2022)](https://americanarchive.org/primary_source_sets/watergate/9-065273f33da)
    
 Rep. Barbara Jordan (D, Texas) and Grace Crawley agree that Watergate exposed the lack of integrity and morality in government, but they disagree when it comes to preventing future scandals. What solutions does Jordan endorse?  What does Crawley see as the answer? Garrett Graff, writing on the 50th anniversary of the Watergate break-in, also weighs in. What lesson does he draw from the Watergate scandal?  What lessons do you think should be drawn?
 
 Ask students to put themselves in Crawley’s place: As a citizen in 1974, what would they say in a letter to the editor of Time magazine? What points would they make about political integrity, accountability, and upholding the Constitution?
 
-**3)   The Judiciary v. the Executive**
+**3) The Judiciary v. the Executive**
       
 Ask students to watch the following sources:
 
-- [**The President and the Courts (1973)**](https://americanarchive.org/primary_source_sets/watergate/cpb-aacip-9a47dc598f3)
-- [**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/7-512-gm81j9840b)
+- [The President and the Courts (1973)](https://americanarchive.org/primary_source_sets/watergate/cpb-aacip-9a47dc598f3)
+- [Threatened With Impeachment, Nixon Resigns (1983)](https://americanarchive.org/primary_source_sets/watergate/7-512-gm81j9840b)
 
 What role did the Special Prosecutor and the Senate Select Committee play in getting key evidence released? Why did Nixon refuse to surrender the tapes and what specific arguments did he make? Do you find these persuasive? 
  
-Imagine you are a lawyer arguing on behalf of the United States in the 1974 [**United States v. Nixon**](https://www.oyez.org/cases/1973/73-1766) case: What points would you make in order to convince the Supreme Court that President Nixon should surrender all the White House tapes?
+Imagine you are a lawyer arguing on behalf of the United States in the 1974 [United States v. Nixon](https://www.oyez.org/cases/1973/73-1766) case: What points would you make in order to convince the Supreme Court that President Nixon should surrender all the White House tapes?
 
-**4)   Interpreting Watershed Moments**
+**4) Interpreting Watershed Moments**
 
 Ask students to watch:
 
-- [**James McCord’s Testimony Before the Senate Select Watergate Committee (1973)**](https://americanarchive.org/primary_source_sets/watergate/2-512-d795718g4z)
-- [**Senator Howard Baker Asks John Dean a Key Question (1973)**](https://americanarchive.org/primary_source_sets/watergate/4-512-j09w08x77b)
-- [**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/7-512-gm81j9840b)
+- [James McCord’s Testimony Before the Senate Select Watergate Committee (1973)](https://americanarchive.org/primary_source_sets/watergate/2-512-d795718g4z)
+- [Senator Howard Baker Asks John Dean a Key Question (1973)](https://americanarchive.org/primary_source_sets/watergate/4-512-j09w08x77b)
+- [Threatened With Impeachment, Nixon Resigns (1983)](https://americanarchive.org/primary_source_sets/watergate/7-512-gm81j9840b)
 
 Why do you think these were turning points in the Watergate scandal? What made them so dramatic and in what way did they advance the public’s understanding of the inner workings of the Nixon administration?
 
-Political cartoonists like Herblock (Herbert Block), Pat Oliphant, and Draper Hill captured many of the watershed moments of the Watergate scandal in their work. Some of the most memorable were Herblock’s [**Watergate cartoons**](https://www.washingtonpost.com/wp-srv/politics/special/watergate/cartoon.html)  published in The Washington Post (1972-74).
+Political cartoonists like Herblock (Herbert Block), Pat Oliphant, and Draper Hill captured many of the watershed moments of the Watergate scandal in their work. Some of the most memorable were Herblock’s [Watergate cartoons](https://www.washingtonpost.com/wp-srv/politics/special/watergate/cartoon.html)  published in The Washington Post (1972-74).
 
 Using Herblock’s cartoons as a model, ask students to create a political cartoon based on the key events documented by the video sources or others that they identify.
 
 If time permits, create a classroom exhibit based on the cartoons and ask students to lead tours in which they interpret the meaning of the cartoons and explain their historical significance.
-
 
 <hr>
 
@@ -120,18 +118,18 @@ If time permits, create a classroom exhibit based on the cartoons and ask studen
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Watergate_Scandal_Teaching-Tips.pdf
 
 ## Additionalresources
-[**Richard Nixon's Political Scandal: Researching Watergate in the Manuscript Collections
-(Library of Congress)**](https://guides.loc.gov/watergate-manuscripts)
-[**Watergate and the Constitution (National Archives)**](https://www.archives.gov/education/lessons/watergate-constitution)
-[**Watergate: Portraiture and Intrigue (National Portrait Gallery)**](https://npg.si.edu/exhibition/watergate)
-[**Watergate Committee hearings may be both an inspiration and a hard act to follow (NPR)**](https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow)
-[**How TV news has changed 50 years since Watergate (WBUR, NPR)**](https://www.wesa.fm/2022-06-17/how-tv-news-has-changed-50-years-since-watergate)
-[**A Look Back at the Senate Watergate Hearings (PBS NewsHour)**](https://www.tpt.org/pbs-newshour/video/newshour-look-back-senate-watergate-hearings/)
-[**Richard Nixon and Watergate (Bill of Rights Institute)**](https://billofrightsinstitute.org/essays/richard-nixon-and-watergate)
-[**The Watergate Story (Washington Post Archives)**](https://www.washingtonpost.com/wp-srv/politics/special/watergate/part1.html)
-[**Frost/Nixon: The Original Watergate Interviews (DVD.com/Netflix)**](https://dvd.netflix.com/Movie/Frost-Nixon-The-Original-Watergate-Interviews/70110665)
-[**“Gavel-to-Gavel”: The Watergate Scandal and Public Television (The American Archive of Public Broadcasting)**](https://americanarchive.org/exhibits/watergate)
-[**Public trust in government: 1958-2015 (The Pew Research Center)**](https://www.pewresearch.org/politics/wp-content/uploads/sites/4/2015/11/Trust-1.png)
+
+- [**Richard Nixon's Political Scandal: Researching Watergate in the Manuscript Collections**](https://guides.loc.gov/watergate-manuscripts), Library of Congress
+- [**Watergate and the Constitution**](https://www.archives.gov/education/lessons/watergate-constitution), National Archives
+- [**Watergate: Portraiture and Intrigue**](https://npg.si.edu/exhibition/watergate), National Portrait Gallery
+- [**Watergate Committee hearings may be both an inspiration and a hard act to follow**](https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow), NPR
+- [**How TV news has changed 50 years since Watergate**](https://www.wesa.fm/2022-06-17/how-tv-news-has-changed-50-years-since-watergate), WBUR, NPR
+- [**A Look Back at the Senate Watergate Hearings**](https://www.tpt.org/pbs-newshour/video/newshour-look-back-senate-watergate-hearings/), PBS NewsHour
+- [**Richard Nixon and Watergate**](https://billofrightsinstitute.org/essays/richard-nixon-and-watergate), Bill of Rights Institute
+- [**The Watergate Story**](https://www.washingtonpost.com/wp-srv/politics/special/watergate/part1.html), Washington Post Archives
+- [**Frost/Nixon: The Original Watergate Interviews**](https://dvd.netflix.com/Movie/Frost-Nixon-The-Original-Watergate-Interviews/70110665),  DVD.com/Netflix
+- [**“Gavel-to-Gavel”: The Watergate Scandal and Public Television**](https://americanarchive.org/exhibits/watergate), The American Archive of Public Broadcasting
+- [**Public trust in government: 1958-2015**](https://www.pewresearch.org/politics/wp-content/uploads/sites/4/2015/11/Trust-1.png), The Pew Research Center
 
 
 ## Youmayalsolike
@@ -139,6 +137,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Watergate_
 
 ## Citation
 
+Weidner, Catherine Sardo. "Watergate Scandal." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/watergate.
 
 ## Guid
 ## Cliptime
