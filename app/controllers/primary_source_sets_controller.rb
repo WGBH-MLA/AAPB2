@@ -32,7 +32,6 @@ class PrimarySourceSetsController < OverrideController
   end
 end
 
-
 private
 
 def find_doc(guid)
