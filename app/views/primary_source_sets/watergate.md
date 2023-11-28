@@ -137,7 +137,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Watergate_
 
 ## Citation
 
-Weidner, Catherine Sardo. "Watergate Scandal." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/watergate.
+Weidner, Catherine Sardo. "The Watergate Scandal." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/watergate.
 
 ## Guid
 ## Cliptime
