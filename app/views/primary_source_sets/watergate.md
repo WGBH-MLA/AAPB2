@@ -61,10 +61,11 @@ To what extent did the Watergate scandal represent the subversion of democracy o
 1. The Separation of Powers and Congressional Oversight: Now and Then
 
 Ask students to watch the following sources:
-[**James McCord’s Testimony Before the Senate Select Watergate Committee (1973)**](https://americanarchive.org/primary_source_sets/watergate/2-512-d795718g4z)
-[**John Dean Testifies Before the Senate Select Watergate Committee (1973)**](http://americanarchive.org/primary_source_sets/watergate/3-512-251fj2b06r)
-[**Senator Howard Baker Asks John Dean a Key Question (1973)**](https://americanarchive.org/primary_source_sets/watergate/4-512-j09w08x77b)
-[**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/5-9a47dc598f3)
+
+- [**James McCord’s Testimony Before the Senate Select Watergate Committee (1973)**](https://americanarchive.org/primary_source_sets/watergate/2-512-d795718g4z)
+- [**John Dean Testifies Before the Senate Select Watergate Committee (1973)**](http://americanarchive.org/primary_source_sets/watergate/3-512-251fj2b06r)
+- [**Senator Howard Baker Asks John Dean a Key Question (1973)**](https://americanarchive.org/primary_source_sets/watergate/4-512-j09w08x77b)
+- [**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/5-9a47dc598f3)
 
 The [**Senate hearings ran for 51 days**](https://americanarchive.org/primary_source_sets/watergate/1-512-gf0ms3m89s) over the summer of 1973 and were televised gavel to gavel. Who testified, and what impact do you believe the cooperation of witnesses had on public perceptions? To what degree do you feel the excesses of the Nixon White House lend credence to the notion of an imperial presidency?
 
@@ -75,9 +76,10 @@ Ask students to read this NPR [**article**](https://www.npr.org/2022/06/06/11030
 2.   The Lessons of Watergate
      
 Ask students to watch the following sources: 
-[**An Ordinary Citizen Discusses the Morality of Watergate (1974)**](https://americanarchive.org/primary_source_sets/watergate/6-512-3f4kk95f7h)
-[**Congresswoman Barbara Jordan Reflects on Watergate (1975)**](https://americanarchive.org/primary_source_sets/watergate/8-512-ms3jw87z64)
-[**Garrett Graff Discusses His Book, Watergate: A New History (2022)**](https://americanarchive.org/primary_source_sets/watergate/9-065273f33da)
+
+- [**An Ordinary Citizen Discusses the Morality of Watergate (1974)**](https://americanarchive.org/primary_source_sets/watergate/6-512-3f4kk95f7h)
+- [**Congresswoman Barbara Jordan Reflects on Watergate (1975)**](https://americanarchive.org/primary_source_sets/watergate/8-512-ms3jw87z64)
+- [**Garrett Graff Discusses His Book, Watergate: A New History (2022)**](https://americanarchive.org/primary_source_sets/watergate/9-065273f33da)
    
 Rep. Barbara Jordan (D, Texas) and Grace Crawley agree that Watergate exposed the lack of integrity and morality in government, but they disagree when it comes to preventing future scandals. What solutions does Jordan endorse?  What does Crawley see as the answer? Garrett Graff, writing on the 50th anniversary of the Watergate break-in, also weighs in. What lesson does he draw from the Watergate scandal?  What lessons do you think should be drawn?
 
@@ -86,8 +88,9 @@ Ask students to put themselves in Crawley’s place: As a citizen in 1974, what 
 3.   The Judiciary v. the Executive
       
 Ask students to watch the following sources:
-[**The President and the Courts (1973)**](https://americanarchive.org/primary_source_sets/watergate/cpb-aacip-9a47dc598f3)
-[**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/7-512-gm81j9840b)
+
+- [**The President and the Courts (1973)**](https://americanarchive.org/primary_source_sets/watergate/cpb-aacip-9a47dc598f3)
+- [**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/7-512-gm81j9840b)
 
 What role did the Special Prosecutor and the Senate Select Committee play in getting key evidence released? Why did Nixon refuse to surrender the tapes and what specific arguments did he make? Do you find these persuasive? 
  
@@ -96,9 +99,10 @@ Imagine you are a lawyer arguing on behalf of the United States in the 1974 [**U
 4.   Interpreting Watershed Moments
 
 Ask students to watch:
-[**James McCord’s Testimony Before the Senate Select Watergate Committee (1973)**](https://americanarchive.org/primary_source_sets/watergate/2-512-d795718g4z)
-[**Senator Howard Baker Asks John Dean a Key Question (1973)**](https://americanarchive.org/primary_source_sets/watergate/4-512-j09w08x77b)
-[**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/7-512-gm81j9840b)
+
+- [**James McCord’s Testimony Before the Senate Select Watergate Committee (1973)**](https://americanarchive.org/primary_source_sets/watergate/2-512-d795718g4z)
+- [**Senator Howard Baker Asks John Dean a Key Question (1973)**](https://americanarchive.org/primary_source_sets/watergate/4-512-j09w08x77b)
+- [**Threatened With Impeachment, Nixon Resigns (1983)**](https://americanarchive.org/primary_source_sets/watergate/7-512-gm81j9840b)
 
 Why do you think these were turning points in the Watergate scandal? What made them so dramatic and in what way did they advance the public’s understanding of the inner workings of the Nixon administration?
 
