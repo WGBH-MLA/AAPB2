@@ -58,7 +58,7 @@ To what extent did the Watergate scandal represent the subversion of democracy o
 
 #### Classroom Activities
 
-1. The Separation of Powers and Congressional Oversight: Now and Then
+**1) The Separation of Powers and Congressional Oversight: Now and Then**
 
 Ask students to watch the following sources:
 
@@ -73,7 +73,7 @@ How did the members of the House Judiciary Committee approach the impeachment he
 
 Ask students to read this NPR [**article**](https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow) on the January 6 Committee and to compare it to the Watergate hearings in terms of its process and the political make-up of the committees. Identify the factors that differentiated the House of Representatives investigation into the January 6th, 2021, attack on the U.S. Capitol from the Watergate investigations.
 
-2.   The Lessons of Watergate
+**2)   The Lessons of Watergate**
      
 Ask students to watch the following sources: 
 
@@ -85,7 +85,7 @@ Rep. Barbara Jordan (D, Texas) and Grace Crawley agree that Watergate exposed th
 
 Ask students to put themselves in Crawley’s place: As a citizen in 1974, what would they say in a letter to the editor of Time magazine? What points would they make about political integrity, accountability, and upholding the Constitution?
 
-3.   The Judiciary v. the Executive
+**3)   The Judiciary v. the Executive**
       
 Ask students to watch the following sources:
 
@@ -96,7 +96,7 @@ What role did the Special Prosecutor and the Senate Select Committee play in get
  
 Imagine you are a lawyer arguing on behalf of the United States in the 1974 [**United States v. Nixon**](https://www.oyez.org/cases/1973/73-1766) case: What points would you make in order to convince the Supreme Court that President Nixon should surrender all the White House tapes?
 
-4.   Interpreting Watershed Moments
+**4)   Interpreting Watershed Moments**
 
 Ask students to watch:
 
