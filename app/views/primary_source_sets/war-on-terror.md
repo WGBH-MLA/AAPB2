@@ -22,8 +22,7 @@ On September 11, 2001, 19 members of the al-Qaeda terrorist organization hijacke
 
 While there was no universal agreement on how to respond to the September 11 attacks, there was a widespread belief among Americans that the U.S. needed to take significant new steps to stay safe in a “post-9/11 world.” In this climate, President George W. Bush pledged to launch a “War on Terror” that would “not end until every terrorist group of global reach has been found, stopped, and defeated.” This not only would involve targeting terrorist organizations, but also, as Bush asserted in an October 2001 news conference, “governments that support or shelter them.” Thus, the U.S. invaded Afghanistan–the country in which al-Qaeda leader Osama bin Laden was hiding–and ousted the ruling Taliban government. More controversially, the U.S. invaded Iraq, charging that the government of authoritarian leader Saddam Hussein had “weapons of mass destruction” (known as WMD’s) and ties to al-Qaeda.  Public opinion of the war suffered when the intelligence underlying these claims was discredited and no live WMD’s were ever found. And despite Administration confidence that the U.S. would smoothly create a stable, democratic Iraq, the quick overthrow of Hussein was followed by a years’ long insurgency targeting the new government and U.S. troops, as well as a brutal civil war between Sunni and Shia ethnic groups. By the time the U.S. began to withdraw its troops in the late 2000s, the majority of Americans came to view the war as a mistake. 
 
-Other aspects of the War on Terror proved politically controversial as well. The 2001 
-USA PATRIOT Act expanded the government’s legal power to surveil American citizens in an effort to prevent future terrorist attacks, and the National Security Agency secretly conducted mass surveillance of citizens’ email and phone data. The Department of Justice created a legal framework allowing for “indefinite detention” (the U.S. could hold suspected terrorists without charge for the duration of the War on Terror) and “enhanced interrogation” tactics (such as sleep deprivation, cramped confinement in tiny spaces, and waterboarding) that critics and a 2012 Senate report condemned as torture. While many Americans defended these practices as necessary to combat a dangerous terrorist threat, critics charged that the Bush Administration had abandoned the country’s constitutional freedoms and moral compass.
+Other aspects of the War on Terror proved politically controversial as well. The 2001 USA PATRIOT Act expanded the government’s legal power to surveil American citizens in an effort to prevent future terrorist attacks, and the National Security Agency secretly conducted mass surveillance of citizens’ email and phone data. The Department of Justice created a legal framework allowing for “indefinite detention” (the U.S. could hold suspected terrorists without charge for the duration of the War on Terror) and “enhanced interrogation” tactics (such as sleep deprivation, cramped confinement in tiny spaces, and waterboarding) that critics and a 2012 Senate report condemned as torture. While many Americans defended these practices as necessary to combat a dangerous terrorist threat, critics charged that the Bush Administration had abandoned the country’s constitutional freedoms and moral compass.
 
 Thus, while the September 11 attacks led to brief political unity, the ensuing War on Terror created divisive political controversies and challenging ethical debates.
 
@@ -35,6 +34,7 @@ The sources in this set provide insight into how Americans responded to the Sept
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
+
 - The terrorist attacks on September 11 and their impact on American life
 - The causes and impacts of wars in Afghanistan and Iraq
 - U.S. practices and policies during the War on Terror, including surveillance, detention of enemy combatants, and “enhanced interrogation”
@@ -68,6 +68,7 @@ Have students watch the following clips about the September 11 attacks and their
 - [The Climate of Fear After 9/11 (2002)](/catalog/cpb-aacip-507-tq5r786g8g)
 
 Ask students questions like: 
+
 - What were some aspects of the September 11 attacks that made them so traumatic for Americans? 
 - Why did many Americans lash out at Muslims, Arabs, and others who looked like the perpetrators of the 9/11 attacks?  
 - Two of the prevailing emotional responses to 9/11 were fear and anger. What was it about the September 11 attacks that prompted these reactions? How might these responses have shaped the U.S. political and military responses after 9/11?
@@ -82,6 +83,7 @@ Have students watch the following clips about the War on Terror:
 - [Two Law Professors Debate the Legality of the Patriot Act (2003)](/catalog/cpb-aacip-507-tm71v5c97k)
 
 Ask students questions like:
+
 - What seem to be some defining principles articulated by George Bush about how his administration would carry out its “War on Terror”?  How does he portray the traits and goals of our enemies?
 - What made the “War on Terror” different from a conventional war against another nation and its military?  
 - What arguments were made to justify singling out Muslims and Arabs for extra searches and extra attention from investigators? What counter-arguments were made regarding why such practices would be unjust? 
@@ -100,30 +102,31 @@ Have students watch the following clips about the War in Iraq:
 
 
 Ask students questions like: 
+
 - What seems to have been the rationale for invading Iraq? Why might the September 11 attacks have helped create a climate in which - there was political support for this invasion?
 - Why did the War in Iraq devolve into a deadly insurgency and a sectarian civil war?  (What are some features of Iraqi society and - history that help explain these developments? How did the U.S. invasion and post-occupation policies help create conditions that explain the unrest?)
 - When the war began in 2003, 70% of Americans thought invading Iraq was the right decision. By late 2007, that number had fallen to 36%.  What were some factors that help explain why so many Americans turned against the war?
 - A large minority of Americans continued to support the Iraq War through the course of the conflict. What points would these supporters have made in defense of the War in Iraq? 
 - The Iraq War is often compared to the Vietnam War. What makes the two conflicts similar? What makes them different?
 
-**Extension Activity:** After watching these clips and having students do some additional research to prepare, hold an in-class debate set in 2007 about the Iraq War. Divide students into “defenders” and “critics” of the war, and have them debate two distinct questions: 1) Was it the right decision for the U.S. to invade Iraq?  2) Should the U.S. immediately withdraw all troops from Iraq?  
+**Extension Activity:** After watching these clips and having students do some additional research to prepare, hold an in-class debate set in 2007 about the Iraq War. Divide students into “defenders” and “critics” of the war, and have them debate two distinct questions: (1) Was it the right decision for the U.S. to invade Iraq?  (2) Should the U.S. immediately withdraw all troops from Iraq?  
 
-After debating those questions, charge the two sides with crafting a compromise plan in which 1) political stability could be restored in Iraq, and 2) American troops could be gradually brought back to the US.
+After debating those questions, charge the two sides with crafting a compromise plan in which (1) political stability could be restored in Iraq, and (2) American troops could be gradually brought back to the US.
 
 
 <hr>
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Feminism-and-Anti-Feminism_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_War_on_Terror_Teaching-Tips.pdf
 
 ## Additionalresources
 
-- [Oral Histories of Survivors of 9/11 (9/11 Memorial and Museum)](https://www.911memorial.org/learn/resources/oral-histories)
-- [Global War on Terror (George W. Bush Presidential Library)](https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror)
-- [Documentary: America after 9/11 (Frontline)](https://www.pbs.org/wgbh/frontline/documentary/america-after-9-11/)
-- [Documentary: Bush’s War (Frontline)](https://www.pbs.org/wgbh/frontline/documentary/bushswar/)
-- [9/11 Special Coverage (AAPB Special Collection)](/special_collections/9-11-special-coverage)
+- [**Oral Histories of Survivors of 9/11**](https://www.911memorial.org/learn/resources/oral-histories), 9/11 Memorial and Museum
+- [**Global War on Terror**](https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror), George W. Bush Presidential Library
+- [**Documentary: America after 9/11**](https://www.pbs.org/wgbh/frontline/documentary/america-after-9-11/), Frontline
+- [**Documentary: Bush’s War**](https://www.pbs.org/wgbh/frontline/documentary/bushswar/), Frontline
+- [**9/11 Special Coverage**](/special_collections/9-11-special-coverage), AAPB Special Collection
 
 ## Youmayalsolike
 - special collection,9-11-special-coverage
