@@ -62,10 +62,10 @@ How can the United States respond to the threat of terrorism in productive ways 
 
 Have students watch the following clips about the September 11 attacks and their aftermath:
 
-- [News Coverage on September 11 (2001)](https://americanarchive.org/catalog/cpb-aacip-507-t727941r2s)
-- [Americans React to the 9/11 Attacks (2001)](https://americanarchive.org/catalog/cpb-aacip-120-79573z1q)
-- [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](https://americanarchive.org/catalog/cpb-aacip-507-ff3kw5852f)
-- [The Climate of Fear After 9/11 (2002)](https://americanarchive.org/catalog/cpb-aacip-507-tq5r786g8g)
+- [News Coverage on September 11 (2001)](/catalog/cpb-aacip-507-t727941r2s)
+- [Americans React to the 9/11 Attacks (2001)](/catalog/cpb-aacip-120-79573z1q)
+- [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](/catalog/cpb-aacip-507-ff3kw5852f)
+- [The Climate of Fear After 9/11 (2002)](/catalog/cpb-aacip-507-tq5r786g8g)
 
 Ask students questions like: 
 - What were some aspects of the September 11 attacks that made them so traumatic for Americans? 
@@ -76,10 +76,10 @@ Extension Activity: Ask an older friend or family member about their memories of
 
 Have students watch the following clips about the War on Terror:
 
-- [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](https://americanarchive.org/catalog/cpb-aacip-507-ff3kw5852f)
-- [Bush Defines the War on Terror (2001)](https://americanarchive.org/catalog/cpb-aacip_507-6m3319sr3r)
-- [Bush Administration Continues “Enhanced Interrogation” Despite Internal Opposition (2009)](https://americanarchive.org/catalog/cpb-aacip-69969c555b8) 
-- [Two Law Professors Debate the Legality of the Patriot Act (2003)](https://americanarchive.org/catalog/cpb-aacip-507-tm71v5c97k)
+- [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](/catalog/cpb-aacip-507-ff3kw5852f)
+- [Bush Defines the War on Terror (2001)](/catalog/cpb-aacip_507-6m3319sr3r)
+- [Bush Administration Continues “Enhanced Interrogation” Despite Internal Opposition (2009)](/catalog/cpb-aacip-69969c555b8) 
+- [Two Law Professors Debate the Legality of the Patriot Act (2003)](/catalog/cpb-aacip-507-tm71v5c97k)
 
 Ask students questions like:
 - What seem to be some defining principles articulated by George Bush about how his administration would carry out its “War on Terror”?  How does he portray the traits and goals of our enemies?
@@ -93,10 +93,10 @@ Ask students questions like:
 
 Have students watch the following clips about the War in Iraq:
 
-- [Debating the Invasion of Iraq on the Brink of War (2003)](https://americanarchive.org/catalog/cpb-aacip-507-t43hx16k23)
-- [American Soldiers Discuss the Sunni Insurgency (2005)](https://americanarchive.org/catalog/cpb-aacip-507-7p8tb0zc36)
-- [The Outbreak of Sectarian Civil War in Iraq (2006)](https://americanarchive.org/catalog/cpb-aacip-507-df6k06xp7q)
-- [U.S. Public Opinion Turns Against the Iraq War (2007)](https://americanarchive.org/catalog/cpb-aacip-507-j96057dj68)
+- [Debating the Invasion of Iraq on the Brink of War (2003)](/catalog/cpb-aacip-507-t43hx16k23)
+- [American Soldiers Discuss the Sunni Insurgency (2005)](/catalog/cpb-aacip-507-7p8tb0zc36)
+- [The Outbreak of Sectarian Civil War in Iraq (2006)](/catalog/cpb-aacip-507-df6k06xp7q)
+- [U.S. Public Opinion Turns Against the Iraq War (2007)](/catalog/cpb-aacip-507-j96057dj68)
 
 
 Ask students questions like: 
@@ -123,14 +123,14 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Feminism-a
 - [Global War on Terror (George W. Bush Presidential Library)](https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror)
 - [Documentary: America after 9/11 (Frontline)](https://www.pbs.org/wgbh/frontline/documentary/america-after-9-11/)
 - [Documentary: Bush’s War (Frontline)](https://www.pbs.org/wgbh/frontline/documentary/bushswar/)
-- [9/11 Special Coverage (AAPB Special Collection)](https://americanarchive.org/special_collections/9-11-special-coverage)
+- [9/11 Special Coverage (AAPB Special Collection)](/special_collections/9-11-special-coverage)
 
 ## Youmayalsolike
-- special_collection,9/11 Special Coverage
+- special collection,9-11-special-coverage
 
 ## Citation
 
-Leff, Ben. "9/11 and the War on Terror." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/war-on-terror
+Leff, Ben. "9/11 and the War on Terror." WGBH and the Library of Congress. [9/11 and the War on Terror](/primary_source_sets/war-on-terror)
 
 ## Guid
 ## Cliptime
