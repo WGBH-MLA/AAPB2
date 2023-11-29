@@ -76,7 +76,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Feminism-a
 - [**Women's Liberation Movement Print Culture**](https://repository.duke.edu/dc/wlmpc), Duke University Libraries
 
 ## Youmayalsolike
-- special_collection,woman-series
+- special collection,woman-series
 
 ## Citation
 
