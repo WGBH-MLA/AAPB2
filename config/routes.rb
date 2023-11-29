@@ -11,6 +11,8 @@ Rails.application.routes.draw do
 
   resources 'embed_terms', only: [:show, :create]
 
+  get 'oembed', to: 'oembed#show'
+
   resources 'organizations',
             path: '/participating-orgs', # for backwards compatibility.
             constraints: { id: /.*/ }, # so periods in station IDs are acceptable.
