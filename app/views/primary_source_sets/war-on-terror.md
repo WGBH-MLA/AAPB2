@@ -117,7 +117,7 @@ After debating those questions, charge the two sides with crafting a compromise 
 
 https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Feminism-and-Anti-Feminism_Teaching-Tips.pdf
 
-## Additional resources
+## Additionalresources
 
 - [Oral Histories of Survivors of 9/11 (9/11 Memorial and Museum)](https://www.911memorial.org/learn/resources/oral-histories)
 - [Global War on Terror (George W. Bush Presidential Library)](https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror)
@@ -125,7 +125,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Feminism-a
 - [Documentary: Bush’s War (Frontline)](https://www.pbs.org/wgbh/frontline/documentary/bushswar/)
 - [9/11 Special Coverage (AAPB Special Collection)](https://americanarchive.org/special_collections/9-11-special-coverage)
 
-## You may also like
+## Youmayalsolike
 - special_collection,9/11 Special Coverage
 
 ## Citation
