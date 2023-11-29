@@ -18,6 +18,7 @@ Ben Leff, University Laboratory High School, Urbana, IL
 ## Introduction
 
 In the early 1960s, conservatism appeared to be a marginal force in American political life. Despite the existence of an enthusiastic network of grassroots right-wing organizations and victories in the several states in the Deep South, conservative Barry Goldwater suffered a landslide defeat to Democrat Lyndon Johnson in the 1964 presidential race. But just four years later, Republican Richard Nixon won a decisive presidential victory. He campaigned as a “law and order” candidate, claiming to speak for Americans who were tired of urban rioting and disruptive protests against the Vietnam War, a constituency he later designated “the silent majority.” Many historians argue that this message attracted blue collar white voters who had historically been part of the Democratic “New Deal Coalition.” Nixon also adopted a “southern strategy” focused on appealing to white southerners using race-neutral terms like “states’ rights,” designed to appeal to racial fears and resentments.  In his electoral rout in the 1972 presidential election, Nixon won deep southern states like Mississippi, Alabama, and Georgia by more than 40 points.
+
 Nixon’s scandal-induced resignation in 1974 proved politically damaging for the Republican Party in the short term, but the conservative movement was able to rebuild momentum in the late 1970s. Leaders of the “Religious Right” rallied voters who were concerned with what they saw as declining influence of Christian morality in American society. Conservative politicians also sought to provide an answer to Americans angered by rising crime and economic “stagflation” (a combination of stagnating economic growth and inflation). Amidst growing frustration in international affairs (exemplified by the government’s inability to resolve the Iran Hostage Crisis), so-called “neo-conservatives” called for the renewal of an assertive foreign policy in pursuit of the United States’ national interest. Politicians like Ronald Reagan argued that the liberal vision of an expansive government devoted to the provision of social programs and to leveling social inequities had failed; the post-Vietnam retreat from assertion of American power on the world stage had also endangered the country. Championing a different role for government focused on promoting strong national defense, Christian morality, personal responsibility, and free market capitalism, Reagan wove together strands of a new Republican coalition that would deliver him two landslide presidential victories in 1980 and 1984. A half century after the triumph of Democrat Franklin Roosevelt, this Reagan Revolution marked a new epoch in American politics.
 
 ## Teachingtips
@@ -47,18 +48,22 @@ What role should the government play in American social and economic life?
 
 #### Classroom Activities
 
-1. When historians and political scientists discuss “political coalitions,” they are referring to multiple blocs of voters who tend to form alliances in support of a particular candidate or party. The “New Deal Coalition” that voted for Democrats starting in the 1930s is traditionally understood to have been composed of southern whites, urban members of ethnic and racial minority groups, and union members. With that in mind, ask students to watch the following sources: 
+**1) Topic: Political coalitions**
+
+When historians and political scientists discuss “political coalitions,” they are referring to multiple blocs of voters who tend to form alliances in support of a particular candidate or party. The “New Deal Coalition” that voted for Democrats starting in the 1930s is traditionally understood to have been composed of southern whites, urban members of ethnic and racial minority groups, and union members. With that in mind, ask students to watch the following sources: 
 
 - [**A Liberal Argues That Disruptive Protests Play Into Nixon’s Hands (1971)**](/primary_source_sets/conservatism/3-15-bg2h708489.md)
 - [**George Wallace Criticizes Busing and Open Housing Laws (1968)**](/primary_source_sets/conservatism/5-75-13zs7jkw.md)
 - [**Race and the Urban/Suburban Divide in Detroit (1968)**](/primary_source_sets/conservatism/4-516-vq2s46j829.md)
 - [**Party Realignment and the Breakdown of the New Deal Coalition (1972)**](/primary_source_sets/conservatism/6-512-9p2w37n193.md)
 
-2. Ask students questions like:
+Ask students questions like:
 
 - What was it about the left-wing activism of the 1960s that might have disrupted the New Deal Coalition, leading some Americans who had traditionally voted for Democrats to support other candidates?
 - What arguments and strategies could politicians like Richard Nixon and George Wallace use to attract these “New Deal Democrats”?
 - In particular, there was a big shift among union members between the Presidential elections of 1964 and 1972. While an estimated 73% of voters from union households voted for Democrat Lyndon Johnson in 1964, Republican Richard Nixon won the union vote 54%-46% in 1972.  Why might union members have shifted towards the Republican Party during the 1972 election?
+
+**2) Topic: Conservative visions**
 
 Have students watch the following clips: 
 
@@ -76,14 +81,18 @@ Ask students:
 - How did Ronald Reagan depict America’s role on the world stage? Why might this message have been especially appealing in the context of the foreign policy challenges of the Carter Presidency?
 - In what ways did conservatives want a smaller role for government?  In what ways did they want a bigger role for government?  Do you see a contradiction between these views of government, or can they be reconciled?
 
-3. After students have watched some or all of the clips in the set, you could lead students in discussions about what they believe about political issues explored in these sources. Questions could include:
+**3) Discussion: Issues and policies**
+
+After students have watched some or all of the clips in the set, you could lead students in discussions about what they believe about political issues explored in these sources. Questions could include:
 
 - Conservatives criticized the government regulations, welfare programs, and higher  levels of taxation created by Democrats in the mid-20th century. What evidence is there to support or refute conservative arguments that these policies hurt economic growth, unfairly burden taxpayers, and hinder freedom?
 - During the late 1960s, some New Left activists engaged in disruptive, controversial, and occasionally violent forms of protest. Are these tactics appropriate ways to respond to injustice? Are they politically effective? Do you think it is fair that some moderate Democrats blamed these tactics for Nixon’s political success?
 - Jerry Falwell, evangelical conservative leader of the Moral Majority, wrote that the “Christian public” needed to get involved in politics to create a “climate of morality” in America. What role, if any, do you think people’s religious beliefs should play in shaping government policy?
 - Faced with a rise in crime, many conservative politicians argued that liberal social policies supposedly aimed at addressing the root causes of poverty had failed. Instead, they contended, “tough” policies focused on policing, prosecution, and punishment were the answer.  While there was a bipartisan shift towards more punitive criminal justice policies in this era, the “tough on crime” movement was especially strong on the political right. What do you think was the right approach to tackling the rising crime rates of the era? What criminal justice policies do you support today? 
 
-4. After students have watched some or all of the clips in the set, you could lead a discussion comparing the Reagan-era Republican Party to the Republican Party of the 2010s.  Many political commentators argue that the candidacy and election of Donald Trump in 2016 marked a significant shift in the direction of the Republican Party, but there were also significant continuities between the two periods.  Here are some discussion questions that you could use to assess the similarities and differences between these two eras in right-wing politics:
+**4) Discussion: Comparing the Reagan-era Republican Party to the Republican Party of the 2010s**
+
+After students have watched some or all of the clips in the set, you could lead a discussion comparing the Reagan-era Republican Party to the Republican Party of the 2010s.  Many political commentators argue that the candidacy and election of Donald Trump in 2016 marked a significant shift in the direction of the Republican Party, but there were also significant continuities between the two periods.  Here are some discussion questions that you could use to assess the similarities and differences between these two eras in right-wing politics:
 
 - In this set, you learned about various issues that excited and mobilized Republican voters in the 1960s and 1970s. Did the same kinds of issues seem to inspire the passions of Republican voters in the 2010s? Or do you think that the Republican Party of that era became focused on a different set of issues?
 - Undoubtedly, Ronald Reagan and Donald Trump were two significant figures in the history of the Republican Party.  What were similarities and differences between the political beliefs of Ronald Reagan and Donald Trump? What similarities and differences do you see between the personal background and public “persona” of the two men?
