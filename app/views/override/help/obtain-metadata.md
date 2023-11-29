@@ -41,7 +41,7 @@ GoogleDocs.
 
 For single records, cleaned and normalized PBCore can be obtained by adding
 ".pbcore" to any AAPB url. For example: 
-http://americanarchive.org/catalog/cpb-aacip_37-95j9krh1.pbcore
+https://americanarchive.org/catalog/cpb-aacip_37-95j9krh1.pbcore
 
 The original, unnormalized PBCore is available from the AMS. PBCore XML records 
 can be emailed to you as a zip file containing folders titled by each record’s 
@@ -65,5 +65,5 @@ Within each folder, there will be a PBCore XML file. If the asset has been
 digitized, there also will be a PREMIS XML file, which includes migration 
 metadata. 
 
-If you have any questions contact Casey Davis, Project Manager at 
-casey_davis@wgbh.org.
+If you have any questions contact the AAPB Project Manager at 
+aapb_notifications@wgbh.org.
