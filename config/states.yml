@@ -157,3 +157,6 @@
  
 - state: American Samoa
   abbreviation: AS
+ 
+- state: Puerto Rico
+  abbreviation: PR

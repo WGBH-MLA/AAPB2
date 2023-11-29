@@ -88,6 +88,7 @@
   - watergate/cast-of-characters
   - watergate/the-watergate-coverage
   - watergate/the-impeachment-coverage
+  - watergate/additional-resources
 "education":
   sections:
   - education/education-documentaries-in-the-net-years-1953-1972
@@ -127,4 +128,14 @@
   - "le-show/4-3-cultural-criticism"
   - "le-show/4-4-environmental-reporting"
   - "le-show/4-5-more-satire-in-song"
-  - "le-show/5-acknowledgements"
+  - "le-show/5-le-show-interviews"
+  - "le-show/7-le-show-by-shearer"
+  - "le-show/6-acknowledgements"
+"empoderamiento-latino":
+  sections:
+  - empoderamiento-latino/2-los-origines-de-la-radio-communidad-latina
+  - empoderamiento-latino/3-historia-de-la-television-publica-latina
+  - empoderamiento-latino/4-la-experiencia-de-inmigracion-a-traves-de-la-radiodifusion-publica
+  - empoderamiento-latino/5-voces-de-desacuerdo
+  - empoderamiento-latino/6-identidad-y-cultura
+  
