@@ -49,7 +49,7 @@ In 2015 Public Affairs Television began digitizing Moyers' work, which was submi
 - [Bill Moyers, Wikipedia](https://en.wikipedia.org/wiki/Bill_Moyers)
 - [Bill Moyers at the Howard Zinn Lecture, Boston University](http://www.bu.edu/buniverse/view/?v=20ZaW9PO)
 - [Bill Moyers appearances, C-SPAN](https://www.c-span.org/person/?billmoyers)
-
+- [A Conversation with Bill Moyers and Judy Woodruff](https://www.youtube.com/watch?v=uJ8K313T12w)
 ## Help
 
 Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
