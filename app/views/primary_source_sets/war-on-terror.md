@@ -64,10 +64,10 @@ How can the United States respond to the threat of terrorism in productive ways 
 
 Have students watch the following clips:
 
-- [News Coverage on September 11 (2001)](/catalog/cpb-aacip-507-t727941r2s)
-- [Americans React to the 9/11 Attacks (2001)](/catalog/cpb-aacip-120-79573z1q)
-- [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](/catalog/cpb-aacip-507-ff3kw5852f)
-- [The Climate of Fear After 9/11 (2002)](/catalog/cpb-aacip-507-tq5r786g8g)
+- [News Coverage on September 11 (2001)](/primary_source_sets/war-on-terror/1-507-t727941r2s)
+- [Americans React to the 9/11 Attacks (2001)](/primary_source_sets/war-on-terror/2-120-79573z1q)
+- [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](/primary_source_sets/war-on-terror/3-507-ff3kw5852f)
+- [The Climate of Fear After 9/11 (2002)](/primary_source_sets/war-on-terror/4-507-tq5r786g8g)
 
 Ask students questions like: 
 
@@ -81,10 +81,10 @@ Extension Activity: Ask an older friend or family member about their memories of
 
 Have students watch the following clips:
 
-- [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](/catalog/cpb-aacip-507-ff3kw5852f)
-- [Bush Defines the War on Terror (2001)](/catalog/cpb-aacip_507-6m3319sr3r)
-- [Bush Administration Continues “Enhanced Interrogation” Despite Internal Opposition (2009)](/catalog/cpb-aacip-69969c555b8) 
-- [Two Law Professors Debate the Legality of the Patriot Act (2003)](/catalog/cpb-aacip-507-tm71v5c97k)
+- [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](/primary_source_sets/war-on-terror/3-507-ff3kw5852f)
+- [Bush Defines the War on Terror (2001)](/primary_source_sets/war-on-terror/5-507-6m3319sr3r)
+- [Bush Administration Continues “Enhanced Interrogation” Despite Internal Opposition (2009)](/primary_source_sets/war-on-terror/6-69969c555b8) 
+- [Two Law Professors Debate the Legality of the Patriot Act (2003)](/primary_source_sets/war-on-terror/7-507-tm71v5c97k)
 
 Ask students questions like:
 
@@ -101,10 +101,10 @@ Ask students questions like:
 
 Have students watch the following clips:
 
-- [Debating the Invasion of Iraq on the Brink of War (2003)](/catalog/cpb-aacip-507-t43hx16k23)
-- [American Soldiers Discuss the Sunni Insurgency (2005)](/catalog/cpb-aacip-507-7p8tb0zc36)
-- [The Outbreak of Sectarian Civil War in Iraq (2006)](/catalog/cpb-aacip-507-df6k06xp7q)
-- [U.S. Public Opinion Turns Against the Iraq War (2007)](/catalog/cpb-aacip-507-j96057dj68)
+- [Debating the Invasion of Iraq on the Brink of War (2003)](/primary_source_sets/war-on-terror/8-507-t43hx16k23)
+- [American Soldiers Discuss the Sunni Insurgency (2005)](/primary_source_sets/war-on-terror/9-507-7p8tb0zc36)
+- [The Outbreak of Sectarian Civil War in Iraq (2006)](/primary_source_sets/war-on-terror/10-507-df6k06xp7q)
+- [U.S. Public Opinion Turns Against the Iraq War (2007)](/primary_source_sets/war-on-terror/11-507-j96057dj68)
 
 Ask students questions like: 
 
@@ -138,7 +138,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_War_on_Ter
 
 ## Citation
 
-Leff, Ben. "9/11 and the War on Terror." WGBH and the Library of Congress. [9/11 and the War on Terror](/primary_source_sets/war-on-terror)
+Leff, Ben. "9/11 and the War on Terror." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/war-on-terror.
 
 ## Guid
 ## Cliptime
