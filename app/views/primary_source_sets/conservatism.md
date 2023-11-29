@@ -27,6 +27,7 @@ The first two sources in this set document the state of conservatism in the earl
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
+
 - The activist movements of the “New Left” in the late 1960s and early 1970s
 - The post-1960s changes in social behavior regarding gender, sex, and sexuality
 - The economic challenges and transformations of the 1970s, including stagflation, deindustrialization, and urban decay
@@ -53,7 +54,8 @@ What role should the government play in American social and economic life?
 - [**Race and the Urban/Suburban Divide in Detroit (1968)**](/primary_source_sets/conservatism/4-516-vq2s46j829.md)
 - [**Party Realignment and the Breakdown of the New Deal Coalition (1972)**](/primary_source_sets/conservatism/6-512-9p2w37n193.md)
 
-2. Ask students questions like: 
+2. Ask students questions like:
+
 - What was it about the left-wing activism of the 1960s that might have disrupted the New Deal Coalition, leading some Americans who had traditionally voted for Democrats to support other candidates?
 - What arguments and strategies could politicians like Richard Nixon and George Wallace use to attract these “New Deal Democrats”?
 - In particular, there was a big shift among union members between the Presidential elections of 1964 and 1972. While an estimated 73% of voters from union households voted for Democrat Lyndon Johnson in 1964, Republican Richard Nixon won the union vote 54%-46% in 1972.  Why might union members have shifted towards the Republican Party during the 1972 election?
@@ -68,6 +70,7 @@ Have students watch the following clips: 
 - [**Reagan Declares That “Government Is the Problem” (1981)**](/primary_source_sets/conservatism/12-37-93gxdcq8.md)
 
 Ask students:
+
 - Why might the economic problems of the 1970s have played to the advantage of politicians advancing conservative ideas? What arguments could they make about how the “liberal” vision of government had failed?
 - What were some changes in American society and politics that evangelical conservative political leaders criticized? What arguments did they make for why these changes were a threat to traditional Christian morality?
 - How did Ronald Reagan depict America’s role on the world stage? Why might this message have been especially appealing in the context of the foreign policy challenges of the Carter Presidency?
@@ -86,6 +89,9 @@ Ask students:
 - Undoubtedly, Ronald Reagan and Donald Trump were two significant figures in the history of the Republican Party.  What were similarities and differences between the political beliefs of Ronald Reagan and Donald Trump? What similarities and differences do you see between the personal background and public “persona” of the two men?
 - Do you think the Republican Party of the 2010s was more or less conservative than the Republican Party of the 1980s?  (One’s answer to this question will depend upon the definition of “conservative,” so you can use the discussion to tease out the defining elements of conservatism.)
 
+## Pdflink
+
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Reagan_Revolution_Teaching-Tips.pdf
 
 ## Additionalresources
 
@@ -93,3 +99,12 @@ Ask students:
 - [**Firing Line with William F. Buckley Jr. Collection**](https://americanarchive.org/special_collections/firing-line), American Archive of Public Broadcasting
 - [**Conservative Resurgence and Social Change, 1964–2000**](https://www.pbslearningmedia.org/collection/us-history-collection/era/conservative-resurgence-and-social-change-19642000/), PBS Learning Media
 - [**Ronald Reagan at the National Press Club, June 16, 1966**](https://www.loc.gov/rr/record/pressclub/reagan.html), Library of Congress
+
+## Youmayalsolike
+
+## Citation
+
+Leff, Ben. "The Roots of the ‘Reagan Revolution’." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/conservatism.
+
+## Guid
+## Cliptime
