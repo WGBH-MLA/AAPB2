@@ -60,7 +60,9 @@ How can the United States respond to the threat of terrorism in productive ways 
 
 #### Classroom Activities
 
-Have students watch the following clips about the September 11 attacks and their aftermath:
+**1) Topic: September 11 attacks and their aftermath**
+
+Have students watch the following clips:
 
 - [News Coverage on September 11 (2001)](/catalog/cpb-aacip-507-t727941r2s)
 - [Americans React to the 9/11 Attacks (2001)](/catalog/cpb-aacip-120-79573z1q)
@@ -75,7 +77,9 @@ Ask students questions like:
 
 Extension Activity: Ask an older friend or family member about their memories of the September 11 attacks. Where were they on that day, and what do they remember about it?  What do they remember about the way Americans initially responded in the weeks and months after the attacks?
 
-Have students watch the following clips about the War on Terror:
+**2) The War on Terror**
+
+Have students watch the following clips:
 
 - [Prejudice Against Muslims and Arabs in the Aftermath of 9/11 (2001)](/catalog/cpb-aacip-507-ff3kw5852f)
 - [Bush Defines the War on Terror (2001)](/catalog/cpb-aacip_507-6m3319sr3r)
@@ -93,13 +97,14 @@ Ask students questions like:
 
 **Extension Activity:** Have students create a short newspaper “op-ed” as if they are an American living in 2005. Their task is to make an argument about the wisdom and morality of the Bush Administration’s surveillance, detention, and “enhanced interrogation” practices. They could consider questions like: Are these practices constitutionally justified? Morally acceptable?  Effective as a means to fight terrorism?  What steps should be taken to identify potential terrorists?  What detention and interrogation procedures should be used with captured “enemy combatants”?
 
-Have students watch the following clips about the War in Iraq:
+**3) The War in Iraq**
+
+Have students watch the following clips:
 
 - [Debating the Invasion of Iraq on the Brink of War (2003)](/catalog/cpb-aacip-507-t43hx16k23)
 - [American Soldiers Discuss the Sunni Insurgency (2005)](/catalog/cpb-aacip-507-7p8tb0zc36)
 - [The Outbreak of Sectarian Civil War in Iraq (2006)](/catalog/cpb-aacip-507-df6k06xp7q)
 - [U.S. Public Opinion Turns Against the Iraq War (2007)](/catalog/cpb-aacip-507-j96057dj68)
-
 
 Ask students questions like: 
 
