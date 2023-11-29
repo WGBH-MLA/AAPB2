@@ -21,8 +21,6 @@ In 1948, the ruling Nationalist Party of South Africa began a system of institut
 
 ## Teachingtips
 
-#### Introduction
-
 This source set includes a series of videos related to the anti-apartheid movement in the United States. It features politicians from the United States advocating for and against additional action against the apartheid government of South Africa. This set also includes the voices of South Africans detailing the atrocities of apartheid and advocating for greater intervention by the United States. The suggested activities below prompt students to consider the relationship between different sources in this set and to analyze the sources given the historical context in which they were produced. 
 
 #### Background Information
@@ -35,15 +33,12 @@ Before engaging with this resource set, students should be familiar with the fol
 - The concept of economic sanctions
 - The African American Civil Rights Movement in the United States
 
-
-
-
-
 <hr>
 
 #### Essential Question 
 
 How did activists seek to end apartheid in South Africa?  
+
 <hr>
 
 #### General Discussion Questions
@@ -58,7 +53,9 @@ How did activists seek to end apartheid in South Africa?
 
 #### Classroom Activities
 
-1) Ask students to listen to and watch the following sources:   
+**1) Topic: The nature of apartheid**
+
+Ask students to listen to and watch the following sources:   
 
 - [Reverend Jesse Jackson’s Anti-Apartheid Speech at Harvard University](/primary_source_sets/anti-apartheid-movement/2-15-pv6b27q331) (1985)
 - [Interview With President Oliver Tambo and Senator Richard Lugar](/primary_source_sets/anti-apartheid-movement/3-507-3f4kk94v96) (1985)
@@ -67,7 +64,9 @@ How did activists seek to end apartheid in South Africa?
 
 How do the speakers in these sources describe conditions under apartheid? How are their descriptions similar or different? What rhetorical strategies do they use to further their arguments about the nature of apartheid?
 
-2) Ask students to watch the following sources: 
+**2) Topic: Reactions to Reagan's sanctions**
+  
+Ask students to watch the following sources: 
 
 - [President Ronald Reagan Issues Executive Order Against Apartheid](/primary_source_sets/anti-apartheid-movement/5-507-t43hx16j4f) (1985)
 - [Reactions in South Africa to President Ronald Reagan’s Sanctions](/primary_source_sets/anti-apartheid-movement/7-507-4b2x34n68t) (1985)
@@ -80,29 +79,24 @@ What were the reactions to President Ronald Reagan’s sanctions against South A
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/anti_apartheid_movement.pdf
-
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Anti-Apartheid_Movement_Teaching-Tips.pdf
 
 
 ## Additionalresources
 
-
-- **[Have You Heard From Johannesburg](https://www.pbs.org/independentlens/documentaries/have-you-heard-from-johannesburg/) (Independent Lens/PBS)**
-- **[Life Under Apartheid](https://pbslearningmedia.org/resource/2e34f9e7-1338-4502-82c3-957d0fa1143b/life-under-apartheid/) (PBS LearningMedia)** 
-- **[History in a Nutshell: The Space Race](https://www.pbs.org/video/the-anti-apartheid-movement-ju0k5e/) (PBS)** 
-- **[Confronting Apartheid](https://www.facinghistory.org/resource-library/confronting-apartheid) (Facing History & Ourselves)** 
-
-
+- [**Have You Heard From Johannesburg**](https://www.pbs.org/independentlens/documentaries/have-you-heard-from-johannesburg/), Independent Lens / PBS
+- [**Life Under Apartheid**](https://pbslearningmedia.org/resource/2e34f9e7-1338-4502-82c3-957d0fa1143b/life-under-apartheid/), PBS LearningMedia
+- [**Confronting Apartheid**](https://www.facinghistory.org/resource-library/confronting-apartheid), Facing History & Ourselves
 
 
 ## Youmayalsolike
-- special_collection,newshour
-- special_collection,eotp-interviews
+- special collection,newshour
+- special collection,eotp-interviews
 - exhibit,civil-rights
 
 ## Citation
 
-Breakstone, Joel. "The Anti-Apartheid Movement in the United States" WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/anti-apartheid-movement.
+Breakstone, Joel. "The Anti-Apartheid Movement in the United States." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/anti-apartheid-movement.
 
 ## Guid
 ## Cliptime
