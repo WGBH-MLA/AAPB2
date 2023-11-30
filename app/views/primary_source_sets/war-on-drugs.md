@@ -103,8 +103,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/war_on_drugs_te
 
 ## Youmayalsolike
 - exhibit,first-amendment
-- special_collection,firing-line
-- special_collection,vietnam-a-television-history
+- special collection,firing-line
+- special collection,vietnam-a-television-history
 
 ## Citation
 

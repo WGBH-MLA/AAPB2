@@ -8,7 +8,7 @@
 
 ## Main
 
-### ["Bad Days at Black Rock"](https://americanarchive.org/catalog/cpb-aacip-09df5d2a755?start=551.59&end=1030.43)
+### ["Bad Days at Black Rock"](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bspecial_collections%5D%5B%5D=le-show-collection&q=%22bad+days+at+black+rock%22&sort=asset_date+asc)
 
 Shearer's satires of commercial and public media are legion. He has satirized the television news industry since his work with the Credibility Gap and on *Saturday Night Live*.[<sup>115</sup>](/exhibits/le-show/notes#115) Shearer's ability to intercept and record "raw feeds," television satellite transmissions of news anchors preparing to go on the air,[<sup>116</sup>](/exhibits/le-show/notes#116) has provided him with unique found sound for satire, some of it worthy of installation in art galleries.[<sup>117</sup>](/exhibits/le-show/notes#117)
 
@@ -64,15 +64,15 @@ Shearer's satiric commentary on the arguably unhealthy amount of pharmaceutical 
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg" class="big-image" alt="Shearer at KCRW."/></a></td></tr>
 </table>
 
-### CPR: Continental Public Radio
+### [CPR: Continental Public Radio](https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=le-show-collection&q=%22continental+public+radio%22&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=online)
 
 *Le Show* has featured parodies of public media programs across its history. Shearer's titles for these segments subtly but profoundly twist the names of actual public radio programs and their hosts.
 
-### "Up To Here"
+### ["Up To Here"](https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=le-show-collection&q=%22up+to+here%22&sort=asset_date+asc&f%5baccess_types%5d%5b%5d=online)
 
 Commemorating 10 years since U.S. troops left Vietnam, [a 1985 promo for the satiric program Up To Here](https://americanarchive.org/catalog/cpb-aacip-63273f2fd8d?start=1009.9&end=1057.73)," hosted by Ira Zipkin, forecasts a report on post-traumatic stress disorder among Americans who did not serve in the Vietnam War.
 
-### "Mind Your Own Business"
+### ["Mind Your Own Business"](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bspecial_collections%5D%5B%5D=le-show-collection&q=%22mind+your+own+business%22&sort=asset_date+asc)
 
 Shearer's satires of public radio programming devoted to business, economics, and personal finance news echo through the decades of *Le Show* via the segment "Mind Your Own Business." 
 
@@ -82,7 +82,7 @@ The mergers and acquisitions mania of 1988[<sup>122</sup>](/exhibits/le-show/not
 
 Changes to the business of advertising caused by COVID pandemic-era inflation and digital-device overload set the stage for [Shearer’s satire of a fictional business called "Brain Flush"](https://americanarchive.org/catalog/cpb-aacip-0deb39ea557?start=2080.07&end=2431.37). Intended to help the “attentionally challenged," "Brain Flush" is for "anybody who's got a laptop or a cell phone," because "sometimes it feels like our brains have been colonized by over-talkative aliens."
 
-### "Karzai Talk"
+### ["Karzai Talk"](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bspecial_collections%5D%5B%5D=le-show-collection&q=%22karzai+talk%22&sort=asset_date+asc)
 
 Debuting in 2010 after U.S. prosecutors launched a criminal corruption investigation of Mahmood Karzai, brother of then-Afghanistan President Hamid Karzai,[<sup>125</sup>](/exhibits/le-show/notes#125) Shearer's "Karzai Talk" takes as its satiric point of departure *Car Talk*, the long-running National Public Radio call-in show. 
 
@@ -113,6 +113,15 @@ Other recurring segments concerning U.S. wars in Iraq and Afghanistan included "
 #### Next: [Cultural Criticism](/exhibits/le-show/4-3-cultural-criticism)
 
 ## Resources
+
+- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
+- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
+- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
+- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
+- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
+- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
+- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
+- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
   <img title="Cover Image" alt="Shearer at KCRW." src="https://s3.amazonaws.com/americanarchive.org/exhibits/Harry-KCRW2.jpg">

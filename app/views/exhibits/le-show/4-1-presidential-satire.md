@@ -8,7 +8,7 @@
 
 ## Main
 
-### "Nixon in Heaven"
+### "[Nixon in Heaven](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22nixon+in+heaven%22)"
 
 Shearer's Nixon runs across the history of *Le Show*, from cameo calls to "The Lakers Line" and to Casey Kasem to promote [Nixon's new book](https://americanarchive.org/catalog/cpb-aacip-d5aa865cad4?start=1167.52&end=1184.1), a reputation-rehabilitation effort, in 1988 to "Nixon in Heaven," a recurring *Le Show* segment in which the disgraced president[<sup>77</sup>](/exhibits/le-show/notes#77) and his still-loyal sidekick Haldeman, are, in the afterlife, still taping. 
 
@@ -27,7 +27,7 @@ The [first "Nixon in Heaven"](https://americanarchive.org/catalog/cpb-aacip-c2b2
 
 ["Nixon in Heaven" - Kissinger and the Cockroaches 2/4/2018](https://americanarchive.org/catalog/cpb-aacip-6e16a0acb10?start=2118.46&end=2629)
 
-### The Reagans: "Hellcats of the White House"
+### The Reagans: "[Hellcats of the White House](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&q=hellcats&sort=asset_date+asc)"
 
 Generic models for Shearer's "Hellcats of the White House" include dramas from radio's Golden Era and the only film in which Ronald and Nancy Reagan (née Davis) appeared together, the 1957 *Hellcats of the Navy* (Columbia Pictures). The film, Reagan's next-to-last theatrical feature, was deemed by London's Monthly Film Bulletin "a vague and aimless film."[<sup>81</sup>](/exhibits/le-show/notes#81)  
 
@@ -50,7 +50,7 @@ The setup for a 1987 episode of "Hellcats" uses as its point of departure news o
 
 *Le Show*'s final "Hellcats" episode responded satirically to news of the forthcoming "Walsh Report," the federal government's last word on Iran-Contra.[<sup>86</sup>](/exhibits/le-show/notes#86) Shearer reprised this episode of "Hellcats" on a "Highlights from *Le Show*: [The First 20 Years" episode on June 29, 2003](https://americanarchive.org/catalog/cpb-aacip-855869aa3c5?start=2617.22&end=3186.61)
 
-### George H. W. Bush: "Notes for Presidential Memoirs" and radio speeches
+### George H. W. Bush: "[Notes for Presidential Memoirs](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22presidential+memoirs%22)" and radio speeches
 
 The recurring *Le Show* segment "Notes for Presidential Memoirs" presented Shearer's President George H. W. Bush dictating diary entries into a tape recorder for future use. The first episode of "Presidential Memoirs" aired soon after the one-term administration's first major failure: [Bush's nomination of fellow Texan John Tower as Secretary of Defense](https://americanarchive.org/catalog/cpb-aacip-11de808442c?start=1841.25&end=2304.77).[<sup>87</sup>](/exhibits/le-show/notes#87)  
 
@@ -67,7 +67,7 @@ Shearer also voiced George H. W. Bush on "The Simpsons" ("Two Bad Neighbors," 19
 <tr><td><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/shearer-songsample1-2.jpg" class="big-image" alt="Title card for Harry Shearer on the show The Golden Girls."/></a></td></tr>
 </table>
 
-### "Clintonsomething"
+### "[Clintonsomething](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=clintonsomething)"
 
 Just as "Hellcats of the White House" used a cultural artifact as its point of departure for satirizing the Reagans, Shearer chose "Clintonsomething" — an echo of the baby-boomer demographic television drama *Thirtysomething* (ABC, 1987-1991) — as the title for his satire of President Bill and First Lady Hillary Rodham Clinton and the vernacular-spouting characters surrounding them. 
 
@@ -92,7 +92,7 @@ The segment opens onto a scene of the Clintons meeting for a conversation, with 
 ["Clintonsomething: The Wilderness Years"](https://americanarchive.org/catalog/cpb-aacip-03b0e3675df?start=1632.67&end=2097.23)
 This segment ends with Shearer's Bill Clinton in a reflective mode: "Wow. Well, sir. This is a day I need to remember for my next memoir…. This is a true pivot point. After all this time, this may be the day I stop thinking about tomorrow."[<sup>91</sup>](/exhibits/le-show/notes#91) 
 
-### George W. Bush: "41 Calls 43" and "Dick Cheney Confidential"
+### George W. Bush: "[41](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2241+calls+43%22) Calls [43](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%2243+calls+41%22)" and ["Dick Cheney Confidential"](https://americanarchive.org/catalog?f%5Bspecial_collections%5D%5B%5D=le-show-collection&per_page=20&q=%22dick+cheney+confidential%22&sort=asset_date+asc&utf8=%E2%9C%93&f%5baccess_types%5d%5b%5d=online)
 
 Texas Governor George W. Bush, eldest son of the 41st President and his wife Barbara, became the 43rd President of the United States, establishing what would be described as a family dynasty. Not since the early republic had the United States elected a president's son to the highest office in the land. Whereas John and John Quincy Adams were limited to letters to facilitate distant communication, the Bushes had telephony, wired and wireless; in Shearer's satiric imagination, the sonic folly of their conversations belies the heavy histories their administrations oversaw.
 
@@ -121,7 +121,7 @@ On [February 19, 2006](https://americanarchive.org/catalog/cpb-aacip-b1edbc2c9c8
 
 > There are two kinds of people in the small town masquerading as a capital city known as Washington, D.C.: the benighted individuals in the political and media elite who would think it's a sign of success when you get your name in the paper, and those of us in the private-ops side of town who know that when that happens it's a sign of failure. This week by the preponderance of the evidence I flopped more repeatedly than a striped bass in a barrel with a face full of bird shot. One thing this little sojourn in the spotlight has taught me was how smart it was to insist that, after the initial terrorist threat period ended, we never gave up the "secure undisclosed." I stopped to think about what this week might have been like with everybody from Brit Hume to Michael Moore camping in our driveway. Makes me wanna have one beer and go shooting….
 
-### The Obamas: "Father Knows Best"
+### The Obamas: "[Father Knows Best](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&f%5Bcontributing_organizations%5D%5B%5D=Century+of+Progress+Productions+%28CA%29&sort=asset_date+asc&q=%22father+knows+best%22&exact_or_range=range&after_date=2009-01-20&before_date=2017-01-20&commit=Update)"
 
 *Le Show*'s recurring feature about private life in the Obama White House, "Father Knows Best," featured the president attempting to explain his policy inconsistencies to one of his young daughters, complete with laugh tracks. Shearer composed and performed "Father Knows Best" around generic conventions of the arrestingly popular radio and television series of the same name,[<sup>96</sup>](/exhibits/le-show/notes#96) which starred Robert Young[<sup>97</sup>](/exhibits/le-show/notes#97) and Jane Wyatt.[<sup>98</sup>](/exhibits/le-show/notes#98) "Father Knows Best" made its *Le Show* [debut on May 17, 2009](https://americanarchive.org/catalog/cpb-aacip-61acc574eef?start=2197.8&end=2458.63), after President Obama failed to follow up on campaign promises to close Guantanamo Bay Detention Camp in southeastern Cuba.[<sup>99</sup>](/exhibits/le-show/notes#99)  
 
@@ -165,7 +165,7 @@ Shearer, who regularly comments that *Le Show* does not have a weekly "theme," o
 
 ["Waterboardin,' USA"](https://americanarchive.org/catalog/cpb-aacip-600f49f11ea?start=1394.79&end=1682.06)
 
-### Trump: "The Appresidentice"
+### Trump: "[The Appresidentice](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=digitized&q=Appresidentice&sort=asset_date+asc)"
 
 Shearer has studied Donald Trump's character for decades, dating to his work in the 1980s as a contributing editor to *Spy* magazine.[<sup>110</sup>](/exhibits/le-show/notes#110) Trump became a regular object of satire on *Le Show* beginning in 2013, when Shearer wrote and performed "[Caveat Discipulus](https://americanarchive.org/catalog/cpb-aacip-4153dab8eff?start=1887.59&end=2199.05)" ("Let the Student Beware"), a satirical Trump University alma mater.[<sup>111</sup>](/exhibits/le-show/notes#111) 
 
@@ -177,7 +177,7 @@ Approximately every month during the Trump Administration, Shearer invented, wro
 
 ["The Appresidentice" "This Week, Perhaps for the Last Time"](https://americanarchive.org/catalog/cpb-aacip-f5c0ec23a2d?start=2119.87&end=2560.7)
 
-After Trump left Washington and returned to Mar-A-Lago, his private golf resort and "Southern White House," Shearer’s recurring Trump segment continued as "The Marapprentice."
+After Trump left Washington and returned to Mar-a-Lago, his private golf resort and "Southern White House," Shearer’s recurring Trump segment continued as "[The Marapprentice](https://americanarchive.org/catalog?utf8=%E2%9C%93&f%5Baccess_types%5D%5B%5D=digitized&sort=asset_date+asc&q=Marapprentice)."
 
 ["The Marapprentice: Crime of the Century"](https://americanarchive.org/catalog/cpb-aacip-502ee92ecb7?start=2339.83&end=2572.61)
 
@@ -204,6 +204,15 @@ Shearer follows the sonic satire with "You Curse at Girls," an earnest song abou
 #### Next: [Satires of Commercial and Public Media](/exhibits/le-show/4-2-satires-of-commercial-public-media)
 
 ## Resources
+
+- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
+- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
+- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
+- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
+- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
+- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
+- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
+- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
   <img title="Cover Image" alt="Shearer as Richard Nixon." src="https://s3.amazonaws.com/americanarchive.org/exhibits/OLI_7832-cropped.jpg">

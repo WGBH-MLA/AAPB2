@@ -121,8 +121,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_AIDS-Epide
 - [**Stop the Church: Issues and Outrage**](https://americanarchive.org/catalog/cpb-aacip-526-8k74t6g61f), American Archive of Public Broadcasting
 
 ## Youmayalsolike
-- special_collection,ucla-inthelife
-- special_collection,lgbt
+- special collection,ucla-inthelife
+- special collection,lgbt
 
 ## Citation
 
