@@ -127,7 +127,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Watergate_
 - [**A Look Back at the Senate Watergate Hearings**](https://www.tpt.org/pbs-newshour/video/newshour-look-back-senate-watergate-hearings/), PBS NewsHour
 - [**Richard Nixon and Watergate**](https://billofrightsinstitute.org/essays/richard-nixon-and-watergate), Bill of Rights Institute
 - [**The Watergate Story**](https://www.washingtonpost.com/wp-srv/politics/special/watergate/part1.html), Washington Post Archives
-- [**Frost/Nixon: The Original Watergate Interviews**](https://dvd.netflix.com/Movie/Frost-Nixon-The-Original-Watergate-Interviews/70110665),  DVD.com/Netflix
 - [**“Gavel-to-Gavel”: The Watergate Scandal and Public Television**](https://americanarchive.org/exhibits/watergate), The American Archive of Public Broadcasting
 - [**Public trust in government: 1958-2015**](https://www.pewresearch.org/politics/wp-content/uploads/sites/4/2015/11/Trust-1.png), The Pew Research Center
 
