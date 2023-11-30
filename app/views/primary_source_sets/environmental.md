@@ -62,10 +62,10 @@ What has motivated the environmental movement since the 1960s and how has our po
 
 Ask the students to watch the following sources:
 
-- [Three Mile Island Accident Exposes the Risks of Nuclear Power (1979)](https://americanarchive.org/primary_source_sets/environmental/05-7d6c49609ed)
-- [Greenpeace and the Tactics of Civil Disobedience (1982)](https://americanarchive.org/primary_source_sets/environmental/06-259-0p0ws63w)
-- [David v. Goliath: The Environmental Justice Movement in Louisiana (1997)](https://americanarchive.org/primary_source_sets/environmental/07-17-945qgw68)
-- [Eco-Terrorism: The Earth Liberation Front (2011)](https://americanarchive.org/primary_source_sets/environmental/08-525-qb9v11wp5h)
+- [Three Mile Island Accident Exposes the Risks of Nuclear Power (1979)](/primary_source_sets/environmental/05-7d6c49609ed)
+- [Greenpeace and the Tactics of Civil Disobedience (1982)](/primary_source_sets/environmental/06-259-0p0ws63w)
+- [David v. Goliath: The Environmental Justice Movement in Louisiana (1997)](/primary_source_sets/environmental/07-17-945qgw68)
+- [Eco-Terrorism: The Earth Liberation Front (2011)](/primary_source_sets/environmental/08-525-qb9v11wp5h)
 
 The past: Compare and contrast the agenda and tactics of the environmentalists featured in the clips.  What events moved individuals or organizations to action?  Can students identify a common denominator in these protest movements?  What differentiates them?  Which approach do you feel was most effective and why?
 
@@ -75,9 +75,9 @@ The path forward:  Organize an environmental summit devoted to launching a new �
 
 Ask students to watch the following sources:
 
-- [The Threat of Global Warming: An Inconvenient Truth (2006)](https://americanarchive.org/primary_source_sets/environmental/09-507-vm42r3pt3k)
-- [The Presidential Candidates Disagree on Climate Change (2016)](https://americanarchive.org/primary_source_sets/environmental/10-525-sq8qb9wc0v)
-- [Electric Vehicles and President Biden’s Climate Agenda (2021)](https://americanarchive.org/primary_source_sets/environmental/11-51a2c0f8ca2)
+- [The Threat of Global Warming: An Inconvenient Truth (2006)](/primary_source_sets/environmental/09-507-vm42r3pt3k)
+- [The Presidential Candidates Disagree on Climate Change (2016)](/primary_source_sets/environmental/10-525-sq8qb9wc0v)
+- [Electric Vehicles and President Biden’s Climate Agenda (2021)](/primary_source_sets/environmental/11-51a2c0f8ca2)
 
 NASA first identified global warming in 1988, and _An Inconvenient Truth_, both the book and  the documentary, came out in 2006. Ask students: Why did Donald Trump dismiss climate change as a hoax in 2016 while Hillary Clinton called it an urgent threat? To what extent was the Republican party’s anti-environmental agenda good for sectors of American industry, particularly the coal and gas companies? How did President Biden’s climate agenda differ from that of his predecessor? Even if a political party accepts the scientific evidence about global warming and climate change, what factors complicate the transition to cleaner forms of energy?
 
@@ -89,8 +89,8 @@ Follow-up activity:  Electric vehicle owners can typically expect to drive 250 m
 
 Ask students to watch the following sources:
 
-- [The Santa Barbara Oil Spill Exposes the Costs of Offshore Drilling (1970)](https://americanarchive.org/primary_source_sets/environmental/03-75-26m0cjt7)
-- [The Arab Oil Embargo and the New Politics of Scarcity (1974)](https://americanarchive.org/primary_source_sets/environmental/04-xs5j961s55)
+- [The Santa Barbara Oil Spill Exposes the Costs of Offshore Drilling (1970)](/primary_source_sets/environmental/03-75-26m0cjt7)
+- [The Arab Oil Embargo and the New Politics of Scarcity (1974)](/primary_source_sets/environmental/04-xs5j961s55)
 
 Although fossil fuels are a finite, non-renewable resource, petroleum has historically been the largest major energy source for total annual U.S. energy consumption. The U.S. uses petroleum products to propel vehicles, to heat buildings, and to produce electricity. In the industrial sector, the petrochemical industry uses petroleum as a raw material to make products such as plastics, polyurethane, solvents, and hundreds of other intermediate and end-user goods. In 2021, the United States consumed 18.7 million barrels of oil daily and had the highest oil consumption in the world, a trend that continues today.
 
@@ -110,7 +110,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Environmen
 - [**The Republican Reversal:  1980s Environmentalism**](https://backstoryradio.org/shows/reagan-environmentalism/), BackStory, Virginia Humanities
 - [**An Inconvenient Truth**](https://www.kanopy.com/en/product/inconvenient-truth-0), Kanopy
 - [**Changing Climate:  Ten Years after An Inconvenient Truth**](https://www.sciencenews.org/article/changing-climate-10-years-after-inconvenient-truth), Science News
-- [**An Inconvenient Truth**](https://www.kanopy.com/en/product/inconvenient-truth-0), Kanopy
 
 
 ## Youmayalsolike
