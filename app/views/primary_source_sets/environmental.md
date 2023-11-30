@@ -90,7 +90,7 @@ Follow-up activity:  Electric vehicle owners can typically expect to drive 250 m
 Ask students to watch the following sources:
 
 - [The Santa Barbara Oil Spill Exposes the Costs of Offshore Drilling (1970)](/primary_source_sets/environmental/03-75-26m0cjt7)
-- [The Arab Oil Embargo and the New Politics of Scarcity (1974)](/primary_source_sets/environmental/04-xs5j961s55)
+- [The Arab Oil Embargo and the New Politics of Scarcity (1974)](/primary_source_sets/environmental/04-512-xs5j961s55)
 
 Although fossil fuels are a finite, non-renewable resource, petroleum has historically been the largest major energy source for total annual U.S. energy consumption. The U.S. uses petroleum products to propel vehicles, to heat buildings, and to produce electricity. In the industrial sector, the petrochemical industry uses petroleum as a raw material to make products such as plastics, polyurethane, solvents, and hundreds of other intermediate and end-user goods. In 2021, the United States consumed 18.7 million barrels of oil daily and had the highest oil consumption in the world, a trend that continues today.
 
