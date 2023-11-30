@@ -1,4 +1,5 @@
 require_relative '../../lib/solr'
+require 'nokogiri'
 
 class ApiController < ApplicationController
   skip_before_action :verify_authenticity_token
@@ -41,6 +42,17 @@ class ApiController < ApplicationController
     respond_to do |format|
       format.xml do
         render text: xml
+      end
+
+      format.json do
+        pbcore_xml_to_json_xsl_doc = Nokogiri::XSLT(File.read('./lib/pbcore_xml_to_json.xsl'))
+        render json: JSON.pretty_generate(
+          JSON.parse(
+            pbcore_xml_to_json_xsl_doc.transform(
+              Nokogiri::XML(xml)
+            )
+          )
+        )
       end
     end
   end
