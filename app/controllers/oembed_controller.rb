@@ -2,17 +2,23 @@ require_relative '../../lib/aapb'
 
 class OembedController < CatalogController
   def show
-    render json: {
-        "title": pbcore_presenter.title,
-        "type": "video/mp4",
-        "width": "1640",
-        "height": "1480",
-        "src": "https://americanarchive.org/embed/#{pbcore_presenter.id}",
-    }
+    render json: JSON.pretty_generate(oembed_json), status: :ok
   end
 
 
   private
+
+  def oembed_json
+    @oembed_json ||= begin
+      {
+        "title": pbcore_presenter.title,
+        "type": "video/mp4",
+        "width": "1640",
+        "height": "1480",
+        "src": "#{request.base_url}/embed/#{pbcore_presenter.id}"
+      }
+    end
+  end
 
   def pbcore_presenter
     @pbcore_presenter ||= PBCorePresenter.new(solr_doc['xml'])
