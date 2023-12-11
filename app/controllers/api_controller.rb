@@ -45,13 +45,12 @@ class ApiController < ApplicationController
       end
 
       format.json do
-        pbcore_xml_to_json_xsl_doc = Nokogiri::XSLT(File.read('./lib/pbcore_xml_to_json.xsl'))
+        # escape double quotes (because they may appear in node values)
+        xml = xml.gsub(%(\"),%(\\\"))
+
+        json = pbcore_xml_to_json_xsl_doc.transform(Nokogiri::XML(xml))
         render json: JSON.pretty_generate(
-          JSON.parse(
-            pbcore_xml_to_json_xsl_doc.transform(
-              Nokogiri::XML(xml)
-            )
-          )
+          JSON.parse(json)
         )
       end
     end
@@ -73,5 +72,12 @@ class ApiController < ApplicationController
 
   def render_no_transcript_content
     render json: { status: '404 Not Found', code: '404', message: 'This transcript is not currently available' }, status: :not_found
+  end
+
+  private
+  def pbcore_xml_to_json_xsl_doc
+    Rails.cache.fetch("pbcore_xml_to_json_xsl_doc") do
+      return Nokogiri::XSLT(File.read('./lib/pbcore_xml_to_json.xsl'))
+    end
   end
 end
