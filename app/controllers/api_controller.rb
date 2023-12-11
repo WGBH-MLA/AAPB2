@@ -46,7 +46,7 @@ class ApiController < ApplicationController
 
       format.json do
         # escape double quotes (because they may appear in node values)
-        xml = xml.gsub(%(\"),%(\\\"))
+        xml = xml.gsub(%(\"), %(\\\"))
 
         json = pbcore_xml_to_json_xsl_doc.transform(Nokogiri::XML(xml))
         render json: JSON.pretty_generate(
@@ -75,6 +75,7 @@ class ApiController < ApplicationController
   end
 
   private
+  
   def pbcore_xml_to_json_xsl_doc
     Rails.cache.fetch("pbcore_xml_to_json_xsl_doc") do
       return Nokogiri::XSLT(File.read('./lib/pbcore_xml_to_json.xsl'))
