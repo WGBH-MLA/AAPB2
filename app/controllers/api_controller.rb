@@ -75,7 +75,7 @@ class ApiController < ApplicationController
   end
 
   private
-  
+
   def pbcore_xml_to_json_xsl_doc
     Rails.cache.fetch("pbcore_xml_to_json_xsl_doc") do
       return Nokogiri::XSLT(File.read('./lib/pbcore_xml_to_json.xsl'))
