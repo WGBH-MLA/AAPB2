@@ -38,10 +38,10 @@ class ApiController < ApplicationController
   def show
     @solr = Solr.instance.connect
     data = @solr.get('select', params: { q: "id:#{params[:id]}", fl: 'xml' })
-    
+
     return render_not_found(params[:id]) unless data['response']['docs'] && data['response']['docs'][0]
     xml = data['response']['docs'][0]['xml']
-    
+
     respond_to do |format|
       format.xml do
         render text: xml
