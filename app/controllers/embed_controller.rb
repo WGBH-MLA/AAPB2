@@ -28,7 +28,6 @@ class EmbedController < CatalogController
     response.headers.delete('X-Frame-Options')
   end
 
-
   def openvault
     @response, @document = fetch_from_solr(params['id'])
     raise Blacklight::Exceptions::RecordNotFound unless @document
