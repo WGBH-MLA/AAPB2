@@ -42,6 +42,6 @@ class EmbedController < CatalogController
     end
 
     response.headers.delete('X-Frame-Options')
-    response.headers['Content-Security-Policy'] = 'frame-ancestors https://americanarchive.org http://localhost:4000;'
+    response.headers['Content-Security-Policy'] = 'frame-ancestors https://ov.wgbh-mla.org http://localhost:4000;'
   end
 end
