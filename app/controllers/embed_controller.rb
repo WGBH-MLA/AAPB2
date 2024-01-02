@@ -27,4 +27,21 @@ class EmbedController < CatalogController
 
     response.headers.delete('X-Frame-Options')
   end
+
+
+  def openvault
+    @response, @document = fetch_from_solr(params['id'])
+    raise Blacklight::Exceptions::RecordNotFound unless @document
+    xml = @document['xml']
+    @pbcore = PBCorePresenter.new(xml)
+    if can? :play, @pbcore
+      # can? play because we're inside this block
+      if @pbcore.proxy_start_time && params["proxy_start_time"].nil? && !media_start_time?(params)
+        params["proxy_start_time"] = @pbcore.proxy_start_time
+      end
+    end
+
+    response.headers.delete('X-Frame-Options')
+    response.headers['Content-Security-Policy'] = 'frame-ancestors https://americanarchive.org http://localhost:4000;'
+  end
 end

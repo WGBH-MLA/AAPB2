@@ -233,6 +233,7 @@ $(function() {
   // JS default sort is lexicographic.
 
   var $player = $('#player_media_html5_api');
+
   // chrome needs this!!
   if($player[0]){
     var proxyStartTime = getParameterByName('proxy_start_time');
