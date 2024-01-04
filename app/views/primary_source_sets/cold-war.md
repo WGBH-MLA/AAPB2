@@ -60,9 +60,9 @@ What is the significance of the Cold War within U.S. history?
 
 Ask students to watch the following sources and then discuss one or more of the questions: 
 
-- [Panel Discussion of the Korean War as a Cold War Conflict (1995)](/primary_source_sets/cold_war/03-507-639k35n24m)
-- [The Cuban Missile Crisis (1962)](/primary_source_sets/cold_war/05-15-k649p2wg6h)
-- [Why Vietnam (1965)](/primary_source_sets/cold_war/07-15-1g0ht2gc5k)
+- [Panel Discussion of the Korean War as a Cold War Conflict (1995)](/primary_source_sets/cold-war/03-507-639k35n24m)
+- [The Cuban Missile Crisis (1962)](/primary_source_sets/cold-war/05-15-k649p2wg6h)
+- [Why Vietnam (1965)](/primary_source_sets/cold-war/07-15-1g0ht2gc5k)
 
 According to these sources, what is the significance of East Asia, Southeast Asia, and/or Latin America within Cold War history? From a U.S. perspective, what were the stakes in each of these conflicts (the Korean War, Cuban Missile Crisis, and Vietnam War)? What are some ways that the Cold War between the U.S. and the Soviet Union impacted other nations? In what ways might the Cold War between the United States and the Soviet Union have served other countries’ purposes? What, if any, propagandist ideas do these sources document? How did U.S. interests and actions in the Korean War align with or differ from U.S. interests and actions in the Vietnam War? 
 
@@ -71,9 +71,9 @@ According to these sources, what is the significance of East Asia, Southeast Asi
 
 Ask students to watch the following sources and then discuss one or more of the questions: 
 
-- [The U.S. Hydrogen Bomb Program Operation Ivy (1952)](/primary_source_sets/cold_war/02-15-ft8df6k85x)
-- [U.S. Intercontinental Ballistic Missiles (1970)](/primary_source_sets/cold_war/06-15-jh3cz32c4m)
-- [The United States and SALT (1979)](/primary_source_sets/cold_war/08-259-901zgw6h)
+- [The U.S. Hydrogen Bomb Program Operation Ivy (1952)](/primary_source_sets/cold-war/02-15-ft8df6k85x)
+- [U.S. Intercontinental Ballistic Missiles (1970)](/primary_source_sets/cold-war/06-15-jh3cz32c4m)
+- [The United States and SALT (1979)](/primary_source_sets/cold-war/08-259-901zgw6h)
 
 Based on these sources, what factors defined the arms race between the United States and the Soviet Union? How did U.S. nuclear policy change over time? Why? What does U.S. nuclear policy reveal about U.S. attitudes toward the Soviet Union? Who produced these films and what objectives did they have? What national narratives do these documentary films convey? 
 
@@ -82,8 +82,8 @@ Based on these sources, what factors defined the arms race between the United St
 
 Ask students to watch the following sources and then discuss one or more of the questions: 
 
-- [The History and Significance of the Berlin Wall (1981)](/primary_source_sets/cold_war/04-507-k93125r50q)
-- [Unrestricted Travels and Free Elections in East Germany (1989)](/primary_source_sets/cold_war/09-507-x639z91909)
+- [The History and Significance of the Berlin Wall (1981)](/primary_source_sets/cold-war/04-507-k93125r50q)
+- [Unrestricted Travels and Free Elections in East Germany (1989)](/primary_source_sets/cold-war/09-507-x639z91909)
 
 According to these sources, how did the Berlin Wall figure into the Cold War? What changes occurred with respect to the Berlin Wall and, more broadly, East-West relations during the years between the two films? What do these sources reveal about the Wall as a physical structure? A symbolic structure? How did different groups view the Berlin Wall? How did different groups experience the Wall? 
 
@@ -92,8 +92,8 @@ According to these sources, how did the Berlin Wall figure into the Cold War? Wh
 
 Ask students to watch the following sources and then discuss one or more of the questions: 
 
-- [Unrestricted Travels and Free Elections in East Germany (1989)](/primary_source_sets/cold_war/09-507-x639z91909)
-- [Secretary of State James Baker Discusses the Collapse of the Soviet Union (1995)](/primary_source_sets/cold_war/10-507-5x2599zr5q)
+- [Unrestricted Travels and Free Elections in East Germany (1989)](/primary_source_sets/cold-war/09-507-x639z91909)
+- [Secretary of State James Baker Discusses the Collapse of the Soviet Union (1995)](/primary_source_sets/cold-war/10-507-5x2599zr5q)
 
 According to these sources, what was the state of communism in Europe during the late 1980s? What accounted for those circumstances? How did U.S. and Western officials interpret these circumstances? How did communist officials view them? How did James Baker’s role as former Secretary of State affect his perspective and conclusions? 
 
@@ -119,9 +119,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_The_Cold_W
 
 ## Citation
 
-Greer, Brenna. "The Cold War." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/cold_war.
+Greer, Brenna. "The Cold War." WGBH and the Library of Congress. https://americanarchive.org/primary_source_sets/cold-war.
 
 
 ## Guid
-## Cliptime
-
