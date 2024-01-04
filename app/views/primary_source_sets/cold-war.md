@@ -101,7 +101,7 @@ According to these sources, what was the state of communism in Europe during the
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_The_Cold_War_Teaching-Tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Cold_War_Teaching-Tips.pdf
 
 
 ## Additionalresources
