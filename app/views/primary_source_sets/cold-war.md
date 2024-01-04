@@ -106,7 +106,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_The_Cold_W
 
 ## Additionalresources
 
-- [**The Cold War series)**](https://www.youtube.com/playlist?list=PL8hNHC9nbLlzb4miGp5pZPYCk9Zw0dGke), Turner Original Productions, via YouTube
+- [**The Cold War series**](https://www.youtube.com/playlist?list=PL8hNHC9nbLlzb4miGp5pZPYCk9Zw0dGke), Turner Original Productions, via YouTube
 - [**What Was the Berlin Wall and How Did It Fall?**](https://www.iwm.org.uk/history/what-was-the-berlin-wall-and-how-did-it-fall), Imperial War Museum, UK
 - [**End of the Cold War**](https://digitalarchive.wilsoncenter.org/topics/end-cold-war), The Wilson Center Digital Archive
 - [**Making the History of 1989**](https://rrchnm.org/portfolio-item/making-the-history-of-1989/), Roy Rosenzweig Center for History and New Media, George Mason University
