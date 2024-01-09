@@ -63,6 +63,13 @@ No other event of civil unrest in the U.S. received as much *NewsHour* coverage 
 
 ## Resources
 
+- [NJN News (April 30, 1992)](https://americanarchive.org/catalog/cpb-aacip-259-5t3g178m)
+- [Life & Times – Special Edition: After the Verdict (May 4, 1992)](https://americanarchive.org/catalog/cpb-aacip-526-5d8nc5tb17)
+- [Listening to America with Bill Moyers (May 5, 1992)](https://americanarchive.org/catalog/cpb-aacip-8f5044ba846 )
+- [By the Year 2000: Policing the Police (May 7, 1991)](https://proquest.libguides.com/dnsa/afghanistan)
+- [Línea Abierta: L.A. Riots – 25 Years Later (April 29, 2017) Part I](https://americanarchive.org/catalog/cpb-aacip-d0ed9e00fa4) and [Part II](https://americanarchive.org/catalog/cpb-aacip-0df8ac36a3d)
+- [When LA Erupted in Anger: A Look Back at the Rodney King Riots (NPR):](https://www.npr.org/2017/04/26/524744989/when-la-erupted-in-anger-a-look-back-at-the-rodney-king-riots)
+  
 ## Cover
   <img title="Cover Image" alt="Screenshot of the Can We All Get Along opening." src="https://s3.amazonaws.com/americanarchive.org/exhibits/canwegetalong.png">
 
