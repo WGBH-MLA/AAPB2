@@ -10,14 +10,14 @@
 
 #### 1991, Crown Heights Riots
 
-The riots broke on August 19, 1991, following the death of a seven-year-old Black boy, Gavin Cato. He and his sister, who was severely injured, were hit by a car driven by a Hasidic Jewish man in the Crown Heights neighborhood of Brooklyn, New York. In response, a number of Hasidic Jews in Brooklyn were attacked by groups of young Black men, resulting in the death of a visiting student, Yankel Rosenbaum.[<sup>11</sup>](/exhibits/after-the-fire/notes#11)
+The riots broke out on August 19, 1991, following the death of a seven-year-old Black boy, Gavin Cato. He and his sister, who was severely injured, were hit by a car driven by a Hasidic Jewish man in the Crown Heights neighborhood of Brooklyn, New York. In response, a number of Hasidic Jews in Brooklyn were attacked by groups of young Black men, resulting in the death of a visiting student, Yankel Rosenbaum.[<sup>11</sup>](/exhibits/after-the-fire/notes#11)
 
 - [**June 18, 1992**: "Can We All Get Along"](https://americanarchive.org/catalog/cpb-aacip-507-p55db7wh41?start=2090.31&end=3224.04)
 - [**October 29, 1993**](https://americanarchive.org/catalog/cpb-aacip-507-hh6c24rg48?start=1013.53&end=2023.58)
 
-#### 1992, L.A. Riots (or, Rodney King Riots)
+#### 1992, L.A. Riots
 
-Following the acquittal on charges of assault of the four police officers involved in the widely circulated Rodney King beating, the acquittal of three of the officers on excessive force charges, and the failure of the jury to reach a verdict on excessive force charge against one of the officers, riots broke out in South Central L.A. and spread throughout the city. Sixty-three people died, more than 2,000 were injured, and 12,000 people were arrested. The property damage was estimated to be over one billion dollars, and tens of thousands of people lost their jobs after the riots.
+Following the acquittal on charges of assault of the four police officers tried for beating Rodney King, the acquittal of three of the officers on excessive force charges, and the failure of the jury to reach a verdict on excessive force charges against one of the officers, riots broke out in South Central L.A. and spread throughout the city. Sixty-three people died, more than 2,000 were injured, and 12,000 people were arrested. The property damage was estimated to be over one billion dollars, and tens of thousands of people lost their jobs after the riots.
 
 - [**April 30, 1992**](https://americanarchive.org/catalog/cpb-aacip-507-jm23b5x502)
 - [**May 1, 1992**](https://americanarchive.org/catalog/cpb-aacip_507-9g5gb1z71n)
@@ -78,7 +78,7 @@ Following the acquittal on charges of assault of the four police officers involv
 
 #### 1999, Seattle WTO Protests 
 
-During a World Trade Organization meeting in Seattle, tens of thousands of demonstrators took to the streets to protest economic and environmental impacts of globalization. They illegally blocked intersections, preventing members from assembling at the convention center, while a fringe group of black-clad anarchists smashed windows, looted, and vandalized businesses. After the first day of protesting, the Seattle mayor declared a state of emergency and the police started making mass arrests. The protests continued for four days, from November 30 to December 3, ending when the WTO conference ended.[<sup>12</sup>](/exhibits/after-the-fire/notes#12)
+During a World Trade Organization meeting in Seattle, tens of thousands of demonstrators took to the streets to protest economic and environmental impacts of globalization. They illegally blocked intersections, preventing members from assembling at the convention center, while a fringe group of black-clad anarchists smashed windows, looted, and vandalized businesses. After the first day of protesting, the Seattle mayor declared a state of emergency and the police started making mass arrests. The protests continued for four days, from November 30 to December 3, ceasing when the WTO conference ended.[<sup>12</sup>](/exhibits/after-the-fire/notes#12)
 
 - [**November 20, 1999**](https://americanarchive.org/catalog/cpb-aacip-507-1j97659z6v?start=405.83&end=1922.34)
 - [**December 1, 1999**](https://americanarchive.org/catalog/cpb-aacip-507-2b8v98065f?start=513.69&end=1594.59)
@@ -93,13 +93,13 @@ After the death of Timothy Thomas, an unarmed Black man shot by Officer Stephen 
 
 #### 2007, MacArthur Park Rallies
 
-Police clashed with demonstrators during an immigration rally in Los Angeles, calling for immigration reform. Police officers shoved, beat, and shot the protesters at a close range. Officers also assaulted a couple of journalists. In total, fifteen demonstrators and eight officers were injured during this incident, and nine people were arrested.[<sup>14</sup>](/exhibits/after-the-fire/notes#14)
+Police clashed with demonstrators during an immigration rally in Los Angeles, calling for immigration reform. Police officers shoved, beat, and shot protesters at a close range. Officers also assaulted a couple of journalists. In total, fifteen demonstrators and eight officers were injured during this incident, and nine people were arrested.[<sup>14</sup>](/exhibits/after-the-fire/notes#14)
 
 - [**May 3, 2007**](https://americanarchive.org/catalog/cpb-aacip-507-7d2q52fw9j?start=1102.87&end=1461.58)
 
 #### 2011, Madison Occupation
 
-In an effort to block state legislation that would strip union workers of their bargaining rights in Wisconsin, 65,000 demonstrations rallied outside and took up camp in the Wisconsin Capitol Building.[<sup>15</sup>](/exhibits/after-the-fire/notes#15) The occupation lasted months, but the bill was eventually signed into law.
+In an effort to block state legislation that would strip many public sector union workers of bargaining rights in Wisconsin, 65,000 demonstrators rallied outside and took up camp in the Wisconsin Capitol Building.[<sup>15</sup>](/exhibits/after-the-fire/notes#15) The occupation lasted months, but the bill was eventually signed into law.
 
 - [**February 17, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-pk06w97f8s?start=1223.4&end=1837.1)
 - [**February 18, 2011**](https://americanarchive.org/catalog/cpb-aacip-525-696zw19m8m?start=85.24&end=852.37)
@@ -230,7 +230,7 @@ After the acquittal of Officer Jason Stockley in the killing of Anthony Lamar Sm
 
 #### 2020, George Floyd and BLM Protests
 
-Following the death of George Floyd on May 25, 2020, after Minneapolis police officer Derek Chauvin kneeled on his neck for over nine minutes, protests began in Minneapolis and soon spread across the country and around the world. In response to this incident of police brutality, the police precinct in Minneapolis was set ablaze, police cars were set on fire in Los Angeles and Atlanta, and in many other cities, there was looting, vandalism, and violence. According to Time, “The protests have triggered civic unrest in America at a scale not seen since the assassination of Martin Luther King Jr. in 1968.” George Floyd’s death and the subsequent protests led to widespread calls for police reform and defunding.[<sup>27</sup>](/exhibits/after-the-fire/notes#27)
+Following the death of George Floyd on May 25, 2020, after Minneapolis police officer Derek Chauvin kneeled on his neck for over nine minutes, protests began in Minneapolis and soon spread across the country and around the world. In response to this incident of police brutality, the police precinct in Minneapolis was set ablaze, police cars were set on fire in Los Angeles and Atlanta, and in many other cities, there was looting, vandalism, and violence. According to *Time*, “The protests have triggered civic unrest in America at a scale not seen since the assassination of Martin Luther King Jr. in 1968.” George Floyd’s death and the subsequent protests led to widespread calls for police reform and defunding.[<sup>27</sup>](/exhibits/after-the-fire/notes#27)
 
 - **May 26, 2020**
     - ["I Can't Breathe"](https://americanarchive.org/catalog/cpb-aacip-0c155ba0792?start=624&end=1185)
@@ -336,7 +336,12 @@ On January 6, 2021, in an attempt to block certification by a joint session of C
 #### Next: [Notes](/exhibits/after-the-fire/notes)
 
 ## Resources
-
+- [American Insurrection (Frontline)](https://www.pbs.org/video/american-insurrection-65qeoo/)
+- [Black Lives Matter (BLM) Web Archive](https://www.loc.gov/item/lcwaN0016241/)
+- [George Floyd Protests: A Timeline (New York Times)](https://www.nytimes.com/article/george-floyd-protests-timeline.html)
+- [A Year of Racial Justice Protests (Armed Conflict Location & Event Data Project)](https://acleddata.com/2021/05/25/a-year-of-racial-justice-protests-key-trends-in-demonstrations-supporting-the-blm-movement/)
+- [Final Report. Select Committee to Investigate the January 6th Attack on the United States Capitol (House of Representatives)](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT.pdf)
+  
 ## Cover
 
 <img title="Cover Image" alt="Screenshot of a segment titled Outrage." src="https://s3.amazonaws.com/americanarchive.org/exhibits/woodruff-outrage.png">
