@@ -30,7 +30,7 @@ The following Annotated List of Events provides a chronological listing of *News
 #### Next: [Annotated List of Events](/exhibits/after-the-fire/7-annotated-list-of-events)
 
 ## Resources
-- [Documenting Hate: Charlottesville (Frontline)](https://www.pbs.org/wgbh/frontline/documentary/documenting-hate-charlottesville/)
+- [Documenting Hate: Charlottesville (*Frontline*)](https://www.pbs.org/wgbh/frontline/documentary/documenting-hate-charlottesville/)
 - [The Charlottesville Rally 5 Years Later (NPR)](https://www.npr.org/2022/08/12/1116942725/the-charlottesville-rally-5-years-later-its-what-youre-still-trying-to-forget)
 - [Governor’s Task Force on Public Safety Preparedness and Response to Civil Unrest](https://www.pshs.virginia.gov/media/governorvirginiagov/secretary-of-public-safety-and-homeland-security/pdf/12617-task-force-on-public-safety-preparedness-and-response-to-civil-unrest-final-report_op2.pdf)
 - [Exploring the Russian Social Media Campaign in Charlottesville (National Security Archive)](https://nsarchive.gwu.edu/news/cyber-vault/2019-02-14/exploring-russian-social-media-campaign-charlottesville)
