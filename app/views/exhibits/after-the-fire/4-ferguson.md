@@ -25,7 +25,7 @@ Back in the studio, the *NewsHour*’s focus shifted towards policing. Guests re
 ## Resources
 
 - [Documenting Ferguson (Washington University in St. Louis)](http://digital.wustl.edu/ferguson/)
-- [What Happened in Ferguson? (New York Times)](https://www.nytimes.com/interactive/2014/08/13/us/ferguson-missouri-town-under-siege-after-police-shooting.html)
+- [What Happened in Ferguson? (*New York Times*)](https://www.nytimes.com/interactive/2014/08/13/us/ferguson-missouri-town-under-siege-after-police-shooting.html)
 - [Forward through Ferguson: A Path toward Racial Equity (The Ferguson Commission)](https://apps.stlpublicradio.org/ferguson-commission-priorities/assets/report.pdf)
 - [Investigation of the Ferguson Police Department (U.S. Department of Justice, Civil Rights Division)](https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf)
     
