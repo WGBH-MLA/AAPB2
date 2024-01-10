@@ -336,9 +336,9 @@ On January 6, 2021, in an attempt to block certification by a joint session of C
 #### Next: [Notes](/exhibits/after-the-fire/notes)
 
 ## Resources
-- [American Insurrection (Frontline)](https://www.pbs.org/video/american-insurrection-65qeoo/)
+- [American Insurrection (*Frontline*)](https://www.pbs.org/video/american-insurrection-65qeoo/)
 - [Black Lives Matter (BLM) Web Archive](https://www.loc.gov/item/lcwaN0016241/)
-- [George Floyd Protests: A Timeline (New York Times)](https://www.nytimes.com/article/george-floyd-protests-timeline.html)
+- [George Floyd Protests: A Timeline (*New York Times*)](https://www.nytimes.com/article/george-floyd-protests-timeline.html)
 - [A Year of Racial Justice Protests (Armed Conflict Location & Event Data Project)](https://acleddata.com/2021/05/25/a-year-of-racial-justice-protests-key-trends-in-demonstrations-supporting-the-blm-movement/)
 - [Final Report. Select Committee to Investigate the January 6th Attack on the United States Capitol (House of Representatives)](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT.pdf)
   
