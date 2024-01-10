@@ -18,9 +18,9 @@
 
 ## Resources
 
-- [*PBS NewsHour* "Race Matters: America After George Floyd"](https://www.pbs.org/video/race-matters-america-after-george-floyd-uciahy/)
+- [*PBS NewsHour*: "Race Matters: America After George Floyd"](https://www.pbs.org/video/race-matters-america-after-george-floyd-uciahy/)
 - ["Say His Name": Five Days for George Floyd](https://www.pbs.org/video/say-his-name-five-days-for-george-floyd-38585/)
-- [*PBS NewsHour*: "American Reckoning - A PBS NewsHour Special Report"](https://www.pbs.org/video/american-reckoning-a-pbs-newshour-special-report-vbxybj/)
+- [*PBS NewsHour*: "American Reckoning - A *PBS NewsHour* Special Report"](https://www.pbs.org/video/american-reckoning-a-pbs-newshour-special-report-vbxybj/)
 - ["Reflections on Loss during 1992 Riots and Protests Today"](https://www.pbs.org/video/reflections-loss-during-1992-riots-and-protests-today/)
 - ["Twilight: Los Angeles - The Beverly Hills Hotel"](https://www.pbs.org/video/great-performances-twilight-los-angeles-beverly-hills-hotel/)
 
