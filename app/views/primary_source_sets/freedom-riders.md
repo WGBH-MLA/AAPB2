@@ -17,7 +17,7 @@ Joel Breakstone, Stanford History Education Group
 
 ## Introduction
 
-In the spring of 1961, civil rights activists rode on buses into southern states to challenge the segregation of interstate buses and bus stations. In 1960, the Supreme Court had ruled in _Boynton v. Virginia_ that segregation of bus stations was illegal. This followed the Court’s 1946 ruling in Morgan v. Virginia that prohibited segregation on interstate buses. However, the federal government had not enforced these rulings. In response, the Congress of Racial Equality (CORE) organized a Freedom Ride to draw attention to the issue. An interracial group of Freedom Riders departed from Washington, D.C., in two buses on May 4, 1961. Their ultimate destination was New Orleans. However, the ride took a violent turn in Rock Hill, South Carolina, where future Congressman John Lewis and another rider were attacked. The Riders continued on to Anniston, Alabama, where one of the buses was set on fire on May 14, 1961. The attackers in Anniston included members of the Ku Klux Klan. The violence attracted widespread attention and ultimately led the federal government to intervene to end segregation on interstate buses. The Freedom Rides helped to shape future activism in the Civil Rights Movement. 
+In the spring of 1961, civil rights activists rode on buses into southern states to challenge the segregation of interstate buses and bus stations. In 1960, the Supreme Court had ruled in _Boynton v. Virginia_ that segregation of bus stations was illegal. This followed the Court’s 1946 ruling in _Morgan v. Virginia_ that prohibited segregation on interstate buses. However, the federal government had not enforced these rulings. In response, the Congress of Racial Equality (CORE) organized a Freedom Ride to draw attention to the issue. An interracial group of Freedom Riders departed from Washington, D.C., in two buses on May 4, 1961. Their ultimate destination was New Orleans. However, the ride took a violent turn in Rock Hill, South Carolina, where future Congressman John Lewis and another rider were attacked. The Riders continued on to Anniston, Alabama, where one of the buses was set on fire on May 14, 1961. The attackers in Anniston included members of the Ku Klux Klan. The violence attracted widespread attention and ultimately led the federal government to intervene to end segregation on interstate buses. The Freedom Rides helped to shape future activism in the Civil Rights Movement. 
 
 ## Teachingtips
 
@@ -97,14 +97,15 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Freedom_Ri
 - [**Freedom Riders Resources**](https://mass.pbslearningmedia.org/collection/frriders/), PBS Learning Media
 - [**Freedom Rides**](https://kinginstitute.stanford.edu/encyclopedia/freedom-rides), King Encyclopedia
 - [**Who Were the Freedom Riders?**](https://www.nytimes.com/2020/07/18/us/politics/freedom-riders-john-lewis-work.html), New York Times
-- [**Freedom Song: Interviews from Eyes on the Prize: America’s Civil Rights Years, 1954-1965**](https://americanarchive.org/exhibits/eotp), AAPB
 - [**The Civil Rights Act of 1964: A Long Struggle for Freedom**](https://www.loc.gov/exhibits/civil-rights-act/), Library of Congress  
 
 
 ## Youmayalsolike
 - special collection,newshour
 - special collection,eotp-interviews
+- exhibit,eotp
 - exhibit,civil-rights
+
 
 ## Citation
 
