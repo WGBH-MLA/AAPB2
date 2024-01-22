@@ -131,7 +131,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_War_on_Ter
 - [**Global War on Terror**](https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror), George W. Bush Presidential Library
 - [**Documentary: America after 9/11**](https://www.pbs.org/wgbh/frontline/documentary/america-after-9-11/), Frontline
 - [**Documentary: Bush’s War**](https://www.pbs.org/wgbh/frontline/documentary/bushswar/), Frontline
-- [**9/11 Special Coverage**](/special_collections/9-11-special-coverage), AAPB Special Collection
 
 ## Youmayalsolike
 - special collection,9-11-special-coverage
