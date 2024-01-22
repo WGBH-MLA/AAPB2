@@ -52,10 +52,10 @@ What role should the government play in American social and economic life?
 
 When historians and political scientists discuss “political coalitions,” they are referring to multiple blocs of voters who tend to form alliances in support of a particular candidate or party. The “New Deal Coalition” that voted for Democrats starting in the 1930s is traditionally understood to have been composed of southern whites, urban members of ethnic and racial minority groups, and union members. With that in mind, ask students to watch the following sources: 
 
-- [**A Liberal Argues That Disruptive Protests Play Into Nixon’s Hands (1971)**](/primary_source_sets/conservatism/3-15-bg2h708489.md)
-- [**George Wallace Criticizes Busing and Open Housing Laws (1968)**](/primary_source_sets/conservatism/5-75-13zs7jkw.md)
-- [**Race and the Urban/Suburban Divide in Detroit (1968)**](/primary_source_sets/conservatism/4-516-vq2s46j829.md)
-- [**Party Realignment and the Breakdown of the New Deal Coalition (1972)**](/primary_source_sets/conservatism/6-512-9p2w37n193.md)
+- [A Liberal Argues That Disruptive Protests Play Into Nixon’s Hands (1971)](/primary_source_sets/conservatism/3-15-bg2h708489.md)
+- [George Wallace Criticizes Busing and Open Housing Laws (1968)](/primary_source_sets/conservatism/5-75-13zs7jkw.md)
+- [Race and the Urban/Suburban Divide in Detroit (1968)](/primary_source_sets/conservatism/4-516-vq2s46j829.md)
+- [Party Realignment and the Breakdown of the New Deal Coalition (1972)](/primary_source_sets/conservatism/6-512-9p2w37n193.md)
 
 Ask students questions like:
 
@@ -67,12 +67,12 @@ Ask students questions like:
 
 Have students watch the following clips: 
 
-- [**Ronald Reagan Attacks Bloated Government and Welfare Abuse (1974)**](/primary_source_sets/conservatism/7-512-t43hx1753b.md)
-- [**Gerald Ford Gets Tough on Crime (1976)**](/primary_source_sets/conservatism/8-507-m32n58dc1d.md)
-- [**The Backlash Against Gay Rights in Florida (1977)**](/primary_source_sets/conservatism/9-507-qn5z60ct7w.md)
-- [**Jerry Falwell Describes the Goals of the “Moral Majority” (1980)**](/primary_source_sets/conservatism/10-507-0v89g5gw13.md)
-- [**Reagan Proclaims the Renewal of American Power and Moral Leadership (1981)**](/primary_source_sets/conservatism/11-37-93gxdcq8.md)
-- [**Reagan Declares That “Government Is the Problem” (1981)**](/primary_source_sets/conservatism/12-37-93gxdcq8.md)
+- [Ronald Reagan Attacks Bloated Government and Welfare Abuse (1974)](/primary_source_sets/conservatism/7-512-t43hx1753b.md)
+- [Gerald Ford Gets Tough on Crime (1976)](/primary_source_sets/conservatism/8-507-m32n58dc1d.md)
+- [The Backlash Against Gay Rights in Florida (1977)](/primary_source_sets/conservatism/9-507-qn5z60ct7w.md)
+- [Jerry Falwell Describes the Goals of the “Moral Majority” (1980)](/primary_source_sets/conservatism/10-507-0v89g5gw13.md)
+- [Reagan Proclaims the Renewal of American Power and Moral Leadership (1981)](/primary_source_sets/conservatism/11-37-93gxdcq8.md)
+- [Reagan Declares That “Government Is the Problem” (1981)](/primary_source_sets/conservatism/12-37-93gxdcq8.md)
 
 Ask students:
 
@@ -104,12 +104,12 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Reagan_Rev
 
 ## Additionalresources
 
-- [**On the Right: NET and Modern Conservatism**](https://americanarchive.org/exhibits/conservatism), American Archive of Public Broadcasting
-- [**Firing Line with William F. Buckley Jr. Collection**](https://americanarchive.org/special_collections/firing-line), American Archive of Public Broadcasting
-- [**Conservative Resurgence and Social Change, 1964–2000**](https://www.pbslearningmedia.org/collection/us-history-collection/era/conservative-resurgence-and-social-change-19642000/), PBS Learning Media
-- [**Ronald Reagan at the National Press Club, June 16, 1966**](https://www.loc.gov/rr/record/pressclub/reagan.html), Library of Congress
+- [Conservative Resurgence and Social Change, 1964–2000](https://www.pbslearningmedia.org/collection/us-history-collection/era/conservative-resurgence-and-social-change-19642000/), PBS Learning Media
+- [Ronald Reagan at the National Press Club, June 16, 1966](https://catalog.archives.gov/id/169487929), National Archives
 
 ## Youmayalsolike
+- exhibit,conservatism
+- special collection,firing-line
 
 ## Citation
 
