@@ -132,7 +132,7 @@ Screen the documentary _The Janes_ (see link in Additional Resources) for studen
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Reproductive-Rights-Teaching-Tips.docx.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Reproductive_Rights_Teaching-Tips.pdf
 
 ## Additionalresources
 
