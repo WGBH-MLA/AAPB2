@@ -64,7 +64,7 @@ Ask students to watch the following sources:
 - [James McCord’s Testimony Before the Senate Select Watergate Committee (1973)](/primary_source_sets/watergate/2-512-d795718g4z)
 - [John Dean Testifies Before the Senate Select Watergate Committee (1973)](/primary_source_sets/watergate/3-512-251fj2b06r)
 - [Senator Howard Baker Asks John Dean a Key Question (1973)](/primary_source_sets/watergate/4-512-j09w08x77b)
-- [Threatened With Impeachment, Nixon Resigns (1983)](/primary_source_sets/watergate/5-9a47dc598f3)
+- [Threatened With Impeachment, Nixon Resigns (1983)](/primary_source_sets/watergate/7-512-gm81j9840b)
 
 The [Senate hearings ran for 51 days](/primary_source_sets/watergate/1-512-gf0ms3m89s) over the summer of 1973 and were televised gavel to gavel. Who testified, and what impact do you believe the cooperation of witnesses had on public perceptions? To what degree do you feel the excesses of the Nixon White House lend credence to the notion of an imperial presidency?
 
@@ -72,7 +72,7 @@ How did the members of the House Judiciary Committee approach the impeachment he
 
 Ask students to read this NPR [article](https://www.npr.org/2022/06/06/1103098399/watergate-committee-hearings-may-be-both-an-inspiration-and-a-hard-act-to-follow) on the January 6 Committee and to compare it to the Watergate hearings in terms of its process and the political make-up of the committees. Identify the factors that differentiated the House of Representatives investigation into the January 6th, 2021, attack on the U.S. Capitol from the Watergate investigations.
 
-**2)   The Lessons of Watergate**
+**2) The Lessons of Watergate**
      
 Ask students to watch the following sources: 
 
@@ -127,12 +127,12 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Watergate_
 - [**A Look Back at the Senate Watergate Hearings**](https://www.tpt.org/pbs-newshour/video/newshour-look-back-senate-watergate-hearings/), PBS NewsHour
 - [**Richard Nixon and Watergate**](https://billofrightsinstitute.org/essays/richard-nixon-and-watergate), Bill of Rights Institute
 - [**The Watergate Story**](https://www.washingtonpost.com/wp-srv/politics/special/watergate/part1.html), Washington Post Archives
-- [**“Gavel-to-Gavel”: The Watergate Scandal and Public Television**](https://americanarchive.org/exhibits/watergate), The American Archive of Public Broadcasting
 - [**Public trust in government: 1958-2015**](https://www.pewresearch.org/politics/wp-content/uploads/sites/4/2015/11/Trust-1.png), The Pew Research Center
 
 
 ## Youmayalsolike
 - special collection,watergate
+- exhibit,watergate
 
 ## Citation
 
