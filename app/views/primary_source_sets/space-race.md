@@ -39,6 +39,7 @@ Before engaging with this resource set, students should be familiar with the fol
 #### Essential Question 
 
 What was the significance of the space race in U.S. history?
+
 <hr>
 
 #### General Discussion Questions
@@ -80,7 +81,7 @@ What did the space race signal about national priorities, values, or ideals? In 
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/space_race_teaching_tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Space_Race_Teaching-Tips.pdf
 
 
 ## Additionalresources
