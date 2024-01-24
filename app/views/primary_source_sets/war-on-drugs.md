@@ -23,15 +23,14 @@ As a collection, this set of sources provides a broad history of how federal and
 
 ## Teachingtips
 
- 
+The video and audio clips in this source set document the history of the war on drugs, its effects, and reactions to it. 
 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
+
 - Forms of political dissent and counterculture movements of the 1960s, including various people’s rights movements (civil rights, gay rights, women’s liberation, Black Power), the student movement, anti-war movement, the rise of beat culture and hippies, and the rise of suburbs and resulting urban decay
 - U.S. involvement in the Vietnam War
-
-
 
 
 <hr>
@@ -89,7 +88,7 @@ According to these sources, how has race figured into the war on drugs? What imp
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/war_on_drugs_teaching_tips.pdf
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_War_on_Drugs_Teaching-Tips.pdf
 
 ## Additionalresources
 
