@@ -16,7 +16,7 @@ Back in the studio, the *NewsHour*’s focus shifted towards policing. Guests re
 
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Fig 5. Gwen Ifill moderating a PBS Town Hall Meeting(https://americanarchive.org/catalog/cpb-aacip-525-8c9r20st0h?start=615.71&end=1088.02) in Ferguson, Missouri.</caption>
+<caption align="bottom" class="exhibit-caption">Fig 5. Gwen Ifill moderating a PBS Town Hall Meeting in Ferguson, Missouri.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-8c9r20st0h?start=615.71&end=1088.02" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ferguson.png" class="big-image" alt="Fig 5. Gwen Ifill moderating a PBS Town Hall Meeting in Ferguson, Missouri."/></a></td></tr>
 </table>
 
