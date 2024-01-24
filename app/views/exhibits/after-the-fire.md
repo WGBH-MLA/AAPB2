@@ -45,7 +45,7 @@ The term “riot” is used repeatedly in this exhibit to reference incidents of
 #### Next: [L.A. Riots](/exhibits/after-the-fire/2-la-riots)
 
 ## Cover
-  <img title="Cover Image" alt="Jim Lehrer during a segment titled After the Fire." src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-afterthefire_borders.png">
+  <img title="Cover Image" alt="Jim Lehrer during a segment titled After the Fire." src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-afterthefire-borders.png">
 
 ## Gallery
 
