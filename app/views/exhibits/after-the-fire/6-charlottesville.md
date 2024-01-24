@@ -17,7 +17,7 @@ In a [“Race Matters”](https://americanarchive.org/catalog/cpb-aacip-525-mc8r
 > **Shakem: “It’s hard. When I look at a white person with a Confederate flag, it brings up a lot of emotions because that brings images of an enemy, and you know, in spite of the fact that all of them aren’t Klansmen or K.K.K. members, it’s something you have to get over psychologically in your head especially as being a Black person. So that was something that really kind of, you know, took me a moment to get over, and also we, you know, we have a lot of issues with the Klan here in South Carolina. It was just something that really took something in me to sit down and say, okay, let’s see how this issue of race can actually be resolved without coming to blows.”**
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption">Fig 7. James Bessanger (left) and Shakem (right) during their interview with Hari Sreenivasan in a "Race Matters"(https://americanarchive.org/catalog/cpb-aacip-525-mc8rb6x46p?start=972.62&end=1513.96) segment.</caption>
+<caption align="bottom" class="exhibit-caption">Fig 7. James Bessanger (left) and Shakem (right) during their interview with Hari Sreenivasan in a "Race Matters" segment.</caption>
 <tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-525-mc8rb6x46p?start=972.62&end=1513.96" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/bessanger-shakem.png" class="big-image" alt="Fig 7. James Bessanger (left) and Shakem (right) during their interview with Hari Sreenivasan in a "Race Matters" segment."/></a></td></tr>
 </table>
 
