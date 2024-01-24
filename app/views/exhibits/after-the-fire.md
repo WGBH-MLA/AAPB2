@@ -38,7 +38,7 @@ In 2021, *NewsHour* anchor and managing editor Judy Woodruff described the impor
 
 The term “riot” is used repeatedly in this exhibit to reference incidents of civil unrest that occurred in Los Angeles following the announcement on April 29, 1992, of the verdict in the criminal trial of Los Angeles Police Department officers for beating motorist Rodney King. “Riot” was used most frequently in contemporary public broadcasting programs and newspaper coverage, and in later historical accounts. We also use “riot” for a few later incidents. We acknowledge that other terms, including “uprising” and “rebellion,” also have been used to identify similar incidents of civil unrest and that cogent reasons have been offered for using each term.
 
-### Highlights from After the Fire: Explanations and Justifications
+### Highlights Reel: Explanations and Justifications for Unrest
 
 <iframe src="https://player.vimeo.com/video/901607291" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
