@@ -18,12 +18,11 @@ Brenna Wynn Greer, Wellesley College
 
 ## Introduction
 
-As a collection, this set of sources provides a broad history of how federal and state authorities have tried to curtail drug use, abuse, and trafficking. These audio and video clips document the circumstances that led President Nixon to launch the war on drugs, which law enforcement took up at every level of government. These sources demonstrate a range of opinions about the measures used in the war on drugs, and they provide testimonies about how enforcement of anti-drug policies affected different populations, especially along lines of race and class. 
-
+As early as the 1950s, government officials and academics in the United States began sounding the alarm about increased drug abuse, which they attributed to multiple factors, including Americans’ attempts to escape expectations of postwar conformity, the decay of inner cities, a growing drug trade, and increased criminal activity. In the 1960s, illicit drug use rose in tandem with a rise in political dissent, countercultural influences, poverty, and addiction among servicemen in the Vietnam War. In 1971, Richard Nixon identified drugs as “public enemy number one.” To fight that enemy, he launched a “War on Drugs,” greatly expanding government resources for combating illegal drug use and introducing highly punitive measures against those who possessed or sold drugs. Subsequent administrations continued the “war.” During the 1980s, the Reagan Administration established mandatory minimum sentencing laws, and in the 1990s, President Bill Clinton and Congress rejected the U.S. Sentencing Commission’s recommendation to eliminate disparities in sentencing laws that disadvantaged poor people and people of color. To date, the war on drugs has cost the government as much as a trillion dollars, failed to decrease drug use, and resulted in the mass incarceration of millions of Americans, who have been disproportionately people of color. 
 
 ## Teachingtips
 
-The video and audio clips in this source set document the history of the war on drugs, its effects, and reactions to it. 
+As a collection, this set of sources provides a broad history of how federal and state authorities have tried to curtail drug use, abuse, and trafficking. These audio and video clips document the circumstances that led President Nixon to launch the war on drugs, which law enforcement took up at every level of government. These sources demonstrate a range of opinions about the measures used in the war on drugs, and they provide testimonies about how enforcement of anti-drug policies affected different populations, especially along lines of race and class.  
 
 #### Background Information
 
