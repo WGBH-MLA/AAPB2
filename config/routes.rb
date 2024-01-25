@@ -8,6 +8,7 @@ Rails.application.routes.draw do
 
   resources 'embed', only: [:index, :show] # BL requires that there be an index.
   match 'lite/:id', to: 'embed#lite', via: [:get]
+  match 'openvault/:id', to: 'embed#openvault', via: [:get]
 
   resources 'embed_terms', only: [:show, :create]
 

@@ -13,7 +13,7 @@ GBH Archives<br/>
 One Guest Street<br/>
 Boston, MA 02135<br/>
 
-Researchers must first schedule a research appointment with the GBH AAPB Project Manager, Casey Davis, who can be contacted at casey_davis@wgbh.org. Researchers may visit anytime during normal business hours. Directions to GBH and additional information will be provided after a research appointment is scheduled. Researchers also will be asked to read, complete, and sign the GBH AAPB Access Policy.
+Researchers must first schedule a research appointment with the GBH AAPB Project Manager, who can be contacted at aapb_notifications@wgbh.org. Researchers may visit anytime during normal business hours. Directions to GBH and additional information will be provided after a research appointment is scheduled. Researchers also will be asked to read, complete, and sign the GBH AAPB Access Policy.
 
 The Media Library and Archives will provide appropriate reference services and research space. All research and access to proxy files will be conducted in the Media Library and Archives. Researchers will use pencils or pens; no cameras or other recording devices are permitted. Copies of materials for scholarly use will be granted in accordance with the fair use provisions of the Copyright Act. The scholar must give a list of their copy requests to the AAPB Project Manager, and copies will be made by the Media Library and Archives staff. Scholars must provide their own storage device.
 

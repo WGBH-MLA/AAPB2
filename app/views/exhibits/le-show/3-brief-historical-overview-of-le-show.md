@@ -33,11 +33,11 @@ Soon after Shearer left *Saturday Night Live*, television critic Tom Shales expr
 
 Shearer’s radio work from this period is poignant, the distance between New York and Santa Monica, television and radio, resonant and palpable.
 
-Sitting in on January 5, 1985, for regular KCRW host Deirdre O'Donoghue during the 10 p.m. to midnight *Saturday Night Avant Pop* or *SNAP* program,[<sup>48</sup>](/exhibits/le-show/notes#48) Shearer began, after two deep breaths, this way: "Well, good evening. It's just past 10 o'clock at night…. I'm coming from a different place these days. I need the energy from a live house. This may help for you, but it sure will help for me." The sound of a wildly enthusiastic audience, recorded five nights earlier on New Year's Eve, continues for more than a minute.[<sup>49</sup>](/exhibits/le-show/notes#49) "All right," Shearer says. "Thank you, J.J. That's what I needed."
+Sitting in on January 2, 1985, for regular KCRW host Deirdre O'Donoghue during the 10 p.m. to midnight *Saturday Night Avant Pop* or *SNAP* program,[<sup>48</sup>](/exhibits/le-show/notes#48) Shearer began, after two deep breaths, this way: "Well, good evening. It's just past 10 o'clock at night…. I'm coming from a different place these days. I need to get the energy from feeling, you know, the electricity of just a live house. So, if you'll excuse me. This may help for you, but it sure will help for me." The sound of a wildly enthusiastic audience, recorded two nights earlier from MTV's New Year's Eve broadcast, continues for more than a minute.[<sup>49</sup>](/exhibits/le-show/notes#49) "All right," Shearer says. "Thank you, J.J. That's what I needed."
 	
-Shearer then plays four songs without interruption. After the fourth track, XTC's "Love on a Farm Boy's Wages," Shearer welcomes listeners to the program using the generic conventions of an *SNL* opening. "Thank you, XTC, and thank you so much, ladies and gentlemen. Thank you so much. I've had a great week here with the kids at the station. They've been wonderful. We've been having an unbelievably good time. And I think we have a good show for you this week. I hope so, anyway."
+Shearer then plays four songs without interruption. After the fourth track, XTC's "Love on a Farm Boy's Wages," Shearer welcomes listeners to the program using the generic conventions of an *SNL* monologue. "Thank you, XTC, and thank you so much, ladies and gentlemen. Thank you so much. I've had a great week here with the kids at the station. They've been wonderful. We've just been having an unbelievably great time. And I think we've got kind of a good show for you tonight. I hope so, anyway."
 
-After playing The Kinks' "Do It Again," Shearer introduces himself to listeners: "Well, now I'm gonna cop to the whole thing: This is not Deirdre O'Donoghue. This is her program called *SNAP*, Saturday ten to midnight. Deirdre has graciously offered me her time tonight. I'm your host. My name, Yours Truly. Stop this false modesty. Okay, I will. This is Harry Shearer, ladies and gentlemen. Thank you again for welcoming me back again (big exhale) to where, I guess, I belong."[<sup>50</sup>](/exhibits/le-show/notes#50)
+After playing The Kinks' "Do It Again," Shearer introduces himself to listeners: "Well, now I'm gonna cop to the whole thing: Hi. This is not Deirdre O'Donoghue. This is her program called *SNAP*. It occurs normally every Monday, Wednesday, and Thursday evening between ten and midnight here on KCRW. And Deirdre has graciously offered me her time tonight. I'm your host. My name, Yours Truly. Oh, stop this unseemly false modesty. Okay, I will. My name is Harry Shearer, ladies and gentlemen. Thank you again for welcoming me back (big exhale) to where, I guess, I belong."[<sup>50</sup>](/exhibits/le-show/notes#50)
 
 Shearer's return to KCRW made headlines. 
 
@@ -95,6 +95,15 @@ The arrangement with KCSN lasted a little more than a year. But *Le Show* remain
 #### Next: [A *Le Show* Sampler: Topical Comedy, Sonic Satire, Satire in Song](/exhibits/le-show/4-le-show-sampler)
 
 ## Resources
+
+- [*Le Show* Special Collection, AAPB](https://americanarchive.org/special_collections/le-show-collection)
+- [*Le Show* at HarryShearer.com](https://harryshearer.com/le-show/)
+- [WWNO 89.9 New Orleans Public Radio](https://www.wwno.org/)
+- [KCRW “Harry Shearer”](https://www.kcrw.com/@@search?q=%22harry%20shearer%22)
+- [Interview with Harry Shearer by Kenneth Plume](https://www.ign.com/articles/2000/02/10/interview-with-harry-shearer-part-2-of-4)
+- [*WTF with Marc Maron*](https://www.wtfpod.com/podcast/episodes/episode_578_-_harry_shearer)
+- [*Behind Closed Doors* with Harry Shearer](https://www.youtube.com/watch?v=jC_2tl7XhhQ)
+- [National Press Club Luncheon with Harry Shearer](https://www.press.org/newsroom/video/npc-luncheon-harry-shearer)
 
 ## Cover
   <img title="Cover Image" alt="Harry Shearer at the CD Library." src="https://s3.amazonaws.com/americanarchive.org/exhibits/ShearerHarryCDlibrary.jpg">

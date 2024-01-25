@@ -151,7 +151,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/Reproductive-Ri
 
 ## Youmayalsolike
 - exhibit,civil-rights
-- special_collection,woman-series
+- special collection,woman-series
 
 ## Citation
 

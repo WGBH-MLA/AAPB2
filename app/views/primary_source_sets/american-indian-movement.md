@@ -98,7 +98,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_American-I
 
 ## Youmayalsolike
 - exhibit,native-narratives
-- special_collection,vision-maker-media
+- special collection,vision-maker-media
 
 ## Citation
 
