@@ -131,6 +131,14 @@
   - "le-show/5-le-show-interviews"
   - "le-show/7-le-show-by-shearer"
   - "le-show/6-acknowledgements"
+"after-the-fire":
+  sections: 
+  - "after-the-fire/2-la-riots"
+  - "after-the-fire/3-occupy-wall-street"
+  - "after-the-fire/4-ferguson"
+  - "after-the-fire/5-baltimore"
+  - "after-the-fire/6-charlottesville"
+  - "after-the-fire/7-annotated-list-of-events"
 "empoderamiento-latino":
   sections:
   - empoderamiento-latino/2-los-origines-de-la-radio-communidad-latina
@@ -138,4 +146,3 @@
   - empoderamiento-latino/4-la-experiencia-de-inmigracion-a-traves-de-la-radiodifusion-publica
   - empoderamiento-latino/5-voces-de-desacuerdo
   - empoderamiento-latino/6-identidad-y-cultura
-  
