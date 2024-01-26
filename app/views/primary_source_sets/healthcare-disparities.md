@@ -75,15 +75,11 @@ Ask students to watch the following sources:
 
 Lead a class discussion, asking students:
 
-How were the experiences of Herbert Shaw and Roxanne Flammond connected?
-
-What role did racial prejudice play in the design and longevity of both the Tuskegee syphilis study and state level programs of coerced sterilization of women of color?  
-
-To what extent does the history of medical experimentation on Black and Native Americans continue to shape how Blacks and Native American view hospitals and healthcare providers today? 
-
-How did this legacy of distrust undermine government efforts to distribute the COVID-19 vaccine to these groups? 
-
-What strategies have the Black and Native American physicians featured in the segments adopted to combat this frayed trust?
+- How were the experiences of Herbert Shaw and Roxanne Flammond connected?
+- What role did racial prejudice play in the design and longevity of both the Tuskegee syphilis study and state level programs of coerced sterilization of women of color?
+- To what extent does the history of medical experimentation on Black and Native Americans continue to shape how Blacks and Native American view hospitals and healthcare providers today?
+- How did this legacy of distrust undermine government efforts to distribute the COVID-19 vaccine to these groups?
+- What strategies have the Black and Native American physicians featured in the segments adopted to combat this frayed trust?
 
 Follow-up Activity: Redressing the Wrongs
 
@@ -93,9 +89,8 @@ another 22 years. For the 60,000 Native American, Black, and Latina women subjec
 
 Ask students to consider the following questions:
 
-What, in your opinion, do state governments owe the women?
-
-What is the proper form of redress: monetary compensation, free lifetime medical care, a formal government apology, or something else?
+- What, in your opinion, do state governments owe the women?
+- What is the proper form of redress: monetary compensation, free lifetime medical care, a formal government apology, or something else?
 
 As an extension activity, show students  [Wicked Silence](https://www.youtube.com/watch?v=hstkagJJDfg), a half-hour documentary about the North Carolina eugenics program, which led to the forced sterilization of 7,600 women between 1929 and 1975.  Ask them to write a short response paper evaluating the fairness of the state’s 2013 compensation agreement with sterilization victims. 
 
@@ -111,27 +106,20 @@ Ask students to watch the following sources:
 
 Lead a class discussion, asking students:
 
-What groups comprised the population most in need of healthcare services in Orange County, California, in 1987 and what did they have in common?  
-
-How did the recipients of Medicaid change between 1965 and 1995, and why did this occur?
-
-In your opinion, should government healthcare programs like Medicaid cover the spiraling costs of long-term care for retired construction workers like Tommy Varner or children with cerebral palsy, like Joshua Ghrist? 
-
-What are the tradeoffs? How did expanding eligibility for Medicaid after the ACA was passed improve the lives of poor Kentuckians? 
-
-Why were Kentucky Republicans critical of the Medicaid expansion, despite its successes?  
-What does the maternal and morbidity crisis in Texas reflect about the human cost of resisting Medicaid expansion?
-
-What do the racial disparities in decreased life expectancy post-COVID suggest about the limitations of the ACA and Medicaid expansion?
-
-Why do you think healthcare reform has been so incremental and controversial in the United States?  
+- What groups comprised the population most in need of healthcare services in Orange County, California, in 1987 and what did they have in common?
+- How did the recipients of Medicaid change between 1965 and 1995, and why did this occur?
+- In your opinion, should government healthcare programs like Medicaid cover the spiraling costs of long-term care for retired construction workers like Tommy Varner or children with cerebral palsy, like Joshua Ghrist?
+- What are the tradeoffs? How did expanding eligibility for Medicaid after the ACA was passed improve the lives of poor Kentuckians?
+- Why were Kentucky Republicans critical of the Medicaid expansion, despite its successes?
+- What does the maternal and morbidity crisis in Texas reflect about the human cost of resisting Medicaid expansion?
+- What do the racial disparities in decreased life expectancy post-COVID suggest about the limitations of the ACA and Medicaid expansion?
+- Why do you think healthcare reform has been so incremental and controversial in the United States?  
 
 Follow-up activity:  The Politicization of Healthcare
 
 The two largest expansions of healthcare coverage occurred in 1965 and 2010, under Democratic presidents who had a majority in Congress.  Not a single Republican in either the House or the Senate voted for the Affordable Care Act in 2010. 
 
-Show students this PBS clip, [How "Obamacare" Became a Symbol of America's Divide](https://www.youtube.com/watch?v=jy2DEJcm9PU), and ask them to write a brief response to this prompt:  Why do you think healthcare reform became so politicized in the United States and what was the
-long-term impact?  (Students should consider both the PBS clip and set resources.)
+Show students this PBS clip, [How "Obamacare" Became a Symbol of America's Divide](https://www.youtube.com/watch?v=jy2DEJcm9PU), and ask them to write a brief response to this prompt:  Why do you think healthcare reform became so politicized in the United States and what was the long-term impact?  (Students should consider both the PBS clip and set resources.)
 
 **3) Social, Economic, and Environmental Determinants of Health**
       
@@ -144,25 +132,15 @@ Ask students to watch or listen to the following sources:
 
 Lead a class discussion, asking students:
 
-Obesity is often framed as an individual failing, or the consequence of making poor choices about what to eat.
-
-Why do you think food deserts exist in the United States?
-
-What makes it difficult for the residents of Lambert, Mississippi, to obtain fresh, nutritious sources of food?
-
-How did the growth of commodity farming transform the communities in rural Mississippi, and what were the health impacts?  
-
-What connects the segment on the colonias, food deserts, and the Flint water crisis? 
-
-What do Pedro Ibanez, Jennifer Hoskins of Lambert, Mississippi, the residents of Flint, Michigan, and the New Orleans blues singer Otis Jenkins have in common?  
-
-How much does the community or neighborhood someone lives in determine health outcomes?
-
-To what degree does physician bias perpetuate healthcare disparities or unequal outcomes? 
-
-To what degree are government or corporate decisions responsible for these problems? 
-
-After watching all the sources, do you agree with Phyllis Landry’s observation that “African American life is devalued” in the United States? Do you think this statement also could be applied to Mexican Americans living in colonias? Why or why not?  
+- Why do you think food deserts exist in the United States?
+- What makes it difficult for the residents of Lambert, Mississippi, to obtain fresh, nutritious sources of food?
+- How did the growth of commodity farming transform the communities in rural Mississippi, and what were the health impacts?
+- What connects the segment on the colonias, food deserts, and the Flint water crisis?
+- What do Pedro Ibanez, Jennifer Hoskins of Lambert, Mississippi, the residents of Flint, Michigan, and the New Orleans blues singer Otis Jenkins have in common?
+- How much does the community or neighborhood someone lives in determine health outcomes?
+- To what degree does physician bias perpetuate healthcare disparities or unequal outcomes?
+- To what degree are government or corporate decisions responsible for these problems?
+- After watching all the sources, do you agree with Phyllis Landry’s observation that “African American life is devalued” in the United States? Do you think this statement also could be applied to Mexican Americans living in colonias? Why or why not?  
 
 Follow-up activity:  Mapping food deserts in the United States
 
