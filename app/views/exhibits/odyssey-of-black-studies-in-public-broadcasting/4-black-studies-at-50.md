@@ -52,7 +52,7 @@ This episode of *PBS Newshour Weekend* featured a segment on Black-owned indepen
 
 Black Studies has had an indelible effect on higher education, Black cultural work, and the African Diaspora since its inception. Over fifty years later, it is still conducting work in great service to Black communities across the nation and around the globe. The materials in this exhibit aim to give audiences a stronger understanding of Black Studies’ influence across American society and how in particular public broadcasting served as a bridge to give Black homes access to Black Studies through media. As challenges against the inclusion of Black history and culture in American classrooms rage on, this exhibit traces the history of that battle and how despite innumerous obstacles, this field of study perseveres and continues to press forward. 
 
-#### Next UPDATE!: [Latino Public Television History](/exhibits/latino-empowerment/3-latino-public-television-history)
+#### Next: [Notes](/exhibits/odyssey-of-black-studies/notes)
 
 ## Resources
 
