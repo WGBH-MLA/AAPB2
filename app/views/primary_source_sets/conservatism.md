@@ -104,8 +104,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Reagan_Rev
 
 ## Additionalresources
 
-- [Conservative Resurgence and Social Change, 1964–2000](https://www.pbslearningmedia.org/collection/us-history-collection/era/conservative-resurgence-and-social-change-19642000/), PBS Learning Media
-- [Ronald Reagan at the National Press Club, June 16, 1966](https://catalog.archives.gov/id/169487929), National Archives
+- **[Conservative Resurgence and Social Change, 1964–2000](https://www.pbslearningmedia.org/collection/us-history-collection/era/conservative-resurgence-and-social-change-19642000/)**, PBS Learning Media
+- **[Ronald Reagan at the National Press Club, June 16, 1966](https://catalog.archives.gov/id/169487929)**, National Archives
 
 ## Youmayalsolike
 - exhibit,conservatism
