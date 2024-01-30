@@ -92,10 +92,10 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_War_on_Dru
 ## Additionalresources
 
 
-- **[Comprehensive Drug Abuse Prevention and Control Act of 1970](https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1236.pdf#page=7) (govinfo.info)**
-- **[Ronald Reagan Radio Address on the War on Drugs](https://catalog.archives.gov/id/117700433) (National Archives)** 
-- **[Partnership for a Drug Free America Public Service Announcement](https://www.youtube.com/watch?v=GOnENVylxPI) (YouTube)** 
-- **[13th (documentary)](https://www.youtube.com/watch?v=krfcq5pF8u8) (Netflix on YouTube)** 
+- **[Comprehensive Drug Abuse Prevention and Control Act of 1970](https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1236.pdf#page=7)**, govinfo.info
+- **[Ronald Reagan Radio Address on the War on Drugs](https://catalog.archives.gov/id/117700433)**, National Archives
+- **[Partnership for a Drug Free America Public Service Announcement](https://www.youtube.com/watch?v=GOnENVylxPI)**, YouTube
+- **[13th (documentary)](https://www.youtube.com/watch?v=krfcq5pF8u8)**, Netflix on YouTube
 
 
 
