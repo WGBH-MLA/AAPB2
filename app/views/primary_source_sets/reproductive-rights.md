@@ -136,16 +136,16 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Reproducti
 
 ## Additionalresources
 
-- **[_Roe v. Wade_ Overturned: Our Latest Resources](https://www.guttmacher.org/abortion-rights-supreme-court) (Guttmacher Institute)**
-- **[The State of Abortion in the United States](https://www.nrlc.org/uploads/communications/stateofabortion2023.pdf) (National Right to Life)**
-- **[American Women: Reproductive Health](https://guides.loc.gov/american-women-general-collections/birth-control) (Library of Congress)**
-- **[_Roe v. Wade_ in the Archive](https://www.newyorker.com/books/double-take/roe-v-wade-in-the-archive) (The New Yorker)**
-- **[A Timeline of Contraception](https://www.pbs.org/wgbh/americanexperience/features/pill-timeline/) (PBS: American Experience)**
-- **[The Grassroots Movement Against Abortion Rights](https://www.npr.org/transcripts/1105245445) (NPR: Throughline)**
-- **[In Between Pro-Life and Pro-Choice](https://www.theatlantic.com/podcasts/archive/2021/12/pro-life-christian-changed-views-abortion/621028/) (The Atlantic: The Experiment)**
-- **[Where Do Americans Stand on Abortion?](https://news.gallup.com/poll/321143/americans-stand-abortion.aspx) (Gallup Poll, 2022)**
-- **[_Roe v. Wade_ and Supreme Court Cases](https://www.brennancenter.org/our-work/research-reports/roe-v-wade-and-supreme-court-abortion-cases#:~:text=Through%20the%201980s%2C%20a) (Brennan Center for Justice)**
-- **[The Janes](https://www.hbo.com/movies/the-janes) (HBO documentary)**
+- **[_Roe v. Wade_ Overturned: Our Latest Resources](https://www.guttmacher.org/abortion-rights-supreme-court)**, Guttmacher Institute
+- **[The State of Abortion in the United States](https://www.nrlc.org/uploads/communications/stateofabortion2023.pdf)**, National Right to Life
+- **[American Women: Reproductive Health](https://guides.loc.gov/american-women-general-collections/birth-control)**,  Library of Congress
+- **[_Roe v. Wade_ in the Archive](https://www.newyorker.com/books/double-take/roe-v-wade-in-the-archive)**, The New Yorker
+- **[A Timeline of Contraception](https://www.pbs.org/wgbh/americanexperience/features/pill-timeline/)**, PBS: American Experience
+- **[The Grassroots Movement Against Abortion Rights](https://www.npr.org/transcripts/1105245445)**, NPR: Throughline
+- **[In Between Pro-Life and Pro-Choice](https://www.theatlantic.com/podcasts/archive/2021/12/pro-life-christian-changed-views-abortion/621028/)**, The Atlantic: The Experiment
+- **[Where Do Americans Stand on Abortion?](https://news.gallup.com/poll/321143/americans-stand-abortion.aspx)**, Gallup Poll, 2022
+- **[_Roe v. Wade_ and Supreme Court Cases](https://www.brennancenter.org/our-work/research-reports/roe-v-wade-and-supreme-court-abortion-cases#:~:text=Through%20the%201980s%2C%20a)**, Brennan Center for Justice
+- **[The Janes](https://www.hbo.com/movies/the-janes)**, HBO documentary
 
 
 
