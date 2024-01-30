@@ -52,6 +52,21 @@ This episode of *PBS Newshour Weekend* featured a segment on Black-owned indepen
 
 Black Studies has had an indelible effect on higher education, Black cultural work, and the African Diaspora since its inception. Over fifty years later, it is still conducting work in great service to Black communities across the nation and around the globe. The materials in this exhibit aim to give audiences a stronger understanding of Black Studies’ influence across American society and how in particular public broadcasting served as a bridge to give Black homes access to Black Studies through media. As challenges against the inclusion of Black history and culture in American classrooms rage on, this exhibit traces the history of that battle and how despite innumerous obstacles, this field of study perseveres and continues to press forward. 
 
+## Programs Discussed in This Exhibit
+
+- [*Say Brother*, “Black Power on University Campuses”](https://americanarchive.org/catalog/cpb-aacip-15-99p2w600) (WGBH, Boston, MA, January 16, 1968)
+- [*Firing Line* with William F. Buckley Jr., “Afro-American Studies”](https://americanarchive.org/catalog/cpb-aacip-514-j678s4kj6z) (WOR-TV, New York, NY, June 2, 1969)
+- [“A Thematic Approach to Black Studies”](https://americanarchive.org/catalog/cpb-aacip-529-8g8ff3n557) (KUT, University of Texas at Austin, July 14, 1969)
+- [*Black Journal*, “Take Back Your Mind, Part 1”](https://americanarchive.org/catalog/cpb-aacip-62-1v5bc3t37z) (National Educational Television, November 23, 1971)
+- [*Black Journal*, “Take Back Your Mind, Part 2”](https://americanarchive.org/catalog/cpb-aacip-62-kp7tm72c6x) (National Educational Television, November 30, 1971)
+- [*Say Brother*, “Afro-Studies: Why So Many Barriers?”](https://americanarchive.org/catalog/cpb-aacip-15-9s17ss5w) (WGBH, Boston, MA, May 11, 1979)
+- [*In Black America*, “Black Studies Programs and the Role of the Black Faculty Member”](https://americanarchive.org/catalog/cpb-aacip-529-445h990g1k) (KUT, University of Texas at Austin, December 10, 1985)
+- [*Forum*, “Dr. Carla Peterson: The State of African-American Studies”](https://americanarchive.org/catalog/cpb-aacip-529-7659c6t81v) (KUT, University of Texas at Austin, October 11, 1990)
+- [*¡Colores!* “Blackdom in New Mexico”](https://americanarchive.org/catalog/cpb-aacip-191-182jm7sh ) (New Mexico PBS, February 25, 1997)
+- [*In Black America*, “Doctoral Study Is the Possible Dream for Black Students”](https://americanarchive.org/catalog/cpb-aacip-529-j96057f42z) (KUT, University of Texas at Austin, December 1, 1997) 
+
+
+
 #### Next: [Notes](/exhibits/odyssey-of-black-studies/notes)
 
 ## Resources
