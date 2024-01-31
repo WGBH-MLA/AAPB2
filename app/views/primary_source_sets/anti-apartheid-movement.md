@@ -68,7 +68,7 @@ How do the speakers in these sources describe conditions under apartheid? How ar
   
 Ask students to watch the following sources: 
 
-- [President Ronald Reagan Issues Executive Order Against Apartheid](/primary_source_sets/anti-apartheid-movement/5-507-t43hx16j4f) (1985)
+- [President Ronald Reagan Issues Executive Order Against Apartheid](/primary_source_sets/anti-apartheid-movement/6-507-4b2x34n68t) (1985)
 - [Reactions in South Africa to President Ronald Reagan’s Sanctions](/primary_source_sets/anti-apartheid-movement/7-507-4b2x34n68t) (1985)
 - [Interview With Assistant Secretary of State Chester Crocker](/primary_source_sets/anti-apartheid-movement/8-507-1j9765b01t) (1986)
 

@@ -108,7 +108,6 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Environmen
 - [**50 Years of Earth Day**](https://www.library-archives.cumc.columbia.edu/exhibits/earth-day-50-years), Columbia University Irving Medical Center
 - [**Milestones in EPA and Environmental History**](https://www.epa.gov/history/milestones-epa-and-environmental-history), US Environmental Protection Agency
 - [**The Republican Reversal:  1980s Environmentalism**](https://backstoryradio.org/shows/reagan-environmentalism/), BackStory, Virginia Humanities
-- [**An Inconvenient Truth**](https://www.kanopy.com/en/product/inconvenient-truth-0), Kanopy
 - [**Changing Climate:  Ten Years after An Inconvenient Truth**](https://www.sciencenews.org/article/changing-climate-10-years-after-inconvenient-truth), Science News
 
 

@@ -28,10 +28,10 @@ This resource set is composed completely of excerpts from public radio programs,
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- the Wounded Knee massacre of 1890
-- the Dawes Act and the 1924 Immigration Act 
-- the concept of sovereignty 
-- the timeline of the American Indian Movement
+- The Wounded Knee massacre of 1890
+- The Dawes Act and the 1924 Immigration Act 
+- The concept of sovereignty 
+- The timeline of the American Indian Movement
 
 <hr>
 
