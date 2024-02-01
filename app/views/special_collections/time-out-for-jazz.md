@@ -33,7 +33,7 @@ The *Time Out for Jazz with Charlie Plank* collection exemplifies the dedication
 - [Hogan Jazz Archive, Tulane University](https://library.tulane.edu/tusc)
 - [Chicago Jazz Archive, University of Chicago](https://www.lib.uchicago.edu/collex/collections/chicago-jazz-archive/)
 - [Jazz Archive, Duke University](https://library.duke.edu/rubenstein/collections/jazz)
-- [*Just Jazz with Ed Beach, AAPB Special Collection](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Just+Jazz&sort=asset_date+asc)
+- [*Just Jazz with Ed Beach*, AAPB Special Collection](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&f%5Bseries_titles%5D%5B%5D=Just+Jazz&sort=asset_date+asc)
 - [*Jazz Anthology with Father O'Connor*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B%5D=online&page=1&q=%22A+Father+O%27Connor+jazz+program.%22&sort=asset_date+asc)
 
 ## Help
