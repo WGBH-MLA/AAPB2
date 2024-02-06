@@ -12,6 +12,8 @@ The [*About Science*](https://americanarchive.org/catalog?f%5Baccess_types%5D%5B
 
 Digitized files for *About Science* were contributed to the American Archive of Public Broadcasting (AAPB) by the University of Maryland (College Park, Maryland). This special collection was curated in 2023 by Hailey Williams, MFA Candidate in Poetry, College of Charleston, as part of the Library of Congress Internships (LOCI) Program.
 
+<em>“Surveyor 1 Shadow,” NASA, Jet Propulsion Laboratory, California Institute of Technology, https://www.jpl.nasa.gov/images/pia02976-surveyor-1-shadow.</em>
+
 ## Featured
 
 [![Building a Virus](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-500-f18sgc1f)
