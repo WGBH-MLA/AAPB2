@@ -153,35 +153,34 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 ### E
 
 #### Bülent Ecevit (1925-2006), Prime Minister of Turkey, 1974, 1977, 1978-1979, 1999-2002
-January 17, 2002, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-6m3319sq7q?start=2200.34&end=3144.87) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[January 17, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-6m3319sq7q?start=2200.34&end=3144.87) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Recep Tayyip Erdoğan (b. 1954), Prime Minister of Turkey, 2003-2014; President of Turkey, 2014-
-September 19, 2017, PBS NewsHour (https://americanarchive.org/catalog/cpb-aacip-525-df6k06z125?start=1242&end=2097) | NewsHour Productions<br/>
+-[September 19, 2017, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-df6k06z125?start=1242&end=2097) | NewsHour Productions<br/>
 
 #### Levi Eshkol (1895-1969), Prime Minister of Israel, 1963-1969
-November 15, 1967, News in Perspective (https://americanarchive.org/catalog/cpb-aacip-512-4j09w09r90?start=1126.07&end=1650.38) | National Educational Television<br/>
+-[November 15, 1967, *News in Perspective*](https://americanarchive.org/catalog/cpb-aacip-512-4j09w09r90?start=1126.07&end=1650.38) | National Educational Television<br/>
 
 ***
 ### F
 
 #### Garret FitzGerald (1926-2011), Prime Minister of Ireland, 1981-1982; 1982-1987
-August 21, 1981, The MacNeil/Lehrer Report (https://americanarchive.org/catalog/cpb-aacip-507-rb6vx06x8j) | WNET and WETA<br/>
+-[August 21, 1981, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-rb6vx06x8j) | WNET and WETA<br/>
 
 #### Francisco Flores (1959-2016), President of El Salvador, 1999-2004
-March 2, 2001, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xm0b?start=2657.67&end=3332.82) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[March 2, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xm0b?start=2657.67&end=3332.82) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Vicente Fox (b. 1942), President of Mexico, 2000-2006
-August 24, 2000, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-4q7qn5zv61?start=505&end=1262) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
-September 7, 2001, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-5717m04m0r?start=1091&end=2224) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[August 24, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-4q7qn5zv61?start=505&end=1262) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 7, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-5717m04m0r?start=1091&end=2224) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Alberto Fujimori (b. 1938), President of Peru
-February 27, 1992, The MacNeil/Lehrer NewsHour (https://americanarchive.org/catalog/cpb-aacip-507-z60bv7bw9w?start=477.14&end=1041.54) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
-February 3, 1997, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-6t0gt5g05w?start=461.01&end=1216.58) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
-September 6, 2000, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-db7vm43j66?start=2252.48&end=3050.99) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[February 27, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-z60bv7bw9w?start=477.14&end=1041.54) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[February 3, 1997, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-6t0gt5g05w?start=461.01&end=1216.58) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 6, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-db7vm43j66?start=2252.48&end=3050.99) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Takeo Fukuda (1905-1995), Prime Minister of Japan, 1974-1976
-July 14, 1987, War and Peace in the Nuclear Age interview (https://americanarchive.org/catalog/cpb-aacip-15-0z70v89m40) | WGBH<br/>
-![image](https://github.com/WGBH-MLA/AAPB2/assets/38049679/fb5f6b64-dc36-4890-907d-c4b18f31c174)
+-[July 14, 1987, *War and Peace in the Nuclear Age* interview](https://americanarchive.org/catalog/cpb-aacip-15-0z70v89m40) | WGBH<br/>
 
 
 
