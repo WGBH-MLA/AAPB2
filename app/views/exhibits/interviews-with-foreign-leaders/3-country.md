@@ -205,7 +205,7 @@ See also Yugoslavia
 
 #### India
 ##### Indira Gandhi (1917-1984), Prime Minister of India, 1966-1977; 1980-1984
--[May 18, 1971, *Thirty Minutes With … *](https://americanarchive.org/catalog/cpb-aacip-512-x921c1w092) | WETA<br/>
+-[May 18, 1971, *Thirty Minutes With …*](https://americanarchive.org/catalog/cpb-aacip-512-x921c1w092) | WETA<br/>
 -[March 3, 1977, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-8c9r20sg87) | WNET and WETA<br/>
 ##### Morarji Desai (1896-1995), Prime Minister of India, 1977-1979
 -[February 12, 1987, *War and Peace in the Nuclear Age* interview](https://americanarchive.org/catalog/cpb-aacip-15-c24qj78252) | WGBH<br/>
@@ -255,7 +255,7 @@ See also Yugoslavia
 -[September 13, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xp6tx3645m?start=862.37&end=1878) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[November 15, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-9882j68x38?start=2318&end=3055) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Menachem Begin (1913-1992), Prime Minister of Israel, 1977-1983
--[January 24, 1978, The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-804xg9g17h) | WNET and WETA<br/>
+-[January 24, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-804xg9g17h) | WNET and WETA<br/>
 ##### Yitzhak Shamir (1915-2012), Prime Minister of Israel, 1983-1984; 1986-1992
 -[February 19, 1987, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-h41jh3dr8r?start=1297&end=2150) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[March 17, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-vx05x2697k?start=2208&end=3111) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
