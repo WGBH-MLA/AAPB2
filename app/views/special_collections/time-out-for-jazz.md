@@ -16,7 +16,7 @@ The *Time Out for Jazz with Charlie Plank* collection exemplifies the dedication
 
 *Time Out for Jazz with Charlie Plank* was broadcast on WUOL, Louisville, KY, once a month on Friday nights between 1979-1994. The family of Charles A. Plank contributed a collection of episodes from the series to the American Archive of Public Broadcasting in 2023. 
 
-## Featured *change these*
+## Featured
 
 [![Moon Jazz](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-f145cf92f5c)
 [![Guest Mark Plank](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-642fda52eb1)
