@@ -15,7 +15,7 @@ Ordered alphabetically by country, this list includes interviews with foreign le
 #### Afghanistan
 ##### Hamid Karzai (b. 1957), Interim Prime Minister of Afghanistan, 2001-2002; President of Afghanistan, 2002-2014 
 -[January 28, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-k06ww77m7j?start=838.98&end=1791.85) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
--[June 14, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2n4zg6gn3v?start=877.9&end=1732.08)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[June 14, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2n4zg6gn3v?start=877.9&end=1732.08) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Algeria
 ##### Chadli Bendjedid (1929-2012), President of Algeria, 1979-1992
@@ -33,7 +33,7 @@ Ordered alphabetically by country, this list includes interviews with foreign le
 
 #### Austria
 ##### Franz Vranitzky (b. 1937), Chancellor of Austria, 1986-1997
--[May 21, 1987, The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-fj2988397d?start=2670&end=3180) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[May 21, 1987, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-fj2988397d?start=2670&end=3180) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[Interview with Franz Vranitsky](https://americanarchive.org/catalog/cpb-aacip-507-fj2988397d?start=2670&end=3180) | NewsHour Productions<br/>
 
 ***
@@ -47,19 +47,19 @@ See also Yugoslavia
 ##### Ejup Ganić (b. 1946), President of the Federation of Bosnia and Herzegovina, 1997-2001
 -[March 3, 1998, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-319s17t85f?start=2753&end=3357) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Radovan Karadžić (b. 1945), President of Republika Srpska, 1992-1996
--[February 23, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-w37kp7vq2h?start=1887&end=2649)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[February 23, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-w37kp7vq2h?start=1887&end=2649) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 ***
 ### C
 
 #### Canada (including an interview with the Premier of Quebec)
 ##### Brian Mulroney (b. 1939), Prime Minister of Canada, 1984-1993
--[March 15, 1985, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-k06ww77n84?start=860&end=1706)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[March 15, 1985, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-k06ww77n84?start=860&end=1706) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[October 24, 1986, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-8g8ff3mm76?start=1912&end=2594) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[October 27, 1986, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-wm13n21b66?start=2589&end=3198)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[March 29, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-s756d5q59z?start=2630&end=3450)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[May 20, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-fx73t9f232?start=595&end=1876)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[June 2, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-319s17tb7m?start=2534&end=3393)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[October 27, 1986, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-wm13n21b66?start=2589&end=3198) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[March 29, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-s756d5q59z?start=2630&end=3450) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[May 20, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-fx73t9f232?start=595&end=1876) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[June 2, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-319s17tb7m?start=2534&end=3393) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### René Lévesque (1922-1987), Premier of Quebec, 1976-1985
 -[November 17, 1976, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-ws8hd7pq7p) | WNET and WETA<br/>
 
@@ -88,7 +88,7 @@ See also Yugoslavia
 
 #### Congo-Kinshasa (also known as the Democratic Republic of the Congo)
 ##### Joseph Kabila (b. 1971), President of the Democratic Republic of the Congo, 2001-2019
--[February 1, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-416sx64s2t?start=2610&end=3360)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[February 1, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-416sx64s2t?start=2610&end=3360) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Costa Rica
 ##### Óscár Arias (b. 1940), President of Costa Rica, 1986-1990 and 2006-2010
@@ -119,10 +119,10 @@ See also Yugoslavia
 ##### Anwar el-Sadat (1918-1981), President of Egypt, 1970-1981
 -[December 27, 1977, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-kd1qf8k93t) | WNET and WETA<br/>
 ##### Hosni Mubarak (1928-2020), President of Egypt, 1981-2011
--[January 29, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-599z02zs03?start=565&end=1387)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[January 29, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-599z02zs03?start=565&end=1387) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[April 6, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-mc8rb6wv95?start=489.85&end=1589.21) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[September 27, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-d21rf5m57v?start=544&end=1371)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[July 30, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1j97659z75?start=2602&end=3408)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 27, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-d21rf5m57v?start=544&end=1371) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[July 30, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1j97659z75?start=2602&end=3408) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Ahmed Nazif (b. 1952), Prime Minister of Egypt, 2004-2011
 -[May 20, 2005, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip_507-bz6154fc72?start=1195&end=1973) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
@@ -143,7 +143,7 @@ See also Yugoslavia
 
 #### Ethiopia
 ##### Mengistu Haile Mariam (b. 1937), Head of State of Ethiopia, 1977-1991, President of Ethiopia, 1987-1991
--[April 27, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xk84j0bv9b?start=506&end=1904)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[April 27, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xk84j0bv9b?start=506&end=1904) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 ***
 ### F
@@ -172,7 +172,7 @@ See also Yugoslavia
 -[April 22, 1999, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-4f1mg7gd61?start=1692.8&end=2198.21) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 -[July 1, 2010, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-1z41r6nz3s?start=2510.58&end=2987.45) | NewsHour Productions<br/>
 ##### Kostas Karamanlis (b. 1956), Prime Minister of Greece, 2004-2009
--[May 21, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1c1td9np35?start=2230.63&end=2944.69)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 21, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1c1td9np35?start=2230.63&end=2944.69) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Guatemala
 ##### Vinicio Cerezo (b. 1942), President of Guatemala, 1986-1991
@@ -223,7 +223,7 @@ See also Yugoslavia
 ##### Mohammad Reza Pahlavi (1919-1980), Shah of Iran, 1941-1979
 -[November 14, 1977, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-tb0xp6vx3b) | WNET and WETA<br/>
 ##### Ayatollah Ruhollah Khomeini (1900 or 1902-1989), Supreme Leader of Iran, 1979-1989
--[December 1, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xj3q)| WNET and WETA<br/>
+-[December 1, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xj3q) | WNET and WETA<br/>
 ##### Mehdi Bazargan (1907-1995), Prime Minister of Iran, 1979; and Ebrahim Yazdi (1931-2017), Deputy Prime Minister of Iran, 1979
 -[February 26, 1979, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-9s1kh0fm5k) | WNET and WETA<br/>
 
@@ -248,7 +248,7 @@ See also Yugoslavia
 ##### Levi Eshkol (1895-1969), Prime Minister of Israel, 1963-1969
 -[November 15, 1967, *News in Perspective*](https://americanarchive.org/catalog/cpb-aacip-512-4j09w09r90?start=1126.07&end=1650.38) | National Educational Television<br/>
 ##### Golda Meir (1898-1978), Prime Minister of Israel, 1969-1974
--[May 7, 1969, *News in Perspective*](https://americanarchive.org/catalog/cpb-aacip-75-407wm6zt)| NET<br/>
+-[May 7, 1969, *News in Perspective*](https://americanarchive.org/catalog/cpb-aacip-75-407wm6zt) | NET<br/>
 ##### Yitzhak Rabin (1922-1995), Prime Minister of Israel, 1974-1977, 1992-1995; Minister of Defense of Israel, 1984-1990
 -[January 25, 1987, *War and Peace in the Nuclear Age* interview](https://americanarchive.org/catalog/cpb-aacip-15-5h7br8mh7d) | WGBH<br/>
 -[August 13, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-6t0gt5g39z?start=2598&end=3450) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
@@ -284,8 +284,8 @@ See also Yugoslavia
 #### Jamaica
 ##### Michael Manley (1924-1997), Prime Minister of Jamaica, 1972-1980; 1989-1992
 -[April 3, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-faf65de0f59) | WNET<br/>
--[June 14, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-v69862c74k?start=2501&end=3280)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[February 1, 1990, *In Black America*](https://americanarchive.org/catalog/cpb-aacip-529-833mw29j2c)| KUT Radio<br/>
+-[June 14, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-v69862c74k?start=2501&end=3280) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[February 1, 1990, *In Black America*](https://americanarchive.org/catalog/cpb-aacip-529-833mw29j2c) | KUT Radio<br/>
 ##### Edward Seaga (1930-2019), Prime Minister of Jamaica, 1980-1989
 -[January 28, 1981, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-s17sn0207p) | WNET and WETA<br/>
 
@@ -293,8 +293,8 @@ See also Yugoslavia
 ##### Takeo Fukuda (1905-1995), Prime Minister of Japan, 1974-1976
 -[July 14, 1987, *War and Peace in the Nuclear Age* interview](https://americanarchive.org/catalog/cpb-aacip-15-0z70v89m40) | WGBH<br/>
 ##### Toshiki Kaifu (1931-2022), Prime Minister of Japan, 1989-1991
--[July 9, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-x05x63c023?start=624&end=1660)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[April 4, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-b27pn8z18d?start=1913&end=3475)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[July 9, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-x05x63c023?start=624&end=1660) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[April 4, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-b27pn8z18d?start=1913&end=3475) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Morihiro Hosokawa (b. 1938), Prime Minister of Japan, 1993-1994
 -[February 14, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-k06ww77r23?start=514.36&end=1319.22) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Ryutaro Hashimoto (1937-2006), Prime Minister of Japan, 1996-1998
@@ -345,7 +345,7 @@ See also Yugoslavia
 
 #### Mexico
 ##### José López Portillo (1920-2004), President of Mexico, 1976-1982
--[April 2, 1979, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-gh9b56dx1k)| WNET and WETA<br/>
+-[April 2, 1979, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-gh9b56dx1k) | WNET and WETA<br/>
 ##### Miguel de la Madrid (1934-2012), President of Mexico, 1982-1988
 -[January 27, 1984, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-8c9r20sd5r?start=1020.5&end=1530.69) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Carlos Salinas de Gortari (b. 1948), President of Mexico, 1988-1994
@@ -381,8 +381,8 @@ See United Kingdom
 ##### Nawaz Sharif (b. 1949), Prime Minister of Pakistan, 1990-1993, 1997-1999, 2013-2017
 -[August 27, 2007, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-pg1hh6cx6m?start=2898&end=3381.5) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Pervez Musharraf (1943-2023), President of Pakistan, 2001-2008
--[November 12, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-z60bv7bt53?start=1564&end=2375)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
--[February 13, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-319s17t88c?start=2123&end=3235)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[November 12, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-z60bv7bt53?start=1564&end=2375) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[February 13, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-319s17t88c?start=2123&end=3235) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Palestine
 ##### Yasser Arafat (1929-2004), Chairman of the Palestine Liberation Organization, 1969-2004; President of the Palestinian National Authority, 1994-2004
@@ -420,7 +420,7 @@ See United Kingdom
 -[March 20, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-736m03zf52?start=2662&end=3409) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[October 1998, *For the Record with Charley McDowell*](https://americanarchive.org/catalog/cpb-aacip-de810594c85) | Central Virginia’s Public TV, WHTJ/Charlottesville<br/>
 ##### Aleksander Kwaśniewski, President of Poland, 1995-2005
--[July 8, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-c824b2xv35?start=2623&end=3417)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[July 8, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-c824b2xv35?start=2623&end=3417) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 ***
 ### S
@@ -437,14 +437,14 @@ See United Kingdom
 -[April 29, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-v40js9j610?start=2057&end=2813) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Nelson Mandela (1918-2013), President of the African National Congress, 1991-1997; President of South Africa, 1994-1999
 -[February 16, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-4j09w09j0j?start=2149.38&end=3501.43), | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[June 22, 1990, *Meeting with Mandela*](https://americanarchive.org/catalog/cpb-aacip-293-75r7t00t)| Thirteen WNET<br/>
+-[June 22, 1990, *Meeting with Mandela*](https://americanarchive.org/catalog/cpb-aacip-293-75r7t00t) | Thirteen WNET<br/>
 -[December 3, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-bk16m33t4r?start=2379.51&end=3278.63) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[July 15, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xd0qr4pp1x?start=2115&end=2719)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[July 2, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-db7vm43m9p?start=2451.4&end=3129)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[May 6, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qv3bz62577?start=594&end=2400)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[October 6, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qv3bz6256x?start=565&end=1610)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[July 15, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xd0qr4pp1x?start=2115&end=2719) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[July 2, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-db7vm43m9p?start=2451.4&end=3129) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[May 6, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qv3bz62577?start=594&end=2400) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[October 6, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qv3bz6256x?start=565&end=1610) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Thabo Mbeki (b. 1942), President of South Africa, 1999-2008
--[May 23, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-3x83j39m58?start=2323&end=3350)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 23, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-3x83j39m58?start=2323&end=3350) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Gatsha Buthelezi (b. 1928), Chief Minister of Zulu Territorial Authority and KwaZulu, 1970-1994
 -[November 19, 1985, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-c824b2xv1j?start=2120&end=2641) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
@@ -453,7 +453,7 @@ See United Kingdom
 ##### Kim Dae-Jung (1924-2009), President of South Korea, 1998-2003
 -[June 9, 1998, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-q52f76711s?start=436.16&end=1672.67) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Roh Moo-Hyun (1946-2009), President of South Korea, 2003-2008
--[May 15, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-dr2p55f52x?start=716&end=1436)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 15, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-dr2p55f52x?start=716&end=1436) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Soviet Union
 ##### Mikhail Gorbachev (1931-2022), General Secretary of the Communist Party of the Soviet Union, 1985-1991; President of the Soviet Union, 1990-1991
@@ -468,7 +468,7 @@ See United Kingdom
 
 #### Sudan
 ##### Muhammad Ahmad Mahgoub (1908-1976), Minister of Foreign Affairs, 1956-1958; Prime Minister of Sudan, 1965-1966
--[March 22, 1957, *International Interview*](https://americanarchive.org/catalog/cpb-aacip-510-h98z893444)| WNYC<br/>
+-[March 22, 1957, *International Interview*](https://americanarchive.org/catalog/cpb-aacip-510-h98z893444) | WNYC<br/>
 
 #### Syria
 ##### Hafez al-Assad (1930-2000), Prime Minister of Syria, 1970-1971; President of Syria, 1971-2000
@@ -488,9 +488,9 @@ See United Kingdom
 ##### Bülent Ecevit (1925-2006), Prime Minister of Turkey, 1974, 1977, 1978-1979, 1999-2002
 -[January 17, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-6m3319sq7q?start=2200.34&end=3144.87) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Turgut Özal (1927-1993), Prime Minister of Turkey, 1983-1989; President of Turkey, 1989-1993
--[August 22, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-zk55d8pc73?start=1246.97&end=2018.61)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[August 22, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-zk55d8pc73?start=1246.97&end=2018.61) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[April 1, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-6688g8g69f?start=558&end=1501) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[January 28, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-k35m902w5j?start=1224.78&end=1977.82)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[January 28, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-k35m902w5j?start=1224.78&end=1977.82) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Tansu Çiller (b. 1946), Prime Minister of Turkey, 1993-1996
 -[April 18, 1995, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-kp7tm72t1z?start=447.1&end=1492.52) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Recep Tayyip Erdoğan (b. 1954), Prime Minister of Turkey, 2003-2014; President of Turkey, 2014-
@@ -501,14 +501,14 @@ See United Kingdom
 
 #### Ukraine
 ##### Leonid Kravchuk (1934-2022), President of Ukraine, 1991-1994
--[May 7, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-542j679j2j?start=2911&end=3438)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[May 7, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-542j679j2j?start=2911&end=3438) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### United Kingdom (including Northern Ireland and Scotland)
 ##### Margaret Thatcher (1925-2013), Prime Minister of the United Kingdom, 1979-1990
 -[May 4, 1979, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-hm52f7kk1b?start=508.78&end=989.58) | WNET and WETA<br/>
 -[February 27, 1981, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-xd0qr4pk88) | WNET and WETA<br/>
 ##### John Major (b. 1943), Prime Minister of the United Kingdom, 1990-1997
--[February 25, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-f76639kv7x?start=2818&end=3480)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[February 25, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-f76639kv7x?start=2818&end=3480) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Tony Blair (b. 1953), Prime Minister of the United Kingdom, 1997-2007
 -[April 23, 1999, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-0c4sj1b43r?start=1072&end=1985) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 -[June 7, 2005, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-9w08w38r5v?start=644.8&end=1557.52) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
@@ -526,7 +526,7 @@ See United Kingdom
 
 #### Vietnam (formerly South Vietnam and North Vietnam)
 ##### Nguyễn Khánh (1927-2013), Prime Minister of South Vietnam, 1964
--[April 29, 1981, *Vietnam: A Television History* interview](https://americanarchive.org/catalog/cpb-aacip-15-g15t727h9m)| WGBH<br/>
+-[April 29, 1981, *Vietnam: A Television History* interview](https://americanarchive.org/catalog/cpb-aacip-15-g15t727h9m) | WGBH<br/>
 ##### Nguyễn Cao Kỳ (1930-2011), Prime Minister of South Vietnam, 1965-1967; Vice President of South Vietnam, 1967-1971
 -[May 7, 1981, *Vietnam: A Television History* interview](https://americanarchive.org/catalog/cpb-aacip-15-b853f4kv16) | WGBH<br/>
 ##### Nguyễn Văn Thiệu (1923-2001), President of South Vietnam, 1967-1975
@@ -550,7 +550,7 @@ See also Bosnia and Herzogovina
 ##### Milovan Djilas (1911-1995), Minister for Montenegro, 1945; Deputy Prime Minister of Yugoslavia, 1953-1954
 -[December 12, 1968, *NET Journal*, “Conversation with Milovan Djilas”](https://americanarchive.org/catalog/cpb-aacip-75-41mgqscn) | NET<br/>
 ##### Ante Marković (1924-2011), Prime Minister of Yugoslavia, 1989-1991
--[October 13, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-jd4pk07q6t?start=2611&end=3175)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[October 13, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-jd4pk07q6t?start=2611&end=3175) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Next: [Date](/exhibits/interviews-with-foreign-leaders/4-date)
 
