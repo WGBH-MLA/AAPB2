@@ -38,22 +38,14 @@ These interviews covered a wide variety of topics, including colonialism, war, h
 
 In the following three exhibit sections, the interviews are arranged in three ways for easy access: by leader, country, and broadcast date or recording date.
 
-### A Note on Terminology
+#### Next: [People](/exhibits/interviews-with-foreign-leaders/2-people)
 
-The term “riot” is used repeatedly in this exhibit to reference incidents of civil unrest that occurred in Los Angeles following the announcement on April 29, 1992, of the verdict in the criminal trial of Los Angeles Police Department officers for beating motorist Rodney King. “Riot” was used most frequently in contemporary public broadcasting programs and newspaper coverage, and in later historical accounts. We also use “riot” for a few later incidents. We acknowledge that other terms, including “uprising” and “rebellion,” also have been used to identify similar incidents of civil unrest and that cogent reasons have been offered for using each term.
-
-### Highlights Reel: Explanations and Justifications for Unrest
-
-<iframe src="https://player.vimeo.com/video/901607291" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-#### Next: [L.A. Riots](/exhibits/after-the-fire/2-la-riots)
-
-## Cover
+## Cover [CHANGE]
   <img title="Cover Image" alt="Jim Lehrer during a segment titled After the Fire." src="https://s3.amazonaws.com/americanarchive.org/exhibits/lehrer-afterthefire-borders.png">
 
 ## Gallery
 
-## Records
+## Records [CHANGE]
 
 - [](/catalog/cpb-aacip-507-hh6c24rg48)
 - [](/catalog/cpb-aacip-507-jm23b5x502)
