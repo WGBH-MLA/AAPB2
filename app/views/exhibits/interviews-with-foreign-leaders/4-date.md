@@ -207,7 +207,7 @@ Ordered by first broadcast or recording date, this list includes interviews with
 -[July 14, 1987, *War and Peace in the Nuclear Age* interview](https://americanarchive.org/catalog/cpb-aacip-15-0z70v89m40) | WGBH<br/>
 ##### Óscár Arias (b. 1940), President of Costa Rica, 1986-1990 and 2006-2010
 -[August 10, 1987, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-2804x5509v?start=1226&end=2118) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[October 13, 1987, (The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-df6k06xn1k?start=984&end=1742) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[October 13, 1987, (*The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-df6k06xn1k?start=984&end=1742) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### José Napoleón Duarte (1925-1990), Head of Revolutionary Government Junta, 1980-1982; President of El Salvador, 1984-1989
 -[October 15, 1987, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-mc8rb6wr7q?start=1216.67&end=2219.81) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Helmut Schmidt (1918-2015), Chancellor of the West Germany, 1974-1982
