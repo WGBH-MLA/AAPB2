@@ -76,6 +76,17 @@ Black Studies has had an indelible effect on higher education, Black cultural wo
 - [“Black Studies at San Francisco State: Clarence Thomas interviewed by Mike Traugott”](https://americanarchive.org/catalog/cpb-aacip-28-s46h12vq61) (KPFA, Berkeley, CA, October 28, 1969)
 - [Press Conference by Five College African American Society Representatives](https://americanarchive.org/catalog/cpb-aacip-305-1289335k) (New England Public Radio, Amherst, MA, February 18, 1970)
 - [Press Conference on the Amherst College Takeover](https://americanarchive.org/catalog/cpb-aacip-305-89r22j6z) (New England Public Radio, Amherst, MA, February 18, 1970)
+- [*Black Perspectives*, “Black Education”](https://americanarchive.org/catalog/cpb-aacip-345-94hmh173) (WUMB, Boston, MA, February 9, 1983)
+- [*Black Perspectives*, “Dr. Wornie Reed”](https://americanarchive.org/catalog/cpb-aacip-345-33dz0cv0) (WUMB, Boston, MA, November 27, 1985)
+- [*In Black America*, “The Association of Black Storytellers”](https://americanarchive.org/catalog/cpb-aacip-529-qr4nk37g39) (KUT, University of Texas at Austin, January 28, 1986)
+- [*In Black America*, “The Retention of Black Students”](https://americanarchive.org/catalog/cpb-aacip-529-bc3st7g114)(KUT, University of Texas at Austin, November 18, 1986)
+- [*Evening Exchange*, “Black Authors and Literature”](https://americanarchive.org/catalog/cpb-aacip-293-61rfjdrs) (WHUT, Howard University, Washington, DC, April 23, 1993)
+- [*In Black America*, “Black Student Retention”](https://americanarchive.org/catalog/cpb-aacip-529-cj87h1ft9mKUT) (University of Texas at Austin, December 1, 1995)
+- [*In Black America*, “Black Student Retention”](https://americanarchive.org/catalog/cpb-aacip_529-5m6251gr14) KUT, University of Texas at Austin, February 1996)
+- [In Black America*, “Ethnic Studies Program, Part 1 with Dr. Otis L. Scott”](https://americanarchive.org/catalog/cpb-aacip_529-ks6j09xd29) (KUT, University of Texas at Austin, January 1, 1998)
+- [*In Black America*, “Ethnic Studies Program, Part 2 with Dr. Otis L. Scott”](https://americanarchive.org/catalog/cpb-aacip_529-p843r0r62f) (KUT, University of Texas at Austin, February 1, 1998)
+- [*In Black America*, “The New UT Austin PhD Program in Black Studies with Dr. Edmund T. Gordon”](https://americanarchive.org/catalog/cpb-aacip-fb2cd765573) (KUT, University of Texas at Austin, January 1, 2013)
+- [“African Americans Speak Out”](https://americanarchive.org/catalog/cpb-aacip-293-vq2s46hp12) (WHUT, Howard University, Washington, DC, date unknown)
   
 #### Next: [Notes](/exhibits/odyssey-of-black-studies/notes)
 
