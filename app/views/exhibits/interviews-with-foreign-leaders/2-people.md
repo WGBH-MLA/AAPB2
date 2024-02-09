@@ -274,39 +274,39 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 ### K
 
 #### Joseph Kabila (b. 1971), President of the Democratic Republic of the Congo, 2001-2019
--[February 1, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-416sx64s2t?start=2610&end=3360)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[February 1, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-416sx64s2t?start=2610&end=3360) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Toshiki Kaifu (1931-2022), Prime Minister of Japan, 1989-1991
--[July 9, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-x05x63c023?start=624&end=1660)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[April 4, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-b27pn8z18d?start=1913&end=3475)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[July 9, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-x05x63c023?start=624&end=1660) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[April 4, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-b27pn8z18d?start=1913&end=3475) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Radovan Karadžić (b. 1945), President of Republika Srpska, 1992-1996
--[February 23, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-w37kp7vq2h?start=1887&end=2649)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[February 23, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-w37kp7vq2h?start=1887&end=2649) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Kostas Karamanlis (b. 1956), Prime Minister of Greece, 2004-2009
--[May 21, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1c1td9np35?start=2230.63&end=2944.69)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 21, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1c1td9np35?start=2230.63&end=2944.69) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Hamid Karzai (b. 1957), Interim Prime Minister of Afghanistan, 2001-2002; President of Afghanistan, 2002-2014
 -[January 28, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-k06ww77m7j?start=838.98&end=1791.85) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
--[June 14, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2n4zg6gn3v?start=877.9&end=1732.08)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[June 14, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2n4zg6gn3v?start=877.9&end=1732.08) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Enda Kenny (b. 1951), Prime Minister of Ireland, 2011-2017
 -[March 17, 2011, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-0c4sj1bh43?start=2104&end=2427.25) | NewsHour Productions<br/>
 
 #### Nguyễn Khánh (1927-2013), Prime Minister of South Vietnam, 1964
--[April 29, 1981, *Vietnam: A Television History* interview](https://americanarchive.org/catalog/cpb-aacip-15-g15t727h9m)| WGBH<br/>
+-[April 29, 1981, *Vietnam: A Television History* interview](https://americanarchive.org/catalog/cpb-aacip-15-g15t727h9m) | WGBH<br/>
 
 #### Ayatollah Ruhollah Khomeini (1900 or 1902-1989), Supreme Leader of Iran, 1979-1989
--[December 1, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xj3q)| WNET and WETA<br/>
+-[December 1, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xj3q) | WNET and WETA<br/>
 
 #### Kim Dae-Jung (1924-2009), President of South Korea, 1998-2003
 -[June 9, 1998, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-q52f76711s?start=436.16&end=1672.67) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Leonid Kravchuk (1934-2022), President of Ukraine, 1991-1994
--[May 7, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-542j679j2j?start=2911&end=3438)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[May 7, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-542j679j2j?start=2911&end=3438) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Aleksander Kwaśniewski, President of Poland, 1995-2005
--[July 8, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-c824b2xv35?start=2623&end=3417)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[July 8, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-c824b2xv35?start=2623&end=3417) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Nguyễn Cao Kỳ (1930-2011), Prime Minister of South Vietnam, 1965-1967; Vice President of South Vietnam, 1967-1971
 -[May 7, 1981, *Vietnam: A Television History* interview](https://americanarchive.org/catalog/cpb-aacip-15-b853f4kv16) | WGBH<br/>
@@ -321,7 +321,7 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 -[November 17, 1976, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-ws8hd7pq7p) | WNET and WETA<br/>
 
 #### José López Portillo (1920-2004), President of Mexico, 1976-1982
--[April 2, 1979, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-gh9b56dx1k)| WNET and WETA<br/>
+-[April 2, 1979, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-gh9b56dx1k) | WNET and WETA<br/>
 
 ***
 ### M
@@ -330,49 +330,49 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 -[October 11, 1983, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-d21rf5m304?start=1930.6&end=2564.46) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Muhammad Ahmad Mahgoub (1908-1976), Minister of Foreign Affairs, 1956-1958; Prime Minister of Sudan, 1965-1966
--[March 22, 1957, *International Interview*](https://americanarchive.org/catalog/cpb-aacip-510-h98z893444)| WNYC<br/>
+-[March 22, 1957, *International Interview*](https://americanarchive.org/catalog/cpb-aacip-510-h98z893444) | WNYC<br/>
 
 #### John Major (b. 1943), Prime Minister of the United Kingdom, 1990-1997
--[February 25, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-f76639kv7x?start=2818&end=3480)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[February 25, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-f76639kv7x?start=2818&end=3480) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Nelson Mandela (1918-2013), President of the African National Congress, 1991-1997; President of South Africa, 1994-1999
 -[February 16, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-4j09w09j0j?start=2149.38&end=3501.43), | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[June 22, 1990, *Meeting with Mandela*](https://americanarchive.org/catalog/cpb-aacip-293-75r7t00t)| Thirteen WNET<br/>
+-[June 22, 1990, *Meeting with Mandela*](https://americanarchive.org/catalog/cpb-aacip-293-75r7t00t) | Thirteen WNET<br/>
 -[December 3, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-bk16m33t4r?start=2379.51&end=3278.63) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[July 15, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xd0qr4pp1x?start=2115&end=2719)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[July 2, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-db7vm43m9p?start=2451.4&end=3129)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[May 6, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qv3bz62577?start=594&end=2400)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[October 6, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qv3bz6256x?start=565&end=1610)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[July 15, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xd0qr4pp1x?start=2115&end=2719) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[July 2, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-db7vm43m9p?start=2451.4&end=3129) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[May 6, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qv3bz62577?start=594&end=2400) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[October 6, 1994, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qv3bz6256x?start=565&end=1610) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Michael Manley (1924-1997), Prime Minister of Jamaica, 1972-1980; 1989-1992
 -[April 3, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-faf65de0f59) | WNET<br/>
--[June 14, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-v69862c74k?start=2501&end=3280)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[February 1, 1990, *In Black America*](https://americanarchive.org/catalog/cpb-aacip-529-833mw29j2c)| KUT Radio<br/>
+-[June 14, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-v69862c74k?start=2501&end=3280) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[February 1, 1990, *In Black America*](https://americanarchive.org/catalog/cpb-aacip-529-833mw29j2c) | KUT Radio<br/>
 
 #### Ferdinand Marcos (1917-1989), President of the Philippines, 1965-1986
 -[January 3, 1986, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-x34mk6637n?start=767&end=1807) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[February 10, 1986, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-n872v2d40x?start=1749.59&end=2728.71) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/> 
 
 #### Ante Marković (1924-2011), Prime Minister of Yugoslavia, 1989-1991
--[October 13, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-jd4pk07q6t?start=2611&end=3175)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[October 13, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-jd4pk07q6t?start=2611&end=3175) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Tadeusz Mazowiecki (1927-2013), Prime Minister of Poland, 1989-1991
 -[March 23, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-sq8qb9vz1m?start=507&end=1711) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Thabo Mbeki (b. 1942), President of South Africa, 1999-2008
--[May 23, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-3x83j39m58?start=2323&end=3350)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 23, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-3x83j39m58?start=2323&end=3350) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Golda Meir (1898-1978), Prime Minister of Israel, 1969-1974
--[May 7, 1969, *News in Perspective*](https://americanarchive.org/catalog/cpb-aacip-75-407wm6zt)| NET<br/>
+-[May 7, 1969, *News in Perspective*](https://americanarchive.org/catalog/cpb-aacip-75-407wm6zt) | NET<br/>
 
 #### Mengistu Haile Mariam (b. 1937), Head of State of Ethiopia, 1977-1991, President of Ethiopia, 1987-1991
--[April 27, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xk84j0bv9b?start=506&end=1904)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[April 27, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-xk84j0bv9b?start=506&end=1904) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### François Mitterrand (1916-1996), President of France, 1981-1995
 -[March 21, 1984, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-5m6251g621?start=2073.32&end=2583.6) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Hosni Mubarak (1928-2020), President of Egypt, 1981-2011
--[January 29, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-599z02zs03?start=565&end=1387)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[January 29, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-599z02zs03?start=565&end=1387) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[April 6, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-mc8rb6wv95?start=489.85&end=1589.21) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[September 27, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-d21rf5m57v?start=544&end=1371) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[July 30, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1j97659z75?start=2602&end=3408) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
@@ -380,14 +380,14 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 #### Brian Mulroney (b. 1939), Prime Minister of Canada, 1984-1993
 -[March 15, 1985, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-k06ww77n84?start=860&end=1706) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[October 24, 1986, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-8g8ff3mm76?start=1912&end=2594) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[October 27, 1986, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-wm13n21b66?start=2589&end=3198)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[March 29, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-s756d5q59z?start=2630&end=3450)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[May 20, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-fx73t9f232?start=595&end=1876)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[June 2, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-319s17tb7m?start=2534&end=3393)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[October 27, 1986, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-wm13n21b66?start=2589&end=3198) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[March 29, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-s756d5q59z?start=2630&end=3450) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[May 20, 1992, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-fx73t9f232?start=595&end=1876) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[June 2, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-319s17tb7m?start=2534&end=3393) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Pervez Musharraf (1943-2023), President of Pakistan, 2001-2008
--[November 12, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-z60bv7bt53?start=1564&end=2375)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
--[February 13, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-319s17t88c?start=2123&end=3235)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[November 12, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-z60bv7bt53?start=1564&end=2375) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[February 13, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-319s17t88c?start=2123&end=3235) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 ***
 ### N
@@ -416,9 +416,9 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 -[February 28, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-zk55d8pd1h?start=589&end=1866 ) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Turgut Özal (1927-1993), President of Turkey
--[August 22, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-zk55d8pc73?start=1246.97&end=2018.61)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[August 22, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-zk55d8pc73?start=1246.97&end=2018.61) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 -[April 1, 1991, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-6688g8g69f?start=558&end=1501) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
--[January 28, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-k35m902w5j?start=1224.78&end=1977.82)| WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+-[January 28, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-k35m902w5j?start=1224.78&end=1977.82) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 ***
 ### P
@@ -456,7 +456,7 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 -[November 15, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-9882j68x38?start=2318&end=3055) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Roh Moo-Hyun (1946-2009), President of South Korea, 2003-2008
--[May 15, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-dr2p55f52x?start=716&end=1436)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 15, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-dr2p55f52x?start=716&end=1436) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 ***
 ### S
@@ -574,41 +574,220 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 
 ## Gallery
 
-## Records [CHANGE]
+## Records
 
-- [](/catalog/cpb-aacip-507-hh6c24rg48)
-- [](/catalog/cpb-aacip-507-jm23b5x502)
-- [](/catalog/cpb-aacip-507-9g5gb1z71n)
-- [](/catalog/cpb-aacip-507-8w3804z94s)
-- [](/catalog/cpb-aacip-507-z02z31pk64)
-- [](/catalog/cpb-aacip-507-qf8jd4qk5v)
+- [](/catalog/cpb-aacip-293-75r7t00t)
+- [](/catalog/cpb-aacip-3e634de1b59)
+- [](/catalog/cpb-aacip-faf65de0f59)
+- [](/catalog/cpb-aacip-512-t14th8cn3p)
+- [](/catalog/cpb-aacip-512-b853f4mj3k)
+- [](/catalog/cpb-aacip-512-z89280656s)
+- [](/catalog/cpb-aacip-de810594c85)
+- [](/catalog/cpb-aacip-529-833mw29j2c)
+- [](/catalog/cpb-aacip-510-h98z893444)
+- [](/catalog/cpb-aacip-75-41mgqscn)
+- [](/catalog/cpb-aacip-75-300zpg26)
+- [](/catalog/cpb-aacip-512-7h1dj59998)
+- [](/catalog/cpb-aacip-75-407wm6zt)
+- [](/catalog/cpb-aacip-512-513tt4gj27)
+- [](/catalog/cpb-aacip-512-4j09w09r90)
+- [](/catalog/cpb-aacip-525-gb1xd0rx6p)
+- [](/catalog/cpb-aacip-525-1z41r6nz3s)
+- [](/catalog/cpb-aacip-525-0c4sj1bh43)
+- [](/catalog/cpb-aacip-525-5q4rj49q27)
+- [](/catalog/cpb-aacip-525-3t9d50gv6b)
+- [](/catalog/cpb-aacip-525-d21rf5mn81)
+- [](/catalog/cpb-aacip-525-df6k06z125)
+- [](/catalog/cpb-aacip-15-21ghxcpv)
+- [](/catalog/cpb-aacip-15-09w0w2sd)
+- [](/catalog/cpb-aacip-15-td9n29ph95)
+- [](/catalog/cpb-aacip-507-348gf0nd1k)
+- [](/catalog/cpb-aacip-507-xd0qr4pk5b)
+- [](/catalog/cpb-aacip-507-fx73t9dx7z)
+- [](/catalog/cpb-aacip-507-7w6736mq3f)
+- [](/catalog/cpb-aacip-507-fj2988397d)
+- [](/catalog/cpb-aacip-507-t727941t3n)
+- [](/catalog/cpb-aacip-507-k06ww77n84)
+- [](/catalog/cpb-aacip-507-8g8ff3mm76)
+- [](/catalog/cpb-aacip-507-wm13n21b66)
+- [](/catalog/cpb-aacip-507-s756d5q59z)
+- [](/catalog/cpb-aacip-507-fx73t9f232)
+- [](/catalog/cpb-aacip-507-319s17tb7m)
+- [](/catalog/cpb-aacip-507-bv79s1m71s)
+- [](/catalog/cpb-aacip-507-fx73t9dx3q)
+- [](/catalog/cpb-aacip-507-2804x5509v)
+- [](/catalog/cpb-aacip-507-df6k06xn1k)
+- [](/catalog/cpb-aacip-507-z02z31pg1r)
+- [](/catalog/cpb-aacip-507-kw57d2r06h)
+- [](/catalog/cpb-aacip-507-q52f76714q)
+- [](/catalog/cpb-aacip-507-2n4zg6gm4w)
+- [](/catalog/cpb-aacip-507-599z02zs03)
+- [](/catalog/cpb-aacip-507-mc8rb6wv95)
+- [](/catalog/cpb-aacip-507-d21rf5m57v)
+- [](/catalog/cpb-aacip-507-d21rf5m304)
+- [](/catalog/cpb-aacip-507-q814m9283h)
+- [](/catalog/cpb-aacip-507-8c9r20sg12)
+- [](/catalog/cpb-aacip-507-sn00z71s3w)
+- [](/catalog/cpb-aacip-507-xk84j0bv9b)
+- [](/catalog/cpb-aacip-507-tm71v5cb3m)
+- [](/catalog/cpb-aacip-507-9g5gb1z37d)
+- [](/catalog/cpb-aacip-507-1z41r6nk2f)
+- [](/catalog/cpb-aacip-507-fn10p0xh74)
+- [](/catalog/cpb-aacip-507-cn6xw48g60)
+- [](/catalog/cpb-aacip-507-rx93776v0z)
+- [](/catalog/cpb-aacip-507-3j3902009z)
+- [](/catalog/cpb-aacip-507-tm71v5cb10)
+- [](/catalog/cpb-aacip-507-tm71v5c921)
+- [](/catalog/cpb-aacip-507-c824b2xw1t)
+- [](/catalog/cpb-aacip-507-h41jh3dr8r)
+- [](/catalog/cpb-aacip-507-vx05x2697k)
+- [](/catalog/cpb-aacip-507-rr1pg1jf2t)
+- [](/catalog/cpb-aacip-507-1n7xk8535z)
+- [](/catalog/cpb-aacip-507-xg9f47hq9z)
+- [](/catalog/cpb-aacip-507-fb4wh2f08r)
+- [](/catalog/cpb-aacip-507-6t0gt5g39z)
+- [](/catalog/cpb-aacip-507-xp6tx3645m)
+- [](/catalog/cpb-aacip-507-9882j68x38)
+- [](/catalog/cpb-aacip-507-v69862c74k)
+- [](/catalog/cpb-aacip-507-x05x63c023)
+- [](/catalog/cpb-aacip-507-b27pn8z18d)
+- [](/catalog/cpb-aacip-507-k06ww77r23)
+- [](/catalog/cpb-aacip-507-gh9b56dw47)
+- [](/catalog/cpb-aacip-507-dr2p55f715)
+- [](/catalog/cpb-aacip-507-b27pn8z15g)
+- [](/catalog/cpb-aacip-507-ff3kw5890x)
+- [](/catalog/cpb-aacip-507-2f7jq0tb30)
+- [](/catalog/cpb-aacip-507-5t3fx74h32)
+- [](/catalog/cpb-aacip-507-3x83j39k69)
+- [](/catalog/cpb-aacip-507-zk55d8pd1h)
+- [](/catalog/cpb-aacip-507-5t3fx74g71)
+- [](/catalog/cpb-aacip-507-696zw1978k)
+- [](/catalog/cpb-aacip-507-pv6b27qn7p)
+- [](/catalog/cpb-aacip-507-dz02z13f2k)
+- [](/catalog/cpb-aacip-507-z60bv7bw9w)
+- [](/catalog/cpb-aacip-507-9882j68v3q)
+- [](/catalog/cpb-aacip-507-x34mk6637n)
+- [](/catalog/cpb-aacip-507-3775t3gk2f)
+- [](/catalog/cpb-aacip-507-gm81j98035)
+- [](/catalog/cpb-aacip-507-sq8qb9vz1m)
+- [](/catalog/cpb-aacip-507-736m03zf52)
+- [](/catalog/cpb-aacip-507-w37kp7vq2h)
+- [](/catalog/cpb-aacip-507-804xg9fv7w)
+- [](/catalog/cpb-aacip-507-bk16m33t4r)
+- [](/catalog/cpb-aacip-507-xd0qr4pp1x)
+- [](/catalog/cpb-aacip-507-db7vm43m9p)
+- [](/catalog/cpb-aacip-507-db7vm43m9p)
+- [](/catalog/cpb-aacip-507-v40js9j610)
+- [](/catalog/cpb-aacip-507-qv3bz62577)
+- [](/catalog/cpb-aacip-507-qv3bz6256x)
+- [](/catalog/cpb-aacip-507-c824b2xv1j)
+- [](/catalog/cpb-aacip-507-br8mc8s23r)
+- [](/catalog/cpb-aacip-507-h98z89325w)
+- [](/catalog/cpb-aacip-507-zk55d8pc73)
+- [](/catalog/cpb-aacip-507-6688g8g69f)
+- [](/catalog/cpb-aacip-507-k35m902w5j)
+- [](/catalog/cpb-aacip-507-kp7tm72t1z)
 - [](/catalog/cpb-aacip-507-542j679j2j)
-- [](/catalog/cpb-aacip-507-125q815b1f)
-- [](/catalog/cpb-aacip-507-4b2x34nb1r)
-- [](/catalog/cpb-aacip-507-251fj2b044)
-- [](/catalog/cpb-aacip-507-rr1pg1jj6w)
-- [](/catalog/cpb-aacip-507-m03xs5k846)
-- [](/catalog/cpb-aacip-507-mrm3028qc98)
-- [](/catalog/cpb-aacip-507-ns0ks6k08)
-- [](/catalog/cpb-aacip-507-9g5gb1z70b)
-- [](/catalog/cpb-aacip-507-f18b3xp44)
-- [](/catalog/cpb-aacip-507-p55db708q99)
-- [](/catalog/cpb-aacip-507-bg2h708q99)
-- [](/catalog/cpb-aacip-507-jw86h4dk9s)
-- [](/catalog/cpb-aacip-507-5d8nc5t05q)
-- [](/catalog/cpb-aacip-507-np1wd3qt9w)
-- [](/catalog/cpb-aacip-507-1c1tdns0)
-- [](/catalog/cpb-aacip-507-930nx0mm21)
-- [](/catalog/cpb-aacip-507-8c9r20sj4j)
-- [](/catalog/cpb-aacip-507-jw86h4dm1k)
-- [](/catalog/cpb-aacip-507-7659c6sr05)
-- [](/catalog/cpb-aacip-507-m32n58d99b)
-- [](/catalog/cpb-aacip-507-cv4bn9xv50)
-- [](/catalog/cpb-aacip-507-sj19k46r80)
-- [](/catalog/cpb-aacip-507-xg9f47ht9s)
-- [](/catalog/cpb-aacip-507-gt5b4xd6p)
-- [](/catalog/cpb-aacip-507-br8mc8s214)
-- [](/catalog/cpb-aacip-507-gt5fb4x900)
-- [](/catalog/cpb-aacip-507-m03xs5k86t)
+- [](/catalog/cpb-aacip-507-f76639kv7x)
+- [](/catalog/cpb-aacip-507-c53dz03p9j)
+- [](/catalog/cpb-aacip-507-jd4pk07q6t)
+- [](/catalog/cpb-aacip-507-7s7hq3sj6p)
+- [](/catalog/cpb-aacip-507-r49g44jh3b)
+- [](/catalog/cpb-aacip-507-736m03zf99)
+- [](/catalog/cpb-aacip-507-pz51g0jr0m)
+- [](/catalog/cpb-aacip-507-gb1xd0rj41)
+- [](/catalog/cpb-aacip-507-qb9v11w99q)
+- [](/catalog/cpb-aacip-507-5m6251g621)
+- [](/catalog/cpb-aacip-507-8c9r20sd5r)
+- [](/catalog/cpb-aacip-507-q52f76720r)
+- [](/catalog/cpb-aacip-507-ms3jw87c82)
+- [](/catalog/cpb-aacip-507-qb9v11wb90)
+- [](/catalog/cpb-aacip-507-mp4vh5d81w)
+- [](/catalog/cpb-aacip-507-n872v2d40x)
+- [](/catalog/cpb-aacip-507-n872v2d40x)
+- [](/catalog/cpb-aacip-507-mc8rb6wr7q)
+- [](/catalog/cpb-aacip-507-gb1xd0rj13)
+- [](/catalog/cpb-aacip-507-901zc7sd0g)
+- [](/catalog/cpb-aacip-507-cz3222rz0p)
+- [](/catalog/cpb-aacip-507-pz51g0jr1x)
+- [](/catalog/cpb-aacip-507-4j09w09j0j)
+- [](/catalog/cpb-aacip-507-ks6j09ww8s)
+- [](/catalog/cpb-aacip-507-kd1qf8k93t)
+- [](/catalog/cpb-aacip-507-zc7rn3152m)
+- [](/catalog/cpb-aacip-507-tb0xp6vx3b)
+- [](/catalog/cpb-aacip-507-f18sb3xj3q)
+- [](/catalog/cpb-aacip-507-9s1kh0fm5k)
+- [](/catalog/cpb-aacip-507-rb6vx06x8)
+- [](/catalog/cpb-aacip-507-804xg9g17h)
+- [](/catalog/cpb-aacip-507-s17sn0207p)
+- [](/catalog/cpb-aacip-507-q23qv3cx4b)
+- [](/catalog/cpb-aacip-507-gh9b56dx1k)
+- [](/catalog/cpb-aacip-507-hq3rv0dq65)
+- [](/catalog/cpb-aacip-507-br8mc8s45x)
+- [](/catalog/cpb-aacip-507-xd0qr4pk88)
+- [](/catalog/cpb-aacip-507-8c9r20sg87)
+- [](/catalog/cpb-aacip-507-ws8hd7pq7p)
+- [](/catalog/cpb-aacip-507-hm52f7kk1b)
+- [](/catalog/cpb-aacip-507-319s17t88c)
+- [](/catalog/cpb-aacip-507-k06ww77m7j)
+- [](/catalog/cpb-aacip-507-2n4zg6gn3v)
+- [](/catalog/cpb-aacip-507-2v2c824z00)
+- [](/catalog/cpb-aacip-507-6d5p844h4v)
+- [](/catalog/cpb-aacip-507-319s17t85f)
+- [](/catalog/cpb-aacip-507-3j3902039s)
+- [](/catalog/cpb-aacip-507-7s7hq3sj0t)
+- [](/catalog/cpb-aacip-507-1c1td9np91)
+- [](/catalog/cpb-aacip-507-6w96689575)
+- [](/catalog/cpb-aacip-507-bk16m33s1j)
+- [](/catalog/cpb-aacip-507-416sx64s2t)
+- [](/catalog/cpb-aacip-507-1j97659z75)
+- [](/catalog/cpb-aacip-507-bz6154fc72)
+- [](/catalog/cpb-aacip-507-f18sb3xm0b)
+- [](/catalog/cpb-aacip-507-4q7qn5zt9p)
+- [](/catalog/cpb-aacip-507-1c1td9np35)
+- [](/catalog/cpb-aacip-507-z892805x12)
+- [](/catalog/cpb-aacip-507-g73707xf13)
+- [](/catalog/cpb-aacip-507-8k74t6fr8s)
+- [](/catalog/cpb-aacip-507-hq3rv0dn59)
+- [](/catalog/cpb-aacip-507-696zw1988v)
+- [](/catalog/cpb-aacip-507-jh3cz32w52)
+- [](/catalog/cpb-aacip-507-7940r9ms1x)
+- [](/catalog/cpb-aacip-507-jw86h4dg4d)
+- [](/catalog/cpb-aacip-507-b56d21s57m)
 - [](/catalog/cpb-aacip-507-mc8rb6ws0t)
-- [](/catalog/cpb-aacip-525-t14h8cs15)
+- [](/catalog/cpb-aacip-507-st7dr2q33v)
+- [](/catalog/cpb-aacip-507-2804x55283)
+- [](/catalog/cpb-aacip-507-3t9d50gf33)
+- [](/catalog/cpb-aacip-507-542j679g39)
+- [](/catalog/cpb-aacip-507-b27pn8z21h)
+- [](/catalog/cpb-aacip-507-1r6n01084f)
+- [](/catalog/cpb-aacip-507-4q7qn5zv61)
+- [](/catalog/cpb-aacip-507-5717m04m0r)
+- [](/catalog/cpb-aacip-507-5717m04m0r)
+- [](/catalog/cpb-aacip-507-g73707xd80)
+- [](/catalog/cpb-aacip-507-z60bv7bt53)
+- [](/catalog/cpb-aacip-507-pg1hh6cx6m)
+- [](/catalog/cpb-aacip-507-8k74t6fv4c)
+- [](/catalog/cpb-aacip-507-pn8x922834)
+- [](/catalog/cpb-aacip-507-6t0gt5g05w)
+- [](/catalog/cpb-aacip-507-db7vm43j66)
+- [](/catalog/cpb-aacip-507-pg1hh6cz6w)
+- [](/catalog/cpb-aacip-507-c824b2xv35)
+- [](/catalog/cpb-aacip-507-3x83j39m58)
+- [](/catalog/cpb-aacip-507-q52f76711s)
+- [](/catalog/cpb-aacip-507-dr2p55f52x)
+- [](/catalog/cpb-aacip-507-4f1mg7gd61)
+- [](/catalog/cpb-aacip-507-6m3319sq7q)
+- [](/catalog/cpb-aacip-507-0c4sj1b43r)
+- [](/catalog/cpb-aacip-507-9w08w38r5v)
+- [](/catalog/cpb-aacip-512-x921c1w092)
+- [](/catalog/cpb-aacip-15-bv79s1kr20)
+- [](/catalog/cpb-aacip-15-1c1td9n58k)
+- [](/catalog/cpb-aacip-15-g15t727h9m)
+- [](/catalog/cpb-aacip-15-b853f4kv16)
+- [](/catalog/cpb-aacip-15-hx15m62f6f)
+- [](/catalog/cpb-aacip-15-6d5p843v5p)
+- [](/catalog/cpb-aacip-15-c24qj78252)
+- [](/catalog/cpb-aacip-15-m03xs5jk90)
+- [](/catalog/cpb-aacip-15-5h7br8mh7d)
+- [](/catalog/cpb-aacip-15-0z70v89m40)
