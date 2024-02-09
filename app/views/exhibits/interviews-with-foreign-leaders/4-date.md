@@ -390,164 +390,162 @@ Ordered by first broadcast or recording date, this list includes interviews with
 
 #### 1996
 ##### Ehud Barak (b. 1942), Prime Minister of Israel, 1999-2001
-January 23, 1996, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-696zw1988v?start=1469.5&end=2143) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[January 23, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-696zw1988v?start=1469.5&end=2143) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Ernesto Samper (b. 1950), President of Colombia, 1994-1998
-March 20, 1996, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-6w96689575?start=2627.86&end=3400) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[March 20, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-6w96689575?start=2627.86&end=3400) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Shimon Peres (1923-2016), Prime Minister of Israel, 1984-1986; 1995-1996
-April 29, 1996, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-jh3cz32w52?start=407.85&end=1205.08) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[April 29, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-jh3cz32w52?start=407.85&end=1205.08) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Aleksander Kwaśniewski, President of Poland, 1995-2005
-July 8, 1996, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-c824b2xv35?start=2623&end=3417)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[July 8, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-c824b2xv35?start=2623&end=3417) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Hosni Mubarak (1928-2020), President of Egypt, 1981-2011
-July 30, 1996, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-1j97659z75?start=2602&end=3408)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[July 30, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1j97659z75?start=2602&end=3408) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Hussein bin Talal (1935-1999), King of Jordan, 1952-1999
-October 3, 1996, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-st7dr2q33v?start=540&end=1297) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[October 3, 1996, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-st7dr2q33v?start=540&end=1297) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### 1997
 ##### Alberto Fujimori (b. 1938), President of Peru
-February 3, 1997, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-6t0gt5g05w?start=461.01&end=1216.58) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[February 3, 1997, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-6t0gt5g05w?start=461.01&end=1216.58) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Ryutaro Hashimoto (1937-2006), Prime Minister of Japan, 1996-1998
-April 28, 1997, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-mc8rb6ws0t?start=2110&end=2789) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[April 28, 1997, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-mc8rb6ws0t?start=2110&end=2789) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Ernesto Zedillo (b. 1951), President of Mexico, 1994-2000
-May 5, 1997, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-1r6n01084f?start=1160.29&end=2093.28) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 5, 1997, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1r6n01084f?start=1160.29&end=2093.28) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Jiang Zemin (1926-2022), President of the People’s Republic of China, 1993-2003
-October 30, 1997, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-7s7hq3sj0t?start=488&end=1623) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[October 30, 1997, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-7s7hq3sj0t?start=488&end=1623) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Benjamin Netanyahu (b. 1949), Prime Minister of Israel, 1996-1999; 2009-2021; 2022-
-November 3, 1997, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-7940r9ms1x?start=1251.55&end=2200.08 ) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[November 3, 1997, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-7940r9ms1x?start=1251.55&end=2200.08 ) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### 1998
 ##### Ejup Ganić (b. 1946), President of the Federation of Bosnia and Herzegovina, 1997-2001
-March 3, 1998, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-319s17t85f?start=2753&end=3357) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[March 3, 1998, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-319s17t85f?start=2753&end=3357) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Benjamin Netanyahu (b. 1949), Prime Minister of Israel, 1996-1999; 2009-2021; 2022-
-May 15, 1998, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-jw86h4dg4d?start=1189&end=1726) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 15, 1998, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-jw86h4dg4d?start=1189&end=1726) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Jacques Chirac (1932-2019), Prime Minister of France, 1974-1976, 1986-1988; President of France, 1995-2007
-June 8, 1998, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-4q7qn5zt9p?start=1072.2&end=1806.62) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[June 8, 1998, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-4q7qn5zt9p?start=1072.2&end=1806.62) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Kim Dae-Jung (1924-2009), President of South Korea, 1998-2003
-June 9, 1998, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-q52f76711s?start=436.16&end=1672.67) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[June 9, 1998, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-q52f76711s?start=436.16&end=1672.67) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Lech Walesa (b. 1943), President of Poland, 1990-1995
-October 1998, For the Record with Charley McDowell (https://americanarchive.org/catalog/cpb-aacip-de810594c85) | Central Virginia’s Public TV, WHTJ/Charlottesville<br/>
+-[October 1998, *For the Record with Charley McDowell*](https://americanarchive.org/catalog/cpb-aacip-de810594c85) | Central Virginia’s Public TV, WHTJ/Charlottesville<br/>
 
 #### 1999
 ##### Zhu Rongji (b. 1928), Premier of the People’s Republic of China, 1998-2003
-April 9, 1999, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-1c1td9np91?start=687&end=2133) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[April 9, 1999, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1c1td9np91?start=687&end=2133) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Süleyman Demirel (1924-2015), Prime Minister of Turkey, 1965-1971, 1975-1977, 1977-1978, 1979-1980, 1991-1993; President of Turkey, 1993-2000
-April 22, 1999, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-4f1mg7gd61?start=1011.5&end=1692.14) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[April 22, 1999, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-4f1mg7gd61?start=1011.5&end=1692.14) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### George Papandreou (b. 1952), Foreign Minister of Greece, 1999-2004; Prime Minister of Greece, 2009-2011
-April 22, 1999, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-4f1mg7gd61?start=1692.8&end=2198.21) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[April 22, 1999, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-4f1mg7gd61?start=1692.8&end=2198.21) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Tony Blair (b. 1953), Prime Minister of the United Kingdom, 1997-2007
-April 23, 1999, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-0c4sj1b43r?start=1072&end=1985) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[April 23, 1999, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-0c4sj1b43r?start=1072&end=1985) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Andrés Pastrana (b. 1954), President of Colombia, 1998-2002
-September 22, 1999, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-bk16m33s1j?start=1129&end=1960) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 22, 1999, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-bk16m33s1j?start=1129&end=1960) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 ***
 ### 2000s
 
 #### 2000
 ##### David Trimble (1944-2022), First Minister of Northern Ireland, 1998-2002
-March 15, 2000, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-g73707xd80?start=2350.25&end=3134.96) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[March 15, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-g73707xd80?start=2350.25&end=3134.96) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Bertie Ahern (b. 1951), Prime Minister of Ireland, 1997-2008
-March 17, 2000, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-hq3rv0dn59?start=887&end=1497) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[March 17, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-hq3rv0dn59?start=887&end=1497) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Thabo Mbeki (b. 1942), President of South Africa, 1999-2008
-May 23, 2000, The NewsHour with Jim Lehrer https://americanarchive.org/catalog/cpb-aacip-507-3x83j39m58?start=2323&end=3350)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 23, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-3x83j39m58?start=2323&end=3350) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Vicente Fox (b. 1942), President of Mexico, 2000-2006
-August 24, 2000, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-4q7qn5zv61?start=505&end=1262) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[August 24, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-4q7qn5zv61?start=505&end=1262) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Alberto Fujimori (b. 1938), President of Peru
-September 6, 2000, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-db7vm43j66?start=2252.48&end=3050.99) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 6, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-db7vm43j66?start=2252.48&end=3050.99) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### 2001
 ##### Joseph Kabila (b. 1971), President of the Democratic Republic of the Congo, 2001-2019
-February 1, 2001, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-416sx64s2t?start=2610&end=3360)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[February 1, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-416sx64s2t?start=2610&end=3360) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Francisco Flores (1959-2016), President of El Salvador, 1999-2004
-March 2, 2001, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xm0b?start=2657.67&end=3332.82) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[March 2, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xm0b?start=2657.67&end=3332.82) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Vicente Fox (b. 1942), President of Mexico, 2000-2006
-September 7, 2001, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-5717m04m0r?start=1091&end=2224) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 7, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-5717m04m0r?start=1091&end=2224) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### John Howard (b. 1939), Prime Minister of Australia, 1996-2007
-September 10, 2001, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-2v2c824z00?start=276&end=1128) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 10, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2v2c824z00?start=276&end=1128) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Pervez Musharraf (1943-2023), President of Pakistan, 2001-2008
-November 12, 2001, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-z60bv7bt53?start=1564&end=2375)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[November 12, 2001, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-z60bv7bt53?start=1564&end=2375) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 
 #### 2002
 ##### Bülent Ecevit (1925-2006), Prime Minister of Turkey, 1974, 1977, 1978-1979, 1999-2002
-January 17, 2002, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-6m3319sq7q?start=2200.34&end=3144.87) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[January 17, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-6m3319sq7q?start=2200.34&end=3144.87) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Hamid Karzai (b. 1957), Interim Prime Minister of Afghanistan, 2001-2002; President of Afghanistan, 2002-2014
-January 28, 2002, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-k06ww77m7j?start=838.98&end=1791.85) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[January 28, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-k06ww77m7j?start=838.98&end=1791.85) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Pervez Musharraf (1943-2023), President of Pakistan, 2001-2008
-February 13, 2002, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-319s17t88c?start=2123&end=3235)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[February 13, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-319s17t88c?start=2123&end=3235) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Rafiq Hariri (1944-2005), Prime Minister of Lebanon, 1992-1998, 2000-2004
-April 16, 2002, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-b27pn8z21h?start=1457.4&end=2223.44) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[April 16, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-b27pn8z21h?start=1457.4&end=2223.44) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Abdullah II al-Hussein (b. 1962), King of Jordan, 1999-
-May 10, 2002, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-2804x55283?start=448&end=1365)  | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 10, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2804x55283?start=448&end=1365) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### 2003
 ##### Barham Salih (b. 1960), Prime Minister of the Patriotic Union of Kurdistan (PUK) Regional Government, 2001-2004, 2009-2012; President of Iraq, 2018-2022
-March 12, 2003, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-542j679g39?start=2176&end=2744) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[March 12, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-542j679g39?start=2176&end=2744) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Roh Moo-Hyun (1946-2009), President of South Korea, 2003-2008
-May 15, 2003, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-dr2p55f52x?start=716&end=1436)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 15, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-dr2p55f52x?start=716&end=1436) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Gloria Macapagal Arroyo (b. 1947), President of the Philippines, 2001-2010
-May 20, 2003, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-pg1hh6cz6w?start=1413&end=2173) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 20, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-pg1hh6cz6w?start=1413&end=2173) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Abdullah II al-Hussein (b. 1962), King of Jordan, 1999-
-December 5, 2003, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-3t9d50gf33?start=478&end=1377)  | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[December 5, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-3t9d50gf33?start=478&end=1377)  | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### 2004
 ##### Kostas Karamanlis (b. 1956), Prime Minister of Greece, 2004-2009
-May 21, 2004, The NewsHour with Jim Lehrer ( https://americanarchive.org/catalog/cpb-aacip-507-1c1td9np35?start=2230.63&end=2944.69)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 21, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-1c1td9np35?start=2230.63&end=2944.69) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Hamid Karzai (b. 1957), Interim Prime Minister of Afghanistan, 2001-2002; President of Afghanistan, 2002-2014
-June 14, 2004, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-2n4zg6gn3v?start=877.9&end=1732.08)| MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[June 14, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2n4zg6gn3v?start=877.9&end=1732.08) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Ayad Allawi (b. 1944), Interim Prime Minister of Iraq, 2004-2005
-September 23, 2004, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-z892805x12?start=389&end=1360 ) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 23, 2004, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-z892805x12?start=389&end=1360 ) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### 2005
 ##### Ahmed Nazif (b. 1952), Prime Minister of Egypt, 2004-2011
-May 20, 2005, The NewsHour with Jim Lehrer ( https://americanarchive.org/catalog/cpb-aacip_507-bz6154fc72?start=1195&end=1973) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[May 20, 2005, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip_507-bz6154fc72?start=1195&end=1973) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Tony Blair (b. 1953), Prime Minister of the United Kingdom, 1997-2007
-June 7, 2005, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-9w08w38r5v?start=644.8&end=1557.52) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[June 7, 2005, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-9w08w38r5v?start=644.8&end=1557.52) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Jalal Talabani (1933-2017), President of Iraq, 2005-2014
-September 15, 2005, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-g73707xf13?start=2777.09&end=3309.07) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 15, 2005, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-g73707xf13?start=2777.09&end=3309.07) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Mahmoud Abbas (b. 1935), President of the State of Palestine, 2005-
-October 21, 2005, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-pn8x922834?start=1708.19&end=2378.03) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[October 21, 2005, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-pn8x922834?start=1708.19&end=2378.03) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### 2006
 ##### Jalal Talabani (1933-2017), President of Iraq, 2005-2014
-September 25, 2006, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fr8s?start=1311&end=1982.95) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[September 25, 2006, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-8k74t6fr8s?start=1311&end=1982.95) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### 2007
 ##### Nawaz Sharif (b. 1949), Prime Minister of Pakistan, 1990-1993, 1997-1999, 2013-2017
-August 27, 2007, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-pg1hh6cx6m?start=2898&end=3381.5) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[August 27, 2007, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-pg1hh6cx6m?start=2898&end=3381.5) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Ehud Olmert (b. 1945), Prime Minister of Israel, 2006-2009
-November 27, 2007, The NewsHour with Jim Lehrer (https://americanarchive.org/catalog/cpb-aacip-507-b56d21s57m?start=985&end=1758) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+-[November 27, 2007, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-b56d21s57m?start=985&end=1758) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 ***
 ### 2010s
 
 #### 2010
 ##### George Papandreou (b. 1952), Foreign Minister of Greece, 1999-2004; Prime Minister of Greece, 2009-2011
-July 1, 2010, PBS NewsHour (https://americanarchive.org/catalog/cpb-aacip-525-1z41r6nz3s?start=2510.58&end=2987.45) | NewsHour Productions<br/>
+-[July 1, 2010, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-1z41r6nz3s?start=2510.58&end=2987.45) | NewsHour Productions<br/>
 
 #### 2011
 ##### Enda Kenny (b. 1951), Prime Minister of Ireland, 2011-2017
-March 17, 2011, PBS NewsHour ( https://americanarchive.org/catalog/cpb-aacip-525-0c4sj1bh43?start=2104&end=2427.25) | NewsHour Productions<br/>
+-[March 17, 2011, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-0c4sj1bh43?start=2104&end=2427.25) | NewsHour Productions<br/>
 
 #### 2013
 ##### Enrico Letta (b.1966), Prime Minister of Italy, 2013-2014
-October 16, 2013, PBS NewsHour (https://americanarchive.org/catalog/cpb-aacip-525-5q4rj49q27?start=1243.75&end=1860.37) | NewsHour Productions<br/>
+-[October 16, 2013, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-5q4rj49q27?start=1243.75&end=1860.37) | NewsHour Productions<br/>
 
 #### 2014
 ##### Anote Tong (b. 1952), President of Kiribati, 2003-2016
-July 28, 2014, PBS NewsHour Weekend (https://americanarchive.org/catalog/cpb-aacip-525-3t9d50gv6b?start=907.99&end=1386.43) | NewsHour Productions<br/>
+-[July 28, 2014, *PBS NewsHour Weekend*](https://americanarchive.org/catalog/cpb-aacip-525-3t9d50gv6b?start=907.99&end=1386.43) | NewsHour Productions<br/>
 
 #### 2016
 ##### Juan Manuel Santos (b. 1951), President of Colombia, 2010-2018
-February 4, 2016, PBS NewsHour (https://americanarchive.org/catalog/cpb-aacip-525-gb1xd0rx6p?start=846.81&end=1632.16) | NewsHour Productions<br/>
+-[February 4, 2016, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-gb1xd0rx6p?start=846.81&end=1632.16) | NewsHour Productions<br/>
 
 #### 2017
 ##### Recep Tayyip Erdoğan (b. 1954), Prime Minister of Turkey, 2003-2014; President of Turkey, 2014-
-September 19, 2017, PBS NewsHour (https://americanarchive.org/catalog/cpb-aacip-525-df6k06z125?start=1242&end=2097) | NewsHour Productions<br/>
+-[September 19, 2017, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-df6k06z125?start=1242&end=2097) | NewsHour Productions<br/>
 
 #### 2019
 ##### Nicola Sturgeon (b. 1970), First Minister of Scotland, 2014-2023
-February 4, 2019, PBS NewsHour (https://americanarchive.org/catalog/cpb-aacip-525-d21rf5mn81?start=1138&end=1731) | NewsHour Productions<br/>
-
-![image](https://github.com/WGBH-MLA/AAPB2/assets/38049679/c0ab4515-a339-4147-96e1-901c22f5683e)
+-[February 4, 2019, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-d21rf5mn81?start=1138&end=1731) | NewsHour Productions<br/>
 
 
 #### Next: [Notes](/exhibits/interviews-with-foreign-leaders/notes)
