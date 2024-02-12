@@ -52,7 +52,7 @@ This episode of *PBS Newshour Weekend* featured a segment on Black-owned indepen
 
 Black Studies has had an indelible effect on higher education, Black cultural work, and the African Diaspora since its inception. Over fifty years later, it is still conducting work in great service to Black communities across the nation and around the globe. The materials in this exhibit aim to give audiences a stronger understanding of Black Studies’ influence across American society and how in particular public broadcasting served as a bridge to give Black homes access to Black Studies through media. As challenges against the inclusion of Black history and culture in American classrooms rage on, this exhibit traces the history of that battle and how despite innumerous obstacles, this field of study perseveres and continues to press forward. 
 
-## Programs Discussed in This Exhibit
+### Programs Discussed in This Exhibit
 
 - [*Say Brother*, “Black Power on University Campuses”](https://americanarchive.org/catalog/cpb-aacip-15-99p2w600) (WGBH, Boston, MA, January 16, 1968)
 - [*Firing Line* with William F. Buckley Jr., “Afro-American Studies”](https://americanarchive.org/catalog/cpb-aacip-514-j678s4kj6z) (WOR-TV, New York, NY, June 2, 1969)
@@ -69,7 +69,7 @@ Black Studies has had an indelible effect on higher education, Black cultural wo
 - [*Línea Abierta*, “50 Years of Ethnic Studies”](https://americanarchive.org/catalog/cpb-aacip-3286ed6e25c) (Radio Bilingüe, August 13, 2020)
 - [*PBS News Hour Weekend*](https://americanarchive.org/catalog/cpb-aacip-f1ec16219f1?start=1007.02&end=1340.27) (Creative News Group (WNET) and NewsHour Productions (WETA), February 28, 2021)
 
-## Additional Related Programs
+### Additional Related Programs
 
 - [*The Negro American*, “Why Study Negro History”](https://americanarchive.org/catalog/cpb-aacip-500-vm42wr90) (WDTR, Department of Educational Broadcasting for the Detroit Public Schools, September 29, 1968)
 - [*Night Call*, “Are Black Studies for Blacks Only?”](https://americanarchive.org/catalog/cpb-aacip-1b389924a6a) (United Methodist Church, June 16, 1969)

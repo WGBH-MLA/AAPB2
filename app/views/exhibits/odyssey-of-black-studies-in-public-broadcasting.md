@@ -2,7 +2,7 @@
 
 1
 
-## Overview 
+## Summary
 
 *The Odyssey of Black Studies in Public Broadcasting* explores the history of Black Studies programs at American colleges and universities as they were discussed and presented in a select number of public radio and television broadcasts archived in the AAPB collection. The exhibit was curated by Pheolyn Allen, a 2023 Library of Congress Junior Fellow and dual-title PhD student in English and African-American and Diaspora Studies at Pennsylvania State University, who specializes in Black LGBTQ+ literature and culture, as well as Black speculative fiction. We are grateful to the anonymous reviewer of the exhibit essay for valuable feedback.
 
