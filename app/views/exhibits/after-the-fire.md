@@ -40,7 +40,7 @@ The term “riot” is used repeatedly in this exhibit to reference incidents of
 
 ### Highlights Reel: Explanations and Justifications for Unrest
 
-<iframe src="https://player.vimeo.com/video/901607291" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="exhibit-small-iframe" src="https://player.vimeo.com/video/901607291" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 #### Next: [L.A. Riots](/exhibits/after-the-fire/2-la-riots)
 
