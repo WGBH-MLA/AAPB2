@@ -88,7 +88,7 @@ Black Studies has had an indelible effect on higher education, Black cultural wo
 - [*In Black America*, “The New UT Austin PhD Program in Black Studies with Dr. Edmund T. Gordon”](https://americanarchive.org/catalog/cpb-aacip-fb2cd765573) (KUT, University of Texas at Austin, January 1, 2013)
 - [“African Americans Speak Out”](https://americanarchive.org/catalog/cpb-aacip-293-vq2s46hp12) (WHUT, Howard University, Washington, DC, date unknown)
   
-#### Next: [Notes](/exhibits/odyssey-of-black-studies/notes)
+#### Next: [Notes](/exhibits/odyssey-of-black-studies-in-public-broadcasting/notes)
 
 ## Resources
 
