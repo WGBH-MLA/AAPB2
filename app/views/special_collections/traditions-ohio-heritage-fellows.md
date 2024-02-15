@@ -24,9 +24,9 @@ The <em>Traditions: Ohio Heritage Fellows</em> episodes were created by ThinkTV.
 ## Resources
 
 - [<em>Traditions: Ohio Heritage Fellows</em> Website](https://www.pbs.org/show/ohio-heritage-fellows/)
-- [About Ohio Heritage Fellowships, Ohio Arts Council Website](https://www.oac.ohio.gov/heritagefellowships)
-- [Ohio Collections in the Archive of Folk Culture, American Folklife Center](https://www.loc.gov/folklife/guides/Ohio.html)
-- [Digitized Collections, American Folk Art Museum](http://collection.folkartmuseum.org/collections)
+- [Ohio Heritage Fellowships, Ohio Arts Council Website](https://apps.oac.ohio.gov/grantsprogs/heritagefellowships.asp)
+- [American Folklife Center](https://guides.loc.gov/american-folklife-center)
+- [Digitized Collections, American Folk Art Museum](https://folkartmuseum.org/resources/)
 
 ## Funders
 
