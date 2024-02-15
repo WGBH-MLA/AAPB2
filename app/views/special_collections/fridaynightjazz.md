@@ -23,7 +23,7 @@ Listeners will find in Reuben’s selections an eclectic mix of jazz classics an
 [![June 3, 2016](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-pk06w97j9x)
 [![August 11, 2017](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-6t0gt5gg4f)
 [![October 6, 2017](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-jm23b5xh14)
-[![January 26, 2018](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip_527-6t0gt5gg4f)
+[![January 26, 2018](https://s3.amazonaws.com/americanarchive.org/special-collections/aapb_tile.png)](/catalog/cpb-aacip-527-959c53g402)
  
 ## Resources
 
