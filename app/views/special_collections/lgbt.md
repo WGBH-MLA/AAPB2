@@ -25,7 +25,7 @@ The LGBT+ Collection includes public radio and televisions programs contributed 
 
 - [AAPB Blog: 30th Anniversary of National Coming Out Day](https://americanarchivepb.wordpress.com/2018/10/12/30th-anniversary-of-national-coming-out-day/)
 - [Stonewall Uprising Interviews Collection](http://americanarchive.org/special_collections/stonewall-uprising-interviews)
-- [LGBTQ+ Studies Research Guide from the Library of Congress](https://www.loc.gov/rr/main/lgbtq/lgbtqgeneralguide/digitalcollections.html)
+- [LGBTQIA+ Studies: A Resource Guide from the Library of Congress](https://guides.loc.gov/lgbtq-studies)
 - [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/)
 - [Lesbian Herstory Archives](http://www.lesbianherstoryarchives.org/)
 - [One Gay and Lesbian Archives at USC Libraries](https://one.usc.edu/)
