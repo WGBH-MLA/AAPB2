@@ -27,7 +27,7 @@ The *Mind Over Matters* Sustainability Segment collection was contributed to the
 
 ## Resources
 
-- [KEXP, *Mind Over Matters*](https://www.kexp.org/podcasts/mind-over-matters-sustainability-segment/)
+- [KEXP, *Mind Over Matters*](https://www.kexp.org/podcasts/mind-over-matters/)
 - [KEXP website](https://www.kexp.org/)
 - [AAPB Exhibit, Climate Change Conversations: Causes, Impacts, Solutions](https://americanarchive.org/exhibits/climate-change)
 - [Seattle Audubon](https://seattleaudubon.org/)
