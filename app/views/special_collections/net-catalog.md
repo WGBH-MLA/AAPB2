@@ -30,7 +30,7 @@ Each catalog record identifies holdings information from various institutions th
 ## Resources
 
 - [Library of Congress NET Collection](https://www.loc.gov/rr/mopic/tvcoll.html)
-- [*Educating America: Inside the World of NET*, Indiana University Libraries Moving Image Archive](https://collections.libraries.indiana.edu/IULMIA/exhibits/show/national-educational-televisio)
+- [National Education Television, Indiana University Libraries Moving Image Archive](https://media.dlib.indiana.edu/collections/bg257k12q)
 - [National Educational Television Records Finding Aid at Wisconsin Historical Society](http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;cc=wiarchives;q1=Carnegie%20Commission;rgn=main;view=text;didno=uw-whs-us0066af)
 - [Museum of Broadcast Communications](https://www.museum.tv/)
 
