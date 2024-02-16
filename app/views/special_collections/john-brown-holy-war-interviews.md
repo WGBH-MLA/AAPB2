@@ -25,7 +25,7 @@ The <em>John Brown's Holy War</em> interviews were conducted in 2000 for the <em
 
 - [<em>The Abolitionists</em> from <em>American Experience</em>](http://www.pbs.org/wgbh/americanexperience/films/abolitionists/)
 - [John Brown Exhibit, Oberlin College Archives](http://www2.oberlin.edu/archive/exhibits/john_brown_new/intro_bust.html)
-- [John Brown, Harpers Ferry, National Parks Service](https://www.nps.gov/hafe/learn/historyculture/john-brown.htm)
+- [John Brown, Harpers Ferry, National Parks Service](https://www.nps.gov/people/john-brown.htm)
 - [John Brown/Boyd B. Stutler Collection Database, West Virginia Memory Project](https://archive.wvculture.org/history/wvmemory/imlsintro.html)
 - [Black Abolitionist Archive at University of Detroit Mercy](http://libraries.udmercy.edu/archives/special-collections/index.php?collectionCode=baa)
 - [<em>John Brown's Holy War</em> - Following John Brown, 1800-1859, PBS Learning Media](https://mass.pbslearningmedia.org/resource/arct14.soc.amexjbhfol/john-browns-holy-war-following-john-brown-1800-1859/)
