@@ -11,13 +11,13 @@
 In 2019, Black Studies celebrated its fiftieth year in higher education. During this time, the movement’s impact has spread to many different fields beyond higher education. While it was established to serve marginalized people in the academic system, Black Studies has seen its influence spread to popular culture, politics, and K-12 education, and its scholars have become leaders and respected figures in other realms, such as environmental work, film and television, and much more. Black Studies structurally has allowed for those who specialize in its field to serve as reliable sources of information and clarity on topics of Black history and culture, and many public broadcasting programs, such as those discussed below, have utilized the work done in those classrooms to bring more diverse perspectives to their content.
 
 <table class="exhibit-image half-image">
-<caption align="bottom" class="exhibit-caption"><em>New Mexico In Focus</em>, "Ethnic Studies in the Classroom" (New Mexico PBS, June 29, 2018).</caption>
-<tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newmexicoinfocus.png" class="big-image" alt="<em>New Mexico In Focus</em>, "Ethnic Studies in the Classroom" (New Mexico PBS, June 29, 2018)."/></a></td></tr>
+<caption align="bottom" class="exhibit-caption"><em>New Mexico In Focus</em>, "Incorporating Students’ Cultures in the Classroom" (New Mexico PBS, June 29, 2018).</caption>
+<tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newmexicoinfocus.png" class="big-image" alt="<em>New Mexico In Focus</em>, "Incorporating Students’ Cultures in the Classroom”  (New Mexico PBS, June 29, 2018)."/></a></td></tr>
 </table>
 
-### [*New Mexico In Focus*, “Ethnic Studies in the Classroom” (New Mexico PBS, June 29, 2018)](https://americanarchive.org/catalog/cpb-aacip-df0befbce31)
+### [*New Mexico In Focus*, “Incorporating Students’ Cultures in the Classroom” (New Mexico PBS, June 29, 2018)](https://americanarchive.org/catalog/cpb-aacip-df0befbce31?start=859.32&end=2280.77)
 
-This statewide news broadcast focused on how the presence of Ethnic Studies in public school classrooms has allowed educators to address the marginalization that students of color face daily. Hosting a panel discussion with different educational leaders in New Mexico from Indigenous, Latine, and Black communities, the program examined how cultural education initiatives spoke to the desires of students of color. From discussing dual-credit, ethnic studies courses offered to high school students, to statewide Ethnic Studies elective classes offered across the board in secondary education, educators showcased the accessibility students have had to cultural education revolving around their specific backgrounds and experiences. While praising the progress made to integrate Ethnic Studies more into school district curricula, the panelists also examined how Ethnic Studies has gained power beyond the classroom and must be utilized. Panelist Christopher Ramirez spoke on how “young people are hungry to talk about and take action on issues of equity and justice in their communities” and how the classroom can serve as the first space to begin those discussions with students.
+This statewide news broadcast focused on how the presence of Ethnic Studies in public school classrooms has allowed educators to address the marginalization that students of color face daily. Hosting a panel discussion with different educational leaders in New Mexico from Indigenous, Latine, and Black communities, the program examined how cultural education initiatives spoke to the desires of students of color. From discussing dual-credit, Ethnic Studies courses offered to high school students, to statewide Ethnic Studies elective classes offered across the board in secondary education, educators showcased the accessibility students have had to cultural education revolving around their specific backgrounds and experiences. While praising the progress made to integrate Ethnic Studies more into school district curricula, the panelists also examined how Ethnic Studies has gained power beyond the classroom and must be utilized. Panelist Christopher Ramirez spoke on how “young people are hungry to talk about and take action on issues of equity and justice in their communities” and how the classroom can serve as the first space to begin those discussions with students.
 
 <table class="exhibit-image half-image">
 <caption align="bottom" class="exhibit-caption"><em>¡Colores!</em>, "Blackdom in New Mexico" (New Mexico PBS, February 25, 1997).</caption>
@@ -65,9 +65,9 @@ Black Studies has had an indelible effect on higher education, Black cultural wo
 - [*¡Colores!* “Blackdom in New Mexico”](https://americanarchive.org/catalog/cpb-aacip-191-182jm7sh ) (New Mexico PBS, February 25, 1997)
 - [*In Black America*, “Doctoral Study Is the Possible Dream for Black Students”](https://americanarchive.org/catalog/cpb-aacip-529-j96057f42z) (KUT, University of Texas at Austin, December 1, 1997)
 - [*A Taste of Louisiana*, “After the Hunt”](https://americanarchive.org/catalog/cpb-aacip-17-89281hpg) (Louisiana Public Broadcasting, December 9, 2010)
-- [*New Mexico In Focus*, “Ethnic Studies in the Classroom”](https://americanarchive.org/catalog/cpb-aacip-df0befbce31) (New Mexico PBS, June 29, 2018)
+- [*New Mexico In Focus*, “Incorporating Students’ Cultures in the Classroom”](https://americanarchive.org/catalog/cpb-aacip-df0befbce31?start=859.32&end=2280.77) (New Mexico PBS, June 29, 2018)
 - [*Línea Abierta*, “50 Years of Ethnic Studies”](https://americanarchive.org/catalog/cpb-aacip-3286ed6e25c) (Radio Bilingüe, August 13, 2020)
-- [*PBS News Hour Weekend*](https://americanarchive.org/catalog/cpb-aacip-f1ec16219f1?start=1007.02&end=1340.27) (Creative News Group (WNET) and NewsHour Productions (WETA), February 28, 2021)
+- [*PBS NewsHour Weekend*](https://americanarchive.org/catalog/cpb-aacip-f1ec16219f1?start=1007.02&end=1340.27) (Creative News Group (WNET) and NewsHour Productions (WETA), February 28, 2021)
 
 ### Additional Related Programs
 
@@ -81,8 +81,8 @@ Black Studies has had an indelible effect on higher education, Black cultural wo
 - [*In Black America*, “The Association of Black Storytellers”](https://americanarchive.org/catalog/cpb-aacip-529-qr4nk37g39) (KUT, University of Texas at Austin, January 28, 1986)
 - [*In Black America*, “The Retention of Black Students”](https://americanarchive.org/catalog/cpb-aacip-529-bc3st7g114)(KUT, University of Texas at Austin, November 18, 1986)
 - [*Evening Exchange*, “Black Authors and Literature”](https://americanarchive.org/catalog/cpb-aacip-293-61rfjdrs) (WHUT, Howard University, Washington, DC, April 23, 1993)
-- [*In Black America*, “Black Student Retention”](https://americanarchive.org/catalog/cpb-aacip-529-cj87h1ft9mKUT) (University of Texas at Austin, December 1, 1995)
-- [*In Black America*, “Black Student Retention”](https://americanarchive.org/catalog/cpb-aacip_529-5m6251gr14) KUT, University of Texas at Austin, February 1996)
+- [*In Black America*, “Black Student Retention”](https://americanarchive.org/catalog/cpb-aacip-529-cj87h1ft9m) (KUT, University of Texas at Austin, December 1, 1995)
+- [*In Black America*, “Black Student Retention”](https://americanarchive.org/catalog/cpb-aacip_529-5m6251gr14) (KUT, University of Texas at Austin, February 1996)
 - [In Black America*, “Ethnic Studies Program, Part 1 with Dr. Otis L. Scott”](https://americanarchive.org/catalog/cpb-aacip_529-ks6j09xd29) (KUT, University of Texas at Austin, January 1, 1998)
 - [*In Black America*, “Ethnic Studies Program, Part 2 with Dr. Otis L. Scott”](https://americanarchive.org/catalog/cpb-aacip_529-p843r0r62f) (KUT, University of Texas at Austin, February 1, 1998)
 - [*In Black America*, “The New UT Austin PhD Program in Black Studies with Dr. Edmund T. Gordon”](https://americanarchive.org/catalog/cpb-aacip-fb2cd765573) (KUT, University of Texas at Austin, January 1, 2013)
