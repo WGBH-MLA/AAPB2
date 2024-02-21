@@ -44,7 +44,7 @@ After the first five years of Black Studies rising across the nation, coverage o
 
 
 ## Cover
-  <img title="Cover Image" alt="Take Back Your Mind Part I" src="https://s3.amazonaws.com/americanarchive.org/exhibits/takebackyourmind2.png">
+  <img title="Cover Image" alt="Take Back Your Mind Part I" src="https://s3.amazonaws.com/americanarchive.org/exhibits/takebackyourmind2_square.png">
 
 ## Gallery
 
