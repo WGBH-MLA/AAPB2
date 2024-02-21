@@ -47,7 +47,7 @@ In the 1997 episode, [“Doctoral Study Is the Possible Dream for Black Students
 - [The Black Power Movement, Digital Public Library of America](https://dp.la/primary-source-sets/the-black-power-movement/)
 
 ## Cover
-  <img title="Cover Image" alt="The marquee for the African American Institute at Northeastern University." src="https://s3.amazonaws.com/americanarchive.org/exhibits/africanamericaninstitute.png">
+  <img title="Cover Image" alt="The marquee for the African American Institute at Northeastern University." src="https://s3.amazonaws.com/americanarchive.org/exhibits/africanamericaninstitute_square.png">
 
 ## Gallery
 
