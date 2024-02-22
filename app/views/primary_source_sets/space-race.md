@@ -23,19 +23,15 @@ In the 1960s, NASA’s Mercury, Saturn, Gemini, and Apollo programs culminated i
 
 ## Teachingtips
 
-#### Introduction
-
-As a collection, this set of sources provides a broad history of how federal and state authorities have tried to curtail drug use, abuse, and trafficking. These audio and video clips document the circumstances that led President Nixon to launch the war on drugs, which law enforcement took up at every level of government. These sources demonstrate a range of opinions about the measures used in the war on drugs, and they provide testimonies about how enforcement of anti-drug policies affected different populations, especially along lines of race and class.  
+The video and audio clips in this source set are drawn from documentaries, news broadcasts, newsreels, speeches, and interviews. Together, they provide an understanding of how the U.S. space program developed, in large part, as a response to concerns about technological advances and military capabilities of the Soviet Union. These sources provide an overview of the space program from the earliest years of the Cold War through the establishment of NASA, the successes and failures of the Apollo program, and the development of the space shuttle program in the 1970s and 1980s. 
 
 #### Background Information
 
 Before engaging with this resource set, students should be familiar with the following:
 
-- Forms of political dissent and counterculture movements of the 1960s, including various people’s rights movements (civil rights, gay rights, women’s liberation, Black Power), the student movement, anti-war movement, the rise of beat culture and hippies, and the rise of suburbs and resulting urban decay
-  
-- U.S. involvement in the Vietnam War
-
-
+- Post-World War II Cold War conflict between the United States and the Soviet Union
+- The nuclear arms race	
+- The 1957 launch of Sputnik 1 and Soviet cosmonaut Yuri Gargarin’s 1961 orbit around the Earth 
 
 
 <hr>
@@ -43,6 +39,7 @@ Before engaging with this resource set, students should be familiar with the fol
 #### Essential Question 
 
 What was the significance of the space race in U.S. history?
+
 <hr>
 
 #### General Discussion Questions
@@ -84,23 +81,20 @@ What did the space race signal about national priorities, values, or ideals? In 
 
 ## Pdflink
 
-https://s3.amazonaws.com/americanarchive.org/primary_source_sets/space_race_teaching_tips.pdf
-
+https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Space_Race_Teaching-Tips.pdf
 
 
 ## Additionalresources
 
 
-- **[NASA Stem Engagement: Race to Space: Lesson Plans/Activities ](https://www.nasa.gov/stem-ed-resources/race-to-space.html) (NASA.gov)**
-- **[Space Race Archive](https://www.nytimes.com/2021/09/28/learning/lesson-plans/explore-the-space-race-with-the-new-york-timess-archive.html) (New York Times)** 
-- **[History in a Nutshell: The Space Race](https://www.pbs.org/video/the-space-race-ju0k5e/) (PBS)** 
-- **[To the Moon Interviews](https://americanarchive.org/special_collections/to-the-moon) (AAPB)** 
-
+- **[NASA Stem Engagement: Race to Space: Lesson Plans/Activities ](https://www.nasa.gov/stem-ed-resources/race-to-space.html)**, NASA
+- **[Space Race Archive](https://www.nytimes.com/2021/09/28/learning/lesson-plans/explore-the-space-race-with-the-new-york-timess-archive.html)**, The New York Times
+- **[History in a Nutshell: The Space Race](https://www.pbs.org/video/the-space-race-ju0k5e/)**, PBS
 
 
 
 ## Youmayalsolike
-- special_collection,to-the-moon
+- special collection,to-the-moon
 
 ## Citation
 

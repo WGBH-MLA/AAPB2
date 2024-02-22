@@ -106,8 +106,8 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Black-Powe
 
 ## Youmayalsolike
 - exhibit,black-power
-- special_collection,say-brother
-- special_collection,soul-of-black-identity
+- special collection,say-brother
+- special collection,soul-of-black-identity
 
 
 ## Citation

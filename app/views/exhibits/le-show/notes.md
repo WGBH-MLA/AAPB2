@@ -1,6 +1,6 @@
 # Notes
 
-11
+12
 
 ## Summary
 
@@ -103,7 +103,7 @@
 <a name="49"></a><sup>49</sup> MTV 4th Annual New Year's Eve Rock N' Roll Ball Vidcheck (12/31/1984-01/01/1985),
 https://www.youtube.com/watch?v=ugfGqMpi2bE. 
 
-<a name="50"></a><sup>50</sup> Harry Shearer, *SNAP* (Saturday Night Alternative Pop), KCRW, January 5, 1985. Cassette listened to in Shearer's studio, Santa Monica, California, July 20, 2019.
+<a name="50"></a><sup>50</sup> Harry Shearer, *SNAP* (Saturday Night Alternative Pop), KCRW, January 2, 1985, https://americanarchive.org/catalog/cpb-aacip-cf9bfb1e949. Cassette listened to in Shearer's studio, Santa Monica, California, July 20, 2019.
 
 <a name="51"></a><sup>51</sup> Dennis McDougal, "On the Radio: NPR Mutiny over Lack of Bounty," *Los Angeles Times*, February 12, 1985, G1.
 
@@ -305,6 +305,6 @@ https://www.nola.com/entertainment_life/music/harry-shearer-to-narrate-peter-and
 <a name="147"></a><sup>147</sup> Paul Duggan, "Mississippi Keeps Its State Flag," *Washington Post*, April 18, 2001, https://www.washingtonpost.com/archive/politics/2001/04/18/mississippi-keeps-its-state-flag/0ad4a97e-946a-4e9b-8f62-bab6e6516424/.
 
 <a name="148"></a><sup>148</sup> "I've confessed to you many, many's the time when I occupied the Sunday morning slot on this station my insatiable and, from what I know about human life, unreasonable need for mail, incoming mail," Harry Shearer,  
-*SNAP* (*Saturday Night Alternative Pop*), KCRW, January 5, 1985.
+*SNAP* (*Saturday Night Alternative Pop*), KCRW, January 2, 1985.
 
 ## Main

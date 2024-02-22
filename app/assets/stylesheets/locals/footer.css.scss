@@ -107,7 +107,7 @@
                 }
 
                 ul.social a.footer-sprite {
-                        background-image:url(/site-ui/sprites.png);
+                        background-image:url(/site-ui/sprites.png?v=3);
                         background-size: auto 32px;
                 }
 
@@ -139,7 +139,14 @@
 
                 ul.social .podcast a {
                         background-position: -128px 0;
+                }
 
+                ul.social .mastodon a {
+                        background-position: -160px 0;
+                }
+
+                ul.social .reddit a {
+                        background-position: -192px 0;
                 }
 
                 ul.social a:hover {

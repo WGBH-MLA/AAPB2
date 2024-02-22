@@ -29,7 +29,7 @@ The videos included in this collection detail violent reactions to busing in Bos
 Before engaging with this resource set, students should be familiar with the following: 
 
 - The African American Civil Rights Movement
-- The Brown v. Board of Education Supreme Court decision and subsequent efforts to desegregate schools
+- The _Brown v. Board of Education_ Supreme Court decision and subsequent efforts to desegregate schools
 - How redlining policies contributed to segregated neighborhoods 
 
 <hr>
@@ -43,7 +43,7 @@ What caused the Boston busing crisis?
 #### General Discussion Questions
 
 - Why might the people in the videos suggest different causes of the Boston busing crisis? 
-- How was the Boston busing crisis connected to the Brown v. Board of Education decision?  
+- How was the Boston busing crisis connected to the _Brown v. Board of Education_ decision?  
 - What were the effects of the Boston busing crisis? Who was impacted? 
 - Why did Boston struggle to desegregate its schools? 
 
@@ -84,7 +84,7 @@ https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Busing-Bos
 - [**Busing & Beyond: School Desegregation in Boston**](https://dp.la/primary-source-sets/busing-beyond-school-desegregation-in-boston), Digital Public Library of America
 - [**Busing for School Desegregation**](https://www.bunkhistory.org/collections/z8bu5c), Bunk
 - [**Rethinking “Busing” in Boston**](https://americanhistory.si.edu/blog/rethinking-busing-boston), National Museum of American History
-- [**Busing and Desegregation 40 Years Later**](https://www.brandeis.edu/investigate/race-justice/busing-desegregation.html), Brandeis University
+- [**Busing and Desegregation 40 Years Later**](https://www.schusterinstituteinvestigations.org/busing-desegregation), Brandeis University
 
 ## Youmayalsolike
 - exhibit,education

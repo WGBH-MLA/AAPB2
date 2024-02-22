@@ -28,6 +28,8 @@ jetty
 # Coverage
 /coverage
 
+
+
 # ignore link check report
 /spec/support/link-check-report.txt
 
