@@ -51,7 +51,7 @@ In addition to exploring the founding of Black Studies, public broadcasting also
 - [](/catalog/cpb-aacip-293-vq2s46hp12)
 - [](/catalog/cpb-aacip-293-61rfjdrs)
 - [](/catalog/cpb-aacip-15-9s17ss5w)
-- [](/catalog/cpb-aacip-88-s46h12vq61)
+- [](/catalog/cpb-aacip-28-s46h12vq61)
 - [](/catalog/cpb-aacip-fb2cd765573)
 - [](/catalog/cpb-aacip-df0befbce31)
 - [](/catalog/cpb-aacip-1b389924a6a)
