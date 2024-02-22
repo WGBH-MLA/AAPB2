@@ -77,17 +77,33 @@ table.exhibit-image.med-image {
   margin-bottom: 6vh !important;
   padding-left: 35%;  
 }
-
-
 table.exhibit-image.med-image img {
   max-height: 20em;
   max-width: 20em;
-/*  margin-left: 65%;*/
   padding: 0;
 }
 table.exhibit-image.med-image caption {
-/*  margin-left: 90%;
-  width: 50%;*/
+
+  padding: 0;
+}
+
+table.exhibit-image.medlarge-image {
+  text-align: center;
+  display: inline-block;
+  min-width: 100%;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 6vh !important;
+  padding-left: 30%;  
+}
+table.exhibit-image.medlarge-image img {
+  min-width: 30em;
+  max-height: 30em;
+  max-width: 30em;
+  padding: 0;
+}
+table.exhibit-image.medlarge-image caption {
+
   padding: 0;
 }
 
