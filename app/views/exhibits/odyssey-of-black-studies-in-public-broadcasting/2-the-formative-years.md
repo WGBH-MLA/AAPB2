@@ -26,9 +26,9 @@ As national coverage of Black Studies increased, so too did criticism of the pro
 
 After the first five years of Black Studies rising across the nation, coverage of the programs began to wane with much now falling to local Black broadcasters in programming such as *Black Journal*, *Say Brother*, and *In Black America*. While the number of Black Studies programs continued to rise during the 1970s, reports on the programs switched from focusing on their founding and need, to examining the systemic barriers and structural issues these programs faced from their respective institutions. 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image medlarge-image">
 <caption align="bottom" class="exhibit-caption">"Take Back Your Mind, Part I," <em>Black Journal</em> (Thirteen WNET 1971)</caption>
-<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-62-1v5bc3t37z" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/takebackyourmind2.png" class="big-image" alt=""Take Back Your Mind Part I," *Black Journal* (Thirteen WNET 1971)"/></a></td></tr>
+<tr><td><a href="https://americanarchive.org/catalog/cpb-aacip-62-1v5bc3t37z" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/takebackyourmind2.png" class="big-image" alt="Take Back Your Mind Part I, *Black Journal* (Thirteen WNET 1971)"/></a></td></tr>
 </table>
 
 #### Next: [Black Students and Faculty in Higher Education](/exhibits/odyssey-of-black-studies-in-public-broadcasting/3-black-students-and-faculty-in-higher-education)

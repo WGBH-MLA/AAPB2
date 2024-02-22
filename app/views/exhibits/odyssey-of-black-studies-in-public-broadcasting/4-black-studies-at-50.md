@@ -10,7 +10,7 @@
 
 In 2019, Black Studies celebrated its fiftieth year in higher education. During this time, the movement’s impact has spread to many different fields beyond higher education. While it was established to serve marginalized people in the academic system, Black Studies has seen its influence spread to popular culture, politics, and K-12 education, and its scholars have become leaders and respected figures in other realms, such as environmental work, film and television, and much more. Black Studies structurally has allowed for those who specialize in its field to serve as reliable sources of information and clarity on topics of Black history and culture, and many public broadcasting programs, such as those discussed below, have utilized the work done in those classrooms to bring more diverse perspectives to their content.
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image medlarge-image">
 <caption align="bottom" class="exhibit-caption"><em>New Mexico In Focus</em>, "Incorporating Students’ Cultures in the Classroom" (New Mexico PBS, June 29, 2018).</caption>
 <tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/newmexicoinfocus.png" class="big-image" alt="<em>New Mexico In Focus</em>, "Incorporating Students’ Cultures in the Classroom”  (New Mexico PBS, June 29, 2018)."/></a></td></tr>
 </table>
@@ -19,7 +19,7 @@ In 2019, Black Studies celebrated its fiftieth year in higher education. During 
 
 This statewide news broadcast focused on how the presence of Ethnic Studies in public school classrooms has allowed educators to address the marginalization that students of color face daily. Hosting a panel discussion with different educational leaders in New Mexico from Indigenous, Latine, and Black communities, the program examined how cultural education initiatives spoke to the desires of students of color. From discussing dual-credit, Ethnic Studies courses offered to high school students, to statewide Ethnic Studies elective classes offered across the board in secondary education, educators showcased the accessibility students have had to cultural education revolving around their specific backgrounds and experiences. While praising the progress made to integrate Ethnic Studies more into school district curricula, the panelists also examined how Ethnic Studies has gained power beyond the classroom and must be utilized. Panelist Christopher Ramirez spoke on how “young people are hungry to talk about and take action on issues of equity and justice in their communities” and how the classroom can serve as the first space to begin those discussions with students.
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image medlarge-image">
 <caption align="bottom" class="exhibit-caption"><em>¡Colores!</em>, "Blackdom in New Mexico" (New Mexico PBS, February 25, 1997).</caption>
 <tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/andrewwall_blackdom.jpg" class="big-image" alt="<em>¡Colores!</em>, "Blackdom in New Mexico" (New Mexico PBS, February 25, 1997)"/></a></td></tr>
 </table>
@@ -32,7 +32,7 @@ Black Studies and art history collided in this episode of *¡Colores!*, a series
 
 This holiday episode of *A Taste of Louisiana*, a series exploring the cuisine of the state, examined the contributions of African Americans to Christmas-centric cuisine that is popular in Louisiana. The episode featured Black Studies scholar and food historian Jessica Harris, who provided important cultural details to the dishes prepared as a way to shine light on the history that has shaped Louisiana holiday delicacies. Tracing the roots of some of the dishes all the way back to the plantation and the writings of Solomon Northup in the seminal work *12 Years A Slave*, this episode served as a fusion of cultural entertainment television with Black scholarship to produce rich work that entertained audiences while also honoring Black history and tradition and showcasing it to Louisiana audiences. 
 
-<table class="exhibit-image half-image">
+<table class="exhibit-image medlarge-image">
 <caption align="bottom" class="exhibit-caption"><em>A Taste of Louisiana</em>, "After the Hunt" (Louisiana Public Broadcasting, December 9, 2010).</caption>
 <tr><td><a href="" target="_blank"><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/tasteoflouisiana.png" class="big-image" alt="<em>A Taste of Louisiana</em>, "After the Hunt" (Louisiana Public Broadcasting, December 9, 2010)"/></a></td></tr>
 </table>
