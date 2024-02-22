@@ -82,7 +82,7 @@ In the 1997 episode, [“Doctoral Study Is the Possible Dream for Black Students
 - [](/catalog/cpb-aacip-529-7659c6t81v)
 - [](/catalog/cpb-aacip-305-1289335k)
 - [](/catalog/cpb-aacip-305-89r22j6z)
-- [](/catalog/cpb-aacip/345-33dz0cv0)
+- [](/catalog/cpb-aacip-345-33dz0cv0)
 - [](/catalog/cpb-aacip-191-182jm7sh)
 - [](/catalog/cpb-aacip-17-89281hpg)
 - [](/catalog/cpb-aacip-3286ed6e25c)
