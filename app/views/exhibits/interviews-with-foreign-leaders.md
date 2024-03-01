@@ -40,7 +40,7 @@ In the following three exhibit sections, the interviews are arranged in three wa
 
 #### Next: [People](/exhibits/interviews-with-foreign-leaders/2-people)
 
-## Cover [CHANGE]
+## Cover
   <img title="Cover Image" alt="Collage of various foreign leaders." src="https://s3.amazonaws.com/americanarchive.org/exhibits/interviews3.png">
 
 ## Gallery
