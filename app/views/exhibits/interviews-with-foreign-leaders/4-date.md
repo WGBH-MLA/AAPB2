@@ -552,8 +552,8 @@ Ordered by first broadcast or recording date, this list includes interviews with
 
 ## Resources
   
-## Cover [CHANGE]
-  <img title="Cover Image" alt="Screenshot of the Can We All Get Along opening." src="https://s3.amazonaws.com/americanarchive.org/exhibits/canwegetalong.png">
+## Cover
+  <img title="Cover Image" alt="Photo collage of various foreign leaders." src="https://s3.amazonaws.com/americanarchive.org/exhibits/interviews4.png">
 
 ## Gallery
 
