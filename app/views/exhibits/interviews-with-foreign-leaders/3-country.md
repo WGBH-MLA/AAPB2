@@ -241,7 +241,7 @@ See also Yugoslavia
 ##### Charles Haughey (1925-2006), Prime Minister of Ireland, 1982; 1987-1992
 - [March 1, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-tm71v5c921?start=1612&end=2595) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 ##### Bertie Ahern (b. 1951), Prime Minister of Ireland, 1997-2008
--[March 17, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-hq3rv0dn59?start=887&end=1497) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+- [March 17, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-hq3rv0dn59?start=887&end=1497) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Enda Kenny (b. 1951), Prime Minister of Ireland, 2011-2017
 - [March 17, 2011, *PBS NewsHour*](https://americanarchive.org/catalog/cpb-aacip-525-0c4sj1bh43?start=2104&end=2427.25) | NewsHour Productions<br/>
 
@@ -372,7 +372,7 @@ See also Palestine
 #### Pakistan
 ##### Benazir Bhutto (1953-2007), Prime Minister of Pakistan, 1988-1990, 1993-1996
 - [December 16, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-696zw1978k?start=2339&end=3316) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
-- [April 10, 1995, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-pv6b27qn7p?start=2338&end=3416<br/>
+- [April 10, 1995, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-pv6b27qn7p?start=2338&end=3416)<br/>
 ##### Nawaz Sharif (b. 1949), Prime Minister of Pakistan, 1990-1993, 1997-1999, 2013-2017
 - [August 27, 2007, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-pg1hh6cx6m?start=2898&end=3381.5) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Pervez Musharraf (1943-2023), President of Pakistan, 2001-2008
