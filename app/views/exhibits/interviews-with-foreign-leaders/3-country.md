@@ -372,7 +372,7 @@ See also Palestine
 #### Pakistan
 ##### Benazir Bhutto (1953-2007), Prime Minister of Pakistan, 1988-1990, 1993-1996
 - [December 16, 1988, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-696zw1978k?start=2339&end=3316) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
-- [April 10, 1995, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-pv6b27qn7p?start=2338&end=3416)<br/>
+- [April 10, 1995, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-pv6b27qn7p?start=2338&end=3416) | NewsHour Productions<br/>
 ##### Nawaz Sharif (b. 1949), Prime Minister of Pakistan, 1990-1993, 1997-1999, 2013-2017
 - [August 27, 2007, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-pg1hh6cx6m?start=2898&end=3381.5) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 ##### Pervez Musharraf (1943-2023), President of Pakistan, 2001-2008
