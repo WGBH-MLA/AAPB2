@@ -13,11 +13,11 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 ### A
 
 #### Mahmoud Abbas (b. 1935), President of the State of Palestine, 2005-
--[October 21, 2005, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-pn8x922834?start=1708.19&end=2378.03) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+- [October 21, 2005, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-pn8x922834?start=1708.19&end=2378.03) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Abdullah II al-Hussein (b. 1962), King of Jordan, 1999-
--[May 10, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2804x55283?start=448&end=1365)  | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
--[December 5, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-3t9d50gf33?start=478&end=1377)  | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+- [May 10, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-2804x55283?start=448&end=1365)  | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+- [December 5, 2003, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-3t9d50gf33?start=478&end=1377)  | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Bertie Ahern (b. 1951), Prime Minister of Ireland, 1997-2008
 -[March 17, 2000, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-hq3rv0dn59?start=887&end=1497) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
