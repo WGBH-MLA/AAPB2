@@ -89,7 +89,7 @@ Ordered by first broadcast or recording date, this list includes interviews with
 - [January 24, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-804xg9g17h) | WNET and WETA<br/>
 ##### Anastasio Somoza (1925-1980), President of Nicaragua, 1967-1972, 1974-1979
 - [September 19, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-ks6j09ww8s) | WNET and WETA<br/>
-#### Willy Brandt (1913-1992), Chancellor of West Germany, 1969-1974
+##### Willy Brandt (1913-1992), Chancellor of West Germany, 1969-1974
 - [October 27, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-zc7rn3152m) | WNET and WETA<br/>
 ##### Ayatollah Ruhollah Khomeini (1900 or 1902-1989), Supreme Leader of Iran, 1979-1989
 - [December 1, 1978, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-f18sb3xj3q) | WNET and WETA<br/>
