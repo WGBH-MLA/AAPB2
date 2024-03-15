@@ -404,6 +404,7 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 #### Julius Nyerere (1922-1999), President of the Tanganyika African National Union, 1954-1990; Prime Minister of Tanganyika, 1961-1962; President of Tanganyika, 1962-1964; President of Tanzania, 1964-1985
 - [March 13, 1960, *Prospects of Mankind with Eleanor Roosevelt*, “Africa: Revolution in Haste”](https://americanarchive.org/catalog/cpb-aacip-15-09w0w2sd) | WGBH<br/>
 - [May 25, 1970, *Black Journal*](https://americanarchive.org/catalog/cpb-aacip-512-b853f4mj3k?start=2049.16&end=3392.14) | NET<br/>
+
 ***
 ### O
 
@@ -553,6 +554,7 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 
 #### Boris Yeltsin (1931-2007), President of Russia, 1991-1999
 - [September 11, 1989, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-qb9v11w99q?start=1393.91&end=2856.23) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+
 ### Z
 
 #### Ernesto Zedillo (b. 1951), President of Mexico, 1994-2000
