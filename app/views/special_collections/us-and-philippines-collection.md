@@ -32,7 +32,7 @@ In 1984, the Corporation for Public Broadcasting (CPB) invited journalist and hi
 - [Philippines Image Collection, University of Wisconsin](https://search.library.wisc.edu/digital/AWIPhilippine)
 - [Philippine Archives Collection, National Archive](https://www.archives.gov/research/military/ww2/philippine)
 - [Philippine Photographs Digital Archive, University of Michigan](https://quod.lib.umich.edu/s/sclphilimg)
-- [Philippine early history] https://www.lib.umich.edu/collections/collecting-areas/special-collections-and-archives/philippine-history
+- [Philippine early history](https://www.lib.umich.edu/collections/collecting-areas/special-collections-and-archives/philippine-history)
 
 ## Help
 
@@ -47,4 +47,3 @@ Records are described at an item level and all records contain brief description
 ## Sort
 
 asset_date+asc
-![image](https://github.com/WGBH-MLA/AAPB2/assets/38049679/83a7935c-23b5-410c-ad7f-bb522b31a0c2)
