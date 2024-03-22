@@ -223,7 +223,7 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 
 #### Rafiq Hariri (1944-2005), Prime Minister of Lebanon, 1992-1998, 2000-2004
 - [September 28, 1993, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-ff3kw5890x?start=2629&end=3381) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
-- [April 16, 2002, *The NewsHour with Jim Lehrer](https://americanarchive.org/catalog/cpb-aacip-507-b27pn8z21h?start=1457.4&end=2223.44) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
+- [April 16, 2002, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-b27pn8z21h?start=1457.4&end=2223.44) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
 
 #### Ryutaro Hashimoto (1937-2006), Prime Minister of Japan, 1996-1998
 - [April 28, 1997, *The NewsHour with Jim Lehrer*](https://americanarchive.org/catalog/cpb-aacip-507-mc8rb6ws0t?start=2110&end=2789) | MacNeil/Lehrer Productions & WETA, in association with Thirteen/WNET<br/>
@@ -479,7 +479,7 @@ Ordered alphabetically by last name of interviewee, this list includes interview
 #### Helmut Schmidt (1918-2015), Chancellor of West Germany, 1974-1982
 - [January 23, 1975, *Bill Moyers Journal: International Report*](https://americanarchive.org/catalog/cpb-aacip-3e634de1b59) | WNET<br/>
 - [November 12, 1987, *War and Peace in the Nuclear Age* interview](https://americanarchive.org/catalog/cpb-aacip-15-6d5p843v5p) | WGBH<br/>
-- [February 21, 1990, *The MacNeil/Lehrer NewsHour](https://americanarchive.org/catalog/cpb-aacip-507-9g5gb1z37d?start=485&end=1614) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
+- [February 21, 1990, *The MacNeil/Lehrer NewsHour*](https://americanarchive.org/catalog/cpb-aacip-507-9g5gb1z37d?start=485&end=1614) | WNET/WETA & MacNeil/Lehrer Gannett Productions<br/>
 
 #### Edward Seaga (1930-2019), Prime Minister of Jamaica, 1980-1989
 - [January 28, 1981, *The MacNeil/Lehrer Report*](https://americanarchive.org/catalog/cpb-aacip-507-s17sn0207p) | WNET and WETA<br/>
