@@ -2,7 +2,7 @@
 
 1
 
-EXHIBIT MAP GOES HERE – UPDATE!
+<iframe src="https://www.google.com/maps/d/edit?mid=1zmflxpjGaNeBRAoT8lTWZJiE5v4xom4&ll=35.57977808310777%2C-120.35441470314015&z=4" width="640" height="480"></iframe>
 
 ## Summary
 
