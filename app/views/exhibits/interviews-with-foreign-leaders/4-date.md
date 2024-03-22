@@ -709,6 +709,14 @@ Ordered by first broadcast or recording date, this list includes interviews with
 #### Next: [Notes](/exhibits/interviews-with-foreign-leaders/notes)
 
 ## Resources
+
+- [Joint Meeting & Joint Session Addresses Before Congress by Foreign Leaders & Dignitaries (U.S. House of Representatives)](https://history.house.gov/Institution/Foreign-Leaders/Joint-Sessions/)
+- [Visits by Foreign Leaders (U.S. Department of State)](https://history.state.gov/departmenthistory/visits)
+- [World Leaders – Historical Data (CIA)](https://www.cia.gov/resources/world-leaders/historical-data/)
+- [World Leaders (Encyclopedia Britannica)](https://www.britannica.com/browse/World-Leaders)
+- [Country Studies (Library of Congress)](https://www.loc.gov/collections/country-studies/about-this-collection/)
+- [PBS NewsHour Collection (AAPB)](https://americanarchive.org/special_collections/newshour)
+
   
 ## Cover
   <img title="Cover Image" alt="Photo collage of various foreign leaders." src="https://s3.amazonaws.com/americanarchive.org/exhibits/interviews4.png">
